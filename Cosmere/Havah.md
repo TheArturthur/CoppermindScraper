@@ -1,78 +1,76 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Havah**|
 |-|-|
 ||
-|**Relacionado con**|🐱︎|
-|**Tipo**|Ropa|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Vorinism\|Vorinism]]|
+|**Type**|Garment|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-La **havah** es un vestido tradicional [[Vorinismo\|vorin]] de [[Roshar\|Roshar]] que se ajusta al busto, los hombros y la cintura, y tiene una falda fluida. Se abotona a los lados, y la manga izquierda es más larga que la otra para cubrir completamente la [[Mano segura\|mano segura]]. Dicha manga también puede contener un bolsillo, conocido como bolsa segura, que puede utilizarse para guardar [[Esferas\|esferas]] valiosas u otros objetos personales pequeños. Suelen estar hechas de seda en colores brillantes.
+A **havah** is a traditional [[Vorin\|Vorin]] dress on [[Roshar\|Roshar]]. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt. It is buttoned up the sides, and the left sleeve is longer than the other in order to fully cover the [[Safehand\|safehand]]. Said sleeve can also contain a pouch, known as a safepouch, that can be used for storing valuable [[Spheres\|spheres]] or other small personal items. They are often made of silk in bright colors. 
 
-## Sumario
+## Contents
 
-1 Corte. [[#Corte]] 
-2 Bordados. [[#Bordados]] 
-3 Dobladillo reemplazable. [[#Dobladillo reemplazable]] 
-4 Imágenes. [[#Im.C3.A1genes]] 
-5 Vestidos de novia. [[#Vestidos de novia]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas del traductor. [[#Notas del traductor]] 
-8 Notas. [[#Notas]] 
-
-
-## Corte
->“*El corte de una havah es similar al de un , con mangas completas y caída desde las caderas. Debajo de la falda exterior con aberturas hay muchas capas finas, como de seda delgada, que se entrelazan para crear una especie de efecto acordeón. Esto permitiría (¿creo?) que el vestido cayera en un ángulo pronunciado desde la cadera cuando está quieto, a la vez que se puede expandir para permitir un rango completo de movimiento de las piernas. Los botones van desde la garganta hasta la cintura, siguiendo una línea desde la mandíbula hasta la clavícula, curvándose para seguir el busto y luego la línea del torso. No creo que haya una regla para el número de botones, pero en caso de duda recuerda que el "10" es significativo para la cultura. Los botones/broches chinos son legítimos, creo.*”
-\-Ben McSweeney sobre el corte de las havah[4]
+1 Cut. [[#Cut]] 
+2 Embroidery. [[#Embroidery]] 
+3 Replacement hem. [[#Replacement hem]] 
+4 Images. [[#Images]] 
+5 Bridal Gowns. [[#Bridal Gowns]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Bordados
->“*Los alezi no hacen tanto lo de las flores... Los patrones florales no son propios de los alezi. Así que verás muchos diseños y tramas. Puede que te parezcan un poco árabes. O los glifos y cosas así los verás trabajados pero muy estilizados.*”
-\-Brandon Sanderson sobre los bordados[NdT 1]
+## Cut
+>“*The cut of a havah is similar to a , with full sleeves and falling from the hips. Beneath the slitted outer skirt are many thin layers like fine silk which interweave to create a sort of accordion effect. This would (I think?) allow the dress to fall at a sharp angle from the hip when still, while expanding to allow a full range of leg movement. The buttons run from the throat down to the waist, following a line from the jaw down to the collarbone, curving out to follow the bust and then down the line of the torso. I don't think there's a rule for the number of buttons, but when in doubt remember that "10" is significant to the culture. Frog buttons are legit, I think.*”
+\-Ben McSweeney on havah's cut[4]
 
 
-## Dobladillo reemplazable
-El dobladillo reemplazable sería una pieza continua unida a la enagua. Esta pieza del dobladillo no es fácil de cambiar, por lo que probablemente esté cosida y no sujeta con botones o algún otro cierre sencillo. Sin embargo, es una operación lo suficientemente sencilla como para que se haga con relativa frecuencia. Debido a la dificultad de encontrar una tela que coincida exactamente con algo comprado en otro momento o lugar, la gente suele comprar dobladillos de repuesto en colores contrastados.
+## Embroidery
+>“*Alethi's don't do the flower thing as much... It's not really an Alethi thing, floral patterns. So you are seeing a lot of designs and hatchings. They may look a little Arabic to you. Or the glyphs and things like that you will see worked in but very stylized.*”
+\-Brandon Sanderson on embroidery[5]
 
-## Imágenes
+
+## Replacement hem
+The replaceable hem would be a continuous piece attached to the underskirt. This hem piece is not easy to change, so it is probably sewn on and not attached with buttons or some other simple fastener. It is a simple enough operation that it is done with relative frequency, however. Due to the difficulty in finding fabric that is an exact match for something bought another time or place, people often purchase replacement hems in contrasting colors.
+
+## Images
 
 Images of Havahs
 
 
 
- Jasnah, Shallan, y Navani vistiendo havahs
+ Jasnah, Shallan, and Navani wearing havahs
 
 
 
 
 
- Shallan vistiendo una havah
+ Shallan wearing a havah
 
 
 
 
 
- Navani vistiendo una havah
+ Navani wearing a havah
 
 
 
 
 
- Havah enseñando la manga de la mano segura
+ Havah displaying safehand sleeve
 
 
 
 
 
- [[Inkima\|Inkima]] visitendo una havah
+ Havah worn by [[Inkima\|Inkima]]
 
 
 
 
 
-Diseños de havah
+Havah designs
 
 
 
@@ -82,45 +80,26 @@ Diseños de havah
 
 
 
-## Vestidos de novia
->“*Su vestido de color zafiro era al estilo antiguo, con mangas larguísimas que se extendían mucho más allá de sus manos. Rubíes cosidos en el bordado que brillaban con luz adicional. Una capa dorada sobre los hombros, a juego con el complejo tocado que llevaba entretejido con sus trenzas.*”
-\-Vestido de novia de Shallan Davar[6]
+## Bridal Gowns
+>“*Her sapphire gown was of an ancient style, with twin drooping sleeves that went far beyond her hands. Small rubies woven into the embroidery glowed with a complementary light. A golden vest draped over the shoulders, matched by the ornate headdress woven into her braids.*”
+\-Shallan Davar's bridal gown[7]
 
 
-El vestido de novia vorin es una variante de la havah. Es probablemente una versión más antigua de lo que ahora se acepta como el diseño tradicional. Se han descrito dos vestidos de novia vorin:
-La [[Luz tormentosa\|luz tormentosa]] de los rubíes aporta el "rojo de la suerte" al vestido de Shallan. El uso del azul indica que a las novias vorin se les permite más de una opción de color en un vestido de novia tradicional.
+The Vorin wedding gown is a variation of a havah. It is likely an older version of what is now accepted as the traditional havah design. Two Vorin wedding gowns have been described:
+The red light from the rubies' [[Stormlight\|Stormlight]] brings the "red for luck" to Shallan's gown. Using blue for Shallan's wedding gown indicates that Vorin brides are allowed more than one color option in a traditional wedding dress.
 
->“*Era rojo para que diera suerte, con bordados de oro y mucho más suelto que la havah, con amplias mangas y una elegante caída.*”
-\-Vestido de novia de Navani Kholin[7]
+>“*Red, for luck, it was embroidered with gold and shaped much looser style than the havah, with wide sleeves and a graceful drape.*”
+\-Navani Kholin's bridal gown[8]
 
-La corona nupcial suele acompañar al vestido de novia, y la novia la lleva como tocado en las ceremonias nupciales de la tradición vorin. El pelo se lleva trenzado para la ocasión. Las piezas se fijan al pelo. Actualmente sólo existen dos descripciones:
-
-
-
-Ni el jade ni la turquesa están asociados al [[Moldear almas\|moldeado de almas]]. No son [[Piedrabase\|piedrabases]], que son capaces de contener [[Luz tormentosa\|luz tormentosa]] de forma natural.
-
-## Curiosidades
-El vestido de novia vorin se inspira probablemente en los trajes de novia chinos tradicionales, que suelen tener un corte mucho más holgado que el qipao o , los vestidos tradicionales más ajustados. Los vestidos de novia suelen estar cubiertos de bordados dorados con diseños que pretenden representar la suerte y otras bendiciones para la pareja.
-La corona nupcial vorin se inspira probablemente en las , o coronas de fénix, que llevan las novias en las ceremonias tradicionales chinas. El jade y la turquesa se asocian a la suerte en muchas culturas de la Tierra, incluidas China y el Tíbet.
-## Notas del traductor
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+A bridal crown typically accompanies the wedding gown, and is worn by the bride as a headpiece for the wedding ceremonies in the Vorin tradition. Hair is worn braided for the occasion. The pieces are secured to the hair. Currently only two descriptions are available:
 
 
 
-https://es.coppermind.net/wiki/Havah
+Neither jade nor turquoise is associated with [[Soulcasting\|Soulcasting]]. They are not [[Polestone\|polestones]], which are capable of naturally holding [[Stormlight\|Stormlight]].
+
+## Trivia
+The Vorin bridal dress is likely inspired by traditional Chinese wedding gowns, which are often much looser in cut than a qipao or  – the more fitted traditional dresses. The wedding gowns are often covered in gold embroidery with designs that are meant to represent luck and other blessings for the couple.
+The Vorin bridal crown is likely inspired by the , or Phoenix crowns, worn by brides in traditional Chinese wedding ceremonies. Jade and turquoise are both associated with luck in many Earth cultures, including in China and Tibet.
+
+
+https://coppermind.net/wiki/Havah

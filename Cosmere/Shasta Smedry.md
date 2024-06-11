@@ -1,16 +1,16 @@
 |**Shasta Smedry**|
 |-|-|
 ||
-|****|
-|**Cónyuge**|[[Attica Smedry\|Attica]]|
-|**Hijos**|[[Alcatraz Smedry\|Alcatraz]]|
-|**Capacidades**|[[Bibliotecario\|Bibliotecario]], [[Talento Smedry\|Talento Smedry]]|
-|**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Presentado en**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
+|**[[House Smedry\|House Smedry]]**|
+|**Spouse**|[[Attica Smedry\|Attica]]|
+|**Children**|[[Alcatraz Smedry\|Alcatraz]]|
+|**Abilities**|[[Librarian\|Librarian]], [[Smedry Talent\|Smedry Talent]]|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
 
-**Shasta Smedry** (aka **Ms. Fletcher**) is a . She married [[Attica Smedry\|Attica Smedry]], gaining his  for losing things, and is [[Alcatraz Smedry\|Alcatraz]]'s mother.
+**Shasta Smedry** (aka **Ms. Fletcher**) is a [[Librarian\|Librarian]]. She married [[Attica Smedry\|Attica Smedry]], gaining his [[Smedry Talent\|Talent]] for losing things, and is [[Alcatraz Smedry\|Alcatraz's]] mother.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -30,20 +30,12 @@ Shasta also demonstrates considerable skill at sleight of hand on multiple occas
 
 ## History
 Shasta married Attica Smedry, despite the objections of Attica's father [[Leavenworth Smedry\|Leavenworth]], who believed she was only manipulating Attica to get his Talent. Together, Attica and Shasta researched the origins of Smedry Talents and the Sands of Rashid. Shasta gave birth to Alcatraz in Nalhalla and shortly after, she and Attica separated.
-After Alcatraz's birth, Shasta left with him for the  and acted as his caseworker, Ms. Fletcher, keeping her true identity secret from him. On his thirteenth birthday, she arrived to steal the , which had arrived for him earlier that day. A few months later, she found out through an unknown means that Attica had gone to the Library of Alexandria. Shasta notified Leavenworth and pursued Attica to the Library herself, claiming his .
-Shasta brought the Lenses to [[Nalhalla\|Nalhalla]], where she plotted to steal a book from the Nalhallan  using Transporter's Glass. The Lenses were taken by Alcatraz, but she managed to retain possession of the book, which she later burned. She was captured by the Mokians during the , and stayed there willingly until she left with Alcatraz, Leavenworth, [[Kazan Smedry\|Kaz]], and [[Draulin\|Draulin]] for the . There, she was knocked out by Attica.
+After Alcatraz's birth, Shasta left with him for the [[Hushlands\|Hushlands]] and acted as his caseworker, Ms. Fletcher, keeping her true identity secret from him. On his thirteenth birthday, she arrived to steal the [[Sands of Rashid\|Sands of Rashid]], which had arrived for him earlier that day. A few months later, she found out through an unknown means that Attica had gone to the Library of Alexandria. Shasta notified Leavenworth and pursued Attica to the Library herself, claiming his [[Translator's Lenses\|Translator's Lenses]].
+Shasta brought the Lenses to [[Nalhalla\|Nalhalla]], where she plotted to steal a book from the Nalhallan [[Royal Archives (Not a Library!)\|Royal Archives (Not a Library!)]] using Transporter's Glass. The Lenses were taken by Alcatraz, but she managed to retain possession of the book, which she later burned. She was captured by the Mokians during the [[Siege of Mokia\|Siege of Mokia]], and stayed there willingly until she left with Alcatraz, Leavenworth, [[Kazan Smedry\|Kaz]], and [[Draulin\|Draulin]] for the [[Highbrary\|Highbrary]]. There, she was knocked out by Attica.
 
 ## Trivia
 Her first name is likely a reference to  in California. The name Fletcher is likely a reference to  in the Rocky Mountains.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] ·  · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
 
 
-
-https://es.coppermind.net/wiki/Shasta_Smedry
+https://coppermind.net/wiki/Shasta_Smedry

@@ -1,11 +1,11 @@
 |**Briggen**|
 |-|-|
 ||
-|**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Lux (book)\|Lux]]*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Lux (book)\|Lux]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Girls at the Coop looked at him with dreamy eyes and smiled too much when they talked to him.*”
 \-Jax’s description of Briggen[1]
@@ -13,7 +13,7 @@
 
 **Briggen** is part of the Texas [[Reckoners\|Reckoner]] cell. During the infiltration of Lux, Briggen betrays his fellow Reckoners to [[Lifeforce\|Lifeforce]] in exchange for an easy and luxurious life.
 
-## Sumario
+## Contents
 
 1 History. [[#History]] 
 
@@ -49,17 +49,6 @@ Briggen took part in the infiltration of Lux. He and the other Texas Reckoners c
 When Briggen was captured by the Ravens and held in Lifeforce’s palace, he and Lifeforce made a deal. Briggen betrayed his friends, telling Lifeforce about their plans and agreeing to lead his friends into a trap. The other Reckoners send Briggen a coded message through his broken Boomerang watch, and he responds, telling them to hurry to Lifeforce’s palace and to bring the mitosis motivator. They arrive at the palace, and Briggen pretended that he had just escaped his guards. He joins the others as they rush into the throne room to confront Lifeforce. Jax tries to use the mitosis motivator to kill Lifeforce, but [[Languish\|Languish]] was able to dampen the motivator due to Briggen’s prior warning. Hundreds of Ravens flooded into the room and surrounded the Reckoners, and Briggen revealed his betrayal to his fellow Reckoners. Lifeforce thanks Briggen, then slashes a long gash through his torso. Lifeforce uses his powers to heal Briggen, announcing him as his newest Raven. The other Reckoners ask why he betrayed them, but Briggen couldn’t meet their eyes because of his shame.
 After the other Reckoners were captured by Lifeforce, Briggen went to his new house, which was large and luxurious. He grilled a prime steak, but was soon overwhelmed by guilt and shame for what he had done. He realized that even Lifeforce was helping other people by creating a floating paradise, while Briggen was only looking out for himself. Briggen, horrified at his actions, vomited all over his steak.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] ·  · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Briggen
+https://coppermind.net/wiki/Briggen

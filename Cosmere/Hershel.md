@@ -1,21 +1,21 @@
 |**Hershel Black**|
 |-|-|
 ||
-|**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Lux (book)\|Lux]]*|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Lux (book)\|Lux]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*But there’s nothing that you or anyone else on this dying marble can offer me to get me to betray my family. Nothing. I’m theirs to the end, until I die or they die. And I ain’t going to be the one to let another one go.*”
 \-Hershel to Languish[1]
 
 
-**Hershel Black** is a [[Reckoners\|Reckoner]] and is a demolitions expert. He is part of the group that invades the city of . He has a prosthetic metal leg, which he claims is his “good leg”.
+**Hershel Black** is a [[Reckoners\|Reckoner]] and is a demolitions expert. He is part of the group that invades the city of [[Lux (city)\|Lux]]. He has a prosthetic metal leg, which he claims is his “good leg”.
 Hershel refuses to share the story of how he lost his leg with any other Reckoners until they guess it. In the end, it is [[Languish\|Languish]] who correctly guesses that Hershel got trapped and cut it off himself.
 
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
@@ -68,7 +68,7 @@ Hershel once had an assignment where he and his squad had to go the Cameron Park
 \-Jax on the subject of how Hershel lost his leg.[9]
 
 
-Thirteen years prior to the events at Lux, Hershel and his squad, named [[Delta Squadron\|Delta Squadron]], were given an assignment in Siberia. They were tasked with stealthily approaching a Russian satellite and hacking it, and they were dropped off a long distance away from the target. On their second night, , the bright red star in the sky, began glowing brighter than normal and pulsing. , a young member of Delta Squadron, collapsed and began spasming and muttering to himself. He fell into a coma, leaving Hershel and the others unsure of what to do. Later that night Jackson awoke, and when Hershel asked him questions, he refused to answer. Jackson said he didn’t take orders from Hershel or anyone else, claiming that he was “free”. Hershel gave the order to attack the facility in the morning, disturbed by Jackson’s actions.
+Thirteen years prior to the events at Lux, Hershel and his squad, named [[Delta Squadron\|Delta Squadron]], were given an assignment in Siberia. They were tasked with stealthily approaching a Russian satellite and hacking it, and they were dropped off a long distance away from the target. On their second night, [[Calamity (Epic)\|Calamity]], the bright red star in the sky, began glowing brighter than normal and pulsing. [[Steelheart (Epic)\|Paul Jackson]], a young member of Delta Squadron, collapsed and began spasming and muttering to himself. He fell into a coma, leaving Hershel and the others unsure of what to do. Later that night Jackson awoke, and when Hershel asked him questions, he refused to answer. Jackson said he didn’t take orders from Hershel or anyone else, claiming that he was “free”. Hershel gave the order to attack the facility in the morning, disturbed by Jackson’s actions.
 They made their attack on the satellite the next morning, but things went wrong and the guards were alerted. Jackson revealed Epic powers, blasting the guards with yellow energy blasts. He started shooting energy blasts at the satelitte, and vaporized one of his squad mate’s arm in the process. The members of Delta Squad, horrified and afraid, threatened Jackson and leveled their guns at him. When they opened fire on him, the bullets doing no damage, Jackson killed all of Delta Squadron. All but Hershel, the only one who hadn’t opened fire. Sparing Hershel, Jackson flew off, blowing up the Russian facility with energy blasts as he went.
 Hershel ran, but a chunk of debris hit him in the head, knocking him out. When he awoke, everything around him had been turned to steel by Jackson’s powers. Hershel was trapped, his leg encased in steel up to his leg. Knowing he had to make it to the extraction point but completely trapped, Hershel used his belt as a tourniquet and cut off his own leg with his knife. He passed out, and was later rescued by a helicopter flying over the area.
 
@@ -89,17 +89,6 @@ Hershel and Jax have a good friendship, largely built around the [[Bucket Book\|
 ### Wife
 Hershel had a wife at some point, whose name is not known. She doesn’t like him having to leave on missions without warning. Hershel can’t tell her what he does during his missions, but she is smart enough and knows him well enough to get the general idea.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] ·  · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Hershel
+https://coppermind.net/wiki/Hershel

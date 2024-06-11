@@ -1,96 +1,82 @@
-
-
 |**Kenton**|
 |-|-|
 ||
-|**Padres**|[[Praxton\|Praxton]], [[Madre de Kenton\|madre]]|
-|**Capacidades**|[[Maestr%C3%ADa de la arena\|Maestro de la arena]]|
-|**Títulos**|[[/wiki/Taishin#Lord mastrell]]|
-|**Grupo**|[[Diem\|Diem]]🐱︎, [[Taishin\|Taishin]]🐱︎|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+|**Parents**|[[Praxton\|Praxton]], [[Kenton's mother\|mother]]|
+|**Abilities**|[[Sand mastery\|Sand master]]|
+|**Titles**|[[/wiki/Taishin#The Lord Mastrell]]|
+|**Groups**|[[Diem\|Diem]], [[Taishin\|Taishin]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
+> [!info] This page or section needs to be updated with new information for *[[White Sand\|White Sand]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Kenton** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]] medio [[Oscurense\|oscurense]], medio [[Lossand\|lossandino]], en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]]. Kenton es el actual [[/wiki/Taishin#El lord mastrell]] del [[Diem\|Diem]].
+**Kenton** is a half-[[Darkside\|Darksider]], half-[[Lossand\|Lossandin]] [[Sand mastery\|sand master]] from [[Lossand\|Lossand]], on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. Kenton is the current [[/wiki/Taishin#The Lord Mastrell]] of the [[Diem\|Diem]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Maestr.C3.ADa de la arena]] 
-2. [[#Lucha con espadas]] 
-
-
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-3. [[#La Senda del Mastrell]] 
-3. [[#Batalla contra los kerztianos]] 
-3. [[#Lord mastrell en funciones]] 
-3. [[#Obtenci.C3.B3n de apoyo]] 
+2. [[#Sand Mastery]] 
+2. [[#Sword Fighting]] 
 
 
-4 Notas. [[#Notas]] 
+3 History. [[#History]] 
+
+3. [[#Early Life]] 
+3. [[#The Mastrell.27s Path]] 
+3. [[#Battle Against Kerztians]] 
+3. [[#Acting Lord Mastrell]] 
+3. [[#Securing Support]] 
 
 
-## Apariencia y personalidad
-  Utilizando la <<Maestr%C3%ADa de la arena\|maestría de la arena>>
-Kenton tiene el pelo rubio dorado y la tez ligeramente morena debido a su herencia medio oscurense. Sus ojos son naturalmente azules. Sin embargo, cuando utiliza toda la potencia de sus poderes de maestría de la arena, sus ojos brillan con una luz dorada y sus pupilas parecen contraerse o desaparecer, dejando sólo el blanco de sus iris.
-Kenton ha vivido gran parte de su vida desafiando a la autoridad. Lo ha hecho tan a menudo que a veces desafía instintivamente a los demás con el único propósito de desafiar a la autoridad, sin un objetivo mayor en mente.
+4 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-### Maestría de la arena
-Desde su infancia, Kenton ha sido un maestro de la arena extremadamente débil, capaz de controlar únicamente una cinta de arena. Pierde su habilidad, posiblemente como resultado de [[/wiki/Maestr%C3%ADa de la arena#Sobredominio]], pero más tarde la recupera y es más poderoso, logrando controlar hasta tres cintas en vez de una. Después de esto, Kenton intenta aumentar sus habilidades sobredominando deliberadamente, lo que con el tiempo le permite controlar cinco cintas. Kenton es excepcionalmente hábil con una sola cinta, capaz de utilizarla con una velocidad y precisión inigualables por ningún otro maestro de la arena.
 
-### Lucha con espadas
-Kenton es hábil con la espada, ya que su debilidad con la arena le lleva a entrenarse con los guardias de la [[Torre (Taldain)\|Torre]].
+## Appearance and Personality
+  Using <<Sand mastery\|sand mastery>>
+Kenton has golden blonde hair and a slightly tan-to-brown complexion, as a result of his half-Darksider heritage. Kenton's eyes are naturally blue. However, when he uses the full might of his sand mastery powers, his eyes glow with a golden light and his pupils seem to contract or disappear, leaving only the white of his irises.
+Kenton has lived much of his life challenging authority. He has done it so often that he sometimes instinctively challenges others for the sole purpose of challenging authority, without a greater goal in mind.
 
-## Historia
-### Vida temprana
-Kenton es el hijo menor de lord mastrell [[Praxton\|Praxton]]. A pesar de que ninguno de sus hermanos había mostrado habilidad alguna para dominar la arena, Kenton, que entonces tenía diez años, intentó unirse al Diem. Fue el último de su grupo en someterse a la prueba y apenas consiguió ennegrecer su arena. Praxton intentó impedir que Kenton entrara en el Diem diciéndole que no tenía talento para la maestría, pero Kenton discutió con él, alegando que la ley dicta que su habilidad es suficiente. A regañadientes, Praxton permitió que su hijo se uniera al Diem.
-Kenton sólo era capaz de controlar una cinta, y se entrenó para llegar a ser extremadamente hábil en el uso de esta. Rechazó cuatro veces el ascenso al rango inferior de infrafen, ya que aceptarlo significaría quedar relegado a ese rango de forma permanente.
+## Attributes and Abilities
+### Sand Mastery
+Since childhood, Kenton has been an extremely weak sand master, only being able to control one ribbon of sand. He loses his ability, possibly as a result of [[Overmastery\|overmastery]], but later regains them, and is more powerful, controlling three ribbons not just one. Following this, Kenton attempts to increase his abilities by deliberately overmastering, which eventually allows him to control five ribbons. Kenton is exceptionally skilled with a single ribbon capable of using it with a speed and precision unmatched by any other sand master.
 
-### La Senda del Mastrell
-  Kenton luchando contra un <<Cavadizo\|cavadizo>>
-Cuando tenía dieciocho años, insistió en hacer la [[Senda del Mastrell\|Senda del Mastrell]] para demostrar que podía hacer cualquier cosa que hiciera un mastrell y que, por tanto, merecía ser elevado a ese rango. Antes de recorrer la Senda, Praxton ofreció a Kenton ascender a un rango ligeramente superior, el de fen, si no recorría la Senda. Kenton rechazó la oferta de su padre y, mientras emprendía la Senda, mató al guardián [[Cavadizo\|cavadizo]], algo que se creía imposible, destruyendo la Senda para siempre.
-Tras la hazaña de Kenton durante la Senda, su padre se enfureció y volvió a ofrecer a Kenton el rango de infrafen. Kenton volvió a negarse y Praxton le concedió el título de mastrell. Le explicó que el resto del Diem le odiaría por ello.
+### Sword Fighting
+Kenton is skilled with a sword, his weakness with sand leading him to train with the [[Tower (Taldain)\|Tower's]] guards.
 
-### Batalla contra los kerztianos
-Durante la Ceremonia de la Ascensión, un grupo de [[DaiKeen\|sacerdotes-guerreros]] [[Kerzta\|kerztianos]] lanzó un ataque sorpresa contra el acto. Kenton, que también había sido formado en artes marciales, dirigió a un grupo de maestros de la arena para defenderse del ataque. Finalmente fracasó y fue sepultado por la arena por el acto final de Praxton, que puso fin bruscamente a la batalla. Los kerztianos mataron prácticamente a todos, lo que hizo creer a Kenton que era el único superviviente.
-Fue encontrado herido y deshidratado por [[Khriss\|Khriss]] y su grupo. Cuando le reanimaron con agua, Kenton aceptó ser su guía y les acompañó a la ciudad de [[Kezare\|Kezare]]. Mientras estaba en su compañía, mantuvo en secreto su maestría de la arena. Por el camino se detuvieron en un puesto de avanzada kerztiano, donde Kenton hizo intercambios por suministros. Allí se enteró de que había otros supervivientes del ataque. Cuando abandonaron el puesto de avanzada, descubrió que ya no podía usar la maestría de la arena cuando un grupo de sacerdotes-guerreros kerztianos atacó a su grupo.
+## History
+### Early Life
+Kenton is the youngest son of Lord Mastrell [[Praxton\|Praxton]]. Despite none of his siblings having showed any ability to master sand, Kenton, ten years old at the time, attempted to join the Diem. He was the last in his group to be tested and barely managed to turn his sand black. Praxton tried to stop Kenton from entering the Diem telling him that he had no talent for mastery, but Kenton argued with him, saying that the law says he has enough. Reluctantly, Praxton allowed his son to join the Diem.
+Kenton was only able to control one ribbon, and trained himself to become extremely skilled at using a single ribbon of sand. He refused advancement to the lowest rank of underfen four times, since accepting it would mean being relegated to that rank permanently.
 
-### Lord mastrell en funciones
-Se separó de Khriss tras llegar a Kezare. Se dirigió al Diem, donde [[Dirin\|Dirin]] lo encontró y le informó de que [[Drile\|Drile]], el maestro de la arena de mayor rango, hablaba en nombre del [[Diem\|Diem]] ante los [[Taishin\|taishin]]. Kenton se dirigió inmediatamente a ellos para argumentar en contra de lo que creía que era el nombramiento de Drile como lord mastrell. Mientras iba hacia allí, descubrió que había recuperado la capacidad de dominar la arena y, sorprendentemente, ahora podía controlar tres cintas. Kenton fue nombrado lord mastrell en funciones, ya que era la única persona superviviente que ostentaba el título de mastrell. Defendió la supervivencia del Diem ante los taishin cuando intentaron disolverlo. Se le concedieron dos semanas para intentar hacer cambiar de opinión a los jefes de las otras siete profesiones.
-Tras retornar al Diem, se enfrentó a Drile. Cada uno acusó al otro de ser el traidor kerztiano. Se produjo una breve lucha con arena y Drile huyó. [[Aarik\|Aarik]] llegó al Diem, buscando un lugar donde alojarse tras retornar del Lado Oscuro. Al día siguiente, Khriss viajó al Diem para descubrir que Kenton no sólo era un «mago de arena», sino el líder del Diem. Tras explicarle la situación a Khriss, Kenton se enfrentó a [[Ais\|Ais]], una [[Trackt\|trackt]] enviada por la Jueza Suprema supuestamente para protegerle.
+### The Mastrell's Path
+  Kenton fighting the <<Sandling\|sandling>>
+When he was eighteen years old he insisted on running the [[Mastrell's Path\|Mastrell's Path]] to prove that he could do anything a Mastrell could do, and so deserved to be elevated to that rank. Prior to running the Path, Praxton offered Kenton advancement to a slightly higher rank of Fen if he wouldn't run the Path. Kenton refused his father's offer and while undertaking the Path, he killed the [[Sandling\|Sandling]] guardian, something thought impossible, destroying the Path forever.
+After Kenton's feat during the Path, his father was furious and once again offered Kenton the rank of Underfen. Kenton again refused and Praxton granted him the title of Mastrell. He explained to Kenton that the rest of the Diem would hate him for it.
 
-### Obtención de apoyo
-Kenton no tardó en darse cuenta de que Ais era, en realidad, la espía de [[Heelis\|Heelis]], aunque le permitió que le acompañara mientras visitaba a varios taisha en un intento de recabar apoyos para el Diem. Consiguió asegurarse el voto del [[Delius\|lord almirante]] con la condición de que el lord mercader votara en contra, y el del [[Rite\|lord artesano]] si el Diem pagaba su deuda con ellos.
-Tras un intento de asesinato y el retorno de su viejo amigo, [[Elorin\|Elorin]], Kenton buscó al lord general, [[Raagent\|Raagent]]. Aunque en un principio se opuso, Raagent prometió votar para preservar el Diem después de que Kenton le salvara la vida de un kaRak.  Tras regresar a Kezare, Kenton encontró a [[Drile\|Drile]] intentando convencer a otros maestros de la arena para que se pusieran de su parte y le retó a un duelo. Después, fue a visitar a Vey, el lord mercader, pero tuvo poco éxito. Tras reunirse con Khriss, los dos, junto con Baon y Aarik, buscaron en el Diem el dinero desaparecido tras esquivar otro intento de asesinato, pero encontraron muy pocas de las riquezas que supuestamente poseían los maestros de la arena.
+### Battle Against Kerztians
+During the advancement ceremony, a group of [[Kerzta\|Kertzian]] [[DaiKeen\|warrior-priests]] launched a surprise attack on the ceremony. Kenton, having also been trained in martial arts, led a group of Sand Masters in defense against the attack. Ultimately he failed and was buried in sand by Praxton's final act, which abruptly ended the battle. The Kertzians killed virtually everyone, leading Kenton to believe that he was the only survivor.
+He was found hurt and dehydrated by [[Khriss\|Khriss]] and her party. After they revived him with water, Kenton agreed to be their guide, and accompanied them to the city of [[Kezare\|Kezare]]. While in their company he kept his Sand Mastery a secret. Along the way they stopped at a Kerztian outpost, where Kenton bartered for supplies. There, he learned that there were other survivors of the attack. After they left the outpost he discovered that he could no longer use sand mastery when a group Kerztian warrior-priests attacked their party.
 
-  Con <<Khriss\|Khriss>>
-Invitado por el lord almirante, Kenton acudió con [[Khriss\|Khriss]] a su fiesta, donde se enteró de que Delius tenía intención de apoyarle independientemente de la decisión de Vey. Después de que Khriss le instara a abandonar la fiesta, ambos tropezaron con una obra en construcción derrumbada, donde Kenton utilizó su maestría de la arena para rescatar a los trabajadores atrapados. Tras tener una epifanía, regresó al Diem y compartió con los demás maestros de la arena que debían empezar a enmendar su imagen pública pagando sus gastos y ayudando a la gente corriente. Sin embargo, fue interrumpido por Khriss, que pretendía aprender sobre la maestría de la arena. Como parte de su nueva filosofía sobre cómo debían gobernar los maestros de la arena, Kenton accedió a permitir que Khriss se uniera al Diem.
-Kenton decidió que, puesto que ya había visitado a todos los taishin que podía, su única esperanza era estudiar todo lo que hubiera en la biblioteca de su padre relacionado con ellos. Esperaba encontrar alguna forma de burlar o sobornar a lord Vey, pero al principio tuvo poco éxito. Kenton explicó a Ais cómo funcionaba el cargo de lord almirante y llegó a la conclusión de que era la causa de la embriaguez y extravagancia de lord Delius.
-Kenton fue a buscar a Khriss para poder probar su habilidad como maestra de la arena; tras recogerla, Kenton fue interrumpido varias veces por los maestros de la arena con preguntas administrativas básicas. Khriss sugirió que Kenton nombrara a alguien para supervisar la administración diaria del Diem, y Kenton decidió nombrar a Elorin. Entonces puso a prueba el talento de Khriss en el dominio de la arena, pero la duquesa no demostró ninguno. Kenton se sintió decepcionado porque esperaba que otro oscurense tuviera ese don; sin embargo, Khriss dijo que no estaba decepcionada porque sólo quería saber cómo funcionaba el proceso de las pruebas. A continuación, Kenton mostró a Khriss el foso de combate donde pensaba batirse en duelo con Drile. Él dijo que creía que su duelo bien podría ser una ejecución porque era imposible que ganara, ya que Drile era mucho más poderoso que él.
-Kenton volvió a visitar a lord Vey con la esperanza de encontrar alguna forma de ponerlo de su parte. Tras hacerlo esperar durante largo rato, Kenton gritó que esperaba que lord Vey siguiera pagando tributo al Diem por la misma razón de siempre. Al oír esto, lord Vey invitó a Kenton a su despacho para una reunión privada. En esta reunión, Kenton fingió saber por qué lord Vey había estado pagando tributo al Diem e intentó utilizar este conocimiento para chantajearlo para que votara a su favor. Sin embargo, Vey se dio cuenta de que, en realidad, Kenton no sabía por qué el gremio de mercaderes había seguido pagando tributos y se negó a votarle.
-Después de que Vey se negara a votar para mantener el Diem, Kenton fue a un restaurante. Allí discutió con Aaric y Khriss la moralidad de chantajear a lord Vey. Aarik opinó que, dado que Vey tenía un carácter moral deficiente, Kenton estaba justificado para utilizar cualquier medio que fuera necesario. Khriss declaró que los eruditos de la  habían debatido si está justificado que alguien cometa un mal menor en pos de un bien mayor, pero que no habían llegado a ninguna conclusión. A continuación, el grupo fue atacado por asesinos kerztianos. Kenton y Ais consiguieron matar a la mayoría de ellos; uno agarró y amenazó con matar a Khriss si Kenton no se rendía, pero fue asesinado por [[Jon Acron\|Jon Acron]]. Ais dijo que le sorprendió que los asesinos atacaran ese día, ya que violaba el [[KerKor\|KerKor]].
+### Acting Lord Mastrell
+He parted from Khriss after arriving in Kezare. He went to the Diem where he was found by [[Dirin\|Dirin]], who informed him that [[Drile\|Drile]], the highest ranked Sand Master, was speaking for the [[Diem\|Diem]] before the [[Taishin\|Taishin]]. Kenton immediately went to the Taishin to argue against what he thought was Drile's appointment to Lord Mastrell. While on his way there he discovered he had regained the ability to master sand, and remarkably he could now command three ribbons. Kenton was named acting Lord Mastrell, since he was the only surviving person holding the title of Mastrell. He argued for the Diem's survival to the Taishin when they attempted to dissolve it. He was given two weeks to attempt to change the minds of the heads of the other seven Professions.
+After he returned to the Diem he confronted Drile. Each accused the other of being the Kerztian traitor. A short fight with sand followed and Drile fled. [[Aarik\|Aarik]] arrived at the Diem, looking for a place to stay after returning from Darkside. The next day Khriss travelled to the Diem to discover that Kenton was not only a "sand mage," but the leader of the Diem. After explaining the situation to Khriss, he was confronted by [[Ais\|Ais]], a [[Trackt\|trackt]] sent by the Lady Judge, ostensibly to protect him.
 
-## Notas
+### Securing Support
+Kenton quickly realized Ais was, in truth, [[Heelis\|Heelis']] spy, though he permitted her to accompany him as he visited several Taisha in an attempt to drum up support for the Diem. He managed to secure the [[Delius\|Lord Admiral's]] vote under the condition that the Lord Merchant votes opposite, and the [[Rite\|Lord Artisan's]] if the Diem pays off its debt to them.
+Following an assassination attempt and the return of his old friend, [[Elorin\|Elorin]], Kenton sought out the Lord General, [[Raagent\|Raagent]]. Though initially opposed, Raagent promised to vote to preserve the Diem after Kenton saves his life from a Karak.  After returning to Kezare, Kenton found [[Drile\|Drile]] attempting to sway other sand masters to his side and challenged him to a duel. Afterward, he went to visit Vey, the Lord Merchant but found little success. After reuniting with Khriss, the two of them, along with Baon and Aarik, searched the Diem for the missing money after dodging yet another assassination attempt, but located very little of the riches supposedly in the Sand Master's possession.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**| · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+  With <<Khriss\|Khriss>>
+On invitation from Lord Admiral, Kenton went with [[Khriss\|Khriss]] to his party, where he learned that Delius intended to support him regardless of Vey's decision. After Khriss urged him to leave the party, the two of them stumbled on a collapsed construction site, where Kenton used his Sand Mastery to rescue the trapped workers. Having come to a realization, he returned to the Diem and begun to tell the other sand masters that they must begin to mend their public image by paying for their expenses and helping the common people. However, he was interrupted by Khriss seeking to learn sand mastery. As part of his new philosophy of how the sand masters should be run Kenton agreed to allow Khriss to join the Diem.
+Kenton decided that since he had already visited all the Taishin he could, his only hope was to study everything in his father's library that related to them. He hoped to find some way to outsmart or bribe Lord Vey but initially met with little success. Kenton explained to Ais how the position of Lord Admiral functioned and concluded it was the cause of Lord Delius's drunkenness and extravagance.
+Kenton went to get Khriss so that he could test her ability to sand master; after retrieving her Kenton was interrupted several times by sand masters with basic administrative questions. Khriss suggested that Kenton appoint someone to oversee the day-to-day administration of the Diem, and Kenton decided to appoint Elorin. Kenton tested Khriss for talent in sand mastery but she showed none. Kenton was disappointed by this because he had hoped another Darksider would have talent, however, Khriss said that she was not disappointed because she just wanted to know how the testing process worked. Kenton then showed Khriss the fighting pit where he intended to duel Drile. Kenton said that he believed his duel with Drile might as well be an execution because he could not possibly win as Drile was much more powerful than him.
+Kenton returned to visit Lord Vey in the hope that he could find some way to get Lord Vey on his side. After being made to wait for a long time, Kenton loudly exclaimed that he expected Lord Vey to continue paying tribute to the Diem for the same reason as always. Upon hearing this Lord Vey invited Kenton into his office for a private meeting. In this meeting, Kenton pretended to know why Lord Vey had been paying tribute to the Diem and attempted to use this knowledge to blackmail Vey into voting for him. However, Vey realized that Kenton did not, in fact, know why the merchants guild had continued to pay tribute and refused to vote for him.
+After Vey refused to vote to maintain the Diem, Kenton went to a restaurant. There he discussed the morality of blackmailing Lord Vey with Aaric and Khriss. Aarik felt that because Vey had a poor moral character Kenton was justified in using whatever means were necessary. Khriss stated that scholars at the  had debated whether someone is justified in committing a minor evil in pursuit of a greater good but that they had not come to a conclusion. The group was then attacked by Kerztian assassins. Kenton and Ais managed to kill most of them; one grabbed and threatened to kill Khriss if Kenton didn't surrender, but was killed by [[Jon Acron\|Jon Acron]]. Ais said she was surprised the assassins would attack that day as it violated the [[KerKor\|KerKor]].
 
 
 
-https://es.coppermind.net/wiki/Kenton
+https://coppermind.net/wiki/Kenton

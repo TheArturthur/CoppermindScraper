@@ -1,77 +1,58 @@
-
-
 |**Huio**|
 |-|-|
-|**[[Familia de Lopen\|Familia de Lopen]]**|
-|**Parientes**|[[Lopen\|Lopen]]|
-|**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]], [[Portador de esquirlada\|Portador de esquirlada]]🐱︎|
-|**Vinculado con**|[[Caelinora\|Caelinora]]|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin|
-|**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**[[Lopen's family\|Lopen's family]]**|
+|**Relatives**|[[Lopen\|Lopen]]|
+|**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
+|**Bonded With**|[[Caelinora\|Caelinora]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army|
+|**Nationality**|[[Herdazian\|Herdazian]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*Receta no es mía. Huio ha cambiado esa cosa. Ahora no sé si ascenderlo o tirarlo por el borde de meseta.*”
-\-Lunamor sirviendo shiki a Kaladin[1]
-
-
-**Huio** es un miembro herdaziano del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]] y un [[Corredor del Viento\|Corredor del Viento]] del Tercer Ideal.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Expedici.C3.B3n a Aimia]] 
-3. [[#Guerra en Emul]] 
+>“*Is not my recipe. Huio has changed this thing. I now have to either promote him or push him off side of plateau.*”
+\-Lunamor serving shiki to Kaladin[1]
 
 
-4 Notas. [[#Notas]] 
+**Huio** is a [[Herdazian\|Herdazian]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]] and a [[Windrunner\|Windrunner]] of the Third Ideal.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
+3 History. [[#History]] 
+
+3. [[#Expedition to Aimia]] 
+3. [[#War in Emul]] 
 
 
-## Apariencia y personalidad
->“*¿Chistes de bajitos? Da gracias que mal genio bajito.*”
-\-Huio a Lopen[3]
+4 Notes. [[#Notes]] 
 
-Huio es uno de los primos de [[Lopen\|Lopen]]. Es un hombre bajo, calvo, fornido y de brazos gruesos. Es conocido entre el Puente Cuatro por su propensión a visitar prostitutas. Su falta de fluidez en el alezi es una fuente de vergüenza para él, aunque obtiene un sentido de satisfacción y orgullo por su habilidad en la cocina. Es una persona curiosa y de mentalidad científica, y le gusta desmontar fabriales para experimentar con ellos y entender mejor cómo funcionan, aunque esto a menudo hace que rompa el fabrial sin posibilidad de repararlo.
 
-## Habilidades y atributos
-Huio es un [[Corredor del Viento\|Corredor del Viento]], que aprende rápidamente a atraer la luz tormentosa. Esto le permite utilizarla y acceder a las potencias de [[Gravitaci%C3%B3n\|Gravitación]] y [[Adhesi%C3%B3n\|Adhesión]]. También es bastante hábil en medicina de campo -al menos, más que [[Teft\|Teft]]- y un cocinero más que experto. Después de que Huio jurara el Tercer Ideal de los Corredores del Viento, su spren, [[Caelinora\|Caelinora]], adquirió la capacidad de convertirse en una [[Hoja esquirlada\|hoja esquirlada]], que puede ser invocada en la forma que él elija, incluyendo un martillo.
-Junto con [[Roca\|Roca]] y [[Lopen\|Lopen]], Huio es uno de los pocos miembros del Puente Cuatro que sabe nadar.
+## Appearance and Personality
+>“*Short joke? Be glad not short temper.*”
+\-Huio to Lopen[3]
 
-## Historia
-A finales de 1173, Lopen llevó a Huio y a otro de sus primos, [[Rod (Roshar)\|Rod]], a unirse al Puente Cuatro. Acabó estando a menudo de guardia en la cocina con [[Roca\|Roca]], solicitando el servicio cada vez más a medida que los otros se convertían en escuderos. En una ocasión, Huio añadió un puñado de [[Lazbo\|lazbo]] a un [[Shiki\|shiki]] que estaba removiendo para Roca, para horror de éste. Sin embargo, cuando Roca lo probó, se dio cuenta de que Huio había mejorado la receta original. Incluso empezó a pedirle consejo a Huio sobre algunas recetas.
-Huio también hizo turnos para vigilar a los Kholin con el resto del Puente Cuatro. Formó parte del grupo que fue con [[Dalinar\|Dalinar]] a [[Ciudad Thaylen\|Ciudad Thaylen]] para comprobar los progresos de [[Amaram\|Amaram]] ayudando a reconstruir la ciudad de los daños de la [[Tormenta eterna\|tormenta eterna]] y para asistir a una conferencia con la reina [[Fen\|Fen]] y los otros monarcas que se habían unido a su coalición. Los soldados del Puente Cuatro estaban con Dalinar en la conferencia, por lo que escucharon la traducción del [[Eila Stele\|Eila Stele]]; esto desmoralizó al grupo lo suficiente como para que dejaran atrás a Dalinar y regresaran a [[Urithiru\|Urithiru]] por su cuenta. Cuando regresaron al cuartel del Puente Cuatro, descubrieron las secuelas del complot de [[Taravangian\|Taravangian]] para robar de nuevo la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]]: Roca y [[Bisig\|Bisig]] estaban gravemente heridos, y [[Eth\|Eth]] estaba muerto. Huio, el mejor en medicina de campo presente, atendió a Roca hasta que pudieron llevarlo a [[Renarin\|Renarin]].
-Cuando comenzó a ganar un estipendio como Radiante, envió la mayor parte a su familia para ayudar a los primos más pobres, de los cuales una gran parte fue para la familia de [[Rod (Roshar)\|Rod]].
+Huio is one of [[Lopen\|Lopen's]] cousins. He is a short, bald, beefy man with thick arms. He is known among Bridge Four for his propensity to visit prostitutes. His lack of fluency in Alethi is a source of embarrassment to him, though he gets a sense of satisfaction and pride out of his cooking skill. He is a curious and scientifically minded person, and has a fondness for taking apart fabrials to experiment with them and better understand how they work, though this frequently results in him breaking the fabrial beyond repair.
 
-### Expedición a Aimia
-Unos meses después de la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Lopen y Huio fueron elegidos por [[Kaladin\|Kaladin]] para unirse a la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]] thayleña a bordo del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]* ya que eran capaces de nadar, y aún no tenían sus espadas. Huio pasó las primeras partes del viaje ayudando a la tripulación con las tareas de a bordo. Debido a las dificultades de Huio con el alezi, Lopen a menudo involucraba a su primo en las conversaciones para traducir los chistes. Huio jugó con la vinculacañas de Rushu y el papel de aluminio - una actividad que finalmente resulta en el descubrimiento de [[Fabrial\|fabriales]] modificados con aluminio.
-Tras descubrir el complot de [[Nikli\|Nikli]] para sabotear la expedición, Lopen y Huio reciben el encargo de llevar al porteador a la costa para encarcelarlo.
-En algún momento durante la ausencia de Lopen, Huio comenzó a luchar contra el gran hordino que estaba atacando al *Vela Errante*. Lopen llegó justo a tiempo para rescatar a Huio de sus fauces. Los dos lucharon contra la criatura para dar tiempo a la tripulación a escapar. Tras fracasar el asalto de Lopen, que cayó al suelo herido, Huio juró el Tercer Ideal para salvar a Lopen e invocó a [[Caelinora\|Caelinora]] como martillo esquirlado para destrozar el brazo del hordino. Poco después, Huio lo mató con una lanza esquirlada que le atravesó la cabeza. Los dos escapan mientras la negociación de [[Rysn Ftori\|Rysn]] continúa bajo tierra.
-De vuelta al barco, Lopen y Huio discutieron sobre el Tercer Ideal. Lopen felicitó a su primo por haberle superado en el ideal, aunque le costó hacerlo, ya que tenía el presentimiento de que el juramento de Huio había estado relacionado con él y pensó que Huio podría albergar mala voluntad hacia él. Sin embargo, Huio le explicó que no odiaba a Lopen y que el Tercer Ideal no tenía por qué implicar odio, aunque las constantes burlas de su primo podían resultar un poco pesadas.
+## Abilities and Attributes
+Huio is a [[Windrunner\|Windrunner]], quick to pick up on how to draw in [[Stormlight\|Stormlight]]. This allows him to use Stormlight and access the [[Surge\|Surges]] of [[/wiki/Surgebinding#Gravitation]] and [[/wiki/Surgebinding#Adhesion]]. He is also fairly skilled in field medicine--at least, more so than [[Teft\|Teft]]--and a more than adept cook. After Huio swore the Third Ideal of the Windrunners, his spren [[Caelinora\|Caelinora]] gained the ability to become a [[Shardblade\|Shardblade]], which can be summoned in the form that he chooses, including a hammer.
+Along with [[Rock\|Rock]] and [[Lopen\|Lopen]], Huio is one of the only members of Bridge Four that can swim.
 
-### Guerra en Emul
-Tras el retiro de Kaladin, Huio y la mayor parte de los Corredores del Viento del Puente Cuatro se unen a las fuerzas de Dalinar en el campo de batalla de [[Emul\|Emul]] Se dedica a jugar a las cartas con su primo Lopen mientras no están luchando.  Huio, junto con el resto de los miembros del Puente Cuatro, se reúnen para celebrar el funeral de [[Teft\|Teft]].
+## History
+Late in 1173, Lopen brought Huio and another of his cousins, [[Rod (Roshar)\|Rod]], to join Bridge Four. He ended up often being on kitchen duty with [[Rock\|Rock]], requesting the duty more and more as the others became squires. Huio once added a handful of [[Lazbo\|lazbo]] to some [[Shiki\|shiki]] he was stirring for Rock, much to Rock's horror. When Rock tasted it, however, he realized Huio had improved on the original recipe. He even began to ask Huio's advice on some recipes.
+Huio also pulled shifts guarding the Kholins with the rest of Bridge Four. He was part of the group that went with [[Dalinar\|Dalinar]] to [[Thaylen City\|Thaylen City]] to check on [[Amaram\|Amaram's]] progress helping rebuild the city from the damage from the [[Everstorm\|Everstorm]] and to attend a conference with Queen [[Fen\|Fen]] and the other monarchs who had joined their coalition. The soldiers from Bridge Four were with Dalinar in the conference, so they heard the translation of the [[Eila Stele\|Eila Stele]]; this demoralized the group enough that they left Dalinar behind and returned to [[Urithiru\|Urithiru]] on their own. When they returned to the Bridge Four barracks, they discovered the aftermath of [[Taravangian\|Taravangian's]] plot to steal back [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]]: Rock and [[Bisig\|Bisig]] were gravely injured, and [[Eth\|Eth]] was dead. Huio, the best at field medicine present, attended to Rock until they could get him to [[Renarin\|Renarin]].
+When he began earning a stipend as a Radiant, he sent most of it to his family to help out the poorer cousins, of which a large part went to [[Rod (Roshar)\|Rod's]] family.
 
-## Notas
+### Expedition to Aimia
+A few months after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Lopen and Huio were chosen by [[Kaladin\|Kaladin]] to join the Thaylen [[Expedition to Akinah\|expedition to Akinah]] aboard the *[[Wandersail (1174 ship)\|Wandersail]]* as they were capable of swimming, and did not yet have their Blades. Huio spent the early portions of the trip assisting the crew with shipboard duties. Because of Huio struggles with Alethi, Lopen frequently pulled his cousin into conversations to translate jokes. Huio tinkered with Rushu's spanreed and the aluminum foil - an activity that ultimately results in the discovery of aluminum-modified [[Fabrial\|fabrials]].
+After discovering [[Nikli\|Nikli's]] plot to sabotage the expedition, Lopen and Huio are tasked with flying the porter to shore for incarceration.
+At some point during Lopen's absence, Huio began fighting the large hordeling that was attacking the *Wandersail*. Lopen arrived just in time to rescue Huio from its jaws. The two fought the creature to give the crew time to escape. After Lopen's assault fails, and he falls to the ground injured, Huio swore the Third Ideal to save Lopen and summoned [[Caelinora\|Caelinora]] as a Shardhammer to shatter the hordeling's arm. Shortly after, Huio killed it with a Shardspear through the head. The two escape while [[Rysn Ftori\|Rysn's]] negotiation continues underground.
+Back at the ship, Lopen and Huio discussed the Third Ideal. Lopen congratulated his cousin on beating him to the ideal, although struggled to do so as he had an inkling that Huio's oath had been related to him and thought Huio might harbor ill will for him. Huio, however, explained that did not hate Lopen and that the Third Ideal didn't have to involve hatred - although the constant ribbing and teasing from his cousin could be a bit much.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### War in Emul
+Following Kaladin's retirement, Huio and a majority of the Bridge Four Windrunners joined Dalinar's forces on the battlefield in [[Emul\|Emul]]. Huio played cards with his cousin, Lopen, while not in combat. Huio, along with the rest of Bridge Four, later gathered together for [[Teft\|Teft's]] funeral.
 
 
 
-https://es.coppermind.net/wiki/Huio
+https://coppermind.net/wiki/Huio

@@ -1,34 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lokkall**|
 |-|-|
-|**Títulos**|[[Lord almirante\|Lord almirante]]|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Tim%C3%B3n\|El Timón de Navieros]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Titles**|[[Lord Admiral\|Lord Admiral]]|
+|**Groups**|[[Taishin\|Taishin]], [[Helm\|The Helm]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Lokkall** es el actual [[Lord almirante\|lord almirante]] de [[Lossand\|Lossand]] en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]]. Es el taisha a la cabeza del [[Tim%C3%B3n\|Timón]]. Como tal, no tiene poder real, ya que todo el verdadero poder del Timón pertenece al Círculo de Navieros.
+**Lokkall** is the current [[Lord Admiral\|Lord Admiral]] of [[Lossand\|Lossand]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. He is the Taisha at the head of the [[Helm\|Helm]]. As such he has no actual power, as all of the true power of the Helm belongs to the Shipowners' Circle.
 
-## Historia
-Era el jefe del Círculo de Navieros antes de que [[Delius\|Delius]] le obligara a convertirse en el [[Lord almirante\|lord almirante]]. Cuando [[Kenton\|Kenton]] y Delius llegan al Círculo de navieros de Lraezare, en casa de Lokkall, éste dice que el Círculo tenía "necesidad" de usar su barco y que ha partido, dejando a Delius y Kenton abandonados en Lraezare. Delius dice que se limitará a requisar otro barco, y Lokkall declara que el Círculo está harto de las borracheras de Delius y han decidido por unanimidad despojarle de su título. Delius pide inmediatamente a su mayordomo "los documentos" y los firma, transfiriéndose a sí mismo la propiedad de la flota de barcos que su hijo, el mayordomo, tenía en su nombre. Delius anuncia entonces que ordena a sus barcos monopolizar el acceso al puerto de Kezare durante el próximo mes. Al oír esto, el Círculo entra en pánico y, cuando Delius propone a Lokkall como lord almirante, diciéndole que si le votan no bloqueará Kezare, aceptan por unanimidad, y Lokkall se convierte en el nuevo lord almirante. Delius le dice entonces a Lokkall que se quedará con todas las posesiones que acaba de perder, y que si vota a favor del Diem nombrará a un nuevo lord almirante y le devolverá sus posesiones. Lokkall acepta y vota "de todo corazón" a favor del Diem.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+He was the head of The Shipowners' Circle before [[Delius\|Delius]] forced him to become the [[Lord Admiral\|Lord Admiral]]. When [[Kenton\|Kenton]] and Delius arrive at the Shipowners' Circle in Lraezare in Lokkall's house, Lokkall says that the Circle had "need" of his ship and that it has departed, leaving Delius and Kenton stranded in Lraezare. Delius says that he will just commandeer another ship, and Lokkall declares that the Circle has had enough of Delius' drunkenness and they have unanimously decided to strip him of his title. Delius immediately asks his steward for "the documents" and signs them, transferring ownership of the fleet of ships that his son, the steward, was holding on his behalf to himself. Delius then announces that he is commanding his ships to monopolize access to the port of Kezare for the next month. Upon hearing this the Circle goes into a panic and so when Delius nominates Lokkall to be Lord Admiral, saying that if they vote for him he will not block Kezare, they unanimously agree, and Lokkall becomes the new Lord Admiral. Delius then tells Lokkall that he will hold all of the possessions that he just lost, and if he votes in favor of the Diem he will nominate a new Lord Admiral and return his possessions to him. Lokkall agrees, and votes "wholeheartedly" in favor of the Diem.
 
 
 
-https://es.coppermind.net/wiki/Lokkall
+https://coppermind.net/wiki/Lokkall

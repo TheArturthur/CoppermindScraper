@@ -1,138 +1,115 @@
-
-
 |**Cladent**|
 |-|-|
 ||
-|**Familia**|
-|**Hermanos**|[[Margel\|Margel]]|
-|**Parientes**|[[Fantasma\|Fantasma]]|
-|**Fallecido**|1024 [[Imperio Final\|IF]]|
-|**Capacidades**|[[/wiki/Cobre#Uso alom.C3.A1ntico]]|
-|**Apodos**|Clubs, tío Cascarrabias|
-|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
+|**Family**|
+|**Siblings**|[[Margel\|Margel]]|
+|**Relatives**|[[Spook\|Spook]]|
+|**Died**|1024 [[Final Empire\|FE]]|
+|**Abilities**|[[/wiki/Copper#Allomantic Use]]|
+|**Aliases**|Clubs, Uncle Crusty|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
->“*El [[Lord Legislador\|lord Legislador]] me encontrará también a mí tarde o temprano. Al menos de esta forma podré escupirle a la cara. Derrocar al Imperio Final... Tiene estilo.*”
-\-Clubs a Dockson.[2]
-
-
-**Cladent**  es un [[Skaa\|skaa]] [[Brumoso\|brumoso]] de [[Cobre\|cobre]] (también denominado [[Ahumador\|ahumador]]) del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Es miembro de la banda de Kelsier y se le conoce con el apodo de **Clubs**.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-
-2. [[#Alomancia]] 
-2. [[#Proezas militares]] 
+>“*The Lord Ruler is going to get me sooner or later. At least this way I get to spit in his face as I go. Overthrowing the Final Empire? It’s got style.*”
+\-Clubs to Dockson[2]
 
 
-3 Historia. [[#Historia]] 
+**Cladent** is a [[Skaa\|skaa]] [[Copper\|copper]] [[Misting\|Misting]] (aka a [[Smoker\|Smoker]]) from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He is a member of [[Kelsier\|Kelsier's]] thieving crew and goes by the nickname **Clubs**.
 
-3. [[#Historia temprana]] 
-3. [[#La revuelta]] 
+## Contents
 
-3. [[#La banda de kelsier]] 
-3. [[#Los disturbios skaa y la muerte del lord Legislador]] 
-3. [[#La batalla de Luthadel]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+
+2. [[#Allomancy]] 
+2. [[#Military Prowess]] 
+
+
+3 History. [[#History]] 
+
+3. [[#Early Life]] 
+3. [[#The Skaa Rebellion]] 
+
+3. [[#Kelsier.27s Crew]] 
+3. [[#The Skaa Riots .26 Death of the Lord Ruler]] 
+3. [[#The Battle of Luthadel]] 
 
 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
-4. [[#Fantasma]] 
-4. [[#Brisa]] 
+4. [[#Spook]] 
+4. [[#Breeze]] 
 4. [[#Sazed]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
->“*Y no me sonrías. Lo odio.*”
-\-Clubs a Kelsier.[2]
+## Appearance and Personality
+>“*And don't smile at me...I hate that.*”
+\-Clubs to Kelsier[2]
 
 
-Clubs es, por lo general, un individuo huraño que suele mostrar un comportamiento sombrío y pesimista. Tiene un rostro enjuto que a menudo se compara con un trozo de madera nudosa. Al encontrarse por primera vez con otros, puede parecer hostil y desconfiado. Aunque parece mayor que Brisa, sigue estando en buena forma física. A pesar de ello, camina cojeando. El origen es una larga cicatriz retorcida que le recorre la pantorrilla y el muslo, que recibió durante una refriega mientras estaba al servicio del [[Lord Legislador\|lord Legislador]]. Por lo general, ve a los que le rodean con desaprobación, pero es considerado leal y digno de confianza por [[Kelsier\|Kelsier]]. Desconfía ferozmente de los [[Aplacador\|aplacadores]] y de los [[Encendedor\|encendedores]] debido a su capacidad para manipular las emociones de la gente. Aunque es inmune a su [[Alomancia\|alomancia]], sigue viendo a ambos brumosos como manipuladores. Sin embargo, más tarde llega a disfrutar de la compañía de [[Brisa\|Brisa]], hasta el punto de beber con él todas las noches.
-Para los que le conocen bien, Clubs es un hombre de rara comprensión y humor. Cuando sonríe, tiene una mirada decididamente retorcida. 
+Clubs is generally a surly individual who often displays a grim and pessimistic demeanor. He has a gnarled face that's often compared to a piece of knotted wood. Upon first meeting others, he can come across hostile and untrusting. Although he appears to be older than [[Breeze\|Breeze]], he is still physically fit. In spite of this, he walks with a limping gait. The source of which is a long twisting scar that runs up his calf and thigh, which he received during a skirmish while in the employ of the [[Lord Ruler\|Lord Ruler]] He generally regards those around him with disapproval, but viewed as loyal and trustworthy by [[Kelsier\|Kelsier]]. He fiercely distrusts [[Soother\|Soothers]] and [[Rioter\|Rioters]] due to their ability to manipulate peoples emotions. Even though he is immune to their [[Allomancy\|allomancy]], he stills see's both mistings as manipulative. However, he later comes to enjoy being around [[Breeze\|Breeze]], to the point of drinking with him every night.
+To those that know him very well, Clubs is a man of rare understanding and humor. When he smiles, it has a decidedly twisted look on his face. 
 
-## Atributos y habilidades
+## Attributes and Abilities
  
-### Alomancia
-Al ser un [[Brumoso\|brumoso]], Clubs sólo es capaz de quemar uno de los metales alománticos. [[Romper\|Rompió]] durante su estancia en el ejército del [[Lord Legislador\|lord Legislador]], en su último combate, en el que fue herido y luego despedido. Después de Romper, Clubs descubrió que era capaz de quemar cobre. Como [[Ahumador\|ahumador]], puede crear una nube de cobre a su alrededor que bloquea el sentido del [[Bronce\|bronce]] de los [[Buscador\|buscadores]] y [[Alomancia\|nacidos de la bruma]]. Esta habilidad se extiende más allá de él mismo, y permite que otros utilicen la alomancia cerca de él, sin ser descubiertos. Quemar cobre también le hace inmune a cualquier alomancia emocional.
+### Allomancy
+Being a [[Misting\|Misting]], Clubs is only capable of burning one of the Allomantic metals. He [[Snapping\|Snapped]] during his time in the [[Lord Ruler\|Lord Ruler's]] army, in his last fight, where he wounded and then discharged. After snapping, Clubs discovered he was capable of burning copper. As a [[Smoker\|Smoker]], Clubs is able to create a coppercloud around him that blocks the [[Bronze\|bronze]] sense of [[Seeker\|Seekers]] and [[Allomancy\|Mistborn]]. This ability extends beyond himself, and allows others to use allomancy near him, without being discovered. Burning copper will also make him immune to any emotional allomancy.
 
-### Proezas militares
-Durante casi un año, Clubs actúa como general de las fuerzas militares de [[Elend\|Elend]], y es el miembro del equipo de [[Kelsier\|Kelsier]] elegido para dirigir el asalto al palacio del lord Legislador. Clubs adquirió esta destreza militar y liderazgo durante su estancia en el ejército del lord Legislador como oficial. No está claro cuántos soldados dirigió durante su época, ni cuánto tiempo sirvió allí, pero tiene una gran habilidad para liderar grandes grupos de combatientes.
+### Military Prowess
+For nearly a year, Clubs acts as the general for [[Elend\|Elend's]] military forces, and he is [[Kelsier\|Kelsier]]’s chosen team member to lead the assault against the Lord Ruler's palace. Clubs gained his military prowess and leadership skills during his time in the Lord Ruler’s army as an officer. It is unclear how many soldiers he led during his time, or how long he served there, but he has quite the knack for leading large groups of fighters.
 
-## Historia
-### Historia temprana
-Antes de unirse a la [[Banda de Kelsier\|banda de Kelsier]] Clubs trabajaba como maestro carpintero y era un mercader skaa en Luthadel. Su taller de carpintería, que también funcionaba como base de operaciones y escondite de la banda de Kelsier, era conocido como una destacada tienda de artesanía skaa. Antes de esto, Cladent trabajó como soldado en el ejército del lord Legislador con cierto nivel de mando. Durante el tiempo que luchó en el sureste, se [[Romper\|Rompió]], convirtiéndose en un [[Ahumador\|ahumador]]. Tras ser herido y dado de alta, Clubs se unió a los bajos fondos. Una vez que abrió su tienda, empleó a varios aprendices de carpinteros. 'Adoptó' a su sobrino, [[Fantasma\|Fantasma]], después de que éste Rompiera y empezara a mostrar signos de poder utilizar la alomancia. Intercambió con el padre de Fantasma una bolsa de monedas a cambio de no matarlo, y luego lo llevó de vuelta a Luthadel.
+## History
+### Early Life
+Prior to joining [[Kelsier's crew\|Kelsier's crew]] Clubs worked as a master carpenter and was a Skaa merchant in Luthadel. His woodworking shop, which also operated base of operations and hideout for Kelsier's crew was known as a prominent Skaa Craftsman's shop. Before this, Cladent worked as a soldier in the [[Lord Ruler\|Lord Ruler]]’s army with some level command. During his time fighting in the southeast, he [[Snapping\|Snapped]], becoming a [[Smoker\|Smoker]]. After being injured and discharged, Clubs joined the underground. Once he opened up his shop, he employed several apprentice carpenters. He 'adopted' his nephew, [[Spook\|Spook]], after he snapped and started showing signs of being able to use allomancy. He traded Spook's father a bag of coins in exchange for not killing him, and then took him back to Luthadel.
 
-### La revuelta
-#### La banda de kelsier
+### The Skaa Rebellion
+#### Kelsier's Crew
  
-Una vez que la banda de Kelsier utilizó la tienda de Clubs como base secreta de operaciones en Luthadel, se le encargó que mantuviera una [[Nube de cobre\|nube de cobre]] alrededor de su tienda para proteger a los que estaban dentro de los [[Buscador\|buscadors]] curiosos. También sirve de anfitrión para la banda, ofreciéndoles un lugar para dormir, comer y bañarse cuando lo necesitan. Aunque es esencial para el grupo, Clubs rara vez sale de la tienda, ya que es el principal ahumador de la banda, aunque también emplea a muchos ayudantes de carpintería que también son ahumadores.
+Once Kelsier's crew used Club's shop as a secret base of operations in Luthadel, he was tasked with maintaining a [[Coppercloud\|coppercloud]] around his shop to protect those inside from prying [[Seeker\|Seekers]]. He also serves as host for the crew, offering them a place to sleep, eat and bathe as needed. While essential to the crew, Clubs rarely leaves the shop as he is the crews primary Smoker, though he also employs many assistant carpenters who are also Smokers.
 
-#### Los disturbios skaa y la muerte del lord Legislador
-Después de que Kelsier haya sido asesinado y los skaa empiecen a amotinarse y a luchar en su nombre, Renoux revela que Clubs fue el miembro de la tripulación elegido por Kelsier para dirigir a los skaa en su ataque directo a Kredik Shaw. Tras la derrota del [[Lord Legislador\|lord Legislador]], Elend nombró a Clubs general de sus ejércitos.
-Clubs no tenía fama de ser un hombre religioso, por lo que no le gustaba que el capitán [[Demoux\|Demoux]] predicara sobre la [[Iglesia del Superviviente\|Iglesia del Superviviente]] a sus tropas.
-Aunque Clubs llegó a entablar amistad con Brisa. Los dos pasaban a menudo por las noches conversando y bebiendo en la Fortaleza Venture.
+#### The Skaa Riots & Death of the Lord Ruler
+After Kelsier has been killed and the skaa begin to riot and fight back in his name, it is revealed by Renoux that Clubs was Kelsiers chosen crew member to lead the skaa in their direct attack on Kredik Shaw. After the [[Lord Ruler\|Lord Ruler]] was defeated, Elend appointed Clubs as the general of his armies.
+Clubs was not known to be a religious man, and so he disliked Captain [[Demoux\|Demoux]] preaching the [[Church of the Survivor\|Church of the Survivor]] to his troops.
+Although Clubs came to befriend Breeze. The two often spent time in the evenings conversing and drinking at Keep Venture.
 
-#### La batalla de Luthadel
-Antes de la [[Batalla de Luthadel\|Batalla de Luthadel]], [[Sazed\|Sazed]] intentó enseñarle la religión de [[Dadradah\|Dadradah]], que se centra en el arte y la artesanía. Sazed comentó que el cuidado que Clubs dedicaba a su carpintería demostraba que su verdadera pasión era el arte, no la guerra. Como muestra de la fe de Dadradah, también le da a Clubs un pequeño disco de madera tallado con la imagen de un pincel. Durante la batalla propiamente dicha, Clubs acaba luchando en la puerta de Cinc con Brisa cerca.
-Murió durante la batalla de Luthadel, asesinado por un [[Koloss\|koloss]] mientras salvaba a Brisa. Más tarde, Sazed encontró el disco de madera que dio a Clubs atado al cadáver del hombre.
+#### The Battle of Luthadel
+Before the [[Battle of Luthadel\|Battle of Luthadel]], [[Sazed\|Sazed]] tried to teach him about the religion of [[Dadradah\|Dadradah]], which focuses on art and craftsmanship. Sazed remarked that the care that Clubs devoted to his carpentry showed his true passion to be art, not warfare. As a token of the Dadradah faith, he also gives Clubs a small wooden disk carved with the image of a brush. During the battle itself, Clubs ends up fighting at Zinc gate with Breeze nearby.
+He died during the Battle of Luthadel, killed by a [[Koloss\|koloss]] while saving Breeze. Later on, Sazed found the wooden disk that he gave Clubs tied to the man's corpse.
 
-## Relaciones
-### Fantasma
->“*Quería enseñarte lo que hacen los carpinteros de verdad, viejo.*”
-\-Fantasma.[1]
-
-
-Fantasma pasó la mayor parte de su vida con Clubs. Al ser rescatado por él cuando era pequeño, Clubs era una figura paterna para Fantasma. Tenían una relación peculiar y, una vez que Fantasma ganó confianza y empezó a dejar de ser un niño torpe, a menudo se refería a Clubs como "tío Cascarrabias". Fantasma trabajaba a menudo como recadero de Clubs en su carpintería y, en general, le gustaba estar cerca de Clubs Antes de la [[Batalla de Luthadel\|Batalla de Luthadel]] Clubs envió a Fantasma con Vin y Elend a buscar el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] en el norte. Clubs sabía, cuando envió a Fantasma con Elend y Vin, que no volvería a verle, que le estaba diciendo "adiós". 
-
-### Brisa
->“*No eres tan malo como la mayoría.*”
-\-Clubs hablando con Brisa sobre los aplacadores.[7]
+## Relationships
+### Spook
+>“*I just wanted to show you what real carpenters are up to, old man.*”
+\-Spook[1]
 
 
-Clubs tiene una relación especial con Brisa, que se ha desarrollado con el tiempo. Al principio, a Clubs no le gustaba nada Brisa, y sentía que no podía confiar en él. Pensaba que era especialmente hábil para manipular a la gente. Sin embargo, su relación creció hasta el punto de que empezaron a reunirse todas las noches para compartir una bebida y la compañía del otro. Durante la Batalla de Luthadel, Clubs salva a Brisa de la muerte empujándolo para que no se acerque a la espada de un [[Koloss\|koloss]], lo que hizo que Clubs casi se partiera en dos.
+Spook spent the majority of his life with Clubs. Being rescued by Clubs as a small child, Clubs was a father figure to Spook. They had a peculiar relationship and once Spook gained confidence and began to grow out of his awkward boyish nature, he would often refer to Clubs as "Uncle Crusty." Spook often worked as an errand boy for Clubs at his carpentry shop and generally liked to be close to Clubs Before the [[Battle of Luthadel\|Battle of Luthadel]] Clubs sent Spook away with Vin and Elend to find the [[Well of Ascension\|Well of Ascension]] in the north. Clubs knew when he sent Spook with Elend and Vin, that he would never see him again, that he was saying "goodbye."
+
+### Breeze
+>“*You're not as bad as most*”
+\-Clubs talking to Breeze about Soothers[7]
+
+
+Clubs has a special relationship with Breeze, and one that had developed over time. Initially, Clubs did not like Breeze at all, and felt that he could not trust him. Feeling that Breeze was especially skilled at manipulating people. Their relationship grew however, to the point where they began meeting together every night to share a drink and each others company. During the Battle of Luthadel, Clubs saves Breeze from death by pushing him out of the way of a [[Koloss\|Koloss']] sword, which resulted in Clubs nearly being cut in-two.
 
 ### Sazed
->“*Debes vivir como un soldado. Pero puedes seguir soñando como un artista. Toma. Hice esto para ti. Es un símbolo de la fe Dadradah. Para su pueblo, la llamada del arte era aún más elevada que la del sacerdocio.*”
-\-Sazed a Clubs.[16]
+>“*You must live as a soldier...But you can still dream like an artist. Here. I had this made for you. It is a symbol of the Dadradah faith. To its people, being an artist was a higher calling, even, than being a priest.*”
+\-Sazed to Clubs[16]
 
 
-Al principio, Clubs y Sazed no se relacionaban mucho, pero con el paso del tiempo empezaron a pasar cada vez más tiempo juntos. Durante una de sus últimas interacciones antes de la batalla de Luthadel, Sazed sugiere una religión para Clubs. Menciona que, tras una conversación sobre la moral de la situación, pensó en la religión de Dadradah. En un principio, Clubs no estaba interesado en conocer la religión, pero Sazed señaló que sus seguidores eran artistas y que creían que el arte les acercaba a Dios. Al oír esta información, Clubs se sintió más inclinado a escuchar. Sazed se fijó en el cuidado y la habilidad que Clubs ponía en el trabajo con la madera en su taller, antes de la caída del lord Legislador. Sazed mandó hacer un disco de madera con el símbolo de la fe Dadradah para Clubs, que más tarde Sazed encontró agarrado en su mano después de haber sido asesinado por los Koloss.
+Initially Clubs and Sazed did not have much interaction, however; as time went on they began to spend more and more time together. During one of their final interactions before the Battle of Luthadel, Sazed suggests a religion for Clubs. He mentions that after a conversation about situational morality, he thought of the religion of Dadradah. Initially Clubs was not interested in hearing about the religion at all, but Sazed noted that the followers of Dadradah were artists, and that they believed that art drew one closer to God. Upon hearing this information, Clubs was more inclined to listen. Sazed noticed the care and skill that Clubs put into his woodworking in his shop, before the fall of the Lord Ruler. Sazed had a wooden disk of the symbol for the Dadradah faith made for Clubs, which Sazed later found clutched in his hand after he had been killed by the Koloss.
 
-## Curiosidades
-Clubs iba a ser originalmente el [[Buscador\|buscador]] del equipo, y [[Marsh\|Marsh]] el ahumador. Se intercambiaron antes de que Brandon empezara a escribir *El Imperio Final*.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Clubs was originally going to be the team's [[Seeker\|Seeker]], with [[Marsh\|Marsh]] being the team's Smoker. They were swapped before Brandon starting writing The Final Empire.
 
 
-
-https://es.coppermind.net/wiki/Cladent
+https://coppermind.net/wiki/Cladent

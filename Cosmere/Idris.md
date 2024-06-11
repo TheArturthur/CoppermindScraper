@@ -1,98 +1,95 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Idris**|
 |-|-|
-|**Etnia**|Idrianos|
+|**Ethnicity**|Idrian|
 |**Capital**|[[Bevalis\|Bevalis]]|
-|**Gobernado por**|[[Dedelin\|Dedelin]]|
-|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ruled by**|[[Dedelin\|Dedelin]]|
+|**World**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Serena, sencilla, dura y capaz. Idriana.*”
-\-Observaciones del rey Dedelin sobre Vivenna[1]
-
-
-**Idris** es un reino de [[Nalthis\|Nalthis]]. Está situado en una gran cadena montañosa.
-
-## Sumario
-
-1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-2 Gobierno. [[#Gobierno]] 
-
-2. [[#Monarqu.C3.ADa]] 
-
-2. [[#El rey o reina]] 
-2. [[#Sucesi.C3.B3n]] 
-2. [[#Los Mechones Reales]] 
+>“*Composed, simple, hard, and capable. Idrian.*”
+\-King Dedelin's observation of Vivenna[1]
 
 
-2. [[#Pol.C3.ADtica exterior y relaciones internacionales]] 
+**Idris** is a kingdom on [[Nalthis\|Nalthis]]. It is located in a large mountain range.
+
+## Contents
+
+1 Geography and Ecology. [[#Geography and Ecology]] 
+2 Government. [[#Government]] 
+
+2. [[#Monarchy]] 
+
+2. [[#The King or Queen]] 
+2. [[#Succesion]] 
+2. [[#The Royal Locks]] 
+
+
+2. [[#Foreign Policy and International Relationships]] 
 
 2. [[#Hallandren]] 
 2. [[#Tedradel]] 
-2. [[#Los reinos del norte]] 
+2. [[#The Northern Kingdoms]] 
 2. [[#Vendis]] 
 
 
 
 
-3 Ejército. [[#Ej.C3.A9rcito]] 
+3 Military. [[#Military]] 
 
-3. [[#Estructura de mando]] 
-3. [[#Esp.C3.ADas y guardias]] 
-3. [[#Soldados]] 
-
-
-4 Cultura. [[#Cultura]] 
-
-4. [[#Poblaci.C3.B3n]] 
-4. [[#Moda y belleza]] 
-4. [[#Biocroma]] 
-
-4. [[#Alientos]] 
-4. [[#Retornados]] 
+3. [[#Command structure]] 
+3. [[#Spies and Guards]] 
+3. [[#Army]] 
 
 
-4. [[#Arquitectura]] 
-4. [[#Cocina]] 
+4 Culture. [[#Culture]] 
+
+4. [[#People]] 
+4. [[#Fashion and beauty]] 
+4. [[#Biochroma]] 
+
+4. [[#Breath]] 
+4. [[#Returned]] 
 
 
-5 Economía. [[#Econom.C3.ADa]] 
-
-5. [[#Comercio]] 
-5. [[#Fondos de ayuda para cat.C3.A1strofes]] 
+4. [[#Architecture]] 
+4. [[#Cuisine]] 
 
 
-6 Historia. [[#Historia]] 
+5 Economics. [[#Economics]] 
+
+5. [[#Trade]] 
+5. [[#Disaster relief funds]] 
+
+
+6 History. [[#History]] 
 
 6. [[#Hanald]] 
-6. [[#Multiguerra y fundaci.C3.B3n]] 
-6. [[#El tratado matrimonial]] 
-6. [[#Rebeli.C3.B3n Pahn Kahl]] 
+6. [[#The Manywar and Founding]] 
+6. [[#The Marriage Treaty]] 
+6. [[#Pahn Kahl Rebellion]] 
 
 
-7 Ciudadanos destacados. [[#Ciudadanos destacados]] 
-8 Notas. [[#Notas]] 
+7 Notable Citizens. [[#Notable Citizens]] 
+8 Notes. [[#Notes]] 
 
 
-## Geografía y ecología
->“*Son rocas, como dijiste, pero no carecen de vida. Son verdes, tan verdes como vuestras junglas. Pero es un verde distinto.*”
-\-Siri hablándole a Susebron sobre las montañas de su tierra natal[2]
+## Geography and Ecology
+>“*They’re rocks, like you said, but they’re not lifeless. They’re green—as green as your jungles. But it’s a different green.*”
+\-Siri telling Susebron about the mountains of her homeland[2]
 
 
-Idris se encuentra en una gran cadena montañosa. Allí el clima es frío, y en verano sólo hace calor durante un corto periodo de tiempo. Debido a este frío, la agricultura es dura, y las cosechas a veces fracasan. Al menos una parte del año nieva, lo que es un factor importante para la defensa del país.
-Las montañas del norte tienen vegetación que brota en primavera. Hay campos y prados con hierbas y flores silvestres. El aire aquí es fresco y frío debido a la elevación. Un tipo conocido de planta es la vanavel, cuya flor y raíces son comestibles. Algunas raíces valiosas crecen en lo alto de las montañas. También hay arbustos de bayas en las tierras altas.
+Idris lies in a large mountain range. The Idrian mountains experience cold weather, with it being warm for only a short time in the summers. Due to this cold climate agriculture is hard, and crops sometimes fail. For at least part of the year it snows, which is an important factor is the nation’s defense.
+The northern mountains have vegetation that buds out in spring, There are fields and meadows with grasses and wild flowers. The air here is crisp and chilly due to the elevation. A known type of flower is the Vanavel, the flower and the roots from this plant are eatable. Some valuable roots grow high up in the mountains. There are also berry bushes in the highlands.
 
-## Gobierno
-### Monarquía
-Idris tiene un sistema de gobierno monárquico.
+## Government
+### Monarchy
+Idris has a monarchical system of government.
 
-#### El rey o reina
-El rey o la reina idrianos son los encargados de gobernar el país.
-Pueden redactar tratados ellos mismos, como el tratado matrimonial entre Idris y Hallandren en torno al año 327. También forman parte del consejo de guerra idriano. 
+#### The King or Queen
+The Idrian King or Queen is responsible for ruling the country.
+They can write treaties themselves, such as the marriage treaty between Idris and Hallandren somewhere around the year 327. They also sit on the Idrian war council.
 
-Familia real idriana
+Idrian Royal Family
 |||||||||||[[Vo\|Vo]]||||||||||
 |-|-|
 |
@@ -102,7 +99,7 @@ Familia real idriana
 ||
 ||||||||||||||||||||||||
 |
-|||||||||||[[Dedelin\|Dedelin]]||[[Madre de Vivenna\|Madre de Vivenna]]|||||||||
+|||||||||||[[Dedelin\|Dedelin]]||[[Vivenna's mother\|Vivenna's mother]]|||||||||
 |||
 |||||||||||||||||||||||||
 |||||||||||||||||
@@ -120,119 +117,119 @@ Familia real idriana
 ||
 ||
 ||
-| |Fallecido|
+| |Deceased|
 
 
-#### Sucesión
-El hijo mayor de los reyes hereda el trono, independientemente de su sexo. Esto sólo ocurre después de que el gobernante, ya sea el rey o la reina, haya muerto.
-Se conoce al menos un caso en el que el segundo hijo hereda, mientras el mayor sigue vivo. Esto suele ocurrir porque el hijo mayor está comprometido con el gobernante de otro país, y no puede gobernar Idris.
+#### Succesion
+The eldest child of the King and Queen inherits the throne, regardless of gender. This only happens after the ruler, be it the king or the queen, has died.
+There is at least one known case of the second eldest child inheriting, while the eldest child is still alive. This usually happens because the eldest child is engaged to a ruler of another country, and cannot rule Idris.
 
-#### Los Mechones Reales
-Los miembros de la familia real que gobiernan o son herederos potenciales tienen los [[Mechones Reales\|Mechones Reales]]: cabello hereditario que cambia de color según el estado emocional del portador, a su voluntad, o no cambia en absoluto cuando el portador utiliza el entrenamiento y la disciplina para suprimir los cambios. Quienes poseen los Mechones Reales también pueden hacerlos crecer cuando lo desean, y esto les parece igual que si utilizaran un músculo físico. Los miembros de la familia real suelen llevar el pelo negro o castaño, ya que otros colores como el rojo o el amarillo se consideran ostentosos.
+#### The Royal Locks
+Those of the royal family who either rule or are potential heirs have the [[Royal Locks\|Royal Locks]]: hereditary hair that changes color according to the bearer's emotional state, at their will, or not at all when the bearer uses training and discipline to suppress the changes. Those with the Royal Locks can also grow them when they want to, and this feels to them as if they were using a physical muscle. The members of the royal family usually keep their hair black or brown, as other colors such as red or yellow are considered ostentatious.
 
-### Política exterior y relaciones internacionales
+### Foreign Policy and International Relationships
 #### Hallandren
->“*Tu gente se halla en un estado de rebelión contra el resto del reino.*”
-\-Treledees a Siri[8]
+>“*Your people are in a state of rebellion against the rest of the kingdom.*”
+\-Treledees to Siri[8]
 
-Hallandren e  tienen malas relaciones entre sí. Esto se debe a varias razones.
-Idris y Hallandren solían ser el mismo país, aunque al concluir [[La Multiguerra\|la Multiguerra]] se separaron. Los idrianos ven este suceso como una rebelión de los hallandrenses contra ellos, convirtiéndose en paganos al adorar a los [[Retornado\|Retornados]]. A su vez los habitntes de Hallandren ven a los idrianos como rebeldes. Debido a esto Hallandren reclama las montañas idrianas como su propio territorio, provocando aún más las hostilidades.
-La religión idriana del [[Austrismo\|austrismo]] enseña en contra de muchas cosas que se hacen o se usan en Hallandren, como la ostentación, los [[Sinvida\|sinvida]] y el [[Despertar\|despertar]]. Esto hace que los idrianos crean que los hallandrenses son terribles, ya que hacen todo aquello contra lo que predican sus religiones. Los idrianos también ven los Tonos Iridiscentes como una herejía, pensando en los hallandrenses como paganos. Esto provoca aún más hostilidades.
-Los idrianos tienen muchas falsas impresiones de Hallandren, lo que se debe, entre otras cosas, a las falsas historias contadas por los buhoneros.
+Hallandren and  have bad relations with each other. This is due to a number of reasons.
+Idris and Hallandren used to be the same country, although at the conclusion of the [[Manywar\|Manywar]] they split. The Idrians view this event as the Hallandren rebelling against them, turning into pagans by worshipping the [[Returned\|Returned]]. In turn the Hallandren view the Idrians as rebels. Due to this Hallandren claims the Idrian mountains as their own territory, further provoking hostilities.
+The Idrian religion of [[Austrism\|Austrism]] teaches against many things done or used in Hallandren such as ostentation, [[Lifeless\|lifeless]] and [[Awakening\|awakening]]. This makes the Idrians believe that the Hallandren are terrible, as they do everything their religions preaches against. The Idrians also view the Iridescent Tones as heresy, thinking of the Hallandren as pagans. This further provokes hostilities.
+The Idrians have many false views of Hallandren, this is because of, among others, false stories told by ramblemen.
 
 #### Tedradel
-[[Tedradel\|Tedradel]] tiene buenas relaciones con Idris. El general del ejército idriano, [[Yarda\|Yarda]], considera posible que Tedradel ayude a Idris si Hallandren les ataca.
-Estas naciones también tienen muchas similitudes, como en la moda, ya que ambas prefieren la ropa de abrigo.
+[[Tedradel\|Tedradel]] has good relations with Idris. The General of the Idrian army, [[Yarda\|Yarda]], considers it possible that Tedradel would aid Idris if Hallandren attacked them.
+These nations also have many similarities, such as in fashion, with both nations preferring covering clothing.
 
-#### Los reinos del norte
-Hay docenas de reinos al norte de Idris que no comparten la creencia de Hallandren de que Idris es una facción rebelde, y estos países se aliarían con Idris si estallara una guerra, o aprovecharían la oportunidad para hacerse con el control de [[T'Telir\|T'Telir]].
+#### The Northern Kingdoms
+There are dozens of kingdoms north of Idris that do not share Hallandren's belief that Idris is a rebel faction, and these countries would ally with Idris should a war break out, or use the opportunity to seize control of [[T'Telir\|T'Telir]].
 
 #### Vendis
-Actualmente se desconoce quién o qué son los vendis. Sin embargo, están en guerra con Idris y los atacan constantemente. Siguen haciendo esto alrededor del año 327 del calendario hallandrense.
+It is currrently unknown who or what the Vendis are. They are in a state of war with Idris however, constantly raiding them. They are still doing this around the year 327 of the Hallandren calendar.
 
-## Ejército
-### Estructura de mando
-A la cabeza del ejército idriano se encuentra el gobernante. También forma parte de un consejo de guerra. Directamente debajo hay un general. Durante el reinado del rey [[Dedelin\|Dedelin]] el general se llamaba [[Yarda\|Yarda]].
+## Military
+### Command structure
+At the head of the Idrian Military is the Idrian ruler. He also sits on a war council. Directly underneath is a general. During the reign of King [[Dedelin\|Dedelin]] the general was named [[Yarda\|Yarda]].
 
-### Espías y guardias
-Idris tiene un gran número de espías. Todos tienen claves que les permitirán escucharte. La red de espías idrianos en Hallandren está poco organizada. El gobernante de Idris conoce a todos los agentes. Estas redes de espías tienen líderes, que actúan como coordinadores entre el rey y los agentes. Durante el gobierno del rey Dedelin el espía jefe en Hallandren se llamaba [[Lemex\|Lemex]].
-Idris emplea a varios soldados como guardias. Estos vigilan la frontera de Hallandren y los pasos del norte. Suelen ser tareas muy solitarias.
+### Spies and Guards
+Idris has a large number of spies. These spies all have passcodes which will get them to listen to you. The Idrian spy network in Hallandren is loosely organized. The ruler of Idris knows all of the agents. These spy networks have leaders, who act as coordinators between the king and the agents, During the rule of King Dedelin the head spy in Hallandren was called [[Lemex\|Lemex]].
+Idris employs a number of soldiers as guards. These guards are used to watch the Hallandren border and to guard the northern passes. These duties are often very lonely.
 
-### Soldados
-Idris tiene un ejército, pero no es terriblemente capaz, no siendo rival para el ejército de Hallandren. Es probable que este ejército luche contra los [[Vendis\|vendis]] cada vez que asaltan Idris.
-Las fuertes nevadas también contribuyen a las defensas idrianas.
+### Army
+Idris has an army, but it is not terribly capable, being no match for the Hallandren army. It is likely that this army fights against the [[Vendis\|Vendis]] whenever they raid Idris.
+The heavy snowfall also contributes to the Idrian defenses.
 
-## Cultura
-### Población
->“*Las mujeres perseguían a los gansos que huían, los hombres tiraban de los carros cargados con semillas de primavera, y los niños sacaban a las ovejas a los pastizales.*”
-\-Siri describiendo a los habitantes de Bevalis[1]
+## Culture
+### People
+>“*Women chasing runaway geese, men pulling donkeys laden with spring seed, and children leading sheep on their way to pasture.*”
+\-Siri describing the people of Bevalis[1]
 
-Idris es el hogar del pueblo idriano. Se desconoce si contiene otros pueblos.
-El idriano perfecto no es tímido ni blando, como algunas mujeres nobles de los reinos del norte, sino sereno, sencillo, duro y capaz. A los idrianos se les enseña a ser reservados desde pequeños y a evitar vergonzosos arrebatos de emoción.
+Idris is home to the Idrian people. It is unknown if Idris contains any other peoples.
+The perfect Idrian is not timid or soft, like some noblewomen from the northern kingdoms, but composed, simple, hard, and capable. The Idrians are taught to be reserved from a young age and to avoid shameful outbursts of emotion.
 
-### Moda y belleza
-Los idrianos suelen vestir de forma que eviten llamar la atención, en consonancia con su [[Austrismo\|religión]]. El cabello suele recogerse con modestia. Los idrianos nunca se maquillan.
-La ropa es apagada, gris blanquecina o blanca. Algunas prendas también son marrones, aunque rozan el colorido.
-La ropa suele ser muy cubriente. La mayoría de las mujeres llevan ropa que tapa incluso el cuello. Los pantalones no se consideran modestos. Estas prendas suelen estar hechas de lana. Los idrianos no usan seda para vestirse. Algunos idrianos usan guantes cuando trabajan.
+### Fashion and beauty
+Idrians tend to dress in a way that avoides attention, in line with their [[Austrism\|religion]]. Hair is often contained modestly. Idrians never wear make-up.
+Clothing is drab, bleached grey or white. Some clothes are also brown, although this borders on being to colorful.
+Clothing is typically very covering. Most women wear clothing that covers even the neck. Trousers are not found to be modest. These clothes are often made out of wool. The Idrians don’t use silk for clothing. Some Idrians wear gloves when they are working.
 
-### Biocroma
-#### Alientos
-Los idrianos consideran que su aliento está íntimamente ligado a su alma. Por eso temen perder su aliento, y consideran pecaminoso poseer el aliento de otros. Usarlos para [[Despertar\|despertar]] se considera un pecado aún mayor.
+### Biochroma
+#### Breath
+The Idrians consider their breath to be intimately linked to their soul. For that reason they are afraid of losing their Breath, and consider holding the [[Breath\|Breaths]] of others to be sinful. Using them to [[Awakening\|Awaken]] is considered to be an even greater sin.
 
-#### Retornados
-Aunque los habitantes de Idris también pueden convertirse en [[Retornado\|Retornados]], es algo poco frecuente. Los habitantes de Idris, a diferencia de los de Hallandren, se niegan a proporcionar [[Aliento\|alientos]] a los Retornados, lo que provoca que mueran al cabo de una semana. Se desconoce si esto afecta a su "misión".
+#### Returned
+Although the people of Idris can also become [[Returned\|Returned]], this is a rare occurrence. The people of Idris, unlike those in Hallandren, refuse to provide the Returned with [[Breath\|Breath]], causing them to die at the end of the week. It is unknown if this affects their ‘mission’.
 
-### Arquitectura
-Idris es apagado y relativamente carente de color, lo que refleja la aversión del pueblo idriano a cualquier muestra de "ostentación" en su forma de vida. Las paredes de piedra están encaladas, etc.
-La mayoría de los edificios tienen una sola planta y son bajos. Los hogares idrianos son bastante pequeños, siendo una casa normal de Hallandren considerada una mansión. Los idrianos también utilizan paja para sus tejados.
+### Architecture
+Idris is drab and relatively devoid of color, reflecting the Idrian people's aversion to any display of "ostentation" in their way of living. Stone walls are whitewashed etc.
+Most buildings are single-storied and are squat. Idrian homes are fairly small, with a normal Hallandren home being considered a mansion. The Idrians also use thatch for their roofs.
 
-### Cocina
-Los idrianos disfrutan de una gran variedad de alimentos. Los vegetales conocidos incluyen pepinos, cebollas y algo que parece hierba. También comen flores y bayas, un tipo conocido de flor comestible es la vanavel.
-Los idrianos también comen carne, aunque se alimentan principalmente de vegetales. No comen pescado, y a muchos les resulta incluso desagradable.
+### Cuisine
+The Idrian people enjoy a wide variety of foods. Known vegetables include cucumbers, onions and something that looks like grass. They also eat flowers and berries, a known type of eatable flower is the Vanavel.
+Idrians also eat meat, although they primarily subsist on vegetables. They don’t eat fish, and many Idrians find it distasteful.
 
-## Economía
-### Comercio
-Idris tiene pocas exportaciones dignas de mención. El reino obtiene la mayor parte de sus ingresos de los aranceles de los cuatro pasos comerciales principales que controla. Estos pasos comerciales son extremadamente importantes para [[Hallandren\|Hallandren]], ya que son el único método fiable de paso del reino hacia el norte. Idris debe tener cuidado con los aranceles que cobra a las mercancías que pasan por estas rutas comerciales, ya que subirlos demasiado podría molestar a los países que utilizan sus rutas y podría ser motivo de guerra.
+## Economics
+### Trade
+Idris has few exports of note. The kingdom gains most of its income from tariffs on four main trade passes that it controls. These trade passes are extremely important to [[Hallandren\|Hallandren]], as they are the kingdom's only reliable method of passage to the north. Idris must be careful with the tariffs it charges on goods that pass through these trade routes, as raising them too high would upset the countries that use their routes and could be cause for war.
 
->“*A veces es difícil vivir en esas montañas. Las cosechas fracasan y te quedas sin nada. El rey es dueño de tus tierras, así que no puedes venderlas.*”
-\-Thame explicando a Vivenna por qué miles de idrianos trabajan en Hallandren[3]
+>“*It’s hard, sometimes, living up in those mountains. Crops fail, and what do you have? The king owns your land, so you can’t sell...*”
+\-Thame explaining to Vivenna why thousands of Idrians work in Hallandren[3]
 
-El comercio en Idris no es particularmente robusto en el momento de la rebelión Pahn Kahl. Debido a esto, muchos idrianos con dificultades se encuentran viajando al sur, a Hallandren, en busca de trabajo para mantener a sus familias. La agricultura es difícil en la cordillera nevada de Idris y las tierras de cultivo son propiedad del reino, no de los propios agricultores. Por ello, los granjeros que luchan por sobrevivir no pueden alquilar o vender la tierra si el rendimiento de sus cosechas es bajo, lo que les obliga a buscar trabajo en otra parte.
+Commerce in Idris is not particularly robust at the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. Due to this, many struggling Idrians find themselves traveling south to Hallandren for work to support their families. Farming is difficult in the snowy mountain range of Idris and farmland is owned and levied by the kingdom, not by the farmers themselves. Thus, struggling farmers cannot rent or sell land if their crop yield is low, forcing them to find work elsewhere.
 
-### Fondos de ayuda para catástrofes
-Idris dispone de fondos de ayuda en caso de catástrofe, y se puede hacer una petición al rey en caso de catástrofe. Un defecto importante de este programa es que requiere viajar a Bevalis, lo que puede llevar varias semanas. Por eso es más práctico buscar trabajo en Hallandren, que no está lejos de las granjas bajas del sur de Idris. Esta suele ser una mejor alternativa que emprender un largo viaje a través de las montañas nevadas, probablemente con suministros mínimos debido al desastre, para solicitar ayuda al rey.
+### Disaster relief funds
+Idris has disaster relief funds, and one can petition the king in the case of disaster. A major flaw with this program is that it requires travel to Bevalis, which can take several weeks. Thus it is more practical to seek work in Hallandren, which is not far from lower farms in southern Idris. This is often a better alternative to taking a long trek through snowy mountains, likely with minimal supplies due to the disaster, to petition the king for assistance.
 
-## Historia
->“*La familia real de Idris, que puede al parecer remontar su linaje hasta el Primer Retornado. Otra herencia divina, un desafío para el gobierno legítimo de Hallandren.*”
-\-Siri reflexiona sobre la política que rodea al trono de Hallandren[9]
+## History
+>“*The royal family of Idris, who can apparently trace their line back to [[Vo\|the first Returned]]. Another heritage of divinity, a challenger for rightful rule in Hallandren.*”
+\-Siri musing on the politics surrounding the throne of Hallandren[9]
 
 
 ### Hanald
-Para más información, ver [[Hanald\|Hanald]].
-La región que se convirtió en Hanald estaba poblada originalmente por el pueblo de [[Pahn Kahl\|Pahn Kahl]]. Cuando el pueblo de [[Chedesh\|Chedesh]], que dominaba el mundo en aquella época, comenzó a explorar otras partes de la costa del [[Mar Interior\|mar Interior]], un grupo de sus barcos descubrió este valle lleno de selvas. Uno de los exploradores, [[Vo\|Vo]], murió y se convirtió en el primer [[Retornado\|Retornado]] mientras estaba en uno de los barcos en la bahía. Volvió a morir una semana después.
-Despreciando a los nativos pahn kahl, sus compañeros fundaron un reino en el lugar y lo llamaron Hanald. Este reino crecería y se expandiría hasta convertirse en uno de los más poderosos de su época.
+For more information, see [[Hanald\|Hanald]].
+The region that became Hanald was originally populated by the [[Pahn Kahl\|Pahn Kahl]] people. When the people of [[Chedesh\|Chedesh]], who dominated the world at the time, began exploring other parts of the [[Inner Sea\|Inner Sea's]] coastline, a group of their ships discovered this valley filled with jungles. One of the explorers, [[Vo\|Vo]], died and became the first [[Returned\|Returned]] while on one of the ships in the bay. He then died again a week later.
+Dismissive of the native Pahn Kahl, his crewmates founded a kingdom on the site and named it Hanald. This kingdom would grow and expand to become one of the most powerful kingdoms of its age.
 
-### Multiguerra y fundación
-Para más información, ver [[La Multiguerra\|la Multiguerra]].
-A medida que Hanald crecía, reclamando tanto las tierras altas como las bajas, las [[/wiki/La Multiguerra#Ra.C3.ADces del conflicto]] aumentaron con los otros reinos [[Nalthis\|nalthianos]].
-Trescientos años después de la fundación de Hanald un [[Retornado\|Retornado]] conocido como [[Amadisputas\|Amadisputas]] utilizó a sus [[Sinvida\|sinvida]] así como una revuelta del pueblo para hacerse con el poder. Durante este golpe capturó a la familia real, atrapándola en [[T'Telir\|T'Telir]]. Después de que un compañero Retornado tuviera una visión de guerra, Amadisputas declaró la guerra a los reinos septentrionales de [[Kuth\|Kuth ]] y [[Huth\|Huth]], dando comienzo a [[La Multiguerra\|la Multiguerra]].
-Después de un tiempo, Amadisputas tuvo un cambio de parecer y retiró a sus tropas de la lucha. Utilizó estas mismas para recuperar el control de Hanald. Más tarde detuvo la Multiguerra a través de la diplomacia. Debido a esto, los [[Hallandren\|hallandrenses]] comenzaron a llamarle Dalapaz.
-Durante este tiempo, la casa de Idris huyó de T'Telir. Viajaron a las tierras altas del norte de Hanald, llevando consigo la religión del [[Austrismo\|austrismo]] y a sus siervos, y establecieron el reino de Idris.
-Aunque anteriormente habían experimentado con el despertar, le dieron la espalda como resultado de sus recientes experiencias, y utilizaron los principios del austrismo para hacer que sonara inmoral y malvado.  Este miedo al despertar tuvo un profundo impacto en la cultura idriana, y muchas supersticiones crecieron en torno a él. Por ejemplo, los idrianos siempre visten colores apagados, como el negro, los grises o los tostados, por lo que los despertantes no pueden usar ese color. Sin embargo, esto se basa en un concepto erróneo, ya que un despertante podría usar esos colores de todos modos. Como resultado de este aislamiento y desconfianza, los idrianos son, en su mayoría, totalmente ignorantes sobre cómo funciona el despertar.
-Tras su partida, el Culto de los Retornados tomó el control de la nación restante, renombrándola Hallandren.
+### The Manywar and Founding
+For more information, see [[Manywar\|Manywar]].
+As Hanald grew, claiming both the High- and the Lowlands, [[/wiki/Manywar#Roots of the Conflict]] increased with the other [[Nalthis\|Nalthian]] kingdoms.
+Three hundred years after Hanald's founding a [[Returned\|Returned]] known as [[Strifelover\|Strifelover]] used his [[Lifeless\|Lifeless]] as well as a revolt by the people to seize power. During this coup he captured the Royal Family, trapping them in [[T'Telir\|T'Telir]]. After a fellow Returned had a vision of war, Strifelover declared war on the northern kingdoms of [[Kuth\|Kuth ]] and [[Huth\|Huth]], starting the [[Manywar\|Manywar]].
+After a while Strifelover had a change of heart and recalled his troops from their fighting. He used these troops to seize back control of Hanald. He later stopped the Manywar through diplomacy. Due to this the [[Hallandren\|Hallandren]] began calling him Peacegiver.
+During this time the House of Idris fled T'Telir. They traveled to the northern highlands of Hanald, bringing the religion of [[Austrism\|Austrism]] and their servants with them, and established the kingdom of Idris.
+Though they had previously experimented with Awakening, they turned their backs on it as a result of their recent experiences, and used the tenets of Austrism to make Awakening sound immoral and evil. This fear of Awakening had a deep impact on Idrian culture, and many superstitions grew up around Awakening. For example, Idrians always wear drab colors, such as black, greys, or tans, so Awakeners can not use that color. However, this is based on misconception, as an Awakener could use those colors anyway. As a result of this isolation and distrust, Idrians are, for the most part, totally ignorant about how Awakening works.
+After their departure the Cult of the Returned took control of the remaining nation, renaming it Hallandren.
 
-### El tratado matrimonial
-Veinte años antes de la rebelión Pahn Kahl, el rey idriano fue asesinado. Como príncipe heredero, [[Dedelin\|Dedelin]] ascendió a la realeza.
-El primer acto oficial de Dedelin fue negociar un tratado con [[Susebron\|Susebron]] en el que prometía enviar a su hija (aparentemente [[Vivenna\|Vivenna]], aunque no se especificaba) a la [[Corte de los Dioses\|Corte de los Dioses]] para casarse con él cuando esta cumpliera veintidós años, reintroduciendo así la línea de sangre de la realeza en la propia línea gobernante de Hallandren. Sin embargo, cuando llegó el momento, Dedelin no pudo enviar a su amada hija a lo que estaba seguro que sería su muerte, así que envió a [[Siri\|Siri]] en su lugar.
+### The Marriage Treaty
+Twenty years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], the Idrian King was assassinated. As crown prince [[Dedelin\|Dedelin]] rose to kingship.
+Dedelin's first official act was to negotiate a treaty with [[Susebron\|Susebron]] promising to send his daughter (ostensibly [[Vivenna\|Vivenna]], though this was not stated specifically) to the [[Court of Gods\|Court of Gods]] to marry him when Vivenna turned twenty-two, thereby reintroducing the bloodline of the royals into Hallandren's own ruling line. When the time came, however, Dedelin could not bring himself to send his beloved daughter to what he was sure would be her death, so he sent [[Siri\|Siri]] instead.
 
-### Rebelión Pahn Kahl
-Durante esa época de deterioro de las relaciones, [[Lemex\|Lemex]], el principal espía idriano en [[T'Telir\|T'Telir]], actuó bajo las órdenes de Dedelin en un intento de desestabilizar Hallandren y socavar su capacidad para hacer la guerra. Por desgracia, no se daba cuenta de que [[Denth\|Denth]] y su [[Banda de Denth\|banda]], a quienes había contratado para ayudarle en sus esfuerzos, le estaban manipulando; las acciones de Lemex en realidad estaban exacerbando las ya considerables tensiones. Vivenna continuó con su trabajo, también en nombre de la ayuda a Idris y también sin conocer las verdaderas motivaciones de Denth.
-En la culminación de la rebelión Pahn Kahl, el ejército de los sinvida de Hallandren fue enviado a Idris para masacrar a su población; sin embargo, Susebron envió a los Fantasmas de Kalad tras el ejército, que llegó a los sinvida a tiempo para derrotar a la fuerza.
+### Pahn Kahl Rebellion
+During that time of deteriorating relations, [[Lemex\|Lemex]], the chief Idrian spy in [[T'Telir\|T'Telir]], acted on Dedelin's orders in an attempt to destabilize Hallandren and undermine its ability to wage war. Unfortunately, he was oblivious to the fact that [[Denth\|Denth]] and his [[Denth's crew\|crew]], whom he had hired to aid in his efforts, were manipulating him; Lemex's actions were actually inflaming the already considerable tensions. Vivenna continued his work, also in the name of helping Idris and also unaware of Denth's true motivations.
+At the culmination of the [[Pahn Kahl\|Pahn Kahl]] rebellion, Hallandren's [[Lifeless\|Lifeless]] army was sent to Idris to slaughter its population; however, Susebron sent [[Kalad's Phantoms\|Kalad's Phantoms]] after the army, who reached the Lifeless in time to defeat the force.
 
-## Ciudadanos destacados
-Para un listado completo, ver :Categoría:De Idris.
+## Notable Citizens
+For a full list see, see :Category:Idrians.
 
-Rey [[Dedelin\|Dedelin]]
+King [[Dedelin\|Dedelin]]
 General [[Yarda\|Yarda]]
 [[Vivenna\|Vivenna]]
 [[Ridger\|Ridger]]
@@ -241,17 +238,6 @@ General [[Yarda\|Yarda]]
 [[Mab\|Mab]]
 [[Parlin\|Parlin]]
 
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] ·  · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
 
 
-
-https://es.coppermind.net/wiki/Idris
+https://coppermind.net/wiki/Idris

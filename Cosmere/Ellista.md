@@ -1,74 +1,52 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ellista**|
 |-|-|
 ||
-|**Oficio**|[[Fervoroso\|Fervoroso]] en el Devotario de la Mente|
-|**Residencia**|[[Jokasha Monastery\|Jokasha Monastery]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Profession**|[[Ardent\|Ardent]] in the Devotary of the Mind|
+|**Residence**|[[Jokasha Monastery\|Jokasha Monastery]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Ellista** es una [[Fervoroso\|fervorosa]] y erudita en el [[Monasterio de Jokasha\|Monasterio de Jokasha]] en [[Jah Keved\|Jah Keved]], en [[Roshar\|Roshar]]. Es parte del [[/wiki/Vorinismo#Devotarios]].
-Ella es una lingüista diacrónica y una de las académicas involucradas en la traducción del [[Canto del alba\|Canto del alba]].
+**Ellista** is an [[Ardent\|ardent]] and scholar at the [[Jokasha Monastery\|Jokasha Monastery]] in [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]]. She is part of the [[/wiki/Vorinism#Devotaries]]. She is a diachronic linguist and one of the scholars involved in the [[Dawnchant\|Dawnchant]] translation.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Trabajando en el Canto del alba]] 
-2. [[#Encuentro con Urv]] 
-
-
-3 Notas. [[#Notas]] 
+2. [[#Working on the Dawnchant]] 
+2. [[#Encounter with Urv]] 
 
 
-## Apariencia y personalidad
-Como la mayoría de [[Fervoroso\|fervorosos]], Ellista tiene la cabeza rapada. Nunca le gustó lidiar con su cabello, lo que lleva a sus padres a bromear diciendo que se convirtió en fervorosa solo para poder afeitárselo.
-
->“*Una gran franja de árboles de allí fuera había quedado arrasada por la tormenta nueva, ¡pero no era motivo para que todos se alteraran tanto!*”
-\-Reflexiones de Ellista sobre la tormenta eterna[1]
-
-A Ellista no le gusta la interrupción ni la distracción y generalmente prefiere que la dejen sola. Tiene una actitud práctica y puede ser escéptica y crítica. Cuando escucha a otros fervorosos discutiendo sobre la [[Tormenta eterna\|tormenta eterna]] o hablando de eventos políticos en todo [[Roshar\|Roshar]], no muestra interés. Cree que todos están exagerando con respecto a la tormenta eterna.
-Está bien versada en su campo y parece ser una investigadora y lingüista talentosa, ya que [[Urv\|Urv]] la llama "brillante" y señala que hace un progreso increíble al traducir fragmentos del Canto del alba recopilados por [[Bendthel\|Bendthel]].
-Es una fan de las epopeyas atrevidas [[Alezi\|alezi]].
-
-## Historia
-Ellista se mudó al  en algún momento antes de que el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Dalinar Kholin\|Dalinar Kholin]] comenzase a recibir visiones en 1173. Se considera afortunada de tener un lugar en Jokasha, ya que es un lugar deseado por muchos fervorosos. Antes de convertirse en [[Fervoroso\|fervorosa]], pensaba que los académicos no discutían, pero desde entonces se ha dado cuenta de que era una idea equivocada.
-
-### Trabajando en el *Canto del alba*
->“*Mira, del documento se deduce a las clara que hubo un tiempo en que se empleaba el mismo sistema de escritura a lo largo y ancho de Roshar... No es una diáspora de textos, sino auténticas pruebas que terminaron escritas de forma natural en el *Canto del alba*.*”
-\-Ellista a Urv sobre el uso histórico del Canto del alba[1]
+3 Notes. [[#Notes]] 
 
 
-Después de que la reina [[Navani Kholin\|Navani Kholin]] proporcionase la clave del *Canto del alba* que recupera a través de las [[Visiones de Dalinar\|visiones de Dalinar]], varios eruditos en el monasterio, incluyendo a Ellista, comienzan a descifrar los antiguos textos que tenían en su posesión. Ellista se alegra de tener la información de Navani, pero se niega a creer que las visiones fuesen reales.
-La llegada de la [[Tormenta eterna\|tormenta eterna]] distrae a muchos [[Fervoroso\|fervorosos]] de su trabajo de traducción, pero Ellista persiste. Cree que ha encontrado evidencia de que el *Canto del alba* fue alguna vez utilizado como un lenguaje escrito unificado en la antigua [[Roshar\|Roshar]], respaldando una teoría planteada por [[Jasnah Kholin\|Jasnah Kholin]] en *[[Reliquia y monumento\|Reliquia y monumento]]*. Ella discrepa vehementemente con argumentos anteriores (incluyendo los hechos por [[Fiksin\|Fiksin]]) que sostienen que todos los textos escritos en el *Canto del alba* tuvieron su origen en una sola región. A través de sus estudios, también ha logrado determinar que las catastróficas [[Desolaci%C3%B3n\|Desolaciones]] llevaron al abandono del *Canto del alba*. Las naciones individuales comenzaron a usar el *Canto del alba* para registrar fonéticamente su idioma hablado y más tarde desarrollaron sus propios glifos, abandonando por completo el *Canto del alba*.
+## Appearance and Personality
+Like most [[Ardent\|ardents]], Ellista has a shaved head. She had never liked dealing with her hair, which leads her parents to joke that she became an ardent just so she could shave it off.
+
+>“*A large swath of trees out there had been flattened by the new storm. But that was no reason for everyone to get upset!*”
+\-Ellista's musings on the Everstorm[1]
+
+She dislikes disruption and distraction and generally prefers to be left alone. She has a no-nonsense attitude and can be skeptical and judgmental. When she hears fellow ardents arguing about the [[Everstorm\|Everstorm]] or discussing political happenings throughout [[Roshar\|Roshar]], she takes no interest. She believes that everyone is overreacting to the Everstorm.
+She is well-read in her field and seems to be a gifted researcher and linguist, as [[Urv\|Urv]] calls her "brilliant" and notes that she makes incredible progress in translating Dawnchant fragments collected by [[Bendthel\|Bendthel]].
+She is a fan of risqué [[Alethi\|Alethi]] epics.
+
+## History
+Ellista moved to the [[Jokasha Monastery\|Jokasha Monastery]] at some point before [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] began receiving visions during 1173. She considers herself lucky to have a place in Jokasha, as it is a desirable location for many [[Ardent\|ardents]]. Before becoming an ardent, she thought that scholars did not bicker, but has since realized that was a misconception.
+
+### Working on the Dawnchant
+>“*Look, there’s easy proof here that the same writing system was once used all across Roshar... Not a diaspora of texts, but real evidence they wrote naturally in the Dawnchant.*”
+\-Ellista to Urv on the historical use of the Dawnchant[1]
+
+
+After Queen [[Navani Kholin\|Navani Kholin]] provides the key to the Dawnchant that she recovers through [[Dalinar's visions\|Dalinar's visions]], scholars in the monastery, including Ellista, begin to decode the old texts that they had in their possession. Ellista is glad to have Navani's information, but refuses to believe that the visions were real.
+The coming of the [[Everstorm\|Everstorm]] distracts many [[Ardent\|ardents]] from their translation work, but Ellista persists. She believes that she has found evidence that Dawnchant was once used as a unified written language across ancient [[Roshar\|Roshar]], supporting a theory posited by [[Jasnah Kholin\|Jasnah Kholin]] in *[[Relic and Monument\|Relic and Monument]]*. She vehemently disagrees with earlier arguments (including those made by [[Fiksin\|Fiksin]]) that written Dawnchant texts all originated in a single region. Through her studies, she has also been able to determine that the cataclysmic [[Desolation\|Desolations]] caused Dawnchant to fall into disuse. Individual nations began to use the Dawnchant to phonetically record their spoken language, and later developed their own glyphs, abandoning Dawnchant altogether.
 
  
-### Encuentro con Urv
-Mientras intentaba leer *[[Una virtuosa rendici%C3%B3n de cuentas\|Una virtuosa rendición de cuentas]]*, Ellista es interrumpida por varios fervorosos que discuten sobre los movimientos de la tormenta eterna. Buscando un poco de paz y tranquilidad, abandona su rincón de lectura en la biblioteca del monasterio y se dirige a un escritorio en un pasillo cercano. Desafortunadamente, nuevamente es interrumpida por la discusión sobre la nueva tormenta y se ve obligada a moverse. Después de no tener suerte en los edificios inferiores, Ellista se aventura en el bosque donde, finalmente, está sola y puede leer sin interrupciones.
-En el bosque, Ellista es encontrada pronto por otro fervoroso del monasterio llamado [[Urv\|Urv]], quien esperaba verificar su progreso con la traducción del *Canto del alba*. Para su consternación, Urv no se va después de entregarle sus notas, en cambio, se queda cerca para revisar sus traducciones. Ellista le da a Urv un resumen de su investigación sobre el *Canto del alba*, y él queda notablemente impresionado. Mientras hablan, Urv nota que Ellista está sentada sobre su copia de *Una virtuosa rendición de cuentas* en un intento infructuoso de ocultarlo. Urv comenta que él mismo ha leído el libro y ofrece prestarle a Ellista la secuela a cambio de su ayuda para traducir el [[Fragmento de Covad\|Fragmento de Covad]]. Afirma que está trabajando en el fragmento por solicitud de un patrono no nombrado.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 14:40, 23 May 2019 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Encounter with Urv
+While attempting to read *[[An Accountability of Virtue\|An Accountability of Virtue]]*, Ellista is interrupted by several ardents arguing about the movements of the Everstorm. Hoping for some peace and quiet, she leaves her reading nook in the monastery's library and makes her way to a reading desk in a nearby hallway. Unfortunately, she is again interrupted by discussion of the new storm and is forced to move. After having no luck in the lower buildings, Ellista ventures into the forest where she was at last alone, and could read uninterrupted.
+In the forest, Ellista is soon found by another ardent at the monastery named [[Urv\|Urv]] who hoped to check on her progress with the Dawnchant translation. Much to her dismay, Urv does not leave after she hands over her notes, instead settling down nearby to review her translations. Ellista gives Urv a synopsis of her research on the Dawnchant, and he is suitably impressed. While they talk, Urv notices that Ellista is sitting on her copy of *An Accountability of Virtue* in an unsuccessful attempt to hide it. Urv comments that he has read the book himself, and offers to lend Ellista the sequel in exchange for her help translating the [[Covad Fragment\|Covad Fragment]]. He claims that he is working on the fragment at the request of an unnamed patron.
 
 
 
-https://es.coppermind.net/wiki/Ellista
+https://coppermind.net/wiki/Ellista

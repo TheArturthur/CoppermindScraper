@@ -1,43 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Johnst**|
 |-|-|
-|**Fallecido**|Asesinado y suplantado por [[Sangradora\|Sangradora]].|
-|**Oficio**|Granjero|
-|**Residencia**|[[Cuenca de Elendel\|Cuenca de Elendel]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Died**|Killed and replaced by [[Bleeder\|Bleeder]].|
+|**Profession**|Farmer|
+|**Residence**|[[Elendel Basin\|Elendel Basin]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Johnst** es un granjero de la [[Cuenca de Elendel\|Cuenca de Elendel]].
+**Johnst** is a farmer in the [[Elendel Basin\|Elendel Basin]].
 
-## Historia
-En el 342 [[Catacendro\|PC]], Johnst fue arrestado por usar explosivos para destruir un embalse cerca de [[Corbeau\|Corbeau]]. El incidente dejó docenas de muertos, inundó la región, destruyó cosechas y causó escasez. Johnst declaró que solo pretendía arruinar la cosecha de un vecino, pero que la explosión fue mayor de lo que esperaba.
-Durante el juicio se comportó de forma errática y fue incapaz de recordar los nombres de sus hijos. Sus abogados intentaron alegar que se había vuelto loco, pero finalmente fue condenado a morir en la horca. Después, se negó a una última comida y pidió una ejecución rápida. Su tumba fue profanada dos días después de su entierro, supuestamente por quienes perdieron familiares en la inundación.
-[[Marasi\|Marasi]] y [[MeLaan\|MeLaan]] dedujeron por su historia que había sido asesinado y suplantado por [[Sangradora\|Sangradora]]. Propusieron que esta lo había usado para sembrar más caos en la Cuenca.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Taln Fan (talk) 13:23, 8 March 2022 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+In 342 [[Catacendre\|PC]], Johnst was arrested for using explosives to destroy a dam near [[Corbeau\|Corbeau]]. His sabotage left dozens dead, flooded the region, destroyed crops, and caused grain shortages. Johnst claimed that he only wanted to ruin his neighbor's harvest, and that the explosion was larger than he had intended.
+He behaved erratically during his trial and was unable to remember the names of his children. His lawyers tried to claim that he had gone insane, but he was sentenced to be hanged. Afterwards, he refused a final meal and asked that the execution be over with quickly. His grave was desecrated two days after his burial, allegedly by those who lost family in the flooding.
+[[Marasi\|Marasi]] and [[MeLaan\|MeLaan]] deduced from his story that he had been killed and replaced by [[Bleeder\|Bleeder]]. They postulated that she had used him to try to sow further chaos in the Elendel Basin.
 
 
 
-https://es.coppermind.net/wiki/Johnst
+https://coppermind.net/wiki/Johnst

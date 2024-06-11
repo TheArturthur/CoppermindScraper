@@ -1,95 +1,75 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Iri**|
 |-|-|
 ||
-|**Etnia**|[[Iriali\|Iriali]]|
-|**Era**|[[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|[[Iriali\|Iriali]]|
+|**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Este artículo trata sobre la nación en Roshar. Para el pueblo por todo el Cosmere, ver [[Iriali\|Iriali]].
->“*Somos iriali, y parte del Largo Sendero, del cual esta es la Cuarta Tierra. … Con el tiempo, todo volverá a unirse, cuando se consiga la Séptima Tierra, y una vez más nos convertiremos en Uno.*”
+This article is about the nation on Roshar. For the people across the cosmere, see [[Iriali\|Iriali]].
+>“*We are Iriali, and part of the Long Trail, of which this is the Fourth Land. … Eventually, all will be gathered back in—when the Seventh Land is attained—and we will once again become One.*”
 \-Ym[1]
 
 
-**Iri** es un reino del noroeste de [[Roshar\|Roshar]]. Antes de la [[Traici%C3%B3n\|Traición]], era uno de los [[Reinos Plateados\|Reinos Plateados]]. A los habitantes de Iri se les llama Iriali. Iri está gobernada por tres monarcas, actualmente dos reyes y una reina. La reina de Iri tiene autoridad sobre la política exterior.
+**Iri** is a kingdom in northwestern [[Roshar\|Roshar]]. Prior to the [[Recreance\|Recreance]], it was one of the [[Silver Kingdoms\|Silver Kingdoms]]. People from Iri are called Iriali. Iri is ruled by three monarchs, currently two kings and a queen. The Iriali queen has authority over foreign policy.
 
-## Sumario
+## Contents
 
-1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-2 Historia. [[#Historia]] 
-3 Política. [[#Pol.C3.ADtica]] 
-4 Política Exterior. [[#Pol.C3.ADtica Exterior]] 
+1 Geography and Ecology. [[#Geography and Ecology]] 
+2 History. [[#History]] 
+3 Politics. [[#Politics]] 
+4 Foreign Policy. [[#Foreign Policy]] 
 
 4. [[#Rira]] 
 
 
-5 Cultura. [[#Cultura]] 
+5 Culture. [[#Culture]] 
 
-5. [[#Religi.C3.B3n]] 
-
-
-6 Ciudadanos y visitantes notables. [[#Ciudadanos y visitantes notables]] 
-7 TCuriosidades. [[#TCuriosidades]] 
-8 Notas. [[#Notas]] 
+5. [[#Religion]] 
 
 
-## Geografía y ecología
-La ciudad más grande de Iri es [[Rall Elorim\|Rall Elorim]], la Ciudad de las sombras, seguida de cerca por [[Kasitor\|Kasitor]]. Muchos habitantes de Kasitor adoran a [[Cusicesh el Protector\|Cusicesh el Protector]], un [[Spren\|spren]] gigante, como deidad. En Iri también se encuentra la ciudad de [[Eila\|Eila]]. Debido a su posición noroccidental en Roshar, Iri es más cálida que la mayoría de las demás naciones.
+6 Notable Citizens & Visitors. [[#Notable Citizens .26 Visitors]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
-## Historia
-Los iriali no son nativos de [[Roshar\|Roshar]]. Creen que forman parte de algo que denominan el "Largo Sendero", una serie de siete Tierras que deben "alcanzarse" antes de que vuelvan a ser Uno. De ellas, la Cuarta Tierra es Roshar, a la que emigraron desde algún lugar además de [[Ashyn\|Ashyn]], separados del resto de la humanidad. En su pasado han tenido lo que la mayoría consideraría ancestros inhumanos, dependiendo de lo que se considere humano.
-Durante las Desolaciones se fundó el [[Reino Plateado\|Reino Plateado]] de Iri. Este reino gobernaba los actuales territorios de Iri y Rira. En algún momento, el Reino se derrumbó y la parte oriental se separó, formando Rira. Iri continuó reclamando a Rira como vasallo, pero esa reclamación fue cuestionada.
-Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], [[Dalinar Kholin\|Dalinar Kholin]] se acercó a los monarcas de Iri en un intento de persuadirlos para que se uniesen a la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]]. Iri afirmaba tanto que Dalinar les había robado su [[Armadura esquirlada\|armadura esquirlada]] como que [[Alezkar\|Alezkar]] ya no era relevante como potencia mundial. Presentaron estos argumentos para no respaldar a la coalición, optando en su lugar por unirse a los [[Fusionado\|Fusionados]], quienes les ofrecieron más poder del que creían posible obtener al aliarse con los humanos. Además, el pueblo iriali buscaba la paz. Repasando sus historias, se dieron cuenta de que los humanos nunca habían probado la táctica de la capitulación como forma de evitar una [[Desolaci%C3%B3n\|Desolación]] y sintieron la obligación de intentarlo, ya que era una experiencia que el  aún no había explorado.
-Justo después de la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Iri había atacado hacia el este y, con la ayuda de las fuerzas de Odium, había capturado la mayoría de los reinos occidentales en la región de Lagopuro. El país se convirtió tanto en un lugar de estacionamiento de tropas como en el centro al que se retiró la armada de Odium tras una derrota ante la coalición.
 
-## Política
-Los Iriali están gobernados por un triunvirato de gobernantes. Aparentemente, el sexo del gobernante carece de importancia, aunque actualmente están gobernados por dos reyes y una reina. La reina tiene actualmente responsabilidades sobre la política exterior.
+## Geography and Ecology
+The largest city in Iri is [[Rall Elorim\|Rall Elorim]], City of Shadows, followed closely by [[Kasitor\|Kasitor]]. Many people in Kasitor worship [[Cusicesh the Protector\|Cusicesh the Protector]], a giant [[Spren\|spren]], as a deity. Iri also contains the city of [[Eila\|Eila]]. Due to its northwestern position on Roshar, Iri is warmer than most other nations.
 
-## Política Exterior
+## History
+The Iriali are not native to [[Roshar\|Roshar]]. They believe that they are part of something they call the "Long Trail," a series of seven Lands which all must be "attained" before they will become One again. Of these, the Fourth Land is Roshar, which they migrated to from somewhere besides [[Ashyn\|Ashyn]], separately from the rest of humanity. They have had what most would consider to be inhuman ancestry in their past, depending on what is considered human.
+During the Desolations the [[Silver Kingdom\|Silver Kingdom]] of Iri was founded. This Kingdom ruled the current territories of Iri and Rira. At some point the Kingdom collapsed and the eastern part split off, forming Rira. Iri continued to claim Rira as a vassal, but that claim was disputed.
+During the [[True Desolation\|True Desolation]], [[Dalinar Kholin\|Dalinar Kholin]] approached the monarchs of Iri in an attempt to persuade them to join the [[Coalition of monarchs\|coalition of monarchs]]. Iri claimed both that Dalinar had stolen their [[Shardplate\|Shardplate]] and that [[Alethkar\|Alethkar]] was no longer relevant as a world power. They gave these as reasons not to side with the coalition, instead joining forces with the [[Fused\|Fused]], who offered them more power than they felt they could gain by siding with the humans. Furthermore, the Iriali people sought peace. Looking back at their histories, they realized that humans had never tried the tactic of capitulation as a way to avoid a [[Desolation\|Desolation]] and felt an obligation to try it, as it was an experience the [[One\|One]] had not yet explored.
+By the time just after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Iri had struck eastward and, with the help of Odium's forces, captured most of the western kingdoms in the region of the Purelake. The country became both a stationing ground for troops and the center to which Odium's navy retreated following a defeat by the coalition.
+
+## Politics
+The Iriali are ruled by a triumvirate of rulers. The gender of the ruler is apparently unimportant, though currently they are ruled by two kings and a queen. The Queen currently has responsibilities over foreign policy.
+
+## Foreign Policy
 ### Rira
-La nación de Iri reclama autoridad sobre su "nación hermana" de Rira, pero Rira cuestiona esa reclamación. A pesar de ello, en última instancia, Iri ejerce su dominio sobre Rira. Los iriali desean atacar hacia el este y apoderarse de Iri.
+The nation of Iri claims authority over their "sister nation" of Rira, but Rira disputes that claim. Despite this, Iri does ultimately hold sway over Rira. The Iriali desire to strike eastward and take over Iri.
 
-## Cultura
-Los [[Iriali\|iriali]] tienen piel dorada metálica y cabello rubio dorado que se hereda siempre. Muchos [[Alezi\|alezi]] consideran que un mechón del cabello dorado de los iriali da buena suerte. Los iriali son muy exigentes con las leyes de castidad y no les gusta la desnudez en público. Los hombres suelen llevar solo chalecos en los días más cálidos. Los iriali también se pintan la piel con colores y dibujos. Losiriali suelen ser menos conflictivos y remilgados que las naciones [[Vorin\|Vorin]]. La mayoría tienen los ojos amarillos.
-Iri no tiene [[Moldeador de almas\|moldeadores de almas]].
+## Culture
+The [[Iriali\|Iriali]] have metallic golden-blond skin and hair that breeds true. Many [[Alethi\|Alethi]] consider a lock of the golden hair of the Iriali to be good luck. The Iriali are particular about chastity laws, and dislike public nudity. The men often wear only waist wraps on warmer days. The Iriali also paint their skin with colors and patterns. The Iriali tend to be less quarrelsome and prudish than the [[Vorin\|Vorin]] nations. They mostly have yellow eyes.
+Iri has no [[Soulcaster\|Soulcasters]].
 
-### Religión
-Los Iriali adoran a un dios al que llaman "el Uno". Según esta creencia, el Uno lo sabía todo pero no había experimentado nada. Y así el Uno se convirtió en Muchos para experimentar todas las cosas. Como cada experiencia es diferente, aporta plenitud al Uno. Con el tiempo, todos volverán a reunirse cuando se alcance la suma de la tierra y volverán a ser Uno. Cada persona es una mente diferente de un único ser que experimenta vidas diferentes. Como Muchos, necesitan ignorancia. Cada fragmento de la mente del Uno tiene su propio cuerpo con diferentes pasiones e inclinaciones. Existen en variedad para experimentar todo tipo de pensamiento. Eso significa que algunas personas deben saber y otras no. Al igual que algunos deben ser ricos y otros pobres.
-Es probable que esta creencia sea la misma que difundió [[Arclo\|Arclo]].
-La religión está, al menos en cierto modo, relacionada con la [[Fragmentaci%C3%B3n\|Fragmentación]] de [[Adonalsium\|Adonalsium]], con su filosofía de que uno se convierte en muchos.
-La religión Iriali incluye de alguna manera la lectura de presagios del futuro en las olas del océano. Los leemareas observan las olas y utilizan lo que ven para hacer pronósticos sobre el futuro. La reina Iriali tiene un lector de mareas en su corte.
-La filosofía del Uno es que el [[Reino Espiritual\|Reino Espiritual]] y el [[M%C3%A1s All%C3%A1\|Más Allá]] son la misma cosa. Cuando una persona muere, su alma vuelve a unirse a la [[Investidura\|Investidura]] del Reino Espiritual. La mayoría de los filósofos del [[Cosmere\|Cosmere]] no están de acuerdo con esta creencia.
+### Religion
+The Iriali worship a god they call "The One". According to this belief, the One knew everything but had experienced nothing. And so the One became Many in order to experience all things. As each experience is different, it brings completeness to the One. Eventually, all will be gathered back in when the sum of land is attained and they will once again become One. Every person is a different mind of a single being experiencing different lives. As Many, they need ignorance. Each fragment of the One’s mind has its own body with different passions and inclinations. They exist in variety to experience all kinds of thought. That means some people must know and others must not. Just like some people must be rich and others poor.
+It is likely that this belief is the same one spread by [[Arclo\|Arclo]].
+The religion is at least somewhat related to the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]] with its philosophy of one becoming many.
+The Iriali religion involves somehow reading portents of the future in the waves of the ocean. Tidereaders look at the waves and use what they see to make pronouncements about the future. The Iriali queen has a tidereader in her court.
+The philosophy behind the One is that the [[Spiritual Realm\|Spiritual Realm]] and the [[Beyond\|Beyond]] are the same thing. When a person dies, their soul rejoins the [[Investiture\|Investiture]] of the Spiritual Realm. Most [[Cosmere\|cosmere]] philosophers disagree with this belief.
 
-## Ciudadanos y visitantes notables
-[[Ym\|Ym]] es un zapatero Iriali e incipiente [[Vigilante de la Verdad\|Vigilante de la Verdad]] que es asesinado por [[Nale\|Nale]].
-[[Zu (Roshar)\|Zu]] es un [[Custodio de Piedra\|Custodio de Piedra]] Iriali que está vinculado a la [[Cumbrespren\|cumbrespren]] [[Ua'pam\|Ua'pam]]
-[[Wyndle\|Wyndle]] originalmente quiere vincularse con una distinguida matrona iriali (que podría haber sido Ym), pero [[El Anillo\|el Anillo]] elige que se vincule con [[Lift\|Lift]] en su lugar.
-[[Axies el Coleccionista\|Axies el Coleccionista]], un [[Aimiano\|aimiano]], visita Iri en busca de [[Spren\|spren]].
-[[Rysn\|Rysn]] y su babsk, [[Vstim\|Vstim]], visitan Iri, y Rysn se las arregla para ofender a los iriali de alguna manera.
-## TCuriosidades
-Los iriali tendrán un papel que desempeñar durante la era espacial del [[Cosmere\|Cosmere]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] ·  · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Notable Citizens & Visitors
+[[Ym\|Ym]] is an Iriali cobbler and incipient [[Truthwatcher\|Truthwatcher]] who is killed by [[Nale\|Nale]].
+[[Zu (Roshar)\|Zu]] is an Iriali [[Stoneward\|Stoneward]] who is bonded to the [[Peakspren\|peakspren]] [[Ua'pam\|Ua'pam]]
+[[Wyndle\|Wyndle]] originally wants to form a bond with a distinguished Iriali matron (who might have been Ym), but the [[Ring\|Ring]] chooses for him to bond [[Lift\|Lift]] instead.
+[[Axies the Collector\|Axies the Collector]], an [[Aimian\|Aimian]], visits Iri to look for [[Spren\|spren]].
+[[Rysn\|Rysn]] and her babsk, [[Vstim\|Vstim]], visit Iri, and Rysn manages to offend the Iriali somehow.
+## Trivia
+The Iriali will have a role to play during the space age of the [[Cosmere\|cosmere]].
 
 
-
-https://es.coppermind.net/wiki/Iri
+https://coppermind.net/wiki/Iri

@@ -1,12 +1,12 @@
 |***Mythwalker***|
 |-|-|
-|**Fecha original**|Not applicable|
-> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) **!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
+|**Released**|Not applicable|
+> [!info] This page or section contains details from the unpublished work **!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
 
 ***Mythwalker*** is the ninth novel [[Brandon\|Brandon]] ever wrote, though it was unfinished. Elements of it were cannibalized for the [[Mistborn (series)\|Mistborn sequence]], *[[The Way of Kings\|The Way of Kings]]*, and *[[Warbreaker\|Warbreaker]]*, including the characters [[Vivenna\|Vivenna]] and [[Sisirinah\|Siri]], who became two of *Warbreaker's* main characters. It's sometimes referred to as **Warbreaker Prime**.
-Brandon claims *Mythwalker* is the only book he has ever given up writing. All Brandon wrote of it has been posted online at , along with commentary by Brandon's assistant, [[Peter Ahlstrom\|Peter Ahlstrom]]. According to Peter, *Mythwalker* and its magic system contributed to the creation of .
+Brandon claims *Mythwalker* is the only book he has ever given up writing. All Brandon wrote of it has been posted online at , along with commentary by Brandon's assistant, [[Peter Ahlstrom\|Peter Ahlstrom]]. According to Peter, *Mythwalker* and its magic system contributed to the creation of [[/wiki/Sanderson%27s Laws of Magic#Sanderson.27s Second Law]].
 
-## Sumario
+## Contents
 
 1 Summary. [[#Summary]] 
 2 Magic system. [[#Magic system]] 
@@ -58,7 +58,7 @@ The names [[Skaa\|Skaa]] and Kkoloss (modified to [[Koloss\|Koloss]]),
 The world being a ruined wasteland (albeit Final Empire-era [[Scadrial\|Scadrial]] is far more desolate than Kkekimar),
 Vvenna's Kkell power of altering her weight (which became iron [[Feruchemy\|Feruchemy]]), and the Sserin power of gaining Strength (which became pewter Feruchemy). The Ddoven Repulsion power has some similarities to steel [[Allomancy\|Allomancy]].
 The protagonist having a ruling caste father and a low caste mother, and having supernatural power thanks to the former,
-A side character who pretends to be a member of the lower caste while belonging to the higher (Ralan vs. ),
+A side character who pretends to be a member of the lower caste while belonging to the higher (Ralan vs. [[Breeze\|Breeze]]),
 A capital city where each noble family has a magnificent and unique palace to their name,
 Both the Kkoloss and the nobles are noticeably taller than the Eruntu and the Scadrial Skaa
 ### In [[The Stormlight Archive\|The Stormlight Archive]]
@@ -67,39 +67,22 @@ The army coming to a remote village to recruit,
 The Kkoloss/[[Lighteyes\|lighteyes]] treating Eruntu/[[Darkeyes\|darkeyes]] like game pieces,
 The protagonist bonding with unwilling teammates through cooking,
 [[Teft\|Teft]] has elements of both Hein and Voko,
-The behavior and treatment of the Skaa here is similar to that of the ,
+The behavior and treatment of the Skaa here is similar to that of the [[Parshmen\|Parshmen]],
 A magic system where supernatural power is gained by taking Oaths,
-Siri's healing power is similar to , although unlike Regrowth, the changes it brings don't last,
+Siri's healing power is similar to [[Regrowth\|Regrowth]], although unlike Regrowth, the changes it brings don't last,
 The shadowlings look and function very similarly to the [[Midnight Essence\|Midnight Essence]],
 The Sept system of ranking nobility might've been turned into the [[Dahn\|Dahn]] system, albeit without Septs' supernatural connotations,
 Flying variants of typically aquatic animals (fish-like lills vs. eel-like [[Skyeel\|Skyeels]])
 ### In *[[Warbreaker\|Warbreaker]]*
-[[Siri\|Siri]]'s plotline has been reworked into the main axis of *Warbreaker*, and the pacing of it was greatly improved,
+[[Siri\|Siri's]] plotline has been reworked into the main axis of *Warbreaker*, and the pacing of it was greatly improved,
 Vvenna became [[Vivenna\|Vivenna]], and her plot was changed to make her a more active character,
 The Emperor became [[Susebron\|Susebron]], and other than the changes brought about by a different magic system, his personality apparently remained the same,
 The pattern of double consonants in names, although in *Warbreaker* it was altered to make it easier to read (ex. Vvenna vs. Vivenna),
-The dwelling place of the most powerful being physically separated from the rest of the world (the Holy Island vs. ),
-The small seizures that Devin suffers whenever he acquires a new skill are the very similar to the seizures caused by suddenly acquiring a lot of ,
+The dwelling place of the most powerful being physically separated from the rest of the world (the Holy Island vs. [[Court of Gods\|Court of Gods]]),
+The small seizures that Devin suffers whenever he acquires a new skill are the very similar to the seizures caused by suddenly acquiring a lot of [[Breath\|Breath]],
 The theocracy with highly politically-involved priests
-### In 
-The way a weaker version of a Kkell Power can be gifted to Eruntu by the Kkoloss is similar to how   can grant a fraction of their power to non-Epics.
-## Notes
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+### In [[The Reckoners\|The Reckoners]]
+The way a weaker version of a Kkell Power can be gifted to Eruntu by the Kkoloss is similar to how [[Gifter\|Gifter]] [[Epic\|Epics]] can grant a fraction of their power to non-Epics.
 
 
-
-https://es.coppermind.net/wiki/Mythwalker
+https://coppermind.net/wiki/Mythwalker

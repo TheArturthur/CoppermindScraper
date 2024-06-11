@@ -1,49 +1,35 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Yarda**|
 |-|-|
-|**Familia**|
-|**Hijos**|[[Parlin\|Parlin]]|
-|**Oficio**|General|
-|**Religión**|[[Austrismo\|Austrismo]]🐱︎|
-|**Residencia**|[[Bevalis\|Bevalis]]|
-|**Nacionalidad**|[[De Idris\|de Idris]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Family**|
+|**Children**|[[Parlin\|Parlin]]|
+|**Profession**|General|
+|**Religion**|[[Austrism\|Austrism]]|
+|**Residence**|[[Bevalis\|Bevalis]]|
+|**Nationality**|[[Idrian\|Idrian]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*La guerra se avecina, majestad. La siento en los vientos y la leo en los informes de nuestros espías. Hallandren sigue considerándonos rebeldes, y nuestros pasos hacia el norte son demasiado tentadores. Atacarán.*”
-\-Yarda y el rey Dedelin hablando sobre la guerra[1]
-
-
-**Yarda** es el general de los ejércitos [[Idris\|idrianos]]. Es un hombre corpulento y de espesa barba. También es un viejo amigo del rey [[Dedelin\|Dedelin]]. Este se refería a él como "un hombre duro nacido en inviernos duros", pero también tan buen hombre como Dedelin había conocido. Yarda no dudaba en enviar a un soldado a morir si eso significaba que el resto del ejército estaba en mejor posición para atacar. Las conferencias con Yarda y Dedelin solían durar horas.
-[[Parlin\|Parlin]] es el hijo de Yarda. Dedelin a menudo deseaba que pudiera casarse con su hija, [[Vivenna\|Vivenna]], pero esto no era posible, ya que Dedelin había hecho un tratado con Hallandren para enviar a su hija cuando Vivenna cumpliera veintidós años.
-
-## Perspectivas militares idrianas y el tratado
->“*No podemos detener la guerra, majestad. Pero... podemos retrasarla.*”
-\-Yarda recomendando al rey Dedelin que cumpla el tratado con Hallandren y envíe allí a Vivenna.[1]
+>“*War is coming, Your Majesty. I feel it in the winds and read it in the reports of our spies. Hallandren still considers us rebels, and our passes to the north are too tempting. They will attack.*”
+\-Yarda and King Dedelin discussing war[1]
 
 
-Yarda y Dedelin no podían ver una solución a largo plazo contra [[Hallandren\|Hallandren]]. Cada año más voces en Hallandren pedían un asalto contra lo que llamaban "idrianos rebeldes". Yarda dijo que los pasos del norte de Idris eran un objetivo demasiado bueno para que Hallandren lo dejara pasar. Además, con la separación de Hallandren e Idris tras [[La Multiguerra\|la Multiguerra]], Hallandren quería una hija de la realeza para reintroducir el linaje regio tradicional en la monarquía de Hallandren.
-Dedelin había esperado que [[Vahr\|Vahr]] y sus soldados de [[Pahn Kahl\|Pahn Kahl]] desviaran la atención de Hallandren de Idris, pero Vahr fue finalmente capturado, y sólo había servido para que Hallandren se centrara más en sus enemigos.
-Idris no estaba preparada para la guerra. Yarda sabía que el ejército de Hallandren estaba formado por cuarenta mil sinvidas. El general dijo que las tropas idrianas no se habían recuperado de las incursiones [[Vendis\|vendis]] en el otoño anterior, y los incendios en el granero en el invierno actual empeoraban aún más las cosas. Yarda insistió en que la mejor defensa de Idris contra Hallandren era la nieve, y que la guerra no podía librarse en los términos de Hallandren.
-En su lugar, Yarda confió en el tratado con Hallandren. Sabía que enviar a Vivenna sería duro para Dedelin, pero sería una importante táctica para retrasarlo. Yarda intentó persuadir a Dedelin para que siguiera adelante con el tratado, sugiriendo que Hallandren podría no dañar a Vivenna si la enviaban. Sin embargo, Yarda no lo creía.
-Yarda sabía que si conseguían retrasarse lo suficiente, las nieves idrianas estarían de su lado. Estaba convencido de que podría atraer a la nación de [[Tedradel\|Tedradel]] en ayuda de Idris, ya que odiaban a Hallandren desde la Multiguerra. Yarda también quería tratar de alborotar a la facción rebelde de Vahr en Hallandren. Al menos, retrasaría la guerra e Idris tendría más tiempo para reunir suministros. Dedelin no estaba de acuerdo, pensaba que darles a alguien de sangre real les daría un reclamo aún más fuerte sobre las tierras altas idrianas. Yarda replicó que tal vez Hallandren esperaría a que naciera un heredero antes de que llegara su ejército.
-Dedelin decidió no enviar a Vivenna, sino a Siri para aplacar a Hallandren. Sabía que enviar a la hija equivocada enfurecería a Hallandren, pero al menos no atacarían inmediatamente.
-Vivenna sabía que Yarda estaría mejor preparadO para gobernar en tiempos de guerra que Vivenna, lo que la hizo sentirse inútil cuando Dedelin no la envió a Hallandren.
+**Yarda** is the general of the [[Idris\|Idrian]] armies. He is a burly man and had a thick beard. He is also an old friend of King [[Dedelin\|Dedelin]]. Dedelin referred to him as "a harsh man born of harsh winters," but also as good of a man as Dedelin had ever known. Yarda would not hesitate to send one soldier to die if it meant that the rest of the army was in a better position to attack. Conferences with Yarda and Dedelin usually lasted hours.
+[[Parlin\|Parlin]] is Yarda's son. Dedelin often wished Parlin could marry his daughter, [[Vivenna\|Vivenna]], but this was not possible, as Dedelin had made a treaty with Hallandren to send his daughter on Vivenna's twenty-second birthday.
 
-## Notas
+## Idrian Military Outlook and the Treaty
+>“*We can't stop the war, Your Majesty. But... we can slow it.*”
+\-Yarda recommending King Dedelin to honor the treaty with Hallandren and send Vivenna there.[1]
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 12:49, 3 de Septiembre de 2016 (MST)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+
+Yarda and Dedelin could see no long term solution against [[Hallandren\|Hallandren]]. Every year more voices in Hallandren called for an assault on what they called "rebel Idrians." Yarda said that Idris's northern passes were a target too good for Hallandren to pass up. Additionally, with Hallandren and Idris's split following the [[Manywar\|Manywar]], Hallandren wanted a royal daughter to reintroduce the traditional royal bloodline into the Hallandren monarchy.
+Dedelin had hoped that [[Vahr\|Vahr]] and his [[Pahn Kahl\|Pahn Kahl]] soldiers would draw Hallandren's attention away from Idris, but Vahr was eventually captured, and had only served to make Hallandren more focused on its enemies.
+Idris was not ready for war. Yarda was aware that Hallandren's army consisted of forty thousand Lifeless. The general said that the Idrian troops had not recovered from [[Vendis\|Vendis]] raids in the previous fall, and fires in the granary in the current winter made matters even worse. Yarda insisted that Idris's best defense against Hallandren was the snow, and that the war could not be fought on Hallandren's terms.
+Instead, Yarda relied on the treaty with Hallandren. Yarda knew that sending Vivenna would be hard for Dedelin, but it would be an important delaying tactic. Yarda tried to persuade Dedelin to go through with the treaty, suggesting that Hallandren might not harm Vivenna if they sent her. Yarda did not believe that, however.
+Yarda knew that if they could delay long enough, the Idrian snows would be on their side. He was convinced he could bring the nation of [[Tedradel\|Tedradel]] to Idris's aid, as they hated Hallandren since the Manywar. Yarda also wanted to try and rile up Vahr's rebel faction in Hallandren. At the very least, it would delay war and Idris would have more time to gather supplies. Dedelin disagreed, thinking that giving them someone of royal blood would give them an even stronger claim on the Idrian highlands. Yarda countered that maybe Hallandren would wait for an heir to be born before their army came.
+Dedelin decided to not send Vivenna, but instead send Siri to placate Hallandren. He knew sending the wrong daughter would anger Hallandren, but at least they would not immediately attack.
+Vivenna knew that Yarda would be better suited to rule during wartime than Vivenna, which made her feel like she was useless when Dedelin did not send her to Hallandren.
 
 
 
-https://es.coppermind.net/wiki/Yarda
+https://coppermind.net/wiki/Yarda

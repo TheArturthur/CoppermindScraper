@@ -1,86 +1,67 @@
-
-
 |**Kabsal**|
 |-|-|
 ||
-|**Nacido en**|ca. 1150|
-|**Fallecido**|1173, envenenamiento|
-|**Oficio**|[[Fervoroso\|Fervoroso]], asesino|
-|**Religión**|[[Vorinismo\|Vorinismo]]🐱︎|
-|**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎[[Devotarios\|Devotario del Conocimiento]]|
-|**Residencia**|[[Kharbranth\|Kharbranth]]|
-|**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Born**|ca. 1150|
+|**Died**|1173, Poisoning|
+|**Profession**|[[Ardent\|Ardent]], Assassin|
+|**Religion**|[[Vorinism\|Vorinism]]|
+|**Groups**|[[Ghostbloods\|Ghostbloods]][[Devotaries\|Devotary of Insight]]|
+|**Residence**|[[Kharbranth\|Kharbranth]]|
+|**Nationality**|[[Herdazian\|Herdazian]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Kabsal** es un miembro encubierto de los [[Sangre Espectral\|Sangre Espectral]] infiltrado como [[Fervoroso\|fervoroso]] del Devotario del Conocimiento. Vive en el [[Palaneo\|Palaneo]] de [[Kharbranth\|Kharbranth]], en [[Roshar\|Roshar]].
+**Kabsal** is a member of the [[Ghostbloods\|Ghostbloods]] operating undercover as an [[Ardent\|ardent]] from the Devotary of Insight on [[Roshar\|Roshar]]. He stays in the [[Palanaeum\|Palanaeum]] in [[Kharbranth\|Kharbranth]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
 
 3. [[#Shallan Davar]] 
 3. [[#Jasnah Kholin]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Kabsal tiene poco más de veinte años y viste la sencilla túnica gris de fervoroso. Tiene el rostro afilado, la cabeza afeitada y una barba corta y cuadrada. Sus ojos son azules y agudos. Es alto, delgado y «bastante guapo». Se describe su forma de hablar como culta y con un ligero acento [[Herdaz\|herdaziano]].
-Es listo, capaz de igualar en intelecto a [[Shallan Davar\|Shallan Davar]] y de hacer bromas parecidas a su sentido del humor. Es mucho más relajado que los otros fervorosos que Shallan ha conocido, capaz de participar en conversaciones más ligeras con Shallan, así como en intercambios más teológicos. Para Shallan, parece alguien seguro y sincero, aunque en realidad es un mentiroso muy convincente. En su identidad falsa como fervoroso, es poco tradicional, con comportamientos que los fervorosos no compartirían, como maldecir o intentar reclutar gente para su devotario. Shallan opina que estos comportamientos son extraños pero entrañables.
+Kabsal is in his early to mid-twenties and wears simple gray ardent robes. He has a narrow face, shaven head, and a short squared beard. He has keen blue eyes. He is tall, lean, and "rather handsome." He is described as having a cultured tone, and speaks with a faint [[Herdaz\|Herdazian]] accent.
+He is quick-witted, able to match intellect with [[Shallan Davar\|Shallan Davar]] and crack jokes that appeal to her sense of humor. He is also much more casual than the other ardents Shallan had met, engaging in light-hearted discussions with Shallan as well as theological ones. To Shallan, he appears confident and earnest, although in truth he is a convincing liar. In his undercover identity as an ardent, he is a rather unconventional one, engaging in behavior that ardents should not like swearing and attempting to recruit people to his devotary. Shallan finds these tendencies strange but endearing.
 
-## Historia
-En algún momento antes de 1174, Kabsal se unió a los [[Sangre Espectral\|Sangre Espectral]] y se infiltró como [[Fervoroso\|fervoroso]] en el [[Palaneo\|Palaneo]]. En diversas ocasiones solicitó una audiencia con [[Jasnah Kholin\|Jasnah Kholin]], pero no se la concedieron. Cuando acudió a la sala de lectura de Jasnah, conoció a [[Shallan Davar\|Shallan Davar]], que también esperaba a Jasnah, y alabó su arte, además de animarla a tratarlo con menor formalidad. Tras pedirle a Shallan que le hablara a Jasnah de él, manifestó la esperanza de volver a verla, y se marchó.
+## History
+Sometime before 1174, Kabsal joined the [[Ghostbloods\|Ghostbloods]] and went undercover as an [[Ardent\|ardent]] in the [[Palanaeum\|Palanaeum]]. He repeatedly requested an audience with [[Jasnah Kholin\|Jasnah Kholin]], but was not granted one. When visiting Jasnah's reading alcove, he met [[Shallan Davar\|Shallan Davar]], who was also waiting for Jasnah, and admired her art, as well as encouraging her to treat him less formally. After asking Shallan to mention him to Jasnah, he expressed the hope of seeing her again and left.
 
->**Shallan**: "*Eres fervoroso: las posesiones te están prohibidas. ¿Qué apostaste?*"**Kabsal**: "*Dos profundas inhalaciones de la fragancia de una rosa de invierno y el calor de la luz del sol sobre la piel. Podemos ser bastante creativos en ocasiones. Años pasados macerándote en un monasterio pueden hacerle eso a un hombre.*"
-\-Shallan: "Eres fervoroso: las posesiones te están prohibidas. ¿Qué apostaste?"
-Kabsal: "Dos profundas inhalaciones de la fragancia de una rosa de invierno y el calor de la luz del sol sobre la piel. Podemos ser bastante creativos en ocasiones. Años pasados macerándote en un monasterio pueden hacerle eso a un hombre."
+>**Shallan**: "*You're an ardent; you're forbidden to have possessions. What did you bet?*"**Kabsal**: "*Two deep breaths of a winter rose’s fragrance and the sunlight’s warmth on your skin. We can be rather creative at times. Years spent marinating in a monastery can do that to a man.*"
+\-Shallan: "You're an ardent; you're forbidden to have possessions. What did you bet?"
+Kabsal: "Two deep breaths of a winter rose’s fragrance and the sunlight’s warmth on your skin. We can be rather creative at times. Years spent marinating in a monastery can do that to a man."
 
 
-Finge interés en una relación amorosa con Shallan durante la estancia de ella en [[Kharbranth\|Kharbranth]] con el objetivo de asesinar a su mentora y maestra Jasnah Kholin, una atea bien conocida. En un principio Shallan sospecha que él está intentando convertir a Jasnah, y más adelante cree que está intentando evitar que Shallan también se convierta en una atea, y que alienta esas ideas para distraerla de su verdadero propósito. Kabsal asegura haber encontrado pruebas de la existencia del [[Todopoderoso\|Todopoderoso]] que trata de demostrar mediante la , tocando notas junto a una placa de metal que contiene sal. Al tocar las notas, la sal adquiere la forma de distintas ciudades de los [[Reinos Plateados\|Reinos Plateados]]. Jasnah observa la demostración, sabe lo que Kabsal está haciendo y le pide que haga la forma de [[Urithiru\|Urithiru]]. Ella se muestra hostil, argumentando que es lo que Kabsal espera de ella, y que si se hubiera comportado de forma amable, él se habría sorprendido y hubiera sospechado. Jasnah le pregunta a Shallan si Kabsal le ha pedido que robe su moldeador de almas, y cuando Shallan se mostró sorprendida, Jasnah le dijo que estaba acostumbrada a hombres como Kabsal y que con el tiempo se lo pediría.
+He pretended to pursue romantic involvement with Shallan during her time in [[Kharbranth\|Kharbranth]] with the goal of assassinating her mentor and teacher Jasnah Kholin, a well-known atheist. Shallan at first suspected he was trying to convert Jasnah, and then later believed he sought to prevent Shallan from becoming an atheist, and he encouraged these ideas to distract her from his true purpose. He claimed to have found proof of the [[Almighty\|Almighty's]] existence, which he demonstrated through [[Cymatics\|cymatics]] by playing notes next to a metal plate with salt on it. As the notes were played, the salt took the shapes of different cities from the [[Silver Kingdoms\|Silver Kingdoms]]. Jasnah saw the demonstration, knew what Kabsal was doing, and asked him if he could make the shape of [[Urithiru\|Urithiru]]. She was unwelcoming, claiming that was what Kabsal expected and if she had been welcoming he would have been surprised and suspicious. She asked Shallan if Kabsal had asked her to steal her Soulcaster, and when Shallan expressed shock, Jasnah told her that she was used to men like Kabsal and he would eventually.
 
  
-Kabsal visita a menudo a Shallan en el Palaneo, donde ella y Jasnah pasan la mayor parte del tiempo. En todas sus visitas, trae pan envenenado para Jasnah. Cuando Shallan mostró su debilidad por la mermelada, y Kabsal descubre que a Jasnah no le gusta la mermelada, empezó a traer, junto con el pan, una mermelada con el antídoto para el veneno. Cuando descubre que a Shallan le gusta la mermelada de [[Simbaya\|simbaya]], trae un tarro para compartirlo con ella, y en broma hace referencia a un libro llamado *Paladares de personalidad* que establece paralelismos entre la personalidad y la mermelada favorita, y le trae a Shallan diferentes mermeladas a lo largo de su relación. Intenta que Shallan se una a su devotario, a pesar de que el reclutamiento está «mal visto» por el resto de fervorosos. Durante uno de sus paseos por los jardines, se escondió de Taravangian y de otro fervoroso, asegurando que se metería en problemas por eludir su trabajo en catalogación, pero en realidad no quería que se destapara su engaño. Shallan le preguntó acerca del moldeado de almas, con la esperanza de que él le ayudara a descubrir cómo utilizar el que había robado a Jasnah, pero él le dijo que en realidad eran muy fáciles de utilizar, y que solo debía tocar la gema con su dedo.
-Cuando visita a Shallan en el hospital tras su fingido intento de suicido, consigue que Jasnah coma del pan envenenado. Sin embargo, Jasnah [[Moldear almas\|moldea]] tanto el pan como la mermelada como medida de precaución, provocando que Shallan y Kabsal enfermen sin el antídoto que había en ella. Kabsal intenta convencer a Shallan de que coma la mermelada moldeada para salvar su vida, pero como no olía nada bien, ella no lo hizo. Kabsal muere rápidamente, pero Jasnah consigue salvarle la vida a Shallan moldeando su sangre para eliminar el veneno. Tras el intento de asesinato, Jasnah investiga a Kabsal y averigua que no era un verdadero fervoroso, sino un miembro infiltrado de los [[Sangre Espectral\|Sangre Espectral]].
+Kabsal visited Shallan often in the Palanaeum where she and Jasnah spent most of their time. He brought poisoned bread for Jasnah on all of his visits. After Shallan expressed a fondness for jam and Jasnah a dislike for it, he started bringing jam that contained an antidote for the poison on each visit. When he learned that Shallan liked [[Simberry\|simberry]] jam, he brought a jar of it to share with her, and jokingly referenced a book called "Palates of Personality" that made connections between personality and favorite jam, and brought Shallan different jams during their relationship. He tried to get Shallan to join his devotary, despite the fact that recruitment was "frowned upon" by other ardents. During one of their outings to the gardens, he hid from Taravangian and another ardent, claiming he would get in trouble for shirking his indexing duty but really not wanting his cover to be blown. Shallan asked him about Soulcasting, hoping he could help her figure out how to use Jasnah's stolen Soulcaster, but he told her that they were actually very simple to use, and all you had to do was tap a gemstone with your finger.
+While visiting Shallan in the hospital after her presumed suicide attempt, Kabsal succeeded in getting Jasnah to eat the poisoned bread. However, Jasnah [[Soulcasting\|soulcast]] both bread and jam out of caution, causing Kabsal and Shallan to fall ill without the antidote in the jam. Kabsal attempted to convince Shallan to eat the Soulcast jam to save her life, but because it smelled so bad she did not. Kabsal quickly died, but Jasnah was able to save Shallan's life by Soulcasting her blood to remove the poison from it. After the assassination attempt, Jasnah investigated Kabsal and found that he was not an ardent, but instead a member of the [[Ghostbloods\|Ghostbloods]].
 
-## Relaciones
+## Relationships
  
 ### Shallan Davar
->“*Los fervorosos al servicio de su padre eran todos hombres o mujeres curtidos de mediana edad, mirada severa e impacientes con los niños. Nunca había considerado que los devotarios atrajeran a hombres jóvenes como Kabsal. Durante estas últimas semanas, había empezado a pensar en él de formas que sería mejor evitar.*”
-\-Shallan pensando en Kabsal[5]
+>“*The ardents in her father’s employ had all been crusty men or women in their later years, stern-eyed and impatient with children. She’d never even considered that the devotaries would attract young men like Kabsal. During these last few weeks, she’d found herself thinking of him in ways that would better have been avoided.*”
+\-Shallan thinking about Kabsal[4]
 
 
-Kabsal y [[Shallan\|Shallan]] congenian muy bien, ya que ambos tienen un sentido del humor seco e ingenioso y disfrutan con sus intercambios verbales. Shallan opina que Kabsal es muy atractivo, pero se muestra reticente cuando se ofrece a dejar el fervor por ella. Y aunque a menudo comenta la incorrección de Kabsal al decir palabrotas o se muestra demasiado informal, en el fondo no le importa. Disfruta de su intelecto y de su humor y lo ve como una fuente potencial de información sobre el moldeado de almas. Él parece disfrutar de la compañía de Shallan e intenta salvarle la vida cuando come el pan envenenado.
+Kabsal and [[Shallan\|Shallan]] get along well - they both have a dry and witty sense of humor and enjoy light verbal sparring. Shallan finds Kabsal very attractive, but expresses reservations when he offers to leave the ardentia to be with her. Although she often remarks upon Kabsal's impropriety when he swears or is overly casual, she doesn't mind. She enjoys his intellect and humor and sees him as a potential source of information about Soulcasting. He seems to enjoy Shallan's company and tries to save her life when she eats the poisoned bread.
 
 ### Jasnah Kholin
-Kabsal utiliza su relación con Shallan para acercarse a [[Jasnah\|Jasnah]], pero ella sospecha de él y se muestra hostil. Le dice a Shallan que Kabsal está intentando robar su moldeador de almas, y Kabsal le hace creer a Shallan que quiere ser él quien consiga convertir a Jasnah al [[Vorinismo\|vorinismo]].
+Kabsal uses his relationship with Shallan to get closer to [[Jasnah\|Jasnah]], but Jasnah is suspicious of him and is hostile. She tells Shallan that Kabsal is trying to steal her Soulcaster, and Kabsal leads Shallan to believe that he wants to be the one to convert Jasnah to [[Vorinism\|Vorinism]].
 
-## Curiosidades
-Sabe cómo aplicar barniz a un dibujo.
-Ha visitado [[Jah Keved\|Jah Keved]] en dos ocasiones, y aunque la comida le parece buena, opina que la gente es demasiado respetuosa con los fervorosos.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+He knows how to apply lacquer to a painting.
+He has been to [[Jah Keved\|Jah Keved]] on two occasions, and while he finds the food nice, he finds the people too respectful of ardents.
 
 
-
-https://es.coppermind.net/wiki/Kabsal
+https://coppermind.net/wiki/Kabsal

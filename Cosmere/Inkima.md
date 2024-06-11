@@ -1,21 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Inkima**|
 |-|-|
 ||
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-La [[Brillante se%C3%B1ora\|brillante señora]] **Inkima** es una mujer de Roshar que vivía en los campamentos de guerra [[Alezi\|alezi]] en las [[Llanuras Quebradas\|Llanuras Quebradas]].
-Acompaña a [[Jakamav\|Jakamav]] a una cata de vinos en el [[Mercado Exterior\|Mercado Exterior]] con [[Adolin Kholin\|Adolin Kholin]] y varios otros [[Ojos claros\|ojos claros]] (incluyendo a [[Danlan Morakotha\|Danlan Morakotha]], [[Toral\|Toral]] e ) Más tarde, Adolin la invita a ella y a Jakamav a un segundo bar de vinos, pero fue rechazado debido al mal carácter del [[Kholin\|Kholin]] tras la [[Batalla de la Torre\|Batalla de la Torre]].
-Inkima es una mujer regordeta de ojos amarillos y pelo teñido de negro, lo que indica que probablemente no sea de pura sangre alezi. El color rojo no le sentaba bien a Inkima, en opinión de Adolin. Tiene una risa tintineante que a Adolin le resulta odiosa. Inkima parece estar encantada con Jakamav y se ríe de todo lo que dice.
-Es una conocida del príncipe Adolin Kholin, y acompañó a Toral y a otros jóvenes ojos claros (entre ellos Danlan Morakotha, Jakamav e Inkima).
+[[Brightlady\|Brightlady]] **Inkima** is a woman on Roshar who lived in the [[Alethi\|Alethi]] warcamps at the [[Shattered Plains\|Shattered Plains]].
+She accompanies [[Jakamav\|Jakamav]] to a wine tasting in the [[Outer Market\|Outer Market]] with [[Adolin Kholin\|Adolin Kholin]] and several other [[Lighteyes\|lighteyes]]. (including [[Danlan Morakotha\|Danlan Morakotha]], [[Toral\|Toraland]] ) Later, Adolin invites her and Jakamav to a second wine bar but was rebuffed due to the [[Kholin\|Kholins']] ill favor after the [[Battle of the Tower\|Battle of the Tower]].
+Inkima is a plump woman with yellow eyes and hair that she dyed black, indicating that she is likely not of pure Alethi blood. The color red did not suit Inkima, in Adolin's opinion. She has a tinkling laugh that Adolin found obnoxious. Inkima seems to be quite taken with Jakamav, laughing at everything he said.
+She is an acquaintance of Prince Adolin Kholin, and accompanied Toral and some other young lighteyes (including Danlan Morakotha, Jakamav and Inkima)
 
 
-Imágenes de Inkima
+Images of Inkima
 
 
 
@@ -26,29 +23,11 @@ Inkima by User: Sheep
 
 
 
-Inkima y Jakamav por User: Sheep
+Inkima and Jakamav by User: Sheep
 
 
 
 
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 16:07, 5 June 2017 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Inkima
+https://coppermind.net/wiki/Inkima

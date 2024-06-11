@@ -1,75 +1,54 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ki**|
 |-|-|
-|**Capacidades**|[[Orden de los Rompedores del Cielo\|Rompedor del Cielo]], [[Portador de esquirlada\|Portador de esquirlada]]🐱︎|
-|**Vinculado con**|[[Mayal\|Mayal]]|
-|**Títulos**|Maestra Rompedora del Cielo|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]|
+|**Bonded With**|[[Winnow (Roshar)\|Winnow]]|
+|**Titles**|Master Skybreaker|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*He decidido aceptarte como escudero mío, Szeth-hijo-Neturo. Si te soy sincera, hemos discutido entre nosotros para ver quién tendría el privilegio.*”
-\-Ki a Szeth[1]
-
-
-**Ki** es una maestra [[Rompedor del Cielo\|Rompedora del Cielo]] en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]]. Está vinculada al [[Altospren\|altospren]] [[Mayal\|Mayal]] y toma a Szeth como su escudero durante su entrenamiento. Se la conoce formalmente como **maestra Ki**.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-3. [[#Formaci.C3.B3n de aspirantes]] 
-3. [[#Maestra de Szeth]] 
+>“*I have decided to take you as my squire. In all honesty, there was an argument among us over who would have the privilege.*”
+\-Ki to Szeth[1]
 
 
-4 Notas. [[#Notas]] 
+**Ki** is a master [[Skybreaker\|Skybreaker]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]]. She is bonded to the [[Highspren\|highspren]] [[Winnow (Roshar)\|Winnow]] and takes Szeth as her squire during his training. She is formally referred to as **Master Ki**.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Early Life]] 
+3. [[#Training Hopefuls]] 
+3. [[#Szeth.27s Master]] 
 
 
-## Apariencia y personalidad
-Ki es una mujer alta e imponente con el pelo dorado. Como todos los Rompedores del Cielo, viste las ropas de las fuerzas de la ley locales, por lo que en [[Marabezia\|Marabezia]] opta por llevar una falda colorida, con una tela envuelta alrededor del pecho. También lleva una túnica estampada de un alto juez de Marabezia.
-Ki es una mujer tranquila y ordenada que se adapta bien a los Rompedores del Cielo. Aprecia la habilidad y la minuciosidad, e intenta convertir en sus escuderos a los aspirantes que la impresionan. También parecía tener un sentido del humor decente, ya que parecía divertirle la afirmación de Szeth de que había ganado la competición de lanzamientos gracias a una laguna legal. También muestra reverencia por [[Nale\|Nale]] y obedece sus órdenes.
+4 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-Como Rompedora del Cielo del Cuarto Ideal, Ki tiene acceso a las [[Potenciaci%C3%B3n\|Potencias]] de Gravitación y División. Esto le permite hacer uso de los lazamientos básicos e inversos, así como la capacidad de degradar objetos. También tiene la capacidad de absorber [[Luz tormentosa\|luz tormentosa]], lo que la permite recuperarse de todas las heridas, excepto de las más graves. También es casi seguro que tiene acceso a una hoja esquirlada, aunque esto no se ha confirmado.
 
-## Historia
-### Vida temprana
-En algún momento de su vida, Ki fue reclutada por los [[Rompedores del Cielo\|Rompedores del Cielo]]. Finalmente vinculó al [[Altospren\|altospren]] [[Mayal\|Mayal]]. Tras años de entrenamiento y la realización de algún tipo de búsqueda personal, Ki juró los cuatro primeros [[Palabras Inmortales\|Ideales]] de los Rompedores del Cielo, alcanzando el rango de maestra. Operaba desde la fortaleza de los Rompedores del Cielo cerca de [[Lagopuro\|Lagopuro]] y parece que trabajaba principalmente como entrenadora de los nuevos Radiantes.
+## Appearance and Personality
+Ki is a tall and imposing woman with golden hair. Like all Skybreakers, she wears the clothes of the local lawkeepers, so in [[Marabethia\|Marabethia]] she chooses to wear a colorful skirt-like wrap and a cloth tied around her chest. She also wears the patterned shoulder cloak of a Marabethian high judge.
+Ki is a calm and orderly woman who is well-suited to the Skybreakers. She is appreciative of skill and thoroughness, seeking to make those hopefuls that impress her into her squires. She also seemed to have a decent sense of humor, seemingly amused by Szeth's assertion that he had won the lashing drill because of a loophole. She is also reverent of [[Nale\|Nale]] and obedient to his orders.
 
-### Formación de aspirantes
-En 1174, una noche después de que [[Szeth\|Szeth]] llegase a la fortaleza de los Rompedores del Cielo, Mayal comunicó a Ki durante sus oraciones que los altospren ya lo estaban observando.
-Al día siguiente, cuando Szeth comenzó su entrenamiento con los Rompedores del Cielo, Ki le proporcionó el Primer Ideal a él y a los demás aspirantes, guiándolos en la pronunciación de las Palabras. También absolvió a los aprendices por cualquier infracción de la ley o fechoría cometidas en el pasado. Tras la ceremonia, Szeth le preguntó si ella misma había jurado el Quinto Ideal. Ki les explicó a él y a los demás que el Quinto Ideal no se había alcanzado en siglos y que solo se requería el Tercer Ideal para convertirse en un Rompedor del Cielo completo. A continuación, les explicó sus cinco Ideales. Szeth también le preguntó por qué estaba entrenando con los otros nuevos aspirantes cuando [[Nale\|Nale]] lo había tratado de forma diferente. Ki explicó que Nale había creído que Szeth podría alcanzar el Tercer Ideal inmediatamente debido a su pasado, pero en ausencia del Heraldo, tendría que empezar desde el principio. Lanzó a Szeth al cielo mientras los Rompedores del Cielo trasladaban a los aspirantes al lugar de su prueba.
-Cuando los Rompedores del Cielo llegaron a la ciudad marabeziana donde iba a tener lugar la prueba, Szeth le hizo a Ki varias preguntas sobre los prisioneros fugados que les habían encargado apresar. Explicó que el alto ministro de la ciudad, [[Kwati\|Kwati]], les había escrito pidiendo ayuda para detener a esos criminales asesinos fugados. Le dijo a Szeth que habían recibido órdenes de matarlos y que su tarea consistía en capturar y ejecutar a los fugitivos. Ki también le dijo que la razón por la que no habían sido ejecutados anteriormente es que la cultura local [[Reshi\|reshi]] no era normalmente violenta. Ki también le preguntó a Szeth por qué caminaba sobre piedra, ya que nunca había visto a otro [[Shin\|shin]] romper esa prohibición. Szeth le contestó que si la piedra fuese realmente sagrada, le habría matado hace tiempo.
-Mientras se producía la prueba, el alto ministro de la ciudad intentó entablar una conversación trivial con Ki, con escaso éxito. Tras comprobar que el alto ministro había maltratado a los prisioneros, Szeth preguntó a Ki si tenían una orden para la ejecución de este hombre. Esta le dijo que era el primero que obtenían y Szeth ejecutó al hombre con [[Sangre Nocturna\|Sangre Nocturna]] y se arrodilló ante Ki. A pesar de estar conmocionada por los efectos de Sangre Nocturna, elogió a Szeth y le dio su cantimplora para saciar su sed. Después, Ki decidió tomar a Szeth como escudero y se disputó el privilegio con los demás Rompedores del Cielo. Ella ganó la discusión y tomó a Szeth como su escudero después de que él jurase el Segundo Ideal. También respondió a las preguntas de Szeth sobre por qué los Rompedores del Cielo no habían actuado antes contra el corrupto alto ministro, explicando que no había violado una ley hasta que no había fallado en su responsabilidad de mantener a los prisioneros.
+## Attributes and Abilities
+As a Skybreaker of the Fourth Ideal, Ki has access to the [[Surge\|Surges]] of Gravitation and Division. This allows her the ability to make use of the basic and reverse lashings, as well as the ability to degrade objects. She also has the ability to take in [[Stormlight\|Stormlight]], allowing her to recover from all but the most severe of injuries. She also almost certainly has access to a Shardblade, although this has not been confirmed.
 
-### Maestra de Szeth
-Cuando los escuderos de Rompedores del Cielo realizaron el ejercicio de combate de lanzamiento con las bolsas de polvo, Ki también estuvo presente. Compartió una mirada con [[Warren\|Warren]] cuando Szeth afirmó que técnicamente había ganado el concurso, ya que las aguas del Lagopuro habían limpiado su uniforme de polvo. Ki estaba impresionada por la habilidad que Szeth había demostrado en el ejercicio, ya que no se había dado cuenta de la práctica que tenía con los lanzamientos. Cuando Nale interrumpió su conversación, ordenando que los Rompedores del Cielo le acompañasen en un viaje, Ki preguntó si Nale pretendía que se marchasen esa misma noche, a lo que Nale respondió afirmativamente.
-Ki acompañó a Szeth, Nale y la mayoría de los otros Rompedores del Cielo en su viaje a Marat, volando hacia el sur durante tres días. Tras su llegada a Marat, ella aterrizó y conferenció brevemente con Nale y los otros maestros antes de volar a una ciudad cercana con todos los Rompedores del Cielo excepto Szeth y Nale.
+## History
+### Early Life
+At some point in her life, Ki was recruited to the [[Skybreakers\|Skybreakers]]. She eventually bonded the [[Highspren\|highspren]] [[Winnow (Roshar)\|Winnow]]. After years of training and the completion of some sort of personal quest, Ki swore the first four [[Immortal Words\|Ideals]] of the Skybreakers, reaching the rank of master. She operated out of the Skybreaker fortress near the [[Purelake\|Purelake]] and seems to have primarily worked as a trainer to nascent Skybreakers.
 
-## Notas
+### Training Hopefuls
+In 1174, one evening after [[Szeth\|Szeth]] arrived at the Skybreakers' fortress, Winnow proclaimed to Ki during her prayers that the highspren were already watching him.
+The next day, when Szeth began his training with the Skybreakers, Ki administered the First Ideal to him and the other hopefuls, leading them through speaking the Words. She also pardoned the trainees for any past violations of the law or misdeeds. After the ceremony, Szeth asked her if she had sworn the Fifth Ideal herself. Ki explained to him and the others that the Fifth Ideal had not been achieved in centuries and that only the Third Ideal was required to become a full Skybreaker. She then explained all five Skybreaker Ideals to them. Szeth also asked her why he was training with the other new initiates when [[Nale\|Nale]] had treated him differently. Ki explained that Nale had believed that Szeth might achieve the Third Ideal immediately due to his past, but in the Herald's absence Szeth would have to start from the beginning. She lashed Szeth into the sky as the Skybreakers moved the hopefuls to the location of their test.
+When the Skybreakers arrived at the Marabethian town where the test was to take place, Szeth asked Ki several questions about the escaped prisoners they had been charged to apprehend. She explained that the city's high minister, [[Kwati\|Kwati]], had written the Skybreakers asking for aid to apprehend these escaped murderous criminals. She told Szeth that they had received writs ordering their deaths and his task was to apprehend an execute the escapees. Ki also told him that the reason they had not been previously executed is that the local [[Reshi\|Reshi]] culture was typically non-violent. Ki also asked Szeth why he walked on stone, as she had never seen another [[Shin\|Shin]] break that prohibition. Szeth told her that if stone was truly holy, it would have killed him long ago.
+While the test occurred, the city's high minister tried to make small talk with Ki, with limited success. After Szeth had ascertained that the high minister had mistreated the prisoners, he asked Ki if they had a writ for this man's execution. Ki told him that it was the first one they obtained, and Szeth executed the man with [[Nightblood\|Nightblood]] and knelt before Ki. Despite being shocked by the effects of Nightblood, she praised Szeth and gave him her canteen to sate his thirst. Afterwards, Ki decided to take Szeth as her squire and debated with the other Skybreakers for the privilege. She won the argument and took Szeth as her squire after he swore the Second Ideal. She also answered Szeth's questions about why the Skybreakers had not acted earlier against the corrupt high minister, explaining that he had not violated a law until he had failed at his responsibility to hold the prisoners.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 14:37, 26 November 2017 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Szeth's Master
+When the Skybreaker squires performed the lashing combat drill with the powdered bags, Ki was also present. She shared a look with [[Warren\|Warren]] when Szeth claimed he had technically won the contest as the waters of the Purelake had washed his uniform clean of powder. Ki was impressed by the skill Szeth had displayed in the drill, as she had not realized how practiced he was with lashings. When Nale interrupted their conversation, ordering that the Skybreakers accompany him on a journey, Ki asked if Nale intended them to leave that very night, to which Nale responded affirmatively.
+Ki accompanied Szeth and Nale and most of the other Skybreakers on their journey to Marat, flying southward for three days. Upon their arrival in Marat, she landed and conferred briefly with Nale and the other masters before flying to a nearby town with all the Skybreakers except for Szeth and Nale.
 
 
 
-https://es.coppermind.net/wiki/Ki
+https://coppermind.net/wiki/Ki

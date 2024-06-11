@@ -1,21 +1,21 @@
 |**Sah**|
 |-|-|
 ||
-|**Hijos**|[[Vai\|Vai]]|
-|**Fallecido**|[[Siege of Kholinar\|Siege of Kholinar]] ? 1174|
-|**Especie**|[[Cantor\|Cantor]]|
-|**Residencia**|[[Kholinar\|Kholinar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Oathbringer\|Oathbringer]]*|
+|**Children**|[[Vai\|Vai]]|
+|**Died**|[[Siege of Kholinar\|Siege of Kholinar]] ? 1174|
+|**Species**|[[Singer\|Singer]]|
+|**Residence**|[[Kholinar\|Kholinar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I don't have traditions, Or society. But still, my 'freedom' is that of a leaf. Dropped from the tree, I just blow on the wind and pretend I'm in charge of my destiny.*”
 \-Sah[2]
 
 
-**Sah** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. A former parshman, he was freed from a village near [[Hearthstone\|Hearthstone]] when the [[Everstorm\|Everstorm]] first passed. He was one of [[Kaladin\|Kaladin]]'s captors when the  first surrendered to the singers. He was later forced to join the [[Voidbringer\|Voidbringer]] forces and fought in the [[Siege of Kholinar\|Siege of Kholinar]].
+**Sah** is a [[Singer\|singer]] on [[Roshar\|Roshar]]. A former parshman, he was freed from a village near [[Hearthstone\|Hearthstone]] when the [[Everstorm\|Everstorm]] first passed. He was one of [[Kaladin\|Kaladin's]] captors when the [[Windrunner\|Windrunner]] first surrendered to the singers. He was later forced to join the [[Voidbringer\|Voidbringer]] forces and fought in the [[Siege of Kholinar\|Siege of Kholinar]].
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -30,15 +30,15 @@
 
 
 ## Appearance and Personality
-Sah is tall and has the marbled skin of a singer. He has rough hands. After being freed, he usually wears , with hair strands and dark, thick red beard strands. He initially wears the same simple smock he wore as a parshman.
+Sah is tall and has the marbled skin of a singer. He has rough hands. After being freed, he usually wears [[Workform\|workform]], with hair strands and dark, thick red beard strands. He initially wears the same simple smock he wore as a parshman.
 He is gentle and introspective; he tries to avoid conflict, but he sometimes has outbursts of anger. He cares for his daughter and wants nothing more than the chance to protect her. He is deeply resentful of humanity for keeping him and his people enslaved; he is even willing to fight humanity if necessary, as he is scared that they could take away his newfound freedom. However, he is also wary of the [[Fused\|Fused]] and upset about being forced to fight for them.
 
 ## Attributes and Abilities
-Like other singers on Roshar, Sah wore  and lived as a  prior to the coming of the [[Everstorm\|Everstorm]]. After the storm, he presumably regains his latent singer abilities, and chooses to wear workform. He speaks the Alethi language with a native darkeyed accent. He owns a set of the cards used to play the [[Rosharan card game\|Rosharan card game]] despite not knowing exactly how to play, as he was unable to grasp the rules while in slaveform; he later learned some of the rules from Kaladin. Sah's daughter Vai treats his cards like a favorite toy.
+Like other singers on Roshar, Sah wore [[Slaveform\|slaveform]] and lived as a [[Parshman\|parshman]] prior to the coming of the [[Everstorm\|Everstorm]]. After the storm, he presumably regains his latent singer abilities, and chooses to wear workform. He speaks the Alethi language with a native darkeyed accent. He owns a set of the cards used to play the [[Rosharan card game\|Rosharan card game]] despite not knowing exactly how to play, as he was unable to grasp the rules while in slaveform; he later learned some of the rules from Kaladin. Sah's daughter Vai treats his cards like a favorite toy.
 He had not trained in battle prior to the [[Siege of Kholinar\|Siege of Kholinar]], but he receives some training from [[Moash\|Moash]]. He proves to be a capable fighter.
 
 ## History
-Sah was a household slave at a 's manor somewhere in [[Sadeas princedom\|Sadeas princedom]] in Alethkar, within a few days journey from Hearthstone. The name "Sah" is common among Alethi darkeyes, His duties as a slave included serving drinks at dinner. He had a mate, but she was taken from him and sold to be a breeder when she gave birth to his daughter, [[Vai\|Vai]].
+Sah was a household slave at a [[Brightlord\|brightlord's]] manor somewhere in [[Sadeas princedom\|Sadeas princedom]] in Alethkar, within a few days journey from Hearthstone. The name "Sah" is common among Alethi darkeyes, His duties as a slave included serving drinks at dinner. He had a mate, but she was taken from him and sold to be a breeder when she gave birth to his daughter, [[Vai\|Vai]].
 
 >“*I have spent my entire life living in a fog, every day knowing I should say something, do something to stop this! Every night clutching my daughter, wondering why the world seems to move around us in the light—while we are trapped in shadows. They sold her mother. Sold her. Because she had birthed a healthy child, which made her good breeding stock.*
 \-Do you understand that, human? Do you understand watching your family be torn apart, and knowing you should objectknowing deep in your soul that something is profoundly wrong? Can you know that feeling of being unable to say a single storming word to stop it?
@@ -55,32 +55,11 @@ At the [[Siege of Kholinar\|Siege of Kholinar]], Sah and his group of singers as
 \-Sah, to Kaladin[6]
 
 
-Sah initially finds it difficult to trust Kaladin, largely due to his general anger at humanity. Kaladin empathizes with him, and shared his history as a slave. The two seemed to quickly open up to each other, and Sah was able to help Kaladin understand the complicated feelings of the freed singers. Sah felt betrayed when Kaladin finally revealed himself to be a . Kaladin and Sah were shocked to see each other at the battle of Kholinar Palace, and Kaladin froze upon seeing two groups of his friends killing each other.
+Sah initially finds it difficult to trust Kaladin, largely due to his general anger at humanity. Kaladin empathizes with him, and shared his history as a slave. The two seemed to quickly open up to each other, and Sah was able to help Kaladin understand the complicated feelings of the freed singers. Sah felt betrayed when Kaladin finally revealed himself to be a [[Surgebinder\|Surgebinder]]. Kaladin and Sah were shocked to see each other at the battle of Kholinar Palace, and Kaladin froze upon seeing two groups of his friends killing each other.
 
 ### Khen
 Although the singers that captured Kaladin do not have a clear leader, Khen and Sah seem to be influential in the group. They are friends, and attempt to play cards together. They speak to each other in a frank manner; Khen is more impulsive and outspoken than Sah, sometimes seemingly goading him into action. However, she listens to his opinion when he does speak up.
 
-## Notes
 
 
-
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:49, 16 November 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
-
-
-
-https://es.coppermind.net/wiki/Sah
+https://coppermind.net/wiki/Sah

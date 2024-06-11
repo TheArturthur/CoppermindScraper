@@ -1,64 +1,50 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lem**|
 |-|-|
-|**Familia**|
-|**Cónyuge**|[[Ulba\|Ulba]]|
-|**Hijos**|[[Trenza\|Trenza]], un hijo|
-|**Oficio**|Minero |
-|**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
-|**Mundo natal**|[[Lumar\|Lumar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
+|**Family**|
+|**Spouse**|[[Ulba\|Ulba]]|
+|**Children**|[[Tress\|Tress]], one son|
+|**Profession**|Miner |
+|**Residence**|[[Diggen's Point\|Diggen's Point]]|
+|**Homeworld**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
->“*Lem era el equivalente humano de un pozo profundo y puro, siempre lleno de agua cuando alguien la necesitaba. Te ofrecía lo que necesitabas sin pedir nunca nada a cambio.*”
+>“*Lem was the human equivalent of a deep, pure well, always full of water when you needed it. He'd offer what you needed and ask nothing in return.*”
 \-Hoid[1]
 
 
-**Lem** es un ciudadano de [[Punta de Diggen\|Punta de Diggen]] en [[Lumar\|Lumar]]. Está casado con [[Ulba\|Ulba]] y tiene dos hijos, incluída [[Trenza\|Trenza]].
+**Lem** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. He is married to [[Ulba\|Ulba]] and has two children, including [[Tress\|Tress]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
 
-3. [[#Trenza]] 
+3. [[#Tress]] 
 3. [[#Ulba]] 
 
 
-4 Notas. [[#Notas]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Tiene bigote y antaño tenía unos brazos poderosos. Debido a una lesión en la pierna, cojea y se apoya en un bastón.
-Lem es un hombre amable y sabio. Es conocido en la ciudad como alguien que ayudaría incondicionalmente a cualquiera en casi cualquier situación. Le encantan los pasteles y a menudo come muchos mientras contempla situaciones difíciles.
+## Appearance and Personality
+He has a mustache, and once had powerful arms. Due to a leg injury, he walks with a limp and uses a cane for support.
+Lem is a kind, wise man. He is known around town as someone that will help someone unconditionally in almost any situation. He loves pie, and often eats a lot of it while contemplating difficult predicaments.
 
-## Historia
-Lem era antiguo minero, pero sufrió una lesión en la pierna en un accidente y se vio obligado a dejar de trabajar debido al dolor crónico y la pérdida de equilibrio resultantes. Intentó ayudar a la familia con las tareas domésticas, pero apenas podía andar. Esto lo dejó con poco que hacer aparte de practicar dardos. Ayudó a [[Ulba\|Ulba]] a tejer calcetines que se vendían a los marineros, pero con lo que costaba el hilo, sólo daban un escaso beneficio.
-Al principio, Lem no era consciente del enamoramiento de [[Trenza\|Trenza]] por [[Charlie\|Charlie]] y no era fan del [[Duque\|duque]] ni de su hijo. Sin embargo, una vez que Trenza confesó a sus padres su amor por Charlie, tanto Lem como Ulba apoyaron su decisión de pedir al duque que pagase el rescate de la [[Hechicera\|hechicera]]. Tras fracasar, Trenza presentó un plan a sus padres para salvar a Charlie ella misma. Esto hizo dudar a Lem, pero al final lo aceptó porque sabía que ella había considerado todas las demás opciones.
-Lem jugó un papel clave en la huida de Trenza de [[Punta de Diggen\|Punta de Diggen]]. Visitó una posada y habló con algunos de sus amigos a los que había ayudado en el pasado. Lem acompañó a [[Rod (Lumar)\|Rod]] a casa tras una noche de borrachera, ayudó a [[Jule\|Jule]] a reparar su tejado tras una tormenta de viento, y hubo docenas de otros ejemplos del desinterés de Lem. La gente del pueblo sabía que Lem nunca pedía que le pagasen una deuda, y por tanto su deseo de ayudar a Trenza debía de ser extraordinario. Aunque no pidió ayuda explícitamente, su mensaje fue comprendido y [[Gremmy\|Gremmy]], [[Sor\|Sor]], [[Gret\|Gret]] y [[Ladrillo\|Ladrillo]] accedieron a ayudar con el plan para infiltrarse en el *[[Sue%C3%B1o de Oot\|Sueño de Oot]]'*.
-Trenza envió cartas a su familia durante el viaje, pero sus padres no sabían si volverían a verla hasta que llegara a Punta de Diggen. Lem, Ulba, y su hijo tenían un camarote reservado en el *[[Dos tazas\|Dos tazas]]'* y partieron con Trenza tras la declaración del rey de que los ciudadanos de Punta de Diggen podían marcharse.
+## History
+Lem was a former miner, but he suffered a leg injury in an accident and was forced to stop working due to the resulting chronic pain and loss of balance. He tried to assist the family with household chores, but he could barely walk. This left him with little to do other than practice darts. He did help [[Ulba\|Ulba]] knit socks that were sold to sailors, but with the expense of yarn they only turned a meager profit.
+Lem was not initially aware of [[Tress\|Tress's]] infatuation with [[Charlie\|Charlie]], and was not a fan of the [[Duke\|duke]] or his son. However, once Tress confessed her love for Charlie to her parents, both Lem and Ulba supported her decision to ask the duke to pay the [[Sorceress\|Sorceress's]] ransom. After this failed, Tress presented a plan to her parents to save Charlie herself. This gave Lem pause, but he ultimately approved since he knew Tress must have considered all other options.
+Lem played a key role in Tress's escape from [[Diggen's Point\|Diggen's Point]]. He visited an inn and talked to a few of his friends that he'd helped in the past. Lem had walked [[Rod (Lumar)\|Rod]] home after a night of heavy drinking, he helped [[Jule\|Jule]] repair his roof after a windstorm, and there were dozens of other examples of Lem's selflessness. The townspeople knew that Lem never asked for a debt to be repaid, and therefore his desire to help Tress must be extraordinary. Even though he did not explicitly ask for help, his message was understood, and [[Gremmy\|Gremmy]], [[Sor\|Sor]], [[Gret\|Gret]], and [[Brick\|Brick]] all agreed to help with the plan to infiltrate the *[[Oot's Dream\|Oot's Dream]]*.
+Tress sent her family letters during her journey, but her parents were still uncertain if they would see her again until she arrived back at Diggen's Point. Lem, Ulba, and their son had a reserved cabin on the *[[Two Cups\|Two Cups]]* and departed with Tress following the king's declaration that the citizens of Diggen's Point were permitted to leave.
 
-## Relaciones
-### Trenza
-Quiere a [[Trenza\|Trenza]] y confía mucho en su juicio, ya que sabe que es muy inteligente y reflexiva. Tiene desde hace tiempo la sensación de que ella está destinada a grandes cosas más allá de su isla. Tress adora a Lem y respeta mucho sus opiniones y consejos.
+## Relationships
+### Tress
+He loves [[Tress\|Tress]] and puts a large amount of faith in her judgment since he knows she is very intelligent and thoughtful. He has had a longstanding feeling that she is destined for great things beyond their island. Tress loves Lem and greatly respects his opinions and advice.
 
 ### Ulba
-Lem y [[Ulba\|Ulba]] mantienen una estrecha relación y pasan la mayor parte del tiempo juntos en casa, normalmente tejiendo calcetines para ganar dinero. Ambos adoran a sus hijos y tienen un estilo de crianza similar. Ulba es un poco más reacia al riesgo que Lem, ya que tuvo que convencerla para que permitiera a Trenza abandonar la isla e intentar salvar a Charlie.
-
-## Notas
-
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 19:01, 14 March 2023 (UTC)
+Lem and [[Ulba\|Ulba]] have a close relationship and spend most of their time together at home, usually knitting socks to make money. They both love their children and have a similar parenting style. Ulba is a bit more risk-averse than Lem, as he had to convince her to allow Tress to leave the island and attempt to save [[Charlie\|Charlie]].
 
 
-https://es.coppermind.net/wiki/Lem
+
+https://coppermind.net/wiki/Lem

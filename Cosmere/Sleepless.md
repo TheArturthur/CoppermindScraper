@@ -1,176 +1,156 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Insomne**|
+|**Sleepless**|
 |-|-|
 ||
-|**Racional**|Sí|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Sapient**|Yes|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Never can tell if [a cremling] is reporting back to someone or not.*”
 \-Lift[1]
 
 
-Los **Insomnes**, también conocidos como **dysian aimianos**, son una raza no humana, consciente, de un planeta desconocido del [[Cosmere\|cosmere]]. Sus cuerpos son un agregado de enjambres de criaturas llamadas "hordinos" que están mentalmente vinculadas y pueden ser criadas y evolucionadas selectivamente con el fin de especializarlas para ciertas tareas.
-Se refieren a sí mismos como “Insomnes” porque al menos una parte de sus hordinos está siempre despierta. Algunos de ellos se encuentran en [[Roshar\|Roshar]], y en el pasado vivían en el [[Reinos Plateados\|Reino Plateado]] de [[Aimia\|Aimia]].
+The **Sleepless**, also known as **Dysian Aimians**, are a sapient non-human race from an unknown planet in the [[Cosmere\|cosmere]]. Their bodies are an aggregate of swarms of creatures called "hordelings" that are mentally linked and can be selectively bred and evolved in order to specialize them for certain tasks.
+They refer to themselves as "Sleepless" because at least some part of the horde is always awake. Some of the Sleepless can be found on [[Roshar\|Roshar]], and they once lived in the [[Silver Kingdoms\|Silver Kingdom]] of [[Aimia\|Aimia]].
 
-## Sumario
+## Contents
 
-1 Aparencia y anatomía. [[#Aparencia y anatom.C3.ADa]] 
+1 Appearance and Anatomy. [[#Appearance and Anatomy]] 
 
-1. [[#Hordinos]] 
-1. [[#Adaptaci.C3.B3n y regeneraci.C3.B3n]] 
-1. [[#Consciencia]] 
-1. [[#Reproducci.C3.B3n]] 
-
-
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Estructura social y propósito. [[#Estructura social y prop.C3.B3sito]] 
-4 En la cultura popular. [[#En la cultura popular]] 
-5 Historia. [[#Historia]] 
-
-5. [[#Or.C3.ADgenes]] 
-5. [[#.C3.89pocas Her.C3.A1ldicas]] 
-5. [[#Guerra de la Venganza]] 
-5. [[#La Aut.C3.A9ntica Desolaci.C3.B3n y la expedici.C3.B3n a Akinah]] 
-5. [[#La era espacial]] 
+1. [[#Hordelings]] 
+1. [[#Adaptation and Regeneration]] 
+1. [[#Consciousness]] 
+1. [[#Reproduction]] 
 
 
-6 Insomnes notables. [[#Insomnes notables]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 Social Structure and Purpose. [[#Social Structure and Purpose]] 
+4 Lore. [[#Lore]] 
+5 History. [[#History]] 
 
-6. [[#Avistamientos confirmados]] 
-6. [[#Avistamientos no confirmados]] 
+5. [[#Origins]] 
+5. [[#Heraldic Epochs]] 
+5. [[#War of Reckoning]] 
+5. [[#True Desolation and the Expedition to Akinah]] 
+5. [[#The Space Age]] 
 
 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+6 Notable Sleepless. [[#Notable Sleepless]] 
+
+6. [[#Confirmed Sightings]] 
+6. [[#Unconfirmed Sightings]] 
 
 
-## Aparencia y anatomía
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
+
+
+## Appearance and Anatomy
  
 >“*The cook began to hum. Pieces of her broke off. She crumbled to a pile of chittering little cremlings that moved out of her clothing, leaving it in a heap.*”
-\-Kaza, mirando al cocinero del Primeros Sueños[10]
+\-Kaza, watching the cook of the First Dreams[10]
 
 
-Los Insomnes tienen una fisiología única, ya que sus “cuerpos” están compuestos de miles de criaturas llamadas "hordinos" que son apaces de funcionar como una consciencia única. Los hordinos no tienen limite en cómo se agrupan consigo mismos; con práctica, un Insomne puede imitar la apariencia de otras criaturas, incluyendo humanos. Insomnes fuera de Roshar no tendrían práctica en como imitar la forma humana, así que su aparencia sería completamente distinta. A differencia de los [[Siah aimiano\|siah aimianos]], dysian aimianos no pueden reproducirse con humanos.
+Sleepless have a unique physiology, as their "bodies" are actually composed of thousands of creatures called "hordelings" that are able to function as a single consciousness. The hordelings are not limited in how they assemble themselves; with practice, a Sleepless can mimic the shape of other creatures, including humans. Sleepless not on Roshar would not be practiced in imitating the human form, and would look completely different. Unlike [[Siah Aimian\|Siah Aimians]], Dysian Aimians cannot mate with humans.
 
-### Hordinos
-Los hordinos normalmente tienen el tamaño de un dedo, pero pueden ser tan grandes como un puño o a veces del tamaño de un edificio.
-Los hordinos de Roshar a menudo se parecen a criaturas nativas conocidas como [[Cremlino\|cremlinos]] simplemente para llamar menos la atención de los habitantes corrientes; pueden tomar otras formas. El [[Yelamaiszin\|primer enjambre]] que llegó a Roshar tenía al principio hordinos con apariencia de arañas; los enjambres crían a sus hordinos para que se parezcan a la fauna local para poder pasar desapercibidos.
-Los hordinos de cada Insomne no son idénticos, y a menudo tienen propósitos específicos. Por ejemplo, como [[Arclo\|Arclo]] intenta pasar por humano, muchos de sus hordinos tienen protuberancias en sus espaldas que parecen partes humanas, por ejemplo piel o ojos; también es capaz de hablar con una voz aceptablemente humana. Sin embargo, hordinos individuales no pueden cambiar de forma, así que la verdadera naturaleza del cuerpo de los Insomnes puede notarse con una mirada atenta. Por lo tanto, ellos tienden a cubrirse la “piel” siempre que sea posible, usar maquillaje, o utilizar una apariencia anciana o con tatuajes que impidan ver su verdadera naturaleza.
-Cuando una horda decide establecerse en un planeta, intentan aprender todo lo posible sobre él y envían a sus hordinos a explorarlo e investigarlo.
+### Hordelings
+Hordelings are usually about the size of a finger, but they can be as large as a fist or sometimes as large as a building.
+Hordelings on Roshar often resemble native creatures known as [[Cremling\|cremlings]] simply to make them less noticeable to casual observers; they can take other forms. The [[Yelamaiszin\|first swarm]] to come to Roshar originally had spiderlike hordelings; the swarms breed their hordelings to resemble local fauna in order to blend in.
+The hordelings of each Sleepless are not all identical, and often serve specific purposes. For example, because [[Arclo\|Arclo]] tries to pass as a human, many of his hordelings have protrusions on their backs that resemble human parts such as skin or eyeballs; he is also able to speak with a passably human voice. However, individual hordelings cannot shapeshift, so the nature of a Sleepless body is usually visible upon close inspection. Sleepless therefore tend to cover their "skin" when possible, or use makeup, or use the appearance of older skin or tattoos to obscure their true nature.
+When a horde chooses to settle down on a planet, they attempt to learn everything about the terrain across the planet, sending out their hordelings to scout out and investigate it.
 
-### Adaptación y regeneración
+### Adaptation and Regeneration
 >“*It took my people three hundred years of selective breeding to achieve hordelings capable of imitating human fingers. And still, most of us are terrible at pretending to be humans. We don't have the mannerisms, the thoughts. I’m younger than the others, but am more... skilled at using these things.*”
 \-Nikli[3]
 
 
-Los hordinos pueden ser especificamente criados para potenciar capacidades concretas en un Insomne, como puede ser un mejor olfato o más memoria, aunque este proceso lleva tiempo. [[Nikli\|Nikli]] comenta que le llevó unos trescientos años criar hordinos que pudieran imitar dedos humanos. A lo largo de muchísimas generaciones, algunos han conseguido desarrollar hordinos que son capaces de imitar los poderes de un [[Larkin\|larkin]]. Hordinos especializados pueden imitar de forma convincente objetos inanimados. Hay un límite tanto en la masa total como en el número de hordinos que un Insomne puede tener a la vez, pero el número máximo de hordinos permitiría seguro que un Insomne fuera mucho más grande que un humano, hasta el tamaño del cadáver de un [[Santhid\|santhid]] y puede que incluso mayor. Ya que pueden crear constantemente nuevos hordinos para recuperar los perdidos, la personalidad de un Insomne puede vivir indefinidamente, siempre y cuando no mueran demasiados hordinos a la vez. Los enjambres en otros planetas distintos de Roshar criarían a sus hordinos de la manera necesaria para imitar las formas de vida nativas en esos mundos.
+Hordelings can be specially bred to enhance specific capabilities of a Sleepless, such as a heightened sense of smell or increased memory capacity, although this process takes some time. [[Nikli\|Nikli]] notes that it took three hundred years to breed hordelings that could imitate human fingers. Over the course of many generations, some have even managed to breed hordelings that are able to mimic the powers of a [[Larkin\|larkin]]. Specialized hordelings can convincingly mimic inanimate objects. There is a limit on both the total mass and number of hordelings a Sleepless can have at any given time, but the maximum number would definitely allow a Sleepless to become much larger than human-sized, up to the size of a [[Santhid\|santhid]] corpse and possibly even larger. Because they can continually create new hordelings to replace any that are lost, the personality of a Sleepless can live forever, as long as not too many of the hordelings are destroyed at once. Swarms on planets other than Roshar would breed their hordelings as needed to imitate whatever life forms are native to that world.
 
-### Consciencia
-En la práctica, los hordinos funcionan como una “mente colmena”, pero no son técnicamente una sola entidad. Los hordinos tienen la habilidad de separarse del cuerpo principal para actuar como agentes remotos mientras mantienen el vínculo mental con el resto del enjambre. Ciertas circunstancias podrían llevar a un hordino a separarse del grupo y ser forzado a actuar de forma independiente. Por ejemplo, un hordino que esté físicamente demasiado lejos del resto puede perder contacto con la mente principal, lo cual afectaría su aspecto [[Reino Cognitivo\|cognitivo]]. Sin embargo, parecen ser capaces de cubrir el área de un planeta individual sin mucha dificultad.
-Un hordino puede ser afectado por un clavo [[Hemalurgia\|hemalúrgico]], pero esto lo desconectaría de la mente colmena. Los Insomnes no pueden separar su conciencia entre el Reino Cognitivo y el [[Reino F%C3%ADsico\|Reino Físico]].
-Pueden formar varios cuerpos conscientes a la vez (por ejemplo, imitando a dos humanos al mismo tiempo), pero es difícil y hay el riesgo de que la división se vuelva permanente, creando sin quererlo un nuevo Insomne. Esto es más sencillo si los cuerpos no están envueltos en tareas inteligentes a la vez.
+### Consciousness
+In practice, hordelings function as a "hive mind", but they are not technically one entity. Hordelings have the ability to separate from the main body to act as remote agents while maintaining their mental link with the rest of the horde. Certain circumstances could lead to a hordeling being split off from the group and forced to act independently. For example, a hordeling that is physically too distant from the others can lose contact with the main mind, and this would affect its [[Cognitive Realm\|Cognitive]] aspect. However, they appear to be able to cover the area of an individual planet without much difficulty.
+A hordeling could be affected by a [[Hemalurgic\|Hemalurgic]] spike, but it would disconnect it from the hivemind. The Sleepless are not able to split their consciousness between the Cognitive Realm and the [[Physical Realm\|Physical Realm]].
+They are capable of forming multiple sapient bodies at once (for example, imitating two humans at the same time), but it is difficult and risks making the split permanent, unintentionally creating a new Sleepless. This is made easier if the bodies are not engaged in intelligent tasks at the same time.
 
-### Reproducción
-Los Insomnes son capaces de reproducirse, pero “reproducirse” para ellos tiene una serie de connotaciones. Pueden criar hordinos concretos para propósitos específicos con el tiempo y también intercambiar hordinos si fuera necesario para mejorar la diversidad genética. Pueden hibridar hordinos con otras especies como varios cremlinos y los [[Lanceryn\|lanceryn]]. Crear nuevos Insomnes conlleva dividir una subsección de un enjambre ya existente, que ganará independencia con el tiempo; el término de los Insomnes para este proceso es “Separarse”. Cuando un enjambre se Separa, no es siempre de forma intencional. Los enjambres recientemente independizados mantienen las adaptaciones genéticas de su enjambre “projenitor” y son capaces de refinar la evolución de sus hordinos incluso más. Arclo se refiere a otros enjambres de Roshar como sus “hermanos”.
+### Reproduction
+Sleepless are able to reproduce, but "reproduction" for them has a variety of connotations. They can breed specific hordelings for specialized purposes over time and can also exchange hordelings if needed in order to improve their genetic diversity. They can even crossbreed hordelings with other species such as various cremlings and the [[Lancer\|lancer]]. Creating a new Sleepless involves splitting off a subsection of an existing swarm, which subsequently gains independence over time; the Sleepless term for this process is becoming "Separated". A swarm becoming Separated is not always intentional. Newly independent swarms retain the genetic adaptations of their "parent" swarm and are able to fine-tune the evolutions of their hordelings to even greater effect. Arclo refers to the other swarms on Roshar as its "siblings".
 
-## Atributos y habilidades
-Todos los Insomnes tienen habilidades debidas a su inusual fisiología, incluyendo cambiar de forma, evolución adaptativa, y son técnicamente inmortales. También es imposible encarcelarlos, al menos según los medios tradicionales. Los Insomnes han utilizado las [[Potenciaci%C3%B3n\|potencias]] en el pasado y puede que las vuelvan a usar en el futuro. Arclo fue capaz de matar con facilidad a dos aprendices de [[Rompedor del Cielo\|Rompedor del Cielo]] de [[Nale\|Nale]] y le dijo a [[Lift\|Lift]] que ellos no habrían sido capaces de matarlo a él. Los Insomnes no tienen nada que temer ni siquiera de gente tan poderosa como un Heraldo, y los Heraldos lo sabían así que los dejaron en paz. Los Insomnes tienen una resistencia mayor al [[Moldear almas\|moldeado de almas]] que los humanos por varias razones. También hablan con fluidez casi todas, si no todas, las lenguas humanas. Los hordinos tienen una conciencia espacial excepcional, lo que permite a una horda crear mapas más precisos que la mayoría de los estudios medidos con instrumentos.
-Además de su habilidad para unir mentalmente a sus propios hordinos, cada Insomne puede también comunicarse directamente con otros enjambres. Esto se consigue por medio de zumbidos generados con sus hordinos dispersos. Cada enjambre tiene un zumbido específico, y unos hordinos criados específicamente para recibir e interpretar las vibraciones. Es posible excluir a ciertos enjambres de las comunicaciones. 
-Los Insomnes son muy conscientes del [[Cosmere\|cosmere]]. Al menos algunos de ellos tienen el poder de [[Saltamundear\|saltar mundos]]; Arclo le dice a Lift que una vez viajó a una tierra que ella jamás visitará. Tienen alguna relación con la [[Esquirla\|Esquirla]] [[Cultivaci%C3%B3n\|Cultivación]] y otro grupo desconocido del cosmere. Saben que los [[Unkalaki\|Unkalaki]] son [[Vidente\|videntes]] y que protegen la [[Perpendicularidad de Cultivaci%C3%B3n\|perpendicularidad de Cultivación]]. Guardan secretos sobre las [[Esquirla del Amanecer\|Esquirlas del Amanecer]] y la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], y han pasado esta información a sus miembros más “jóvenes”. Se refieren a los [[Lanceryn\|lanceryn]] y los [[Larkin\|larkin]] como los “antiguos guardianes” y creían que proteger el [[Mural de la Esquirla del Amanecer en Akinah\|Mural de la Esquirla del Amanecer en Akinah]] era importante para el futuro de todo el cosmere.
+## Attributes and Abilities
+All Sleepless have the abilities granted by their unusual physiology, including shapeshifting, adaptive evolution, and effective immortality. It is also impossible to imprison a Sleepless through conventional means. Sleepless have used [[Surgebinding\|Surgebinding]] in the past and may use it again in the future. Arclo is able to easily kill two of [[Nale\|Nale's]] [[Skybreaker\|Skybreaker]] apprentices and tells [[Lift\|Lift]] that it would not have been possible for them to kill it. Sleepless would have nothing to fear even from someone as powerful as a Herald, and the Heralds knew to leave their kind alone. Sleepless have more resistance to [[Soulcasting\|Soulcasting]] compared to humans for various reasons. They are also fluent in most, if not all, human languages. Hordelings have exceptional spatial awareness, allowing a horde to create maps more accurate than most instrument-measured surveys.
+In addition to their ability to mentally link their hordelings, each Sleepless can also directly communicate with other swarms. This is achieved through buzzing that each swarm can emanate from its scattered hordelings. Each swarm has a distinct buzz, and specially bred hordelings receive and interpret the vibrations. It is possible to exclude certain swarms from these communications.
+The Sleepless are exceptionally [[Cosmere\|cosmere]]-aware. At least some Sleepless have had the power of [[Worldhopper\|Worldhopping]]; Arclo tells Lift that it once traveled to a land she will never visit. They have some relationship to the [[Shard\|Shard]] [[Cultivation\|Cultivation]] and another unnamed group in the cosmere. They are aware that some [[Unkalaki\|Unkalaki]] are [[Sighted\|Sighted]] and that they guard [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. They hold secrets about the power of the [[Dawnshard\|Dawnshards]] and the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and they have passed this information down to their "younger" members. They refer to [[Lancer\|lanceryn]] and [[Larkin\|larkin]] as "Ancient Guardians" and believed that protecting the [[Akinah Dawnshard mural\|Akinah Dawnshard mural]] was important to the fate of the entire cosmere.
 
-## Estructura social y propósito
+## Social Structure and Purpose
 >“*Arclomedarian is dangerous. I can see this. But it is not as dangerous as the true traitors.*”
-\-Nikli sobre Arclo[32]
+\-Nikli, on Arclo[32]
 
 
-De los veinticuatro Insomnes conocidos en Roshar, veinte aceptan la autoridad de [[Yelamaiszin\|Yelamaiszin]], el Primer enjambre, incluyendo al mismo Yelamaiszin. Votan sobre los temas de importancia utilizando la rápida comunicación de sus mentes colmena. [[Arclomedarian\|Arclomedarian]] no acepta su autoridad, aunque no lo consideran uno de los “auténticos traidores” y todavía se llevan bien.
-Se desconoce si los otros tres Insomnes disidentes pertenecen a esta categoría, se sabe que los cuatro que no aceptan la autoridad de Yelamaiszin (incluyendo a Arclo) están aún vivos. Los Insomnes defienden la vida, aunque estan dispuestos a matar para preservarla. Nikli afirma que los Insomnes decidieron esto tras ver mundos ser destruidos y han jurado que no permitirán que suceda de nuevo. Paradójicamente, mientras que tienden a apreciar a los Caballeros Radiantes, e incluso Yelamaiszin afirma tener cierta admiración personal por Dalinar, les preocupa que la insistencia de los Radiantes en tomar decisiones honorables sea demasiado peligrosa. Pese a estar dispuestos a matar para evitar la propagación del conocimiento de la [[Esquirla del Amanecer\|Esquirla del Amanecer]], los Insomnes también están abiertos a ser persuadidos. Rysn fue capaz de convencerles para que perdonasen a su tripulación del [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]] a cambio de su ayuda con proteger el secreto.
-Se organizan en cepas, que a su vez se separan en hordas. La única cepa con nombre es Natricatich, de la que [[Masaka\|Masaka]] (también conocida como Chinikdakordich) es la horda número sesenta. Cada horda se compone de miles de hordinos individuales que actúan juntos en una mente colmena.
+Of the twenty-four known Sleepless on Roshar, twenty accept the authority of [[Yelamaiszin\|Yelamaiszin]], the First swarm, including Yelamaiszin itself. They vote on important matters using the rapid communication provided by their hive minds. [[Arclomedarian\|Arclomedarian]] does not accept their authority, although it is not considered one of the "true traitors" and is still liked. It is unknown if the other three dissident Sleepless are in this category, though all four of the Sleepless who do not accept Yelamaiszin's authority (including Arclo) are still alive. The Sleepless defend life, although they are willing to kill in order to preserve it. Nikli states that the Sleepless have chosen to do this after seeing the destruction of worlds and have vowed to never let it happen again. Paradoxically, while the Sleepless tend to like the Knights Radiant, with Yelamaiszin even stating a personal admiration for Dalinar, they worry that the Radiants' insistence on making honorable choices is highly dangerous. Despite a willingness to kill in order to protect the [[Dawnshard\|Dawnshard]] from outside knowledge, the Sleepless are also open to reason. Rysn managed to convince them to spare the crew of the *[[Wandersail (1174 ship)\|Wandersail]]* in exchange for her help in safeguarding it.
+They are organized into strains, which are further separated into hordes. The only named strain being the Natricatich strain, of which [[Masaka\|Masaka]] (also known as Chinikdakordich) is the sixtieth horde. Each horde is made up of thousands of individual hordelings acting together in a hivemind.
 
-## En la cultura popular
-La mayoría de las gentes de Roshar (a parte de los siah aimianos) no saben de la existencia de los Insomnes, con unas pocas excepciones notables. Al menos unos pocos Iriali han sabido de su existencia y los [[Unkalaki\|Unkalaki]], quienes los llaman los “Dioses Que No Duermen”, incluso conocen un poco de sus habilidades con los hordinos. Ni [[Dalinar\|Dalinar]] ni [[Lift\|Lift]] parecen haber siquiera escuchado de seres con poderes similares a los Insomnes antes de que hablasen con Hoid y Arclo, respectivamente. Sin embargo, algunos cuentos populares sobre ellos han sobrevivido al paso del tiempo, y [[Jasnah Kholin\|Jasnah Kholin]] se encontró estos cuentos durante sus investigaciones. Ella asumió que eran mitos, hasta que comenzó a escuchar historias creibles sobre criaturas similares, probablemente incluyendo la interacción de Lift con Arclo. Incluso entonces, Jasnah no podía creer del todo que tales seres existieran hasta que conoció a uno en persona. Aunque [[Vstim\|Vstim]] le pasó información sobre los Insomnes a Rysn, ella no descartó que sus observaciones del cambio de forma de Nikli fuese algún tipo de [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] hasta que presenció sus poderes de cerca.
+## Lore
+Most Rosharans (other than Siah Aimians) do not know that the Sleepless exist, with a few notable exceptions. At least some Iriali have been aware of them and the [[Unkalaki\|Unkalaki]], who call them the "Gods Who Sleep Not", even have some understanding of their hordeling abilities. Neither [[Dalinar\|Dalinar]] nor [[Lift\|Lift]] seem to have even heard of beings with the powers of the Sleepless prior to talking to Hoid and Arclo, respectively. However, a few folk tales about them persisted over the years, and [[Jasnah Kholin\|Jasnah Kholin]] was aware of these tales through her scholarly research. She assumed that they were myths, until she began hearing credible stories about similar creatures, possibly including Lift's interaction with Arclo. Even then, Jasnah could not fully believe such beings existed until meeting one in person. Although [[Vstim\|Vstim]] passed information about Sleepless on to Rysn, she did not rule out some form of [[/wiki/Surgebinding#Illumination]] to explain her early observations of Nikli's shapeshifting until seeing its powers up close.
 
-## Historia
-### Orígenes
-El mundo natal de los Insomnes es desconocido, pero no son nativos de [[Yolen\|Yolen]].
-Los Insomnes, o dysian aimianos, existen en múltiples planetas del cosmere y se sabe que han viajado entre ellos. [[Hoid\|Hoid]] es la única persona conocida que utiliza el término “dysian”, y el origen de este término es desconocido. Todos los Insomnes conocidos en Roshar descienden de un único enjambre que ahora se llama [[Yelamaiszin\|Yelamaiszin]]. La mayoría de los Insomnes del cosmere viven en Roshar, pero existen otros enjambres no relacionados en otros planetas.
-Aunque no son nativos de Roshar, algunos vivieron en Aimia antes de [[La destrucci%C3%B3n de Aimia\|su destrucción]], que fue catalogada por [[Hessi\|Hessi]] como una “destrucción total”. Coexistieron con los [[Siah aimiano\|siah aimianos]] pero no estaban relacionados con ellos. Pese al hecho de que sobrevivieron, la destrucción de su hogar en Aimia parece haberles provocado un gran dolor emocional.
+## History
+### Origins
+The homeworld of the Sleepless is unknown, but they are not native to [[Yolen\|Yolen]].
+Sleepless, or Dysian Aimians, exist on multiple planets in the cosmere and are known to have traveled between them. [[Hoid\|Hoid]] is the only person known to use the term "Dysian," and the source of the term is unknown. All known Sleepless on Roshar descended from a single swarm currently named [[Yelamaiszin\|Yelamaiszin]]. Most of the cosmere's Sleepless live on Roshar, but unrelated swarms exist on other worlds.
+Although not native to Roshar, some Sleepless lived in Aimia prior to the [[Scouring of Aimia\|Scouring of Aimia]], which has been characterized by [[Hessi\|Hessi]] as "total destruction". They coexisted with the [[Siah Aimian\|Siah Aimians]], but were not related to them. Despite the fact that they survived, the destruction of their home on Aimia seems to have caused the Sleepless a great deal of emotional pain.
 
-### Épocas Heráldicas
+### Heraldic Epochs
 >“*You needn't fear me. Your war is my war, and has been for millennia. Ancient Radiants named me friend and ally before everything went wrong. What wonderful days those were, before the [[Last Desolation\|Last Desolation]]. Days of... honor. Now gone, long gone.*”
-\-Arclo a Lift[6]
+\-Arclo, to Lift[6]
 
 
-Los Insomnes tenían una larga historia con los [[Heraldos\|Heraldos]] y los [[Caballeros Radiantes\|Caballeros Radiantes]]. Algunos Insomnes fueron en un momento capaces de utilizar los poderes de las [[Potenciaci%C3%B3n\|potencias]]. Al menos algunos de ellos, incluyendo a Arclo, fueron aliados de los Heraldos y los Caballeros Radiantes durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]. Arclo le contó a [[Lift\|Lift]] que otros de su especie estaban particularmente interesados en los Radiantes. Al menos un Insomne podría haber luchado durante [[Aharietiam\|Aharietiam]], ya que [[Dalinar Kholin\|Dalinar Kholin]] notó un montón de extraños cremlinos quemados en una de [[Visiones de Dalinar\|sus visiones]]; no está claro en qué lado combatieron, aunque se sabe que algunos Insomnes estaban aliados con los Caballeros Radiantes.
+The Sleepless had a long history with the [[Herald\|Heralds]] and [[Knights Radiant\|Knights Radiant]]. Some Sleepless were once able to use the power of [[Surgebinding\|Surgebinding]]. At least some of the Sleepless, including Arclo, were allies of the Heralds and Knights Radiant during the [[Heraldic Epochs\|Heraldic Epochs]]. Arclo told [[Lift\|Lift]] that others of his kind were particularly interested in Radiants. At least one Sleepless may have fought during [[Aharietiam\|Aharietiam]], as [[Dalinar Kholin\|Dalinar Kholin]] noticed a heap of burned, strange cremlings in one of [[Dalinar's visions\|his visions]]; it is not clear which side they fought on, although at least some Sleepless were allied with the Knights Radiant.
 
-### Guerra de la Venganza
-Al final de la [[Era de la Soledad\|Era de la Soledad]], los Insomnes se mantuvieron escondidos mayoritariamente, vigilando los eventos que tenían lugar en Roshar usando a sus hordinos. Estaban particularmente interesados en Dalinar, [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan]], [[Szeth\|Szeth]], [[Navani Kholin\|Navani]], [[Eshonai\|Eshonai]], y [[Venli\|Venli]], creyendo que serían cruciales para el futuro de Roshar. Arclo creía que [[Lift\|Lift]] también debería ser incluida en ese grupo, y que los demás Insomnes no deberían de ignorarla. Pese a su desinterés general por los Radiantes, Arclo sabía que la [[Arshqqam\|Tocón]] había vinculado un spren y que [[Nale\|Nale]] estaba vivo, refiriéndose a él como “demente”.
+### War of Reckoning
+At the end of the [[Era of Solitude\|Era of Solitude]], the Sleepless mostly remained hidden, monitoring events on Roshar using their hordelings. They were particularly interested in Dalinar, [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Szeth\|Szeth]], [[Navani\|Navani]], [[Eshonai\|Eshonai]], and [[Venli\|Venli]], believing them to be crucial to the future of Roshar. Arclo believed that [[Lift\|Lift]] should also be included in that group, and that the other Sleepless should not ignore her. Despite its general disinterest in Radiants, Arclo was also aware that the [[Stump\|Stump]] had bonded a spren and that [[Nale\|Nale]] was alive, referring to him as a "madman".
 
 >“*Rysn, there are forces in the cosmere that we can barely identify, let alone track. Evil forces, who would end worlds if they could. They are hunting this place. Now that the Ancient Guardians of Akinah are all but extinct, we Sleepless must protect it.*”
 \-Nikli[3]
 
-Parece ser que los Insomnes estaban ocultando varios secretos a los humanos, incluyendo algo que Dalinar estaba buscando pero “no debe saber”. Un Insomne de nombre desconocido descubrió el plan de [[Vazrmeb\|Vazrmeb]] de navegar con el barco *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* a [[Akinah\|Akinah]] en Aimia; tomó la apariencia de un concinero [[Reshi\|reshi]] y se unió a la tripulación, para más tarde envenenarlos a todos para proteger la isla. Se negó a divulgar ninguno de los secretos de Akinah a [[Kaza\|Kaza]] incluso mientras ésta moría, asegurándole que hacerlo podría resultar en el “fin de los mundos”.
+The Sleepless appeared to be guarding several secrets from humans, including something that Dalinar was seeking but "must not know". An unnamed Sleepless learned of [[Vazrmeb\|Vazrmeb's]] plan to sail the ship *[[First Dreams\|First Dreams]]* to [[Akinah\|Akinah]] in Aimia; it posed as a [[Reshi\|Reshi]] cook and joined the crew, later poisoning everyone else on board to protect the island. It refused to divulge any of Akinah's secrets to [[Kaza\|Kaza]] even as she was dying, telling her that doing so could result in the "ends of worlds".
 
-### La Auténtica Desolación y la expedición a Akinah
-Cuando tubo lugar la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], había veinticuatro Insomnes en Roshar. Ya que ambos los siah aimianos y los Insomnes son inmortales, los individuos restantes parecían ser conscientes los unos de los otros.
-Los Insomnes fueron obligados a luchar contra los humanos otra vez debido al interes de los Radiantes en la ciudad de Akinah. Aunque habían conseguido disuadir a las tempranas patrullas de Corredores del Viento de inspeccionar la isla usando hordinos especializados hibridados con [[Larkin\|larkin]], su vehemencia al proteger la isla solo atrajo más atención a ella. Después de que la reina Navani contratara al barco de Rysn, el [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]], para investigar las rarezas durante la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]], los Insomnes se vieron obligados a mantener confrontaciones más y más agresivas con la tripulación. Esos encuentros acabaron desenmascarando a uno de sus agentes, [[Nikliasorm\|Nikliasorm]], comprometiendo terriblemente la seguridad de la operación entera. [[Rysn\|Rysn]] y [[Cuerda\|Cuerda]] se las apañaron para descubrir una cámara oculta bajo la isla, y la [[Esquirla del Amanecer\|Esquirla del Amanecer]] entró en la consciencia de Rysn. Al mismo tiempo, los Insomnes luchaban contra [[Lopen\|Lopen]], [[Huio\|Huio]], y la tripulación del *Vela Errante* en la playa, donde murieron tres marineros.
-A pesar de estos eventos, la Esquirla del Amanecer se mantuvo en secreto gracias a la cuidadosa planificación y negociación de Rysn. Nikli reveló una serie de secretos sobre la Esquirla del Amanecer, y Rysn vió la oportunidad para hacer un trato consistente en esconder la Esquirla del Amanecer y entrenar a los Insomnes para que pasen mejor como humanos. Los Insomnes aceptaron el trato, dándole además algunos [[Fabrial\|fabriales]] [[Moldeador de almas\|moldeadores de almas]] y un juego de [[Armadura esquirlada\|armadura esquirlada]] para Cuerda y aceptaron evitar atacar a Radiantes. Rysn y Cuerda tuvieron que jurar mantener en secreto la Esquirla del Amanecer, aunque se les permitió contarle a la gente una versión alterada de la historia. Los Insomnes les advirtieron que vigilarían sus actividades con hordinos para asegurarse que cumplirían el trato.
-Después de que Rysn cerrase el trato, los Insomnes se mostraron algo más afines a trabajar con otros humanos, ya que uno de ellos conoció a [[Jasnah\|Jasnah]] en persona. [[Hoid\|Hoid]] le comentó a Jasnah que no creía que ninguno de los Insomnes trabajara para [[Odium\|Odium]], pero al menos uno de ellos está aliado con los [[Sangre Espectral\|Sangre Espectral]]. Uno de los enjambres sustituyó una de las plumas de Hoid con un hordino preparado para parecerse a tal objeto. Hoid estaba muy sorprendido de como había conseguido evitar las protecciones pensadas para una infiltración del estilo. Hoid confió en que un enjambre amistoso sería responsable, pero él y Jasnah decidieron asumir que era un espía que informaría de sus actividades a [[Thaidakar\|Thaidakar]], probablemente a través de [[Mraize\|Mraize]].
+### True Desolation and the Expedition to Akinah
+By the time of the [[True Desolation\|True Desolation]], there were twenty-four Sleepless on Roshar. As both Siah Aimians and Sleepless were immortal, the remaining individuals seemed to be aware of each other.
+The Sleepless were forced into conflict with humans again due to Radiant interest in the city of Akinah. Although they had managed to dissuade early patrols of Windrunners from surveying the island using specialized [[Larkin\|larkin]] hybrid hordelings, their vehemence in protecting the island only attracted more attention to it. After Queen Navani commissioned Rysn's ship, the *[[Wandersail (1174 ship)\|Wandersail]]*, to investigate the oddities during the [[Expedition to Akinah\|expedition to Akinah]], the Sleepless were forced into steadily more aggressive confrontations with the ship's crew. These engagements resulted in the unmasking of one of their agents, [[Nikliasorm\|Nikliasorm]], fatally compromising the security of their entire operation. [[Rysn\|Rysn]] and [[Cord\|Cord]] managed to discover a hidden chamber underneath the island, and the [[Dawnshard\|Dawnshard]] entered Rysn's consciousness. At the same time, the Sleepless battled [[Lopen\|Lopen]], [[Huio\|Huio]], and the crew of the *Wandersail* on the beach, killing three sailors.
+Despite these events, the Dawnshard maintained anonymity thanks to Rysn's careful planning and negotiating. Nikli revealed a number of secrets about the Dawnshard, and Rysn saw an opportunity to strike a bargain to keep the Dawnshard hidden and train the Sleepless to better pass as human. The Sleepless accepted her deal, also giving her some [[Soulcaster\|Soulcaster]] [[Fabrial\|fabrials]] and a set of [[Shardplate\|Shardplate]] for Cord and agreeing to avoid attacking Radiants. Rysn and Cord were sworn to secrecy regarding the Dawnshard, although they were allowed to tell people an altered version of their story. The Sleepless indicated that they would monitor them with hordelings to ensure that they lived up to the bargain.
+After Rysn struck the deal, the Sleepless were at least somewhat willing to work with other humans, as one of them met with [[Jasnah\|Jasnah]] in person. [[Hoid\|Hoid]] reported to Jasnah that he did not think any of the Sleepless were working with [[Odium\|Odium]], but at least one of them was allied with the [[Ghostbloods\|Ghostbloods]]. One of the swarms replaced one of Hoid's pens with a hordeling evolved to resemble a pen. Hoid was baffled as to how it had evaded protections he had put in place to avoid such an infiltration. Hoid hoped a friendly swarm might be responsible, but he and Jasnah assumed that it was a spy that was reporting on Hoid's activities to [[Thaidakar\|Thaidakar]], likely through [[Mraize\|Mraize]].
 
-### La era espacial
-Durante la era espacial del Cosmere, los Insomnes se vieron envueltos en varios conflictos actualmente desconocidos. Estos han llevado a algunos, cansados de ellos, a la clandestinidad, como [[Masaka\|Masaka]].
+### The Space Age
+During the cosmere's space age, the Sleepless got involved in various currently unknown conflicts. These conflicts have led some Sleepless, who tired of them, into hiding, such as [[Masaka\|Masaka]].
 
-## Insomnes notables
+## Notable Sleepless
 [[Arclomedarian\|Arclomedarian]]
-[[Yelamaiszin\|Yelamaiszin]], primero y más antiguo de los enjambres en Roshar
-[[Alalhawithador\|Alalhawithador]], tercer enjambre más antiguo y el más furioso
-[[Nikliasorm\|Nikliasorm]], vigésimo cuarto enjambre y el más joven en Roshar
+[[Yelamaiszin\|Yelamaiszin]], first and oldest of the swarms on Roshar
+[[Alalhawithador\|Alalhawithador]], third oldest and angriest of the swarms
+[[Nikliasorm\|Nikliasorm]], twenty-fourth and youngest swarm on Roshar
 [[Zyardil\|Zyardil]]
-[[Masaka\|Masaka]], saltamundos de [[Komashi\|Komashi]] y sexagésima horda de la cepa Natricatich. Su nombre Insomne es Chinikdakordich, pero lo ha abandonado.
-El cocinero de *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* era un Insomne que no ha sido identificado
-Un Insomne no identificado que se unió a los Sangre Espectral.
-### Avistamientos confirmados
-Las apariciones llamativas de cremlinos pueden indicar la presencia de un Insomnes; los avistamientos conocidos incluyen:
+[[Masaka\|Masaka]], a worldhopper on [[Komashi\|Komashi]] and sixtieth swarm of the Natricatich Strain. Her Sleepless name is Chinikdakordich, but she has abandoned that name.
+The cook of the *[[First Dreams\|First Dreams]]* was an unidentified Sleepless
+An unidentified Sleepless that joined the Ghostbloods.
+### Confirmed Sightings
+Conspicuous appearances of cremlings may indicate the presence of a Sleepless; known sightings include:
 
-[[Hoid\|Hoid]] relata un monólogo a un hordino mientras espera a que [[Jasnah\|Jasnah]] se [[/wiki/Potenciaci%C3%B3n#transportaci.C3.B3n]] després de su periodo en [[Shadesmar\|Shadesmar]].
-Kaladin nota un hordino de color morado oscuro en uno de los carros de [[Tvlakv\|Tvlakv]].
-Un hordino que se disfraza de bolígrafo para escuchar a Hoid y Jasnah.
-### Avistamientos no confirmados
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
+[[Hoid\|Hoid]] delivers a monologue to a hordeling while waiting for [[Jasnah\|Jasnah]] to [[Transportation\|Elsecall]] after her time in [[Shadesmar\|Shadesmar]].
+Kaladin notices a deep purple hordeling on one of [[Tvlakv\|Tvlakv's]] carts.
+A hordeling disguising itself as a pen to listen in on Hoid and Jasnah.
+### Unconfirmed Sightings
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-Shallan bosqueja un cremlino en los jardines de la mansión de su familia.
-[[Mraize\|Mraize]] dispara a un cremlino en un árbol durante un encuentro con Shallan.
-Kaladin y [[Syl\|Syl]] ven un cremlino de colores brillants en una celda en la prisión.
-Kaladin y Syl ven un cremlino iridiscente en las [[Llanuras Quebradas\|Llanuras Quebradas]].
-Dalinar se cruza a un cremlino mientras busca a [[Talenel\|Talenel]] en los campamentos de guerra.
-Kaladin nota un cremlino estraño en una mesa en un [[Refugio para tormenta\|refugio para tormentas]] en Kholinar.
-Velo ve un cremlino de color morado oscuro en los abismos tras haber sido secuestrada por los [[Hijos de Honor\|Hijos de Honor]].
-## Curiosidades
-Los Insomnes fueron inspirados por los tines en **, pero pueden extender sus miembros más lejos.
-Brandon primero incluyó criaturas parecidas a los Insomnes en su primera novela de ciencia ficción *[[Star's End\|Star's End]]*. Más tarde los movió al cosmere ya que quería una especie "verdaderamente alienígena".
-La publicidad en la sobrecubierta de los libros de *[[El archivo de las tormentas\|El archivo de las tormentas]]* están escritos desde una prespectiva dentro de Roshar y su autor es un Insomne. El enjambre específico es desconocido, aunque presumiblemente no es Arclo debido a su declarado desinterés en los Radiantes.
-Los Insomnes jugarán un papel importante en *[[Nacidos de la bruma Era 4\|Nacidos de la bruma Era 4]]*.
-Dalinar ve a un grupo de cremlinos quemadps en una visión de la Última Desolación.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] ·  · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Shallan sketches a cremling in the gardens at her family manor.
+[[Mraize\|Mraize]] shoots a cremling on a tree while meeting with Shallan.
+Kaladin and [[Syl\|Syl]] see a brightly colored cremling in a jail cell.
+Kaladin and Syl see an iridescent cremling on the [[Shattered Plains\|Shattered Plains]].
+Dalinar comes across a cremling while looking for [[Talenel\|Talenel]] in the warcamps.
+Kaladin notices a strange cremling on a table in a [[Stormshelter\|stormshelter]] in Kholinar.
+Veil sees a dark purple cremling in the chasms after being kidnapped by the [[Sons of Honor\|Sons of Honor]].
+Dalinar sees a burned swarm of cremlings in a vision of the Last Desolation.
+## Trivia
+The Sleepless were inspired by the Tines in **, but can spread their members farther apart.
+Brandon first included Sleepless-like beings in his early sci-fi novel *[[Star's End\|Star's End]]*. He later migrated them into the cosmere as he wanted a "truly alien" species.
+The blurbs on the back covers of the *[[Stormlight Archive\|Stormlight Archive]]* books are written from an in-universe perspective and are authored by a Sleepless. The specific swarm is unknown, although it is presumably not Arclo due to its professed disinterest in the Radiants.
+The Sleepless will play a major role in Mistborn Era 4.
 
 
-
-https://es.coppermind.net/wiki/Sleepless
+https://coppermind.net/wiki/Sleepless

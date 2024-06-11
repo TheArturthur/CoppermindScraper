@@ -1,16 +1,16 @@
 |**Varion Crestmar**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Sennion Crestmar\|Sennion]]|
-|**Hermanos**|[[Dennison Crestmar\|Dennison]]|
-|**Fallecido**|Suicide|
-|**Títulos**|High AdmiralSilvermane|
-|**Mundo natal**|[[Imperial Homeworld\|Imperial Homeworld]]|
-|**Presentado en**|*[[Firstborn\|Firstborn]]*|
+|**Family**|
+|**Parents**|[[Sennion Crestmar\|Sennion]]|
+|**Siblings**|[[Dennison Crestmar\|Dennison]]|
+|**Died**|Suicide|
+|**Titles**|High AdmiralSilvermane|
+|**Homeworld**|[[Imperial Homeworld\|Imperial Homeworld]]|
+|**Introduced In**|*[[Firstborn\|Firstborn]]*|
 
 **Varion Crestmar** is a Great High Officer and High Admiral in the empire of [[Firstborn\|Firstborn]].
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
@@ -29,14 +29,6 @@ Varion is a tall, confident man in his 50's with silver hair, and is viewed as a
 Varion was a nearly perfect military leader. He spent decades conquering the galaxy in the name of the [[High Emperor\|High Emperor]]. However, when that was completed, he turned on the Emperor, and began fighting the High Empire instead. With the powerful army and superior technologies he gained during his galactic conquest, the High Empire doesn't stand much chance. Foreseeing this, the empire cloned him and his clone is named [[Dennison Crestmar\|Dennison]], publicly known as his brother.
 He committed suicide after Dennison simulated him losing, having never learned what failure felt like.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Firstborn\|Firstborn]]**|
-|-|-|
-|**Personajes**|[[Dennison Crestmar\|Dennison Crestmar]] · |
-|**Otros**|[[Reunification War\|Reunification War]]|
 
 
-
-https://es.coppermind.net/wiki/Varion_Crestmar
+https://coppermind.net/wiki/Varion_Crestmar

@@ -1,110 +1,95 @@
-
-
-|**Reino Cognitivo**|
+|**Cognitive Realm**|
 |-|-|
 ||
-|**Relacionado con**|[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Este artículo es sobre el Reino Cognitivo entero, conocido coloquialmente como Shadesmar. Para la región que acuñó este término, ver [[Subastral de Roshar\|subastral de Roshar]].
->“*Todas las cosas tienen tres componentes: el alma, el cuerpo y la mente. Ese lugar que viste, Shadesmar, es lo que llamamos el Reino Cognitivo: el lugar de la mente.*”
-\-Jasnah describiendo Shadesmar a Shallan.[1]
-
-
-El **Reino Cognitivo**, conocido coloquialmente como **Shadesmar**, es el reino del pensamiento o de la mente. Tiene los aspectos cognitivos tanto de las cosas vivientes como de las no vivientes, y se puede acceder a él por una perpendicularidad. En al menos un planeta, los difuntos aparecen en el Reino Cognitivo antes de ir al Más Allá. El Reino Cognitivo y sus contrapartes, el Reino Espiritual y el Reino Físico, se estudian en conjunto como parte de la Teoría Realmática.
-El nombre informal, Shadesmar, tiene su origen en el subastral de Roshar y también en la palabra roshariana para «Reino Cognitivo». Aunque otros mundos tienen sus propias palabras para «Reino Cognitivo», cuando éstas se traducen mágicamente a otro idioma, el resultado es el nombre «Shadesmar», aunque no se refiera al subastral de Roshar. Shadesmar, tal y como lo acuñan y utilizan los rosharanos, también se utiliza en [[Luzdeplata\|Luzdeplata]] como estándar del [[Cosmere\|cosmere]].
-
-## Sumario
-
-1 Localizaciones. [[#Localizaciones]] 
-
-1. [[#Subastral]] 
-
-1. [[#Subastral de Roshar]] 
-1. [[#Subastral scadriano]] 
-1. [[#Subastral de Sel]] 
-1. [[#Subastral de Lumar]] 
-1. [[#Subastral de C.C3.A1ntico]] 
+This article is about the entire Cognitive Realm, informally known as Shadesmar. For the region that coined this term, see [[Rosharan subastral\|Rosharan subastral]].
+>“*All things have three components: the soul, the body, and the mind. That place you saw, Shadesmar, is what we call the Cognitive Realm—the place of the mind.*”
+\-Jasnah explaining Shadesmar to Shallan[1]
 
 
-1. [[#Lugares Destacables]] 
+The **Cognitive Realm**, known colloquially as **Shadesmar** is the realm of thought or of the mind. It contains the Cognitive aspects of both living and non-living things and can be accessed via perpendicularity. On at least one planet, the deceased appear in the Cognitive Realm before passing on to the Beyond. The Cognitive Realm, along with its counterparts, the Spiritual Realm and the Physical Realm are studied together as part of Realmatic Theory.
+The informal name, Shadesmar, originates from the Rosharan subastral and also the Rosharan word for "Cognitive Realm". Although other worlds have their own words for "Cognitive Realm", when these get magically translated to another language, it results in the name "Shadesmar", even if not in reference to the Rosharan subastral. Shadesmar, as coined and used by Rosharans, is also used in [[Silverlight\|Silverlight]] as the [[Cosmere\|cosmere]] standard.
+
+## Contents
+
+1 Locations. [[#Locations]] 
+
+1. [[#Subastrals]] 
+
+1. [[#Rosharan Subastral]] 
+1. [[#Scadrian Subastral]] 
+1. [[#Selish Subastral]] 
+1. [[#Lumaran Subastral]] 
+1. [[#Canticle Subastral]] 
 
 
-2 Geografía y Ecología. [[#Geograf.C3.ADa y Ecolog.C3.ADa]] 
-
-2. [[#Medio Ambiente]] 
-2. [[#Flora.2C Fauna.2C y Seres]] 
+1. [[#Notable Locations]] 
 
 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+
+2. [[#Environments]] 
+2. [[#Flora.2C Fauna.2C and Beings]] 
 
 
-## Localizaciones
-El Reino Cognitivo existe como un plano conectado fuertemente distorsionado en función de la presencia de pensamiento cognitivo. Está dividido en secciones conocidas como subastrales que reflejan sus correspondientes planetas del Cosmere. Se puede acceder a un subastral desde subastrales vecinos, lo que hace posible el comercio interplanetario y el saltar entre mundos.
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
-### Subastral
-Las partes del Reino Cognitivo que son reflejos de planetas se denominan subastrales.
 
-#### Subastral de Roshar
+## Locations
+The Cognitive Realm exists as a connected plane that is heavily distorted based on the presence of cognitive thought. The Cognitive Realm is split into sections known as subastrals that reflect to corresponding planets in the cosmere. These subastrals can be reached from their neighbors, making worldhopping and interworld trade possible.
 
- 
-Shadesmar es un lugar bullicioso y hogar de los spren. Está formado por un océano invertido hecho de cuentas que representan las almas de los objetos del Reino Físico, mientras que las almas vivas son representadas con llamas. Existe una sociedad próspera, y se pueden encontrar ciudades tanto de spren específicos como de varios tipos de estos. También se pueden encontrar humanos viviendo en Shadesmar aunque son más raros, siendo más comunes los viajeros. El comercio entre rosharianos y personas de otros planetas es común, utilizándo la Investidura local, la luz tormentosa, como moneda. Aun así, la relación entre spren y humanos no siempre es positiva, ya que algunos spren tratan de malas maneras a los humanos debido a los efectos de la Traición en otros spren. Varias facciones, incluyendo las fuerzas de Odium y los Sangre Espectral, se han vuelto activos en la zona en el 1174. Las fuerzas de Odium han trabajado para ganar influencia en el reino, mientras que los Sangre Espectral buscan crear una red de contrabando de luz tormentosa hacia fuera del planeta.
+### Subastrals
+Parts of the Cognitive Realm that are reflections of planets are called subastrals.
 
-#### Subastral scadriano
-El subastral de Scadrial también es conocido como [[Extensi%C3%B3n de los Vapores\|Extensión de los Vapores]] o, según relatos populares, la «dimensión fantasmal». Esta región se caracteriza por su ambiente brumoso, ya que todos los objetos del Reino Físico aparecen como figuras brumosas. Como en el subastral de Roshar, las masas de agua del Reino Físico se reflejan como zonas rocosas, mientras que la tierra aparecen como fluido brumoso. Tanto seres vivos como todo el metal brillan intensamente en el Reino Cognitivo, hasta el punto de poder camuflar objetos en el Reino Físico si se concentra la suficiente cantidad.
-Se sabe que los saltamundos viajan en barco por el fluido brumoso del Reino Cognitivo scadriano, pero las [[Sombra cognitiva\|sombras cognitivas]], las [[Esquirla\|Esquirlas]], y las almas de los muertos son capaces de caminar sobre él. Se desconoce si estos seres son capaces de caminar sobre los océanos cognitivos de otros mundos.
-
-#### Subastral de Sel
-El subastral de Sel se conoce también como [[Extensi%C3%B3n de las Densidades\|Extensión de las Densidades]]. Debido a la Fragmentación de las Esquirlas locales y al posterior encierro de los cuerpos Fragmentados en el Reino Cognitivo, el subastral de Sel es inhabitable, ya que la sustancia de las Esquirlas se ha transformado en una tormenta altamente presurizada de un material similar al plasma conocida como el Dor. Esto hace que el subastral de Sel sea extremadamente peligroso, ya que cualquiera que se adentre sin la debida preparación acabará destrozado por el poder de las Esquirlas. Es posible pasar a través del Dor y sobrevivir, pero el cómo no está claro.
-El subastral de Sel tiene una apariencia diferente según el lugar del Reino Físico al que esté conectado.
-
-#### Subastral de Lumar
-Se conoce muy poco sobre el subastral de Lumaran. Sin embargo, sí se sabe que la conversión sólido-fluido es más rara de lo normal en comparación con otros subastrales conocidos.
-
-#### Subastral de Cántico
-Se sabe poco del subastral de Cántico más allá del hecho de que hay peligrosos sacudidas y temblores.
-
-### Lugares Destacables
-Otros lugares que se pueden encontrar en el Reino Cognitivo son:
-
-[[Extensi%C3%B3n del Cielo Roto\|Extensión del Cielo Roto]] - Una región desconocida que bordea el subastral de Roshar.
-La fortaleza de los [[Ire\|Ire]] - Una fortaleza adyacente a Scadrial.
-[[Luzdeplata\|Luzdeplata]] - Una ciudad en la que se es consciente de la teoría Realmática. Está ubicada en algún lugar del Reino Cognitivo.
-Un mundo que es un páramo vacío de casi nada.
-Un mar completamente trasparente, supuestamente el espacio entre mundos. Es notablemente bastante viscoso.
-Un lugar donde [[Hoid\|Hoid]] tiene su «base de operaciones».
-## Geografía y Ecología
-### Medio Ambiente
-El Reino Cognitivo es diferente en cada planeta, con sus rasgos influidos por la percepción, pero aunque la composición de cada subastral difiere, hay ciertos elementos comunes en diferentes partes del reino. El paisaje no es fijo, ya que los cambios en el Reino Físico, como por ejemplo una masa de agua siendo rellenada con tierra, se reflejan en el Reino Cognitivo, aunque con algo de retraso. El Reino COgnitivo es plano, u no tiene curvatura. No está claro qué proyección utiliza.
+#### Rosharan Subastral
 
  
-El Reino Cognitivo recubre al Reino Físico, aunque como es más compacto los lugares no se corresponden uno a uno en los dos reinos. Como la forma del reino se basa en la percepción que tiene la gente sobre los objetos y el espacio, la dimensión vertical, el espacio entre planetas, y los lugares desconocidos en el Reino Físico, están más comprimidos. Áreas como el centro del océano o el espacio entre planetas, lugares en los que no existe el pensamiento, se encogen en el Reino Cognitivo para reducir al mínimo o a la nada la distancia, aunque el Reino Cognitivo sigue existiendo en ese espacio. La geografía del Reino Cognitivo no tiene por qué estar basada exclusivamente en la geología del Reino Físico, ya que también se puede formar como reflejo de corrientes de agua o terrenos creados artificialmente.
-El cielo del Reino Cognitivo es de un tono negro y sin luna o estrellas. En el horizonte se ubica un pequeño y tenue sol blanco, que proporciona la luz suficiente para iluminar la tierra pero no el cielo, aunque es tan débil que casi no logra ni esto. El sol no se mueve o cambia según la hora del día o la distancia recorrida, por lo que el Reino Cognitivo carece de ciclo de día y noche natural. En algunos mundos las nubes crean ciertas formaciones en las que se quedan adheridas, aunque no sucede en todos los planetas. Tiene una atmósmera respirable, ya que el aire permea desde el Reino Físico al Cognitivo.
-El Reino Cognitivo es un reflejo inverso del Reino Físico, siendo los océanos del Reino Cognitivo tierras en el Físico, y las tierras del Reino Cognitivo el reflejo de océanos, ríos y lagos. Cada subastral manifiesta las masas de «agua» de manera diferente, lo que puede deberse a la manera de pensar de cada planeta. Es posible que esta inversión no se dé en todos los subastrales del Cosmere.
-Las sombras se comportan de manera extraña en el Reino Cognitivo, según la fuente de luz que las cree. Las sombras proyectadas por el sol van hacia él y no al contrario, mientras que las proyectadas por fuego manifestado apuntarán en dirección contraria a la de la fuente de luz, como ocurriría en el Reino Físico. Las sombras invertidas pueden aparecer en el Reino Físico en raras ocasiones, y estas están relacionadas con el Reino Cognitivo.
+Shadesmar is a bustling land and home to the spren. Shadesmar is composed of an inverted ocean made of beads that represent the souls of Physical Realm objects, while living souls from the Physical Realm are represented by flames. There is a thriving society that lives in the area with both spren specific and mixed spren cities being found in the region. Humans can also be found living in Shadesmar however they are rarer and are more commonly travelers. Trade is common between Rosharans and off worlders, with goods being bought and sold using the local Investiture, Stormlight. Relations, however, between spren and humans are not always positive with many spren treating humans poorly due to the lingering effects of the Recreance on their peoples. As well as this, several factions, including Odium's Forces and the Ghostbloods became active in the area c. 1174. Odium's forces have worked to gain influence over the Realm, while the Ghostbloods have sought to build a network for Stormlight trade off world.
 
-### Flora, Fauna, y Seres
-Existe una variedad de planta que florece en el Reino Cognitivo, pero su sustancia varía según el planeta. La vida vegetal florece en el suelo invertido del Reino Cognitivo, el correspondiente a las masas de agua. En algunos subastrales, agua en una taza del Reino Físico es suficiente para permitir que crezcan plantas.
-Los seres vivos se reflejan en cierta forma en el Reino Cognitivo. Si alguien muere en el Reino Físico su alma desaparece, pero en algunos subastrales aparecen brevemente en el Reino Cognitivo antes de ir al Más Allá, aunque no es el caso de todos los. Mediante [[Investidura\|Investidura]], un alma puede durar más en el Reino Cognitivo, y algunas llegan a mantenerse lo suficiente como para ser consideradas [[Sombra cognitiva\|sombras cognitivas]]: almas que no consiguen ir más allá y están encerradas en el Reino Cognitivo. Al igual que con los objetos, tocar a una persona te dará la sensación de la persona que representa, y es posible sentir sus emociones y sus pensamientos generales.
+#### Scadrian Subastral
+The Scadrian subastral is also known as the [[Expanse of the Vapors\|Expanse of the Vapors]] or, in popular accounts, the 'ghostly dimension'. This region is characterized by its misty environment, with all objects from the Physical Realm appearing as misty figures. Like with the Rosharan subastral, bodies of water in the Physical Realm reflect as rocky shores, while the ground appears as a misty liquid. Living beings, as well as all metal, glow brightly in the Cognitive Realm, to the point that they can mask objects in the Physical Realm if concentrated enough.
+Worldhoppers have been known to travel by boat across the misty fluid of the Scadrian Cognitive Realm, but [[Cognitive shadow\|Cognitive shadows]], [[Shard\|Shards]], and the souls of the dead appear capable of walking on the fluid. It is not known whether such beings can also walk on the Cognitive seas of other worlds.
 
-## Curiosidades
-Aunque Brandon planea que Shadesmar se use en referencia a todo el Cosmere y no sólo al subastral de Roshar, esto puede cambiar al término más científico «Reino Cognitivo» una vez que Brandon llegue a la Era 4.
-## Notas
+#### Selish Subastral
+The Selish subastral is also known as the [[Expanse of the Densities\|Expanse of the Densities]]. Due to the Splintering of the local Shards, and subsequent locking of those Splintered bodies in the Cognitive Realm, the Selish subastral is uninhabitable, as the Shardic substance has formed into a highly pressurized plasma-like storm known as the Dor. This makes the Cognitive Realm on Sel extremely dangerous as anyone who comes there unprepared would be ripped apart by the power of the Shards. It is possible to pass through the Dor and survive, though by what means it is unclear.
+The Selish subastral appears different based on where it is linked in the Physical Realm.
+
+#### Lumaran Subastral
+Little is known about the Lumaran Subastral, however, the solid-fluid inversion is weirder than normal in comparison to the other subastrals shown.
+
+#### Canticle Subastral
+Little is known about the Canticle Subastral besides the fact that it has constant and dangerous shakings and tremors.
+
+### Notable Locations
+Other regions that can be found in the Cognitive Realm include;
+
+[[Expanse of the Broken Sky\|Expanse of the Broken Sky]] - an unknown region that borders the Rosharan subastral
+The [[Ire\|Ire]] Fortress - a stronghold adjacent to Scadrial.
+[[Silverlight\|Silverlight]] - a Realmatically aware city based somewhere in the Cognitive Realm.
+A world that is an empty wasteland of near-nothingness.
+A completely transparent sea, supposedly the space between worlds. It is notably quite viscous.
+A place where [[Hoid\|Hoid]] keeps his "home base."
+## Geography and Ecology
+### Environments
+The Cognitive Realm looks different on every planet, with its traits partially influenced by perception, and although the composition of each subastral differs, there are certain shared characteristics between the different parts of the realm. The landscape is also not fixed - as it is a reflection of the Physical Realm, changes in that Realm, such as a body of water getting filled in with dirt, will be reflected in the Cognitive Realm, albeit with a delay. The Cognitive Realm is flat, and does not have a curvature; it is unknown which projection it uses.
+
+ 
+The Cognitive Realm overlays the Physical Realm, however, as it is more compact, locations do not map one to one between the two realms. As the realm forms based on people’s perception of objects and space, the vertical dimension, space between planets, and unknown locations in the Physical Realm, are particularly compressed. Areas, such as the middle of oceans or in between planets, where thought does not exist are shrunk in the Cognitive Realm to be little to no distance at all, though the Cognitive Realm does still exist in these spaces. Cognitive Realm geography does not need to be based off naturally occurring Physical Realm geology, and can also form as a reflection of man-made land or water sources.
+The sky in the Cognitive Realm is pitch black with no moon or stars. On the horizon sits a small, frail, white sun, that provides enough light to illuminate the lands but not the sky, despite appearing almost too weak to achieve even this. The sun does not move or change regardless of time of day or distance traveled - because of this, the Cognitive Realm does not have any natural day and night cycle. On some worlds, clouds create certain formations which they strictly hold to, however this is not the case for all worlds. It has a natural, breathable atmosphere due to air permeating into the Cognitive from the Physical Realm.
+The Cognitive Realm is an inverse reflection of the Physical Realm, with the Cognitive Realm's bodies of "water" mirroring land in the Physical Realm, and Cognitive Realm land being the reflection of oceans, rivers, and lakes. Each subastral will manifest these bodies of "water" differently, which may relate to the way of thinking on any given planet. It is possible that this inversion does not extend to all subastrals in the cosmere.
+Shadows behave strangely in the Cognitive Realm, depending on the source of light that is creating them. Shadows cast by the sun will point towards it instead of away, while those cast by manifested fire will point away from the light source as would occur in the Physical Realm. Backward shadows occur on rare occasions in the Physical Realm, and are related in some way to the Cognitive Realm.
+
+### Flora, Fauna, and Beings
+There is a variety of plant life that blooms in the Cognitive Realm, although its substance differs between planets. Plant life blooms on the inverted ground of the Cognitive Realm as it corresponds to bodies of water. On some subastrals, water in a cup in the Physical Realm is enough to allow the plants to bloom.
+Living beings reflect in the Cognitive Realm in some manner. If someone is to die in the Physical Realm, their soul will disappear. In some subastrals they may appear briefly in the Cognitive Realm before passing onto the Beyond, although this does not appear to be the case on all planets. Through [[Investiture\|Investiture]], a soul can last longer in the Cognitive Realm, and some even hold on long enough to be considered [[Cognitive Shadow\|Cognitive Shadows]], souls that fail to pass on and are stuck in the Cognitive Realm. Similar to objects, touching a person will give the impression of the person it represents and it is possible to feel their emotions and general thoughts.
+
+## Trivia
+Although Brandon plans for Shadesmar to be used in reference to the whole cosmere and not just the Rosharan subastral, this may shift to the more scientific term ‘Cognitive Realm’ once Brandon reaches Era 4.
 
 
-
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
-
-
-
-https://es.coppermind.net/wiki/Subastral
+https://coppermind.net/wiki/Subastral

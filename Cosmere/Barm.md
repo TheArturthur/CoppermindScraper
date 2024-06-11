@@ -1,39 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Barm**|
 |-|-|
-|**Oficio**|Chef|
-|**Residencia**|[[Piedralar\|Piedralar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Profession**|Chef|
+|**Residence**|[[Hearthstone\|Hearthstone]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-Barm es un chef [[Ojos oscuros\|ojos oscuros]] que trabaja en la cocina de la mansión del consistor de [[Piedralar\|Piedralar]], en [[Roshar\|Roshar]].
+Barm is a [[Darkeyed\|darkeyed]] chef who works in the kitchen of the citylord's mansion in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 
-## Aparencia y personalidad
-Barm es un hombre [[Ojos oscuros\|ojos oscuros]] alto y delgado. Tiene el pelo oscuro y lo lleva recogido en trenzas.
-Mientras dirige su cocina, Barm camina entre las encimeras y va golpeando una olla o sartén con una larga cuchara de metal cada vez que da una orden a sus ayudantes. Barm es un chef con experiencia y está acostumbrado a preparar comida diferente para los niños en la cocina.
+## Appearance and Personality
+Barm is a tall, slender, [[Darkeyed\|darkeyed]] man. He also has dark hair that he wears braided.
+While managing his kitchen Barm often walks down the line of the kitchen counter, banging the long metal spoon he carries on a pot or pan every time he gives an order to his subchefs. Barm is an experienced chef and is used to preparing separate food for children in the kitchens.
 
-## Historia
-Barm trabajó como el chef jefe de las cocinas de las mansiones del consistor [[Wistiow\|Wistiow]], administrando la cocina y a otros cocineros. Depués de la muerte de Wistiow, el nuevo consistor, [[Roshone\|Roshone]] mantuvo a Barm como chef. Cuando [[Lirin\|Lirin]] fue a la mansión a discutir sobre las esferas que había recibido de Wistiow, envió a [[Kaladin\|Kaladin]] a la cocina para que pidiera una comida para niños. Cuando Barm vió entrar a Kaladin, supo inmediatamente porque había venido y hizo que un sirviente le trajera pan y arróz de [[Tali%C3%BA\|taliú]] afrutado.
-
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 23:07, 7 September 2018 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+Barm worked as the head chef in the kitchens of Citylord [[Wistiow\|Wistiow's]] mansions, managing the kitchen and several other subchefs. Following Wistiow's death, the new citylord, [[Roshone\|Roshone]] kept Barm on as the chef. When [[Lirin\|Lirin]] came to the mansion to discuss the spheres he had been given by Wistiow, he sent [[Kaladin\|Kaladin]] away to the kitchens for a child's meal. When Barm saw Kaladin enter the kitchens, he knew instantly why he had come and had a servant bring him flatbread and fruited [[Tallew\|tallew]] rice.
 
 
 
-https://es.coppermind.net/wiki/Barm
+https://coppermind.net/wiki/Barm

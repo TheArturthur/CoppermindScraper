@@ -1,10 +1,10 @@
 |**Wode**|
 |-|-|
-|**Universo de origen**| [[State\|States]]|
+|**Universe**| [[State\|States]]|
 
 The **Wode** are a group of humans who administrate the [[State\|States]]. They use [[XinWey's Doctrine\|XinWey's Doctrine]] to govern the [[Liveborn\|Liveborn]], and control the programming of the States and all the [[Machineborn\|Machineborn]] in them.
 
-## Sumario
+## Contents
 
 1 Isolationism. [[#Isolationism]] 
 
@@ -39,15 +39,6 @@ As administrators of the States, the Wode perform many jobs for the Liveborn wit
 ## Connection with Legion
 In Legion: Lies of the Beholder, a company named Walters and Ostman Detention Enterprises shows up, which would be initialized as WODE. The company appears to have been founded fairly recently, and engages in activities similar to the WODE in [[Perfect State\|Perfect State]], albeit with lower tech. It is implied Perfect State and Legion are, therefore, in the same universe.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**| · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Wode
+https://coppermind.net/wiki/Wode

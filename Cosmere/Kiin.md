@@ -1,81 +1,65 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kiin**|
 |-|-|
-|**[[Familia real teo\|Familia real teo]]**|
-|**Cónyuge**|[[Daora\|Daora]]|
-|**Hijos**|[[Kaise\|Kaise]], [[Daorn\|Daorn]], [[Lukel\|Lukel]], [[Adien\|Adien]]|
-|**Hermanos**|[[Eventeo\|Eventeo]]|
-|**Parientes**|[[Sarene\|Sarene]], [[Teorn\|Teorn]]|
-|**Títulos**|Príncipe heredero de [[Teod\|Teod]]|
-|**Apodos**|Dreok Aplastagargantas|
-|**Oficio**|Pirata, mercader|
-|**Residencia**|[[Kae\|Kae]]|
-|**Nacionalidad**|[[De Teod\|de Teod]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**[[Teo Royal Family\|Teo Royal Family]]**|
+|**Spouse**|[[Daora\|Daora]]|
+|**Children**|[[Kaise\|Kaise]], [[Daorn\|Daorn]], [[Lukel\|Lukel]], [[Adien\|Adien]]|
+|**Siblings**|[[Eventeo\|Eventeo]]|
+|**Relatives**|[[Sarene\|Sarene]], [[Teorn\|Teorn]]|
+|**Titles**|Crown Prince of [[Teod\|Teod]]|
+|**Aliases**|Dreok Crushthroat|
+|**Profession**|Pirate, Merchant|
+|**Residence**|[[Kae\|Kae]]|
+|**Nationality**|[[Teo\|Teo]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
-**Kiin** es un marinero y comerciante de [[Teod\|Teod]] en [[Sel\|Sel]]. Su nombre se basa en el [[/wiki/Aon#Kii]], que significa "justicia". Kiin es tío de [[Sarene\|Sarene]] y el legítimo rey de Teod. También se le conoce por el nombre de **Dreok Aplastagargantas** por su época de pirata, aunque su intención era que el nombre fuera **Garganta Aplastada** por su voz rasposa.
+**Kiin** is a [[Teo\|Teo]] sailor and merchant on [[Sel\|Sel]]. His name is based on [[/wiki/Aon#Kii]], meaning "justice." Kiin is [[Sarene\|Sarene's]] uncle and the rightful king of Teod. He is also known by the name **Dreok Crushthroat** from his time as a pirate, though he meant for the name to be **Crushedthroat** for his scratchy voice.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Sarene]] 
 4. [[#Eventeo]] 
 4. [[#Daora]] 
-4. [[#Hijos]] 
+4. [[#Children]] 
 
 
-5 Notas del traductor. [[#Notas del traductor]] 
-6 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Kiin es un hombre corpulento de grandes ojos marrones que siempre parecen contener una carcajada. No sólo es extremadamente alto y ancho, sino que es a la vez regordete y muy musculoso. De joven llevaba barba, pero se la afeitó tras mudarse a [[Arelon\|Arelon]]. Desde su accidente, Kiin habla con una voz profunda y rasposa.
-De joven, Kiin tenía fama de marinero aventurero y figura heróica. Viste ropas exóticas y lleva a la familia de [[Eventeo\|Eventeo]] regalos caros.
+## Appearance and Personality
+Kiin is a large man with wide brown eyes that always seem to hold laughter. He is not only extremely tall and broad, but he is both very pudgy and very muscled. He wears a beard as a young man, but he shaves it after moving to [[Arelon\|Arelon]]. Ever since his accident, Kiin speaks with a deep, scratchy voice.
+As a younger man, Kiin has a reputation as an adventuring sailor and a heroic figure. He wears exotic clothing and brings [[Eventeo\|Eventeo's]] family expensive gifts.
 
-## Atributos y habilidades
-Kiin es extremadamente hábil con su hacha, lo suficiente como para matar a un monje de [[Dakhor\|Dakhor]].
-Es un cocinero extremadamente hábil, capaz de elaborar platos de muchos países. El hecho de que cocine para su familia es anormal en [[Arelon\|Arelon]], donde la nobleza suele contratar cocineros para hacer el trabajo. Teme a los criados debido a la revolución iniciada principalmente por estos durante el [[Reod\|Reod]].
+## Attributes and Abilities
+Kiin is extremely skilled with his axe--sufficiently so to kill a monk of [[Dakhor\|Dakhor]].
+He is an extremely skilled cook, able to make cuisine of many countries. The fact that he cooks for his family is abnormal in [[Arelon\|Arelon]], where nobility usually hire cooks to do the job. He fears servants due to the revolution started primarily by servants during the [[Reod\|Reod]].
 
-## Historia
-Kiin era el hermano mayor de [[Eventeo\|Eventeo]] y legítimo rey de [[Teod\|Teod]]. Debería haber heredado el trono, pero en su juventud se dedicó a realizar viajes de placer y a la exploración, visitando puertos extranjeros mientras Eventeo permanecía en la corte y ayudaba a su padre a gobernar el reino durante sus períodos de enfermedad. Debido a una pequeña crisis que coincidió con la muerte de su padre, Eventeo asumió el papel de rey y fue coronado mientras Kiin estaba de viaje. A su regreso, éste le exigió furioso que le devolviera la corona. Eventeo se negó y desterró a Kiin.
-Durante los años siguientes, Kiin reunió una fuerza naval formada por piratas, desertores de Teod y mercenarios. Fue durante esta época cuando sufrió un accidente que le aplastó la garganta y estuvo a punto de morir. Después, tomó el nombre de "Dreok", en honor al aon Reo ("castigo"), y llevó su armada a Teod para tomar el trono por la fuerza. Luchó con un hacha transcrita con el [[/wiki/Aon#Reo]].
-Eventeo ganó la batalla, aunque por poco. Kiin escapó con vida por los pelos y se marchó a Arelon para recuperarse y planear su próxima invasión. Sin embargo, se enamoró de Daora, y poco a poco empezó a perder su rudeza. Él y [[Daora\|Daora]] tuvieron dos hijos, [[Kaise\|Kaise]] y [[Daorn\|Daorn]]. Actuó como padre de los otros dos hijos de Daora fruto de otro matrimonio, [[Lukel\|Lukel]] y [[Adien\|Adien]]. Kiin se convirtió en comerciante y utilizando la experiencia de sus viajes, tuvo mucho éxito.
-Kaise nació en la época del [[Reod\|Reod]]. Daora y Kiin estaban horrorizados por el violento levantamiento de los sirvientes en el Reod, y nunca volvieron a contratar a ninguno más. Como Kiin era muy rico, Iadon le ofreció un título varias veces, pero siempre lo rechazó. Daorn nació unos dos años después del Reod. Tres años después, Adien fue tomado por la Shaod. Como no querían que lo arrojaran a la ciudad, la familia ocultó el estado de Adien con maquillaje y lo mantuvo en su casa.
-Cuando Sarene llegó a Arelon, Kiin fue a recibirla y la invitó a comer a su casa. Le presentó a sus hijos y le propuso que se quedara allí, a lo que ella se negó. Kiin y Lukel explicaron a Sarene la situación política y le presentaron a los demás miembros del grupo de resistencia de Raoden.
+## History
+Kiin was the older brother of [[Eventeo\|Eventeo]] and rightful king of [[Teod\|Teod]]. He ought to have inherited the throne, but he gave his time as a youth to pleasure voyages and exploration, visiting foreign ports while Eventeo stayed at court and helped his father rule the kingdom during his bouts of sickness. Because some minor crisis happened to occur at the same time as their father's death, Eventeo found himself filling the role of king and was crowned while Kiin was away on a trip. When he returned, he furiously demanded the crown back. Eventeo refused, and banished Kiin.
+During the following years, Kiin gathered a naval force consisting of pirates, Teo deserters, and mercenaries. It was during this time that he suffered an accident that crushed his throat and nearly died. Afterwards, he took the name "Dreok," after Aon Reo ("punishment"), and took his navy to Teod to take the throne by force. He fought with an axe transcribed with the [[/wiki/Aon#Reo]].
+Eventeo won the battle, though only barely. Kiin barely escaped with his life, and went to Arelon to recoup and plan his next invasion. However, he fell in love with Daora, and slowly began to lose his hard edge. He and [[Daora\|Daora]] sired two children, [[Kaise\|Kaise]] and [[Daorn\|Daorn]]. He acted as a father to Daora's other two children from a different marriage, [[Lukel\|Lukel]] and [[Adien\|Adien]]. Kiin became a merchant and using his experience from his travels, Kiin was very successful.
+Kaise was born around the time of the [[Reod\|Reod]]. Daora and Kiin were horrified by the violent servant uprising in the Reod, and never hired servants again. As Kiin was very rich, he was offered a title by Iadon multiple times, but he always refused it. Daorn was born about two years after the Reod. Three years later, Adien was taken by the Shaod. Unwilling to have him thrown into the city, the family concealed Adien's condition with makeup and kept him close to home.
+When Sarene arrived in Arelon, Kiin went to welcome her and invited her to eat at his house. He introduced her to his children and suggested that Sarene stay in his house, which she declined. Kiin and Lukel explained the political situation to Sarene and introduced her to the other members of Raoden's resistance group.
 
-## Relaciones
+## Relationships
 ### Sarene
-Cuando [[Sarene\|Sarene]] era pequeña, no sabía pronunciar "tío Kiin" y le apodaba "Hunkey Kay".. Tenía una vaga idea de que era comerciante por los regalos que siempre tenía para ella cuando la visitaba entre viaje y viaje. Su idea de su ausencia era que partió en un viaje como cualquier otro y acabó estableciéndose en alguna isla lejana. Cuando Sarene llega a [[Arelon\|Arelon]] para casarse con [[Raoden\|Raoden]], se reencuentra con Kiin.
+When [[Sarene\|Sarene]] was a little girl, she couldn't pronounce "Uncle Kiin," and nicknamed him "Hunkey Kay." She had a vague idea that he was a merchant because of the gifts he always had for her when he visited in between trips. Her understanding of his absence was that he left on a voyage like any other and ended up settling on some far island. After Sarene comes to [[Arelon\|Arelon]] to wed [[Raoden\|Raoden]], she reconnects with Kiin.
 
 ### Eventeo
-Kiin es el hermano mayor de [[Eventeo\|Eventeo]]. Después de que este fuera coronado rey, los dos pelearon y finalmente Kiin perdió y fue desterrado. Los dos no se comunicaron después de ese evento a pesar de Kiin sólo se trasladó hasta Arelon, incluso después de Kiin finalmente perdiera su carácter duro.
+Kiin is the older brother of [[Eventeo\|Eventeo]]. After Eventeo being crowned king, the two fought and eventually Kiin lost and was banished. The two did not communicate after that event despite Kiin only moving as far as Arelon, even after Kiin eventually lost his hard edge.
 
 ### Daora
-Poco después de mudarse a Arelon, Kiin se enamoró de Daora. Con el tiempo se casaron y tuvieron dos hijos.
+Shortly after moving to Arelon, Kiin fell in love with Daora. They eventually married and had two children.
 
-### Hijos
-Kiin y Daora tuvieron dos hijos juntos, [[Kaise\|Kaise]] y [[Daorn\|Daorn]]. Además, Daora tuvo dos hijos de un matrimonio anterior, [[Lukel\|Lukel]] y [[Adien\|Adien]], con los que Kiin ejerce de padre.
-
-## Notas del traductor
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] ·  · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+### Children
+Kiin and Daora had two children together, [[Kaise\|Kaise]] and [[Daorn\|Daorn]]. In addition, Daora had two children from a previous marriage, [[Lukel\|Lukel]] and [[Adien\|Adien]], who Kiin acts as a father towards.
 
 
 
-https://es.coppermind.net/wiki/Kiin
+https://coppermind.net/wiki/Kiin

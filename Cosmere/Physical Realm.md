@@ -1,84 +1,82 @@
-
-
-|**Reino Físico**|
+|**Physical Realm**|
 |-|-|
-|**Relacionado con**|[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-El **Reino Físico** es el reino de la existencia en el [[Cosmere\|Cosmere]] que contiene lo que se puede percibir con los sentidos físicos. De los tres [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]] es el que más entendemos.
-El Cosmere es un pequeño cúmulo de estrellas en una galaxia enana.
-Este artículo lista todos los cuerpos celestes que conocemos del Cosmere tal y como aparecen en el Reino Físico, incluyendo planetas, estrellas y lunas.
+The **Physical Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains what is perceivable to the physical senses. Of the three [[Realmatic Theory\|Realms]], it is the most readily understood.
+The cosmere is a small star cluster within a dwarf galaxy.
+This article lists all the known celestial bodies in the cosmere as they appear in the Physical Realm, including planets, stars and moons.
 
-## Sumario
+## Contents
 
-1 El sistema de Sel. [[#El sistema de Sel]] 
+1 The Selish System. [[#The Selish System]] 
 
 1. [[#Donne]] 
 1. [[#Sel]] 
 
-1. [[#Lunas]] 
+1. [[#Moons]] 
 
 
 
 
-2 El sistema de Scadrial. [[#El sistema de Scadrial]] 
+2 The Scadrian System. [[#The Scadrian System]] 
 
 2. [[#Scadrial]] 
 
 
-3 El sistema de Taldain. [[#El sistema de Taldain]] 
+3 The Taldain System. [[#The Taldain System]] 
 
 3. [[#Taldain]] 
 3. [[#AisDa]] 
-3. [[#El Ojo de Ridos]] 
+3. [[#The Eye of Ridos]] 
 
 
-4 El sistema de Treno. [[#El sistema de Treno]] 
+4 The Threnodite System. [[#The Threnodite System]] 
 
-4. [[#Treno]] 
-
-
-5 El sistema de Drominad. [[#El sistema de Drominad]] 
-
-5. [[#Primero del Sol]] 
-
-5. [[#Lunas 2]] 
+4. [[#Threnody]] 
 
 
+5 The Drominad System. [[#The Drominad System]] 
+
+5. [[#First of the Sun]] 
+
+5. [[#Moons 2]] 
 
 
-6 El sistema de Roshar. [[#El sistema de Roshar]] 
+
+
+6 The Rosharan System. [[#The Rosharan System]] 
 
 6. [[#Ashyn]] 
 6. [[#Roshar]] 
 
-6. [[#Lunas 3]] 
+6. [[#Moons 3]] 
 
 
 6. [[#Braize]] 
 
 
-7 El sistema de Nalthis. [[#El sistema de Nalthis]] 
+7 The Nalthian System. [[#The Nalthian System]] 
 
 7. [[#Nalthis]] 
 
-7. [[#Lunas 4]] 
+7. [[#Moons 4]] 
 
 
 
 
-8 El sistema UTol. [[#El sistema UTol]] 
+8 The UTol System. [[#The UTol System]] 
 
 8. [[#UTol]] 
 8. [[#Komashi]] 
 
 
-9 Otros Planetas. [[#Otros Planetas]] 
+9 Other Planets. [[#Other Planets]] 
 
 9. [[#Bjendal]] 
-9. [[#C.C3.A1ntico]] 
+9. [[#Canticle]] 
 9. [[#Lumar]] 
 9. [[#Mythos]] 
 9. [[#Obrodai]] 
@@ -86,173 +84,163 @@ Este artículo lista todos los cuerpos celestes que conocemos del Cosmere tal y 
 9. [[#Yolen]] 
 
 
-10 Estrellas y Constelaciones. [[#Estrellas y Constelaciones]] 
+10 Stars and Constellations. [[#Stars and Constellations]] 
 
-10. [[#Cintur.C3.B3n de Estrellas]] 
-10. [[#La Cicatriz de Taln]] 
-10. [[#La L.C3.A1grima]] 
+10. [[#Starbelt]] 
+10. [[#Taln.27s Scar]] 
+10. [[#The Tear]] 
 10. [[#Mashe]] 
 
 
-11 Notas. [[#Notas]] 
+11 Notes. [[#Notes]] 
 
 
-## El sistema de Sel
+## The Selish System
 
-El sistema de Sel orbita a una estrella amarilla llamada [[Mashe\|Mashe]]. Hay cinco planetas en este sistema; dos dentro de la zona habitable, dos gigantes gaseosos llamados Ky y Ralen y finalmente un planeta enano sin nombrar.
+The Selish system orbits a yellow star named [[Mashe\|Mashe]]. There are five planets in this system: two within the habitable zone, then two gas giants named Ky and Ralen, and finally an unnamed dwarf planet.
 
 ### Donne
-Donne es el planeta más cercano al sol. Aunque está en la región habitable, es árido y sufre terribles tormentas de arena.
+Donne is the closest planet to the sun. While it is in a habitable region, it is barren and suffers from terrible dust storms.
 
 ### Sel
 
-Es el segundo planeta desde el sol. Sel es un planeta como la Tierra, habitado por humanos y seres artificiales llamados [[Seon\|seones]] y [[Skaze\|skaze]]. El planeta es la localización de *[[Elantris (libro)\|Elantris]]*. Sel es dominado por el [[Imperio Fjordell\|Imperio Fjordell]], con [[Arelon\|Arelon]] y [[Teod\|Teod]] siendo las únicas naciones libres restantes. Todas estas naciones (excepto Teod que está ubicado en el continente al norte) están situadas en el continente de Opelon (llamado Sycla por el Imperio Fjordell).
+The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire).
 
-#### Lunas
-Sel tiene una única luna llamada Oem.
+#### Moons
+Sel has a single moon named Oem.
 
-## El sistema de Scadrial
+## The Scadrian System
 
-El sistema de Scadrial tiene un sol amarillo y cinco planetas; Scadrial dentro de la zona habitable; dos gigantes gaseosos, llamados Aerogal Nod y Aerogal Uch, y finalmente dos planetas enanos sin nombre.
+The Scadrian system has a yellow sun. It has five planets: Scadrial within the system's habitable zone; two gas giants, named Aagal Nod and Aagal Uch; and finally two unnamed dwarf planets.
 
 ### Scadrial
 
-El planeta fue creado por las Esquirlas [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]]. La órbita del planeta ha sido cambiada por personas usando [[Investidura\|Investidura]]. Su tamaño y gravedad son las estándares del Cosmere.
+The planet was created by the Shards [[Ruin\|Ruin]] and [[Preservation\|Preservation]]. The orbit of the planet has been changed by people using [[Investiture\|Investiture]]. Its size and gravitation are 1.0 cosmere standard.
 
-## El sistema de Taldain
+## The Taldain System
 
-El sistema de Taldain es un sistema binario. Las dos estrellas son unas débiles enanas blancas rodeadas por un particular anillo y una supergigante blanquiazul.
+The Taldain system is a binary system. The two stars in it are a weak white dwarf star surrounded by a particulate ring and a blue-white supergiant.
 
 ### Taldain
 
-Taldain es un planeta marealmente cerrado. Es el único planeta del sistema. Se mantiene en una órbita inestable alrededor de AisDa por la atracción gravitatoria de Ridos, y por alguna otra fuerza desconocida, presumiblemente Autonomía. Esta órbita astronómicamente inestable se conoce como "la Silla de Montar del Osotejón".
-Está orbitada por una única luna conocida como **Nizh Da'**.
+Taldain is a tidally locked planet. It is the only planet in this system. It is kept in an unstable orbit around AisDa by the gravitational pull of Ridos, and by some other, unknown force, presumably Autonomy. This astronomically unstable orbit is known as "Wombear's Saddle".
+It is orbited by a single moon known as **Nizh Da**.
 
 ### AisDa
-**AisDa** es una estrella supergigante azul-blanca que ilumina el Lado Diurno de Taldain.
+**AisDa** is a blue-white supergiant star which lights the Dayside of Taldain.
 
-### El Ojo de Ridos
-El **Ojo de Ridos** es una débil estrella enana blanca rodeada por un anillo de partículas. Es la principal fuente de luz y radiación del Lado Oscuro. 
-Cada siete días, envía un pulso de Investidura que Inviste a los [[Tallado por las estrellas\|tallados por las estrellas]].
+### The Eye of Ridos
+The **Eye of Ridos** is a weak white dwarf star surrounded by a particulate ring. It is the primary source of light and radiation for Darkside.
+Every seven days, it sends out a pulse of Investiture which Invests the [[Starcarved\|Starcarved]].
 
-## El sistema de Treno
+## The Threnodite System
 
-Este sistema planetario tiene cuatro planetas. En la zona habitable se encuentran tres de ellos, llamados Monodia, Elegía y Treno. Elegía tiene una única luna llamada Coronach. Más allá de la zona habitable se encuentra un único gigante gaseoso llamado Pureza.
+This planetary system has four planets. The habitable zone has three planets named Monody, Elegy, and Threnody. Elegy has a single moon named Coronach. Beyond the habitable zone is a single gas giant named Purity.
 
-### Treno
+### Threnody
 
-Treno, el tercer planeta del sistema de Treno, es un mundo esquirlado menor, que contiene los [[Bosques del infierno\|bosques del infierno]]. Es donde transcurren los hechos de la historia *[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*. Tiene muchas características similares a la Tierra, como bosques montañas y océanos. La plata parece ser un recurso bastante común en el planeta, pero a causa de su importancia para sobrevivir, sigue siendo finita y valiosa. No tiene lunas.
+Threnody, the third planet in the Threnodite system, contains the [[Forests of Hell\|Forests of Hell]]. It is the setting for the story [[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]. It has many features that are similar to Earth, including forests, mountains and oceans. Silver seems to be a fairly common resource on the planet, but because of its importance to survival, it is still finite and valuable. It has no moon.
 
-## El sistema de Drominad
+## The Drominad System
 
-El sistema drominad tiene siete planetas. Hay cuatro planetas en la zona habitable, tres de los cuales han desarrollado sociedades humanas. Un cinturón de asteroides se encuentra justo después de estos planetas. Los tres planetas restantes son gigantes gaseosos. Todos estos planetas están nombrados en referencia a su posición respecto al sol (Primero del Sol, Segundo del Sol, etc.).
+The Drominad system has seven planets. There are four planets in the habitable zone, three of which have developed human societies. An asteroid belt lies just beyond these planets. Then there are three gas giants. All these planets are named for their position from the sun (First of the Sun, Second of the Sun, etc.).
 
-### Primero del Sol
+### First of the Sun
 
-Primero del Sol es un mundo menor en el que se encuentran principalmente un gran océano y un sistema de islas. No tiene Esquirlas residiendo.
+First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence.
 
-#### Lunas
-Primero del Sol tiene una única luna llamada Primero del Primero.
+#### Moons
+First of the Sun has a single moon named First of the First.
 
-## El sistema de Roshar
+## The Rosharan System
 
-El sistema de Roshar es un sistema planetario que contiene trece planetas. Algunos tienen vida, inteligente o no, y otros están yermos. Hay tres planetas en la región habitable y diez gigantes gaseosos. Los gigantes gaseosos son nombrados de acuerdo a la numeración Vorin.
+Greater Roshar is a planetary system containing thirteen planets. Some have life, sentient and not, others are barren. There are three planets in the habitable region and ten gas giants. The gas giants are named after Vorin numerals.
 
 ### Ashyn
 
-Ashyn es un mundo esquirlado menor que tiene vida inteligente. Es el planeta más cercano al sol del sistema.
-El libro *[[The Silence Divine\|The Silence Divine]]* sucede aquí. El sistema mágico tiene que ver con gente que gana poderes mágicos de enfermedades.
-Ashyn es mayormente yermo, con un par de lugares fértiles. Actualmente no hay ninguna [[Esquirla\|Esquirla]].
+Ashyn is the first planet from the system's sun. It has sentient life.
+The book [[The Silence Divine\|The Silence Divine]] is set here. The magic system involves people who gain magical powers from diseases.
+Ashyn is mostly barren, with a few fertile patches. It currently has no [[Shard\|shard]].
 
 ### Roshar
 
-Roshar es el segundo planeta desde el sol en el sistema roshariano. Su gravedad es 0.7 de la de la Tierra, un año son 500 días, donde cada año coincide con 1.1 años terrestres. El planeta consiste en un supercontinente.
+Roshar is the second planet from the Rosharan system's sun. It has a gravity of 0.7, a year 500 days long, with each year being 1.1 earth years. The planet consists of one large super continent.
 
-#### Lunas
-Roshar tiene tres lunas. La primera luna es Salas. Es violeta y es la menor de las tres. La luna mediana es Nomon, que es brillante y de color azul pálido. La última luna es Mishim, que es pequeña y verde.
+#### Moons
+Roshar has three moons. The first moon is Salas. It is violet, and is the smallest moon. The middle moon is Nomon, which is a bright, pale blue. And the final moon is Mishim, which is small and green.
 
 ### Braize
 
-Braize es el tercer planeta desde el sol. [[Odium\|Odium]] está asentado en Braize, aunque aún sigue afectando a [[Roshar\|Roshar]]. Es poco probable que Braize tenga un libro dedicado, pero algunas escenas de *[[El archivo de las tormentas\|El archivo de las tormentas]]* ocurrirán en Braize.
-Braize es conocido por la gente [[Vorin\|Vorin]] como [[Condenaci%C3%B3n\|Condenación]].
+Braize is the third planet from the sun. [[Odium\|Odium]] settled on Braize, although he is still affecting [[Roshar\|Roshar]]. Braize is unlikely to get its own books, but scenes from [[The Stormlight Archive\|The Stormlight Archive]] will be set on Braize.
+Braize is known to the [[Vorin\|Vorin]] people as [[Damnation\|Damnation]].
 
-## El sistema de Nalthis
+## The Nalthian System
 
-El sistema de Nalthis orbita alrededor de una estrella amarilla. Hay tres planetas en el sistema: [[Nalthis\|Nalthis]], el gigante gaseoso *Guardianlejano el Brillante*, y el planeta enano *Estrellanocturna el oculto*. Mucho más lejos de la estrella hay un cinturón de cometas. También se encuentra una anomalía [[Reino Cognitivo\|cognitiva]] en el órbita de Nalthis.
+The Nalthian System orbits a yellow star. There are three planets in the system: [[Nalthis\|Nalthis]], the gas giant Farkeeper the Bright, and the dwarf planet Nightstar the Hidden. Much farther from the star, there is a comet belt. There is also a [[Cognitive Realm\|Cognitive]] Anomaly in Nalthis' orbit.
 
 ### Nalthis
 
-En Nalthis, [[T'Telir\|T'Telir]] es la capital de [[Hallandren\|Hallandren]] y su estado montañoso límitrofe de [[Idris\|Idris]]. Las junglas están situadas en un gran valle rodeado por montañas y un mar.
+On Nalthis, [[T'Telir\|T'Telir]] is the capital city of [[Hallandren\|Hallandren]] and its bordering mountain state of [[Idris\|Idris]]. The jungles are situated in a large valley surrounded by mountains and a sea.
 
-#### Lunas
-Una única luna llamada Rrendos orbita el planeta.
+#### Moons
+A single moon named Rrendos orbits the planet.
 
-## El sistema UTol
+## The UTol System
 
-El sistema UTol orbita alrededor de una estrella de color rojo-anaranjado. Hay dos planetas en el sistema: [[UTol\|UTol]], y [[Komashi\|Komashi]]. Están en órbita dual con la estrella. La [[Estaci%C3%B3n de paso Hierro Siete\|estación de paso Hierro Siete]] se encuentra en las proximidades del sistema.
+The UTol System orbits a red-orange star. There are two planets in the system: [[UTol\|UTol]], and [[Komashi\|Komashi]]. They are in dual orbit with the star. The [[Iron Seven Waystation\|Iron Seven Waystation]] is in the vicinity of the system.
 
 ### UTol
 
-UTol es uno de los dos únicos planetas conocidos habitados por [[Sho del\|sho del]], además de [[Yolen\|Yolen]]. Está cubierto principalmente por océanos con masas de tierra relativamente pequeñas.
+UTol is one of the only two known planets that are known to inhabited by [[Sho Del\|Sho Del]], alongside [[Yolen\|Yolen]]. It is covered primarily by oceans with relatively small land masses.
 
 ### Komashi
 
-Komashi es un planeta habitado por humanos y [[Haijo\|haijo]]. La humanidad ha poblado muy poco del planeta, siendo las dos naciones más grandes de sólo cincuenta millas rosharianas.
+Komashi is a planet that's inhabited by humans and [[Hijo\|hijo]]. Humanity has inhabited very little of the planet, with the two largest nations being only fifty Rosharan-miles across.
 
-## Otros Planetas
+## Other Planets
 ### Bjendal
 
-Poco se sabe de Bjendal, y nada se conoce de sus gentes, ni de las [[Esquirla\|Esquirlas]] que puedan encontrarse allí. Sí contiene una perpendicularidad.
+Little is known of Bjendal, and nothing is known of its peoples, or any [[Shard\|Shards]] that may be located there. It does contain a perpendicularity.
 
-### Cántico
+### Canticle
 
-Cántico es un planeta muy pequeño, estimado en sólo 322 km de diámetro, pero con una gravedad dentro de los rangos que cabría esperar para planetas mayores, causada por su núcleo de hierro altamente Investido. La superficie es bombardeada cada día por una intensa luz solar capaz de derretir la tierra.
+Canticle is a very small planet, estimated at only 322km in diameter, but with gravity within the ranges that would be expected for larger planets, caused by its highly Invested iron core. The surface is blasted every day by intense sunlight capable of melting the land.
 
 ### Lumar
 
-Lumar es un planeta de islas con doce lunas suspendidas en órbitas equidistantes, geoestacionarias y opresivamente cercanas a la superficie, que dejan caer [[Esporas de %C3%A9ter\|esporas de éter]]. Tiene todo un ecosistema bajo la superficie del que nada se sabe.
+Lumar is a planet of islands with twelve moons hanging in equidistant, geostationary orbits oppressively close to the surface, that drop [[Aether spores\|aether spores]]. It has a whole ecosystem beneath the surface with nothing known about it.
 
 ### Mythos
 
-No se sabe nada de Mythos, ni de sus gentes, ni de las [[Esquirla\|Esquirlas]] que puedan encontrarse allí.
+Nothing is known of Mythos, its peoples, or any [[Shard\|Shards]] that may be located there.
 
 ### Obrodai
 
-Se sabe poco de Obrodai, pero [[Autonom%C3%ADa\|Autonomía]] lo ha reclamado, manifestando un avatar allí, y advierte a [[Hoid\|Hoid]] de que no regrese.
+Little is known of Obrodai, but [[Autonomy\|Autonomy]] has claimed it, manifested an avatar there, and warned [[Hoid\|Hoid]] against returning.
 
 ### Vax
 
-No se sabe nada de Vax, de sus gentes o si alguna [[Esquirla\|Esquirla]] puede residir allí o no. Todo lo que sabemos es que la [[Investidura\|Investidura]] se manifiesta en el planeta de alguna manera.
+Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be located there. All that is certain is that it has a manifestation of [[Investiture\|Investiture]].
 
 ### Yolen
 
-Yolen es el hogar de tres especies inteligentes y fue el origen de los humanos en el Cosmere. Los dieciséis Recipientes originales son de Yolen.
+Yolen is home to three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
 
-## Estrellas y Constelaciones
+## Stars and Constellations
  
-### Cinturón de Estrellas
-El [[Cintur%C3%B3n de Estrellas\|Cinturón de Estrellas]] es un cúmulo galáctico inusualmente brillante de estrellas en el cielo de [[Treno\|Treno]]. Es útil para orientarse en el [[Bosques del infierno\|Bosque del Infierno]] durante la noche; la luz normalmente se filtra a través de los árboles con bastante facilidad.
-Este mismo conjunto brillante de estrellas es visible desde [[Scadrial\|Scadrial]]. También es visible desde otros planetas del Cosmere.
+### Starbelt
+The [[Starbelt\|Starbelt]] is an unusually bright patch of stars in the sky of [[Threnody\|Threnody]]. It is useful for navigation in the [[Forests of Hell\|Forests of Hell]] during the night; the light usually filtered through the trees fairly well.
+The Starbelt is the same patch of unusually bright stars that is visible from [[Scadrial\|Scadrial]]. It is visible from other worlds in the cosmere as well.
 
-### La Cicatriz de Taln
-La [[Cicatriz de Taln\|Cicatriz de Taln]] es una gran franja de estrellas rojas que destacan de las blancas.
+### Taln's Scar
+[[Taln's Scar\|Taln's Scar]] is a great swath of red stars that stand out against the white ones.
 
-### La Lágrima
-La [[L%C3%A1grima\|Lágrima]] es una estrella particularmente brillante en el cielo roshariano. Su nombre viene de la única lágrima derramada por [[Reya\|Reya]] en la mitología roshariana.
+### The Tear
+The [[Tear\|Tear]] is a particularly bright star in the Rosharan sky. It's name comes from the single tear shed by [[Reya\|Reya]] in Rosharan Mythology.
 
 ### Mashe
-[[Mashe\|Mashe]] es la estrella alrededor de la cual orbitan [[Sel\|Sel]] y algunos otros planetas.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|****|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+[[Mashe\|Mashe]] is the star around which [[Sel\|Sel]] and several other planets orbit.
 
 
 
-https://es.coppermind.net/wiki/Physical_Realm
+https://coppermind.net/wiki/Physical_Realm

@@ -1,19 +1,17 @@
-
-
-|**[[The Dark Talent\|<]]*Bastille contra los bibliotecarios malvados***|
+|**[[The Dark Talent\|<]]*Bastille Versus the Evil Librarians***|
 |-|-|
 ||
 |**[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians (series)]]**|
-|**Anterior**|*[[The Dark Talent\|The Dark Talent]]*|
-|**Colaboradores**|[[Janci Patterson\|Janci Patterson]]|
-|**Fecha original**|September 20, 2022|
-|**Editorial**||
+|**Follows**|*[[The Dark Talent\|The Dark Talent]]*|
+|**Collaborators**|[[Janci Patterson\|Janci Patterson]]|
+|**Released**|September 20, 2022|
+|**Publisher**||
 |**ISBN**|ISBN 978-1-2508-1106-6|
-|**Número de Páginas**|272|
+|**Page Count**|272|
 
-*** Bastille Versus the Evil Librarians*** is the sequel to *[[The Dark Talent\|The Dark Talent]]* written from [[Bastille\|Bastille]]'s point of view. Coauthored by [[Janci Patterson\|Janci Patterson]], it is the sixth and final book in the Alcatraz series and contains the true ending. [[Brandon Sanderson\|Brandon]] initially intended for readers to believe there were only five books, before revealing a secret sixth novel to actually complete the series. It was released on September 20, 2022.
+*** Bastille Versus the Evil Librarians*** is the sequel to *[[The Dark Talent\|The Dark Talent]]* written from [[Bastille\|Bastille's]] point of view. Coauthored by [[Janci Patterson\|Janci Patterson]], it is the sixth and final book in the Alcatraz series and contains the true ending. [[Brandon Sanderson\|Brandon]] initially intended for readers to believe there were only five books, before revealing a secret sixth novel to actually complete the series. It was released on September 20, 2022.
 
-## Sumario
+## Contents
 
 1 Synopsis. [[#Synopsis]] 
 2 Summary. [[#Summary]] 
@@ -31,36 +29,14 @@ I know Alcatraz is wrong when he swears he’s no hero. But when a hero falls sh
 
 
 ## Summary
-Para a chapter by chapter summary, ver .
+For a chapter by chapter summary, see [[Bastille Versus the Evil Librarians/Summary\|/Summary]].
 ## Cover Gallery
-Para a cover gallery of Bastille Versus the Evil Librarians, ver .
+For a cover gallery of Bastille Versus the Evil Librarians, see [[Bastille Versus the Evil Librarians/Covers\|/Covers]].
 ## Interior Art
-Para a gallery of the book's interior art, ver .
+For a gallery of the book's interior art, see [[Bastille Versus the Evil Librarians/Interior art\|/Interior art]].
 ## Trivia
 Brandon has also referred to it as *Alcatraz versus His Own Dumb Self*.
-The book was originally subtitled "The "; however, that was removed at some point.
-## Notes
-
-Este meta-artículo es un demasiado pequeño. Por favor, ayuda a The Coppermind .
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · |
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+The book was originally subtitled "The [[Worldspire\|Worldspire]]"; however, that was removed at some point.
 
 
-
-https://es.coppermind.net/wiki/Bastille_Versus_the_Evil_Librarians
+https://coppermind.net/wiki/Bastille_Versus_the_Evil_Librarians

@@ -1,47 +1,33 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nagadan**|
 |-|-|
-|**Mundo**|[[Komashi\|Komashi]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Nagadan** es la nación más poderosa de [[Komashi\|Komashi]], establecida por los descendientes de los nómadas de las afueras de [[Torio\|Torio]] en los siglos que siguieron a la activación de la [[M%C3%A1quina padre\|máquina padre]].
+**Nagadan** is the most powerful nation on [[Komashi\|Komashi]], established by the descendants of nomads on the outskirts of [[Torio\|Torio]] in the centuries that followed the activation of the [[Father machine\|father machine]].
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Gente. [[#Gente]] 
-3 Ciudades. [[#Ciudades]] 
-4 Notas. [[#Notas]] 
+1 Geography. [[#Geography]] 
+2 People. [[#People]] 
+3 Cities. [[#Cities]] 
+4 Notes. [[#Notes]] 
 
 
-## Geografía
-Nagadan está a menos de ochenta kilómetros rosharianos y solo a unas pocas kilómetros de donde estaba Torio. La nación incluye varias ciudades y algunos pueblos más pequeños, conectados por líneas de hion que abren caminos en la [[Mortaja\|Mortaja]]. Al menos algunas ciudades bordean océanos.
+## Geography
+Nagadan is less than fifty Rosharan miles across, and only a few miles away from where Torio was. The nation includes a few different cities as well as some smaller towns, connected by hion lines that open paths in the [[Shroud\|Shroud]]. At least some of the cities border oceans.
 
-## Gente
-Los habitantes de Nagadan tienen un aspecto similar al de los [[Jah Keved\|veden]], con rasgos parecidos y el mismo pelo oscuro, aunque tienen la piel más pálida que un veden corriente. Los "rasgos similares" mencionados se refieren probablemente a la presencia de pliegues epicánticos.
-Rara vez se ven barbas entre sus gentes, aunque no está claro si esto es puramente cultural o tiene un componente genético.
-Descienden de los nómadas que vivían en los alrededores de [[Torio\|Torio]].
+## People
+The people of Nagadan look similar to the [[Jah Keved\|Veden]] people, with similar features and the same dark hair, though they have paler skin than an ordinary Veden. The "similar features" mentioned likely refer to the presence of epicanthic folds.
+Beards are rarely seen amongst their people, though it is unclear if this is purely cultural or has a genetic component.
+They are descended from nomads that lived at the edge of [[Torio\|Torio]].
 
-## Ciudades
+## Cities
 [[Kilahito\|Kilahito]]
 [[Futinoro\|Futinoro]]
 [[Fuhima\|Fuhima]]
 [[Jito\|Jito]]
-## Notas
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
 
 
-
-
-
-https://es.coppermind.net/wiki/Nagadan
+https://coppermind.net/wiki/Nagadan

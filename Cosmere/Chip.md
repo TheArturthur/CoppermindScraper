@@ -1,11 +1,11 @@
-**Chip** puede hacer referencia:
+**Chip** may refer to:
 
-[[Chip Erikell\|Chip Erikell]], un acusado de delitos de[[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]
-[[Chip (alguacil)\|Chip (alguacil)]], un [[Lanzamonedas\|lanzamonedas]] que trabaja para [[Claude Aradel\|Claude Aradel]] en Elendel en Scadrial
-[[Chip (cazador)\|Chip (cazador)]], un hombre de Scadrial supuestamente conocido por [[Wayne\|Wayne]]
-La denominación más pequeña de divisa en [[Roshar\|Roshar]], véase [[Esferas\|esferas]]
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+[[Chip Erikell\|Chip Erikell]], an accused criminal from [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]
+[[Chip (constable)\|Chip (constable)]], a [[Coinshot\|Coinshot]] who works for [[Claude Aradel\|Claude Aradel]] in Elendel on Scadrial
+[[Chip (hunter)\|Chip (hunter)]], a man from Scadrial supposedly known to [[Wayne\|Wayne]]
+the smallest denomination of currency on [[Roshar\|Roshar]], see [[Spheres\|Spheres]]
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
 
 
 
-https://es.coppermind.net/wiki/Chip
+https://coppermind.net/wiki/Chip

@@ -1,36 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lokmlen**|
 |-|-|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[De Kerzta\|de Kerzta]]|
-|**Nacionalidad**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Kerztian\|Kerztian]]|
+|**Nationality**|[[Daysider\|Daysider]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Lokmlen** es un criminal [[Kerztiano\|kerztiano]] que trabaja para [[Sharezan\|Sharezan]] en [[Kezare\|Kezare]], en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
+**Lokmlen** is a [[Kerztian\|Kerztian]] criminal working for [[Sharezan\|Sharezan]] in [[Kezare\|Kezare]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 
-## Apariencia y personalidad
-Es de piel morena, calvo y tiene una cicatriz en forma de cruz kerztiana en la frente y sobre los ojos. Lleva perilla y un pendiente de aro en la oreja izquierda. Lleva un [[Zinkall\|zinkall]] y una espada. Es un kerztiano devoto y ruidoso, y pertenece al sacerdote guerrero [[DaiKeen\|DaiKeen]].
+## Appearance and Personality
+He is brown-skinned, bald, and has a Kerztian cross scar on his forehead and over his eyes. He wears a goatee and a hoop earring in his left ear. He carries a [[Zinkall\|zinkall]] and a sword. He is a devout and vocal Kerztian and belongs to the warrior-priest [[DaiKeen\|DaiKeen]].
 
-## Historia
-Lokmlen fue perseguido por [[Ais\|Ais]] a través del mercado portuario de Kezare tras escapar de la escena de una redada de [[Trackt\|trackts]] en la que mató a tres de ellos. Cuando Ais le atrapa, le exige saber dónde está [[Sharezan\|Sharezan]] y para quién trabaja. Durante la lucha se burla de ella insultándola y acusándola de ser una traidora a su pueblo. Al final, Lokmlen la domina y está a punto de matarla, cuando [[Aarik\|Aarik]] interrumpe y desafía a Lokmlen. Aarik se enfrenta a él antes de pisotearle el pie, lo que da a Ais la oportunidad de ponerle su zinkall en la cabeza y arrestarle. Más tarde, en el lugar de la redada, los trackt encuentran atrapado tras un armario a [[Torkel\|Torkel]], que había desaparecido un año antes en un supuesto accidente de barco. Durante su estancia en prisión, [[Tain\|Tain]] le dice a Ais que Lokmlen ha cedido, y está hablando y dando información a los trackts. No está claro si esto era realmente cierto, o si Tain, es decir, Sharezan, simplemente estaba proporcionando a Ais mala información en nombre de Lokmlen. En algún momento es liberado de su encarcelamiento, presumiblemente por Tain, y se reincorpora a la banda. Siguiendo las órdenes de Sharezan, coloca una bomba incendiaria en el orfanato en el que creció Ais, y luego va al lugar donde Sharezan tendió una trampa a Ais.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+Lokmlen was chased by [[Ais\|Ais]] through the portside market of Kezare after escaping the scene of a [[Trackt\|Trackt]] raid where he killed three trackts. When Ais catches him she demands to know where [[Sharezan\|Sharezan]] is and who they are working for. During the fight he taunts her calling her names and accusing her of being a traitor to her people. In the end Lokmlen overpowers her and is about to kill her, when [[Aarik\|Aarik]] interrupts and challenges Lokmlen. Aarik then outmatches him before stomping on his foot, giving Ais an opening to put her zinkall to his head and arrest him. Later, at the scene of the raid, the trackts find [[Torkel\|Torkel]] trapped behind a cupboard, who had gone missing a year before in a presumed boating accident. During his stay in prison [[Tain\|Tain]] tells Ais that Lokmlen has given in, and is talking and giving the trackts information. It is unclear if this was actually true, or if Tain, i.e. Sharezan, was simply feeding Ais bad information in Lokmlen's name. At some point he is freed him from his imprisonment, presumably by Tain, and rejoins the gang. At Sharezan's orders, he plants a firebomb in the orphanage Ais grew up in, and then goes to the location of Sharezan's trap for Ais.
 
 
 
-https://es.coppermind.net/wiki/Lokmlen
+https://coppermind.net/wiki/Lokmlen

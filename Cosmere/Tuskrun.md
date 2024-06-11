@@ -1,26 +1,13 @@
-
-
 |**Tuskrun**|
 |-|-|
-|**Tipo**|Animal|
-|**Mundo de origen**|[[Primero del Sol\|Primero del Sol]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Animal|
+|**World of Origin**|[[First of the Sun\|First of the Sun]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **tuskrun** es una especie depredadora de [[Primero del Sol\|Primero del Sol]].
-Son nativos de las islas del [[Pante%C3%B3n\|Panteón]], incluida [[Patji (isla)\|Patji]]. Los tuskrun son casi del tamaño de los humanos y cazan en manada, principalmente durante el día. Siguen patrones de movimiento predecibles, a menos que se sientan atraídos por el florecimiento de uno de los dedos de Patji. Es posible que sean omnívoros, ya que hacen montículos mientras hurgan en el suelo.
-El trampero [[Primero del Cielo\|Primero del Cielo]] fue asesinado por una manada de tuskrun en Patji que había sido atraída por los [[Dedo de Patji\|dedos de Patji]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 01:35, 18 de febrero de 2018 (MST)
-|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
-|-|-|
-|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
-|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[Continente\|Continente]]|
-|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
-|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
+**Tuskrun** is a predatory species on [[First of the Sun\|First of the Sun]].
+They are native to the isles of the [[Pantheon\|Pantheon]], including [[Patji (island)\|Patji]]. Tuskrun are nearly the size of humans and hunt in packs, primarily during the day. They follow predictable movement patterns unless they are attracted by the blooming of one of Patji's Fingers. It is possible that they are omnivorous, as tuskrun make mounds while rooting around in the ground.
+The trapper [[First of the Sky\|First of the Sky]] was killed by a tuskrun pack on Patji that had been attracted by [[Patji's Finger\|Patji's Fingers]].
 
 
 
-https://es.coppermind.net/wiki/Tuskrun
+https://coppermind.net/wiki/Tuskrun

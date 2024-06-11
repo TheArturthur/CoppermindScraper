@@ -1,46 +1,24 @@
-
-
-|**Pozos de Hathsin**|
+|**Pits of Hathsin**|
 |-|-|
 ||
-|**Relacionado con**|[[Ruina\|Ruina]]|
-|**Uso**|Produce [[Atium\|atium]], Transición Realmática|
-|**Región**|Dominio Central|
-|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Ruin\|Ruin]]|
+|**Use**|Produce [[Atium\|atium]], Realmatic Transition|
+|**Region**|Central Dominance|
+|**World**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **Pozos de Hathsin** son un sistema de cavernas cercanas a [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]], que fue explotado durante el [[Imperio Final\|Imperio Final]]. Aquí es donde crecen las geodas de [[Atium\|atium]].
+The **Pits of Hathsin** are a system of caves near [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]] at the time of the [[Final Empire\|Final Empire]] in which [[Atium\|atium]] geodes grow.
 
-## Geografía
-Para los habitantes del [[Imperio Final\|Imperio Final]], los Pozos son tan solo un campo de trabajos forzados para [[Skaa\|skaa]] letal, puesto en marcha por el [[Lord Legislador\|lord Legislador]]. Sin embargo, también son, en realidad, el lugar donde se producen cristales de [[Atium\|atium]]. Los Pozos cumplen un doble propósito: servir como castigo para los criminales [[Skaa\|skaa]] y ocultar el emplazamiento de las minas de atium, ya que los prisioneros nunca logran escapar de ellos. Durante los acontecimientos del Imperio Final, los Pozos de Hathsin son el único lugar conocido donde se puede extraer atium. Los presos skaa son obligados a descender por asfixiantes y estrechas grietas hasta poder adentrarse en nichos revestidos de cristal para encontrar las geodas que contienen atium. Cada skaa debe encontrar una geoda de atium cada semana; si no lo consiguen, serán brutalmente golpeados hasta morir.
-Los Pozos son también la localización de una [[Perpendicularidad de Ruina\|Perpendicularidad]]. Más concretamente, constituyen la forma líquida de [[Ruina\|Ruina]], así como el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] constituye la de [[Conservaci%C3%B3n\|Conservación]]. Los Pozos de Hathsin fueron empleados por los [[Saltamundos\|saltamundos]] para el comercio interplanetario, hecho que [[Rashek\|Rashek]] conocía.
+## Geography
+The Pits are known to the people of the [[Final Empire\|Final Empire]] only as a deadly [[Skaa\|skaa]] labor camp the [[Lord Ruler\|Lord Ruler]] set up, but it actually also produces [[Atium\|atium]] crystals. It serves the dual purpose of punishing [[Skaa\|skaa]] criminals and concealing the location of the atium mines, as the prisoners cannot leave. During the events of the Final Empire, the Pits of Hathsin are the only known place where atium can be mined. Imprisoned skaa are required to climb down a suffocatingly narrow gorge and reach into crystal-lined niches to find the geodes that contain the atium. Each skaa has to find an atium geode every week; if they fail, they are savagely beaten to death.
+The Pits are also the location of a [[Ruin's Perpendicularity\|Perpendicularity]] that is the liquid form of [[Ruin\|Ruin]], as the [[Well of Ascension\|Well of Ascension]] is to [[Preservation\|Preservation]]. The Pits of Hathsin were used for interplanetary trade by [[Worldhoppers\|worldhoppers]], which [[Rashek\|Rashek]] was aware of.
 
-## Historia
-[[Kelsier\|Kelsier]] es la primera persona conocida en sobrevivir al encarcelamiento en los Pozos. Este hito le otorgará el título de «El Superviviente de Hathsin». Es condenado a trabajar allí junto con su esposa [[Mare\|Mare]], como castigo por intentar infiltrarse y robar en el palacio del lord Legislador, [[Kredik Shaw\|Kredik Shaw]]. Tras la muerte de Mare en los Pozos, Kelsier [[Romper\|Rompe]] y escapa utilizando sus recién adquiridas habilidades como [[/wiki/Alom%C3%A1ntico#Nacido de la bruma]].
-Algunos días previos a la caída del [[Imperio Final\|Imperio Final]], Kelsier regresa a los Pozos. Allí, libera a los presos skaa que están esclavizados y destruye, empleando la alomancia, la mayoría de los cristales productores de atium de Hathsin. Su hierro es suficiente para detectar el atium contenido en los cristales y, al tirar de ellos, estos terminan haciéndose añicos por fuerza cinética. Después de esto, Kelsier señala que sus acciones, probablemente, hayan terminado con la producción de atium en el Imperio Final durante los próximos trescientos años, ya que los cristales necesitan tiempo para volver a crecer antes de que el atium pueda extraerse de nuevo.
-Tras el Colapso del Imperio Final y el fin de la extracción de atium, los Pozos se convierten en el nuevo hogar del pueblo de Terris. Esto se debe a que la infraestructura del antiguo campamento minero cuenta con edificios, refugios y, lo más importante, agua potable junto con cultivos agrícolas de plantas resistentes, adaptadas a la ceniza y con pocas necesidades hídricas. Una vez asentados, la gente de Terris mejora el valle, construyendo más estructuras, limpiando la ceniza del follaje para proporcionar pasto a los rebaños de ovejas (adaptadas con patas más cortas) que deambulan por las colinas, recuperando así su tradición de pastoreo, que se remonta a tiempos previos a la Ascensión del lord Legislador. La vida de los terrisanos se vuelve más cómoda que la de la mayoría de los habitantes de Scadrial, pues viven en aldeas campestres que reemplazan a los antiguos e inhumanos campos de prisioneros.
-Después de la [[Ascensi%C3%B3n Final\|Ascensión Final]], el atium ya no se forma dentro de los cristales de los Pozos; este puede que vuelva a crecer o no en un futuro. En la época de Wax, el atium no se está regenerando. Sin embargo, es posible que Armonía esté haciendo algo para reducir el poder de Ruina y equilibrar, de esa manera, el poder extra que Conservación Invistió en la humanidad.En esta época, los Pozos también se conocen a veces como la **Cuna del Supervivientes** por su papel en el Romper de Kelsier.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] ·  · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+[[Kelsier\|Kelsier]] is the first known person to survive imprisonment in the Pits. This feat gains him the title, "The Survivor of Hathsin". He is forced into labor there along with his wife [[Mare\|Mare]] as punishment for attempting to infiltrate and rob the Lord Ruler's palace, [[Kredik Shaw\|Kredik Shaw]]. After Mare dies in the Pits, Kelsier [[Snap\|Snaps]] and escapes using his newfound abilities as a [[/wiki/Allomancer#Mistborn]].
+Several days before the fall of the [[Final Empire\|Final Empire]], Kelsier returns to the Pits. There, he sets free the enslaved skaa prisoners and proceeds to destroy the majority of Hathsin's atium-producing crystals using allomancy. His iron is enough to detect trace amounts of atium in the crystals, and Pulling on them shatters the crystals with kinetic force. Afterwards, he remarks that his actions will likely end atium production in the Final Empire for the next three hundred years, as the crystals will need time to regrow before any more atium can be mined.
+After the Collapse of the Final Empire and the end of the atium mining, the Pits in the Central Dominance become the new home of the Terris people, as the remaining infrastructure from the old mining camp have buildings, shelters, and most importantly, fresh water along with farm crops of resilient hardy plants adapted to ash that need little water. Once settled, the Terris people improve the valley, building more structures, brushing ash from the plant foliage to provide grazing for the adapted short-legged sheep that roamed the hills, and returning to their heritage of herding, before the Lord Ruler's Ascension. The Terris people's lives become easier than most on Scadrial, living in pastoral villages that replace the once brutal prison camps.
+After the events of the [[Final Ascension\|Final Ascension]], atium is no longer formed within the crystals of the Pits; the atium may or may not regrow in the future. The atium does not grow at Wax's time. However, it is possible that Harmony is doing something to reduce Ruin's power to balance out the extra power that Preservation Invested in humankind. By this time, the Pits are also sometimes known as the **Survivor's Cradle** for its role in Kelsier's Snapping.
 
 
 
-https://es.coppermind.net/wiki/Hathsin
+https://coppermind.net/wiki/Hathsin

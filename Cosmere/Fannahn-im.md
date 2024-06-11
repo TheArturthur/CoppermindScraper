@@ -1,104 +1,102 @@
-
-
-|**Fusionado**|
+|**Fused**|
 |-|-|
 ||
-|**Tipo**|[[Sombra cognitiva\|Sombra cognitiva]]|
-|**Capacidades**|[[Potenciaci%C3%B3n\|Potenciación]]🐱︎|
-|**Racional**|Sí|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|[[Cognitive Shadow\|Cognitive Shadow]]|
+|**Abilities**|[[Surgebinding\|Surgebinding]]|
+|**Sapient**|Yes|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Son los spren de parshmenios muertos hace mucho. son sus reyes, sus ojos claros, sus valerosos soldados de mucho, muchísimo tiempo atrás. el proceso no les resulta suave. algunos de esos spren han pasado a ser meras fuerzas, bestiales, fragmentos de mentes a los que odium confirió poder. otros están más... despiertos. cada renacimiento daña más sus mentes.Renacen empleando cuerpos de parshmenios para convertirse en los fusionados.*”
-\-El Padre Tormenta[1]
+>“*They are the spren of parshmen long dead. They are their kings, their lighteyes, their valiant soldiers from long, long ago. The process is not easy on them. Some of these spren are mere forces now, animalistic, fragments of minds given power by Odium. Others are more… awake. Each rebirth further injures their minds.They are reborn using the bodies of parshmen to become the Fused.*”
+\-The Stormfather[1]
 
-Los **Fusionados** son las almas de los antiguos [[Cantor\|cantores]] que son capaces de poseer los cuerpos de cantores vivos. Son considerados una clase más alta en la sociedad que los [[Regio\|Regios]] y cantores comunes. Son [[Potenciador\|potenciadores]]; sin embargo, a diferencia de los Caballeros Radiantes, sólo hay nueve «marcas» de ellos, en lugar de diez, y cada marca tiene acceso a una sola potencia, sin que ninguna de ellas pueda acceder a la Adhesión.
+The **Fused** are the souls of ancient [[Singer\|singers]] that are able to be reborn by possessing the bodies of living singers. They are considered to be higher in singer society than [[Regal\|Regals]] and common singers. They are [[Surgebinding\|Surgebinders]]; however, unlike the Knights Radiant, there are only nine "brands" of them, rather than ten, and each brand has access to a single Surge, with none accessing Adhesion.
 
-## Sumario
+## Contents
 
-1 Naturaleza. [[#Naturaleza]] 
-2 Jerarquía. [[#Jerarqu.C3.ADa]] 
+1 Nature. [[#Nature]] 
+2 Hierarchy. [[#Hierarchy]] 
 
-2. [[#Los Nueve]] 
+2. [[#The Nine]] 
 
 
-3 Poderes. [[#Poderes]] 
-4 Marcas. [[#Marcas]] 
+3 Powers. [[#Powers]] 
+4 Brands. [[#Brands]] 
 
 4. [[#Shanay-im]] 
 4. [[#Shetel-im]] 
-4. [[#Aumentados]] 
+4. [[#Magnified Ones]] 
 4. [[#Mavset-im]] 
 4. [[#Fannahn-im]] 
 4. [[#Nex-im]] 
 4. [[#Makay-im]] 
 
 
-5 Fusionados destacados. [[#Fusionados destacados]] 
-6 Notas. [[#Notas]] 
+5 Notable Fused. [[#Notable Fused]] 
+6 Notes. [[#Notes]] 
 
 
-## Naturaleza
-Estas antiguas [[Sombra cognitiva\|sombras]] cantoras existen en un estado muy similar al de los [[Spren\|spren]], hasta que se apoderan de un cuerpo de [[Cantor\|cantor]]. Este proceso requiere que un cantor vivo se abra a vincular un nuevo spren durante una [[Alta tormenta\|alta tormenta]] o la [[Tormenta eterna\|tormenta eterna]], del mismo modo que lo haría para adoptar una nueva forma. Los Fusionados eligen entonces a uno de estos cantores dispuestos y abiertos; tras un proceso que causa un intenso dolor al anfitrión, se apoderan de su cuerpo. Los Fusionados son capaces de ejercer cierta voluntad sobre sus formas, como la persistencia de los patrones de piel o el crecimiento del caparazón en patrones individuales.
-Los Fusionados pueden ser asesinados por medios convencionales, pero pueden usar la [[Luz del vac%C3%ADo\|luz del vacío]] para curarse. Sin embargo, dañar su gema corazón con una espada esquirlada es mortal al instante. Los Fusionados pueden morir permanentemente al ser apuñalados con una daga de [[Raysio\|raysio]] conectada a una gema de [[Antiluz del vac%C3%ADo\|antiluz del vacío]], siempre que haya suficiente de esta en la gema. Si son heridos por una cantidad insuficiente de antiluz del vacío para destruirlos por completo, todavía pueden ser heridos lo suficiente como para que renazcan locos. También pueden ser asesinados permanentemente por [[Sangre Nocturna\|Sangre Nocturna]]  o quedar atrapados en gemas. Los Fusionados están generalmente atrapados en el [[Sistema roshariano\|sistema roshariano]].
-En el pasado, los Fusionados no podían renacer cuando los [[Heraldos\|Heraldos]] se quedaban en Braize para mantener el [[Juramento\|Juramento]]. Podían renacer muchas veces durante cada Desolación y volvían a quedar atrapados cuando los Heraldos regresaban a Braize. Para evitar este proceso de renacimiento, los humanos que luchaban en Desolaciones pasadas intentaron una vez apresar a los Fusionados en lugar de matarlos; esto no funcionó, ya que son capaces de sacar sus espíritus de sus cuerpos y buscar un nuevo huésped. En la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los Fusionados utilizan la [[Tormenta eterna\|tormenta eterna]] con gran ventaja. No sólo pueden utilizarla (en lugar de depender de las altas tormentas) para poseer a nuevos cantores vivos, sino que cuando mueren, pueden retornar inmediatamente durante la siguiente tormenta eterna si encuentran a un cantor vivo dispuesto a asumir la carga. Los Fusionados tienden a despertar de su tiempo entre Desolaciones en grupos.
-Debido a su naturaleza investida, los antiguos que se convierten en Fusionados no necesitan vincular un spren para alcanzar y mantener la plena sapiencia. Sin embargo, durante los siete mil años de guerra, muchos Fusionados han perdido parte o toda su cordura, al igual que los Heraldos. No pueden morir, e incluso los Fusionados dementes siguen renaciendo. El proceso de renacimiento daña sus mentes. Los que permanecen lo suficientemente cuerdos como para funcionar también se comportan de forma errática en algunos aspectos. Ejemplos de ello son [[El Perseguidor\|El Perseguidor]], que está inmensamente obsesionado con la venganza, y [[Rabeniel\|Rabeniel]], que desea acabar con la guerra sin importar el vencedor. Cada marca de Fusionado tiene sus propias particularidades.
+## Nature
+These ancient singer [[Cognitive Shadow\|shadows]] exist in a state very similar to [[Spren\|spren]], until they take over a [[Singer\|singer]] body. This process requires a living singer to open themselves up to bonding a new spren during a [[Highstorm\|highstorm]] or the [[Everstorm\|Everstorm]], in the same way as they would to adopt a new form. The Fused then chooses one of these willing, open singers; in a process that causes intense pain to the host, it then takes over the host's body. Fused are able to exert some amount of will upon their forms, such as skin patterns persisting or growing carapace in individual patterns.
+The Fused can be killed by conventional means, but they can use [[Voidlight\|Voidlight]] to heal. However, damaging their gemheart with a Shardblade is instantly fatal. The Fused can be permanently killed by being stabbed with a [[Raysium\|raysium]] dagger connected to a gem of [[Anti-Voidlight\|anti-Voidlight]], provided there is enough anti-Voidlight in the gemstone. If they are wounded by an insufficient amount of anti-Voidlight to destroy them completely, they may still be wounded sufficiently that they will be reborn mad. They can also be permanently killed by [[Nightblood\|Nightblood]]. They can also be trapped in gemstones. Fused are generally trapped in the [[Rosharan system\|Rosharan system]].
+In the past, Fused couldn't be reborn when the [[Herald\|Heralds]] stayed on Braize to uphold the [[Oathpact\|Oathpact]]. They could be reborn many times during each Desolation and were again sealed away when the Heralds returned to Braize. To avoid this process of rebirth, humans fighting in past Desolations once tried to imprison the Fused rather than kill them; this did not work, as the Fused are able to will their spirits out of their bodies and seek a new host. In the [[True Desolation\|True Desolation]], the Fused use the [[Everstorm\|Everstorm]] to great advantage. Not only can they use the Everstorm instead of a highstorm to possess new living singers, but when they do die, they can immediately Return during the next Everstorm if they can find a living singer willing to take on the burden. Fused tend to awaken from their time in-between Desolations in groups.
+Due to their Invested nature, the ancient ones that become the Fused do not need to bond a spren to attain and maintain full sapience. However, during the seven thousand years of war, many Fused have lost some or all of their sanity, much like the Heralds. They are unable to die, and even the insane Fused continue to be reborn. The rebirth process injures the minds of the Fused. Many Fused who remain sane enough to function also behave erratically in some regards. Examples of this include [[The Pursuer\|The Pursuer]], who is immensely obsessed with vengeance and [[Raboniel\|Raboniel]], who wishes to end the war regardless of the victor. Each brand of Fused has their own particularities.
 
-## Jerarquía
-Los Fusionados tienen una jerarquía política y social extremadamente compleja, aunque sus acciones se rigen generalmente por Odium. En general, sienten odio y desprecio por los humanos y sitúan a los cantores comunes por encima de ellos en cuanto a estatus. Entre los cantores comunes, los elegidos para ser elevados reciben formas de poder y se convierten en [[Regios\|Regios]]. Los Fusionados tienden a tener deferencia hacia los [[Tronador\|tronadores]] y los [[Deshecho\|Deshechos]]. Sin embargo, incluso dentro de los cantores hay delineaciones de estatus y autoridad. Hay nueve marcas de Fusionados con diferentes poderes y especialidades. Otros factores como la reputación, la historia y la capacidad también importan mucho, así como el grado de conservación de la cordura de cada uno de ellos. Muchos de los más importantes tienen una **Voz**, un cantor en [[Forma emisaria\|forma emisaria]] que representa a sus Fusionados y ayuda a gestionar sus asuntos; A las Voces se les suele conceder más respeto que a los Regios ordinarios, especialmente si los Fusionados a los que sirven son especialmente importantes.
-Ningún cantor ha sido elevado a Fusionado desde su creación inicial.
+## Hierarchy
+The Fused have an extremely complex political and social hierarchy even though their actions are generally governed by Odium. Generally, they have hatred and contempt for humans and place common singers above them in status. Among common singers, those chosen to be elevated are granted forms of power and become [[Regals\|Regals]]. The Fused tend to defer to [[Thunderclast\|thunderclasts]] and [[Unmade\|Unmade]]. However, even within the singers there are delineations of status and authority. There are nine brands of Fused with different powers and specialties. Other factors such as reputation, history, and capacity also matter a great deal, and how well individual Fused have retained their sanity. Many of the important Fused have a **Voice**, an [[Envoyform\|envoyform]] singer who represents their Fused and helps manage their affairs; Voices are generally accorded respect beyond that given to ordinary Regals, especially if the Fused they serve is particularly important.
+No singer has been elevated to a Fused since their initial creation.
 
-  Los Nueve
-### Los Nueve
-"Nueve" redirije aquí. Para el grupo conocido como Tashi y los Nueve, ver [[/wiki/Tashikk#Religi.C3.B3n]].
-La máxima autoridad entre los Fusionados son los Nueve, un consejo formado por nueve Fusionados. Estos se entierran a sí mismos en pilares de piedra en un atrio a través del moldeado de almas, y la mayoría deja su cabeza y un brazo libres. Los pilares de piedra parecen orgánicos, como si hubieran crecido como árboles, y hacen que los observadores tengan la sensación de que los Nueve son más antiguos que las piedras. Celebrarán reuniones en el atrio con los Fusionados de alto rango, que llevarán cada uno su Voz para anunciarlos antes de hablar. Escucharán los informes de campo y las propuestas de los Fusionados. Pueden aceptar opiniones de otros Fusionados pero tienen la última palabra para todo. Discuten entre ellos a través de una canción cantada a un ritmo desconocido para un Regio. La letra es incomprensible incluso para alguien en [[Forma emisaria\|forma emisaria]], debido a la influencia de Odium. [[Rabeniel\|Rabeniel]] estuvo una vez entre los Nueve y esta posición está sujeta a cambios. No se alimentan, sólo viven de la luz del vacío.
-Todavía no se sabe si Los Nueve tienen una marca de cada, como hacían los [[Oyente\|oyentes]] antes de la [[Tormenta eterna\|tormenta eterna]] con [[Los Cinco\|Los Cinco]].
+  The Nine
+### The Nine
+"Nine" redirects here. For the group known as Tashi and the Nine, see [[/wiki/Tashikk#Religion]].
+The highest authority among the Fused is the Nine, a council formed by nine Fused. The Nine entomb themselves in stone pillars in an atrium through Soulcasting, and most will leave their head and one arm free. The stone pillars appear organic, as if grown like trees, and make observers feel like the Nine are older than the stones. They hold meetings in the atrium with high-ranked Fused, who each bring their Voice, to announce them before they speak. They would hear field reports and proposals from the Fused. They can accept opinions from other Fused but have the final say for anything. They discuss among themselves through a song sung to a rhythm that is unfamiliar to a Regal. The lyrics are incomprehensible even to an [[Envoyform\|Envoyform]], due to Odium's influence. [[Raboniel\|Raboniel]] was once among the Nine and this position is subject to change. The Nine do not eat, living only on Voidlight.
+It is not yet known whether The Nine have one of each brand, as the [[Listeners\|listeners]] did prior to the [[Everstorm\|Everstorm]] with [[The Five\|The Five]].
 
-## Poderes
-  Un Fusionado con el poder de la <<Gravitaci%C3%B3n\|Gravitación>>
->“*¿Es mejor tener más capacidades o tener una sola y manejarla con pericia? Los Fusionados conocemos nuestra Potencia con una intimidad que jamás disfrutará un Radiante.*”
-\-Rabeniel a Venli[4]
+## Powers
+  A Fused with the power of <<Gravitation\|Gravitation>>
+>“*Is it better to have more abilities, or to have one ability handled expertly? We of the Fused know our Surge with an intimacy a Radiant will never know.*”
+\-Raboniel to Venli[4]
 
 
-Los Fusionados utilizan poderes de forma similar a los [[Caballeros Radiantes\|Caballeros Radiantes]], pero con algunas diferencias notables. Al igual que todos los [[Potenciaci%C3%B3n\|potenciadores]], los Fusionados obtienen sus habilidades a través de la manipulación de las fuerzas fundamentales de Roshar, las [[/wiki/Potenciaci%C3%B3n#Potencias]], aunque a diferencia de ellos, cada una de las nueve marcas de Fusionados sólo puede acceder a una única. Los Fusionados no pueden cambiar de forma (y, por tanto, de poderes). Los Fusionados no siempre tenían acceso a las potencias.
-A diferencia de los Caballeros Radiantes, que utilizan la luz tormentosa, los Fusionados se alimentan de la luz del vacío, y pueden acceder a ella llenando gemas a través de la [[Canci%C3%B3n de plegaria\|canción de plegaria]]. La luz del vacío proporciona las mismas habilidades curativas que la luz tormentosa. Sin embargo, es ineficiente en ese sentido y, dada la cantidad limitada, los Fusionados tienen cuidado de evitar las heridas. Los Fusionados pueden usar su luz del vacío para efectos pasivos y activos; por ejemplo, los Celestiales pueden volar sin gastar luz del vacío, y enlazar a otras personas o cosas gastando luz del vacío. También son capaces de mantener la luz del vacío indefinidamente. Los Fusionados tienen menos Investidura que un Caballero Radiante de Cuarto Ideal.
+The Fused use powers in ways similar to the [[Knights Radiant\|Knights Radiant]], but with a few notable differences. Like all [[Surgebinding\|Surgebinders]], the Fused gain their abilities through manipulation of Roshar's fundamental forces, the [[/wiki/Surgebinding#Surges]], although unlike them, each one of the nine brands of Fused can only access a single Surge. A specific Fused cannot change forms (and thus, powers). The Fused did not always have access to the Surges.
+Unlike the Knights Radiant, who use Stormlight, Fused are powered by Voidlight, and are able to access it by filling gemstones via the [[Song of Prayer\|Song of Prayer]]. Voidlight provides the same healing abilities as Stormlight. However, it is inefficient in that regard and, given the limited amount, the Fused are careful to avoid injury. Fused can use their Voidlight for passive and active effects; for example, Heavenly Ones can fly without expending Voidlight, and Lash other people and things by expending Voidlight. They are also able to hold Voidlight indefinitely. Fused have less Investiture than a Fourth Ideal Knight Radiant.
 
-## Marcas
-Para imágenes de los Fusionados, ver [[Fusionado/Galer%C3%ADa\|/Galería]].
-Hay nueve marcas de Fusionados, cada una de las cuales posee acceso a una sola potencia. Ninguna marca tiene acceso a la [[Adhesi%C3%B3n\|potencia de Adhesión]]. Aún se desconocen las marcas que tienen acceso a las potencias de [[Divisi%C3%B3n\|División]] y [[Tensi%C3%B3n\|Tensión]].
+## Brands
+For images of the Fused, see [[Fused/Gallery\|/Gallery]].
+There are nine Brands of Fused, each possessing access to a single Surge. No brand has access to the [[/wiki/Surge#Adhesion]]. The Brands who have access to the Surges of [[/wiki/Surge#Division]] and [[/wiki/Surge#Tension]] are as yet unknown.
 
 ### Shanay-im
-Para más información, ver [[Shanay-im\|Shanay-im]].
-Los *shanay-im*, o Celestiales, son Fusionados que pueden manipular la [[Gravitaci%C3%B3n\|Potencia de Gravitación]]. Estos pueden manipular su propia gravedad sin gastar luz del vacío, pero deben usarla para curarse a sí mismos o para enlazar cosas que no sean ellos mismos. Estas habilidades son similares al enlace básico utilizado por la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]] y la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]]. A menudo se ve a los *Shanay-im* manipulando el vector de gravitación tanto de ellos mismos como de otros cuerpos y objetos, lo que da lugar a habilidades como el vuelo, la reducción de peso y el lanzamiento de sus enemigos por los aires. Los Fusionados aceleran más lentamente que los Radiantes cuando utilizan la Gravitación. Esto se debe a que gastan menos energía y no tiene que ver con la gravedad de [[Braize\|Braize]]. En un lapso grande, los Fusionados irán más rápido que los Radiantes. Los Fusionados sólo pueden enlazarse una vez. Son capaces de viajar por el espacio, pero no llegarán lejos, ya que necesitarían una gran cantidad de luz del vacío para curarse debido a la falta de aire y presión.
-Los *Shanay-im* suelen llevar túnicas extremadamente largas, que se extienden detrás de ellos varios metros. Utilizan largas lanzas adecuadas para el combate aéreo, con un revestimiento de [[Aluminio\|aluminio]] para bloquear las hojas esquirladas. Las lanzas también incorporan raysio para drenar la luz tormentosa de los Radiantes.
-Cuando luchan contra los Corredores del Viento, tienen la honorable tradición de batirse en duelo uno a uno. Levantan sus armas hacia aquellos contra quienes desean combatir, y se enfrentan con el consentimiento de los Corredores del Viento. El resto de sus miembros flotan alrededor y no interfieren en el duelo. Los Corredores del Viento siguen la tradición, ya que son menos numerosos y esto evita que se les acorrale. Esta tradición no se extiende a los soldados normales.
+For more information, see [[Shanay-im\|Shanay-im]].
+The *shanay-im*, or Heavenly Ones, are Fused who can manipulate the [[/wiki/Surge#Gravitation]]. Fused of this brand can manipulate their own gravity without expending Voidlight, but must use it to heal themselves or to Lash things other than themselves. These abilities are similar to the Basic Lashing used by the [[Order of Windrunners\|Windrunners]] and [[Order of Skybreakers\|Skybreaker]]. *Shanay-im* are often seen manipulating the gravitation vector of both themselves and other bodies and objects, resulting in abilities such as flight, reduced weight, and sending their enemies flying off into the air. The Fused accelerate more slowly than Radiants when using Gravitation. This is due to them expending less energy and does not have to do with the gravity of [[Braize\|Braize]]. Over a large span, Fused will go faster than Radiants. Fused can only Lash themselves once. These Fused are able to enter space, but cannot travel far, since they would require a large amount of Voidlight to heal due to the lack of air and pressure.
+The *Shanay-im* usually wear extremely long robes, trailing behind them several feet. They utilize long lances suited for aerial combat, with [[Aluminum\|aluminum]] coating to block Shardblades. The lances also incorporate raysium to drain Stormlight from Radiants.
+When fighting Windrunners, they hold an honorable tradition of one-to-one dueling. They raise their weapons to those they wish to duel, and engage upon consent from the Windrunners. The rest of their members float about and do not interfere with the duel. The Windrunners play along with the tradition, as the Windrunners have a smaller number and this prevents them from being ganged up on. This tradition does not extend to normal soldiers.
 
 ### Shetel-im
-Los *shetel-im*, o Fluyentes, son Fusionados que controlan la [[Abrasi%C3%B3n\|Potencia de Abrasión]]. Esto les da la capacidad de cambiar la fuerza de fricción entre objetos y cuerpos, de forma similar a la [[Orden de los Danzantes del Filo\|Orden de los Danzantes del Filo]]. Uno de los *shetel-im* participó en el intento de robar la [[L%C3%A1grima del Rey\|Lágrima del Rey]] se la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]].
+The *shetel-im*, or Flowing Ones, are Fused who control the [[/wiki/Surge#Abrasion]]. This gives them the ability to change the force of friction between objects and bodies, similar to [[Order of Edgedancers\|Edgedancers]]. One of the *shetel-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
 
-### Aumentados
-Los Aumentados son Fusionados que interactúan con la [[Progresi%C3%B3n\|Potencia de la Progresión]]. Pueden hacer crecer su caparazón con extrema rapidez y con formas específicas, lo que les permite crear herramientas y armas a partir de su caparazón. Esto también posibilita la creación de una armadura de caparazón adicional alrededor de puntos específicos de su cuerpo. Se encuentran entre los Fusionados más grandes y voluminosos.
-Son la única marca de Fusionados sin alias conocido en el [[Canto del alba\|canto del alba]] terminado en -im.
+### Magnified Ones
+The Magnified Ones are Fused who interact with the [[/wiki/Surge#Progression]]. They can grow their carapace extremely rapidly and in specific shapes, allowing them to create tools and weapons out of their carapace. This also allows for the creation of extra carapace armor around specific points of their body. They are among the largest and bulkiest of Fused brands.
+They are the only known Fused Brand without a known alias in the [[Dawnchant\|Dawnchant]] ending in -im.
 
 ### Mavset-im
-Los *mavset-im*, o Aquellos de las Máscaras, son Fusionados que interactúan con la [[Iluminaci%C3%B3n\|Potencia de la Iluminación]]. Sus habilidades parecen imitar la capacidad de la [[Orden de los Tejedores de Luz\|Orden de los Tejedores de Luz]] de cambiar su propia apariencia creando ilusiones. Uno de los *mavset-im* participó en el intento de robar la [[L%C3%A1grima del Rey\|Lágrima del Rey]] de la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]].
-Incluso otros Fusionados desconfían de los *mavset-im*.
+The *mavset-im*, or Masked Ones, are Fused who interact with the [[/wiki/Surge#Illumination]]. Their abilities appear to mimic the [[Order of Lightweavers\|Lightweavers]] ability to change their own appearance by creating illusions. One of the *mavset-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
+Even other Fused are wary of the *mavset-im*.
 
 ### Fannahn-im
-Los *fannahn-im*, o Aquellos de la Alteración, son Fusionados que interactúan con la [[Transformaci%C3%B3n\|Potencia de la Transformación]]. Esto les otorga habilidades similares a las del [[Moldear almas\|moldeado de almas]], y son capaces de realizar transformaciones como convertir una espada en polvo o exhalar un compuesto tóxico. Incluso pueden ser capaces de utilizar su Potencia para corromper o deshacer spren, aunque esa habilidad puede haber sido exclusiva de [[Rabeniel\|Rabeniel]]. Los Alterados son considerados grandes constructores entre los Fusionados, responsables de la remodelación del palacio de Kholinar tras su captura por los cantores. Son altos incluso entre los Fusionados, alcanzando una altura de dos metros y medio, y sólo tienen mechones de pelo en la parte superior de la cabeza, donde no hay caparazón.
+The *fannahn-im*, or Those Ones of Alteration, are Fused who interact with the [[/wiki/Surge#Transformation]]. This grants them abilities similar to [[Soulcasting\|Soulcasting]], and they are capable of transformations such as turning a sword to dust or breathing out a toxic compound. They may even be able to use their Surge to corrupt or unmake spren, though that ability may have been unique to [[Raboniel\|Raboniel]]. The Ones of Alteration are considered to be great builders among the Fused, responsible for the remodeling of the palace in Kholinar following its capture by the singers. These singers are tall even among the Fused, reaching heights of seven feet, with hairstrands present only on the very tops of their heads where carapace is not present.
 
-  Lezian el Perseguidor, uno de los nex-im
+  Lezian the Pursuer, one of the nex-im
 ### Nex-im
-Los *nex-im*, o Aquellos de los Cascarones, son Fusionados que controlan la [[Transportaci%C3%B3n\|Potencia de la Transportación]]. Esta Potencia les permite evacuar su cuerpo en forma de una cinta de luz roja similar a la de un spren, dejando tras de sí una cáscara hueca de caparazón que se hace polvo, y volver a crear su cuerpo en el lugar de destino. Esta cinta no puede colarse por pequeños huecos. Sólo tienen suficiente luz del vacío para realizar cuatro saltos. Por lo tanto, en la batalla, suelen utilizar los tres primeros saltos para atacar y el cuarto para escapar y reponer luz del vacío. La formación de una cuarta cáscara los dejará atrapados, incapaces de convertirse en una cinta de luz. Dos formas de matar a uno incluyen matarlos antes de que evacuen el cuerpo u obligarlos a formar un cuarto cuerpo y matarlos. Tampoco pueden llevarse nada que no forme parte de su cuerpo. Debido a esto, al menos uno de los Fusionados de esta marca, [[Lezian\|Lezian el Perseguidor]], tiene el pelo extremadamente largo para cubrir su cuerpo como si fuera ropa y utiliza los espolones de su caparazón como armas. Existen muy pocos de estos Fusionados.
+The *nex-im*, or Husked Ones, are Fused who control the [[/wiki/Surge#Transportation]]. This Surge allows them to evacuate their body as a ribbon of red light similar to a spren, leaving behind a hollow husk of carapace to crumple to dust, and recreate their body at the destination point. This ribbon cannot squeeze though small gaps. They only hold enough Voidlight to make four jumps. Thus in battle, they usually use the first three jumps for attacking and the fourth to escape and replenish Voidlight. Forming a fourth husk will leave them trapped, unable to become a ribbon of light. Two ways of killing a Husked One include killing them before they evacuate the body, or forcing them to form a fourth body and kill them. They also cannot take anything with them that is not part of their body. Because of this, at least one of the Fused of this brand, [[Lezian\|Lezian the Pursuer]], has extremely long hair to cover his body like clothing and uses his carapace spurs as weapons. Very few of these Fused exist.
 
 ### Makay-im
-Los *makay-im*, o Aquellos de las Profundidades, son los Fusionados que controlan la [[/wiki/Potencia#Cohesi.C3.B3n]]. Pueden manipular la conexión axial para atravesar objetos sólidos, aunque no pueden ver cuando lo hacen, y no pueden llevarse consigo nada que no forme parte de su cuerpo. Tienen cuerpos sinuosos y de extremidades largas, altos sin llegar a ser tan antinaturalmente voluptuosos como los Fannahn-im. Carecen de pelo y tienen un caparazón mínimo, con simples conchas sobre la cabeza y los genitales, aunque algunos tienen uñas largas y afiladas en el caparazón, adecuadas para cortar gargantas. También tienen ojos blancos lechosos que brillan en rojo por detrás.
-Del grupo que invade Urithiru, algunos caminan desnudos, mientras que otros prefieren las túnicas abiertas. Prefieren tener su propia compañía, y les gusta pasar el tiempo hundidos en la roca tanto como a los Celestiales les gusta elevarse.
+The *makay-im*, or Deepest Ones, are Fused who control the [[/wiki/Surge#Cohesion]]. They can manipulate axial connection to phase through solid objects, though they cannot see when doing so, and they cannot take anything that is not part of their body with them. They have sinuous, long-limbed bodies, tall without being as unnaturally willowy as the Fannahn-im. They are hairless and have minimal carapace, with only simple shells over their heads and genitals, although some have long, knifelike carapace fingernails suitable for slitting throats. They also have milky white eyes glowing red from behind.
+Of the group that invades Urithiru, some walk around nude, while others favor open-fronted robes. They prefer to keep their own company, and they enjoy spending their time sunken in rock as much as the Heavenly Ones like to soar.
 
-## Fusionados destacados
-Para una lista completa, ver :Categoría:Fusionados.
+## Notable Fused
+For a full list, see :Category:Fused.
 
 [[Leshwi\|Leshwi]]
 [[Hnanan\|Hnanan]]
@@ -108,28 +106,11 @@ Para una lista completa, ver :Categoría:Fusionados.
 [[Kyril\|Kyril]]
 [[Rine\|Rine]]
 [[Turash\|Turash]]
-[[Rabeniel\|Rabeniel]]
+[[Raboniel\|Raboniel]]
 [[Lezian\|Lezian]]
 [[El\|El]]
 [[Essu\|Essu]]
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**| · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Fannahn-im
+https://coppermind.net/wiki/Fannahn-im

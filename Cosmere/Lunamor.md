@@ -1,213 +1,193 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Numuhukumakiaki'aialunamor**|
 |-|-|
 ||
-|**[[Familia de Lunamor\|Familia de Lunamor]]**|
-|**Cónyuge**|[[Tuaka\|Tuaka]]|
-|**Hijos**|[[Don\|Don]], [[Cuerda\|Cuerda]], [[Roca (junior)\|Roca]], [[Estrella\|Estrella]], [[Kuma'tiki\|Kuma'tiki]], [[Canci%C3%B3n Hermosa\|Canción Hermosa]]|
-|**Parientes**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
-|**Capacidades**|[[/wiki/Caballeros Radiantes#Escuderos]] de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]], [[Vidente (Roshar)\|Vidente]]|
-|**Títulos**|Fal'ala'liki'nor|
-|**Apodos**|Lunamor, Roca|
-|**Oficio**|Chef|
-|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
-|**Residencia**|[[Picos Comecuernos\|Los Picos Comecuernos]]|
-|**Nacionalidad**|[[Unkalaki\|Unkalaki]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**[[Lunamor's family\|Lunamor's family]]**|
+|**Spouse**|[[Tuaka\|Tuaka]]|
+|**Children**|[[Gift\|Gift]], [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]]|
+|**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
+|**Abilities**|[[/wiki/Knights Radiant#Squires]] for [[Order of Windrunners\|Order of Windrunners]], [[Sighted\|Sighted]]|
+|**Titles**|Fal'ala'liki'nor|
+|**Aliases**|Lunamor, Rock|
+|**Profession**|Chef|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
+|**Residence**|[[Horneater Peaks\|The Horneater Peaks]]|
+|**Nationality**|[[Unkalaki\|Unkalaki]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-"Roca" redirige aquí. Para el lugar en Lumar, ver [[Punta de Diggen\|Punta de Diggen]].
->“*Llaneros majaras por el aire.*”
-\-Roca[2]
+"Rock" redirects here. For the location on Lumar, see [[Diggen's Point\|Diggen's Point]].
+>“*Airsick lowlanders.*”
+\-Rock[2]
 
 
-**Numuhukumakiaki'aialunamor'**, abreviado como **Lunamor** o simplemente **Roca**, es un [[Unkalaki\|unkalaki]] de [[Roshar\|Roshar]]. Era el cuarto hijo de su familia y recibió entrenamiento para el combate según las costumbres de los unkalaki; sin embargo, uno de sus hermanos murió, lo que le convirtió en el tercer hijo y en un artesano en lugar de un guerrero. Se llama a sí mismo Roca porque no cree que los demás puedan pronunciar su verdadero nombre, que en realidad es un poema sobre una roca muy especial que su padre descubrió el día antes de su nacimiento. El poema se traduce más o menos así: "Vi una piedra mojada muy bonita a la que nadie presta atención, pero que era muy guay por el patrón de agua que había en ella".
+**Numuhukumakiaki'aialunamor**, shortened to **Lunamor** or simply **Rock**, is an [[Unkalaki\|Unkalaki]] on [[Roshar\|Roshar]]. He was the fourth born son in his family and received combat training per Unkalaki customs; however, one of his brothers died, making him the third son and a craftsman instead of a warrior. He calls himself Rock because he doesn't believe others can pronounce his real name, which is actually a poem about a very special rock his father discovered the day before Rock's birth. The poem roughly translates to "I saw a beautiful wet stone that no one is paying attention to, but it was really cool because of the water pattern on it".
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Vida temprana]] 
-3. [[#Las Llanuras Quebradas]] 
+3. [[#Early Life]] 
+3. [[#The Shattered Plains]] 
 
-3. [[#Desaf.C3.ADo por esquirladas]] 
-3. [[#Inicios del Puente Cuatro]] 
-3. [[#Maniobra de carga lateral]] 
-3. [[#Entrenamiento para escapar]] 
-3. [[#La Batalla de la Torre]] 
-3. [[#Ej.C3.A9rcito de Dalinar]] 
-3. [[#La batalla de Narak]] 
+3. [[#Challenge for Shards]] 
+3. [[#Early Bridge Four]] 
+3. [[#Side Carry Maneuver]] 
+3. [[#Training For Escape]] 
+3. [[#The Battle at The Tower]] 
+3. [[#Dalinar.27s Army]] 
+3. [[#The Battle of Narak]] 
 
 
 3. [[#Urithiru]] 
 
-3. [[#Convirti.C3.A9ndose en escudero Corredor del Viento]] 
-3. [[#Reuni.C3.B3n con la familia]] 
-3. [[#M.C3.A1s entrenamiento y una hoja de Honor]] 
-3. [[#La batalla de la Explanada Thayle.C3.B1a]] 
+3. [[#Becoming a Windrunner Squire]] 
+3. [[#Reunion With Family]] 
+3. [[#Further Training and Honorblade]] 
+3. [[#The Battle of Thaylen Field]] 
 
 
-3. [[#Un a.C3.B1o despu.C3.A9s]] 
+3. [[#A Year Later]] 
 
-3. [[#Piedralar]] 
-3. [[#Partida]] 
-
-
-
-
-4 Relaciones. [[#Relaciones]] 
-
-4. [[#Familia]] 
-
-4. [[#Familia biol.C3.B3gica]] 
-4. [[#Mujer e hijos]] 
+3. [[#Hearthstone]] 
+3. [[#Departure]] 
 
 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+4 Relationships. [[#Relationships]] 
+
+4. [[#Family]] 
+
+4. [[#Birth Family]] 
+4. [[#Wife and Children]] 
 
 
-## Apariencia y personalidad
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
  
-Para más imágenes, ver [[Lunamor/Galer%C3%ADa\|/Galería]].
-Roca es un hombre corpulento, de casi dos metros de altura, con extremidades gruesas y un torso poderoso. Es unos centímetros más alto que [[Kaladin\|Kaladin]] y casi el doble de ancho.
-Tiene la piel morena y el pelo rojo oscuro. Cuando puede afeitarse, se deja las patillas largas y rojidoradas, pero se afeita la barbilla y el labio. También lleva el pelo muy corto y rapado desde encima de las cejas hasta el centro de la cabeza.
-Al igual que todos los del [[Puente Cuatro\|Puente Cuatro]], Roca lleva tatuado en la frente un conjunto de glifos que significan su libertad y su pertenencia a la cuadrilla de los puentes.
+For more images, see [[Lunamor/Gallery\|/Gallery]].
+Rock is a large, well-built man standing at nearly seven feet tall with thick limbs and a powerful torso. He is a few inches taller than [[Kaladin\|Kaladin]] and nearly twice as broad.
+He has tan skin and deep red hair. When he can shave, he leaves long, red-blond sideburns, but shaves his chin and lip. He also keeps his hair cropped close, and shaved entirely from directly above his eyebrows up the center of his head.
+The same as all of [[Bridge Four\|Bridge Four]], Rock has a set of glyphs tattooed on his forehead, signifying his freedom and membership to the bridge crew.
 
->“*Rlain, no pasa nada por tirar cosas a Eth.*”
-\-Roca a Rlain[11]
-
-
-Roca es abiertamente sentimental, siendo a menudo tan rápido para reír como para mostrar tristeza. Es muy comprensivo, y varios miembros del [[Puente Cuatro\|Puente Cuatro]] le piden consejo. Es muy leal a aquellos que le han mostrado confianza y amabilidad, siendo uno de los primeros en seguir a Kaladin después de que este ocupara su lugar durante una carrera de los puentes. Su amor y confianza por sus allegados fue suficiente para que fuera en contra de su posición como tercer hijo y cometiera actos violentos si lo consideraba necesario, matando a [[Amaram\|Amaram]] para salvar a Kaladin, incluso sabiendo que sería castigado por ello.
-Se enorgullece de sus habilidades culinarias y se niega a permitir que nadie modifique su guiso para el Puente Cuatro. Es extremadamente respetuoso con los spren, para deleite de [[Syl\|Syl]] y enfado de Kaladin.
-
-## Atributos y habilidades
-Puede ver [[Spren\|spren]], o *mafah'liki* en la lengua unkalaki, en el Reino Físico incluso cuando no quieren mostrarse ante él. Los comecuernos llaman a las personas con esta habilidad *[[Vidente (Roshar)\|alaii'iku]]'*. Se da a entender que hay otras personas como él. Roca ha dado informes contradictorios sobre el origen de su bendición, diciendo que nació con ella pero también que [[Perpendicularidad de Cultivaci%C3%B3n\|las aguas de la vida]] están implicadas en que tenga esta habilidad. Además, puede percibir ligeramente la forma de los [[Spren\|spren]] en el Reino Cognitivo, como cuando percibe el aspecto mayor de los expectaspren en Shadesmar.
-Su condición de *alaii'iku* no le otorga una posición privilegiada dentro de la cultura unkalaki, ya que Roca aún está ligado a su nuatoma, y no le impidió tener que hacer el trabajo de un cuarto hijo, y más tarde el de un tercer hijo. Es bastante hábil en el tiro con arco debido a su posición de cuarto hijo, aunque ya no se considera un soldado desde la muerte de su hermano. Se niega a luchar porque ser soldado no se considera una profesión en buena estima en la cultura unkalaki.
-
->“*Coger todo lo que haya por ahí y meter en cacerola. No dejar que ningún tarado por el aire toque los condimentos.*”
-\-Receta de guiso de Roca.[17]
+>“*Rlain, is okay to throw things at Eth.*”
+\-Rock to Rlain[12]
 
 
-Roca es un cocinero excepcional, habiendo mostrado siempre interés por la cocina incluso antes de su elevación a tercer hijo, haciendo pan con su madre en cuanto podía alcanzar las encimeras. Cocina guiso todos los días para el Puente Cuatro como parte de los esfuerzos de Kaladin por devolver la vida a la cuadrilla. Es capaz de preparar bebidas comecuernos, haciendo [[Shiki\|shiki]] para el Puente Cuatro. Es capaz de comer varios alimentos más duros debido a su herencia comecuernos, poseyendo piezas extra en la mandíbula que le permiten comer conchas. De hecho, Roca cree que la mejor parte de un chull es su cabeza, porque es muy sabrosa.
-Roca es increíblemente fuerte, incluso teniendo en cuenta su corpulencia, ya que era capaz de usar un arco esquirlado con destreza sin llevar [[Armadura esquirlada\|armadura esquirlada]]. Se dice que estos arcos tenían un peso tan grande que sólo los hombres con armadura esquirlada podían usarlos. Su hija menciona que, en el pasado, los spren "fortalecían su brazo cuando tensaba el Arco de las Horas en los Picos", lo que puede proporcionar una explicación; no está claro qué spren eran los responsables de ello.
-Roca también puede escuchar un débil ritmo con el que cantaba su madre, una habilidad que recuerda a los [[Ritmo\|Ritmos]] de los [[Cantor\|cantores]] pero con una relación desconocida. También se desconoce si esto es consecuencia de que sea *alaii'iku*.
-Junto con [[Lopen\|Lopen]] y [[Huio\|Huio]] es uno de los únicos miembros del Puente Cuatro que sabe nadar.
+Rock is very outwardly emotional, often being as quick to laugh as he is to show sadness. He is very supportive, with various members of [[Bridge Four\|Bridge Four]] speaking to him for advice. He is very loyal to those who have shown him trust and kindness, being one of the first to follow Kaladin after he takes his place during a bridge run. His love and trust for those close to him was enough for him to go against his position and commit violent acts if he sees it as necessary, killing [[Amaram\|Amaram]] to save Kaladin, even knowing he would be punished for it.
+He expresses great pride at his abilities to cook, refusing to allow anyone to alter his stew for Bridge Four. He is extremely respectful to spren, to [[Syl\|Syl's]] delight and Kaladin's annoyance.
 
-## Historia
-### Vida temprana
-Roca nació en los [[Picos Comecuernos\|Picos Comecuernos]] como cuarto hijo de su familia. Se formó en el combate tanto con la lanza como con el arco. Expresó una temprana afinidad por la cocina, uniéndose a su madre en la fabricación de pan desde una edad temprana. Roca conoció a su futura esposa [[Tuaka\|Tuaka]] de niño, donde construyeron juntos fuertes de nieve, aunque Roca cree que los de ella siempre fueron los mejores. Antes de que Roca partiera hacia [[Alezkar\|Alezkar]] y las [[Llanuras Quebradas\|Llanuras Quebradas]], se casaron y tuvieron seis hijos.
-En algún momento murió uno de sus hermanos mayores, lo que le elevó a tercer hijo y le permitió seguir su pasión como artesano, con especial atención a la cocina.
+## Attributes and Abilities
+He can see [[Spren\|spren]], or *mafah’liki* in the Unkalaki tongue, in the Physical Realm even when they do not want to appear to him. Horneaters call people with this ability *[[Sighted\|alaii’iku]]*. It is implied there are other people like him. Rock has given conflicting reports on the origin of his blessing, saying that he was born with it but also that [[Cultivation's Perpendicularity\|the waters of life]] are involved with him having this ability. In addition, he can slightly perceive the form of [[Spren\|spren]] in the Cognitive Realm, as when he perceives the larger aspect of anticipationspren in Shadesmar.
+His *alaii’iku* condition doesn't grant him a privileged position within Unkalaki culture, as Rock is still bound to his duty towards his nuatoma, and it didn't prevent him from having to do the work of a fourth son, and later that of a third son. He is quite proficient in archery due to his birth status as a fourth son, though he no longer considers himself a soldier since the death of his brother. He refuses to fight because being a soldier is not considered an esteemed profession in Unkalaki culture.
 
-### Las Llanuras Quebradas
-#### Desafío por esquirladas
-Viajó a las [[Llanuras Quebradas\|Llanuras Quebradas]] con [[Kef'ha\|Kef'ha]], su *[[Nuatoma\|nuatoma]]'*, con la esperanza de conseguir una [[Armadura esquirlada\|armadura]] y [[Hoja esquirlada\|hoja esquirlada]] para su pueblo. Kef'ha desafió a [[Torol Sadeas\|Torol Sadeas]] a un duelo porque creía que sería más fácil conseguir primero la armadura y luego intentar conseguir una espada. Después de que Sadeas ganara y matara a Kef'ha, Roca y su séquito se convirtieron en siervos de Sadeas.
-Sadeas utilizaba a Roca como cocinero. Este le preparó una comida en la que puso estiercol de [[Chull\|chull]] en la sopa y el pan, lo utilizó como guarnición del filete de cerdo e hizo un chutney con él para los garams con mantequilla porque estaba enfadado por la muerte de Kef'ha. Luego fue enviado a las [[Cuadrilla del puente\|cuadrillas de los puentes]] y posteriormente se convirtió en miembro del [[Puente Cuatro\|Puente Cuatro]].
+>“*Take everything you have, and put him in pot. Don't let anyone airsick touch seasonings.*”
+\-Rock's stew recipe[18]
 
-  Roca el cocinero
-#### Inicios del Puente Cuatro
-Roca se unió a la cuadrilla de los puentes a principios de 1173 y pasó allí varios meses antes de que [[Kaladin\|Kaladin]] fuera nombrado su nuevo jefe de puente. A la mañana siguiente, cuando Kaladin afirmó que el Puente Cuatro nunca perdería a otro hombre, Roca se rió de él y se negó a practicar llevando el puente. Roca apostó unos chips con los otros hombres de los puentes a que Kaladin llevaba una tabla ligera para practicar y se sorprendió cuando se demostró que estaba equivocado. Más tarde, ese mismo día, en una carrera del puente, Kaladin ocupó el lugar de Roca en el punto de muerte del puente durante la aproximación final. Roca se sorprendió por la decisión de Kaladin, pero aceptó. Una vez colocado el puente, Roca se refugió tras una formación rocosa. Cuando Kaladin se esforzó por salvar a un [[Dabbid\|Dabbid]] herido, Roca lo siguió y lo llevó él mismo de vuelta al refugio. Él y Teft salieron de nuevo para salvar también a un [[Leyten\|Leyten]] malherido. Después de que Kaladin los hubiera atendido, Roca advirtió a Kaladin que los hombres de los puentes heridos que no pudieran caminar debían ser dejados atrás y que Gaz no les permitiría salvar a Leyten y Dabbid.
-Más tarde ofreció parte de su comida para alimentar a los heridos y ayudó a Kaladin y Teft a recoger [[Matopomo\|savia de matopomo]], utilizando su capacidad de ver a [[Syl\|Syl]] para encontrar rápidamente más tallos que recoger. Syl engañó a Roca llevándolo a un montón de estiércol de chulls durante este ejercicio, que él no entendió debido a su reverencia por los spren. Vendieron parte de la savia de matopomo que recogieron, a cambio de vendas y un marcocielo por botella. Ese mismo día, el Puente Cuatro fue asignado a [[/wiki/Guerra de la Venganza#Servicio en los abismos]], donde Roca ayudó a entablar relación con los demás miembros de la cuadrilla del puente y consiguió introducir a Dunny en la conversación, tras descubrir que sabía cantar. Con la ayuda de Syl, Roca y Dunny descubrieron más cuerpos en las cavernas, siendo estos los de los parshendi. Descubrieron que sus armaduras formaban parte de sus cuerpos. Esa noche, Roca y Kaladin compraron un caldero y comida con el dinero que ganaron, y Roca cocinó un guiso del que participaron todos los miembros de la cuadrilla del puente. Después de esto, la mayoría de los hombres de los puentes empezaron a formar con Kaladin.
 
-#### Maniobra de carga lateral
-Roca y Teft ayudaron a influir en los últimos miembros de la cuadrilla de los puentes para que cayeran bajo el liderazgo de Kaladin. Se unieron para hacer ejercicios de cuando Kaladin estaba en el ejército, antes de practicar el transporte de los puentes como entrenamiento de fuerza. Kaladin sugirió llevar el puente de lado como forma de entrenar más músculos y Roca participó intentando la maniobra. El Puente Cuatro ganó un nuevo miembro con [[Lopen\|Lopen]], un herdaziano manco. Junto a Dabbid, llevaba una camilla con varias cantimploras de agua para que la cuadrilla del puente las usara en carrera. Con ellos tres se inició la sección no combativa de la cuadrilla. Inmediatamente después de que Lopen se hubiera incorporado, el Puente Cuatro fue enviado al siguiente asalto a la meseta, llegando después de que los parshendi estuvieran completamente instalados. Kaladin ordenó a la cuadrilla que intentara la maniobra de carga lateral, que consiguió que el Puente Cuatro no perdiera ninguna vida, lo que hizo que Roca lo celebrara. Sin embargo, la maniobra minó los otros puentes que asaltaban la meseta y provocó la retirada del ejército de Sadeas. Roca se adelantó para defender a Kaladin de los ojos claros que venían a detenerlo, pero le ordenaron que se retirara y permitiera que siguiera adelante. Roca vio como Kaladin era golpeado.
-Syl llevó a Roca, Teft y Moash al exterior del barracón para que vieran a Kaladin una vez que hubo recobrado el conocimiento. Fue testigo de cómo Kaladin les decía que sobreviviría, y que comprobaran cómo estaba su cuerpo después de que la [[Alta tormenta\|alta tormenta]] hubiera pasado. Roca fue el primero en salir de los barracones para ver a Kaladin, inicialmente consternado por encontrarlo aparentemente muerto antes de expresar su alegría de que hubiera sobrevivido. Roca llamó a otros miembros de la cuadrilla para que le ayudaran a bajar a Kaladin y llevarlo dentro.
-Mientras Kaladin se recuperaba de ser colgado en una alta tormenta, Roca fue nombrado líder del Puente Cuatro. Sin embargo, la cuadrilla se limitó a llamar a Roca jefe de escuadrón y a Kaladin su capitán. El día en que Kaladin salió por primera vez al exterior tras curarse, Roca declaró que Kaladin debía tener huesos de granito para haber sobrevivido a la alta tormenta y haberse curado en sólo diez días. Ese mismo día, el Puente Cuatro salió a correr por la meseta, sin bajas. Esa noche, para agradecerle su cocina, el Puente Cuatro le compró una navaja, lo que hizo que a Roca se le saltaran las lágrimas. Se lo agradeció mucho, y empezó a afeitar las barbas de todos los miembros del Puente Cuatro.
+Rock is an exceptional cook, having always shown an interest in cooking even before his elevation to third son, making bread with his mother as soon as he could reach the countertops. He cooks stew every day for Bridge Four as part of Kaladin's efforts to bring life back to the crew. He is capable of preparing Horneater drinks, making [[Shiki\|Shiki]] for Bridge Four. He is able to eat various harder foods due to his Horneater heritage, possessing extra jaw pieces that allow him to eat shells. In fact, Rock believes the best part of a chull is its head because it is so tasty.
+Rock is incredibly strong even considering his large and powerful frame, as he was able to use a Shardbow with proficiency without wearing [[Shardplate\|Shardplate]]. These bows are described as having draw weights so huge that only men in Shardplate could use them. His daughter mentions that in the past, spren "strengthened his arm when he drew the Bow of Hours in the Peaks," which may provide an explanation; it is unclear which spren were responsible for this.
+Rock can also listen to a faint beat his mother used to sing to, an ability reminiscent of [[Singer\|singer]] [[Rhythm\|Rhythms]] but of unknown relation. It is also unknown if this is a consequence of him being *alaii’iku*.
+Along with [[Lopen\|Lopen]] and [[Huio\|Huio]] he is one of the only members of Bridge Four that can swim.
 
-#### Entrenamiento para escapar
-Tras la recuperación de Kaladin, el Puente Cuatro fue asignado al servicio de abismo de forma permanente. Roca interrogó a Kaladin sobre sus próximos pasos en la lucha, pero Kaladin lo rechazó, afirmando que la lucha había terminado. Tras la persuasión de Teft y Syl, Kaladin informó a la cuadrilla del puente de que su única posibilidad de sobrevivir era escapar. Roca fue el único miembro de la cuadrilla de los puentes que rechazó el entrenamiento con lanzas, y se convirtió en el cocinero oficial de la cuadrilla de los puentes.
-Roca sujetó a Kaladin después de que éste experimentara visiones durante una alta tormenta. Finalmente pudo afeitar a Kaladin durante la [[Alta tormenta\|alta tormenta]] y le reveló que [[Sigzil\|Sigzil]] era un [[Cantamundos\|cantamundos]]. El Puente Cuatro ganó otro nuevo miembro, un [[Parshmenio\|parshmenio]] llamado [[Shen\|Shen]]. Durante la siguiente tarea en el abismo, Kaladin llevó a Roca aparte, donde le explicó por qué no lucharía junto a los demás miembros de la cuadrilla. Roca llevó entonces a Lopen, Dabbid y Shen a recoger objetos salvables mientras los demás miembros formaban con la lanza. Roca señaló que no podían hacer el trabajo de toda una cuadrilla del puente, así que Kaladin pidió a Syl que se revelara ante ellos para ayudarles a localizar objetos.
-Roca estuvo presente cuando Dunny murió en una carrera, y ayudó a salvar a miembros heridos de otras cuadrillas de los puentes.
-Roca participó en el primer asalto conjunto a la meseta entre [[Dalinar\|Dalinar]] y Sadeas. Después de que la batalla transcurriera rápida y satisfactoriamente, el Puente Cuatro fue enviado de vuelta al servicio del abismo, donde encontraron un [[Esferas\|broam de esmeralda]], así como varias esferas menores por valor de doscientos días de paga de un hombre del puente, sobre el cadáver de un oficial ojos claros. Roca demostró su destreza con el arco al fijar la bolsa de esferas menores a la parte inferior de un puente, para recogerlas en el siguiente recorrido por la meseta. Insistió en que dispararía a los puentes, pero que nunca usaría el arma en batalla.
-Roca continuó formando a los hombres de los puentes en el ejercicio de llevar puentes cuando Kaladin estaba aprendiendo sobre los [[Caballeros Radiantes\|Caballeros Radiantes]] a través de Teft. 
+## History
+### Early Life
+Rock was born in the [[Horneater Peaks\|Horneater Peaks]] as the fourth son of his family. He was trained in combat with both the spear and bow. He expressed an early affinity for cooking, joining his mother in making bread from a young age. Rock met his future wife [[Tuaka\|Tuaka]] as a child where they built snow forts together, although Rock believes hers were always the best. Prior to Rock's departure to [[Alethkar\|Alethkar]] and the [[Shattered Plains\|Shattered Plains]], they married and had six children.
+At some point one of his elder brothers died, elevating him to third son and allowing him to follow his passion as a craftsmen, with specific regards to cooking.
 
-#### La Batalla de la Torre
-Roca estuvo presente en el asalto a la [[Torre (Roshar)\|Torre]], cuando todos los miembros del Puente Cuatro llevaban la armadura de caparazón fabricada por [[Leyten\|Leyten]] para servir de distracción adicional a los parshendi. Fue testigo de la traición de Sadeas a Dalinar y acordó con Kaladin volver para salvar a los hombres de Dalinar después de que Kaladin fuera persuadido por Syl. Fue testigo de cómo Kaladin decía el [[/wiki/Orden de los Corredores del Viento#El Segundo Ideal]] de los Caballeros Radiantes y explotaba con luz tormentosa, para posteriormente salvar a Adolin y Dalinar de los parshendi. Ayudó a llevar el puente que escoltaba a los restos del ejército de Dalinar de vuelta a los campamentos de guerra, donde Dalinar ofreció su hoja esquirlada [[Juramentada (hoja esquirlada)\||Juramentada]] a cambio de las vidas de todos los hombres de los puentes de Sadeas.
-Roca cocinó un guiso nocturno para el Puente Cuatro tras los sucesos de la [[Batalla de la Torre\|Batalla de la Torre]], y se unió a la conversación con Kaladin sobre sus habilidades y lo que significaban para el equipo en el futuro. La cuadrilla de los puentes decidió empezar a hacer experimentos para probar los límites de los poderes de Kaladin.
+### The Shattered Plains
+#### Challenge for Shards
+He traveled to the [[Shattered Plains\|Shattered Plains]] with [[Kef'ha\|Kef'ha]], his *[[Nuatoma\|nuatoma]]*, in the hopes of gaining [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblade]] for his people. Kef'ha challenged [[Torol Sadeas\|Torol Sadeas]] to a duel because he believed it would be easier to first gain the Shardplate, then try for a Shardblade. After Sadeas won and killed Kef'ha, Rock and his entourage became servants to Sadeas.
+Sadeas used Rock as a cook. Rock prepared one meal for him in which he put [[Chull\|chull]] dung in the soup and the bread, used it as a garnish on the pork steak, and made a chutney out of it for the buttered garams because he was angry about Kef'ha's death. He was then sent to the [[Bridge crew\|bridge crews]] and subsequently became a member of [[Bridge Four\|Bridge Four]].
 
-#### Ejército de Dalinar
-  Tatuajes del Puente Cuatro
-Durante la primera alta tormenta tras ser liberado, Roca afeitó a todos los hombres con la navaja que le habían comprado. Kaladin lo nombró oficialmente teniente y se convirtió en el intendente del Puente Cuatro, con Lopen como segundo. Roca se unió al resto para hacerse un tatuaje en la frente a pesar de no tener una marca de esclavo que cubrir, y recibió el mismo glifo de libertad + Puente Cuatro que el resto de la cuadrilla. Roca también obtuvo un antiguo uniforme de la [[Guardia de Cobalto\|Guardia de Cobalto]] como miembro del Puente Cuatro convirtiéndose en la nueva guardia personal de Dalinar. Sin embargo, se les pidió el glifo del Puente Cuatro para el parche del hombro para distinguirlos de los miembros originales de la Guardia de Cobalto.
+  Rock the cook
+#### Early Bridge Four
+Rock joined the bridge crews in early 1173 and spent several months there before [[Kaladin\|Kaladin]] was appointed his new bridgeleader. The next morning when Kaladin claimed that Bridge Four would never lose another man, Rock laughed at Kaladin and refused to practice carrying the bridge. Rock bet the other bridgemen a few chips that Kaladin was carrying a lightweight board to practice and was surprised when he was proven wrong. Later that day on a bridge run, Kaladin took Rock's place at the deathpoint of the bridge during the final approach. Rock was surprised by Kaladin's decision, but accepted. After the bridge was placed, Rock took shelter behind a rock formation. When Kaladin struggled to save an injured [[Dabbid\|Dabbid]], Rock followed and carried the man back to shelter himself. He and Teft went out again to save a badly wounded [[Leyten\|Leyten]] as well. After Kaladin had treated them, Rock warned Kaladin that injured bridgemen who could not walk must be left behind and that Gaz would not allow them to save Leyten and Dabbid.
+Later he offered some of his food to feed the wounded and assisted Kaladin and Teft with collecting [[Knobweed\|knobweed sap]], utilizing his ability to see [[Syl\|Syl]] to quickly find more stems to gather. Syl tricked Rock by leading him to a pile of chull dung during this exercise, which he didn't understand due to his reverence of spren. They sold some of the knobweed sap they gathered, in return for bandages and a skymark per bottle. That same day Bridge Four was assigned to [[/wiki/War of Reckoning#Chasm Duty]], where Rock helped to build rapport with the other members of the bridge crew and successfully brought Dunny into the conversation, having discovered he could sing. With the help of Syl, Rock and Dunny discovered more bodies in the caverns, being those of the Parshendi. They discovered that their armor was part of their bodies. That evening, Rock and Kaladin bought a cauldron and food with the money they gained, and Rock cooked a stew of which every member of the bridge crew partook. After this, most of the bridgemen started training with Kaladin.
 
-  La parte del glifo que significa "Puente Cuatro"
-Tras escuchar la proclama de Dalinar sobre las gemas corazón, Kaladin ordenó a Roca que empezara a formar a miembros de las otras antiguas cuadrillas de los puentes para que se convirtieran en cocineros, con el objetivo de mejorar la moral. Roca se unió a Kaladin en su primer viaje de regreso a los abismos tras haber formado parte del ejército de Dalinar. Teft había traído consigo a cuarenta miembros de otras cuadrillas del puente para formarlos como nuevos sargentos, mientras Roca, Kaladin y Syl discutían sobre los Caballeros Radiantes y los spren. Roca elogió a Syl y se ofreció a construirle un santuario, antes de informar a Kaladin de que los aprendices habían empezado a abrirse a ellos. Roca participó en la experimentación de los poderes de Kaladin, junto a Sigzil, Lopen y Syl. Usando sus habilidades, Roca fue capaz de ver los spren que tiraban de las piedras hacia las paredes del abismo. Roca demostró su destreza en el combate, luchando con Kaladin para probar su fuerza, aunque se mantuvo firme en que no la usaría en batallas reales.
-Tras una noche formando a antiguos miembros del Puente Diecisiete, Roca ahuyentó a la gente que intentaba atraer a los miembros del Puente Cuatro, debido a su fama por salvar a Dalinar. Roca consiguió que otro miembro sirviera a sus órdenes después de que [[Hobber\|Hobber]] perdiera el uso de sus piernas luchando contra el [[Szeth\|Asesino de Blanco]], con lo que el total ascendió a cuatro junto a Lopen y Dabbid. Lopen también reclutó a otros familiares para que se unieran a la cuadrilla durante el tiempo que pasó en el ejército de Dalinar.
-Durante una sesión de formación para el Puente Diecisiete en los abismos, Roca especuló con Sigzil sobre las motivaciones y los empleadores del Asesino de Blanco. También habló del atentado contra Elhokar con Sigzil y Lopen. Esa noche, durante la cena, [[Renarin\|Renarin]] se unió al Puente Cuatro como recluta y ayudó a Roca a limpiar los platos y poner orden.
-Roca se unió a un grupo del Puente Cuatro que iba al campamento de guerra a tomar algo. Roca habló de su tierra natal, los [[Picos Comecuernos\|Picos Comecuernos]], y de cómo los dioses les ayudaron a vivir allí, contando la historia de hablar con los dioses de los bosques, el mar y las montañas. Describió que las aguas termales que se encuentran en las montañas son especiales, formando una [[Perpendicularidad de Cultivaci%C3%B3n\|conexión con los dioses]] y un lugar para ver el [[Shadesmar\|hogar de los dioses]]. Roca se negó a explicar por qué podía ver spren y desalentó las interpretaciones de la historia que contaba. Sigzil se sobresaltó cuando Roca mencionó a un dios llamado [[Hoid\|Lunu'anaki]] que no puede hacer daño a la gente, ya que era la misma persona con la que Sigzil se había formado para convertirse en cantamundos.
+#### Side Carry Maneuver
+Rock and Teft helped influence the last members of the bridge crew to fall under Kaladin's leadership. They joined in doing exercises from Kaladin's time in the military, before practicing carrying the bridges as strength training. Kaladin suggested carrying the bridge on its side as a way to train more muscles and Rock participated in attempting the maneuver. Bridge Four gained a new member with [[Lopen\|Lopen]], a one-armed Herdazian. Alongside Dabbid, he carried a stretcher with several water canteens for the bridge crew to use on a run. With the three of them, the start of the non-combative section of the crew was started. Immediately after Lopen had joined, Bridge Four was sent on the next plateau assault, arriving after the Parshendi were fully set up. Kaladin ordered the crew to attempt the side carry maneuver, which resulted in no loss of life to Bridge Four, causing Rock to celebrate. However, the maneuver undermined the other bridges assaulting the plateau and caused the retreat of Sadeas' army. Rock stepped up to defend Kaladin from the lighteyes that came to arrest him, but he was ordered to step down and allow it to proceed. Rock watched as Kaladin was beaten.
+Syl brought Rock, Teft, and Moash to the outside of the barracks to see Kaladin once he had regained consciousness. He witnessed Kaladin telling them that he would survive, and to check on his body after the [[Highstorm\|highstorm]] had passed. Rock was the first to leave the barracks to see Kaladin, initially dismayed to find him apparently dead before expressing his delight that he had survived. Rock called for other members of the crew to assist in cutting Kaladin down and bringing him inside.
+While Kaladin was recovering from being strung up in a highstorm, Rock was made the bridgeleader of Bridge Four. However, the crew just called Rock squadleader and called Kaladin their captain. On the day that Kaladin first stepped outside after healing, Rock stated that Kaladin must have bones of granite to have survived the highstorm and healed in only ten days. Bridge Four went on a plateau run that same day, with no casualties. That evening to thank him for his cooking, Bridge Four bought him a razor, which made Rock actually grow teary-eyed. He was very grateful for it, and he started shaving the beards of all the members of Bridge Four.
 
-#### La batalla de Narak
-Después de que Kaladin luchara junto a Adolin en el duelo por las esquirladas y su posterior encarcelamiento, Roca empezó a cocinar un guiso durante toda la condena para que Kaladin se lo comiera después de ser liberado. Roca asistió a la fiesta en la que Kaladin recibió la armadura esquirlada y la espada que sobraban del duelo de Adolin, y a la posterior entrega de esas esquirladas a [[Moash\|Moash]]. Roca estaba presente cuando el puente que hizo que Kaladin y [[Shallan\|Shallan]] cayeran a los abismos se derrumbó debido a un sabotaje. Dalinar despojó a [[Amaram\|Amaram]] de sus títulos delante de Kaladin, Roca y el Puente Cuatro antes de que se embarcaran en la expedición para cumplir el [[Guerra de la Venganza\|Pacto de la Venganza]]. Roca se unió a la expedición para llevar al Puente Cuatro y defendió a Shen, ahora conocido como Rlain, ante Dalinar, afirmando que seguía siendo miembro del Puente Cuatro. Roca escoltó a Shallan junto con los otros hombres de los puentes en la búsqueda de la Puerta Jurada en las Llanuras Quebradas.   Roca saludó a Kaladin tras su regreso de derrotar al Asesino de Blanco en las Llanuras Quebradas, antes de que Kaladin usara a Syl como hoja esquirlada para llevarlos a [[Urithiru\|Urithiru]].
+#### Training For Escape
+After Kaladin's recovery, Bridge Four was assigned to chasm duty permanently. Rock questioned Kaladin as to their next steps toward fighting, but Kaladin shot him down, stating that the fight was over. After persuasion from Teft and Syl, Kaladin informed the bridge crew that their only chance to survive was to escape. Rock was the only member of the bridge crew to refuse spear training, becoming the official cook of the bridge crew.
+Rock held Kaladin down after he experienced visions during a highstorm. He was finally able to give Kaladin a shave during the [[Highstorm\|riddens]] and revealed that [[Sigzil\|Sigzil]] was a [[Worldsinger\|Worldsinger]]. Bridge Four gained another new member, a [[Parshman\|parshman]] named [[Shen\|Shen]]. During the next chasm duty, Kaladin took Rock aside, where he explained why he would not fight alongside the other members of the crew. Rock then took Lopen, Dabbid, and Shen to collect salvage while the other members trained with the spear. Rock noted that they could not do the work of a whole bridge crew, so Kaladin asked Syl to reveal herself to them to aid in locating salvage.
+Rock was present when Dunny died on a plateau run, and he helped to save wounded members from other bridge crews.
+Rock participated in the first joint plateau assault between [[Dalinar\|Dalinar]] and Sadeas. After the battle went quickly and successfully, Bridge Four was sent back to chasm duty, where they found an [[Spheres\|emerald broam]] as well as various lesser spheres worth two hundred days of bridgeman pay, on the dead body of a lighteyed officer. Rock demonstrated his proficiency with a bow to attach the pouch of lesser spheres to the underside of a bridge, to be collected on the next plateau run. He insisted that he would shoot bridges but would never use the weapon in battle.
+Rock continued to train the bridgemen in carrying bridge drills when Kaladin was learning about the [[Knights Radiant\|Knights Radiant]] from Teft. 
+
+#### The Battle at The Tower
+Rock was present at the assault on the [[Tower (Roshar)\|Tower]], when every member of Bridge Four wore the carapace armor crafted by [[Leyten\|Leyten]] to serve as an added distraction for the Parshendi. He witnessed the betrayal of Dalinar by Sadeas and agreed with Kaladin to return to save Dalinar's men after Kaladin was persuaded by Syl. He witnessed Kaladin say the [[/wiki/Order of Windrunners#The Second Ideal]] of the Knights Radiant and explode with stormlight, then subsequently save Adolin and Dalinar from the Parshendi. He helped carry the bridge escorting the remnants of Dalinar's army back to the warcamps, where Dalinar offered his Shardblade [[Oathbringer (Shardblade)\|Oathbringer]] in exchange for the lives of all of Sadeas' bridgemen.
+Rock cooked a nightly stew for Bridge Four after the events of the [[Battle of the Tower\|Battle of the Tower]], and joined in talking to Kaladin about his abilities and what they meant for the crew going forward. The bridge crew decided to start doing experiments to test the limits of Kaladin's powers.
+
+#### Dalinar's Army
+  Bridge Four Tattoos
+During the first highstorm after having been freed, Rock gave all the men a shave with the razor they had bought him. He was officially appointed a lieutenant by Kaladin, and became the quartermaster for Bridge Four with Lopen as his second. Rock joined the rest of Bridge Four in getting a forehead tattoo despite not having a slave brand to cover up, and received the same freedom + bridge four glyph that the rest of the crew had. Rock also gained an old [[Cobalt Guard\|Cobalt Guard]] uniform as a member of Bridge Four becoming Dalinar's new personal guard. However, they had the Bridge Four glyph requested for the shoulder patch to distinguish them from the original Cobalt Guard members.
+
+  The portion of the glyph meaning "Bridge Four"
+After hearing Dalinar's gemheart proclamation, Kaladin ordered Rock to begin training members of the other old bridge crews to become cooks, aiming to improve morale. Rock joined Kaladin in their first trip back into the chasms after having become part of Dalinar's army. Teft had brought along forty members of other bridge crews to train into new sergeants, while Rock, Kaladin and Syl discussed the Knights Radiant and spren. Rock praised Syl and offered to build a shrine to her, before informing Kaladin that the trainees had started to open up to them. Rock participated in the experimentation of Kaladin's powers, alongside Sigzil, Lopen, and Syl. Using his abilities, Rock was able to see spren that pulled the stones to the walls of the chasm. Rock revealed additional combat prowess, sparring with Kaladin to test his strength, although he remained firm that he would not use this in real battles.
+After an evening training former members of Bridge Seventeen, Rock chased off people attempting to draw the members of Bridge Four, due to their fame from saving Dalinar. Rock gained another member to serve under him after [[Hobber\|Hobber]] lost the use of his legs fighting the [[Szeth\|Assassin in White]], bringing the total up to four alongside Lopen and Dabbid. Lopen also recruited additional relatives to join the crew during the time in Dalinar's army.
+During a training session for Bridge Seventeen in the chasms, Rock speculated with Sigzil about the motivations and employers of the Assassin in White. He also discussed the attempt on Elhokar's life with Sigzil and Lopen. That night at dinner, [[Renarin\|Renarin]] joined Bridge Four as a recruit and aided Rock in cleaning dishes and tidying up.
+Rock joined a group of Bridge Four going into the warcamp for drinks. Rock spoke of his homeland--the [[Horneater Peaks\|Horneater Peaks]]--and how the gods aided them in living there, telling the tale of speaking to the gods of the forests, sea, and mountains. He described that the hot springs found in the peaks are special, forming a [[Cultivation's Perpendicularity\|connection to the gods]] and a place to view the [[Shadesmar\|home of the gods]]. Rock refused to explain why he could see spren and discouraged interpretations of the story he told. Sigzil was startled when Rock mentioned a god named [[Hoid\|Lunu'anaki]] who cannot hurt people, as this was the same person who Sigzil trained with to become a worldsinger.
+
+#### The Battle of Narak
+After Kaladin fought alongside Adolin in the duel for Shards and his subsequent imprisonment, Rock began cooking a stew for the entire duration of the prison sentence for Kaladin to eat after he was released. Rock attended the party where Kaladin was awarded the remaining set of Shardplate and Blade from Adolin's duel, and then for the following awarding of those Shards to [[Moash\|Moash]]. Rock was present when the bridge that caused Kaladin and [[Shallan\|Shallan]] to fall into the chasms collapsed due to sabotage. Dalinar stripped [[Amaram\|Amaram]] of his titles in front of Kaladin, Rock, and Bridge Four before they embarked on the expedition to fulfil the [[War of Reckoning\|Vengeance Pact]]. Rock joined the expedition to carry Bridge Four and defended Shen, now known as Rlain, to Dalinar, stating that he was still a member of Bridge Four. Rock escorted Shallan along with the other bridgemen in finding the [[Oathgate\|Oathgate]] on the Shattered Plains.   Rock greeted Kaladin after he returned from defeating the Assassin in White over the Shattered Plains, before Kaladin used Syl as a Shardblade to take them to [[Urithiru\|Urithiru]].
 
 ### Urithiru
-#### Convirtiéndose en escudero Corredor del Viento
->“*Marchamos a los cielos, Bendito por la Tormenta*”
-\-Roca[4]
+#### Becoming a Windrunner Squire
+>“*We take to the skies, Stormblessed.*”
+\-Rock[4]
 
 
-Después de la [[Batalla de Narak\|batalla de Narak]], los miembros del Puente Cuatro obtuvieron la habilidad de inhalar luz tormentosa, Teft notó que varios hombres de los puentes brillaban y a Lopen le volvió a crecer por completo el brazo que le faltaba. Sin embargo, tras la marcha de Kaladin a [[Piedralar\|Piedralar]], esta habilidad se perdió.
-Mientras estaba en el mercado de Urithiru, Roca fue apuñalado en la mano por [[Re-Shephir\|una figura negra]]; esta interacción imitó cómo Shallan, disfrazada de Velo, había apuñalado a otro comecuernos llamado [[Ur (personaje)\|Ur]] de la misma manera anteriormente.
-A su regreso, Kaladin llevó al Puente Cuatro a las Llanuras Quebradas para practicar el uso de sus habilidades Radiantes, utilizando las gemas de la reserva de esmeraldas. Roca preparó su caldero y empezó a cocinar un guiso para los hombres de los puentes que formaban en combate, y reflexionó sobre lo hermosas que le parecían las Llanuras Quebradas. Roca recitaba la [[/wiki/Orden de los Corredores del Viento#El Primer Ideal]] en voz baja mientras cocinaba, como el resto de los hombres de los puentes lo hacían mientras formaban. Se mostraba escéptico de que Hobber pudiera atraer la luz tormentosa, pero Kaladin insistía en que todo el Puente Cuatro podía hacerlo. A Roca le preocupaba que fueran a la guerra y que varios de ellos murieran. Invitó a Renarin a que fuera a ayudarle a cocinar y le mencionó que nunca podría ver al spren de Renarin, [[Glys\|Glys]]. Roca consoló a Renarin cuando se cuestionó su pertenencia al Puente Cuatro y le recomendó que hablara con Rlain, ya que compartirían la experiencia de sentirse los raros. [[Cikatriz\|Cikatriz]] enseñó a Roca a drenar luz tormentosa, alegrándose de que fuera un buen maestro. Roca se fijó en un numeroso grupo de [[Honorspren\|honorspren]] que observaban los entrenamientos del Puente Cuatro y habló con Sylphrena sobre cómo no interactuaban con ella desde que había buscado a Kaladin, y no les gustaba admitir que estaban equivocados. Roca ofrece gemas infundidas a los spren, que la absorben antes de partir. Hobber, el ayudante de Roca, pudo restaurar sus piernas cortadas por la hoja esquirlada y caminar.
+After the [[Battle of Narak\|Battle of Narak]], the members of Bridge Four gained the ability to Invest Stormlight, with Teft noticing several bridgemen glowing and Lopen fully regrew his missing arm. Following Kaladin's departure to [[Hearthstone\|Hearthstone]], however, this ability was lost.
+While out in the market in Urithiru, Rock was stabbed through the hand by [[Re-Shephir\|a black figure]]; this interaction mimicked how Shallan, disguised as Veil, had stabbed another Horneater named [[Ur (character)\|Ur]] in the same manner earlier.
+Upon his return, Kaladin took Bridge Four to the Shattered Plains to practice using their Radiant abilities, using the emerald gemstone reserve. Rock set up his cauldron and began cooking stew for the bridgemen training in combat, and mused on how he found the Shattered Plains to be beautiful. Rock recited the [[/wiki/Order of Windrunners#The First Ideal]] quietly while cooking, as the rest of the bridgemen recited it while training. He was skeptical that Hobber could draw in Stormlight, but Kaladin insisted that all of Bridge Four could do so. Rock worried that they were going to war and that several of them would die. He invited Renarin to come over to help cook and mentioned to him that he could never see Renarin's spren, [[Glys\|Glys]]. Rock comforted Renarin as he questioned his belonging to Bridge Four and recommended that he talk to Rlain, as they would share the experience of feeling like the odd one out. [[Skar\|Skar]] taught Rock how to draw in Stormlight, being pleased that he was a good teacher. Rock noticed a large group of [[Honorspren\|honorspren]] watching Bridge Four practice and talked to Sylphrena about how they would not interact with her since she had sought out Kaladin, and they did not like to admit they were wrong. Rock offers infused gemstones to the spren, who drew it in before departing. Hobber, Rock's assistant, was able to restore his Shardblade-cut legs and walk.
 
-#### Reunión con la familia
-Poco después, investigaron una columna de humo en la distancia. Resultó ser las llamas de un ataque de un [[Portador del Vac%C3%ADo\|Portador del Vacío]] a una caravana cuyos miembros ilesos resultaron ser la familia de Roca: su esposa, a la que se refiere como "Canción"; su hijo Don; su hija Cuerda; su hijo Roca (al que llamó así por otro tipo de roca y dijo al Puente Cuatro que llamara Pequeña Roca); un tercer hijo, Estrella; una hija llamada Kuma'tiki (un tipo de concha de los Picos Comecuernos); y su última hija, Canción Hermosa. Canción le dijo a Roca que algo iba terriblemente mal en su hogar de los Picos Comecuernos. Roca llevó el Puente Cuatro por última vez de regreso a la Puerta Jurada, pues ya no eran esclavos y volarían con la luz tormentosa a partir de entonces.
+#### Reunion With Family
+Shortly after, they investigated a pillar of smoke in the distance. The pillar turned out to be flames from a [[Voidbringer\|Voidbringer]] attack on a caravan whose uninjured members were revealed to be Rock's family: his wife, referred to as "Song"; his son Gift; daughter Cord; son Rock (whom he noted was named for a different kind of rock and told Bridge four to call Little Rock); a third son, Star; a daughter named Kuma'tiki (a kind of shell on the Horneater Peaks); and his last daughter, Beautiful Song. Song told Rock that something was terribly wrong back at their home in the Horneater Peaks. Rock carried bridge four one last time on the way back to the Oathgate, as they were no longer slaves and would fly with Stormlight from then on.
 
-#### Más entrenamiento y una hoja de Honor
-Roca y Kaladin descubrieron a Teft juntos en un antro de [[Musgoardiente\|musgoardiente]], tras haber vendido su chaqueta de uniforme para pagar más droga. Lo llevaron de vuelta al cuartel, le dieron de comer guiso y prometieron conseguirle ayuda. Roca presenció cómo Cikatriz se esforzaba por atraer la luz tormentosa hasta que Cikatriz le contó a [[Lyn\|Lyn]] la historia de cuando vio por primera vez a Kaladin usándola en una carrera por el puente y para centrarse aún más en sus intenciones por querer convertirse en [[Corredor del Viento\|Corredor del Viento]]. Roca informó entonces a Cikatriz de que él también brillaba después de que Lyn atrajera con éxito la luz tormentosa. Roca atendió el puesto de bebidas durante otra sesión de entrenamiento, mientras los miembros del Puente Cuatro se preguntaban sobre el cambiante mundo que les rodeaba y cómo las cosas se habían vuelto más aceptables y diferentes. Dalinar llevó la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]] al Puente Cuatro, donde decidieron transferirla entre los miembros del escuadrón para mantener la imprevisibilidad y el secreto, así como para poder manejar las Puertas Juradas mientras Kaladin estaba en [[Kholinar\|Kholinar]]. Roca estaba entre los miembros del Puente Cuatro que fueron atacados por agentes del [[Diagrama (grupo)\|Diagrama]] para obtener la hoja de Honor, junto a Bisig y Eth, que resultaron gravemente herido y muerto respectivamente.
+#### Further Training and Honorblade
+Rock and Kaladin discovered Teft together in a [[Firemoss\|firemoss]] den, having sold his uniform coat to pay for more of the drug. They carried him back to the barracks, fed him stew and promised to get him help. Rock witnessed Skar struggling to draw in Stormlight until Skar told [[Lyn\|Lyn]] the story of when he first saw Kaladin using it on a bridge run and to further focus on her intentions for wanting to become a [[Windrunner\|Windrunner]]. Rock then informed Skar that he too was glowing after Lyn successfully drew in Stormlight. Rock manned the drinks station during another training session, while the members of Bridge Four questioned the changing world around them and how things have become more acceptable and different. Dalinar brought [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] to Bridge Four, where they decided to transfer it between members of the squad to maintain unpredictability and secrecy, as well as being able to operate the Oathgates while Kaladin was away in [[Kholinar\|Kholinar]]. Rock was among the members of Bridge Four who were attacked by agents of the [[Diagram\|Diagram]] to obtain the Honorblade, alongside Bisig and Eth, who were badly injured and killed respectively.
 
-#### La batalla de la Explanada Thayleña
-  Roca en la <<Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña>>
-Durante el tiempo en que las fuerzas enemigas estaban reuniendo un ejército en las afueras de [[Ciudad Thaylen\|ciudad Thaylen]], las tropas [[Oyente\|oyentes]] también organizaron un ataque en Urithiru. Miembros del Puente Cuatro murieron durante el asalto. Teft pronunció el [[/wiki/Orden de los Corredores del Viento#El Tercer Ideal]] e inició un contraataque contra las fuerzas invasoras en Urithiru. El Puente Cuatro recapturó con éxito la ciudad antes de dirigir tropas a través de la Puerta Jurada hasta ciudad Thaylen, salvando a Renarin antes de dispersarse para reforzar las fuerzas alezi en la ciudad. Roca derrotó y mató a Amaram en la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] después de que se hubiera vinculado con [[Yelig-Nar\|Yelig-Nar]], abatiéndolo con dos flechas de un [[Granarco\|arco esquirlado]], una a través de la cabeza y otra a través de su gema corazón. Esto hizo que Roca tuviera una crisis, ya que salvar a Kaladin rompía su voto de no violencia. Fue consolado tanto por Kaladin como por Teft una vez finalizada la batalla.
+#### The Battle of Thaylen Field
+  Rock at the <<Battle of Thaylen Field\|Battle of Thaylen Field>>
+During the time that the enemy forces were assembling an army outside [[Thaylen City\|Thaylen City]], [[Listener\|listener]] troops also staged a strike at Urithiru. Members of Bridge Four died during the assault. Teft spoke the [[/wiki/Order of Windrunners#The Third Ideal]] and began a counterstrike against the invading forces at Urithiru. Bridge Four successfully recaptured Urithiru before leading troops through the Oathgate to Thaylen City, saving Renarin before spreading out to reinforce the Alethi forces in the city. Rock defeated and killed Amaram at the [[Battle of Thaylen Field\|Battle of Thaylen Field]] after he had been bonded with [[Yelig-Nar\|Yelig-Nar]], striking him down with two arrows from a [[Grandbow\|Shardbow]], one through the head and one through his gemheart. This caused Rock to have a crisis, as saving Kaladin broke his vow of non-violence. He was consoled by both Kaladin and Teft after the battle had ended.
 
-### Un año después
-#### Piedralar
-Roca acompañó al resto del Puente Cuatro en la expedición para evacuar a los residentes de la aldea natal de Kaladin [[Piedralar\|Piedralar]] utilizando la más reciente creación de [[Navani\|Navani]], la plataforma flotante conocida como el *[[Cuarto Puente\|Cuarto Puente]]*. Ayudó en la batalla contra los [[Shanay-im\|Celestiales]] suministrando lanzas a Kaladin y advirtiendo a otros miembros de la expedición sobre [[Lezian\|Lezian]], una nueva forma de [[Fusionado\|Fusionados]] que no se había encontrado antes. Roca y su hija Cuerda defendieron a Dalinar mientras mantenía abierta la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] para renovar a los Caballeros Radiantes de la expedición con nueva luz tormentosa.
+### A Year Later
+#### Hearthstone
+Rock accompanied the rest of Bridge Four on the expedition to evacuate the residents of Kaladin's home village [[Hearthstone\|Hearthstone]] using [[Navani\|Navani's]] newest creation, the floating platform known as the *[[Fourth Bridge\|Fourth Bridge]]*. He assisted in the battle against the [[Heavenly Ones\|Heavenly Ones]] by supplying Kaladin with spears and warning other members of the expedition about [[Lezian\|Lezian]], a new form of [[Fused\|Fused]] that had not been encountered before. Rock and his daughter Cord defended Dalinar while he held [[Honor's Perpendicularity\|Honor's Perpendicularity]] open to renew the Knights Radiant on the expedition with fresh Stormlight.
 
-#### Partida
->“*Lo elegí porque vales pena ese sacrificio. Pero no es sacrificio si ahora no voy, como es correcto, a buscar justicia de mi pueblo. Prefiero marchar con tu bendición. Pero marcharé de todas formas.*”
-\-Roca a Kaladin antes de irse[14]
-
-
-Tras dejar descansar a su familia, Roca partió de vuelta a los Picos Comecuernos con parte de su familia, llevándose consigo a su esposa y a sus hijos menores. Le dijo a Kaladin que había quebrantado las costumbres de su pueblo, y que debía enfrentarse a la justicia por sus actos. Pidió la bendición de Kaladin, y este se la dio. [[Cikatriz\|Cikatriz]] y [[Drehy\|Drehy]] fueron con Roca y su familia como guardia de honor, así como para volar y protegerlos en su viaje. Cuando Kaladin preguntó si volvería a ver a Roca, ésta le dijo que la próxima vez que se vieran no sería en esta vida.
-Roca apareció más tarde en una pesadilla mostrada a Kaladin por [[Odium\|Odium]], donde los miembros del Puente Cuatro aparecían luchando y muriendo para empeorar el estado emocional de Kaladin.
-Una vez que Cikatriz y Drehy retornaron de su misión escoltando a Roca hasta los Picos Comecuernos, informaron a Kaladin de que Roca no regresaría.
-
-## Relaciones
-### Familia
-#### Familia biológica
-Roca tiene una extensa familia en los Picos Comecuernos, siendo el cuarto hijo en ella. Estaba muy unido a su madre, horneando juntos en cuanto Roca pudo alcanzar el mostrador. En algún momento de su vida, uno de sus hermanos mayores murió, desplazando su posición a la de tercer hijo.
-La relación de Roca con otros miembros de su familia no se aclaró explícitamente, aunque se ha afirmado que está emparentado con [[Kef'ha\|Kef'ha]], [[Tifi\|Tifi]] y [[Sinaku'a\|Sinaku'a]].
-
-#### Mujer e hijos
-Se casó con su amiga de la infancia [[Tuaka\|Tuaka]] y juntos criaron seis hijos. [[Don\|Don]] y [[Cuerda\|Cuerda]] son los mayores y son hermano y hermana gemelos respectivamente. Ambos comparten la habilidad [[Vidente (Roshar)\|vidente]] de Roca. Roca no tiene problemas con que Don siga la religión vorin, dando su bendición a los monjes veden que visitaron los Picos cuando su hijo era un niño.  Roca se sorprende de lo mucho que ha crecido desde la última vez que lo vio, afirmando que ahora es casi tan alto como el propio Roca.  Cuerda y su padre comparten su amor por la cocina, aunque difieren en su opinión sobre el uso de la violencia en la lucha contra Odium.  Tanto Don como Cuerda se quedaron en Urithiru cuando Roca regresó a los Picos. 
-[[Roca (junior)\|Roca (junior)]] y [[Estrella\|Estrella]] son el segundo y tercer hijo de Roca, respectivamente. Ambos ayudan a servir la comida y las bebidas junto a su padre.   Roca (junior) lleva el nombre de un tipo de roca diferente al de su padre. [[Kuma'tiki\|Kuma'tiki]] y [[Canci%C3%B3n Hermosa\|Canción Hermosa]] son la segunda y tercera hija de Roca, respectivamente. La primera era tan pequeña cuando Roca se marchó de los Picos que no le recuerda, rompiéndole el corazón.  Sus cuatro hijos menores retornaron con él a los Picos. 
-
-## Curiosidades
-No está claro si el hermano que perdió Roca era el miembro de su familia que murió enfrentándose a Sadeas en un duelo por esquirladas, ya que nuatoma tampoco está definido en cuanto a si se trata del miembro más anciano de la familia, de un cargo heredado o de un cargo por el que se lucha y se gana. Cuando Kaladin pregunta por el hermano que murió, Lunamor responde que es una historia triste y que no conviene contarla en este momento. Roca también comenta que otros miembros de su familia murieron durante el tiempo que estuvo con Sadeas, y tampoco está clara su relación con Roca.
-El guiso de Roca aparece durante el tormento de Kaladin en [[Braize\|Braize]] mientras [[Sagaz\|Sagaz]] le libra de él durante un breve momento. 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+#### Departure
+>“*I made that choice because you are worth that sacrifice. But it is no sacrifice unless I now go, as is right, to seek justice from my people. I would leave with your blessing. But I will leave either way.*”
+\-Rock to Kaladin before leaving[15]
 
 
+After letting his family have some time to rest, Rock departed back for the Horneater Peaks with part of his family, taking his wife and younger children with him. He told Kaladin that he had broken the ways of his people, and must face justice for his actions. He asked for Kaladin's blessing, and Kaladin gave it. [[Skar\|Skar]] and [[Drehy\|Drehy]] went with Rock and his family as an honor guard, as well as to fly and protect them on their journey. When Kaladin asked if he'd see Rock again, Rock told him that when they next saw each other, it would not be in this life.
+Rock later appeared in a nightmare shown to Kaladin by [[Odium\|Odium]], where members of Bridge Four were shown fighting and dying in order to worsen Kaladin's emotional state.
+Once Skar and Drehy returned from their mission escorting Rock to the Horneater Peaks, they informed Kaladin that Rock would not be returning.
 
-https://es.coppermind.net/wiki/Lunamor
+## Relationships
+### Family
+#### Birth Family
+Rock has an extensive family in the Horneater Peaks, being the fourth-born son of his family. He was close with his mother, baking together as soon as Rock was able to reach the counter. At some point during his life, one of his elder brothers died, moving his position to that of third-born son.
+Rock's relationship to other members of his family was not made explicitly clear, although it has been stated that he is related to [[Kef'ha\|Kef'ha]], [[Tifi\|Tifi]] and [[Sinaku'a\|Sinaku'a]].
+
+#### Wife and Children
+He married his childhood friend [[Tuaka\|Tuaka]] and together they raised six children. [[Gift\|Gift]] and [[Cord\|Cord]] are the eldest and are twin brother and sister respectively. They both share Rock's [[Sighted\|Sighted]] ability. Rock has no issues with Gift following the Vorin religion, giving his blessing to the Veden monks who visited the Peaks when Gift was a child. Rock is surprised at how much Gift has grown since he last saw him, stating that he is now almost as tall as Rock himself. Rock shares a love of cooking with Cord, although they differ in opinion about the use of violence in the fight against Odium. Gift and Cord both remained behind in Urithiru when Rock returned to the Peaks.
+[[Rock (junior)\|Rock (junior)]] and [[Star\|Star]] are Rock's second and third sons respectively. They both help serve food and drinks alongside their father. Rock junior is named after a different kind of Rock than his father. [[Kuma'tiki\|Kuma'tiki]] and [[Beautiful Song\|Beautiful Song]] are Rock's second and third daughters respectively. Beautiful Song was so young when Rock left the Peaks that she does not remember him, breaking his heart. All four of his youngest children returned with him to the Peaks.
+
+## Trivia
+It is unclear whether the brother that Rock lost was the member of his family that died facing Sadeas in a duel for Shards, as nuatoma is also not defined as to whether it is the oldest family member, an inherited position, or a position that is fought for and won. When Kaladin asks about the brother that died, Lunamor responds that it is a sad story and is not suitable for telling at the current time. Rock also comments that other members of his family died during the time with Sadeas, and it is also unclear as to their relation to Rock.
+Rock's stew appears during the torment of Kaladin on [[Braize\|Braize]] while [[Wit\|Wit]] spares him torment for a brief moment.
+
+
+https://coppermind.net/wiki/Lunamor

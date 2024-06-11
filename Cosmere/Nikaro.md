@@ -1,28 +1,26 @@
-
-
 |**Nikaro**|
 |-|-|
 ||
-|**Capacidades**|[[Sombra cognitiva\|Sombra cognitiva]] |
-|**Apodos**|Pintor|
-|**Oficio**|Pintor|
-|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎|
-|**Residencia**|[[Kilahito\|Kilahito]]|
-|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
-|**Mundo natal**|[[Komashi\|Komashi]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]] |
+|**Aliases**|Painter|
+|**Profession**|Painter|
+|**Groups**|[[Nightmare Division\|Nightmare Division]]|
+|**Residence**|[[Kilahito\|Kilahito]]|
+|**Nationality**|[[Nagadan\|Nagadan]]|
+|**Homeworld**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Nikaro**, quien frecuentemente utiliza el apodo **Pintor**, es un [[Pintor\|pintor]] de [[Pesadilla\|pesadillas]] en [[Komashi\|Komashi]] que se enamora y ayuda a liberar a la [[Yoki-haijo\|yoki-haijo]] [[Yumi\|Yumi]].
+**Nikaro**, who frequently goes by the nickname **Painter**, is a [[Nightmare\|nightmare]] [[Painter\|painter]] on [[Komashi\|Komashi]] who falls in love with and helps free the [[Yoki-hijo\|yoki-hijo]] [[Yumi\|Yumi]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Yumi]] 
 4. [[#Akane]] 
@@ -30,78 +28,67 @@
 4. [[#Masaka]] 
 4. [[#Izzy]] 
 4. [[#Liyun]] 
-4. [[#Dise.C3.B1o]] 
+4. [[#Design]] 
 4. [[#Sukishi]] 
-4. [[#Se.C3.B1ora Shinja]] 
+4. [[#Mrs. Shinja]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-  Nikaro en las calles de KilahitoPara más imágenes, ver [[Nikaro/Galer%C3%ADa\|/Galería]].
-Nikaro es un hombre de veintiún años con pelo largo y negro que le llega por los hombros. Lo mantiene largo porque cree que lleva menos esfuerzo cuidarlo y que queda más impresionante. Tiene un aspecto similar a un [[Veden\|veden]], pero con una piel pálida raramente vista en [[Roshar\|Roshar]]. Es de constitución larguirucha y viste con una camisa suelta por fuera de los pantalones y una capa larga hasta las rodillas.
-Trata de autoconvencerse de que es un cazador solitario y que es feliz estando solo, sin amigos, pero eso no es cierto. En realidad, tiene la esperanza de que sus viejos amigos le pidan que se una a ellos de nuevo.
+## Appearance and Personality
+  Nikaro on the streets of Kilahito.For more images, see [[Nikaro/Gallery\|/Gallery]].
+Nikaro is a twenty-one year old man with long, black hair that reaches his shoulders. He keeps his hair long, thinking it takes less effort and is more impressive. He looks [[Veden\|Veden]], but with pale skin not seen much on [[Roshar\|Roshar]]. A lanky build, he dresses with an untucked shirt, and a long, knee-length cloak.
+He tries to convince himself he is a lone hunter, and that he is happy being by himself without friends, but this isn't true, and he is hoping his old friends will ask him to join them.
 
-## Atributos y habilidades
-Nikaro fue el mejor artista con diferencia de su año. [[Akane\|Akane]] afirma que Nikaro es el artista con más talento que ha visto nunca. El primer pensamiento de [[Yumi\|Yumi]] fue que era un pintor vago, pero más tarde se queda impresionada al ver la habilidad en las obras maestras que dibujó en su portafolios. Tras su fracaso al intentar unirse a la Guardia del Sueño y a pesar de su talento con el pincel, se pasó la mayor parte del tiempo dibujando únicamente «bambú». Afirmaba que era por motivos de eficiencia, lo cual era lo más importante para él en ese momento.
+## Attributes and Abilities
+Nikaro was the single best artist in his year. [[Akane\|Akane]] claims Nikaro is the best, most talented artist she's ever seen. [[Yumi\|Yumi]] first thought he was a lazy painter, but is later blown away at his skill when she sees the masterpieces he drew in his portfolio.  After failing to join the dreamwatch, despite his skills with the brush, he spent most of his time drawing nothing but 'bamboo'. He claimed it was efficient, something that meant more to him these days.
 
-## Historia
-Nikaro es de un pueblo pequeño situado a unas cuantas horas de [[Kilahito\|Kilahito]]. Se pasó la mayor parte de su vida antes de ir a Kilahito entrenando para ser pintor, practicando desde que fue capaz de sostener un pincel por primera vez. Su sueño era llegar a ser miembro de la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]], y planeaba que sus amigos se convirtieran en sus compañeros. Entrenó bajo la tutela de tres mentores distintos y al principio estaba asustado.
-Después de un año entrenando, se presentó a las pruebas para la Guardia del Sueño, pero no consiguió entrar. Sin embargo, al no querer decepcionar a sus amigos, mintió y les dijo que sí le habían aceptado. Se pasó la mayor parte de su tiempo libre sentado en la biblioteca, mirando a la pared e inseguro de lo que hacer. A la larga, sus amigos descubrieron el engaño y terminaron su amistad con él. Nikaro continuó trabajando como pintor, pero siempre solo, aunque Akane continuó siendo simpática con él.
-Un día después del trabajo, mientras Nikaro volvía para casa, vio señales de una [[Pesadilla\|pesadilla]]. Aunque había terminado su turno, fue detrás de la pesadilla y encontró a una casi totalmente [[Liyun\|estable]] en la casa de un niño y sus padres. Después de ahuyentar a la pesadilla, Nikaro se desmayó y despertó en un lugar extraño con una chica llamada [[Yumi\|Yumi]]. Al principio, asumió que está en un sueño, pero rápidamente llegó a la conclusión de que él venía de la [[Estrella diurna\|estrella diurna]]. Nikaro descubrió que parecía haber adoptado la apariencia de la joven y, sin pretenderlo, rompió las reglas de los rituales cuando sus asistentes, creyéndole Yumi, intentaron darle de comer.
-Yumi se enfadó con Nikaro por sus acciones, y él se apresuró a convencerla de que en realidad no era un espíritu, pero mintió al afirmar que era un héroe enviado para ayudar a resolver el problema con los [[Haijo\|espíritus]]. Intentó explicarle a [[Liyun\|Liyun]] lo que les había ocurrido a Yumi y a él, pero la guardiana no le creyó y entonces él siguió las instrucciones de Yumi para disculparse. Los dos descubrieron que notaban una sensación aguda y eléctrica al tocarse, así como el hecho de que no podían moverse a más de tres metros de distancia el uno del otro. Durante el baño ritual de la mañana, se tocaron accidentalmente y tuvieron la misma sensación, aunque esa vez también parecieron intercambiar emociones. Tras ello, exhausto, se durmió pronto y se despertó en su propio apartamento.
-Se encontró con que Yumi ahora estaba en su mundo, conservando su propio aspecto mientras Pintor era el incorpóreo. El capataz [[Sukishi\|Sukishi]] llamó a la puerta y Yumi tuvo que abrir. El capataz pareció sorprendido de ver a una chica en el apartamento de Nikaro y preguntó por la ausencia de este en el trabajo. Yumi le dijo que estaba enfermo y que había avistado a una pesadilla estable. El capataz se marchó y justo después [[Akane\|Akane]] salió al pasillo, sorprendiéndose también al ver una chica allí. Yumi supuso, de manera incorrecta, que Akane era una de las concubinas de Pintor y le habló como tal. Cuando Akane se fue, Yumi dedujo que Pintor en realidad no era el héroe que decía ser y se enfadó con él. Al cabo de un rato, se duerme y los dos despiertan de vuelta en el mundo de Yumi.
+## History
+Nikaro is from a small town, a few hours away from [[Kilahito\|Kilahito]]. He spent most of his life prior to heading to Kilahito, training to become a painter, practising since he could first hold a brush. His dream was to become a member of the [[Dreamwatch\|Dreamwatch]], and planned for his friends to become his companions. He trained under three different mentors and was afraid at first.
+One year into his training, he applied for the Dreamwatch, but was unsuccessful. Not wanting to disappoint his friends however, he lied and told them he had been accepted. He spent most of his free time after that sitting in the library, staring at a wall, uncertain with what to do. Eventually his friends found out about his deception and the friendship ended. Nikaro continued to work as a painter, but would always work alone, though Akane continued to be friendly with him.
+After work one day, Nikaro is walking home when he sees evidence of a [[Nightmare\|Nightmare]]. Though he had finished his shift, he went after the nightmare and finds a nearly full [[Liyun\|Stable Nightmare]] in the home of a young boy and his parents. After chasing away the nightmare, Nikaro faints and wakes up in a strange place with a girl named [[Yumi\|Yumi]]. Nikaro first assumed he was in a dream but quickly concludes that instead he came from the [[Daystar\|daystar]]. Nikaro discovers he seemed to have taken on Yumi's appearance, and without meaning too breaks Yumi's rituals when her attendants try to feed him, believing him to be her.
+Yumi gets angry at Nikaro for his actions, and he quickly convinces her that he is not a spirit after all, but lies that he is a hero that was sent to help fix the problem with the [[Hijo\|Spirits]]. He tries to explain what has happened to him and Yumi to [[Liyun\|Liyun]], but Liyun doesn't believe him and he instead follows Yumi's instructions and apologizes. Yumi and Nikaro discover that there is some sort of sharp electric sensation whenever they touch, as well as the fact that they can't move further than 10 feet apart. During the morning ritual bathing, they accidentally touch each other and have the same sensation, this time seeming to exchange emotions as well. Exhausted after this, he soon falls asleep and wakes up in his apartment.
+Finding Yumi is now on his world, Nikaro being the incorporeal one now, but Yumi still looking like herself. The Foreman [[Sukishi\|Sukishi]] knocked on his door and Yumi had to answer it, the foreman seemed surprised to see a girl answer the door and inquires about Nikaro's absence at work. Yumi says that he was sick and hunting a stable nightmare. He leaves and right after [[Akane\|Akane]] steps out into the hallway and is also surprised to see a girl there. Yumi incorrectly first assumed Akane was one of Nikaro's concubines and addresses her as one. When Akane departs, Yumi works out that Nikaro is not actually the hero he said, and she becomes angry with him. Eventually she falls asleep and they both wake up back on Yumi's world.
 
-  Escapando de la pesadilla estable
-Guiado por la yoki-haijo, Nikaro se disculpó con Liyun por desmayarse el día anterior, aunque empezaba a molestarle la manera en la que Yumi le trataba. Durante el baño ritual tuvieron una competición de aguantarse la mirada y Nikaro se ganó un poco de respeto por parte de Yumi. Ella le explicó su plan de contactar a los espíritus, pero Nikaro se fue del manantial mientras aún se estaban insultando el uno al otro. Después llegaron al templo del pueblo y Yumi hizo que Nikaro pronunciara las seis oraciones rituales. Yumi le tuvo que despertar al terminar y luego fueron al lugar ritual, donde Nikaro falló miserablemente en su intento de apilar piedras.
-Tras dormirse, llegaron de vuelta al mundo de Nikaro y Yumi intentó explicarle lo que hizo mal para acabar decidiendo que tendría que enseñarle. Pintor recordó la [[Liyun\|pesadilla estable]] y a la familia, e insistió en que deberían asegurarse de que alguien se estaba encargando. Después de que Yumi se duchara, se fueron a la oficina del capataz para hablar con él, pero Nikaro se percató de que el capataz no les creía y se marcharon. Al ir de vuelta al apartamento se cruzaron con Akane, quien se ofreció a ayudar a Yumi. Esta aceptó, llorando agradecida.
-Yumi y Akane fueron de compras con Nikaro siguiéndolas. Al terminar, Yumi aceptó la oferta de Akane de ir a pasar un rato con sus amigos [[Izzy\|Izzy]], [[Tojin\|Tojin]] y [[Masaka\|Masaka]]. Fueron al [[El Pupila del Fideo\|Pupila del Fideo]] y Nikaro decidió que no quería estar cerca de sus amigos, así que se fue a la barra. [[Dise%C3%B1o\|Diseño]] se acercó y tiró un cuenco de fideos al suelo de la sorpresa al ver a Nikaro y pensar que estaba muerto. Nikaro y Yumi fingieron ayudarla a limpiarlo para poder hablar con ella, le explicaron lo que les estaba pasando y su teoría de que Yumi venía de la estrella. Diseño les contó que Yumi estaba altamente Investida y prometió intentar ayudarles, aunque ese tipo de problemas eran más cosa de [[Hoid\|Hoid]]. Desafortunadamente para ellos, el susodicho parecía estar congelado en el tiempo en ese momento. Finalmente, volvieron al apartamento de Nikaro y él trató de mantenerla despierta con un programa del [[Hion\|hion]], pero ella estaba decidida a volver y trabajar.
-Ambos regresaron al mundo de Yumi, que le preparó para disculparse con Liyun por su fracaso mientras se daban el baño ritual. Nikaro estaba un poco molesto por la severidad de Yumi tras creer que habían empezado a entenderse un poco. Mediante él, Yumi explicó a Liyun que necesitaban tiempo para practicar y restaurar sus habilidades. Más tarde, en el templo, Yumi comenzó a instruir a Nikaro haciéndole sopesar piedras para intentar encontrar su centro de gravedad y entender cómo se equilibrarían. Yumi le dijo que probablemente pasarían días practicando sólo eso.
-Más tarde, cansados después de todo un día practicando, los dos se quedaron dormidos y despertaron de nuevo en el mundo de Pintor. Mientras Yumi se duchaba, Nikaro trató de aprender cómo coger las «almas» de su ropa. Yumi era capaz de tocar las líneas de hion del termostato para calentar la habitación, hablaron de sus planes y Nikaro no pensaba que fuera buena idea que la joven intentara encontrar a la [[Liyun\|pesadilla estable]]. Pintor recibió una carta informándole de que le habían suspendido de su puesto sin sueldo durante un mes por no cumplir con sus tareas. Pintor empezó a enseñar a Yumi a pintar bambú por si se encontraba con una emergencia. Practicaron un rato y, cuando Akane la invitó a salir con sus amigos, Yumi le dijo que estaba estudiando.
-Pasados once días, Yumi decidió que Nikaro estaba listo para empezar a apilar piedras. Nikaro era capaz de hacer unas cuantas pilas pequeñas y admitió que el entrenamiento de Yumi funcionaba. Yumi indicó que necesitarían pilas mucho más complicadas para atraer espíritus, así que continuaron practicando, ella apilando las almas de las piedras. Fue entonces cuando Pintor notó la pasión de la joven al apilar. También se dio cuenta de lo difícil que esa experiencia debía ser para ella y empezó a empatizar un poco más. Al cabo de poco notaron un altercado; al acercarse a ver qué ocurría, descubrieron que unos académicos del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] de la ciudad de [[Torio\|Torio]] habían llegado con una máquina que podía apilar piedras.
+  Fleeing from the stable nightmare
+With Yumi's instruction Nikaro apologizes to Liyun for collapsing the day before and Nikaro starts to get annoyed with the way Yumi is treating him. During the ritual bathing they get into a staring contest and Nikaro earns a measure of respect from Yumi. She explains her plan to try and contact the spirits, but Nikaro leaves the spring while they are still insulting each other. Afterward they arrive at the shrine in the village and Yumi gets Nikaro to say the six ritual prayers. Yumi has to poke him to keep him awake once they're finished and Nikaro attempts to stack stones, failing miserably.
+After Nikaro eventually falls back asleep they arrive back in Nikaro's world and Yumi tries to explain to him what he did wrong, eventually she decides she'll have to teach him. Painter remembers the [[Liyun\|Stable Nightmare]] and the family, and argues that they should make sure it was dealt with. After Yumi showers they leave to the foreman's office and Yumi tells him but Nikaro realized the foreman wouldn't believe them and they left. They leave and go back to Nikaro's apartment but run into Akane who offers to help Yumi, Yumi accepts with grateful tears.
+Yumi and Akane go shopping and Nikaro just follows behind, eventually they leave and Yumi takes up Akane's offer to hang out with her and her friends [[Izzy\|Izzy]], [[Tojin\|Tojin]] and [[Masaka\|Masaka]]. They go the [[Noodle Pupil\|Noodle Pupil]] and Nikaro decides he doesn't want to be around his friends and goes to the front counter. [[Design\|Design]] comes out and drops a bowl of noodles in shock as she sees Nikaro and thinks he is dead. Nikaro and Yumi pretend to help clean up so that they can talk with her, they explain to Design what was happening and their theory that Yumi is from the star. Design explains how Yumi is very Invested and says she will try to help, but that it is more up [[Hoid\|Hoid's]] alley. Unfortunately for them, Hoid happens to currently be frozen in time. Eventually they go back to Nikaro's apartment and he tries to keep her awake with a [[Hion\|Hion]] program, but she was determined to get back and do some work.
+Nikaro and Yumi go back to her world and Yumi prepares Nikaro to apologize to Liyun for their failure as they do the ritual bathing. Nikaro is a little annoyed at Yumi's strictness after feeling like they were starting to connect better. Through Nikaro, Yumi explains to Liyun that they will need practice and time to restore her skills. Later at the shrine Yumi starts to teach Nikaro by picking up stones and trying to find its center of gravity and how it could be balanced. Yumi explains they will likely spend days practicing this.
+Afterwards, both Yumi and Nikaro are tired from a full day of teaching, and they fall asleep and wake up back in Nikaro's world. While Yumi takes a shower, Nikaro plays around with learning to control the 'souls' of his clothing. Yumi is able to touch the Hion lines in the thermostat to heat the room, they discuss plans and Nikaro doesn't think its a good idea for Yumi to try and find the [[Liyun\|Stable Nightmare]]. Nikaro gets a letter saying he's on a month of unpaid leave for neglecting his duties. Painter starts to teach Yumi how to paint bamboo in case of an emergency. They practise for a while and Yumi tells Akane she is studying when Akane invites her out with friends.
+After eleven days, Yumi decides Nikaro is ready to start stacking stones, Nikaro is able to make a few small stacks and admits Yumi's training was helpful. Yumi explains that they will need more complicated stacks to attract spirits, so they continue to practise. Yumi joins in with Painter by stacking the souls of the stones, Nikaro notices she seems very passionate about it. He also realizes how difficult the experience must have been for her and starts to empathize with her more. They soon notice a disturbance and find that the scholars of the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] in [[Torio\|Torio]] city have arrived with a machine that can stack rocks.
 
 
-## Relaciones
-  En el Pupila del Fideo
+## Relationships
+  At the Noodle Pupil
 ### Yumi
-Pintor conoce a Yumi cuando intercambian cuerpos por primera vez, y al principio ella cree que él es algún tipo de héroe enviado por los [[Haijo\|espíritus]] para ayudarlos. Al principio, Pintor finge ser el héroe que ella necesita, pero después de que ella experimente su vida al estar en el cuerpo de él, se da cuenta de que le mintió. Aunque ella se enfada mucho con él, a medida que pasa el tiempo aprenden a trabajar juntos. Se ayudan el uno al otro con sus problemas y crecen juntos. A lo largo del tiempo que pasan juntos, se enamoran al superar cada obstáculo juntos y enseñarse el uno al otro cómo vivir en sus respectivos mundos.
+Painter first meets Yumi when they body swap for the first time, and at first, she believes he is some sort of hero sent by the [[Hijo\|spirits]] to help them. Painter at first pretends that he is the hero she was looking for, but after experiencing his lifestyle when she swaps into his body, she realizes he was lying. Though she gets very annoyed with him, over time they learn to work together. Helping each other through the problems they face and growing together. Over the course of time they spend together, they fall in love as they get through challenges together and teach each other how to live in their separate worlds.
 
 ### Akane
-Nikaro y [[Akane\|Akane]] eran buenos amigos durante su tiempo en la escuela. Ella y los otros miembros de su grupo de amigos se quedaron consternados cuando descubrieron la mentira de Nikaro sobre su entrada en la Guardia del Sueño, y por eso su amistad se resintió mucho. Años después, Akane se mostraba amigable con Nikaro, aunque él escogió no intentar acercarse a ellos ni buscar su perdón. A la larga, cuando toda la ciudad de [[Kilahito\|Kilahito]] está en peligro, Nikaro suplica a Akane y sus amigos que le perdonen y le ayuden a salvar la ciudad. Ellos le creen y trabajan juntos para salvar la ciudad, perdonando a Nikaro en el proceso.
+Nikaro and [[Akane\|Akane]] were good friends back during their time in school. She and the other members of their group of friends were devastated when they discovered Nikaro's lie about getting into the dreamwatch, and thus their friendship was badly damaged. Years afterwards, Akane stayed somewhat friendly with Nikaro, though he chose to stay away from them, never seeking forgiveness. Eventually when the entire city of [[Kilahito\|Kilahito]] is in danger, Nikaro begs Akane and his friends for forgiveness and to help him to save the city. They believed him and work together to save the city, forgiving Nikaro in the process.
 
 ### Tojin
-Cuando estaban en la escuela, [[Tojin\|Tojin]] y Nikaro estaban en un grupo de amigos junto a [[Akane\|Akane]], [[Izzy\|Izzy]] y [[Masaka\|Masaka]]. Nikaro y Tojin eran amigos hasta que Tojin descubrió la mentira de Nikaro sobre su entrada en la Guardia del Sueño. Después de eso, nunca vuelven a interaccionar el uno con el otro, hasta que una [[Liyun\|pesadilla estable]] les ataca. Aunque Nikaro no tenía una forma física en el momento en el que salvó a Tojin, más tarde él dice haber notado la presencia de Nikaro y que sabía que le había salvado él. Cuando Nikaro pide ayuda a sus amigos, él es el primero en aceptar, y en la [[Batalla de Kilahito\|batalla de Kilahito]] él fue el primero en seguir a Nikaro a gritar «Ahora somos la Guardia del Sueño».
+When in upper school [[Tojin\|Tojin]] and Nikaro were both in a group of friends including [[Akane\|Akane]], [[Izzy\|Izzy]] and [[Masaka\|Masaka]]. Nikaro and Tojin were friends until Tojin discovered Nikaro's lie about getting into the dreamwatch. Afterward Nikaro and Tojin never really interacted with each other, until a [[Liyun\|stable nightmare]] attacked them. Though Nikaro didn't have a physical form at that time he saved Tojin, Tojin later said he had felt Nikaro's presence and knew he had saved him. When Nikaro asked for his friends' help he was the first to agree, and at the [[Battle of Kilahito\|battle of Kilahito]] he was the first after Nikaro to take up the battle cry "We are the dreamwatch now."
 
 ### Masaka
-Nikaro conoció a [[Masaka\|Masaka]] en la escuela cuando ella se unió a su grupo de amigos. Normalmente Masaka es asocial y viste con muchas capas. Una vez le hizo un sombrero a Nikaro por su cumpleaños. Aunque Nikaro no lo descubre hasta más tarde, el nombre de Masaka solía ser Chinikdakordich, y es la decimosexta horda de la [[Cepa Natricatich\|cepa Natricatich]] de los Insomnes. Masaka ayuda a Nikaro y Yumi cuando tratan de hacer un mapa de su mundo, aunque Nikaro es invisible para ella en ese momento.
+Nikaro met [[Masaka\|Masaka]] at upper school when she joined his group of friends. She is usually anti-social and wears lots of clothing. She had once made Nikaro a hat for his birthday.. Though Nikaro did not learn until later, Masaka previously used the name Chinikdakordich, and is the sixtieth horde of the [[Natricatich strain\|Natricatich strain]] of Sleepless. Masaka later helps out Nikaro and Yumi as they try to map out the outside world, though Nikaro is invisible to her at that time.
 
 ### Izzy
-[[Izzy\|Izzy]], también conocida como Izumakamo, se hizo amiga de Nikaro y los otros en la escuela. Es una [[Pintor\|pintora]] de pesadillas excéntrica y siente fascinación por el [[Hion\|hion]]. Junto con los otros, creyó que Pintor había entrado en la Guardia del Sueño, y desconfió mucho de él al descubrir que había mentido. Más tarde, cuando Nikaro pide a sus amigos que le ayuden, ella está en contra, pero Tojin la convence y decide ayudar. Durante la [[Batalla de Kilahito\|batalla de Kilahito]], Izzy se quedó congelada en un momento y se salvó al ser empujada fuera de peligro por Nikaro, quién dibujó un pájaro para hacer retroceder a la pesadilla.
+[[Izzy\|Izzy]], also known as Izumakamo, became friends with Nikaro and the others in upper school. She is an eccentric nightmare [[Painter\|Painter]] and has a fascination with [[Hion\|Hion]]. Along with the others she believed that Painter had joined the dreamwatch, and became very distrustful of him when they discovered he had lied. Later when Nikaro asked his friends to help him at first she was against it, but with Tojin's convincing she decided to help. During the [[Battle of Kilahito\|battle of Kilahito]] Izzy froze at one point and was saved when Nikaro pushed her away and drew a bird to push back the nightmare.
 
 ### Liyun
-La primera vez que Nikaro ve a [[Liyun\|Liyun]] es en su primer intercambio con Yumi. Liyun cree que él es la yoki-haijo y le trata como tal. A Nikaro no le gustó Liyun al principio, ya que pensaba que era demasiado controladora, aunque con el tiempo acabó teniéndole algo de cariño. Más tarde, descubre que Liyun es la pesadilla estable con la que se encontró justo antes de conocer a Yumi. Él le pide que le dé un dibujo a Yumi, y después de dudar un momento ella dice que lo intentará.
+Nikaro first meets [[Liyun\|Liyun]] after he swaps with Yumi for the first time, Liyun believes that he is Yumi and treats her as so. Nikaro dislikes Liyun for a while thinking of her as too controlling. Though he does warm up to her a little over time.. Later he learns that Liyun is the stable nightmare he had met just prior to meeting Yumi. He asks her to give a picture to Yumi, and after a little convincing she said she'd try.
 
-### Diseño
-[[Dise%C3%B1o\|Diseño]] es la propietaria del [[El Pupila del Fideo\|Pupila del Fideo]] y es una [[Cr%C3%ADptico\|críptico]] de [[Roshar\|Roshar]] que se vinculó con [[Hoid\|Hoid]]. Cuando viajaron a este sistema y Hoid se quedó congelado, Diseño abrió la tienda. Ella veía a Nikaro a menudo cuando se pasaba después del trabajo. Cuando Nikaro entró por primera vez en el Pupila del Fideo con Yumi, Diseño se sorprendió al creer que Nikaro estaba muerto. Ellos le explicaron lo que les estaba pasando y ella fue capaz de darles un poco más de información, y continuó ayudándoles hasta que al final les cedió la titularidad de la tienda.
+### Design
+[[Design\|Design]] is the manager of the [[Noodle Pupil\|Noodle Pupil]] and is a [[Cryptic\|Cryptic]] from [[Roshar\|Roshar]] who bonded with [[Hoid\|Hoid]]. They travelled to that system and Hoid froze, and Design started the shop. She would often see Nikaro whenever he stops by after work. When Nikaro first enters the noodle pupil with Yumi is surprised as she believed Nikaro was dead. They explained to her what was happening and she was able to give them more information, she continues to help them out before eventually giving ownership of the shop to them.
 
 ### Sukishi
-Sukishi es un viejo [[Pintor\|pintor]] de [[Pesadilla\|pesadillas]] capataz en [[Kilahito\|Kilahito]]. Sukishi tiene una mala opinión de Nikaro ya que sabe que mintió sobre unirse a la Guardia del Sueño, y a menudo le regaña sobre utilizar bambú todo el tiempo en sus pinturas. A Nikaro no parece importarle mucho su opinión, pero esto lleva a que Sukishi no crea a Yumi cuando ella le dice que Nikaro ha visto a una [[Pesadilla\|pesadilla]] estable.
+Sukishi is an old [[Nightmare\|nightmare]] [[Painter\|painter]] foreman in [[Kilahito\|Kilahito]]. Sukishi has a low opinion of Nikaro as he knows about Nikaro's lie of joining the dreamwatch, and he often berates him about using bamboo all the time in his paintings. Nikaro doesn't really seem to care much at all, and this led to Sukishi not believing Yumi when she said Nikaro had seen a stable [[Nightmare\|nightmare]].
 
-### Señora Shinja
-La señora Sinja vive en el mismo complejo de apartamentos que Nikaro. Se ducha alrededor de las nueve cada mañana y se la conoce por ser posesiva con el agua caliente. Nikaro se ha acostumbrado a ser cuidadoso al usar agua caliente, así como a no ducharse a las nueve para no hacerla enfadar.
-
-## Notas
+### Mrs. Shinja
+Mrs. Shinja lives in the same apartment complex as Nikaro. She showers at about nine o'clock every morning and is known to be very possessive of the hot water. Nikaro has gotten used to being careful with using the hot water as well as showering at nine o'clock lest he anger her.
 
 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] ·  · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
-
-
-
-https://es.coppermind.net/wiki/Nikaro
+https://coppermind.net/wiki/Nikaro

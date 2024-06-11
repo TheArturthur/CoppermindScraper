@@ -1,45 +1,23 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Druffel**|
 |-|-|
-|**Hermanos**|[[Fatren\|Fatren]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
+|**Siblings**|[[Fatren\|Fatren]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
-**Druffel**, a veces llamado **Druff**, es un [[Skaa\|skaa]] de [[Vetitan\|Vetitan]] en [[Scadrial\|Scadrial]].
+**Druffel**, sometimes referred to as **Druff**, is a [[Skaa\|skaa]] from [[Vetitan\|Vetitan]] on [[Scadrial\|Scadrial]].
 
-## Apariencia y Personalidad
-Druffel fue una vez una persona optimista que se reía mucho. Tras el [[Colapso\|Colapso]], en un inicio quería defender Vetitan, pero tras varios años de sufrimiento y temor por los ataques de los [[Koloss\|koloss]], se volvió apático y fatalista. Desconfía de los [[Noble\|nobles]].
+## Appearance and Personality
+Druffel was once an optimistic person who laughed a lot. After the [[Collapse\|Collapse]], he was initially willing to help defend Vetitan, but after several years of hardship and worry about [[Koloss\|koloss]] attacks, he became apathetic and fatalistic. He distrusts [[Noble\|nobles]].
 
-## Historia
-Druffel nació hacia el final del [[Imperio Final\|Imperio Final]]. Como skaa, él y su hermano [[Fatren\|Fatren]] vivieron vidas sencilla en el pequeño pueblo minero y agrícola de Vetitan. Druffel mantuvo una buena actitud a pesar de sufrir condiciones laborales muy pobres en uno de los molinos del lord Legislador.
-Tras el Colapso, Vetitan fue abandonado por la nobleza y los miembros del [[Ministerio de Acero\|Ministerio de Acero]]. Fatren tomó un papel de líder entre los skaa para tratar de mantener a la aldea unida y Druffel sirvió como consejero. Fatren discutió los cambios a los que se enfrentaba el pueblo con Druffel, incluyendo los problemas para hacer crecer los cultivos en la [[/wiki/Scadrial#El mundo de ceniza]] y las [[Brumas\|brumas]] y la amenaza cercana de los ejércitos koloss de la zona. Druffel sugirió que los aldeanos deberían construir un muro defensivo.
-A medida que la situación en el pueblo se volvía más terrible se hizo obvio que no serían capaces de defenderse contra los koloss, Druffel se apartó y se volvió más pesimista, asumiendo que podría morir cualquier día. Cuando [[Elend Venture\|Elend Venture]] llegó al pueblo, Druffel respondió con cautela, incluso desenvainando y blandiendo su espada contra el emperador. Elend simplemente la cogió con [[Alomancia\|alomancia]] y halagó su calidad antes de devolvérsela. Druffel no estaba impresionado por las habilidades de Elend y su naturaleza confiada y fue altamente escéptico con su plan de combatir los koloss.
-Elend sabía que estaba minando la posición de liderazgo de Fatren y le permitió salvar las apariencias fingiendo que el propio Fatren lo había convocado a la ciudad. Fatren le siguió el juego, pero la idea de que su hermano hubiera pedido ayuda a un noble sorprendió y decepcionó a Druffel, que se alejó.
-Druffel estaba presente durante la evacuación de Vetitan después de que Elend y [[Vin\|Vin]] ayudasen a los aldeanos a derrotar a los koloss. Fue visto entrado a caballo al campamento de [[Demoux\|Demoux]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:45, 31 August 2021 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+Druffel was born towards the end of the [[Final Empire\|Final Empire]]. As a skaa, he and his brother [[Fatren\|Fatren]] lived simple lives in the small farming and mining town of Vetitan. Druffel maintained a good attitude despite suffering poor working conditions in one of the Lord Ruler's mills.
+After the Collapse, Vetitan was abandoned by the nobility and members of the [[Steel Ministry\|Steel Ministry]]. Fatren took a leadership role among the skaa to try and hold the town together, and Druffel served as an advisor. Fatren discussed the challenges faced by the city with Druffel, including their struggle to grow crops in the [[/wiki/Scadrial#The World of Ash]] and [[Mists\|mists]] and the looming threat of nearby koloss armies. Druffel suggested that the townspeople should build a bulwark around the city to provide some protection.
+As the situation in the city became increasingly dire and it was obvious that they would not be able to defend themselves against the koloss, Druffel became detached and pessimistic, assuming that he could die any time. When [[Elend Venture\|Elend Venture]] arrived to the town, Druffel was wary, even drawing his sword on the emperor. Elend simply took it with [[Allomancy\|Allomancy]] and praised its quality before handing it back. Druffel was unimpressed by Elend's abilities and confident nature, and was highly skeptical of his plan to fight the koloss.
+Elend knew that he was undermining Fatren's leadership position, and allowed him to save face by pretending that Fatren had summoned him to the city. Fatren went along with the ruse, but the idea of his brother asking a noble for help shocked and disappointed Druffel, and he stalked away.
+Druffel was present during the evacuation of Vetitan after Elend and [[Vin\|Vin]] helped the townspeople successfully defeat the koloss. He was seen riding a horse into [[Demoux\|Demoux's]] camp.
 
 
 
-https://es.coppermind.net/wiki/Druffel
+https://coppermind.net/wiki/Druffel

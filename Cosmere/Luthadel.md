@@ -1,126 +1,103 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Luthadel**|
 |-|-|
 ||
-|**Dominio**|[[Dominio Central\|Dominio Central]]🐱︎|
-|**Nación**|[[Imperio Final\|Imperio Final]]🐱︎|
-|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Dominance**|[[Central Dominance\|Central Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Luthadel** es la capital del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]].
+**Luthadel** is the capital city of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Organización. [[#Organizaci.C3.B3n]] 
+1 Geography. [[#Geography]] 
+2 Organization. [[#Organization]] 
 
-2. [[#Distritos]] 
-2. [[#Puertas]] 
-2. [[#Otros lugares]] 
-
-
-3 Historia. [[#Historia]] 
-4 Política. [[#Pol.C3.ADtica]] 
-5 Habitantes importantes. [[#Habitantes importantes]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+2. [[#Districts]] 
+2. [[#Gates]] 
+2. [[#Other Locations]] 
 
 
-## Geografía
-  <<Vin\|Vin>> mirando sobre la ciudad
-Para más imágenes, ver [[Luthadel/Galer%C3%ADa\|/Galería]].
-Ubicada en el centro del [[Dominio Central\|Dominio Central]], Luthadel fue el centro cultural y político del Imperio Final durante el reinado del [[Lord Legislador\|lord Legislador]]. Curiosamente, Luthadel no estaba particularmente avanzada tecnológicamente, seguramente debido a los continuos esfuerzos del lord Legislador para suprimir el desarrollo tecnológico.
-Luthadel también era única en el Imperio Final ya que era la única ciudad a la que se le permitía tener murallas. Mientras que otras pocas ciudades tenían fortificaciones naturales ([[Ciudad Fadrex\|Ciudad Fadrex]], por ejemplo, estaba rodeada de formaciones rocosas que actuaban como una barrera natural contra los ataques), el lord Legislador solo permitió fortificaciones hechas por el hombre alrededor de su ciudad. Curiosamente, esta muralla parece haber funcionado más como un símbolo de estatus que como defensa real, ya que las ocho puertas estaban espaciadas aproximadamente a la misma distancia alrededor del perímetro, y la altura de la muralla no era suficiente para prevenir que los [[Koloss\|koloss]] la escalasen una vez que hubiese suficientes cuerpos suyos en la base.
-Como todas las principales ciudades del Imperio Final, Luthadel fue construida cerca de varias minas, lo que dificultó la capacidad de [[Ruina\|Ruina]] para supervisar el establecimiento de los almacenes del lord Legislador.
-Luthadel también se sitúa junto a un lago que lleva el nombre de [[Lago Luthadel\|lago Luthadel]].
+3 History. [[#History]] 
+4 Politics. [[#Politics]] 
+5 Notable Residents. [[#Notable Residents]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Organización
+## Geography
+  <<Vin\|Vin>> looking over the city
+For more images, see [[Luthadel/Gallery\|/Gallery]].
+Located in the center of the [[Central Dominance\|Central Dominance]], Luthadel was the cultural and political center of the Final Empire during the [[Lord Ruler\|Lord Ruler's]] reign. Interestingly, Luthadel was not particularly advanced technologically, likely due to the Lord Ruler's continuing efforts to suppress technological development.
+Luthadel was also unique in the Final Empire in that it was the only city allowed to have a city wall. While a few other cities had natural fortifications ([[Fadrex City\|Fadrex City]], for example, was surrounded by rocky outcroppings that acted as a natural barrier against attack), the Lord Ruler only allowed man made fortifications around his city. Interestingly, this wall seems to have acted more as a status symbol than actual defense, since the 8 gates were spaced roughly equidistant around the perimeter, and the height of the wall was not sufficient to prevent [[Koloss\|koloss]] from scaling the wall once enough of their bodies lay at its base.
+Like all major cities in the Final Empire, Luthadel was built near a number of mines, thus hampering the ability of [[Ruin\|Ruin]] to monitor the establishment of the Lord Ruler's stockpiles.
+Luthadel also sits next to a lake bearing the name of [[Lake Luthadel\|Lake Luthadel]].
 
 
-  Mapa de Luthadel
-### Distritos
+## Organization
 
-[[Los Quiebros\|Los Quiebros]]
-Laberintos de ceniza
-Calle Aspen
-Distrito de hoteles
-[[Puerta Vieja\|Puerta Vieja]]
-Distrito comercial
-Las Grietas
-Puerta del sur
-Puerta de Latón
-Distrito Industrial
-Calle Bloqueada
-Laberintos de hollín
+
+  Map of Luthadel
+### Districts
+
+The Twists
+Ashwarrens
+Aspen Row
+Hotel District
+Old Gate
+Commercial District
+The Cracks
+Southbridge
+Brassgate
+Industrial District
+Blockstreet
+Sootwarrens
 Grainfield
 
-### Puertas
+### Gates
 
-Puerta de Acero
-Puerta de Hierro
-Puerta de Bronce
-Puerta de Cobre
-Puerta de Latón
-Puerta de Zinc
-Puerta de Peltre
-Puerta de Estaño
+Steel Gate
+Iron Gate
+Bronze Gate
+Copper Gate
+Brass Gate
+Zinc Gate
+Pewter Gate
+Tin Gate
 
-### Otros lugares
-Para una lista completa, ver :Categoría:Luthadel.
-[[Encrucijada Cuatropozos\|Encrucijada Cuatropozos]]
-[[Calle Kenton\|Calle Kenton]]
-## Historia
-  La Puerta de Peltre
-[[Rashek\|Rashek]] inicialmente concivió la idea de Luthadel mientras tenía el poder del [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]]. Durante esos momentos de conciencia mejorada, Rashek comprendió la magnitud del peligro que representaba Ruina, y entendió que sería incapaz de derrotarlo usando el poder del pozo. Entonces ideó un plan para controlar el poder del Pozo de la Ascensión, haciéndose un protector de la humanidad inmortal contra la fuerza completa de Ruína. Para garantizar la seguridad del pozo, Rashek cambió significativamente la geografía de la zona y finalmente construyó su palacio encima de la única entrada al complejo de cuevas que lo albergaba.
-Hay pruebas significativas de que Luthadel no fue perfectamente planificada desde el principio, desde la construcción única y fragmentada de [[Kredik Shaw\|Kredik Shaw]] hasta la presencia del distrito de la "Puerta Vieja". Curiosamente, no hay mención de la construcción de antiguas murallas alrededor de la ciudad (Jerusalén es un ejemplo clásico de una ciudad que crece más allá de sus murallas, y posteriormente se expande construyendo afuera). Se desconoce si esto se debe a una construcción relativamente tardía de la muralla de la ciudad, o si el lord Legislador simplemente ordenó derribar secciones antiguas cuando se añadieron nuevas murallas. Dada la relativa abundancia de mano de obra [[Skaa\|skaa]], ambas opciones son posibles.
+### Other Locations
+For a full list see, see :Category:Luthadel.
+[[Fourwell Crossroads\|Fourwell Crossroads]]
+[[Kenton Street\|Kenton Street]]
+## History
+  The Pewter Gate
+[[Rashek\|Rashek]] initially conceived of the idea of Luthadel while he held the power of the [[Well of Ascension\|Well of Ascension]]. During those moments of enhanced consciousness, Rashek learned the full extent of the danger posed by Ruin, and learned that he would be unable to truly defeat Ruin using the power of the Well of Ascension. He therefore devised a plan to control the power of the Well of Ascension, making himself an immortal protector of mankind from the full force of Ruin. In order to guarantee the security of the well, Rashek significantly changed the geography of the area, and eventually built his palace on top of the only entrance to the cave complex that housed the well.
+There is significant evidence to the fact that Luthadel was not perfectly planned from the beginning, from the unique, piecemeal construction of [[Kredik Shaw\|Kredik Shaw]] to the presence of the "[[Old Gate\|Old Gate]]" district. Interestingly, there is no mention of old city walls being built around (Jerusalem is a classical example of a city outgrowing its wall, and subsequently building out). Whether this is due to a relatively late entrance of the city wall, or if the Lord Ruler merely mandated tearing down old sections when new walls were added is unknown. Given the relative abundance of [[Skaa\|skaa]] manpower, either option is possible.
 
-  <<Vin\|Vin>> volando sobre la ciudad
-No hay registros de ataques a Luthadel durante el mandato del lord Legislador. Si realmente hubo algún ataque es desconocido, dado la tendencia del lord Legislador a ocultar las deficiencias de su gobierno. El único asalto conocido a la ciudad ocurrió aproximadamente un año después de la muerte del lord Legislador. En ese momento, la ciudad era gobernada por [[Elend Venture\|Elend Venture]], en su capacidad como rey del Dominio Central. Luthadel estaba sitiada por tres ejércitos simultáneamente, incluyendo uno formado por koloss. El asedio culminó con el ataque del ejército de koloss, representando la única ocasión en que las murallas de Luthadel fueron exitosamente superadas por un ejército enemigo.
-Después de la instalación de lord [[Ferson Penrod\|Penrod]] como rey vasallo bajo el emperador Venture, Luthadel experimentó un breve período de relativa estabilidad y prosperidad. Este periodo terminó cuando [[Marsh\|Marsh]], el [[Inquisidor de acero\|inquisidor de acero]] principal, implantó un clavo hemalúrgico en lord Penrod. Entre los susurros de Ruina y los desastres crecientes, Lord Penrod fue incapaz de mantener eficazmente el orden en Luthadel. Más adelante, lord Penrod se dio cuenta de la magnitud de los problemas, y ordenó la evacuación de Luthadel a los cercanos [[Pozos de Hathsin\|Pozos de Hathsin]], donde el pueblo de [[Terris\|Terris]] se había establecido.
-Posteriormente, Luthadel fue destruida por una combinación de actividad volcánica y fuegos extremos cuando [[Vin\|Vin]] se hizo con el poder de [[Conservaci%C3%B3n\|Conservación]]. Los últimos vestigios de la ciudad, excepto por una porción de Kredik Shaw que fue forzada a estar bajo tierra, fueron borrados durante la recreación del mundo que vino a continuación.
+  <<Vin\|Vin>> flying over the city
+There were no recorded attacks on Luthadel during the Lord Ruler's tenure there. Whether there actually were any attacks is unknown, given the Lord Ruler's tendency to hide the shortcomings of his rule. The only known assault of the city occurred approximately one year after the Lord Ruler's death. At the time, the city was ruled by [[Elend Venture\|Elend Venture]], in his capacity as King of the Central Dominance. Luthadel was besieged by three armies simultaneously, including one army of koloss. The siege culminated with the koloss army attacking, representing the only time that the walls of Luthadel were successfully breached by an opposing army.
+Following Lord [[Ferson Penrod\|Penrod's]] installation as a subject king under Emperor Venture, Luthadel experienced a brief period of relative stability and prosperity. This period ended when [[Marsh\|Marsh]], the head [[Steel Inquisitor\|Steel Inquisitor]], implanted a hemalurgic spike into Lord Penrod. Between the whisperings of Ruin and the increasing disasters, Lord Penrod was unable to effectively maintain order in Luthadel. Eventually, Lord Penrod realized the extent of the problems, and ordered the evacuation of Luthadel to the nearby [[Pits of Hathsin\|Pits of Hathsin]], where the [[Terris\|Terris]] people had established themselves.
+Luthadel was subsequently destroyed by a combination of volcanic activity and extreme fires when [[Vin\|Vin]] gained the power of [[Preservation\|Preservation]]. The last remnants of the city, except for a portion of Kredik Shaw which was forced underground, were erased during the remaking of the world that followed.
 
-## Política
-  Las fortalezas de Luthadel
-En el Imperio Final, Luthadel era la sede no solo del lord Legislador, sino también de las casas nobles más poderosas. La señal de una "Gran Casa" era la habilidad de mantener una fortaleza en Luthadel. En el momento de los eventos de *Nacidos de la bruma*, existían 10 de estas fortalezas. Si este número fue establecido por el lord Legislador o surgió naturalmente, no está claro. Sin embargo, sí está claro que estas fortalezas cambiaban frecuentemente de manos, debido tanto a los enormes impuestos que exigía el lord Legislador contra las Grandes Casas, como a la inestabilidad general que fomentaba.
-Antes de que [[Kelsier\|Kelsier]] escapase de los [[Pozos de Hathsin\|Pozos de Hathsin]], la posición de las casas era relativamente estable, y lo había sido por algún tiempo. En orden de posición, las diez Grandes Casas eran las siguientes:
-
-
+## Politics
+  The keeps of Luthadel
+In the Final Empire, Luthadel was the seat of not only the Lord Ruler, but also the most powerful noble houses. The mark of a "Great House" was the ability to maintain a keep in Luthadel. At the time of the events in Mistborn, 10 such keeps existed. Whether this number was established by the Lord Ruler, or arose naturally, is unclear. It is clear, however, that these keeps frequently changed hands, due both to the tremendous taxes levied by the Lord Ruler against the Great Houses, and the general unrest that the Lord Ruler fostered.
+Before [[Kelsier\|Kelsier]] escaped the [[Pits of Hathsin\|Pits of Hathsin]], House standings were relatively stable, and had been for some time. In order of standing, the ten Great Houses were these:
 
 
-Tras la muerte del lord Legislador, todos los miembros de las Grandes Casas huyeron de Luthadel, con la excepción de Elend Venture, quien estableció un nuevo gobierno, una monarquía constitucional. El rey tenía el poder ejecutivo, así como el mando de los ejércitos y el poder de hacer tratados.El parlamento de 24 personas (que inicialmente incluía a Elend, aunque también era rey) actuaba como rama legislativa y tenía el poder de invocar una cláusula de desconfianza para deponer al rey en ejercicio. Esta cláusula fue invocada con éxito durante el asedio de Luthadel, cuando lord Penrod fue elegido como rey en lugar de Elend Venture.
 
-## Habitantes importantes
-Para ver una lista completa, ver :Categoría:Habitantes de Luthadel.
+
+Following the death of the Lord Ruler, all of the members of the Great Houses fled Luthadel, with the exception of Elend Venture, who established a new government, a constitutional monarchy. The King held the executive power, as well as commanding the armies and having power of treaties. The 24-man parliament (which initially included Elend, even though he was also King), acted as a legislative branch, and had the power to invoke a no-confidence clause to depose the sitting king. This clause was successfully invoked during the siege of Luthadel, when Lord Penrod was elected as king in place of Elend Venture.
+
+## Notable Residents
+For a full list see, see :Category:Residents of Luthadel.
 [[Elend Venture\|Elend Venture]]
 [[Vin\|Vin]]
-[[Lord Legislador\|Lord Legislador]]
+[[The Lord Ruler\|The Lord Ruler]]
 [[Kelsier\|Kelsier]]
-## Curiosidades
-Luthadel estaba ubicada en el polo norte magnético, y todas las brújulas apuntaban hacia ella.
-La ciudad de Luthadel y el [[Canal de Luth-Davn\|canal de Luth-Davn]] has sido nombrados en honor a una persona, probablemente Lutha, pero Brandon no ha sido concluyente sobre si su historia será mencionada en futuros libros.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] ·  · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Luthadel was located at the magnetic North pole, and all compasses pointed to it.
+The city of Luthadel and the [[Luth-Davn Canal\|Luth-Davn Canal]] are named for a person, likely Lutha, but Brandon has been non-committal about whether their story will be mentioned in future books.
 
 
-
-https://es.coppermind.net/wiki/Luthadel
+https://coppermind.net/wiki/Luthadel

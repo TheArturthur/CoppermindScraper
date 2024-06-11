@@ -1,158 +1,136 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Armadura esquirlada**|
+|**Shardplate**|
 |-|-|
 ||
-|**Relacionado con**|[[Caballeros Radiantes\|Caballeros Radiantes]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Knights Radiant\|Knights Radiant]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
-
->“*La esquirlada no era solo una armadura. Era mucho más.*”
+>“*Shardplate wasn't merely armor. It was so much more.*”
 \-Dalinar[1]
 
 
-La **armadura esquirlada** es un tipo de armadura de cuerpo entero antigua y mágica que se encuentra en [[Roshar\|Roshar]].  Las armaduras esquirladas usadas por los Radiantes son [[/wiki/Spren#Spren menores]] que han tomado una forma física, y como tales son [[Astilla\|Astillas]] de las [[Esquirla\|Esquirlas]] [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]]. Suelen usarse con [[Hoja esquirlada\|hojas esquirladas]], espadas investidas que también existen en Roshar, ya que las hojas esquirladas son tan grandes que resultan poco manejables por sí solas. Aquellos que están vinculados a una armadura esquirlada son conocidos como portadores de esquirlada.
+**Shardplate** is an ancient and magical type of full-body armor found on [[Roshar\|Roshar]]. Shardplates used by Radiants are [[/wiki/Spren#Lesser Spren]] who have taken a physical form, and as such are [[Splinter\|Splinters]] of [[Shard\|Shards]] [[Honor\|Honor]] and [[Cultivation\|Cultivation]]. They are usually used with [[Shardblade\|Shardblades]], Invested swords that also exist on Roshar, as Shardblades are so large that they are unwieldy on their own. Those who are bound to a Shardplate are referred to as Shardbearers.
 
-## Sumario
+## Contents
 
-1 Habilidades. [[#Habilidades]] 
+1 Abilities. [[#Abilities]] 
 
-1. [[#Caracter.C3.ADsticas generales]] 
-1. [[#Protecci.C3.B3n]] 
-1. [[#Vulnerabilidad]] 
-
-
-2 Tipos. [[#Tipos]] 
-
-2. [[#Armaduras esquirladas Radiantes]] 
-2. [[#Armaduras esquirladas muertas]] 
+1. [[#General Characteristics]] 
+1. [[#Protection]] 
+1. [[#Vulnerability]] 
 
 
-3 Adquisición y colocación. [[#Adquisici.C3.B3n y colocaci.C3.B3n]] 
+2 Types. [[#Types]] 
+
+2. [[#Radiant Shardplates]] 
+2. [[#Dead Shardplates]] 
+
+
+3 Acquiring and Donning. [[#Acquiring and Donning]] 
 4 Cosmere. [[#Cosmere]] 
 
-4. [[#Origen]] 
+4. [[#Origin]] 
 
 
-5 Portadores de esquirlada conocidos. [[#Portadores de esquirlada conocidos]] 
+5 Known Shardbearers. [[#Known Shardbearers]] 
 
-5. [[#Armaduras esquirladas Radiantes 2]] 
-5. [[#Armaduras esquirladas muertas 2]] 
-
-
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5. [[#Radiant Shardplates 2]] 
+5. [[#Dead Shardplates 2]] 
 
 
-## Habilidades
-### Características generales
-Para más imágenes de armaduras esquirladas, ver [[Armadura esquirlada/Galer%C3%ADa\|/Galería]].
-  Una sección del pergamino, recogida por <<Nazh\|Nazh>>, muestra a un portador de esquirlada ejecutando con éxito la [[/wiki/Posturas B%C3%A1sicas#Postura del hierro]].
->“*Un solo hombre con armadura y hoja era casi un ejército en sí mismo.*”
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
+
+
+## Abilities
+### General Characteristics
+For more images of Shardplate, see [[Shardplate/Gallery\|/Gallery]].
+  A section of scroll, collected by <<Nazh\|Nazh>>, depicts a Shardbearer successfully using [[/wiki/Stances#Ironstance]].
+>“*A single man with Plate and Blade was almost an army unto himself.*”
 \-Dalinar[7]
 
 
-Un conjunto de armadura esquirlada está formado por piezas individuales que, una vez ensambladas, protegen todo el cuerpo. No hay espacios entre las secciones de la armadura, sólo pequeñas placas superpuestas. Los yelmos de armadura esquirlada tienen viseras con aberturas para los ojos que pueden levantarse para dejar la cara al descubierto. Aunque su aparencia es similar, cada conjunto de armadura esquirlada tiene un aspecto único, y debido a que se ajusta a la forma de su portador, el mismo equipo puede parecer único en diferentes individuos. Los conjuntos de armadura esquirlada pueden pesar más de 100 pesos de piedra.
-La armadura esquirlada no se abolla ni se dobla. En cambio, las secciones de la armadura pueden agrietarse tras impactos fuertes o repetidos, y con el tiempo fallarán. Cuando una sección de la armadura falla, explota en trozos de metal fundido. Las secciones dañadas tendrán fugas de luz tormentosa. Aunque un número suficiente de fugas agotará las gemas y hará que la armadura se bloquee, las fugas individuales, incluso las más grandes, acabarán "sellándose" por sí solas, evitando que se siga perdiendo luz tormentosa, aunque el daño aún no se haya curado del todo.
-El casco de la armadura esquirlada tiene una pantalla facial con una hendidura horizontal para los ojos que facilita la visibilidad. En algunos casos, la visera puede adaptarse para proteger la visión del usuario del brillo de un rayo. Se da a entender que, cuando está cerrado, los bordes del visor se funden en una superficie única e ininterrumpida con el resto del yelmo en una pequeña nube de bruma.
-La armadura esquirlada también mejora enormemente la fuerza y la velocidad de sus usuarios. Permite saltar grandes distancias, levantar objetos de gran peso y correr a gran velocidad. La fuerza que otorga la armadura esquirlada es tal que Dalinar Kholin es capaz de atrapar el golpe de la pata de un abismoide y mantener a raya a la criatura el tiempo suficiente para que Adolin pueda debilitarla aún más, aunque su armadura resultó gravemente dañada por el esfuerzo. El apoyo adicional de la armadura esquirlada puede ayudar a su portador a superar heridas físicas que, de otro modo, podrían dejarlo incapacitado. Los portadores de esquirlada requieren un entrenamiento exhaustivo para poder controlar esta fuerza y moverse con soltura sin dañar objetos cotidianos. La agilidad y la destreza aumentan con ellas. Una persona armada con una armadura de este tipo adquiere reflejos más rápidos y es más rápida en combate. La armadura esquirlada impulsa a quien la lleva a moverse y a entrar en acción.
+A set of Shardplate is constructed of individual pieces that, when assembled, protect the entire body. There are no gaps between sections of the armor, only increasingly small overlapping Plates. Shardplate helms have visors with eye slits that may be lifted up to expose the face. Although similar in appearance, each individual suit of Shardplate has a unique look, and because it conforms to the shape of its wearer, the same suit may appear unique on different individuals. Suits of Shardplate can weigh over 100 stoneweights.
+Shardplate does not dent or bend. Instead, sections of the armor can crack after heavy or repeated impact and will eventually fail. When a section of the armor fails, it will explode into bits of molten metal. Damaged sections will leak Stormlight. While enough leaks will deplete the gemstones and cause the armor to lock up, individual leaks, even large ones, will eventually "seal over" on their own, preventing further loss of Stormlight, even if the damage hasn't fully healed yet.
+The Shardplate helmet has a face shield with a horizontal eye slit for visibility. In some instances, the face shield can adapt to protect the wearer's vision from the brightness of a lightning strike. It is implied that when closed, the edges of the visor meld into a single, unbroken surface with the rest of the helm in a small puff of mist.
+Shardplate also greatly enhances its users' strength and speed. It provides the ability to jump great distances, heave objects of great weight, and run at high speeds. The strength that is granted by Shardplate is such that Dalinar Kholin is able to catch a chasmfiend's swinging foreclaw and hold the creature at bay long enough for Adolin to further weaken it, although his Plate was severely damaged by the strain. The extra support of Shardplate can assist the wearer in overcoming physical injuries that might otherwise leave them incapacitated. Shardbearers require extensive training to be able to control this strength and move smoothly without damaging everyday objects. Agility and dexterity are increased by Shardplate. A person armored in Shardplate acquires faster reflexes and is more responsive in battle. Shardplate urges those who wear it to move and take action.
 
-### Protección
-La armadura esquirlada proporciona protección contra los impactos causados por un arma o por una caída. El individuo que lleva la armadura es capaz de sentir los impactos desde el interior de la armadura, pero su fuerza se reduce considerablemente. La sensación del tacto, sin embargo, se transfiere a través de los dedos de los guanteletes, lo que permite al portador sentir los pequeños detalles. La armadura esquirlada es lo bastante resistente como para soportar disparos. También es muy conductora y transmite la electricidad como una caja de Faraday, permitiendo que la electricidad fluya a través de la armadura y no del cuerpo, protegiendo al portador de los ataques de la [[/wiki/Regios#Forma tormenta]]. Las armaduras esquirladas son muy pesadas, por lo que es difícil que el portador de esquirlada tropiece o trastabille.
-La armadura esquirlada difiere de la armadura ordinaria en que puede detener golpes de una [[Hoja esquirlada\|hoja esquirlada]] u otros ataques altamente Investidos. Esta capacidad no es ilimitada, ya que el daño aún puede agrietar e incluso romper la armadura con golpes repetidos. Pero la armadura esquirlada es uno de los pocos materiales que pueden bloquear o resistir un golpe de una hoja esquirlada en cualquier grado, aparte de otra hoja esquirlada o una [[Semiesquirla\|semiesquirla]]. La armadura también está diseñada para mantener la temperatura y el soporte vital, y es lo bastante fuerte como para proteger al usuario de un calor que podría quemar viva a una persona en cuestión de segundos.
-Debido a su naturaleza fuertemente Investida, la armadura esquirlada protege al usuario de la mayoría de las formas de [[Investidura\|Investidura]], incluida la potenciación, aunque este efecto se debilita si se le han quitado partes, como el yelmo. No es posible enlazar a alguien con armadura esquirlada. Tampoco es posible que el portador de una hoja de Honor utilice la potenciación mientras lleva armadura, debido a la interferencia de las gemas. El yelmo también protege al portador de la alomancia emocional.
+### Protection
+Shardplate provides protection from impact caused by a weapon or from a fall. The individual wearing the Plate is able to feel impacts from within the armor, but their force is greatly reduced. The sensation of touch, however, is transferred through the fingers of the gauntlets, allowing the wearer to feel fine detail. Shardplate is durable enough to withstand gunshots. Shardplate is also highly conductive and transmits electricity like a Faraday cage -- allowing electricity to flow through the plate and not the body -- protecting the wearer from attacks by [[/wiki/Regal#Stormform]]. Shardplates are very heavy and thus it is hard to trip or stumble the Shardbearer.
+Shardplate differs from ordinary armor in that it can stop blows from [[Shardblade\|Shardblades]] or other highly Invested attacks. This capacity is not unlimited, as damage can still crack and even break the Plate with repeated blows. But Shardplate is one of the few materials that can block or resist a Shardblade strike to any degree, apart from another Shardblade or a [[Half-shard\|half-shard]]. Shardplate is also designed to maintain temperature and life support, and is strong enough to protect a user from heat that could burn a person alive in seconds.
+Due to its heavily Invested nature, Shardplate protects the user from most forms of [[Investiture\|Investiture]], including Surgebinding, though this effect is weakened if parts, such as the helm, have been removed. It is not possible to use any lashings against someone armored in Shardplate. It is also not possible for a wielder of an Honorblade to Surgebind while wearing Plate, due to interference from the gemstones. The helmet also protects the wearer from emotional [[Allomancy\|Allomancy]].
 
-### Vulnerabilidad
-  Un portador de esquirlada saltando a la batalla
-Aunque es increíblemente fuerte, la armadura esquirlada no es invencible. Los impactos repetidos en las mismas zonas pueden hacer que esa pieza de la armadura se agriete y pierda luz tormentosa, agotándola a un ritmo mayor. Una vez agotada la luz tormentosa, la armadura se "congelará" y quedará inmóvil.
-Las secciones individuales de la armadura pueden agrietarse hasta el punto de fallar. Cuando esto pasa, la pieza de armadura explota en trozos de metal fundido, dejando expuesta esa zona del guerrero. Un portador de esquirlada puede permanecer en combate con algunas piezas de armadura perdidas, pero, por ejemplo, destruir unas  puede incapacitar a un portador de esquirlada al impedirle soportar el peso de la armadura. Además, la pechera es una estructura de soporte central para la armadura esquirlada; destruirla hará que la armadura deje de funcionar por completo, dificultando el movimiento de las extremidades. Es posible levantarse del suelo con una pechera rota, pero la maniobra requiere cierta experiencia con la armadura.
-En combate cuerpo a cuerpo, el punto más vulnerable de la armadura es la hendidura del ojo. Con suerte o habilidad, o sujetando de algún modo al portador de esquirlada, puede clavarse un cuchillo, una flecha o una lanza a través de la hendidura; en ese punto concreto, muchas heridas serán mortales al instante. Cuando cargan contra las flechas, los portadores de esquirlada suelen cubrirse la hendidura del ojo con los brazos para evitar los impactos afortunados.
-También hay una serie de tácticas que pueden utilizar los enemigos preparados contra la armadura esquirlada. Es increíblemente pesada; aunque protege al portador de una caída, ésta puede dañar la armadura. Una táctica empleada contra los portadores de esquirlada es obligarlos a caer desde una gran distancia, ya sea empujándolos directamente por un borde o colocándolos en una posición en la que su gran peso, o tal vez algún otro mecanismo, haga que lo que sea que estén pisando se desmorone, dejando caer al portador de esquirlada.
-Otra táctica común es atar al portador de esquirlada con ganchos o cuerdas. Aunque la fuerza de un portador de esquirlada es mayor, un número suficiente de personas que lo sujeten con ganchos o cuerdas puede ralentizarlo lo suficiente como para asestarle golpes; también se pueden colgar cuerdas en horizontal para intentar hacer tropezar al portador de esquirlada.
-También se pueden utilizar proyectiles contundentes contra la armadura esquirlada. En la [[Batalla de la Torre\|batalla de la Torre]], los [[Oyente\|oyentes]] utilizan hondas a dos manos para lanzar rocas del tamaño de cabezas contra Dalinar; un solo golpe es suficiente para hacer grietas en una sección ilesa de la armadura.
-Las armas de filo o puntiagudas (flechas, lanzas, espadas) no suelen tener fuerza suficiente para dañar la armadura, pero si ésta ya está agrietada y una arista la alcanza, el golpe puede ensanchar la grieta. Es concebible que un portador de esquirlada, acostumbrado a ignorar golpes de lanza que normalmente apenas arañarían su pintura, no esté preparado para responder a un uso eficaz de esta debilidad.
+### Vulnerability
+  A Shardbearer leaping into battle
+Although incredibly strong, Shardplate is not invincible. Repeated impacts to the same areas can cause that piece of the armor to crack and leak Stormlight, depleting it at a higher rate. Once the Stormlight is exhausted, the armor will "freeze up" and be rendered immobile.
+Individual sections of Plate can be cracked to the point of failure. Upon failure, the piece of armor explodes into bits of molten metal, leaving that area of the warrior exposed. A Shardbearer can remain in combat with some pieces of armor missing, but, for example, destroying a  can incapacitate a Shardbearer by rendering them unable to support the armor's weight. Also, the breastplate is a central support structure for Shardplate; destroying the breastplate alone will cause the armor to stop functioning fully, making it difficult to move the limbs. It is possible to stand up from the ground with a broken breastplate, but the maneuver requires some experience with Plate.
+In close combat, the single most vulnerable spot on Plate is the eye slit. With luck or skill, or by somehow restraining the Shardbearer, a knife, arrow, or spear can be stabbed through the slit; at that specific spot, many wounds will be instantly fatal. When charging against arrows, Shardbearers usually cover their eye slit with their arms to prevent lucky hits.
+There are also a number of tactics that can be used by prepared enemies against Shardplate. The armor is incredibly heavy; though it will protect the wearer from a fall, the fall can still damage the Plate. One tactic used against Shardbearers is to force them to fall a great distance, either by directly pushing them over an edge or by putting them in a position where their great weight, or perhaps some other mechanism, will cause whatever they're walking on to fall apart, dropping the Shardbearer.
+Another common tactic is to bind the Shardbearer with hooks or ropes. Though a Shardbearer's strength is enhanced, enough people holding them back with hooks or ropes can slow them down enough for blows to be struck; ropes can also be strung horizontally to attempt to trip the Shardbearer.
+Massive, blunt projectiles can also be used against Shardplate. At the [[Battle of the Tower\|Battle of the Tower]], [[Listener\|listeners]] use two-handed slings to hurl head-sized rocks at Dalinar; a single blow is enough to make cracks in an unharmed section of Plate.
+Bladed or pointed weapons (arrows, spears, swords) typically don't carry enough force to damage Plate, but if Plate is already cracked and an edge catches it, the blow can widen the crack. It's conceivable that a Shardbearer, used to ignoring spear strikes that would normally barely scratch their paint, might be unprepared to respond to an effective use of this weakness.
 
-## Tipos
-Había dos tipos principales de armaduras esquirladas usadas en Roshar durante la [[Era de la Soledad\|Era de la Soledad]]. Eran las armaduras esquirladas de los Radiantes habituales, y las armaduras esquirladas de los Radiantes muertos que abandonaron sus juramentos en la [[Traici%C3%B3n\|Traición]].
+## Types
+There were two main types of Shardplates used on Roshar during the [[Era of Solitude\|Era of Solitude]]. They were the Shardplates of the typical Radiants, and the dead Shardplates of the Radiants who abandoned their oaths at the [[Recreance\|Recreance]].
 
-### Armaduras esquirladas Radiantes
->“*Voy a dar por hecho que nadie de aquí ha visto nunca una armadura esquirlada en acción. Quédate atrás y disfruta de lo que viene.*”
+### Radiant Shardplates
+>“*I’ll assume none of you have seen Shardplate in action before. Stand back and enjoy this next part.*”
 \-Zellion[23]
 
 
-Las armaduras esquirladas Radiantes se conceden a las personas que están en el camino de convertirse en un Radiante completo y han hecho un juramento particular de las [[Palabras Inmortales\|Palabras Inmortales]]. La mayoría de las Órdenes adquieren la armadura esquirlada tras jurar el Cuarto Ideal. En ese momento, el Radiante obtendrá la habilidad de atraer [[/wiki/Spren#Spren menores]] al Reino Físico para crear la armadura esquirlada. Cada Orden tiene sus propios spren menores, que están asociados a su spren Nahel, por ejemplo los [[Vientospren\|vientospren]] para [[Honorspren\|honorspren]] o [[Logispren\|logispren]] para los [[Tintaspren\|tintaspren]]. Los spren menores acompañarán perpetuamente al Radiante, aunque invisibles, y se manifestarán cuando se les llame. Los Radiantes pueden oír a sus spren menores aullar de dolor o enfado cuando son atacados.
-Un Radiante no puede invocar su armadura esquirlada por primera vez si no está en [[Roshar\|Roshar]], pero puede invocarla fuera del mundo si ya lo ha hecho antes. La armadura se alimentará automáticamente de la luz tormentosa de su potenciador para alimentarse y curarse a sí misma. Parece que algunos Radiantes son capaces de potenciar mientras llevan puesta su armadura, aunque esta les protege de las Potencias que usen otros.
-Brilla intensamente con el resplandor de la luz tormentosa y los glifos resplandecientes, aunque el Radiante puede hacer que aparezca como una armadura «muerta». En estado semidesaparecido, la armadura sólo es visible como un contorno tenue, y no se puede sentir al tacto. Desde el interior, el casco es tan transparente como el cristal y la abertura ocular no es necesaria y puede sellarse. Los Radiantes pueden controlar su armadura esquirlada con más precisión -- por ejemplo, hacer que sólo una parte de ella aparezca o desaparezca o que cambie de forma hasta cierto punto. Además, los [[Corredores del Viento\|Corredores del Viento]] son capaces de formar su armadura alrededor de otros al menos temporalmente.
+Radiant Shardplates are granted to people who are on the path to becoming a full Radiant and have sworn a particular oath of the [[Immortal Words\|Immortal Words]]. Most Orders acquired Shardplate after swearing the Fourth Ideal. At that point, the Radiant will gain the ability to pull [[/wiki/Spren#Lesser Spren]] into the Physical Realm to create the Shardplate. Each Order has its own lesser spren, which are associated with their Nahel Spren, for example [[Windspren\|windspren]] for [[Honorspren\|honorspren]] or [[Logicspren\|logicspren]] for [[Inkspren\|inkspren]]. The lesser spren will perpetually accompany the Radiant, though invisible, and manifest when called on. Radiants are able to hear their lesser spren howl in pain or annoyance when attacked.
+A Radiant cannot summon their Shardplate for the first time if they are not on [[Roshar\|Roshar]], but can summon it off-world if they have done so before. Plate will automatically feed off their Surgebinder's Stormlight to power and heal itself. It seems that Radiants are able to Surgebind while wearing their own plate, although the plate still protects them from others using the surges.
+It shines brightly with glow of Stormlight and gleaming glyphs, although the Radiant can will it to appear as "dead" Plate. In semi-dismissed state, the Plate is only visible as a faint outline, and can't be felt by touch. From the inside, the helmet is as transparent as glass and the eye slit is not necessary and can be sealed. Radiants can control their Shardplate with precision -- for example, will only part of it to appear or disappear or change in shape to some degree. Moreover, [[Windrunner\|Windrunners]] are able to form their Plate around others at least temporarily.
 
-### Armaduras esquirladas muertas
-Las armaduras esquirladas muertas son armaduras que pertenecieron a miembros de los Caballeros Radiantes. Si un Radiante que posee una armadura esquirlada traiciona sus juramentos, sus spren menores mueren y sus cuerpos quedan atrapados en la forma de la armadura. Las armaduras esquirladas muertas pierden parte de su funcionalidad. A diferencia de las espadas muertas, que gritan al ser tocadas por un Radiante, la armadura muerta emite una sensación de bienestar y no se siente tan incómodo como con las espadas muertas.
-Existe una especie de vínculo entre la armadura esquirlada y su portador que cesará si el dueño de la armadura muere, lo que provocará que la armadura empiece a desprenderse. Las habilidades aumentadas de la armadura esquirlada se alimentan de la luz tormentosa de las gemas adheridas al interior de la armadura. Las grietas en la armadura provocan que se escape la luz tormentosa; con el tiempo, esta puede agotarse por completo, inutilizando la armadura e inmovilizando a su portador. En situaciones de tensión extrema, las gemas pueden resquebrajarse. Diez gemas, más grandes que los broams, dan energía a cada conjunto de armadura. Cinco están bajo la pechera, y una en cada escarpe.
-La armadura esquirlada tiene la capacidad de utilizar la luz tormentosa para regenerarse cuando sufre daños. Si se destruyen o abandonan secciones de una armadura, se pueden regenerar más tarde utilizando la luz tormentosa de las gemas del conjunto. Una vez que la armadura esquirlada regenere una pieza abandonada, la pieza anterior se convertirá en polvo. Si alguien consigue un trozo pequeño de una armadura esquirlada, puede alimentarla con luz tormentosa e intentar que vuelva a crecer toda la armadura, pero el propietario original con porciones más grandes de la armadura podría alimentarla con más luz tormentosa y normalmente ganaría en la competición de crecimiento. La reparación de una armadura esquirlada muy dañada puede resultar costosa, ya que las gemas utilizadas en el proceso suelen resquebrajarse. Mediante algún método desconocido, las esferas comunes también pueden utilizarse para recargar y reforzar armaduras agotadas.
-El color natural de la armadura esquirlada muerta es gris pizarra, similar al acero sin terminar. En la actualidad, sin embargo, es muy común cambiar el aspecto de la propia armadura esquirlada pintándola o adornándola con detalles decorativos o incluso gemas. Desde el interior, la pantalla facial del casco se vuelve translúcida para el usuario, pero no totalmente transparente, similar a un cristal sucio. La abertura para los ojos sigue siendo necesaria para tener una visión completa, pero incluso la translucidez parcial es muy útil.
-Dado que el poder de la armadura esquirlada proviene de una incesante inyección de luz tormentosa procedente de gemas adheridas al interior de la armadura, muchos rosharianos modernos creían que la armadura esquirlada podía ser una especie de [[Fabrial\|fabrial]]. Las gemas empezaron a añadirse más o menos al mismo tiempo que en las hojas esquirladas.
+### Dead Shardplates
+Dead Shardplates are Plates that were once owned by members of the Knights Radiant. If a Radiant that has a Shardplate betrays their oaths, their lesser spren are killed and their bodies are trapped in the shape of the Plate. Dead Shardplates lose some of the functionality that they once had. Contrary to dead Blades, which scream upon being touched by a Radiant, dead Plate emits a feeling of contentment and doesn't feel as wrong as dead Blades.
+There is some manner of bond between Shardplate and its wearer that will cease if the owner of the Plate is to die, thus causing the Plate to begin to fall off. The augmented abilities of Shardplate are fueled by Stormlight from gemstones attached to the inside of the armor. Cracking sections of the armor causes Stormlight to leak out; eventually, the Stormlight can be depleted entirely, rendering the armor useless and the wearer immobile. In situations of extreme stress, the gemstones may crack. Ten gemstones, larger than broams, power every set of Plate. Five are beneath the breastplate, and one is in each sabaton.
+Dead Shardplate has the ability to use Stormlight to regenerate itself when damaged. If sections of a suit of armor are destroyed or abandoned, they can be regenerated later by using Stormlight from the suit's gemstones. Once the Shardplate regenerates an abandoned piece, the previous piece will crumble to dust. If someone got a small piece of a shardplate, they can feed it stormlight and try to grow the whole plate back, but the original owner with bigger portions of the plate could feed it more stormlight and would usually win in the growing competition. Repairing a heavily-damaged set of Shardplate can be costly, as it commonly cracks the gemstones used during the process. Through some unknown method, common spheres may also be used to recharge and reinforce drained Plate.
+The natural color of dead Shardplate is slate-grey, similar to unfinished steel. In current times, however, it is extremely common to change the appearance of one's Shardplate by painting it or adorning it with decorative details or even gemstones. From the inside, the helmet's face shield
+becomes translucent to the wearer, but not totally clear, similar to dirty glass. The eye slit is therefore still needed for full vision, but even the partial translucence is very useful.
+Since the power of Shardplate is provided by a continuous infusion of Stormlight from gemstones attached to the armor's interior, many modern Rosharans believed that Shardplate may be some sort of [[Fabrial\|fabrial]]. Gemstones began being added around the same time as they were added to Shardblades.
 
-## Adquisición y colocación
-Como el conocimiento de la creación de la armadura esquirlada sólo ha resurgido con la vuelta de los Caballeros Radiantes, existe un número limitado de conjuntos. La única forma de adquirir una armadura esquirlada, aparte del juramento Radiante, es a través de otra persona. Esto puede hacerse mediante combate en el campo de batalla, mediante duelo, pidiéndolo prestado al propietario o por herencia. Es común que los portadores de esquirlada presten su armadura a otros. Incluso la armadura esquirlada del rey puede ser prestada a un alto precio.
-Debido a su peso, la armadura esquirlada no puede ponerse sin ayuda. El portador de esquirlada suele tener un equipo de armeros que le ayudan a ponersela. La armadura debe colocarse desde abajo hacia arriba, empezando por los escarpes, o el portador sería incapaz de soportar su peso. Debajo de la armadura se lleva ropa normal, botas y acolchado adicional. Cuando se aplica, cada pieza individual de la armadura esquirlada se tensa para ajustarse a los contornos del portador.
-La armadura esquirlada se quita por partes; el portador puede ordenar mentalmente a cada sección que se suelte y caiga. Las secciones dañadas pueden desprenderse durante la batalla. Para eliminar la necesidad de quitarse toda la armadura esquirlada durante una batalla prolongada, otros soldados ayudan al guerrero en armadura a ir al baño. A veces, sin embargo, esta ayuda no está disponible, y se sabe que los portadores de esquirlada hacen sus necesidades dentro de la armadura.
-Aunque la mayoría de los conjuntos de esquirladas conocidos son poseídos por los habitantes humanos de Roshar, los [[Parshendi\|parshendi]] solían poseer algunas, aunque han perdido la mayoría de ellas en la batalla contra los alezi.
-Los antiguos Caballeros Radiantes asociaban la adquisición de la armadura esquirlada con el juramento del Cuarto Ideal.
+## Acquiring and Donning
+As the knowledge of creating Shardplate has only resurfaced with the return of the Knights Radiant, a limited number of suits exist. The only way to acquire a set of Shardplate aside from swearing Radiant oaths is from another person. This can be done through battlefield combat, by dueling, by borrowing it from the owner or by inheritance. It is common for Shardbearers to loan their Plate to others. Even the King's own Shardplate can be borrowed at a heavy price.
+Because of its weight, Shardplate cannot be donned without assistance. The Shardbearer often has a team of armorers to assist with putting the armor on. The armor must be applied from the ground up, starting with the sabatons, or the wearer would be unable to support its weight. Regular clothing, boots, and additional padding are worn underneath the Plate. When applied, each individual piece of Shardplate tightens to fit itself to the contours of the wearer.
+Removal of Shardplate is done in pieces; the wearer can mentally command each section to release and fall away. Damaged sections can be shed during battle. In order to eliminate the need to remove one's entire set of Shardplate during extended battle, other soldiers provide assistance with the toileting needs of the warrior in Plate. Sometimes, however, such assistance is not available, and Shardbearers have been known to relieve themselves inside their armor.
+Although most suits of Shardplate known to exist are possessed by the human inhabitants of Roshar, [[Parshendi\|Parshendi]] used to own Shards, though they have lost most of them in battle with the Alethi.
+The old Knights Radiant associated acquiring Shardplate with swearing the Fourth Ideal.
 
 ## Cosmere
-### Origen
-Las armaduras esquirladas están hechas de una mezcla del [[Metal divino\|metal divino]] de Honor y Cultivación. La proporción exacta de ambos varía en función del tipo de spren que forme la armadura o de la orden a la que pertenezca la armadura, por lo que existen al menos diez aleaciones. Como todos los metales divinos, son utilizables [[Alomancia\|alománticamente]] y, por tanto, pueden ser quemados por un [[Alomancia\|nacido de la bruma]], aunque aún está por ver cuáles serían sus efectos. Es de suponer que también tendrían efectos [[Hemalurgia\|hemalúrgicos]] y [[Feruquimia\|feruquímicos]].
+### Origin
+Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] of Honor and Cultivation. The precise proportion of the two differs depending on the type of spren that forms the Blade, or the order to which the Plate belongs; as such, there are at least ten alloys. Like all God Metals, they are [[Allomancy\|Allomantically]] viable, and thus burnable by a [[Allomancy\|Mistborn]], although it's yet to be seen what the effects would be. Presumably, they would also have [[Hemalurgy\|Hemalurgic]] and [[Feruchemy\|Feruchemical]] effects.
 
-## Portadores de esquirlada conocidos
-### Armaduras esquirladas Radiantes
-|**Nombre del Radiante**|**Orden**|**Descripción**|**Notas**|**Referencias**|
+## Known Shardbearers
+### Radiant Shardplates
+|**Radiant Name**|**Order**|**Description**|**Notes**|**References**|
 |-|-|
-|[[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]]|[[Corredor del Viento\|Corredor del Viento]]|Azul y con el glifo del Puente Cuatro.|Los vientospren en cuestión ya le seguían mucho antes de que jurara el Cuarto Ideal.||
-|[[Sigzil\|Zellion]]|[[Rompedor del Cielo\|Rompedor del Cielo]]|Arde con luz rojo-anaranjada y deja estelas de humo.|Se desconoce su funcionamiento actual.||
-|[[Sigzil\|Zellion]]|[[Corredor del Viento\|Corredor del Viento]]|Arde con luz rojo-anaranjada y deja estelas de humo.|Se desconoce su funcionamiento actual.||
-|[[Jasnah Kholin\|Jasnah Kholin]]|[[Nominador de lo Otro\|Nominador de lo Otro]]|-|-||
+|[[Kaladin Stormblessed\|Kaladin Stormblessed]]|[[Windrunner\|Windrunner]]|Blue and emblazoned with the Bridge Four glyph.|Formed of windspren, which had been noted to gather around Kaladin prior to the Fourth Oath.||
+|[[Sigzil\|Zellion]]|[[Skybreaker\|Skybreaker]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
+|[[Sigzil\|Zellion]]|[[Windrunner\|Windrunner]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
+|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|-|-||
 
-### Armaduras esquirladas muertas
-|**Portador de esquirlada**|**Anterior portador**|**Orden**|**Descripción**|**Notas**|**Referencias**|
+### Dead Shardplates
+|**Shardbearer**|**Previous Holder**|**Order**|**Description**|**Notes**|**References**|
 |-|-|
-|[[Renarin Kholin\|Renarin Kholin]]|[[Dalinar Kholin\|Dalinar Kholin]]|*Desconocido*|Sin pintar.|-||
-|[[Adolin Kholin\|Adolin Kholin]]|-|*Desconocido*|Actualmente pintada de azul Kholin, antes naranja.|Traída por Evi y Toh como moneda de cambio para asegurar el matrimonio de Evi con Dalinar. A los Iri les gustaría recuperarla.||
-|[[Torol Sadeas\|Torol Sadeas]]|-|*Desconocido*|Pintada de rojo carmesí.|Actualmente se desconoce quién la lleva.||
-|[[Elhokar Kholin\|Elhokar Kholin]]|-|*Desconocido*|Pintada de dorado.|Presumiblemente saqueada por los cantores en Urithiru.||
-|[[Relis Ruthar\|Relis Ruthar]]|-|*Desconocido*|Pintada de negro.|Ganada por Adolin en un duelo con Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav y Abrobadar, el portador actual es desconocido.||
-|[[Jakamav\|Jakamav]]|-|*Desconocido*|Pintado de verde.|Ganada por Adolin en un duelo con Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav y Abrobadar, el portador actual es desconocido.||
-|[[Moash\|Moash]]|[[Abrobadar\|Abrobadar]]|*Desconocido*|Pintada de naranja con toques azules.|Ganada por Adolin en un duelo con Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav y Abrobadar, y luego entregada a Kaladin, que la rechazó y se la pasó a Moash. Este a su vez, la entregó a los cantores a cambio de su vida.||
-|[[Eshonai\|Eshonai]]|[[Sharefel\|Sharefel]]|*Desconocido*|Pintada de plata.|Recuperada por los cantores.||
-|[[Hrdalm\|Hrdalm]]|-|*Desconocido*|Pintada de negro brillante, con cejas thayleñas.|Llamada [[Cvaderln\|Cvaderln]]. Pertenece al reino al que sirve Hrdalm.||
-|[[Cuerda\|Cuerda]]|-|*Desconocido*|Color desconocido.|Se encuentra en las [[/wiki/Akinah#Cavernas]] de [[Akinah\|Akinah]]. Se dice que está reservada para los guardianes de la [[Esquirla del Amanecer\|Esquirla del Amanecer]].||
-|[[Amaram\|Amaram]]|[[Helaran Davar\|Helaran Davar]]|*Desconocido*|Cuando estaba en posesión de Helaran estaba pintada de amarillo dorado.|Robada a Kaladin, quien se la quitó a Helaran Davar.||
+|[[Renarin Kholin\|Renarin Kholin]]|[[Dalinar Kholin\|Dalinar Kholin]]|*Unknown*|Unpainted.|
+|[[Gavilar Kholin\|Gavilar Kholin]]|-|*Unknown*|The plate is painted blue with gold bands around the edge of each plate. The helm has three waves of wings which are small and almost horn-like. The color changed from blue to slate grey when it became the king's Plate.|Currently used for training purposes by the Alethi.||
+|[[Adolin Kholin\|Adolin Kholin]]|[[Toh\|Toh]]|*Unknown*|Currently painted Kholin blue, formerly orange. It also has a few ornamentations welded onto the helm and pauldrons to give an extra look of danger.|Brought by Evi and Toh as a bargaining chip to secure Evi's marriage to Dalinar. The Iriali would like it back.||
+|[[Torol Sadeas\|Torol Sadeas]]|-|*Unknown*|Currently painted crimson red, used to be painted yellow-gold. His helm is ornamented with a metallic pattern, which he changes every so often, and many frivolous tassels. One such metallic pattern was shaped like a stylised sunburst.|Currently unknown who wears it.||
+|[[Elhokar Kholin\|Elhokar Kholin]]|[[Kalanor\|Kalanor]]|*Unknown*|Currently painted gold, Kalanor decorated his plate with steel or silver leaf, giving it a silvery coloring.|Presumably looted by the singers in Urithiru.||
+|[[Relis Ruthar\|Relis Ruthar]]|[[Gallam\|Gallam]]|*Unknown*|Painted black.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
+|[[Jakamav\|Jakamav]]|-|*Unknown*|Painted green.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
+|[[Teleb\|Teleb]]|[[Eranniv\|Eranniv]]|"Unknown"|Erraniv kept his Plate slate grey, except for the breastplate, which he painted a deep black. This was presumably changed when Adolin won it.|Won by Adolin in a duel with Eranniv, then given to Teleb.||
+|[[Moash\|Moash]]|[[Abrobadar\|Abrobadar]]|*Unknown*|Originally painted orange. Moash repainted it blue, with red accents along the joints.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, then given to Kaladin, who refused and passed it to Moash. Moash in turn gave it up for his life to the singers.||
+|[[Eshonai\|Eshonai]]|[[Sharefel\|Sharefel]]|*Unknown*|Painted silver.|Recovered by the singers.||
+|[[Hrdalm\|Hrdalm]]|-|*Unknown*|Painted gloss black, with Thaylen eyebrows.|Named [[Cvaderln\|Cvaderln]]. It belongs to the kingdom Hrdalm serves.||
+|[[Cord\|Cord]]|-|*Unknown*|Unknown color.|Found in the [[/wiki/Akinah#Caverns]] of [[Akinah\|Akinah]], which is said to be reserved for guardians of the [[Dawnshard\|Dawnshard]].||
+|[[Amaram\|Amaram]]|[[Helaran Davar\|Helaran Davar]]|*Unknown*|When in Helaran's possession it was painted gold-yellow.|Taken from Kaladin who took it from Helaran Davar.||
 
-## Curiosidades
-Originalmente se había planeado que tuvieran orificios oculares circulares en lugar de viseras, sin embargo, esto se rechazó específicamente al final. Hay una razón concreta para la elección final de que fueran viseras.
-## Notas
-
-
-
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] ·  · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+They were originally planned to have circular eye holes instead of visors, however, this was specifically rejected in the end. There is a specific reason for the choice of visors in the end.
 
 
-
-https://es.coppermind.net/wiki/Shardplate
+https://coppermind.net/wiki/Shardplate

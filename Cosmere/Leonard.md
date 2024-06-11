@@ -1,22 +1,11 @@
 |**Leonard**|
 |-|-|
-|**Especie**|Cat|
-|**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
-|**Presentado en**|**|
+|**Species**|Cat|
+|**Homeworld**|[[Earth (Dark One)\|Earth (Dark One)]]|
+|**Introduced In**|*[[Dark One Book 1\|Dark One Book 1]]*|
 
-**Leonard** is a gray cat that [[Dr. Marcus\|Dr. Marcus]] keeps as a pet. Leonard dislikes [[Paul Tanasin\|Paul Tanasin]], and is potentially the first person or creature to notice his dark nature as the .
-
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Dark One (franquicia)\|Dark One]] ([[Tierra (Dark One)\|Tierra]]/[[Mirandus\|Mirandus]])**|
-|-|-|
-|**Personajes**|[[Paul Tanasin\|Paul Tanasin]] · [[Nikka\|Nikka]] · [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] · [[Gosovic\|Gosovic]] · [[Feotora\|Feotora]] · [[Illarion\|Illarion]] · [[Kraisis\|Kraisis]] · [[Malmahan\|Malmahan]] · [[Rastik\|Rastik]]|
-|**Lugares**|[[Mirandus\|Mirandus]] · [[Kingdoms of Light\|Kingdoms of Light]] · [[Blackened Lands\|Blackened Lands]] · [[Pitch\|Pitch]]|
-|**Magia y lore**|[[Narrative\|Narrative]] · [[Destined One\|Destined One]] · [[Dark One (t%C3%ADtulo)\|Dark One]] · [[Well of Sorrows\|Well of Sorrows]] · [[Peragator\|Peragator]]|
-|**Otros**|[[Drull\|Drull]] · [[Evermouth\|Evermouth]] · [[Ironkeeper\|Ironkeeper]]|
+**Leonard** is a gray cat that [[Dr. Marcus\|Dr. Marcus]] keeps as a pet. Leonard dislikes [[Paul Tanasin\|Paul Tanasin]], and is potentially the first person or creature to notice his dark nature as the [[Dark One (title)\|Dark One]].
 
 
 
-https://es.coppermind.net/wiki/Leonard
+https://coppermind.net/wiki/Leonard

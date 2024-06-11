@@ -1,56 +1,42 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Liyun**|
 |-|-|
 ||
-|**Fallecido**||
-|**Capacidades**|[[Pesadilla\|Pesadilla]]|
-|**Títulos**|Guardiana-nimi|
-|**Oficio**|[[Kihomaban\|Kihomaban]]|
-|**Nacionalidad**|[[De Torio\|de Torio]]|
-|**Mundo natal**|[[Komashi\|Komashi]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Died**||
+|**Abilities**|[[Nightmare\|Nightmare]]|
+|**Titles**|Warden-nimi|
+|**Profession**|[[Kihomaban\|Kihomaban]]|
+|**Nationality**|[[Torish\|Torish]]|
+|**Homeworld**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Liyun** es la [[Kihomaban\|kihomaban]], o guardiana, de la [[Yoki-haijo\|yoki-haijo]] [[Yumi\|Yumi]]. Fue asesinada por la [[M%C3%A1quina padre\|máquina padre]], pero su alma persiste como una [[Pesadilla\|pesadilla]].
+**Liyun** is the [[Kihomaban\|kihomaban]], or warden, of the [[Yoki-hijo\|yoki-hijo]] [[Yumi\|Yumi]]. She was killed by the [[Father machine\|father machine]], but her soul persists as a [[Nightmare\|nightmare]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Liyun es una mujer alta que suele vestir un sobrio tobok negro con un lazo blanco, normalmente con el pelo recogido. Suele llevar zapatos a la moda y se toma muy en serio su trabajo como guardiana de [[Yumi\|Yumi]]. Es muy estricta y cree firmemente en su propósito, que es asegurarse de que Yumi cumpla bien con su deber. Desde la perspectiva de Nikaro, Liyun trata a Yumi de manera muy injusta y es muy exigente, además de usar a menudo cumplidos irónicos, aunque en el fondo quiere ayudar.
-Como [[Pesadilla\|pesadilla]], tiene una forma oscura parecida a la de un lobo, con ojos blancos y piernas que se doblan al revés. Cuando se estabiliza por completo, su forma de pesadilla crece hasta los tres metros y tiene dientes.
+## Appearance and Personality
+Liyun is a tall woman who often wears a severe black tobok with a white bow, usually keeping her hair tied up. She often wears fashionable shoes and is very serious about her job as a warden of [[Yumi\|Yumi]]. She is very strict and believes strongly in her purpose, which is to make sure that Yumi does her duty well. From Nikaro's view Liyun treats Yumi very unfairly and is very demanding, as well as often using backhanded compliments, yet deep down she wants to help.
+As a [[Nightmare\|Nightmare]], she has a dark wolf-like form with white eyes and legs that bend the wrong way. When she becomes fully stable, her nightmare form grows to eleven feet tall and has teeth.
 
-## Atributos y habilidades
-Como [[Pesadilla\|pesadilla]], Liyun puede ser casi totalmente incorpórea y atravesar sustancias sólidas como paredes. Sin embargo, también fue capaz de volverse casi estable, capaz de tomar el color de la carne. Siendo una pesadilla, ella es capaz de detectar pensamientos, especialmente el miedo, que también puede darle más forma y sustancia, ya que se alimenta de ellos. También se puede alimentar de [[Investidura\|Investidura]].
+## Attributes and Abilities
+As a [[Nightmare\|nightmare]] Liyun can be almost entirely incorporeal, and can pass through solid substances such as walls. Liyun though was able to become nearly stable, almost able to take on the color of flesh. Being a nightmare she is capable of detecting thoughts, most notably fear, which is also capable of giving her more form and substance, as she feeds on them. As a nightmare she can also feed upon [[Investiture\|Investiture]].
 
-## Historia
-Liyun nació en [[Torio\|Torio]], en el planeta [[Komashi\|Komashi]]. Cuando Yumi era joven, Liyun comenzó a actuar como su guardiana, criándola bajo las estrictas normas de la yoki-haijo tradicional y ocultándole la existencia del movimiento reformista.
-Cuando la máquina padre se activó, consumió el alma de Liyun, pero luego la liberó de la mortaja para unirse a Yumi y volver a vivir el mismo día durante mil setecientos años. Cada noche, mientras Yumi dormía, Liyun se convertía en una pesadilla enloquecida atraída por la imaginación de los habitantes de Kilahito. Liyun a veces actuaba bajo su propio control y a veces actuaba bajo el control de la máquina, como cuando ella y otras pesadillas destruyeron [[Futinoro\|Futinoro]]. Cuando [[Hoid\|Hoid]] llegó a Kilahito, empezó a ver los acontecimientos desde la perspectiva de Liyun. Después de que Yumi consiguiese liberar a un haijo de la máquina padre, el haijo siguió a Liyun hasta Kilahito, donde se encontraron con [[Nikaro\|Nikaro]], quien impidió que Liyun matase a un niño. Liyun escapó antes de que Nikaro terminase de pintarla.
-Entonces el haijo conectó a Yumi con Nikaro, lo que impidió que los recuerdos de Yumi se reiniciasen cada día. En consecuencia, Yumi y Liyun continuaron a partir de ese momento en una recreación de , en lugar de repetir el día habitual en [[Ihosen\|Ihosen]]. Mientras Yumi y Nikaro intercambiaban sus lugares, Liyun interactuaba con Nikaro como si fuese Yumi. Durante las siguientes semanas, Liyun siguió sirviendo y dando consejo durante la supuesta enfermedad de Yumi. Como pesadilla, Liyun se estabilizó y atacó a Yumi, pero fue ahuyentada de nuevo por la pintura de Nikaro.
-Liyun fue con Nikaro y Yumi a enfrentarse a los eruditos sobre la máquina. Durante el enfrentamiento, los eruditos activaron un dispositivo que hizo que Liyun volviese a su forma de pesadilla.
-Cuando los eruditos pusieron fin a la conexión entre Yumi y Nikaro, y la memoria de Yumi se restableció, Liyun se mostró menos estricta y más dispersa que de costumbre. Dejó a Yumi por un tiempo y visitó a Nikaro como una pesadilla. Conservó cierta consciencia durante la interacción y habló con Nikaro, explicándole cómo habían existido a lo largo de los siglos y advirtiéndole de una próxima invasión de pesadillas. Nikaro regaló a Liyun un cuadro pintado por Yumi, y esta se lo entregó a Yumi.
-Durante la [[Batalla de Kilahito\|Batalla de Kilahito]], Nikaro pintó Liyun de nuevo con forma humana, permaneciendo así hasta que se evaporó con la destrucción de la máquina padre.
-
-## Notas
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] ·  · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+## History
+Liyun was born in [[Torio\|Torio]], on the planet [[Komashi\|Komashi]]. When Yumi was young, Liyun began acting as her warden, raising her under the strict rules of traditional yoki-hijo, and hiding from her the existence of the reform movement.
+When the father machine activated, it consumed Liyun's soul, but then released her from the shroud to join Yumi in reliving the same day for seventeen hundred years. During each night, while Yumi slept, Liyun became an insane nightmare drawn to the imaginations of the people of Kilahito. Liyun sometimes acted under her own control and sometimes acted under the control of the Machine, such as when she and other nightmares destroyed [[Futinoro\|Futinoro]]. When [[Hoid\|Hoid]] came to Kilahito, he began seeing events from Liyun's perspective. After Yumi managed to free a hijo from the Father Machine, the hijo followed Liyun into Kilahito, where they encountered [[Nikaro\|Nikaro]], who stopped Liyun from killing a boy. Liyun escaped before Nikaro finished painting her.
+The hijo then Connected Yumi to Nikaro, which stopped Yumi's memories from resetting each day. As a result, Yumi and Liyun continued from that point in a recreation of [[Gongsha Town\|Gongsha Town]], instead of repeating the usual day in [[Ihosen\|Ihosen]]. As Yumi and Nikaro traded places, Liyun interacted with Nikaro as if he was Yumi. Over the next several weeks, Liyun continued to serve and advise during Yumi's supposed malady. As a nightmare, Liyun became stable and attacked Yumi, but she was driven off by Nikaro's painting again.
+Liyun went with Nikaro and Yumi to confront the scholars about the machine. During the confrontation, the scholars activated a device that made Liyun revert to her nightmare form.
+When the scholars ended the Connection between Yumi and Nikaro, and Yumi's memory reset, Liyun was less strict and more scatterbrained than usual. She left Yumi for a time and visited Nikaro as a nightmare. She retained some awareness during the interaction and spoke to Nikaro, explaining how they had existed over the centuries and warning him of an upcoming nightmare invasion. Nikaro gave Liyun a painting Yumi painted, and Liyun delivered it back to Yumi.
+During the [[Battle of Kilahito\|Battle of Kilahito]], Nikaro painted Liyun back into a human form, and she stayed in the form until she evaporated with the destruction of the father machine.
 
 
 
-
-
-https://es.coppermind.net/wiki/Liyun
+https://coppermind.net/wiki/Liyun

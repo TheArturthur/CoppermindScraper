@@ -1,18 +1,18 @@
 |**Shale**|
 |-|-|
-|**Cónyuge**|[[Sindria\|Sindria]]|
-|**Mundo natal**|[[Alornia\|Alornia]]|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
-|**Presentado en**|*[[Perfect State\|Perfect State]]*|
+|**Spouse**|[[Sindria\|Sindria]]|
+|**Homeworld**|[[Alornia\|Alornia]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Introduced In**|*[[Perfect State\|Perfect State]]*|
 
-Para the Rosharan plant family, ver [[Shalebark\|Shalebark]].
+For the Rosharan plant family, see [[Shalebark\|Shalebark]].
 >“*The old way? Like...on a horse? I miss that.*”
 \-Shale to Kairominas[1]
 
 
 **Shale** is a [[Machineborn\|Machineborn]] knight living in [[Alornia\|Alornia]], and best friend of Emperor [[Kairominas\|Kairominas]]. He is happily married to [[Sindria\|Sindria]], and has five children.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -52,16 +52,6 @@ Shale has stayed by Kai's side, acting as a personal guard whenever Kai leaves h
 \-Shale to Kai[1]
 
 
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] ·  · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Shale
+https://coppermind.net/wiki/Shale

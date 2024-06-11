@@ -1,100 +1,81 @@
-
-
 |**Galladon**|
 |-|-|
 ||
-|**Padres**|[[Padre de Galladon\|Padre]]|
-|**Capacidades**|[[Elantrino\|Elantrino]], [[Saltamundos\|Saltamundos]]|
-|**Apodos**|Dendo, Gruñón|
-|**Grupo**|[[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎|
-|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
-|**Etnia**|[[De Duladel\|de Duladel]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**Parents**|[[Galladon's father\|Father]]|
+|**Abilities**|[[Elantrian\|Elantrian]], [[Worldhopper\|Worldhopper]]|
+|**Aliases**|Dendo, Grump|
+|**Groups**|[[Seventeenth Shard\|Seventeenth Shard]]|
+|**Residence**|[[Elantris (city)\|Elantris]]|
+|**Ethnicity**|[[Dula\|Dula]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
->“*Había algo agradable en el dula, algo que Raoden encontraba indefinidamente atractivo aunque estuviera cubierto por una pátina de pesimismo tan gruesa como la capa de mugre del suelo.*”
+>“*There was something innately likable about the Dula. Something Raoden found indefinably appealing, even if it was covered by a grime of pessimism as thick as the slime on the ground.*”
 \-Raoden[2]
 
 
-**Galladon** es un [[Elantrino\|elantrino]] de [[Sel\|Sel]]. Es originariamente un granjero de [[Duladel\|Duladel]]. Su [[Padre de Galladon\|padre]] también era elantrino y la mayor parte del conocimiento de Galladon sobre [[Elantris (ciudad)\|Elantris]] proviene de pasar tiempo con su padre en la ciudad cuando era niño. Tiene un papel decisivo en la creación del asentamiento de Nueva Elantris y en la reparación del [[AonDor\|AonDor]].. Más tarde se une a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y es visto en [[Roshar\|Roshar]].
+**Galladon** is an [[Elantrian\|Elantrian]] on [[Sel\|Sel]]. He is originally a farmer from [[Duladel\|Duladel]]. His [[Galladon's father\|father]] was also an Elantrian and most of Galladon's knowledge of [[Elantris (city)\|Elantris]] comes from spending time with his father in the city when he was a child. He is instrumental in creating the New Elantris settlement and fixing [[AonDor\|AonDor]]. He later joins the [[Seventeenth Shard\|Seventeenth Shard]] and is seen on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Vida temprana]] 
-3. [[#La vida en la granja]] 
-3. [[#Elantrino]] 
-3. [[#Aparici.C3.B3n en Roshar]] 
+3. [[#Early Life]] 
+3. [[#Farm life]] 
+3. [[#Elantrian]] 
+3. [[#Appearance on Roshar]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Raoden]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
->“* Los optimistas no podéis comprender que una persona deprimida no quiere que intentéis alegrarla. Eso nos pone enfermos.*”
-\-Galladon a Raoden[4]
+## Appearance and Personality
+>“*You optimists just can't understand that a depressed person doesn’t want you to try and cheer them up. It makes us sick.*”
+\-Galladon to Raoden[4]
 
 
-Galladon tiene una constitución alta y firme, manos anchas y ojos penetrantes. Es calvo desde la treintena.
-Durante el Reod tiene la piel gris oscura, cubierta de manchas oscuras y arrugas.
-Una vez completada la Shaod, adquiere una piel plateada metálica oscura. Sigue siendo calvo.
-Fuera del mundo, los signos visibles de la Shaod se han reducido, por lo que Galladon se parece mucho a un hombre típico de Duladel.
-Galladon es un hombre pragmático, a menudo pesimista.
+Galladon has a tall and firm frame by Selish standards, wide hands and keen eyes. He is bald, and has been since his thirties.
+During the Reod he has dark grey skin, covered in dark splotches and wrinkles.
+After the Shaod is completed, he gains dark metallic silver skin. He is still bald.
+Off-World the visible signs of the Shaod are reduced, so Galladon appears much like a typical Duladen man. He appears rather short and stocky in comparison to the standard Rosharan.
+Galladon is a pragmatic, often pessimistic man.
 
-## Atributos y habilidades
-Galladon es un granjero experto y disfruta con la agricultura. Cuando la Shaod se llevó a Galladon, su transformación quedó incompleta y su cuerpo no pudo curarse. Tras la restauración de Elantris, su transformación se completó. Ahora su cuerpo se cura rápidamente. Como elantrino, Galladon es un practicante del AonDor. Se desconoce si ha descubierto cómo adaptar el AonDor para su uso en otros [[/wiki/Cosmere#Planetas]] del Cosmere. También es un saltamundos, y es probable que sea hábil en este sentido, ya que fue capaz de sobrevivir al Reino Cognitivo de Sel. Puede aparecer fuera del mundo con el aspecto típico de un hombre de Duladel, no como un elantrino de piel brillante ni como uno marchito y debilitado como otros saltamundos elantrinos. Debido a su aspecto joven, Galladon utiliza una técnica desconocida que ralentiza drásticamente su envejecimiento.
+## Attributes and Abilities
+Galladon is a skilled farmer and takes joy in farming. When the Shaod took Galladon, his transformation was initially incomplete, leaving his body unable to heal. After Elantris was restored his transformation was completed. Now his body heals quickly. As an Elantrian, Galladon is a practitioner of AonDor. Whether or not he has found out how to adapt AonDor for use on other [[/wiki/Cosmere#Planets]] in the cosmere is currently unknown. He is also a worldhopper, and is likely skilled in this regard as he was able to survive the Selish Cognitive Realm. He can appear off-world looking like a typical Duladen man, not like either an Elantrian with glowing skin nor one withered and weakened like some other Elantrian worldhoppers. Due to his young appearance, Galladon is making use of an unknown technique that slows his aging drastically.
 
-## Historia
-### Vida temprana
-El [[Padre de Galladon\|padre de Galladon]] se hizo elantrino cuando Galladon era aún muy joven. Aunque en aquella época los elantrinos no estaban obligados a trasladarse a Elantris, era práctica habitual que vivieran en Elantris para evitar la persecución. Galladon vivió con su madre y su padre en Elantris durante varios años, hasta que su madre murió. Tras la muerte de ésta, el padre de Galladon se volvió cada vez más retraído, hasta que finalmente murió a causa de una enfermedad cardiaca. Era tratable médicamente, pero prefirió dejar que su vida terminara antes que continuar sin su esposa.
-Tras la muerte de su madre, Galladon regresó a Duladel para convertirse en granjero, con la bendición de su padre.
+## History
+### Early Life
+[[Galladon's father\|Galladon's father]] became an Elantrian while Galladon was still very young. Although at that time Elantrians were not required to move to Elantris, it was standard practice for them to live in Elantris to avoid persecution. Galladon lived with his mother and father in Elantris for several years, until his mother died. Following her death, Galladon's father became more and more withdrawn, until he finally died as a result of a heart condition. It was medically treatable, but he chose to let his life end rather than continue without his wife.
+After his mother's death, Galladon returned to Duladel to become a farmer, with his father's blessing.
 
-### La vida en la granja
-Galladon estaba decidido a adaptarse a una vida normal tras abandonar Elantris. Siguiendo los pasos de su padre, se dedicó a la agricultura, al principio cultivando grano, y construyó él mismo su propia casa. Tras varios años, se dedicó al cultivo de frutales, ya que prefería un cultivo que no requiriese ser plantado cada año. Continuó su labor de erudición, leyendo durante la temporada baja. Desgraciadamente, a pesar de sus esfuerzos, Galladon nunca llegó a encajar con sus vecinos, por lo que pudo abandonar su vida con relativamente pocos remordimientos cuando la Shaod se lo llevó.
+### Farm life
+Galladon was determined to adapt to normal life upon leaving Elantris. Following his father's footsteps, Galladon took up farming, initially farming grain. He built his house with his own hands. After several years, he switched to orchards, preferring a crop that did not require planting every year. He continued his tradition of scholarship, reading during the off-season. Unfortunately, despite his best efforts, Galladon never really fit in with his neighbors, and so was able to leave his life with relatively few regrets when the Shaod took him.
 
-### Elantrino
-Unos meses después de ser tomado por la Shaod, Galladon conoció a [[Raoden\|Raoden]] mientras huía de otros cinco elantrinos en el primer día de éste en Elantris. Comenzó a presentarle a Raoden las realidades de Elantris, diciéndole que ya estaban muertos, que sus cuerpos ya no se curaban y que el dolor, con el tiempo, volvía locos a todos los elantrinos. Raoden ofreció parte de la comida que le habían dado a Galladon a cambio de educarle y guiarle durante treinta días. Galladon aceptó a regañadientes. Comenzó mostrándole cómo funcionaban las bandas en Elantris y cómo evitar que su cuerpo sufriera daños en la medida de lo posible. También habló de los [[Hoed\|hoed]] y le mostró a Raoden la sección del mercado, la universidad y el palacio de Elantris, donde las tres bandas tenían sus hogares. Le contó a Raoden que cuando el amo de un [[Seon\|seon]] era tomado por la Shaod, este enloquecía. Después de eso, los llevó al taller de su padre y le mostró a Raoden el [[AonDor\|AonDor]] dibujando un [[/wiki/Aon#Deo]] en el aire. Empezaron a debatir sobre el AonDor.
-Vieron al [[Gyorn\|gyorn]] [[Derethi\|derethi]] [[Hrathen\|Hrathen]] predicando en las murallas de Elantris. Más tarde, fueron a las puertas y, a pesar de las protestas de Galladon, Raoden rescató a un hombre llamado [[Mareshe\|Mareshe]] de las bandas y lo reclutó. Huyeron de los hombres de [[Shaor\|Shaor]] hasta un edificio con una escalera inestable. La escalera se derrumbó y Raoden arrojó la comida del recién llegado a los hombres de abajo con la esperanza de que se marcharan. Se enteraron de que Mareshe era joyero, pero Raoden le pidió que hiciera zapatos. Mareshe accedió, y comenzaron la fundación de Nueva Elantris. Esto, sin embargo, hizo pensar a los pandilleros que Raoden estaba fundando su propia banda.
-Continuaron reclutando y eligieron una iglesia [[Korathi\|korathi]] como base. Trasladaron los libros del padre de Galladon a dicha base, aunque Raoden tardó una hora en convencer a Galladon de que lo hiciera. Pronto los elantrinos empezaron a llegar solos a Nueva Elantris y a pedir unirse. Entonces apareció Karata con su banda, planeando acabar con la nueva facción de Raoden antes de que pudiera convertirse en una amenaza. Sin embargo, Raoden consiguió convencerla de que los dejara en paz.
-Galladon se enteró con el tiempo de que había habido una rebelión en su tierra natal que había provocado el colapso de la república y que el [[Shu-Dereth\|Shu-Dereth]] era la religión del Estado en Duladel. La noticia le conmocionó profundamente. Raoden mostró a Galladon sacos de semillas de maíz y le preguntó cómo valoraría la calidad de las semillas. Galladon las encontró satisfactorias, y pronto plantó el maíz en uno de los jardines y empezó a cultivar alimentos.
-Galladon fue fundamental en los esfuerzos de Raoden por establecer el orden en Nueva Elantris. Explicó el concepto del [[Dor\|Dor]] a Raoden. También fue quien enseñó a los demás elantrinos a dibujar el AonDor. Desempeñó un papel importante en la batalla por Teod, organizando y dirigiendo a los elantrinos que acudieron en su ayuda.
+### Elantrian
+A few months after he was taken by the Shaod, Galladon met [[Raoden\|Raoden]] while he was running away from five other Elantrians on the latter's first day in Elantris. He started introducing Raoden to the realities of Elantris, telling him they were already dead, that their bodies no longer healed, and that the pain eventually drove every Elantrian mad. Raoden offered some of the food he was given to Galladon in exchange for educating and guiding him for thirty days. Galladon reluctantly agreed. He started teaching Raoden by showing him how the gangs in Elantris worked and how to keep his body from harm as much as possible. He also talked of the [[Hoed\|Hoed]] and showed Raoden the market section, the university, and the palace of Elantris where the three gangs made their homes. He told Raoden that when a [[Seon\|seon's]] master was taken by the Shaod, the seon was driven mad. After that, he took them to his father's workroom and introduced Raoden to [[AonDor\|AonDor]] by drawing [[/wiki/Aon#Deo]] in the air. They started discussing AonDor.
+They saw the [[Derethi\|Derethi]] [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]] preaching on the walls of Elantris. Later, they went to the gates and, despite Galladon's protests, Raoden rescued a man named [[Mareshe\|Mareshe]] from the gangs and recruited him. They ran from [[Shaor\|Shaor's]] men to a building with an unstable staircase. The staircase collapsed, and Raoden threw the newcomer's food to the men below in the hopes that the men would leave. They learned that Mareshe was a jeweler, but Raoden asked him to make shoes. Mareshe agreed, and they start the foundation of New Elantris. This, however, made the gangs think Raoden was starting his own gang.
+They continued recruiting and selected a [[Korathi\|Korathi]] church as their base. They moved Galladon's father's books to this base, though it took an hour for Raoden to convince Galladon to do so. Soon the Elantrians started coming to New Elantris by themselves and asking to join. Then Karata showed up with her gang, planning to end Raoden's new faction before it could become a threat. Raoden, however, managed to convince her to leave them be.
+Galladon eventually learned there had been a rebellion in his homeland which resulted in the republic collapsing and that [[Shu-Dereth\|Shu-Dereth]] was the state religion in Duladel. He was deeply shaken by the news. Raoden showed Galladon bags of seed corn and asked how he would judge the quality of the seeds. Galladon found them satisfactory, and soon he planted the corn in one of the gardens and started growing food.
+Galladon was instrumental in Raoden's efforts to establish order in New Elantris. He explained the concept of the [[Dor\|Dor]] to Raoden. He was also the one who taught the other Elantrians how to draw AonDor. He played a large part in the battle for Teod, organizing and leading the Elantrians who came to Teod's rescue.
 
-### Aparición en Roshar
-Galladon apareció en [[Roshar\|Roshar]] alrededor de la época de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] como miembro de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]. El pescador de [[Lagopuro\|Lagopuro]] [[Ishikk\|Ishikk]], que creía que Galladon le había dado un nombre falso, le llamó **Gruñón**. Se desconoce cómo era capaz de moverse entre mundos. Se le describe como de piel oscura, como los [[Makabaki\|makabaki]] de Roshar. A diferencia de estos, tenía extremidades gruesas y la cabeza completamente calva; esto era muy similar a como se le describía antes de la Shaod. Al igual que en su mundo natal, seguía refiriéndose a los demás como «amigo», y frecuentemente seguía las afirmaciones con el interrogativo «¿Comprendido?». Galladon decía esto en el idioma local en lugar de en su lengua nativa de [[Duladel\|Duladel]]. En un momento dado, dijo una frase en su lengua materna, repitiendo la palabra *kayana*, que significa «loco». Los verdaderos motivos por los que Galladon llegó a Roshar son desconocidos, pero él y sus dos compañeros, [[Demoux\|Demoux]] y [[Baon\|Baon]], contrataron a Ishikk para buscar a [[Hoid\|Hoid]]. Ishikk recibió como pago una bolsa de esferas a pesar de no haber sido capaz de localizar a Hoid en los cinco meses transcurridos desde que el trío lo contrató. Dos años más tarde, el grupo había renunciado a encontrar a Hoid y abandonó Roshar.
+### Appearance on Roshar
+Galladon appeared on [[Roshar\|Roshar]] around the time of the [[True Desolation\|True Desolation]] as a member of the [[Seventeenth Shard\|Seventeenth Shard]]. [[Purelake\|Purelake]] fisherman [[Ishikk\|Ishikk]], who believed that Galladon had given him a false name, called him **Grump**. How he was able to move between worlds is unknown. He was described as being dark-skinned, like the [[Makabaki\|Makabaki]] of Roshar. Unlike the Makabaki, he had thick limbs and a completely bald head; this was very similar to how he was described before the Shaod. Much like in his home world, he continued to refer to others as "friend", and frequently followed statements with the interrogative "Understand?". Galladon said these in the local language rather than his native [[Duladel\|Duladel]] language. At one point, he said a phrase in his native language, repeating the word *kayana*, meaning "crazy". Galladon's true motives on Roshar are unknown, but he and his two companions, [[Demoux\|Demoux]] and [[Baon\|Baon]], hired Ishikk to look for [[Hoid\|Hoid]]. Ishikk was paid with a pouch of spheres even though he wasn't able to locate Hoid in the five months since the trio hired him. Two years later, the group had given up on finding Hoid and left Roshar.
 
-## Relaciones
+## Relationships
 ### Raoden
-Galladon conoce a Raoden después de que éste fuera arrojado a Elantris. Galladon aceptó un soborno de carne seca para acompañar a Raoden durante treinta días, y aunque su compañía comenzó como algo comprado, pronto empezó a apoyar la búsqueda de Raoden para unir Elantris y cambiar la mentalidad de los que estaban dentro. Galladon salvó la vida de Raoden varias veces en Elantris y acudió en su ayuda en Teod, demostrando el alcance de su amistad.
+Galladon first meets Raoden after Raoden was thrown into Elantris. Galladon accepted a bribe of dried meat to accompany Raoden for thirty days, and although his companionship began as a bought thing, he quickly began to support Raoden’s quest to unite Elantris and change the mindsets of those within it. Galladon saved Raoden’s life several times in Elantris, and came to his rescue in Teod, proving the extent of their friendship.
 
-## Curiosidades
-En los primeros borradores de *Elantris*, su nombre era Galarion.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] ·  · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+In early drafts of *Elantris*, his name was Galarion.
 
 
-
-https://es.coppermind.net/wiki/Galladon
+https://coppermind.net/wiki/Galladon

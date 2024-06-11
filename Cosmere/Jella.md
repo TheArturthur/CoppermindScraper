@@ -1,51 +1,30 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Jella**|
 |-|-|
 ||
-|**Tipo**|Tree|
-|**Nativo de**|[[Jah Keved\|Jah Keved]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Tree|
+|**Native to**|[[Jah Keved\|Jah Keved]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El árbol **jella** es una especie de árbol nativo de [[Roshar\|Roshar]].
+The **jella tree** is a species of tree native to [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y anatomía. [[#Apariencia y anatom.C3.ADa]] 
-2 Ecología. [[#Ecolog.C3.ADa]] 
-3 Usos. [[#Usos]] 
-4 Notas. [[#Notas]] 
+1 Appearance and Anatomy. [[#Appearance and Anatomy]] 
+2 Ecology. [[#Ecology]] 
+3 Uses. [[#Uses]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y anatomía
-El árbol de la jella es capaz de absorber [[Crem\|crem]] y utilizarlo para reforzar su madera. El crem le confiere su color marrón claro y su textura rocosa. Son árboles relativamente altos y tienen ramas especialmente fuertes. Las hojas del árbol son largas y finas, con aspecto de aguja. Las hojas son de vivos colores amarillos, rojos, rosas y naranjas, como explosiones de color. Como muchas otras plantas de Roshar, las hojas son retráctiles para protegerse de las [[Alta tormenta\|altas tormentas]].
+## Appearance and Anatomy
+The jella tree is able to absorb [[Crem\|crem]] and use it to reinforce its wood. The crem gives the tree its light brown color and rocklike texture. They are relatively tall trees, and they have particularly strong branches. The leaves of the tree are long and thin, with a needle-like appearance. The leaves are brightly colored in yellow, red, pink, and orange, resembling fiery explosions of color. Like many other plants on Roshar, the leaves are retractable for protection from [[Highstorm\|highstorms]].
 
-## Ecología
-Se sabe que los árboles jella crecen en [[Jah Keved\|Jah Keved]]. Abundan en las cuencas parcialmente protegidas de las altas tormentas y crecen densamente en sus laderas.
+## Ecology
+Jella trees are known to grow in [[Jah Keved\|Jah Keved]]. They are abundant in basins that are partially sheltered from the highstorms and grow densely on their slopes.
 
-## Usos
-Como los árboles jella son bastante fuertes, pueden utilizarse para sostener grandes toldos en eventos como festivales al aire libre. A pesar de su fuerza, los árboles pueden talarse si es necesario. Sus ramas pueden soportar el peso de una persona. [[Hoid\|Hoid]] se sentó una vez en un árbol jella mientras hablaba con [[Shallan\|Shallan]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 20:16, 20 August 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Uses
+Because jella trees are quite strong, they can be used to support large canopies for events such as outdoor festivals. Despite their strength, the trees can be felled, if needed. Their branches can support the weight of a person, and [[Hoid\|Hoid]] once sat in a jella tree while speaking to [[Shallan\|Shallan]].
 
 
 
-https://es.coppermind.net/wiki/Jella
+https://coppermind.net/wiki/Jella

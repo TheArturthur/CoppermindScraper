@@ -1,48 +1,25 @@
-
-
 |**Camon**|
 |-|-|
 ||
-|**Fallecido**|c 1022 [[Imperio Final\|IF]]|
-|**Grupo**|[[Banda de Camon\|Banda de Camon]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Died**|c 1022 [[Final Empire\|FE]]|
+|**Groups**|[[Camon's crew\|Camon's crew]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-**Camon** es un [[Skaa\|skaa]] de [[Luthadel\|Luthadel]] en [[Scadrial\|Scadrial]].
+**Camon** is a [[Skaa\|skaa]] from [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
 
-## Apariencia y personalidad
-Camon es corpulento, con dedos rechonchos, cara regordeta y tendencia a beber. Se le describe como extremadamente arrogante, así como tiránico, aunque es más probable que se deba a la naturaleza de su clandestinidad [[Skaa\|skaa]] que a su propia personalidad. Dirige una destacada banda de ladrones en [[Luthadel\|Luthadel]] que incluye muchos skaa que estafan a la gente y a los [[Ministerio del Acero\|Cantones]]. Es probable que conozca la capacidad de [[Vin\|Vin]] para utilizar la [[Alomancia\|alomancia]], aunque no se conoce si sabía que era nacida de la bruma o si simplemente creía que era una [[Aplacador\|aplacadora]]. Se aprovecha de esto haciendo que ella, sin saberlo, aplaque a la gente para que sea más fácil estafarla.
-Camon es muy es uno de los mejores imitadores de [[Noble\|nobles]] en los bajos fondos de Luthadel, hace que su equipo se haga pasar por esclavos skaa, sirvientes y nobles para vender la estafa.
+## Appearance and Personality
+Camon is stout, with stubby fingers, a pudgy face, and a tendency to drink. He is extremely arrogant, as well as tyrannical, though this is more likely due to the nature of his [[Skaa\|skaa]] underground rather than his own personality. He leads a prominent thieving crew in [[Luthadel\|Luthadel]] that includes many skaa where they scam people and [[Canton\|Cantons]]. He is likely aware of [[Vin\|Vin's]] ability to use [[Allomancy\|Allomancy]], although it is unknown whether he knew she was [[Mistborn\|Mistborn]] or he just believed her to be a [[Soother\|Soother]]. He exploits this by making her unknowingly Soothe people so they're easier to scam.
+Camon is very is one of the best [[Noble\|noble]] impersonators in the Luthadel underground, he has his team impersonate skaa slaves, servants, and nobles to sell the scam.
 
-## Historia
-Era el líder de la [[Banda de Camon\|banda]] de ladrones con la que trabajaba [[Vin\|Vin]].
-Unos seis años antes del [[Colapso\|Colapso]], [[Theron\|Theron]], líder de una banda de ladrones, descubrió que el [[Ministerio del Acero\|Ministerio del Acero]] trasladaba en secreto una gran cantidad de fondos a [[Luthadel\|Luthadel]] junto con acólitos que se trasladaban a la ciudad para su instrucción final. Durante los cinco años siguientes, gastó miles de [[Arquilla\|arquillas]] para crear la oportunidad perfecta para robar estos fondos, creando la apariencia de que la Casa Jedue estaba desesperada económicamente. Esto incluía falsificar contratos para que la Casa Jedue "perdiera", como el trato **Farwan**, cuya "pérdida" hizo que pareciera que ya no podía permitirse llevar sus barcos por el canal a Luthadel. Esto, a su vez, le permitió solicitar un contrato con el  para gestionar los barcos del canal que transportaban a los acólitos, y hacer la oferta extremadamente atractiva ofreciendo un precio significativamente reducido sin que pareciera sospechoso.
-Sin embargo, para vender la estafa, Theron necesitaba a alguien que interpretara el papel de lord Jedue, por lo que se asoció a regañadientes con Camon. Camon le siguió el juego, pero sabía que los recursos de Theron eran escasos. Tras conseguir el contrato, Camon traicionó a Theron y se limitó a aceptar el anticipo de tres mil arquillas, abandonando el plan de hacerse con los barcos y el acero del convoy, y dejando que Theron tuviera que enfrentarse a la ira del Ministerio cuando descubrió que había sido estafado.
-Durante la estafa que Vin utilizó [[Alomancia\|alomancia]] en un [[Obligador\|obligador]] en el Cantón de las Finanzas, y [[Bendal\|un inquisidor]] fue puesto tras su pista. Como castigo por su crueldad con Vin, es expulsado por [[Kelsier\|Kelsier]] y se convierte en mendigo. Más tarde es asesinado por el inquisidor para enviar una advertencia a la banda de Kelsier.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+He was the leader of a [[Camon's crew\|thief crew]] that [[Vin\|Vin]] worked with.
+About six years before the [[Collapse\|Collapse]], [[Theron\|Theron]], a leader of a thieving crew, discovered that the [[Steel Ministry\|Steel Ministry]] secretly moved a large amount of funds to [[Luthadel\|Luthadel]] along with acolytes transferring to Luthadel for their final instruction. Over the next five years, he spent thousands of [[Boxing\|boxings]] to create the perfect opportunity to steal these funds, creating the appearance that House Jedue was financially desperate. This included faking contracts for House Jedue to "loose," such as the **Farwan** deal, the "loss" of which made it appear as if House Jedue could no long afford to run its canal boats to Luthadel. This appearance, in turn, allowed him to apply for a contract with the [[Canton of Finance\|Canton of Finance]] to run the canal boats that transported the acolytes, and make the offer extremely appealing by offering a significantly reduced price without it appearing suspicious.
+To sell the con, however, Theron needed someone to play the role of Lord Jedue, and so reluctantly partnered with Camon. Camon played along, but he knew Theron's resources were stretched thin. After securing the contract, Camon betrayed Theron and simply took the three thousand boxing down payment, abandoning the plan to actual run the boats and steel from the convoy, and leaving Theron to deal with the Ministry's wrath when it discovered it had been scammed.
+During the scam Vin used [[Allomancy\|Allomancy]] on an [[Obligator\|obligator]] in the Canton of Finance, [[Bendal\|an Inquisitor]] was set on his trail. As punishment for his cruelty to Vin, he is ousted by [[Kelsier\|Kelsier]] and becomes a beggar. He is later killed by the Inquisitor to send a warning to [[Kelsier's crew\|Kelsier's crew]].
 
 
 
-https://es.coppermind.net/wiki/Camon
+https://coppermind.net/wiki/Camon

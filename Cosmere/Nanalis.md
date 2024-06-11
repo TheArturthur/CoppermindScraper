@@ -1,35 +1,22 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nanalis**|
 |-|-|
-|**Oficio**|Presidenta del Consejo de [[ReAlba (planeta)\|ReAlba]]|
-|**Especie**|[[UrDail\|UrDail]]|
-|**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[ReAlba (novella)\|ReAlba]]*|
+|**Profession**|Council President of [[ReDawn (planet)\|ReDawn]]|
+|**Species**|[[UrDail\|UrDail]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[ReDawn (novella)\|ReDawn]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Nos hacemos llamar Unidad e Independencia, pero el planeta entero disfruta de los beneficios que ofrecen tanto la libertad como la paz. Los verdaderos enemigos son quienes pretenden dividir ReAlba, quienes amenazan nuestra paz, quienes ponen en peligro la prosperidad de toda la ciudadanía.*”
-\-El mensaje de Nanalis en un evento deportivo[1]
+>“*We call ourselves Unity and Independence, but we all enjoy the benefits of both freedom and peace. The real enemies are those who seek to divide ReDawn, who threaten our peace, and who put the prosperity of all denizens in jeopardy. Progress for ReDawn! May her enemies be swiftly silenced for the good of us all.*”
+\-Nanalis’ message at a sporting event[1]
 
 
-**Nanalis** es la Presidenta del Consejo de UrDail, la principal figura gubernamental del planeta, y es relativamente nueva en el cargo. También es la suma canciller de la facción de la Unidad en el gobierno de ReAlba.
+**Nanalis** is the Council President of the Council of UrDail, the leading government figure on the planet, and is relatively new to the position. She is also the High Chancellor of the Unity faction in ReDawn’s government.
 
-## Historia
-Como parte de la facción Unidad, Nanalis intentó unir ReAlba y aliarse con la Supremacía, en oposición a la facción Independencia. Hizo una declaración en un evento deportivo al que asistieron [[Alanik\|Alanik]] y [[Rinakin\|Rinakin]], llamando a la gente de la facción Unidad sus enemigos, tratando de dividir ReAlba, diciendo que deben ser silenciados. Organizó el secuestro de Rinakin, e instauró una cooperación bipartidista con la Supremacía, con el fin de elevar a ReAlba al escenario galáctico. Utilizó une dione para hacerse pasar por Rinakin usando un brazalete holográfico creado según la tecnología tomada de [[M-Bot\|M-Bot]], e hizo que hicieran declaraciones como que Rinakin se alineaba con Nanalis y la facción de la Unidad.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## History
+As part of the Unity faction, Nanalis sought to unite ReDawn and ally with the Superiority, in opposition to the Independence faction. She made a statement at a sporting event attended by [[Alanik\|Alanik]] and [[Rinakin\|Rinakin]], calling the people in the Unity faction their enemies trying to divide ReDawn, saying that they must be silenced. She orginized the kidnapping of Rinakin, and instated a bipartisan cooperation with the Superiority, in order to elevate ReDawn to the galactic stage. She used a Dione to impersonate Rinakin using a holographic bracelet modeled after technology taken from [[M-Bot\|M-Bot]], and had them make statements as Rinakin aligning himself with Nanalis and the Unity faction.
 
 
 
-https://es.coppermind.net/wiki/Nanalis
+https://coppermind.net/wiki/Nanalis

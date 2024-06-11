@@ -1,141 +1,123 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Abismoide**|
+|**Chasmfiend**|
 |-|-|
 ||
-|**Tipo**|Grancaparazones|
-|**Nativo de**|Las [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Greatshell|
+|**Native to**|The [[Shattered Plains\|Shattered Plains]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*He oído decir que una vez una cuadrilla entera fue devorada por un abismoide, uno a uno, después de que los acorralara en un callejón sin salida. Se quedó allí sentado, cogiéndolos de a uno mientras intentaban escapar.*”
+>“*I heard that once an entire bridge crew got eaten by a chasmfiend, one at a time, after it backed them into a dead end. It just sat there, picking them off as they tried to run past.*”
 \-Teft[1]
 
 
-Los **abismoides** (Oyente: *Nulo mas vara*, se traduce como *monstruo de los abismos*) son enormes [[Grancaparaz%C3%B3n\|grancaparazones]] nativos de los abismos de las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]].
+**Chasmfiends** (Listener: *Ulo mas vara*, lit. *Beast of the Chasms*) are enormous [[Greatshell\|greatshells]] native to the chasms of the [[Shattered Plains\|Shattered Plains]] on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y biología. [[#Apariencia y biolog.C3.ADa]] 
+1 Appearance and Biology. [[#Appearance and Biology]] 
 
-1. [[#Gema coraz.C3.B3n y v.C3.ADnculos con spren]] 
-
-
-2 Ecología. [[#Ecolog.C3.ADa]] 
-
-2. [[#Ciclo vital]] 
-2. [[#H.C3.A1bitos de alimentaci.C3.B3n]] 
+1. [[#Gemheart and Spren Bonds]] 
 
 
-3 Explotación. [[#Explotaci.C3.B3n]] 
+2 Ecology. [[#Ecology]] 
 
-3. [[#Caza de los abismoides]] 
-3. [[#Caza excesiva]] 
-
-
-4 Cultura. [[#Cultura]] 
-
-4. [[#Dichos y frases hechas]] 
-4. [[#Religi.C3.B3n]] 
-4. [[#Relaci.C3.B3n con los oyentes disidentes]] 
+2. [[#Life Cycle]] 
+2. [[#Feeding Habits]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+3 Exploitation. [[#Exploitation]] 
+
+3. [[#Chasmfiend Hunts]] 
+3. [[#Overhunting]] 
 
 
-## Apariencia y biología
-  Boceto de <<Shallan\|Shallan>> de un abismoide
-Para más imágenes, ver [[Abismoide/Galer%C3%ADa\|/Galería]].
-Los abismoides son los animales terrestres más grandes que se conocen en [[Roshar\|Roshar]]: miden mínimo seis metros de ancho, seis veces la altura de un hombre adulto plenamente desarrollado, y más del doble de largo. Son largos y estrechos, con una cola aplanada y fraccionada que recuerda a la de un cangrejo de río. Como la mayoría de la fauna roshariana, son crustáceos con un exoesqueleto de caparazón que cubre todo su cuerpo. Dicho caparazón es de color violeta oscuro (aunque es posible que también haya otros colores), y es extremadamente duradero, siendo capaz de soportar incluso una lluvia de flechas. Cubre la espalda de la bestia en una serie de placas entrelazadas, en forma de V invertida, con protuberancias en forma de cuernos que crecen en los bordes. Bajo él, la sangre y las vísceras del abismoide son de color púrpura, y huelen a moho. La carne es comestible tanto para los humanos como para la fauna nativa.
-Debajo de la armadura, un abismoide tiene dieciocho patas. Cuatro patas delanteras están colocadas en hombros anchos, con dos dedos en garras en cada una de ellas. Sirven como principal medio de ataque, tanto para aplastar como para rebanar a sus presas. Detrás de ellas, catorce extremidades más pequeñas se encargan de la locomoción. Un abismoide puede moverse extremadamente rápido cuando lo desea, y tiene la agilidad necesaria para girar en los estrechos corredores de los abismos.
-La cabeza de los abismoides es triangular y se estrecha hasta una punta como la de una flecha. Dentro de la larga mandíbula tiene una boca circular rodeada de varios anillos de dientes. Hay varios tipos de dientes presentes, desde colmillos afilados y molares planos hasta pequeñas mandíbulas que empujan la comida hacia el interior de la garganta. Flanqueando la boca hay un par de patas delanteras más pequeñas, que el abismoide puede utilizar para manipular objetos y recoger comida. Los abismoides son capaces de vocalizar; emiten rugidos que suenan como cuatro trompetas que braman al mismo tiempo.
-Los ojos, situados encima de la mandíbula, son vidriosos y verdes. También tienen lo que parece ser párpados gruesos que se cierran de lado, posiblemente una . Las fosas nasales están situadas en el extremo de las fauces, mientras que las orejas son agujeros desnudos situados ligeramente detrás de los ojos.
+4 Culture. [[#Culture]] 
 
-### Gema corazón y vínculos con spren
->“*Bavamar hizo los cálculos sobre grancaparazones de Reshi y descubrió que debería aplastarlos su propio peso.*”
+4. [[#Sayings and Idioms]] 
+4. [[#Religion]] 
+4. [[#Relation with Listener Dissidents]] 
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance and Biology
+  <<Shallan\|Shallan's>> sketch of a chasmfiend
+For more images, see [[Chasmfiend/Gallery\|/Gallery]].
+Chasmfiends are the largest known land animals on [[Roshar\|Roshar]]: at least twenty feet wide, six times the height of an adult man at their peak, and over twice as long. They are long and narrow, with a flattened, split tail reminescent of that of a crayfish. Like most of Rosharan fauna, they're crustaceans, with a carapace exoskeleton covering their entire body. Said carapace is dark violet (though it's possible that other colors can also occur), and extremely durable, being able to withstand even a hail of arrows. It covers the beast's back in a series of interlocking, upside-down-V-shaped plates with horn-like protrusions growing on the edges. Beneath it, the chasmfiend's blood and gore is purple, and smells of mold. The meat is edible for both humans and native fauna.
+Below the armor, a chasmfiend has eighteen legs. Four foreclaws are set into broad shoulders, with two clawed toes on each of them. They serve as the primary means of attack, both smashing and slicing the chasmfiend's prey. Behind them, fourteen smaller limbs provide locomotion. A chasmfiend can move extremely fast when it so desires, and has the agility to turn around in the narrow corridors of the chasms.
+The chasmfiend's head is triangular, narrowing down to a point like an arrowhead. Inside the long jaw, it has a circular mouth, surrounded by several rings of teeth. There are several types of teeth present, from sharp fangs and flat molars to small mandibles that shove the food further down the throat. Flanking the mouth is a pair of smaller foreclaws, which the chasmfiend can use to manipulate objects and pick up food. Chasmfiend are capable of vocalizing; they make roars that sounds like four bellowing trumpets playing at the same time.
+The eyes, set above the jaw, are glassy and green. They also have apparently thick eyelids that close sideways, possibly a . The nostrils are located at the very end of the maw, while the ears are bare holes slightly behind the eyes.
+
+### Gemheart and Spren Bonds
+>“*Bavamar did the calculations on Reshi greatshells, and found they should be crushed by their own weight.*”
 \-Shallan[10]
 
 
-Como todos los [[Grancaparaz%C3%B3n\|grancaparazones]], los abismoides tienen una [[Gema coraz%C3%B3n\|gema corazón]] que crece en su interior. Las gemas corazón de los abismoides parecen ser siempre esmeraldas, y son particularmente enormes. Estas gemas corazón son probablemente lo que permite a los abismoides vincularse con los [[Mandra\|mandras]], un tipo de [[Spren\|spren]] conectado a la gravedad. El vínculo es un factor crucial que permite que los abismoides crezcan hasta ese enorme tamaño. Reduce el peso del abismoide, impidiendo que se aplaste a sí mismo; así, desde un punto de vista matemático, los abismoides vuelan (o al menos flotan). Cualquier criatura que intente imitar a un abismoide, como un [[Kandra\|kandra]], necesitaría una forma de crear o sustituir ese vínculo para sobrevivir.
-Los mandras abandonan el cuerpo del abismoide en las horas inmediatamente posteriores a su muerte. Su aspecto es algo distinto al que tienen normalmente cuando regresan a [[Shadesmar\|Shadesmar]], siendo a menudo confundidos con lenguas de humo.
+Like every [[Greatshell\|greatshell]], chasmfiends have a [[Gemheart\|gemheart]] growing inside of them. The chasmfiend gemhearts seem to always be emeralds, and are noted as particularly enormous. Those gemhearts are likely what allows chasmfiends to bond with [[Mandra\|mandras]], a type of [[Spren\|spren]] connected to gravity. The bond is a crucial factor in allowing the chasmfiend to grow to its enormous size. It reduces the chasmfiend's weight, keeping it from crushing itself; as such, from a mathematical standpoint, chasmfiends fly, or at least float. Any creature attempting to mimic a chasmfiend, such as a [[Kandra\|kandra]], would require a way to create or substitute that bond to survive.
+The mandras leave the chamsfiend's body in the hours immediately after its death. They look somewhat unlike themselves as they return to [[Shadesmar\|Shadesmar]], being often mistaken for tongues of smoke.
 
-## Ecología
+## Ecology
   A chasmfiend hunting a human
-### Ciclo vital
->“*Deben de tener un ciclo vital interesante. Acechan estos abismos, pero dudo que vivan aquí.*”
+### Life Cycle
+>“*They must have an interesting life cycle. They haunt these chasms, but I doubt they actually live here.*”
 \-Shallan[15]
 
 
-Se sabe muy poco sobre la juventud de los abismoides, a los cuales aún no hemos visto dado que principalmente han aparecido en su segunda y tercera fase del ciclo vital.. Es muy probable que no vivan en las [[Llanuras Quebradas\|Llanuras Quebradas]] durante la mayor parte de su vida, sino que emigren allí cuando llega el momento de reproducirse.
-Una vez allí, establecen un nido y continúan cazando y rebuscando en los abismos. Finalmente, impulsados por algún instinto desconocido, suben a una de las mesetas y pupan, formando una **crisálida** inmóvil de color roca a su alrededor. Esta pupación suele producirse durante la noche, con la crisálida ya formada al llegar el día. A partir de entonces, la crisálida espera una [[Alta tormenta\|alta tormenta]]; lo que ocurre anatómicamente una vez que ésta se produce no está claro, ya que es entonces cuando se suelen recolectar. No obstante, se sabe que absorben mucha Investidura al exponerse a la alta tormenta, lo cual probablemente sea la razón de que escojan esa localización para pupar.
-El ciclo vital de los abismoides se divide en al menos tres fases, entre las que se incluye la fase de pupa.
-Se reproducen de manera similar a los chulls; se desconoce lo que significa exactamente esta afirmación, aunque probablemente pongan huevos. También hay un spren involucrado de alguna forma.
+Very little is known about the chasmfiends' youth, and we have not yet seen them, primarily seeing the second and third phases of life. It's highly likely that they don't live on the [[Shattered Plains\|Shattered Plains]] for most of their life, but rather migrate there when the time comes for them to breed.
+Once there, they set up a nest, and continue hunting and scavenging across the chasms. Eventually, prompted by some unknown instinct, they climb up to one of the plateaus and pupate, forming an immobile, rock-colored **chrysalis** around themselves. This pupation typically happens during the night, with the chrysalis already formed come daytime. From then, the chrysalis awaits a [[Highstorm\|highstorm]]; what happens anatomically once that occurs in unclear, as it is at this point that people typically harvest them. They are however known to take in a lot of Investiture when hit by the Highstorm, this is likely the reason for their location in which they pupate.
+The life-cycle of a chasmfiend is split into at least three stages, including the pupation stage.
+They reproduce similarly to chulls; what exactly this means is unknown, but they likely lay eggs. It involves a spren in some way.
 
-### Hábitos de alimentación
-En el ecosistema natural de las Llanuras, los abismoides son los superdepredadores. Su cuerpo segmentado y estrecho les facilita el movimiento a través de los abismos; aun así, llenan todo el espacio disponible y su paso suele estar marcado por largos arañazos y flora raspada cuando el caparazón se arrastra por la pared del abismo. Su enorme volumen también puede ser una forma de protección contra las inundaciones de las [[Alta tormenta\|altas tormentas]], ya que puede bloquear al abismoide en el sitio, impidiendo que el agua de la inundación se lo lleve.
-Los abismoides son carnívoros; en su hábitat original, probablemente cazan [[Chull\|chulls]] salvajes, utilizando sus enormes garras delanteras para aplastar los caparazones de sus presas y alimentarse de la carne que contienen. Cuando viajan a las [[Llanuras Quebradas\|Llanuras Quebradas]], sin embargo, se convierten en carroñeros, devorando los cadáveres de las criaturas que caen o son arrastradas a los abismos desde las mesetas de arriba.
+### Feeding Habits
+In the natural ecosystem of the Plains, chasmfiends are the apex predators. Their segmented, narrow body makes it easy for them to move through the chasms; still, they fill all available space, and their passing is often marked by long scratches and scraped flora as the carapace drags across the chasm wall. Their massive bulk can also be a form of protection from the [[Highstorm\|highstorm]] flooding, as it can lock the chasmfiend in place, stopping the flood water from carrying it off.
+Chasmfiends are carnivorous; within their original habitat, they likely hunt wild [[Chull\|chulls]], using their massive foreclaws to crush their prey's shells and feed on the meat within. As they travel to the [[Shattered Plains\|Shattered Plains]], however, they turn to carrion-eating, devouring corpses of creatures that fall or are washed down into the chasms from the pleateaus above.
 
-## Explotación
-  <<Elhokar\|Elhokar>> dando caza a un abismoide
-Tanto los [[Oyente\|oyentes]] como los humanos cazan a los abismoides por sus [[Gema coraz%C3%B3n\|gemas corazón]], aunque también se cosechan la carne y el caparazón. La mayoría de las veces sólo se "caza" la crisálida, ya que es entonces cuando el abismoide es más vulnerable y menos agresivo. Una vez localizada la crisálida, los cazadores la abren con mazos y [[Hoja esquirlada\|hojas esquirladas]] y extraen la gema corazón que contiene, matando al abismoide en el proceso. En estas "cacerías", el mayor peligro son los otros ejércitos cuyo objetivo es esa misma crisálida.
+## Exploitation
+  <<Elhokar\|Elhokar>> hunting a chasmfiend
+Both [[Listener\|listeners]] and humans hunt chasmfiends down for their [[Gemheart\|gemhearts]], although meat and carapace are also harvested. Most of the time, only the chrysalis is "hunted", as it is then that the chasmfiend is at both its most vulnerable and least aggressive. Once the chrysalis is located, the hunters break it open with mallets and [[Shardblade\|Shardblades]] and extract the gemheart within, killing the chasmfiend in the process. On such "hunts", the biggest danger are the other armies after the same chrysalis.
 
-### Caza de los abismoides
-Aunque raramente, los abismoides adultos también son cazados, sobre todo cuando se adentran en un territorio reclamado por uno de los [[Alto pr%C3%ADncipe\|altos príncipes]]. En primer lugar, se atrae al abismoide para que suba a la meseta colocando cadáveres de cerdos y vertiendo sangre de cerdo en los abismos, para que la bestia la huela. Una vez que el abismoide emerge, lo cual puede llevar varias horas, se suelta un rebaño de cerdos salvajes para que los persiga. Los arqueros equipados con [[Granarco\|granarcos]] (el único tipo de arco capaz de dañar al abismoide) acribillan a la criatura con flechas para debilitarla. Finalmente, los [[Portador de esquirlada\|portadores de esquirlada]] se acercan a la bestia y le cortan las patas con sus hojas. Una vez derribado, se prepara al abismoide para un golpe mortal asestado con una hoja a través de la columna vertebral. La gema corazón puede entonces ser cosechada de la bestia derrotada.
+### Chasmfiend Hunts
+Though rarely, adult chasmfiends are also hunted, mostly when one wanders into a territory claimed by one of the [[Highprince\|highprinces]]. First, the chasmfiend is lured to climb up onto the plateau by stringing out hog carcasses and pouring hog blood into the chasms, to let the beast smell it. Once the chasmfiend emerges, which can take up to several hours, a flock of wild hogs is let loose for it to pursue. Archers equipped with [[Grandbow\|grandbows]] -- the only bow type capable of harming the chasmfiend -- then pepper the creature with arrows to weaken it. Eventually, [[Shardbearer\|Shardbearers]] approach the beast and cut off its legs with their Blades. Once toppled, the chasmfiend is set up for a killing stroke, delivered with a Blade through the spine. The gemheart can then be harvested from the downed beast.
 
-### Caza excesiva
->“*Los animales como los abismoides no suelen tener depredadores. Perder de repente ciento cincuenta o más miembros en un año podría ser catastrófico para su población.*”
+### Overhunting
+>“*Animals like the chasmfiends don't normally have predators. Suddenly losing a hundred and fifty or more of their numbers a year could be catastrophic to their population.*”
 \-Shallan[15]
 
 
-Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], el número de abismoides que murieron antes de poder tener descendencia se disparó, siendo cazados más de quince cada mes por sus gemas corazón y la riqueza y capacidad de [[Moldear almas\|moldeado de almas]] que proporcionaban. Como resultado, en los últimos años de la guerra, su número empezó a disminuir y aparecieron menos crisálidas. [[Shallan Davar\|Shallan Davar]] teorizó que, como la especie carecía anteriormente de depredadores, simplemente no podía hacer frente a esta nueva afluencia de pérdidas, por lo que se dirigía hacia la extinción.
-Se han propuesto algunas soluciones para mitigar esto; principalmente, reducir el número de cacerías e incluso criar abismoides en cautividad para obtener sus gemas corazón. Sin embargo, con la llegada de la [[Tormenta eterna\|tormenta eterna]] tanto esos planes como las propias cacerías han quedado en suspenso, ya que una amenaza mayor en forma de [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] ocupó la atención de los ejércitos que normalmente cazaban abismoides.
+During the [[War of Reckoning\|War of Reckoning]], the number of chasmfiends that died before they could produce offspring soared, with over fifteen being hunted down every month for their gemhearts, and the wealth and [[Soulcasting\|Soulcasting]] ability they provided. As a result, in the waning years of the war, their numbers began to dwindle, with fewer chrysalises appearing. [[Shallan Davar\|Shallan Davar]] theorized that as the species previously lacked any predators, it simply couldn't cope with this new influx of losses, and was thus headed towards extinction.
+Some solutions have been proposed to mitigate this; primarily, reducing the number of hunts and even breeding chasmfiends in captivity for their gemhearts. However, with the arrival of the [[Everstorm\|Everstorm]], those plans, as well as the hunts themselves, have been put on hold as a bigger threat in form of the [[Voidbringer\|Voidbringers]] occupied the attention of the armies that would normally hunt chasmfiends.
 
-## Cultura
-  Una representación antigua de un <<Portador del Vac%C3%ADo\|Portador del Vacío>> basada en un abismoide
-Los [[Alezi\|alezi]] dicen con razón que los abismoides son los depredadores más mortíferos de [[Roshar\|Roshar]]. Antes de la [[Guerra de la Venganza\|Guerra de la Venganza]] se les consideraba legendarios, y la gente rara vez se aventuraba a salir a las Llanuras para cazarlos. En aquel entonces, matar a un abismoide era extremadamente raro; el rey [[Gavilar\|Gavilar]] nunca había matado a uno, y no por falta de intentos. Sin embargo, a medida que avanzaba la guerra, gran parte del misticismo que los rodeaba se fue desvaneciendo, aunque todavía se entiende que son extremadamente peligrosos.
+## Culture
+  An ancient depiction of a <<Voidbringer\|Voidbringer>>, based on a chasmfiend
+Chasmfiends are deservedly said to be the deadliest predators on [[Roshar\|Roshar]] by the [[Alethi\|Alethi]]. Prior to the [[War of Reckoning\|War of Reckoning]], they were considered legendary, with people rarely venturing out into the Plains to hunt them. Back then, to kill a chasmfiend was extremely rare; king [[Gavilar\|Gavilar]] had never slain one, and not for lack of trying. As the war progressed, however, much of the mystique surrounding them has been stripped away, though they are still understood to be extremely dangerous.
 
-### Dichos y frases hechas
-Hay numerosos refranes relacionados con los abismoides, probablemente desarrollados durante la Guerra. Incluyen:
+### Sayings and Idioms
+There are numerous saying involving chasmfiends; likely, those developed during the War. They include:
 
-Incluso un abismoide deja de luchar cuando se le decapita
-Intentar decidir qué pinza del abismoide iba a aplastarte
-Luchar como abismoides
-Actuar como si un abismoide se hubiera comido a su madre
-Como si se hubiera convertido en un abismoide
-Como tres niños atacando a un abismoide con palos
-Preferiría coquetear con un abismoide
-Las ratas habrían tenido más posibilidades enfrentándose a un abismoide
-### Religión
-Antes y durante la [[Guerra de la Venganza\|Guerra de la Venganza]], era una creencia común entre los [[Alezi\|alezi]] que los [[Oyente\|oyentes]] consideraban a los abismoides sus dioses. Esta fue una interpretación errónea hecha por los primeros exploradores debido a las barreras lingüísticas, y nunca se llegó a investigar a fondo; por ello, cerca del final de la guerra, gente como [[Shallan\|Shallan]] llegó a dudar de ello. De hecho, incluso antes de su muerte, [[Gavilar Kholin\|Gavilar Kholin]] era consciente de que los oyentes no adoraban a los abismoides; sin embargo, por su asesinato y el posterior conflicto, nunca hubo tiempo para que eso se convirtiera en conocimiento común, por lo que el malentendido persistió.
-Los abismoides también han tenido su lugar en la religión [[Vorin\|vorin]]. Las antiguas representaciones de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] se basaban a menudo en abismoides, lo que llevó a algunos a creer que los abismoides eran los Portadores del Vacío o parte de sus fuerzas. Sin embargo, las investigaciones de [[Jasnah Kholin\|Jasnah Kholin]] sugierieron que era mucho más probable que los artistas que representaron originalmente a los Portadores del Vacío, que vivieron generaciones después de la última [[Desolaci%C3%B3n\|Desolación]], no supieran qué aspecto tenían dichos Portadores del Vacío, por lo que se inspiraron en la criatura más aterradora que conocían (el abismoide) para aproximarse.
-Con la llegada de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], se hizo evidente que la representación de los abismoides como Portadores del Vacío se debía a que los historiadores los confundían con los [[Tronador\|tronadores]], otro tipo de criaturas masivas que en realidad sirven a [[Odium\|Odium]]. Los tronadores y los abismoides comparten muy pocas características físicas, principalmente su enorme tamaño y la forma de la cabeza. Sin embargo, se les mata de forma muy similar, cortándoles las piernas con [[Hoja esquirlada\|hojas esquirladas]].
+Even a chasmfiend stops fighting when it's been decapitated
+Trying to choose which claw of the chasmfiend would crush you
+Fight like chasmfiends
+Acting like a chasmfiend ate their mother
+As if they had turned into a chasmfiend
+Like three children attacking a chasmfiend with sticks
+I'd sooner flirt with a chasmfiend
+Rats have a better chance fighting a chasmfiend
+### Religion
+Prior to and during the [[War of Reckoning\|War of Reckoning]], it was a common belief among the [[Alethi\|Alethi]] that the [[Listener\|listeners]] considered the chasmfiends their gods. This was a misinterpretation made by early explorers based on linguistic barriers, and one that was never thoroughly investigated; as such, near the end of the war, people like [[Shallan\|Shallan]] came to doubt it. In fact, even prior to his death, [[Gavilar Kholin\|Gavilar Kholin]] was aware that the listeners did not, in fact, worship the chasmfiends; however, with the assassination and the subsequent conflict, there was never the time for that to become common knowledge, and so the misconception persisted.
+Chasmfiends have also had their place in the [[Vorin\|Vorin]] religion. Ancient depictions of [[Voidbringers\|Voidbringers]] were often based on chasmfiends, leading some to believe that chasmfiends were either Voidbringers or part of Voidbringer forces. However, [[Jasnah Kholin\|Jasnah Kholin's]] research suggested that it was far more likely that the artists who originally depicted Voidbringers, who lived generations after the last [[Desolation\|Desolation]], did not know what said Voidbringers looked like, and so used the most terrifying creature they knew of -- the chasmfiend -- to approximate.
+With the arrival of the [[True Desolation\|True Desolation]], it became apparent that chasmfiends being depicted as Voidbringers came from historians conflating them with [[Thunderclast\|thunderclasts]] -- another type of massive creatures, which actually serve [[Odium\|Odium]]. Thunderclasts and chasmfiends share very few physical characteristics; most notably, their enormous size and the shape of the head. However, they are killed in very similar way, by slicing at their legs with [[Shardblade\|Shardblades]].
 
-### Relación con los oyentes disidentes
-En la noche en que se invocó la tormenta eterna, al menos un abismoide ayudó a los oyentes que se negaron a tomar la forma tormenta a escapar de los abismos. El abismoide continuó colaborando con los oyentes disidentes tras este hecho.
+### Relation with Listener Dissidents
+In the night the Everstorm is summoned, at least one chasmfiend helped the listeners who refused to take stormform escape the chasms. The chasmfiend continues to work with the listener dissidents afterwards.
 
-## Curiosidades
-La inspiración para los abismoides fue un  que [[Ben McSweeney\|Ben McSweeney]] creó cuando Brandon estaba pensando en Roshar con él. El boceto contenía una imagen de un crustáceo escondido en un pasaje estrecho basado en un coral; la criatura acabó convirtiéndose en el abismoide. Ese mismo boceto hizo que las [[Llanuras Quebradas\|Llanuras Quebradas]] (que originalmente formaban parte de *[[Dragonsteel Prime\|Dragonsteel Prime]]*) se trasladaran a Roshar.
-El abismoide es la criatura ficticia favorita de Brandon de sus propias obras.
-Un abismoide puede ser despertado como [[Sinvida\|sinvida]]. Sin embargo, harán falta múltiples alientos y puede llevar a que el sinvida colapse bajo su propio peso.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] ·  · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+The inspiration for chasmfiends was a  that [[Ben McSweeney\|Ben McSweeney]] created when Brandon was brainstorming Roshar with him. The sketch contained a picture of a crustacean hiding in a narrow passage based on a coral; the creature eventually became the chasmfiend. That same sketch led to the [[Shattered Plains\|Shattered Plains]] -- originally part of *[[Dragonsteel Prime\|Dragonsteel Prime]]* -- to be moved to Roshar.
+The chasmfiend is Brandon's favorite fictional creature from his own works.
+A chasmfiend could be Awakened as a [[Lifeless\|Lifeless]]. However, this would require multiple Breaths, and would result in the Lifeless collapsing under its own weight.
 
 
-
-https://es.coppermind.net/wiki/Chasmfiend
+https://coppermind.net/wiki/Chasmfiend

@@ -1,51 +1,39 @@
-
-
 |**Hion**|
 |-|-|
-|**Relacionado con**|[[Haijo\|Haijo]], [[Virtuosismo\|Virtuosismo]]|
-|**Tipo**|[[Investidura\|Investidura]]|
-|**Mundo de origen**|[[Komashi\|Komashi]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Hijo\|Hijo]], [[Virtuosity\|Virtuosity]]|
+|**Type**|[[Investiture\|Investiture]]|
+|**World of Origin**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **hion** es una forma de [[Investidura\|Investidura]] provista por los [[Haijo\|haijo]] en [[Komashi\|Komashi]], utilizada para hacer funcionar la tecnología en ese planeta. Típicamente, toma forma de un par de líneas de energía, de color aguamarina y magenta, llamadas **líneas de hion**.
+**Hion** is a form of [[Investiture\|Investiture]] supplied by the [[Hijo\|hijo]] on [[Komashi\|Komashi]], used to power technology on that world. It typically takes the form of a pair of energy bands, colored light blue and magenta, called **hion lines**.
 
-## Sumario
+## Contents
 
-1 Apariencia y mecánicas. [[#Apariencia y mec.C3.A1nicas]] 
-2 Tecnología. [[#Tecnolog.C3.ADa]] 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
-
-
-## Apariencia y mecánicas
-Las líneas de hion pueden encontrarse en una variedad de tamaños, desde tan finas como cables hasta el grosor de una muñeca. Se originan del suelo, donde se llaman "cabos de hion", pero luego pueden ser extendidas en el aire, ramificándose, y colgar allí sin necesidad de soportes. Sus colores pueden describirse de muchas formas, pero generalmente se dice que son de tonos eléctricos y vibrantes de aguamarina y magenta. Se puede oír un zumbido suave proveniente de ellas, y no se mueven. Tocar una línea de hion te provoca una sensación arrolladora y electrificante.
-Las líneas de hion son las responsables de mantener a raya la [[Mortaja\|mortaja]] en Komashi, y, en consecuencia, son omnipresentes en ciudades rodeadas por ella. Hay líneas de unos cuantos centímetros de ancho recorriendo todas las calles principales, suspendidas a unos seis metros de altura del suelo, con filamentos más estrechos extendiéndose hacia calles secundarias y las zonas más pobres de la ciudad. Las líneas pueden ser cultivadas y extendidas, permitiendo, entre otras cosas, que las ciudades se expandan en la mortaja o formar caminos entre ciudades. A veces se manipulan para usos más mundanos, como crear carteles y señales para calles y negocios, o para necesidades más prácticas, como proveer de fuentes de energía a las casas o permitiendo el crecimiento de plantas en las granjas.
-El hion es sustentado por los espíritus, o haijo, en Komashi. Durante gran parte de la historia del planeta, este proceso es supervisado por la [[M%C3%A1quina padre\|máquina padre]], aunque los haijo son capaces de proporcionar hion directamente y por voluntad propia.
-
-## Tecnología
-En [[Nagadan\|Nagadan]] usan líneas de hion regularmente para alimentar su tecnología. El uso más sencillo es crear energía eléctrica al conectar dos líneas de hion juntas: un trozo de metal en medio de las dos líneas se calentará, actuando como resistor. Esto se usa muy a menudo para calentar cosas, y fácilmente puede llevar a crear también luz, entre otros posibles usos. Los teléfonos también usan líneas de hion para enviar señales, aunque pueden ser muy caros.
-Los visores de hion son un tipo de televisión que manipula líneas de hion para producir imágenes. Estas se sitúan detrás de superficies de cristal para evitar contacto indeseado, y tienen un interruptor para controlar el aparato. Las imágenes están hechas de líneas continuas, una de cada color del hion, que se doblan y curvan para recrear imágenes. Estas líneas son lo suficientemente finas para reproducir detalles tan pequeños como pestañas.
-Otra aplicación común del hion es en varios métodos de transporte. Trenes, autobuses, carros, y barcos usan líneas de hion. Además de los métodos de transporte más habituales, las líneas de hion pueden usarse para dar energía a naves espaciales. El [[Autob%C3%BAs espacial\|autobús espacial]] fabricado por Nagadan usa una línea de hion móvil que puede ser extendida rápidamente hacia la dirección en la que se desee viajar. Desde Komashi, esta nave es capaz de llegar al menos hasta [[UTol\|UTol]] y la [[Estaci%C3%B3n de paso Hierro Siete\|estación de paso Hierro Siete]].
-Los personajes de «*[[Estaciones de lamento\|Estaciones de lamento]]*» hacen referencia a una hoja de hion, aunque puede que este objeto sea ficticio.
-
-## Historia
-Los académicos del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] fueron los primeros en descubrir el concepto del hion y montar una máquina que pudiera usar los haijo para proveer de energía a [[Torio\|Torio]]. A pesar de las catastróficas e imprevistas consecuencias que siguieron la activación de la máquina, el aparejo cumplió su principal objetivo de proveer hion. Generó cabos de hion, surgiendo del suelo alrededor del reino de Torio. Estos empezaron como luces brillantes emergiendo del suelo, y eran los únicos puntos en los que plantas eran capaces de crecer en la mortaja. Los humanos se asentaron en estos puntos y aprendieron a cultivar las líneas de hion, extendiéndolas y ramificándolas. Debido a la manera en la que el hion es capaz de ahuyentar la mortaja, estas líneas de hion acabaron convirtiéndose en un aspecto fundamental de la infraestructura de Komashi, y la tecnología hion fue desarrollada extensivamente en los diecisiete siglos posteriores.
-Los haijo continuaron dando energía a las líneas de hion después de que la máquina fuera destruida, aunque ahora era por su propia voluntad y a cambio de los dramas en los visores de hion.
-
-## Curiosidades
-Los colores del hion fueron escogidos intencionalmente como dos de los colores usados habitualmente en impresoras. Se desconoce de momento que pasó con el color amarillo.
-Los dos colores son una manifestación del tema general de tirón-empujón que se encuentra en toda la Investidura. Aunque es mucho más marcado con Virtuosismo.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] ·  · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+1 Appearance and Mechanics. [[#Appearance and Mechanics]] 
+2 Technology. [[#Technology]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
+## Appearance and Mechanics
+Hion lines can be found in a variety of sizes, ranging from wire-thin to at least the thickness of a wrist. They originate from the ground, where they are called "hion stubs", but from there hion lines extend into the air, branching out, and hang unsupported. Their coloring can be described in many ways, but in general they are said to be electric, energetic shades of cyan and magenta. They hum very quietly, and are motionless. Touching a hion line gives an overwhelming, electrifying sensation.
+Hion lines are responsible for pushing back the [[Shroud\|shroud]] on Komashi, and consequently are pervasive in cities when the shroud was present. Primary lines a few inches across run down all major streets, floating about twenty feet above the ground, with thin branches winding down smaller streets and in poorer sections of town. The lines themselves can be cultivated and extended, allowing for--among other things--cities to expand into the shroud or passageways between cities to be formed. They are sometimes manipulated for more mundane reasons, such as using the lines themselves to create signage for streets and businesses, or for more practical needs, such as bringing a power source into homes or supporting plant growth on farms.
+Hion is powered by the spirits, or hijo, on Komashi. For much of Komashi's history, this is directed by the [[Father machine\|father machine]], though hijo are capable of supplying hion directly and of their own will.
 
-https://es.coppermind.net/wiki/Hion
+## Technology
+In [[Nagadan\|Nagadan]], hion lines are regularly used to support their technology. The simplest use is to create electrical power by connecting two hion lines together: a piece of metal placed between two lines will heat up, acting as a resistor. This is commonly used for heating, and can easily be exploited for lighting as well, among other possible applications. Telephones can also utilize hion lines to send signals, though these can be very expensive.
+Hion viewers are a form of television that manipulates hion lines to produce images. The lines themselves are placed behind a glass surface to prevent unwanted contact, and a knob is used to control the device. These are made up of single continuous lines, one of each color of hion, which bend and twist in order to recreate images. These lines are thin enough that they are able to reproduce details as fine as eyelashes.
+One very common application of hion is in various means of transportation. Trains, buses, trolleys, and boats all make use of hion lines. In addition to everyday transportation methods, hion lines can also be used to power spaceships. The [[Space bus\|space bus]] engineered by Nagadan utilizes a mobile hion line which can be extended rapidly in the direction of desired travel. From Komashi, this ship is capable of reaching at least as far as [[UTol\|UTol]] and the [[Iron Seven Waystation\|Iron Seven Waystation]].
+The characters of *[[Seasons of Regret\|Seasons of Regret]]* reference a hion blade, though this device may be fictitious.
+
+## History
+Scholars from the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] first discovered the concept of hion and built a machine that could utilize the hijo to provide power to [[Torio\|Torio]]. Despite the catastrophic, unforeseen consequences that followed the machine's activation, the device did fulfill its original purpose of providing hion. It generated hion stubs, emerging from the ground around the kingdom of Torio. These began as bright lights emerging from the ground, and were the only places plants could grow within the shroud. Humans settled at these locations and learned to cultivate the hion lines, extending them and branching them out. Due to the way hion was able to repel the shroud, these hion lines ultimately became the foundational aspect of infrastructure on Komashi, and in the seventeen centuries that followed they developed hion technology extensively.
+Hijo continued to supply the hion lines after the machine was destroyed, albeit willingly and in exchange for hion viewer dramas.
+
+## Trivia
+The hion colors were intentionally picked as two of the colors commonly used in printers. It is as of yet unknown what happened to the color yellow.
+The two colors are a manifestation of the general Push-Pull theme that can be seen with all Investiture. It is, however, much more pronounced with Virtuosity.
+
+
+https://coppermind.net/wiki/Hion

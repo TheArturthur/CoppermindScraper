@@ -1,68 +1,49 @@
-
-
 |**Arshqqam**|
 |-|-|
-|**Capacidades**|[[Orden de los Vigilantes de la Verdad\|Vigilante de la Verdad]]|
-|**Vinculado con**|[[So%C3%B1ando-aunque-Despierta\|Soñando-aunque-Despierta]]|
-|**Apodos**|La Tocón|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎  [[Orfanato Luz de Tashi\|Orfanato Luz de Tashi]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo (novella)]]*|
+|**Abilities**|[[Order of Truthwatchers\|Truthwatcher]]|
+|**Bonded With**|[[Dreaming-though-Awake\|Dreaming-though-Awake]]|
+|**Aliases**|The Stump|
+|**Groups**|[[Knights Radiant\|Knights Radiant]]  [[Tashi's Light Orphanage\|Tashi's Light Orphanage]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Edgedancer (novella)\|Edgedancer]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Arshqqam**, también conocida como **la Tocón**, es una mujer que dirige el [[Orfanato Luz de Tashi\|Orfanato Luz de Tashi]] en [[Yeddaw\|Yeddaw]]. También es una [[Caballero Radiante\|Caballera Radiante]] de la Orden de los [[Vigilantes de la Verdad\|Vigilantes de la Verdad]].
+**Arshqqam**, also known as **the Stump**, is a woman who runs the [[Tashi's Light Orphanage\|Tashi's Light Orphanage]] in [[Yeddaw\|Yeddaw]]. She is also a [[Knight Radiant\|Knight Radiant]] of the order of [[Truthwatcher\|Truthwatchers]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Dirigiendo el Orfanato Luz de Tashi]] 
-2. [[#Expedici.C3.B3n a Integridad Duradera]] 
-
-
-3 Notas. [[#Notas]] 
+2. [[#Running Tashi.27s Light Orphanage]] 
+2. [[#Expedition to Lasting Integrity]] 
 
 
-## Apariencia y personalidad
-La Tocón es una mujer anciana muy severa. A muchos de sus niños no les cae bien, ni tampoco a los golfos de alrededor. A pesar de ello, Arshqqam guarda cariño a los niños, señalando que le pusieron el mote y llamándolo “un título glorioso, al proceder de niños”. También le gusta su nombre original.
+3 Notes. [[#Notes]] 
 
->“*La piel le colgaba de los huesos como algo que una se rasparía después de ponerse pérdida de mugre en una pocilga, y tenía unos dedos larguiruchos que Lift supuso que serían ramitas que se había pegado con cola después de que se le cayeran los de verdad.*”
-\-Lift sobre Arshqqam.[4]
 
-Arshqqam tiene los dedos enjutos y la piel caída. También parece frágil. [[Lift\|Lift]] la describe como un palo reseco. Además, dice que parece la hija de una escoba y de una mata de moho especialmente decidida. A su vez, una vez unida a los Caballeros Radiantes, la Tocón confiesa que, a pesar de caerle bien, Lift necesita "mano firme".
-Arshqqam no quiso dejar su vida en [[Tashikk\|Tashikk]] pero se sintió obligada a unirse a los Caballeros Radiantes una vez que se manifestaron sus poderes. No entiende por qué ella en particular fue escogida, teniendo en cuenta su avanzada edad, pero sintió que si Lift, que era una niña, se había unido a la causa, no tenía excusas para no hacer hacer lo mismo.
-[[Shallan Davar\|Velo]] tiene un concepto favorable de la Tocón, comentando que hay más de ella de lo que se ve a simple vista. También nota la atención cuidadosa pero discreta hacia su apariencia y la facilidad con la que es capaz de tratar una estrategia con [[Adolin\|Adolin]], un hombre poderoso, sin sentirse intimidada.
+## Appearance and Personality
+The Stump is an elderly woman who is very stern. Many of the children in the orphanage don't like her and neither do most of the surrounding urchins. Despite this, Arshqqam looks fondly upon the children noting they gave her the nickname of the "The Stump" and calling it a "glorious title, to come from children". She does, however, also like her original name.
 
-## Historia
-### Dirigiendo el Orfanato Luz de Tashi
-La Tocón dirigía un orfanato y parecía llevar haciéndolo un tiempo. No era muy querida fuera de este; según Lift, decían que era cruel y que regalaba comida solo porque quería verse bien para los funcionarios que vigilaban la zona, aunque es posible que fuera ella quien fundara el orfanato. Se sabía que dirigía una operación para lavar dinero en la que estaba implicado el intercambio de donaciones al orfanato con [[Esferas\|esferas]] opacas. Estuvo usando inconscientemente la [[Luz tormentosa\|luz tormentosa]] de sus esferas para curar a los huérfanos a su cuidado, acusándoles incorrectamente de fingir estar enfermos. Después de conocer su verdadera naturaleza, el [[Gawx\|Aqasix Supremo]] le retiró los cargos en su contra en nombre de [[Lift\|Lift]].
-Cuando [[Nale\|Nale]] ordena a sus [[Rompedores del Cielo\|Rompedores del Cielo]] cazar a una Radiante en Yeddaw, creyeron erróneamente que era [[Arclo\|Arclo]]. En verdad, Nale iba tras la Tocón. Después de un breve altercado que involucró a Lift, el Heraldo apuñaló a la Tocón, aunque no la mató al momento para atraer a Lift, quien la cura después de que Nale abandone su caza de Radiantes.
-Algunos colegas de [[Jasnah\|Jasnah]] convencen a la Tocón de visitar [[Azimir\|Azimir]], probablemente para hablar con [[Ethid\|Ethid]], y permitirle realizar bocetos de su spren.
+>“*Her skin drooped off her bones like something you'd might hack up after catching the crud in the slums, and she had spindly fingers that Lift figured might be twigs she'd glued in place after her real ones fell off*”
+\-Lift on Arshqqam[4]
 
-### Expedición a Integridad Duradera
-A causa de la gran estima de los honorspren por los Vigilantes de la Verdad, la Tocón es escogida por Adolin y Shallan para unirse a la expedición hacia Integridad Duradera. Se muestra en desacuerdo respecto al plan inicial de Adolin de intentar convencer a los honorspren mediante amenazas y haciéndolos sentir culpables. En cambio, apoyó seguir un acercamiento más emocional y apasionado a sugerencia de su spren, [[So%C3%B1ando-aunque-Despierta\|Soñando-aunque-Despierta]] y aconsejó a Adolin de que cualquier aproximación debía hacerse apelando al sentido del honor de los honorspren.
-Tras la captura de Adolin, ella, junto con [[Zu (Roshar)\|Zu]] y los otros soldados de la expedición, vuelven a informar a [[Dalinar\|Dalinar]] sobre el juicio de Integridad Duradera.
+Arshqqam has spindly fingers and her skin droops. She also appears fragile. [[Lift\|Lift]] describes her as a shrivelled up weed of a woman. Further, she says that the woman looks like the child of a broom and a particularly determined clump of moss. In turn, once joining the Knight's Radiant, the Stump confesses she is fond of Lift though feels Lift needs a firm hand.
+Arshqqam did not want to leave her life in [[Tashikk\|Tashikk]] behind but felt compelled to join the Knight's Radiant once her powers manifested. She does not understand why she in particular was chosen given her advanced age but if Lift, a child, was joining the cause, she felt there was no excuse for her not to do so.
+[[Shallan\|Veil]] looks favourably on the Stump, commenting that there is more to the Stump than the surface level would suggest. She notes Arshqqam's careful yet understated attention to her appearance and the ease with which she is able to discuss strategy with [[Adolin\|Adolin]], a powerful man, without being intimidated.
 
-## Notas
+## History
+### Running Tashi's Light Orphanage
+The Stump ran the orphanage and seemed to have done so for some time. She wasn't well liked by those on the outside; according to Lift, they said she was mean and only gave away food because she wanted to look good for the officials who watch the place, yet it was possible that she founded the orphanage. She was known to run a money laundering scheme that involved exchanging donations to the orphanage with dun [[Spheres\|spheres]]. She had been unconsciously using her spheres' [[Stormlight\|Stormlight]] to heal sick urchins in her care, who she then mistakenly accused of only pretending to be sick. After learning of her true nature, the charges against her were dismissed by [[Gawx\|the Prime Aqasix]] on behalf of [[Lift\|Lift]].
+When [[Nale\|Nale]] instructed his [[Skybreaker\|Skybreakers]] to hunt down a Radiant in Yeddaw, they mistakenly thought it was [[Arclo\|Arclo]]. In truth, Nale was after the Stump. After a brief altercation involving Lift, the Herald stabbed the Stump but did not kill her immediately, in order to lure Lift out, who then healed her after Nale abandoned his hunt for Radiants.
+Some colleagues of [[Jasnah\|Jasnah]] convinced the Stump to visit [[Azimir\|Azimir]], probably to speak with [[Ethid\|Ethid]], and she let them make sketches of her spren.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Expedition to Lasting Integrity
+Due to the honorspren's high-regard for Truthwatchers, The Stump was chosen by Adolin and [[Shallan\|Shallan]] to join the expedition to Lasting Integrity. She disagreed with Adolin's initial plan of trying to convince the honorspren by guilt or threat. Instead, she backed taking a more emotional and passionate approach suggested by her spren, [[Dreaming-though-Awake\|Dreaming-though-Awake]], and advised Adolin that any approach would need to appeal to the honorspren's sense of honor.
+Upon Adolin's capture she, along with [[Zu (Roshar)\|Zu]] and other soldiers on the expedition, left to report to [[Dalinar\|Dalinar]] about the trial in Lasting Integrity.
 
 
 
-https://es.coppermind.net/wiki/Arshqqam
+https://coppermind.net/wiki/Arshqqam

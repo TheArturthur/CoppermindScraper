@@ -1,102 +1,84 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Lyn**|
 |-|-|
 ||
-|**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]]|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Kholin|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Abilities**|[[Order of Windrunners\|Windrunner]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Kholin army|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
->“*¡Quiero ayudar! ¡Quiero hacer algo que no sea quedarme quieta esperando a que el enemigo venga a por nosotros!*”
-\-Lyn sobre por qué quiere unirse a los Corredores del Viento[2]
+>“*I want to help! I want to do something other than stand around, waiting for the enemy to come to us!*”
+\-Lyn on why she wants to become a Windrunner[2]
 
 
-**Lyn** es una exploradora [[Alezi\|alezi]] y, más tarde, [[Corredor del Viento\|Corredora del Viento]] en [[Roshar\|Roshar]].
+**Lyn** is an [[Alethi\|Alethi]] scout and, later, a [[Windrunner\|Windrunner]] on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 
-3. [[#Exploradora y mensajera]] 
-3. [[#Escudera de los Corredores del Viento]] 
-3. [[#Corredora del Viento]] 
+3. [[#Scout and Messenger]] 
+3. [[#Windrunner Squire]] 
+3. [[#Windrunner]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Kaladin]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Lyn es una mujer [[Alezi\|alezi]] de [[Ojos oscuros\|ojos oscuros]] baja y «de aspecto recio» con pelo negro largo, que lleva recogido en una coleta o trenza. Normalmente viste el uniforme azul de los [[Casa Kholin\|Kholin]].
-Está interesada en las artes masculinas y no le gusta que la traten como si no pudiera luchar solo porque es mujer. Queda decepcionada cuando [[Shallan\|Shallan]] le comenta que una [[Caballeros Radiantes\|Radiante]] puede ser femenina, y cuando Kaladin le sugiere ser secretaria, se enfurece. Es impaciente y entusiasta, y quiere enfrentarse al enemigo en vez de esperar que el enemigo venga a por ella. También se le da bien hacer amigos, como demuestra el hecho de que se uniera al [[Puente Cuatro\|Puente Cuatro]] sin ningún problema, y aprecia el buen arte. Es capaz de mantener la sangre fría en situaciones estresantes y ponerse al mando cuando es necesario.
+Lyn is a short, "solid-looking" [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] woman with long black hair, which she wears in a ponytail or a braid. She's usually dressed in the blue [[House Kholin\|Kholin]] uniform.
+She's interested in pursuing the masculine arts, and dislikes being treated as incapable of fighting just because she's a woman. She's disappointed when [[Shallan\|Shallan]] informs her that a [[Knights Radiant\|Radiant]] can be feminine, and when Kaladin suggests that Lyn can serve as a secretary, she's furious with him. She's impatient and eager, and wants to take the fight to the enemy rather than wait for it to come to her. She's also good at making friends, sliding into the [[Bridge Four\|Bridge Four]] group without any problems, and appreciates good art. She can keep a cool head in stressful situations, and take charge when necessary.
 
-## Atributos y habilidades
->“*Yo podría [ensartar a Amaram un poco]. Hace poco que entreno con la lanza. Podríamos decir que ha sido un accidente.*”
-\-Lyn sobre sus propias habilidades de combat[8]
+## Attributes and Abilities
+>“*I could [stab Amaram a little]. I've only started training with a spear. We could claim it was an accident.*”
+\-Lyn on her own combat ability[8]
 
 
-Lyn es una [[Corredor del Viento\|Corredora del Viento]], lo que le permite curarse con [[Luz tormentosa\|luz tormentosa]] y usar las [[Potencia\|Potencias]] de la [[Gravitaci%C3%B3n\|Gravitación]] y . Aunque nunca aparece usando la segunda, es capaz de volar en la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. Como exploradora, iba armada con un cuchillo y seguramente sabía cómo usarlo. Después de unirse al Puente Cuatro, empieza a usar una lanza, aunque, como dice ella misma, no es más que una principiante. También es capaz de dibujar de memoria los terrenos que explora, aunque prioriza la velocidad por encima de la calidad.
+Lyn is a [[Windrunner\|Windrunner]], allowing her to heal herself with [[Stormlight\|stormlight]], as well as use the [[Surge\|Surges]] of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]]. While she's not shown using the latter, she is capable of flying by the time of the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. As a scout, she was armed with a knife, and presumably knew how to use it. After joining Bridge Four, she begins to use a spear, although she is, by her own admission, only a beginner. She's also capable of drawing what she'd scouted from memory, although her artwork prioritizes speed over quality.
 
 ## History
  
-### Exploradora y mensajera
-Lyn era una de las exploradoras que acompañaron la expedición de [[Dalinar Kholin\|Dalinar Kholin]] hacia el centro de las [[Llanuras Quebradas\|Llanuras Quebradas]]. Ella, junto a [[Shim\|Shim]] y [[Felt\|Felt]], ayudó a [[Shallan\|Shallan]] a cartografiar las mesetas durante la [[Batalla de Narak\|Batalla de Narak]] con sus ilustraciones.
-Después de que los [[Alezi\|alezi]] se trasladaran a [[Urithiru\|Urithiru]], Lyn empezó a trabajar como mensajera. Fue quien informó a Dalinar sobre el asesinato de [[Vedekar Perel\|Vedekar Perel]], así como quien lo fue a buscar cuando el [[Puente Cuatro\|Puente Cuatro]] encontró [[Juramentada (hoja esquirlada)\|Juramentada]]. Al mismo tiempo, empezó a pasar tiempo con el Puente Cuatro, e incluso fue con ellos para investigar lo que resultó ser [[Re-Shephir\|Re-Shephir]]. Allí, Lyn fue la primera en darse cuenta de la [[Esencia de Medianoche\|Esencia de Medianoche]]. Durante la batalla que siguió, dio primeros auxilios a los heridos.
+### Scout and Messenger
+Lyn was one of the scouts who accompanied [[Dalinar Kholin\|Dalinar Kholin's]] expedition into the center of the [[Shattered Plains\|Shattered Plains]]. She, along with [[Shim\|Shim]] and [[Felt\|Felt]], aided [[Shallan\|Shallan]] with mapping out the central plateaus during the [[Battle of Narak\|Battle of Narak]], providing illustrations.
+Following the [[Alethi\|Alethi]] moving to [[Urithiru\|Urithiru]], Lyn started working as a messenger. She was the one to report the murder of [[Vedekar Perel\|Vedekar Perel]] to Dalinar, as well as the one to fetch him when [[Bridge Four\|Bridge Four]] found [[Oathbringer (Shardblade)\|Oathbringer]]. At the same time, she began to hang out around Bridge Four, even going with them to investigate what turned out to be [[Re-Shephir\|Re-Shephir]]. There, Lyn was the first to notice [[Midnight Essence\|Midnight Essence]]. During the ensuing battle, she provided first aid to the wounded.
 
-  Preguntando a <<Kaladin\|Kaladin>> si puede unirse a los Corredores del Viento
-### Escudera de los Corredores del Viento
-Cuando [[Kaladin\|Kaladin]] volvió y el Puente Cuatro empezó a reclutar [[Escudero\|escuderos]], Lyn quiso unirse. Al principio, Kaladin pensó que quería ser escriba, pero después de aclarar la situación, les permitió unirse a ella y a otras cuatro exploradoras. Inicialmente, Lyn tuvo problemas para inspirar [[Luz tormentosa\|luz tormentosa]], pero con lo ayuda de [[Cikatriz\|Cikatriz]] lo consiguió y se convirtió en escudera del todo. Al final, el resto de su escuadrón lo consiguió también.
-A partir de aquel momento, Lyn se integró fácilmente en la estructura del Puente Cuatro y rápidamente se hizo amiga de los otros miembros. Poco antes de la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], tenían suficiente confianza como para que le explicaran su historial con [[Amaram\|Amaram]], y le sugirió que podía «ensartarlo un poco» con una lanza. Cuando robaron la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]], ella estaba presente y ordenó a otra exploradora que fuera a buscar a [[Renarin\|Renarin]] para ayudar con las heridas de [[Roca\|Roca]].
-Después de que [[Teft\|Teft]] consiguiera jurar el Tercer Ideal, Lyn fue a [[Ciudad Thaylen\|Ciudad Thaylen]] junto al resto del Puente Cuatro, llevando a Roca hasta que fue suficientemente cerca de Kaladin como para curarse a sí mismo con luz tormentosa. Después, participó en la lucha. Sobrevivió la batalla y fue vista escuchando la historia de [[Lopen\|Lopen]] sobre cómo perdió su brazo.
+  Asking <<Kaladin\|Kaladin>> if she can join the Windrunners
+### Windrunner Squire
+When [[Kaladin\|Kaladin]] returned and Bridge Four began to recruit [[Squire\|squires]], Lyn attempted to join. Kaladin initially thought she wanted to be a scribe, but after the situation was cleared up, he allowed her and four other scout women to join. Lyn initially had problems breathing in [[Stormlight\|Stormlight]], but with [[Skar\|Skar's]] help, managed to do so, becoming a proper squire. Eventually, the rest of her squad joined her.
+From then on, Lyn easily slid into Bridge Four's structure, becoming fast friends with other members. Shortly before the [[Battle of Thaylen Field\|Battle of Thaylen Field]], she was on good enough terms to know their history with [[Amaram\|Amaram]], even suggesting that she could "stab him a little" for them. When [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] was stolen, she was present, and ordered another scout to fetch [[Renarin\|Renarin]] to help with [[Rock\|Rock's]] wounds.
+After [[Teft\|Teft]] managed to swear his Third Ideal, Lyn came to [[Thaylen City\|Thaylen City]] along with the rest of Bridge Four, carrying Rock until he was close enough to Kaladin to start healing himself with Stormlight. Afterwards, she participated in the fighting. She survived the battle, and was last seen listening to [[Lopen\|Lopen's]] story of how he lost his arm.
 
-### Corredora del Viento
-Lyn estuvo en una de las misiones inicialmente enviadas a [[Akinah\|Akinah]] para explorar el lugar antes de la [[Expedici%C3%B3n a Akinah\|expedición]] de [[Rysn\|Rysn]]. Aunque esta expedición fue una fracaso, ella y [[Sigzil\|Sigzil]] rescataron a [[Leyten\|Leyten]] después de que un [[Insomne\|Insomne]] absorbiera su luz tormentosa. Juró el Tercer Ideal y ahora es una Corredora del Viento de pleno derecho.
-Era parte del equipo que volvió a Piedralar para rescatar a su gente, incluyendo la familia de Kaladin.
-Lyn se marchó con Dalinar para luchar en la campaña de [[Emul\|Emul]]. Allí lideró la exploración hacia Urithiru. Habló con el soldado que enviaron los Fusionados fingiendo ser de la reina, y usó las palabras secretas y el lenguaje correcto. Los soldados tuvieron que andar durante horas para encontrarse y los exploradores solo pudieron ver con un catalejo lo que creyeron ser Corredores del Viento volando alrededor de la torre, intentando pedirles paciencia.
-Intentó acercarse ella misma a la torre, pero a causa de la barrera de Urithiru, cayó inconsciente. El soldado de la torre la arrastró hacia los otros.
-Lyn es una de las Corredoras del Viento de más confianza, como demuestra el hecho de que Dalinar le diera la responsabilidad de enlazarlo para encontrarse con el Heraldo [[Ishar\|Ishar]]. Más tarde, fue parte de los cinco Corredores del Viento que lucharon contra el Heraldo, que consiguió vencerlos con facilidad solo con defenderse a sí mismo.
-Lyn también participó en el equipo de exploración que volvió después de que [[Ishar\|Ishar]] y su ejército se fueran al Reino Cognitivo. Allí encontró un cultivacispren muerto, junto a los otros spren muertos que el resto del equipo encontró.
+### Windrunner
+Lyn was on one of the missions initially sent to [[Akinah\|Akinah]] to scout prior to [[Rysn\|Rysn's]] [[Expedition to Akinah\|expedition]]. Although this expedition was a failure, she and [[Sigzil\|Sigzil]] rescued [[Leyten\|Leyten]] after his Stormlight was sucked away by a [[Sleepless\|Sleepless]].
+She swore her third ideal and is now a full Windrunner. 
+She was part of the team that went back to Hearthstone and rescue its people including Kaladin’s family.
+Lyn left with Dalinar to fight the [[Emul\|Emul]] campaign. There she led scouting to [[Urithiru\|Urithiru]]. She talked to the soldier that was sent by the Fused pretending to be from the queen, who used the correct passwords and had the correct language. Urithiru’s soldiers had to hike for hours to meet them and the scouts were only able to see through spyglasses and saw what they thought were Windrunners flying over the tower trying to ask for patience.
+She did try to approach the tower herself, but due to Urithiru’s barrier she fell unconscious. The tower’s soldier dragged back her to the others.
+Lyn is one of the most trusted Windrunners, this is proven by the fact that she was given the responsibility of lashing Dalinar to meet the Herald [[Ishar\|Ishar]]. Later, she was part of the five windunners that fought the Herald who easily disabled them by only defending himself.
+Lyn also participated on the scouting team that came back after [[Ishar\|Ishar]] and his army left to the cognitive realm. There she found a killed cultivationspren, along with the other killed spren found by the other members of team.
 
-## Relaciones
+## Relationships
 ### Kaladin
-Kaladin pudo entender que Lyn había estado trabajando de mensajera para el Puente Cuatro porque quería ser parte del equipo, pero dio por sentado que quería ser escriba y le ofreció este puesto. Ella fue sincera y entonces la invitó a hacer las pruebas.
+Kaladin was able to understand that Lyn had been running messages to Bridge Four because she wanted to be part of the team, however he assumed she would be a scribe and offered her that role. She spoke her mind and was then invited by him to join the tryouts.
 
->“*Su relación no había sido buena. Él lo sabía tan bien como ella, y el dolor que sentía no se debía a que hubiese terminado. No a eso en concreto.*”
-\-Kaladin a si mismo sobre su separación con Lyn.[16]
-
-
-Adolin y Syl conspiraron para conseguir que Kaladin saliera con Lyn. Aunque su relación no funcionó, ambos crecieron gracias a ella. Fueron juntos a la boda de Cikatriz poco después de separarse. A ella aún le importaba y mostraba preocupación genuina por su bienestar.
-
-## Curiosidades
-El nombre de Lyn viene de , que hizo una publicación en Reddit preguntando a la gente en qué mundo ficticio querría vivir, a lo que ella respondió *[[El camino de los reyes\|El camino de los reyes]]*. Brandon le pidió que le enviara su información para poderla añadir como personaje en el siguiente libro, *[[Palabras Radiantes\|Palabras Radiantes]]*. También fue escogida como lectora beta.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+>“*Their relationship hadn’t been right. He knew that as well as she did, and the pain he felt wasn’t for the end of that. Not specifically.*”
+\-Kaladin to himself on breaking up with Lyn.[16]
 
 
+Adolin and Syl conspired on getting Kaladin to date Lyn. Though the relationship hadn’t worked out, they’d both grown because of it. They went together to Skar’s wedding shortly before they broke up. She still cared about him and showed she had genuine concern.
 
-https://es.coppermind.net/wiki/Lyn
+## Trivia
+Lyn was named after , who made a post in a Reddit thread asking what fictional world people would want to live in, replying with *[[The Way of Kings\|The Way of Kings]]*. Brandon asked her to send him her information so he could insert her as a character in the next book, *[[Words of Radiance\|Words of Radiance]]*. She was also chosen to be a beta reader.
+
+
+https://coppermind.net/wiki/Lyn

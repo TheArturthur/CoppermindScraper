@@ -1,74 +1,50 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Noorden**|
 |-|-|
 ||
-|**Oficio**|Erudito, [[Obligador\|Obligador]] |
-|**Grupo**|Ejército de Venture|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
+|**Profession**|Scholar, [[Obligator\|Obligator]] |
+|**Groups**|Venture army|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
 
-**Noorden** es un erudito y ex-[[Obligador\|obligador]] en el Cantón de la Ortodoxia del [[Ministerio del Acero\|Ministerio del Acero]] en el [[Imperio Final\|Imperio Final]], en [[Scadrial\|Scadrial]]. Tras el [[Colapso\|Colapso]], fue contratado por [[Elend Venture\|Elend Venture]] para ser escriba y burócrata.
+**Noorden** is a scholar and former [[Obligator\|obligator]] in the Canton of Orthodoxy of the [[Steel Ministry\|Steel Ministry]] in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. After the [[Collapse\|Collapse]], he was employed by [[Elend Venture\|Elend Venture]] to act as a scribe and bureaucrat.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Primeros a.C3.B1os]] 
-3. [[#El Colapso y el trabajo para Elend Venture]] 
-3. [[#El Nuevo Imperio]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Early Life]] 
+3. [[#The Collapse and Employment by Elend Venture]] 
+3. [[#The New Empire]] 
 
 
-## Apariencia y personalidad
-Noorden tiene los tatuajes en los ojos de un obligador de rango bastante alto. Usa grandes gafas para ocultar los tatuajes que logran cubrirlos en su mayoría. Aunque renunció a su lealtad al Ministerio del Acero, algunas personas todavía encuentran los tatuajes como recordatorios desagradables del pasado de Noorden. A menudo lleva una túnica marrón sencilla.
-Aunque Noorden era miembro del Ministerio del Acero, su actitud es atípica de un obligador. Es muy alegre y jovial, a diferencia de la mayoría de los otros miembros del Ministerio. Él tiene tendencia a ser hablador y a veces necesita que le llamen la atención para que vaya al grano. Tiende a mantener horarios extraños porque se involucra mucho en sus proyectos de investigación.
+4 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-Noorden era un erudito; tenía una comprensión brillante de las leyes de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] Noorden tenía una comprensión brillante de las leyes de la Asamblea de Luthadel, así como un don para las matemáticas, demostrado en su capacidad para recolectar e interpretar datos sobre la enfermedad de la bruma. Es minucioso y confiable, y su disposición alegre tiende a animar a los demás. Él es reflexivo y piensa de manera muy lógica; [[Elend\|Elend]] aprecia el hecho de que Noorden valore la estabilidad por encima de la riqueza y el poder, a diferencia de muchos de los políticos en Luthadel.
 
-## Historia
-### Primeros años
-Noorden se unió al Ministerio del Acero por primera vez para perseguir su vocación como erudito; no era un noble de alto rango y esa era su única opción de carrera además de convertirse en un comerciante. Se unió al Cantón de la Ortodoxia, cuyos obligadores desempeñaban diversas funciones burocráticas. No encajaba entre otros obligadores; pasaba la mayor parte de su tiempo trabajando solo. A pesar de su aislamiento, Noorden llegó a tener un rango bastante alto en el Ministerio. Noorden era un buen hombre y nunca entendió bien el nivel de opresión que el Ministerio ayudaba a imponer sobre los [[Skaa\|skaa]].
+## Appearance and Personality
+Noorden has the eye tattoos of an obligator of fairly high rank. He wears large spectacles to hide the tattoos, and they successfully cover most of them. Although he renounced his loyalties to the Steel Ministry, some people still find the tattoos to be off-putting reminders of Noorden's past. He often wears a simple brown robe.
+Though Noorden was a member of the Steel Ministry, his attitude is atypical of an obligator. He is very happy and cheerful, unlike most other members of the Ministry. He has a tendency to be chatty and sometimes needs to be prodded to make his point. He tends to keep odd hours because he becomes so engrossed in his research projects.
 
-### El Colapso y el trabajo para Elend Venture
-El [[Colapso\|Colapso]] fue una catástrofe para Noorden; destruyó toda su forma de vida. Sin embargo, fue uno de los pocos obligadores que se quedaron en [[Luthadel\|Luthadel]], posiblemente como resultado de su personalidad inusual. Fue entonces empleado por [[Elend Venture\|Elend Venture]] para trabajar como burócrata en el nuevo reino de Elend. Elend contrató a Noorden por su habilidad como escriba, pero también apreciaba la perspectiva única de Noorden como un ex-obligator, en lugar de un [[Skaa\|skaa]] o un alto noble. Noorden se volvería muy leal a Elend, creyendo que sus nuevas leyes eran brillantes.
-Cuando Elend estaba decidiendo qué hacer con respecto a la elección para rey del [[Dominio Central\|Dominio Central]], Noorden cuestionó si realmente sería tan malo que [[Ashweather Cett\|Ashweather Cett]] ganase. Sin embargo, Elend convenció a Noorden de que Cett no debería ganar, explicando que era un tirano que gobernaría como quisiese, trayendo el caos al reino. Elend reflexionó que los demás miembros de la Asamblea no serían tan fáciles de convencer como Noorden, ya que no estaban guiados por la lógica.
-Noorden actuó como escriba en la votación de la [[Asamblea de Luthadel\|Asamblea de Luthadel]] para elegir al rey. Después de un empate aparente, [[Lord Habren\|lord Habren]] preguntó si se le permitía cambiar su voto, y solo Noorden y Elend sabían que la ley decía que podía hacerlo antes de que se cerrase la votación formalmente. Sin embargo, Noorden no dijo nada por lealtad a Elend. Fue el propio Elend quien confirmó que los votos aún podían ser cambiados; Habren y [[Lord Hue\|lord Hue]] cambiaron sus votos a [[Ferson Penrod\|Ferson Penrod]], dándole la victoria sobre Elend.
+## Attributes and Abilities
+Noorden was a scholar; he had a brilliant understanding of the laws of the [[Luthadel Assembly\|Luthadel Assembly]] as well as a gift for mathematics, shown in his ability to collect and interpret data on the mist sickness. He is thorough and reliable, and his cheerful disposition tends to uplift others. He is thoughtful and thinks in a very logical manner; [[Elend\|Elend]] appreciates the fact that Noorden values stability over wealth and power, unlike many of the politicians in Luthadel.
 
-### El Nuevo Imperio
-Cuando Elend se convirtió más tarde en el emperador del [[Nuevo Imperio\|Nuevo Imperio]], Noorden continuó trabajando para él. Cartografió las areas afectadas por la [[Bruma\|bruma]], y contó el número de personas afectadas por la enfermedad de las brumas. Vin pidió a Noorden comprobar el porcentaje de gente afectada por la enfermedad, y para su sorpresa, descubrieron que el número era siempre el dieciséis porciento, una anomalía estadística.
-En una reunión posterior, Noorden informó haber descubierto que el número de personas enfermas era "siempre" del dieciséis por ciento, en múltiples casos; concluyeron que alguna entidad inteligente estaba controlando quiénes resultaban afectados. En esa misma reunión, el consejo de Elend descubrió la [[Hemalurgia\|hemalurgia]], y Noorden transmitió la información limitada que tenía sobre la creación de los [[Inquisidor de acero\|Inquisidores de acero]] de su tiempo en el Ministerio. Elend también pidió a Noorden cartografiar los movimientos de los [[Koloss\|koloss]], sospechando que podrían no ser aleatorios, sino controlados por alguien. Más tarde, Elend utilizó la información recopilada por Noorden para tomar el control de muchos grupos de koloss.
+## History
+### Early Life
+Noorden first joined the Steel Ministry to pursue his calling as a scholar; he was not a high-ranked noble and it was his only career option aside from becoming a merchant. He joined the Canton of Orthodoxy, whose obligators performed diverse bureaucratic functions. He didn't fit in among other obligators; he spent most of his time working alone. Despite his isolation, he became quite highly-ranked in the Ministry. Noorden was a good man, and never fully understood the level of oppression that the Ministry helped impose on the [[Skaa\|skaa]].
 
-## Notas
+### The Collapse and Employment by Elend Venture
+The [[Collapse\|Collapse]] was a catastrophe for Noorden; it destroyed his entire way of life. However, he was one of the very few obligators that remained in [[Luthadel\|Luthadel]], perhaps as a result of his unusual personality. He was then employed by [[Elend Venture\|Elend Venture]] to work as a bureaucrat for Elend's new kingdom. Elend hired Noorden for his ability as a scribe, but he also appreciated Noorden's unique perspective as a former obligator, rather than a [[Skaa\|skaa]] or high noble. Noorden would become highly loyal to Elend, believing that his new laws were brilliant.
+When Elend was deciding what to do about the election for king of the [[Central Dominance\|Central Dominance]], Noorden questioned whether it really would be so bad if [[Ashweather Cett\|Ashweather Cett]] won. However, Elend convinced Noorden that Cett should not win, explaining that he was a tyrant who would just rule as he wanted, bringing chaos to the kingdom. Elend reflected that the other Assemblymen would not be as easy to convince as Noorden, since they weren't guided by logic.
+Noorden acted as a scribe to witness the [[Luthadel Assembly\|Luthadel Assembly's]] vote for king. After an apparent deadlock, [[Lord Habren\|Lord Habren]] asked if he was allowed to change his vote, and only Noorden and Elend knew that the law said they could do so before the voting was formally closed. However, Noorden said nothing out of loyalty to Elend. Elend himself was the one to confirm that votes could still be changed; Habren and [[Lord Hue\|Lord Hue]] changed their votes to [[Ferson Penrod\|Ferson Penrod]], giving him the victory over Elend.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 17:20, 29 July 2022 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### The New Empire
+When Elend later became emperor of the [[New Empire\|New Empire]], Noorden continued working for him. He mapped the areas affected by the [[Mist\|mist]], and counted the number of people affected by the mist sickness. Vin told Noorden to check the percentage of people affected by the mist sickness, and to his surprise, they discovered that the number was always exactly sixteen percent, a statistical anomaly.
+In a later conference, Noorden reported having found that the number of sick people was *always* sixteen percent, across multiple cases; they concluded that some intelligent entity was controlling who was affected. In that same conference, Elend's council discovered [[Hemalurgy\|Hemalurgy]], and Noorden relayed the limited information he had about the creation of [[Steel Inquisitor\|Steel Inquisitors]] from his time in the Ministry. Elend also told Noorden to map the movements of the [[Koloss\|koloss]], suspecting that they might be not random, but controlled by someone. Elend later used the information collected by Noorden to take control of many bands of koloss.
 
 
 
-https://es.coppermind.net/wiki/Noorden
+https://coppermind.net/wiki/Noorden

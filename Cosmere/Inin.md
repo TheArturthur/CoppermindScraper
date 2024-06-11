@@ -1,40 +1,27 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Inin**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Rinakin\|Rinakin]]|
-|**Especie**|[[UrDail\|UrDail]]|
-|**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[ReAlba (novella)\|ReAlba]]*|
+|**Family**|
+|**Parents**|[[Rinakin\|Rinakin]]|
+|**Species**|[[UrDail\|UrDail]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[ReDawn (novella)\|ReDawn]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*¿Venís a rescatar a mi padre? ¿A ayudar a que el viento gire a nuestro favor?*”
-\-Inin a Jorgen[1]
+>“*You’re here to help rescue my father? To help us turn the wind to our favor?*”
+\-Inin to Jorgen[1]
 
 
-**Inin** es una piloto [[UrDail\|UrDail]] de [[ReAlba (planeta)\|ReAlba]]. Es hija de [[Rinakin\|Rinakin]].
+**Inin** is an [[UrDail\|UrDail]] pilot from [[ReDawn (planet)\|ReDawn]]. She is the daughter of [[Rinakin\|Rinakin]].
 
-## Apariencia y personalidad
-Inin está en la recta final de su embarazo y lleva una chaqueta premamá sobre el vientre. Es feroz y de carácter fuerte, y no le gusta que la traten como a una niña por estar embarazada ni que insinúen que es débil. Aprecia mucho a su padre y lo defiende con tenacidad.
+## Appearance and Personality
+Inin is late into her pregnancy, and wears a maternity jacket over her belly. She is fierce and strong-willed, and dislikes being treated like a child because she is pregnant, or any other suggestions that she is weak. She cares strongly for her father, and defends him tenaciously.
 
-## Historia
-Ella se quedó embarazada, y Rinakin había deseado poder retirarse de su puesto para ayudar a cuidar del bebé, pero la situación política lo hizo imposible.
-Inin formaba parte del grupo de miembros de la facción [[Independencia\|Independencia]] que [[Alanik\|Alanik]] y el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] rescataron de la facción Unidad y de la [[Supremac%C3%ADa\|Supremacía]]. Fue a [[Hoja Errante\|Hoja Errante]] con el Escuadrón Cielo, y allí escuchó una transmisión de Rinakin, que anunció que se alineaba con [[Nanalis\|Nanalis]] y la facción Unidad, diciendo que debían unificarse y que Alanik debía entregarse. Inin argumentó enérgicamente que Unidad le estaba obligando a decir el mensaje, y que no lo estaba haciendo por voluntad propia.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## History
+She became pregnant, and Rinakin had wished he could retire from his position to help take care of the baby, but it was made impossible by the political situation.
+Inin was part of the group of [[Independence\|Independence]] faction members that [[Alanik\|Alanik]] and [[Skyward Flight\|Skyward Flight]] rescued from the Unity faction and the [[Superiority\|Superiority]]. She went to [[Wandering Leaf\|Wandering Leaf]] with Skyward Flight, and there listened to a broadcast from Rinakin, who announced that he was aligning with [[Nanalis\|Nanalis]] and the Unity faction, saying that they must unite and that Alanik should turn herself in. Inin strongly argued that Unity was making him say the message, and that he wasn’t doing it of his own free will.
 
 
 
-https://es.coppermind.net/wiki/Inin
+https://coppermind.net/wiki/Inin

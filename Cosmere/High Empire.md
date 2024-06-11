@@ -1,11 +1,11 @@
 |**High Empire**|
 |-|-|
 |**Capital**|Imperial Homeworld|
-|**Gobernado por**|[[High Emperor\|High Emperor]]|
+|**Ruled by**|[[High Emperor\|High Emperor]]|
 
 The **High Empire** is the region of space presided over by the [[High Emperor\|High Emperor]].
 
-## Sumario
+## Contents
 
 1 Politics. [[#Politics]] 
 
@@ -88,14 +88,6 @@ Reaches
 [[Gallosect IV\|Gallosect IV]]
 
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Firstborn\|Firstborn]]**|
-|-|-|
-|**Personajes**|[[Dennison Crestmar\|Dennison Crestmar]] · [[Varion Crestmar\|Varion Crestmar]]|
-|**Otros**|[[Reunification War\|Reunification War]]|
 
 
-
-https://es.coppermind.net/wiki/High_Empire
+https://coppermind.net/wiki/High_Empire

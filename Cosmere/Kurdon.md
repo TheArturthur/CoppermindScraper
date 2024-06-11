@@ -1,42 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kurdon**|
 |-|-|
-|**Fallecido**|1022 [[Imperio Final\|IF]]|
-|**Residencia**|[[Plantaci%C3%B3n Tresting\|Plantación Tresting]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Died**|1022 [[Final Empire\|FE]]|
+|**Residence**|[[Tresting plantation\|Tresting plantation]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-**Kurdon** es un capataz fornido en la [[Plantaci%C3%B3n Tresting\|plantación Tresting]] en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
+**Kurdon** is a burly taskmaster at the [[Tresting plantation\|Tresting plantation]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 
-## Historia
-En 1022 [[Imperio Final\|IF]], lord [[Themos Tresting\|Themos Tresting]] observó sus campos y se sintió inquieto al ver a un [[Skaa\|skaa]] en la sección sur de la plantación mirándole de forma desafiante y luego desaparecer ([[Kelsier\|Kelsier]]). Tresting llamó a Kurdon y le ordenó que hiciera trabajar más duro a los skaa de esa sección, aunque no reveló la verdadera razón debido a la presencia de un [[Obligador\|obligador]] de visita. Tresting le dijo a Kurdon que golpease a algunos de los skaa al azar, y Kurdon lo hizo sin preocupación, ya que no tenía ningún respeto por los skaa.
-Esa noche, Kelsier asesinó a Kurdon, Tresting, y al resto del personal de la plantación mientras rescataba a la hija de [[Jess\|Jess]]; también quemó la casa hasta los cimientos.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Joe ST (talk) 10:07, 17 July 2018 (MST)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+In 1022 [[Final Empire\|FE]], Lord [[Themos Tresting\|Themos Tresting]] surveyed his fields and was disquieted to see a [[Skaa\|skaa]] in the southern section of the plantation give him a defiant look and then seemingly disappear ([[Kelsier\|Kelsier]]). Tresting summoned Kurdon and ordered him to work the skaa in that section harder, although he did not reveal the true reason due to the presence of a visiting [[Obligator\|obligator]]. Tresting told Kurdon to beat a few of the skaa at random, and Kurdon nonchalantly obliged, as he held no regard for skaa.
+That night, Kelsier killed Kurdon, Tresting, and the rest of the plantation's staff while rescuing [[Jess\|Jess's]] daughter; he also burned the manor to the ground.
 
 
 
-https://es.coppermind.net/wiki/Kurdon
+https://coppermind.net/wiki/Kurdon

@@ -1,43 +1,27 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Terha**|
 |-|-|
-|**Mundo de origen**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **terha** es un animal domesticado en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
+The **terha** is a domesticated animal on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 
-## Sumario
+## Contents
 
-1 Apariencia. [[#Apariencia]] 
-2 Usos. [[#Usos]] 
-3 Taxonomía. [[#Taxonom.C3.ADa]] 
-4 Notas. [[#Notas]] 
+1 Appearance. [[#Appearance]] 
+2 Usage. [[#Usage]] 
+3 Taxonomy. [[#Taxonomy]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia
-El terha es un cuadrúpedo de gran tamaño. El tamaño y la forma de su cuerpo son similares a los de un rinoceronte, con un cuerpo muy musculoso y patas gruesas. Está cubierto por un caparazón marrón, con una cabeza grande y ovalada que tiene dos grandes cuernos o colmillos en la parte delantera y una coraza redondeada en la parte trasera que ayuda a proteger el cuello. De su larga cola cuelgan placas de caparazón, con una especialmente grande en forma de triángulo en el extremo. Tiene patas con garras que parecen tener pulgares oponibles.
+## Appearance
+The terha is a large quadruped. The body size and shape is similar to a rhinoceros, with a thickly muscled body and thick legs. It is covered in brown carapace, with a large, oval-shaped head that has two large horns or tusks in the front and rounded armor in the back that helps protect the neck. Plates of carapace hang from its long tail, with a particularly large triangle-shaped plate at the end. It has clawed feet that appear to have opposable thumbs.
 
-## Usos
-Los terha están domesticados y se utilizan para el transporte mientras cazan [[Cavadizo\|cavadizos]] en la [[Arena profunda\|arena profunda]]. Al igual que los [[Tonk\|tonks]], se montan con silla, brida y alforjas. Mientras que los tonks se utilizan para el transporte general, los terha parecen ser mucho más raros y especializados. [[Kenton\|Kenton]] nunca ha montado en uno antes de unirse a lord [[Raagent\|Raagent]] en una cacería de cavadizos. A los terha que se crían para cazar se les trata el caparazón con una sustancia especial llamada [[DoKall\|DoKall]] desde la infancia para evitar que el caparazón se disuelva cuando se moja. Raagent dice que son resistentes, y no son tan asustadizos como los tonks.
+## Usage
+Terha are domesticated, and are used for transportation while hunting [[Sandling\|sandlings]] in the [[Deep sand\|deep sand]]. Like [[Tonk\|tonks]], they are ridden using a saddle, bridle, and saddlebags. While tonks are used for general transportation, terha appear to be much more rare and specialized. [[Kenton\|Kenton]] has never ridden a terha before joining Lord [[Raagent\|Raagent]] for a sandling hunt. Terha that are raised to hunt have their carapace treated with a special substance called [[DoKall\|DoKall]] from infancy to prevent the carapace from dissolving when it gets wet. Raagent calls them tough, and they are not as skittish as tonks.
 
-## Taxonomía
-Los terha tienen similitudes superficiales tanto con los tonks como con algunas especies de [[Cavadizo\|cavadizos]], ya que ambos tienen cuernos y caparazón hidrosoluble. Se desconoce si existe una relación, natural o de crianza, entre las criaturas.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 15:45, 5 de agosto de 2019 (UTC)
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## Taxonomy
+Terha have superficial similarities to both tonks and some species of [[Sandling\|sandlings]], with both having horns and water-soluble carapace. It is unknown if there is a relation, natural or bred, between the creatures.
 
 
 
-https://es.coppermind.net/wiki/Terha
+https://coppermind.net/wiki/Terha

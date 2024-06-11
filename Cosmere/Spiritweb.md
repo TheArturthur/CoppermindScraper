@@ -1,123 +1,113 @@
-
-
-|**Redespíritu**|
+|**Spiritweb**|
 |-|-|
-|**Relacionado con**|[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *[[El metal perdido\|El metal perdido]]*, y *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*La extracción de poder no es elegida por quien lo practica, sino que está imbuida en su redespíritu.*”
-\-Khriss.[1]
-
-
-La **redespíritu** es la red de [[Conexi%C3%B3n\|Conexiones]] e [[Investidura\|Investidura]] que forman el alma de una criatura, lugar u objeto. Habita en el [[Reino Espiritual\|Reino Espiritual]], y carece de forma y tamaño, con su límite definido por su [[Identidad\|Identidad]]. La redespíritu está formada por **ADN espiritual**, el **aspecto espiritual**, y el **ideal espiritual** de uno mismo.
-
-## Sumario
-
-1 Mecánicas. [[#Mec.C3.A1nicas]] 
-
-1. [[#ADN espiritual]] 
-1. [[#Da.C3.B1o y curaci.C3.B3n]] 
-
-1. [[#Curando lo f.C3.ADsico]] 
+>“*The actual outlet of the power is not chosen by the practitioner, but instead is hardwritten into their spiritweb.*”
+\-Khriss[1]
 
 
+The **spiritweb** is the network of [[Connection\|Connections]] and [[Investiture\|Investiture]] which make up the soul of a creature, place, or object. Residing in the [[Spiritual Realm\|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity\|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual Aspect**, and one’s **Spiritual Ideal**.
+
+## Contents
+
+1 Mechanics. [[#Mechanics]] 
+
+1. [[#Spiritual DNA]] 
+1. [[#Damaging and Healing]] 
+
+1. [[#Healing the Physical]] 
 
 
-2 Interacciones. [[#Interacciones]] 
 
-2. [[#El Dor]] 
+
+2 Interactions. [[#Interactions]] 
+
+2. [[#Awakening]] 
+2. [[#The Dor]] 
 
 2. [[#AonDor]] 
-2. [[#Falsificaci.C3.B3n]] 
+2. [[#Forgery]] 
 
 
-2. [[#Despertar]] 
-2. [[#Las Artes Met.C3.A1licas]] 
+2. [[#Heat Sharing]] 
+2. [[#The Metallic Arts]] 
 
-2. [[#Alomancia]] 
-2. [[#Feruquimia]] 
-2. [[#Hemalurgia]] 
-
-
-2. [[#Potenciaci.C3.B3n]] 
-
-2. [[#V.C3.ADnculo Nahel]] 
-2. [[#Moldeado de almas]] 
-2. [[#Regeneraci.C3.B3n]] 
+2. [[#Allomancy]] 
+2. [[#Feruchemy]] 
+2. [[#Hemalurgy]] 
 
 
-2. [[#Hojas esquirladas]] 
-2. [[#Fabriales]] 
-2. [[#Forjador de V.C3.ADnculos]] 
+2. [[#Surgebinding]] 
+
+2. [[#Bondsmithing]] 
+2. [[#Soulcasting]] 
+2. [[#Regrowth]] 
 
 
-3 Notas. [[#Notas]] 
+2. [[#Shardblades]] 
+2. [[#Fabrials]] 
 
 
-## Mecánicas
-### ADN espiritual
-La redespíritu de una persona, está altamente relacionada con el ADN espiritual y permite su presencia en el Reino Espiritual. Medir y cuantificar la redespíritu es posible pero muy difícil de hacer. El ADN espiritual se puede transferir de padres a hijos como el ADN normal, aunque no funciona exactamente igual, ya que los gemelos pueden tener un ADN espiritual diferente. Algunas formas de utilizar la Investidura están grabadas en el ADN espiritual. Las redes espirituales se pueden fabricar, aunque se desconoce el proceso.
+3 Notes. [[#Notes]] 
 
-### Daño y curación
-La redespíritu de una persona se puede dañar a través de un trauma físico o emocional. Esto crea una grieta en el alma. De esta manera es más sencillo para las Esquirlas [[Investidura\|investir]] a gente que ha sido dañada de tal forma, ya que la Investidura puede introducirse en el alma a través de estas “grietas”. Es por esto que los [[Alomante\|alomantes]] tienen que [[Romper\|Romper]] para despertar sus poderes, y se da a entender la razón por la cual los [[Potenciaci%C3%B3n\|potenciadores]] tienden a tener problemas psicológicos. La redespíritu se puede dañar usando hojas esquirladas y clavos hemalurgicos. Ese tipo de heridas se pueden curar con un injerto de Investidura. El proceso de curación deja permanentemente una herida en la redespíritu de la persona. Investir un objeto o una persona durante un largo periodo de tiempo deforma y cambia su redespíritu. En humanos este proceso se llama "savantismo" (término no canon por el momento).
 
-#### Curando lo físico
-La mayoría de maneras de sanación utilizan tres aspectos del yo del usuario; Físico, Cognitivo y Espiritual. La sanación típica, cura la versión Física combinandola a su ideal espiritual, que se filtra a través de la lente de su mente (el aspecto Cognitivo). Casi todas las formas de curación en el [[Cosmere\|Cosmere]], incluso las más naturales, se filtran a través de la percepción del usuario, lo que significa que si una persona no ha aceptado una herida como parte de sí mismo, podrá curarla independientemente de cuánto tiempo haya pasado. Sin embargo, aunque la herida sea reciente, si la persona la ve como parte de sí misma, no será capaz de curarse. Un ejemplo de esto se puede encontrar cuando [[Kaladin\|Kaladin]] es incapaz de curar su marca de esclavo hasta que jura el Cuarto Ideal y reconoce que no forma parte de él.
+## Mechanics
+### Spiritual DNA
+A person’s spiritweb, closely related to Spiritual DNA, makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do. Spiritual DNA can be passed from parent to child like regular DNA, yet does not function exactly the same as identical twins can have different Spiritual DNA. Some ways of utilizing Investiture are written into Spiritual DNA. Spiritwebs can be manufactured, though the process of how is unknown.
 
-## Interacciones
-Todas las formas de Investidura que se pueden usar están relacionadas con la redespíritu. Algunas manifestaciones de Investidura están construidas dentro del ADN espiritual de una persona, como la [[Alomancia\|alomancia]] o la [[Feruquimia\|feruquimia]]. Otras habilidades, como la [[Hemalurgia\|hemalurgia]] y la [[Potenciaci%C3%B3n\|potenciación]], suponen manipular el ADN espiritual. Algunos tipos de Investidura funcionan manipulando o sobreescribiendo la redespíritu directamente como ocurre con la [[Falsificaci%C3%B3n\|falsificación]].
+### Damaging and Healing
+A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
 
-### El Dor
+#### Healing the Physical
+Most forms of healing work by using the three aspects of the user's self; their Physical, Cognitive, and Spiritual. Healing typically heals the Physical version by matching it to their Spiritual Ideal, which is filtered through the lens of their minds (the Cognitive aspect). Almost all forms of healing in the [[Cosmere\|cosmere]], even natural healing, are filtered through the perception of the user,  which means that if a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it. An example of this can be found when [[Kaladin\|Kaladin]] was unable to heal his slave brand until he swore the fourth oath and recognized that it wasn't a part of him.
+
+## Interactions
+All forms of Investiture which one can use are related to the spiritweb. Some manifestations of Investiture are built into a person's Spiritual DNA, such as [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]]. Other abilities, such as [[Hemalurgy\|Hemalurgy]] and [[Surgebinding\|Surgebinding]], involve manipulating Spiritual DNA. A few types of Investiture even work by manipulating or overwriting the spiritweb directly, such as [[Forgery\|Forgery]].
+
+### Awakening
+The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual aspect, is built into a [[Nalthis\|Nalthian's]] Spiritual DNA. The ability to [[Awakening\|Awaken]] is not limited to Nalthians.
+
+### The Dor
 #### AonDor
-El [[AonDor\|AonDor]] requiere algún tipo de cualidad innata en el ADN espiritual, pero la [[Shaod\|Shaod]] que convierte a alguien en [[Elantrino\|elantrino]] implica un cambio en el ADN espiritual durante la transición.
+[[AonDor\|AonDor]] requires some innate Spiritual DNA, but the [[Shaod\|Shaod]] that turns someone into an [[Elantrian\|Elantrian]] involves some sort of change to the Spiritual DNA during the transition.
 
-#### Falsificación
-La [[Falsificaci%C3%B3n\|falsificación]] funciona revistiendo la historia y la redespíritu de un objeto o persona con otra alternativa. Esto puede indicar que es posible eliminar los efectos de un [[Sello de alma\|sello de alma]], aunque se desconoce por el momento.
+#### Forgery
+[[Forgery\|Forgery]] works by overlaying an object’s or person’s history and spiritweb with an alternative one. This may indicate that it is possible to remove the effects of a [[Soulstamp\|soulstamp]], though it is currently unknown.
 
-### Despertar
-La habilidad de dar [[Aliento\|aliento]], que es una parte del aspecto espiritual de una persona, está construido dentro del ADN espiritual de un [[Nalthis\|nalthiano]]. La habilidad de [[Despertar\|despertar]] no se limita a los nalthianos.
+### Heat Sharing
+People from the planet [[Canticle\|Canticle]] are able to exchange portions of their spirtweb similar to breath. Unlike breath, heat can only be exchanged with people of Canticle (including by invitation). It is unclear how this would interact with Allomancy, as the strength of Allomantic power is generally proportional to the amount of [[Preservation\|Preservation's]] investiture an Allomancer contains.
 
-### Las Artes Metálicas
-#### Alomancia
-Múltiples formas de la alomancia se relacionan con la redespíritu. El [[Cinc\|cinc]] y el [[Lat%C3%B3n\|latón]] funcionan solo en criaturas con suficiente nivel de sabiduría y funcionan mejor en aquellas criaturas en las que su redespíritu ha sido dañada, como los constructos hemalurgicos.{book ref|mb2|54}} La capacidad para usar la alomancia se transmite a través del ADN espiritual.
+### The Metallic Arts
+#### Allomancy
+Multiple forms of Allomancy relate to the spiritweb. Allomantic [[Zinc\|zinc]] and [[Brass\|brass]] will work only on creatures with a sufficient level of sapience and work better on creatures whose spiritweb has been damaged, as with Hemalurgic constructs. The ability to use Allomancy is passed down via Spiritual DNA.
 
-#### Feruquimia
-Varios atributos ferruquimicos están profundamente conectados con la redespíritu, especialmente los metales espirituales como el [[Aluminio\|aluminio]] y el [[Duraluminio\|duraluminio]], permitiendo que la Conexión y la Identidad se puedan almacenar. De forma similar a la alomancia, la capacidad para usar la ferruquimia pasa a través del ADN espiritual.
+#### Feruchemy
+Several of the Feruchemical Attributes are deeply connected to the spiritweb, especially the Spiritual metals such as [[Aluminum\|aluminum]] and [[Duralumin\|duralumin]], which allow for Identity and Connection, respectively, to be stored. Similarly to Allomancy, the ability to use Feruchemy is passed down through Spiritual DNA.
 
-#### Hemalurgia
-En la hemalurgia, la redespíritu de una persona se rompe en pequeñas porciones y se injerta en la red de otra persona. Esto provoca daño a la redespíritu de la criatura que tiene el clavo hemalúrgico insertado.
+#### Hemalurgy
+In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and grafted onto another person's spiritweb. This causes lasting damage to the spiritweb of the creature in which a Hemalurgic Spike is placed.
 
-### Potenciación
-#### Vínculo Nahel
-Un [[Potenciador\|potenciador]] con un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con un [spren]] trabajan de manera similar, el spren se une espiritualmente a algún punto de la redespíritu de una persona, fusionándose a medida que el [[Potenciador\|potenciador]] progresa en sus [[Palabras Inmortales\|Juramentos]].
+### Surgebinding
+A [[Surgebinder\|Surgebinder's]] [[Nahel bond\|Nahel bond]] involves a [[Spren\|spren]] attaching themselves to a person's spiritweb, merging more fully as the [[Surgebinder\|Surgebinder]] progresses in their [[Immortal Words\|Oaths]].
 
-#### Moldeado de almas
-Aunque no altera directamente la redespíritu, el [[Moldear almas\|moldeado de almas]] puede alterar la redespíritu si el aspecto Cognitivo se altera el tiempo suficiente.
+#### Bondsmithing
+A [[Bondsmith\|Bondsmith]] that is bonded to the [[Stormfather\|Stormfather]] is able to read a person's spiritweb. The person's spiritweb appears to the Bondsmith as faintly glowing lines of varying thickness. It is currently unknown if others share this ability.
 
-#### Regeneración
-La [[Regeneraci%C3%B3n\|Regeneración]] permite curar tanto la forma física como la redespíritu, si tiene la suficiente luz tormentosa. Esto probablemente funciona al restaurar la forma física de uno al estado de su ideal espiritual. La regeneración incluso puede llegar tan lejos como para volver a vincular el alma de alguien recién fallecido.
+#### Soulcasting
+Although it does not directly alter the spiritweb, [[Soulcasting\|Soulcasting]] can alter a spiritweb if the Cognitive aspect stays altered for long enough.
 
-### Hojas esquirladas
-Una [[Hoja esquirlada\|hoja esquirlada]] puede robarse con hemalurgia, ya que está conectada a la redespíritu de la persona. Cuando una hoja esquirlada corta a través de materia viva, su filo se difumina, dejando su cuerpo físico ileso mientras corta su yo-cognitivo, no su redespíritu.
+#### Regrowth
+[[Regrowth\|Regrowth]] allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal. Regrowth can even go so far as to reattach the soul of one recently deceased.
 
-### Fabriales
-Existen fabriales capaces de leer con precisión el [[Fabrial de aura\|redespíritu]] de una persona. Sin embargo, estos dispositivos tienden a volverse locos si la persona que está siendo leída está fuertemente Investida, como un [[Retornado\|Retornado]], [[Elantrino\|elantrino]], o una [[Yoki-haijo\|yoki-haijo]].
+### Shardblades
+A [[Shardblade\|Shardblade]] can be stolen with Hemalurgy, because it is Connected to a person's spiritweb. When a Shardblade cuts through living matter, its edge fuzzes, leaving the physical body uninjured, whilst cutting the being's Cognitive self - not their spiritweb.
 
-### Forjador de Vínculos
-Un [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] que esté vinculado con el [[Padre Tormenta\|Padre Tormenta]] es capaz de leer la redespíritu de una persona. Esta aparecerá ante él como líneas que brillan suavemente de diferentes grosores. Se desconoce por el momento si otros pueden ver esto o no.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] ·  · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+### Fabrials
+There are fabrials, that are capable of accurately [[Aura fabrial\|reading a person's spiritweb]]. However, these devices tend to go haywire if the person being read is heavily Invested, such as a [[Returned\|Returned]], [[Elantrian\|Elantrian]], or [[Yoki-hijo\|yoki-hijo]].
 
 
 
-https://es.coppermind.net/wiki/Spiritweb
+https://coppermind.net/wiki/Spiritweb

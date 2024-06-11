@@ -1,41 +1,29 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Taan**|
 |-|-|
-|**Capacidades**|[[Elantrino\|Elantrino]]|
-|**Títulos**|Barón de [[Elantris (ciudad)\|Elantris]]|
-|**Apodos**|Aanden|
-|**Habilidades**|Escultor|
-|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
-|**Etnia**|[[A%C3%B3nico\|Aónico]]|
-|**Nacionalidad**|[[De Arelon\|de Arelon]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Abilities**|[[Elantrian\|Elantrian]]|
+|**Titles**|Baron of [[Elantris (city)\|Elantris]]|
+|**Aliases**|Aanden|
+|**Skills**|Sculptor|
+|**Residence**|[[Elantris (city)\|Elantris]]|
+|**Ethnicity**|[[Aonic\|Aonic]]|
+|**Nationality**|[[Arelene\|Arelene]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
-**Taan** es un escultor de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Tras ser tomado por la Shaod, adopta el nombre de **Aanden**. Taan gobierna a un tercio de los habitantes de [[Elantris (ciudad)\|Elantris]] antes de la llegada del príncipe [[Raoden\|Raoden]].
+**Taan** is a sculptor from [[Arelon\|Arelon]] on [[Sel\|Sel]]. After being taken by the [[Shaod\|Shaod]], he takes the name **Aanden**. Taan rules one-third of the inhabitants of [[Elantris (city)\|Elantris]] prior to the arrival of Prince [[Raoden\|Raoden]].
 
-## Apariencia y personalidad
-Taan es un hombre bajo "con una barriga considerable". 
+## Appearance and Personality
+Taan is a short man "with a sizeable paunch."
 
-## Historia
-Mientras vivía en [[Arelon\|Arelon]], Taan se hizo un nombre como uno de los mejores escultores de [[Kae\|Kae]]. Aguantó la agitación política en Arelon inmediatamente después del [[Reod\|Reod]] y vivió varios años en el incipiente reino de [[Iadon\|Iadon]]. Taan fue tomado por la Shaod aproximadamente un año antes de la restauración de Elantris.
-Fue tras ser arrojado a [[Elantris (ciudad)\|Elantris]] (como era costumbre) cuando Taan mostró su brillantez fuera de la escultura. Asumió el nombre de **Aanden**, se puso un largo y caído bigote postizo y creó una nueva historia para sí mismo. Aanden afirmó haber sido un barón antes de ser tomado por la Shaod. Aprovechó esta reputación como barón para declararse "Barón de Elantris".  Incapaz de establecer una base en el palacio de Elantris (esa sección estaba en manos de la banda de [[Karata\|Karata]]) Aanden comenzó a mantener una "corte" en la universidad de Elantris.
-Aanden demostró una gran perspicacia política tras su traslado, ganándose la lealtad de un tercio de los habitantes de Elantris, con tres hábiles movimientos. En primer lugar, dedujo que los pergaminos de la biblioteca estaban hechos de vitela, que podía hervirse y consumirse como fuente de alimento. Y, en Elantris, la comida era la única mercancía. En segundo lugar, Aanden difundió insistentemente la propaganda de que estaba a punto de atacar Kae para liberar a los elantrinos. Por último, para aquellos seguidores a los que no podía ganarse con comida ni con venganza, Aanden acostumbraba a realizar simulacros de juicios con castigos arbitrarios y ejecuciones. Era bien sabido que Aanden, aunque retorcido, no estaba del todo cuerdo.
-La banda de Aanden fue la segunda en unirse al asentamiento de Nueva Elantris de Raoden. Tras esto, Aanden abandonó en gran medida el liderazgo de la banda, volviendo a su antiguo papel de Taan el escultor. Pasaba los días estudiando en silencio los magistrales frescos que había por todo Elantris, descubriendo técnicas artísticas que habían caído en el olvido tras el Reod.
-Durante la invasión de Arelon, soldados derethi y monjes dakhor atacaron Nueva Arelon, mientras corría por ella Galladon divisó a Taan cuyo rostro había sido aplastado bajo una gran piedra, aunque sus dedos aún se movían.
-Cuando Raoden reconectó a los elantrinos con el Dor, parece que Taan también se salvó de su estado [[Hoed\|hoed]], ya que talló un colgante de jade con el aon Omi recubierto con bandas de oro para que Raoden se lo diera a Sarene durante su ceremonia de boda.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## History
+While living in [[Arelon\|Arelon]], Taan made a name for himself as one of [[Kae\|Kae's]] finest sculptors. He weathered the political turmoil in Arelon immediately following the [[Reod\|Reod]] and lived for several years in [[Iadon\|Iadon's]] fledgling kingdom. Taan was taken by the Shaod approximately a year before the restoration of Elantris.
+It was after being cast into [[Elantris (city)\|Elantris]] (as was custom) that Taan displayed his brilliance outside of sculpting. He assumed the name **Aanden**, donned a long, drooping fake mustache and created a new history for himself. Aanden claimed to have been a baron before taken by the Shaod. He leveraged this reputation as a baron to declare himself "Baron of Elantris." Unable to establish a base in Elantris' palace - that section being held by [[Karata\|Karata's]] gang - Aanden began holding "court" in Elantris' university.
+Aanden showed great political acumen after his move, winning the allegiance of a third of Elantris' residents, with three deft moves. First, he deduced that the scrolls in the library were made of vellum, which could be boiled and consumed as a source of food. And, in Elantris, food was the only commodity. Secondly, Aanden spread persistent propaganda that he was on the verge of attacking Kae in order to free the Elantrians. Finally, for those followers that couldn't be won over with food nor with vengeance, Aanden made a practice of doling out mock trials with arbitrary punishments and executions. It was widely known that Aanden, while devious, was not entirely sane.
+Aanden's band was the second to join Raoden's New Elantris settlement. After joining, Aanden largely gave up leadership of the gang, reverting to his former role as Taan the sculptor. He spent his days quietly studying the masterful frescoes that existed throughout Elantris, uncovering artistic techniques that had been forgotten in the wake of the Reod.
+During the Invasion of Arelon, Derethi soldiers and Dakhor monks attacked New Arelon, whilst running through it Galladon spotted Taan whose face had been crushed beneath a large stone, although his fingers were still twitching.
+When Raoden reconnected Elantrians with the Dor it would seem Taan was also saved from his [[Hoed\|Hoed]] state as he carved a jade pendant bearing Aon Omi overlaid with bands of gold for Raoden to give to Sarene during their wedding ceremony.
 
 
 
-https://es.coppermind.net/wiki/Taan
+https://coppermind.net/wiki/Taan

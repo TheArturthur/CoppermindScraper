@@ -1,44 +1,30 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Graeo**|
 |-|-|
-|**Títulos**|Conde|
-|**Etnia**|[[A%C3%B3nico\|Aónico]]|
-|**Nacionalidad**|[[De Teod\|de Teod]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Titles**|Count|
+|**Ethnicity**|[[Aonic\|Aonic]]|
+|**Nationality**|[[Teo\|Teo]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El conde **Graeo** es un joven miembro de la corte de [[Teod\|Teod]] y antiguo prometido de [[Sarene\|Sarene]].
+Count **Graeo** is a young member of the [[Teo\|Teo]] court, and the former fiance of [[Sarene\|Sarene]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Graeo no era un hombre muy inteligente y, aunque era adulto, actuaba con bastante sencillez, casi como un niño. Sin embargo, era sincero y siempre hacía todo lo posible por triunfar en el mundo, aunque no era tan inteligente como los que le rodeaban.
-Graeo fue lo bastante valiente como para cortejar a Sarene, a pesar de que ella había humillado muchas veces a los hombres de la corte. Después de que ella rompiera su compromiso, Graeo se convirtió en un ermitaño debido a su vergüenza y bochorno.
-
-## Historia
-Cuando [[Sarene\|Sarene]] empezó a intentar ser más accesible a los hombres de la corte, Graeo empezó a cortejarla. A pesar de que ninguno de sus amigos pensaba que ella hubiera cambiado seriamente, Graeo y Sarene acabaron prometiéndose. Sin embargo, Sarene no le amaba y creía que su presencia sería asfixiante para Graeo, por lo que puso fin a su compromiso. Graeo, creyendo que Sarene le había estado tomando el pelo, abandonó la corte de Teod y se retiró a su finca, que no abandonó durante tres años.
-
-## Curiosidades
-El nombre de Graeo se basa en el [[/wiki/Aon#Aeo]], que significa valentía.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Graeo was not a terribly bright man, and although he was an adult, he acted rather simply, almost child-like. He was earnest though, and always did his best to succeed in the world, even though he was not as intelligent as those around him.
+Graeo was brave enough to court Sarene, even though she had so often humiliated the men of the court. After she broke off their engagement, Graeo became a recluse due to his shame and embarrassment.
 
-https://es.coppermind.net/wiki/Graeo
+## History
+When [[Sarene\|Sarene]] began making attempts to become more approachable to the men of the court, Graeo began courting her. Despite the fact that none of his friends thought that she had seriously changed, Graeo and Sarene eventually became engaged to one another. However, Sarene did not love him, and she believed that her presence would be stifling to Graeo, so she ended their engagement. Graeo, believing that Sarene had been making a fool out of him, left the Teo court and retreated to his estate, which he did not leave for three years.
+
+## Trivia
+Graeo's name is based off of [[/wiki/Aon#Aeo]], meaning bravery.
+
+
+https://coppermind.net/wiki/Graeo

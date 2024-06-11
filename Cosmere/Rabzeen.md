@@ -1,161 +1,138 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Profecías de Terris**|
+|**Terris Prophecies**|
 |-|-|
 ||
-|**Relacionado con**|[[Terris\|Terris]]|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Terris\|Terris]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-"Héroe de las Eras" redirige aquí. Para la novela de [[Nacidos de la bruma (saga)\|Nacidos de la bruma (saga)]], ver [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]].
->“*El Héroe tendrá el poder para salvar al mundo. Pero también tendrá el poder para destruirlo.*”
+"Hero of Ages" redirects here. For the [[Mistborn (series)\|Mistborn (series)]] novel, see [[The Hero of Ages\|The Hero of Ages]].
+>“*The Hero will have the power to save the world. But he will also have the power to destroy it.*”
 \-[1]
 
 
-Las **Profecías de Terris** eran un conjunto de leyendas que predecían que el Héroe de las Eras salvaría el mundo. [[Conservaci%C3%B3n\|Conservación]] las creó con una increíble previsión como parte de su plan definitivo para derrotar a [[Ruina\|Ruina]].
+The **Terris Prophecies** were a set of legends which foretells that the Hero of Ages will save the world. [[Preservation\|Preservation]] created them with incredible foresight as part of his ultimate plan to defeat [[Ruin\|Ruin]].
 
-## Sumario
+## Contents
 
-1 Alendi y Rashek. [[#Alendi y Rashek]] 
-2 Vin y Sazed. [[#Vin y Sazed]] 
-3 Citas de la profecía. [[#Citas de la profec.C3.ADa]] 
+1 Alendi and Rashek. [[#Alendi and Rashek]] 
+2 Vin and Sazed. [[#Vin and Sazed]] 
+3 Prophecy quotes. [[#Prophecy quotes]] 
 
-3. [[#Citas de profec.C3.ADas exactas]] 
-3. [[#Citas o menciones parciales de profec.C3.ADas]] 
-3. [[#Menciones prof.C3.A9ticas impl.C3.ADcitas]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Exact prophecy quotes]] 
+3. [[#Partial prophecy mentions.2Fquotes]] 
+3. [[#Implied prophecy mentions]] 
 
 
-## Alendi y Rashek
-El **Héroe de las Eras**, también llamado **Rabzeen** y el **Anamnesor**, fue un salvador profetizado que supuestamente tomaría el poder del [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] y lo utilizaría para salvar el mundo. [[Kwaan\|Kwaan]] creía que [[Alendi\|Alendi]] era el héroe, y aunque al principio su afirmación fue despreciada por el resto de los [[Forjamundos\|Forjamundos]], finalmente concedieron que Kwaan había tenido razón, ganándose el título profetizado de *Anunciador*. Para cuando Alendi fue reconocido, Kwaan había empezado a dudar de la integridad de las profecías. Sin embargo, el resto de los Forjamundos no notaron los cambios en las profecías porque confiaban en sus mentecobres, sin darse cuenta de que podían ser alteradas. Kwaan se dio cuenta con el tiempo de que las profecías habían sido editadas para exigir al Héroe que renunciara al poder del Pozo una vez tomado, y envió a [[Rashek\|Rashek]], su sobrino, para impedir que Alendi llegara al Pozo de la Ascensión. Él y sus amigos de confianza acudieron como mochileros de Alendi. Rashek mató a Alendi al final del viaje, y tomó el poder de Conservación en el Pozo de la Ascensión. En lugar de renunciar a él como habría hecho Alendi y como deseaba Ruina, lo utilizó para intentar proteger el mundo, y se convirtió en una [[Lasca\|lasca]] de Conservación. A partir de entonces, Rashek se hizo pasar por Alendi, tomando su título de Conquistador y creyéndose el Héroe de las Eras.
+4 Notes. [[#Notes]] 
 
-## Vin y Sazed
-Después de mil años, la misma narrativa se repite pero con Vin como el Héroe de las Eras. Las Profecías de Terris fueron escritas en la lengua de Terris, y todas ellas se refieren al Héroe con pronombres de género neutro. Pero estos pronombres se tradujeron más comúnmente para que el Héroe se refiriera como "él", mientras que la palabra se traducía mejor como "elle". Esto llevó a la mayoría a suponer que el Héroe de las Eras era masculino, pero Sazed creía que las profecías habían utilizado el caso neutro para que pudieran referirse a una mujer, que él creía que era Vin. Se profetizó que el Héroe de las Eras crearía y destruiría naciones. Cuando Vin derrotó a los reyes que asediaban a [[Luthadel\|Luthadel]], [[Sazed\|Sazed]] comenzó a creer que ella era el Héroe. Con el tiempo se convirtió en la poseedora de la Esquirla Conservación, el igual y opuesto de Ruina, y tras la muerte de Elend, atacó a esta última con la suficiente fuerza como para matarlo, aunque murió ella en el proceso, y liberó ambas Esquirlas. Como había previsto Conservación, Sazed las tomó, uniendo Ruina y Conservación en Armonía y se convirtió en el Rrecipiente de ambas esquirlas. Arregló la fallida ecología del mundo y renovó la tierra, y se quedó para guiar y proteger el mundo como Héroe de las Eras.
-Hacia el 348 PC, Armonía empezó a perder estabilidad y comenzó a desviarse hacia Discordia, situándose en el límite, como se menciona en la profecía. La transformación completa no parece haberse producido todavía, tres semanas después de la detonación del [[Armonium\|armonium]] y la retirada de [[Autonom%C3%ADa\|Autonomía]].
 
-## Citas de la profecía
-La mayoría de estas citas las dice Sazed con asombro mientras ve a Vin hacer cosas que la hacen parecer el Héroe de las Eras. Nunca se da un registro de la profecía. Nótese que algunas de estas profecías podrían haber sido cambiadas de su texto original por Ruina:
+## Alendi and Rashek
+The **Hero of Ages**, also called **Rabzeen** and the **Anamnesor**, was a prophesied savior who would supposedly take the power of the [[Well of Ascension\|Well of Ascension]] and use it to save the world. [[Kwaan\|Kwaan]] believed [[Alendi\|Alendi]] to be the hero, and while initially his claim was scorned by the rest of the [[Worldbringers\|Worldbringers]], eventually they conceded Kwaan had been right, earning him the prophesied title of the **Announcer**. By the time Alendi was recognized, Kwaan had started to doubt the integrity of the prophecies. However, the rest of the Worldbringers did not notice the changes in the prophecies because they trusted their copperminds, never realizing they could be altered. Kwaan eventually realized that the prophecies had been edited to require the Hero to give up the power of the Well once taken, and sent [[Rashek\|Rashek]], his nephew, to prevent Alendi from reaching the Well of Ascension. He and his trusted friends went as Alendi's packmen. Rashek killed Alendi at the end of the journey, and took up the power of Preservation at the Well of Ascension. Instead of giving it up as Alendi would have and as Ruin wished, he used it to try to protect the world, and became a [[Sliver\|Sliver]] of Preservation. From then on, Rashek pretended to be Alendi, taking his title of the Conqueror and believing himself to be the Hero of Ages.
 
-### Citas de profecías exactas
-Citas directas de la profecía original o alterada.
+## Vin and Sazed
+After a thousand years, the same narrative repeats itself, but with Vin as the Hero of Ages. The Terris Prophecies were written in the Terris language, and all of them refer to the Hero with gender-neutral pronouns. But these pronouns were most commonly translated so that the Hero is referred to as 'he', while the word was best translated as 'it'. This led to most assuming the Hero of Ages was male, but Sazed believed the prophecies had been using the neutral case so that they could have been referring to a female, who he believed to be Vin. The Hero of Ages was prophesied to create and destroy nations. When Vin defeated the kings laying siege to [[Luthadel\|Luthadel]], [[Sazed\|Sazed]] began to believe the Hero to be Vin. Eventually she became the holder of the shard Preservation, Ruin's equal and opposite, and after the death of Elend, attacked Ruin hard enough to kill him, though it killed her in the process, and unbound both Shards. As Preservation had foreseen, Sazed took them, bonding Ruin and Preservation together into Harmony and became a vessel of both shards. He fixed the world's failing ecology and renewed the land, and remained to guide and protect the world as the Hero of Ages.
+By 348 PC, Harmony began to lose stability and began to slip towards Discord, standing on the edge, as mentioned in the prophecy. The full transformation does not appear to have occurred yet, as of three weeks after the [[Harmonium\|harmonium]] detonation and the retreat of [[Autonomy\|Autonomy]].
 
->“*El Héroe de las Eras no será un hombre, sino una fuerza. Ninguna nación lo reclamará, ninguna mujer lo conservará y ningún rey podrá matarlo. No pertenecerá a nadie, ni siquiera a sí mismo.*”
+## Prophecy quotes
+The majority of these quotes are said in awe by Sazed while watching Vin do things making her appear to be the Hero of Ages. A record of the prophecy is never given. Note that some of these prophecies could have been changed from their original text by Ruin:
+
+### Exact prophecy quotes
+Direct quotations of the original or altered prophecy.
+
+>“*The Hero of Ages shall be not a man, but a force. No nation may claim him, no woman shall keep him, and no king may slay him. He shall belong to none, not even himself.*”
+\-[24]
+
+
+>“*He shall defend their ways, yet shall violate them. He will be their savior, yet they shall call him heretic. His name shall be Discord, yet they shall love him for it.*”
 \-[25]
 
 
->“*Él defenderá sus costumbres y, sin embargo, las violará. Será su salvador y, sin embargo, lo llamarán hereje. Su nombre será Discordia y, sin embargo, lo amarán por ello.*”
+>“*That which has been sundered must again begin to find its whole*”
 \-[26]
 
 
->“*Lo que ha sido separado debe de nuevo empezar a encontrar su todo.*”
-\-[27]
-
-
->“*El Héroe tendrá el poder para salvar al mundo. Pero también tendrá el poder para destruirlo.*”
+>“*The Hero will have the power to save the world. But he will also have the power to destroy it.*”
 \-[1]
 
 
->“*El Héroe llevará en sus brazos el futuro del mundo.*”
-\-[1] [28]
+>“*The Hero will bear the future of the world on his arms.*”
+\-[1] [27]
 
 
->“*El Héroe de las Eras no era simplemente un guerrero, pensó, todavía cabalgando lentamente hacia el campo de batalla. Era una persona que unía a las demás, que las acercó. Un líder.*”
-\-[18]
-
-
->“*El Héroe de las Eras surgió del pueblo de Terris. No pertenecía a la realeza, pero acabó perteneciendo a ella.*”
-\-[18]
-
-
->“*Capitaneaba las fuerzas del mundo. Los reyes cabalgaban en su ayuda.*”
-\-[18]
-
-
->“*Él dejó ruinas a su paso, pero fueron olvidadas. Él creó reinos, y luego los destruyó mientras creaba el mundo de nuevo.*”
-\-[18]
-
-
->“*...alguien separado del pueblo de Terris, un rey de hombres, un rebelde capturado entre dos mundos.*”
-\-[16]
-
-
->“*El que no es de su pueblo, pero cumple todos sus deseos.*”
+>“*The Hero of Ages was not simply to be a warrior. He was a person who united others, who brought them together. A leader.*”
 \-[17]
 
 
->“*Nació de familia humilde, y, sin embargo, se casó con la hija de un rey.*”
+>“*The Hero of Ages was removed from the Terris people. He was not royalty himself, but came to it eventually.*”
+\-[17]
+
+
+>“*He commanded the forces of the world. Kings rode to his aid.*”
+\-[17]
+
+
+>“*He left ruin in his wake, but it was forgotten. He created kingdoms, and then destroyed them as he made the world anew.*”
+\-[17]
+
+
+>“*...One who is separated from the Terris people, a king of men, a rebel caught between two worlds.*”
+\-[15]
+
+
+>“*He who is not of his people, yet fulfills all of their wishes.*”
+\-[16]
+
+
+>“*He was born of a humble family, yet married the daughter of a king.*”
+\-[28]
+
+
+>“*He could trade words with the finest of philosophers, and had an impressive memory. Yet, he was not argumentative.*”
 \-[29]
 
 
->“*Podía conversar con los mejores filósofos y tenía una memoria*
-\- impresionante. Casi tan buena, incluso, como la mía. Sin embargo, no discutía.
+>“*The Terris rejected him, but he came to lead them.*”
+\-[30]
 
 
->“*En Terris lo rechazaron, pero él logró liderarlos.*”
+>“*He commanded kings, and though he sought no empire, he became greater than all who had come before.*”
 \-[31]
 
 
->“*Ordenaba a reyes, y aunque no buscó ningún imperio, se volvió más grande que*
-\- todos los habidos
+>“*He fathered no children, yet all of the land became his progeny.*”
+\-[32]
 
 
->“*No engendró hijos, y, sin embargo, toda la humanidad se convirtió en su progenie*”
+>“*He was forced into war by a misunderstanding yet he came to fight as well as any man.*”
 \-[33]
 
 
->“*Se vio obligado a ir a la guerra por error... y siempre dijo que no era un soldado, pero llegó a combatir tan bien como cualquiera.*”
+>“*He was no simple soldier. He was a force of leadership—a man that fate itself seemed to support.*”
 \-[34]
 
 
-{{quote
-|No era un simple soldado. Era un caudillo encarnado, un hombre a quien el destino mismo parecía apoyar
-|
+### Partial prophecy mentions/quotes
+Prophecy fragments and non-verbatim quotations.
 
-### Citas o menciones parciales de profecías
-Fragmentos de profecías y citas no literales.
-
->“*...carga por la que será mencionado el héroe»?*”
-\-[25]
+>“*...Burden by which the Hero shall be dubbed...*”
+\-[35]
 
 
->“*...lazos sin sangre con los reyes del mundo.*”
-\-[25]
+>“*...Bloodless bond to the world’s kings...*”
+\-[35]
 
 
->“*...el Héroe de las Eras será un extranjero.*”
+>“*...the Hero of Ages will be an outsider.*”
 \-[36]
 
 
-### Menciones proféticas implícitas
-Referencias indirectas o inciertas de la profecía.
+### Implied prophecy mentions
+Indirect or uncertain references to the prophecy.
 
->“*Creo que he descubierto por fin por qué me odia tanto Rashek. No cree que un extraño como yo, un forastero, pueda ser el Héroe de las Eras. Cree que de algún modo he engañado a los filósofos, que llevo injustamente las marcas del Héroe.*”
-\-Una cita del diario de Alendi.[37] Esto implica que la profecía menciona que el Héroe lleva pendientes.
-
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] ·  · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“*I think I've finally discovered why Rashek resents me so very much. He does not believe that an outsider such as myself - a foreigner - could possibly be the Hero of Ages. He believes that I have somehow tricked the philosophers, that I wear the piercings of the Hero unjustly.*”
+\-A quote from Alendi's logbook.[37] This implies that the prophecy mentions the Hero wearing piercings.
 
 
 
-https://es.coppermind.net/wiki/Rabzeen
+
+https://coppermind.net/wiki/Rabzeen

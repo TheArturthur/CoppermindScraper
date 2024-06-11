@@ -1,92 +1,71 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ishnah**|
 |-|-|
 ||
-|**Capacidades**|[[Orden de los Tejedores de Luz\|Tejedor de Luz]], [[Portador de esquirlada\|Portador de esquirlada]]|
-|**Vinculado con**|[[Motivo\|Motivo]]|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[La Corte Inadvertida\|La Corte Inadvertida]]🐱︎|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Order of Lightweavers\|Lightweaver]], [[Shardbearer\|Shardbearer]]|
+|**Bonded With**|[[Motif\|Motif]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]]|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*Por favor. El mundo está mal. Nada tiene sentido. Pero vosotros… tu grupo… sabéis cosas. No quiero seguir estando ciega.*”
-\-Ishnah pidiendo ser reclutada por los Sangre Espectral[3]
-
-
-**Ishnah** es una [[Orden de los Tejedores de Luz\|Tejedora de Luz]] y miembro de [[La Corte Inadvertida\|La Corte Inadvertida]] en [[Roshar\|Roshar]]. Está vinculada al [[Cr%C3%ADptico\|críptico]] [[Motivo\|Motivo]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
-
-2. [[#Moldear almas]] 
-2. [[#Tejer luz]] 
+>“*Please. The world is wrong now. Nothing makes sense. But you . . . your group . . . you know things. I don't want to be blind anymore.*”
+\-Ishnah requesting recruitment into the Ghostbloods[3]
 
 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
-5 Notas. [[#Notas]] 
+**Ishnah** is a [[Order of Lightweavers\|Lightweaver]] and a member of the [[Unseen Court\|Unseen Court]] on [[Roshar\|Roshar]]. She is bonded to the [[Cryptic\|Cryptic]] [[Motif\|Motif]].
+
+## Contents
+
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
+2 Attributes & Abilities. [[#Attributes .26 Abilities]] 
+
+2. [[#Soulcasting]] 
+2. [[#Lightweaving]] 
 
 
-## Apariencia y personalidad
-Ishnah es una mujer bajita con el pelo liso y negro, y ojos castaños oscuros. Normalmente utiliza maquillaje, con pintalabios rojo y cejas pintadas a lápiz, y una [[Havah\|havah]] alezi con la mano enguantada en lugar de la manga cerrada típica de las mujeres [[Ojos oscuros\|ojos oscuros]] de alto rango. Su críptico, Motivo, suele ponerse en el adorno que lleva en el extremo del pasador central que usa para sujetarse las trenzas. Ishnah es algo mayor que [[Shallan\|Shallan]].
-Su tenacidad y determinación quedan demostradas en la perseverancia que utiliza para ganarse el aprecio de Shallan. Rezuma seguridad en sí misma, por su comodidad en la clandestinidad de [[Urithiru\|Urithiru]] y su voluntad de asumir la difícil tarea de entrenar a los hombres de Shallan en el espionaje, y retrata esa confianza mientras mantiene la calma durante operaciones de alta presión cuando trabaja para Shallan. Ella sufre por pequeñas tonterías y, en general, está obsesionada con su trabajo.
-Es pragmática pero ambiciosa. Siempre está buscando oportunidades. Por su pasado, no está segura de si «pertenece a la luz».
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+5 Notes. [[#Notes]] 
 
-## Características y habilidades
->“*El espionaje es una meticulosa recopilación de datos. Vuestra tarea es observar sin ser observados. Debéis ser lo bastante simpáticos para que la gente hable con vosotros, pero no tan interesantes como para que os recuerden.*”
-\-Primera lección de Ishnah a los hombres de Velo[5]
+
+## Appearance & Personality
+Ishnah is a short woman with straight, black hair and dark brown eyes. She usually wears makeup, including red lipstick and penciled eyebrows, and an Alethi [[Havah\|havah]] with a gloved hand instead of a sleeve typical of a high ranking [[Darkeyed\|darkeyed]] woman. Her cryptic, Motif, rides on the ornament at the end of the central hair spike used to keep her braids in place. She is slightly older than [[Shallan\|Shallan]].
+Her tenacity and determination are shown in the persistence she uses to earn Shallan's consideration. She exudes a great deal of self-assurance, between her comfort in [[Urithiru\|Urithiru's]] underground and her willingness to take on the difficult task of training Shallan's men in espionage, and she portrays that confidence while keeping calm during high-pressure operations while in Shallan's employ. She suffers little nonsense and is usually fixated on her work.
+She is pragmatic but ambitious. She is always finding opportunities. Because of her past, she is unsure if she "belongs in the light".
+
+## Attributes & Abilities
+>“*Espionage is about the careful gathering of information. Your task is to observe, but to not be observed. You must be likable enough that people talk to you, but not so interesting that they remember you.*”
+\-Ishnah's first lessons to Veil's men[5]
 
 
  
-Ishnah adquirió cierta habilidad en el arte del espionaje cuando trabajaba para la brillante señora [[Hamaradin\|Hamaradin]]. Afirma ser una excelente escritora, capaz de tomar dictados, y tiene experiencia en la codificación de mensajes. Si bien [[Mraize\|Mraize]] afirma que su puesto era solo el de ayudante, Ishnah demuestra conocer muchas técnicas útiles en el trabajo de campo. Lo más notable es su experiencia con la observación y la recopilación de información. Ishnah tiene muy buena memoria (mediante el «museo mental») y la habilidad de ver y rastrear detalles a la par que Shallan. También sabe cómo registrar habitaciones y gestionar operaciones de infiltración. Ishnah se siente cómoda en las redes clandestinas de Urithiru y afirma tener contactos que son espías «expertos».
-Como [[Orden de los Tejedores de Luz\|Tejedora de Luz]], Ishnah tiene acceso a las Potencias de **Iluminación** y **Transformación**. Ha progresado en sus juramentos lo suficiente como para tener una [[Hoja esquirlada\|hoja esquirlada]]. Ella ya podría tener a sus propios escuderos, pero elige permanecer en [[La Corte Inadvertida\|La Corte Inadvertida]].
+Ishnah became somewhat skilled in the art of espionage while in the employ of Brightlady [[Hamaradin\|Hamaradin]]. She asserts that she is an excellent writer, able to take dictations, and has experience with message coding. While [[Mraize\|Mraize]] claims that her position was only that of an assistant, Ishnah proves to know many practical field techniques. Most notably is her experience with observation and information gathering. Ishnah has a very good memory (using a "mind museum") and the ability to notice and track details on par with Shallan. She also knows how to search rooms and manage infiltration operations. Ishnah is comfortable in Urithiru's underground networks and claims to know contacts who are "expert" spies.
+As a [[Order of Lightweavers\|Lightweaver]], Ishnah can use the Surges of **Illumination** and **Transformation**. She has progressed in her oaths far enough to have earned a [[Shardblade\|Shardblade]]. She could gather her own squires, but chooses to remain with the [[Unseen Court\|Unseen Court]].
 
-### Moldear almas
-El [[Moldeador de almas\|moldeador de almas]] entra (o lo hace parcialmente) en el [[Reino Cognitivo\|Reino Cognitivo]] para convencer a la conciencia de un objeto de que cambie de material, transformándose en otra cosa si tiene éxito. Algunas transformaciones son más básicas que otras, y las transformaciones más complicadas requieren un potenciador más hábil y más [[Luz tormentosa\|luz tormentosa]].
+### Soulcasting
+The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].
 
-### Tejer luz
-El [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] se ocupa de las ilusiones. Implica la manipulación de las ondas de sonido o luz y tiene un fuerte componente [[Reino Espiritual\|Espiritual]] que requiere una cierta medida de [[Conexi%C3%B3n\|Conexión]] y una imagen mental completa de la ilusión deseada.
+### Lightweaving
+[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
 
-## Historia
-Ishnah trabajaba como ayudante en la red de espías de la casa [[Hamaradin\|Hamaradin]], donde fue entrenada en distintas técnicas muy útiles de espionaje. La brillante señora Hamaradin fue asesinada después de irritar a los [[Sangre Espectral\|Sangre Espectral]], y cuando se sospechó de sus espías, Ishnah huyó. Al final, terminó trabajando con una banda de pequeños ladrones en la clandestinidad de Urithiru. Su banda utilizaba [[Ruinaoscura\|ruinaoscura]]. Se cruzó con Velo, en una taberna en el [[Callej%C3%B3n de Todos\|Callejón de Todos]], donde Shallan reveló ser miembro de los Sangre Espectral. Con el deseo de usar su entrenamiento para un propósito mayor, buscó a Velo con la esperanza de unirse a la sociedad secreta. Después de ser rechazada inicialmente, Ishnah empezó a seguir a Velo, con la esperanza de impresionar a la mujer con sus habilidades. Finalmente Shallan la pilló espiándola y las dos hablaron con más detalle sobre las experiencias pasadas de Ishnah y sus motivaciones. Al ver las distintas habilidades de la mujer, Shallan le ofreció la oportunidad de entrenar a sus hombres e Ishnah aceptó.
+## History
+Ishnah worked as an assistant in House Hamaradin's spy network, where she was trained in several useful espionage techniques. Brightlady Hamaradin was eventually assassinated after vexing the [[Ghostbloods\|Ghostbloods]], and when her spies were named suspects Ishnah fled. She eventually came to work for a gang of petty thieves in Urithiru's underground. Her gang used [[Blackbane\|Blackbane]]. She crossed paths with Veil, in a tavern in [[All's Alley\|All's Alley]], where Shallan revealed herself to be a member of the Ghostbloods. With a desire to use her training for something greater, Ishnah sought out Veil in hopes of joining the secret society herself. After being initially turned her away, Ishnah began spying on Veil, hoping to impress the woman with her skills. Shallan eventually caught her spying and the two spoke at greater length of Ishnah's past experience and motivations. Seeing the several uses for the woman, Shallan offered her the opportunity to train her men, and Ishnah accepted.
 
->“*Muy bien. Ya veremos. Pero luego no me culpes a mí si los cerdos no terminan hablando.*”
-\-Ishnah aceptando entrenar a los guardias de Shallan[7]
+>“*All right. We'll see. Just don't blame me if the pigs don't end up talking.*”
+\-Ishnah agreeing to train Shallan's guards[7]
 
-Ishnah empezó su entrenamiento llevando a Velo, [[Vathah\|Vathah]], [[Gaz\|Gaz]] y [[Rojo (Roshar)\|Rojo]] a una taberna, donde les explicó la importancia de aprender a hacer observaciones sin ser visto, señalando a una informante que lo estaba haciendo en ese momento, una a quien incluso Shallan no había notado. Tras esta primera lección, ella les explicó algunas técnicas de observación y memorización e insistió en que debían aprender [[Glifos\|glifos]] para tomar notas.
-Semanas más tarde, Shallan seleccionó a Ishnah, junto con Vathah y Rojo, para viajar con ella en la misión de [[Elhokar Kholin\|Elhokar]] para recuperar [[Kholinar\|Kholinar]], con el pretexto de que ella era la doncella de Shallan. Cuando los grupos llegaron a la ciudad, Shallan confirmó las sospechas crecientes de Ishnah de que ella y Velo eran la misma persona. En Kholinar, Ishnah apoyó los esfuerzos de Shallan para ganarse la atención del [[Culto de los Momentos\|Culto de los Momentos]] ayudándola a robar y redistribuir comida. Su primer trabajo tuvo lugar en [[Catarroca\|Catarroca]], donde Ishnah, disfrazada de comerciante de alfombras, distrajo a la brillante señora [[Nananav\|Nananav]] mientras Shallan y sus hombres cometían el robo. Ishnah a menudo buscaba la ocasión de continuar con la educación de Vathah y Rojo durante su estancia en Kholinar, llegando incluso a entrenar a Vathah en la planificación de las operaciones. También actuó como la ayudante de Shallan, ocupándose de tareas menores como limpiar la sangre de la ropa de Velo y localizando una copia de *[[M%C3%ADtica\|Mítica]]*. Más adelante, Shallan fijó ilusiones de Velo a Ishnah y Vathah para incrementar su visibilidad. En una de esas salidas, alguien finalmente contactó con Ishnah y le dio a Velo instrucciones para unirse a la fiesta.
-Tras la abrupta salida de Shallan de Kholinar a través de la [[Puerta Jurada\|Puerta Jurada]] corrupta, Ishnah, Vathah y Rojo trabajaron junto con [[Cikatriz\|Cikatriz]] y [[Drehy\|Drehy]] para rescatar a [[Gavinor Kholin\|Gavinor Kholin]] y escapar de la ciudad ilesos. Viajaron hacia el sur, donde se pusieron en contacto con [[Dalinar Kholin\|Dalinar Kholin]], quien envió a [[Kaladin\|Kaladin]] para que los rescatara.
-Ishnah fue uno de los primeros miembros de [[La Corte Inadvertida\|La Corte Inadvertida]]. Formó parte del grupo que capturó a [[Ialai Sadeas\|Ialai]] y a los [[Hijos de Honor\|Hijos de Honor]] en los campamentos de guerra. 
-Ishnah fue elegida por [[Shallan\|Shallan]] para la misión en [[Integridad Duradera\|Integridad Duradera]]. Shallan sospechaba de ella como espía de los [[Sangre Espectral\|Sangre Espectral]], dado su interés en el grupo. [[Shallan\|Shallan]] buscó información y descubrió que Ishnah había estado destinando su estipendio a su banda anterior. Ella esperaba que utilizarían el dinero para bien, pero en realidad lo usaron para comenzar una nueva estafa. El grupo navegó desde las Escaleras de Nohadon hasta [[Innominado\|Innominado]], y luego se dirigieron en caravana hasta [[Integridad Duradera\|Integridad Duradera]].
+Ishnah began her instruction by taking Veil, [[Vathah\|Vathah]], [[Gaz\|Gaz]], and [[Red (Roshar)\|Red]] to a tavern where she explained the importance of learning to make observations without being noticed, pointing out an informant actively doing this, whom even Shallan had failed to notice. After the initial lesson she explained some practical observation and memorization techniques and insisted that they should learn [[Glyphs\|glyphs]] for note taking purposes.
+A few weeks later, Shallan selected Ishnah, along with Vathah and Red, to travel with her on [[Elhokar\|Elhokar's]] mission to retake [[Kholinar\|Kholinar]], under the pretense that she was Shallan's maidservant. Upon the groups arrival in the city, Shallan confirmed Ishnah's growing suspicions that she and Veil were the same person. In Kholinar, Ishnah supported Shallan's efforts to earn the notice of the [[Cult of Moments\|Cult of Moments]] by helping her steal and redistribute food. Their first job occurred at [[Rockfall\|Rockfall]], where Ishnah, disguised as a rug merchant, distracted the Brightlady [[Nananav\|Nananav]] while Shallan and her men committed the burglary. Ishnah often looked for opportunities to continue Vathah and Red's education during their time in Kholinar, going so far as to train Vathah to plan their operations. She also acted as Shallan's assistant, taking care of minor tasks such as cleaning blood out of Veil's clothing and tracking down a copy of *[[Mythica\|Mythica]]*. Shallan later attached illusions of Veil to Ishnah and Vathah in order to increase her visibility. On one such outing, someone finally made contact with Ishnah, giving Veil instructions to join the revel.
+After Shallan's abrupt departure from Kholinar via the corrupted [[Oathgate\|Oathgate]], Ishnah, Vathah, and Red worked together with [[Skar\|Skar]] and [[Drehy\|Drehy]] to rescue [[Gavinor Kholin\|Gavinor Kholin]] and escape the city unharmed. They traveled south, where they were able to make contact with [[Dalinar Kholin\|Dalinar Kholin]], who sent [[Kaladin\|Kaladin]] to extract the group.
+Ishnah was amongst the first members of the [[Unseen Court\|Unseen Court]]. She was part of the group that captured [[Ialai\|Ialai]] and the [[Sons of Honor\|Sons of Honor]] in the warcamps. 
+Ishnah was selected by [[Shallan\|Shallan]] for the mission to [[Lasting Integrity\|Lasting Integrity]]. She suspected her as a spy for the [[Ghostbloods\|Ghostbloods]], given her interest in the group. [[Shallan\|Shallan]] dug for information and uncovered that Ishnah had been funneling her stipend to her previous gangs. She'd hoped they'd use the money to pull themselves up, but ultimately, they used them to start a new racket. This group sailed from Nohadon's Stairway to [[Nameless\|Nameless]], then caravanned to [[Lasting Integrity\|Lasting Integrity]].
 
-## Relaciones
-Ishnah respeta la posición de Shallan entre los Sangre Espectral, y aunque arriesga mucho para unirse a Shallan, se desconoce el alcance de su lealtad. Ella es, de alguna forma, una mentora para Vathah, habiéndolo situado bajo su protección más que a cualquiera de los otros guardias de Shallan.
-[[Shallan\|Shallan]] considera que ella es uno de los miembros de [[La Corte Inadvertida\|La Corte Inadvertida]] en la que más puede confiar y la considera su mano derecha.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Relationships
+Ishnah respects Shallan's position among the Ghostbloods, and though she risks much to join Shallan, the extent of her loyalties are unknown. She is somewhat of a mentor figure for Vathah, having taken him under her wing more so than any of Shallan's other guards.
+[[Shallan\|Shallan]] considers her to be one of the most trustworthy members of the [[Unseen Court\|Unseen Court]] and considers Ishnah her right hand woman.
 
 
 
-https://es.coppermind.net/wiki/Ishnah
+https://coppermind.net/wiki/Ishnah

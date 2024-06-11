@@ -1,56 +1,53 @@
-
-
 |**Nalthis**|
 |-|-|
 ||
-|**[[Esquirla\|Esquirlas]]**|[[Dotaci%C3%B3n\|Dotación]]|
-|**[[Investidura\|Investiduras]]**|[[Despertar\|Despertar]]|
-|**Sistema**|[[Sistema nalthiano\|Sistema nalthiano]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Shard\|Shards]]**|[[Endowment\|Endowment]]|
+|**[[Investiture\|Investitures]]**|[[Awakening\|Awakening]]|
+|**System**|[[Nalthian system\|Nalthian system]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Nalthis** es un planeta en el [[Sistema nalthiano\|sistema nalthiano]] del [[Cosmere\|Cosmere]]. La [[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]] vive aquí. Está habitado por humanos y comprende diferentes estados, tales como [[Idris\|Idris]] y [[Hallandren\|Hallandren]]. Los habitantes de Nalthis se denominan nalthianos.
-Una única luna, llamada **Rrendos**, orbita el planeta.
+**Nalthis** is a planet in the [[Nalthian system\|Nalthian system]] of the [[Cosmere\|cosmere]]. The [[Shard\|Shard]] [[Endowment\|Endowment]] resides there. It is inhabited by humans and has a number of states, including [[Idris\|Idris]] and [[Hallandren\|Hallandren]]. A person from Nalthis is called a Nalthian.
+A single moon named **Rrendos** orbits the planet.
 
-## Sumario
+## Contents
 
-1 Naciones. [[#Naciones]] 
+1 Nations. [[#Nations]] 
 
-1. [[#Hist.C3.B3ricas]] 
-1. [[#Actuales]] 
-
-
-2 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Historia temprana y mitolog.C3.ADa]] 
-3. [[#La Multiguerra]] 
-
-3. [[#Preludio a la Multiguerra]] 
-3. [[#Los eventos de la Multiguerra]] 
-3. [[#Resoluci.C3.B3n de la Multiguerra]] 
+1. [[#Historical]] 
+1. [[#Current]] 
 
 
-3. [[#Tras la Multiguerra]] 
-3. [[#La rebeli.C3.B3n Pahn Kahl]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+3 History. [[#History]] 
 
-3. [[#La rebeli.C3.B3n de Vahr]] 
-3. [[#La manipulaci.C3.B3n de Dedos Azules]] 
-3. [[#La rebeli.C3.B3n]] 
+3. [[#Early History and Mythology]] 
+3. [[#The Manywar]] 
+
+3. [[#Prelude to the Manywar]] 
+3. [[#The Events of the Manywar]] 
+3. [[#Resolution of the Manywar]] 
 
 
-3. [[#Tras la rebeli.C3.B3n]] 
+3. [[#After the Manywar]] 
+3. [[#The Pahn Kahl Rebellion]] 
+
+3. [[#Vahr.27s Rebellion]] 
+3. [[#Bluefingers.27 Manipulation]] 
+3. [[#The Rebellion]] 
+
+
+3. [[#After the Rebellion]] 
 
 
 4 Cosmere. [[#Cosmere]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas del traductor. [[#Notas del traductor]] 
-7 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Naciones
-### Históricas
+## Nations
+### Historical
 
 [[Chedesh\|Chedesh]]
 [[Hanald\|Hanald]]
@@ -58,7 +55,7 @@ Una única luna, llamada **Rrendos**, orbita el planeta.
 [[Kuth\|Kuth]]
 [[Pahn Kahl\|Pahn Kahl]]
 
-### Actuales
+### Current
 
 [[Gys\|Gys]]
 [[Hallandren\|Hallandren]]
@@ -66,118 +63,100 @@ Una única luna, llamada **Rrendos**, orbita el planeta.
 [[Idris\|Idris]]
 [[Tedradel\|Tedradel]]
 [[Xaka\|Xaka]]
-País sin nombre que utiliza máquinas despertadas
-
-El mundo conocido contiene docenas de reinos.
-
-## Geografía y ecología
-La geografía y la ecología de Nalthis son en gran medida desconocidas. Hallandren es singular en el mundo conocido de Nalthis por ser el único lugar que las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]] pueden crecer, y también por ser el único con clima tropical. El crecimiento de las plantas de la región se debe en parte a la [[Investidura\|Investidura]], parecido a como sucede en la [[Cuenca de Elendel\|Cuenca de Elendel]]. Al este de Halladren, hay un [[Mar Brillante\|mar interior]] en el que hay varias islas, donde al menos un tercio de la costa está bajo el control de [[Hallandren\|Hallandren]], cuya [[T'Telir\|capital]] tiene salida al mar. Esta zona sufre terremotos frecuentemente.
-Hay montañas al norte de Hallandren, así como hacie el lugar por donde sale el sol; aquellas que se encuentran al norte son controladas por [[Idris\|Idris]]. Aquí se encuentran las únicas minas de cobre conocidas en el planeta.. Al norte de las montañas se encuentran otras naciones. Al sur de Halladren, está Pahn Kahl. Elefantes y cebras son conocidas como criaturas exóticas "del sur". No está claro si eso significa que vienen de la parte sureña de Halladren o de más al sur de Halladren La jungla de Hallandren está habitada por panteras, loros, monos y cocodrilos. Los habitantes de Hallandren tienen acceso a vinos finos, patatas dulces, higos, frutos secos y ajo junto con otras comidas; se desconoce cuánto de esto se produce en esa región y cuánto es importado.El mar Brillante está repleto de vida, incluyendo mejillones, peces y criaturas con tentáculos.
-A diferencia de [[Roshar\|Roshar]], Nalthis si experimenta placas tectónicas activas.
-
-## Historia
-### Historia temprana y mitología
->“*Puede que te preguntes por qué nos remontamos tan atrás. ¿No debería hablar de la Multiguerra, de la ruptura de los reinos, de los Cinco Sabios, de Kalad el Usurpador y su ejército fantasma [...]? Ésos son los hechos en que nos centramos, los que los hombres conocen mejor. Sin embargo, hablar sólo de ellos es ignorar la historia de los trescientos años que los preceden.*”
-\-Hoid acerca de la historia de Nalthis[6]
-
-No se sabe cuándo se originó Nalthis, pero no es lo suficientemente antiguo como para que se hayan formado fósiles. [[Dotaci%C3%B3n\|Dotación]] se asentó en el [[Sistema nalthiano\|sistema nalthiano]], y es desde entonces la única [[Esquirla\|Esquirla]] en el sistema. Los humanos de Nalthis fueron creados directamente por Dotación en un momento desconocido tras la [[Fragmentaci%C3%B3n\|Fragmentación]]. Una [[Perpendicularidad\|perpendicularidad]] se formó en el mundo, y cerca de ella comenzaron a crecer las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]].
-Durante la primera época, la nación de [[Chedesh\|Chedesh]] dominaba el mundo, y sus navegantes llegaron hasta la zona que más tarde se convertiría en [[Hallandren\|Hallandren]]. Dicha región ya estaba habitada por los [[Pahn Kahl\|Pahn Kahl]], pero no fueron considerados una nación "de verdad". Durante su estancia allí, los originarios de Chedesh descubrieron las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]] por primera vez. Explorando este nuevo continente, continuaron hacia el norte y durante el viaje uno de los tripulantes murió y se convirtió en el primer [[Retornado\|Retornado]]. Recordado como el "Primer Retornado", [[Vo\|Vo]] anunció las [[Cinco Visiones\|Cinco Visiones]] y murió una semana más tarde. Los hombres del barco recibieron su mensaje y fundaron el reino de [[Hanald\|Hanald]]. Eligieron a la esposa de Vo como primera monarca, comenzando así el linaje real de Idris. Este nuevo reino hizo rápidamente una gran riqueza debido a las Lágrimas de Edgli, y su monopolio sobre los tintes les permitió convertirse en una poderosa fuerza económica.
-Durante la mayor parte de su historia los habitantes del planeta no sabían de la existencia del arte del [[Despertar\|despertar]]. La muerte de Vo ayudó a que se iniciara su exploración, que fue descubierto unos cuatro siglos antes de los eventos de la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-
-### La Multiguerra
-#### Preludio a la Multiguerra
-Para más información, ver [[Los Cinco Sabios\|los Cinco Sabios]].
-Cuando se fundó Hanald, el [[Austrismo\|austrismo]] era la religión predominante y la propia familia real idriana la profesaba. En ese momento se creó el [[Culto de los Retornados\|culto de los Retornados]] y se les empezó a adorar, creyendo que cada individuo había sido enviado por [[Austre\|Austre]] para cumplir una misión. Fue este culto el que descubrió, mantuvo y puso nombre a [[Vasher\|Rompeguerras el Pacífico]] y [[Shashara\|Glorysinger]].
-Trescientos años después de la llegada de Vo, estos Retornados cambiaron de nombre a [[Vasher\|Talaxin]] y [[Shashara\|Shashara]] respectivamente, y se unieron a los Retornados [[Arsteel\|Arsteel]], [[Yesteel\|Yesteel]], y [[Denth\|VaraTreledees]] para formar [[Los Cinco Sabios\|los Cinco Sabios]]. Los años que precedieron a la Multiguerra se caracterizaron por los rápidos descubrimientos sobre el despertar encabezados por ellos. Además, algunos se convirtieron en [[Saltamundos\|saltamundos]]. Sus investigaciones acerca del despertar y su exploración del [[Cosmere\|Cosmere]] cimentaron el legado de estos nalthianos como unos de los primeros estudiosos del Cosmere, siendo así reconocidos por la gente de [[Luzdeplata\|Luzdeplata]].
-Las tensiones entre Hanald y sus vecinos comenzaron a crecer debido a multitud de factores, como la abundancia de tintes en Hanald y el descubrimiento de cómo despertar [[Sinvida\|sinvidas]] con un solo aliento en vez de cincuenta. Además de duplicar el tamaño de muchos ejércitos, el uso de ícor-alcohol hizo que los ya resistentes sinvida fueran aún más fuertes y duraderos. La situación empeoró aún más cuando Shashara desveló ambos secretos a todo el mundo, permitiendo así que todas las naciones se beneficiaran de ellos.
-
->“*¿Me acusas, Vasher? ¿A mí? ¿Cuándo fue la última vez que yo inicié una guerra y maté a miles de soldados?*”
-\-Denth a Vasher acerca de su pasado[20]
-
-#### Los eventos de la Multiguerra
-Para más información, ver [[La Multiguerra\|la Multiguerra]].
-Pese al aumento de las tensiones, el comienzo de la Multiguerra no se debió a ninguno de estos factores. En su lugar, un Retornado tuvo una visión acerca de una guerra que se avecinaba y se la contó a Talaxin. Este a su vez transmitió las noticias a la nación de Hanald. La monarquía idriana se negó a comenzar una guerra preventiva contra sus vecinos, de modo que Talaxin azuzó una rebelión contra ellos y destituyó su gobierno. Talaxin llegó al poder como Kalad el Usurpador y ordenó ataques preventivos contra los reinos de [[Kuth\|Kuth]] y [[Huth\|Huth]] al norte de Hanald.
-En respuesta a esto, varias naciones se unieron a Kuth y Huth para formar una coalición conocida como la [[Unidad Pahn\|Unidad Pahn]] y enfrentarse a Hanald. Los Cinco Sabios se separaron, tomando partido en diferentes bandos en la guerra.
-
->“*Quise detenerla. Pero cuando me di cuenta de lo que pasaba, había llegado ya demasiado lejos. Había tomado viva propia.*”
-\-Vasher acerca de la Multiguerra[32]
-
-Siendo el primer conflicto real en el que el despertar y los sinvida se utilizaron de forma decisiva en el campo de batalla, la Multiguerra fue uno de los conflictos más devastadores de Nalthis.. Mientras la guerra se libraba, se hicieron más avances en el arte de crear sinvidas y otros objetos despertados. Esto no hizo más que encrudecer las batallas. Durante este periodo, Kalad creó a sus infames [[Fantasmas de Kalad\|fantasmas]].
-Poco después Kalad y Shashara decidieron tratar de crear una [[Hoja esquirlada\|hoja esquirlada]] como las que habían visto en [[Roshar\|Roshar]] utilizando el despertar. Tras un periodo de investigación crearon la espada conocida como [[Sangre Nocturna\|Sangre Nocturna]]. La primera batalla en la que se usó a Sangre Noctura fue [[/wiki/La Multiguerra#La Batalla de las Cataratas del Crep.C3.BAsculo]], donde fue blandida por Shashara. Esa batalla supuso el final de la Multiguerra. Kalad quedó horrorizado por la pérdida de vidas que había causado Sangre Nocturna; y puesto que Shashara estaba empeñada en revelar el secreto de su creación a las demás naciones, Kalad sintió que no tenía más remedio que matarla.
-
->“*Es extraño lo que la historia le enseña a un hombre. Supongo que la gente no pudo comprender por qué cambié de pronto. Por qué dejé de luchar y por qué traje a los fantasmas para recuperar el control de mi propio reino. Así que decidieron que debía ser dos personas.*”
-\-Vasher acerca de su pasado[30]
-
-#### Resolución de la Multiguerra
-De acuerdo con la leyenda Kalad, a quién en aquel momento de su vida se conocía como Dalapaz, finalizó la guerra mediante negociaciones, pero en realidad jugó un papel importante la amenaza de utilizar a sus fantasmas. Para cuando terminó la guerra, las naciones de Huth y Kuth ya estaban destruidas. Dalapaz fundó la nación de [[Hallandren\|Hallandren]] y comenzó el linaje de reyes-dioses dándoles poder político en el reino. También se empezó a transmitir su [[Tesoro de Dalapaz\|tesoro]] de alientos de un rey-dios al siguiente. El [[Culto de los Retornados\|culto de los Retornados]], conocido ahora como los [[Tonos iridiscentes\|tonos iridiscentes]], se hizo con el poder y comenzó a gestionar la [[Corte de los Dioses\|Corte de los Dioses]]. Dalapaz dispersó sus fantasmas por la ciudad en secreto como los [[D'Denir Celabrin\|D'Denir Celabrin]], escondiéndolos a plena vista.
-La familia real idriana no volvió a Hallandren sino que permaneció en el exilio en las montañas del norte, donde formaron la nación de [[Idris\|Idris]]. El austrismo dio la espalda al [[Despertar\|despertar]] y comenzó a considerarlo una abominación, despreciando también la adoración a los Retornados como creencias "paganas". La nación de [[Tedradel\|Tedradel]] ha seguido manteniendo una relación antagonista con Hallandren desde entonces.
-
-### Tras la Multiguerra
->“*Tu gente se halla en un estado de rebelión contra el resto del reino.*”
-\-Treledees a Siri[13]
-
-Durante los trescientos años que siguieron a la Multiguerra, el reino de Hallandren prosperó bajo su nuevo gobierno, aunque con el tiempo empezó a corromperse. La relación entre Hallandren e Idris empeoró con el tiempo, ya que los pasajes al norte que Idris controlaba eran objetivos muy tentadores para Hallandren. La Corte de los Dioses consideraba a la región idriana una provincia rebelde y no una verdadera nación. Pese a ello, Idris se mantuvo poderosa y con muchos aliados al norte de las montañas. Con el objetivo de intentar mantener buenas relaciones, el rey [[Dedelin\|Dedelin]] negoció un tratado por el que su [[Vivenna\|hija mayor]] acudiría a la Corte una vez fuera mayor de edad para introducir la sangre real en el linaje de los reyes-dioses y así legitimar aún más su autoridad. Esto fue aceptado por la Corte.
-Con el paso de los siglos, el control y la subyugación de la gente de Pahn Kahl empeoró. Su opresión llegó hasta el punto en que mucha gente asumía que su cultura estaba extinta y que también ellos adoraban a los Retornados. Con los años, los Pahn Kahl se cansaron de su posición en la sociedad de Hallandren y de los pocos trabajos de baja categoría que se les ofrecían. Los rumores de una posible rebelión se empezaron a expandir, y algunos Pahn Kahl comenzaron a transferir sus puestos en la Corte de los Dioses a otros Pahn Kahl para conservar el poder. Uno de ellos, llamado Dedos Azules, puso en marcha un plan para derrocar al gobierno de Hallandren. Su esperanza era incitar una guerra entre Hallandren e Idris y hacer uso del caos resultante para que los Pahn Kahl pudieran alzarse en la sociedad.
-
-### La rebelión Pahn Kahl
-Para más información, ver [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-#### La rebelión de Vahr
-Otro Pahn Kahl, [[Vahr\|Vahr]], comenzó prematuramente su propia rebelión contra Hallandren. Había pasado una década consiguiendo los contactos necesarios para llevarla a cabo y había persuadido a sus compañeros para que le dieran sus alientos y así ser más poderoso. En este proceso Vahr recibió ayuda de otras naciones preocupadas por el poder de Hallandren, tales como Idris y varios señores del crimen en [[T'Telir\|T'Telir]].
-
-  <<Vasher\|Vasher>> robando los <<Aliento\|alientos>> de Vahr antes de matarlo
-Temeroso de que esta rebelión llamase mucho la atención sobre la suya propia, Dedos Azules filtró la ubicación de Vahr a las autoridades de Hallandren e hizo que lo arrestaran. Sin su liderazgo, la rebelión se vino abajo. El reino de Idris había confiado en que esta rebelión alejaría la atención de Hallandren de ellos durante algún tiempo. En su lugar, Hallandren se volvió paranoico y empezó a tener más cuidado con sus potenciales enemigos. Para evitar una posible guerra, el rey Dedelin se apresuró a cumplir su contrato con [[Susebron\|Susebron]]. Sin embargo no quiso enviar a [[Vivenna\|Vivenna]], enviando a [[Siri\|Siri]] en su lugar. [[Vasher\|Vasher]] se aprovechó del arresto de Vahr, persuadiendo a éste, para que le diera sus alientos con la excusa de que así no los obtuviera Hallandren. Como recompensa por este generoso regalo, Vasher mató a Vahr.
-
-#### La manipulación de Dedos Azules
-Para entonces, Vara Treledees se había cambiado el nombre a [[Denth\|Denth]] y había comenzado a trabajar para Dedos Azules para ayudar a causar una guerra. Corrompió a [[Lemex\|Lemex]], un espía idriano, y fue al encuentro de Vivenna, quien había ido a [[T'Telir\|T'Telir]] a buscar a su hermana. Junto con [[Banda de Denth\|su banda]] consiguió ganarse la confianza de Vivenna. Convenciéndola de que estaba de su parte, Denth se las apañó para secuestrarla sin que ella se diera cuenta.
-
->“*Ten cuidado, niña. No todo en este palacio es lo que parece.*”
-\-Dedos Azules a Siri[56]
+Unnamed country that uses Awakened machines
 
 
-La llegada de Siri a la Corte de los Dioses trajo consigo otra serie de preocupaciones. Había quien especulaba que el cambio de último momento en realidad estaba planeado desde el principio, y que juntarse con la monarquía idriana minaba su autoridad en vez de reforzarla. El plan original de Dedos Azules era utilizar a Siri para persuadir a los idrianos de la ciudad a empezar una rebelión, pero cambió sus planes cuando supo que Denth había secuestrado a Vivenna y la estaba utilizando con ese mismo fin. Decidió que la mejor opción era matar a Siri para enfadar aún más a los idrianos.
-Mientras hacía como que seguía los planes de Vivenna para detener la guerra, Denth los saboteaba o cancelaba cuando ella no prestaba atención y en su lugar hacía todo lo posible para empeorar la situación. Los planes de Denth se vinieron abajo cuando se vio obligado a matar a un [[Parlin\|amigo]] de Vivenna y ésta descubrió el cadáver junto a los cuerpos de los soldados que su padre había enviado. Así descubrió sus verdaderas intenciones y escapó de la banda.
+The known world contains dozens of kingdoms.
 
->“*Cuando esto acabe, princesa, Idris luchará hasta que Hallandren o ella misma quede destruida.*”
-\-Dedos Azules a Siri.[45]
+## Geography and Ecology
+The geography and ecology of Nalthis is largely unknown. [[Hallandren\|Hallandren]] is unique in the known world of Nalthis as being the only place that [[Tears of Edgli\|Tears of Edgli]] will grow, as well as being the only known jungle climate. The growth of plants in this region is partly helped by [[Investiture\|Investiture]], much like the [[Elendel Basin\|Elendel Basin]]. To Hallandren's east, there is an inland [[Bright Sea\|sea]] that features several islands. At least a third of the coastline is controlled by Hallandren, which has its [[T'Telir\|capital city]] built abutting the water. The area suffers frequent earthquakes.
+There are mountains north of Hallandren, as well as toward the sunrise; those to the north are controlled by [[Idris\|Idris]]. These contain the only known copper mines in the world. Further nations can be found north of those mountains. To the south of Hallandren is [[Pahn Kahl\|Pahn Kahl]]. Elephants and zebras are said to be exotic creatures from "the south." Whether this means they come from southern Hallandren or south of Hallandren is unclear. The Hallandren jungle is inhabited by panthers, parrots, monkeys, and crocodiles. The Hallandren people have access to fine wines, sweet potatoes, figs, nuts, and garlic, among other foods; it is unknown, however, how much grows in the area and how much is imported. The Bright Sea is full of life, including many sorts of mussels, fish, and tentacled creatures.
+Unlike [[Roshar\|Roshar]], Nalthis experiences active plate tectonics.
 
-#### La rebelión
-Vasher descubrió cómo Denth había estado engañando a Vivenna y la salvó. Juntos hicieron cuanto estaba en su mano para prevenir la guerra hablando con los idrianos y rescatando al [[Misel\|hijo]] de un [[Nanrovah\|sacerdote]] que había sido secuestrado por Denth para chantajearlo. Sin embargo, sus esfuerzos no dieron frutos y la guerra siguió gestándose. Los sacerdotes temían que la votación para comenzar la guerra saliera adelante y procedieron a proteger a Siri de una posible revuelta. Dado el voto inesperado de [[Sondeluz\|Sondeluz]] y el repentino incremento en la seguridad de Siri, Dedos Azules entró en pánico y puso en marcha la rebelión ese mismo día.
+## History
+### Early History and Mythology
+>“*Now, you may wonder why I must travel back so far. Should I not speak of the Manywar, of the shattering of kingdoms, of the five scholars, of Kalad the Usurper and his phantom army? Those are the events we focus upon, the ones men know best. To speak only of them, however, ignores the history of three hundred years that led up to them.*”
+\-Hoid on the history of Nalthis[6]
 
-  <<Vasher\|Vasher>> haciendo uso del despertar
-Inmediatamente envió a sus mercenarios a matar a los guardias fuera de la habitación de Siri y reemplazarlos. Al mismo tiempo envió a Denth a capturar a Vasher, que se acababa de infiltrar en el palacio del rey-dios con la esperanza de prevenir la guerra. Durante el creciente conflicto, los rebeldes consiguieron asesinar a [[Encendedora\|Encendedora]], capturar al rey-dios, hacerse con todas las órdenes de los sinvida y enviar al ejército a atacar y matar a los idrianos. Los sacerdotes salvaron a Siri y [[Susebron\|Susebron]] del conflicto y los enviaron con Dedos Azules para su evacuación.
-Sondeluz utilizó su aliento divino para devolverle la lengua a Susebron. Con pleno acceso a sus alientos, este dio la vuelta a la batalla, salvó a Siri y arrestó a Dedos Azules. Justo después de la pelea, Vasher se identificó como Dalapaz ante el público y otorgó a Susebron control total sobre los D'Denir Celabrin para que los enviara a destruir al ejército sinvida y prevenir una masacre en Idris.
+Nalthis was created at an unknown date, but it is not old enough to have had fossils form on it. The [[Nalthian system\|system]] was settled by [[Endowment\|Endowment]], who remains the sole [[Shard\|Shard]] in the system. Humans on Nalthis were directly created by Endowment at an unknown point after the [[Shattering\|Shattering]]. A [[Perpendicularity\|Perpendicularity]] formed on the world, and near it the [[Tears of Edgli\|Tears of Edgli]] began to grow.
+Early in its history the nation of [[Chedesh\|Chedesh]] dominated the world, and their sailors eventually reached the area that would later become known as [[Hallandren\|Hallandren]]. The region was already inhabited by the [[Pahn Kahl\|Pahn Kahl]], but they were dismissed as not a 'true' nation. While there the Chedens discovered the [[Tears of Edgli\|Tears of Edgli]] for the first time. As the nation explored this new continent, they headed northwards; one Cheden died during the trip and became the first [[Returned\|Returned]]. Remembered by the title "the First Returned", [[Vo\|Vo]] declared the [[Five Visions\|Five Visions]] and then died a week later. The men on his ship received his message and founded the kingdom of [[Hanald\|Hanald]]. They chose Vo's wife as the first monarch, beginning the Idrian royal line. This new kingdom quickly grew lucrative due to the Tears of Edgli, and their monopoly on the dyes allowed them to become a powerful economic force.
+For most of their history the inhabitants of the planet were unaware of the art of [[Awakening\|Awakening]]. The death of Vo helped begin exploration into this art, which was only discovered some four centuries prior to the events of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
 
-### Tras la rebelión
-Tras la muerte de Denth, su banda se puso en contacto con [[Yesteel\|Yesteel]], que residía en uno de los reinos al norte de las montañas. El propio Yesteel se propuso reforjar los reinos de [[Huth\|Huth]] y [[Kuth\|Kuth]]. Al enterarse de esto, Vasher y Vivenna decidieron ir al norte a detenerle.
-Durante muchos años, su dominio sobre el despertar y la tecnología avanzó significativamente, creando circuitos despertados que responden a la Conexión del usuario para predecir textos.
+### The Manywar
+#### Prelude to the Manywar
+For more information, see [[Five Scholars\|Five Scholars]].
+[[Austrism\|Austrism]] was the predominant religion of Hanald when it was founded, and the Idrian royal family itself followed it. At the same time the [[Cult of the Returned\|Cult of the Returned]] formed and began to worship the Returned, believing that each individual had been sent from [[Austre\|Austre]] in order to fulfill a mission. They were the individuals who discovered, maintained, and named Warbreaker the Peaceful and Glorysinger.
+Three hundred years after the arrival of Vo, these Returned would be renamed as [[Vasher\|Talaxin]] and [[Shashara\|Shashara]] respectively and joined with other Returned [[Arsteel\|Arsteel]], [[Yesteel\|Yesteel]], and [[Denth\|VaraTreledees]] to form the [[Five Scholars\|Five Scholars]]. The years preceding the Manywar were ones of quick discovery about Awakening led by the Scholars. Beyond this, some of them became [[Worldhoppers\|worldhoppers]]. Their discoveries about Awakening and their exploration of the [[Cosmere\|cosmere]] cemented the legacy of these Nalthians as early scholars of the cosmere by those at [[Silverlight\|Silverlight]].
+Tensions between Hanald and its neighbors began to grow due to a wide variety of factors, including Hanald's ready supply of dyes and the discovery of how to Awaken [[Lifeless\|Lifeless]] with a single Breath instead of fifty. In addition to this doubling the size of many armies, the use of ichor-alcohol made the already durable Lifeless even stronger and longer lasting. The situation worsened even more when Shashara revealed both secrets to the entire world, allowing every nation to benefit.
+
+>“***I** get out of hand, Vasher? Me? When's the last time **I** started a war? Slaughtered tens of thousands?*”
+\-Denth to Vasher about his past[20]
+
+#### The Events of the Manywar
+For more information, see [[Manywar\|Manywar]].
+Despite the increase in tensions, however, the Manywar was not properly triggered by any one of these factors. Instead, a Returned had a vision about an upcoming war and told Talaxin about it, who in turn spread the news to those in the nation of Hanald. The Idrian monarchy refused to begin a preemptive war against their neighbors, so Talaxin sparked a rebellion against them and deposed their government. Talaxin rose to power as Kalad the Usurper and ordered preemptive strikes against the kingdoms of [[Kuth\|Kuth]] and [[Huth\|Huth]] to the north of Hanald.
+In response to this, several nations joined Kuth and Huth to form a coalition known as the [[Pahn Unity\|Pahn Unity]] in order to oppose Hanald. The Five Scholars broke up, taking different sides in the war.
+
+>“*I wanted to stop it. But by the time I realized what was happening, it had gone too far. It had taken on a life of its own.*”
+\-Vasher on the Manywar[32]
+
+As the first real conflict where Awakening and the Lifeless were put to actual use on the battlefield, the war was one of Nalthis' most deadly conflicts. As the war waged, more advancements were made in the art of creating Lifeless and other Awakened objects; this made the fighting worse and worse. During this time period, Kalad also created his infamous [[Kalad's Phantoms\|Phantoms]].
+Shortly afterwards Kalad and Shashara decided to attempt to create a [[Shardblade\|Shardblade]], which they had seen on [[Roshar\|Roshar]], using Awakening. After a period of research, the pair created the sword known as [[Nightblood\|Nightblood]]. The first battle that Nightblood was used in was the [[Battle of Twilight Falls\|Battle of Twilight Falls]], where he was wielded by Shashara. The battle served as the conclusion of the Manywar. Kalad was horrified by the loss of life caused by Nightblood; because Shashara obstinately wanted to reveal the secret of the Nightblood's creation to the nations, Kalad felt he had no choice but to kill her.
+
+>“*It's odd, what history does to a man. I guess people couldn't understand why I suddenly changed. Why I stopped fighting and why I brought the Phantoms back to seize control of my own kingdom. So they decided I must have been two people.*”
+\-Vasher about his past[26]
+
+#### Resolution of the Manywar
+According to legend Kalad, called Peacegiver at that point of his life, ended the war with negotiation, but in actuality threatening to use his Phantoms played a role. By the time the war ended, the nations of Huth and Kuth were already destroyed. Peacegiver founded the nation of [[Hallandren\|Hallandren]] and began the lineage of the God Kings by granting them political power in the kingdom. They also began to hand down his [[Peacegiver's Treasure\|gift]] of Breaths to each subsequent God King. The [[Cult of the Returned\|Cult of the Returned]], now the [[Iridescent Tones\|Iridescent Tones]], took full power and began to manage the [[Court of Gods\|Court of Gods]]. Peacegiver dispersed his phantoms throughout the city secretly as the [[D'Denir Celabrin\|D'Denir Celabrin]], hiding them in plain sight.
+The Idrian royal family did not return to Hallandren but instead remained in exile to the mountains of the north, where they formed the nation of [[Idris\|Idris]]. Austrism turned its back on [[Awakening\|Awakening]] and began to consider it an abomination, also dismissing the worship of Returned as "pagan" beliefs. The nation of [[Tedradel\|Tedradel]] would continue to have an antagonistic relationship with Hallandren from that time.
+
+### After the Manywar
+>“*Your people are in a state of rebellion against the rest of the kingdom.*”
+\-Treledees to Siri[13]
+
+In the three hundred years following the Manywar, the kingdom of Hallandren prospered under its new government, although over time corruption seeped in. Relations between Hallandren and Idris worsened over the years, as the northern passes Idris had control over were very tempting targets for Hallandren. The region was viewed as a rebellious province by the Court of Gods and not a true nation. Despite this, Idris remained powerful, with many allies north of the mountains. In order to try and maintain good relations, King [[Dedelin\|Dedelin]] negotiated a treaty whereby his eldest [[Vivenna\|daughter]] would be sent to the Court once she was of age in order to introduce the royal bloodline to the God Kings and further legitimize their authority. This was accepted by the Court.
+Over the centuries the control and subjugation of the Pahn Kahl people grew worse. Their oppression over time reached the stage in which many presumed its unique culture was extinct and thought that they also worshiped the Returned. As the years went on, its people grew tired of their position in Hallandren society and the few lowly jobs they were offered. Talks of a rebellion began to spread, and the Pahn Kahl began passing on their positions to other Pahn Kahl citizens in order to maintain their control in the Court of Gods. A Pahn Kahl named Bluefingers began to set in motion a plan to overthrow the Hallandren government. His hope was to incite a war between Hallandren and Idris and use the resulting chaos to allow Pahn Kahl to rise up in society.
+
+### The Pahn Kahl Rebellion
+For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+#### Vahr's Rebellion
+Another Pahn Kahl, [[Vahr\|Vahr]], prematurely began his own rebellion against Hallandren. He had spent a decade getting the contacts needed for it and had persuaded his fellow workers to grant him their Breaths so that he could grow in power. Along the way, Vahr received help from other nations worried about Hallandren, including Idris, and various crime lords in [[T'Telir\|T'Telir]].
+
+  <<Vasher\|Vasher>> stealing Vahr's <<Breath\|Breath>> before killing him
+Fearing this rebellion would draw too much attention to his own efforts, Bluefingers leaked Vahr's location to the Hallandren authorities and had him arrested. Without his leadership, the rebellion fell apart. The Kingdom of Idris had hoped that this rebellion would take attention away from them for a time; instead, they found even more focus was put on them than ever before as Hallandren grew paranoid about its potential enemies. In order to stave off a potential war, King Dedelin moved to fulfill his contract with [[Susebron\|Susebron]]. However, he hesitated to send [[Vivenna\|Vivenna]] and ended up sending [[Siri\|Siri]] in her place. [[Vasher\|Vasher]] took advantage of Vahr's arrest by persuading Vahr to grant him his Breaths so that Hallandren would not gain them. He killed Vahr in return for the gift.
+
+#### Bluefingers' Manipulation
+By this time VaraTreledees had renamed himself Denth and began working for Bluefingers to help cause the war. He corrupted [[Lemex\|Lemex]], an Idrian spy, and went to meet Vivenna, who went to [[T'Telir\|T'Telir]] after her sister, in his place. He and his [[Denth's crew\|crew]] managed to gain her trust. Convincing her that he was on his side, Denth managed to kidnap her without her realizing it.
+
+>“*You should watch yourself, child.*
+\-Not all here in the palace is as it seems.
+
+
+Siri's arrival at the Court of Gods created a different set of worries. It was speculated by some that the last-second swap may have been planned from the start and that deferring to the Idrian monarchy actually undermined their authority rather than strengthened it. It was Bluefingers' original plan to use Siri to persuade the Idrians within the city that a rebellion was needed, but he changed his plans once he learned that Denth had kidnapped Vivenna and was using her to do the same thing. He decided it was best to kill Siri instead to further anger the Idrians.
+While pretending to entertain Vivenna's plans to prevent the war, Denth in actuality undermined or canceled her plans when she wasn't paying attention and instead did what he could to worsen the situation and support his preexisting plans. Denth's efforts ultimately fell apart when he was forced to kill a [[Parlin\|friend]] of Vivenna's and she discovered his corpse as well as the bodies of the soldiers sent by her father. She quickly worked out their true intentions and escaped the crew.
+
+>“*When this is through, Princess, Idris will fight until either it or Hallandren is destroyed.*”
+\-Bluefingers to Siri.[45]
+
+#### The Rebellion
+Vivenna was saved by Vasher, who discovered how she had been tricked by Denth. Together, they both did what they could to prevent the war by talking to the Idrians and rescuing the [[Misel\|child]] of a [[Nanrovah\|head priest]] that Denth had kidnapped as blackmail. Their efforts were not enough, however, and the push for war was still taking place. The priests feared that the vote would come to pass and went to protect Siri from a potential riot. Seeing the unexpected vote of [[Lightsong\|Lightsong]] and the sudden increased security for Siri, Bluefingers panicked and moved to cause the rebellion that day.
+
+  <<Vasher\|Vasher>> using Awakening
+He immediately sent his mercenaries to go and kill the guards outside of Siri's door and replace them. At the same time, he had Denth go and capture Vasher, who had just broken into the God King's palace in the hopes of preventing the war. During the growing conflict, the rebels managed to kill [[Blushweaver\|Blushweaver]], capture the God King, get all of the Lifeless Commands, and order the army to go attack and kill the Idrians. The priesthood saved Siri and [[Susebron\|Susebron]] from the conflict and sent them to Bluefingers for their evacuation.
+Lightsong used his divine Breath to return Susebron's tongue to him; with full access to his Breath, Susebron quickly turned the tide of the battle, saved Siri, and apprehended Bluefingers. In the immediate aftermath, Vasher revealed himself as Peacegiver to the public and granted Susebron full control of the D'Denir Celabrin so that they could go destroy the Lifeless armies and prevent a slaughter in Idris.
+
+### After the Rebellion
+Following the death of Denth, his crew went to make contact with [[Yesteel\|Yesteel]], who resided in one of the kingdoms north of the mountains. Yesteel himself became intent on re-forging the kingdoms of [[Huth\|Huth]] and [[Kuth\|Kuth]]; hearing of this, Vasher and Vivenna decided to go north to stop him.
+Over many years, their mastery over Awakening and technology advanced significantly, such as creating Awakened circuitry that responds to the Connection of its user to predict text.
 
 ## Cosmere
-Se ha confirmado que la [[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]] está presente en Nalthis. El efecto de ello ha sido que todos los humanos que nacen en Nalthis lo hacen con un [[Aliento\|aliento]], la fuente de energía para [[Despertar\|despertar]] y Retornar. Dotación está relacionada con las [[L%C3%A1grimas de Edgli\|flores]] que crecen alrededor de T'Telir, la capital de Hallandren. En ocasiones Dotación resucita a una persona que ha muerto recientemente, dándole un único  con el requisito de que consuman un aliento normal cada semana para permanecer con vida. Se cree, y esto ha sido confirmado por al menos tres Retornados, que todos ellos vuelven con el propósito de cumplir algún objetivo divino. No se sabe cuál es el propósito de Dotación o cuánto tiempo lleva haciendo esto.
-Los nalthianos conocen las perpendicularidades y desean que se utilicen con fines comerciales.
-La tecnología despertada nalthiana se ha extendido por el Cosmere hasta cierto punto, y puede verse en otros planetas, como [[Lumar\|Lumar]]. El intercambio de alientos está mal visto por el resto de seres del Cosmere.
+The [[Shard\|Shard]] [[Endowment\|Endowment]] has been confirmed to be present on Nalthis. This has had the effect that every human born on Nalthis is born with one [[Breath\|Breath]], the source of energy for [[Awakening\|Awakening]] and Returning. Endowment is related to the [[Tears of Edgli\|flowers]] which grow around T'Telir, the capital city of Hallandren. Endowment has been known to revive recently deceased people, awarding them a single [[Divine Breath\|divine Breath]] under the requirement that they consume a normal Breath once a week to stay alive. It is believed, and confirmed for at least three [[Returned\|Returned]], that all Returned come back to fulfill some divine goal. It is unknown what Endowment's purpose is, or how long she has been doing this.
+Nalthians are aware of perpendicularities and wish for them to be used for trading purposes.
+Nalthian Awakened technology has spread across the Cosmere to some degree, and can be seen on other planets, such as [[Lumar\|Lumar]]. The trading of Breaths are looked down upon by others in the cosmere.
 
-## Curiosidades
-Los nalthianos saben qué son los [[Drag%C3%B3n (Cosmere)\|dragones]].
-Para [[Nazh\|Nazh]] Nalthis le parece demasiado colorido.
-## Notas del traductor
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (****)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] ·  · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+Nalthians know what [[Dragon (cosmere)\|dragons]] are.
+[[Nazh\|Nazh]] finds Nalthis too colorful.
 
 
-
-https://es.coppermind.net/wiki/Nalthis
+https://coppermind.net/wiki/Nalthis

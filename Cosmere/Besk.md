@@ -1,8 +1,8 @@
 |**Besk**|
 |-|-|
-|**Mundo natal**|[[Alornia\|Alornia]]|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
-|**Presentado en**|*[[Perfect State\|Perfect State]]*|
+|**Homeworld**|[[Alornia\|Alornia]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Introduced In**|*[[Perfect State\|Perfect State]]*|
 
 >“*Indeed, he does seem to boorishly continue the same stubborn course, without maturity and without careful consideration of the best path. Wouldn't you say?*”
 \-Besk to Kai[1]
@@ -10,7 +10,7 @@
 
 **Besk** is a [[Machineborn\|Machineborn]] in the [[State\|State]] of [[Alornia\|Alornia]], and chancellor to Emperor [[Kairominas\|Kairominas]]. He helps Kai run the State, and monitors the [[Wode Scroll\|Wode Scroll]].
 
-## Sumario
+## Contents
 
 1 Attributes and Abilities. [[#Attributes and Abilities]] 
 2 History. [[#History]] 
@@ -48,16 +48,6 @@ Besk is a very intelligent man, and is willing to disobey Kai when necessary, so
 \-Besk to Kai[1]
 
 
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] ·  · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Besk
+https://coppermind.net/wiki/Besk

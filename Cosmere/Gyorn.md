@@ -1,113 +1,100 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Shu-Dereth**|
 |-|-|
 ||
-|**Relacionado con**|[[Fjorden\|Fjorden]]|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Fjorden\|Fjorden]]|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Shu-Dereth** es una religión practicada en el continente de [[Sel\|Sel]] conocido como [[Opelon\|Opelon]] (en su término [[A%C3%B3nico\|aónico]]) o [[Sycla\|Sycla]] (el término [[Fjorden\|fjordell]]). Durante los acontecimientos de [[Elantris (libro)\|Elantris]], es la religión oficial de todas las naciones al este de las [[Monta%C3%B1as Atad\|montañas Dathreki]]; [[Arelon\|Arelon]] y [[Teod\|Teod]] son las únicas naciones dentro del "mundo conocido" que se mantienen al margen. 
+**Shu-Dereth** is a religion practiced on the [[Sel\|Selish]] continent known as [[Opelon\|Opelon]] ([[Aonic\|Aonic]] term) or [[Sycla\|Sycla]] ([[Fjorden\|Fjordell]] term). During the events of [[Elantris (book)\|Elantris]], it is the official religion of all nations east of the [[Atad Mountains\|Dathreki mountains]]; [[Arelon\|Arelon]] and [[Teod\|Teod]] are the only nations within the “known world” that remain holdouts. 
 
-## Sumario
+## Contents
 
-1 Creencias. [[#Creencias]] 
-2 Textos religiosos y lugares de culto. [[#Textos religiosos y lugares de culto]] 
-3 Organización y jerarquía. [[#Organizaci.C3.B3n y jerarqu.C3.ADa]] 
+1 Beliefs. [[#Beliefs]] 
+2 Religious texts and places of worship. [[#Religious texts and places of worship]] 
+3 Organization & Hierarchy. [[#Organization .26 Hierarchy]] 
 
-3. [[#Cadena hasta Jaddeth]] 
-3. [[#Monasterios]] 
-
-
-4 Orígenes e historia. [[#Or.C3.ADgenes e historia]] 
-
-4. [[#Escisi.C3.B3n del Shu-Keseg]] 
-4. [[#Establecimiento en Fjorden]] 
-4. [[#Impactos culturales]] 
+3. [[#Chain to Jaddeth]] 
+3. [[#Monasteries]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+4 Origins & History. [[#Origins .26 History]] 
+
+4. [[#Split from Shu-Keseg]] 
+4. [[#Establishment in Fjorden]] 
+4. [[#Cultural Impacts]] 
 
 
-## Creencias
-Los derethi adoran a un dios implacable conocido como [[Jaddeth\|Jaddeth]], que gobierna desde un trono bajo la tierra. El principio central de la fe es el logro de la **unidad de toda la humanidad bajo el gobierno de una nación**.
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
+## Beliefs
+The Derethi worship an unforgiving god known as [[Jaddeth\|Jaddeth]], who rules from a throne beneath the earth. The central tenet of the faith is the achievement of **unity of all mankind under the rule of one nation**.
 
 
 
 
-Jaddeth recompensa la ambición.
-Jaddeth es intolerante con la ignorancia.
-La única diferencia entre el hombre y el animal es la capacidad de la humanidad para adorar a Jaddeth; las bestias sólo son capaces de servir a sus lujurias, mientras que la humanidad es capaz de entregarse a un propósito más elevado.
-El servicio a Jaddeth se recompensa tanto en vida como en el más allá.
-El fjordell es la lengua elegida por Jaddeth, y por lo tanto es sagrada, y todas las demás equivalen a una blasfemia.
-Sólo un hombre, el Wyrn, sirve directamente a Jaddeth. Todos los demás sirven a través de una cadena de mando (véase la sección [[/wiki/Shu-Dereth#Organizaci.C3.B3n y jerarqu.C3.ADa]] para más información).
-## Textos religiosos y lugares de culto
-Las escrituras derethi están contenidas en el **Do-Dereth**, aunque también estudian el texto de su religión matriz, el Do-Kando del [[Shu-Keseg\|Shu-Keseg]].
-Los derethi rezan en capillas. Estas capillas a menudo están hechas de piedra, son altas y tienen imponentes capiteles. Pasearse, reír y bromear en una capilla es poco convencional.
-
-## Organización y jerarquía
-La religión del Shu-Dereth es muy estricta, y su estructura se ha comparado con la de un sistema de gobierno feudal. Se espera que los seguidores obedezcan las órdenes de sus superiores, y que los sacerdotes den órdenes en lugar de guiar a los demás por el camino de la fe.
-Un ejemplo formal de este tipo de relación es el de los **odivs, krondets y hrodens**. Los miembros del sacerdocio derethi pueden elegir convertirse en hroden, o señor, asumiendo uno o más odivs y/o krondets. El krondet es la forma menos restrictiva de servidumbre, en la que el krondet escucha los consejos de su hroden pero no está obligado a hacer lo que se le dice. Los odiv, sin embargo, deben seguir las órdenes de sus hroden, sirviendo esencialmente como esclavos. Muchos eligen el papel de odiv para ganar poder a través de su conexión con su hroden.
-
-### Cadena hasta Jaddeth
-  Dilaf, gragdet dakhor
-Los derethi creen que sólo un hombre -el Wyrn, o gobernante, de Fjorden- puede servir directamente a Jaddeth. Todos los demás sólo sirven a los que ocupan la posición directamente superior a ellos en la cadena que une a todas las personas con el Señor Jaddeth. Esto evita que los de rango inferior tengan que preocuparse por mandatos de Jaddeth que están más allá de su capacidad de comprensión.
-
-El **Wyrn** de Fjorden es el único miembro de la iglesia que sirve directamente a Jaddeth. El Wyrn comanda a todos los seguidores del Shu-Dereth, y es capaz de consentir el uso de lo que se consideran "magias paganas" para promover el imperio, y dar permiso a ciertos seguidores para usarlas también.
-Un **gragdet**, el líder de un monasterio, se considera generalmente fuera de la cadena porque los gragdets no suelen involucrarse en asuntos fuera de su monasterio. Sin embargo, los de los monasterios más poderosos (Rathbore, Dakhor y Fjeldor) están por encima de los gyorn.
-**Gyorn** es el nivel más alto del sacerdocio derethi, excepto en los casos en que el gragdet de un monasterio poderoso opta por participar activamente en los asuntos de la iglesia en general. Los veinte gyorns del Imperio fjordell se encuentran entre los más nobles; los reyes se inclinan ante los gyorns en las naciones donde se practica el Shu-Dereth. Son conocidos por servir como embajadores en naciones extranjeras, como [[Arelon\|Arelon]] y el [[Imperio Rosa\|Imperio Rosa]]. Suelen llevar armaduras ornamentales rojas con capas carmesíes ondulantes. Suelen ser ancianos, e incluso Hrathen, un hombre de unos cuarenta años, se considera joven para ser un gyorn. Como son profundamente devotos y de confianza, el Wyrn confía en ellos para usar [[Seon\|seones]] con el fin de comunicarse con el Wyrn cuando están en misiones en otros países.
-**Ragnat** es el rango directamente inferior a gyorn; suelen supervisar una región de adoradores derethi. Un sacerdote debe tener al menos este nivel para poder utilizar a sacerdotes Rathbore sin el permiso del Wyrn.
-**Grador** es el rango por debajo de ragnat; generalmente dirigen capillas en grandes ciudades.
-Un **arteth** es un sacerdote derethi completo. Este es el rango más bajo de sacerdote que puede dirigir una capilla por sí mismo. Muchos arteths pueden ser asignados a una capilla con un "arteth jefe" dirigiéndolos.
-**Dorven** es el nivel más bajo de sacerdote derethi; aunque los arteths pueden tener cierta autoridad sobre los dorven, oficialmente sirven a los gradors.
-**La gente común** reside en la parte inferior de la cadena y sirve a los arteths y a los dorven, pasando a formar parte de la cadena de mando al jurar como odiv o krondet a uno de dichos arteths o dorven.
-### Monasterios
->“*Durante siglos, el sacerdocio derethi había estado entrenando a sus monjes para la guerra, el asesinato y... otras artes.*”
-\-Hrathen, reflexionando sobre el impacto que los monjes derethi podrían tener en Arelon[20]
 
 
-Los sacerdotes derethi que ingresan deben unirse a un monasterio para formarse tanto en religión como en combate. La mayoría de los monasterios, como **Ghajan**, el monasterio al que acudió Hrathen tras abandonar Dakhor, forman a simples soldados. Otros, sin embargo, forman a soldados más especializados:
+Jaddeth rewards ambition.
+Jaddeth is intolerant of ignorance.
+The only difference between man and animal is mankind’s ability to worship Jaddeth; beasts are only capable of serving their lusts, whereas mankind is capable of devotion to a higher purpose.
+Service to Jaddeth is rewarded during life as well as in the afterlife.
+Fjordell is Jaddeth's chosen tongue, and therefore is holy, and all others are tantamount to profanity.
+Only one man – the Wyrn – serves Jaddeth directly. All others serve through a chain of command (see [[/wiki/Shu-Dereth#Organization .26 Hierarchy]] for more information).
+## Religious texts and places of worship
+Derethi scriptures are contained in the **Do-Dereth**, though they also study the text of their parent religion, the Do-Kando of [[Shu-Keseg\|Shu-Keseg]].
+The Derethi worship in chapels. These chapels are often made of stone, they are also tall and have towering spires. It is untraditional to mill about, laughing and joking, in a chapel.
 
-El **monasterio de Fjeldor** forma espías.
-El **monasterio de Rathbore** forma asesinos.
-Los sacerdotes por debajo del nivel de ragnat deben obtener permiso del Wyrn antes de usar sacerdotes Rathbore.
-Los miembros potenciales pueden ser obligados a matar a alguien antes de ser admitidos, como [[Fjon\|Fjon]] fue obligado a matar a Hrathen antes de ser admitido.
-El **monasterio Dakhor**, también conocido como «La Orden del Hueso», forma guerreros despiadados a los que Hrathen se refiere como *demonios*. Los monjes dakhor obtienen habilidades mejoradas, como un aumento de la velocidad o la fuerza, como resultado de los patrones óseos que crecen bajo su piel.
+## Organization & Hierarchy
+The religion of Shu-Dereth is very regimented, and its structure has been compared to that of a feudal government system. Followers are expected to obey the commands of their superiors, and priests are expected to give orders rather than shepherd others on the path to faith.
+A formal example of this type of relationship is that of the **odivs, krondets, and hrodens**. Members of the Derethi priesthood can elect to become a hroden, or master, taking on one or more odivs and/or krondets. Krondet is the less restrictive form of servitude, where the krondet listens to the counsel of his hroden but is not bound to do as told. Odivs, however, must follow the orders of their hroden, essentially serving as a slave. Many choose the role of odiv in order to gain power through their connection to their hroden.
 
-## Orígenes e historia
-### Escisión del Shu-Keseg
-El Shu-Dereth se desarrolló cuando uno de los estudiantes de Keseg, Dereth, partió de JinDo para difundir el principio central del Shu-Keseg de la unidad de toda la humanidad, enseñando que debía lograrse uniendo a toda la humanidad bajo una sola nación. Estas enseñanzas se utilizaron más tarde como base para una nueva facción del Shu-Keseg, llamada Shu-Dereth en honor a su fundador.
+### Chain to Jaddeth
+  Dilaf, Dakhor Gragdet
+The Derethi believe that only one man – the Wyrn, or ruler, of Fjorden – can serve Jaddeth directly. All others serve only those in the position directly above them in the chain that links all people to Lord Jaddeth. This prevents those in the lower ranks from having to worry about commands of Jaddeth that are beyond their capacity to understand.
 
-### Establecimiento en Fjorden
-Las ideas de Dereth fueron rechazadas originalmente en su [[JinDo\|JinDo]] natal; sin embargo, fueron adoptadas por los fjordell. El Shu-Dereth ha sido la religión oficial de Fjorden desde la supuesta conversión del Wyrn [[Wulfden I\|Wulfden I]] y se ha extendido a todas las naciones orientales. Desde entonces, el líder del Shu-Dereth toma el título de [[Wyrn (t%C3%ADtulo)\|Wyrn]] en su ascensión, que sirve como un título político y religioso.
+The **Wyrn ** of Fjorden is the only member of the church who serves Jaddeth directly. The Wyrn commands all followers of Shu-Dereth, and is able to consent to using what are considered "heathen magics" to further the empire, and give certain followers permission to use them as well.
+A **gragdet**, the leader of a monastery, is generally considered to be outside of the chain because gragdets generally don’t involve themselves in matters outside of their monastery. However, gragdets of the most powerful monasteries (Rathbore, Dakhor, and Fjeldor) rank above gyorn.
+**Gyorn** is the highest level of the Derethi priesthood except in cases where the gragdet of a powerful monastery elects to become active in the affairs of the church at large. The twenty gyorns of the Fjordell Empire are amongst the most noble in standing; kings bow to gyorns in nations where Shu-Dereth is practiced. They are known to serve as ambassadors to foreign nations, such as [[Arelon\|Arelon]] and the [[Rose Empire\|Rose Empire]]. They customarily wear red ornamental armor with billowing crimson cloaks. They are typically old, with even Hrathen, a man in his forties, being considered young for a gyorn. As they are deeply devoted and trusted, they are trusted by the Wyrn to use [[Seon\|seons]] for the purposes of communication with the Wyrn when on missions in other countries.
+**Ragnat** is the rank directly below gyorn; they usually oversee a region of Derethi worshippers. A priest must be of at least this level to command Rathbore-trained priests without the Wyrn’s permission.
+**Grador** is the rank below ragnat; they generally lead chapels in large cities.
+An **arteth** is a full Derethi priest. This is the lowest rank of priest that can lead a chapel on his own. Many arteths can be assigned to one chapel with a “head arteth” leading them.
+**Dorven** is the lowest level of Derethi priest; though arteths may have some authority over the dorven, they officially serve the gradors.
+**Common people** reside at the bottom of the chain and serve the arteths and the dorven, becoming a part of the chain of command by swearing themselves as odiv or krondet to one of said arteths or dorven.
+### Monasteries
+>“*For centuries, the Derethi priesthood had been training its monks in war, assassination, and…other arts.*”
+\-Hrathen, reflecting on the impact Derethi monks could have on Arelon[20]
 
-### Impactos culturales
 
-Todos son bienvenidos en el imperio de Jaddeth, pero los fjordell son los más bienvenidos.
-El fjordell es el idioma elegido por Jaddeth; es sagrado mientras que los demás son profanos.
->“*Como dos plantas que competían por el mismo terreno, el Shu-Dereth estrangularía al Shu-Korath.*”
+Entering Derethi priests are required to join a monastery for training related to both religion and combat. Most monasteries, like **Ghajan**, the monastery Hrathen attended after leaving Dakhor, train simple soldiers. Others, however, provide more specialized training:
+
+The **Fjeldor Monastery** trains spies.
+The **Rathbore Monastery** trains assassins. 
+Priests below the level of ragnat must acquire permission from the Wyrn prior to using Rathbore priests.
+Potential members may be required to kill someone before being admitted, as [[Fjon\|Fjon]] was required to kill Hrathen before being admitted.
+The **Dakhor Monastery**, also referred to as “The Order of Bone,” trains vicious warriors that Hrathen refers to as “demons.” Dakhor monks gain enhanced abilities, such as an increase in speed or strength, as a result of the bony patterns that grow under their skin.
+
+## Origins & History
+### Split from Shu-Keseg
+Shu-Dereth developed when one of Keseg’s students, Dereth, set out from JinDo to spread Shu-Keseg’s central tenet of unity of all mankind, teaching that it should be achieved by uniting all mankind under one nation. These teachings were later used as the basis for a new faction of Shu-Keseg, named Shu-Dereth after its founder.
+
+### Establishment in Fjorden
+Dereth’s ideas were originally rejected in his native [[JinDo\|JinDo]]; however, they were embraced by the Fjordell. Shu-Dereth has been the official religion of Fjorden since the reported conversion of Wyrn [[Wulfden the First\|Wulfden the First]] and has spread to all of the eastern nations. Since that time, the leader of Shu-Dereth takes the title [[Wyrn (title)\|Wyrn]] upon his ascension, which serves as both a political and a religious title.
+
+### Cultural Impacts
+
+All are welcome within Jaddeth’s empire, but the Fjordell are most welcome.
+Fjordell is Jaddeth’s chosen language; it is holy while others are profane.
+>“*Like two plants competing for the same ground, Shu-Dereth would strangle Shu-Korath.*”
 \-Hrathen
 
 
 
-## Curiosidades
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
+## Trivia
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-En la planeada secuela de Elantris, el Wyrn decide reinterpretar las escrituras para sugerir que sólo las naciones al este de las [[Monta%C3%B1as Atad\|montañas Atad]] necesitaban ser derethi para que Jaddeth regrese, por lo que es posible que el Día del Imperio ocurra durante la [[Secuela de Elantris\|secuela de Elantris]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] ·  · [[Shu-Keseg\|Shu-Keseg]]|
+In the planned sequel to Elantris, Wyrn decides to reinterpret scripture to suggest that only the nations to the east of the [[Atad Mountains\|Atad Mountains]] needed to be Derethi for Jaddeth to return, so it is possible that the Day of Empire will occur during the [[Elantris sequel\|Elantris sequel]].
 
 
-
-https://es.coppermind.net/wiki/Gyorn
+https://coppermind.net/wiki/Gyorn

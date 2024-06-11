@@ -1,70 +1,69 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Alto príncipe**|
+|**Highprince**|
 |-|-|
-|**Relacionado con**|[[Vorinismo\|Vorinismo]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Vorinism\|Vorinism]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Para la lista completa de altos príncipes, ver Categoría:Altos príncipes.
-**** es el título más alto entre la nobleza de los reinos [[Vorin\|vorin]] de [[Alezkar\|Alezkar]] y [[Jah Keved\|Jah Keved]], siendo subordinados directos de sus respectivos monarcas. Los altos príncipes y sus herederos son del segundo [[Dahn\|dahn]], mientras que el resto de hijos son del tercer dahn.
+For a full list of highprinces, see Category: Highprinces.
+**** is the highest title of nobility in the [[Vorin\|Vorin]] kingdoms of [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]], being directly subordinate to their respective monarchs. Highprinces and their heirs are of the second [[Dahn\|dahn]], while their other children are of the third dahn.
 
-## Sumario
+## Contents
 
-1 Alezkar. [[#Alezkar]] 
+1 Alethkar. [[#Alethkar]] 
 
-1. [[#Or.C3.ADgenes]] 
-1. [[#Historia]] 
-1. [[#Miembros]] 
+1. [[#Origins]] 
+1. [[#History]] 
+1. [[#Members]] 
 
 
 2 Jah Keved. [[#Jah Keved]] 
-3 Notas. [[#Notas]] 
+3 Notes. [[#Notes]] 
 
 
-## Alezkar
-### Orígenes
-[[Alezkar\|Alezkar]] ha tenido diez altos príncipes a lo largo de su historia. En la antigüedad, cuando Alzkar era un reino unificado, los diez altos príncipes alezi estaban especializados y cada uno se encargaba de gobernar cierto aspecto del reino entero. [[Gavilar Kholin\|Gavilar Kholin]] creía que este sistema forzaba a los diez altos príncipes a trabajar juntos y aceptar la autoridad de los otros. Solo sabemos cuatro de los diez títulos antiguos:
+## Alethkar
+### Origins
+[[Alethkar\|Alethkar]] has had ten highprinces throughout its history. In the ancient past, when Alethkar was a united kingdom, the ten Alethi highprinces were specialized and each was charged with governing a certain aspect of the entire kingdom. [[Gavilar Kholin\|Gavilar Kholin]] believes that this system forced the ten highprinces to work together and accept each other's authority. Only four of the ten ancient titles are known:
 
-El **[[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]]** tenía autoridad sobre todos los mercaderes y sus tropas eran las encargadas de patrullar los caminos de todos los diez principados.
-El **[[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]]** tenía autoridad sobre investigaciones criminales y vigilancia policial del reino entero y designaba jueces y magistrados. El Alto Príncipe de Información tenía especial interés en las investigaciones criminales en las que estaban en juego los intereses de la Corona.
-El **[[Alto Pr%C3%ADncipe de la Guerra\|Alto Príncipe de la Guerra]]** tenía control sobre las fuerzas militares combinadas del reino (se entiende que solo usa este poder en tiempos de guerra).
-El **[[Alto Pr%C3%ADncipe de Obras\|Alto Príncipe de Obras]]** se encargaba de la gestón de infrastructuras en el reino, como por ejemplo la eliminación de aguas residuales, servicios civiles, y potencialmente la gestión de [[Luz tormentosa\|luz tormentosa]]; debido al incremento de su uso desde la [[Batalla de Narak\|Batalla de Narak]].
-### Historia
-El sistema moderno de altos príncipes se remonta al último monarca (anterior a Gavilar Kholin) que unificó Alezkar, [[Sadees\|Sadees]] el Hacedor de Soles. Tras su muerte, su imperio no duró mucho. Nunca se molestó en escoger un heredero, y sus diez hijos no se pudieron poner de acuerdo sobre a quién querían dar su apoyo. Rápidamente, empezaron a luchar los unos contra los otros, y el imperio colapsó en menos de una generación. Estos diez hijos fundaron los diez principados de Alezkar, coronándose a ellos mismos como altos príncipes del reino desunido, cada uno convirtiéndose en el rey "de facto" en sus propias tierras. Durante este tiempo, Alezkar prácticamente era una coalición floja de diez estados separados, siendo un reino unificado solo en nombre.
-En aproximadamente 1140, el alto príncipe [[Gavilar Kholin\|Gavilar Kholin]] fue a la guerra contra los otros principados, y más o menos en 1145, los había conquistado y unido otra vez, estableciéndose a sí mismo como rey. Este reino reunificado no era tan fuerte como el antiguo Alezkar, con los altos príncipes reteniendo una gran cantidad de autoridad y autonomía.
-Después de la muerte de Gavilar, su hijo [[Elhokar Kholin\|Elhokar]] se convierte en rey de Alezkar, mientras que el hermano de Gavilar, [[Dalinar\|Dalinar]], se convierte en alto príncipe de Kholin. En el año 1173, el rey Elhokar, a petición del alto príncipe Dalinar, reinstaura dos de los antiguos títulos especializados de altos príncipes - los Altos Príncipes de Información y la Guerra - en un intento de crear otra vez un reino de Alezkar verdaderamente unificado.
-En el año siguiente, Dalinar reinstaura los títulos de [[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]] y [[Alto Pr%C3%ADncipe de Obras\|Alto Príncipe de Obras]], presumiblemente con la bendición de Elhokar.
+The **[[Highprince of Commerce\|Highprince of Commerce]]** had authority over all merchants and his troops would patrol the roads across all ten princedoms.
+The **[[Highprince of Information\|Highprince of Information]]** had authority over criminal investigations and policing across the entire kingdom and appointed judges and magistrates. Of particular interest to the Highprince of Information were criminal investigations where the Crown's interest was at stake.
+The **[[Highprince of War\|Highprince of War]]** had control over the kingdom's combined military forces (implied to only hold this power in a time of actual war).
+The **[[Highprince of Works\|Highprince of Works]]** had management of the kingdoms infrastructure, such as sewage disposal, civil services, and potentially [[Stormlight\|Stormlight]] management; with the increase in uses for Stormlight since the [[Battle of Narak\|Battle of Narak]].
+### History
+The modern highprince system dates back to the last monarch (prior to Gavilar Kholin) to unify Alethkar, [[Sadees\|Sadees]] the Sunmaker. Upon his death, his empire did not last long. He had never bothered to choose an heir, and his ten sons could not decide among themselves who they wished to support. They quickly turned to infighting, and the empire collapsed in less than a generation. These ten sons founded the ten princedoms of Alethkar, crowning themselves the highprinces of a disunified kingdom, each being a *de facto* king in his own lands. During this time, Alethkar was effectively a loose coalition of ten separate states, being a unified kingdom in name only.
+In approximately 1140, Highprince [[Gavilar Kholin\|Gavilar Kholin]] went to war against the other princedoms, and by approximately 1145, he conquered and united them once again, establishing himself as the King. This reunified kingdom was not as strong as the ancient Alethkar, with the highprinces retaining large amount of authority and autonomy.
+After Gavilar's death, his son [[Elhokar Kholin\|Elhokar]] became the King of Alethkar, while Gavilar's brother [[Dalinar Kholin\|Dalinar]] became the Highprince of Kholin. In the year 1173, King Elhokar, at the demand of Highprince Dalinar, reinstated two of the ancient specialized highprince titles—the Highprinces of Information and War—in an effort to once again create a truly unified kingdom of Alethkar.
+In the following year, Dalinar reinstated the titles of [[Highprince of Commerce\|Highprince of Commerce]] and [[Highprince of Works\|Highprince of Works]], presumably with Elhokar's blessing.
 
-### Miembros
-Actualmente, los diez altos príncipes alezi son:
+### Members
+Currently, the ten Alethi highprinces are:
 
 
-[[Aladar\|Aladar]], [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]]
+[[Aladar\|Aladar]], [[Highprince of Information\|Highprince of Information]]
 [[Bethab\|Bethab]]
-[[Hatham\|Hatham]], [[Alto Pr%C3%ADncipe de Obras\|Alto Príncipe de Obras]]
+[[Hatham\|Hatham]], [[Highprince of Works\|Highprince of Works]]
 [[Adolin Kholin\|Adolin Kholin]]
-El [[Hijo de Roion\|hijo de Roion]]
+[[Roion's son\|Roion's son]]
 [[Relis Ruthar\|Relis Ruthar]]
-[[Turinad Sebarial\|Turinad Sebarial]], [[Alto Pr%C3%ADncipe de Comercio\|Alto Príncipe de Comercio]]
-Vástagos lejanos de [[Thanadal\|Thanadal]], [[Loradar Vamah\|Loradar Vamah]], y [[Torol Sadeas\|Torol Sadeas]]
+[[Turinad Sebarial\|Turinad Sebarial]], [[Highprince of Commerce\|Highprince of Commerce]]
+Distant scions of [[Thanadal\|Thanadal]], [[Loradar Vamah\|Loradar Vamah]], and [[Torol Sadeas\|Torol Sadeas]]
 
-Antiguos altos príncipes incluyen:
+Former Alethi highprinces include:
 
 
-[[Kalanor\|Kalanor]] (sucedido por Loradar, fallecido)
-[[Yenev\|Yenev]] (sucedido por Aladar, fallecido)
-[[Roion\|Roion]] (sucedido por su hijo, fallecido)
-[[Torol Sadeas\|Torol Sadeas]], [[Alto Pr%C3%ADncipe de Informaci%C3%B3n\|Alto Príncipe de Información]] (sucedido por Meridas, fallecido)
-[[Meridas Amaram\|Meridas Amaram]] (como regente para el [[Principado Sadeas\|principado Sadeas]]; sucedido por un vástago lejano, fallecido)
-[[Dalinar Kholin\|Dalinar Kholin]] (sucedido por Adolin, abdicó para convertirse en el rey de [[Urithiru\|Urithiru]] y el líder de los [[Caballeros Radiantes\|Caballeros Radiantes]])
-[[Thanadal\|Thanadal]] (sucedido por un vástago lejano, fallecido)
-[[Loradar Vamah\|Loradar Vamah]] (sucedido por un vástago lejano, fallecido)
-[[Ruthar\|Ruthar]] (sucedido por Relis, despojado de sus títulos después de perder un duelo contra la reina [[Jasnah Kholin\|Jasnah Kholin]])
+[[Kalanor\|Kalanor]] (succeeded by Loradar, deceased)
+[[Yenev\|Yenev]] (succeeded by Aladar, deceased)
+[[Roion\|Roion]] (succeeded by his son, deceased)
+[[Torol Sadeas\|Torol Sadeas]], [[Highprince of Information\|Highprince of Information]] (succeeded by Meridas, deceased)
+[[Meridas Amaram\|Meridas Amaram]] (as regent for the [[Sadeas princedom\|Sadeas princedom]]; succeeded by a distant scion, deceased)
+[[Dalinar Kholin\|Dalinar Kholin]] (succeeded by Adolin, abdicated to become King of [[Urithiru\|Urithiru]] and leader of the [[Knights Radiant\|Knights Radiant]])
+[[Thanadal\|Thanadal]] (succeeded by a distant scion, deceased)
+[[Loradar Vamah\|Loradar Vamah]] (succeeded by a distant scion, deceased)
+[[Ruthar\|Ruthar]] (succeeded by Relis, stripped of his titles after losing a duel to Queen [[Jasnah Kholin\|Jasnah Kholin]])
 
 ## Jah Keved
-Los altos príncipes veden incluyen:
+The Veden highprinces include:
 
 
 [[Abrial\|Abrial]]
@@ -74,23 +73,6 @@ Los altos príncipes veden incluyen:
 [[Valam\|Valam]]
 [[Urian\|Urian]]
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] ·  · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Highprince
+https://coppermind.net/wiki/Highprince

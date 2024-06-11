@@ -1,91 +1,70 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Rojo**|
+|**Red**|
 |-|-|
-|**Capacidades**|[[Orden de los Tejedores de Luz\|Tejedor de Luz]]|
-|**Oficio**|Soldado|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[La Corte Inadvertida\|la Corte Inadvertida]]🐱︎, Ejército de Sadeas |
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
+|**Profession**|Soldier|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]], Sadeas army |
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-Para otros personajes con este nombre, ver [[Rojo\|Rojo]].
-**Rojo** es un [[Orden de los Tejedores de Luz\|Tejedor de Luz]] y un miembro de [[La Corte Inadvertida\|la Corte Inadvertida]] de [[Roshar\|Roshar]].
+For other characters with this name, see [[Red\|Red]].
+**Red** is a [[Order of Lightweavers\|Lightweaver]] and a member of the [[Unseen Court\|Unseen Court]] on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Moldeado de almas]] 
-2. [[#Tejer luz]] 
+2. [[#Soulcasting]] 
+2. [[#Lightweaving]] 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
 3. [[#Urithiru]] 
-3. [[#Asedio de Kholinar]] 
-3. [[#Persiguiendo a los Hijos de Honor]] 
-3. [[#Ocupaci.C3.B3n cantora de Urithiru]] 
+3. [[#Siege of Kholinar]] 
+3. [[#Pursuing the Sons of Honor]] 
+3. [[#Singer occupation of Urithiru]] 
 
 
-4 Notas. [[#Notas]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Rojo es un hombre [[Alezi\|alezi]], delgado y con barba, y no tiene el pelo rojo. No está claro de dónde proviene el apodo «Rojo». Es alto y tiene los ojos de color violeta claro. Antes de convertirse en Tejedor de Luz era un [[Ojos oscuros\|ojos oscuros]]. Viste ropa de trabajador ojos oscuros, que consiste en pantalones marrones, camisa abotonada arremangada y tirantes de vivos colores.
-A Rojo le gusta reír y disfruta mucho de las bromas de Shallan. Le gusta hacer bien su trabajo, pero también le gusta charlar y relajarse. Aún así, quiere ser útil y suele ser el primero en ponerse a trabajar.
-Rojo intenta durante un tiempo seducir a Velo, pero se da pronto por vencido. Es claramente una persona agradable, a la que le gusta hablar con la gente y hacer amigos en general. Le gusta salir a beber y jugar, pero, al igual que a la mayoría de alezis cuerdos, no le gusta la [[/wiki/Roshar#Vinos]]. Es muy alegre e, incluso después de aceptar a Velo sólo como amiga, le ofrece una de las bebidas de su asignación. Es el que más aprecio le tiene a Shallan, ya que es más amable con ella que [[Vathah\|Vathah]], [[Gaz\|Gaz]], o [[Shob\|Shob]]. Cuando [[/wiki/Shallan Davar#Velo]] habla de lo molesta y extraña que es Shallan, Rojo no se une a la conversación, a diferencia de los demás. Cuando Gaz habla sobre su pasado como sargento del puente, Rojo lo anima, diciendo que Gaz era el sargento perfecto. Es difícil decir si está bromeando o no, pero lo parece porque sonríe mientras lo dice.
+## Appearance and Personality
+He is a lanky [[Alethi\|Alethi]] man with a beard, and does not have red hair. It is unclear where he gets the nickname Red from. He is tall and has light violet eyes. Before becoming a Lightweaver he is a [[Darkeyes\|darkeyes]]. He wears darkeyed worker's clothing, which consist of brown trousers, a buttoned shirt with sleeves rolled up, with bright suspenders.
+Red likes to laugh, and gets a lot of Shallan's jokes. He enjoys doing his work well, but also likes to chat and sit around. Despite this, he does want to be helpful, and is often the first to be working.
+Red makes an attempt at flirting with Veil, though he gives up after not much time. Red is definitely a nice person, one that likes talking to people and making friends in general, going out drinking and gambling, though he does not like [[/wiki/Roshar#Wines]], as most sane Alethi don't. He is very cheerful, and even after he accepts Veil as a friend offers to let her have one of the drinks on his ration. He likes Shallan the best out of the group, as he is the most friendly of them, being more friendly than [[Vathah\|Vathah]], [[Gaz\|Gaz]], or [[Shob\|Shob]]. When [[/wiki/Shallan Davar#Veil]] is talking about how annoying and strange Shallan is, Red does not join in on the conversation, while others do. When Gaz is talking about his past as a bridge sergeant, Red encourages him, saying that Gaz was the perfect sergeant. It is hard to tell if he is joking or not, but he seems to be, because he is smiling as he says this.
 
-## Atributos y habilidades
-Como [[Orden de los Tejedores de Luz\|Tejedor de Luz]], Rojo puede usar las potencias de **Iluminación** y **Transformación**.
+## Attributes and Abilities
+As a [[Order of Lightweavers\|Lightweaver]], Red can use the Surges of **Illumination** and **Transformation**.
 
-### Moldeado de almas
-El [[Moldeador de almas\|moldeador de almas]] entra, total o parcialmente, en el [[Reino Cognitivo\|Reino Cognitivo]] para convencer a la conciencia de un objeto de cambiar de materiales, transformándolo en algo diferente si tiene éxito. Algunas transformaciones son más básicas que otras, requiriendo las más complicadas de un potenciador más hábil y de más [[Luz tormentosa\|luz tormentosa]].
+### Soulcasting
+The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].
 
-### Tejer luz
-[[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] está relacionado con las ilusiones. Implica la manipulación de ondas de sonido o luz y tiene un fuerte componente [[Reino Espiritual\|Espiritual]] que requiere cierta cantidad de [[Conexi%C3%B3n\|Conexión]] y una imagen mental completa de la ilusión deseada.
+### Lightweaving
+[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
 
-## Historia
-Rojo es uno de los desertores recogidos por [[Shallan\|Shallan]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Abandona el ejército del alto príncipe [[Torol Sadeas\|Torol Sadeas]] porque siente que la guerra ha dejado de ser por venganza y se ha convertido en un juego por las esferas para los [[Ojos claros\|ojos claros]].
-Rojo vivía en el principado del alto príncipe [[Vamah\|Vamah]], en la ciudad de [[Costa Lejana\|Costa Lejana]], cerca de [[Jah Keved\|Jah Keved]]. El mismísimo alto príncipe hace un llamamiento a las armas a los ciudadanos de Costa Lejana. Rojo se une al ejército con cinco de sus amigos para conseguir venganza, pero también por la presión. En su zona, todos los hombres en edad de luchar se estaban alistando, por lo que no tener un distintivo de recluta casi te marcaba como cobarde, según Rojo. Tras abandonar el ejército, Rojo deja de considerarse a sí mismo como un verdadero soldado, incluso después de unirse a la guardia de Shallan, donde tiene un uniforme oficial que suele utilizar.
+## History
+Red was one of the deserters picked up by [[Shallan\|Shallan]] on the [[Shattered Plains\|Shattered Plains]]. He left Highprince [[Torol Sadeas\|Torol Sadeas's]] army because he felt like it stopped being a war of retribution, and was a game for spheres for the [[Lighteyes\|lighteyes]].
+Red lived in Highprince [[Vamah\|Vamah's]] princedom, in the city of [[Farcoast\|Farcoast]], near [[Jah Keved\|Jah Keved]]. Highprince Vamah gave the call to arms to the citizens of Farcoast himself. Red joined the army with five of his friends to get revenge, but also because of the pressure. Every man of age in his area was signing up, so it almost marked you a coward not to have a recruit patch, according to Red. After leaving the army Red no longer thought of himself as a real soldier, even after joining Shallan's guard, where he had an official uniform he usually wore.
 
 ### Urithiru
-Rojo pasa el tiempo holgazaneando en la sala común, jugando con el resto de hombres de la guardia de Shallan. Ella le deja hacer lo que quiere la mayor parte del tiempo mientras ella hace otras cosas. A pesar de esto, se divierte y no se queja por no hacer nada, ya que no parece considerarse digno de su puesto como guardia de honor de una [[Caballero Radiante\|Caballero Radiante]].
-Rojo, junto con Gaz y Vathah, es uno de los tres hombres elegidos para instruirse con la espía [[Ishnah\|Ishnah]]. Principalmente se muestra interesado en aprender a usar los cuchillos. Durante el entrenamiento, se le pide cerrar los ojos y describir a las personas de la taberna en la que se encuentra. En lugar de tomárselo en serio, describe a Gaz, llamándole molesto, bajito y feo, solo para divertirse un poco. Después de esto, comienza a esforzarse porque quiere hacer lo que se espera de él y ayudar a Shallan. Más tarde parece estar muy confundido, aunque actúa como si no lo estuviera, asintiendo y tratando de hacer lo que puede.
-Tras recibir entrenamiento durante un tiempo, Rojo es escogido para ir a [[Kholinar\|Kholinar]] junto con otro de los guardias de Shallan, Vathah. Esto se debe a su entrenamiento y a la relación entre Gaz y [[Kaladin\|Kaladin]]. No se describe cómo reacciona al volar hasta Kholinar, excepto que va bien abrigado como todo los demás.
+Red spent his time in Urithiru lounging around in the common room gambling with the other men of Shallan's guard. He was mostly left to his own devices while Shallan did other things. Despite this, he still had a good time, and he didn't complain about not doing anything, as he didn't seem to think he was worthy of his role as the honor guard of a [[Knight Radiant\|Knight Radiant]].
+Red was one of the three men chosen to learn from [[Ishnah\|Ishnah]], to be trained to become a spy. He was chosen along with Gaz and Vathah. He mostly was interested in learning to use knives. When training, he was asked to close his eyes and describe the people in the tavern he was in. Instead of really doing this, he described Gaz, calling him annoying, short and ugly, just to have some fun. After this he started to try, because he wanted to do what he was supposed to and help Shallan. After a while he was seemingly very confused, though acted like he was not, just nodding and trying to do what he could.
+After being trained for a while Red was then chosen to go to [[Kholinar\|Kholinar]] with another of Shallan's guards, Vathah. He was chosen because of his training and because of Gaz and [[Kaladin\|Kaladin's]] relationship. It is not described how he reacts to flying all the way to Kholinar, except that he is bundled up like everyone else.
 
-### Asedio de Kholinar
-El verdadero propósito de llevar a Rojo, junto con Vathah e Ishnah, a la misión de Kholinar, sólo lo saben Shallan y el rey [[Elhokar\|Elhokar]], que insiste en ir también. La razón es que tiene entrenamiento básico en espionaje y se espera que pueda ayudar en la recopilación de información si es necesario. Cuando Rojo descubre que Velo y Shallan son la misma persona sólo se ríe, como es característico en él. Después no parece hacer mucho, relajándose y pasando el tiempo con Ishnah y Vathah, aprendiendo más. Algunas veces sale con Velo en sus expediciones por la ciudad, pero generalmente no lo hace.
-En Kholinar continúa su aprendizaje y consigue comunicar a Velo y Vathah cuándo pueden intentar el golpe y cuándo esconderse sin que los demás lo sepan. Cuando a Velo le alcanza una flecha de ballesta, lo único que hace es señalar que la sangre está manchando su atuendo, ignorando el hecho de que le han disparado en la cabeza y de que se encuentre perfectamente bien. Esto parece ser un mecanismo de defensa, y no dice nada más durante el resto del día, ya que está bastante conmocionado. Después de esto, aún ayuda en otras misiones para robar comida a la gente, y no parece que su opinión general sobre Shallan o Velo cambie.
-Rojo se queda en Kholinar con Ishnah y Vathah. No parece mostrar signos de ser un [[Escudero\|escudero]] de Shallan, aunque es posible. No se sabe qué le sucede tras la marcha de Shallan, aunque logra encontrar a un mercader con una [[Vinculaca%C3%B1as\|vinculacañas]] y se une a él, siendo recogido finalmente por Kaladin tras la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. El grupo se compone de [[Cikatriz\|Cikatriz]], [[Drehy\|Drehy]], Rojo, [[Ishnah\|Ishnah]], [[Vathah\|Vathah]] y el pequeño [[Gavinor\|Gavinor]].
+### Siege of Kholinar
+The true purpose of bringing Red on the mission to Kholinar, as well as Vathah and Ishnah, was unknown to all but Shallan and King [[Elhokar\|Elhokar]], who insisted that he come. This reason is the fact that he had rudimentary training in espionage, and could hopefully help out with gathering information if necessary. Upon finding out that Veil and Shallan are the same person, he only laughed, as was characteristic of him. After this he didn't seem to do that much, also just lounging around and hanging out with Ishnah and Vathah, learning some more. He may occasionally go out with Veil on her expeditions into the city, but usually not.
+In Kholinar he continued his learning and was able to let Veil and Vathah know when they could attempt their heist and when to hide without others knowing. When Veil was hit by a crossbow bolt, all he did was point out that the blood was staining her outfit, ignoring the fact that she was shot in the head and still perfectly fine. This seemed to be a coping method, and he didn't say anything after this for the rest of the day, as he was quite shocked. After this he still helped on her other missions to steal food from people, and it didn't seem to change his overall opinion of Shallan or Veil.
+Red was left in Kholinar along with Ishnah and Vathah. He did not seem to be showing signs of being a [[Squire\|Squire]] to Shallan, though it is possible. It is unknown what happened to him after Shallan left, though he was able to find a merchant with a [[Spanreed\|spanreed]] and join him, eventually being picked up by Kaladin after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. This group consisted of [[Skar\|Skar]], [[Drehy\|Drehy]], Red, [[Ishnah\|Ishnah]], [[Vathah\|Vathah]] and little [[Gavinor\|Gavinor]].
 
-### Persiguiendo a los Hijos de Honor
-Rojo se infiltra en los [[Hijos de Honor\|Hijos de Honor]] usando la ilusión de un trabajdor ojos oscuros, pero no lo consideran suficientemente importante como para tener una audiencia con [[Ialai Sadeas\|Ialai Sadeas]]. Luego, [[Shallan\|Shallan]] se disfraza de [[Chanasha Hasareh\|Chanasha Hasareh]] en un intento de ser admitida en los Hijos de Honor y lo consigue. Rojo es parte del grupo que interroga a Shallan. Posteriormente, llevan a Shallan al campamento de guerra de Sadeas, pero Rojo no acompaña al grupo.
+### Pursuing the Sons of Honor
+Red embedded himself in the [[Sons of Honor\|Sons of Honor]] using the illusion of a darkeyed workman, but he was not considered important enough to warrant an audience with [[Ialai Sadeas\|Ialai Sadeas]]. [[Shallan\|Shallan]] then disguised herself as [[Chanasha Hasareh\|Chanasha Hasareh]] in an attempt to get brought into the Sons of Honor, which succeeded. Red was among the group that interrogated Shallan. Shallan was later brought to the Sadeas warcamp, but Red did not accompany the group.
 
-### Ocupación cantora de Urithiru
-Rojo se queda a cargo de [[La Corte Inadvertida\|la Corte Inadvertida]] mientras [[Shallan\|Shallan]], [[Berila\|Berila]], [[Vathah\|Vathah]] e [[Ishnah\|Ishnah]] empreden la misión hacia [[Integridad Duradera\|Integridad Duradera]]. [[Navani\|Navani]] lo llama para identificar a [[Dabbid\|Dabbid]], capturado mientras entrega una misteriosa [[Vinculaca%C3%B1as\|vinculacañas]]. Rojo es uno de los primeros [[Potenciador\|potenciadores]] en colapsar debido a la corrupción del [[Hermano\|Hermano]].
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Singer occupation of Urithiru
+Red was left in charge of the [[Unseen Court\|Unseen Court]] while [[Shallan\|Shallan]], [[Beryl\|Beryl]], [[Vathah\|Vathah]], and [[Ishnah\|Ishnah]] undertook the mission to [[Lasting Integrity\|Lasting Integrity]]. He was called upon by [[Navani\|Navani]] to identify [[Dabbid\|Dabbid]], who was caught delivering a mysterious [[Spanreed\|spanreed]]. Red was among the first [[Surgebinder\|Surgebinders]] to collapse due to the corruption of the [[Sibling\|Sibling]].
 
 
 
-https://es.coppermind.net/wiki/Red_(Roshar)
+https://coppermind.net/wiki/Red_(Roshar)

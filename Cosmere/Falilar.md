@@ -1,75 +1,56 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Falilar**|
 |-|-|
-|**Parientes**|[[Tomor\|Tomor]] |
-|**Habilidades**|[[Artifabriano\|Artifabriano]]|
-|**Oficio**|[[Fervoroso\|Fervoroso]]|
-|**Religión**|[[Vorinismo\|Vorinismo]]|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Relatives**|[[Tomor\|Tomor]] |
+|**Skills**|[[Artifabrian\|Artifabrian]]|
+|**Profession**|[[Ardent\|Ardent]]|
+|**Religion**|[[Vorinism\|Vorinism]]|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*It's not a disaster, Brightness, but there’s **so much to worry about**.*”
 \-Falilar[2]
 
 
-**Falilar** es un [[Fervoroso\|fervoroso]] que sirve como ingeniero trabajando bajo la dirección de la reina [[Navani Kholin\|Navani Kholin]] en [[Urithiru\|Urithiru]] en [[Roshar\|Roshar]].
+**Falilar** is an [[Ardent\|ardent]] who serves as an engineer working under Queen [[Navani Kholin\|Navani Kholin's]] direction in [[Urithiru\|Urithiru]] on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Aparencia y personalidad. [[#Aparencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Fervoroso y artifabriano]] 
-2. [[#Experimentos y descubrimientos]] 
-2. [[#El Hermano y la invasi.C3.B3n]] 
-
-
-3 Notas. [[#Notas]] 
+2. [[#Ardent and Artifabrian]] 
+2. [[#Experiments and Discoveries]] 
+2. [[#The Sibling and the Invasion]] 
 
 
-## Aparencia y personalidad
-Falilar es un hombre mayor con la cabeza rapada y una barba blanca con angulos rectos. Obtiene una sensación de seguridad al preocuparse mucho y tiende a tirar de su barba cuando se inquieta. También se entusiasma al llevar a cabo un experimento.
+3 Notes. [[#Notes]] 
 
-## Historia
-### Fervoroso y artifabriano
-La reina [[Navani Kholin\|Navani Kholin]] era la patrona de Falilar en sus estudios sobre ingeniería y [[Fabrial\|fabriales]]. Él estaba presente en las [[Llanuras Quebradas\|Llanuras Quebradas]] para la prueba con el parapeto flotante que fue diseñado con el uso de fabriales inversores, donde él observó un tamboleo en la ascención del parapeto y estaba preocupado por el hecho que el movimiento no hubiera sido más fluido. Después de moverse a [[Urithiru\|Urithiru]], Navani hizo un boceto de algunas nuevas invenciones, y una de sus escribas sugirió enseñarselas a Falilar para que verificara la viabilidad de las ideas.
-Cuando [[Rysn Ftori\|Rysn Ftori]] emprendió su [[Expedici%C3%B3n a Akinah\|Expedición a Akinah]], [[Huio\|Huio]] se tropezó con un uso previamente desconocido del [[Aluminio\|aluminio]]: utilizandolo en fabriales con rubíes conjuntos para hacer que ignoraran ciertas direcciones de movimiento. Después de que se informara del descubrimiento a Urithiru, Falilar hizo un gran descubrimiento involucrando jaulas de fabriales que permitían a los [[Artifabrianos\|artifabrianos]] aislar planos de movimiento. Eso a su vez condujo al exitoso diseño del *[[Cuarto Puente\|Cuarto Puente]]* y otras invenciones más pequeñas.
-Falilar era parte del grupillo de científicos y ingenieros que acompañó al *Cuarto Puente* a [[Piedralar\|Piedralar]] para evacuar el pueblo. Trabajó de cerca con [[Rushu\|Rushu]], inspeccionando las esquemáticas para asegurarse de que el *Cuarto Puente* continuara su trabajo como debía. Cuando la mayoría del pueblo estaban a bordo, Falilar informó a Navani de los quince habitantes que se habían negado a irse y le dijo que la evacuación estaba siendo más rápida de lo previsto. Sin embargo, él seguía nervioso de que hubiera un fallo en el funcionamiento del *Cuarto Puente*, así que Navani le ordenó revisar tres veces sus cálculos y hacer inspecciones visuales.
 
-### Experimentos y descubrimientos
-Un día, Navani fué a visitar a los ingenieros que trabajaban en el [[Archivo de gemas de Urithiru\|Archivo de gemas de Urithiru]], y [[Tomor\|Tomor]] la guió a la mesa donde él y Falilar estaban trabajando en crear un prototipo para el proyecto que ella les había dado. Ella probó el diseño, una caja de unos quince centímetros que se ataba a la muñeca y podía empujarla a lo largo de cierto vector. Aunque el diseño funcionaba- el rubí de dentro podía ser activado y desactivado, y luego activado otra vez an una dirección distinta- Falilar estaba preocupado de que aún no habían solucionado la gran cantidad de mano de obra necesaria para tales artefactos.
+## Appearance and Personality
+Falilar is an elderly man with a shaved head and a squared white beard. He obtains a sense of security from worrying a lot and tends to tug on his beard while he frets. He also gets excited when running an experiment.
+
+## History
+### Ardent and Artifabrian
+Queen [[Navani Kholin\|Navani Kholin]] was the patron of Falilar's studies in engineering and [[Fabrial\|fabrials]]. He was present on the [[Shattered Plains\|Shattered Plains]] for her test of the floating parapet that was made with the use of reverser fabrials, where he observed a wobble in the parapet's ascent and was concerned by the fact that its motion was not smoother. After the move to [[Urithiru\|Urithiru]], Navani sketched some new inventions, and one of her scribes suggested showing them to Falilar for him to verify the feasibility of such engineering.
+When [[Rysn Ftori\|Rysn Ftori]] undertook her [[Expedition to Akinah\|Expedition to Akinah]], [[Huio\|Huio]] stumbled across a previously undiscovered application of [[Aluminum\|aluminum]]: using it in fabrials with conjoined rubies to cause them to ignore certain directions of movement. After the discovery was reported back to Urithiru, Falilar made a breakthrough involving fabrial cages that allowed the [[Artifabrians\|artifabrians]] to isolate planes of motion. This in turn led to the successful design of the *[[Fourth Bridge\|Fourth Bridge]]* and other, smaller, inventions.
+Falilar was part of the coterie of scientists and engineers that accompanied the *Fourth Bridge* to [[Hearthstone\|Hearthstone]] to evacuate the town. He worked closely with [[Rushu\|Rushu]], inspecting the schematics to ensure that the *Fourth Bridge* would continue to work as it should. When most of the town was onboard, Falilar informed Navani of the fifteen residents who had refused to leave and told her that the evacuation was going more quickly than planned. He was, however, still nervous that the *Fourth Bridge* would malfunction, so Navani instructed him to triple-check his calculations and make visual inspections.
+
+### Experiments and Discoveries
+Navani went to visit the engineers who worked in the old [[Urithiru gem archive\|Urithiru gem archive]] one day, and [[Tomor\|Tomor]] pulled her over to the table where he and Falilar had been working on creating a prototype for the project she had given them. She tested their design, a six-inch box that she could strap to her wrist and use to pull her along a certain vector. Although the design worked-the ruby inside could be engaged and disengaged, then engaged again in a different direction-Falilar was concerned that they still had no answer to the large amount of manpower needed for such devices.
 
 >“*You've spent years building bridges to span chasms. Let’s learn how to span the sky.*”
-\-Navani a Falilar[1]
+\-Navani to Falilar[1]
 
-En respuesta, Navani llevó a Falilar al borde de un hueco que llegaba más allá de los sótanos de Urithiru. Allí le presentó la idea de atar un rubí conjuntador y un mechanismo que lo activara en una de las poleas y pesos instalados en el hueco, explicando que ella había ideado molinos con [[Gema\|gemas]] conjuntadas que usaban el poder de una [[Alta tormenta\|alta tormenta]] para llevar los pesos de vuelta a arriba. Al final, Falilar preguntó por los detalles con ganas; Navani lo dirigió a trabajar en como combinar la idea original del sistema de levantar pesos con la idea de Tomor del aparato personal que acababan de probar.
-Cuando uno de las escribas de Navani descubrió una habitación secreta en el atrio, un [[Custodio de Piedra\|Custodio de Piedra]] modificó la piedra en una abertura y Falilar vino a medir la habitación. Hizo notar a Navani que la habitación en la que estaban estaba reproducida en el modelo a escala que habían descubierto, planteando así que esa habitación y las otras que habían descubierto con ninguna entrada aparente, en realidad tenían puertas que se podían abrir y cerrar; cuando la torre fue abandonada, las habitaciones con las puertas cerradas en ese momento habían quedado selladas. Esta idea fue reforzada por la gema que habían descubierto en la piedra de la entrada. Falilar se presentó voluntario para examinar tanto la gema como el modelo a escala antes de pedir a Navani que se pasara a ver a Tomor si tenía tiempo.
+In answer, Navani led Falilar to the edge of a shaft than ran straight down through Urithiru past its basements. She presented him with the idea of attaching a conjoined ruby and a trigger mechanism to one of the pulleys and weights installed in the shaft, explaining that she had devised windmills with conjoined [[Gemstone\|gemstones]] that would use the power of [[Highstorm\|highstorms]] to ratchet the weights back up to the top. By the end, Falilar excitedly asked for instructions; Navani directed him to work on both the original idea of a lift system and Tomor's idea of the personal device she had just tested.
+When one of Navani's scribes discovered a hidden room off of the atrium, a [[Stoneward\|Stoneward]] shaped the rock into an opening and Falilar came to measure the room. He noted to Navani that the room they were in was reproduced on the scale model they had discovered there, positing that that room and the others they had discovered with no apparent entrance actually had doors that could open and close; when the tower was abandoned, the rooms whose doors had been shut at the time remained sealed off. This idea was backed up by the gemstone they had discovered in the stone of the doorway. Falilar volunteered to examine both the gemstone and the scale model before asking her to drop in on Tomor if she had time.
 
-### El Hermano y la invasión
-Sin embargo, mientras Navani estaba de camino a la puerta, [[Isabi\|Isabi]] le trajo la [[Vinculaca%C3%B1as\|vinculacañas]] activada que el [[Hermano\|Hermano]] estaba usando para contactar con ella. Falilar y un grupo de los otros eruditos situaron el vinculacañas en una mesa. Falilar ordenó a Isabi a preparar las escalas que habían diseñado para medir el declive del fabrial. Cuando él indicó que estaban listos, Navani respondió al vinculacañas y los eruditos empezaron a tomar medidas. Falilar declaró a Navani que quienfuera que estaba usando el vinculacañas parejo estaba dentro de la torre y sugirió que se movieran a una segunda localización para recopilar más información para hacer una triangulación, así que guardaron todo deprisa, y se prepararon otra vez en una plataforma delante de Urithiru, y midieron otra vez. Navani entonces tubo la idea de "perder" el vinculacañas para forzar la mano de su adversario; Falilar estaba consternado al verla tirarlo por el borde de la plataforma pero enseguida recivió instrucciones de organizar un equipo para buscarlo. Falilar y su equipo ubicaron la localización de quien fuera que contactaba con Navani hasta una zona oscura en el cuarto piso cerca del [[Devotario de la Piedad\|Devotario de la Piedad]] usando la información acumulada, pero nunca localizaron nada o a nadie allí dentro.
-Durante la ocupación de Urithiru por los [[Fusionado\|Fusionados]], Navani decidió continuar con su investigación, lo que incluía la de todos los eruditos que ayudaba, bajo la vigilancia de [[Rabeniel\|Rabeniel]]. Se pasó por la biblioteca donde sus equipos habían sido confinados y habló brevemente con Falilar, quien le informó de las bajas en la sala de la columna de cristal. Mientras continuaban su trabajo, Falilar estaba entre los pocos eruditos suficientemente importantes para ser escortados personalmente cuando dejaban la biblioteca.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Truthwatch3r (talk) 17:37, 18 March 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### The Sibling and the Invasion
+As Navani left, however, [[Isabi\|Isabi]] brought her the blinking [[Spanreed\|spanreed]] that the [[Sibling\|Sibling]] was using to contact her. Falilar and a host of other scholars set the spanreed up on a table. Falilar directed Isabi to set up the scale they had designed to measure the decay in the fabrial. When he indicated that they were ready, Navani engaged the spanreed and the scholars began taking measurements. Falilar reported to Navani that whoever was using the paired spanreed was inside the tower and suggested that they move to a second location to gather data for triangulation, so they quickly packed it up, set up again on the plateau in front of Urithiru, and measured again. Navani then got the idea of "losing" the spanreed to force the other party's hand; Falilar was dismayed to see her kick it over the edge of the plateau but readily received instructions to assemble a team to search for it. Falilar and his team tracked down the location of the one contacting Navani to a dark area on the fourth floor near the [[Devotary of Mercy\|Devotary of Mercy]] using the gathered data, but they never located anything or anyone there.
+During the occupation of Urithiru by the [[Fused\|Fused]], Navani made the decision to continue her research, which included that of all of the scholars she funded, under [[Raboniel\|Raboniel's]] observation. She stopped by the library where her teams had all been confined and spoke briefly with Falilar, who told her of the casualties in the crystal pillar room. As they continued their work, Falilar was among the few scholars important enough to be personally escorted when they left the library room.
 
 
 
-https://es.coppermind.net/wiki/Falilar
+https://coppermind.net/wiki/Falilar

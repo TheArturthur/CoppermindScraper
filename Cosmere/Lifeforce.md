@@ -1,16 +1,16 @@
 |**Lifeforce**|
 |-|-|
-|**Fallecido**|Killed by [[Paige\|Paige]]|
-|**Capacidades**|[[%C3%89pico\|Épico]]|
-|**Residencia**||
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Lux (book)\|Lux]]*|
+|**Died**|Killed by [[Paige\|Paige]]|
+|**Abilities**|[[Epic\|Epic]]|
+|**Residence**|[[Lux (city)\|Lux]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Lux (book)\|Lux]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Lifeforce** is a High  and the ruler of the flying city . He uses his Epic powers to grant immortality to the denizens of his city. He and the city are currently in Texas to plunder what remains of it.
+**Lifeforce** is a High [[Epic\|Epic]] and the ruler of the flying city [[Lux (city)\|Lux]]. He uses his Epic powers to grant immortality to the denizens of his city. He and the city are currently in Texas to plunder what remains of it.
 
-## Sumario
+## Contents
 
 1 Attributes and Abilities. [[#Attributes and Abilities]] 
 
@@ -53,17 +53,6 @@ In the middle of one of his regular trips to visit and taunt [[Vera\|Vera]] in h
 ### Death
 As the frost grew worse, Jax, Paige, and Languish entered Lifeforce’s palace to kill him. Lifeforce confronted them, and he and Languish engaged in a battle of powers: Languish dampening Lifeforce's healing abilities while simultaneously dampening the healing that Lifeforce gifted him. Languish died to an old injury and Lifeforce regained control of the city. Jax managed to use Boomerang and Shiloh to stab Lifeforce, but Lifeforce still had access to his healing. Lifeforce used Wingflare’s powers to trap Jax beneath a steel door and began transferring his wound to Paige. Jax realizes that Lifeforce's weakness is silver, preventing him from using either of his powers on Jax because of Dan’s silver class ring. Paige realized that the hilt of Shiloh contains a motivator with a silver conduit made from the ring, and kicked the blade the rest of the way into Lifeforce's chest. The silver negated Lifeforce’s powers, and he began to die. Before he died, Lifeforce stabbed a syringe into Paige and injects the serum into her.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] ·  · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Lifeforce
+https://coppermind.net/wiki/Lifeforce

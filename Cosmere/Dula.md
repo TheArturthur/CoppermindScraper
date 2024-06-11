@@ -1,61 +1,128 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Duladel**|
 |-|-|
-|**Etnia**|Dula|
-|**Región**|[[Opelon\|Opelon]]🐱︎|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Dula|
+|**Region**|[[Opelon\|Opelon]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Duladel** es una región de [[Opelon\|Opelon]] en el borde meridional de [[Arelon\|Arelon]], en [[Sel\|Sel]]. Su gente es mayoritariamente de sangre mixta, generalmente mitad [[A%C3%B3nico\|aónica]] y mitad [[Jindo\|jindo]], y son conocidos como «el pueblo más tranquilo y animoso de Opelon». Debido a su herencia aónica, los dulas pueden ser alcanzados por la [[Shaod\|Shaod]] y convertirse en [[Elantrino\|elantrinos]].
+**Duladel** is a kingdom on [[Opelon\|Opelon]] along the southern border of [[Arelon\|Arelon]] on [[Sel\|Sel]]. People from Duladel are called Dula. Its people are mostly of mixed blood, generally half [[Aonic\|Aonic]] and half [[JinDo\|JinDo]]. Because of their Aonic heritage, the Dula can be taken by the [[Shaod\|Shaod]] and become [[Elantrian\|Elantrians]].
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 Geography. [[#Geography]] 
 
-1. [[#La rep.C3.BAblica de Duladel]] 
-1. [[#Ocupaci.C3.B3n del imperio fjordell]] 
+1. [[#Geography 2]] 
 
-
-2 Idioma. [[#Idioma]] 
-
-2. [[#Palabras conocidas]] 
+1. [[#Location]] 
+1. [[#Climate]] 
+1. [[#Capital]] 
 
 
-3 Dula destacado. [[#Dula destacado]] 
-4 Notas. [[#Notas]] 
 
 
-## Historia
-### La república de Duladel
-La república de Duladel fue una de las naciones más importantes de Opelon en la época previa al Reod. Estaba gobernada por un grupo de ciudadanos conocidos como la clase republicana. Sus miembros eran elegidos por los dulas. A la aristocracia dula le gustaba la ropa llamativa. La religión estatal de la república era el [[Jesker\|jesker]], que adoraba el [[Dor\|Dor]] como si fuera una especie de supraespíritu. Aunque no se ha dado a conocer ningún sistema de magia específico de Duladel, es posible que exista uno.
+2 Government. [[#Government]] 
 
-### Ocupación del imperio fjordell
-Aproximadamente seis meses antes de la restauración de Elantris, la república de Duladel colapsa. Durante un periodo caótico, un grupo de sacerdotes derethi, encabezados por el gyorn [[Hrathen\|Hrathen]], incitan a la revolución. Esta es descrita como más violenta incluso que la revolución arelena que siguió a la caída de Elantris; la clase republicana es destruida por completo. Se instaura una monarquía y el [[Shu-Dereth\|Shu-Dereth]] sustituye al [[Jesker\|jesker]] como religión del estado. El colapso de Duladel desencadena el compromiso entre el príncipe [[Raoden\|Raoden]] de Arelon y la princesa [[Sarene\|Sarene]] de [[Teod\|Teod]]; simbolizando su matrimonio la unidad entre las dos únicas naciones no derethi al sur del [[Imperio Rosa\|Imperio Rosa]].
+2. [[#Republic]] 
+2. [[#Monarchy]] 
 
-## Idioma
+
+3 Culture. [[#Culture]] 
+
+3. [[#People]] 
+
+3. [[#Fashion]] 
+3. [[#Fencing]] 
+
+
+3. [[#Religion]] 
+
+3. [[#Jesker]] 
+3. [[#Shu-Dereth]] 
+
+
+3. [[#Language and script]] 
+
+3. [[#Known words]] 
+3. [[#Script]] 
+
+
+
+
+4 History. [[#History]] 
+
+4. [[#Duladel Republic]] 
+4. [[#Occupation by the Fjordell Empire]] 
+
+
+5 Notable Dula. [[#Notable Dula]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
+
+
+## Geography
+### Geography
+#### Location
+Duladel lies on the continent of [[Opelon\|Opelon]]. The kingdom is bordered by [[Arelon\|Arelon]], [[Fjorden\|Fjorden]] and [[JinDo\|JinDo]]. It has one major river running through it, the [[Kalomo River\|Kalomo River]]. Duladel also contains the only safe passes through the Atad mountains.
+
+#### Climate
+Duladel is made up of a number of climates. A part of Duladel is made up of the Dula Steppes, these Steppes have many caves. Duladel also has many swamps.
+
+#### Capital
+Duladel’s capital is a city called [[Fellavoo\|Fellavoo]]. Fellavoo is located in the north of Duladel, close to the borders of [[Arelon\|Arelon]] and [[Fjorden\|Fjorden]]. Due to the city’s status as the Dula capital it is likely that the Dula royal family resides in this city.
+
+## Government
+### Republic
+Before it’s violent revolution and eventual occupation by the [[Fjorden\|Fjordell Empire]] Duladel was a republic. This republic was ruled by a group of citizens known as the Republican class. The members of the Republican class were elected by the Dula people. The people who belonged to the Republican class carried the title ‘Citizen’. After the revolution the Republican class was killed in its entirety, with only a handful of survivors. This revolution was also the end of the republic.
+
+### Monarchy
+After the collapse of the republic a contingent of Derethi priests, led by the gyorn [[Hrathen\|Hrathen]], fomented a revolution. After this revolution ended a Derethi monarchy was established. This allowed the Fjordell priests to convert the Dula population on a far larger scale them previously possible. The monarchs, as Derethi, bow to the whims of [[Wyrn (title)\|Wyrn]]. This essentially makes Duladel a Fjordell puppet.
+
+## Culture
+### People
+The Dula are of mixed blood, with most of them being a mix of the [[Aonic\|Aonic]] peoples and the [[JinDo\|JinDo]], although there are also Dula with Fjordell ancestry.
+Dula aristocrats typically have creamy brown skin. Their skin color is darker then the average Aonic person, but lighter then the average [[JinDo\|JinDo]]. Dula of lower birth generally have darker skin then the aristocrats, most of them also tend to be massive and bulky. The Dula have round features, they tend to have a foppish, unconcerned air.
+The Dula are known as the "most light-hearted, easygoing people in Opelon". They generally have a lack of decorum. The Dula are also notoriously slow to act. It is said that the moment you invite a Dula to stay, you will never get rid of him—or his family. The ideal Dula aristocrat is foolishly haughty, overdressed and overmannered.
+The Dula don’t just talk with their mouths, they use their entire bodies. The best way to deal with a talking Dula is to simply smile and occasionally nod.
+
+#### Fashion
+The Dula are highly fashionable. The aristocratic segment of the population is fond of garish and bright clothing. The common people are less fond of bright colors however. The Dula are also known to wear large feathered hats.
+
+#### Fencing
+Dula citizens are said to be the finest fencers in all of Opelon, being even better then the Jaadorians. The Dula aristocrats are extremely skilled, with on average three out of four defeating [[Sarene\|Sarene]], a skilled Teo fencer.
+
+### Religion
+#### Jesker
+Before the revolution the state religion was [[Jesker\|Jesker]], a religion that worships the [[Dor\|Dor]] as a sort of overspirit. Many people outside of Duladel call Jesker a 'primitive' religion, though saying this was considered offensive to its followers. It is likely that even after the revolution many people still believe in Jesker.
+The followers of the Jesker religion strive to bring themselves in harmony with the Dor, the overspirit, and subsequently with nature, they also taught that everything knew of the Dor, except humans, who could be oblivious to it. Jesker ascribed importance to the heaven's movements, and according to [[Hrathen\|Hrathen]], worshipped the moon.
+
+#### Shu-Dereth
+After the Fjordell occupation of Duladel the state religion was changed into [[Shu-Dereth\|Shu-Dereth]]. This is a monotheistic religion, worshipping a deity called [[Jaddeth\|Jaddeth]].
+Shu-Dereth has a strict chain of command, with [[Wyrn (title)\|Wyrn]] at the top. Due to this chain of command the Dula, regardless of social rank, are subjected to the whims of the Fjordell priesthood. Wyrn uses this to further expand his empire across [[Opelon\|Opelon]].
+
+### Language and script
 >“* *Alavanta kamaloo kayana.**”
-\- Galladon a sí mismo.[8]
+\- Galladon to himself[18]
 
 
-Duladen es el idioma hablado por los dulas. Refleja la «despreocupada y flexible cultura» de Duladel.
-Cuando [[Sarene\|Sarene]] descubre a un grupo de practicantes de los [[Misterios Jeskeri\|Misterios Jeskeri]], nota que muchos de ellos llevan túnicas adornadas con «runas duladen».
+The Dula people speak Duladen. This language reflects the "laid back, loose culture" of Duladel. Many Dula, including the Republic citizens, speak Aonic fluently, especially if they live near the country’s border with [[Arelon\|Arelon]]. Some of these people don’t even have accents. Unlike the aristocrats however, most of the low-born Dula have strong accents when speaking Arelene.
 
-### Palabras conocidas
+#### Known words
 
-## Dula destacado
+#### Script
+When [[Sarene\|Sarene]] discovers a group of practitioners of the [[Jeskeri Mysteries\|Jeskeri Mysteries]], she notes that many of them wear robes emblazoned with "Duladen runes".
+
+## History
+#### Duladel Republic
+The Duladel Republic was one of the major nations on Opelon during the time before the Reod. Duladel was on good terms with [[Arelon\|Arelon]], the [[Elantrian\|Elantrians]] and [[Teod\|Teod]], they were on worse terms with the [[Fjorden\|Fjordell]].
+
+#### Occupation by the Fjordell Empire
+About six months prior to the restoration of Elantris, the Duladel Republic collapsed. During a chaotic period a contingent of Derethi priests, led by the gyorn [[Hrathen\|Hrathen]], fomented a revolution. The Duladel Revolution was even more violent than the Arelene Revolution following the Fall of Elantris; the Republican Class was killed in its entirety, leaving only a handful of survivors. A monarchy was then instituted and [[Shu-Dereth\|Shu-Dereth]] replaced [[Jesker\|Jesker]] as the state religion. A few men, mostly republicans who survived the massacre, continued to fight against the Fjordell, although the only reason that they were still alive is because Fjorden was to lazy to destroy them. These rebels hid in the Dula swamps and in the caves of the Dula Steppes. The collapse of Duladel prompted the engagement of Prince [[Raoden\|Raoden]] of Arelon to Princess [[Sarene\|Sarene]] of [[Teod\|Teod]]; their marriage would signify unity between the two remaining non-Derethi nations south of the [[Rose Empire\|Rose Empire]].
+
+## Notable Dula
 [[Galladon\|Galladon]]
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] ·  · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+Although a Duladel-specific magic system has not been introduced, it is possible that one exists.
+Due to the [[JinDo\|JinDo]] heritage of the Dula they might be able to practice [[ChayShan\|ChayShan]], although this has not been confirmed.
 
 
-
-https://es.coppermind.net/wiki/Dula
+https://coppermind.net/wiki/Dula

@@ -1,49 +1,35 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ashu**|
 |-|-|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[De Idris\|de Idris]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Idrian\|Idrian]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
-**Ashu** es un señor de los suburbios [[Idris\|idriano]] en [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]].
+**Ashu** is an [[Idris\|Idrian]] slumlord in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Viste ropas finas con colores ricos y brillantes, como es común en [[T'Telir\|T'Telir]]. Sin embargo, lleva el pelo largo, en contra del típico estilo de clase alta de Hallandren.
-
-## Atributos y habilidades
-Ashu posee como mínimo cincuenta [[Aliento biocrom%C3%A1tico\|alientos biocromáticos]], ya que [[Vivenna\|Vivenna]] señala que tiene, al menos, la Primera [[Elevaci%C3%B3n\|Elevación]].. Esto alarga su vida y le otorga la habilidad de [[/wiki/Elevaci%C3%B3n#Primera Elevaci.C3.B3n]].
-Es uno de los señores de los barrios bajos más influyentes entre los idrianos expatriados en [[T'Telir\|T'Telir]]. Su posición como señor de los suburbios presumiblemente le hace rico, y es capaz de permitirse ropa de lujo y guardaespaldas.
-Se sabe que dirige un ring de boxeo idriano ilegal.
-
-## Historia
-[[Denth\|Denth]] organizó una reunión difícil de conseguir entre [[Vivenna\|Vivenna]] y tres poderosos señores de los suburbios idrianos, incluido Ashu, para discutir la posibilidad de una guerra entre Hallandren e Idris. Ashu no estaba de acuerdo con Vivenna en que una guerra fuera inevitable. Si se producía una guerra, Ashu parecía estar interesado únicamente en cómo se beneficiaría personalmente. Vivenna sintió una amarga decepción ante las actitudes egoístas de los señores de los barrios bajos y se levantó para marcharse; Ashu comentó que la reunión había sido una pérdida de tiempo. Ashu y los demás señores huyeron cuando [[Sinvida\|sinvidas]] enviados por la guardia de la ciudad atacaron la reunión; uno de los señores fue capturado y más tarde liberado, aunque no está claro cuál.
-
-## Curiosidades
-Brandon cita la escena del señor de los suburbios como un ejemplo en el que hay personajes distintos que tienen cada uno su propia perspectiva, pero las diferencias entre ellos no son significativas para la trama. Cuando esto ocurre, intenta ofrecer detalles adecuados para que los lectores imaginen la escena, pero no tantos como para entorpecer la acción.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:16, 4 de Junio de 2020 (UTC)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+He wears fine clothing with rich, bright colors as is common in [[T'Telir\|T'Telir]]. However, he has long hair, counter to typical Hallandren high-class style.
 
-https://es.coppermind.net/wiki/Ashu
+## Attributes and Abilities
+Ashu possesses a minimum of fifty [[BioChromatic Breath\|BioChromatic Breaths]], as [[Vivenna\|Vivenna]] notes that he is of at least the First [[Heightening\|Heightening]]. This extends his lifespan and gives him the ability of [[/wiki/Heightening#First Heightening]].
+He is among the most influential slumlords among the Idrian expatriates in [[T'Telir\|T'Telir]]. His position as a slumlord presumably makes him wealthy, and he is able to afford fine clothing and bodyguards.
+He is known to run an illegal Idrian boxing ring.
+
+## History
+[[Denth\|Denth]] set up a hard-to-get meeting between [[Vivenna\|Vivenna]] and three powerful Idrian slumlords, including Ashu, to discuss the prospect of war between Hallandren and Idris. Ashu disagreed with Vivenna about a war being inevitable. If a war did occur, Ashu seemed to be solely interested in how he would personally benefit. Vivenna felt bitter disappointment at the self-serving attitudes of the slumlords, and stood to leave; Ashu remarked that the meeting was a waste of time. Ashu and the other slumlords fled when [[Lifeless\|Lifeless]] sent by the city watch attacked the meeting; one of the slumlords was captured and later freed, although it is not clear which one.
+
+## Trivia
+Brandon cites the slumlord scene as an instance where there are distinct characters that each have their own perspectives, but the differences between them are not significant to the plot. When this occurs, he tries to provide adequate detail for readers to imagine the scene, but not so much that it bogs down the action.
+
+
+https://coppermind.net/wiki/Ashu

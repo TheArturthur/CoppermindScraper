@@ -1,117 +1,104 @@
-
-
-
 |**Yolen**|
 |-|-|
-|**[[Esquirla\|Esquirlas]]**|Ninguna|
-|**[[Investidura\|Investiduras]]**|[[Tejer luz (Yolen)\|Tejer luz (Yolen)]], [[Microquinesis\|Microquinesis]]|
-|**Gravedad en superficie**|1 estándar del Cosmere |
-|**Radio**|1 estándar del Cosmere |
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Shard\|Shards]]**|None|
+|**[[Investiture\|Investitures]]**|[[Yolish Lightweaving\|Yolish Lightweaving]], [[Microkinesis\|Microkinesis]]|
+|**Surface Gravity**|1 cosmere standard |
+|**Radius**|1 cosmere standard |
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Hay un mundo original, ofuscado y oculto en algún lugar del Cosmere. Todavía no sé dónde, pero he encontrado historias sobre él.*”
-\-Khriss.[3]
-
-
-**Yolen** es un planeta en el [[Cosmere\|Cosmere]] y es donde ocurrió la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Es el mundo natal de todos los recipientes de Esquirla originales, junto a [[Hoid\|Hoid]] y [[Frost\|Frost]]. Los habitantes de Yolen se llaman “yoleños”.
-
-## Sumario
-
-1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-2 Cultura. [[#Cultura]] 
-3 Historia. [[#Historia]] 
-
-3. [[#La Fragmentaci.C3.B3n de Adonalsium]] 
+>“*There is an original, shrouded and hidden somewhere in the cosmere. I've yet to find it, but I **have** found stories.*”
+\-Khriss[3]
 
 
-4 Magia. [[#Magia]] 
-
-4. [[#Tejer Luz]] 
-4. [[#Microquinesis]] 
+**Yolen** is a planet in the [[Cosmere\|cosmere]] where the [[Shattering of Adonalsium\|Shattering of Adonalsium]] happened. It's the homeworld of all the original [[Vessel\|Vessels]], along with [[Hoid\|Hoid]] and [[Frost\|Frost]]. The inhabitants of Yolen are called the Yolish.
 
 
-5 Yoleños notables. [[#Yole.C3.B1os notables]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+## Contents
+
+1 Geography and Ecology. [[#Geography and Ecology]] 
+2 Culture. [[#Culture]] 
+3 History. [[#History]] 
+
+3. [[#The Shattering of Adonalsium]] 
 
 
-## Geografía y ecología
-Se sabe muy poco sobre la geografía de Yolen, aparte de que tiene algunas características inusuales. Su gravedad y otras medidas son consideradas como **estándar en el Cosmere**, también llamado el **estándar galáctico**, por eruditos conscientes del [[Cosmere\|Cosmere]] como [[Khriss\|Khriss]] y [[N%C3%B3mada\|Nómada]]. Su ecología se divide en dos partes diferentes. Algunas partes son similares al [[Scadrial\|Scadrial]] post-[[Catacendro\|Catacendro]], con una flora y fauna parecida. Estas partes se llaman **trune**. Otras partes están cubiertas de **vida Fain**, un ecosistema parasitario poco entendido y hostil para los humanos. Aunque el Fain tiene la forma de una flora corriente, las plantas y la tierra apoderadas por ella son de un color blanco como el hueso. A pesar de que no tenga una [[Esquirla\|Esquirla]] asociada, en Yolen existe algo parecido a una [[Perpendicularidad\|perpendicularidad]].
-Una de las formas conocidas de vida fain son los Tamu Keks, que son similares a las gemas corazón de los cantores, y pueden usarse para la comunicación entre Reinos. 
-Yolen es el hogar de tres razas inteligentes: humanos, [[Drag%C3%B3n (Cosmere)\|dragones]] y [[Sho del\|sho del]]. Para el año 1174 de [[Roshar\|Roshar]] 1174, [[Frost\|Frost]] es el único habitante conocido, y aunque hay más personas viviendo allí, la población de Yolen es bastante pequeña. Si bien no todos los humanos se originaron en Yolen, fue el primer mundo en el que aparecieron. Muchos idiomas que se utilizan actualmente en todo el [[Cosmere\|Cosmere]] se derivan de los idiomas yoleños.
-Los árboles en Yolen, presumiblemente en las zonas fain, son de color blanco como el hueso.
-Yolen tiene una astonomía extraña que sería imposible bajo las leyes de físicas ordinarias.
-Yolen tiene algo parecido a una [[Perpendicularidad\|perpendicularidad]].
+4 Magic. [[#Magic]] 
 
-## Cultura
-En Yolen, los dragones eran vistos y adorados como dioses. Antes de que las Esquirlas empezaran a involucrarse con otros planetas, Yolen fue uno de los más avanzados, tecnológicamente hablando, en el Cosmere, habiendo alcanzado la Edad de Bronce.
+4. [[#Lightweaving]] 
+4. [[#Microkinesis]] 
 
-## Historia
-Yolen es uno de los mundos habitados más antiguos del Cosmere, y el primero en el que han aparecido los humanos. También es el mundo de [[Adonalsium\|Adonalsium]], la entidad que se cree que es la deidad creadora de Cosmere. En algún momento, la vida Fain apareció o viajó allí y comenzó a extenderse, superando al paisaje original. Después de algún tiempo, los habitantes originales aprendieron a lidiar con eso y a retenerlo.
-A la larga, la gente de Yolen avanzó a la Edad de Bronce, convirtiendo al planeta en el más avanzado del Cosmere durante este periodo.
-En varios momentos de la historia de Yolen, la [[Microquinesis\|microquinesis]] fue mal empleada, con efectos explosivos que resultaron en consecuencias desastrosas que no se comprenden del todo.
-Durante su historia, ya había gente que saltaba a otros planetas, aunque era extremadamente raro.
 
->“*Lo aprendí hace muchos muchos años, de un hombre que no sabía quién era, majestad. Fue en un lugar lejano donde se encuentran dos tierras y los dioses han muerto. Pero eso no tiene importancia.*”
-\-Hoid referenciando a Yolen mientras explica a Siri su estilo narrativo.[28]
+5 Notable Yolish. [[#Notable Yolish]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
-### La Fragmentación de Adonalsium
-En algún momento, dieciséis personas de Yolen, de los cuales no todos eran humanos, se unieron para matar a Adonalsium por varias razones. La [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], como llegó a ser conocida, dalteró dramáticamente todo el Cosmere. Toda la [[Investidura\|Investidura]] que una vez perteneció a Adonalsium se dividió entre las [[Esquirla\|Esquirlas]] creadas por su muerte, y los sistemas de magia preexistentes se alteraron en su funcionamiento.
-Después de la Fragmentación, la mayoría de las Esquirlas dejaron Yolen para ir por caminos separados. Muchos humanos también abandonaron el planeta, extendiéndose por todo el Cosmere. Durante los siguientes milenios, Yolen se ha ocultado de alguna manera, protegiéndose de miradas indiscretas, lo que dificulta enormemente su búsqueda e investigación. Para el momento de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] en Roshar, su población restante es pequeña.
 
-## Magia
-Yolen parece tener varios sistemas de magia, aunque solo se conocen dos.
+## Geography and Ecology
+Very little is known about Yolish geography, other than that it has some unusual features. Its gravity and other measurements are considered the **cosmere standard** by [[Cosmere\|cosmere]]-aware scholars like [[Khriss\|Khriss]]. Its ecology is divided into two distinct parts. Parts of it are similar to post-[[Catacendre\|Catacendre]] [[Scadrial\|Scadrial]], with similar flora and fauna. These parts are called **trune**. Other parts are covered in **fainlife**, a poorly-understood, parasitic ecosystem hostile to humans. Although fain has the shape of ordinary flora, the plants and land overtaken by it are bone-white. There is something similar to a [[Perpendicularity\|perpendicularity]] on Yolen, despite the lack of a Shard.
+One form of known fainlife are Tamu Keks, which are similar to singer gemhearts, and can be used for inter-Realmatic communication.
+Yolen is home to three sapient races: humans, [[Dragon (cosmere)\|dragons]] and [[Sho Del\|Sho Del]]. By [[Roshar\|Rosharan]] year 1174, [[Frost\|Frost]] is the only known inhabitant, and though there are more people living there, the Yolish population is rather small. While not all humans originated from Yolen, it was the first world on which they've appeared. Many languages currently in use across the [[Cosmere\|cosmere]] are derived from Yolish ones.
+Trees on Yolen, presumably in fain areas, are bone-white.
+Yolen has a strange astronomy that would be impossible under ordinary laws of physics.
+Yolen has something like a [[Perpendicularity\|perpendicularity]].
 
-### Tejer Luz
-Para más información, ver [[Tejer luz (Yolen)\|Tejer luz (Yolen)]].
-Tejer Luz es la ilusión mágica original del Cosmere. Es capaz de crear manifestaciones auditivas y visuales, ya sean independientes o incorporadas a un usuario. Puede producir disfraces, así como alterar la apariencia de otras sustancias, como el humo. Es más similar a la [[Potencia\|Potencia]] de [[Iluminaci%C3%B3n\|Iluminación]] de [[Roshar\|Roshar]], aunque menos restrictiva, ya que no requiere un vínculo con un [[Spren\|spren]]. Hoid aprendió esta forma original de tejido de luz en Yolen.
-La Fragmentación parece haber cambiado algo en el tejido de luz, ya que la magia original es solo semi-funcional.
+## Culture
+On Yolen, Dragons were seen and worshipped as gods. Before the Shards started getting involved with other planets, Yolen was one of the most technologically advanced planets in the cosmere, having reached the Bronze Age.
 
-### Microquinesis
-Para más información, ver [[Microquinesis\|Microquinesis]].
-Antes de la Fragmentación, Yolen fue sede de alguna forma de magia relacionada con la manipulación de partículas atómicas, conocidas como **[[Eje\|ejes]]**. El poder permite a sus usuarios observar átomos e interactuar con ellos directamente, aunque son incapaces de crear fisión nuclear. Los ejes también se puede utilizar para referirse a la división teórica más pequeña de la materia.
+## History
+Yolen is one of the oldest inhabited worlds in the cosmere, and the first on which humans have appeared. It's also the world of [[Adonalsium\|Adonalsium]], the entity believed to be the cosmere's creator deity. At some point, fain either appeared or traveled there, and began spreading, overtaking the original landscape. After some time, the original inhabitants learned how to deal with it and keep it back.
+Eventually, Yolish society advanced to the Bronze Age, making it the most advanced planet in the cosmere during this period.
+At several points in Yolen's history, [[Microkinesis\|Microkinesis]] was misused to explosive effect and resulting in disastrous consequences that are not fully understood.
+People worldhopped to other planets on rare occasions over Yolen's history.
 
-## Yoleños notables
+>“*I learned it many, many years ago from a man who didn't know who he was, Your Majesty. It was a distant place where two lands meet and gods have died. But that is unimportant.*”
+\-Hoid referencing Yolen while explaining his style of storytelling to Siri.[27]
+
+### The Shattering of Adonalsium
+At some point, sixteen Yolish people, not all of whom were human, came together to kill Adonalsium for various reasons. The [[Shattering of Adonalsium\|Shattering of Adonalsium]], as it came to be known, dramatically altered the entire cosmere. All [[Investiture\|Investiture]] that once belonged to Adonalsium was divided between the [[Shard\|Shards]] created by its death, and the preexisting magic systems were altered in how they functioned.
+Following the Shattering, most Shards left Yolen to go their own separate ways. Many humans have also abandoned it, spreading across the cosmere. Over the following millennia, it has become hidden in some way, shrouded from prying eyes, making reaching and researching it extremely difficult. By the time of the [[True Desolation\|True Desolation]] on Roshar, its remaining population is small.
+
+## Magic
+Yolen appears to have several magic systems, though only two are known.
+
+### Lightweaving
+For more information, see [[Yolish Lightweaving\|Yolish Lightweaving]].
+Lightweaving is the cosmere's original illusion magic. It's capable of creating auditory and visual manifestations, either independent or attached to a host. It can produce disguises, as well as alter the appearance of other substances, like smoke. It's most similar to the [[Surge\|Surge]] of [[Illumination\|Illumination]] from [[Roshar\|Roshar]], albeit less restrictive, not requiring a [[Spren\|spren]] bond. Hoid learned this original form of Lightweaving on Yolen.
+The Shattering appears to have changed something in Lightweaving, as the original magic is only semi-functional.
+
+### Microkinesis
+For more information, see [[Microkinesis\|Microkinesis]].
+Prior to the Shattering, Yolen was host to some form of magic related to the manipulation of atomic particles, known as **[[Axi\|axi]]**. The power allows its users to observe atoms and interact with them directly, although they are incapable of creating nuclear fission. Axi can also be used to refer to the smallest theoretical division of matter.
+
+## Notable Yolish
 
 [[Hoid\|Hoid]]
 [[Frost\|Frost]]
 [[Xisisrefliel\|Xisisrefliel]]
-[[Leras\|Leras]] ([[Conservaci%C3%B3n\|Conservación]])
-[[Ati\|Ati]] ([[Ruina\|Ruina]])
+[[Leras\|Leras]] ([[Preservation\|Preservation]])
+[[Ati\|Ati]] ([[Ruin\|Ruin]])
 [[Tanavast\|Tanavast]] ([[Honor\|Honor]])
-[[Uli Da\|Uli Da]] ([[Ambici%C3%B3n\|Ambición]])
-[[Edgli\|Edgli]] ([[Dotaci%C3%B3n\|Dotación]])
-[[Aona\|Aona]] ([[Devoci%C3%B3n\|Devoción]])
-[[Skai\|Skai]] ([[Dominio\|Dominio]])
+[[Uli Da\|Uli Da]] ([[Ambition\|Ambition]])
+[[Edgli\|Edgli]] ([[Endowment\|Endowment]])
+[[Aona\|Aona]] ([[Devotion\|Devotion]])
+[[Skai\|Skai]] ([[Dominion\|Dominion]])
 [[Rayse\|Rayse]] ([[Odium\|Odium]])
-[[Bavadin\|Bavadin]] ([[Autonom%C3%ADa\|Autonomía]])
-[[Koravellium Avast\|Koravellium Avast]] ([[Cultivaci%C3%B3n\|Cultivación]])
-[[Invenci%C3%B3n\|Recipiente de Invención]]
-[[Piedad\|Recipiente de Piedad]]
-[[Capricho\|Recipiente de Capricho]]
-[[Valent%C3%ADa\|Recipiente de Valentía]]
-[[Virtuosismo\|Recipiente de Virtuosismo]]
-Recipiente de una Esquirla desconocida
+[[Bavadin\|Bavadin]] ([[Autonomy\|Autonomy]])
+[[Koravellium Avast\|Koravellium Avast]] ([[Cultivation\|Cultivation]])
+[[Invention\|Invention's Vessel]]
+[[Mercy\|Mercy's Vessel]]
+[[Whimsy\|Whimsy's Vessel]]
+[[Valor\|Valor's Vessel]]
+[[Virtuosity\|Virtuosity's Vessel]]
+Vessel of an Unknown Shard
 
-## Curiosidades
-[[Brandon Sanderson\|Brandon Sanderson]] nombró a Yolen en honor a , autora de *Dragon's Blood*, uno de los primeros libros de fantasía que leyó.
-La rama del árbol escrita de la colección de [[Mraize\|Mraize]] proviene de Yolen.
-Las [[Llanuras Quebradas\|Llanuras Quebradas]], así como la trama del [[Puente Cuatro\|Puente Cuatro]] y el personaje de [[Lunamor\|Lunamor]], estaban originalmente en Yolen. Brandon los trasladó a [[Roshar\|Roshar]] al ver el arte conceptual realizado por [[Ben McSweeney\|Ben McSweeney]] para *[[El camino de los reyes\|El camino de los reyes]]*.
-Hay un dicho en Yolen: "Que dos mundos se vuelvan uno para ti". Esto no se refiere a los [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]].
-Si bien hay dioses que existieron y murieron en Yolen antes de la Fragmentación, estos dioses no eran Esquirlas. La información actual sugiere que estos dioses eran dragones.
-Yolen es el escenario de las novelas aún no publicadas *[[The Liar of Partinel\|The Liar of Partinel]]*, *[[The Lightweaver of Rens\|The Lightweaver of Rens]]* y *[[Dragonsteel Prime\|Dragonsteel Prime]]*. *[[Dragonsteel (saga)\|Dragonsteel]]*, la precuela del Cosmere en su conjunto, transcurrirá en ese planeta.
-Yolen tiene parámetros físicos similares a los de la Tierra, es decir, su gravedad y radio son comparables a los de la Tierra.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · |
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+[[Brandon Sanderson\|Brandon Sanderson]] named Yolen after , who wrote *Dragon's Blood*, one of the early fantasy books he read.
+The tree branch with writing on it from [[Mraize\|Mraize's]] collection comes from Yolen.
+The [[Shattered Plains\|Shattered Plains]], as well as the [[Bridge Four\|Bridge Four]] plot and the character of [[Lunamor\|Lunamor]], were originally on Yolen. Brandon moved them to [[Roshar\|Roshar]] upon seeing concept art made by [[Ben McSweeney\|Ben McSweeney]] for *[[The Way of Kings\|The Way of Kings]]*.
+There is a saying on Yolen: "May two worlds become one to you." This is not referring to [[Realms\|Realms]].
+While gods existed and died on Yolen prior to the Shattering, these gods were not Shards. Current information suggests these gods were dragons.
+Yolen is the setting of the unpublished novels *[[The Liar of Partinel\|The Liar of Partinel]]*, *[[The Lightweaver of Rens\|The Lightweaver of Rens]]* and *[[Dragonsteel Prime\|Dragonsteel Prime]]*. *[[Dragonsteel (series)\|Dragonsteel]]* proper, the prequel to the cosmere as a whole, will be set there.
+Yolen has Earth-like physical parameters, that is to say, its gravity and radius are comparable to Earth.
 
 
-
-https://es.coppermind.net/wiki/Yolen
+https://coppermind.net/wiki/Yolen

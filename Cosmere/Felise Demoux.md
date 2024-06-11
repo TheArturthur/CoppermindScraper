@@ -1,41 +1,16 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Felise Demoux**|
 |-|-|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
-Lady **Felise Demoux** es una noble que vive en [[Nueva Seran\|Nueva Seran]] en [[Scadrial\|Scadrial]].
+Lady **Felise Demoux** is a noblewoman living in [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]].
 
-## Historia
-Lady Demoux era supuestamente descendiente del capitán [[Demoux\|Demoux]], miembro de la [[Revuelta skaa\|revuelta skaa]] en el [[Imperio Final\|Imperio Final]]. Su única familia conocida era un sobrino.
-Lady Demoux crió varios perros de competición premiados.
-Lady Demoux y su sobrino asistieron a una fiesta celebrada por lady [[Kelesina Shores\|Kelesina Shores]] en el año 342. Lord [[Waxillium Ladrian\|Waxillium Ladrian]] solicitó bailar con ella dándole una tarjeta de presentación a su sobrino. Antes de que pudieran empezar a bailar, [[Khriss\|Khriss]] se interpuso entre ellos, bailando con Wax para preguntarle sobre sus habilidades. Después de que Khriss se marchara, Waxillium encontró a lady Demoux y se disculpó ante ella profusamente. Lady Demoux le permitió bailar con ella la siguiente vez, y se pasó todo el tiempo hablándole de sus perros.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 20:58, 1 July 2016 (MST)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+Lady Demoux was presumably a descendant of Captain [[Demoux\|Demoux]], a member of the [[Skaa rebellion\|skaa rebellion]] in the [[Final Empire\|Final Empire]]. Her only known family was a nephew.
+Lady Demoux kept several prize-winning hounds.
+Lady Demoux and her nephew attended a party held by Lady [[Kelesina Shores\|Kelesina Shores]] in the year 342. Lord [[Waxillium Ladrian\|Waxillium Ladrian]] requested to dance with her by giving an introduction card to her nephew. Before they could begin dancing, [[Khriss\|Khriss]] cut in between them, dancing with Wax to ask him about his abilities. After Khriss left, Waxillium found Lady Demoux and apologized to her profusely. Lady Demoux allowed him the next dance with her, and spent the whole time telling him about her hounds.
 
 
 
-https://es.coppermind.net/wiki/Felise_Demoux
+https://coppermind.net/wiki/Felise_Demoux

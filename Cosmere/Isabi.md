@@ -1,54 +1,33 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Isabi**|
 |-|-|
-|**Oficio**|Erudita|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
+|**Profession**|Scholar|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
-**Isabi** es una joven erudita de [[Roshar\|Roshar]].
+**Isabi** is a young scholar on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Isabi es una de las más jóvenes del equipo de eruditos y [[Fervoroso\|fervorosos]] de [[Navani\|Navani]] en [[Urithiru\|Urithiru]]. Es de estatura baja y aparenta su edad. Navani la ve como una joven. Es de mente curiosa.
+## Appearance and Personality
+Isabi is one of the younger members of [[Navani\|Navani's]] team of scholars and [[Ardent\|ardents]] in [[Urithiru\|Urithiru]]. She is small in stature and looks her age; Navani thinks of her as a "girl". She has a curious mind.
 
-## Atributos y habilidades
-Isabi sabe usar una [[Vinculaca%C3%B1as\|vinculacañas]], y por lo tanto puede leer y escribir en [[Escritura femenina\|escritura femenina]]. Se ha formado en ingeniería y en el método científico. A pesar de su juventud, [[Falilar\|Falilar]] y Navani parecen confiar en ella plenamente.
+## Attributes and Abilities
+Isabi is able to use a [[Spanreed\|spanreed]], and can therefore read and write in [[Women's script\|women's script]]. She has received some training in engineering and the scientific method. Despite her youth, Isabi seems to have the full trust of [[Falilar\|Falilar]] and Navani.
 
-## Historia
-Probablemente se mudase a Urithiru en algún momento tras la [[Batalla de Narak\|batalla de Narak]], pero no se conoce nada de su vida antes de ese momento. Es hija de un [[Corredor del Viento\|Corredor del Viento]] sin nombrar.
-Isabi se hizo aprendiz de erudita de Falilar. En el 1175, Falilar trabaja con ella en un método para triangular la posición de una vinculacañas, que funciona colocando la tabla en una balanza para medir la pequeña pérdida de peso que ocurre cuando un [[/wiki/Fabrial#Fabriales parejos]] se está usando. Se le asigna la tarea de vigilar una vinculacañas misteriosa que una entidad desconocida usa para ponerse en contacto con Navani, y avisa a Falilar y a la brillante cuando llega un mensaje. Isabi ayuda a su maestro a montar el sistema de medida en varios sitios mientras que Navani usa la vinculacañas. El experimento confirma que los mensajes provienen del interior de la torre, y Navani sospecha que el emisor es un [[Spren\|spren]].
-Tras extraviar intencionadamente su mitad de la vinculacañas misteriosa, Navani espera para ver si el spren le hace llegar otro rubí. Cuando [[Dabbid\|Dabbid]] aparece con uno nuevo, Navani le intenta interrogar, y pide a Isabi que hable con [[Kalami\|Kalami]] para ayudarla. Sin embargo, cuando va a mandar el mensaje, Isabi se entera de la explosión que ocurre cuando [[Talnah\|Talnah]] y [[Nem\|Nem]] realizan experimentos con la [[Esfera negra\|esfera negra]] que [[Gavilar\|Gavilar]] le da a [[Szeth\|Szeth]].
-Finalmente Navani confirma que está hablando con [[El Hermano\|el Hermano]]. Isabi estaba en el grupo de eruditos que acompaña a Navani mientras siguen las indicaciones del Hermano hacia un zafiro que, al infundirlo, levanta una barrera mágica alrededor del [[/wiki/El Hermano#Pilar de Cristal]] del Hermano. Esto hace que [[Rabeniel\|Rabeniel]] no pueda infundirlo con [[Luz del vac%C3%ADo\|luz del vacío]] para corromper al spren.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 19:17, 30 August 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+Isabi's early history is unknown, but she presumably moved to Urithiru at some point after the [[Battle of Narak\|Battle of Narak]]. She is the daughter of an unspecified [[Windrunner\|Windrunner]].
+She became apprenticed to Falilar as a scholar. In 1175, Falilar worked with Isabi on a method to triangulate the location of a spanreed by placing the board on a scale to measure the very slight weight changes related to an inherent decay that affects a [[/wiki/Fabrial#Conjoiners]] weight when it is in use. Isabi was tasked with monitoring a mysterious spanreed that an unknown entity was using to contact Navani, and alerted Falilar and Navani when a message was coming in. Isabi helped Falilar set up the measuring system while Navani was using the spanreed, and helped set it up again as the team rushed to a different location to take additional measurements. The experiment confirmed that the messages were coming from inside the tower; Navani suspected that the sender was a [[Spren\|spren]].
+After deliberately losing her half of the mystery spanreed, Navani waited to see if the spren would send another ruby. When [[Dabbid\|Dabbid]] showed up with a replacement, Navani intended to interrogate him, and asked Isabi to contact [[Kalami\|Kalami]] to assist her. As she sent the message, however, Isabi received news of the explosion caused by [[Talnah\|Talnah]] and [[Nem\|Nem]] experimenting with the [[Black sphere\|black sphere]] that [[Gavilar\|Gavilar]] gave to [[Szeth\|Szeth]].
+Navani eventually confirmed that she was corresponding with the [[Sibling\|Sibling]]. Isabi was with the group of scholars that accompanied Navani as she followed the Sibling's direction to a sapphire that, when infused, erected a magical barrier around the Sibling's [[/wiki/Sibling#Crystal Pillar]]. This prevented [[Raboniel\|Raboniel]] from infusing the pillar with [[Voidlight\|Voidlight]] to corrupt the spren.
 
 
 
-https://es.coppermind.net/wiki/Isabi
+https://coppermind.net/wiki/Isabi

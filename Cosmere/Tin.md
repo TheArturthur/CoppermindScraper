@@ -1,90 +1,66 @@
-
-
-|**Estaño**|
+|**Tin**|
 |-|-|
 |||
 ||
-|**[[Alomancia\|Alomancia]]**|
-|**Poder**|Incrementa los sentidos|
-|**Tipo**|Interno, Tirón, Físico|
-|**Brumoso**|Ojo de estaño|
-|**[[Feruquimia\|Feruquimia]]**|
-|**Poder**|Acumula sentidos|
-|**Tipo**|Físico|
-|**Ferrin**|Susurravientos|
-|**[[Hemalurgia\|Hemalurgia]]**|
-|**Poder**|Roba sentidos|
-|**Tipo**|Físico|
+|**[[Allomancy\|Allomancy]]**|
+|**Power**|Increase senses|
+|**Type**|Internal, Pulling, Physical|
+|**Misting**|Tineye|
+|**[[Feruchemy\|Feruchemy]]**|
+|**Power**|Store senses|
+|**Type**|Physical|
+|**Ferring**|Windwhisperer|
+|**[[Hemalurgy\|Hemalurgy]]**|
+|**Power**|Steal senses|
+|**Type**|Physical|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+**Tin** is the Internal Physical Pulling metal. An Allomancer burning tin has greatly enhanced senses. Feruchemists can use tin to store enhanced senses, and when used as a Hemalurgic spike, tin steals senses.
+The paired alloy of tin used in the Metallic Arts is [[Pewter\|pewter]].
 
-El **estaño** es el metal de la tirón físico interno. Un alomante que quema estaño tiene los sentidos muy mejorados. Los feruquímicos pueden utilizar el estaño para almacenar sentidos mejorados, y cuando se utiliza como clavo hemalúrgico, el estaño roba sentidos.
-La aleación emparejada con el estaño utilizada en las Artes Metálicas es el [[Peltre\|peltre]].
+## Contents
 
-## Sumario
+1 Allomantic Use. [[#Allomantic Use]] 
 
-1 Uso alomántico. [[#Uso alom.C3.A1ntico]] 
-
-1. [[#Savantismo]] 
+1. [[#Savantism]] 
 
 
-2 Uso feruquímico. [[#Uso feruqu.C3.ADmico]] 
-3 Uso hemalúrgico. [[#Uso hemal.C3.BArgico]] 
+2 Feruchemical Use. [[#Feruchemical Use]] 
+3 Hemalurgic Use. [[#Hemalurgic Use]] 
 
-3. [[#Bendici.C3.B3n kandra]] 
-
-
-4 Uso en fabriales. [[#Uso en fabriales]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+3. [[#Kandra Blessing]] 
 
 
-## Uso alomántico
-Un [[Brumoso\|brumoso]] de estaño se conoce como **ojo de estaño**. Quemar este metal le otorga una mayor sensibilidad en los cinco sentidos. Además, debido a que el origen de la alomancia es [[Conservaci%C3%B3n\|Conservación]], son capaces de ver a través de las [[Brumas\|brumas]] que cubren Scadrial. También pueden ver a través de la Investidura gaseosa de otras Esquirlas, pero no es un poder nativo.
-Un ojo de estaño puede avivar estaño, provocando una gran explosión de entrada sensorial, para despejar su cabeza del dolor o el agotamiento.  El estaño le permitirá ver en zonas con poca luz, pero no permite al usuario ver en la oscuridad total. Sin embargo, los ojo de estaño no puede ver a través de sus párpados.
-
-### Savantismo
-Si alguien fuera capaz de quemar la cantidad de estaño necesaria para convertirse en un [[Sabio\|sabio]] alomante de este metal, cualquier luz normal se volvería demasiado brillante para ellos. Sin embargo, sus otros sentidos se afinarían tanto que podrían sentir y oír lo suficientemente bien como para compensar la falta de visión. Dado que el cuerpo se vuelve dependiente del metal, un sabio ojo de estaño podría dejar de quemar y así ganar resistencia al dolor o a otros sentidos. Quemar estaño durante largos periodos supone un gran esfuerzo para el cuerpo y la mente.
-
-## Uso feruquímico
-Un [[Ferrin\|ferrin]] de estaño es conocido como **susurravientos**. El estaño se utiliza para almacenar la sensibilidad de los sentidos. Puede almacenarse cada sentido en una mentestaño, y se necesita una mente distinta para cada sentido. A diferencia de un alomante que quema estaño, no permite a un susurravientos ver cosas que de otro modo serían inobservables; en cambio, aumenta la potencia de sus sentidos actualmente disponibles. Mientras se almacenan los sentidos, éstos se debilitan. Por ejemplo, [[Sazed\|Sazed]] llevaba gafas mientras almacenaba visión.
-Decantar visión hace que el margen de visión del susurravientos se desdibuje, y sacrifica el campo de visión inmediato en favor de una visión más lejana y binocular. Decantar demasiada vista puede inducir náuseas. Almacenar el sentido del olfato diluye el sentido del gusto de un susurravientos.
-Es posible que almacene más que los cinco sentidos tradicionales en una mentestaño. Un ejemplo de esto sería la capacidad de sentir dolor. Podría ser posible almacenar sentidos concedidos alománticamente, como por ejemplo el sentido que otorga el [[Bronce\|bronce]].
-Las criaturas con otros sentidos pueden crear mentestaños para esos sentidos que poseen a mayores de los cinco estándar. Por ejemplo, un ornitorrinco feruquímico podría crear una mentestaño para su capacidad de sentir los campos eléctricos.
-
-## Uso hemalúrgico
-Cuando se utiliza como clavo hemalúrgico, el estaño roba los sentidos.
-
-### Bendición kandra
-Los [[Kandra\|kandra]] pueden utilizar un par de estos clavos como una [[Bendici%C3%B3n\|Bendición]] y la llaman **Bendición de la Consciencia**. Al igual que todas las Bendiciones kandra, esta otorga a los [[Espectro de la bruma\|espectros de la bruma]] la consciencia, con el beneficio añadido de unos sentidos más intensos.
-
-## Uso en fabriales
-Un [[Fabrial\|fabrial]] con una jaula de estaño suprimirá el elemento correspondiente al spren atrapado, creando un fabrial reductor. Por ejemplo, un [[Dolorial\|dolorial]], que amortigua el dolor en su cercanía.
-
-## Curiosidades
-[[Brandon Sanderson\|Brandon]] planeó originalmente dar los poderes alománticos del estaño a la [[Plata\|plata]], asumiendo falsamente que el [[Peltre\|peltre]] tenía una gran cantidad de plata. Después de cambiarlo, le preocupaba que el [[Pendiente de Vin\|pendiente de Vin]] pudiera confundirse, así que se convirtió en "recubierto de plata".
-En 2015, Brandon dijo que el símbolo alomántico del estaño también se utiliza a veces para representar la alomancia en general porque a [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] le gusta su aspecto.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
-|-|-|
-|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
-|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
-|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
-|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] ·  · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
-|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+4 Fabrial Use. [[#Fabrial Use]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
+## Allomantic Use
+A tin [[Misting\|Misting]] is known as a **Tineye**. Burning tin grants a Tineye increased sensitivity in all five senses. Furthermore, due to Allomancy's origin with [[Preservation\|Preservation]], they are able to see through the [[Mist\|mists]] that cover Scadrial. They may also be able to see through the gaseous Investiture of other Shards, though this is not a native power.
+A Tineye can flare tin, causing a huge burst of sensory input, to clear their head from pain or exhaustion. Tin will allow the Tineye to see in areas of low light, but does not allow the user to see in total darkness. Tineyes cannot see through their own eyelids.
 
-https://es.coppermind.net/wiki/Tin
+### Savantism
+If someone were able to burn the amount of tin needed to become an Allomantic [[Savant\|savant]] with the metal, any normal light would become too bright for them. However, their other senses would become so attuned that they can feel and hear well enough to make up for the lack of vision. Since the body grows dependent on the metal, a Tineye savant could stop burning tin and could gain resistant to pain or other senses. Burning tin for long periods puts a lot of strain on the body and mind.
+
+## Feruchemical Use
+A tin [[Ferring\|Ferring]] is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense. Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available. While storing senses, those senses become weaker. For example, [[Sazed\|Sazed]] wore glasses while storing eyesight.
+Tapping sight causes the edge of the Windwhisperer's vision to blur, and sacrifices immediate field of vision in favor of a more distant, binocular view. Tapping too much sight can induce nausea. Storing sense of smell dilutes a Windwhisperer's sense of taste.
+It is possible for a Windwhisperer to store more than the five traditional senses in a tinmind. An example of this would be the ability to feel pain. It might be possible to store Allomantically granted senses like [[Bronze\|bronze]] sense.
+Creatures with other senses can create tinminds for those senses as well as the standard five. For instance, a platypus Feruchemist could create an electric field sense tinmind.
+
+## Hemalurgic Use
+When used as a Hemalurgic spike, tin steals senses.
+
+### Kandra Blessing
+The [[Kandra\|kandra]] can use a pair of these spikes as a [[Blessing\|Blessing]] and call them the **Blessing of Awareness**. Like all kandra Blessings, the Blessing gives the [[Mistwraith\|mistwraiths]] sentience, with the added benefit of heightened senses.
+
+## Fabrial Use
+A [[Fabrial\|fabrial]] with a tin cage will suppress the element corresponding with the trapped spren, creating a diminisher fabrial. For example, a [[Painrial\|painrial]], which dampens pain in its vicinity.
+
+## Trivia
+[[Brandon Sanderson\|Brandon]] originally planned on giving the Allomantic powers of tin to [[Silver\|silver]], falsely assuming that [[Pewter\|pewter]] had a high quantity of silver. After changing it, he was concerned that [[Vin's earring\|Vin's earring]] might be confusing, so it became 'silver coated'.
+In 2015, Brandon said that the Allomantic symbol for tin is also sometimes used to represent Allomancy in general because [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] likes how it looks.
+
+
+https://coppermind.net/wiki/Tin

@@ -1,60 +1,42 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Canto del alba**|
+|**Dawnchant**|
 |-|-|
-|**Relacionado con**|[[Cantores del alba\|Cantores del alba]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Dawnsingers\|Dawnsingers]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Anak malah kaf, del makian habin yah.*”
-\-La frase 'Ser humano es querer lo que no podemos tener' en el canto del alba.[1]
+\-The phrase 'To be human is to want that which we cannot have' in the Dawnchant[1]
 
 
-El **canto del alba** era el idioma de los habitantes originarios de Roshar, los [[Cantores del alba\|cantores del alba]] - antiguos antepasados de los [[Cantor\|cantores]] modernos. Este lenguaje es la raíz de la familia lingüística alborea, consistiendo de los idiomas [[Shin\|shin]], [[Parshendi\|parshendi]], y [[Unkalaki\|unkalaki]]. Mientras que el vocabulario de estos idiomas varía mucho, comparten una gramática parecida.
+The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsingers\|Dawnsingers]] - ancient ancestors to the modern day [[Singers\|singers]]. The language is in the root of the Dawnate language family, consisting of the [[Shin\|Shin]], [[Parshendi\|Parshendi]], and [[Horneater\|Horneater]] languages. While the vocabulary of these languages varies greatly, they share similar grammar.
 
-## Historia
-El saber popular moderno afirma que el canto del alba era el lenguaje hablado por los [[Heraldo\|Heraldos]], pero su origen real en los cantores del alba probablemente indica que los humanos lo adoptaron, al menos en su forma escrita, después de su éxodo de [[Ashyn\|Ashyn]] y su llegada a [[Roshar\|Roshar]]. En algun punto de la historia el canto del alba se convirtió en el lenguaje escrito compartido por toda la humanidad en Roshar, incluso cuando se separaron y desarrollaron sus propios idiomas. Durante el periodo en que las [[Desolaci%C3%B3n\|Desolaciones]] azotaban la civilización humana, las diferentes culturas adoptaron la escritura del canto del alba original para que se adecuara a sus propios idiomas y desarrollaron su propia escritura. Este proceso empezó con simples substituciones fonéticas, en las cuales los humanos usaban la escritura del canto del alba para transcribir sus propios lenguajes, pero eventualmente llevó al surgimiento de las raíces de los glifos proto-thayleño-vorin, de los cuales provienen los glifos modernos de los vorin y los thayleños.
-Por miles de años el canto del alba fue intraducible, hasta que finalmente fue descifrado por [[Navani Kholin\|Navani Kholin]] durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Al oír las palabras de [[Dalinar\|Dalinar]] en una de sus visiones, reconoció una frase documentada en la Analéctica de Corvana - una frase que se origina con los Cánticos de los [[Vanrial\|vanrial]], una orden de fervorosos que ha mantenido un registro de canciones antiguas que se cree que fueron escritas en canto del alba. Este descubrimiento llevó a un gran número de textos en canto del alba siendo traducidos por eruditos de todo el mundo.
+## History
+Modern lore claims that the Dawnchant was the language spoken by the [[Herald\|Heralds]], but its actual Dawnsinger origin likely means that the humans adopted it, at least in its written form, after their exodus from [[Ashyn\|Ashyn]] and arrival on [[Roshar\|Roshar]]. At some point in history the Dawnchant became a shared written language for all humankind on Roshar, even as separate peoples had their own languages. As the [[Desolation\|Desolations]] buffeted human civilization, the different human cultures adapted the original Dawnchant script to fit their own languages and developed their own scripts. This process began with simple phonetic substitution, in which humans used the Dawnsingers' script to transcribe their own languages, but it eventually led to the emergence of the proto-Thaylo-Vorin glyphic radicals, which the modern Vorin and Thaylen glyphs come from.
+Untranslatable for thousands of years, the Dawnchant was finally cracked by [[Navani Kholin\|Navani Kholin]] during the [[War of Reckoning\|War of Reckoning]]. When listening to [[Dalinar\|Dalinar's]] words from one of his visions, she recognizes a phrase recorded in Corvana's Analectics - a phrase that originates with the songs of the [[Vanrial\|Vanrial]], an ardent order that has kept a record of ancient songs believed to have been written in the Dawnchant. This discovery leads to a large number of Dawnchant texts being translated by scholars around the world.
 
-## Textos conocidos
-Textos escritos en el canto del alba o alguno de sus dialectos derivados han sobrevivido los milenios de historia roshariana y han sido sujetos a investigaciones académicas a lo largo de los siglos. Algunos aparecen como simples frases o pasajes dentro de otras obras, mientras que otros han sobrevivido en sus formas originales. A continuación hay una lista exhaustiva de ambos.
-**Cánticos de los vanrial**
-Los vanrial eran una orden de artistas que vivían en las laderas del Monte del Silencio en Jah Keved. La Analéctica de Corvana, un volumen del cual Navani posee una copia, incluye varias canciones cantadas por los vanrial, escritas en una escritura antigua que Navani identifica como el canto del alba usando las visiones que Dalinar experimenta hacia el final de la Guerra de la Venganza. Una línea en uno de los cánticos vanriales lee "Anak malah kaf, del makian habin yah" - una frase en el canto del alba que Navani deduce que debe significar "Ser humano es querer lo que no podemos tener".
-**Mapas de los [[Reinos Plateados\|Reinos Plateados]]**
-Durante los eventos que llevaron al redescubrimiento de la [[Puerta Jurada\|Puerta Jurada]] de las [[Llanuras Quebradas\|Llanuras Quebradas]], [[Shallan\|Shallan]] examina varios mapas de los Reinos Plateados. Algunos de ellos incluyen escritos en lo que [[Jasnah\|Jasnah]] sospechaba que era canto del alba, algunos de los cuales [[Patr%C3%B3n\|Patrón]] es capaz de leer; otros incluyen escritos en otros lenguajes, los cuales Patrón reconoce que deriban uno del otro, o del canto del alba.
-**Inscripciones de las cámaras de las Puertas Juradas**
-Las cámaras alreadedor de la Puerta Jurada de las Llanuras Quebradas incluye incripciones en las paredes que [[Inadara\|Inadara]] reconoce como canto del alba. La plataforma de la Puerta Jurada de [[Urithiru\|Urithiru]] conectada con [[Ciudad Thaylen\|Ciudad Thaylen]] tiene patrones en el suelo que forman glífos en canto del alba.
-**Libros del [[Palaneo\|Palaneo]]**
-El Palaneo de [[Kharbranth\|Kharbranth]] contiene numerosos textos, algunos de los cuales estan escritos en, o incluyen fragmentos, en canto del alba.
-**El [[Archivo de gemas de Urithiru\|archivo de gemas de Urithiru]]**
-Es digno de atención que el lenguaje usado para documentar el archivo de gemas "no" fuera el canto del alba, sinó un lenguaje derivado que los eruditos de Navani pudieron traducir.
-**La colección de [[Bendthel\|Bendthel]]**
-La colección de Bendthel de transcripciones del canto del alba incluye tres códices que [[Ellista\|Ellista]] y [[Urv\|Urv]] trabajan traduciendo en el [[Monasterio de Jokasha\|monasterio de Jokasha]]. La colección lleva a Ellista a deducir que la misma versión escrita de canto del alba era usada alrededor de todo Roshar, con referencias específicas a [[Makabakam\|Makabakam]], [[Sela Tales\|Sela Tales]], y [[Alezela\|Alezela]]. La colección incluye más pruebas de que la escritura original del canto del alba evolucionó en múltiples lenguajes cuando distintas sociedades empezaron a usarlo para transcribir fonéticamente sus propios lenguajes. Urv menciona otro texto, el [[Fragmento de Covad\|Fragmento de Covad]], pero deduce que debe haber sido escrito en uno de los lenguajes derivados y no canto del alba.
-**El [[Eila Stele\|Eila Stele]]**
-Uno de los documentos más antiguos escritos en la historia, el Eila Stele fue redactado por los cantores del alba en la versión del canto del alba que ellos hablaban. El texto entero dice así:
+## Known Texts
+Texts written in the Dawnchant or one of its derivative dialects have survived the millennia of Rosharan history and have been subject to scholarly research throughout the ages. Some are recorded as mere phrases and excerpts inside other bodies of work, while others survive in their original form. The following is a comprehensive list of both.
+**The Vanrial Songs**
+The Vanrial are an order of artists who live on the slopes of the Silent Mount in Jah Keved. Corvana's Analectics, a volume Navani owns a copy of, include a number of songs sung by the Vanrial, written in an ancient script Navani identifies as the Dawnchant using the visions Dalinar experiences towards the end of the War of Reckoning. A line in one of the Vanrial chants reads "Anak malah kaf, del makian habin yah" - a Dawnchant phrase Navani deduces must mean "To be human is to want that which we cannot have."
+**[[Silver Kingdoms\|Silver Kingdoms]] Maps**
+During the events leading up to the re-discovery of the [[Shattered Plains\|Shattered Plains]] [[Oathgate\|Oathgate]] [[Shallan\|Shallan]] examines several maps of the Silver Kingdoms. Some of them include writing in the what [[Jasnah\|Jasnah]] had suspected was the Dawnchant, some of which [[Pattern\|Pattern]] is able to read; others include writing in other languages, which Pattern recognizes as derived from one another, or perhaps from the Dawnchant itself.
+**Oathgate Chamber Inscriptions**
+The chamber around the Oathgate on the Shattered Plains includes inscriptions on the walls [[Inadara\|Inadara]] recognizes as the Dawnchant. The [[Urithiru\|Urithiru]] Oathgate platform connected to [[Thaylen City\|Thaylen City]] has patterns on the floor that form glyphs in the Dawnchant.
+**[[Palanaeum\|Palanaeum]] Books**
+[[Kharbranth\|Kharbranth's]] Palanaeum contains many texts, some of which are written in, or include excerpts of the Dawnchant.
+**The [[Urithiru gem archive\|Urithiru Gem Archive]]**
+It is noteworthy that the language the gem archives were recorded in was *not* the Dawnchant, but a derived language Navani's scholars could translate.
+**[[Bendthel\|Bendthel's]] Collection**
+Bendthel's collection of Dawnchant transcriptions includes three codices [[Ellista\|Ellista]] and [[Urv\|Urv]] work on translating in the [[Jokasha Monastery\|Jokasha Monastery]]. The collection leads Ellista to conclude that the same version of the written Dawnchant was once used all across Roshar, with specific references to [[Makabakam\|Makabakam]], [[Sela Tales\|Sela Tales]], and [[Alethela\|Alethela]]. The collection includes further proof that the original Dawnchant script evolved into multiple languages as different peoples started using it to phonetically transcribe their own languages. Urv mentions another text, the [[Covad Fragment\|Covad Fragment]], but deduces that it must have been written in one of the derived languages, and not the Dawnchant.
+**The [[Eila Stele\|Eila Stele]]**
+One of the oldest documents in written history, the Eila Stele was written by the Dawnsingers in the version of the Dawnchant they spoke. The full text of the stele reads this:
 
->“* «"Vinieron de otro mundo, empleando poderes a los que se nos ha prohibido acceder. Poderes peligrosos, de los spren y las potencias. Destruyeron sus tierras y vinieron a nosotros suplicando. Los acogimos, como ordenaban los dioses. ¿Qué otra cosa podíamos hacer? Eran un pueblo abandonado, sin hogar. Nuestra piedad nos destruyó, pues su traición se extendió incluso hasta a nuestros dioses: a spren, piedra y viento. Cuidado con los venidos de otro mundo. Con los traidores. Con los de dulces lenguas pero mentes sanguinarias. No los aceptéis en vuestras casas. No los auxiliéis. Con razón se los llamó Portadores del Vacío, pues portaban consigo el vacío, el pozo hueco que absorbe toda emoción. Un nuevo dios. Su dios. Estos Portadores del Vacío no conocen canciones. No pueden oír a Roshar y, allá donde van, llevan el silencio. Parecen blandos, sin caparazón, pero son duros. Tienen solo un corazón, y jamás podrá vivir.”»*”
+>“* *They came from another world. Using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging. We took them in, as commanded by our gods. What else could we do? They were a people forlorn, without home. Our pity destroyed us. For their betrayal extended even to our gods: to spren, stone, and wind. Beware the otherworlders. The traitors. Those with tongues of sweetness, but with minds that lust for blood. Do not take them in. Do not give them succor. Well were they named Voidbringers, for they brought the void. The empty pit that sucks in emotion. A new god. Their god. These Voidbringers know no songs. They cannot hear Roshar, and where they go, they bring silence. They look soft, with no shell, but they are hard. They have but one heart, and it cannot ever live.**”
 \-Eila Stele[9]
 
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · |
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Dawnchant
+https://coppermind.net/wiki/Dawnchant

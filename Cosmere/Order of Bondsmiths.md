@@ -1,195 +1,174 @@
-
-
-|**Orden de los Forjadores de Vínculos**|
+|**Order of Bondsmiths**|
 |-|-|
 ||
 |||
-|**[[Heraldo\|Heraldo]]**|[[Ishar\|Ishar]]|
-|**[[Spren\|Spren]]**|[[Vigilante Nocturna\|Vigilante Nocturna]], [[Padre Tormenta\|Padre Tormenta]], [[Hermano\|Hermano]]|
-|**[[Potencia\|Potencias]]**|[[Tensi%C3%B3n\|Tensión]] y [[Adhesi%C3%B3n\|Adhesión]]|
-|**Spren de [[Armadura esquirlada\|armadura]]**|*Desconocido*|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Aparece en**|*[[El archivo de las tormentas\|El archivo de las tormentas]]*|
+|**[[Herald\|Herald]]**|[[Ishar\|Ishar]]|
+|**[[Spren\|Spren]]**|[[Nightwatcher\|Nightwatcher]], [[Stormfather\|Stormfather]], [[Sibling\|Sibling]]|
+|**[[Surge\|Surges]]**|[[Tension\|Tension]] & [[Adhesion\|Adhesion]]|
+|**[[Shardplate\|Plate]] spren**|*Unknown*|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-La **orden de los Forjadores de Vínculos** es una de las órdenes de [[Caballeros Radiantes\|Caballeros Radiantes]] en Roshar.
-Los Forjadores de Vínculos son [[Potenciaci%C3%B3n\|potenciadores]] que utilizan las [[Potenciaci%C3%B3n\|Potencias]] de [[Tensi%C3%B3n\|Tensión]] y [[Adhesi%C3%B3n\|Adhesión]], y están asociados con la [[Piedrabase\|piedrabase]] heliodoro. Establecen un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con uno de los tres [[Spren\|spren]] únicos: el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], o el [[Hermano\|Hermano]]. La naturaleza exacta del vínculo Nahel que los Forjadores de Vínculos comparten con su spren no está del todo clara, puede que sea similar o no al que establecen otras órdenes de Caballeros Radiantes. Históricamente ha sido una de las órdenes de Radiantes más eminentes. Los Forjadores de Vínculos son potenciadores de increíble poder, refundados después de la [[Traici%C3%B3n\|Traición]] por Dalinar Kholin.
+The **Order of Bondsmiths** is an order of the [[Knights Radiant\|Knights Radiant]] on Roshar.
+The Bondsmiths are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]], and they are associated with the heliodor [[Polestone\|polestone]]. They form a [[Nahel bond\|Nahel bond]] with one of three unique [[Spren\|spren]]: the [[Stormfather\|Stormfather]], the [[Nightwatcher\|Nightwatcher]], or the [[Sibling\|Sibling]]. The exact nature of the [[Nahel bond\|Nahel bond]] that Bondsmiths share with their specific spren is unclear; it may or may not be similar to that of the other orders of the Knights Radiant. Historically one of the most exalted orders of Radiants, the Bondsmiths are Surgebinders of extraordinary power that were refounded following the [[Recreance\|Recreance]] by Dalinar Kholin.
 
-## Sumario
+## Contents
 
-1 Filosofía. [[#Filosof.C3.ADa]] 
-2 Ideales de los Forjadores de Vínculos. [[#Ideales de los Forjadores de V.C3.ADnculos]] 
+1 Philosophy. [[#Philosophy]] 
+2 Ideals of the Bondsmiths. [[#Ideals of the Bondsmiths]] 
 
-2. [[#El Primer Ideal]] 
-2. [[#El Segundo Ideal]] 
-2. [[#El Tercer Ideal]] 
-
-
-3 Habilidades. [[#Habilidades]] 
-
-3. [[#Adhesi.C3.B3n]] 
-3. [[#Tensi.C3.B3n]] 
-3. [[#Otras habilidades]] 
+2. [[#The First Ideal]] 
+2. [[#The Second Ideal]] 
+2. [[#The Third Ideal]] 
 
 
-4 Historia. [[#Historia]] 
+3 Abilities. [[#Abilities]] 
 
-4. [[#Antiguos Forjadores de V.C3.ADnculos]] 
-4. [[#Forjadores de V.C3.ADnculos hist.C3.B3ricos]] 
-4. [[#La Traici.C3.B3n]] 
-4. [[#Refundaci.C3.B3n]] 
-4. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
+3. [[#Adhesion]] 
+3. [[#Tension]] 
+3. [[#Other abilities]] 
 
 
-5 Forjadores de Vínculos conocidos. [[#Forjadores de V.C3.ADnculos conocidos]] 
-6 Citas. [[#Citas]] 
-7 Notas. [[#Notas]] 
+4 History. [[#History]] 
+
+4. [[#Ancient Bondsmiths]] 
+4. [[#Historical Bondsmiths]] 
+4. [[#Recreance]] 
+4. [[#Refounding]] 
+4. [[#True Desolation]] 
 
 
-## Filosofía
-Si bien cada orden de Radiantes tiene diversidad de personalidades entre sus miembros, aquellos que se unen a los Forjadores de Vínculos generalmente aceptan una filosofía de paz y unidad. Buscan la unidad a cualquier escala, desde unir a los altos príncipes en un solo reino y con un solo propósito, hasta unir a todos los reinos del mundo para hacer frente a la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Esta filosofía se ve reflejada en sus Ideales, que generalmente tienen como tema central la unidad. Unir a las personas es su mayor vocación y su deber más importante como Radiantes. De entre todas las órdenes, el papel de los Forjadores de Vínculos como corazón y alma de los Radiantes los convierte en una de las órdenes más respetadas y célebres, por lo que su protección y seguridad son una preocupación fundamental.
+5 Known Bondsmiths. [[#Known Bondsmiths]] 
+6 Quotes. [[#Quotes]] 
+7 Notes. [[#Notes]] 
 
-## Ideales de los Forjadores de Vínculos
+
+## Philosophy
+While each order of Radiants contains a variety of personalities within it, those who join the Bondsmiths generally subscribe to a philosophy of peace and unity. They seek unity at all scales, from uniting the highprinces in a single kingdom in one purpose, to uniting the kingdoms of the world in the face of the [[True Desolation\|True Desolation]]. This philosophy is reflected in their Ideals, which are generally themed around unity. Bringing people together is their highest calling and their most important duty as Radiants. Among the other orders, the role of the Bondsmiths serve as the heart and soul of the Radiants and makes them some of the most respected and celebrated of the Knights, making their protection and safety a paramount concern.
+
+## Ideals of the Bondsmiths
  
-Los Ideales de los Caballeros Radiantes, también conocidos como [[Palabras Inmortales\|Palabras Inmortales]], son un conjunto de reglas por las que el Radiante vive y que les otorgan un mayor poder a medida que los van pronunciando. El Primer Ideal lo comparten todas las órdenes y se utiliza como un lema para el conjunto de los Caballeros Radiantes. Además, cada orden tiene cuatro Ideales adicionales que son exclusivos de su orden. Todos los Ideales de la orden de los Forjadores de Vínculos se centran en unir a las personas. Sin embargo, debido a la naturaleza única de los spren Forjadores de Vínculos, los Ideales a nivel individual pueden adoptar diferentes formas, en función del spren al que estén vinculados y de la situación. Solo se conocen los tres primeros Ideales de los Forjadores de Vínculos.
+The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiant lives that grant them increasing power as they are sworn. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the order then has an additional four Ideals that are unique to that order. The Ideals of the Order of Bondsmiths all focus on uniting people. However, the uniqueness of the Bondsmith spren means that each individual's specific Ideals may take various forms depending on the spren they are bonding and the situation. Only the first three Ideals of the Bondsmiths are known.
 
-### El Primer Ideal
->“*Vida antes que muerte, fuerza antes que debilidad, viaje antes que destino.*”
-\-Primer Ideal de los Caballeros Radiantes.[11]
-
-
-Los Forjadores de Vínculos comparten el Primer Ideal con el resto de órdenes Radiantes, y funciona como una lema para el conjunto de ellos. Las palabras se interpretan en sentido amplio como una forma de enunciar el valor de la vida, la importancia de la fuerza y el servicio y la importancia de los métodos que uno utiliza para lograr una meta.
-
-### El Segundo Ideal
->“*Uniré en vez de dividir. Uniré a los hombres.*”
-\-El Segundo Ideal de los Forjadores de Vínculos, pronunciado por Dalinar Kholin.[4]
+### The First Ideal
+>“*Life before death, strength before weakness, journey before destination.*”
+\-The First Ideal of the Knights Radiant.[11]
 
 
-El Segundo Ideal de los Forjadores de Vínculos refleja el aspecto principal de la orden, un intento de seguir el camino de Honor al juntar a grupos dispares entre ellos y servir como un mediador. Este Ideal tiene un sentido amplio, lo que quiere decir que el Forjador de Vínculos debe trabajar por la unidad a todos los niveles, desde individuos hasta reinos.
+The Bondsmiths share the first ideal with all other orders of Radiants, which serves as the motto of the organization as a whole. The words are broadly interpreted to state the value of life, the importance of strength and service and the importance of the methods by which one accomplishes a task.
 
-### El Tercer Ideal
->“*Aceptaré la responsabilidad por lo que he hecho. Si debo caer, cada vez me alzaré como un hombre mejor.*”
-\-El Tercer Ideal de los Forjadores de Vínculos, pronunciado por Dalinar Kholin.[12]
-
-
-El eje fundamental de este Ideal es llegar a convertirse en una mejor persona con el tiempo. Puede haber otras interpretaciones de este Ideal que aún no hayan sido exploradas.
-
-## Habilidades
-  <<Navani\|Navani>> convirtiéndose en Forjadora de Vínculos
->“*Ningún Radiante es capaz de más que tú. Tuyo es el poder de la Conexión, de unir hombres y mundos, mentes y almas. Tus potencias son las más grandiosas de todas, aunque se demostrarán impotentes si pretendes emplearlas solo para la batalla.*”
-\-El Padre Tormenta a Dalinar.[5]
+### The Second Ideal
+>“*I will unite instead of divide. I will bring men together.*”
+\-The Second Ideal of the Bondsmiths, as sworn by Dalinar Kholin.[4]
 
 
-Los Forjadores de Vínculos tienen acceso a la **Tensión**, la potencia de la Interconexión Axial Suave, y a la **Adhesión**, la potencia de la presión y el vacío. Aunque esta es la descripción general, los poderes de los Forjadores de Vínculos son muchos y muy variados, por lo que no es tan sencillo hacerlos encajar en una Potencia u otra. Aunque son capaces de desarrollar las mismas habilidades que el resto de órdenes, los poderes de los Forjadores de Vínculos se utilizan, por norma general, de formas muy distintas. Su habilidad para manipular la Conexión les proporciona una gran influencia sobre la naturaleza de los juramentos, los vínculos y el poder. Su acceso a la Investidura a un nivel puro es el mayor de entre todas las órdenes de Radiantes. Como la mayoría de Caballeros Radiantes, los Forjadores de Vínculos tienen escuderos.
-En términos generales, los poderes que comparten dos órdenes de Radiantes pueden variar un poco, pero los poderes de cada Caballero son similares a los de otro miembro de su orden. Sin embargo, cada Forjador de Vínculos tiene unas habilidades y unos atributos únicos del spren con el que están vinculados. Esto hace que sea más complejo realizar un examen general de los poderes que comparten los Forjadores de Vínculos. Algunos poderes puede que solo estén asociados al Forjador vinculado con el Padre Tormenta y que solo sean posibles tras el Astillamiento de la Esquirla Honor y la posterior alteración del Padre Tormenta. Algunas habilidades solo son útiles cuando se combinan los poderes con un Radiante de otra orden. Otras habilidades puede que solo sean accesibles ahora, cuando las restricciones impuestas a la Potenciación por Honor han desaparecido tras la muerte de la Esquirla. Parece ser que cada Forjador de Vínculos utiliza una variedad diferente de luz como combustible de sus habilidades. El Forjador de Vínculos del Padre Tormenta utiliza luz tormentosa, el Forjador del Hermano utiliza [[Luz de torre\|luz de torre]], y muy probablemente la Vigilante Nocturna permita el acceso a su Forjador a la [[Luz de vida\|luz de vida]]. Cabe destacar que, aunque los Forjadores de Vínculos están entre los Radiantes más poderosos, al menos en lo que se refiere a acceso a grandes cantidades de Investidura pura, en términos generales no son muy efectivos en combate. Sus poderes son más sutiles y con mayor alcance que los de un Radiante con diferentes Potencias.
-Un Forjador de Vínculos desatado es más peligroso que [[Sangre Nocturna\|Sangre Nocturna]].
+The Second Ideal of the Bondsmiths reflects the specific focus of the order, seeking to follow the path of Honor by bringing together disparate groups and serving as a peacemaker. This ideal is broad, indicating that a Bondsmith is to work towards unity in groups at all scales from individuals to kingdoms.
 
-### Adhesión
->“*Y la Potencia más Verdadera de Honor, la Potencia de las Uniones y los Juramentos, aún podría funcionar.*”
-\-El Hermano describiendo la Potencia de Adhesión[22]
+### The Third Ideal
+>“*I will take responsibility for what I have done. If I must fall, I will rise each time a better man.*”
+\-The Third Ideal of the Bondsmiths, as sworn by Dalinar Kholin.[12]
 
 
-La Adhesión es una habilidad con una definición muy amplia para los Forjadores de Vínculos, ya que pueden acceder a una variedad de poderes que les permiten manipular la Conexión, tanto en el sentido Físico como en el sentido Espiritual. Como los Forjadores de Vínculos no están tan enfocados en el combate, su manipulación de la Conexión es mucho más relevante para su papel como Radiantes. La Adhesión les garantiza el acceso a muchas más habilidades que a los Corredores del Viento, la otra orden de Radiantes con acceso a la Adhesión.
+The main focus of this Ideal is becoming a better person over time. There may be other interpretations of this Ideal that have yet to be explored.
+
+## Abilities
+  <<Navani\|Navani>> becoming a Bondsmith
+>“*No Radiant is capable of more than you. Yours is the power of Connection, of joining men and worlds, minds and souls. Your Surges are the greatest of all, though they will be impotent if you seek to wield them for mere battle.*”
+\-The Stormfather to Dalinar.[5]
 
 
-Con la habilidad conocida como enlace completo, un Forjador de Vínculos puede situar un charco o un chorro de [[Luces\|luz]] sobre un objeto o una superficie. Tras esto, todos los objetos que toquen el área quedarán unidos al objeto en cuestión, quedándose pegados de una forma tan fuerte que muchos materiales cederán antes de que lo haga el enlace. La unión se agota cuando se termina la luz. Esta Potencia tiene algunas aplicaciones en combate, como puede ser pegar las botas de un enemigo al suelo para desequilibrarlo y obstaculizar sus movimientos o pegar su lanza al escudo para desarmarlo. El Radiante puede utilizar el enlace para pegar objetos, aunque es incapaz de unir algo al Radiante mediante este enlace. Este poder en concreto es utilizado en contadas ocasiones por los Forjadores de Vínculos.
+The Bondsmiths have access to **Tension**, the Surge of Soft Axial Interconnection, and **Adhesion**, the Surge of Pressure and Vacuum. While this is simply stated, the powers of the Bondsmiths are many and varied and may not be easily definable as one Surge or another. Although they are capable of performing the same mundane abilities they share with their adjacent orders, the powers of the Bondsmiths are generally used in very different ways. Their ability to manipulate Connection gives them great influence over the nature of oaths, bonds, and power. Their access to raw levels of Investiture is the greatest among the orders of Radiants. Like most Knights Radiant, the Bondsmiths have squires.
+Generally speaking, powers shared between two orders of Radiants may vary somewhat, but each individual Knight has powers generally similar to those of another member of their order. However, each Bondsmith has abilities and traits unique to the spren they bond. This makes a generalized discussion of the common powers of a Bondsmith more complex than other orders. Some powers may be associated with the Stormfather's Bondsmith alone and are only true following the Splintering of the Shard Honor and the subsequent alteration of the Stormfather. Some abilities may only be functional when used in conjunction with a Radiant from another order. Others may only be accessible because restrictions imposed on Surgebinding by Honor have vanished following the Shard's death. Each Bondsmith seems to make use of a different variety of Light to fuel their abilities, the Stormfather's Bondsmith uses Stormlight, the Sibling's [[Towerlight\|Towerlight]], and presumably the Nightwatcher grants her Bondsmith [[Lifelight\|Lifelight]]. It is also worth noting that while Bondsmiths may be among the most powerful Radiants, at least in terms of access to quantities of raw Investiture, they generally speaking are not effective in a combat role. Their powers are more subtle but also wider reaching than those of a Radiant with different Surges.
+A Bondsmith unbound is more dangerous than [[Nightblood\|Nightblood]].
+
+### Adhesion
+>“*And Honor's Truest Surge, the Surge of Binding and Oaths, could still work.*”
+\-The Sibling describing the Surge of Adhesion[22]
 
 
->“*No estaba seguro de que pudiera hacerse. El poder de los Forjadores de Vínculos estaba atemperado por Honor, por el bien de todos. Desde la destrucción de Ashyn.*”
-\-El Padre Tormenta sobre los poderes de Dalinar[19]
-
-La Potencia de Adhesión también puede usarse para crear Conexiones espirituales en lugar de para manipular fuerzas en el Reino Físico. Mediante la Adhesión Espiritual, un Forjador de Vínculos puede tocar a otra persona, introducir luz tormentosa en ella y crear así una Conexión entre ambos. Esto le permite al Forjador hablar la lengua nativa de esa persona. Esta Conexión es temporal, ya que se desvanece al cabo de unos días si no es renovada. Se desconoce si el potenciador debe permanecer físicamente cerca de la persona para que la Conexión se mantenga. La Adhesión Espiritual no le permite al Forjador hacer uso de más habilidades de la persona, más allá de las relacionadas con el idioma. Este poder tiene una gran similitud con otras aplicaciones de la [[Conexi%C3%B3n\|Conexión]] como el [[Duraluminio\|duraluminio]] [[Feruquimia\|feruquímico]] de Scadrial.
-Cuando las restricciones que impuso Honor a la potenciación desaparecen, tras la muerte de la Esquirla, los Forjadores de Vínculos son libres para manipular la Conexión de una forma mucho más directa de lo que habían sido capaces con anterioridad. Un Forjador de Vínculos experimentado podría usar estas Conexiones de forma ofensiva, Conectando potenciadores enemigos a Roshar, de forma que la luz tormentosa crea que el planeta es parte de su cuerpo y sea absorbido por el suelo. Desconocemos si era posible acceder a este poder antes de la muerte de Honor. Este poder deja al receptor sintiéndose agotado, e incluso la luz tormentosa parece ser incapaz de eliminar los dolores de cabeza que aparecen. Otro poder que solo estuvo disponible para los Forjadores de Vínculos en los últimos días de Honor fue la habilidad de ver, directamente, las Conexiones que unen a todas las personas entre sí y a la realidad. Al tocar la frente de una persona, sus Conexiones se vuelven visibles, aunque de forma muy débil, como diminutas línea blancas que se extienden en la distancia. Si bien un Forjador de Vínculos puede ver estas Conexiones, no se pueden alterar de ninguna forma que resulte útil. Un Forjador puede ver Conexiones más especializadas, como las que unen a los Heraldos que forman parte del Juramento. En alguna situación, un Forjador puede ver destellos del pasado de un Heraldo al tocarlo. Un Forjador de Vínculos experto podría manipular directamente Conexiones más especializadas para robar cosas como un vínculo Nahel, el cometido de un campeón, fuerza, [[Aliento\|alientos]], la habilidad de usar [[Alomancia\|alomancia]], etc. Antes, todo ello estaba prohibido por Honor. Con la suficiente Investidura un Forjador de Vínculos podría unir una Esquirla a algo.
+Adhesion is a very broadly defined ability for the Bondsmiths, allowing for a range of powers that it grants to the Bondsmiths to manipulate Connection, both in a Physical sense as well as in a Spiritual sense. As Bondsmiths are generally not an order that is combat-oriented, their manipulation of Connection is far more relevant to their role as Radiants. Adhesion grants the Bondsmith access to a far greater suite of abilities that are not shared with the Windrunners, the other Radiants with access to Adhesion.
 
 
->“*Pero debes tener Conexión para crear una visión. Debes tener una razón para ella. Un significado. No puede ser cualquier cosa.*”
-\-El Padre Tormenta a Dalinar[35]
+Using the power often referred to as a Full Lashing, a Bondsmith can will a pool or a spray of [[Light\|Light]] onto an object or surface. All other objects that subsequently touch this area will be bonded to the object, sticking them there together so strongly that most materials would fail themselves before the Lashing would fail. The bond ends when the Light runs out. This Surge has some limited applications in combat, such as sticking an enemy's boots to the ground to throw them off balance and hinder their movement or sticking their spear to a shield, disarming them. The Radiant may use this Lashing to stick objects to others, it is unable to adhere something to the Radiant making use of the Lashing though. This specific power is rarely employed by Bondsmiths.
 
 
-Otro de los poderes relacionados con los Forjadores de Vínculos es la habilidad de crear y ver [[Visiones\|visiones]] inmersivas de apariencia real ya sea sobre acontecimientos reales o imaginarios. No está del todo claro si esta habilidad es exclusiva del Forjador del Padre Tormenta. Para este Forjador se trata de una habilidad que progresa con los Ideales. Al principio, el Forjador es conducido a las visiones durante cada tormenta sin su consentimiento, donde estas visiones resultan confusas y difíciles de entender, y las acciones que realiza dentro de la visión también las representa en la vida real. Con el tiempo, es posible dejar de representar las visiones. Mientras que el Forjador de Vínculos puede acceder a las visiones en cualquier momento, solo puede llevar a personas que están dentro de una alta tormenta.
+>“*I was not certain it could be done. The power of Bondsmiths was tempered by Honor, for the good of all. Ever since the destruction of Ashyn.*”
+\-The Stormfather on Dalinar's powers[19]
 
-  Dalinar lleva a Venli a una visión
-En un principio, el Padre Tormenta puede otorgar un conjunto de visiones específicas creadas por Honor antes de su muerte, para instruir al futuro Forjador de Vínculos en la lucha contra Odium. Con el tiempo puede crear sus propias visiones para que otros las experimenten. Estas implican forjar una Conexión entre la persona y algo importante a lo que estén Conectados, como algo que desean, una esperanza o un deseo, como cuando Dalinar le concede a Kaladin la visión de [[Tien\|Tien]]. La persona que experimenta la visión puede que deba estar en una alta tormenta para que el Forjador de Vínculos pueda crear la Conexión para la visión. Estas pueden durar un instante, ya que el tiempo se ralentiza durante el cadecentro de la alta tormenta.
-Los que ven estas visiones están, de alguna forma, experimentando el Reino Espiritual, pero el Reino Cognitivo también está involucrado para proporcionar un marco a lo que está apareciendo y que el Reino Espiritual sea comprensible. Cualquier ente inteligente que existe en una visión está formado de Investidura que ha interaccionado con el Reino Cognitivo para cobrar vida y ser capaz de dar una respuesta inteligente. Este poder permite interaccionar con figuras históricas muertas hace mucho tiempo o hablar durante un momento con seres queridos que han fallecido. Cuando las visiones muestran a personas que han pasado al Más Allá, no está claro si son las mentes que permiten a los muertos hablar desde el Más Allá o si se trata de una recreación de su personalidad hecha por el Padre Tormenta a partir de su conocimiento y la Conexión.
-Una habilidad similar que puede proporcionar el Padre Tormenta es cabalgar una tormenta, donde la persona puede unirse a él y ver la tierra desde la perspectiva de una alta tormenta pasando sobre el continente de Roshar. La persona que viaja dentro de la tormenta puede que sea capaz de ver más detalles del terreno bajo la alta tormenta que el propio Padre Tormenta. Parece que el Radiante vinculado a él es capaz de ejercer incluso más poder sobre estas visiones que una persona normal que viaje en la tormenta. Cuando esto pasa, el Radiante puede llegar a controlarla si el spren se lo permite, y puede llegar a retroceder en contra de la fuerza de la tormenta, lo que causa un gran dolor al Padre Tormenta. En este estado, un Forjador de Vínculos es capaz de aceptar el juramento de otro Radiante en lugar de hacerlo el Padre Tormenta. También es capaz de comunicarse con aquellos que están en una alta tormenta, aunque las palabras no se pronunciarán en voz alta a trvés de su cuerpo físico. La habilidad del Forjador del Hermano de ver y comprender los mecanismos de [[Urithiru\|Urithiru]] puede estar relacionada, ya que representa una expansión en la percepción y el conocimiento de la torre del Radiante en una forma muy parecida a cuando alguien viaja en una alta tormenta. También permite que el Radiante hable a través de la vetas de granate de la torre, de la misma forma que lo hace el Hermano.
-
-### Tensión
-El potenciador puede manipular la Potencia de Tensión para alterar la rigidez de un objeto, haciendo que los materiales flexibles se vuelvan rígidos. Se trata de un poder que no ha sido muy explorado y se desconoce lo relevantes que pueden llegar a ser sus aplicaciones para los Forjadores de Vínculos, y aunque se utiliza en conjunto con otras habilidades, es ciertamente responsable de la capacidad que poseen los Forjadores de Vínculos de reparar objetos inanimados.
-
-### Otras habilidades
-
->“*La Vigilante Nocturna es como tú. Pero ¿hay otros spren como tú o la Vigilante? ¿Spren que son sombras de dioses?*”
-\-Dalinar Kholin al Padre Tormenta[46]
+The Surge of Adhesion may also be used to create spiritual Connections rather than manipulating forces in the Physical Realm. Using Spiritual Adhesion a Bondsmith may touch another person, will Stormlight into them, and forge a Connection to that person. This allows the Bondsmith to speak that person's native language. The Connection is temporary, it fades within a few days unless it is renewed again. Whether the Surgebinder must remain physically close to this other person for the Connection to persist is unknown. Spiritual Adhesion is not capable of allowing a Bondsmith to make use of any other of a person's abilities that are not language-related. The power bears a great similarity to other applications of [[Connection\|Connection]] such as [[Duralumin\|duralumin]] [[Feruchemy\|Feruchemy]] on Scadrial.
+Once the restrictions placed on Surgebinding by Honor were lifted following the Shard's death, Bondsmiths are free to manipulate Connection much more directly than they have been able to previously. A knowledgeable Bondsmith may be able to use these Connections offensively, Connecting enemy Surgebinders to Roshar so that the Stormlight believes the planet to be a part of the bodies and is sucked into the ground. It is uncertain if this power was accessible before Honor's death. This power leaves the recipient feeling drained afterward, with even stormlight healing unable to lift the headaces that follow. Another power that only became available to the Bondsmiths in Honor's final days is the ability to directly see Connections that tie all people to one another and reality. When touching another's forehead, their Connections become faintly visible as dozens of minute tiny white lines stretching off into the distance. While a Bondsmith can visualize these Connections, they are not able to be altered in any useful way. A Bondsmith may see more specialized Connections as well, such as the Connections between the Heralds that make up the Oathpact. Under some circumstances a Bondsmith can see flashes of a Herald's past by touching them. A knowledgeable Bondsmith may directly manipulate more specialized Connections to steal something like a Nahel bond, the mantle of a champion, strength, [[Breath\|Breaths]], the ability to use [[Allomancy\|Allomancy]], etc. These were previously forbidden by Honor. With enough Investiture a Bondsmith could attach a Shard to something.
 
 
-Cada Forjador de Vínculos comparte un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con uno de los tres spren únicos que existen: el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], y el [[Hermano\|Hermano]]. Estos spren son todos del mismo tipo, pero obviamente existen diferencias importantes entre ellos. El propio poder de los spren Forjadores les permite quebrantar las reglas normales que siguen los spren auténticos que están vinculados a otras órdenes. Los spren Forjadores de Vínculos son más omnipresentes y pueden estar separados por grandes distancias de su Radiante y aún así otorgar poderes y hablar directamente en sus mentes, ya que están más Conectados que el resto de spren Radiantes. Normalmente, los Forjadores de Vínculos no tienen acceso a una [[Hoja esquirlada\|hoja esquirlada]]. Es posible que el Padre Tormenta y la Vigilante Nocturna se conviertan en hojas esquirladas, pero es poco probable que ocurra. Es posible forzar a la esencia de su spren a manifestarse en el Reino Físico de una forma que les permite activar las Puertas Juradas. Esto es algo incómodo e incluso peligroso de hacer, quizás a riesgo de matar al spren, y solo se ha observado con el Padre Tormenta. De la misma forma que los otros spren Radiantes, los spren Forjadores son vulnerables si su Radiante traiciona sus juramentos. Si bien estos Radiantes no tienen acceso a una espada, existen evidencias de que sí pueden obtener una armadura esquirlada, tal vez formada por glorispren, aunque se trata de algo sin confirmar. Además, tras la muerte de Honor, el Forjador del Padre Tormenta tiene la habilidad de liberar a Odium de su confinamiento si elige hacerlo, ya que posee una gran remanente del poder y de la autoridad de Honor.
-
-  Dalinar invocando la <<Perpendicularidad de Honor\|Perpendicularidad de Honor>>
-
-A diferencia del resto de Radiantes, como los Forjadores de Vínculos están profundamente Conectados a spren poderosos que sirven como fuentes de Investidura, son capaces de extraer Investidura a voluntad, donde cada spren garantiza el acceso a su luz asociada. Pueden utilizar esta habilidad para cargar a otro Radiante directamente con luz. Este proceso es físicamente agotador para el Forjador. Sin embargo, ya que la mayoría de Radiantes utilizan luz tormentosa, tal vez esto sea verdaderamente útil para el Forjador del Padre Tormenta, aunque el resto pueden generar sus respectivas luces para uso personal. Se desconoce con exactitud cómo se lleva a cabo esto, pero no es necesario que el Forjador ya tenga algo de luz para extraer más hacia el Reino Físico. Desconocemos los mecanismos exactos de esta habilidad, pero lo más probable es que extraigan directamente la luz del Reino Espiritual.
-Otro poder que solo es accesible para los Forjadores de Vínculos tras la desaparición de Honor es la habilidad de abrir una perpendicularidad completa, lo que parece una expansión de la capacidad de generar Investidura. La perpendicularidad puede abrirse total o parcialmente. Si la perpendicularidad del Forjador de Vínculos se cierra a la fuerza, es capaz de abrir otra. De los tres Radiantes, solo tenemos la confirmación de que el Forjador del Padre Tormenta y del Hermano son capaces de invocar la Perpendicularidad de Honor, que por definición es móvil. No está del todo claro si el Forjador de la Vigilante Nocturna puede invocar también perpendicularidades, aunque el hecho de que el portador de la [[Hoja de Honor\|hoja]] de los Forjadores de Vínculos también pueda invocar una perpendicularidad da credibilidad a la posibilidad que el resto de Forjadores pueda hacer lo mismo.
+>“*But you must have Connection for a vision. You must have a reason for it. A meaning. It cannot be just anything.*”
+\-The Stormfather to Dalinar[35]
 
 
-En una demostración única de su poder, un Forjador de Vínculos puede usar el control sobre sus dos Potencias, así como su afinidad excepcional con la Conexión, para reparar objetos inanimados. Durante este proceso, son capaces de sentir y escuchar los aspectos cognitivos de ciertos objetos dañados de su alrededor. Con la combinación de este poder con un esfuerzo físico pueden reparar el daño completamente. Se ha sugerido que esta habilidad puede tener restricciones similares a la sanación con Progresión, donde es más sencillo curar a aquellos que han sido heridos hace poco tiempo, antes de que el alma se acostumbre a la herida. Aunque este poder puede parecer superfluo, es muy útil para un Forjador de Vínculos que quiere ayudar a reparar el daño causado por una guerra en su ciudad, restaurando obras de arte históricas o edificios a su estado anterior.
+Another power related to the Bondsmiths is the ability to create and view immersive real-seeming [[Visions\|visions]] of events real and imagined. It is uncertain whether this ability is exclusive to the Stormfather's Bondsmith. For the Stormfather's Bondsmith this is an ability that progresses with the ideals. Initially the Bondsmith is brought into the visions each storm without their consent, and the visions may be confusing and difficult to understand at first, acting out their actions inside the visions in real life as well. As time progresses, they later may cease having to act out the visions. While eventually the Bondsmith may enter a vision at any point, they may only bring along others who are inside of a highstorm.
+
+  Dalinar brings Venli into a vision
+Initially the Stormfather may grant a specific set of visions crafted by [[Honor\|Honor]] prior to his death to instruct a future Bondsmith in the fight against Odium. Eventually a Bondsmith may create their own visions for others to experience. These visions involve forging a Connection between a person and something of significance that they are Connected to, perhaps something they desire, a hope or a wish, such as when Dalinar grants Kaladin his vision of [[Tien\|Tien]]. The person that experiences the vision may need to be in a highstorm in order for the Bondsmith to create the Connection for a vision. These visions may occur in an instant, as time slows during the centerbeat of the highstorm.
+Those who see these visions are in some way experiencing the Spiritual Realm, but the Cognitive Realm is also involved to provide a framework for what appears and allow for Spiritual Realm to be comprehensible. Any intelligent personalities that exist in the vision are comprised of Investiture that has interacted with the Cognitive Realm in order to come to life and be capable of intelligent response. This power can allow someone to interact with historic figures long dead or speak to deceased loved ones for a moment or two. When these visions show people who have passed into the Beyond, it is ambiguous whether these minds are truly allow the dead to speak from the Beyond or whether the Stormfather's knowledge and Connection allows him to convincingly mimic their personalities.
+A similar ability that the Stormfather can grant is riding the storms, in which a person can join him and view the land from the perspective of a highstorm as it passes over the continent of Roshar. The person riding the storm with the Stormfather may be capable of seeing even more details of the terrain below the highstorm than the Stormfather himself. It appears that his bonded Radiant may exercise even more control over these visions than a normal person allowed to ride the storm. When his Radiant rides the storm, the Radiant may control it if the Stormfather allows them, and can even go backwards against the force of the storm, although this pains the Stormfather greatly. When in this state a Bondsmith is even capable of accepting a Radiant's oath in the Stormfather's stead. They are also capable of communicating with those in the highstorm, though those words will not be spoken out loud via their physical body. The ability of the Sibling's Bondsmith to see and comprehend the mechanisms of [[Urithiru\|Urithiru]] may be related, it represents a similar expansion of the Radiant's perception and knowledge of the Tower in a similar way to someone riding the highstorm. It also allows for the Radiant to speak through the veins of garnet in the Tower, much as the Sibling does.
+
+### Tension
+The Surge of Tension can be manipulated by the Surgebinder to alter the stiffness of an object, rendering flexible materials rigid. This is a power that has not been explored greatly and it is uncertain how relevant its applications are to the Bondsmiths, although used in conjunction with other abilities it is partially responsible for the Bondsmith ability to repair inanimate objects.
+
+### Other abilities
+
+>“*Are there others, though? Spren like you, or the Nightwatcher? Spren that are shadows of gods?*”
+\-Dalinar Kholin to the Stormfather[46]
 
 
-Otro poder exclusivo de los Forjadores de Vínculos es su habilidad de trabajar de forma conjunta con otros Radiantes para crear efectos que ninguno de los dos puede obtener de forma independiente. Un Forjador tiene una interacción exclusiva con cada orden Radiante, y puede que cada una de estas habilidades cambie en función del spren Forjador. Cuando se utiliza este poder conjunto, ambos Radiantes sienten un tirón o una sensación de atracción entre ellos. Estos poderes conjuntos parece que solo están activos cuando los Radiantes están físicamente juntos, aunque puede haber alguna forma de evitar este requisito. Se desconoce de dónde proviene esta habilidad, aunque podría tratarse de la resonancia de los Forjadores de Vínculos.
+Each Bondsmith shares a [[Nahel bond\|Nahel bond]] with one of three unique spren: the [[Stormfather\|Stormfather]], the [[Nightwatcher\|Nightwatcher]], and the [[Sibling\|Sibling]]. These spren are all sort of the same type, but obviously have substantial differences between them as well. The sheer power of the various Bondsmith spren allows them to violate the normal rules governing the true spren bonded to other orders. The Bondsmith spren are more omnipresent and can be located great distances from their Radiants while still granting them powers and speaking directly into their minds, as they are much more widely Connected than other Radiant spren. Bondsmiths typically do not have access to a [[Shardblade\|Shardblade]]. It is possible for the Stormfather and the Nightwatcher to become Shardblades, though this is highly implausible. It is also possible to force the essence of their bonded spren into the Physical Realm in a way that allows them to activate Oathgates. This is an uncomfortable and even dangerous thing to do, perhaps risking killing the spren, and has only been observed with the Stormfather. However, like typical Radiant spren, Bondsmith spren are still vulnerable if their bonded Radiant betrays their oaths. While Bondsmiths do not have access to a Blade, there is evidence that they may manifest a suit of Shardplate, perhaps comprised of gloryspren, although this is not confirmed. Additionally, following the death of Honor, the Stormfather's Bondsmith has the ability to release Odium from his confinement if they so choose, as they hold a large remnant of Honor's power and authority.
 
-**Tejedores de Luz**: El Forjador de Vínculos del Padre Tormenta puede trabajar en tándem con un Tejedor de Luz para crear una proyección tridimensional de Roshar tal y como la vio su spren la última vez que una alta tormenta pasó sobre el continente. Este mapa se comporta como cualquier otra ilusión creada por un Tejedor de Luz, su apariencia puede ser alterada o ampliada. Puede derrumbarse si el Radiante se distrae o si la ilusión es tocada, aunque trata el contacto con el Forjador de Vínculos de forma diferente, acercándose en su lugar.
-**Nominadores de lo Otro**: Los Forjadores de Vínculos pueden aumentar la fuerza de una Nominación, haciéndola lo suficientemente fuerte como para mover una gran cantidad de personas entre planetas.
-## Historia
-### Antiguos Forjadores de Vínculos
-El origen de los Forjadores de Vínculos está menos claro que el de otras órdenes. Aunque normalmente el término se utiliza para referirse a la orden de Caballeros Radiantes, el término Forjador de Vínculos es anterior a la orden, aunque probablemente para referirse a una persona con poderes parecidos. Un antiguo Forjador de Vínculos unió las Potencias y trajo a los refugiados humanos de Ashyn a Roshar. Tras la destrucción de ese mundo, Honor impuso restricciones a los poderes de los Forjadores de Vínculos. El Forjador Ishar fue el fundador del Juramento, y también un Forjador descubrió o creó el vínculo Nahel. Este antiguo Forjador de Vínculos podría haber sido Ishar, aunque se desconoce que le garantizó sus poderes de Forjador antes de convertirse en Heraldo.
+  Dalinar summoning <<Honor's Perpendicularity\|Honor's Perpendicularity>>
 
-### Forjadores de Vínculos históricos
-La orden de Radiantes conocidos como Forjadores de Vínculos fue creada por el Heraldo [[Ishar\|Ishar]] durante el ciclo de las [[Desolaci%C3%B3n\|Desolaciones]], y también fue el patrón de la orden. Los Forjadores de Vínculos, junto con el resto de órdenes, ayudaron en la lucha de cada Desolación contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Ya que convertirse en Forjador implica convencer a uno de los tres spren únicos a vincularse con una persona, la orden normalmente no tenía más de tres miembros, lo que la convierte en la orden más pequeña de todas. Además, este número ha ido cambiando a lo largo de los siglos y ha habido épocas con un único Forjador de Vínculos. Eso no quiere decir que no hubiera otros que se consideraran Forjadores de Vínculos. Los Forjadores podían tener escuderos, aunque no parece que fuera lo habitual. Además, los Forjadores estaban rodeados por asistentes y protectores, que se consideraban miembros de la orden. Algunos incluso juraban Ideales de Forjador de Vínculos a pesar de que esto no les fuera a proporcionar ningún poder. Algunos consideraban que esto era la forma más pura de Radiancia, ya que los juramentos se pronunciaban por amor a los Ideales mismos. El principal cometido de los Forjadores de Vínculos era la unidad y la paz, presumiblemente entre y durante las Desolaciones. En lugar de utilizar sus poderes en combate, ayudaban a resolver los conflictos entre naciones y a poner en funcionamiento gobiernos en regiones donde no existían previamente. Los Forjadores también contribuían a mantener la paz entre las diferentes órdenes, que a menudo se enfrentaban y peleaban entre sí.
-
-### La Traición
->“*No estamos seguros del efecto que tendrá sobre los parsh. Como mínimo, debería impedirles alcanzar las formas de poder. Melishi confía en que funcione, pero Naze-hija-Kuzodo advierte de posibles efectos secundarios.*”
-\-Del cajón 30-20, quinta esmeralda[69]
+As Bondsmiths are deeply Connected to powerful spren that serve as sources of Investiture, unlike other Radiants they are capable of pulling through Investiture on demand, each spren allowing access to its associated Light. They may use this ability to overcharge another Radiant with Light directly. This process is physically taxing for the Bondsmith. However, as most Radiants primarily make use of Stormlight, this is perhaps most useful for the Stormfather's Bondsmith, although the other Bondsmiths can still generate their respective Lights for personal use. It is uncertain how exactly this is done, but it is not necessary for the Bondsmith to be holding some Light already in order to pull more over into the Physical Realm. The exact mechanics of this ability are unknown, but it seems most likely that they are pulling it directly from the Spiritual Realm.
+Another power that has only become available to a Bondsmith following Honor's demise is the ability to open a full perpendicularity, seemingly an expansion of the ability to generate Investiture. This can be opened fully or partially. If the Bondsmith's perpendicularity is forcefully closed, they are able to open another. Of the three Radiants, only the Stormfather's and the Sibling's Bondsmith have been confirmed to be able to summon Honor's Perpendicularity, which itself is typically mobile. It is uncertain if the Nightwatcher's Bondsmith can also summon perpendicularities, although the fact that the wielder of the Blade of the Bondsmiths may also summon a perpendicularity lends credence to the possibility that they may do the same.
 
 
-Los Forjadores de Vínculos siguieron existiendo tras el [[%C3%9Altima Desolaci%C3%B3n\|Aharietiam]], pero su papel tras esta Desolación no está claro. Probablemente continuaron ayudando en la lucha contra los [[Cantor\|cantores]] que quedaban. En la época de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], solo existía un Forjador de Vínculos auténtico, Melishi vinculado al Hermano. Como parte del plan para derrotar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], Melishi utilizó sus poderes para encarcelar a la Deshecha en una [[Gema perfecta\|gema perfecta]], y posiblemente estuvo presente en la captura de [[Re-Shephir\|Re-Shephir]]. Esta acción dañó profundamente al Hermano, dejándolo incapaz de escuchar el Ritmo de la Torre y de crear su propia luz. Poco después tuvieron lugar los acontecimientos conocidos como la Traición, y desconocemos el destino que sufrió Melishi, aunque su vínculo con el Hermano terminó antes de la Traición. Sin embargo, sabemos que la orden de los Forjadores de Vínculos se disolvió en ese momento.
-
-  Dalinar pronunciando sus Juramentos ante el Padre Tormenta
-### Refundación
-Ningún Forjador de Vínculos prestó juramento durante siglos, a pesar de que el Padre Tormenta recibió, en los últimos días de vida de Honor, la tarea de elegir a un nuevo Forjador. No está del todo claro con qué frecuencia sucedía esto, pero en el transcurso del último milenio el Padre Tormenta eligió a menos de diez personas a las que mostrar las visiones. En 1167 Gavilar Kholin había empezado a experimentar las visiones y había desarrollado un vínculo indefinido con el Padre Tormenta. Este vínculo se rompió cuando el rey fue asesinado por [[Szeth\|Szeth]] siguiendo las órdenes de los oyentes. En algún momento de los años siguientes, el Padre Tormenta eligió a Dalinar, y en el año 1173 ya recibe visiones propias. A principios del año 1174 jura los dos primeros Ideales y se vincula formalmente con el Padre Tormenta.
-
-### Auténtica Desolación
-Durante los siguientes meses, Dalinar se dedicó a actuar de forma muy parecida a los antiguos Forjadores de Vínculos, creando una coalición de monarcas para hacer frente a la amenaza de los Portadores del Vacío, uniendo a los monarcas vorin con los azishianos y las naciones colindantes. Si bien hubo algunos desafíos a su autoridad, Dalinar consiguió coordinar con éxito la defensa de [[Batalla de la Explanada Thayle%C3%B1a\|Ciudad Thaylen]] al jurar el Tercer Ideal, aprender a abrir la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] y atrapar a [[Nergaoul\|Nergaoul]] gracias a sus habilidades como Forjador. Dalinar pudo hablar en nombre de Honor y retar a Odium a un duelo de campeones, que éste finalmente aceptó antes de huir al final de la batalla.
-Durante el siguiente año, Dalinar fue el único Forjador con un vínculo. Esta situación cambió el año 1175 cuando el Hermano se fijó en los fabriales de Navani Kholin y puso fin a su reclusión para hablar con ella y con otros humanos durante la la captura de Urithiru por parte de los cantores. Aunque al principio se mostraba reacio a considerar el vínculo con otro humano, a quienes el Hermano no consideraba dignos de confianza, finalmente eligió vincularse con Navani Kholin antes de que Rabeniel pudiera transformarlo completamente en un Deshecho. Mediante sus conocimientos de los Ritmos y la luz, Navani fue capaz de invocar luz de torre y restaurar así las funciones de Urithiru y reparar el daño que había sufrido el Hermano por la intervención de los Fusionados. Desconocemos si este vínculo ha restaurado por completo al Hermano, recuperando su antiguo ser, o si el daño provocado por la captura de Ba-Ado-Mishram aún permanece.
-
-## Forjadores de Vínculos conocidos
-[[Melishi\|Melishi]] (antiguo Forjador de Vínculos, vinculado al [[El Hermano\|Hermano]])
-[[Dalinar Kholin\|Dalinar Kholin]] (vinculado al [[Padre Tormenta\|Padre Tormenta]])
-[[Navani Kholin\|Navani Kholin]] (vinculada al [[Hermano\|Hermano]])
-## Citas
->“*En cuanto a los Forjadores de Vínculos, solo tenían tres miembros, un número que no era extraño en ellos. Tampoco buscaban aumentarlo con grandes obligaciones, pues durante los tiempos de Madasa, solo uno de su orden estaba acompañado continuamente de Urithiru y sus tronos. Se entendía que sus spren eran específicos, y convencerlos de que crecieran hasta la magnitud de las otras órdenes se consideraba sedicioso.*”
-\-Palabras radiantes, capítulo 16, página 14[1]
+In a somewhat unique expression of their power, a Bondsmith may use their control over both their Surges as well as their unique affinity for Connection to repair inanimate objects. During this process they may sense and hear the Cognitive aspects of certain damaged objects around them. With some combination of physical effort, as well as this power, they can fix the damage completely. It has been suggested that this ability may have restrictions to Progression-based healing wherein it is easier to heal those who are recently wounded, before the soul becomes accustomed to the wound. While this ability may seem niche, it is useful for a Bondsmith wishing to assist very directly in the repair of cities damaged in battle, allowing the Bondsmith to restore historical works of art and buildings to their former state.
 
 
->“*Entonces [[Melishi\|Melishi]] se retiró a su tienda y decidió destruir a los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] al día siguiente, aunque esa noche presentó una estratagema diferente, relacionada con las habilidades únicas de los Forjadores de Vínculos; y como tenía prisa, no pudo hacer ninguna relación concreta de su proceso; estaba relacionado con la misma naturaleza de los Heraldos y sus deberes divinos, un atributo que solo los Forjadores de Vínculos podían abordar.*”
-\-Palabras radiantes, capítulo 30, página 18[85]
+Another power unique to the Bondsmiths is their ability to work jointly with other Radiants to create effects that neither could manage independently. A Bondsmith has a unique interaction with the Radiants of each order, and it may even be that the specifics of these joint abilities vary between each Bondsmith spren. When a joint power may be used, both Radiants feel a tugging or leaping sensation towards one another. These joint powers only appear to be active when the Radiants are physically together, although there may be some way around this requirement. It is uncertain where this power comes from, although it may be the Resonance of the Bondsmiths.
+
+**Lightweavers**: The Stormfather's Bondsmith may work in tandem with a Lightweaver to create a three-dimensional projection of Roshar as it appeared to the Stormfather the last time a highstorm passed over the continent. This map behaves like any other illusion that is created by a Lightweaver, its appearance may be altered or enlarged. It may collapse if the Radiant is distracted or if the illusion is touched, though it treats touching the Bondsmith differently, instead reaching towards them.
+**Elsecallers**: Bondsmiths can increase the strength of an Elsecalling, making it strong enough to move a large amount of people between planets.
+## History
+### Ancient Bondsmiths
+The origin of the Bondsmiths is less clear than other orders. While the term is generally used to refer to the order of Knights Radiant, the term Bondsmith predates the order, seemingly though still referring to a person with a similar powerset. An ancient Bondsmith bound Surges and brought the human refugees from Ashyn to Roshar. Following the destruction of that world, Honor placed limits on the powers of the Bondsmiths. The Bondsmith Ishar served as founder of the Oathpact, and a Bondsmith discovered or created the Nahel bond. This ancient Bondsmith may have been Ishar, although it is uncertain what granted him the powers of a Bondsmith prior to becoming a Herald.
+
+### Historical Bondsmiths
+The order of Radiants known as the Bondsmiths was founded by the Herald [[Ishar\|Ishar]] during the cycle of [[Desolation\|Desolations]], who also served as the order's patron. The Bondsmiths along with the other orders helped in the fight each Desolation against the [[Voidbringer\|Voidbringers]]. As becoming a Bondsmith is contingent on convincing one of only three unique spren to bond with a person, the Bondsmiths commonly had no more than three full members, making them the smallest of the orders. Additionally, this number varied over the centuries and there have been times where there was only one Bondsmith. That is not to say that there were no others who considered themselves to be Bondsmiths. Bondsmiths could have squires themselves, although this may not have been the norm. Additionally, the Bondsmiths were surrounded by attendants and protectors, who were generally considered to be members of the order. Some even swore Bondsmith oaths as well, despite the fact that this would grant them no powers. Some considered this to be the purest form of Radiance, for the oaths were sworn for the love of the oaths themselves. The Bondsmith's focus was generally on unity and peacemaking, presumably during and between Desolations. Instead of using their powers in an active combat role, they helped resolve disputes between nations and set up functioning governments in regions where none existed. Bondsmiths also helped keep the peace between the various orders of Radiants, who often clashed and squabbled with one another.
+
+### Recreance
+>“*We are uncertain the effects this will have on the parsh. At the very least, it should deny them forms of power. Melishi is confident, but Naze-daughter-Kuzodo warns of unintended side effects.*”
+\-Drawer 30-20, fifth emerald[69]
 
 
-## Notas
+The Bondsmiths persisted following [[Aharietiam\|Aharietiam]], but their post-Desolation role is unclear. They likely continued to help in the struggles against the remaining [[Singer\|singers]]. By the time of the [[False Desolation\|False Desolation]], only one true Bondsmith, Melishi, existed sworn to the Sibling. As a part of the plan to defeat [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], Melishi used his powers to imprison the Unmade in a [[Perfect gemstone\|Perfect gemstone]], and likely assisted with the capture of [[Re-Shephir\|Re-Shephir]]. This action damaged the Sibling, leaving them unable to hear the Rhythm of the Tower and create their own Light. The events of the Recreance followed shortly thereafter, and the fate of Melishi is uncertain, although his bond to the Sibling was ended prior to the Recreance. It is known however that the order of Bondsmiths was disbanded at this point.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · |
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+  Dalinar swearing his Oaths before the Stormfather
+### Refounding
+No known Bondsmiths were sworn for centuries, although the Stormfather was given the task in Honor's final days of choosing a new Bondsmith. It is uncertain how often this happened, but ultimately over the course of the following millenia, the Stormfather chose fewer than ten people to show the visions. By 1167 Gavilar Kholin had begun seeing visions and had developed at least a tentative bond with the Stormfather. This bond ended when the king was assassinated by [[Szeth\|Szeth]] on the orders of the listeners. At some point in the intervening years, his brother Dalinar was chosen by the Stormfather and by 1173 he had begun receiving visions of his own. At the start of 1174 he swore the first two Ideals and formally bonded the Stormfather.
+
+### True Desolation
+Over the next several months Dalinar spent his time acting very similarly to historical Bondsmiths, uniting a coalition of monarchs against the Voidbringer threat, bringing together the Vorin monarchs with the Azish and their surrounding countries. While there were some challenges to his authority, Dalinar managed to successfully coordinate the defense of [[Battle of Thaylen Field\|Thaylen City]] by swearing the third Ideal and learning to open [[Honor's Perpendicularity\|Honor's Perpendicularity]] and trap [[Nergaoul\|Nergaoul]] using his Bondsmith abilities. As Bondsmith, Dalinar was able to speak on Honor's behalf and challenge Odium to a duel of champions, which he accepted, before fleeing at the end of the battle.
+Dalinar remained the only bonded Bondsmith for the following year. This changed in 1175 when the Sibling took notice of Navani Kholin's fabrials and ended their seclusion to speak to her and a few humans as the singers captured Urithiru. While initially unwilling to consider another bond with a human, who the Sibling found to be untrustworthy, ultimately the Sibling chose to bond Navani Kholin before they could be fully transformed into an Unmade by Raboniel. Using her knowledge of the rhythms and Light she was able to summon Towerlight to restore the functions of Urithiru and repair the damage inflicted on the Sibling by the Fused's interference. It is uncertain if this bond has fully restored the Sibling to their previous self or if the damage caused by the capture of Ba-Ado-Mishram remains.
+
+## Known Bondsmiths
+[[Melishi\|Melishi]] (Ancient Bondsmith, bonded to the [[Sibling\|Sibling]])
+[[Dalinar Kholin\|Dalinar Kholin]] (bonded to the [[Stormfather\|Stormfather]])
+[[Navani Kholin\|Navani Kholin]] (bonded to the Sibling)
+## Quotes
+>“*But as for the Bondsmiths, they had members only three, which number was not uncommon for them; nor did they seek to increase this by great bounds, for during the times of Madasa, only one of their order was in continual accompaniment of Urithiru and its thrones. Their spren was understood to be specific, and to persuade them to grow to the magnitude of the other orders was seen as seditious.*”
+\-Words of Radiance, chapter 16, page 14[1]
+
+
+>“*So [[Melishi\|Melishi]] retired to his tent, and resolved to destroy the [[Voidbringer\|Voidbringers]] upon the next day, but that night did present a different stratagem, related to the unique abilities of the Bondsmiths; and being hurried, he could make no specific account of his process; it was related to the very nature of the Heralds and their divine duties, an attribute the Bondsmiths alone could address.*”
+\-Words of Radiance, chapter 30, page 18[85]
 
 
 
-https://es.coppermind.net/wiki/Order_of_Bondsmiths
+
+https://coppermind.net/wiki/Order_of_Bondsmiths

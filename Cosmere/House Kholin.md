@@ -1,226 +1,227 @@
-Elemento de lista de viñetas
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Casa Kholin**|
+|**House Kholin**|
 |-|-|
 ||
-|**Tipo**|Familia|
-|**Patria**|[[Principado Kholin\|Principado Kholin]], [[Alezkar\|Alezkar]]|
-|**Era**|[[Era de la Soledad\|Era de la Soledad]]|
-|**Mundo de origen**||
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Family|
+|**Homeland**|[[Kholin princedom\|Kholin princedom]], [[Alethkar\|Alethkar]]|
+|**Era**|[[Era of Solitude\|Era of Solitude]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-La **casa Kholin** (/ˈχolɪnˈ/) es la familia gobernante del reino de [[Alezkar\|Alezkar]] en [[Roshar\|Roshar]]. El [[Principado Kholin\|principado Kholin]] es su hogar ancestral, siendo [[Kholinar\|Kholinar]] su capital.
+**House Kholin** (/ˈχolɪnˈ/) is the ruling family of the kingdom of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. [[Kholin princedom\|Kholin princedom]] is their ancestral home, with [[Kholinar\|Kholinar]] being their capital city.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Guerra de unificaci.C3.B3n]] 
-1. [[#Gobierno de Alezkar]] 
-1. [[#Guerra de la Venganza]] 
-1. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
-
-
-2 Milicia. [[#Milicia]] 
-
-2. [[#La Guardia del Rey]] 
-2. [[#Guardia de Cobalto]] 
-2. [[#Puente Cuatro]] 
-2. [[#Guardia de la Muralla de Kholinar]] 
+1. [[#Unification War]] 
+1. [[#Rule of Alethkar]] 
+1. [[#War of Reckoning]] 
+1. [[#The True Desolation]] 
 
 
-3 Esquirlas. [[#Esquirlas]] 
-4 Iconografía. [[#Iconograf.C3.ADa]] 
-5 Árbol genealógico. [[#.C3.81rbol geneal.C3.B3gico]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+2 Military. [[#Military]] 
+
+2. [[#King.27s Guard]] 
+2. [[#Cobalt Guard]] 
+2. [[#Bridge Four]] 
+2. [[#Kholinar Wall Guard]] 
 
 
-## Historia
-Como todos los príncipes alezi, los Kholin son descendientes de Sadees [[Hacedor de Soles\|Hacedor de Soles]], quien historicamente unificó los estados en guerra que formaban el reino caído de Alethela unos 500 años antes de la Verdadera Desolación, alrededor del año 670. Él tubo diez hijos, ninguno de los cuales tenía derecho al trono tras su muerte, lo que llevó a luchas internas y a la creación de los principados y las diez casas. Los Kholin son descendientes de uno de estos hijos, quien actuó como projenitor del árbol genealógico de los Kholin. El nombre de ese hijo no se sabe por el momento.
-El título de alto príncipe Kholin se ha mantenido por 34 generaciones.
-En un año desconocido, el padre de Dalinar y Gavilar nació en una parte relativamente pobre e insignificante de la familia Kholin. No era uno de los principales contendientes para el título de alto príncipe. En algun momento de su juventud, participó en alguna guerra.
-En 1120, nació [[Dalinar Kholin\|Dalinar Kholin]], [[Gavilar Kholin\|Gavilar]] nació de los mismos padres en un año desconocido. Ambos nacieron en el cuarto dahn. Debido a que su padre fue incapaz de criarlos ya que tenía heridas permanentes en la cabeza provocadas en un combate, y que su madre murió cuando eran jóvenes, los dos hermanos tubieron que crecer por ellos mismos.
-A pesar de haber existido por muchas generaciones, la familia Kholin no empezó su expansión hasta alrededor de 1139, cuando Gavilar y Dalinar Kholin lideran una conquista contra los otros [[Altos pr%C3%ADncipes\|altos príncipes]] de Alezkar, eventualmente consolidando la nación entera en un solo reino en el año 1148.
+3 Shards. [[#Shards]] 
+4 Iconography. [[#Iconography]] 
+5 Family Tree. [[#Family Tree]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
-### Guerra de unificación
-En 1141, Gavilar lideró un ataque a Rathalas con el objetivo de tenerla bajo su mandato. Durante el asedio, Dalinar mató al [[Padre de Tanalan\|brillante señor Tanalan]], consiguiendo así conquistar la ciudad y traer la hoja esquirlada [[Juramentada (hoja esquirlada)\|Juramentada]] en la posesión de los Kholin.
-Cuando llevaban un año en guerra, la casa Kholin buscaba aliados, y los encontró en Toh y Evi, un brillante señor occidental y su hermana. Evi se casó en la famila Kholin para asegurar una alianza, aunque se quedaron solo como prometidos por varios años.
-Dalinar lideró un ataque contra el [[Kalanor\|brillante señor Kalanor]], uno de los mayores enemigos de Gavilar, los dos habían estado manipulandose mutuamente durante dos años antes del ataque. Después de un periodo atacando ciudades más pequeñas en su territorio para debilitar su autoridad, Dalinar consiguió vencer a Kalanor, reclamar sus esquirlas, y traer su region en Alezkar occidental bajo el reinado Kholin.
 
-### Gobierno de Alezkar
-Gavilar Kholin tomó la corona alezi, y se casó con [[Navani\|Navani]], engendrando a [[Jasnah\|Jasnah]] en 1139, y [[Elhokar\|Elhokar]] en 1147; mientras Dalinar, tubo a [[Adolin\|Adolin]] en Chachakach 1150 y a [[Renarin\|Renarin]] en 1154 con Evi.
-Alrededor del año 1150, Gavilar envió a Dalinar a la frontera de Alezkar para que luchara contra los herdazianos y veden como gesto de la fuerza de los Kholin, y para proteger la seguridad en la frontera. Esto era de extrema importancia debido al incremento de agresión de Herdaz bajo el nuevo monarca. Esto le ayudó a convertirse uno de los mejores generales de Gavilar, y también le dió forma a la frontera moderna de Alezkar con Herdaz.
-Alrededor del año 1155, Dalinar Kholin lideró un ataque contra Akak y Akak Reshi, y tomó la isla para Alezkar.
-Empezando en un año desconocido, Jasnah renunció al vorinismo y se convirtió en una infame hereje y académica a lo largo de todo Alezkar. Gavilar intentó casar a Jasnah con [[Meridas Amaram\|Meridas Amaram]] hasta su muerte, aunque esto nunca ocurrió.
-A pesar del completo control que los Kholin ganaron sobre Alezkar, la gente de Rathalas continuaba questionando su reinado y rebelandose contra ellos. Gavilar intentó resolver el conflicto diplomáticamente, pero ninguno de sus intentos consiguieron calmar la rebelión.
-En el año 1163, Gavilar envió a Dalinar y Sadeas a eliminar la rebelión de Rathalas, ya que no le quedaba más opción. Dalinar sugirió una solución pacífica, y el [[Tanalan\|hijo de Tanalan]] actuando como si aceptara la tregua, engañó a Dalinar y lo enterró debajo de escombros. Furioso, Dalinar quemó la ciudad de Rathalas entera, matando a todos sus habitantes. Al quemar Rathalas también provocó la muerte de Evi Kholin. La familia Kholin se esforzó para encubrir la verdad detrás de la muerte de Evi, y la Destrucción de Rathalas.
-En el año 1166, Gavilar y Dalinar se cruzaron con una patrulla parshendi cerca de las Llanuras Quebradas.
-Gavilar intentó hacer un tratado con los parshendi, aunque durante una fiesta en el Palacio de Kholinar, fue atacado y asesinado por [[Szeth\|Szeth]], quién había sido contratado por los parshendi para evitar que Gavilar trajera de vuelta sus antiguos dioses. Gavilar dió la esfera de anti-luz del vacío a Szeth, poco antes de morir por sus heridas.
-En un periodo previo a su asesinato, Gavilar empezó a entrar en contacto con [[Thaidakar\|Thaidakar]], [[Nale\|Nale]] y [[Kalak\|Kalak]], por razones desconocidas y también se desconoce hasta que punto llegaba la relación. También se las apañó para encontrar o crear anti-luz del vacío.
+## History
+Like all Alethi princes, the Kholins are descended from the [[Sunmaker\|Sunmaker]] Sadees, who historically unified the warring states that made up the fallen kingdom of Alethela around 500 years before the True Desolation, around the year 670. He had ten sons, none of which were given the right to the throne upon death, leading to infighting and the creation of the Princedoms and the Ten Houses. The Kholins are descended from one of these ten sons, who acted as the progenitor of the Kholin family tree. The name of said son is currently unknown.
+The title of the Kholin Highprince has been held by 34 generations.
+In an unknown year, Dalinar and Gavilar's father was born of a rather poor and insignificant branch of the Kholin family, and wasn't a prime contender for the highprince throne. At some point during his youth, he participated in some war
+In 1120, [[Dalinar Kholin\|Dalinar Kholin]] was born, [[Gavilar Kholin\| Gavilar]] was born to the same parents in an unknown year. Both were born into the 4th Dahn. Due to their father being left incapable of raising them due to head injuries sustained during combat, and their mother dying when they were children, the two brothers had to raise themselves.
+Despite having existed for many generations, the Kholin family did not begun their expansion until around roughly 1139, when Gavilar and Dalinar Kholin led a conquest against the other [[Highprince\|Highprinces]] of Alethkar, eventually consolidating the whole nation into a kingdom in the year 1148.
 
-### Guerra de la Venganza
-Después del [[Szeth\|asesinato]] de Gavilar en 1167, Elhokar, como único heredero masculino, le succedió en el trono. Un poco antes de la muerte de su padre, se casó con [[Aesudan\|Aesudan]] y tubieron un único hijo, [[Gavinor\|Gavinor]], en los primeros años de la [[Guerra de la Venganza\|Guerra de la Venganza]]. En respuesta al asesinato de Gavilar, el Pacto de la Venganza fue firmado por los diez altos príncipes, incluyendo Dalinar Kholin, empezando así la Guerra de la Venganza. Más tarde, Elhokar, Dalinar, Adolin y Renarin se trasladaron a las [[Llanuras Quebradas\|Llanuras Quebradas]] para ayudar a la guerra, y con esto el centro de poder se movió a las Llanuras Quebradas. Eventualmente, Navani también se trasladó a las Llanuras Quebradas, después de varios años de permanecer en Kholinar para ayudar a Aesudan.
-Después de que Navani se fuera, Aesudan empezó a caer en un abismo de decadencia, y fue corrompida por [[Ashertmarn\|Ashertmarn]] y [[Yelig-nar\|Yelig-nar]]. Se entregó a copiosos banquetes, deleitándose en excesos, incrementando impuestos, y permitiendo que la comida enviada por los granjeros para los soldados de las Llanuras Quebradas se pudriera. Esto hizo que los habitantes se volvieran contra ella, y provocó que la ciudad cayera en decadencia.
-Szeth, el asesino de Gavilar, hizo un intento de asesinar a Dalinar bajo las órdenes de [[Taravangian\|Taravangian]]. Esto falló debido a la ayuda de Adolin y [[Kaladin\|Kaladin]].
-En un intento de unir los altos príncipes, Dalinar Kholin propuso un asalto conjunto en las Llanuras Quebradas. Los ejércitos de Aladar, Roion y Sebarial decidieron hacer equipo con él en el asalto.
-En Ishishach de 1173, los planes se llevaron a cabo y apretaron hasta llegar a Narak durante el Llanto. Antes de la batalla, al oír que los parshendi estaban obteniendo la forma de tormenta, Dalinar ordenó a Shallan Davar encontrar la Puerta Jurada a Urithiru, en caso de que la batalla fuera mal para ellos. Renarin la acompañó, así como unos cuantos eruditos.
-Durante la Batalla de Narak, Dalinar se quedó en la cuarta meseta para dirigir la batalla. Adolin fué a primera línea de batalla, y se enfrentó en duelo contra Eshonai. Esto terminó en los dos cayendo en un absimo, pero Adolin fue salvado por Cikatriz y Drehy. Eshonai se desvaneció y más tarde se ahogó.
-Szeth fue enviado una vez más a asesinar a Dalinar, pero una vez más fracasó debido a la ayuda de Kaladin, quién luchó contra él y le venció.
-Hacia el final de la Guerra de la Venganza, Dalinar empezó a ver visiones que [[Honor\|Honor]] había dejado, lo que le llevó a crear un vínculo Nahel con el [[Padre Tormenta\|Padre Tormenta]] y convertirse en un Forjador de Vínculos.
+### Unification War
+In 1141, Gavilar led an attack on Rathalas in order to bring it under their rule. During the siege, Dalinar slew [[Tanalan's father\| Brightlord Tanalan]], successfully conquering the city and bringing the shardblade [[Oathbringer (Shardblade)\| Oathbringer]] under Kholin ownership.
+A year into the war, House Kholin looked for allies, and found them in Toh and Evi, a western Brightlord and his sister. Evi married into the Kholin family in order to secure an alliance, though they would remain merely betrothed into several years later.
+Dalinar led an attack against [[Kalanor\| Brightlord Kalanor]] , one of Gavilar's major enemies, who he had been maneuvering politically with each other for the two years prior to the attack. After a period of attacking smaller cities in his territory in order to weaken his authority, Dalinar managed to defeat Kalanor, claim his shards, and brought his region of western Alethkar under Kholin rule.
 
-### La Auténtica Desolación
-En 1173, durante la Guerra de la Venganza, Navani intentó cortejar a Dalinar, aludiendo al interés del uno por el otro cuando eran jóvenes, el cual solo había decaído porque Dalinar se hizo a un lado para favorecer a Gavilar. Los [[Fervoroso\|fervorosos]] no aprovaban este cortejo pero siguieron adelante igualmente. Culminó en su matrimonio en [[Urithiru\|Urithiru]] por el [[Padre Tormenta\|Padre Tormenta]], ya que ningún fervoroso estaba dispuesto a presidir las nupcias. Más tarde, Dalinar fue nombrado alto rey, renunciando a su principado y nombrando a Adolin alto príncipe.
-Adolin asesinó a [[Torol Sadeas\|Torol Sadeas]], el patriarca de la casa Sadeas, en los corredores de Urithiru, y escondió las pruebas que lo involucrarían con la muerte. Esto llevó a una inestabilidad temporal en la casa Sadeas, y la elección del alto mariscal Amaram como regente y heredero del título de la casa por Ialai Sadeas. Esto consolidó la división con los Kholin que duraría un año entero hasta la muerte de Ialai. Este asesinato también llevó al descubrimiento de [[Re-Shephir\|Re-Shephir]] escondida en Urithiru.
-Después de ganar acceso a Urithiru por las Puertas Juradas, Dalinar fundó la [[Coalici%C3%B3n de monarcas\|Coalición de monarcas]] en un intento de organizar una resistencia contra el ejército de Odium. Dalinar, Navani y Jasnah son líderes de esta coalición. El primer monarca al que extendieron una mano fue a [[Yanagawn\|Yanagawn]] del Imperio de Azir, aunque inicialmente no estaban convencidos y declinaron la invitación.
-Intentaron aliarse con la reina Fen de Thaylenah después de la negación de Yanagawn, aunque ella también rehusó las invitaciones al principio. Los gobernantes de Yezier, Tashikk y Tukar también declinaron. Ya que Taravangian de Jah Keved y Kharbaranth acceptó la invitación, y fue el primero en hacerlo, rápidamente se convirtió en un miembro importante de la coalición.
-El [[Asedio a Kholinar\|Asedio a Kholinar]] tomó al vida de Elhokar a las manos de [[Moash\|Moash]], pero su hijo y heredero [[Gavinor\|Gavinor]], fue rescatado por [[Cikatriz\|Cikatriz]] y [[Drehy\|Drehy]]. Casi al mismo tiempo de la muerte de Elhokar, su esposa murió también, siendo consumida por el poder de [[Yelig-nar\|Yelig-nar]], con quien había hecho un vínculo no hacía mucho y se había demostrado que era incapaz de controlar el abrumador poder del [[Deshecho\|Deshecho]]. [[Kaves Kholin\|Kaves Kholin]] también fue encontrado muerto durante el asedio.
-Después de la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], Dalinar pide a Adolin convertirse en rey, pero ya que él no se veía capaz, Jasnah fue coronada reina en su lugar.
-Cuando [[Shallan Davar\|Shallan Davar]] se convirtió en la aprendiz de Jasnah, en orden de protejer a la familia de Shallan de sus creditores y adversarios políticos, Jasnah orquestró un compromiso casual entre ella y Adolin. Esto eventualmente culmina en su matrimonio después de la Batalla de la Explanada Thayleña, uniendo las casas Kholin y Davar.
-Seis meses después de la Batalla de la Explanada Thayleña, Jasnah y Dalinar se encuentran con Relu-na y su hijo Talik para forjar una alianza con los reshi.
-Jasnah, Dalinar y Renarin fueron a una expedición militar en Emul contra Tukar y los Portadores del Vacío, para ganar emul como aliados. Mientras Adolin y Shallan fueron a [[Integridad Duradera\|Integridad Duradera]] como delegación para convencer a los honorspren de vincularse con humanos otra vez para crear Corredores del Viento. Al llegar, acusan y hacen un juicio contra Adolin por los crímenes de la Traición.
-Dalinar negocia con Odium, alcanzando un acuerdo en las condiciones del duelo de campeones basadas en el documento escrito por Jasnah y Sagaz, el cual decidirá el destino de Roshar.
+### Rule of Alethkar
+Gavilar Kholin took the Alethi crown, and married [[Navani\|Navani]], siring [[Jasnah\|Jasnah]] in 1139, and [[Elhokar\|Elhokar]] in 1147; while Dalinar, had [[Adolin\|Adolin]] on Chachakach 1150 and [[Renarin\|Renarin]] in 1154 with Evi.
+Around the year 1150, Gavilar sent Dalinar to the borders of Alethkar in order to fight Herdazians and Vedens as a gesture of Kholin strength, and to defend the security of the border. This was further needed due to the increased aggression of Herdaz under their new monarch. This helped him to become one of Gavilar's best generals, and also shaping the modern Alethkar-Herdaz border.
+Around the year 1155, Dalinar Kholin led an attack against Akak and the Akak Reshi, and claimed the island for Alethkar.
+Starting in an unknown year, Jasnah renounced Vorinism and became an infamous heretic and academic across all of Alethkar. Gavilar attempted to get Jasnah to marry [[Meridas Amaram\|Meridas Amaram]] until his death, although this never came to be.
+Despite the Kholins gaining unquestionable control over Alethkar, the people of Rathalas continued to question their rule and rebel against them. Gavilar attempted to solve the issue diplomatically, but none of his attempts were able to quell the rebellion.
+In the year 1163, Gavilar sent Dalinar and Sadaes to quell the rebellion in Rathalas, having run out of options. Dalinar suggested a peaceful solution, and [[Tanalan\|Tanalan's son]] seemingly accepted the truce, he tricked Dalinar and buried him under rubble. In his anger, Dalinar burned the entire city of Rathalas to the ground, killing all of its inhabitants. The burning of Rathalas also brought about the death of Evi Kholin. The Kholin family worked to cover up the truth of Evi's death, and of the Burning of Rathalas.
+In the year 1166, Gavilar and Dalinar came across a Parshendi patrol near the Shattered Plains.
+Gavilar attempted to make a treaty with the Parshendi, though during a party in Kholinar Palace, he was attacked by and assassinated by [[Szeth\|Szeth]], whom was hired by the Parshendi in order to stop Gavilar from bringing back their long gone gods. He gave the sphere of Anti-Voidlight to Szeth, shortly before dying from his wounds.
+At an unknown period before his assassination, Gavilar began to come into contact with [[Thaidakar\|Thaidakar]], [[Nale\|Nale]], and [[Kalak\|Kalak]], for unknown reasons and to an unknown extent. He also somehow managed to find or create Anti-Voidlight.
 
-## Milicia
-La casa Kholin tiene acceso a una milicia grande y poderosa, durante la Guerra de la Venganza y antes de la Batalla de Narak, estaban mayoritariamente estacionados en el campo de guerra Kholin en las Llanuras Quebradas. Después de la batalla y el comienzo de la Verdadera Desolación, la mayoría se transladó a Urithiru. Además, después de su estacionamiento en Urithiru, Dalinar Kholin, en su posición de Alto Príncipe de la Guerra, tomó completo control de los ejércitos de los otros altos príncipes, con la intención de evitar peleas innecesarias, esto incrementó el tamaño del ejército bajo el comando de la casa Kholin a unos 100,000.
-Con su proeza militar, fueron capaces de tomar las provincias desunificadas, trayendolas juntas bajo una sola Alezkar unificada después de años de conquista.
-El [[General Khal\|general Khal]] es el general de más alto rango del ejército Kholin. Dalinar a menudo confía en él para liderar sus ejércitos cuando él mismo no puede.
+### War of Reckoning
+Following Gavilar's [[Szeth\|assassination]] in 1167, Elhokar, as the sole male heir, succeeded the throne. Some time before his father's death, he had married [[Aesudan\|Aesudan]] and had a single son, [[Gavinor\|Gavinor]] in the early years of the [[War of Reckoning\|War of Reckoning]]. In response to the assassination of Gavilar, the Vengeance Pact was issued between the Ten Highprinces, including Dalinar Kholin, starting the War of Reckoning. Following this, the Elhokar, Dalinar, Adolin, and Renarin moved to the [[Shattered Plains\|Shattered Plains]] in order to assist in the war efforts, and with this the seat of power shifted to the Shattered Plains. Navani eventually moved to the Shattered Plains as well, after several years of remaining at Kholinar to assist Aesudan.
+After Navani left, Aesudan began to fall into an abyss of decadence, and was corrupted by [[Ashertmarn\|Ashertmarn]] and [[Yelig-nar\|Yelig-nar]]. She threw lavish feasts, reveling in excess, increasing taxes, and allowing food sent in by farmers for the soldiers at the Shattered Plains to rot away. This turned the populace to turn against her, and made the city fall into decay.
+An assassination attempt was made on Dalinar by Szeth, Gavilar's assassin, under the orders of [[Taravangian\|Taravangian]]. This failed due to the assistance of Adolin and [[Kaladin\|Kaladin]].
+In an attempt to unite the Highprinces, Dalinar Kholin proposed a joint assault deep into the Shattered Plains. The armies of Aladar, Roion, and Sebarial decided to team up with him in his assault.
+On Ishishach 1173, the plans went through and they pushed through to Narak during the Weeping. Before the battle, upon hearing of the Parshendi taking on Stormform, he ordered Shallan Davar to seek out the Oathgate to Urithiru, in case the battle went poorly for them, Renarin accompanied her alongside various scholars.
+During the Battle of Narak, Dalinar stayed on the fourth plateau to command the battle. Adolin went to battle on the front lines, and engaged in a duel with Eshonai. This led to them both falling into a chasm, but Adolin was saved by Skar and Drehy. Eshonai vanished and later drowned.
+Szeth was once again sent to assassinate Dalinar, but once again failed due to the assistance of Kaladin, who fought and defeated Szeth.
+Late into the War of Reckoning, Dalinar began to see visions left by [[Honor\|Honor]], which culminated in him creating a Nahel Bond with the [[Stormfather\|Stormfather]] and becoming a Bondsmith.
 
-### La Guardia del Rey
-La Guardia del Rey esta formada por soldados específicamente encargados con la protección del presente rey de Alezkarr. Son administrados directamente por Dalinar Kholin. Su estado actual es desconocido.
-Llevan uniformes de color azul oscuro y oro.
+### The True Desolation
+In 1173, during the War of Reckoning, Navani attempted to court Dalinar, picking up their mutual interest in each other from their younger days, that had only been allowed to lapse because Dalinar had stepped aside in favour of Gavilar. Their courtship was frowned upon by the [[Ardentia\|ardentia]] but nevertheless maintained and culminated in them being married in [[Urithiru\|Urithiru]] by the [[Stormfather\|Stormfather]], as no ardent was willing to perform the rites. Afterwards, Dalinar was titled a highking, giving up his claim to the princedom and making Adolin the Kholin highprince.
+Adolin assassinated [[Torol Sadeas\|Torol Sadeas]], the patriarch of House Sadeas, in the halls of Urithiru, and hid all evidence of his involvement in the death. This would lead to a temporary instability in the House, and the election of Highmarshal Amaram as regent and heir to the house title by Ialai Sadeas. This cemented a division with the Kholins that would last for an entire year until her death. This assassination would also lead to the discovery of [[Re-Shephir\|Re-Shephir]] hidden away in Urithiru.
+After gaining access to Urithiru and the Oathgates, Dalinar founded the [[Coalition of monarchs\|Coalition of Monarchs]] in an attempt to mount a resistance against Odium's army. Dalinar, Navani, and Jasnah are major leaders in this coalition. The first monarch he reached out to was [[Yanagawn\|Yanagawn]] of the Azish Empire, though they were initially recalcitrant and refused to take up any invitation.
+They went to attempt to ally with Queen Fen of Thaylenah after they were refused by Yanagawn, though she too refused they invitations initially. The rulers of Yezier, Tashikk, and Tukar refused as well. Though Taravangian of Jah Kaved and Kharbaranth accepted their invitation, and was the first to do so, and thus he quickly became an important member of the coalition.
+The [[Siege of Kholinar\|Siege of Kholinar]] claimed the life of Elhokar at the hands of [[Moash\|Moash]], but his child and heir, [[Gavinor\|Gavinor]], was rescued by [[Skar\|Skar]] and [[Drehy\|Drehy]]. Around the time of Elhokar's death, his wife perished as well, being consumed by the power of [[Yelig-nar\|Yelig-nar]], with whom she had entered a bond shortly before and proved unable to control the overwhelming power of the [[Unmade\|Unmade]] within her. [[Kaves Kholin\|Kaves Kholin]] was also found dead during the siege.
+After the [[Battle of Thaylen Field\|Battle of Thaylen Field]] Dalinar asked Adolin to be king, but as he did not believe himself to be capable, Jasnah was crowned queen instead.
+When [[Shallan Davar\|Shallan Davar]] becomes Jasnah's ward, in order to protect Shallan's family from their creditors and political adversaries, Jasnah orchestrates a causal betrothal between her ward and Adolin. This eventually culminated in their marriage after the battle of Thaylen Field, bringing together House Kholin and House Davar.
+Six months after the Battle of Thaylen Field, Jasnah and Dalinar met with Relu-na and his son Talik in order to create an alliance with the Reshi.
+Jasnah, Dalinar, and Renarin went to a military expedition in Emul against Tukar and the Voidbringers, in order to gain Emul as an ally. While Adolin and Shallan went to [[Lasting Integrity\|Lasting Integrity]] as a delegation to convince the Honorspren to once again start bonding to humans to create Windrunners. Upon arriving, they tried Adolin for the crimes of the Recreance.
+Dalinar negotiated with Odium, setting the conditions of the Contest of Champions based upon the document written by Jasnah and Wit, which would decide the fate of Roshar.
 
-### Guardia de Cobalto
-La Guardia de Cobalto son los guardaespaldas de honor de la casa Kholin, protegiéndo los miembros de la casa.
+## Military
+House Kholin has access to a large and powerful military, during the War of Reckoning and before the Battle of Narak, they were primarily stationed at the Kholin Warcamp at the Shattered Plains. After the battle and the start of the True Desolation, most moved into Urithiru. Furthermore, following the stationing at Urithiru, Dalinar Kholin, in his position of Highprince of War, took full control of the armies of the other highprinces, in order to prevent any additional squabbles, this increased the size of the army under House Kholin to around 100,000.
+With their military might, they were capable of taking over the disunified Alethi provinces, bringing them together into a single unified Alethkar over years of conquest.
+[[General Khal\|General Khal]] is the highest ranking general in the Kholin Army. Dalinar often trusts him to lead his armies when he cannot.
 
-Líder de la Guardia de Cobalto (anterior) [[Niter\|Niter]]
-Líder de la Guardia de Cobalto (anterior) [[Kaladin\|Kaladin Bendito por la tormenta]]
-Líder de la Guardia de Cobalto (actual) [[Fisk\|Fisk]]
+### King's Guard
+The King's Guard are made up of soldiers specifically tasked with the protection of the incumbent king of Alethkar. They are administered directly by Dalinar Kholin. Their current state is unknown.
+They wear uniforms of deep blue and gold.
+
+### Cobalt Guard
+The Cobalt Guard are an honor guard of House Kholin, protecting members of the House.
+
+Head of Cobalt Guard (Former) [[Niter\|Niter]]
+Head of Cobalt Guard (Former) [[Kaladin Stormblessed\|Kaladin Stormblessed]]
+Head of Cobalt Guard (Current) [[Fisk\|Fisk]]
 [[Tibon\|Tibon]]
 [[Marks (Roshar)\|Marks]]
 [[Malan\|Malan]]
 [[Koen\|Koen]]
-[[Moash\|Moash]] (Anterior)
-### Puente Cuatro
-El [[Puente Cuatro\|Puente Cuatro]] era una antigua cuadrilla de los puentes que se convirtió en la guardia de honor de Dalinar Kholin, protegiendo al alto príncipe y su familia, y una unidad militar en el ejército Kholin. Son una parte muy importante y poderosa del ejército, conteniendo gran parte de los Caballeros Radiantes y sus escuderos, y siendo confiados con misiones importantes que no se darían a soldados normales.
+[[Moash\|Moash]] (Former)
+
+
+### Bridge Four
+[[Bridge Four\|Bridge Four]] was a former bridge crew that became Dalinar Kholin's honor guard, guarding the highprince and his family, and a military unit in the Kholin army. They are a very powerful and important part of the army, containing a large amount of Knight's Radiant and Squires, and being trusted with important tasks not entrusted to ordinary soldiers.
 
 
 
-[[Kaladin\|Kaladin]] - Capitán, Corredor del Viento del Cuarto Ideal
-[[Roca\|Roca]] (anteriormente) - teniente y intendente, a cargo de la comida para el batallón
-[[Lopen\|Lopen]] - segundo teniente de Roca, Corredor del Viento del Tercer Ideal
-[[Teft\|Teft]] (antiguo) - teniente a cargo del entrenamiento, Corredor del Viento del Tercer Ideal
-[[Sigzil\|Sigzil]] - teniente y secretario
-[[Cikatriz\|Cikatriz]] - teniente, Corredor del Viento del Segundo Ideal
-[[Moash\|Moash]] (antiguo) - teniente
-[[Rlain\|Rlain]] - Vigilante de la Verdad iluminado del Primer Ideal
+[[Kaladin\|Kaladin]] - Captain, Fourth Ideal Windrunner
+[[Rock\|Rock]] (former) - lieutenant and quartermaster, in charge of food for the battalion
+[[Lopen\|Lopen]] - second lieutenant to Rock, Third Ideal Windrunner
+[[Teft\|Teft]] (former) - lieutenant in charge of training, Third Ideal Windrunner
+[[Sigzil\|Sigzil]] - lieutenant and clerk
+[[Skar\|Skar]] - lieutenant, Second Ideal Windrunner
+[[Moash\|Moash]] (former) - lieutenant
+[[Rlain\|Rlain]] - First Ideal Enlightened Truthwatcher
 [[Drehy\|Drehy]]
-[[Lyn\|Lyn]] - Corredor del Viento del Tercer Ideal
+[[Lyn\|Lyn]] - Third Ideal Windrunner
 [[Dabbid\|Dabbid]]
-[[Hobber\|Hobber]] - Corredor del Viento del Segundo Ideal
-[[Leyten\|Leyten]] - intendente
-[[Huio\|Huio]] - Corredor del Viento del Tercer Ideal
+[[Hobber\|Hobber]] - Second Ideal Windrunner
+[[Leyten\|Leyten]] - Quartermaster
+[[Huio\|Huio]] - Third Ideal Windrunner
 [[Eth\|Eth]]
-[[Kara\|Kara]] - Corredor del Viento del Segundo Ideal
+[[Kara\|Kara]] - Second Ideal Windrunner
 [[Bisig\|Bisig]]
 [[Torfin\|Torfin]]
-[[Laran\|Laran]] - Corredor del Viento del Tercer Ideal
-[[Renarin Kholin\|Renarin Kholin]] - Vigilante de la Verdad iluminado, se desconoce en que Ideal
+[[Laran\|Laran]] - Third Ideal Windrunner
+[[Renarin Kholin\|Renarin Kholin]] - Unknown Ideal Enlightened Truthwatcher
 
-### Guardia de la Muralla de Kholinar
-La [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]] es una fuerza militar estacionada en Kholinar. Patrullan la ciudad y hacen guardia en sus puertas.
-La Guardia de la Muralla de Kholinar está dividida en cuatro batallones, cada uno de los cuales está bajo el comando de un alto mariscal a la cabeza de la Guardia. Cada batallón parece estar dirigido por un jefe de batallón, y cada batallón está dividido en pelotones (dirigidos por un capitán), quiénes estan divididos en escuadrones (dirigidos por un teniente).
+### Kholinar Wall Guard
+The [[Kholinar Wall Guard\|Kholinar Wall Guard]] is a military force stationed at Kholinar. They patrol the city wall and stand watch over its gates.
+The Kholinar Wall Guard is split into four battalions, each of which being commanded by a Highmarshal at the head of the Guard. Each battalion seems to be ruled over by a Battalionlord, and each battalion is split into platoons (led by a Captain), which are split into squads (led by a Lieutenant).
 
 
-Alto mariscal [[Celeste\|Celeste]]
-Capitán [[Deedanor\|Deedanor]]
-Teniente [[Noromin\|Noromin]]
+Highmarshal [[Azure\|Azure]]
+Captain [[Deedanor\|Deedanor]]
+Lieutenant [[Noromin\|Noromin]]
 [[Alaward\|Alaward]]
 [[Beard\|Beard]]
 [[Hid\|Hid]]
-Jefe de batallón [[Hadinar\|Hadinar]]
+Battalionlord [[Hadinar\|Hadinar]]
 [[Vaceslv\|Vaceslv]]
 [[Vardinar\|Vardinar]]
-[[Ved (El archivo)\|Ved]]
+[[Ved (Stormlight)\|Ved]]
 
-## Esquirlas
-Los Kholin tienen acceso a una gran cantidad de hojas esquirladas entre su familia y su milicia, llegando a tener más de treinta después de la unificación de los diez ejércitos, sin incluir el número en aumento después de la reinstauración de los Caballeros Radiantes.
-Los Kholin mismos tienen acceso a ocho hojas esquirladas que se conozcan, cinco de las cuales son hojas esquirladas muertas, y tres de las cuales son hojas esquirladas de radiantes.
+## Shards
+The Kholins have access to a very large amount of shardblades between their family and their military, numbering over thirty after the unification of the ten armies, not including the increase in numbers after the revival of the Knights Radiant.
+The Kholins themselves have access to eight known Shardblades, five of which being Dead Shardblades, and three of which are Radiant Shardblades.
 
-[[Juramentada (hoja esquirlada)\| Juramentada]]
+[[Oathbringer (Shardblade)\| Oathbringer]]
 [[Mayalaran\|Mayalaran]]
-[[Tormenta de Fuego\|Tormenta de Fuego]]
-[[Soleada\|Soleada]]
+[[Firestorm\|Firestorm]]
+[[Sunraiser\|Sunraiser]]
 [[Glys\|Glys]]
-[[Marfil\|Marfil]]
-[[Patr%C3%B3n\|Patrón]]
-Hoja esquirlada sin nombre de Renarin 
+[[Ivory\|Ivory]]
+[[Pattern\|Pattern]]
+Renarin's Unnamed Shardblade
 
-En cuestión de las hojas esquirladas del ejército, pero no en posesión de un miembro de la casa.
+In terms of Shardblades in their army, but not possessed by a member of the house.
 
 [[Sylphrena\|Sylphrena]]
 [[Phendorana\|Phendorana]]
 [[Rua\|Rua]]
 [[Caelinora\|Caelinora]]
-[[Creacervo\|Creacervo]]
-[[Sangre Nocturna\|Sangre Nocturna]]
-[[Espada de Vivenna\| Hoja esquirlada de Celeste]]
-Hoja esquirlada de [[Laran\|Laran]] 
-Hoja esquirlada de [[Lyn\|Lyn]]
-Hoja esquirlada del [[General Khal\|General Khal]]
-Hoja esquirlada de [[Teleb\|Teleb]]
-Varias otras hojas esquirladas sin nombre
-También tienen acceso a múltiples juegos de armadura esquirlada, todas sin nombre.
+[[Loremaker\|Loremaker]]
+[[Nightblood\|Nightblood]]
+[[Vivenna's Blade\| Azure's Shardblade]]
+[[Laran\|Laran's]] Shardblade
+[[Lyn\|Lyn's]] Shardblade
+[[General Khal\| General Khal's]] Shardblade
+[[Teleb\|Teleb's]] Shardblade
+Several other unnamed Shardblades
+They also have access to multiple sets of Shardplate, all unnamed.
 
-Set sin pintar de Dalinar
-Set azul de Adolin Kholin
-Set dorado de Elhokar
-Set de Jasnah
-En cuestión de armaduras esquirladas en su ejército, pero no en posesión de un miembre de la casa.
+Dalinar's unpainted set
+Adolin's Kholin Blue set
+Elhokar's Gold Set
+Jasnah's set
+In terms of Shardplate in their army, but not possessed by a member of the house.
 
-Armadura esquirlada de Rust Elthal
-Armadura esquirlada de Serugiadis
-Armadura esquirlada de Teleb
-Armadura esquirlada del General Khal
-Armadura esquirlada de Kaladin
-## Iconografía
-Los Kholin se distinguen por los colores blanco y un tono de azul oscuro, normalmente referido como "azul Kholin". Estos son los colores oficiales de los sirvientes de la casa Kholin quienes usan esos colores en sus uniformes.
-La cresta de Dalinar Kholin tiene la forma de las letras "khokh" y "linil" formando una torre con una corona, respectivamente. Esta cresta está estampada en la armadura, ropa, y las banderas del ejército de Dalianr y sus sirvientes.
-La cresta de Elhokar Kholin usa las mismas letras que el de Dalinar, pero en la forma de una espada y una corona, en vez de una torre y una corona.
-
-
-
-
-
-Glifo de la casa Kholin
+Rust Elthal's Shardplate
+Serugiadis' Shardplate
+Teleb's Shardplate
+General Khal's Shardplate
+Kaladin's Shardplate
+## Iconography
+The Kholins are distinguished by the colors white and a deep shade of blue, often referred to as "Kholin blue." These are the official colors of the Kholin household which they use for their uniforms.
+Dalinar Kholin's crest takes the form of the words *khokh* and *linil* formed into the shape of a tower and a crown, respectively. This crest is emblazoned upon the armor, clothing, and banners of Dalinar's army and servants.
+Elhokar Kholin's crest uses the same words as Dalinar's, but they are shaped into a sword and crown, instead of a tower and crown.
 
 
 
 
 
 
-Cresta personal de Dalinar Kholin
+House Kholin glyph
 
 
 
 
 
 
-Variación de Elhokar de *Khokh*
+Personal Crest of Dalinar Kholin
 
 
 
 
-## Árbol genealógico
-Árbol genealógico de la casa Kholin
-|||||||||[[Sadees\|Sadees]]||Desconocido||||||||||||||||||
+
+
+Elhokar's Variation of *Khokh*
+
+
+
+
+## Family Tree
+House Kholin Family Tree
+|||||||||[[Sadees\|Sadees]]||Unknown||||||||||||||||||
 |-|-|
 |||
 ||||||||||||||||||||||||||||||||
 |
-|||||||||||Progenitor de Kholinar|||||||||||||||||||
+|||||||||||Kholinar Progenitor|||||||||||||||||||
 |
 |||||||||||||||||||||||||||||||||
 |
@@ -230,7 +231,7 @@ Variación de Elhokar de *Khokh*
 |
 |||||||||||||||||||||||||||||||||
 |
-|||||||||||[[Padre de Dalinar\|Padre de Dalinar]]||||Desconocido|||||||Desconocido||Desconocido||||||
+|||||||||||[[Dalinar's father\|Dalinar's father]]||||Unknown|||||||Unknown||Unknown||||||
 |||||||
 ||||||||||||||||||||||||||||||||||
 |
@@ -242,7 +243,7 @@ Variación de Elhokar de *Khokh*
 |
 ||||||||||||||||||||||||||||||||||
 ||||||||||||
-|[[Sagaz\|Sagaz]]|||[[Jasnah\|Jasnah]]||[[Elhokar\|Elhokar]]||[[Aesudan\|Aesudan]]|||[[Shallan\|Shallan]]||[[Adolin\|Adolin]]||[[Renarin\|Renarin]]|
+|[[Wit\|Wit]]|||[[Jasnah\|Jasnah]]||[[Elhokar\|Elhokar]]||[[Aesudan\|Aesudan]]|||[[Shallan\|Shallan]]||[[Adolin\|Adolin]]||[[Renarin\|Renarin]]|
 ||||||
 |||||||||||||||||||||||||||||||
 |
@@ -260,28 +261,11 @@ Variación de Elhokar de *Khokh*
 ||
 ||
 ||
-| |Fallecido|
+| |Deceased|
 
 
-## Curiosidades
-En nombre Kholin se basó parcialmente en la palabra hebrea para sacerdote, .
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+The name Kholin was partially based on the Hebrew word for priest, .
 
 
-
-https://es.coppermind.net/wiki/House_Kholin
+https://coppermind.net/wiki/House_Kholin

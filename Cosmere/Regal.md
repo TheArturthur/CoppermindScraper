@@ -1,106 +1,105 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Regio**|
+|**Regal**|
 |-|-|
 ||
-|**Racional**|Sí|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Sapient**|Yes|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Forms of power, yes, but also forms of obedience. The gods commanded, and we did obey, always. Always.*”
 \-Jaxlim[1]
 
 
-Los **Regios** son [[Cantor\|cantores]] que se vinculan con un [[Vac%C3%ADospren\|vacíospren]], lo que les proporciona una transformación conocida como forma de poder. En la jerarquía de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]], están situados por encima de los cantores comunes y por debajo de los [[Fusionado\|Fusionados]]. En algunas ocasiones, los cantores se refieren a los Regios como **Elegidos**.
+**Regals** are [[Singer\|singers]] who bond with [[Voidspren\|Voidspren]], granting them a transformation called a **form of power**. In the [[Voidbringer\|Voidbringer]] hierarchy, they are ranked above common singers, and below the [[Fused\|Fused]]. Singers sometimes formally refer to Regals as **Chosen**.
 
-## Sumario
+## Contents
 
-1 Mecánica. [[#Mec.C3.A1nica]] 
+1 Mechanics. [[#Mechanics]] 
 
-1. [[#Formaci.C3.B3n y Apariencia]] 
-1. [[#Habilidades]] 
-
-
-2 Formas de poder conocidas. [[#Formas de poder conocidas]] 
-
-2. [[#Forma tormenta]] 
-2. [[#Forma emisaria]] 
-2. [[#Forma p.C3.BAtrida]] 
-2. [[#Forma funesta]] 
-2. [[#Forma nocturna]] 
-2. [[#Forma comunicadora]] 
-2. [[#Forma de humo]] 
-2. [[#Desconocido]] 
+1. [[#Formation and Appearance]] 
+1. [[#Abilities]] 
 
 
-3 Ver también. [[#Ver tambi.C3.A9n]] 
-4 Notas. [[#Notas]] 
+2 Known Forms of Power. [[#Known Forms of Power]] 
+
+2. [[#Stormform]] 
+2. [[#Envoyform]] 
+2. [[#Decayform]] 
+2. [[#Direform]] 
+2. [[#Nightform]] 
+2. [[#Relayform]] 
+2. [[#Smokeform]] 
+2. [[#Unknown]] 
 
 
-## Mecánica
-### Formación y Apariencia
-Para convertirse en un Regio, un cantor debe vincular un [[Vac%C3%ADospren\|vacíospren]] y para ello se utiliza una variedad de spren no inteligente. La forma se adopta como cualquier otra, entrando en una tormenta con el objetivo de vincular al spren adecuado. A diferencia de la posesión por parte de los Fusionados, se puede adquirir una forma de poder tanto durante una [[Alta tormenta\|alta tormenta]] como durante la [[Tormenta eterna\|tormenta eterna]]. En algunos casos, [[Odium\|Odium]] puede, personalmente, imponer una forma regia a un cantor mientras él mismo se encuentra en la Tormenta eterna.
-Durante la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] fue capaz de Conectar a todos los cantores de Roshar y otorgar, a la gran mayoría de ellos, formas de poder así como [[Luz del vac%C3%ADo\|luz del vacío]]. Esto ya no es posible ya que la Deshecha está encarcelada en una gema.
-Las formas de poder se manifiestan de muchas maneras y, aunque se desconoce el número exacto, se sabe que es superior a diez. En cualquier caso, siempre se puede reconocer a un Regio por el color rojo de los ojos, a diferencia del color negro típico de los cantores. Históricamente, se asociaron las formas de poder a la luz del vacío y a Ba-Ado-Mishram, aunque ninguno de ellos es necesario para su funcionamiento.
-
-### Habilidades
-A diferencia de las formas comunes, los Regios tienen poderes que son explícitamente sobrenaturales, desde disparar rayos con las manos hasta la capacidad de hablar todos los idiomas del mundo (y como tal, un [[Kandra\|kandra]] no podría imitar a un Regio). No parece que estos poderes requieran ningún tipo de aportación externa de [[Investidura\|Investidura]], aunque algunos sí se ven impulsados por la [[Luz del vac%C3%ADo\|luz del vacío]]. Normalmente, son más poderosos que los cantores comunes o que los humanos, incluidas las formas que no están destinadas a la lucha. Además, a diferencia de lo que ocurre con una posesión de un Fusionado, asumir una forma de poder no despoja al anfitrión de su personalidad, aunque puede alterar su forma de pensar.
-Por otra parte, [[Odium\|Odium]] puede hablar directamente con la forma regia, aunque parece que esto solo tiene lugar si el cantor está en la [[Tormenta eterna\|tormenta eterna]]. Odium también es capaz de ejercer cierta cantidad de control sobre los regios, de una forma similar a la influencia de [[Ruina\|Ruina]] sobre aquellos que tienen clavos [[Hemalurgia\|hemalúrgicos]]. En concreto, tienden a volverse más agresivos ay tienen una mayor dificultad para escuchar los [[Ritmo\|ritmos]] comunes, ya que escuchan los relacionados con Odium. Es posible que Odium pueda obligar a los regios a obedecerlo. A pesar de su vínculo con Odium, los regios no son inmunes a los efectos asociados a otra Esquirla, como por ejemplo ser arrastrado a una de las [[Visiones de Dalinar\|visiones de Honor]] por el [[Padre Tormenta\|Padre Tormenta]].
-
-## Formas de poder conocidas
-La mayoría de las formas de poder son conocidas por las canciones de los oyentes, algunas quedaron registradas en la [[Canci%C3%B3n de los secretos\|Canción de los secretos]], la [[Canci%C3%B3n de las historias\|Canción de las historias]] y la [[Canci%C3%B3n de los vientos\|Canción de los vientos]]. En total, existen más de diez.
-
-  Un cantor en forma tormenta
-### Forma tormenta
->“*Stormform is said to cause / A tempest of winds and showers, / Beware its powers, beware its powers. / Though its coming brings the gods their night, / It obliges a bloodred spren. / Beware its end, beware its end.*”
-\-Canción de los vientos, estrofa 4[21]
+3 See Also. [[#See Also]] 
+4 Notes. [[#Notes]] 
 
 
-Un cantor vinculado a un tormentaspren gana la forma tormenta, una forma de poder usada comúnmente poor soldados de primera línea y un enemigo temible en el campo de batalla. Esta forma fue la primera usada por los [[Oyentes\|oyentes]], permitiéndoles llamar a la Tormenta eterna en el Reino Físico y liberar a otros cantores del cautiverio. con el retorno de las Tormentas eternas, los forma tormenta son usados a menudo como tropas de élite, capaces de reforzar a los soldados normales o servir en unidades especiales que llevan a cabo tareas importantes, como la compañía que se apoderó del pilar de cristal del Hermano en Urithiru.
-**Apariencia**
-En lugar de las robustas placas de caparazón de la forma de guerra, un cantor en forma tormenta se protege con una armadura más sutil que es casi igual de eficaz. La piel del cantor está cubierta de hileras formadas por pequeñas crestas que asoman a través de la piel, que se tensa en algunos lugares. Los forma tormenta también presentan mechones de pelo, que se encuentran normalmente ausentes en formas más marciales, diferencias físicas entre sexos más notorias que otras formas, y un caparazón afilado en el dorso de las manos. Su cara está protegida por una máscara de caparazón bajo la piel de la forma tormenta con crestas en la nariz y las mejillas, capaz de desviar una hoja de la cara sin que cause un daño grave. El caparazón crestado rompe la piel en las mejillas y a los lados de la cabeza, así como protege también el cuello. Las puntiagudas placas de armadura presentes bajo su piel en el resto del cuerpo hace la lucha cuerpo a cuerpo con ellos difíciles, clavándose en los atacantes e impidiéndoles tener un buen agarre. Un forma tormenta a menudo presenta destellos de energía a su alrededor, por ejemplo en ojos o pequeñas y casi invisibles líneas de relámpago resplandeciendo en sus manos cuando cierran los puños rápidamente. Cuando se están preparando para lanzar su rayo su piel empieza a crepitar con energía. Al combatir producen destellos de luz,  algunas veces saliendo de sus armas al impactar en sus enemigos.
-**Habilidades y Debilidades**
-A pesar de que en comparación parecen más ágiles, un Regio en forma tormenta es significativamente más fuerte que un cantor en forma de guerra, e incluso que otras formas de poder. Son capaces de saltar los abismos de las [[Llanuras Quebradas\|Llanuras Quebradas]] sin necesidad de tomar carrerilla y posee una fuerza de agarre que le permite sujetarse fácilmente a los muros del abismo cuando los escala.
-El mayor poder que la forma tormenta da a un cantor es la habilidad de crear un relámpago rojo en distintas formas útiles. Los formas tormenta son capaces de lanzar grandes descargas de relámpago que electrocutan y queman a sus enemigos, asándolos vivos en sus armaduras. También es capaz de hacer grandes daños a fortificaciones, usando descargas para destruir estructuras de piedra. El forma tormenta tarda un momento en generar la descarga de relámpago y aquellos que se encuentran cerca pueden sentir el poder creciendo, mientras la piel del forma tormenta comienza a crepitar con el relámpago rojo. esta habilidad de lanzar relámpagos es especialmente letal a corta distancia. El propio relámpago es difícil de controlar y se mueve de forma impredecible, a veces en la dirección incorrecta o canalizándose directamente hacia el suelo. El destello del relámpago es cegadoramente brillante y crea un fuerte estallido de trueno que en ocasiones es utilizado para intimidar a los enemigos.  Este trueno puede ensordecer permanentemente a poca distancia, pero al ser menos intenso que los truenos normales, aquellos protegidos del ruido no suelen tener pérdidas de audición permanentes. Cuando matan a un forma tormenta, si aún conserva poder, este puede escapar de su cadáver y matar a aquellos que se encuentren próximos, particularmente a aquellos sobre charcos.
-Los Regios forma tormenta también son capaces de canalizar el relámpago a otra persona directamente a través del contacto físico, enviando sacudidas de poder constante a través de ellos, que cera una sensación de quemadura inmensamente dolorosa en la víctima. Sus oponentes no son capaces de aguantar la fuerza de este ataque sin que la luz tormentosa los ayude curándolos. Liberar el relámpago a través de una persona genera una gran cantidad de calor, quemando la ropa, y produciendo con la descarga que el pelo de la víctima de ponga de punta. Incluso cuando no pretenden hacer daño, tocar a un forma tormenta puede producir una pequeña descarga de energía. Los forma tormenta también han experimentado con formas menos marciales de usar sus poderes. Han descubierto que pueden reescribir la polaridad de un imán con su relámpago así como usarlo para incendiar los contenidos de recipientes presurizados.
-Aún así, este poder del relámpago no es ilimitado, las subsiguientes descargas suelen ser más débiles que la primera y, cuando su Luz del Vacío se ha agotado, se renueva lentamente y su ausencia pueden dejar al forma tormenta sintiéndose débil. Otra debilidad de la forma tormenta es irónicamente el agua, que vuelve su habilidad para lanzar relámpagos incluso menos fiable. Si se empapa a un forma tormenta en agua su poder será arruinado e incapaz de renovarse hasta que se seque, resbalando fuera del forma tormenta cada vez que volviese. Su relámpago también puede ser contrarrestado colocando pararrayos para atraer las descargas de poder, protegiendo así a los soldados que combaten a los regios en forma tormenta. Sus poderes también pueden ser contrarrestados con un [[Fabrial supresor\|fabrial supresor]], que hace que su relámpago desaparezca.
-Otra habilidad concedida por la forma tormenta es cierta inmunidad a los efectos de las tormentas, permitiéndoles moverse a través de los vientos y la oscuridad de las tormentas con relativa facilidad, si bien no son inmune a los peligros que representa. De acuerdo con las leyendas eran capaces de controlar y generar las tormentas ellos mismos, se desconoce si se refieren a su poder para invocar la Tormenta eterna de Shadesmar. Antes de su llegada al Reino Físico un forma tormenta era capaz de generar una pequeña porción de la Tormenta eterna por su cuenta. Podían provocar que un pequeño vendaval, relámpagos y una niebla oscura apareciesen entre sus manos, si bien se desconoce si aún son capaces de hacerlo tras la llegada de la Tormenta eterna. Se desconoce también si traer la Tormenta eterna era una tarea que solo los forma tormenta podían realizar o si simplemente fueron escogidos por ser la forma más apropiada para la tarea.
+## Mechanics
+### Formation and Appearance
+To become a Regal, a singer has to bond a [[Voidspren\|Voidspren]]; a non-sapient variety is used for this purpose. The form is assumed much like any other, by stepping into the storm with the mindset to bond an appropriate spren. Unlike a Fused possession, a form of power can be taken on both in [[Highstorm\|highstorm]] and the [[Everstorm\|Everstorm]]. In some cases, [[Odium\|Odium]] may force a Regal form upon a singer personally while the latter is in the Everstorm.
+During the [[False Desolation\|False Desolation]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] was able to Connect to all singers on Roshar and grant a large portion of them forms of power as well as Voidlight. This is no longer possible since that Unmade is now imprisoned in a gemstone.
+The forms of power come in many different shapes; their precise number is unknown, though higher than ten. Regardless, they can always be recognized by having red eyes, as opposed to typical [[Singer\|singer]] black. Historically, they were associated with [[Voidlight\|Voidlight]] and [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], though neither is necessary for their functioning.
 
-  Un cantor en forma emisaria
-### Forma emisaria
-Si bien no se describe en ninguna de las canciones de los oyentes, la forma emisaria es una importante forma de poder no combativa disponible para los cantores, normalmente utilizada por los Fusionados como Voces o intérpretes.
+### Abilities
+Unlike ordinary forms, Regals possess powers that are explicitly supernatural, from shooting lightning from one's hands to understanding and speaking every language in the world (as such, a [[Kandra\|kandra]] wouldn't be able to mimic a Regal). These powers do not seem to require any sort of external [[Investiture\|Investiture]] input, but at least some are powered by [[Voidlight\|Voidlight]]. They are also generally stronger than normal singers or humans, including forms not intended for fighting. Moreover, in contrast to [[Fused\|Fused]] possession, taking on a form of power does not strip the host of their personality, though it can alter their way of thinking.
+On the other hand, the Regal form can be directly spoken to by [[Odium\|Odium]], though this seems to only occur if the singer is caught in the [[Everstorm\|Everstorm]]. Odium is also able to exert a significant amount of control over Regals, in a manner similar to the influence [[Ruin\|Ruin]] has over those with [[Hemalurgic\|Hemalurgic]] spikes. Most notably, they tend to become more aggressive and have an exceptionally difficult time hearing ordinary [[Rhythm\|Rhythms]], instead hearing those related to Odium. It is possible that Odium can force Regals to obey him. Despite their ties to Odium, Regals are not immune to effects tied to another Shard, such as being pulled into one of [[Dalinar's visions\|Honor's visions]] by the [[Stormfather\|Stormfather]].
+
+## Known Forms of Power
+Most forms of power are only known through [[Listener\|listener]] songs; several were recorded in the [[Song of Secrets\|Song of Secrets]], the [[Song of Histories\|Song of Histories]], and the [[Song of Winds\|Song of Winds]]. There are more than ten total.
+
+  A singer in stormform
+### Stormform
+>“* Stormform is said to causeA tempest of wind and showersBeware its powers, beware its powers.Though its coming brings the gods their night,It obliges a bloodred spren.Beware its end, beware its end.*”
+\- fourth stanza of the Song of Winds[21]
 
 
-Un cantor en forma emisaria es extremadamente alto pero no particularmente musculoso, con largos brazos y piernas. Los Regios en forma emisaria son más altos incluso que los humanos [[Alezi\|Alezi]], cantores comunes, e incluso otras formas de poder como la forma tormenta, si bien siguen siendo más bajos que algunos tipos de Fusionado. La forma no dota de un caparazón como armadura , sino una versión más decorativa, inspirando admiración en los cantores comunes y miedo entre los humanos.
-El cuerpo de un forma emisaria no está muy cubierta por caparazón, y el que hay es principalmente ornamental y frágil. Está presente en zonas como las mejillas y como crestas en los dorsos de las manos del forma emisaria. Este caparazón ligero no es útil para aislar al forma emisaria del viento o el frío como si lo hacen caparazones más extensos en otras formas. Un forma emisaria también tiene largos mechones de pelo y características sexuales más pronunciadas, como pequeños pechos para las mujeren cantoras. Una Voz forma emisaria suele vestirse con un estilo llamativo que resalta sus formas y patrones de piel para llamar más la atención en habitaciones abarrotadas.
+A singer bonded to a stormspren is granted stormform, a form of power that is commonly used for frontline soldiers and a fearsome foe on the battlefield. This form was the first used by the listeners, allowing them to call the Everstorm into the Physical Realm and freeing the other singers from their captivity. With the return of the Everstorms, stormforms are often used as elite troops, capable of reinforcing standard soldiers or serving in special units that carry out important tasks, such as the company that seized the Sibling's crystal pillar in Urithiru.
+**Appearance**
+Instead of the bulky external carapace armor granted by warform, a singer in stormform is protected by a more subtle armor that is nearly as effective. The singer's skin is covered in rows of durable protective ridges that poke out through the skin, which stretches tightly in some places. Stormforms also have hairstrands are often absent in more martial forms, more prominent physical differences between the sexes than other forms, and barbed carapace on the backs of their hands. Their face is protected by a carapace mask beneath the stormform's skin with ridges on the nose and cheeks, capable of deflecting a blade away from the face without causing too much damage. The ridged carapace breaks the skin above the cheeks and along the sides of the head, with a carapace gorget at the neck. The spiking armor plates present under their skin elsewhere on their bodies makes grappling with them difficult, jabbing attackers and preventing them from getting a decent hold. A stormform often has flashes of energy appear around them, such as sometimes flashing across their eyes or tiny nearly invisible lines of lighting flaring from their hands when they form a fist quickly. When they are preparing to summon their lightning their skin begins to crackle with energy. As they fight they cause flashes of light,  sometimes emanating from their weapons when they connect with enemies.
+**Abilities and Weaknesses**
+Despite looking comparatively lithe, a stormform Regal is in fact significantly stronger than a warform singer, and even other forms of power. They are able to leap across the chasms of the [[Shattered Plains\|Shattered Plains]] without a running start and posses a grip strength that allows them to easily hold the chasm walls when climbing them.
+The most overt power that stormform grants a singer is the ability to create and manipulate a red lightning in a variety of useful ways. Stormforms are capable of unleashing grand bolts of lightning that electrocute and burn their enemies, cooking them alive in their armor. It is also capable of doing great damage to fortifications, with bolts used to destroy stone structures. It takes a moment for a stormform to summon a bolt of lightning and those nearby can sense the power building, as the stormform's skin begins to crackle with the red lightning. This ability to throw lightning is most deadly in close range. The lightning itself is difficult to control and moves unpredictably, sometimes moving the wrong direction or channeling directly into the ground. The flash of lightning is blindingly bright and creates a loud clap of thunder that is sometimes used as a signal and intimidates enemies.  This thunderclap can be permanently deafening in close quarters, but as it is quieter than normal thunder, those shielded from the noise usually suffer no permanent hearing loss. When a stormform is killed, if their power has not been expended it can escape from their corpse and kill those nearby, particularly those standing in puddles.
+Stormform Regals are also capable of directly channeling the lightning into another person directly through physical contact, sending constant jolts of power through them, which creates an immensely painful burning sensation in the victim. Their opponents are unable to withstand the power of this attack without Stormlight healing to aid them. Unleashing lightning into a person still generates a great deal of heat, burning through clothes, with the shock causing the victim's hair to stand on end. Even when they are not intending to do harm, touching a stormform may cause the feeling of a little jolt of power. Stormforms have also experimented with their powers in less directly martial ways. They have discovered that they can rewrite the polarity of a magnet with their lightning and use it to ignite the contents of pressurized vessels.
+This lightning power is not limitless though, subsequent blasts of lightning are often weaker than the first and after their Voidlight has been expended, it is slow to renew and its absence may leave the stormform feeling limp. Another weakness of stormform is ironically water, which makes their ability to throw bolts of lightning even less reliable. If a stormform is sufficiently drenched in water their power will be ruined and unable to renew properly until they are dry, slipping away from the stormform every time it starts to return. Their lightning may also be counteracted by intentionally placing lightning rods to draw the bolts of power themselves to protect soldiers fighting stormform Regals. Their powers may also be fully dampened by a [[Suppression fabrial\|suppression fabrial]], which causes their lightning to vanish.
+Another ability granted by stormform is some immunity to the effects of the storms, allowing them to move through the winds and darknesss of a storm with relative ease, although they are not immune to the dangers the storms present. According to legend they were able to control and summon the storms themselves, it is uncertain if this refers to the power to summon the Everstorm from Shadesmar. Prior to its arrival in the Physical Realm, a stormform Regal was capable of summoning a small portion of the Everstorm themselves. They could cause a small tempest of wind, lightning and dark mist to appear briefly between their hands, although it is unknown if they maintain this power following the arrival of the Everstorm. It is uncertain whether summoning the Everstorm was a task only the stormforms could complete or whether they were simply chosen as the form best suited for the task.
+
+  A singer in envoyform
+### Envoyform
+While not described in any known listener songs, envoyforms are an important non-combatant form of power available to the singers, often employed by the Fused as Voices or interpreters.
 
 
-La forma emisaria concede al huésped habilidades sobrenaturales relacionadas principalmente con la traducción e interpretación. El poder más notorio es la capacidad para hablar, leer y entender cualquier lengua, sea humana o cantora. La habilidad presumiblemente supone cierta manipulación del poder de [[Conexi%C3%B3n\|Conexión]]. Tras escuchar varias frases en un idioma desconocido, un forma emisaria siente como si las palabras se difuminasen en su mente antes de convertirse en algo inteligible y luego ganan la habilidad de entender y hablar ese idioma. A pesar de que este poder permite al forma emisaria entender el significado de un nombre, no puede darle mayor contexto ni información adicional sobre él. En ocasiones la traducción tambien puede fallar. El propio Odium puede evitar que un forma emisaria interprete ciertas conversaciones o canciones, dejando a los forma emisaria con la sensación de que casi entienden pero sus poderes parecen alejarse de la comprensión, y en otras ocasiones parecen fallar al forma emisaria. Para interpretar correctamente el significado de la escritura, un forma emisaria primero debe saber que los símbolos que mira son un escrito y entonces se activan sus poderes de traducción.
-Con tiempo y práctica, sus habilidades se vuelven aún mayores, permitiendo al forma emisaria intuir instrucciones de un solo tarareo o un gesto simple, un talento particularmente útil para aquellos que sirven a un Fusionado. Esto hace que servir como Voz a un Fusionado importante sea una posición posible para los cantores en forma emisaria, por su habilidad para hablar en el antiguo idioma de los Fusionado. Además, puesto que muchos Fusionados no se molestan en aprender lenguas modernas, los cantores en forma emsiaria son necesarios como intérpretes, permitiendo al Fusionado comunicarse con los cantores comunes. Son también útiles como propagandistas, como cuando Venli es usada por Odium para ayudarle a crear un mito fundacional para los cantores comunes de las fuerzas de los Portadores de Vacío. Esta forma es de alguna manera frágil y no tan físicamente poderosa o atlética como otras formas de poder, pero en ella, un Regio forma emisaria es increíblemente ágil y sigue siendo más fuerte que el humano promedio.
+A singer in envoyform is extremely tall but not particularly muscular, with long arms and legs. Envoyform Regals stand above tall [[Alethi\|Alethi]] humans, common singers, and even some forms of power such as stormform, though still shorter than some brands of Fused. The form grants no carapace armor, but much in the way of decoration, inspiring awe among common singers and fear in humans that see an envoyform.
+An envoyform's body is not extensively covered in carapace, and the carapace that is present on their body is primarily ornamental and fragile. It is present in places such as along the cheeks and in ridges on the back of an envoyform's hands. This light carapace is not as useful for insulating an envoyform from the wind or the cold as the more extensive carapace of other forms. An envoyform also possesses long hairstrands and more pronounced sexual characteristics, such as small breasts for femalen singers. An envoyform Voice is often dressed in striking fashions designed to augment their forms and skin patterns as well as inspire more attention in a crowded room.
 
-### Forma pútrida
+
+Envoyform grants a host of supernatural abilities primarily related to translation and interpretation. The most notable power is the ability to speak, read, and understand any language, whether human or singer. The ability presumably involves some manipulation of the power of [[Connection\|Connection]]. After hearing several sentences in an unknown language, an envoyform feels as though the words blur in their mind before shifting into something understandable and they gain the ability to speak and understand that language. While this power is capable of allowing a envoyform to understand the meaning of a name, it cannot give them any context or additional information beyond that. There are also times that this translation power may fail. Odium himself may prevent an envoyform from interpreting certain conversations or songs, leaving envoyforms with a feeling that they can almost understand but that their powers shy back from comprehending, and there are other times it seems to fail an envoyform. In order to properly interpret the meaning of writing, an envoyform must first know that the symbols they look at are writing before their translation powers activate.
+Given more time and practice holding this form, its abilities grow even grander, allowing an envoyform to intuit instructions from merely a hum, or a simple gesture, a talent particularly useful when serving a Fused master. This makes serving as the Voice of an important Fused one possible position for an envoyform singer, because of its ability to speak the ancient Fused language. Additionally, as many Fused do not bother to learn modern languages, envoyforms are necessary as interpreters, allowing Fused to communicate their will to common singers. They are also useful as propagandists, such as when Venli is used by Odium to help craft a foundation myth for the common singers of the Voidbringer forces. This form is somewhat fragile and not as physically powerful or athletic as other forms of power, but in it, an envoyform Regal is incredibly nimble and remains noticeably stronger than the average human.
+
+### Decayform
 >“*Decayform destroys the souls of dreams. / A form of gods to avoid, it seems. / Seek not its touch, nor beckon its screams, deny it. / Watch where you walk, your toes to tread. / O'er hill or rocky riverbed / Hold dear to fears that fill your head, defy it.*”
 \-27th stanza of the Song of Secrets[51]
 
 
-Nada se conoce de la forma pútrida más haya de sus menciones en las canciones de los oyentes. No hay cantores conocidos usando esta forma en la Auténtica Desolación hasta el momento.
-No se obtiene usando [[Putrispren\|putrispren]], puesto que no son Vacíospren.
+Nothing is known of decayform beyond its mentions in the songs of the listeners. There are no known singers bearing this form in the True Desolation as of yet.
+It is not attained using [[Decayspren\|decayspren]], as they are not Voidspren.
 
-### Forma funesta
-La forma funesta es una forma de poder que presenta una cresta de púas en su cabeza y cuello. las habilidades de esta forma son desconocidas. Durante la ocupación cantora de [[Urithiru\|Urithiru]], algunos Regios sirviendo como carceleros o guardias de la Torre están en forma funesta.
+### Direform
+Direform is a form of power that has a crest of spikes on its head and neck. The abilities of this form are unknown. During the singer occupation of [[Urithiru\|Urithiru]], some Regals serving as the head jailer or guards in the Tower are in direform.
 
-### Forma nocturna
+### Nightform
 >“*Nightform predicting what will be, / The form of shadows, mind to foresee. / As the gods did leave, the nightform whispered. / A new storm will come, someday to break. / A new storm a new world to make. / A new storm a new path to take, the nightform listens.*”
 \-17th stanza of the Song of Secrets[53]
 
 
-Poco se conoce de la forma nocturna más haya de sus menciones en las canciones de los oyentes. La [[Canci%C3%B3n de los secretos\|Canción de los secretos]] sugiere que los Regios en forma nocturna tienen habilidades precognitivas, quizá relacionadas con [[Fortuna\|Fortuna]] o con el Reino Espiritual. las canciones indican que en algún punto del pasado los forma nocturna podrían haber tenido visiones de la [[Tormenta eterna\|Tormenta eterna]] y el duelo de campeones. Durante la ocupación de los cantores de Urithiru, [[Lezian\|Lezian]] apostó regios en Forma nocturna para custodiar a [[Lirin\|Lirin]] y [[Hesina\|Hesina]] in [[Urithiru\|Urithiru]], seguramente por sugerencia de [[Rabeniel\|Rabeniel]].
+Little is known of nightform beyond its mentions in the songs of the listeners. The [[Song of Secrets\|Song of Secrets]] implies that nightform Regals have precognitive abilities, perhaps related to [[Fortune\|Fortune]] or the Spiritual Realm. The songs indicate that at some point in the past the nightforms may have seen visions of the [[Everstorm\|Everstorm]] and the contest of champions. During the singer occupation of Urithiru [[Lezian\|Lezian]] posted nightform Regals to guard [[Lirin\|Lirin]] and [[Hesina\|Hesina]] in [[Urithiru\|Urithiru]], likely at [[Raboniel\|Raboniel's]] suggestion.
 
-### Forma comunicadora
-La Forma comunicadora es una forma de poder con una apariencia pulcra que suele ser tomada por exploradores. No hay más detalles sobre las habilidades de esta forma. Durante la ocupación de Urithiru, algunos Regios en forma comunicadora sirvieron a [[Rabeniel\|Rabeniel]], explorando la Torre y entregando informes a Venli, la Voz de Rabeniel.
+### Relayform
+Relayform is a form of power with a sleek appearance that is often taken by scouts. There are no other known details about this form's abilities. During the occuptation of Urithiru, some Regals in relayform served [[Raboniel\|Raboniel]], scouting the Tower and delivering reports to Venli, Raboniel's Voice.
 
-### Forma de humo
+### Smokeform
 >“*Smokeform for hiding and slipping between men. / A form of power, like human Surges. / Bring it 'round again. / Though crafted of gods, / It was by Unmade hand. / Leaves its force to be but one of foe or friend.*”
 \-127th stanza of the Song of Histories[56]
 
@@ -109,32 +108,15 @@ La Forma comunicadora es una forma de poder con una apariencia pulcra que suele 
 \-51st stanza of the Song of Secrets[57]
 
 
-Nada se conoce de la forma de humo más haya de sus menciones en las canciones de los oyentes, que sugieren que esta forma concede algún tipo de habilidad para esconderse y moverse ágilmente. No hay cantores conocidos usando esta forma en la Auténtica Desolación hasta el momento.
+Nothing is known of smokeform beyond its mentions in the songs of the listeners, which imply that this form may grant some sort of ability to hide or move nimbly. There are no known singers bearing this form in the True Desolation as of yet.
 
-### Desconocido
-[[Axindweth\|Axindweth]] sugiere a [[Venli\|Venli]] que existe una forma desconocida que concede la curación. 
+### Unknown
+[[Axindweth\|Axindweth]] suggests to [[Venli\|Venli]] that there is an unknown form which grants healing.
 
-## Ver también
-[[Cantor\|Cantor]]
-[[Fusionado\|Fusionado]]
-[[Portador del Vac%C3%ADo\|Portador del Vacío]]
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] ·  · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## See Also
+[[Singer\|Singer]]
+[[Fused\|Fused]]
+[[Voidbringer\|Voidbringer]]
 
 
-
-https://es.coppermind.net/wiki/Regal
+https://coppermind.net/wiki/Regal

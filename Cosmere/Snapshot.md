@@ -1,13 +1,13 @@
 |***Snapshot***|
 |-|-|
 ||
-|**Fecha original**|February 17, 2017|
-|**Número de Palabras**|23,564|
+|**Released**|February 17, 2017|
+|**Word Count**|23,564|
 
-This article is about the novella. Para the construct itself that is the setting of the novella, ver .
+This article is about the novella. For the construct itself that is the setting of the novella, see [[Snapshot (event)\|Snapshot (event)]].
 ***Snapshot*** is a non-[[Cosmere\|cosmere]] science fiction novella by Brandon Sanderson.
 
-## Sumario
+## Contents
 
 1 Synopsis. [[#Synopsis]] 
 2 Summary. [[#Summary]] 
@@ -27,8 +27,8 @@ The hunt is on. And though the dupes in the replica city have no future once the
 
 
 ## Summary
-Para a chapter by chapter summary, ver .
-[[Anthony Davis\|Anthony Davis]] and his partner [[Chaz\|Chaz]] enter a  to investigate two crimes. The first is a murder that had occurred in the morning. They first eat breakfast in a diner, where Davis sees an attractive lady, from whom he eventually gets her phone number on a slip of paper. They then go to the location of the murder and follow [[Enrique Estevez\|Enrique Estevez]] as he flees the scene. They see him dump his gun in a sewer, so Davis contacts the Snapshot liaison, [[Maria\|Maria]], where in the real world (IRL) the police retrieve the gun, providing vital evidence for the murder case.
+For a chapter by chapter summary, see [[Snapshot/Summary\|/Summary]].
+[[Anthony Davis\|Anthony Davis]] and his partner [[Chaz\|Chaz]] enter a [[Snapshot (event)\|Snapshot]] to investigate two crimes. The first is a murder that had occurred in the morning. They first eat breakfast in a diner, where Davis sees an attractive lady, from whom he eventually gets her phone number on a slip of paper. They then go to the location of the murder and follow [[Enrique Estevez\|Enrique Estevez]] as he flees the scene. They see him dump his gun in a sewer, so Davis contacts the Snapshot liaison, [[Maria\|Maria]], where in the real world (IRL) the police retrieve the gun, providing vital evidence for the murder case.
 The second crime is not until that evening. They are to simply witness who hit first in a domestic disturbance case. Chaz doesn't even want to bother, but Davis convinces him to check out a mysterious police call that was never reported. They investigate an apartment building and find eight dead bodies in a swimming pool. They decide to investigate further, so they go to the police station to talk to Maria. After flashing their reality badge, she shows them the case file of a serial killer nicknamed the Photographer. He kills several people at a time then hides the evidence in a way that makes it difficult to investigate in Snapshots.
 They go back to the building and Davis talks to a drug dealer. He reveals the location of another hideout of the Photographer -- an abandoned school. There, Chaz and Davis discover more dead bodies, but one person has survived and tells them that the Photographer comes back every evening to check on them. They decide to stake out the school later, but in the meantime, they go over to Ingred Street where Davis plays with his son in the park. His son IRL has not seen him for months because of a custody dispute with his recently divorced wife. Chaz comes back an hour later, and they head back to the school.
 The Photographer returns, and they follow him back to his residence, which happens to be very near the location of the second investigation that they were supposed to do. Davis confronts the Photographer and pretends to understand why he needs to kill all those people. He considers them [[Deviation\|Deviations]] that must be cleansed from the Snapshot so that it can keep going. He reveals a plan to kill a bunch of children with peanut allergies in a few days. Chaz comes up from behind and shoots the Photographer, and Davis then puts his own plan into action to kill Chaz using a gun from a nearby gang shootout. Chaz has been sleeping with his ex-wife in the Snapshot while he plays with his son. At the last minute, Davis decides that he needs to start a new life without his ex-wife, and does not shoot Chaz.
@@ -40,33 +40,10 @@ The initial draft of *Snapshot* was written during March 2016 during a trip to D
 ## Publication History
 
 ## Cover Gallery
-Para a cover gallery of Snapshot, ver .
+For a cover gallery of Snapshot, see [[Snapshot/Covers\|/Covers]].
 ## Trivia
-*Snapshot* was originally set in a  in the universe of , but [[Brandon\|Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.
-
-## Notes
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|******|
-|-|-|
-|**Characters**|[[Anthony Davis\|Anthony Davis]] · [[Chaz\|Chaz]] · [[Enrique Estevez\|Enrique Estevez]]|
-|**Places**|[[New Clipperton\|New Clipperton]]|
-|**Other**|[[Snapshot (evento)\|Snapshot (evento)]] · [[Deviation\|Deviation]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] ·  · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+*Snapshot* was originally set in a [[Reckoners Multiverse\|Core Possibility]] in the universe of [[The Reckoners\|The Reckoners]], but [[Brandon\|Brandon]] changed his mind and removed it from the universe because the film rights of the series and the novella are owned by different companies.
 
 
 
-https://es.coppermind.net/wiki/Snapshot
+https://coppermind.net/wiki/Snapshot

@@ -1,69 +1,49 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Mandra**|
 |-|-|
 ||
-|**Tipo**|Spren|
-|**Capacidades**|[[Astilla\|Astilla]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Spren|
+|**Abilities**|[[Splinter\|Splinter]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Los **mandras** son un tipo de [[Spren\|spren]] de [[Roshar\|Roshar]]. En el [[Reino F%C3%ADsico\|Reino Físico]] son conocidos como **suertespren**, **abismospren** or **apaliki'tokoa'a**. En [[Shadesmar\|Shadesmar]], se utilizan para el transporte.
+**Mandras** are a type of [[Spren\|spren]] on [[Roshar\|Roshar]]. In the [[Physical Realm\|Physical Realm]] they are called **luckspren**, **chasmspren** or **apaliki'tokoa'a**. In [[Shadesmar\|Shadesmar]], they are used for transportation.
 
-## Sumario
+## Contents
 
-1 Apariencia. [[#Apariencia]] 
+1 Appearance. [[#Appearance]] 
 
 1. [[#Shadesmar]] 
-1. [[#Reino F.C3.ADsico]] 
+1. [[#Physical Realm]] 
 
 
-2 Habilidades. [[#Habilidades]] 
-3 Mitología. [[#Mitolog.C3.ADa]] 
-4 Notas. [[#Notas]] 
+2 Abilities. [[#Abilities]] 
+3 Mythology. [[#Mythology]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia
-  Bocetos de mandras del <<Cuaderno de bocetos de Shallan\|cuaderno de bocetos de Shallan>>
-Para más imagenes, ver [[Mandra/Galer%C3%ADa\|/Galería]].
+## Appearance
+  Sketches of Mandras from <<Shallan's sketchbook\|Shallan's sketchbook>>
+For more images, see [[Mandra/Gallery\|/Gallery]].
 ### Shadesmar
-Los mandras tienen cabezas de forma triangular, que es la forma que tienen los que se encuentran cerca de los [[Grancaparaz%C3%B3n\|grancaparazones]] en el Reino Físico. Vienen en una variedad de tamaños; los que se utilizan para tirar de los barcos en Shadesmar son mucho más grandes que los suertespren que aparecen en el Reino Físico. Sus cuerpos son largos y sinuosos con múltiples conjuntos de patas y múltiples conjuntos de alas onduladas a lo largo de sus cuerpos. Las alas se mueven a un ritmo regular.
+Mandras have triangular shaped heads, which are the exact same shape as those that are found near [[Greatshell\|greatshells]] in the Physical Realm. They come in a variety of sizes; the ones used for pulling ships in Shadesmar are much larger than luckspren that appear in the Physical Realm. Their bodies are long, sinuous with multiple sets of legs and multiple sets of undulating wings along their bodies. The wings move at a regular rhythm.
 
-### Reino Físico
-Los suertespren tienen la apariencia de pequeños peces azules con forma de punta de flecha que revolotean alrededor de la criatura a la que están rodeando en la dirección general de su desplazamiento. La forma de sus cabezas se corresponde con las cabezas triangulares de los mandras. Los suertespren se encuentran a menudo cerca de grancaparazones, [[Abismoide\|abismoides]], [[Anguila a%C3%A9rea\|anguilas aereas]] cualquier cosa que sea más ligera de lo que parece. Aparecen en enjambres alrededor de las anguilas aéreas. Cuando desaparecen del Reino Físico es como una pequeña columna de humo que se eleva en el aire.
+### Physical Realm
+Luckspren have the appearance of tiny, blue, arrowhead-like fish that dart around the creature they're swarming in the general direction of its travel. The shape of their heads correspond to the triangular heads of the Mandras. Luckspren are often found near greatshells, [[Chasmfiend\|chasmfiends]], [[Skyeel\|skyeels]], anything that is lighter than it appears to be. They appear in swarms around Skyeels. When they disappear from the physical realm it is like a small plume of smoke rising into the air.
 
-## Habilidades
-Los mandras son los spren que se vinculan con los grancaparazones, abismoides y [[Larkin\|Larkin]], evitando que sean aplastados por su propio peso. Esto fue descubierto por [[Bavamar\|Bavamar]] con cálculos matemáticos. Los mandras de diferentes lugares pueden tener diferentes tamaños y fuerzas, y un grancaparazones puede necesitar volver varias veces durante su ciclo de vida para vincular mandras adicionales para que puedan seguir creciendo. Los mandras parecen evitar las reglas de la física y sus alas no son la fuente de su locomoción. Pueden ser empujados hasta la extenuación.
+## Abilities
+Mandras are the spren who bond with greatshells, chasmfiends, and [[Larkin\|larkin]], preventing them from being crushed under their own weight. This was discovered by [[Bavamar\|Bavamar]] with mathematical calculations. Mandras from different locations can be different sizes and strengths, and a greatshell may need to return multiple times during their lifecycle to bond additional mandras so they can continue growing. Mandras seem to avoid the rules of physics and their wings are not the source of their locomotion. They can be pushed to exhaustion.
 
-  Mandras volando alrededor de un <<Abismoide\|abismoide>>
-Los mandras tienen una tendencia a desvanecerse, llamado "caer". Esto ocurre cuando son arrastrados al Reino Físico. No pueden ser retirados de los centros de población humana durante mucho tiempo, ya que comienzan a consumirse y morir. La razón por la que esto ocurre es desconocida por los [[Alcanzador\|Alcanzador]] que los utilizan para arrastrar sus naves.
-Se ve que los mandras son utilizados en Shadesmar para tirar de los barcos por los Alcanzador, [[Honorspren\|honorspren]], y muy probablemente por cualquier otra cuadrilla de barcos, ya que todos los barcos de Celebrant los tienen. Están enganchados con un juego de poleas a cada lado de su cuerpo. Para dirigirlos en cualquier dirección, los marineros acortan una de las poleas y la atan a unas abrazaderas conectadas a los lados del barco. Los mandras enganchados al barco de los honorspren tienen arneses dorados y emplean más de dos, ya que tienen mandras enganchados a las alas de los lados de su barco.
-Debido a la tendencia de las mandras a "caer", los marineros siempre emplean al menos dos mandras para no acabar encallados. Una vez que los barcos han atracado, los mandras se desprenden del barco utilizando largos ganchos y se alejan. [[Adolin\|Adolin]] se pregunta si se atan a la popa del barco para sacarlos de los muelles, pero dado que Adolin es [[Alezkar\|alezi]], un pueblo que tiene fama de saber poco de navegación, hay que tomarlo con pinzas.
-A los mandras no parece gustarles el fuego. Sus marineros intentan controlarlos y alejarlos cuando el barco de [[Ico\|Ico]] está ardiendo.
+  Mandras flying around a <<Chasmfiend\|chasmfiend>>
+Mandras have a tendency to vanish, called "dropping". This occurs when they get pulled into the Physical Realm. They cannot be removed from human population centres for long as they begin to waste away and die. Why this happens is unknown to the [[Reacher\|Reachers]] who use them to pull their ships.
+Mandras are seen to be used in Shadesmar to pull ships by Reachers, [[Honorspren\|honorspren]], and most likely anyone other ship crew as every ship in Celebrant has them. They are harnessed with a set of pulleys on either side of their body. To steer them in either direction the sailors shorten one of the pulleys and tie it off on cleats connected to the sides of the ship. The Mandras hooked to the honorspren ship have golden harnesses and they employ more than just two, having Mandras attached to wings on the side of their ship.
+Because of Mandras' tendency to "drop" the sailors always employ at least two Mandras so they do not end up stranded. Once the ships have docked the Mandras are detached from the ship using long hooks and lead away. [[Adolin\|Adolin]] wonders if they are attached to the stern of the ship to pull them from the docks but given that Adolin is [[Alethi\|Alethi]], a people who are infamous for knowing little about sailing, this is to be taken with a grain of salt.
+Mandras do not seem to like fire. Their sailors try to control and move them away when [[Ico\|Ico's]] ship is burning.
 
-## Mitología
-Las leyendas cuentan que los suertespren conducen a un tesoro.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Mythology
+Legends tell of luckspren leading to treasure.
 
 
 
-https://es.coppermind.net/wiki/Mandra
+https://coppermind.net/wiki/Mandra

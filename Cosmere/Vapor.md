@@ -1,38 +1,25 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Vapor**|
 |-|-|
-|**Títulos**|Identificador: Viento que se Entremezcla con el Último Aliento de un Hombre|
-|**Oficio**|Piloto de la Supremacía|
-|**Grupo**|[[El %C3%9Altimo Beso de las Flores Nocturnas\|El Último Beso de las Flores Nocturnas]]|
-|**Especie**|[[Quimera\|Quimera]]|
-|**Mundo natal**|*Desconocido*|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Estelar\|Estelar]]*|
+|**Titles**|Callsign: Wind That Mingles with a Man’s Dying Breath|
+|**Profession**|Superiority pilots|
+|**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
+|**Species**|[[Figment\|Figment]]|
+|**Homeworld**|*Unknown*|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Starsight\|Starsight]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]* and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*La suerte es para quienes no saben oler su camino adelante*”
+>“*Luck is for those who cannot smell their path forward.*”
 \-Vapor[1]
 
 
-**Vapor** es una [[Quimera (Escuadr%C3%B3n)\|quimera]] que vive en Visión Estelar y que trabaja para [[Cuna\|Cuna]]. Vapor puede o no ser su nombre real, pero pide que su escuadrón la llame así.
+**Vapor** is a [[Figment\|figment]] who lives on Starsight and who works for [[Cuna\|Cuna]]. Vapor may or may not be her actual name, but she requests that her flight call her that.
 
-## Historia
-Vapor fue uno de los muchos pilotos que participaron en una batalla de práctica organizada por [[Winzik\|Winzik]] para eliminar a los pilotos menos aptos. Durante la batalla habitó un pequeño dron krell. Cuando el caza de Morrimur quedó incapacitado y Spensa envió una llamada de socorro, Vapor accedió a ayudar mientras Spensa no le disparara. A petición de Spensa, Vapor defendió a Morrimur de las naves enemigas mientras ella se esforzaba por retirar un trozo de escombro del propulsor de Morrimur.
-Tras la batalla de prueba, Vapor fue asignado al escuadrón de [[Spensa\|Spensa]], [[Brade\|Brade]] y [[Hesho\|Hesho]], y se presentó a ellos.
-
-## Notas
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] ·  · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## History
+Vapor was one of the many pilots who participated in a practice battle organized by [[Winzik\|Winzik]] to weed out less suitable pilots. She inhabited a small Krell drone during the battle. When Morrimur’s fighter was incapacitated and Spensa sent out a distress call, Vapor agreed to help as long as Spensa didn’t shoot her. At Spensa’s request, Vapor defended Morrimur from enemy ships as Spensa worked to remove a chunk of debris from Morrimur’s booster.
+After the test battle, Vapor was assigned to [[Spensa\|Spensa]], [[Brade\|Brade]], and [[Hesho\|Hesho]]’s flight, and introduced herself to them.
 
 
 
-https://es.coppermind.net/wiki/Vapor
+https://coppermind.net/wiki/Vapor

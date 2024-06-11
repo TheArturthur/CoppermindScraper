@@ -1,35 +1,19 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Iiaria**|
 |-|-|
-|**Región**|[[Lado Oscuro\|Lado Oscuro]]🐱︎|
-|**Mundo**|[[Taldain\|Taldain]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Region**|[[Darkside\|Darkside]]|
+|**World**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Iiaria** es una nación en el extremo norte de [[Lado Oscuro\|Lado Oscuro]] en el planeta [[Taldain\|Taldain]]. Es el hogar de [[Skathan\|Skathan]], el emperador del Lado Oscuro, y sirve como sede del poder de la [[Dinast%C3%ADa\|Dinastía]].
-Los iiarianos suelen tener la piel morena, los ojos marrones y el pelo oscuro. Tienen un acento identificable cuando hablan la lengua dinástica. [[Jon Acron\|Jon Acron]] considera que los iiarianos son bastante supersticiosos.
-Se conocen pocos detalles sobre Iiaria, pero se supone que es la base de operaciones de la importante fuerza militar de la Dinastía, que incluye una poderosa armada y un ejército de [[Tallado por las estrellas\|tallados por las estrellas]]. El emperador Skathan también reprime la difusión del conocimiento y la tecnología dentro de la Dinastía y controla estrictamente los viajes entre naciones, utilizando para ello una extensa red de asesinos y espías. El propio Skathan tiene varias habilidades mágicas que no se comprenden bien.
+**Iiaria** is a nation in the northern end of [[Darkside\|Darkside]] on the planet [[Taldain\|Taldain]]. It is the home of [[Skathan\|Skathan]], Darkside's emperor, and serves as the seat of power of the [[Dynasty\|Dynasty]].
+Iiarians typically have dark brown skin, brown eyes, and dark hair. They have an identifiable accent when speaking the Dynastic language. [[Jon Acron\|Jon Acron]] considers Iiarians to be quite superstitious
+Few specifics are known about Iiaria, but it is presumably the base of operations for the Dynasty's significant military strength, including a powerful navy and a [[Starcarved\|Starcarved]] army. Emperor Skathan also suppresses the spread of knowledge and technology within the Dynasty and strictly controls travel between nations, using an extensive network of assassins and spies to do so. Skathan himself has several magical abilities that are not well-understood.
 
-## Iiarianos conocidos
+## Known Iiarians
 [[Baon\|Baon]]
 [[Loaten\|Loaten]]
 [[Skathan\|Skathan]]
-## Curiosidades
-En la versión original de *[[Arena Blanca\|Arena Blanca Volumen 1]]*, Khriss mencionaba a los "iirarianos" al describir a los habitantes de [[Lonzare\|Lonzare]]. Es de suponer que se trataba de un error tipográfico, ya que el diálogo se cambió para la edición ómnibus.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 16:35, 1 de septiembre de 2023 (UTC)
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## Trivia
+In the original version of *[[White Sand\|White Sand Volume 1]]*, Khriss mentioned "Irarians" when describing the people living in [[Lonzare\|Lonzare]]. This was presumably a typo, as the dialogue was changed for the omnibus edition.
 
 
-
-https://es.coppermind.net/wiki/Iiaria
+https://coppermind.net/wiki/Iiaria

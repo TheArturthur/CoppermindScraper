@@ -1,11 +1,11 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-**Wyrn** es un término usado en [[Fjorden\|Fjorden]] en Sel. Puede hacer referencia a:
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+**Wyrn** is a term used in [[Fjorden\|Fjorden]] on Sel. It can refer to:
 
-[[Wyrn (t%C3%ADtulo)\|Wyrn (título)]], título utilizado por los gobernadores de Fjorden
-[[Wyrn (personaje)\|Wyrn (personaje)]], el fundador de Fjorden; el título Wyrn se utiliza en su honor
-*[[Wyrn el rey\|Wyrn el rey]]*, un antiguo poema sobre el primer Wyrn
-[[Wulfden I\|Wulfden I]], un Wryn histórico que convirtió Fjorden al [[Shu-Dereth\|Shu-Dereth]]
-[[Wulfden IV\|Wulfden IV]], el actual Wyrn
+[[Wyrn (title)\|Wyrn (title)]], the title used by rulers of Fjorden
+[[Wyrn (character)\|Wyrn (character)]], the founder of Fjorden; the title of Wyrn is used in his honor
+*[[Wyrn the King\|Wyrn the King]]*, an ancient poem about the original Wyrn
+[[Wulfden the First\|Wulfden the First]], a historical Wyrn who converted Fjorden to [[Shu-Dereth\|Shu-Dereth]]
+[[Wulfden the Fourth\|Wulfden the Fourth]], the current Wyrn
 
 
-https://es.coppermind.net/wiki/Wyrn
+https://coppermind.net/wiki/Wyrn

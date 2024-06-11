@@ -1,32 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Sousa**|
 |-|-|
-|**Fallecido**|73 , [[Batalla de Alta\|Batalla de Alta]]|
-|**Oficio**|Piloto de la FDD|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
+|**Died**|73 , [[Battle of Alta\|Battle of Alta]]|
+|**Profession**|DDF pilots|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
->“* No sé si les desearía este mando. Ni siquiera a los que odiaba.*”
-\- Férrea, cuando Cobb le pregunta si desearía que otra persona hubiera sobrevivido.[1]
+>“* I'm not sure I'd wish this command on them, not even the ones I hated.*”
+\- Ironsides when asked by Cobb if she wished someone else had survived[1]
 
 
-**Sousa** es un piloto de la [[FDD\|FDD]] en [[Detritus\|Detritus]]. No está claro si es un identificador o el nombre de este piloto.
-Sousa luchó contra los [[Varvax\|krell]] en la [[Batalla de Alta\|Batalla de Alta]] y no sobrevivió, sin embargo, si lo hubiera hecho, sería considerado un [[Primer Ciudadano\|Primer Ciudadano]]. No está claro a qué escuadrón pertenecía Sousa ni cómo murió, sin embargo, es posible que formaran parte del [[Escuadr%C3%B3n Esperanza\|Escuadrón Esperanza]].
-Es posible que a [[F%C3%A9rrea\|Férrea]] no le cayera bien, pero no está claro.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-LadyLameness (talk) 11:52, 28 de agosto de 2019 (UTC)
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+**Sousa** is a pilot in the [[DDF\|DDF]] on [[Detritus\|Detritus]]. It is unclear whether Sousa is a callsign or this pilot's name.
+Sousa fought against the [[Varvax\|Krell]] in the [[Battle of Alta\|Battle of Alta]] and did not survive the battle, however, if they did, they would be considered a [[First Citizen\|First Citizen]]. It is unclear which flight Sousa belonged to or how they died, however, it is possible that they were a part of [[Hope Flight\|Hope Flight]].
+[[Ironsides\|Ironsides]] may have greatly disliked Sousa, however, it is unclear.
 
 
 
-https://es.coppermind.net/wiki/Sousa
+https://coppermind.net/wiki/Sousa

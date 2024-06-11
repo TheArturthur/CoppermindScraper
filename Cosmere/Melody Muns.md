@@ -1,23 +1,23 @@
 |**Melody Muns**|
 |-|-|
 ||
-|**Hermanos**|[[William Muns\|William]], 3 others|
-|**Capacidades**|[[Rithm%C3%A1tica\|Rithmática]]|
-|**Oficio**|Student|
-|**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Siblings**|[[William Muns\|William]], 3 others|
+|**Abilities**|[[Rithmatics\|Rithmatics]]|
+|**Profession**|Student|
+|**Residence**|[[Armedius Academy\|Armedius Academy]]|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 >“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while?*”
 \-Melody to Joel[1]
 
 
-**Melody** is a student at  at the same time as [[Joel Saxon\|Joel Saxon]].
-She is a , but is not very good at drawing circles and other defensive formations. However, she is gifted at drawing , especially . Joel once took a look at her notebook and found it full of castles and unicorns.
-Melody is [[William Muns\|William]]'s sister. They are from the Floridian Atolls where their parents still live. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the  happens.
+**Melody** is a student at [[Armedius Academy\|Armedius Academy]] at the same time as [[Joel Saxon\|Joel Saxon]].
+She is a [[Rithmatics\|Rithmatist]], but is not very good at drawing circles and other defensive formations. However, she is gifted at drawing [[Chalkling\|chalklings]], especially . Joel once took a look at her notebook and found it full of castles and unicorns.
+Melody is [[William Muns\|William's]] sister. They are from the Floridian Atolls where their parents still live. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the [[Melee\|Melee]] happens.
 Both parents as well as William's and Melody's siblings are Rithmatists, a fact that seems to be nearly impossible.
 
-## Sumario
+## Contents
 
 1 History. [[#History]] 
 
@@ -34,20 +34,20 @@ Both parents as well as William's and Melody's siblings are Rithmatists, a fact 
 ## History
  
 ### Student at Armedius
-Melody met Joel for the first time outside [[Layton\|Professor Layton]]'s class, before going inside to speak with the professor. Joel was surprised that she drew unicorns in her notebook, thinking she should be practicing her Rithmatic lines instead. When [[Nalizar\|Nalizar]] became a full professor, he put Melody in charge of delivering mail to professors instead of Joel to punish her for her poor performance in his class and to keep Joel out of the rithmatic classes, assigning her to perform the deliveries every day after her summer elective.
+Melody met Joel for the first time outside [[Layton\|Professor Layton's]] class, before going inside to speak with the professor. Joel was surprised that she drew unicorns in her notebook, thinking she should be practicing her Rithmatic lines instead. When [[Nalizar\|Nalizar]] became a full professor, he put Melody in charge of delivering mail to professors instead of Joel to punish her for her poor performance in his class and to keep Joel out of the rithmatic classes, assigning her to perform the deliveries every day after her summer elective.
 
 ### Remedial Studies with Fitch
 >“*I'm here. Let the flogging commence!*”
 \-Melody on her first day of remedial studies[5]
 
 
-As a student in what was once [[Fitch\|Professor Fitch]]'s class, Melody was assigned to Fitch for remedial studies over the summer. Fitch set her to work tracing the , which annoyed Melody. Fitch, however, said it was important for Melody to practice the basics. Joel, who was serving as an assistant to Fitch, was going through census records. Melody asked Joel if he wanted to swap tasks, but Fitch could hear her easily.
+As a student in what was once [[Fitch\|Professor Fitch's]] class, Melody was assigned to Fitch for remedial studies over the summer. Fitch set her to work tracing the [[/wiki/Rithmatics#Matson Defense]], which annoyed Melody. Fitch, however, said it was important for Melody to practice the basics. Joel, who was serving as an assistant to Fitch, was going through census records. Melody asked Joel if he wanted to swap tasks, but Fitch could hear her easily.
 
 >“*Yes, Melody, it's not a completion -- at least, it's not a competition when you are involved. None at all.*”
 \-Joel bragging to Melody[6]
 
-Over the next week, she worked on tracing the Matson, , , , and  defenses. Fitch taught Melody about keening, the art of figuring out what circle your opponent was drawing and figuring out which strategy would counter it. Melody and Joel competed, drawing defenses, and Fitch judging which would've won in a real duel. They grew quite competitive, Joel eventually insulting Melody and offending her greatly. Though Joel apologized, Melody didn't speak with him for a time. A few days later, when Melody was sitting at her customary solitary table at dinner, Joel asked her to help him get into the Rithmatic section of the campus library. Melody agreed, ostensibly because she just wanted to get a peek at Nalizar. Melody found out for Joel that Nalizar was researching new Rithmatic line theories, and also checked out a book for Joel, not knowing it was on the origins of Rithmatics. Joel complimented Melody on her skill with chalklings, and taught her the  to let her use them more effectively.
-Joel became involved in the investigations regarding missing Rithmatic students, but Melody was not privy to the same information. One night, when Melody was sitting alone at dinner, Joel invited her over to sit with him and . Joel asked about Rithmatic inception ceremonies, but Melody refused to say anything about them. They avoided the topic afterward, Melody declaring that they should get ice cream at a parlor off-campus.
+Over the next week, she worked on tracing the Matson, [[/wiki/Rithmatics#Osborn]], [[/wiki/Rithmatics#Ballintain]], [[/wiki/Rithmatics#Sumsion]], and [[/wiki/Rithmatics#Eskridge]] defenses. Fitch taught Melody about keening, the art of figuring out what circle your opponent was drawing and figuring out which strategy would counter it. Melody and Joel competed, drawing defenses, and Fitch judging which would've won in a real duel. They grew quite competitive, Joel eventually insulting Melody and offending her greatly. Though Joel apologized, Melody didn't speak with him for a time. A few days later, when Melody was sitting at her customary solitary table at dinner, Joel asked her to help him get into the Rithmatic section of the campus library. Melody agreed, ostensibly because she just wanted to get a peek at Nalizar. Melody found out for Joel that Nalizar was researching new Rithmatic line theories, and also checked out a book for Joel, not knowing it was on the origins of Rithmatics. Joel complimented Melody on her skill with chalklings, and taught her the [[/wiki/Rithmatics#Jordan Defense]] to let her use them more effectively.
+Joel became involved in the investigations regarding missing Rithmatic students, but Melody was not privy to the same information. One night, when Melody was sitting alone at dinner, Joel invited her over to sit with him and [[Mrs. Saxon\|his mother]]. Joel asked about Rithmatic inception ceremonies, but Melody refused to say anything about them. They avoided the topic afterward, Melody declaring that they should get ice cream at a parlor off-campus.
 
 >“*Oh, wow. You really **are** poor.*”
 \-Melody to Joel[8]
@@ -55,7 +55,7 @@ Joel became involved in the investigations regarding missing Rithmatic students,
 On their way to the parlor, Melody asked Joel about his inception ceremony, and why he wanted to be a Rithmatist. Joel couldn't afford the expensive ice cream, but Melody gave him money to pay for both of theirs. She let him keep the change, which was practically a fortune to Joel. They both saw a newspaper, which had an article from a reporter that had interviewed and tricked Fitch into revealing information about his investigation.
 
 ### Investigating the Missing Rithmatists
-When [[Charles Calloway\|Charles Calloway]] was kidnapped and Joel and Fitch went to investigate the crime scene, Melody was assigned to stay at Fitch's office and work on her tracings. However, she followed them to the scene, spying on them. She was caught, and interrogated by Inspector [[Harding\|Harding]]. He was suspicious that she might be the , the person behind the kidnappings, but Joel vouched for her.
+When [[Charles Calloway\|Charles Calloway]] was kidnapped and Joel and Fitch went to investigate the crime scene, Melody was assigned to stay at Fitch's office and work on her tracings. However, she followed them to the scene, spying on them. She was caught, and interrogated by Inspector [[Harding\|Harding]]. He was suspicious that she might be the [[Scribbler\|Scribbler]], the person behind the kidnappings, but Joel vouched for her.
 
 >“*Joel! I have decided that I'm **brilliant**!*”
 \-Melody calling to Joel[10]
@@ -81,17 +81,8 @@ Late that night, Melody and Joel were on a walk when they found Harding's men ou
 \-Melody to Joel at the start of the Melee[16]
 
 
-As Fitch's only Rithmatist student, Melody was required to participate in the . In a move that was technically legal, Joel joined Melody's team at the last moment. They were placed at random in the center of the arena, the worst position. They worked together as a team during the melee, Joel drawing lines with his chalk and Melody tracing them with hers. Joel also drew Xs in various points to denote where Melody should draw chalklings. They drew a complex , a nine-pointer. With both Joel’s mastery of Rithmatic defenses and Melody’s skill with chalklings, they won the melee, defeating Nalizar’s students and everyone else.
-
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El rithmatista\|El rithmatista]]**|
-|-|-|
-|**Characters**|[[Joel Saxon\|Joel Saxon]] ·  · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
-|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
-|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
+As Fitch's only Rithmatist student, Melody was required to participate in the [[Melee\|Melee]]. In a move that was technically legal, Joel joined Melody's team at the last moment. They were placed at random in the center of the arena, the worst position. They worked together as a team during the melee, Joel drawing lines with his chalk and Melody tracing them with hers. Joel also drew Xs in various points to denote where Melody should draw chalklings. They drew a complex [[/wiki/Rithmatics#Easton Defense]], a nine-pointer. With both Joel’s mastery of Rithmatic defenses and Melody’s skill with chalklings, they won the melee, defeating Nalizar’s students and everyone else.
 
 
 
-https://es.coppermind.net/wiki/Melody_Muns
+https://coppermind.net/wiki/Melody_Muns

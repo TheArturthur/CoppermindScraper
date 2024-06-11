@@ -1,42 +1,17 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Razal**|
 |-|-|
-|**Capacidades**|[[/wiki/Peltre#Uso feruqu.C3.ADmico]]|
-|**Residencia**|[[La Aldea\|La Aldea]]|
-|**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
+|**Abilities**|[[/wiki/Pewter#Feruchemical Use]]|
+|**Residence**|[[The Village\|The Village]]|
+|**Ethnicity**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
-**Razal** es un [[Terris\|terrisano]] que vive en [[La Aldea\|La Aldea]], en [[Elendel\|Elendel]].
-Razal no tiene las características alargadas que se asocian con los terrisanos previos al [[Catacendro\|Catacendro]] de [[Scadrial\|Scadrial]], sin embargo, puede tener la altura o la tonalidad de piel más oscura que se ha transmitido de los terrisanos [[Originadores\|Originadores]].
-Es un [[Ferrin\|ferrin]], con los poderes de un [[Peltre\|bruto]] (la habilidad para cargar feruquímicamente una [[Mente de metal\|mente de metal]] de peltre, la cual después puede usar para incrementar su fuerza física). Está a cargo de otros dos guardias brutos y los tres son responsables de expulsar a los intrusos de La Aldea. Es testarudo, un atributo que probablemente es una ayuda en sus deberes como guardia. Sin embargo, a pesar de su naturaleza terca, sigue siendo respetuoso con el liderazgo y las costumbres terrisanas. No reconoce a [[Wax\|Wax]] como terrisano por su apariencia, pero ha oído antes sobre él y está al tanto de que es el nieto de [[Vwafendal\|Vwafendal]].
-Razal se enfrenta a Wax cuando entra en La Aldea para hablar con su abuela sobre la muerte de lord [[Winsting\|Winsting]] y sus asociados, intentando forzar a Wax a irse. Vwafendal interrumpió el enfrentamiento y señaló que Wax podía entrar libremente en La Aldea debido a su herencia terrisana.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-LadyLameness (talk) 09:13, 13 August 2019 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+**Razal** is a [[Terris\|Terrisman]] who lives in [[The Village\|the Village]] in [[Elendel\|Elendel]].
+Razal does not have the elongated features that are associated with the Terris of pre-[[Catacendre\|catacendre]] [[Scadrial\|Scadrial]], however, he may have the height or darker skin coloring that has been passed down from the Terris [[Originators\|Originators]].
+He is a [[Ferring\|Ferring]], with the powers of a [[Pewter\|Brute]] - the ability to Feruchemically charging pewter [[Metalmind\|metalminds]], which he can then later tap to increase his physical strength. He is in charge of two other Brute guards and the three are responsible for removing trespassers from the Village. He is a stubborn person - an attribute that is likely an aid in his duties as guard. However, despite his stubborn nature he is still respectful of Terris leadership and customs. He does not recognize [[Wax\|Wax]] as being Terris from his appearance, however, has heard of him before and is aware that he is [[Vwafendal\|Vwafendal's]] grandson.
+Razal confronts Wax when he entered the Village to speak with his grandmother about the death of Lord [[Winsting\|Winsting]] and his associates, attempting to force Wax to leave. Vwafendal interrupted the confrontation and advised that Wax could freely enter the Village due to his Terris heritage.
 
 
 
-https://es.coppermind.net/wiki/Razal
+https://coppermind.net/wiki/Razal

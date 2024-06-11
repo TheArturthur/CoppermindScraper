@@ -1,62 +1,48 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Eshen**|
 |-|-|
-|**[[Familia real arelena\|Familia real arelena]]**|
-|**Cónyuge**|[[Iadon\|Iadon]]|
-|**Parientes**|[[Raoden\|Raoden]] (hijastro)|
-|**Fallecido**|[[Invasi%C3%B3n de Arelon\|Invasión de Arelon]]|
-|**Títulos**|Reina de [[Arelon\|Arelon]] |
-|**Residencia**|[[Kae\|Kae]]|
-|**Nacionalidad**|[[De Arelon\|de Arelon]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**[[Arelene Royal Family\|Arelene Royal Family]]**|
+|**Spouse**|[[Iadon\|Iadon]]|
+|**Relatives**|[[Raoden\|Raoden]] (stepson)|
+|**Died**|[[Invasion of Arelon\|Invasion of Arelon]]|
+|**Titles**|Queen of [[Arelon\|Arelon]] |
+|**Residence**|[[Kae\|Kae]]|
+|**Nationality**|[[Arelene\|Arelene]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
-**Eshen** es la antigua reina de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Es la segunda esposa del rey [[Iadon\|Iadon]] y madrastra del príncipe [[Raoden\|Raoden]].
+**Eshen** is the former Queen of [[Arelon\|Arelon]] on [[Sel\|Sel]]. She is King [[Iadon\|Iadon's]] second wife and Prince [[Raoden\|Raoden's]] stepmother.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
 
 3. [[#Iadon]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Eshen es "bajita y de complexión delgada" y tiene el pelo rubio castaño que empieza a encanecer. Su voz es aguda. 
-Eshen es muy doméstica, huidiza y nada inteligente. Siempre habla para llenar un silencio, y es más propensa a balbucear tonterías que a discutir seriamente. Es alegre y jovial en casi todas las situaciones. [[Roial\|Roial]] la llama "cabeza hueca".
+## Appearance and Personality
+Eshen is "short and slight of frame" with brownish-blonde hair beginning to grey. She has a high-pitched voice.
+Eshen is highly domestic, flighty, and far from intelligent. She will always talk to fill a silence, and she is more prone to inane babble than serious discussion. She is cheerful and bubbly in nearly every situation. [[Roial\|Roial]] calls her "empty-headed".
 
-## Historia
-Eshen se casó con Iadon poco después del [[Reod\|Reod]] y la ascensión de este al trono, unos años después de la muerte de la madre de [[Raoden\|Raoden]]. Su matrimonio con Iadon fue probablemente impulsado por la riqueza de su familia, ya que sus donaciones le ayudaron a establecer su gobierno inicial. Eshen era probablemente más joven que Iadon, ya que aún estaba en edad fértil cuando Raoden fue tomado por la Shaod.
-Eshen recibió a Sarene cuando ésta llegó a [[Kae\|Kae]] tras la "muerte" de Raoden. Aunque era conocida por ser despistada, [[Sarene\|Sarene]] teorizó que su nerviosismo y su tendencia a saltar aleatoriamente de un tema a otro en la conversación eran el resultado de sus intentos por evitar hablar de la verdad tras la muerte de Raoden. Acompañó a Sarene a sus aposentos y le proporcionó ropa extra. También organizó el funeral de Raoden.
-Formó parte del círculo de mujeres bordadoras al que Sarene se unió en Kae. A través este, Eshen participó posteriormente en las clases de esgrima de Sarene durante un breve periodo de tiempo. También acompañó a Iadon a un baile organizado por [[Roial\|Roial]].
-Eshen desconocía la relación de su marido con los [[Misterios Jeskeri\|Misterios Jeskeri]]. Tras su desgracia y muerte, Eshen se convirtió en una sombra de sí misma.
-Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]], cuando los ciudadanos de [[Kae\|Kae]] fueron acorralados para ser ejecutados, Eshen y varias de las demás mujeres esgrimistas cogieron armas y atacaron a los combatientes fjordell. Eshen pudo oponer una resistencia decente, aprovechando la conmoción de los soldados ante el ataque de las mujeres, antes de que un soldado la apuñalara en el pecho. Su muerte desmotivó a las demás mujeres, que se rindieron rápidamente.
+## History
+Eshen married Iadon shortly after the [[Reod\|Reod]] and Iadon's ascension to the throne, a few years after [[Raoden's mother\|Raoden's mother]] died. Her marriage to Iadon was likely prompted by her family's wealth, as their donations helped him set up his initial government. Eshen was presumably younger than Iadon, as she was still of childbearing age when Raoden was taken by the [[Shaod\|Shaod]].
+Eshen received Sarene when she arrived in [[Kae\|Kae]] after Raoden's "death". Although she was known to be scatterbrained, [[Sarene\|Sarene]] theorized that her nervousness and tendency to jump randomly between subjects in conversation were a result of her attempts to avoid talking about the truth behind Raoden's death. She showed Sarene to her quarters and provided her with some extra clothing. She also set up the funeral service for Raoden.
+She was part of the women's knitting circle that Sarene joined in Kae. Through the knitting circle, Eshen subsequently participated in Sarene's fencing lessons for a short time. She also accompanied Iadon to a ball held by [[Roial\|Roial]].
+Eshen was not aware of her husband's involvement with the [[Jeskeri Mysteries\|Jeskeri Mysteries]]. After his disgrace and death, Eshen was left a shell of her former self.
+During the [[Invasion of Arelon\|Invasion of Arelon]], when the citizens of [[Kae\|Kae]] were rounded up for execution, Eshen and several of the other female fencers picked up weapons and attacked the Fjordell fighters. Eshen was able to put up a decent fight, using the soldiers' shock at the women attacking to their advantage, before a soldier stabbed her through the chest. Her death demotivated the other women who quickly surrendered.
 
-## Relaciones
+## Relationships
 ### Iadon
-Se pensaba que el matrimonio de Eshen con Iadon era más por conveniencia que por amor, y Sarene señaló que sus personalidades eran completamente diferentes. La naturaleza insípida de Eshen y su propensión a centrarse en cosas como la moda y la comida sirvieron para reforzar los prejuicios de [[Iadon\|Iadon]] respecto a las mujeres. Solía mantener las distancias con Iadon, que se mostraba abiertamente despectivo hacia ella. Posiblemente debido a su relación relativamente distante, Iadon pudo ocultarle muchos secretos.
+Eshen's marriage to Iadon was thought to be one of convenience rather than love, and Sarene noted that their personalities were completely different. Eshen's vapid nature and her propensity to focus on things like fashion and food served to reinforce [[Iadon\|Iadon's]] prejudices regarding women. She tended to keep her distance from Iadon, as he was openly dismissive of her. Possibly owing to their relatively distant relationship, Iadon was able to keep many secrets from her.
 
-## Curiosidades
-Brandon ha señalado que a los lectores no parece importarles mucho la muerte de Eshen; cree que les pone de los nervios.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:23, 26 de mayo de 2020 (UTC)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+Brandon has noted that readers do not seem to care much about Eshen's death; he thinks she gets on their nerves.
 
 
-
-https://es.coppermind.net/wiki/Eshen
+https://coppermind.net/wiki/Eshen

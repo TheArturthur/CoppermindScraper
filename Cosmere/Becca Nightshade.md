@@ -1,140 +1,127 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Becca Nightshade**|
 |-|-|
-|**Familia**|
-|**Hijos**|[[Zeen Nightshade\|Zeen Nightshade]]|
-|**Padres**|[[Bisabuela de Spensa\|Bisabuela de Spensa]] y [[Bisabuelo de Spensa\|Bisabuelo de Spensa]]|
-|**Descendientes**|[[Spensa Nightshade\|Spensa Nightshade]]|
-|**Capacidades**|[[Cit%C3%B3nica (habilidad)\|Citónicas]]|
-|**Apodos**|La yaya|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
+|**Family**|
+|**Children**|[[Zeen Nightshade\|Zeen Nightshade]]|
+|**Parents**|[[Spensa's great-grandmother\|Spensa's great-grandmother]] & [[Spensa's great-grandfather\|Spensa's great-grandfather]]|
+|**Descendants**|[[Spensa Nightshade\|Spensa Nightshade]]|
+|**Abilities**|[[Cytonics\|Cytonics]]|
+|**Aliases**|Gran-Gran|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*No debemos encogernos en la oscuridad porque nos dé miedo la chispa que hay en nuestro interior.*”
+>“*We *must not* cower in the dark because we are afraid of the spark within us.*”
 \-Becca on cytonic abilities[1]
 
 
-Becca Nightshade, más conocida como la yaya, es la abuela de [[Spensa\|Spensa]] Nightshade, que fue miembro de la tripulación de la *[[Desafiante (nave)\|Desafiante]]'* y ahora reside en [[Caverna %C3%8Dgnea\|Caverna Ígnea]]. Tiene habilidades [[Cit%C3%B3nica (habilidad)\|citónicas]].
+**Becca Nightshade**, more commonly known as **Gran-Gran**, is [[Spensa\|Spensa]] Nightshade’s grandmother who was a member of the crew of the *[[Defiant (starship)\|Defiant]]* and is now a resident of [[Igneous Cavern\|Igneous Cavern]]. She has [[Cytonics\|cytonic]] abilities.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Habilidades cit.C3.B3nicas]] 
+2. [[#Cytonic Abilities]] 
 
 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Spensa]] 
-4. [[#Madre de Spensa]] 
+4. [[#Spensa.27s Mother]] 
 4. [[#Cobb]] 
 4. [[#Jorgen Weight]] 
 4. [[#Alanik]] 
 
 
-5 Conocimiento de la vieja Tierra. [[#Conocimiento de la vieja Tierra]] 
-6 Notas. [[#Notas]] 
+5 Knowledge of Old Earth. [[#Knowledge of Old Earth]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Becca es casi ciega y tiene los ojos de color blanco lechoso, ya que perdió la vista hace unos años. Tiene los brazos como palos. Teniendo en cuenta el tiempo transcurrido desde el accidente de la *Desafiante*, tiene al menos ochenta años, probablemente más de noventa.
+## Appearance and Personality
+Becca is mostly blind and has milky white eyes, having lost her vision a few years ago. She has sticklike arms. Based on the amount of time since the crash of the *Defiant*, she is at least eighty years old, likely near or over ninety.
 
->“*Detritus no es nuestro hogar. Pero esta sí es mi gente. No la abandonaré.*”
-\-Becca a Alanik por esconderla de la Supremacía.[4]
+>“*Detritus is not our home… but these are my people. I won’t abandon them.*”
+\-Becca to Alanik on hiding her from the Superiority.[4]
 
 
-Es una ferviente defensora de la citónica y cree que la [[FDD\|FDD]] falsificó el relato de la traición de [[Zeen Nightshade\|su hijo]] durante la [[Batalla de Alta\|Batalla de Alta]] porque temían sus habilidades citónicas. Es testaruda y es difícil disuadirla de algo una vez que ha tomado una decisión.
-Siempre ha querido volver a las estrellas, y cree que su madre llevó la *Desafiante* a Detritus porque sentía que había algo que la tripulación necesitaba en ese planeta.
+She is a fierce defender of cytonics and believes the [[DDF\|DDF]] falsified the account of [[Zeen Nightshade\|her son's]] betrayal during the [[Battle of Alta\|Battle of Alta]] because they were afraid of his cytonic abilities. She is stubborn and it’s difficult to talk her out of something once she has made up her mind.
+She has always wanted to return to the stars, and believes her mother brought the *Defiant* to Detritus because she felt something that the crew needed on that planet.
 
-## Atributos y habilidades
-### Habilidades citónicas
-Becca tiene habilidades citónicas, aunque sus conocimientos y formación son limitados. Antes de que Jorgen descubriera los [[Taynix\|taynix]] en Detritus, dice que no es lo suficientemente fuerte como para usar habilidades citónicas más avanzadas, como viajar a través de la ninguna-parte; sin embargo, más tarde aparentemente hipersalta con [[Cobb\|Cobb]] para escapar de la Supremacía, aunque [[Alanik\|Alanik]] es incapaz de localizarla citónicamente después. A pesar de su ceguera, tiene una capacidad infalible para centrarse en alguien durante una conversación, saber cuándo ha llegado alguien antes de que hable, y darse cuenta incluso de detalles minúsculos como que alguien ponga los ojos en blanco o los abra. esto sugiere que utiliza sus habilidades citónicas para percibir el mundo que la rodea y superar su ceguera, al igual que hizo [[Jason Write\|Jason Write]].
-También afirma ser capaz de "oír" a Cobb, lo que sorprende a Alanik, que cree que es imposible percibir citónicamente a personas que no son citónicas. Becca también es capaz de establecer una comunicación más rápida que la luz con Spensa, aunque no era lo suficientemente fuerte como para mantener la conexión durante mucho tiempo. [[Nedd Strong\|Nedd Strong]] parece creer que tiene el poder de leer la mente de forma citónica, aunque parece poco probable, ya que hace tiempo que se considera imposible.
+## Attributes and Abilities
+### Cytonic Abilities
+Becca has cytonic abilities, though her knowledge and training are limited. Prior to Jorgen's discovery of the [[Taynix\|taynix]] on Detritus, she says that she is not strong enough to use more advanced cytonic abilities, like travel through the nowhere; however, she later apparently hyperjumps with [[Cobb\|Cobb]] to escape the Superiority, though [[Alanik\|Alanik]] is unable to cytonically locate her afterwards. Despite her blindness, she has an unerring ability to focus on someone during a conversation, tell when someone has arrived before they speak, and notice even minute details like someone rolling or opening their eyes; this suggests she uses her cytonic abilities to Sense the world around her and overcome her blindness, much like [[Jason Write\|Jason Write]] did.
+She also claims to be able to "hear" Cobb, which surprises Alanik, who believes it is impossible to cytonically sense people who aren't cytonics. Becca is also able to engage in faster-than-light communication with Spensa, though she was not strong enough to maintain the connection for long. [[Nedd Strong\|Nedd Strong]] appears to believe that she has the power to cytonically read minds, though that seems unlikely as it has long been considered impossible.
 
-## Historia
-De niña, Becca vivía en la nave de combate *Desafiante*, donde trabajaba en la sala de máquinas junto a [[Bisabuela de Spensa\|su madre]]. Mientras lo hacía, practicaba lo de "escuchar a las estrellas". Durante este tiempo, aprendió muchas leyendas antiguas de la [[Tierra (Escuadr%C3%B3n)\|vieja Tierra]] de [[Bisabuelo de Spensa\|su padre]].
-No se sabe mucho sobre lo que hizo en los años posteriores al accidente de la *Desafiante*, aunque afirma que los que trabajaban en la sala de máquinas, el Clan Makinkaps, se mantuvieron unidos. Desde al menos el momento de la muerte de su hijo, vive con su nieta, [[Spensa Nightshade\|Spensa Nightshade]], y la [[Madre de Spensa\|madre de esta]]. Como a la madre de Spensa se le prohíbe trabajar, ayuda a mantener económicamente a la familia preparando rollitos de algas y las ratas que Spensa mata para venderlas. Mientras vive con ellas, a menudo le cuenta a su nieta las historias de héroes de la vieja Tierra que escuchó de su padre y dice que todos los grandes guerreros de la vieja Tierra son antepasados de Spensa.
-Tras la [[Segunda Batalla de Alta\|Segunda Batalla de Alta]], comienza a desarrollar una relación con el nuevo almirante de la flota de la FDD, [[Matthew Cobb\|Cobb]]. Cuando [[Jorgen Weight\|Jorgen Weight]] revela a Cobb que tiene habilidades citónicas, éste envía a Jorgen a entrenarse con Becca. Ella insiste en que Jorgen la llame "yaya" y lo entrena enseñándole a hacer pan con los ojos cerrados e intentando que llegue a sentir el mundo citónicamente. También le cuenta la historia de [[#Conocimiento de la vieja Tierra]] y le dice que la decisión de su madre de llevar a la *Desafiante* a Detritus le enseñó que un héroe tiene que saber «*cuándo* desobedecer órdenes». Mientras forma a Jorgen, Spensa puede contactar con ella gracias a sus habilidades citónicas y la anima a enfrentarse a sus pruebas, por muy inadecuada que se sienta para ellas. Para cuando está enseñando a Jorgen, sus habilidades citónicas parecen ser conocidas al menos entre el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]].
-Durante la batalla del Escuadrón Cielo en ReAlba, cuando pueden espiar la comunicación de Detritus con la Supremacía, Alanik se puso en contacto con Becca haciéndole saber que su gobierno estaba considerando un trato para entregar a sus citónicos a la Supremacía y le ofreció rescate o protección. Becca dejó muy claro que su postura era permanecer con su pueblo y luchar. Esto no impidió que la Asamblea Nacional la entregara a ella, a Cuna y a sus taynix a la Supremacía. Alanik y Jorgen pudieron llegar hasta ella, que ya estaba en la nave con los líderes de la Asamblea Nacional. El intercambio era una trampa, y la verdadera intención era matarlos a todos, ya que la nave tenía una bomba. Intentó explicárselo a los políticos, pero no la escucharon.
-Cuando la transportaban a una celda de detención, Becca decidió que iba a poder llegar hasta Cobb y transportarlos a ambos fuera. Estaba sintiendo algunas llamadas de ayuda y creía que sería capaz de ir allí. Cuando Alanik acudió en su ayuda, Becca pudo hacerlos saltar a ella y a Cobb fuera de la nave espacial.
-Becca siguió las voces que había oído, y llegó al planeta de los [[Kitsen\|kitsen]]; «Madriguera de Luz Perpetua que Lame con Suavidad las Orillas del Tiempo». Desgraciadamente, quedó "medio atrapada" en la ninguna-parte y su cuerpo perdió la consciencia y las habilidades citónicas, por lo que Alanik y Jorgen fueron incapaces de encontrarlos o sentirlos. Los kitsen que los encontraron eran del antiguo escuadrón de Spensa, liderados por [[Kauri\|Kauri]], emitieron un mensaje citónico para ella. Este mensaje fue interceptado por Alanik por lo que el Escuadrón Cielo fue a por ellos.
-Los kitsen la tenían a ella y a Cobb en unas tiendas cubiertas con lo que parecían mantas kitsen colocadas sobre cada extremidad a lo largo de sus torsos. Los mantenían en un estado estable alimentándolos e hidratándolos.  Cuando el equipo médico ([[Kel\|Kel]] y [[Winnow (Escuadr%C3%B3n)\|Winnow]], llegaron hasta ellos, confirmaron su estado estable, pero no pudieron trasladarlos a la nave, donde tenían equipo médico, porque sus cuerpos empezaron a deteriorarse.
-Mientras Becca estaba inconsciente en la tienda kitsen, parte de ella (incluidas sus habilidades citónicas) quedó atrapada en la ninguna-parte. Con esfuerzo, fue capaz de reconocer a Jorgen en [[Orilla Perpetua (planeta)\|Orilla Perpetua]] y se acercó a él. Jorgen comprendió que las voces que oía podían tener algo que ver con lo que oyó la yaya antes del hipersalto. Cuando empezó la batalla y tanto Becca como Cobb quedaron expuestos, Jorgen pidió que los trasladaran a la biblioteca, donde los kitsen los encontraron en un principio.
-La biblioteca tenía un portal a la ninguna-parte, y Jorgen comprendió la necesidad de abrirlo para cambiar el curso de la batalla a su favor. Así que se dirigió a él y pudo comunicarse con los citónicos que había detrás, entre los que se encontraban la yaya y los citónicos kitsen. Cobb también estaba allí, transportado por Becca en aquel último hipersalto. Jorgen comprendió que tiempo atrás, los citónicos kitsen habían cerrado accidentalmente el portal tras ellos y se habían quedado atascados, pidieron ayuda pero el tiempo pasó y perdieron la esperanza, hasta que escucharon a la yaya. Jorgen, con la ayuda de [[Juno\|Juno]] y su meditación, abrió el portal y los liberó a todos. Con esto, Becca y Cobb también recuperaron la consciencia.
-Becca está presente en las reuniones militares, aportando su opinión tras el ascenso de Jorgen a almirante. Becca ayuda a Spensa, diciéndole que traiga apoyo cuando vaya a pedirle a [[Palo (Escuadr%C3%B3n)\|Palo]] que cierre las estaciones mineras de [[Piedra de pendiente\|piedra de pendiente]] desde dentro. Becca impide que Spensa se marche sentándose en su cabina, tejiendo una funda para los asientos de las naves estelares hasta que Spensa se da cuenta de sus defectos. 
+## History
+As a child, Becca lived on the battle cruiser *Defiant*, where she worked in the engine room alongside [[Spensa's great-grandmother\|her mother]]. When doing so, she practiced "listening to the stars." During this time, she learned many ancient legends of [[Earth (Skyward)\|Old Earth]] from [[Spensa's great-grandfather\|her father]].
+Not much is known about what she did in the years following the crash of the *Defiant*, though she claims that those who worked in the engine room, Clan Motorskaps, stuck together. Since at least the time of her son's death, she has been living with her granddaughter, [[Spensa Nightshade\|Spensa Nightshade]], and [[Spensa's mother\|Spensa's mother]]. Since Spensa's mother is forbidden a job, she assists in keeping the family financially stable by helping prepare algae wraps and the rats Spensa kills to be sold. While living with Spensa, she frequently tells her granddaughter the stories of Old Earth heroes that she heard from her father and says that all of Old Earth's great warriors are Spensa's ancestors.
+After the [[Battle of Alta Second\|Battle of Alta Second]], she begins to develop a relationship with the new DDF Admiral of the Fleet, [[Matthew Cobb\|Cobb]]. When [[Jorgen Weight\|Jorgen Weight]] reveals to Cobb that he has cytonic abilities, he sends Jorgen to train with Becca. She insists the Jorgen call her "Gran-Gran" and trains him by teaching him to bake bread with his eyes closed and by trying to get him to reach out and sense the world cytonically. She also tells him the story of [[#Knowledge of Old Earth]] and tells him that her mother's decision to bring the *Defiant* to Detritus taught her that a hero has to know "*when* to disobey orders." While she is training Jorgen, Spensa is able to contact her with her cytonic abilities and she encourages Spensa to face her trials, no matter how ill-suited to them she feels. By the time she is training Jorgen, her cytonic abilities appear to be known at least among [[Skyward Flight\|Skyward Flight]].
+During Skyward flight´s battle in Redawn, when they can peek into Detritus communication with the Superiority, Alanik reached out to Becca letting her know her government was considering a deal to turn in their cytonics over to the Superiority and offered rescue or protection. Becca was very clear that he position was to stay with her people and fight back. This did not stop the National Assembly to trade her, Cuna and they taynix to the Superiority. Alanik and Jorgen were able to reach out to her, she was already on the ship with the National Assembly leaders. The trade was a trap, and the real intention was to kill them all, as the ship had a bomb. She tried to explain it to the politicians, but they wouldn’t listen.
+When she was being transported to a holding cell, Becca decided she was going to be able to reach out to Cobb and transport them both out. She was sensing some calls for help and believed she would be able to go there. When Alanik came in their aid, Becca was able to hyperjump her and Cobb out of the spaceship.
+Becca followed the voices she had heard, and reached the [[Kitsen\|Kitsen's]] planet; “Den of Everlasting Light Which Laps Gently upon the Shores of Time”. Unfortunately, she got “half-caught” into the nowhere and her body lost consciousness and cytonic abilities., so Alanik and Jorgen where unable to find them or sense them. The Kitsen who found them were Spensa’s former flight, leaded by [[Kauri\|Kauri]], they broadcasted a cytonic message for her. This message was intercepted by Alanik so Skyward flight went for them.
+The Kitsen had both her and Cobb in some tents covered with what it looked like kitsen blankets layered over each limb across their torsos. They were keeping them in a stable condition by being nourished and hydrated.  When the medical team ([[Kel\|Kel]] and [[Winnow (Skyward)\|Winnow]], got to them, they confirmed their stable condition but, were unable to move them to the ship, where they had medical equipment, because their bodies started to deteriorate.
+While Becca was unconscious at the Kitsen’s tent, part of her (including her cytonic abilities) was trapped in the nowhere. With effort, she was able to recognize Jorgen in [[Evershore (planet)\|Evershore]] and reached out to him. Jorgen understood the voices he heard could have something to do with what Gran-Gran heard before hyperjumping. When the battle started and both Becca and Cobb were exposed, Jorgen asked to move them to the library where they were found originally by the Kitsen.
+The library had a portal to the nowhere, and Jorgen understood the need to open it to shift the battle to his side. So, he went to it and was able to communicate with the cytonics behind it which included Gran-Gran and the Kitsen cytonics. Cobb was also there, transported by Becca on that last hyperjump. Jorgen understood that long time ago, the Kitsen cytonics had accidentally closed the portal behind them and got stuck, they asked for help but time passed and they lost hope, until they heard Gran-Gran. Jorgen, with the help of [[Juno\|Juno]] and his meditation, opened the portal and freed them all. With this, Becca and Cobb also recovered their consciousness.
+Becca is present at militaristic meetings, providing her input after Jorgen's promotion to admiral. Becca helps Spensa, telling her to bring support when she goes to ask [[Peg\|Peg]] to close the [[Acclivity stone\|acclivity stone]] mining stations from the inside. Becca stoped Spensa from leaving by sitting in her cockpit, knitting a seat cover for the starships until Spensa realized her faults. 
+At the Battle of Evensong, Becca was given command of the new starship *Defiant* that the engineering team had built, having the rank of Captain. She reported to Admiral Jorgen Weight, who said that they should attempt to save the slugs. Becca initially disagreed with the decision, but chose not to judge him as the protocol suggesting what to do was from a previous era. She also suggested the battle strategy of having half of the fighters sweep behind the *Defiant* with the other half pleading with the inhibitor taynix. She also proposed hyperjumping one of the defense platforms around Detrius instead of the whole planet.
+As part of Becca's plan, the entire crew of the *Defiant* except for her evacuated. She had ordered explosives to detonate on three of the four engines to feign a breakdown. Although the plan resulted in her death, it worked and the enemy fleet was destroyed.
 
-## Relaciones
+## Relationships
 ### Spensa
->“*Una heroína no escoge sus desafíos, Spensa... Se interna en la oscuridad. Y afronta lo que venga...*”
-\-Becca a Spensa sobre ser una heroína[10]
+>“*A hero does not choose her trials, Spensa. She steps into the darkness [and] then she faces what comes next*”
+\-Becca to Spensa about being a hero[10]
 
 
-Spensa está muy unida a su abuela. Disfruta con todas las historias de Becca sobre los guerreros de la vieja Tierra y con frecuencia busca en ellas inspiración y valor. Becca le contaba esas historias porque creía que Spensa necesitaba oírlas. Spensa también considera que esas historias fueron su escudo cuando era joven y la insultaban. Después de que Spensa empezara a descubrir la verdad sobre las habilidades citónicas de su padre y sus acciones durante la Batalla de Alta, buscó respuestas en Becca, aunque no son del todo de su agrado. En última instancia, sin embargo, Spensa elige los cuentos de heroísmo de su abuela por encima de los temores de la FDD al "defecto" y ambas vuelan y viajan al espacio durante la Segunda Batalla de Alta. Cuando Spensa se siente abrumada por su misión en [[Visi%C3%B3n Estelar\|Visión Estelar]], Becca es capaz de contactar con ella citónicamente y tranquilizarla. También fue capaz de sentirla a ella y a Jorgen desde la ninguna-parte. Más tarde fue capaz de recordar las historias pero olvidar su voz. Cuando regresó de la ninguna parte, conectaron y Becca se alegró de tener noticias suyas.
+Spensa is very close to her grandmother. She enjoys all of Becca's stories about the warriors of Old Earth and frequently looks to them for inspiration and courage; Becca specifically told her those stories because she felt Spensa needed to hear them. Spensa also considers those stories to have been her shield when she was young and being called names. After Spensa began to find out the truth of her father's cytonic abilities and his actions during the Battle of Alta, she sought out Becca for answers, though they are not entirely to her liking. Ultimately, however, Spensa choose her grandmother's tales of heroism over the DDF's fears of the "defect" and both flies and travels to space during the Battle of Alta Second. When Spensa is feeling overwhelmed by her mission to [[Starsight (station)\|Starsight]], Becca is able to contact her cytonically and reassure her. She was also able to sense her and Jorgen from the nowhere. She was later able to remember the stories but forgot her voice. When she came back from the nowhere, they connected and Becca was happy to hear back from her.
 
-### Madre de Spensa
-A pesar de que viven juntas, la relación de Becca con la madre de Spensa es bastante tensa. La madre de Spensa considera que Becca se centra demasiado intensamente en la herencia y le dice a Spensa que Becca la convierte en "una caja en lugar de una inspiración". Este desacuerdo es tan profundo que la madre de Spensa prohíbe a Becca que le cuente a Spensa la historia de las habilidades citónicas de su familia. Sin embargo, a pesar de sus diferencias, ambas mujeres insisten en que el padre de Spensa no era un cobarde.
+### Spensa's Mother
+Despite the fact that they live together, Becca's relationship with Spensa's mother is quite strained. Spensa's mother feels that Becca focuses too intensely on heritage and tells Spensa that Becca makes it "a box instead of an inspiration." This disagreement runs deep enough that Spensa's mother forbade Becca from telling Spensa about her family's history of cytonic abilities. Despite their differences, however, both women are adamant that Spensa's father was not a coward.
 
 ### Cobb
-Becca parece haberle cogido cariño al nuevo almirante de la flota de la FDD tras la Segunda Batalla de Alta, Cobb. Al menos en una ocasión, ella le prepara pastel, que él dice que es "excelente". A su vez, la respeta lo suficiente como para cuidar de Spensa por su bien y para enviar a Jorgen Weight con ella en lugar de al Cuerpo Psicológico de la FDD cuando admite tener habilidades citónicas.
+Becca seems to have taken a liking to the DDF's new Admiral of the Fleet after the Battle of Alta Second, Cobb. On at least one occasion, she bakes him pie, which he says is "excellent." In turn, he respects her enough to care for Spensa for her sake and to send Jorgen Weight to her instead of the DDF's Psychological Corps when he admits to having cytonic abilities.
 
 ### Jorgen Weight
-Becca enseña a Jorgen a utilizar sus habilidades citónicas para percibir el mundo que le rodea de formas extrañas, como enseñándole a hacer pan con los ojos cerrados. Espera que se resienta e intente hacer trampas, como hizo Spensa, pero Jorgen la trata como a su nueva oficial al mando y sigue de buen grado sus órdenes; tiene que enseñarle a llamarla "la yaya" en lugar de "señor". Cuando empieza a comprenderle, le cuenta la historia de Stanislav para enseñarle que los héroes deben saber cuándo confiar en sus instintos y desobedecer las órdenes. Acepta sus enseñanzas lo suficiente como para seguir los sonidos que oye citónicamente procedentes de debajo de las [[Cavernas inferiores\|cavernas inferiores]] durante varios días, sin órdenes directas, lo que con el tiempo le lleva a una caverna con cientos de [[Taynix\|taynix]]. Cuando Jorgen la encuentra tras el portal, Becca reconoce su diferencia con Spensa. Diciendo que ella era la guerrera y él el defensor.
+Becca teaches Jorgen to use his cytonic abilities to sense the world around him in strange ways, such as by teaching him to bake bread with his eyes closed. She expects him to resent this and try to cheat at it, like Spensa did, but Jorgen treats her as his new commanding officer and readily follows her orders; she has to instruct him to call her "Gran-Gran" instead of "sir." As she begins to understand him, she tells him the story of Stanislav to teach him that heroes have to know when to trust their instincts and disobey orders. He accepts her teachings enough to follow the sounds he cytonically hears coming from below the [[Deep caverns\|deep caverns]] for several days, without any direct orders, which eventually leads him to a cavern with hundreds of [[Taynix\|taynix]]. When Jorgen finds her behind the portal, Becca recognizes his difference with Spensa. Saying she was the warrior and he the defender.
 
 ### Alanik
->“*yaya. Una guerrera lucha. Nunca se rinde, y nunca abandona a los suyos.*”
-\-Becca a Alanik sobre esconderla de la Supremacía.[4]
+>“*A warrior fights. She does not yield, and she does not abandon her people.*”
+\-Becca to Alanik on hiding her from the Superiority.[4]
 
 
-Cuando la alienígena [[Alanik\|Alanik]] se estrelló en Detritus, entró en coma. Durante ese tiempo, Becca pudo escucharla. Por eso, cuando Alanik se puso en contacto con ella para informarle de que su gobierno estaba considerando un acuerdo para entregar a sus citónicos a la Supremacía, ella la conocía y pudieron comunicarse con cierto nivel de confianza.
-Cuanto más se conocen, más se gustan ambas. Becca incluso le dice que tiene el corazón de una guerrera como Spensa y Alanik se siente conmovida por el cumplido. 
+When the alien [[Alanik\|Alanik]] crashed on Detritus, she entered a coma. During that time, Becca was able to listen to her. Because of this, when Alanik reached out letting her know her government was considering a deal to turn in their cytonics over to the Superiority, she was familiar with her and they were able to communicate with a certain level of trust.
+The more they know each other, the more they both like each other. Becca even tells her she has the heart of a warrior like Spensa and Alanik felt touched by the compliment. 
 
-## Conocimiento de la vieja Tierra
->“*¿Sabías que, incluso entonces, con ordenadores, bibliotecas y toda clase de recordatorios, olvidábamos con facilidad de dónde procedíamos? A lo mejor era porque teníamos máquinas para recordar por nosotros, así que nos pareció que podíamos dejárselo todo a ellas.*”
-\-Becca Nightshade sobre la facilidad con que la tripulación de la Desafiante se olvidó de la vieja Tierra[1]
-
-
-Incluso cuando la gente de [[Detritus\|Detritus]] aún estaba en la *Desafiante*, la mayoría tenía poco conocimiento de la vieja Tierra, y ese conocimiento no ha hecho más que disminuir en los años transcurridos desde que la *Desafiante* se estrelló. Entre ellos, Becca destaca como una de las pocas que aún recuerda las historias que los humanos solían contar. La siguiente es una lista de todas las personas de la vieja Tierra que Becca ha mencionado o que otros recuerdan que ha mencionado:
+## Knowledge of Old Earth
+>“*Even [when we had] computers and libraries and all kinds of reminders, we found it easy to forget where we came from*”
+\-Becca Nightshade on how easily the crew of the Defiant forgot about Old Earth[1]
 
 
-: Un héroe germánico que derrota a una serie de tres monstruos.
-: El primer europeo en encontrar uno de los continentes americanos.
-: General chino famoso por sus tácticas militares.
-: Mongol que conquistó una extensa región de Asia y Europa Oriental.
+Even when the people of [[Detritus\|Detritus]] were still on the *Defiant*, most had little knowledge of Old Earth, and that knowledge has only diminished in the years since the *Defiant* crashed. Among them, Becca stands out as one of the few who still remember the stories humans used to tell. The following is a list of all the people from Old Earth that Becca has mentioned or who others have recalled her mentioning:
+
+
+: A Germanic hero who defeats a series of three monsters.
+: The first European to find one of the American continents.
+: A Chinese general famous for his military tactics.
+: A Mongol who conquered a large region in Asia and Eastern Europe.
 : A Celtic warrior who led a rebellion against the Roman Empire.
-: El primer héroe registrado; viaja al Inframundo e intenta escapar de la muerte.
-: Militar francés que reunió a los ejércitos franceses para expulsar a los ingleses de Francia en la Guerra de los Cien Años.
-: Un niño ficticio criado por grandes simios.
-[[Junmi\|Junmi]]: Autor nacido algún tiempo después de la actualidad que escribió el libro *La conquista del espacio*.
-: Mujer sioux, también conocida como Moving Robe Woman, que luchó contra el coronel George Custer en la batalla de Little Big Horn. Según Spensa, mató a Custer, aunque las pruebas históricas son ambiguas.
-: Un guerrero ficticio altamente cualificado cuya historia tiene lugar antes del surgimiento de cualquier civilización conocida.
-: Un antiguo héroe griego que luchó en la guerra de Troya y luego soportó un largo y difícil viaje de regreso a casa. Después de coquetear con ella, Spensa le dice a [[Bim\|Bim]] que Odiseo tenía el pelo azul como él.
-: Rey macedonio conocido por su conquista de Grecia, el Imperio persa aqueménida, Egipto y parte de la India.
-: Una doncella escudera de la mitología nórdica que desafió al espíritu de su padre por su espada, Tyrfing, a la que Becca se refiere como "[robar] la espada a los muertos". 
-: Una mujer china que se disfrazó de hombre para luchar en el ejército.
-: Antigua mujer griega que se disfrazó de hombre para luchar en la guerra de Troya.
-: Una mujer cuervo, también conocida como Woman Chief, que fue jefa y guerrera de su pueblo. La yaya le contó a Spensa que una vez luchó contra cuatro hombres a la vez, aunque [[M-Bot\|M-Bot]] dice que no es seguro que sea cierto.
-**: La yaya le ha contado a Spensa la historia de un escritor que perdió su sombra, sólo para que ésta regresara y tomara el control de su vida, probablemente del cuento de hadas *La Sombra* de .
-: Un oficial de las fuerzas aéreas soviéticas que se dio cuenta de que un sistema de alerta temprana funcionaba mal y desobedeció las órdenes al no informar de lo que el sistema afirmaba que era un ataque nuclear contra la Unión Soviética.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · |
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+: The first recorded hero; travels to the Underworld and tries to escape death.
+: A French soldier who rallied the French armies to drive the English out of France in the Hundred Years' War.
+: A fictional child raised by great apes.
+[[Junmi\|Junmi]]: An author born sometime after the present day who wrote the book *The Conquest of Space*.
+: A Sioux women, also known as Moving Robe Woman, who fought against Colonel George Custer at the Battle of Little Big Horn. According to Spensa, she killed Custer, though the historical evidence of this is ambiguous.
+: A highly skilled fictional warrior whose story takes place before the rise of any known civilizations.
+: An ancient Greek hero who fought in the Trojan War and then endured a long and difficult voyage home. After he flirts with her, Spensa tells [[Bim\|Bim]] that Odysseus had blue hair like he does.
+: A Macedonian king known for his conquest of Greece, the Achaemenid Persian Empire, Egypt, and part of India.
+: A shieldmaiden from Norse mythology who challenged her father's spirit for his sword, Tyrfing, which Becca refers to as "[stealing] the sword the dead."
+: A Chinese woman who disguised herself as a man to fight in the army.
+: An ancient Greek woman who disguised herself as a man to fight in the Trojan War.
+: A Crow women, also known as Woman Chief, who was a chief and warrior of her people. Gran-Gran told Spensa that she once fought four men at once, though [[M-Bot\|M-Bot]] says it is uncertain if that is true.
+**: Gran-Gran has told Spensa the story of a writer who lost his shadow, only for it to return and take control of his life, likely from the fairy tale *The Shadow* by .
+: A Soviet air force officer who realized that an early-warning system was malfunctioning and disobeyed orders by not reporting what the system claimed was a nuclear attack on the Soviet Union.
 
 
 
-https://es.coppermind.net/wiki/Becca_Nightshade
+https://coppermind.net/wiki/Becca_Nightshade

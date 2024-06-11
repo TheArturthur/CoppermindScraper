@@ -1,53 +1,51 @@
-
-
-|**Austrismo**|
+|**Austrism**|
 |-|-|
-|**Relacionado con**|[[Idris\|Idris]]|
-|**Tipo**|Religión|
-|**Mundo de origen**|[[Nalthis\|Nalthis]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Idris\|Idris]]|
+|**Type**|Religion|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **austrismo** es una religión monoteísta centrada en un dios llamado **Austre**, practicada por el pueblo [[Idris\|Idrian]] de [[Nalthis\|Nalthis]]. Austre suele recibir el nombre de "Dios de los Colores".
-Austre no es [[Dotaci%C3%B3n\|Dotación]], y se desconoce su verdadera identidad (si la tiene). Antes de la [[La Multiguerra\| Multiguerra]] y del exilio de la familia real, también se le rendía culto en [[Hallandren\|Hallandren]].
+**Austrism** is a monotheistic religion centered around a god named **Austre**, practiced by the [[Idris\|Idrian]] people on [[Nalthis\|Nalthis]]. Austre is often called "God of Colors".
+Austre is not [[Endowment\|Endowment]], and his true identity (if any) is unknown. Before the [[Manywar\|Manywar]] and the exile of the royal family, he was also worshipped in [[Hallandren\|Hallandren]].
 
-## Sumario
+## Contents
 
-1 Enseñanzas. [[#Ense.C3.B1anzas]] 
+1 Teachings. [[#Teachings]] 
 2 Austre. [[#Austre]] 
-3 Miembros del austrismo. [[#Miembros del austrismo]] 
+3 Members of Austrism. [[#Members of Austrism]] 
 
-3. [[#Maldiciones]] 
-
-
-4 Monjes. [[#Monjes]] 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+3. [[#Curses]] 
 
 
-## Enseñanzas
-Según la doctrina del austrismo, Austre ordena a los Retornados que vuelvan a la vida, y da [[Aliento\|aliento]] a la humanidad.
-Los principios fundamentales de la religión se denominan las [[Cinco Visiones\|Cinco Visiones]]. Son las visiones que tuvo [[Vo\|Vo]], el Primer [[Retornado\|Retornado]], antes de morir.
-
->“*He visto hombres que se situaban por encima de otros, y los he visto caer.*”
-\-Una cita de una de las Cinco Visiones de Vo.[4]
+4 Monks. [[#Monks]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-Las Visiones enseñan las virtudes de la humildad, el sacrificio y ver los problemas de los demás antes que los propios. Enseñan que nadie debe tratar de ponerse por encima de los demás, y que Austre valora a todas las personas por igual. Actuar con ostentación, rechazar a la gente por sus pecados y alardear de los propios talentos se ven como pecados. El austrismo también enseña que los sentimientos no tienen nada de malo, pero que llamar la atención con ellos no es correcto.
-El austrismo, tal como lo practican los [[Idriano\|idrianos]], considera que los alientos están íntimamente ligados a las almas humanas. Por ello, los seguidores de Austre consideran que poseer los [[Aliento\|alientos]] de otros es un pecado, y utilizarlos para [[Despertar\|despertar]] es un pecado aún mayor. Sin embargo, [[Vasher\|Vasher]] afirma que tal intolerancia hacia el despertar sólo surgió después de la [[La Multiguerra\| Multiguerra]]. 
-Finalizar los embarazos se considera un pecado.
+## Teachings
+According to the doctrine of Austrism, Austre commands the Returned to come back to life, and gives [[Breath\|Breath]] to humanity.
+The fundamental tenets of the religion are called the [[Five Visions\|Five Visions]]. These are the visions had by [[Vo\|Vo]], the First [[Returned\|Returned]], before he died.
+
+>“*I saw men who placed themselves above others, and I saw them cast down.*”
+\-A quote from one of Vo's Five Visions[4]
+
+
+The Visions teach the virtues of humility, sacrifice and seeing another's problems before your own. They teach that no person should try to put oneself above others, and that Austre regards all people equally. Acting ostentatiously, rejecting people because of their sins, and flaunting one's talents are seen as sins. Austrism also teaches that there is nothing wrong with feelings, but drawing attention to yourself with them is wrong.
+Austrism, as practiced by [[Idrian\|Idrians]], considers Breaths to be intimately linked to human souls. For that reason followers of Austre consider holding the [[Breath\|Breaths]] of others to be a sin, and using them to [[Awakening\|Awaken]] to be an even greater sin. However, [[Vasher\|Vasher]] states that such intolerance toward Awakening only emerged after the [[Manywar\|Manywar]].
+Terminating pregnancies is seen as a sin.
 
 ## Austre
->“*Es más bien una fuerza. Ya sabes, el ser que vigila a toda la gente, que castiga a quienes no hacen lo que está bien y bendice a los que son dignos*”
-\-Siri explicando el concepto de Austre a Susebron.[10]
+>“*He’s more of a force. You know, the thing that watches over all people, who punishes those who don’t do what is right and who blesses those who are worthy.*”
+\-Siri explaining the concept of Austre to Susebron[10]
 
 
-Austre es el único dios de la religión monoteísta del austrismo. A menudo se refieren a él como el "Dios de los Colores".  Austre no es [[Dotaci%C3%B3n\|Dotación]]; se desconoce si es un ser real o no.
-Aunque se utilizan pronombres masculinos para referirse a Austre, no se le ve como una persona, sino como una fuerza kármica invisible que vigila a toda la gente. A pesar de que se le considera una fuerza, a menudo se le dan descripciones humanas, como ojos de colores. Se dice que tiene emociones y que puede alegrarse o disgustarse con las acciones de alguien. Los seguidores del austrismo creen que considera iguales a todos los humanos, independientemente de su estatus social.
-Se le atribuye la creación de todos los seres vivos y la capacidad de colocarlos en el lugar que les corresponde mejor que cualquier ser humano. También se dice que da a las personas su personalidad y su talento. El austrismo sostiene que envía a los [[Retornado\|Retornados]] de vuelta a Nalthis como sus profetas, y que dio a Vo las Cinco Visiones.
-Los [[Idriano\|idrianos]] creen que Austre vela por ellos y les protege. Se llaman a sí mismos hijos e hijas de Austre.
+Austre is the only god of the monotheistic religion of Austrism. He is often referred to as the "God of Colors." Austre is not [[Endowment\|Endowment]]; it is unknown if he is a real being or not.
+While male pronouns are used to reference Austre, he is not seen as a person, but instead, as an invisible karmic force that watches over all people. Despite being viewed as a force, he is often given human descriptions, such as colorful eyes. He is said to have emotion and to be able to be pleased or displeased with someone's actions. Followers of Austrism believe he regards all humans, regardless of their societal status, as equals.
+He is believed to make all living things, and to put them in their proper place better than any human could. He is also said to give people their personalities and their talents. Austrism holds that he sends the [[Returned\|Returned]] back to Nalthis as his prophets, and gave Vo the Five Visions.
+The [[Idris\|Idrians]] believe that Austre watches over them and protects them. They call themselves sons and daughters of Austre.
 
-## Miembros del austrismo
+## Members of Austrism
 
 [[Vivenna\|Vivenna]]
 [[Dedelin\|Dedelin]]
@@ -57,44 +55,34 @@ Los [[Idriano\|idrianos]] creen que Austre vela por ellos y les protege. Se llam
 [[Parlin\|Parlin]]
 [[Yarda\|Yarda]]
 [[Lemex\|Lemex]]
-[[Rira (personaje)\|Rira]]
+[[Rira (character)\|Rira]]
 [[Thame\|Thame]]
 
-### Maldiciones
-Casi todos los idrianos utilizan el nombre de Austre para diversas expresiones de confusión, asombro e incredulidad.
-"Austre..."
-"¡Austre, Dios de los Colores!"
-"En nombre de Austre, ¿qué ha sido eso?"
+### Curses
+Almost every Idrian uses Austre's name for a variety of expressions of confusion, shock, and disbelief.
+"For Austre’s sake!"
+"Austre, God of Colors!"
+"What in Austre’s name was that?"
 "Oh, Austre."
-"¡Oh, Austre, Dios de los Colores!"
+"Oh, God, Lord of Colors!"
 
-## Monjes
-Se supone que los monjes del austrismo (también llamados monjes idrianos) son los más piadosos y menos ostentosos de los idrianos. Se les exige que se rapen el pelo y vistan túnicas blancas. En Idris se ve como un deber proporcionar al menos un hijo a los monasterios (sobre todo entre las familias nobles o ricas), pues va contra las Cinco Visiones ser egoísta, incluso con la propia sangre. Los monjes idrianos no se encierran en un monasterio (pueden abandonarlo en cualquier momento) y prestan servicios a los necesitados de Idris.
-Los monjes actúan como servidores de los pobres del reino de un modo muy formalizado. Por ejemplo, si un hombre se rompe una pierna y no puede trabajar, un monje ocupará su lugar en el trabajo; el salario ganado seguirá yendo a la familia del herido. Ocasionalmente, si muere un padre, un monje es asignado permanentemente a su puesto de trabajo y mantiene a la familia de ese hombre.
-A los monjes se les prohíbe poseer o tener nada por sí mismos y dan todo lo que tienen al pueblo. Sin la presión de alimentarse o adquirir bienes, algunos monjes pueden ser un poco perezosos. Sin embargo, muchos son muy trabajadores, como [[Fafen\|Fafen]].
+## Monks
+Monks of Austrism (also called Idrian monks) are supposed to be the most pious and least ostentatious of Idrians. They are required to shear off their hair and wear white robes. It is seen as a duty in Idris to provide at least one child for the monasteries (especially among noble or rich families), as it is against the Five Visions to be selfish, even with one's own blood. Idrian monks do not get locked in a monastery--they can leave at any time--and they provide services for the needy in Idris.
+The monks act as servants to the kingdom's poor in a very formalized way. For example, if a man breaks his leg and can't work, a monk will take his place at his job; the wages earned will still go to the injured man's family. Occasionally, if a father dies, a monk is permanently assigned to his place at work and provides for that man's family.
+Monks are forbidden to own or possess anything themselves and give everything they have to the people. Without the pressure to feed themselves or acquire goods, some monks can be a little lazy. However, many are very diligent, such as [[Fafen\|Fafen]].
 
-## Citas
->“*Las flores no son malignas, suponiendo que se queden donde las puso Austre. No deberíamos usar la belleza de Austre para darnos importancia.*”
-\-Mab a Siri.[1]
-
-
->“*En la distancia, pudo ver la llanura donde estaba la Corte de los Dioses, el lugar más profano a ojos de Austre.*”
-\-Vivenna viajando hacia T'Telir.[12]
+## Quotes
+>“*Flowers ain't evil, assuming they're left where Austre put them. We shouldn't use Austre's beauty to make ourselves more important.*”
+\-Mab to Siri [1]
 
 
-## Curiosidades
-Austre puede ser un Retornado muy antiguo.
+>“*In the distance, she could see the plateau that held the Court of Gods, the most profane place beneath Austre's colorful eyes.*”
+\-Vivenna travelling in T'Telir [12]
 
-## Notas
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] ·  · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+## Trivia
+Austre may be a very old Returned.
 
 
 
-https://es.coppermind.net/wiki/Austre
+https://coppermind.net/wiki/Austre

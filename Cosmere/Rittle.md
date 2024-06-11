@@ -1,63 +1,39 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Rittle**|
 |-|-|
-|**Oficio**|Guardia|
-|**Religión**|[[Supervivencialismo\|Supervivencialismo]]|
-|**Grupo**|Ejercito de [[Yeden\|Yeden]]Ejército de Venture|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
+|**Profession**|Guard|
+|**Religion**|[[Survivorism\|Survivorism]]|
+|**Groups**|[[Yeden\|Yeden's]] army Venture army|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
-**Rittle** era un guardia de [[Luthadel\|Luthadel]], en [[Scadrial\|Scadrial]].
+**Rittle** is a guard in [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#La revuelta Skaa]] 
-2. [[#El Nuevo Imperio]] 
-
-
-3 Notas. [[#Notas]] 
+2. [[#The Skaa Rebellion]] 
+2. [[#The New Empire]] 
 
 
-## Apariencia y personalidad
-No le gustan las charlas triviales. Lleva un colgante de una lanza de plata, ya que es miembro de la [[Iglesia del Superviviente\|Iglesia del Superviviente]].
+3 Notes. [[#Notes]] 
 
-## Historia
-### La revuelta Skaa
-Rittle fue reclutado para el ejército de [[Kelsier\|Kelsier]], y estuvo presente en la lucha de [[Demoux\|Demoux]] contra [[Bilg\|Bilg]].
 
-### El Nuevo Imperio
-Él estaba de guardia con [[Wellen\|Wellen]] en la noche en la que [[TenSoon\|TenSoon]] se hizo pasar por [[Kelsier\|Kelsier]]. Se sorprendió y tuvo miedo de ver a "Kelsier", aunque preguntó por qué había enviado las [[Bruma\|brumas]] para matarlos y no quería revelar información sobre el rey [[Penrod\|Penrod]]. Le dijo a TenSoon que nadie sabía el paradero de [[Vin\|Vin]]. TenSoon le dijo a Rittle y Wellen que sacasen a la gente de la ciudad debido al desastre inminente.
-Rittle, Wellen y un pequeño grupo de otras personas que vieron a TenSoon pusieron en marcha una evacuación que resultó en cientos de miles de refugiados dirigiéndose a los [[Pozos de Hathsin\|Pozos de Hathsin]]. Pidieron a Rittle y Wellen que hablasen con [[Demoux\|Demoux]] y [[Elend\|Elend]] para confirmar su relato sobre Kelsier. Rittle le dijo a Elend que estaba seguro de haber visto a Kelsier, aunque Elend observó que no había dejado atrás a sus mejores soldados cuando dejó Luthadel, y que Rittle no parecía ser un testigo fiable. Sin embargo, Rittle insistió en que reconoció a Kelsier; se había convertido a la Iglesia del Superviviente en el día de la muerte de Kelsier y lo había visto en persona en las [[Cuevas de Arguois\|Cuevas de Arguois]] el dia de Demoux luchó con [[Bilg\|Bilg]]. Elend seguía siendo un tanto escéptico de su relato, pero creía que Rittle y Wellen eran héroes de todas maneras dada la confusión en Luthadel.
+## Appearance and Personality
+He is not much for small talk. He wears a pendant of a silver spear, as he is a member of the [[Church of the Survivor\|Church of the Survivor]].
 
-## Notas
+## History
+### The Skaa Rebellion
+Rittle was recruttied to [[Kelsier\|Kelsier's]] army, and was present to watch [[Demoux\|Demoux]] fight against [[Bilg\|Bilg]].
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:32, 19 March 2020 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### The New Empire
+He was on guard with [[Wellen\|Wellen]] on the night that [[TenSoon\|TenSoon]] impersonated [[Kelsier\|Kelsier]]. He was shocked and afraid to see "Kelsier", although he asked him why had sent the [[Mist\|mists]] to kill them and he did not want to divulge information about King [[Penrod\|Penrod]]. He told TenSoon that no one knew [[Vin\|Vin's]] whereabouts. TenSoon went on to tell Rittle and Wellen to lead people out of the city due to impending disaster.
+Rittle, Wellen, and a small group of other people that saw TenSoon set an evacuation into motion that resulted in hundreds of thousands of refugees heading to the [[Pits of Hathsin\|Pits of Hathsin]]. Rittle and Wellen were asked to speak to [[Demoux\|Demoux]] and [[Elend\|Elend]] to verify their account of Kelsier. Rittle told Elend that he was certain they had seen Kelsier, although Elend noted that he had not left his best soldiers behind when he left Luthadel, and that Rittle did not look like a reliable witness. However, Rittle was insistent that he recognized Kelsier; he had converted to the Church of the Survivor on the day of Kelsier's death and he had seen him in person at the [[Arguois caverns\|Arguois caverns]] on the day that Demoux fought [[Bilg\|Bilg]]. Elend was still somewhat skeptical of his account, but believed that Rittle and Wellen were heroes anyway given the turmoil in Luthadel.
 
 
 
-https://es.coppermind.net/wiki/Rittle
+https://coppermind.net/wiki/Rittle

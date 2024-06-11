@@ -1,52 +1,28 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Sindren**|
 |-|-|
-|**Grupo**|[[Desvanecedores\|Desvanecedores]]🐱︎|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Groups**|[[Vanishers\|Vanishers]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
-**Sindren** es un miembro de los [[Desvanecedores\|Desvanecedores]] en [[Elendel\|Elendel]].
+**Sindren** is a member of the [[Vanishers\|Vanishers]] in [[Elendel\|Elendel]].
 
-## Apariencia y personalidad
->“*El jefe está siempre hablando de cómo las cosas serán mejor cuando esté al mando, y cómo [[Elendel\|la ciudad]] lo traicionó, y esas cosas. Pero la ciudad traiciona a todo el mundo. Así es la vida.*”
-\-Sindren sobre lo que piensa Miles Dagouter.[1]
+## Appearance and Personality
+>“*Boss is always talking about how things will be better when he’s in charge, and how [[Elendel\|the city]] betrayed him, and stuff. But the city betrays everyone. That’s how life is.*”
+\-Sindren on Miles Dagouter's ideology.[1]
 
-Sindren es un joven bajo con grandes orejas y ojos anchos. Tiene el acento de un hombre del Interior del Séptimo Octante, con un toque de trabajador de las fábricas. Está nervioso y un poco inquieto, y tiene una voz que se vuelve aguda cuando está en ese estado o bajo presión.
-Sindren no es un criminal curtido, ni es particularmente competente en ello. Sindren había sido miembro de los Desvanecedores por un par de semanas, por lo que sigue siendo en su mayoría un joven normal en lugar de un matón profesional. De hecho, es un poco crédulo. Con nada más que un disfraz y un simple cambio de acento, Wayne fue capaz de engañarlo para que revelase la base de operaciones de los Desvanecedores y el nombre del hombre que los reclutó.
-Sindren se unió a los Desvanecedores solo por un poco de dinero, a él no le importa mucho lo que piense [[Miles Dagouter\|Miles Dagouter]] o vengarse de la ciudad. Está resignado al hecho de que la vida es injusta para los pobres y las clases bajas
+Sindren is a short young man with big ears and wide eyes. He has an accent of a man from the Inner Seventh Octant, with a touch of millworker to it. He is nervous and a touch jumpy, and has a voice that gets squeaky when he's nervous or under pressure.
+Sindren is not a hardened criminal, nor is he particularly competent at it. Sindren was only a member of the Vanishers for a couple weeks, and so is still mostly a normal young man instead of a professional thug. In fact, he is a touch gullible. With nothing more than a disguise and a simple change of accent, Wayne was able to trick him into revealing the Vanisher's home base and the name of the man who recruited them.
+Sindren only joined the Vanishers for a bit of money, he does not care much about [[Miles Dagouter\|Miles Dagouter's]] idealogy, or getting payback from the city. He is resigned to the fact that life is unfair for the poor and lower classes.
 
-## Historia
-Sindren creció en el Interior del Séptimo Octante de Elendel con un padre que probablemente fue trabajador de las fábricas.
-Sindren fue reclutado por [[Clamps\|Clamps]] en los Desvanecedores para hacer algo de dinero. Estuvo un una fundición en [[Longard\|Longard]] casi todo el tiempo, saliendo solo para ir a asaltos, probablemente incluyendo el robo en el [[Teatro Coolerim\|Teatro Coolerim]]. Tras unas dos semanas como miembro de la banda, participó en el asalto al [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]], y fue capturado por el Gran Señor [[Waxillium Ladrian\|Waxillium Ladrian]] y [[Wayne\|Wayne]]. Parece probable que Wayne fuese quien derrotó a Sindren, ya que sus bastones de duelo son no letales. Sindren y otros cinco miembros de los Desvanecedores fueron arrestados por el capitán [[Brettin\|Brettin]] y llevado a las oficinas de la comisaría del Cuarto Octante.
-[[Wayne\|Wayne]], disfrazado como el Capitán Guffon Trenchant, convenció a Brettin y logró entrar a las salas de interrogatorios con los Desvanecedores. Después de engañar a otro desvanecedor para que revelase que Sindren era el que hablaría más probablemente, Wayne habló con este. Arrojando una [[Bendaleo\|burbuja de velocidad]] alrededor de los dos, Wayne convenció a Sindren de que él también era un miembro de los Desvanecedores. En su conversación, Sindren reveló que había sido reclutado por Clamps y que los Desvanecedores habían estado trabajando en la fundición Longard.
-Wayne, todavía fingiendo ser un desvanecedor, le dijo a Sindren que a la tarde debería revelar todo lo que sabía a los policías ya que él no sabía nada comprometedor. Wayne le dijo a Sindren que confesase después de que le prometiesen libertad a cambio de su confesión frente a un abogado honesto llamado [[Arintol\|Arintol]]. También le dijo a Sindren que los otros desvanecedores podrían no saber que se le había ordenado confesar, por lo que debería ir a [[Los %C3%81ridos\|los Áridos]] tan pronto como estuviese libre para comenzar una nueva vida en las fábricas.
-Los alguaciles encontraron la fundición esa misma noche, por lo que presumiblemente Sindren confesó, aunque se desconoce si siguió el resto del consejo de Wayne.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 15:33, 25 December 2016 (MST)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+Sindren grew up in the Inner Seventh Octant of Elendel with a father that was probably a millworker.
+Sindren was recruited by [[Clamps\|Clamps]] into the Vanishers to make a little money. He stayed at a foundry in [[Longard\|Longard]] almost all the time, only leaving to go on raids, likely including the robbery at the [[Coolerim Playhouse\|Coolerim Playhouse]]. After about two weeks as a member of the gang, he participated in the raid on the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]], and was captured by High Lord [[Waxillium Ladrian\|Waxillium Ladrian]] and [[Wayne\|Wayne]]. It seems likely that Wayne was the one that defeated Sindren, since his dueling canes are non-lethal. Sindren and five other members of the Vanishers were arrested by Captain [[Brettin\|Brettin]] and brought to the Fourth Octant constabulary precinct offices.
+[[Wayne\|Wayne]], in the guise of Captain Guffon Trenchant, talked his way past Brettin and into the interview rooms with the Vanishers. After tricking another Vanisher into disclosing that Sindren was most likely to talk, Wayne spoke to Sindren. Throwing up a [[Bendalloy\|time bubble]] around the two of them, Wayne convinced Sindren that he too was a member of the Vanishers. In their conversation, Sindren revealed that he had been recruited by Clamps and that the Vanishers had been working out of the Longard foundry
+Wayne, still pretending to be a Vanisher, told Sindren that by evening he should reveal everything he knew to the constables because he did not know anything damaging. Wayne told Sindren to confess after they promised him freedom in exchange for his confession in front of an honest solicitor named [[Arintol\|Arintol]]. He also told Sindren that the other Vanishers might not know that he had been instructed to confess, so that he should go to the [[Roughs\|Roughs]] as soon as he was free to start a new life at the mills.
+The constables found the foundry that same night, so Sindren presumably confessed, although it is unknown if he listened to the rest of Wayne's advice.
 
 
 
-https://es.coppermind.net/wiki/Sindren
+https://coppermind.net/wiki/Sindren

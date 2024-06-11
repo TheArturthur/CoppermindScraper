@@ -1,99 +1,99 @@
-
-
 |**Atium**|
 |-|-|
 |||
 ||
-|**[[Alomancia\|Alomancia]]**|
-|**Poder**|Ver el futuro próximo de otros|
-|**Brumoso**|Vidente|
-|**[[Feruquimia\|Feruquimia]]**|
-|**Poder**|Almacenar edad|
-|**[[Hemalurgia\|Hemalurgia]]**|
-|**Poder**|Robar cualquier poder|
-|**Tipo de metal**|[[Metal divino\|Metal divino]] ([[Ruina\|Ruina]])|
+|**[[Allomancy\|Allomancy]]**|
+|**Power**|See the near-future of others|
+|**Misting**|Seer|
+|**[[Feruchemy\|Feruchemy]]**|
+|**Power**|Store youth|
+|**[[Hemalurgy\|Hemalurgy]]**|
+|**Power**|Steal any power|
+|**Metal type**|[[God Metal\|God Metal]] ([[Ruin\|Ruin]])|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-El **atium** es un [[Metal divino\|metal divino]]. Un alomante que quema atium es capaz de ver unos segundos adelante hacia el futuro. Los feruquimistas pueden usar el atium para almacenar la edad, y cuando se usa como un clavo hemalúrgico, el atium roba cualquier propiedad o poder. El metal es de un color plateado reflectante, tanto que las pepitas de atium casi parecen gotas de líquido.
-El atium es destacable por ser el poder condensado de la [[Esquirla\|Esquirla]] [[Ruina\|Ruina]]. Como consecuencia, un alomante quemando atium no recurre al poder de [[Conservaci%C3%B3n\|Conservación]]; en cambio, es la propia [[Investidura\|Investidura]] del metal la que proporciona el poder. El metal fue confinado en los Pozos de Hathsin por [[Conservaci%C3%B3n\|Conservación]] cuando este último abandonó su mente para atrapar a Ruina. Para recuperar el poder contenido en el atium, ruina habría tenido que manifestarse de alguna forma.
-Presumiblemente, el nombre «atium» se hereda de [[Ati\|Ati]], el nombre del portador original de la Esquirla Ruina, así como el nombre «[[Lerasium\|lerasium]]» se hereda de [[Leras\|Leras]], el portador original de la Esquirla Conservación. El atium no se puede combinar con el lerasium para formar [[Ettmetal\|armonium]] (ettmetal), ni el armonium se puede descomponer en atium y lerasium mediante destilación otros métodos mundanos. Sin embargo, es posible hacerlo con técnicas que usan Investidura, como dividir ettmetal con [[Trellium\|trellium]].
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-## Sumario
+**Atium** is a [[God Metal\|God Metal]]. An Allomancer burning atium is able to see into the future by a few seconds. Feruchemists can use atium to store youth, and when used as a Hemalurgic spike, atium steals any property or power. The metal is a reflective, silvery color, so much so that beads of atium almost appear to be drops of liquid.
+Atium is notable as it is the condensed power of the [[Shard\|Shard]] [[Ruin\|Ruin]]. As a result, an Allomancer burning atium does not draw on [[Preservation\|Preservation's]] power; instead, the [[Investiture\|Investiture]] of the metal provides the power. It was sequestered away at the Pits of Hathsin by [[Preservation\|Preservation]] when the latter gave up his mind to trap Ruin; to regain the power contained in the atium, Ruin would have needed to manifest in some way.
+Presumably, the name "atium" is inherited from [[Ati\|Ati]], the name of the original holder of the Shard Ruin, just as the name "[[Lerasium\|lerasium]]" is inherited from [[Leras\|Leras]], the original holder of the Shard Preservation. Atium cannot be alloyed with lerasium to make [[Ettmetal\|ettmetal]], nor can ettmetal be broken down into atium and lerasium through distillation or other mundane methods; however, it is possible to do so with techniques utilizing Investiture, such as splitting ettmetal with [[Trellium\|trellium]].
 
-1 Uso alomántico. [[#Uso alom.C3.A1ntico]] 
-2 Uso feruquímico. [[#Uso feruqu.C3.ADmico]] 
+## Contents
 
-2. [[#Composici.C3.B3n]] 
+1 Allomantic Use. [[#Allomantic Use]] 
+2 Feruchemical Use. [[#Feruchemical Use]] 
 
-
-3 Uso hemalúrgico. [[#Uso hemal.C3.BArgico]] 
-4 Aleaciones. [[#Aleaciones]] 
-5 Historia. [[#Historia]] 
-
-5. [[#Post-Catacendro]] 
+2. [[#Compounding]] 
 
 
-6 Atium refinado. [[#Atium refinado]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+3 Hemalurgic Use. [[#Hemalurgic Use]] 
+4 Alloys. [[#Alloys]] 
+5 History. [[#History]] 
+
+5. [[#Post-Catacendre]] 
 
 
-## Uso alomántico
-  <<Vin\|Vin>> quemando atium
-Los [[Brumoso\|brumosos]] de atium se conocen como **videntes**. La quema de atium permite al usuario ver unos segundos hacia el futuro, al producir sombras de atium de todo lo que está a la vista. Estas sombras muestran acciones futuras. Al quemar atium se expande la mente del usuario para poder aceptar y procesar toda la información, incluso permitiendo que el alomante esquive los ataques por la espalda. [[Armon%C3%ADa\|Armonía]] especula que el atium hace que el alomante quemándolo sea un asesino más eficiente porque se basa en el poder de Ruina.
-Aunque es difícil luchar contra alguien que está quemando atium, no es imposible. La forma más común de luchar eficazmente contra un vidente es utilizando otro alomántico de atium, ya que cuando dos alomantes queman atium al mismo tiempo, las sombras que ven se dividen en una multitud de posibilidades, ya que cada persona crea un bucle de retroalimentación positiva al tratar de predecir un futuro que el otro acaba de cambiar. Este efecto también ocurrirá al luchar contra un alomante de [[Electro\|electro]], debido a la naturaleza de la habilidad de ese metal. También sería posible vencer a un vidente componiendo acero. Si bien un componedor de acero no podría moverse más rápido de lo que un alomante de atium puede predecir, podría potencialmente moverse más rápido de lo que tarda el vidente en procesar la información que está obteniendo a través de sus habilidades. Es posible derrotar a un alomante de atium usando sus reacciones al futuro en su contra, pero que se sepa solo ha sucedido esto en una ocasión.
-Quemar [[Duraluminio\|duraluminio]] con atium permitirá a los alomantesver más lejos en el futuro, permitiéndoles mirar en el [[Reino Espiritual\|Reino Espiritual]]. El mismo efecto puede ocurrir si un hemalurgo tiene suficientes clavos que potencian su atium. Los objetos de aluminio no generan sombras de atium. El atium no permite a una persona anticipar la alomancia emocional. Un vidente puede percibir sombras de atium incluso si está ciego.
+6 Refined Atium. [[#Refined Atium]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
-## Uso feruquímico
-El atium, cuando es utilizado por un feruquimista, almacena edad. Para almacenar la edad, el feruquimista pasa tiempo siendo más viejo. Al usar la edad almacenada, el feruquimista pasa tiempo siendo más joven.
 
-### Composición
-Un [[Composici%C3%B3n\|componedor]] de atium podría utilizar este metal para tener una fuente casi infinita de juventud, lo que lo haría inmortal a efectos prácticos.
+## Allomantic Use
+  <<Vin\|Vin>> burning atium
+An atium [[Misting\|Misting]] is known as a **Seer**. Burning atium allows the user to see a few seconds into the future, by producing atium shadows of everything in sight. These shadows perform future actions. Burning atium expands the user's mind to be able to accept and process all of the information, even allowing the Allomancer to dodge incoming attacks from behind. [[Harmony\|Harmony]] speculates that atium makes the Allomancer burning it a more efficient killer because it draws upon Ruin's power.
+Atium shadows, while hard to beat, are not impossible. The most common way to fight effectively against a Seer is by using another atium Allomancer, as when two Allomancers burn atium at the same time, the shadows they see will split into a multitude of possibilities, as a positive feedback loop is created by each person trying to predict a future the other has just changed. This effect will also occur when fighting against an [[Electrum\|electrum]] Allomancer, due to the nature of that metal's ability. It would also be possible to best a Seer by Compounding steel. While a steel Compounder would not be able to move faster than an atium Allomancer can predict, they could potentially move faster than the Seer is able to process the information they are gaining through their abilities. It is possible to defeat an atium Allomancer by using their reactions to the future against them, but is only known to have happened once.
+Burning [[Duralumin\|duralumin]] with atium will allow Allomancers to see farther into the future, by allowing them to peer into the [[Spiritual Realm\|Spiritual Realm]]. The same effect can occur if a Hemalurgist has enough spikes enhancing their atium. Aluminum objects do not generate atium shadows. Atium does not enable a person to anticipate emotional Allomancy. A Seer can perceive atium shadows even if they are otherwise blind.
 
-## Uso hemalúrgico
-Cuando se usa como un clavo hemalúrgico, el atium es como un comodín. Dependiendo de dónde se coloque, puede robar cualquier Arte Investida (por ejemplo alomancia o maestría de arena) y lo hace mejor que otros clavos. El atium debe [[#Atium refinado]] para usarse en hemalurgia.
+## Feruchemical Use
+Atium, when used by a Feruchemist, stores youth. When storing youth, the Feruchemist spends time older. When tapping youth, the Feruchemist then spends time younger.
 
-## Aleaciones
-El atium también se puede alear con cualquiera de los otros metales alománticos. Sin embargo, la única aleación de atium actualmente conocida es el [[Malatium\|malatium]], una aleación de atium y oro. Estas aleaciones otorgan diversos efectos mentales y temporales expandidos cuando se queman.
+### Compounding
+An atium [[Compounding\|Compounder]] would be able to use atium to have a nearly infinite supply of youth, allowing for practical immortality.
 
-## Historia
-  Una geoda de atium
-Como el atium es un metal divino, no se origina de manera natural. El metal solo llegó a existir cuando [[Conservaci%C3%B3n\|Conservación]] robó una parte del poder de Ruina y creó los Pozos de Hathsin, donde el atium crece en cristales, para negar el acceso de [[Ruina\|Ruina]] a parte de su poder. Conservación también modificó el funcionamiento de la alomancia para permitir la existencia de brumosos de atium, lo que resultó en un ejército que fue capaz de quemar literalmente el poder de Ruina de forma temporal.
-Durante el Imperio Final, el atium se clasificaba como uno de los dos metales superiores junto con el oro y se pensaba que solo era accesible para . Aunque sí existían brumosos de atium, debido a la escasez del metal y los esfuerzos del [[Lord Legislador\|lord Legislador]], tal existencia era desconocida para la mayoría de la gente salvo unos miembros selectos del [[Ministerio del Acero\|Ministerio del Acero]]. El Ministerio trabajaba arduamente para encontrar brumosos de atium entre la nobleza, lo que incluía en ocasiones contaminar las bebidas de los bailes con atium y seguidamente causar disturbios para ver si alguien reaccionaba instintivamente. También daban un poco de atium a los no alomantes que ingresaban en el Ministerio y les forzaban mediante una serie de rituales a quemar el metal si es que podían. Aquellos que resultaban ser videntes eran informados de su poder y a menudo escalaban rápidamente la jerarquía del Ministerio, llegando a puestos elevados en los que su poder podía usarse para hazañas místicas que ayudaban a mantener a la gente bajo control y perpetuar el misterio y la leyenda alrededor del Ministerio.
-Durante el periodo del [[Imperio Final\|Imperio Final]], el atium se minaba en los [[Pozos de Hathsin\|Pozos de Hathsin]], que eran supervisados por la [[Casa Venture\|casa Venture]]. Sin embargo, la mayoría de las geodas de atium eran abiertas en secreto por los obligadores contratados en los Pozos y se daba el metal a los [[Kandra\|kandra]], quienes lo guardaban en secreto, para evitar que cayera en manos de Ruina. Varios días antes de la caída del Imperio Final, [[Kelsier\|Kelsier]] regresó a los Pozos y usó su alomancia para romper los cristales que producían las geodas de atium, deteniendo la producción de atium durante aproximadamente los siguientes trescientos años.
-Poco después de la caída del Imperio Final, a medida que el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] amenazaba con rellenarse, las [[Bruma\|brumas]] comenzaron a forzar a la gente a [[Romper\|Romper]], aunque el trauma de este proceso se percibía como un tipo de ataque o enfermedad. El 16% de los que se exponían a las brumas se convertían en alomantes. La mayoría o bien moría o bien se recuperaba rápidamente, pero uno de cada dieciséis que se convertían en alomantes permanecía enfermo durante dieciséis días completos, recibiendo el nombre de [[Ca%C3%ADdo por la bruma\|caído por la bruma]]. Esto indicaba que se habían convertido en videntes. Estos brumosos demostraron ser cruciales en la victoria sobre Ruina, quemando las reservas de atium de los kandra antes de que los ejércitos de Ruina tuvieran acceso al [[Cubil de la Confianza\|Cubil de la Confianza]] donde estaban guardadas.
+## Hemalurgic Use
+When used as a Hemalurgic spike, atium is like a wild card. Depending on where it is placed, it can steal any power (i.e., the ability to use an Invested Art, such as Allomancy or [[Sand mastery\|sand mastery]]) and it does so better than other spikes. Atium must be [[#Refined Atium]] to be used in Hemalurgy.
 
-### Post-Catacendro
-Tras el [[Catacendro\|Catacendro]] los brumosos de atium ya no existen como lo hacían antes.
-[[Waxillium Ladrian\|Wax]] fue capaz de dividir [[Armonium\|armonium]] usando [[Trellium\|trellium]] para crear más atium. El efecto de esta separación es altamente explosivo y solo produce una pequeña cantidad de atium. Tras este descubrimiento, los [[Kandra\|kandra]] comenzaron a repetir el proceso para producir más atium bajo las órdenes de Armonía.
+## Alloys
+Atium may also be alloyed with any of the other Allomatic metals. However the only currently known atium alloy is [[Malatium\|malatium]], an atium-gold alloy. These alloys grant various expanded mental and temporal effects when burned.
 
-## Atium refinado
-> [!info] Esta sección trata de un cambio en la continuidad que sólo se ha tratado en «Words of Brandon».Esta información aún no ha aparecido en los libros, por lo que no es totalmente canónica.
-A pesar de su nombre, el metal conocido como atium no es la verdadera forma del metal divino de Ruina. En su lugar, el atium es una aleación de [[Electro\|electro]] y el metal divino puro. El atium puede ser refinado para extrar el metal divino purificado de Ruina, que es el que puede ser usado en Hemalurgia para robar cualquier poder y que cuando se quema de forma alomántica garantiza una visión más expansiva del futuro de lo que lo hace el atium, seguramente de forma parecida a la visión que tiene [[Elend Venture\|Elend Venture]] cuando quemó atium con duraluminio durante la [[Batalla de Hathsin\|Batalla de Hathsin]]. Los poderes feruquímicos del atium refinado no se conocen. Este atium refinado es el que se prodcue en la reacción entre el armonium y el trellium.
+## History
+  An atium geode
+As atium is a God Metal, it does not form naturally. The metal only came to exist when [[Preservation\|Preservation]] stole a chunk of Ruin's power and created the Pits of Hathsin, where atium grows in crystals, to deny Ruin access to part of his power. Preservation also altered the mechanics of Allomancy to allow for atium Mistings, ultimately resulting in an army that would be able to temporarily burn away Ruin's power.
+During the Final Empire, atium was classified as one of the two high metals along with gold and was thought to be only usable by [[Allomancy\|Mistborn]]. Though atium Mistings—known as Seers—did exist, due to the scarcity of atium and the [[Lord Ruler\|Lord Ruler's]] obfuscation, their existence was simply unknown to anyone other than a few select members of the [[Steel Ministry\|Steel Ministry]]. The Ministry worked diligently to find atium Mistings among the nobility, including by occasionally spiking drinks at balls and causing a disturbance to see if anyone's body reacted by instinctively burning the trace amounts of metal and by slipping any non-Allomancers who join the Ministry a bit of atium and then forcing them through a series of physically-draining rituals that will induce their body to burn the metal, if it can. Those found to be Seers were told of their power and often rose through the ranks of the Ministry quickly and given important positions where their power could be used for wondrous feats that would help keep people in line and enhance the Ministry's mystique and perceived power.
+During the time of the [[Final Empire\|Final Empire]], atium was mined at the [[Pits of Hathsin\|Pits of Hathsin]], overseen by the nobles of [[House Venture\|House Venture]]. Most of the atium geodes, however, were secretly opened by [[Obligator\|obligators]] on staff at the Pits and the atium given to the [[Kandra\|kandra]] to hold in secret, to prevent it from falling into Ruin's hands. Several days before the fall of the Final Empire, [[Kelsier\|Kelsier]] returned to the Pits and used his Allomancy to shatter the crystals that produced atium geodes, stopping atium production for roughly the next three hundred years.
+Shortly after the fall of the Final Empire, as the [[Well of Ascension\|Well of Ascension]] grew close to refilling, the [[Mist\|mists]] began their efforts to Snap people into Allomancers, though the trauma of this process was initially perceived as a form of attack or sickness. Sixteen percent of those exposed to the mists became Allomancers; most either died or recovered quickly, but one one-sixteenth of those who became Allomancers remained sick for a full sixteen days and became known as [[Mistfallen\|mistfallen]], a consequence of the fact that they had become Seers rather than some other form of Misting. These Mistings ultimately proved crucial in Ruin's defeat, burning away the kandra atium cache before Ruin's forces gained access to the [[Trustwarren\|Trustwarren]] where it had been kept.
 
-## Curiosidades
-El atium se modeló inspirándose en el platino, y se consideraría un metal del .
-Brandon ha dicho que, desde que escribió la Era 1 de *Nacidos de la bruma*, le hubiera gustado hacer que el atium pudiera ser utilizado por todos los alomantes, ya que *no cuadra* que un metal divino sea utilizable solo por los nacidos de la bruma (y los videntes). Si en algún momento se rueda una película de *Nacidos de la bruma*, le gustaría introducir este cambio en la película. En otras ocasiones también ha mostrado interés en explorar algún día por qué el atium está limitado de este modo y que el atium presente en Era 1 es una aleación de atium y electro. 
-## Notas
+### Post-Catacendre
+After the [[Catacendre\|Catacendre]], atium Mistings no longer existed in the same way that they did before.
+[[Waxillium Ladrian\|Wax]] was later able to split [[Harmonium\|harmonium]] using [[Trellium\|trellium]] to create more atium, the effect of this separation is highly explosive, and only produces a small amount of atium. Following his discovery, [[Kandra\|kandra]] began repeating the process in order to produce more, under Harmony's orders.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
+## Refined Atium
+> [!info] This section deals with a change in continuity that has only been discussed in Words of Brandon.This information has not yet appeared in the books and so is not fully canonical.
+Despite its name, the metal known as atium is not actually the pure form of Ruin's God Metal. Instead, atium is an alloy of [[Electrum\|electrum]] and that pure God Metal. Atium can be refined to extract Ruin's pure God Metal, which can be used in Hemalurgy to steal any power and when burned Allomantically grants a more expansive vision of the future than atium does (possibly similar to the vision [[Elend Venture\|Elend Venture]] has when burning atium with duralumin during the [[Battle of Hathsin\|Battle of Hathsin]]); the Feruchemical powers of refined atium are unknown. This refined atium is also produced in the reaction between harmonium and trellium.
+
+## Trivia
+Atium was modeled after platinum, and would be considered a  metal.
+Brandon has stated that, since writing *Mistborn* Era 1, he has wished he made atium usable by all Allomancers as it "feels off" that a God Metal is only usable by Mistborn (and Seers). If a *Mistborn* film is ever made, he would likely want to make this change in the movie. On other occasions, he has also indicated interest in some day exploring why atium is limited in this way and that the atium present in Era 1 is an atium-electrum alloy.
+## Notes
+
+This article is still missing information. Please help The Coppermind by .
+|**[[Metallic Arts\|The Metallic Arts]]**|
 |-|-|
-|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
-|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
-|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
-|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
-|**Metales divinos**| ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+|**Arts**|[[Allomancy\|Allomancy]] · [[Feruchemy\|Feruchemy]] · [[Hemalurgy\|Hemalurgy]]|
+|**Concepts**|[[Metalborn\|Metalborn]] · [[Snapping\|Snapping]] · [[Savant\|Savants]] · [[Metalmind\|Metalminds]] · [[Twinborn\|Twinborn]] · [[Compounding\|Compounding]] · [[Blessing\|Blessings]]|
+|**Constructs**|[[Steel Inquisitor\|Steel Inquisitors]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Hemalurgic chimera\|Chimeras]]|
+|**Base Metals**|[[Iron\|Iron]] · [[Steel\|Steel]] · [[Tin\|Tin]] · [[Pewter\|Pewter]] · [[Zinc\|Zinc]] · [[Brass\|Brass]] · [[Copper\|Copper]] · [[Bronze\|Bronze]] · [[Cadmium\|Cadmium]] · [[Bendalloy\|Bendalloy]] · [[Gold\|Gold]] · [[Electrum\|Electrum]] · [[Chromium\|Chromium]] · [[Nicrosil\|Nicrosil]] · [[Aluminum\|Aluminum]] · [[Duralumin\|Duralumin]]|
+|**God Metals**| ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
 
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
+|**[[Mistborn (series)\|Mistborn]] ([[Scadrial\|Scadrial]])**|
 |-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] ·  · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+|**[[Mistborn Era 1\|Era 1]] books**|Mistborn: The Final Empire · [[The Well of Ascension\|The Well of Ascension]] · [[The Hero of Ages\|The Hero of Ages]] |
+|**[[Mistborn Era 2\|Era 2]] books**|[[The Alloy of Law\|The Alloy of Law]] · [[Shadows of Self\|Shadows of Self]] · [[The Bands of Mourning\|The Bands of Mourning]] · [[The Lost Metal\|The Lost Metal]] |
+|**[[Shard\|Shards]]**|[[Preservation\|Preservation]] · [[Ruin\|Ruin]] · [[Harmony\|Harmony]]|
+|**History**|[[Classical Scadrial\|Classical Scadrial]] · [[Final Empire\|Final Empire]] · [[Catacendre\|Catacendre]] · [[Elendel\|Elendel]] · [[Southern Scadrian\|Southern Scadrian]]|
+|**Magic**|[[Metallic Arts\|Metallic Arts]] ([[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Hemalurgy\|Hemalurgy]]) · [[Metalborn\|Metalborn]] · [[/wiki/Allomancy#Mistborn]] · [[Misting\|Misting]] · [[Savant\|Savant]] · [[Ferring\|Ferring]] · [[Twinborn\|Twinborn]] · [[Compounding\|Compounding]] ·  · [[Lerasium\|Lerasium]] · [[Harmonium\|Harmonium]] · [[Trellium\|Trellium]]|
+|**Other Media**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Mistborn film\|Mistborn film]] · Mistborn: House War|
 
 
 
-https://es.coppermind.net/wiki/Atium
+https://coppermind.net/wiki/Atium

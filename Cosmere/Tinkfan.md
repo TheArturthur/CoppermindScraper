@@ -1,31 +1,14 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Tinkfan**|
 |-|-|
-|**Tipo**|Pastel|
-|**Sabor**|Dulce|
-|**Origen**|[[Pahn Kahl\|Pahn Kahl]]|
-|**Mundo de origen**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Pastry|
+|**Taste**|Sweet|
+|**Origin**|[[Pahn Kahl\|Pahn Kahl]]|
+|**World of Origin**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **tinkfans** son unos pastelitos dulces de [[Pahn Kahl\|Pahn Kahl]] en [[Nalthis\|Nalthis]]. Son considerados un manjar, comidos por [[Retornado\|Retornados]] en la [[Corte de los Dioses\|Corte de los Dioses]].
-Se supone que hay que comer los tinkfans en pequeños bocados y comer un trozo de pan entre bocado y bocado para quitar el sabor.
-
-
-## Notas del traductor
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 21:48, 14 June 2019 (MST)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+**Tinkfans** are a sweet pastry from [[Pahn Kahl\|Pahn Kahl]] on [[Nalthis\|Nalthis]]. They are considered a delicacy, eaten by [[Returned\|Returned]] in the [[Court of Gods\|Court of Gods]].
+One is supposed to eat tinkfans in small bites and eat a piece of bread in between bites to clear away the taste.
 
 
 
-https://es.coppermind.net/wiki/Tinkfan
+https://coppermind.net/wiki/Tinkfan

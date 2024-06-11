@@ -1,39 +1,18 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Matain**|
 |-|-|
-|**Títulos**|[[Predicetormentas\|Predicetormentas]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Titles**|[[Stormwarden\|Stormwarden]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-**Matain** es un [[Alezi\|alezi]] [[Predicetormentas\|predicetormentas]] en [[Roshar\|Roshar]] que sirve a las órdenes del rey [[Gavilar Kholin\|Gavilar Kholin]].
+**Matain** is an [[Alethi\|Alethi]] [[Stormwarden\|stormwarden]] on [[Roshar\|Roshar]] who serves under King [[Gavilar Kholin\|Gavilar Kholin]].
 
-## Historia
-Fue uno de los eruditos que acompañaron a Gavilar en sus primeras expediciones a las [[Llanuras Quebradas\|Llanuras Quebradas]] en 1166. Gavilar confiaba en él, quien actuaba como consejero.
-Dictó un relato de uno de los primeros encuentros con los [[Parshendi\|parshendi]]. Se había mostrado escéptico ante los avistamientos iniciales de [[Parshmenio\|parshmenios]] "salvajes" por parte del grupo de exploradores de [[Dalinar\|Dalinar]], y se quedó atónito cuando varios individuos aparecieron en el campamento de Gavilar. Proporcionó una descripción física de los parshendi, incluidas sus armas y vestimenta. Gavilar le encargó que investigase su idioma, su sociedad y su música. Matain seguía pensando que podían ser un engaño, pero se vio obligado a reconocer su autenticidad tras conocer mejor su cultura. Según [[Jasnah Kholin\|Jasnah Kholin]], el relato de Matain sobre el repentino interés académico de Gavilar por los parshendi no era un mero adorno.
-Continuó sirviendo a la casa Kholin como predicetormentas tras la muerte de Gavilar; estuvo presente en el experimento de las plataformas flotantes que [[Navani Kholin\|Navani Kholin]] llevó a cabo en el campamento de guerra Kholin antes de la [[Batalla de Narak\|batalla de Narak]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 00:29, 28 February 2019 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+He was among the scholars that accompanied Gavilar on his early expeditions to the [[Shattered Plains\|Shattered Plains]] in 1166. He was trusted by Gavilar, and acted as an advisor.
+He dictated an account of one of the first encounters with the [[Parshendi\|Parshendi]]. He had been skeptical about initial sightings of "wild" [[Parshmen\|parshmen]] by [[Dalinar\|Dalinar's]] scouting group, and was stunned when several individuals appeared at Gavilar's camp. He provided a physical description of the Parshendi, including their weapons and clothing. Gavilar tasked him with investigating their language, society, and music. Matain still thought they might be a hoax, but was forced to acknowledge their authenticity after learning more about their culture. Matain's account of Gavilar's sudden scholarly interest in the Parshendi was not an embellishment, according to [[Jasnah Kholin\|Jasnah Kholin]].
+He continued to serve House Kholin as a stormwarden after Gavilar's death; he was present at the experiment of the floating platforms that [[Navani Kholin\|Navani Kholin]] conducted in the Kholin warcamp prior to the [[Battle of Narak\|Battle of Narak]].
 
 
 
-https://es.coppermind.net/wiki/Matain
+https://coppermind.net/wiki/Matain

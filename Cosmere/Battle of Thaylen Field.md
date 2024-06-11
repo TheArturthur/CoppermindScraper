@@ -1,92 +1,69 @@
-
-
-|**Batalla de la Explanada Thayleña**|
+|**Battle of Thaylen Field**|
 |-|-|
-|**Parte de [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]**|
+|**Part of the [[True Desolation\|True Desolation]]**|
 ||
-|**Fecha**|Nanishah 1174|
-|**Participantes**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Szeth\|Szeth]], [[Sangre Nocturna\|Sangre Nocturna]], [[Lift\|Lift]], [[Renarin\|Renarin]], [[Jasnah\|Jasnah]], [[Teft\|Teft]], [[Roca\|Roca]], [[Amaram\|Amaram]], [[Odium\|Odium]], Los [[Fusionado\|fusionados]], [[Nergaoul\|Nergaoul]], [[Yelig-nar\|Yelig-nar]]|
-|**Ciudad**|[[Ciudad Thaylen\|Ciudad Thaylen]]🐱︎|
-|**Mundo**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Date**|Nanishah 1174|
+|**Participants**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Szeth\|Szeth]], [[Nightblood\|Nightblood]], [[Lift\|Lift]], [[Renarin\|Renarin]], [[Jasnah\|Jasnah]], [[Teft\|Teft]], [[Rock\|Rock]], [[Amaram\|Amaram]], [[Odium\|Odium]], The [[Fused\|Fused]], [[Nergaoul\|Nergaoul]], [[Yelig-nar\|Yelig-nar]]|
+|**City**|[[Thaylen City\|Thaylen City]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-La **batalla de la Explanada Thayleña** es uno de los primeros grandes enfrentamientos durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Combatieron los ejércitos humanos, dirigidos por [[Dalinar Kholin\|Dalinar Kholin]], y los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]], principalmente [[Fusionado\|Fusionados]], bajo el mando directo de [[Odium\|Odium]].
+The **Battle of Thaylen Field** is one of the first major engagements in the [[True Desolation\|True Desolation]]. It's fought between the human armies, led by [[Dalinar Kholin\|Dalinar Kholin]], and the [[Voidbringer\|Voidbringers]], mainly [[Fused\|Fused]], under direct command of [[Odium\|Odium]].
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Antecedentes]] 
-1. [[#Preparativos]] 
-1. [[#La llegada de Nergaoul]] 
-1. [[#Unidad]] 
-1. [[#El cambio de marea]] 
-1. [[#Enfrentando a la Emoci.C3.B3n]] 
-
-
-2 Notas. [[#Notas]] 
+1. [[#Background]] 
+1. [[#Preparations]] 
+1. [[#Nergaoul arrives]] 
+1. [[#Unity]] 
+1. [[#The tide turns]] 
+1. [[#Confronting the Thrill]] 
 
 
-## Historia
-### Antecedentes
-Tras la [[Batalla de Narak\|batalla de Narak]] en Ishishach 1173, los alezi descubrieron y habitaron la ciudad perdida de Urithiru, justo cuando comenzó la Auténtica Desolación. Esto les dio acceso a las Puertas Juradas, lo que les permitió establecer posibles vínculos con las diversas Ciudades del Amanecer de Roshar. Sin embargo, eran incapaces de utilizar las Puertas Juradas sin activarlas primero en el lado opuesto, por lo que no obtuvieron un beneficio estratégico inmediato. Esto les motivaba a intentar aliarse con naciones que contenían Puertas Juradas, debido al valor estratégico que poseían, ya que permitían viajar a las principales ciudades rosharianas mucho más rápido de lo que podría hacerse a pie.
-Una nación importante con la que intentaron negociar fue [[Thaylenah\|Thaylenah]], cuya capital, ciudad Thaylen, poseía la Puerta Jurada de Thalath. La líder de Thaylenah, la reina [[Fen Rnamdi\|Fen Rnamdi]], desconfiaba de las fuerzas alezi y no quería darles libre acceso al centro de su capital. Con el tiempo, aceptó unirse a la coalición y les permitió acceder a su Puerta Jurada, lo que les dio la posibilidad de viajar rápidamente a Thaylenah y movilizarse.
-Poco antes de la batalla, [[Taravangian\|Taravangian]], que trabajaba para [[Odium\|Odium]], manipuló al gobierno con el fin de motivarlos a enviar a una gran parte de la fuerza de defensa de la ciudad, reduciendo en gran medida su destreza militar y sus capacidades defensivas. Esto les hizo depender de la ayuda militar de los alezi para protegerse de la ofensiva de los fusionados.
-Tras recibir información sobre una ofensiva de los Fusionados contra ciudad Thaylen, las fuerzas alezi se movilizaron para proteger a sus aliados y la ventaja estratégica que suponía el control de la Puerta Jurada de Thaylen. Además, estaban motivados por la amenaza que los fusionados supondrían para la resistencia humana si conseguían hacerse con el control de la Puerta Jurada.
-
-### Preparativos
-  Fuerzas humanas y cantores enfrentadas
-Varios miles de [[Cantor\|cantores]] llegaron a las orillas de [[Ciudad Thaylen\|Ciudad Thaylen]] bajo la protección de la [[Tormenta eterna\|tormenta eterna]], engendrada por [[Odium\|Odium]] para enmascarar su invasión y acelerar sus barcos. Ya que navegar durante una tormenta se consideraba imposible, cogieron desprevenidos a los los humanos que defendían la ciudad; Es más, debido a las manipulaciones de Taravangian, gran parte de las fuerzas de la ciudad se marcharon poco antes del comienzo del ataque, dejando solos a los [[Thaylenah\|thayleños]] y a una fracción de las fuerzas alezi bajo el mando de [[Meridas Amaram\|Meridas Amaram]]. La tormenta eterna cubría el avance de los puestos enemigos sobre la ciudad en vez de continuar su ruta, algo nunca antes visto.
-Al mismo tiempo, las almas de aproximadamente diez mil [[Cantor\|cantores]] se reunían en el exterior de la [[Puerta Jurada\|Puerta Jurada]] de [[Ciudad Thaylen\|Ciudad Thaylen]] en [[Shadesmar\|Shadesmar]]. Debido al parón de la tormenta eterna, las almas de los Portadores de Vacío fueron capaces de pasar al [[Reino F%C3%ADsico\|Reino Físico]], dos de las cuales se introdujeron en la tierra y se convirtieron en [[Tronador\|tronadores]]. Además, con la apariencia de un parshmenio con caparazón dorado y portando un regio cetro, el mismísimo Odium se manifestó en la orilla para dirigir en persona la batalla.
-Incluso con semejante poder respaldándolos, algunos [[Fusionado\|fusionados]] expresaron dudas ante las posibilidades de victoria, debido principalmente a la inexperiencia del ejército de [[Parshmenios\|parshmenios]] liberados, muchos de los cuales no querían luchar en absoluto. Con las fuerzas de Amaran, siendo veteranos de las campañas en las [[Llanuras Quebradas\|Llanuras Quebradas]], la batalla se creía ganada o al menos favorable para los humanos. De todos modos, Odium tenía otros planes.
-
-  <<Lift\|Lift>> y <<Szeth\|Szeth>> en el campo de batalla
-### La llegada de Nergaoul
-En forma de una neblina de color rojo sangre, manifestándose ocasionalmente en imágenes de combate, el [[Deshecho\|Deshecho]] [[Nergaoul\|Nergaoul]] llegó al campo de batalla y contagió a las tropas de Sadeas con [[La Emoci%C3%B3n\|la Emoción]], imbuyéndolos de sed de sangre y necesidad de combatir por encima de todo. Fue entonces cuando los vacíospren que atravesaron la Puerta Jurada hacia el Reino Físico se apoderaron de estos nuevos recipientes, poseyendo a humanos como harían normalmente con los cantores; algo que nunca había pasado en las desolaciones previas. Tras esto, la armada alezi se volvió contra la ciudad que supuestamente debían proteger.
-Al mismo tiempo, Odium ordenó a uno de los tronadores, [[Yushah\|Yushah]], que asaltase la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]] para privar al enemigo de la [[L%C3%A1grima del Rey\|Lágrima del Rey]], una [[Gema perfecta\|gema perfecta]] capaz de capturar a un [[Deshecho\|Deshecho]]. Yusnah atravesó las murallas y destruyó el edificio, esparciendo todas las gemas por el campo de batalla.
-Llevando su copia de *[[El camino de los reyes (in-world)\|El camino de los reyes]]* bajo el brazo, [[Dalinar Kholin\|Dalinar Kholin]] marchó solo a encontrarse con el enemigo. Antes de que las fuerzas [[Azir\|azishianas]] dejaran la ciudad, navegando hasta la [[Cala de Vtlar\|Cala de Vtlar]] a esperar que terminase la tormenta, [[Lift\|Lift]] atacó a su [[Vono\|guarda]] y se escabulló de vuelta a la ciudad, ya que no estaba dispuesta a abandonar a los demás. Cuando alcanzó a Dalinar, este le ordenó que encontrase y recuperase la Lágrima del Rey que los Fusionados se habían llevado. En ese momento, [[Szeth\|Szeth]], planeando sobre la ciudad junto con [[Nale\|Nale]], decidió jurar su Tercer Ideal de los [[Rompedores del Cielo\|Rompedores del Cielo]], escogiendo a Dalinar como ideal a seguir. Con ello, se unió a la batalla, desenvainando [[Sangre Nocturna\|Sangre Nocturna]] para desatar todo su poder sobre el enemigo y ayudar a Lift.
-
-  Dalinar invocando la <<Perpendicularidad de Honor\|Perpendicularidad de Honor>>
-### Unidad
-Pese a los poderosos combatientes involucrados por el bando humano, las fuerzas de Odium iban ganando. Odium y Dalinar se encontraron en medio del campo de batalla, con [[Venli\|Venli]] observando como Dalinar retaba a Odium a un combate de campeones para obtener así una oportunidad de salvar la ciudad. Odium aceptó, y explicó cómo había estado preparando a Dalinar durante años para convertirle en su campeón.
-Así, Odium liberó todo el poder de la Emoción sobre Dalinar, bombardeándolo con todo el dolor de sus acciones pasadas y prometiéndole el perdón si se entregaba. Dalinar, no obstante, lo rechaza, aceptando la responsabilidad. Con ello alcanzó el siguiente ideal de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], declarando «soy Unidad» e invocando la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]]. Los tres Reinos, Físico, Cognitivo, y Espiritual, fueron unidos en un torrente de [[Glorispren\|glorispren]] y [[Luz tormentosa\|luz tormentosa]], imbuyendo cada gema de la ciudad y formando un pasadizo a [[Shadesmar\|Shadesmar]]. Sus aliados, atrapados allí —[[Adolin\|Adolin]], [[Shallan\|Shallan]], y [[Kaladin\|Kaladin]]—, lo usaron para volver al Reino Físico y unirse a la batalla. Viendo la hazaña de Dalinar, Odium decidió huir dejando a su ejército atrás para que se valiera por sí mismo.
-
-  Ejército de ilusiones de <<Shallan\|Shallan>>
-### El cambio de marea
-Shallan, utilizando su [[Iluminaci%C3%B3n\|Tejido de Luz]], creó un ejército ilusorio para distraer a las fuerzas de Sadeas, incluso llegó a darle a los espectros algo de sustancia. Entretanto, [[Jasnah\|Jasnah]] usó la fuente casi infinita de luz tormentosa para aniquilar a las fuerzas enemigas mediante el [[Potenciaci%C3%B3n\|moldeado de almas]], mientras [[Renarin\|Renarin]], habiendo revelado su [[Glys\|spren corrupto]], corrió para unirse a la batalla.
-En el centro, al haber perdido a Dalinar como un posible aliado, la esfera que contenía a [[Yelig-Nar\|Yelig-Nar]] fue a parar a Amaram, quien atacó a Dalinar, aunque fue repelido por Kaladin. Amaran decidió vincularse con [[Yelig-nar\|Yelig-nar]] tragándose la gema, creciendo un grotesco caparazón bajo su [[Armadura esquirlada\|armadura esquirlada]] y obteniendo el acceso a las diez [[Potencia\|potencias]].
-Con Kaladin conteniendo las amenazas contra Dalinar, éste consiguió abrirse paso hasta el centro de la niebla roja que conformaba Nergaoul. En el cielo, Szeth, con la ayuda de Lift, había adquirido al fin la Lágrima del Rey, pero de inmediato le siguieron numerosos [[Fusionado\|Fusionados]] voladores. Incapaz de escapar de ellos, él y Lift improvisaron una estrategia para engañarlos y, con la ayuda de Shallan, crearon una falsa Lágrima del Rey, la cual permitieron «recuperar» a los Fusionados. Estando ahora sí segura la verdadera gema, Lift se introdujo en la niebla para llevarla hasta Dalinar.
-Al mismo tiempo, Adolin —con ayuda de su [[Espada esquirlada\|espada esquirlada]] [[Mayalaran\|Mayalaran]] y el alto guardia theyleño [[Hrdalm\|Hrdalm]]– se enfrentaron cerca de la [[Puerta Jurada\|Puerta Jurada]], de la ciudad a [[Kai-garnis\|Kai-garnis]], el otro tronador. Pese a que Adolin consiguió herir de seriedad a la criatura, acabó con demasiadas heridas propias como para luchar con efectividad. Fue entonces cuando Renarin llegó para curarle portando su propia hoja esquirlada. Él y Hrdalm, este último armado con Mayalaran, consiguieron al final tumbar a la bestia, reduciéndola a piedra inerte. Renarin se dirigió entonces hacia la Puerta Jurada, solo para encontrarla custodiada por una docena de Fusionados voladores.
-
-### Enfrentando a la Emoción
-  Dalinar se enfrenta a Nergaoul
-En [[Urithiru\|Urithiru]], sufrían mientras tanto un ataque sorpresa con intención de distraer a los alezi de enviar refuerzos, hasta que [[Teft\|Teft]] consiguió jurar su Tercer Ideal y manifestar su [[Hoja esquirlada\|hoja esquirlada]], permitiéndole activar la Puerta Jurada a Ciudad Thaylen y llevar los tan necesitados refuerzos. La luz de la puerta recién activada dispersó momentáneamente a los Fusionados que se encontraba cerca de la Puerta Jurada de la capital thayleña, dándole a los recién llegados la ventaja de la sorpresa. Al mismo tiempo, devuelta a los barcos en los que llegaron los cantores,[[Venli\|Venli]] vinculó a [[Timbre\|Timbre]], convirtiéndose en la primera cantora [[Potenciaci%C3%B3n\|potenciadora]].
-Dentro de la niebla que era Nergaoul, Lift alcanzó a Dalinar y le entregó la Lágrima del Rey. Abrazando la Emoción, Dalinar atrajo a Nergaoul hacia él y usó la Lágrima para atraparlo, quitándolo del campo de batalla. Así, los soldados de Sadeas volvieron a la normalidad, huyendo unos o desplomándose en el sitio otros.
-En el exterior, la batalla de Kaladin contra Amaran todavía tenía lugar. Estaba a punto de morir cuando se quedó sin luz tormentosa pero [[Roca\|Roca]], le salvó, matando a Amaran con dos disparos hechos con un arco esquirlado. Tras desaparecer el último de sus grandes luchadores, las fuerzas de [[Odium\|Odium]] se retiraron mientras el ejército Kholin y los [[Corredores del Viento\|Corredores del Viento]] barrían la ciudad de los invasores restantes. El día fue una victoria.
-
-## Notas
-|**Historia de [[Roshar\|Roshar]]**|
-|-|-|
-|[[Asedio a Kholinar\|Asedio a Kholinar]]|**Batalla de la Explanada Thayleña**|**Ofensiva emuli****Ocupación de Urithiru**|
+2 Notes. [[#Notes]] 
 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+### Background
+After the [[Battle of Narak\|Battle of Narak]] in Ishishach 1173, the Alethi discovered and inhabited the lost city of Urithiru, right as the True Desolation began. This gave them access to Oathgates, therefore giving them potential links to the various Dawncities across Roshar. However, they were incapable of using the Oathgates without first activating them on the opposite side, thus they did not receive an immediate strategic benefit. This motivated them to try and ally with nations that contained Oathgates, due to the strategic value they possess, as they allowed for travel to major Rosharan cities far faster than could be done by foot.
+A major nation that they attempted to negotiate with was [[Thaylenah\|Thaylenah]], whose capital, Thaylen City, possessed the Thalath Oathgate. The leader of Thaylenah, Queen [[Fen Rnamdi\|Fen Rnamdi]], was suspicious of the Alethi forces and didn't want to give them free access into the center of their capital city. She eventually came to agree to join the coalition, and allowed them access to her Oathgate, therefore giving them the ability to quickly travel to and mobilize in Thaylenah.
+Shortly before the battle, [[Taravangian\|Taravangian]], who was working for [[Odium\|Odium]], manipulated the government in order to motivate them to send off a large portion of the city's defense force, greatly reducing their military prowess and defensive capabilities. This left them reliant upon military aide from the Alethi in order to protect themselves from the Fused offensive.
+After intel arose concerning a Fused offensive on Thaylen City, the Alethi forces moved in to protect their allies and the strategic advantage they possessed via their control of the Thaylen Oathgate. They were further motivated by the threat that the Fused would pose to the human resistance if they managed to take control of the Oathgate.
+
+### Preparations
+  Human and singer forces facing off
+Several thousand [[Singer\|Singers]] arrived at the shores of [[Thaylen City\|Thaylen City]] under the protection of an [[Everstorm\|Everstorm]], spawned by [[Odium\|Odium]] to mask their invasion and hasten their ships. As sailing during a storm was considered impossible, the human defenders of the city were caught unaware; furthermore, due to Taravangian's manipulations, much of the city's defense force had departed it shortly before, leaving only the [[Thaylen\|Thaylens]] and a portion of Alethi army under [[Meridas Amaram\|Meridas Amaram]]. The Everstorm covering the advance of the enemy stalled over the city instead of continuing on, something never seen before.
+At the same time, the souls of approximately ten thousand [[Singer\|singers]] gathered outside the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]] in [[Shadesmar\|Shadesmar]]. Due to the stalled Everstorm, the Voidbringer souls were able to pass into the [[Physical Realm\|Physical Realm]], with two going into the ground and ripping themselves free to become [[Thunderclast\|thunderclasts]]. In addition, clad in a body made of golden carapace and clutching a regal scepter, Odium himself stepped onto the shore to personally lead the battle.
+Even with such might backing them, some of the [[Fused\|Fused]] expressed doubt over their chances of victory, largely due to the inexperience of their army of freed [[Parshmen\|Parshmen]], many of whom did not want to fight at all. With Amaram's forces being veterans of the [[Shattered Plains\|Shattered Plains]] campaigns, the battle was believed to be winnable or even favorable to the humans. Odium, however, had different plans.
+
+  <<Lift\|Lift>> and <<Szeth\|Szeth>> on the battlefield
+### Nergaoul arrives
+In the form of blood red mist, occasionally manifesting into images of combat, the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]] took to the battlefield and filled Sadeas troops with the [[Thrill\|Thrill]], imbuing them with bloodlust and the urge to fight above all else. It was then that the voidspren that had come through the Oathgate into the physical realm seized new hosts, possessing humans as they could normally do to singers; something that had never happened in previous desolations. With this, the Alethi army turned against the city they were supposed to protect.
+At the same time, Odium ordered one of the thunderclasts, [[Yushah\|Yushah]], to assault the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] to deny the enemy the [[King's Drop\|King's Drop]], a [[Perfect gemstone\|perfect gemstone]] capable of capturing an [[Unmade\|Unmade]]. Yushah breached the wall and broke apart the entire building, scattering all the gemstones onto the battlefield.
+Taking his copy of *[[The Way of Kings (in-world)\|The Way of Kings]]* under his arm, [[Dalinar Kholin\|Dalinar Kholin]] went alone to meet the enemy. Before the [[Azish\|Azish]] forces left the city, sailing to [[Vtlar Cove\|Vtlar Cove]] to wait out the storm, [[Lift\|Lift]] attacked her [[Vono\|guard]] and snuck back to the city, since she was unwilling to abandon the others. When she reached Dalinar he instructed her to track down and recover the King's Drop from the Fused who had taken it. At the same time, [[Szeth\|Szeth]], hovering above the city along with [[Nale\|Nale]], chose to swear the Third Ideal of the [[Skybreaker\|Skybreakers]], picking Dalinar as the ideal to follow. With this, he joined the battle, unsheathing [[Nightblood\|Nightblood]] to bring its full might onto the enemy and aid Lift.
+
+  Dalinar summoning <<Honor's Perpendicularity\|Honor's Perpendicularity>>
+### Unity
+Despite the powerful combatants involved on the human side, Odium's forces were winning. Odium and Dalinar met in the midsts of the battlefield, with [[Venli\|Venli]] observing as Dalinar challenged Odium to the contest of champions to have a chance at saving the city. Odium agreed, then explained how he had been grooming Dalinar for years to become Odium's own champion.
+With this, Odium unleashed the full might of the Thrill upon Dalinar, bombarding him with pain of his past actions and promising reprieve if Dalinar gives in. Dalinar, however, refuses, accepting the responsibility instead. With this, he managed to attain the next [[Bondsmith\|Bondsmith]] ideal, declaring "I am Unity" and summoning [[Honor's Perpendicularity\|Honor's Perpendicularity]]. All three realms, physical, cognitive, and spiritual were united in an outpouring of [[Gloryspren\|gloryspren]] and [[Stormlight\|Stormlight]], infusing every gem in the city and forming a passage to [[Shadesmar\|Shadesmar]]. His allies trapped there -- [[Adolin\|Adolin]], [[Shallan\|Shallan]], and [[Kaladin\|Kaladin]] -- use to return to the Physical Realm and join the fight. By contrast, seeing Dalinar's feat, Odium fled, leaving his armies to fend for themselves.
+
+  <<Shallan\|Shallan's>> illusory army
+### The tide turns
+Shallan, using [[Illumination\|Lightweaving]], created an illusory army to distract the Sadeas forces, even managing to give the phantoms some substance. Meanwhile, [[Jasnah\|Jasnah]] used the near-infinite Stormlight to annihilate the enemy forces with [[Surgebinding\|Surgebinding]], while [[Renarin\|Renarin]], having revealed his [[Glys\|corrupted spren]], rushed to join the fight.
+In the center, with Dalinar no longer a possible ally, the sphere containing [[Yelig-Nar\|Yelig-Nar]] went to Amaram, who attacked Dalinar, only to be rebuffed by Kaladin. Amaram then chose to bond [[Yelig-nar\|Yelig-nar]] by swallowing a gem, growing grotesque carapace under his [[Shardplate\|Shardplate]] and gaining access to all ten [[Surge\|Surges]].
+With Kaladin handling all threats to Dalinar, the latter made his way into the center of the red mists that made up Nergaoul. In the sky, Szeth, with the help of Lift, had finally acquired the King's Drop, but was immediately tailed by numerous flying [[Fused\|Fused]]. Unable to escape them, he and Lift devised a strategy to fool them, and, with Shallan's help, created a fake King's Drop, which they then allowed the Fused to "steal" back. With the perfect gemstone thus secured, Lift entered the mist to bring it to Dalinar.
+Meanwhile, Adolin, with the help of his [[Shardblade\|Shardblade]] [[Mayalaran\|Mayalaran]] and Thaylen highguard [[Hrdalm\|Hrdalm]], engaged [[Kai-garnis\|Kai-garnis]], the other thunderclast, near the city's [[Oathgate\|Oathgate]]. Though Adolin managed to seriously wound the creature, he eventually sustained too many injuries to fight effectively. It's then that Renarin arrived with healing and his own Blade. He and Hrdalm, the latter armed with Mayalaran, finally managed to bring the beast down, reducing it to inanimate stone. Renarin then made for the Oathgate, only to see it guarded by a dozen flying Fused.
+
+### Confronting the Thrill
+  Dalinar confronts Nergaoul
+Over in [[Urithiru\|Urithiru]], a surprise attack aimed at distracting the Alethi from sending reinforcements had been underway until [[Teft\|Teft]] managed to speak his Third Ideal and manifest a [[Shardblade\|Shardblade]], allowing him to open the Oathgate to Thaylen City and bring in much-needed reinforcements. There, the light of the activated gate momentarily scattered the Fused giving the new arrivals an advantage of surprise. At the same time, back at the ships the singers had arrived upon, [[Venli\|Venli]] bonded [[Timbre\|Timbre]], becoming the first singer [[Surgebinder\|Surgebinder]].
+Within Nergaoul's mists, Lift reached Dalinar and delivered the King's Drop. Embracing the Thrill, Dalinar lured Nergaoul in, and used the Drop to trap him, removing him from the battlefield. With this, the soldiers of Sadeas' army returned to normal, either fleeing or collapsing in place.
+Outside, Kaladin's battle with Amaram was still underway. He's almost killed after he runs out of Stormlight, but is saved by [[Rock\|Rock]], who killed Amaram with two shots from a Shardbow. With their last major fighter gone, [[Odium\|Odium's]] army retreated, while Kholin forces and the [[Windrunners\|Windrunners]] swept the city of the last invaders. The day was won.
 
 
 
-https://es.coppermind.net/wiki/Battle_of_Thaylen_Field
+https://coppermind.net/wiki/Battle_of_Thaylen_Field

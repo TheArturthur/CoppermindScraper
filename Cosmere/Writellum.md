@@ -1,158 +1,140 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Citónica (habilidad)**|
+|**Cytonics**|
 |-|-|
-|**Prerrequisitos**|Ser descendiente de alguien con la habilidad|
-|**Universo**|[[Citoverso\|Citoverso]]|
+|**Prerequisites**|Being descended from someone with the ability|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Para el tercer libro de la saga Escuadrón, ver [[Cit%C3%B3nica (libro)\|Citónica (libro)]].
->“*La tecnología es limitada. Solo la mente es infinita.*”
-\-Proverbio varvax[1]
-
-
-Las **citónica**, a veces llamadas habilidades citónicas, un defecto o una desviación, son un conjunto de habilidades psiónicas utilizadas por numerosos seres sapientes, entre ellos [[Jason Write\|Jason Write]] y [[Spensa Nightshade\|Spensa Nightshade]]. Una persona capaz de usarlas se denomina **citónico**. En los humanos, esas capacidades han durado siglos y han seguido transmitiéndose genéticamente desde la época de la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] hasta la ocupación de [[Detritus\|Detritus]] por los descendientes de la *[[Desafiante (nave)\|Desafiante]]*. Todas las especies alienígenas conocidas tienen la capacidad de producir citónicos, y unas pocas son totalmente citónicas.
-
-## Sumario
-
-1 Historia. [[#Historia]] 
-2 Mecánica. [[#Mec.C3.A1nica]] 
-3 Habilidades citónicas. [[#Habilidades cit.C3.B3nicas]] 
-
-3. [[#Sentidos]] 
-3. [[#Comunicaci.C3.B3n FTL .28m.C3.A1s r.C3.A1pida que la velocidad de la luz.29]] 
-3. [[#Aceleraci.C3.B3n de la velocidad mental]] 
-3. [[#Hojas mentales]] 
-3. [[#Rayos conmocionadores]] 
-3. [[#Viaje FTL]] 
-3. [[#Intercambio de mentes]] 
-3. [[#Supresi.C3.B3n cit.C3.B3nica]] 
-3. [[#Procesamiento transcit.C3.B3nico]] 
-3. [[#Ilusiones]] 
+For the third book in the Skyward series, see [[Cytonic (book)\|Cytonic (book)]].
+>“*Technology is limited. Only the mind is infinite.*”
+\-Varvax proverb[1]
 
 
-4 Usuarios citónicos destacables. [[#Usuarios cit.C3.B3nicos destacables]] 
-5 Notas del traductor. [[#Notas del traductor]] 
-6 Notas. [[#Notas]] 
+**Cytonics**, sometimes called cytonic abilities, a defect or a deviation, are a set of psionic abilities used by numerous sapient beings, among them [[Jason Write\|Jason Write]] and [[Spensa Nightshade\|Spensa Nightshade]]. A person capable of using them is called a **cytonic**. In humans, those abilities have lasted centuries and have continued to pass genetically since the time of the [[Phone Company\|Phone Company]] until the occupation of [[Detritus\|Detritus]] by the descendants of the *[[Defiant (starship)\|Defiant]]*. All known alien species have the capacity to produce cytonics, and a few are all-cytonic.
+
+## Contents
+
+1 History. [[#History]] 
+2 Mechanics. [[#Mechanics]] 
+3 Cytonic Abilities. [[#Cytonic Abilities]] 
+
+3. [[#Sense]] 
+3. [[#FTL Communication]] 
+3. [[#Mind Speed Acceleration]] 
+3. [[#Mindblades]] 
+3. [[#Concussion Bolts]] 
+3. [[#FTL Travel]] 
+3. [[#Mind Swap]] 
+3. [[#Cytonic Suppression]] 
+3. [[#Trans-cytonic processing]] 
+3. [[#Illusions]] 
 
 
-## Historia
-  <<Spensa\|Spensa>> rodeada de ojos de <<Zapador\|zapadores>>
-Los primeros citónicos se desarrollaron debido a que las criaturas sapientes estuvieron expuestas durante generaciones a las energías de la [[Ninguna-parte\|ninguna-parte]], filtrándose gradualmente a través de los portales.. A lo largo de muchas generaciones, los citónicos se hicieron más comunes, y hubo un prolongado período anterior al desarrollo de la tecnología avanzada durante el cual muchas razas estuvieron en contacto a través de la ninguna-parte. Este periodo llegó a su fin cuando una entidad desconocida, posiblemente similar a un zapador, fue creada por una raza tecnológicamente avanzada y atacó a los citónicos. Los usuarios de todas las razas se unieron para luchar contra ella, y aunque consiguieron destruirla, prácticamente todos los citónicos de todas las razas fueron aniquilados en el proceso, haciendo que se perdieran durante muchas generaciones.
-Una de las primeras razas en redescubrir la citónica tras este desastre parecen haber sido los [[Kitsen\|kitsen]] **caminantes de la sombra**, que utilizaban el teletransporte para viajar entre su [[Planeta natal kitsen\|mundo natal]] y la Tierra, donde interactuaban con los antiguos humanos. Sin embargo, los caminantes de la sombra acabaron abandonando ambos mundos para no volver a ser vistos. Con el tiempo se descubrió que se habían quedado atrapados accidentalmente en la [[Ninguna-parte\|ninguna-parte]] al intentar abrir un portal, y al no quedar kitsen citónicos, no había nadie que pudiera volver a abrir el portal. En el espacio normal, todas las razas sapientes, así como unas pocas no sapientes, volverían a desarrollar citónicos con el tiempo; de ellas, todas excepto los humanos lo hicieron antes de descubrir la tecnología avanzada..
-Mucho más tarde, durante las incursiones de la humanidad en el sistema solar, la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] intentó desarrollar un enlace telepático de base cibernética, apodado **cito**. Aunque aquellos intentos originales no funcionaron como se pretendía, fueron suficientes para atraer la atención de los [[Tenasi\|tenasi]]. Unos pocos en la Compañía Telefónica estudiaron y desarrollaron citónicos más avanzados a lo largo de los años.
-Los [[Zapador\|zapadores]] fueron creados a partir de una IA construida por Jason Write a imagen de su esposa perdida, Lana. La exposición a las energías de la ninguna-parte hizo que esta IA sin nombre desarrollara sapiencia, pero sólo unos días después Jason Write murió en un accidente. Al carecer de la madurez emocional para procesar su pérdida, la IA se reescribió a sí misma para borrar sus recuerdos de Jason, así como cualquier posibilidad de desarrollar nuevas conexiones emocionales, antes de retirarse al estallido de luz y replicarse a sí misma varios miles de veces. En el proceso, los zapadores dejaron inadvertidamente una copia de sus recuerdos codificada en el portal de Sombra Solitaria. Esto también cambió la ninguna-parte, haciendo que cualquiera que estuviera en ella perdiera gradualmente sus recuerdos a menos que se anclara a la realidad mediante cenizas de realidad o mediante la proximidad a fragmentos u otros sapientes. .
-Durante la Segunda Guerra Humana, la humanidad intentó aumentar su ejército invocando a los zapadores. Esto salió terriblemente mal; los zapadores no sólo se volvieron contra sus supuestos controladores, sino que arrasaron el espacio sin control antes de desaparecer con el tiempo. Desde entonces, sin embargo, fueron una presencia constante para todos los citónicos. Temerosa de ellos, la [[Supremac%C3%ADa\|Supremacía]] abandonó el uso de las habilidades citónicas, con la singular excepción de la tecnología FTL, necesaria para los viajes interestelares. Asimismo, los humanos llegaron a temer el "defecto" por la amenaza que conllevaba, lo que llevó a que casi todo el conocimiento de las habilidades desapareciera en mundos como [[Detritus\|Detritus]].
+4 Notable cytonics users. [[#Notable cytonics users]] 
+5 Notes. [[#Notes]] 
 
-## Mecánica
-Los citónicos engloban una serie de habilidades potenciadas por la mente viva. Algunas de ellas pueden aumentarse mediante la electrónica y, a través de ella, compartirse con poblaciones que no las poseen. En los humanos, el uso de la citónica se manifiesta por un aumento de la actividad en la sección del cerebro llamada *Writellum*. Sólo un pequeño porcentaje de la población humana total posee la capacidad citónica, aunque este número es mucho mayor entre muchas razas alienígenas, y en algunas, como los [[Varvax\|varvax]] y los [[Tenasi\|tenasi]], se da a entender que todos tienen la capacidad. También es posible que una IA desarrolle habilidades citónica.
-Aunque cualquier citónico puede utilizar todo el conjunto de habilidades psíquicas, la gente tiende a especializarse, inclinándose más hacia aplicaciones específicas del poder en lugar de dominarlas todas.
-Para utilizar la citónica, el usuario necesita meditar, concentrándose en la impresión de moverse hacia arriba y dejando que el mundo que le rodea se desvanezca. Mientras que un principiante necesita varios instantes para entrar en el estado mental adecuado, un usuario experimentado de la citónica puede hacerlo al instante, lo que le permite utilizar activamente la habilidad en combate. La concentración permite a los citónicos utilizar la [[Ninguna-parte\|ninguna-parte]], un vacío atemporal fuera de la realidad normal. La ninguna-parte tiene una gran importancia en varias, si no en todas, las habilidades citónicas, sobre todo en el teletransporte y la comunicación FTL. También es el hogar de los [[Zapador\|zapadores]], por lo que su uso es muy peligroso.
 
-## Habilidades citónicas
-### Sentidos
->“*Lo habían declarado legalmente ciego al cumplir los dieciséis años. (...) Por suerte, contaba con otras maneras de ver.*”
+## History
+  <<Spensa\|Spensa>> surrounded by <<Delver\|delver>> eyes
+The first cytonics developed due to sapient creatures being exposed over generations to the energies of the [[Nowhere\|nowhere]], gradually leaking in through nowhere portals. Over many generations, cytonics grew more common, and there was a prolonged period prior to the development of advanced technology during which many races were in contact through the nowhere. This period came to an end when an unknown entity, possibly similar to a delver, was created by a technologically advanced race, and attacked cytonics. Cytonics of all races banded together to fight it, and though they succeeded in destroying it, virtually all cytonics of all races were wiped out in the process, causing cytonics to be lost for many generations.
+One of the first races to rediscover cytonics after this disaster seems to have been the [[Kitsen\|kitsen]] **shadow-walkers**, who used teleportation to travel between their [[Kitsen homeworld\|homeworld]] and Earth, where they would interact with ancient humans. However, the shadow-walkers eventually departed both worlds, never to be seen again. It was eventually discovered that they had accidentally trapped themselves in the [[Nowhere\|nowhere]] through an attempt to open a nowhere gate, and with no remaining kitsen cytonics, there was no one who could reopen the portal. In normal space, all sapient races, as well as a few non-sapient ones, would eventually redevelop cytonics; of them, all of them save humans did so prior to discovering advanced technology.
+Much later, during humanity's forays into the solar system, the [[Phone Company\|Phone Company]] attempted to develop cybernetic-based telepathic linking, nicknamed **Cyto**. While those original attempts did not work as intended, they were sufficient to attract the attention of the [[Tenasi\|tenasi]]. More advanced cytonics were studied and developed by a few in the Phone Company over the years.
+The [[Delver\|delvers]] were created from an AI built by Jason Write in the image of his lost wife, Lana. Exposure to the energies of the nowhere caused this unnamed AI to develop sapience, but only a few days afterwards Jason Write was killed in an accident. Lacking the emotional maturity to process her loss, the AI rewrote herself to erase her memories of Jason as well as any possibility of developing new emotional connections, before retreating to the lightburst and replicating herself many thousand times. In the process, the delvers inadvertently left a copy of their memories encoded at the Solitary Shadow portal. This also changed the nowhere, causing anyone in it to gradually lose their memories unless anchored to reality through reality ashes or through proximity to fragments or other sapients.
+During the Second [[Human War\|Human War]], mankind attempted to augment their military by summoning the delvers. This went horribly wrong; not only did the delvers turn against their would-be controllers, but they rampaged across space unchecked before eventually fading away. From then on out, however, they were a constant presence for all cytonics. Fearful of them, the [[Superiority\|Superiority]] made a transition away from using cytonic abilities, with the singular exception of FTL technology, necessary for interstellar travel. Humans likewise came to fear the "defect" for the threat it carried with them, leading to nearly all knowledge of the abilities disappearing on worlds like [[Detritus\|Detritus]].
+
+## Mechanics
+Cytonics encompass a number of abilities powered by the living mind. Some of them can be augmented by electronics, and through this shared to populations that don't possess them. In humans, use of cytonics is signified by increased activity in the section of the brain called the **Writellum**. Only a small percentage of the total human populace possesses the capacity for cytonics, although this number is far higher among many alien races, with some, like [[Varvax\|varvax]] and [[Tenasi\|tenasi]], implied to all have the ability. It's also possible for AI to develop cytonics.
+While any single cytonic can utilize the whole set of psychic abilities, people tend to specialize, leaning more towards specific applications of the power rather than mastering all of them.
+In order to utilize cytonics, the user needs to meditate, focusing on the impression of moving upwards and letting the world around them fade away. While a beginner needs several moments to enter the appropriate mental state, an experienced user of cytonics can do so instantly, allowing them to actively use the ability in combat. The focus allows the cytonics to utilize the [[Nowhere\|nowhere]], a timeless emptiness outside of normal reality. Nowhere figures heavily in several, if not all cytonic abilities, most notably teleportation and FTL communication. It's also home of the [[Delver\|delvers]], making using it highly dangerous.
+
+## Cytonic Abilities
+### Sense
+>“* He had been legally blind since he'd turned sixteen. (...) Fortunately, he had other methods of seeing.*”
 \- Jason Write[1]
 
 
-La capacidad de "ver" el mundo con sentidos sobrenaturales. [[Jason Write\|Jason Write]] la utiliza para percibir la luz como vibraciones, siendo el negro la calma y la luz blanca un rugido en su mente. Esto le permite hacerse una idea clara del mundo a pesar de su ceguera, aunque requiere cierto nivel de esfuerzo consciente.
-Quizá esté relacionada con esto la capacidad que tienen algunos citónicos de detectarse entre sí. Cuando están cerca de otro citónico, sienten que les recorre una sensación de electicidad, o la sensación de que les salpica agua fría. Cuando se concentran, parecen capaces de detectar seres citónicos a una distancia considerable. Otros, sin embargo, sólo pueden detectar a un citónico sondeando deliberadamente la mente de una persona sospechosa.
+The ability to "see" the world with supernatural senses. [[Jason Write\|Jason Write]] uses it to perceive the light as vibrations, black being calm, white light being a roar in his mind. This allows him to get a clear picture of the world despite his blindness, though it takes a certain level of conscious effort.
+Perhaps related to this is the ability some cytonics have to detect each other. When near a fellow cytonics, they feel a sense of electicity coursing through them, or the feeling of being splashed with cold water. When they focus, they seem able to detect cytonic beings from a considerable distance. Others, however, can only detect a cytonic by deliberately probing the mind of a suspected person.
 
-### Comunicación FTL (más rápida que la velocidad de la luz)
->“*Utilizaban aquel lugar entre latidos del corazón para hablar entre ellos, para comunicarse al instante.*”
-\-Spensa sobre los krell[19]
+### FTL Communication
+>“*They used that place between heartbeats to talk to one another, to communicate instantly.*”
+\-Spensa about the Krell[19]
 
 
-La razón original por la que se desarrolló la citónica fue su capacidad para conectar las mentes de los usuarios citónicos y compartir información verbal. Durante los días de la [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]], la avanzada red de comunicación FTL que conecta a toda la humanidad es impulsada por un único operativo con habilidades citónicas desarrolladas, y está mediada por equipos cibernéticos.
-Los citónicos pueden comunicarse sin ayuda del equipo electrónico. Se desconoce el alcance al que pueden comunicarse sin ayuda tecnológica; dos citónicos pueden comunicarse a través de sistemas estelares, aunque la comunicación será irregular en el mejor de los casos. La comunicación citónica puede ser escuchada fácilmente por otros citónicos a una distancia de al menos varios cientos de kilómetros. La diferencia de idioma o especie no hace distinción en la comunicación FTL; sin embargo, parece imposible cifrarla o asegurarla contra los interceptores. Está demostrado que cierta tecnología o materia puede bloquearla o interferir en ella.
-También puede utilizarse una subespecie de [[Taynix\|taynix]] para crear un dispositivo conocido como **hipercomunicador** que permite la comunicación citónica. Las comunicaciones a través de hipercomunicadores se denominan a veces **hiperseñales**.
+The original reason cytonics was developed was its ability to connect minds of cytonics users and share verbal information. During the days of the [[Phone Company\|Phone Company]], the advanced FTL communication network that connects all mankind is powered by a single operative with developed cytonic abilities, and is mediated by cybernetic equipment.
+Cytonics can communicate without help of the electronic equipment. The range that they can communicate without technological support is unknown; two cytonics can communicate across star systems, although the communication will be spotty at best. Cytonic communication can be easily overheard by other cytonics at a distance of at least several hundred kilometers. Difference in language or species makes no distinction in FTL communication; however, it seems impossible to encrypt or secure it against eavesdroppers. It is proven that certain technology or matter can block or interfere with it.
+A subspecies of [[Taynix\|taynix]] can also be used to create a device known as a **hypercomm** that allows for cytonic communication. Communications over hypercomms are sometimes referred to as **hypersignals**.
 
-### Aceleración de la velocidad mental
->“*Los krells sabían que debían atacar a cualquiera de nosotros que volara demasiado bien porque eran conscientes de la existencia del defecto.*”
+### Mind Speed Acceleration
+>“*The Krell knew they had to target any of us who flew too well—because they knew about the defect.*”
 \-Spensa[26]
 
 
-Los usuarios citónicos son capaces de reaccionar a una velocidad increíble, pensando más rápido de lo humanamente posible, aunque esto no permite aumentar su velocidad física. Esta aceleración mental permite a los citónicos destacar en tareas que requieren tiempos de reacción rápidos, como el vuelo, lo que les convierte en excelentes pilotos, así como utilizar sus habilidades con escasa antelación, lo que les permite reaccionar incluso ante balas voladoras.
+Cytonic users are able to react at incredible speed, thinking faster than humanly possible, although this does not allow for an increase in physical speed. This mind acceleration allows cytonics to excel in tasks that require quick reaction times, such as flight, making them excellent pilots, as well as use their abilities with little advanced warning, letting them react even to flying bullets.
 
-### Hojas mentales
->“*Dio un fuerte latigazo y una docena de invisibles hojas mentales surcaron el aire. La potencia de su ataque envió las balas hacia atrás además de partirlas todas en dos.*”
+### Mindblades
+>“*He whipped out a dozen invisible mindblades that slashed through the air. The force of his attack slapped the bullets backward as well as sliced each one in two.*”
 \-Jason Write[1]
 
 
-Las **hojas mentales** son fuerza pura, formada por la mente del usuario. Pueden utilizarse para cortar cualquier objeto sólido, pero con la práctica, pueden ser detectadas y bloqueadas por otras hojas mentales. Son capaces de afectar incluso a materiales resistentes al armamento convencional avanzado, como el [[Telanio\|telanio]]. Se consideran una de las habilidades citónicas más avanzadas, y son difíciles de descubrir por uno mismo.
-[[/wiki/Taynix#Babosa Explosiva]] son capaces de generar hojas mentales. Pueden emparejarse con tecnología citónica para amplificar su poder, lo que da lugar a un dispositivo conocido a veces como **hiperarma'** que puede lanzar ataques devastadores.
+**Mindblades** are pure force, formed by the mind of the user. They can be used to cut through any solid objects, but with practice, they can be Sensed and blocked by other mindblades. They are capable of affecting even materials that are resistant to advanced conventional weaponry, such as [[Telanium\|telanium]]. They are considered one of the more advanced cytonic abilities, and difficult to figure out on one's own.
+[[/wiki/Taynix#Boomslugs]] are capable of generating mindblades. These taynix can be paired with cytonic technology to amplify their power, which results in a device sometimes known as a **hyperweapon** that can deliver devastating attacks.
 
-### Rayos conmocionadores
-Los rayos conmocionadores son un ataque citónico dirigido a la mente de una persona. Recibir el impacto de uno con toda su fuerza puede dejar a una persona aturdida durante minutos y provocarle un dolor de cabeza que dura días.
+### Concussion Bolts
+**Concussion bolts** are a cytonic attack that target a person's mind. Being hit by the full force of one can leave a person stunned for minutes and give them a headache that lasts for days.
 
-### Viaje FTL
-  <<Taynix\|Taynix>>, una especie de babosa capaz de teletransportarse
->“*Hice algo con mi mente. Desaparecimos, dejando un agujero con forma de nave en la creciente bola de fuego y destrucción.¡*”
-\-Spensa[30]
+### FTL Travel
+  <<Taynix\|Taynix>>, a species of slug capable of teleportation
+>“*I did something with my mind. We vanished, leaving a ship-size hole in the expanding blossom of flame and destruction.*”
+\-Spensa[29]
 
 
-Una habilidad que poseen todas las razas alienígenas avanzadas, y desarrollada pero mantenida en secreto por los agentes de la Compañía Telefónica. Consiste en sentirse a sí mismo y salir del espacio normal, desplazándose a través de la [[Ninguna-parte\|ninguna-parte]] para reaparecer en un punto distinto del espacio normal, posiblemente a años-luz de distancia, en cuestión de segundos. Al reaparecer, el ejecutante aparta la materia en su destino para crear el espacio para sí mismo. Mientras está en la ninguna-parte, el impulso de un objeto se pierde, de modo que cuando un objeto vuelve al mundo real después de un salto, naturalmente estará inmóvil hasta que vuelva a moverse. No parece haber un límite máximo para la distancia recorrida en un salto; sin embargo, los citónicos requieren una conciencia precisa del lugar al que están volviendo. Esto puede conseguirse con coordenadas citónicas, que pueden introducirse directamente en la mente de una persona y permiten viajar incluso a un citónico no entrenado. Sin embargo, dichas coordenadas se desvanecen en pocos minutos. Este teletransporte citónico a veces se denomina "hipersalto".
-El viaje FTL es una capacidad que puede ser aumentada por la tecnología para permitir a los citónicos transportar algo más que a sí mismos. Como tal, constituye la base de todos los viajes interestelares. El diseño moderno, utilizado para evitar atraer a los zapadores, utiliza [[Taynix\|taynix]] como **hipermotores**, ya que los zapadores los consideran una distracción.
+An ability possessed by all advanced alien races, and developed but kept secret by the Phone Company operatives. It involves Sensing inwards on oneself and removing oneself from normal space, moving through [[Nowhere\|nowhere]] to reappear at a different point in normal space, possibly light-years away, in seconds. When reappearing, the performer pushes aside matter at their destination to create the space for themselves. While in the nowhere, the momentum of an object is lost, so when an object returns to the real world after a jump it will naturally be stationary until it is moved again. There seems to be no upper limit on the distance travelled in a jump; however, the cytonic requires keen awareness of the place they are returning to. This can be achieved with cytonic coordinates, which can be pushed directly into a person's mind and allow even an untrained cytonic to travel. Such coordinates, however, fade within a few minutes. This cytonic teleportation is sometimes referred to as a **hyperjump**.
+FTL travel is an ability that can be augmented by technology to allow the cytonic to transport more than just themselves. As such, it forms the basis for all interstellar travel. Modern design, used to avoid attracting the delvers, utilizes [[Taynix\|taynix]] as **hyperdrives**, as delvers find them distracting.
 
-### Intercambio de mentes
->“*Sus disidentes están huyendo y se ocultan entre nosotros.*”
+### Mind Swap
+>“*Your dissidents are escaping, and they're hiding among us.*”
 \-Jason Write[1]
 
 
-Mediante el uso de técnicas citónicas avanzadas, una mente puede intercambiar cuerpos, incluso entre especies. Entre otros, los disidentes [[Varvax\|varvax]] pueden utilizar esto para tomar cuerpos humanos, algo parecido a la posesión. Sin embargo, llevaría mucho tiempo adaptarse si los cuerpos son demasiado diferentes.
+Using advanced cytonics, it is possible for a mind to swap bodies, including cross-species. Among others, [[Varvax\|varvax]] dissidents can utilize this to take human bodies, akin to possession. It would, however, take much time to adjust if the bodies are too different.
 
-### Supresión citónica
->“*Le advierto, sin embargo, que sus capacidades citónicas quedarán atenuadas aquí en Visión Estelar.*”
+### Cytonic Suppression
+>“*Your cytonic abilities will be muted here on Starsight.*”
 \-Cuna[12]
 
 
-Existen varios métodos para suprimir las capacidades citónicas, todos ellos probablemente utilizando el mismo mecanismo subyacente. Uno, utilizado por los [[Varvax\|varvax]], les permite suprimir las capacidades citónicas de los miembros indeseables de su población, manteniéndolos bajo control, así como mantener prisioneros a los citónicos. Otro son los escudos integrados en [[M-Bot\|M-Bot]], que protegen a su piloto de la influencia citónica externa.
-Por último, existen los **citoescudos**, que pueden suprimir todas las señales citónicas y radioeléctricas salientes, así como asfixiar parcialmente el acceso a la citónica en su interior. Originalmente se diseñaron para proteger las zonas habitadas de los [[Zapador\|zapadores]], aunque no lo consiguen. Sin embargo, consiguen impedir el teletransporte a larga distancia, sobre todo dentro y fuera del escudo. Suelen ser de gran tamaño; los dos ejemplos conocidos rodean la totalidad de [[Detritus\|Detritus]] y [[Visi%C3%B3n Estelar\|Visión Estelar]].
+There exist several methods of suppressing cytonic abilities, all likely utilizing the same underlying mechanism. One, used by the [[Varvax\|varvax]], allows them to suppress cytonic abilities of the undesirable members of their populace, keeping them in check, as well as hold cytonics prisoner. Another are shields built into [[M-Bot\|M-Bot]], which protect their pilot from external cytonic influence.
+Finally, there are **cytoshields**, which can suppress all outgoing cytonic and radio signals, as well as partially smother access to cytonics within them. They were originally designed to protect inhabited areas from [[Delver\|delvers]], although they do not succeed in this regard. They do, however, still manage to prevent long-distance teleportation, particularly in and out of the shield. They are typically built large; the two known examples surround the entireties of [[Detritus\|Detritus]] and [[Starsight (station)\|Starsight]].
 
-### Procesamiento transcitónico
->“*Para crear ordenadores capaces de pensar tan rápido como mi mente, hacen falta unos procesadores que puedan comunicarse más deprisa de lo que permiten las señales eléctricas normales.*”
-\-M-Bot[34]
-
-
-Algunos procesadores avanzados utilizan tecnología citónica para trabajar mucho más rápido de lo que sería normalmente posible. Esto es muy importante para inteligencias artificiales como [[M-Bot\|M-Bot]]. Utilizando comunicadores citónicos en miniatura, las partes de las IA pueden pasar señales entre sí a velocidades superiores a la de la luz, lo que facilita una inteligencia casi humana y una capacidad analítica sobrehumana. Como efecto secundario, hace que esas máquinas sean detectables por los citónicos orgánicos. Sin embargo, por alguna razón, las IA enfurecen a los [[Zapador\|zapadores]] mucho más que otras formas de señales citónicas y de radio, lo que ha llevado a prohibirlas en la actualidad.
-
-### Ilusiones
->“*Y si te está mirando, no te ve. Estamos sobrescribiendo su visión.*”
-\-Comunicación KRELL[19]
+### Trans-cytonic processing
+>“*To create computers that can think as quickly as my mind, you need processors that can communicate faster than normal electric signals facilitate.*”
+\-M-Bot[33]
 
 
-Los citónicos son capaces de crear ilusiones, haciendo que los demás vean cosas que en realidad no existen. Esas ilusiones pueden ir desde escenarios complejos a simples ruidos audiovisuales. En realidad, no están presentes físicamente, sino que existen directamente en la mente de las personas. Por ello, dos personas que viajen juntas suelen poder determinar qué es real y qué no lo es.
-Se ha demostrado que dos especies son capaces de crear ilusiones. Los [[Varvax\|varvax]] las utilizaron para hacer que [[Perseguidor\|Perseguidor]] se volviera contra sus aliados en la [[Batalla de Alta\|batalla de Alta]];  los [[Zapador\|zapadores]] las utilizan como mecanismo de defensa, creando diversas ilusiones en laberintos para confundir y despistar a la gente que intenta llegar al corazón. Aunque todo el mundo es susceptible a las ilusiones, las personas que tienen habilidades citónicas se ven mucho más afectadas.
+Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using minature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, for some reason AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals, leading to a ban on them in the present times.
 
-## Usuarios citónicos destacables
-Para una lista completa de personas con habilidades citónicas, ver Categoría:Citónicos.
+### Illusions
+>“*If it's looking at you, it doesn’t see you. We are overwriting its vision.*”
+\-KRELL command[19]
+
+
+Cytonics are capable of creating illusions, making others see things that aren't really there. Those illusions can range from complex scenarios to simple audiovisual noise. They aren't really physically present; rather, they exist directly in people's minds. As such, two people travelling together can usually ascertain what is and isn't real.
+Two species have been shown as capable of creating illusions. The [[Varvax\|varvax]] used them to make [[Chaser\|Chaser]] turn against his allies in the [[Battle of Alta\|Battle of Alta]]; the [[Delver\|delvers]] use them as a defense mechanism, creating various illusions in mazes as a way to confound and throw off people trying to reach the heart. Though everyone is susceptible to illusions, people who themselves have cytonic abilities are far more affected.
+
+## Notable cytonics users
+For a complete list of people with cytonic abilities, see Category:Cytonics.
 
 [[Jason Write\|Jason Write]]
 [[Sonn\|Sonn]]
-[[Edmund (Cit%C3%B3nico)\|Edmund]]
+[[Edmund (Cytonic)\|Edmund]]
 [[Spensa Nightshade\|Spensa Nightshade]]
 [[Zeen Nightshade\|Zeen Nightshade]]
 [[Becca Nightshade\|Becca Nightshade]]
 [[Brade Shimabukuro\|Brade Shimabukuro]]
 [[Jorgen Weight\|Jorgen Weight]]
-[[Babosa Letal\|Babosa Letal]]
+[[Doomslug\|Doomslug]]
 
 
 
-## Notas del traductor
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**| · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
-
-
-
-https://es.coppermind.net/wiki/Writellum
+https://coppermind.net/wiki/Writellum

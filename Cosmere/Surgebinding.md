@@ -1,241 +1,216 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Potenciación**|
+|**Surgebinding**|
 |-|-|
 ||
-|**Relacionado con**|[[Honor\|Honor]], [[Cultivaci%C3%B3n\|Cultivación]]|
-|**Prerrequisitos**|formando un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con un [[Spren\|spren]], estar en posesión de una [[Hoja de Honor\|hoja de Honor]] o siendo un [[Fusionado\|Fusionado]]|
-|**Tipo**|fin-positivo|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-
-> [!warning] ¡Esta página o sección contiene spoilers de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+|**Related to**|[[Honor\|Honor]], [[Cultivation\|Cultivation]]|
+|**Prerequisites**|Forming a [[Nahel bond\|Nahel bond]] with a [[Spren\|spren]] or possessing an [[Honorblade\|Honorblade]] or being a [[Fused\|Fused]]|
+|**Type**|End-Positive|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
 >“*True Surges are of both Honor and Cultivation—Cultivation for life, Honor to make the Surge into natural law. Things must fall to the ground, so they created Surges to make it happen.*”
-\-Rabeniel, dando una lección a Venli[1][fn 1]
+\-Raboniel, lecturing Venli[1][fn 1]
 
 
-La **potenciación** es una de las principales formas de [[Investidura\|Investidura]] en [[Roshar\|Roshar]]. Los potenciadores pueden manipular diez fuerzas fundamentales conocidas localmente como Potencias, con cada potenciador teniendo acceso a dos de las Potencias con superposición entre ellas, infundiendo objetos o seres con [[Luz tormentosa\|luz tormentosa]]. Las Potencias a las que cada potenciador tiene acceso vienen en una combinación determinada; por ejemplo, es posible tener las Potencias de Progresión e Iluminación o Progresión y Abrasión, pero no Progresión y Gravitación. Se suele considerar una de las más poderosas Artes Investidas del Cosmere, hasta tal punto que [[Rayse\|Rayse]] cree que habrá una guerra cuando las Esquirlas de otros mundos descubran cuan poderosa es.
-Los rosharianos normalmente se referirán a cualquier tipo de Arte Investida como "potenciación", aunque la mayoría de eruditos del Cosmere, como [[Khriss\|Khriss]], no considerarían ese uso correcto.
-Unas pocas Potencias, como la Illuminación, son variaciones de Artes Investidas [[De Yolen\|de Yolen]].
+**Surgebinding** is a prime manifestation of [[Investiture\|Investiture]] on [[Roshar\|Roshar]]. Surgebinders can manipulate ten fundamental forces locally known as Surges, with each Surgebinder having access to two of the Surges with overlap between them, by infusing objects or beings with [[Stormlight\|Stormlight]]. Each Surgebinder's Surges come in a set combination; for example, it is possible to have the Surges of Progression and Illumination or Progression and Abrasion, but not Progression and Gravitation. It is often considered one of the most powerful Invested Arts in the cosmere, so much so that [[Rayse\|Rayse]] believes that there would be a war when Shards of other worlds find out about its power.
+Rosharans will often refer to any Invested Art as "Surgebinding," though most cosmere scholars, like [[Khriss\|Khriss]], would not consider such usage to be correct.
+A few of the Surges, such as Illumination, are variations on [[Yolish\|Yolish]] Invested Arts.
 
-## Sumario
+## Contents
 
-1 Prerequisitos. [[#Prerequisitos]] 
+1 Prerequisites. [[#Prerequisites]] 
 
-1. [[#Convertirse en potenciador]] 
+1. [[#Becoming a Surgebinder]] 
 
-1. [[#Hojas de Honor]] 
-1. [[#V.C3.ADnculo Nahel]] 
-1. [[#Fusionados]] 
-
-
-1. [[#Luz]] 
+1. [[#Honorblade]] 
+1. [[#Nahel Bond]] 
+1. [[#Fused]] 
 
 
-2 Potencias. [[#Potencias]] 
-
-2. [[#Adhesi.C3.B3n]] 
-2. [[#Gravitaci.C3.B3n]] 
-2. [[#Divisi.C3.B3n]] 
-2. [[#Abrasi.C3.B3n]] 
-2. [[#Progresi.C3.B3n]] 
-2. [[#Iluminaci.C3.B3n]] 
-2. [[#Transformaci.C3.B3n]] 
-2. [[#Transportaci.C3.B3n]] 
-2. [[#Cohesi.C3.B3n]] 
-2. [[#Tensi.C3.B3n]] 
+1. [[#Light]] 
 
 
-3 Potenciadores notables. [[#Potenciadores notables]] 
-4 Caballeros Radiantes. [[#Caballeros Radiantes]] 
-5 Notas. [[#Notas]] 
+2 Surges. [[#Surges]] 
+
+2. [[#Adhesion]] 
+2. [[#Gravitation]] 
+2. [[#Division]] 
+2. [[#Abrasion]] 
+2. [[#Progression]] 
+2. [[#Illumination]] 
+2. [[#Transformation]] 
+2. [[#Transportation]] 
+2. [[#Cohesion]] 
+2. [[#Tension]] 
 
 
-## Prerequisitos
-|****Vínculo Nahel****|
+3 Notable Surgebinders. [[#Notable Surgebinders]] 
+4 Knights Radiant. [[#Knights Radiant]] 
+5 Notes. [[#Notes]] 
+
+
+## Prerequisites
+|****Nahel bond****|
 |-|-|
-|**Orden**|**Spren**|**Atributo**|**Potencias**|
-|[[Orden de los Corredores del Viento\|]] [[Orden de los Corredores del Viento\|Corredores del Viento ]]|[[Honorspren\|Honorspren]]|Proteger/ Liderar|[[Adhesi%C3%B3n\|]]  [[Adhesi%C3%B3n\|Adhesión ]]|[[Gravitaci%C3%B3n\|]]  [[Gravitaci%C3%B3n\|Gravitación ]]|
-|[[Orden de los Rompedores del Cielo\|]] [[Orden de los Rompedores del Cielo\|Rompedores del Cielo ]]|[[Altospren\|Altospren]]|Justo/ Confiado|[[Gravitaci%C3%B3n\|]]  [[Gravitaci%C3%B3n\|Gravitación ]]|[[Divisi%C3%B3n\|]]  [[Divisi%C3%B3n\|División ]]|
-|[[Orden de los Portadores del Polvo\|]] [[Orden de los Portadores del Polvo\|Portadores del Polvo ]]|[[Cenizaspren\|Cenizaspren]]|Valiente/ Obediente|[[Divisi%C3%B3n\|]]  [[Divisi%C3%B3n\|División ]]|[[Abrasi%C3%B3n\|]]  [[Abrasi%C3%B3n\|Abrasión ]]|
-|[[Orden de los Danzantes del Filo\|]] [[Orden de los Danzantes del Filo\|Danzantes del Filo ]]|[[Cultivacispren\|Cultivacispren]]|Amar/ Curar|[[Abrasi%C3%B3n\|]]  [[Abrasi%C3%B3n\|Abrasión ]]|[[Progresi%C3%B3n\|]]  [[Progresi%C3%B3n\|Progresión ]]|
-|[[Orden de los Vigilantes de la Verdad\|]] [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]]|[[Brumaspren\|Brumaspren]]|Aprender/ Dar|[[Progresi%C3%B3n\|]]  [[Progresi%C3%B3n\|Progresión ]]|[[Iluminaci%C3%B3n\|]]  [[Iluminaci%C3%B3n\|Iluminación ]]|
-|[[Orden de los Tejedores de Luz\|]] [[Orden de los Tejedores de Luz\|Tejedores de Luz ]]|[[Cr%C3%ADptico\|Críptico]] (Mentiraspren)|Creativo/ Honrado|[[Iluminaci%C3%B3n\|]]  [[Iluminaci%C3%B3n\|Iluminación ]]|[[Transformaci%C3%B3n\|]]  [[Transformaci%C3%B3n\|Transformación ]]|
-|[[Orden de los Nominadores de lo Otro\|]] [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro ]]|[[Tintaspren\|Tintaspren]]|Sabio/ Cuidadoso|[[Transformaci%C3%B3n\|]]  [[Transformaci%C3%B3n\|Transformación ]]|[[Transportaci%C3%B3n\|]]  [[Transportaci%C3%B3n\|Transportación ]]|
-|[[Orden de los Escultores de Voluntad\|]] [[Orden de los Escultores de Voluntad\|Escultores de Voluntad ]]|[[Alcanzador\|Alcanzadores]] (Lumispren)|Resoluto/ Constructor|[[Transportaci%C3%B3n\|]]  [[Transportaci%C3%B3n\|Transportación ]]|[[Cohesi%C3%B3n\|]]  [[Cohesi%C3%B3n\|Cohesión ]]|
-|[[Orden de los Custodios de Piedra\|]] [[Orden de los Custodios de Piedra\|Custodios de Piedra ]]|[[Cumbrespren\|Cumbrespren]]|Formal/ Emprendedor|[[Cohesi%C3%B3n\|]]  [[Cohesi%C3%B3n\|Cohesión ]]|[[Tensi%C3%B3n\|]]  [[Tensi%C3%B3n\|Tensión ]]|
-|[[Orden de los Forjadores de V%C3%ADnculos\|]] [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos ]]|El [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], y el [[Hermano\|Hermano]]|Piadoso/ Orientativo|[[Tensi%C3%B3n\|]]  [[Tensi%C3%B3n\|Tensión ]]|[[Adhesi%C3%B3n\|]]  [[Adhesi%C3%B3n\|Adhesión ]]|
+|**Order**|**Spren**|**Attribute**|**Surges**|
+|[[Order of Windrunners\|]] [[Order of Windrunners\|Windrunners ]]|[[Honorspren\|Honorspren]]|Protecting/ Leading|[[Adhesion\|]]  [[Adhesion\|Adhesion ]]|[[Gravitation\|]]  [[Gravitation\|Gravitation ]]|
+|[[Order of Skybreakers\|]] [[Order of Skybreakers\|Skybreakers ]]|[[Highspren\|Highspren]]|Just/ Confident|[[Gravitation\|]]  [[Gravitation\|Gravitation ]]|[[Division\|]]  [[Division\|Division ]]|
+|[[Order of Dustbringers\|]] [[Order of Dustbringers\|Dustbringers ]]|[[Ashspren\|Ashspren]]|Brave/ Obedient|[[Division\|]]  [[Division\|Division ]]|[[Abrasion\|]]  [[Abrasion\|Abrasion ]]|
+|[[Order of Edgedancers\|]] [[Order of Edgedancers\|Edgedancers ]]|[[Cultivationspren\|Cultivationspren]]|Loving/ Healing|[[Abrasion\|]]  [[Abrasion\|Abrasion ]]|[[Progression\|]]  [[Progression\|Progression ]]|
+|[[Order of Truthwatchers\|]] [[Order of Truthwatchers\|Truthwatchers]]|[[Mistspren\|Mistspren]]|Learned/ Giving|[[Progression\|]]  [[Progression\|Progression ]]|[[Illumination\|]]  [[Illumination\|Illumination ]]|
+|[[Order of Lightweavers\|]] [[Order of Lightweavers\|Lightweavers ]]|[[Cryptic\|Cryptic]] (Liespren)|Creative/ Honest|[[Illumination\|]]  [[Illumination\|Illumination ]]|[[Transformation\|]]  [[Transformation\|Transformation ]]|
+|[[Order of Elsecallers\|]] [[Order of Elsecallers\|Elsecallers ]]|[[Inkspren\|Inkspren]]|Wise/ Careful|[[Transformation\|]]  [[Transformation\|Transformation ]]|[[Transportation\|]]  [[Transportation\|Transportation ]]|
+|[[Order of Willshapers\|]] [[Order of Willshapers\|Willshapers ]]|[[Reacher\|Reacher]] (Lightspren)|Resolute/ Builder|[[Transportation\|]]  [[Transportation\|Transportation ]]|[[Cohesion\|]]  [[Cohesion\|Cohesion ]]|
+|[[Order of Stonewards\|]] [[Order of Stonewards\|Stonewards ]]|[[Peakspren\|Peakspren]]|Dependable/ Resourceful|[[Cohesion\|]]  [[Cohesion\|Cohesion ]]|[[Tension\|]]  [[Tension\|Tension ]]|
+|[[Order of Bondsmiths\|]] [[Order of Bondsmiths\|Bondsmiths ]]|The [[Stormfather\|Stormfather]], [[Nightwatcher\|Nightwatcher]], and [[Sibling\|Sibling]]|Pious/ Guiding|[[Tension\|]]  [[Tension\|Tension ]]|[[Adhesion\|]]  [[Adhesion\|Adhesion ]]|
 
-### Convertirse en potenciador
-La potenciación no es innata para los rosharianos, y puede obtenerse de distintos modos. Originalmente las habilidades eran solo concedidas a los [[Heraldo\|Heraldos]] por el [[Todopoderoso\|Todopoderoso]] a través de las hojas de Honor. Más tarde, los [[Spren\|spren]] imitaron los efectos de las hojas de Honor y empezaron a dar las Potencias a los humanos formando con ellos un vínculo espiritual llamado [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Los humanos también tenían la habilidad de manipular las Potencias en [[Ashyn\|Ashyn]] antes de la [[Expulsi%C3%B3n\|Expulsión]], pero el modo es desconocido. Los [[Fusionado\|Fusionados]] también tienen acceso a Potencias, concedidas por [[Odium\|Odium]].
-Las Potencias exactas que alguien es capaz de modificar dependen de la hoja de Honor o vínculo Nahel específico que ese individuo tenga, o a que marca pertenezca.
-Los Radiantes normalmente aprenden su Potencia contrarreloj primero.
+### Becoming a Surgebinder
+Surgebinding is not innate to Rosharans, and can be gained in several ways. Originally the abilities were only granted to the [[Herald\|Heralds]] by the [[Almighty\|Almighty]] via the Honorblades. Later, [[Spren\|spren]] mimicked the effects of the Honorblades and started giving Surges to humans by forming a Spiritual bond called the [[Nahel bond\|Nahel bond]] with them. Humans also had the ability to manipulate the Surges on [[Ashyn\|Ashyn]] before the [[Expulsion\|Expulsion]], but the mode is unknown. The [[Fused\|Fused]] also have access to surges, granted to them by [[Odium\|Odium]].
+The exact Surges that someone can manipulate depend on the specific Honorblade or Nahel bond that individual has, or which brand they belong to.
+Radiants often learn their "anti-clockwise" Surge first.
 
-#### Hojas de Honor
-Para más información, ver [[Hoja de Honor\|Hoja de Honor]].
-Las **hojas de Honor** son diez hojas esquirladas que originalmente el Todopoderoso dió a los Heraldos. Cada una de estas hojas da a su portador la habilidad de manipular dos Potencias igual que el vínculo Nahel, con la hoja de [[Jezrien\|Jezrien]] dando acceso a la Adhesión y Gravitación, etc. Pueden ser blandidas por cualquiera, y no requieren de la defensa establecida por los spren para evitar que se abuse de su poder. Las hojas de Honor consumen mucha más luz tormentosa que el vínculo Nahel. No proporcionan tampoco las habilidades adicionales del vínculo Nahel.
+#### Honorblade
+For more information, see [[Honorblade\|Honorblade]].
+**Honorblades** are the ten Shardblades that the Almighty originally gave the Heralds. Each of these Blades gives its wielder the ability to manipulate two Surges just like the Nahel bond, with [[Jezrien\|Jezrien's]] Blade giving Adhesion and Gravitation, etc. They can be wielded by anyone, and they do not require the safeguards the spren do to avoid abusing these powers. Honorblades consume far more Stormlight than the Nahel bond. They also do not grant the additional abilities of the Nahel bond.
 
-#### Vínculo Nahel
-Para más información, ver [[V%C3%ADnculo Nahel\|Vínculo Nahel]].
-El **vínculo Nahel** es una relación simbiótica entre humanos y [[Spren\|spren]], a través de la cual los humanos obtienen poderes de Potenciación y los spren ganan sapiencia en el [[Reino F%C3%ADsico\|Reino Físico]]. Los spren escogen a las personas con las que se vincularan según las acciones y personalidades de esas personas. Hay diez clases de spren que se vinculan con humanos - cada uno dando acceso a dos de las diez Potencias, con solapamiento entre ellas - y cada una de estas clases es atraída por diferentes atributos en sus compañeros de vínculo.
-Una vez el vínculo es establecido, el spren pasa al Reino Físico, aunque conservan muy poca inteligencia y memorias, actuando casi como un spren menor hasta que el vínculo se hace más fuerte. El fortalecimiento del vínculo se consigue cuando el potenciador continúa actuando en línea con los atributos que atrajeron el spren en primer lugar, y proclamando [[Palabras Inmortales\|juramentos]] relacionados con esos atributos. A medida que el vínculo se fortalece, el spren gana su sapiencia, y la eficacia de la luz tormentosa para el potenciador incrementa. Una vez el vínculo es lo suficientemente fuerte, el spren puede manifestarse como [[Hoja esquirlada\|hoja esquirlada]], y el color de ojos del potenciador cambia al color asociado con su spren.
-Si el potenciador actúa de manera conflictiva con sus juramentos, el vínculo se debilita hasta que, eventualmente, el spren se "rompe" y es atrapado en un ciclo de agonía después de que se les arranque una parte significante de su consciencia, y sus compañeros de vínculo pierden todas las habilidades relacionadas con potenciación. Si el spren se "rompe" mientras en forma de hoja esquirlada, volverá a su forma básica de espada, y puede ser revivida temporalmente al conectarse al latido de la persona que la use. Spren no pueden "recuperarse" por sí mismos, pero pueden ser revividos si su compañero de vínculo vuelven a aceptar los juramentos. Es possible, pero extremadamente difícil, que un spren se recupere sin su compañero de vínculo. Para un spren, es muy traumático si un potenciador muere sin traicionar sus juramentos , pero no causa su ruptura.
+#### Nahel Bond
+For more information, see [[Nahel bond\|Nahel bond]].
+The **Nahel bond** is a symbiotic relationship between humans and [[Spren\|spren]], through which the human gains Surgebinding powers and the spren gains sapience in the [[Physical Realm\|Physical Realm]]. The spren choose the people they bond with according to the actions and personalities of those people. There are ten types of spren that bond with humans—each granting access to two of the ten Surges, with overlap between them—and each of these types are attracted to different attributes in their bondmates.
+Once the bond is established, the spren is pulled into the Physical Realm, although they retain very little intelligence and memories and act almost like lesser spren until the bond grows stronger. The strengthening of the bond is accomplished by the Surgebinder continuing to act in line with the attributes that attracted the spren in the first place, and swearing [[Immortal Words\|oaths]] that are related to those attributes. As the bond grows stronger, the spren regains their sapience, and the effectiveness of Stormlight for the Surgebinder increases. Once the bond is at sufficient strength, the spren can manifest as a [[Shardblade\|Shardblade]], and the eye color of the Surgebinder changes into the color their spren is associated with.
+If the Surgebinder acts in a manner conflicting with their oaths, the bond grows weaker until, eventually, the spren "breaks" and is trapped in a cycle of agony after having a significant portion of its consciousness ripped out of it, and their bondmate loses all Surgebinding abilities. If the spren "breaks" while in Shardblade form, it reverts to its basic sword form, and can be temporarily revived by being linked to the heartbeat of a person using it. Spren cannot "unbreak" on their own, but can be revived if their bondmates take up their oaths again. It is possible, but extremely difficult, for a spren to be healed without its bondmate. A Surgebinder dying without betraying oaths is a very traumatic event for a spren, but it does not cause it to be broken.
 
-#### Fusionados
-Para más información, ver [[Fusionado\|Fusionado]].
-Un poderoso grupo de [[Cantor\|cantores]] conocido como Fusionados son capaces de usar la potenciación; aunque difieren de los Caballeros Radiantes de varias maneras. Como su poder es concedido por Odium, son alimentados por [[Luz del vac%C3%ADo\|luz del vacío]] en vez de luz tormentosa. Solo tienen nueve órdenes, en lugar de diez, y cada una tiene acceso a una única Potencia. Adhesión es considerada una Potencia "de Honor" y fuera del alcanze de Odium. Los Fusionados no son cantores normales, son [[Sombra cognitiva\|almas de antiguos cantores]] reencarnadas en cuerpos de cantores vivos y dispuestos ya que el proceso desplazará su alma. Cada grupo de Fusionados, distingido por su acceso a su Potencia única, es conocido como marca.
+#### Fused
+For more information, see [[Fused\|Fused]].
+A group of powerful [[Singers\|singers]] known as the Fused are able to Surgebind; however, they differ from the Knights Radiant in several ways. As their power is granted by Odium, they are powered by [[Voidlight\|Voidlight]] instead of Stormlight. There are only nine orders of them, rather than ten, and each has access to only a single Surge; Adhesion is considered to be "of Honor" and not accessible to Odium. Fused are not ordinary singers; they are [[Cognitive shadow\|souls of ancient singers]] who reincarnate into the bodies of willing, living singers and displace that soul. Each group of Fused, distinguished by its access to a unique Surge, is known as a brand.
 
-### Luz
-La potenciación usa las [[Luces\|luces]] de Roshar como fuente de energía. La mayoría de potenciadores usan luz tormentosa como combustible, pero los Fusionados usan luz del vacío. Adicionalmente, Venli - y probablemente cualquier [[Regio\|Regio]] con un vínculo Nahel - pueden usar ambas luz tormentosa y luz del vacío; [[Navani Kholin\|Navani Kholin]] - y probablemente cualquier Forjador de Vínculos enlazado al [[Hermano\|Hermano]] - puede usar [[Luz de torre\|luz de torre]]; y, como resultado de la [[Antigua Magia\|Antigua Magia]], [[Lift\|Lift]] puede metabolizar comida directamente a [[Luz de vida\|luz de vida]], pero es incapaz de absorber luz tormentosa.
-Potenciadores acceden a las luces simplemente inspirandolas. Mientras es posible extraer luz tormentosa de cualquier fuente infundida con ella, incluyendo directamente de [[Alta tormenta\|altas tormentas]], la práctica más común es usar [[Esferas\|gemas]] que ya han sido infundidas en ellas. Es posible alimentar la potenciación con otras fuentes de [[Investidura\|Investidura]], como [[Aliento biocrom%C3%A1tico\|aliento biocromático]]. Cuerpos humanos son contenedores imperfectos para luz tormentosa, así que abandonará el cuerpo con el tiempo, dando a los potenciadores un efecto brillante con vapor blanco luminiscente saliendo por los poros de su piel. Expirar accelera la perdida, pero luz tormentosa substituye oxígeno, así que el potenciador no necesita respirar. Como más luz tormentosa el potenciador contenga, más rápido abandonará su cuerpo. Si solo aguantan una pequeña cantidad de luz, los potenciadores son capaces de inspirar y suprimir el efecto brillante. Mientras hacen esto, son capaces de hablar sin expulsar la luz tormentosa.
-Además de alimentar la potenciación, la luz tormentosa también mejora mucho las habilidades físicas del potenciador, quién gana fuerza sobrehumana, velocidad, resistencia, aguante, y capacidad de curar cuerpo y alma. Potenciadores pueden sobrevivir caídas de cientos de metros y salir caminando, el daño se cura rápidamente con luz tormentosa. Casi cualquier tipo de herida puede curarse, incluyendo mala vista, cicatrices, extremidades amputadas, o daño espiritual provocado por una hoja esquirlada.
-Esta curación se basa en la identidad cognitiva del potenciador. Por ejemplo, si un soldado ve sus cicatrices como parte de sí mismo, la luz tormentosa no las curará.
-Mientras está dentro del cuerpo, la luz tormentosa produce un intenso efecto similar a la adrenalina, impulsando al potenciador a actuar y moverse, lo que puede resultar en imprudencias si el potenciador no es cuidadoso. Da mucha energía, pero cuando al potenciador se le termina la luz, queda exhausto y se siente desinflado, parecido a un [[Brazo de peltre\|brazo de peltre]] después de un arrastre de peltre. Por otro lado, luz del vacío causa una sensación de pasión aumentada y sienten emociones de forma más vibrante.
+### Light
+Surgebinding uses the [[Lights\|Lights]] of Roshar as its fuel source. Most Surgebinders use Stormlight as their fuel, though the Fused used Voidlight. Additionally, Venli—and likely any [[Regal\|Regal]] with a Nahel bond—can use both Stormlight and Voidlight; [[Navani Kholin\|Navani Kholin]]—and likely any Bondsmith bonded to the [[Sibling\|Sibling]]—can use [[Towerlight\|Towerlight]]; and, as a result of the [[Old Magic\|Old Magic]], [[Lift\|Lift]] metabolizes food directly into [[Lifelight\|Lifelight]], but is incapable of drawing in Stormlight.
+Surgebinders access the Lights simply by breathing them in. While it is possible to draw the Stormlight from any source infused with it, including directly from the [[Highstorm\|highstorms]] themselves, the common practice is to use [[Spheres\|gemstones]] that have already been infused by the highstorms. It is possible to fuel Surgebinding with other sources of [[Investiture\|Investiture]], like [[BioChromatic Breath\|BioChromatic Breath]]. Human bodies are imperfect containers for Stormlight, so it leaves the Surgebinder's body over time, giving the Surgebinder a glowing effect with luminescent white vapor rising from the skin. Breathing out accelerates the leaking, but Stormlight substitutes for oxygen, so the Surgebinder does not need to breathe. The more Stormlight the Surgebinder holds, the faster it leaks out of the body. If holding a small amount of Stormlight, Surgebinders are able to breathe in and suppress the glowing effect. While doing this, they are able to talk without puffing out Stormlight.
+In addition to fueling Surgebinding, Stormlight also greatly increases the physical capabilities of the Surgebinder, who gains superhuman strength, speed, endurance, stamina, and healing of both body and soul. Surgebinders can survive falling hundreds of feet and walk away, the damage being quickly healed by Stormlight. Almost any kind of injury can be healed, including bad eyesight, scar tissues, severed limbs, or Spiritual damage done by a Shardblade. This healing is based upon the Cognitive identity of the Surgebinder. For example, if a soldier sees the scars on his body as a part of his self, Stormlight would not heal the scars.
+While inside the body, the Stormlight produces an intense adrenaline-like effect, urging the Surgebinder to action and motion, which may result in recklessness if the Surgebinder is not careful. It gives great energy, but when the Surgebinder runs out of Stormlight, they are left exhausted and feeling deflated, similar to after a pewter drag by a [[Pewterarm\|Pewterarm]]. Voidlight, on the other hand, causes a feeling of enhanced passion and emotions feel more vibrant.
 
-## Potencias
+## Surges
 
 |||||||||||
 |-|-|
-|**Adhesión**|**Gravitación**|**División**|**Abrasión**|**Progresión**|**Iluminación**|**Transformación**|**Transportación**|**Cohesión**|**Tensión**|
+|**Adhesion**|**Gravitation**|**Division**|**Abrasion**|**Progression**|**Illumination**|**Transformation**|**Transportation**|**Cohesion**|**Tension**|
 
 
-Las Potencias, así como sus nombres, preceden de lejos a los Caballeros Radiantes. Las Potencias existían en Ashyn antes de la llegada de humanos a Roshar, aunque no estaban restringidas por Honor. Allí, los humanos podían usar la potenciación libremente ya que el [[V%C3%ADnculo Nahel\|vínculo Nahel]] aún no había sido descubierto. [[Ishar\|Ishar]] fue la primera persona que Odium engañó para que experimentara con las Potencias. Después de que Ashyn fuera destruida debido al uso sin restricción de la potenciación y los humanos escaparan a Roshar, Honor empezó a poner límites a las Potencias, pero con Honor
-Astillado, al menos algunas de estas restricciones han empezado a aflojarse.
+The Surges, as well as their names, far predate the Knights Radiant. Surges existed on Ashyn prior to humans' arrival on Roshar, albeit without being restricted by Honor. Back then the [[Nahel bond\|Nahel bond]] had not yet been discovered and humans could Surgebind freely. [[Ishar\|Ishar]] was the first person that Odium tricked into experimenting with Surges. After Ashyn was destroyed by unrestricted Surgebinding and humans fled to Roshar, Honor started to put limits on the Surges, but with Honor Splintered, at least some of these restrictions are starting to loosen.
 
-### Adhesión
+### Adhesion
 
-La Potencia de Adhesión puede ser manipulada para juntar cosas. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Forjadores de Vínculos y los Corredores del Viento. Los honorspren y los vientospren pueden usarla, muy débilmente. Este poder es solo de Honor; es referida como "la más verdadera Potencia de Honor" y es difícil de reprimir, el [[Hermano\|Hermano]] la llama "la Potencia de vínculos y juramentos". Por el otro lado, esta Potencia es considerada inferior por los cantores. [[Rabeniel\|Rabeniel]] se refiere a la Adhesión como "una Potencia falsa" y ningún Fusionado tiene acceso a ella.
-
-
-**Enlace completo**: Esta habilidad crea temporalmente un vínculo muy fuerte entre dos objetos. Para usarla, el potenciador infunde una superfície con luz tormentosa, y cualquier objeto o persona que entre en contacto con la superfície infundida se quedará pegado a ella. Enlaces completos no requieren de contacto físico necesariamente; las superfícies pueden infundirse "rociandolas" con luz tormentosa. Para la mayoría de objetos sería más fácil romper el própio objeto que romper el enlace. La duración del enlace es determinada por la cantidad de luz tormentosa infundida. El enlace termina cuando la luz se agota. Los Radiantes no pueden usar enlaces completos para pegarse ellos mismos a otra cosa. Alguien que lleve una [[Armadura esquirlada\|armadura esquirlada]] es inmune a los enlaces, pero cualquier objeto que toquen puede ser afectado. Los spren (y probablemente otros seres altamente Investidos) también son inmunes a enlaces completos. El vínculo atrae [[Unespren\|unespren]].
-**Adhesión espiritual**: Usando la Potencia de Adhesión para manipular fuerzas espirituales, en vez de solo físicas, un [[Orden de los Forjadores de V%C3%ADnculos\|Forjador de Vínculos]] puede tocar otra persona y forjar una [[Conexi%C3%B3n\|Conexión]] espiritual entre ellos. Esto permite al Forjador hablar el idioma nativo de la otra persona temporalmente. No se sabe si el Forjador debe permanecer físicamente cerca de la otra persona para que la habilidad se mantenga activa. Dura más de unas pocas horas, pero menos que unos pocos días.
-*Otras habilidades de Conexión*: La Potencia puede ser usada para otros tipos de Conexión también, algunos de los usos conocidos son connectar a un Radiante al suelo causando que su luz tormentosa se vacíe al suelo como si fuera el cuerpo del Radiante, ver el pasado y las Conexiones de una persona, y incluso (con la hoja de honor de Forjador de Vínculos) robar un vínculo Nahel. No está claro si estas habilidades se extienden a todos las Forjadores en general o están intrínsicamente relacionadas con el Heraldo Ishar.
-### Gravitación
-
-La Potencia de Gravitación puede ser manipulada para cambiar la dirección y fuerza de la atracción gravitatória de un objeto. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Corredores del Viento y los Rompedores del Cielo. La marca de Fusionados con acceso a esta Potencia son los *[[Shanay-im\|shanay-im]]*, o Celestiales.
+The Surge of Adhesion can be manipulated to bind things together. The two orders of Knights Radiant with access to this Surge are the Bondsmiths and the Windrunners. Honorspren and windspren can use it, very weakly. This power is of Honor alone; it is referred to as "Honor's Truest Surge" and is difficult to suppress, with the [[Sibling\|Sibling]] calling it "the Surge of Binding and Oaths". On the other hand, this Surge is viewed as lowly among the singers. [[Raboniel\|Raboniel]] referred to Adhesion as "not a true Surge" and no Fused has access to this Surge.
 
 
-**Enlace básico**: Esta habilidad altera el vínculo gravitatorio espiritual de un objeto o persona al planeta, vinculándolo temporalmente a una dirección distinta. Permite a los potenciadores correr por paredes, o enviar objetos o personas volando al aire. Los enlaces solo afectan la atracción gravitatoria y no la masa. Diferentes cosas con diferentes masas seguirán cayendo a la misma velocidad, ya que la masa no afecta a la velocidad a la que las cosas caen. Enlaces solo pueden hacerse en una dirección concreta, no pueden ser a un objeto con el fin de seguirlo. Enlaces también pueden afectar líquidos y gases, pero esto es muy dificil. Los potenciadores pueden rotar en el aire usando el rozamiento con el viento, y también pueden disminuir la fuerza del viento mientras vuelan. Hacer giros bruscos mientras se enlazan puede provocar que el potenciador se desmaye. Cuando se enlazan multiples objetos o seres al mismo tiempo, es posible crear un canal alreadedor del grupo, el cual los mantendrá cerca los unos de los otros. Enlaces básicos requieren de contacto físico si el potenciador esta intentando infundir un objeto o ser externo a ellos mismos. Enlaces básicos consumen [[Luz tormentosa\|luz tormentosa]] constantemente con lo cual el objeto será infundido hasta que la luz se termine o el potenciador descarte el enlace; como tal, la duración de un enlace básico depende de la cantidad de luz tormentosa usada. Sin embargo, puede agotarse más rápido si el objetivo utiliza [[Feruquimia\|feruquimia]] para aumentar su peso. Usuarios avanzados de enlaces básicos pueden usar enlaces parciales - una mitad de un enlace hacia arriba, por ejemplo, haría al potenciador prácticamente ingrávido, mientras que un cuarto de un enlace reduciría el peso de la persona a la mitad. También es posible utilizar múltiples enlaces básicos simultáneamente para que el objeto o ser infundido sea atraído hacia varias direcciones a la vez o hacia una sola dirección con más fuerza que la gravedad habitual. Es posible enlazar solo parte de un objeto, aunque se necesita talento para conseguirlo.
+**Full Lashing**: This ability creates an extremely powerful temporary bond between two objects. To use this ability, the Surgebinder infuses a surface with Stormlight, after which any object or person that comes in contact with the surface will be bound to it. Full Lashing does not necessarily require skin contact; surfaces can be infused by "spraying" the Stormlight onto them. Most objects would break apart themselves before the bond holding them would. The duration of this bond is determined by the amount of Stormlight infused. The bond ends when the Stormlight runs out. Radiants cannot use a full lashing to stick their bodies to something else. Someone wearing [[Shardplate\|Shardplate]] is immune to Lashings, but any objects that they are touching can be affected. Spren (and likely other highly Invested beings) are also immune to full Lashings. The bond also attracts [[Bindspren\|bindspren]].
+**Spiritual Adhesion**: Using the Surge of Adhesion to manipulate spiritual, rather than purely physical forces, a [[Bondsmith\|Bondsmith]] can touch another person and forge a spiritual [[Connection\|Connection]] between them. This allows the Bondsmith to temporarily speak the other person's native tongue. Whether the Bondsmith must remain physically close to this other person for the ability to be continually used is unknown. It lasts for longer than a few hours, but shorter than a few days.
+*Other Connection Abilities*: The Surge can be used for other types of Connection as well, with known uses being Connecting a Radiant to the ground and causing their Stormlight to drain into it as if it were their body, seeing the past and the Connections of a given person, and even (with the Bondsmith Honorblade) stealing a Nahel bond. It is unclear if these abilities extend to Bondsmiths in general or are inherently related to the Herald Ishar.
+### Gravitation
+
+The Surge of Gravitation can be manipulated to change the direction and strength of an object's gravitational attraction. The two orders of Knights Radiant with access to this Surge are the Windrunners and the Skybreakers. The Fused brand with access to this Surge are the *[[Shanay-im\|shanay-im]]*, or Heavenly Ones.
 
 
-**Enlace inverso**: Combinando las Potencias de Gravitación y Adhesión, un Corredor del Viento puede crear una burbuja alrededor de una superficie que imita su vínculo espiritual con la tierra de abajo. En la práctica, esto hace que el objeto infundido atraiga otros objetos hacia sí. Es mucho más difícil para un enlace invertido atraer objetos que estan ya en el suelo, donde su vínculo con el planeta es más fuerte; objetos cayendo o en vuelo son más fáciles de infuenciar. Otros objetos pueden ser afectados, pero la luz tormentosa y talento requeridos son mucho mayores. Se cree que esta habilidad es una versión especializada de un enlace básico. Enlaces inversos requieren de una orden y contacto físico constante para funcionar, aunque consume muy poca luz tormentosa. Un enlace inverso puede ser suficientemente poderoso para desviar balas, o arrancar la cabeza de un [[Fusionado\|Fusionado]] de su cuerpo. Objetos infundidos con un enlace inverso no brillan con luz tormentosa, en vez de eso se vuelven más oscuros junto con otras cosas a su alreadedor, posiblemente atrayendo la luz hacia el objeto.
-### División
-
-La Potencia de la División puede ser manipulada para obtener poder sobre la destrucción y el deterioro. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Portadores del Polvo y los Rompedores del Cielo.
+**Basic Lashing**: This ability alters an object's or being's spiritual gravitational bond to the planet below, instead temporarily linking it to a different direction. It allows the Surgebinder to run up walls, or send objects or people flying off into the air. Lashings only affect gravitational pull and not mass. Different things with different masses will still fall at the same speed as mass does not affect rate at which things fall. Lashings can only send something in a particular direction and can not be locked into following an object. Lashing can also affect liquids and gases, but this is difficult. Surgebinders can rotate themselves in the air using wind resistance, and can also lessen the force of the wind while flying. Taking sharp turns while Lashing can cause the Surgebinder to black out. When Lashing multiple objects or beings at a time, it is possible to create a sort of channel around the group, which will keep them close together. Basic Lashing requires skin contact if the Surgebinder is trying to infuse an external object or being. Basic Lashing continually consumes the [[Stormlight\|Stormlight]] with which the object is infused until the object runs out of Stormlight or the Surgebinder dismisses their Lashing; as such, the length of a Basic Lashing is dependent on the amount of Stormlight used. However, it can run out faster if the target uses [[Feruchemy\|Feruchemy]] to increase their weight. Advanced users of Basic Lashing can employ partial Lashings — a half-Lashing upward, for example, would make the Surgebinder effectively weightless, while a quarter-Lashing would halve the person's weight. It is also possible to use multiple Basic Lashings simultaneously so that the infused object or being will be pulled toward different directions at once or pulled toward a single direction but stronger than gravity normally would. It is possible to only Lash part of an object, though this requires skill.
 
 
-**Deterioro**: Usando la Potencia de la División, los potenciadores pueden tocar un objeto y provocar que arda, se vuelva polvo, o decaiga de otras formas. Los potenciadores pueden controlar bastante bien esta acción, por ejemplo quemando un patrón en una pieza de madera. También puede ser usado en humanos. Usar la Potencia en un objeto, causa la divisón de sus enlaces moleculares, pero no de los ejes mismos. Probablemente pueda utilizarse para prender fuego a objetos. Deterioro podría usarse para crear diferentes tipos de esculturas, así como añadir color al quemar los objetos o al menos pintarlos en la escala de grises.
+**Reverse Lashing**: By combining the Surges of Gravitation and Adhesion, a Windrunner can create a bubble around a surface that imitates its spiritual link to the ground beneath it. In effect, this makes the infused object pull other objects towards itself. It is much harder for Reverse Lashing to affect objects touching the ground, where their link to the planet is the strongest; objects falling or in flight are the easiest to influence. Other objects can be affected, but the Stormlight and skill required are much more substantial. This ability is believed to be a specialized version of Basic Lashing. Reverse Lashing requires a command and constant skin contact for it to work, though it consumes comparatively little Stormlight. A Reverse Lashing can be powerful enough to bend the path of bullets, or tear the head of a [[Fused\|Fused]] from its body. Objects infused with a Reverse Lashing do not glow with Stormlight, becoming darker instead along with other things in their vicinity, possibly by pulling light into the object.
+### Division
+
+The Surge of Division can be manipulated to have power over destruction and decay. The two orders of Knights Radiant with access to this Surge are the Dustbringers and the Skybreakers.
 
 
-### Abrasión
-
-La Potencia de Abrasión puede ser manipulada para cambiar la fuerza de fricción entre dos superficies. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Portadores del Polvo y los Danzantes del Filo. La marca de Fusionados capaz de usarla son los *[[/wiki/Fusionado#Shetel-im]]*, o Fluyentes.
+**Decay**: Using the Surge of Division, the Surgebinder can touch an object and cause it to burn, turn to dust, or decay in other ways. The Surgebinder can exercise significant control, such as to burn a pattern into a piece of wood. It can also be used on humans. This splits the molecular bonds of the object the Surge is used on, but not the axi themselves. It is likely to have the ability to ignite objects. Decay can be used to create types of sculptures, such as adding color when burning objects or grayscaling them.
 
 
-**Resbaladizo**: Esta habilidad permite al potenciador hacer que su cuerpo no tenga fricción. El potenciador puede escoger que partes del cuerpo son afectadas y cuales no; por ejemplo, la planta de los pies puede ser infundida para que el potenciador se deslize sobre cualquier superficie sin perder impulso hasta que la habilidad se descarta. Fricción con el aire también puede ser afectada. Sin embargo, no disminuye la fuerza de colisiones directas. La gente con experiencia suelen moverse como si patinaran sobre hielo pero en la tierra. También puede usarse para escapar de cualquier agarre, o para escurrirse a través de aperturas estrechas. También puede aplicarse a objetos, haciendo que solo el potenciador pueda agarrarlos sin que se escurran. Armaduras esquirladas muertas interferirían con esta habilidad.
-### Progresión
+### Abrasion
 
-La Potencia de Progresión puede ser manipulada para alterar el crecimiento y curación de organismos. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Danzantes del Filo y los Vigilantes de la Verdad. La marca de Fusionados con acceso son los [[/wiki/Fusionado#Aumentados]].
-
-
-**Crecimiento**: Esta habilidad acerela el crecimiento orgánico a enormes velocidades. El potenciador puede infundir la semilla de una planta con luz tormentosa a través de contacto físico, y en segundos, se convertirá en una planta totalmente desarollada. Se desconoce si esta habilidad funciona solo en plantas. Los Fusionados con acceso a esta Potencia pueden usarla para crecer sus caparazones en herramientas y armas.
+The Surge of Abrasion can be manipulated to alter the frictional force between two surfaces. The two orders of Knights Radiant with access to this Surge are the Dustbringers and the Edgedancers. The brand of Fused with access are the *[[/wiki/Fused#Shetel-im]]*, or Flowing Ones.
 
 
-**Regeneración**: Esta habilidad cura daño en el cuerpo y alma de una persona instantáneamente y sin dejar cicatriz. Carne, músculo, o huesos pueden ser regenerados del todo rápidamente. El cuerpo puede refrescarse y librarse de cansancio. Los potenciadores incluso pueden revertir la muerte con esta habilidad; un cuerpo que se ha desangrado o un alma que ha sido cortada con una hoja esquirlada pueden ser curados con regeneración y continuarán funcionando como si nunca hubieran sido heridos. Sin embargo, una vez el alma abandona el cuerpo y llega al más allá, es imposible que el potenciador reviva la persona. Esta habilidad también puede fracasar en curar heridas demasiado viejas. Regeneración es inferior a la curación normal de los Radiantes. Los potenciadores pueden añadir Crecimiento a su curación Radiante para curarse mucho más rápido de lo normal.
-Fabrial potenciador: Hay [[Fabrial\|fabriales]] potenciadores capaces de imitar la habilidad regeneración de los Radiantes. Los antiguos Radiantes poseían fabriales construidos con un enorme topacio y heliodoro que eran capaces de "regenerar" y curar heridas manipulando la Potencia de Progresión. Actualmente, estos fabriales se han perdido; sin embargo, el [[Heraldo\|Heraldo]] [[Nale\|Nale]] posee uno capaz de traer a alguien de vuelta del borde de la muerte.
-### Iluminación
-Para más información sobre la variante original de esta habilidad en Yolen, ver [[Tejer luz (Yolen)\|Tejer luz (Yolen)]].
+**Slicking**: This ability allows the Surgebinder to make their body frictionless. The Surgebinder can choose which parts of the body are affected and which parts are not; for example, the bottom of the feet can be infused so that the Surgebinder glides over any surface without losing momentum until the ability is suspended. Wind friction can also be affected. However, slicking doesn't reduce the force of direct collisions. People experienced in its use often move as though they were ice-skating on the ground. Slicking can also be used to escape any grasp, or slip through tight openings. It can also be applied to objects, making it so that only the Surgebinder can grip the object without it slipping. Dead Shardplate would interfere with this.
+### Progression
 
-La Potencia de Iluminación puede ser manipulada para crear ilusiones auditivas y visuales. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Tejedores de Luz y los Vigilantes de la Verdad. La marca de Fusionados con acceso son los [[/wiki/Fusionado#Mavset-im]]*, o Aquellos de las Máscaras.*
+The Surge of Progression can be manipulated to alter the growth and healing of organisms. The two orders of Knights Radiant with access to this Surge are the Edgedancers and the Truthwatchers. The brand of Fused with access are the [[/wiki/Fused#Magnified Ones]].
 
 
-**Tejer Luz**: Esta habilidad consiste en crear ilusiones visuales y auditivas. Las ilusiones estan basadas no solo en lo que el potenciador imagina, pero también lo que desea crear, requiriendo una imagen mental pero también una conexión espiritual con lo que se pretende crear. Una vez la creación tiene forma, el potenciador exhala una nube de [[Luz tormentosa\|luz tormentosa]] para formar la ilusión. Estas pueden ser creadas en cualquier sitio, pero requieren una fuente constante de luz tormentosa, así que el potenciador - o un ser conectado espiritualmente con ellos - necesita mantenerse cerca. Debido a que la ilusión se alimenta automáticamente del potenciador, el efecto brillante habitual debido a la pérdida de luz tormentosa por los poros de la piel no tiene lugar en esta ocasión, ya que el exceso de luz es transferido a la ilusión en su lugar. A no ser que la aparición sea intencionalmente descartada por el potenciador, esta seguirá activa hasta que se le termine la luz tormentosa o se aleje demasiado. Puede mantenerse activa incluso si el potenciador se queda inconsciente. Ligar un tejido de luz a un ser con el que está vinculado hará que su luz tormentosa se drene más deprisa. Es posible para el potenciador fijar la ilusión en sí mismo, así como a un ser al que estén espiritualmente vinculados como el [[Spren\|spren]] con el que forman el [[V%C3%ADnculo Nahel\|vínculo Nahel]], de manera que la ilusión seguirá sus movimientos automáticamente. De esta forma, una ilusión de un disfraz puede imitar expresiones faciales o adaptarse a la ropa o accesorios que vistan. Usuarios experimentados de este arte también pueden fijar la ilusión a un objeto infundido con luz tormentosa, como una [[Esfera\|esfera]]. La imagen ilusoria no tiene substancia, y si un objeto físico pasa a través de ella, la imagen se distorsiona con luz tormentosa hasta que el objeto se retire. Luz en sí no pasa a través de las ilusiones; si el potenciador quiere ver a través de ellas, debe poner agujeros para ello. La cantidad de luz tormentosa requerida depende de la complejidad de la ilusión. Tejer Luz puede manipular todo tipo de radiación electromagnética, incluyendo láseres. La manera de Tejer Luz se vería afectada por afantasía.
-Interacciones con el Tejido de Luz de Yolen: El Tejido de Luz roshariano es mucho más restrictivo que en su más temprana [[Tejer luz (Yolen)\|variante de Yolen]], ya que requiere un spren y luz tormentosa para funcionar. El Tejido de Luz de Yolen, sin embargo, parece funcionar incorrectamente en la actualidad, y sus usuarios podrían requerir ayuda de los Tejedores rosharianos para crear una ilusión completa. Un Tejedor de Yolen es capaz de guiar el poder de un Tejedor roshariano. Obtener el Tejido de Luz roshariano permite algunas habilidades extra para el Tejido de Yolen, y permite a los Tejedores de Yolen superar sus dificultades, aunque el posible impacto o [[Resonancia\|resonancia]] entre los dos es desconocido.
+**Growth**: This ability accelerates organic growth to tremendous speeds. The Surgebinder can infuse the seeds of a plant with Stormlight through skin contact, and in seconds, it will become fully developed. It is unknown if this ability only works on plants. The Fused with access to this Surge can use it to grow their carapace into tools and weapons.
 
 
-### Transformación
-Para más información, ver [[Moldear almas\|Moldear almas]].
+**Regrowth**: This ability heals the damage done to the body and the soul of a person instantly and without any scarring. The flesh, muscle, or bones can be completely regrown rapidly. The body can be refreshed and rid of fatigue. The Surgebinder can even reverse death with Regrowth; a body that has bled out or a soul that has been severed with a Shardblade can be healed with Regrowth and continue to function as if it has never been damaged. However, once the soul leaves the body and reaches the afterlife, it is impossible for the Surgebinder to revive the person. This ability may also fail to heal injuries that are too old. Regrowth is inferior to normal Radiant healing. Surgebinders can stack Regrowth with their Radiant healing to heal much faster than normal.
+Surge Fabrial: A Surge [[Fabrial\|Fabrial]] is able to mimic the Radiant ability of Regrowth. Ancient Radiants possessed fabrials constructed from a large topaz and heliodor that were able to "regrow" and repair injuries through manipulating the Surge of Progression. In the present day, they have been lost; however, the [[Herald\|Herald]] [[Nale\|Nale]] possesses one capable of bringing someone back from the brink of death.
+### Illumination
+For more information about the original Yolish variant of this ability, see [[Yolish Lightweaving\|Yolish Lightweaving]].
 
-La Potencia de Transformación puede ser manipulada para cambiar un objeto en una de las diez esencias. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Nominadores de lo Otro y los Tejedores de Luz. La marca de Fusionados con acceso son los *[[/wiki/Fusionado#Fannahn-im]]*, o Aquellos de la alteración. Usando esta Potencia, los potenciadores son capaces de entrar en el Reino Cognitivo, pero son incapaces de llevar a otros con ellos, o volver por su cuenta. La Potencia de Transformación potencialmente puede permitir a alguien [[Deshecho\|deshacer]] un spren, aunque otras habilidades podrían ser necesarias para conseguirlo. 
-
-
-**Moldear almas**: Esta habilidad transforma cualquier material en otro que el potenciador escoja. Para [[Moldear almas\|moldear almas]], el potenciador cambia su percepción para ver en el [[Reino Cognitivo\|Reino Cognitivo]], y se comunica con el aspecto cognitivo del objeto que quieran transformar. Esto se hace normalmente a través de contacto directo con el objeto, sin embargo, puede ser realizado a distancia. Los Nominadores de lo Otro son más hábiles en esto, aunque no es imposible que un Tejedor también consiga moldear a distancia. No todos los objetos tienen tendencia a cambiar, depende de como el objeto es visto por especies concientes y de como se ve a sí mismo, así que es posible que el potenciador deba negociar con él. Una vez se convence al objeto de cambiar, el potenciador lo infunde con [[Luz tormentosa\|luz tormentosa]], y la transformación ocurre instantáneamente. Técnicamente es posible para el potenciador transformar cualquier cosa en cualquier otra cosa, pero transformar algo en la forma pura de una Esencia es lo más sencillo de conseguir, mientras que transformar el objeto en algo en lo que no se está familiarizado es mucho más difícil. Es posible transferir un moldeado de un objeto a otro, como una enfermedad, sin que el potenciador los moldee a todos directamente. Se desconoce si objetos pueden transferir el moldeado en un material distinto al que se convirtieron o si solo pueden transferir al mismo tipo de objeto. El objetivo de un moldeado puede ser un objeto inanimado o una persona, aunque una persona supondrá una dificultad mayor, debido a la [[Investidura\|Investidura]] innata que poseen. Es mucho más sencillo moldear almas en el Reino Cognitivo.
-Fabrial potenciador: Un tipo de fabrial potenciador es el [[Fabrial\|fabrial]] moldeador de almas, que es capaz de imitar la habilidad Radiante de moldear almas. La mayoría solo son capaces de cambios pequeños y sencillos, como volver piedra en agua, mientras que uno de cada diez puede afectar cualquier cambio. Cuando moldea, el fabrial extrae luz tormentosa de la gema correspondiente.
-Savantismo: El uso prolongado del moldeado de almas, ya sea a través de la potenciación o de un fabrial, puede llevar al usuario a convertirse en un [[Sabio\|sabio]], transformandose lentamente en la esencia en la que suelen transformar objetos. Los efectos del savantismo son mucho menos pronunciados para un potenciador comparado con los usuarios de fabriales, y pueden manifestarse de manera distinta, debido al [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Este proceso es diferente a simplemente transformar una parte de uno mismo accidentalmente.
-### Transportación
-
-La Potencia de la Transportación puede ser manipulada para conseguir una transición realmática. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Nomindaores de lo Otro y los Escultores de Voluntad. Usando esta habilidad, los potenciadores son capaces de mirar brevemente en el [[Reino Cognitivo\|Reino Cognitivo]], lo que les permite ver esencias ocultas de otros (por ejemplo si un cantor es un cantor normal, un Regio o un Fusionado). La marca de Fusionados con acceso son los *[[/wiki/Fusionado#Nex-im]]*, o Aquellos de los Cascarones.
+The Surge of Illumination can be manipulated to create auditory and visual illusions. The two orders of Knights Radiant with access to this Surge are the Lightweavers and the Truthwatchers. The brand of Fused with access are the *[[/wiki/Fused#Mavset-im]]*, or Masked Ones.
 
 
-**Nominación**: Esta habilidad permite al potenciador viajar entre los [[Reino Cognitivo\|Reinos Cognitivo]] y [[Reino F%C3%ADsico\|Físico]] creando una [[Perpendicularidad\|perpendicularidad]] en miniatura. Se puede ver brevemente una pared circular de [[Luz tormentosa\|luz tormentosa]] en el lugar de destino antes de que el potenciador llegue. El potenciador también puede traer otros seres y objetos con él mientras se transportan a ellos mismos. Esto da a muchos potenciadores con Transportación la habilidad de [[Saltar mundos\|saltar mundos]]. Sin embargo, es mucho más difícil dejar el Reino Cognitivo que entrar en él, y aunque es posible moverse entre reinos sin una referencia, los que son menos habilidosos necesitan encontrar un punto donde los dos Reinos se toquen para poder salir.
-Fabrial potenciador: Las [[Puerta Jurada\|Puertas Juradas]] son capaces de imitar la habilidad Radiante de la Transportación. Permiten al usuario transportar cualquier cosa encima de sus plataformas y en las cámaras de control entre Puertas Juradas en un instante. Sin embargo, por lo que se sabe, funcionan por parejas - una Puerta Jurada en [[Urithiru\|Urithiru]] solo conecta con otra Puerta de fuera, y la Puerta de fuera solo conecta con la de Urithiru. Solo pueden ser activadas por [[Hoja de Honor\|hojas de Honor]] o [[Hoja esquirlada\|hojas esquirladas]] vivas. Transportar más de una persona entre ellas requiere el uso de más luz tormentosa.
-***Nex-im***: Los Fusionados con esta habilidad, como [[Lezian\|Lezian]], la usan de manera muy distinta, evacuando sus cuerpos en una luz roja parecida a un spren antes de volver a formarse en otra parte.
-### Cohesión
-
-También llamada Potencia de Interconexión Axial Fuerte, la Potencia de la Cohesión puede ser manipulada para alterar objetos a nivel molecular. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Escultores de Voluntad y los Custodios de Piedra. La marca de Fusionados con acceso son los *[[/wiki/Fusionado#Makay-im]]*, o Aquellos de la Profundidades. Esto permite al usuario alterar la forma de objetos sólidos, pero no carne humana, con los potenciadores siendo capaces de coger materia y estirarla, alterando el objeto como si fuera arcilla blanda. [[Investidura\|Investidura]] impide que un objeto sea alterado con Cohesión, incluso una pequeña cantidad de [[Luz tormentosa\|luz tormentosa]] en un objeto impediría que este fuera alterado.
+**Lightweaving**: This ability creates visual and auditory illusions. The illusion is based upon not just what the Surgebinder imagines, but also desires to create, requiring both a mental picturing of and a Spiritual connection to the intended creation. Once the creation is shaped, the Surgebinder breathes out a cloud of [[Stormlight\|Stormlight]] to form the illusion. The illusion can be created anywhere, but requires a constant source of Stormlight, so the Surgebinder — or a being the Surgebinder is Spiritually linked to — needs to keep in proximity to it. Because the illusion automatically feeds off the Surgebinder, the glowing effect common to the Surgebinders as the Stormlight leaks out of their bodies does not happen, as excess Stormlight is instead fed to the illusion. Unless the Surgebinder intentionally dissolves the apparition, it will stay active until they run out of Stormlight or leave its proximity. It will even stay active while the Surgebinder is unconscious. Attaching a Lightweaving to a being they are bonded with will cause their Stormlight to drain faster. It's possible for the Surgebinder to attach the illusion to themselves, as well as a being they are Spiritually linked to such as the [[Spren\|spren]] that forms the [[Nahel bond\|Nahel bond]], so that the illusion automatically follows their movements. This way, an illusion of a disguise can mimic facial expressions or adapt to the clothing or the accessories they are wearing. Experienced practitioners of this art can also attach the illusion to an object that is infused with Stormlight, such as a [[Sphere\|sphere]]. The illusory image has no substance to it, and if an object physically passes through the illusion, the image fuzzes to Stormlight until the object withdraws. Light itself does not pass through the illusion; if the Surgebinder wants to see through it, they must put in viewing holes. The amount of Stormlight the illusion requires depends on the complexity of it. Lightweaving can manipulate all forms of electromagnetic radiation, including lasers. Lightweaving would be affected by aphantasia.
+Interactions with Yolish Lightweaving: Rosharan Lightweaving is much more restrictive than the earlier [[Yolish Lightweaving\|Yolish variant]], as it requires a spren and Stormlight to function. Yolish Lightweaving, however, seems to function imperfectly in the current day, and its users may need help from Rosharan Lightweavers to fully craft an illusion. A Yolish Lightweaver is able to guide a Rosharan Lightweaver's power. Gaining Rosharan Lightweaving allows for some supplemental ability with Yolish Lightweaving, and could allow Yolish Lightweavers to overcome their difficulties, although further impacts or [[Resonance\|resonances]] between the two are unknown.
 
 
+### Transformation
+For more information, see [[Soulcasting\|Soulcasting]].
 
-**Escultura de piedra**: Esta habilidad manipula las fuerzas que enlazan [[Eje\|ejes]]. Es considerado primo de [[Microquinesis\|microquinesis]], una Arte Investida de [[Yolen\|Yolen]] que también manipula ejes, aunque Honor puso límites estrictos en escultura de piedra para evitar que llegara al nivel de destrucción posible con microquinesis. Mientras se usa, un potenciador puede dar forma a piedra (o otros materiales) como si fuera arcilla sin la ayuda de calor. La piedra también es capaz de percibir la internción del potenciador y su pasado, y incluso mostrar o explicar eventos del pasado gracias a escultura de piedra. Aunque piedra tiende a ser de lo más difícil de cambiar mediante el moldeado de almas, obedecerá fácilmente a través de la Cohesión.
-***Makay-im***: Los Fusionados con esta habilidad, mientras que no han sido mostrados dando forma a piedra, la usan para fundirse con la piedra y moverse a través de ella. Pueden moverse a través de otros materiales también, mientras sean sólidos.
-### Tensión
-
-También llamada la Potencia de la Interconexión Axial Suave, la Potencia de la Tensión puede ser manipulada para alterar la firmeza de un objeto; por ejemplo, tomando algo flexible y volviendolo rígido. Las dos órdenes de Caballeros Radiantes con acceso a esta Potencia son los Custodios de Piedra y los Forjadores de Vínculos. Muy parecido a la Cohesión, [[Investidura\|Investidura]] impide que un objeto sea manipulado con Tensión.
-Para Forjadores de Vínculos, el uso de esta Potencia es distinto que para los [[Orden de los Custodios de Piedra\|Custodios de Piedra]], ya que pueden unirla con su afinidad para la Conexión y así reparar objetos inanimados como complemento de la Potencia de [[Adhesi%C3%B3n\|Adhesión]].
+The Surge of Transformation can be manipulated to change an object into one of the ten essences. The two orders of Knights Radiant with access to this Surge are the Elsecallers and the Lightweavers. The brand of Fused with access are the *[[/wiki/Fused#Fannahn-im]]*, or Altered Ones. Using this Surge, Surgebinders are able to enter the Cogntive Realm, but are unable to bring others with them, or return on their own. The Surge of Transformation may potentially allow someone to [[Unmade\|unmake]] a spren, although other abilities may be involved in this.
 
 
-## Potenciadores notables
-Para la lista completa, ver :Categoría:Potenciadores.
+**Soulcasting**: This ability transforms any material into one of the Surgebinder's choice. To [[Soulcast\|Soulcast]], the Surgebinder shifts their perception to see into the [[Cognitive Realm\|Cognitive Realm]], and communicates with the Cognitive aspect of the object they want to transform. This is normally done through direct contact with an object, however, it can be performed from a distance. Elsecallers are more skilled at doing this, though it is not impossible for a Lightweaver to be able to Soulcast from afar. Not every object is inclined to change, depending on how the object is seen by the sentient species and how it sees itself, so the Surgebinder may need to negotiate with it. Once the object is convinced into changing, the Surgebinder infuses it with [[Stormlight\|Stormlight]], and the transformation process takes place instantaneously. It is technically possible for the Surgebinder to transform anything into anything else, but transforming something into the pure form of an Essence is the easiest to accomplish, while transforming the object into something unfamiliar is a lot harder. It is possible to transfer a Soulcasting from one material to another, like a disease, without the Soulcaster directly Soulcasting them. It is unknown if objects can transfer a Soulcasting into a different material than what they turned into or if they can only transfer a Soulcasting to the same type of object they are. The target of Soulcasting can be both an inanimate item and a person, although a person will present greater difficulty, due to the innate [[Investiture\|Investiture]] they hold. Soulcasting is much easier to do while in the Cognitive Realm.
+Surge Fabrial: A soulcaster [[Fabrial\|fabrial]] is able to mimic the Radiant ability of Soulcasting. Most are only able to effect small, singular changes, such as turning stone into water, while about one in ten can affect any change. When Soulcasting, the fabrial draws Stormlight from the corresponding gemstone.
+Savantism: Long-term use of Soulcasting, whether via Surgebinding or a fabrial, can lead to the user becoming a [[Savant\|savant]], transforming slowly into the essence they frequently transform other objects into. The effects of savanthood are much less pronounced for Surgebinders compared to fabrial users, and can take a different path in their manifestation, due to the [[Nahel bond\|Nahel bond]]. This process is different from simply having transformed a portion of oneself accidentally.
+### Transportation
 
-[[Kaladin\|Kaladin]] (vinculado a [[Sylphrena\|Sylphrena]])
-[[Lopen\|Lopen]] (vinculado a [[Rua\|Rua]])
-[[Teft\|Teft]] (vinculado a [[Phendorana\|Phendorana]])
-[[Ki\|Ki]] (vinculado a [[Mayal\|Mayal]])
-[[Nale\|Nale]] (vinculado a un [[Altospren\|altospren]] desconocido, así como a través de su [[Hoja de Honor\|hoja de Honor]])
-[[Szeth\|Szeth]] (vinculado a un [[Altospren de Szeth\|altospren sin nombre]])
-[[Malata\|Malata]] (vinculada a [[Chispa\|Chispa]])
-[[Lift\|Lift]] (vinculada a [[Wyndle\|Wyndle]])
-[[Toc%C3%B3n\|Arshqqam]] (vinculada a [[So%C3%B1ando-aunque-Despierta\|Soñando-aunque-Despierta]])
-[[Renarin Kholin\|Renarin Kholin]] (vinculado a [[Glys\|Glys]])
-[[Rlain\|Rlain]] (vinculado a [[Tumi\|Tumi]])
-[[Shallan Davar\|Shallan Davar]] (vinculada a [[Testimonio\|Testimonio]], y luego [[Patr%C3%B3n\|Patrón]])
-[[Hoid\|Hoid]] (vinculado a [[Dise%C3%B1o\|Diseño]])
-[[Jasnah Kholin\|Jasnah Kholin]] (vinculada a [[Marfil\|Marfil]])
-[[Venli\|Venli]] (vinculada a [[Timbre\|Timbre]])
-[[Zu (Roshar)\|Zu]] (vinculada a [[Ua'pam\|Ua'pam]])
-[[Dalinar Kholin\|Dalinar Kholin]] (vinculado al [[Padre Tormenta\|Padre Tormenta]])
-[[Melishi\|Melishi]] (vinculado al [[Hermano\|Hermano]])
-[[Navani Kholin\|Navani Kholin]] (vinculada al [[Hermano\|Hermano]])
-[[Ishar\|Ishar]] (a través de su [[Hoja de Honor\|hoja de Honor]])
-[[Leshwi\|Leshwi]] (por [[Odium\|Odium]])
-[[Rabeniel\|Rabeniel]] (por [[Odium\|Odium]])
-[[Lezian\|Lezian]] (por [[Odium\|Odium]])
-[[Sigzil\|Sigzil]] (vinculado a [[Auxiliar\|Auxiliar]])
+The Surge of Transportation can be manipulated to achieve realmatic transition. The two orders of Knights Radiant with access to this Surge are the Elsecallers and the Willshapers. Using this ability Surgebinders are able to briefly look into the [[Cognitive Realm\|Cognitive Realm]], which allows them to see hidden essences of others (such as if a singer is a normal singer, Regal, or Fused). The brand of Fused with access are the *[[/wiki/Fused#Nex-im]]*, or Husked Ones.
 
-## Caballeros Radiantes
-Para más información, ver [[Caballeros Radiantes\|Caballeros Radiantes]].
-Los Caballeros Radiantes son una organización de potenciadores con el vínculo Nahel que vive según las [[Palabras Inmortales\|Palabras Inmortales]]. Se componen de diez órdenes distintas, cada una consistente de los potenciadores con acceso a las mismas dos Potencias.
 
-## Notas
+**Elsecalling**: This ability allows the Surgebinder to travel between the [[Cognitive Realm\|Cognitive]] and [[Physical Realm\|Physical Realms]] by creating a miniature [[Perpendicularity\|perpendicularity]]. A circular wall of [[Stormlight\|Stormlight]] can be seen briefly at the target location before the Surgebinder arrives. The Surgebinder can also bring other beings and objects with them while transporting themselves. This allows many Surgebinders with Transportation the ability to [[Worldhop\|worldhop]]. However, it's much harder to leave the Cognitive Realm than it is to enter it, and although it is possible to transition realms without a waypoint, those that are less skilled need to find a point where the two Realms touch to be able to leave.
+Surge Fabrial: [[Oathgates\|Oathgates]] are able to mimic the Radiant ability of Transportation. They allow the user to transport anything on top of their platform and in their control chamber between Oathgates in an instant. However, as far as is known, they function in pairs - an Oathgate in [[Urithiru\|Urithiru]] only connects to one Oathgate outside, and the Oathgate outside only connects to one Oathgate in Urithiru. They can only be activated by [[Honorblade\|Honorblades]] or living [[Shardblade\|Shardblades]]. Transportation of more than one person through them requires use of more Stormlight.
+***Nex-im***: The Fused that have this ability, such as [[Lezian\|Lezian]], use it very differently, evacuating their body into a spren-like red light before re-forming elsewhere.
+### Cohesion
+
+Also called the Surge of Strong Axial Interconnection, the Surge of Cohesion can be manipulated to alter objects at a molecular level. The two orders of Knights Radiant with access to this Surge are the Willshapers and the Stonewards. The brand of Fused with access are the *[[/wiki/Fused#Makay-im]]*, or Deepest Ones. This allows the user to alter the shape of solid objects, but not human flesh, with Surgebinders able to grab matter and stretch it, altering the object as though it was soft clay. Cohesion is highly resisted by [[Investiture\|Investiture]], and even a small amount of [[Stormlight\|Stormlight]] in an object would prevent it from working.
 
 
 
+**Stoneshaping**: This ability manipulates the forces that bind [[Axi\|axi]] together. It is considered a cousin to [[Microkinesis\|microkinesis]], an Invested Art from [[Yolen\|Yolen]] that also manipulated axi, though Honor placed strict limits on Stoneshaping to prevent it from enabling the level of destruction possible with microkinesis. While in use, a Surgebinder can mold stone (or other materials) as if it were clay without the use of heat. Stone is able to sense the Intent of the Surgebinder and their past, and even show out or explain events from the past via Stoneshaping. Though stone tends to be the most difficult to Soulcast, it will easily obey through Cohesion.
+***Makay-im***: The Fused with this ability, while not shown to be able to mold stone, have instead used it to phase through stone. They can move through other materials, as long as they are solid.
+### Tension
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) ·  · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Also called the Surge of Soft Axial Interconnection, the Surge of Tension can be manipulated to alter the stiffness of an object; for example, taking something flexible and making it rigid. The two orders of Knights Radiant with access to this Surge are the Stonewards and the Bondsmiths. Much like Cohesion, Tension is highly resisted by [[Investiture\|Investiture]].
+For Bondsmiths, the use of this surge is different from the [[Stonewards\|Stonewards]], as they can couple it with their affinity for [[Connection\|Connection]] to repair inanimate objects as a complement to the Surge of [[Adhesion\|Adhesion]].
 
 
+## Notable Surgebinders
+For a full list, see, see :Category: Surgebinders.
 
-https://es.coppermind.net/wiki/Surgebinding
+[[Kaladin\|Kaladin]] (bonded to [[Sylphrena\|Sylphrena]])
+[[Lopen\|Lopen]] (bonded to [[Rua\|Rua]])
+[[Teft\|Teft]] (bonded to [[Phendorana\|Phendorana]])
+[[Ki\|Ki]] (bonded to [[Winnow (Roshar)\|Winnow]])
+[[Nale\|Nale]] (bonded to an unknown [[Highspren\|highspren]], as well as through his [[Honorblade\|Honorblade]])
+[[Szeth\|Szeth]] (bonded to an [[Szeth's highspren\|unnamed highspren]])
+[[Malata\|Malata]] (bonded to [[Spark\|Spark]])
+[[Lift\|Lift]] (bonded to [[Wyndle\|Wyndle]])
+[[Stump\|Arshqqam]] (bonded to [[Dreaming-though-Awake\|Dreaming-though-Awake]])
+[[Renarin Kholin\|Renarin Kholin]] (bonded to [[Glys\|Glys]])
+[[Rlain\|Rlain]] (bonded to [[Tumi\|Tumi]])
+[[Shallan Davar\|Shallan Davar]] (bonded to [[Testament\|Testament]], then [[Pattern\|Pattern]])
+[[Hoid\|Hoid]] (bonded to [[Design\|Design]])
+[[Jasnah Kholin\|Jasnah Kholin]] (bonded to [[Ivory\|Ivory]])
+[[Venli\|Venli]] (bonded to [[Timbre\|Timbre]])
+[[Zu (Roshar)\|Zu]] (bonded to [[Ua'pam\|Ua'pam]])
+[[Dalinar Kholin\|Dalinar Kholin]] (bonded to the [[Stormfather\|Stormfather]])
+[[Melishi\|Melishi]] (bonded to the [[Sibling\|Sibling]])
+[[Navani Kholin\|Navani Kholin]] (bonded to the [[Sibling\|Sibling]])
+[[Ishar\|Ishar]] (through his [[Honorblade\|Honorblade]])
+[[Leshwi\|Leshwi]] (via [[Odium\|Odium]])
+[[Raboniel\|Raboniel]] (via [[Odium\|Odium]])
+[[Lezian\|Lezian]] (via [[Odium\|Odium]])
+[[Sigzil\|Sigzil]] (bonded to [[Auxiliary\|Auxiliary]])
+
+## Knights Radiant
+For more information, see [[Knights Radiant\|Knights Radiant]].
+Knights Radiant are an organization of Surgebinders with the Nahel bond who live by the [[Immortal Words\|Immortal Words]]. They are comprised of ten different orders, with each order consisting of Surgebinders who have access to the same two Surges.
+
+
+
+https://coppermind.net/wiki/Surgebinding

@@ -1,68 +1,48 @@
-
-
 |**Edgli**|
 |-|-|
 ||
-|**Capacidades**|[[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]]|
-|**Títulos**|[[Dotaci%C3%B3n\|Dotación]]|
-|**Mundo natal**|[[Yolen\|Yolen]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Abilities**|[[Shard\|Shard]] of [[Endowment\|Endowment]]|
+|**Titles**|[[Endowment\|Endowment]]|
+|**Homeworld**|[[Yolen\|Yolen]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Mis ojos no son los de cualquier noble mezquino al que puedas engañar con una nariz falsa y un poco de tierra en las mejillas.*”
+>“*My eyes are not those of some petty noble, to be clouded by a false nose and some dirt on the cheeks.*”
 \-Edgli[1]
 
 
-**Edgli** es la [[Recipiente\|Recipiente]] de la [[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]]. Las [[L%C3%A1grimas de Edgli\|lágrimas de Edgli]] llevan su nombre.
+**Edgli** is the [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Endowment\|Endowment]]. The [[Tears of Edgli\|Tears of Edgli]] are named after her.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
->“*No la echaré de menos.*”
-\-Edgli sobre la muerte de Uli Da[4]
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-La apariencia de Edgli y la especie a la que pertenece son desconocidas; cuando habla a los [[Retornado\|Retornados]], tiene una voz calmada y reconfortante. Con ellos es gentil y amable, ofreciéndoles la posibilidad de volver sin presionarlos. En cambio, en privado es mucho menos agradable. No le interesa entrometerse en el [[Cosmere\|Cosmere]] más allá de [[Nalthis\|Nalthis]], y le disgusta la idea de que las [[Esquirla\|Esquirlas]] interfieran entre sí; al mismo tiempo, ella se inmiscuye en Nalthis extensamente a través de los Retornados. Se dice que es errática, en particular en lo que respecta a la manera en la que selecciona a las personas a Retornar.
-No desea interferir con otras Esquirlas, de acuerdo con su acuerdo. Le decepciona que tan pocos [[Recipiente\|Recipientes]] lo hayan cumplido, y considera tontos a los que lo rompen, y cree que nada bueno puede surgir de que dos Esquirlas residan en el mismo planeta.
-Aunque llama a [[Hoid\|Hoid]] «Queridísimo Cephandrius», parece que él la desagrada de modo considerable. Las visitas de éste a su territorio la frustran, lo reprende por rechazar convertirse en Recipiente y. en general, lo regaña por intentar interferir en asuntos que en su consideración están por encima de él. Parece más amigable cuando se dirige a [[Armon%C3%ADa\|Armonía]]. A pesar de que esto pueda deberse a que ambos son [[Esquirla\|Esquirlas]], no tiene la misma amabilidad con [[Uli Da\|Uli Da]], y muestra desdén por el destino de [[Aona\|Aona]] y [[Skai\|Skai]].
-
-## Habilidades y atributos
-Para los poderes de Dotación, ver [[/wiki/Dotaci%C3%B3n#Magia asociada]].
-Como [[Recipiente\|Recipiente]] de la [[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]], Edgli es inmortal e inmensamente poderosa; puede incluso revivir a aquellos que han muerto recientemente otorgándoles sus [[Astilla\|Astillas]], los [[Aliento biocrom%C3%A1tico\|Alientos]] Divinos. Al igual que otras Esquirlas, es capaz de percibir el futuro, aunque se desconoce cómo de bien se le da esto. En lo que sí destaca respecto al resto, es en su habilidad para localizar a [[Hoid\|Hoid]], y es que afirma ser perfectamente capaz de detectar sus «intrusiones» en [[Nalthis\|Nalthis]] sin importar qué disfraz use él. No queda claro si este es un poder que le concede su Esquirla en particular o si es simplemente su aguda mente.
-
-## Historia
-Como todos los [[Recipiente\|Recipientes]], Edgli es nativa de [[Yolen\|Yolen]]. Participó en la [[Fragmentaci%C3%B3n\|Fragmentación]] de [[Adonalsium\|Adonalsium]], y tomó una de las Esquirlas, [[Dotaci%C3%B3n\|Dotación]]. Honrando el acuerdo que hicieron de que cada uno iría por su lado, se marchó de Yolen y finalmente acabó en [[Nalthis\|Nalthis]], donde se Invistió, convirtiéndose así en la única [[Esquirla\|Esquirla]] del planeta.
-
-Para los eventos subsiguientes, ver [[/wiki/Dotaci%C3%B3n#Historia]].
-## Curiosidades
-Edgli es la autora de la primera [[Cartas\|carta]] de los epígrafes de *[[Juramentada\|Juramentada]]*.
-La «E» en su nombre se pronuncia como una «e», igual que en la palabra «eco».
-Brandon ha evitado varias veces responder a la pregunta de si Edgli es o no una [[Drag%C3%B3n (Cosmere)\|dragona]], aunque más adelante confirmó que tan solo uno de los Recipientes conocidos hasta la fecha era un dragón y después confirmó que [[Koravellium Avast\|Koravellium Avast]], la [[Recipiente\|Recipiente]] de [[Cultivaci%C3%B3n\|Cultivación]] lo era. Esto hace improbable que Edgli también sea un dragón.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Appearance and Personality
+>“*Good riddance.*”
+\-Edgli on Uli Da's death[4]
 
 
+Edgli's appearance and even species are unknown; when speaking to the [[Returned\|Returned]], she has a calm, comforting voice. To them, she is gentle and kind, offering the possibility of coming back without pressuring them into it. In private, however, she's a lot less personable. She's uninterested in meddling with the [[Cosmere\|cosmere]] beyond [[Nalthis\|Nalthis]], and dislikes the idea of [[Shard\|Shards]] interfering with one another; at the same time, she meddles with Nalthis itself extensively through the Returned. She's said to be erratic, particularly when it comes to the manner in which she picks the people to Return.
+She actively doesn't wish to interfere with other Shards, in accordance with their agreement. She is disappointed that so few [[Vessel\|Vessels]] have kept to it, and considers those that break it to be fools, and believes that no good can come from two Shards residing on the same planet.
+Though she calls [[Hoid\|Hoid]] "Dearest Cephandrius", she seems to dislike him quite heavily; she is frustrated with his visits to her territory, chastises him for refusing to become a Vessel, and generally tells him off for trying to interfere with the matters above what she perceives to be his weight class. She appears to be more amicable when speaking with [[Harmony\|Harmony]]. While it might be due to both of them being [[Shard\|Shards]], she does not extend the same courtesy to [[Uli Da\|Uli Da]], and is dismissive of [[Aona\|Aona]] and [[Skai\|Skai's]] fate.
 
-https://es.coppermind.net/wiki/Edgli
+## Abilities and Attributes
+For the powers of Endowment, see [[/wiki/Endowment#Associated Magic]].
+As a [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Endowment\|Endowment]], Edgli is immortal and immensely powerful; she can even bring the recently-dead back to life through bestowing her [[Splinter\|Splinters]], [[Divine Breath\|divine Breath]], upon them. Like other Shards, she is capable of perceiving the future, though it's unknown how good she is at it. She does, however, rank higher than most in being able to spot [[Hoid\|Hoid]], as she declares herself perfectly capable of detecting his "intrusions" on [[Nalthis\|Nalthis]] regardless of what disguise he uses. It's unclear whether this is some capacity granted to her by her particular Shard, or simply her own keen mind.
+
+## History
+Like all original [[Vessel\|Vessels]], Edgli is a native of [[Yolen\|Yolen]]. She participated in the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and took up one of the [[Shard\|Shards]], [[Endowment\|Endowment]]. Honoring the deal that the Vessels made, to each go their own ways, she set out of Yolen and eventually wound up on [[Nalthis\|Nalthis]], Investing herself in it and becoming its sole Shard.
+
+For subsequent events, see [[/wiki/Endowment#History]].
+## Trivia
+Edgli is the author of the first of the [[Letters\|letters]] in *[[Oathbringer\|Oathbringer]]* epigraphs.
+The "E" in her name is pronounced as "eh", like in the word "echo".
+Brandon has repeatedly avoided stating whether or not Edgli is a [[Dragon (cosmere)\|dragon]], although elsewhere he has confirmed that only one of the current Vessels is a dragon and later he confirmed that [[Koravellium Avast\|Koravellium Avast]], the [[Vessel\|Vessel]] of [[Cultivation\|Cultivation]], is one. This makes it unlikely that Edgli is a dragon as well.
+
+
+https://coppermind.net/wiki/Edgli

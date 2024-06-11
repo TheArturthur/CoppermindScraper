@@ -1,82 +1,62 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Dieno**|
 |-|-|
 ||
-|**Familia**|
-|**Cónyuge**|Mujer no nombrada (muerta)|
-|**Hijos**|Hijo no nombrado (muerto)|
-|**Apodos**|El Visón|
-|**Oficio**|Soldado|
-|**Nacionalidad**|[[De Herdaz\|de Herdaz]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Family**|
+|**Spouse**|Unnamed wife (deceased)|
+|**Children**|Unnamed son (deceased)|
+|**Aliases**|The Mink|
+|**Profession**|Soldier|
+|**Nationality**|[[Herdazian\|Herdazian]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Para el tutor [[Mokiano\|Mokiano]], ver [[Mink (Alcatraz)\|Mink (Alcatraz)]].
->“*Tú… no conoces a nuestro gancho, brillante señor. Así es **justo** como reacciona a las situaciones peligrosas.*”
-\-Uno de los guardaespaldas del Visón, sobre su hábito de desaparecer aleatoriamente[2]
-
-
-**Dieno enne Calah** ("Dieno el Visón" en herdaziano antiguo, con "enne" siendo un honorífico que implica grandeza), a menudo referido como **el Visón**, es un general al mando de un grupo de soldados y refugiados en el borde [[Alezkar\|alezi]]-[[Herdaz\|herdaziano]] tras la inicial ocupación cantora de Alezkar.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+For the [[Mokia\|Mokian]] advisor, see [[Mink (Alcatraz)\|Mink (Alcatraz)]].
+>“*You... don't know our gancho, Brightlord. This is **exactly** how he treats dangerous situations.*”
+\-One of the Mink's bodyguards, on his habit of disappearing randomly[2]
 
 
-## Apariencia y personalidad
->“*Muchas cámaras cerradas a cal y canto revelan una ruta de huida oculta, al fin y al cabo.*”
-\-El Visón[4]
+**Dieno enne Calah** (Old Herdazian for "Dieno the Mink," with "enne" being an honorific implying greatness), often known as **the Mink**, is a general in command of a group of soldiers and refugees at the [[Alethkar\|Alethi]]-[[Herdaz\|Herdazian]] border after the initial [[Singer\|singer]] occupation of Alethkar.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-El general es un hombre [[Ojos oscuros\|ojos oscuros]] herdaziano de mediana edad. Tiene la piel marrón y un fino bigote entrecano. Se le describe (aunque en términos poco favorecedores y por un adversario) con una sonrisa demasiado grande, una nariz plana, y un diente faltante. Tiene una complexión esbelta pero que posee poder. Tiene cicatrices alrededor de sus muñecas provocadas por esposas.
-Habla de una manera directa, sin miedo a señalar verdades. Pero también es rápido evaluando la situación y su honestidad generalmente no ofende a la gente. Es fácil de llevar con sus soldados y oficiales, y disfruta escapándose en circunstancias inesperadas. Tiene la costumbre de planear rutas de escape cuando entra en un lugar.
-
-## Atributos y habilidades
->“*No se sobrevive como lo ha hecho el Visón sin aprender a escurrir el bulto de situaciones de las que otros no podrían escapar.*”
-\-Un soldado herdaziano hablando sobre la habilidad de evasión de Dieno enne Calah[2]
+## Appearance and Personality
+>“*Many a locked room reveals a hidden path to escape, after all.*”
+\-The Mink[4]
 
 
-Es un excelente general de batalla. Defendió Herdaz durante un año de la invasión cantora, a pesar de la falta de aliados y recursos. Asume casi por completo el papel de comandante de campo de [[Dalinar\|Dalinar]] tras unirse a la coalición, y recupera Emul con éxito.
-Es un artista del escape, al que le gusta comprobar sus habilidades contra las mejores esposas que sus oficiales puedan encontrar. Fue capaz de evitar su detección por los [[Fusionado\|Fusionados]], y se dice que se ha escapado de diferentes situaciones bajo circunstancias casi imposibles.
-No le tiene miedo a las alturas.
-Es uno de los pocos hombres no fervorosos de un reino vorin que puede leer.
+The general is a middle-aged, [[Darkeyed\|darkeyed]] Herdazian man. He has brown skin and a touch of grey in his thin mustache. He is described (albeit in unflattering terms and by an adversary) as having a too-wide smile, a flat nose, and a missing tooth. He has a lean build but possesses a power to it. He has scars around his wrist that results from manacles.
+He talks in a straightforward manner, not afraid of pointing out truths. But he is also quick to assess the situation and his honesty generally won't offend people. He is easygoing with his soldiers and officers, and enjoys sneaking away in unexpected circumstances. He has a habit of plotting escape routes whenever he enters a space.
 
-## Historia
+## Attributes and Abilities
+>“*You don't survive like the Mink has without learning to wiggle out of situations others could never escape.*”
+\-A Herdazian soldier discussing Dieno enne Calah's evasiveness[2]
+
+
+He is an excellent battlefield general. He defended Herdaz for one year against the singers' invasion, despite the lack of allies and resources. He takes over most of the actual field commanding from [[Dalinar\|Dalinar]] after joining the coalition, and successfully reclaimed [[Emul\|Emul]].
+He is an escape artist who is fond of testing his skills against the best manacles that his officers can find. He was able to avoid detection by the [[Fused\|Fused]], and is said to have escaped various situations under nearly impossible circumstances.
+He is not afraid of heights.
+He is one of the few non-ardent men from a Vorin kingdom who can read.
+
+## History
  
-En algún momento de su vida, el general fue encadenado en una playa en algún lugar cercano al borde alezi-herdaziano, donde un [[Grancaparaz%C3%B3n\|grancaparazón]] enorme apodado "el cerdo" reside. Fue capaz de liberarse en menos de un minuto y escapar de ser comido por la criatura. Es incierto si estaba ahí como prisionero para ser comido por el cerdo, o simplemente quería probar sus habilidades.
-Su hijo y mujer fueron asesinados durante la campaña de Dalinar contra [[Herdaz\|Herdaz]].
-En un punto, los soldados en la compañía del general capturaron a [[Sheler\|Sheler]], un soldado alezi, acosando y robando al populacho local. Como castigo, el general le da a Sheler tres opciones: muerte por espada (blandida por las mujeres a las que acosó), romperle las rodillas con un martillo y abandonarlo en la tormenta, o luchar contra "el cerdo".
-Algún tiempo después de que la ocupación cantora de Alezkar comenzase, el general consiguió el mando de un grupo de soldados y refugiados en ese mismo área del borde.
-Después del duelo de [[Jasnah Kholin\|Jasnah Kholin]] con [[Ruthar\|Ruthar]], Dalinar apuntó que, contrastando con otros en la sala, el general parecía divertido por toda la situación, y medio esperaba que comenzase a aplaudir.
+At some point in his life, the general was chained at a beach somewhere near the Alethi-Herdazian border where an enormous [[Greatshell\|greatshell]] nicknamed "the hog" resides. He was able to unshackle himself in under a minute and escape being eaten by the creature. It is unclear whether he was there as a prisoner condemned to be fed to the hog, or he simply wanted to test his skills at escaping.
+His son and wife were killed during Dalinar's campaign against [[Herdaz\|Herdaz]].
+At one point, the soldiers in the general's company catch [[Sheler\|Sheler]], an Alethi soldier, harassing and stealing from the local populace. As punishment, the general gives Sheler three options: death by the sword (doled out by the women he harassed), having his knees smashed with a hammer and left for the [[Highstorm\|highstorm]], or wrestling "the hog."
+Some time after the singer occupation of Alethkar began, the general gained command over a group of soldiers and refugees at that same area of the border.
+After [[Jasnah Kholin\|Jasnah Kholin's]] duel with [[Ruthar\|Ruthar]], Dalinar noted that, in contrast to the others in the room, the general appeared amused by the whole thing, and half expected him to start clapping.
 
-## Curiosidades
-En el ecosistema roshariano, los visones tienden a hurgar y esconderse en las sombras, y son coloquialmente usados como metáfora de gente furtiva o reservada. En el juego de [[Piezas\|piezas]], el jugador que toma el rol del visón controla información oculta que los otros jugadores no pueden ver. Esta visión cultural de los visones es presumiblemente la fuente del apodo de Dieno, aunque esto no ha sido explícitamente confirmado.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+In the Rosharan ecosystem, minks tend to scavenge and skulk in the shadows, and they are colloquially used as a metaphor for sneaky or secretive people. In the game of [[Pieces\|pieces]], the player who takes the role of the mink controls hidden information that the other players cannot see. This cultural view of minks is presumably the source of Dieno's nickname, although this has not been explicitly confirmed.
 
 
-
-https://es.coppermind.net/wiki/Dieno_enne_Calah
+https://coppermind.net/wiki/Dieno_enne_Calah

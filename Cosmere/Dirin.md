@@ -1,68 +1,49 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Dirin**|
 |-|-|
-|**Capacidades**|[[Maestr%C3%ADa de la arena\|Maestro de la arena]]|
-|**Títulos**|Acolento|
-|**Grupo**|[[Diem\|Diem]]🐱︎|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Abilities**|[[Sand mastery\|Sand master]]|
+|**Titles**|Acolent|
+|**Groups**|[[Diem\|Diem]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Dirin** es un [[Maestro de la arena\|maestro de la arena]] que vive en [[Kezare\|Kezare]], en el Lado Diurno de [[Taldain\|Taldain]].
+**Dirin** is a [[Sand mastery\|sand master]] living in [[Kezare\|Kezare]], on the Dayside of [[Taldain\|Taldain]].
 
-## Sumario
+## Contents
 
-1 Personalidad y apariencia. [[#Personalidad y apariencia]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Citas. [[#Citas]] 
-5 Notas del traductor. [[#Notas del traductor]] 
-6 Notas. [[#Notas]] 
-
-
-## Personalidad y apariencia
-Dirin es un joven pelirrojo y de piel clara. Cree que las acciones de un maestro de la arena deberían determinar su rango y no sólo su fuerza natural.
-
-## Atributos y habilidades
-Dirin es un [[Maestro de la arena\|maestro de la arena]] débil que apenas es capaz de controlar una cinta. Lo compensa con su habilidad para la burocracia y para dirigir las operaciones cotidianas del Diem.
-
-## Historia
-Dirin fue admitido en el [[Diem\|Diem]] y actualmente es acolento. Se hizo amigo de [[Kenton\|Kenton]] mientras ambos eran acolentos juntos, a pesar de que Kenton era mucho mayor que él. Tras el paso de Kenton por la [[Senda del Mastrell\|Senda del Mastrell]] Dirin le atendió en su tienda hasta que [[Traiben\|Traiben]] le envió lejos para que pudiera hablar de los secretos de la Senda con Kenton. Ambos discutieron los rumores sobre las infracciones de [[Drile\|Drile]] antes de que comenzara la ceremonia en la [[Kerla\|Kerla]]. Dirin, al ser uno de los maestros de arena más débiles, no fue objetivo de los  que atacaron el Diem durante la ceremonia, y fue uno de los pocos maestros de arena que sobrevivieron a la masacre. Tras la batalla, Dirin retornó al Diem en [[Kezare\|Kezare]] con los demás maestros de arena supervivientes.
-
->“*Los granos de arena sólo fluyen con los vientos, Kenton, nunca contra ellos.*”
-\-Dirin[3][NdT 1]
-
-Dirin mostró respeto por el rango superior de Drile a pesar de su frustración por el imperioso liderazgo del hombre. Creyendo que Drile sería elevado por el [[Taishin\|Taishin]] como nuevo lord mastrell, Dirin volvió al Diem para recuperar un fajín de mastrell cuando encontró a Kenton sentado allí, de luto. Dirin informó a Kenton de la reunión del [[Taishin\|Taishin]] y ambos partieron juntos hacia la [[Sala del Juicio\|Sala del Juicio]]. Al enterarse de que Kenton había sido nombrado mastrell antes del ataque, Dirin animó a Kenton a hacer valer su rango sobre Drile y asumir el papel de lord mastrell.
-Después de que Kenton impidiera la disolución inmediata del Diem y fuera nombrado lord mastrell en funciones, Dirin le ayudó a dirigir el Diem y a servir a Kenton y a sus invitados. Kenton hizo que instalara escaleras en los niveles superiores del Diem para que los invitados y los maestros de la arena más débiles pudieran acceder a ellos. Más tarde, Dirin contrató a trabajadores para que construyeran escaleras permanentes en todos los rincones del Diem.
-Después de que Kenton desafiara a Drile a un duelo, en un intento de encontrar una forma de derrotar a Drile, Kenton y Dirin experimentaron con distintas formas de utilizar cintas para atacar a otras cintas. A través de sus experimentos, Kenton se dio cuenta de que la ventaja de tener tantas cintas era que podían utilizarse para desbaratar las cintas del maestro contrario con facilidad, y que tendría que encontrar una forma de controlar más cintas si quería derrotar a Drile.
-Dirin trajo al mensajero de [[Delius\|Delius]], que había venido a invitar a Kenton y a [[Khriss\|Khriss]] a un baile en su honor. Más tarde, llevó a Kenton la noticia de que la [[Dama constructora\|dama constructora]] se había enterado de las hazañas de Kenton en la obra, donde había salvado a algunos trabajadores de [[Trell (Taldain)\|Trell]], e, impresionada por lo que Kenton había hecho, iba a votar por el Diem.
-Durante el duelo de Kenton con Drile, éste comentó a [[Elorin\|Elorin]] que Kenton siempre creyó que podía hacer más con una cinta que cualquier otro con docenas, y que así era como ganaba a Drile. Después de que Kenton le derrotara y ganara el voto del Taishin, Dirin fue a buscarle, diciendo que Drile quería hablar con él.
-
-## Citas
->“*Kenton siempre insistía en que podía hacer más con una cinta que cualquier otra persona con docenas, Elorin. Siempre lo decía.*”
-\-Dirin to Elorin while watching Kenton's duel with Drile.[7][NdT 1]
+1 Personality and Appearance. [[#Personality and Appearance]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Quotes. [[#Quotes]] 
+5 Notes. [[#Notes]] 
 
 
-## Notas del traductor
+## Personality and Appearance
+Dirin is a young man with red hair and light skin. He believes that a sand master's actions should determine their rank rather than merely their natural strength.
 
-## Notas
+## Attributes and Abilities
+Dirin is a weak [[Sand mastery\|sand master]] who is barely able to control one ribbon. He makes up for this by being skilled at bureaucracy and running the day to day operations of the Diem.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] ·  · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+Dirin was admitted into the [[Diem\|Diem]] and is currently an acolent. He became friends with [[Kenton\|Kenton]] while the two were acolents together, even though Kenton was much older than him. After Kenton's run through the [[Mastrell's Path\|Mastrell's Path]] Dirin attended him in his tent until [[Traiben\|Traiben]] sent him away so he could speak about the Path's secrets with Kenton. Kenton and Dirin discussed rumors about [[Drile\|Drile's]] infractions before the ceremony in the [[Kerla\|Kerla]] began. Dirin, being one of the weaker sand masters, wasn't targeted by the [[Kerztian\|Kerztians]] who attacked the Diem during the ceremony, and was one of the few sand masters who survived the massacre. After the battle, Dirin returned to the Diem in [[Kezare\|Kezare]] with the other surviving sand masters.
+
+>“*Grains of sand will only flow with the winds, Kenton, never against them.*”
+\-Dirin[3]
+
+Dirin showed respect for Drile's higher rank despite his frustration with the man's imperious leadership. Believing Drile would be raised by the [[Taishin\|Taishin]] as the new Lord Mastrell, Dirin returned to the Diem to retrieve a mastrell's sash when he found Kenton sitting there in mourning. Dirin informed Kenton of the [[Taishin\|Taishin's]] meeting and the two left together for the [[Hall of Judgement\|Hall of Judgement]]. Upon learning that Kenton was made a mastrell prior to the attack, Dirin encouraged Kenton to assert his rank over Drile and take on the role of Lord Mastrell.
+After Kenton prevented the immediate disbanding of the Diem and was made acting Lord Mastrell, Dirin served as his assistant in running the Diem and serving Kenton and his guests. Kenton had Dirin to set up ladders to the upper levels of the Diem so that guests and weaker sand masters would be able to access them. Later Dirin hired workers to build permanent staircases in every corner of the Diem.
+After Kenton challenged Drile to a duel, in an attempt to find a way to defeat Drile, Kenton and Dirin experimented with different ways of using ribbons to attack other ribbons. Through their experiments, Kenton realized that the advantage of having so many ribbons was that they could be used to disrupt the opposing master's ribbons with ease, and that he would have to find a way to control more ribbons if he was going to defeat Drile.
+Dirin brought [[Delius\|Delius']] messenger, who had come to invite Kenton and [[Khriss\|Khriss]] to a ball in his honor. Later, he brought news to Kenton that the [[Lady Mason\|Lady Mason]] had heard of Kenton's antics at the construction site, where he had saved some of [[Trell (Taldain)\|Trell's]] workers, and, impressed by what Kenton had done, was going to vote for the Diem.
+During Kenton's duel with Drile he remarked to [[Elorin\|Elorin]] that Kenton always believed that he could do more with one ribbon than anyone else could do with dozens, and that this was how he was winning against Drile. After Kenton defeated Drile and won the vote of the Taishin, Dirin came to get him, saying that Drile wanted to speak with him.
+
+## Quotes
+>“*Kenton always insisted he could do more with one ribbon than anyone else could do with dozens, Elorin. He always said that.*”
+\-Dirin to Elorin while watching Kenton's duel with Drile.[7]
 
 
 
-https://es.coppermind.net/wiki/Dirin
+
+https://coppermind.net/wiki/Dirin

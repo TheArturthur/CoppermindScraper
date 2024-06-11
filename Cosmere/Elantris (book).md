@@ -1,178 +1,148 @@
-
-
-|***Elantris*[[Secuela de Elantris\|>]]**|
+|***Elantris*[[Elantris sequel\|>]]**|
 |-|-|
 ||
-|**[[Trilog%C3%ADa de Elantris\|Trilogía de Elantris]]**|
-|**Siguiente**|*[[Secuela de Elantris\|Futura secuela ]]*|
-|**Localización**|[[Sel\|Sel]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|21 de abril de 2005|
-|**Fecha española**|25 de enero de 2006|
-|**Editorial**||
-|**Editorial en español**||
+|**[[Elantris trilogy\|Elantris trilogy]]**|
+|**Precedes**|*[[Elantris sequel\|Eventual sequel ]]*|
+|**Setting**|[[Sel\|Sel]], [[Cosmere\|Cosmere]]|
+|**Released**|April 21, 2005|
+|**Publisher**||
 |**ISBN**|0-7653-8310-1|
-|**ISBN español**|8466624236|
-|**Número de Páginas**|592 , 656 |
-|**Número de Palabras**|[[Elantris (libro)/An%C3%A1lisis estad%C3%ADstico\|201,372]]|
-Este artículo es sobre el libro. Para la ciudad del universo, ver [[Elantris (ciudad)\|Elantris (ciudad)]].
-***Elantris*** es una novela de fantasía escrita por [[Brandon Sanderson\|Brandon Sanderson]], publicada en abril de 2005 por Tor Books. Es el sexto libro escrito por Brandon y su primer libro publicado. La novela, ambientada en el planeta [[Sel\|Sel]], cuenta la historia de cómo [[Raoden\|Raoden]] y [[Sarene\|Sarene]] restauran los mágicos [[Elantrino\|elantrinos]] a su antigua gloria.
+|**Page Count**|592|
+|**Word Count**|[[Elantris (book)/Statistical analysis\|201,372]]|
+This article is about the book. For the in-universe city, see [[Elantris (city)\|Elantris (city)]].
+***Elantris*** is a fantasy novel by [[Brandon Sanderson\|Brandon Sanderson]], published in April 2005 by Tor Books. It is Brandon's sixth written book and his first published book. The book, set on the planet [[Sel\|Sel]], tells the story of how [[Raoden\|Raoden]] and [[Sarene\|Sarene]] restore the magical [[Elantrian\|Elantrians]] to their former glory.
 
-## Sumario
+## Contents
 
-1 Resumen. [[#Resumen]] 
+1 Summary. [[#Summary]] 
 
-1.1 Primera parte: La sombra de Elantris
-1.2 Segunda parte: La llamada de Elantris
-1.3 Tercera parte: El espíritu de Elantris
-
-
-2 Personajes principales. [[#Personajes principales]] 
-3 Localización. [[#Localizaci.C3.B3n]] 
-
-3. [[#Sistema de magia]] 
+1.1 Part One: The Shadow of Elantris
+1.2 Part Two: The Call of Elantris
+1.3 Part Three: The Spirit of Elantris
 
 
-4 Easter eggs. [[#Easter eggs]] 
+2 Main Characters. [[#Main Characters]] 
+3 Setting. [[#Setting]] 
 
-4. [[#Conexiones con el Cosmere]] 
-
-
-5 Desarrollo. [[#Desarrollo]] 
-6 Historial de publicación. [[#Historial de publicaci.C3.B3n]] 
-7 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-8 Arte interior. [[#Arte interior]] 
-9 Cursiosidades. [[#Cursiosidades]] 
-10 Premios. [[#Premios]] 
-11 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-12 Notas. [[#Notas]] 
+3. [[#Magic System]] 
 
 
-## Resumen
-Para un resumen capítulo a capítulo, ver [[Elantris/Resumen\|Elantris/Resumen]].
-### Primera parte: La sombra de Elantris
-Los eventos de Elantris tienen lugar predominantemente en el país de [[Arelon\|Arelon]] desde tres puntos de vista diferentes: el príncipe [[Raoden\|Raoden]], la princesa [[Sarene\|Sarene]] y el [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]]. Raoden es el príncipe heredero de Arelon y es el primero en la línea de sucesión para hereder el trono de su padre, el rey [[Iadon\|Iadon]]. Está comprometido con la princesa Sarene del reino vecino de [[Teod\|Teod]] con la esperanza de que su matrimonio fortalezca los lazos entre sus países frente a la agresión externa del [[Fjorden\|imperio de Fjorden]], del cual proviene Hrathen.
-Raoden despierta una mañana antes de la llegada de Sarene y se da cuenta de que ha sido alcanzado por [[La Shaod\|la Shaod]]. Es arrojado a la ciudad de [[Elantris (ciudad)\|Elantris]] donde hace amistad con [[Galladon\|Galladon]], un compañero [[Elantrino\|elantrino]] que es originario de [[Duladel\|Duladel]]. Galladon describe las terribles vidas que llevan los elantrinos, pero Raoden cree que debe haber una forma mejor. Raoden inicia una nueva sociedad más optimista para ayudar a los recién llegados a Elantris. En el proceso convierte a [[Karata\|Karata]] y [[Taan\|Taan]], dos líderes de bandas elantrinas, a su causa. El tercer líder de banda, [[Shaor\|Shaor]], resulta ser más difícil de convencer y los nuevos elantrinos apenas son capaces de detener sus constantes ataques.
-Mientras tanto, Sarene llega a Arelon y encuentra el país de luto por la muerte del príncipe Raoden. Según las condiciones de su contrato matrimonial, debe quedarse Arelon. Sin embargo, sospecha sobre las circunstancias que rodean la muerte de Raoden. Sin marido, Sarene se involucra en la vida política arelena y se encuentra conque el rey Iadon espera que se mantenga alejada de dichos asuntos. En poco tiempo, Sarene se alía con un grupo de nobles, incluyendo a su tío [[Kiin\|Kiin]], que están insatisfechos con el liderazgo del rey. Juntos conspiran para derrocarlo.
-Al mismo tiempo, Hrathen comienza su campaña para convertir a la población de Arelon a la religión [[Derethi\|derethi]]. Su propaganda incluye discursos para persuadir a los arelenos de odiar Elantris con la esperanza de volverlos en contra del [[Shu-Korath\|Shu-Korath]], así como reuniones más discretas con la nobleza. Hrathen escoge a [[Telrii\|Telrii]], un noble codicioso pero influyente, para intentar colocarlo en el trono, creyendo que es un simpatizante derethi. Sin embargo, los planes de Hrathen son frecuentemente obstaculizados por [[Dilaf\|Dilaf]], su fervoroso [[Odiv\|odiv]], que parece oponerse a él en cada paso.
-Sintiendo que Hrathen es una amenaza para Arelon, Sarene también intenta perturbar sus planes. En un cambio de estos, Sarene estabiliza el gobierno de Iadon, temiendo que Telrii pueda ser un gobernate aún más incompetente. Además, entra en Elantris con alimentos para mostrar al resto de Arelon que los elantrinos son en su mayoría inofensivos, sin darse cuenta de que está estropeando los planes de Raoden para la Nueva Elantris en el proceso.
-Con sus planes desbaratados, Hrathen se ve obligado a tomar medidas drásticas y se bebe una poción que causa efectos similares a la Shaod.
+4 Easter Eggs. [[#Easter Eggs]] 
 
-### Segunda parte: La llamada de Elantris
-Tras varios intentos, Raoden finalmente convence a la banda de Shaor de unirse a Nueva Elantris. También encuentra una piscina misteriosa donde los casi inmortales elantrinos pueden ir a morir. Durante varios días, los nuevos elantrinos observan a Hrathen siendo encerrado en Elantris, «curándose» de la Shaod y siendo liberado posteriormente.
-Fuera de Elantris, Sarene, al notar un comportamiento extraño en Iadon, le sigue cuando él desaprece temprano de un baile. Se horroriza al descubrir que Iadon está sacrificando de forma ritual a su personal de palacio practicando los [[Misterios Jeskeri\|Misterios Jeskeri]]. Es arrestado, pero se ahorca en la cárcel.
-Afirmando que su recuperación de la Shaod se debe a su devoción por el Shu-Dereth, Hrathen recupera la ventaja sobre Dilaf. También se complace con la muerte de Iadon, ya que esto le concede a Telrii un claro camino hacia el trono. Al darse cuenta de esto, Sarene planea casarse con el duque Roial porque, juntos, tienen un reclamo más legítimo sobre el trono que Telrii. Sin embargo, el día de la boda, Sarene aparenta haber sido alcanzada por la Shaod, aunque en realidad no es más que otra dosis de la poción de Hrathen. Sin Sarene, el reclamo de Roial al trono se desvanece y Telrii es coronado rey de Arelon.
-Una vez en Elantris, Sarene pasa mucho tiempo con Raoden, aunque no se da cuenta de quién es él. Juntos, logran descubrir qué está mal con el [[AonDor\|AonDor]], que había dejado de funcionar durante los últimos diez años. Sin embargo, incluso añadiendo la línea del abismo a los [[Aon\|aones]], el AonDor no parece ser tan fuerte como debería.
-Sarene se cura rápidamente de la Shaod, igual que hizo Hrathen, y se reúne con Roial, Kiin y el resto de los nobles. Deciden asesinar a Telrii por el bien del país cuando uno de los suyos los traiciona. Telrii, con unos cuantos guardias, aparece en una de sus reuniones y ordena matar a Roial. Más tarde, por la noche, Eondel mata a Telrii en venganza, arruinando los planes de Hrathen una vez más.
-
-### Tercera parte: El espíritu de Elantris
-Las tensiones aumentan cuando un destacamento de cincuenta guardias de la ciudad de Elantris se dirige hacia la casa de Kiin, y Sarene y sus amigos están convencidos de que los guardias intentarán arrestarlos por traición contra el rey. En cambio, los guardias piden que Raoden se convierta en su nuevo rey. Una hora más tarde, la coronación comienza. Sim embargo, Dilaf despeja la ilusión que Raoden ha estado manteniendo para parecer humano. Los nobles no parecen tan conmocionados como Dilaf esperaba. En su apatía, parecen simplemente alicaídos, hasta que Sarene los anima con la idea de que Raoden sigue siendo el hombre que los amó antes de su exilio.
-Dilaf sale enfurecido del palacio, arrastrando a Hrathen a perseguir al arteth. Siguiéndolo hasta el distrito del mercado, Hrathen es testigo de cómo los monjes [[Dakhor\|dakhor]] salen de las tiendas. Mientras duerme en la mansión de Roial, Raoden se despierta por un disturbio y baja las escaleras, encontrándose a Dilaf, que lo deja inconsciente. Sarene se ve envuelta en el ataque de los monjes dakhor cuando su carruaje es asaltado de camino a casa desde Elantris. Afortunadamente, Kiin y Lukel la salvan, la llevan de vuelta a la mansión de Kiin y se atrincheran allí. Arrastrando a Raoden a la mansión de Kiin, Dilaf lo utiliza para capturar a Sarene. Después de haber terminado de usar a su cebo, Dilaf atraviesa a Raoden con su espada y lleva a Sarene y a Hrathen a Teod.
-Emergiendo de su escondite, Galladon y Karata se acercan a Raoden y encuentran los restos hoed del hombre que una vez fue su amigo. Galladon está decidido a concederle la paz a Raoden en el abrazo de la piscina en la cima de la montaña; luego se concederá la misma paz a sí mismo. Karata accede. Mientras ambos llevan a Raoden hacia el olvido, Lukel y los otros cautivos son llevados a las piras construidas para ellos dentro de Elantris. Cuando una revelación asalta la mente de Raoden, lucha por recuperar el control de su cuerpo. Sorprendiendo a Galladon y Karata, echa a correr de regreso por la montaña hacia Kae, coge un palo y dibuja la línea del abismo en el suelo. Explota con el poder del [[Dor\|Dor]] cuando la completa, revelando que Elantris y sus ciudades circundantes no son más que un gigantesco aon Rao.
-Mientras estos eventos tienen lugar, Shuden y Lukel lideran una lucha contra sus captores, y Dilaf se desplaza para aplastar Teod. Hrathen escucha a Dilaf musitando a Sarene que la matará delante de su padre, lo que le motiva a advertir a Eventeo de la invasión fjordell y a atacar a Dilaf. Luchando contra los otros monjes, Hrathen escapa con Sarene. Lukel y los demás son derrotados, pero la esperanza vuelve con la intervención de Raoden. Elantris y Arelon están a salvo, pero [[Ashe\|Ashe]] aparece con graves noticias sobre Teod.
-Hrathen es asesinado en las calles de Teod. Ayudado por, un ahora lúcido, [[Adien\|Adien]], Raoden se teletransporta a Teod para salvar a Sarene de Dilaf. Galladon y los demás elantrinos llegan a tiempo para salvar a Raoden y Sarene, luchando contra más de cincuenta monjes dakhor usando el AonDor. Al ver que Dilaf persigue a Eventeo, Raoden lo sigue y cae en la emboscada de Dilaf. Hrathen hace una aparición milagrosa durante la pelea, revelando su secreto de ser parcialmente dakhor, lo cual utiliza para matar a Dilaf antes de sucumbir a sus propias heridas.
-Con la guerra terminada y Teod logrando contener al ejército fjordell, a Sarene sólo le queda una cosa en mente: casarse con Raoden. Con la intención de no volver a perderlo de vista, lo lleva al altar, donde se casan. Una semana después, se organiza un gran funeral para las personas que murieron durante la invasión de Arelon, Elantris y Teod. Sarene habla en nombre de Hrathen, pidiendo a todos que lo recuerden como el salvador que antepuso lo que era correcto a sus propias ambiciones.
-
-## Personajes principales
-Para todos los personajes de este libro, ver :Categoría:de Sel.
+4. [[#Cosmere Connections]] 
 
 
-**Otros personajes**
+5 Development. [[#Development]] 
+6 Publication History. [[#Publication History]] 
+7 Cover Gallery. [[#Cover Gallery]] 
+8 Interior Art. [[#Interior Art]] 
+9 Trivia. [[#Trivia]] 
+10 Awards. [[#Awards]] 
+11 Statistical Analysis. [[#Statistical Analysis]] 
+12 Notes. [[#Notes]] 
 
 
-## Localización
-Elantris está ambientada en el [[Cosmere\|Cosmere]] en el [[/wiki/Cosmere#Planetas]] de [[Sel\|Sel]].
+## Summary
+For a chapter by chapter summary, see [[Elantris/Summary\|Elantris/Summary]].
+### Part One: The Shadow of Elantris
+The events of Elantris take place predominantly in the country of [[Arelon\|Arelon]] from three separate points of view: Prince [[Raoden\|Raoden]], Princess [[Sarene\|Sarene]] and [[Gyorn\|Gyorn]] [[Hrathen\|Hrathen]]. Raoden is the crown prince of Arelon and is first in line to inherit the throne from his father, King [[Iadon\|Iadon]]. He is engaged to Princess Sarene of neighboring [[Teod\|Teod]] with the hope that their marriage will strengthen ties between their countries in the face of external aggression from the [[Fjorden\|Fjorden Empire]] from which Hrathen hails.
+Raoden wakes up in the morning before Sarene's arrival to find that he has been taken by the [[Shaod\|Shaod]]. He is thrown into the city of [[Elantris (city)\|Elantris]] where he befriends [[Galladon\|Galladon]], a fellow [[Elantrian\|Elantrian]] who is originally from [[Duladel\|Duladen]]. Galladon describes the terrible lives that Elantrians live but Raoden believes that there must be a better way. He starts a new, more optimistic, society to help newcomers to Elantris. In the process he converts [[Karata\|Karata]] and [[Taan\|Taan]], two Elantrian gang leaders to his cause. The third gang leader, [[Shaor\|Shaor]], proves to be more difficult and his men's constant attacks are barely held off by the New Elantrians.
+Meanwhile, Sarene arrives in Arelon to find the country in mourning for Prince Raoden. Under the conditions of their wedding contract, she must stay in Arelon. However she is suspicious of the circumstances surrounding his death. With no husband, Sarene throws herself into Arelene political life only to find King Iadon expects her to stay out of such matters. Sarene quickly allies herself to a group of nobles, including her uncle [[Kiin\|Kiin]], who are dissatisfied with the king's leadership. Together they scheme to overthrow him.
+At the same time, Hrathen begins his campaign to convert the population of Arelon to the [[Derethi\|Derethi]] religion. His propaganda involves speeches persuading the Arelenes to hate Elantris in the hope of turning them against [[Shu-Korath\|Shu-Korath]], as well as more discreet meetings with the nobility. Hrathen singles out [[Telrii\|Telrii]], a greedy but influential noble, to try and place on the throne, thinking him to be a Derethi sympathiser. However, Hrathen's plans are often stalled by [[Dilaf\|Dilaf]], his overzealous [[Odiv\|odiv]], who seems to oppose him at every turn.
+Sensing that Hrathen is a danger to Arelon, Sarene also attempts to disturb his schemes. In a change of previous plans, Sarene stabilizes Iadon's rule, fearing that Telrii would be an even more incompetent ruler. Additionally, she enters Elantris with food to show the rest of Arelon that the Elantrians are mostly harmless, not realising she is disrupting Raoden's plans for New Elantris in the process.
+With his plans falling apart, Hrathen has to take drastic action and drinks a potion that imitates the effects of the Shaod.
 
-### Sistema de magia
-Cada uno de los sistemas de magia del mundo de *Elantris* usan un conjunto de formas para acceder al [[Dor\|Dor]].
+### Part Two: The Call of Elantris
+After several attempts, Raoden eventually convinces Shaor's gang to join New Elantris. He also finds a mysterious pool where the nearly immortal Elantrians can go to die. Over a number of days, the New Elantrians observe Hrathen being locked into Elantris, being "healed" of the Shaod and subsequently released.
+Outside Elantris, Sarene, noticing strange behaviour from Iadon, follows him when he disappears early from a ball. She is horrified to find Iadon ritually sacrificing his palace staff in observance of the [[Jeskeri Mysteries\|Jeskeri Mysteries]]. He is arrested, but hangs himself in jail.
+Claiming his recovery from the Shaod was due to his devotion to Shu-Dereth, Hrathen regains the upper hand over Dilaf. He is also pleased at the death of Iadon as this gives Telrii a clear path to the throne. Realising this, Sarene plans to marry Duke Roial because, together, they have a more legitimate claim to the throne than Telrii does. However on the day of the wedding Sarene appears to be struck by the Shaod, though in reality it is another dose of Hrathen's potion. Without Sarene, Roial's claim to the throne vanishes and Telrii is crowned king of Arelon.
+Once in Elantris, Sarene spends a lot of time with Raoden, though she does not realise who he is. Together, they manage to work out what is wrong with [[AonDor\|AonDor]], which has not worked for the past ten years. However, even with the addition of the chasm line to the [[Aon\|Aons]], AonDor does not seem as strong as it should.
+Sarene rapidly heals from the shaod, as Hrathen did, and reunites with Roial, Kiin and the rest of the nobles. They decide to assassinate Telrii for the good of the country when one of their number betrays them. Telrii, with a number of guards, turns up to their meeting and orders Roial killed. Later in the evening, Eondel kills Telrii in revenge, leaving Hrathen's plans in ruins once again.
 
-El [[AonDor\|AonDor]] usa símbolos llamados aones, que pueden ser dibujados directamente en el aire como una luz brillante, o en una gran variedad de representaciones físicas, como grabados en placas de metal, o incorporados en el diseño de edificios. Cualquiera puede aprender a dibujar aones, pero solo tienen poder cuando son creados por un elantrino. El AonDor está vinculado a la ciudad de Elantris y solo se practica dentro de sus fronteras. Los aones funcionan en cualquier otro lugar pero se debilitan al estar lejos de Elantris.
-El [[ChayShan\|ChayShan]] no se desarrolla mucho en *Elantris*, aunque parece consistir en un tipo de arte marcial meditativo, cuyos movimientos dan acceso al Dor. Parece que, como los aones, cualquiera puede potencialmente practicar estas posturas, sin efecto sobrenatural, con factores adicionales como la Intención o la línea de sangre estableciendo la conexión con el Dor.
-El [[Dakhor\|dakhor]] se comprende aún menos que el ChayShan, y ni siquiera tiene un nombre definido. Actualmente se le llamada dakhor porque los únicos practicantes conocidos son miembros del [[Monasterio Dakhor\|monasterio Dakhor]]. Lo que sí se sabe es que su uso altera los huesos del usuario, causando que se retuerzan y formen patrones bajo la piel. Estos patrones son, con mucha probabilidad, la «forma» a través de la cuál se canaliza esta magia. El dakhor otorga acceso al Dor y está posiblemente conectado con [[Dominio\|Dominio]]. El dakhor requiere sacrificios humanos en muchos de sus usos.
-## Easter eggs
-### Conexiones con el Cosmere
-[[Hoid\|Hoid]] ayuda a [[Sarene\|Sarene]] a introducir armas de contrabando en [[Elantris (ciudad)\|Elantris]].
-Aparece la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]].
-[[Galladon\|Galladon]] es un [[Saltamundos\|saltamundos]] y ha sido visto en [[Roshar\|Roshar]] persiguiendo a Hoid con [[Demoux\|Demoux]] y [[Baon\|Baon]].
-Existen una serie de  y algunas  publicadas en la web de Brandon, así como el relato corto *[[La esperanza de Elantris\|La esperanza de Elantris]]*.
-## Desarrollo
-Esta es la primera novela publicada de Brandon, y la sexta que ha escrito.
-Está escrita en un sistema de tríadas, con grupos de tres capítulos hablando prácticamente del mismo periodo del tiempo desde tres puntos de vista diferentes.
+### Part Three: The Spirit of Elantris
+Tensions rise as a detachment of fifty Elantric City Guards gallop towards Kiin's house, with Sarene and her friends convinced the guards will attempt to arrest them for treason against the king. Instead, they request that Raoden become their new king. Within the hour his coronation commences. However, Dilaf dispels the illusion Raoden has been keeping up to appear human. The nobles don't appear as shocked as Dilaf would have hoped. In their apathy they merely appear dejected, until Sarene rallies them behind the idea that Raoden is still the man who loved them before his exile.
+Dilaf stalks angrily from the palace, lassoing Hrathen into stalking the arteth. Following him to the market district, Hrathen witnesses the [[Dakhor\|Dakhor]] monks burst from the tents. Asleep in Roial's mansion, Raoden awakens to a disturbance and goes downstairs, only to find Dilaf, who knocks Raoden unconscious. Sarene is caught up in the Dakhor monks' attack when her carriage is assaulted on the way back from Elantris. Fortunately, she is saved by Kiin and Lukel, who take her back to Kiin's manor and barricade themselves in. Dragging Raoden to the manor, Dilaf uses him to capture Sarene. Done with his bait, Dilaf runs Raoden through with his sword and takes Sarene and Hrathen to Teod.
+Emerging from their hiding place, Galladon and Karata approach Raoden to find the Hoed remnants of a man who was once their friend. Galladon is determined to give Raoden peace in the embrace of the pool atop the mountain; he will then also give himself the same peace. Karata only acquiesces. While Galladon and Karata carry Raoden towards oblivion, Lukel and the other captives are being marched to the pyres built for them within Elantris. As a revelation assaults Raoden's mind, he struggles to regain control of his body. Startling Galladon and Karata he dashes back down the mountain to Kae, grabs a stick and draws out the chasm line in the ground. It explodes with the power of the [[Dor\|Dor]] as he completes it, revealing Elantris and its surrounding cities to be one massive Aon Rao.
+As these events take place, Shuden and Lukel lead a fight against their captors, and Dilaf moves to crush Teod. Hrathen overhears Dilaf musing to Sarene that he is going to kill her in front of her father, motivating Hrathen to warn Eventeo of the Fjordell invasion and attack Dilaf. Fighting off the other monks, Hrathen escapes with Sarene. Lukel and the others are beaten but hope is restored with Raoden's intervention. Elantris and Arelon are secure but [[Ashe\|Ashe]] appears with grave news of Teod.
+Hrathen is assassinated in the streets of Teod. Aided by a now lucid [[Adien\|Adien]], Raoden teleports to Teod to save Sarene from Dilaf. Galladon and the other Elantrians arrive in time to save Raoden and Sarene, fighting off more than fifty Dakhor monks with AonDor. Seeing Dilaf chase after Eventeo, Raoden pursues only to walk into Dilaf's ambush. Hrathen makes a miraculous appearance during the fight, revealing his partial-Dakhor secret, which he uses to kill Dilaf before succumbing to his own wounds.
+With the war over and Teod managing to hold back the Fjordell army, Sarene has one thing left on her mind: marrying Raoden. She is not about to let him out of her sight this time, marching him down the aisle where they are married. A week after their marriage a great funeral is arranged for the people that died during the invasion of Arelon, Elantris, and Teod. Sarene speaks for Hrathen, asking all to remember him as the savior who put what was right before his own ambitions.
 
-## Historial de publicación
+## Main Characters
+For all characters in this book, see :Category:Selish.
 
-America (Tor, primavera de 2005)
-Derechos de audio (sin resumir) para Recorded Books
-Derechos de audio (resumen dramático) para Graphic Audio
-Derechos de club de lectura británico para BCA
-Derechos en ruso para Azbooka
-Derechos en alemán para Heyne
-Derechos en japonés para Hayakawa
-Derechos en francés para Calmann-Lévy
-Derechos en holandés para Boekerij
-Derechos en español para Ediciones B
-Derechos de club de lectura español para Circulo de Lectores
-Derechos en tailandés para ARIP
-Derechos en turco para Arkadas
-Derechos en checo para Talpress
-Derechos en húngaro para Delta Vision
-Derechos en polaco para Mag
-Derechos en chino (complejo) para Fantasy Foundation
-Derechos en chino (simplificado) para Shanghai Wanyu
-Derechos en rumano para Tritonic
-Derechos en rumano para 
-Derechos en hebreo para Silver Stars
-Derechos en Reino Unido para Gollancz
-Derechos en búlgaro para Studio of A
 
-Una edición de bolsillo de décimo aniversario, que incluye nuevos mapas e ilustraciones, así como un [[Ars Arcanum\|Ars Arcanum]] actualizado, fue publicada en octubre de 2015.
+**Other Characters**
 
-## Galería de portadas
-Para una galería de portadas de Elantris, ver [[Elantris (libro)/Portadas\|/Portadas]].
-## Arte interior
-Para una galería del arte interior del libro, ver [[Elantris (libro)/Arte interior\|/Arte interior]].
-## Cursiosidades
-Elantris fue escrita en un sistema de capítulos por tríadas, rotando los puntos de vista entre Raoden, Sarene y Hrathen. La primera y segunda parte contienen 27 capítulos cada una, o 9 tríadas. La estructura de tríadas se rompe en la tercera parte, que consta de 9 capítulos.
 
-## Premios
-*Romantic Times Award*, Mejor fantasía épica.
-*Barnes & Noble Explorations*, nº 1 en la selección de los editores.
-Selección *SF Book Club*. 
-## Análisis estadístico
-Para análisis estadístico completo, ver [[Elantris (libro)/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
-*Elantris* consta de un prólogo, sesenta y tres capítulos, un epílogo y un post scriptum, alcanzando un total de 201,372 palabras (en inglés). Hay 9 personajes con puntos de vista diferentes con un total de 122 puntos de vista.
+## Setting
+Elantris is set in the [[Cosmere\|cosmere]] on the [[/wiki/Cosmere#Planets]] of [[Sel\|Sel]].
 
-|**Conteo de palabras **|201,372||
+### Magic System
+The magic systems of the world of *Elantris* each use a set of forms to access the [[Dor\|Dor]].
+
+[[AonDor\|AonDor]] uses symbols called Aons, which can be drawn directly in the air as glowing light, or in a large variety of physical representations, such as etched into metal plates, or incorporated into the design of buildings. Anyone can learn to draw Aons, but they only have power when created by an Elantrian. AonDor is tied to the city of Elantris and is only practiced within its borders. Aons work elsewhere but become weaker with distance from Elantris.
+[[ChayShan\|ChayShan]] is not explored much in *Elantris*, however it seems to consist of a type of meditative martial art, with the forms one moves through granting access to the Dor. It appears that, like Aons, these forms can be practiced, potentially by anyone, without supernatural effect, with additional factors such as intent or bloodline establishing the connection to the Dor.
+[[Dakhor\|Dakhor]] is even less well understood than ChayShan, without even a concrete name. It is currently referred to as Dakhor because its only known practitioners are members of [[Dakhor Monastery\|Dakhor Monastery]]. What is known is that its use alters the bones of the user, causing them to twist and form patterns under the skin. These patterns are most likely the 'form' through which this magic is channeled. Dakhor allows access to the Dor and has a possible connection to [[Dominion\|Dominion]]. Dakhor requires human sacrifice in several of its uses.
+## Easter Eggs
+### Cosmere Connections
+[[Hoid\|Hoid]] helps [[Sarene\|Sarene]] smuggle weapons into [[Elantris (city)\|Elantris]].
+[[Devotion's Perpendicularity\|Devotion's Perpendicularity]] is seen.
+[[Galladon\|Galladon]] is a [[Worldhopper\|worldhopper]] and has been seen on [[Roshar\|Roshar]] chasing Hoid with [[Demoux\|Demoux]] and [[Baon\|Baon]].
+There were a set of  and some  published on Brandon's site, as well as the short story [[The Hope of Elantris\|The Hope of Elantris]].
+## Development
+This is Brandon's first published novel, and his sixth written novel.
+It is written in a triad system, with sets of three chapters telling roughly the same period of time through the three main points of view.
+
+## Publication History
+
+America (Tor, Spring 2005)
+Audio rights (unabridged) to Recorded Books
+Audio rights (dramatic abridgment) to Graphic Audio
+UK book club rights to BCA
+Russian rights to Azbooka
+German rights to Heyne
+Japanese rights to Hayakawa
+French rights to Calmann-Lévy
+Dutch rights to De Boekerij
+Spanish rights to Ediciones B
+Spanish book club rights to Circulo de Lectores
+Thai rights to ARIP
+Turkish rights to Arkadas
+Czech rights to Talpress
+Hungarian rights to Delta Vision
+Polish rights to Mag
+Chinese rights (Complex) to Fantasy Foundation
+Chinese rights (simplified) to Shanghai Wanyu
+Romanian rights to Tritonic
+Romanian rights to 
+Hebrew rights to Silver Stars
+UK rights to Gollancz
+Bulgarian rights to Studio of A 
+
+A tenth anniversary trade paperback edition, which includes new maps and illustrations and an updated [[Ars Arcanum\|Ars Arcanum]], was published in October 2015.
+
+## Cover Gallery
+For a cover gallery of Elantris, see [[Elantris (book)/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[Elantris (book)/Interior art\|/Interior art]].
+## Trivia
+Elantris was written in a chapter triad system, rotating the primary viewpoints from Raoden to Sarene to Hrathen. Part 1 and Part 2 each contained 27 chapters, or 9 triads. The triad structure broke down in Part 3, which consisted of 9 chapters.
+
+## Awards
+Romantic Times Award, Best Epic Fantasy
+Selected as Barnes & Noble Explorations' #1 Editor's Pick.
+SF Book Club selection 
+## Statistical Analysis
+For a full statistical analysis, see [[Elantris (book)/Statistical analysis\|/Statistical analysis]].
+*Elantris* consists of one prologue, sixty-three chapters, one epilogue, and one postscript, reaching a total 201,372 word count. There are nine different unique point-of-view characters in a total of 122 POVs.
+
+|**Word Count**|201,372||
 |-|-|
-|**Conteo de páginas **|656|NOVA|
-|**Conteo de páginas **|592|Tor tapa dura|
-|**Conteo de capítulos**|66|Incluyendo prólogo, epílogo y post scriptum|
-|**Personajes con puntos de vista**|9||
-|**Conteo de puntos de vista**|122||
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|** (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] ·  · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Page Count**|592|Tor hardback|
+|**Chapter Count**|66|Including prologue, epilogue, and postscript.|
+|**PoV Characters**|9||
+|**PoV Count**|122||
 
 
 
-https://es.coppermind.net/wiki/Elantris_(book)
+https://coppermind.net/wiki/Elantris_(book)

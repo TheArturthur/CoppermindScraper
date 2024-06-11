@@ -1,36 +1,11 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Victori**|
 |-|-|
-|**Ciudad**|[[Elendel\|Elendel]]|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**City**|[[Elendel\|Elendel]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Victori** es un fabricante de automóviles de [[Elendel\|Elendel]], en [[Scadrial\|Scadrial]]. En 348 [[Catacendro\|PC]], fue el primer fabricante de automóviles en lanzar un modelo descapotable al mercado. [[Call\|Call]] enseñó a [[Wayne\|Wayne]] una imagen del nuevo modelo; Wayne quería comprar uno, y también acordó comprar una participación del cinco por ciento en la compañía. Wayne sugirió que las estrellas de la liga de balonmorro que había propuesto condujesen los coches para promocionarlos.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 20:21, 25 April 2023 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+**Victori** is a carmaker in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. In 348 [[Catacendre\|PC]], they were the first carmaker to bring a convertible model to market. [[Call\|Call]] showed [[Wayne\|Wayne]] a picture of the new model; Wayne wanted to buy one, and he also agreed to buy a five percent stake in the company. Wayne suggested having the stars of his proposed [[Noseball\|noseball]] league drive the cars in order to promote them.
 
 
 
-https://es.coppermind.net/wiki/Victori
+https://coppermind.net/wiki/Victori

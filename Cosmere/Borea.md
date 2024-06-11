@@ -1,43 +1,24 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Borea**|
 |-|-|
-|**Capacidades**|[[Astilla\|Astilla]] de [[Honor\|Honor]]|
-|**Títulos**|Primera oficial|
-|**Especie**|[[Honorspren\|Honorspren]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Splinter\|Splinter]] of [[Honor\|Honor]]|
+|**Titles**|First mate|
+|**Species**|[[Honorspren\|Honorspren]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“* De veras es como dices. Una hoja esquirlada que no requiere un spren, no requiere esclavitud. esto es algo más. ¿Cómo lo conseguiste?*”
-\- Borea a Celeste sobre su hoja esquirlada[1]
-
-
-**Borea** es una [[Honorspren\|honorspren]] que sirve como primera oficial en el *[[Sendero de Honor\|Sendero de Honor]]*.
-Borea tiene algún tipo de encuentro con [[Sangre Nocturna\|Sangre Nocturna]] o ha oído de su paso por [[Integridad Duradera\|Integridad Duradera]]. En 1174, Borea estaba en el *Sendero de Honor* cuando tomaron a [[Sylphrena\|Sylphrena]] ay sus compañeros a bordo. [[Vivenna\|Celeste]] habló con Borea y le explicó que su arma era una [[Espada esquirlada\|espada esquirlada]] que no requería [[Spren\|spren]] para hacerse. Celeste le dijo a Borea que a cambio de devolverle su arma, información de [[Sangre Nocturna\|Sangre Nocturna]], y un eventtual pasaje a su destino, le explicaría a Borea cómo se había creado su arma. Borea desenvainó la hoja de Celeste y la investigó. Borea expresó su sorpresa por que Celeste tuviera una hoja esquirlada que no requería esclavitud y aceptó el trato.
-Como [[Notum\|Notum]], Borea lleva un uniforme almidonado y sin tonterías.
-
-## Curiosidades
-El nombre de Borea, como el de otros honorspren, deriva de una forma lingüística del mundo real relacionada con el viento. Específicamente, se llama así por , el antiguo dios griego del viento del norte.
+>“* It really is as you say. A Shardblade that requires no spren—no enslavement. This is something else. How did you do it?*”
+\- Borea to Azure on her Blade[1]
 
 
-## Notes
+**Borea** is an [[Honorspren\|honorspren]] who serves as the first mate of the ship *[[Honor's Path\|Honor's Path]]*.
+Borea had some sort of encounter with [[Nightblood\|Nightblood]] or had heard of his passage through [[Lasting Integrity\|Lasting Integrity]]. In 1174, Borea was on the *Honor's Path* when they took [[Sylphrena\|Sylphrena]] and her companions aboard. [[Vivenna\|Azure]] spoke to Borea and explained to her that her weapon was a [[Shardblade\|Shardblade]] that required no [[Spren\|spren]] to be made. Azure told Borea that in exchange for the return of her weapon, information on [[Nightblood\|Nightblood]], and eventual passage to her destination, she would explain to Borea how her weapon had been crafted. Borea drew Azure's Blade herself and was investigated by her. Borea expressed shock that Azure had a Shardblade that required no enslavement and agreed to the deal.
+Like [[Notum\|Notum]], Borea wears a stiff and no nonsense uniform.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 17:52, 24 November 2017 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+Borea's name, like that of a number of other honorspren, is derived from real-world linguistics related to the wind. Specifically, she is named for , the Ancient Greek god of the North Wind.
 
 
 
-https://es.coppermind.net/wiki/Borea
+
+https://coppermind.net/wiki/Borea

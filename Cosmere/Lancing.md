@@ -1,11 +1,11 @@
 |**Lancing**|
 |-|-|
-|**Mundo de origen**|[[Alornia\|Alornia]]|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
+|**World of Origin**|[[Alornia\|Alornia]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
 
 **Lancing** is the magic system in the [[State\|State]] of [[Alornia\|Alornia]]. It is usable by a single person, [[Kairominas\|Kairominas]], the [[Liveborn\|Liveborn]] emperor of Alornia. When Lancing, Kai's vision enters a state called Lancesight, and he can manipulate energy. While in the [[Maltese\|Maltese]], [[Sophie (Perfect State)\|Sophie]] uses hacking to allow Lancing to function, but instead of letting Kai manipulate energy, it only lets him absorb heat.
 
-## Sumario
+## Contents
 
 1 Powers and Abilities. [[#Powers and Abilities]] 
 
@@ -45,16 +45,6 @@ When Kai attempts to Lance, he absorbs heat rather than energy in general. He is
 ### Lancesight
 Kai's Lancesight has been altered as well, and now he can see heat being released by objects. When looking at Sophie, Kai notes that she looks like a "blazing source of energy." He also notes that he can see the movement of atoms, and as he absorbs heat, they slow and eventually stop moving altogether.
 
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 09:26, 16 June 2018 (MST)
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] ·  · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Lancing
+https://coppermind.net/wiki/Lancing

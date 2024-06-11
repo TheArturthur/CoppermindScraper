@@ -1,126 +1,104 @@
-
-
 |**Marasi Colms**|
 |-|-|
 ||
-|**Familia**|
-|**Cónyuge**|[[Allik Neverfar\|Allik Neverfar]]|
-|**Padres**|[[Jackstom Harms\|Jackstom Harms]]|
-|**Hermanos**|[[Steris Harms\|Steris Harms]]|
-|**Parientes**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]], [[Armal\|Armal]]|
-|**Capacidades**|[[/wiki/Cadmio#Uso alom.C3.A1ntico]]|
-|**Oficio**|Alguacil|
-|**Religión**|[[Supervivencialismo\|Supervivencialismo]]|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
+|**Family**|
+|**Spouse**|[[Allik Neverfar\|Allik Neverfar]]|
+|**Parents**|[[Jackstom Harms\|Jackstom Harms]]|
+|**Siblings**|[[Steris Harms\|Steris Harms]]|
+|**Relatives**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]], [[Armal\|Armal]]|
+|**Ancestors**|[[Spook\|Spook]]|
+|**Abilities**|[[/wiki/Cadmium#Allomantic Use]]|
+|**Profession**|Constable|
+|**Religion**|[[Survivorism\|Survivorism]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Este artículo necesita varias citasPor favor, añade referencias a capítulos u otras fuentes que expliquen estos datos.
->“*Tengo la teoría de que una dama no debería verse obligada jamás a recurrir a algo tan bárbaro como la violencia para conseguir sus objetivos. ¿No están de acuerdo? Así es. Una auténtica dama solo utiliza la amenaza de la violencia. Es mucho más civilizado.*”
-\-Marasi.[1]
-
-
-**Marasi Colms** es una [[Pulsador\|pulsadora]] de [[Scadrial\|Scadrial]]. Es alguacil en la comisaría de [[Elendel\|Elendel]], de la que se hace cargo el comisario-general [[Reddi\|Reddi]]. Anteriormente estudió derecho y es amiga de [[Wax\|Wax]], [[Wayne\|Wayne]] y [[MeLaan\|MeLaan]], entre otras figuras culturalmente importantes de la época.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Primeros a.C3.B1os]] 
-3. [[#Los desvanecedores]] 
-3. [[#Brazales de Duelo]] 
+> [!info] This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
+>“*I have a theory that a gentlewoman should never need to resort to something so barbarous as violence to achieve her goals. Wouldn’t you agree? Yes indeed. A true gentlewoman uses the threat of violence instead. So much more civilized.*”
+\-Marasi[2]
 
 
-4 Relaciones. [[#Relaciones]] 
+**Marasi Colms** is a [[Pulser\|Pulser]] on [[Scadrial\|Scadrial]]. Marasi is a constable in the [[Elendel\|Elendel]] constabulary under Constable-General [[Reddi\|Reddi]]. Marasi previously studied law and is a friend of [[Wax\|Wax]], [[Wayne\|Wayne]], and [[MeLaan\|MeLaan]], among other important cultural figures of the time.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Early Life]] 
+3. [[#The Vanishers]] 
+3. [[#The Bands of Mourning]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Waxillium Ladrian]] 
 4. [[#Steris Harms]] 
 
 
-5 Teorías de justicia criminal. [[#Teor.C3.ADas de justicia criminal]] 
+5 Criminal Justice Theories. [[#Criminal Justice Theories]] 
 6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
->“*Ser útil, aunque sea en un simple estallido de llama y sonido es mejor que toda una vida sin conseguir nada.*”
-\-Marasi.[4]
+>“*To be of use in even a single burst of flame and sound is worth more than a lifetime of achieving nothing.*”
+\-Marasi[5]
 
 
-Para más imágenes, ver [[Marasi Colms/Galer%C3%ADa\|/Galería]].
-Marasi es muy inteligente y juiciosa, pero se sonroja profundamente cuando se menciona cualquier cosa remotamente relacionada con el romance o la sexualidad.
-Escogió estudiar justicia legal y conducta criminal debido a su fascinación por la moralidad humana. Cree que la mayoría de la gente es buena por inercia, y que es lo que la sociedad espera de ellos. Por consiguiente le intriga la gente que destaca por ser mucho más o mucho menos moral que una persona promedio sin ningún motivo aparentemente claro. Conoce muchas curiosidades y estadísticas relativas al comportamiento criminal y a menudo las cita en momentos de tensión. Cuando está en shock por haber estado a punto de ser secuestrada, inmediatamente menciona que "7 de cada 10 secuestros pueden ser evitados con la resistencia apropiada por parte de la víctima".
-En contraste a su enfoque sensato del peligro, Marasi se avergüenza fácilmente a la hora de hablar de temas románticos o sexuales. En sus clases de anatomía en la universidad era muy popular observar sus reacciones a la hora de aprender acerca del cuerpo masculino. Se avergüenza de haber estudiado comportamiento criminal ya que no es considerado muy femenino. Cuando Wayne bromea diciendo que es atractiva, Marasi tartamudea y no sabe cómo contestar.
-A medida que va acompañando a Wax y Wayne, Marasi empieza a sentir algo por Wax. Aunque ella nunca expresa abiertamente sus sentimientos, Wax la rechaza sutilmente. Finalmente Wax se casa con Steris, la hermana de Marasi, mientras que esta última supera sus sentimientos románticos hacia Wax.
+For more images, see [[Marasi Colms/Gallery\|/Gallery]].
+Marasi is intelligent and level-headed, but blushes deeply whenever anything remotely involving romance or sexuality is brought up.
+She chooses to study legal justice and criminal behavioristics due to her fascination with human morality. She believes that most people are generally good by inertia, as that is what society expects them to be. Thus she is intrigued by the people who stand out as much more or less moral than average without any clear motivation to be. She knows many facts and statistics about criminal behavior and often cites them during times of distress. When she is in shock from almost being kidnapped, she immediately mentions that "7 out of 10 kidnappings can be foiled by appropriate resistance on the part of the target."
+In contrast to her level-headed approach toward danger, Marasi is easily embarrassed by romantic and sexual topics. In her anatomy class at university it was very common to watch her reactions when learning about the male body. She is embarrassed about studying criminal behavior in school as it is not considered very lady-like. Whenever Wayne jokes about her being attractive she stammers and does not properly reply.
+As she continues to follow Wax and Wayne, Marasi begins to have feelings for Wax. While she never openly admits them, Wax gently refuses her. Wax eventually marries her sister, Steris, while Marasi herself gets over the romantic feelings for Wax.
 
-## Atributos y habilidades
-Marasi es una pulsadora: tiene la habilidad alomántica de quemar [[Cadmio\|cadmio]] para ralentizar el tiempo en una burbuja a su alrededor. Ella considera que esta habilidad es prácticamente inutil, aunque reconoce haberla usado para hacer que eventos que esperaba ocurrieran antes. Está celosa de la habilidad de Wayne como deslizador ya que tiene muchas más aplicaciones prácticas que la suya. En la confrontación final con [[Miles Dagouter\|Miles Dagouter]], Marasi usó su habilidad de pulsadora para ralentizar el tiempo alrededor suyo y de Miles, permitiendo así que un gran grupo de alguaciles rodeara el lugar donde Miles estaba luchando contra Wax.
-Marasi ha demostrado que es muy buena disparando con rifles y es parte del club femenino de tiro de su universidad.
-Sabe hablar algo de [[Terrisano\|terrisano]] antiguo y entiende el [[Alto Imperial\|alto imperial]].
+## Attributes and Abilities
+Marasi is a Pulser, meaning that she has the ability to burn [[Cadmium\|cadmium]] to slow time down in a bubble around herself. She considers this ability to be practically useless, although she admits to having used it to make anticipated events come faster. She is jealous of Wayne's Slider ability as it has far more practical applications than her own. In the final confrontation with [[Miles Dagouter\|Miles Dagouter]], Marasi uses her Pulser ability to slow time down around herself and Miles, thus allowing a large group of constables to surround the place while Miles is fighting with Wax.
+Marasi has also shown that she is a very good shot with a rifle and is part of the ladies' target club at her university.
+She can speak some ancient [[Terris\|Terris]] and understands [[High Imperial\|High Imperial]].
 
-## Historia
+## History
  
-### Primeros años
->“*Yo me he pasado la mayor parte de mi vida escuchando decir amablemente que soy inútil. Inútil para mi padre por mi nacimiento; inútil como alomántica; inútil para Steris, ya que era un incordio.*”
-\-Marasi.[4]
+### Early Life
+>“*I have spent most of my life being politely told I was useless. Useless to my father because of my birth; useless as an Allomancer; useless to Steris, as I was an embarrassment.*”
+\-Marasi[5]
 
 
-Marasi Colms nació como hija ilegítima de [[Jackstom Harms\|Jackstom Harms]] y es hermanastra de [[Steris\|Steris]]. Durante la mayor parte de su infancia se le recordaba constantemente que era inútil para su familia, inútil como heredera debido a su ilegitimidad e inútil como alomante debido a los pocos usos de ralentizar el tiempo. Debido a esto, Marasi desarrolló un fuerte deseo de ser importante y sentirse realizada para poder sentirse menos inútil. También empezó a encontrar fascinantes a los criminales y a los protectores de la ley, lo que surgió de su interés por cómo una persona con un trasfondo normal puede convertirse en alguien mucho más o mucho menos moral que las personas de su alrededor. También sintió inspiración por las historias de las andanzas de Wax en [[Los %C3%81ridos\|los Áridos]]. Estos dos deseos culminaron en su decisión de ir a la universidad, de modo que se mudó a Elendel con el apoyo de su padre. Marasi, Steris y lord Harms ocultaron el carácter ilegítimo de Marasi haciéndola pasar por una prima de Steris que venía de los [[Estados Exteriores\|Estados Exteriores]].
-Marasi recibió una educación completa en la universidad, incluyendo clases de anatomía y medicina, antes de decidir centrarse en justicia legal y comportamiento criminal, especializándose en dinámicas de multitudes. Durante sus estudios, aprendió mucho más sobre Wax y Wayne basándose en la multitud de historias e informes que había acerca de ellos y los criminales que apresaban. También se unió al club femenino de tiro de la universidad y se convirtió en una gran tiradora con rifles, sintiendo que aquello era lo más cercano que iba a estar a tener una habilidad alomántica útil.
+Marasi Colms was born as the illegitimate child of [[Jackstom Harms\|Jackstom Harms]], making her a half sister to [[Steris\|Steris]]. Throughout her childhood, she was constantly reminded that she was useless to her family, useless as an heir due to her illegitimacy, and useless as an Allomancer due to the few uses for slowing down time. As a result, she developed a strong desire to be important and accomplished in the world. Marasi also came to be fascinated by criminals and lawkeepers, based on an interest in how a person from a normal background could grow up to be so much more or less moral than the people around them, and was inspired by stories about Wax's exploits in the [[Roughs\|Roughs]]. These two desires culminated in her deciding to study at a university in Elendel, so she moved to the city with the support of her father. She, Steris, and Lord Harms hid her illegitimacy by pretending that she was Steris's cousin from the [[Outer Estates\|Outer Estates]].
+She received a broad education at the university, including anatomy and medicine, before choosing to major in legal justice and criminal behavioristics, with a specialty in mob dynamics. During her studies, she learned much more about Wax and Wayne based on the many stories and reports about them and the criminals they had brought in. She also joined the ladies' target club at the university and became skilled at shooting rifles, feeling that was the closest she could get to having a more useful Allomantic ability.
 
-  Conociendo a Ojos de Hierro
-### Los desvanecedores
-Durante el último año de Marasi en la universidad, Wax y Wayne volvieron a Elendel para que Wax pudiera ocupar su puesto como gran señor de la casa Ladrian. Marasi convenció a su padre para que le permitiera acompañarlos a él y a Steris a negociar un posible matrimonio entre Steris y Wax. Junto a Wax, Wayne, Steris y su padre, asistió al [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]], donde estuvo preguntando a Wax y Wayne acerca de sus días en los Áridos, sorprendiéndolos con sus brillantes ideas. Por desgracia, los [[Desvanecedores\|desvanecedores]] asaltaron el evento y secuestraron a Steris. También intentaron secuestrar a Marasi, pero ésta se resistió, dando a Wax una oportunidad para ayudar a salvarla. Ella a su vez le devolvió el favor disparando a dos desvanecedores con un rifle cuando éstos estaban amenazando a Wax.
-Marasi asistió a Wax en su investigación sobre los desvanecedores, ayudándole a darse cuenta del verdadero motivo detrás de la elección de las mujeres que estaban siendo secuestradas, y acompañó a Wax y Wayne en la búsqueda de la banda. Estuvo presente en el enfrentamiento final en el escondite de los desvanecedores, donde volvió a utilizar su rifle para obtener una ventaja durante la pelea. Fue momentáneamente capturada por Miles, pero Wax la salvó. Su habilidad como pulsadora fue crucial en la captura de Miles: mantuvo a todos en una burbuja de ralentización mientras Wax lo distraía, lo que dio a Wayne el tiempo suficiente para ir en busca de refuerzos. Tras la pelea, estuvo a punto de expresar los sentimientos que había empezado a sentir por Wax, quien vio por dónde estaba yendo la conversación y la rechazó amablemente por el bien de ambos. Marasi decidió asistir a la ejecución de Miles, pese a ser grotesca. Después de la ejecución, [[Marsh\|Marsh]] la apartó de los demás y le dio el libro que [[Fantasma\|Fantasma]] había escrito acerca de la [[Hemalurgia\|hemalurgia]], junto con instrucciones de entregárselo a Wax.
-Tras estos eventos, Marasi se hizo alguacil bajo el mando del comisario general [[Claude Aradel\|Claude Aradel]], contratada como ayudante y analista. Cuando Aradel fue elegido gobernador de [[Elendel\|Elendel]], el comisario general [[Reddi\|Reddi]], con quien Marasi no mantenía una buena relación, finalmente dejó de ser desagradable con ella y la aceptó como alguacil de pleno derecho.
+  Meeting Ironeyes
+### The Vanishers
+During Marasi's final year at the university, Wax and Wayne returned to Elendel so that Wax could take his place as the high lord of House Ladrian. She convinced her father to let her accompany him and Steris to discuss a possible marriage between Steris and Wax. Along with Wax, Wayne, Steris, and her father, she attended the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]], where she eagerly asked Wax and Wayne about their time in the Roughs and impressed them with her insights. Unfortunately, the [[Vanishers\|Vanishers]] attacked the party and kidnapped Steris; they also attempted to kidnap Marasi, but she resisted, giving Wax a chance to help rescue her, and she returned the favor by shooting two Vanishers with a rifle when they were threatening Wax.
+Marasi assisted Wax during his initial investigation of the Vanishers, helping him realize the true reason for the specific women they were abducting, and continued to stay with him and Wayne as they tracked down the group. She was present at the final confrontation in the Vanisher hideout, where she used her rifle to good effect again during the fight. She was briefly captured by Miles, but Wax got her free. Her ability as a Pulser was critical in ultimately capturing Miles: she kept all of them in a slowness bubble while Wax distracted him, giving Wayne time to go out and return with a large force of constables. After the fight, she very nearly expressed the romantic feelings she had been developing for Wax, who saw where she was going and gently turned her down for both of their sakes. She chose to attend Miles's execution, gruesome though it was; after it was done, she was pulled aside by [[Marsh\|Marsh]], who gave her [[Spook\|Spook's]] book on [[Hemalurgy\|Hemalurgy]] and an instruction to deliver it to Wax.
+Afterwards, she became a constable serving under Constable-General [[Claude Aradel\|Claude Aradel]] as a crime analyst. After Aradel was elected governor of [[Elendel\|Elendel]] , Constable-General [[Reddi\|Reddi]], whom Marasi was not on good terms with, finally stopped being bitter toward her and accepted her as a constable in her own right.
 
  
-### Brazales de Duelo
-Después de la primera ceremonia de nupcias entre su hermana y Waxillium, Marasi aceptó una misión del [[Kandra\|kandra]] [[VenDell\|VenDell]] de parte de [[Armon%C3%ADa\|Armonía]] que consistía en ir a [[Nueva Seran\|Nueva Seran]] para recuperar el clavo perdido del kandra [[ReLuur\|ReLuur]], quien había vuelto de una misión de investigación en la zona habiendo perdido el clavo en sospechosas circunstancias. VenDell también encargó a Marasi buscar los [[Brazales de Duelo\|Brazales de Duelo]], los cuales ReLuur había estado investigando. Marasi viajó a Nueva Seran con Waxillium, Steris, Wayne y MeLaan. De camino, la [[Banda de los Nocturnos\|Banda de los Nocturnos]] atacó el tren en el que viajaba el grupo, y Marasi participó en la batalla que siguió. Utilizando la alomancia y sus habilidades con el rifle, fue una pieza esencial para salvar las vidas de los pasajeros del tren y la del propio Wax. Al llegar a Nueva Seran, ella y Wayne se pusieron a investigar el paradero del clavo de ReLuur. La información que obtuvieron los llevó, junto con Wax y Steris, a la base del [[El Grupo\|Grupo]] en [[Dulsing\|Dulsing]]. Durante el asalto a la base, Marasi y MeLaan se infiltraron en el estudio del [[Irich\|profesor Irich]] y encontraron el clavo de ReLuur junto con varios medallones en una caja fuerte. Marasi también descubrió a [[Allik Nuncalejos\|Allik Nuncalejos]] preso en una celda en una habitación adyacente. Ignorando la recomendación de MeLaan, Marasi liberó a Allik y los tres se unieron a la batalla en la sala principal entorno a la nave [[Scadriano del sur\|scadriana del sur]] *[[Brunstell\|Brunstell]]*. Marasi luchó utilizando una granada alomántica, pero recibió un disparo en el abdomen durante la pelea. Todo el grupo se refugió dentro del encallado *Brunstell*, y Marasi convenció a los demás de seguir a Allik hasta *[[Wilg\|Wilg]]*. Mientras escapaban a bordo del *Wilg*, MeLaan operó a Marasi utilizando sus habilidades kandra. Debido a un malentendido, Marasi pensó que estaba muriendo durante este intercambio. Tras recuperar a Steris, que no había participado en el asalto, el grupo partió hacia el [[Templo del Soberano\|templo del Soberano]]. Durante el viaje, Marasi habló con Allik sobre su gente y su tecnología.
-Una vez llegaron al templo, Marasi se quedó en la entrada haciendo guardia con Wayne y Steris mientras los demás lidiaban con las trampas. En este rato mantuvo una buena conversación con Steris. Cuando el señor Conjunto y el Grupo llegaron, Marasi y los demás entraron en la cámara donde se suponía que estaban los Brazales de Duelo. Marasi fue capturada cuando Telsin y Conjunto atacaron al grupo. Mientras esperaba sentada fuera del templo estando apresada por el Grupo, se dio cuenta de que la punta de lanza que llevaba en el bolso eran los auténticos Brazales de Duelo. Marasi decantó el inmenso poder de los Brazales y lo usó para liberarse, atacar a los guardias y localizar y resucitar a Waxillium bajo el templo. Después dio a Wax los Brazales y volvió a Elendel con los demás.
+### The Bands of Mourning
+Following the wedding of her sister to Waxillium, Marasi accepted a mission from the [[Kandra\|kandra]] [[VenDell\|VenDell]] on behalf of [[Harmony\|Harmony]] to go to [[New Seran\|New Seran]] to recover the missing spike of the kandra [[ReLuur\|ReLuur]] who had returned from a research mission in the area after losing the spike in suspicious circumstances. VenDell also tasked Marasi to look for the [[Bands of Mourning\|Bands of Mourning]], which ReLuur had been investigating. Marasi traveled to New Seran with Waxillium, Steris, Wayne and MeLaan. Enroute the [[Nightstreet Gang\|Nightstreet Gang]] attacked the train the group was traveling on and Marasi participated in the battle that followed. Using Allomancy and her skills with a rifle she was instrumental in saving the lives of passengers on the train and Waxillium. Upon arriving in New Seran, she and Wayne investigated the whereabouts of ReLuur's spike. The information they gleaned led them, along with Wax and Steris, to the Set's base in [[Dulsing\|Dulsing]]. During the raid on the base, Marasi and MeLaan broke into [[Irich\|Professor Irich's]] study and recovered ReLuur's spike as well as several medallions from a safe. Marasi also discovered [[Allik Neverfar\|Allik Neverfar]] being held hostage in a cage in an adjacent room. Against MeLaan's advice, Marasi freed Allik and the three of them joined the battle in the main room around the crashed [[Southern Scadrian\|Southern Scadrian]] airship *[[Brunstell\|Brunstell]]*. Marasi fought using the Allomantic grenade, but was shot in the abdomen in the fight. Marasi and the others took refuge inside of the wrecked *Brunstell* and Marasi convinced the others to follow Allik to *[[Wilg\|Wilg]]*. As the group was escaping aboard *Wilg*, MeLaan performed surgery on Marasi using her kandra abilities. Due to a miscommunication, Marasi thought she was dying during this exchange. After recovering Steris, who had not participated in the raid, the group set off for the [[Sovereign's temple\|Sovereign's temple]]. During the journey, Marasi spoke with Allik about his people and their technology. 
+Upon arriving at the Temple Marasi kept guard at the entrance with Wayne and Steris while the others dealt with the traps. During this time she had a good conversation with Steris. After Mister Suit and the Set arrived, she and the others entered the chamber where the Bands of Mourning supposedly were. Marasi was captured when Telsin and Suit attacked the group. As she sat outside the temple some time later as a captive of the Set, she realized that the spear point in her purse was actually the Bands of Mourning. Marasi tapped the immense power of the Bands and used them to free herself, attack the guards, and locate and revive Waxillium beneath the temple. She then gave Wax the Bands and returned to Elendel with the others.
 
-## Relaciones
+## Relationships
 ### Waxillium Ladrian
-Mientras estudiaba en la universidad, Marasi leyó muchas de las historias de Wax y Wayne, y llegó a admirarlos como a héroes casi legendarios. Cuando conoció a la pareja en persona, quedó impresionada e intentó demostrar su potencial a Wax y descubrir tanto como pudiera acerca de los sucesos reales que había detrás de las historias, aunque muchas de sus impresiones idealistas se destruyeron por el camino. A su vez, Marasi impresionó a Wax con su conocimiento y su habilidad para mantener la calma bajo presión. Desarrolla una fuerte atracción hacia Wax, y él también lidia con ciertos sentimientos hacia ella, pero al final decide que su historia personal y su deber para con su casa significan que debe proseguir su boda con Steris y distanciarse de Marasi.
+While studying in university, she reads many of the stories surrounding Wax and Wayne, and comes to look up to them as almost legendary heroes. After meeting the pair in person, she is starstruck and becomes eager to prove herself to Wax and find out as much as she can about the real events behind all the stories, though she has many of her idealistic impressions destroyed along the way. She impresses Wax in turn with her knowledge and ability to act cool under pressure. She develops a strong attraction to Wax; he grapples with feelings of his own for her, but he ultimately decides that his personal history and duty to his house mean that he must proceed with his marriage to Steris and distance himself from Marasi.
 
-  Con <<Steris\|Steris>>
-Durante un tiempo, Wax se muestra algo despectivo con Marasi, pensando que aún se siente atraída por él y minusvalorando las habilidades de ésta para combatir el crimen. Como resultado, Marasi desarrolla cierto resentimiento hacia él, que se disipa conforme trabajan más juntos y también por la intervención del propio Armonía. Aun así, Marasi sigue sintiéndose a la sombra de los logros de Wax. Pese a sus sentimientos hacia Wax, en ocasiones complicados, Marasi sigue siendo capaz de respetarlo y trabajar bien junto a él.
+  With <<Steris\|Steris>>
+For a while afterward, Wax is somewhat dismissive of Marasi, thinking that she is still attracted to him and undervaluing her crime-fighting abilities, and she develops a certain resentment toward him as a result. That fades as they work together more, and after Harmony himself chides Wax about it, but she continues to feel overshadowed by him and his accomplishments. Despite her often-complicated feelings regarding Wax, she remains able to respect him and work together well with him.
 
 ### Steris Harms
-Marasi es la hermanastra ilegítima de [[Steris\|Steris]] por parte de lord Harms. Marasi y Steris no son particularmente cercanas, puesto que han crecido separadas. De hecho, Steris no supo de la existencia de Marasi hasta que fueron adolescentes. Pese a las diferencias en su educación y en su estatus social, Marasi no siente ninguna envidia hacia Steris. Tal y como le sucede a otra gente, a Marasi a veces le cuesta resistir su impulso de provocar a Steris y hacer que se sienta incómoda, aunque se siente culpable cuando lo hace. Mientras están en el templo de los Brazales de Duelo, Steris se abre a Marasi y le revela su amor por Wax. Al compartir este momento emotivo, Marasi reevalúa cómo piensa acerca de Steris en particular y de la gente en general.
+Marasi is [[Steris Harms\|Steris's]] illegitimate half sister by Lord Harms. Marasi and Steris are not particularly close, having grown up separately -- in fact, Steris doesn't even find out about Marasi until they are teenagers -- but Marasi also doesn't feel any envy for Steris, despite the difference in their upbringings and social status. Like many, she does sometimes find it difficult to resist the urge to provoke Steris into feeling uncomfortable, though she feels guilty after doing so. While at the temple containing the Bands of Mourning, Steris briefly opens up to Marasi about her love for Wax, and they share an emotional moment, causing Marasi to deeply reevaluate how she thinks about Steris in particular and people in general.
 
-## Teorías de justicia criminal
-Marasi tiene muchas teorías acerca del comportamiento criminal y de la justicia de las que habla con Wax a lo largo del tiempo que pasa con él. Algunas de ellas son:
+## Criminal Justice Theories
+Marasi has many theories on criminal behavior and justice that she talks about with Wax throughout her time with him.
 
-Pese a su reputación de civilizada, Elendel en realidad tiene la mitad de guardias por población que en los Áridos, habiendo muchos más asesinatos y pequeños delitos sin resolver.
-La teoría de las ventanas rotas: La mejor manera de disminuir el crimen en un área es a través de la renovación. Es más probable que una persona rompa una ventana si ve ventanas rotas a su alrededor.
-Desviaciones: Cuando se explora la escena de un crimen, encontrar las desviaciones de los patrones típicos y descubrir porqué se dan esas desviaciones normalmente darán información acerca de los criminales.
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] ·  · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+Despite its civilized reputation, Elendel actually only has half as many lawkeepers per capita as the Roughs, and there are more unsolved murders and petty crimes.
+Broken Windows theory: The best way to lower crime in an area is through renovation. A man is more likely to break a window if he sees broken windows around him.
+Deviations: When exploring a crime scene, finding the deviations from typical patterns, then finding out why they deviated will often yield something on the criminals.
 
 
-
-https://es.coppermind.net/wiki/Marasi
+https://coppermind.net/wiki/Marasi

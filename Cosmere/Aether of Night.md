@@ -1,54 +1,34 @@
-
-
 |***Aether of Night***|
 |-|-|
-|**Localización**|[[Cosmere\|Cosmere]]🐱︎|
+|**Setting**|[[Cosmere\|Cosmere]]|
 
-***Aether of Night*** es una novela inédita y no canon del [[Cosmere\|Cosmere]]. También es la décima novela escrita por [[Brandon Sanderson\|Brandon Sanderson]].
+***Aether of Night*** is an unpublished, non-canon [[Cosmere\|cosmere]] novel. It is also the tenth novel written by [[Brandon Sanderson\|Brandon Sanderson]].
 
-## Sumario
+## Contents
 
-1 Trama. [[#Trama]] 
-2 Historia de la publicación. [[#Historia de la publicaci.C3.B3n]] 
+1 Plot. [[#Plot]] 
+2 Publication History. [[#Publication History]] 
 
-2. [[#Versi.C3.B3n original]] 
-2. [[#Posible reescritura]] 
-
-
-3 Notas del traductor. [[#Notas del traductor]] 
-4 Notas. [[#Notas]] 
+2. [[#Original Version]] 
+2. [[#Potential Rewrite]] 
 
 
-## Trama
-El libro comienza con un personaje llamado Raeth que es el hijo mayor del emperador del Imperio, pero debido a que su éter es débil su hermano gemelo menor Hern fue elegido como heredero y él es seleccionado para ser un Dari, un tipo de sacerdote. Cuando la primera oleada de olvidados mata a su padre y a su hermano gemelo y heredero Hern, asume el papel de Hern para mantener el orden en el Imperio. Se ve obligado a enfrentarse a los errores cometidos por su hermano e intentar ganar una guerra contra un enemigo desconocido e increíblemente poderoso. Debe enfrentarse al senado y a los miembros del consejo de guerra a los que Hern ofendió para intentar ganar la guerra contra los olvidados. También debe mantener su identidad en secreto porque será ejecutado si alguien descubre que se hacía pasar por emperador. Raeth debe elegir una mujer para casarse y lidiar con las pretendientes que compiten activamente por su mano. Durante la lucha de la primera batalla contra los olvidados, le toca una gota del estanque de los olvidados que fortalece su éter y hace que aparezca una misteriosa voz en su cabeza. "Éter" era un término utilizado como parte del sistema mágico.
+3 Notes. [[#Notes]] 
 
-## Historia de la publicación
-### Versión original
-La versión original del libro fue abandonada, ya que Brandon consideraba que no conseguía un tono coherente entre los aspectos de comedia casi shakesperiana y la destrucción total del mundo. Como resultado, se incorporaron elementos en obras posteriores, como que "Decay" se convierta en la [[Esquirla\|Esquirla]] [[Ruina\|Ruina]] en la [[Nacidos de la bruma (saga)\|saga de Nacidos de la bruma]]. También se intentó adaptar los éteres en *[[The Liar of Partinel\|The Liar of Partinel]]*, pero se abandonó. Brandon también ha mencionado la incorporación de un personaje llamado Darro en una posible secuela de *[[El aliento de los dioses\|El aliento de los dioses]]* llamada *[[Nightblood (libro)\|Nightblood]]* (Sangre Nocturna).
-Dado que es poco probable que la versión preliminar de *Aether of Night* se publique alguna vez, el equipo de Brandon solía enviar una copia a las personas que la solicitaban por correo electrónico, siempre que se comprometieran a no compartirla ni discutirla en foros públicos. A partir de julio de 2017, Brandon cedió el archivo a la  para que lo distribuyera. Ellos enviarán el archivo después de que se solicite; sin embargo, la espera puede seguir siendo de varias semanas debido a la gran demanda.
 
-### Posible reescritura
-Sigue siendo posible que el libro se publique de alguna forma, pero sería una reescritura completa. Brandon ha mencionado que la mecánica general del sistema de magia se mantendría. Una sustancia llamada "[[%C3%89ter\|éter]]" apareció en *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]* y los éteres han sido introducidos de lleno en *[[El metal perdido\|El metal perdido]]*, dejando la puerta abierta para que la historia tenga lugar en el [[Cosmere\|Cosmere]], y Brandon sigue incluyéndola como una obra del Cosmere en sus posts anuales sobre el [[State of the Sanderson\|State of the Sanderson]]. Sin embargo, no está en la lista de prioridades, ya que la historia quedaría fuera de la serie "principal" del Cosmere.
+## Plot
+The book begins with a character named Raeth who is the eldest son of the emperor of the Imperium but because his aether is weak his younger twin brother Hern was chosen as heir and he was chosen to be a Dari, a form of priest. After the first wave of Forgotten kills both his father and his younger twin brother Hern who is the heir he assumes Hern's persona to keep order in the Imperium. He is forced to confront the mistakes that Hern made and try to win a war against an unknown and incredibly powerful foe. He must contend with the senate as well as those on the war council who Hern offended to try and win the war against the forgotten. He also must keep his identity secret because he will be executed if anyone finds out that he was impersonating an emperor. Raeth must also choose a bride to marry and deal with the brides who are actively competing for his hand. During the struggle of the first battle with the forgotten, he gets touched with a drop from the pool of the forgotten which both strengthens his aether and makes a mysterious voice in his head appear."Aether" was a term used as part of the magic system.
 
-## Notas del traductor
+## Publication History
+### Original Version
+The original version of the book was abandoned, as Brandon felt that it didn't strike a consistent tone between the almost Shakespearean comedy aspects and the utter destruction of the world. As a result, elements were incorporated into later works, such as "Decay" becoming the [[Shard\|Shard]] [[Ruin\|Ruin]] in the [[Mistborn series\|Mistborn series]]. An attempt was also made to adapt the aethers into *[[The Liar of Partinel\|The Liar of Partinel]]*, but that was abandoned. Brandon has also mentioned incorporating a character named Darro into a potential *[[Warbreaker\|Warbreaker]]* sequel named *[[Nightblood (book)\|Nightblood]]*.
+Since the draft version of *Aether of Night* is unlikely ever to be published, Brandon's team used to send a copy to people who requested it via email, provided that they agreed not to share it or discuss it on public forums. As of July 2017, Brandon gave the file to the  to distribute. They will send out the file after it is requested; however, the wait can still be several weeks due to high demand.
 
-## Notas
-
-Este meta-artículo está completo y ha sido revisado.Big Smooth (talk) 20:42, 21 August 2019 (UTC)
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+### Potential Rewrite
+It remains likely that an aether-centric book or series will be published in some form, but it would be a complete rewrite. Brandon has mentioned that the general mechanics of the magic system would be retained.
+A substance called "[[Aether\|aether]]" appeared in *[[Oathbringer\|Oathbringer]]*, and in *[[Rhythm of War\|Rhythm of War]]*, leaving the door open for the story to take place in the [[Cosmere\|cosmere]]. Aethers were then fully introduced in *[[The Lost Metal\|The Lost Metal]]*, with the character [[Prasanva\|Prasanva]] actively using aether magic. Brandon also canonized the name of the aether home planet, [[Dhatri\|Dhatri]].
+Brandon continues to list an aether series in his annual [[State of the Sanderson\|State of the Sanderson]] posts. The appearance of an [[Aetherbound\|aetherbound]] in *The Lost Metal* as well as the presence of [[Aether spores\|aether spores]] in *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]* indicate that Brandon remains interested in expanding on his original concepts from *Aether of Night*. However, this work is not high on his priority list, since aether stories fall outside of the "main" cosmere series.
 
 
 
-https://es.coppermind.net/wiki/Aether_of_Night
+https://coppermind.net/wiki/Aether_of_Night

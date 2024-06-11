@@ -1,23 +1,21 @@
-
-
 |**Aon**|
 |-|-|
-|**Relacionado con**|[[AonDor\|AonDor]]|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[AonDor\|AonDor]]|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de la edición 10º Aniversario de *[[Elantris (libro)\|Elantris]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for the 10th Anniversary Edition of *[[Elantris (book)\|Elantris]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Los **aones** forman un sistema de escritura utilizado por los pueblos [[A%C3%B3nico\|aónicos]] de [[Arelon\|Arelon]] y [[Teod\|Teod]] en el planeta [[Sel\|Sel]]. Este sistema es logográfico, lo que significa que los aones representan palabras y significados (logogramas), al contrario que ocurre en un alfabeto en el que se representan los sonidos. En contraposición a la mayoría de sistemas de escritura, los aones no se inventaron sino que ya existían y fueron descubiertos por un antiguo [[Elantrino\|elantrino]] a base de prueba y error.
-Además, los aones sirven como foco para el sistema de magia utilizado por los [[Elantrino\|elantrinos]] denominado [[AonDor\|AonDor]]. Esto, presumiblemente, habría servido en su día como estimulo a la hora de descubrir nuevos aones.
-Todos los aones se denominan "Aon inserte el nombre aquí", como Aon Rao o Aon Ene. Son disílabas con dos vocales abiertas.
-También es posible combinar los aones, lo que fortalece los poderes o los mezcla. No obstante, es increíblemente difícil combinar o transformar aones con otros tipos de [[Investidura\|Investidura]]. Se especula que esto se debe a que los aones, hasta la fecha, dependen en gran medida de la geografía a la hora de extraer su poder, y por lo tanto tendrían que recrearse completamente si se quieren utilizar en cualquier otra parte que no sea Arelon y sus zonas cercanas.
-Existe un [[Seon\|seon]] para cada Aon, el cual reluce visiblemente en el corazón del primero. Sabemos que hasta el momento no se ha desvelado la totalidad de los aones.
-Todos los aones tienen su base en el Aon Aon, el cual a su vez está inspirado en la forma geográfica de Arelon. La línea recta horizontal en la parte superior representa el litoral septentrional de Arelon. La curva en su lado derecho, las [[Monta%C3%B1as Atad\|montañas Atad]]. El punto en el centro, el [[Lago Alonoe\|lago Alonoe]]. Todos los aones listados abajo son anteriores al [[Reod\|Reod]] y por tanto quedaron incompletos ya que la línea que representaría el «abismo» en la parte inferior derecha del aon no estaba presente.
+**Aons** are a writing system used by the [[Aonic\|Aonic]] peoples of [[Arelon\|Arelon]] and [[Teod\|Teod]] on [[Sel\|Sel]]. They are logographic, meaning they represent words and meanings, as opposed to an alphabet which represents sounds. Instead of being an invented system like most scripts, the Aons already existed and were discovered by an ancient [[Elantrian\|Elantrian]] through trial and error.
+Aons also serve as the focus for the magic system [[AonDor\|AonDor]] used by [[Elantrian\|Elantrians]]. This, presumably, served as the impetus for the discovering of new Aons.
+Aons are all referred to as “Aon insert name here” such as Aon Rao or Aon Ene. They are disyllabic with two hard vowels.
+It is also possible to combine Aons, resulting in strengthened or combined powers. However, it is incredibly difficult to combine or convert Aons with other types of [[Investiture\|Investiture]]. This is speculated to be because Aons rely so heavily on geography for their power, and would therefore have to be completely recreated in order to be used anywhere other than Arelon and surrounding areas.
+There is one [[Seon\|Seon]] for each Aon, which glows visibly at the Seon's core. Not all Aons have been revealed.
+All Aons are based on Aon Aon, which itself was based off the shape of Arelon. The straight horizontal line at the top represented the northern coastline; the curve to the right, the [[Atad Mountains\|Atad Mountains]]; the dot in the center, [[Lake Alonoe\|Lake Alonoe]]. All Aons shown below are pre-[[Reod\|Reod]] and are thus incomplete since the chasm line to the bottom right of the Aon is not present.
 
-## Sumario
+## Contents
 
-1 Aones Conocidos. [[#Aones Conocidos]] 
+1 Known Aons. [[#Known Aons]] 
 
 1. [[#Aon]] 
 1. [[#Aan]] 
@@ -84,13 +82,12 @@ Todos los aones tienen su base en el Aon Aon, el cual a su vez está inspirado e
 1. [[#Toa]] 
 
 
-2 Curiosidades. [[#Curiosidades]] 
-3 Notas del traductor. [[#Notas del traductor]] 
-4 Notas. [[#Notas]] 
+2 Trivia. [[#Trivia]] 
+3 Notes. [[#Notes]] 
 
 
 
-## Aones Conocidos
+## Known Aons
 ### Aon
 
 
@@ -99,11 +96,11 @@ Todos los aones tienen su base en el Aon Aon, el cual a su vez está inspirado e
 
 
 
->“*Primero, lenguaje*”
+>“*First, Language*”
 \-Ars Arcanum
 
-Este aon sirve como punto de partida para el resto de los aones.
-*Ejemplos:* AonDor, aónico.
+This Aon serves as the starting point for all other Aons.
+*Examples:* AonDor, Aonic
 
 ### Aan
 
@@ -113,10 +110,10 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Verdad, hecho*”
+>“*Truth, Fact*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Aanden\|Aanden]], [[Taan\|Taan]]
+*Examples:* [[Aanden\|Aanden]], [[Taan\|Taan]]
 
 ### Aeo
 
@@ -126,10 +123,10 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Valentía*”
+>“*Bravery*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Aeo\|Aeo]], [[Graeo\|Graeo]]
+*Examples:* [[Aeo\|Aeo]], [[Graeo\|Graeo]]
 
 ### Aha
 
@@ -139,10 +136,10 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Aliento, aire*”
+>“*Breath, Air*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Ahan\|Ahan]], [[Dahad\|Dahad]], [[Kahar\|Kahar]], Plantación Aha
+*Examples:* [[Ahan\|Ahan]], [[Dahad\|Dahad]], [[Kahar\|Kahar]], Aha Plantation
 
 ### Ake
 
@@ -152,10 +149,10 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Dirección oeste*”
+>“*The Direction West*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Ake\|La ciudad de Ake]]
+*Examples:* [[Ake\|The City of Ake]]
 
 ### Ala
 
@@ -165,13 +162,13 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Belleza, apostura*”
+>“*Beauty, Handsomeness*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Meala\|Meala]], [[Seinalan\|Seinalan]]
+*Examples:* [[Meala\|Meala]], [[Seinalan\|Seinalan]]
 
 ### Aor
-*Ejemplos:* Plantación de Aor
+*Examples:* Aor Plantation
 
 ### Are
 
@@ -181,10 +178,10 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Unidad, cohesión*”
+>“*Unity, Cohesion*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Arelon\|Arelon]], [[Aredel\|Aredel]], [[Maare\|Maare]], [[Waren\|Waren]], Plantación Are
+*Examples:* [[Arelon\|Arelon]], [[Aredel\|Aredel]], [[Maare\|Maare]], [[Waren\|Waren]], Are Plantation
 
 ### Ashe
 
@@ -194,11 +191,11 @@ Este aon sirve como punto de partida para el resto de los aones.
 
 
 
->“*Luz, iluminación*”
+>“*Light, Illumination*”
 \-Ars Arcanum
 
-Cuando se dibuja correctamente el Aon Ashe, este emitirá una luz brillante pero sin calor, suficiente para iluminar una habitación grande. La mayoría de las habitaciones en Elantris tienen placas de metal en las que está inscrito el Aon Ashe, y su brillo será mayor y más constante que el de cualquier farol.
-*Ejemplos:* [[Ashe\|Ashe]], [[Dashe\|Dashe]]
+Aon Ashe, when drawn correctly, will emit a bright light, without heat, that is enough to illuminate a large room. Most rooms in Elantris had metal plates inscribed with Aon Ashe that would glow brighter and more steadily than any lantern.
+*Examples:* [[Ashe\|Ashe]], [[Dashe\|Dashe]]
 
 ### Ata
 
@@ -208,17 +205,17 @@ Cuando se dibuja correctamente el Aon Ashe, este emitirá una luz brillante pero
 
 
 
->“*Delicadeza, tersura*”
+>“*Grace, Smoothness*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Karata\|Karata]], Montañas Atad, [[Atara\|Atara]], Plantación Ata
+*Examples:* [[Karata\|Karata]], Atad Mountains, [[Atara\|Atara]], Ata Plantation
 
 ### Ate
->“*Silencio*”
-\-Deducido a partir de material eliminado
+>“*Silence*”
+\-Inferred from deleted material
 
-Este aon tiene la habilidad de «hacer que una habitación se quedé completamente en silencio durante un corto período de tiempo».
-*Ejemplos:*
+This Aon has the ability to "make a room go completely silent for a short time."
+*Examples:*
 
 ### Ati
 
@@ -228,10 +225,10 @@ Este aon tiene la habilidad de «hacer que una habitación se quedé completamen
 
 
 
->“*Esperanza*”
+>“*Hope*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Matisse\|Matisse]]
+*Examples:* [[Matisse\|Matisse]]
 
 ### Ato
 
@@ -241,10 +238,10 @@ Este aon tiene la habilidad de «hacer que una habitación se quedé completamen
 
 
 
->“*La dirección norte*”
+>“*The Direction North*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Ato\|La ciudad de Ato]]
+*Examples:* [[Ato\|The City of Ato]]
 
 ### Daa
 
@@ -254,11 +251,11 @@ Este aon tiene la habilidad de «hacer que una habitación se quedé completamen
 
 
 
->“*Poder, energía*”
+>“*Power, Energy*”
 \-Ars Arcanum
 
-El Aon Daa es el arma ofensiva preferida por los elantrinos. Una vez trazado con éxito, emite una ráfaga de luz que deforma y retuerce el aire a su alrededor. Cuando esta ráfaga luminosa golpea en su objetivo lo hace con una fuerza explosiva considerable.
-*Ejemplos:* Plantación Daa
+Aon Daa is the preferred offensive weapon of the Elantrians. When drawn successfully, a burst of light is emitted that warps and twists the air around it. The light then strikes its target with considerable explosive force.
+*Examples:* Daa Plantation
 
 ### Dao
 
@@ -268,10 +265,10 @@ El Aon Daa es el arma ofensiva preferida por los elantrinos. Una vez trazado con
 
 
 
->“*Estabilidad, seguridad*”
+>“*Stability, Security*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Daora\|Daora]], [[Daorn\|Daorn]]
+*Examples:* [[Daora\|Daora]], [[Daorn\|Daorn]]
 
 ### Deo
 
@@ -281,10 +278,10 @@ El Aon Daa es el arma ofensiva preferida por los elantrinos. Una vez trazado con
 
 
 
->“*Oro, metal*”
+>“*Gold, Metal*”
 \-Ars Arcanum
 
-*Ejemplos:* [[/wiki/Arelon#Deo]], [[Plantaci%C3%B3n Deo\|Plantación Deo]]
+*Examples:* [[/wiki/Arelon#Deo]], [[Deo Plantation\|Deo Plantation]]
 
 ### Dii
 
@@ -294,11 +291,11 @@ El Aon Daa es el arma ofensiva preferida por los elantrinos. Una vez trazado con
 
 
 
->“*Madera*”
+>“*Wood*”
 \-Ars Arcanum
 
-Este aon incluye algunos círculos que representan bosques situados en el sur de Arelon.
-*Ejemplos:*
+This Aon includes several circles that represent forests in the south of Arelon.
+*Examples:*
 
 ### Dio
 
@@ -308,10 +305,10 @@ Este aon incluye algunos círculos que representan bosques situados en el sur de
 
 
 
->“*Firme, inamovible*”
+>“*Steadfast, Immovable*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Dio\|Dio]], [[Diolen\|Diolen]], [[Dion\|Dion]], [[Dionia\|Dionia]]
+*Examples:* [[Dio\|Dio]], [[Diolen\|Diolen]], [[Dion\|Dion]], [[Dionia\|Dionia]]
 
 ### Eda
 
@@ -321,10 +318,10 @@ Este aon incluye algunos círculos que representan bosques situados en el sur de
 
 
 
->“*Superioridad, altanería*”
+>“*Superior, Lofty*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Edan\|Edan]]
+*Examples:* [[Edan\|Edan]]
 
 ### Edo
 
@@ -334,11 +331,11 @@ Este aon incluye algunos círculos que representan bosques situados en el sur de
 
 
 
->“*Protección, seguridad*”
+>“*Protection, Safety*”
 \-Ars Arcanum
 
-En el AonDor, el Aon Edo crea un delgado muro de luz. El muro sirve como barrera y extraerá poder del Dor para resistir en igual medida cualquier cosa que choque o empuje contra él.
-*Ejemplos:* Plantación Edo
+In AonDor, Aon Edo creates a thin wall of light. The wall serves as a barrier, drawing more power from the Dor to resist anything pushing against it with equal strength.
+*Examples:* Edo Plantation
 
 ### Ehe
 
@@ -348,19 +345,19 @@ En el AonDor, el Aon Edo crea un delgado muro de luz. El muro sirve como barrera
 
 
 
->“*Fuego, calor*”
+>“*Fire, Warmth*”
 \-Ars Arcanum[9]
 
 
-El Aon Ehe es uno de los pocos aones en el que existe un mito asociado a su origen. Cuando los pueblos aónicos migraron a la tierra que posteriormente se convertiría en Arelon, la gente se mostró al principio temerosa de la vacía ciudad de Elantris. El rey Rhashm (posteriormente [[Raoshem\|Raoshem]]) deseaba que su pueblo superase ese miedo, así que escogió Elantris como el centro de su reino. Décadas después, la Shaod comenzó a tomar a la gente, incluida la princesa, [[Elashe\|Elashe]]. Ella aseguró que había visto el Aon Ehe inscrito en una brasa de su chimenea el día que la Shaod la tomó. Esto condujo a la creencia de que una roca o brasa inscrita con el Aon Ehe es un signo de buena suerte y proporciona protección contra los espíritus invernales.
+Aon Ehe is one of the few Aons that has an origin myth associated with it. When the Aonic peoples first migrated to what would become Arelon, the people were initially afraid of the vacant city of Elantris. King Rhashm (later [[Raoshem\|Raoshem]]) wanting to overcome this fear chose Elantris as the center of his kingdom. Decades later the Shaod began to take people, including the princess, [[Elashe\|Elashe]]. She claimed to have seen Aon Ehe inscribed on a coal in her hearth the day after she was taken. This has led to the belief that a rock or piece of coal inscribed with Aon Ehe is good luck and provides protection against winter spirits.
 
->“*El más inspirador de todos los aones, un símbolo para aquellos con un corazón creativo y una mente sin ataduras*”
-\-Lenehe, poeta del quinto siglo
+>“*The most inspiring of all Aons, a symbol for those with a creative heart and an unhindered mind*”
+\-Lenehe, fifth century poet
 
-Una costumbre habitual entre los poetas y artistas era tomar un nuevo nombre tras alcanzar cierta etapa en su carrera y Ehe era una raíz usada con frecuencia. Ejemplos de esto son los nombres de poetas [[Lenehe\|Lenehe]] y [[Ehen\|Ehen]], el artista [[Ehelan\|Ehelan]] y el filósofo [[Mehen\|Mehen]]. El motivo es que para ellos Ehe representa la pasión y el peligro inherente del arte.
-Cuando se usa en el AonDor, el Aon Ehe crea una columna de fuego, siendo uno de los aones más destructivos incluso sin contar con modificadores. Tanto el tamaño como la dirección de la columna de fuego están determinadas por el tamaño del aon al trazarse y hacía qué dirección se dirija el mismo. A menudo se dibuja en el suelo para que así la columna se forme hacia arriba. Dicha columna se mantiene tan solo durante unos pocos segundos, salvo que se hayan utilizado ciertos modificadores. Antes del Reod, los eruditos eran capaces de crear lámparas que continuarían ardiendo sin importar la situación, incluso bajo el agua. A veces se utilizaba en contiendas aunque el Aon Daa estaba considerado como el «arma superior». Cuando se utiliza como modificador, sirve para crear una protección que al activarse iniciará otra cadena de aones. Se trata de un aon bastante útil, pero la complejidad de su trazo hace que usuarios de este sistema menos habilidosos tengan dificultades a la hora de dibujarlo. Fue el primer aon en «arreglarse» tras añadirle la línea del Abismo.
-En combinación con otros aones, el Aon Ehe se utiliza para representar «comida caliente» o «camas acogedoras» que estaban disponibles para su venta. También servía como símbolo para representar «peligro», estuviera o no relacionado con el fuego dicho peligro, como por ejemplo avisar de un puente inseguro. Además, al representar uno de los elementos primarios, se utilizaba a menudo en escritos científicos.
-*Ejemplos:* Plantación Ehe
+A common practice among poets and artists was to take a new name after a certain stage in their development and Ehe was a common root that was used. Examples of this are the poets [[Lenehe\|Lenehe]] and [[Ehen\|Ehen]], the artist [[Ehelan\|Ehelan]], and the philosopher [[Mehen\|Mehen]]. The reasoning being that it represents the passion, and inherent danger, of artistry.
+In AonDor, Aon Ehe creates a column of fire, and is one of the strongest destructive Aons even without modification. The size and direction of the column are determined by the size of the Aon when drawn and the way that it faces. It is often drawn on the floor so the column is directed upwards. The column is maintained for only a few seconds, unless certain modifiers are used. Before the Reod, scholars were able to create lamps that would continue to burn no matter what, even underwater. It was occasionally used in warfare although Aon Daa is accepted as the superior weapon. When used as a modifier it can create a ward that will start other Aon chains. It is a useful Aon, however its complexity makes it difficult for less skilled practitioners. It was the first Aon to be "fixed" by adding the Chasm line.
+Aon Ehe when used in conjunction with other Aons is used to represent warm food or warm beds were available for sale. It also serves as a symbol for danger, whether or not that danger is related to fire, such as an unsafe bridge. Since it represents one of the primal elements, it is often used in scientific writings.
+*Examples:* Ehe Plantation
 
 ### Ela
 
@@ -370,10 +367,10 @@ En combinación con otros aones, el Aon Ehe se utiliza para representar «comida
 
 
 
->“*Concentración, centro*”
+>“*Focus, Center*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Elantris (ciudad)\|La ciudad de Elantris]], [[Elao\|Elao]]
+*Examples:* [[Elantris (city)\|The City of Elantris]], [[Elao\|Elao]]
 
 ### Ena
 
@@ -383,10 +380,10 @@ En combinación con otros aones, el Aon Ehe se utiliza para representar «comida
 
 
 
->“*Bondad*”
+>“*Kindness*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Torena\|Torena]], Plantación Ena
+*Examples:* [[Torena\|Torena]], Ena Plantation
 
 ### Ene
 
@@ -396,19 +393,19 @@ En combinación con otros aones, el Aon Ehe se utiliza para representar «comida
 
 
 
->“*Maña, Astucia*”
+>“*Wit, Cleverness*”
 \-Ars Arcanum
 
-Se presupone que la forma del Aon Ene representa los lados opuestos de una discusión, y está formado por dos mitades que en realidad se crean a partir de los mismos símbolos solo que invertidos.
-En su uso modero, el Aon Ene se utiliza para representar la inteligencia en su sentido más general. No obstante, los eruditos apuntan que en su origen este aon hacía referencia a la astucia o a la capacidad de ser más ingenioso y anteponerse en pensamiento al oponente. Se trataba de un símbolo a menudo usado para referirse a los embaucadores, a quienes se denominaba «enefel», lo que literalmente se traduce como «asesinos ingeniosos» o «aquellos que matan con astucia». Durante la [[Sel\|Época Media]] un grupo de cuentacuentos, que tomó el nombre de Enefel, comenzó a difundir historias sobre las maravillas de Elantris. Algunos creen que los Enefel eran agentes de los elantrinos, quienes buscaban expandir su influencia y apaciguar la desconfianza que la población rural sentía hacía ellos. Con el tiempo, este grupo de cuentacuentos se convirtió en un grupo de eruditos que recopilaba historias y crónicas. Hacía la Época Tardía ya habían surgido varios y distintos grupos de eruditos y filósofos. La asociación del Aon Ene con estos grupos dió lugar a que su significado se expandiera.
-Al usarse en el AonDor, el Aon Ene emite lo que comúnmente se conoce como la «Luz de la Mente». Quienquiera que reciba el toque de esta luz verá mejoradas sus capacidades mentales. Podrán memorizar con mayor rapidez, razonar con mayor claridad, y prevenir los efectos que disminuyen el proceso cognitivo provocados por la enfermedad o la falta de sueño. Puede usarse también como un «aon vinculante», uniendo así listas de aones entre sí y determinando además en qué momento se activarán sus efectos. Su uso está bastante extendido y cualquier maestro de AonDor es hábil utilizándolo. Esto es similar a como se utilizan los [[Spren\|logispren]], los que atraen los debates, para la sincronización en los fabriales.
+The shape of Aon Ene is supposed to represent the two opposing sides of an argument, it is made up of two halves that are made up of the same symbols, only reversed.
+In modern usage Aon Ene has come to mean intelligence in a general sort of way. Scholars note however that originally it referred to cleverness or the ability to out-wit and out-think an opponent. It was a symbol that was often used to refer to trickster figures, which were called "enefel," literally "Wit Killers" or those who kill with wit. During the [[Middle Era\|Middle Era]] a group of storytellers, who took the name Enefel, began spreading stories of the wonders of Elantris. Some believe the Enefel were agents of the Elantrians who sought to expand their influence and quell the suspicion the rural populace felt towards them. Over time, this group of storytellers developed into a group of scholars that collected stories and histories. By the [[Late Era\|Late Era]] several distinct groups of scholars and philosophers had emerged. Aon Ene's association with these groups prompted the expansion of its meaning.
+When used in AonDor, Aon Ene emits what is commonly referred to as the "Light of the Mind." Anyone who is touched by the light has their mental capabilities enhanced. They can memorize more quickly, reason more clearly, and stave off the mental-diminishing effects of illness or lack of sleep. It can also be used as a Linking Aon, joining lists of Aons together and determining when their effects will activate. It is used extensively and any Master of AonDor is skilled in its use. This is similar to how [[Logicspren\|logicspren]], which are drawn to debate, are used for timing in fabrials.
 
->“* Ninguna riqueza de oro y plata puede comprar una mente aguda, pero el hombre de ingenio a menudo encontrará tesoros más allá de lo que el mero lucro puede proporcionar.*”
-\-Enelan, un erudito que vivió un siglo antes del Reod
+>“* No wealth of gold and silver can purchase a keen mind, but the man of wit will often find treasures beyond what mere lucre can provide.*”
+\-Enelan, a scholar from a hundred years before the Reod
 
-Aunque de manera tradicional el Aon Ene se asocia con los libros y la investigación académica, ha terminando asociándose también a los mercaderes y los banqueros a raíz de la cita anterior. Los primeros no aprueban lo que ven como una apropiación del símbolo que consideran propio. Este conflicto es en parte responsable del declive en su popularidad a la hora de poner nombres, aunque la gente más tradicional continúa utilizándolo a veces.
-Ene es también una de las constelaciones mayores que se pueden observar en el cielo nocturno de Arelon. Incluye la estrella polar de Sel.
-*Ejemplos:* [[Sarene\|Sarene]], [[Enefel\|Enefel]]
+While traditionally Aon Ene is associated with books and scholarly research, it has also become associated with merchants and bankers, in response to the quote above. The former do not approve of what they see as the appropriation of the symbol they claim for their own by the latter. This conflict is in part responsible for Ene's decline in popularity in naming, though traditionalists do sometimes use it.
+Ene is also one of the major constellations that can be observed in the night sky above Arelon. It includes Sel's pole star.
+*Examples:* [[Sarene\|Sarene]], [[Enefel\|Enefel]]
 
 ### Eno
 
@@ -418,11 +415,11 @@ Ene es también una de las constelaciones mayores que se pueden observar en el c
 
 
 
->“*Agua*”
+>“*Water*”
 \-Ars Arcanum
 
-Este aon incluye una línea «ondulada» que se corresponde con la forma del río Aredel.
-*Ejemplos:* Plantación Eno
+This Aon includes a "wiggly" line that corresponds to the shape of the Aredel River.
+*Examples:* Eno Plantation
 
 ### Eon
 
@@ -432,10 +429,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Fuerza de voluntad, resistencia*”
+>“*Willpower, Endurance*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Eondel\|Eondel]], [[Eonic\|Eonic]], [[Plantaci%C3%B3n de Eon\|Plantación de Eon]]
+*Examples:* [[Eondel\|Eondel]], [[Eonic\|Eonic]], [[Eon Plantation\|Eon Plantation]]
 
 ### Eshe
 
@@ -445,10 +442,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Don, dote*”
+>“*Gift, Endowment*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Eshen\|Eshen]], [[Mareshe\|Mareshe]], Plantación Eshe
+*Examples:* [[Eshen\|Eshen]], [[Mareshe\|Mareshe]], Eshe Plantation
 
 ### Eto
 
@@ -458,10 +455,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Cuerpo, carne, músculo*”
+>“*Body, Flesh, Muscle*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Eton\|Eton]], [[Ketol\|Ketol]]
+*Examples:* [[Eton\|Eton]], [[Ketol\|Ketol]]
 
 ### Iad
 
@@ -471,10 +468,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Confianza, fiabilidad*”
+>“*Trust, Reliable*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Iadon\|Iadon]], Plantación Iad
+*Examples:* [[Iadon\|Iadon]], Iad Plantation
 
 ### Ial
 
@@ -484,10 +481,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Asistencia, ayuda*”
+>“*Helpfulness, Aid*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Roial\|Roial]], [[Plantaci%C3%B3n de Ial\|Plantación de Ial]], [[Iald\|Iald]]
+*Examples:* [[Roial\|Roial]], [[Ial Plantation\|Ial Plantation]], [[Iald\|Iald]]
 
 ### Ido
 
@@ -497,10 +494,10 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Misericordia, perdón*”
+>“*Mercy, Forgiveness*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Idos Domi\|Idos Domi]], Plantación Ido
+*Examples:* [[Idos Domi\|Idos Domi]], Ido Plantation
 
 ### Ien
 
@@ -510,15 +507,15 @@ Este aon incluye una línea «ondulada» que se corresponde con la forma del rí
 
 
 
->“*Sabiduría*”
+>“*Wisdom*”
 \-Ars Arcanum
 
-El Aon Ien se utilizaba en el AonDor como la base para la sanación. Para aprovechar al máximo su potencial, sin embargo, se requerían modificadores especializados que marcasen como objetivo qué parte del cuerpo debía recibir la curación y cómo debía proceder esta.
-*Ejemplos:* [[Ien\|Ien]], [[Adien\|Adien]], Plantación de Ien
+Aon Ien was used in AonDor as the basis for healing. To maximize its potential, however, specialized modifiers were required to target the body part that needed to be healed and specify how the healing should take place.
+*Examples:* [[Ien\|Ien]], [[Adien\|Adien]], Ien Plantation
 
 ### Iir
->“*Fuerza*”
-\-Página web de Brandon
+>“*Strength*”
+\-Brandon's Website
 
 ### Ire
 
@@ -528,17 +525,17 @@ El Aon Ien se utilizaba en el AonDor como la base para la sanación. Para aprove
 
 
 
->“*Tiempo, edad*”
+>“*Time, Age*”
 \-Ars Arcanum
 
-[[Ire\|Ire]] es el nombre de una organización (de [[Elantrino\|elantrinos]]) que aparece en *Nacidos de la bruma: historia secreta*. No se conoce demasiado de este grupo a día de hoy.
-*Ejemplos:* [[Diren\|Diren]], Los Ire
+The [[Ire\|Ire]] is the name of an organization of [[Elantrian\|Elantrians]] that appear in Mistborn: Secret History. Not much is known about the group at this stage.
+*Examples:* [[Diren\|Diren]]
 
 ### Kaa
->“*Plantas*”
-\-Página web de Brandon
+>“*Plants*”
+\-Brandon's Website
 
-*Ejemplos:* [[Plantaci%C3%B3n de Kaa\|Plantación de Kaa]]
+*Examples:* [[Kaa Plantation\|Kaa Plantation]]
 
 ### Kae
 
@@ -548,10 +545,10 @@ El Aon Ien se utilizaba en el AonDor como la base para la sanación. Para aprove
 
 
 
->“*Dirección este*”
+>“*The Direction East*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Kae\|La ciudad de Kae]]
+*Examples:* [[Kae\|The City of Kae]]
 
 ### Kai
 
@@ -561,16 +558,16 @@ El Aon Ien se utilizaba en el AonDor como la base para la sanación. Para aprove
 
 
 
->“*Calma, solemnidad*”
+>“*Calmness, Solemnity*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Kaise\|Kaise]], Plantación Kai
+*Examples:* [[Kaise\|Kaise]], Kai Plantation
 
 ### Kie
->“*Círculo*”
-\-Página web de Brandon
+>“*Circle*”
+\-Brandon's Website
 
-*Ejemplos:* [[Plantaci%C3%B3n de Kie\|Plantación de Kie]]
+*Examples:* [[Kie Plantation\|Kie Plantation]]
 
 ### Kii
 
@@ -580,14 +577,14 @@ El Aon Ien se utilizaba en el AonDor como la base para la sanación. Para aprove
 
 
 
->“*Justicia*”
+>“*Justice*”
 \-Ars Arcanum
 
-Cuando se traza en el Aondor, el Aon Kii provocará que aquellos que son culpables sientan dolor.
-*Ejemplos:* [[Kiin\|Kiin]]
+When drawn in AonDor, Kii causes the guilty to feel pain.
+*Examples:* [[Kiin\|Kiin]]
 
 ### Mae
-*Ejemplos:* MaeDal
+*Examples:* MaeDal
 
 ### Mai
 
@@ -600,7 +597,7 @@ Cuando se traza en el Aondor, el Aon Kii provocará que aquellos que son culpabl
 >“*Honor*”
 \-Ars Arcanum
 
-*Ejemplos:* Maiben, Plantación Mai
+*Examples:* Maiben, Mai Plantation
 
 ### Mea
 
@@ -610,11 +607,11 @@ Cuando se traza en el Aondor, el Aon Kii provocará que aquellos que son culpabl
 
 
 
->“*Consideración, empatía*”
+>“*Thoughtfulness, Caringness*”
 \-Ars Arcanum
 
-La forma del Aon Mea se corresponde con la región geográfica en la cual la [[Shaod\|Shaod]] puede afectar a una persona. La «x» que aparece en el aon se corresponde a su vez con un valle fértil en el que existe una alta densidad de vida y actividad cognitiva.
-*Ejemplos:* [[Meala\|Meala]]
+The shape of Aon Mea represents the region in which a person can be taken by the [[Shaod\|Shaod]]. The “x” corresponds to a fertile valley with a high density of life and cognitive activity.
+*Examples:* [[Meala\|Meala]]
 
 ### Nae
 
@@ -624,14 +621,14 @@ La forma del Aon Mea se corresponde con la región geográfica en la cual la [[S
 
 
 
->“*Vista, claridad*”
+>“*Sight, Clarity*”
 \-Ars Arcanum
 
-Al trazarse en el AonDor, el círculo del centro de este aon vibrará creando ondas como si de agua se tratase, para a continuación despejarse y mostrar así una visión aumentada de lo que hay al otro lado. Si un elantrino desea cambiar el objetivo que desea ver ampliada su visión, lo único que debe hacer es colocar su mano en el centro del círculo y mover así el aon.
-*Ejemplos:* Plantación Nae, [[Naen\|Naen]]
+When drawn in AonDor, the circle in the center of the Aon "ripples like water" and then clears, showing a magnified view of what is on the other side. By placing their hand on the center of the circle, an Elantrian is able to move the Aon, thereby changing what is magnified.
+*Examples:* Nae Plantation, [[Naen\|Naen]]
 
 ### Oed
-*Ejemplos:* [[Hoed\|Hoed]]
+*Examples:* [[Hoed\|Hoed]]
 
 ### Omi
 
@@ -641,18 +638,18 @@ Al trazarse en el AonDor, el círculo del centro de este aon vibrará creando on
 
 
 
->“*Amor*”
+>“*Love*”
 \-Ars Arcanum
 
-El Aon Omi es una raíz común en palabras arelenas tales como afecto, cuidado, pasión, piedad, fervor y lealtad. También es bastante habitual encontrar Omi como raíz en nombres, en especial en aquellos pertenecientes a la fe korathi. Los sacerdotes korathi a menudo lo utilizan cuando tienen que escoger un nuevo nombre tras unirse al sacerdocio.
+Aon Omi is a common root in Arelene words such as affection, care, passion, piety, zeal, and loyalty. It is also a fairly common root for names as well, especially among those of the Korathi faith. Korathi priests often use it as a base when they choose a new name on joining the priesthood.
 
->“* El más perfecto de los aones, el cual incorpora por completo la base del Aon Aon, rotándolo para formar un ingenioso símbolo que es al mismo tiempo enrevesado y simple.*”
+>“* The most perfect of Aons, fully incorporating the base of Aon Aon and spinning it into a complex icon that is artful and complicated, yet somehow simple at the same time.*”
 \-Enelan
 
-El Aon Omi quizás es más conocido por su asociación al [[Shu-Korath\|Shu-Korath]]. Cuando [[Korath\|Korath]] (conocido en [[JinDo\|JinDo]] como KoWho) empezó a enseñar [[Shu-Keseg\|Shu-Keseg]] en Arelon escogió el Aon Omi para representar a «Dios», a quien llamó Domi, denominándolo como una «criatura de belleza». Escogió este aon esperando apaciguar con ello la rivalidad que sus seguidores sentían hacía los elantrinos, tomando así un símbolo que los primeros veían como «pagano» para mostrar que cualquier persona debería ser aceptada en la religión. Los sacerdotes korathi actuales ven el uso de aones en su religión como una demostración de que toda persona y creencia puede unirse a través del amor.
-Korath le pidió a un herrero elantrino que conocía que forjase para él un colgante de plata con este símbolo. Portar el colgante con el Aon Omi era un acontecimiento bastante común para la época de la Restauración de Elantris, e intercambiar este tipo de colgantes era también una práctica habitual durante las ceremonias matrimoniales korathi.
-Al usarse en el AonDor, el Aon Omi emitirá una luz de un blanco puro. Esta luz eliminará las emociones negativas de cualquier persona a la que toque, reemplazándolas por un sentimiento de serenidad y paz, lo que hará difícil mantener de manera activa cualquier sensación de odio. Requiere, lo que es algo peculiar, que el elantrino que lo dibuja sienta un afecto sincero hacía aquellos que le rodean; esto hace de Omi uno de los pocos aones que requieren algo más a parte de la habilidad para dibujarlo. Al usarse como modificador sirve para vincular líneas de aones entre sí o, si se utiliza del modo correcto, puede servir como un potenciador menor de poder.
-*Ejemplos:* [[Domi\|Domi]], [[Omin\|Omin]]
+Aon Omi is perhaps most well-known for its association with [[Shu-Korath\|Shu-Korath]]. When [[Korath\|Korath]] (known in [[JinDo\|JinDo]] as KoWho) began teaching of [[Shu-Keseg\|Shu-Keseg]] in Arelon he chose Aon Omi to represent God, who he named Domi, calling it a "Thing of Beauty". He hoped to quell the rivalry his followers felt towards the Elantrians and so chose what they saw as a "heathen symbol" to show how all people should be accepted into the religion. Current Korathi priests view the use of Aons in their religion as evidence that all people and beliefs can be united through love.
+Korath asked an Elantrian smith he was acquainted with to forge him a silver pendant of the symbol. Wearing an Aon Omi pendant was a fairly common occurrence by the time of the Restoration of Elantris, and the exchanging of pendants was a common practice during Korathi marriage ceremonies.
+In AonDor, Aon Omi would emit a pure white light. Anyone touched by this light would have their negative emotions removed, replaced with a feeling of serenity and peace, making actively maintaining a sense of hatred difficult. It is peculiar in that it requires the Elantrian drawing it to feel sincere affection for those around them, making it one of the few Aons that requires anything except the ability to draw it. When used as a modifier it will link lines of Aons together or, if used correctly, serve as a minor power enhancer.
+*Examples:* [[Domi\|Domi]], [[Omin\|Omin]]
 
 ### Opa
 
@@ -662,19 +659,19 @@ Al usarse en el AonDor, el Aon Omi emitirá una luz de un blanco puro. Esta luz 
 
 
 
->“*Flor*”
+>“*Flower*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Opa\|Opa]], [[Opais\|Opais]], Plantación Opa
+*Examples:* [[Opa\|Opa]], [[Opais\|Opais]], Opa Plantation
 
 ### Ope
->“*Nación*”
-\-Página web de Brandon
+>“*Nation*”
+\-Brandon's Website
 
-*Ejemplos:* [[Opelon\|Opelon]]
+*Examples:* [[Opelon\|Opelon]]
 
 ### Ore
-*Ejemplos:* Plantación Ore
+*Examples:* Ore Plantation
 
 ### Rao
 
@@ -684,12 +681,12 @@ Al usarse en el AonDor, el Aon Omi emitirá una luz de un blanco puro. Esta luz 
 
 
 
->“*Espíritu, esencia*”
+>“*Spirit, Essence*”
 \-Ars Arcanum
 
-En el AonDor, el Aon Rao se utiliza como amplificador del poder. El Distrito Metropolitano Elantrino, formado por Elantris y sus cuatro ciudades satélite, funcionaba como un Aon Rao enorme cuyo objetivo eran los elantrinos y los aones que creaban.
-Además, el Aon Rao es una de las constelaciones que se ven en el cielo nocturno areleno.
-*Ejemplos:* [[Raoden\|Raoden]], [[Tenrao\|Tenrao]]
+In AonDor, Aon Rao serves as a power amplifier. The Elantrian Metropolitan District, made up of Elantris and its four Gate Cities, served as a massive Aon Rao that targeted the Elantrians and the Aons they created.
+Aon Rao is also one of the constellations in the Arelene night sky.
+*Examples:* [[Raoden\|Raoden]], [[Tenrao\|Tenrao]]
 
 ### Reo
 
@@ -699,11 +696,11 @@ Además, el Aon Rao es una de las constelaciones que se ven en el cielo nocturno
 
 
 
->“*Castigo, represalia*”
+>“*Punishment, Retribution*”
 \-Ars Arcanum
 
-Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Imperio Rosa\|Imperio Rosa]].
-*Ejemplos:* [[Dreok Aplastagargantas\|Dreok Aplastagargantas]], [[Reod\|Reod]]
+This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]].
+*Examples:* [[Dreok Crushthroat\|Dreok Crushthroat]], [[Reod\|Reod]]
 
 ### Rii
 
@@ -713,10 +710,10 @@ Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Impe
 
 
 
->“*Lujo, opulencia*”
+>“*Wealth, Affluence*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Telrii\|Telrii]], Sorii, Plantación Rii, [[Riino\|Riino]], [[Riina\|Riina]]
+*Examples:* [[Telrii\|Telrii]], Sorii, Rii Plantation, [[Riino\|Riino]], [[Riina\|Riina]]
 
 ### Sao
 
@@ -726,10 +723,10 @@ Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Impe
 
 
 
->“*Inteligencia, aprendizaje*”
+>“*Intelligence, Learning*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Saolin\|Saolin]], Plantación Sao, [[Isadan Sao\|Isadan Sao]]
+*Examples:* [[Saolin\|Saolin]], Sao Plantation, [[Isadan Sao\|Isadan Sao]]
 
 ### Sea
 
@@ -739,10 +736,10 @@ Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Impe
 
 
 
->“*Castidad, fidelidad*”
+>“*Chastity, Faithfulness*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Seaden\|Seaden]], [[Seala\|Seala]]
+*Examples:* [[Seaden\|Seaden]], [[Seala\|Seala]]
 
 ### Seo
 
@@ -752,10 +749,10 @@ Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Impe
 
 
 
->“*Lealtad, servicio*”
+>“*Loyalty, Service*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Seor\|Seor]], [[Seon\|Seon]], Plantación Seo
+*Examples:* [[Seor\|Seor]], [[Seon\|Seon]], Seo Plantation
 
 ### Shao
 
@@ -765,11 +762,11 @@ Este aon era conocido al menos en lugares tan lejanos como por ejemplo el [[Impe
 
 
 
->“*Transformación, cambio*”
-\-Glosario de Elantris
+>“*Transform, Change*”
+\-Elantris Glossary
 
-El Aon Shao puede utilizarse para crear ilusiones atadas a piezas de ropa. Para conseguirlo, no obstante, se requiere de un amplio uso de modificadores. Algo que ha sido modificado por el Aon Shao permanecerá así incluso si se traslada a otro planeta del Cosmere.
-*Ejemplos:* [[Shaod\|Shaod]], [[Shaor\|Shaor]]
+Aon Shao can be used to create illusions that are tied to pieces of clothing. To do so however requires the extensive use of modifiers. Something changed by Aon Shao would stay permanently even if taken to another planet in the cosmere.
+*Examples:* [[Shaod\|Shaod]], [[Shaor\|Shaor]]
 
 ### Sheo
 
@@ -779,10 +776,8 @@ El Aon Shao puede utilizarse para crear ilusiones atadas a piezas de ropa. Para 
 
 
 
->“*Muerte*”
+>“*Death*”
 \-Ars Arcanum
-
-
 
 ### Soi
 
@@ -792,10 +787,10 @@ El Aon Shao puede utilizarse para crear ilusiones atadas a piezas de ropa. Para 
 
 
 
->“*Orden, organizado*”
+>“*Order, Organized*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Soine\|Soine]]
+*Examples:* [[Soine\|Soine]]
 
 ### Soo
 
@@ -804,8 +799,7 @@ El Aon Shao puede utilizarse para crear ilusiones atadas a piezas de ropa. Para 
 
 
 
-
->“*Matemáticas*”
+ >“*Mathematics*”
 \-[25]
 
 ### Tae
@@ -816,11 +810,11 @@ El Aon Shao puede utilizarse para crear ilusiones atadas a piezas de ropa. Para 
 
 
 
->“*Abierto*”
+>“*Open*”
 \-Ars Arcanum
 
-La entrada a la [[/wiki/Elantris (ciudad)#Biblioteca oculta]] de la ciudad de Elantris está marcada con este aon; al empujar el símbolo se abre el acceso a la misma.
-*Ejemplos:*
+The entrance to the [[/wiki/Elantris (city)#Hidden Library]] is marked with this Aon; the path opens when the symbol is pushed.
+*Examples:*
 
 ### Teo
 
@@ -830,10 +824,10 @@ La entrada a la [[/wiki/Elantris (ciudad)#Biblioteca oculta]] de la ciudad de El
 
 
 
->“*Grandeza, majestuosidad*”
+>“*Royal, Majestic*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Eventeo\|Eventeo]], [[Teod\|Teod]], [[Teoras\|Teoras]], [[Teorn\|Teorn]]
+*Examples:* [[Eventeo\|Eventeo]], [[Teod\|Teod]], [[Teoras\|Teoras]], [[Teorn\|Teorn]]
 
 ### Tia
 
@@ -843,18 +837,17 @@ La entrada a la [[/wiki/Elantris (ciudad)#Biblioteca oculta]] de la ciudad de El
 
 
 
->“*Viaje, transporte*”
-\-Glosario del libro Elantris
+>“*Travel, Transportation*”
+\-Elantris Glossary
 
-Con el Aon Tia un elantrino puede transportarse de un punto a otro. Aplicando los modificadores adecuados, el elantrino puede establecer la distancia y dirección a viajar.
-Una vez completado el elantrino agarra el aon, el cual se ha solidificado, por su centro y es envuelto entonces por la luz del aon. A continuación aparecerá en el lugar que ha sido especificado en el aon. Había varias placas de metal inscritas con este aon repartidas a lo largo y ancho de Elantris. Un elantrino solo tenía que colocar su mano en el centro del aon de la placa para ser transportado a otra zona de la ciudad. No obstante, este aon podía ser peligroso. En el caso en el que un elantrino estableciese por error el destino del transporte en mitad de un muro, en un cuerpo de agua... sin saberlo, el Aon Tia le transportaría y podría acabar metido en un aprieto. Además, el Aon Tia podría utilizarse para el transporte interplanetario.
-*Ejemplos:*
+Aon Tia can be used to transport an Elantrian from one point to another. With the correct modifiers the Elantrian can fix the distance and direction that is to be traveled. When completed the Elantrian grabs the center of the Aon, which becomes solid, and is enveloped by the Aon’s light. They then appear where they directed the Aon to take them. There were a number of metal plates inscribed with this Aon scattered throughout Elantris. An Elantrian would only have to place their hand at the center of the Aon to be transported to another region of the city. However, this Aon can be dangerous. If an Elantrian were to designate their arrival area in the middle of a wall, body of water, etc., without knowing, Aon Tia would transfer them and they could get end up in quite the predicament. Aon Tia can be used to transport off-world.
+*Examples:*
 
 ### Tii
->“*Verde*”
-\-Página web de Brandon
+>“*Green*”
+\-Brandon's Website
 
-*Ejemplos:* [[Plantaci%C3%B3n de Tii\|Plantación de Tii]]
+*Examples:* [[Tii Plantation\|Tii Plantation]]
 
 ### Toa
 
@@ -864,31 +857,17 @@ Una vez completado el elantrino agarra el aon, el cual se ha solidificado, por s
 
 
 
->“*Dirección sur*”
+>“*The Direction South*”
 \-Ars Arcanum
 
-*Ejemplos:* [[Toa\|La ciudad de Toa]]
+*Examples:* [[Toa\|The City of Toa]]
 
-## Curiosidades
-Además de los aones existe también un alfabeto aónico, donde cada letra representa un único sonido, que se usa para aquellos sonidos que no pueden generarse a partir de los aones. Los propios aones son más antiguos que esta lengua, como demuestra el hecho de que se basan en la tierra. El significado de los aones en la lengua es inherente, sus significados se basan tanto en sus efectos como en su aspecto. Brandon nunca llegó a desarrollar por completo este alfabeto, pero comentó que es similar al sistema de escritura coreano llamado .
-El Aon Ela aparece en la cubierta de la edición 10º Aniversario encuadernada en cuero de *Elantris*.
-En [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]], una de las pinturas de [[Howard Lyon\|Howard Lyon]] muestra a [[Hoid\|Hoid]] realizando un [[/wiki/Aon#Edo]], utilizando el [[/wiki/Aon#Daa]] como modificador para bloquear un aon lanzado por [[Riina\|Riina]]. Se ve a [[Riina\|Riina]] creando un [[/wiki/Aon#Shao]], que se refiere a la magia de transformación e ilusión. El uso de estos aones concretos no se indica en el propio texto.
-Lo más probable es que haya aones aún por descubrir.
-Cualquier cosa posible en el [[Cosmere\|Cosmere]] puede reproducirse utilizando el [[AonDor\|AonDor]], con los aones adecuados, aunque pueden ser necesarias ciertas inyecciones de [[Investidura\|Investidura]].
-## Notas del traductor
-
-## Notas
+## Trivia
+In addition to Aons, there is also an Aonic Alphabet, in which each letter is a single sound, that is used for sounds that can't be produced from Aons. The Aons themselves are older than this language, as shown by the fact that they're based on the land. The meaning of Aons in the language is inherent, their meanings are based on both their effects and how they look. Brandon never fully developed that alphabet, but it is similar to the Korean writing system .
+Aon Ela appears on the cover of the 10th Anniversary leather-bound edition of *Elantris*.
+In [[Tress of the Emerald Sea\|Tress of the Emerald Sea]], one of the paintings by [[Howard Lyon\|Howard Lyon]] shows [[Hoid\|Hoid]] casting [[/wiki/Aon#Edo]], using [[/wiki/Aon#Daa]] as a modifier in order to block an Aon being cast by [[Riina\|Riina]]. [[Riina\|Riina]] is seen casting [[/wiki/Aon#Shao]], which is about transformation and illusion magic. The use of these specific Aons is not stated in the text itself.
+There are most likely undiscovered Aons.
+Anything possible in the [[Cosmere\|Cosmere]] can be replicated using [[AonDor\|AonDor]], with the right Aons, though certain injections of [[Investiture\|Investiture]] may be required. 
 
 
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] ·  · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
-
-
-
-https://es.coppermind.net/wiki/Aon
+https://coppermind.net/wiki/Aon

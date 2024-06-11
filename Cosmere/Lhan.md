@@ -1,62 +1,41 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lhan**|
 |-|-|
-|**Apodos**|Kharat|
-|**Oficio**|[[Fervoroso\|Fervoroso]]|
-|**Grupo**|[[Culto de los Momentos\|Culto de los Momentos]]|
-|**Residencia**|[[Kholinar\|Kholinar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Aliases**|Kharat|
+|**Profession**|[[Ardent\|Ardent]]|
+|**Groups**|[[Cult of Moments\|Cult of Moments]]|
+|**Residence**|[[Kholinar\|Kholinar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
->“*Enhorabuena. Has encontrado tu camino para el trabajo más fácil del mundo.*”
-\-El hermano Lhan a Pai[2]
-
-
-El hermano **Lhan**, también conocido como **Kharat**, es un [[Fervoroso\|fervoroso]] [[Alezi\|alezi]] en [[Roshar\|Roshar]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+>“*Congratulations. You have found your way to the easiest job in the world.*”
+\-Brother Lhan to Pai[2]
 
 
-## Apariencia y personalidad
-Lhan es un hombre rollizo de ojos verdes. Es un [[Fervoroso\|fervoroso]] de la [[Aesudan\|reina]] egoísta y egocéntrico que ama la facilidad de la vida que se le ha dado, aunque ve la hipocresía de la misma. Trabaja lo menos posible y come todo lo que puede. No ve ningún problema en la cantidad de comida que se desperdicia en el [[Palacio de Kholinar\|Palacio de Kholinar]], ni en que la gente del reino sea pobre y pase hambre. Aunque muchos fervorosos escriben poesía sobre la reina, Lhan cree que esto se parece demasiado a un trabajo y nunca lo hace.
+Brother **Lhan**, also known as **Kharat**, is an [[Alethi\|Alethi]] [[Ardent\|ardent]] on [[Roshar\|Roshar]].
 
-## Historia
-En algún momento durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Lhan fue asignado para mostrar a [[Pai\|Pai]] el palacio de la reina en [[Kholinar\|Kholinar]]. Le explicó que la reina daba a sus [[Fervoroso\|fervorosos]] vidas fáciles porque temía que el [[Todopoderoso\|Todopoderoso]] estuviese disgustado con ella. Intentó mostrar a Pai todos los maravillosos lujos del palacio, pero no consiguió hacerla feliz con ninguno de ellos. Se horrorizó a la mañana siguiente cuando vio su graffiti describiendo cómo la reina se parecía a cada uno de los [[Diez locos\|diez locos]].
+## Contents
 
->“*No provoques una tormenta, chica. Eso no interesa a nadie...*”
-\-Kharat a Shallan[1]
-
-Durante el [[Asedio a Kholinar\|Asedio a Kholinar]], Lhan sucumbió a [[Ashertmarn\|Ashertmarn]] y pasó a llamarse Kharat. Introdujo a [[Shallan\|Shallan]] en la procesión; llamándola Kishi, la mantuvo en el anillo exterior de la misma y le dijo que no podía entrar. Comió dulces y sirvió vino a Shallan. Insistiendo en que debía vigilarla, Kharat se sentó frente a su puerta cuando ella encontró una habitación vacía en un edificio cercano y le dijo que necesitaba algo de tiempo para sí misma. [[Patr%C3%B3n\|Patrón]] se coló en el pasillo y repitió los susurros que habían oído de Ashertmarn, incitando a Kharat a volver fuera en busca de una bebida. Volvió a entrar y se instaló de nuevo en el pasillo, sin saber que ahora custodiaba una ilusión de Velo y que Shallan había pasado a su lado con un nuevo rostro.
-
-## Curiosidades
-Según [[Peter Ahlstrom\|Peter]], probablemente no esté relacionado con [[Barlesha Lhan\|Barlesha Lhan]]..
-Lhan es un personaje de *[[El camino de los reyes Prime\|El camino de los reyes Prime]]* cuya historia se entrelaza con la de [[Taln\|Taln]]. Dado que la historia de [[Taln\|Taln]] se ha pospuesto hasta la segunda mitad de [[El archivo de las tormentas\|El archivo de las tormentas]], Lhan aparece en un interludio en [[Palabras Radiantes\|Palabras Radiantes]] en su lugar.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Truthwatch3r (talk) 00:23, 14 March 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Lhan is a round man with green eyes. He is a selfish and self-centered [[Ardent\|ardent]] to the [[Aesudan\|queen]] who loves the ease of the life that he has been given, even though he sees the hypocrisy of it. He does as little work as he can and eats as much as he can. He sees no problem with the amount of food that goes to waste in [[Kholinar Palace\|Kholinar Palace]], or that people in the kingdom are poor and starving. Though many ardents write poetry about the queen, Lhan feels that this resembles work far too much and never does so.
 
-https://es.coppermind.net/wiki/Lhan
+## History
+Some time during the [[True Desolation\|True Desolation]], Lhan was assigned to show [[Pai\|Pai]] around the queen's palace in [[Kholinar\|Kholinar]]. He explained to her that the queen gave her [[Ardent\|ardents]] easy lives because she feared that the [[Almighty\|Almighty]] was displeased with her. He tried to show Pai all the wonderful luxuries of the palace but did not succeed in making her happy about any of it. He was horrified the next morning when he saw her graffiti describing how the queen resembled each of the [[Ten fools\|ten fools]].
+
+>“*Don't cause a storm, girl. Nobody wants that....*”
+\-Kharat to Shallan[1]
+
+During the [[Siege of Kholinar\|Siege of Kholinar]], Lhan succumbed to [[Ashertmarn\|Ashertmarn]] and became known as Kharat. He introduced [[Shallan\|Shallan]] to the revel; calling her Kishi, he kept her in the outer ring of the revel and told her she couldn't go inside. He ate sweets and plied Shallan with wine. Insisting that he was to keep watch on Shallan, Kharat sat outside her door when she found an empty room in a nearby building and told him she needed some time to herself. [[Pattern\|Pattern]] snuck into the hallway and repeated the whispers they had heard from Ashertmarn, enticing Kharat to go back outside to look for a drink. He came back in and settled down in the hallway again, unaware that he was now guarding an illusion of Veil and that Shallan had walked right by him wearing a new face.
+
+## Trivia
+According to [[Peter Ahlstrom\|Peter]], he is probably unrelated to [[Barlesha Lhan\|Barlesha Lhan]].
+Lhan is a viewpoint character in *[[The Way of Kings Prime\|The Way of Kings Prime]]* whose storyline is intertwined with that of [[Taln\|Taln]]. Since [[Taln\|Taln's]] story has been postponed to the latter half of [[The Stormlight Archive\|The Stormlight Archive]], Lhan is featured in an interlude in [[Words of Radiance\|Words of Radiance]] instead.
+
+
+https://coppermind.net/wiki/Lhan

@@ -1,42 +1,21 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Axikk**|
 |-|-|
-|**Oficio**|[[Visir\|Visir]]|
-|**Residencia**|[[Azimir\|Azimir]]|
-|**Nacionalidad**|[[De Azir\|de Azir]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
+|**Profession**|[[Vizier\|Vizier]]|
+|**Residence**|[[Azimir\|Azimir]]|
+|**Nationality**|[[Azish\|Azish]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Edgedancer (novella)\|Edgedancer]]*|
 
-**Axikk** es un visir en el gobierno [[Azishiano\|Azishiano]] de [[Roshar\|Roshar]].
+**Axikk** is a vizier in the [[Azish\|Azish]] government on [[Roshar\|Roshar]].
 
-## Atributos y habilidades
-Axikk era, presumiblemente, un visir de alto rango, en base a su candidatura a Supremo y su presencia en los aposentos del emperador junto a otros visieres importantes como Dalski y [[Noura\|Noura]].
+## Attributes and Abilities
+Axikk was presumably a high-ranking vizier based on his candidacy for Prime and his presence in the emperor's quarters with other important viziers such as Dalksi and [[Noura\|Noura]].
 
-## Historia
-Axikk era uno de los potenciales candidatos a [[Aqasix Supremo\|Aqasix Supremo]] durante la crisis de sucesión Azishiana que surge tras el asesinato de dos Supremos en una sola semana a manos de [[Szeth\|Szeth]]. [[Lift\|Lift]] le escucha de pasada en el [[Palacio de Bronce\|Palacio de Bronce]] hablando con otros visires. Igual que los otros candidatos, Axikk presenta una solicitud deficiente a propósito para evitar el cargo de Supremo. Además, afierma que su descalificación se debe a sus problemas de espalda. [[Dalksi\|Dalksi]] rechaza esta excusa, argumentando que [[Ashno\|Ashno de Sages]] también tenía problemas de espalda y es considerado uno de los mejores Supremos [[Emuli\|Emulis]].
-Se entiende que es uno de los visires que intenta educar a Lift en el tiempo que pasa en el Palacio de Bronce tras el ascenso de [[Yanagawn\|Yanagawn]]. Lift menciona que se refiere a un visir como «Gran A» porque su nombre tiene ruidos como de ahogarse. Es probable que fuera uno de los varios visires que estaban presentes durante la visita diplomática de [[Dalinar Kholin\|Dalinar Kholin]] a Azimir.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 18:36, 2 October 2019 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+Axikk was one of the potential [[Prime Aqasix\|Prime Aqasix]] candidates during the Azish succession crisis following the assassination of two Primes in one week by [[Szeth\|Szeth]]. [[Lift\|Lift]] overheard him in the [[Bronze Palace\|Bronze Palace]] talking to a number of other viziers. Like the other candidates, Axikk intentionally wrote a bad application essay in an attempt to avoid elevation to Prime. Additionally, he claimed to be disqualified due to a bad back. This excuse was refuted by [[Dalksi\|Dalksi]], who pointed out that [[Ashno\|Ashno of Sages]] had a bad back, but was considered one of the greatest [[Emuli\|Emuli]] Primes.
+He is implied to be one of the viziers who attempts to teach Lift during her time in the Bronze Palace after the ascension of [[Yanagawn\|Yanagawn]]; Lift mentions a vizier that she refers to as "Big A" because of the choking sounds in his name. He was likely one of the many viziers present during [[Dalinar Kholin\|Dalinar Kholin's]] diplomatic visit to Azimir.
 
 
 
-https://es.coppermind.net/wiki/Axikk
+https://coppermind.net/wiki/Axikk

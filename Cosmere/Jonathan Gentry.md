@@ -1,10 +1,10 @@
 |**Jonathan Gentry**|
 |-|-|
-|**Mundo natal**||
+|**Homeworld**||
 
 **Jonathan Gentry** is [[Holly Winseed (Original)\|Holly Winseed]]’s husband. He is a researcher, and does work with nanite and memory technology. He is fascinated with the phycology of checkouts.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
@@ -30,14 +30,6 @@ Jonathan first met Holly at the [[Riverside Marketplace\|Riverside Marketplace]]
 
 Jonathan resumed his normal life, and it took several weeks for the original Holly to figure it out. She confronted him about it at a party, and he confessed to killing the original Jonathan. Later that night, Holly murdered him and mutilated his face with a knife.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[The Original\|The Original]]**|
-|-|-|
-|**Characters**|Holly Winseed ([[Holly Winseed (Original)\|Original]] · [[Holly Winseed (Provisional Replica)\|Provisional Replica]])|
-|**Other**|[[Provisional Replica\|Provisional Replica]] · [[ICON\|ICON]]|
 
 
-
-https://es.coppermind.net/wiki/Jonathan_Gentry
+https://coppermind.net/wiki/Jonathan_Gentry

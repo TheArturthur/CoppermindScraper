@@ -1,88 +1,69 @@
-
-
-|**Brumaspren**|
+|**Mistspren**|
 |-|-|
 ||
-|**Tipo**|[[Spren\|Spren]]🐱︎|
-|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de los [[Vigilantes de la Verdad\|Vigilantes de la Verdad]], [[Astilla\|Astilla]]s|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|[[Spren\|Spren]]|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Truthwatcher\|Truthwatcher]] magic, [[Splinter\|Splinter]]s|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Encuentro fascinantes las preguntas. Las cosas que dudáis me revelan mucho.*”
-\-Soñando-aunque-Despierta[1]
-
-
-Los **brumaspren** son un tipo de [[Spren\|spren]] que existen en [[Roshar\|Roshar]]. Son capaces de establecer un [[V%C3%ADnculo Nahel\|vínculo Nahel]], otorgando así a las personas las habilidades de la [[Orden de los Vigilantes de la Verdad\|Orden de los Vigilantes de la Verdad]]. Están más cerca de Cultivación que de Honor.
-
-## Sumario
-
-1 Apariencia. [[#Apariencia]] 
-
-1. [[#Reino F.C3.ADsico]] 
-1. [[#Reino Cognitivo]] 
+>“*I find the questions fascinating. What you wonder tells me so much.*”
+\-Dreaming-though-Awake[1]
 
 
-2 Habilidades. [[#Habilidades]] 
+**Mistspren** are a subset of [[Spren\|spren]] that exist on [[Roshar\|Roshar]]. They are capable of forming a [[Nahel bond\|Nahel bond]], granting people the abilities of the [[Order of Truthwatchers\|Order of Truthwatchers]]. They are closer to Cultivation than to Honor.
 
-2. [[#V.C3.ADnculo Nahel]] 
+## Contents
+
+1 Appearance. [[#Appearance]] 
+
+1. [[#Physical Realm]] 
+1. [[#Cognitive Realm]] 
 
 
-3 Cultura. [[#Cultura]] 
-4 Brumaspren destacados. [[#Brumaspren destacados]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+2 Abilities. [[#Abilities]] 
+
+2. [[#Nahel bond]] 
 
 
-## Apariencia
+3 Culture. [[#Culture]] 
+4 Notable Mistspren. [[#Notable Mistspren]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance
  
->“*Los brumaspren podemos escoger nuestra forma, ¿sabes? Acostumbramos a elegir la de una persona, pero no tenemos por qué.*”
-\-Soñando-aunque-Despierta[2]
+>“*We usually choose a shape like a person, but we don't need to.*”
+\-Dreaming-though-Awake[2]
 
 
-### Reino Físico
-En el [[Reino F%C3%ADsico\|Reino Físico]], los brumaspren se asemejan al brillo que hace la luz en una superficie cuando se refleja a través de un cristal. Cuando están quietos, la luz brota de ellos en forma de plantas que crecen, que se retiran cuando empiezan a moverse.
-Cuando son iluminados por [[Sja-anat\|Sja-anat]], adoptan una forma diferente: la de un cristal rojo que gotea luz hacia arriba.
+### Physical Realm
+In the [[Physical Realm\|Physical Realm]], mistspren resemble the shimmer light makes on a surface when it is reflected through a crystal. When they stay still, light grows upwards from them in the shape of plants, which retreat when they start moving.
+When Enlightened by [[Sja-anat\|Sja-anat]], they take on a different form -- that of a red crystal dripping light upward.
 
-### Reino Cognitivo
-En el [[Reino Cognitivo\|Reino Cognitivo]], los brumaspren tienen cuerpos hechos de niebla y una máscara de porcelana en la cara. Sus ropas no forman parte de su esencia, pero interactúan con su cuerpo como si fuera sólido. Sus máscaras centellean cuando captan la luz y casi parecen estar hechas de cristal translúcido. La expresión de la máscara no cambia, y los labios no se mueven cuando el brumaspren habla. Aunque generalmente son humanoides, son capaces de adoptar otras formas, a diferencia de la mayoría de los spren sapientes. Las voces de los brumaspren parecen tener una tonalidad de tintineo o de carillón.
-Se desconoce cómo podría ser la apariencia de un brumaspren corrupto en el Reino Cognitivo.
+### Cognitive Realm
+In the [[Cognitive Realm\|Cognitive Realm]], mistspren have bodies made out of fog, and a porcelain mask on their face. Their clothes are not part of their essence, but interact with their body as though it was solid. Their masks twinkle when they catch the light, and almost appear to be made of translucent crystal. The mask's expression does not change, and the lips do not move when the mistspren speaks. Though they generally are humanoid, mistspren are capable of taking on other forms, unlike most sapient spren. Mistspren voices seem to have a tinkling or chiming quality.
+It is unknown how a corrupted Mistspren would appear in the Cognitive Realm.
 
-## Habilidades
-En el [[Reino Cognitivo\|Reino Cognitivo]], los brumaspren pueden cambiar su forma a otras no humanoides. No se sabe cuánto control tienen sobre su forma en el Físico, aunque los spren corruptos, al menos, pueden esconderse dentro de los cuerpos de sus [[Potenciaci%C3%B3n\|potenciadores]] vinculados. También pueden entrar en las [[Gema coraz%C3%B3n\|gemas corazón]] de varias criaturas; en el caso de los [[Cremlino\|cremlinos]], esto les da cierta capacidad para controlar su dirección.
+## Abilities
+In the [[Cognitive Realm\|Cognitive Realm]], mistspren can change their form into non-humanoid shapes. It's unknown how much control over their form they have in the Physical, although the corrupted spren, at least, can hide themselves inside the bodies of their bonded [[Surgebinder\|Surgebinder]]. They can also enter the [[Gemheart\|gemhearts]] of various creatures; in case of [[Cremling\|cremlings]], this gives them some ability to control their direction.
 
-### Vínculo Nahel
-Pueden formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]] para convertir a una persona en [[Vigilante de la Verdad\|Vigilante de la Verdad]] a cambio de conservar su sapiencia en el [[Reino F%C3%ADsico\|Reino Físico]]. Normalmente, conceden a su compañero las habilidades de [[Progresi%C3%B3n\|Progresión]] e [[Iluminaci%C3%B3n\|Iluminación]], permitiendo la curación y la creación de ilusiones. En un vínculo alterado por [[Sja-anat\|Sja-anat]], la potencia de Progresión se mantiene, mientras que la Iluminación no es del todo funcional. Sin embargo, los brumaspren iluminados conceden a su compañero la capacidad de tener visiones del futuro. En un vínculo más avanzado, el brumaspren iluminado también puede grabar la visión y volver a verla más tarde. Los brumaspren iluminados pueden comunicarse con sus potenciadores con la mente.
+### Nahel bond
+They can form a [[Nahel bond\|Nahel bond]] to make a person a [[Truthwatcher\|Truthwatcher]], in exchange for retaining their sapience in the [[Physical Realm\|Physical Realm]]. Ordinarily, they grant their partner the abilities of [[Progression\|Progression]] and [[Illumination\|Illumination]], allowing for healing and creating illusions. In a bond altered by [[Sja-anat\|Sja-anat]], the Progression surge is retained, while Illumination isn't fully functional. However, Enlightened mistspren grant their partner the ability to see visions of the future. In a more advanced bond, the enlightened mistspren can also record the vision and re-view it later. Enlightened mistspren are able communicate to their Surgebinders with their minds.
 
-## Cultura
+## Culture
  
-Los brumaspren, en general, son curiosos; la idea de ver algo a través de una nueva perspectiva, o de averiguar cómo piensan otras criaturas, les parece interesante. Quizás por esta razón son los más dispuestos a ser iluminados por [[Sja-anat\|Sja-anat]], y muchos acuden a ella de buen grado para ser transformados. Parecen muy empáticos y apoyan a sus [[Caballeros Radiantes\|Radiantes]]. No se oponen a vincular a los [[Cantor\|cantores]], aunque se desconoce la prevalencia de esta actitud entre ellos.
-En el [[Reino Cognitivo\|Reino Cognitivo]], muchos brumaspren trabajan a bordo de las naves [[Honorspren\|honorspren]] como tripulantes habituales. Se observa que realizan todo el trabajo a bordo de las naves, pero no parecen estar especialmente abatidos por ello. A pesar de ser capaces de adoptar muchas formas diferentes, generalmente prefieren usar una humanoide. Parece que hay dos esquemas de nomenclatura predominantes entre ellos: descriptivos, como [[So%C3%B1ando-aunque-Despierta\|Soñando-aunque-Despierta]], y aparentemente sin sentido, como [[Glys\|Glys]] y [[Tumi\|Tumi]]. No está claro si esto se debe a que Soñando-aunque-Despierta proviene de una cultura diferente a la de los demás, o si los dos últimos adoptaron nuevos nombres al ser iluminados.
+Mistspren in general are curious; the idea of seeing something through a new perspective, or finding out how other creatures think, seems interesting to them. Perhaps for this reason, they are the most willing to be Enlightened by [[Sja-anat\|Sja-anat]], and many go to her willingly to be transformed. They seem highly empathetic and supportive of their [[Knights Radiant\|Radiants]]. They aren't opposed to bonding [[Singer\|singers]], though it's unknown how prevalent this attitude is among them.
+In the [[Cognitive Realm\|Cognitive Realm]], many mistspren work aboard [[Honorspren\|honorspren]] ships as regular crewmembers. They are noted as doing all the work aboard the ships, but do not seem to be particularly despondent about it. Despite being able to assume many different shapes, they generally prefer using a humanoid one. There seems to be two prevalent naming schemes among them - descriptive, like [[Dreaming-though-Awake\|Dreaming-though-Awake]], and seemingly meaningless, like [[Glys\|Glys]] and [[Tumi\|Tumi]]. It's unclear if this is because Dreaming-though-Awake comes from a different culture than the others, or if the latter two took on new names upon being Enlightened.
 
-## Brumaspren destacados
-[[Glys\|Glys]] (vinculado a [[Renarin\|Renarin]])
-[[Tumi\|Tumi]] (vinculado a [[Rlain\|Rlain]])
-[[So%C3%B1ando-aunque-Despierta\|Soñando-aunque-Despierta]] (vinculada a [[Arshqqam\|Arshqqam]])
-## Curiosidades
-Los brumaspren no estaban pensados originalmente para ser spren Radiantes.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Notable Mistspren
+[[Glys\|Glys]] (bonded to [[Renarin\|Renarin]])
+[[Tumi\|Tumi]] (bonded to [[Rlain\|Rlain]])
+[[Dreaming-though-Awake\|Dreaming-though-Awake]] (bonded to [[Arshqqam\|Arshqqam]])
+## Trivia
+Mistspren weren't originally intended to be Radiant spren.
 
 
-
-https://es.coppermind.net/wiki/Mistspren
+https://coppermind.net/wiki/Mistspren

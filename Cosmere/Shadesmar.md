@@ -1,476 +1,451 @@
-
-
-|**Subastral de Roshar**|
+|**Rosharan subastral**|
 |-|-|
 ||
-|**Ocupado por**|[[Fusionado\|Fusionados]]|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Occupied by**|[[Fused\|Fused]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Este artículo trata sobre el lugar del Reino Cognitivo que acuñó el término Shadesmar. Para uso de Shadesmar como término genérico para todo el Reino, ver [[Reino Cognitivo\|Reino Cognitivo]].
->“*Los demás y tú os referís a Shadesmar como el mundo de los spren, y al Reino Físico como *vuestro* mundo. O como el mundo *real*. Eso no es cierto. No somos dos mundos, sino uno. Y no somos dos pueblos, sino uno. Humanos. Spren. Dos mitades. Ninguna completa.*”
-\-Patrón reflexionando sobre Shadesmar.[1]
-
-
-El **subastral de Roshar** es una sección del [[Reino Cognitivo\|Reino Cognitivo]]. que barca la totalidad del [[Sistema roshariano\|sistema roshariano]] y es el Reino y lugar de nacimiento, de los [[Spren\|spren]]. Se le llama de manera coloquial **Shadesmar**, y también la traducción roshariana de "Reino Cognitivo". Aunque otros mundos tienen sus propias palabras para referirse al "Reino Cognitivo", cuando éstas se traducen mágicamente a otro idioma, el resultado es el nombre "Shadesmar", aunque no se refiera al subastral roshariano. Shadesmar, tal y como lo acuñan y utilizan los rosharianos, también se utiliza en [[Luzdeplata\|Luzdeplata]] como el estándar del [[Cosmere\|Cosmere]].
-
-## Sumario
-
-1 Ubicaciones. [[#Ubicaciones]] 
-
-1. [[#Localizaciones destacables]] 
+This article is about the Cognitive Realm location that coined the term Shadesmar. For use of Shadesmar as a generic term for the entire realm, see [[Cognitive Realm\|Cognitive Realm]].
+>“*You and the others, refer to Shadesmar as the world of the spren, and the Physical Realm as **your** world. Or the **real** world. That is not true. We are not two worlds, but one. And we are not two peoples, but one. Humans. Spren. Two halves. Neither complete.*”
+\-Pattern musing about Shadesmar[1]
 
 
-2 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
+The **Rosharan subastral** is a section of the [[Cognitive Realm\|Cognitive Realm]] that encompasses the entirety of the [[Rosharan system\|Rosharan system]], and is the kingdom and birthplace of [[Spren\|spren]]. It is colloquially referred to as **Shadesmar**, as this is the Rosharan word for "Cognitive Realm". Although other worlds have their own words for "Cognitive Realm", when these get magically translated to another language, it results in the name "Shadesmar", even if not in reference to the Rosharan subastral. Shadesmar, as coined and used by Rosharans, is also used in [[Silverlight\|Silverlight]] as the [[Cosmere\|cosmere]] standard.
 
-2. [[#Medio ambiente]] 
+## Contents
 
-2. [[#Oc.C3.A9ano de Shadesmar]] 
+1 Locations. [[#Locations]] 
+
+1. [[#Notable Locations]] 
 
 
-2. [[#Flora y fauna]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+
+2. [[#Environment]] 
+
+2. [[#Shadesmar Oceans]] 
+
+
+2. [[#Flora and Fauna]] 
 
 2. [[#Flora]] 
 2. [[#Fauna]] 
 
 
-2. [[#Seres]] 
+2. [[#Beings]] 
 
 2. [[#Spren]] 
 
-2. [[#Spren como fabriales]] 
+2. [[#Spren as Fabrials]] 
 
 
-2. [[#Urithiru y el Hermano]] 
-2. [[#Deshechos]] 
+2. [[#Urithiru and the Sibling]] 
+2. [[#Unmade]] 
 
 
-2. [[#Clima]] 
+2. [[#Climate]] 
 
-2. [[#Tipos de patrones clim.C3.A1ticos]] 
+2. [[#Types of Weather Patterns]] 
 
-2. [[#D.C3.ADa cristalino]] 
-2. [[#Clima energ.C3.A9tico]] 
-2. [[#Altas tormentas]] 
-
-
-
-
-2. [[#Perpendicularidad]] 
-
-2. [[#Perpendicularidad de Honor]] 
-2. [[#Perpendicularidad de Cultivaci.C3.B3n]] 
+2. [[#Crystalline Day]] 
+2. [[#Energetic Weather]] 
+2. [[#Highstorm]] 
 
 
 
 
-3 Historia. [[#Historia]] 
+2. [[#Perpendicularity]] 
 
-3. [[#Historia temprana]] 
-3. [[#Historia moderna]] 
-3. [[#El inter.C3.A9s y viaje de una erudita .281167-actualidad.29]] 
-3. [[#Viajera de otro mundo .281173-actualidad.29]] 
-3. [[#La invasi.C3.B3n]] 
-3. [[#El viaje de un h.C3.A9roe a trav.C3.A9s de lo desconocido .281174.29]] 
-3. [[#Delegaci.C3.B3n de emisarios de Urithiru .281175.29]] 
-3. [[#Influencias externas]] 
-
-
-4 Política. [[#Pol.C3.ADtica]] 
-
-4. [[#Pol.C3.ADticas entre los spren]] 
-4. [[#Pol.C3.ADticas spren-humanos]] 
-4. [[#Fuerzas de Odium]] 
-4. [[#Los Sangre Espectral]] 
-
-
-5 Cultura y sociedad. [[#Cultura y sociedad]] 
-
-5. [[#Sociedades de spren verdaderos]] 
-5. [[#Ojomuertos]] 
-5. [[#Sociedades humanas]] 
-5. [[#Viaje]] 
-
-5. [[#Viajes locales]] 
-5. [[#Viaje realm.C3.A1tico]] 
-
-
-5. [[#Econom.C3.ADa]] 
-
-5. [[#Divisas]] 
-5. [[#Intercambio]] 
-
-
-5. [[#Comida y bebida]] 
-5. [[#Actividades de ocio]] 
-
-5. [[#Jardiner.C3.ADa]] 
-
-
-5. [[#Ropa]] 
-5. [[#Idiomas]] 
-5. [[#Religi.C3.B3n]] 
-
-5. [[#Mitolog.C3.ADa]] 
-
-
-5. [[#Magia]] 
-
-5. [[#Potenciaci.C3.B3n]] 
+2. [[#Honor.27s Perpendicularity]] 
+2. [[#Cultivation.27s Perpendicularity]] 
 
 
 
 
-6 Desarrollo. [[#Desarrollo]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+3 History. [[#History]] 
+
+3. [[#Early History]] 
+3. [[#Modern History]] 
+3. [[#A Scholar.27s Interest and Journey .281167-Present.29]] 
+3. [[#Traveler from Another World .281173-Present.29]] 
+3. [[#The Invasion]] 
+3. [[#A Hero.27s Journey Through the Unknown .281174.29]] 
+3. [[#Urithiru Emissary Delegation .281175.29]] 
+3. [[#Outside Influences]] 
 
 
-## Ubicaciones
-Para más imágenes, ver [[Subastral de Roshar/Galer%C3%ADa\|/Galería]].
-El subastral del Cosmere forma parte de un único plano infinito que se conecta con los demás subastrales del [[Cosmere\|Cosmere]] mediante regiones que se conocen localmente como *Extensiones*. Moviéndose lo suficientemente lejos en la dirección de una Extensión, te llevará a otro mundo en el Cosmere. Las cuatro Extensionesen el borde del subastral roshariano son;
+4 Politics. [[#Politics]] 
 
-  Mapa de Shadesmar
-
-[[Extensi%C3%B3n de los Vapores\|Extensión de los Vapores]] - lleva a Scadrial.
-[[Extensi%C3%B3n de las Densidades\|Extensión de las Densidades]] - lleva a Sel.
-[[Extensi%C3%B3n de la Vitalidad\|Extensión de la Vitalidad]]: - probablemente lleve a Nalthis.
-[[Extensi%C3%B3n del Cielo Roto\|Extensión del Cielo Roto]] - Desconocido.
-
-Otros lugares de Shadesmar son;
-[[Nexo de la Imaginaci%C3%B3n\|Nexo de la Imaginación]]
-[[Nexo de la Verdad\|Nexo de la Verdad]]
-[[Nexo de la Transici%C3%B3n\|Nexo de la Transición]]
-[[Mar del Pesar\|Mar del Pesar]]
-[[Mar de las Almas\|Mar de las Almas]]
-[[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]
+4. [[#Interspren Politics]] 
+4. [[#Spren-Human Politics]] 
+4. [[#Odium.E2.80.99s Forces]] 
+4. [[#Ghostbloods]] 
 
 
-Es posible cruzar entre puntos diametrales en [[Roshar\|Roshar]] utilizando el Reino Cognitivo, sin embargo, sería difícil.
+5 Culture and Society. [[#Culture and Society]] 
 
-### Localizaciones destacables
-Los [[Spren\|spren]] verdaderos viven en una serie de ciudades y otros asentamientos en Shadesmar. Algunas de estas ciudades están habitadas y gobernadas por un solo tipo de spren, sin embargo, no todos los [[/wiki/Spren#Spren verdaderos]] tienen su propio reino. Se sabe que los [[Cr%C3%ADptico\|crípticos]] gobiernan una de las grandes ciudades de Shadesmar, y los [[Honorspren\|honorspren]] tienen el control de múltiples lugares. Los [[Cultivacispren\|cultivacispren]], sin embargo, no gobiernan ninguna ciudad del Reino. Un clan de [[Comecuernos\|comecuernos]] vive permanentemente en Shadesmar, presumiblemente cerca de la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]].
+5. [[#True Spren Societies]] 
+5. [[#Deadeyes]] 
+5. [[#Human Societies]] 
+5. [[#Travel]] 
+
+5. [[#Local Travel]] 
+5. [[#Realmatic Travel]] 
 
 
-[[Celebrant\|Celebrant]] - Un destacado puerto comercial que se encuentra en el [[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]].
-[[Integridad Duradera\|Integridad Duradera]] - La capital de los honorspren, situada en el [[Mar de las Almas\|Mar de las Almas]].
-[[Fidelidad Inflexible\|Fidelidad Inflexible]] - Una fortaleza de honorspren situada cerca de [[Kharbranth\|Kharbranth]].
-[[Innominado\|Innominado]] - Una pequeña aldea comercial en el Mar de las Almas.
+5. [[#Economy]] 
 
-## Geografía y ecología
-### Medio ambiente
-El Reino Cognitivo es un reflejo inverso del [[Reino F%C3%ADsico\|Reino Físico]], siendo las masas de "agua" de Shadesmar el reflejo de la tierra en el Reino Físico, y la tierra del Reino Cognitivo el reflejo de los océanos, ríos y lagos. En el subastral roshariano, el "agua" está formada por pequeñas cuentas que representan los aspectos cognitivos de los objetos del mundo físico, mientras que la tierra se crea con obsidiana.
+5. [[#Currency]] 
+5. [[#Trade]] 
 
-  <<Shallan\|Shallan>> y <<Adolin\|Adolin>> en Shadesmar
-Shadesmar se superpone al Reino Físico, sin embargo, como el Reino Cognitivo es más compacto, las localizaciones no se mapean una a una entre los dos Reinos. Como el Reino se forma en base a la percepción de los objetos y el espacio por parte de la gente, la dimensión vertical, el espacio entre planetas, y las localizaciones desconocidas en el Reino Físico, están particularmente comprimidas. La geografía de Shadesmar no necesita basarse en la geología natural del Reino Físico, y también puede formarse como un reflejo de las fuentes de agua o tierra creadas por el hombre.
-El cielo de Shadesmar es negro como el carbón, sin luna ni estrellas. En el horizonte se asienta un pequeño y frágil, sol blanco, que proporciona la luz suficiente para iluminar las tierras pero no el cielo, a pesar de parecer casi demasiado débil para lograr incluso esto. El sol no se mueve ni cambia, independientemente de la hora del día o de la distancia recorrida; debido a esto, Shadesmar no tiene ningún ciclo natural de día y noche. Además tiene una atmósfera natural con un ambiente respirable debido al aire que penetra en el Cognitivo desde el Reino Físico.
-Las nubes largas, rectas, y planas van directamente hacia el sol y dan la impresión de que el objeto está al final de un largo túnel. Es posible que estas nubes aparezcan y desaparezcan y esto puede estar relacionado con el ángulo desde el que se observan. Las nubes también son corpóreas y a veces se utilizan como plataformas de aterrizaje para tipos de spren voladores. Cuando se utilizan de este modo, los spren alteran los patrones de las nubes.
-Las sombras se comportan de forma extraña en Shadesmar, dependiendo de la fuente de luz que las cree. Las sombras proyectadas por el sol apuntarán hacia él en lugar de alejarse, mientras que las proyectadas por el fuego manifestado apuntarán en dirección contraria a la fuente de luz (como ocurriría en el Reino Físico). Las sombras invertidas ocurren en raras ocasiones en el Reino Físico, y están relacionadas de alguna manera con Shadesmar.
-La tierra de Shadesmar está hecha de una obsidiana negra y vidriosa. Debido a la naturaleza de este material, el suelo es frío al tacto y es fácil moverse en silencio. El suelo puede utilizarse como recurso si es necesario, aunque es difícil extraer trozos de obsidiana ya que se rompe si se golpea de forma incorrecta. Los spren rara vez utilizan la obsidiana como material de construcción debido a esta dificultad, aunque ocasionalmente crean armamento con ella. Para acceder a las piezas de obsidiana utilizables se necesitan picos. Una vez extraída, la obsidiana puede ser [[Moldear almas\|moldeada]], y es fácilmente persuadida para que se convierta en otros materiales.
-Es común encontrar penínsulas en Shadesmar ya que son el espejo de los ríos del Reino Físico. La profundidad del río no dicta la profundidad de la península y en la mayoría de los casos uno no podría nadar por debajo de la península. A veces se cortan canales en estas secciones de tierra para crear rutas marítimas más convenientes para los viajeros y comerciantes. En los extremos de estas penínsulas se encuentran faros que indican a los barcos que pasan que están cerca de tierra y que deben tener cuidado con las rocas ocultas. Estos faros son también puntos de paso comerciales donde los barcos pueden entregar mercancías o reponer suministros para su viaje en curso.
 
-#### Océano de Shadesmar
-En lugar de agua, los océanos, ríos y lagos de Shadesmar están hechos de pequeñas y translúcidas cuentas de vidrio oscuro, del tamaño aproximado de la punta de un dedo índice, una judía o una uña. Cada una de estas cuentas representa el alma de un elemento no vivo en el Reino Físico, y tienen una conciencia muy básica que es capaz de comunicar su Intención primordial. Las cuentas no siempre pueden ser entendidas y algunos spren son capaces de actuar como traductores entre las cuentas y los demás. Pueden ser retiradas de su ubicación en el océano y llevadas a cualquier lugar dentro de Shadesmar, independientemente de dónde se encuentre su objeto correspondiente en el Reino Físico, ya que el cuerpo y la mente del objeto están conectados a través del [[Reino Espiritual\|Reino Espiritual]]. Sin embargo, dichas cuentas deben guardarse de forma segura para evitar que vuelvan por sí solas a la ubicación correspondiente de su objeto. Consumir una de ellas y pasar al Reino Físico tendría un efecto negativo. No hay cuentas que representen el poder de las [[Esquirlas\|Esquirlas]] en el sistema.
+5. [[#Food and Drink]] 
+5. [[#Leisure Activities]] 
 
->“*Adolin se quedó solo con el interminable panorama del océano. Pensar en aquellas cuentas le hacía nudos en la mente. Eran las almas de todos los objetos que componían el mundo físico. Revueltas y mezcladas, formando olas y fuertes mareas, cada una hecha de pequeñas cuentas que no eran más anchas que su dedo índice.*”
-\-Adolin reflexionando sobre el océano de Shadesmar.[26]
+5. [[#Gardening]] 
 
-Es posible obtener impresiones de las cuentas da qué objeto representan ––Esto es más fácil de hacer por aquellos que están [[/wiki/Investidura#Investidura en humanos]]––, sin embargo, todavía hay un elemento de talento natural con algunas personas que son más adecuadas para la tarea que otras. La [[Investidura\|Investidura]] no es necesaria para obtener impresiones o visualizar las almas de las cuentas, aunque estas se ven atraídas por la Investidura y pulularán con alguien que la tenga si es capaz de sentirla. Las impresiones coincidirán con la magnitud del objeto, y los objetos más grandes, más antiguos y/o más grandes amenazan con abrumar a la persona que sostiene la cuenta. Además, el peso de cada cuenta está relacionado, pero no es igual, con el objeto físico que representa, y las almas de los objetos más grandes son engañosamente más pesadas de lo que parecen.
-La Investidura, como la luz tormentosa, puede ser detectada por las cuentas si está contenida en una gema, o si la sostiene un Caballero Radiante. El grado en que pueden percibir la Investidura de un Caballero Radiante depende de la orden, siendo algunos menos "detectables" que otros. Debido a la reacción de las cuentas oceánicas de Shademar, puede ser peligroso para los [[Potenciador\|potenciadores]] utilizar sus poderes mientras están en este Reino, para no atraer las cuentas ––y a los spren peligrosos–– hacia ellos y sus compañeros. A pesar de estos problemas, viajar a Shadesmar sin suficiente luz tormentosa no es aconsejable, ya que es la moneda del reino y puede ser utilizada por los spren para curarse si es necesario. No está claro si las cuentas de Shadesmar pueden infundirse con luz tormentosa.
-Si son alimentadas con luz tormentosa por un  o [[Nominador de lo Otro\|Nominador de lo Otro]], las cuentas pueden ser usadas para construir objetos basados en la visualización del alma de una cuenta específica. Las cuentas encajarán con la de origen para formar una estructura similar a un entramado hasta que el objeto se haya formado. Estos objetos pueden soportar cargas, incluso cuando no estarían en el Reino Físico, y no es necesario crear todo el objeto. Algunas creaciones pueden moverse por sí mismas, aunque no muy bien. Las creaciones de objetos más grandes o sólidos, pueden ser más difíciles de reubicar sin colapsar primero la estructura, mientras que las más pequeñas pueden moverse con mayor facilidad. La luz tormentosa puede ser recuperada de estas creaciones, aunque no toda es devuelta al usuario.
-La luz tormentosa puede usarse en las cuentas para manifestar objetos del Reino Físico. Estos pueden reinfundirse para que duren más tiempo. La habilidad del manifestador determina el tiempo que el objeto permanecerá en el reino, aunque la habilidad de manifestar objetos es rara, puede ser bastante peligrosa, y es bastante agotadora.
-Al igual que ocurre con el agua, es posible ahogarse si uno se tira a las cuentas, ya que éstas se arremolinan en los seres si entran en contacto e intentan introducirse en la boca y la garganta de la persona, provocando su asfixia. No es posible nadar a través de ellas, ya que no proporcionan flotabilidad, y en su lugar la gente se hundirá en lo que parece un líquido viscoso. Hay una corriente submarina que mueve las cuentas, que es más fuerte que la que normalmente se encuentra en los océanos del Reino Físico.
 
-### Flora y fauna
+5. [[#Clothing]] 
+5. [[#Languages]] 
+5. [[#Religion]] 
+
+5. [[#Mythology]] 
+
+
+5. [[#Magic]] 
+
+5. [[#Surgebinding]] 
+
+
+
+
+6 Development. [[#Development]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
+
+
+## Locations
+For more images, see [[Rosharan subastral/Gallery\|/Gallery]].
+The Rosharan subastral is part of a single infinite plane that connects to the other subastrals in the [[Cosmere\|cosmere]] by regions that are locally known as *Expanses*. Moving far enough in the direction of an Expanse, will take you to another world in the cosmere. The four Expanses at the edge of the Rosharan subastral are;
+
+  Shadesmar Map
+
+[[Expanse of the Vapors\|Expanse of the Vapors]] - leads to Scadrial
+[[Expanse of the Densities\|Expanse of the Densities]] - leads to Sel
+[[Expanse of Vibrance\|Expanse of Vibrance]]: - possibly leads to Nalthis
+[[Expanse of the Broken Sky\|Expanse of the Broken Sky]] - Unknown
+
+Other locations in Shadesmar include;
+
+
+[[Nexus of Imagination\|Nexus of Imagination]]
+[[Nexus of Truth\|Nexus of Truth]]
+[[Nexus of Transition\|Nexus of Transition]]
+[[Sea of Regret\|Sea of Regret]]
+[[Sea of Souls\|Sea of Souls]]
+[[Sea of Lost Lights\|Sea of Lost Lights]]
+
+
+It is possible to cross between diametrical points on [[Roshar\|Roshar]] by utilizing the Cognitive Realm, however, it would be difficult.
+
+### Notable Locations
+True [[Spren\|spren]] live in a number of cities and other settlements in Shadesmar. Some of these cities are inhabited and ruled by a single type of spren, however, not all [[/wiki/Spren#True Spren]] have their own kingdom. [[Cryptic\|Cryptics]] are known to rule one of the greater cities in Shadesmar, and the [[Honorspren\|honorspren]] have control of multiple locations. [[Cultivationspren\|Cultivationspren]], however, rule no cities in the realm. A clan of [[Horneater\|Horneaters]] live permanently in Shadesmar, presumably nearby to [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].
+
+
+[[Celebrant\|Celebrant]] - a prominent trading port that can be found in the [[Sea of Lost Lights\|Sea of Lost Lights]]
+[[Lasting Integrity\|Lasting Integrity]] - the honorspren capital, located in the [[Sea of Souls\|Sea of Souls]]
+[[Unyielding Fidelity\|Unyielding Fidelity]] - an honorspren stronghold located near [[Kharbranth\|Kharbranth]]
+[[Nameless\|Nameless]] - a small trading village in the Sea of Souls
+
+## Geography and Ecology
+### Environment
+The Cognitive Realm is an inverse reflection of the [[Physical Realm\|Physical Realm]], with Shadesmar's bodies of "water" mirroring land in the Physical Realm, and Cognitive Realm land being the reflection of oceans, rivers, and lakes. In the Rosharan subastral, "water" is made up of small beads that represent the cognitive aspects of physical world objects, while the land is created out of obsidian.
+
+  <<Shallan\|Shallan>> and <<Adolin\|Adolin>> in Shadesmar
+Shadesmar overlays the Physical Realm, however, as the Cognitive Realm is more compact, locations do not map one to one between the two realms. As the realm forms based on people’s perception of objects and space, the vertical dimension, space between planets, and unknown locations in the Physical Realm, are particularly compressed. Shadesmar geography does not need to be based off naturally occurring Physical Realm geology, and can also form as a reflection of man-made land or water sources.
+The sky in Shadesmar is pitch black with no moon or stars. On the horizon sits a small, frail, white sun, that provides enough light to illuminate the lands but not the sky, despite appearing almost too weak to achieve even this. The sun does not move or change regardless of time of day or distance traveled - because of this, Shadesmar does not have any natural day and night cycle. Shadesmar has a natural atmosphere with a breathable atmosphere due to air permeating into the Cognitive from the Physical Realm.
+Long, straight, flat clouds run directly towards the sun and give the impression that the object is at the end of a long tunnel. It is possible for these clouds to appear and disappear and this may be related to which angle they are observed from. The clouds are also corporeal and are sometimes used as landing pads for types of flying spren. When utilized this way, the spren disrupt the cloud patterns.
+Shadows behave strangely in Shadesmar, depending on the source of light that is creating them. Shadows cast by the sun will point towards it instead of away, while those cast by manifested fire will point away from the light source as would occur in the Physical Realm. Backward shadows occur on rare occasions in the Physical Realm, and are related in some way to Shadesmar.
+The land in Shadesmar is made of a glassy, black obsidian. Because of the nature of this material, the ground is cold to touch and it is easy to move quietly. The ground can be used as a resource if necessary, although it is difficult to remove chunks of obsidian as it shatters if struck incorrectly. The spren rarely use obsidian as a building material because of this difficulty, although they occasionally create weaponry from it. To access pieces of usable obsidian, pickaxes are needed. Once removed, the obsidian is able to be [[Soulcast\|Soulcast]], and is easily persuaded to change into other materials.
+It is common to find peninsulas in Shadesmar as they are the mirror of Physical Realm rivers. The depth of the river does not dictate the depth of the peninsula and in most cases one would not be able to swim underneath the peninsula. Channels are sometimes cut in these sections of land to create more convenient sea routes for travelers and traders. Lighthouses can be found at the end of these peninsulas to signal to passing ships that they are close to land and that they should beware of hidden rocks. These lighthouses are also trade waypoints where ships can deliver goods or restock supplies for their ongoing journey.
+
+#### Shadesmar Oceans
+Instead of water, Shadesmar oceans, rivers, and lakes are made of small, translucent, dark glass beads, approximately the size of the tip of an index finger, a bean, or a fingernail. Each of these beads represent the soul of a non-living item in the Physical Realm, and have a very basic consciousness that is able to communicate its primal intent. The beads cannot always be understood and some spren are able to act as translators between beads and other parties. Beads can be removed from their location in the ocean and taken anywhere within Shadesmar, regardless of where its corresponding item is in the Physical Realm, as the body and mind of the object are connected via the [[Spiritual Realm\|Spiritual Realm]]. The beads must be stored securely, however, to prevent them from returning on their own to the corresponding location of their item. Consuming a bead and transitioning to the Physical Realm would have a negative effect. There are no beads that represent the power of the [[Shard\|Shards]] in the system.
+
+>“*He was left with only the endless view of the ocean. It bent his mind to think about those beads. The souls of all the objects that made up the physical world. Churning and mixing together, forming waves and surging tides, each composed of small beads no wider than his index finger.*”
+\-Adolin musing on the Shadesmar ocean[26]
+
+It is possible to gain impressions from beads of what object they represent - this is more easily done by those who are [[/wiki/Investiture#Investiture of Humans]], however, there is still an element of natural talent with some people being better suited to the task than others. [[Investiture\|Investiture]] is not needed to get impressions or visualize the souls of the beads, although the beads are attracted to Investiture and will swarm someone who holds it if they are able to sense it. Impressions will match the magnitude of the object, with larger, older, and/or grander objects threatening to overwhelm the person holding the bead. As well as this, the weight of each bead is related, but not equal, to the physical object it represents, with souls for larger objects being deceptively heavier than they appear.
+Investiture, such as [[Stormlight\|Stormlight]], can be detected by the beads if contained in a gemstone, or held by a [[Knights Radiant\|Radiant]]. The degree that the beads can sense Investiture from a Knights Radiant is dependent on the Order, with some being less "detectable" than others. Because of the reaction of the Shademar ocean beads, it can be dangerous for [[Surgebinder\|Surgebinders]] to use their powers while in the Realm, lest they draw the beads - and dangerous spren - to themselves and their companions. Despite these issues, traveling Shadesmar without sufficient Stormlight is unwise as it is the currency of the realm and can be used by the spren to heal if required. It is unclear if the Shadesmar beads can be infused with Stormlight.
+If fed Stormlight by a [[Order of Lightweavers\|Lightweaver]] or [[Elsecaller\|Elsecaller]], the beads can be used to build objects based on visualization of the soul of a specific bead. The beads will fit together with the source bead to form a lattice like structure until the object has formed. These objects can be load bearing, even when they would not be in the Physical Realm, and the entire object does not need to be created. Some creations can move on their own, though not very well. Creations of larger or more solid objects, may be more difficult to relocate without first collapsing the structure, while smaller ones can be moved around more easily. Stormlight can be reclaimed from these creations, although not all is returned to the user.
+Stormlight can be used on the beads to manifest objects from the Physical Realm. These objects can be reinfused so that they will last longer. The skill of the manifester determines the length of time the item will remain in the realm, although the ability to manifest objects is rare, can be quite dangerous, and is rather draining.
+Like with water, it is possible to drown if pulled under the beads, as they will swarm beings if they make contact and will attempt to force their way into a person's mouth and throat, causing them to suffocate. It is not possible to swim through the beads as they provide no buoyancy, and instead people will sink into what feels like a viscous liquid. There is an underwater current that moves the beads, that is stronger than what would normally be found in Physical Realm oceans.
+
+### Flora and Fauna
 #### Flora
-Hay una gran variedad de vida vegetal en Shadesmar, que, como en el Reino Físico, parece diferir según la región. Las plantas y los árboles están hechos de diferentes tipos de vidrio o cristal y pueden ser de diversos colores. Mientras que algunas de estas plantas son frágiles y se hacen añicos si se tocan, otras son más resistentes y son menos propensas a romperse. Mientras que algunas plantas y árboles comparten la misma forma física general que la flora del [[Reino F%C3%ADsico\|Reino Físico]], otros, como los árboles de hongos, son mucho más extraños. Se pueden encontrar bosques completamente desarrollados en el sur de Shadesmar, tanto cerca de la [[/wiki/Puerta Jurada#Thaylenah]] como cerca de [[Integridad Duradera\|Integridad Duradera]].
+There is a variety of plant life in Shadesmar, which, like in the Physical Realm, appears to differ based on region. Plants and trees are made of different types of glass or crystal and can be a variety of colors. While a number of these plants are brittle and will shatter if touched, some are sturdier and are less prone to breaking. While some plants and trees share the same general physical shape as flora in the [[Physical Realm\|Physical Realm]], others, such as mushroom trees, are much more alien. Fully fledged forests can be found in the south of Shadesmar, both near the [[/wiki/Oathgate#Thaylenah]] and near [[Lasting Integrity\|Lasting Integrity]].
 
 #### Fauna
-Las criaturas del Reino Físico también pueden encontrarse en el Cognitivo, habiendo sido traídas a través de una perpendicularidad. Mientras que la mayoría de los animales del Reino Físico parecen aparecer como lo harían en su hábitat natural, el [[Ryshadio\|ryshadio]] deja una débil imagen posterior.
-En el Reino Cognitivo existe un animal que se asemeja vagamente a un caballo, y es utilizado de manera similar, por los [[/wiki/Spren#Spren verdaderos]].
+Physical Realm creatures can also be found in the Cognitive, having been brought through a perpendicularity. While most Physical Realm animals seem to appear as they would in their natural habitat, [[Ryshadium\|Ryshadium]] trail a faint afterimage.
+An animal exists in the Cognitive Realm that vaguely resembles a horse, and is used in a similar manner, by [[/wiki/Spren#True Spren]].
 
-### Seres
->“*Esas llamas son las almas de la gente, y estas esferas representan las almas de objetos. Sí, es una revelación con profundas implicaciones filosóficas. Dejémoslas estar, ¿de acuerdo?*”
-\-Shallan explicando Shadesmar.[5]
+### Beings
+>“*Those flames are the souls of people, while these spheres represent the souls of objects. Yes, there are huge philosophical implications in that. Let’s try to ignore them, shall we?*”
+\-Shallan explaining Shadesmar[5]
 
 
-Los seres vivos se reflejan en Shadesmar como pequeñas llamas. Estas llamas difieren en tamaño entre las especies y aunque a menudo se encuentran flotando justo por encima del suelo de Shadesmar, también pueden encontrarse a diferentes elevaciones dependiendo de su ubicación en el Reino Físico. Las llamas no producen calor, sin embargo, producen luz.
-Si alguien se corrompe, su alma se volverá roja. Las almas de los [[Fusionado\|fusionados]] aparecen como una forma humanoide retorcida que brilla con luz oscura antes de que los fusionados se hayan apoderado de un cuerpo físico, y después de tomar un huésped, se asemejarán a una llama oscura que pulsa como un corazón que late. El tipo de forma que lleva un [[Cantor\|cantor]] se puede distinguir viendo su aspecto Cognitivo basado en el [[Spren\|spren]] que tiene en su [[Gema coraz%C3%B3n\|gema corazón]], y es fácil saber si son fusionados, [[Regio\|Regios]], o cantores ordinarios. También es posible distinguir las diferentes clases de Fusionados viendo su aspecto cognitivo.
-Si alguien va a morir en el Reino Físico, la llama de su alma desaparecerá. Aunque el difunto no parece aparecer en Shadesmar después de morir, como lo hacen en el [[/wiki/Reino Cognitivo#Scadrial]], puede ser que simplemente no son visibles para la gente normal, y uno tendría que ser una [[Sombra cognitiva\|sombra cognitiva]] en sí mismo para ver el alma del recién fallecido. De forma similar a las cuentas, tocar una llama de alma dará la impresión de la persona que representa y es posible sentir sus emociones y pensamientos generales.
-Los cantores están más cerca del Reino Cognitivo que los humanos y esto, en parte, es lo que les permite cambiar de forma. [[Lift\|Lift]] también es única en el sentido de que existe parcialmente en lo Cognitivo, lo que le permite tocar físicamente a los spren cuando no debería ser posible.
+Living beings reflect in Shadesmar as small flames. These flames differ in size between species and although they are often found hovering just above the Shadesmar ground, they can also be found at different elevations depending on their location in the Physical Realm. The flames do not produce heat, however, they do produce light.
+If someone is corrupted, their soul will turn red. The souls of [[Fused\|Fused]] appear as a twisted humanoid shape that shimmer with dark light before the Fused has taken over a physical body, and after taking a host, will resemble a dark flame that pulses like a beating heart. The type of form that a [[Singer\|singer]] is wearing is distinguishable through viewing their Cognitive aspect based on the [[Spren\|spren]] they hold in their [[Gemheart\|gemheart]], and it is easy to tell if they are a Fused, [[Regal\|Regal]], or ordinary singer. It is also possible to tell apart the different brands of Fused by viewing their cognitive aspect.
+If someone is to die in the Physical Realm, their soul flame will disappear. Although the deceased does not seemingly appear in Shadesmar after they die, as they do in the [[/wiki/Cognitive Realm#Scadrial]], it may be that they are just not visible to regular people, and one would need to be a [[Cognitive Shadow\|Cognitive Shadow]] themselves to see the newly departed soul. Similar to the beads, touching a soul flame will give the impression of the person it represents and it is possible to feel their emotions and general thoughts.
+Singers are closer to the Cognitive Realm than humans and this, in part, is what allows them to change forms. [[Lift\|Lift]] is also unique in that she exists partially in the Cognitive, which allows her to physically touch spren when it shouldn't be possible.
 
 #### Spren
 
-Shadesmar está predominantemente poblada por spren, con [[/wiki/Spren#Spren verdaderos]] organizados en civilizaciones y [[/wiki/Spren#Spren menores]] vagando salvajemente, de forma similar a los animales que se encontrarían en el Reino Físico. Muchos de estos spren menores viven en el océano de cuentas, ya que se sienten atraídos por las poblaciones humanas que se encuentran en el lugar equivalente en el otro reino. Hay una regionalidad en la difusión de los tipos de spren y ciertos spren pueden encontrarse más comúnmente en diferentes áreas. El número de spren en Shadesmar ayuda a actuar como "válvulas de escape" para el poder astillado de Honor, debido a su naturaleza como [[Astilla\|astillas]].
+Shadesmar is predominantly populated by spren, with [[/wiki/Spren#True Spren]] organized in civilizations and [[/wiki/Spren#Lesser Spren]] roaming wild, similar to animals as they would be found in the Physical Realm. Many of these lesser spren live within the bead ocean as they are drawn to human populations that are in the equivalent location in the other realm. There is a regionality to the spread of spren types and certain spren may be more commonly found in different areas. The number of spren in Shadesmar help to act as "release valves" for Honor’s splintered power, due to their nature as [[Splinter\|Splinters]].
 
-  <<Spren\|Spren>> en sus formas en Shadesmar
-Muchos de los spren que viven en los océanos son spren emocionales, con varios tipos considerados bastante peligrosos. Los spren menores, como los [[Mandra\|mandras]] sólo pueden viajar hasta cierto punto lejos de los centros de población humana en el Reino Físico antes de empezar a morir. Los tipos específicos de spren menores que se pueden encontrar en Shadesmar están ligados a las naturalezas de las dos [[Esquirla\|Esquirlas]] en [[Roshar\|Roshar]]; [[Cultivaci%C3%B3n\|Cultivación]] y [[Honor\|Honor]].
-Al igual que en el Reino Físico, los spren verdaderos no se cansan al realizar actividades ni necesitan dormir o comer. Pueden "alimentarse" de las emociones y de la [[Luz tormentosa\|luz tormentosa]] si está disponible. Los niños spren pueden ser creados por la [[Investidura\|Investidura]] que se fusiona en un lugar de Shadesmar y se vuelve sapiente, sin embargo, esto es una ocurrencia muy rara y a veces toma cientos de años. Los niños tendrán aproximadamente el mismo aspecto que sus mayores y no crecen de la misma manera que los niños humanos o cantores. Si un spren es cortado por una [[Hoja esquirlada\|hoja esquirlada]] en el Reino Físico, eventualmente se formará de nuevo en Shadesmar. Sin embargo, si se les hiere lo suficiente en el Reino Cognitivo, sus mentes pueden romperse y el spren se convertirá en algo parecido a un ojomuerto. Esto puede deshacerse alimentando a los spren con una gran cantidad de luz tormentosa. Los spren menores se alimentan concretamente de luz tormentosa.
-Los spren residen físicamente en Shadesmar y, a diferencia lo que ocurre en el Reino Físico, tienen masa y sustancia. Los spren menores pueden ser arrastrados al Reino Físico si son fuertemente atraídos por una emoción o un fenómeno natural, mientras que los spren verdaderos pueden elegir la transición de su mente. Generalmente, sólo una parte de un spren, menor o verdadero, pasa al Reino Físico; por ello, la mayoría de los humanos nunca han visto los cuerpos reales de los spren. Mientras están en Shadesmar, los spren verdaderos no necesitan un [[V%C3%ADnculo Nahel\|vínculo Nahel]] para seguir siendo sapientes. Los cuerpos de los spren cambiarán físicamente si son corrompidos por [[Sja-anat\|Sja-anat]]. Efectos como el ondeo de la ropa y el pelo que ocurren para algunos spren en el Reino Físico, no ocurren en Shadesmar.
-La única vez que los spren pueden transferir voluntariamente todo su ser al Físico, es cuando se convierten en hojas esquirladas. Cuando no está en forma de espada, el cuerpo físico de un spren verdadero se presenta en Shadesmar, aunque su mente haya cruzado a otro reino. Esta transición parcial es a menudo la razón por la que los spren Radiantes pueden permanecer invisibles si así lo desean, aunque hay un nivel de habilidad que está involucrado tanto en la aparición como en la desaparición de la vista. Estos spren también seguirán siendo visibles en el Reino Cognitivo aunque se hayan vuelto invisibles en el otro Reino.
-Los spren que han hecho la transición apenas tienen sustancia en el Físico, lo que hace difícil tocarlos, y en algunos casos debería ser imposible. Cuando los spren Radiantes transicionan por primera vez sus mentes desde Shadesmar, pierden gran parte de su mente y su memoria, y corren el riesgo de perder su sapiencia. Esta pérdida de memoria difiere entre los spren y/o es probable que regresen a diferentes ritmos. Al retornar al Reino Cognitivo no se restablecen sus recuerdos por completo, sin embargo, los spren parecen ganar una cierta cantidad de reconocimiento sobre su entorno y algunos recuerdos del Reino al retornar a Shadesmar. Es posible que un spren verdadero no vinculado regrese al Reino Cognitivo, aunque se desconoce cómo lo haría un spren o si los efectos que ha sufrido en el Reino Físico se revertirían.
-No todos los spren menores residen en Shadesmar, ya que los que son más adecuados principalmente para el Reino Físico, como los [[Vientospren\|vientospren]], rara vez se ven en el Cognitivo. Los spren menores que viven en el Cognitivo aún pueden ser atraídos por su atributo o emoción individual, lo que puede suponer una amenaza para los viajeros si un spren de una emoción violenta o feroz es atraído al grupo. A diferencia del Reino Físico, tanto los humanos como los spren pueden atraer la atención de los spren emocionales cercanos. Los spren que habitan en una criatura, también pueden verse separados de la llama del alma de la criatura si se ven en Shadesmar.
+  <<Spren\|Spren>> in their Shadesmar forms
+Many of the spren that live in the oceans are emotion spren, with several types considered quite dangerous. Lesser spren, such as [[Mandras\|mandras]] can only travel so far away from human population centers in the Physical Realm before they will begin to die. The specific types of lesser spren that can be found in Shadesmar are tied into the natures of the two [[Shards\|Shards]] on [[Roshar\|Roshar]], [[Cultivation\|Cultivation]] and [[Honor\|Honor]].
+Like in the Physical Realm, true spren do not tire from activities nor do they require sleep or food. They can "feed" off emotion and [[Stormlight\|Stormlight]] if it is available. Spren children can be created by [[Investiture\|Investiture]] coalescing in one place in Shadesmar and becoming sapient, however, this is a very rare occurrence and sometimes take hundreds of years. Children will look approximately the same as their elders and do not grow in the same fashion that human or singer children do. If a spren is cut by a [[Shardblade\|Shardblade]] in the Physical Realm they will eventually re-form in Shadesmar. However, if they are hurt enough in the Cognitive Realm it can cause their minds to break and the spren will become akin to a deadeyes. This can be undone by feeding spren a large quantity of Stormlight. Lesser spren do feed specifically on Stormlight.
+Spren physically reside in Shadesmar and, unlike in the Physical Realm, have mass and substance. Lesser spren can be pulled through to the Physical Realm if they are strongly attracted by an emotion or natural phenomena, while true spren can choose to transition their mind. Generally, only part of a spren, lesser or true, moves through to the Physical Realm; as such, most humans have never viewed the real bodies of the spren. While in Shadesmar, true spren do not need a [[Nahel bond\|Nahel bond]] to remain sapient. The bodies of spren will physically change if corrupted by [[Sja-anat\|Sja-anat]]. Effects such as rippling clothing and hair that occur for some spren in the Physical Realm, do not occur in Shadesmar.
+The only time spren can voluntarily transfer their whole self into the Physical, is when they become Shardblades. When not in Blade form, a true spren’s physical body will present in Shadesmar, even though their mind has crossed over to another realm. This partial transition is often why Radiant spren can remain invisible if they choose, although there is a level of skill that is involved with both appearing and disappearing from sight. These spren will also still be visible in the Cognitive Realm even if they have become invisible in the other realm.
+Spren that have transitioned have barely any substance in the Physical making it difficult to touch them, and in some cases it should be impossible. When Radiant spren first transition their minds from Shadesmar, they lose much of their mind and memory, and risk losing their sapience. This memory loss differs between spren and/or likely returns at different rates. Returning to the Cognitive Realm does not restore their memories completely, however, spren do appear to gain a certain amount of recognition about their surroundings and some memories of the realm upon returning to Shadesmar. It is possible for an unbonded true spren to return to the Cognitive Realm, although it is unknown how a spren would do this or whether any effects they have suffered in the Physical Ream would be reversed.
+Not all lesser spren reside in Shadesmar, with those that are more suited to primarily the Physical Realm, such as [[Windspren\|windspren]], rarely being seen in the Cognitive. Lesser spren that live in the Cognitive can still be attracted by their individual attribute or emotion, which can pose a threat to travelers if a violent or vicious emotion spren is drawn to the group. Unlike in the Physical Realm, both humans and spren can draw the attention of nearby emotion spren. Spren that are inhabiting a creature, can also be seen separate to the creature’s soul flame if viewed in Shadesmar.
 
 
-Los spren sapientes que han pasado al Reino Físico, incluidos los [[/wiki/Spren#Influencia de Odium]], para convertirse en [[Fabrial\|fabriales]] y los [[Moldear almas\|moldeadores de almas]] siguen manifestándose en el Reino Cognitivo. Los spren moldeadores de almas son pequeños y no reaccionan, y aparecen en Shadesmar con los ojos cerrados, mientras que los spren corruptos tienen más capacidad de comunicación y son más conscientes de su entorno.
+Sapient spren that have transitioned themselves to the Physical Realm, including [[/wiki/Spren#Odium.27s Influence]], to become [[Fabrial\|fabrials]] and [[Soulcaster\|Soulcasters]] still manifest in the Cognitive Realm. Soulcaster spren are small and unresponsive, and appear in Shadesmar with their eyes closed, while corrupted spren have more of an ability to communicate and are more aware of their surroundings.
 
-#### Urithiru y el Hermano
->“*El brillo nacarado no imitaba del todo la forma de la torre, sino que daba una sensación más cristalina. Eso y que no era física, sino de luz. Radiante, refulgente, brillante.*”
-\-Adolin maravillado con el Hermano.[26]
+#### Urithiru and the Sibling
+>“*The mother-of-pearl radiance didn’t exactly mimic the shape of the tower, but had a more crystalline feel to it. Except it wasn’t physical, but light. Radiant, resplendent, and brilliant.*”
+\-Adolin marveling at the Sibling[26]
 
-En Shadesmar, el [[Hermano\|Hermano]] se asemeja a una montaña resplandeciente de luz brillante. Similar a una [[Alta tormenta\|alta tormenta]], el Hermano tiene una coloración nacarada o iridiscente, así como una sensación cristalina. Aunque el Hermano no adopta por completo la forma de [[Urithiru\|Urithiru]], sí forman una vaga aproximación. Por lo general, se pueden encontrar un gran número de spren emocionales alrededor de la torre en el Reino Cognitivo, debido al número de seres que ocupan ese espacio en el Reino Físico. A pesar de la luz que desprende la torre, el Hermano no proyecta ninguna sombra.
-Los spren pueden ser más difíciles de ver cuando se asoman a Shadesmar, debido a la luz que desprende el Hermano, aunque no es imposible ver spren normales o [[Vac%C3%ADospren\|vacíospren]]. La torre tiene algún tipo de protección en Shadesmar contra los tipos de spren más violentos, que podrían ser un peligro para cualquiera en el Reino Cognitivo y sus alrededores.
-Urithiru se encuentra a una mayor altura que el océano de cuentas y se pueden encontrar rampas que descienden en espiral desde las plataformas de las [[Puerta Jurada\|Puertas Juradas]], para aquellos que necesiten llegar al océano de abajo. Debido al espacio comprimido de Shadesmar, la distancia desde la parte superior del pilar de la Puerta Jurada hasta el océano es menor de lo que sería en el Reino Físico. El resplandor de la torre, aunque no la torre misma, puede verse desde el nivel del mar.
+In Shadesmar, the [[Sibling\|Sibling]] resembles a shimmering mountain of bright light. Similar to the [[Highstorm\|Highstorm]], the Sibling has a mother of pearl or iridescent coloring as well as a crystalline feel. While the Sibling does not completely take the shape of [[Urithiru\|Urithiru]], they do form a vague approximation. A large number of emotion spren can generally be found around the tower in the Cognitive Realm, due to the number of beings that occupy the space in the Physical Realm. Despite the light given off by the tower, the Sibling casts no shadow.
+Spren can be harder to see when peaking into Shadesmar, due to the light given off by the Sibling, although it is not impossible to see regular spren or [[Voidspren\|Voidspren]]. The tower has some form of protection in Shadesmar against the more violent types of spren, who could be a danger to anyone in the Cognitive Realm and vicinity.
+Urithiru sits at a higher elevation than the bead ocean and ramps can be found spiraling down from the [[Oathgate\|Oathgate]] platforms, for those who need to reach the ocean below. Because of Shadesmar’s compressed space, the distance from the top of the Oathgate pillar to the ocean is smaller than it would be in the Physical Realm. The glow from the tower, though not the tower itself, can be seen from sea level.
 
-#### Deshechos
-Muchos de los [[Deshecho\|Deshechos]] existen en el espacio entre el Reino Cognitivo y el Físico, y fueron deliberadamente atrapados allí por [[Odium\|Odium]]. Son capaces de ver en ambos, aunque la corporeidad de su forma en cualquiera de los dos reinos difiere entre los individuos. Los distintos Deshechos pueden tener distintos niveles de control sobre el plano en el que existen en un momento dado, y sobre cuánto pueden moverse por los distintos Reinos. 
+#### Unmade
+Many of the [[Unmade\|Unmade]] exists within the space between the Cognitive and Physical Realm, and were deliberately trapped there by [[Odium\|Odium]]. They are able to see into both, however the corporality of their form in either realm differs between individuals. Different Unmade may have varying levels of control over which plane they exist in at any given time, and how much they can move around the different realms.
 
-### Clima
-Los patrones climáticos en Shadesmar difieren de los del Reino Físico, y no se basan en la temperatura o las precipitaciones. Por ello, los viajeros y residentes del Reino Cognitivo no necesitan refugios equipados para hacer frente a las tormentas o al mal tiempo. Tampoco hay viento en Shadesmar.
-En lugar de patrones físicos, el clima de Shadesmar tiene un efecto directo sobre las emociones y el bienestar de los spren, haciendo que se sientan vigorizados en algunos días y deprimidos y agobiados en otros. Tanto los spren verdaderos como los spren menores se ven afectados por estos patrones climáticos, y los spren menores pueden sentirse alterados en función del tiempo. Este fenómeno también se ve con el paso de la alta tormenta, que proporciona energía a los spren verdaderos y ayuda a revitalizarlos.
+### Climate
+Weather patterns in Shadesmar differ to those from the Physical Realm, and are not based on temperature or precipitation. As such, travelers and residents of the Cognitive Realm do not need shelters that are equipped to deal with storms or bad weather. There is also no wind in Shadesmar.
+Instead of physical patterns, the Shadesmar weather has a direct effect on the emotions and wellbeing of spren, causing them to feel invigorated on some days and dreary and weighed down on others. Both true spren and lesser spren are affected by these weather patterns, with lesser spren becoming aggravated depending on the weather. This phenomenon is also seen with the passing Highstorm, which provides true spren with energy and helps to revitalize them.
 
-#### Tipos de patrones climáticos
+#### Types of Weather Patterns
 
-En un día cristalino, se puede ver en el aire, a lo lejos, una tenue bruma de color rosa-violeta. Las plantas también se ven afectadas en estos días y crecerán más rápido, con cambios visibles a simple vista. Antes de que se produzca el crecimiento de las plantas, se puede ver un débil resplandor en el aire circundante. La pelusa de cristal rosado también crecerá espontáneamente en los objetos antes de extenderse por las superficies cercanas.
+On a crystalline day, a faint violet-pink shimmering haze can be seen in the air in the far distance. Plants are also affected on these days and will grow faster, with changes being visible to the naked eye. Before plant growth occurs, a faint shimmer can be seen in the surrounding air. Pink crystal fuzz will also spontaneously grow on objects before spreading over nearby surfaces.
 
 
-Un tipo de clima energiza a los spren verdaderos, que se vuelven más parlanchines y visiblemente más alegres. Durante este tiempo, los spren pueden oír un tenue tamborileo en el fondo de su mente, que suena alegre y enérgico.
+One type of weather energizes the true spren, who become chattier and visibly more cheerful. The spren can hear a faint drumming in the back of their mind during this weather, which sounds upbeat and energetic.
 
 
->“*Volaba en un resplandeciente y sinuoso aluvión de colores. A su alrededor, las nubes pasaban a una velocidad increíble, iluminándose de esos colores. Latiendo con ellos, como si siguieran un ritmo.*”
-\-Kaladin montando la alta tormenta tras tocar la esfera de Riino.[40]
+>“*He rode in a shimmering, rippling surge of colors. Around him, the clouds streamed past at incredible speed, coming alight with those colors. Pulsing with them, as if to a beat.*”
+\-Kaladin riding the Highstorm after touching Riino's globe[40]
 
 
-La alta tormenta aparece como ondas y colores vibrantes en el cielo, con nubes brillantes que son una luminiscencia etérea. Hay un pulso en la alta tormenta, que puede ser de naturaleza similar al latido que escuchan los spren verdaderos durante otros eventos meteorológicos.  Las esferas no se infunden con luz tormentosa mientras están en el Reino Cognitivo.
-Los tres reinos se mezclan dentro de la alta tormenta, y una persona investida puede ver brevemente el Reino Espiritual si es capaz de acceder a la tormenta a través de Shadesmar. Sin embargo, no parece posible acceder al Reino Físico utilizando este método. El Padre Tormenta es capaz de percibir a alguien que accede a los Reinos a través de la alta tormenta en el Reino Cognitivo, sin embargo, esto no es algo común. De todas formas, esta conexión no es bidireccional, y la persona en la tormenta no puede sentir al Padre Tormenta.
+The Highstorm appears as ripples and vibrant colors in the sky, with shimmering clouds that are an ethereal luminescence. There is a pulse to the Highstorm, that may be similar in nature to the beat heard by true spren during other weather events. Spheres do not get infused with Stormlight whlie in the Cognitive Realm.
+The three realms blend together within the Highstorm, and an Invested person can briefly see into the Spiritual Realm if they are able to access the storm via Shadesmar. However, it does not appear possible to access the Physical Realm using this method. The Stormfather is able to sense someone accessing the realms through the Highstorm in the Cognitive Realm, however, this is not a common occurrence. This connection is not two ways, however, and the person in the storm cannot sense the Stormfather.
 
-### Perpendicularidad
-#### Perpendicularidad de Honor
-  Dalinar abriendo la Perpendicularidad de Honor
-La [[Perpendicularidad de Honor\|Perpendicularidad de Honor]], también llamada camino de Honor, es un portal inestable que puede permitir el transporte entre el Reino Físico y el Cognitivo. Se mueve por Shadesmar de forma aleatoria, sin embargo, puede ser invocado tanto por Dalinar como por [[Ishar\|Ishar]]. El Padre Tormenta puede sentir cuando se abre la Perpendicularidad, excepto cuando lo hace Ishar. Los [[Fusionado\|Fusionados]] también parecen verse afectados negativamente por la Perpendicularidad.
-El tamaño de la Perpendicularidad, cuando se abre, puede controlarse y a menudo, aunque no siempre, envuelve al invocador en una luz brillante, casi impenetrable. Esta luz también es cegadora para el invocador desde su lugar dentro de la Perpendicularidad, siendo difícil ver a las personas que se encuentran en las inmediaciones. Sin embargo, algunas personas y objetos, como Ishar y [[Sangre Nocturna\|Sangre Nocturna]], pueden ser vistos con claridad cuando están dentro de la Perpendicularidad. En Shadesmar, la Perpendicularidad de Honor se forma como un brillante pilar resplandeciente. Si se forma sobre el océano, la Perpendicularidad creará un camino desde sí misma hacia la tierra para que pueda ser alcanzada, al unir las cuentas en un objeto sólido. Es bastante agotador mantenerlo abierto. La Perpendicularidad puede ser consumida por Sangre Nocturna si es arrastrada dentro de ella. Si es apuñalada en su centro, la Perpendicularidad se cerrará pero no se destruirá.
-Cuando la Perpendicularidad es invocada, Shadesmar es visible para el invocador y ciertos individuos en su proximidad, aunque no todos los que son testigos pasivos pueden ver a través del otro Reino. Los ritmos y tonos de Roshar, se pueden escuchar cuando se abre la Perpendicularidad.
-La Perpendicularidad se forma durante cada alta tormenta, sin embargo no parece ser la tormenta misma. Esto permite la renovación de las gemas, debido a que se exponen las gemas y las esferas al [[Reino Espiritual\|Reino Espiritual]].
-Cuando se mueve libremente por sí misma, la Perpendicularidad del Honor se considera impredecible y peligrosa y aparecerá aleatoriamente en diferentes puntos del Reino Cognitivo. Debido a su naturaleza salvaje, los guías desaconsejan a los viajeros que intenten localizarla.
-Es potencialmente posible abrir la Perpendicularidad de Honor en Urithiru, sin embargo, requiere fuertes habilidades mágicas, y puede no ser posible si un [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] está por debajo del Cuarto Ideal. Se requiere tanto una medida de fuerza como una medida de habilidad.
+### Perpendicularity
+#### Honor's Perpendicularity
+  Dalinar opening Honor's Perpendicularity
+[[Honor's Perpendicularity\|Honor's Perpendicularity]], also referred to as Honor’s path, is an unstable portal that can allow for transport between the Physical and Cognitive Realm. It moves around Shadesmar randomly, however, can be summoned by both Dalinar and [[Ishar\|Ishar]]. The Stormfather can feel when the perpendicularity is opened, except when done by Ishar. The [[Fused\|Fused]] also appear to be negatively affected by the perpendicularity.
+The size of it when opened can be controlled and the perpendicularity often, but not always, shrouds the summoner in a bright, almost impenetrable light. This light is also blinding to the summoner from their place within the perpendicularity, with people in the vicinity being hard to see. Some people and objects, however, such as Ishar and [[Nightblood\|Nightblood]], can be seen clearly when they are within the perpendicularity. In Shadesmar, Honor’s Perpendicularity forms as a brilliant glowing pillar. If forming above the ocean, the perpendicularity will create a path from itself towards the land so it can be reached, by locking the beads together into a solid object. It is quite taxing to hold open. The perpendicularity can be consumed by Nightblood if he is drawn within it. If he is stabbed into its center, the perpendicularity will be closed but not destroyed.
+When the perpendicularity is summoned, Shadesmar is visible to the summoner and certain individuals in their proximity, although not everyone who is a passive witness can see through to the other realm. The rhythms and tones of Roshar, can be heard when the perpendicularity is opened.
+The perpendicularity forms during each Highstorm, however does not appear to be the storm itself. This allows for the renewal of gemstones, due to the perpendicularity exposing gems and spheres to the [[Spiritual Realm\|Spiritual Realm]].
+When moving freely of its own accord, Honor’s Perpendicularity is considered to be unpredictable and dangerous and will appear randomly at different points across the Cognitive Realm. Due to its wild nature, guides advise against travelers trying to locate it.
+It is potentially possible to open Honor’s Perpendicularity at Urithiru, however, it requires strong magical abilities, and may not be possible if a [[Bondsmith\|Bondsmith]] is below the Fourth Ideal. There is both a measure of strength and a measure of skill required.
 
-#### Perpendicularidad de Cultivación
-La [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]] se encuentra en los [[Picos Comecuernos\|Picos Comecuernos]], con clanes de [[Unkalaki\|unkalaki]] que viven a ambos lados del portal. Aunque es un punto de paso entre los Reinos, los comecuernos que custodian la Perpendicularidad no aceptan a los viajeros, aunque algunos saltamundos han accedido al portal y han hecho la transición entre los distintos planos. No está claro si esto es con el permiso del pueblo unkalaki.
-Como hay objetos del Reino Físico que pasan por Shadesmar, es posible que se permita algún nivel de comercio por parte de los comecuernos, aunque son selectivos con quién puede comerciar a través de la Perpendicularidad. Se sabe que las [[Esquirla del Amanecer\|Esquirlas del Amanecer]] llegaron a [[Roshar\|Roshar]] a través de la Perpendicularidad de Cultivación.
+#### Cultivation's Perpendicularity
+[[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] resides in the [[Horneater Peaks\|Horneater Peaks]], with clans of [[Unkalaki\|Unkalaki]] living on both sides of the portal. Although it is a working waypoint between the realms, the Horneaters that guard the perpendicularity are not amenable to travelers, though some worldhoppers have gained access to the portal and transitioned between the different planes. It is unclear whether this is with the permission of the Unkalaki people.
+As there are Physical Realm items that pass through Shadesmar, it is possible that some level of trade is allowed by the Horneater people, though they are selective of who can trade through the perpendicularity. The [[Dawnshard\|Dawnshard]] is known to have arrived on [[Roshar\|Roshar]] through Cultivation's Perpendicularity.
 
-## Historia
-### Historia temprana
-Antes de la [[Traici%C3%B3n\|Traición]], los [[Spren\|spren]] y los humanos tenían una buena relación. Los [[Nominadores de lo Otro\|Nominadores de lo Otro]] eran los principales intermediarios, sin embargo, a menudo traían a otros para ayudarles cuando interactuaban y visitaban a los spren. Los tratados escritos también se hicieron durante esta época.
-Poco antes de la Traición, mientras el Hermano se retiraba, ordenó que la Puerta Jurada fuera cerrada y bloqueada para que la gente no pudiera transferirse entre Reinos. La pérdida de este medio de transporte, probablemente disminuyó gravemente el número de rosharianos que accedían al Reino, llevando finalmente a que Shadesmar se convirtiera en un mito entre las culturas que vivían en el [[Reino F%C3%ADsico\|Reino Físico]].
-En algún momento, los [[Honorspren\|honorspren]] intentaron apoderarse de Shadesmar, y guerrearon con otros grupos de spren, incluyendo a los [[Tintaspren\|tintaspren]].
+## History
+### Early History
+Prior to the [[Recreance\|Recreance]], the [[Spren\|spren]] and humans had a good relationship. The [[Order of Elsecallers\|Elsecallers]] were the primary liaisons, however, they would often bring along others to assist them when they interacted and visited the spren. Written treaties were also formed during this time.
+Shortly before the Recreance, as the [[Sibling\|Sibling]] was retreating, they ordered the [[Oathgate\|Oathgates]] to be closed and locked so that people would no longer be able to transfer between realms. Losing this means of transportation, likely severely decreased the number of Rosharans accessing the realm, eventually leading to Shadesmar becoming a myth amongst the cultures who lived in [[Physical Realm\|Physical Realm]].
+At some point, the [[Honorspren\|honorspren]] tried to take over Shadesmar, and warred with other spren groups, including the [[Inkspren\|inkspren]].
 
-### Historia moderna
-Los [[Cr%C3%ADptico\|crípticos]] comenzaron, en algún momento, a acudir en masa a la localidad de Shadesmar equivalente a [[Kharbranth\|Kharbranth]].
-Tras la fuga de [[Syl\|Syl]] de [[Integridad Duradera\|Integridad Duradera]], los carteles con la imagen de Syl fueron colocados en algunas, si no en todas, las ciudades portuarias de Shadesmar por los honorspren en un intento de que fuera encontrada y devuelta a la capital.
+### Modern History
+[[Cryptic\|Cryptics]] began, at some point, to flock to the Shadesmar location equivalent to [[Kharbranth\|Kharbranth]].
+Following the escape of [[Syl\|Syl]] from [[Lasting Integrity\|Lasting Integrity]], posters of Syl were placed in some, if not all, port cities in Shadesmar by the honorspren in an attempt to have her found and returned to the capital.
 
-  <<Jasnah\|Jasnah>> volviendo de Shadesmar
-### El interés y viaje de una erudita (1167-actualidad)
-[[Jasnah\|Jasnah]] fue consciente por primera vez de que Shadesmar era un lugar real en 1167, cuando fue arrastrada por [[Marfil\|Marfil]] cuando intentó matarla. Después de vincular a Marfil y convertirse en una Nominadora de lo Otro, Jasnah comenzó a investigar Shadesmar, junto con [[Urithiru\|Urithiru]] y los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
-En 1173, Jasnah se encontró en Shadesmar después de utilizar sus habilidades de Nominadora de lo Otro para escapar de un intento de asesinato a bordo del *[[Placer del Viento\|Placer del Viento]]*. Incapaz de regresar al Reino Físico sin encontrar primero un punto de referencia, pasó varios meses recorriendo Shadesmar hasta llegar a un lugar que se correspondía con el medio de una región salvaje. Durante su viaje, Jasnah pasó tiempo con los [[Altospren\|altospren]], que compartieron con ella detalles del pasado, y la historia que rodea a la Traición y las [[Desolaci%C3%B3n\|Desolaciónes]]. También se enteró de la [[Tormenta eterna\|tormenta eterna]] y del efecto que tendría en los [[Cantores\|cantores]] atrapados de Roshar.
-La aparición de Jasnah en Shadesmar causó problemas a los spren, aunque se desconoce si esto se debe a que era una nativa roshariana o a que era una [[Potenciaci%C3%B3n\|potenciadora]]. Durante su huida del Reino, es posible que se viera envuelta en algún tipo de conflicto.
-Tras regresar del Reino Cognitivo, Jasnah dejó constancia de su exploración y experiencias en Shadesmar en una serie de diarios. Tras convertirse en reina, hizo públicos algunos de estos registros, pero no todos los diarios fueron publicados, para disgusto de su madre, [[Navani\|Navani]].
-Su experiencia de estar atrapada en el Reino Cognitivo dejó a Jasnah con un mayor sentido de paranoia, lo que la llevó a tener un mayor nivel de preparación en el caso de que tuviera que escapar a Shadesmar en cualquier momento futuro.
+  <<Jasnah\|Jasnah>> returning from Shadesmar
+### A Scholar's Interest and Journey (1167-Present)
+[[Jasnah\|Jasnah]] first became aware of Shadesmar as a real place in 1167 when she was pulled through by [[Ivory\|Ivory]] when he attempted to kill her. After bonding Ivory and becoming an Elsecaller, Jasnah began to research Shadesmar, along with [[Urithiru\|Urithiru]] and the [[Voidbringers\|Voidbringers]].
+In 1173, Jasnah found herself in Shadesmar after Elsecalling there to escape an assassination attempt aboard the *[[Wind's Pleasure\|Wind's Pleasure]]*. Unable to return to the Physical Realm without first finding a waypoint, she spent several months trekking across Shadesmar to a location that corresponded to the middle of the wilderness. During her journey, Jasnah spent time with the [[Highspren\|highspren]], who shared with her details of the past, and the history surrounding the Recreance and [[Desolation\|Desolations]]. She also learned of the [[Everstorm\|Everstorm]] and the effect it would have on the entrapped [[Singer\|singers]] of Roshar.
+Jasnah’s appearance in Shadesmar caused trouble for the spren, although it is unknown whether this is because she was a native Rosharan or because she was a [[Surgebinder\|Surgebinder]]. During her escape from the realm, she may have been involved in some sort of conflict.
+After returning from the Cognitive Realm, Jasnah recorded her exploration and experiences of Shadesmar in a number of journals. She released some of these records to the public after becoming queen, however, not all journals were released, much to the chagrin of her mother, [[Navani\|Navani]].
+Her experience of being trapped in the Cognitive Realm left Jasnah with a heightened sense of paranoia, leading to her having an increased level of preparedness in the case that she might have to escape into Shadesmar at a future point.
 
-### Viajera de otro mundo (1173-actualidad)
-[[Celeste\|Celeste]] viajó por primera vez a Shadesmar en 1173, en persecución de [[Sangre Nocturna\|Sangre Nocturna]] y [[Vasher\|Vasher]], y cruzó al Reino Físico utilizando la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]]. Después de ser llevada de nuevo involuntariamente durante la batalla en el [[Palacio de Kholinar\|Palacio de Kholinar]], viajó con [[Adolin\|Adolin]] y sus compañeros, antes de separarse cuando saltaron del *[[Sendero de Honor\|Sendero de Honor]]* en un intento de escapar de los [[Fusionado\|Fusionados]]. Celeste ya había hecho un trato con los honorspren antes de la aparición de las fuerzas de [[Odium\|Odium]], en el que le permitirían viajar con ellos y entrar en Integridad Duradera. Una vez allí, los spren intercambiarían información sobre Sangre Nocturna, que había pasado por su fortaleza, a cambio de información sobre la [[Espada de Vivenna\|su espada]].
-Celeste fue uno de los últimos humanos en entrar en Integridad Duradera antes de que ésta aplicara su política de aislamiento. Se trasladó aproximadamente cinco meses después de su llegada.
+### Traveler from Another World (1173-Present)
+[[Azure\|Azure]] first traveled to Shadesmar in 1173, in pursuit of [[Nightblood\|Nightblood]] and [[Vasher\|Vasher]], and crossed into the Physical Realm using [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. After being unintentionally brought back during the battle at [[Kholinar Palace\|Kholinar Palace]], she travelled with [[Adolin\|Adolin]] and his companions, before parting ways when they jumped off *[[Honor's Path\|Honor's Path]]* in an attempt to escape the [[Fused\|Fused]]. Azure had already made a bargain with the honorspren prior to the appearance of [[Odium\|Odium]]’s forces, where they would allow her to travel with them and enter Lasting Integrity. Once there, the spren would exchange information about Nightblood, who had passed through their fortress, for information on [[Vivenna's Blade\|Azure's Blade]].
+Azure was one of the last humans to enter Lasting Integrity before it implemented its isolationist policy. She moved on approximately five months after her arrival.
 
-### La invasión
-La [[Tormenta eterna\|tormenta eterna]] comenzó a formarse y a acercarse al subastral del planeta Roshar muchas generaciones antes de ser trasladada al Reino Físico. Inicialmente desprendida de la tormenta que rodea a [[Braize\|Braize]], Odium la desplazó gradualmente hasta alcanzar el borde del Shadesmar local. donde permaneció gestándose durante un largo periodo de tiempo, en algún lugar de las orillas del sur. Debido a su remota ubicación en Shadesmar, las fuerzas de Odium tuvieron que viajar muy lejos del mar en el Reino Físico para poder alcanzar la tormenta y así poder extraer a través de los vacíospren y comenzar el proceso de transferencia de la tormenta al Reino Físico.
-La transición de la tormenta eterna fuera de Shadesmar desencadenó el comienzo de la nueva Desolación y el regreso de los Fusionados. Los vacíospren empezaron a aparecer en Shadesmar al oeste del [[Nexo de la Imaginaci%C3%B3n\|Nexo de la Imaginación]] y se dirigieron a los Picos Comecuernos para hacerse con el control de la Perpendicularidad de Cultivación y las zonas circundantes, y obtener el control de los viajes entre los Reinos. Aprovecharon su control para influir en el comercio y acosar a los marineros y viajeros de la zona, exigiendo peajes y tributos y hundiendo o capturando barcos. Esto condujo a una fuerte disminución de los viajes en esa región de Shadesmar, con los spren negándose a acercarse a la Perpendicularidad, y prefiriendo quedarse en la parte oriental del Reino donde había menos influencia de los Fusionados. Por desgracia, la influencia de los vacíospren comenzó a extenderse más al este, y los Fusionados terminaron con un control débil sobre [[Celebrant\|Celebrant]] en 1174.
-Los viajes y el comercio disminuyeron aún más en 1175, con menos barcos dispuestos a viajar, para no encontrarse con las fuerzas de Odium. Además, se vieron desanimados a viajar debido a los extraños sucesos ocurridos en [[Shinovar\|Shinovar]], así como a una preferencia general contra el encuentro con honorspren viajeros.
+### The Invasion
+The [[Everstorm\|Everstorm]] started building and approaching the planet Roshar’s subastral many generations before it was transferred to the Physical Realm. Initially broken off from the storm that surrounds [[Braize\|Braize]], Odium gradually moved it until it reached the edge of the local Shadesmar where it remained brewing for a long period of time, somewhere in the southern banks. Because of its remote location in Shadesmar, Odium’s forces had to contend with traveling far out to sea in the Physical Realm to be able to reach the storm so they could draw through Voidspren to begin the process of transferring the storm to the Physical Realm.
+The transition of the Everstorm out of Shadesmar triggered the beginning of the new Desolation and the return of the Fused. Voidspren began to appear in Shadesmar to the west of the [[Nexus of Imagination\|Nexus of Imagination]] and made their way to the Horneater Peaks to seize control of Cultivation’s Perpendicularity and the surrounding areas, and gain control of travel between the realms. They leveraged their control to influence trade and harass sailors and travelers in the area, demanding tolls and tributes and sinking or capturing ships. This led to a sharp decrease in travel in that region of Shadesmar, with spren refusing to go near the perpendicularity, and preferring to stick to the eastern part of the realm where there was less Fused influence. Unfortunately, Voidspren influence began spreading further east, with the Fused ending up with loose control over [[Celebrant\|Celebrant]] by 1174.
+Travel and trade further decreased into 1175 with fewer ships willing to travel, lest they encounter Odium’s forces. They were further disincentivized to travel due to strange occurrences in [[Shinovar\|Shinovar]], as well as a general preference against encountering traveling honorspren.
 
-### El viaje de un héroe a través de lo desconocido (1174)
->“*Celeste alzó la mirada al cielo. "Condenación. Odio este sitio".*”
-\-Pensamientos de Celeste tras entrar en Shadesmar desde Kholinar.[23]
+### A Hero's Journey Through the Unknown (1174)
+>“*Azure looked up at the sky. “Damnation,” she said softly. “I hate this place.”*”
+\-Azure's thoughts after entering Shadesmar from Kholinar[23]
 
 
-Tras su huida del [[Palacio de Kholinar\|Palacio de Kholinar]] a través de la corrupta [[Puerta Jurada\|Puerta Jurada]], [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], [[Celeste\|Celeste]], junto con los [[Spren\|spren]] de los [[Caballeros Radiantes\|Radiantes]] y la [[Maya\|hoja esquirlada de Adolin]], se encontraron atrapados en Shadesmar. Incapaces de regresar a través de la Puerta Jurada, y de escapar de [[Ashertmarn\|Ashertmarn]], el grupo se dirigió al [[R%C3%ADo Corredor del Viento\|río Corredor del Viento]], antes de abrirse camino hacia la península y alejarse de [[Kholinar\|Kholinar]].
-Finalmente, los viajeros llegaron al [[Placer del Viento\|Placer del Viento]];  mientras Kaladin iba a investigar el edificio y averiguar más sobre sus ocupantes, Shallan y los demás fueron contactados por [[Sja-anat\|Sja-anat]]. Cuando el grupo había pasado por primera vez a Shadesmar, Sja-anat había informado falsamente a [[Odium\|Odium]] de que el grupo había sido transportado a un punto desconocido, lejos de la Puerta Jurada de Kholinar. Odium ordenó a Sja-anat que buscara a los Radiantes, sin embargo, una vez que los localizó, aprovechó la oportunidad para advertirles sobre la caza de Odium y que debían evitar sus fuerzas.
-Kaladin, considerando que el Faro de Riino era seguro, volvió a buscar a los demás miembros de su grupo y luego se reunió en el faro para informarse sobre el viaje y los suministros. Un barco, capitaneado por el [[Alcanzador\|alcanzador]] [[Ico\|Ico]], llegó al faro no mucho después de la llegada del grupo, y los transportó a [[Celebrant\|Celebrant]], una ciudad comercial, que se encuentra en el sureste en el [[Mar de las Lanzas\|Mar de las Lanzas]]. No pudieron acordar un destino, ya que Celeste quería ir al oeste, a la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]], dado que la había utilizado anteriormente para llegar al Reino Físico, mientras que Kaladin insistía mucho en viajar al sur, a [[Thaylenah\|Thaylenah]], debido a una visión que tuvo al tocar el globo mágico de Riino.
+Following their escape from the [[Kholinar Palace\|Kholinar Palace]] through the corrupted [[Oathgate\|Oathgate]], [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], [[Azure\|Azure]], along with the [[Spren\|spren]] of the [[Knights Radiant\|Radiant]]’s and [[Maya\|Adolin’s Shardblade]], found themselves trapped in Shadesmar. Unable to return through the Oathgate, and to escape [[Ashertmarn\|Ashertmarn]], the group made their way to the [[Windrunner River\|Windrunner River]], before making their way up the peninsula and away from [[Kholinar\|Kholinar]].
+Eventually, the travelers came upon the *[[Wind's Pleasure\|Wind's Pleasure]]*; while Kaladin went to investigate the building and find out more about the occupants, Shallan and the others were contacted by [[Sja-anat\|Sja-anat]]. When the group had first transitioned to Shadesmar, Sja-anat had falsely reported back to [[Odium\|Odium]] that the group had been transported to an unknown point, far from the Kholinar Oathgate. Odium ordered Sja-anat to search for the Radiants, however, once she located them she used the opportunity to warn them about Odium’s hunt and that they should avoid his forces.
+Kaladin, deeming Riino’s Lighthouse to be safe, returned to fetch the other members of his party then convened at the lighthouse to enquire about travel and supplies. A ship, captained by the [[Reacher\|Reacher]] [[Ico\|Ico]], reached the lighthouse not long after the group arrived, and ferried them to [[Celebrant\|Celebrant]], a trade city, found in the south east on the [[Sea of Spears\|Sea of Spears]]. The party was unable to agree on a destination, with Azure wanting to go west to [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] as she had previously used it to reach the Physical Realm, while Kaladin was strongly insistent about traveling south to [[Thaylenah\|Thaylenah]], due to a vision he had when he touched Riino’s magic globe.
 
->“*Estoy muerto. Estamos muertos, y esto es Condenación.*”
-\-Pensamientos de Adolin tras entrar en Shadesmar desde Kholinar.[5]
+>“*I’m dead. We’re dead, and this is Damnation.*”
+\-Adolin's thoughts after entering Shadesmar from Kholinar[5]
 
-Una vez que llegaron a Celebrant, el grupo se dividió en dos: algunos miembros se dirigieron al mercado para recoger suministros, mientras que el resto se informaba sobre el posible paso a [[Ciudad Thaylen\|Ciudad Thaylen]] o a la Perpendicularidad de Cultivación. Mientras estaban en el mercado, [[Syl\|Syl]], que estaba disfrazada, fue reconocida como la Antigua Hija, lo que la llevó a confesar a Adolin y Kaladin que podría ser una persona buscada por los honorspren. Mientras tanto, en los muelles, Shallan y Celeste no consiguieron asegurar el pasaje a ninguno de sus destinos propuestos. Tras darse cuenta de que un Fusionado estaba realizando una inspección en el barco de Ico, las dos mujeres, así como [[Patr%C3%B3n\|Patrón]] y [[Maya\|Maya]], regresaron al registro del muelle para interrogarla, y se enteraron del aumento de la presencia de [[Vac%C3%ADospren\|vacíospren]] en Shadesmar durante los meses anteriores. Tras escapar de los Fusionados en los muelles sin ser detectados, el grupo volvió a reunirse para decidir cómo proceder. Syl, tras ver el *[[Sendero de Honor\|Sendero de Honor]]* atracado en el puerto, corrió para alcanzar el barco antes de que se alejara, revelando quién era para que ella y sus amigos pudieran escapar de los secuaces de Odium en el buque honorspren.
-Una vez a bordo, [[Notum\|Notum]], el capitán de la nave, comenzó su viaje hacia [[Integridad Duradera\|Integridad Duradera]], a toda prisa, para tratar de dejar atrás a los Fusionados. Después de ser capturados, la gran mayoría del grupo, a excepción de Syl, fueron liberados del cautiverio y se les permitió explorar la mayor parte del Sendero de Honor. Cuando se hizo evidente que los Fusionados estaban ganando terreno al barco poco a poco, Notum decidió desobedecer su mandato y ayudó a los amigos a escapar a los [[Estrechos de Ce%C3%B1o Largo\|estrechos de Ceño Largo]], dejándolos caer en secreto en las cuentas.
-Habiendo perdido a los Fusionados, se dirigieron por tierra en dirección a Ciudad Thaylen, siguiendo la corazonada de Kaladin de que [[Dalinar\|Dalinar]] estaba en peligro. Cuando llegaron, encontraron un gran número de fuerzas de Odium esperando. Poco después, los secuaces de Odium desaparecieron, al ser arrastrados al Reino Físico. Para ganar tiempo y dar una oportunidad a Shallan de llegar a la Puerta Jurada, Kaladin, Adolin y los spren se enfrentaron a los Fusionados restantes a su manera. Shallan intentó convencer a los spren de la Puerta Jurada para que les permitieran el paso, pero éstos se negaron, manteniéndose firmes en el mandato que les había dado el Hermano. Con Kaladin sin [[Luz tormentosa\|luz tormentosa]], y Adolin gravemente herido, las esperanzas de que los amigos consiguieran volver al Reino Físico eran escasas, hasta que la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] apareció tras ser abierta por [[Dalinar\|Dalinar]] durante la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. El grupo hizo la transición de vuelta al Reino Físico utilizando la Perpendicularidad para luego participar en el conflicto que estaba ocurriendo en Ciudad Thaylen.
-Tras la Batalla de la Explanada Thayleña, al menos algunas de las Puertas Juradas aceptaron volver a permitir el paso entre Reinos.
+Once they reached Celebrant, the group split in half with some members going to the market place to gather supplies, while the rest enquired about potential passage to [[Thaylen City\|Thaylen City]] or Cultivation’s Perpendicularity. While at the marketplace, [[Syl\|Syl]], who had been disguised, was recognized as the Ancient Daughter, leading her to confess to Adolin and Kaladin that she may be a wanted person by the honorspren. Meanwhile at the docks, Shallan and Azure were unable to secure passage to either of their proposed destinations. After realizing that a Fused was conducting an inspection on Ico’s ship, the two women, as well as [[Pattern\|Pattern]] and [[Maya\|Maya]], returned to the dock registrar to interrogate her, and learnt about the increased [[Voidspren\|Voidspren]] presence in Shadesmar over the preceding months. After escaping the Fused at the docks with out detection, the group reconvened to decide on how to proceed. Syl, having seen *[[Honor's Path\|Honor's Path]]* docked in the harbor, ran to catch the ship before it pulled away, revealing who she was so that she and her friends could escape Odium’s minions on the honorspren vessel.
+Once aboard, [[Notum\|Notum]], the ship’s captain, began their voyage towards [[Lasting Integrity\|Lasting Integrity]], post-haste, to try and outrun the Fused. After being taken captive, most of the group, barring Syl, were released from captivity and allowed to explore most parts of Honor’s Path. When it became apparent that the Fused were slowly gaining ground on the vessel, Notum decided to disobey his mandate and aided the friends in escaping to the [[Longbrow's Straits\|Longbrow's Straits]], by dropping them secretly into the beads.
+Having lost the Fused, the party made its way across the land in the direction of Thaylen City, following Kaladin’s hunch that [[Dalinar\|Dalinar]] was in danger. When they arrived, they found large numbers of Odium’s forces waiting. Soon after, Odium's minions disappeared, as they were drawn through to the Physical Realm. To buy time and give an opportunity for Shallan to reach the Oathgate, Kaladin, Adolin, and the spren engaged with the remaining Fused in their own ways. Shallan attempted to convince the Oathgate spren to allow them passage, however, they refused, remaining steadfast in the mandate given to them by the [[Sibling\|Sibling]]. With Kaladin out of [[Stormlight\|Stormlight]], and Adolin severely injured, the hopes of the friends making it back to the Physical Realm were slim, until [[Honor's Perpendicularity\|Honor's Perpendicularity]] appeared after being opened by [[Dalinar\|Dalinar]] during the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. The group transitioned back to the Physical Realm using the perpendicularity to then engage in the ongoing conflict that was occurring in Thaylen City.
+Following the Battle of Thaylen Field, at least some of the Oathgates agreed to allow for passage between realms again.
 
-### Delegación de emisarios de Urithiru (1175)
->“*Vengo por orden del Forjador de Vínculos, mi padre, a visitar vuestras tierras y entregaros un mensaje en su nombre. Traigo conmigo a Caballeros Radiantes de cuatro órdenes distintas, todas las cuales combaten juntas el alzamiento de la tormenta eterna. Demuestran que los humanos y los spren una vez más necesitan sus antiguos vínculos.*”
-\-Oferta de alianza de Adolina los honorspren.[53]
+### Urithiru Emissary Delegation (1175)
+>“*I’ve come by order of the Bondsmith, my father, to visit your lands and deliver a message on his behalf. I bring with me Knights Radiant of four different orders, all of whom work in concert against the rising Everstorm. Proof that men and spren once again need their bonds of old*”
+\-Adolin's offer of alliance to the honorspren[53]
 
 
-En 1175, una delegación de [[Urithiru\|Urithiru]] encabezada por [[Adolin\|Adolin]] y [[Shallan\|Shallan]], se dispuso a visitar [[Integridad Duradera\|Integridad Duradera]] e intentar convencer a los [[Honorspren\|honorspren]] de que volvieran a vincular a los humanos y se unieran a sus planes de guerra contra [[Odium\|Odium]] y los [[Fusionado\|Fusionados]]. Partiendo de Urithiru, el grupo viajó en un barco [[Cumbrespren\|cumbrespren]] capitaneado por [[Unativi\|Unativi]], y luego en caravana desde [[Innominado\|Innominado]] hasta Integridad Duradera. Durante este tiempo, Shallan comenzó a tomar notas para su eventual libro sobre la historia natural de Shadesmar. Durante la segunda mitad de su viaje, fueron seguidos por un grupo de mercenarios tukari que finalmente se separó de su camino para dirigirse al sur, mientras que la delegación de Urithiru continuó hacia el oeste. Por desgracia, los tukari habían continuado en la misma dirección que [[Notum\|Notum]], que también había estado viajando por la ruta, y él había sido su objetivo todo el tiempo. Corriendo para salvarlo, Adolin y [[Maya\|Maya]] lucharon contra los tukari, el tiempo suficiente para que los otros soldados de su grupo llegaran y les proporcionaran apoyo.
+In 1175, a delegation from [[Urithiru\|Urithiru]] headed by [[Adolin\|Adolin]] and [[Shallan\|Shallan]], set out to visit [[Lasting Integrity\|Lasting Integrity]] and try to convince the [[Honorspren\|honorspren]] to re-bond humans and join their war efforts against [[Odium\|Odium]] and the [[Fused\|Fused]]. Setting out from Urithiru, the group travelled on a [[Peakspren\|peakspren]] ship captained by [[Unativi\|Unativi]], then by caravan from [[Nameless\|Nameless]] to Lasting Integrity. During this time, Shallan began taking notes for her eventual book on Shadesmar’s natural history. During the second half of their journey, they were followed by a [[Tukari caravaneers\|Tukari mercenary group]] that eventually broke away from their path to head south, while the Urithiru delegates continued west. Unfortunately, the Tukari had continued in the same direction of [[Notum\|Notum]], who had also been traveling along the route, and he had been their target all along. Racing to save him, Adolin and [[Maya\|Maya]] fought off the Tukari, long enough for the other soldiers in their party to arrive and provide backup.
 
-  <<Shallan\|Shallan>> y los <<Honorspren\|honorspren>> en <<Integridad Duradera\|Integridad Duradera>>
-Con un Notum herido a cuestas, el grupo se apresuró a llegar a Integridad Duradera, temiendo que los tukari siguieran en la zona y pudieran volver a atacarlos. Al llegar a la fortaleza de los honorspren, sin embargo, el grupo no fue bien recibido; los honorspren no respondieron amablemente a los esfuerzos diplomáticos de Adolin, destruyendo la correspondencia de los monarcas de la coalición y negándose a participar en sus súplicas y argumentos. Al fracasar todos sus otros planes, Adolin se entregó a la custodia de los honorspren, después de darles la oportunidad de juzgarlo por la [[Traici%C3%B3n\|Traición]]. Los honorspren permitieron que otros dos permanecieran con Adolin, y Shallan y [[Patr%C3%B3n\|Patrón]] se unieron al alto príncipe dentro de la fortaleza donde Adolin fue puesto bajo custodia.
-Mientras varios de los miembros del grupo de Urithiru emprendían el viaje de vuelta a la torre, otros, como [[Godeke\|Godeke]], [[Felt\|Felt]] y [[Malli\|Malli]], los [[Orden de los Tejedores de Luz\|Tejedores de Luz]] de Shallan y Notum, permanecieron acampados fuera de la fortaleza, en el límite del bosque cercano, y siguieron en contacto con el alto príncipe alezi por carta.
-Shallan, durante su estancia en Integridad Duradera, se propuso completar la misión que le había encomendado [[Mraize\|Mraize]] de encontrar a [[Restares\|Restares]]. Cuando Kalak regresó a la fortaleza, Shallan se dio cuenta de que el hombre que buscaba era un [[Heraldo\|Heraldo]]. Tras hablar con Mraize, descubrió que quería que ella "matara" al Heraldo capturando su alma en un cuchillo hecho del metal divino de Odium. El último día del juicio de Adolin, Shallan se dirigió al alojamiento de Kalak con la intención de matarlo, habiendo adoptado su "nuevo" alter: Sinforma. Patrón la interrumpió en su camino, intentando presentar a Shallan a [[Testimonio\|Testimonio]], a quien ya había intentado presentar una vez. Shallan despachó a Patrón, sin querer escuchar lo que tenía que decir, antes de continuar hacia la casa de Kalak. Una vez dentro, Velo se enfrentó a Shallan por lo de Sinforma y la obligó a recordar lo que Shallan había hecho de niña cuando había estado vinculada a Testimonio. Cumplido el deber, Velo desapareció, reintegrándose en Shallan. Kalak descubrió a Shallan en su casa poco después de su prueba, y aunque la Tejedora de Luz reconoció que había sido enviada a matar a Kalak, en su lugar decidió intentar trabajar con él.
-[[Lusintia\|Lusintia]], Sekeir y otros honorspren encontraron a la pareja poco después de que el Heraldo se enfrentara a Shallan, y acusaron a la Tejedora de Luz de intentar influir en el juicio de su marido. A pesar de que Kalak lo negó, los honorspren se llevaron a Shallan bajo custodia, para retenerla hasta que terminara el juicio. Los honorspren también detuvieron a Kalak, y Sekeir ocupó su lugar para supervisar el último día del proceso judicial.
-Retenido como cautivo de los honorspren, Adolin se preparó para su juicio con la ayuda de la emisaria [[Tintaspren\|tintaspren]], [[Mezcla\|Mezcla]]. Después de que [[Kalak\|Kalak]], el juez supremo, retornara a la fortaleza después de patrullar, comenzó el juicio, que duró tres días. El primer día, tres testigos - [[Amuna\|Amuna]], Mezcla y Notum- declararon contra Adolin. Notum, habiendo sido claramente coaccionado para testificar, se salió de su guión a mitad de la declaración, para ponerse al lado de Adolin y promover el vínculo entre humanos y spren. El segundo día del juicio, Adolin fue libre de dar su propio testimonio ante el juez y la audiencia, sin embargo, esto se torció rápidamente y el día terminó en caos. El tercer día del juicio fue llevado a cabo por el honorspren [[Sekeir\|Sekeir]], debido a la ausencia de Kalak, y Maya fue traída como testigo final. Debido a su incapacidad para hablar, Sekeir aprovechó la ocasión para promover su propia agenda bajo la apariencia de que hablaba en nombre de Maya. Sacando fuerzas de Adolin, ella misma se dirigió a la multitud, proclamando que los ojomuertos habían elegido voluntariamente renunciar a sus vínculos durante la Traición. Conmocionados, los honorspren abandonaron la sala y el juicio se dio por terminado. Tras el juicio, Mezcla regresó con los tintaspren para difundir la noticia sobre el papel de los spren en la Traición y la creciente conciencia de Maya.
+  <<Shallan\|Shallan>> and the <<Honorspren\|honorspren>> in <<Lasting Integrity\|Lasting Integrity>>
+With an injured Notum in tow, the group pressed on quickly to reach Lasting Integrity, wary that the Tukari were still in the area and could circle back around to attack them again. Reaching the honorspren stronghold however, the group was not warmly welcomed; the honorspren did not respond kindly to the diplomatic efforts of Adolin, destroying his correspondence from the coalition monarchs and refusing to engage his pleas and arguments. With all of his other plans having failed, Adolin surrendered himself into the custody of the honorspren, after giving them the opportunity to put him on for the [[Recreance\|Recreance]]. The honorspren allowed for two others to remain with Adolin, and Shallan and [[Pattern\|Pattern]] joined the Highprince inside the fortress where Adolin was taken into custody.
+While a number of the Urithiru party began the return journey to the tower, several members including [[Godeke\|Godeke]], [[Felt\|Felt]] and [[Malli\|Malli]], Shallan’s [[Order of Lightweavers\|Lightweavers]], and Notum remained camped outside the keep, on the edge of the nearby forest, and remained in contact with the [[Alethi\|Alethi]] highprince via letter.
+Shallan, during her time in Lasting Integrity, set about completing the mission she was given by [[Mraize\|Mraize]] to find [[Restares\|Restares]]. When Kalak returned to the keep, Shallan realized that the man she sought was a [[Herald\|Herald]]. After speaking with Mraize, she discovered he wanted her to “kill” the Herald by capturing his soul in a knife containing Odium’s godmetal. The last day of Adolin’s trial, Shallan went to Kalak’s lodgings with the intent to kill him, having adopted her “new” persona of Formless. Pattern interrupted her on her way there, trying to introduce Shallan to [[Testament\|Testament]], whom he had already tried to introduce once before. Shallan sent Pattern away, not wanting to hear what he had to say, before continuing on to Kalak’s house. Once inside, Veil confronted Shallan about Formless and forced her to remember what Shallan had done as a child when she had been bonded to Testament. Duty done, Veil disappeared, being reintegrated into Shallan. Kalak discovered Shallan in his house shortly after her ordeal, and although the Lightweaver acknowledge that she had been sent to kill Kalak, she had instead decided to try and work with him.
+[[Lusintia\|Lusintia]], Sekeir, and several other honorspren found the pair not long after the Herald confronted Shallan, and accused the Lightweaver of trying to influence her husband’s trial. Despite Kalak’s denial, the honorspren took Shallan into custody, to be held until the trial was completed. The honorspren also detained Kalak, with Sekeir taking his place to oversee the final day of the court proceedings.
+Held as the honorspren’s captive, Adolin prepared for his trial with the help of the [[Inkspren\|inkspren]] emissary, [[Blended\|Blended]]. After [[Kalak\|Kalak]], the High Judge, returned to the fortress from patrolling, the trial began and lasted for three days. On the first day, three witnesses - [[Amuna\|Amuna]], Blended, and Notum - gave testimony against Adolin. Notum, having clearly been coerced into testifying, broke from his script half way through his statement, to stand with Adolin and promote the bond between humans and spren. The second day of the trial Adolin was free to give his own testimony to the judge and audience, however, this quickly went sour and the day ended in chaos. The third day of trial was held by the honorspren [[Sekeir\|Sekeir]], due to Kalak’s absence, and Maya was brought forth as the final witness. Due to her inability to speak, Sekeir used this as an opportunity to promote his own agenda under the guise he was speaking on her behalf. Drawing strength from Adolin, Maya addressed the crowd herself, proclaiming that the deadeyes had willingly chosen to give up their bonds during the Recreance. Shocked, the honorspren left the room and the trial was dismissed. Following the trial, Blended returned to the inkspren to spread the news about the role of spren in the Recreance and Maya’s growing consciousness.
 
-### Influencias externas
->“*Iyatil ha informado al maestro Thaidakar, quien ha aceptado, tras cierto enfado inicial, que no seremos capaces de controlar las Puertas Juradas.*”
-\-Mraize sobre el plan de los Sangre Espectral.[93]
+### Outside Influences
+>“*Iyatil has reported to Master Thaidakar, and he has accepted—after some initial anger—that we will not be able to control the Oathgates.*”
+\-Mraize about the Ghostbloods' plan[94]
 
 
-En algún momento anterior a 1175, los Sangre Espectral comenzaron a establecer rutas comerciales en Shadesmar, incluyendo el [[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]. Su Intención era establecer un poderoso imperio comercial en el que la [[Luz tormentosa\|luz tormentosa]] y la [[Investidura\|Investidura]] fueran su principal producto. Deseaban encontrar [[Urithiru\|Urithiru]] antes que los Radiantes para poder hacerse con el control de las [[Puerta Jurada\|Puertas Juradas]] y tener poder sobre la capacidad de viajar entre los Reinos Físico y Cognitivo, ya que esto les permitiría dominar el mercado al poder trasladar fácilmente su mercancía de un lado a otro sin interferencias.
+At some point prior to 1175, the Ghostbloods began to set up trade routes in Shadesmar, including in the [[Sea of Lost Lights\|Sea of Lost Lights]]. Their intention was to set up a powerful trade empire with [[Stormlight\|Stormlight]] and [[Investiture\|Investiture]] being their main commodity. They wished to find [[Urithiru\|Urithiru]] before the Radiants so that they could seize control of the [[Oathgate\|Oathgates]] and have power over the ability to travel between the Physical and Cognitive Realms, as this would allow them to dominate the market as they could easily move their good back and forth without interference.
 
-## Política
-Los [[Saltamundos\|saltamundos]] son lo suficientemente comunes en Shadesmar como para que los spren verdaderos conozcan otros planetas, sus habitantes, y comercien con sus mercancías. 
+## Politics
+[[Worldhoppers\|Worldhoppers]] are common enough in Shadesmar that the true spren are aware of other planets, their inhabitants, and will trade for their wares.
 
-### Políticas entre los spren
->“*¡Ah! Dice que preferiría hacer negocios con honorspren que navegar otra vez hasta la perpendicularidad. Creo que lo dice como insulto. Ja, ja, ja. Mmm...*”
-\-Patrón indagando sobre el pasaje a la Perpendicularidad de Cultivación en Celebrant.[19]
+### Interspren Politics
+>“*Oh! She says she would rather trade with honorspren than take another trip to the perpendicularity. I think this is an insult. Ha ha ha. Mmm…*”
+\-Pattern enquiring about passage to Cultivation's Perpendicularity in Celebrant[19]
 
-Antes de la [[Traici%C3%B3n\|Traición]], los spren crearon tratados escritos entre sus naciones, algunos de los cuales han sobrevivido.
-Las diferentes variedades de spren no suelen mezclarse entre sí. En las ciudades mixtas de spren, cada tipo de spren suele reunirse sólo con sus propios hermanos, a menos que necesiten que se les preste un servicio.
-Muy pocos, si es que hay alguno, de los otros tipos de spren tienen una opinión positiva de los [[Honorspren\|honorspren]] o disfrutan de su compañía. Esto se debe en parte a sus intentos de conquistar Shadesmar en el pasado. A su vez, los honorspren no son amistosos con la mayoría de los demás tipos de spren; tienen una relación política negativa con los [[Cr%C3%ADptico\|crípticos]], no les gustan los altospren y odian a los tintaspren, con los que pueden haber estado en guerra anteriormente. A pesar de estas relaciones negativas, los honorspren siguen aceptando emisarios spren de sus adversarios, aunque esto no ha mejorado las relaciones entre las naciones spren. En un momento dado, los [[Brumaspren\|brumaspren]] eran muy apreciados por los honorspren. 
-Los crípticos tienen una reputación terrible en Shadesmar,  sin embargo, rara vez se aventuran fuera de su ciudad. No son bien vistos por otros spren. Los [[Cultivacispren\|cultivacispren]] no son muy importantes políticamente, sin embargo, los que vuelven a vincular a los humanos están muy bien considerados por los demás en el Reino Cognitivo. Los [[Tintaspren\|tintaspren]] no son comunes en Shadesmar, ya que el grupo tiende a ser muy reservado.
+Prior to the [[Recreance\|Recreance]], the spren created written treaties between their nations, some of which have survived.
+The different varieties of spren do not often mingle with each other. In mixed spren cities, each spren type will often only congregate with their own brethren unless they require a service rendered.
+Very few, if any, other types of spren think positively about [[Honorspren\|honorspren]] or enjoy being in their company. This is in part due to their attempts to conquer Shadesmar in the past. In turn, honorspren are not friendly towards most other types of spren; they have a negative political relationship with [[Cryptic\|Cryptics]], dislike the [[Highspren\|highspren]], and hate the [[Inkspren\|inkspren]], whom they may have previously warred with. Despite these negative relationships, the honorspren still accept spren emissaries from their adversaries, though this has not improved relations between the spren nations. At one point, [[Mistspren\|mistspren]] were highly regarded by the honorspren.
+Cryptics have a feared reputation in Shadesmar, however, rarely venture outside of their city. They are not well liked by other spren. [[Cultivationspren\|Cultivationspren]] are not very important politically, however, those who re-bond humans are considered quite highly by others in the Cognitive Realm. [[Inkspren\|Inkspren]] are not commonly found around Shadesmar as the group tend to keep to themselves.
 
-### Políticas spren-humanos
->“*»Para muchos de allí, eres un criminal. Tu especie entera está compuesta de criminales. No es tanto por la Antigua Hija como por lo que nos hicisteis.*”
-\-Notum explicando el punto de vista de los spren.[116]
+### Spren-Human Politics
+>“*To many there, you are a criminal. Your entire race is one of criminals. It isn’t about the Ancient Daughter so much as it is about what you did to us.*”
+\-Notum explaining the views of the spren[117]
 
 
-Los humanos y los spren tienen una relación tensa debido a la Traición, que tuvo un profundo efecto en las sociedades spren, con muchos spren verdaderos parcialmente o casi completamente eliminados. Los spren guardan un profundo resentimiento hacia los humanos y, aunque éstos se han ganado de nuevo la confianza de algunos grupos gracias al reforzamiento de los [[V%C3%ADnculo Nahel\|vínculos Nahel]], muchos de los spren siguen desconfiando o son directamente hostiles hacia ellos. Muchos spren verdaderos culpan a los humanos de la muerte de sus amigos y familiares durante la Traición, ya que desconocen que estos spren participaron voluntariamente en ella. A pesar de la tensión entre las dos razas, nunca se ha sabido que los humanos ataquen a los spren o les hagan daño.
-Los Radiantes de [[Urithiru\|Urithiru]] han intentado abrir una relación diplomática con algunos de los spren más hostiles, incluidos los honorspren. Tras el juicio de [[Adolin\|Adolin]] a manos de los honorspren, y la confesión de [[Maya\|Maya]] sobre la participación de los spren en la Traición, la relación entre humanos y spren puede empezar a mejorar y a repararse.
+Humans and spren have a strained relationship due to the Recreance, which had a profound effect on spren societies, with many true spren being partially or almost completely wiped out. The spren hold deep resentment for humans and while humans have gained back the trust of some groups through reforging [[Nahel\|Nahel]] bonds, many of the spren are still suspicious or outright hostile towards them. Many true spren blame humans for the deaths of their friends and family during the Recreance, as they are unaware that these spren were willing participants at the time. Despite the tension between the two races, humans have never been known to attack spren or harm them.
+The Radiants of [[Urithiru\|Urithiru]] have attempted to open a diplomatic relationship with some of the more hostile spren, including the honorspren. Following [[Adolin\|Adolin]]’s trial at the hands of the honorspren, and [[Maya\|Maya]]’s confession about spren participation in the Recreance, the relationship between humans and spren may start to improve and be mended.
 
-### Fuerzas de Odium
-Las fuerzas de [[Odium\|Odium]] controlan diferentes secciones de Shadesmar, incluyendo la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]], una zona cercana a [[Ciudad Thaylen\|Ciudad Thaylen]], y la ciudad de [[Celebrant\|Celebrant]], y planean construir su propio imperio dentro del Reino Cognitivo.
-Desde su llegada a Shadesmar, los [[Vac%C3%ADospren\|vacíospren]] han extendido su influencia por todo el Reino. Los [[Shanay-im\|Shanay-im]] son vistos ocasionalmente por los viajeros, volando alrededor de Shadesmar, y realizarán inspecciones en las ciudades que hayan capturado.
-Existe un nivel de hostilidad entre los honorspren y los Fusionados. Los honorspren parecen ser un gran contendiente en términos de control de la tierra en la parte sur del [[Mar de las Almas\|Mar de las Almas]], con cualquier área no controlada por ninguno de los dos siendo apodada como "tierras libres". A pesar de esta relación antagónica, algunos honorspren están considerando ponerse del lado de los Fusionados y de las fuerzas de Odium, como ya han hecho los altospren. Esto probablemente tendría un efecto dominó en los otros tipos de spren, y abriría el camino para que muchos spren se unieran al enemigo. 
+### Odium’s Forces
+[[Odium\|Odium]]’s forces control different sections of Shadesmar, including [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]], an area near [[Thaylen City\|Thaylen City]], and the city of [[Celebrant\|Celebrant]], and plan to build their own empire within the Cognitive Realm.
+Since their arrival in Shadesmar, the [[Voidspren\|Voidspren]] have spread their influence across the realm. [[Shanay-im\|Shanay-im]] are occasionally seen by travelers, flying around Shadesmar, and will conduct inspections on cities that they have captured.
+There is a level of hostility between the [[Honorspren\|honorspren]] and the [[Fused\|Fused]]. The honorspren appear to be a big contender in terms of controlling land in the southern portion of the [[Sea of Souls\|Sea of Souls]], with any areas not controlled by either being dubbed as "free lands." Despite this antagonistic relationship, some honorspren are considering siding with the Fused and Odium’s forces, as the highspren have already done. This would likely have a domino effect on the other spren types, and pave the way for many spren to join the enemy.
 
-### Los Sangre Espectral
->“*Portátil, fácil de contener, renovable. Tienes en la mano la energía de una tormenta, Velo. Una energía cruda, arrancada del corazón de la rabiosa tempestad. Está domesticada: no solo es una fuente segura de luz, sino también de un poder al que pueden acceder aquellos con… intereses y capacidades particulares. Roshar tiene algo que muchos otros pueblos del Cosmere desean: una energía gratuita, portátil y fácil de obtener.*”
-\-Mraize aludiendo a los planes de los Sangre Espectral.[93]
+### Ghostbloods
+>“*Portable, easily contained, renewable. You hold the energy of a storm in your hand, Veil. That raw energy, plucked from the heart of the raging tempest. It is tamed—not only a safe source of light, but of power that those with... particular interests and abilities can access.... Roshar has something that so many other peoples in the cosmere want: free, portable, easy-to-access power.*”
+\-Mraize alluding to the Ghostblood's plans[94]
 
 
-Los [[Sangre Espectral\|Sangre Espectral]] están planeando comercializar la [[Luz tormentosa\|luz tormentosa]] y crear un monopolio, debido a su fácil transportabilidad a un mercado fuera del mundo, utilizando Shadesmar. Se ha establecido una ruta comercial a través del [[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]]. Dado que la principal moneda de Shadesmar es la luz tormentosa, esto tendría un profundo y amplio efecto en el Reino y daría a los Sangre Espectral y a [[Thaidakar\|Thaidakar]], una gran cantidad de poder en Shadesmar.
+The [[Ghostbloods\|Ghostbloods]] are planning to commercialize [[Stormlight\|Stormlight]] and create a monopoly, due to its easy transportability to an off world market, by utilizing Shadesmar. A trade path has been established through the [[Sea of Lost Lights\|Sea of Lost Lights]]. With the main currency in Shadesmar being Stormlight, this would likely have a profound and wide reaching effect on the realm and would give the Ghostbloods and [[Thaidakar\|Thaidakar]], a large amount of power in Shadesmar.
 
-## Cultura y sociedad
-#### Sociedades de spren verdaderos
-Los spren verdaderos viven en una serie de ciudades y otros asentamientos en Shadesmar. Algunas de estas ciudades están habitadas y gobernadas por un solo tipo de spren,, sin embargo, no todos los spren Radiantes tienen su propio reino, y algunos asentamientos son un conglomerado de diferentes tipos de spren. Se sabe que los [[Cr%C3%ADptico\|crípticos]] gobiernan una de las mayores ciudades de Shadesmar, y los [[Honorspren\|honorspren]] tienen el control de múltiples lugares. Los [[Cultivacispren\|cultivacispren]] no gobiernan ninguna ciudad del Reino. Sin embargo, los tipos de spren verdaderos no son homogéneos, encontrándose diferentes nacionalidades y subgrupos en las distintas regiones de Shadesmar.
-La presencia prolongada de un tipo de spren en una zona determinada, puede afectar a las fuerzas fundamentales de esa sección de Shadesmar, y aunque esto puede imitar la [[Potenciaci%C3%B3n\|potenciación]], estos cambios ambientales son causados por otro mecanismo. Algunos spren eligen construir sus ciudades en partes particulares de Shadesmar por razones específicas, que pueden estar relacionadas con estos cambios realmáticos, sin embargo, esto es raro y los diferentes tipos de spren en su mayoría eligen áreas donde pueden afirmar el control político. La [[Integridad Duradera\|capital de los honorspren]], sin embargo, es uno de esos lugares donde el entorno ha sido alterado y los spren de esta fortaleza han utilizado e integrado estos cambios en su estilo de vida. La mayoría de las ciudades spren, si no todas, utilizan objetos manifestados para crear sus edificios.
-La falta de agua en Shadesmar, lleva a los spren a guardar almacenes de arena en sus ciudades en caso de incendio. Rara vez utilizan trozos de obsidiana como material de construcción a pesar de que está disponible en abundancia, aunque ocasionalmente crean armas utilizando este recurso.
-Como muchas de las sociedades rosharianas del Reino Físico, los spren verdaderos desaprueban la adivinación y las afirmaciones de predicción del futuro. Los que practican esta disciplina son rechazados y obligados a ir a las afueras y a lugares remotos del Reino si desean practicar su oficio.
-Hay una fiesta de los spren conocida como el [[Fest%C3%ADn de la Luz\|Festín de la Luz]].
-
-#### Ojomuertos
->“*Parecía que alguien se hubiera aplicado con un cuchillo en su cara, solo que Maya no había sangrado ni tenía cicatrices por los cortes. La habían borrado. Destrozado. Retirado de la existencia. Cuando miró a Adolin, parecía un cuadro que algún vándalo hubiera arruinado.*”
-\-Descripción de Maya.[26]
-
-
-Los [[Ojomuerto\|ojomuertos]] son spren que han sido "asesinados" a través de la ruptura del vínculo [[Nahel\|Nahel]]. No existían antes de la [[Traici%C3%B3n\|Traición]], y la mayoría de los ojomuertos pueden rastrear sus "muertes" hasta el momento en que aceptaron romper su vínculo con sus [[Caballeros Radiantes\|Caballeros Radiantes]]. Los ojomuertos siguen manteniendo el mismo aspecto general que tenían antes de morir, sin embargo, aparecen harapientos y con los ojos rasgados.
-
->“*Nosotros permanecemos vagando por Shadesmar como almas muertas, incapaces de pensar o hablar. Nuestros cuerpos los utilizan como armas, chillando, los descendientes de quienes nos mataron.*”
-\-Notum hablando sobre los ojomuertos.[116]
+## Culture and Society
+#### True Spren Societies
+True spren live in a number of cities and other settlements in Shadesmar. Some of these cities are inhabited and ruled by a single type of spren, however, not all Radiant spren their own kingdom, and some settlements are a conglomeration of different spren types. [[Cryptic\|Cryptics]] are known to rule one of the greater cities in Shadesmar, and the [[Honorspren\|honorspren]] have control of multiple locations. [[Cultivationspren\|Cultivationspren]] rule no cities in the realm. However, the true spren types are not homogenous, with different nationalities and subgroups being found in the different regions of Shadesmar.
+The longstanding presence of one type of spren in a given area, can affect the fundamental forces in that section of Shadesmar, and although this may mimic [[Surgebinding\|Surgebinding]], these environmental changes are caused by another mechanism. Some spren choose to build their cities in particular parts of Shadesmar for specific reasons, that may be related to these realmatic changes, however, this is rare and the different spren types mostly choose areas where they can assert political control. The [[Lasting Integrity\|honorspren capital]], however, is one such place where the environment has been altered and the spren of this keep have utilized and integrated these changes into their lifestyles. Most, if not all, spren cities utilize manifested objects to create their buildings.
+The lack of water in Shadesmar, leads the spren to keep stores of sand in their cities in the case of fires. They rarely use obsidian chunks as a building material even though is is abundantly available, although they occasionally create weapons using this resource.
+Like many of the Physical Realm Rosharan societies, the true spren disapprove of fortune telling and claims of predicting the future. Any who practice this discipline are shunned and forced to the outskirts and remote locations of the realm if they wish to practice their trade.
+There is an spren festivity known as the [[Feast of Light\|Feast of Light]].
 
-Aunque los ojomuertos viven físicamente en Shadesmar, al igual que los spren vinculados a Radiantes, pueden ser atraídos completamente al Reino Físico en forma de una [[Hoja esquirlada\|hoja esquirlada]]. Como las espadas esquirladas son su forma física, los ojomuertos no pueden ser invocados como una espada en Shadesmar. Sin embargo, responderán si alguien intenta invocarlos en el Reino Cognitivo, estirándose de forma antinatural hacia el invocador. Esto les provoca angustia y dolor. Como la [[Armadura esquirlada\|armadura esquirlada]] es también la manifestación física de los spren en el Reino Físico, tampoco puede llevarse físicamente a Shadesmar.
-Los ojomuertos suelen ser plácidos y no se inmutan por lo que ocurre a su alrededor.  Sin embargo, eso no significa que no puedan sentir emociones más fuertes o volverse peligrosos si se les provoca, aunque esto es raro. Los ojomuertos pueden encontrarse vagando sin rumbo por Shadesmar y son conocidos por deambular sin preocuparse por su entorno. Esto ha llevado a algunos spren a encarcelar a los ojomuertos para evitar que se vayan por su cuenta, aunque esto no impide que sean invocados como una espada.
-Los [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]] suelen encontrar ojomuertos perdidos en los yermos o en los bajos fondos del océano cercanos a su fortaleza, y los llevan de vuelta a Integridad Duradera para cuidar de ellos. Los honorspren se toman en serio su deber y los ojomuertos son bien tratados bajo su cuidado. Aunque, a pesar de sus buenas intenciones, los honorspren tienen la costumbre de ser despectivos con los ojomuertos.
+#### Deadeyes
+>“*It seemed as if someone had taken a knife to her face, except she hadn’t bled or been scarred by the cuts. She’d been erased. Ripped apart. Removed from existence. When she looked at Adolin, she seemed like a painting that had been vandalized.*”
+\-Description of Maya[26]
 
-#### Sociedades humanas
-Por lo general, los humanos que visitan Shadesmar son refugiados, comerciantes o exploradores. Hay algunos asentamientos humanos permanentes, como un clan de [[Comecuernos\|comecuernos]] que vive cerca de la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]] en los [[Picos Comecuernos\|Picos Comecuernos]]. Algunos de los spren verdaderos no están acostumbrados a tratar con los humanos de [[Roshar\|Roshar]] propiamente dicho, probablemente porque el [[Reino Cognitivo\|Reino Cognitivo]] no ha sido visitado por los rosharianos desde hace varios milenios.
 
-### Viaje
-  Los <<Mandra\|Mandras>> se usan habitualmente para tirar de los barcos en los mares de Shadesmar
-#### Viajes locales
-Los viajes son realizados en gran parte por [[Alcanzador\|alcanzadores]] y [[Cumbrespren\|cumbrespren]], que pueden ser contratados para viajar tanto por tierra como por mar. Utilizan [[Mandra\|mandras]] para viajar por mar en lugar del equipo de navegación estándar para compensar la falta de viento en Shadesmar. Es necesario utilizar varios mandras al mismo tiempo en todos los barcos, ya que estos spren serán ocasionalmente arrastrados al [[Reino F%C3%ADsico\|Reino Físico]] y se desvanecerán -un fenómeno conocido como "caer"–. Las naves en Shadesmar se mueven más rápido que una nave promedio en el Reino Físico, en gran medida porque no dependen de la dirección del viento y pueden utilizar el camino más eficiente para llegar a su destino. Algunas naves guardan raciones y un fabrial para hacer agua a bordo en caso de que tomen pasajeros humanos.
-No todos los barcos están equipados, o dispuestos, a aceptar humanos. Aunque los registradores de los muelles mantienen una lista de todos los barcos en el puerto y sus destinos, así como de los que aceptan pasajeros, no llevan un registro de los barcos que aceptan humanos, y los humanos que buscan pasaje deben visitar cada barco individualmente para informarse.
-Los viajes por tierra se realizan utilizando rutas de caravanas establecidas. Es habitual encontrar un gran número de caravanas en el extremo sur de Shadesmar, cerca de la [[Extensi%C3%B3n de la Vitalidad\|Extensión de la Vitalidad]] y no es raro que estas caravanas incluyan humanos.
+[[Deadeye\|Deadeyes]] are spren who have been "killed" though the breaking of the [[Nahel\|Nahel]] bond. They did not exist prior to the [[Recreance\|Recreance]], and most deadeyes can trace their "deaths" back to when they agreed to break their bond with their [[Knights Radiant\|Knights Radiant]]. Deadeyes still maintain the same general appearance they took prior to dying, however, appear raggedy and their eyes are scratched out.
 
-#### Viaje realmático
-El viaje entre los Reinos es posible mediante el uso de la [[Puerta Jurada\|Puerta Jurada]] o la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]]. Aquellos con acceso a la [[/wiki/Potenciaci%C3%B3n#Transportaci.C3.B3n]] también son capaces de moverse físicamente entre los Reinos, aunque es más difícil pasar de Shadesmar al Físico que viceversa. Es necesaria la [[Luz tormentosa\|luz tormentosa]] cuando se utilizan las Puertas Juradas o la Transportación. [[Odium\|Odium]] es también capaz de hacer que las [[Sombras cognitivas\|sombras cognitivas]] y los [[Deshecho\|Deshechos]] se transporten entre los Reinos para permitirles tomar el cuerpo de un huésped físico. Lo hace tirando de las almas "por caminos antiguos". 
-La comunicación entre el Reino Físico y Shadesmar es lenta y probablemente requiere la entrega física de información a través de comerciantes y viajeros. Los métodos de comunicación instantánea, como las vinculacañas, no funcionan a través de los Reinos, probablemente debido a la naturaleza de los spren. Sin embargo, los [[Seon\|seones]] sin vínculos pueden ser utilizados para comunicarse con aquellos en los diferentes planos, siempre y cuando se pueda encontrar uno y esté dispuesto a proporcionar ayuda con la comunicación.
-Debido a la naturaleza del Reino Cognitivo, es posible llegar a diferentes mundos del [[Cosmere\|Cosmere]]. Sin embargo, esto es significativamente más difícil para los individuos altamente [[/wiki/Investidura#Investidura en humanos]] que están [[Conexi%C3%B3n\|Conectados]] a [[Roshar\|Roshar]]..
+>“*We are left, to wander Shadesmar as dead souls, unable to think or talk. Our bodies are used, screaming, as weapons by the descendants of the ones who killed us.*”
+\-Notum talking about deadeyes[117]
 
-### Economía
-#### Divisas
-La [[Luz tormentosa\|luz tormentosa]] es la principal moneda de Shadesmar, sin embargo, debido a su propensión a desvanecerse rápidamente, algunas ciudades tienen bancos donde las gemas infundidas pueden ser cambiadas por créditos. La luz tormentosa se transfiere a [[Gema perfecta\|gemas perfectas]] para que no se desvanezca y esté disponible para su uso futuro. Las [[Esferas\|esferas]] infundidas pueden usarse como moneda, aunque depende del comerciante decidir si aceptan esferas directamente, y aunque las esferas opacas pueden intercambiarse, valen mucho menos. En general, a los spren les importan muy poco las gemas en sí mismas o su valor, y sólo les interesa la luz tormentosa que lleven consigo.
+Although deadeyes physically live in Shadesmar, like with Radiant bonded spren, they can be pulled completely into the Physical Realm in the form of a [[Shardblade\|Shardblade]]. Because Shardblades are their physical form, deadeyes are unable to be summoned as a blade in Shadesmar. They will, however, still respond if someone tries to summon them in the Cognitive Realm, stretching in an unnatural way towards the summoner. This causes them distress and pain. As [[Shardplate\|Shardplate]] is also the physical manifestation of spren in the Physical Realm, it can also not be physically taken into Shadesmar.
+Deadeyes are often placid, and unfazed by what goes on around them. However, that does not mean they are unable to feel stronger emotion or become dangerous if provoked, though this is rare. Deadeyes can be found wandering aimlessly around Shadesmar and are known to wander off without care for their surroundings. This has led to some spren imprisoning deadeyes to prevent them from leaving on their own, though this does not prevent them from being summoned as a Blade.
+The [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]] often find lost deadeyes in the barrens or the shallows of the ocean nearby their keep, and will bring them back to Lasting Integrity to take care of them. The honorspren take their duty seriously and the deadeyes are treated well in their care. Although, despite their good intentions, the honorspren do have a habit of being dismissive of deadeyes.
 
-#### Intercambio
-Los [[Alcanzador\|alcanzadores]] y los [[Cumbrespren\|cumbrespren]] se encuentran comúnmente como comerciantes y marineros en Shadesmar, a menudo transportando mercancías entre las diferentes ciudades portuarias. Hay ciudades y pueblos dedicados que actúan como puntos de paso donde los comerciantes pueden reabastecerse durante sus viajes. El regateo es una práctica aceptada al menos en algunas ciudades comerciales. El comercio en estos lugares se lleva a cabo al aire libre, ya que el Reino no tiene que preocuparse por los problemas meteorológicos.
-Los objetos que se importan desde el [[Reino F%C3%ADsico\|Reino Físico]] se consideran mucho más valiosos que los manifestados porque no acaban desapareciendo. Sin embargo, estos son mucho más difíciles de obtener, ya que tienen que ser traídos a través de una perpendicularidad o una [[Puerta Jurada\|Puerta Jurada]]. Esto ha sido históricamente inaccesible desde la [[Traici%C3%B3n\|Traición]], ya que las Puertas Juradas habían sido selladas y abandonadas. y los [[Comecuernos\|comecuernos]] que custodian la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]] no eran receptivos a los viajeros que utilizaban el punto de paso. Las armas no manifestadas, en particular, valen mucho dinero en Shadesmar. Tras la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], los comerciantes de fuera del sistema roshariano aumentaron su tráfico, con gente atraída por las historias de [[Hoja esquirlada\|hojas esquirladas]] y el deseo de comprarlas. Los [[/wiki/Roshar#Vinos]] también son populares fuera de su mundo.
-Además de ser la principal moneda, la luz tormentosa es una mercancía valiosa porque puede utilizarse para manifestar objetos del Reino Físico. Estos objetos pueden ser vendidos como mercancía por un mercader. El precio fijado para un objeto manifestado refleja, no la artesanía del objeto, sino el tiempo que durará el objeto en Shadesmar antes de desaparecer,. Estos objetos, sin embargo, pueden ser reinfundidos para que duren más tiempo. La habilidad del manifestante determina el tiempo que el objeto permanecerá allí, y aunque la habilidad de manifestar objetos es rara, puede ser bastante peligrosa, y es bastante agotadora.
-La demanda de luz tormentosa como mercancía, tanto en Shadesmar como fuera del mundo, ha llevado a los [[Sangre Espectral\|Sangre Espectral]] a intentar establecer una ruta comercial que transporte la [[Investidura\|Investidura]] desde el Reino Físico y a través de Shadesmar, utilizando las Puertas Juradas. Con el tiempo planean comerciar con luz tormentosa en otros planetas, y aunque saben cómo transportar la Investidura fuera de Roshar, se han encontrado con problemas para poner en práctica su plan.
+#### Human Societies
+Generally humans that visit Shadesmar are refugees, merchants, or explorers. There are some permanent human settlements, such as a clan of [[Horneater\|Horneaters]] who live near [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] on the [[Horneater Peaks\|Horneater Peaks]]. Some of the true spren are not used to dealing with humans from [[Roshar\|Roshar]] proper, likely because the [[Cognitive Realm\|Cognitive Realm]] has not been visited by Rosharans for several millennia.
 
-### Comida y bebida
-Los spren verdaderos no necesitan comida ni agua para sobrevivir, sin embargo, son capaces de consumir luz tormentosa o emociones humanas. Los patrones climáticos de Shadesmar también nutren a los spren, del mismo modo que la comida nutriría a los humanos.
-Las raciones humanas se pueden comprar en las ciudades de Shadesmar y a veces las llevan los marineros spren, incluso cuando no tienen pasajeros humanos. Las raciones son más fáciles de encontrar en las ciudades portuarias que ven un comercio constante de los productos para ayudar a acomodar a los humanos que viven en la zona. Los alimentos en conserva se encuentran comúnmente en Shadesmar, y pueden provenir de [[Scadrial\|Scadrial]] debido a sus procesos de enlatado. Se puede crear agua utilizando un [[Hidrador\|hidrador]]; estos dispositivos se llevan en los barcos en el caso de que el capitán conceda pasaje a los humanos.
+### Travel
+  <<Mandra\|Mandras>> are often used to pull ships through Shadesmar's seas
+#### Local Travel
+Travel is largely conducted by [[Reachers\|Reachers]] and [[Peakspren\|peakspren]], who can be hired for travel over both land and sea. They utilize [[Mandras\|mandras]] for sea travel in lieu of standard sailing equipment to offset the lack of wind in Shadesmar. Multiple mandras have to be used at the same time on all ships, as these spren will occasionally be pulled into the [[Physical Realm\|Physical Realm]] and vanish -- a phenomenon known as "dropping." Ships in Shadesmar move faster than an average ship in the Physical Realm, largely because they are not dependent on wind direction and can use the most efficient path to reach their destination. Some ships will keep rations and a water making fabrial aboard in case they take on human passengers.
+Not all ships are equipped, or willing, to take on humans. Although dock registrar's will keep a list of all ships in port and their destinations, as well as which will take passengers, they do not keep records of which ships are human friendly, and humans looking for passage must visit each ship individually to enquire.
+Land travel is conducted using established caravan routes. A large number of caravans can be commonly found on the southern edge of Shadesmar near the [[Expanse of Vibrance\|Expanse of Vibrance]] and it is not unusual for these caravans to include humans.
 
-### Actividades de ocio
-  <<Wyndle\|Wyndle>> haciendo de jardinero
-#### Jardinería
-La jardinería parece ser una forma de arte en Shadesmar, que disfrutan especialmente los cultivacispren. Difiere de la jardinería del Reino Físico, ya que el cultivo de plantas se considera mundano y ordinario. En cambio, la jardinería de Shadesmar implica el cultivo de objetos a partir de cristales, basados en las almas de los objetos, aunque este método es claramente diferente al de la manifestación de almas. Los cultivacispren son conocidos por crear jardines de sillas. Al igual que las obras de arte del Reino Físico, estas creaciones de jardines se exhiben en exposiciones donde pueden ser vistas por otros spren.
+#### Realmatic Travel
+Travel between the realms is possible through the use of the [[Oathgate\|Oathgates]] or [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. Those with access to the [[/wiki/Surgebinding#Transportation]] are also able to physically move between the realms, although it is harder to move from Shadesmar to the Physical than vice versa. [[Stormlight\|Stormlight]] is necessary when using the Oathgates or Elsecalling. [[Odium\|Odium]] is also able to transition [[Cognitive Shadow\|Cognitive Shadows]] and the [[Unmade\|Unmade]] between the realms to allow them to take over a physical host’s body. He does this by pulling the souls “along ancient paths."
+Communication between the Physical Realm and Shadesmar is slow moving and likely requires the physical delivery of information through traders and travelers. Instantaneous communication methods such as spanreeds do not work across the realms, likely due to the nature of spren. Unbound [[Seon\|seons]], however, can be used to communicate with those on the different planes, provided one can be found and is willing to provide help with communication.
+Due to the nature of the Cognitive Realm, it is possible to reach different worlds in the [[Cosmere\|cosmere]]. However, this is significantly harder for highly [[/wiki/Investiture#Investiture of Humans]] individuals who are [[Connection\|Connected]] to [[Roshar\|Roshar]].
 
-### Ropa
->“*Parece que se ponen la primera ropa que encuentran. Eso es una casaca de oficial alezi sobre un gabán de escriba azishiano. Ahí, una túnica tashikki con pantalones, y eso otro es un tlmko thayleño casi completo, pero sin las botas.*”
-\-Adolin maravillado con la moda de los spren.[19]
+### Economy
+#### Currency
+[[Stormlight\|Stormlight]] is the major currency of Shadesmar, however, due to its propensity to quickly fade, some cities have banks where infused gems can be exchanged for tokens. The Stormlight is then transferred into [[Perfect gemstone\|perfect gemstones]] so that it will not fade and is available for future use. Infused [[Sphere\|spheres]] can be used as currency though it is up to the merchant to decide if they will accept spheres directly, and while dun spheres can be traded, they are worth much less. In general, spren care very little about gemstones themselves or their value, and are instead only interested in any Stormlight the gems carry.
 
+#### Trade
+[[Reachers\|Reachers]] and [[Peakspren\|peakspren]] are commonly found as traders and sailors in Shadesmar, often transporting goods between the different port cities. There are dedicated cities and towns that act as waypoints where traders can resupply during their journeys. Haggling is an accepted practice in at least some trade cities. Trade within these places is conducted in an open aired manner as the realm does not need to worry about weather issues.
+Items that are imported from the [[Physical Realm\|Physical Realm]] are considered much more valuable than manifested items because they will not eventually disappear. However, these are much harder to obtain as they have to be brought through a perpendicularity or [[Oathgate\|Oathgate]]. This has been historically unattainable since the [[Recreance\|Recreance]], as the Oathgates had been sealed and abandoned and the [[Horneater\|Horneaters]] that guard [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] were not receptive to travelers using the waypoint. Non-manifested weapons, in particular, are worth a lot of money in Shadesmar. Following the [[True Desolation\|True Desolation]], traders from outside of the Rosharan system increased in traffic, with people being drawn to the subastral by stories of [[Shardblade\|Shardblades]], and a desire to purchase them. [[/wiki/Roshar#Wines]] are also popular off-world.
+As well as being the major currency, Stormlight is a valued commodity because it can be used to manifest objects from the Physical Realm. These objects can then be sold as wares by a merchant. The price set for an manifested item is reflective, not of the craftsmanship of the item, but the length of time the object will last in Shadesmar before it disappears, These items, however, can be reinfused so that they will last longer. The skill of the manifester determines the length of time the item will remain in the realm, although the ability to manifest objects is rare, can be quite dangerous, and is rather draining.
+The demand for Stormlight as a commodity, both in Shadesmar and off-world, has led the [[Ghostbloods\|Ghostbloods]] to attempt to set up a trade route that will transport the [[Investiture\|Investiture]] from the Physical Realm and through Shadesmar, using the Oathgates. They eventually plan to trade Stormlight on other planets, and although they are aware of how to transport the Investiture off of Roshar, they have run into issues implementing their plan.
 
-La ropa en Shadesmar se crea como parte de la esencia de un spren, o se manifiesta desde el Reino Físico. Los spren no siguen ninguna de las tendencias de la moda que se ven en Roshar, y en su lugar mezclan y combinan ropa de una variedad de culturas rosharianas en formas que serían consideradas extrañas o indecorosas para los humanos. La ropa de los spren que se crea a partir de la esencia de un ser puede ser cambiada por el individuo en cuestión, sin embargo, se requiere [[Luz tormentosa\|luz tormentosa]].
-Los [[Honorspren\|honorspren]] en particular, son propensos a la vestimenta militar, aunque algunos de las generaciones más jóvenes tienden a usar prendas sueltas en su lugar.
+### Food and Drink
+True spren do not require food or water to survive, however, they are able to consume [[Stormlight\|Stormlight]] or human emotions. The weather patterns of Shadesmar also nourishes spren, the way food would nourish human.
+Human rations are available for purchase in Shadesmar cities and are sometimes carried by spren sailors, even when they do not currently have human passengers. Rations are most easily found in port cities which see a steady trade of the goods to help accommodate for humans that live in the area. Tinned food is commonly found in Shadesmar, and may originate from [[Scadrial\|Scadrial]] due to their canning processes. Water can be created using a [[Hydrator\|hydrator]]; these devices are carried on ships in the case that humans are granted passage by the captain.
 
-### Idiomas
-Al igual que los humanos, los spren hablan una multitud de lenguas diferentes que parecen haberse separado en varias familias lingüísticas distintas. La capacidad de hablar varias lenguas, spren o humanas, varía entre individuos y debe aprenderse, ya que no se conocen de forma inherente. La mayoría de los spren pueden hablar lenguas humanas.
-Parece que hay algunos idiomas que son específicos para diferentes tipos de spren. No todos los idiomas son verbales, ya que algunos spren, como los [[Alcanzador\|alcanzadores]], son capaces de comunicarse utilizando vibraciones transmitidas a través de placas de metal.
+### Leisure Activities
+  <<Wyndle\|Wyndle>> gardening
+#### Gardening
+Gardening appears to be an art form in Shadesmar, that is enjoyed particularly by [[Cultivationspren\|cultivationspren]]. It differs from Physical Realm gardening, with the cultivation of plants being considered mundane and pedestrian. Instead, Shadesmar gardening involves growing items out of crystals, based on the souls of objects, though this method is distinctly different from manifesting souls. Cultivationspren are known to create gardens of chairs. Like with Physical Realm artwork, these garden creations are put on display in exhibitions where they can be viewed by other spren.
 
-### Religión
-#### Mitología
-Tras la [[Traici%C3%B3n\|Traición]], la desaparición de los [[Caballeros Radiantes\|Caballeros Radiantes]], y el cierre de las [[Puerta Jurada\|Puertas Juradas]], el conocimiento de Shadesmar desapareció de la población general, y el Reino se desvaneció en mitos y leyendas, llegando a ser conocido como el mítico reino de los [[Spren\|spren]]. Esta ficcionalización del Reino fue alimentada por la [[Vorinismo\|iglesia vorin]] durante la [[Hierocracia\|Hierocracia]], que manipuló y alteró un gran número de textos para eliminar o cambiar la información sobre Shadesmar en un esfuerzo por borrar el conocimiento de la Traición y los Caballeros Radiantes de los registros históricos. Los textos más antiguos de [[Roshar\|Roshar]] aún contienen menciones al [[Reino Cognitivo\|Reino Cognitivo]], incluso en la literatura y los libros infantiles. El folclore contiene referencias a aquellos con sombras al revés, como las que se tendrían en Shadesmar, y describe a los individuos como malditos.
-Al menos algunos habitantes de Roshar siguen creyendo que Shadesmar es real, antes de su "redescubrimiento" en 1174. [[Jasnah Kholin\|Jasnah Kholin]] ha escrito sobre él en algunos de sus primeros trabajos académicos, y al menos algunos en el [[Vorinismo\|fervor]] son conscientes de que Shadesmar es un lugar real.
+### Clothing
+>“*They seem to wear whatever. That’s an Alethi officer’s coat over an Azish scribe’s vest. Tashikki wrap worn with trousers, and there’s almost a full Thaylen tlmko, but they’re missing the boots.*”
+\-Adolin marveling at spren fashion[19]
 
-### Magia
-  Jasnah usando sus habilidades de Nominadora de lo Otro en las cuentas de Shadesmar
-Algunas especies y personas tienen una capacidad más natural para ver el Reino Cognitivo. Los [[Cantor\|cantores]] pueden ver comúnmente algún nivel de Shadesmar, lo que normalmente equivale a ver la totalidad de la apariencia física de un [[Spren\|spren]], mientras que los humanos raramente pueden ver el otro Reino. Algunos [[Comecuernos\|comecuernos]] también tienen la capacidad de ver spren que son invisibles para los demás, aunque no está claro si esto está relacionado con su ascendencia cantora, o con sus interacciones con la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]]. [[Cultivaci%C3%B3n\|Cultivación]] tiene el poder de mover permanentemente a alguien más hacia lo Cognitivo de lo que normalmente sería, lo que puede permitirle tocar físicamente spren que no están manifestados.
 
-#### Potenciación
-Todos los [[Caballeros Radiantes\|Radiantes]] tienen un vínculo con Shadesmar, debido al [[V%C3%ADnculo Nahel\|vínculo Nahel]], y, en ocasiones, pueden ver un atisbo del Reino. Las órdenes que tienen las Potencias de Transformación o Transportación tienen mayor acceso. Debido a esta mayor afinidad, es particularmente peligroso visitar Shadesmar sin suficiente Luz tormentosa para los [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]], los [[Orden de los Tejedores de Luz\|Tejedores de Luz]] o los [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]], ya que corren el riesgo de que sus mentes o cuerpos queden atrapados. Las tres órdenes son capaces de asomarse mentalmente a Shadesmar, aunque hay un nivel de talento involucrado en este proceso. Esta habilidad es un uso "silencioso" de la [[Investidura\|Investidura]] y no llamará la atención de los [[Secretospren\|secretospren]].
-En los momentos en que los Reinos están más cerca, o combinados, es más fácil acceder a Shadesmar y puede producirse un efecto de superposición con el [[Reino F%C3%ADsico\|Reino Físico]]. El [[Moldear almas\|moldeado de almas]] también es mucho más fácil de realizar. Cuando se está en Shadesmar puede realizarse sobre cualquier material físico que se encuentre en el Reino Cognitivo, sin embargo, si se realiza sobre las cuentas entonces sólo el objeto en el Reino Físico se ve afectado. No obstante, los objetos que existen plenamente en Shadesmar pueden ser transformados en otras sustancias como ocurriría normalmente. El moldeado de almas de objetos que están en el Reino Cognitivo es más fácil que cambiar las almas de las cuentas.
-La nominación a Shadesmar requiere una gran cantidad de luz tormentosa, y es más difícil cuando se pasa de lo Cognitivo a lo Físico, que al revés. Aunque es posible salir del Cognitivo desde cualquier punto, aquellos que tienen menos experiencia en el uso de la [[Transportaci%C3%B3n\|Transportación]], requieren un punto de transferencia, donde los Reinos Físico y Cognitivo estén más cerca, para poder realizar el viaje.
+Clothing in Shadesmar is either created as part of a spren’s essence, or is manifested from the Physical Realm. Spren do not follow any of the fashion trends seen on Roshar, and will instead mix and match clothing from a variety of Rosharan cultures in ways that would be considered bizarre or unseemly to humans. Spren clothing that is created from a being essence can be changed by the given individual, however, [[Stormlight\|Stormlight]] is required.
+[[Honorspren\|Honorspren]] in particular have a propensity towards military dress, although some in the younger generation tend towards flowing garments instead.
 
-## Desarrollo
-Shadesmar se inspiró libremente en un cuadro de Michael Whelan que Brandon vio cuando era adolescente, y se desarrolló en gran medida a partir del interés de Brandon por crear un lugar que fuera un reflejo del mundo real, pero también diferente. La naturaleza cristalina de Shadesmar era parte de este interés. El océano de cuentas no se inspiró en nada en particular y surgió de la construcción general del mundo para *[[El archivo de las tormentas\|El archivo de las tormentas]]*.
+### Languages
+Like humans, spren speak a multitude of different languages that appear to have separated into various different language families. The ability to speak multiple languages, spren or human, varies between individuals and must be learned as they are not inherently known. Most spren are able to speak human languages.
+There appears to be some languages that are specific for different types of spren. Not all languages are verbal, with some spren, such as [[Reachers\|Reachers]], being able to communicate using vibrations passed through metal plates.
 
-## Curiosidades
-[[Extensi%C3%B3n de la Vitalidad\|Extensión de la Vitalidad]]: El nombre de esta extensión estaba oculto tras el título del mapa de Shadesmar. Se cree que es Nalthis.
-Una escena no canónica de *[[Palabras radiantes\|Palabras radiantes]]* fue publicada en 2014 sobre la transición de [[Jasnah\|Jasnah]] a Shadesmar desde el [[Placer del Viento\|Placer del Viento]] cuando fue atacada. Se excluyó del libro para no disminuir la revelación del epílogo de que Jasnah había sobrevivido.
-Aunque Brandon planea que Shadesmar se utilice en referencia a todo el Cosmere y no sólo al subastral roshariano, es posible que cambie al término más científico "Reino Cognitivo" una vez que Brandon llegue a la Era 4.
-Hay una razón específica por la que el subastral roshariano está lleno de esferas.
-La idea de Shadesmar puede vincularse al amor de Brandon por Tel'aran'rhiod de la Rueda del Tiempo y a algunas ideas de la antigua filosofía griega.
-## Notas
+### Religion
+#### Mythology
+Following the [[Recreance\|Recreance]], the disappearance of the [[Knights Radiant\|Knights Radiant]], and the locking of the [[Oathgate\|Oathgates]], knowledge of Shadesmar disappeared from the general population, and the realm faded into myths and legends, eventually becoming known as the mythical kingdom of the [[Spren\|spren]]. This fictionalization of the realm was further fueled by the [[Vorinism\|Vorin Church]] during the [[Hierocracy\|Hierocracy]], who tampered and altered a great number of texts to remove or change information about Shadesmar, in their effort to expunge knowledge of the Recreance and Knights Radiant from historical record. Older texts on [[Roshar\|Roshar]] still contain mentions of the [[Cognitive Realm\|Cognitive Realm]], including in literature and children’s books. Folklore contains references to those with backwards shadows, like one would have in Shadesmar, and describes the individuals as being cursed.
+Shadesmar is still believed to be real by at least some inhabitants of Roshar, prior to its "re-discovery" in 1174. [[Jasnah Kholin\|Jasnah Kholin]] has written about the realm in some of her earlier scholarly works, and at least some in the [[Ardentia\|ardentia]] are aware that Shadesmar is a real place.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] ·  · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Magic
+  Jasnah Elsecalling Shadesmar beads
+Some species and people have a more natural ability to view the Cognitive Realm. [[Singers\|Singers]] can commonly see some level of Shadesmar, which usually equates to seeing the entirety of a [[Spren\|spren]]’s physical appearance, while humans rarely can see the other realm. Some [[Horneater\|Horneaters]] also have the ability to see spren that are invisible to others, though it is unclear if this is related to their singer ancestry, or their interactions with [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. [[Cultivation\|Cultivation]] has the power to permanently move someone more into the Cognitive than they normally would be, which can allow them to physically touch spren that are not manifested.
 
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+#### Surgebinding
+All [[Knights Radiant\|Radiants]] have an attachment to Shadesmar, by virtue of the [[Nahel Bond\|Nahel Bond]], and on occasion, they can see a glimpse of the realm. Orders that have the Surges of Transformation or Transportation have greater access. Due to this higher affinity, it is particularly dangerous for [[Order of Elsecallers\|Elsecallers]], [[Order of Lightweavers\|Lightweavers]], and [[Order of Willshapers\|Willshapers]] to visit Shadesmar without sufficient Stormlight as it risks their minds or body becoming trapped. All three orders are capable of mentally peeking into Shadesmar, although there is a level of talent involved in this process. This ability is a "quiet" use of [[Investiture\|Investiture]] and will not draw the attention of [[Secretspren\|secretspren]].
+During times where the realms are closer, or combined, it is easier to access Shadesmar and an overlay effect can occur with the [[Physical Realm\|Physical Realm]]. [[Soulcast\|Soulcasting]] also becomes much easier to perform. When in Shadesmar, Soulcasting can be performed on any physical material that is in the Cognitive Realm, however, if performed on the beads then only the object in the Physical Realm is affected. Items that fully exists in Shadesmar, however, can be changed into other substances as would normally occur. Soulcasting items that are in the Cognitive Realm is easier than changing the souls of the beads.
+Elsecalling to Shadesmar requires a large amount of Stormlight, and it is harder when moving from the Cognitive to the Physical, than the other way around. Although it is possible to leave the Cognitive from any point, those who are less experience with using [[/wiki/Surgebinding#Transportation]], require a transfer point, where the Physical and Cognitive Realms are closer together, to be able to make the journey.
 
+## Development
+Shadesmar was loosely inspired by a painting by Michael Whelan that Brandon saw as a teenager, and largely developed off Brandon’s interest in creating a place that was a reflection of the real world, but also different. The crystalline nature of Shadesmar was part of this interest. The bead ocean wasn’t inspired by anything in particular and grew out of the general worldbuilding for [[The Stormlight Archive\|The Stormlight Archive]].
 
+## Trivia
+[[Expanse of Vibrance\|Expanse of Vibrance]]: This expanse's name was hidden behind the Shadesmar's map's title. It is believed to be Nalthis.
+An uncanonical scene from [[Words of Radiance\|Words of Radiance]] was released in 2014 about [[Jasnah\|Jasnah]] transitioning to Shadesmar from the *[[Wind's Pleasure\|Wind's Pleasure]]* when it was attacked. It was excluded from the book so as to not lessen the epilogue reveal that Jasnah survived.
+Although Brandon plans for Shadesmar to be used in reference to the whole cosmere and not just the Rosharan subastral, this may shift to the more scientific term ‘Cognitive Realm’ once Brandon reaches Era 4.
+There is a specific reason that the Rosharan subastral is full of spheres.
+The idea of Shadesmar can be tied back to Brandon’s love of Tel’aran’rhiod from the Wheel of Time and some ideas from ancient Greek philosophy.
 
-https://es.coppermind.net/wiki/Shadesmar
+
+https://coppermind.net/wiki/Shadesmar

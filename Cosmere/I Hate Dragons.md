@@ -1,61 +1,33 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |***I Hate Dragons***|
 |-|-|
-|**Fecha original**|Diciembre de 2011|
-|**Número de Palabras**|2,015|
+|**Released**|December 2011|
+|**Word Count**|2,015|
 
-***I Hate Dragons*** es una historia corta escrita por [[Brandon Sanderson\|Brandon Sanderson]] como un ejercicio para practicar el diálogo. Escribió la historia utilizando por tanto solo el diálogo como elemento narrativo, aunque lo cierto es que usó largos capítulos y de vez en cuando conversaciones muy descriptivas. Tiempo después, Brandon expandió esta historia corta, introduciendo descripciones y añadiendo más capítulos.
-Además de estar en su página web, esta historia corta se puede encontrar en la antología ** (WordFire Press, 2016).
+***I Hate Dragons*** is a short story written by [[Brandon Sanderson\|Brandon Sanderson]] as part of a dialogue exercise. He wrote the story using only dialogue, although admittedly, he did use large caps and occasionally very descriptive conversation. Some time later, Brandon expanded the short story, putting in descriptions, and added more chapters.
+The short story can also be found in ** (WordFire Press, 2016).
 
-## Sumario
+## Contents
 
-1 Resumen. [[#Resumen]] 
+1 Summary. [[#Summary]] 
 
-1. [[#Ampliado]] 
-
-
-2 Notas del traductor. [[#Notas del traductor]] 
-3 Notas. [[#Notas]] 
+1. [[#Original]] 
+1. [[#Extended]] 
 
 
-## Resumen
-[[Skip\|Skip]] tiene la inusual habilidad de oler delicioso para los dragones, y también puede oír la puntuación y la ortografía cuando la gente (o los dragones) hablan. Debido al primer talento, Skip actúa como cebo en una cuadrilla de cazadores de dragones. El líder de la banda, , sólo paga a Skip con comida.
-Durante una cacería, Skip le pregunta a Johnston si puede cambiar de papel y convertirse en uno de los cazadores. Johnston intenta apaciguarlo con cumplidos y un aumento porcentual sin sentido.
-Entonces llega un dragón, Johnston se esconde y Skip se mete en su papel. El dragón insulta la actuación de Skip e intenta convencerle de que se deje comer. Tras un rato discutiendo sobre los papeles de los humanos y los dragones en la cadena alimentaria, Skip finge estar convencido para ponerse en posición para la trampa. Entonces los cazadores salen y matan al dragón.
+2 Notes. [[#Notes]] 
 
-### Ampliado
-En esta versión, tenemos algunas descripciones y detalles adicionales sobre el mundo, como que es un cubo. Las habilidades de Skip se llaman knacks, y la mayoría de la gente de su lado del cubo tiene algún tipo de knack. Pero la trama comienza prácticamente igual que en la versión original.
-Una vez muerto el dragón, Skip reflexiona sobre su propia mortalidad. Una hechicera coge la espada de Johnston y abre el estómago del dragón. Está lleno de riquezas, pero la hechicera no encuentra lo que buscaba. Le dice a Johnston que traslade a los cazadores a las montañas más peligrosas con bestias dracónicas más grandes.
-La hechicera habla entonces con Skip e intenta disuadirle de que abandone su papel de cebo. Skip le explica que no le pagan y que quiere inventar un diccionario. La hechicera promete ayudarle con su sueño de escribir un diccionario si sigue siendo el cebo durante unas semanas más. Él nunca accede, pero la hechicera parece creer que sí. Su conversación termina, pasan un par de horas y Skip se encuentra solo y acorralado por otro dragón.
 
-## Notas del traductor
+## Summary
+### Original
+[[Skip\|Skip]] has the unusual ability to smell delicious to the dragons, and he can also hear punctuation and spelling when people (or dragons) speak. Because of the former talent, Skip acts as bait in a crew of dragon hunters. The leader of the crew, , only pays Skip in food.
+During a hunt, Skip ask Johnston if he can switch roles and become one of the actual hunters instead. Johnston tries to appease him with compliments and a meaningless percentage-based raise.
+A dragon then comes, Johnston hides, and Skip gets into his role. The dragon insults Skip's acting and attempts to convince Skip to let himself be eaten. After some time arguing about the roles of humans and dragons in the food chain, Skip pretends to be convinced to get into position for the trap. The hunters then come out and kill the dragon.
 
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|****|
-|-|-|
-|**Personajes**|[[Skip\|Skip]] · Master Johnston · Sorceress · The Grummager · Rimbor · Pug · Puke · Took · Paro · Caliber|
-|**Lugares**|Cube · [[Sixthface\|Sixthface]] · [[Dawnface\|Dawnface]] · Drakeface · Highlands · Kalvonia · Tarseldia|
-|**Magia**|[[Knack\|Knack]] · Sorcery · [[Drag%C3%B3n (I Hate Dragons)\|Dragón]]|
-|**Otros**|Johnston's Spears, Dragon Hunters · Wingosian · Lusia|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] ·  · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+### Extended
+In this version, we get some additional descriptions and details about the world, like that it is a cube. Skip's abilities are called knacks, and most people on his side of the cube have some kind of knack. But the actual plot begins mostly the same as the original version.
+After the dragon is dead, Skip reflects on his own mortality. A sorceress takes Johnston's sword and opens the dragons stomach. It is filled with riches, but the sorceress does not find what she was searching for. She tells Johnston to move the hunters into the more-dangerous mountains with larger draconic beasts.
+The sorceress then talks to Skip and tries to dissuade him from quitting his role as bait. Skip explains that he does not get paid, and that he wishes to invent a dictionary. The sorceress promises to help him with his dream of writing a dictionary if Skip continues to be bait for a few more weeks. Skip never agrees, but the sorceress seems to think he does. Their conversation ends, a couple hours pass, and Skip finds himself alone and cornered by another dragon.
 
 
 
-https://es.coppermind.net/wiki/I_Hate_Dragons
+https://coppermind.net/wiki/I_Hate_Dragons

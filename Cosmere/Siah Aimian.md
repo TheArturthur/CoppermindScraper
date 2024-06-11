@@ -1,66 +1,45 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Siah aimiano**|
+|**Siah Aimian**|
 |-|-|
 ||
-|**Nativo de**|Aimia|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Native to**|Aimia|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **siah aimianos** son una raza de seres no humanos que tienen su origen en el [[Reino Plateado\|Reino Plateado]] de [[Aimia\|Aimia]] en [[Roshar\|Roshar]].
+**Siah Aimians** are a non-human race of beings that originated in the [[Silver Kingdoms\|Silver Kingdom]] of [[Aimia\|Aimia]] on [[Roshar\|Roshar]].
 
-## Sumario
+## Contents
 
-1 Características. [[#Caracter.C3.ADsticas]] 
-2 Historia. [[#Historia]] 
-3 Relaciones con otras razas. [[#Relaciones con otras razas]] 
+1 Characteristics. [[#Characteristics]] 
+2 History. [[#History]] 
+3 Relationships with Other Races. [[#Relationships with Other Races]] 
 
-3. [[#Humanos]] 
-3. [[#Insomnes]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Humans]] 
+3. [[#Sleepless]] 
 
 
-## Características
-[[Axies\|Axies]] el Coleccionista es el único siah aimiano conocido. Según su descripción y su propio punto de vista, los siah aimianos parecen casi humanos, aunque suelen tener la piel blanca y pálida (casi azul), las uñas de color azul intenso y los ojos azules "cristalinos". Sin embargo, su "verdadera" forma no está clara ya que son capaces de esculpir sus cuerpos a voluntad. Axies utiliza esta habilidad para eliminar de forma temporal su sentido del olfato y para curarse tanto de una resaca como de algunos moratones físicos. Pueden hacerse pasar por humanos, probablemente combinando sus habilidades con un disfraz. Además, los siah aimianos pueden crear intrincadas marcas en su piel, muy similares a los tatuajes. Axies utiliza esta habilidad para tomar notas que no pueden ser robadas.
-Axies también señala que los humanos se fijan en él porque proyecta una sombra en la dirección equivocada (hacia la luz). Esto se debe a una conexión con el [[Reino Cognitivo\|Reino Cognitivo]]. [[Rysn\|Rysn]], tal vez por la influencia de las leyendas locales, se refiere a ello como una "sombra de [[Portadores del Vac%C3%ADo\|Portador del Vacío]]".
-Los siah aimianos son seres "extremadamente longevos". Aunque no se han revelado los detalles de sus habilidades mágicas, son funcionalmente inmortales. Axies se muestra indiferente a ser golpeado, robado, encarcelado y atado boca abajo a una parte de un [[Tai-na\|Tai-na]]. Considera el dolor y los desmayos como inconvenientes menores y no parece tener ningún miedo a las lesiones permanentes o a la muerte.
-Probablemente por su larga vida, los siah parecen ser capaces de hablar varios idiomas de Roshar, aunque pueden tener un acento peculiar.
+4 Notes. [[#Notes]] 
 
-## Historia
-Tanto los siah aimianos como los [[Insomne\|Insomnes]] (también conocidos como Sysian aimianos) vivían en Aimia antes de su [[La destrucci%C3%B3n de Aimia\|destrucción]], que ha sido descrita por [[Hessi\|Hessi]] como una "destrucción completa”. Las dos razas no están emparentadas. Aunque Axies piensa que no ha pasado mucho tiempo desde la destrucción, posteriormente considera que "unos pocos siglos" es una cantidad de tiempo relativamente corta. Se sabe poco sobre el estado actual de Aimia.
-Desconocemos la etimología de "siah" y "dysian". Ambas razas de aimianos aún residen en Roshar y han sido vistas en distintas partes del continente.
-Axies considera que su mala suerte es una consecuencia de la "Maldición de la Especie", pero no está claro en qué consiste la maldición ni si afecta a todos los siah.
 
-## Relaciones con otras razas
-### Humanos
-En algún momento de la historia, los siah aimianos y los humanos tuvieron descendencia híbrida, posiblemente reflejada en la piel azul de los habitantes de [[Natanatan\|Natanatan]] o en las prominentes venas azules de las mujeres de [[Babazarnam\|Babazarnam]]. Los cruces humano-siah presentan sombras que, de alguna forma, son inusuales.
-La mayoría de las culturas de Roshar son conscientes de los siah aimianos a través de leyendas y de una interacción escasa, pero la reacción ante ellos varía desde la curiosidad y la inquietud hasta la más absoluta repugnancia. Rysn cree que los aimianos dan mala suerte, [[Kylrm\|Kylrm]] cree que traen maldiciones a la gente, y [[Nlent\|Nlent]] cree que pueden deshacerse de sus extremidades y su piel porque son algo maligno que toma forma humana.
+## Characteristics
+The only known Siah Aimian is [[Axies\|Axies]] the Collector. Based on his description and viewpoint, Siah Aimians look nearly human but usually have pale white (nearly blue) skin, deep blue nails and "crystalline" blue eyes. However, their "true" form is unclear as they are able to sculpt their bodies at will; Axies uses this ability to temporarily suppress his sense of smell and to heal from both a hangover and some physical bruising. They can pose as human, likely using a combination of a disguise and their abilities. Siah Aimians can also create intricate tattoo-like markings on their skin; Axies uses this ability to take notes that cannot be stolen.
+Axies also notes that humans may notice him because he casts a shadow in the wrong direction (towards light). This stems from a connection to the [[Cognitive Realm\|Cognitive Realm]]. [[Rysn\|Rysn]], perhaps influenced by local legends, refers to this as a "[[Voidbringer\|Voidbringer]] shadow".
+Siah Aimians are characterized as "extremely long-lived". Although the specifics of their magical abilities have not been revealed, they are functionally immortal. Axies is flippant about being beaten, robbed, imprisoned, and tied upside down to part of a [[Tai-na\|Tai-na]]. He sees pain and blackouts as minor inconveniences and does not appear to have any fear of permanent injury or death.
+Likely due to their long life, Siah appear to be able to speak multiple languages of Roshar, although they may have an unusual accent.
 
-### Insomnes
-Tanto la relación actual como la pasada entre las dos razas de aimianos no está clara. Ambas razas son funcionalmente inmortales, y aunque la línea temporal de Aimia no está bien definida, es probable que la mayoría de los individuos coexistieran en Aimia durante muchos miles de años antes de su destrucción. Un Insomne llamado [[Arclo\|Arclo]] hace referencia a que su habilidad para imitar a los humanos es casi tan buena como la de los siah y menciona a Axies de forma familiar. Tras la destrucción, algunos de los Insomnes siguen protegiendo secretos en la capital aimiana, [[Akinah\|Akinah]], pero desconocemos si los siah aimianos están involucrados.
-Mientras estaba en [[Kasitor\|Kasitor]], Axies señaló que "los aimianos (incluso los siah aimianos) eran raros" en aquella época, lo que implica que históricamente los siah aimianos han superado en número a los Insomnes en el continente roshariano. Sin embargo, esto no aporta mucha información sobre la población de los siah aimianos, ya que solo sabemos que veinticuatro enjambres de Insomnes han vivido en Roshar.
+## History
+Siah Aimians and the [[Sleepless\|Sleepless]] (also known as Dysian Aimians) both lived in Aimia prior to the [[Scouring of Aimia\|scouring of Aimia]], which has been characterized by [[Hessi\|Hessi]] as "total destruction". The two races are not related. Although Axies thinks it has not been long since the scouring, he later considers "a few centuries" to be a relatively short amount of time. Little is known about the current state of Aimia.
+The etymology of "Siah" and "Dysian" is not known. Both races of Aimians still reside on Roshar and have been seen in various parts of the continent.
+Axies refers to his bad luck that is a result of the "Curse of Kind", but it is not clear what the curse is or whether it affects all Siah.
 
-## Notas
+## Relationships with Other Races
+### Humans
+At some point in history, Siah Aimians and humans created hybrid offspring, possibly reflected in the blue skin of the people of [[Natanatan\|Natanatan]] or the prominent blue veins of the women of [[Babatharnam\|Babatharnam]]. Human-Siah hybrids have shadows that are unusual in some way.
+Most cultures on Roshar remain aware of Siah Aimians through legends and limited interaction, but the reaction to them varies from curiosity and unease to outright disgust. Rysn believes that Aimians are bad luck, [[Kylrm\|Kylrm]] believes they bring curses onto people, and [[Nlent\|Nlent]] believes they can remove their limbs and skin because they are evil in human form.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 17:45, 20 August 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] ·  · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Sleepless
+The past and present relationship between the two races of Aimians is unclear. Both races are functionally immortal; although the timeline of Aimia is not well-defined, it is likely that most individuals coexisted on Aimia for many thousands of years before the scouring. A Sleepless named [[Arclo\|Arclo]] refers to his ability to imitate humans almost as well as a Siah and mentions Axies in a familiar manner. After the scouring, some of the Sleepless continue to protect secrets in the Aimian capital of [[Akinah\|Akinah]], but it is not known if Siah Aimians are involved.
+While in [[Kasitor\|Kasitor]], Axies noted that "Aimians—even Siah Aimians—were rare" at the time, implying that Siah Aimians have historically outnumbered Sleepless on the Rosharan mainland. However, this does not provide much insight regarding the population of Siah Aimians, as only twenty-four Sleepless swarms are known to have lived on Roshar.
 
 
 
-https://es.coppermind.net/wiki/Siah_Aimian
+https://coppermind.net/wiki/Siah_Aimian

@@ -1,40 +1,16 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Milen Davenpleu**|
 |-|-|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-**Milen Davenpleu** es un [[Noble\|noble]] en el [[Imperio Final\|Imperio Final]], en [[Scadrial\|Scadrial]].
+**Milen Davenpleu** is a [[Noble\|noble]] in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 
-## Historia
-Era el joven heredero de una casa menor, y escoltó a [[Valette Renoux\|Valette Renoux]] a un baile en el [[Torre%C3%B3n Hasting\|Torreón Hasting]] después de que su cita original no saliese. Durante la fiesta, él y [[Kliss\|Kliss]] hablaron sobre las muertes de [[Charrs Entrone\|Charrs Entrone]], [[Ardous Geffenry\|Ardous]] y [[Callins Geffenry\|Callins]] [[Casa Geffenry\|Geffenry]], y cómo estaban vinculados con la relación entre la [[Casa Tekiel\|Casa Tekiel]] y la Casa Geffenry. Él parecía ser educado, pero Vin tuvo que ocultar su desdén por él ya que compartía ciertos rasgos y actitudes con todos los nobles.
-Participó en el [[Juego de las conchas\|juego de las conchas]] con lord [[Rene\|Rene]], lord [[Tyden\|Tyden]] y otro noble. Él no había llegado a su último juego, y usó a un [[Obligador\|obligador]] para ser testigo de su promesa de asistir a su próxima salida. Salió apresuradamente cuando [[Shan Elariel\|Shan Elariel]] se acercó para hablar con Valette.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 18:47, 10 March 2020 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+He was the young heir of a minor house, and escorted [[Valette Renoux\|Valette Renoux]] to a ball at [[Keep Hasting\|Keep Hasting]] after his original date fell ill. During the ball, he and [[Kliss\|Kliss]] discussed the deaths of [[Charrs Entrone\|Charrs Entrone]] and [[Ardous Geffenry\|Ardous]] and [[Callins Geffenry\|Callins]] [[House Geffenry\|Geffenry]], and how they were linked to the relationship between [[House Tekiel\|House Tekiel]] and House Geffenry. He seemed polite, but Vin had to mask her disdain for him since he shared certain traits and attitudes with all nobles.
+He played [[Shelldry\|shelldry]] with Lords [[Rene\|Rene]] and [[Tyden\|Tyden]] and another noble. He had failed to show up to their last game, and used an [[Obligator\|obligator]] to witness his promise to attend their next outing. He made a hasty exit when [[Shan Elariel\|Shan Elariel]] approached to talk to Valette.
 
 
 
-https://es.coppermind.net/wiki/Milen_Davenpleu
+https://coppermind.net/wiki/Milen_Davenpleu

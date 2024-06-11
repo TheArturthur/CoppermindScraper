@@ -1,65 +1,49 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Vey**|
 |-|-|
-|**Parientes**|[[NaiMeer\|NaiMeer]]|
-|**Títulos**|[[Lord mercader\|Lord mercader]]|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Gremio\|El Gremio]]|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[De Kerzta\|de Kerzta]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Relatives**|[[NaiMeer\|NaiMeer]]|
+|**Titles**|[[Lord Merchant\|Lord Merchant]]|
+|**Groups**|[[Taishin\|Taishin]], [[Guild\|The Guild]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Kerztian\|Kerztian]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Vey** es el actual [[Lord mercader\|lord mercader]] del [[Gremio\|Gremio]]. Está a cargo del sector bancario de [[Lossand\|Lossand]]. Reside en el Mercado Dorado del Gremio. Tiene voto en el consejo del [[Taishin\|Taishin]].
+**Vey** is the current [[Lord Merchant\|Lord Merchant]] of the [[Guild\|Guild]]. He is in charge of the banking industry of [[Lossand\|Lossand]]. He resides at the Golden Market of the Guild. He has a vote on the council of the [[Taishin\|Taishin]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
-4 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Tiene la piel bronceada [[Kerzta\|kerztiana]] y el pelo largo y castaño. Viste los colores del Gremio, morado y blanco.
+## Appearance and Personality
+He has tan [[Kerztian\|Kerztian]] skin and long brown hair. He wears the colors of the Guild, purple and white.
 
-## Historia
-En la primera votación del Taishin, Vey votó a favor de disolver el [[Diem\|Diem]]. Su Oficio, el Gremio, era el único que seguía rindiendo tributo al Diem.
-Algún tiempo después, [[/wiki/Taishin#El lord mastrell]] [[Kenton\|Kenton]] visitó a Vey con [[Ais\|Ais]] y [[Aarik\|Aarik]] para intentar hacerle cambiar de opinión antes de la segunda votación sobre el destino del Diem. Tras esperar dos horas en la sala de espera de Vey, Kenton se aburrió y decidió jugar con su arena mientras esperaba. Esto enfureció a Vey, que irrumpió inmediatamente en la sala de espera y gritó a Kenton por practicar su "arte impío" en su despacho. Vey accedió entonces a hablar con Kenton en su despacho, pero sólo para que dejara de utilizar la [[Maestr%C3%ADa de la arena\|maestría de la arena]]. En el despacho, Kenton pidió sin rodeos a Vey que votara a favor del Diem y sugirió que hicieran un trato para que los maestros de la arena del Diem sirvieran al Gremio, similar al trato que Kenton ya había hecho con el [[/wiki/Taishin#Lord artesano]]. Vey replicó que tal trato sería imposible porque, como kertziano, creía que la [[Maestr%C3%ADa de la arena\|maestría de la arena]] es impía y que no sería ético que se beneficiara de ella. A continuación, acusó a Ais de traicionar a su pueblo por vigilar a Kenton, lo que provocó que Kenton usara la arena y dio lugar a una pelea a gritos entre ambos, tras la cual Kenton abandonó la oficina sin ningún éxito.
-Más tarde, Kenton volvió a intentarlo con una táctica diferente. Volvió al despacho de Vey y le dijo al empleado de Vey, [[Grelin\|Grelin]], que quería hacer las paces con Vey tras su último encuentro. Tras otra larga espera, Kenton se levantó y dio a entender en voz alta que conocía la razón por la que Vey seguía pagando el tributo al Diem. Vey aceptó reunirse con él, pero se echó un farol y Kenton se vio obligado a admitir que no conocía el secreto. Kenton afirma entonces que con el tiempo lo descubriría e intenta chantajear a Very para que apoye al Diem, pero Vey no se inmuta.
-Cuatro días antes de la votación final, Vey abandonó Kezare para mantenerse fuera del alcance de Kenton y dio instrucciones a su sobrino, el Jefe de Estibadores [[NaiMeer\|NaiMeer]], para que impidiera que Kenton le siguiera. [[Khriss\|Khriss]] se enteró a través de [[Nilto\|Nilto]] de que había ido a [[Lraezare\|Lraezare]], pero cuando ella y Kenton intentan conseguir pasaje en un barco, NaiMeer se lo niega. Mientras Kenton y NaiMeer discutían, llegó [[Delius\|Delius]], utilizó su cargo de [[/wiki/Taishin#Lord almirante]] para comandar una nave a Lraezare, e invitó a Kenton a unirse a él.
+## History
+In the first vote of the Taishin, Vey voted to dissolve the [[Diem\|Diem]]. His Profession, the Guild, was the only Profession which was continuing to pay tribute to the Diem.
+Some time later, [[/wiki/Taishin#The Lord Mastrell]] [[Kenton\|Kenton]] visited Vey with [[Ais\|Ais]] and [[Aarik\|Aarik]] to try and change his mind ahead of the second vote on the fate of the Diem. After waiting for two hours in Vey's waiting room, Kenton became bored and decided to play with his sand while waiting. This infuriated Vey, who immediately burst out into the waiting room and yelled at Kenton for practicing his "unholy art" in his office. Vey then agreed to speak with Kenton in his office, but only to get him to stop using [[Sand mastery\|sand mastery]]. In the office, Kenton bluntly asked Vey to vote for the Diem and suggested that they make a deal for sand masters of the Diem to serve the Guild, similar to the deal Kenton had already made with the [[/wiki/Taishin#Lord Artisan]]. Vey replied that such a deal would be impossible because, as a Kertzian, he believed that [[Sand mastery\|sand mastery]] is unholy and that it would be unethical for him to profit from it. He then went on to accuse Ais of betraying her people by guarding Kenton, which provoked Kenton into mastering some sand and resulted in a shouting match between the two, after which Kenton left the office without any success.
+Later, Kenton tried again with a different tactic. He went back to Vey's office and told Vey's clerk, [[Grelin\|Grelin]], that he wanted to make amends with Vey after their last meeting. After another long wait, Kenton got up and loudly implied that he knew the reason why Vey kept paying the tribute to the Diem. Vey then agreed to a meeting, but called Kenton's bluff and Kenton was forced to admit that he didn't know the secret. Kenton then claims that he'll figure the secret out eventually and tries to blackmail Very into supporting the Diem, but Vey is unfazed.
+Four days before the final vote, Vey left Kezare to stay out of Kenton's reach and instructed his nephew, Dockmaster [[NaiMeer\|NaiMeer]], to stop Kenton from following him. [[Khriss\|Khriss]] found out through [[Nilto\|Nilto]] that he had gone to [[Lraezare\|Lraezare]], but when she and Kenton attempt to secure passage on a ship, NaiMeer refuses them. While Kenton and NaiMeer were arguing, [[Delius\|Delius]] arrived, used his position as [[/wiki/Taishin#Lord Admiral]] to commandeer a ship to Lraezare, and invited Kenton to join him.
 
->“*El lord mercader Hennin, para ser exactos. Un idiota que llegó al puesto después de heredar dos fortunas distintas, sin saber nada de negocios.*”
+>“*His name was Hennin. An idiot of a Lord Merchant who acquired the position unearned after two relatives died and left him separate fortunes.*”
 \-Vey[1]
 
-Al llegar a Lraezare, Aarik descubrió que Vey se alojaba en casa de [[Lokkall\|Lokkall]], jefe del Círculo de Navieros. Kenton y sus amigos viajaron entonces hasta allí, pero Lokkall afirmó no saber dónde estaba Vey. Kenton, frustrado, gritó que si no hablaba con él, entregaría el libro de contabilidad del Diem, en el que figuraban 700.000 [[Lak\|laks]] como "cantidad adeudada", a la [[/wiki/Taishin#Jueza suprema]]. Apareció entonces Vey de una habitación del piso de arriba y le dijo a Kenton que podían hablar en privado. Kenton subió a reunirse con él y se llevó a Ais como testigo. Kenton se enfrentó a él y le confirmó que Vey debía los 700.000 laks al Diem, y no al revés, lo que provocó que Vey gimiera y le contara a Kenton la historia de [[Hennin\|Hennin]].
+Upon arriving in Lraezare, Aarik discovered that Vey was staying in the house of [[Lokkall\|Lokkall]], head of the Shipowners' Circle. Kenton and his friends then traveled there, but Lokkall claimed not to know where Vey was. Kenton, frustrated, yelled out that if Vey didn't speak with him, he would turn over the Diem's ledger, that listed 700,000 [[Lak\|lak]] as the "amount owed," over to the [[/wiki/Taishin#Lady Judge]]. Vey then appeared from a room upstairs and told Kenton that they can speak privately. Kenton went up to join him and took Ais with him as a witness. Kenton then confronted him and confirmed that Vey owed the 700,000 lak to the Diem, not the reverse, which prompted Vey to groan and tell Kenton the story of [[Hennin\|Hennin]].
 
->“*Aceptó abrir la cuenta de ahorros al lord mastrell, pero entonces dilapidó el capital inicial en malas inversiones, con lo que seguía debiendo al lord mastrell el dinero derrochado de su cuenta… más los intereses. Cuando el siguiente lord mercader ocupó el cargo, descubrió que se debía una suma gigantesca al lord mastrell. El interés acumulado era monumental y, dado que Hennin había perdido casi toda su fortuna, el nuevo lord mercader no recibió ningún dinero de él… solo sus deudas.*”
+>“*Thus each Quarter the Lord Merchant sends two thousand [[Lak\|lak]] of his personal fortune to the Diem which the Lord Mastrell returns with instructions that it be deposited in the private account, adding to the blasted debt.*”
 \-Vey[1]
 
-Hennin se convirtió en lord mercader cuando dos de sus parientes murieron dejándole dos fortunas distintas. El lord mastrell de su época abrió una cuenta personal con Hennin y le dijo que ingresara en ella el dinero del tributo del Diem. Hennin perdió su fortuna provocando el fin de su gobierno. Cuando el nuevo lord mercader asumió el poder, descubrió que ahora se debía una enorme suma al Diem, los tributos originales y una gran cantidad de intereses, y puesto que un nuevo lord mercader hereda todas las deudas del titular, así como su fortuna, la deuda ha aumentado hasta el punto de que es imposible devolverla. El lord mastrell estaba dispuesto a mantener la deuda en secreto mientras el lord mercader siguiera pagando el tributo. El predecesor de la jueza suprema conocía la deuda y dictaminó que el lord mercader debía pagarla íntegramente cuando el lord mastrell se lo pidiera.
-En lugar de exigir a Vey que pagara la deuda, Kenton se la perdonó, ganándose así el respeto de Vey. Kenton pidió entonces un préstamo al Gremio para cubrir las deudas actuales del Diem, prometiendo a Vey que el Diem devolvería el préstamo con el dinero que ganaran trabajando para los artesanos y que los intereses del préstamo harían ganar mucho dinero al Gremio. Vey aceptó la oferta, diciendo que podía considerar el hecho de que el Gremio no ganaría ese dinero si el Diem se disolvía como una amenaza para justificar el préstamo ante el resto del Gremio, y aceptó votar a favor del Diem. Cuando el Taishin volvió a votar sobre el Diem tras el duelo de Kenton con [[Drile\|Drile]], Vey votó como había prometido y se da a entender que [[Gennel\|Gennel]] votó a favor del Diem debido a la influencia de Vey sobre él.
+Hennin became Lord Merchant when two of his relatives died leaving him two separate fortunes. The Lord Mastrell of his time started a personal account with Hennin, and told Hennin to put the Diem's tribute money into the account. Hennin lost his fortune causing his rule to end. When the new Lord Merchant took over he discovered that a vast sum was now owed to the Diem, the original tributes and a large amount of interest, and since a new Lord Merchant inherits all of the incumbent's debts as well as his fortune, the debt has increased to the point where it is impossible to pay back. The Lord Mastrell was willing to keep the debt secret so long as the Lord Merchant kept paying the tribute. The Lady Judge's predecessor knew about the debt and ruled that the Lord Merchant must pay the debt in full when the Lord Mastrell asks for it.
+Instead of demanding that Vey pay the debt, Kenton forgave the debt, thus earning Vey's respect. Kenton then asked for a loan from the Guild to cover the Diem's current debts, promising Vey that the Diem would pay back the loan with the money they earn working for the artisans and that the interest on the loan will make a lot of money for the Guild. Vey accepted the offer, saying he could call the fact that the Guild wouldn't make that money if the Diem were disolved a threat to justify the loan to the rest of the Guild, and agreed to vote for the Diem. When the Taishin voted on the Diem again following Kenton's duel with [[Drile\|Drile]], Vey voted as promised and it is implied that [[Gennel\|Gennel]] voted for the Diem due to Vey's influence on him.
 
-## Relaciones
-[[Delius\|Delius]]: Debido a su historia, Delius odia a Vey con pasión y lo considera la representación de todo lo malo del mundo.
-[[Kenton\|Kenton]]: Aunque al principio Vey era abiertamente hostil a Kenton, después de que Kenton le perdonara su deuda de 700.000 [[Lak\|laks]], parecen hacerse amigos.
-[[Gennel\|Gennel]]: Gennel está aterrorizado por Vey, y hace todo lo que este le dice que haga. No se sabe por qué es así.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] ·  · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## Relationships
+[[Delius\|Delius]]: Due to their history, Delius hates Vey with a passion and considers him to be the representation of all that is evil in the world.
+[[Kenton\|Kenton]]: While initially Vey was openly hostile to Kenton, after Kenton forgave his 700,000 [[Lak\|lak]] debt, they seem to become friends.
+[[Gennel\|Gennel]]: Gennel is terrified of Vey, and does whatever Vey tells him to do. It is not known why this is the case.
 
 
-
-https://es.coppermind.net/wiki/Vey
+https://coppermind.net/wiki/Vey

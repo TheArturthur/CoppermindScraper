@@ -1,134 +1,112 @@
-
-
 |**Rashek**|
 |-|-|
 ||
-|**Parientes**|[[Kwaan\|Kwaan]]|
-|**Nacido en**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
-|**Fallecido**|1022 [[Imperio Final\|IF]]|
-|**Capacidades**|[[Feruquimia\|Feruquimista]], [[Lasca\|Lasca]], [[Alomancia\|Nacido de la bruma]], [[Nacidoble\|nacidoble]]🐱︎, [[Hemalurgia\|Hemalurgo]], [[Sabio\|Sabio]]|
-|**Títulos**|Lord Legislador, Lasca del Infinito, el Padre, el Conquistador, Primer Emperador|
-|**Nacionalidad**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Relatives**|[[Kwaan\|Kwaan]]|
+|**Born**|[[Classical Scadrial\|Classical Scadrial]]|
+|**Died**|1022 [[Final Empire\|FE]]|
+|**Abilities**|[[Feruchemy\|Feruchemist]], [[Sliver\|Sliver]], [[Allomancy\|Mistborn]], [[Twinborn\|twinborn]], [[Hemalurgy\|Hemalurgist]], [[Savant\|Savant]]|
+|**Titles**|Lord Ruler, Sliver of Infinity, the Father, the Conqueror, First Emperor|
+|**Nationality**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
->“*No cometí ningún error. Nunca he cometido ningún error. Sin embargo, es hora de cambiar.*”
-\-Palabras de Rashek tras la muerte del sumo prelado Tevidian Tekiel.[6]
-
-
-**Rashek** era un [[Terrisano\|terrisano]] de [[Scadrial\|Scadrial]] mejor conocido como el **lord Legislador**, la **Lasca del Infinito** y/o el **Padre**. Tiene acceso a todas las habilidades de [[Feruquimista\|feruquimista]] y de [[Alomante\|alomante]], y cuenta con clavos [[Hemalurgia\|hemalúrgicos]] en su cuerpo. Por tanto, es un [[Composici%C3%B3n\|componedor]] extremadamente poderoso, y fue capaz de unificar gran parte del mundo en un imperio que perduró unos mil años.
-
-## Sumario
-
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-2 Atributos y Habilidades. [[#Atributos y Habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Pre-Ascensi.C3.B3n]] 
-3. [[#Ascensi.C3.B3n]] 
-3. [[#El Imperio Final]] 
-3. [[#Tiempo en el Reino Cognitivo]] 
+>“*I did not make a mistake. I have never made a mistake. However, it is time for a change.*”
+\-Rashek's words after Lord Prelan Tevidian Tekiel's death.[6]
 
 
-4 Citas. [[#Citas]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+**Rashek** is a [[Terrisman\|Terrisman]] from [[Scadrial\|Scadrial]]. Known as the **Lord Ruler**, the **Sliver of Infinity** and the **Father**, he has access to the full range of abilities of both a [[Feruchemist\|Feruchemist]] and an [[Allomancer\|Allomancer]], and has [[Hemalurgic\|Hemalurgic]] spikes in his body. As a result, he is an extremely powerful [[Compounding\|Compounder]], and he was able to unify much of the world into an empire that lasted for around one thousand years.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Pre-Ascension]] 
+3. [[#Ascension]] 
+3. [[#The Final Empire]] 
+3. [[#Time In the Cognitive Realm]] 
 
 
-## Apariencia y Personalidad
+4 Quotes. [[#Quotes]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
  
-Para más imágenes, ver [[Rashek/Galer%C3%ADa\|/Galería]].
-Rashek es increíblemente alto, guapo y carismático, con piel pálida y cabello negro. Viste con ropajes blancos y negros que se asemejan a un exagerado traje de noble: un largo abrigo que le llega hasta los pies y que se arrastra tras él cuando camina y un chaleco negro rematado con marcas de color blanco. Porta consigo unos cuantos anillos que emplea para demostrar su riqueza y como depósito [[Feruqu%C3%ADmico\|feruquímico]].
-Disfruta tocando instrumentos, pues guarda una pequeña flauta de madera entre sus reliquias de [[Terris\|Terris]], y también escuchando música.
-Antes de su Ascensión, le desagradaba la gente de [[Khlennium\|Khlennium]], y se mostraba hostil y enfadado con ellos, a pesar de no haber estado nunca en sus tierras, debido a su opresión sobre el pueblo de Terris. Aunque los odiaba, también envidiaba ciertos aspectos de su cultura, que incorporaría más tarde a la cultura del [[Imperio Final\|Imperio Final]].
-Hacia el final de sus días, se cansó del mundo y parecía resignado en casi todas las interacciones que tenía con los demás. Ello, probablemente,se debe a que su inmensa edad hacía que cada experiencia fuera trivial y agotadora. Rashek trató con desdén a aquellos que se le oponían y no se preocupaba cuando una rebelión se acercaba a su palacio, sino que le resultaba pesado tener que pasar por la molestia de matar a cientos de skaa personalmente.
+For more images, see [[Rashek/Gallery\|/Gallery]].
+Rashek is tall, handsome and charismatic, with pale skin and black hair. He wears black and white clothing that resembles an exaggerated nobleman's suit, with a coat that runs down to his feet and trails behind him and a black vest accented with white markings. He also wears several rings, both as show of his wealth and as [[Feruchemical\|Feruchemical]] storage.
+He enjoys playing and listening to music and keeps a small wooden flute among his [[Terris\|Terris]] relics.
+Prior to his Ascension, he disliked the people of [[Khlennium\|Khlennium]], and was hostile and angry towards them, despite never having been to the state, because of their oppression of the Terris people. Though he hated them, he also envied several aspects of their culture, later incorporating them into the culture of the [[Final Empire\|Final Empire]].
+Towards the end of his life he grew extremely weary of the world and appeared resigned in almost every interaction he had with others, likely due to his immense age rendering every experience trivial and taxing. Rashek treated those who stood against him with disdain and was unconcerned when a rebellion was approaching his palace, instead finding it annoying that he would have to go through the trouble of killing hundreds of skaa personally.
 
-## Atributos y Habilidades
+## Attributes and Abilities
  
-Rashek nace con los poderes de un [[Feruquimista\|feruquimista]] completo. Cuando utilizó el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], se convirtió en una [[Lasca\|Lasca]] de [[Conservaci%C3%B3n\|Conservación]] y también utilizó sus poderes para convertirse a sí mismo en un poderoso [[Nacido de la bruma\|nacido de la bruma]]. Asimismo, cuenta con clavos [[Hemal%C3%BArgico\|hemalúrgicos]], cargados con atributos desconocidos. Combinando las tres [[Artes met%C3%A1licas\|artes metálicas]], es capaz de [[Composici%C3%B3n\|componer]] cualquier metal del que tuviera una mente de metal, lo que utiliza para demostrar lo impresionantes que son sus habilidades. Rashek ha empleado los metales lo suficiente como para convertirse en casi un [[Sabio\|sabio]], si no en un sabio completo, en todas las áreas.
-Mediante la composición de acero, estaño y peltre, posee una incomparable velocidad, fuerza y sentidos aumentados. Rashek puede influir en las emociones de más de mil personas usando tanto cinc como latón y puede aplacar a la gente con suficiente fuerza como para iunducir un efecto similar al de la depresión. Su poder le permite penetrar nubes de cobre con facilidad, así como empujar y tirar del metal incrustado en el cuerpo humano. Podía aumentar el poder de sus tirones de hierro y empujones de acero incrementando su peso mediante sus mentes de hierro. Rashek fue capaz de aplacar a individuos con suficiente fuerza como para inducir un efecto similar a la depresion. Podía sentir cambios mínimos en la respiración y frecuencia cardiaca, permitiéndole detectar mentiras.Tiene una memoria intachable, ya sea por componer cobre o gracias a la herencia de [[Kwaan\|Kwaan]], su tio. Componiendo cobre, tiene una memoria perfecta. Puede detectar que una persona miente con sus sentidos alománticos.{{book ref|mb1|36}
-Mediante la composición de oro y atium feruquímicos, Rashek se convirtió en alguien virtualmente inmortal. Sin embargo, conforme envejecía, Rashek requería más y más juventud almacenada para continuar con vida,a menudo manteniéndose a sí mismo en un estado debilitado en una cabaña dentro de su palacio para poder recargar sis brazales. Habría acabado obligado a recurrir a otros medios para mantener su inmortalidad. Puede sanar rápidamente y no se le puede matar mediante métodos convencionales mientras utiliza su salud almacenada, haciéndo muy dificil matarle; por esto ha sobrevivido a la decapitación, quemaduras y desollamiento. Como resultado de su larga vida y experiencia, es casi imposible engañarle.
-Rashek posee habilidades musicales y toca la flauta.
+Rashek was born with the powers of a full [[Feruchemist\|Feruchemist]]. When he used the [[Well of Ascension\|Well of Ascension]], he became a [[Sliver\|Sliver]] of [[Preservation\|Preservation]] and also used its power to make himself an extremely strong [[Mistborn\|Mistborn]]. In addition to this, he has [[Hemalurgic\|Hemalurgic]] spikes, charged with unknown attributes. With a combination of all three [[Metallic Arts\|Metallic Arts]], he is able to [[Compounding\|Compound]] any metal that he has a metalmind made of, which he uses to pull off his most impressive feats. Rashek has used his metals enough to become nearly a [[Savant\|savant]], if not a full savant, in every area.
+By Compounding steel, tin, and pewter, he possesses unparalleled speed, strength and enhanced senses. He can influence the emotions of over ten thousand people with zinc and brass and can Soothe individuals with enough force to induce an effect similar to depression. His power allows him to easily pierce copperclouds and to Push and Pull on metal in human bodies. He can further increase the power of his ironpulling and steelpushing by increasing his weight with his ironminds. He also has a flawless memory, likely either inherited from his uncle, [[Kwaan\|Kwaan]], or a result of Compounding copper. He can detect that a person is lying with his Allomantic senses.
+By Compounding Feruchemical gold and Feruchemical atium, Rashek effectively made himself immortal. However, as he aged, he required more and more stored youth to keep himself alive, often keeping himself in a weakened state within a hut inside his palace to recharge his bands. He would have eventually had to resort to other means to retain his immortality. He can heal quickly and cannot be killed by conventional means while using his stored health making him difficult to kill; as a result he has survived decapitation, burnings, dismemberment, and flaying. As a result of his age and experience, it is nearly impossible to deceive him.
+Rashek has musical abilities and plays the flute.
 
-## Historia
-  Traicionando a Alendi en el Pozo de la Ascensión
-### Pre-Ascensión
-Rashek formaba parte de un creciente número de jóvenes [[Terrisano\|terrisanos]] con actitudes más violentas de lo que era considerado normal para su pueblo. Creían que la [[Feruquimia\|feruquimia]] debía tener mayor uso que el que se le daba como herramienta para simple labor. [[Alendi\|Alendi]] creía que Rashek y sus compañeros eran peligrosos, si se les daba la oportunidad.
-Rashek creía que Alendi no era el verdadero [[H%C3%A9roe de las Eras\|Héroe de las Eras]], y estaba celoso de él. Pensaba que un forastero –alguien que no era de Terris, y que era un opresor de dicho pueblo– no podía ser el Héroe, y que Alendi había engañado a los filósofos terrisanos. Guió a Alendi al [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] y lo mató, siguiendo las instrucciones de su tío, [[Kwaan\|Kwaan]]. Rashek fue ignorado por Ruina hasta el momento en que asesinó a Alendi. Fue entonces cuando tomó y empleó el poder de [[Conservaci%C3%B3n\|Conservación]], Ascendiendo hasta convertirse en el lord Legislador.
+## History
+  Betraying Alendi at the Well of Ascension
+### Pre-Ascension
+Rashek was part of a growing number of young [[Terris\|Terris]] who had more violent attitudes than was seen as typical of their people. They believed that their [[Feruchemy\|Feruchemy]] should have been put to greater use than it was as a tool for simple labour. [[Alendi\|Alendi]] believed Rashek and his fellows to be dangerous, given the opportunity.
+Rashek believed that Alendi was not the true [[Hero of Ages\|Hero of Ages]], and was resentful of him. He thought that an outsider -- someone not pure Terris, as well as an oppressor of Terris -- could not be the Hero, and that Alendi had tricked the Terris philosophers. He led Alendi to the [[Well of Ascension\|Well of Ascension]] and killed him, under instructions from his uncle, [[Kwaan\|Kwaan]]. He was ignored by [[Ruin\|Ruin]] up until the moment he murdered Alendi. He then took and used the power of [[Preservation\|Preservation]], Ascending to become the Lord Ruler.
 
-### Ascensión
-Con el poder del Pozo en sus manos, Rashek cambió muchos aspectos de la vida en [[Scadrial\|Scadrial]] para salvar al mundo de la . Muchos de esos cambios, sin embargo, crearon incluso más problemas, de los que él mismo tuvo que ocuparse. Acercó el planeta al sol en un intento de quemar las brumas. La nueva órbita estaba muy cerca del sol, por lo que creó volcanes activos que producían amplias cantidades de ceniza y humo para enfriar el mundo. El clima que creaba la constante lluvia de ceniza requería algunos mecanismos para disolverla, para impedir que el planeta se inundase de ella, así que Rashek alteró la flora para que fuera capaz de sobrevivir a las ya mencionadas condiciones climáticas y creó microbios para digerir la ceniza. Sin embargo, todo eso seguía sin ser suficiente para salvar a la humanidad. Rashek alteró la fisiología de los humanos en Scadrial para que fueran capaces de sobrevivir a la continua lluvia de ceniza.
-Realizó más alteraciones tanto al mundo como a la humanidad para asegurar su dominio sobre este. Las montañas de Terris originales fueron aplanadas, y unas nuevas fueron levantadas en el norte en un área que él renombró como Terris para ocultar la localización del Pozo de la Ascensión. Pese a que adaptó a la humanidad a la ceniza, hizo también otros cambios, creando así a la [[Noble\|nobleza]] y a los [[Skaa\|skaa]] del [[Imperio Final\|Imperio Final]] con ligeras alteraciones en su fisiología. Hizo a la nobleza más alta, fuerte e inteligente, pero menos fértil. Y, por el contrario, hizo a los skaa más fértiles, bajos y resistentes.
-Ofreció a sus amigos una elección para hacer en nombre de todos los feruquimistas vivos, que era transformarlos a todos en [[Espectro de la bruma\|espectros de la bruma]]. Posteriormente, transformó a dichos amigos en [[Kandra\|kandra]] para que pudieran retener sus mentes y sus recuerdos. Al realizar este proceso, no se percató de la existencia de genes feruquímicos que no se habían expresado entre la gente de Terris, un descuido que permitió el nacimiento de más feruquimistas en las siguientes generaciones.
-Aunque ya hubiese creado a los kandra con sus amigos de Terris, adquirió muchos conocimientos sobre las tres [[Artes met%C3%A1licas\|artes metálicas]] durante los breves momentos en los que sostuvo el poder del Pozo. Con su conocimiento acerca de la [[Hemalurgia\|hemalurgia]], fue capaz de crear a los [[Koloss\|koloss]] y a los [[Inquisidores\|inquisidores]]. A pesar de todo ese conocimiento adquirido al tomar el poder del Pozo, en mil años fue incapaz de crear más criaturas hemalúrgicas de las tres ya mencionadas.
-Finalmente, Rashek se reconstruyó a sí mismo para convertirse en un [[Nacido de la bruma\|nacido de la bruma]], en vez de ingerir una de las cuentas de [[Lerasium\|lerasium]] presentes en el Pozo de la Ascensión. Era consciente de la posible existencia de vida en otros planetas del [[Cosmere\|Cosmere]], pero no tenía ningún interés ni experiencia en salir de Scadrial. Si así lo hubiese deseado, podría haber dejado Scadrial durante su Ascensión.
-Con lo que le quedaba de poder, Rashek creó una réplica de su antigua cabaña dentro de [[Kredik Shaw\|Kredik Shaw]] sobre el propio Pozo como lugar de retiro para sí mismo.
+### Ascension
+As Rashek was using the power of the Well, he changed many aspects of life on [[Scadrial\|Scadrial]], in order to save the world from the [[Deepness\|Deepness]]. Many of his changes, however, created even more problems that needed to be addressed. He moved the planet closer to its sun in an attempt to burn the mists away. The new orbit was too close to the sun, and he created active volcanoes to produce large amounts of ash and smoke to cool down the world. The climate of ceaseless ashfalls required some mechanism to break down the ash, that the world did not suffocate on it, so Rashek altered the plant life to be able to survive the ash and created microbes to break it down. However, that was still not enough to save humanity. Rashek altered the physiology of humans on Scadrial to be able to survive the ashfall.
+Further alterations to the world and humanity were made to secure his rule over the world. The original Terris mountains were flattened, and new mountains were raised in the north in an area which he renamed Terris in order to hide the location of the Well of Ascension. While he had adapted humanity to the ash, he made other changes, creating the [[Noble\|nobility]] and the [[Skaa\|skaa]] of the [[Final Empire\|Final Empire]] with slight alterations to their physiology. The nobility he made taller, stronger and more intelligent, but less fertile. The skaa he made more fertile, shorter and hardier.
+He offered his friends a choice to make on behalf of all living Feruchemists, to transform them into [[Mistwraith\|mistwraiths]]. His friends he further transformed into [[Kandra\|kandra]] to allow them to retain their minds and their memories. In this process, he failed to account for Feruchemy genes still dormant in the Terris population, an oversight which allowed more Feruchemists to be born into following generations.
+Though he had already created the kandra in his Terris friends, he gained much knowledge of the three [[Metallic Arts\|Metallic Arts]] in the brief moments he held the power of the Well. With his knowledge of [[Hemalurgy\|Hemalurgy]], he was able to create [[Koloss\|koloss]] and [[Steel Inquisitors\|Steel Inquisitors]]. Despite all the knowledge gained from his holding the power of the Well, in a thousand years he was unable to create more than the three Hemalurgic constructs which he had already created.
+Finally, he rebuilt himself to be a [[Mistborn\|Mistborn]], rather than ingesting one of the beads of [[Lerasium\|lerasium]] at the Well of Ascension. He was aware of the possibility of life on other planets in the [[Cosmere\|cosmere]], but had no interest or experience in leaving Scadrial. If he so wished, he could have left Scadrial during his Ascension.
+With the last of his power, Rashek created a replica of his old hut within [[Kredik Shaw\|Kredik Shaw]] over the Well itself as a place of retreat for himself.
 
-  Luchando contra <<Vin\|Vin>>
-### El Imperio Final
-Formó el Imperio Final, en parte como medio de venganza contra los pueblos que consideraba invasores de la región de Terris, y conquistó el mundo entero. Estaba obsesionado con el orden, y subyugó a todo el mundo menos a ocho reyes extranjeros, a quienes convirtió en [[Nacido de la bruma\|nacidos de la bruma]] y permitió gobernar a las masas. Al principio de su reinado, eliminó todo el conocimiento sobre la religión de Terris. Asimismo, destruyó algunos avances tecnológicos que consideraba peligrosos, como la pólvora. Empleó tanto sus poderes alománticos como feruquímicos para [[Composici%C3%B3n\|componer]] y mantenerse así con vida. Rashek fue apodado también como la *Lasca del Infinito* por la gente del Imperio Final. Esto se debe a que los saltamundos lo reconocían como una [[Lasca\|Lasca]]. Rashek formó el [[Ministerio del Acero\|Ministerio del Acero]], una religión que lo adoraba a él como dios y prohibía todas las demás religiones. Los seguidores y creyentes de las religiones que no desaparecieron o se disolvieron voluntariamente, fueron perseguidos y destruidos. Las últimas religiones fueron destruidas quinientos años después de su Ascensión.
-Rashek dijo que su imperio duró mil años. Más concretamente, duró hasta su muerte en 1022 [[Imperio Final\|IF]]. Durante este tiempo, no permitió casi ningún progreso tecnológico. Una vez se dio por vencido e intentó acabar con el Imperio Final.
-Tuvo varios hijos, que estuvieron relacionados con su intento por acabar con el Imperio Final. Sus hijos se mezclaron con el resto de la población, y tras el [[Catacendro\|Catacendro]], todavía tiene descendientes vivos.
-Como resultado de las revelaciones del Pozo de la Ascensión, Rashek adquirió un profundo conocimiento sobre la Profundidad, así como de las [[Esquirla\|Esquirlas]] de Scadrial, Ruina y Conservación. Esto lo llevó a tener [[Caverna de suministros\|almacenes de suministros]] construidos a lo largo y ancho de todo el Imperio Final, cinco en total, que contenían, cada una, un gran suministro de alimentos y productos de primera necesidad, así como información sobre la alomancia y las debilidades de sus construcciones hemalúrgicas. Los textos presentes en estos lugares estaban inscritos en placas de metal para evitar que Ruina los modificara. En estos almacenes, Vin y Elend descubren el [[Electro\|electro]] y el [[Malatium\|malatium]], aunque ya habían descubierto y utilizado tanto el aluminio como el duraluminio.
-Tan solo un par de años antes de que el Pozo de la Ascensión se rellenara, [[Vin\|Vin]] lo mató usando el poder de las brumas, después de que su poderoso empujón de acero le arrancara su [[Pendiente de Vin\|pendiente]] hemalúrgico, permitiendo entonces que ella pudiera acceder al poder de Conservación y emplear su nueva fuerza para arrancarle a él sus brazaletes de [[Atium\|atium]]. La muerte de Rashek derivó en el [[Colapso\|Colapso]], y el fin de la [[Revuelta skaa\|rebelión skaa]].
+  Fighting <<Vin\|Vin>>
+### The Final Empire
+He formed the Final Empire, partly as a means of revenge against the people he viewed as encroaching on Terris land, and conquered the whole of the world. He was obsessed with order, and he subjugated all but eight foreign kings, whom he made [[Mistborn\|Mistborn]] and allowed to rule over the masses. In his early reign, he erased all knowledge of the religion of Terris. He also destroyed technologies that he considered dangerous, like gunpowder. He made use of both Allomantic and Feruchemical powers in order to [[Compounding\|Compound]] to keep himself alive. Rashek was also called *Sliver of Infinity* by the people of the Final Empire. This was due to worldhoppers recognizing him as a [[Sliver\|Sliver]]. Rashek formed the [[Steel Ministry\|Steel Ministry]], a religion that worshipped him as a god and banned all other religions. The followers of the religions who did not voluntarily dissolve were hunted down and destroyed. The last religions were destroyed about five hundred years after Rashek's Ascension.
+Rashek said his empire lasted a thousand years. More specifically, it lasted until his death in 1022 [[Final Empire\|FE]]. During this time, he allowed almost no technological progress. He once gave up and tried to end the Final Empire.
+He had several children, who had some relation to his attempt to end the Final Empire. His children mixed among the population, and post-[[Catacendre\|Catacendre]], he still had living descendants.
+As a result of the revelations from the Well of Ascension, Rashek gained a profound understanding of the Deepness, as well as Scadrial's [[Shard\|Shards]], Ruin and Preservation. This led him to have [[Storage cache\|storage caches]] constructed throughout the Final Empire, five in total, each containing a large supply of food and basic necessities as well as information about Allomancy and the weaknesses of his Hemalurgic constructs. The text was inscribed on metal plaques to prevent their alteration by Ruin. It is from these storage sites that Vin and Elend learn about [[Electrum\|electrum]] and [[Malatium\|malatium]], although they had already discovered and utilized aluminum and duralumin.
+Only a couple of years before the Well of Ascension was due to refill, [[Vin\|Vin]] killed him using the power of the mists, after his own powerful steel push ripped her Hemalurgic [[Vin's earring\|earring]] free, allowing her to access Preservation's power and use her newfound strength to remove his [[Atium\|atium]] bracers. His death led to the [[Collapse\|Collapse]], and the end of the [[Skaa rebellion\|skaa rebellion]].
 
-### Tiempo en el Reino Cognitivo
->“*Solo falta un año. Qué cerca he estado. Podría haber rescatado de nuevo este planeta que tan poco lo merece.*”
-\-Rashek a Kelsier y Leras[60]
-
-
-Rashek no pasó de forma inmediata al [[M%C3%A1s All%C3%A1\|Más Allá]], puesto que al haber tomado el poder del Pozo, se convirtió en una Lasca de Conservación. Una vez su espíritu se manifestó en el [[Reino Cognitivo\|Reino Cognitivo]], fue al Pozo de la Ascensión, donde encontró a [[Kelsier\|Kelsier]] y lo que quedaba de [[Leras\|Leras]]. Habló brevemente con Kelsier, desestimándolo a él y a Leras como impotentes molestias. Rashek estaba molesto por el hecho de haber sido asesinado antes de poder tomar el poder del Pozo una segunda vez. Kelsier intentó enfrentarse a él acerca de la fuente de sus poderes, mientras Rashek tocaba el poder que emanaba del Pozo, examinándolo antes de anunciar con desdén que no se quedaría en su compañía y que partiría hacia el Más Allá.
-
-## Citas
-  El lord Legislador
->“*Que empiecen las ejecuciones.*”
-\-Rashek, tras matar a Kelsier.[7]
+### Time In the Cognitive Realm
+>“*Only a year left. So close. I would have again ransomed this undeserving planet.*”
+\-Rashek to Kelsier and Leras[60]
 
 
->“*Mi señor, ¡mira por la ventana!¿No tenemos cosas mejores que discutir? ¡Toda la ciudad se ha rebelado! Las antorchas de los skaa iluminan la noche y se atreven a internarse en las brumas. ¡Blasfeman, se amotinan y atacan las fortalezas de los nobles!*”
-\-Tevidian discutiendo con Rashek sobre la rebelión de skaa.[6]
+A Sliver of Preservation due to his time holding the power of the Well, Rashek did not immediately pass on to the [[Beyond\|Beyond]] after his death. Once his spirit manifested in the [[Cognitive Realm\|Cognitive Realm]], he went to the location of the Well where he found [[Kelsier\|Kelsier]] and the remnants of [[Leras\|Leras]]. He spoke briefly to Kelsier, dismissing him and Leras as impotent annoyances. Rashek was annoyed that he had been killed before he had been able to collect the power of the Well a second time. Kelsier attempted to confront him about the source of his powers, while Rashek touched the power emanating from the Well, examining it before disdainfully stating that he would not remain behind in their company and departing for the Beyond.
+
+## Quotes
+  The Lord Ruler
+>“*Let the executions begin.*”
+\-Rashek, after killing Kelsier.[7]
 
 
->“*No se puede matar a **Dios**. No se puede derrocar a **Dios**. Tu rebelión... ¿crees que no la he visto antes? ¿Crees que no he destruido ejércitos enteros yo solo? ¿Qué hace falta para que dejéis de dudar? ¿Cuántos siglos debo demostraros lo que soy antes de que los **idiotas** skaa veáis la verdad? ¿A cuántos he de matar?*”
-\- Rashek.[3]
+>“*My lord, look outside your window! Do we not have better things to discuss? The entire city is in rebellion! Skaa torches light up the night, and they dare go out into the mists. They blaspheme in riots, attacking the keeps of the nobility!*”
+\-Tevidian arguing against Rashek about the skaa rebels[6]
 
 
->“*No sabéis lo que hago por la humanidad. **Era** vuestro dios, aunque no pudierais comprenderlo. Al matarme, os habéis condenado...*”
-\-Últimas palabras de Rashek.[3]
+>“***God** cannot be killed. **God** cannot be overthrown. Your rebellion—you think I haven't seen its like before? You think I haven't destroyed entire armies on my own? What will it take before you people stop questioning? How many centuries must I prove myself before you **idiot** skaa see the truth? How many of you must I kill!*”
+\- Rashek[3]
 
 
->“*Sufrió mucho bajo la mano de Ruina, pero era un buen hombre que tenía en el fondo intenciones honorables.*”
-\-Sazed acerca de la corrupción de Rashek por Ruina. Una nota en el reverso del dibujo de la flor de Mare en un libro escrito por él mismo tras su Ascensión.[61]
+>“*You don't know what I do for mankind. I **was** your god, even if you couldn't see it. By killing me, you have doomed yourselves...*”
+\-Rashek's final words[3]
 
 
-## Curiosidades
-Si Rashek se hubiera unido a los [[Caballeros Radiantes\|Caballeros Radiantes]], lo más probable es que perteneciera a la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]].
-No destruyó el [[Diario de Alendi\|diario de Alendi]] porque Ruina manipuló su nostalgia para que lo guardara.
-Aunque no fuese necesario para el proceso de composición de atium, Rashek permanecía envejecido intencionadamente en ciertas ocasiones. 
-Rand, de *La rueda del tiempo* (tras *Un recuerdo de luz*), ganaría en una lucha contra el lord Legislador.
-Hay una ciudad en la [[Cuenca de Elendel\|cuenca de Elendel]] denominada [[Rashekin\|Rashekin]], presuntamente nombrada así por él.
-No está claro si existe alguna conexión entre la flauta de Rashek y la [[Flauta de caminante\|flauta]] que [[Hoid\|Hoid]] regaló a [[Kaladin\|Kaladin]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] ·  · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“*He suffered much beneath Ruin's hand, but he was a good man, who ultimately had honorable intentions.*”
+\-Sazed on Rashek's corruption by Ruin. A note on the reverse of the flower picture in a book written by Sazed after his ascension.[61]
 
 
+## Trivia
+If he had joined the [[Knights Radiant\|Knights Radiant]], he would most likely have been in the [[Order of Skybreakers\|Order of Skybreakers]].
+He didn't destroy [[Alendi's logbook\|Alendi's logbook]] because Ruin manipulated his nostalgia in order to keep the book around.
+Although it wasn't necessary for the process of atium Compounding, Rashek intentionally stayed aged at times in spite of that fact.
+Rand from The Wheel of Time (Post Memory of Light) would win in a fight against the Lord Ruler.
+There is a city in the [[Elendel Basin\|Elendel Basin]] named [[Rashekin\|Rashekin]], presumably named after him.
+It is not clear if there is any connection between Rashek's flute and the [[Trailman's flute\|flute]] that [[Hoid\|Hoid]] gifted [[Kaladin\|Kaladin]].
 
-https://es.coppermind.net/wiki/Rashek
+
+https://coppermind.net/wiki/Rashek

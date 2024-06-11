@@ -1,128 +1,129 @@
-
-
-|**Feruquimia**|
+|**Feruchemy**|
 |-|-|
 ||
-|**Relacionado con**|[[Conservaci%C3%B3n\|Conservación]], [[Ruina\|Ruina]]|
-|**Prerrequisitos**|Habilidad genética|
-|**Tipo**|Fin-neutral|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Preservation\|Preservation]], [[Ruin\|Ruin]]|
+|**Prerequisites**|Genetic ability|
+|**Type**|End-Neutral|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
 
-La **feruquimia** es una de las tres manifestaciones principales de [[Investidura\|Investidura]] en [[Scadrial\|Scadrial]]. Los nativos de ese mundo la consideran una de las tres [[Artes Met%C3%A1licas\|Artes Metálicas]].
+**Feruchemy** is one of the three prime manifestations of [[Investiture\|Investiture]] on [[Scadrial\|Scadrial]]. The natives of that world consider it one of the three [[Metallic Arts\|Metallic Arts]].
 
-## Sumario
+## Contents
 
-1 Mecánicas. [[#Mec.C3.A1nicas]] 
+1 Mechanics. [[#Mechanics]] 
 
-1. [[#Savantismo]] 
-1. [[#Propiedades feruqu.C3.ADmicas de los metales]] 
-1. [[#Mentes de metal especiales]] 
+1. [[#Savantism]] 
+1. [[#Feruchemical Properties of Metals]] 
+1. [[#Special Metalminds]] 
 
-1. [[#Mentes de metal sin v.C3.ADnculo]] 
-1. [[#Mentes de metal liberadas]] 
-
-
-1. [[#Interacciones con otros tipos de Investidura]] 
-
-1. [[#Alomancia]] 
-1. [[#Hemalurgia]] 
-1. [[#Sangre Nocturna]] 
-1. [[#Despertar]] 
-1. [[#V.C3.ADnculo Nahel]] 
-1. [[#Hojas esquirladas]] 
+1. [[#Unkeyed Metalminds]] 
+1. [[#Unsealed Metalminds]] 
 
 
+1. [[#Interactions with Other Investitures]] 
+
+1. [[#Allomancy]] 
+1. [[#Hemalurgy]] 
+1. [[#Nightblood]] 
+1. [[#Awakening]] 
+1. [[#Nahel Bond]] 
+1. [[#Shardblades]] 
 
 
-2 Historia. [[#Historia]] 
-3 Feruquimistas destacados. [[#Feruquimistas destacados]] 
-4 Desarrollo. [[#Desarrollo]] 
-5 Notas. [[#Notas]] 
 
 
-## Mecánicas
-La feruquimia es una manifestación de Investidura de fin-neutral que permite al usuario convertir ciertos atributos en Investidura y almacenarlos en un metal con el que mantiene contacto físico, para luego recuperarlos del mismo metal. Aunque generalmente se hereda u obtiene usando hemalurgia, hay otras formas de convertirse en un feruquemista, que están de algún modo relacionadas con los [[Metal divino\|metales divinos]] de Scadrial, el [[Atium\|atium]] y el [[Lerasium\|lerasium]]. Como un arte de fin-neutro, la Investidura no se obtiene desde una fuente externa (como ocurre en las artes de fin-positivo) y la Investidura no se pierde permanentemente (como en las artes de fin-negativo). Por lo general, cuando un feruquimista decanta un atributo al mismo ritmo al que se almacenó, es capaz de obtener de vuelta exactamente tanto como se introdujo. Por ejemplo, si almacena un 50% de su fuerza durante una hora, podrá consumirlo y estar al 150% de su fuerza durante una hora. Sin embargo, si el feruquimista usa su habilidad a un ritmo más acelerado, parte del atributo se perderá, para facilitar la compresión de la Investidura. Esto significa que un feruquimista que almacena un 50% de su fuerza durante una hora podrá aumentar su poder al 200% durante, digamos, 25 minutos, en vez de media hora completa. Cuanto más comprime el feruquimista un atributo, más se pierde. Si bien un feruquimista solo puede almacenar atributos a un ritmo razonable, no hay un límite superior a cuánto puede consumir de golpe.
-El tipo de metal determina qué atributo se puede almacenar en él. A las piezas de metal que han sido cargadas por feruquimistas, en general se les llama **mentes de metal**, o más específicamente como el tipo de metal precedido del prefijo “mente-” (por ejemplo, mentecobre). El acto de llenar o Investir una mente de metal se conoce como **almacenar** y el acto de recuperar el atributo almacenado se llama **decantar**. Los feruquímicos son capaces de saber de forma innata qué cantidad de un atributo está almacenada en una mente de metal en cualquier momento, siempre que estén tocando físicamente la mente metálica, de la misma forma que un individuo puede saber lo cansado que está.
-Una pieza de metal más grande podrá almacenar más cantidad de un atributo, pero el escalado no es lineal: hay ciertos umbrales de tamaño en los que aumenta la cantidad de atributo que se puede almacenar. Si una mente de metal se rompe, el atributo almacenado se repartirá entre los distintos trozos. Esto ocurre porque el poder interior del metal actúa como el gas en una botella. Se puede almacenar y decantar utilizando un metal fundido (dejando de lado los peligros convencionales de tocar metal fundido), lo cual tendría cierto efecto sobre la Investidura almacenada. Sin embargo, si el metal fundido se mezcla para formar una aleación, la Investidura se volverá inaccesible, incluso si la aleación en cuestión es feruquímicamente viable. Si lo es, el feruquimista no podrá almacenar tanto atributo como podría en una mente de metal del mismo tamaño; aunque la Investidura original sea inaccesible, seguirá ocupando "espacio" en la mente de metal.
-Por lo general, las reservas de un feruquimista están vinculadas a su [[Identidad\|Identidad]] y son inaccesibles para otro feruquimista. Sin embargo, los otros feruquimistas sí pueden sentir la presencia de las reservas del feruquimista original.
-Para conseguir el máximo espacio de almacenamiento de una mente de metal de una aleación, el metal debe estar aleado en una combinación específica de metales. Si el metal no tiene la mezcla adecuada, se considera impuro. Esto se asemeja a cómo los alomantes también requieren estos metales “puros”. Si una mente de metal no es pura, no podrá almacenar tanta carga como una del mismo tamaño que sí estuviera correctamente aleada.
+2 History. [[#History]] 
+3 Notable Feruchemists. [[#Notable Feruchemists]] 
+4 Development. [[#Development]] 
+5 Notes. [[#Notes]] 
 
-### Savantismo
-Los feruquimistas que [[Composici%C3%B3n\|componen]] sus metales durante largos periodos de tiempo pueden verse alterados psicológicamente por el constante flujo de poder. Dado que la feruiquimia no se basa en un poder externo, es muy difícil convertirse en [[Sabio\|sabio]] usando la feruquimia de forma normal. Si el feruquimista puede componer y sacar poder de una fuente externa podría convertirse en sabio de forma más sencilla.
 
-### Propiedades feruquímicas de los metales
-Para más información, ver las páginas de cada metal.
-|**Tabla de metales feruquímicos**|
+## Mechanics
+Feruchemy is an end-neutral manifestation of Investiture that allows the user to convert certain attributes into Investiture and store them in metal that they are in physical contact with, and to later retrieve them from the metal. Although it is generally inherited or obtained through Hemalurgy, there are other ways to become a Feruchemist, involving the Scadrian [[God Metal\|God Metals]], [[Atium\|atium]] and [[Lerasium\|lerasium]]. As an end-neutral art, Investiture is not gained from an outside source (as it is in end-positive arts) and Investiture is not permanently lost (as it is in end-negative arts). Ordinarily, when a Feruchemist is tapping an attribute at the same rate it was stored, they are able to get out exactly what they put in, for example, if they store 50% of their strength for one hour they can tap that and be at 150% of their strength for one hour. However, if the Feruchemist taps at a greater rate, then some of the attribute is lost, to facilitate the compression of the Investiture. This means that a Feruchemist who stores 50% of their strength for one hour might only be able to stay at 200% for 25 minutes, rather than a full half hour. The more a Feruchemist compresses the attribute, the more is lost. While a Feruchemist can only store attributes at a reasonable rate, there isn't an upper limit of how much they are able to tap at any given time.
+The type of metal determines what attribute can be stored within it. Pieces of metal that have been charged by Feruchemists are referred to as **metalminds** in general, or more specifically as the type of metal with an added "-mind" suffix. The act of charging, or Investing, a metalmind is referred to as **storing** and the act of retrieving the stored attribute is referred to as **tapping**. Feruchemists are capable of innately knowing how much of an attribute is stored within a metalmind at any time, as long as they are physically touching the metal mind, in the same way an individual can know how tired they are.
+A larger piece of metal will be able to store more of an attribute, but the scaling is not linear; there are certain thresholds of size where the amount of attribute that can be stored increases. If a metalmind is broken, the stored attribute will be split among the pieces. This is because the power inside the metal acts like a gas acts inside a jar. It is possible to store and tap using molten metal (setting aside the conventional hazards of touching molten metal) which would have some effect on the stored Investiture. If the molten metal is mixed to form an alloy, however, the Investiture will become inaccessible, even if the alloy in question is Feruchemically viable. If the alloy is Feruchemically viable, a Feruchemist will not be able to store as much of an attribute as they could in an identically-sized metalmind: while the original Investiture is inaccessible, it does still take up "space" in the metalmind.
+Ordinarily, a Feruchemist's stores are keyed to their [[Identity\|Identity]] and are inaccessible to another Feruchemist. However, other Feruchemists can sense the presence of the original Feruchemist's stores, but only if they have the ability to use that attribute themselves.
+In order to get the most storage out of a metalmind of an alloy, the metal has to be alloyed in a specific combination of metals. If the metal does not have the right mixture, it is considered impure. This is likened to how Allomancers require these 'pure' metals as well. If a metalmind is not pure, it will not hold as much charge as one that is alloyed correctly with the same size.
+
+### Savantism
+Feruchemists who [[Compounding\|Compound]] their metals for extended periods of time may be physiologically altered by the constant influx of power. Since Feruchemy doesn't draw from an external power, it is very difficult to become a [[Savant\|savant]] from just using normal Feruchemy. If the Feruchemist is able to Compound and draw power from an outside source they could become a savant more easily.
+
+### Feruchemical Properties of Metals
+For more information, see the individual pages for each metal.
+|**Table of Feruchemical Metals**|
 |-|-|
-|**FÍSICO**|****||****|**COGNITIVO**|
-|****|[[Hierro\|]] **[[Hierro\|Hierro]]** *(Deslizador)*Acumula peso físico|[[Acero\|]] **[[Acero\|Acero]]** *(Mensajero)*Acumula velocidad física|[[Cinc\|]] **[[Cinc\|Cinc]]** *(Chispeante)*Acumula velocidad mental|[[Lat%C3%B3n\|]] **[[Lat%C3%B3n\|Latón]]** *(Alma de fuego)*Acumula calor|****|
-|[[Esta%C3%B1o\|]] **[[Esta%C3%B1o\|Estaño]]** *(Susurravientos)*Acumula sentidos|[[Peltre\|]] **[[Peltre\|Peltre]]** *(Bruto)*Acumula fuerza física|[[Cobre\|]] **[[Cobre\|Cobre]]** *(Archivero)*Acumula recuerdos|[[Bronce\|]] **[[Bronce\|Bronce]]** *(Centinela)*Acumula vigilia|
+|**PHYSICAL**|****||****|**COGNITIVE**|
+|****| **[[Iron\|Iron]]** *(Skimmer)*Stores Physical Weight| **[[Steel\|Steel]]** *(Steelrunner)*Stores Physical Speed| **[[Zinc\|Zinc]]** *(Sparker)*Stores Mental Speed| **[[Brass\|Brass]]** *(Firesoul)*Stores Warmth|****|
+| **[[Tin\|Tin]]** *(Windwhisperer)*Stores Senses| **[[Pewter\|Pewter]]** *(Brute)*Stores Physical Strength| **[[Copper\|Copper]]** *(Archivist)*Stores Memories| **[[Bronze\|Bronze]]** *(Sentry)*Stores Wakefulness|
 ||
-|****|[[Cromo\|]] **[[Cromo\|Cromo]]** *(Tejedor)*Acumula [[Fortuna\|Fortuna]]|[[Nicrosil\|]] **[[Nicrosil\|Nicrosil]]** *(Portaalmas)*Acumula [[Investidura\|Investidura]]|[[Cadmio\|]] **[[Cadmio\|Cadmio]]** *(Susurrante)*Acumula aliento|[[Bendaleo\|]] **[[Bendaleo\|Bendaleo]]** *(Incluyente)*Acumula energía|****|
-|[[Aluminio\|]] **[[Aluminio\|Aluminio]]** *(Auténtico)*Acumula [[Identidad\|Identidad]]|[[Duraluminio\|]] **[[Duraluminio\|Duraluminio]]** *(Conector)*Acumula [[Conexi%C3%B3n\|Conexión]]|[[Oro\|]] **[[Oro\|Oro]]** *(Hacedor de sangre)*Acumula salud|[[Electrum\|]] **[[Electrum\|Electrum]]** *(Pináculo)*Acumula determinación|
-|**ESPIRITUAL**|****|****|**HÍBRIDO**|
+|****| **[[Chromium\|Chromium]]** *(Spinner)*Stores [[Fortune\|Fortune]]| **[[Nicrosil\|Nicrosil]]** *(Soulbearer)*Stores [[Investiture\|Investiture]]| **[[Cadmium\|Cadmium]]** *(Gasper)*Stores Breath| **[[Bendalloy\|Bendalloy]]** *(Subsumer)*Stores Energy|****|
+| **[[Aluminum\|Aluminum]]** *(Trueself)*Stores [[Identity\|Identity]]| **[[Duralumin\|Duralumin]]** *(Connector)*Stores [[Connection\|Connection]]| **[[Gold\|Gold]]** *(Bloodmaker)*Stores Health| **[[Electrum\|Electrum]]** *(Pinnacle)*Stores Determination|
+|**SPIRITUAL**|****|****|**HYBRID**|
+
+
 
 |**God Metals**|
 |-|-|
-|**Metal**|**Esquirla**|**Efecto**|
-|**[[Atium\|Atium]]**|[[Ruina\|Ruina]]|Acumula juventud|
-|**[[Atium\|Atium puro]]**|[[Ruina\|Ruina]]|Desconocido|
-|**[[Malatium\|Malatium]]**|[[Ruina\|Ruina]]|Desconocido|
-|**[[Atium\|Aleaciones de atium]]**|[[Ruina\|Ruina]]|Desconocido|
-|**[[Lerasium\|Lerasium]]**|[[Conservaci%C3%B3n\|Conservación]]|Desconocido|
-|**[[Lerasium\|Aleaciones de lerasium]]**|[[Conservaci%C3%B3n\|Conservación]]|Desconocido|
-|**[[Armonium\|Armonium]]**|[[Armon%C3%ADa\|Armonía]]|Desconocido|
-|**[[Trellium\|Trellium]]**|[[Autonom%C3%ADa\|Autonomía]]|Desconocido|
-|**[[Raysio\|Raysio]]**|[[Odium\|Odium]]|Desconocido|
+|**Metal**|**Shard**|**Effect**|
+|**[[Atium\|Atium]]**|[[Ruin\|Ruin]]|Stores youth|
+|**[[Atium\|Pure Atium]]**|[[Ruin\|Ruin]]|Unknown|
+|**[[Malatium\|Malatium]]**|[[Ruin\|Ruin]]|Unknown|
+|**[[Atium\|Atium Alloys]]**|[[Ruin\|Ruin]]|Unknown|
+|**[[Lerasium\|Lerasium]]**|[[Preservation\|Preservation]]|Unknown|
+|**[[Lerasium\|Lerasium Alloys]]**|[[Preservation\|Preservation]]|Unknown|
+|**[[Harmonium\|Harmonium]]**|[[Harmony\|Harmony]]|Unknown|
+|**[[Trellium\|Trellium]]**|[[Autonomy\|Autonomy]]|Unknown|
+|**[[Raysium\|Raysium]]**|[[Odium\|Odium]]|Unknown|
 
-Aparte de los metales comunes, [[Scadrial\|Scadrial]] también tiene acceso a dos metales divinos, formados de la [[Investidura\|Investidura]] de [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]]. Mientras que las propiedades feruquímicas del **[[Lerasium\|lerasium]]**, el metal divino de Conservación, son desconocidas, el **[[Atium\|atium]]** ––el metal de Ruina–– da la posibilidad de almacenar juventud, permitiendo a una persona parecer más joven o más mayor. Por lo general, este poder tiene un uso limitado más allá de disfrazarse de manera temporal, ya que uno debe pasar el mismo tiempo siendo viejo y joven. Sin embargo, se puede componer para extender la esperanza de vida del usuario. Tras el [[Catacendro\|Catacendro]], también existe el [[Ettmetal\|armonium]], hecho de la Investidura de [[Armon%C3%ADa\|Armonía]]. Sin embargo, no se conocen sus propiedades feruquímicas y es dificil experimentar con este metal ya que explota al entrar en contacto con el agua. Los metales divinos pueden formar aleaciones con cada uno de los otros dieciséis metales menores. Se plantea la hipótesis de que cada una de estas aleaciones de metales divinos-metales menores permitiría descubrir otras habilidades feruquímicas.
 
-### Mentes de metal especiales
-Las mentes de metal especiales pueden crearse para que más personas, a parte del feruquimista que las llena, pueda acceder a los atributos almacenados. No hay restricciones genéticas o espirituales al usarlas. Debido a la naturaleza de la [[Intenci%C3%B3n\|Intención]] en el Cosmere, un individuo debe estar al tanto de la naturaleza de la mente de metal antes de poder usarla.
+Apart from the regular metals, [[Scadrial\|Scadrial]] also has access to two God Metals, formed of the [[Investiture\|Investitures]] of [[Ruin\|Ruin]] and [[Preservation\|Preservation]]. While the Feruchemical properties of [[Lerasium\|lerasium]], Preservation's God Metal, are unknown, Ruin's metal, [[Atium\|atium]], allows for storing youth, letting a person appear younger or older. Ordinarily, this power has limited use outside of temporary disguise, as one must spend equal time old and young. However, it can be Compounded to greatly extend the user's lifespan. Following the [[Catacendre\|Catacendre]], there is also [[Ettmetal\|harmonium]], made of [[Harmony\|Harmony's]] Investiture; however, its Feruchemical properties are unknown and it is difficult to experiment with as it explodes when in contact with water. The God Metals can also form alloys with each of the sixteen lesser metals. It is hypothesized that each of these God Metal-lesser metal alloys would allow other Feruchemical abilities to be discovered.
 
-#### Mentes de metal sin vínculo
-Una **mente de metal sin vínculo** es un tipo de mente de metal que cualquiera con la habilidad feruquímica pertinente puede utilizar. Se crean a través de la manipulación de la Identidad, por ejemplo usando el [[/wiki/Aluminio#Uso feruqu.C3.ADmico]]. Mientras que una mente de metal común está ligada a la Identidad del feruquimista que la ha creado, las mentes de metal sin vínculo no están sintonizadas con la Identidad de ningún usuario en específico.
+### Special Metalminds
+Special metalminds can be created so more than the Feruchemist who filled it can access the stored attributes. There are no genetic or Spiritual restrictions to using them. Due to the nature of [[Intention\|Intention]] in the cosmere, an individual must be aware of the metalmind's nature before they can use it.
 
-#### Mentes de metal liberadas
-Una **mente de metal liberada** es un tipo especial de mente de metal al que cualquiera puede acceder. El método exacto de su creación es desconocido, pero involucra el [[/wiki/Nicrosil#Uso feruqu.C3.ADmico]] y el [[/wiki/Duraluminio#Uso feruqu.C3.ADmico]] feruquímicos y algo llamado [[Supresor\|supresor]]. Las mentes de metal liberadas están hechas de nicrosil y uno o más metales. El nicrosil concede al usuario la habilidad de usar otros metales. El uso de este tipo de mentes de metal está muy extendido entre los [[Scadriano del sur\|scadrianos del sur]], pero quizá el ejemplo más famoso son los míticos [[Brazales de Duelo\|Brazales de Duelo]]. La hemalurgia facilita la creación de medallones, incluso si uno ya es feruquimista completo y nacido de la bruma. Este tipo de mentes de mental tiene más Identidad que las mentes de metal normales, lo que puede permitir que la gente las llene incluso durmiendo.
+#### Unkeyed Metalminds
+An **unkeyed metalmind** is a special kind of metalmind that anyone with the relevant Feruchemical ability can access. They are created through manipulation of Identity, such as through aluminum Feruchemy. Whereas a conventional metalmind is keyed to the Identity of the Feruchemist who created it, unkeyed metalminds are not attuned to any specific individual's Identity.
 
-### Interacciones con otros tipos de Investidura
-#### Alomancia
-Tal vez la interacción más dramática entre feruquimia y [[Alomancia\|alomancia]] sea la [[Composici%C3%B3n\|composición]], mediante la cual un feruquimista puede quemar alománticamente una mente de metal y aumentar drásticamente la cantidad del atributo almacenado. A efectos prácticos, esto utiliza la naturaleza de fin-positivo de la alomancia para usar el poder de Conservación y alimentar el arte de fin-neutral de la feruquimia.
-Tras el Catacendro y la aparición de los ferrins, existe la posibilidad de que algunas personas nazcan con una única habilidad alomántica y una única habilidad feruquímica. Estos individuos son conocidos como **[[Nacidoble\|nacidobles]]**. Cuando dichas habilidades proceden del mismo metal, es posible la composición. Sin embargo, incluso cuando no lo hacen, la interacción entre las dos habilidades crea un efecto, conocido como [[Resonancia\|resonancia]].
-Como cualquier objeto investido, una mente de metal resiste a los empujones de acero y los tirones de hierro. La intensidad de dicha resistencia está relacionada con el nivel de Investidura almacenado en la mente de metal. Una mente de metal con tan solo una pequeña cantidad de atributos almacenados podría resistir un poco, mientras que una mente de metal completamente cargada será prácticamente inmune.
-Teóricamente es posible detectar el uso de la feruquimia usando [[/wiki/Bronce#Uso alom.C3.A1ntico]] alomántico, ya que puede detectar cualquier Investidura cinemática, sin embargo requiere de una “modificación” que actualmente es desconocida. Parte del problema es que la feruquimia es una manifestación más interna de Investidura que la alomancia.
+#### Unsealed Metalminds
+An **unsealed metalmind** is a special kind of metalmind that anyone can access. The exact method of their creation is unknown, but it involves Feruchemical [[Nicrosil\|nicrosil]] and [[Duralumin\|duralumin]] and something referred to as an [[Excisor\|Excisor]]. Unsealed metalminds are formed of nicrosil and one or more other metals. The nicrosil grants the user the ability to use the other metals. Unsealed metalminds see widespread use among the [[Southern Peoples of Scadrial\|Southern Peoples of Scadrial]], but perhaps the most famous example are the fabled [[Bands of Mourning\|Bands of Mourning]]. Hemalurgy makes it easier to create medallions, even if one is already a full Feruchemist and Mistborn. Unsealed metalminds have more of an Identity than normal metalminds, which may allow people to fill them while sleeping.
 
-#### Hemalurgia
-Un clavo [[Hemal%C3%BArgico\|hemalúrgico]] se puede utilizar como mente de metal, al igual que varios feruquimistas pueden almacenar en una misma pieza de metal, ya que las cargas se almacenan en diferentes zonas del metal.
-Una persona que obtiene la habilidad feruquímica como resultado de un clavo hemalúrgico podrá acceder a las mentes de metal del feruquimista que se usó para crear el clavo, ya que este contiene suficiente Identidad del feruquimista original. Si ese clavo se divide y se implanta en dos personas diferentes, ambos podrán acceder a las mentes de metal del feruquimista original, pero no podrán compartir mentes de metal ya que su propia Identidad interferiría.
-Es posible usar el [[/wiki/Oro#Uso feruqu.C3.ADmico]] feruquímico para curar el daño causado por hemalurgia, reemplazando a efectos prácticos la pieza de [[Redesp%C3%ADritu\|redespíritu]] que fue robada.
+### Interactions with Other Investitures
+#### Allomancy
+Perhaps the most dramatic interaction between Feruchemy and [[Allomancy\|Allomancy]] is [[Compounding\|Compounding]], by which a Feruchemist can Allomantically burn a metalmind and dramatically increase the amount of the attribute stored. Effectively this uses the end-positive nature of Allomancy to use Preservation's power to fuel the end-neutral art of Feruchemy.
+Following the Catacendre, and the emergence of Ferrings, it is possible for individuals to be born with a single Allomantic ability and a single Feruchemical ability. These individuals are known as [[Twinborn\|Twinborn]]. When an individual's abilities share a metal, they are capable of Compounding. Even when they do not, however, the interaction between the two abilities creates an effect, known as a [[Resonance\|Resonance]].
+Like any Invested object, a metalmind resists Allomantic Ironpulls and Steelpushes. The strength of resistance is based on the level of Investiture stored in the metalmind. A metalmind with only a small amount of stored attribute might resist only slightly, whereas a fully charged metalmind will be effectively immune.
+It is theoretically possible to detect the use of Feruchemy using bronze Allomancy, as it can detect any kinetic Investiture, however it requires a "tweak" that is not currently known. Part of the issue is that Feruchemy is a more internal manifestation of Investiture than Allomancy.
 
-#### Sangre Nocturna
-Decantar una mente de metal es suficiente para cargar a [[Sangre Nocturna\|Sangre Nocturna]] mientras está desenvainada.
+#### Hemalurgy
+A [[Hemalurgic\|Hemalurgic]] spike can be used as a Feruchemical metalmind, much like how multiple Feruchemists can store in the same piece of metal, as the charges are stored in different parts of the metal.
+An individual who has Feruchemy as a result of a Hemalurgic spike can access the metalminds of the Feruchemist who was used to create the spike, as the spike contains enough of the original Feruchemist's Identity. If that spike is split and implanted into two different people, they would each be able to access the original Feruchemist's metalminds, but they would not be able to share metalminds as their own Identity would interfere.
+It is possible to use gold Feruchemy in order to heal the damage caused by Hemalurgy, effectively replacing the piece of the [[Spiritweb\|spiritweb]] that was stolen.
 
-#### Despertar
-Si se llena una mente de aluminio y luego ésta se despierta con una cantida de Investidura al nivel de Sangre Nocturna para darle consciencia, la personalidad del objeto resultante probablemente estaría influenciada por la Identidad del feruquimista, pero no sería una copia idéntica de la personalidad del feruquimista.
+#### Nightblood
+Tapping a metalmind is enough to fuel [[Nightblood\|Nightblood]] while it is unsheathed.
 
-#### Vínculo Nahel
-Si un [[Potenciador\|potenciador]] almacenase [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]] en las mentes de metal apropiadas de manera regular, esto afectaría al [[V%C3%ADnculo Nahel\|vínculo Nahel]] entre el potenciador y el [[Spren\|spren]].
+#### Awakening
+If an aluminummind is filled, then Awakened with Nightblood-level Investiture to give it sentience, the resulting object's personality would probably be influenced by the Feruchemist's Identity, but it would not be an identical copy of the Feruchemist's personality.
 
-#### Hojas esquirladas
-Una mente de metal completamente cargada sería suficiente para bloquear, o al menos resistir, un golpe de una [[Hoja esquirlada\|hoja esquirlada]].
-Es posible usar oro feruquímico para curar el daño causado por una hoja esquirlada, devolviendo la funcionalidad a un miembro con «el alma cortada».
+#### Nahel Bond
+If a [[Surgebinder\|Surgebinder]] were to store [[Connection\|Connection]] and Identity into the appropriate metalminds on a heavy basis, it would affect the [[Nahel bond\|Nahel bond]] between the Surgebinder and the [[Spren\|spren]].
 
-## Historia
-La feruquimia comenzó a existir a la vez que las otras Artes Metálicas, la [[Alomancia\|alomancia]] y la [[Hemalurgia\|hemalurgia]], como resultado de la interacción entre el planeta [[Scadrial\|Scadrial]] y las [[Esquirlas\|Esquirlas]], [[Conservaci%C3%B3n\|Conservación]] y [[Ruina\|Ruina]]. A diferencia de la alomancia y la hemalurgia, que están asociadas directamente a una de las Esquirlas, la feruquimia está asociada a ambas y representa el equilibrio entre ellas. La feruquimia era la única de las artes cuyo uso estaba extendido antes de la [[Ascensi%C3%B3n del lord Legislador\|Ascensión del lord Legislador]]. La habilidad de usar la feruquimia surgió entre el pueblo de [[Terris\|Terris]], pero debido a su tendencia natural al aislamiento y su resistencia a mezclarse, nunca se propagó al pueblo general del [[Scadrial cl%C3%A1sico\|Scadrial clásico]]. Aunque los [[Ferrin\|ferrins]]  existían en esta época, eran extremadamente poco comunes. Durante aquel período de tiempo, hubo una orden sagrada de sabios feruquimistas conocidos como los [[Forjamundos\|forjamundos]] que sirvieron como profesores y portadores del conocimiento a lo largo del mundo. No todos los feruquimistas eran miembros de esta orden. Al contrario, muchos tenían una vocación más mundana, como ser pastores o guías de montaña.
-Durante la Ascensión del lord Legislador, todos los feruquimistas vivos –a excepción de [[Kwaan\|Kwaan]]– fueron transformados en [[Espectro de la bruma\|espectros de la bruma]] por [[Rashek\|Rashek]]. Rashek se hizo a sí mismo  y se declaró el [[H%C3%A9roe de las Eras\|Héroe de las Eras]]. Se denominó dios y lanzó una campaña para someter al mundo bajo su control. Sin embargo, durante su ascenso Rashek pasó por alto los genes feruquímicos recesivos ocultos en el pueblo de Terris, que permitían el nacimiento de nuevos feruquimistas. Por lo tanto Rashek instauró duras políticas para restringir al pueblo de Terris, lo que eventualmente se convirtió en un programa de crianza diseñado para exterminar toda traza genética de feruquimia. Lo hizo específicamente porque temía la posibilidad de que esos genes feruquímicos se combinaran con los alománticos y dieran lugar a un rival con un poder similar al suyo. A pesar de esto el pueblo de Terris resistió, trabajando incansablemente para boicotear los esfuerzos de Rashek de distintas maneras, principalmente engañando a los criadores para que incluyeran a personas con talentos feruquímicos ocultos, con el fin de asegurar su continuidad en la población. También fundaron los [[Guardador\|guardadores]], una orden de feruquimistas dedicados a encontrar y asegurar el conocimiento de antes de que el lord Legislador se alzara con el poder.
-Tras la muerte del lord Legislador y del [[Colapso\|Colapso]] del [[Imperio Final\|Imperio Final]], el [[S%C3%ADnodo\|Sínodo]], líderes de los Guardianes y gobierno *de facto* de Terris, abandonaron su secretismo y los guardadores fueron enviados a lo largo y ancho del Imperio para transmitir a la gente el conocimiento que tenían guardado. Lamentablemente, esta “victoria” duró poco ya que un año después, los [[Inquisidor de acero\|inquisidores de acero]] bajo la influencia de Ruina, atacaron y masacraron el Sínodo, así como a todos menos a [[Sazed\|uno de los Guardadores]] creando así clavos [[Hemalurgia\|hemalúrgicos]] de ellos para aumentar sus propios poderes.
-Después del [[Catacendro\|Catacendro]], los supervivientes de Terris se empezaron a mezclar con el resto de la población. Los genes feruquímicos se empezaron a romper como resultado de la mezcla con los genes alománticos. Mientras que antes la gente había tenido la capacidad de usar todas las habilidades feruquímicas o ninguna de ellas, los ferrins, que podían usar solamente una (de manera análoga a los [[Brumoso\|brumosos]]), empezaron a aparecer. A su vez, los feruquimistas con acceso a todas las habilidades feruquímicas, ahora denominados “feruquimistas completos”, desaparecieron aunque la comunidad de Terris empezó a trabajar cuidadosamente en la crianza de un feruquimista completo mezclando cuidadosamente linajes feruquímicos. Esta dilución de poder eventualmente alcanzará un límite y no podrá disminuir más. Para [[/wiki/Nacidos de la bruma (saga)#Era 3]] ya se habrá alcanzado dicho punto. Este período post-Catacendro también presenció una explosión de la investigación feruquímica y alomántica: se descubrieron varios metales nuevos y sus atributos feruquímicos, siendo las habilidades espirituales de especial interés para la comunidad de Terris.
-Después del [[Catacendro\|Catacendro]], los [[Scadriano del sur\|scadrianos del sur]] desarrollaron las [[#mentes de metal liberadas]] y tecnología avanzada basada en la feruquimia.
+#### Shardblades
+A fully charged metalmind would be enough to block, or at least resist, a blow from a [[Shardblade\|Shardblade]].
+It is possible to use gold Feruchemy in order to heal the damage caused by a Shardblade, restoring function to a soul-severed limb.
 
-## Feruquimistas destacados
-Para una lista completa de feruquimistas, ver Categoría:Feruquimistas.
+## History
+Feruchemy came into existence contemporaneously with the other Metallic Arts, [[Allomancy\|Allomancy]] and [[Hemalurgy\|Hemalurgy]], as a result of the interactions between the planet [[Scadrial\|Scadrial]] and its [[Shard\|Shards]], [[Preservation\|Preservation]] and [[Ruin\|Ruin]]. Unlike Allomancy and Hemalurgy, which are each closely attuned with one of the Shards, Feruchemy is equally attuned to both and represents the balance between them. Feruchemy was also the only art in widespread use prior to the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]]. The ability to use Feruchemy emerged among the [[Terris\|Terris]] people, but, due to their insular nature and reluctance to interbreed, never spread to the general population of [[Classical Scadrial\|Classical Scadrial]]. Although Ferrings (Feruchemists who could only use the ability associated with a single metal) did exist during this time, they were extremely rare. During this time, there was a holy order of Feruchemist scholars, known as the [[Worldbringers\|Worldbringers]], who served as teachers and bearers of knowledge throughout the world. Not every Feruchemist was a member, however; many had much more mundane vocations, such as being herders or mountain guides.
+During the Ascension of the Lord Ruler, all living Feruchemists—with the notable exception of [[Kwaan\|Kwaan]]—were transformed into [[Mistwraith\|mistwraiths]] by the Feruchemist [[Rashek\|Rashek]]. Rashek transformed himself into a Mistborn and claimed himself to be the [[Hero of Ages\|Hero of Ages]]. He declared himself a god and launched a campaign to consolidate the world under his control. However, during his ascension, Rashek overlooked the recessive Feruchemical genes hidden in the Terris people, which can still allow new Feruchemists to be born. Therefore, Rashek instituted policies to heavily restrict the Terris people, which eventually grew into a breeding program designed to exterminate all genetic traces of Feruchemy. He did this specifically because he feared the prospect of the genes for Feruchemy intermixing with those of Allomancy and potentially creating a rival of comparable power to himself. Despite this, the Terris resistance worked tirelessly to thwart the efforts of Rashek in a variety of ways, primarily by tricking the breeders into including people with hidden Feruchemical talents, in order to ensure their continuation in the population. They also founded the [[Keeper\|Keepers]], an order of Feruchemists dedicated to finding and securing knowledge from before the Lord Ruler's rise to power.
+Following the death of the Lord Ruler and the [[Collapse\|Collapse]] of the [[Final Empire\|Final Empire]], the [[Synod\|Synod]], who were the leaders of the Keepers and *de facto* ruling council of Terris, emerged from secrecy and the Keepers were dispatched across the Empire to teach the people about the knowledge they had preserved. Unfortunately, this "victory" was relatively short-lived as about a year later, the [[Steel Inquisitor\|Steel Inquisitors]], under the influence of Ruin, attacked and slaughtered the Synod as well as all but [[Sazed\|one of the Keepers]], creating [[Hemalurgic\|Hemalurgic]] spikes from them in the process to increase their own powers.
+After the [[Catacendre\|Catacendre]], the surviving Terris began to interbreed with the general population. The genes for Feruchemy began to break apart, as a result of mixing with those for Allomancy. Whereas before people had either the ability to use all of the Feruchemical abilities or none of them, Ferrings, who could use only one (analogously to [[Misting\|Mistings]]), began to appear. Conversely, Feruchemists with all of the Feruchemical abilities, now referred to as "Full Feruchemists", have disappeared, though the Terris community began to work on creating one through careful breeding of Feruchemical lineages. This dilution of power eventually caps and cannot decrease any further, and has reached that point by [[/wiki/Mistborn (series)#Era 3]]. This period also saw an explosion of Feruchemical and Allomantic research; a number of new metals and their Feruchemical attributes were discovered, with the Spiritual abilities being of particular interest to the Terris community.
+After the [[Catacendre\|Catacendre]], the [[Southern Scadrian\|Southern Scadrians]] developed [[#Unsealed Metalminds]] and advanced technology based on Feruchemy.
+
+## Notable Feruchemists
+For a complete list of Feruchemists, see Category:Feruchemists.
 
 [[Sazed\|Sazed]]
 [[Tindwyl\|Tindwyl]]
@@ -132,36 +133,12 @@ Para una lista completa de feruquimistas, ver Categoría:Feruquimistas.
 [[Miles Dagouter\|Miles Dagouter]]
 [[Handerwym\|Handerwym]]
 
-## Desarrollo
-La primera inspiración para la feruquimia data de cuando Brandon era un adolescente y tenía insomnio. Se quedaba despierto por la noche y estaba muy cansado durante el día, por lo que deseaba poder almacenar su sueño para poder tener sueño cuando quisiera.
-Una versión temprana de la feruquimia, entonces conocida como "hemalurgia", apareció en [[El Imperio Final Prime\|El Imperio Final Prime]]. Durante el desarrollo de *Nacidos de la bruma: El Imperio Final*, Brandon se dio cuenta de que la feruquimia funcionaría muy bien como sistema mágico para Sazed y los guardadores, por lo que lo importó a esa novela y agregó la restricción de almacenar atributos en metal. En uno de los primeros borradores de Nacidos de la bruma:El Imperio Final, se llamaba 'hemalurgia', pero esto se cambió ya que el prefijo "hema" (sangre) quedaba mejor con el sistema de magia que ahora conocemos como 'hemalurgia'.
-Originalmente se suponía que los atributos almacenados en bronce (calidez) y electro (determinación) estaban invertidos. Con el tiempo Brandon se dio cuenta de su error, el latón ya había aparecido en los libros acumulando calor. Brandon decidió no deshacer esto, citando el hecho de que la feruquimia opera con principios diferentes a los de la alomancia. Brandon también señala que la organización de los metales en la tabla feruquímica es invención humana. Isaac Stewart también confirmó que los símbolos feruquímicos para el cromo y el nicrosil se intercambiaron por error en la tabla feruquímica (es decir, los símbolos están en la posición correcta en la propia tabla, pero se les asignaron los metales equivocados). Es posible que esto se corrija en el futuro.
-Otros posibles nombres durante el desarrollo fueron «Sangrimancy», «Ferruchemy», «Auronomy», «Ferramy», «Ferrochemy», «Ferrichemy», and «Ferrachemy».
-
-## Notas
+## Development
+The earliest inspiration for Feruchemy dates to when Brandon was a teenager and had insomnia. He would lie awake at night and be really tired during the day, so he wished that he could store up his sleepiness so that he could be sleepy when he wanted to be sleepy.
+An early version of Feruchemy appeared in [[Final Empire Prime\|Final Empire Prime]]. During the development of *Mistborn: The Final Empire*, Brandon realized that Feruchemy would work very well as the magic system for Sazed and the Keepers, so he imported it into that novel and added the restriction of storing attributes in metal. In an early draft of Mistborn: The Final Empire, it was named 'Hemalurgy', but this was changed because the connotation with blood fit better with the magic system now named 'hemalurgy'.
+The attributes stored in brass (warmth) and electrum (determination) were originally supposed to be reversed. By the time Brandon realized his mistake, brass storing warmth had already been canonized in released books. Brandon decided not to retcon this, citing the fact that Feruchemy operates on different principles than Allomancy. Brandon also notes that the organization of the metals in the Feruchemical chart is of human invention. Isaac Stewart also confirmed that the Feruchemical symbols for chromium and nicrosil were mistakenly swapped on the Feruchemical table (i.e. the symbols are in the correct position on the table itself, but the wrong metals were assigned to them). This may be corrected in the future.
+Other names considered in development include Sangrimancy, Ferruchemy, Auronomy, Ferramy, Ferrochemy, Ferrichemy, and Ferrachemy.
 
 
 
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
---WeiryWriter (talk) 09:12, 9 March 2018 (MST)
-|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
-|-|-|
-|**Artes**|[[Alomancia\|Alomancia]] ·  · [[Hemalurgia\|Hemalurgia]]|
-|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
-|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
-|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] · [[Aluminio\|Aluminio]] · [[Duraluminio\|Duraluminio]]|
-|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], , [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-
-
-https://es.coppermind.net/wiki/Feruchemy
+https://coppermind.net/wiki/Feruchemy

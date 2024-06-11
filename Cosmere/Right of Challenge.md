@@ -1,63 +1,44 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Derecho de Desafío**|
+|**Right of Challenge**|
 |-|-|
 ||
-|**Relacionado con**|, [[Alethkar\|Alethkar]]|
-|**Tipo**|Law|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Vorinism\|Vorinism]], [[Alethkar\|Alethkar]]|
+|**Type**|Law|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“* El Derecho de desafío es una tradición antigua...algunos dicen que la instituyeron los Heraldos.*”
+>“* The Right of Challenge is an ancient tradition—some say the Heralds instituted it.*”
 \- Adolin[1]
 
 
-El **Derecho de desafío** es una tradición [[Vorin\|vorin]] que según se dice fue creada por los [[Heraldo\|Heraldos]]. Puede ser ofrecida a cualquier guerrero [[Ojos claros\|ojos claros]] que haya probado su valía (normalmente varones) ante el [[Todopoderoso\|Todopoderoso]] y el rey.
-El Derecho de Desafío permite a una persona exigir justicia por combate a alguien que la haya agraviado. Muchos ojos claros conocen la tradición, pero se ignora en las circunstancias modernas. El Derecho de Desafío, usado en conjunto con el [[Premio del Rey\|Premio del Rey]], ha sido usado dos veces en la historia reciente de Alezkar: una por el príncipe [[Adolin Kholin\|Adolin Kholin]] contra el alto príncipe [[Torol Sadeas\|Torol Sadeas]], y una por Sadeas contra el alto príncipe [[Yenev\|Yenev]] dieciocho años antes. También fue usado por [[Kaladin\|Kaladin]] contra [[Meridas Amaram\|Meridas Amaram]], a pesar de que era un [[Ojos oscuros\|ojos oscuros]], aunque su intento lo llevó a prisión.
+The **Right of Challenge** is a [[Vorin\|Vorin]] tradition said to have been created by the [[Herald\|Heralds]]. It can be offered to any [[Lighteyed\|lighteyed]] warrior who has proven themselves -- usually himself -- before the [[Almighty\|Almighty]] and the king.
+The Right of Challenge allows a person to demand justice through combat from someone who wronged them. Many lighteyes know of the tradition, but it is ignored in modern circumstances. The Right of Challenge, used in conjunction with the [[King's Boon\|King's Boon]], has been used twice in Alethkar's recent history: once by Prince [[Adolin Kholin\|Adolin Kholin]] against Highprince [[Torol Sadeas\|Torol Sadeas]], and once by Sadeas against Highprince [[Yenev\|Yenev]] eighteen years earlier. It was also used by [[Kaladin\|Kaladin]] against [[Meridas Amaram\|Meridas Amaram]], despite the former being a [[Darkeyes\|darkeyes]], though his attempt landed him in prison.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Unificaci.C3.B3n de Alezkar]] 
-1. [[#La guerra de la Venganza]] 
-
-
-2 Notas. [[#Notas]] 
+1. [[#Unification of Alethkar]] 
+1. [[#The War of Reckoning]] 
 
 
-## Historia
-#### Unificación de Alezkar
->“*¡No quiero más premio que el cobarde corazón de Yenev en la punta de mi espada, majestad!*”
+2 Notes. [[#Notes]] 
+
+
+## History
+#### Unification of Alethkar
+>“*I will have no boon other than Yenev’s cowardly heart on the end of my sword, Your Majesty!*”
 \-Sadeas [1]
 
 
-El alto príncipe Yenev era una de las principales fuerzas de oposición a [[Gavilar Kholin\|Gavilar Kholin]] y la unificación de Alezkar. Para eliminarlo Sadeas habló con Gavilar sobre el derecho de Desafío y el Premio del Rey. Al ser tradiciones que compartían relación con la corona histórica, invocarlas hacía eco del derecho a gobernar que Gavilar y su campamento trataban de establecer. Usando un torneo como parte de su plan Sadeas se batió en duelo con otro [[Portador de esquirlada\|portador de esquirlada]]. Durante el duelo detuvo la pelea en varios puntos y subió las apuestas, ofreciendo dinero y después tierras. Al final, la victoria fue dramática y el rey Gavilar se adelantó y ofreció a Sadeas el premio. Sadeas se batió en duelo con Yenev y lo mató, dando las tierras a su aliado [[Aladar\|Aladar]]. 
+Highprince Yenev was one of the main forces in opposition against [[Gavilar Kholin\|Gavilar Kholin]] and the unification of Alethkar. To remove him Sadeas spoke with Gavilar regarding the Right of Challenge and the King’s Boon. Since they were traditions that shared a relationship to the historical crown, invoking them echoed the right of rule Gavilar and his camp were trying to establish. Using a tournament as part of their plan Sadeas dueled another [[Shardbearer\|Shardbearer]]. During the duel he paused the fighting at several points and raised the stakes, offering money and then lands. In the end, the victory was dramatic and King Gavilar stood and offered Sadeas the boon. Sadeas dueled Yenev and killed him, the lands going to their ally [[Aladar\|Aladar]]. 
 
-#### La guerra de la Venganza
->“*Exijo el Derecho de desafío. ¡Exijo batirme en duelo contra el alto príncipe Sadeas, aquí y ahora, como desquite por los crímenes que cometió contra mi casa!*”
+#### The War of Reckoning
+>“*I demand the Right of Challenge. I demand the chance to duel Highprince Sadeas, right here and now, as redress for the crimes he committed against my house!*”
 \-Adolin [2]
 
 
-Adolin Kholin intentó usar la táctica de Sadeas en su contra, con la ayuda de su prometida causal [[Shallan Davar\|Shallan Davar]].  Desafió a [[Relis Ruthar\|Relis Ruthar]] a un duelo en desventaja por pareja, accidentalmente dejándose vulnerable a la posibilidad de un duelo en desventaja completa, apostando todas las esquirlas que poseía su casa por las de Relis. Consiguió ganar el duelo con la ayuda de Kaladin, [[Renarin Kholin\|Renarin Kholin]] y, en secreto, Shallan y [[Patr%C3%B3n\|Patrón]]. [[Elhokar Kholin\|Elhokar Kholin]] le ofreció el Premio del rey por la hazaña y él desafió a Sadeas a un duelo. Sin embargo Kaladin le dio a Sadeas tiempo para huir, enviando más tarde un mensaje de que se batiría con Adolin pasado un año, cuando desafió a Amaram.  Kaladin fue enviado a prisión por difamación a instancias de [[Dalinar Kholin\|Dalinar Kholin]] en lugar de ser ejecutado como la ley y el rey demandaban. 
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Adolin Kholin tried to used Sadeas's tactic against him, with the help of his causal betrothed [[Shallan Davar\|Shallan Davar]].  He challenged [[Relis Ruthar\|Relis Ruthar]] to a paired disadvantaged duel, accidentally leaving himself open to a full disadvantaged duel, wagering all the shards his house held against Relis's. He managed to win the duel with the help of Kaladin, [[Renarin Kholin\|Renarin Kholin]] and, unknowingly, Shallan and [[Pattern\|Pattern]]. [[Elhokar Kholin\|Elhokar Kholin]] offered him the King's Boon for the feat and he challenged Sadeas to a duel. However Kaladin gave Sadeas time to flee, sending back a response later that he would duel Adolin in one year's time, when he interrupted to challenge Amaram.  Kaladin was placed in prison for slander at the behest of [[Dalinar Kholin\|Dalinar Kholin]] rather than executed as the law and the king demanded. 
 
 
 
-https://es.coppermind.net/wiki/Right_of_Challenge
+https://coppermind.net/wiki/Right_of_Challenge

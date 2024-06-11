@@ -1,120 +1,93 @@
-
-
-
 |**Iyatil**|
 |-|-|
 ||
-|**Capacidades**|[[Saltamundos\|Saltamundos]]|
-|**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎,  [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎ |
-|**Etnia**|[[De Scadrial del Sur\|de Scadrial del Sur]]|
-|**Mundo natal**|[[Luzdeplata\|Luzdeplata]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Siblings**|[[Dlavil\|Dlavil]]|
+|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Groups**|[[Ghostbloods\|Ghostbloods]], [[Seventeenth Shard\|Seventeenth Shard]] |
+|**Ethnicity**|[[Southern Scadrian\|Southern Scadrian]]|
+|**Homeworld**|[[Silverlight\|Silverlight]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
->“*Yo misma me he preguntado muchas veces por qué aquí vais exponiendo tan descaradamente vuestros rasgos a todo el que quiera verlos.*”
-\-Iyatil[2]
-
-
-**Iyatil** es miembro misterioso de los [[Sangre Espectral\|Sangre Espectral]], una organización secreta de [[Roshar\|Roshar]]. Es la [[Babsk\|babsk]] de [[Mraize\|Mraize]] y un miembro de alto rango en el grupo. Aunque actualmente vive en Roshar, es una [[Saltamundos\|saltamundos]] originaria de [[Luzdeplata\|Luzdeplata]]. Tiene ancestros del [[/wiki/Scadrial#Tierras del sur]] y siempre lleva una máscara característica.
-
-## Sumario
-
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-
-1. [[#M.C3.A1scara de Scadrial del sur]] 
+>“*I have many times asked myself why those of you here go about so brazenly with features exposed to all who would see them.*”
+\-Iyatil[3]
 
 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+**Iyatil** is a mysterious member of the [[Ghostbloods\|Ghostbloods]], a secret organization across multiple planets across the cosmere, of which she is part of the [[Roshar\|Rosharan]] division. She is referred to as [[Mraize\|Mraize's]] [[Babsk\|babsk]], and is a high-ranking member of the organization. Though she currently lives on Roshar, she is a [[Worldhopper\|worldhopper]] and is originally from [[Silverlight\|Silverlight]]. She has [[Southern Scadrian\|Southern Scadrian]] ancestry and always wears a distinctive mask.
 
-2. [[#Rol en los Sangre Espectral]] 
-2. [[#Esp.C3.ADa y asesina]] 
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+
+1. [[#Southern Scadrian Mask]] 
 
 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+
+2. [[#Role in the Ghostbloods]] 
+2. [[#Spy and Assassin]] 
+
+
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Mraize]] 
 4. [[#Thaidakar]] 
 4. [[#Dlavil]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y Personalidad
+## Appearance and Personality
  
-Iyatil suele llevar ropas simples: camisa marrón oscuro y pantalones, con un cinturón intrincado que tiene incrustaciones de caparazones, además de guantes y una daga. No cubre su [[Mano segura\|mano segura]], por lo que [[Shallan\|Shallan]] la confunde con un muchacho la primera vez que la ve. Cuando sigue de cerca a alguien, lleva puesta una capa negra. Se le describe como pequeña, o de baja estatura, y de piel bronceada. Esta es una descripción bastante común para los saltamundos que se encuentren en [[Roshar\|Roshar]], ya que allí los humanos son extraordinariamente altos.
-Tiene los ojos oscuros, pequeños y brillantes, y no suele pestañear. La parte visible de su casa es inexpresiva, y su presencia suele ser inquietante. Nunca revela más información de la que es necesaria y suele negarse a contestar preguntas, con lo que mantiene ocultas sus motivaciones.
+Iyatil usually wears a simple outfit of a dark brown shirt and trousers, along with an intricate belt that appears to be studded with carapace. She does not cover her [[Safehand\|safehand]], and [[Shallan\|Shallan]] mistook her for a male the first time they met. She usually wears gloves and carries a dagger at her side. When she is trailing someone, she dons a black cloak. She has tan skin; she is also described as short or small, although this is common for worldhoppers on [[Roshar\|Roshar]] since the humans there are unusually tall.
+She has dark, beady eyes and rarely seems to blink. The visible part of her face is impassive; her presence is generally unsettling. She does not reveal more information than necessary, often simply refusing to answer questions; this keeps her motivations concealed.
 
-### Máscara de Scadrial del sur
->“*Mi máscara reserva mi esencia. Además, me da capacidad de adaptarme.*”
-\-Iyatil[2]
-
-
-El rasgo distintivo de Iyatil es una máscara que cubre el área que rodea sus ojos, hecha de caparazón rojo y anaranjado y compuesta por varias piezas, como en un mosaico, que deja entrever un rostro furioso e iracundo. La máscara está parcialmente pintada  y no está [[Investidura\|Investida]] . Es parecida a las que llevan en la [[/wiki/Scadriano del sur#Los cazadores]] en Scadrial , ya que esta cultura forma parte de la ascendencia de Iyatil. Considera su máscara como un recurso  y no se la quita nunca. Mataría a cualquiera que lo intentase.
-
-## Atributos y habilidades
- 
-Iyatil es una [[/wiki/Cosmere#Saltamundos]]. Es originaria de [[Luzdeplata\|Luzdeplata]], en el [[Reino Cognitivo\|Reino Cognitivo]], pero vive en [[Roshar\|Roshar]] en el [[Reino F%C3%ADsico\|Reino Físico]]. También ha estado en otros planetas sin identidad comfirmada. Su experiencia personal y su pertenencia a la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] y a los [[Sangre Espectral\|Sangre Espectral]] hacen que, presumiblemente, sea altamente consciente del [[Cosmere\|Cosmere]].
-
-### Rol en los Sangre Espectral
-Los Sangre Espectral tienen una estructura jerárquica muy definida e Iyatil parece ser uno de los miembros de más alto nivel en Roshar. Es la maestra y mentora de [[Mraize\|Mraize]]: él se refiere a Iyatil como su '[[Babsk\|babsk]]' en jerga local, y ha sido su supervisora en varios viajes extraplanetarios. Es consciente de gente como el rey [[Gavilar Kholin\|Gavilar Kholin]] y de organizaciones como los [[Hijos de Honor\|Hijos de Honor]], y de sus intentos de manipular la magia, con consecuencias que potencialmente pueden afectar a una parte más amplia del Cosmere, y los está investigando. Lo mismo hizo con [[Talenel\|Talenel]], e intentó hablar con [[Shalash\|Shalash]]. Ha recibido poderes para negociar de parte del maestro de los Sangre Espectral, [[Thaidakar\|Thaidakar]], y le mantiene al tanto de la situación en Roshar, ya que el no puede visitar el planeta.. Aunque Thaidakar es el maestro de Iyatil, ella lidera de forma independiente; la ubicación remota de Thaidakar significa que no siempre tiene un conocimiento detallado de las actividades de los Sangre Espectral.
-
-### Espía y asesina
->“*¿Quién eres en realidad, Velo? Me sorprendiste espiándote, y puedes perderme en las calles. No es algo fácil de hacer.*”
+### Southern Scadrian Mask
+>“*My mask reserves my self. Besides, it gives me the ability to adapt.*”
 \-Iyatil[3]
 
-Iyatil es tremendamente sigilosa y a veces parece como si saliera de la nada. Siempre está bien informada de la seguridad, los horarios y los alrededores del área donde se encuentra, como en los [[Campamento de guerra\|campamentos de guerra]] [[Alezi\|Alezi]]. Tiene buen ojo para los detalles, buena habilidad de rastreo y es capaz de esconderse, lo que le hace una espía y asesina muy eficaz. También ha entrenado con varias armas, y considera escapar de un monasterio alezi por si misma como algo trivial. Es capaz de moverse "demasiado rápido" como para que le persigan.
-No está claro si tiene o no habilidades mágicas. Su ascendencia [[Scadrial\|scadriana]] podría permitirle usar una de las [[Artes met%C3%A1licas\|artes metálicas]], pero no hay confirmación de que pueda hacerlo. Como resultado del [[Catacendro\|Catacendro]], los scadrianos del sur desarrollaron los [[Mente de metal liberada\|medallones feruquímicos]] con la ayuda de [[Supresor\|supresores]], y con el objetivo de sobrevivir las bajas temperaturas de la zona . No está claro si Iyatil tiene, o siquiera necesita, uno de estos medallones .
 
-## Historia
+Iyatil's most distinguishing feature is a red-orange carapace mask that is made up of pieces, like a mosaic. The mask covers the area around her eyes; it has an angry appearance, and seems to be growing into her skin. The mask, which is at least partially painted, is not [[Investiture\|Invested]]. Her mask is similar to those worn by the [[/wiki/Southern Scadrian#The Hunters]] on Scadrial, and that culture is part of Iyatil's heritage. She considers her mask an asset and never removes it; she will kill someone if they try to do so.
+
+## Attributes and Abilities
  
-Iyatil nació en [[Luzdeplata\|Luzdeplata]], una ciudad de gente conscientes del Cosmere en el [[Reino Cognitivo\|Reino Cognitivo]]. Tiene ascendencia del [[Scadrial del sur\|sur de Scadrial]], específicamente de la nación de [[/wiki/Scadrial del sur#Los cazadores]]. Se desconoce cómo su familia se estableció en Luzdeplata, pero llevan allí relativamente poco tiempo. La nación de los Cazadores es conocida por su pasado como firmes guerreros, pero ahora se dedican a investigar el [[Catacendro\|Catacendro]].
-En algún momento Iyatil fue miembro de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], una organización misteriosa de la que son miembros varios saltamundos. Dejó la organización, por razones que se desconocen, aunque es posible que fuera por su ingreso en los [[Sangre Espectral\|Sangre Espectral]].
-Iyatil se mudó a [[Roshar\|Roshar]] antes del 1173. No se sabe qué está haciendo allí, más allá de que está instruyendo a Mraize. Estaba presente en el primer encuentro entre Shallan y los Sangre Espectral, y la siguió al acabar la reunión para intentar localizar a [[Tyn\|Tyn]]. También estuvo presente cuando [[Mraize\|Mraize]] descubre las habilidades artísticas de [[Shallan Davar\|Shallan Davar]] y este decide darle una nueva misión. Iyatil decide ir a vigilar a Shallan pero, a pesar de sus habilidades de espía, la descubre [[Patr%C3%B3n\|Patrón]]. Shallan la engaña usando un [[/wiki/Potenciaci%C3%B3n#Tejer Luz]] y la hace revelarse. A pesar de la sorpresa, se recompone rápidamente y le confirma a Shallan sus instrucciones: investigar al loco que acaba de llegar a los  Alezi. Con esto, Iyatil ayuda a Shallan a infiltrarse en el monasterio donde tienen retenido a [[Talenel\|Talenel]].
-Tras la [[Batalla de Narak\|Batalla de Narak]], Iyatil intenta matar al alto príncipe [[Meridas Amaram\|Meridas Amaram]] con una cerbatana y dardos envenenados. No está claro el porqué, pero es probable que tenga que ver con la relación entre este y [[Restares\|Restares]] y los [[Hijos de Honor\|Hijos de Honor]], y lo que sabe sobre los Sangre Espectral. Habría tenído éxito de no ser por la intervención de [[Talenel\|Talenel]]. Aunque Amaram invoca su [[Hoja esquirlada\|hoja esquirlada]], Iyatil huye sin problemas.
-Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Iyatil sigue haciendo su trabajo en un segundo plano. Con la intención de llevar [[Luz tormentosa\|luz tormentosa]] fuera de Roshar, [[Thaidakar\|Thaidakar]] planea tomar el control de las [[Puerta Jurada\|Puertas Juradas]]. Para disgusto de este, Iyatil le informa de que es imposible, y ella y Mraize proceden a intentar poder acceder a ellas. Mraize intenta convencer a [[Rabeniel\|Rabeniel]] de que negocie con Iyatil dándole una [[/wiki/Plata#Cadena trenodita]].
+Iyatil is a [[Worldhopper\|worldhopper]]. She hails from [[Silverlight\|Silverlight]] in the [[Cognitive Realm\|Cognitive Realm]] but lives on [[Roshar\|Roshar]] in the [[Physical Realm\|Physical Realm]]. She has also been to other unidentified planets. Her personal background along with her membership in both the [[Seventeenth Shard\|Seventeenth Shard]] and the [[Ghostbloods\|Ghostbloods]] presumably give her a very high level of [[Cosmere\|cosmere]] awareness.
 
-## Relaciones
-### [[Mraize\|Mraize]]
+### Role in the Ghostbloods
+The Ghostbloods have a clear hierarchy and Iyatil appears to be one of the highest-ranking members on Roshar. She serves as a teacher and mentor for [[Mraize\|Mraize]]; he refers to her as his '[[Babsk\|babsk']] in local parlance, and she has supervised him on several trips off-world. She is aware of people and organizations such as King [[Gavilar Kholin\|Gavilar Kholin]] and the [[Sons of Honor\|Sons of Honor]] that are tampering with magic that could have larger cosmere implications, and works to investigate them. She investigated [[Talenel\|Talenel]] and sought to speak with [[Shalash\|Shalash]]. She is empowered to negotiate on behalf of the master of the Ghostbloods, [[Thaidakar\|Thaidakar]], and keeps him apprised of the situation on Roshar since he cannot visit himself. Although Thaidakar is Iyatil's master, she leads independently; Thaidakar's remote location means that he does not always have detailed knowledge of the Ghostbloods' activities.
+
+### Spy and Assassin
+>“*Who are you really, Veil? You caught me in stealth spying upon you, and you can lose me in the streets. This is not easily accomplished.*”
+\-Iyatil[4]
+
+Iyatil is extremely stealthy and can seem to appear out of nowhere in a room. She stays well-informed regarding the security, schedules, and geography of the area that she is in, such as the [[Alethi\|Alethi]] [[Warcamp\|warcamps]]. She is observant, skilled at tracking, and able to conceal herself, making her an effective spy and assassin. She is trained in the use of several different weapons, and she considers escaping from an Alethi monastery without assistance to be a trivial task. She is also able to move "too quickly" to be chased.
+Whether or not Iyatil has any magical abilities is unclear. Her [[Scadrian\|Scadrian]] heritage could theoretically enable her to use one or more of the [[Metallic Arts\|Metallic Arts]], but there is no confirmation that she can do so. Additionally, a side effect of the [[Catacendre\|Catacendre]] was the need for people of Southern Scadrian heritage to use [[/wiki/Feruchemy#Unsealed Metalminds]] created with [[Excisor\|Excisors]] in order to survive in cool temperatures; it is unclear if Iyatil possesses a medallion or if she even needs one.
+
+## History
  
->“*Un grupo de cazadores trabajando juntos podrían volverse unos contra otros con demasiada facilidad. De modo que yo respeto a mi babsk y tú me respetas a mí. No atacamos a los nuestros y no negociamos hacia arriba.*”
-\-Mraize a Shallan[16]
+Iyatil was born in [[Silverlight\|Silverlight]], a city of cosmere-aware people in the [[Cognitive Realm\|Cognitive Realm]], supposedly alongside her brother, [[Dlavil\|Dlavil]]. She is of [[Southern Scadrian\|Southern Scadrian]] heritage, specifically from the [[/wiki/Southern Scadrian#The Hunters]]. It is not known how her family or her ancestors came to live in Silverlight, but their history there is relatively recent. As a people, the Hunters are known to be stern former warriors that now seek answers and secrets about the [[Catacendre\|Catacendre]].
+At some point, Iyatil was a member of the [[Seventeenth Shard\|Seventeenth Shard]], a mysterious organization that includes various worldhoppers. She left for unknown reasons, although it is possible that she was directly recruited by the [[Ghostbloods\|Ghostbloods]].
+Iyatil came to live on [[Roshar\|Roshar]] at some point prior to 1173. Her early activities on the planet are unknown, other than her training of [[Mraize\|Mraize]]. She was present at [[Shallan Davar\|Shallan Davar's]] first meeting with the Ghostbloods and followed Shallan after the meeting, trying to track her back to [[Tyn\|Tyn]]. She was also present when Mraize learned of Shallan's drawing abilities and decided to give her a new mission. Iyatil then decided to surveil Shallan, but she was discovered by [[Pattern\|Pattern]] despite her skill in spycraft. Shallan then tricked her into revealing herself with the use of [[Lightweaving\|Lightweaving]]. Iyatil was stunned, but quickly recovered and explained to Shallan that she would be investigating the recent arrival of a madman to the [[Alethi\|Alethi]] [[Warcamp\|warcamps]]. She then helped Shallan infiltrate the monastery where [[Talenel\|Talenel]] was being held.
+After the [[Battle of Narak\|Battle of Narak]], she attempted to assassinate Highprince [[Meridas Amaram\|Meridas Amaram]] with poisoned darts and a blowgun. Her motive is unclear, but it was likely related to Amaram's activities with [[Restares\|Restares]] and the [[Sons of Honor\|Sons of Honor]] and his knowledge about the Ghostbloods. She nearly succeeded in killing Amaram, but she was foiled by Talenel. Amaram summoned his [[Shardblade\|Shardblade]], but Iyatil easily escaped.
+During the [[True Desolation\|True Desolation]], Iyatil continued to work behind the scenes. Her master, [[Thaidakar\|Thaidakar]], wanted to be able to collect and transport [[Stormlight\|Stormlight]]. To help reach this goal, he sought control of the [[Oathgate\|Oathgates]]. He was unhappy when Iyatil informed him that this was impossible, and she and Mraize pivoted to simply gaining access to the gates. Mraize attempted to convince [[Raboniel\|Raboniel]] to negotiate with Iyatil by giving the [[Fused\|Fused]] a valuable [[/wiki/Silver#Threnodite Chains]].
+
+## Relationships
+### Mraize
+ 
+>“*A group of hunters working together could turn upon one another far too easily. And so, I respect my babsk, and you respect me. We do not strike against our own, and we do not negotiate upward.*”
+\-Mraize, to Shallan[17]
 
 
-Iyatil es la mentora de Mraize, por lo que él usa el término '[[Babsk\|babsk]]' para describir la relación entre ambos. Ella dice que Mraize es su pupilo y lo supervisó de cerca cuando estuvieron en otros planetas. En algún momento, Iyatil manda a alguien que siga a Mraize, perpetrando una costumbre de los [[Sangre Espectral\|Sangre Espectral]] que facilita que quien esté siguiendo al alumno pueda intervenir en caso de que este necesite ayuda. Ella es quien le guía en sus tareas, como el reclutamiento de [[/wiki/Shallan Davar#Velo]]. Suele tener permiso para negociar de su parte. Mraize no está obligado a seguir las instrucciones de Iyatil, ya que los Sangre Espectral permiten que sus miembros actúen libremente.
+Iyatil is Mraize's master; he uses the [[Thaylen\|Thaylen]] term '[[Babsk\|babsk']] to describe their relationship. Iyatil calls Mraize her student and she closely supervised him during his training. At one point, Iyatil had Mraize followed, seemingly a tradition within the [[Ghostbloods\|Ghostbloods]] since the person doing the following can step in and help if needed. She advises Mraize on his activities, including his recruitment of [[/wiki/Shallan Davar#Veil]], and Mraize is often empowered to negotiate on Iyatil's behalf. At the same time, Mraize is not bound to follow Iyatil's instructions, as the Ghostblood hierarchy allows its members to act independently.
 
-### [[Thaidakar\|Thaidakar]]
-Thaidakar es el líder de los Sangre Espectral e Iyatil parece reportar a él directamente. Aunque está muy interesado en los sucesos de Roshar, existe cierta distancia entre él y la rama local de los Sangre Espectral. Iyatil trabaja para lograr sus objetivos y proporciona información actualizada sobre la situación en Roshar. Sin embargo, la remota ubicación de Thaidakar significa que puede no estar al tanto de las actividades específicas de Iyatil y los otros Sangre Espectral. No está claro cómo se comunican con Thaidakar, ya que este no se encuentra en el [[Sistema roshariano\|sistema roshariano]], pero se sabe que los Sangre Espectral utilizan métodos de comunicación inusuales y que Thaidakar también ha utilizado avatares.
+### Thaidakar
+Thaidakar is the master of the Ghostbloods and Iyatil seems to report to him directly. While Thaidakar is very interested in the events on [[Roshar\|Roshar]] there is a degree of separation between him and the local branch of the Ghostbloods. Iyatil works to accomplish his goals and provides updates on the situation on Roshar. However, Thaidakar's remote location means that he may not be aware of the specific activities of Iyatil and the other Ghostbloods. It is unclear how Iyatil communicates with Thaidakar since he is not in the [[Rosharan system\|Rosharan system]], but the Ghostbloods are known to use unusual communication methods and Thaidakar has also used avatars.
 
 ### Dlavil
-Dlavil es su hermano, pero se desconoce la relación exacta entre ellos.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 19:16, 22 March 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+Dlavil is her brother, but their exact relationship with one another is unknown.
 
 
 
-https://es.coppermind.net/wiki/Iyatil
+https://coppermind.net/wiki/Iyatil

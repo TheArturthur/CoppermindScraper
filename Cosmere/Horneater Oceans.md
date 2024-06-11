@@ -1,49 +1,29 @@
-
-
-|**Océanos Comecuernos**|
+|**Horneater Oceans**|
 |-|-|
 ||
-|**Región**|[[Picos Comecuernos\|Picos Comecuernos]]🐱︎|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Region**|[[Horneater Peaks\|The Horneater Peaks]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Se ha sugerido que esta página se una  con [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]].La información de esta página es mejor que sea incluido en otra página
+> [!info] It has been suggested that this page be merged into [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].The information on this page is much better suited to be included on other pages.
 
->“*Es agua de vida. La conexión con los dioses. Si los unkalaki nadan en ella, a veces ven el lugar de los dioses.*”
-\- Roca sobre los Océanos Comecuernos[1]
+>“*Is water of life. It is connection to gods. If Unkalaki swim in it, sometimes they see place of gods.*”
+\- Rock on the Horneater oceans[1]
 
 
-Los **Océanos Comecuernos** son una serie de aguas termales en los [[Picos Comecuernos\|Picos Comecuernos]] de [[Roshar\|Roshar]]. A veces se les llama las **Lagunas Esmeralda** por su distintivo color. Albergan la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]].
-La mayoría de las montañas altas de los Picos Comecuernos tienen un cráter lleno de agua en su cima. Esta agua es caliente, proporcionando bolsas de espacio habitable alrededor de cada Océano. Sin embargo, la temperatura desciende drásticamente a poca distancia de los lagos, por lo que la supervivencia en los Picos sin ellos es casi imposible.
+The **Horneater Oceans** are a series of thermal hot springs in the [[Horneater Peaks\|Horneater Peaks]] on [[Roshar\|Roshar]]. They are sometimes called the **Emerald Pools** for their distinct color. They house [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].
+Most high mountains in the Horneater Peaks have a crater filled with water at their top. This water is hot, providing pockets of livable space around each Ocean. The temperature drops drastically at a short distance from the lakes, however, making survival in the Peaks without them all but impossible.
 
-## Mitos y tradiciones
-Según una historia, los comecuernos se crearon cuando el pueblo [[Unkalaki\|Unkalaki]] buscaba un lugar para vivir donde no fueran cazados. El *tana'kai*, el líder de los Unkalaki, pidió a los dioses del mar y de los bosques que los escondieran, pero no pudieron ayudarles, ya que ellos también estaban siendo atacados por los hombres. Cuando el *tana'kai* pidió lo mismo a los dioses de las montañas, éstos le dijeron que ayudar a su pueblo era imposible para ellos, ya que sus laderas eran inhabitables, pero que si los Unkalaki encontraban la manera de hacerlas habitables, los dioses estarían de acuerdo. Y así, los Unkalaki suplicaron a los dioses del mar el agua para beber, a los dioses del bosque la fruta para comer y a los dioses de las montañas el calor de su corazón, creando así los océanos. Como estos sirven de [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]], la Esquirla fue sin duda uno de los «dioses» a los que los *tana'kai* pidieron ayuda, pero no está claro si los otros dos son sólo extrapolaciones del mito o eran realmente [[Honor\|Honor]] y [[Odium\|Odium]].
-En la actualidad, los Unkalaki creen que nadar en los océanos es la muerte para cualquier persona que no sea Unkalaki. Algunos forasteros creen que esto se debe a que cualquier extranjero es ejecutado solo por intentarlo. Sin embargo, también hay otras razones más misteriosas, algunas de las cuales pueden estar relacionadas con la desaparición de dichos extranjeros como resultado de viajar a través de la [[Perpendicularidad\|Perpendicularidad]]. Por otro lado, los Unkalaki son libres de nadar en los océanos, y hacerlo puede permitirles a veces ver el «lugar de los dioses» y entrar en comunión con sus habitantes. Lo más probable es que esto también se refiera a la naturaleza de los océanos como Perpendicularidad.
-Según los Unkalaki, los dioses les visitan a veces a través de los océanos. Uno de ellos es Lunu'anaki, el dios de los viajes y las travesuras, que no puede hacer daño a los humanos y tiene el pelo blanco y la cara angulosa; esta descripción encaja con [[Hoid\|Hoid]]. Sin embargo, no es ni mucho menos el único visitante: todos los [[Saltamundos\|saltamundos]] son tratados como dioses por los habitantes de los Picos.
+## Myths and Traditions
+According to one story, the Horneater oceans were created when the [[Unkalaki\|Unkalaki]] people sought to find a place to live where they wouldn't be hunted down. The *tana'kai*, the leader of the Unkalaki, asked the gods of the sea and of the forests to hide them, but they could not help as they, too, were being attacked by men. When the *tana'kai* asked the same of the gods of the mountains, they told him that helping his people was impossible for them, as their slopes were uninhabitable, but if the Unkalaki could find a way to make them livable, the gods would agree. And so, the Unkalaki begged the gods of the sea for water to drink, the gods of the forest for the fruit to eat, and the gods of the mountains for the heat of their heart, thus creating the oceans. As the oceans serve as [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]], the Shard was certainly one of the "gods" that the *tana'kai* asked for aid, but it is unclear whether the other two are just extrapolations of myth or were actually [[Honor\|Honor]] and [[Odium\|Odium]].
+In the modern day, the Unkalaki believe that swimming in the oceans is death to any non-Unkalaki. Some outsiders believe that this is because any foreigners are executed for making an attempt. However, there are also other, more mysterious reasons, some of which may be related to such foreigners disappearing as a result of traveling through the [[Perpendicularity\|Perpendicularity]]. On the other hand, the Unkalaki are free to swim in the oceans, and doing so may sometimes allow them to see the "place of gods" and commune with its inhabitants. This most likely also refers to the oceans' nature as a Perpendicularity.
+According to the Unkalaki, gods sometimes visit them through the oceans. One of those is Lunu'anaki, the god of travel and mischief, who cannot hurt humans and has white hair and an angular face; this description fits [[Hoid\|Hoid]]. He is, however, far from the only visitor: all [[Worldhopper\|worldhoppers]] are treated like gods by the people of the Peaks.
 
-## Perpendicularidad
-Para más información, ver [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]].
-Aunque en la parte superior, los Océanos son agua, debajo de esa capa hay una sustancia diferente, aunque todavía líquida, que es de color esmeralda. Esto marca a los Océanos como la [[Perpendicularidad\|Perpendicularidad]] de la [[Esquirla\|Esquirla]] [[Cultivaci%C3%B3n\|Cultivación]], permitiendo a los [[Saltamundos\|saltamundos]] viajar entre [[Roshar\|Roshar]] y [[Shadesmar\|Shadesmar]].
-Es la única perpendicularidad estable en Roshar; para los [[Saltamundos\|saltamundos]] que viajan allí, los Océanos Comecuernos son el lugar donde emergen al [[Reino F%C3%ADsico\|Reino Físico]]. Sin embargo, durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], la zona de [[Shadesmar\|Shadesmar]] que la rodea ha sido invadida por los [[Fusionado\|Fusionados]], y muchas naves de [[Spren\|spren]] que viajan hasta allí no se vuelven a ver. Por el momento, la mayoría de los spren se niegan a navegar en esa dirección, e incluso en el [[Reino F%C3%ADsico\|Reino Físico]], la presencia de los [[Fusionado\|Fusionados]] puede ser sentida por la gente que vive alrededor de los Océanos.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 03:45, 18 July 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Perpendicularity
+For more information, see [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].
+Though on top, the Oceans are water, beneath that layer there is a different, though still liquid substance that is emerald in color. This marks the Oceans as the [[Perpendicularity\|Perpendicularity]] of the [[Shard\|Shard]] [[Cultivation\|Cultivation]], allowing [[Worldhopper\|worldhoppers]] to travel between [[Roshar\|Roshar]] and [[Shadesmar\|Shadesmar]].
+It's the only stable Perpendicularity on Roshar; for [[Worldhopper\|worldhoppers]] travelling there, the Horneater Oceans are the place where they emerge into the [[Physical Realm\|Physical Realm]]. However, during the [[True Desolation\|True Desolation]], the area in [[Shadesmar\|Shadesmar]] surrounding it has been overtaken by the [[Fused\|Fused]], and many [[Spren\|spren]] ships travelling there are never seen again. At the moment, most spren refuse to sail in that direction, and even in the [[Physical Realm\|Physical Realm]], the presence of the [[Fused\|Fused]] can be felt by the people living around the Oceans.
 
 
 
-https://es.coppermind.net/wiki/Horneater_Oceans
+https://coppermind.net/wiki/Horneater_Oceans

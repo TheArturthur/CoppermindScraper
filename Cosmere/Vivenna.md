@@ -1,47 +1,45 @@
-
-
 |**Vivenna**|
 |-|-|
 ||
-|**Familia**|
-|**Padres**|[[Dedelin\|Dedelin]], [[Madre de Vivenna\|Madre de Vivenna]]|
-|**Hermanos**|[[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
-|**Parientes**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestros**|[[Vo\|Vo]]|
-|**Capacidades**|[[Mechones Reales\|Mechones Reales]], [[Despertante\|Despertante]], [[Saltamundos\|Saltamundos]], [[Portador de esquirlada\|Portador de esquirlada]]|
-|**Títulos**|Princesa de [[Idris\|Idris]], Alta mariscal, Comandante de la [[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]]|
-|**Apodos**|Celeste|
-|**Grupo**|[[Guardia de la Muralla de Kholinar\|Guardia de la Muralla de Kholinar]]🐱︎|
-|**Nacionalidad**|[[De Idris\|de Idris]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Family**|
+|**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
+|**Siblings**|[[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
+|**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
+|**Ancestors**|[[Vo\|Vo]]|
+|**Abilities**|[[Royal Locks\|Royal Locks]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Shardbearer\|Shardbearer]]|
+|**Titles**|Princess of [[Idris\|Idris]], Highmarshal, Commander of the [[Kholinar Wall Guard\|Kholinar Wall Guard]]|
+|**Aliases**|Azure|
+|**Groups**|[[Kholinar Wall Guard\|Kholinar Wall Guard]]|
+|**Nationality**|[[Idrian\|Idrian]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Todo lo que he sido, todo lo que me educaron para ser, era una mentira envuelta en odio. No quiero volver a eso. No soy esa persona. No quiero serlo.*”
-\-Vivenna.[2]
-
-
-**Vivenna** es una [[Despertante\|despertante]] y la primogénita de [[Idris\|Idris]] en [[Nalthis\|Nalthis]]. Ha visitado [[Roshar\|Roshar]] en busca de [[Vasher\|Vasher]] y se infiltró en [[Kholinar\|Kholinar]] haciéndose pasar por la Alta mariscal **Celeste**, comandante de la guardia de la muralla.
-
-## Sumario
-
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-
-1. [[#Apariencia]] 
-1. [[#Personalidad]] 
+>“*Everything I’ve been—everything I was trained to do—has been a lie wrapped in hatred. I don’t want to go back to it. I’m not that person. I don’t want to be.*”
+\-Vivenna[2]
 
 
-2 Atributos y Habilidades. [[#Atributos y Habilidades]] 
-3 Historia. [[#Historia]] 
+**Vivenna** is an [[Awakener\|Awakener]] and eldest princess of [[Idris\|Idris]] on [[Nalthis\|Nalthis]]. She visits [[Roshar\|Roshar]] searching for [[Vasher\|Vasher]] and infiltrates [[Kholinar\|Kholinar]] as Highmarshal **Azure**, commander of the Wall Guard.
 
-3. [[#Ni.C3.B1ez y Educaci.C3.B3n]] 
-3. [[#En T.27Telir]] 
-3. [[#En Roshar]] 
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+
+1. [[#Appearance]] 
+1. [[#Personality]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Childhood and Schooling]] 
+3. [[#In T.27Telir]] 
+3. [[#On Roshar]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Siri]] 
 4. [[#Dedelin]] 
@@ -49,90 +47,74 @@
 4. [[#Vasher]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y Personalidad
-  Como Celeste
-### Apariencia
-Para more images, ver [[Vivenna/Galer%C3%ADa\|/Galería]].
-Descrita como una belleza por su hermana [[Siri\|Siri]], Vivenna es la más alta de las princesas de Idris. Como miembro de la realeza de Idris, es descendiente de los [[Retornado\|Retornados]] y por lo tanto es capaz de cambiar el color de su cabello a conciencia o inconscientemente como un acto reflejo de su estado emocional. Es conocida por tener una habilidad excepcional en este tema, e incluso su padre [[Dedelin\|Dedelin]], el rey, se sorprendió de su habilidad por mantenerse calmada y mantener su cabello negro.
-Al principio de su vida, Vivenna vestía un sencillo vestido gris y mantenia su pelo recogido debido a su estricta lealtad a las creencias idrianas, además mantiene un color negro solido en su pelo. Sin embargo a medida que su vida avanzaba y llega a [[T'Telir\|T'Telir]], a regañadientes empieza usar vestidos más coloridos y reveladores por integración. Se corta el cabello para venderlo y nunca se menciona que le vuelva a crecer. Al final de la novela, viste unos pantalones anchos, una túnica y un chaleco, todos de distintos tonos de azul, además lleva una espada en su cintura. También ha mencionado que ha perdido la habilidad o al menos no se molesta en mantener su cabello de un solo color, mayormente deja que cambie según sus sentimientos.
-Vivenna también aparece como la alta mariscal Celeste en Roshar. Se muestra como una mujer [[Alezi\|alezi]] esbelta de unos treinta y tantos, con ojos color naranja claro y pelo negro liso que le llega hasta la mejilla. Es más bajita que la media de los alezi y utiliza guantes en ambas manos. Dos cicatrices cruzan su cara. También viste una capa de color celeste, con una cota de malla alrededor de su cuello y lleva un yelmo que sostiene normalmente en la mano. Porta su [[Espada de Vivenna\|espada]] en un lateral y a veces lleva su capa envuelta parcialmente alrededor de su brazo izquierdo.
-
-### Personalidad
->“*No es lo que 'creo saber'. Es lo que creo.*”
-\-Vivenna a Denth.[14]
+## Appearance and Personality
+  As Azure
+### Appearance
+For more images, see [[Vivenna/Gallery\|/Gallery]].
+Described as beautiful by her sister [[Siri\|Siri]], Vivenna is the tallest of the Idrian princesses. As a member of Idrian royalty, she is descended from a [[Returned\|Returned]] and thus is capable of changing the color of her hair, with conscious effort or subconsciously to reflect her emotional state. She is mentioned at being exceptionally good at this skill, and even her father [[Dedelin\|Dedelin]], the king himself, is surprised at her ability to stay so unemotional and keep her hair black.
+In the beginning of her life, Vivenna wears a simple grey dress and keeps her hair in a knot, due to her strict adherence to Idrian beliefs. She maintains a solid black color in her hair. As her life progresses and she finds herself in [[T'Telir\|T'Telir]], however, she begrudgingly begins wearing more colored and revealing dresses out of practicality. She cuts off her hair to sell it and is never mentioned growing it back. By the end of the novel, she wears thick trousers, a tunic, and a vest, all different shades of blue, and carries a sword at her waist. She is also mentioned to have lost, or at least does not bother with, the ability to keep her hair at one set color, and mostly just lets it change to match her feelings.
+Vivenna also appears as Highmarshal Azure on Roshar. She looks to be a lean [[Alethi\|Alethi]] woman in her mid-thirties, with light orange eyes and straight black hair reaching halfway down her cheeks. She is slightly shorter than average height by Alethi standards and wears gloves on both hands. Two scars cross her face. She also wears an azure cloak, with a mail coif around her neck, and has a helm that she often carries in her hand. She wears her [[Vivenna's Blade\|blade]] as a side-sword. At times, she wears her cloak partially wrapped, partially draped around her left arm.
 
 
-  Usando el <<Despertar\|Despertar>>
-Empezó como una imponente, estirada, moralista y devota adepta al dogma de Idris. Sin embargo después de su experiencia en T'Telir, su personalidad y manera de ver el mundo cambiaron, como se muestra al convertirse en despertante y viajar con Vasher. Solía mirar con desprecio a los Hallandrenses; sin embargo, más tarde se da cuenta que eso es algo que ya no le preocupa más, y que ese odio fue causado por su inherente indiferencia hacia los idrianos.
-Debido a que fue secuestrada por Denth, a quien veía como un amigo y con quién había pasado algunas semanas, Vivenna pierde su arrogancia y comienza a darse cuenta de que estaba siendo injusta. En dos meses, ya siente su vida en T'Telir natural, incluyendo mezclarse con las multitudes, asaltar suministros, y otras actividades de los suburbios. En un momento de instrospección, se confunde a sí misma con su visión de la "maravillosa y terrible ciudad". Empieza a querer aprender para poder valerse por sí misma. Ya no quiere estar indefensa y aprende sobre el despertar después de comprender que no tiene nada que ver con sus creencias Idrianas. Después de percatarse de que Vasher es un despertante excepcional con una técnica y conocimientos altísimos, se da cuenta de que juzgar a las personas por su apariencia no tiene ningún sentido.
-Poco a poco, Vivenna se convierte en una joven mujer capaz que incluso repara en que el gobierno no es para ella. Así que le deja el trono a sus hermanos para poder viajar con Vasher.
-Durante su viaje a través de Shadesmar después de la [[Batalla de Kholinar\|Batalla de Kholinar]], [[Adolin Kholin\|Adolin Kholin]] le echa en cara el no haber cumplido su deber con su reino, a lo que ella le contesta que eso es lo único de lo que no se arrepiente.
-
-## Atributos y Habilidades
-Fue entrenada por [[Vasher\|Vasher]] para ser una [[Despertante\|despertante]], y como parte del linaje real Idriano, también tiene los [[Mechones Reales\|Mechones Reales]]. Esta es la habilidad para cambiar el color y la longitud de su pelo. También es capaz de cambiar otros aspectos de su apariencia como su color de ojos y hacerse cicatrices a sí misma.
-
-## Historia
-  En Idris
-### Niñez y Educación
-Como primogénita del rey de Idris, [[Dedelin\|Dedelin]], fue educada para casarse con el [[Rey-dios\|rey-dios]] de [[Hallandren\|Hallandren]] desde muy joven, en acuerdo al tratado de paz entre sus respectivas naciones. A la edad de veintidós años, iba a ser enviada a [[T'Telir\|T'Telir]] para casarse con él. Sin embargo, el amor de Dedelin por su primogénita hizo que en su lugar enviase a [[Siri\|Siri]], a la cual tenía menos cariño.
-
-### En T'Telir
-Vivenna dejó su hogar para intentar rescatar a Siri de su matrimonio con [[Susebron\|Susebron]]. Después de llegar a T'Telir, busco al informador idriano, [[Lemex\|Lemex]]. En su lugar, conoció a [[Denth\|Denth]] y [[Tonk Fah\|Tonk Fah]], quienes eran mercenarios. Ellos la guiaron hasta Lemex, quién no había avisado a su padre de que estaba gravemente enfermo. Antes de morir, Lemex transfirió su [[Aliento\|Aliento]] a Vivenna en contra de su voluntad, dandole la Tercera [[Elevaci%C3%B3n\|Elevación]]. Los mercenarios de Lemex le dijeron que su contrato con Lemex no había terminado y que ella era su nueva jefa. Sin que lo supiera la princesa, su verdadera intención era incitar al conflicto entre idrianos y los hallandrenses por su verdadero jefe, el escriba [[Dedosazules\|Dedosazules]] de [[Pahn Kahl\|Pahn Kahl]]. Con su "ayuda", Vivenna pasó muchas semanas en T'Telir incitando inadvertidamente a la comunidad idriana para una rebelión contra la [[Corte de los Dioses\|Corte de los Dioses]].
-
-  En los suburbios
-Más tarde Vivenna fue secuestrada por [[Vasher\|Vasher]], quién estaba impidiendo a los mercenarios cumplir su objetivo, pero escapó. Después de dirigirse a su casa, descubrió la verdad de sobre los mercenarios al encontrar el cuerpo torturado de [[Parlin\|Parlin]], varios soldados idrianos muertos y algunos cadáveres de animales. Fue entonces cuando descubrió cómo eran realmente.
-Una vez más, Vivenna escapó, no sin antes perder algunos [[Aliento\|alientos]] en el inutil intento de despertar una capa. Mientras huía, se volvió una apagada para evitar llamar la atención en los suburbios idrianos, donde se vio forzada a mendigar, pero manteniendo el chal donde guardaba los alientos que había obtenido. Eventualmente, estuvo cerca de ser capturada por los secuaces de Denth, pero fue rescatada por Vasher.
-En una situación desconocida, y con su punto de vista quebrado, Vivenna decidió empezar a aprender sobre el despertar de los grisáceos [[Retornado\|Retornados]], aprendiendo mucho más rápido que la mayoría debido a su experiencia como realeza idriana. Vivenna y Vasher trabajaron juntos para reparar algunos de los daños que ella había causado con la compañía de Denth y Tonk Fah. Se pusieron en contacto con los Idrianos en T'Telir y los intentaron convencer para que no fuesen a la guerra o de incitar a las fuerzas de Hallandren. Aun así, ambos dejarón claro que dichos intentos no iban a ser suficientes y que la guerra se estaba volviendo inevitable.
-Cuando los acontecimientos llegaron al punto culminante en la Corte de los Retornados, Vivenna se puso en acción y ayudó a prevenir el comienzo de otra [[La Multiguerra\|Multiguerra]]. Después de reencontrarse con su hermana, Vivenna eligió viajar con Vasher y participar en sus aventuras, comenzando con su investigación sobre el regreso de [[Yesteel\|Yesteel]].
-
-### En Roshar
-  Como Alta mariscal de la Guardia de la Muralla de Kholinar
->“*No soy una figura mitológica, ni tengo ganas tampoco. Soy solo una mujer que no ha dejado de estar abrumada por los acontecimientos desde que era adolescente.*”
-\-"Celeste".[25]
+### Personality
+>“*It's not about what I 'think I know'. It's what I *believe*.*”
+\-Vivenna to Denth [15]
 
 
-Vivenna viajó a través de [[Shadesmar\|Shadesmar]] a Roshar un año antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] buscando a Vasher y a la espada [[Sangre Nocturna\|Sangre Nocturna]]. Después de que la reina [[Aesudan Kholin\|Aesudan]] se retirase al [[Palacio de Kholinar\|Palacio de Kholinar]], ella se convirtió en alta mariscal de la muralla en [[Kholinar\|Kholinar]]. Cuando tomó el mando de la muralla, también aseguró el monasterio con un [[Moldeador de almas\|moldeador de almas]]. En ese momento, [[Hoid\|Hoid]] se dirigió a ella, y le dio unos paneles de metal hechos de [[Aluminio\|aluminio]], que prevenian que los [[/wiki/Vac%C3%ADospren#Chillones]] detectasen el uso de Investidura. Combinadas esas dos cosas le permitieron mantener a la guardia de la muralla alimentada y proporcionar una pequeña porción de comida a la ciudad.
-Vivenna se unió al asalto en el Palacio de Kholinar y viajó a [[Shadesmar\|Shadesmar]] con Kaladin, Shallan y Adolin. Dejó su compañía para ayudar y defender el barco mientras los otros escapaban. El barco continuó hacia [[Integridad Duradera\|Integridad Duradera]], donde aparentemente se quedó hasta más tarde ese año. Fue el último humano en abandonar la fortaleza de los [[Honorspren\|honorspren]], unos cinco meses antes de la llegada de [[Shallan\|Shallan]] y [[Adolin\|Adolin]]. Se desconoce si continuó hacia la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]] o si sus planes cambiaron.
-En Roshar, lleva encima una extraña [[Espada de Vivenna\|hoja esquirlada]] que no contiene gema en su empuñadura y a la que no es capaz de hacer aparecer y desaparecer. Está relacionada con Sangre Nocturna y comparte algunas características, aunque ambas son bastante diferentes, y es probable que sea una entidad biocromática de tipo IV como esta.
+  Using <<Awakening\|Awakening>>
+She began as a statuesque, uptight, judgmental, and devout adherent to Idrian dogma. After her experiences in T'Telir, however, Vivenna's worldview and personality are fundamentally changed, as exemplified in her choice to become an Awakener and travel with Vasher. She used to look down on the Hallandrens; however, later she notes that she does not really care about them anymore, and that her hatred was caused by their inherent indifference towards the Idrians.
+Due to getting captured by Denth, whom she viewed as a friend and spent weeks with, Vivenna gradually loses her haughtiness and starts to realize that she was being unfair. In two short months, she quickly finds that her new life in T'Telir feels natural, including blending in with crowds, raiding supplies, and other underground activities. In a moment of introspection, she is confused by her views of the "wonderful, terrible city." She begins to want to learn so that she will no longer be helpless and confused. She does not wish to be powerless any longer and learns Awakening after realizing that it had nothing to do with her Idrian beliefs. After realizing that Vasher is an exceptional Awakener with highly technical knowledge, she realizes that judging people by their appearances does not make any sense.
+Gradually, Vivenna becomes a capable young woman who even realizes that rulership is not for her. She gives up her throne to her siblings and travels with Vasher.
+During her travels through Shadesmar after the [[Battle of Kholinar\|Battle of Kholinar]], [[Adolin Kholin\|Adolin Kholin]] berates her for not doing her duty to her kingdom, and she tells him that that is the one thing she does not regret.
 
-## Relaciones
-Es la hija del rey [[Dedelin\|Dedelin]] de Idris, y hermana de [[Siri\|Siri]], [[Ridger\|Ridger]] y [[Fafen\|Fafen]].
-Iba a ser la futura esposa de [[Susebron\|Susebron]], el rey-dios de [[Hallandren\|Hallandren]].
-Como un miembro de la familia real de Idris, es descendiente de [[Vo\|Vo]].
+## Attributes and Abilities
+She is trained to be an [[Awakener\|Awakener]] by [[Vasher\|Vasher]], and as part of the Idrian royal line, also has the [[Royal Locks\|Royal Locks]]. This is the ability to change her hair color and length. She is also able to change other aspects of her appearance such as her eye color and giving herself scars.
+
+## History
+  In Idris
+### Childhood and Schooling
+As the first daughter of the king of Idris, [[Dedelin\|Dedelin]], she was trained to marry the [[God King\|God King]] of [[Hallandren\|Hallandren]] from a young age, as according to the peace treaty between their respective nations. At the age of twenty-two, she was to be sent to [[T'Telir\|T'Telir]] to marry him. However, Dedelin's love for his first daughter caused him to instead send [[Siri\|Siri]], of whom he was less fond.
+
+### In T'Telir
+Vivenna left her home and attempted to rescue Siri from her marriage with [[Susebron\|Susebron]]. After arriving in T'Telir, she looked for the Idrian's informant, [[Lemex\|Lemex]]. Instead, she met [[Denth\|Denth]] and [[Tonk Fah\|Tonk Fah]], who were posing as mercenaries. They led her to Lemex, who had not advised her father that he was deathly ill. Before his death, Lemex transferred his [[Breath\|Breath]] to Vivenna against her will, bringing her to the Third [[Heightening\|Heightening]]. Lemex's mercenaries told her that their contract with Lemex had not concluded and she was their new employer. Unbeknownst to the princess, they had the ulterior motive of inciting conflict between Idrians and the Hallandren for their true employer, the [[Pahn Kahl\|Pahn Kahl]] scribe [[Bluefingers\|Bluefingers]]. With their "help", Vivenna spent many weeks in T'Telir inadvertently stirring the Idrian community into a rebellion against the [[Court of the Gods\|Court of the Gods]].
+
+  In the slums
+Vivenna was later kidnapped by [[Vasher\|Vasher]], who was seeking to prevent the mercenaries from realizing their goal, but she escaped. After she managed to return to the safe house, she discovered the truth of her time with the mercenaries after finding [[Parlin\|Parlin's]] tortured corpse, dead Idrian soldiers, and various animals' corpses. She then encountered the mercenaries as they truly were.
+Once again, Vivenna escaped to the streets, but not before losing many of her [[Breath\|Breaths]] in a futile attempt to Awaken a cloak. On the run, she became a Drab to avoid detection in the Idrian slums, where she was forced into poverty, but kept a shawl that held the Breath she still owned. Eventually, she was nearly captured by Denth's henchmen, but was rescued by Vasher.
+In an unfamiliar situation, and with her worldview shattered, Vivenna decided to begin learning to Awaken from the grizzled [[Returned\|Returned]], learning much more quickly than most others due to her experiences as an Idrian royal. Vivenna and Vasher worked together to repair some of the damage she had caused in the company of Denth and Tonk Fah. They contacted the Idrians in T'Telir and tried to convince them not to go to war or to incite the Hallandren forces. However they both remark that these efforts are not enough as they can see the war is becoming inevitable.
+As events climaxed in the Court of the Returned, Vivenna took action and helped prevent the start of another [[Manywar\|Manywar]]. After reuniting with her sister, Vivenna chose to travel with Vasher and participate in his adventures, beginning with his investigation of [[Yesteel\|Yesteel's]] return.
+
+### On Roshar
+  As Highmarshal of the Kholinar Wall Guard
+>“*I'm no figure from mythology, thank you very much. I’m just a woman who has been constantly out of her league since adolescence.*”
+\-"Azure"[25]
+
+
+Vivenna traveled through [[Shadesmar\|Shadesmar]] to Roshar about one year prior to the [[True Desolation\|True Desolation]], searching for Vasher and the sword [[Nightblood\|Nightblood]]. After Queen [[Aesudan Kholin\|Aesudan]] withdrew to the [[Kholinar Palace\|Kholinar Palace]], she became the Highmarshal of the Wall Guard in [[Kholinar\|Kholinar]]. When she took command of the Wall Guard, she also secured a monastery with a [[Soulcaster\|Soulcaster]]. Around this time, she was approached by [[Hoid\|Hoid]], who gave her metal panels, likely made of [[Aluminum\|aluminum]], that prevented the [[/wiki/Voidspren#Screamers]] from detecting the use of Investiture. Combined, those two things allowed her to keep the Wall Guard fed and provided a small amount of food for the city.
+Vivenna joined in the assault on the Kholinar Palace and traveled to [[Shadesmar\|Shadesmar]] with Kaladin, Shallan, and Adolin. She left their company to help defend the ship while the others escaped. The ship continued on to [[Lasting Integrity\|Lasting Integrity]], where Vivenna seems to have remained until later in the year. She was the last human to leave the [[Honorspren\|honorspren]] stronghold, about five months prior to the arrival of [[Shallan\|Shallan]] and [[Adolin\|Adolin]]. It is unclear whether she continued on her goal toward [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] or if her plans changed.
+On Roshar, she carries a strange [[Vivenna's Blade\|Shardblade]] that does not have a gem in its hilt and does not appear capable of appearing and disappearing. It is somewhat related to Nightblood and shares some of its features, though the two blades are also quite different, and is probably a Type IV BioChromatic entity like Nightblood.
+
+## Relationships
+She is the daughter of King [[Dedelin\|Dedelin]] of Idris, and sister of [[Siri\|Siri]], [[Ridger\|Ridger]] and [[Fafen\|Fafen]].
+She was the intended wife of [[Susebron\|Susebron]], the God King of [[Hallandren\|Hallandren]].
+As a member of the Royal Family of Idris, she is a descendant of [[Vo\|Vo]].
 
 ### Siri
-La visión de Siri sobre Vivenna está tremendamente influida por las grandes diferencias entre ellas, además de como su padre ve a Vivenna. Mientras que su padre alaba a Vivenna por su control emocional, Siri carece de dicho control. También cree que Vivenna es la mejor en todo, y que nadie podrá nunca hacer nada mejor que ella.
+Siri's views of Vivenna are influenced by the strong differences between them, and thus, how Dedelin views Vivenna. While her father praises Vivenna for her control, Siri lacks that. She also believes that Vivenna is the best at anything, and nobody will ever do anything better than Vivenna does.
 
-  Con <<Vasher\|Vasher>> y <<Sangre Nocturna\|Sangre Nocturna>>
+  With <<Vasher\|Vasher>> and <<Nightblood\|Nightblood>>
 ### Dedelin
-Vivenna es la hija favorita de Dedelin, y es la hija perfecta a sus ojos. La admira por su devoción, y por su habilidad de controlar su pelo mejor que él. Se sabe que Dedelin quiere más a Vivenna que a Siri, y que le recuerda a su esposa, lo que explica su decisión de enviar a Siri en lugar de Vivenna a Hallandren.
+Dedelin's favorite child, Vivenna is the perfect daughter in her father's mind. He admires her for her devotion, and ability to control her hair better than he does. The annotations reveal that Dedelin loves Vivenna more than Siri, and that she reminds Dedelin of his late wife, which informs his decision to send Siri to Hallandren instead.
 
 ### Parlin
-[[Parlin\|Parlin]] es su amigo de toda la vida y una potencial pareja, ya que sus padres eran grandes amigos. Aparentemente Vivenna tiene cierto cariño hacia él, ya que se siente celosa cuando a él le empieza a gustar [[Joyas\|Joyas]], aunque Sanderson ha afirmado que no es cariño romántico, sino más similar al de una hermana mayor hacia su hermano pequeño.
+[[Parlin\|Parlin]] is her lifelong friend and potential partner, as their fathers were great friends before them. She appears to be fond of him, as evidenced by her jealousy when he takes a liking to [[Jewels\|Jewels]], though Sanderson has stated that it's not a romantic fondness, but one more akin to that of an older sister for her younger brother.
 
 ### Vasher
-Vivenna conoce a [[Vasher\|Vasher]] cuando este la captura y le hace el test de '[[Sangre Nocturna\|Sangre Nocturna]]'. Le entrega la espada y esta le hace que le entren ganas de vomitar, lo que le dice a Vasher que según la espada tiene un corazón puro. Vivenna escapa, volviendo con Denth y los mercenarios, pero cuando se da cuenta de su traición huye a las calles, viviendo allí hasta que Vasher la encuentra.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] ·  · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+Vivenna first meets [[Vasher\|Vasher]] when he captures her and gives her the '[[Nightblood\|Nightblood']] test. She is given the sword, which consequently makes her sick, telling Vasher that she has a pure heart by the sword's standards. She escapes, returning to Denth and the mercenaries. When she realizes the extent of the mercenaries' treachery she goes to the streets, living there until she's found by Vasher.
 
 
 
-https://es.coppermind.net/wiki/Vivenna
+https://coppermind.net/wiki/Vivenna

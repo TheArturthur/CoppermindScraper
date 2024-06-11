@@ -1,68 +1,53 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Juno**|
 |-|-|
 ||
-|**Oficio**|Cronista|
-|**Especie**|[[Kitsen\|Kitsen]]|
-|**Mundo natal**||
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Perpetua\|Perpetua]]*|
+|**Profession**|Lorekeeper|
+|**Species**|[[Kitsen\|Kitsen]]|
+|**Homeworld**|[[Evershore (planet)\|Evershore]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Evershore (novella)\|Evershore]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Evershore (novella)\|Evershore]]* and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Perpetua\|Perpetua]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*Inspira, espira. Ahora estás completamente relajado.*”
-\-Juno comenzando la meditación de Jorgen[1]
+>“*Breathe in, breathe out. You are now completely relaxed.*”
+\-Juno beginning Jorgen’s meditation[1]
 
 
-**Juno** es un [[Kitsen\|kitsen]], y uno de sus cronistas. Como tal, guarda y estudia el conocimiento sobre los [[Cit%C3%B3nica (habilidad)\|citónicos]] kitsen del pasado y sus textos. Cuando [[Jorgen Weight\|Jorgen Weight]] y el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] llegan a [[Orilla Perpetua (planeta)\|Orilla Perpetua]], es Juno quien les ayuda a guiarles, y orienta a Jorgen para que se vuelva más hábil con sus habilidades citónicas. Juno ayuda especialmente a Jorgen a dominar el uso de las hojas mentales. Tiene una armadura completa que usa a veces y que le cubre todo el cuerpo excepto las orejas, los ojos y la nariz.
+**Juno** is a [[Kitsen\|kitsen]], and one of their lorekeepers. As a lorekeeper, he keeps and studies knowledge about past kitsen [[Cytonics\|cytonics]] and their texts. When [[Jorgen Weight\|Jorgen Weight]] and [[Skyward Flight\|Skyward Flight]] arrive on [[Evershore (planet)\|Evershore]], it is Juno that helps guide them, and guides Jorgen to become more adept with his cytonics. Juno is especially helpful in helping Jorgen master use of mindblades. He has a set of power armor that he sometimes wears, which covers his entire body except for his ears, eyes, and nose.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Encuentro con el Escuadr.C3.B3n Cielo]] 
-1. [[#Acompa.C3.B1amiento y formaci.C3.B3n de Jorgen]] 
-
-
-2 Notas. [[#Notas]] 
+1. [[#Meeting Skyward Flight]] 
+1. [[#Accompanying and Training Jorgen]] 
 
 
-## Historia
-### Encuentro con el Escuadrón Cielo
-Juno se reunió con Jorgen y los demás humanos en un banquete de bienvenida, haciendo de guía. Les explicó más cosas sobre Orilla Perpetua y la cultura kitsen, así como el funcionamiento del senado kitsen. Después de que Jorgen perdiera el control de sus hojas mentales durante la reunión del senado, Juno habló con él y se ofreció a entrenarlo utilizando sus conocimientos de las técnicas que habían dejado los antiguos kitsen citónicos. Le dijo a Jorgen que necesitaba formarse para que sus hojas mentales fueran más controladas, afiladas y fuertes.
-
-### Acompañamiento y formación de Jorgen
->“*Es la senda de los caminantes de la sombra. Es como los antiguos canalizaban su poder, y como tú debes canalizar el tuyo.*”
-\-Juno a Jorgen[1]
+2 Notes. [[#Notes]] 
 
 
-Al principio, Juno llevó a Jorgen a un acantilado con vistas a la ciudad de Manantial Soñador, donde no podían hacer ningún daño. El propio Juno llevaba una armadura completa para protegerse. Juno guió a Jorgen a través de una meditación relajante, leyendo ejercicios de un libro. Le ayudó a relajarse y a visualizar mejor sus hojas mentales. Rápidamente, Jorgen se volvió más hábil, capaz de hacer repetidos surcos en la arenisca cercana. Jorgen oyó voces que le pedían ayuda a través de la ninguna-parte, y Juno le mostró la biblioteca donde [[La yaya\|la yaya]] y [[Matthew Cobb\|Cobb]] habían llegado a Orilla Perpetua. Juno le proporcionó información sobre la biblioteca, donde los kitsen citónicos desaparecieron de una reunión, muchos años atrás.
+## History
+### Meeting Skyward Flight
+Juno met Jorgen and the other humans at a welcome feast, acting as a guide. He explained more about Evershore and kitsen culture, as well as the workings of the kitsen senate. After Jorgen lost control of his mindblades during the senate meeting, Juno spoke with him, offering to train him using his knowledge of techniques left behind by the ancient kitsen cytonics. He told Jorgen that he needed training to make his mindblades more controlled, sharper, and stronger.
 
->“*Has hecho muchas cosas que consideraba poco sabias. Pero hasta ahora parecen haberte ido bien.*”
-\-Juno a Jorgen durante la batalla[6]
+### Accompanying and Training Jorgen
+>“*It is the way of the shadow-walkers. It is the way the ancients channeled their power, and the way that you must channel yours.*”
+\-Juno to Jorgen[1]
 
-Las fuerzas de la [[Supremac%C3%ADa\|Supremacía]] llegaron a las afueras de Orilla Perpetua, y Juno se ofreció a acompañar a Jorgen en la batalla, para ayudarle con sus hojas mentales. Juno permaneció en la cabina con él durante los combates, y las botas de su armadura compelta se fijaron a su plataforma flotante para mantenerlo estable. A pesar de la emoción de la batalla, Juno guió a Jorgen a través de meditaciones tranquilizadoras, y Jorgen fue capaz de destruir varias naves de la Supremacía con sus hojas mentales. Realizó un hipersalto hacia Detritus, y Juno fue a Alanik para intentar ayudarle a utilizar las hojas mentales. Sin embargo, no tenía tanta afinidad natural con ellas como Jorgen. Juno y Jorgen fueron derribados, y Jorgen se enfrentó a un enemigo citónico, la guía de Juno le ayudó a derrotar a su oponente usando hojas mentales. Acompañó a Jorgen a [[Detritus\|Detritus]] para hablar con [[Rodge McCaffery\|Gali]], y al parecer no se sorprendió cuando Jorgen convocó una gran horda de taynix hacia él de inmediato.
 
->“*Eres el Restaurador de las Almas Perdidas, Aquel que Presta su Oído a Voces Silenciosas, el Abridor de Puertas Atrancadas. Donde tú vayas, yo iré, caminante de la sombra.*”
-\-Juno a Jorgen[9]
+Juno initially took Jorgen up to a cliff overlooking the city of [[Dreamspring\|Dreamspring]], where they couldn’t do any damage. Juno himself wore a suit of power armor for protection. Juno guided Jorgen through a relaxing meditation, reading exercises from a book. He helped Jorgen relax, and visualize his mindblades better. Jorgen quickly grew more skilled, able to gouge repeated grooves into the nearby sandstone. Jorgen heard voices calling to him for help through the nowhere, and Juno showed him the library where [[Gran-Gran\|Gran-Gran]] and [[Matthew Cobb\|Cobb]] had arrived on Evershore. Juno provided backround information about the library, where the kitsen cytonics dissapeared at a summit, many years ago.
 
-En medio de la lucha, mientras las cosas se volvían más caóticas, Juno acompañó a Jorgen a la biblioteca, y ayudó a guiar a Jorgen con ejercicios de hipersalto. Jorgen pudo abrir el portal de la biblioteca y liberar a los antiguos kitsen citónicos. Juno estaba completamente conmocionado por la repentina llegada de los kitsen citónicos, y se apresuró a encontrar plataformas flotantes para que pudieran utilizarlas. Jorgen aconsejó a Juno que se quedara en la biblioteca, pero quiso quedarse con él. Mientras la lucha llegaba a su fin, Juno tomaba notas, pues quería escribir un relato de las acciones de un caminante de la sombra. Cuando Jorgen y Gali hipersaltaron el planeta de Detritus hasta un punto fuera de Orilla Perpetua, Juno dio información sobre lo bien que resistiría Manantial Soñador el enorme maremoto que empezó a formarse por la presencia de Detritus.
-Tras la batalla, Jorgen llevó a Juno de vuelta a Manantial Soñador, disculpándose por los daños sufridos a causa de la presencia del Escuadrón Cielo en Orilla Perpetua. Juno, sin embargo, creía que su pueblo se había beneficiado al final, pues ya no estaban aislados. Juno se marchó, teniendo muchas cosas que anotar.
+>“*You’ve done a great many things I thought were unwise, but it seems to be working for you so far.*”
+\-Juno to Jorgen during the battle[6]
 
-## Notas
+[[Superiority\|Superiority]] forces arrived outside Evershore, and Juno offered to accompany Jorgen into battle, to help him with his mindblades. Juno stayed in the cockpit with Jorgen during the dogfighting, the boots of his power armor affixing to his hovering platform to keep him steady. Despite the excitement of battle, Juno guided Jorgen through calming meditations, and Jorgen was able to destroy several Superiority ships with his mindblades. Jorgen hyperjumped away to Detritus, and Juno went to Alanik to try and help her use mindblades. However, he didn’t have as much natural affinity for mindblades as Jorgen did. Juno and Jorgen were shot down, and Jorgen faced off against an enemy cytonic, Juno’s guidance helping him defeat his opponent using mindblades. Juno accompanied Jorgen to [[Detritus\|Detritus]] to speak with [[Rodge McCaffery\|Rig]], and seemingly wasn’t surprised when Jorgen summoned a large horde of taynix to him at once.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+>“*You are the Restorer of Lost Souls. He Who Hearkens unto Silent Voices, Opener of Locked Doors. Where you go, I will go, shadow-walker.*”
+\-Juno to Jorgen[9]
+
+In the midst of the fighting, as things grew more chaotic, Juno accompanied Jorgen to the library, and helped guide Jorgen with hyperjump exercises. Jorgen was able to open the portal in the library, and free the ancient kitsen cytonics. Juno was completely shocked by the sudden arrival of the kitsen cytonics, and hurriedly found hovering platforms for them to use. Jorgen advised Juno to say behind in the library, but Juno wanted to stay with Jorgen. As the fight drew to an end, Juno kept notes, wanting to write an account of the actions of a shadow-walker. When Jorgen and Rig hyperjumped the planet of Detritus to a point outside Evershore, Juno gave information on how well Dreamspring would withstand the massive tidal wave that began to form from Detritus’ presence.
+After the battle, Jorgen took Juno back down to Dreamspring, apologizing for the damage that was incurred because of Skyward Flight’s presence on Evershore. Juno, however, believed that his people had benefited in the end, as they were no longer isolated. Juno left, having many things to write down.
 
 
 
-https://es.coppermind.net/wiki/Juno
+https://coppermind.net/wiki/Juno

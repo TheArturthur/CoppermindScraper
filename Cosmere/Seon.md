@@ -1,120 +1,106 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Seon**|
 |-|-|
 ||
-|**Tipo**|[[Astilla\|Astilla]]s de [[Devoci%C3%B3n\|Devoción]]|
-|**Capacidades**|Vuelo, inmortalidad, sentidos mejorados, comunicación instantánea con y a través de otros seones.|
-|**Racional**|Sí|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|[[Splinter\|Splinter]]s of [[Devotion\|Devotion]]|
+|**Abilities**|Flight, immortality, enhanced senses, instantaneous communication to and through other seons|
+|**Sapient**|Yes|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Miras las cosas como humano, joven amo. Ves rango y distinción; intentas ordenar el mundo para que todo ocupe un sitio por encima de ti o por debajo. Para un seon, no hay encima ni debajo, solo aquellos a quienes amamos. Y servimos a quienes amamos.*”
-\-Ien a Raoden[1]
-
-
-Los **seones** son seres mágicos sapientes originarios de [[Sel\|Sel]]. Son [[Astilla\|Astillas]] de [[Devoci%C3%B3n\|Devoción]] que sirven a amos humanos.
-
-## Sumario
-
-1 Apariencia y características. [[#Apariencia y caracter.C3.ADsticas]] 
-
-1. [[#V.C3.ADnculos con humanos]] 
+>“*You look at things as a human, young master. You see rank and distinction; you try to order the world so that everything has a place either above you or beneath you. To a seon, there is no above or beneath. There are only those we love. And we serve those we love.*”
+\-Ien to Raoden[1]
 
 
-2 Poderes y habilidades. [[#Poderes y habilidades]] 
-3 Papel cultural. [[#Papel cultural]] 
-4 Historia. [[#Historia]] 
+**Seons** are sapient magical beings that originate on [[Sel\|Sel]]. They are [[Splinter\|Splinters]] of [[Devotion\|Devotion]] who serve human masters.
 
-4. [[#Creaci.C3.B3n]] 
-4. [[#El Reod]] 
-4. [[#En Roshar]] 
+## Contents
+
+1 Appearance and Characteristics. [[#Appearance and Characteristics]] 
+
+1. [[#Bonds with Humans]] 
 
 
-5 Similitudes con otras Astillas. [[#Similitudes con otras Astillas]] 
+2 Powers and Abilities. [[#Powers and Abilities]] 
+3 Cultural Role. [[#Cultural Role]] 
+4 History. [[#History]] 
+
+4. [[#Creation]] 
+4. [[#The Reod]] 
+4. [[#On Roshar]] 
+
+
+5 Similarities to Other Splinters. [[#Similarities to Other Splinters]] 
 
 5. [[#Spren]] 
 5. [[#Skaze]] 
 
 
-6 Seones destacados. [[#Seones destacados]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+6 Notable Seons. [[#Notable Seons]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
-## Apariencia y características
-Los seones adoptan la forma de orbes flotantes de luz, cada uno con un [[Aon\|aon]] brillante en su núcleo, que les da nombre.  Se les describe como "pequeños" y "del tamaño de un melón". Los seones tienen control sobre el nivel de su brillo, y a menudo palpitan mientras hablan o ríen. La luz de los seones tiene una iridiscencia nacarada, al menos en el [[Reino Cognitivo\|Reino Cognitivo]], y puede ser difícil discernir sus aones a través de la luz sin examinarlos de cerca. La apariencia general de los seones es similar en los Reinos Cognitivo y Físico; sin embargo, este no ha sido siempre el caso, y es probable que esté relacionado con la inusual historia del [[Dor\|Dor]] en Sel y su efecto en los sistemas mágicos del planeta. Los seones son tangibles, aunque pesan muy poco; no pueden atravesar la materia sólida y, por tanto, pueden ser aprisionados. [[Hrathen\|Hrathen]] cree que los seones necesitan dormir.
-Sólo hay un seon para cada aon, y saben intrínsecamente el significado de este. Cada seon tiene una personalidad individual, que es muy similar a la de los humanos y son capaces de transmitir emociones con facilidad; incluso pueden tener supersticiones. Por lo general, son agradables, pero a veces pueden sufrir efectos psicológicos negativos a causa del estrés o el maltrato. Raoden y Sarene señalan que sus seones son increíblemente sabios.
-Los seones conocidos suelen tener voces suaves. La voz de [[Ashe\|Ashe]] se describe como "profunda" y "sonora", con palabras bien pronunciadas. La voz de [[Ien\|Ien]] es "indulgente", La de [[Dio\|Dio]] es "melodiosa", y [[Riika\|Riika]] necesita que [[Mai\|Mai]] le cuente un cuento cuando se va a dormir. Sin embargo, la voz de [[Opa\|Opa]] es formal y poco emotiva, lo que [[Sarene\|Sarene]] considera inusual, sobre todo en comparación con los seones de [[Teod\|Teod]]. No está claro si los seones tienen un género, pero algunos de ellos suenan masculinos mientras que otros suenan femeninos.
+## Appearance and Characteristics
+Seons take the form of floating orbs of light, each with a glowing [[Aon\|Aon]] at their core for which they are named. They are described as "small" and "melon sized". Seons have control over the level of their brightness, and they often pulse while speaking or laughing. The light of seons has a mother-of-pearl iridescence, at least in the [[Cognitive Realm\|Cognitive Realm]], and it can be difficult to discern their Aons through the light without close examination. The general appearance of seons is similar in the Cognitive and [[Physical Realm\|Physical Realms]]; however, this may not have always been the case, and is likely related to the unusual history of the [[Dor\|Dor]] on Sel and its effect on Selish magic systems. Seons are tangible, although they weigh very little; they cannot pass through solid matter and can therefore be imprisoned. [[Hrathen\|Hrathen]] believes that seons need to sleep.
+There is only one seon for each Aon, and they intrinsically know what their Aon means. Each seon has an individual personality. Seon personalities are very similar to those of humans and they are able to convey emotions easily; they may even have superstitions. They are generally agreeable, but can sometimes suffer negative psychological effects from stress or abuse. Raoden and Sarene each note that their seons are incredibly wise.
+Known seons tend to have soothing voices. [[Ashe\|Ashe's]] voice is described as "deep" and "sonorous", with well-enunciated words. [[Ien\|Ien's]] voice is "indulgent", [[Dio\|Dio's]] is "melodious", and [[Riika\|Riika]] needs [[Mai\|Mai]] to tell her a story when she goes to sleep. However, [[Opa\|Opa's]] voice is formal and unemotional, which [[Sarene\|Sarene]] notes as unusual, particularly compared to seons in [[Teod\|Teod]]. It is not clear if seons have a gender, but some of them sound masculine while others sound feminine.
 
-  <<Sarene\|Sarene>> y <<Ashe\|Ashe>>
-### Vínculos con humanos
-Los seones pueden formar vínculos con humanos individuales. El humano no tiene por qué ser un [[Elantrino\|elantrino]]. Aman a sus amos y actúan como leales compañeros y consejeros. El vínculo funciona a través de [[Conexi%C3%B3n\|Conexión]] [[Reino Espiritual\|Espiritual]] y tiene similitudes con el [[V%C3%ADnculo Nahel\|vínculo Nahel]] en [[Roshar\|Roshar]]. Los seones están vinculados sólo por el amor y no están obligados a servir. Esto suele hacer que el seon y su amo estén muy unidos. Raoden ve a [[Ien\|Ien]] como algo más que un sirviente o incluso un amigo; lo ve como la encarnación del amor de su dios. En teoría, un seon podría abandonar a su amo, pero se desconoce cómo y por qué podría ocurrir esto; [[Hrathen\|Hrathen]] considera a los seones una herejía y se escandaliza al enterarse de que [[Wyrn (t%C3%ADtulo)\|Wyrn]] [[Wulfden IV\|Wulfden IV]] los utiliza. Funcionan como una herramienta necesaria para alcanzar objetivos más elevados, odiándolo y guardándolo en una caja, pero siempre está listo y dispuesto a servirle cuando se le llama. A diferencia del vínculo Nahel, no se ha demostrado que el vínculo entre seones y humanos otorgue nuevas habilidades a ninguna de las partes.
-El vínculo puede pasarse de una persona a otra. Este se inicia cuando el maestro del seon le ordena formar un vinculo con una nueva persona, pero la mecanica del cambio de vínculo no esta clara. El paso puede ocurrir incluso si el humano es un infante. Es frecuente que un seon permanezca en la misma familia durante cientos de años. Raoden cree que los seones tienen una necesidad inherente de servir y que buscarían un nuevo maestro si el suyo muriera repentinamente. En algunos casos, parece que los seones pueden ser asignados por una figura de autoridad; Wyrn da uno a Hrathen y Raoden da dos seones a [[Dashe\|Dashe]]. Los seones sin vínculo son bastante raros.
+  <<Sarene\|Sarene>> and <<Ashe\|Ashe>>
+### Bonds with Humans
+Seons can form bonds with individual humans. The human does not have to be an [[Elantrian\|Elantrian]]. They love their masters and act as loyal companions and advisors. The bond works through [[Spiritual Realm\|Spiritual]] [[Connection\|Connection]] and has similarities to the [[Nahel bond\|Nahel bond]] on [[Roshar\|Roshar]]. The seons are bound only by love and are not obligated to serve. The bond typically makes the seon and its master very close. Raoden sees [[Ien\|Ien]] as more than a servant or even a friend; he sees him as the embodiment of his god's love. A seon could theoretically abandon its master, but how and why this could happen is not known; [[Hrathen\|Hrathen]] views seons as heresy and is shocked upon learning that [[Wyrn (title)\|Wyrn]] [[Wulfden the Fourth\|Wulfden the Fourth]] uses them. He uses his seon as a necessary tool to achieve higher goals, hating it and keeping it in a box, but it is always ready and willing to serve him when called upon. Unlike the Nahel bond, the bond between seons and humans has not been shown to give either party any new abilities.
+The bond can be Passed from person to person. The Passing is initiated when the seon's master instructs it to form a bond with a new person, but the mechanics of the change in bond is not clear. Passing can occur even if the human is an infant. It is not uncommon to keep a seon in the same family for hundreds of years. Raoden believes that the seons inherently need to serve and that they would seek out a new master if theirs suddenly died. In some cases, it appears that seons can be assigned by an authority figure; Wyrn gives one to Hrathen and Raoden gives two seons to [[Dashe\|Dashe]]. Unbound seons are quite rare.
 
-## Poderes y habilidades
-Como [[Astilla\|Astillas]] de una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]], los seones son una forma sapiente de [[Investidura\|Investidura]] y poseen varias cualidades mágicas. Son inmortales. Generan su propia luz y tienen control sobre su brillo, hasta el punto de que pueden llegar a ser casi invisibles. Se mueven flotando y parecen capaces de cambiar rápidamente de velocidad y altitud. Incluso pueden alcanzar velocidades superiores a las de un caballo al galope. Son capaces de imitar el habla y los gestos humanos, que pueden haber perfeccionado con el tiempo. Sus sentidos son superiores a los de los humanos. Tienen un sentido innato de la orientación y pueden señalar el camino a cualquier lugar en el que hayan estado. No se les puede hacer daño por medios convencionales.
-Son capaces de conectarse entre sí a grandes distancias para permitir que sus amos se comuniquen instantáneamente. Esta habilidad parece funcionar de forma similar en el [[Reino F%C3%ADsico\|Reino Físico]] y en el [[Reino Cognitivo\|Reino Cognitivo]], por lo que los seones son una de las pocas formas de comunicación instantánea entre ambos reinos. Pueden transformarse temporalmente en una imagen tridimensional de la persona que habla al otro lado del enlace. La imagen sólo muestra los rasgos de la persona y nada más de su entorno. No está claro si pueden transformarse con algún otro propósito.
-Aunque la magia de [[Sel\|Sel]] generalmente no funciona correctamente fuera del planeta, los seones son capaces de viajar a otros lugares fuera de él. Su capacidad para abandonar el planeta está relacionada de algún modo con las propiedades inusuales de la Investidura en Sel, y no se aplica necesariamente a seres mágicos similares. Los [[Sangre Espectral\|Sangre Espectral]] fueron capaces de llevar al menos dos seones a [[Roshar\|Roshar]], incluyendo a [[Ala\|Ala]].
+## Powers and Abilities
+As [[Splinter\|Splinters]] of a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], seons are a sapient form of [[Investiture\|Investiture]] and possess several magical qualities. They are immortal. They generate their own light and have control over their brightness, to the point that they can become nearly invisible. They move by floating and seem to be able to change their speed and altitude quickly. They can even reach speeds that are faster than a galloping horse. They are able to mimic human speech and mannerisms, which they may have perfected over time. Their senses are superior to those of humans. They have an innate sense of direction and can point the way to any place they have ever been. They cannot be harmed by conventional means.
+They are able to link to each other over long distances to allow their masters to communicate instantly. This ability seems to function similarly in the [[Physical Realm\|Physical Realm]] and the [[Cognitive Realm\|Cognitive Realm]], and seons are therefore one of the few ways to instantaneously communicate between the realms. They can temporarily transform into a three-dimensional image of the person speaking on the other end of the link. The image shows only the person's features and not anything else in their surroundings. It is not clear if they can transform for any other purpose.
+Although [[Sel\|Selish]] magic generally does not function properly away from Sel, seons are capable of traveling to another planet. Their ability to leave the planet is somehow related to the unusual properties of Investiture on Sel, and does not necessarily apply to similar magical beings. The [[Ghostbloods\|Ghostbloods]] were able to bring at least two seons to [[Roshar\|Roshar]], including [[Ala\|Ala]].
 
-## Papel cultural
-[[Ashe\|Ashe]] señala que Elantris estuvo una vez "rebosante" de seones y que casi todos los elantrinos tenían uno. Después del Reod, los seones se vuelven cada vez más raros a medida que más de ellos se vuelven "locos". Siguen siendo lo bastante comunes como para que algunos habitantes de las grandes ciudades sigan ignorándolos, pero Ashe menciona que mucha gente se ha vuelto recelosa o incluso temerosa de los seones, ya que los asocian con la caída de Elantris. Esta actitud es más frecuente en Arelon, la supuesta cuna de los seones, que en Teod.
-Muchos habitantes de [[Fjordell\|Fjordell]] no creen que los seones existan, o creen que son "magia pagana" que debe ser rechazada.
-Después de la restauración de Elantris y de que Raoden y Sarene se conviertan en rey y reina, los seones vuelven a ser vistos como deseables en Arelon.
+## Cultural Role
+[[Ashe\|Ashe]] notes that Elantris was once "overflowing" with seons and that nearly all Elantrians had one. After the Reod, seons become increasingly rare as more of them go "mad". They remain common enough that some people in larger cities still ignore them, but Ashe mentions that many people have become wary or even fearful of seons, since they associate them with the fall of Elantris. This attitude is more prevalent in Arelon, the presumed source of seons, than it is in Teod.
+Many people in [[Fjordell\|Fjordell]] do not believe that seons exist, or they believe that they are "heathen magic" that should be shunned.
+After Elantris is restored and Raoden and Sarene become king and queen, seons are once again seen as desirable in Arelon.
 
-## Historia
-### Creación
-Los seones fueron creados por la Astillación de [[Devoci%C3%B3n\|Devoción]], una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]]. [[Odium\|Odium]] viajó a [[Sel\|Sel]] y mató a [[Aona\|Aona]] y [[Skai\|Skai]], los [[Recipiente\|Recipientes]] de Devoción y [[Dominio\|Dominio]]. Tras su muerte, el poder de sus Esquirlas quedó en el [[Reino Cognitivo\|Reino Cognitivo]] y formó [[El Dor\|el Dor]]. Los seones eran trozos de la magia de Devoción que se volvieron sapientes. Tenían homólogos formados a partir de la magia del Dominio conocidos como los [[Skaze\|skaze]], y había algunas similitudes entre los dos grupos. La presencia del poder incontrolado de dos Esquirlas hacía que el Reino Cognitivo en Sel fuera extremadamente peligroso, ya que los seones y los skaze no proporcionaban una "válvula de escape" adecuada, a diferencia de los [[Spren\|spren]] en [[Roshar\|Roshar]].
-Los habitantes de [[Opelon\|Opelon]] y [[Teod\|Teod]] desconocían el verdadero origen de los seones. La suposición más común era que habían sido creados por los elantrinos a través de AonDor, a pesar de la falta de pruebas documentadas. Raoden se dio cuenta de que esto podía ser inexacto, y planeó seguir investigando el origen de los seones. Los propios seones eran conscientes de su origen, pero no se sabía que hubieran compartido esta información con ningún humano.
+## History
+### Creation
+Seons were created by the Splintering of [[Devotion\|Devotion]], a [[Shard of Adonalsium\|Shard of Adonalsium]]. [[Odium\|Odium]] traveled to [[Sel\|Sel]] and killed both [[Aona\|Aona]] and [[Skai\|Skai]], the [[Vessel\|Vessels]] of Devotion and [[Dominion\|Dominion]]. After they were killed, the power of their Shards was left in the [[Cognitive Realm\|Cognitive Realm]] and formed the [[Dor\|Dor]]. The seons were bits of Devotion's magic that became sapient. They had counterparts formed from Dominion's magic known as the [[Skaze\|skaze]], and there were some similarities between the two groups. The presence of the uncontrolled power of two Shards made the Cognitive Realm on Sel extremely dangerous, as the seons and skaze did not provide an adequate "release valve", unlike the [[Spren\|spren]] on [[Roshar\|Roshar]].
+The people of [[Opelon\|Opelon]] and [[Teod\|Teod]] did not know the true origin of the seons. The most common assumption was that they were created by Elantrians through AonDor, despite a lack of documented proof. Raoden realized that this might be inaccurate, and planned to continue researching the origin of seons. The seons themselves had some awareness of their origin, but they were not known to have shared this information with any humans.
 
-  Seones flotando sin rumbo tras el Reod
-### El Reod
-[[El Reod\|El Reod]] tuvo un efecto significativo en la magia utilizada en Arelon, incluidos los seones. Interrumpió la conexión elantrina con el Dor y corrompió [[La Shaod\|la Shaod]]. Los seones elantrinos perdieron su capacidad de pensamiento, vagando sin rumbo y en silencio entre los muros de Elantris. Solían evitar a la gente y sus movimientos eran perezosos y a veces vacilantes. El cambio en los seones de los elantrinos fue causado por el efecto del Reod en la Conexión con sus amos.  En raras ocasiones, un seón loco puede mostrar cierto reconocimiento inconsciente de su amo elantrino, pero sólo a través de acciones típicamente determinadas, no a través de la comunicación.  Además, si se inspecciona de cerca, el [[Aon\|aon]] de un seon que había perdido a su maestro por la Shaod parecería desigual e incompleto.
-Los seones que no estaban ligados a un elantrino no se veían afectados por el Reod. Durante esta época (y posiblemente antes) el [[Wyrn (t%C3%ADtulo)\|Wyrn]] [[Wulfden IV\|Wulfden IV]] utilizaba seones para comunicarse con sus [[Gyorn\|gyorns]], un secreto embarazoso y muy bien guardado. No se sabe cómo el Wyrn y los [[Derethi\|Derethi]] obtuvieron sus seones.
-Tras la restauración de la magia de Elantris, los seones locos recuperaron la cordura y volvieron a su estado anterior.  Sin embargo, fueron incapaces de recordar el tiempo transcurrido y puede que la experiencia les cambiara radicalmente.
+  Seons floating aimlessly after the Reod
+### The Reod
+The [[Reod\|Reod]] had a significant effect on the magic used in Arelon, including seons. The Reod disrupted the Elantrian connection to the Dor and corrupted the [[Shaod\|Shaod]]. Seons of Elantrians lost their thinking capacity, wandering aimlessly and silently within the walls of Elantris. These seons usually avoided people and their movements were lazy and sometimes wobbly. The change in the seons of Elantrians was caused by the Reod's effect on the Connection to their masters. Infrequently, a mad seon might show some unconscious recognition of its Elantrian master, but only through classically conditioned actions, not communication. Additionally, if closely inspected, the [[Aon\|Aon]] of a seon who had lost its master to the Shaod would appear patchy and incomplete.
+Seons that were not bound to an Elantrian were unaffected by the Reod. During this time (and possibly earlier) [[Wyrn (title)\|Wyrn]] [[Wulfden the Fourth\|Wulfden the Fourth]] used seons to communicate with his [[Gyorn\|gyorns]], an embarrassing and closely guarded secret. It is not known how Wyrn and the [[Derethi\|Derethi]] obtained their seons.
+Upon the restoration of Elantris's magic, the mad seons recovered their sanity and returned to their former state. However, they were unable to remember the time that passed and they may have been fundamentally changed by the experience.
 
-### En Roshar
->“*Se… supone que debo quedarme. No debería hablar. Con vosotros. Con nadie.*”
-\-Ala, a Shallan[13]
+### On Roshar
+>“*I'm … supposed to stay. I’m not supposed to talk. To you. To anyone.*”
+\-Ala, to Shallan[9]
 
 
-Alrededor de 1167, Shallan usó un seón desconocido. Sin embargo, no lo tenía en 1172.
-Los [[Sangre Espectral\|Sangre Espectral]] fueron capaces de traer al menos dos seones a [[Roshar\|Roshar]] por medios desconocidos. [[Ala\|Ala]] fue mantenida en cautiverio y entregada a [[Shallan Davar\|Shallan Davar]] dentro de un cubo especial para ser utilizada como dispositivo de comunicación con [[Mraize\|Mraize]], que poseía un seón desconocido. Ala, que parecía traumatizada por los Sangre Espectral, fue liberada con el tiempo por Shallan con ayuda de [[Kalak\|Kalak]]. [[Hoid\|Hoid]], que también estaba en Roshar durante este tiempo, poseía su propio seon desconocido que utilizó para comunicarse con [[Patr%C3%B3n\|Patrón]] a través de Ala. Tras la liberación de esta, Hoid informó a Shallan de la naturaleza de los seones y de la rareza de encontrar uno que no estuviera ligado a alguien. Ala se quedó con Shallan.
+Around 1167, Shallan used an unknown seon. However, she did not have it by 1172.
+The [[Ghostbloods\|Ghostbloods]] were able to bring at least two seons to [[Roshar\|Roshar]] through unknown means. [[Ala\|Ala]] was kept in captivity and given to [[Shallan Davar\|Shallan Davar]] inside of a special cube for use as a communication device with [[Mraize\|Mraize]], who possessed an unknown seon. Ala, who seemed traumatized by the Ghostbloods, was eventually freed by Shallan with assistance from [[Kalak\|Kalak]]. [[Hoid\|Hoid]], who was also on Roshar during this time, possessed his own unknown seon that he used to communicate with [[Pattern\|Pattern]] through Ala. After Ala was released, Hoid informed Shallan of the nature of seons and the rarity of finding one that was not bound to someone. Ala then remained with Shallan.
 
-## Similitudes con otras Astillas
+## Similarities to Other Splinters
 ### Spren
-Los seones tienen muchas similitudes con los spren que viven en Roshar. Ambos son [[Astilla\|Astillas]] y esencialmente "la misma cosa", pero hay algunas diferencias que no los harían intercambiables. A diferencia de los spren, los seones pueden abandonar Sel y no cambian de apariencia en el Reino Cognitivo; estas diferencias están relacionadas de algún modo con el estado inusual del [[Dor\|Dor]] y los "extraños" sistemas mágicos de Sel. Los seones no son tan comunes como los spren, ya que se limitan a un único individuo por cada aon. Ambas entidades pueden vincular a los humanos, y el vínculo Nahel con un spren teóricamente puede transmitirse como un vínculo seon. Al igual que los spren, los seones pueden convertirse en [[Hoja esquirlada\|hojas esquirladas]] si tienen algo que los atraiga más hacia el [[Reino F%C3%ADsico\|Reino Físico]]. Tampoco pueden ser asesinados por una hoja esquirlada. Pueden usarse para construir un [[Fabrial\|fabrial]], y la naturaleza de los aones en el seon influiría en el tipo de fabrial que podría hacerse.
+Seons have many similarities to the spren that live on Roshar. They are both [[Splinter\|Splinters]] and essentially "the same thing", but there are some differences that would not make them interchangeable. Unlike spren, seons can leave Sel and do not change appearance in the Cognitive Realm; these differences are somehow related to the unusual state of the [[Dor\|Dor]] and Sel's "odd" magic systems. Seons are not as common as spren, as they are limited to a single individual for each Aon. Both entities can bond with humans, and the Nahel bond with a spren can theoretically be Passed like a seon bond. Like spren, seons can turn into [[Shardblade\|Shardblades]] if they have something to pull them more into the [[Physical Realm\|Physical Realm]]. They can also not be killed by a Shardblade. Seons could be used to build a [[Fabrial\|fabrial]], and the nature of the Aon in the seon would influence what kind of fabrial could be made.
 
 ### Skaze
-Los seones están estrechamente relacionados con los [[Skaze\|skaze]] que también se encuentran en Sel. Ambos son Astillas sapientes, pero los skaze son de [[Dominio\|Dominio]] y no de [[Devoci%C3%B3n\|Devoción]]. Al igual que los seones, los skaze podrían utilizarse teóricamente para crear una [[Hoja esquirlada\|hoja esquirlada]] o construir un [[Fabrial\|fabrial]]. Aparecen como bolas de luz flotantes y poseen personalidades humanas únicas. Sin embargo, los skaze brillan con una luz oscura, casi "negativa", y están rodeados por un anillo de símbolos, en lugar de tener uno en su centro. También presentan rasgos de personalidad, como el sarcasmo, que no se han visto en los seones, e incluso podrían considerarse "malvados".
-Aunque los orígenes tanto de los seones como de los skaze no están claros, los eruditos de [[Luzdeplata\|Luzdeplata]] los clasifican juntos y es probable que se crearan en circunstancias similares. Los skaze son influyentes en [[Fjordell\|Fjordell]] y no suelen verse ni mencionarse en Arelon o Teod.
+Seons are closely related to the [[Skaze\|skaze]] that are also found on Sel. They are both sapient Splinters, with the skaze being of [[Dominion\|Dominion]] rather than [[Devotion\|Devotion]]. Like seons, skaze could theoretically be used to create a [[Shardblade\|Shardblade]] or build a [[Fabrial\|fabrial]]. They each appear as floating balls of light and possess unique humanlike personalities. However, skaze glow with a dark, almost "negative" light and are surrounded by a ring of symbols, rather than having one at their center. They also exhibit personality traits like sarcasm that have not been seen in seons, and could even be considered "evil".
+Although the origins of both seons and skaze are unclear, they are categorized together by the scholars of [[Silverlight\|Silverlight]] and were likely created under similar circumstances. The skaze are influential in [[Fjordell\|Fjordell]] and are not commonly seen or even mentioned in Arelon or Teod.
 
-## Seones destacados
-Para una lista completa de los seones, ver Categoría:Seones.
+## Notable Seons
+For a complete list of seons, see Category:Seons.
 [[Ashe\|Ashe]]
 [[Ien\|Ien]]
-[[Seon de Hrathen\|Seon de Hrathen]]
+[[Hrathen's seon\|Hrathen's seon]]
 [[Dio\|Dio]]
 [[Ala\|Ala]]
 [[Dao\|Dao]]
-## Curiosidades
-Los seones se inspiraron en una serie de cuadros de Michael Whelan titulada *Passage*. Brandon vio los cuadros en el instituto y escribió una historia sobre bolas de luz, que más tarde se convirtieron en los seones. Los cuadros pueden verse en el sitio web de Michael Whelan .
-En un borrador anterior de *Elantris*, los seones poseían la habilidad de "completar" sus aones una sola vez, cuando se les mata, creando el efecto que su aon representa en el AonDor. Ien dirigió esta habilidad hacia Dilaf, "curándolo"; como el aon de Ien aún estaba incompleto, esto convirtió a Dilaf en un elantrino caído. Brandon utilizó algunos elementos de este mecanismo en *[[El aliento de los dioses\|El aliento de los dioses]]* con la habilidad de los [[Retornado\|Retornados]] de sacrificar su [[Aliento Divino\|Aliento Divino]].
-Los orígenes de los seones y su conexión con el AonDor se explorarán más a fondo en una secuela de Elantris.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-Este artículo estaba completo y revisado , pero tras la publicación de *[[El metal perdido\|El metal perdido]]*, ahora necesita volver a revisarse.
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] ·  · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+Seons were inspired by a series of paintings by Michael Whelan called *Passage*. Brandon saw the paintings in high school and wrote a story involving balls of light, which later became the seons. The paintings can be seen on Michael Whelan's .
+In an earlier draft of *Elantris*, seons possessed the ability to 'complete' their Aons a single time, creating the effect that their Aon represents in AonDor while killing the seon. Ien targeted this ability on Dilaf, 'healing' him; since Ien's Aon was still incomplete, this turned Dilaf into a fallen Elantrian. Brandon used some elements of this mechanism in *[[Warbreaker\|Warbreaker]]* with the [[Returned\|Returned's]] ability to sacrifice their [[Divine Breath\|divine Breath]].
+The origins of seons and their connection to AonDor will be explored further in a sequel to Elantris.
 
 
-
-https://es.coppermind.net/wiki/Seon
+https://coppermind.net/wiki/Seon

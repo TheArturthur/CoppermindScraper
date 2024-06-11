@@ -1,137 +1,119 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gaz**|
 |-|-|
 ||
-|**Nacido en**|1140s|
-|**Capacidades**|[[Orden de los Tejedores de Luz\|Tejedor de Luz]]|
-|**Oficio**|Sargento en las cuadrillas de los puentes, Guardaespaldas|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ , [[La Corte Inadvertida\|La Corte Inadvertida]]🐱︎, Ejército de Sadeas |
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Born**|1140s|
+|**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
+|**Profession**|Bridge Sergeant, Bodyguard|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]], Sadeas army |
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Gaz** es un [[Orden de los Tejedores de Luz\|Tejedor de Luz]] y miembro de [[La Corte Inadvertida\|La Corte Inadvertida]] en [[Roshar\|Roshar]]. Era el sargento a cargo de las [[Cuadrilla del puente\|cuadrillas de los puentes]] en el [[/wiki/Llanuras Quebradas#Campamentos de guerra]] de Sadeas.
+**Gaz** is a [[Order of Lightweavers\|Lightweaver]] and a member of the [[Unseen Court\|Unseen Court]] on [[Roshar\|Roshar]].
+He was the sergeant in charge of the [[Bridge crew\|bridge crews]] in [[Shattered Plains\|Sadeas's warcamp]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Moldear almas]] 
-2. [[#Tejer Luz]] 
+2. [[#Soulcasting]] 
+2. [[#Lightweaving]] 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
-3. [[#Carreras de los puentes durante la guerra de la Venganza]] 
-3. [[#Guardaespaldas de Shallan]] 
+3. [[#The Bridge runs at the War of Reckoning]] 
+3. [[#Shallan.27s Bodyguard]] 
 3. [[#Urithiru]] 
-3. [[#Caballero Radiante]] 
+3. [[#Knight Radiant]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Kaladin]] 
 4. [[#Shallan]] 
 
 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Para más imágenes, ver [[Gaz/Galer%C3%ADa\|/Galería]].
-Gaz tiene barba, pero su cara está llena de cicatrices, por lo que solo le crece a trozos. Es muy bajo para ser un hombre alezi. En algún momento Gaz perdió un ojo, pero se desconoce cómo. El ojo que le queda es marrón. Gaz no llevaba un parche sobre el ojo que le faltaba hasta que se unió a la banda de desertores. Era un ojos oscuros de sexto nahn. Al convertirse en Tejedor de Luz, utilizó la [[Luz tormentosa\|luz tormentosa]] para hacer crecer de nuevo el ojo que le faltaba.
-No le gustaba su papel en el campamento de Sadeas, ya que era el responsable de mucho sufrimiento. Se odiaba a sí mismo por ello, pero se había odiado durante mucho tiempo y se había acostumbrado a la idea de que era necesario para sobrevivir.
-Pero cuando se unió a la cuadrilla de [[Shallan\|Shallan]] cambió, ya que quería convertirse en un hombre mejor y empezar de cero. Encontró su sentido del humor y se volvió leal a ella. Más adelante, en Urithiru, perdió su buen humor y se sintió inútil. No estaba contento por ello.
+For more images, see [[Gaz/Gallery\|/Gallery]].
+Gaz has a beard, but his face is scarred, so it only grows in patches. He is very short for an Alethi man. At some point Gaz lost an eye, but it is unknown how. His remaining eye is brown. Gaz did not wear an eyepatch over his missing eye until he joined the crew of deserters. He was a darkeyes of the sixth nahn. Upon becoming a Lightweaver, he used [[Stormlight\|Stormlight]] to regrow his missing eye.
+He didn't like his role in the Sadeas camp, since he was responsible for so much suffering. He hated himself for it, but he'd hated himself for a long time and got used to the idea that it was needed for him to survive.
+Once he joined [[Shallan\|Shallan's]] crew, he changed; he did want to become a better man and start over. He found his sense of humor and became loyal to her. Later, at Urithiru, he lost his good mood and felt useless. He was not happy about that.
 
-## Características y habilidades
-Como Tejedor de Luz, Gaz puede utilizar las Potencias de **Iluminación** y **Transformación**.
+## Attributes and Abilities
+As a Lightweaver, Gaz can use the Surges of **Illumination** and **Transformation**.
 
-### Moldear almas
-El [[Moldeador de almas\|moldeador de almas]] entra (o lo hace parcialmente) en el [[Reino Cognitivo\|Reino Cognitivo]] para convencer a la conciencia de un objeto de que cambie de material, transformándolo en otra cosa si tiene éxito. Algunas transformaciones son más sencillas que otras, y las más complicadas requieren un potenciador más hábil y más [[Luz tormentosa\|luz tormentosa]].
+### Soulcasting
+The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].
 
-### Tejer Luz
-Los [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] se dedican a las ilusiones. Ello, implica la manipulación de ondas de sonido o luz y tiene un fuerte componente [[Reino Espiritual\|espiritual]], lo que requiere algo de [[Conexi%C3%B3n\|Conexión]] y una imagen mental completa de la ilusión deseada.
+### Lightweaving
+[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
 
-## Historia
+## History
  
-### Carreras de los puentes durante la guerra de la Venganza
-Gaz era un sargento responsable de los hombres de los puentes en el campamento de guerra de Sadeas. Se encargaba de traer nuevos reclutas para completar los diferentes equipos de los puentes debido a las constantes bajas que sufrían. También era responsable de asegurarse de que cumplen con sus obligaciones, guiándolos en sus recorridos y mostrándoles el camino. Tenía que asegurarse de que se mantuviera el orden y de que se cumplieran las normas.
-Las reglas para las cuadrillas de los puentes estaban diseñadas principalmente para mantenerlos decaídos y desesperados, pero también incluían algunos estímulos simples como la rotación de las posiciones en el puente para evitar que se enfadaran demasiado. Uno de ellos era mirar por encima del hombro al grupo del puente con peor «suerte¯, que era el Puente Cuatro. Cuando Kaladin se incorporó y empezó a dirigir la cuadrilla como un verdadero equipo, cambió el equilibrio entre los grupos del puente y provocó el resentimiento de los demás. Kaladin convenció a Gaz de que, para evitar el odio de los demás, podía cambiar sus deberes a una tarea más dura (la recogida de piedras). Gaz aceptó, pero estaba convencido de que lo habían engañado (y estaba en lo cierto), así que aumentó el «castigo» y les asignó tareas en los abismos. Lamaril era el superior inmediato de Gaz y un ojos claros de bajo rango que le estaba chantajeando. Aunque Gaz había utilizado los sobornos de Kaladin para adelantarse al pago, Lamaril le amenazó con convertirle en hombre del puente si no detenía a Kaladin y los cambios de ánimo del Puente Cuatro. Gaz aceptó acabar con Kaladin sin convertirlo en un mártir.
-Encontró la oportunidad cuando vio a Kaladin practicar la carga lateral con el Puente Cuatro. Sabía que esta táctica sería un desastre y animó a Kaladin a utilizarla. Cuando el Puente Cuatro la puso en práctica durante la batalla, sobrevivieron, pero desbarataron la estrategia general de Sadeas e hicieron que los alezi perdieran la batalla. Lamaril y Gaz estuvieron a punto de matar a Kaladin al instante, pero éste les convenció de que tenía más valor para ellos vivo. Por su parte, Lamiril ordenó a sus soldados que golpearan a Kaladin.
-Las consecuencias de la batalla fueron nefastas para todos. Los alezi no solo perdieron la batalla, sino que también murieron más de 200 hombres de los puentes, Lamaril fue ejecutado y Kaladin fue condenado a ser colgado durante una [[Alta tormenta\|alta tormenta]].
-El brillante señor Matal se hizo cargo de las obligaciones de Lamaril y su esposa Hashal tomó el mando y se convirtió en la superior inmediata de Gaz. Lo trataron aún peor, quitándole el mando y sus funciones.
-Un día Gaz dejó de aparecer por los campamentos de guerra, y nadie en los campamentos parecía saber dónde estaba.
+### The Bridge runs at the War of Reckoning
+Gaz was a bridge sergeant responsible for the bridgemen at the Sadeas warcamp. He takes new recruits to fill the different bridge teams due to constant loss. He is also responsible for making sure they do their duties, leading them to their bridge runs and showing them the way. He had to make sure order was kept and that the rules are followed.
+The rules for bridge crews were primarily made to keep them down and in despair, but also included some simple encouragements like rotation of the bridge positions to keep them from becoming too angry. One of those was looking down on the bridge group with the worst "luck", which was Bridge Four. When Kaladin joined and began leading the crew like a real team, he changed the balance between bridge crews and caused resentment among the others. Kaladin convinced Gaz that to avoid being hated by others, he could change their duties to a harder task (stone gathering). Gaz accepted but was convinced he had been tricked (which he had) and then increased the "punishment" to chasm duty.
+Lamaril was Gaz's immediate superior and a low-ranked lighteyes who was blackmailing him. Though Gaz had used Kaladin's bribes to stay ahead of payment, Lamaril threatened to make him a bridgeman if he did not stop Kaladin and the changes in spirit of Bridge Four. Gaz agreed to bring Kaladin down without making him a martyr.
+He found the opportunity when he saw Kaladin practicing the side carry with Bridge Four. He knew disaster would come as a result of the tactic and encouraged Kaladin to use it. When Bridge Four used it in battle, they did survive, but they disrupted Sadeas's overall strategy and caused the Alethi to lose the battle. Lamaril and Gaz nearly killed Kaladin immediately, but Kaladin convinced them that he had more value to them alive; Lamiril ordered his soldiers to beat up Kaladin instead.
+The consequences of the battle were bad for everyone. Not only did the Alethi lose the battle, but also over 200 bridgemen died, Lamaril was executed, and Kaladin was punished by being strung up during a [[Highstorm\|highstorm]].
+Brightlord Matal took over Lamaril's duty and his wife Hashal took command and became Gaz's immediate superior. He was treated even worse, taking command and duties from him.
+One day Gaz stopped showing up in the warcamps, and no one in the camps seemed to know where he was.
 
-  Sentado al lado de una carreta tras desertar
-### Guardaespaldas de Shallan
-[[Shallan\|Shallan]] encuentra a Gaz junto a un grupo de desertores en las [[Tierras Heladas\|Tierras Heladas]]. Había huido de los campamentos de guerra por diversas deudas con cobradores de deudas. Ella les anima a convertirse en mejores hombres y a empezar de nuevo ayudando a la gente de la caravana con la que viajaba, que estaba siendo atacada por bandidos. Gaz es el primero en unirse a ella, deseando tener un nuevo comienzo y convertirse en un hombre mejor.
-Tras la batalla, se quedaron con la chica con la promesa de protección y un nuevo comienzo. parecía realmente feliz y se volvió muy servil con Shallan, incluso odreciéndose a trabajar en una ventana para su carromato. Cuando se enfrentó a la posibilidad de que ella no pudiera protegerlo, decidió que era mejor que vivir como un desertor.
-Cuando llegaron a las Llanuras Quebradas, Shallan les consiguió una orden de indulto sellada por el propio rey. Se unió a ella y al resto de su cuadrilla en el campamento de Sebarial. Siguió siéndole leal y realizando tareas sencillas para ella, como visitar bibliotecas en busca de libros o acompañarla en sus viajes.
+  Sitting next to a wagon after deserting
+### Shallan's Bodyguard
+[[Shallan\|Shallan]] encounters Gaz with a group of deserters in the [[Frostlands\|Frostlands]]. He had fled the warcamps due to unspecified debts to debtmongers. She urges them to become better men and start over by helping the people in the caravan she was traveling with, who were being attacked by bandits. Gaz is the first one to join her, wanting to have a fresh start and become a better man.
+After the battle ended, they stayed with her under the promise of protection and a fresh start. Gaz looked genuinely happy and became very servile towards Shallan, even working on a window for her wagon. When confronted with the possibility of her not being able to protect him, he decided it was better than life as a deserter.
+When they got to the Shattered Plains, Shallan got them a writ of pardon sealed by the king himself. He joined her and the rest of her crew to Sebarial's camp. He continued being loyal to her and did simple tasks like visiting libraries searching for books or accompanying her on her travels.
 
 ### Urithiru
-Durante su estancia en Urithiru, Shallan no prestó mucha atención a sus guardias y cuadrilla. Perdieron la ilusión y se volvieron perezosos. Fue Adolin quien empezó a darles tareas para que se sintieran útiles. Por desgracia, Shallan no se lo creyó y siguió ignorándolos. La cuadrilla se redujo a doce. Gaz estaba entre los que se quedaron, pero se dedicó a jugar a las cartas.
-Cuando finalmente Shallan se dio cuenta de que podía utilizarlos y de que ellos necesitaban trabajar, les pidió que la ayudaran a espiar. Sin revelar su identidad, les acompañó como Velo. Aunque las tareas no duraron mucho, siguió visitándoles. Estaba claro que a Gaz le seguía gustando apostar y habría vuelto a arruinarse si su cuadrilla no le hubiera controlado. Más adelante, Velo utilizó a [[Ishnah\|Ishnah]] para formar a Gaz, [[Rojo (Roshar)\|Rojo]] y [[Vathah\|Vathah]] en el espionaje. Este grupo acabó convirtiéndose en [[La Corte Inadvertida\|La Corte Inadvertida]].
+During their stay in Urithiru, Shallan did not pay much attention to her guards and crew. They lost the spark and became lazy. It was Adolin who started giving them duties to help them feel useful. Unfortunately, Shallan didn't buy into it and kept ignoring them. The crew went down to 12. Gaz was among the ones who stayed, but he just spent his time playing cards.
+When Shallan finally realized she could use them and they needed the tasks, she asked them to help her to spy. Without telling them her identity, she accompanied them as Veil. Though tasks didn't last long, she continued to visit them. It was clear Gaz still liked gambling and would have gone broke again if his crew was not controlling him. Later Veil used [[Ishnah\|Ishnah]] to train Gaz, [[Red (Roshar)\|Red]] and [[Vathah\|Vathah]] in spying. This group eventually became the [[Unseen Court\|Unseen Court]].
 
-### Caballero Radiante
-Gaz y [[La Corte Inadvertida\|La Corte Inadvertida]] se infiltraron en el campamento de guerra de [[Ialai Sadeas\|Ialai Sadeas]]. Tras capturar a Ialai, Gaz y Rojo registraron su habitación y descubrieron cuadernos y cartas manuscritas.
-Gaz estaba presente en [[Urithiru\|Urithiru]] durante la invasión de los [[Cantor\|cantores]].
+### Knight Radiant
+Gaz and the [[Unseen Court\|Unseen Court]] embedded themselves in [[Ialai Sadeas\|Ialai Sadeas's]] warcamp. After they captured [[Ialai\|Ialai]], Gaz and Red searched her bed chamber and uncovered handwritten notebooks and letters.
+Gaz was present in [[Urithiru\|Urithiru]] during the [[Singer\|singer]] invasion.
 
-## Relaciones
+## Relationships
  
 ### Kaladin
-Gaz conoció a Kaladin cuando llegó a las Llanuras Quebradas como esclavo. Kaladin intentó explicarle que había sido soldado, con la esperanza de convertirse en soldado allí también, pero Gaz se burló de él y empezó a llamarle «alteza». Kaladin lo despreciaba por no cuidar a los hombres de los puentes ni proporcionarles el equipo adecuado. Gaz sintió lo mismo por Kaladin por no haber muerto en la primera carrera del puente.
-Cuando Kaladin fue al abismo para suicidarse, se encontró con Gaz, que le mostró simpatía y respeto, pero le pidió que dejara su chaleco y sus sandalias. Sin embargo, cuando regresó, amenazó a Gaz afirmando que acababa de morir y que no podía ser dañado, por lo que exigió convertirse en el líder del puente, le pidió su salario y le sobornó con un marco de cada cinco por su esfuerzo de «no estorbarle». Después de eso, Gaz se pone blanco cada vez que Kaladin se acerca a él, pero es manipulado lo que le da a Kaladin el espacio que necesitaba.
-Aunque necesitaba los sobornos, su superior inmediato, Lamaril, le obligó a hundir a Kaladin, lo que acabó provocando que Kaladin fuera colgado durante una alta tormenta. Cuando Gaz regresó como guardaespaldas de Shallan, él y Kaladin volvieron a verse. Kaladin seguía enfadado y Gaz avergonzado.
+Gaz met Kaladin when he was brought to the Shattered Plains as a slave. Kaladin tried to explain he had been a soldier, hoping to become one here, but Gaz made fun of him and started calling him "Lordling". Kaladin despised him for not looking over the bridgemen or providing them with the proper gear. Gaz felt the same for Kaladin for not dying in the first bridge run.
+When Kaladin went to the chasm to commit suicide, he met Gaz, who did show him sympathy and deference, but asked him to leave his vest and sandals. When he came back though, he threatened Gaz stating he had just died and could not be harmed, thus demanding to become bridge leader, asked for his wages and bribed him with one mark out of five for his efforts of "staying out of his way". After that, Gaz goes white every time Kaladin goes closer to him but is manipulated giving Kaladin the space he needed.
+Though he needed the bribes, he was forced by his immediate superior Lamaril to bring Kaladin down, which ended up causing the latter to be hung up during a highstorm. When Gaz came back as Shallan's bodyguard, he and Kaladin saw each other again. Kaladin was still angry and Gaz ashamed.
 
 ### Shallan
-Shallan fue capaz de sacar lo mejor de Gaz. Le animó para que se convirtiera en un hombre mejor. Se volvió verdaderamente leal a ella y se sintió orgulloso de conseguir cosas para ella. Cuando Gaz vio el retrato que ella hizo de él, derramó una lágrima.
+Shallan was able to get the best out of Gaz. She inspired him to become a better man. He became truly loyal to her and felt pride on getting things done for her. When Gaz saw the portrait she made of him, he shed a tear.
 
 >“*She tidied up his uniform, smoothing out his paunch, taking liberties with his chin. Most of the difference, however, had to do with the expression. Looking up, into the distance. With the right expression, that eye patch became noble, that scarred face became wise, that uniform became a mark of pride. She filled it in with some light background details reminiscent of that night beside the fires, when the people of the caravan had thanked Gaz and the others for their rescue.*”
-\-Acciones y pensamientos de Shallan mientras hace su retrato.[29]
+\-Shallan's actions and thoughts when making his portrait.[29]
 
 
-## Citas
->“*Qué grupo tan patetico.*”
-\-Gaz cada vez que llegan nuevos reclutas.[4]
+## Quotes
+>“*What a sorry lot.*”
+\-Gaz every time he got new recruits.[4]
 
 
->“*Me odio a mí mismo por ser parte de esto. Pero llevaba ya mucho tiempo haciéndolo.*”
-\-Gaz para sí mismo pensando en su rol como sargento de las cuadrillas de los puentes.[8]
+>“*I hate myself for being a part of this. But he'd hated himself for a long time now.*”
+\-Gaz to himself on thinking on his role as bridge crew sergeant.[8]
 
 
->“*A mí me gustó ser útil. Me recordó a los primeros tiempos después de alistarme. Dile eso, Velo. Dile que nos dé algo que hacer aparte de apostar y beber. Porque para ser sincero, no se me da muy bien ninguna de las dos cosas.*”
-\-Gaz a Velo sobre pedirle a Shallan que les asigne tareas.[10]
+>“*I liked being useful. Reminded me of back when I first joined up. You tell her, Veil. Tell her to give us something to do other than gambling and drinking. Because to be honest, I ain't very good at either one.*”
+\-Gaz to Veil on asking Shallan to give them tasks.[10]
 
 
-## Curiosidades
-Gaz fue creado para mostrar que la perspectiva a través de la cual se ve y percibe a alguien cambia mucho lo que realmente es.
-Gaz tiene más o menos la misma edad que [[Jasnah Kholin\|Jasnah Kholin]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+Gaz was created to show that the light through which someone is seen and perceived changes a lot of who they are.
+Gaz is around the same age as [[Jasnah Kholin\|Jasnah Kholin]].
 
 
-
-https://es.coppermind.net/wiki/Gaz
+https://coppermind.net/wiki/Gaz

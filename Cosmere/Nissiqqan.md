@@ -1,43 +1,22 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nissiqqan**|
 |-|-|
-|**Oficio**|Escriba|
-|**Residencia**|[[Yeddaw\|Yeddaw]]|
-|**Nacionalidad**|[[De Tashikk\|de Tashikk]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|
+|**Profession**|Scribe|
+|**Residence**|[[Yeddaw\|Yeddaw]]|
+|**Nationality**|[[Tashikki\|Tashikki]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Edgedancer (novella)\|Edgedancer]]*|
 
-**Nissiqqan** es un escriba en la ciudad de [[Yeddaw\|Yeddaw]] en [[Tashikk\|Tashikk]], [[Roshar\|Roshar]]. Es el escriba suplente de inmigración que está de guardia en el puesto de [[Hauka\|Hauka]] el día que [[Lift\|Lift]] llega a la ciudad.
+**Nissiqqan** is a scribe in the city of [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] on [[Roshar\|Roshar]]. He is the deputy scribe of immigration on duty at [[Hauka\|Hauka's]] post on the day that [[Lift\|Lift]] arrives at the city.
 
-## Apariencia y personalidad
-Es un hombre mayor con la cara arrugada y la barbilla hendida. Se lo ve con gafas y una [[Shiqua\|shiqua]] amarilla, llevando carpetas con diversos formularios y documentos. Le gusta estar al sol. Es un gran conocedor de los impuestos y ordenanzas locales, pero está dispuesto a pasar por alto los delitos menores si se pagan las reparaciones oportunas. Muestra cierta benevolencia en su preocupación por los refugiados.
-Tiene algunas [[Esferas\|esferas]] infundidas, que son raras en la zona en ese momento; Hauka planea intercambiarle alguna información interesante por las esferas para poder leer por la noche.
+## Appearance and Personality
+He is an older man with a furrowed face and a cleft chin. He is seen wearing glasses and a yellow [[Shiqua\|shiqua]], and carries folders containing various forms and documents. He likes to be out in the sun. He is very knowledgeable regarding local taxes and ordinances, but is willing to overlook petty crimes if appropriate reparations are paid. He displays a measure of benevolence in his concern for refugees.
+He has some infused [[Spheres\|spheres]], which are rare in the area at the time; Hauka plans to trade him some interesting information for the spheres so that she can read at night.
 
-## Historia
-Él y Hauka revisaron los papeles de un granjero inusualmente bien vestido, y llegaron a la conclusión de que en realidad estaba introduciendo grano de contrabando que fue asaltado en [[Emul\|Emul]]. Nissiqqan sugirió una tarifa triple, cuyo dinero se destinaría a ayudar a alimentar a los refugiados.
-Lift apareció de repente; pasó rozándole mientras esquivaba a Hauka, y él dejó caer sus carpetas.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 19:28, 26 January 2019 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+He and Hauka reviewed an unusually well-dressed farmer's papers, and concluded that he was actually smuggling in grain that was raided in [[Emul\|Emul]]. Nissiqqan suggested a triple tariff, with the money going to help feed refugees.
+Lift suddenly appeared; she brushed past him while evading Hauka, and he dropped his folders.
 
 
 
-https://es.coppermind.net/wiki/Nissiqqan
+https://coppermind.net/wiki/Nissiqqan

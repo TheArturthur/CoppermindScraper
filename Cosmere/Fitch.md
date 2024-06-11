@@ -1,18 +1,18 @@
 |**Fitch**|
 |-|-|
-|**Poderes**|[[Rithm%C3%A1tica\|Rithmática]]|
-|**Oficio**|Professor|
-|**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Powers**|[[Rithmatics\|Rithmatics]]|
+|**Profession**|Professor|
+|**Residence**|[[Armedius Academy\|Armedius Academy]]|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 >“*I just . . . well, you know how I am about confrontation.*”
 \-Fitch to Principal York[1]
 
 
-**Fitch** is a professor of  at . He teaches a Rithmatics class until [[Nalizar\|Nalizar]] beats him in a duel and takes his place, relegating him to tutoring professor. Afterwards, [[Melody Muns\|Melody Muns]] is assigned to his remedial Rithmatics class. He is also tasked by [[Thomas York\|Principal York]] with investigating the disappearances of the students that the  kidnapped. [[Joel Saxon\|Joel Saxon]] acts as his research assistant.
+**Fitch** is a professor of [[Rithmatics\|Rithmatics]] at [[Armedius Academy\|Armedius Academy]]. He teaches a Rithmatics class until [[Nalizar\|Nalizar]] beats him in a duel and takes his place, relegating him to tutoring professor. Afterwards, [[Melody Muns\|Melody Muns]] is assigned to his remedial Rithmatics class. He is also tasked by [[Thomas York\|Principal York]] with investigating the disappearances of the students that the [[Scribbler\|Scribbler]] kidnapped. [[Joel Saxon\|Joel Saxon]] acts as his research assistant.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -52,7 +52,7 @@ Fitch spent only a few weeks on the front line at [[Nebrask\|Nebrask]], instead 
 
 ### Armedius Academy
 #### Before Nalizar's Challenge
-Fitch worked as a full professor at  teaching defensive Rithmatics to the Rithmatic students.
+Fitch worked as a full professor at [[Armedius Academy\|Armedius Academy]] teaching defensive Rithmatics to the Rithmatic students.
 
 #### Nalizar's Challenge
 A few days before the start of summer, Professor Fitch is challenged by [[Andrew Nalizar\|Andrew Nalizar]]. Initially stunned by the prospect of a duel, Fitch draws an Easton Defence, which he had been teaching the class. It is a poor defense for a one-on-one duel and the stress causes his hands to shake and him to draw an outer circle lopsided. Nalizar is able to defeat him in the duel, giving himself the rank of tenured professor and demoting Fitch to a tutoring professor. The whole class, including Joel Saxon, who is secretly sitting on the stairs, witnesses Fitch's defeat.
@@ -65,15 +65,6 @@ A few days before the start of summer, Professor Fitch is challenged by [[Andrew
 Now working as a tutoring, Professor Fitch is assigned Melody as a remedial student and starts investigating the recent disappearances of students for Principal York, with Joel acting as his research assistant.. He is instrumental in the defeat of the Scribbler, dueling it and showing it the inside of a clock at Joel's suggestion.
 
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El rithmatista\|El rithmatista]]**|
-|-|-|
-|**Characters**|[[Joel Saxon\|Joel Saxon]] · [[Melody Muns\|Melody Muns]] ·  · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
-|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
-|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
 
 
-
-https://es.coppermind.net/wiki/Fitch
+https://coppermind.net/wiki/Fitch

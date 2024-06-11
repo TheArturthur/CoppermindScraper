@@ -1,365 +1,347 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Hallandren**|
 |-|-|
 ||
-|**Etnia**|Hallandren|
+|**Ethnicity**|Hallandren|
 |**Capital**|[[T'Telir\|T'Telir]]|
-|**Gobernado por**|Rey-dios [[Susebron\|Susebron]]|
-|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
-> [!info] Esta página o sección mejoraría si se añadiesen imágenes.Por favor, añade una galería de imágenes relacionas con este tema en lugar de este aviso
+|**Ruled by**|God King [[Susebron\|Susebron]]|
+|**World**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+> [!info] This page or section would benefit by the addition of imagesPlease add a gallery of images related to this topic in place of this notice.
 
->“*Se encontraba en Hallandren, no obstante, la tierra de los dioses Retornados, los servidores sinvida, la investigación biocromática y, por supuesto, el color.*”
-\-Vasher.[1]
-
-
-**Hallandren** es el reino más poderoso de [[Nalthis\|Nalthis]]. Su capital es [[T'Telir\|T'Telir]]. Es único por su jungla y las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]], que no crecen en ningún otro lugar. Es el hogar de los [[Tonos iridiscentes\|tonos iridiscentes]] de Hallandren, la religión respaldada y liderada por los [[Retornado\|Retornados]].
-
-## Sumario
-
-1 Etimología. [[#Etimolog.C3.ADa]] 
-2 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-3 Gobierno. [[#Gobierno]] 
-
-3. [[#Teocracia]] 
-
-3. [[#Asamblea de la Corte]] 
-3. [[#Asamblea principal]] 
-3. [[#Territorios]] 
-3. [[#Distritos administrativos]] 
+>“*This, however, was Hallandren: land of Returned gods, Lifeless servants, BioChromatic research, and—of course—color.*”
+\-Vasher[1]
 
 
-3. [[#La monarqu.C3.ADa]] 
+**Hallandren** is the most powerful kingdom on [[Nalthis\|Nalthis]]. Its capital is [[T'Telir\|T'Telir]]. It is unique for its jungle environment and the [[Tears of Edgli\|Tears of Edgli]], which grow nowhere else. It is home to the Hallandren [[Iridescent Tones\|Iridescent Tones]], the religion that supports and is led by the [[Returned\|Returned]].
 
-3. [[#El rey-dios]] 
-3. [[#La reina]] 
-3. [[#Sucesi.C3.B3nn]] 
+## Contents
+
+1 Etymology. [[#Etymology]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+3 Government. [[#Government]] 
+
+3. [[#Theocracy]] 
+
+3. [[#Court Assembly]] 
+3. [[#Main Assembly]] 
+3. [[#Territories]] 
+3. [[#Administrative Districts]] 
 
 
-3. [[#Pol.C3.ADtica exterior y relaciones internacionales]] 
+3. [[#The Monarchy]] 
+
+3. [[#The God King]] 
+3. [[#The Queen]] 
+3. [[#Succession]] 
+
+
+3. [[#Foreign Policy and International Relationships]] 
 
 3. [[#Idris]] 
 3. [[#Tedradel]] 
-3. [[#Los reinos del norte]] 
+3. [[#The Northern Kingdoms]] 
 
 
 
 
-4 Ejército. [[#Ej.C3.A9rcito]] 
+4 Military. [[#Military]] 
 
-4. [[#El ej.C3.A9rcito sinvida]] 
-4. [[#Fantasmas de Kalad]] 
-4. [[#Armamento]] 
+4. [[#The Lifeless Army]] 
+4. [[#Kalad.E2.80.99s Phantoms]] 
+4. [[#Armament]] 
 
-4. [[#Armas de filo]] 
-4. [[#Ropas despertadas]] 
-
-
+4. [[#Bladed weapons]] 
+4. [[#Awakened clothing]] 
 
 
-5 Cultura. [[#Cultura]] 
-
-5. [[#Gente]] 
-
-5. [[#Atletismo]] 
-5. [[#Arte y juegos]] 
 
 
-5. [[#Moda y belleza]] 
-5. [[#Biocroma y despertar]] 
+5 Culture. [[#Culture]] 
 
-5. [[#Alientos y despertar]] 
-5. [[#Los Retornados]] 
-5. [[#Sinvida]] 
+5. [[#People]] 
 
-
-5. [[#Idioma y escritura]] 
-5. [[#Arquitectura]] 
-5. [[#Cocina]] 
-
-5. [[#Comidas]] 
-5. [[#Bebidas]] 
+5. [[#Athleticism]] 
+5. [[#Arts and Games]] 
 
 
-5. [[#Calendario]] 
+5. [[#Fashion and Beauty]] 
+5. [[#Biochroma and Awakening]] 
+
+5. [[#Breaths and Awakening]] 
+5. [[#The Returned]] 
+5. [[#Lifeless]] 
 
 
-6 Religiones. [[#Religiones]] 
+5. [[#Language and Writing]] 
+5. [[#Architecture]] 
+5. [[#Cuisine]] 
 
-6. [[#Los tonos iridiscentes]] 
-6. [[#Austrismo]] 
-6. [[#La fe de Pahn Kahl]] 
-
-
-7 Economía. [[#Econom.C3.ADa]] 
-
-7. [[#El mercado de tinte]] 
-7. [[#Rutas de comercio]] 
-
-7. [[#El mar Brillante]] 
-7. [[#Idris y los reinos del norte]] 
-7. [[#Perpendicularidad y Reino Cognitivo]] 
+5. [[#Foods]] 
+5. [[#Drinks]] 
 
 
-7. [[#Pol.C3.ADtica]] 
-7. [[#Divisa]] 
-7. [[#Agricultura y ganader.C3.ADa]] 
+5. [[#Calender]] 
 
 
-8 Historia. [[#Historia]] 
+6 Religions. [[#Religions]] 
+
+6. [[#The Iridescent Tones]] 
+6. [[#Austrism]] 
+6. [[#The Pahn Kahl Faith]] 
+
+
+7 Economics. [[#Economics]] 
+
+7. [[#The Dye Trade]] 
+7. [[#Trade Routes]] 
+
+7. [[#The Bright Sea]] 
+7. [[#Idris and the Northern Kingdoms]] 
+7. [[#Perpendicularity and the Cognitive Realm]] 
+
+
+7. [[#Politics]] 
+7. [[#Currency]] 
+7. [[#Agriculture and Animal Husbandry]] 
+
+
+8 History. [[#History]] 
 
 8. [[#Hanald]] 
-8. [[#La Multiguerra y findaci.C3.B3n]] 
-8. [[#Los reyes-dioses]] 
+8. [[#The Manywar and Founding]] 
+8. [[#The God Kings]] 
 
-8. [[#El tratado con Idris]] 
-8. [[#La rebeli.C3.B3n Pahn Kahl]] 
-
-
+8. [[#The Treaty With Idris]] 
+8. [[#The Pahn Kahl Rebellion]] 
 
 
-9 Personas destacadas. [[#Personas destacadas]] 
-10 Notas del traductor. [[#Notas del traductor]] 
-11 Notas. [[#Notas]] 
 
 
-## Etimología
-El significado del nombre *Hallandren* es desconocido, pero probablemente proviene de su reino predecesor, [[Hanald\|Hanald]]. El reino también es conocido como *El Reino de la Iridiscencia*. La gente de Hallandren recibe el gentilicio de hallandrenses.
-
-## Geografía y ecología
-  <<Vivenna\|Vivenna>> y compañía entrando en Hallandren
->“*Un paraíso oculto entre las montañas, una tierra con agradables lluvias que nunca eran frías, una tierra donde la comida crecía de manera espontánea y abundante.*”
-\-Hoid contando lo que los chedesh pensaron cuando vieron por primera vez las playas de Hallandren[7]
+9 Notable People. [[#Notable People]] 
+10 Notes. [[#Notes]] 
 
 
- se encuentra en el valle selvático de Nalthis. Es especial en el mundo conocido de Nalthis por ser el único lugar en el que crecen las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]], así como por ser el único clima selvático conocido. El crecimiento de las plantas en esta región se ve favorecido en parte por la [[Investidura\|Investidura]], al igual que en la [[Cuenca de Elendel\|Cuenca de Elendel]]. La selva está habitada por panteras, loros, monos, serpientes y cocodrilos. Partes de la selva se talan para dejar sitio a las tierras de cultivo, donde se producen alimentos y tintes.
-Al este de Hallandren, hay un [[Mar Brillante\|mar]] interior que cuenta con varias islas. Al menos un tercio de la costa está controlado por Hallandren, que tiene su [[T'Telir\|ciudad capital]] construida junto al agua. La zona sufre frecuentes terremotos. Hay montañas al norte de Hallandren, así como hacia el amanecer. Hay una perpendicularidad en la jungla de Hallandren.
-Se dice que los elefantes y las cebras son criaturas exóticas del "sur". No está claro si esto significa que proceden del sur de Hallandren o de la zona sur de Hallandren.
-Los habitantes de Hallandren tienen acceso a buenos vinos, boniatos, higos, nueces y ajo, entre otros alimentos; sin embargo, se desconoce cuánto crece en la zona y cuánto se importa. El mar Brillante está lleno de vida, incluyendo muchas clases de mejillones, peces y criaturas con tentáculos.
+## Etymology
+The meaning of the name *Hallandren* is unknown, but it likely stems from its predecessor kingdom, [[Hanald\|Hanald]]. The kingdom is also known as *The Kingdom of Iridescence*, likely due to the abundance of bright colors. People from Hallandren are called Hallandren.
 
-## Gobierno
->“*—La teocracia de Hallandren es una estructura complicada y repleta de tonterías e inercias burocráticas.*”
+## Geography and Ecology
+  <<Vivenna\|Vivenna>> & co entering Hallandren
+>“*A paradise hidden between the mountains, a land with pleasant rains that never grew cold, a land where succulent food grew spontaneously.*”
+\-Hoid telling what the Chedesh thought when they first landed on Hallandren's beaches[7]
+
+
+Hallandren is located in the jungle valley on Nalthis. It is unique in the known world of Nalthis as being the only place that [[Tears of Edgli\|Tears of Edgli]] will grow, as well as being the only known jungle climate. The growth of plants in this region is partly helped by [[Investiture\|Investiture]], much like the [[Elendel Basin\|Elendel Basin]]. The jungle is inhabited by panthers, parrots, monkeys, snakes, and crocodiles. Parts of the jungle are cleared to make room for cropland, where food and dyes are produced.
+To Hallandren's east, there is an inland [[Bright Sea\|sea]] that features several islands. At least a third of the coastline is controlled by Hallandren, which has its [[T'Telir\|capital city]] built abutting the water. The area suffers frequent earthquakes. There are mountains north of Hallandren, as well as toward the sunrise. There is a perpendicularity located in the Hallandren jungle.
+Elephants and zebras are said to be exotic creatures from "the south." Whether this means they come from southern Hallandren or south of Hallandren is unclear.
+The Hallandren people have access to fine wines, sweet potatoes, figs, nuts, and garlic, among other foods; it is unknown, however, how much grows in the area and how much is imported. The Bright Sea is full of life, including many sorts of mussels, fish, and tentacled creatures.
+
+## Government
+>“*The Hallandren theocracy is a top-heavy structure laden with bureaucratic foolishness and inertia.*”
 \-Vasher[20]
 
 
-### Teocracia
-Hallandren es una teocracia gobernada por la [[Corte de los Dioses\|Panteón]] de los [[Retornado\|Retornados]], encabezado por el [[Rey-dios\|rey-dios]]. La religión detrás de esta teocracia son los tonos iridiscentes. Una religión que venera a los Retornados como dioses, y cree que Retornaron para guiar y bendecir a su pueblo.
-Los [[Retornado\|Retornados]] tienen deberes y votos en asuntos específicos de la ciudad y el imperio. La tarea del sacerdocio consiste generalmente en informar a los dioses de las opiniones del pueblo. El Retornado puede entonces tomar decisiones informadas, que los sacerdotes hacen cumplir. En realidad, los sacerdotes se encargan de la mayoría de las decisiones menores, de modo que los Retornados sólo votan las decisiones importantes. Este método de gobierno, a la espera de debates que deben ser llevados a los dioses (que no pueden abandonar la corte para estar entre la gente de la ciudad) por los sacerdotes, funciona con notoria lentitud.
-El gobierno presta a los [[Sinvida\|sinvida]] para ayudar a los ciudadanos con trabajos serviles, como la tala de árboles para crear tierras de cultivo. Los términos de dicho préstamo estipulan que en tiempos de guerra cualquier alimento producido en las tierras del propietario será confiscado por los Retornados. Aunque esto es específico de la política de préstamos a los sinvida, el gobierno se reserva el derecho de confiscar cualquier tierra en tiempo de guerra.
+### Theocracy
+Hallandren is a theocracy ruled by the [[Court of Gods\|Pantheon]] of the [[Returned\|Returned]], headed by the [[God King\|God King]] The religion behind this theocracy is the Iridescent Tones. A religion that worships the Returned as gods, and believes they returned to guide and bless their people.
+The [[Returned\|Returned]] have duties and votes on specific matters in the city and the empire. The task of the priesthood is generally to inform the gods of the people’s opinions. The Returned can then make informed decisions, which the priests enforce. In reality the priests handle most of the minor decisions, so that the Returned only vote on the major decisions. This method of government, waiting on debates that must be brought to the gods (who cannot leave the court to be among the people of the city) by the priests, operates notoriously slowly.
+The government loans out [[Lifeless\|Lifeless]] to help citizens with menial labor such as clearing land of trees in order to create farmland. Terms of such a loan stipulate that in war time any food produced on the landowner's land will be seized by the Returned. While this is specific to the policy for lending out the Lifeless, the government retains the right to seize any land during war time regardless. Most of the land in Hallandren is private property.
 
-#### Asamblea de la Corte
-La Asamblea de la Corte es una comisión permanente de la Corte de los Dioses que proporciona decisiones a los ciudadanos de Hallandren. Se reúne a diario para emitir juicios menores, pero los debates importantes se reservan para las reuniones semanales de la Asamblea en pleno. Se compone principalmente de sacerdotes y sacerdotisas, y las reuniones se celebran en una gran arena en la parte trasera de la Corte de los Dioses. Los Retornados no forman parte de la Asamblea, pero muchos de ellos asisten regularmente a las reuniones semanales para observar desde ornamentados palcos de piedra para observar, incluido Susebron.
-Algunos Retornados no se preocupan por la política y rara vez asisten, mientras que otros consideran que las reuniones son aburridas porque creen que sus opiniones no importan. Durante las reuniones de la Asamblea, se exponen argumentos sobre diversos temas, como las relaciones con Idris; [[Siri\|Siri]] también fue presentada a la Corte en la Asamblea. Los debates suelen estar llenos de retórica y los Retornados con conocimientos políticos intentan influir en la dirección que toman. Asistir a la Asamblea de la Corte es considerado un privilegio por la gente de Hallandren; sólo hay cuatro bancos en la arena para que los ciudadanos asistan, por lo que sólo las personas ricas, influyentes, favorecidas por un dios o con al menos cincuenta alientos asisten regularmente. Los ciudadanos corrientes pueden participar en una lotería para ganar una entrada para asistir a la Asamblea.
+#### Court Assembly
+The Court Assembly is a standing commission of the Court of Gods that provides decisions to Hallandren's citizens. It meets daily to make small judgments, but important discussions are reserved for weekly meetings of the full Assembly. The Assembly is made up primarily of priests and priestesses, and meetings are held in a large arena at the back of the Court of Gods. The Returned do not sit on the Assembly, but many of them regularly attend the weekly meetings to watch from ornate stone observation boxes, including Susebron.
+Some Returned do not concern themselves with politics and rarely attend, while others find the meetings boring because they believe their opinions do not matter. During Assembly meetings, arguments are brought forth regarding various topics such as relations with Idris; [[Siri\|Siri]] was also presented to the Court at the Assembly. The Assembly's discussions are often full of rhetoric and politically savvy Returned try to influence the direction of the Assembly. Attending the Court Assembly is thought of as a privilege by the people of Hallandren; there are only four benches in the arena for citizens to attend, so only people who are rich, influential, favored by a god, or have at least fifty Breaths attend regularly. Average citizens may enter a lottery to win a token to attend the Assembly.
 
-#### Asamblea principal
-La Asamblea ordinaria de la Corte no está facultada para tomar decisiones importantes, como una declaración de guerra; en su lugar, todos los Retornados deben asistir a una reunión conocida como asamblea "principal" o "general" para que todos puedan emitir un voto. El resultado de una Asamblea General se convierte en la Voluntad del Panteón. Todos los dioses tienen derecho a rechazar la Voluntad del Panteón, aunque está mal visto. Estas asambleas especiales son escasas y suelen estar muy concurridas, ya que los ciudadanos que ganan vales de lotería para asistir a una Asamblea suelen guardarlos para una asamblea principal y así poder ver a todos los dioses juntos.
+#### Main Assembly
+The regular Court Assembly is not empowered to make major decisions such as a declaration of war; instead, all of the Returned must attend a gathering known as a "main" or "general" assembly so they can all cast a vote. The outcome of a Main Assembly becomes the Will of the Pantheon. All the gods have the right to refuse the Will of the Pantheon, although it is frowned upon. These special assemblies are rare and often very crowded, as citizens who win lottery tokens to attend an Assembly often save them for a main assembly so they can see all of the gods together.
 
-#### Territorios
-Hallandren controla todo el valle de la jungla, y limita con [[Idris\|montañas]] al norte y al este. También limita con el [[Mar Brillante\|mar Brillante]] y controla aproximadamente un tercio de su costa. También controlan varias islas en el mar Brillante.
+#### Territories
+Hallandren controls the entire jungle valley, and is bordered by [[Idris\|mountains]] to the north and east. It is also bordered by the [[Bright Sea\|Bright Sea]] and controls about one third of it’s coastline. They also control multiple islands in the Bright Sea.
 
-#### Distritos administrativos
-Hallandren está formada por varias provincias. La única provincia conocida es [[Pahn Kahl\|Pahn Kahl]], una provincia tranquila y pacífica en el sur de Hallandren. Esta es el hogar de un grupo étnico llamado [[/wiki/Pahn Kahl#Cultura]], aunque no es el único lugar de Hallandren donde se puede encontrar a esta gente.
+#### Administrative Districts
+Hallandren is made up of a number of provinces. The only known province is [[Pahn Kahl\|Pahn Kahl]], a quiet and peaceful province in the south of Hallandren. This province is home to an ethnic group called [[/wiki/Pahn Kahl#Culture]], although this isn’t the only place in Hallandren where these people can be found.
 
-### La monarquía
-#### El rey-dios
-  <<Susebron\|Susebron>>, el actual re-dios de Hallandren
-Hallandren ha tenido una monarquía durante toda su historia, unos trescientos años. Todos sus reyes nacieron muertos, tras lo cual [[Retornado\|Retornaron]] para gobernar el imperio. Con la excepción de su primer rey, que fue llamado [[Dalapaz\|Dalapaz]], todos ellos se llamaro Susebron, siendo el actual [[Susebron\|Susebron]] V. Debido a su naturaleza de Retornados llevan el título de rey-dios.
-El rey-dios tiene el poder absoluto en Hallandren, aunque en realidad actúa más como un testaferro del sacerdocio. Los sacerdotes también le cortaron la lengua para evitar que usara sus [[Tesoro de Dalapaz\|alientos]], como les ordenó su dios [[Dalapaz\|Dalapaz]]. El rey-dios reside en un [[/wiki/Corte de los Dioses#Palacio del rey-dios]] en la [[Corte de los Dioses\|Corte de los Dioses]]. También puede vetar cualquier decisión tomada por el Panteón de Dioses.
-No todos los hallandrenses consideran a [[Dalapaz\|Dalapaz]] su primer rey-dios, algunos consideran a Susebron I como el primer rey. Al menos uno de los reyes-dioses gobernó durante un siglo. Se cree que estos recibieron la vida de Dalapaz.
+### The Monarchy
+#### The God King
+  <<Susebron\|Susebron>>, the current God King of Hallandren
+Hallandren has had a monarchy for its entire history, some three hundred years. All of their kings were stillborn, after which they immediately [[Returned\|Returned]] to rule the empire. With the exception of their first king, who is called [[Peacegiver\|Peacegiver]], all of them are named Susebron, with the current king being [[Susebron\|Susebron]] the fifth. Due to their nature as Returned they carry the title of God King.
+The God King has absolute power in Hallandren, although in reality he acts more like a figurehead for the priesthood. The priests also cut out his tongue to prevent him from using his [[Light of Peace\|Breaths]], as their god [[Peacegiver\|Peacegiver]] commanded them to do. The God King resides in a [[/wiki/Court of Gods#God king.E2.80.99s palace]] in the [[Court of Gods\|Court of Gods]]. He can also veto any decision made by the Pantheon of Gods.
+Not all Hallandren consider [[Peacegiver\|Peacegiver]] to have been their first God King, some instead consider Susebron the First as their first king. At least one of the God Kings ruled for a century. The God Kings are believed to have received life from Peacegiver.
 
-#### La reina
-Durante la mayor parte del reinado de un rey-dios, los hallandrenses no tienen reina. Esto se debe a que sólo es seleccionada después de que un niño Retorne.
+#### The Queen
+For most of a God King’s rule the Hallandren are without a queen. This is because a queen is only selected after an infant Returns.
 
->“*La dinastía de Hallandren se fundó al término de la Multiguerra, la primera obtuvo su vida y su aliento del propio Dalapaz, que fue adorado por vencer a los fantasmas de Kalad y poner un final pacífico a la Multiguerra. Desde ese día, cada rey-dios ha engendrado un hijo nacido muerto que luego retorna y toma su lugar.*”
-\-Hoid sobre los reyes de Hallandren[7]
+>“*The dynasty of Hallandren was founded at the conclusion of the Manywar, the first one gaining his Breath and life from Peacegiver himself, who was revered for dispelling Kalad’s Phantoms and bringing a peaceful end to the Manywar. Since that day, each God King has fathered a stillborn son who then Returned and took his place.*”
+\-Hoid on the Hallandren Kings[7]
 
-A la reina se la llama formalmente "Majestad" o "Excelencia".  A veces también se la llama "Receptáculo", ya que se la considera un recipiente del rey-dios.
-La Reina sólo tiene un deber: dar un heredero al reino. Pasa el resto de su tiempo ociosa, disfrutando de los mismos lujos que los Retornados. No se le permite salir de la [[Corte de los Dioses\|Corte de los Dioses]]. También es una de las pocas personas en la Corte de los Dioses a las que se les permite tocar al rey-dios.
+The Queen is formally addressed with ‘Your Majesty’ or ‘Your Excellency’. She is also sometimes addressed as ‘Vessel’ as she is considered to be a Vessel for the God King.
+The Queen has only one duty, to provide the kingdom with an heir. She spends the rest of her time being idle, enjoying the same luxuries as the Returned. She is not allowed to leave the [[Court of Gods\|Court of Gods]]. She is also one of the few people in the Court of Gods who are allowed to touch the God King.
 
-#### Sucesiónn
-Los sacerdotes del rey-Dios toman que un niño haya Retornado como una señal de que es hora de cambiar de rey. A continuación, eligen una esposa para el rey-dios y esperan que tenga un hijo, ya que preferirían que fuese el hijo real del rey-dios.  A veces, la reina es la propia madre del niño, mientras que otras veces se concierta un matrimonio. Los reyes-dioses retirados son proclamados muertos por curar a los necesitados y son llevados a una de las islas en medio del mar Interior. Mantienen un lujoso estilo de vida hasta que mueren.
+#### Succession
+The God King’s priests take an infant Returning as a sign that it’s time to change Kings. They then choose a wife for the God King and hope she has a child, as they would rather have the God King's literal child. Sometimes the queen is the actual mother of the child, while other times a marriage is arranged. Retired God Kings are proclaimed dead from healing those in need and are taken to one of the isles in the middle of the Inner Sea. They maintain a lavish lifestyle until they die.
 
-### Política exterior y relaciones internacionales
+### Foreign Policy and International Relationships
 #### Idris
->“*Se les llamaba rebeldes, pero esos «rebeldes» eran la auténtica familia real de Hallandren. Aunque fueran mortales, su linaje era un desafío para la Corte de los Dioses.*”
-\-Vasher pensando sobre los idrianos
+>“*They were called rebels, but those “rebels” were the true Hallandren royal family. Mortal men though they might be, their bloodline was a challenge to the Court of Gods.*”
+\-Vasher thinking about the Idrians
 
-Hallandren e [[Idris\|Idris]] mantienen una relación mayoritariamente antagónica. Esto se debe a una serie de razones, la mayoría de las cuales se remontan a [[La Multiguerra\|la Multiguerra]]. Una de estas razones es la escisión de [[Hanald\|Hanald]], con ambos reinos reclamando los territorios del otro como propios. Otra razón es la religión idriana del austrismo. Esta religión, desterrada tras [[La Multiguerra\|la Multiguerra]], comenzó a enseñar en contra de todo lo que tuviera que ver con Hallandren, como la ostentación y el despertar. Debido a estas razones, junto con las falsas historias contadas por los buhoneros, el odio hacia Hallandren se arraigó profundamente en la cultura idriana.
-Muchos idrianos de las montañas inferiores se vieron obligados a abandonar sus hogares por el hambre o la falta de dinero. No dispuestos a hacer el largo y duro viaje a [[Bevalis\|Bevalis]] para hacer una petición al rey, viajaron al sur hacia Hallandren y comenzaron a trabajar aquí. Esta gente es despreciada tanto por los idrianos como por los hallandrenses.
-Tras la rebelión Pahn Kahl, el rey-dios [[Susebron\|Susebron]] V, amigo de los idrianos, asumió un control más directo de la política de Hallandren, por lo que las relaciones con Idris probablemente mejoraron.
+Hallandren and [[Idris\|Idris]] have a mostly antagonistic relationship. This is because of a number of reasons, most of which can find their way back to the [[Manywar\|Manywar]]. One of these reasons is the splintering of [[Hanald\|Hanald]], with both kingdoms claiming the other’s territories as their own. Another reason is the Idrian religion of Austrism. This religion, banished after the [[Manywar\|Manywar]], began teaching against everything that had to do with Hallandren, such as ostentation and awakening. Due to these reasons, along with the false stories told by ramblemen, the hatred of Hallandren became deeply rooted in the Idrian culture.
+Many Idrians in the lower mountains were forced out of their homes through famine or lack of money, these Idrians, unwilling to make the long and hard journey to [[Bevalis\|Bevalis]] to petition the king, traveled south into Hallandren and started working here. These people are looked down upon by both the Idrians and the Hallandren.
+After the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] the God King [[Susebron\|Susebron]] the fifth, a friend of the Idrians, took more direct control of Hallandren politics and because of this the relations with Idris likely improved.
 
 #### Tedradel
-Desde [[La Multiguerra\|la Multiguerra]], que vio a Hanald, el predecesor de Hallandren, y Tedradel entrar en guerra entre sí, la opinión de Tedradel sobre Hallandren no ha mejorado mucho. Es tan baja que [[Yarda\|Yarda]] considera posible que Tedradel entre en guerra de nuevo, en caso de que Idris sea atacada.
-Tedradel aún tiene muchos comerciantes en T'Telir, y probablemente también en otras ciudades de Hallandren.
+Since the [[Manywar\|Manywar]], which saw Hanald, the predecessor of Hallandren, and Tedradel go to war with each other Tedradel’s opinion of Hallandren hasn’t improved much. Their opinion of Hallandren is so low that [[Yarda\|Yarda]] considers it possible that Tedradel would go to war again, should Idris be attacked.
+Tedradel still has many traders in T’Telir, and likely other Hallandren cities as well.
 
-#### Los reinos del norte
-Hallandren no tiene una gran relación con los reinos del norte. Si hubiera decidido atacar a Idris, varios de estos reinos habrían ayudado a este último. Docenas de estos reinos no comparten la opinión de Hallandren sobre Idris como facción rebelde.
-Hallandren comercia mucho con los reinos del Norte.
+#### The Northern Kingdoms
+Hallandren doesn’t have a very great relationship with the Northern Kingdoms. If Hallandren had decided to attack Idris a number of these kingdoms would have aided Idris. Dozens of these kingdoms do not share Hallandren’s views of Idris as a rebel faction.
+Hallandren trades extensively with the Northern kingdoms.
 
-## Ejército
-### El ejército sinvida
-Hallandren tiene un gran ejército sinvida, de cuarenta mil hombres. Han estado añadiendo a este ejército durante varios siglos antes de la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-El ejército sinvida de Hallandren está dividido en cuatro secciones de diez mil soldados, cada una al mando de un Retornado diferente del Panteón. Los encargados anteriores a la rebelión Pahn Kahl eran [[Sondeluz\|Sondeluz]], [[Esperanzador\|Esperanzador]], [[Madretodos\|Madretodos]] y [[Mercestrella\|Mercestrella]]. Algunos de estos Retornados se aburren de su deber, ya que nunca tienen que hacer nada.
-Mientras que el grueso del ejército está compuesto de sinvidas, hay una estructura de apoyo bastante grande para el ejército propiamente dicho que se compone de humanos.
-El ejército de los [[Sinvida\|sinvida]] reside en los cuarteles situados en la parte inferior de la Corte de los Dioses en T'Telir. Estos barracones están fuertemente fortificados, y los sinvida apostados aquí tienen órdenes de matar a cualquiera que les ataque. Son mantenidos en la oscuridad.
+## Military
+### The Lifeless Army
+Hallandren has a large lifeless army, forty thousand strong. They have been adding to this army for several centuries before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+The Hallandren Lifeless army is split into four sections of ten thousand troops, each commanded by a different Returned in the Pantheon. The commanders prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] were [[Lightsong\|Lightsong]], [[Hopefinder\|Hopefinder]], [[Allmother\|Allmother]] and [[Mercystar\|Mercystar]]. some of these Returned are bored by their duty, reasoning that they never have to actually do anything.
+While the bulk of the army is Lifeless, there is quite a large support structure for the army proper which is composed of humans.
+The [[Lifeless\|lifeless]] army resides in the lifeless barracks, located at the bottom of the Court of Gods in T’Telir.. These barracks are heavily fortified, and the lifeless stationed here have orders to kill anyone who attacks the lifeless. The lifeless are kept in the dark.
 
-### Fantasmas de Kalad
-Tras los sucesos de la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]] Dalapaz, bajo el alias de [[Vasher\|Vasher]], concedió la frase de seguridad de los Fantasmas de Kalad al rey-dios Susebron. Este ejército incluye unos mil soldados que aún responden.
+### Kalad’s Phantoms
+After the events of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] Peacegiver, under the alias of [[Vasher\|Vasher]], granted the security phrase of Kalad’s Phantoms to the God King Susebron. This army includes some thousand soldiers which still function.
 
-### Armamento
-#### Armas de filo
-La mayoría de los hallandrenses usan "espadas de duelo", un tipo de espada larga y delgada. También usan dagas y lanzas.
+### Armament
+#### Bladed weapons
+Most Hallandren use a ‘Dueling blade’, which are a long and thin type of blade. The Hallandren also use daggers and spears.
 
-#### Ropas despertadas
-No es poco común para un despertante [[Despertar\|despertar]] sus ropas, ayudándole a luchar. Existen incluso conjuntos de ropa especializados para este fin.
+#### Awakened clothing
+It is not uncommon for an awakener to [[Awakening\|awaken]] their clothing, helping them fight. There are even specialized sets of clothing made for this very purpose.
 
-## Cultura
-### Gente
-Hallandren contiene muchos pueblos y culturas diferentes.. La mayoría de la población es de etnia hallandrense, aunque el reino también tiene un número important de [[Pahn Kahl\|pahn kahl]] e [[Idris\|idrianos]] viviendo dentro de sus fronteras. Los habitantes de los confines del reino de Hallandren tienen la piel oscura. Los colores naturales del pelo de los habitantes de Hallandren incluyen el negro, el castaño y el rubio.
-Hallandren no tiene nobleza aparte de los Retornados, en su lugar tiene una pequeña pero muy rica clase que está casi completamente comprometida con los mercaderes más exitosos, una clase media, y una gran clase campesina. Hallandren es la única nación en [[Nalthis\|Nalthis]] que tiene una clase media, en lugar de sólo una clase alta y baja.
-El orgullo es muy importante para los hallandrenses, y los sacerdotes son considerados aún más orgullosos. También les gustan los carruajes, aunque los Retornados y su reina prefieren usar palanquines. Guardan a sus muertos en morgues.
+## Culture
+### People
+Hallandren contains many different peoples and cultures, the majority of the population is ethnic Hallandren, although the kingdom also has a number of [[Pahn Kahl\|Pahn Kahl]] and [[Idris\|Idrians]] living inside it’s borders. The people at the edges of the kingdom of Hallandren have dark skin. The natural hair colors of the Hallandren people include black, brown and blond.
+Hallandren has no nobility apart from the Returned, instead it has a small but very rich class which is almost completely compromised of the most successful merchants, a middle class, and a large peasant class. Hallandren is the only nation on [[Nalthis\|Nalthis]] to have a middle class, instead of only a high and low class.
+Pride is very important to the Hallandren people, and priests are considered to be even more prideful. The Hallandren are also fond of carriages. Although the Returned and their Queen prefer to use palanquins. The Hallandren keep their dead in charnel houses.
 
-#### Atletismo
-La sociedad de Hallandren valora el atletismo. Los duelos deportivos son lo suficientemente comunes como para que alguien con talento con una espada pueda ganar una gran cantidad de premios, fama notable y un considerable número de estudiantes a lo largo de su vida. La arena de la Corte de los Dioses se utiliza a menudo para que los atletas participen en competiciones de destreza física.
-Algunas de las competiciones que se mencionan son lanzamiento de peso, lanzamiento de jabalina, tiro con arco, concursos de saltos y carreras. Sin embargo, no se premia especialmente al vencedor, sino a todos los concursantes, por poseer la destreza física necesaria para participar.
+#### Athleticism
+Hallandren's society places value in athleticism. Duels for sport are common enough that someone talented with a blade could gain a wealth of prizes, notable fame, and a sizable following of students in their lifetime. The Court of Gods’ arena is often used as a location for athletic individuals to engage in contests of physical prowess.
+Some arena competitions mentioned are shot put, javelin toss, archery, leaping contests, and races. However, special accolades are not given to the winner, but to all the contestants, for possessing the physical prowess required to participate.
 
-#### Arte y juegos
-Los hallandrenses disfrutan con la música, la pintura, la danza, la poesía, la escultura, las marionetas, el teatro, la pintura de arena y muchas otras artes "menores". También tienen fuegos artificiales, y los utilizan para hacer grandes espectáculos.
-En la época de la rebelión Pahn Kahl, el estilo de pintura abstracta es popular, especialmente en las pinturas enviadas a [[Sondeluz\|Sondeluz]] el Audaz. Hay unos pocos [[Nenefra\|artistas]] que pueden hacer un tipo especial de pintura, gente investida, como los Retornados, que pueden ver cosas en estas pinturas que no están realmente allí. Mientras que la gente normal ve las pinceladas de pintura.
-Algunos hallandrenses ricos juegan al [[Tarachin\|tarachin]], un juego notoriamente difícil.  Requiere fuerza para lanzar las esferas correctamente, sagacidad para entender dónde colocarlas, coordinación para hacerlo con la precisión necesaria, y una gran comprensión de la estrategia para elegir la esfera adecuada y dominar el terreno de juego.
+#### Arts and Games
+The Hallandren people enjoy music, painting, dance, poetry, sculpture, puppetry, play performance, sandpainting and lots of other ‘lesser’ arts. The Hallandren also have fireworks, and use them to make large fireshows.
+By the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] the abstract painting style is popular, especially in paintings sent to [[Lightsong\|Lightsong]] The Bold. There are a few [[Nenefra\|artists]] who can make a special type of painting, invested people, such as the Returned, can see things in these paintings which aren’t actually there. While normal people see the actual strokes of paint.
+Some wealthy Hallandren play [[Tarachin\|Tarachin]], a notoriously difficult game. Tarachin requires strength to throw the spheres correctly, keen wit to understand where to place them, coordination to do so with the necessary precision, and a great understanding of strategy to pick the proper sphere and dominate the game field.
 
-### Moda y belleza
->“*Había representados un centenar de colores distintos y numerosos estilos diferentes de vestir. Era bueno ver de nuevo algo de variedad, aunque esa variedad resultara algo chillona.*”
-\-Siri pensando en los hallandrenses[16]
+### Fashion and Beauty
+>“*a hundred different colors and as many different clothing styles were represented. It was good to see some variety again, even if that variety was somewhat garish.*”
+\-Siri thinking about the Hallandren[16]
 
-Los hallandrenses visten ropas extravagantes y de colores vivos. Llevan una gran variedad de estilos, y cada persona intenta destacar. Sin embargo, debido a esto, nadie destaca. La modestia tanto en el diseño como en el color no está de moda, pero no es inexistente.
-La ropa de Hallandren es reveladora, con blusas abiertas hasta debajo del cuello, faldas por encima de las rodillas, etc. Las prendas van desde chalecos y pantalones cortos hasta largas túnicas y trajes. Algunos antiguos Retornados llevaban túnicas que les colgaban de un solo hombro, con una banda alrededor de la cintura que les llegaba hasta medio muslo. Los sombreros ornamentados son populares, tanto en hombres como en mujeres. Algunos hallandrenses llevan paraguas para cuando llueve. También hay muchos que se tiñen el pelo. La ropa suele ser de cuero, aunque la seda también es usada por los ricos. Algunas mujeres también llevan pantalones, que se consideran prácticos.
-Las mujeres hallandrenses usan perfumes, tomando baños perfumados o haciendo que otra persona les unte perfume en el cuerpo. También llevan muchos tipos de maquillaje, como pintalabios y delineador de ojos. Algunas mujeres llevan una especie de pintura en los muslos. El pelo largo se ve como un signo de belleza.
-El pelo negro y brillante, la piel pálida y un cuerpo con curvas exuberantes son considerados por algunos como el epítome de la belleza femenina. Los hallandrenses consideran atractivas tanto a las mujeres delgadas como a las corpulentas. El epítome de la belleza masculina son los músculos grandes y abultados y la mandíbula cuadrada.
+The Hallandren wear flamboyant and brightly coloured clothing. They wear a wide variety of styles, with each person trying to stand out. However, because of this nobody stands out. Modesty in both design and color is unfashionable, but not nonexistent.
+Hallandren clothing is revealing, with blouses that are open well below the neck, skirts well above the knees etc. Clothing in Hallandren ranges from vests and shorts to long robes and gowns. Some ancient Returned wore robes that hung from only one shoulder with a wrap around their waist that came down to mid-thigh. Ornate hats are popular, both on men and women. Some Hallandren carry umbrellas for when it is raining. Many Hallandren also dye their hair. Clothing is often made from leather, although silk is also used for the rich. A number of women also wear trousers, considered to be utilitarian.
+Hallandren women wear perfumes, either taking perfumed baths or having someone else rub perfume onto the body.  They also have many kinds of make-up, such as lipstick and eyeliner. Some women have a sort of paint on their thighs. Long hair is seen as a sign of beauty.
+Glossy black hair, pale skin and a lusciously curvaceous body are considered by some to be the epitome of female beauty. The Hallandren find both thin and heavy women to be attractive. The epitome of male beauty is large bulging muscles and square jawed features.
 
-### Biocroma y despertar
-Hallandren es conocida por su investigación en biocroma.
+### Biochroma and Awakening
+Hallandren is known for it’s research in Biochroma.
 
-#### Alientos y despertar
-Los hallandrenses creen que perder el [[Aliento\|aliento]] no te cambia mucho. También hay un mercado de alientos muy estricto. Debido a estas razones muchas personas venden sus alientos cuando necesitan algo de dinero. Estos suelen ser comprados por gente rica. La mayoría de la gente se detiene en los 50 alientos. En este punto han alcanzado la Primera Elevación: su esperanza de vida también se incrementa en una década más o menos y su sistema inmunológico es mucho más efectivo. También pueden realizar un poco de [[Despertar\|despertar]], una habilidad muy útil. Las personas con más de mil alientos son poco comunes, pero no inexistentes.
-Los objetos despertados realizando tareas no son poco comunes.
+#### Breaths and Awakening
+The Hallandren believes that losing your [[Breath\|Breath]] doesn’t change you much. There is also a very strict breath market. Due to these reasons many people sell their breaths when they need some money. These breaths are often bought by rich people. Most people stop at 50 breaths, at this point they have attained the first heightening, their lifespan is also improved by a good decade or so and their immune system is a lot more effective. They can also do a little bit of [[Awakening\|awakening]] themselves, a useful skill to have. People with more then a thousand breaths are uncommon, but not unheard of.
+Awakened objects performing tasks aren’t uncommon.
 
-#### Los Retornados
-Los [[Retornado\|Retornados]] también necesitan un aliento por semana para mantenerse con vida. Estos suelen ser suministrados por niños. Las familias que venden sus alientos a los Retornados son bendecidas y ganan dinero suficiente para vivir todo un año.
+#### The Returned
+The [[Returned\|Returned]] also need one breath per week to stay alive. These breaths are usually provided by children. The families who sell their breaths to the Returned are blessed and gain enough money to live a whole year on.
 
-#### Sinvida
-Los [[Sinvida\|sinvida]] son bastante comunes en Hallandren, aunque la mayoría de la gente todavía los mantiene alejados. Es común vestir a los sinvida con ropas grises, a juego con su piel y marcándolos como sinvida.
-La gente en Hallandren puede pagar a un despertante para hacer un sinvida. Las familias también pueden vender cadáveres a estas personas, siendo mayor el coste cuanto más hábil sea la persona.
+#### Lifeless
+[[Lifeless\|Lifeless]] are fairly common in Hallandren, although most people still give them a wide berth. It is common to dress lifeless in grey clothing, matching their skin and marking them as a lifeless.
+People in Hallandren can pay an awakener to make a lifeless. Families can also sell corpses to these people, with the more skilled the person was the higher the cost is going to be.
 
-### Idioma y escritura
-Los hallandrenses hablan una lengua que recibe el mismo nombre.
-También tienen su propio alfabeto. La primera letra de este alfabeto se llama shash. También utilizan una segunda escritura llamada [[Escritura artesana\|escritura artesana]]. Está basada en el color, cada tono representa un sonido diferente. Los artistas expertos con al menos la Tercera Elevación a menudo escriben poesía usando esta escritura. 
+### Language and Writing
+The Hallandren speak a language called Hallandren.
+The Hallandren have their own Alphabet as well. The first letter of this alphabet is called shash. The Hallandren also use a second script called the [[Artisan's script\|artisan's script]]. This script is a form of writing based on color, each hue representing a different sound. Skilled artists of at least the Third Heightening often write poetry using this script.
 
-### Arquitectura
-Hallandren tiene un estilo arquitectónico muy diverso. Consiste en muchas cúpulas y agujas, aunque también se usan pirámides. Casi todos los edificios están pintados de colores vivos. A los hallandrenses les gusta el verde y construyen muchos jardines y espacios abiertos en sus ciudades.
-Algunos edificios están pintados para alguien de la [[/wiki/Elevaci%C3%B3n#Tercera Elevaci.C3.B3n]], con cambios de color muy diminutos. Ejemplos de esto son los palacios Retornados.
+### Architecture
+The Hallandren have a very diverse architectural style. This style consists of many domes and spires, while pyramids are also, rarely, used. Buildings are generally painted in a wide array of, often very bright, colours. Even furniture and other objects are painted. Due to this there are very few dull things in a Hallandren city, and most of these are located in the slums, which often contain objects and buildings with faded colours.
+The Hallandren love greenery and often design their cities with many gardens and open spaces to make place for greenery. Some buildings are painted for someone of the [[/wiki/Heightening#Third Heightening]], with very minute changes in color. Examples of this are the Returned palaces.
 
-### Cocina
-#### Comidas
-Los hallandrenses disfrutan de una gran variedad de alimentos, incluyendo mariscos y productos del mar, así como plantas y animales comunes. La vida marina conocida incluye mejillones, peces y pulpos. También les gustan muchas comidas extranjeras. La clase alta disfruta comiendo [[Tinkfan\|tinkfan]], un manjar de [[Pahn Kahl\|Pahn Kahl]]. Les gusta la comida picante.
+### Cuisine
+#### Foods
+The Hallandren enjoy a wide variety of foods, including seafoods and sea fruits as well as regular plants and animals. Known sealife includes mussels, fish, and octopi. The Hallandren also like many foreign foods. The Hallandren upper class enjoy eating [[Tinkfan\|tinkfans]], a [[Pahn Kahl\|Pahn Kahl]] delicacy. They like their food spicy.
 
-#### Bebidas
-Los Hallandren también beben té caliente. Una variedad conocida es el té de cítricos. También disfrutan de una gran variedad de zumos.
+#### Drinks
+The Hallandren also drink hot tea. A known variety is citrus tea. They also enjoy a wide variety of juices.
 
-### Calendario
-Los hallandrenses pueden tener un calendario que considera [[La Multiguerra\|la Multiguerra]] como el año cero, ya que Hoid menciona que el tiempo antes de la Multiguerra fue antes de que el tiempo mismo comenzara.
+### Calender
+The Hallandren may have a calendar which views the [[Manywar\|Manywar]] as the year zero, as Hoid mentions that the time before the Manywar was before time itself began.
 
-## Religiones
-En Hallandren se rinden culto a muchas religiones diferentes, aunque la mayoría de la gente sigue la religión del estado, los . Otras religiones son el [[Austrismo\|austrismo]] y la fe de [[/wiki/Pahn Kahl#Cultura]].
+## Religions
+Many different religions are worshipped in Hallandren, although most people follow the state religion, the [[Iridescent Tones\|Iridescent Tones]]. Other religions include [[Austrism\|Austrism]] and the [[/wiki/Pahn Kahl#Culture]] faith.
 
-### Los tonos iridiscentes
-La mayoría de los hallandrenses sigue los . Esta religión adora a los [[Retornado\|Retornados]] como dioses y considera a [[Dalapaz\|Dalapaz]] un dios entre los dioses.
+### The Iridescent Tones
+The majority of the Hallandren people follow the [[Iridescent Tones\|Iridescent Tones]]. This religion worships the [[Returned\|Returned]] as gods and considers [[Peacegiver\|Peacegiver]] to be a god amongst gods.
 
-  <<Sondeluz\|Sondeluz>>, un dios <<Retornado\|Retornado>> de Hallandren.
-La [[Corte de los Dioses\|Corte de los Dioses]] se encuentra en Hallandren, en la ciudad de T'Telir. Los dioses Retornados de Hallandren residen en esta Corte, supuestamente bendiciendo a los habitantes de la ciudad con guía y buena fortuna.
-Los tonos iridiscentes se establecieron en Hallandren poco después de [[La Multiguerra\|la Multiguerra]]. Tras esta guerra, los hallandrenses sintieron que habían sido abandonados por Austre y salvados por Dalapaz, por lo que abandonaron el austrismo y comenzaron a adorar a los Retornados.
+  <<Lightsong\|Lightsong>>, a <<Returned\|Returned>> god of Hallandren.
+The [[Court of Gods\|Court of Gods]] is located in Hallandren, in the city of T’Telir. The Returned gods of Hallandren reside in this Court, supposedly blessing the Hallandren with guidance and good fortune.
+The Iridescent Tones were established in Hallandren shortly after the [[Manywar\|Manywar]]. After this war the Hallandren felt that they had been forsaken by Austre and saved by Peacegiver, and so abandoned Austrism and began worshipping the Returned.
 
-### Austrismo
-La mayoría de los idrianos que viven en Hallandren siguen el austrismo. Se trata de una religión monoteísta centrada en el culto a Austre y las Cinco Visiones. El austrismo se practicaba en Hallandren antes de la Multiguerra. Los idrianos que se convierten a los tonos iridiscentes son llamados "raspones" por otros idrianos. El término es un epíteto que se refiere a un rasguño en el brazo de una persona que revela la colorida sangre que hay debajo.
+### Austrism
+Most of the Idrians living in Hallandren follow Austrism. This is a monotheistic religion centred around the worship of Austre and the Five Visions. Austrism was practised in Hallandren before the Manywar. Idrians who convert to the Iridescent Tones are called ‘scrapes’ by other Idrians. The term is an epithet that refers to a scratch on a person’s arm revealing the colorful blood underneath.
 
-### La fe de Pahn Kahl
-La mayoría de los [[Pahn Kahl\|pahn kahl]] que viven en Hallandren siguen su propia religión. Esta religión es una especie de culto a la naturaleza donde las tormentas del [[Mar Brillante\|mar Brillante]] son veneradas como manifestaciones de la unidad de sus cinco dioses. Su religión también se centra más en la Voz que envía de vuelta a los Retornados.
-Muchos habitantes de Hallandren desconocen la religión de los pahn kahl, pues suponen que también adoran a los Retornados.
+### The Pahn Kahl Faith
+Most [[Pahn Kahl\|Pahn Kahl]] living in Hallandren follow their own religion. This religion is a kind of nature worship where the storms of the [[Bright Sea\|Bright Sea]] are revered as manifestations of the unity of their five gods. Their religion also focuses more on the Voice that sends back the Returned,
+Many people in Hallandren are unaware of the Pahn Kahl religion, instead assuming them to worship the Returned as well.
 
-## Economía
-### El mercado de tinte
-La principal fuente de ingresos de Hallandren son los tintes elaborados con las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]]. Estas flores sólo pueden cultivarse en Hallandren, por lo que este pueblo tiene el monopolio sobre ellas. Son excelentes tintes, y su producción es mucho más barata que la de otros colorantes. Por estas razones, así como por su uso en el despertar, son muy deseadas, mucho más que otros tintes.
+## Economics
+### The Dye Trade
+Hallandren’s main source of income are the dyes made from the [[Tears of Edgli\|Tears of Edgli]]. These flowers can only be grown in Hallandren, and as such the Hallandren people have a monopoly on them. The Tears of Edgli make excellent dyes, and are far cheaper to produce then other dyes. For these reasons, as well as their use in awakening, they are very desired, far more so then other dyes.
 
-### Rutas de comercio
-#### El mar Brillante
-Hallandren se encuentra en la orilla occidental del [[Mar Brillante\|mar Brillante]]. Este mar contiene muchas rutas comerciales, que son una bendición para los reinos situados en sus orillas. Hallandren se beneficia mucho del comercio con estos reinos, como Tedradel.
-Hallandren importa alimentos frescos de varias ciudades de la costa y aceite. Hay muchos mercaderes de Tedradel en Hallandren, que venden una gran variedad de productos como ropa. Hallandren tiene múltiples [[Tormenteros\|tormenteros]].
+### Trade Routes
+#### The Bright Sea
+Hallandren is located on the western shore of the [[Bright Sea\|Bright Sea]]. This sea contains many trade routes, which are a boon to the kingdoms located on its shores. Hallandren profits a lot from trade with these kingdoms, such as Tedradel.
+Hallandren imports fresh foodstuffs from a number of cities on the coast, and they also import oil. There are many merchants from Tedradel in Hallandren, selling a wide variety of products such as clothing. Hallandren has multiple [[Stormrunners\|Stormrunners]].
 
-#### Idris y los reinos del norte
-Hallandren también comercia con muchos otros reinos, como los reinos del norte, más allá de las montañas. Estas rutas comerciales pasan por Idris, haciendo que este país sea muy importante para Hallandren, una de las razones por las que quieren controlarlo. [[Bebid\|Bebid]] razona que si el comercio con estos reinos se detuviera, Hallandren sufriría un colapso económico total.
-Hallandren importa alfombras de estas naciones.
+#### Idris and the Northern Kingdoms
+Hallandren also trades with many other kingdoms, such as the Northern Kingdoms, beyond the mountains. These trade routes run through Idris, making this country very important to Hallandren, one of the reasons they want to control it. [[Bebid\|Bebid]] reasons that should trade with these kingdoms stop, Hallandren would suffer a full economic collapse.
+Hallandren imports carpets from these nations.
 
-#### Perpendicularidad y Reino Cognitivo
-Hay una ruta comercial que atraviesa el [[Reino Cognitivo\|Reino Cognitivo]] de Hallandren. Esta ruta también atraviesa la [[Perpendicularidad\|perpendicularidad]] de Nalthis, que se encuentra en algún lugar de Hallandren. Se desconoce si el gobierno de la región está involucrado en este comercio.
+#### Perpendicularity and the Cognitive Realm
+There is a trade route running through the Hallandren [[Cognitive Realm\|Cognitive Realm]]. This route also runs through the Nalthian [[Perpendicularity\|perpendicularity]], which is located somewhere in Hallandren. It is unknown if the Hallandren government is involved in this trade.
 
-### Política
-Los sacerdotes controlan gran parte del comercio de la ciudad. Al ser individuos ricos con un notable poder político en la teocracia de Hallandren, poseen y organizan una gran suma de los bienes comerciados en Hallandren. Hay reglas estrictas en torno a la compra y venta de aliento.
-[[Llamadaverdadera\|Llamadaverdadera]] es uno de los [[Retornado\|Retornados]] con derecho a voto en asuntos de comercio con otros reinos. Como tal, sus decisiones influyen en la economía tanto de Hallandren como de sus socios comerciales.
+### Politics
+Priests control much of the trade in the city. Being wealthy individuals with notable political power in Hallandren's theocracy, they own and organize a large sum of the traded goods in Hallandren. There are strict rules around buying and selling Breath.
+[[Truthcall\|Truthcall]] is one of the [[Returned\|Returned]] given a vote over issues of trade with other kingdoms. As such, his decisions hold sway over the economics of both Hallandren and its trade partners.
 
-### Divisa
-En Hallandren, las monedas se denominan marcos, y hay una variedad más pequeña llamada piezas. Cinco mil marcos se consideran una fortuna, mientras que una sola pieza no compraría más que un bocado de comida.
+### Currency
+Coins in Hallandren are called marks, with a smaller variety called bits. Five thousand marks is considered to be a fortune, while a single bit would not buy more than a mouthful of food.
 
-### Agricultura y ganadería
-Hallandren es una sociedad agrícola, con técnicas de tala y quema. Hay varios hallandrenses que talan estos bosques y luego los alquilan a los cultivadores.
-Crían ganado, como ovejas y vacas. También pescan peces, pulpos, mejillones y calamares.
+### Agriculture and Animal Husbandry
+Hallandren is an agricultural society, with slash and burn techniques. There are a number of Hallandren who clear these forests and then rent them to growers.
+The Hallandren herd livestock such as sheep and cows. They also fish the sea for fish, octopi, mussels and squid.
 
-## Historia
+## History
 ### Hanald
-Para más información, ver [[Hanald\|Hanald]].
-La región que se convirtió en Hanald estaba poblada originalmente por [[Pahn Kahl\|Pahn Kahl]]. Cuando el pueblo de [[Chedesh\|Chedesh]], que dominaba el mundo en aquella época, comenzó a explorar otras partes de la costa del [[Mar Interior\|mar Interior]], un grupo de sus barcos descubrió este valle lleno de selvas. Uno de los exploradores, [[Vo\|Vo]], murió y se convirtió en el primer [[Retornado\|Retornado]] mientras estaba en uno de los barcos en la bahía. Volvió a morir una semana después.
-Despreciando a los nativos pahn kahl, sus compañeros fundaron un reino en el lugar y lo llamaron Hanald. Este reino crecería y se expandiría hasta convertirse en uno de los más poderosos de su época.
+For more information, see [[Hanald\|Hanald]].
+The region that became Hanald was originally populated by the [[Pahn Kahl\|Pahn Kahl]] people. When the people of [[Chedesh\|Chedesh]], who dominated the world at the time, began exploring other parts of the [[Inner Sea\|Inner Sea's]] coastline, a group of their ships discovered this valley filled with jungles. One of the explorers, [[Vo\|Vo]], died and became the first [[Returned\|Returned]] while on one of the ships in the bay. He then died again a week later.
+Dismissive of the native Pahn Kahl, his crewmates founded a kingdom on the site and named it Hanald. This kingdom would grow and expand to become one of the most powerful kingdoms of its age.
 
-### La Multiguerra y findación
-Para más información, ver [[La Multiguerra\|la Multiguerra]].
-Tras [[/wiki/La Multiguerra#Ra.C3.ADces del conflicto]] entre los reinos de Nalthis que originó [[Kalad\|Kalad]], entonces conocido como [[Amadisputas\|Amadisputas]], derrocó a la familia real y tomó el control de Hanald. Poco después atacó los reinos septentrionales de [[Kuth\|Kuth]] y [[Huth\|Huth]], iniciando [[La Multiguerra\|la Multiguerra]].
-Al cabo de un tiempo, Kalad cambió de opinión y retiró a sus tropas de la lucha.  Utilizó estas mismas unidades para hacerse con el control de su propio país y detuvo la Multiguerra mediante la diplomacia. Debido a esto recibió el nombre de Dalapaz.
-Durante este tiempo, la familia real huyó de T'Telir, dirigiéndose a las montañas del norte, y estableciendo el reino de Idris. Tras su partida, el Culto de los Retornados tomó el control de la nueva nación, rebautizándola como Hallandren. Su religión evolucionó con el tiempo hacia los [[Tonos iridiscentes\|tonos iridiscentes]] y se convirtió en la norma dentro del territorio. La única excepción notable fue Pahn Kahl, que fue absorbida por la nueva nación de Hallandren como una provincia, donde la gente conservó su propia religión y cultura. La conclusión de la Multiguerra fue también la base del poder de Hallandren en la región del [[Mar Brillante\|mar Brillante]] en la era moderna de la posguerra. Dalapaz también dio al primer [[Rey-dios\|rey-dios]] un tesoro de cincuenta mil alientos y encomendó a sus sacerdotes que se aseguraran de que se cuidara de él hasta que volviera a necesitarlo.
+### The Manywar and Founding
+For more information, see [[Manywar\|Manywar]].
+After [[/wiki/Manywar#Roots Of The Conflict]] between the Nalthian kingdoms grew [[Kalad\|Kalad]], then known as [[Strifelover\|Strifelover]], overthrew the Royal Family and seized control of Hanald. Shortly after this he attacked the northern kingdoms of [[Kuth\|Kuth ]] and [[Huth\|Huth]], starting the [[Manywar\|Manywar]].
+After a while Kalad had a change of heart and recalled his troops from their fighting.He used these troops to seize control of his own country and stopped the Manywar through diplomacy. Due to this he got the name Peacegiver.
+During this time the Royal Family fled T’Telir, heading to the northern mountains, and established the kingdom of Idris. After their departure the Cult of the Returned took control of the new nation, renaming it Hallandren. Their religion eventually evolved into the [[Iridescent Tones\|Iridescent Tones]] and became the norm within Hallandren's territory. The only notable exception was Pahn Kahl, which was absorbed into the new nation of Hallandren as a province, where the people retained their own religion and culture. The conclusion of the Manywar was also the foundation for Hallandren's power in the region of the [[Bright Sea\|Bright Sea]] in the modern post-war era. Peacegiver also gave the first [[God King\|God King]] a treasure of fifty thousand Breaths and entrusted his priests to see that it was cared for until he needed it again.
 
-### Los reyes-dioses
-#### El tratado con Idris
-El rey [[Dedelin\|Dedelin]] negoció un tratado con [[Susebron\|Susebron]], prometiendo enviar a su hija (aparentemente [[Vivenna\|Vivenna]], aunque esto no se dijo específicamente) a la [[Corte de los Dioses\|Corte de los Dioses]] para casarse con él cuando Vivenna cumpliera veintidós años, reintroduciendo así la línea de sangre de la realeza en la propia línea gobernante de Hallandren.
-Sin embargo, no se atrevió a enviar a [[Vivenna\|Vivenna]] a Hallandren, así que en su lugar envió a [[Sisirinah\|Sisirinah]], que se convertiría en reina de Hallandren.
+### The God Kings
+#### The Treaty With Idris
+The king [[Dedelin\|Dedelin]] negotiated a treaty with [[Susebron\|Susebron]], promising to send his daughter (ostensibly [[Vivenna\|Vivenna]], though this was not stated specifically) to the [[Court of Gods\|Court of Gods]] to marry him when Vivenna turned twenty-two, thereby reintroducing the bloodline of the royals into Hallandren's own ruling line.
+He couldn’t bring himself to send [[Vivenna\|Vivenna]] to Hallandren though, so instead he sent [[Sisirinah\|Sisirinah]], who would go on to become queen of the Hallandren.
 
-#### La rebelión Pahn Kahl
-Para más información, ver [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-Trescientos años después de [[La Multiguerra\|la Multiguerra]], un pahn kahl llamado [[Vahr\|Vahr]] hizo un intento de conmover a su pueblo. Pasó más de una década trabajando con ese fin, pero finalmente fue capturado y encarcelado debido a las filtraciones de información de [[Dedos Azules\|Dedos Azules]] y asesinado por Vasher.
-El propio [[Dedos Azules\|Dedos Azules]] planeó una extensa campaña subversiva centrada en iniciar una guerra entre Hallandren e Idris: introdujo mercenarios y despertantes Pahn Kahl en el sistema de túneles bajo la corte, manipuló a [[Siri\|Siri]] para que desconfiara de los sacerdotes de Hallandren, y contrató a la [[Banda de Denth\|banda de Denth]] para aumentar las tensiones en la ciudad. Cuando sus planes estaban a punto de completarse, torturó a [[Encendedora\|Encendedora]] y [[Sondeluz\|Sondeluz]] para conseguir las frases de Mandato para el ejército sinvida de Hallandren, lo cambió y envió el ejército hacia Idris. El intento de rebelión fue derrotado cuando el [[Susebron\|rey-dios]], con su lengua recién curada, utilizó el [[Tesoro de Dalapaz\|Tesoro de Dalapaz]] para asaltar su palacio con un ejército de ropas despertadas. Vasher decidió dar al rey-dios la frase de Mandato de los Fantasmas de Kalad, que luego envió tras el ejército sinvida.
+#### The Pahn Kahl Rebellion
+For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+Three hundred years after the [[Manywar\|Manywar]], a Pahn Kahl named [[Vahr\|Vahr]] made an attempt at stirring up his people. He spent over a decade working to that that end, but was ultimately captured and imprisoned due to [[Bluefingers\|Bluefingers']] information leaks and killed by Vasher.
+[[Bluefingers\|Bluefingers]] himself planned an extensive subversive campaign centered around starting a war between Hallandren and Idris: he brought mercenaries and Pahn Kahl Awakeners into the tunnel system below the court, manipulated [[Siri\|Siri]] into distrusting the Hallandren priests, and hired [[Denth's crew\|Denth's crew]] to increase tensions in the city. When his plans were nearing completion, he tortured [[Blushweaver\|Blushweaver]] and [[Lightsong\|Lightsong]] in order to get the Command phrases for Hallandren's Lifeless army, changed the Command phrase, and sent the army towards Idris. The attempted rebellion was defeated when the [[Susebron\|God King]], with his newly healed tongue, used [[Peacegiver's Treasure\|Peacegiver's Treasure]] to storm his palace with an army of Awakened cloths. Vasher decided to give the God King the Command phrase to Kalad's Phantoms, which he then sent after the Lifeless army.
 
-## Personas destacadas
+## Notable People
 
 [[Susebron\|Susebron]]
 [[Sisirinah\|Sisirinah]]
-[[Encendedora\|Encendedora]]
-[[Sondeluz\|Sondeluz]]
+[[Blushweaver\|Blushweaver]]
+[[Lightsong\|Lightsong]]
 [[Treledees\|Treledees]]
-[[Joyas\|Joyas]]
+[[Jewels\|Jewels]]
 
 
 
-## Notas del traductor
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**| · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
-
-
-
-https://es.coppermind.net/wiki/Hallandren
+https://coppermind.net/wiki/Hallandren

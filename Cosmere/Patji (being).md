@@ -1,45 +1,25 @@
-
-
-|**Patji (ser)**|
+|**Patji (being)**|
 |-|-|
-|**Capacidades**|Avatar de [[Autonom%C3%ADa\|Autonomía]]|
-|**Residencia**|[[Patji (isla)\|Patji (isla)]]|
-|**Mundo natal**|[[Primero del Sol\|Primero del Sol]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Abilities**|Avatar of [[Autonomy\|Autonomy]]|
+|**Residence**|[[Patji (island)\|Patji (island)]]|
+|**Homeworld**|[[First of the Sun\|First of the Sun]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Para la isla que se encuentra en [[Primero del Sol\|Primero del Sol]], ver [[Patji (isla)\|Patji (isla)]].
->“*Pero nos alzamos en el mar, satisfechos con nuestros dominios. Déjanos en paz.*”
+For the island located on [[First of the Sun\|First of the Sun]], see [[Patji (island)\|Patji (island)]].
+>“*We stand in the sea, pleased with our domains. Leave us alone.*”
 \-Patji[1]
 
 
-**Patji** es un avatar de [[Autonom%C3%ADa\|Autonomía]] que se encuentra en [[Primero del Sol\|Primero del Sol]] en el [[Sistema Drominad\|Sistema Drominad]].
+**Patji** is an avatar of [[Autonomy\|Autonomy]] related to the planet [[First of the Sun\|First of the Sun]] in the [[Drominad system\|Drominad system]].
 
-## Historia
-En algún momento Patji fue un ser por sí mismo, con una cantidad y origen desconocido de [[Investidura\|Investidura]], y relacionado de algún modo con [[Autonom%C3%ADa\|Autonomía]]. Dicha Esquirla no siempre fue consciente de la existencia de Patji, pero en algún momento la sintió y se involucró de manera consciente y directa en convertir a Patji en un Avatar suyo. Se entiende muy poco de la relación existente entre una [[Esquirla\|Esquirla]] y sus avatares, aunque Patji sigue fuertemente conectado a Autonomía.
-Patji tiene unos vínculos muy cercanos al planeta Primero del Sol, y le ha cedido su nombre a la isla de [[Patji (isla)\|Patji]], la [[Perpendicularidad\|perpendicularidad]] conocida como [[Ojo de Patji\|Ojo de Patji]] y los árboles llamados [[Dedo de Patji\|dedos de Patji]]. Los humanos que habitan Primero del Sol rezan a Patji y en ocasiones se refieren a él como "Padre", aunque también personifican otras islas. No se cree que Primero del Sol sea la "residencia" permanente de Patji, aunque el concepto de residencia respecto a seres que pertenecen al [[Reino Espiritual\|Reino Espiritual]] está muy desdibujado.
+## History
+At some point Patji was a being of its own, with unknown amounts and origins of [[Investiture\|Investiture]], somehow related to the [[Shard\|Shard]] Autonomy. Autonomy was not always aware of Patji's existence, but at some point sensed it and was consciously and directly involved in shaping it into an avatar. The relationship between a Shard and avatars is poorly understood, but Patji remains strongly connected to Autonomy.
+Patji has close ties to the planet First of the Sun, and presumably lends its name to the island of [[Patji (island)\|Patji]], the [[Perpendicularity\|perpendicularity]] known as [[Patji's Eye\|Patji's Eye]], and [[Patji's Finger\|Patji's Finger]] trees. The humans who live on First of the Sun pray to Patji and sometimes refer to it as "Father", although they also personify other islands. Patji is not thought to permanently "reside" on First of the Sun, but the concept of residence is blurry for beings that reside in the [[Spiritual Realm\|Spiritual Realm]].
 
-### Carta a Hoid
-Patji es quien escribió la segunda [[/wiki/Cartas#Segunda carta de Juramentada]] de [[Juramentada\|Juramentada]] a [[Hoid\|Hoid]]. En la carta, Patji se refería a sí mismo mediante pronombres en plural como "nosotros" y mencionó un "avatar de nuestro ser", insinuando que en cierto modo estaba hablando de Autonomía como un colectivo. La carta establecía una relación con Hoid que ya existía previamente y trataba el hecho de que le había mandado una petición de ayuda a un avatar desconocido. Parecía que Patji se había sorprendido de que Hoid hubiera sido siquiera capaz de encontrar a dicho avatar, ya que lo creía bien escondido, pero aun así fue incapaz de responderle (y tampoco se habría abierto a escuchar sus súplicas de todos modos). Patji declaró además que [[Rayse\|Rayse]] no le preocupaba, y quería ser dejado en paz. Ordenó a Hoid que se mantuviera lejos de [[Obrodai\|Obrodai]], así como de la joven avatar que se encuentra allí. La carta incluía numerosas metáforas relacionadas con el mar y mencionaba que Hoid necesitaría visitar sus aguas y superar una serie de desafíos si quuería ganarse el respeto del avatar y reabrir la discusión.
-
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
-|-|-|
-|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
-|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[Continente\|Continente]]|
-|**Magia**| · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
-|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+### Letter to Hoid
+Patji was the author of a notable [[/wiki/Letters#Second Oathbringer Letter]] to [[Hoid\|Hoid]]. In the letter, Patji referred to itself using plural pronouns such as "we" and "us" and mentioned an "avatar of our being", implying that in some ways it was speaking for Autonomy as a collective. The letter established a previously existing relationship with Hoid and discussed the fact that he had approached an unknown avatar with a plea for help. Patji seemed impressed that Hoid was even able to find the avatar in question, as it was thought to be well hidden, but it was unable to respond to him and would not have been receptive to his pleas anyway. Patji went on to say that it was not concerned about [[Rayse\|Rayse]] and wanted to be left alone. It also instructed Hoid to stay away from [[Obrodai\|Obrodai]] and the young avatar located there. The letter included several sea-related metaphors and mentioned that Hoid would need to visit their waters and overcome a set of unknown tests in order to gain their respect and reopen the discussion.
 
 
 
-https://es.coppermind.net/wiki/Patji_(being)
+
+https://coppermind.net/wiki/Patji_(being)

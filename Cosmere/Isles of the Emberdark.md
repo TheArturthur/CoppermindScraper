@@ -1,66 +1,39 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**[[Sexto del Ocaso\|<]]*Isles of the Emberdark***|
+|**[[Sixth of the Dusk\|<]]*Isles of the Emberdark***|
 |-|-|
 ||
 |**Series**|
-|**Anterior**|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|
-|**Localización**|[[Primero del Sol\|Primero del Sol]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|2025|
+|**Follows**|*[[Sixth of the Dusk\|Sixth of the Dusk]]*|
+|**Setting**|[[First of the Sun\|First of the Sun]], [[Cosmere\|Cosmere]]|
+|**Released**|2025|
 
-> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[Isles of the Emberdark!--*
--->]]*!**Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro*
+> [!info] This page or section contains details from the unpublished work **!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
 
-***Isles of the Emberdark*** es el título provisional de una secuela de *[[Sexto del Ocaso\|Sexto del Ocaso]]*. 
+***Isles of the Emberdark*** is the working title for a sequel to *[[Sixth of the Dusk\|Sixth of the Dusk]]*.
 
-## Sumario
+## Contents
 
-1 Desarrollo. [[#Desarrollo]] 
-2 Resumen de la trama. [[#Resumen de la trama]] 
-3 Sinopsis. [[#Sinopsis]] 
-4 Notas. [[#Notas]] 
+1 Development. [[#Development]] 
+2 Plot Summary. [[#Plot Summary]] 
+3 Synopsis. [[#Synopsis]] 
+4 Notes. [[#Notes]] 
 
 
-## Desarrollo
-Brandon declaró inicialmente que no tenía planes de escribir una continuación de *[[Sexto del Ocaso\|Sexto del Ocaso]]*, pero más tarde se le ocurrió una idea que le gustaba y que implicaba a [[Sexto del Ocaso (personaje)\|Ocaso]] adentrándose en el [[Reino Cognitivo\|Reino Cognitivo]], y escribió un esbozo y el primer capítulo de dicha historia. Sin embargo, no se atreve a escribir más y a publicar la novela, porque contendría muchos spoilers sobre la era espacial del Cosmere. En la fiesta virtual de presentación de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, leyó un fragmento de lo que ya había escrito; puedes encontrar una transcripción de la lectura  y su traducción al español .
-Brandon luchó por sacar adelante la trama durante varios años, hasta que añadió a Starling y su narración a la historia, lo que permitió que su escritura cobrara impulso y la historia tomara forma.
+## Development
+Brandon initially stated that he has no plans to write a sequel to *[[Sixth of the Dusk\|Sixth of the Dusk]]*, but later came up with an idea he liked that involved [[Sixth of the Dusk (character)\|Dusk]] going into the [[Cognitive Realm\|Cognitive Realm]] and wrote an outline and the first chapter for that story. He is hesitant about writing more and releasing the novella, however, because it would have extensive spoilers for the space age of the cosmere. At the virtual release party for *[[Rhythm of War\|Rhythm of War]]*, he read an excerpt from what he had already written; a transcript of the reading can be found .
+Brandon struggled to get the storyline going for several years, until he added Starling and her narrative to the story, which allowed his writing to gain momentum and the story to take shape.
 
-## Resumen de la trama
-En el borrador leído en la fiesta de presentación de *El ritmo de guerra*, la historia tiene lugar unos seis años después de los acontecimientos de *Sexto del Ocaso*. Los [[Venidos de Arriba\|Venidos de Arriba]] empiezan a impacientarse y quieren construir una instalación para criar y recolectar [[Aviar\|aviares]] en una de las islas de [[Primero del Sol\|Primero del Sol]]. [[Vathi\|Vathi]] y [[Ocaso\|Ocaso]] intentan averiguar cómo retrasar su avance y también tratan con gente de otro mundo, probablemente [[Roshar\|Roshar]]. Ocaso se da cuenta de que la gente de Primero del Sol está irremediablemente superada y decide atravesar el [[Ojo de Patji\|Ojo de Patji]], la [[Perpendicularidad\|perpendicularidad]] de la [[Patji (isla)\|isla de Patji]], para intentar conseguir ayuda.
-En la segunda narración, Starling, un dragón de Yolen, es exiliado del planeta doce años antes de los acontecimientos de la historia, y con el tiempo se convierte en teniente de una nave que vuela en el [[Reino Cognitivo\|Reino Cognitivo]], propiedad de [[Xisis\|Xisis]].
+## Plot Summary
+In the draft read at the *Rhythm of War* release party, the story takes place about six years after the events of *Sixth of the Dusk*. The [[Ones Above\|Ones Above]] are starting to grow impatient and want to build an installation to breed and collect [[Aviar\|Aviar]] on one of [[First of the Sun\|First of the Sun's]] islands. [[Vathi\|Vathi]] and [[Dusk\|Dusk]] are trying to figure out how to delay their progress and are also dealing with people from another world, likely [[Roshar\|Roshar]]. Dusk realizes that the people of First of the Sun are hopelessly outmatched and decides to go through [[Patji's Eye\|Patji's Eye]], the [[Perpendicularity\|perpendicularity]] on the [[Patji (island)\|island Patji]], to try to enlist help.
+In the second narrative, Starling, a Yolish Dragon, is exiled from Yolen twelve years before the events of the story, and eventually becomes lieutenant of a ship that flies in the [[Cognitive Realm\|Cognitive Realm]], which is owned by [[Xisis\|Xisis]].
 
-## Sinopsis
-*Toda su vida, Sexto del Ocaso ha sido un trampero tradicional de aviares -las aves sobrenaturales con las que su pueblo se vincula- en la mortífera isla de Patji. Entonces, una fatídica noche, empuja a su pueblo a una carrera por modernizarse antes de que los Venidos de Arriba, invasores de las estrellas que quieren explotar a los aviares, los conquisten.*
-*Pero es una carrera que están perdiendo, y Ocaso teme que su pueblo se pierda a sí mismo en el intento. Cuando se le presenta la oportunidad de navegar hacia la inmensidad del ascuaoscura más allá de un portal místico, Ocaso parte en busca de la salvación de su pueblo con tan solo una canoa, sus pájaros y todo el coraje y la astucia de un trampero de Patji.*
-*En otro lugar del ascuaoscura hay una joven dragona encadenada en forma humana: Starling de la nave estelar *Dynamic*. Ella y su variopinta tripulación de exiliados están muy endeudados y a punto de perder su libertad. Por eso, cuando encuentra un antiguo mapa de un portal oculto entre el asuaoscura y el Reino Físico, aprovecha la oportunidad de hacer un lucrativo descubrimiento.*
-*Estos improbables aliados podrían ser la solución a la crisis del otro. En su búsqueda de la independencia, Ocaso y Starling se enfrentan a peligrosas negociaciones, políticas envenenadas y el eco destructivo de un dios muerto.*
-*Sanderson amplía su emocionante novela *Sexto del Ocaso* para convertirla en una novela mítica de leyendas, tradiciones y superpotencias galácticas en guerra*.
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
-|-|-|
-|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
-|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · [[Sori\|Sori]]) · [[Islas Eelakin\|Islas Eelakin]] · [[Continente\|Continente]]|
-|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
-|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+## Synopsis
+*All his life, Sixth of the Dusk has been a traditional trapper of Aviar—the supernatural birds his people bond with—on the deadly island of Patji. Then one fateful night he propels his people into a race to modernize before they can be conquered by the Ones Above, invaders from the stars who want to exploit the Aviar.*
+*But it’s a race they’re losing, and Dusk fears his people will lose themselves in the effort. When a chance comes to sail into the expanse of the emberdark beyond a mystical portal, Dusk sets off to find his people’s salvation with only a canoe, his birds, and all the grit and canniness of a Patji trapper.*
+*Elsewhere in the emberdark is a young dragon chained in human form: Starling of the starship *Dynamic*. She and her ragtag crew of exiles are deep in debt and on the brink of losing their freedom. So when she finds an ancient map to a hidden portal between the emberdark and the physical realm, she seizes the chance at a lucrative discovery.*
+*These unlikely allies might just be the solution to each other’s crisis. In their search for independence, Dusk and Starling face perilous bargains, poisonous politics, and the destructive echo of a dead god.*
+*Sanderson expands his thrilling novella “Sixth of the Dusk” into a mythic novel of legends, lore, and warring galactic superpowers.*
 
 
 
-https://es.coppermind.net/wiki/Isles_of_the_Emberdark
+
+https://coppermind.net/wiki/Isles_of_the_Emberdark

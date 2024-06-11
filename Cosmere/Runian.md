@@ -1,16 +1,16 @@
 |**Runian**|
 |-|-|
-|**Apodos**|John West, Johnny, Runian Von-Internet of Cascadia|
-|**Oficio**|Boxer , door guard , [[Skop\|skop]]'s husband|
-|**Grupo**| cartel|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Aliases**|John West, Johnny, Runian Von-Internet of Cascadia|
+|**Profession**|Boxer , door guard , [[Skop\|skop's]] husband|
+|**Groups**|[[Fabian Augments\|Fabian Augments]] cartel|
+|**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Runian**, also known as **John West**, is a former member of the  cartel and [[Sefawynn\|Sefawynn]]'s husband.
+**Runian**, also known as **John West**, is a former member of the [[Fabian Augments\|Fabian Augments]] cartel and [[Sefawynn\|Sefawynn's]] husband.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Abilities and Attributes. [[#Abilities and Attributes]] 
@@ -33,7 +33,7 @@ Runian is a muscular man of average height, who wears sturdy boots with laces, a
 He struggles to decide what he likes, and to help him decide, he has a habit of making star ratings.
 
 ## Abilities and Attributes
-Like many people from his time, Runian has medical  that protect him from diseases and heal his wounds.. The nanites can also stop hair growth so that Runian does not have to shave, provide oxygen in case of drowning, regulate temperature, modify taste, and reduce the need for sleep. Consumption of carbon materials, such as charcoal, can replenish nanites. Runian has a visual overlay that shows him his status.
+Like many people from his time, Runian has medical [[Nanites\|nanites]] that protect him from diseases and heal his wounds.. The nanites can also stop hair growth so that Runian does not have to shave, provide oxygen in case of drowning, regulate temperature, modify taste, and reduce the need for sleep. Consumption of carbon materials, such as charcoal, can replenish nanites. Runian has a visual overlay that shows him his status.
 He also has plating augments that prevent most weapons from piercing his skin, except on his chest and skull where the plates are not active. He has additional augments for night vision, optical zoom, skin camouflage, and voice modification
 He has artistic skills that are impressive by medieval standards, and he is good at lying.
 
@@ -46,20 +46,12 @@ At some point, Jen left for what he thought was Europe, and disappeared. Several
 
 ### New Dimension
 Hating his life and wanting to escape, he stole into Ulric's office and choose a random dimension to go into, but without the proper preparation, he crashed into it and lost most of his memory. Here he was found by the natives of the dimension, and mistaken for an [[Aelv\|aelv]]; and in this misunderstanding, he was knocked out and taken captive.
-After saving the country from Ulric and the , and after learning how he could prevent his presence from harming the entities around him, he decided to continue living in the dimension, and eventually married [[Sefawynn\|Sefawynn]].
+After saving the country from Ulric and the [[Hordamen\|Hordamen]], and after learning how he could prevent his presence from harming the entities around him, he decided to continue living in the dimension, and eventually married [[Sefawynn\|Sefawynn]].
 
 ## Relationships
 ### Sefawynn
-John first met Sefawynn when he was captured just after his arrival to the dimension. Sefawyn is a  [[Skop\|skop]] and decides that John is not an Aelv but is just a charlatan. After Sefawynn's brother is taken they leave with [[Ealstan\|Ealstan]] the thegn of [[Stenford\|Stenford]]. Throughout the journey John and Sefawynn grow closer together, eventually falling in love. In the end John decides to stay as his interference will protect Sefawynn from the wrath of [[Woden\|Woden]]. Eventually they get married.
-
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]**|
-|-|-|
-|**Personajes**| · [[Sefawynn\|Sefawynn]] · [[Ealstan\|Ealstan]] · [[Ulric Stromfin\|Ulric Stromfin]] · [[Quinn Jericho\|Quinn Jericho]] · [[Ryan Chu\|Ryan Chu]] · [[Logna\|Logna]]|
-|**Lugares**|[[Stenford\|Stenford]] · [[Wellbury\|Wellbury]] · [[Maelport\|Maelport]]|
+John first met Sefawynn when he was captured just after his arrival to the dimension. Sefawyn is a [[Weswaran\|Weswaran]] [[Skop\|skop]] and decides that John is not an Aelv but is just a charlatan. After Sefawynn's brother is taken they leave with [[Ealstan\|Ealstan]] the thegn of [[Stenford\|Stenford]]. Throughout the journey John and Sefawynn grow closer together, eventually falling in love. In the end John decides to stay as his interference will protect Sefawynn from the wrath of [[Woden\|Woden]]. Eventually they get married.
 
 
 
-https://es.coppermind.net/wiki/Runian
+https://coppermind.net/wiki/Runian

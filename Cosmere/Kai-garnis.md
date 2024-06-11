@@ -1,34 +1,13 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kai-garnis**|
 |-|-|
-|**Especie**|[[Tronador\|Tronador]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Species**|[[Thunderclast\|Thunderclast]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Kai-garnis** es un [[Tronador\|tronador]] que participó en la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
-Ella despertó de la bahía en medio del ejército de [[Cantor\|cantor]] antes de la batalla hundiéndose en la piedra y convirtiéndose en ella, antes de arrancarse a sí misma del suelo. [[Odium\|Odium]] la felicitó más tarde por la destrucción de parte de la muralla exterior y le encargó tomar la [[Puerta Jurada\|Puerta Jurada]] si los [[Tisark\|Tisark]] no podían destruirla. [[Hrdalm\|Hrdalm]] y [[Adolin Kholin\|Adolin Kholin]] la atacaron, y lograron cortarle una sola pierna, aunque esto no entorpeció significativamente a Kai-garnis. Sin embargo, cuando llegó [[Renarin Kholin\|Renarin Kholin]], Kai-garnis pareció tenerle miedo. Renarin convenció a Adolin para que se retirara, ya que no tenía su [[Armadura esquirlada\|armadura esquirlada]] en ese momento, así que Adolin prestó [[Mayalaran\|Maya]] a Hrdalm; Renarin y Hrdalm continuaron entonces el ataque. Kai-garnis aplastó a Renarin con sus manos varias veces; Renarin no se inmutó ante estos ataques, curándose casi al instante con la Potencia de [[Regeneraci%C3%B3n\|Regeneración]], y pudo asestar un duro golpe cada vez que le alcanzaron. Renarin y Hrdalm consiguieron cortar las piernas y los brazos de Kai-garnis. Una vez inmovilizada, Renarin se acercó a su cabeza y extrajo una gran cantidad de [[Luz tormentosa\|luz tormentosa]], lo que hizo que Kai-garnis huyera de la piedra.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+**Kai-garnis** is a [[Thunderclast\|thunderclast]] that was involved in the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+She awakened from the bay in the midst of the [[Singer\|singer]] army before the battle by sinking into the stone and becoming it, before ripping herself out of the ground. [[Odium\|Odium]] later complimented her on the destruction of part of the outer wall and tasked her with taking the [[Oathgate\|Oathgate]] if the [[Tisark\|Tisark]] couldn't destroy it. [[Hrdalm\|Hrdalm]] and [[Adolin Kholin\|Adolin Kholin]] attacked her, and were successful in cutting off a single leg, although this did not significantly hinder Kai-garnis. When [[Renarin Kholin\|Renarin Kholin]] arrived, however, Kai-garnis appeared to be scared of him. Renarin convinced Adolin to stand down, as he did not have his [[Shardplate\|Shardplate]] at the time, so Adolin lent [[Mayalaran\|Maya]] to Hrdalm; Renarin and Hrdalm then continued the attack. Kai-garnis crushed Renarin with her hands several times; Renarin was unfazed by these attacks, healing almost instantly with the surge of [[Regrowth\|Regrowth]], and was able to land a serious blow each time he was hit. Renarin and Hrdalm managed to cut off Kai-garnis' legs and arms. Once she was immobilized, Renarin approached her head and drew in a large amount of [[Stormlight\|Stormlight]], which caused Kai-garnis to flee from the stone.
 
 
 
-https://es.coppermind.net/wiki/Kai-garnis
+https://coppermind.net/wiki/Kai-garnis

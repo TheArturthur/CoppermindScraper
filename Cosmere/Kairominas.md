@@ -1,10 +1,10 @@
 |**Kairominas**|
 |-|-|
-|**Cónyuge**|[[Molly (Perfect State)\|Molly]]|
-|**Títulos**|First of Alornia,Keeper of the Seventeen Lanterns,Master of Ultimate Lancing,Slayer of Galbrometh|
-|**Mundo natal**|[[Alornia\|Alornia]]|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
-|**Presentado en**|*[[Perfect State\|Perfect State]]*|
+|**Spouse**|[[Molly (Perfect State)\|Molly]]|
+|**Titles**|First of Alornia,Keeper of the Seventeen Lanterns,Master of Ultimate Lancing,Slayer of Galbrometh|
+|**Homeworld**|[[Alornia\|Alornia]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Introduced In**|*[[Perfect State\|Perfect State]]*|
 
 >“*What's so special about a body? Yes, we have brains, you and I. What we 'feel' and 'think' is the result of chemicals swimming around inside our heads. How is that so different from the emotions of the Machineborn? Bits or hormones, does it matter?*”
 \-Kai to Sophie[1]
@@ -13,7 +13,7 @@
 **Kairominas** is the [[Liveborn\|Liveborn]] ruler of [[Alornia\|Alornia]], his home [[State\|State]]. Having united all of Alornia on his 300th birthday, Kai's youth was exciting and adventure filled. The fifty years following the unification of Alornia threatened to bore Kai, though he developed a nemesis in a neighboring Liveborn called [[Melhi\|Melhi]]. Melhi and Kai have since skirmished in [[/wiki/State#Border States]] between their two States, as well as within Alornia.
 Around his 350th birthday, Kai is contacted by the [[Wode\|Wode]], asking him to travel to a [[/wiki/State#Communal States]], meet with a woman, and procreate. While in the Communal State Kai partakes in an insightful discussion with his date, [[Sophie (Perfect State)\|Sophie]], and manages to defeat a giant robot sent by Melhi. Kai also learns that Sophie is one of Melhi's robots as well, and returns to Alornia with a longing to learn about other Liveborn rather than continuing to follow the preplanned path for his home State.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -75,16 +75,6 @@ Kai returns to Alornia, no longer wishing to stay alone within his own State. He
 \-Kai to Sophie[5]
 
 
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**| · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Kairominas
+https://coppermind.net/wiki/Kairominas

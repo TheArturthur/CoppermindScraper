@@ -1,47 +1,22 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Dowser Maline**|
 |-|-|
-|**Fallecido**|342 [[Catacendro\|PC]], [[Subasta de Winsting Innate\|subasta de Winsting Innate]]|
-|**Oficio**|Contrabandista|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Sombras de Identidad\|Sombras de Identidad]]*|
+|**Died**|342 [[Catacendre\|PC]], [[Winsting Innate's auction\|Winsting Innate's auction]]|
+|**Profession**|Smuggler|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
-Para el artilugio de la saga de [[Reckoners\|Reckoners]] empleado para detectar [[%C3%89pico\|Épicos]], ver [[Brazalete de zahor%C3%AD\|brazalete de zahorí]].
-**Dowser Maline** es un criminal de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]].
+For the device in the [[Reckoners\|Reckoners]] series used to detect [[Epic\|Epics]], see [[Dowser\|dowser]].
+**Dowser Maline** is a criminal in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
-## Apariencia y personalidad
-Dowser es grosero; incluso en situaciones formales, no se molesta en afeitarse ni en quitarse su bombín, y tiende a hacer comentarios directos. Es taimado y suele desconfiar de las situaciones raras.
+## Appearance and Personality
+Dowser is uncouth; even in formal situations, he does not bother to shave or remove his bowler hat, and he tends to make blunt comments. He is devious and is tends to be suspicious of unfamiliar situations.
 
-## Historia
-Es un conocido criminal y se sospecha que ha estado dirigiendo una operación de contrabando de minerales en Elendel desde hace un tiempo. Su reputación hizo que se ganara una invitación a la [[Subasta de Winsting Innate\|subasta de Winsting Innate]] junto con otros criminales y nobles corruptos, puesto que la puja era una tapadera para pasar sobornos a [[Winsting\|Winsting]]. Este último insinuaba que su hermano, el gobernador [[Replar Innate\|Replar Innate]], aceptaba sobornos, lo que pareció captar la atención de Dowser. El criminal iba acompañado por una mujer alta y cimbreña a la que Winsting no reconoció. Le preguntó a Winsting algunas preguntas un tanto mordaces, lo que le llevó a pensar de que la mujer era una espía al servicio de los alguaciles.
-Durante la subasta, estalló un repentino tiroteo y todos los asistentes, incluido Dowser, fueron asesinados. Uno de los guardias de Winsting pensó que Dowser había sido el primero en disparar, pero otro guardia culpó a [[Darm (Nacidos de la bruma)\|Darm]]. [[Wax\|Wax]] terminó deduciendo que [[Sangradora\|Sangradora]] era una [[Kandra\|kandra]] que había empleado [[Acero\|acero]] [[Feruquimia\|feruquímico]] para disparar rápidamente desde diferentes posiciones, causando que los invitados se volvieran en contra unos de otros. Probablemente estuviera disfrazada como la misteriosa acompañante de Dowser.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 17:07, 26 November 2021 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+He was a well-known criminal who had long been suspected of running an ore-smuggling operation into Elendel. His reputation earned him an invitation to [[Winsting Innate's auction\|Winsting Innate's auction]] alongside a number of other criminals and corrupt nobles, as the auction was a front for passing bribes to [[Winsting\|Winsting]]. Winsting also implied that his brother Governor [[Replar Innate\|Replar Innate]] could be bought, which caught Dowser's attention. Dowser was accompanied by a tall, slender woman that Winsting did not recognize. She asked Winsting some pointed questions, and he suspected her of being a spy for the constabulary.
+During the auction, gunfire suddenly erupted and all of the attendees including Dowser were killed. One of Winsting's guards thought that Dowser was the first to start shooting, but another guard blamed [[Darm (Mistborn)\|Darm]]. [[Wax\|Wax]] eventually deduced that [[Bleeder\|Bleeder]] was a [[Kandra\|kandra]] who had used [[Feruchemical\|Feruchemical]] [[Steel\|steel]] to quickly fire shots from multiple locations, causing the guests to turn on each other. She was presumably in disguise as Dowser's mysterious companion.
 
 
 
-https://es.coppermind.net/wiki/Dowser_Maline
+https://coppermind.net/wiki/Dowser_Maline

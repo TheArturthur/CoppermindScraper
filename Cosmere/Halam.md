@@ -1,62 +1,44 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Halam Khal**|
 |-|-|
-|**Familia**|
-|**Padres**|[[General Khal\|General Khal]], [[Teshav\|Teshav]]|
-|**Hermanos**|[[Aratin\|Aratin]], [[Meleran\|Meleran]]|
-|**Parientes**|[[Idani\|Idani]] |
-|**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
-|**Oficio**|Capitán en el Ejército de Kholin|
-|**Grupo**|Ejército de Kholin|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Parents**|[[General Khal\|General Khal]], [[Teshav\|Teshav]]|
+|**Siblings**|[[Aratin\|Aratin]], [[Meleran\|Meleran]]|
+|**Relatives**|[[Idani\|Idani]] |
+|**Abilities**|[[Shardbearer\|Shardbearer]]|
+|**Profession**|Captain in Kholin army|
+|**Groups**|Kholin army|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-El capitán **Halam Khal** es un oficial [[Ojos claros\|ojos claros]] y [[Portador de esquirlada\|portador de esquirlada]] en el ejército de Kholin en [[Roshar\|Roshar]]. Es el hijo mayor del [[General Khal\|general Khal]] y la brillante [[Teshav\|Teshav]].
+Captain **Halam Khal** is a [[Lighteyed\|lighteyed]] officer and [[Shardbearer\|Shardbearer]] in the Kholin army on [[Roshar\|Roshar]]. He is the eldest son of [[General Khal\|General Khal]] and Brightness [[Teshav\|Teshav]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Poco se sabe de la apariencia de Halam Khal. Sus ojos son [[Ojos claros\|claros]], bien amarillos o bien violetas según de quien los haya heredado. Como todos los [[Alezi\|alezi]], es moreno de piel. Incluso sus parientes lo consideran alto.
-Khal es un soldado confiable. Su padre le confía su juego de [[Portador de esquirlada\|esquirlas]], y a menudo deja que actúe por su cuenta, confiando, con todo el derecho, en que el capitán tendrá éxito. Halam ha sido enseñado a enfrentarse a cualquier desafío que surja, incluso si el oponente es su superior. Cuando no está en batalla o cumpliendo otros deberes, a menudo se lo ve cerca de su padre.
-
-## Atributos y habilidades
-Halam es un soldado entrenado con una habilidad considerable. Está presente en la mayoría de los enfrentamientos durante la [[Guerra de la Venganza\|guerra de la Venganza]] y la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] y sale de ellas prácticamente intacto. También es un [[Portador de esquirlada\|portador de esquirlada]] entrenado, y aunque no tiene [[Armadura esquirlada\|armadura]] ni [[Hoja esquirlada\|espada]] propias, demuestra habilidad usando las armas de su padre. Es posible, no obstante, que el [[General Khal\|general Khal]] acabe entregándole su propia armadura, pues tras la [[Batalla de Narak\|batalla de Narak]] otros se referían a Halam como portador de esquirlada, y es visto llevando la armadura de su padre más a menudo que su propio padre.
-Como primogénito de su padre, Halam es el heredero a las tierras de Khal, si aún existen.
-
-## Historia
-No se conoce nada de la vida temprana de Halam Khal excepto que nació del [[General Khal\|general Khal]] y la brillante [[Teshav\|Teshav]]. Como muchos señores brillantes alezi, se unió al ejército, y en 1173 llegó al rango de capitán. Era miembro de la partida de guerra liderada por [[Dalinar Kholin\|Dalinar Kholin]] hacia el interior de las [[Llanuras Quebradas\|Llanuras Quebradas]] para combatir a los [[Parshendi\|parshendi]]. Combatió en la [[Batalla de Narak\|batalla de Narak]] junto con los ejércitos menos habilidosos en el frente del alto príncipe [[Roion\|Roion]]. Por ello, su padre le dejó sus propias [[Armadura esquirlada\|armadura esquirlada]] y [[Espada esquirlada\|espada esquirlada]].
-A pesar de los esfuerzos del Capitán Khal, las tropas de Roion fueron derrotadas por los parshendi. Atrapado y casi sobrepasado, Halam fue rescatado cuando los [[Artifabriano\|artifabrianos]] de la brillante señora [[Navani\|Navani]] pusieron en acción sus [[Fabrial\|fabriales]] atractores de humedad, permitiendo a los arqueros proporcionar a Khal y a sus hombres cobertura mientras se retiraban. El capitán Khal regresó del frente a pie, llevando la hoja del rey prestada de [[Teleb\|Teleb]], que había recuperado del cuerpo del otro hombre. Fue enviado a otro punto del campo de batalla inmediatamente tras su regreso.
-Halam sobrevivió a la batalla y fue junto a su familia a [[Urithiru\|Urithiru]]. En algún momento, la princesa de [[Yezier\|Yezier]] empezó a cortejarlo, quizá con esperanzas de unir su país a los [[Casa Kholin\|Kholins]] y su fuerza militar. Él y su padre visitaron brevemente [[Ciudad Thaylen\|Ciudad Thaylen]], pero antes de que la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] empezara, regresaron a Urithiru para reunir soldados y se quedaron atrapados cuando la torre sufrió el ataque de los [[Fusionado\|Fusionados]]. Después de que el asalto fuese contrarrestado, lideraron una fuerza de liberación alezi formada por dos mil soldados y tres portadores de esquirlada para ayudar a Ciudad Thaylen. El capitán también sobrevivió a esa batalla.
-
-## Curiosidades
-Halam permanece sin ser nombrado durante la totalidad de *[[Palabras radiantes\|Palabras radiantes]]*, haciéndose referencia a él solo como «capitán Khal».
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 17:17, 29 May 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Little is known about Halam Khal's appearance. His eyes are [[Lighteyes\|light]], either yellow or violet depending on which of his parents he takes after. Like all [[Alethi\|Alethi]], he's tan. Even his kinsmen consider him tall.
+Khal is a dependable soldier. [[General Khal\|His father]] trusts him with his set of [[Shardbearer\|Shards]], and often leaves him to act on his own, trusting--rightfully so--that the captain will succeed. Halam has been taught to take on any challenge that arises, even if the opponent is his superior. When not in battle or fulfilling other duties, he is usually seen close by his father's side.
 
-https://es.coppermind.net/wiki/Halam
+## Attributes and Abilities
+Halam is a trained soldier with considerable skill. He is present in most major engagements during the [[War of Reckoning\|War of Reckoning]] and the [[True Desolation\|True Desolation]] and comes out of them essentially unscathed. He's also a trained [[Shardbearer\|Shardbearer]], and though he does not have [[Shardplate\|Plate]] or a [[Shardblade\|Blade]] of his own, he is skilled in using his father's weapons. It's possible, however, that [[General Khal\|General Khal]] ends up bestowing his own Plate on him, as following the [[Battle of Narak\|Battle of Narak]] others refer to Halam as a Shardbearer, and he is seen wearing his father's Plate far more often than his father is.
+As his father's eldest son, Halam is the heir to the Khal lands, if they still exist.
+
+## History
+Nothing is known of Halam Khal's early life except that he was born to [[General Khal\|General Khal]] and Brightness [[Teshav\|Teshav]]. Like many [[Alethi\|Alethi]] Brightlords, he joined the military, and by 1173 he reached the rank of captain. He was a member of the war party led by [[Dalinar Kholin\|Dalinar Kholin]] out onto the [[Shattered Plains\|Shattered Plains]] to fight the [[Parshendi\|Parshendi]]. He fought in the [[Battle of Narak\|Battle of Narak]] along with the less-skilled armies on [[Highprince\|Highprince]] [[Roion\|Roion's]] front. For this, his father lent him his own [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblade]].
+Despite Captain Khal's best efforts, Roion's troops were routed by the Parshendi. Trapped and nearly overwhelmed, Halam was rescued when Brightlady [[Navani\|Navani's]] [[Artifabrian\|artifabrians]] put their moisture-attracting [[Fabrial\|fabrials]] into action, allowing archers to give Khal and his men cover as they retreated. Captain Khal returned from the front on foot, bearing [[Teleb\|Teleb's]] borrowed King's Blade, which he had recovered from the other man's corpse. He was sent to another part of the battlefield immediately upon his return.
+Halam survived the battle and came to [[Urithiru\|Urithiru]] along with the rest of his family. At some point, the princess of [[Yezier\|Yezier]] began courting him, perhaps in hopes of tying her country to the [[House Kholin\|Kholins]] and their military. He and his father briefly visited [[Thaylen City\|Thaylen City]], but before the [[Battle of Thaylen Field\|Battle of Thaylen Field]] began, they transferred back to Urithiru to gather their soldiers and were subsequently stuck there when the tower came under attack from the [[Fused\|Fused]]. After that assault was pushed back, they led an Alethi relief force consisting of two thousand sodiers and three Shardbearers to aid Thaylen City. The captain survived that battle as well.
+
+## Trivia
+Halam goes unnamed throughout the entirety of *[[Words of Radiance\|Words of Radiance]]*, being referred to only as "Captain Khal".
+
+
+https://coppermind.net/wiki/Halam

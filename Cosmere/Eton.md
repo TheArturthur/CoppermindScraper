@@ -1,30 +1,17 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Eton**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Iadon\|Iadon]], [[Eshen\|Eshen]]|
-|**Hermanos**|[[Raoden\|Raoden]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-Esta página comenta material eliminado del libro final.
+|**Family**|
+|**Parents**|[[Iadon\|Iadon]], [[Eshen\|Eshen]]|
+|**Siblings**|[[Raoden\|Raoden]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+This article discusses material removed from the final book
 
-**Eton**, frecuentemente conocido como el **príncipe loco**, fue un antagonista secundario en los primeros borradores de *[[Elantris (libro)\|Elantris]]*. Su papel en la historia lo asumió en gran medida el duque [[Telrii\|Telrii]] en la publicación final.}}
-Eton, hermano del príncipe [[Raoden\|Raoden]], es mencionado periódicamente en las tres primeras cuartas partes del libro, como un hombre irracional y una posible vergüenza para la corte, a quien el rey [[Iadon\|Iadon]] envió a una lejana [[/wiki/Arelon#Plantaciones]] algún tiempo antes de que comenzara el libro. En su juventud, Eton disfrutaba celebrando simulacros de batallas con campesinos, y a menudo atormentaba a Raoden. Con el tiempo, Raoden se adaptó y aprendió a superar a su cruel hermano, sentando las bases para sus maniobras políticas con su padre cuando era joven.
-En el acto final del libro, Eton llega a Kae con un ejército. [[Sarene\|Sarene]] lo ve por primera vez después de salir de [[Elantris (ciudad)\|Elantris]], cuando cabalga hasta el palacio con una docena de soldados, anuncia su reivindicación del trono e incendia el palacio. Más tarde se reúne con Hrathen, aceptando convertirse al [[Shu-Dereth\|Shu-Dereth]] e inquietando a Hrathen con la calma con la que contradice tanto a la lógica como a sí mismo. Hrathen y Eton se reúnen de nuevo, y Hrathen intenta avanzar algo en sus objetivos mientras Eton le obliga a jugar a «las piedras», un juego que Eton afirma que es tremendamente popular pero Hrathen está seguro de que sólo existe en la mente de Eton. Hrathen abandona la reunión cada vez más frustrado.
-Eton es asesinado, y sus soldados se presentan para juzgar a Raoden por causar su muerte. Sarene acompaña a Raoden al juicio, celebrado junto a la pira de Eton. Raoden acepta su responsabilidad por la muerte de Eton y pronuncia un apasionado discurso. El general de Eton levanta su espada para ejecutar a Raoden, cierra los ojos y golpea, fallando en el cuello de Raoden por menos de una pulgada. Explica que Eton siempre obligaba a sus soldados a realizar las ejecuciones con los ojos cerrados: un acierto significaba culpabilidad y un fallo significaba que el acusado había sido inocente todo el tiempo. El general declara a Raoden inocente y Raoden se prepara para su coronación.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+**Eton**, frequently referred to as the **Mad Prince**, was a secondary antagonist in the early drafts of *[[Elantris (book)\|Elantris]]*. His role in the story was largely filled in the published book by Duke [[Telrii\|Telrii]].
+Eton, Prince [[Raoden\|Raoden's]] brother, was mentioned periodically in the first three quarters of the book, as an irrational man and a potential embarrassment to the court, whom King [[Iadon\|Iadon]] sent off to a distant [[/wiki/Arelon#Plantations]] some time before the book began. In his youth Eton enjoyed holding mock battles with peasants, and often tormented Raoden. Raoden eventually adapted and learned to best his cruel brother, laying the groundwork for his political maneuvering with his father as a young man.
+In the final act of the book, Eton arrives in Kae with an army. [[Sarene\|Sarene]] first sees him after she emerges from [[Elantris (city)\|Elantris]], when he rides up to the palace with a dozen soldiers, announces his claim on the throne, and sets the palace on fire. Later he meets with Hrathen, agreeing to convert to [[Shu-Dereth\|Shu-Dereth]] and unsettling Hrathen with the calm manner in which he contradicts both logic and himself. Hrathen and Eton meet again, and Hrathen attempts to make some progress on his goals as Eton forces him to play Stones, a game Eton claims is wildly popular but Hrathen is confident exists only in Eton's mind. Hrathen leaves the meeting increasingly frustrated.
+Eton is assassinated, and his soldiers show up to try Raoden for causing Eton's death. Sarene accompanies Raoden to the trial, held next to Eton's pyre. Raoden accepts responsibility for Eton's death and makes an impassioned speech. Eton's general raises his sword to execute Raoden, closes his eyes, and swings, missing Raoden's neck by less than an inch. He explains that Eton always made his soldiers perform executions with closed eyes: a hit meant guilt, and a miss meant the accused had been innocent all along. The general declares Raoden innocent, and Raoden prepares for his coronation.
 
 
 
-https://es.coppermind.net/wiki/Eton
+https://coppermind.net/wiki/Eton

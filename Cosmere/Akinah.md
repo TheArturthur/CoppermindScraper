@@ -1,88 +1,67 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Akinah**|
 |-|-|
 ||
-|**Nación**|[[Aimia\|Aimia]]🐱︎|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Nation**|[[Aimia\|Aimia]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*No es habitual que tenga que protegerlo [Akinah] con tanta… agresividad. El hombre no debe redescubrir este lugar. Existen quienes podrían obligar a tu alma a revelar sus secretos, y el coste se mediría en mundos destruídos.*”
-\-Cocinero Dysian aimiano a Kaza[1]
-
-
-**Akinah** es la antigua capital del [[Reino Plateado\|Reino Plateado]] de [[Aimia\|Aimia]] en [[Roshar\|Roshar]]. En tiempos más modernos, también es conocida como **La Roca de los Secretos** y **El Recreo del Vacío**. La ciudad en sí fue destruida hace mucho tiempo, y durante la [[Era de la Soledad\|Era de la Soledad]] sólo existe como una ruina. En ella se encuentra una [[Puerta Jurada\|Puerta Jurada]] aparentemente funcional y sus cavernas submarinas contenían antiguamente una [[Esquirla del Amanecer\|Esquirla del Amanecer]].
-
-## Sumario
-
-1 Apariencia. [[#Apariencia]] 
-
-1. [[#Cavernas]] 
-1. [[#Defensas con moldeado de almas]] 
-1. [[#Tormenta protectora]] 
+>“*It is rare I must guard [Akinah] so . . . aggressively. Men must not again discover this place... There are those who could pull secrets from your soul, and the cost would be the ends of worlds.*”
+\-Dysian Aimian cook to Kaza[1]
 
 
-2 Historia. [[#Historia]] 
+**Akinah** is the ancient capital of the [[Silver Kingdoms\|Silver Kingdom]] of [[Aimia\|Aimia]] on [[Roshar\|Roshar]]. In more modern times, it is also known as **The Rock of Secrets** and **The Void's Playground**. The city itself was destroyed long ago, and during the [[Era of Solitude\|Era of Solitude]] it exists only as a ruin. It is the location of an apparently functional [[Oathgate\|Oathgate]] and its underwater caverns formerly contained a [[Dawnshard\|Dawnshard]].
 
-2. [[#Capital de Aimia]] 
-2. [[#Abandono]] 
-2. [[#La expedici.C3.B3n de Vazrmeb]] 
-2. [[#La expedici.C3.B3n de Rysn]] 
+## Contents
+
+1 Appearance. [[#Appearance]] 
+
+1. [[#Caverns]] 
+1. [[#Soulcast Defenses]] 
+1. [[#Protection Storm]] 
 
 
-3 Notas. [[#Notas]] 
+2 History. [[#History]] 
+
+2. [[#Capital of Aimia]] 
+2. [[#Abandonment]] 
+2. [[#Vazrmeb.27s Expedition]] 
+2. [[#Rysn.27s Expedition]] 
 
 
-## Apariencia
+3 Notes. [[#Notes]] 
+
+
+## Appearance
  
-Akinah está situada en una pequeña isla en la sección norte de Aimia, algo cerca de la gran isla principal. Akinah está situada en una pequeña isla en la sección norte de Aimia, algo cerca de la gran isla principal. Esta simetría está relacionada con que el diez es un número importante en Roshar. Desde arriba, la ciudad parece una flor con pétalos radiantes.
-La isla presenta oscuras y altas formaciones rocosas a lo largo de su centro que parecen casi las murallas de una ciudad y edificios uniformes en las "puntas" de los pétalos de la flor vistos desde arriba. Laciudad en ruinas—que [[Rushu\|Rushu]] especula que es falsa, ocultando la verdadera ciudad que se hundió en el [[Crem\|crem]] hace años—está cubierta de crem y la playa rocosa que rodea la ciudad está abarrotada de cadáveres de [[Grancaparaz%C3%B3n\|grancaparazones]] muertos y gemas corazón falsas.
+Akinah is located on a small island in the northern section of Aimia, somewhat near the large main island. The city seems to have once been grand, with ornate buildings arranged in a tenfold symmetry radiating out from a round central hub. This tenfold symmetry is connected to ten being an important number on Roshar. From above, the city looks like a flower with radiating petals.
+The island features dark, tall rock formations along its center that look almost like the walls of a city and uniform buildings in the "tips" of the flower petals as seen from above. The ruined city—which [[Rushu\|Rushu]] speculates is fake, concealing the real city which sank into the [[Crem\|crem]] years ago—is covered with crem and the rocky beach around the city is cluttered with the corpses of dead [[Greatshell\|greatshells]] and deceptive, fake gemhearts.
 
-### Cavernas
-Las cavernas bajo Akinah albergaban la Puerta Jurada de la ciudad y el [[Mural de la Esquirla del Amanecer en Akinah\|mural de la Esquirla del Amanecer]].
-Se ha hecho un gran esfuerzo para ocultar la Puerta Jurada. Se construyó una cámara con una Puerta Jurada falsa, aparentemente fuera de servicio, encima de la verdadera Puerta Jurada. La verdadera Puerta Jurada se encontraba debajo, en una sala de unos tres metros de altura y una gran anchura.
-Los demás secretos de Akinah estaban ocultos bajo la isla, en una caverna a la que sólo se podía acceder a través de un túnel submarino. En el interior de las cámaras llenas de aire, un pasillo tallado en la piedra con murales de gente cayendo a través de portales conducía a una pequeña sala con un gran mural en el extremo, un conjunto de armaduras esquirladas, armas y ropas ornamentadas, y ocho [[Moldear almas\|moldeadores de almas]]. Una puerta metálica en el lado izquierdo de la sala daba paso a un pasillo más grande con seis enormes cráneos de [[Larkin\|Larkin]]. El gran mural - que no era un mural normal - era antiguamente la Esquirla del Amanecer.
+### Caverns
+The caverns underneath Akinah housed the city's Oathgate and the [[Akinah Dawnshard mural\|Dawnshard mural]].
+Great pains had been taken to hide the Oathgate. A chamber with a false, seemingly defunct Oathgate was built atop the true Oathgate. The real Oathgate was housed underneath in a room about twelve feet high and expansively wide.
+Akinah's other secrets were hidden beneath the island in a cavern accessible only via underwater tunnel. Inside the air-filled chambers, a corridor that had been carved out of the stone featuring murals of people falling through portals led to a small room with a large mural on the far side, a set of Shardplate, ornate weapons and clothing, and eight [[Soulcaster\|Soulcaster]] devices. A metal door on the left side of the room opened to a larger corridor with six huge [[Larkin\|larkin]] skulls. The large mural - which was not an ordinary mural - was formerly the Dawnshard.
 
-### Defensas con moldeado de almas
-La isla está rodeada por una muralla de enormes pinchos de piedra moldeados por el alma de unos cuarenta pies de altura y custodiada por otros pinchos submarinos moldeados por el alma, aparentemente diseñados para perforar los cascos de los barcos que se acercan. Tres pinchos submarinos y un pincho de la muralla fueron eliminados mediante moldeado de almas durante una expedición fallida en 1174.
+### Soulcast Defenses
+The island is ringed by a wall of enormous Soulcast stone spikes around forty feet tall and guarded by additional Soulcast underwater spikes, seemingly designed to pierce the hulls of approaching ships.Three underwater spikes and one wall spike were removed by Soulcasting during a failed expedition in 1174.
 
-### Tormenta protectora
-Una terrible y persistente tormenta - un patrón meteorológico inusual - reforzó las defensas de la isla , pero se había debilitado en 1174. Los [[/wiki/Insomne#Hordinos]] que se habían cruzado con los larkin y que, por tanto, eran capaces de drenar la [[Luz tormentosa\|luz tormentosa]], volaban a través de las nubes como salvaguarda contra los [[Potenciaci%C3%B3n\|potenciadores]].
-Hordinos Insomnes en forma de monstruos marinos gigantes también protegían la isla.
+### Protection Storm
+A terrible and persistent storm - an unusual weather pattern - bolstered the island’s defenses , but had been weakened by 1174. [[/wiki/Sleepless#hordelings]] that had bred with larkin and were thereby able to drain [[Stormlight\|Stormlight]] flew through the clouds as a safeguard against [[Surgebinding\|Surgebinders]].
+Sleepless hordlings in the form of giant sea monsters also protected the island.
 
-## Historia
-### Capital de Aimia
-El origen de la ciudad es desconocido, pero es bastante antiguo. En algún momento del pasado, el aire fue moldeado en enormes picos que rodeaban la ciudad. En las Épocas Heráldicas, Akinah era conocida como el antiguo hogar de los moldeadores de almas, y era el lugar al que la gente acudía para conseguir dispositivos de moldeado de almas. Su Puerta Jurada le proporcionaba una conexión directa con [[Urithiru\|Urithiru]], lo que permitía viajar rápidamente a la ciudad. Tras el abandono de Urithiru, uno de los [[Escultores de Voluntad\|Escultores de Voluntad]] se aventuró en Aimia para explorar sus cavernas submarinas, dejando sus mapas en Akinah. En algún momento desconocido, la ciudad fue destruida, quizás en [[La destrucci%C3%B3n de Aimia\|la destrucción de Aimia]] o debido a la influencia del [[Deshecho\|Deshecho]] [[Dai-Gonarthis\|Dai-Gonarthis]]. [[Jasnah Kholin\|Jasnah Kholin]] confiaba previamente en que la Puerta Jurada había sido destruida y el vínculo con Urithiru cortado. Los [[Insomne\|Dysian aimianos]] asumieron la tarea de custodiar la ciudad y sus secretos porque los [[Lancer\|Guardianes de los Antiguos Pecados]] estaban casi extintos.
+## History
+### Capital of Aimia
+The origin of the city is unknown, but it is quite ancient. At some point in the past, air was Soulcast into massive spikes surrounding the city. In the Heraldic Epochs, Akinah was known as the ancient home of the Soulcasters, and it was where people would come to get Soulcasting devices. Its Oathgate gave it a direct connection to [[Urithiru\|Urithiru]], allowing rapid travel to the city. After Urithiru was abandoned, one of the [[Willshapers\|Willshapers]] ventured to Aimia to explore its undersea caverns, leaving their maps in Akinah. At some unknown time, the city was destroyed, perhaps in the [[Scouring of Aimia\|scouring of Aimia]] or due to the influence of the [[Unmade\|Unmade]] [[Dai-Gonarthis\|Dai-Gonarthis]]. [[Jasnah Kholin\|Jasnah Kholin]] was previously confident that the Oathgate was destroyed and the link with the Urithiru severed. [[Dysian Aimian\|Dysian Aimians]] took up the task of guarding the city and its secrets because the [[Lancer\|Guardians of Ancient Sins]] were all but extinct.
 
-### Abandono
-Durante el tiempo que siguió, la ciudad entró en el reino de los mitos y las leyendas, lo que le valió los nombres de La Roca de los Secretos y Recreo del Vacío, así como una siniestra reputación. Debido a la conexión histórica de la ciudad con los moldeadores de almas, se extendieron los rumores entre los [[Sabio\|sabios]] del moldeado de almas de que el secreto para revertir el prolongado deterioro causado por el uso de un moldeador de almas se encontraba en Akinah. Sin embargo, aún se conocían algunos datos de la ciudad. Todavía se conocía el trazado general de la ciudad, y se descubrió que su patrón podía ser producido mediante la cimática. Los fervorosos de la iglesia vorin utilizaron esto como una prueba de la existencia del Todopoderoso. El hermano [[Kabsal\|Kabsal]] se lo mostró a [[Shallan Davar\|Shallan Davar]] durante su estancia en [[Kharbranth\|Kharbranth]].
+### Abandonment
+Over the following time, the city itself entered into the realm of myth and legend, earning it the names The Rock of Secrets and The Void's Playground and a sinister reputation. Due to the city's historical connection to Soulcasters, rumors spread among Soulcasting [[Savant\|savants]] that the secret for reversing the prolonged decay caused by using a Soulcaster was located in Akinah. However, some factual knowledge of the city remained. The general layout of the city was still known, and it was discovered that its pattern could be produced by cymatics. The ardents of the Vorin Church used this as a piece of evidence for the existence of the Almighty. Brother [[Kabsal\|Kabsal]] showed this to [[Shallan Davar\|Shallan Davar]] during her time in [[Kharbranth\|Kharbranth]].
 
-### La expedición de Vazrmeb
-En 1174, un hombre de [[Thaylen\|Thaylen]] llamado [[Vazrmeb\|Vazrmeb]], capitán del barco [[Primeros Sue%C3%B1os\|Primeros Sueños]], siguió un mapa hasta Akinah con el objetivo de recuperar las [[Gema coraz%C3%B3n\|gemas corazón]] de los grancaparazones aimianos que habían muerto en los alrededores de la ciudad. Le acompañaba una moldeadora de almas [[Liafor\|liaforana]] llamada [[Kaza\|Kaza]], que esperaba descubrir alguna forma de revertir su transformación gradual en humo. También se unió a la cuadrilla un Dysian aimiano bajo la apariencia de una mujer [[Reshi\|reshi]] que servía como cocinera de la nave. Intentó advertirles varias veces que no fueran a la isla. Después de que el barco atravesara la tormenta de Akinah, la cocinera Dysian aimiana dio a la cuadrilla una comida envenenada para evitar que llegaran a la ciudad.
-Después, la tripulación llevó varios botes hacia la orilla, donde [[Kaza\|Kaza]] moldeó varios de los picos que rodeaban la isla, convirtiéndolos en humo. En ese momento, Vazrmeb y su cuadrilla, que empezaban a sentir los efectos del veneno, se desplomaron y murieron. Debido a su creciente inhumanidad, el veneno afectó menos a Kaza, por lo que consiguió remar sola en su barco, desplomándose en la orilla. Cuando recuperó la conciencia, se arrastró hacia la ciudad antes de volver a desplomarse. Allí, la aimiana se enfrentó a ella y se reveló como la envenenadora. En sus últimos momentos, antes de que el veneno la matara, Kaza moldeó de almas el suelo bajo ambas, convirtiéndolo en humo.
+### Vazrmeb's Expedition
+In 1174, a [[Thaylen\|Thaylen]] man named [[Vazrmeb\|Vazrmeb]], captain of the ship *[[First Dreams\|First Dreams]]* followed a map to Akinah with the goal of recovering the [[Gemheart\|gemhearts]] of the Aimian greatshells that had died around the city. He was accompanied by a [[Liafor\|Liaforan]] Soulcaster named [[Kaza\|Kaza]], who hoped to discover some way to reverse her gradual transformation into smoke. A Dysian Aimian in the guise of a [[Reshi\|Reshi]] woman serving as the ship's cook also joined the crew. She attempted to warn them several times not to come to the island. After the ship made it through Akinah’s storm, the Dysian Aimian cook fed the crew a poisoned meal to prevent them from making it to the city.
+Afterwards the crew took several dinghies towards the shore, where [[Kaza\|Kaza]] Soulcast several of the spikes surrounding the island into smoke. At that point Vazrmeb and his crew, beginning to feel the effects of the poison, collapsed and died. Due to her growing inhumanity, the poison impacted Kaza less severely, so she managed to row her boat in alone, collapsing on the shore. When she regained consciousness, she crawled towards the city itself before collapsing again. The Aimian confronted her there, revealing herself as the poisoner. In her last moments before the poison killed her, Kaza Soulcast the ground beneath them both into smoke.
 
-### La expedición de Rysn
-Cinco meses después de la malograda expedición de Vazrmeb a la isla, [[Yalb\|Yalb]], ahora tripulante de una embarcación militar de Thaylen, divisó un barco fantasma renqueando en el mar. Revelado como el *[[Primeros Sue%C3%B1os\|Primeros Sueños]]*, el descubrimiento del barco hizo que [[Navani\|Navani]] emitiera una petición y una recompensa para que otro barco viajara a investigar la región donde se rumoreaba que se encontraban las ruinas de Akina. Rysn aceptó la misión unos dos meses después del descubrimiento del *Primeros Sueños*, con la esperanza de que llevar a [[Chiri-Chiri\|Chiri-Chiri]] a Akinah restauraría su débil salud. Con una cuadrilla completa, el Dysian aimiano de incógnito [[Nikli\|Nikli]], [[Lopen\|Lopen]], [[Huio\|Huio]], [[Cuerda\|Cuerda]], [[Rushu\|Rushu]] y Chiri-Chiri, Rysn inició el viaje del [[Vela Errante\|Vela Errante]] a Akinah. La expedición superó con creces las expectativas, ya que se encontró con la Esquirla del Amanecer de Akinah, un hecho que sólo conocían los dysian aimianos, Rysn y Cuerda; la ubicación de la Puerta Jurada, que parecía seguir funcionando; ocho dispositivos de moldeado de almas, tres de los cuales fueron a parar a los alezi y cinco a Thaylenah; la armadura esquirlada, ahora propiedad de Cuerda; y una montaña de gemas auténticas.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Rysn's Expedition
+Five months after Vazrmeb’s doomed expedition to the island, [[Yalb\|Yalb]], now crewing for a Thaylen military vessel, spotted a ghost ship limping along at sea. Revealed to be *[[First Dreams\|First Dreams]]*, the ship's discovery prompted [[Navani\|Navani]] to issue a request and a reward for another ship to travel investigate the region where Akina’s ruins were rumored to be found. Rysn accepted the mission some two months after the discovery of *First Dreams* in the hope that bringing [[Chiri-Chiri\|Chiri-Chiri]] to Akinah would restore Chiri-Chiri’s failing health. With a full crew, the incognito Dysian Aimian [[Nikliasorm\|Nikli]], [[Lopen\|Lopen]], [[Huio\|Huio]], [[Cord\|Cord]], Rushu, and Chiri-Chiri, Rysn began the *[[Wandersail (1174 ship)\|Wandersail's]]* voyage to Akinah. The expedition wildly exceeded expectations, yielding the Akinah Dawnshard, a fact known only to the Dysian Aimians, Rysn, and Cord; the location of the Oathgate, which appeared to still function; eight Soulcaster devices, three of which went to the Alethi and five to Thaylenah; Shardplate, now owned by Cord; and a mountain of real gemstones.
 
 
 
-https://es.coppermind.net/wiki/Akinah
+https://coppermind.net/wiki/Akinah

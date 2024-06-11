@@ -1,16 +1,16 @@
 |**Nikka**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]], [[Zoran Tanasin\|Zoran Tanasin]]|
-|**Hermanos**|[[Paul Tanasin\|Paul Tanasin]]|
-|**Mundo natal**|[[Tierra (Dark One)\|Tierra (Dark One)]]|
-|**Presentado en**|**|
+|**Family**|
+|**Parents**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]], [[Zoran Tanasin\|Zoran Tanasin]]|
+|**Siblings**|[[Paul Tanasin\|Paul Tanasin]]|
+|**Homeworld**|[[Earth (Dark One)\|Earth (Dark One)]]|
+|**Introduced In**|*[[Dark One Book 1\|Dark One Book 1]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Dark One Book 1\|Dark One Book 1]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Nikka** is the younger sister of [[Paul Tanasin\|Paul Tanasin]], and his best friend. She died during a visit to [[Mirandus\|Mirandus]] when Paul bound her soul to the necklace her mother bought her while attempting to save her from a mine.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 
@@ -37,7 +37,7 @@ Nikka typically wears a t-shirt and pants, however she switches to a tunic with 
 \-Nikka jokingly to Paul with her tongue hanging out[2]
 
 Nikka cares deeply for Paul, wanting to help him but unable to do much as she is no longer alive. She will joke with Paul to try help him when he is struggling. Even before Nikka was bound to her own necklace by Paul, she would do everything with Paul, them looking after each-other as well as being best friends.
-Nikka can be harsh, telling Paul the truth he needs to, but doesn't want to hear. Despite every previous  losing to the [[Kingdoms of Light\|Kingdoms of Light]] as set out by the [[Narrative\|Narrative]], Nikka encourages Paul to take up the Dark One mantle, knowing what it will entail and likely do to him.
+Nikka can be harsh, telling Paul the truth he needs to, but doesn't want to hear. Despite every previous [[Dark One (title)\|Dark One]] losing to the [[Kingdoms of Light\|Kingdoms of Light]] as set out by the [[Narrative\|Narrative]], Nikka encourages Paul to take up the Dark One mantle, knowing what it will entail and likely do to him.
 
 
 ## History
@@ -50,16 +50,6 @@ Paul kept Nikka's necklace with him, allowing him to see and talk to her. Paul h
 On Mirandus, Nikka did not speak to Paul much until they reached the Well of Sorrows in the city of [[Pitch\|Pitch]], looking on unhappily as Paul traveled with [[Feotora\|Feotora]] for a bit of their journey. At the well, she convinced Paul he needed to drink from the well to gain power and knowledge as the Dark One. Because they were now close to the well, Nikka was able to show Paul memories from their childhood to help him remember.
 During the final battle, Nikka watched and waited to see Paul fall to the [[Destined One\|Destined One]]. She would be surprised though, when Paul defeated [[Kraisis\|Kraisis]] and Feotora to give victory to the dark, being the first Dark One to ever win. She was unable to give further advice to Paul when he asked her alongside [[Rastik\|Rastik]], as this was something neither had any knowledge of how to deal with.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Dark One (franquicia)\|Dark One]] ([[Tierra (Dark One)\|Tierra]]/[[Mirandus\|Mirandus]])**|
-|-|-|
-|**Personajes**|[[Paul Tanasin\|Paul Tanasin]] ·  · [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] · [[Gosovic\|Gosovic]] · [[Feotora\|Feotora]] · [[Illarion\|Illarion]] · [[Kraisis\|Kraisis]] · [[Malmahan\|Malmahan]] · [[Rastik\|Rastik]]|
-|**Lugares**|[[Mirandus\|Mirandus]] · [[Kingdoms of Light\|Kingdoms of Light]] · [[Blackened Lands\|Blackened Lands]] · [[Pitch\|Pitch]]|
-|**Magia y lore**|[[Narrative\|Narrative]] · [[Destined One\|Destined One]] · [[Dark One (t%C3%ADtulo)\|Dark One]] · [[Well of Sorrows\|Well of Sorrows]] · [[Peragator\|Peragator]]|
-|**Otros**|[[Drull\|Drull]] · [[Evermouth\|Evermouth]] · [[Ironkeeper\|Ironkeeper]]|
 
 
-
-https://es.coppermind.net/wiki/Nikka
+https://coppermind.net/wiki/Nikka

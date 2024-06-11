@@ -1,132 +1,110 @@
-
-
-|**Aluminio**|
+|**Aluminum**|
 |-|-|
 |||
 ||
-|**[[Alomancia\|Alomancia]]**|
-|**Poder**|Elimina las reservas de metal alomántico|
-|**Tipo**|Interno, de tirón, de mejora|
-|**Brumoso**|Mosquito de aluminio|
-|**[[Feruquimia\|Feruquimia]]**|
-|**Poder**|Almacena [[Identidad\|Identidad]]|
-|**Tipo**|Espiritual|
-|**Ferrin**|Auténtico|
-|**[[Hemalurgia\|Hemalurgia]]**|
-|**Poder**|Elimina todos los poderes|
-|**Tipo**|Espiritual|
-|**Propiedades**|Inerte a la [[Investidura\|Investidura]]|
+|**[[Allomancy\|Allomancy]]**|
+|**Power**|Remove Allomantic metal reserves|
+|**Type**|Internal, Pulling, Enhancement|
+|**Misting**|Aluminum Gnat|
+|**[[Feruchemy\|Feruchemy]]**|
+|**Power**|Store [[Identity\|Identity]]|
+|**Type**|Spiritual|
+|**Ferring**|Trueself|
+|**[[Hemalurgy\|Hemalurgy]]**|
+|**Power**|Remove all powers|
+|**Type**|Spiritual|
+|**Properties**|[[Investiture\|Investiture]]-inert|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+**Aluminum** is the internal enhancement pulling metal. An [[Allomancy\|Allomancer]] burning aluminum will make all of their metal reserves vanish. [[Feruchemist\|Feruchemists]] can use aluminum to store [[Identity\|Identity]], and when used as a [[Hemalurgic\|Hemalurgic]] spike, aluminum removes all powers. It is known as **Ralkalest** or **the unForgeable metal** in the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] as well as among [[Singers\|singers]].
+Aluminum metal (and some of its alloys) are "Allomantically inert" -- they cannot be [[Steel\|Pushed]] or [[Iron\|Pulled]], and can shield people from emotional Allomancy. Aluminum generates no [[Atium\|atium shadows]] and can create dead zones within [[/wiki/Cadmium#Allomantic use]] and [[/wiki/Bendalloy#Allomantic Use]] bubbles, where the shielded area is not included within the time bubble. It also interferes with [[/wiki/Gold#Feruchemical Use]], by making it impossible for wounds to heal around the aluminum until it is removed from the body. There is a similar effect on [[/wiki/Pewter#Allomantic Use]].
+Aluminum has been confirmed to have strange effects to all magic systems, is magically inert, and will act as an [[Investiture\|Investiture]] sink.
+A significant percentage of the aluminum in the [[Elendel Basin\|Basin]] is produced by the [[Ghostbloods\|Ghostbloods]]. [[Dean\|Dean]], the Scadrian branch's chemist, believes that the Scadrians would one day discover how to create it via electrolysis, and that the value would plummet to being cheaper than [[Tin\|tin]]. The Ghostbloods have been using their aluminum to fund their operations for the past two decades.
+The paired alloy of aluminum used in the Metallic Arts is [[Duralumin\|duralumin]].
 
-El **aluminio** es el metal de mejora de tirón interno. Un [[Alomancia\|alomante]] quemando aluminio hará que todas sus reservas de metal desaparezcan. Los [[Feruquimia\|feruquimistas]] pueden usar aluminio para almacenar [[Identidad\|Identidad]], y cuando se usa como un clavo [[Hemalurgia\|hemalúrgico]], el aluminio elimina todos los poderes. Es conocido como **ralkalest** o **el metal Infalsificable** en el [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]], así como entre los [[Cantores\|cantores]].
-El aluminio (y algunas de sus aleaciones) son "alománticamente inertes", no se puede [[Acero\|empujar]] ni [[Hierro\|tirar]] de ellas, y puede proteger a las personas de la alomancia emocional. El aluminio no genera sombras de [[Atium\|atium]] y puede crear zonas muertas dentro de las burbujas de [[/wiki/Cadmio#Uso alom.C3.A1ntico]] y [[/wiki/Bendaleo#Uso alom.C3.A1ntico]], donde el área protegida no se incluye dentro de la burbuja de tiempo. También interfiere con la [[/wiki/Oro#Uso feruqu.C3.ADmico]], al hacer imposible que las heridas se curen alrededor del aluminio hasta que este se elimine del cuerpo. Existe un efecto similar sobre la alomancia del [[/wiki/Peltre#Uso alom.C3.A1ntico]].
-Se ha confirmado que el aluminio tiene efectos extraños en todos los sistemas de magia, es inerte a ella y actuará como un sumidero de [[Investidura\|Investidura]].
-Un porcentaje importante del aluminio de la [[Cuenca de Elendel\|Cuenca]] ha sido creado por los [[Sangre Espectral\|Sangre Espectral]]. [[Decano\|Decano]], el químico de la rama scadriana, cree que los propios scadrianos descubrirán cómo crearlo mediante electrólisis y que su valor caerá en picado hasta ser más barato que incluso el [[Esta%C3%B1o\|estaño]]. Los Sangre Espectral han estado usando el aluminio para financiar sus operaciones durante las últimas dos décadas.
-La aleación pareja del aluminio utilizada en las Artes Metálicas es el [[Duraluminio\|duraluminio]].
+## Contents
 
-## Sumario
+1 Allomantic Use. [[#Allomantic Use]] 
 
-1 Uso alomántico. [[#Uso alom.C3.A1ntico]] 
-
-1. [[#Savantismo]] 
+1. [[#Savantism]] 
 
 
-2 Uso feruquímico. [[#Uso feruqu.C3.ADmico]] 
-3 Uso hemalúrgico. [[#Uso hemal.C3.BArgico]] 
-4 Armamento. [[#Armamento]] 
-5 En el Cosmere. [[#En el Cosmere]] 
+2 Feruchemical Use. [[#Feruchemical Use]] 
+3 Hemalurgic Use. [[#Hemalurgic Use]] 
+4 Weaponry. [[#Weaponry]] 
+5 Around the Cosmere. [[#Around the Cosmere]] 
 
-5. [[#Esquirlas]] 
-5. [[#Perpendicularidades]] 
-5. [[#El Imperio Final]] 
-5. [[#Falsificaci.C3.B3n]] 
+5. [[#Shards]] 
+5. [[#Perpendicularities]] 
+5. [[#Final Empire]] 
+5. [[#Forgery]] 
 5. [[#Nalthis]] 
 5. [[#Roshar]] 
 5. [[#Lumar]] 
 
 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Uso alomántico
-Los [[Brumoso\|brumosos]] de aluminio se conocen como **mosquitos de aluminio**. La quema de aluminio hace que el cuerpo metabolice instantáneamente sus reservas de metales sin ningún otro efecto. Como tal, un mosquito de aluminio no obtiene poderes utilizables de su alomancia, sin embargo, puede usarse para negar los efectos de otra investidura como el efecto marchitante de las [[Umbra\|umbras]] en [[Treno\|Treno]]. Solo los metales de importancia alomántica pueden quemarse. La alomancia no afecta al aluminio a pesar de que el metal en sí es alománticamente viable.
-Dado que el aluminio puede proteger contra la alomancia emocional, aquellos que pueden permitírselo, a menudo usan sombreros forrados en aluminio. También se puede utilizar para bloquear el [[/wiki/Bronce#Uso alom.C3.A1ntico]].
+## Allomantic Use
+An aluminum [[Misting\|Misting]] is known as an **Aluminum Gnat**. Burning aluminum causes the body to instantly metabolize its metal reserves—including the aluminum itself—without any other effect. As such, an Aluminum Gnat gains no useable powers from their Allomancy, however, it can be used to negate effects of other Investiture, such as the withering effect of [[Shade\|Shades]] on [[Threnody\|Threnody]]. Only Allomantically relevant metals can be burned away. Allomancy does not affect aluminum even though the metal itself is Allomantically viable.
+Because aluminum can shield against emotional Allomancy, those who can afford to often wear hats with an aluminum lining. It can also be used to block [[/wiki/Bronze#Allomantic Use]].
 
-### Savantismo
-Si alguien pudiera quemar la cantidad de aluminio necesaria para convertirse en un [[Sabio\|sabio alomante]] con el metal, es posible que pudiera limpiar su espíritu de los efectos no deseados de la Investidura.
+### Savantism
+If someone were able to burn the amount of aluminum needed to become an Allomantic [[Savant\|savant]] with the metal, it may be possible to cleanse their spirit of unwanted effects of Investiture.
 
-## Uso feruquímico
-Los [[Ferrin\|ferrins]] de aluminio son conocidos como **auténticos**. El aluminio se utiliza para almacenar el "sentido espiritual de [[Identidad\|Identidad]]". Esta capacidad no se comprende completamente y rara vez se discute fuera de las comunidades de [[Terris\|Terris]]. Un auténtico que llena una mente de aluminio hasta el punto de no tener Identidad y seguidamente llena otra mente de metal, dará lugar a una mente de metal que cualquier feruquimista con el poder correspondiente pueda aprovechar. De manera similar, un feruquimista podría aprovechar las mentes de metal de otra persona llenando su propia mente de aluminio por completo. Los auténticos pueden curar el daño que se les ha hecho en el [[Reino Cognitivo\|Reino Cognitivo]] almacenando Identidad, pero se necesita un método indirecto. Almacenar Identidad hace que el feruquimista sea más susceptible a muchas cosas, como la [[Falsificaci%C3%B3n\|falsificación]].
-No está claro por qué la Identidad puede almacenarse y retirarse de una mente de aluminio cuando otras artes investidas no pueden afectar a este metal.
+## Feruchemical Use
+An aluminum [[Ferring\|Ferring]] is known as a **Trueself**. Aluminum is used to store "spiritual sense of [[Identity\|Identity]]." This ability is not fully understood, and is rarely discussed outside of Terris communities. A Trueself who fills an aluminummind to the point where they have no Identity and then fills another metalmind is able to produce a metalmind that any Feruchemist with the relevant power can tap. In a similar manner, a Feruchemist may be able to tap another person's metalminds by filling their own aluminummind completely. Trueselfs can heal damage done to them in the [[Cognitive Realm\|Cognitive Realm]] by storing Identity, but it takes a roundabout method. Storing Identity makes the Feruchemist more susceptible to many things, such as [[Forgery\|Forgery]].
+It is unclear why Identity can be stored in and withdrawn from an aluminummind when other Invested Arts cannot affect aluminum.
 
-## Uso hemalúrgico
-Cuando se usa como un clavo hemalúrgico, el aluminio elimina todos los poderes, como la alomancia o la [[Maestr%C3%ADa de la arena\|maestría de la arena]].
-Es posible que revestir clavos con aluminio pueda prevenir la disipación de la hemalurgia.
+## Hemalurgic Use
+When used as a Hemalurgic spike, aluminum removes all powers, such as Allomancy or [[Sand mastery\|sand mastery]].
+It is possible that encasing Hemalurgic spikes in aluminum may prevent Hemalurgic decay.
 
-## Armamento
-En Scadrial, las pistolas y balas hechas de aluminio son altamente efectivas (aunque caras) porque no se pueden [[Acero\|empujar]], [[Hierro\|tirar]] de ellas o incluso detectarse usando la vista otorgada por la alomancia de acero o hierro. Las balas de aluminio están compuestas en realidad de una aleación de aluminio alománticamente inerte, ya que la balística de una bala de aluminio puro no funcionaría.
+## Weaponry
+On Scadrial, guns and bullets made from aluminum are highly effective (albeit expensive) because they cannot be [[Steel\|Pushed]], [[Iron\|Pulled]], or even detected using the sight granted by steel or iron Allomancy. Aluminum bullets are actually composed of an Allomantically inert alloy of aluminum since the ballistics of a pure aluminum bullet would not work.
 
-## En el Cosmere
-Si bien el aluminio no siempre anula directamente todos los sistemas de magia, tiene efectos muy extraños e interesantes en todos los lugares. Una persona que tuviera aluminio en su cuerpo interferiría con muchos sistemas de un modo u otro.
+## Around the Cosmere
+While aluminum doesn't always directly negate all magic systems, it does have very weird, interesting effects in all places. A person having aluminum in their body would interfere with many magic systems in some way.
 
-### Esquirlas
-Llevar aluminio puede ayudar a una persona a resistir la influencia de una [[Esquirla\|Esquirla]].
+### Shards
+Wearing aluminum can help a person resist the influence of a [[Shard\|Shard]].
 
-### Perpendicularidades
-El aluminio se puede usar para sacar líquido de una [[Perpendicularidad\|Perpendicularidad]] y este permanecerá investido.
+### Perpendicularities
+Aluminum can be used to take liquid from a [[Perpendicularity\|Perpendicularity]], and it will stay Invested.
 
-### El Imperio Final
-El [[Lord Legislador\|lord Legislador]] mantuvo el aluminio y su aleación, el [[Duraluminio\|duraluminio]], alejados del conocimiento público para dar una ventaja a los [[Inquisidores\|Inquisidores]]. Durante su gobierno, el aluminio se extrajo de los [[Montes de Ceniza\|Montes de Ceniza]].
+### Final Empire
+The [[Lord Ruler\|Lord Ruler]] kept aluminum and its alloy [[Duralumin\|duralumin]] from public knowledge to give the [[Inquisitors\|Inquisitors]] an advantage. During his rule, aluminum was harvested from the [[Ashmounts\|Ashmounts]].
 
-### Falsificación
-Conocido como ralkalest en el [[Imperio Rosa\|Imperio Rosa]], el aluminio no puede ser alterado en absoluto mediante [[Falsificaci%C3%B3n\|falsificación]].
-Las celdas para los Falsificadores en el [[Palacio Rosa\|Palacio Rosa]] tienen rejas de ralkalest en sus techos para acceder y una fina placa de ralkalest detrás de las paredes de piedra.
+### Forgery
+Known as ralkalest in the [[Rose Empire\|Rose Empire]], aluminum cannot be altered at all via [[Forgery\|Forgery]].
+The cells for Forgers in the [[Rose Palace\|Rose Palace]] have ralkalest grates in their ceilings for entrance and a thin plate of ralkalest behind the stone walls.
 
 ### Nalthis
-El aluminio no se puede [[Despertar\|despertar]]. Es posible que el aluminio evite que alguien [[Retornado\|Retorne]], pero no simplemente apuñalando el cuerpo: el aluminio es inerte y bloquea la Investidura, pero no la absorbe activamente. El aluminio también puede bloquear el sentido de la vida de un despertante.
-La vaina de [[Sangre Nocturna\|Sangre Nocturna]] está hecha de aluminio. En Roshar, un [[Fusionado\|Fusionado]] usa la vaina de Sangre Nocturna para bloquear un ataque de [[Szeth\|Szeth]], que la estaba empuñando.
+Aluminum cannot be [[Awakening\|Awakened]]. It is possible for aluminum to prevent someone from [[Returned\|Returning]], but not simply by stabbing the body: aluminum is inert and blocks Investiture, but does not actively absorb it. Aluminum can also block an Awakener's life sense.
+[[Nightblood\|Nightblood's]] sheath is made of aluminum. On Roshar, a [[Fused\|Fused]] uses Nightblood's sheath to block an attack from [[Szeth\|Szeth]], who was wielding Nightblood.
 
 ### Roshar
->“*Hay leyendas de un metal que puede bloquear una hoja esquirlada. Un metal que cae del cielo. Plata, pero algo más ligero.*”
-\-Taravangian acerca del aluminio[32]
+>“*There are legends of metal that can block a Shardblade. A metal that falls from the sky. Silver, but somehow lighter.*”
+\-Taravangian on aluminum[32]
 
 
-El aluminio puede ser generado mediante [[Moldear almas\|moldeado de almas]]. Sin embargo, el aluminio resiste los intentos de ser moldeado en otras [[Diez Esencias\|Esencias]]. Las [[Hoja esquirlada\|hojas esquirladas]] no pueden cortar el aluminio por medios mágicos, pero podrían cortarlo físicamente, como una hoja convencional, si el aluminio fuera lo suficientemente fino. El aluminio puede bloquear la comunicación por [[Vinculaca%C3%B1as\|vinculacañas]] y puede evitar que otros detecten el moldeado de almas. No puede verse afectado por las [[Potencias\|Potencias]] de [[Adhesi%C3%B3n\|Adhesión]] o [[Gravitaci%C3%B3n\|Gravitación]] e interfiere con la mayoría de los poderes Radiantes.
-Durante su tiempo en Kholinar, [[Hoid\|Sagaz]] le dio a la alta mariscal Celeste láminas de metal que posiblemente eran de aluminio. Al revestir una habitación, permitieron el uso de [[Fabrial\|fabriales]] para moldear sin que los [[Vac%C3%ADospren\|vacíospren]] los detectaran.
-Los unkalaki puede obtener aluminio comerciando con el mundo spren y son conscientes de que tiene un efecto sobre ellos.
-Durante la expedición a Aimia, [[Navani\|Navani]] le encarga a [[Rushu\|Rushu]] que experimente con el aluminio y descubra los detalles de su impacto en los fabriales. En primer lugar, señala que el grosor del metal puede influir en el funcionamiento del fabrial (por ejemplo, bloquearlo o modificarlo). Después de jugar con un papel de aluminio y un vinculacañas, [[Huio\|Huio]] teoriza que los spren reaccionan al aluminio "casi como una presa reacciona a un depredador" y que interfiere con la capacidad del spren para sentir sus pensamientos. Rushu teoriza además que cada eje de movimiento y rotación podría bloquearse por separado mediante la aplicación adecuada de aluminio. Es probable que otros tipos de fabriales (por ejemplo, calentadores) puedan ser modificados de manera similar.
-Esta experimentación resultó accidentalmente en una serie de fabriales modificados en los que el mecanismo contenía trozos de papel de aluminio que bloqueaban ciertas funciones, pero no todas. Entre estos se encontraba un vinculacañas que transfirió movimiento lateral, pero no vertical; un elevador para permitir que [[Rysn\|Rysn]] se mueva entre las cubiertas del [[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]] y una serie de fabriales de "sillas de ruedas" que levitaban y permitían a Rysn maniobrar mientras estaba sentada usando un contrapeso parcialmente bloqueado con aluminio. Estos son particularmente útiles debido a un inconveniente conocido de los fabriales de transferencia de movimiento causado por un marco de referencia en movimiento (por ejemplo, un barco en movimiento en el mar que se comunica con la costa por vinculacañas).
-Los Caballeros Radiantes una vez revistieron túneles en las profundidades de [[Urithiru\|Urithiru]] con ralkalest, probablemente para proteger contra la intrusión en los túneles desde las laderas de abajo utilizando la Potenciación. Se desconoce si el término ralkalest tiene su origen en [[Sel\|Sel]] solamente, o si [[Rabeniel\|Rabeniel]] lo aprendió a través de otra fuente.
+Aluminum can be produced with [[Soulcasting\|Soulcasting]]. However, aluminum resists attempts to Soulcast it into other [[Ten Essences\|Essences]]. [[Shardblade\|Shardblades]] are unable to cut aluminum through magical means but would be able to cut it physically, like a conventional blade, if the aluminum were thin enough. Aluminum can block [[Spanreed\|spanreed]] communication, and can prevent Soulcasting from being detected by others. Aluminum cannot be affected by the [[Surge\|Surges]] [[Adhesion\|Adhesion]] or [[Gravitation\|Gravitation]]. It interferes with most Radiant powers.
+Highmarshal Azure was given metal sheets by [[Wit\|Wit]] during her time in Kholinar that were possibly aluminum. When lining a room, they allowed for the use of Soulcasting [[Fabrial\|fabrials]] without detection by the [[Voidspren\|Voidspren]].
+The Unkalaki people are able to obtain aluminum by trading with the spren world, and are aware that it has an effect on spren.
+During the expedition to Aimia, [[Rushu\|Rushu]] is tasked by [[Navani\|Navani]] to experiment with aluminum and discover the details of its impact on fabrials. She first notes that the thickness of the metal may impact its effect on fabrial operation (e.g. block vs modify). After tinkering with a spanreed and aluminum foil, [[Huio\|Huio]] theorizes that the spren react to aluminum "almost like prey react to a predator" and that it interferes with the spren's ability to sense thoughts. [[Rushu\|Rushu]] further theorizes that each axis of motion and rotation could be blocked separately by proper application of aluminum. It is likely that other types of fabrials (i.e. heating fabrials) could be modified similarly.
+This experimentation accidentally resulted in a series of modified fabrials in which the mechanism contained bits of aluminum foil that blocked certain functions, but not all. Among these were a spanreed that transferred lateral motion, but not vertical; a lift to permit [[Rysn\|Rysn]] to move between decks of the *[[Wandersail (1174 ship)\|Wandersail]]* and a number of "wheelchair" fabrials which levitated and permitted [[Rysn\|Rysn]] to maneuver while seated using a partially aluminum-blocked counterweight. These are particularly useful due to a known drawback of motion-transferring fabrials caused by a moving frame of reference (e.g. a moving ship at sea communicating by spanreed to shore).
+The Knights Radiant once lined tunnels deep beneath [[Urithiru\|Urithiru]] with ralkalest, likely to protect against intrusion into the tunnels from the foothills below via Surgebinding. It is unknown whether the term ralkalest is of Selish origin alone, or if Raboniel learned of it from another source.
 
 ### Lumar
-Las habitaciones forradas de aluminio y las cajas se utilizan para proteger las [[Esporas de %C3%A9ter\|esporas de éter]] de la plata. Se dice que «bloquea» el efecto de la plata.
+Aluminum lined rooms and boxes are used to protect [[Aether spores\|Aether spores]] from [[Silver\|silver]]. It is said to "block" the effect of silver.
 
-## Curiosidades
-Brandon pensó en que [[Vin\|Vin]] quemara [[Plata\|plata]] en lugar de aluminio cuando fue capturada en [[Kredik Shaw\|Kredik Shaw]], pero decidió que el aluminio sería menos abundante.
-Brandon eligió el aluminio para el papel que desempeña porque es poco común en la era preindustrial, pero luego se vuelve increíblemente común, proporcionando así una forma de que la tecnología contrarreste la alomancia.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Artes met%C3%A1licas\|Artes metálicas]]**|
-|-|-|
-|**Artes**|[[Alomancia\|Alomancia]] · [[Feruquimia\|Feruquimia]] · [[Hemalurgia\|Hemalurgia]]|
-|**Conceptos**|[[Nacido del metal\|Nacido del metal]] · [[Romper\|Romper]] · [[Sabio\|Sabios]] · [[Mente de metal\|Mentes de metal]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Bendici%C3%B3n\|Bendiciones]]|
-|**Constructos**|[[Inquisidor de acero\|Inquisidores de Acero]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Quimera hemal%C3%BArgica\|Quimera]]|
-|**Metales básicos**|[[Hierro\|Hierro]] · [[Acero\|Acero]] · [[Esta%C3%B1o\|Estaño]] · [[Peltre\|Peltre]] · [[Cinc\|Cinc]] · [[Lat%C3%B3n\|Latón]] · [[Cobre\|Cobre]] · [[Bronce\|Bronce]] · [[Cadmio\|Cadmio]] · [[Bendaleo\|Bendaleo]] · [[Oro\|Oro]] · [[Electro\|Electro]] · [[Cromo\|Cromo]] · [[Nicrosil\|Nicrosil]] ·  · [[Duraluminio\|Duraluminio]]|
-|**Metales divinos**|[[Atium\|Atium]] ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+Brandon thought of having [[Vin\|Vin]] burn [[Silver\|silver]] rather than aluminum when captured in [[Kredik Shaw\|Kredik Shaw]] but decided that aluminum would be less abundant.
+Brandon chose aluminum for the role it serves because it is rare pre-industrial age, then becomes incredibly common, providing a way for technology to counter Allomancy.
 
 
-
-https://es.coppermind.net/wiki/Aluminum
+https://coppermind.net/wiki/Aluminum

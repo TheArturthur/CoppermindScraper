@@ -1,69 +1,48 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nikliasorm**|
 |-|-|
 ||
-|**Títulos**|Vigésimo Cuarto|
-|**Apodos**|Nikli|
-|**Habilidades**|Imitación y camuflaje|
-|**Oficio**|Sirviente, espía|
-|**Especie**|[[Insomne\|Insomne]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
+|**Titles**|Twenty-Fourth|
+|**Aliases**|Nikli|
+|**Skills**|Impersonation and disguise|
+|**Profession**|Servant, spy|
+|**Species**|[[Sleepless\|Sleepless]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Dawnshard (novella)\| Dawnshard]]*|
 
-**Nikliasorm**, también conocido como **Nikli**, es un [[Dysian aimiano\|dysian aimiano]] que vive en [[Roshar\|Roshar]]. Tiene al menos 400 años, aunque es joven para su especie.
+**Nikliasorm**, also known as **Nikli**, is a [[Dysian Aimian\|Dysian Aimian]] living on [[Roshar\|Roshar]]. It is at least 400 years old, though it is young for its species.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
-4. [[#Los Insomnes]] 
-
-
-5 Notas. [[#Notas]] 
+4. [[#The Sleepless]] 
 
 
-## Apariencia y personalidad
-  En forma humanaEn su forma humana, Nikli adopta la apariencia de un hombre [[Makabaki\|makabaki]] con tatuajes en la cara y los brazos para cubrir las grietas entre sus hordinos.
-## Atributos y habilidades
-Entre todos los enjambres de Insomnes, Nikli es conocido por ser el más habilidadoso a la hora de imitar humanos. Es uno de los pocos Insomnes que tiene ojos de hordinos que son realmente funcionales. Esto le permite imitar a los humanos de forma más realista que otros Insomnes, ya que sus líneas de visión se alinean con sus ojos.
+5 Notes. [[#Notes]] 
 
-## Historia
-Nikli es el dysian aimiano más joven actualmente en Roshar. Fue el vigésimo cuarto enjambre en Separarse, y fue después de la [[La destrucci%C3%B3n de Aimia\|destrucción]].
-Tras el descubrimiento del *[[Primeros Sue%C3%B1os\|Primeros Sueños]]*, los Insomnes que protegen [[Akinah\|Akinah]] envían a Nikli como sirviente personal de [[Rysn\|Rysn]] para asegurarse de que la [[Chiri-Chiri\|Antigua Guardiana]] está siendo bien cuidada. Además, como sospechan que podría viajar pronto a [[Aimia\|Aimia]], lo instruyen para que intente evitar que Rysn llegue a la isla. Inicialmente, Nikli intenta ayudar a Rysn con entusiasmo en todo lo que hace, pero pronto se da cuenta de que ella prefiere ser independiente y hacer las cosas por sí misma.
-Cuando Rysn llega a [[Urithiru\|Urithiru]], Nikli le dice al maestro de sirvientes que les recibe que ella prefiere usar su propia silla, pero Rysn le corrige, alegando que los porteadores conocen la ciudad mejor que ella, y hace que Nikli lleve también la silla por si la necesita más adelante.
-En algún momento entre su viaje a Urithiru y su partida en el viaje a Aimia, Nikli contrata un ayudante, [[Plamry\|Plamry]], para ayudarle con sus quehaceres. Nikli y Plamry transportan a Rysn y su equipaje a bordo del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]* y la llevan por el barco según lo va requiriendo. En algún momento antes de partir, Nikli envenena a [[Aullido\|Aullido]], la mascota de la [[Anguila a%C3%A9rea\|anguila aérea]] del *Vela Errante*, en un intento de atemorizar a la tripulación para que aborten la misión. Tras colocar a Rysn en su nueva silla en el alcázar, Nikli le dice que cree que el capitán y la tripulación no confían en ella. Nikli intenta sugerir que retrasen el viaje y poder buscar así una tripulación más adecuada, pero Rysn desestima sus preocupaciones, diciendo que son buenos hombres, elegidos por [[Vstim\|Vstim]], y que han sido entrenados en ese barco desde que se construyó. Cuando Rysn se entera de que Aullido ha muerto, le dice a la tripulación que los que quieran pueden quedarse atrás sin castigo alguno, calmando así a la tripulación y frustrando el plan de Nikli. Tras averiguar por qué [[Dlrwan\|Dlrwan]] está tan resentida con ella, Rysn mantiene una discusión filosófica con Nikli sobre cómo a veces debes aceptar «una solución imperfecta para un mundo imperfecto». [[Kstled\|Kstled]] vuelve con ellos y les informa de que aunque el cocinero del barco, [[Nlan\|Nlan]], está entre los marineros que han aceptado su oferta, [[Cuerda\|Cuerda]] puede ocupar su lugar. Esto pone otro obstáculo en los planes de Nikli, y zarpan.
-Nikli decide jugar con la inmensa superstición de los marineros thayleños provocando que le ocurran supuestos eventos fortuitos de mala suerte a la tripulación. El primer intento consiste en poner gusanos en los toneles de grano del barco; sin embargo, Rysn consigue evitar el desastre al intercambiarlos con un grupo de nómadas [[Hexi\|Hexi]]. Después, Nikli se retira a un rincón apartado del barco para informar al resto de Insomnes y suplicarles que le concedan una última oportunidad para detener el viaje antes de tener que matarlos a todos. Esto se materializa en forma de un grupo de hordinos imitando el cadáver de un [[Santhid\|santhid]]. A pesar de ello, Rysn logra nuevamente evitar que los marineros aborten la misión sugiriendo ir a la orilla y quemar el cadáver del santhid para darle un final digno; sin embargo, Nikli envía nadando a sus hordinos lejos antes de que puedan hacerlo.
-Al día siguiente, Nikli intenta culpar a Cuerda de la muerte de Aullido y los demás augurios, pero como Rysn ya ha registrado la habitación de Cuerda por su cuenta, queda claro que las pruebas son falsas. [[Kstled\|Kstled]] lo arresta, y cuando Nikli está seguro de que ha sido descubierto, abandona su acento y le dice a Kstled que no puede hacer nada para lastimarlo. Luego Lopen y Huio lo sacan del barco. Sin embargo, una vez que todos excepto Cuerda y Rysn han comenzado la exploración de Aimia, Nikli se materializa en la cubierta del barco a partir de sus hordinos. Deja claro que pretende matar a todos los viajeros, a lo que Cuerda responde agarrando a Rysn y saltando por la borda, siguiendo una senda de [[Suertespren\|suertespren]] hacia una caverna submarina. Nikli, junto con otros dos Insomnes, las siguen hasta la caverna, pero llegan demasiado tarde para cumplir su objetivo: Rysn ya ha observado el mural de la caverna y se ha convertido en una [[Esquirla del Amanecer\|Esquirla del Amanecer]]. Aunque todavía pretenden matarla, ella utiliza su entrenamiento con Vstim para abrir las negociaciones con ellos.
-Al final, Nikli acepta que Rysn viva, y que Cuerda conserve la armadura esquirlada encontrada en la caverna, a cambio de que Rysn proteja la Esquirla del Amanecer cuando las fuerzas del [[Cosmere\|Cosmere]] finalmente vengan a buscarla, y de que nunca se vincule con un spren ni sea Investida de ninguna otra forma para evitar así que vuelva a ocurrir una catástrofe como la de [[Ashyn\|Ashyn]]. Además, los Insomnes podrán seguir a Rysn en todo momento para asegurarse de que cumple con su parte del trato. Aunque la existencia de los [[Insomne\|Insomnes]] será compartirá con el mundo, crean una tapadera de dos capas: la primera, que la aparición de Chiri-Chiri causó que los Insomnes les dejaran marchar; y a las reinas [[Navani\|Navani]], [[Jasnah\|Jasnah]], y [[Fen\|Fen]] les dirán que los Insomnes van a aprender de Rysn cómo imitar a los humanos. Sin embargo, no se le hablará a nadie de la existencia de la Esquirla del Amanecer.
 
-## Relaciones
-### Los Insomnes
-Nikli está considerado por los Insomnes, y en particular por [[Yelamaiszin\|Yelamaiszin]], como una perspectiva valiosa, a pesar de su juventud, debido a su gran conocimiento de los humanos.
+## Appearance and Personality
+  In human formWhile in its human form, Nikli takes on the appearance of a [[Makabaki\|Makabaki]] man with white tattoos on its face and arms to cover the spaces between its hordelings.
+## Attributes and Abilities
+Nikli is known among all the Sleepless swarms as being the most skilled at impersonating humans. It is one of the few Sleepless that has eye hordelings that are actually functional. This allows it to more realistically imitate humans than other Sleepless, who use prop eyes, since its sight lines actually line up with its eyes.
 
-## Notas
+## History
+Nikli is the youngest of the Dysian Aimians currently on Roshar. It was the twenty fourth swarm to Separate, only doing so after the [[Scouring of Aimia\|scouring]].
+After the discovery of the *[[First Dreams\|First Dreams]]*, Nikli was sent by the Sleepless who guarded [[Akinah\|Akinah]] to be [[Rysn\|Rysn's]] personal servant so it could ensure that [[Chiri-Chiri\|the Ancient Guardian]] was being cared for. Additionally, since they suspected that she might soon travel to [[Aimia\|Aimia]], Nikli was instructed to attempt to stop her from reaching the island. Initially, Nikli would overzealously try to assist Rysn in everything she did, but it soon realized that she preferred being independant and doing things herself.
+When Rysn arrived at [[Urithiru\|Urithiru]] Nikli told the master-servant who greeted them that she preferred using her own chair but Rysn corrected it, saying that the porters knew the city better than she did, and had Nikli bring the chair in case she needed it later.
+At some point between their trip to Urithiru and departing on the journey to Aimia Nikli hired an assistant, [[Plamry\|Plamry]], to help it perform its duties. Nikli and Plamry carried Rysn and her baggage aboard the *[[Wandersail (1174 ship)\|Wandersail]]* and carried her around the ship as she required it. Sometime before they departed, Nikli poisoned [[Screech\|Screech]], the *Wandersail'*s [[Skyeel\|skyeel]] mascot, in an attempt to frighten the crew so they would abort their mission. After Nikli put Rysn in her new chair on the quarterdeck, it told her that it thought that the captain and the crew did not trust her. Nikli tried to suggest that they delay the trip so they could find a more suitable crew, but Rysn brushed its concerns aside, saying that they were good men chosen by [[Vstim\|Vstim]] and they had been training with the ship since it was built. When Rysn found out that Screech had died she told the crew that anyone who wanted could stay behind without penalty, placating the crew and foiling Nikli's plot. After Rysn found out why [[Drlwan\|Drlwan]] resented her so much she had a philosophical discussion with Nikli about how sometimes you had to accept an imperfect solution for an imperfect world. [[Kstled\|Kstled]] returned to them and reported that although the ship's cook, [[Nlan\|Nlan]], was among the sailors who accepted her offer, [[Cord\|Cord]] would be able to take her place. This put another kink into Nikli's plans, and they set sail.
+Nikli decided to try and play off the Thaylen sailors' immense superstition by causing supposedly random events of misfortune to happen to the crew. The first attempt of this was to put worms in the ship's stores of grain; however, Rysn was able to avert disaster by trading it with a group of [[Hexi\|Hexi]] nomads. Nikli then went to a secluded corner of the ship in order to report to the other Sleepless, and pleaded to be allowed one final chance to turn away the voyage before having to kill them all. This took the form of a group of hordelings imitating a [[Santhid\|santhid's]] corpse. Rysn, though, was again able to prevent the sailors' aborting the mission by suggesting that they go ashore and burn the santhid's corpse to give it a proper send-off; however, Nikli sent its hordelings swimming away before they could do so.
+The next day, Nikli tried to frame Cord for the murder of Screech and the other omens, but, as Rysn had searched Cord's room herself beforehand, it became clear that its evidence was fabricated. [[Kstled\|Kstled]] restrained it, and once it was certain that it had been found out, it dropped its accent and told Kstled that nothing he could do to it would hurt it, and Lopen and Huio then removed it from the ship. However, once everyone but Cord and Rysn had begun the exploration of Aimia, Nikli rematerialized on deck from its hordelings. It made clear that it intended to kill all of the voyagers, a declaration to which Cord replied by grabbing Rysn and diving overboard, following a trail of [[Luckspren\|luckspren]] into an underwater cavern. Nikli, along with two other Sleepless, followed them to the cavern, but too late to fulfill their intent--Rysn had looked at the mural in the cavern and become a [[Dawnshard\|Dawnshard]]. Though they still intended to kill her, she put her training with Vstim to good use and opened negotiations with them.
+In the end, Nikli agreed that Rysn would live and could let Cord keep the sets of Shards found in the cavern, and in exchange, Rysn would protect the Dawnshard when [[Cosmere\|cosmere]] forces eventually came looking for it, and would never bond a spren or become Invested in any other way, so as to prevent a catastrophe such as what happened on [[Ashyn\|Ashyn]]. The Sleepless would also be allowed to follow Rysn at all times to ensure that she was keeping her side of the bargain. Though the existence of the [[Sleepless\|Sleepless]] would be shared with the world, a two-layer cover story would be created--the first being that the appearance of Chiri-Chiri caused the Sleepless to let them go, and Queens [[Navani\|Navani]], [[Jasnah\|Jasnah]], and [[Fen\|Fen]] would be told that the Sleepless would be learning from Rysn how to imitate humankind. None of them would be told the existence of the Dawnshard, however.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Relationships
+### The Sleepless
+Nikli is regarded by the Sleepless, particularly [[Yelamaiszin\|Yelamaiszin]], as a valuable perspective, despite its youth, because of its greater understanding of humans.
 
 
 
-https://es.coppermind.net/wiki/Nikli
+https://coppermind.net/wiki/Nikli

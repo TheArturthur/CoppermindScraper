@@ -1,60 +1,40 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Una virtuosa rendición de cuentas**|
+|**An Accountability of Virtue**|
 |-|-|
-|**Tipo**|Romance|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Romance|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-***Una virtuosa rendición de cuentas*** es una novela romántica épica [[Alezi\|alezi]] sobre el triángulo amoroso de Wema con los brillantes señores Vadam y Sterling.
+***An Accountability of Virtue*** is an [[Alethi\|Alethi]] epic romance novel about Wema's love triangle with Brightlords Vadam and Sterling.
 
-## Sumario
+## Contents
 
-1 Trama. [[#Trama]] 
-2 Secuela. [[#Secuela]] 
-3 Historia. [[#Historia]] 
-4 Extractos. [[#Extractos]] 
-5 Notas. [[#Notas]] 
-
-
-## Trama
-Wema recibe las atenciones de dos brillantes señores: Sterling, un oficial, y Vadam, un hombre al que el alto príncipe ha dado tierras. Al principio, Wema sólo desea a Sterling a pesar de que Vadam es el más próspero económicamente de los dos. Su tío, sin embargo, aboga por que elija a Vadam a pesar de que éste encerró a su padre. Esto la lleva a dudar de su elección cuando Sterling deja claro su afecto por ella.
-Las dudas de Wema a la hora de responder al afecto de Sterling casi hacen que lo pierda definitivamente. Él le dice que se irá a las [[Llanuras Quebradas\|Llanuras Quebradas]], y ella se da cuenta tanto de su vulnerabilidad como del respeto que siente por ella. Le dice que espere y corre hacia él, eligiendo al final a Sterling en lugar de a Vadam.
-
-## Secuela
-En la secuela, la tímida hermana de Wema tiene que elegir entre un oficial de la marina, un banquero [[Thaylenah\|thayleño]] y el Sagaz del Rey después de recibir atención en la corte. Es probable que esto no sea una referencia específica a [[Hoid\|Hoid]], sino a su posición.
-
-## Historia
-La fervorosa [[Ellista\|Ellista]] leyó *Una virtuosa rendición de cuentas* mientras estaba en el [[Monasterio de Jokasha\|monasterio de Jokasha]]. Ellista era una investigadora excepcionalmente dotada, pero a veces le gustaba escapar del bullicioso monasterio y leer epopeya romántica. Intentaba ocultarlo a sus compañeros fervorosos, pero [[Urv\|Urv]] la descubrió leyéndolo en el bosque. Ellista se sorprendió al saber que Urv también había leído el libro, y se ofreció a prestarle la continuación a cambio de su ayuda para traducir un fragmento del [[Canto del alba\|canto del alba]].
-
-## Extractos
->“*Wema se dio la vuelta ante las proposiciones del brillante señor Sterling, apretándose la mano segura contra el pecho y bajando la mirada para apartarla de sus atractivos rizos. Halagos como aquellos, capaces de excitar la parte más impúdica de la mente, sin duda se revelarían incapaces de satisfacerla a largo plazo, pues si bien las atenciones del brillante señor fueron una vez apetecibles delicias con las que entretenerse en sus horas ociosas, se le antojaron en ese momento reveladoras de su extremada impudicia y las mayores imperfecciones de su carácter.*
-\-¿Cómo podía aceptar aquella disipada justificación de los que una vez fueron sus tenaces deseos? ¿Acaso no debería, en cambio, optar por la decisión más prudente, aquella por la que abogaba la firme voluntad de su tío? El brillante señor Vadam gozaba de una concesión de tierras por obra y gracia del alto príncipe, y dispondría de los medios para proveerla en mucha mayor medida que las satisfacciones de que disponía un mero oficial, por bien considerado que estuviera y por muy agraciados que fueran su temperamento, sus rasgos y sus dulces caricias.
-Wema entonó el brillante señor Sterling, comprendo ahora que juzgué mal tus atenciones. Por ello, me embarga una profunda vergüenza ante mi necedad. Me marcharé a las Llanuras Quebradas y ya no tendrás que sufrir más tiempo la tribulación de mi presencia.
-Se inclinó como un auténtico caballero, deferente y dotado de todo el debido refinamiento. Fue una reverencia digna incluso del más alto monarca, y en ella Wema entrevió la auténtica naturaleza de las atenciones del brillante señor Sterling. Era un hombre sencillo pero apasionado, respetuoso en todos sus actos. La comprensión dotó de un claro contexto a los avances previos del brillante señor, que de repente Wema interpretó como verdaderas grietas en su firme armadura, como huecos vulnerables y no como ejemplos de avaricia. Mientras él alzaba el cerrojo de la puerta con la intención de exir para siempre de su vida, en Wema brotaron una pena y un anhelo sin par, entrelazados como dos hilos en un telar que construyera un grandioso tapiz de deseo.
-¡Espera! exclamó Wema. Querido Sterling, no te marches sin escuchar mis palabras.
-El decoro se le antojó banal, sumida como se hallaba en su ansia por sentir el contacto de la piel de Sterling. Corrió a él y depositó en su firme brazo la mano enmangada, que a continuación alzó para acariciar su recia mandíbula.
+1 Plot. [[#Plot]] 
+2 Sequel. [[#Sequel]] 
+3 History. [[#History]] 
+4 Excerpts. [[#Excerpts]] 
+5 Notes. [[#Notes]] 
 
 
-## Notas
+## Plot
+Wema received the attentions of two Brightlords, Brightlord Sterling, an officer, and Brightlord Vadam, a man given land by the highprince. Initially, Wema only desires Sterling despite Vadam being the more financially prosperous of the two men. Her uncle, however, advocates for her to choose Vadam despite the fact that Vadam locked away her father. This leads her to doubt her choice when Sterling makes his affection for her clear.
+Wema's hesitation in responding to Sterling's affection nearly causes her to lose him for good. He tells her he will leave for the [[Shattered Plains\|Shattered Plains]], and she realizes both the vulnerability and respect in his regard for her. She tells him to wait and rushes to him, choosing Sterling over Vadam in the end.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 18:21, 13 August 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Sequel
+In the sequel, Wema's mousy sister has to choose between a naval officer, a [[Thaylen\|Thaylen]] banker, and the King's Wit after she receives attention at court. This likely is not a specific reference to [[Hoid\|Hoid]], but rather to his position.
+
+## History
+Ardent [[Ellista\|Ellista]] read *An Accountability of Virtue* while she was at [[Jokasha Monastery\|Jokasha Monastery]]. Ellista was an exceptionally gifted researcher, but she sometimes liked to escape the bustling monastery and read the romance epic. She tried to hide this from her fellow ardents, but [[Urv\|Urv]] discovered her reading it in the forest. Ellista was surprised to learn that Urv had also read the book, and he offered to lend her the sequel in exchange for her help in translating a fragment of [[Dawnchant\|Dawnchant]].
+
+## Excerpts
+>“*Wema spun away from Brightlord Sterling’s forward advances, tucking her safehand to her breast and lowering her gaze from his comely locks. Such affection as to excite the unsavory mind could surely not satisfy her for an extended period, as though his attentions had at one time been fanciful delights to entertain her leisure hours, they now seemed to manifest his utmost impudence and greatest faults of character.*
+\-How could she accept this wanton justification of her once single-minded desires? Should she not, instead, select the more prudent choice, as advocated by the undeviating will of her uncle? Brightlord Vadam had an endowment of land upon the highprince’s grace, and would have means to provide far beyond the satisfactions available to a simple officer, no matter how well regarded or what winds had graced his temperament, features, and gentle touch.
+“Wema,” Brightlord Sterling intoned, “it seems I have gravely misjudged your attentions. In this, I find myself deposited deep within an embarrassment of folly. I shall be away, to the Shattered Plains, and you shall not again suffer the torment of my presence.”
+He bowed a true gentleman’s bow, possessed of all proper refinement and deference. It was a supplication beyond what even a monarch could rightly demand, and in it Wema ascertained the true nature of Brightlord Sterling’s regard. Simple, yet passionate. Respectful in deed. It lent great context to his earlier advance, which now appeared all at once to be a righteous division in otherwise sure armor, a window of vulnerability, rather than a model of avarice.
+As he lifted the door’s latch to forever make his exodus from her life, Wema surged with unrivaled shame and longing, twisted together not unlike two threads winding in a loom to construct a grand tapestry of desire.
+“Wait!” Wema cried. “Dear Sterling, wait upon my words.”
+Decorum seemed a vain thing to her now, lost upon the sea that was her need to feel Sterling’s touch. She rushed to him, and upon his arm pressed her ensleeved hand, which then she lifted to caress his sturdy jaw.
 
 
 
-https://es.coppermind.net/wiki/An_Accountability_of_Virtue
+
+https://coppermind.net/wiki/An_Accountability_of_Virtue

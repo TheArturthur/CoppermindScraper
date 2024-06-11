@@ -1,83 +1,72 @@
 
 
-
-|***Canto del cuervo***|
+|***Crow's Song***|
 |-|-|
 ||
-|**Tipo**|Barco|
-|**Capitán**|[[Cuervo\|Cuervo]] (previamente), [[Trenza\|Trenza]]|
-|**Mundo de origen**|[[Lumar\|Lumar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Ship|
+|**Captain**|[[Crow\|Crow]] (formerly), [[Tress\|Tress]]|
+|**World of Origin**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
-El ***Canto del cuervo*** es un barco pirata de [[Lumar\|Lumar]] capitaneado en un principio por [[Cuervo\|Cuervo]], y después tomado por [[Trenza\|Trenza]].
+The ***Crow's Song*** is a pirate ship on [[Lumar\|Lumar]] originally captained by [[Crow\|Crow]], then taken over by [[Tress\|Tress]].
 
-## Sumario
+## Contents
 
-1 Apariencia. [[#Apariencia]] 
-2 Historia. [[#Historia]] 
+1 Appearance. [[#Appearance]] 
+2 History. [[#History]] 
 
-2. [[#Antes de Trenza]] 
-2. [[#Navegando el mar Glauco]] 
-2. [[#Navegando el mar Carmes.C3.AD]] 
-2. [[#Navegando el mar de Medianoche]] 
+2. [[#Before Tress]] 
+2. [[#Sailing the Verdant Sea]] 
+2. [[#Sailing the Crimson Sea]] 
+2. [[#Sailing the Midnight Sea]] 
 
 
-3 Miembros de la tripulación. [[#Miembros de la tripulaci.C3.B3n]] 
+3 Crew Members. [[#Crew Members]] 
 
 3. [[#Dougs]] 
 
 
-4 Notas. [[#Notas]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia
-El *Canto del cuervo* es un navío mercante caro y bien construido. Es un barco con cuatro mástiles; el equivalente a un pequeño galeón. Tiene cuatro niveles: la cubierta alta, expuesta al cielo; la cubierta media, que contiene el comedor, la armería y los camarotes de los oficiales; la cubierta baja, que es un espacio atestado donde dormía la mayor parte de la tripulación; y la bodega, que guarda cualquier cargamento que el barco esté transportando. Hay varios baños en distintas cubiertas. Tiene dos cañones: uno en la proa y otro en la popa. Excepto por el camarote del [[Germinador\|germinador]], que tiene incrustaciones de aluminio, todo el suelo del barco tiene plata incrustada. Es más rápido que la mayoría de barcos de Lumar.
+## Appearance
+The *Crow's Song* is a fine, expensive merchant ship. It is four-masted ship; the equivalent of a small galleon. It has four levels: the upper deck, exposed to the sky; the middle deck, which contains the mass, armory, and officers' quarters; the lower deck, a cramped space where most of the crew sleeps; and the hold, which stores any cargo the ship may be carrying. There are several bathrooms on various decks. It has two cannons: one on its aft deck and one on its foredeck. Except for the [[Sprouter\|sprouter's]] quarters, which are lined with aluminum, the entire ship has silver lining the floor. It is faster than most ships on Lumar. 
 
-## Historia
-### Antes de Trenza
-El *Canto del cuervo* empieza como un navío mercante legal. Algún tiempo antes de los eventos de *Trenza*, Cuervo convence a la tripulación de que, a no ser que se vuelvan piratas, serán reclutados para servir en la inminente guerra. También les dice que no matarán y se convertirán en [[Corremuerto\|corremuertos]] a no ser que estén bajo ataque. En su lugar, extorsionan barcos mercantes y toman sus bienes, filtrando de nuevo así su dinero a la economía. Sin embargo, Cuervo pretendía romper su promesa, pues convertirse en corremuertos aseguraría la lealtad de la tripulación y los obligaría a navegar al [[Mar Carmes%C3%AD\|mar Carmesí]] con ella para que pudiera encontrar al [[Drag%C3%B3n\|dragón]] [[Xisisrefliel\|Xisisrefliel]] y curar su afección. También recluta al cañonero [[Laggart\|Laggart]] para su causa, y él hace falsos compartimentos en el fondo de los cañones del *Canto del cuervo*, en los cuales guarda balas destructivas que cambia por las normales en una batalla. El germinador del barco, [[Gorgo\|Gorgo]], también estaba ayudando a Cuervo, pero cuando empezó a chantajearla ella hizo que lo tiraran por la borda haciendo creer que no quería convertirse en pirata.
+## History
+### Before Tress
+The *Crow's Song* began as a legal merchant ship. Sometime before the events of *Tress*, Crow convinced the crew that unless they turned to piracy, they would be enlisted to serve in an impending war. She also told them that they would not kill and become [[Deadrunner\|deadrunners]] unless under attack. Instead, they extort merchant ships and take their goods, thus filtering the money from them back into the economy. However, Crow intended to break that promise, as becoming deadrunners would ensure the crew's loyalty and force them to sail the [[Crimson Sea\|Crimson Sea]] with her so she can find the [[Dragon\|dragon]] [[Xisisrefliel\|Xisisrefliel]] and cure her affliction. She also recruited cannonmaster [[Laggart\|Laggart]] to her cause, and he made false compartments in the bottom of the *Crow's Song's* cannons, in which he stored a destructive type of cannonball that he would switch out for the normal one during a battle. The ship's sprouter, [[Weev\|Weev]], was also helping Crow, but when he started blackmailing her she had him thrown off the ship under the guise of him refusing to turn pirate.
 
-### Navegando el [[Mar Glauco\|mar Glauco]]
-Cuando Trenza está como polizón en el *[[Sue%C3%B1o de Oot\|Sueño de Oot]]*, Cuervo y Laggart lo atacan durante una pausa en el [[Bullir\|bullir]], usando una destructiva bala de cañón para hacer un agujero en el casco del barco. Trenza escapa con [[Huck\|Huck]], luego camina a través del mar de esporas hacia el *Canto del cuervo* antes de que vuelva el bullir. Cuando Trenza sube a bordo, Cuervo da órdenes de tirarla por la borda, pero ella demuestra ser útil limpiando la cubierta y la orden no se repite. Cuervo intenta dejar vivo a uno de los miembros la tripulación del *Sueño de Oot* para difundir la noticia de su crimen, pero muere de todas formas.
-Trenza acaba asignada a rellenar los cañones con esporas cuando descubre un fondo falso en el cañón delantero con una bala dentro. Rápidamente deduce que Laggart debe haber intentado hundir el otro barco. Hace que Huck espíe a Cuervo y Laggart, y confirma su teoría, descubriendo que quieren forzar a la tripulación a navegar por «mares peligrosos». Trenza intenta usar su conocimiento para escapar del barco, pues es una miembro superviviente del *Sueño de Oot,* pero opta por no escapar, y en su lugar ayudar a la tripulación y convertirse en la nueva germinadora del barco.
-Trenza, discretamente, reemplaza las balas de cañón secretas de Laggart por normales, así que cuando atacan al otro barco, la bala de cañón le salpica agua a este y a las esporas bajo él, cubriéndolo con enredaderas glaucas, inmovilizándolo. Desafortunadamente, el [[Bullir\|bullir]] se detiene en el peor momento, y el barco cautivo acierta con una bala de cañón en la proa del *Canto del cuervo*. Cuervo dispara al cañonero del barco contrario, y Trenza y [[Ann\|Ann]] tapan el agujero de la proa con [[Rosa%C3%ADta\|rosaíta]]. La capitana amenaza a la tripulación del otro barco para llevarse un copioso botín, y el *Canto del cuervo* continúa navegando.
+### Sailing the [[Verdant Sea\|Verdant Sea]]
+When Tress is stowing away on the *[[Oot's Dream\|Oot's Dream]]*, Crow and Laggart attack it during a break in the [[Seethe\|seethe]], using the destructive cannonball to put a hole in the *Oot's Dream’s* hull. Tress escapes with [[Huck\|Huck]], then walks across the spore sea to the *Crow's Song* before the seethe lets up. When Tress climbs on board the ship, Crow orders her thrown overboard, but she proves her worth scrubbing the deck and the order isn’t brought up again. Crow tries to leave one of the *Oot's Dream’s* crew alive to spread the word of her crime, but he dies anyway.
+Tress ends up assigned to filling the cannons with spores when she discovers the false bottom in the forecannon and the cannonball inside. She quickly figures out that Laggart must have tried to sink the other ship. She has Huck spy on Crow and Laggart, and he confirms her theory, figuring out that Crow and Laggart want to force the crew to sail "dangerous seas". Tress intends to use this knowledge to escape the ship, since she is a surviving member of the *Oot's Dream,* but decides against escaping, instead opting to help the crew and become the ship's new sprouter.
+Tress covertly replaces Laggart's secret cannonballs with ordinary ones, so when they attack another ship, the cannonball splashes water on it and the spores below it instead, and verdant vines grow over it, immobilizing it. Unfortunately, the [[Seethe\|seethe]] stops at just the wrong time, and the captive ship puts a cannonball through the *Crow's Song's* prow. Crow shoots the opposing ship's cannonmaster, and Tress and [[Ann\|Ann]] patch the hole in the prow with [[Roseite\|roseite]]. Crow threatens the crew of the other ship into paying her a hefty bounty, and the *Crow's Song* sails on.
 
-### Navegando el mar Carmesí
+### Sailing the Crimson Sea
  
-[[Salay\|Salay]] se convence de que Trenza es una [[M%C3%A1scara del rey\|máscara del rey]], y la invita a una reunión con Ann y [[Fort%C3%ADn\|Fortín]]. Trenza averigua la motivación de Cuervo, y decide que lo mejor para todos es navegar al mar Carmesí y conseguir que Cuervo sea curada por [[Xisis\|Xisis]]. Desafortunadamente, Trenza no sabe que el dragón requiere un sirviente a cambio de su don, ni que Cuervo está planeando intercambiarla a ella. Sin embargo, tras un intento fallido de motín, Trenza descubre que *ella* puede intercambiar a *Cuervo* al dragón en su lugar. Esto funciona, y Trenza se vuelve capitana.
-Siguiendo la orden de Huck, Hoid lanza por la borda barriles de comida para evitar que Trenza y el *Canto del cuervo* naveguen a la isla de la hechicera. No funciona, pues la tripulación acuerda comer enredaderas glaucas en su lugar.
+[[Salay\|Salay]] becomes convinced that Tress is a [[King's Mask\|King's Mask]], and invites her to a meeting with Ann and [[Fort\|Fort]]. Tress figures out Crow's motivation, and decides that the best thing for everyone is to sail the Crimson Sea and let Crow be healed by [[Xisis\|Xisis]]. Unfortunately, Tress doesn't know that Xisis requires a servant in exchange for his boon, and that Crow is planning to trade Tress to him. However, after a failed attempt at mutiny, Tress figures out that *she* can trade *Crow* to the dragon instead. This works, and Tress becomes captain.
+On Huck's instruction, Hoid throws barrels of food overboard to prevent Tress and the *Crow's Song* from sailing to the Sorceress's island. It doesn't work, since the crew agrees to eat verdant vines instead.
 
-### Navegando el [[Mar de Medianoche\|mar de Medianoche]]
-Trenza pone rumbo a la isla de la hechicera y es capturada. Mientras tanto, Fortín hace un trato con la [[Esencia de Medianoche\|Esencia de Medianoche]]: le proporcionará agua si deja que el *Canto del cuervo* pase a la isla de [[Riina\|Riina]]. Esto funciona, y llegan justo a tiempo para rescatar a Trenza. Ann inmoviliza a los golems de metal de Riina, permitiendo a [[Hoid\|Hoid]] entrar en la torre y rescatar a Trenza. 
-Unos pocos meses más tarde, Trenza vende el *Canto del cuervo* y consigue que el rey absuelva a la tripulación. Compra un barco llamado el *Dos Tazas*, que tiene la misma tripulación que el *Canto del cuervo*, junto con Charlie como ayuda de cámara, narrador y músico.
+### Sailing the [[Midnight Sea\|Midnight Sea]]
+Tress sets out on her own towards the Sorceress's island and gets captured. Meanwhile, Fort makes a deal with the [[Midnight Essence\|Midnight Essence]]: he would supply it with water if it let the *Crow's Song* pass to [[Riina\|Riina]]’s island. This works, and they arrive just in time to rescue Tress. Ann immobilizes Riina’s metal golems, allowing [[Hoid\|Hoid]] to enter the tower and rescue Tress. 
+A few months later, Tress sells the *Crow's Song* and gets the crew pardoned by the king. She buys a new ship called The *Two Cups*, which has the same crew as the *Crow's Song,* plus Charlie as valet, storyteller, and musician.
 
-## Miembros de la tripulación
+## Crew Members
 
-[[Cuervo\|Cuervo]], capitana (anteriormente)
-[[Laggart\|Laggart]], primer oficial y cañonero
-[[Salay\|Salay]], timonel
-[[Fort%C3%ADn\|Fortín]], oficial de intendencia
-[[Ann\|Ann]], carpintera y cañonera asistente
-[[Ulaam\|Ulaam]], cirujano
-[[Trenza\|Trenza]], capitana y [[Germinador\|germinadora]]
-[[Hoid\|Hoid]], chico de cabina
+[[Crow\|Crow]], Captain (former)
+[[Laggart\|Laggart]], First Mate and Cannonmaster
+[[Salay\|Salay]], Helmswoman
+[[Fort\|Fort]], Quartermaster
+[[Ann\|Ann]], Carpenter and assistant Cannonmaster
+[[Ulaam\|Ulaam]], Surgeon
+[[Tress\|Tress]], Captain and [[Sprouter\|Sprouter]]
+[[Hoid\|Hoid]], Cabin boy
 [[Pakson\|Pakson]]
 
 ### Dougs
-El *Canto del cuervo* tiene otros cincuenta y dos miembros de la tripulación, que [[Hoid\|Hoid]] no encontraba lo suficientemente importantes al contar la historia como para nombrarlos individualmente, por lo que se refiere a ellos como Dougs. Elige llamaros a todos así porque el nombre es extremadamente común por todo el [[Cosmere\|Cosmere]] y porque [[Doug\|una de ellos]] realmente se llama Doug.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**| · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+The *Crow's Song* had an additional fifty-two crewmembers, who [[Hoid\|Hoid]] did not feel were important enough to his telling of the story to name individually, and they are therefore referred to as Dougs. He chose to call them all Doug because the name is extremely common throughout the [[Cosmere\|cosmere]] and because [[Doug\|one of them]] is actually named Doug.
 
 
 
-https://es.coppermind.net/wiki/Dougs
+https://coppermind.net/wiki/Dougs

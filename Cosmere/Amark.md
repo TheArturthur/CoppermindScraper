@@ -1,42 +1,21 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Amark**|
 |-|-|
-|**Fallecido**|Kakahan 1173|
-|**Oficio**|Minero, Hombre de los puentes|
-|**Grupo**|[[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas|
-|**Nacionalidad**|[[Jah Keved\|Veden]] ([[Bavlandia\|Bav]])|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Died**|Kakahan 1173|
+|**Profession**|Miner, Bridgeman|
+|**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army|
+|**Nationality**|[[Jah Keved\|Veden]] ([[Bavland\|Bav]])|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Amark** es un [[Bav\|bav]] y miembro del [[Puente Cuatro\|Puente Cuatro]] en [[Roshar\|Roshar]].
+**Amark** is a [[Bavland\|Bavlander]] and a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 
-## Apariencia y personalidad
-Se le describe como "estirado" y habla con un fuerte acento bav. Cuando vive en Bavland, lleva la ropa mugrienta típica de los mineros. Muestra empatía, ya que le molesta que [[Took\|Took]] le ordene a [[Szeth\|Szeth]] que se haga daño.
+## Appearance and Personality
+He is described as "sniffly" and speaks with a strong Bav accent. When he lives in Bavland, he wears the grimy clothing typical of mineworkers. He exhibits empathy, as he is upset by [[Took\|Took]] commanding [[Szeth\|Szeth]] to harm himself.
 
-## Historia
-Amark vivía en la ciudad de [[Camino de Hierro\|Camino de Hierro]], en Bavland, y presumiblemente trabajaba como minero junto a [[Ton (Veden)\|Ton]]. Él y Ton bebían juntos en una taberna destartalada con otros mineros, escuchando a [[Took\|Took]] contar historias ficticias sobre su vida y presumiendo de su [[Sinverdad\|sinverdad]], Szeth. Cuando Took le ordenó a Szeth que se cortara, Amark protestó, y se enfadó aún más cuando Took le dijo a Szeth que se cortara el cuello.
-Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], se convirtió en un hombre del puente para el ejército de [[Torol Sadeas\|Torol Sadeas]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] por circunstancias desconocidas, y fue asignado al [[Puente Cuatro\|Puente Cuatro]]. Una vez que [[Kaladin\|Kaladin]] tomó la decisión de salvar el Puente Cuatro, redujo drásticamente las bajas que sufrían en los recorridos por el puente, pero aun así perdieron a Amark y [[Koolf\|Koolf]]. Más tarde, Kaladin pensó en Amark y en otras personas que no pudo salvar tras la muerte de [[Mapas\|Mapas]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 19:15, 24 July 2019 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+Amark lived in the town of [[Ironsway\|Ironsway]] in Bavland and presumably worked as a miner alongside [[Ton (Veden)\|Ton]]. He and Ton drank together in a run-down tavern with other miners, listening to [[Took\|Took]] tell fictionalized stories about his life and showing off his [[Truthless\|Truthless]], Szeth. When Took ordered Szeth to cut himself, Amark protested, and became even more upset when Took told Szeth to slit his own throat.
+During the [[War of Reckoning\|War of Reckoning]], he became a bridgeman for [[Torol Sadeas\|Torol Sadeas's]] army on the [[Shattered Plains\|Shattered Plains]] under unknown circumstances, and he was assigned to [[Bridge Four\|Bridge Four]]. Once [[Kaladin\|Kaladin]] made the decision to save Bridge Four, he drastically reduced the casualties that they suffered on bridge runs, but they still lost Amark and [[Koolf\|Koolf]]. Kaladin later thought of Amark and other people that he was unable to save after [[Maps\|Maps]] was killed.
 
 
 
-https://es.coppermind.net/wiki/Amark
+https://coppermind.net/wiki/Amark

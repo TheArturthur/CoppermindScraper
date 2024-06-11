@@ -1,26 +1,12 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lenehe**|
 |-|-|
-|**Etnia**|[[A%C3%B3nico\|Aónico]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|[[Aonic\|Aonic]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Lenehe** es un poeta de [[Sel\|Sel]]. El nombre, derivado del [[/wiki/Aon#Ehe]], había sido el que eligió al alcanzar la madurez como artista, y para distanciarse de sus obras más antiguas.
-Lenehe dijo que el aon Ehe era "El más inspirador de todos los aones, un símbolo para aquellos con un corazón creativo y una mente sin obstáculos."
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 01:44, 5 de junio de 2017 (MST)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+**Lenehe** is a poet on [[Sel\|Sel]]. The name, derived from the [[/wiki/Aon#Ehe]], had been one they chose upon reaching maturity as an artist, and to distance themselves from their older works.
+Lenehe said that Aon Ehe was "The most inspiring of all Aons, a symbol for those with a creative heart and an unhindered mind."
 
 
 
-https://es.coppermind.net/wiki/Lenehe
+https://coppermind.net/wiki/Lenehe

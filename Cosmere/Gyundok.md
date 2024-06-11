@@ -1,40 +1,27 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gyundok**|
 |-|-|
-|**Fallecido**||
-|**Capacidades**|[[Pesadilla\|Pesadilla]]|
-|**Oficio**|Erudito|
-|**Grupo**|[[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]]|
-|**Nacionalidad**|[[De Torio\|de Torio]]|
-|**Mundo natal**|[[Komashi\|Komashi]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Died**||
+|**Abilities**|[[Nightmare\|Nightmare]]|
+|**Profession**|Scholar|
+|**Groups**|[[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]]|
+|**Nationality**|[[Torish\|Torish]]|
+|**Homeworld**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-**Gyundok** es el principal académico de [[Torio\|Torio]] del [[Instituto de Soluciones Mec%C3%A1nicas\|Instituto de Soluciones Mecánicas]] que participa en la creación de la [[M%C3%A1quina padre\|máquina padre]] y que más tarde es enviado por esta para evitar que [[Yumi\|Yumi]] escape de su prisión.
+**Gyundok** is the lead [[Torish\|Torish]] scholar from the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] who is involved in the creation of the [[Father machine\|father machine]] and who is later sent by the machine to prevent [[Yumi\|Yumi]] from escaping her prison.
 
-## Apariencia y personalidad
-Gyundok tiene la cara picuda y la cabeza puntiaguda. Al igual que otros académicos de Torio, lleva barbilla y bigote y el pelo cortado a tazón. Viste ropa blanca con un  negro alado.
-Gyundok es un líder dominante que toma el mando en la mayoría de las situaciones y prefiere hacer que sus subordinados corran riesgos que él mismo no se siente cómodo asumiendo. También se muestra como un orador carismático cuando su equipo llega por primera vez a Gongsha.
+## Appearance and Personality
+Gyundok has a pinched face, and a pointing head. Like other Torish scholars, he has a bearded chin and mustache, and he wears his hair in a bowl cut. He wears white clothing with a black, winged .
+Gyundok is a commanding leader who takes charge in most situations and prefers to make his subordinates take risks that he's not comfortable taking himself. He also shows himself to be a charismatic orator when his team first arrives in Gongsha.
 
-## Historia
-Antes de su muerte, Gyundok trabajó con otros académicos para desarrollar y activar la máquina padre. Su alma fue mantenida en reserva por la máquina tras su activación, a efectos de su autodefensa, aunque seguía convertido en una [[Pesadilla\|pesadilla]]. Cuando la mente de Yumi se volvió resistente a la manipulación de la máquina, Gyundok fue uno de los cuatro académicos enviados al [[Pueblo de Gongsha\|pueblo de Gongsha]] para investigar.
-Cuando llegaron a Gongsha, Gyundok anunció que se habían enterado de los problemas de los habitantes y explicó que habían venido con una máquina para invocar a los [[Haijo\|haijo]]. Su prototipo de máquina no funcionó a su llegada a Gonghsa. [[Sunjun\|Sunjun]] determinó que el problema estaba relacionado con la fuente de alimentación, algo que Gyundok dudó en creer al principio. Tras aceptar el análisis de Sunjun, Gyundok ordenó a este y [[Honam\|Honam]] que preparasen la máquina, antes de que el [[Cuarto acad%C3%A9mico tor%C3%A9s\|cuarto académico torés]] se ofreciera.
-[[Nikaro\|Nikaro]] fue finalmente capaz de invocar un espíritu, aunque la máquina de los eruditos lo reclamó. Mientras Pintor veía cómo se llevaban al espíritu, Gyundok observaba con preocupación a Nikaro y Yumi, con su dispositivo de detección en la mano.
-Cuando [[Nikaro\|Nikaro]] y Yumi se acercaron a los académicos para destruir el prototipo de máquina, se encontraron por primera vez con Gyundok. Pidió a Sunjun que activase su dispositivo de separación, y mientras los otros eruditos trabajaban habló divertido con Nikaro sobre la comprensión del [[Pintor\|pintor]] de lo que estaba ocurriendo.
-Tras la separación de Yumi y Nikaro, Gyundok trabajó con los académicos restantes para resolver los problemas del pueblo de Gongsha y contener a Yumi. Le explicó a Yumi por qué su destrucción del prototipo de máquina era inútil, y cuando Yumi escapó, la persiguió con los demás hasta [[Ciudad Torio\|Ciudad Torio]], donde la voluntad dominante de Yumi lo obligó a retirarse.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+## History
+Prior to his death, Gyundok worked with other scholars to develop and activate the father machine. His soul was kept in reserve by the machine upon its activation, for the purpose of its self-defense, though he was still turned into a [[Nightmare\|nightmare]]. When Yumi's mind became resistant to the machine's tampering, Gyundok was one of the four scholars sent to [[Gongsha Town\|Gongsha Town]] to investigate.
+When they arrived on Gongsha, Gyundok announced they had heard of the residents' troubles and explained that they had come with a machine to summon the [[Hijo\|hijo]]. Their prototype machine did not work upon arrival on Gonghsa. [[Sunjun\|Sunjun]] determined that the issue was related to the power supply, which Gyundok was hesitant to believe at first. After accepting Sunjun's analysis, Gyundok ordered Sunjun and [[Honam\|Honam]] to prime the machine, before the [[Fourth Torish scholar\|fourth Torish scholar]] offered.
+[[Nikaro\|Nikaro]] was eventually able to summon a spirit, though the scholars' machine claimed it. As Painter watched the spirit be pulled away, Gyundok watched Nikaro and Yumi with concern, with their detection device in hand.
+When [[Nikaro\|Nikaro]] and Yumi approached the scholars to destroy the prototype machine, they first encountered Gyundok. He called for Sunjun to activate their severing device, and as the other scholars worked he spoke amusedly with Nikaro about the [[Painter\|painter's]] understanding of what was happening.
+After Yumi and Nikaro were separated, Gyundok worked with the remaining scholars to resolve the issues in Gongsha Town and contain Yumi. He explained to Yumi why her destruction of the prototype machine was pointless, and when Yumi escaped, he chased her with the others to [[Torio City\|Torio City]], where Yumi's dominating will forced him to stand down.
 
 
 
-https://es.coppermind.net/wiki/Gyundok
+https://coppermind.net/wiki/Gyundok

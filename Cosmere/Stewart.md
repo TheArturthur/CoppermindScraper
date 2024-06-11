@@ -1,21 +1,12 @@
 |**Stewart**|
 |-|-|
-|**Oficio**|Father|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Profession**|Father|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
-**Father Stewart** is a [[Jamestown\|Jamestown]] priest. He is in charge of the local .
-Despite his initial reluctance, he preformed [[Joel Saxon\|Joel Saxon]]'s second .
-
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[El rithmatista\|El rithmatista]]**|
-|-|-|
-|**Characters**|[[Joel Saxon\|Joel Saxon]] · [[Melody Muns\|Melody Muns]] · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
-|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
-|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
+**Father Stewart** is a [[Jamestown\|Jamestown]] priest. He is in charge of the local [[Church of the Monarch\|Church of the Monarch]].
+Despite his initial reluctance, he preformed [[Joel Saxon\|Joel Saxon's]] second [[Inception\|inception ceremony]].
 
 
 
-https://es.coppermind.net/wiki/Stewart
+https://coppermind.net/wiki/Stewart

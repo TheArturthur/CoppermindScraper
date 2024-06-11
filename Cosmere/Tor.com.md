@@ -44,4 +44,4 @@ There have also been several award-winning collections of *Tor.com* content. Rev
 
 
 
-https://es.coppermind.net/wiki/Tor.com
+https://coppermind.net/wiki/Tor.com

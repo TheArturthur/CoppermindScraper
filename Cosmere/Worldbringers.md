@@ -1,68 +1,44 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Forjamundos**|
+|**Worldbringers**|
 |-|-|
-|**Era**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **forjamundos** son un grupo del [[Cosmere\|Cosmere]] conocidos sobre todo como líderes espirituales, filósofos y narradores durante la [[Scadrial cl%C3%A1sico\|era clásica]] de [[Scadrial\|Scadrial]]. Históricamente eran miembros del pueblo de [[Terris\|Terris]].
+The **Worldbringers** are a group in the [[Cosmere\|cosmere]] best known as spiritual leaders, philosophers, and storytellers during [[Scadrial\|Scadrial's]] [[Classical Scadrial\|Classical era]]. They were historically members of the [[Terris\|Terris]] people.
 
-## Sumario
+## Contents
 
-1 Misión. [[#Misi.C3.B3n]] 
-2 Historia. [[#Historia]] 
+1 Mission. [[#Mission]] 
+2 History. [[#History]] 
 
 2. [[#Scadrial]] 
 2. [[#Lumar]] 
 
 
-3 Conexiones en el Cosmere. [[#Conexiones en el Cosmere]] 
-4 Forjamundos conocidos. [[#Forjamundos conocidos]] 
-5 Notas. [[#Notas]] 
+3 Cosmere Connections. [[#Cosmere Connections]] 
+4 Known Worldbringers. [[#Known Worldbringers]] 
+5 Notes. [[#Notes]] 
 
 
-## Misión
-Los forjamundos suelen ser individuos que recopilan relatos históricos y tradiciones populares de cualquier fuente, buscando las historias más interesantes que pueden encontrar. Ejercían de historiadores y también realizaban sus propias investigaciones sobre diversos temas; incluso tenían conocimientos sobre [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]. En el Scadrial clásico, se les consideraba hombres santos y, en ocasiones, predicaban determinadas líneas de actuación en materia de religión o política. Durante esta época, los forjamundos no religiosos que indagaban sobre otros temas (como la naturaleza) a veces eran objeto de críticas.
+## Mission
+Worldbringers are typically individuals who collect tales of history and folk traditions from any source, seeking out the most interesting stories that they can find. They served as historians and also performed their own research into various subjects; they even had some knowledge of [[Realmatic Theory\|Realmatic Theory]]. In Classical Scadrial, they were considered holy men, and would sometimes preach certain courses of action regarding religion or politics. During this era, nonreligious Worldbringers who inquired into other subjects (such as nature) were sometimes met with criticism.
 
-## Historia
-Se desconoce el origen de los forjamundos; se les ve por primera vez en la antigua Scadrial, anterior al [[Imperio Final\|Imperio Final]].
+## History
+The origin of Worldbringers is unknown; they are first seen in ancient Scadrial prior to the [[Final Empire\|Final Empire]].
 
 ### Scadrial
-En el Scadrial clásico, los forjamundos solían ser [[Feruquimista\|feruquimistas]] de Terris que utilizaban [[Mentecobre\|mentecobres]] para ayudarles en sus objetivos. Tenían algún tipo de estructura organizativa, incluida una reunión formal conocida como el "Cónclave de los forjamundos". Con el tiempo, la organización se interesó por el estudio de la filosofía y la religión. Empezaron a llevar registros de las [[Profec%C3%ADas de Terris\|Profecías de Terris]] y buscaron al [[H%C3%A9roe de las Eras\|Héroe de las Eras]]. Un forjamundos, [[Kwaan\|Kwaan]] descubrió que [[Alendi\|Alendi]] encajaba en todas las profecías y lo proclamó Héroe. Fue recibido con desprecio, pero con el tiempo convenció a sus colegas de que estaba en lo cierto. Sin embargo, se dio cuenta de que había sido engañado por [[Ruina\|una fuerza desconocida]] y se retractó ante el Cónclave, pero era demasiado tarde para detener los acontecimientos que había puesto en marcha. Su sobrino, [[Rashek\|Rashek]], [[Ascensi%C3%B3n del lord Legislador\|Ascendió]] y se convirtió en el [[Lord Legislador\|lord Legislador]]; como parte de sus esfuerzos por controlar el uso de las [[Artes Met%C3%A1licas\|Artes Metálicas]], convirtió a todos los feruquímicos vivos en [[Espectro de la bruma\|espectros de la bruma]] excepto a Kwaan, a quien no tardó en ejecutar. Esto acabó con los forjamundos de Scadrial.
-Años más tarde, cuando la feruquimia resurgió debido a su existencia latente en el ADN de Terris, el legado de los forjamundos fue continuado por la Orden de los [[Guardador\|Guardadores]], que se inspiraron en su memoria. Los antiguos [[Kandra\|kandra]] se referían a los guardianes como forjamundos. Los guardadores continuaron la labor de los forjamundos preservando el conocimiento de la religión y otros estudios anteriores a la Ascensión.
+In Classical Scadrial, Worldbringers were typically Terris [[Feruchemist\|Feruchemists]] who used [[Coppermind\|copperminds]] to assist them in their goals. They had some sort of organizational structure, including a formal gathering known as the **Conclave of Worldbringers**. Over time, the organization developed an interest in studying philosophy and religion. The Worldbringers began to keep records of [[Terris Prophecies\|Terris Prophecies]] and sought out the [[Hero of Ages\|Hero of Ages]]. One Worldbringer, [[Kwaan\|Kwaan]] discovered that [[Alendi\|Alendi]] fit all of the prophecies and proclaimed him to be the Hero. He was met with scorn, but eventually convinced his colleagues that he was correct. However, he realized that he had been deceived by [[Ruin\|an unknown force]] and recanted in front of the Conclave, but it was too late to stop the events that he had put into motion. His nephew, [[Rashek\|Rashek]], [[Ascension of the Lord Ruler\|Ascended]] and became [[Lord Ruler\|Lord Ruler]]; as part of his efforts to control the use of the [[Metallic Arts\|Metallic Arts]], he turned all living Feruchemists into [[Mistwraith\|mistwraiths]] except Kwaan, who he soon executed. This effectively wiped out the Worldbringers on Scadrial.
+Years later, as Feruchemy re-emerged due to its latent existence in Terris DNA, the Worldbringer legacy was carried on by the Order of the [[Keeper\|Keepers]], who were inspired by their memory. Older [[Kandra\|kandra]] referred to Keepers as Worldbringers. The Keepers continued the work of the Worldbringers by preserving pre-Ascension knowledge of religion and other studies.
 
 ### Lumar
-[[Hoid\|Hoid]] afirma ser un forjamundos mientras relata la historia de [[Trenza\|Trenza]]. Hoid vivía cuando los forjamundos estaban activos en Scadrial, pero no está claro cómo ni por qué se unió a sus filas. Además, no se sabe si Hoid es feruquimista, aunque tiene acceso a la [[/wiki/Feruquimia#Mentes de metal sin sellar]].
+[[Hoid\|Hoid]] claims to be a Worldbringer while relaying the story of [[Tress\|Tress]]. Hoid was alive when the Worldbringers were active on Scadrial, but it is unclear how or why he joined their ranks. Additionally, it is not known if Hoid is a Feruchemist, although he does have access to [[/wiki/Feruchemy#Unkeyed Metalminds]].
 
-## Conexiones en el Cosmere
-Existe una conexión entre los forjamundos y los [[Cantamundos\|cantamundos]] [[Roshar\|rosharianos]]. Los nombres de los grupos tienen orígenes lingüísticos similares. Se sabe que Hoid fundó los forjamundos y que afirma ser uno, pero su papel en la relación entre ambos grupos no está claro.
+## Cosmere Connections
+There is a connection between the Worldbringers and the [[Roshar\|Rosharan]] [[Worldsingers\|Worldsingers]]. The names of the groups have similar linguistic origins. It is known that Hoid founded the Worldsingers and that he claims to be a Worldbringer, but his role in the relationship between the two groups is unclear.
 
-## Forjamundos conocidos
+## Known Worldbringers
 [[Kwaan\|Kwaan]]
 [[Hoid\|Hoid]]
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:08, 16 de junio de 2023 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · |
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
 
 
-
-https://es.coppermind.net/wiki/Worldbringers
+https://coppermind.net/wiki/Worldbringers

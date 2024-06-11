@@ -1,87 +1,73 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kuth**|
 |-|-|
-|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Algunos sabios dicen que la Multiguerra se libró por estos pétalos, que los reinos de Kuth y Huth fueron destruidos por pequeñas gotitas de color.*”
-\-Hoid a Sondeluz y Siri.[1]
+>“*Some scholars say that the Manywar was fought over these ﬂower petals, that the kingdoms of Kuth and Huth were destroyed by little drips of color.*”
+\-Hoid to Lightsong and Siri.[1]
 
 
-**Kuth** es una nación-estado en [[Nalthis\|Nalthis]].
+**Kuth** is a nation-state on [[Nalthis\|Nalthis]].
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Gobierno. [[#Gobierno]] 
+1 Geography. [[#Geography]] 
+2 Government. [[#Government]] 
 
-2. [[#Monarqu.C3.ADa]] 
-2. [[#Pol.C3.ADtica exterior y relaciones internacionales]] 
+2. [[#Monarchy]] 
+2. [[#Foreign Policy and international relationships]] 
 
 2. [[#Hanald]] 
 2. [[#Huth]] 
-2. [[#Unidad Pahn]] 
+2. [[#Pahn Unity]] 
 
 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
-3. [[#Fundaci.C3.B3n]] 
-3. [[#Tensiones con Hanald]] 
-3. [[#La Multiguerra y destrucci.C3.B3n]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Establishment]] 
+3. [[#Tensions with Hanald]] 
+3. [[#The Manywar and Destruction]] 
 
 
-## Geografía
-Kuth se encuentra al norte de las montañas [[Idris\|idrianas]]. No se sabe mucho del clima, aunque se sabe que es un clima de pradera, estepa o desierto.
+4 Notes. [[#Notes]] 
 
-## Gobierno
-### Monarquía
-Kuth es un reino, y como tal tiene un rey o una reina.
 
-### Política exterior y relaciones internacionales
+## Geography
+Kuth lies north of the [[Idris\|Idrian]] mountains. Not much is known of Kuth’s climate, although it is known to be either a prairie or a steppe or a desert climate.
+
+## Government
+### Monarchy
+Kuth is a kingdom, and as such it has a king or queen.
+
+### Foreign Policy and international relationships
 #### Hanald
-Kuth tiene una mala relación con [[Hanald\|Hanald]]. Están celosos de las riquezas que posee Hanald, así como temerosos del poderío militar que tienen.
-Esto llevó finalmente a Hanald a declarar la guerra a Kuth, e invadir el reino.
+Kuth has a bad relationship with [[Hanald\|Hanald]]. They are jealous of the riches Hanald posseses, as well as afraid of Hanald's military might.
+This eventually lead to Hanald declaring war on Kuth, and invading the Kingdom.
 
 #### Huth
-[[Huth\|Huth]] se encuentra cerca de Kuth, al norte de las montañas idrianas. También lucharon juntos durante la Multiguerra, con cada una de las naciones invadidas por [[Hanald\|Hanald]].
+[[Huth\|Huth]] lies near Kuth, north of the Idrian mountains. They also fought together during the Manywar, with each of the nations being invaded by [[Hanald\|Hanald]].
 
-#### Unidad Pahn
-No está claro si Kuth formaba parte o no de la [[Unidad Pahn\|Unidad Pahn]].
-Durante la Multiguerra Kuth estuvo en el mismo bando que la Unidad Pahn. Debido a esto es probable que tuvieran al menos buenas relaciones con las naciones que formaban esta alianza.
+#### Pahn Unity
+It is unclear whether or not Kuth was a part of the [[Pahn Unity\|Pahn Unity]].
+During the Manywar Kuth was on the same side as the Pahn Unity. Due to this it is likely that they had at least fine relationships with the nations that made up this alliance.
 
-## Historia
-### Fundación
-Kuth se estableció en una fecha desconocida antes de [[La Multiguerra\|la Multiguerra]].
+## History
+### Establishment
+Kuth was established at an unknown date before the [[Manywar\|Manywar]].
 
-### Tensiones con Hanald
-Aproximadamente trescientos años antes de la rebelión Pahn Kahl, poco antes de la Multiguerra, las tensiones con [[Hanald\|Hanald]] estaban en su punto más alto. Esto se debía a dos razones principales.
-La primera razón fue el monopolio de Hanald en el comercio de tintes. Otros reinos también querían beneficiarse de este comercio, pero Hanald no se lo permitió.
-La realeza de Hanald también se dedicó al arte relativamente nuevo del [[Despertar\|despertar]]. Durante este tiempo ganaron poderosos despertantes y [[Sinvida\|sinvida]], que otros reinos no tenían. Muchos descubrimientos diferentes se hicieron durante este tiempo, incluyendo el Mandato para hacer sinvidas con un solo aliento y el [[%C3%8Dcoralcohol\|ícoralcohol]]. Estos descubrimientos permitieron a las naciones construir ejércitos mucho más grandes y baratos, y volverse mucho más poderosas, elevando aún más las tensiones.
-En algún momento, uno de los [[Retornado\|Retornados]] en Hanald tuvo una visión de guerra. Esto terminó siendo el catalizador de una guerra, ya que impulsó a [[Amadisputas\|Amadisputas]] a atacar preventivamente contra Kuth y las otras naciones.
+### Tensions with Hanald
+Approximately three hundred years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], a short time before the Manywar, tensions with [[Hanald\|Hanald]] were at an all time high. This was because of two main reasons.
+The first reason was Hanald’s monopoly on the dye trade. Other kingdoms wished to profit in this trade as well, but Hanald wouldn’t allow them.
+Hanald’s Royals also turned its attention to the relatively new art of [[Awakening\|Awakening]]. During this time they gained powerful awakeners and [[Lifeless\|Lifeless]], which other kingdoms didn’t have. Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol\|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies, and become far more powerful, raising tensions even higher.
+At some point, one of the [[Returned\|Returned]] in Hanald had a vision of war. This ended up being the catalyst for a war, as it prompted [[Strifelover\|Strifelover]] to strike preemptively against Kuth and the other nations.
 
-### La Multiguerra y destrucción
-Cuando Amadisputas hizo marchar a sus fantasmas hacia Kuth y [[Huth\|Huth]] estalló lo que se conocería como [[La Multiguerra\|la Multiguerra]].
-Kuth y Huth se convertirían en los principales rivales de Hanald en esta guerra. Estas naciones lucharían entre sí durante el tiempo restante de la guerra, hasta que en algún momento cerca del final ambas naciones fueron destruidas y Amadisputas retiró a sus fantasmas.
-Tras la destrucción de Kuth se establecieron múltiples reinos en su lugar, estas naciones mantendrían su odio hacia [[Hallandren\|Hallandren]]. Trescientos años después del colapso de Kuth un tirano intentó restaurar Kuth y Huth, con la ayuda de [[Yesteel\|Yesteel]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 22:58, 22 de Junio de 2019 (MST)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] ·  · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+### The Manywar and Destruction
+As Strifelover marched his phantoms into Kuth and [[Huth\|Huth]] what was to become known as the [[Manywar\|Manywar]] broke out.
+Kuth and Huth would become Hanald’s main rivals in this war. These nations would fight with each other for the remaining time of the war, until somewhere near the end both nations were destroyed and Strifelover withdrew his phantoms.
+After the destruction of Kuth multiple kingdoms were established in its place, these nations would keep their hatred for [[Hallandren\|Hallandren]]. Three hundred years after Kuth’s collapse a tyrant tried to restore Kuth and Huth, with the help of [[Yesteel\|Yesteel]].
 
 
 
-https://es.coppermind.net/wiki/Kuth
+https://coppermind.net/wiki/Kuth

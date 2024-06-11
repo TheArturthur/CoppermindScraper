@@ -1,96 +1,76 @@
-
-
 |**Phendorana**|
 |-|-|
 ||
-|**Fallecido**|Vevishev 1175|
-|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Corredor del Viento\|Corredores del Viento]], [[Astilla\|Astilla]] de [[Honor\|Honor]]|
-|**Vinculado con**|[[Teft\|Teft]]|
-|**Especie**|[[Honorspren\|Honorspren]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Died**|Vevishev 1175|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Windrunner\|Windrunner]] magic, [[Splinter\|Splinter]] of [[Honor\|Honor]]|
+|**Bonded With**|[[Teft\|Teft]]|
+|**Species**|[[Honorspren\|Honorspren]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*La vida nos rompe, Teft. Y entonces rellenamos las grietas con algo más fuerte.*”
+>“*Life breaks us, Teft. Then we fill the cracks with something stronger.*”
 \-Phendorana[2]
 
 
-**Phendorana** es una [[Honorspren\|honorspren]] en [[Roshar\|Roshar]]. Tiene cierto nivel de importancia o autoridad entre los de su especie. Se vinculó con [[Teft\|Teft]] durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
+**Phendorana** is an [[Honorspren\|honorspren]] on [[Roshar\|Roshar]]. She has some level of importance or authority among her kind. She bonded [[Teft\|Teft]] during the [[True Desolation\|True Desolation]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Post-Traici.C3.B3n]] 
-3. [[#Observando a los refundados Corredores del Viento]] 
-3. [[#V.C3.ADnculo Nahel]] 
-3. [[#Inhibici.C3.B3n de su poder y muerte]] 
+3. [[#Post-Recreance]] 
+3. [[#Observing the Refounded Windrunners]] 
+3. [[#Nahel Bond]] 
+3. [[#Power Inhibition and Death]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Teft]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-En el [[Reino F%C3%ADsico\|Reino Físico]], Phendorana toma la forma de una mujer mayor de tamaño humano y con pelo largo. Es notablemente más grande que otros honorspren como [[Rua\|Rua]] y [[Sylphrena\|Sylphrena]], que normalmente parecen medir un palmo de altura. Su vestimenta parece inicialmente un elegante vestido, pero después de unirse a un [[Corredor del Viento\|Corredor del Viento]] se la ve con una práctica falda y blusa al estilo [[Thayle%C3%B1o\|thayleño]]. Su cabello se mueve como si fuera soplado por un viento fantasma, y se enrosca y desaparece en la niebla. Aunque no se la ve en el [[Reino Cognitivo\|Reino Cognitivo]], es de suponer que tenga una apariencia similar allí.
-[[Teft\|Teft]] describe a Phendorana como tenaz y un poco cascarrabias, aunque también tiene un lado cálido. Syl recuerda vagamente a Phendorana reprendiéndola cuando buscaba a [[Kaladin\|Kaladin]], lo que implica que Phendorana tiene un papel de liderazgo entre los honorspren. [[Lopen\|Lopen]] dice que Phendorana a veces da lecciones a sus compañeros honorspren.
+## Appearance and Personality
+In the [[Physical Realm\|Physical Realm]], Phendorana takes the form of a human-sized older woman with long hair. This is noticeably larger than other honorspren such as [[Rua\|Rua]] and [[Sylphrena\|Sylphrena]], who usually appear to be about a handspan tall. Her clothing initially looks like an elegant gown, but after bonding a [[Windrunner\|Windrunner]] she is seen in a practical [[Thaylen\|Thaylen]]-style skirt and blouse. Her hair moves as if blown by a phantom wind, and curls and disappears into mist. Although she is not seen in the [[Cognitive Realm\|Cognitive Realm]], she presumably has a similar appearance there.
+[[Teft\|Teft]] describes Phendorana as tenacious and a bit cantankerous, although she also has a warm side. Syl vaguely recalls Phendorana reprimanding her when she was searching for [[Kaladin\|Kaladin]], implying that Phendorana has a leadership role among the honorspren. [[Lopen\|Lopen]] says that Phendorana sometimes lectures her fellow honorspren.
 
-## Atributos y habilidades
-Al igual que otros honorspren, Phendorana es una [[Astilla\|Astilla]] de [[Honor\|Honor]]. Tiene una sustancia mínima en el Reino Físico y brilla con una luz blanca azulada. Puede cambiar de forma a voluntad; aunque prefiere ser de tamaño humano, a veces se hace más pequeña por comodidad. Puede flotar por encima del suelo en lugar de caminar sobre él. Puede elegir ser visible o invisible para los humanos, con algunas excepciones como [[Lunamor\|Lunamor]].
-También es capaz de formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]], aumentando su consciencia en el [[Reino F%C3%ADsico\|Reino Físico]] y otorgando al humano vinculado habilidades de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]], incluyendo las [[Potenciaci%C3%B3n\|Potencias]] de [[/wiki/Potenciaci%C3%B3n#Adhesi.C3.B3n]] y [[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]]. Puede hablar directamente en la mente de su Radiante vinculado.
+## Attributes and Abilities
+Like other honorspren, Phendorana is a [[Splinter\|Splinter]] of [[Honor\|Honor]]. She has minimal substance in the Physical Realm, and glows with a blue-white light. She is able to change her form at will; although she prefers to be human-sized, she sometimes becomes smaller for convenience. She can float above the ground rather than walking on it. She can choose to be visible or invisible to humans, with a few exceptions such as [[Lunamor\|Lunamor]].
+She is also able to form a [[Nahel bond\|Nahel bond]], increasing her sentience in the [[Physical Realm\|Physical Realm]] and granting a bonded human abilities of the [[Order of Windrunners\|Order of Windrunners]], including the [[Surge\|Surges]] of [[Adhesion\|Adhesion]] and [[Gravitation\|Gravitation]]. She can speak directly into the mind of her bonded Radiant.
 
-## Historia
-Según [[Notum\|Notum]], todos los honorspren excepto Syl se convirtieron en [[Ojomuerto\|ojomuertos]] en el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]. El [[Padre Tormenta\|Padre Tormenta]] creó otros diez honorspren tras varios cientos de años de luto, y Phendorana estaba entre esos diez spren o descendía de ellos.
+## History
+According to [[Notum\|Notum]], all of the honorspren except for Syl became [[Deadeye\|deadeyes]] on the [[Day of Recreance\|Day of Recreance]]. The [[Stormfather\|Stormfather]] created ten more honorspren after several hundred years of mourning, and Phendorana was either among those ten spren or was descended from them.
 
-### Post-Traición
-Syl contó que se metió en problemas con Phendorana y los demás honorspren cuando empezó a buscar a Kaladin, ya que los spren se habían mantenido alejados del [[V%C3%ADnculo Nahel\|vínculo Nahel]] desde la Traición. Es probable que Phendorana estuviera al tanto de la gran recompensa que se había ofrecido por la captura y devolución de Syl a [[Integridad Duradera\|Integridad Duradera]]. Después de que Kaladin y otros humanos empezaran a vincular a los spren una vez más, Syl creía que Phendorana decidió ignorarla porque no quería admitir que estaba equivocada.
+### Post-Recreance
+Syl recounted getting into trouble with Phendorana and the other honorspren when she started seeking Kaladin, as spren had generally shied away from the [[Nahel bond\|Nahel bond]] since the Recreance. It is likely that Phendorana was aware of a large reward that had been offered for Syl's capture and return to [[Lasting Integrity\|Lasting Integrity]]. After Kaladin and other humans began bonding spren once again, Syl believed that Phendorana decided to ignore her because she did not want to admit that she was wrong.
 
  
-### Observando a los refundados Corredores del Viento
-En 1174, [[Lunamor\|Lunamor]] vio a Phendorana observando a los [[Escudero\|escuderos]] de [[Corredor del Viento\|Corredores del Viento]] y los aspirantes del [[Puente Cuatro\|Puente Cuatro]] formando en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Lunamor era la única persona capaz de verla debido a su habilidad como [[Vidente\|Vidente]], o alaii'iku, que le permitía ver [[Spren\|spren]] que eran invisibles para otras personas. Estaba rodeada de varias docenas de honorspren más pequeños, más de los que Lunamor había visto en un solo lugar. Lunamor se refirió a Phendorana como "ali'i'kamura", el dios más importante de los presentes; ya había mencionado anteriormente a ali'i'kamura como un dios que podía ofrecer protección contra el peligro. Preguntó a Sylphrena si Phendorana era similar a un líder del clan [[Unkalaki\|Unkalaki]] llamado [[Nuatoma\|nuatoma]], y ella respondió «más o menos, a medio camino». Lunamor intentó pensar en una ofrenda adecuada, y descartó el pan y el guiso. Finalmente se acercó a Phendorana con un cuenco lleno de [[Esfera\|esferas]] infundidas de [[Luz tormentosa\|luz tormentosa]]. Phendorana lo miró, luego puso la mano sobre el cuenco y extrajo la luz tormentosa antes de partir como una cinta de luz.
+### Observing the Refounded Windrunners
+In 1174, [[Lunamor\|Lunamor]] noticed Phendorana watching the [[Windrunner\|Windrunner]] [[Squire\|squires]] and hopefuls of [[Bridge Four\|Bridge Four]] training on the [[Shattered Plains\|Shattered Plains]]. Lunamor was the only person who saw her, due to his ability as a [[Sighted\|Sighted]], or alaii'iku, that allowed him to see [[Spren\|spren]] that were invisible to other people. She was surrounded by several dozen smaller honorspren, more than Lunamor had ever seen in one place. Lunamor referred to Phendorana as "ali'i'kamura", the most important god present; he had previously mentioned ali'i'kamura as a god that could offer protection from danger. He asked Sylphrena if Phendorana was similar to an [[Unkalaki\|Unkalaki]] clan leader called a [[Nuatoma\|nuatoma]], and she replied "kind of maybe sort of halfway". Lunamor tried to think of a suitable offering, and ruled out bread and stew. He eventually approached Phendorana with a bowl full of [[Stormlight\|Stormlight]]-infused [[Spheres\|spheres]]. Phendorana regarded him, then put her hand over the bowl and drew out the Stormlight before departing as a ribbon of light.
 
-### Vínculo Nahel
-Phendorana eligió vincularse con [[Teft\|Teft]] tras observar a los Corredores del Viento practicando en las Llanuras Quebradas. Se la vio por primera vez acompañándolo en [[Urithiru\|Urithiru]] antes de la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]]. Le recordó que aún tenía que progresar jurando las [[Palabras Inmortales\|Palabras Inmortales]]. Debido a la vergüenza que sentía por su adicción al [[Musgoardiente\|musgoardiente]], Teft se resistió a su apoyo y dudó en revelar su vínculo al resto del Puente Cuatro. Teft entró en pánico al enterarse de que la venta de su uniforme del Puente Cuatro había contribuido a la muerte de [[Eth\|Eth]], pero Phendorana se negó a abandonarlo y, en cambio, lo animó a cumplir sus juramentos. Esto llevó a Teft a decir el [[/wiki/Palabras Inmortales#Ideales de la Orden de los Corredores del Viento]], lo que permitió a Phendorana convertirse en una [[Espada esquirlada\|lanza esquirlada]] viviente.
-Después de que Teft jurara el Tercer Ideal, reveló la presencia de Phendorana a los demás Caballeros Radiantes, aunque por lo general ella prefería permanecer oculta a la vista. [[Lopen\|Lopen]] era consciente de que Phendorana tenía autoridad entre los honorspren y se preguntaba si ella estaba detrás del fracaso de sus anteriores intentos de jurar el Ideal utilizando la misma formulación que [[Kaladin\|Kaladin]] y [[Teft\|Teft]]. Lopen pudo jurar el Tercer Ideal más tarde tras experimentar crecimiento personal, lo que implica que Phendorana no era la culpable del retraso.
+### Nahel Bond
+Phendorana chose to bond [[Teft\|Teft]] at some point after she had observed the Windrunners practicing on the Shattered Plains. She was first seen accompanying him in [[Urithiru\|Urithiru]] prior to the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. She reminded him that he still had more progress to make swearing the [[Immortal Words\|Immortal Words]]. Due to his ongoing shame regarding his [[Firemoss\|firemoss]] addiction, Teft resisted her support, and was hesitant to reveal their bond to the rest of Bridge Four. Teft panicked after learning that selling his Bridge Four uniform had contributed to [[Eth\|Eth's]] death, but Phendorana refused to abandon him and instead encouraged him to live up to his oaths. This led to Teft swearing the [[/wiki/Knights Radiant/Immortal Words#Ideals of the Order of Windrunners]], allowing Phendorana to become a living [[Shardblade\|Shardspear]].
+After Teft swore the Third Ideal, he revealed Phendorana's presence to the other Knights Radiant, although she generally preferred to remain hidden from sight. [[Lopen\|Lopen]] was aware that Phendorana had authority among honorspren and wondered if she was behind the failure of his previous attempts to swear the Ideal using the same wording as [[Kaladin\|Kaladin]] and [[Teft\|Teft]]. Lopen was later able to swear the Third Ideal after experiencing personal growth, implying that Phendorana was not to blame for the delay.
 
-### Inhibición de su poder y muerte
-Cuando [[Rabeniel\|Rabeniel]] logró bloquear parcialmente los poderes de los Caballeros Radiantes, Teft quedó incapacitado y Phendorana desapareció del Reino Físico; no podía ser percibida por Syl. Después de que Teft fuera reanimado, tuvo dificultades para convocar a Phendorana y ella no recordaba lo que había sucedido. Al igual que otros Corredores del Viento, Teft no podía utilizar la [[Potenciaci%C3%B3n\|Potencia]] de [[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]], y Phendorana no podía convertirse en un arma esquirlada.
-Phendorana estaba presente cuando [[Moash\|Moash]] emboscó a [[Lift\|Lift]] y Teft durante su intento de rescatar a los Radiantes inconscientes. Teft y Phendorana fueron capaces de superar brevemente la obstrucción de su vínculo por parte de la torre para formar una lanza esquirlada y bloquear un golpe de la [[Hoja de Honor\|hoja de Honor]] de Moash. Sin embargo, esto dejó a ambos agotados, y mientras se recuperaban, Moash sacó una de las [[/wiki/Raysio#armas]] de los [[Fusionado\|Fusionados]], armada con la recién descubierta [[/wiki/Luces#antiluz tormentosa]]; Rabeniel pretendía originalmente que la daga se usara con Syl, pero Moash se había negado a enfrentarse a Kaladin. Moash atacó a Phendorana directamente con la daga, utilizando [[Arena (Taldain)\|arena blanca]] para detectar su ubicación y apuñalándola en la cabeza. Phendorana quedó conmocionada, y luego se retorció de dolor mientras su esencia parecía arder y explotar hacia afuera, destruyéndola permanentemente. Teft experimentó una sensación de desgarro en su alma al morir ella; estaba angustiado, pero mantuvo la esperanza incluso mientras era asesinado por Moash.
+### Power Inhibition and Death
+When [[Raboniel\|Raboniel]] was able to partially block the powers of the Knights Radiant, Teft was incapacitated and Phendorana disappeared from the Physical Realm; she could not be sensed by Syl. After Teft was revived, he had difficulty summoning Phendorana and she had no memory of what had happened. Like other Windrunners, Teft could not use the [[Surge\|Surge]] of [[Gravitation\|Gravitation]], and Phendorana could not become a Shardweapon.
+Phendorana was present when [[Moash\|Moash]] ambushed [[Lift\|Lift]] and Teft during their attempt to rescue the unconscious Radiants. Teft and Phendorana were able to briefly overcome the tower's obstruction of their bond to form a Shardspear and block a strike from Moash's [[Honorblade\|Honorblade]]. However, this left both of them drained, and as they recovered, Moash produced one of the [[Fused\|Fused's]] [[/wiki/Raysium#weapons]] armed with newly-discovered [[Anti-Stormlight\|anti-Stormlight]]; Raboniel originally intended for the dagger to be used on Syl, but Moash had refused to confront Kaladin. Moash attacked Phendorana directly with the dagger, using [[Sand (Taldain)\|white sand]] to detect her location and stabbing her in the head. Phendorana was shocked, and then writhed in pain as her essence seemed to burn and explode outward, permanently destroying her. Teft experienced a ripping sensation in his soul upon her death; he was distraught, but remained hopeful as he was also killed by Moash.
 
->“*Cuánto dolía. La agonía era como una repentina y terrible quietud. Una nada. Un vacío.*”
-\-Teft sobre la muerte de Phendorana[1]
+>“*It hurt so much. Agony like a sudden terrible stillness. Nothingness. Emptiness.*”
+\-Teft, on Phendorana's death[1]
 
 
-Tras su muerte, se encargó una escultura de Phendorana para colocarla junto al cuerpo de Teft, que fue [[Moldear almas\|moldeado]] a piedra. Su alma no fue destruida y pudo llegar al [[M%C3%A1s All%C3%A1\|Más Allá]].
+A sculpture of Phendorana was commissioned after her death so that it could be placed next to Teft's body, which was [[Soulcast\|Soulcast]] into stone. Her soul was not destroyed, and could have reached the [[Beyond\|Beyond]].
 
-## Relaciones
+## Relationships
 ### Teft
-Teft luchó contra la adicción al musgoardiente durante años y sentía que no merecía un vínculo con un spren, incluso cuando sus compañeros de los puentes ganaban poderes. Después de que Phendorana vinculara a Teft, tuvieron conversaciones sobre su trauma infantil y su historia con los [[Vislumbradores\|Vislumbradores]]. Phendorana entiende como nadie la tendencia de Teft a odiarse a sí mismo, y su personalidad "malhumorada" encaja muy bien con la de él. No admite excusas y es capaz de empujarlo cuando lo necesita, pero también puede ofrecerle apoyo, ánimo y afirmaciones de su valía. Ambos comparten también momentos más amenos, y Teft cree que parece una niña pequeña cuando sonríe.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 01:11, 16 de enero de 2021 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Teft struggled with firemoss addiction for years, and felt that he did not deserve a spren bond even as his fellow bridgemen gained powers. After Phendorana bonded Teft, they had conversations about his childhood trauma and history with the [[Envisagers\|Envisagers]]. Phendorana understands Teft's tendency towards self-loathing like no one else, and her "crusty" personality matches his very well. She does not suffer excuses and is able to push him when he needs it, but she can also offer support, encouragement, and affirmations of his worth. The two also share lighter moments, and Teft thinks she looks like a little child when she grins.
 
 
 
-https://es.coppermind.net/wiki/Phendorana
+https://coppermind.net/wiki/Phendorana

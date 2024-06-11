@@ -1,89 +1,69 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Wikim Davar**|
 |-|-|
 ||
-|**[[Casa Davar\|Casa Davar]]**|
-|**Padres**|[[Lin Davar\|Lin Davar]], [[Madre de Shallan\|madre]]|
-|**Hermanos**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**[[House Davar\|House Davar]]**|
+|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]]|
+|**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
+|**Born**|c. 1154|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Veden\|Veden]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Tet Wikim Davar** es un [[Ojos claros\|ojos claros]] [[Veden\|Veden]] de [[Roshar\|Roshar]], hijo de la [[Madre de Shallan\|brillante Davar]] y [[Lin Davar\|Lin Davar]].
-Sus hermanos son [[Helaran\|Helaran]], [[Balat\|Balat]], su mellizo [[Jushu\|Jushu]] y [[Shallan\|Shallan]].
+**Tet Wikim Davar** is a [[Lighteyed\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]], son of [[Shallan's mother\|Brightness Davar]] and [[Lin Davar\|Lin Davar]].
+His siblings are [[Helaran\|Helaran]], [[Balat\|Balat]], his younger twin [[Jushu\|Jushu]], and [[Shallan\|Shallan]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Traslado a Urithiru]] 
+3. [[#Move to Urithiru]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Shallan]] 
 4. [[#Lin Davar]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
+Wikim Davar is the older twin and third son of the Davar family. Wikim is slender, pale, spindly, and with sunken eyes. His hair is cut so short he almost looked like an [[Ardent\|ardent]]. He shares some resemblance to his twin [[Jushu\|Jushu]], but they would not be mistaken for one another.
+After his mother's death Wikim probably suffers from depression: he is so thin he looks sickly, he rarely talks or smiles, and he has suicidal thoughts. [[Shallan\|Shallan]] helps him get out of the depression by pushing his interest in math. After this, Wikim starts laughing again and becomes more interested in his studies. He even talks of becoming an ardent. He is not the affectionate type and always complains about hugs. One of his prominent personality traits is that he is thoughtful.
 
-Wikim Davar es el mellizo mayor y tercer hijo de la familia Davar. Wikim es delgado, de tez pálida y ojos hundidos. Tiene el pelo corto, casi como un [[Fervoroso\|fervoroso]]. Se parece razonablemente a su mellizo [[Jushu\|Jushu]], aunque nadie los confundiría con el otro.
-Tras la muerte de su madre, probablemente cayera en depresión: se queda tan delgado que parece que sea por enfermedad, casi nunca habla o sonríe y tiene pensamientos suicidas. [[Shallan\|Shallan]] le intenta ayudar a superarla incentivando su interés por las matemáticas. Como resultado, Wikim empieza a sonreir de nuevo y a interesarse más por sus estudios, tanto que considera convertirse en fervoroso. No es una persona muy cariñosa y siempre se queja de los abrazos. Una de las características de su personalidad es que es considerado.
+## Attributes and Abilities
+Wikim likes math and seems to be proficient at it. He also seems to have biology knowledge, as he knows the effects of [[Blackbane\|blackbane]]. After [[Lin Davar\|his father's]] death, he takes care of distracting creditors and seems to be able to keep them at bay for some time; this means he does have some political abilities.
 
-## Atributos y habilidades
-A Wikim le gustan y se le dan bien las matemáticas. También parece sabes algo de biología, ya que conoce los efectos de la [[Ruinaoscura\|ruinaoscura]]. Tras la muerte de [[Lin Davar\|su padre]], se ocupa de distraer a los acreedores de la deuda familiar, lo que consigue hacer durante cierto tiempo. Esto puede indicar que tenga algunas habilidades políticas.
+## History
+  With his parents and siblings
+When Wikim was younger, his [[Shallan's mother\|mother]] wanted him to be an [[Ardent\|ardent]]. After her death, he fell into depression, being a constant target of his [[Lin Davar\|father's]] anger. He would rarely speak, or even smile, and would stay long times staring at fires or walls. He did resent his father and when the [[Highprince\|highprince]] [[Valam\|Valam]] sent his bastard son, [[Redin\|Redin]] to their house seeking for people who would speak against him, Wikim asked [[Shallan\|Shallan]] to do so.
+At the [[Middlefest Fair\|Middlefest Fair]] he decided to stay in the carriage, where Shallan went to visit him. Wikim saw through her and openly asked about her tricks for making all her brothers feel better. After stating that no woman or sword would do the trick with him, Shallan gave him math problems that she had spent lots of time creating for him. Though he dismissed the effort and her, making Shallan feel miserable, he ended up taking a pencil and trying them with a smile on his face.
+After that day, he slowly came out of his depression. He almost always had math problems with him, at which his father first railed, but the ardents stood up and said this was the Almighty's wish. Wikim started laughing again and even talked of becoming an ardent himself. One day, he thanked Shallan for her help and gave her a pouch with [[Blackbane\|blackbane]]. He explained this plant would paralyze and even stop breathing; he had it because he had been thinking about suicide, but didn't need it anymore. He also explained the plant would become more powerful with time.
+The day [[Balat\|Balat]] was going to run away with [[Eylita\|Eylita]], Wikim was the one to let him know his father had summoned her to their house. Along with [[Jushu\|Jushu]], he stayed at the door of the feast hall while his father and Balat argued. They ran in when his father went to the floor paralyzed, thinking he was dead. Shallan explained she used the pouch he had given her years ago. Wikim was the one who found out he was still alive and stepped back. Shallan had to step in to finish the job.
+After his father's death, and while Shallan tried to steal [[Jasnah Kholin\|Jasnah Kholin's]] [[Soulcaster\|Soulcaster]], Wikim helped Balat with their house affairs. His role was to keep the creditors distracted.
 
-## Historia
-  Con sus padres y hermanos
-Cuando era más pequeño, su [[Madre de Shallan\|madre]] quería que fuera [[Fervoroso\|fervoroso]]. Cuando ella muere, Wikim entra en depresión y se convierte en el blanco de la ira de su [[Lin Davar\|padre]]. Casi nunca hablaba o sonreía, y se quedaba mirando a paredes u hogueras durante mucho tiempo. Sentía rencor hacia su padre y, cuando el [[Alto pr%C3%ADncipe\|alto príncipe]] [[Valam\|Valam]] manda a su hijo bastardo, [[Redin\|Redin]], a la mansión Davar en busca de personas que hablasen en contra de Lin, Wikim le pide a [[Shallan\|Shallan]] que lo haga.
-En la [[Feria de la Fiesta Media\|Feria de la Fiesta Media]] decide quedarse en el carruaje, donde Shallan le visita. Wikim se da cuenta de lo que está haciendo y le pregunta sobre sus trucos para hacer que sus hermanos se sientan mejor. Aunque este dice que ni mujer ni espada le podrían hacer sentir mejor, Shallan le da unos problemas matemáticos que había preparado con esfuerzo para él. Wikim ignora a Shallan inicialmente, lo que le hace que esta se sienta fatal, pero acaba cogiendo el lápiz e intentando resolver los problemas con una sonrisa en la cara.
-Después de ese día, empezó a salir poco a poco de su depresión. Casi siempre llevaba consigo problemas de matemáticas, con lo que su padre no estaba nada contento, pero los fervorosos se pronunciaron en defensa de Wikim diciendo que es la voluntad del Todopoderoso. Empezó a sonreir de nuevo, e incluso a hablar de hacerse fervoroso. Un día habla con Shallan para agradecerle su ayuda y le da una bolsa que contiene [[Ruinaoscura\|ruinaoscura]]. Le explica que es una planta paralizante, capaz de ser letal parando la respiración; y que la tenía porque había estado pensando en suicidarse, pero ya no la necesitaba. También le dice que los efectos de la planta se vuelven más fuertes con el tiempo.
-El día que [[Balat\|Balat]] se iba a escapar con [[Eylita\|Eylita]], Wikim es el que le dice que su padre ha convocado a su casa a la ojos claros. Él y [[Jushu\|Jushu]] se quedan a las puertas del salón de festejos mientras que su padre y Balat discuten, y entran corriendo cuando Lin cae al suelo paralizado y piensan que está muerto. Shallan les explica que había usado la planta que Wikim le había dado años antes. Éste comprueba que su padre está vivo y retrocede, por lo que Shallan se acerca y remata al brillante señor.
-Tras la muerte de su padre y mientras Shallan intenta robar el [[Moldeador de almas\|moldeador de almas]] de [[Jasnah Kholin\|Jasnah Kholin]], Wikim ayuda a Balat con los asuntos de la casa, siendo su papel distraer a los acreedores.
+### Move to Urithiru
+As historic events began occurring across [[Roshar\|Roshar]], Shallan felt guilty about abandoning her brothers. She lost contact with them after losing her [[Spanreed\|spanreed]] on the *[[Wind's Pleasure\|Wind's Pleasure]]* and became increasingly worried after learning of the [[Veden civil war\|Veden civil war]]. After [[Urithiru\|Urithiru]] was discovered, she wrote them a number of letters telling them to come live with her there, but she did not receive any response. Shallan eventually learned from [[Mraize\|Mraize]] that the Davar lands had fallen and that he was bringing her family to Urithiru; her service to the [[Ghostbloods\|Ghostbloods]] as Veil would fulfill the debt of the broken Soulcaster.
+Mraize fulfilled his promise and Wikim, [[Jushu\|Jushu]], Balat, and Eylita arrived in Urithiru after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Jushu's clothes were worn and he had lost some weight. The family reunited with Shallan and attended her wedding to [[Adolin Kholin\|Adolin Kholin]].
+Wikim and his brothers were given quarters near Shallan's in Urithiru. Shallan visited often, but she felt some regret about the way that she perceived Wikim and the rest of her family after having changed so much since leaving her childhood home.
 
-### Traslado a Urithiru
-A medida que eventos históricos empezaban a ocurrir en [[Roshar\|Roshar]], Shallan se sintió culpable por abandonar a sus hermanos. Perdió el contacto con ellos tras perder su [[Vinculaca%C3%B1as\|vinculacañas]] en el *[[Placer del Viento\|Placer del Viento]]* y se fue preocupando cada vez más al enterarse de la [[Guerra civil veden\|guerra civil veden]]. Tras el descubrimiento de [[Urithiru\|Urithiru]], les escribió numerosas cartas pidiéndoles que fueran a vivir allí con ella, pero no obtuvo respuesta. Shallan acabó enterándose mediante [[Mraize\|Mraize]] que el territorio Davar había caído y que él se estaba encargando de llevar a su familia a Urithiru; su servicio como Velo a los [[Sangre Espectral\|Sangre Espectral]] resarciría la deuda del moldeador de almas roto.
-Mraize cumplió su promesa y Wikim, [[Jushu\|Jushu]], Balat y Eylita llegaron a Urithiru tras la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]]. La ropa de Jushu estaba desgastada y él había perdido peso. La familia se reunió con Shallan y acudieron a su boda con [[Adolin Kholin\|Adolin Kholin]].
-Wikim y sus hermanos recibieron habitaciones cerca de las de Shallan en Urithiru. Shallan les visitaba a menudo, aunque sentía remordimientos por cómo había cambiado su percepción de Wikim y el resto de la familia desde que dejó su hogar de la infancia.
-
-## Relaciones
+## Relationships
 ### Shallan
 >“*I was wrong. About what you're doing. I see through it. And... and still it’s working. Damnation, but it’s working. Thank you.*”
-\-Wikim a Shallan[5]
+\-Wikim to Shallan[5]
 
 
-[[Shallan\|Shallan]] pasa la mayoría de su tiempo intentando animar a sus hermanos. En el caso de Wikim, le prepara problemas de matemáticas. Esto le ayuda a salir de su depresión, y se lo agradece dándole su bolsa de [[Ruinaoscura\|ruinaoscura]] porque cree que ya no la necesita. Shallan le quiere mucho, y verlo sonreír le hace sentirse muy bien. Él también la quiere, pero se queja cuando ésta le muestra afecto.
+[[Shallan\|Shallan]] spends much of her time trying to make her brothers feel better. In the case of Wikim, she spends time preparing math problems for him. This helps him get out of his depression, and he expresses his gratefulness by giving her the pouch of [[Blackbane\|blackbane]] he doesn't think he needs anymore. Shallan loves him very much, and seeing him smile makes her feel warm inside. He does love her back, but complains when she shows him affection.
 
 ### Lin Davar
-Su [[Lin Davar\|padre]] le grita y le trata mal, igual que al resto de sus hermanos. Aunque Wikim esperaba poder hacerse fervoroso, es probable que Lin nunca le hubiese dejado, ya que cree que es el mejor candidato a llevar la [[Casa Davar\|casa]] a falta de [[Helaran\|Helaran]] y [[Balat\|Balat]]. Lin no apoya su interés en las matemáticas hasta que sus [[Fervoroso\|fervorosos]] le convencen de que el Todopoderoso lo aprueba.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Wikim's [[Lin Davar\|father]], just as he does to his other sons, screams at and mistreats him. Although Wikim hopes to become an ardent, Lin likely would never allow him to, as he feels that in the absence of [[Helaran\|Helaran]] and [[Balat\|Balat]], Wikim is the best one to lead the [[House Davar\|house]]. His father opposes his interest in math until he is convinced by his [[Ardent\|ardents]] that the Almighty approves of his interest.
 
 
 
-https://es.coppermind.net/wiki/Wikim
+https://coppermind.net/wiki/Wikim

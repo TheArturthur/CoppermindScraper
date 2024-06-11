@@ -18,4 +18,4 @@ Promoted as "fifteen minutes long, because you're in a hurry, and we're not that
 
 
 
-https://es.coppermind.net/wiki/Writing_Excuses
+https://coppermind.net/wiki/Writing_Excuses

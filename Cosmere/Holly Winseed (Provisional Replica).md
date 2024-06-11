@@ -1,7 +1,7 @@
 |**Holly Winseed (Provisional Replica)**|
 |-|-|
-|**Mundo natal**||
-|**Presentado en**|*[[The Original\|The Original]]*|
+|**Homeworld**||
+|**Introduced In**|*[[The Original\|The Original]]*|
 
 
 **Holly Winseed** is a [[Provisional Replica\|Provisional Replica]], created by the government after [[Holly Winseed (Original)\|her original]] murdered her husband, [[Jonathan Gentry\|Jonathan]]. She is tasked with finding and killing her original, and is given four days to do it.
@@ -19,14 +19,6 @@ Holly went to the checkout slums, posing as a new checkout. She was being proces
 On her last day of life, Holly used herself as bait in the art gallery where the party had taken place the night of Jonathan’s death. Her original arrived, and Holly and her original aimed guns at each other in a stalemate. Her original told Holly that Jonathan had checked out on his busniess trip, and the government had illegally made a PR to kill and replace him because of the valuable secrets he knew. Holly’s original revealed that she discovered that their Jonathan was a PR, and she killed him. Holly and her original eyed each other, still pointing their guns at each other.
 One of the two fired, killing the other, but it is unknown who killed who. Whoever survived said in a recording that she had just wanted to live, and that she would see where she’d go from there.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[The Original\|The Original]]**|
-|-|-|
-|**Characters**|Holly Winseed ([[Holly Winseed (Original)\|Original]] · )|
-|**Other**|[[Provisional Replica\|Provisional Replica]] · [[ICON\|ICON]]|
 
 
-
-https://es.coppermind.net/wiki/Holly_Winseed_(Provisional_Replica)
+https://coppermind.net/wiki/Holly_Winseed_(Provisional_Replica)

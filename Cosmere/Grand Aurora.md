@@ -1,8 +1,8 @@
 |**Grand Aurora**|
 |-|-|
-|**Relacionado con**|[[Lancing\|Lancing]]|
-|**Mundo de origen**|[[Alornia\|Alornia]]🐱︎|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
+|**Related to**|[[Lancing\|Lancing]]|
+|**World of Origin**|[[Alornia\|Alornia]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
 
 >“* The Grand Aurora encircled the entire world, and even the mightiest storms did little more than churn its mother-of-pearl shimmering. The Aurora defeated storms; that was how I knew I’d someday be able to do it too.*”
 \- Kai about the Grand Aurora[1]
@@ -15,16 +15,6 @@ As the Grand Aurora is programming specific to Alornia, it only manifests in Alo
 ## See Also
 [[Lancing\|Lancing]]
 [[Aurorastone\|Aurorastone]]
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 09:18, 16 June 2018 (MST)
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] ·  · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Grand_Aurora
+https://coppermind.net/wiki/Grand_Aurora

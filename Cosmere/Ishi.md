@@ -1,8 +1,8 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-**Ishi** puede hacer referencia a varias cosas:
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+**Ishi** can refer to multiple things:
 
-Uno de los nombres utilizados por el [[Heraldo\|Heraldo]] [[Ishar\|Ishar]].
-Un gigante gaseoso en el [[Sistema roshariano\|sistema roshariano]]
+One of the names used for the [[Herald\|Herald]] [[Ishar\|Ishar]].
+A gas giant in the [[Rosharan System\|Rosharan System]]
 
 
-https://es.coppermind.net/wiki/Ishi
+https://coppermind.net/wiki/Ishi

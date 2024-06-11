@@ -1,80 +1,67 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Masaka**|
 |-|-|
 ||
-|**Capacidades**|[[Saltamundos\|Saltamundos]]|
-|**Apodos**|Chinikdakordich|
-|**Oficio**|Pintor|
-|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎, [[Cepa Natricatich\|Cepa Natricatich]]|
-|**Especie**|[[Insomne\|Insomne]]|
-|**Residencia**|[[Kilahito\|Kilahito]]|
-|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
-|**Mundo natal**|Desconocido|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Aliases**|Chinikdakordich|
+|**Profession**|Painter|
+|**Groups**|[[Nightmare Division\|Nightmare Division]], [[Natricatich strain\|Natricatich strain]]|
+|**Species**|[[Sleepless\|Sleepless]]|
+|**Residence**|[[Kilahito\|Kilahito]]|
+|**Nationality**|[[Nagadan\|Nagadan]]|
+|**Homeworld**|Unknown|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-**Masaka**, también conocida como **Chinikdakordich**, es una joven [[Insomne\|Insomne]] que asume el rol de una [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] en [[Komashi\|Komashi]].
+**Masaka**, also known as **Chinikdakordich**, is a young [[Sleepless\|Sleepless]] who assumes the role of a female [[Nightmare\|nightmare]] [[Painter\|painter]] on [[Komashi\|Komashi]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
-4. [[#Nikaro .28Pintor.29]] 
+4. [[#Nikaro .28Painter.29]] 
 4. [[#Akane]] 
-4. [[#Dise.C3.B1o]] 
+4. [[#Design]] 
 4. [[#Hoid]] 
 4. [[#Yumi]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Masaka adquiere la apariencia de una mujer bajita que lleva el pelo con flequillo y tiende a maquillarse la cara con tonos oscuros, sobre todo alrededor de los ojos. Viste exclusivamente ropa negra y prefiere un jersey negro. No le gusta mostrar su piel, para evitar revelar su naturaleza de Insomne a los demás; lleva bufandas o tops con cuello alto para ocultar su cuello y a veces lleva mangas lo suficientemente largas como para meter las manos en ellas.
-Masaka suele ser muy tímida y callada, incluso con sus amigos. Le disgusta que la gente la mire y muestra otros signos de comportamiento antisocial. A pesar de su extraña personalidad, Masaka se esfuerza por ser amable con la gente que le cae bien. Su extraño comportamiento es probablemente consecuencia de su limitada experiencia como humana. Masaka está firmemente cansada de la guerra, e intenta influir en sus amigos para que acepten a los alienígenas, probablemente como medida para evitar la intolerancia. También cree que las [[Pesadilla\|pesadillas]] a veces pueden ser bonitas, aunque insiste en que no le gustan las criaturas horribles. Masaka suele dibujar en su bloc de dibujo mientras sale con sus amigos. Como puede deducirse de la profesión que ha elegido, le gusta pintar y el arte en general.
-Adopta la forma de una mujer humana no solo por conveniencia, sino porque realmente encuentra la felicidad en esa forma y siendo percibida como tal. Prefiere expresamente el nombre de Masaka a su nombre de Insomne, Chinikdakordich, y corrige a quienes se refieren a ella de otro modo.
-Es una agonista que muestra una importante falta de confianza en sí misma sobre su capacidad para pasar desapercibida como humana, dudando de que realmente pase por tal. Pero, al mismo tiempo, se enorgullece de lo lejos que ha llegado y de lo bien que lo está haciendo.
+## Appearance and Personality
+Masaka takes the appearance of a short woman who wears her hair with bangs and tends to wear dark makeup on her face, especially around the eyes. She exclusively wears black clothing, and favors a black sweater. She dislikes showing her skin, to avoid revealing her nature as a [[Sleepless\|Sleepless]] to others--she wears scarves or tops with a high collar in order to hide her neck, and sometimes wear sleeves long enough to pull her hands into them.
+Masaka is usually very shy and quiet, even with her friends. She dislikes when people stare at her, and shows other signs of antisocial behavior. Despite her strange personality, Masaka makes an effort to be friendly to people she likes. Her odd behavior is likely a consequence of her limited experience being a human. Masaka is very adamantly tired of war, and tries to influence her friends toward being accepting of aliens, likely as a measure to prevent bigotry. She also thinks [[Nightmare\|nightmares]] can sometimes be cute, though she insists she dislikes horrific creatures. Masaka often draws on her sketchpad while hanging out with friends. As one can assume from the career she choose, she enjoys painting, and art in general.
+She takes on the form of a human woman not just out of convenience, but due to actually finding happiness in that form and being perceived as such. She actively prefers the name Masaka to her Sleepless name, Chinikdakordich, and corrects those that refer to her otherwise.
+She is an agonistes that shows a substantial lack of self-confidence about her ability to blend in as a human, doubting that she actually passes as such. But at the same time, she takes pride in how far she has come and how well she is doing.
 
-## Atributos y habilidades
-Como [[Insomne\|Insomne]], Masaka puede enviar hordinos lejos de ella para buscar y espiar, aunque no lo hace con regularidad. Masaka también es una pintora competente, ya que cursó dos años de estudios superiores sobre la materia antes de ser contratada.
+## Attributes and Abilities
+As a [[Sleepless\|Sleepless]], Masaka is able to send out hordelings away from herself to search and spy, though she does not do this regularly. Masaka is also a competent painter, having completed two years of upper school on the subject before being hired.
 
-## Historia
-Masaka utilizó anteriormente el nombre Chinikdakordich y es la sexagésima horda de la [[Cepa Natricatich\|cepa Natricatich]] de Insomnes. No habla mucho de su pasado, pero sufrió muchos prejuicios por ser una Insomne. En algún momento se cansó de las guerras que se libraban en otros lugares del [[Cosmere\|Cosmere]] y decidió disfrazarse y llevar una vida humana normal. Tras años de cría, logró producir un rostro convincente y fijó su residencia en [[Kilahito\|Kilahito]]. Cuando llegó a allí, envió hordinos a investigar su entorno. Encontró regiones circulares en las que no podía entrar, y evitó seguir explorándolas.
-En la escuela superior de Komashi, se rumoreaba que Masaka había apuñalado a alguien años antes y que un tribunal la había enviado a convertirse en pintora como parte de su acuerdo con la fiscalía. Durante sus estudios se hizo amiga de [[Nikaro\|Nikaro]], [[Akane\|Akane]], [[Tojin\|Tojin]] e [[Izzy\|Izzy]]. Una vez le hizo un sombrero a Nikaro por su cumpleaños. Tras graduarse, se hizo pintora y suele trabajar junto a Izzy.
-Cuando [[Yumi\|Yumi]] llegó por primera vez a [[Kilahito\|Kilahito]], Masaka le dibujó un extraño conejito como regalo. Más tarde, [[Dise%C3%B1o\|Diseño]] reclutó a Masaka para ayudar a Yumi a cartografiar el planeta más allá de la [[Mortaja\|mortaja]]. Masaka se mostró dispuesta a ayudar en cuanto comprendió que el asunto era importante, aunque rogó a Yumi que no contase a nadie su naturaleza y le ofreció un cuchillo como regalo cuando esta prometió no contarlo. Masaka pudo trazar un mapa de las zonas circulares de la mortaja en las que no podían entrar.
-Cuando Nikaro rogó a sus amigos que se unieran a él en la defensa de Kilahito, Masaka fue la segunda de sus amigos (tras Tojin) en aceptar que debían ayudar. En la [[Batalla de Kilahito\|batalla de Kilahito]], Masaka fue la primera en darse cuenta de la llegada de las pesadillas estables. Después de que [[Hoid\|Hoid]] y Diseño abandonasen Komashi, Masaka escribió periódicamente cartas al [[Cr%C3%ADptico\|Críptico]] con actualizaciones. Gracias a esta información, Hoid pudo conocer mejor el destino de Komashi tras la destrucción de la [[M%C3%A1quina padre\|máquina padre]]. Con la división de pesadilla disuelta, Masaka consiguió un trabajo como camarera en el [[Princesa del Fideo\|Princesa del Fideo]], trabajando para Pintor y Yumi. Según Hoid, cada vez se sentía más cómoda cuando más gente conocía su naturaleza.
+## History
+Masaka previously used the name Chinikdakordich, and is the sixtieth horde of the [[Natricatich strain\|Natricatich strain]] of Sleepless. She doesn't talk much about their past, but experienced a great deal of prejudice due to being a Sleepless. At some point she grew tired of wars being fought elsewhere in the [[Cosmere\|cosmere]] and so decided to disguise herself and live a normal human life. After years of breeding she was able to produce a convincing face, and took up residence on [[Kilahito\|Kilahito]]. When she arrived on Kilahito, she sent out hordelings to investigate her surroundings. She found circular regions which she could not enter, and avoided searching them further.
+In upper school on Komashi, Masaka was rumored to have stabbed someone years prior, and been sent to become a painter by a court as part of her plea deal. During their schooling she became friends with [[Nikaro\|Nikaro]], [[Akane\|Akane]], [[Tojin\|Tojin]], and [[Izzy\|Izzy]]. She once made a hat for Nikaro for his birthday. She became a painter after graduating and typically works alongside Izzy.
+When [[Yumi\|Yumi]] first arrived in [[Kilahito\|Kilahito]], Masaka drew a strange bunny for her as a gift. Later, [[Design\|Design]] recruited Masaka to help Yumi map out the planet beyond the [[Shroud\|shroud]]. Masaka was readily willing to help once she understood the issue was important, though she begged Yumi not to tell anyone about her nature and offered a knife as a gift when Yumi promised not to tell. Masaka was able to map out the locations of the circular areas in the shroud where they were unable to enter.
+When Nikaro begged his friends to join him in defense of Kilahito, Masaka was the second of his friends (following Tojin) to agree that they should help. At the [[Battle of Kilahito\|battle of Kilahito]], Masaka was the first to notice the arrival of the stable nightmares. After [[Hoid\|Hoid]] and Design left Komashi, Masaka wrote letters to the [[Cryptic\|Cryptic]] periodically with updates. Hoid was able to learn more about Komashi's fate, following the destruction of the [[Father machine\|father machine]], through this information. With the Nightmare Division disbanded, Masaka got a job as a server at the [[Noodle Princess\|Noodle Princess]], working for Painter and Yumi. According to Hoid, she became increasingly comfortable with more people knowing about her nature.
 
-## Relaciones
-### Nikaro (Pintor)
-Solía ser amiga de [[Nikaro\|Nikaro]], a quien regaló un casco negro con pinchos en su cumpleaños diciendo que era un «sombrero de cumpleaños». No obstante, su amistad se rompió cuando Nikaro les mintió a ella y al resto del grupo diciendo que iba a unirse a la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]]. Incluso a pesar de la ruptura, fue la segunda [[Pintor\|pintora]] en acceder a ayudar en la [[Batalla de Kilahito\|batalla de Kilahito]] aun a riesgo de que Nikaro estuviera mintiendo de nuevo. Es probable que volvieran a retomar la amistad tras la batalla, ya que ella trabaja como camarera en el [[Princesa del Fideo\|Princesa del Fideo]], el restaurante de Nikaro y [[Yumi\|Yumi]].
+## Relationships
+### Nikaro (Painter)
+She used to be friends with [[Nikaro\|Nikaro]], giving him a spiked black helmet at his birthday and saying it was a 'birthday hat.' But they fell out when Nikaro lied to her and their common friends by saying that he's joining the [[Dreamwatch\|Dreamwatch]]. But even after the fallout, she was the second [[Painter\|painter]] to agree that they should help in the [[Battle of Kilahito\|battle of Kilahito]], even if Nikaro is lying again. It's likely they went back to being friends again after the battle, as she works as a server at the [[Noodle Princess\|Noodle Princess]], Nikaro and [[Yumi\|Yumi's]] restaurant.
 
 ### Akane
-Es íntima amiga de [[Akane\|Akane]] y suele comer con ella y el resto de sus amigos en [[El Pupila del Fideo\|el Pupila del Fideo]] y otros restaurantes. No quiere que se entere de que es una [[Insomne\|Insomne]], rogándole a Yumi que lo mantenga en secreto después de enterarse.
+She is close friends with [[Akane\|Akane]], often eating with her and the rest of her friends at the [[Noodle Pupil\|Noodle Pupil]] and other restaurants. She doesn't want her to learn that she is a [[Sleepless\|Sleepless]], and begs Yumi to keep it a secret after she found out.
 
-### Diseño
-[[Dise%C3%B1o\|Diseño]] es una de las únicas personas que está al tanto de su identidad secreta. Su opinión exacta sobre Diseño no está clara, pero esta muestra un afecto casi maternal por ella.
+### Design
+[[Design\|Design]] is one of the only people that are aware of her secret identity. Her exact thoughts on Design are unclear, but Design shows an almost maternal fondness for her.
 
 ### Hoid
-Aunque se desconoce lo que piensa de [[Hoid\|Hoid]], él mismo muestra respeto y afecto por ella. También respeta su deseo de ser tratada como una mujer humana y anima a la gente a darle su aprobación. Él y Diseño mantuvieron el contacto con ella incluso después de dejar atrás [[Komashi\|Komashi]].
+While her thoughts on [[Hoid\|Hoid]] are unknown, Hoid himself shows respect and affection for her. He also respects her desire to be treated as a human woman, and encourages people to give her affirmation. He and Design kept in contact with her even after leaving [[Komashi\|Komashi]] behind.
 
 ### Yumi
-Es íntima amiga de Yumi y trabaja para ella en el Princesa del Fideo. En su primer encuentro, se encariñó rápidamente con ella y le hizo un dibujo de un conejo. Agradeció profundamente que Yumi siguiese tratándola como a una mujer normal incluso después de descubrir que era una Insomne y por prometerle que no revelaría su secreto. Yumi la encuentra bastante rara, sobre todo después de descubrir su especie, pero no dejó que eso cambiase su forma de tratarla.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] ·  · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+She is close friends with Yumi, and works for her at the Noodle Princess. She quickly took a liking to her in their first meeting, drawing her a picture of a rabbit. She deeply appreciated Yumi still treating her as a normal woman even after finding out she was a Sleepless, and for promising not to disclose her secret. Yumi finds her rather odd, especially so after discovering her species, but she didn't let it change how she treated her.
 
 
 
-https://es.coppermind.net/wiki/Masaka
+https://coppermind.net/wiki/Masaka

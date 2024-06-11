@@ -1,18 +1,18 @@
 |**Malmahan**|
 |-|-|
-|**Capacidades**||
-|**Mundo natal**|[[Mirandus\|Mirandus]]|
-|**Presentado en**|**|
+|**Abilities**|[[Dark One (title)\|Dark One]]|
+|**Homeworld**|[[Mirandus\|Mirandus]]|
+|**Introduced In**|*[[Dark One Book 1\|Dark One Book 1]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Dark One Libro 1\|Dark One Libro 1]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Dark One Book 1\|Dark One Book 1]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am the **evil itself**.*”
 \-Malmahan to Lin[1]
 
 
-**Malmahan the Uncalled** is a  on [[Mirandus\|Mirandus]].
+**Malmahan the Uncalled** is a [[Dark One (title)\|Dark One]] on [[Mirandus\|Mirandus]].
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 
@@ -35,7 +35,7 @@ Malmahan has short brown hair generally parted to the side, with a very pronounc
 
 ## History
 ### On Mirandus
-Malmahan rose as Dark One in Mirandus. No [[Destined One\|Destined One]] appeared to challenge his power and he nearly destroyed the [[Kingdoms of Light\|Kingdoms of Light]] and Mirandus. Illarion, the Destined One from the previous cycle, went to fight Malmahan because Illarion refused to wait for a Destined One to match Malmahan. Illarion ended up victorious, but in reality, Illarion somehow sent Malmahan to .
+Malmahan rose as Dark One in Mirandus. No [[Destined One\|Destined One]] appeared to challenge his power and he nearly destroyed the [[Kingdoms of Light\|Kingdoms of Light]] and Mirandus. Illarion, the Destined One from the previous cycle, went to fight Malmahan because Illarion refused to wait for a Destined One to match Malmahan. Illarion ended up victorious, but in reality, Illarion somehow sent Malmahan to [[Earth (Dark One)\|Earth]].
 
 ### On Earth
 Malmahan assumed the name of Mr. Caligo in his time on Earth. He killed at least one individual each year for the [[Peragator\|Peragator]], a device which would allow him to return to Mirandus. He killed twenty-eight individuals in total, of which the police knew of fifteen. He was eventually arrested after the work of a detective and a true crime podcast. He hired the law firm of [[Mitchell and Young\|Mitchell and Young]] for his criminal defense. One lawyer at the firm, [[Lin Yang-Tanasin\|Lin Yang-Tanasin]], visited Malmahan in jail, who was kept in solitary confinement. The guards warned Lin that Malmahan was a dangerous criminal and that she could only communicate with him nonverbally, which she rejected. She was still refused sharp objects and instructed her to sit throughout the visit. The guards brought Malmahan out, wearing a muzzle. Malmahan explained to Lin that a man said something extremely racist, so Malmahan bit his tongue out. Malmahan wished to plead guilty for his murders, and wanted to help the police find his other victims which they had never found. Malmahan wanted the state to execute him as quickly as possible.
@@ -43,16 +43,6 @@ At his trial, the court denied his request for the death penalty. Malmahan then 
 
 ## Trivia
 During the epilogue, Malmahan's speech bubbles switch from the standard black text on white background, to white text on black background.
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Dark One (franquicia)\|Dark One]] ([[Tierra (Dark One)\|Tierra]]/[[Mirandus\|Mirandus]])**|
-|-|-|
-|**Personajes**|[[Paul Tanasin\|Paul Tanasin]] · [[Nikka\|Nikka]] · [[Lin Yang-Tanasin\|Lin Yang-Tanasin]] · [[Gosovic\|Gosovic]] · [[Feotora\|Feotora]] · [[Illarion\|Illarion]] · [[Kraisis\|Kraisis]] ·  · [[Rastik\|Rastik]]|
-|**Lugares**|[[Mirandus\|Mirandus]] · [[Kingdoms of Light\|Kingdoms of Light]] · [[Blackened Lands\|Blackened Lands]] · [[Pitch\|Pitch]]|
-|**Magia y lore**|[[Narrative\|Narrative]] · [[Destined One\|Destined One]] · [[Dark One (t%C3%ADtulo)\|Dark One]] · [[Well of Sorrows\|Well of Sorrows]] · [[Peragator\|Peragator]]|
-|**Otros**|[[Drull\|Drull]] · [[Evermouth\|Evermouth]] · [[Ironkeeper\|Ironkeeper]]|
 
 
-
-https://es.coppermind.net/wiki/Malmahan
+https://coppermind.net/wiki/Malmahan

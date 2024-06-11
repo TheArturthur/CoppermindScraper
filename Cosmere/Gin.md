@@ -1,52 +1,27 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Tía Gin**|
+|**Aunt Gin**|
 |-|-|
-|**Oficio**|Dueña de un hotel|
-|**Residencia**|[[Nueva Seran\|Nueva Seran]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
+|**Profession**|Hotel owner|
+|**Residence**|[[New Seran\|New Seran]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
->“*Jovencita, necesita alejarse de estas personas.*”
-\-Gin a Marasi[1]
+>“*Young lady, you need to get away from these people.*”
+\-Gin to Marasi[1]
 
 
-Tía **Gin** es dueña del [[/wiki/Nueva Seran#Puerta de Cobre]], un hotel en [[Nueva Seran\|Nueva Seran]] en [[Scadrial\|Scadrial]]. [[Waxillium Ladrian\|Waxillium Ladrian]] y su grupo se alojan allí en 342 [[Catacendro\|PC]]. 
+Aunt **Gin** owns the [[/wiki/New Seran#Copper Gate]], a hotel in [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]]. [[Waxillium Ladrian\|Waxillium Ladrian]] and his group stay there in 342 [[Catacendre\|PC]].
 
-## Apariencia y personalidad
-Tía Gin es una mujer mayor con un rostro bastante masculino. Lleva un sombrero de gran tamaño engalanado con flores, y se pone nerviosa con las travesuras del grupo de Wax.
+## Appearance and Personality
+Aunt Gin is an elderly woman with a rather masculine face. She wears an oversized hat festooned with flowers, and she gets flustered by Wax's group's antics.
 
-## Historia
->“*¿Incendios? Tiroteos. Atracos. Rehenes... **¿¡Explosiones!?***”
-\-Tía Gin leyendo la lista de Steris[1]
+## History
+>“*Fire? Shoot-outs. Robbery. Hostage situations. **Explosions**?*”
+\-Aunt Gin reading from Steris' list[1]
 
-Tía Gin acompañó a Wax y a su grupo hasta su suite en el último piso del hotel, donde dijo que tendrían toda la planta para ellos. Mientras ella se deshacía del primer intento de [[Wayne\|Wayne]] de hacerse con su sombrero, Wax pasó con su [[Abrigo de brumas\|abrigo de brumas]] y le preguntó si las ventanas se abrían. Pálida por el comentario despreocupado de Wayne sobre la próxima vez que podría ser una dama, le dijo a Wax que las ventanas habían sido selladas con pintura para evitar que traquetearan con el viento. Se cortó con un grito ahogado cuando Wax empezó a arrancar todas las ventanas. Wayne intentó cambiar uno de sus zapatos y algunos cacahuetes del hotel por el sombrero de Gin, pero fue interrumpido por [[Steris\|Steris]], que le ofreció una lista de diecisiete posibles desastres que podrían ocurrirles mientras estuvieran alojados en el hotel. Gin la aceptó con cierta sorpresa e incredulidad. [[MeLaan\|MeLaan]] entró en la habitación y, para malestar de todos los humanos presentes, empezó a discutir sobre qué tamaño de pechos debía llevar a la [[Fiesta de Kelesina Shores\|fiesta]] de esa noche. Después de que llegaran las maletas de MeLaan con sus huesos, [[Marasi\|Marasi]] la acompañó fuera de la habitación. Tía Gin trató de convencer a Marasi, que parecía ser la única otra persona cuerda en la habitación, de que dejara a esos locos antes de que se hiciera daño. Marasi dejó de lado sus preocupaciones y, tras pedirle a Gin que le hiciera una lista con los nombres de las personas que trabajan en todos los cementerios locales, la empujó con firmeza hacia la puerta.
-Cuando el grupo huía de Nueva Seran después de los sucesos ocurridos tanto en la fiesta como en el [[Cementerio del distrito de Nueva Seran\|cementerio del distrito de Nueva Seran]], le dieron a Gin una gran cantidad de dinero en efectivo antes de salir del hotel. Mientras se alejaban en su carruaje, oyeron campanas en la distancia, y Gin le preguntó a Wax si ese era el sonido de los alguaciles que se acercaban. Wax confirmó que así era, y mientras se alejaban, Steris le gritó a Gin que "acusados injustamente por asesinato" estaba en la página diecisiete de su lista.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Truthwatch3r (talk) 21:31, 29 August 2022 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+Aunt Gin escorted Wax and his group up to their suite on the top floor of the hotel, where she said they would have the entire floor to themselves. While she was brushing off [[Wayne\|Wayne's]] first attempt at acquiring her hat, Wax stomped by in his [[Mistcoat\|mistcoat]] and asked her if the windows of their suite opened. Turning pale from Wayne's offhand comment about the next time he might be a lady, she told Wax that the windows had been painted shut to keep them from rattling in the wind. She cut herself off with a gasp as Wax started tearing all of the windows open. Wayne tried trading one of his shoes and some of the hotel's peanuts for Gin's hat, but he was interrupted by [[Steris\|Steris]], who proffered a list of seventeen possible disasters that might befall them while they were staying in the hotel. Gin accepted it with some shock and disbelief. [[MeLaan\|MeLaan]] entered the room and, to the unease of all humans present, started discussing what size breasts she should wear to the [[Kelesina Shores's party\|party]] that night. After MeLaan's bags arrived with her bones, [[Marasi\|Marasi]] escorted her out of the room. Aunt Gin tried convincing Marasi, who seemed to be the only other sane person in the room, to leave these crazy people before she got hurt. Marasi brushed aside her concerns and, after asking Gin to put together a list of names of people who work at all of the local graveyards for her, pushed her firmly out the door.
+When the group was fleeing New Seran after the events at both the party and the [[Seran New District Cemetery\|Seran New District Cemetery]], they gave Gin a large amount of cash before leaving the hotel. As they were pulling away in their carriage, they heard bells in the distance, and Gin asked Wax if that was the sound of the constables coming. Wax confirmed that it was, and as they rolled away, Steris yelled back at Gin that "framed for murder" was on page seventeen of her list.
 
 
 
-https://es.coppermind.net/wiki/Gin
+https://coppermind.net/wiki/Gin

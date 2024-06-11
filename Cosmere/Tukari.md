@@ -1,12 +1,12 @@
 |**Tukar**|
 |-|-|
 ||
-|**Etnia**|Tukari|
-|**Gobernado por**|[[Tezim\|Tezim]]|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Tukari|
+|**Ruled by**|[[Tezim\|Tezim]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The judgment of the final storm has come to destroy all men, and only his path will lead to deliverance.*”
 \-Tezim, god-priest of Tukar[1]
@@ -15,7 +15,7 @@
 **Tukar** is a kingdom on [[Roshar\|Roshar]]. It is bordered by [[Emul\|Emul]] to the north and [[Marat\|Marat]] to the west. The people of Tukar are called the Tukari.
 Tukar is ruled by god-priest Tezim, who is actually the [[Herald\|Herald]] [[Ishar\|Ishar]] in disguise.
 
-## Sumario
+## Contents
 
 1 Etymology. [[#Etymology]] 
 2 Geography. [[#Geography]] 
@@ -72,7 +72,7 @@ Around 1167, Ishar rose to power as the God-Priest of Tukar. As the leader, he b
 
 ### The True Desolation
   Map of the war in Emul
-When the True Desolation began, [[Dalinar Kholin\|Dalinar Kholin]] sent messages to both Emul and Tukar, hoping that at least one of them would join his alliance. Tukar outright refused, with the god-priest demanding that, as an "aspect of the ", he should be the one in charge of [[Urithiru\|Urithiru]] and the [[Knights Radiant\|Knights Radiant]], they quickly refused to submit to his demands.
+When the True Desolation began, [[Dalinar Kholin\|Dalinar Kholin]] sent messages to both Emul and Tukar, hoping that at least one of them would join his alliance. Tukar outright refused, with the god-priest demanding that, as an "aspect of the [[Almighty\|Almighty]]", he should be the one in charge of [[Urithiru\|Urithiru]] and the [[Knights Radiant\|Knights Radiant]], they quickly refused to submit to his demands.
 During the Desolation, [[Voidspren\|voidspren]] began appearing in [[Shadesmar\|Shadesmar]] in the region equivalent to Tukar. Nonetheless, by the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the country is still considered to be neutral in the conflict.
 
 #### The Emuli Offensive
@@ -88,10 +88,10 @@ The Tukari are renowned across Roshar for their mercenaries, their perfumes and 
 
 ### Government and Religion
 Tukar is a theocracy, with their current spiritual and political leader, Tezim, being alternately titled the god-priest, god-king, and priest-king. The Tukari people also live in clans.
-Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the , much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]], making those titles somewhat justified. Though the average Tukari likely don't know his true identity, there are numerous rumors swirling about him outside of the country.
+Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the [[Almighty\|Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]], making those titles somewhat justified. Though the average Tukari likely don't know his true identity, there are numerous rumors swirling about him outside of the country.
 
 ### Military
-The Tukari are highly militaristic. Tukar itself has numerous , which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.
+The Tukari are highly militaristic. Tukar itself has numerous [[Soulcaster\|Soulcasters]], which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.
 The Tukari Soldiers in Tezim’s army don’t wear proper uniforms, they are seen wearing hogshide battle leathers with hardened cuirasses painted a dark blue. Most of them are armed with spears, though some of them have steel swords.
 The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon perpendicularities and hop in and out of Shadesmar.
 
@@ -101,7 +101,7 @@ The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon per
 
 
 Technically, Tukar appears to be part of the greater [[Azir\|Azish Empire]], and the [[Prime Aqasix\|Prime Aqasix]] seems to have the capacity to summon the god-priest to [[Azimir\|Azimir]] whenever they wish. However, for generations now Tukar has been at war with [[Emul\|Emul]], another Azish member state, putting the Prime's ability to control it in question. The conflict is centered around the city of [[Sesemalex Dar\|Sesemalex Dar]], considered holy by both the Emuli and the Tukari. While the Emuli consider it their ancestral homeland, the Tukari motivations for the conflict are unknown. In the East, there is some confusion over whether the conflict is purely religious or economical, as Sesemalex Dar is an excellent port.
-Tukari in general are considered volatile and crazy by the outsiders, with the  relieved at not having to ally with them, and [[Szeth\|Szeth]] speculating that they might suddenly abandon their crusade against Emul and go to war with [[Marat\|Marat]]. The main way of communicating with them diplomatically is through their scribes, with the god-priest himself rarely, if ever, speaking in person.
+Tukari in general are considered volatile and crazy by the outsiders, with the [[Alethi\|Alethi]] relieved at not having to ally with them, and [[Szeth\|Szeth]] speculating that they might suddenly abandon their crusade against Emul and go to war with [[Marat\|Marat]]. The main way of communicating with them diplomatically is through their scribes, with the god-priest himself rarely, if ever, speaking in person.
 
 ### Calendar
 They make use of a different calendar than the Vorin calendar. Little is known about it except that the Vorin year 1168 is considered to be in the eighties in the Tukari calendar, although the exact year is unknown.
@@ -113,23 +113,6 @@ They make use of a different calendar than the Vorin calendar. Little is known a
 [[Torriqqam\|Torriqqam]]
 ## Trivia
 At around 702,000 km, it falls between  and  in total area.
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Tukari
+https://coppermind.net/wiki/Tukari

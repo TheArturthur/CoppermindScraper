@@ -1,101 +1,79 @@
-
-
 |**Nohadon**|
 |-|-|
 ||
-|**Fallecido**|*Desconocido*|
-|**Capacidades**|[[Potenciador\|Potenciador]]🐱︎|
-|**Títulos**|Rey de [[Alezela\|Alezela]]|
-|**Apodos**|Bajerden, Behardan|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Died**|*Unknown*|
+|**Abilities**|[[Surgebinder\|Surgebinder]]|
+|**Titles**|King of [[Alethela\|Alethela]]|
+|**Aliases**|Bajerden, Behardan|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*Personalmente, creo que la vida **es** justa. Lo que pasa es que muchas veces no ves de inmediato con qué se equilibra.*”
-\-Nohadon en una visión de Dalinar[4]
+>“*I think life **is** fair. It's merely that often, you can’t immediately see what balances it."*”
+\-Nohadon in Dalinar's vision[4]
 
 
-**Nohadon** fue un histórico rey de [[Roshar\|Roshar]] y [[Potenciaci%C3%B3n\|potenciador]] que vivió durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]]. Es famoso por ser el autor de [[El camino de los reyes (in-world)\|El camino de los reyes]], un tratado filosófico en forma de colección de historias.
+**Nohadon** was a historic [[Roshar\|Rosharan]] king and [[Surgebinder\|Surgebinder]] who lived during the [[Heraldic Epochs\|Heraldic Epochs]]. He's most famous as the author of [[The Way of Kings (in-world)\|The Way of Kings]], a philosophical treatise in the form of a collection of stories.
 
-## Sumario
+## Contents
 
-1 Nombre. [[#Nombre]] 
-2 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-3 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
-4 Historia. [[#Historia]] 
+1 Name. [[#Name]] 
+2 Appearance and Personality. [[#Appearance and Personality]] 
+3 Attributes and Abilities. [[#Attributes and Abilities]] 
+4 History. [[#History]] 
 
-4. [[#Vida]] 
-4. [[#En las visiones]] 
-
-
-5 Legado. [[#Legado]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+4. [[#Life]] 
+4. [[#In Visions]] 
 
 
-## Nombre
-"Nohadon" no es su nombre real, se trata de un nombre honorífico y sagrado que le dieron los [[/wiki/Vorinismo#Sacerdocio]] [[Vorin\|vorin]] miles de años después de su muerte (según las reglas vorin, donde la “h” puede representar cualquier letra, “Nohadon” es perfectamente simétrico y, por tanto, sagrado). En otros lugares, se le conoce como **Bajerden** o **Behardan**, aunque no sabemos si alguno es su nombre original.
+5 Legacy. [[#Legacy]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
-## Apariencia y personalidad
-En su juventud, Nohadon tenía el pelo oscuro que llevaba recogido en una trenza y una barba corta terminada en punta. Puede suponerse que era un [[Ojos claros\|ojos claros]]. A medida que se hizo mayor, su pelo se volvió canoso y le aparecieron numerosas arrugas, pero la barba puntiaguda permaneció. Cuando se vestía como un rey, llevaba trenzados en el pelo hilos de oro que se unían en su frente formando el símbolo de los [[Caballeros Radiantes\|Caballeros Radiantes]], y vestía túnicas blancas y doradas con mangas voluminosas.
-[[Dalinar Kholin\|Dalinar Kholin]] pensaba que el [[Heraldo\|Heraldo]] [[Ishar\|Ishar]] tendría un aspecto similar al de Nohadon, aunque resultó no ser así.
-El joven Nohadon era un hombre enfadado y exhausto, probablemente debido a que acababa de sufrir una guerra. No estaba seguro de sí mismo ni de sus objetivos y buscaba el consejo de sus asesores sobre el arte de gobernar. En algún momento, incluso consideró abdicar. No obstante, tenía una visión clara de lo que quería conseguir: que los [[Potenciaci%C3%B3n\|potenciadores]] estuvieran al servicio de la gente en lugar de gobernarlos. Creía que tenía que hacer cumplir de alguna forma este pensamiento, incluso si ello implicaba ir a la guerra.
-En su vejez, Nohadon se volvió mucho más elocuente, extravagante y afable, habiendo madurado mucho a lo largo de las décadas. Tenía un sentido del humor irónico, incluso sarcástico, y una naturaleza caritativa, ya que se detenía a charlar con los ciudadanos corrientes y daba comida a los más pobres. Disfrutaba de los placeres más sencillos de la vida, como hablar con la gente o hacer la compra. No dudaba en usar sus poderes para las acciones más banales, como por ejemplo saltar varios pisos por la ventana en lugar de bajar por las escaleras. De hecho era muy despreocupado en cuanto a su seguridad ya que nunca llevaba guardias, ni en las ocasiones que abandonaba el palacio. A pesar de todo ello, se mostró serio al recordar los acontecimientos más oscuros del pasado y no tuvo ningún problema en ofrecer a los demás la sabiduría que había acumulado a lo largo de los años.
 
-## Características y habilidades
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
+## Name
+"Nohadon" is not his real name, but rather a holy honorific given to him by the [[Vorin\|Vorin]] [[Ardent\|ardents]] thousands of years after his death (under Vorin rules, the letter "h" can stand in for any other letter, making "Nohadon" perfectly symmetrical and thus holy). Elsewhere, he is known as **Bajerden** or **Behardan**, though whether this is his original name is uncertain.
 
-Se sobreentiende que Nohadon fue un monarca absoluto. Su capacidad de reconstruir completamente un reino devastado durante varias décadas pone de manifiesto su considerable talento administrativo. Además, fue capaz de extender su poder militar a través de grandes distancias, ya que pudo llevar un gran grupo de exploradores hasta la ladera de las [[Monta%C3%B1as Brumosas\|montañas Brumosas]], en el lado opuesto del continente.
-Fue [[Potenciaci%C3%B3n\|potenciador]] desde muy joven, y se decía que era uno especial entre ellos, por lo que podría haber sido un [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]]. Tenía la habilidad suficiente como para sobrevivir a un salto desde una altura considerable. Además, parecía tener cierto conocimiento sobre la [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]], ya que en una visión instruye al alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] sobre la existencia y la naturaleza de los [[Reino F%C3%ADsico\|Reinos Físico]], [[Reino Cognitivo\|Cognitivo]] y [[Reino Espiritual\|Espiritual]].
-Nohadon era más conocido por ser un rey filósofo. Su obra más famosa es [[El camino de los reyes (in-world)\|El camino de los reyes]], pero se da a entender que escribió otros textos sobre lógica y filosofía.
-Fue también un regateador muy hábil y sabía como hacer pan [[Shin\|shin]]. Aparentemente las dos cosas figuraban entre sus aficiones.
+## Appearance and Personality
+In his youth, Nohadon had dark hair, which he wore pulled back into a braid, and a short, pointy beard. It can be presumed he was [[Lighteyes\|lighteyed]]. As he got older, his hair went gray and he gained numerous wrinkles, but the pointy beard remained. When dressed as a king, he had golden threads winding through his hair, coming together on his forehead in the shape of the [[Knights Radiant\|Knights Radiant]] symbol, and wore white-and-gold robes with voluminous sleeves.
+[[Dalinar Kholin\|Dalinar Kholin]] thought that the [[Herald\|Herald]] [[Ishar\|Ishar]] would look similar to Nohadon. Though it turned out not to be the case.
+Young Nohadon was an angry, exhausted man, likely due to having just suffered through a war. He was uncertain of himself and his goals, and sought advice on statecraft from his advisors. At some point, he even considered abdicating the throne. Nonetheless, he had a clear vision of what he wanted to accomplish: to have the [[Surgebinder\|Surgebinders]] serve people, rather than rule over them. He believed that he had to enforce this, even if he had to go to war to do so.
+In his older age, Nohadon became significantly more glib, whimsical and better-natured, having greatly matured over the decades. He had a wry, somewhat sarcastic sense of humor, and a charitable nature, chatting with common citizens and giving food out to the poor. He enjoyed the simple pleasures of life, like chatting with his people or shopping. He didn't hesistate to use his powers for the most banal things, like jumping several stories out the window rather than climbing down the stairs. He was, in fact, very cavalier with his safety, never taking guards with him even when going out of the palace. Nonetheless, he was sombre when recalling the dark events of the past, and had no problem dispensing wisdom he had gathered over the years.
 
-## Historia
-### Vida
-Nohadon fue el rey de uno de los [[Reinos Plateados\|Reinos Plateados]], [[Alezela\|Alezela]], en algún momento anterior al año 31 de la Sexta Época. Se convirtió en [[Potenciaci%C3%B3n\|potenciador]] en su juventud y ascendió al trono muy joven, durante una [[Desolaci%C3%B3n\|Desolación]] que duró once años y en la que murieron nueve de cada diez de los súbditos. Esto, junto con un conflicto posterior con otro potenciador llamado [[Alakavish\|Alakavish]], dejó a su reino en ruinas y acabó tan exhausto que consideró la opción de abdicar. Intentó unir a otros potenciadores mediante la fuerza, pero fracasó. Se vio obligado a encontrar un camino diferente y más pacífico.
-Con el paso de las décadas, Nohadon reconstruyó su reino hasta que se convirtió en un lugar animado y colorido. En algún momento acudió a la guerra por el acceso a las rutas comerciales de [[Makabak\|Makabak]], que lo llevó cerca de la frontera de [[Shin Kak Nish\|Shin Kak Nish]]. Allí permaneció bastante tiempo, en la casa de una mujer que más adelante tuvo un destino trágico. Fue entonces cuando aprendió a hacer pan [[Shin\|shin]], un hábito que siguió disfrutando los últimos años de su vida.
-Durante esa época, Nohadon formó una familia y se embarcó en su famoso viaje desde [[Abamabar\|Abamabar]] hasta [[Urithiru\|Urithiru]]. Caminó solo, sin guardias ni asistentes, y sin dinero, ya que se ganaba la vida cantando y trabajando. El viaje le llevó mucho tiempo, el número más bajo que se contempla son sesenta días, y eso era cuando aún estaba en sus propias tierras, y cuando consiguió llegar a las puertas de Urithiru estaba irreconocible.
-Durante su vejez, Nohadon permaneció en su capital, la ciudad hoy conocida como [[Kholinar\|Kholinar]]. A menudo salía a pasear fuera de su palacio, haciendo compras y regateando sin guardias que lo acompañaran.
+## Attributes and Abilities
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-### En las visiones
-Para más información sobre las visiones de [[Dalinar Kholin\|Dalinar Kholin]], ver [[Visiones de Dalinar\|visiones de Dalinar]].
->“*A veces, un hipócrita no es más que una persona en proceso de cambio.*”
-\-Nohadon a Dalinar[4]
+Nohadon is implied to have been an absolute monarch. His ability to completely rebuild a ruined kingdom over several decades implies considerable amount of administrative talent. Additionally, he was capable of projecting military power across vast distances, being able to take a large scout group all the way to the foothills of the [[Misted Mountains\|Misted Mountains]], on the opposite side of the continent.
+He was a [[Surgebinder\|Surgebinder]] from a young age, and was said to be considered special among them, suggesting that he may have been a [[Bondsmith\|Bondsmith]]. Nonetheless, he possessed enough ability to easily survive a jump from a considerable height. He also appears to have had some knowledge of [[Realmatic Theory\|Realmatic Theory]], as he educates Highprince [[Dalinar Kholin\|Dalinar Kholin]] on the existence and nature of [[Physical Realm\|Physical]], [[Cognitive Realm\|Cognitive]] and [[Spiritual Realm\|Spiritual Realms]] in a vision.
+Most famously, Nohadon was a philosopher-king. His best-known work is *[[The Way of Kings (in-world)\| The Way of Kings]]*, but it's implied that he wrote several other texts on logic and philosophy.
+He was also a gifted haggler, and knew how to make [[Shin\|Shin]] loaf bread, both of which were apparently his hobbies.
 
-Nohadon aparece en dos de las visiones de [[Dalinar Kholin\|Dalinar Kholin]]. La primera vez fue en una de las visiones normales, de las enviadas por el [[Padre Tormenta\|Padre Tormenta]] durante una [[Alta tormenta\|alta tormenta]] y éste le asignó a Dalinar el papel de [[Karm\|Karm]], un consejero del rey. En la visión, Nohadon compartió sus preocupaciones acerca de gobernar y la frustración que sentía con otros [[Potenciaci%C3%B3n\|potenciadores]]. La visión fue importante sobre todo por lo último que dijo Dalinar, una frase que [[Navani\|Navani]] reconoció y que le permitió empezar a traducir el [[Canto del alba\|canto del alba]]. Más tarde, Dalinar llevó a [[Venli\|Venli]] a la misma visión con el objetivo de hablar con ella.
-La segunda visión en la que aparece fue mucho más extraña y tuvo lugar sin la intervención del Padre Tormenta cuando Dalinar estaba dormido. En ella, Dalinar habló con un Nohadon mucho más mayor y caminó por la ciudad con él. A diferencia de las visiones normales, aquí Nohadon era muy consciente de con quién estaba hablando y hacía referencia a cosas que le habían sucedido a Dalinar con anterioridad. Si bien esta circunstancia, junto al final dramático de la visión, implican que todo era una pesadilla, Nohadon habló de cosas que Dalinar no sabía en ese momento, como la referencia a los [[Teor%C3%ADa Realm%C3%A1tica\|tres Reinos]] o el antiguo conflicto cerca de [[Shin Kak Nish\|Shin Kak Nish]], lo que sugiere que podría tratarse del verdadero Nohadon o algún recuerdo que se hubiera conservado de él.
+## History
+### Life
+Nohadon was a king of one of the [[Silver Kingdom\|Silver Kingdoms]], [[Alethela\|Alethela]], some time prior to year 31 of the Sixth Epoch. He became a [[Surgebinder\|Surgebinder]] early in his life, and took the throne young, during a [[Desolation\|Desolation]] that lasted for eleven years, killing nine out of ten of his subjects. This, and a prior conflict with another Surgebinder named [[Alakavish\|Alakavish]] who also started the conflict, left his kingdom in ruins and him jaded to the point where he considered abdicating. He eventually attempted to unite other Surgebinders by force, but failed. This forced him to find a different, more peaceful path.
+As decades passed, Nohadon rebuilt his kingdom, until eventually it became a bustling, colorful place. At some point, he went to war over access to trade routes of [[Makabak\|Makabak]], which took him near the border of [[Shin Kak Nish\|Shin Kak Nish]]. He would stay there for a long time, in a house of a woman who would later meet a tragic fate. It was then that he learned to bake [[Shin\|Shin]] bread, a habit he enjoyed during later years of his life.
+Around that time, Nohadon started a family and made his famous journey from [[Abamabar\|Abamabar]] to [[Urithiru\|Urithiru]]. He walked alone, without any guards or attendants, and no money, instead making a living through singing and manual labor. The trip took a very long time - the lowest number given is sixty days, and that was when he was still within his own lands - and when he eventually made it to Urithiru's gates, he was all but unrecognizable.
+In his old age, Nohadon remained in his capital, the city now known as [[Kholinar\|Kholinar]]. He would often take walks outside of his palace, shopping and haggling without any guards.
 
-## Legado
+### In Visions
+For more information about [[Dalinar Kholin\|Dalinar Kholin's]] visions, see [[Dalinar's visions\|Dalinar's visions]].
+>“*Sometimes, a hypocrite is nothing more than a man who is in the process of changing.*”
+\-Nohadon to Dalinar[4]
+
+Nohadon appeared in two of [[Dalinar Kholin\|Dalinar Kholin's]] visions. The first vision was one of the regular ones, sent by the [[Stormfather\|Stormfather]] during a [[Highstorm\|highstorm]], and cast Dalinar in the role of [[Karm\|Karm]], an advisor to the king. In it, Nohadon shared his anxieties about ruling, and his frustration with other [[Surgebinder\|Surgebinders]]. The vision was important mainly thanks to the very last thing Dalinar said in it, which was a sentence [[Navani\|Navani]] recognized, allowing her to begin the translation of [[Dawnchant\|Dawnchant]]. Later, Dalinar brought [[Venli\|Venli]] into the same vision in an attempt to parlay with her.
+The second vision was far stranger, ocurring without Stormfather's input while Dalinar was asleep. In it, Dalinar spoke with older Nohadon, and walked through the city with him. Unlike the regular visions, here Nohadon was keenly aware who he was speaking to, and referenced things that had happened to Dalinar before. While this, as well as the vision's dramatic end, imply that this was a nightmare, Nohadon talked about things Dalinar didn't know at the time, such as the [[Realmatic Theory\|three Realms]] or the ancient conflict near [[Shin Kak Nish\|Shin Kak Nish]], suggesting that this might've been the real Nohadon, or some preserved memory of him.
+
+## Legacy
  
-Para el famoso libro de Nohadon, ver [[El camino de los reyes (in-world)\|El camino de los reyes (in-world)]].
-[[El camino de los reyes (in-world)\|El camino de los reyes]] es el texto más antiguo que se conserva en la historia humana de [[Roshar\|Roshar]]. Entre otros, el texto impactó considerablemente a [[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]] en su madurez, ya que los llevó a replantearse su filosofía de vida y, en el caso de Dalinar, lo llevó a convertirse en un [[Orden de los Forjadores de V%C3%ADnculos\|Forjador de Vínculos]]. Pero la influencia de Nohadon se extiende más allá de la realeza [[Alezkar\|alezi]]. Es uno de los escritores más influyentes de la historia de Roshar, y sus textos son leídos y analizados por los eruditos de la actualidad. Su nombre es inmediatamente reconocido por aquellos que estudian historia antigua, lógica y filosofía.
-Es muy posible que Nohadon tuviera alguna participación en la organización de los [[Potenciaci%C3%B3n\|potenciadores]] en [[Caballeros Radiantes\|Caballeros Radiantes]], ya que se decía que los antiguos Caballeros habían basado sus filosofías y sus ideales en *El camino de los reyes*.
-Es una de las pocas personas a las que el [[Padre Tormenta\|Padre Tormenta]] ha dedicado un elogio, ya que el gran spren considera que fue «un buen hombre».
+For Nohadon's famous book, see [[The Way of Kings (in-world)\|The Way of Kings (in-world)]].
+*[[The Way of Kings (in-world)\|The Way of Kings]]* is the oldest preserved text in [[Roshar\|Roshar's]] human history. Among others, [[Gavilar\|Gavilar]] and [[Dalinar Kholin\|Dalinar Kholin]] were heavily impacted by it in their middle age, as it led them to rethink their life philosophy and, in Dalinar's case, led to him becoming a [[Bondsmith\|Bondsmith]]. Nohadon's influence, however, spreads far beyond [[Alethi\|Alethi]] royalty. He's one of the most influential writers in the history of Roshar, with his texts being read and analyzed by scholars to this very day. His name is immediately recognizable for people who study ancient history, logic and philosophy.
+It's highly possible that Nohadon had a hand in organizing the [[Surgebinder\|Surgebinders]] into the [[Knights Radiant\|Knights Radiant]], as the ancient Knights were said to have based their philosophies and ideals off *The Way of Kings*.
+He's one of the few people to ever be praised by the [[Stormfather\|Stormfather]], with the great spren considering him to have been "a good man".
 
-## Curiosidades
-La idea de que Nohadon fuera uno de los [[Heraldo\|Heraldos]] ha sido desmentida de forma directa.
-En [[El camino de los reyes Prime\|El camino de los reyes Prime]], Nohadon era solo conocido por otro de sus nombres, Bajerdan, donde *El camino de los reyes* era un libro mucho más venerado y que servía como un libro de reglas general para los monarcas.
-Nohadon está inspirado en el , una figura de «El libro de Mormón».
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+The idea that Nohadon was one of the [[Herald\|Heralds]] has been directly debunked.
+In [[The Way of Kings Prime\|The Way of Kings Prime]], Nohadon was known only by his alternative name of Bajerdan, with *The Way of Kings* being a far more revered book that served as a general rulebook for monarchs.
+Nohadon was based on , a figure from the Book of Mormon.
 
 
-
-https://es.coppermind.net/wiki/Nohadon
+https://coppermind.net/wiki/Nohadon

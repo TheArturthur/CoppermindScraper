@@ -1,22 +1,14 @@
 |**Rowena**|
 |-|-|
-|**Cónyuge**|[[Ealstan\|Ealstan]]|
-|**Residencia**|[[Stenford\|Stenford]]|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Spouse**|[[Ealstan\|Ealstan]]|
+|**Residence**|[[Stenford\|Stenford]]|
+|**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Rowena** is [[Ealstan\|Ealstan]]'s wife.
-
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]**|
-|-|-|
-|**Personajes**|[[Runian\|Runian]] · [[Sefawynn\|Sefawynn]] · [[Ealstan\|Ealstan]] · [[Ulric Stromfin\|Ulric Stromfin]] · [[Quinn Jericho\|Quinn Jericho]] · [[Ryan Chu\|Ryan Chu]] · [[Logna\|Logna]]|
-|**Lugares**|[[Stenford\|Stenford]] · [[Wellbury\|Wellbury]] · [[Maelport\|Maelport]]|
+**Rowena** is [[Ealstan\|Ealstan's]] wife.
 
 
 
-https://es.coppermind.net/wiki/Rowena
+https://coppermind.net/wiki/Rowena

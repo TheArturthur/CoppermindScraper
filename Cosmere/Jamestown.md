@@ -1,22 +1,13 @@
 |**Jamestown**|
 |-|-|
-|**Estado**|🐱︎|
-|**Nación**|[[Islas Unidas de Am%C3%A9rica\|Islas Unidas de América]]🐱︎|
-|**Mundo**||
+|**State**|[[New Britannia\|New Britannia]]|
+|**Nation**|[[United Isles of America\|United Isles of America]]|
+|**World**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
-**Jamestown** is a city in the .
+**Jamestown** is a city in the [[United Isles of America\|United Isles of America]].
 It is located on the southern tip of New Britannia and is one of the largest cities in the United Isles.
-It is also the location of the .
-
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[El rithmatista\|El rithmatista]]**|
-|-|-|
-|**Characters**|[[Joel Saxon\|Joel Saxon]] · [[Melody Muns\|Melody Muns]] · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
-|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
-|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
+It is also the location of the [[Armedius Academy\|Armedius Academy]].
 
 
 
-https://es.coppermind.net/wiki/Jamestown
+https://coppermind.net/wiki/Jamestown

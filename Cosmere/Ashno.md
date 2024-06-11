@@ -1,41 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ashno**|
 |-|-|
-|**Títulos**|Ashno de Sages, Supremo de Emul|
-|**Nacionalidad**|[[De Emul\|de Emul]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Titles**|Ashno of Sages, Prime of Emul|
+|**Nationality**|[[Emuli\|Emuli]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Ashno de Sages** es un hombre [[Emul\|emuli]] muy rico y santo, así como el antiguo Supremo Emuli en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
+**Ashno of Sages** is a rich [[Emuli\|Emuli]] holy man and former Prime on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
-## Apariencia y personalidad
-Dada la posición social de Ashno como uno de los mayores líderes de la historia de Emul y su implicación en la política, es probable que se trate de un líder sensato y excelente.
-Se sabe muy poco de la apariencia de Ashno, pero tiene problemas de espalda y su constitución es frágil debido a su avanzada edad.
+## Appearance and Personality
+Given Ashno's status as one of the greatest leaders in Emul's history and his continued involvement in politics, it is likely he is wise and an excellent leader.
+Little is known of Ashno's appearance, but he has a bad back and is somewhat of frail bearing in his old age.
 
-## Historia
-En algún momento de su vida, Asho se convirtió en el Supremo de Emul. Su reinado fue próspero y se le considera uno de los más grandes Supremos Emuli de la historia. En algún momento abandonó el trono y terminó ocupando su lugar [[Vexil\|Vexil el Sabio]]. Incluso después de renunciar al trono, Ashno acompañó a Vexil en algunas negociaciones políticas importantes. No está del todo claro si en cierto momento Ashno se convirtió en una figura religiosa, pero en su vejez era conocido como un hombre santo.
-En 1173, [[Shalash\|Shalash]], [[Baxil\|Baxil]] y [[Av\|Av]] asaltaron el palacio de Ashno para que Shalash pudiera destruir las obras de arte de su Salón Sagrado, incluida una imagen de [[Shalash\|Epan]], Dama de los Sueños. En 1174, tras el paso de la [[Tormenta eterna\|tormenta eterna]] y de la invasión cantora de Emul, Ashno acompañó a Vexil a [[Azimir\|Azimir]] para que pudieran viajar hasta Urithiru a través de una [[Puerta Jurada\|Puerta Jurada]] y reunirse con la coalición. Asistió al menos a una de las reuniones de la coalición, en la que se decidió que Aladar ayudaría a Emul a defender el territorio que le quedaba.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 22:54, 4 June 2018 (MST)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+At some point in his life, Ashno became Prime of Emul. His reign was successful and afterwards he is considered to be one of the greatest Emuli Primes in history. At some point he left the throne and was replaced eventually by [[Vexil\|Vexil the Wise]]. Even after giving up the throne, Ashno still accompanied Vexil for at least some important political negotiations. It is uncertain at one point in time Ashno became a religious figure, but by his old age he had become well-known as a holy man.
+In 1173, Ashno's palace was broken into by [[Shalash\|Shalash]], [[Baxil\|Baxil]], and [[Av\|Av]] so that Shalash could destroy the art in his Hallowed Hall, including an image of [[Epan\|Epan]], Lady of Dreams. In 1174, following the arrival of the Everstorm and the invasion of Emul by singers, he accompanied Vexil to [[Azimir\|Azimir]], so they could travel to Urithiru by way of the [[Oathgate\|Oathgate]] and meet with the coalition. He attended at least one meeting of the coalition, in which it was decided that Aladar would help Emul defend what territory remained to it.
 
 
 
-https://es.coppermind.net/wiki/Ashno
+https://coppermind.net/wiki/Ashno

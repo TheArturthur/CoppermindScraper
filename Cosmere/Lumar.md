@@ -1,239 +1,216 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lumar**|
 |-|-|
 ||
-|**[[Esquirla\|Esquirlas]]**|None|
-|**[[Investidura\|Investiduras]]**|[[%C3%89ter\|Éteres]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Shard\|Shards]]**|None|
+|**[[Investiture\|Investitures]]**|[[Aether\|Aethers]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*En mi caso, creo que no presté la atención debida a lo arrebatador que era el mundo de Trenza. Para mí era un planeta atrasado que se ahogaba en los desechos de los éteres, que resultan más útiles en otras encarnaciones y, de todos modos, son mucho más fáciles de recolectar en las propias lunas. Así y todo, en ninguno de mis viajes he presenciado nada comparable a esas esporas.*”
+>“*I don't think I gave proper attention to just how beautiful Tress’s world was. To me, it was a backwater planet drowning in the dross of the aethers, which are more useful in other incarnations—and far easier to harvest on the moons themselves anyway. And yet, nowhere else in my travels have I witnessed anything like those spores.*”
 \-Hoid[1]
 
 
-**Lumar** es un [[/wiki/Cosmere#Planetas]] en el [[Cosmere\|cosmere]] cuyas doce lunas albergan una variedad única de [[%C3%89ter\|éteres]]. Solo los forasteros lo llaman así, aunque la palabra "Lumar" tiene un significado más o menos similar a los nombres que algunas culturas locales dan al planeta.
+**Lumar** is a [[/wiki/Cosmere#Planets]] in the [[Cosmere\|cosmere]] whose twelve moons are home to a unique strain of [[Aether\|aethers]]. Only outsiders call it such, though the word "Lumar" is roughly similar in meaning to names given to the planet by some local cultures.
 
-## Sumario
+## Contents
 
-1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
+1 Geography and Ecology. [[#Geography and Ecology]] 
 
-1. [[#Lunas y oc.C3.A9anos de esporas]] 
+1. [[#Moons and Spore Oceans]] 
 
-1. [[#Oc.C3.A9anos conocidos]] 
-
-
-1. [[#Los .C3.A9teres y los comeesporas]] 
-1. [[#Lluvias]] 
-1. [[#Tierra y fauna]] 
-
-1. [[#Islas conocidas]] 
+1. [[#Known oceans]] 
 
 
+1. [[#Aethers and Spore Eaters]] 
+1. [[#Rainfall]] 
+1. [[#Land and Fauna]] 
+
+1. [[#Known islands]] 
 
 
-2 Historia. [[#Historia]] 
-3 Naciones. [[#Naciones]] 
-
-3. [[#Mar Glauco]] 
-
-3. [[#Asentamientos conocidos]] 
 
 
-3. [[#Mar Zafiro]] 
+2 History. [[#History]] 
+3 Nations. [[#Nations]] 
 
-3. [[#Islas de Lobu]] 
+3. [[#Verdant Sea]] 
+
+3. [[#Known settlements]] 
 
 
-3. [[#Mar Rosa]] 
+3. [[#Sapphire Sea]] 
+
+3. [[#Islands of Lobu]] 
+
+
+3. [[#Rose Sea]] 
 3. [[#Iriali]] 
 
 
-4 Cultura y sociedad. [[#Cultura y sociedad]] 
+4 Culture and Society. [[#Culture and Society]] 
 
-4. [[#Religi.C3.B3n]] 
-4. [[#Navegaci.C3.B3n y pirater.C3.ADa]] 
-4. [[#Uso de esporas]] 
-4. [[#Influencias externas]] 
-
-
-5 Habitantes destacados de Lumar. [[#Habitantes destacados de Lumar]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+4. [[#Religion]] 
+4. [[#Sailing and Piracy]] 
+4. [[#Spore Use]] 
+4. [[#External Influences]] 
 
 
-## Geografía y ecología
-  Un barco bloqueado por esporas en el <<Mar Esmeralda\|mar Esmeralda>>, con la luna esmeralda visible. Fuera del bullir, los mares son lo suficientemente sólidos como para que la gente camine sobre la superficie.
-### Lunas y océanos de esporas
-Lumar se encuentra en un sistema estelar desconocido considerado un lugar apartado del cosmere. El planeta está rodeado por un conjunto de doce lunas, cada una de ellas situadas en órbitas geoestacionarias equidistantes y opresivamente cercanas a la superficie. Cada día, el sol pasa por detrás de una de las doce lunas, lo que hace que la sombra que proyecta enfríe la tierra unos grados. Esto se denomina **sombra de las lunas**, y es diferente de un eclipse total.
-Cada luna alberga uno de los doce [[%C3%89ter\|éteres]]; los éteres producen esporas que llueven sobre la superficie de Lumar en grandes caídas perpetuas conocidas como [[Lunacuerdo\|lunacuerdos]]. Como resultado, todo el planeta está cubierto por océanos de esporas de éter. Los mares y las lunas ocupan un lugar destacado en el lenguaje local, y muchas personas juran por las lunas o utilizan frases como "cómo en los mares".
-Debido a que las lunas están a la misma distancia entre sí, cada mar tiene el mismo tamaño y aproximadamente la misma forma pentagonal. Esto funciona geométricamente como doce pentágonos que teselan la esfera, y debido a la forma de los mares y del planeta, cada mar limitaría con otros cinco, con tres alrededor de cada vértice. La superficie es irregular: cada mar es en realidad un montón de arena, más alta en el lunacuerdo y más baja en el borde, donde se entremezclan las esporas de los mares vecinos. Sin embargo, el gran tamaño de los mares hace que la inclinación sea imperceptible a menos que uno se encuentre muy cerca de la cima. Muy por debajo de la superficie, el fondo marino está lleno de respiraderos térmicos que bombean grandes cantidades de burbujas de aire, junto con el proceso de descomposición de las esporas. Esto lleva a que las esporas , lo que hace que los océanos se comporten como líquidos. Los lugareños llaman a este proceso "el bullir". El bullir suele durar días; sin embargo, es habitual que se detenga durante periodos de tiempo variables, conocidos como **quietud**, dejando a todos los barcos que lo atraviesan **varados en las esporas** hasta que se reanuda. En esos periodos de calma, el océano es lo bastante sólido como para caminar sobre él, aunque hay que tener mucho cuidado al hacerlo.
-Los barcos que surcan los mares suelen tener proas reforzadas para protegerlos de las esporas gruesas.
-Los mares no son especialmente profundos, miden sólo unos cientos de metros en su punto más hondo. Hay todo un complejo ecosistema propio en el fondo; sin embargo, no se sabe nada de él. Se trata de una investigación de [[Xisisrefliel\|Xisisrefliel]] y sus sirvientes.
-Los mapas de Lumar conservan la forma pentagonal de los mares, pero no se sabe qué tipo de proyección utilizan para mantener la forma a pesar de que los pentágonos regulares no pueden cubrir el plano.
+5 Notable Inhabitants of Lumar. [[#Notable Inhabitants of Lumar]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
-#### Océanos conocidos
-[[Mar Esmeralda\|Mar Esmeralda]] (hecho de éter glauco; también conocido como mar Glauco)
-[[Mar Carmes%C3%AD\|Mar Carmesí]] (echo de éter carmesí)
-[[Mar de Medianoche\|Mar de Medianoche]] (echo de éter de medianoche)
-[[Mar Zafiro\|Mar Zafiro]] (echo de éter céfiro; también conocido como mar Céfiro)
-[[Mar Rosa\|Mar Rosa]] (hecho de éter [[Rosa%C3%ADta\|rosaíta]])
-De esos cinco, sólo se sabe que los mares Esmeralda, Zafiro y Rosa están habitados. Sin embargo, se pueden encontrar personas en los otros océanos -- [[Xisis\|Xisis]] y sus sirvientes viven en el fondo del mar Carmesí, mientras que el mar de Medianoche es el hogar de la [[Riina\|hechicera]] y sus criaturas de [[Esencia de Medianoche\|Esencia de Medianoche]]. Se puede suponer además que existe un mar de Luz Solar, debido a la existencia del éter de luz solar. Aunque no se nombra explícitamente, hay un océano sin nombre en el planeta que tiene esporas de color dorado.
 
-### Los éteres y los comeesporas
->“*Vuestras lunas son el hogar de un grupo de entidades voraces conocidas como éteres. Pero mientras los verdaderos éteres de otros mundos establecen relaciones simbióticas con la gente, los de vuestras lunas se han vuelto insaciables, agresivos y lujuriantes.*”
+## Geography and Ecology
+  A ship sporelocked on the <<Emerald Sea\|Emerald Sea>>, with the Emerald Moon visible. Outside of the seethe, the seas are solid enough for people to walk on the surface.
+### Moons and Spore Oceans
+Lumar is located in an unknown star system considered a backwater of the cosmere. The planet is surrounded by a set of twelve moons, each hanging in equidistant, geostationary orbits oppressively close to the surface. Each day, the sun passes behind one of the twelve moons, leading to the shadow cast from it cooling the land by a few degrees. This is is called a **moonshadow**, and is different from a total eclipse.
+Each moon is home to one of the twelve [[Aether\|aethers]]; those aethers produce spores, which rain down on Lumar's surface in great, perpetual falls known as [[Lunagree\|lunagrees]]. As a result, the entire planet is covered by oceans of aether spores. The seas and moons figure heavily in the local language, with many people swearing by the moons or using phrases like "how on the seas".
+Owing to the moons being of equal distance to one another, each sea is of the same size, and roughly the same pentagonal shape. This functions geometrically as twelve pentagons that tesselate the sphere, and due to the shape of the seas and the planet, each sea would border five others, with three around each vertex. The surface is uneven -- each sea is effectively a pile of sand, highest at the lunagree and lower on the border, where spores of the neighboring seas intermingle. However, the sheer size of the seas makes the incline imperceptible unless one is extremely close to the peak. Far below the surface, the seafloor is full of thermal vents that pump out great amounts of air bubbles, along with the decomposition process of the spores. This leads to the spores , which makes the oceans behave akin to liquid. The locals call this process **the seethe**. The seethe usually lasts days; however, it will commonly pause for varying periods of time, known as **stillings** leaving all ships sailing across it **sporelocked** until it picks up again. During those periods of calm, the ocean is solid enough to walk on, though one must exercise great care when doing so.
+Ships on the seas tend to have reinforced bows in order to protect the ship from the thick spores.
+The seas are not especially deep, measuring only a few hundred yards at their deepest. There is an entire complex ecosystem of its own at the bottom; however, nothing is known about it. It is a matter of research by [[Xisisrefliel\|Xisisrefliel]] and his servants.
+The maps of Lumar keep the pentagonal shape of the seas, but it is not known what sort of projection these use in order to retain the shape despite regular pentagons being unable to tile the plane.
+
+#### Known oceans
+[[Emerald Sea\|Emerald Sea]] (made of verdant aether; also known as Verdant Sea)
+[[Crimson Sea\|Crimson Sea]] (made of crimson aether)
+[[Midnight Sea\|Midnight Sea]] (made of midnight aether)
+[[Sapphire Sea\|Sapphire Sea]] (made of zephyr aether; also known as Zephyr Sea)
+[[Rose Sea\|Rose Sea]] (made of [[Roseite\|roseite]] aether)
+Of those five, only Emerald, Sapphire and Rose Seas are commonly known to be inhabited. People can be found on the other oceans, however -- [[Xisis\|Xisis]] and his servants live at the bottom of the Crimson Sea, while the Midnight Sea is home to the [[Riina\|Sorceress]] and her [[Midnight Essence\|Midnight Essence]] creatures. It can be further assumed that a Sunlight Sea exists, due to the existence of Sunlight Aether. While no such sea is explicitly named, there is an unnamed ocean on the planet that has gold-colored spores.
+
+### Aethers and Spore Eaters
+>“*Your moons are home to a group of voracious entities known as aethers. Though the true aethers on other worlds have a symbiosis with people, the ones on your moons have become insatiable, aggressive, and fecund.*”
 \-Ulaam[2]
 
 
-Para más sobre la magia, ver [[%C3%89ter\|Éter]]. Para más información sobre las personas, véase [[Comeesporas\|comeesporas]]. Ver también [[Esporas de %C3%A9ter\|esporas de éter]]
-La variedad de éter de Lumar tiene un apetito agresivo por el agua; el más mínimo contacto con ella o con cualquier líquido que la contenga (como el sudor o la sangre) hará que las esporas de éter estallen en su elemento. Esto representa un inmenso peligro para todos los seres vivos del planeta, ya que la inhalación de una sola espora puede provocar una explosión de enredaderas en crecimiento, picos masivos o simplemente estallidos de aire en el cuerpo de una persona; un suceso que casi siempre es mortal. Sin embargo, tanto la plata como la sal matan las esporas, esto lo aprovechan los habitantes de Lumar para mantenerse a salvo.
-Los éteres principales de las lunas parecen mostrar cierto nivel de conciencia, aunque son irracionales y rabiosos. En ocasiones, los éteres más conscientes infectan a los humanos que se encuentran en la superficie del planeta. Estas personas son conocidas como [[Comeesporas\|comeesporas]]. No está claro cómo se infecta alguien con éter; las teorías van desde las personas que caen en los mares y de alguna manera sobreviven hasta consumir una espora especial. Sea cual sea la causa, como resultado, el éter forma una relación parasitaria con el comeesporas, exigiendo que el anfitrión le proporcione cantidades cada vez mayores de agua. El agua proporcionada por comeesporas se utiliza de alguna manera para alimentar a los principales éteres en las lunas.
-A cambio, los éteres protegen al comeesporas. Como tales, los comeesporas son increíblemente difíciles de matar, siempre que puedan mantener su éter alimentado. Con el tiempo, Los éteres demandan cada vez más agua y, al carecer de ella, empiezan a consumir a su huésped. Como tal, la infección es increíblemente dolorosa y siempre fatal, y la mayoría de los comedores de esporas no duran más de unos pocos años antes de que el parásito los consuma. Por lo general, es incurable; solo el [[Drag%C3%B3n (Cosmere)\|dragón]] [[Xisis\|Xisis]] puede curar la infección, y afirma que la cura debe reaplicarse continuamente, pues de lo contrario el parásito reaparecerá al cabo de uno o dos años.
-Aunque en Lumar se pueden encontrar doce variedades de éteres, también existe una leyenda local sobre un decimotercer tipo de esporas llamadas "esporas de hueso", cuyo color se debate entre el blanco, el negro o ambos. Se desconoce el origen de la historia. Esta descripción es similar a la [[Arena (Taldain)\|arena de Taldain)]], cuyos organismos reaccionan a la Investidura convirtiéndose de negro a blanco.
+For more about the magic, see [[Aether\|Aether]]. For more about the people, see [[Spore eater\|Spore eater]]. Also see [[Aether spores\|Aether spores]]
+The Lumaran strain of aether is aggressively hungry for water; the slightest contact with it, or any liquid containing it (such as sweat or blood) will cause the aether spores to burst into their element. This presents immense danger to all living creatures on the planet, as inhaling even a single spore can cause an explosion of growing vines, massive spikes or simply bursts of air in a person's body -- an event that is almost always deadly. Silver and salt both kill the spores, however, which the people of Lumar exploit to stay safe.
+The main aethers on the moons themselves seem to exhibit some level of sentience, although they are irrational and rabid. Occasionally, a human down on the planet's surface will become infected by the more sentient aether -- such people are known as [[Spore eater\|spore eaters]]. It is unclear how one becomes infected with aether; theories range from people falling into the seas and somehow surviving, to consuming a special spore. Whatever the cause, as a result, the aether forms a parasitic relationship with the spore eater, demanding that the host feed it increasing amounts of water. The water provided by the spore eaters is somehow used to feed the main aethers on the moons.
+In exchange, the aether protects the spore eater from harm. As such, spore eaters are incredibly difficult to kill -- so long as they can keep their aether fed. Over time, the aether demands more and more water, and lacking it, begins to consume its host. As such, the affliction is both incredibly painful and always fatal, with most spore eaters lasting no more than a few years before their parasite consumes them. It is generally incurable; only the [[Dragon (cosmere)\|dragon]] [[Xisis\|Xisis]] can heal the infection, and he claims that the cure must be continuously reapplied, or else the parasite will return within a year or two.
+While twelve varieties of aether can be found on Lumar, there is also a local legend of a thirteenth type of spore called "bone spores", whose color is debated to be white, black, or both. It is unknown where the story might have come from. This description is similar to [[Sand (Taldain)\|sand on Taldain]], whose organisms react to Investiture by turning from black to white.
 
-### Lluvias
->“*Sí, las esporas son peligrosas: crean pinchos rojos, puntiagudos como agujas. Pero la verdadera amenaza es la lluvia.*”
-\-Cuervo[22]
-
-
-Aunque Lumar tiene un ciclo del agua, es poco conocido. Las nubes adoptan la forma de cintas estrechas que se entrelazan rápidamente a lo largo del cielo, creando cortinas de lluvia conocidas como **franjas de lluvia**. A medida que el agua energiza las esporas, las borrascas provocan manifestaciones masivas de los elementos de los éteres, convirtiéndolos en un peligro adicional para los seres vivos. Sin embargo, en la mayoría de los océanos, las borrascas son predecibles; una franja de lluvia siempre seguirá el mismo camino, tanto que los habitantes de Lumar crean mapas de lluvia que pueden predecir con precisión sus ubicaciones durante siglos.
-La única excepción es el [[Mar Carmes%C3%AD\|mar Carmesí]], tristemente célebre por sus impredecibles borrascas. Allí, las precipitaciones se producen de forma inesperada y siguen trayectorias aleatorias, lo que puede resultar especialmente peligroso para los barcos varados en esporas. Como tal, este océano permanece deshabitado, con pocas embarcaciones que sobrevivan al viaje allí.
-El ciclo del agua en Lumar es muy extraño y no se entiende del todo, teniendo alguna relación con la descomposición de las esporas en el fondo marino. [[Xisis\|Xisis]] lo considera un tema curioso digno de investigación.
-
-### Tierra y fauna
-  El <<Mar Esmeralda\|mar Esmeralda>> y su luna vistas desde la isla de <<Punta de Diggen\|Punta de Diggen>>
-Aunque la mayor parte del planeta está cubierta de océanos de esporas, Lumar cuenta con numerosas islas habitadas por humanos. Algunas islas tienen suelo suficiente para cultivos ordinarios; otras son rocas estériles. Poco se sabe de la flora planetaria, salvo que se pueden encontrar flores y árboles de especies no especificadas.
-La mayor característica terrestre conocida de Lumar son las múltiples cadenas montañosas que bordean el mar Carmesí. Se considera en gran medida que son intransitables para los barcos; por lo tanto, la única forma de cruzar hacia el otro lado del planeta, al menos en esa dirección, es a través del mar Carmesí y el mar de Medianoche que lo limita.
-Los humanos son los únicos habitantes sapientes conocidos de Lumar, a excepción de algunos forasteros como [[Ulaam\|Ulaam]] o [[Xisis\|Xisis]]. No hay corales ni ningún otro tipo de vida marina en el planeta, debido a que los océanos son mortales para cualquier ser vivo acuático. Sin embargo, se pueden encontrar peces en los lagos de algunas islas. Ratas, gatos, palomas y mariposas son comunes, al igual que las gaviotas; a pesar de los peligros de los océanos de esporas, las aves pueden encontrarse a menudo lejos de las costas de las islas.
-
-#### Islas conocidas
-
-[[Punta de Diggen\|Punta de Diggen]], también conocida como la Roca
-[[Archipi%C3%A9lago Central\|Archipiélago Central]]
-La isla [[Iriali\|Iriali]], sin nombre
-[[Isla Erik\|Isla Erik]], conocida por sus múltiples lagos
-[[Islas de Lobu\|Islas de Lobu]], tierra natal de [[Fort%C3%ADn\|Fortín]] y [[Salay\|Salay]]
-[[Islas C%C3%A9firo\|Islas Céfiro]], conocida por la cerámica
-[[La isla de la hechicera\|La isla de la hechicera]], sin nombre
-[[Islas Dromatorio\|Islas Dromatorio]]
-
-## Historia
-Se desconoce cómo Lumar llegó a estar habitado o si el planeta siempre albergó esporas de éter. Se sabe que durante un tiempo fue el hogar del pueblo [[Iriali\|Iriali]]; sin embargo, un día los Iriali simplemente desaparecieron, aparentemente sin dejar rastro y dejando atrás todas sus posesiones. Más o menos al mismo tiempo, los habitantes de Lumar se enteraron de que un dragón, [[Xisis\|Xisis]], estaba viviendo bajo el mar Carmesí. Se desconoce cuándo llegó exactamente Xisis al planeta, aunque es probable que ya estuviera allí durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] de [[Roshar\|Roshar]].
-Con el paso de los siglos, Lumar se hizo más conocida entre los habitantes del amplio [[Cosmere\|cosmere]], hasta el punto de que empezaron a aparecer visitantes poco frecuentes. Alrededor de trescientos años después de la desaparición de los Iriali, las historias de gente de las estrellas se hicieron populares entre los marineros, y la gente común podía comerciar con los "magos" del espacio exterior, lo que llevó a cierta proliferación de la tecnología [[Investidura\|investida]]. En algún momento, una [[Elantris (ciudad)\|elantrina]] llamada [[Riina\|Riina]] se trasladó al planeta; aterrizando con su nave en una isla del mar de Medianoche, tomó allí el control de la [[Esencia de Medianoche\|Esencia de Medianoche]] y se apodó a sí misma "la hechicera". La hechicera pronto alcanzó una reputación temible entre los lugareños, debido tanto a sus guardias [[Despertar\|despertados]], como a las maldiciones que lanzaba sobre la gente que la incomodaba. También impuso aranceles a todo el comercio que atravesase el mar de Medianoche, lo que acabó provocando un conflicto con el rey del cercano Glauco.
-Al final, el rey intentó casar a Charlie, el hijo de uno de sus duques, con la hechicera, lo que solo provocó que ella lo capturase y lo transformase en una rata. Sin embargo, [[Trenza\|Trenza]], persiguiendo a Charlie, encontró el camino hasta la hechicera y, con la ayuda de [[Hoid\|Hoid]] y la tripulación del **[[Canto del cuervo\|Canto del cuervo]]**, consiguió obligar a Riina a abandonar el planeta. Esto llevó a Trenza y a su tripulación a hacerse cargo del mar de Medianoche y de las criaturas que lo habitan.
-
-## Naciones
-Como Lumar es un planeta de islas, no hay fronteras sólidas entre los distintos estados; las islas declaran su lealtad enarbolando la bandera del rey o reina local. Cada océano parece ser su propio estado, con la hechicera controlando todo el mar de Medianoche y un rey de nombre desconocido gobernando teóricamente sobre cada isla del mar Glauco.
-
-### Mar Glauco
-El mar Glauco se rige por un sistema feudal, con duques que reinan en cada isla y responden ante un rey. El rey controla todos los barcos que navegan entre las islas, y puede ponerlos en servicio para sus propios fines cuando lo necesite. Dispone de varios grupos que pueden hacer cumplir su voluntad; entre ellos figuran tanto el ejército permanente como los alguaciles que mantienen la paz, así como los recaudadores de impuestos y los inspectores que controlan el ir y venir de barcos y mercancías. Además, se rumorea que el rey cuenta con un equipo de asesinos y agentes especiales conocidos como las [[M%C3%A1scara del rey\|máscaras del rey]]. Sin embargo, no está claro si son reales o inventados como propaganda.
-Los piratas desempeñan un papel importante en la economía, tomando dinero que los ricos acumulan recaudándolo de la gente y devolviéndolo al sistema. Como tal, existen en una especie de estado cuasi-legal.
-El mar Glauco está enemistado con el mar de Medianoche; como todo el comercio con el otro lado del planeta debe pasar por Medianoche, la hechicera ha impuesto aranceles elevados. Finalmente, el rey se negó a pagarles y comenzó a prepararse para la guerra hasta que [[Trenza\|Trenza]] y su tripulación desterraron a la hechicera.
-El mar Glauco hace frontera con el [[Mar Carmes%C3%AD\|mar Carmesí]], el [[Mar Rosa\|mar Rosa]], y el [[Mar Zafiro\|mar Zafiro]].
-
-#### Asentamientos conocidos
-[[Puerto Real\|Puerto Real]]
-[[Bah%C3%ADa Resplandor\|Bahía Resplandor]]
-[[Ciudad Filistrado\|Ciudad Filistrado]]
-### Mar Zafiro
-El mar Zafiro limita con el mar Glauco.
-
-#### Islas de Lobu
->“*Para mi pueblo, y para mi familia en particular, es un orgullo ejecutar una cacería excelente.*”
-\-Fortín[19]
+### Rainfall
+>“*Yes, the spores are dangerous—they create red spines, sharp as a needle. But the real danger is the rain.*”
+\-Crow[22]
 
 
-La otra sociedad conocida de Lumar son los habitantes de las Islas de Lobu, de piel oscura y pelo negro y rizado. Los habitantes de Lobu son cazadores orgullosos de sus presas. Los relatos de las grandes cacerías se escriben con grandes adornos y mucha fanfarronería; esas cartas se cuelgan luego en las paredes de sus salones familiares.
-A lo largo de las generaciones, lo que constituye una cacería se ha ampliado para incluir muchas profesiones aparentemente no relacionadas, como el comercio o la zapatería, para permitir que la sociedad se desarrolle sin perder su cultura. Sin embargo, independientemente de la forma que adopte la caza, el orgullo permanece. Una persona elige su caza al alcanzar la mayoría de edad, y luego la persigue lo mejor que puede; por ejemplo, una persona que elige el comercio puede convertirse en un excelente regateador.
+Though Lumar does have a water cycle, it is poorly understood. Clouds take the form of narrow ribbons that weave swiftly along the sky, creating curtains of rain known as **rainlines**. As the water energizes the spores, squalls cause massive manifestations of the aethers' elements, making them a further danger to living beings. However, over most oceans, squalls are predictable; a ribbon of rain will always follow the same pathway, enough so that the Lumarans create rain maps that can accurately predict their locations for centuries.
+The only exceptions to this is the [[Crimson Sea\|Crimson Sea]], infamous for its unpredictable squall patterns. Rainfall there comes unexpectedly and follows random paths, which can be particularly dangerous to sporelocked ships. As such, this ocean remains uninhabited, with few vessels surviving the journey there.
+The water cycle on Lumar is very strange and not fully understood, having some relation to the decomposition of spores on the seafloor. It is a point of curiosity and research by [[Xisis\|Xisis]].
 
-### Mar Rosa
-Se sabe que el mar Rosa está habitado, aunque no se conoce nada de su gobierno ni de su cultura.
+### Land and Fauna
+  The <<Emerald Sea\|Emerald Sea>> and its moon as seen from the island of <<Diggen's Point\|Diggen's Point>>
+Although most of the planet is covered in spore oceans, Lumar does have numerous islands inhabited by humans. Some islands have enough soil to grow ordinary crops; others are barren rocks. Little is known about planetary flora, save that flowers and trees of unspecified species can both be found.
+The largest known land feature of Lumar are multiple mountain ranges that border the Crimson Sea. They are largely considered impassable for ships; as such, the only way to cross to the other side of the planet, at least in that direction, is through Crimson and the bordering Midnight Sea.
+Humans are the only known sapient inhabitants of Lumar, barring rare offworlders such as [[Ulaam\|Ulaam]] or [[Xisis\|Xisis]]. There is no coral, or any other sea life on the planet, owing to the oceans being deadly to any water-based living creature. Fish, however, can be found in lakes on some of the islands. Rats, cats, pigeons and butterflies are common, as are seagulls; despite the dangers of the spore oceans, the birds can often be found far from the island shores.
+
+#### Known islands
+
+[[Diggen's Point\|Diggen's Point]], also known as the Rock
+[[Core Archipelago\|Core Archipelago]]
+The [[Iriali\|Iriali]] island, unnamed
+[[Erik Island\|Erik Island]], known for multiple lakes
+[[Islands of Lobu\|Islands of Lobu]], homeland of [[Fort\|Fort]] and [[Salay\|Salay]]
+[[Zephyr Islands\|Zephyr Islands]], known for pottery
+[[Sorceress' island\|Sorceress' island]], unnamed
+[[Dromatory Isles\|Dromatory Isles]]
+
+## History
+It is unknown how Lumar came to be inhabited by people, or whether the planet was always home to aether spores. It is known that for a time, it was home to the [[Iriali\|Iriali]] people; however, one day the Iriali simply disappeared, seemingly without a trace and leaving all their possessions behind. At around the same time, the people of Lumar became aware that a dragon, [[Xisis\|Xisis]], has been living beneath the Crimson Sea. It is unknown when exactly Xisis arrived on the planet, though he was likely already there during the [[True Desolation\|True Desolation]] of [[Roshar\|Roshar]].
+Over the centuries, Lumar became better-known to the people of the wider [[Cosmere\|cosmere]], enough so for rare visitors to begin appearing. Around three hundred years after the Iriali's disappearance, stories of people from the stars became grew popular among sailors, and common folk could trade with the "wizards" from outer space, leading to some proliferation of [[Investiture\|Invested]] technology. At some point, an [[Elantrian\|Elantrian]] named [[Riina\|Riina]] moved to the planet; landing her ship on an island in the Midnight Sea, she took control of the [[Midnight Essence\|Midnight Essence]] there and dubbed herself the Sorceress. The Sorceress soon attained fearsome reputation with the locals, due to both her [[Awakening\|Awakened]] guards, and the curses she would put on people who inconvenienced her. She also imposed tariffs on all trade going through the Midnight Sea, which eventually led to conflict with the king of the nearby Verdant.
+Eventually, the king attempted to send [[Charlie\|Charlie]], a son of one of his dukes, to marry the Sorceress, which only led to her capturing him and transforming him into a rat. However, [[Tress\|Tress]], chasing after Charlie, found her way to the sorceress, and, with the assistance of [[Hoid\|Hoid]] and the crew of *[[Crow's Song\|Crow's Song]]*, managed to force Riina to abandon the planet. This led to Tress and her crew taking charge of the Midnight Sea and the creatures within.
+
+## Nations
+As Lumar is a planet of islands, there are no solid borders between various states; islands declare their allegiance by flying the flag of the local king or queen. Each ocean appears to be its own state, with the Sorceress controlling whole of the Midnight Sea, and an unnamed king theoretically ruling over every island on the Verdant Sea.
+
+### Verdant Sea
+The Verdant Sea is ruled by a feudal system, with dukes, reigning over individual islands, answering to a king. The king controls all ships that sail between the islands, and can press them into service as needed for his own purposes. He has several groups that can enforce his will; those include both the standing army and the marshalls who keep the peace, as well as the tax collectors and inspectors who control the coming and going of ships and cargo. Additionally, the king is rumoured to have a team of assassins and special agents known as the [[King's Mask\|King's Masks]]. However, it is unclear whether they are real or made up as propaganda.
+Pirates act as an important part to the economy, taking it from the wealthy who hoard money that they gather from the people, and inject it back into the system. Due to this, they exist in a sort of quasi-legal state.
+The Verdant Sea feuds with the Midnight Sea; as all trade to the other side of the planet must go through Midnight, the Sorceress has imposed high tariffs. The king eventually refused to pay them and began to prepare for war until [[Tress\|Tress]] and her crew banished the sorceress.
+The Verdant Sea borders the [[Crimson Sea\|Crimson Sea]], the [[Rose Sea\|Rose Sea]], and the [[Sapphire Sea\|Sapphire Sea]].
+
+#### Known settlements
+[[Kingsport\|Kingsport]]
+[[Shimmerbay\|Shimmerbay]]
+[[Filistrate City\|Filistrate City]]
+### Sapphire Sea
+The Sapphire Sea borders the Verdant Sea.
+
+#### Islands of Lobu
+>“*It is a mark of pride among my people, and my family in particular, to execute an excellent hunt.*”
+\-Fort[19]
+
+
+The other known society on Lumar are the people of Islands of Lobu, who have dark skin and black, curly hair. The people of Lobu are a society of hunters who take pride in the prey they catch. Tales of the greatest hunts are written down with great embellishments and a lot of bragging; such letters are then hung on the walls of their family halls.
+Over the generations, what constitutes a hunt has been stretched to include many seemingly-unrelated professions, such as trade or shoemaking, to allow the society to develop without losing their culture. However, no matter the shape the hunt takes, the pride remains. A person chooses their hunt as they come of age, and then pursues it to the best of their ability; for example, a person who chose trade may become an excellent haggler.
+
+### Rose Sea
+The Rose Sea is known to be inhabited, though nothing is known of its government or culture.
 
 ### Iriali
->“*Los iriali desaparecieron, ¿sabes? Un pueblo entero: ¡puf! Un buen día ya no estaban y su isla se quedó deshabitada.*”
+>“*They vanished, you know. The entire people: poof. There one day, gone the next, their island left uninhabited.*”
 \-Charlie[6]
 
 
-Para más información, ver [[Iriali\|Iriali]].
-En un momento dado, existía una isla en Lumar habitada por los [[Iriali\|Iriali]]. Sin embargo, unos trescientos años antes de que [[Trenza\|Trenza]] y [[Charlie\|Charlie]] naciesen, toda la población desapareció aparentemente de la noche a la mañana. Aunque es posible que simplemente abandonasen el planeta, su destino es desconocido para los lugareños, y algunos afirman que fueron "tomados" por los dioses. Hoy en día, solo algunas de las posesiones de los Iriali, así como el recuerdo cultural de su cabello dorado, permanecen en el planeta. Cabe destacar que la marcha de los Iriali se produjo más o menos al mismo tiempo que se conoció la presencia de [[Xisis\|Xisis]] en Lumar. Sin embargo, no hay pruebas de que ambos acontecimientos estén relacionados.
-Se desconoce qué relación existe entre los Iriali de Lumar y los Iriali del reino de [[Iri\|Iri]] en [[Roshar\|Roshar]], si es que existe alguna. El momento en que los de Lumar abandonaron su planeta hace imposible que sean los antepasados de los de Roshar pero es imposible determinar si los de Lumar descendían de los habitantes de Roshar, o si eran un grupo distinto y separado dentro de la misma cultura en todo el cosmere.
+For more information, see [[Iriali\|Iriali]].
+At one point, there was an island on Lumar inhabited by the [[Iriali\|Iriali]]. However, roughly three hundred years before [[Tress\|Tress]] and [[Charlie\|Charlie]] were born, the entire population vanished seemingly overnight. While it's possible that they simply departed the planet, their fate is unknown to the locals, with some claiming that they were "taken" by the gods. Today, only some of the Iriali's possessions, as well as cultural memory of their golden hair, remain on the planet. Notably, the Iriali's departure occurred at roughly the same time that [[Xisis\|Xisis]] become a known presence on Lumar. There is, however, no evidence that those two events are at all related.
+It's unknown what, if any relation there is between the Iriali of Lumar and the Iriali of the [[Roshar\|Rosharan]] kingdom of [[Iri\|Iri]]. The timing of the Lumarans' departure from their planet makes it impossible for them to be the Rosharans' ancestors, but it is impossible to determine if the Lumarans were descended from the inhabitants of Roshar, or if they were a different, separate group within the same cosmere-wide culture.
 
-## Cultura y sociedad
-La civilización humana de Lumar es preindustrial; sin embargo, posee algunas tecnologías especiales que le ayudan a sobrevivir en los implacables océanos del planeta. Los barcos utilizan el bullir para navegar entre las islas habitadas, lo que da lugar a un comercio bien desarrollado. La plata es común y todos los barcos tienen mucha en su cubierta y borda para ayudar a matar las esporas.
-A veces se utilizan mascarillas saladas como medio de protección personal frente a las esporas, aunque es posible viajar de forma más o menos segura sin ellas. Dado que la sal es una forma secundaria de hacer frente a las esporas, la extracción de sal es una industria importante en el planeta. Los habitantes de Lumar han encontrado maneras de vivir en muchas de las islas; donde la agricultura es imposible, cultivan alimentos en cubas de compostaje, e incluso transportan tierra de cultivo desde otras zonas. Los lumarianos han intentado incluso volar a las lunas, aunque se desconoce si lo consiguieron.
+## Culture and Society
+The human civilization on Lumar is pre-industrial; they do, however, possess some particular technologies to assist them in surviving the planet's unforgiving oceans. Ships use the seethe to sail between the inhabited islands, leading to well-developed trade. Silver is common, with every ship having plenty of it in its deck and railing to help kill the spores.
+Salted masks are sometimes used as means of personal protection from the spores, although it is possible to travel semi-safely without them. As salt is a secondary way of dealing with spores, salt mining is an important industry on the planet. The people of Lumar have found ways to live on many of the islands; where farming is impossible, they grow food in compost vats, and even ferry soil from other lands. Lumarans have even attempted to fly to the moons, though it's unknown if they succeeded.
 
-### Religión
->“*Sigo el camino de los propios dioses al llevar la muerte sin discriminar. Hacerlo de otro modo sería considerarme más grandiosa que ellos.*”
-\-Cuervo[22]
-
-
-La religión predominante en Lumar parece ser el culto lunar, difundido por grupos de sacerdotes reunidos en varias escuelas lunares. El sacerdocio parece estar formado por predicadores itinerantes, que visitan varias islas para enseñar a la gente la filosofía de su escuela lunar sobre la vida y los dioses. Estos sermones suelen tener lugar los **días lunares**, cuando el sol es eclipsado por una de las lunas, en el punto más alto de la isla en cuestión. Otro día de celebración de esta religión es el de [[Doce D%C3%ADas\|Doce Días]].
-Poco se sabe sobre los detalles del culto a la luna. Parece que hay figuras con nombre vinculadas a las lunas, y la luna de Medianoche se la conoce como "la de Thanasmia". Los dioses parecen ser considerados insensibles, sin tener en cuenta a quién matan y qué destino otorgan a las personas, aunque esta interpretación puede ser personal de [[Cuervo\|Cuervo]] y no generalmente aceptada.
-
-### Navegación y piratería
->“*Eran una tripulación mixta, de diversas etnias y con casi tantas mujeres como hombres. No era nada infrecuente en los mares de esporas. Los capitanes aceptaban a quienes aceptaran embarcarse. El machismo interfería con los beneficios.*”
-\-Hoid sobre el Canto del cuervo[43]
+### Religion
+>“*I follow the path of the gods themselves by delivering death indiscriminately. To do otherwise would presume I am greater than they.*”
+\-Crow[22]
 
 
-En Lumar abundan los barcos; suelen tener una tripulación de treinta o más personas, y sesenta se consideran especialmente grandes. Un barco típico tendrá aproximadamente la misma proporción de tripulantes masculinos y femeninos; como muy poca gente está dispuesta a arriesgarse a navegar por las esporas, entre los marineros se ha desarrollado una cultura de igualdad de género. Sin embargo, no todos los que navegan por los mares lo hacen por voluntad propia: en el mar Glauco, y posiblemente en otros, las personas endeudadas pueden ser obligadas a trabajar en los barcos por los recaudadores del rey.
-La piratería es una parte común y aceptada de los viajes por mar en Lumar. Los barcos piratas persiguen a los mercantes y disparan solo para inutilizarlos, utilizando balas de cañón llenas de agua para activar las esporas y atrapar a los barcos en ellas. Un buque mercante capturado entrega entonces una suma acordada de bienes y dinero, denominada **rescate**, tras lo cual ambos buques se separan de forma amistosa. Los alguaciles del rey llevan un registro de los barcos que hacen presa a otros y de lo que han robado; en caso de que una tripulación pirata sea capturada, esta forma de evitar matanzas innecesarias les garantiza que sean encarcelados en lugar de ejecutados. Los piratas son una parte importante de la economía, ya que toman riqueza de los ricos, quienes simplemente acumulan grandes cantidades de riqueza obtenida de la gente a través de los sistemas capitalistas en vigencia en Lumar, por lo tanto, la retiran del sistema y la mantienen lejos de la gente. Luego lo inyectan de nuevo en el sistema como estímulo para ayudar a los comerciantes de clase baja y a otros pueblos.
-Existe, sin embargo, un segundo tipo de piratas, llamados [[Corremuerto\|corremuertos]]. A diferencia de los piratas normales, esas tripulaciones matan a quienes roban. Los corremuertos son rechazados incluso por otras tripulaciones piratas, y se enfrentan a la muerte en caso de captura. Sin embargo, es fácil que nunca se descubra a los corremuertos si no dejan supervivientes de sus masacres.
+The primary religion on Lumar appears to be lunar worship, which is disseminated by groups of priests gathered into various moonschools. The priesthood appears to be comprised of traveling preachers, who visit various islands to teach people their moonschool's philosophy about life and the gods. Such sermons typically happen on **moondays**, when the sun is eclipsed by one of the moons, at the highest point of the given island. Another day of celebration for this religion is that of [[Twelveday\|Twelveday]].
+Little is known about the details of moon worship. There appear to be named figures tied to the moons, with the Midnight moon being referred to as "Thanasmia's own". Gods seem to be considered callous, with no regards to whom they kill and what fate they bestow upon people, though that interpretation may be personal to [[Crow\|Crow]] rather than generally-accepted.
 
-### Uso de esporas
-Para personas que crean máquinas basadas en esporas, ver [[Germinador\|Germinador]].
-Aunque la tecnología de Lumar es preindustrial, sus gentes han descubierto múltiples formas de utilizar las esporas de los doce mares en su vida cotidiana, sobre todo en lo que respecta a la navegación. Los que trabajan con esporas y crean maquinaria con ellas se denominan [[Germinador\|germinadores]].
-Una de las aplicaciones más comunes de las esporas es en las armas de fuego. Lumar no parece haber descubierto la pólvora; en su lugar, se utilizan esporas de céfiro. Las esporas individuales, o pequeños sacos de ellas, se introducen en el fondo del cañón del arma y la espoleta se humedece en lugar de prenderse fuego. Esto activa el céfiro, lo que resulta en una explosión de aire que lanza los proyectiles. En los cañones más grandes, las propias balas de cañón utilizan tecnología basada en esporas, combinando glauco, rosaíta y céfiro para crear una carga explosiva de agua y metralla.
-Fuera de las armas, las esporas tienen aplicaciones pacíficas. La rosaíta se cultiva como una forma de vendaje temporal para los barcos, el cristal crea parches que rellenan temporalmente cualquier hueco en el casco. Las esporas de luz solar se utilizan como combustible en los hornos de cocina, y las vides glaucas pueden consumirse como alimento de emergencia. Un uso más avanzado de las esporas se encuentra en las pistolas de bengalas de emergencia. Al igual que las balas de cañón, las pistolas de bengalas utilizan una combinación de rosaíta, glauco y céfiro para crear una carga explosiva; además, las esporas de luz solar sirven como fuente de luz de la bengala. [[Riina\|Riina]] afirma que se pueden encontrar más tipos de cañones de esporas avanzados en otros lugares del planeta.
-
-### Influencias externas
-  Los <<Saltamundos\|saltamundos>> en Lumar usán libremente sus poderes delante de los lugareños.
->“*Trenza había oído historias sobre visitantes de las estrellas, pero siempre le habían parecido fantasiosas. Aunque la verdad era que cada vez se escuchaban más entre los marineros.*”
-\-Hoid[48]
+### Sailing and Piracy
+>“*It was a mixed crew, with a variety of ethnicities and nearly as many women as men. That wasn't uncommon in the spore seas. You took whoever was willing. Sexism interfered with profits.*”
+\-Hoid on Crow's Song[43]
 
 
-Pocos [[Saltamundos\|saltamundos]] visitan Lumar, aunque los suficientes como para que las historias de "visitantes de las estrellas" hayan empezado a extenderse por todo el planeta. Como la mayoría de los lumarianos no son totalmente conscientes del Cosmere, surgieron diversas creencias populares sobre los visitantes. A estos forasteros se les suele llamar magos o hechiceros, mientras que a los [[Kandra\|kandra]] se les llama zombis. Su avanzada tecnología se considera mágica en sí misma y ha llegado a manos de los lugareños. Las tablets de [[Nalthis\|Nalthis]] pueden comprarse y utilizarse para necesidades básicas como escribir textos; sin embargo, parece que a los lumarianos nunca se les enseñan los detalles del funcionamiento de la tecnología. Algunas influencias [[Scadrial\|scadrianas]] también han llegado al planeta, y se dice que la muerte tiene clavos en los ojos, presumiblemente en referencia a [[Marsh\|Marsh]].
-Entre los forasteros destacados que han establecido su hogar en Lumar se encuentran la [[Hechicera\|hechicera]], una [[Elantris\|elantrina]] que se hizo con el control del mar de Medianoche, y [[Xisis\|Xisis]], un [[Drag%C3%B3n (Cosmere)\|dragón]] que estudia los éteres en el fondo del mar Carmesí e intercambia deseos por siervos locales. Esos dos se han integrado en la cultura del planeta lo bastante bien como para que no se les reconozca como extraplanetarios.
-A diferencia de [[Primero del Sol\|Primero del Sol]], no parece haber ninguna nación interestelar importante que compita por el control de Lumar; se desconoce si esto se debe al mortífero ecosistema o a la relativa poca importancia del planeta en la escena galáctica.
+Ships are plentiful on Lumar; typically, they have a crew of around thirty or more, with sixty being considered particularly large. A typical ship will have roughly the same proportion of male and female crew members; as very few people are willing to risk sailing the spores, a culture of gender equality has developed among the sailors. However, not all who sail the seas are there willingly -- on Verdant Sea, and possibly others, people who fall into debt can be pressed into ship labor by the king's collectors.
+Piracy is a common and accepted part of sea travel on Lumar. Pirate ships chase down the merchant vessels and shoot only to disable, using water-filled cannonballs to activate the spores and trap the ships in them. A captured merchant ship then surrenders an agreed-upon sum of goods and money -- called a **ransom price** -- whereupon both ships part ways somewhat amicably. The king's marshals keep records of what ships prey on others and what was robbed and stolen; in the event that a pirate crew is captured, this avoiding of unnecessary killing ensures that they are imprisoned rather than executed. Pirates are an important part of the economy, taking wealth from the rich, who simply hoard large amounts of wealth gathered from the people through the capitalistic systems in place on Lumar, therefore removing it from the system and keeping it from the people. They then inject it back into the system as a stimulus to help lower class merchants and other peoples.
+There is, however, a second type of pirates, called [[Deadrunner\|deadrunners]]. Unlike regular pirates, those crews kill those they steal from. Deadrunners are shunned even by other pirate crews, and face death in the event of capture. However, deadrunners can easily never be discovered, should they leave no survivors of their massacres.
 
-## Habitantes destacados de Lumar
+### Spore Use
+For people who create spore-based machines, see [[Sprouter\|Sprouter]].
+While Lumar is pre-industrial in its technology, its people have figured out multiple ways to use spores of the twelve seas in their daily life, particularly as it pertains to sailing. Those who work with spores and create machinery utilizing them are known as [[Sprouter\|sprouters]].
+One of the more common applications of spores is in firearms. Lumar does not appear to have discovered gunpowder; instead, zephyr spores are used. Individual spores, or small sacks of them, are packed into the bottom of the gun barrel and the fuse is wetted rather than set aflame. This activates the zephyr, resulting in an explosion of air that launches the projectiles. In larger guns, the cannonballs themselves utilize spore-based technology, combining verdant, roseite and zephyr to create an explosive charge of water and shrapnel.
+Outside of weapons, spores do have peaceable applications. Roseite is grown as a form of temporary bandage for ships, the crystal creating patches that temporarily fill in any gaps in the hull. Sunlight spores are used as fuel in cooking ovens, and verdant vines can be eaten as emergency food. A more advanced use of the spores can be found in the emergency flare guns. Much like cannonballs, flare guns utilize a combination of roseite, verdant and zephyr to create an explosive charge; additionally, sunlight spores serve as the source of the flare's light. [[Riina\|Riina]] claims that more types of advanced spore guns can be found elsewhere on the planet.
 
-[[Trenza\|Trenza]]
+### External Influences
+  <<Worldhopper\|Worldhoppers>> on Lumar will freely use their powers in front of the locals.
+>“*She'd heard stories of visitors from the stars, but had thought them fancies. Even if there did seem to be more and more of them these days, talked of among sailors.*”
+\-Tress[48]
+
+
+Few [[Worldhopper\|worldhoppers]] visit Lumar, although enough that stories of "visitors from the stars" have began to spread across the planet. As most Lumarans are not wholly cosmere-aware, a variety of folk beliefs about the visitors arose. Those outsiders are often referred to as wizards or sorcerers, while [[Kandra\|kandra]] are called zombies. Their advanced technology is considered magical in and of itself, and has found its way into the hands of the locals. Tablets from [[Nalthis\|Nalthis]] can be purchased and used for basic needs such as writing out text; however, it appears that the Lumarans are never actually taught the details of how the technology works. Some [[Scadrian\|Scadrian]] influences have also made their way to the planet, with death being said to have nails in his eyes -- presumably referring to [[Marsh\|Marsh]].
+Notable outsiders to make their home on Lumar include the [[Sorceress\|Sorceress]], an [[Elantrian\|Elantrian]] who took control of the Midnight Sea, and [[Xisis\|Xisis]], a [[Dragon (cosmere)\|dragon]] who studies the aethers at the bottom of the Crimson Sea and trades wishes for local servants. Those two have integrated into the planet's culture well enough that they are not recognized as extraterrestrials.
+Unlike [[First of the Sun\|First of the Sun]], there does not appear to be any major interstellar nation vying for control over Lumar; it's unknown if this is due to the deadly ecosystem, or the planet's relative unimportance on the galactic scene.
+
+## Notable Inhabitants of Lumar
+
+[[Tress\|Tress]]
 [[Charlie\|Charlie]]
-[[Cuervo\|Cuervo]]
+[[Crow\|Crow]]
 [[Salay\|Salay]]
-[[Fort%C3%ADn\|Fortín]]
+[[Fort\|Fort]]
 [[Ann\|Ann]]
 [[Laggart\|Laggart]]
 [[Xisisrefliel\|Xisisrefliel]]
-[[La hechicera\|La hechicera]]
+[[The Sorceress\|The Sorceress]]
 
-## Curiosidades
-La palabra "Lumar" fue acuñada por [[Isaac Stewart\|Isaac Stewart]], que ideó múltiples nombres para el planeta y se los presentó a Brandon. Pretendía evocar tanto los cuentos de hadas como la inspiración de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*, **. Lo más probable es que sea un acrónimo de las palabras latinas "luna" y "mare". (mar; también usado en los nombres de las  que los primeros astrónomos confundieron con mares reales).
-Lumar no es el mundo de origen de los éteres ni el planeta en el que se desarrolla *[[Aether of Night\|Aether of Night]]*.
-Los océanos de esporas surgieron de la fascinación de Brandon por el proceso de fluidización, así como de su deseo de introducir adecuadamente los éteres en lo publicado del Cosmere.
-En la época en que se escribió *Trenza del mar Esmeralda*, aún no se había establecido la ubicación de Lumar en el cosmere ni la disposición de su sistema estelar.
-El [[Reino Cognitivo\|Reino Cognitivo]] de Lumar es "un poco más raro de lo normal" y es probable que su aspecto no estuviese finalizado antes de que se publicase *Trenza del mar Esmeralda*.
-Cuando empezó a imaginar los océanos fluidizados de Lumar, Brandon vio el vídeo del YouTuber Mark Rober  para confirmar que el concepto científico era viable.
-## Notas
-
+## Trivia
+The word "Lumar" was coined by [[Isaac Stewart\|Isaac Stewart]], who came up with multiple names for the planet and presented them to Brandon. It was meant to evoke both fairy tales and the inspiration for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, **. It is most likely a portmanteau of the Latin words "luna" (moon) and "mare" (sea; also used for  that early astronomers mistook for actual seas).
+Lumar is not the origin world of the [[Aether\|aethers]], nor is it the planet that *[[Aether of Night\|Aether of Night]]* takes place on.
+The spore oceans came about due to Brandon's fascination with the process of fluidization, as well as his desire to properly introduce aethers into the published Cosmere.
+By the time *Tress of the Emerald Sea* was written, Lumar's location in the cosmere, and the layout of its star system, had not been established.
+The [[Cognitive Realm\|Cognitive Realm]] of Lumar is "a little weirder than normal" and its appearance likely was not finalized before *Tress of the Emerald Sea* was published.
+After he began envisioning Lumar's fluidized oceans, Brandon watched YouTuber Mark Rober's video  to confirm that the scientific concept was feasible.
 
 
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (****)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] ·  · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
-
-
-
-https://es.coppermind.net/wiki/Lumar
+https://coppermind.net/wiki/Lumar

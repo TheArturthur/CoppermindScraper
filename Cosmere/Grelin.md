@@ -1,36 +1,22 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Grelin**|
 |-|-|
-|**Oficio**|Secretario|
-|**Grupo**|[[Gremio\|El Gremio]]|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[De Kerzta\|de Kerzta]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Profession**|Secretary|
+|**Groups**|[[Guild\|The Guild]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Kerztian\|Kerztian]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Grelin** es el secretario del lord mercader [[Vey\|Vey]].
+**Grelin** is the Lord Merchant [[Vey\|Vey's]] secretary.
 
-## Apariencia y personalidad
-Grelin tiene el pelo rubio hasta los hombros y una perilla rubia. Se le ve con una chaqueta blanca sobre una camisa morada y lleva un sombrero de copa blanco con una cinta morada.
+## Appearance and Personality
+Grelin has shoulder length blond hair and a blond goatee. He is seen wearing a white jacket over a purple shirt and is wearing a white top hat with a purple band.
 
-## Historia
-Cuando [[Kenton\|Kenton]] viene a hablar con Vey cinco días antes de la votación final sobre el [[Diem\|Diem]] Grelin le dice que se encargará de que Vey reciba su mensaje. Cuando Kenton se da cuenta de que Grelin no tiene intención de dejarle entrar, va de farol a una reunión con Vey, insinuando en voz alta que conoce el secreto que hace que Vey siga rindiendo tributo al Diem, y cuando Vey oye esto invita a Kenton a entrar para una conversación privada.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+When [[Kenton\|Kenton]] comes to speak with Vey five days before the final vote on the [[Diem\|Diem]] Grelin tells him that he will see that Vey gets his message. When Kenton realizes that Grelin doesn't intend to let him in, he bluffs his way into a meeting with Vey, loudly implying that he knows the secret that causes Vey to continue paying tribute to the Diem, and when Vey hears this he invites Kenton in for a private conversation.
 
 
 
-https://es.coppermind.net/wiki/Grelin
+https://coppermind.net/wiki/Grelin

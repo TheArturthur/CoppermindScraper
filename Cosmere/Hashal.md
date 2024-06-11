@@ -1,86 +1,65 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Hashal**|
 |-|-|
-|**Cónyuge**|[[Avarak Matal\|Avarak Matal]]|
-|**Grupo**|Ejército de Sadeas|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Spouse**|[[Avarak Matal\|Avarak Matal]]|
+|**Groups**|Sadeas army|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-La brillante **Hashal** es una mujer [[Ojos claros\|ojos claros]] en el campamento de guerra [[Principado Sadeas\|Sadeas]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] de [[Roshar\|Roshar]]. Está casada con [[Avarak Matal\|Avarak Matal]], oficial del ejército de Sadeas, que participa activamente en la supervisión de la [[Cuadrilla del puente\|cuadrilla del puente]] de Sadeas.
+Brightness **Hashal** is a [[Lighteyes\|lighteyed]] woman in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. She is married to [[Avarak Matal\|Avarak Matal]], an officer in the Sadeas army, and she personally takes an active role in the oversight of the Sadeas [[Bridge crew\|bridge crews]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Compra de Kaladin]] 
-3. [[#Dirigiendo las cuadrillas del puente]] 
+3. [[#Purchase of Kaladin]] 
+3. [[#Leading the Bridge Crews]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Avarak Matal]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Tiene los ojos azul pálido. Peina su cabello oscuro con una compleja trenza decorada con piedras preciosas y lleva las uñas pintadas de rojo rubí. Viste [[Havah\|havahs]] de seda muy adornados en colores como el rojo intenso y el violeta. Su mano libre es "delicada" y su aspecto general es el de alguien importante.
-Hashal es impetuosa, vengativa y despiadada. Hace alarde de su riqueza e influencia y es transportada en palanquín por los campos de guerra. Es muy elitista y considera a los [[Ojos oscuros\|ojos oscuros]] e incluso a los ojos claros de un [[Dahn\|dahn]] inferior como seres inferiores a ella, cuando no infrahumanos. No valora la vida de los hombres del puente y nunca cambiará de opinión sobre ellos.
+## Appearance and Personality
+She has pale blue eyes. She styles her dark hair in a complex weave decorated with infused gemstones and she wears ruby-red nail polish. She wears heavily embellished silk [[Havah\|havahs]] in colors such as deep red and violet. Her freehand is "delicate" and her general appearance is that of someone important.
+Hashal is imperious, vindictive, and ruthless. She flaunts her wealth and influence, and is transported through the warcamps by palanquin. She is highly elitist, and regards [[Darkeyes\|darkeyed]] people and even lighteyes of a lower [[Dahn\|dahn]] as beneath her, if not subhuman. She places no value on the lives of bridgemen and will never change her mind about them.
 
-## Atributos y habilidades
-Tiene un suave acento aristocrático de [[Kholinar\|Kholinar]], lo que implica que procede de la capital alezi. Es capaz de escribir en [[Escritura femenina\|escritura femenina]]. Ella y su marido son de un dahn alto, quizá el cuarto o el quinto, y son estrechos colaboradores del alto príncipe Sadeas.
+## Attributes and Abilities
+She has a smooth, aristocratic [[Kholinar\|Kholinar]] accent, implying that she hails from the Alethi capital. She is able to write in [[Women's script\|women's script]]. She and her husband are of a high dahn, perhaps the fourth or fifth, and are close associates of Highprince Sadeas.
 
-## Historia
-### Compra de Kaladin
->“*Puedo ver lo que estoy comprando, esclavista —dijo con suave acento aristocrático—. Los inspeccionaré yo misma.*”
-\-Hashal, a Tvlakv[2]
+## History
+### Purchase of Kaladin
+>“*I can see what I am purchasing, slaver. I will inspect them myself.*”
+\-Hashal, to Tvlakv[2]
 
 
-Hashal vivía en las [[Llanuras Quebradas\|Llanuras Quebradas]] con su marido durante la [[Guerra de la Venganza\|Guerra de la Venganza]]. Se reunió con [[Tvlakv\|Tvlakv]] para comprarle esclavos para la producción de madera. Ella intimidó a Tvlakv, regateando rápidamente su precio a la baja. Mientras inspeccionaba a los esclavos, manoseando a algunos de ellos, se sintió intrigada por el físico de [[Kaladin\|Kaladin]] y su glifo *shash*. Kaladin se ofreció a servir como soldado, pero Tvlakv lo identificó inmediatamente como desertor.Kaladin arremetió contra él, sobresaltando a Hashal. Esta compró a varios de los esclavos, asignando a algunos a tareas forestales, pero se llevó a Kaladin y a otros nueve que consideraba "corrompidos" a [[Lamaril\|Lamaril]] y [[Gaz\|Gaz]] para que sirviesen como [[Hombres de los puentes\|hombres de los puentes]], dando instrucciones a los oficiales de que Kaladin recibiese un "trato especial".
+Hashal lived on the [[Shattered Plains\|Shattered Plains]] with her husband during the [[War of Reckoning\|War of Reckoning]]. She met with [[Tvlakv\|Tvlakv]] seeking to buy some slaves from him for timber production. She intimidated Tvlakv, and quickly bargained his price down. As she inspected the slaves, manhandling some of them, she was intrigued by [[Kaladin\|Kaladin's]] physique and his *shash* glyph. Kaladin offered to serve as a soldier, but Tvlakv immediately identified him as a deserter. Kaladin lashed out at him, startling Hashal. Hashal bought a number of the slaves, assigning some to forest duty but taking Kaladin and nine others that he was thought to have "corrupted" to [[Lamaril\|Lamaril]] and [[Gaz\|Gaz]] to serve as [[Bridgemen\|bridgemen]], instructing the officers that Kaladin should be given "special treatment".
 
-### Dirigiendo las cuadrillas del puente
->“*Mi esposo no pretende dirigir las cuadrillas con la laxitud de su predecesor. Mi esposo es un asociado honorado y bien respetado del alto príncipe Sadeas en persona, no un perro casi ojos oscuros como Lamaril.*”
+### Leading the Bridge Crews
+>“*My husband does not intend to run the bridge crews with his predecessor's laxness. My husband is a well-respected and honored associate of Highprince Sadeas himself, not some near-darkeyed mongrel like Lamaril.*”
 \-Hashal[1]
 
 
-  Montada en un palanquín llevado por <<Parshmenio\|parshmenios>> mientras su <<Avarak Matal\|esposo>>, <<Kaladin\|Kaladin>>, y <<Gaz\|Gaz>> miran.
-Lamaril fue ejecutado tras la desastrosa primera batalla con el porte lateral del Puente Cuatro, y Avarak Matal solicitó convertirse en capitán de la cuadrilla de los puentes de Sadeas, un movimiento presumiblemente iniciado por Hashal. Hashal menospreció a Lamaril e inmediatamente se hizo cargo de la programación y la asignación de cuadrillas para poder castigar a Kaladin y al Puente Cuatro. Abandonó la política de asignar cuadrillas a distintos tipos de trabajo y, en su lugar, asignó al Puente Cuatro al trabajo permanente en la sima. A pesar de que sabía que el Puente Cuatro estaba muy escaso de personal, dejó de asignarles nuevos miembros y sólo les dio al parshmenio más tarde conocido como [[Shen\|Shen]] como "experimento". Empezó a obligar al Puente Cuatro a realizar la limpieza los mismos días de las carreras de los puentes. Después de que Gaz abandonase su puesto, Hashal empezó a dar personalmente a Kaladin y a los demás jefes de puente su horario de cada mañana. Ella ignoró deliberadamente cualquier pregunta sobre el paradero de Gaz. Dado que el Puente Cuatro aún no había cedido, comenzó a hacer que participasen en cada carrera de los puentes y aumentó su cuota de recolección para agregar más estrés, apenas permitiéndoles dormir.
+  Riding a palanquin carried by <<Parshmen\|parshmen>> while her <<Avarak Matal\|husband>>, <<Kaladin\|Kaladin>>, and <<Gaz\|Gaz>> watch.
+Lamaril was executed after the disastrous first battle with Bridge Four's side carry, and Avarak Matal requested to become the captain of the Sadeas bridgecrews, a move presumably initiated by Hashal. Hashal disparaged Lamaril and immediately took over scheduling and crew assignments so that she could target Kaladin and Bridge Four with punitive actions. She discontinued the policy of assigning crews to different types of work duty, instead assigning Bridge Four to permanent chasm duty. Even though she knew that Bridge Four was severely undermanned, she stopped assigning them new members, only giving them the parshman later known as [[Shen\|Shen]] as an "experiment". She started forcing Bridge Four to perform scavenging on the same days as bridge runs. After Gaz deserted his post, Hashal personally began giving Kaladin and the other bridgeleaders their schedule each morning. She pointedly ignored any questions concerning Gaz's whereabouts. Since Bridge Four had still not broken, she started making them take part in every bridge run and increased their scavenging quota to add more stress, barely allowing them to sleep.
 
->“*Tu equipo es demasiado bueno. Hay que utilizarlo. Empezaréis el servicio de puente a tiempo completo mañana. Considéralo..., un honor.*”
-\-Hashal, a Kaladin[3]
+>“*Your team is just too good. It must be used. You'll start full-time bridge duty tomorrow. Consider it an ... honor."*”
+\-Hashal, to Kaladin[3]
 
-Kaladin se dio cuenta de que Hashal no se dejaría convencer por la lógica o la razón, ya que su único objetivo era acabar con el Puente Cuatro. Los hombres del Puente Cuatro creían que [[Torol Sadeas\|Torol Sadeas]] le había ordenado que los tratase con tanta dureza para poder librarse de Kaladin, que había llamado mucho la atención por sobrevivir a la intemperie en una [[Alta tormenta\|alta tormenta]]. La frustración de Kaladin con Hashal contribuyó a una de sus primeras experiencias respirando [[Luz tormentosa\|luz tormentosa]]. El Puente Cuatro siguió sobreviviendo a pesar de los esfuerzos de Hashal y Avarak por socavarlos. Esto presentó a Hashal un dilema, ya que la tripulación estaba ganando elogios de Sadeas (incluyendo un ascenso para Matal), lo que le impedía eliminar a Kaladin como su líder. Hashal se atribuyó el mérito de la innovación de usar un caparazón de [[Oyente\|oyente]] como armadura; Kaladin fue capaz de engañarla respecto a su rareza, reduciendo las cuotas de recolección de piedras de la tripulación. Ignoró cualquier pregunta sobre el origen de la armadura.
-Tras la [[Batalla de la Torre\|batalla de la Torre]], cuando el Puente Cuatro salvó a [[Dalinar Kholin\|Dalinar Kholin]] y a algunos de sus hombres a pesar de la traición de Sadeas, Kaladin sospechó que Matal sería considerado responsable y ejecutado, al igual que Lamaril lo había sido antes que él. Sin embargo, se desconoce el destino de Matal y Hashal.
+Kaladin realized that Hashal would not be swayed by logic or reason, as her only goal was to kill off Bridge Four. The men of Bridge Four believed that she had been ordered to treat them so harshly by [[Torol Sadeas\|Torol Sadeas]] so that he could rid himself of Kaladin, who had attracted a large amount of attention for surviving outside in a [[Highstorm\|highstorm]]. Kaladin's frustration with Hashal contributed to one of his early experiences breathing in [[Stormlight\|Stormlight]]. Bridge Four continued to survive despite Hashal and Avarak's efforts to undermine them. This presented Hashal with a quandary, as the crew was earning the couple accolades from Sadeas (including a promotion for Matal), preventing her from removing Kaladin as their leader. Hashal took credit for the innovation of using [[Singer\|singer]] carapace as armor; Kaladin was able to deceive her regarding its rarity, reducing the crew's scavenging quotas. She ignored any questions about the armor's origin.
+After the [[Battle of the Tower\|Battle of the Tower]], when Bridge Four saved [[Dalinar Kholin\|Dalinar Kholin]] and some of his men despite Sadeas's betrayal, Kaladin suspected that Matal would be held responsible and executed, just as Lamaril had been before him. However, the fate of Matal and Hashal is not known.
 
-## Relaciones
+## Relationships
 ### Avarak Matal
-Aunque [[Avarak Matal\|Avarak]] es el capitán de las cuadrillas del puente por título, es una figura decorativa. Suele permanecer en silencio mientras Hashal habla por él, excepto en el campo de batalla, donde las mujeres no están presentes. Hashal y sus subordinados hacen referencias simbólicas a los deseos de su marido, pero Hashal se encarga claramente de los horarios, la disciplina y otras normas. Hashal parece más ambiciosa que Avarak, pero participa de buen grado en sus planes, y también llega a odiar a Kaladin y al Puente Cuatro. Aunque las mujeres alezi de ojos claros suelen adoptar el apellido de su marido, no está claro si Hashal lo ha hecho.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 16:46, 7 April 2021 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Although [[Avarak Matal\|Avarak]] is the captain of the bridge crews by title, he is a figurehead. He usually remains silent while Hashal speaks for him, except on the battlefield where women are not present. Hashal and her subordinates make token references to her husband's wishes, but Hashal is clearly in charge of scheduling, discipline, and other regulations. Hashal seems to be more ambitious than Avarak, but he is a willing participant in her schemes, and also comes to hate Kaladin and Bridge Four. Although lighteyed Alethi women typically take their husband's last name, it is not clear if Hashal has done so.
 
 
 
-https://es.coppermind.net/wiki/Hashal
+https://coppermind.net/wiki/Hashal

@@ -1,124 +1,116 @@
-
-
 |**Ati**|
 |-|-|
 ||
-|**Fallecido**|1025|
-|**Capacidades**|[[Esquirla\|Esquirla]] [[Ruina\|Ruina]]|
-|**Títulos**|[[Ruina\|Ruina]]|
-|**Apodos**|Herr|
-|**Mundo natal**|[[Yolen\|Yolen]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final\|El Imperio Final]]*|
+|**Died**|1025 [[Final Empire\|FE]]|
+|**Abilities**|[[Shard\|Shard]] of [[Ruin\|Ruin]]|
+|**Titles**|[[Ruin\|Ruin]]|
+|**Aliases**|Herr|
+|**Homeworld**|[[Yolen\|Yolen]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-Este artículo es sobre el [[Recipiente\|Recipiente]]. Para el Aon, ver [[/wiki/Aon#Ati]].
->“*La muerte no es malvada, Kelsier. La muerte es necesaria.*”
+This article is about the [[Vessel\|Vessel]]. For the Aon, see [[/wiki/Aon#Ati]]. For the [[Seon\|seon]], see [[Ati (seon)\|Ati (seon)]].
+>“*Death is not evil, Kelsier. Death is necessary.*”
 \-Ati[2]
 
 
-**Ati** es humano, el [[Recipiente\|Recipiente]] original de la [[Esquirla\|Esquirla]] de [[Ruina\|Ruina]] y es originario del planeta [[Yolen\|Yolen]]. Él y [[Leras\|Leras]], el Recipiente de [[Conservaci%C3%B3n\|Conservación]], crearon [[Scadrial\|Scadrial]] juntos, antes de que Leras lo traicionara y lo dejara atrapado en el .
+**Ati** is a human and the original Vessel of the [[Shard\|Shard]] [[Ruin\|Ruin]], hailing from the planet [[Yolen\|Yolen]]. He and [[Leras\|Leras]], the Vessel of [[Preservation\|Preservation]], created [[Scadrial\|Scadrial]] together before Leras betrayed him and trapped him in the [[Well of Ascension\|Well of Ascension]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+
+1. [[#Appearance]] 
+1. [[#Personality]] 
+
+1. [[#Mortal]] 
+1. [[#Vessel]] 
+
+
+
+
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Leras]] 
 4. [[#Vin]] 
 4. [[#Kelsier]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Para más imágenes, ver [[Ati/Galer%C3%ADa\|/Galería]].
->“*Piensa en mí como en un cuidador… el que vigila la tienda y se asegura de que las luces están apagadas, que todo está recogido cuando llega la hora de cerrar.*”
+For more images, see [[Ati/Gallery\|/Gallery]].
+>“*Think of me as a caretaker—the one who watches the shop and makes certain that the lights are turned out, that everything is cleaned up, once closing time arrives.*”
 \-Ati[5]
 
 
-Poco se sabe sobre la apariencia de Ati; tiene el cabello de color rojo fuego y una sonrisa amigable y acogedora. Cuando toma forma humana viste con túnica y tiene lo que parecen sombras moviéndose por debajo de su piel, similares a espinas o patas de araña. Estas sombras presionan su forma desde el interior, haciendo que ésta se tense y comprima hacia fuera de manera errática. Varía en cómo de intenso es este efecto ya que a veces es menos pronunciado y otras veces lo es más. Cuando habla con Vin, Ati usa la voz de [[Reen\|Reen]], aunque suena más envejecida y paternal.
-Cuando era mortal, Ati era conocido por ser bueno y generoso. Pero tras obtener a Ruina, durante años, peleó contra los impulsos destructivos que la Esquirla le provocaba. Con el tiempo, Ruina ganó y adaptó esa bondad a su propia Intención.
-Actualmente, Ati busca la destrucción de todo lo que existe. Cree que, con el tiempo, toda vida debe terminar y que obligarla a sobrepasar su fecha de caducidad es cruel. En su opinión, la destrucción que causa tiene un propósito creador; sin muerte, no puede haber más vida. Al mismo tiempo, es orgulloso y presumido. Le gusta deleitarse con todos aquellos a los que ha derrotado y suele aparecer frente a sus víctimas para regodearse en su victoria. Esta misma cualidad es su punto débil, ya que normalmente le lleva a subestimar a sus oponentes.
+### Appearance
+Little is known about Ati's appearance; he has flame-red hair, and a welcoming, friendly smile. When taking on human form, he wears a robe, and has shadows moving beneath his skin, akin to spines or spider legs. They push against his form, making it pucker outwards erratically. How intense this effect is varies; it's sometimes less pronounced, and sometimes more. When speaking to Vin, Ati uses [[Reen\|Reen's]] voice, though he sounds more aged and fatherly.
 
-## Habilidades y atributos
-  Dando una orden a un <<Inquisidor\|Inquisidor>>
->“*Pero si estoy en todo tu alrededor, en el aire que finges respirar, en el suelo bajo tus pies. Estoy en ese cuchillo y en tu propia alma.*”
+### Personality
+#### Mortal
+As a mortal, Ati was known for being kind and generous. After taking up Ruin, he fought against the destructive impulses it brought about for many years. Over time, however, Ruin won out, and adapted this kindness to its own intent. This fundamentally warped his personality, leaving him nearly unrecognizable from his original self.
+During his mortal life, he was driven to kill Adonalsium, either due to desire for power or a belief in the necessity of the action. Displaying the willingness to kill, either for a cause he believed in, or to gain power.
+After dying and losing his Connection to Ruin, he quickly accepted his death and passed into the [[Beyond\|Beyond]]. If he continued to exist in the Physical or Cognitive Realms instead of passing away into the Beyond, his personality would have returned to his original one, though his soul would forever carry scars from his time as a Vessel, likely keeping his personality from truly returning to normal.
+
+#### Vessel
+As Ruin, Ati wants to see the destruction of everything in existence. He believes that all life must end eventually, and to force it to carry onward past its expiration date is cruel. In his opinion, the destruction he causes serves a creative purpose; without death, there can be no further life. Through this framework of understanding his Intent, he sees himself as a sort of caretaker of reality, and as the representative of change itself, and of necessary entropy and decay. Following from this, he does not see himself as evil, but as a natural and necessary force of nature.
+He sees great beauty in destruction and endings, and sees it as something one shouldn't mourn, but rather take joy in. As he sees destruction as completion, and finds sublime beauty in that. He claims that the only reason to create something is to watch it die, to reach its ordained completion. He attempts to comfort those that resist him, and convince them of his own necessity, and of the inherent goodness in finality.
+As a result of this insatiable craving, he hates how his force of change and destruction is always resisted by [[Preservation\|Preservation's]] stasis and protection, leading to neither being able to do anything. He considers this state of balance the curse of his existence. He even curses balance itself, due to his experiences with the concept.
+At the same time, Ati is prideful and boastful. He considers himself to be a fundamental aspect of reality, and considers himself to be God. He seems to revel in mocking those he has defeated, and will appear in front of his victims to gloat about his victory. This very quality is his weak point, as it often leads him to underestimating his opponents. When people reject his perceived superiority, especially when they rebel against him, he becomes deeply angered.
+As a megalomaniacal figure, Ati is subtly manipulative, manipulating people in order to fulfill his goals and desires. He subtly manipulates people in order for them to play into his plans, either through speaking directly into their mind, or through changing the text of documents in manners that fit with his agenda. He even directly controls the minds of those spiked with enough [[Hemalurgy\|hemalurgic spikes]] to leave their soul vulnerable to his influence, warping their thoughts and emotions to fit his Intent and his greater plans, as he sees people as little more than pawns in his game. and feels a sense of ownership over them.
+
+## Abilities and Attributes
+  Commanding an <<Inquisitor\|Inquisitor>>
+>“*I'm all around you—the air you pretend to breathe, the ground beneath your feet. I’m in that knife and in your very soul.*”
 \-Ati[2]
 
 
-Ati es una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]], lo que le convierte en una de las entidades más poderosas del [[Cosmere\|cosmere]]. Es inmortal, incorpóreo y no envejece. Aparte, alimenta la magia de la [[Hemalurgia\|hemalurgia]] y, en parte, la [[Feruquimia\|feruquimia]]. Al estar muy investido en [[Scadrial\|Scadrial]], puede alterar cualquier texto que no esté escrito en metal, cambiándolo según sus necesidades. También puede comunicarse con cualquier persona que tenga un clavo hemalúrgico. Esto provocó un cambio drástico en la personalidad de Ruina, ya que su mente había sido forzada a adaptarse a la intención de [[Ruina\|Ruina]].
-Aparte de sus poderes supernaturales, Ati ha demostrado ser un experto en el engaño cuando así lo desea. Sus alteraciones son lo suficientemente sutiles como para engañar a los desprevenidos para que piensen que todavía están leyendo el texto original. Cuando aparece en persona, puede tomar el papel de otro. Ejemplos notables: estuvo hablándole a [[Vin\|Vin]] utilizando la voz de [[Reen\|Reen]] durante años, sin que en ningún momento ella se diese cuenta que no estaba escuchando sus propios pensamientos. Y también imitó la voz de [[Kelsier\|Kelsier]] para conseguir que [[Fantasma\|Fantasma]] sirviera a los propósitos de Ruina. A pesar de sus tendencias destructivas y megalomaníacas, puede interpretar con facilidad a alguien bueno y amable.
+Ati is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making him one of the most powerful entities in the [[Cosmere\|cosmere]]. He is immortal, unaging, and incorporeal; he fuels the magics of [[Hemalurgy\|Hemalurgy]] and, in part, [[Feruchemy\|Feruchemy]]. Thanks to being heavily Invested in [[Scadrial\|Scadrial]], he can alter any text other than what is written in metal, changing it to suit his needs. He can also speak to any person wearing a hemalurgic spike. This all comes at a cost of a drastic personality change, as his mind was forced to adapt to [[Ruin\|Ruin's]] intent.
+Apart from his supernatural abilities, Ati has proven to be adept at deception, when he wishes to be. His alterations are subtle enough to trick the unaware into thinking they are still reading the original text. When appearing in person, he can easily play a role of another; most notably, he was speaking in [[Reen\|Reen's]] voice in [[Vin\|Vin's]] head for years without tipping her off to the fact that she wasn't hearing her own thoughts, and he mimicked [[Kelsier\|Kelsier's]] voice to [[Spook\|Spook]] to drive him to serve Ruin's purposes. Despite his destructive, megalomaniacal tendencies, he is easily able to play someone kind and affable.
 
-## Historia
-Nada se sabe de los orígenes de Ati y de su vida antes de la [[Fragmentaci%C3%B3n\|Fragmentación]], aparte de ser originario de [[Yolen\|Yolen]]. Por alguna razón desconocida, él, junto a otros, rompió a la deidad creadora del Cosmere en dieciséis partes. De entre esas dieciséis cogió a [[Ruina\|Ruina]] y después viajó junto con [[Conservaci%C3%B3n\|Conservación]] a un sistema estelar vacío que, con el tiempo, se convertiría en [[Scadrial\|Scadrial]].
+## History
+Nothing is known about Ati's origins and life prior to the [[Shattering\|Shattering]], other than that he came from [[Yolen\|Yolen]]. For unknown reason, ten-thousand years before the True Desolation, he and a group of others broke cosmere's creator deity, Adonalsium, into sixteen pieces. Of those sixteen, he took up [[Ruin\|Ruin]], and departed alongside [[Preservation\|Preservation]] for an empty star system that would eventually become [[Scadrial\|Scadrial]].
 
-Para las acciones de Ati como Ruina, ver [[/wiki/Ruina#Historia]].
-Tras su muerte a manos de [[Vin\|Vin]], el cuerpo de Ati reapareció en el lugar donde ambos se habían enfrentado. Su [[Sombra Cognitiva\|sombra cognitiva]] se manifestó brevemente en el [[Reino Cognitivo\|Reino Cognitivo]] de [[Scadrial\|Scadrial]], donde, al principio, se mostró confuso, preguntándose si se encontraba en [[Vax\|Vax]]. Desafortunadamente para él, se manifestó cerca de [[Kelsier\|Kelsier]], quien le dio un puñetazo como venganza. Con una triste aceptación, Ati desapareció hacia el [[M%C3%A1s All%C3%A1\|Más Allá]].
+For Ati's actions as Ruin, see [[/wiki/Ruin#History]].
+Following his death at the hands of [[Vin\|Vin]], Ati's body reappeared at the site where the two clashed. His [[Cognitive Shadow\|Cognitive Shadow]] briefly manifested in Scadrial's [[Cognitive Realm\|Cognitive Realm]], where he was initially confused, wondering if he'd found himself on [[Vax\|Vax]]. Unfortunately for him, he manifested near [[Kelsier\|Kelsier]], who promptly decked him in the face as retaliation. With glum acceptance, Ati faded away into the [[Beyond\|Beyond]].
 
-## Relaciones
+## Relationships
 ### Leras
->“*Como si pudiera hacer daño a alguien, aunque sea yo.*”
-\-Ati sobre Leras[2]
+>“*As if he could harm even me.*”
+\-Ati about Leras[2]
 
 
-Se desconoce si hubo alguna relación entre Ati y Leras antes de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Los dos dejaron [[Yolen\|Yolen]] juntos, aunque no está claro si fue debido a algún vínculo personal que los unía, o simplemente porque ambos se habían dado cuenta de la necesidad de sus Esquirlas para balancearse mutuamente. Sin embargo, Leras engaña a Ati; primero, convenciéndole para crear Scadrial juntos, usando el pretexto de que se le permitiría destruirlo más tarde, y segundo, se sacrifica para atrapar la mente de Ruina en el .
-Para cuando Ruina se libera, los dos se muestran extremadamente hostiles el uno con el otro. Ati se muestra desdeñoso hacia Leras, burlándose de su debilidad y de las limitaciones que su Intención le ha impuesto. Leras odia como Ati usó su poder para cambiar y torcer la religión de ambos para que solo se le adore a él, y lamenta el cambio que produjo la Esquirla en la personalidad de Ati. Ninguno de los Recipientes, teme al otro; Ati no cree que Conservación sea capaz de oponerse a él, y Leras por su lado, al estar técnicamente muerto, ya se encuentra fuera del alcance de Ati.
+It's unknown what, if any, relationship there was between Ati and Leras prior to the [[Shattering\|Shattering]]. The two left [[Yolen\|Yolen]] together, though it's unclear whether this was due to personal attachment or simply because they realized the need for their Shards to balance each other out. However, Leras tricked Ati; first convincing him to create Scadrial together, under the pretense that he'd be allowed to destroy it later, then sacrificing himself to trap Ruin's mind within the [[Well of Ascension\|Well of Ascension]].
+By the time of Ruin's release, the two are extremely hostile to each other. Ati is dismissive of Leras, mocking his weakness and the limitations placed on him by his intent. Leras hates how Ati used his power to twist and change their religion to worship only himself, and bemoans the change in Ati's personality brought about by the Shard. Neither Vessel is afraid of the other; Ati, because he doesn't believe Preservation is capable of opposing him, and Leras, because he's already dead and thus out of Ati's reach.
 
 ### Vin
-  <<Vin\|Vin>> y Ruina
->“*Todos estáis de mi parte, Vin. Yo os creé. Sois mis herramientas… todos y cada uno de vosotros.*”
+  <<Vin\|Vin>> and Ruin
+>“*You're all on my side, Vin. I created you. You’re my tools—each and every one of you.*”
 \-Ati[5]
 
 
-Ati considera a Vin como una de sus mejores agentes y se esforzado mucho para moldearla según sus propósitos como una herramienta apropiada que sirva para causar el final de todas las cosas. Seleccionó a Vin nada más nacer debido a una serie de circunstancias inusuales: era una [[Alomancia\|nacida de la bruma]], con una hermana [[Buscador\|buscadora]] y una madre demente a quien Ruina podía influenciar. Y así, empujó a su madre a matar a su hermana y meter el poder de esta en un clavo hemalúrgico, el cual se convertiría en el pendiente de Vin.
-Tras la muerte de [[Reen\|Reen]] Ruina usa su voz para hablar con Vin a través del pendiente para así influir en ella, principalmente para conseguir que desconfiase de otros. También altera varios textos para convencer a la gente de que Vin es el [[H%C3%A9roe de las Eras\|Héroe de las Eras]], lo que conduce a esta a visitar el . Allí interpreta el papel de una persona bondadosa para convencerla de que libere el poder del pozo, y así, liberarle.
-Justo tras liberarse, Ruina se comunica con Vin con mucha frecuencia, tratando de acabar con su espíritu y asegurarse que no lleve a cabo los planes que [[Conservaci%C3%B3n\|Conservación]] tiene para ella. Sin embargo, es este mismo alarde lo que hace que Vin se de cuenta de que no está hablando con una fuerza de la naturaleza, sino con una persona, con sus propias debilidades humanas. En lugar de sentirse derrotada, una vez más una esperanzada Vin vuelve a creer que se puede vencer a Ruina. El error final que comete Ati con Vin es matar a Elend, pensando que eso la empujaría a tocar fondo en su desesperación. En vez de eso, ella se recupera y, libre de su última atadura al mundo de los vivos, lo desafía, lo que acaba con ambos matándose entre sí.
+Ati considers Vin one of his greatest agents, and has taken great pains to twist her to his purposes in order to have an appropriate tool to bring about the end. She was selected at birth due to an unusual combination of circumstances: she herself a [[Allomancy\|Mistborn]], with a [[Seeker\|Seeker]] sister and an insane mother whom Ruin could influence. As such, he drove the mother to kill the sister and put her power into a Hemalurgic spike that would become Vin's earring.
+After [[Reen\|Reen's]] death, Ruin often makes use of his voice, speaking to Vin through the earring to influence her, mostly to make her less trusting of others. He also alters various texts to convince people that Vin is the [[Hero of Ages\|Hero of Ages]], leading to her visiting the [[Well of Ascension\|Well of Ascension]]. There, he puts on a kindly persona to convince her to release the Well's power and thus free him.
+In the period following his release, Ruin frequently speaks to Vin, trying to beat down her spirit and ensure she would not fulfill [[Preservation\|Preservation's]] plans for her. However, it's this very gloating that makes Vin realize that she's not speaking with a force of nature but a person, with very human failings. Rather than feeling defeat, she begins to hope once more that Ruin could be defeated. Ati's final mistake with Vin is killing Elend, thinking it would push her to the depths of despair. Instead, she rallies and, freed from her last tie to the world of the living, challenges him directly, killing them both.
 
 ### Kelsier
->“*Di lo que te dé la gana, pero no me posees. Yo no te pertenezco.*”
+>“*You can say what you wish, but you don't own me. I am **not** yours.*”
 \-Kelsier[2]
 
 
-Kelsier se entera de la existencia de Ruina una vez muere, cuando presencia como Leras le grita a Ati, desafiándolo. Durante el tiempo en que Kelsier permanece en el Pozo de la Ascensión, aprende mucho sobre la Esquirla e incluso llega a usar pequeñas porciones de su poder para ver los eventos que están ocurriendo más allá del Pozo. Acaba temiendo la posibilidad de que Ruina quede libre y trata de ayudar a Leras para evitar que Ati sea liberado, aunque fue en vano. Tras liberar Vin a Ruina, Kelsier parte para buscar una manera de derrotarlo.
-Ati ve a Kelsier como alguien divertido y Leras indica que incluso el antiguo Ati se reiría de la situación. Cuando se le aparece a Kelsier es para burlarse de él, asegurando que su victoria es inevitable. Al igual que Vin, Kelsier se da cuenta de que Ati se comporta así porque le preocupa que encuentren una manera de hacerle frente; sin embargo, eso no evita que Kelsier encuentre sus palabras perturbadoras.
-Ati vuelve a burlarse de él cuando Kelsier vuelve con el [[Orbe de Ire\|Orbe de Ire]], sugiriendo que fue él quien, en primer lugar, alentó a Kelsier en su búsqueda. Kelsier trata de proteger a Vin de la influencia de Ruina, pero incluso tras conseguir el poder de Conservación, es incapaz de hacerlo hasta el final, que es cuando le transfiere el poder de la Esquirla a ella. Solo después de que Vin use ese poder para matar a Ruina, Kelsier obtiene su venganza por todo el abuso verbal de Ati sobre él, pegándole un puñetazo tan fuerte que consigue el antiguo Recipiente se caiga al suelo.
+Kelsier first learns of Ruin's existence after his death, when he witnesses Leras scream at Ati in defiance. During the time he spends trapped in the Well of Ascension, he learns more about the Shard and even uses bits of its power to see the events happening beyond the Well. He comes to fear the possibility of its release, and tries to aid Leras in stopping Ati from breaking free, albeit to no avail. After Vin releases Ruin, Kelsier sets out to find a way to defeat it.
+Ati himself seems to find Kelsier amusing, and Leras notes that even the man's old self would laugh at the situation. When he appears to Kelsier, it's to mock him, and assure him that his own victory is inevitable. Much like Vin, Kelsier does realize that Ati is doing so partially because he is worried that Kelsier might find a way to oppose him; however, he still find Ati's words disturbing.
+When Kelsier returns with the [[Ire's orb\|Ire's orb]], Ati once again mocks him, suggesting that it was him who inspired Kelsier's quest in the first place. Kelsier tries to protect Vin from Ruin's influence, but even after taking up Preservation, he is unable to do that until the very end, when he passes the Shard's power onto her. It's only after Vin uses said power to kill Ruin that Kelsier is able to pay Ati back for all the verbal abuse, by punching him hard enough to make the former Vessel fall to the ground.
 
-## Curiosidades
-Si Ati consiguiera renunciar al poder de Ruina sin morir, su personalidad volvería a ser parecida a la que tenía antes, aunque su naturaleza como [[Lasca\|Lasca]] dejaría una marca permanente en su psique.
-Ati es un Aon que significa «Esperanza», aunque puede ser casualidad.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+If Ati managed to give up Ruin without dying, his personality would return to something closer to the original one, though his nature as a [[Sliver\|Sliver]] would leave a permanent mark on his psyche.
+Ati is potentially named after , the Greek goddess of ruin.
 
 
-
-https://es.coppermind.net/wiki/Ati
+https://coppermind.net/wiki/Ati

@@ -1,70 +1,51 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gevalden**|
 |-|-|
-|**Títulos**|Príncipe de [[Elis\|Elis]], lord mendigo|
-|**Apodos**|Gevin, [[Nilto\|Nilto]]|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎ (no-oficial)|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Oscuro\|del Lado Oscuro]]|
-|**Nacionalidad**|[[De Elis\|de Elis]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Titles**|Prince of [[Elis\|Elis]], Lord Beggar|
+|**Aliases**|Gevin, [[Nilto\|Nilto]]|
+|**Groups**|[[Taishin\|Taishin]] (unofficial)|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Darksider\|Darksider]]|
+|**Nationality**|[[Elisian\|Elisian]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
->“*Mi príncipe buscaba un arma, Loaten. Si sabes cómo murió o qué encontró, necesito saberlo.*”
-\-Khriss[2][NdT 1]
+>“*My prince sought a weapon, Loaten. If you know how he died or what he found then I need to know.*”
+\-Khriss[2]
 
 
-**Gevalden**, apodado **Gevin**, es un príncipe del reino de [[Elis\|Elis]] en el Lado Oscuro de [[Taldain\|Taldain]] y antiguo prometido de [[Khrissalla\|Khrissalla]]. Actualmente es conocido como el lord mendigo **Nilto**, el [[Taisha\|taisha]] no oficial de los mendigos de [[Lossand\|Lossand]].
+**Gevalden**, nicknamed **Gevin**, is a prince of the Kingdom of [[Elis\|Elis]] on the Darkside of [[Taldain\|Taldain]] and the former fiancé of [[Khrissalla\|Khrissalla]]. He is currently known as the Lord Beggar **Nilto**, the unofficial [[Taisha\|Taisha]] of the beggars of [[Lossand\|Lossand]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
 
 3. [[#Khrissalla]] 
 3. [[#Loaten]] 
 
 
-4 Notas del traductor. [[#Notas del traductor]] 
-5 Notes. [[#Notes]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Gevalden lleva una capucha y tiene la cara totalmente envuelta en tela, a consecuencia de un disparo de pistola en la cara que le destrozó completamente las facciones.
-Es un líder influyente en Elis, y uno de los más firmes opositores a la [[Dinast%C3%ADa\|Dinastía]]. Cree en los derechos de todas las personas, y hace todo lo posible por ayudar a los demás.
+## Appearance and Personality
+Gevalden wears a hood and has his face entirely wrapped in cloth, as a result of a pistol shot to the face that completely destroyed his features.
+He is an influential leader in Elis, and is one of the strongest opponents of the [[Dynasty\|Dynasty]]. He believes in the rights of all people, and does all he can to help others.
 
-## Historia
-Gevalden era el segundo hijo del rey de Elis, y estaba prometido a la duquesa Khrissalla en un importante acuerdo político antes de su prematura muerte. Gevalden viajó al [[Lado Diurno\|Lado Diurno]] en busca de los míticos [[Maestr%C3%ADa de la arena\|magos de la arena]], a los que los cuentos infantiles oscurenses atribuyen muchos poderes mágicos. Khriss creía que pretendía reclutar o utilizar a los magos de arena como arma para socavar la [[Dinast%C3%ADa\|Dinastía]].
-Empezó a ganar mucha influencia entre la gente de Lossand bajo el nombre de Nilto, llegando a ser conocido como el lord mendigo y, gracias a su influencia, convirtiéndose en un [[Taisha\|taisha]] de facto. En algún momento, [[Ais\|Ais]] empezó a sospechar que era el violento lord del crimen conocido como [[Sharezan\|Sharezan]], y se dedicó a buscar pruebas para condenarlo.
-La noticia de la muerte de Gevin impulsó a su prometida a organizar su propio viaje al Lado Diurno en busca de los magos de arena y de la verdad que se oculta tras la muerte de Gevalden. Tras llegar a [[Kezare\|Kezare]], Khriss se reunió con [[Loaten\|Loaten]], quien le informó de que Gevalden también llegó a Kezare, pero renunció a su objetivo original antes de morir. Loaten se mostró reacio a compartir más detalles con Khrissalla, pero implicó a la Dinastía. Khriss supuso que Gevin también debía de haberse reunido con el [[Taishin\|Taishin]] [[Lossand\|lossandino]] durante su estancia en Kezare. Cuando descubrió a los maestros de la arena, supuso que él también había encontrado al [[Diem\|Diem]] y les había pedido ayuda, aunque [[Kenton\|Kenton]] no tiene constancia de tal encuentro. En su primer encuentro con [[Nilto\|Nilto]], el lord mendigo le dio la pistola y el anillo de Gevalden, pero se negó a explicarle por qué estaban en su poder.
-Durante un encuentro con Khriss, Nilto la llamó erróneamente por su apodo, haciéndole comprender su verdadera identidad como Gevin. Ella se enfrentó a él en los muelles cuando intentaba abandonar la ciudad, y él afirmó que ya no tenía ningún deber u obligación para con Elis. [[Jon Acron\|Jon Acron]] apareció y se reveló como un asesino enviado por la Dinastía para matar a Gevalden, y disparó a [[Baon\|Baon]] antes de perseguir a Khriss y Gevin. Khriss utilizó una grúa para derribarlo y matarlo en el puerto. Volvió a pedir a Gevin que regresara con ella al Lado Oscuro, pero él le explicó que quería elegir su propio camino, y que nunca podría regresar tras la herida que sufrió hace dos años.
+## History
+Gevalden was the second son of the king of Elis, and was betrothed to the Duchess Khrissalla in an important political arrangement before his untimely death. Gevalden journeyed to [[Dayside\|Dayside]] in search of the mythical [[Sand mastery\|sand mages]], who are reputed by Darksider children's stories to hold many magical powers. Khriss believed that he sought to recruit or use the sand mages as a weapon to undermine the [[Dynasty\|Dynasty]].
+He began to gain a large amount of influence amongst the people of Lossand under the name Nilto, becoming known as the Lord Beggar, and through his influence, becoming a de facto [[Taisha\|Taisha]]. At some point, [[Ais\|Ais]] began to suspect him of being the violent crime lord known as [[Sharezan\|Sharezan]], and dedicated herself to finding evidence to convict him.
+News of Gevin's death prompted his fiancée to organize her own journey to Dayside in search of the sand mages and the truth behind Gevalden's death. After arriving in [[Kezare\|Kezare]], Khriss met with [[Loaten\|Loaten]] who informed her that Gevalden reached Kezare as well but gave up on his original goal before he died. Loaten was reluctant to share more details with Khrissalla, but implicated the Dynasty. Khriss supposed that Gevin must also have met with the [[Lossand\|Lossandin]] [[Taishin\|Taishin]] during his time in Kezare. Upon her discovery of the sand masters, she assumed that he must have found the [[Diem\|Diem]] as well and petitioned them for help, though [[Kenton\|Kenton]] has no records of such a meeting. Upon her first encounter with [[Nilto\|Nilto]], the Lord Beggar gave her Gevalden's pistol and ring, but refused to explain why they were in his possession.
+During a meeting with Khriss, Nilto mistakenly called her by her nickname, letting her realize his true identity as Gevin. She confronted him at the docks as he was attempting to leave the city, and he claimed he no longer had any duty or obligation to Elis. [[Jon Acron\|Jon Acron]] appeared and revealed himself to be an assassin sent by the Dynasty to kill Gevalden, and he shot [[Baon\|Baon]] before chasing after Khriss and Gevin. Khriss used a crane to knock him to his death in the harbor. She again asked Gevin to return with her to Darkside, but he explained that he wanted to choose his own path, and that he could never return after his injury two years ago.
 
-## Relaciones
+## Relationships
 ### Khrissalla
-Aunque su compromiso se concertó por motivos políticos, el apelativo que Gevalden le puso, Khriss, sugiere que el príncipe sentía cierto afecto personal por la duquesa. El propio dolor de Khriss por la muerte de su prometido sugiere que ella le correspondió. Tras descubrir su identidad como Nilto, Khriss le pide que se quede con ella y regrese a Elis. Le explica que, aunque sabe que todo lo que tuvieron fue un simple artificio de la tradición, aún así podría haberle amado. Gevalden le dice que ella le ha superado, y que eso ya no es cierto.
+While their engagement was arranged for political reasons, Gevalden's pet name for her, Khriss, suggests the prince held some personal affection for the duchess. Khriss's own grief over her fiancé's death suggests that she returned the sentiment. After discovering his identity as Nilto, Khriss asks him to stay with her and return to Elis. She explains that although she knows all they had was simply a contrivance of tradition, she still could have loved him. Gevalden tells her that she has outgrown him, and this is no longer true.
 
 ### Loaten
-Gevalden se relacionó con Loaten tras llegar a Kezare, y al parecer ambos entablaron cierta amistad, como demuestra el hecho de que Loaten utilizara el apodo del príncipe, Gevin.
-
-## Notas del traductor
-
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] ·  · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+Gevalden associated with Loaten after reaching Kezare, and the two apparently became friends to some degree, as evidenced by Loaten's use of the prince's nickname, Gevin.
 
 
 
-https://es.coppermind.net/wiki/Gevin
+https://coppermind.net/wiki/Gevin

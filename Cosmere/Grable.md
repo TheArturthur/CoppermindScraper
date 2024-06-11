@@ -1,55 +1,41 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Grable**|
 |-|-|
-|**Oficio**|Jefe de ladrones, dueño de un restaurante|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Profession**|Crime lord, restaurateur|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Hallandren\|Hallandren]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Grable es dueño de este restaurante, princesa. No me extrañaría que al menos uno de cada dos hombres aquí presentes fuera guardaespaldas suyo.*”
+>“*Grable owns this restaurant, Princess. Every second man in this room is probably a bodyguard.*”
 \-Tonk Fah[1]
 
 
-**Grable** es un hostelero e infame jefe de ladrones de [[T'Telir\|T'Telir]] en [[Nalthis\|Nalthis]].
+**Grable** is a restaurateur and infamous thief lord in [[T'Telir\|T'Telir]] on [[Nalthis\|Nalthis]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Grable hace gala de su riqueza vistiendo colores llamativos, y de su influencia por el número de guardaespaldas que le acompañan. Sin embargo, su aspecto se ve empañado por una larga barba grasienta y la falta de dientes. Es cauteloso, confabulador y codicioso.
-
-## Historia
-Grable fue abordado por Denth y [[Vivenna\|Vivenna]] porque era un firme partidario de la rebelión de [[Vahr\|Vahr]], y Denth esperaba que siguiera alimentando los disturbios en la ciudad de T'Telir atacando caravanas de alimentos. Tardó semanas en concertar una reunión con él en uno de sus restaurantes, y Denth le pagó sólo por su tiempo.
-
->“*Es una lástima que no podamos hacer negocios. Espero que pienses en mí para futuros asuntos.*”
-\-Grable, después de que Denth mate a algunos de sus guardaespaldas[1]
-
-Grable no creía que Vivenna fuera realmente la princesa de [[Idris\|Idris]], sino que suponía que simplemente tenía suficiente sangre real para [[Mechones Reales\|cambiar el color de su pelo]]. Sin embargo, dejó claro que, aunque fuera una impostora, seguiría siendo útil para llevar a cabo varios planes en la ciudad. Rápidamente quedó claro que Grable estaba más interesado en tener a Vivenna para sus propios fines que en ayudar a su causa.
-Cuando Denth se negó a "vender" a Vivenna, los guardaespaldas de Grable fueron a atacarle, pero él los mató al instante. El ataque fue un intento de apoderarse de Vivenna por la fuerza en lugar de pagar por ella, o de poner a prueba la reputación de Denth como espadachín y mercenario. Según [[Tonk Fah\|Tonk Fah]], el encuentro fue beneficioso para Grable en ambos sentidos: "O conseguía comprobar la habilidad de Denth o te conseguía a ti (Vivenna)."
-Grable reaccionó con indiferencia ante la pelea de espadas. En su lugar, mencionó que había sospechado de Denth desde su repentina aparición una década antes, y señaló astutamente el misterioso pasado de Denth y su reputación de ser "inhumanamente" rápido. Grable no hizo que sus otros guardaespaldas intentaran atacar, y Denth decidió marcharse con Vivenna y Tonk Fah. Es de suponer que Grable no temía a Denth, ya que estaba seguro de que no podría matarlo sin enfrentarse a las represalias de la mitad de los criminales de T'Telir. Tras abandonar la reunión, Denth se mostró cauteloso para evitar ser seguido por los espías de Grable, aunque creía que a Grable no le importaban los guardaespaldas que había matado.
-
-## Curiosidades
-Grable comenta que la herencia de los [[Mechones Reales\|Mechones Reales]] es una "tontería supersticiosa". [[Brandon Sanderson\|Brandon Sanderson]] señaló que esto pretendía ser una insinuación de que ocurre algo extraño con la línea real de [[Idris\|Idris]], pero que no podrá abordarlo a menos que escriba una secuela.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:59, 29 de Junio de 2020 (UTC)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Grable shows off his wealth by wearing bright colors, and his influence by the number of bodyguards that accompany him. However, his appearance is marred by a long, greasy beard and missing teeth. He is cautious, conniving, and greedy.
 
-https://es.coppermind.net/wiki/Grable
+## History
+Grable was approached by Denth and [[Vivenna\|Vivenna]] because he was a strong supporter of [[Vahr\|Vahr]]’s rebellion, and Denth hoped that he would continue to feed unrest in the city of T'Telir by attacking caravans of food. It took weeks to set up a meeting with him in one of his restaurants, and Denth paid him for his time alone.
+
+>“*It’s a pity we couldn’t do business. I hope you’ll think of me for future dealings.*”
+\-Grable, after Denth kills some of his bodyguards[1]
+
+Grable did not believe that Vivenna was actually the princess of [[Idris\|Idris]], instead assuming that she simply had enough royal blood to [[Royal Locks\|change her hair color]]. However, he made it clear that even if she was an impostor she would still have value in pulling off various schemes in the city. It quickly became clear that Grable was more interested in having Vivenna for his own purposes than helping their cause.
+When Denth refused to "sell" Vivenna, Grable's bodyguards moved to attack him, but he instantly killed them. The attack was an attempt at taking Vivenna by force instead of paying for her, or alternatively testing Denth’s reputation as a swordsman and mercenary. According to [[Tonk Fah\|Tonk Fah]], the meeting was beneficial for Grable either way: “He either got to verify Denth’s skill or he got you (Vivenna).”
+Grable reacted nonchalantly to the swordplay. He instead mentioned that he had been suspicious of Denth since his sudden appearance a decade earlier, and he shrewdly pointed out Denth's mysterious past and his reputation of being "inhumanly" fast. Grable did not have his other bodyguards attempt an attack, and Denth decided to leave with Vivenna and Tonk Fah. Grable presumably did not fear Denth since he was confident that Denth could not kill him without facing the retaliation of half the criminals in T'Telir. After leaving the meeting, Denth was cautious to avoid being followed by Grable's spies, even though he believed Grable did not care about the bodyguards he killed.
+
+## Trivia
+Grable makes a comment about the inheritance of the [[Royal Locks\|Royal Locks]] to be “superstitious nonsense”. [[Brandon Sanderson\|Brandon Sanderson]] noted that this was intended to be a hint that there is something odd happening with the royal line of [[Idris\|Idris]], but that he won’t be able to address it unless he writes a sequel.
+
+
+https://coppermind.net/wiki/Grable

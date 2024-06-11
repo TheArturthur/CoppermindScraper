@@ -1,58 +1,45 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Hoed**|
 |-|-|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **hoed** son un grupo de [[Elantrino\|elantrinos]] post-[[Reod\|Reod]] que han acumulado tantas heridas que se han vuelto comatosos por el dolor.
+The **Hoed** are a group of post-[[Reod\|Reod]] [[Elantrian\|Elantrians]] that have accumulated so many injuries that they become effectively comatose from the pain.
 
-## Sumario
+## Contents
 
 1 Post-Reod. [[#Post-Reod]] 
 
-1. [[#Antigua Elantris]] 
-1. [[#Nueva Elantris]] 
+1. [[#Old Elantris]] 
+1. [[#New Elantris]] 
 
 
-2 Reversión. [[#Reversi.C3.B3n]] 
+2 Reversal. [[#Reversal]] 
 
-2. [[#Restauraci.C3.B3n]] 
+2. [[#Restoration]] 
 
 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
 ## Post-Reod
-Tras el Reod, los elantrinos dejaron de curarse, por lo que cualquier herida, por leve que fuera, seguía siendo indefinidamente tan dolorosa como el momento en que se recibió. Como los elantrinos seguían siendo inmortales, algunos se hundieron bajo el peso de su dolor, perdiendo la razón. Muchos tienen una frase o palabras que repiten una y otra vez.
+After the Reod, the Elantrian people stopped healing, so any injuries, however minor, remained indefinitely as painful as the moment they were received. Since the Elantrians were still immortal, some sank beneath the weight of their pain, losing their minds. Many have a phrase or words that they repeat over and over.
 
-### Antigua Elantris
-Antes de que [[Raoden\|Raoden]] ayudara a crear [[Elantris (ciudad)\|Nueva Elantris]], los hoed constituían la mayoría de los elantrinos inmediatamente visibles. Al igual que el resto de Elantris, eran sucios e indiferentes. En general, se les ignoraba.
+### Old Elantris
+Before [[Raoden\|Raoden]] helped create [[Elantris (city)\|New Elantris]], the Hoed made up the majority of the immediately visible Elantrians. They, like the rest of Elantris, were dirty and uncaring. For the most part, they were ignored.
 
-### Nueva Elantris
-Raoden reunió a los hoed en un edificio de Nueva Elantris, que llamaron la Sala de los Caídos, donde se les cuidaba. Raoden esperaba que algunos de los hoed pudieran resurgir gracias a los cuidados. Aunque esto nunca llegó a suceder, los hoed de la Sala de los Caídos estaban notablemente más tranquilos que los hoed de las calles.
+### New Elantris
+Raoden collected the Hoed together in a building in New Elantris, which they called the Hall of the Fallen, where they were cared for. Raoden hoped some of the Hoed might surface with care. While this never came to pass, the Hoed in the Hall of the Fallen were noticeably calmer than Hoed on the streets.
 
-## Reversión
-Si se coloca a los hoed en el [[Perpendicularidad de Devoci%C3%B3n\|lago]], su cuerpo parecerá disolverse. Como es una [[Perpendicularidad\|Perpendicularidad]], es probable que transfiera a los que se colocan en él al [[Reino Cognitivo\|Reino Cognitivo]]. Como el Reino Cognitivo del planeta es increíblemente peligroso, es probable que estas personas sean destruidas por el [[Dor\|Dor]], aunque al menos un elantrino anterior al Reod, [[Riino\|Riino]], sobrevivió.
+## Reversal
+If a Hoed is placed in the [[Devotion's Perpendicularity\|Lake]], their body will appear to dissolve. As the Lake is a [[Perpendicularity\|Perpendicularity]], it likely transfers those placed in it to the [[Cognitive Realm\|Cognitive Realm]]. As the Selish Cognitive Realm is incredibly dangerous, these people are likely then destroyed by the [[Dor\|Dor]], though at least one pre-Reod Elantrian, [[Riino\|Riino]], survived.
 
-### Restauración
-Cuando la gran aon Rao de la ciudad de Elantris se completó con la línea del Abismo, los elantrinos recuperaron su antigua gloria. Dado que Raoden y [[Dashe\|Dashe]], que eran hoed, recuperaron sus mentes, se supone que el resto de los hoed también lo hicieron.
+### Restoration
+When the large Aon Rao of Elantris city was completed with the chasm line, the Elantrians were restored to their former glory. Because Raoden and [[Dashe\|Dashe]], who were Hoed, regained their minds, it is assumed that the rest of the Hoed did as well.
 
-## Curiosidades
-La palabra "hoed" se basa en el aon "[[/wiki/Aon#Oed]]".
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+The word "Hoed" is based off the Aon "[[/wiki/Aon#Oed]]".
 
 
 
-https://es.coppermind.net/wiki/Hoed
+https://coppermind.net/wiki/Hoed

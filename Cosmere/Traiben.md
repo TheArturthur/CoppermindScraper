@@ -1,41 +1,25 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Traiben**|
 |-|-|
-|**Fallecido**||
-|**Capacidades**|[[Maestr%C3%ADa de la arena\|Maestro de la arena]]|
-|**Títulos**|Mastrell|
-|**Grupo**|[[Diem\|Diem]]🐱︎|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Died**||
+|**Abilities**|[[Sand mastery\|Sand master]]|
+|**Titles**|Mastrell|
+|**Groups**|[[Diem\|Diem]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Traiben** es un [[Maestr%C3%ADa de la arena\|maestro de la arena]][[Lossand\|lossandino]] en el [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]].
+**Traiben** is a [[Lossand\|Lossandin]] [[Sand mastery\|sand master]] on the [[Dayside\|Dayside]] of [[Taldain\|Taldain]].
 
-## Apariencia y personalidad
-Traiben es un hombre amable de pelo negro y piel clara del Lado Diurno. Viste las ropas tradicionales de un maestro de la arena.
+## Appearance and Personality
+Traiben is a friendly man with black hair and has light Daysider skin. He wears the traditional robes of a sand master.
 
-## Historia
-Entró en el [[Diem\|Diem]] al mismo tiempo que [[Kenton\|Kenton]] y sigue siendo el mejor amigo de Kenton a pesar de que es ascendido al rango de mastrell mientras Kenton seguía siendo un acolento. En general, Traiben apoya a Kenton, aunque se muestra escéptico ante la decisión de éste de someterse a la [[Senda del Mastrell\|Senda del Mastrell]].
-Después de que Kenton tenga éxito en su prueba y complete la Senda, recuperando la inaudita cantidad de seis esferas, Traiben comenta que cuando él hizo la Senda sólo encontró tres esferas. Cuando [[Elorin\|Elorin]] intenta convencer a Kenton de que no vaya a la Ceremonia de la Ascensión, Traiben anima a Kenton a que asista diciéndole que su padre tendrá que hacerle mastrell. Antes de la Ceremonia, Traiben, junto con el resto del Diem, bebe del cuenco ceremonial que Elorin había envenenado con [[KaDo\|KaDo]]. Durante la ceremonia, una gran banda de sacerdotes guerreros [[Kerzta\|kerztianos]] lanza un ataque sorpresa. Debido al KaDo, Traiben muere mientras se defiende de los kerztianos, [[/wiki/Maestr%C3%ADa de la arena#Sobredominar]] en cuestión de minutos, cuando debería poder utilizar sus poderes durante mucho más tiempo.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+He entered the [[Diem\|Diem]] at the same time as [[Kenton\|Kenton]] and remains Kenton's best friend even though he is promoted to the rank of mastrell while Kenton remained an acolent. Traiben generally supports Kenton, although he is skeptical of Kenton's decision to undergo the [[Mastrell's Path\|Mastrell's Path]].
+After Kenton succeeds in his run and completes the Path, retrieving an unheard of six spheres, Traiben remarks that when he ran the Path he only found three spheres. When [[Elorin\|Elorin]] tries convincing Kenton not to go to the advancement ceremony, Traiben encourages Kenton to attend the Advancement ceremony saying that his father will have to make him a mastrell. Before the advancement ceremony Traiben, along with the rest of the Diem, drinks from the ceremonial bowl that Elorin had poisoned with [[KaDo\|KaDo]]. During the ceremony, a large band of [[Kerztian\|Kerztian]] warrior-priests launch a surprise attack. Due to the KaDo, Traiben is killed while defending himself from the Kerztians, [[/wiki/Sand mastery#Overmastery]] within minutes, when he should be able to use his powers for much longer.
 
 
 
-https://es.coppermind.net/wiki/Traiben
+https://coppermind.net/wiki/Traiben

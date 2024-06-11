@@ -2,4 +2,4 @@ A category for all known metals. For more information on the glyphs and their us
 
 
 
-https://es.coppermind.net/wiki/Metal
+https://coppermind.net/wiki/Metal

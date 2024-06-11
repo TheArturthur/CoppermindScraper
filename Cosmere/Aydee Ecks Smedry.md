@@ -1,15 +1,15 @@
 |**Aydee Ecks Smedry**|
 |-|-|
-|****|
-|**Hermanos**|[[Sing Sing Smedry\|Sing Sing]], [[Australia Smedry\|Australia]]|
-|**Capacidades**|[[Talento Smedry\|Talento Smedry]]|
-|**Nacionalidad**||
-|**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
+|**[[House Smedry\|House Smedry]]**|
+|**Siblings**|[[Sing Sing Smedry\|Sing Sing]], [[Australia Smedry\|Australia]]|
+|**Abilities**|[[Smedry Talent\|Smedry Talent]]|
+|**Nationality**|[[Mokian\|Mokian]]|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
-**Aydee Ecks Smedry** is a [[Mokia\|Mokian]]  whose  is that she is very bad at math. She is the younger sister to [[Sing Sing Smedry\|Sing]] and [[Australia Smedry\|Australia]] Smedry.
+**Aydee Ecks Smedry** is a [[Mokia\|Mokian]] [[House Smedry\|Smedry]] whose [[Smedry Talent\|Talent]] is that she is very bad at math. She is the younger sister to [[Sing Sing Smedry\|Sing]] and [[Australia Smedry\|Australia]] Smedry.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -28,18 +28,10 @@ Later, Alcatraz uses her Talent to increase the number of  grenades they have in
 Aydee is also a capable pilot, like her sister Australia.
 
 ## History
-Aydee was sent away from the  to deliver a piece of  to the [[Nalhalla\|Nalhallan]] embassy. When she arrived, she was conscripted by [[Kazan Smedry\|Kazan Smedry]] to fly Kaz, [[Alcatraz\|Alcatraz]], and [[Bastille\|Bastille]] back to Mokia. Her Talent proved essential to Mokia's defense and the eventual defeat of the  there.
+Aydee was sent away from the [[Siege of Mokia\|Siege of Mokia]] to deliver a piece of [[Communicator's Glass\|Communicator's Glass]] to the [[Nalhalla\|Nalhallan]] embassy. When she arrived, she was conscripted by [[Kazan Smedry\|Kazan Smedry]] to fly Kaz, [[Alcatraz\|Alcatraz]], and [[Bastille\|Bastille]] back to Mokia. Her Talent proved essential to Mokia's defense and the eventual defeat of the [[Librarian\|Librarians]] there.
 
 ## Trivia
 Her name is a reference to the , also known as the (ADX) prison facility.
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
 
 
-
-https://es.coppermind.net/wiki/Aydee_Ecks_Smedry
+https://coppermind.net/wiki/Aydee_Ecks_Smedry

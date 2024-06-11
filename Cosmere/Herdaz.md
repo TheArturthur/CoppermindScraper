@@ -1,118 +1,99 @@
-
-
 |**Herdaz**|
 |-|-|
 ||
-|**Etnia**|Herdaziano|
-|**Gobernado por**|Rey de Herdaz|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Herdazian|
+|**Ruled by**|King of Herdaz|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Herdaz** es un reino situado en el noreste de [[Roshar\|Roshar]]. Los habitantes de Herdaz se llaman herdazianos y se pueden encuentrar también en muchos países vecinos.
+**Herdaz** is a kingdom in north-eastern [[Roshar\|Roshar]]. The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Historia. [[#Historia]] 
-3 Política y cultura. [[#Pol.C3.ADtica y cultura]] 
+1 Geography. [[#Geography]] 
+2 History. [[#History]] 
+3 Politics and Culture. [[#Politics and Culture]] 
 
-3. [[#Gobierno]] 
-3. [[#Poblaci.C3.B3n]] 
-3. [[#Idioma]] 
+3. [[#Government]] 
+3. [[#People]] 
+3. [[#Language]] 
 
-3. [[#T.C3.A9rminos]] 
-
-
-3. [[#Di.C3.A1spora]] 
+3. [[#Terms]] 
 
 
-4 Herdazianos destacados. [[#Herdazianos destacados]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+3. [[#Diaspora]] 
 
 
-## Geografía
-Herdaz es una nación costera situada en el noreste de Roshar, con una extensión de aproximadamente un millón de kilómetros cuadrados. La mayor parte de su escarpada costa da al [[Mar Reshi\|Mar Reshi]], mientras que una pequeña parte da al [[Oc%C3%A9ano de las Aguas Hirvientes\|océano de las Aguas Hirvientes]] y a la [[Bah%C3%ADa de Elibath\|bahía de Elibath]]. Desde el sur, Herdaz limita con [[Jah Keved\|Jah Keved]] por dos ríos y con [[Alezkar\|Alezkar]] por tierra. Al otro lado del mar, está cerca de varias [[Islas Reshi\|islas Reshi]]. Se encuentra más o menos en la misma latitud que Iri y Rira.
-La mayor parte del país es una serie de largas y estrechas penínsulas que se adentran en el mar, y una única más grande que separa la isla de [[Akak\|Akak]] del resto del archipiélago de Reshi. El interior de Herdaz parece bastante llano, con un único río principal que divide las mitades occidental y oriental del país, y una serie de ríos costeros más pequeños y cortos. Aunque hay ciudades, ninguna de ellas es de gran importancia.
+4 Notable Herdazians. [[#Notable Herdazians]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
-## Historia
->“*¿Herdaz? Según mis ayudantes, es el primer paso tradicional en una invasión alezi.*”
+
+## Geography
+Herdaz is a coastal nation in the north-east of Roshar, covering approximately one million square kilometres of land. Most of its jagged coastline lies on the [[Reshi Sea\|Reshi Sea]], while a small part of it faces [[Steamwater Ocean\|Steamwater Ocean]] and the [[Bay of Elibath\|Bay of Elibath]]. From the south, Herdaz borders [[Jah Keved\|Jah Keved]] on two rivers and [[Alethkar\|Alethkar]] on land. Across the sea, it is close to a number of [[Reshi Isles\|Reshi Isles]]. It lies around the same lattitude as Iri and Rira.
+Most of the country is a series of long and narrow peninsulas jutting out into the sea, and a single larger one separating the island of [[Akak\|Akak]] from the rest of the Reshi archipelago. The Herdazian interior appears to be rather flat, with a single major river dividing the western and eastern halves of the country, and a number of smaller, shorter coastal rivers. Though there are cities there, none of them are of global importance.
+
+## History
+>“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
 \-Taravangian[4]
 
 
-Durante la época de los [[Reinos Plateados\|Reinos Plateados]], Herdaz formaba parte del reino de [[Rishir\|Rishir]], que además abarcaba las modernas [[Islas Reshi\|islas Reshi]], así como el norte de [[Jah Keved\|Jah Keved]], [[Alezkar\|Alezkar]] y [[Tu Bayla\|Tu Bayla]]. En algún momento, los habitantes de esta región concreta de Rishir se mezclaron con los [[Cantor\|cantores]], lo que hizo que los herdazianos actuales tengan ascendencia cantora y algunos de sus rasgos físicos. Se desconoce cuándo se convirtió en un país independiente propiamente dicho.
-Herdaz tiene una larga historia de conflictos con los alezi. Fue una de las primeras conquistas del caudillo [[Sadees\|Sadees]], aunque, como muchas otras, no quedó en manos de sus hijos tras su muerte. Mucho más tarde, tras la unificación de Alezkar por parte de [[Gavilar Kholin\|Gavilar Kholin]], se produjo un cambio de dinastías en Herdaz, y el nuevo monarca comenzó a amenazar las fronteras alezi en un intento de ponerlas a prueba. Los alezi respondieron enviando ejércitos dirigidos por el hermano del rey, [[Dalinar Kholin\|Dalinar Kholin]], que pasó unos cuatro años haciendo campaña en las tierras fronterizas, dando forma a la actual frontera entre Alezkar y Herdaz.
-Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], parece que al país no le iba muy bien, ya que numerosos herdazianos optaron por abandonarlo y algunos sólo volvían de vez en cuando, mientras que otros no regresaban nunca. Sin embargo, parece haber capeado la [[Tormenta eterna\|tormenta eterna]] sin mucha destrucción, ya que los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] se centraron en derrotar a sus estados vecinos. Cuando Dalinar se puso en contacto con ellos para conseguir su apoyo a la coalición, al principio creyeron que estaba intentando engañarlos para que le dejaran invadirlos.
-Tras la caída de Alezkar, varias fuerzas alezi se retiraron a Herdaz en un intento de montar una resistencia organizada, entre ellas las fuerzas lideradas por [[Sheler\|Sheler]] y [[Relis Ruthar\|Relis Ruthar]]. Aunque la mayoría de los refugiados se plegaron al mando del general herdaziano [[Dieno enne Calah\|Dieno enne Calah]], la cooperación entre ambos ejércitos en ocasiones era tensa, ya que el brillante señor Sheler fue capturado y condenado a ejecución tras agredir a las mujeres locales.
+During the [[Silver Kingdoms\|Silver Kingdoms]] era, Herdaz was part of the kingdom of [[Rishir\|Rishir]], which additionally encompassed modern [[Reshi Isles\|Reshi Isles]] as well as northern [[Jah Keved\|Jah Keved]], [[Alethkar\|Alethkar]] and [[Tu Bayla\|Tu Bayla]]. At some point, the people living in this particular region of Rishir intermingled with [[Singer\|singers]], leading to modern Herdazians having singer ancestry and some of their physical features. It's uncertain when Herdaz became its own country.
+Herdaz has a long history of conflict with the Alethi. It was one of the first conquests of the warlord [[Sadees\|Sadees]], though like many others, it did not remain within his sons' grasp after his death. Much later, following [[Gavilar Kholin\|Gavilar Kholin's]] unification of Alethkar, a change of dynasties occured in Herdaz, and the new monarch began threatening the Alethi borders in an attempt to test them. The Alethi responded by sending armies led by the king's brother, [[Dalinar Kholin\|Dalinar Kholin]], who spent about four years campaigning in the borderlands, shaping the modern Alethkar-Herdaz border.
+Prior to the [[True Desolation\|True Desolation]], it seems the country wasn't doing very well, as numerous Herdazians elected to leave it, with some only coming back from time to time while others never returned. However, it appears to have weathered the [[Everstorm\|Everstorm]] without much destruction, as the [[Voidbringer\|Voidbringers]] focused on bringing down their neighboring states. When Dalinar contacted them to get their support for his coalition, they initially believed that he was trying to trick them into letting him invade them.
+Following the fall of Alethkar, a number of Alethi forces withdrew to Herdaz in an attempt to mount an organized resistance, among them forces led by [[Sheler\|Sheler]] and [[Relis Ruthar\|Relis Ruthar]]. While most refugees have been folded under the command of the Herdazian general [[Dieno enne Calah\|Dieno enne Calah]], the cooperation between the two armies could get heated at times, as brightlord Sheler was captured and put up for execution after assaulting the local women.
 
-## Política y cultura
-### Gobierno
-Herdaz está gobernado por un rey cuyo nombre se desconoce; proviene de una nueva dinastía que lleva en el poder tan sólo desde algo antes del año 1150. Se sabe poco sobre él y su familia, aparte de que no tiene hijas. El reino tiene un único conjunto de [[Hoja esquirlada\|hoja esquirlada]] y [[Armadura esquirlada\|armadura esquirlada]] que se transmiten por la línea real.
-Es posible que Herdaz tenga al menos un [[Moldeador de almas\|moldeador de almas]], aunque la fuente al respecto es poco fiable. Sin embargo, se sabe con certeza que allí no hay ninguna [[Puerta Jurada\|Puerta Jurada]].
+## Politics and Culture
+### Government
+Herdaz is ruled by an unnamed king from a new dynasty that has only come into power sometime before the year 1150. Little is known about him and his family, other than that he has no daughters. The kingdom has a single set of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]] that are passed down through the royal line.
+Herdaz might have at least one [[Soulcaster\|Soulcaster]], though the source on that is unreliable. It is certain, however, that there are no [[Oathgate\|Oathgates]] there.
 
-### Población
-  <<Lopen\|Lopen>> con un <<Chispero\|chispero>>
-Los herdazianos son de piel morena, más oscura que la de los [[Alezi\|alezi]], pero más pálida que la de los [[Makabak\|makabaki]], y de pelo castaño. Su aspecto es muy similar al de los [[Reshi\|reshi]], hasta el punto de que se les puede confundir con ellos. Sin embargo, también son una de las varias razas de Roshar con sangre [[Cantor\|cantora]] en su ascendencia, aunque no es tan evidente como entre los [[Unkalaki\|unkalaki]]. El signo más visible de su herencia son sus uñas cristalinas de color pizarra, que son lo suficientemente fuertes como para encender un fuego con una herramienta adecuada, y a veces se describen como una reminiscencia del caparazón. Aparte de eso, tienen una mayor tendencia a ser asexuales que otras razas sin ancestros cantores.
-Los herdazianos son gente bastante unida. Tienen familias numerosas (una sola persona puede estar emparentada con la mitad del país) y se mantienen unidos, ya que los lazos entre ellos son más fuertes que los del país en el que se encuentren. La mayoría parece ser [[Vorin\|vorin]], aunque practican su propia versión de la fe, una que permite a los hombres escribir.
-La cocina de Herdaz utiliza sobre todo una gran variedad de mariscos, así como panes planos. La cabeza de [[Chull\|chull]] se considera un manjar. El plato más famoso de Herdaz es la [[Chouta\|chouta]], carne frita [[Moldear\|moldeada]] envuelta en pan plano y cubierta con salsa, aunque a veces la carne se sustituye por marisco.
+### People
+  <<Lopen\|Lopen>> with a <<Sparkflicker\|sparkflicker>>
+Herdazians are brown-skinned, darker than the [[Alethi\|Alethi]], but paler than the [[Makabak\|Makabaki]], and brown-haired. They are most similar in appearance to the [[Reshi\|Reshi]], to the point where they can be mistaken for them. However, they are also one of several races on Roshar with [[Singer\|singer]] blood in their ancestry, though it's not quite as apparent as it is among the [[Unkalaki\|Unkalaki]]. The most visible sign of their heritage are their crystalline, slate-colored fingernails, which are strong enough to start a fire with a proper tool, and are sometimes described as reminiscent of carapace. Apart from that, they have a higher tendency to be asexual than other races without singer ancestors.
+Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in. Majority of them seem to be [[Vorin\|Vorin]], though they practice their own variety of the faith, one that permits men to write.
+Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread. [[Chull\|Chull]] head is considered a delicacy. The most famous Herdazian dish is [[Chouta\|chouta]], fried [[Soulcasting\|Soulcast]] meat wrapped tightly in flatbread and topped with sauce, though sometimes the meat is replaced with shellfood.
 
-### Idioma
-El herdaziano pertenece a la familia vorin, al igual que el alezi y el veden. El idioma tiene, según [[Lopen\|Lopen]], nombres para todos los tipos de primos. Hay numerosas palabras en herdaziano para referirse a una persona sin utilizar su nombre, y todas ellas con un significado ligeramente diferente entre sí.
+### Language
+Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
 
-#### Términos
-*calah* - Antiguo término herdaziano para .
-*chorlano* - significado desconocido, utilizado por Lopen para referirse a [[Huio\|Huio]]
-*chortana* - una mujer, posiblemente una intimidante o poderosa
-*enne* - un antiguo honorífico herdaziano, que significa aproximadamente "grande."
-*gancho/a* - una manera casual de referirse a un superior masculino o femenino
-*gon* - parece ser un término genérico
-*garrafón* - Lopen utiliza esta para [[Sigzil\|Sigzil]] y se niega a explicar su significado
-*hregos* - significado desconocido, utilizado por Lopen para referirse a los navegantes [[Thayle%C3%B1o\|thayleños]]
-*mancha* - [[Lopen\|Lopen]] utiliza a veces este término cuando se dirige a [[Lunamor\|Lunamor]] y, en una ocasión, lo utiliza en sus propios pensamientos para referirse a sí mismo
-*misra* - significado desconocido, utilizado por Lopen para referirse a [[Cuerda\|Cuerda]]
-*muli* - un término para alguien mudo o callado
-*naco* - parece ser usado para alguien más joven, como un niño
-*omachala* - significado desconocido, posiblemente algún tipo de comida herdaziana
-*peñito* - un insulto
-*vilo* - significado desconocido, utilizado por Lopen para referirse a [[Talik\|Talik]]
-### Diáspora
->“* Gon, no he estado en Herdaz desde que era un bebé. Hoy en día hay tantos herdazianos en Alezkar y Jah Keved como en nuestra tierra.*”
+#### Terms
+*calah* - An old Herdazian term for .
+*chorlano* - unknown meaning, used by Lopen to refer to [[Huio\|Huio]]
+*chortana* - a woman, possibly an intimidating or powerful one
+*enne* - an old Herdazian honorific, roughly meaning "great."
+*gancho/a* - a casual way to refer a male or female superior
+*gon* - appears to be a generic term
+*hooch* - Lopen uses this one for [[Sigzil\|Sigzil]], and refuses to explain its meaning
+*hregos* - unknown meaning, used by Lopen to refer to [[Thaylen\|Thaylen]] sailors
+*mancha* - [[Lopen\|Lopen]] sometimes uses this term when addressing [[Lunamor\|Lunamor]] and, on one occasion, uses it to refer to himself in his own thoughts
+*misra* - unknown meaning, used by Lopen to refer to [[Cord\|Cord]]
+*moolie* - A term for someone mute or quiet
+*naco* - seems to be used for someone younger, like a child
+*ornachala* - unknown meaning, possibly some sort of Herdazian food
+*penhito* - an insult
+*velo* - unknown meaning, used by Lopen to refer to [[Talik\|Talik]]
+### Diaspora
+>“* Gon, I haven't been to Herdaz since I was a baby. There are as many Herdazians in Alethkar and Jah Keved these days as there are in our homeland.*”
 \- Lopen[11]
 
 
-Casi la mitad de los herdazianos de [[Roshar\|Roshar]] no viven en realidad en Herdaz, sino en los países circundantes. Cuando un grupo grande de ellos se reúne, suelen formar sus propios distritos, como la [[Peque%C3%B1a Herdaz\|Pequeña Herdaz]] en el campamento de guerra del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Sebarial\|Sebarial]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Llevan su cultura con ellos dondequiera que vayan. Entre otras cosas, la [[Chouta\|chouta]] es una comida callejera herdaziana que ganó mucha popularidad en los campamentos de guerra y puede comprarse incluso en [[Kholinar\|Kholinar]].
-Existen numerosos estereotipos sobre los herdazianos. Muchos alezi creen que todos llevan [[Chispero\|chisperos]], y otros más malintencionados afirman que son todos estúpidos, aunque se ha demostrado repetidamente que ambos son erróneos. En todo el oeste de Roshar se les considera extremadamente fanfarrones, y se dice que las mujeres son duras y difíciles de impresionar, incluso en opinión de sus allegados. Se menciona que los herdazianos se parecen mucho entre sí para los no herdazianos, hasta el punto de que a menudo no se les puede diferenciar.
+Almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries. When a large group of them comes together, they often form their own districts, such as [[Little Herdaz\|Little Herdaz]] in [[Highprince\|highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. They bring their culture with them wherever they go - among others, [[Chouta\|chouta]] is a Herdazian street food that gained much popularity in the warcamps, and can even be bought in [[Kholinar\|Kholinar]].
+There are numerous stereotypes about Herdazians. Many Alethi believe they all wear [[Sparkflicker\|sparkflickers]], and more malicious ones claim they're all stupid, though both are repeatedly proven wrong. Across western Roshar, they are considered extremely boastful, and the women are said to be tough and difficult to impress, even in the opinion of their kinsmen. Herdazians are mentioned as looking very similar to one another to non-Herdazians, to the point where they often cannot be told apart.
 
-## Herdazianos destacados
-Para más herdazianos, ver :Categoría: de Herdaz.
-[[Lopen\|Lopen]], el alegre miembro manco del [[Puente Cuatro\|Puente Cuatro]] y [[Corredor del Viento\|Corredor del Viento]] de tercer juramento.
-Los múltiples primos de Lopen, entre ellos [[Punio\|Punio]], [[Rod (Roshar)\|Rod]] y [[Huio\|Huio]].
-[[Kabsal\|Kabsal]] podría ser herdaziano, ya que tiene el acento.
-[[Havarah\|Havarah]], jefe de los puentes de [[Dalinar\|Dalinar]], es medio herdaziano.
-[[Palona\|Palona]], la amante de [[Sebarial\|Sebarial]].
-[[Dieno enne Calah\|Dieno enne Calah]], el general herdaziano que lideró la resistencia contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
-## Curiosidades
-El tamaño de Herdaz es aproximadamente similar al de  o a la mitad de .
-Brandon creó a los herdazianos después de que su esposa señalara la escasez de culturas hispanas en los mundos de fantasía. En particular, algunos elementos de Herdaz están inspirados en México.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Notable Herdazians
+For more Herdazians, see :Category: Herdazians.
+[[Lopen\|Lopen]], the cheerful, one-armed member of [[Bridge Four\|Bridge Four]] and a third-Oath [[Windrunner\|Windrunner]].
+Lopen's multiple cousins, including [[Punio\|Punio]], [[Rod (Roshar)\|Rod]] and [[Huio\|Huio]].
+[[Kabsal\|Kabsal]] might be Herdazian, as he has the accent.
+[[Havarah\|Havarah]], [[Dalinar\|Dalinar's]] bridgelord, is part-Herdazian.
+[[Palona\|Palona]], [[Sebarial\|Sebarial's]] mistress.
+[[Dieno enne Calah\|Dieno enne Calah]], the Herdazian general who led the resistance against the [[Voidbringer\|Voidbringers]].
+## Trivia
+Herdaz's size is roughly similar to that of , or about half of .
+Brandon created Herdazians after his wife noted that there are very few Hispanic cultures in fantasy worlds. In particular, some elements of Herdaz are inspired by Mexico.
 
 
-
-https://es.coppermind.net/wiki/Herdaz
+https://coppermind.net/wiki/Herdaz

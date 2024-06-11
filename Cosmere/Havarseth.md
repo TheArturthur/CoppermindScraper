@@ -1,65 +1,52 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Havarseth**|
 |-|-|
 ||
-|**Apodos**|Dedos Azules|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[Pahn Kahl\|Pahn Kahl]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Aliases**|Bluefingers|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Ten cuidado, niña. No todo en este palacio es lo que parece.*”
-\-Dedos Azules a Siri.[1]
-
-
-**Havarseth**, más conocido como **Dedos Azules** , es un [[Pahn Kahl\|pahn kahl]] criado en el palacio del [[Rey-dios\|rey-dios]] en [[Nalthis\|Nalthis]]. Juega un papel decisivo en la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Citas. [[#Citas]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+>“*You should watch yourself, child. Not all here in the palace is as it seems.*”
+\-Bluefingers to Siri.[1]
 
 
-## Apariencia y personalidad
-Se le describe como un hombre mayor vestido con una túnica marrón, calvo y de rostro redondo y agradable. Su apodo se lo debe a que sus dedos parecen estar siempre manchados de tinta azul. A menudo lleva consigo un libro de contabilidad.
-Dedos Azules conoce muchas cosas, incluida la cultura idriana y los [[Mechones Reales\|Mechones Reales]]. Actúa de forma servil con [[Siri\|Siri]], pidiendo que se le disculpe y ofreciéndole ayuda, pero tampoco teme señalar los defectos de sus acciones.
+**Havarseth**, better known as **Bluefingers**, is a [[Pahn Kahl\|Pahn Kahl]] servant to the [[God King\|God King's]] palace on [[Nalthis\|Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
 
-## Historia
-Durante su estancia en el palacio ejerce de escriba jefe y administrador, en lugar de sacerdote, debido a su falta de fe en los [[Retornado\|Retornados]]. Es parte integrante de muchas de las actividades de la [[Corte de los Dioses\|Corte de los Dioses]]; según [[Bebid\|Bebid]], Dedos Azules "hace que la corte funcione". 
-Además de ese deber, orienta en cierta medida a [[Siri\|Siri]] mientras está en el palacio del rey-dios. Por ejemplo, al poco de llegar a [[Hallandren\|Hallandren]], establece todas las normas de comportamiento e interacción con el rey-dios, y se reúne con ella fuera de la habitación de este para orientarla sobre cómo actuar. También le advierte de los peligros de dar un heredero al rey-dios y despierta sospechas en ella, que con el tiempo crean una brecha entre ella y los sacerdotes. Lo hace porque sabe que si se elige a un nuevo rey-dios, él y los demás sirvientes pahn kahl serían expulsados de los rangos que tanto les costó ganar, lo que les haría perder todo el poder que habían conseguido. Siri hace un trato con él y le promete que protegerá a los siervos de Pahn Kahl si él jura intentar sacarla a ella y al rey-dios del palacio si los sacerdotes deciden actuar contra ellos.
-Con el tiempo se revela que traicionó a Siri, con la esperanza de ayudar a asegurar la independencia de su pueblo llevándola a ella y a Susebron a una trampa, mientras que el palacio estaba en plena crisis armada. Dedos Azules, junto con [[Sinvida\|sinvidas]], captura a la pareja y la utiliza en sus planes para sembrar el caos entre Idris y Hallandren. Encarcela a Susebron y planea matar a Siri apuñalándola con una daga, pero es detenido por las habilidades despertantes de Susebron.
+## Contents
 
-## Citas
->“*Me llamo Havarseth, pero todo el mundo me llama Dedos Azules. Soy el jefe de los escribas y mayordomo de Su Excelente Gracia Susebron, rey-dios de Hallandren. En términos más simples, dirijo a los sirvientes del palacio y superviso a todos los criados de la Corte de los Dioses.*”
-\-Dedos Azules presentándose a Siri[2]
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
+2 History. [[#History]] 
+3 Quotes. [[#Quotes]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
->“*Mis disculpas, Receptáculo, pero no soy seguidor de los Retornados.*”
-\-Dedos Azules a Siri sobre su fe.[3]
+## Appearance & Personality
+He is described as an older man in brown robes who is balding and has a round, pleasant face. His nickname was earned by the fact that his fingers seem perpetually stained with blue ink. He often carries around a ledger.
+Bluefingers is knowledgeable about many things, including Idrian culture and the [[Royal Locks\|Royal Locks]]. He acts subservient to [[Siri\|Siri]], asking to be excused and offering her assistance, but is also unafraid to point out the flaws in her actions.
+
+## History
+During his time in the palace he serves as head scribe and steward, rather than a priest, due to his lack of faith in the [[Returned\|Returned]]. He is integral to many of the goings-on in the [[Court of Gods\|Court of Gods]]; according to [[Bebid\|Bebid]], Bluefingers "pretty much keeps the Court running."
+In addition to that duty, he provides a measure of guidance to [[Siri\|Siri]] while she is in the God King's palace. For example, he lays out all the rules for her behavior and her interactions with the God King soon after she arrives in [[Hallandren\|Hallandren]], and meets her outside the God King's room to give her guidance about how to act. He also warns her of the dangers of bearing the God King an heir and evokes suspicions within her, which eventually drive a wedge between her and the priests. He does this because he knows that if a new God King is elected, he and the other Pahn Kahl servants would be dismissed from the ranks they worked so hard to earn, causing them lose all the power they gained. Siri makes a deal with him that promises she will protect the Pahn Kahl servants if he swears to try and get her and the God King out of the palace if the priests choose to move against them.
+Eventually it is revealed that he betrayed Siri, hoping to help secure independence for his people by leading her and Susebron into a trap, while the palace was in military turmoil. Bluefingers, teaming up with [[Lifeless\|Lifeless]], then captures the couple and uses them in his plans to wreak havoc between Idris and Hallandren. He imprisons Susebron and plans to kill Siri by stabbing her with a dagger, but is stopped by Susebron's Awakening abilities.
+
+## Quotes
+>“*My name is Havarseth, but everyone just calls me Bluefingers. I am head scribe and steward to His Excellent Grace Susebron, God King of Hallandren. In simpler terms, I manage the palace attendants and oversee all servants in the Court of Gods.*”
+\-Bluefingers introducing himself to Siri[2]
 
 
->“*Con la propia de cualquier sirviente que es considerado impío. No se me permite tocarlo ni hablarle. Pero, princesa, le he servido durante toda la vida. No es mi dios, pero es algo mucho mejor. Creo que esos sacerdotes consideran a sus dioses como símbolos que ocupan un lugar. Aunque en realidad no les importa quién ocupe el puesto. Yo he servido a su majestad toda la vida. Me contrataron en palacio cuando era un muchacho y recuerdo la infancia de Susebron. No es mi dios, pero sí mi señor. Y ahora esos sacerdotes planean matarlo.*”
-\-Dedos Azules a Siri sobre servir a Susebron.[5]
+>“*All apologies, Vessel, but I'm not a follower of the Returned.*”
+\-Bluefingers to Siri on his faith.[3]
 
 
-## Curiosidades
-Su "sentido del tiempo casi sobrenatural" no es de naturaleza mágica.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] ·  · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+>“*As close as any servant considered unholy. I'm not allowed to touch him or speak to him. But, Princess, I've served him all my life. He's not my god, but he's something better. I think these priests look upon their gods as placeholders. It doesn't really matter to them who is holding the station. Me, I've served His Majesty for my entire life. I was hired by the palace as a lad and I remember Susebron's childhood. I cleaned his quarters. He's not my god, but he is my liege. And now these priests are planning to kill him.*”
+\-Bluefinger to Siri on serving Susebron.[5]
 
 
+## Trivia
+His "almost supernatural sense of time" is not actually magical in nature.
 
-https://es.coppermind.net/wiki/Havarseth
+
+https://coppermind.net/wiki/Havarseth

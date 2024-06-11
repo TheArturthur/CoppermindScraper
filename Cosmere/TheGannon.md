@@ -1,16 +1,16 @@
 |**TheGannon**|
 |-|-|
-|**Fallecido**|*Unknown*|
-|**Poderes**|Possession of the living, [[Bolting\|Bolting]]|
-|**Especie**|[[Poltergeist\|Poltergeist]] (formerly human)|
-|**Residencia**||
-|**Nacionalidad**||
-|**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
-|**Presentado en**|*[[Dreamer\|Dreamer]]*|
+|**Died**|*Unknown*|
+|**Powers**|Possession of the living, [[Bolting\|Bolting]]|
+|**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
+|**Residence**||
+|**Nationality**||
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
+|**Introduced In**|*[[Dreamer\|Dreamer]]*|
 
 **TheGannon** is a [[Poltergeist\|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including [[Dreamer (character)\|Dreamer]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
-## Sumario
+## Contents
 
 1 Appearance & Personality. [[#Appearance .26 Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -32,15 +32,6 @@ TheGannon met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]]
 
 ## Trivia
 TheGannon's gamer handle is most likely a reference to the character  from *The Legend of Zelda* series of video games.
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Dreamer\|Dreamer]]**|
-|-|-|
-|**Personajes**|[[Dreamer (character)\|Dreamer]] · [[Phi\|Phi]] · [[Longshot\|Longshot]] · [[Icer\|Icer]] · [[Rabies\|Rabies]] ·  · [[Lorenzo\|Lorenzo]] · [[Marks (Dreamer)\|Marks]]|
-|**Términos**|[[Poltergeist\|Poltergeist]] · [[Bolting\|Bolting]]|
 
 
-
-https://es.coppermind.net/wiki/TheGannon
+https://coppermind.net/wiki/TheGannon

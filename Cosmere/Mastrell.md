@@ -1,86 +1,71 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Diem**|
 |-|-|
 ||
-|**Líder**|Lord mastrell [[Kenton\|Kenton]]|
-|**Cuartel General**|The Diem|
-|**Mundo de origen**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+|**Leader**|Lord Mastrell [[Kenton\|Kenton]]|
+|**Headquarters**|The Diem|
+|**World of Origin**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+> [!info] This page or section needs to be updated with new information for *[[White Sand\|White Sand]]*!Be aware that in its current state, it may not include all additional content yet.
 
-El **Diem** se refiere tanto al [[/wiki/Lossand#Pol.C3.ADtica]] de [[Maestr%C3%ADa de la arena\|los maestros de la arena]], conocida formalmente como el **Diem de la Arena**, como al edificio utilizado como su sede. El Diem de la Arena es una de las ocho profesiones [[Lossand\|lossandinas]] reconocidas. La palabra [[Kerzta\|kerztiana]] para maestro de la arena es **Ry'Kensha**. Está dirigido por el [[/wiki/Taishin#Lord mastrell]], que en la actualidad es [[Kenton\|Kenton]].
+The **Diem** refers to both the [[/wiki/Lossand#Politics]] of [[Sand mastery\|sand masters]], known formally as the **Diem of the Sand**, and the building used as their headquarters. The Diem of the Sand is one of the eight recognized [[Lossand\|Lossandin]] Professions. The [[Kerztian\|Kerztian]] word for sand master is **Ry'Kensha**. It is led by the [[/wiki/Taishin#The Lord Mastrell]]. The current Lord Mastrell is [[Kenton\|Kenton]].
 
-## Sumario
+## Contents
 
-1 Sede. [[#Sede]] 
-2 Reclutamiento en el gremio. [[#Reclutamiento en el gremio]] 
-3 Organización. [[#Organizaci.C3.B3n]] 
-4 El futuro del Diem. [[#El futuro del Diem]] 
-5 Miembros destacados. [[#Miembros destacados]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+1 Headquarters. [[#Headquarters]] 
+2 Guild recruitment. [[#Guild recruitment]] 
+3 Organization. [[#Organization]] 
+4 The Diem's Future. [[#The Diem.27s Future]] 
+5 Notable Members. [[#Notable Members]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Sede
->“*Estas construcciones siempre han sido un enigma. Creadas a partir de arenisca blanca que nunca se desgasta.*”
+## Headquarters
+>“*This building has always been an enigma. Older than the sand masters, formed of a single block of white sandstone that can never be worn down.*”
 \-Kenton[1]
 
 
-El Diem de la Arena tiene su sede en un edificio también conocido como el Diem. El edificio en sí es anterior a la existencia de los maestros de la arena. Está hecho de un único bloque de arenisca blanca que se cree que es eterno e imperecedero.
-El Diem está situado en las afueras de [[Kezare\|Kezare]]. Incluye viviendas para todos los miembros del gremio. Al carecer de escaleras, sólo se podía acceder a los niveles superiores mediante el uso de la maestría de la arena, hasta que el lord mastrell [[Kenton\|Kenton]] ordenó que se instalaran escaleras.
+The Diem of the Sand is headquartered in a building also known as the Diem. The building itself predates the existence of the sand masters. It is made of a single block of white sandstone that is thought to be eternal and everlasting.
+The Diem is located on the outskirts of [[Kezare\|Kezare]]. It includes housing for all members of the guild. With no stairs, the upper levels were only accessible by use of sand mastery until Lord Mastrell [[Kenton\|Kenton's]] order that ladders be set up.
 
-## Reclutamiento en el gremio
-Los niños lossandinos que desean entrar en el Diem de la Arena y convertirse en maestros de la arena se someten a un exigente examen de ingreso. Los que muestran algún talento tienen derecho por ley a entrar en el gremio con el rango de acolentos, aunque se disuade de entrar a los de talento muy débil. Una vez que se acepta a un estudiante como acolento, se le forma en los caminos de la maestría de la arena hasta que el lord mastrell lo considera digno de ascender a uno de los siete rangos permanentes de maestro de la arena. Un niño tarda aproximadamente cuatro años en graduarse en los rangos permanentes, aunque puede llevar más tiempo a los que son débiles o rechazan el avance inicial.
+## Guild recruitment
+Lossandin children who wish to gain entry into the Diem of the Sand and become sand masters are subjected to a demanding entrance exam. Those who display any talent at all are entitled by law to enter the guild with the rank of acolent, although those of very weak talent are discouraged from entering. Once a student is accepted as an acolent, they are trained in the ways of sand mastery until they are deemed worthy for advancement into one of the seven permanent sand master ranks by the Lord Mastrell. It takes approximately four years for a child to graduate into the permanent ranks, although it may take longer for those who are weak or who refuse the initial advancement.
 
-## Organización
-Los maestros de la arena mantienen una estricta jerarquía de rangos. Todos los maestros de la arena llevan una faja de color en la cintura que indica su rango. Los rangos son permanentes al ascender de acolento. El único criterio para ascender es la habilidad en la maestría de la arena, que se suele clasificar según el número de cintas que puedan controlar. El lord mastrell, siendo él mismo un mastrell, dirige el Diem y sirve como [[Taisha\|taisha]] para el Oficio de la Arena. Los reclutas que buscan ser aceptados en el Diem visten túnicas y fajas marrones.
+## Organization
+The sand masters maintain a strict hierarchy of ranks. All sand masters wear a colored sash at their waist indicating their rank. Ranks are permanent upon advancement from acolent. The sole criteria for advancement is one's ability in sand mastery, typically categorized by how many ribbons they can control. The Lord Mastrell, himself a mastrell, leads the Diem and serves as [[Taisha\|Taisha]] for the Sand Profession. Recruits seeking acceptance into the Diem wear brown robes and sashes.
 
-|**Rangos del Diem**|
+|**Diem Ranks**|
 |-|-|
-|**Título**|**Color del fajín**|**Cintas necesarias**|
-|Recluta|Túnica marrón||
-|Acolento|Blanco|Conectar con la arena|
-|Infrafen|Gris|1|
-|Fen|Verde|2-5|
-|Diemfen|Azul|4-7|
-|Infralestrell|Morado|6-10|
-|Lestrell|Rojo|9-12|
-|Inframastrell|Naranja|11-14|
-|Mastrell|Dorado|15 o más|
-|Lord Mastrell|Dorado|Mediante elección|
+|**Title**|**Sash Color**|**Ribbons required**|
+|Recruit|Brown Robes||
+|Acolent|White|Bond|
+|Underfen|Gray|1|
+|Fen|Green|2-5|
+|Diemfen|Blue|4-7|
+|Underlestrell|Purple|6-10|
+|Lestrell|Red|9-12|
+|Undermastrell|Orange|11-14|
+|Mastrell|Gold|15 or greater|
+|Lord Mastrell|Gold|Election|
 
-## El futuro del Diem
->“*impopular, está endeudado e incluso sus miembros tienen lealtades divididas. No te envidio el reto que afrontas.*”
-\-Lady Heelis a Kenton[5]
-
-
-La opinión pública sobre el Diem es actualmente muy pobre. Los maestros de la arena tienen fama de orgullosos y arrogantes. Además, se ha endeudado mucho y no ha aportado gran cosa a la sociedad en mucho tiempo. Estas quejas han llevado a los [[Taishin\|Taishin]] a votar a favor de la disolución permanente del estatus oficial del Diem en Lossand. La votación se declaró nula y se retrasó dos semanas, ya que Kenton, el lord mastrell en funciones, no fue debidamente informado de antemano.
-
-## Miembros destacados
-
-[[Kenton\|Kenton]]: Actual lord mastrell
-[[Praxton\|Praxton]]: Lord mastrell antes de Kenton
-[[Drile\|Drile]]: Inframastrell
-[[Elorin\|Elorin]]: Inframastrell que traicionó al Diem
-[[Dirin\|Dirin]]: Inframastrell, amigo de Kenton
-
-## Curiosidades
-La palabra "diem" significa "día" en latín.
-En un momento dado, el Diem fue consciente de la presencia de Hoid y empezó a investigarlo.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] ·  · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## The Diem's Future
+>“*The Diem is not well liked here. It is in debt and, from what I have seen, you will have a difficult time bringing the other sand masters to heel.*”
+\-Lady Heelis to Kenton[5]
 
 
+Public opinion of the Diem is currently very poor. The sand masters are known for being prideful and arrogant. The Diem has also taken on a significant amount of debt while producing little of value for society in quite some time. These complaints have led the [[Taishin\|Taishin]] to vote in favor of permanently disbanding the Diem's official status in Lossand. The vote was declared void and delayed for two weeks as Kenton, the acting Lord Mastrell, was not properly informed beforehand.
 
-https://es.coppermind.net/wiki/Mastrell
+## Notable Members
+
+[[Kenton\|Kenton]]: Current Lord Mastrell
+[[Praxton\|Praxton]]: Lord Mastrell before Kenton
+[[Drile\|Drile]]: Undermastrell
+[[Elorin\|Elorin]]: Undermastrell who betrayed the Diem
+[[Dirin\|Dirin]]: Undermastrell, Kenton's Friend
+
+## Trivia
+The word "diem" means "day" in Latin.
+The Diem at one stage noticed and began investigating the presence of Hoid.
+
+
+https://coppermind.net/wiki/Mastrell

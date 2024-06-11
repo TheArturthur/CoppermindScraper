@@ -1,96 +1,74 @@
-
-
 |**TenSoon**|
 |-|-|
 ||
-|**Familia**|
-|**Hijos**|[[MeLaan\|MeLaan]]|
-|**Nacido en**|Tercera Generación|
-|**Capacidades**|[[Bendici%C3%B3n de la Presencia\|Bendición de la Presencia]], [[Bendici%C3%B3n de la Potencia\|Bendición de la Potencia]]|
-|**Títulos**|Guardián de la Guerrera Ascendente|
-|**Apodos**|[[OreSeur\|OreSeur]], [[Gorglen\|Gorglen]]|
-|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
-|**Especie**|[[Kandra\|Kandra]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Children**|[[MeLaan\|MeLaan]]|
+|**Born**|Third Generation|
+|**Abilities**|[[Blessing of Presence\|Blessing of Presence]], [[Blessing of Potency\|Blessing of Potency]]|
+|**Titles**|Guardian of the Ascendant Warrior|
+|**Aliases**|[[OreSeur\|OreSeur]], [[Gorglen\|Gorglen]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
+|**Species**|[[Kandra\|Kandra]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
+
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
+
+>“*You are His Ruin. I am His Preservation.*”
+\-TenSoon to Waxillium Ladrian[1]
 
 
-
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*Tú eres su Ruina, yo soy su Conservación.*”
-\-TenSoon a Waxillium Ladrian[1]
+**TenSoon** is a [[Kandra\|kandra]] of the Third Generation. He was one of the most experienced kandra due to the length of his field service. He held two [[Blessing\|Blessings]] during the [[Final Empire\|Final Empire]], the Blessing of Potency and the Blessing of Presence. He raised [[MeLaan\|MeLaan]]. He is known as the **Guardian of the Ascendant Warrior** after the [[Catacendre\|Catacendre]].
 
 
-**TenSoon** es un [[Kandra\|kandra]] de la Tercera Generación. Fue uno de los kandra más experimentados debido a la duración de su servicio sobre el terreno. Durante el [[Imperio Final\|Imperio Final]] poseía dos [[Bendici%C3%B3n\|Bendiciones]], la Bendición de la Potencia y la Bendición de la Presencia. Crió a [[MeLaan\|MeLaan]]. Tras el [[Catacendro\|Catacendro]] se le conoce como el **Guardián de la Guerrera Ascendente**.
+## Contents
 
-## Sumario
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes & Abilities. [[#Attributes .26 Abilities]] 
+3 History. [[#History]] 
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-3. [[#Pre Catacendro]] 
-3. [[#Post-Catacendro]] 
+3. [[#Early Life]] 
+3. [[#Pre Catacendre]] 
+3. [[#Post Catacendre]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
->“*Ya no se me da demasiado bien ser... humano.*”
-\-TenSoon [5]
+## Appearance and Personality
+>“*I don’t do … human very well anymore.*”
+\-TenSoon[5]
 
 
-TenSoon a menudo adquiere la forma de un sabueso. Incluso cuando adquiere forma humana, TenSoon habla con una voz grave y áspera y suele gruñir a otros. Tras el Catacendro, TenSoon ha perdido práctica hablando con otros. También se mueve de manera más torpe en forma humana, y está más acostumbrado a tener cuerpos con cuatro patas.
+TenSoon often takes the form of a wolfhound. Even when taking a human form, TenSoon speaks in a gravelly, rough voice and tends to growl at others. Post Catacendre, TenSoon has fallen out of practice talking with others. He also moves more awkwardly in a human form, as he is more accustomed to having a four-legged body.
 
-## Atributos y habilidades
-TenSoon es un kandra de la Tercera Generación. Como tal, no tiene un cuerpo fijo y puede adoptar la forma de alguien siempre que tenga sus huesos. TenSoon ha trabajado como espía e impostor durante todo un milenio y es capaz de hacerse pasar por alguien tan perfectamente que incluso sus amigos más cercanos son incapaces de notar la diferencia. Su capacidad de cambiar de forma no tiene parangón entre todos los kandra y puede cambiar de cuerpo en segundos.. TenSoon fue creado con la [[Bendici%C3%B3n de la Presencia\|Bendición de la Presencia]]. Más tarde obtuvo la [[Bendici%C3%B3n de la Potencia\|Bendición de la Potencia]] de [[OreSeur\|OreSeur]]. Se desconoce si sigue teniendo la [[Bendici%C3%B3n de la Potencia\|Bendición de la Potencia]] después de la Ascensión Final.
+## Attributes & Abilities
+TenSoon is a kandra of the Third Generation. As such, he has no fixed body and can take on the form of someone as long as he has their bones. TenSoon has worked as a spy and imposter for a whole millennium and is able to impersonate somebody so perfectly that even their closest friends are unable to tell the difference. His ability to change forms is unmatched among all kandra, and he can change bodies within seconds. TenSoon was created with the [[Blessing of Presence\|Blessing of Presence]]. Later he gained the [[Blessing of Potency\|Blessing of Potency]] from [[OreSeur\|OreSeur]]. It’s unknown if he still has the [[Blessing of Potency\|Blessing of Potency]] after the Final Ascension.
 
-## Historia
-### Vida temprana
-TenSoon nació en el siglo III del Imperio Final como parte de la 3ª generación. TenSoon y los demás kandra intentaron vivir entre los humanos, pero éstos temían las habilidades que tenían los kandra y empezaron a cazarlos. Ante la amenaza de extinción, los kandra ofrecieron sus servicios al pueblo. TenSoon estaba presente cuando se redactaron los primeros contratos de servicios.
+## History
+### Early Life
+TenSoon was born in the third century of the Final Empire as a part of the Third Generation. TenSoon and the other Kandra tried to live among the humans, but the humans were afraid of the Kandra's abilities and began to hunt them. In the face of extinction, the Kandra offered their services to the people. TenSoon was present when the first service contracts were drawn up.
 
-### Pre Catacendro
-  TenSoon como sabueso con <<Vin\|Vin>>
-Para más imágenes, ver [[TenSoon/Galer%C3%ADa\|/Galería]].
-Cuando Elend Venture regresa de uno de los bailes ve a su padre, Straff Venture, en su despacho, hablando con TenSoon. En ese momento, TenSoon lleva el cuerpo de un sirviente de la casa Hasting.
-Su [[Contrato\|contrato]] era con lord [[Straff Venture\|Straff Venture]], y fue utilizado por [[Zane Venture\|Zane Venture]] para imitar a [[OreSeur\|OreSeur]], el cómplice kandra de [[Vin\|Vin]]. También tomó la Bendición de OreSeur, la Bendición de la Potencia, después de matarlo. TenSoon conservó la posesión de los huesos de [[Kelsier\|Kelsier]] tras la muerte de OreSeur. Llevó los huesos de un  mientras estaba a su «servicio», y llegó a gustarle. Traicionó el Contrato al contarle a Vin los secretos de los kandra y al desobedecer a su maestro, Zane. Regresó a la [[Tierra Natal kandra\|Tierra Natal kandra]] y fue encarcelado con [[ChanGaar\|ChanGaar]] y juzgado por sus crímenes. Se rebeló y escapó para ayudar a Vin a cumplir las profecías del [[Profec%C3%ADas de Terris\|Héroe de las Eras]].
-Antes de ese evento se encontró con [[Sazed\|Sazed]], a quien veía como el "Anunciador", y le impartió algunos conocimientos. Luego llevó a Sazed hasta la patria de los kandra.
-Tras fracasar en su intento de volver a [[Luthadel\|Luthadel]] y sumido en la desesperación, dio media vuelta y regresó a la [[Tierra Natal kandra\|Tierra Natal kandra]] a tiempo de ayudar a liberar a [[Sazed\|Sazed]] de la traición de la Segunda Generación. Después de esto, tomó el cuerpo verdadero de un guardia de la quinta generación y una vez más se hizo pasar por otro kandra para engañar a [[KanPaar\|KanPaar]]. Su artimaña tuvo éxito hasta que [[Ruina\|Ruina]] tomó el control directo de su cuerpo y comenzó a asfixiar a [[Sazed\|Sazed]] hasta la muerte. Esto le obligó entonces a llevar a cabo la [[Resoluci%C3%B3n\|Resolución]] y eliminar sus propias bendiciones, convirtiéndose así de nuevo en un [[Espectro de la bruma\|espectro de la bruma]]. Fue restaurado más tarde, aunque sus recuerdos respecto a esos eventos estaban deteriorados debido a haber estado sin sus bendiciones durante más de una hora.
+### Pre Catacendre
+  TenSoon as a wolfhound with <<Vin\|Vin>>
+For more images, see [[TenSoon/Gallery\|/Gallery]].
+When Elend Venture returns from one of the balls, he sees his father, Straff Venture, in his office, speaking to TenSoon. At the time, TenSoon is wearing the body of a servant from House Hasting.
+His [[Contract\|Contract]] was with Lord [[Straff Venture\|Straff Venture]], and was used by [[Zane Venture\|Zane Venture]] to imitate [[OreSeur\|OreSeur]], [[Vin\|Vin's]] kandra accomplice. He also took OreSeur's Blessing, the Blessing of Potency, after killing him. TenSoon retained possession of [[Kelsier's bones\|Kelsier's bones]] after OreSeur's death. He wore the bones of a  whilst in her 'service', and came to like them. He betrayed the Contract by telling Vin the secrets of the kandra, and by disobeying his master, Zane. He returned to [[Kandra Homeland\|Kandra Homeland]] and was imprisoned with [[ChanGaar\|ChanGaar]] and tried for his crimes. He rebelled and escaped to help Vin fulfil the prophecies of the [[Hero of Ages\|Hero of Ages]].
+He encountered [[Sazed\|Sazed]] before this and imparted some knowledge onto him, who he saw as the "Announcer." He then took Sazed to the homeland of the Kandra.
+After failing to make it back to [[Luthadel\|Luthadel]] and despairing, he turned back around and returned to the [[Kandra Homeland\|Kandra Homeland]] in time to help free [[Sazed\|Sazed]] from the treachery of the Second Generation. After this he took the true body of a fifth generation guard and once again played the part of another kandra in order to fool [[KanPaar\|KanPaar]]. His ruse succeeded until [[Ruin\|Ruin]] took direct control of his body and began to choke [[Sazed\|Sazed]] to death. This then forced him to carry out the [[Resolution\|Resolution]] and remove his own blessings, thus turning back into a [[Mistwraith\|Mistwraith]]. He was later restored, though his memories surrounding the event had degrading due to being without his spikes for over an hour.
 
-### Post-Catacendro
-Sus acciones durante los sucesos del Catacendro llegaron a ser conocidas por los kandra como la "Insigne Duplicidad".  Es conocido entre los kandra por ser el mejor suplantador y por la rapidez con la que puede cambiar de huesos. Los recuerdos de TenSoon de la época justo antes de que le quitaran los clavos se han visto degradados.
+### Post Catacendre
+His actions in the events of the Catacendre came to be known by the kandra as the "Remarked Duplicity." He is known among Kandra for being the best impersonator and for the speed at which he can change bones. TenSoon has degraded memories from the time right before his spikes were removed.
 
-  <<Cachorrito Soonie\| Cachorritos Soonie>>
-[[Waxillium Ladrian\|Waxillium Ladrian]] conoció a TenSoon, que imitaba al capitán [[Brettin\|Brettin]], tras la detención de [[Miles Dagouter\|Miles Dagouter]]. Brettin fue asesinado en un asunto no relacionado, así que [[Armon%C3%ADa\|Armonía]] hizo que TenSoon se hiciera pasar por él. TenSoon no tuvo la oportunidad de observalo antes de su muerte, por lo que fue una suplantación imperfecta. Los que conocían a Brettin pudieron detectar algo raro en él. TenSoon utilizó los huesos de Brettin para presentar una solicitud al Senado de una indulgencia para Wax en toda la ciudad, pero con la fecha retrasada. Esto liberó a Wax de cualquier cargo en el que hubiera incurrido durante su investigación de los [[Desvanecedores\|Desvanecedores]], además de otorgarle poderes de investigación y arresto. Informó a Wax de esta acción tras el enfrentamiento final de Wax y Marasi con Miles. Brettin, aún suplantado por TenSoon, se retiró tras la ejecución de Miles, y presumiblemente sus huesos fueron enterrados.
-Durante la caza de [[Paalm\|Paalm]] se encontró con Wax para que le guiara a la Tierra Natal kandra en un intento de encontrar más información sobre Sangradora. Primero apareció en forma de sabueso muy grande y cambió a una forma humana, y luego volvió a convertirse en sabueso. Wax observó cómo cambiaba de huesos en cuestión de segundos. Ayudó a Wax a escapar de las [[Quimera\|quimeras]] a través de los restos de los [[Pozos de Hathsin\|Pozos de Hathsin]].
-Un poco antes y durante los acontecimientos del ataque a [[Elendel\|Elendel]] por [[El Grupo\|el Grupo]] a través del [[Peltrenauta\|Peltrenauta]] A16, es revelado por [[Steris\|Steris]] como imitador del agente [[Gorglen\|Gorglen]]. Actúa como intermediario entre los scadrianos del sur y los miembros del consejo de Elendel durante este tiempo, tomando la decisión de ir a buscar los [[Brazales de Duelo (in-world)\|Brazales de Duelo]] en un esfuerzo por tratar de detener la bomba que amenaza a Elendel. TenSoon permaneció con el gobernador [[Varlance\|Varlance]] y Steris mientras trabajaban para evacuar el puerto y la ciudad de Elendel, incluso cuando los senadores y el vicegobernador [[Adawathwyn\|Adawathwyn]] huyeron.
+  <<Soonie pup\|Soonie pups>>
+[[Waxillium Ladrian\|Waxillium Ladrian]] met TenSoon who was imitating Captain [[Brettin\|Brettin]] after the arrest of [[Miles Dagouter\|Miles Dagouter]]. Brettin was killed in an unrelated matter, so [[Harmony\|Harmony]] had TenSoon impersonate him. TenSoon did not have the opportunity to observe Brettin prior to his death, and so it was an imperfect impersonation. Those who knew Brettin could detect something off about him. TenSoon used Brettin's bones to submit a backdated request to the Senate for a citywide deputized forbearance for Wax. This freed Wax from any charges incurred during his investigation of the [[Vanishers\|Vanishers]], as well as granted him powers of investigation and arrest. He informed Wax of this action after Wax and Marasi's final confrontation with Miles. Brettin, still being impersonated by TenSoon, retired after Miles' execution, and presumably his bones were laid to rest.
+During the hunt for [[Paalm\|Paalm]] he met Wax to guide him to the Kandra Homeland in an attempt to find more information on Bleeder. He first appeared in the form of a very large wolfhound and changed into a human form, then back to the wolfhound. Wax observed him change bones in mere seconds. He helped Wax escape from [[Chimera\|chimeras]] through the remnants of the [[Pits of Hathsin\|Pits of Hathsin]].
+Slightly prior to and during the events of the attack on [[Elendel\|Elendel]] by the [[Set\|Set]] via the [[Pewternaught\|Pewternaught]] A16, He is revealed by [[Steris\|Steris]] to be imitating Constable [[Gorglen\|Gorglen]]. He acts as an intermediary between the Southern Scadrians and members of Elendel council during this time, making the decision to fetch the [[Bands of Mourning\|Bands of Mourning]] in an effort to try and stop the bomb that threatens Elendel. TenSoon stayed with Governor [[Varlance\|Varlance]] and Steris as they worked to evacuate the Elendel harbor and city, even when the Senators and Vice-Governor [[Adawathwyn\|Adawathwyn]] fled.
 
-## Curiosidades
-La forma de sabueso de TenSoon es la de un perro grande, parecido a un lobo, no un lobero irlandés.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] ·  · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+TenSoon's wolfhound form is that of a large, wolf-like dog -- not an Irish Wolfhound.
 
 
-
-https://es.coppermind.net/wiki/TenSoon
+https://coppermind.net/wiki/TenSoon

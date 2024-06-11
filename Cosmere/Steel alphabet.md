@@ -1,104 +1,91 @@
-
-
-|**Alfabeto de acero**|
+|**Steel alphabet**|
 |-|-|
-|**Relacionado con**|[[Alomancia\|Alomancia]]|
-|**Tipo**|Idiomas|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Allomancy\|Allomancy]]|
+|**Type**|Language|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **alfabeto de acero** era el conjunto de glifos utilizados en [[Scadrial\|Scadrial]]. Se ha demostrado que los glifos evolucionaron con el tiempo.
-La mayoría de los símbolos se utilizaban también para representar diversos metales y números. El alfabeto de acero utilizaba un sistema de numeración de base 16 con una estructura posicional similar a la de ; se utilizan pares de números dobles para representar el orden de magnitud y el número en esa posición respectivamente.
-En algún momento el alfabeto divergió de tal manera que los símbolos utilizados para representar los metales [[Feruqu%C3%ADmico\|feruquímicos]] eran distintos a los utilizados por la [[Alomancia\|alomancia]] y el alfabeto general.
-Durante el avance tecnológico posterior a la [[Ascensi%C3%B3n Final\|Ascensión Final]], los símbolos utilizados durante el [[Imperio Final\|Imperio Final]] fueron retocados para que fueran más fáciles de imprimir.
+The **Steel alphabet** was the set of glyphs used on [[Scadrial\|Scadrial]]. It has been shown that the glyphs evolved over time.
+Most of the symbols were also used to represent various metals and numbers. The steel alphabet used a base-16 numbering system with a positional structure similar to —double-number pairs are used to represent the order of magnitude and the number in that position respectively.
+At some point the alphabet diverged such that the symbols used to represent [[Feruchemical\|Feruchemical]] metals were distinct to those used by [[Allomancy\|Allomancy]] and the general alphabet.
+During the technological advancement after the [[Final Ascension\|Final Ascension]], the symbols used during the [[Final Empire\|Final Empire]] were tweaked to become easier for printing.
 
->“*Los tres conjuntos de símbolos muestran la progresión del texto alomántico a través de las épocas. La escritura más antigua es la del Héroe de las Eras. Fue cambiada y modificada en los símbolos de la escritura de Terris que vemos en Pozo de la Ascensión. Después de más tiempo, la escritura terrisana se transformó en lo que ahora se conoce como el alfabeto alomántico o el alfabeto de acero, que son los símbolos utilizados en *Nacidos de la bruma: El Imperio Final*. Hemos extrapolado el alfabeto de acero a una escritura más estandarizada y refinada para los títulos de los capítulos en Aleación de ley, que tiene lugar 300 años después de El Héroe de las Eras.*”
-\-Isaac Stewart sobre la historia de los iconos.[5]
-
-
-## Sumario
-
-1 Símbolos y sus significados. [[#S.C3.ADmbolos y sus significados]] 
-2 Evolución del alfabeto de acero. [[#Evoluci.C3.B3n del alfabeto de acero]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+>“*The three sets of symbols show the progression of the Allomantic text through the ages. The earliest script is from Hero of Ages. It was changed and modified into the Terris script symbols we see in Well of Ascension. After more time, the Terris script morphed into what is now known as the Allomantic Alphabet or the Steel Alphabet, which are the symbols used in Mistborn: The Final Empire. We've extrapolated the Steel Alphabet into a script that's more-standardized and refined for the chapter headings in Alloy of Law, which takes place 300 years after Hero of Ages.*”
+\-Isaac Stewart on the history of the icons.[5]
 
 
-## Símbolos y sus significados
-El mapeo entre el alfabeto de acero y el inglés fue realizado por primera vez por Valkynphyre, de 17th Shard.
-Los símbolos de estaño y peltre correspondientes a E/I y O/U son distintos, y pueden identificarse por la posición del punto; la E coloca el punto debajo y a la izquierda del clavo (de forma similar a la colocación de la O) y la U coloca el punto junto a la parte superior del clavo curvado exterior. Esta práctica de colocación de puntos para distinguir las vocales evolucionó en 100 años de *[[Aleaci%C3%B3n de ley\|Aleación de ley]]* El punto también puede desplazarse en las consonantes por diversos motivos.
-La letra Q no está presente en el alfabeto, el sonido es descrito mediante 'kw'.
-Los glifos de acero correspondientes a los ocho metales básicos también se utilizan para expresar las direcciones (inter)cardinales.
-Se utiliza un glifo de cobre (sin el punto) girado para representar los óbolos..
-El cadmio se utiliza para representar los grados de temperatura.
+## Contents
 
-|****|Hierro|****|Acero|****|Estaño|****|Peltre|
+1 Symbols and their Meanings. [[#Symbols and their Meanings]] 
+2 Evolution of the Steel Alphabet. [[#Evolution of the Steel Alphabet]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
+
+
+## Symbols and their Meanings
+The mapping between the English and Steel alphabet was first achieved by Valkynphyre of the 17th Shard.
+The tin & pewter symbols corresponding to E/I and O/U are distinct, and can be identified by the position of the dot; E places the dot below and to the left of the spike, similar to the O placement, and U places the dot next to the top of the outer curved spike. This practice of dot placement to distinguish vowels evolved within 100 years of [[The Alloy of Law\|The Alloy of Law]]. The dot can also be moved around in non-vowels for various reasons.
+The letter Q is not present in the alphabet, the sound is depicted via a *kw*.
+The Steel glyphs corresponding to the eight basic metals are also used to express (inter)cardinal directions.
+A rotated Copper glyph (sans the dot) is used to depict Clips..
+Cadmium is used to represent degrees in temperature.
+
+
+|****|Iron|****|Steel|****|Tin|****|Pewter|
 |-|-|
 |1|2|3|4|
-|BOeste|PNoroeste|E/INorte|O/UNoreste|
-|****|Cinc|****|Latón|****|Cobre|****|Bronce|
+|BWest|PNorthwest|E/INorth|O/UNortheast|
+|****|Zinc|****|Brass|****|Copper|****|Bronze|
 |5|6|7|8|
-|LEste|RSudeste|DSur|TSudoeste|
-|****|Cadmio|****|Bendaleo|****|Oro|****|Electro|
+|LEast|RSoutheast|DSouth|TSouthwest|
+|****|Cadmium|****|Bendalloy|****|Gold|****|Electrum|
 |9|10|11|12|
 |G|K|M|N|
-|****|Cromo|****|Nicrosil|****|Aluminio|****|Duraluminio|
+|****|Chromium|****|Nicrosil|****|Aluminum|****|Duralumin|
 |13|14|15|16|
 |W|Y|Z|S|
-|****|Atium|****|Malatium|****|*Desconocido*|****|*Desconocido*|
-|*Desconocido*|*Desconocido*|256|4096|
+|****|Atium|****|Malatium|****|*unknown*|****|*unknown*|
+|*unknown*|*unknown*|256|4096|
 |V|F|J|C/Ch?|
-|****|*Desconocido*|****|*Desconocido*|****|Lerasium|****|*Desconocido*|
-|*Desconocido*|*Desconocido*|*Desconocido*|0|
-|H|X/Sh|A|*Desconocido*|
+|****|*unknown*|****|*unknown*|****|Lerasium|****|*unknown*|
+|*unknown*|*unknown*|*unknown*|0|
+|H|X/Sh|A|*unknown*|
 
-## Evolución del alfabeto de acero
-La siguiente tabla muestra tanto la evolución de los símbolos utilizados en el alfabeto de acero, que han llegado a asociarse con la [[Alomancia\|alomancia]], como el conjunto separado de símbolos que se desarrolló para representar el uso feruquímico de los metales.
-La forma de las letras mostrada en el 341PC no es una evolución tal cual de la escritura, sino más bien un fuente distinta para las mismas letras. 
+## Evolution of the Steel Alphabet
+The following table shows both the evolution of the symbols used in the steel alphabet, which have come to be associated with [[Allomancy\|Allomancy]], as well as the separate set of symbols that developed to represent the [[Feruchemy\|Feruchemical]] use of metals.
+The form of letters shown in 341 PC are not a true evolution of the script, but are instead simply a different font for the same letters.
 
-|**Metal**|**Antigua Terris (pre 0 FE)**|**Intermedio**|**Imperio Final Tardío (c. 1022 [[Imperio Final\|IF]])**|**c. 341 [[Catacendro\|PC]] (fuente para impresión)**|**Alfabeto Terrisiano**|
+|**Metal**|**Ancient Terris (pre 0 FE)**|**Intermediary**|**Late Final Empire (c. 1022 [[Final Empire\|FE]])**|**c. 341 [[Catacendre\|PC]] (print font)**|**Terris alphabet**|
 |-|-|
-|**[[Hierro\|Hierro]]**||||||
-|**[[Acero\|Acero]]**||||||
-|**[[Esta%C3%B1o\|Estaño]]**||||||
-|**[[Peltre\|Peltre]]**||||||
-|**[[Cinc\|Cinc]]**||||||
-|**[[Lat%C3%B3n\|Latón]]**||||||
-|**[[Cobre\|Cobre]]**||||||
-|**[[Bronce\|Bronce]]**||||||
-|**[[Cadmio\|Cadmio]]**||||||
-|**[[Bendaleo\|Bendaleo]]**||||||
-|**[[Oro\|Oro]]**||||||
+|**[[Iron\|Iron]]**||||||
+|**[[Steel\|Steel]]**||||||
+|**[[Tin\|Tin]]**||||||
+|**[[Pewter\|Pewter]]**||||||
+|**[[Zinc\|Zinc]]**||||||
+|**[[Brass\|Brass]]**||||||
+|**[[Copper\|Copper]]**||||||
+|**[[Bronze\|Bronze]]**||||||
+|**[[Cadmium\|Cadmium]]**||||||
+|**[[Bendalloy\|Bendalloy]]**||||||
+|**[[Gold\|Gold]]**||||||
 |**[[Electrum\|Electrum]]**||||||
-|**[[Cromo\|Cromo]]**||||||
+|**[[Chromium\|Chromium]]**||||||
 |**[[Nicrosil\|Nicrosil]]**||||||
-|**[[Aluminio\|Aluminio]]**||||||
-|**[[Duraluminio\|Duraluminio]]**||||||
+|**[[Aluminum\|Aluminum]]**||||||
+|**[[Duralumin\|Duralumin]]**||||||
 |**[[Atium\|Atium]]**||||||
 |**[[Malatium\|Malatium]]**||||||
-|***Desconocido***|||||
-|***Desconocido***|||||
-|***Desconocido***|||||
-|***Desconocido***|||||
+|***unknown***|||||
+|***unknown***|||||
+|***unknown***|||||
+|***unknown***|||||
 |**[[Lerasium\|Lerasium]]**||||||
 |**[[Ettmetal\|Ettmetal]]**| | ||||
-|***Desconocido***|| |||
+|***unknown***|| |||
 
-## Curiosidades
-La distinción de las vocales por la diferente colocación de un punto se basa en el extinto, pero parcialmente revivido, .
-Isaac Stewart ha confirmado previamente que los símbolos feruquímicos para el cromo y el nicrosil fueron intercambiados por error en la tabla de la feruquimia.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+The distinguishing of vowels by different placement of a dot is based upon the extinct, but partially revived, .
+Isaac Stewart has previously confirmed that the Feruchemical symbols for chromium and nicrosil were mistakenly swapped on the Feruchemy Table.
 
 
-
-https://es.coppermind.net/wiki/Steel_alphabet
+https://coppermind.net/wiki/Steel_alphabet

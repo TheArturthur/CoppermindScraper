@@ -1,49 +1,35 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Jaador**|
 |-|-|
-|**Etnia**|[[JinDo\|JinDo]]|
-|**Región**|[[Opelon\|Opelon]]🐱︎|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|[[JinDo\|JinDo]]|
+|**Region**|[[Opelon\|Opelon]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Jaador** es una nación del continente de [[Opelon\|Opelon]] (Sycla) en [[Sel\|Sel]]. Es una nación sin salida al mar que limita con [[JinDo\|JinDo]] al oeste, [[Fjorden\|Fjorden]] al norte, [[Hraggen\|Hraggen]] y [[Hrovell\|Hrovell]] al este, y un gran desierto al sur. Una ciudad destacada llamada [[Kjaard\|Kjaard]] se encuentra en un río cerca de la frontera con Fjorden. Aunque los residentes de Jaador son étnicamente [[JinDo\|JinDo]], la nación ha sido anexionada por el [[Imperio Fjordell\|Imperio Fjordell]] y la religión oficial es por tanto el [[Shu-Dereth\|Shu-Dereth]].
+**Jaador** is a nation on the continent of [[Opelon\|Opelon]] (Sycla) on [[Sel\|Sel]]. It is a land-locked nation that borders [[JinDo\|JinDo]] to the west, [[Fjorden\|Fjorden]] to the north, [[Hraggen\|Hraggen]] and [[Hrovell\|Hrovell]] to the east, and a large desert to the south. A notable city named [[Kjaard\|Kjaard]] lies on a river near the border with Fjorden. Although Jaador's residents are ethnically [[JinDo\|JinDo]], the nation has been annexed by the [[Fjordell Empire\|Fjordell Empire]] and the official religion is therefore [[Shu-Dereth\|Shu-Dereth]].
 
-## Sumario
+## Contents
 
-1 Cultura. [[#Cultura]] 
-2 Historia. [[#Historia]] 
-3 Investidura. [[#Investidura]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
-
-
-## Cultura
-Dado que los habitantes de Jaador son de la etnia JinDo, presumiblemente comparten la piel morena oscura y los rasgos finos de los habitantes de JinDo. Su gente es conocida por su comida, y los chefs jaadorianos están considerados como algunos de los mejores del mundo. Jaador también exporta dulces y vino de color azul.
-Jaador es la cuna de una elegante espada ligera llamada [[Jedaver\|jedaver]], conocida como syre o kmeer en otras naciones. La jedaver resultó poco práctica para el combate, y fue utilizada a menudo por la nobleza para los duelos. Más tarde se modificó en [[Duladel\|Duladel]] para usarla como arma de esgrima, y se considera que los jaadorianos son los segundos después de los dulas en habilidad para la esgrima.
-
-## Historia
-JinDo es integrada en el Imperio Fjordell unos cien años antes de los acontecimientos de *[[Elantris (libro)\|Elantris]]'*, pero no se sabe cuándo cayó Jaador. Fjorden parece tener fuertes fortificaciones a lo largo de su frontera con Jaador. El [[Gyorn\|gyorn]] de Fjorden [[Hrathen\|Hrathen]] afirma que los ciudadanos jaadorianos estarían entre los que formarían un ejército fjordell masivo a las órdenes del [[Wyrn (t%C3%ADtulo)\|Wyrn]] [[Wulfden IV\|Wulfden IV]], aunque sabe que es poco probable debido al poder de los [[/wiki/Shu-Dereth#Monasterios]].
-
-## Investidura
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
-
-[[Sel\|Sel]] tiene una "multitud" de sistemas mágicos que son alimentados por la [[Investidura\|Investidura]] del [[Dor\|Dor]]. Estos sistemas mágicos (como el [[AonDor\|AonDor]] y la [[Falsificaci%C3%B3n\|falsificación]]) dependen de la ubicación física, junto con la herencia y el lugar de nacimiento. Aunque los orígenes de Jaador son desconocidos, el hecho de que sus residentes sean étnicamente JinDo y la proximidad de estas dos naciones pueden insinuar que algunos jaadorianos serían capaces de utilizar el [[ChayShan\|ChayShan]].
-
-## Curiosidades
-Las primeras ediciones de *Elantris* incluían mapas que mostraban a Jaador con una orientación ligeramente diferente en el continente; estos mapas fueron sustituidos por versiones revisadas en la edición del décimo aniversario.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 15:18, 5 de marzo de 2019 (MST)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+1 Culture. [[#Culture]] 
+2 History. [[#History]] 
+3 Investiture. [[#Investiture]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
+## Culture
+Since Jaador's residents are ethnically JinDo, they presumably share the dark brown skin and fine features of JinDo residents. Jaadorians are known for their food, and Jaadorian chefs are considered some of the best in the world. Jaador also exports candy and wine of a blue color.
+Jaador is the birthplace of a graceful light sword called a [[Jedaver\|jedaver]], known as a syre or kmeer in other nations. The jedaver proved impractical for combat, and was often used by the nobility for dueling. It was later modified in [[Duladel\|Duladel]] for use as a fencing weapon, and Jaadorians are considered to be second only to Dulas in fencing skill.
 
-https://es.coppermind.net/wiki/Jaador
+## History
+JinDo is noted as being subsumed by the Fjordell Empire around one hundred years before the events of *[[Elantris (book)\|Elantris]]*, but it is not known when Jaador fell. Fjorden appears to have heavy fortifications along its border with Jaador. The Fjorden [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]] claims that Jaadorian citizens would be among those that would form a massive Fjordell army at [[Wyrn (title)\|Wyrn]] [[Wulfden the Fourth\|Wulfden the Fourth's]] command, although he knows that this is unlikely due to the power of the Derethi [[/wiki/Shu-Dereth#Monasteries]].
+
+## Investiture
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
+
+[[Sel\|Sel]] has a "multitude" of magic systems that are powered by [[Investiture\|Investiture]] from the [[Dor\|Dor]]. These magic systems (such as [[AonDor\|AonDor]] and [[Forgery\|Forgery]]) are dependent on physical location, along with heritage and birth location. Although Jaador's origins are unknown, the fact that its residents are ethnically JinDo and the proximity of the two nations may hint that some Jaadorians would be able to use the power of [[ChayShan\|ChayShan]].
+
+## Trivia
+Early editions of *Elantris* included maps that showed Jaador in a slightly different orientation on the continent; these maps were superseded by revised versions in the tenth anniversary edition.
+
+
+https://coppermind.net/wiki/Jaador

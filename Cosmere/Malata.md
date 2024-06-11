@@ -1,69 +1,49 @@
-
-
 |**Malata**|
 |-|-|
 ||
-|**Capacidades**|[[Orden de los Portadores del Polvo\|Portador del polvo]], [[Portador de esquirlada\|Portador de esquirlada]]🐱︎|
-|**Vinculado con**|[[Chispa\|Chispa]]|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ [[Diagrama (grupo)\|Diagrama]]🐱︎|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Order of Dustbringers\|Dustbringer]], [[Shardbearer\|Shardbearer]]|
+|**Bonded With**|[[Spark\|Spark]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Diagram (group)\|Diagram]]|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Veden\|Veden]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*Alguien tendría que haberme dicho lo divertido que iba a ser esto. Me habría esforzado mucho más en conseguir el puesto.*”
-\-Malata, acerca de su trabajo como Caballera Radiante del Diagrama[1]
-
-
-**Malata** es una mujer de [[Jah Keved\|Jah Keved]] y miembro del [[Diagrama (grupo)\|Diagrama]]. También es una [[Caballeros Radiantes\|Caballera Radiante]] de la [[Orden de los Portadores del Polvo\|Orden de los Portadores del Polvo]], vinculada a una [[Cenizaspren\|cenizaspren]] llamada [[Chispa\|Chispa]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+>“*Someone should have warned me how fun this would be. I’d have tried way harder to land the job.*”
+\-Malata, regarding her job as the Diagram's Knight Radiant[1]
 
 
-## Apariencia y personalidad
-Malata es una mujer veden [[Ojos claros\|ojos claros]] de mediana edad, con pelo corto, negro y juvenil. Su atuendo habitual es descrito como de estilo thayleño, con falda, polainas y botas gruesas. También lleva guantes en ambas manos.
-Cuando Chispa le informa de la aversión de su Orden por el término **Portadora del Polvo**, la mujer adopta el apelativo preferido de la Orden, **Liberadora**, para sí misma, aunque los que la rodean se siguen refiriendo a ella como Portadora del Polvo.
-Malata se comporta de forma muy segura incluso en presencia de la realeza. No teme desafiar las convenciones sociales cuando lo considera oportuno, como cuando expone su [[Mano segura\|mano segura]] mientras demuestra sus poderes. No parece importarle las implicaciones éticas de las acciones del Diagrama, ni que su spren quiera castigar a los humanos por la [[Traici%C3%B3n\|Traición]]. Es más, parece que solo le preocupa disfrutar de su trabajo.
-En la actualidad, desconocemos si esto coincide con la actitud de los antiguos Liberadores, aunque el [[Diagrama (literatura)\|Diagrama]] señala que los Portadores del Polvo son la Orden de Caballeros Radiantes con más probabilidades de unirse a la causa del Diagrama.
+**Malata** is a woman from [[Jah Keved\|Jah Keved]] and a member of the [[Diagram (group)\|Diagram]]. She is also a [[Knight Radiant\|Knight Radiant]] of the [[Order of Dustbringers\|Order of Dustbringers]], bonded to an [[Ashspren\|Ashspren]] named [[Spark\|Spark]].
 
-## Características y habilidades
-  Utilizando la <<Divisi%C3%B3n\|División>>
-Como Liberadora, Malata tiene acceso a las [[Potencia\|Potencias]] de [[Divisi%C3%B3n\|División]] y [[Abrasi%C3%B3n\|Abrasión]], aunque hasta el momento sólo ha demostrado la División, la potencia de la destrucción y el deterioro. Con la División, puede hacer que los objetos se degraden, se quemen o se conviertan en polvo con sólo tocarlos con la mano desnuda. Ha demostrado tener suficiente habilidad en esto como para poder hacer rápidamente un intrincado grabado en madera mediante una quema controlada.
-También ha progresado lo suficiente en sus [[Palabras Inmortales\|juramentos]] como para convertir a Chispa en una [[Hoja esquirlada\|hoja esquirlada]], que ha estado utilizando para controlar [[Puerta Jurada\|Puertas Juradas]].
+## Contents
 
-## Historia
-En algún momento después de crear el [[Diagrama (grupo)\|Diagrama]], el rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]] creó y dirigió un proyecto para que algunos miembros del Diagrama intentaran vincular a un [[Spren\|spren]]. Supuestamente, Malata formaba parte de este proyecto, pero ella afirma haberse acercado a Taravangian a instancias de [[Chispa\|Chispa]], lo que sugiere que ya se había vinculado con la spren antes de llegar a este grupo.
-Formaba parte del contingente de Taravangian en la [[/wiki/Dalinar#Uniendo Roshar .281174.29]]. Con la ayuda de [[Navani Kholin\|Navani Kholin]], Malata consiguió utilizar a Chispa para desbloquear y activar la [[Puerta Jurada\|Puerta Jurada]] veden, transportándose a sí misma y al resto del grupo a [[Urithiru\|Urithiru]], la base de operaciones de la coalición.
-Al tener acceso a una [[Hoja esquirlada\|hoja esquirlada]] Radiante, a menudo a Malata se le encargaba la responsabilidad de abrir las Puertas Juradas para otros miembros de la coalición. Malata aceptó esta tarea obedientemente, aunque en una ocasión expresó desconfiar de los alezi y se mostró escéptica ante las afirmaciones relativas a la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
-Más tarde, el Diagrama decidió que Taravangian debía reemplazar a Dalinar como líder de la coalición, e hizo que Malata espiara al Espina Negra usando a Chispa. A través de esto, se enteraron de las visiones de Dalinar en las que hablaba con [[Odium\|Odium]]. Utilizaron la información sobre estas visiones, junto con otros secretos que descubrieron, para socavar la confianza de la coalición en Dalinar.
-Más tarde, mientras se desarrollaba la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Malata abrió la [[Puerta Jurada\|Puerta Jurada]] de Kholinar, siguiendo las ódenes del Diagrama, para permitir que una fuerza de ataque del ejército [[Cantor\|cantor]] de Odium entrara en Urithiru, donde se enfrentaron a los soldados alezi. Un agente del Diagrama disfrazado de miembro del [[Puente Cuatro\|Puente Cuatro]] también consiguió entrar en Urithiru y robar la [[Hoja de Honor\|hoja de Honor]] de [[Jezrien\|Jezrien]] a [[Eth\|Eth]], matándolo e hiriendo a [[Roca\|Roca]] y [[Bisig\|Bisig]]. Todo esto formaba parte del plan de Taravangian de apelar a Odium para que accediera a perdonar a parte de la humanidad de Roshar.
-En Urithiru, Malata suele estar presente en reuniones de la coalición. Está en la reunión en la que la coalición accede a ir y luchar en [[Emul\|Emul]] y a enviar una expedición a [[Integridad Duradera\|Integridad Duradera]] para convencer a más [[Honorspren\|honorspren]] de que se vinculen.
-Cuando Taravangian decidió desmantelar el Diagrama, creyó que Malata aceptaría la verdad sobre su disolución, sabedora de que su propósito había sido cumplido.
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
-## Notas
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Appearance and Personality
+Malata is a Veden [[Lighteyed\|lighteyed]] woman of middle-age, with short, black, boyish hair. Her usual attire is described as a Thaylen style, with a skirt, leggings, and thick boots. She also wears gloves on both hands.
+Having been informed by Spark of her Order's distaste for the term **Dustbringer**, she has adopted the Order's preferred epithet **Releaser** for herself, although those around her still refer to her as a Dustbringer.
+Malata behaves in a very confident manner even in the presence of royalty. She is not afraid to challenge social conventions when she sees fit, as when she exposes her [[Safehand\|safehand]] while demonstrating her powers. She does not seem to care about the ethical issues of the Diagram's actions, or that her spren wants to punish humans for the [[Day of Recreance\|Recreance]]. Rather, she seems to only be concerned about enjoying her work.
+Whether or not this matches the attitude of ancient Releasers is currently unknown, although the [[Diagram (literature)\|Diagram]] indicates that Dustbringers are the most likely Order of Knights Radiant to accept the Diagram's cause.
+
+## Attributes and Abilities
+  Using <<Division\|Division>>
+As a Releaser, Malata has access to the [[Surge\|Surges]] of [[Division\|Division]] and [[Abrasion\|Abrasion]], although so far she has only demonstrated Division, the Surge of decay. Using Division, she can cause objects to degrade, burn, or turn to dust just by touching them with her bare hand. She has shown enough skill in this that she could quickly make an intricate engraving on wood via controlled burning.
+She has also progressed enough in her [[Immortal Words\|Oaths]] to turn Spark into a [[Shardblade\|Shardblade]], which she has been using to control [[Oathgate\|Oathgates]].
+
+## History
+At some point after creating the [[Diagram (group)\|Diagram]], King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]] formed and managed a project to have some Diagram members attempt to bond a [[Spren\|spren]]. Malata was supposedly part of this project, although she claims to have approached Taravangian only because of a suggestion by [[Spark\|Spark]], implying that she was already bonded prior to joining Taravangian's team.
+She was part of Taravangian's contingent in [[/wiki/Dalinar#Uniting Roshar]]. With some guidance from [[Navani Kholin\|Navani Kholin]], Malata was able to use Spark to unlock and activate the Veden [[Oathgate\|Oathgate]], transporting herself and the rest of the contingent to [[Urithiru\|Urithiru]], the base of operations for the coalition.
+Having access to a Radiant [[Shardblade\|Shardblade]], Malata was often given the responsibility of opening Oathgates for members of the coalition. Malata accepted this role obediently, although she once expressed distrust against the Alethi and was apparently skeptical of the claims regarding the [[True Desolation\|True Desolation]].
+The Diagram later decided that Taravangian must replace Dalinar as leader of the coalition, and had Malata spy on the Blackthorn using Spark. Through this, they learned about Dalinar's visions where he talked to [[Odium\|Odium]]. They used the information about these visions, along with other secrets they discovered, to undermine the coalition's trust in Dalinar.
+Later on, while the [[Battle of Thaylen Field\|Battle of Thaylen Field]] was taking place, Malata opened Kholinar's [[Oathgate\|Oathgate]] upon orders from the Diagram to allow a strike force of Odium's [[Singer\|singer]] army into Urithiru, where they battled with Alethi soldiers. An agent of the Diagram disguised as a [[Bridge Four\|Bridge Four]] member was also able to enter Urithiru and steal [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]] from [[Eth\|Eth]], killing him and injuring [[Rock\|Rock]] and [[Bisig\|Bisig]] in the process. All this was part of Taravangian's plan to appeal to Odium so that he would agree to sparing part of humanity on Roshar.
+In Urithiru, Malata is usually present in meetings of the coalition. She's there in the meeting where the coalition agrees to go and fight in [[Emul\|Emul]] and send an expedition to [[Lasting Integrity\|Lasting Integrity]] to convince more [[Honorspren\|honorspren]] to bond.
+When Taravangian decided to disband the Diagram, he believed that Malata would accept the truth of it's disbanding, knowing that its purpose had been fulfilled.
 
 
 
-https://es.coppermind.net/wiki/Malata
+https://coppermind.net/wiki/Malata

@@ -1,46 +1,39 @@
-
-
-|**Brazales de Duelo (in-world)**|
+|**Bands of Mourning**|
 |-|-|
 ||
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Este artículo es para el objeto dentro del universo. Para Para la novela de la saga de [[Nacidos de la bruma\|Nacidos de la bruma]], ver [[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]].
->“*El poder que ofrecen es... Sublime y devastador a la vez. Peligroso por lo que podría hacer en las manos equivocadas, pero, de alguna manera, más peligroso todavía en las tuyas.*”
-\-Wax y Marasi sobre el poder de los Brazales de Duelo.[1]
+This article is for the universe object. For the [[Mistborn series\|Mistborn series]] novel, see [[The Bands of Mourning\|The Bands of Mourning]].
+>“*The power they offer is something... Sublime and devastating at once. Dangerous because of what it could do in the wrong hands, yet somehow *more* dangerous in your own.*”
+\-Wax and Marasi on the power of the Bands of Mourning[1]
 
 
-Los **Brazales de Duelo** son los legendarios brazaletes [[Feruquimia\|feruquímicos]] que supuestamente creó el [[Rashek\|lord Legislador]] y podrían, teóricamente, conceder sus poderes a aquel que los lleve. Sin embargo, aunque sí que permitieran acceder a todos los poderes [[Alomancia\|alománticos]] y feruquímicos conocidos, no fueron creados por el lord Legislador, sino que fue el [[Soberano\|Soberano]] quien estuvo implicado en su creación. El nombre de "Brazales de Duelo" es engañoso para evitar así que la gente los encuentre, ya que son realmente una punta de lanza. Actualmente, se encuentran en poder del [[Consorcio Malwish\|Consorcio Malwish]]
+The **Bands of Mourning** are the legendary [[Feruchemy\|Feruchemical]] bracers that were supposedly created by the [[Rashek\|Lord Ruler]] and could purportedly grant the wearer his powers. However, while they did grant all known [[Allomancy\|Allomantic]] and Feruchemical abilities, they were not actually made by the Lord Ruler, and instead, the [[Sovereign\|Sovereign]] was involved. "Bands of Mourning" is a misleading name, probably to prevent people from finding it; it is actually a spearhead. They are currently owned by the [[Malwish Consortium\|Malwish Consortium]].
 
-## Descripción
-Los Brazales de Duelo son en realidad un objeto enorme con forma de punta de lanza, hecho de todos los metales alománticos. Los distintos metales forman entrelazados patrones ondulados parecidos a una hoja forjada por soldadura de patrones. Cuando se encontraron por primera vez, contenían más poder que cualquier otra [[Mente de metal\|mente de metal]] nunca antes vista.
-Además de almacenar todos los atributos básicos de la feruquimia, también conceden la habilidad de usar la [[Alomancia\|alomancia]]. Esto es posible gracias a que el [[Nicrosil\|nicrosil]] puede almacenar [[Investidura\|Investidura]], de modo que al decantarlo otorga a quien lo hace la capacidad de quemar metales o almacenar y decantar otras mentes de metal. La cantidad de Investidura era tal, que [[Marasi\|Marasi]] pudo ver las [[Brumas\|brumas]] emanando de ella cuando los usó, y [[Wax\|Wax]] cree que sus habilidades se volvieron tan poderosas como las de los alomantes del pasado.
-A pesar de ser tan poderosos, no están tan Investidos como una [[Hoja esquirlada\|hoja esquirlada]].
+## Contents
 
-## Notas
+1 Description. [[#Description]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
 
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Description
+The Bands of Mourning are an oversized, spearhead shaped object made of all of the Allomantic metals. The different metals are interwoven into the Bands of Mourning in wavy patterns, not unlike the folds of a pattern welded blade. When first found, they stored more power than any other [[Metalmind\|metalmind]] ever before seen.
+They are a set of [[/wiki/Feruchemy#Unkeyed Metalminds]] and [[/wiki/Feruchemy#Unsealed Metalminds]] metalminds granting all Feruchemical and Allomantic abilities to their wielder.
+This was possible because [[Nicrosil\|Nicrosil]] can be filled with [[Investiture\|Investiture]], giving the tapper the ability to burn metals and tap or fill other metalminds. The amount of Investiture was such that [[Marasi\|Marasi]] actually saw the [[Mists\|Mists]] emanating from her when she used it, and [[Wax\|Wax]] believes that his abilities are like the strong Allomancy of old while he is using it.
+
+## History
+The Bands of Mourning were created by the [[Sovereign\|Sovereign]] through unknown means at some point after the [[Catacendre\|Catacendre]], then hidden in the [[Sovereign's temple\|Sovereign's temple]].
+After being re-discovered and subsequently used by [[Marasi\|Marasi]] and [[Waxillium\|Waxillium]], they were handed over to the [[Kandra\|Kandra]] for safekeeping to prevent disagreement over ownership of the bands between the government of the Elendel Basin and the Malwish.
+Six years later, the government of Elendel comes to an agreement with the Malwish ambassador, allowing them to try and use the Bands to stop an incoming bomb. After [[TenSoon\|TenSoon]] hands over the Bands to the present representatives of the Elendel Basin, it is discovered that they had been completely drained of all powers, to the shock of everyone present. The Malwish ambassador reacts with outrage to this discovery, and demands to be handed the Bands as per their deal, as the attempt to stop the bomb was made and failed. After insinuating that the Elendel government may have used the Bands for their own purposes, he claims that Malwish scientists would be able to tell if the Bands handed to him were a fake, and leaves with them in hand.
+
+## Trivia
+Despite being incredibly powerful, it is not as heavily Invested as a [[Shardblade\|Shardblade]].
 
 
 
-https://es.coppermind.net/wiki/Bands_of_Mourning
+https://coppermind.net/wiki/Bands_of_Mourning

@@ -1,16 +1,16 @@
 |**Tashikk**|
 |-|-|
 ||
-|**Etnia**|Tashikki |
-|**Gobernado por**|Prince of Tashikk|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Tashikki |
+|**Ruled by**|Prince of Tashikk|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Tashikk** is a princedom on [[Roshar\|Roshar]] that is a major ally to [[Azir\|Azir]]. The people of Tashikk are called the Tashikki.
 
-## Sumario
+## Contents
 
 1 Etymology. [[#Etymology]] 
 2 Geography. [[#Geography]] 
@@ -50,22 +50,22 @@
 
 ## Geography
 Tashikk is located in southwestern Roshar, in the southernmost part of the geographical region of [[Makabak\|Makabak]]. It lies on the northern shore of the eastern [[Aimian Sea\|Aimian Sea]] and borders [[Liafor\|Liafor]] to the West, [[Yezier\|Yezier]] and [[Azir\|Azir]] to the North, and [[Emul\|Emul]] to South-East, the latter on a river.
-Tashikk appears to be rather flat, with wide, grass-covered fields. Local fauna and flora includes [[Axehind\|axehinds]], a species of deer-like, herbivorous crustaceans that live in herds; , tall, spindly trees so called for their ability to lie flat on the ground when a [[Highstorm\|highstorm]] comes; and a species of moss that grows between ground and loose rocks, sticking the two together to protect itself. [[Cremling\|Cremlings]] are noted as particularly unusual in Tashikk compared to the ones found further North and East.
+Tashikk appears to be rather flat, with wide, grass-covered fields. Local fauna and flora includes [[Axehind\|axehinds]], a species of deer-like, herbivorous crustaceans that live in herds; [[Drop-dead\|drop-deads]], tall, spindly trees so called for their ability to lie flat on the ground when a [[Highstorm\|highstorm]] comes; and a species of moss that grows between ground and loose rocks, sticking the two together to protect itself. [[Cremling\|Cremlings]] are noted as particularly unusual in Tashikk compared to the ones found further North and East.
 Tashikk has only one known major city, [[Yeddaw\|Yeddaw]], likely its capital. South of Yeddaw is also the town of [[Ifaba\|Ifaba]].
 
 ## History
 ### The Heraldic Epochs (c.-5825 - c.-3333)
   Map of the Silver Kingdoms
-Para más información, ver [[Makabakam\|Makabakam]].
+For more information, see [[Makabakam\|Makabakam]].
 During the [[Heraldic Epochs\|Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]]. As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar, before eventually expanding outward and conquering the rest of Roshar.
 It is not known what year during the Heraldic Epochs the area that would come to be Tashikk began to be inhabited by humans.
-Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his .
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
 It's uncertain when they split off from Makabakam.
 
 ### Era of Solitude (c.-3333 - 1173)
 At some point during the Era of Solitude they joined the Azish Empire as a member state.
 Circa 1074, Yeddaw was created with Azish Imperial Shardblades, and eventually became a prominent city in Tashikk.
-Shortly before the [[True Desolation\|True Desolation]] began, in late 1173 the [[Herald\|Herald]] [[Nale\|Nale]] was travelling across Tashikk with [[Szeth\|Szeth]] and several other , tracking down and killing new  in a misguided attempt to prevent a new Desolation.
+Shortly before the [[True Desolation\|True Desolation]] began, in late 1173 the [[Herald\|Herald]] [[Nale\|Nale]] was travelling across Tashikk with [[Szeth\|Szeth]] and several other [[Skybreakers\|Skybreakers]], tracking down and killing new [[Surgebinder\|Surgebinders]] in a misguided attempt to prevent a new Desolation.
 
 ### The True Desolation
 Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm\|Everstorm]] in Yeddaw in Jeses 1174, which led to Nale depart the country, leaving Szeth behind. He would later come back and take him to the [[Purelake\|Purelake]].
@@ -95,37 +95,20 @@ They are under the control of the Azish Empire, and are thus subservient to Azir
 
 ## Culture
 ### People
-The people of Tashikk are ethnically Makabaki, with dark brown skin. They are known to be polite and reserved, even compared to their northern neighbors. Much like the Azish, the Tashikki are highly formal, and their society is highly bureaucratized. Alongside , information is considered a valid currency among them.
+The people of Tashikk are ethnically Makabaki, with dark brown skin. They are known to be polite and reserved, even compared to their northern neighbors. Much like the Azish, the Tashikki are highly formal, and their society is highly bureaucratized. Alongside [[Sphere\|spheres]], information is considered a valid currency among them.
 Both men and women typically wear [[Shiqua\|shiquas]], complex, one-sheet wraps covering their entire body, including the face. The exceptions to that include guards, who need clothing that's easier to move in, and diplomats, who will sometimes use more common, international styles when abroad, presumably to fit in.
 
 ### Religion
 The Tashikki shiqua is religiously-motivated -- it is worn to protect the wearer from the eyes of **Nun Raylisi**, an evil entity that represents [[Odium\|Odium]] in their religion.
 Opposing Nun Raylisi is the god **Tashi** (the local name for [[Ishar\|Ishar]]), also known as God of Gods and Binder of the World. He is assisted by the Nine, a group of entities who "bound the world" together with him (presumably the other [[Herald\|Heralds]]). It is believed that Tashi protects the Tashikki in their home nation, and so they usually forego the face covering there, but keep it on when abroad.
-In [[Yeddaw\|Yeddaw]], the last of the ten types of pancakes made during the  is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made.
+In [[Yeddaw\|Yeddaw]], the last of the ten types of pancakes made during the [[Weeping\|Weeping]] is dedicated to him, though unlike the others, it is metaphorical, thought about rather than physically made.
 
 ## Notable citizens
- - a  from the [[Order of Truthwatchers\|Order of Truthwatchers]]
+[[Stump\|Stump]] - a [[Knight Radiant\|Knight Radiant]] from the [[Order of Truthwatchers\|Order of Truthwatchers]]
 [[Hauka\|Hauka]] - an Azish guard working in [[Yeddaw\|Yeddaw]]
 Prince of Tashikk - ruler of the country
 Prince's brother - ambassador to [[Azimir\|Azimir]] and, later, [[Urithiru\|Urithiru]]
-An unnamed  squire
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+An unnamed [[Skybreaker\|Skybreaker]] squire
 
 
-
-https://es.coppermind.net/wiki/Tashikki
+https://coppermind.net/wiki/Tashikki

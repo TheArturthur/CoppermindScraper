@@ -1,65 +1,51 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lemex**|
 |-|-|
-|**Fallecido**|Envenenado por [[Denth\|Denth]]|
-|**Capacidades**|[[Despertante\|Despertante]]|
-|**Religión**|[[Austrismo\|Austrismo]]🐱︎|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[De Idris\|de Idris]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Died**|Poisoned by [[Denth\|Denth]]|
+|**Abilities**|[[Awakener\|Awakener]]|
+|**Religion**|[[Austrism\|Austrism]]|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Idrian\|Idrian]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*He ganado notoriedad abusando del alma de otros. Y ahora me estoy muriendo.*”
-\-La última confesión de Lemex a Vivenna[2]
-
-
-**Lemex** es un comerciante idriano que vive en [[T'Telir\|T'Telir]] y el espía jefe del rey [[Dedelin\|Dedelin]] en [[Hallandren\|Hallandren]]. Como jefe de la red de espías, Lemex es el único, aparte del rey, que sabe quiénes son los demás espías y en qué proyectos trabajan.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Ver también. [[#Ver tambi.C3.A9n]] 
-5 Notas. [[#Notas]] 
+>“*I’ve gained notoriety through abusing the souls of others. And now I’m dying.*”
+\-Lemex's dying confession to Vivenna[2]
 
 
-## Apariencia y personalidad
->“*Pero me sentía tan poderoso... Podía hacer que el mismo polvo de la tierra obedeciera mis órdenes. ¡Fue por el bien de Idris!*”
-\-Lemex a Vivenna[2]
+**Lemex** is an [[Idrian\|Idrian]] merchant living in [[T'Telir\|T'Telir]] and King [[Dedelin\|Dedelin's]] chief spy in [[Hallandren\|Hallandren]]. As head of the spy network, Lemex is the only one besides the king who knows who all of the other spies are and what projects they work on.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 See Also. [[#See Also]] 
+5 Notes. [[#Notes]] 
 
 
-Lemex es un hombre astuto e inteligente de unos cincuenta años, una edad que se considera avanzada, aunque hasta que Denth comienza a envenenarlo es más espabilado de lo que cabría esperar debido a su riqueza en [[Aliento\|alientos]]. Cuando [[Vivenna\|Vivenna]] se encuentra con él por primera vez, está en cama con fiebres que lo dejan pálido y húmedo, delirante y delgado. El poder que siente al tener tal cantidad de alientos le obliga a comprar más y más alientos. Lemex justifica hacer lo que él, un seguidor del [[Austrismo\|austrismo]], siente que está mal centrándose en cómo su aura le permite una entrada más fácil a las fiestas y a las asambleas de la [[Corte de los Dioses\|corte]] para reunir información a la que de otro modo no tendría acceso. Parece ser un patriota que trabaja honestamente por el bien de Idris a pesar de malversar dinero del rey al mismo tiempo. Sin embargo, la avaricia de Lemex y su deseo de alargar su vida también le impulsan a acumular alientos, y algunas de las cosas que escribe al rey Dedelin, sumadas a la forma en que esconde el dinero en su casa, dejan algunas dudas sobre si al final podría haberse convertido en un traidor.
+## Appearance and Personality
+>“*But…I felt so powerful. I could make the very dust of the earth obey my command. It was for the good of Idris!*”
+\-Lemex to Vivenna[2]
 
-## Historia
->“*Creo que Lemex seguía siendo leal a Idris. Sus escritos personales lo dejan relativamente claro. No era un traidor: era simplemente avaricioso.*”
+
+Lemex is a crafty, intelligent man in his fifties, an age which is considered older, though up until Denth begins poisoning him he is sprier than might be expected due to his wealth of [[Breath\|Breaths]]. When [[Vivenna\|Vivenna]] meets him for the first time, he is bed-ridden with fevers that leave him pale and clammy, delirious, and thin. The power he feels from having such a large supply of Breaths compels him to buy more and more Breaths. Lemex justifies doing what he, a follower of [[Austrism\|Austrism]], feels is wrong by focusing on how his aura allows him easier entrance to parties and to [[Court of Gods\|court]] assemblies to gather information he might not otherwise have access to. He seems to be a patriot honestly working for the good of Idris despite embezzling money from the king at the same time. Lemex's greed and desire for a lengthened life also spur him to stockpile Breaths, though, and some of the things he writes to King Dedelin added to the way he hides money around his house leaves some doubt as to whether or not he might have turned traitor in the end.
+
+## History
+>“*I believe that Lemex was still loyal to Idris... He was not a traitor; he was simply greedy.*”
 \-Vivenna[5]
 
 
-Lemex se estableció en T'Telir como espía al servicio del rey Dedelin. El rey financió la compra de cincuenta alientos para Lemex con el fin de permitirle el acceso a las asambleas de la corte, tras lo cual empezó a falsear las cifras de sus informes de gastos, embolsándose el dinero extra y utilizando gran parte de él para comprar más alientos para sí mismo. La inminente amenaza de guerra también contribuyó a la decisión del rey de enviar a Lemex recursos aún mayores. Después de que [[Dedos Azules\|Dedos Azules]] contratara a la [[Banda de Denth\|banda de Denth]] para ayudar a incitar la guerra entre Hallandren e Idris, la banda buscó empleo a las órdenes de Lemex para entrar en la comunidad idriana. [[Denth\|Denth]] comenzó a manipular hábilmente a Lemex para que ayudara involuntariamente a la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]] mientras hacía parecer que estaba ayudando a Idris. Sin embargo, después de algún tiempo Lemex comenzó a volverse menos manejable; esto junto con la noticia de la inminente llegada de Vivenna precipitó la decisión de Denth de envenenar a Lemex.
+Lemex established himself in T'Telir as a spy in King Dedelin's service. The king funded the purchase of fifty Breaths for Lemex for the purpose of granting the man access to court assemblies, after which Lemex began fudging numbers in his expense reports, pocketing the extra money and using much of it to buy more Breaths for himself. The looming threat of war also contributed to the king's decision to send Lemex even greater resources. After [[Bluefingers\|Bluefingers]] hired [[Denth's crew\|Denth's crew]] to aid in inciting war between Hallandren and Idris, the crew sought out employment under Lemex as an in with the Idrian community. [[Denth\|Denth]] began deftly manipulating Lemex into unwittingly aiding the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] while making it seem like he was helping Idris. However, after some time Lemex began to grow less tractable; this together with the news of Vivenna's imminent arrival precipitated Denth's decision to poison Lemex.
 
-  Dándole sus <<Aliento\|alientos>> a <<Vivenna\|Vivenna>>
-De camino a T'Telir, Vivenna y [[Parlin\|Parlin]] acordaron por carta reunirse con Lemex, a quien Vivenna esperaba utilizar como mentor durante su estancia en la ciudad. Cuando llegaron al restaurante elegido como lugar de encuentro, fueron recibidos por sus empleados, dos mercenarios llamados Denth y [[Tonk Fah\|Tonk Fah]]. Los hombres llevaron a Vivenna a ver a Lemex, que estaba postrado en cama, febril y pálido. Denth afirmó que había caído enfermo, aunque los aproximadamente quinientos alientos que el hombre había acumulado mientras vivía en T'Telir lo hacían inmune a toda enfermedad. En realidad, Denth había estado envenenando a Lemex durante algún tiempo. Lemex recuperó la lucidez el tiempo suficiente para mantener una breve conversación con Vivenna en la que admitió que tras heredar los alientos de su predecesor, a pesar de sentir que estaba mal, siguió buscando y comprando más alientos. Sin dejarse intimidar por los intentos de Vivenna de pedirle nombres y contraseñas que le permitieran acceder a la red de espionaje idriano, siguió obsesionado con su mala conducta y siguió hablando de sus alientos. Se los dio a Vivenna, que evitaba, desesperada, tomarlos; entonces, habiendo perdido la resistencia al veneno que le otorgaban los alientos, murió rápidamente.
-Denth afirmaba que Lemex estaba cometiendo un desfalco a Idris, una afirmación que los papeles de la casa de Lemex corroboraban. Cuando la banda de Denth registró su casa, encontró cinco mil marcos de oro escondidos en varios lugares, así como un surtido de papeles y cartas que documentaban los planes de Lemex y su correspondencia con el rey Dedelin. Vivenna decidió continuar el trabajo de Lemex, sin darse cuenta de que muchos de sus planes para perturbar la capacidad de Hallandren para hacer la guerra coincidían con los planes de Denth para exacerbar las tensiones entre las dos naciones.
+  Giving his <<Breath\|Breaths>> to <<Vivenna\|Vivenna>>
+On their way to T'Telir, Vivenna and [[Parlin\|Parlin]] arranged via letter to meet with Lemex, whom Vivenna hoped to use as a mentor during her time in the city. When they arrived at the restaurant chosen for their meeting place, they were instead met by his employees, two mercenaries named Denth and [[Tonk Fah\|Tonk Fah]]. The men took Vivenna to see Lemex, who was bed-ridden, feverish and pale. Denth claimed Lemex had fallen ill, though the roughly five hundred Breaths the man had accumulated while living in T'Telir rendered him immune to all disease. In reality, Denth had been poisoning Lemex for some time. Lemex regained lucidity long enough to have a short conversation with Vivenna in which he admitted that after inheriting Breaths from his predecessor, despite feeling it was wrong, he continued to seek out and buy more Breaths. Undeterred by Vivenna's attempts to ask him for names and passcodes to allow her access to the Idrian spy network, he remained fixated on his wrongdoing and kept discussing his Breaths. He gave them to Vivenna, who desperately did not want to take them; then, having lost the Breaths' resistance to poison, he died quickly.
+Denth claimed that Lemex was embezzling from Idris, a claim that the paperwork in Lemex's house substantiated. When Denth's crew searched his house, they found five thousand gold marks hidden in various places as well as an assortment of papers and letters documenting Lemex's plans and his correspondence with King Dedelin. Vivenna decided to continue Lemex's work, not realizing that many of his plans to disrupt Hallandren's ability to wage war fell in line with Denth's plans to exacerbate tensions between the two nations.
 
-## Curiosidades
-En los primeros borradores del libro, Brandon tenía la intención de que Lemex viviera, y lo planeó como un hombre ágil y capaz que servía de mentor a Vivenna. Decidió matarlo por dos razones: por un lado, le parecía que recurría al tropo del mentor en muchas de sus obras y, por otro, creía que Lemex se convertiría en una muleta para Vivenna, impidiendo su crecimiento como personaje. Después de decidir matar a Lemex, Brandon reescribió a los mercenarios para que fueran más competentes y pudieran desempeñar parte de ese papel para Vivenna, al tiempo que le permitían estar fuera de su elemento en T'Telir.
-## Ver también
-[[Enfermera de Lemex\|Enfermera de Lemex]]
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+## Trivia
+In Brandon's first drafts of the book, he intended for Lemex to live, planning him as a spry, capable man serving as Vivenna's mentor. He decided to kill him off for two reasons: he felt like he relied on the mentor trope in a lot of his writing, and he felt that Lemex would become a crutch for Vivenna, hindering her growth as a character. After deciding to kill Lemex, Brandon rewrote the mercenaries to be more competent so they could fill some of that role for Vivenna while still allowing her to be out of her element in T'Telir.
+## See Also
+[[Lemex's nurse\|Lemex's nurse]]
 
 
-
-https://es.coppermind.net/wiki/Lemex
+https://coppermind.net/wiki/Lemex

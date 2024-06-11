@@ -1,34 +1,21 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nuluba**|
 |-|-|
-|**Familia**|
-|**Cónyuge**|[[Vormel\|Vormel]]|
-|**Oficio**|Pirata|
-|**Especie**|[[Varvax\|Varvax]]|
-|**Mundo natal**|*Desconocido*|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Cit%C3%B3nica (libro)\|Citónica]]*|
+|**Family**|
+|**Spouse**|[[Vormel\|Vormel]]|
+|**Profession**|Pirate|
+|**Species**|[[Varvax\|Varvax]]|
+|**Homeworld**|*Unknown*|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Cytonic (book)\|Cytonic]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Nuluba** es una [[Varvax\|varvax]] pirata del [[Cintur%C3%B3n\|cinturón]] de la [[Ninguna-parte\|ninguna-parte]]. Es miembro de la [[Facci%C3%B3n de los Costaderos\|Facción de los Costaderos]], y trabaja en la tripulación de tierra de [[Escuadr%C3%B3n Alfanje\|Escuadrón Alfanje]] junto a [[Maksim\|Maksim]].
+**Nuluba** is a [[Varvax\|varvax]] pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]]. She is a member of the [[Broadsider Faction\|Broadsider Faction]], working on the ground crew of [[Cutlass Flight\|Cutlass Flight]] alongside [[Maksim\|Maksim]].
 
-## Historia
-### Antes de convertirse en pirata
-Nuluba solía hacer análisis de clientes para las granjas de metano de [[Tuma\|Tuma]], en un departamento irrelevante. Tenía acceso a mucha información, incluidas las estadísticas de población de varios planetas. Se volvió demasiado curiosa con los datos y empezó a hacer demasiadas preguntas. Uno de sus trabajos consistía en examinar las estadísticas de población de las especies de "menor inteligencia", consideradas "agresivas". La Supremacía decía que esas especies se mataban entre sí a menudo mediante asesinatos intraespecies, pero Nuluba descubrió que no era así. Empezó a reunir pruebas, y estaba orgullosa de su revolucionaria investigación sobre lo erróneas que eran sus suposiciones sobre las especies "agresivas". La Supremacía la arrojó a ninguna-parte para mantenerla callada, antes incluso de que pudiera volver a ver a su compañero, [[Vormel\|Vormel]]. Después se unió a los piratas, en la facción Costadera.
-
-## Notas
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## History
+### Before Becoming a Pirate
+Nuluba used to do customer analysis for the methane utility farms on [[Tuma\|Tuma]], in an irrelevant department. She had access to a lot of information, including population statistics for several planets. She became too curious about the data, and started asking too many questions. One of her jobs was looking at population statistics for species of “lesser intelligence”, who were deemed “aggressive”. The Superiority said that those species killed each other often through intraspecies murder, but Nuluba found that to not be the case. Nuluba started gathering proof, and was proud of her revolutionary research about how wrong their assumptions of “aggressive” species were. The Superiority threw her into the nowhere to keep her quiet, before she even got to see her mate, [[Vormel\|Vormel]], again. Afterward she joined with the pirates, in the Broadsider faction.
 
 
 
-https://es.coppermind.net/wiki/Nuluba
+https://coppermind.net/wiki/Nuluba

@@ -1,139 +1,108 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|***El aliento de los dioses***|
+|***Warbreaker***|
 |-|-|
 ||
-|**Localización**|[[Nalthis\|Nalthis]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|9 de Junio de 2009|
-|**Fecha española**|8 de Junio de 2016|
-|**Editorial**||
-|**Editorial en español**||
+|**Setting**|[[Nalthis\|Nalthis]], [[Cosmere\|Cosmere]]|
+|**Released**|June 9, 2009|
+|**Publisher**||
 |**ISBN**|0-7653-2030-4|
-|**ISBN español**|978-8466658874|
-|**Número de Páginas**|592 , 720 |
-|**Número de Palabras**|[[El aliento de los dioses/An%C3%A1lisis estad%C3%ADstico\|196,014]]|
+|**Page Count**|592|
+|**Word Count**|[[Warbreaker/Statistical analysis\|196,014]]|
 
-Para el personaje Rompeguerras, llamado Warbreaker en inglés, ver [[Vasher\|Rompeguerras]].
-***El aliento de los dioses*** es una novela del [[Cosmere\|Cosmere]] escrita por [[Brandon Sanderson\|Brandon Sanderson]], que puede adquirirse en librerías o descargarse gratuitamente desde su página web.
+For Warbreaker the character, see [[Vasher\| Warbreaker]].
+***Warbreaker*** is a [[Cosmere\|cosmere]] novel by [[Brandon Sanderson\|Brandon Sanderson]], which is available for purchase in bookstores or for free download from his website.
 
-## Sumario
+## Contents
 
-1 Resumen. [[#Resumen]] 
-2 Personajes principales. [[#Personajes principales]] 
-3 Escenario. [[#Escenario]] 
+1 Summary. [[#Summary]] 
+2 Main Characters. [[#Main Characters]] 
+3 Setting. [[#Setting]] 
 
-3. [[#Sistema de magia]] 
-
-
-4 Desarrollo. [[#Desarrollo]] 
-5 Historial de publicación. [[#Historial de publicaci.C3.B3n]] 
-6 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-7 Arte interior. [[#Arte interior]] 
-8 Curiosidades. [[#Curiosidades]] 
-9 Premios. [[#Premios]] 
-10 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-11 Notas. [[#Notas]] 
+3. [[#Magic System]] 
 
 
-## Resumen
-Para un resumen capítulo a capítulo, ver [[El aliento de los dioses/Resumen\|/Resumen]].
-*El aliento de los dioses* cuenta la historia de dos princesas hermanas, [[Vivenna\|Vivenna]] y [[Siri\|Siri]], del país [[Idris\|Idris]]. Vivenna ha sido educada toda su vida para casarse con el [[Susebron\|rey-dios]] de [[Hallandren\|Hallandren]], la nación rival, con la esperanza de que este matrimonio evite la invasión de Idris por su parte, que llevan años amenazando. Por razones de conveniencia política, así como por las preferencias personales del rey de Idris, Siri es enviada, sin preparación, en lugar de su hermana. Vivenna, sintiéndo que su vida carece de sentido después de que Siri sea enviada en su lugar, la sigue hasta Hallandren con la esperanza de rescatarla. Siri y Vivenna se ven entonces envueltas en intrigas destinadas a provocar la guerra entre su nación natal, Idris, y Hallandren, e intentan evitar por separado que la guerra se produzca: Siri desde dentro del gobierno y Vivenna mediante la cooperación con los bajos fondos.
-Al mismo tiempo, la novela narra la historia de uno de los miembros [[Retornado\|Retornados]] de la corte real, [[Sondeluz\|Sondeluz]], y su búsqueda de la verdad tras la religión de Hallandren, así como la de su propia identidad. La cuarta historia que sigue el libro es la de [[Vasher\|Vasher]], un misterioso personaje con una espada parlante llamada [[Sangre Nocturna\|Sangre Nocturna]] y un impresionante dominio de los [[Aliento biocrom%C3%A1tico\|alientos biocromáticos]].
-El libro está ambientado en el [[Cosmere\|Cosmere]], en el [[/wiki/Cosmere#Planetas]] de [[Nalthis\|Nalthis]], hogar de la [[Esquirla\|Esquirla]] [[Dotaci%C3%B3n\|Dotación]]. Está narrada desde los puntos de vista de Vasher, Siri, Vivenna y Sondeluz.
+4 Development. [[#Development]] 
+5 Publication History. [[#Publication History]] 
+6 Cover Gallery. [[#Cover Gallery]] 
+7 Interior Art. [[#Interior Art]] 
+8 Trivia. [[#Trivia]] 
+9 Awards. [[#Awards]] 
+10 Statistical Analysis. [[#Statistical Analysis]] 
+11 Notes. [[#Notes]] 
 
-## Personajes principales
-Para un listado completo de los personajes, ver :Categoría:De Nalthis.
 
+## Summary
+For a complete chapter by chapter summary, see [[Warbreaker/Summary\|/Summary]].
+Warbreaker tells the story of two sister princesses, [[Vivenna\|Vivenna]] and [[Siri\|Siri]], of the country [[Idris\|Idris]]. Vivenna has been raised her entire life to marry the [[Susebron\|God King]] of the rival nation of [[Hallandren\|Hallandren]], in the hopes that this marriage will forestall Hallandren's invasion of Idris, which they have been threatening for years. For reasons of political expediency, as well as the personal preferences of the King of Idris, Siri is sent, unprepared, in Vivenna's stead. Vivenna, feeling her life to be devoid of purpose after Siri is sent in her place, follows her to Hallandren in hopes of rescuing her. Both Siri and Vivenna then become involved in intrigues intended to cause war between their home nation of Idris and Hallandren, and attempt to prevent the war from happening separately: Siri from within the government and Vivenna by cooperation with the underground.
+At the same time, the novel tells the story of one of the [[Returned\|Returned]] members of the royal court, [[Lightsong\|Lightsong]], and his search for the truth behind the Hallandren religion, as well as that of his own identity. The fourth story that the book follows is that of [[Vasher\|Vasher]], a mysterious character with a talking sword named [[Nightblood\|Nightblood]] and an impressive mastery of [[BioChromatic Breath\|BioChromatic Breaths]].
+The book is set in the [[Cosmere\|cosmere]] on the [[/wiki/Cosmere#Planets]] of [[Nalthis\|Nalthis]], home to the [[Shard\|Shard]] [[Endowment\|Endowment]]. It is told from Vasher's, Siri's, Vivenna's, and Lightsong's points of view.
+
+## Main Characters
+For a full list of characters, see :Category: Nalthians.
 
 
 
-## Escenario
-* El aliento de los dioses* tiene lugar en el [[Cosmere\|Cosmere]], en el planeta [[Nalthis\|Nalthis]].
 
-### Sistema de magia
-Para más información, ver [[Aliento biocrom%C3%A1tico\|aliento biocromático]].
-Todos los individuos nacen con un único [[Aliento\|aliento]], que puede ser transferido o cedido voluntariamente a otro individuo. Un aliento puede considerarse como un alma o como la manifestación del «sexto sentido». Una persona sin alientos se denomina [[Apagado\|apagado]]. Los apagados tienen dificultades para percibir el color y no experimentan el «sexto sentido» o la extraña sensación que resulta de que alguien le observe a uno sin ser observado. El uso prominente de la magia en [[Nalthis\|Nalthis]] se llama despertar, y depende de la presencia de color y Mandatos verbales dados por el usuario de la magia, así como del uso de estos alientos.
-Hay varias manifestaciones de la magia biocromática:
+## Setting
+Warbreaker is set in the [[Cosmere\|cosmere]] on the planet of [[Nalthis\|Nalthis]].
 
-
-Es importante señalar que todo uso o transferencia de aliento se considera herejía en [[Idris\|Idris]].
-
-## Desarrollo
-*El aliento de los dioses* se inspiró en parte en el deseo de Brandon de explorar cómo sería una historia con dioses vivos reales, ya que esta era una de las premisas de *[[Elantris (libro)\|Elantris]]*, pero, en esa historia, los [[Elantrino\|dioses]] habían perdido sus poderes. Para distinguir *El aliento de los dioses* de *Elantris*, hizo que los [[Retornado\|Retornados]] carecieran de cualquier poder real; en su lugar, centró su papel en la historia en la política, la profecía y en proporcionar sabiduría; y también hizo que los Retornados olvidaran su vida pasada. *El aliento de los dioses* también se inspiró en algunas escenas que Brandon había estado imaginando desde el principio, como [[Vasher\|Vasher]] desenvainando finalmente a [[Sangre Nocturna\|Sangre Nocturna]] en capítulo 56 y [[Sondeluz\|Sondeluz]] curando a [[Susebron\|Susebron]] en capítulo 57.
-*El aliento de los dioses* también se publicó gratuitamente en Internet a medida que se iba escribiendo, lo que permitió a los lectores ver los borradores y las escenas eliminadas años antes de su publicación. Brandon hizo esto a pesar del rechazo de su equipo y de su agente en Tor.
-
-## Historial de publicación
-Derechos:
+### Magic System
+For more information, see [[BioChromatic Breath\|BioChromatic Breath]].
+All individuals are born with a single [[Breath\|Breath]], which can be willingly transferred or given away to another individual. A Breath can be thought of as a soul, or as the manifestation of the 'sixth sense'. A person with no Breaths is called a [[Drab\|Drab]]. Drabs find it difficult to perceive color and do not experience the 'sixth sense' or the odd sensation resulting from someone watching one unobserved. The prominent use of magic on [[Nalthis\|Nalthis]] is called Awakening, and is reliant on the presence of color and verbal Commands given by the magic user, as well as the use of Breath.
+There are several manifestations of BioChromatic magic:
 
 
-Derechos en Estados Unidos para Tor
-Derechos de audio (sin abreviar) para Recorded Books
-Derechos de audio (abreviatura dramática) para Graphic Audio
-Derechos en chino (complejo, Taiwán) para Gaea
-Derechos checos a Talpress
-Derechos alemanes a Heyne
-Derechos italianos a Fanucci
-Derechos polacos a MAG
-Derechos españoles a Ediciones B
-Derechos británicos a Gollancz
-Derechos franceses a Calmann-Levy
-Derechos búlgaros a Studio of A
-Derechos iraníes para Houpaa
+It is important to note that all use or transfer of Breath is considered heresy in [[Idris\|Idris]].
 
-## Galería de portadas
-Para una galería de portadas de *El aliento de los dioses*, ver [[El aliento de los dioses/Portadas\|/Portadas]].
-## Arte interior
-Para una galería del arte interior del libro, ver [[El aliento de los dioses/Arte interior\|/Arte interior]].
-## Curiosidades
-*El aliento de los dioses* se inspiró en la [[Dadradah\|dadradah]], una de las religiones que predicaba [[Sazed\|Sazed]], centrada en el culto al arte.
-El editor de Brandon le dijo que su siguiente historia después de Elantris y Nacidos de la bruma tenía que tener algo de color, ya que ambas historias eran oscuras, así que le contestó que entonces escribiría sobre un sistema de magia basado en el color.
-## Premios
+## Development
+*Warbreaker* was partially inspired by Brandon wanting to explore what a story with actual living gods would be like, as this was one of the premises of *[[Elantris (book)\|Elantris]]*, but, in that story, the [[Elantrian\|gods]] had lost their powers. To distinguish *Warbreaker* from *Elantris*, he made the [[Returned\|Returned]] lack any real power—instead focusing their role in the story on politics, prophecy, and providing wisdom—and also made the Returned forget their past life. *Warbreaker* was also inspired by some scenes Brandon had been imagining from the beginning, like [[Vasher\|Vasher]] finally drawing [[Nightblood\|Nightblood]] in Chapter 56 and [[Lightsong\|Lightsong]] healing [[Susebron\|Susebron]] in Chapter 57.
+*Warbreaker* was also released for free online as it was written, allowing readers to see the rough drafts and deleted scenes years before it was published. Brandon did this despite discouragement from his teams and agent at Tor.
 
-Elegida por Library Journal como una de las 5 mejores novelas de ciencia ficción y fantasía de 2009
-Elegida por Barnes & Noble como una de las 5 mejores novelas de ciencia ficción y fantasía de 2009
-Elegida por The Onion A.V. Club como una de las mejores de 2009.
-Nominada al Premio David Gemmell Legend 2010
-Nominada al Premio Romantic Times 2009, Mejor Fantasía Épica
-Una de las cinco mejores novelas de fantasía de la ALA en 2009
-24 en la lista de libros de tapa dura del NY Times
+## Publication History
+Rights:
 
-## Análisis estadístico
-Para un análisis estadístico completo, ver [[El aliento de los dioses/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
-*El aliento de los dioses" consta de un prólogo, cincuenta y ocho capítulos y un epílogo, con un total de 196.014 palabras (en su edición en inglés). Hay seis personajes distintos en un total de 110 puntos de vista.*
 
-|**Conteo de palabras **|196,014||
+United States rights to Tor
+Audio rights (unabridged) to Recorded Books
+Audio rights (dramatic abridgment) to Graphic Audio
+Chinese rights (complex, Taiwan) to Gaea
+Czech rights to Talpress
+German rights to Heyne
+Italian rights to Fanucci
+Polish rights to MAG
+Spanish rights to Ediciones B
+UK rights to Gollancz
+French rights to Calmann-Levy
+Bulgarian rights to Studio of A
+Iranian rights to Houpaa
+
+## Cover Gallery
+For a cover gallery of Warbreaker, see [[Warbreaker/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[Warbreaker/Interior art\|/Interior art]].
+## Trivia
+Warbreaker was inspired by [[Dadradah\|Dadradah]], one of the religions that [[Sazed\|Sazed]] preached about, which focused on worshipping art.
+Brandon's editor told him that his next story after Elantris and Mistborn had to have some color to it, since those stories were both dark, so he replied that he would then write about a color based magic system.
+## Awards
+
+Chosen by Library Journal as one of the 5 best SF&F novels of 2009
+Chosen by Barnes & Noble as one of the 5 best SF&F novels of 2009
+Chosen by The Onion A.V. Club as a Best of 2009
+Nominated for the 2010 David Gemmell Legend Award
+Nominated for 2009 Romantic Times Award, Best Epic Fantasy
+An ALA Top Five Fantasy of 2009
+24 on NY Times hardcover list
+
+## Statistical Analysis
+For a full statistical analysis, see [[Warbreaker/Statistical analysis\|/Statistical analysis]].
+*Warbreaker* consists of one prologue, fifty-eight chapters, and one epilogue, reaching a total 196,014 word count. There are six different unique point-of-view characters in a total of 110 POVs.
+
+|**Word Count**|196,014||
 |-|-|
-|**Conteo de páginas **|592|Tor tapa dura|
-|**Conteo de páginas **|720|NOVA tapa dura|
-|**Conteo de capítulos**|60|Incluye prólogo y epílogo|
-|**Personajes con punto de vista**|6||
-|**Conteo de puntos de vista**|110||
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|** (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] ·  · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Page Count**|592|Tor hardback|
+|**Chapter Count**|60|Including prologue and epilogue|
+|**PoV Characters**|6||
+|**PoV Count**|110||
 
 
 
-https://es.coppermind.net/wiki/Warbreaker
+https://coppermind.net/wiki/Warbreaker

@@ -1,93 +1,78 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Tain**|
 |-|-|
-|**Apodos**|[[Sharezan\|Sharezan]]|
-|**Oficio**|[[Trackt\|Trackt]]🐱︎, criminal|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Aliases**|[[Sharezan\|Sharezan]]|
+|**Profession**|[[Trackt\|Trackt]], Criminal|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Tain** es un [[Trackt\|trackt]] que trabaja a las órdenes de [[Ais\|Ais]] en [[Taldain\|Taldain]]. También es el señor del crimen **Sharezan**. Se desconoce cuál de ellos es su verdadero nombre, si es que alguno lo es. Utiliza su papel de trackt como tapadera y forma de adelantarse a las autoridades. La organización de Sharezan está implicada en el tráfico de drogas y otras actividades ilícitas no especificadas relacionadas con la [[Torre (Taldain)\|Torre]] y el [[/wiki/Lossand#Pol.C3.ADticas]].
+**Tain** is a [[Trackt\|trackt]] working under [[Ais\|Ais]] on [[Taldain\|Taldain]]. He is also the crime lord **Sharezan**. It is unknown which of these, if any, is his true name. He uses his role as a trackt as a cover and a way to stay ahead of the authorities. Sharezan's organization is involved in running drug dens and other unspecified illicit activities involving the [[Tower (Taldain)\|Tower]] and the [[/wiki/Lossand#Politics]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Como trackt]] 
-2. [[#Como Sharezan]] 
-
-
-3 Relaciones. [[#Relaciones]] 
-
-3. [[#Como trackt 2]] 
-3. [[#Como Sharezan 2]] 
+2. [[#As a Trackt]] 
+2. [[#As Sharezan]] 
 
 
-4 Citas. [[#Citas]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+3 Relationships. [[#Relationships]] 
+
+3. [[#As a Trackt 2]] 
+3. [[#As Sharezan 2]] 
 
 
-## Apariencia y personalidad
-Tain es un hombre de mediana edad con el pelo gris. Viste la túnica, la capa, los pantalones y las botas negras de un trackt y lleva un [[Zinkall\|zinkall]] en el brazo derecho. Le gusta explotar los miedos de la gente. Como pasatiempo, investiga los defectos de la gente, descubre su punto de ruptura y, a continuación, prepara elaboradas trampas para forzar todos sus detonantes e intentar llevarlos al borde de la cordura.
+4 Quotes. [[#Quotes]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
-## Historia
-### Como trackt
-Tain era un [[Trackt\|trackt]] que trabajaba a las órdenes de [[Ais\|Ais]] e, irónicamente, era uno de los investigadores principales que seguían a Sharezan, a quien Ais creía erróneamente que era [[Nilto\|Nilto]], mientras Ais estaba ocupado vigilando a [[Kenton\|Kenton]]. Fue asignado a vigilar las carreras de barcos de Nilto cuando Ais sospechó que éste manipulaba los resultados. Informó a Ais de que [[Lokmlen\|Lokmlen]] había hecho un trato mientras estaba detenido y que se estaban acercando, presumiblemente para atrapar a Sharezan. Fue enviado a investigar la muerte de [[Tarn (Taldain)\|Tarn el Tonk]], donde "descubrió" una nota de advertencia de Sharezan. Llevó la nota a Ais, que estaba en el [[Diem\|Diem]]. Ais preguntó a quién podía advertir la nota, ya que probablemente se había colocado después de que Tarn ya estuviera muerto, y Tain le dijo que creía que era una advertencia para todos los trackts. Cuando Ais salía de hablar con [[Heelis\|Heelis]] sobre la muerte de [[Raagent\|Raagent]], Tain la interceptó diciéndole que habían encontrado a Sharezan. Tain le entregó un [[Zinkall\|zinkall]] y le pidió que se uniera a él en la incursión. Cuando Ais le preguntó cómo lo había descubierto, Tain dijo que había sido la confesión de Lokmlen la que lo había delatado. Cuando llegaron al supuesto escondite, Tain levantó su zinkall hacia la cabeza de Ais y se reveló como Sharezan.
 
-### Como Sharezan
->“*Me gusta nuestro juego, Ais. Tú apuestas tu familia. Me temo que poco tengo con lo que corresponderte.*”
-\-Sharezan en su primera carta a Ais.[4]
+## Appearance and Personality
+Tain is a middle aged man with gray hair. He wears the black robes, cape, pants, and boots of a trackt and has a [[Zinkall\|zinkall]] on his right arm. He enjoys exploiting people's fears. As a hobby he explores peoples' flaws, discovers their breaking point, and then sets up elaborate traps to push all of their triggers and try and drive them off the brink of sanity.
 
-Después de que los hombres de Sharezan y los trackts de Ais tuvieran un enfrentamiento durante una redada en la que murieron seis trackts y cinco más resultaron heridos, Ais luchó y detuvo a Lokmlen y descubrieron a un [[Torkel\|Torkel]] suicida y enfermo vivo en un armario oculto. Los cadáveres de los familiares de Torkel también se encontraron en el armario con él. Le dijo a Ais que él y su familia habían sido encarcelados por Sharezan después de que éste intentara echarse atrás en un trato secreto, probablemente relacionado con su acceso a Vey. Cuando Ais llegó a casa, encontró una carta de Sharezan esperándola. Como reacción a esta carta, Ais pidió a [[Mellis\|Mellis]] que se llevara a [[Melloni\|Melloni]] y buscaran refugio en algún lugar del sur para que pudieran estar a salvo de Sharezan; Mellis no la escuchó.
-Sharezan mató a [[Tarn (Taldain)\|Tarn]], un agente suyo, para evitar que acudiera a las autoridades. Después, como Tain, volvió para "investigar" la muerte y plantó una nota de advertencia que luego llevó a Ais.. El [[Lord general\|lord general]] [[Raagent\|Raagent]] organizó una reunión con Ais con la esperanza de librarse de las garras de Sharezan, pero éste se enteró de la reunión y preparó una trampa. Colocó una bomba incendiaria en el edificio abandonado donde iba a tener lugar la reunión, pero Ais se dio cuenta de que algo iba mal cuando oyó que alguien se alejaba cojeando, y ella y Kenton escaparon ilesos.
-Presumiblemente como venganza por su intento de traición, Sharezan ejecutó personalmente a Raagent de forma brutal. Se coló en el dormitorio de Raagent en la [[Torre (Taldain)\|Torre]], utilizó las sábanas de la cama [[ShalRim\|ShalRim]] de Raagent para atarlo y luego lo bajó a la bodega de la Torre, donde no se oirían sus gritos de auxilio. Sharezan apoyó a Raagent contra una pared y encendió velas para iluminar la oscuridad de la bodega. Luego le dio una dosis de [[Kamo\|kamo]], un estimulante emocional, y le cortó los párpados. Como, al igual que todos los habitantes del Lado Diurno, Raagent tenía miedo a la oscuridad, el kamo, combinado con la creciente oscuridad provocada por las velas encendidas, hizo que la mente de Raagent conjurara todo tipo de horrores. Como no podía cerrar los ojos, se veía obligado a soportar estas pesadillas hasta que murió del susto. [[Baon\|Baon]] teorizó que el asesinato se cometió para reducir las posibilidades de Kenton de ganar todos los votos del [[Taishin\|Taishin]], ya que Raagent era uno de los partidarios de Kenton.
+## History
+### As a Trackt
+Tain was a [[Trackt\|trackt]] working under [[Ais\|Ais]] and, ironically, was one of the head investigators tracking Sharezan, whom Ais incorrectly believed to be [[Nilto\|Nilto]], while Ais was busy guarding [[Kenton\|Kenton]]. He was assigned to watch Nilto's boat races when Ais suspected Nilto of manipulating the results. He reported to Ais that [[Lokmlen\|Lokmlen]] cut a deal while in custody and that they were getting close, presumably to catching Sharezan. He was sent to investigate the death of [[Tarn (Taldain)\|Tarn the Tonk]] where he "discovered" a note of warning from Sharezan. He brought the note to Ais, who was at the [[Diem\|Diem]]. Ais asked whom the note could be warning, since it was likely placed after Tarn was already dead, and Tain told her that he thought it was a warning to all of the trackts. When Ais was on her way out from speaking with [[Heelis\|Heelis]] about [[Raagent\|Raagent's]] death, Tain intercepted her, saying that they had found Sharezan. Tain handed her a [[Zinkall\|zinkall]] and asked her to join him on the raid. When Ais asked how he figured it out, Tain said that it was Lokmlen's confession that gave it away. When they arrived in the alleged hideout, Tain raised his zinkall to Ais' head and revealed himself to be Sharezan.
 
->“*¡Qué víctimas tan desgarradoras son los huérfanos! Inocentes, pero sin nadie que los llore. ¿O preferirás salvar a alguien con una conexión aún más personal?*”
-\-Sharezan a Ais[1]
+### As Sharezan
+>“*I enjoy our game, Ais. You gamble your family - I fear I have little to bet in return.*”
+\-Sharezan in his first letter to Ais.[4]
 
-Cuando Ais salía de hablar con [[Heelis\|Heelis]] sobre la muerte de [[Raagent\|Raagent]], Tain la interceptó diciéndole que habían encontrado a Sharezan. Tain le entregó un [[Zinkall\|zinkall]] y le pidió que se uniera a él en la incursión. Cuando Ais le preguntó cómo lo había descubierto, Tain dijo que había sido la confesión de Lokmlen la que lo había delatado. Cuando llegaron al supuesto escondite, Tain levantó su zinkall hacia la cabeza de Ais y se reveló como Sharezan. Una conmocionada Ais admitió su sorpresa ante esta revelación y admitió que había sospechado de Nilto. Ais intentó utilizar la zinkall que le dio para matarle, pero se hinchó y falló. Sharezan se rió de que hubiera confiado en él cuando le dio el arma, aunque si hubiera sido Nilto no habría confiado en el arma. Uno de sus hombres tiró a Ais al suelo y, sabiendo que Ais tenía un conflicto emocional en su interior, Sharezan se regodeó con ella sobre el "**proyecto**" que había planeado para ella.
-Sharezan le dijo a Ais que, debido a su trabajo, su operación en Kezare se había visto fatalmente comprometida y que pronto se tomaría un tiempo libre, pero quería dedicarse a una afición suya antes de marcharse. Le dijo que había hecho que Lokmlen colocara una trampa incendiaria en el orfanato en el que se había criado Ais y que también iba a atacar y herir a su familia; ella no tendría tiempo de salvar a ambos. Entonces, dejándola con este dilema, huyó tras ordenar a sus hombres que la retuvieran durante un minuto y luego la soltaran. Cuando la liberaron, Ais echó a correr por las calles presa del pánico, respirando de forma errática. Buscó y encontró desesperadamente a un trackt en la calle y, entre jadeos, le dijo que fuera a asegurar el orfanato. Luego, sin aliento, se dirigió a trompicones a su casa. Cuando se acercó a la casa, oyó un fuerte golpe procedente del interior; presa del pánico y temerosa de lo que pudiera encontrarse, corrió escaleras arriba. Cuando entró, vio a Tain, con una espada en la mano, siendo arrojado a través de una pared por Kenton. Este le dijo que [[Mellis\|Mellis]] y [[Melloni\|Melloni]] estaban a salvo y que ese "asesino" estaba a punto de matarlos. Kenton le explicó entonces que había venido a preguntarle algo sobre Raagent cuando vio a un hombre armado que entraba en la casa, supuso que era un asesino que venía a matarle y, por puro reflejo, le lanzó su arena. Cuando Ais le dijo que el atacante era en realidad Sharezan, Kenton se dispuso a matarlo; Ais se lo impidió, diciendo que Sharezan debía enfrentarse a la justicia.
+After Sharezan's men and Ais' trackts had a shoot-out during a raid in which six trackts were killed and five more were injured, Ais fought and arrested Lokmlen and they discovered a suicidal and sickly [[Torkel\|Torkel]] alive in a hidden closet. The corpses of Torkel's family members were also found in the closet with him. He told Ais that he and his family were imprisoned by Sharezan after he tried to back out of a secret deal, likely related to his access to Vey. When Ais got home she found a letter from Sharezan waiting for her. In reaction to this letter, Ais asked [[Mellis\|Mellis]] to take [[Melloni\|Melloni]] and seek refuge somewhere in the south so they could be safe from Sharezan; Mellis didn't listen to her.
+Sharezan killed [[Tarn (Taldain)\|Tarn]], an agent of his, to prevent him from going to the authorities. Afterwards, as Tain, he returned to "investigate" the death and he planted a note of warning which he then brought to Ais.. [[Lord General\|Lord General]] [[Raagent\|Raagent]] arranged a meeting with Ais hoping to get out of Sharezan's grasp, but Sharezan heard of the meeting and made a trap. He planted a firebomb in the abandoned building where the meeting was to have taken place, but Ais noticed something was wrong when she heard someone limping away, and she and Kenton escaped unharmed.
+Presumably as revenge for his attempted betrayal, Sharezan personally executed Raagent in a brutal fashion. He snuck into Raagent's sleeping chambers in the [[Tower (Taldain)\|Tower]], used Raagent's [[ShalRim\|ShalRim]] bed sheets to tie him up, and then brought him down into the Tower's wine cellar where his cries for help wouldn't be heard. Sharezan propped Raagent up against a wall and lit candles to provide some light in the darkness of the cellar. He then dosed him with [[Kamo\|kamo]], an emotional stimulant, and cut off his eyelids. Since, like all Daysiders, Raagent was afraid of the dark, the kamo combined with the growing darkness from the candles burning out caused Raagent's mind to conjure up all sorts of horrors. Since he couldn't close his eyes, he was forced to endure these nightmares until he died from the fright. [[Baon\|Baon]] theorized that the murder was done in order to lessen Kenton's chances of winning all of the [[Taishin\|Taishins']] votes, since Raagent was one of Kenton's supporters.
 
-## Relaciones
-### Como trackt
-El trackt Tain es un oficial de alto rango entre los trackts del [[Sala del Juicio\|Salón de los Trackts]]. Trabaja directamente para Ais como su segundo al mando. Ais lo considera su mejor oficial.
+>“*Orphans make such heart-wrenching victims, so innocent yet no one to mourn them. Or would you prioritize saving someone with a more personal connection?*”
+\-Sharezan to Ais[1]
 
-### Como Sharezan
-Como señor del crimen Sharezan, Tain tiene una amplia influencia sobre [[Kezare\|Kezare]]. Los miembros conocidos de su banda y las personas bajo su influencia son:
+When Ais was on her way out from speaking with [[Heelis\|Heelis]] about [[Raagent\|Raagent's]] death, Tain intercepted her saying that they found Sharezan. Tain handed her a [[Zinkall\|zinkall]] and asked her to join him on the raid. When Ais asked how he figured it out, Tain said that it was Lokmlen's confession that gave it away. When they arrived in the alleged hideout, Tain raised his zinkall to Ais' head and revealed himself to be Sharezan. A shocked Ais admitted her surprise at this revelation and admitted that she had suspected Nilto. Ais tried to use the zinkall he gave her to kill him, but it puffed and failed. Sharezan laughed at the fact that she had trusted him when he gave her the weapon, though if it had been Nilto she wouldn't have trusted the weapon. One of his men knocked Ais to the ground and, knowing that Ais had a raging emotional conflict inside her, Sharezan gloated to her about the "**project**" he had planned for her.
+Sharezan told Ais that due to her work his operation in Kezare had been fatally compromised and that he would soon be taking some time off, but he wanted to indulge in a hobby of his before he left. He told her that he had Lokmlen plant a firetrap in the orphanage in which Ais was raised and that he was also going to attack and hurt her family; she wouldn't have time to save both. Then, leaving her with this dilemma, he ran off after instructing his men to hold her for one minute and then let her go. When they released her, Ais ran into the streets in a panic, breathing erratically. She desperately searched for and found a trackt on the street and, between gasps, told him to go secure the orphanage. Then, out of breath, she stumbled to her house. When she neared the house she heard a loud banging sound coming from inside; in a panic and afraid of what she would find, she ran upstairs. When she got inside she saw Tain, holding a sword, being thrown through a wall by Kenton. Kenton told her that [[Mellis\|Mellis]] and [[Melloni\|Melloni]] were safe and that this "assassin" was about to kill them. Kenton then explained that he had come to ask her something about Raagent when he saw an armed man entering the house, assumed he was an assassin coming to kill him, and in sheer reflex lashed out with his sand. When Ais told him that this attacker was really Sharezan, Kenton moved to kill him; Ais stopped him, saying that Sharezan must face proper justice.
 
-[[Tarn (Taldain)\|Tarn el Tonk]]
+## Relationships
+### As a Trackt
+Trackt Tain is a high ranking officer among the trackts of [[Hall of Judgement\|Trackt Hall]]. He works directly for Ais as her second-in-command. Ais considers him to be her best officer.
+
+### As Sharezan
+As the crime lord Sharezan, Tain has wide ranging influence over [[Kezare\|Kezare]]. Known members of his gang and people under its influence are:
+
+[[Tarn (Taldain)\|Tarn the Tonk]]
 [[Lokmlen\|Lokmlen]]
 [[Raagent\|Raagent]]
 [[Torkel\|Torkel]]
-## Citas
->“*Me fascina explorar las debilidades de la gente y averiguar dónde está su límite. El pobre lord Raagent, por ejemplo, siempre tuvo un miedo horrible a la oscuridad.*”
-\-Sharezan a Ais[1]
-
-
->“*¿Deber o familia, Ais? Elige rápido. Mis hombres te dejarán marcharte dentro de un minuto… … pero por desgracia, no tendrás tiempo de salvar a los dos.*”
+## Quotes
+>“*I'm fascinated by exploring people's flaws and finding their breaking point. Poor Lord Raagent was so afraid of the dark, for instance, it was enough to drive him insane.*”
 \-Sharezan to Ais[1]
 
 
-## Curiosidades
-En la [[Arena Blanca (prosa)\|prosa]] Kenton mata accidentalmente a Sharezan creyendo que era el asesino terken, en lugar de limitarse a aturdirlo como hace en la novela gráfica.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+>“*Duty or family, Ais? Choose quickly--my men will let you leave here in one minute, but regrettably you won't have time to save both.*”
+\-Sharezan to Ais[1]
 
 
+## Trivia
+In the [[White Sand (prose)\|prose]] Kenton accidentally kills Sharezan, beleiving him to be a terken assassin; instead of merely stunning him as he does in the graphic novel.
 
-https://es.coppermind.net/wiki/Tain
+
+https://coppermind.net/wiki/Tain

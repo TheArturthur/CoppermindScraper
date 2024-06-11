@@ -1,34 +1,22 @@
-
-
 |**Kurshina**|
 |-|-|
-|**Cónyuge**|[[Ashravan\|Ashravan]]|
-|**Fallecido**||
-|**Títulos**|Emperatriz del [[Imperio Rosa\|Imperio Rosa]]|
-|**Nacionalidad**|[[Grande\|Grande]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Spouse**|[[Ashravan\|Ashravan]]|
+|**Died**||
+|**Titles**|Empress of the [[Rose Empire\|Rose Empire]]|
+|**Nationality**|[[Grand\|Grand]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Kurshina** es la antigua emperatriz del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]].
+**Kurshina** is the former Empress of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]].
 
-## Apariencia y personalidad
-Kurshina tiene el pelo rojo. Poco más se sabe sobre ella, aunque es probable que tenga una edad similar a la de su esposo, el emperador Ashravan, que tiene cuarenta años.
+## Appearance and Personality
+Kurshina has red hair. Little else is known about her, but she is likely close in age to her husband, Emperor Ashravan, who is forty.
 
-## Historia
-Durante un intento de asesinato contra Ashravan por parte de la [[Facci%C3%B3n Gloria\|Facción Gloria]], Kurshina es asesinada y Ashravan sufre una lesión cerebral que lo deja en estado vegetativo. La muerte de Kurshina permite a los [[%C3%81rbitro\|árbitros]] de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] ocultar al imperio el estado de Ashravan, ya que la tradición le permite realizar un periodo de luto de cien días. Los árbitros proclaman públicamente que Ashravan se ha recluido durante el luto, y contratan a [[Shai\|Shai]] para intentar crear una [[Marca de Esencia\|Marca de Esencia]] y arreglar la mente de Ashravan antes de que termine el periodo de luto.
-Durante la detallada investigación de Shai sobre la vida de Ashravan, descubre que el primer amor de Ashravan, sacado de un cuento, tenía el pelo rojo. Shai cree que esto atrajo a Ashravan inconscientemente hacia Kurshina. También descubre que estuvo cerca de tener una aventura amorosa.
-Ashravan, tras ser estampado con la Marca de Esencia de Shai y despertar, recuerda la muerte de Kurshina. Shai puede observar que este hecho le causa un dolor intenso, aunque lo oculta rápidamente. Más tarde jura castigar a los asesinos de su esposa.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:15, 18 de agosto de 2019 (UTC)
-|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
-|-|-|
-|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] ·  · [[Buf%C3%B3n imperial\|Bufón imperial]]|
-|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
-|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+## History
+During an assassination attempt against Ashravan by the [[Glory Faction\|Glory Faction]], Kurshina was killed and Ashravan sustained a brain injury that put him in a vegetative state. Kurshina's death allowed the [[Arbiter\|arbiters]] from the [[Heritage Faction\|Heritage Faction]] to keep Ashravan's condition secret from the empire, since tradition allowed him to have a mourning period of one hundred days. The arbiters publicly claimed that Ashravan had sequestered himself while he mourned, enlisting [[Shai\|Shai]] to try to make an [[Essence Mark\|Essence Mark]] and fix Ashravan's mind before the end of the mourning period.
+During Shai's detailed research into Ashravan's life, she discovered that Ashravan's first love from a storybook had red hair; Shai believed that this subconsciously drew him to Kurshina. She also discovered that Ashravan once nearly had an affair.
+After Ashravan was stamped with Shai's Essence Mark and woke up, he remembered Kurshina's death. Shai could see that this caused him intense grief, although he hid it quickly. He later vowed to punish his wife's murderers.
 
 
 
-https://es.coppermind.net/wiki/Kurshina
+https://coppermind.net/wiki/Kurshina

@@ -1,10 +1,10 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-**Emplear esquirlada** puede hacer referencia a aquel que utiliza;
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+**Shardwielding** may be a reference to someone who uses;
 
-[[Hoja esquirlada\|Hoja esquirlada]]
-[[Armadura esquirlada\|Armadura esquirlada]]
-Una lista de portadores de esquirlada puede encontrarse aquí Categoría:Portadores de esquirlada
+[[Shardblade\|Shardblade]]
+[[Shardplate\|Shardplate]]
+A list of all Shardbearers can be found here Category:Shardbearers
 
 
 
-https://es.coppermind.net/wiki/Shardwielding
+https://coppermind.net/wiki/Shardwielding

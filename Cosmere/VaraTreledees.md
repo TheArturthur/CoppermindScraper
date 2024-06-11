@@ -1,93 +1,81 @@
-
-
 |**Denth**|
 |-|-|
 ||
-|**Familia**|
-|**Hermanos**|[[Shashara\|Shashara]]|
-|**Parientes**|[[Dedelin\|Dedelin]], [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Sisirinah\|Sisirinah]]|
-|**Ancestros**|[[Vo\|Vo]]|
-|**Fallecido**|En [[#Muerte]] contra [[Vasher\|Vasher]]|
-|**Capacidades**|Retornados, [[Despertante\|Despertante]], [[Saltamundos\|Saltamundos]], [[Sombra cognitiva\|Sombra cognitiva]], [[Mechones Reales\|Mechones Reales]]|
-|**Apodos**|Vara Treledees|
-|**Oficio**|Erudito, mercenario|
-|**Grupo**|[[Los Cinco Sabios\|Los Cinco Sabios]]🐱︎, [[Banda de Denth\|Banda de Denth]]🐱︎|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Family**|
+|**Siblings**|[[Shashara\|Shashara]]|
+|**Relatives**|[[Dedelin\|Dedelin]], [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Sisirinah\|Sisirinah]]|
+|**Ancestors**|[[Vo\|Vo]]|
+|**Died**|[[#Death]] with [[Vasher\|Vasher]]|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Royal Locks\|Royal Locks]]|
+|**Aliases**|VaraTreledees|
+|**Profession**|Scholar, Mercenary|
+|**Groups**|[[Five Scholars\|Five Scholars]], [[Denth's crew\|Denth's crew]]|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
-VaraTreledees redirige aquí. Para el sumo sacerdote de [[Susebron\|Susebron]], ver [[Treledees\|Treledees]].
->“*He intentado dar marcha atrás. Pero la oscuridad... está dentro. No puedo escapar de ella. Mi risa es falsa. No puedo olvidar.*”
-\-Denth a Vasher.[2]
-
-
-**Denth** o **Vara Treledees** es un [[Retornado\|Retornado]] de Nalthis. También es [[Saltamundos\|saltamundos]] y uno de [[Los Cinco Sabios\|los Cinco Sabios]] de [[Nalthis\|Nalthis]]. Es posible que también pertenezca al linaje real de [[Idris\|Idris]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Antes de la rebeli.C3.B3n]] 
-3. [[#Rebeli.C3.B3n Pahn Kahl]] 
-3. [[#Muerte]] 
+VaraTreledees redirects here. For [[Susebron\|Susebron's]] high priest, see [[Treledees\|Treledees]].
+>“*I've tried going back. But the darkness... it's inside. I can't escape it. My laughter has an edge to it. I can't forget.*”
+\-Denth to Vasher [2]
 
 
-4 Relaciones. [[#Relaciones]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+**Denth** or **VaraTreledees** is a [[Returned\|Returned]] from Nalthis. He is also a [[Worldhopper\|worldhopper]] and one of the [[Five Scholars\|Five Scholars]]. He may also be a member of the royal line of [[Idris\|Idris]].
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Pre Rebellion]] 
+3. [[#Pahn Kahl rebellion]] 
+3. [[#Death]] 
 
 
-## Apariencia y personalidad
+4 Relationships. [[#Relationships]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
  
-Para más imágenes, ver [[Denth/Galer%C3%ADa\|/Galería]].
-Como Retornado, Denth puede cambiar de aspecto a su antojo.
-Durante la Rebelión Pahn Kahl, Denth aparenta ser un hombre de unos treinta años. Viste de cuero marrón normal y corriente, aunque lleva algo de color como por ejemplo su chaleco de seda roja. Tiene el rostro alargado y el cabello recogido en una coleta corta. Se mantiene aseado y lleva la cara bien afeitada.
-Su visión del mundo es por lo general cínica, posiblemente influida por la frustración que siente por verse obligado a hacer cosas por las que se siente mal.
+For more images, see [[Denth/Gallery\|/Gallery]].
+As a Returned Denth can change his appearance by will.
+During the Pahn Kahl rebellion Denth appears as man in his thirties. He dresses in nondescript brown leather, but he keeps some color, such as his red vest. He has a long face and styled hair pulled back into a neat short ponytail. He keeps himself well groomed and is clean-shaven.
+His overall outlook is cynical, likely colored by his own frustration that he finds himself having to do things he feels bad about. 
 
-## Atributos y habilidades
-Como [[Retornado\|Retornado]], Denth es más rápido y fuerte que otras personas. También es inmune a la mayoría de las toxinas y no puede morir a causa de su edad.
-Denth es un espadachín espléndido. Es tan rápido que puede matar a la mayoría de la gente antes de que se den cuenta, incluso a guerreros entrenados. Incluso los luchadores consumados como Vasher se ven claramente superados por él.
-Entiende el [[Despertar\|despertar]] a un nivel avanzado, siendo uno de [[Los Cinco Sabios\|los Cinco Sabios]]. También es un despertante muy hábil.
-Es un actor consumado y un manipulador, capaz de engañar a [[Vivenna\|Vivenna]] y a los otros idiranos durante meses para que organicen una guerra por él.
-No viajó mucho por el [[Cosmere\|Cosmere]].
+## Attributes and Abilities
+As a [[Returned\|Returned]] Denth is faster and stronger than other people. He is also immune to most toxins and cannot die of old age.
+Denth is a superb swordsman. He is so quick he can kill most people, even trained warriors, before they can react. Even accomplished fighters such as Vasher are clearly outmatched by him.
+Denth understands [[Awakening\|Awakening]] on an advanced level, as one of the Five Scholars. He is also a very skilled awakener.
+Denth is a consummate actor and manipulator, able to deceive [[Vivenna\|Vivenna]] and the other Idrians for months into setting up a war for him.
+He has not travelled the cosmere widely.
 
-## Historia
+## History
  
-### Antes de la rebelión
-No se sabe mucho de cómo era la vida de Denth antes de que aparezca en [[Hallandren\|Hallandren]]. Su nombre original era Vara Treledees y era un erudito antes de [[La Multiguerra\|la Multiguerra]]. Al principio trató de detener la guerra pero acabó uniéndose al bando de Vasher. Ahora odia a [[Vasher\|Vasher]] por haber matado a su hermana [[Shashara\|Shashara]] y no le importa que Vasher lo hiciera para proteger el secreto de cómo [[Despertar\|despertar]] acero.
-Algún tiempo después de la Multiguerra se puso el nombre de Denth y formó una banda de mercenarios junto a [[Tonk Fah\|Tonk Fah]], [[Joyas\|Joyas]] y [[Arsteel\|Arsteel]]. En algún momento Arsteel se enfrentó a Vasher y resultó muerto. Denth aprovechó esta oportunidad para descubrir cómo funcionaba un [[Retornado\|Retornado]] muerto como [[Sinvida\|sinvida]], convirtiendo a Arsteel en uno a quien llamaron [[Clod\|Clod]].
-Denth también ha pasado algún tiempo en el planeta [[Roshar\|Roshar]], aunque cuándo y por qué sigue sin estar claro.
+### Pre Rebellion
+Little is known of Denth's life before he shows up in [[Hallandren\|Hallandren]]. Denth was originally known as VaraTreledees and was a scholar before the [[Manywar\|Manywar]]. He initially tried to stop the war, but ultimately took Vasher's side. He now hates [[Vasher\|Vasher]] for killing his sister [[Shashara\|Shashara]] and does not care that Vasher did it to protect the secret of [[Awakening\|Awakening]] steel.
+Some time after the Manywar he took the name Denth and created a mercenary band with [[Tonk Fah\|Tonk Fah]], [[Jewels\|Jewels]], and [[Arsteel\|Arsteel]]. At some point Arsteel encountered Vasher and was killed by him. Denth took this opportunity to see how a dead Returned works as a [[Lifeless\|Lifeless]], and they renamed him [[Clod\|Clod]].
+Denth has also spent time on the planet [[Roshar\|Roshar]], though when and for what purpose remains unclear.
 
-### Rebelión Pahn Kahl
->“*Lamentablemente, princesa, estamos aquí para matarte.*”
-\-Denth a Vivenna.[12]
-
-
-Denth conspira junto a los rebeldes de [[Pahn Kahl\|Pahn Kahl]] para derrocar al gobierno de Hallandren. Junto con su banda, consigue infiltrarse en la red de espías de [[Idris\|Idris]] para secuestrar a [[Vivenna\|Vivenna]]. Haciéndose pasar por mercenarios que trabajan para [[Lemex\|Lemex]], se hacen amigos de Vivenna tras envenenar a Lemex para que parezca que éste había muerto por una enfermedad. Denth utiliza a Vivenna para incrementar las tensiones entre [[Hallandren\|Hallandren]] e [[Idris\|Idris]] y así llevar a Hallandren a la guerra. Más adelante, cuando Vivenna es secuestrada por [[Vasher\|Vasher]], Denth y [[Tonk Fah\|Tonk Fah]] torturan y matan a [[Parlin\|Parlin]], amigo de Vivenna, para tratar de descubrir a dónde había ido ésta. Cuando Vivenna escapa de Vasher y vuelve al escondite, descubre la verdad acerca de Denth y su banda. En la confrontación que sigue, Denth es atacado por [[Clod\|Clod]] por orden de Vivenna, de modo que la princesa consigue escapar. Denth pilla a Vasher cuando éste está intentando rescatar a la hermana de Vivenna, Siri, que está viviendo en el palacio del rey-dios. Denth lanza la espada de Vasher, [[Sangre Nocturna\|Sangre Nocturna]], al agua para que no cause problemas y cuelga a Vasher por las muñecas en una habitación sin color del palacio del rey-dios para interrogarlo. Tras recuperar a Sangre Nocturna, Vivenna ayuda a Vasher a escapar. Denth muere en duelo contra Vasher cuando éste lo apuñala tras haberle transferido los [[Aliento\|alientos]] que le quedaban para aturdirlo. Vasher no era mejor espadachín que Denth, y ambos lo sabían.
-
-### Muerte
-Durante la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]], Denth se enfrenta a Vasher en un duelo para demostrar que Vasher no es mejor espadachín que [[Arsteel\|Arsteel]] o él mismo, y descubrir cómo pudo derrotarlo. La pelea revela que Denth es en efecto mejor espadachín, pero Vasher es más sagaz. Vasher trasnfiere sus [[Aliento\|alientos]] a Denth, aturdiéndolo durante un momento que le permite atravesarlo con su daga. Mientras Denth está muriendo, su pelo cambia de un color a otro, acabando por volverse «blanco de terror». Esto revela que Denth tenía los [[Mechones Reales\|Mechones Reales]], independientemente de su estado de [[Retornado\|Retornado]].
-
-## Relaciones
-Denth era uno de [[Los Cinco Sabios\|los Cinco Sabios]]. Era el hermano de [[Shashara\|Shashara]] y enemigo a muerte de Vasher, otro de los Sabios.
-Es el líder de una banda de mercenarios formada por [[Tonk Fah\|Tonk Fah]], [[Joyas\|Joyas]] y [[Clod\|Clod]].
-Durante un tiempo finge estar al servicio de Vivenna y ser su aliado.
-Realmente está contratado por [[Dedos Azules\|Dedos Azules]].
-## Curiosidades
-Brandon considera a Denth el «anti-[[Kelsier\|Kelsier]]», ya que ambos eran «simplistas, inteligentes y habían sido contratados para hacer tareas imposibles». Sin embargo Denth, a diferencia de Kelsier, es el antagonista.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] ·  · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+### Pahn Kahl rebellion
+>“*Unfortunately, Princess, we're here to kill you.*”
+\-Denth to Vivenna [12]
 
 
+Denth conspires with the [[Pahn Kahl\|Pahn Kahl]] rebels to overthrow the Hallandren government. Denth and his band infiltrate the [[Idrian\|Idrian]] spy network to kidnap [[Vivenna\|Vivenna]]. Acting as mercenaries working for [[Lemex\|Lemex]] they befriend Vivenna after poisoning Lemex to make it look like he died of illness. Denth uses Vivenna to increase tensions between [[Hallandren\|Hallandren]] and [[Idris\|Idris]] to drive [[Hallandren\|Hallandren]] to war. Later, after Vivenna is kidnapped by [[Vasher\|Vasher]], Denth and [[Tonk Fah\|Tonk Fah]] torture and kill [[Parlin\|Parlin]], Vivenna's friend to try and discover where she has gone. When Vivenna escapes from Vasher and returns to the safe house, she uncovers the truth about Denth and [[Tonk Fah\|Tonk Fah]]. In the ensuing confrontation, Denth is attacked by [[Clod\|Clod]] on [[Vivenna\|Vivenna's]] command, and she escapes. Denth catches Vasher while he is attemping to rescue Vivenna's sister [[Siri\|Siri]] who is living in the god king's palace. He has Vasher's sword [[Nightblood\|Nightblood]] thrown in the water so it can cause no further harm, then has Vasher hung by his wrists in a room with no color in the god king's palace to interrogate him. After retrieving Nightblood, Vivenna assists in [[Vasher\|Vasher's]] escape. Denth is killed by Vasher in a duel; Vasher stabs Denth after transferring what [[Breath\|Breath]] he had left into Denth in order to stun him. Vasher was not a better swordsman than Denth, and this was known by both characters.
 
-https://es.coppermind.net/wiki/VaraTreledees
+### Death
+During the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Denth fights a duel with Vasher to prove that Vasher is not a better swordsman than [[Arsteel\|Arsteel]] or himself, and to find out how he won. Denth's fight with Vasher reveals that Denth is the better swordsman, however Vasher is more cunning. Vasher gives his [[Breath\|Breaths]] to Denth, effectively stunning him for a moment and Vasher runs him through with his dagger. As Denth dies, his hair flashes between colors, eventually falling to stark white. This reveals that Denth has the [[Royal Locks\|Royal Locks]], independent from being a [[Returned\|Returned]].
+
+## Relationships
+Denth was one of the Five Scholars. He was the brother of Shashara and sworn enemy of Vasher, another of the Scholars.
+He is the leader of a mercenary band including [[Tonk Fah\|Tonk Fah]], [[Jewels\|Jewels]], and [[Clod\|Clod]].
+He temporarily pretends to be employed by and allied with Vivenna.
+He's actually in the employ of [[Bluefingers\|Bluefingers]].
+## Trivia
+Brandon considers Denth to be "the anti-[[Kelsier\|Kelsier]]", as they are both "glib, smart, and hired to do impossible tasks"; however, Denth, unlike Kelsier, is the antagonist.
+
+
+https://coppermind.net/wiki/VaraTreledees

@@ -1,134 +1,122 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Caza estelar**|
+|**Starfighter**|
 |-|-|
 ||
-|**Tipo**|Nave espacial|
-|**Universo**|[[Citoverso\|Citoverso]]|
+|**Type**|Spacecraft|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]*, *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, y *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]*, *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, and *[[Evershore (novella)\|Evershore]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Se pulsa el gatillo y ya está, listillo. Para disparar con destructor no hace falta cerebro. Pero el PMI es un asunto muy distinto. Pulso Magallanes Invertido. Anula cualquier escudo, incluyendo el propio, ojo, en un radio de cincuenta metros.*”
+>“*You pull the trigger, smart boy, doesn't take a brain to use a destructor. The IMP though, that’s another matter. Inverted Magellan Pulse. It breaks any shield—including your own —within fifty meters.*”
 \-Cobb[1]
 
 
-Una **caza estelar** es un avión de combate espacial. Un número de diferentes cazas estelares están en producción por las máquinas de [[Caverna %C3%8Dgnea\|Caverna Ígnea]].
+A **starfighter** is a spaceworthy fighter plane. A number of different starfighters are in production by the machines of [[Igneous Cavern\|Igneous Cavern]].
 
-## Sumario
+## Contents
 
-1 Sistemas de maniobra. [[#Sistemas de maniobra]] 
+1 Maneuvering Systems. [[#Maneuvering Systems]] 
 
-1. [[#Impulsores]] 
+1. [[#Boosters]] 
 
-1. [[#Tipos]] 
-
-
-1. [[#Turbina atmosf.C3.A9rica y alas]] 
-1. [[#Anillo de pendiente]] 
-1. [[#ConGravs]] 
-1. [[#Sensores]] 
-1. [[#Escudos]] 
+1. [[#Types]] 
 
 
-2 Sistemas de armamento. [[#Sistemas de armamento]] 
-
-2. [[#Lanza de luz]] 
-2. [[#Destructores]] 
-
-2. [[#Tipos 2]] 
-
-
-2. [[#Pulso Magallanes Invertido]] 
+1. [[#Atmospheric Scoop and Wings]] 
+1. [[#Acclivity Ring]] 
+1. [[#GravCaps]] 
+1. [[#Sensors]] 
+1. [[#Shields]] 
 
 
-3 Clases naves. [[#Clases naves]] 
+2 Weaponry Systems. [[#Weaponry Systems]] 
+
+2. [[#Light-Lance]] 
+2. [[#Destructors]] 
+
+2. [[#Types 2]] 
+
+
+2. [[#Inverted Magellan Pulse]] 
+
+
+3 Ship Classes. [[#Ship Classes]] 
 
 3. [[#Poco]] 
-3. [[#Explorador clase Val]] 
+3. [[#Val-Class Scouter]] 
 
 
-4 Notas. [[#Notas]] 
+4 Notes. [[#Notes]] 
 
 
-## Sistemas de maniobra
-### Impulsores
-Los propulsores centrales son necesarios para acelerar las naves. Los propulsores normales se pueden encontrar en desguaces y aerodeslizadores, pero los propulsores centrales de grado A solo se pueden encontrar en la tecnología militar de la FDD.
+## Maneuvering Systems
+### Boosters
+Central boosters are necessary for high acceleration for ships. Regular boosters can be found in junkyards and on hovercars, but grade-A central boosters can only be found on [[DDF\|DDF]] military tech.
 
-La velocidad de una caza estelar se mide en Mag. Un Mag equivale a unas trescientas millas por hora, o 134.112 metros por segundo (unos 480 kilómetros por hora).
+The speed of a starfighter is measured in Mag. One Mag is equivalent to about three hundred miles per hour, or 134.112 metres per second.
 
-#### Tipos
-  Demostración del funcionamiento de la turbina atmosférica
-[[Gali\|Gali]] informa a [[Spensa\|Spensa]] de que un propulsor central de A-17 a A-32 cabría en [[M-Bot\|M-Bot]].
-Después de que el trabajador sanitario entre y hable con su clase, Spensa pregunta a Gali qué tipo de propulsor central se utiliza en la versión actual de las naves estelares de clase Poco. Gali responde inmediatamente que se trata de un propulsor A-19. 
+#### Types
+  Demonstration of how the Atmospheric Scoop functions
+[[Rig\|Rig]] informs [[Spensa\|Spensa]] that an A-17 through A-32 central booster would fit in [[M-Bot\|M-Bot]].
+After the sanitation worker comes in and talks to their class, Spensa asks Rig what type of central booster is used on the current version of Poco-class starships. Rig immediately responds that it is an A-19 booster.
 
-### Turbina atmosférica y alas
-El hecho de que haya atmósfera marca una diferencia significativa en las técnicas de vuelo. Aunque los cazas estelares pueden volar en el espacio, en la atmósfera disponen de turbinas atmosféricas para reducir la resistencia al viento, y alas para proporcionar mayor sustentación y maniobrabilidad. Permiten giros que no pueden realizarse sin ellas.
+### Atmospheric Scoop and Wings
+Whether there is atmosphere makes significant difference in flying techniques. Although starfighters can fly in space, in atmosphere, they have atmospheric scoops to reduce wind resistance and wings to provide extra lift and maneuverability. They enable turns that cannot be performed without them.
 
-### Anillo de pendiente
+### Acclivity Ring
  
-Un anillo de pendiente es un anillo hecho de [[Piedra de pendiente\|piedra de pendiente]], una poderosa sustancia que actúa como antigravedad cuando está activada.
-La [[FDD\|FDD]], la [[Supremac%C3%ADa\|Supremacía]] y el campo de desechos orbitales alrededor de [[Detritus\|Detritus]] utilizan uno o varios anillos de pendiente para mantener sus naves en el aire. Permiten que una nave permanezca en el aire aunque esté inmóvil. Estos anillos son muy escasos y su cantidad limita básicamente cuántos cazas pueden utilizar los humanos. Por lo tanto, el salvamento y la recuperación de estos anillos es una de las principales preocupaciones y prioridades de la [[F%C3%A9rrea\|almirante Férrea]].
-Los anillos de pendiente pueden girarse o angularse para realizar giros bruscos y otras maniobras avanzadas.
-Además de su uso en naves estelares, se utilizan anillos de pendiente más pequeños para vehículos como aerodeslizadores, motos aerodeslizadoras y las plataformas flotantes que el capitán [[Hesho\|Hesho]] y los [[Kitsen\|kitsen]] utilizan para desplazarse. También se utilizan como herramientas para ayudar a levantar y manipular objetos más pesados: como el equipo de mantenimiento que [[Spensa\|Spensa]] utiliza en [[M-Bot\|M-Bot]].
-Se pueden utilizar varios anillos de pendiente conjuntamente para levantar algo más grande, como los astilleros de naves orbitales.
+An acclivity ring is a ring made of [[Acclivity stone\|acclivity stone]], a powerful substance that acts as anti-gravity when powered.
+The [[DDF\|DDF]], the [[Superiority\|Superiority]], and the orbital debris field around [[Detritus\|Detritus]] use one or more acclivity rings to keep their ships in the air. They allow a ship to remain in the air even if the ship is motionless. These rings are very rare and their amount basically limits how many fighters human can utilize. Therefore, the salvage and recovery of these rings is one of [[Ironsides\|Admiral Ironside's]] top worries and priorities.
+Acclivity rings can be rotated or angled to perform sharp turns and other advanced maneuvers.
+In addition to their use on starships, smaller acclivity rings are used for vehicles such as hovercars, hoverbikes, and the floating platforms Captain [[Hesho\|Hesho]] and the [[Kitsen\|kitsen]] use to move around. They are also used as tools to assist lifting and handling heavier objects: such as the maintenance gear [[Spensa\|Spensa]] uses on [[M-Bot\|M-Bot]].
+Several acclivity rings can be used in conjunction to lift something larger, such as the orbital ship yards.
 
-### ConGravs
+### GravCaps
  
-Los ConGravs, o condensadores gravitatorios, son una parte funcional principal de los cazas estelares de la [[FDD\|FDD]], permitiendo más maniobrabilidad de la que sería posible de otro modo. Al realizar giros bruscos, los ConGravs evitan que la fuerza gravitatoria afecte al piloto durante unos 3 segundos, permitiendo más flexibilidad de la que sería posible de otro modo. Como los cazas FDD no limitan la aceleración máxima para proteger al piloto, la fuerza G producida al acelerar puede aplastar fácilmente al piloto, por lo que los cazas estelares están equipados con ConGravs. Los estándar de la FDD pueden absorber las fuerzas G, pero si se supera el umbral de fuerza que los ConGravs pueden soportar, el piloto puede resultar herido.
-[[M-Bot\|M-Bot]] destaca por tener ConGravs superiores a los de las naves de la FDD, que pueden absorber mayores fuerzas g durante más tiempo que los ConGravs utilizados por la FDD. Además, la cabina del M-bot está equipada con un mecanismo que puede ajustar la dirección del asiento del piloto, reduciendo las fuerzas verticales sobre el piloto.
+GravCaps, or gravitational capacitors, are a main functional part of [[DDF\|DDF]] starfighters, allowing for more maneuverability than would otherwise be possible. When making sharp turns, the GravCaps prevent gravitational force from affecting the pilot for about 3 seconds, allowing more flexibility than would otherwise be possible. As DDF fighters do not limit maximum acceleration to protect the pilot, the G-force produced when accelerating can easily crush the pilot, so starfighters are equipped with GravCaps. Standard DDF GravCaps can absorb G-forces, if the threshold of force that the GravCaps can handle is exceeded, the pilot can be injured.
+[[M-Bot\|M-Bot]] is noted to have superior GravCaps than DDF ships, which can absorb larger g-forces for longer than than the GravCaps used by the DDF. Additionally, M-bot's cockpit is equipped with a mechanism that can adjust the direction of the pilot's seat, reducing the vertical forces on the pilot.
 
-### Sensores
-Todos los cazas están equipados con un sistema de sensores que les permite vigilar su entorno.
-Los exploradores de la Clase Val tienen un sistema de sensores especialmente bueno, capaz de funcionar a mayor distancia y con más detalle que los sensores de otros cazas como el Poco.
+### Sensors
+All fighters are equipped with a sensor system that allows them to monitor their surroundings.
+Val-class scouters have a particularly good sensor system, able to work an a longer range and produce more detail than the sensors on other fighters such as the Poco.
 
-### Escudos
-Todas las naves estelares de la FDD y la Supremacía utilizan escudos de energía para proteger sus cascos y a sus ocupantes de cualquier daño. Están controlados por un componente conocido como activador de escudos. Los escudos funcionan direccionalmente, bloqueando el fuego entrante mientras permiten el paso de las armas salientes.
-Los escudos pueden ser desactivados por una descarga del PMI, dejando a las naves vulnerables al fuego enemigo. Los cazas de la FDD deben desviar toda la energía de sus propulsores -inmovilizando las naves o bloqueando sus trayectorias- durante unos treinta segundos para volver a encender sus escudos.
+### Shields
+All DDF and Superiority starships utilize energy shields to protect their hulls and their occupants from harm. They are controlled by a component known as a shield igniter. Shields function directionally, blocking incoming fire while allowing outgoing weapons through.
+Shields can be disabled by an IMP blast, leaving ships vulnerable to enemy fire. DDF fighters must divert all power from their boosters—effectively either immobilizing the crafts or locking their trajectories—for around thirty seconds in order to reignite their shields.
 
-## Sistemas de armamento
+## Weaponry Systems
  
-### Lanza de luz
-Una lanza de luz es un arma y herramienta utilizada por la [[FDD\|FDD]] y [[M-Bot\|M-Bot]] para agarrarse a escombros u otras naves, permitiendo maniobras de asistencia gravitatoria, de rescate y otras para arrastrar escombros hacia naves [[Varvax\|Krell]] que serían imposibles de otro modo.
-Funciona disparando un haz de luz al objetivo, sujetándolo hasta que el piloto los suelta.
-Se describe como una versión más grande y potente de la [[L%C3%ADnea de luz\|línea de luz]].
+### Light-Lance
+A Light-lance is a weapon and tool used by the [[DDF\|DDF]] and [[M-Bot\|M-Bot]] to grapple to debris or other ships, allowing slingshot maneuvers otherwise impossible, rescue maneuvers, and other maneuvers to drag debris into [[Varvax\|Krell]] ships.
+It functions by shooting a beam of light at the target, attaching the two until the pilot releases them.
+It is described as a larger, more powerful version of the [[Light-line\|light-line]].
 
-### Destructores
-El destructor es un arma utilizada por la [[FDD\|FDD]] y la [[Supremac%C3%ADa\|Supremacía]] para dañar y destruir naves enemigas. Dependiendo de la secuencia de botones pulsados, el destructor puede disparar un solo proyectil o una ráfaga. Los botones se pueden mantener pulsados para cargar y disparar un rayo concentrado.
-Un destructor es un arma de rayo de energía, y el principal medio para derribar naves enemigas. Una ráfaga de destructor contiene unos 30 kus de energía. Un disparo suyo bastaría para derribar un caza si diera en el punto adecuado, pero puede ser bloqueado por los campos de fuerza generados por los activadores de escudo. Los escudos de a bordo de la FDD pueden resistir 80 kus, lo que equivale a unos tres disparos. Los Krell tienen tanto destructores como escudos superiores a los de la FDD y normalmente hacen falta seis disparos para inutilizar el escudo de un caza Krell. Sin embargo, las naves de la FDD tienen dos ventajas: la [[Lanza de luz\|lanza de luz]] utilizada para el agarre y la [[PMI\|PMI]] que puede inutilizar los escudos enemigos.
+### Destructors
+The Destructor is a weapon used by the [[DDF\|DDF]] and the [[Superiority\|Superiority]] to damage and destroy enemy ships. Depending on the sequence of buttons pressed, the Destructor can fire a single projectile or a burst volley. The buttons can be held to charge and fire a concentrated beam.
+A destructor is an energy beam weapon, and the primary means to shoot down enemy vessels. One destructor burst contains about 30 kus of energy. One shot of it would be enough to take down a fighter if it hit the right spot, but it can be blocked by force-fields generated by shield igniters. DDF shipboard shields can withstand 80 kus which amounts to about three shots. The Krell have both superior destructors and shields than those of the DDF and it usually requires six shots to disable the shield of a Krell fighter. However, DDF ships have two advantages: the [[Light-lance\|light-lance]] used for grappling and [[IMP\|IMP]] that can disable enemy shields.
 
-#### Tipos
-Los Pocos tienen destructores Stewart 138, que pueden generar hasta 30 kus de energía.
-Los exploradores clase Val tienen un único 131, que tiene notablemente mucha menos potencia de fuego que el Stewart 138.
+#### Types
+Pocos have 138 Stewart destructors, which can generate up to 30 kus of energy.
+Val-Class scouters have a single 131, which has notably far less firepower than the 138 Stewart.
 
-### Pulso Magallanes Invertido
-El Pulso Magallanes Invertido es un arma utilizada por la [[FDD\|FDD]] para desactivar los escudos de las naves estelares [[Supremac%C3%ADa\|Krell]].
-El PMI emana de la nave, en lugar de ser disparado como otras armas. Cuando se utiliza, tiene un radio de cincuenta metros, neutralizando todos los escudos, incluidos los de la propia nave del usuario. Esto deja a todas las naves a su alcance vulnerables durante un tiempo, hasta que vuelven a activar sus escudos. Esto es útil para la lucha en equipo, donde una nave neutraliza un escudo, y su compañero de ala se carga la nave Krell vulnerable.
-Se desconoce la antigüedad de la tecnología, ya que tanto [[M-Bot\|M-Bot]] como las naves de combate de la FDD tienen esta capacidad.
+### Inverted Magellan Pulse
+The Inverted Magellan Pulse is a weapon used by the [[DDF\|DDF]] to disable the [[Superiority\|Krell]] starship shields.
+The IMP emanates from the ship, instead of being fired like other weapons. When used, it has a radius of fifty meters, neutralizing all shields, including those on the user's own ship. This leave all ships in range vulnerable for a time, until they fire up their shields again. This is useful for team fighting, where one ship neutralizes a shield, and their wingmate picks off the vulnerable Krell ship.
+It is unknown how old the technology is, as both [[M-Bot\|M-Bot]] and the DDF fighter ships have this capability.
 
-## Clases naves
+
+## Ship Classes
 ### Poco
-Una forma estándar de caza utilizado por la FDD.
-Están equipados con dos destructores Stewart 138.
-Su propulsor es un modelo A19, que les permite desplazarse a Mag-10.5.
+A standard form of fighter used by the DDF.
+They are equipped with dual 138 Stewart Destructors.
+Their booster is an A19 Model, which allows them to move upward of Mag-10.5.
 
-### Explorador clase Val
+### Val-Class Scouter
  
-Los exploradores clase Val son naves destinadas a explorar y encontrar Krell que vuelan bajo el radar. No están pensadas para el combate como otras naves, pero están hechas para poder luchar si las circunstancias lo hacen necesario.
-Están equipados con un único destructor 131, de baja potencia de fuego. Al mismo tiempo, tienen poco armamento, incluso en comparación con un Poco.
-Tienen un sensor de alta calidad instalado en ellos, que son capaces de funcionar a larga distancia, y proporcionan un alto grado de detalle.
-Aparentemente tienen alas muy angulosas, con una cabina y un fuselaje más estrechos en comparación con el Poco.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+Val-Class Scouters are ships intended for scouting and finding Krell which fly under the radar. They are not intended for combat like other ships, but are made to be able to fight if the moment makes it necessary.
+They are equipped with a single 131 Destructor, with low firepower. At the same time, they have low armaments, even in comparison to a Poco.
+They have a high-quality sensor installed into them, which are able to function at long-range, and provide a high degree of detail.
+They appear to have sharply angled wings, with a more narrow cockpit and fuselage compared to the Poco.
 
 
 
-https://es.coppermind.net/wiki/Destructor
+https://coppermind.net/wiki/Destructor

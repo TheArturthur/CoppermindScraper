@@ -1,7 +1,7 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-**Kholin** puede hacer referencia a la [[Casa Kholin\|casa Kholin]] o a cualquiera de las siguientes opciones:
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+**Kholin** may refer to [[House Kholin\|House Kholin]] or any of the following:
 
-## Personas
+## People
 [[Adolin Kholin\|Adolin Kholin]]
 [[Renarin Kholin\|Renarin Kholin]]
 [[Dalinar Kholin\|Dalinar Kholin]]
@@ -10,9 +10,9 @@
 [[Gavilar Kholin\|Gavilar Kholin]]
 [[Navani Kholin\|Navani Kholin]]
 [[Jasnah Kholin\|Jasnah Kholin]]
-## Lugares
-[[Principado Kholin\|Principado Kholin]]
-[[Las Llanuras Quebradas\|Campamento de guerra Kholin]]
+## Places
+[[Kholin princedom\|Kholin princedom]]
+[[Shattered Plains\|Kholin warcamp]]
 
 
-https://es.coppermind.net/wiki/Kholin
+https://coppermind.net/wiki/Kholin

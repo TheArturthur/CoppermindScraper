@@ -1,450 +1,442 @@
+  The cover of *[[Arcanum Unbounded\|Arcanum Unbounded]]*, featuring <<Khriss\|Khriss>>
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, and *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
+
+>“*You’ve stumbled into something far, far bigger than you, your politics, or your little planet ... Your questions are dangerous. Once you step behind the curtain and see the actors as the people they are, it becomes harder to pretend the play is real.*”
+\-Khriss to Kelsier[1]
 
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*  y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido estos libros.
+The **cosmere** is a fictional shared universe where many of [[Brandon Sanderson\|Brandon Sanderson's]] books take place. As a result, books set in the cosmere share a single cosmology and underlying rules of magic, and some characters from one world will make appearances on other worlds. Despite the connections, Brandon has remained clear that one does not need any knowledge of the broader cosmere to read, understand, or enjoy books that take place in the cosmere.
+The core sequence of the cosmere will consist of the [[Dragonsteel (series)\|Dragonsteel series]], the [[Elantris trilogy\|Elantris trilogy]], at least four eras of the [[Mistborn (series)\|Mistborn series]], and [[The Stormlight Archive\|The Stormlight Archive]]. The story of the cosmere does not include any books that reference [[Earth\|Earth]], as Earth is not in the cosmere. For a complete list of books in the cosmere, see [[#Bibliography of the Cosmere]].
+The shared "creation myth" of the cosmere revolves around [[Adonalsium\|Adonalsium]], the power of creation, which was broken into sixteen pieces called [[Shard\|Shards]] in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. The Shards are effectively gods, and magic is derived from their power.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*, *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*, y *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+## Contents
 
-  La portada del *[[Arcanum ilimitado\|Arcanum ilimitado]]*, en la que aparece <<Khriss\|Khriss>>
->“*Bueno, has topado con algo mucho, mucho más grande que tú mismo, tú política y tu pequeño planeta. [...] Las preguntas que haces son peligrosas. Cuando uno pasa tras el telón y ve a los actores como las personas que son, le cuesta más fingir que la obra es real.*”
-\-Khriss a Kelsier.[1]
+1 Properties and Forces. [[#Properties and Forces]] 
 
+1. [[#Realms]] 
 
-El **Cosmere** es un universo compartido ficticio en el que algunos libros de [[Brandon Sanderson\|Brandon Sanderson]] tienen lugar. Por tanto, los libros situados en el Cosmere comparten una única cosmología y reglas de magia subyacentes, apareciendo algunos personajes en otros mundos ajenos al suyo. A pesar de las conexiones, Brandon ha dejado claro que uno no necesita ningún conocimiento del Cosmere en general para leer, entender, o disfrutar de los libros que tienen lugar en él.
-Las secuencia principal del Cosmere consistirá en la [[Dragonsteel (saga)\|saga Dragonsteel]], la [[Trilog%C3%ADa de Elantris\|trilogía de Elantris]], al menos cuatro eras de la [[Nacidos de la bruma (saga)\|saga Nacidos de la bruma]] y *[[El archivo de las tormentas\|El archivo de las tormentas]]*. La historia del Cosmere no incluye ningún libro que haga referencia a la [[Tierra\|Tierra]], puesto que la tierra no está en el Cosmere. Para una lista completa de libros del Cosmere, véase [[#Bilbiograf.C3.ADa del Cosmere]].
-El “mito de la creación” compartido en el Cosmere gira entorno a [[Adonalsium\|Adonalsium]], el poder de la creación, que se fragmentó en dieciséis trozos llamados [[Esquirla\|Esquirlas]] en un evento conocido como la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Las Esquirlas son en efecto dioses, y la magia se deriva de su poder.
-
-## Sumario
-
-1 Propiedades y fuerzas. [[#Propiedades y fuerzas]] 
-
-1. [[#Reinos]] 
-
-1. [[#El Reino F.C3.ADsico]] 
-1. [[#El Reino Cognitivo]] 
-1. [[#El Reino Espiritual]] 
+1. [[#The Physical Realm]] 
+1. [[#The Cognitive Realm]] 
+1. [[#The Spiritual Realm]] 
 
 
-1. [[#Investidura]] 
+1. [[#Investiture]] 
 
-1. [[#Anti-Investidura]] 
+1. [[#Anti-Investiture]] 
 
 
-1. [[#Perpendicularidades]] 
+1. [[#Perpendicularities]] 
 1. [[#Adonalsium]] 
 
-1. [[#Esquirlas de Adonalsium]] 
+1. [[#Shards of Adonalsium]] 
 
 
 
 
-2 Planetas. [[#Planetas]] 
+2 Planets. [[#Planets]] 
 
-2. [[#Mundos primarios]] 
-2. [[#Otros mundos destacables]] 
-
-
-3 Historia. [[#Historia]] 
-
-3. [[#Antes de la Fragmentaci.C3.B3n]] 
-3. [[#La fragmentaci.C3.B3n de Adonalsium]] 
-3. [[#La misi.C3.B3n de Odium]] 
-3. [[#La ascensi.C3.B3n de Armon.C3.ADa]] 
-3. [[#Astillamiento de Honor y la Verdadera Desolaci.C3.B3n]] 
-3. [[#Trell y Scadrial]] 
-3. [[#La era espacial]] 
+2. [[#Trishardic Systems]] 
+2. [[#Dishardic Systems]] 
+2. [[#Monoshardic Systems]] 
+2. [[#Non-shardic Systems]] 
+2. [[#Other Notable Worlds]] 
 
 
-4 Saltamundos. [[#Saltamundos]] 
+3 History. [[#History]] 
+
+3. [[#Before the Shattering]] 
+3. [[#The Shattering of Adonalsium]] 
+3. [[#Odium.27s Quest]] 
+3. [[#The Ascension of Harmony]] 
+3. [[#Splintering of Honor and the True Desolation]] 
+3. [[#Trell and Scadrial]] 
+3. [[#The Space Age]] 
+
+
+4 Worldhoppers. [[#Worldhoppers]] 
 
 4. [[#Hoid]] 
-4. [[#Grupos de saltamundos]] 
+4. [[#Worldhopping Groups]] 
 
-4. [[#La Decimos.C3.A9ptima Esquirla]] 
-4. [[#Luzdeplata]] 
-4. [[#Los Ire]] 
-4. [[#Los Sangre Espectral]] 
-
-
-4. [[#Otros saltamundos destacables]] 
+4. [[#The Seventeenth Shard]] 
+4. [[#Silverlight]] 
+4. [[#The Ire]] 
+4. [[#The Ghostbloods]] 
 
 
-5 Desarrollo. [[#Desarrollo]] 
-6 Bibliografía del Cosmere. [[#Bibliograf.C3.ADa del Cosmere]] 
-
-6. [[#Pr.C3.B3ximamente]] 
-6. [[#Orden cronol.C3.B3gico]] 
+4. [[#Other Notable Worldhoppers]] 
 
 
-7 Siguiente lectura. [[#Siguiente lectura]] 
-8 Notas. [[#Notas]] 
+5 Development. [[#Development]] 
+6 Bibliography of the Cosmere. [[#Bibliography of the Cosmere]] 
+
+6. [[#Forthcoming]] 
+6. [[#Chronological Order]] 
 
 
-## Propiedades y fuerzas
-  El símbolo del Cosmere
-### Reinos
-Para más información, ver [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]].
-En el Cosmere, todo existe en tres reinos: el [[Reino F%C3%ADsico\|Reino Físico]], el [[Reino Cognitivo\|Reino Cognitivo]], y el [[Reino Espiritual\|Reino Espiritual]] . Los tres reinos existen desde el principio del Cosmere.
-Cuando alguien muere en el Cosmere, su cuerpo permanece en el Reino Físico y una [[Sombra cognitiva\|sombra cognitiva]] se forma en el Reino Cognitivo. Para la mayoría de personas, esta sombra cognitiva se va al [[M%C3%A1s All%C3%A1\|Más Allá]] rápidamente, y su [[Investidura\|Investidura]] vuelve al Reino Espiritual. Cuanta más Investidura tuviera alguien en vida, más tiempo podría permanecer antes de verse atraído hacia el Más Allá,  pero solo las [[Lasca\|Lascas]] — aquellos que han poseído una parte significativa del poder de una [[Esquirla\|Esquirla]]— pueden resistirse al Más Allá para siempre, aunque aún así pueden elegir ir si así lo desean. Sin embargo, antes de que la persona pase al Más Allá, todavía puede ser restaurada mediante la curación de la Investidura o ser infundida con suficiente Investidura para convertirse en una sombra cognitiva más permanente, normalmente como resultado de la acción de una Esquirla. Los muertos por [[Sangre Nocturna\|Sangre Nocturna]], [[Anti-Investidura\|anti-Investidura]] o consumidos por [[Yelig-nar\|Yelig-nar]], sin embargo, no pueden ser resucitados de ninguna manera, ya que no queda nada de su alma.
-Viajar en el tiempo al pasado, en cualquiera de los Reinos, es imposible.
-
-#### El Reino Físico
-En el [[Reino F%C3%ADsico\|Reino Físico]], el Cosmere es un cúmulo de unas 50 a 100 estrellas. El Reino Físico está compuesto por partículas fundamentales conocidas como [[Eje\|ejes]] y sigue las leyes ordinarias de la física, excepto cuando los otros reinos están involucrados. Actualmente, hay dieciséis sistemas planetarios conocidos en el Cosmere, que contienen un total de diecinueve planetas notables. El Cosmere también alberga otros objetos celestes; como varios planetas enanos, gigantes gaseosos y constelaciones. Al menos una persona ha intentado salir de los límites físicos del Cosmere, con resultados desconocidos.
-
-#### El Reino Cognitivo
-  Un mapa de <<Shadesmar\|Shadesmar>>, la región del Reino Cognitivo de <<Roshar\|Roshar>>. Las regiones denominadas "Extensión" lindan con otros planetas en el Cosmere.
-El [[Reino Cognitivo\|Reino Cognitivo]] está basado en el Reino Físico, aunque hay diferencias significativas. Dado que el Reino Cognitivo es el reino del pensamiento, se ve sustancialmente afectado por la forma en que la gente imagina y percibe las ideas. Por ejemplo, el espacio exterior está significativamente comprimido en el Reino Cognitivo, porque la gente no pasa mucho tiempo pensando en el espacio entre los planetas. También hay algunas entidades que existen de forma natural principalmente en el Reino Cognitivo, como los [[Spren\|spren]] que personifican los pensamientos, las emociones y las características naturales, así como ciertas [[Sombras cognitivas\|sombras cognitivas]].
-La apariencia del Reino Cognitivo alrededor de un planeta en particular parece reflejar las características sobresalientes de ese planeta; por ejemplo, los alrededores de Scadrial se componen de bruma, mientras que los alrededores de Roshar se componen de esferas. La tierra y el agua están invertidas en el Reino Cognitivo; lo que es tierra sólida en el Reino Físico es suelo inestable en el Cognitivo, mientras que las masas de agua en el Físico son sólidas en el Cognitivo. Como resultado, los seres físicos que intentan atravesar regiones no sólidas del Reino Cognitivo corren el riesgo de ahogarse en lo que sea que componga el reino local, aunque las entidades cognitivas pueden atravesar estas regiones con seguridad.
-
-#### El Reino Espiritual
->“*Todas las cosas existen en tres reinos, Gaotona. **Físico, Cognitivo y Espiritual**.*
-\- El Reino Físico es lo que sentimos, lo que tenemos delante. El Reino Cognitivo es cómo vemos un objeto y cómo ese objeto se ve así mismo. El Reino Espiritual contiene el alma del objeto, su esencia, además de las formas en las que está conectado a las cosas y a las personas que lo rodean.
+7 Further Reading. [[#Further Reading]] 
+8 Notes. [[#Notes]] 
 
 
-El [[Reino Espiritual\|Reino Espiritual]] existe más allá del espacio y el tiempo. Como tal, no es realmente un lugar, sino que es el reino de conceptos como la [[Intenci%C3%B3n\|Intención]], la [[Identidad\|Identidad]], la [[Conexi%C3%B3n\|Conexión]] y la [[Fortuna\|Fortuna]]. Todo existe en el Reino Espiritual en su forma ideal.
+## Properties and Forces
+  The cosmere symbol
+### Realms
+For more information, see [[Realmatic Theory\|Realmatic Theory]].
+In the cosmere, everything exists in three Realms: the [[Physical Realm\|Physical Realm]], the [[Cognitive Realm\|Cognitive Realm]], and the [[Spiritual Realm\|Spiritual Realm]]. The three Realms have existed since the beginning of the cosmere.
+When someone in the cosmere dies, their body remains in the Physical Realm and a [[Cognitive Shadow\|Cognitive Shadow]] forms in the Cognitive Realm. For most people, this Cognitive Shadow quickly moves on to the [[Beyond\|Beyond]] and their [[Investiture\|Investiture]] returns to the Spiritual Realm. The more Investiture someone held in life, the longer they can linger before being drawn to the Beyond, but only [[Sliver\|Slivers]]—those who once held a significant portion of a [[Shard\|Shard's]] power—can resist the Beyond forever, though they can still choose to go if they so desire. Before the person passes to the Beyond, however, they can still be restored via Investiture healing or be infused with enough Investiture to become a more permanent Cognitive Shadow, usually as a result of a Shard's action. Those killed by [[Nightblood\|Nightblood]] or [[Anti-Investiture\|anti-Investiture]] or consumed by [[Yelig-nar\|Yelig-nar]], however, cannot be resurrected in any way, as nothing remains of their soul.
+Time travel to the past, in any of the Realms, is impossible.
 
->“*La Intención importa. La Intención reina. No puede hacerse lo que pretendo yo por casualidad. Es necesario proponérselo.*”
-\-Navani Kholin sobre el rol de la Intención.[33]
+#### The Physical Realm
+In the [[Physical Realm\|Physical Realm]], the cosmere is a star cluster of about 50 to 100 stars. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. Currently, there are sixteen known planetary systems in the cosmere, which contain a total of nineteen notable planets. The cosmere is also home to other celestial objects, including several dwarf planets, gas giants, and constellations. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
 
-**Intención** es la propiedad espiritual que expresa la voluntad o el propósito considerado de una persona. La Intención no puede formarse accidentalmente; si se requiere la Intención para hacer algo, entonces la persona que intenta hacerlo no sólo debe hacerlo, sino que debe tener la voluntad de hacerlo. Muchas Artes Investidas requieren que el usuario actúe con Intención para utilizar correctamente su magia. Las entidades investidas, como los [[Spren\|spren]], las [[Sombras cognitivas\|sombras cognitivas]] e incluso las [[Esquirla\|Esquirlas]] tienen una Intención fundamental que describe el propósito de la Investidura que constituye su esencia. De hecho, cuanto más tiempo existan, más obligados estarán por su Intención, incapaces de actuar en contra de ella. Un ejemplo extremo de esto es [[Ati\|Ati]], el Recipiente original de la Esquirla [[Ruina\|Ruina]], que al principio era un hombre "amable y generoso", pero se consumió tanto por la Intención de su Esquirla que buscó la destrucción completa de [[Scadrial\|Scadrial]] e incluso la consideró necesaria.
+#### The Cognitive Realm
+  A map of <<Shadesmar\|Shadesmar>>, the region of the Cognitive Realm around <<Roshar\|Roshar>>. Regions labelled "Expanse" lead to other planets in the cosmere.
+The [[Cognitive Realm\|Cognitive Realm]] is closely modeled on the Physical Realm, though there are significant differences. Because the Cognitive Realm is the Realm of thought, it is substantially impacted by how people imagine and perceive ideas. For example, outer space is significantly compressed in the Cognitive Realm, because people do not spend much time thinking about the space between planets. There are also some entities that naturally exist primarily in the Cognitive Realm, such as the [[Spren\|spren]] who personify thoughts, emotions, and natural features, as well as certain [[Cognitive Shadow\|Cognitive Shadows]].
+The appearance of the Cognitive Realm around a particular planet seems to reflect salient characteristics of that planet—around Scadrial, for instance, it is composed of mist, while around Roshar it is composed of spheres. Land and water are inverted in the Cognitive Realm—what is solid land in the Physical Realm is unstable ground in the Cognitive, while bodies of water in the Physical are solid in the Cognitive. As a result, physical beings attempting to traverse non-solid regions of the Cognitive Realm risk drowning in whatever composes the local Cognitive Realm, though cognitive entities can traverse these regions safely.
 
-  <<Rysn Ftori\|Rysn Ftori>> descubriendo una de las <<Esquirla del Amanecer\|Esquirlas del Amanecer>>
-Junto con la Intención, también existe el concepto asociado de **Mandato**. Los [[Mandato\|Mandatos]] son más limitados que la Intención, pero ayudan a centrar la Intención para que la Investidura pueda responder adecuadamente. Aunque la mayoría de los Mandatos están relacionados con un determinado Arte Investido o algún otro método específico de manipulación de la Investidura, también existen las [[Esquirla del Amanecer\|Esquirlas del Amanecer]], cuatro Mandatos fundamentales que estuvieron involucrados tanto en la creación del Cosmere como en la [[Fragmentaci%C3%B3n\|Fragmentación]] de [[Adonalsium\|Adonalsium]].
-**Identidad** es la propiedad espiritual que delimita a una persona u objeto de otro y describe quién o qué es. La pérdida de su Identidad durante la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] convirtió a los [[Cantor\|cantores]] en [[Forma esclava\|forma esclava]]. La Identidad también sirve como cerradura y llave para las mentes de metal; los [[Feruquimia\|feruquímicos]] sólo pueden retirar los atributos almacenados por alguien con una Identidad coincidente; normalmente, esto significa sólo los atributos que ellos mismos almacenaron. Dado que la Identidad describe quién es una persona, está estrechamente ligada al concepto de [[Redesp%C3%ADritu\|redespíritu]], que a veces se llama ADN espiritual. Las redes espirituales no se comprenden del todo, pero son cuantificables de alguna manera, y parecen registrar tanto información sobre la Investidura de una persona, como la genética que hace que uno sea un [[Alomante\|alomante]].
-La curación mágica en el Cosmere normalmente funciona utilizando [[Investidura\|Investidura]] para hacer que la condición de una persona en el Reino Físico se acerque más a su yo idealizado en el Reino Espiritual, aunque este yo idealizado se filtra a través de la percepción que la persona tiene de sí misma en el Reino Cognitivo. Como resultado, la curación suele estar limitada por la forma en que una persona se ve a sí misma, y una vez que una persona acepta algo como parte de sí misma, no será capaz de sanar.
-
->“*Tuyo es el poder de la Conexión, de unir hombres y mundos, mentes y almas.*”
-\-El Padre Tormenta a Dalinar Kholin, explicándole los poderes de los Forjadores de Vínculos.[47]
-
-Además de contener esta información sobre la Identidad de una persona u objeto, el Reino Espiritual también almacena la **Conexión** entre personas, objetos e incluso conceptos más abstractos. Por ejemplo, una persona puede formar una Conexión con una región, que le permitirá hablar el idioma de dicha región. Para tomar una [[Esquirla\|Esquirla]] después de que un Recipiente muera, una persona debe estar Conectada a esa Esquirla.
-Debido a que el Reino Espiritual existe más allá del espacio y el tiempo, éste, junto con la propiedad asociada de **Fortuna**, puede ser utilizado para ver eventos en otros lugares o incluso el futuro, aunque esto es generalmente muy difícil.
-
-### Investidura
-  Una representación de las diferentes formas de investidura en <<Roshar\|Roshar>>
->“*[...] parecía que usabas el moldeado de almas para dar peso a tus ilusiones. Pero claro, la luz tormentosa concentrada tiene una mínima masa.*”
-\-Jasnah Kholin sobre la relación entre Investidura y masa.[54]
+#### The Spiritual Realm
+>“*All things exist in three Realms, Gaotona. **Physical**, **Cognitive**, **Spiritual**. The Physical is what we feel, what is before us. The Cognitive is how an object is viewed and how it views itself. The Spiritual Realm contains an object’s soul—its essence—as well as the ways it is connected to the things and people around it.*”
+\-Shai discussing the Realms with Gaotona[4]
 
 
-Al igual que existe una equivalencia entre masa y energía, en el Cosmere estas cosas también pueden intercambiarse con un poder mágico conocido como [[Investidura\|Investidura]]. Cuando se tiene en cuenta la Investidura, el Cosmere se adhiere a las leyes ordinarias de la conservación y la termodinámica. La Investidura existe principalmente en el Reino Espiritual, aunque se entiende más precisamente como algo que trasciende los Reinos. Sin embargo, también puede existir en una forma "condensada" en el Reino Físico como sólido, líquido o gas.
-Si se deja sola, la Investidura, con el tiempo, tomará conciencia de sí misma, dando lugar a una [[Astilla\|Astilla]]. [[Khriss\|Khriss]] sospecha que la propia tierra de [[Sel\|Sel]] está sufriendo un proceso como éste, como resultado de la Investidura de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] atrapada en el Reino Cognitivo. Ejemplos más comunes de este proceso son los [[Seon\|seones]] y los [[Spren\|spren]].
-La Investidura tiene una propiedad que la asocia a una de las dieciséis [[Esquirlas\|Esquirlas]] de [[Adonalsium\|Adonalsium]]; en la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], toda la Investidura se dividió por igual entre las Esquirlas. Aunque, como resultado de la Fragmentación, toda la Investidura está asociada a una Esquirla, la Investidura también sigue vinculada a Adonalsium de alguna manera y la Fragmentación significó "todo y nada al mismo tiempo" para la Investidura.
-Cuando una forma de Investidura intenta cooptar o corromper otra forma de Investidura, suele producir una manifestación roja. Ejemplos de ello son; el humo rojo que desprenden los [[Sello de alma\|sellos de alma]] de [[Shai\|Shai]] cuando los utiliza para alterar temporalmente el alma de [[Gaotona\|Gaotona]], la bruma roja de [[Trell (trellismo)\|Trell]] invadiendo [[Scadrial\|Scadrial]], y la coloración roja de algunos de los spren Iluminados por [[Sja-anat\|Sja-anat]]. Del mismo modo, cuando alguna entidad posee o tiene una fuerte influencia sobre una persona, los ojos de ésta suelen volverse rojos, como se ve en los cuerpos controlados por [Autonomía]], los soldados poseídos por [[Nergaoul\|la Emoción]] en la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]], y muchos de los sirvientes de Odium, cuyas almas son corrompidas por su poder.
+The [[Spiritual Realm\|Spiritual Realm]] exists beyond space and time. As such, it is not truly a place, but rather is the Realm of concepts like [[Intention\|Intent]], [[Identity\|Identity]], [[Connection\|Connection]], and [[Fortune\|Fortune]]. Everything exists in the Spiritual Realm in its ideal form.
 
->“*Se trata de una magia poderosa, mediante la que los seres humanos a menudo pueden acceder a enormes fogonazos de fuerza. Desafiaría a cualquiera a encontrar otro planeta, con la única salvedad de Roshar, donde pueda hallarse tal fuerza de Investidura con tanta frecuencia en manos de los mortales.*”
-\-Khriss sobre la alomancia y feruquimia.[77]
+>“*Intent matters. Intent is king. You cannot do what I attempt by accident. You must mean it.*”
+\-Navani Kholin on the role of Intent[33]
 
-La Investidura puede dividirse en dos categorías: **Investidura cinética** y **estática**. La Investidura cinética se refiere a la Investidura que hace algo activamente. Cuando la Investidura es cinética, a menudo puede ser detectada por varios métodos, como con el [[Bronce\|bronce]] [[Alom%C3%A1ntico\|alomántico]] o la [[Arena (Taldain)\|arena del Lado Diurno de Taldain]]. La Investidura estática se refiere a toda la Investidura que no hace algo activamente, como la carga [[Feruquimia\|feruquímica]] en una mente de metal. Al menos algunas formas de Investidura estática, incluidas las [[Luces\|luces]] que no alimentan nada activamente, también pueden ser detectadas por la arena de [[Taldain\|Taldain]], aunque afectan a la arena mucho más lentamente que la Investidura cinética. El término de **Investidura innata** indica un conducto directo entre una persona y el Reino Espiritual,  como una parte de [[Conservaci%C3%B3n\|Conservación]] en todos los [[Scadrial\|scadrianos]] o el [[Aliento\|Aliento]]  y probablemente sería una subcategoría de la Investidura estática
-Los estudiosos del Cosmere denominan a los diversos métodos de utilización de la Investidura (como las [[Artes Met%C3%A1licas\|Artes Metálicas]], la [[Potenciaci%C3%B3n\|Potenciación]] y el [[Despertar\|Despertar]]) **Artes Investidas**. Desde la Fragmentación, se pueden agrupar en tres categorías principales. Las más comunes son las impulsadas directamente por las Esquirlas, que surgen de las interacciones entre una Esquirla y el planeta en el que está Investida. Estas Artes Investidas son capaces de obtener resultados mucho más espectaculares que las otras. Si un planeta no tiene una Esquirla, sus habitantes pueden acceder y utilizar la Investidura según las leyes ordinarias de la Realmática, pero, sin una Esquirla que proporcione poder adicional, los resultados son mucho más limitados. La última categoría es la de las pocas Artes Investidas que quedaron antes de la Fragmentación de Adonalsium, de las cuales el único ejemplo conocido es el [[Tejer luz (Yolen)\|tejido de luz]] de [[Yolen\|Yolen]].
+**Intent** is the Spiritual property that expresses a person's considered will or purpose. Intent cannot be formed accidentally; if Intent is required to do something, then the person attempting to do it must not only do it, but *mean* to do it. Many Invested Arts require their user to act with Intent in order to properly use their magic. Invested entities, like [[Spren\|spren]], [[Cognitive Shadow\|Cognitive Shadows]], and even [[Shard\|Shards]] have a fundamental Intent that describes the purpose of the Investiture that constitutes their essence. Indeed, the longer they exist, the more they will become bound by their Intent, unable to act against it. An extreme example of this is [[Ati\|Ati]], the original Vessel of the Shard [[Ruin\|Ruin]], who was initially a "kind and generous" man, but became so consumed by his Shard's Intent that he sought the complete destruction of [[Scadrial\|Scadrial]] and even viewed it as necessary.
 
-#### Anti-Investidura
-Al igual que existe materia y , al menos algunas formas de Investidura pueden transformarse en una sustancia conocida como **anti-Investidura**. En la actualidad, las únicas formas conocidas de [[Anti-Investidura\|anti-Investidura]] son la [[Antiluz tormentosa\|antiluz tormentosa]] y la [[Antiluz del vac%C3%ADo\|antiluz del vacío]], que pueden fabricarse aislando, al menos parcialmente, la [[Luz tormentosa\|luz tormentosa]] o la [[Luz del vac%C3%ADo\|luz del vacío]], respectivamente, del tono puro de su Esquirla y exponiéndola después al tono opuesto de su Esquirla; [[Khriss\|Khriss]] parece creer que son posibles otras formas de anti-Investidura. La antiluz del vacío, al menos, se parece en gran medida a la luz del vacío normal, pero parece deformar el aire a su alrededor. Cuando la anti-Investidura se mezcla con la Investidura del mismo tipo, ambas se aniquilan en una violenta explosión; si la Investidura en cuestión es el alma de una persona o la de una entidad compuesta enteramente de Investidura, como un [[Spren\|spren]], esta aniquilación provoca su muerte permanente.
+  <<Rysn Ftori\|Rysn Ftori>> discovering one of the <<Dawnshard\|Dawnshards>>
+Along with Intent, there is also the associated concept of **Command**. [[Command\|Commands]] are more limited than Intent, but they help to focus the Intent so that Investiture can respond appropriately. While most Commands are related to a certain Invested Art or some other specific method of manipulating Investiture, there are also the [[Dawnshard\|Dawnshards]], four fundamental Commands that were involved in both the creation of the cosmere and the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]].
+**Identity** is the Spiritual property that demarcates one person or object from another and describes who or what they are. Losing their Identity during the [[False Desolation\|False Desolation]] turned the [[Singer\|singers]] into [[/wiki/Singer#slaveform]]. Identity also serves as the lock and key for metalminds; [[Feruchemy\|Feruchemists]] can only withdraw attributes stored by someone with a matching Identity—ordinarily, this means only attributes they stored. Because Identity describes who a person is, it is closely tied to the concept of a [[Spiritweb\|spiritweb]], which is sometimes called Spiritual DNA. spiritwebs are not entirely understood, but they are quantifiable in some way, and seem to record information about a person's Investiture, such as the genetics that make one an [[Allomancy\|Allomancer]].
+Magical healing in the cosmere usually works by using [[Investiture\|Investiture]] to make a person's condition in the Physical Realm more closely match their idealized self in the Spiritual Realm, though this idealized self is filtered through the person's perception of themself in the Cognitive Realm. As a result, healing is usually limited by how a person views themself, and once a person accepts something as part of themself, it will not be able to heal.
 
-### Perpendicularidades
-  <<Dalinar Kholin\|Dalinar Kholin>> invocando la <<Perpendicularidad de Honor\|Perpendicularidad de Honor>>
->“*Siempre que se congregaba demasiado poder —demasiada Investidura, demasiada consciencia—, los reinos se volvían porosos y el tiempo hacía cosas raras.*”
-\-Sylphrena sobre entrar en el cadencentro de una alta tormenta.[91]
+>“*Yours is the power of Connection, of joining men and worlds, minds and souls.*”
+\-The Stormfather to Dalinar Kholin, explaining the powers of the Bondsmiths[47]
+
+In addition to containing this information about a person or object's Identity, the Spiritual Realm also stores **Connection** between people, objects, and even more abstract concepts. For example, a person can form Connection to a region, which will allow them to speak that region's language. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
+Because the Spiritual Realm exists beyond space and time, it—along with the associated property of **Fortune**—can be used to see events in other locations or even the future, though this is generally very difficult.
+
+### Investiture
+  A depiction of the different forms of Investiture on <<Roshar\|Roshar>>
+>“*[I]t seemed you were Soulcasting to give your illusions weight. But then, concentrated Stormlight has a faint mass to it.*”
+\-Jasnah Kholin on the relationship between Investiture and mass[54]
 
 
-Cuando una cantidad suficiente de Investidura se fusiona en un lugar de los Reinos Físico y Cognitivo, se crea una unión entre los tres Reinos conocida como [[Perpendicularidad\|perpendicularidad]]. La mayoría de las perpendicularidades estables se forman a partir de la presencia de una [[Esquirla\|Esquirla]] en un planeta y de la enorme cantidad de Investidura que traen consigo. Los seres conscientes pueden utilizar las perpendicularidades para viajar entre los Reinos Físico y Cognitivo, lo que a su vez facilita el viaje dentro y fuera de un planeta para aquellos que tienen el conocimiento para utilizarlas.
+Just as there is an equivalency between mass and energy, in the cosmere these things can also be exchanged with a magical power known as [[Investiture\|Investiture]]. When Investiture is accounted for, the cosmere adheres to the ordinary laws of conservation and thermodynamics. Investiture mostly exists in the Spiritual Realm, though it is more precisely understood as transcending the Realms. However, it can also exist in a "condensed" form in the Physical Realm as solid, liquid, or gas.
+If left alone, Investiture will, over time, become self-aware, resulting in a [[Splinter\|Splinter]]. [[Khriss\|Khriss]] suspects that the land itself on [[Sel\|Sel]] is undergoing a process like this as a result of [[Devotion\|Devotion]] and [[Dominion\|Dominion's]] Investiture being trapped in the Cognitive Realm. More common examples of this process include [[Seon\|seons]] and [[Spren\|spren]].
+Investiture has a property that associates it with one of the sixteen [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]]; at the [[Shattering of Adonalsium\|Shattering of Adonalsium]], all Investiture was divided evenly between the Shards. Even though, as a result of the Shattering, all Investiture is associated with a Shard, Investiture also remains linked to Adonalsium in some way and the Shattering meant "everything and nothing at the same time" to Investiture.
+When one form of Investiture attempts to co-opt or corrupt another form of Investiture, it will often produce a red effect. Examples of this include the red smoke given off by [[Shai\|Shai's]] [[Soulstamp\|soulstamps]] when she uses them to temporarily tweak [[Gaotona\|Gaotona's]] soul, the red haze of [[Trell (Trellism)\|Trell]] invading [[Scadrial\|Scadrial]], and the red coloring of some of the spren Enlightened by [[Sja-anat\|Sja-anat]]. Similarly, when some entity possesses or has a strong influence over a person, the person's eyes will often grow red, as seen with the bodies on Scadrial controlled by [[Autonomy\|Autonomy]], the soldiers possessed via [[Nergaoul\|the Thrill]] at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], and many of Odium's servants, whose souls are corrupted by his power.
+
+>“*This is a powerful magic, and one where humans themselves have often had access to grand bursts of strength. I would challenge one to identify another planet, save only Roshar, where one can find such strength of Investiture so commonly in the hands of mortals.*”
+\-Khriss on Allomancy and Feruchemy[77]
+
+Investiture can be divided into two categories: **kinetic Investiture** and **static Investiture**. Kinetic Investiture refers to Investiture actively doing something. When Investiture is kinetic, it can often be detected by various methods, such as [[Allomancy\|Allomantic]] [[Bronze\|bronze]] or [[Sand (Taldain)\|sand from the Dayside of Taldain]]. Static Investiture refers to all Investiture not actively doing something, such as a [[Feruchemy\|Feruchemical]] charge in a metalmind. At least some forms of static Investiture, including [[Lights\|Lights]] not actively powering anything, can also be detected by [[Taldain\|Taldain's]] sand, though they affect the sand much more slowly than kinetic Investiture does. The term **innate Investiture** denotes a direct conduit between a person and the Spiritual Realm, such as the piece of [[Preservation\|Preservation]] in all [[Scadrial\|Scadrians]] or [[Breath\|Breath]], and would likely be a subcategory of static Investiture.
+Cosmere scholars term the various methods of utilizing Investiture (such as the [[Metallic Arts\|Metallic Arts]], [[Surgebinding\|Surgebinding]], and [[Awakening\|Awakening]]) **Invested Arts**. Since the Shattering, these can be grouped into three main categories. The most common are those powered directly by the Shards, which arise from the interactions between a Shard and the planet they are Invested in. Such Invested Arts are capable of far more spectacular results than other Invested Arts. If a planet does not have a Shard in residence, its inhabitants can still access and use Investiture by the ordinary laws of Realmatics, but, without a Shard to provide additional power, the results are far more limited. The last category is the few Invested Arts left over from before the Shattering of Adonalsium, of which the only known example is [[Yolish Lightweaving\|Yolish Lightweaving]].
+
+#### Anti-Investiture
+Much like there is both matter and , at least some forms of Investiture can be transformed into a substance known as **anti-Investiture**. Currently, the only known forms of [[Anti-Investiture\|anti-Investiture]] are [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]], which can be made by at least partially isolating [[Stormlight\|Stormlight]] or [[Voidlight\|Voidlight]] respectively from their Shard's pure tone and then exposing it to their Shard's opposite tone; [[Khriss\|Khriss]] seems to believe additional forms of anti-Investiture are possible. Anti-Voidlight, at least, looks mostly similar to regular Voidlight, but appears to warp the air around it. When anti-Investiture mixes with Investiture of the same type, the two annihilate in a violent explosion; if the Investiture in question is the soul of a person or that of an entity composed entirely of Investiture, like a [[Spren\|spren]], then this annihilation results in their permanent death.
+
+### Perpendicularities
+  <<Dalinar Kholin\|Dalinar Kholin>> summoning <<Honor's Perpendicularity\|Honor's Perpendicularity>>
+>“*Anytime too much power—too much Investiture, too much self—congregated, realms became porous and time behaved oddly.*”
+\-Sylphrena on entering the centerbeat of the highstorm[91]
+
+
+When a sufficient amount of Investiture coalesces in one place in the Physical and Cognitive Realms, it creates a junction between all three Realms known as a [[Perpendicularity\|perpendicularity]]. Most stable perpendicularities form from the presence of a [[Shard\|Shard]] on a planet and the massive amount of Investiture they bring with them. Sentient beings can use perpendicularities to travel between the Physical and Cognitive Realms, which in turn facilitates easier travel on and off a planet for those with the knowledge to use them.
 
 ### Adonalsium
->“*Había un Dios. Adonalsium. No sé si era una fuerza o un ser, aunque me inclino por lo segundo.*”
-\-Khriss sobre Adonalsium.[1]
+>“*There was a God. Adonalsium. I don’t know if it was a force or a being, though I suspect the latter.*”
+\-Khriss on Adonalsium[1]
 
 
-Cuando el Cosmere comenzó, había una entidad conocida como Adonalsium; se cree que esta entidad creó el Cosmere. Tal vez por esta razón, a veces se hace referencia a Adonalsium como "el poder de la creación". La Investidura era el poder de Adonalsium, lo que ha llevado a los estudiosos del Cosmere a concluir que, o bien la Investidura busca la inteligencia porque antes era Adonalsium, o bien Adonalsium surgió porque la Investidura buscaba la inteligencia.
-Sin embargo, la naturaleza exacta de Adonalsium sigue sin estar clara. Puede haber sido una mera fuerza que actuaba de acuerdo con reglas específicas o una entidad real que podía pensar por sí misma; [[Khriss\|Khriss]] sospecha que es esto último. La forma en que Adonalsium veía el Cosmere era simplemente la forma en que funcionaba su magia. Por ejemplo, los [[Spren\|spren]] de [[Roshar\|Roshar]] no podían formar [[Fabrial\|fabriales]] antes de la Fragmentación porque Adonalsium no quería que pudieran hacerlo. Dado que Adonalsium tenía este nivel de control sobre el Cosmere, algunos han sugerido que Adonalsium podría haber querido que se produjera la Fragmentación.
-Algunos dicen que hay "fuerzas sutiles" que se manifiestan en el Cosmere, separadas de Adonalsium, probablemente refiriéndose a la creencia en el [[Dios del M%C3%A1s All%C3%A1\|Dios del Más Allá]].
+When the cosmere began, there was an entity known as Adonalsium; this entity is widely believed to have created the cosmere. Perhaps for this reason, Adonalsium is sometimes referred to as "the power of creation." Investiture was Adonalsium's power, which has led cosmere scholars to conclude that either Investiture seeks intelligence because it used to be Adonalsium or that Adonalsium came into being because Investiture sought intelligence.
+The exact nature of Adonalsium, however, remains unclear. It may have been a mere force that acted according to specific rules or an actual entity that could think on its own; [[Khriss\|Khriss]] suspects the latter. The way Adonalsium saw the cosmere was simply the way its magic worked. For example, the [[Spren\|spren]] on [[Roshar\|Roshar]] could not form [[Fabrial\|fabrials]] prior to the Shattering because Adonalsium did not want them to be able to do so. Given Adonalsium had this level of control over the cosmere, some have suggested that Adonalsium may have wanted the Shattering to occur.
+Some say there are "subtle forces" being manifest in the cosmere, separate from Adonalsium, likely referring to belief in the [[God Beyond\|God Beyond]].
 
-#### Esquirlas de Adonalsium
-|**Esquirlas de [[Adonalsium\|Adonalsium]]**|
+#### Shards of Adonalsium
+|**Shards of [[Adonalsium\|Adonalsium]]**|
 |-|-|
-|**[[Esquirla\|Esquirla]]**|**Recipiente original**|
-|[[Devoci%C3%B3n\|Devoción]]|[[Aona\|Aona]]|
-|[[Dominio\|Dominio]]|[[Skai\|Skai]]|
-|[[Conservaci%C3%B3n\|Conservación]]|[[Leras\|Leras]]|
-|[[Ruina\|Ruina]]|[[Ati\|Ati]]|
+|**[[Shard\|Shard]]**|**Original Vessel**|
+|[[Devotion\|Devotion]]|[[Aona\|Aona]]|
+|[[Dominion\|Dominion]]|[[Skai\|Skai]]|
+|[[Preservation\|Preservation]]|[[Leras\|Leras]]|
+|[[Ruin\|Ruin]]|[[Ati\|Ati]]|
 |[[Odium\|Odium]]|[[Rayse\|Rayse]]|
-|[[Cultivaci%C3%B3n\|Cultivación]]|[[Koravellium Avast\|Koravellium Avast]]|
+|[[Cultivation\|Cultivation]]|[[Koravellium Avast\|Koravellium Avast]]|
 |[[Honor\|Honor]]|[[Tanavast\|Tanavast]]|
-|[[Dotaci%C3%B3n\|Dotación]]|[[Edgli\|Edgli]]|
-|[[Autonom%C3%ADa\|Autonomía]]|[[Bavadin\|Bavadin]]|
-|[[Ambici%C3%B3n\|Ambición]]|[[Uli Da\|Uli Da]]|
-|[[Invenci%C3%B3n\|Invención]]|*Desconocido*|
-|[[Piedad\|Piedad]]|*Desconocido*|
-|[[Valent%C3%ADa\|Valentía]]|*Desconocido*|
-|[[Capricho\|Capricho]]|*Desconocido*|
-|[[Virtuosismo\|Virtuosismo]]|*Desconocido*|
+|[[Endowment\|Endowment]]|[[Edgli\|Edgli]]|
+|[[Autonomy\|Autonomy]]|[[Bavadin\|Bavadin]]|
+|[[Ambition\|Ambition]]|[[Uli Da\|Uli Da]]|
+|[[Invention\|Invention]]|*Unknown*|
+|[[Mercy\|Mercy]]|*Unknown*|
+|[[Valor\|Valor]]|*Unknown*|
+|[[Whimsy\|Whimsy]]|*Unknown*|
+|[[Virtuosity\|Virtuosity]]|*Unknown*|
 
->“*[Odium] Es mucho más grande que yo, pero el poder del antiguo Adonalsium lo impregna. Y lo controla. Odium es una fuerza, como la presión, la gravedad o el paso del tiempo. Esas cosas no pueden incumplir sus propias reglas. Odium tampoco.*”
-\-El Padre Tormenta sobre las Esquirlas de Adonalsium.[100]
-
-
-Durante la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación]], Adonalsium se dividió en dieciséis piezas, denominadas [[Esquirlas\|Esquirlas]] de Adonalsium. Cada uno de estos fragmentos tiene una [[Intenci%C3%B3n\|Intención]] que representa una faceta particular de Adonalsium. Dieciséis personas involucradas en la Fragmentación tomaron entonces esas Esquirlas, convirtiéndose en los primeros Recipientes y ascendiendo efectivamente a la divinidad. Hubo algún tipo de fuerza o propiedad del Cosmere que hizo que Adonalsium se fragmentara en estas concretas dieciséis Esquirlas, y su distribución en los Recipientes no fue aleatoria. El número dieciséis tiene cierto significado para la mecánica del Cosmere, aunque, como Adonalsium podría haberse dividido en algún otro número de Esquirlas, puede haber cobrado importancia sólo después de la Fragmentación, y de hecho puede surgir más de las creencias de las criaturas sapientes que de una propiedad subyacente mayor.
-Aunque el poder de una Esquirla requiere de una mente que la controle, conocida como Recipiente, la Intención de una Esquirla irá deformando poco a poco las mentes de aquellos que la posean, anulando su independencia. Por ejemplo, después de que [[Leras\|Leras]] ascendiera a [[Conservaci%C3%B3n\|Conservación]], se volvió incapaz de causar daño, incluso para conservar otras cosas. No está claro si los Recipientes originales sabían esto cuando tomaron sus Esquirlas, pero, con el tiempo, los Recipientes pasaron a ser conocidos simplemente por el nombre de su Esquirla.
-Las Esquirlas tienen acceso a un poder infinito, pero las mentes de los Recipientes, aunque se expanden al poseer la Esquirla, no son capaces de ejercerlo todo a la vez. Las Esquirlas también están limitadas por ciertas reglas que restringen su capacidad de actuación; por ejemplo, deben cumplir con un juramento formalmente hecho. No hacerlo puede dar a otros la oportunidad de actuar contra la Esquirla que ha roto este juramento; esto ha provocado, al menos en una ocasión, la muerte de un Recipiente. Las Esquirlas también pueden intervenir para bloquear las acciones de otra Esquirla, aunque no perfectamente.
-Sin embargo, a pesar de estas restricciones, las Esquirlas suelen ser capaces de realizar cambios tanto sutiles como increíbles. Entre otras cosas, pueden cambiar la órbita de planetas enteros, realizar cambios en individuos y especies enteras a nivel genético, y alterar algunos de los mecanismos de un Arte Investido resultante de su presencia en un planeta. Dado que las Esquirlas existen principalmente en el Reino Espiritual, también tienen cierta capacidad para ver el futuro, aunque no todas las Esquirlas son igual de buenas en esto y se fragmenta en más y más posibilidades cuanto más lejos en el tiempo miran.
-
-  Una representación de <<Adonalsium\|Adonalsium>>, las dieciséis <<Esquirla\|Esquirlas>> en las que se <<Fragmentaci%C3%B3n\|fragmentó>>, los recipientes originales de las mismas y algunas de sus <<Astilla\|Astillas>>
-Las Esquirlas también pueden crear **avatares**, seres con acceso a una porción del poder de la Esquirla que pueden actuar de forma autónoma a su Esquirla, pero siguen siendo parte de ella y, en última instancia, no pueden actuar en contra de las instrucciones de la Esquirla. Los avatares contrastan con las [[Astilla\|Astillas]], que son partes del poder de una Esquirla que tienen o podrían desarrollar el libre albedrío. Los avatares parecen utilizarse a menudo cuando un fragmento quiere influir en los acontecimientos de un planeta distinto del planeta en el que está investido principalmente; por ejemplo, [[Autonom%C3%ADa\|Autonomía]], que está investido en [[Taldain\|Taldain]], tiene avatares en [[Primero del Sol\|Primero del Sol]] y en [[Obrodai\|Obrodai]].
-Desde la Fragmentación, las Esquirlas han sido la principal fuente de magia en el Cosmere. Las interacciones entre su Investidura y un planeta dan lugar a las Artes Investidas que son mucho más poderosas que las formadas por personas que acceden a la Investidura anterior.
-Cada Esquirla también tiene su propio **tono puro** y su propio **ritmo**, que a menudo puede influir en su Investidura y oírse emanar de ella, y que puede formar parte de los mundos en los que invierten. Por ejemplo, las [[Luces\|luces]] de [[Roshar\|Roshar]] pulsan suavemente al tono y [[Ritmo\|ritmo]] de su Esquirla y seguirán una fuente -vocal o instrumental- que genere el tono de su Esquirla y tanto el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] en [[Scadrial\|Scadrial]] como los pulsos que un [[Buscador\|buscador]] puede captar de alguien usando la [[Alomancia\|alomancia]] están relacionados con el tono y el ritmo de Conservación.  Armonizar los tonos y ritmos de dos Esquirlas diferentes forma parte de la creación de la Investidura híbrida, como la [[Luz de guerra\|luz de guerra]] y la [[Luz de torre\|luz de torre]]. Las Esquirlas también tienen un tono opuesto, que suena idéntico para la mayoría de la gente, pero que es desagradable para los que están en sintonía con la Investidura de esa Esquirla, y sólo puede crearse mediante una Intención. Este tono opuesto puede repeler físicamente la Investidura de su Esquirla y puede ayudar a crear una anti-investidura asociada a ella.
-
-## Planetas
-Para más información, ver [[Reino F%C3%ADsico\|Reino Físico]].
->“*Otros planetas. Sí, los hay a docenas. Muchos están habitados por personas muy parecidas a ti o a mí. Hay un mundo original, ofuscado y oculto en algún lugar del Cosmere. Todavía no sé dónde, pero he encontrado historias sobre él.*”
-\-Khriss a Kelsier.[1]
+>“*[Odium] is far greater than I, but the power of ancient Adonalsium permeates him. And controls him. Odium is a force like pressure, gravitation, or the movement of time. These things cannot break their own rules. Nor can he.*”
+\-The Stormfather on Shards of Adonalsium[100]
 
 
-Aunque el Cosmere tiene una amplia gama de planetas, muchos de ellos están deshabitados, no están significativamente investidos o, por lo general, no son relevantes para el Cosmere en general. Los planetas del Cosmere tienen algo parecido a almas, probablemente refiriéndose a su presencia en los Reinos Cognitivo y/o Espiritual.
+During the [[Shattering of Adonalsium\|Shattering]], Adonalsium split into sixteen pieces, referred to as [[Shard\|Shards]] of Adonalsium. Each of these Shards has an [[Intention\|Intent]] that represents a particular facet of Adonalsium. Sixteen people involved in the Shattering then took up those Shards, becoming the first Vessels and effectively ascending to godhood. There was some sort of force or property of the cosmere that caused Adonalsium to shatter into the sixteen Shards that it did, and the distribution of the Shards to the Vessels was not random. The number sixteen has some significance to the mechanics of the cosmere, though, as Adonalsium could have split into some other number of Shards, it may have only become significant after the Shattering, and indeed may arise more from the beliefs of sapient creatures than a greater underlying property.
+Though the power of a Shard requires a mind to control it, known as a Vessel, the Intent of a Shard will slowly warp the minds of those that hold it, overriding their independence. For example, after [[Leras\|Leras]] Ascended as [[Preservation\|Preservation]], he became unable to cause harm, even to preserve other things. It is unclear whether the original Vessels knew this when they took up their Shards, but, eventually, the Vessels came to be known simply by their Shard's name.
+The Shards have access to infinite power, but the Vessels' minds, even though they are expanded by holding the Shard, are not capable of wielding it all at once. The Shards are also limited by certain rules that restrict how they can act; for example, they must fulfill a formally made oath. Failing to do so can give others an opening to act against the Shard who broke an oath; this has, on at least one occasion, resulted in the death of a Vessel. Shards can also intervene to block another Shard's actions, though not perfectly.
+Despite these restrictions, however, the Shards are generally capable of both subtle and incredible changes. Among other things, they can change the orbit of entire planets, make changes to individuals and entire species on a genetic level, and alter some of the mechanics of an Invested Art resulting from their presence on a planet. Since Shards exist primarily in the Spiritual Realm, they also have some ability to look into the future, though not all Shards are equally good at this and it fragments into more and more possibilities the further they look.
 
-  Una carta estelar del Cosmere en el Reino Físico
-### Mundos primarios
-**[[Nalthis\|Nalthis]]** es un mundo de color. El color es necesario para alimentar su sistema de magia, el [[Despertar\|despertar]], y aquellos con grandes cantidades de [[Aliento\|aliento]] potenciarán los colores que les rodean y podrán ver matices perfectos de colores. Cuando alguien muere, [[Dotaci%C3%B3n\|Dotación]], la Esquirla residente, ocasionalmente envía su [[Sombra cognitiva\|sombra cognitiva]] de vuelta como un [[Retornado\|Retornado]] para evitar una tragedia que prevean tras su muerte.
-El [[Sistema roshariano\|sistema roshariano]] consta de tres planetas de importancia. **[[Ashyn\|Ashyn]]** fue casi destruido en un apocalipsis hace mucho tiempo, aunque quedan algunas ciudades flotando en la atmósfera.  Ciertas bacterias del planeta son capaces de otorgar poderes mágicos, incluida la capacidad de mantener en alto las ciudades flotantes. **[[Roshar\|Roshar]]** es un planeta con una [[Alta tormenta\|alta tormenta]] que frecuentemente recorre el continente y donde los [[Spren\|spren]] pueden cruzar al Reino Físico. **[[Braize\|Braize]]** es la prisión de los Fusionados donde los [[Heraldo\|Heraldos]] son torturados entre [[Desolaci%C3%B3n\|Desolaciónes]].
-**[[Scadrial\|Scadrial]]** es el planeta más avanzado tecnológicamente y el más parecido a [[Yolen\|Yolen]]. Sus [[Artes Met%C3%A1licas\|tres sistemas de magia]] utilizan el metal para almacenar y acceder a la [[Investidura\|Investidura]].
-**[[Sel\|Sel]]**, también conocido como **Seol** es un gran planeta con tres grandes dominios. Tiene muchos sistemas mágicos, que están ligados a la ubicación del usuario y se accede a ellos creando figuras en la forma adecuada, algo así como la programación.
-El planeta **[[Taldain\|Taldain]]** está atrapado por el efecto entre dos estrellas, una supergigante blanca y azul y una enana blanca. El lado del planeta que da a la primera, [[Lado Diurno\|Lado Diurno]], es un vasto desierto donde la Investidura llega desde la luz de la estrella. El [[Lado Oscuro\|Lado Oscuro]] está orientado hacia la enana blanca, dejándolos en un crepúsculo perpetuo, y muchas cosas allí son fluorescentes a la luz ultravioleta. Su [[Esquirla\|Esquirla]], [[Autonom%C3%ADa\|Autonomía]], mantiene el planeta aislado del resto del Cosmere.
+  A depiction of <<Adonalsium\|Adonalsium>>, the sixteen <<Shard\|Shards>> it <<Shattering\|Shattered>> into as well as the Shards' original Vessels, and some <<Splinter\|Splinters>> of the Shards
+Shards can also create **avatars**, beings with access to a portion of the Shard's power who can act autonomously from their Shard, but remain part of the Shard and ultimately cannot act against the Shard's instructions. Avatars stand in contrast to [[Splinter\|Splinters]], who are pieces of a Shard's power that have or could develop free will. Avatars often seem to be used when a Shard wants to influence events on a planet other than the one they are primarily Invested in; for example, [[Autonomy\|Autonomy]], who is Invested in [[Taldain\|Taldain]], has avatars on [[First of the Sun\|First of the Sun]] and [[Obrodai\|Obrodai]].
+Since the Shattering, the Shards have been the primary source of magic in the cosmere. The interactions between their Investiture and a planet give rise to Invested Arts that are far more powerful than those formed by people accessing background Investiture.
+Each Shard also has its own **pure tone** and **rhythm**, that can often influence and be heard emanating from their Investiture and can become part of the worlds they Invest in. For example, the [[Lights\|Lights]] of [[Roshar\|Roshar]] pulse softly to their Shard's tone and [[Rhythm\|rhythm]] and will follow a source—vocal or instrumental—generating their Shard's tone and both the [[Well of Ascension\|Well of Ascension]] on [[Scadrial\|Scadrial]] and the pulses a [[Seeker\|Seeker]] can pick up from someone using [[Allomancy\|Allomancy]] are related to Preservation's tone and rhythm. Harmonizing the tones and rhythms of two different Shards is part of the creation of hybrid Investiture, like [[Warlight\|Warlight]] and [[Towerlight\|Towerlight]]. Shards also have an opposite tone, which sounds identical to most people but is unpleasant to those attuned to that Shard's Investiture, and can only be created by Intent. This opposite tone can physically repel its Shard's Investiture and can help create anti-Investiture associated with its Shard.
 
-|**Mundos primarios del Cosmere**|
+## Planets
+  A star chart of the cosmere in the Physical Realm
+For more information, see [[Physical Realm\|Physical Realm]].
+>“*Other planets ... Yes, there are dozens of them. Many are inhabited by people much like you or me. There is [[Yolen\|an original]], shrouded and hidden somewhere in the cosmere. I’ve yet to find it, but I have found stories.*”
+\-Khriss to Kelsier[1]
+
+
+While the cosmere has a wide array of planets, many of them are uninhabited, not significantly Invested, or otherwise not generally relevant to the broader cosmere. Planets in the cosmere have something akin to souls, likely referring to their presence in the Cognitive and/or Spiritual Realms.
+
+|**Significant Worlds of the Cosmere**|
 |-|-|
-|**Sistema planetario**|**Planeta**|**Esquirlas**|**Libros**|**Referencia**|
-|**[[Sistema nalthiano\|Sistema nalthiano]]**|[[Nalthis\|Nalthis]]|[[Dotaci%C3%B3n\|Dotación]]|*[[El aliento de los dioses\|El aliento de los dioses]]*, *[[Nightblood (libro)\|Sangre Nocturna]]* (no publicada)||
-|**[[Sistema roshariano\|Sistema roshariano]]**|[[Ashyn\|Ashyn]]|Ninguna|*[[The Silence Divine\|The Silence Divine]]* (no publicada)||
-|[[Braize\|Braize]]|[[Odium\|Odium]]|*[[El archivo de las tormentas\|El archivo de las tormentas]]*||
-|[[Roshar\|Roshar]]|[[Cultivaci%C3%B3n\|Cultivación]], [[Honor\|Honor]]|*[[El archivo de las tormentas\|El archivo de las tormentas]]*||
-|**[[Sistema scadriano\|Sistema scadriano]]**|[[Scadrial\|Scadrial]]|[[Conservaci%C3%B3n\|Conservación]], [[Ruina\|Ruina]] ([[Ascensi%C3%B3n Final\|combinadas]] como [[Armon%C3%ADa\|Armonía]])|[[Nacidos de la bruma (saga)\|Saga de Nacidos de la bruma]]||
-|**[[Sistema de Sel\|Sistema de Sel]]**|[[Sel\|Sel]]|[[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]]|[[Trilog%C3%ADa de Elantris\|Trilogía de Elantris]], *[[El alma del emperador\|El alma del emperador]]*||
-|**[[Sistema de Taldain\|Sistema de Taldain]]**|[[Taldain\|Taldain]]|[[Autonom%C3%ADa\|Autonomía]]|*[[Arena Blanca\|Arena Blanca]]*||
-
-### Otros mundos destacables
-**[[C%C3%A1ntico\|Cántico]]** es un planeta extremádamente pequeño con un nucleo muy denso e Investido. La luz de la estrella central del sistema también está Investida; cuando su luz llega a la superficie de Cántico, es rápidamente atraída al núcleo del planeta, sobrecalentando cualquier cosa en su camino. Cumo resultado, la gente que vive en el planeta debe estar moviéndose constantemente para mantenerse por delante del amanecer.
-El [[Sistema Drominad\|sistema Drominad]] alberga varios planetas, todos ellos con agua como característica dominante. Tres de ellos están habitados por humanos, el mayor número de cualquier sistema planetario del Cosmere en el momento que Khriss escribió osu ensayo sobre el sistema. El planeta más interior, *[[Primero del Sol\|Primero del Sol]]*, tiene una [[Perpendicularidad\|perpendicularidad]] aunque la región que lo rodea en el Reino Físico es increíblemente peligrosa.
-*[[Dhatri\|Dhatri]]''* es el mundo natal de los [[%C3%89ter\|éteres]], aunque desde entonces se han extendido por todo el Cosmere; el mundo se ha vuelto inhóspito debido a una entidad conocida como el [[%C3%89ter oscuro\|éter oscuro]].}
-**[[Treno\|Treno]]** es un planeta con dos partes principales: el [[Mundo Ca%C3%ADdo\|Mundo Caído]], que está bajo el control de una entidad desconocida llamada [[Mal\|Mal]] que es tan peligrosa que todo el mundo se fue, y los [[Bosques del infierno\|bosques del infierno]], que es el hogar de peligrosas [[Sombras cognitivas\|sombras cognitivas]] conocidas como [[Umbra\|umbras]]. Las perpendicularidades en Treno son inestables y tienen un origen morboso.
-El [[Sistema UTol\|sistema UTol]] se encuentra cerca de donde la Esquirla [[Virtuosismo\|Virtuosismo]] se astilló y alberga dos planetas habitables. El planeta epónimo de **[[UTol\|UTol]]** es un planeta dominado por el agua y habitado por [[Sho del\|sho del]] que parece ser bien conocido en el Cosmere en la era espacial. Su planeta hermano, **[[Komashi\|Komashi]]'**, es el hogar de humanos y [[Astilla\|Astillas]] de Virtuosismo conocidos como [[Haijo\|haijo]]; antes de la destrucción de la [[M%C3%A1quina padre\|máquina padre]], destacaba por una eterno [[Mortaja\|mortaja]] de Investidura negra que cubría el planeta.
-**[[Lumar\|Lumar]]'** es un planeta atrasado que alberga las [[Esporas de %C3%A9ter\|esporas de éter]], una forma comprimida de [[%C3%89ter\|éter]] que crece peligrosamente rápido al contacto con el agua, y que son producidas por una cepa variante de los éteres en las doce lunas que se encuentran cerca de la superficie del planeta.
-**[[Yolen\|Yolen]]** es el planeta original de los humanos y el lugar de la [[Fragmentaci%C3%B3n\|Fragmentación]]. Tiene pocos habitantes en la era moderna y se ha ocultado a la mayoría de los habitantes del Cosmere.
-Se sabe poco sobre **[[Bjendal\|Bjendal]]**, **[[Mythos\|Mythos]]**, **[[Obrodai\|Obrodai]]** y **[[Vax\|Vax]]**, el mundo natal de los Insomnes, o al menos un planeta sin humanos.
-
-|**Otros mundos del Cosmere**|
-|-|-|
-|**Sistema planetario**|**Planeta**|**Esquirlas**|**Libros**|**Referencias**|
-|***Desconocido***|[[Bjendal\|Bjendal]]|*Desconocido*|*Ninguno* (Mencionado en *[[El metal perdido\|El metal perdido]]*)||
-|***Desconocido***|[[C%C3%A1ntico\|Cántico]]|Ninguna|*[[El Hombre Iluminado\|El Hombre Iluminado]]*||
-|***Desconocido***|[[Dhatri\|Dhatri]]|*Desconocida*|*Ninguno* (Mencionado en *[[El metal perdido\|El metal perdido]]*)||
-|**[[Sistema Drominad\|Sistema Drominad]]**|[[Primero del Sol\|Primero del Sol]]|[[Patji (ser)\|Patji]] (Avatar de [[Autonom%C3%ADa\|Autonomía]])|*[[Sexto del Ocaso\|Sexto del Ocaso]]*||
-|***Desconocido***|[[Lumar\|Lumar]]|Ninguna|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*||
-|***Desconocido***|[[Mythos\|Mythos]]|*Desconocido*|*Ninguno* (Mencionado en *[[El metal perdido\|El metal perdido]]*)||
-|***Desconocido***|[[Obrodai\|Obrodai]]|Avatar de [[Autonom%C3%ADa\|Autonomía]], *probablemente otros*|*Ninguno* (Mencionado en *[[Juramentada\|Juramentada]]*)||
-|**[[Sistema de Treno\|Sistema de Treno]]**|[[Treno\|Treno]]|[[Ambici%C3%B3n\|Ambición]]|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*||
-|**[[Sistema UTol\|Sistema UTol]]**|[[Komashi\|Komashi]]|[[Virtuosismo\|Virtuosismo]]|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*||
+|**Planetary System**|**Planet**|**Shards**|**Books**|**Reference**|
+|***Unknown***|[[Bjendal\|Bjendal]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
+|***Unknown***|[[Canticle\|Canticle]]|*None*|*[[The Sunlit Man\|The Sunlit Man]]*||
+|***Unknown***|[[Dhatri\|Dhatri]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
+|**[[Drominad system\|Drominad System]]**|[[First of the Sun\|First of the Sun]]|[[Patji (being)\|Patji]] (Avatar of [[Autonomy\|Autonomy]])|*[[Sixth of the Dusk\|Sixth of the Dusk]]*||
+|***Unknown***|[[Lumar\|Lumar]]|*Unknown*|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||
+|***Unknown***|[[Mythos\|Mythos]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
+|**[[Nalthian system\|Nalthian System]]**|[[Nalthis\|Nalthis]]|[[Endowment\|Endowment]]|*[[Warbreaker\|Warbreaker]]*, *[[Nightblood (book)\|Nightblood]]* (unpublished)||
+|***Unknown***|[[Obrodai\|Obrodai]]|Avatar of [[Autonomy\|Autonomy]], *possibly others*|*None (Referenced in *[[Oathbringer\|Oathbringer]]*)*||
+|**[[Rosharan system\|Rosharan System]]**|[[Ashyn\|Ashyn]]|*None*|*[[The Silence Divine\|The Silence Divine]]* (unpublished)||
+|[[Braize\|Braize]]|[[Odium\|Odium]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|[[Roshar\|Roshar]]|[[Cultivation\|Cultivation]], [[Honor\|Honor]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|**[[Scadrian system\|Scadrian System]]**|[[Scadrial\|Scadrial]]|[[Preservation\|Preservation]], [[Ruin\|Ruin]] ([[Final Ascension\|combined]] as [[Harmony\|Harmony]])|[[Mistborn (series)\|Mistborn series]]||
+|**[[Selish system\|Selish System]]**|[[Sel\|Sel]]|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|[[Elantris trilogy\|Elantris trilogy]], *[[The Emperor's Soul\|The Emperor's Soul]]*||
+|**[[Taldain system\|Taldain System]]**|[[Taldain\|Taldain]]|[[Autonomy\|Autonomy]]|*[[White Sand\|White Sand]]*||
+|**[[Threnodite system\|Threnodite System]]**|[[Threnody\|Threnody]]|[[Ambition\|Ambition]]|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*||
+|**[[UTol system\|UTol system]]**|[[Komashi\|Komashi]]|[[Virtuosity\|Virtuosity]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
 |[[UTol\|UTol]]|
-|***Desconocido***|[[Vax\|Vax]]|*Desconocido*|*Ninguno* (Mencionado en *[[Elantris (libro)\|Elantris]]* y *Nacidos de la bruma: historia secreta*)||
-|***Desconocido***|[[Yolen\|Yolen]]|Ninguna|Saga *[[Dragonsteel (saga)\|Dragonsteel]]* (no publicada)||
+|***Unknown***|[[Vax\|Vax]]|*Unknown*|*None (Referenced in *[[Elantris (book)\|Elantris]]* and *Mistborn: Secret History*)*||
+|***Unknown***|[[Yolen\|Yolen]]|*None*|[[Dragonsteel (series)\|Dragonsteel series]] (unpublished)||
 
-## Historia
-### Antes de la Fragmentación
->“*Fue en un lugar lejano donde se encuentran dos tierras y los dioses han muerto.*”
-\-Hoid sobre un Yolen pre-Fragmentación.[178]
+### Trishardic Systems
+The [[Rosharan system\|Rosharan system]] consists of three planets of note. **[[Ashyn\|Ashyn]]** was nearly destroyed in an apocalypse long ago, though a few cities remain floating in the atmosphere. Certain bacteria on the planet are able to grant magical powers, including the ability to keep the floating cities aloft. **[[Roshar\|Roshar]]** is a planet with a [[Highstorm\|powerful storm]] that frequently blows across the continent and where [[Spren\|spren]] can cross into the Physical Realm. **[[Braize\|Braize]]** is the prison of the [[Fused\|Fused]] where the [[Herald\|Heralds]] are tortured between [[Desolation\|Desolations]]. The system is home to the Shards [[Cultivation\|Cultivation]] and [[Honor\|Honor]], though the latter has been Splintered; additionally, [[Odium\|Odium]] is currently trapped in the system.
+
+### Dishardic Systems
+**[[Scadrial\|Scadrial]]** is the most technologically advanced planet and the most similar to [[Yolen\|Yolen]]. Its [[Metallic Arts\|three magic systems]] all use metal to store and access [[Investiture\|Investiture]]. The system is home to the Shards [[Preservation\|Preservation]] and [[Ruin\|Ruin]], who have since combined into [[Harmony\|Harmony]].
+**[[Sel\|Sel]]**, also known as **Seol**, is a large planet with three great domains. It has many magic systems, which are tied to the user's location and are accessed by creating shapes in the proper form, rather like programming. The system is home to the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]], who have both been Splintered by Odium.
+
+### Monoshardic Systems
+The planet **[[Taldain\|Taldain]]** is tidally locked between two stars, a blue-white supergiant and a white dwarf. The side of the planet facing the former, [[Dayside\|Dayside]], is a vast desert where Investiture arrives from the light of the star. [[Darkside\|Darkside]] faces the white dwarf, leaving it in perpetual twilight; many things there fluoresce in ultraviolet light. Its [[Shard\|Shard]], [[Autonomy\|Autonomy]], keeps the planet isolated from the rest of the cosmere.
+The [[Drominad system\|Drominad system]] is home to several planets, all of which have water as a dominant feature. Three of them are inhabited by humans, the most of any planetary system in the cosmere at the time Khriss wrote her essay on the system. The innermost planet, **[[First of the Sun\|First of the Sun]]** has a [[Perpendicularity\|perpendicularity]], though the region around it in the Physical Realm is incredibly dangerous, and is home to [[Patji (being)\|Patji]], an avatar of Autonomy.
+**[[Nalthis\|Nalthis]]** is a world of color. Color is needed to fuel its magic system, [[Awakening\|Awakening]], and those with large amounts of [[Breath\|Breath]] will enhance the colors around them and can see perfect shades of colors. When someone dies, [[Endowment\|Endowment]], the resident Shard, occasionally sends their [[Cognitive Shadow\|Cognitive Shadow]] back as a [[Returned\|Returned]] to prevent a tragedy they foresee after their death.
+**[[Threnody\|Threnody]]** is a planet with two principal parts: the [[Fallen World\|Fallen World]], which is under the control of an unknown entity called the [[Evil\|Evil]] that is so dangerous that everyone was forced to leave, and the [[Forests of Hell\|Forests of Hell]], which is home to dangerous [[Cognitive Shadow\|Cognitive Shadows]] known as [[Shade\|Shades]]. The system used to be home to the Shard [[Ambition\|Ambition]], whose Splintering has severely warped planet.
+The [[UTol system\|UTol system]] is located near where the Shard [[Virtuosity\|Virtuosity]] Splintered herself and home to two habitable planets. The eponymous planet of **[[UTol\|UTol]]** is a water-dominated planet inhabited by [[Sho Del\|Sho Del]] that seems to be well-known in the cosmere by the space age. Its sister planet **[[Komashi\|Komashi]]** is home to humans and [[Splinter\|Splinters]] of Virtuosity known as [[Hijo\|hijo]]; before the destruction of the [[Father machine\|father machine]], it was notable for an eternal [[Shroud\|shroud]] of black Investiture covering the planet.
+
+### Non-shardic Systems
+**[[Canticle\|Canticle]]** is an extremely small planet with a dense, Invested core. The light of the system's host star is also Invested; when that light reaches the surface of Canticle, it is quickly pulled down to the planet's core, superheating everything in its path. As a result, people living on the planet must keep moving constantly in order to stay ahead of the sunrise.
+**[[Yolen\|Yolen]]** is the original planet of humans and the location of the [[Shattering\|Shattering]]. It has few inhabitants in the modern era and has been hidden from most of the people of the cosmere.
+
+### Other Notable Worlds
+**[[Dhatri\|Dhatri]]** is the homeworld of the [[Aether\|aethers]], though they have since spread around the cosmere; the world has been made inhospitable due to an entity known as the [[Dark aether\|dark aether]].
+**[[Lumar\|Lumar]]** is a backwater planet that is home to the [[Aether spores\|aether spores]], a compressed form of [[Aether\|aether]] that grows dangerously fast when touched by water, which are produced by a variant strain of the aethers on the twelve moons that hang close to the surface of the planet.
+Little is known about **[[Bjendal\|Bjendal]]**, **[[Mythos\|Mythos]]**, **[[Obrodai\|Obrodai]]**, and **[[Vax\|Vax]]**. Additionally, there is the homeworld of the [[Sleepless\|Sleepless]], which may be one of those four planets.
+
+## History
+### Before the Shattering
+>“*It was a distant place where two lands meet and gods have died.*”
+\-Hoid on pre-Shattering Yolen.[177]
 
 
-En algún momento, las [[Esquirla del Amanecer\|Esquirlas del Amanecer]] fueron utilizadas para crear el Cosmere.
-Los primeros humanos vivieron en [[Yolen\|Yolen]] y fueron creados por Adonalsium. En algún momento, comenzó a desarrollarse en Yolen un ecosistema poco conocido y parasitario, hostil a los humanos, conocido como [[Vida fain\|vida fain]]. Comenzó a extenderse y a dominar el paisaje, aunque los demás habitantes acabaron aprendiendo a mantenerlo bajo control. Yolen también era el hogar de los [[Sho del\|sho del]], el equivalente a los humanos de la vida fain, y de [[Drag%C3%B3n (Cosmere)\|dragones]]. La información sobre la vida fain sigue siendo lo suficientemente accesible en el Cosmere moderno como para que [[Khriss\|Khriss]] fuera capaz de mencionarla a las personas conscientes del Cosmere sin necesidad de explicaciones. Antes de la Fragmentación, la tecnología de Yolen era de la Edad de Bronce.
-La mayoría de los demás planetas del Cosmere existían y tenían nombre antes de la Fragmentación, aunque [[#Saltamundos]] era mucho menos común en esa época. Durante esta época, Adonalsium creó todo el [[Sistema roshariano\|sistema roshariano]] y desarrolló un supercontinente en el planeta [[Roshar\|Roshar]] así como todas las formas de vida de él.
-La [[Investidura\|Investidura]] seguía existiendo antes de la Fragmentación, aunque su forma era diferente. Durante esta época, hubo un complot para destruir Adonalsium, pero fracasó. [[Hoid\|Hoid]], el dragón [[Frost\|Frost]] y los Recipientes originales vivieron antes de la Fragmentación.
+At some point, the [[Dawnshard\|Dawnshards]] were used to create the cosmere.
+The first humans lived on [[Yolen\|Yolen]] and were created by Adonalsium. At some point, a poorly-understood and parasitic ecosystem hostile to humans, known as [[Fainlife\|fainlife]], began to develop on Yolen. It began to spread and overtake the landscape, though the other inhabitants eventually learned how to keep it in check. Yolen was also home to the [[Sho Del\|Sho Del]], the fainlife equivalent of humans, and [[Dragon (cosmere)\|dragons]]. Information about fainlife remains accessible enough in the modern cosmere that [[Khriss\|Khriss]] was able to mention it to cosmere-aware people without need for explanation. Prior to the Shattering, Yolen's technology was Bronze Age.
+During this time, Adonalsium created several planets, including the entire [[Rosharan system\|Rosharan system]]. Most of the planets in the cosmere existed and were named prior to the Shattering, though [[#Worldhoppers]] was much less common at the time.
+[[Investiture\|Investiture]] still existed prior to the Shattering, though its form was different. During this time, there was a plot to destroy Adonalsium, but it failed. [[Hoid\|Hoid]], the dragon [[Frost\|Frost]], and the original Vessels all lived before the Shattering.
 
-### La fragmentación de Adonalsium
-  Una representación de la <<Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium>>
->“*Dieciséis personas, todas juntas, mataron a Adonalsium, lo descuartizaron y se repartieron su esencia entre ellos, convirtiéndose en los primeros en Ascender. [Eran] Un grupo diverso, con motivos igualmente diversos. Algunos ansiaban el poder, otros veían la muerte de Adonalsium como la única buena opción que les quedaba. Juntos asesinaron a una deidad y se volvieron divinos ellos mismos.*”
-\-Khriss sobre los Recipientes originales.[1]
-
-
-Con el tiempo, unos diez mil años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]],{wob ref|2728}} un grupo de personas que se oponían a Adonalsium se unió y planeó su destrucción. Este grupo incluía a personas de las tres especies sapientes de [[Yolen\|Yolen]]: humanos, [[Drag%C3%B3n (Cosmere)\|dragones]], y [[Sho del\|sho del]]. Para lograr su objetivo, crearon un arma que utilizaba las [[Esquirla del Amanecer\|Esquirlas del Amanecer]]. En un evento conocido como la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], el arma se utilizó para "deshacer" a Adonalsium, dividiéndolo en las dieciséis [[Esquirla\|Esquirlas]]; el arma se gastó en el proceso, aunque existen restos de ella en el Reino Físico y son responsables de la inmortalidad de Hoid. Como parte de la Fragmentación, dieciséis de las personas que se habían opuesto a Adonalsium tomaron las nuevas Esquirlas y se convirtieron en los primeros Recipientes. Hubo algún tipo de fuerza que hizo que Adonalsium se fragmentara en las Esquirlas que hizo, y la distribución de las Esquirlas a los Recipientes no fue aleatoria. La Fragmentación sucedió en Yolen, aunque hay cierta "rareza" con respecto a Yolen y a la ubicación, y se produjo de una sola vez. Como resultado de la Fragmentación, toda la Investidura del Cosmere se alineó con una de las dieciséis Esquirlas.
-Hoid estuvo vagamente involucrado en el complot para la Fragmentación de Adonalsium y estuvo presente en dicho evento. También tuvo la oportunidad de tomar una Esquirla, pero la rechazó. Tanto él como [[Frost\|Frost]] conocieron personalmente a los Recipientes originales.
-Después de la Fragmentación, los nuevos Recipientes llegaron a una especie de acuerdo para no interferir entre ellos, aunque el acuerdo exacto fue algo ambiguo y los Recipientes que lo propusieron no se aseguraron de obtener un juramento formal de los demás. En cualquier caso, las Esquirlas tomaron caminos distintos. La mayoría se asentaron en un planeta, aunque [[Virtuosismo\|Virtuosismo]] optó por viajar por el Cosmere antes de acabar astillándose cerca del [[Sistema UTol\|sistema UTol]]. La mayoría se estableció en un planeta, aunque al menos una no lo hizo. Algunas eligieron irse por su cuenta, mientras que otras se quedaron con otras Esquirlas. Alrededor de esta época, [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]] crearon el planeta [[Scadrial\|Scadrial]], utilizando como guía las partes de Yolen que no tenían vida fain. Honor y Cultivación se asentaron en Roshar poco después de la Fragmentación.
-
-### La misión de Odium
->“*Solo hay que mirar las consecuencias de su breve visita a Sel para ver la prueba de lo que digo. Por si no has reparado en ese desastre, has de saber que Aona y Skai están muertos, y que lo que tenían ha sido Roto. Presumiblemente para impedir que nadie se alce para desafiar a Rayse.*”
-\-Hoid sobre Odium en su carta a Frost.[210][203]
+### The Shattering of Adonalsium
+  A depiction of the <<Shattering of Adonalsium\|Shattering of Adonalsium>>
+>“*Sixteen people, together, killed Adonalsium, ripping it apart and dividing its essence between them, becoming the first who Ascended. [They were] a diverse group, with equally diverse motives. Some wished for the power; others saw killing Adonalsium as the only good option left to them. Together they murdered a deity, and became divine themselves.*”
+\-Khriss on the original Vessels[1]
 
 
-Poco después de la Fragmentación, o posiblemente incluso antes, el Recipiente de Odium, Rayse, decidió que quería convertirse en el ser más fuerte del Cosmere. Sin embargo, Odium es, por naturaleza, egoísta, y Rayse no quería que la Intención de una Esquirla adicional lo convirtiera en otra cosa, así que decidió destruir las otras Esquirlas para que no quedara nadie que lo desafiara. Para ello, desarrolló una forma de [[Astilla\|astillar]] el poder de una Esquirla, lo que también provoca la muerte de su Recipiente.
+Eventually, around ten-thousand years before the [[True Desolation\|True Desolation]], a group of people that opposed Adonalsium came together and plotted its destruction. This group included people of all three sapient species on [[Yolen\|Yolen]]: humans, [[Dragon (cosmere)\|dragons]], and [[Sho Del\|Sho Del]]. To achieve their goal, they created a weapon that utilized the [[Dawnshard\|Dawnshards]]. In an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]], the weapon was used to "undo" Adonalsium, splitting it into the sixteen [[Shard\|Shards]]; the weapon was expended in the process, though remnants of it exist in the Physical Realm and are responsible for Hoid's immortality. As part of the Shattering, sixteen of the people who had opposed Adonalsium took up the new Shards and became the first Vessels. There was some sort of force that caused Adonalsium to shatter into the Shards that it did, and the distribution of the Shards to the Vessels was not random. The Shattering occurred on Yolen, though there is some "weirdness" with regard to Yolen and location, and occurred all at once. As a result of the Shattering, all Investiture in the cosmere became aligned with one of the sixteen Shards.
+Hoid was loosely involved in the plot to Shatter Adonalsium and was present at the Shattering. He also had the opportunity to take a Shard, but turned it down. He and [[Frost\|Frost]] both knew the original Vessels personally.
+After the Shattering, the new Vessels made some sort of agreement to not interfere with each other, though the exact agreement was somewhat ambiguous and the Vessels who suggested it did not make sure to get a formal oath from the others. Regardless, the Shards then went their separate ways. Most settled on a planet, though [[Virtuosity\|Virtuosity]] instead chose to instead travel around the cosmere before eventually Splintering herself near the [[UTol system\|UTol system]]. Some chose to go off on their own, while others stayed together with other Shards. Around this time, [[Ruin\|Ruin]] and [[Preservation\|Preservation]] created the planet [[Scadrial\|Scadrial]], using the non-fain parts of Yolen as a guide.
 
->“*Soporta el peso del odio divino de Dios, separado de las virtudes que le dieron contexto. Es lo que le hicimos ser, viejo amigo, Y lo que, por desgracia, quiso ser.*”
-\-Frost sobre Odium en su respuesta a Hoid.[214]
+### Odium's Quest
+>“*One need only look at the aftermath of his brief visit to Sel to see proof of what I say. In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse.*”
+\-Hoid on Odium in his letter to Frost[208][203]
 
-El primer objetivo de Odium fue [[Ambici%C3%B3n\|Ambición]], ya que temía que fuera una amenaza para él. Sin embargo, mientras buscaba a Ambición, más de 7700 años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], se encontró con las Esquirlas [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] en [[Sel\|Sel]] y las atacó, probablemente porque podía argumentar que habían violado el pacto de los Recipientes de no interferir entre sí. En la batalla que siguió, Odium logró astillar a Devoción y Dominio y mató a sus Recipientes, Aona y Skai. Para asegurarse de que nadie pudiera tomar sus Esquirlas, trasladó la mayor parte de su Investidura del Reino Espiritual al Reino Cognitivo, lo que hizo que el [[Extensi%C3%B3n de las Densidades\|Reino Congnitivo de Sel]] fuera increíblemente peligroso y que las Artes Investidas de Sel dependieran de su ubicación.
-Algún tiempo después de astillar a Devoción y Dominio, Odium finalmente encontró a Ambición, que se había establecido en el [[Sistema de Treno\|sistema de Treno]]. Odium atacó e hirió mortalmente a Ambición, aunque la Esquirla huyó y finalmente fue astillada en otro lugar, en una batalla contra Odium y [[Piedad\|Piedad]]. Estos enfrentamientos provocaron una herida en el Reino Espiritual y dejaron trozos arrancados del poder de Ambición en el sistema trenodita, que retorcieron a la gente y al planeta de [[Treno\|Treno]].
 
-  <<Odium\|Odium>> y los <<Fusionado\|Fusionados>>
-En algún momento después de que [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] llegaran a [[Roshar\|Roshar]], Odium viajó al [[Sistema roshariano\|sistema roshariano]]. Odium nunca tuvo la intención de Investirse en un planeta, pero, en algún momento, se invistió en el sistema roshariano hasta el punto de que a partir de entonces tendría que dejar parte de su poder o arrancarlo a la fuerza para poder marcharse. En algún momento mientras estaba en el sistema, Honor y Cultivación usaron su poder para atraparlo en el sistema. En algún momento antes de esto, la humanidad destruyó Ashyn a través de la potenciación desenfrenada potenciada por una Esquirla del Amanecer, dejándolo en gran medida inhabitable fuera de unos pocos parches de tierra, y huyó del planeta a Roshar, con Odium, alrededor de siete milenios antes de la Auténtica Desolación.
-Como resultado de estar atrapado en el sistema, Odium ha estado librando desde entonces una guerra para liberarse de lo que le ata al sistema para poder continuar su tarea. Para ello, ha astillado trozos de su poder para crear a los [[Fusionado\|Fusionados]], los [[Deshecho\|Deshechos]], y los [[Vac%C3%ADospren\|vacíospren]] , invistiendo también el sistema roshariano lo suficiente como para crear y dar acceso al Arte Investido conocido como [[Potenciaci%C3%B3n del Vac%C3%ADo\|potenciación del Vacío]]. Cuando los Fusionados aparecieron por primera vez, Honor creó a los [[Heraldo\|Heraldos]], que podían encerrar a los Fusionados en [[Braize\|Braize]], aunque estos torturaron a los Heraldos para que les permitieran regresar a [[Roshar\|Roshar]]. Cada vez que un Heraldo se rompía, comenzaba una [[Desolaci%C3%B3n\|Desolación]] y los Heraldos y [[Caballeros Radiantes\|Caballeros Radiantes]] luchaban contra los Fusionados hasta que podían ser encerrados de nuevo en Braize. Esta situación continuó durante milenios y las Esquirlas se mantuvieron en un punto muerto, especialmente después de que nueve de los Heraldos abandonaran el [[Juramento\|Juramento]], dejándolo solo en manos de [[Talenel\|Talenel]], que era más capaz de soportar la tortura en Braize. Como resultado de sus pasados enfrentamientos contra Esquirlas, Odium tiene "cicatrices que no se curan", lo que le hace ser más cuidadoso con sus futuros compromisos.
-Muchas de las otras Esquirlas están al tanto de las acciones de Odium, aunque la mayoría no parece considerarlo un problema, mientras siga ligado al sistema roshariano. [[Dotaci%C3%B3n\|Dotación]] actualmente es indiferente a él y cree que estaba justificado que Astillara las Esquirlas escogidas; también cree que podría "tratar" con él si se convierte en un problema. Uno de los avatares de [[Autonom%C3%ADa\|Autonomía]], [[Patji (ser)\|Patji]], también expresó su indiferencia, aunque indicó que otro avatar podría ser más receptivo. También hay una [[Esquirla de Supervivencia\|Esquirla que sólo quiere sobrevivir]] que es consciente de los objetivos de Odium y es lo suficientemente "inteligente" como para mantenerse alejada, aunque con el tiempo se han dado cuenta de que puede no ser el mejor curso de acción. [[Armon%C3%ADa\|Armonía]], que no se dio cuenta de la amenaza hasta la época de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], está muy preocupado por Odium, pero no puede hacer mucho debido a la naturaleza conflictiva de sus poderes. En una carta a [[Hoid\|Hoid]], sin embargo, sugirió que [[Valor\|Valor]] podría compartir parte de su preocupación.
+Soon after the Shattering, or possibly even beforehand, the Vessel of Odium, Rayse, decided he wanted to become the strongest being in the cosmere. However, Odium is, by its nature, selfish and Rayse did not want the Intent of an additional Shard to make him into something else, so he instead decided to destroy the other Shards so that there would be no one left to challenge him. To do so, he developed a way to [[Splinter\|Splinter]] a Shard's power, which also results in the death of its Vessel.
 
-### La ascensión de Armonía
-  <<Sazed\|Sazed>> como <<Armon%C3%ADa\|Armonía>>
-Al principio de la historia de [[Scadrial\|Scadrial]], el Recipiente de [[Conservaci%C3%B3n\|Conservación]], [[Leras\|Leras]], sacrificó la mayor parte de su conciencia para aprisionar la mente de [[Ruina\|Ruina]] en el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]], evitando que destruyera el planeta. En el proceso, Conservación también robó una parte del poder de Ruina y creó los [[Pozos de Hathsin\|Pozos de Hathsin]] para ocultarlo; la concentración de Investidura allí formó una perpendicularidad, que llegó a sustentar un extenso sistema de comercio interplanetario hasta que [[Kelsier\|Kelsier]] hizo añicos todas las geodas de [[Atium\|atium]] de los Pozos en 1022 [[Imperio Final\|IF]].
-Tras la muerte del [[Lord Legislador\|lord Legislador]], Ruina logró manipular a [[Vin\|Vin]] para que tomara el poder del Pozo y luego lo liberara, lo que le permitió salir de su prisión. Una vez libre, Ruina fue incapaz de astillar a Conservación de inmediato, pero hizo que su poder atacara a lo que quedaba de Leras, matando lentamente al Recipiente. Los [Ire]], conscientes de la inminente muerte de Leras, intentaron utilizar [[Orbe de los Ire\|un dispositivo]] para [[Conexi%C3%B3n\|Conectar]] a uno de sus miembros con Conservación y Ascender el 1025 [[Imperio Final\|IF]]. Este, sin embargo, fue robado por Kelsier, quien lo utilizó después de que Leras finalmente muriera, tomando la porción de poder de Conservación que aún tenía y evitando que Ruina lo Astillara.
-Kelsier siguió conteniendo ese poder hasta que Vin, la sucesora elegida por Leras,, le quitó su vínculo con Ruina (un [[Pendiente de Vin\|pendiente]] cargado [[Hemalurgia\|hemalúrgicamente]]), y empezó a absorber las [[Bruma\|brumas]] y Kelsier liberó parte del poder de Conservación que poseía, permitiendo a Vin Ascender y convertirse en el Recipiente de [[Conservaci%C3%B3n\|Conservación]].  Durante la [[Batalla de Hathsin\|batalla de Hathsin]], Vin se sacrificó para matar al Recipiente de [[Ruina\|Ruina]], [[Ati\|Ati]].
-Leras, cuando poseía el poder de Conservación, había previsto todo esto y planeó que tanto Ruina como Conservación se quedaran sin Recipiente para que [[Sazed\|Sazed]] pudiera tomar ambas Esquirlas y sus Intenciones pudieran moderarse mutuamente. Como resultado de que una sola persona poseyera ambas Esquirlas, el poder de Ruina y Conservación comenzó a entremezclarse, y Sazed pasó a ser conocido como [[Armon%C3%ADa\|Armonía]]. Se considera una sola Esquirla, igual que un rey de dos países sigue siendo un solo rey.{{wob ref|6486]] Esta consolidación de dos Esquirlas con un solo Recipiente causó que algunas otras Esquirlas (notablemente Odium y [[Autonom%C3%ADa\|Autonomía]]) se sintieran amenazadas o incluso asustadas y comenzaran a hacer planes para encargarse de Armonía.
+>“*He bears the weight of God's own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become.*”
+\-Frost on Odium in his reply to Hoid[212]
 
-### Astillamiento de Honor y la Verdadera Desolación
-Algún tiempo después de la [[Traici%C3%B3n\|Traición]],  [[Odium\|Odium]] finalmente logró [[Astilla\|astillar]] a [[Honor\|Honor]], aunque [[Cultivaci%C3%B3n\|Cultivación]] estaba ayudando a Honor de alguna manera. Honor, sin embargo, se había preparado para esta eventualidad, entre otras cosas, dando al [[Padre Tormenta\|Padre Tormenta]] el poder de crear nuevos [[Honorspren\|honorspren]] y grabando una [[Visiones de Dalinar\|serie de visiones]] para que el Padre Tormenta se la mostrara a la [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] potenciales.
-Aproximadamente 4.500 años rosharianos (4,950 años estándar) después de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], [[Odium\|Odium]] y sus sirvientes desarrollaron la [[Tormenta eterna\|Tormenta eterna]] para permitir a los [[Fusionado\|Fusionados]] burlar el Juramento y regresar a [[Roshar\|Roshar]] sin que [[Talenel\|Talenel]] se rompiera. A medida que las fuerzas de Odium se acercaban a la ejecución de su plan, Hoid comenzó a acercarse al dragón [[Frost\|Frost]] y a varias de las Esquirlas, pidiéndoles ayuda para mantener el Cosmere a salvo de Odium. Aparte de Armonía, que hasta entonces no había sido consciente de la amenaza que suponía Odium, todos rechazaron la petición de Hoid por considerar suficiente el bloqueo de Odium al [[Sistema roshariano\|sistema roshariano]]. Tras años de preparación, los siervos de Odium guiaron con éxito a los [[Oyente\|oyentes]] para invocar la tormenta eterna, iniciando la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]].
-Con la llegada de la tormenta eterna en Ishishach 1173, [[Dalinar Kholin\|Dalinar Kholin]] fundó una [[Coalici%C3%B3n de monarcas\|coalición de monarcas]], para oponerse a las fuerzas de Odium, y los [[Caballeros Radiantes\|Caballeros Radiantes]] fueron restablecidos. Siguiendo el consejo que Honor había dejado en su sucesión de visiones, presionaron a Odium para que accediera a un combate de campeones y así poder obligarle a dejar Roshar en paz durante algún tiempo. Odium acabó accediendo a dicho enfrentamiento durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], pero se retiró antes de que pudieran establecerse las condiciones del enfrentamiento.
-Aproximadamente un año después en 1175, Odium regresó para establecer las condiciones de la contienda. Al final, él y Dalinar acordaron que, independientemente del resultado de esta, Odium seguiría vinculado al [[Sistema roshariano\|sistema roshariano]] y cesaría las hostilidades contra la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]], y que sólo el destino de [[Alezkar\|Alezkar]], [[Herdaz\|Herdaz]] y el alma de Dalinar dependería del resultado de la contienda. Las protecciones especificadas para [[Hoid\|Hoid]] en el contrato inicial, escrito y propuesto por Dalinar, también parecen estar en vigor. El concurso está fijado para la décima hora del [[/wiki/Roshar#Calendario]] en la cima de [[Urithiru\|Urithiru]].
-Poco después de que Odium llegara a este acuerdo con Dalinar, [[Taravangian\|Taravangian]] orquestó un ataque contra Odium con [[Sangre Nocturna\|Sangre Nocturna]], que mató al Recipiente de Odium, [[Rayse\|Rayse]]. Taravangian ascendió entonces como el nuevo Recipiente de Odium; sigue atado al acuerdo que Rayse hizo con Dalinar y planea vencer a Dalinar.
+Odium's first target was [[Ambition\|Ambition]], as he feared that it would be a threat to him. However, while searching for Ambition, over 7700 years before the [[True Desolation\|True Desolation]], he encountered the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] and attacked them, likely because he could argue they had violated the Vessel's pact to not interfere with each other. In the ensuing battle, Odium successfully splintered Devotion and Dominion and killed their Vessels, Aona and Skai. In order to ensure that no one could take up their Shards, he then somehow moved most of their Investiture from the Spiritual Realm into the Cognitive Realm, which made the [[Expanse of the Densities\|Selish Cognitive Realm]] incredibly dangerous and the Selish Invested Arts location-dependent.
+Sometime after he Splintered Devotion and Dominion, Odium finally found Ambition, who had settled in the [[Threnodite system\|Threnodite system]]. Odium attacked and mortally wounded Ambition, though the Shard fled and was ultimately Splintered elsewhere, in a battle with Odium and [[Mercy\|Mercy]]. These clashes resulted in a wound in the Spiritual Realm and left ripped-off chunks of Ambition's power in the Threnodite system, which twisted the people and planet of [[Threnody\|Threnody]].
 
-### Trell y Scadrial
-  El poder de <<Trell (trellismo)\|Trell>> manifestándose en <<Scadrial\|Scadrial>>
-Algún tiempo después del [[Catacendro\|Catacendro]], [[Kelsier\|Kelsier]] fundó los [[Sangre Espectral\|Sangre Espectral]] con el propósito de proteger Scadrial.  Como resultado de los movimientos que estaba realizando, otros empezaron a buscar poder en el resto del Cosmere, aunque no eran plenamente conscientes de lo que estaban haciendo. Sus llamadas fueron respondidas por la Esquirla [[Autonom%C3%ADa\|Autonomía]], que comenzó a hacer valer la antigua religión del [[Trelagismo\|trelagismo]] que ella misma había fundado en la [[Scadrial cl%C3%A1sico\|era clásica de Scadrial]] y a crear un nuevo Avatar de sí misma en Scadrial, [[Trell (trellismo)\|Trell]]. Apoyó al [[El Grupo\|Grupo]] y a la [[Kandra\|kandra]] [[Paalm\|Paalm]] en sus esfuerzos por liberar Scadrial de la influencia de Armonía y ponerlo bajo su control, al tiempo que se preparaba para destruir el planeta si era necesario para evitar que se convirtiera en una amenaza.
-Cuando los planes de Autonomía estaban a punto de completarse en 348 [[Catacendro\|PC]], envolvió a Armonía en una mortaja que limitaba drásticamente su capacidad de ver el futuro y preparó a la líder del Grupo, [[Telsin Ladrian\|Telsin Ladrian]] para convertirse en el avatar Trell. Sus dos planes para Scadrial fueron finalmente detenidos, ya que [[Waxillium Ladrian\|Waxillium Ladrian]] y [[Wayne\|Wayne]] mataron a Telsin y detonaron prematuramente la bomba planeada para destruir Elendel, mientras que [[Marasi Colms\|Marasi Colms]], con ayuda de los Sangre Espectral, drenó y colapsó la perpendicularidad que Autonomía había creado para que sus [[Hombres de dorado y rojo\|hombres de dorado y rojo]] viajaran a través de ella, impidiéndoles destruir el planeta.  Autonomía se retira entonces de Scadrial, diciendo que habían demostrado su valía por el momento, pero que planeaban volver.
+  <<Odium\|Odium>> and the <<Fused\|Fused>>
+A long time after the Shattering, Odium got permission from [[Honor\|Honor]] and [[Cultivation\|Cultivation]] to join them in the [[Rosharan system\|Rosharan system]]. Odium never intended to Invest himself in a planet, but, at some point, he became Invested in the Rosharan system to the point where he would now have to leave some of his power behind or forcibly tear it out in order to leave.
+Early in his time in the Rosharan system, Odium took an interest in the humans living on [[Ashyn\|Ashyn]] and encouraged them to experiment with [[Surgebinding\|Surgebinding]]. Those experiments, combined with at least one Dawnshard, set the entire planet on fire, leaving it largely uninhabitable outside of a few small pockets, causing most of the population to flee to Roshar.
+At some point while he was in the Rosharan system, Honor and Cultivation used their power to trap him there. As a result, Odium has since been waging a war to free himself from whatever binds him to the system so that he can continue his quest. To that end, he Splintered off pieces of his power to create the [[Fused\|Fused]], the [[Unmade\|Unmade]], and [[Voidspren\|voidspren]], and also Invested in the Rosharan system enough to create and grant access to Invested Art known as [[Voidbinding\|Voidbinding]]. When the Fused first appeared, Honor created the [[Herald\|Heralds]], who could seal the Fused on [[Braize\|Braize]], though the Fused tortured the Heralds into allowing them to return to [[Roshar\|Roshar]]. Every time a Herald broke, a [[Desolation\|Desolation]] would begin and the Heralds and [[Knights Radiant\|Knights Radiant]] would fight the Fused until they could be sealed on Braize again. This situation continued for millennia and the Shards remained at a stalemate, especially after nine of the Heralds abandoned the [[Oathpact\|Oathpact]], leaving it to [[Talenel\|Talenel]] alone, who was better able to withstand the torture on Braize.
+Odium's repeated clashes with other Shards have left him with "scars that do not heal," forcing him to become more careful about the battles he engages in.
+Many of the other Shards are aware of Odium's actions, though most do not seem to consider him a problem, as long as he remains bound to the Rosharan system. [[Endowment\|Endowment]] is currently indifferent to him and thinks he was justified in Splintering the Shards he did; she also believes she could "deal" with him if he becomes an issue. One of [[Autonomy\|Autonomy's]] avatars, [[Patji (being)\|Patji]], also expressed indifference, though he did indicate that a different avatar might be more receptive. There is also a [[Survival Shard\|Shard who just wants to survive]] that is aware of Odium's goals and is "smart enough" to stay away, though they have realized over time that may not be the best course of action. [[Harmony\|Harmony]], who only became aware of the threat around the time of the [[True Desolation\|True Desolation]], is deeply concerned about Odium, but is unable to do much because of the conflicting nature of his powers. In a letter to [[Hoid\|Hoid]], however, he did suggest that [[Valor\|Valor]] might share some of his concern.
 
-### La era espacial
-Con el tiempo, la humanidad descubrió un método para viajar más rápido que la luz en el Reino Físico. Esto llevó a una creciente comunicación entre planetas, y la formación de los [[C%C3%B3digos de Luzdeplata para la Conducta Interplanetaria\|Códigos de Luzdeplata para la Conducta Interplanetaria]]. También se construyeron estaciones de paso por todo el Cosmere.
-Esta mayor comunicación condujo a crecientes conflictos entre planetas y al nacimiento de una carrera armamentística que consumió a la mayoría de los planetas desarrollados. Aunque durante esta época, muchas civilizaciones permanecieron confinadas en sus planetas. Algunas partes decidieron llevar tecnología a planetas menos desarrollados, como los [[Venidos de Arriba\|Venidos de Arriba]] que llevaron su tecnología a la gente del [[Primero del Sol\|Primero del Sol]].
+### The Ascension of Harmony
+  <<Sazed\|Sazed>> as <<Harmony\|Harmony>>
+Early in the history of [[Scadrial\|Scadrial]], [[Preservation\|Preservation's]] Vessel, [[Leras\|Leras]], sacrificed most of his consciousness to imprison [[Ruin\|Ruin's]] mind in the [[Well of Ascension\|Well of Ascension]], preventing him from destroying the planet. In the process, Preservation also stole a piece of Ruin's power and crafted the [[Pits of Hathsin\|Pits of Hathsin]] to hide it; the concentration of Investiture there formed a perpendicularity, which came to support an extensive system of interplanetary trade until [[Kelsier\|Kelsier]] shattered all of the [[Atium\|atium]] geodes in the Pits in 1022 [[Final Empire\|FE]].
+After the death of the [[Lord Ruler\|Lord Ruler]], Ruin was successfully able to manipulate [[Vin\|Vin]] into taking up the Well's power and then releasing it, which allowed him to be free. Once free, Ruin was unable to immediately Splinter Preservation, but brought his power to bear against what remained of Leras, slowly killing the Vessel. The [[Ire\|Ire]], aware of Leras's impending death, sought to use [[Ire's orb\|a device]] to [[Connection\|Connect]] one of their members to Preservation and Ascend in 1025 [[Final Empire\|FE]]. The device, however, was stolen by Kelsier, who used it after Leras finally died, taking up the portion of Preservation's power that Leras had still been holding and preventing Ruin from Splintering Preservation.
+Kelsier continued to hold that power until Vin, Leras's chosen successor, had her link to Ruin—a [[Hemalurgy\|Hemalurgically]] charged [[Vin's earring\|earring]]—removed, whereupon she began absorbing the [[Mist\|mists]] and Kelsier released the portion of Preservation's power he held, allowing Vin to Ascend and become the Vessel of [[Preservation\|Preservation]]. During the [[Battle of Hathsin\|Battle of Hathsin]], Vin then sacrificed herself in order to kill Ruin's Vessel, [[Ati\|Ati]].
+Leras, when he held Preservation's power, had foreseen all this and planned for both Ruin and Preservation to be left without a Vessel so that [[Sazed\|Sazed]] could take up both Shards and their Intents could moderate each other. As a result of one person holding both Shards, Ruin and Preservation's power began to intermingle, and Sazed became known as [[Harmony\|Harmony]]. It is considered a single Shard, much like a king of two countries is still just one king. This consolidation of two Shards with one Vessel caused some of the other Shards—notably Odium and [[Autonomy\|Autonomy]]—to feel threatened or even scared and to begin making plans for dealing with Harmony.
 
-## Saltamundos
-Algunas personas que conocen el Cosmere más amplio han aprendido a viajar entre planetas y se les conoce como saltamundos. Dado que el espacio en el Reino Cognitivo está vinculado a la forma en que la gente piensa en esa región, la mayor parte del espacio exterior está extremadamente comprimido en el Reino Cognitivo. Por lo tanto, si uno pudiera cambiar del Reino Físico al Cognitivo, podría viajar rápidamente entre planetas. El método más común para trasladarse al Reino Cognitivo es pasando por una [[Perpendicularidad\|perpendicularidad]], aunque también es posible con la [[/wiki/Potenciaci%C3%B3n#Transportaci.C3.B3n]].
-No es igual de fácil acceder a los planetas a través del Reino Cognitivo, y pueden volverse rápidamente menos accesibles debido a acontecimientos locales. Mientras que Nalthis es generalmente fácil y seguro de alcanzar, e incluso tiene aduanas para que los viajeros pasen, parece ser más bien un caso atípico en este sentido; viajar a Sel es increíblemente peligroso debido a que el poder de Devoción y Dominio están atrapados en el Reino Cognitivo, un sistema mercantil bien establecido que funciona a través de la [[Perpendicularidad de Ruina\|Perpendicularidad de Ruina]] en Scadrial se desbarata de la noche a la mañana cuando Kelsier destruye el [[Atium\|atium]] en los [[Pozos de Hathsin\|Pozos de Hathsin]], Roshar fluctúa entre ser acogedora y peligrosa, dependiendo de la etapa del conflicto entre Honor y Odium, Taldain es inaccesible ya que [[Autonom%C3%ADa\|Autonomía]] lo ha cerrado al resto del Cosmere, y los viajes a [[Bjendal\|Bjendal]] se ven interrumpidos por sucesos desconocidos.
-Como resultado de estas dificultades, la gente busca otros métodos para viajar. Aunque es posible viajar por el mundo utilizando el Reino Espiritual, el principal método disponible es el viaje más rápido que la luz a través del espacio en el Reino Físico. Existen múltiples formas de crear naves capaces de realizar este tipo de viajes; tanto la Potencia de Transportación como la [[Alomancia\|alomancia]] proporcionan bases viables para desarrollar naves que puedan hacerlo, aunque se desconoce la mecánica exacta.
-En total, el número de personas que viajan entre planetas probablemente sea de miles, aunque esto puede aumentar tras el desarrollo de viajes más rápidos que la velocidad de la luz a través del Reino Físico. Algunas de estas personas están involucradas en los acontecimientos más amplios del Cosmere, pero muchas sólo quieren emigrar a otro planeta. No existe un idioma universal que hablen todos los saltamundos, aunque algunos pueden utilizar la [[Conexi%C3%B3n\|Conexión]] para hablar idiomas locales. Estos saltamundos impulsan un próspero sistema de comercio interplanetario que incluye; el comercio de objetos mundanos de diferentes mundos, artículos raros como pinturas de la [[Corte de los Dioses\|Corte de los Dioses]], y al menos un servicio de mensajería. La mercancía más importante, sin embargo, es la Investidura, aunque es difícil de transportar fuera de su mundo de origen ya que está fuertemente Conectada a ese mundo y a su Esquirla.
+### Splintering of Honor and the True Desolation
+Sometime after the [[Recreance\|Recreance]], [[Odium\|Odium]] finally managed to [[Splinter\|Splinter]] [[Honor\|Honor]], even though [[Cultivation\|Cultivation]] was assisting Honor in some way. Honor, however, had prepared for this eventuality by, among other things, giving the [[Stormfather\|Stormfather]] the power to create new [[Honorspren\|honorspren]] and recording a [[Dalinar's visions\|series of visions]] for the Stormfather to show to potential [[Order of Bondsmiths\|Bondsmiths]].
+Approximately 4,500 Rosharan years (4,950 standard years) after the [[Last Desolation\|Last Desolation]], [[Odium\|Odium]] and his servants developed the [[Everstorm\|Everstorm]] to allow the [[Fused\|Fused]] to circumvent the Oathpact and return to [[Roshar\|Roshar]] without [[Talenel\|Talenel]] breaking. As Odium's forces grew closer to enacting their plan, Hoid began reaching out to the dragon [[Frost\|Frost]] and several of the Shards, asking them to help in keeping the cosmere safe from Odium. Aside from Harmony, who had not previously been aware of the threat Odium posed, they all rejected Hoid's request as they considered Odium's binding to the [[Rosharan system\|Rosharan system]] sufficient. After years of preparation, Odium's servants successfully guided the [[Listeners\|listeners]] to summoning the Everstorm,
+beginning the [[True Desolation\|True Desolation]].
+With the advent of the Everstorm on Ishishach 1173, [[Dalinar Kholin\|Dalinar Kholin]] founded a [[Coalition of monarchs\|coalition of monarchs]] to oppose Odium's forces and the [[Knights Radiant\|Knights Radiant]] were re-established. Acting on the advice Honor had left in his series of visions, they pushed Odium to agree to a contest of champions so that he could be forced to leave Roshar in peace for some period of time. Odium eventually agreed to such a contest during the [[Battle of Thaylen Field\|Battle of Thaylen Field]], but withdrew before the terms for the contest could be set.
+About a year later, in 1175, Odium returned to set the terms for the contest. Ultimately he and Dalinar agreed that, no matter the outcome of the contest, Odium would remain bound to the Rosharan system and would cease hostilities against the coalition of monarchs, with only the fate of [[Alethkar\|Alethkar]], [[Herdaz\|Herdaz]], and Dalinar's soul depending on the outcome of the contest. The protections specified for [[Hoid\|Hoid]] in Dalinar's initial, written, proposed contract also appear to be in effect. The contest is set for the tenth hour of the [[/wiki/Roshar#Calendar]] at the top of [[Urithiru\|Urithiru]].
+Shortly after Odium came to this agreement with Dalinar, [[Taravangian\|Taravangian]] orchestrated an attack on Odium with [[Nightblood\|Nightblood]], which killed Odium's Vessel, [[Rayse\|Rayse]]. Taravangian then Ascended as the new Vessel of Odium; he remains bound by the agreement Rayse made with Dalinar and plans to beat Dalinar.
+
+### Trell and Scadrial
+  <<Trell (Trellism)\|Trell's>> power manifesting on <<Scadrial\|Scadrial>>
+Sometime after the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier]] founded the [[Ghostbloods\|Ghostbloods]] for the purpose of protecting Scadrial. As a result of the moves he was making, others began reaching out to the rest of the cosmere for power, though they were not fully aware what they were doing. Their calls were answered by the Shard [[Autonomy\|Autonomy]], who began to make good on the ancient religion of [[Trelagism\|Trelagism]] that she had founded in the [[Classical Scadrial\|classical era of Scadrial]] and to create a new avatar of herself on Scadrial, [[Trell (Trellism)\|Trell]]. She backed the [[Set\|Set]] and the [[Kandra\|kandra]] [[Paalm\|Paalm]] in their efforts to break Scadrial from Harmony's influence and bring it under her control, while also preparing to destroy the planet if necessary to prevent it from becoming a threat.
+As Autonomy's plans neared completion in 348 [[Catacendre\|PC]], she trapped Harmony in a shroud that sharply limited his ability to see the future and prepared the leader of the Set, [[Telsin Ladrian\|Telsin Ladrian]] to become the avatar Trell. Both of her plans for Scadrial were ultimately stopped, as [[Waxillium Ladrian\|Waxillium Ladrian]] and [[Wayne\|Wayne]] killed Telsin and prematurely detonated the bomb planned to destroy Elendel while [[Marasi Colms\|Marasi Colms]], with help from the Ghostbloods, drained and collapsed the perpendicularity Autonomy had created for her [[Men of gold and red\|men of gold and red]] to travel through, preventing them from destroying the planet. Autonomy then withdrew from Scadrial, saying that they had proven themselves for the moment, but that they plan to return.
+
+### The Space Age
+Eventually, mankind discovered a method for faster-than-light travel in the physical realm. This led to growing communication between planets, and the formation of the [[Silverlight Codes of Interplanetary Conduct\|Silverlight Codes of Interplanetary Conduct]]. Waystations were also constructed throughout the cosmere.
+This greater communication led to growing conflicts between planets, and the birth of a growing arms race that consumed most developed planets. Although during this era, many civilizations remained planetbound. Some parties decided to bring technology to less developed planets, such as the [[Ones Above\|Ones Above]] bringing their technology to the people of the [[First of the Sun\|First of the Sun]].
+
+## Worldhoppers
+Some people who are aware of the broader cosmere have learned how to travel between planets and are known as worldhoppers. Since space in the Cognitive Realm is linked to how people think about that region, most of outer space is extremely compressed in the Cognitive Realm. Therefore, if one could shift from the Physical to the Cognitive Realm, they could quickly travel between planets. The most common method for transfer to the Cognitive Realm is by going through a [[Perpendicularity\|perpendicularity]], though it is also possible with the [[/wiki/Surgebinding#Transportation]].
+Planets are not equally easy to access through the Cognitive Realm and planets may rapidly become less accessible due to local events. While Nalthis is generally easy and safe to reach, and even has customs for travelers to go through, it seems to be more of an outlier in this regard—travel to Sel is incredibly dangerous due to the power of Devotion and Dominion being stuck in the Cognitive Realm, a well-established mercantile system running through [[Ruin's Perpendicularity\|Ruin's Perpendicularity]] on Scadrial is upended overnight when Kelsier destroys the [[Atium\|atium]] in the [[Pits of Hathsin\|Pits of Hathsin]], Roshar fluctuates between being welcoming and being dangerous, depending on the stage of the conflict between Honor and Odium, Taldain is inaccessible as [[Autonomy\|Autonomy]] has closed it off from the rest of the cosmere, and travel to [[Bjendal\|Bjendal]] is disrupted by unknown events.
+As a result of these difficulties, people look for other methods of travel. While it may be possible to worldhop using the Spiritual Realm, the primary other method available is faster-than-light travel through space in the Physical Realm. There are multiple ways to create ships that are capable of such travel; the Surge of Transportation and [[Allomancy\|Allomancy]] both provide viable bases for developing ships that can do so, though the exact mechanics are unknown.
+In total, the number of people traveling between planets probably numbers somewhere in the thousands, though this may increase after the development of faster-than-light travel through the Physical Realm. Some of these people are involved in the broader events of the cosmere, but many just want to immigrate to another planet. There is no universal language that all worldhoppers speak, though some can use [[Connection\|Connection]] to speak local languages. These worldhoppers drive a thriving interplanetary trade system that includes the trade of mundane objects from different worlds, rare items like paintings from the [[Court of the Gods\|Court of the Gods]], and at least one courier service. The most important commodity, however, is Investiture, though it is difficult to transport off of its home world as it is strongly Connected to that world and its Shard.
 
 ### Hoid
-  <<Hoid\|Hoid>> con <<Frost\|Frost>>
->“*Pues nunca me he dedicado a un propósito más importante, y las mismas columnas del cielo temblarán con los resultados de nuestra guerra aquí. Lo pido de nuevo. Apóyame. No te apartes y dejes que el desastre consuma más vidas.*”
-\-Hoid sobre su oposición a Odium.[297]
+  <<Hoid\|Hoid>> with <<Frost\|Frost>>
+>“*For I have never been dedicated to a more important purpose, and the very pillars of the sky will shake with the results of our war here. I ask again. Support me. Do not stand aside and let disaster consume more lives.*”
+\-Hoid on his opposition to Odium[298]
 
 
-Hoid es un misterioso saltamundos que lleva vivo desde antes de la Fragmentación de Adonalsium y estuvo presente en dicho acontecimiento. Ha reunido una gran variedad de objetos Investidos de todo el Cosmere y ha obtenido acceso a múltiples Artes Investidas. Sus objetivos a largo plazo no están claros, pero se oponen firmemente a los intentos de Odium de convertirse en el único dios del Cosmere. Ha escrito a [[Frost\|Frost]], [[Dotaci%C3%B3n\|Dotación]], [[Autonom%C3%ADa\|Autonomía]] y [[Armon%C3%ADa\|Armonía]], con la esperanza de conseguir su ayuda para enfrentarse a Odium, aunque sólo Armonía ha respondido positivamente. Tiene cierta habilidad para manipular la [[Fortuna\|Fortuna]], lo que le permite saber dónde y cuándo tiene que estar para avanzar en sus objetivos, aunque a menudo no sabe por qué es importante estar en algún lugar.
+Hoid is a mysterious worldhopper who has been alive since before the Shattering of Adonalsium and was present for that event. He has collected a variety of Invested items from around the cosmere and gained access to multiple Invested Arts. His long-term goals are unclear, but he is an adamant opponent of Odium's attempts to become the sole god of the cosmere. He has written to [[Frost\|Frost]], [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]], hoping to enlist their help in dealing with Odium, though only Harmony has responded positively. He has some ability to manipulate [[Fortune\|Fortune]], which lets him learn where and when he needs to be to advance his goals, though he often doesn't know why being somewhere is important.
 
-### Grupos de saltamundos
-#### La Decimoséptima Esquirla
->“*Sin embargo, me parece que todas las cosas han sido establecidas para un propósito, y si nosotros, como niños, trasteamos en el taller, nos arriesgamos a exacerbar un problema, no a impedirlo.*”
-\-Frost a Hoid sobre su política de no-intervención.[303]
-
-
-La [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] es un grupo de saltamundos que busca investigar y estudiar los distintos mundos del Cosmere sin interferir en las culturas existentes. Creen que las Esquirlas se separaron por una razón y quieren minimizar el riesgo de conflicto entre ellas. Es posible que Frost tenga alguna influencia sobre ellos, ya sea formal o informalmente. Están preocupados por Hoid, ya que temen que sus acciones en los planetas exacerben el conflicto de las esquirlas y, desde al menos 1173 hasta 1175 del [[/wiki/Roshar#Calendario]], intentaron sin éxito darle caza, aunque también tienen objetivos más amplios.
-
-#### Luzdeplata
-  <<Khriss\|Khriss>> y su empleado <<Nazh\|Nazh>>
-[[Luzdeplata\|Luzdeplata]] es una ciudad totalmente funcional en el [[Reino Cognitivo\|Reino Cognitivo]] donde se han establecido muchos saltamundos. Sin embargo, su población también incluye a muchas personas que nacen en la ciudad y pasan allí toda su vida, incluyendo un notable grupo de [[Scadriano del sur\|scadrianos del sur]]. La ciudad alberga múltiples universidades, cuyos eruditos poseen un gran conocimiento sobre la naturaleza del Cosmere y realizan expediciones para investigar el funcionamiento inusual de la Investidura con el fin de ampliar ese conocimiento. Al menos una de esas universidades fue fundada por la investigadora [[Khriss\|Khriss]],  la persona con más conocimientos del Cosmere y autora del [[Ars Arcanum\|Ars Arcanum]]. Como resultado de estos esfuerzos y de ser sede de interacciones entre sociedades de todo el Cosmere, Luzdeplata goza de un aprendizaje y un progreso científico sin parangón en el resto del Cosmere. La ciudad también alberga al menos [[Mercantil Luzdeplata\|una empresa mercantil]] cuyos servicios incluyen un servicio postal interplanetario que utiliza estas entidades Investidas desconocidas que leen la [[Conexi%C3%B3n\|Conexión]] para encontrar la localización de los receptores del mensaje.
-
-#### Los Ire
->“*Quizá los Ire sepan más [acerca de la Investidura en Sel], pero se niegan a hablar del tema y han rechazado repetidas veces mis solicitudes de colaboración.*”
-\-Khriss sobre los Ire.[61]
+### Worldhopping Groups
+#### The Seventeenth Shard
+>“*However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem.*”
+\-Frost to Hoid on his non-intervention policy[303]
 
 
-Los [[Ire\|Ire]] son un grupo de [[Elantrino\|elantrinos]] que saltan mundos. Existían antes de la [[Reod\|Reod]] y fueron capaces de superarla, ya que no se encontraban en su mundo cuando ocurrió. Sus objetivos no están claros, aunque intentaron Ascender a uno de sus miembros como Recipiente de Conservación tras la muerte de Leras. En ese momento, estaban al menos asociados con un grupo cuyas fuerzas mantenían a las [[Umbra\|umbras]] de [[Treno\|Treno]] contenidas en su [[Sistema de Treno\|sistema]]. Tienen algún método de almacenamiento y transporte de Investidura, que utilizan para mantenerse y comerciar con otros, como los [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]].
+The [[Seventeenth Shard\|Seventeenth Shard]] is a group of worldhoppers that seeks to research and study the various worlds of the cosmere without interfering in existing cultures. They believe the Shards separated for a reason and want to minimize the risk of conflict between the Shards. Frost may have some influence over them, either formally or informally. They are worried about Hoid, as they fear his actions on planets will exacerbate Shardic conflict and, from at least 1173 to 1175 on the [[/wiki/Roshar#Calendar]], unsuccessfully tried to hunt him down, though they have larger objectives as well.
 
-#### Los Sangre Espectral
-Los [[Sangre Espectral\|Sangre Espectral]] son una sociedad secreta de todo el Cosmere creada por [[Kelsier\|Kelsier]] con el propósito de proteger Scadrial de otras fuerzas de dicho universo.  Para ello, intentan impulsar el progreso tecnológico y establecer alianzas con otros planetas. Han reclutado a varios saltamundos y reclutan activamente a los agentes de campo de la Decimoséptima Esquirla, aunque las dos organizaciones no trabajan juntas. También han reclutado al menos a un [[Insomne\|Insomne]], aunque también les preocupa que estos intenten apoderarse de su organización. Los Sangre Espectral de Roshar están trabajando para encontrar una forma de transportar [[Luz tormentosa\|luz tormentosa]] desde Roshar, donde es fácilmente accesible, a lugares donde la Investidura es más difícil de obtener, aunque los miembros que operan más allá de Scadrial están algo alejados del control directo de Kelsier.
+#### Silverlight
+  <<Khriss\|Khriss>> and her employee <<Nazh\|Nazh>>
+[[Silverlight\|Silverlight]] is a fully-functional city in the [[Cognitive Realm\|Cognitive Realm]] where many worldhoppers have settled down. Its population, however, also includes many people who are born in the city and spend their entire lives there, including a notable group of [[Southern Scadrian\|Southern Scadrians]]. The city is home to multiple universities, whose scholars possess a great deal of knowledge about the nature of the cosmere and will conduct expeditions to investigate unusual workings of Investiture to further that knowledge. At least one of those universities was founded by the researcher [[Khriss\|Khriss]], the most knowledgeable person in the cosmere and author of the [[Ars Arcanum\|Ars Arcana]]. As a result of these efforts and playing host to interactions between societies from across the cosmere, Silverlight enjoys scientific learning and progress that is without parallel in the rest of the cosmere. The city is also home to at least [[Silverlight Mercantile\|one mercantile enterprise]], whose services include an interplanetary postal service that makes use of unknown Invested entities that read [[Connection\|Connection]] to find the location of message recipients.
 
-### Otros saltamundos destacables
-Para una lista completa de saltamundos, ver Categoría:Saltamundos.
-La mayoría, si no todos, de [[Los Cinco Sabios\|los Cinco Sabios]] de Nalthis eran saltamundos y están bien considerados por la comunidad de estudiosos del Cosmere como pioneros del estudio de la Investidura y la Teoría Realmática. Tras aprender de uno de los eruditos,([[Vasher\|Vasher]]), [[Vivenna\|Vivenna]] se convirtió también en saltamundos. [[Felt\|Felt]] estuvo involucrado en el comercio a través de los Pozos de Hathsin y ha estado involucrado también en varios grupos de saltamundos diferentes a lo largo de los años. El [[Drag%C3%B3n (Cosmere)\|dragón]] [[Frost\|Frost]] es un gran conocedor del Cosmere, pero en realidad no es un saltamundos, ya que no ha salido de [[Yolen\|Yolen]]. Los [[Insomne\|Insomnes]] están presentes en varios planetas del Cosmere, aunque la mayoría han elegido establecerse en Roshar siendo estos los únicos capaces de imitar a los humanos. Además, hay varios [[Kandra\|kandra]] de [[Scadrial\|Scadrial]] que se han convertido en saltamundos, aunque fueron liberados de su contrato con Armonía en algún momento tras la incursióin inicial de Autonomía en Scadrial.
+#### The Ire
+>“*Perhaps the Ire know more [about Investiture on Sel], but they are not speaking on the topic and have repeatedly denied my requests for collaboration.*”
+\-Khriss on the Ire[61]
 
-## Desarrollo
->“*Durante la época en la que todavía no tenía obra publicada, escribí trece novelas, en las que solo una de ellas era una secuela… Pero la verdad es que quería escribir grandes historias épicas. Esto es lo que siempre quise hacer: algo como la Rueda del tiempo. Así que empecé a tramar una larga y enorme serie de libros los cuales estuvieran conectados entre ellos, así de esa forma podría crear de “forma sigilosa” una larga serie de novelas, sin que mis editores estuvieran al tanto, les enviaba los libros de una misma serie. Era simplemente algo más para mi, para ayudarme a escribir lo que quería estar escribiendo. Entonces cuando llegó la publicación, continué haciéndolo, y contar la historia detrás de la historia.*”
-\-Brandon sobre los orígenes del Cosmere[334]
 
-Cuando Brandon empezaba a escribir e intentaba que le publicaran, le encantaban las gigantescas series de fantasía épica. Sin embargo, sabía que empezar con una gran serie podría no ser la mejor idea. Si escribía cuatro libros de una serie y el primero no se publicaba, no podría presentar sus secuelas, así que decidió centrarse en historias independientes. Sin embargo, le seguía gustando la idea de una gran serie épica, así que decidió crear una epopeya "oculta" para enlazar sus novelas. Brandon había visto a otros autores que creaban un único universo para todos sus libros, como Isaac Asimov, pero no le gustaba cómo Asimov tenía que utilizar la continuidad retroactiva y meter cosas con calzador para conectar sus libros, y por eso quería construir el Cosmere desde el principio, para que fuera siempre coherente.
-Algunas ideas que entraron en la construcción del mundo del Cosmere proceden de la teoría de las formas de Platón, que contribuyó al desarrollo de la [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]. En ella es importante la distinción entre lo que se percibe como "ideal" y lo que es el verdadero ideal: los verdaderos ideales tienen mucho que ver con el Reino Espiritual, mientras que la percepción de los ideales por parte de la gente tiene que ver con el Reino Cognitivo. Otra influencia es Spinoza, con la idea de que Dios está en todo. Brandon también incorporó la idea de una "teoría unificadora del todo" de la física a la magia en el Cosmere. Todas las magias tienen reglas subyacentes, y se derivan de una única teoría unificada de la magia.
+The [[Ire\|Ire]] is a group of worldhopping [[Elantrian\|Elantrians]]. They existed prior to the [[Reod\|Reod]] and were able to weather it, though they were off-world when it occurred. Their objectives are unclear, though they did attempt to Ascend one of their members as the Vessel of Preservation after Leras died. At that time, they were at least associated with a group whose forces were keeping the [[Shade\|Shades]] of [[Threnody\|Threnody]] contained in the [[Threnodite system\|Threnodite system]]. They have some method of storing and transporting Investiture, which they use to sustain themselves and trade with others, such as the [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]].
 
->“*Espero que la gente permanezca conmigo para todos estos libros, porque voy a escribir muchos. Pero todos encajarán los unos con los otros de maneras geniales una vez estén todos hechos. Creo que estaréis muy, muy impresionados, pero para eso todavía queda.*”
-\-Brandon sobre el Cosmere.[338]
+#### The Ghostbloods
+The [[Ghostbloods\|Ghostbloods]] is a cosmere-wide secret society created by [[Kelsier\|Kelsier]] for the purpose of protecting Scadrial from other forces in the cosmere. To that end, they seek to push technological progress forward and build alliances with other planets. They have recruited several worldhoppers and actively recruit from the Seventeenth Shard's field agents, though the two organizations do not work together. They have also recruited at least one [[Sleepless\|Sleepless]], though they are also worried about the Sleepless trying to take over their organization. The Ghostbloods on Roshar are working on finding a way to transport [[Stormlight\|Stormlight]] from Roshar, where it is easily accessible, to places where Investiture is harder to obtain, though members operating beyond Scadrial are somewhat removed from Kelsier's direct control.
 
-La continuidad del Cosmere tiene una historia clara que Brandon quiere contar y que está firmemente perfilada en 35 novelas, más una gama de novellas y otras obras, con la serie *[[Dragonsteel (saga)\|Dragonsteel]]*, [[Nacidos de la bruma (saga)\|Nacidos de la bruma]], y *[[El archivo de las tormentas\|El archivo de las tormentas]]* formando el núcleo de esa historia. *Dragonsteel* contará la historia de fondo de [[Hoid\|Hoid]] y la historia de la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]; *Nacidos de la bruma* tendrá cuatro sagas, siguiendo a [[Scadrial\|Scadrial]] desde el [[Imperio Final\|Imperio Final]] hasta el desarrollo de los viajes más rápidos que la velocidad de la luz y la interacción entre los distintos planetas; *El archivo de las tormentas* estará dividido en dos arcos de cinco libros cada uno y es la historia del enfrentamiento entre el pueblo de [[Roshar\|Roshar]] y [[Odium\|Odium]]. En general, el conocimiento del Cosmere en su conjunto no será necesario hasta *Dragonsteel* y la trilogía final de *Nacidos de la bruma*, que son el inicio y la conclusión, respectivamente, de la sucesión del Cosmere.
-Brandon no siente que el Cosmere sea restrictivo para su escritura. Aunque las novelas del Cosmere son intensivas, ya que requieren una planificación más exhaustiva y el mantenimiento de la continuidad, Brandon también cuenta con una wiki interna y con personas como [[Peter Ahlstrom\|Peter]] y Karen Ahlstrom que le ayudan a mantener el Cosmere en marcha. Cuando Brandon siente que necesita un descanso de los requisitos más estrictos del Cosmere, se pone a trabajar en una novela o una novela corta menos intensiva, que casi siempre no son del Cosmere. Si hay un concepto que realmente quiere escribir pero que no encaja en las limitaciones del Cosmere, lo traslada a un libro no Cosmere. Por ejemplo, *[[El rithmatista\|El rithmatista]]* comenzó como una novela del Cosmere, y sus magias toman muchos elementos de las magias de ahí, pero Brandon decidió que no quería una versión de la Tierra en el Cosmere, y la trasladó a su propio universo.
-Brandon suele planificar qué pistas del Cosmere va a dar a los fans, pero a veces da pistas sobre la marcha. Por lo general, los fans son capaces de husmear mucho más de lo que inicialmente pretendía contar.
+### Other Notable Worldhoppers
+For a complete list of worldhoppers, see Category:Worldhoppers.
+Most, if not all, of the [[Five Scholars\|Five Scholars]] of Nalthis were worldhoppers and are well-regarded by the cosmere-aware scholarly community as pioneers of the study of Investiture and Realmatic Theory. After learning from one of the Scholars, [[Vasher\|Vasher]], [[Vivenna\|Vivenna]] became a worldhopper as well. [[Felt\|Felt]] was involved in trade through the Pits of Hathsin and has been involved in several different worldhopping groups over the years. The [[Dragon (cosmere)\|dragon]] [[Frost\|Frost]] is extremely knowledgeable about the cosmere, but is not actually a worldhopper, as he has not left [[Yolen\|Yolen]]. The [[Sleepless\|Sleepless]] are present on several planets across the cosmere, though most have chosen to settle on Roshar and only the Rosharan ones are capable of imitating humans. Additionally, there are several [[Kandra\|kandra]] from [[Scadrial\|Scadrial]] who have become worldhoppers, though they were released from their contract with Harmony sometime after Autonomy's initial incursion on Scadrial.
 
-## Bibliografía del Cosmere
-|**Trabajos publicados del Cosmere**|
+## Development
+>“*During my unpublished days I wrote thirteen books, only one of which was a sequel. ... But I wanted to be writing big epics. This is what I always wanted to do; something like the Wheel of Time. So I began plotting a large, massive series where all these books were connected, so I could kind of "stealth" have a large series without the editors knowing I was sending them books from the same series. It was mostly just a thing for me, to help me do the writing I wanted to be doing. And then when publication came I continued to do that, and told the story behind the story.*”
+\-Brandon on the beginnings of the cosmere[334]
+
+When Brandon was beginning to write and trying to get published, he loved gigantic epic fantasy series. He knew, however, that starting with a big series might not be the best idea. If he wrote four books in a series, and the first one didn't get published, he couldn't submit his sequels, so he decided instead to focus on standalone stories. However, he still loved the idea of a huge epic series, so he decided to create a "hidden" epic to link his novels together. Brandon had seen other authors who made a single universe for all their books, like Isaac Asimov, but didn't like how Asimov had to retcon and shoehorn things together to connect his books, and so wanted to build the cosmere from the beginning, so it would always be consistent.
+Some ideas that came into the worldbuilding of the cosmere came from Plato's theory of forms, which contributed to the development of [[Realmatic Theory\|Realmatic Theory]]. In this, the distinction of what is perceived as "ideal" and what is the true ideal is important: true ideals have much to do with the Spiritual Realm, while people's perception of ideals deals with the Cognitive Realm. Another influence is Spinoza, with the idea that God is in everything. Brandon also incorporated the idea of a "unifying theory of everything" from physics into the magic in the cosmere. All magics have underlying rules, and are derived from a single unified theory of magic.
+
+>“*I hope that people will stick with me for all these books, because I'll do a lot of them. But they will fit together in some really cool ways once they are all done. I think you'll be very very impressed, but that's a while off.*”
+\-Brandon on the cosmere[338]
+
+The cosmere sequence has a clear story that Brandon wants to tell and is fairly firmly outlined as 35 novels, plus a variety of novellas and other works, with the [[Dragonsteel (series)\|Dragonsteel series]], [[Mistborn (series)\|Mistborn series]], and [[The Stormlight Archive\|The Stormlight Archive]] forming the core of that story. *Dragonsteel* will tell [[Hoid\|Hoid's]] backstory and the story of the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; *Mistborn* will have four series, following [[Scadrial\|Scadrial]] from the [[Final Empire\|Final Empire]] to the development of faster-than-light travel and the interaction between the various planets; The Stormlight Archive will be split into two arcs of five books each and is the story of the clash between the people of [[Roshar\|Roshar]] and [[Odium\|Odium]]. Generally, knowledge of the cosmere as a whole will not be necessary until *Dragonsteel* and the final *Mistborn* trilogy, which are the beginning and the conclusion respectively of the cosmere sequence
+Brandon does not feel that the cosmere is restrictive to his writing. Though cosmere novels are intensive, as they require more thorough planning and continuity maintenance, Brandon also has an internal wiki and people like [[Peter Ahlstrom\|Peter]] and Karen Ahlstrom who help him keep the cosmere on track. When Brandon feels like he needs a break from the more stringent requirements of the cosmere, he'll turn to work on a less intensive novel or novella, which are almost always non-cosmere. If there is a concept he really wants to write but doesn't fit in the limitations of the cosmere, he moves it into a non-cosmere book. For example, *[[The Rithmatist\|The Rithmatist]]* started as a cosmere novel, and its magics take many elements from cosmere magics, but Brandon decided that he did not want a version of Earth in the cosmere, and so moved it to its own universe.
+Brandon does generally plan out which cosmere hints to give to fans, but sometimes he gives hints on the fly. Usually, fans are able to pry much more than he initially intended to tell.
+
+## Bibliography of the Cosmere
+|**Published Works of the Cosmere**|
 |-|-|
-|**Año de publicación**|**Título**|**Saga**|**Planeta**|**Extensión**|
-|**2005**|*[[Elantris (libro)\|Elantris]]*|[[Trilog%C3%ADa de Elantris\|Trilogía de Elantris]] #1|[[Sel\|Sel]]|Novela|
-|**2006**|*[[La esperanza de Elantris\|La esperanza de Elantris]]*|[[Trilog%C3%ADa de Elantris\|Trilogía de Elantris]] #1.5|[[Sel\|Sel]]|Historia corta|
-|*[[El Imperio Final (libro)\|El Imperio Final]]*|[[/wiki/Nacidos de la bruma (saga)#Era 1]] #1|[[Scadrial\|Scadrial]]|Novela|
-|**2007**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|[[/wiki/Nacidos de la bruma (saga)#Era 1]] #2|[[Scadrial\|Scadrial]]|Novela|
-|**2008**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|[[/wiki/Nacidos de la bruma (saga)#Era 1]] #3|[[Scadrial\|Scadrial]]|Novela|
-|**2009**|*[[El aliento de los dioses\|El aliento de los dioses]]*|Novela independiente|[[Nalthis\|Nalthis]]|Novela|
-|**2010**|*[[El camino de los reyes\|El camino de los reyes]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #1|[[Roshar\|Roshar]]|Novela|
-|**2011**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|[[/wiki/Nacidos de la bruma (saga)#Era 2]] #1|[[Scadrial\|Scadrial]]|Novela|
-|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|[[/wiki/Nacidos de la bruma (saga)#Era 1]] #0.5|[[Scadrial\|Scadrial]]|Historia corta|
-|**2012**|*[[El alma del emperador\|El alma del emperador]]*|Novela independiente|[[Sel\|Sel]]|Novella|
-|**2013**|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*|Novela independiente|[[Treno\|Treno]]|Novella|
-|**2014**|*[[Palabras radiantes\|Palabras radiantes]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #2|[[Roshar\|Roshar]]|Novela|
-|*[[Sexto del Ocaso\|Sexto del Ocaso]]*|Novela independiente|[[Primero del Sol\|Primero del Sol]]|Novella|
-|*[[Alomante Jak y los Pozos de Eltania\|Alomante Jak y los Pozos de Eltania]]*|[[/wiki/Nacidos de la bruma (saga)#Era 2]] #1.5|[[Scadrial\|Scadrial]]|Historia corta|
-|**2015**|*[[Sombras de identidad\|Sombras de identidad]]*|[[/wiki/Nacidos de la bruma (saga)#Era 2]] #2|[[Scadrial\|Scadrial]]|Novela|
-|**2016**|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|[[/wiki/Nacidos de la bruma (saga)#Era 2]] #3|[[Scadrial\|Scadrial]]|Novela|
-|*Nacidos de la bruma: historia secreta*|[[/wiki/Nacidos de la bruma (saga)#Era 1]] #3.5|[[Scadrial\|Scadrial]]|Novella|
-|*[[Arena Blanca\|Arena Blanca Volumen 1]]*|*[[Arena Blanca\|Arena Blanca]]* #1|[[Taldain\|Taldain]]|Novela gráfica|
-|*[[Danzante del Filo (novella)\|Danzante del Filo]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #2.5|[[Roshar\|Roshar]]|Novella|
-|*[[Arcanum ilimitado\|Arcanum ilimitado]]*|Antología|*|*|
-|**2017**|*[[Juramentada\|Juramentada]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #3|[[Roshar\|Roshar]]|Novela|
-|**2018**|*[[Arena Blanca\|Arena Blanca Volumen 2]]*|*[[Arena Blanca\|Arena Blanca]]* #2|[[Taldain\|Taldain]]|Novela gráfica|
-|**2019**|*[[Arena Blanca\|Arena Blanca Volumen 3]]*|*[[Arena Blanca\|Arena Blanca]]* #3|[[Taldain\|Taldain]]|Novela gráfica|
-|**2020**|*[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #3.5|[[Roshar\|Roshar]]|Novella|
-|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|*[[El archivo de las tormentas\|El archivo de las tormentas]]* #4|[[Roshar\|Roshar]]|Novela|
-|**2022**|*[[El metal perdido\|El metal perdido]]*|[[/wiki/Nacidos de la bruma (saga)#Era 2]] #4|[[Scadrial\|Scadrial]]|Novela|
-|*[[Arena Blanca\|Omnibús Arena Blanca]]*|Antología|[[Taldain\|Taldain]]|Novela gráfica|
-|**2023**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|Novela independiente|[[Lumar\|Lumar]]|Novela|
-|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|Novela independiente|[[Komashi\|Komashi]]|Novela|
-|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|Novela independiente|[[C%C3%A1ntico\|Cántico]]|
+|**Publication Year**|**Title**|**Series**|**Planet**|**Length**|
+|**2005**|*[[Elantris (book)\|Elantris]]*|[[Elantris trilogy\|Elantris trilogy]] #1|[[Sel\|Sel]]|Novel|
+|**2006**|*[[The Hope of Elantris\|The Hope of Elantris]]*|[[Elantris trilogy\|Elantris trilogy]] #1.5|[[Sel\|Sel]]|Short Story|
+|*Mistborn: The Final Empire*|[[/wiki/Mistborn (series)#Era 1]] #1|[[Scadrial\|Scadrial]]|Novel|
+|**2007**|*[[The Well of Ascension\|The Well of Ascension]]*|[[/wiki/Mistborn (series)#Era 1]] #2|[[Scadrial\|Scadrial]]|Novel|
+|**2008**|*[[The Hero of Ages\|The Hero of Ages]]*|[[/wiki/Mistborn (series)#Era 1]] #3|[[Scadrial\|Scadrial]]|Novel|
+|**2009**|*[[Warbreaker\|Warbreaker]]*|Standalone Novel|[[Nalthis\|Nalthis]]|Novel|
+|**2010**|*[[The Way of Kings\|The Way of Kings]]*|[[The Stormlight Archive\|The Stormlight Archive]] #1|[[Roshar\|Roshar]]|Novel|
+|**2011**|*[[The Alloy of Law\|The Alloy of Law]]*|[[/wiki/Mistborn (series)#Era 2]] #1|[[Scadrial\|Scadrial]]|Novel|
+|*[[The Eleventh Metal\|The Eleventh Metal]]*|[[/wiki/Mistborn (series)#Era 1]] #0.5|[[Scadrial\|Scadrial]]|Short Story|
+|**2012**|*[[The Emperor's Soul\|The Emperor's Soul]]*|Standalone Novella|[[Sel\|Sel]]|Novella|
+|**2013**|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*|Standalone Novella|[[Threnody\|Threnody]]|Novella|
+|**2014**|*[[Words of Radiance\|Words of Radiance]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2|[[Roshar\|Roshar]]|Novel|
+|*[[Sixth of the Dusk\|Sixth of the Dusk]]*|Standalone Novella|[[First of the Sun\|First of the Sun]]|Novella|
+|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|[[/wiki/Mistborn (series)#Era 2]] #1.5|[[Scadrial\|Scadrial]]|Short Story|
+|**2015**|*[[Shadows of Self\|Shadows of Self]]*|[[/wiki/Mistborn (series)#Era 2]] #2|[[Scadrial\|Scadrial]]|Novel|
+|**2016**|*[[The Bands of Mourning\|The Bands of Mourning]]*|[[/wiki/Mistborn (series)#Era 2]] #3|[[Scadrial\|Scadrial]]|Novel|
+|*Mistborn: Secret History*|[[/wiki/Mistborn (series)#Era 1]] #3.5|[[Scadrial\|Scadrial]]|Novella|
+|*[[White Sand\|White Sand Volume 1]]*|*[[White Sand\|White Sand]]* #1|[[Taldain\|Taldain]]|Graphic Novel|
+|*[[Edgedancer (novella)\|Edgedancer]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.5|[[Roshar\|Roshar]]|Novella|
+|*[[Arcanum Unbounded\|Arcanum Unbounded]]*|Anthology|||
+|**2017**|*[[Oathbringer\|Oathbringer]]*|[[The Stormlight Archive\|The Stormlight Archive]] #3|[[Roshar\|Roshar]]|Novel|
+|**2018**|*[[White Sand\|White Sand Volume 2]]*|*[[White Sand\|White Sand]]* #2|[[Taldain\|Taldain]]|Graphic Novel|
+|**2019**|*[[White Sand\|White Sand Volume 3]]*|*[[White Sand\|White Sand]]* #3|[[Taldain\|Taldain]]|Graphic Novel|
+|**2020**|*[[Dawnshard (novella)\|Dawnshard]]*|[[The Stormlight Archive\|The Stormlight Archive]] #3.5|[[Roshar\|Roshar]]|Novella|
+|*[[Rhythm of War\|Rhythm of War]]*|[[The Stormlight Archive\|The Stormlight Archive]] #4|[[Roshar\|Roshar]]|Novel|
+|**2022**|*[[The Lost Metal\|The Lost Metal]]*|[[/wiki/Mistborn (series)#Era 2]] #4|[[Scadrial\|Scadrial]]|Novel|
+|*[[White Sand\|White Sand omnibus]]*|Anthology|[[Taldain\|Taldain]]|Graphic Novel|
+|**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|Standalone Novel|[[Lumar\|Lumar]]|Novel|
+|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|Standalone Novel|[[Komashi\|Komashi]]|Novel|
+|*[[The Sunlit Man\|The Sunlit Man]]*|Standalone Novel|[[Canticle\|Canticle]]|Novel|
 
-### Próximamente
-Para una lista completa de posibles historias futuras que ha mencionado Brandon, ver [[Obras sin publicar\|obras sin publicar]].
-Las siguientes son las próximas historias confirmadas del Cosmere:
+### Forthcoming
+For a complete list of possible future stories Brandon has mentioned, see [[Unpublished works\|Unpublished works]].
+The following are confirmed upcoming cosmere stories:
 
-*[[Wind and Truth\|Wind and Truth]]*, el último libro del primer arco de *[[El archivo de las tormentas\|El archivo de las tormentas]]*.Empezó a ser escrito a finales de 2021 o principios de 2022, pero se ha retrasado por otros proyectos intermedios y se espera que sea publicado en 2024.
-*[[Isles of the Emberdark\|Isles of the Emberdark]]*, una novela ambientada en el futuro lejano Cosmere anunciada como Proyecto Secreto junto a la campaña de Backerkit para la encuadernación en piel de *[[Palabras radiantes\|Palabras radiantes]]*. Su publicación está prevista para 2025.
-[[/wiki/Nacidos de la bruma (saga)#Era 3]], la siguiente serie de *Nacidos de la bruma*, ambientada cuando Scadrial ha alcanzado un nivel tecnológico similar al de los años 80. Planeada para ser escrita en el descanso entre los libros 5 y 6 de *El archivo de las tormentas*. Brandon espera escribir los tres libros antes de que salga el primero, como hizo con Era 1.
-[[Secuela de Elantris\|Elantris 2]] y [[Final de Elantris\|Elantris 3]], las secuelas de *[[Elantris (libro)\|Elantris]]*. Se espera que se escriba después de que *El archivo de las tormentas* libro 5 y *Nacidos de la bruma* Era 2 estén hechos. "En un mundo perfecto", Brandon los escribiría más o menos al mismo tiempo que escribe *Nacidos de la bruma* Era 3, pero puede que lleguen más tarde que eso.
-*Horneater* (Comecuernos),  el título provisional de una novela de *El archivo de las tormentas* que sigue a [[Lunamor\|Lunamor]], que posiblemente se escribirá para el Kickstarter de *Palabras Radiantes* en 2023.
-El segundo arco de *[[El archivo de las tormentas\|El archivo de las tormentas]]*, que comprenderá los libros seis a diez de la serie en su conjunto. En el mundo, el libro seis continuará aproximadamente una década después de que termine el libro cinco. Está previsto que se escriba después de la Era 3 de *Nacidos de la bruma* y posiblemente también de las secuelas de *Elantris*.
-*[[Nightblood (libro)\|Nightblood]]*, la secuela de *[[El aliento de los dioses\|El aliento de los dioses]]*. Probablemente no se escriba hasta que se escriba el libro 5 de *El archivo de las tormentas*, las secuelas de *Elantris* y la Era 3 de *Nacidos de la bruma*.
-La saga *[[Dragonsteel (saga)\|Dragonsteel]]*, la historia del origen de [[Hoid\|Hoid]] y la [[Fragmentaci%C3%B3n\|Fragmentación]] de [[Adonalsium\|Adonalsium]]. Brandon está trabajando en ella, pero la saga no se escribirá hasta que *El archivo de las tormentas* esté terminada.
-[[/wiki/Nacidos de la bruma (saga)#Era 4]], la trilogía de ciencia ficción, con [[Hoid\|Hoid]] como personaje principal. Cronológicamente, esta será la última serie de la secuencia del Cosmere, y tiene mucho que ver con la unión de los mundos.
-### Orden cronológico
-Brandon ha sido algo evasivo en cuanto al orden de las historias del Cosmere, para que la línea temporal siga siendo flexible para los futuros libros que escriba. Ha calculado que hay unos 6000 años entre la Fragmentación y la ruptura del [[Juramento\|Juramento]], siendo este último acontecimiento anterior a *Arena Blanca*. Aunque esta cifra no es canónica y está sujeta a cambios, Brandon también ha declarado que los libros se han publicado en su mayoría de forma cronológica, lo que permite construir una línea temporal aproximada:
+*[[Wind and Truth\|Wind and Truth]]*, the fifth and last book of the first arc of [[The Stormlight Archive\|The Stormlight Archive]], scheduled for release on December 6, 2024.
+*[[Isles of the Emberdark\|Isles of the Emberdark]]*, a novel set in the far future Cosmere announced as a Secret Project alongside the Backerkit campaign for the *[[Words of Radiance\|Words of Radiance]]* leatherbound. It is scheduled to be released in 2025.
+[[/wiki/Mistborn (series)#Era 3]], the next Mistborn series, set to take place when Scadrial has achieved a technology level similar to that of the 1980s. Planned to be written in the break between books 5 and 6 of The Stormlight Archive. Brandon hopes to write all three books before the first one is released, like he did with Era 1.
+[[Elantris sequel\|Elantris 2]] and [[Elantris finale\|Elantris 3]], the sequels to *[[Elantris (book)\|Elantris]]*. Expected to be written after The Stormlight Archive book 5 and *Mistborn* Era 2 are done. "In a perfect world," Brandon would write them around the same time he writes *Mistborn* Era 3, but they may come later than that.
+*Horneater*, the working title of a Stormlight novella following [[Lunamor\|Lunamor]]. It is currently planned to be written between *Wind and Truth* and *[[Stormlight 6\|Stormlight 6]]*.
+The second arc of [[The Stormlight Archive\|The Stormlight Archive]], which will consist of books six through ten of the series overall. In-world, book six will pick up about a decade after book five ends. Planned to be written after *Mistborn* Era 3 and possibly also the *Elantris* sequels are done.
+*[[Nightblood (book)\|Nightblood]]*, the sequel to *[[Warbreaker\|Warbreaker]]*. Likely won't be written until The Stormlight Archive book 5, the *Elantris* sequels, and *Mistborn* Era 3 are written.
+The [[Dragonsteel (series)\|Dragonsteel series]], the origin story of [[Hoid\|Hoid]] and the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]]. Brandon is loosely working on it, but the series will not be written until The Stormlight Archive is finished.
+[[/wiki/Mistborn (series)#Era 4]], the science fiction trilogy, with [[Hoid\|Hoid]] as a main character. Chronologically, this will be the last series in the cosmere sequence, and has much to do with the worlds coming together.
+### Chronological Order
+Brandon has been somewhat evasive about the order of cosmere stories, so that the timeline remains flexible for future books that he writes. He has estimated that there are roughly 6000 years between the Shattering and the breaking of the [[Oathpact\|Oathpact]], with the latter event still predating *White Sand*. Although this figure is non-canonical and subject to change, Brandon has also stated that the books have mostly been released chronologically, which allows a rough timeline to be constructed:
 
-Saga *[[Dragonsteel (saga)\|Dragonsteel]]*
-*[[Arena Blanca\|Arena Blanca]]*
-[[Trilog%C3%ADa de Elantris\|Trilogía de Elantris]] y *[[La esperanza de Elantris\|La esperanza de Elantris]]*
-*[[El alma del emperador\|El alma del emperador]]*
-[[Nacidos de la bruma Era 1\|Nacidos de la bruma Era 1]]
-*[[El aliento de los dioses\|El aliento de los dioses]]* y *[[Nightblood (libro)\|Nightblood]]*
-*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*
-Ensayos sobre los sistemas planetarios del *[[Arcanum ilimitado\|Arcanum ilimitado]]*
-*[[El archivo de las tormentas\|El archivo de las tormentas]]* (libros del 1 al 5)
-[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]
-*[[El archivo de las tormentas\|El archivo de las tormentas]]* (libros del 6 al 10)
-[[Nacidos de la bruma Era 3\|Nacidos de la bruma Era 3]]
-*[[Sexto del Ocaso\|Sexto del Ocaso]]*
-[[Nacidos de la bruma Era 4\|Nacidos de la bruma Era 4]]
-## Siguiente lectura
+[[Dragonsteel (series)\|Dragonsteel series]]
+*[[White Sand\|White Sand]]*
+[[Elantris trilogy\|Elantris trilogy]] and *[[The Hope of Elantris\|The Hope of Elantris]]*
+*[[The Emperor's Soul\|The Emperor's Soul]]*
+[[Mistborn Era 1\|Mistborn Era 1]]
+*[[Warbreaker\|Warbreaker]]* and *[[Nightblood (book)\|Nightblood]]*
+*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*
+*[[The Stormlight Archive\|The Stormlight Archive]]* (books 1 through 5)
+[[Mistborn Era 2\|Mistborn Era 2]]
+*[[The Stormlight Archive\|The Stormlight Archive]]* (books 6 through 10)
+[[Mistborn Era 3\|Mistborn Era 3]]
+*[[Sixth of the Dusk\|Sixth of the Dusk]]*
+*[[The Sunlit Man\|The Sunlit Man]]*
+*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*
+[[Mistborn Era 4\|Mistborn Era 4]]
+## Further Reading
 
-[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]
-[[Investidura\|Investidura]]
+[[Realmatic Theory\|Realmatic Theory]]
+[[Investiture\|Investiture]]
 [[Adonalsium\|Adonalsium]]
-[[Esquirla\|Esquirla]]
-[[Perpendicularidad\|Perpendicularidad]]
+[[Shard\|Shard]]
+[[Perpendicularity\|Perpendicularity]]
 [[Hoid\|Hoid]]
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-Este artículo estaba completo y revisado , pero tras la publicación de *[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer (novella)]]*, ahora necesita volver a revisarse.
-|**El **|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
-
- 
 
 
-
-https://es.coppermind.net/wiki/Worldhopper
+https://coppermind.net/wiki/Worldhopper

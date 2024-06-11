@@ -1,72 +1,53 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 
 
-|***Placer del Viento***|
+|***Wind's Pleasure***|
 |-|-|
 ||
-|**Tipo**|Barco|
-|**Capitán**|[[Tozbek\|Tozbek]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Ship|
+|**Captain**|[[Tozbek\|Tozbek]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El ***Placer del Viento*** es un barco de [[Roshar\|Roshar]] capitaneado por [[Tozbek\|Tozbek]].
-Es un buque de carga estrecho de un solo mástil, con una tripulación de 8 personas y al menos 2 camarotes. El camarote del capitán tiene un pestillo defectuoso en la puerta.
+The ***Wind's Pleasure*** is a ship on [[Roshar\|Roshar]] captained by [[Tozbek\|Tozbek]].
+It is a narrow, single-masted cargo vessel with an 8-person crew and at least three cabins. The captain's cabin has a faulty latch on the door.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Alquilado por Shallan]] 
-1. [[#Viaje final]] 
-
-
-2 Legado. [[#Legado]] 
-3 Tripulación. [[#Tripulaci.C3.B3n]] 
-4 Notas. [[#Notas]] 
+1. [[#Chartered by Shallan]] 
+1. [[#Final Voyage]] 
 
 
-## Historia
-  El *Placer del Viento* llegando a <<Kharbranth\|Kharbranth>>
-### Alquilado por Shallan
-El *Placer del Viento* fue alquilado originalmente por [[Shallan Davar\|Shallan Davar]] en 1173 para que la llevara a [[Dumadari\|Dumadari]] a reunirse con [[Jasnah Kholin\|Jasnah Kholin]]. El capitán Tozbek señaló que estaba en deuda con la [[Casa Davar\|casa Davar]] y que se alegraba de tener a Shallan a bordo. Al comprobar que Jasnah ya no estaba en Dumadari, Shallan pidió a Tozbek que continuara hasta la siguiente ciudad. Este patrón se repitió a medida que Jasnah avanzaba por la costa investigando. Cuando el *Placer del Viento* finalmente alcanzó a Jasnah en [[Kharbranth\|Kharbranth]] y Shallan fue tomada como pupila de Jasnah, el capitán Tozbek siguió adelante, comerciando en otros puertos. Más tarde, Shallan envió una nota a Tozbek preguntando por su paradero, lo que él tomó como una petición para que la recogiera y la llevara de vuelta a [[Jah Keved\|Jah Keved]]. Shallan también actuó como escriba para Tozbek para compensar el coste de sus viajes.
+2 Legacy. [[#Legacy]] 
+3 Crew. [[#Crew]] 
+4 Notes. [[#Notes]] 
 
-### Viaje final
-Más tarde, Jasnah contrató el *Placer del Viento* para que las llevara a ella y a Shallan por la costa hacia las [[Llanuras Quebradas\|Llanuras Quebradas]]. Jasnah pagó por el uso de un camarote para Shallan y otro para ella, que se quedó con el camarote del capitán. En [[Amydlatn\|Amydlatn]], el *Placer del Viento* contrató a un [[Novato\|nuevo miembro]] para la tripulación. Mientras viajaba por la costa, el *Placer del Viento* se encontró con un animal excepcionalmente raro llamado [[Santhid\|santhid]], que Shallan deseaba desesperadamente retratar. Se ató una cuerda y se lanzó por la borda para ver a la criatura bajo el agua, produciendo más tarde el primer dibujo conocido de un santhid.
 
-  <<Shallan Davar\|Shallan Davar>> a bordo del *Placer del Viento*
-Poco antes de llegar a las [[Criptas Huecas\|Criptas Huecas]], el nuevo miembro de la tripulación ayudó en una toma armada del *Placer del Viento*. Los atacantes pretendían asesinar a [[Jasnah Kholin\|Jasnah Kholin]] y hacerse con su investigación; Jasnah dedujo correctamente que los [[Sangre Espectral\|Sangre Espectral]] estaban detrás de este complot. Shallan se escondió durante el asalto y utilizó inconscientemente sus habilidades de [[/wiki/Potenciaci%C3%B3n#Iluminaci.C3.B3n]] para no ser detectada. Con la ayuda de [[Patr%C3%B3n\|Patrón]], entró en [[Shadesmar\|Shadesmar]] y vio que la tripulación estaba siendo ejecutada uno a uno. Utilizando su habilidad latente de [[Moldear almas\|moldear almas]], convenció al *Placer del Viento* de que cambiara para que la tripulación tuviera una oportunidad de sobrevivir. El *Placer del Viento* se transformó en una nueva forma, arrojando a todos a bordo al agua. Shallan despertó en el [[Reino F%C3%ADsico\|Reino Físico]] y creyó que el santhid la había salvado; ni ella ni Patrón sabían qué había sido de los restantes miembros de la tripulación ni de los atacantes.
-[[Yalb\|Yalb]] y otros dos marineros desconocidos que sobrevivieron al hundimiento del *Placer del Viento* tuvieron dificultades para encontrar trabajo debido a los rumores sobre la misteriosa desaparición de su barco. Algunos marineros creían que el navío había sido un barco fantasma durante años, y que esa era la razón por la que acabó desapareciendo sin dejar rastro. Debido a los rumores, nadie estaba dispuesto a contratar a los tres supervivientes juntos, y cada uno siguió su camino para servir en diferentes barcos.
+## History
+  The *Wind's Pleasure* arriving in <<Kharbranth\|Kharbranth>>
+### Chartered by Shallan
+The *Wind's Pleasure* was chartered by [[Shallan Davar\|Shallan Davar]] in 1173 to take her to [[Dumadari\|Dumadari]] to meet [[Jasnah Kholin\|Jasnah Kholin]]. Captain Tozbek noted that he was indebted to [[House Davar\|House Davar]] and was happy to have Shallan on board. Upon finding that Jasnah was no longer in Dumadari, Shallan asked Tozbek to continue on to the next city. This pattern repeated as Jasnah moved along the coastline doing research. When the *Wind's Pleasure* finally caught up to Jasnah in [[Kharbranth\|Kharbranth]] and Shallan was taken as Jasnah's ward, Captain Tozbek continued on, trading in other ports. Shallan later sent a note to Tozbek inquiring as to his whereabouts, which he took as a request to pick her up and take her back to [[Jah Keved\|Jah Keved]]. Shallan also acted as a scribe for Tozbek to offset the cost of her travels.
 
-## Legado
-Más tarde, Shallan se enteró de que [[Tyn\|Tyn]] había sido la autora del ataque al barco al servicio de [[Mraize\|Mraize]] y los Sangre Espectral.
-Shallan y Jasnah perdieron sus [[Vinculaca%C3%B1as\|vinculacañas]] en el hundimiento del *Placer del Viento*, lo que limitó su capacidad de comunicación; Jasnah consideró la pérdida un importante revés para su investigación. Cuando Jasnah y Shallan se reencontraron por fin en [[Urithiru\|Urithiru]], Jasnah se disculpó inmediatamente por los sucesos en el *Placer del Viento*, que atribuyó a su propia falta de previsión respecto al ataque de los Sangre Espectral.
-Shallan se encariñó con Yalb, que a menudo coqueteaba con ella. Pensaba en él cuando se enfadaba por la muerte que parecía perseguirla a pesar de sus buenas intenciones, y fue una de las primeras figuras que surgieron cuando Shallan utilizó el tejido de luz para crear un ejército durante la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. Es posible que no sepa que Yalb sobrevivió al naufragio.
+### Final Voyage
+Jasnah later chartered the *Wind's Pleasure* to take her and Shallan down the coast towards the [[Shattered Plains\|Shattered Plains]]. Jasnah paid for the use of one cabin for Shallan and one for herself; Jasnah took the Captain's cabin. At [[Amydlatn\|Amydlatn]], the *Wind's Pleasure* took on a [[New kid\|new crew member]]. While traveling down the coast, the *Wind's Pleasure* was paced by an exceptionally rare animal called a [[Santhid\|santhid]], which Shallan desperately wanted to sketch. She tied a rope around herself and went overboard in order to see the creature underwater, later producing the first known drawing of a santhid.
 
-## Tripulación
-[[Tozbek\|Tozbek]] (capitán)
-[[Ashlv\|Ashlv]] (esposa de Tozbek)
+  <<Shallan Davar\|Shallan Davar>> aboard the *Wind's Pleasure*
+Shortly before reaching the [[Shallow Crypts\|Shallow Crypts]], the new member of the crew assisted in an armed takeover of the *Wind's Pleasure*. The attackers sought to murder [[Jasnah Kholin\|Jasnah Kholin]] and retrieve her research; Jasnah correctly deduced that the [[Ghostbloods\|Ghostbloods]] were behind this plot. Shallan hid during the assault and unconsciously used her [[/wiki/Surgebinding#Illumination]] abilities to escape detection. With [[Pattern\|Pattern's]] assistance, she then entered [[Shadesmar\|Shadesmar]] and saw that the crew was being methodically executed. Using her latent [[Soulcasting\|Soulcasting]] ability, she convinced the *Wind's Pleasure* to change so that the crew might have a chance to survive. The *Wind's Pleasure* changed into a new form, dropping everyone aboard into the water. Shallan woke up in the [[Physical Realm\|Physical Realm]] and believed that the santhid had saved her; neither she nor Pattern knew the fate of the remaining crew members and attackers.
+[[Yalb\|Yalb]] and two other unknown sailors survived the sinking of the *Wind's Pleasure*. They struggled to find jobs due to rumors about the mysterious disappearance of their ship. Some sailors believed that the ship had been a ghost ship for years, and that was the reason it eventually vanished without a trace. Because of the rumors, no one was willing to hire the three survivors together, and they each went their own way to serve on different ships.
+
+## Legacy
+Shallan later learned that [[Tyn\|Tyn]] had masterminded the attack on the ship, in service of [[Mraize\|Mraize]] and the Ghostbloods.
+Shallan and Jasnah each lost their [[Spanreed\|spanreeds]] in the sinking of the *Wind's Pleasure*, which limited their ability to communicate; Jasnah considered the loss a significant setback for her research. When Jasnah and Shallan finally met again in [[Urithiru\|Urithiru]], Jasnah immediately apologized for the events of the *Wind's Pleasure*, which she attributed to her own lack of foresight regarding the attack by the Ghostbloods.
+Shallan took a liking to Yalb, who often playfully flirted with her. She thought of him when she became upset about the death that seemed to follow her despite her best intentions, and he was one of the first figures that emerged when Shallan used Lightweaving to create an army during the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. She is presumably unaware that Yalb survived the sinking.
+
+## Crew
+[[Tozbek\|Tozbek]] (captain)
+[[Ashlv\|Ashlv]] (Tozbek's wife)
 [[Beznk\|Beznk]]
 [[Nanhel Eltorv\|Nanhel Eltorv]]
 [[Yalb\|Yalb]]
-[[Novato\|Novato]]
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:21, 13 August 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+[[New kid\|New kid]]
 
 
-
-https://es.coppermind.net/wiki/Wind%27s_Pleasure
+https://coppermind.net/wiki/Wind%27s_Pleasure

@@ -1,89 +1,67 @@
-
-
 |**Vershad**|
 |-|-|
 ||
-|**Grupo**|Ejército de Venture|
-|**Especie**|[[Koloss\|Koloss]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|
+|**Groups**|Venture army|
+|**Species**|[[Koloss\|Koloss]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
->“*Ese es mi nombre. Humano. Llámame Humano.*”
-\-Humano a Vin[1]
+>“*That is my name. Human. You call me Human.*”
+\-Human to Vin[1]
 
 
-**Humano**, originalmente **Vershad**, un skaa rebelde que vivió a las afueras del Imperio Final, es un [[Koloss\|koloss]] de edad desconocida creado en el [[Imperio Final\|Imperio Final]]. Tras presionarlo, hace una demostración de cómo se crean los koloss, y sirve a Vin de forma limitada y por un periodo corto de tiempo, a pesar de que reconoce odiarla. Es el líder del grupo de koloss que descubrió el alijo de [[Atium\|atium]] en la [[Tierra Natal kandra\|Tierra Natal kandra]] justo antes de la muerte de [[Ruina\|Ruina]].
+**Human**, originally **Vershad**, a skaa rebel living outside the borders of the [[Final Empire\|Final Empire]], is a [[Koloss\|koloss]] of unknown age created in the Final Empire. When pushed, he demonstrates how koloss are made, and serves [[Vin\|Vin]] to a very limited degree for a short time, although hating her by his own admission. He is the leader of the koloss group that discovers the empty [[Atium\|atium]] cache in the [[Kandra Homeland\|kandra Homeland]] just prior to [[Ruin\|Ruin's]] death.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
 1. [[#Vershad]] 
-1. [[#Humano]] 
+1. [[#Human]] 
 
 
-2 Citas. [[#Citas]] 
-3 Notas. [[#Notas]] 
+2 Quotes. [[#Quotes]] 
+3 Notes. [[#Notes]] 
 
 
-## Historia
+## History
 ### Vershad
-Antes de ser transformado en un koloss, Humano fue un [[Skaa\|skaa]] rebelde conocido como Vershad. Fue el líder de la rebelión en la zona sureste del [[Imperio Final\|Imperio Final]], en la misma zona donde [[Cladent\|Clubs]] luchó en su juventud. Vershad vivía en el desierto, más allá de las fronteras del Imperio final, y cruzaba la frontera para asaltar las aldeas fronterizas y robarles provisiones.
-Su plan de actuación incluía tratar de reclutar a la población skaa, convenciéndola de que le entregaran sus provisiones. A cambio, él y su banda sólo atacaban las mansiones de los [[Noble\|nobles]] durante el asalto. Esto permitía a los skaa una suerte de venganza contra la nobleza, además de conseguir más provisiones, ya que se asumía que sus suministros también habían sido saqueados.
-Vershad era un skaa carismático e inteligente, y fue capaz de mantener a su banda con vida incluso cuando el [[Lord Legislador\|lord Legislador]] volvió su atención hacia ellos. A pesar de ello, el lord Legislador acabó enviando un ejército de koloss guiados por un [[Inquisidor de acero\|inquisidor]] contra Vershad y sus hombres. El inquisidor les tendió una trampa, traicionando a la banda de rebeldes. Los hombres de Vershad fueron masacrados por sus crímenes, y él fue transformado en un koloss.
-Como koloss, Humano retiene mucho de la inteligencia y la determinación que lo caracterizaba, lo que le convierte en un koloss especialmente inteligente, con capacidades lógicas y observacionales funcionales y más desarrolladas que en cualquier otro koloss.
+Before he was transformed into a koloss, Human was a [[Skaa\|skaa]] rebel known as Vershad. He was the leader of a rebellion in the southeast of the [[Final Empire\|Final Empire]], in the same area where [[Clubs\|Clubs]] fought in his youth. Vershad lived in the desert outside the borders of the Final Empire, and crossed the border to raid outlying villages and steal supplies.
+His preferred methods involved converting the local skaa population to his side, and convince them to give him supplies. In return, he and his band would "raid" the village, only attacking the mansions of the [[Noble\|nobility]]. This allowed the skaa to get revenge against the nobility, as well as earning more supplies due to the assumption that their food stores had been raided as well.
+Vershad was a charismatic and intelligent skaa, managing even to keep his band alive when the [[Lord Ruler\|Lord Ruler]] began to turn his attention to them. Eventually, however, the Lord Ruler sent a koloss army against Vershad and his men, with the aid of an [[Inquisitor\|Inquisitor]], who set an ambush as well as betraying the rebels. For their crimes, Vershad's men were slaughtered, and he himself was transformed into a koloss.
+As a koloss, Human retains much of his intelligence and determination, which makes him a noticeably clever koloss at the time, with a decent sense of logic and working observational skills.
 
-### Humano
-Humano conoce a [[Vin\|Vin]] y [[Elend Venture\|Elend]] poco después de la exposición de los aldeanos a las [[Bruma\|brumas]] en las afueras de [[Vetitan\|Vetitan]], con la intención de inocularlos. Las observaciones de Humano hacen que Vin rechace la idea que tenía de que todos los koloss son iguales. Esto sigue así durante el tiempo que pasan juntos, en el que Vin llega a discernir que Humano podía utilizar la lógica y hacía observaciones casi inteligentes. Sin embargo, la insistencia de Humano afirmando que es humano no deja de confundir a Vin.
-Más adelante, Humano vuelve a insistir en que es humano, y expresa deseos por posesiones humanas, tales como tener su propia casa. Vin intenta explicarle que no puede tener esas cosas, porque las costumbres humanas difieren de las de los koloss, como por ejemplo que los humanos no matan a otros solo porque les molesten. A esto, Humano le contesta que los humanos mandan a los koloss para matar a otros humanos en vez de hacerlo ellos mismos.
-Vin le pregunta a Humano si él o el resto de koloss temen a las brumas. Humano le responde diciendo que las brumas no matan, y, por tanto, no han de temerlas, al igual que con cualquier otro fenómeno meteorológico. Continúa su respuesta añadiendo que él odia las brumas, porque puede notar el odio que las brumas le tienen, y es capaz de observar que Vin se siente de la misma forma. Aunque ninguno de ellos conoce la explicación en el momento, esto se debe a que ambos tienen [[Hemalurgia\|clavos hemalúrgicos]].
-Poco después del asalto de [[Aradan Yomen\|Aradan Yomen]] al campamento de Elend, Humano sorprende a Vin con la primera prueba conocida de moralidad proveniente de un koloss, indicando que no está bien que Humano le enseñe a Vin la forma en que los koloss son creados. Vin usa la [[Alomancia\|alomancia]] para empujar sobre Humano para que le revele cómo son creados los koloss. Humano, gritando, carga contra el campamento humano portando un koloss muerto, tratando de quitarle los clavos hemalúrgicos para introducirlos en un soldado humano herido, pero Vin le para al darse cuenta de cómo se crean los koloss. En ese momento, Humano reitera que es humano.
-Durante el conflicto final entre [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]], Humano, bajo la influencia de Ruina, dirige a los soldados koloss hacia los túneles subterráneos de la Tierra Natal de los kandra. Humano es consciente de que Ruina le está controlando, y de que su poder es mucho mayor que el de Vin. Ruina fuerza a Humano y sus soldados a ignorar a los humanos para encontrar el alijo de atium. Así, entra en el [[/wiki/Tierra Natal kandra#Cubil de la Confianza]], solo para encontrarlo vacío.
-Cuando [[Armon%C3%ADa\|Armonía]] toma el poder y empieza a restaurar [[Scadrial\|Scadrial]] al estado en que estaba antes de que el lord Legislador usara el poder del [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]] hace más de mil años, Humano y sus soldados koloss siguen en los túneles subterráneos, lo que les permite sobrevivir a la restauración de Scadrial. Armonía altera a los koloss supervivientes para transformarlos en una especie capaz de reproducirse por los métodos habituales, aunque se desconoce cómo pudo hacerlo.
+### Human
+Human meets [[Vin\|Vin]] and [[Elend\|Elend]] shortly after they expose villagers to the [[Mist\|mists]] outside of [[Vetitan\|Vetitan]] in order to inoculate them. He diffuses Vin's assumptions that all koloss are alike with his observations and remarks. This continues as they spend more time together, where Vin discerns that he could use fair logic and has somewhat keen observations. However, she is puzzled by Human's insistence that he is human.
+Later, Human again insists that he is human, and expresses the desire for human possessions such as a house. Vin attempts to explain that he can't have those things, because human ways are not the same as koloss ways, stating that humans don't kill someone because they make them feel uncomfortable. Human observes that instead of killing each other, humans just use koloss to kill one another.
+Vin questions Human about the mists, whether he and the other koloss fear them. He responds by saying that mist does not kill, thus it is nothing to fear, just like any other weather. But he continues his line of thought, and stated that he hates the mists, because he can feel their hatred of him, and recognises that Vin feels the same way about the mists. This is due to having [[Hemalurgy\|hemalurgic]] spikes, but neither of the two realized this at the time.
+Shortly after [[Aradan Yomen\|Aradan Yomen's]] raid on Elend's camp, Human surprises Vin with the first known indication of any kind of morality from a koloss, stating that it's not right that he shows her how koloss are made. Vin Pushes Human [[Allomancy\|Allomantically]] to get him to reveal how koloss are created. He screams, proceeding to run into the army's human camp with a dead koloss, immediately attempting to take the hemalurgic spikes from the koloss and place them into a wounded human soldier, but Vin stops him, finally uncovering the secret of how koloss are created. Human once again states that he is human.
+During the final conflict between [[Ruin\|Ruin]] and [[Preservation\|Preservation]], Human leads koloss soldiers inside the underground tunnels of the kandra Homeland while under the influence of Ruin. Human is aware that Ruin is controlling him, and that Ruin is far more powerful than Vin. Ruin forces Human and his soldiers to ignore the humans in order to find the atium cache. He enters the [[Trustwarren\|Trustwarren]], only to find it completely empty.
+When [[Harmony\|Harmony]] takes up the power and begins to restore Scadrial to what it had been before the Lord Ruler reshaped the world using the power at the Well of Ascension over one thousand years earlier, Human and the other koloss soldiers with him are still in the underground tunnels, and survive the restoration of Scadrial as Harmony reshapes the planet again. Harmony alters these surviving koloss to become true-breeding, although it is not known how this was achieved.
 
-## Citas
->“*Seré humano. Os mataremos. Tomaremos vuestras ciudades. Entonces seremos humanos.*”
-\-Humano explicando a Vin su mórbida creencia de cómo los koloss pueden convertirse en humanos.[1]
-
-
->“*Soy más grande que unos. Y más pequeño que otros… pero no muchos. Eso significa que soy viejo.*”
-\-Humano demostrando su habilidad para razonar.[1]
+## Quotes
+>“*I will be human, (...) We will kill you. Take your cities. Then we will be human.*”
+\-Human explaining his morbid belief of how koloss can become human to Vin.[1]
 
 
->“*No somos como vosotros. Nosotros solo somos grandes por fuera.*”
-\-Humano al no comprender el significado de la pregunta de Vin acerca del sexo de los koloss.[1]
+>“*I'm bigger than some, (...) Smaller than some--but not very many. That means I'm old.*”
+\-Human demonstrating his ability to reason.[1]
 
 
->“*No. Hacéis que nosotros los matemos.*”
-\-La observación de Humano acerca de los humanos y el asesinato que sorprendió a Vin.[3]
+>“*We're not like you, (...) We're big on the outside only.*”
+\-Human failing to grasp the meaning of Vin's inquiries about gender.[1]
 
 
->“*No puedo. No está bien.*”
-\-Humano demostrando los valores y la moral de los koloss.[4]
+>“*No, (...) You make **us** kill them instead.*”
+\-Human's observation skills about humans and murder surprising Vin.[3]
 
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“*I can't, (...) It's not right.*”
+\-Human demonstrating koloss values and morality.[4]
 
 
 
-https://es.coppermind.net/wiki/Vershad
+
+https://coppermind.net/wiki/Vershad

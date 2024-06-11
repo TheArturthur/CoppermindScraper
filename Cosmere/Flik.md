@@ -1,47 +1,33 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Flik**|
 |-|-|
-|**Oficio**|Sirviente|
-|**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
-|**Mundo natal**|[[Lumar\|Lumar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
+|**Profession**|Servant|
+|**Residence**|[[Diggen's Point\|Diggen's Point]]|
+|**Homeworld**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
->“*Lo intentó con todas sus fuerzas, señorita Trenza. Tendrías que haber visto al joven amo. Hizo todo lo posible para ahuyentar a esas mujeres. Memorizó ochenta y siete tipos distintos de contrachapado y sus usos. Habló a todas las princesas que conocía, largo y tendido, sobre las mascotas de su infancia. Hasta les habló de religión, nada menos. En el quinto reino me temí que iban a pillarlo, porque esa princesa era sorda, pero el joven amo fue y le vomitó encima durante la cena.*”
-\-Flik, contando los esfuerzos de Charlie para permanecer soltero[1]
-
-
-**Flik** es un residente en [[Punta de Diggen\|Punta de Diggen]], en [[Lumar\|Lumar]]. Es un sirviente del [[Padre de Charlie\|duque de la isla]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+>“*He tried so hard, Miss Tress. Oh, you should have seen the young master. He did everything he could to put those women off. He memorized eighty-seven different types of plywood and their uses. He told every princess he met—at length—about his childhood pets. He even talked about religion. I thought they had 'im at the fifth kingdom, as that princess was deaf, but the young master went and threw up on her at dinner.*”
+\-Flik, recounting Charlie's efforts to stay single[1]
 
 
-## Apariencia y personalidad
-Flik es amable y tiene las orejas muy grandes. Le tiene un poco de miedo al duque.
+**Flik** is a resident of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. He is a servant of the [[Charlie's father\|island's duke]].
 
-## Historia
-Flik se unió al duque en un viaje de un año para intentar casar a [[Charlie\|Charlie]] con una princesa. Fue testigo de cómo Charlie arruinaba intencionadamente la oportunidad de casarse por todos los medios, incluyendo ser muy aburrido, hablar de religión e incluso vomitar sobre una princesa. En algún momento, Flik presumiblemente se hizo amigo de Charlie; antes de que el joven heredero se viese obligado a navegar por el [[Mar de Medianoche\|mar de Medianoche]], confió a Flik una taza de cerámica y le pidió que se la entregase a [[Trenza\|Trenza]]. Cuando Flik regresó a Punta de Diggen con el duque, le dio en secreto a Trenza los trozos de la copa, que se habían roto en algún momento. Le contó a Trenza cómo Charlie evitó casarse, que fue enviado a morir al intentarlo casar con la hechicera y que esta lo había capturado.
+## Contents
 
-## Curiosidades
-Flik hace referencia a estar «bajo la luna de la mismísima [[Thanasmia\|Thanasmia]]» cuando se navega por el mar de Medianoche. Es la única persona que ha mencionado Thanasmia, y sigue sin estar claro a quién o a qué se refiere el término.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 23:02, 6 September 2023 (UTC)
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Flik is kind and has very large ears. He is somewhat scared of the duke.
 
-https://es.coppermind.net/wiki/Flik
+## History
+Flik joined the duke on the yearlong voyage to attempt to marry [[Charlie\|Charlie]] off to a princess. He witnessed Charlie intentionally ruining the chance of being wed by any means necessary, including being very boring, talking about religion, and even vomiting on a princess. At some point, Flik presumably befriended Charlie; before the young heir was forced to sail the [[Midnight Sea\|Midnight Sea]], he trusted Flik with a ceramic cup and asked him to deliver it to [[Tress\|Tress]]. When Flik returned to Diggen's Point with the duke, he secretly gave Tress the pieces of the cup, which had broken at some point. He told Tress about how Charlie avoided getting married, that he was sent to die by trying to marry the [[Riina\|Sorceress]], and that the Sorceress had captured him.
+
+## Trivia
+Flik makes a reference to being "beneath [[Thanasmia\|Thanasmia's]] own moon" when one sails the Midnight Sea. He is the only person that has mentioned Thanasmia, and it remains unclear who or what the term refers to.
+
+
+https://coppermind.net/wiki/Flik

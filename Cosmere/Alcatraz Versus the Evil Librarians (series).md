@@ -1,7 +1,7 @@
-This article is about [[Brandon Sanderson\|Brandon Sanderson]]'s series. Para the character, ver [[Alcatraz Smedry\|Alcatraz Smedry]].
-**Alcatraz Versus the Evil Librarians**, also referred to as **Alcatraz** or **Alcatraz Versus**, is a middle-grade series by [[Brandon Sanderson\|Brandon Sanderson]]. It currently consists of 5 books told from the point of view of [[Alcatraz Smedry\|Alcatraz Smedry]], a young boy and heir to .
+This article is about [[Brandon Sanderson\|Brandon Sanderson's]] series. For the character, see [[Alcatraz Smedry\|Alcatraz Smedry]].
+**Alcatraz Versus the Evil Librarians**, also referred to as **Alcatraz** or **Alcatraz Versus**, is a middle-grade series by [[Brandon Sanderson\|Brandon Sanderson]]. It currently consists of 5 books told from the point of view of [[Alcatraz Smedry\|Alcatraz Smedry]], a young boy and heir to [[House Smedry\|House Smedry]].
 
-## Sumario
+## Contents
 
 1 Books. [[#Books]] 
 2 Cover Gallery. [[#Cover Gallery]] 
@@ -19,9 +19,9 @@ The first four books were originally published by [[Scholastic\|Scholastic]], on
 
 |**Year**|**Title**|**Order**|**Length**|**Notes**|**Refs**|
 |-|-|
-|**2007**|**|#1|Novel|||
-|**2008**|**|#2|Novel|||
-|**2009**|**|#3|Novel|||
+|**2007**|*[[Alcatraz Versus the Evil Librarians (book)\|Alcatraz Versus the Evil Librarians]]*|#1|Novel|||
+|**2008**|*[[The Scrivener's Bones\|The Scrivener's Bones]]*|#2|Novel|||
+|**2009**|*[[The Knights of Crystallia\|The Knights of Crystallia]]*|#3|Novel|||
 |**2010**|*[[The Shattered Lens\|The Shattered Lens]]*|#4|Novel|||
 |**2016**|*[[The Dark Talent\|The Dark Talent]]*|#5|Novel|||
 |**2022**|*[[Bastille Versus the Evil Librarians\|Bastille Versus the Evil Librarians]]*|#6|Novel|Coauthored by [[Janci Patterson\|Janci Patterson]]||
@@ -29,7 +29,7 @@ The first four books were originally published by [[Scholastic\|Scholastic]], on
 The endnote to *[[The Dark Talent\|The Dark Talent]]* includes a letter penned by [[Bastille\|Bastille]], in which she states that there would an additional book written from her perspective in order to tie up everything properly. The title for the final book is *[[Bastille Versus the Evil Librarians\|Bastille Versus the Evil Librarians]]*. Brandon had some trouble getting Bastille's voice right, so he reached out to his long-time friend and former student, [[Janci Patterson\|Janci Patterson]], who agreed to help with the book. The book was released in September 2022.
 
 ## Cover Gallery
-*[[Alcatraz contra los bibliotecarios malvados/Portadas\|Alcatraz contra los bibliotecarios malvados]]* · *[[Los Huesos del Escriba/Portadas\|Los Huesos del Escriba]]* · *[[Los Caballeros de Cristalia/Portadas\|Los Caballeros de Cristalia]]* · *[[Las Lentes Fragmentadas/Portadas\|Las Lentes Fragmentadas]]* · *[[El Talento Oscuro/Portadas\|El Talento Oscuro]]*
+*[[Alcatraz Versus the Evil Librarians/Covers\|Alcatraz versus the Evil Librarians]]* · *[[The Scrivener's Bones/Covers\|The Scrivener's Bones]]* · *[[The Knights of Crystallia/Covers\|The Knights of Crystallia]]* · *[[The Shattered Lens/Covers\|The Shattered Lens]]* · *[[The Dark Talent/Covers\|The Dark Talent]]* · *[[Bastille Versus the Evil Librarians/Covers\|Bastille Versus the Evil Librarians]]*
 ### Omnibus Covers
 
 
@@ -69,28 +69,6 @@ Thai rights (entire series) to Rueanpanya
 Book #1 Featured on Nancy Pearl’s NPR Morning Show
 Book #1 a Book Sense Winter 2007-2008 Children’s Pick
 Book #1 nominated for Golden Sower Award, Nebraska’s Children’s Choice Book Award, Hawaii’s Nene Award, North Carolina’s Battle of the *Books, and Florida's Sunshine State Young Reader's Award.
-## Notes
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|****|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|****|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
 
 
-
-https://es.coppermind.net/wiki/Alcatraz_Versus_the_Evil_Librarians_(series)
+https://coppermind.net/wiki/Alcatraz_Versus_the_Evil_Librarians_(series)

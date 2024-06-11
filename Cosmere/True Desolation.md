@@ -1,95 +1,70 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-> [!info] ¡Esta página necesita atención de forma urgente!Tiene fallos graves como falta de claridad, marcadores de posición o está incompleto de forma crítica.
+> [!info] This page needs urgent attention!It has serious flaws, such as lack of clarity; contains placeholders; or is otherwise critically incomplete.
 
-
-
-|**Auténtica Desolación**|
+|**True Desolation**|
 |-|-|
-|**Fecha**|1173-presente|
-|**Participantes**|Humanos, [[Cantores\|cantores]], [[Spren\|spren]], [[Odium\|Odium]]|
-|**Efectos**|En curso|
-|**Mundo**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Date**|1173-present|
+|**Participants**|Humans, [[Singers\|singers]], [[Spren\|spren]], [[Odium\|Odium]]|
+|**Effects**|Ongoing|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+> [!info] This page or section needs to be updated with new information for *[[Edgedancer (novella)\|Edgedancer]]*, *[[Oathbringer\|Oathbringer]]*, *[[Dawnshard (novella)\|Dawnshard]]*, and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Danzante del Filo (novella)\|Danzante del Filo (novella)]]*, *[[Juramentada\|Juramentada]]*, *[[Esquirla del Amanecer (novella)\|Esquirla del Amanecer (novella)]]*, y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*He visto el final, y lo he oído nombrar. La Noche de las Penas, la Verdadera Desolación. La Tormenta Eterna*”
-\-Recogido el Palaheses 1172, 15 segundos antes de la muerte. El sujeto era un joven ojos oscuros de origen desconocido.[1]
-
-
-La **Auténtica Desolación**, también conocida como la **Noche de las Penas** sigue la [[Era de la Soledad\|Era de la Soledad]] en [[Roshar\|Roshar]]. [[Odium\|Odium]] y sus sirvientes están en guerra contra el resto de Roshar, con la esperanza de permitir que la [[Esquirla\|Esquirla]] pueda liberarse de los vínculos que lo mantienen atado al [[Sistema roshariano\|sistema roshariano]].
-
-## Sumario
-
-1 Antecedentes. [[#Antecedentes]] 
-2 Inicio. [[#Inicio]] 
-
-2. [[#La batalla de Narak]] 
+>“*I have seen the end, and have heard it named. The Night of Sorrows, the True Desolation. The Everstorm.*”
+\-Collected on Palaheses 1172, 15 seconds pre-death. Subject was a darkeyed youth of unknown origin.[1]
 
 
-3 Forjando la coalición. [[#Forjando la coalici.C3.B3n]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+The **True Desolation** follows the [[Era of Solitude\|Era of Solitude]] on [[Roshar\|Roshar]]. [[Odium\|Odium]] and his servants wage war against the rest of Roshar, hoping to eventually allow the [[Shard\|Shard]] to break free of the ties bonding him to the [[Rosharan system\|Rosharan system]]. The term **[[Night of Sorrows\|Night of Sorrows]]** is often used as an apparent synonym for the True Desolation, although there may be some nuance between the two terms.
+
+## Contents
+
+1 Lead-up. [[#Lead-up]] 
+2 Beginning. [[#Beginning]] 
+
+2. [[#The Battle of Narak]] 
 
 
-## Antecedentes
-Después de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], nueve de los diez [[Heraldo\|Heraldos]] no se veían capaces de volver a [[Braize\|Braize]] para someterse a las torturas de los [[Fusionado\|Fusionados]], así que abandonaron el [[Juramento\|Juramento]]. Uno de los Heraldos, [[Talenel\|Talenel]], murió en la última batalla y volvió automáticamente a Braize; con él allí, el Juramento se mantuvo intacto y los Fusionados quedaron atrapados. También dejaron a los [[Caballeros Radiantes\|Caballeros Radiantes]] el trabajo se proteger Roshar.
-Alrededor de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]], la nueva generación de Radiantes se dio cuenta de que los humanos no eran nativos de Roshar, sino que durante milenios habían estado tomando la tierra de los [[Cantores\|cantores]]. Por aquel entonces, algo —posiblemente [[Melishi\|Melishi]] al atrapar a la [[Deshecho\|Deshecha]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]— robó a los cantores su [[Conexi%C3%B3n\|Conexión]] e [[Identidad\|Identidad]], lo que los dejó prácticamente incapaces de actuar por sí solos. [[Honor\|Honor]] no apoyó a los Radiantes durante estos acontecimientos, sino que declaró que destruirían Roshar. Como resultado, todos los Caballeros Radiantes excepto el [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]] rompieron sus [[Palabras Inmortales\|juramentos]] y mataron a sus [[Spren\|spren]] en un acontecimiento conocido como la [[Traici%C3%B3n\|Traición]]. Un tiempo más tarde, Odium consiguió [[Astilla\|Astillar]] a Honor, aunque antes este consiguió hacer algunas preparaciones para guiar a Roshar en la lucha contra Odium.
-
->“*Únelos. El sol se acerca al horizonte. La Tormenta Eterna se avecina. La Verdadera Desolación. La Noche de las Penas.*”
-\-Honor durante una de las visiones de Dalinar.[4]
-
-Un poco antes de la reunificación de [[Alezkar\|Alezkar]], el [[Padre Tormenta\|Padre Tormenta]] empezó a enviar las [[Visiones de Dalinar\|visiones]] que Honor había preparado a [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] potenciales para avisarlos sobre la llegada de Odium, guiarlos para refundar a los Caballeros Radiantes y animarlos a unificar Roshar contra la amenaza de Odium y sus ejércitos. [[Gavilar Kholin\|Gavilar Kholin]] recibió estas visiones antes de su muerte, y se puso en contacto con [[Thaidakar\|Thaidakar]] y [[Restares\|Restares]], consiguiendo de alguna manera luz del vacío y anti-luz del vacío, y formando un plan para traer de vuelta a los Fusionados. Poco después de la muerte de Gavilar en Ishi 1167, [[Dalinar Kholin\|Dalinar Kholin]] comenzó a recibir también estas visiones.
-Los spren también eran conscientes del inminente retorno de Odium, ya que vieron cómo la [[Tormenta eterna\|tormenta eterna]] empezaba a tomar forma en Shadesmar siglos antes del comienzo de la Auténtica Desolación. Motivados por esto, algunos spren Radiantes comenzaron a regresar al [[Reino F%C3%ADsico\|Reino Físico]] para vincular a posibles Radiantes ya en 1167. Los primeros ejemplos conocidos son [[Marfil\|Marfil]] con [[Jasnah Kholin\|Jasnah Kholin]] y [[Testimonio\|Testimonio]] con [[Shallan Davar\|Shallan Davar]].
-El [[Diagrama (grupo)\|Diagrama]] recogió un [[Susurro de muerte\|susurro de muerte]] que predecía la llegada de la Auténtica Desolación. Cuando Dalinar preguntó a [[Taravangian\|Taravangian]] de dónde salía su información, este le dijo que venía del Heraldo [[Battar\|Battar]].
-
-## Inicio
->“*¿Quién soy? Yo... Yo soy Talenel'Elin, Tendón de Piedra, Heraldo del Todopoderoso. La Desolación ha llegado. Oh, Dios..., ha llegado. Y he fracasado.*”
-\-Talenel al llegar a Kholinar[14]
+3 Forging the Coalition. [[#Forging the Coalition]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-La Auténtica Desolación empezó formalmente por razones desconocidas cuatro milenios y medio después del [[Aharietiam\|Aharietiam]] y permitió que los Fusionados volvieran a Roshar. Entonces, el Heraldo [[Talenel\|Talenel]] volvió a Roshar, a [[Kholinar\|Kholinar]], para avisar a la gente de su llegada y prepararlos para luchar. Al entrar a la ciudad, proclamó que la Desolación había llegado y que había fallado, antes de caer al suelo inconsciente. Talenel fue llevado más tarde a las [[Llanuras Quebradas\|Llanuras Quebradas]], donde la mayoría lo consideraba loco, puesto que repetía constantemente el mismo mantra que avisaba sobre la inminente desolación.
-Mientras tanto, unos [[Vac%C3%ADospren\|vacíospren]] estaban preparando la llegada de los Fusionados. Uno de ellos, [[Ulim\|Ulim]], consiguió entrar en contacto con la cantora [[Venli\|Venli]], que estaba investigando nuevas formas para ayudar a los [[Oyente\|oyentes]] en la [[Guerra de la Venganza\|Guerra de la Venganza]] contra los alezi. Con bastante ayuda de Ulim, Venli descubrió la [[/wiki/Regio#forma tormenta]]. Aunque a [[Eshonai\|Eshonai]] le preocupaba que la forma tormenta sometiera los oyentes a sus dioses, se presentó voluntario para tomar la forma y así poder comprobar su naturaleza y habilidades. Sin embargo, no fue capaz de controlar la forma y, con la ayuda de Venli, convenció a la mayoría de su gente para que la adoptaran.
+## Lead-up
+After the [[Last Desolation\|Last Desolation]], nine of the ten [[Herald\|Heralds]] could no longer bear to return to [[Braize\|Braize]] to be tortured by the [[Fused\|Fused]], and instead gave up the [[Oathpact\|Oathpact]]. One Herald, [[Talenel\|Talenel]], had been killed in the final battle and had automatically returned to Braize; with him there, the Oathpact remained intact and the Fused were sealed away. They also left behind the [[Knights Radiant\|Knights Radiant]] to continue to protect the people of Roshar.
+Around the time of the [[False Desolation\|False Desolation]], the newest generation of Radiants learned that humans were not native to Roshar and had essentially been taking the [[Singer\|singers']] land for millennia. Around this time, something—possibly [[Melishi\|Melishi]] trapping the [[Unmade\|Unmade]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]—caused the singers to be stripped of their [[Connection\|Connection]] and [[Identity\|Identity]], leaving them mostly unable to act for themselves. [[Honor\|Honor]] did not support the Radiants through these events, instead raving about how they would destroy Roshar. As a result, all of the Knights Radiant except the [[Order of Skybreakers\|Order of Skybreakers]] broke their [[Immortal Words\|oaths]], killing their [[Spren\|spren]] in an event known as the [[Recreance\|Recreance]]. Some time after this, Odium finally [[Splinter\|Splintered]] Honor, though not before Honor was able to make some arrangements to guide the people of Roshar through the coming fight with Odium.
 
-### La batalla de Narak
-Para más información, ver [[Batalla de Narak\|batalla de Narak]].
-Durante la [[Batalla de Narak\|Batalla de Narak]], el Ishishach 1173, los cantores en forma tormenta usaron su poder para invocar una nueva tormenta de Odium, conocida como la [[Tormenta eterna\|tormenta eterna]]. Al igual que la [[Alta tormenta\|alta tormenta]], rodea continuamente el planeta, aunque en dirección opuesta.
-La tormenta eterna devolvió la Conexión y la Identidad a los cantores y permite que los Fusionados renazcan en el cuerpo de un cantor a su paso por una región.
+>“*Unite them. The sun approaches the horizon. The Everstorm comes. The True Desolation. The Night of Sorrows.*”
+\-Honor during one of Dalinar's visions[5]
 
-## Forjando la coalición
-Tras la batalla de Narak y la ocupación humana de Urithiru, en algún momento de Jesnan 1174, Dalinar Kholin forjó la [[Coalici%C3%B3n de monarcas\|coalición de monarcas]], comenzó a contactar con regentes de todo Roshar para intentar que se unieran a la ofensiva contra los Fusionados. El objetivo principal eran las naciones que poseían Puertas Juradas, debido a su importancia estratégica. También fue en ese momento cuando la guerra entre Emul y Tukar se detuvo, ya que la nueva y mayor amenaza desvió su atención y puso fin a su lucha.
-El primer líder al que Dalinar y sus escribas tendieron la mano fue [[Yanagawn\|Yanagawn]] de Azir, sin embargo, rechazaron sus avances debido a la desconfianza que sentían hacia él y hacia Alezkar en su conjunto. Rompieron por completo las comunicaciones después de que él se desesperara y empezara a hablarles con más fuerza. Esta desconfianza tenía su origen en el genocidio perpetrado contra el pueblo azishiano por Sadees el Hacedor de Soles, y en la propia historia de brutalidad y conquista de Dalinar.
-Tras fracasar en su intento de aliarse con los makabaki, tendieron la mano a [[Fen Rnamdi\|Fen Rnamdi]] de Thaylenah. Sin embargo, ella también desconfiaba de los alezi, negándose en redondo a reunirse con ellos en Urithiru, o a permitirles enviar tropas a [[Ciudad Thaylen\|ciudad Thaylen]] para ayudar a repararla tras la destrucción causada por la tormenta eterna. Intentó convencerla varias veces, pero cada una de ellas fue rechazada.
-También contactaron con [[Yezier\|Yezier]] y [[Tashikk\|Tashikk]], pero también fue rechazado por ellos; sin embargo, [[Taravangian\|Taravangian]] aceptó su invitación e informó a Dalinar de que llegaría con uno de sus Radiantes a través de la Puerta Jurada en Jah Keved.
+Sometime prior to the reunification of [[Alethkar\|Alethkar]], the [[Stormfather\|Stormfather]] began sending the [[Dalinar's visions\|visions]] that Honor had recorded to potential [[Order of Bondsmiths\|Bondsmiths]] to warn them of Odium's coming, guide them to refound the Knights Radiant, and encourage them to unify Roshar against the threat of Odium and his armies. [[Gavilar Kholin\|Gavilar Kholin]] received these visions prior to his death, and he got in contact with [[Thaidakar\|Thaidakar]] and [[Restares\|Restares]], somehow getting his hands upon Voidlight and Anti-Voidlight, and forming a plan to bring back the Fused. Shortly after Gavilar’s death in Ishi 1167, [[Dalinar Kholin\|Dalinar Kholin]] began to receive these visions as well.
+The spren were also aware of Odium's impending return as they saw the [[Everstorm\|Everstorm]] beginning to take shape in Shadesmar as early as centuries before the start of the True Desolation. Motivated by this, a few Radiant spren began to return to the [[Physical Realm\|Physical Realm]] to bond with potential Radiants as early as 1167. The earliest known examples being [[Ivory\|Ivory]] with [[Jasnah Kholin\|Jasnah Kholin]] and [[Testament\|Testament]] with [[Shallan Davar\|Shallan Davar]].
+The [[Diagram (group)\|Diagram]] collected a [[Death Rattle\|Death Rattle]] that predicted the coming of the True Desolation. When confronted about his knowledge, [[Taravangian\|Taravangian]] told Dalinar that the information came from the Herald [[Battar\|Battar]].
 
-
-## Curiosidades
-También conocido como:
-
-True Desolation en inglés
-Prawdziwe Spustoszenie en polaco
-Истинско Опустошение en búlgaro
-## Notas
-|**Historia de [[Roshar\|Roshar]]**|
-|-|-|
-|[[Guerra de la Venganza\|Guerra de la Venganza]]|**La Auténtica Desolación**|*En curso*|
+## Beginning
+>“*Who am I? I ... I am Talenel'Elin, Stonesinew, Herald of the Almighty. The Desolation has come. Oh, God ... it has come. And I have failed.*”
+\-Talenel upon arriving in Kholinar[15]
 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · |
+The True Desolation formally began due to unknown reasons, four and a half millennia after the [[Aharietiam\|Aharietiam]], allowing the Fused to return to Roshar. The Herald [[Talenel\|Talenel]] then returned to Roshar to warn the people of their coming and prepare them to fight, arriving outside of [[Kholinar\|Kholinar]]. Upon entering the city, he proclaims that the Desolation has come and that he has failed, before falling to the ground, unconscious. Talenel is later brought to the [[Shattered Plains\|Shattered Plains]] where he is widely viewed as a madman. He repeats the same mantra warning of the coming desolation.
+Meanwhile, some [[Voidspren\|voidspren]] were laying the groundwork for the Fused to return. One, [[Ulim\|Ulim]], successfully made contact with the singer [[Venli\|Venli]], who was researching new forms to help the [[Listener\|listeners]] fight the [[War of Reckoning\|War of Reckoning]] against the Alethi. With significant help from Ulim, Venli discovered [[/wiki/Regal#stormform]]. Though [[Eshonai\|Eshonai]] worried about that stormform would open the listeners up to their gods, she volunteered to take the form as a test of its nature and abilities. She is unable, however, to control the form and, with Venli's assistance, convinced most of the rest of their people to adopt it as well.
+
+### The Battle of Narak
+For more information, see [[Battle of Narak\|Battle of Narak]].
+During the [[Battle of Narak\|Battle of Narak]], on Ishishach 1173, the stormform singers used its power to summon a new storm of Odium, known as the [[Everstorm\|Everstorm]]. Much like the [[Highstorm\|highstorm]], it continually rounds the planet, though in the opposite direction.
+The Everstorm restored Connection and Identity to the singers and allows the Fused to be reborn in the body of a singer as it passes over a region.
+
+## Forging the Coalition
+Following the Battle of Narak and the human occupation of Urithiru, some time in Jesnan 1174, Dalinar Kholin forged the [[Coalition of monarchs\|Coalition of monarchs]], he began to contact monarchs from all across Roshar to try and get them to join the offensive against the Fused armies. The primary focus was upon nations that contained Oathgates, due to their strategeic importance. It was also around this point that the war between Emul and Tukar came to a halt as the new, greater threat diverted their focus and brought an end to their fighting.
+The first leader Dalinar and his scribes reached out to was [[Yanagawn\|Yanagawn]] of Azir, however, they rebuked his advances due to a distrust of him and Alethkar as a whole. They completely broke off communications after he became desperate and begun to speak to them more forcefully. This distrust was ultimately sourced in the genocide perpetrated against the Azish people by Sadees the Sunmaker, and by Dalinar's own history of brutality and conquest.
+Following their failure to ally with the Makabaki, they reached out to [[Fen Rnamdi\|Fen Rnamdi]] of Thaylenah. However, she too distrusted the Alethi, with her flatly refusing to meet with that at Urithiru, or allow them to send troops to [[Thaylen City\|Thaylen City]] to help repair it after the destruction wrought by the Everstorm. He tried to convince her several times, but each time was met with rejection.
+They also contacted [[Yezier\|Yezier]] and [[Tashikk\|Tashikk]], but were rejected by them as well; however, [[Taravangian\|Taravangian]] accepted his invitation and informed Dalinar that he would be arriving with one of his radiants via the Oathgate in Jah Keved.
 
 
+## Trivia
+In foreign translations, this is also known as:
 
-https://es.coppermind.net/wiki/True_Desolation
+Auténtica Desolación (Spanish)
+Prawdziwe Spustoszenie (Polish)
+Истинско Опустошение (Bulgarian)
+
+
+https://coppermind.net/wiki/True_Desolation

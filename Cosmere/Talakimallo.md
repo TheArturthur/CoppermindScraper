@@ -1,16 +1,16 @@
 |**Talakimallo**|
 |-|-|
-|**Familia**|
-|**Cónyuge**|[[Angola Dartmoor\|Angola Dartmoor]]|
-|**Hijos**|Princess [[Kamali\|Kamali]]|
-|**Títulos**|King of [[Mokia\|Mokia]]|
-|**Nacionalidad**||
-|**Mundo natal**|[[Tierra (Alcatraz)\|Tierra (Alcatraz)]]|
-|**Presentado en**|*[[The Shattered Lens\|The Shattered Lens]]*|
+|**Family**|
+|**Spouse**|[[Angola Dartmoor\|Angola Dartmoor]]|
+|**Children**|Princess [[Kamali\|Kamali]]|
+|**Titles**|King of [[Mokia\|Mokia]]|
+|**Nationality**|[[Mokian\|Mokian]]|
+|**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[The Shattered Lens\|The Shattered Lens]]*|
 
-**Talakimallo** is the king of [[Mokia\|Mokia]]. Shortly after the siege of [[Tuki Tuki\|Tuki Tuki]] began the  supposedly evacuated him, though he secretly stayed behind in the city.
+**Talakimallo** is the king of [[Mokia\|Mokia]]. Shortly after the siege of [[Tuki Tuki\|Tuki Tuki]] began the [[Knights of Crystallia\|Knights of Crystallia]] supposedly evacuated him, though he secretly stayed behind in the city.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
@@ -27,8 +27,8 @@ Talakimallo is courageous and determined, and has a fierce love for his people. 
 \-Talakimallo when Alcatraz arrived in Tuki Tuki.[1]
 
 
-The Knights of Crystallia intended to evacuate him from Tuki Tuki for his safety when the Librarians laid siege, but Talakimallo’s daughter, Princess [[Kamali\|Kamali]], used a pair of  to make herself look like her father. She was taken away to safety, and Talakimallo stayed behind to defend the city. When [[Alcatraz Smedry\|Alcatraz Smedry]] and his friends arrived to help, Talakimallo introduced himself as Mallo, a general of the city guard. [[Aydee Ecks Smedry\|Aydee]] and [[Bastille\|Bastille]] recognized him as the king, and [[Kazan Smedry\|Kaz]] found him to look familiar. Talakimallo welcomed Alcatraz and his friends, and accepted their help to defend the city. He gave them a brief explanation about the city and its flowers. Upon arriving at the royal palace, Alcatraz realized his true identity, and Talakimallo explained his deception to them.
-Alcatraz asked for a piece of , and contacted [[Draulin\|Draulin]]. He showed Draulin that King Talakimallo was there in Tuki Tuki, in an effort to get the Knights of Crystallia to come and save him and the city. Draulin tried to get Talakimallo to leave the city and save himself, but Talakimallo refused to leave his city and his people. Their communication was cut off when the Librarians disrupted their communication as they prepared for a large attack.
+The Knights of Crystallia intended to evacuate him from Tuki Tuki for his safety when the Librarians laid siege, but Talakimallo’s daughter, Princess [[Kamali\|Kamali]], used a pair of [[/wiki/Oculator#Disguiser.27s Lenses]] to make herself look like her father. She was taken away to safety, and Talakimallo stayed behind to defend the city. When [[Alcatraz Smedry\|Alcatraz Smedry]] and his friends arrived to help, Talakimallo introduced himself as Mallo, a general of the city guard. [[Aydee Ecks Smedry\|Aydee]] and [[Bastille\|Bastille]] recognized him as the king, and [[Kazan Smedry\|Kaz]] found him to look familiar. Talakimallo welcomed Alcatraz and his friends, and accepted their help to defend the city. He gave them a brief explanation about the city and its flowers. Upon arriving at the royal palace, Alcatraz realized his true identity, and Talakimallo explained his deception to them.
+Alcatraz asked for a piece of [[/wiki/Silimatic#Silimatic Glass]], and contacted [[Draulin\|Draulin]]. He showed Draulin that King Talakimallo was there in Tuki Tuki, in an effort to get the Knights of Crystallia to come and save him and the city. Draulin tried to get Talakimallo to leave the city and save himself, but Talakimallo refused to leave his city and his people. Their communication was cut off when the Librarians disrupted their communication as they prepared for a large attack.
 
 >“*Style will not protect my people from Librarian weapons. Your help is appreciated, but your promises are flimsy.*”
 \-King Talakimallo to Alcatraz[3]
@@ -39,15 +39,6 @@ Alcatraz received a communication with his lenses told Talakimallo that his gran
 ## Relationships
 His wife is [[Angola Dartmoor\|Angola Dartmoor]] and his heir and daughter is Princess Kamali.
 
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Taln Fan (talk) 20:15, 15 March 2022 (UTC)
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
 
 
-
-https://es.coppermind.net/wiki/Talakimallo
+https://coppermind.net/wiki/Talakimallo

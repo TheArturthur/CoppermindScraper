@@ -1,56 +1,32 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Arriev**|
 |-|-|
-|**Oficio**|[[/wiki/Obligador#Sumo Prelado]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Profession**|[[/wiki/Obligator#High Prelan]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-El sumo prelado **Arriev** es un [[Obligador\|obligador]] del  en [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]].
+High Prelan **Arriev** is an [[Obligator\|obligator]] of the [[Canton\|Canton of Finance]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Viste una túnica gris y su triangular cabeza está afeitada. Tiene tatuajes excepcionalmente complicados alrededor de sus ojos que se extienden hasta sus orejas y su frente, significando su alto rango entre los obligadores. A diferencia de la mayoría de obligadores, no parece un burócrata sino que está en forma y musculado. Es confiado y sagaz, y su apariencia se combina con su personalidad haciéndole parecer amenazador.
+## Appearance and Personality
+He wears gray robes and has a shaved, triangular head. He has exceptionally intricate tattoos around his eyes that extend back to his ears and onto his forehead, signifying his high rank among obligators. Unlike most obligators, he does not look like a bureaucrat and is lean and muscular. He is both confident and cunning, and his appearance combines with his personality to make him seem menacing.
 
-## Atributos y habilidades
-[[Kelsier\|Kelsier]] afirma que todos los obligadores están entrenados para detectar la [[Alomancia\|alomancia]] emocional, pero probablemente Arriev esté particularmente capacitado para ello, ya que se unió a la negociación con [[Camon\|Camon]] y [[Vin\|Vin]] cuando ya había dudas al respecto.
+## Attributes and Abilities
+[[Kelsier\|Kelsier]] mentions that all obligators are trained to detect emotional [[Allomancy\|Allomancy]], but Arriev is presumably highly skilled in this ability since he stepped in to negotiate with [[Camon\|Camon]] and [[Vin\|Vin]] after they had already aroused suspicion.
 
-## Historia
-Cuando [[Camon\|Camon]] se hace pasar por "lord Jedue" en un intento de timar al [[Ministerio del Acero\|Ministerio del Acero]] con un acuerdo de transporte falso, las negociaciones comienzan con el prelado [[Laird\|Laird]]. Cuando el Ministerio rechaza su oferta, Camon ofrece una alternativa mejor, que Laird pasa a considerar cuando Vin lo [[/wiki/Lat%C3%B3n#Uso alom.C3.A1ntico]]. Más adelante Camon visita el edificio del Cantón de las Finanzas acompañado por [[Vin\|Vin]] y otros miembros de su banda, esperando cerrar el trato con Laird. Sin embargo, Arriev es quien se encuentra con ellos, afirmando que Laird no está disponible en ese momento. Arriev menciona que no es habitual que se reúna con potenciales vendedores, y que es parte del comité que revisaba el (falso) acuerdo con Camon. Vin y Camon se ponen extremadamente nerviosos, puesto que Arriev es claramente más poderoso y sabio que Laird. Vin tiene un mal presentimiento acerca de la situación, especialmente cuando Arriev hace varias preguntas peliagudas. No quería utilizar su [[Alomancia\|alomancia]], pero su preocupación por que Arriev los delatase ante el Cantón de la Inquisición la llevó a utilizar sus habilidades de todos modos. Arriev inmediatamente se vuelve más amable y cierra el trato con Camon, pagándole tres mil [[Arquilla\|arquillas]].
-Tras la reunión, Vin siente que la interacción había sido demasiado fácil. [[Kelsier\|Kelsier]] y [[Dockson\|Dockson]] estaban observando a Camon y ven a Arriev salir del edificio junto a un [[Inquisidor de acero\|inquisidor de acero]] una vez cerrado el acuerdo. Se dan cuenta de que el Ministerio había estado sospechando de Camon y Vin, motivo por el cual Arriev había sido llevado a la negociación: era habilidoso detectando la alomancia emocional. Arriev había fingido su repentino trato amable, y había asumido que el inquisidor sería capaz de recuperar el dinero que había dado a Camon. Arriev y el inquisidor se quedan hablando antes de partir en la dirección en la que se había ido la [[Banda de Camon\|banda de Camon]]. Otros dos espías obligadores son asignados para seguir a Camon y a Vin hasta su guarida. Kelsier y Dockson intervienen, distrayendo al inquisidor y matando a los dos espías. No se sabe qué le pasó a Arriev.
-La experiencia de Vin con Arrie hizo que evitara a los obligadores en la medida de lo posible.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:55, 22 October 2019 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+When [[Camon\|Camon]] posed as "Lord Jedue" in an attempt to scam the [[Steel Ministry\|Steel Ministry]] with a fake transportation deal, he initially negotiated with Prelan [[Laird\|Laird]]. After the Ministry turned him down, Camon offered an even better deal that Laird decided to consider after Vin [[Brass\|Soothed]] him. Camon later visited the Canton of Finance building accompanied by [[Vin\|Vin]] and some of his other crew members, expecting to close the deal with Laird. However, Arriev met with them instead, claiming that Laird was unavailable. Arriev mentioned that he did not usually meet with potential vendors, and that he was a member of the board that reviewed Camon's false deal. Vin and Camon became extremely nervous, as Arriev was clearly more powerful and savvy than Laird. Vin had a bad feeling about the situation, especially after Arriev asked several pointed questions. She did not want to use her [[Allomancy\|Allomancy]], but her worry that Arriev would turn them over to the Canton of Inquisition prompted her to use her abilities anyway. Arriev immediately became more pleasant and closed the deal with Camon, paying him three thousand [[Boxing\|boxings]].
+After the meeting, Vin felt like the interaction had been too easy. [[Kelsier\|Kelsier]] and [[Dockson\|Dockson]] were observing Camon, and saw Arriev exit the bulding with a [[Steel Inquisitor\|Steel Inquisitor]] after the deal was closed. They realized that the Ministry had already been suspicious of Camon and Vin, which is why Arriev was brought into negotiate; he was skilled at detecting emotional Allomancy. Arriev had feigned his suddenly pleasant demeanor, and had assumed that the Inquisitor would be able to retrieve the money given to Camon. Arriev and the Inquisitor conferred before heading in the direction that [[Camon's crew\|Camon's crew]] had gone; two other obligator spies were assigned to track Camon and Vin to their safehouse. Kelsier and Dockson intervened, diverting the Inquisitor and killing the two spies. Arriev's fate is not known.
+Vin's experience with Arriev caused her to avoid obligators as much as possible.
 
 
 
-https://es.coppermind.net/wiki/Arriev
+https://coppermind.net/wiki/Arriev

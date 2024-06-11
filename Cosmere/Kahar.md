@@ -1,44 +1,30 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kahar**|
 |-|-|
-|**Capacidades**|[[Elantrino\|Elantrino]]|
-|**Oficio**|Limpiador|
-|**Residencia**|[[Elantris (ciudad)\|Elantris]]|
-|**Etnia**|[[A%C3%B3nico\|Aónico]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**Abilities**|[[Elantrian\|Elantrian]]|
+|**Profession**|Cleaner|
+|**Residence**|[[Elantris (city)\|Elantris]]|
+|**Ethnicity**|[[Aonic\|Aonic]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
->“*Hace días que no paso hambre, mi señor. Es la sensación más sorprendente del mundo... ni siquiera noto ya el dolor.*”
-\-Kahar, tras descubrir el "secreto" de Raoden"[1]
+>“*I haven't been hungry in days, my lord. It is the most amazing feeling in the world—I don’t even notice the pain anymore.*”
+\-Kahar, after discovering Raoden's "secret"[1]
 
 
-**Kahar** es un [[Elantrino\|elantrino]] en [[Sel\|Sel]] que limpió [[Nueva Elantris\|Nueva Elantris]].
+**Kahar** is an [[Elantrian\|Elantrian]] on [[Sel\|Sel]] who cleaned [[New Elantris\|New Elantris]].
 
-## Apariencia y personalidad
-Es un hombre mayor, de aspecto delgado y encorvado. Aunque la corrupta [[Shaod\|Shaod]] hizo que todos los elantrinos parecieran más viejos, Kahar tiene un aspecto aún más demacrado que la mayoría. Cojea al caminar.
-Es educado y tiene un practicado aire de sumisión. Como muchos elantrinos durante la Shaod, es apático y sufrido, hasta el punto de pensar que podría convertirse en [[Hoed\|hoed]]. Una vez que se le asigna la limpieza de la ciudad, se muestra extremadamente diligente e ingenioso, y se siente muy orgulloso de su trabajo. Es fastidioso y prefiere observar un decoro adecuado.
+## Appearance and Personality
+He is an older man with a thin and stooped appearance. Although the corrupted [[Shaod\|Shaod]] made all Elantrians look older, Kahar has an even more wizened appearance than most. He hobbles when he walks.
+He is polite and has a practiced air of subservience. Like many Elantrians during the Shaod, he is apathetic and suffering, to the point where he thinks he might become [[Hoed\|Hoed]]. Once he is assigned to clean the city, he shows himself to be extremely diligent and resourceful, and he takes great pride in his work. He is fastidious and prefers to observe proper decorum.
 
-## Historia
-Antes de ser tomado por la Shaod, Kahar era un limpiador que fregaba las calles.
-Fue el primer elantrino que se unió a la banda de [[Raoden\|Raoden]] por iniciativa propia. Después de que Raoden salvara a unos cuantos nuevos elantrinos que habían sido arrojados a la ciudad en ruinas, Kahar oyó rumores en las calles de que Raoden tenía un secreto para hacer desaparecer el dolor, y se unió a él con la esperanza de que le permitieran conocer este secreto.
-Raoden encargó a Kahar la limpieza de la antigua capilla que su equipo utilizaba como base. Kahar se dedicó rápidamente a esta tarea y se dio cuenta de que aún conservaba sus habilidades de limpieza. A pesar de que el fango que cubría la ciudad era aceitoso y difícil de limpiar, Kahar fue capaz de dejar la capilla impecable, incluso redescubrió los relieves que decoraban las paredes. Mientras trabajaba en la capilla descubrió el "secreto" para no convertirse en hoed; distraerse con el trabajo le ayudaba a olvidar el dolor.
-Raoden y Kahar hablaron entonces de la importancia de eliminar la suciedad de las calles y los edificios circundantes, y Kahar no se amilanó ante la envergadura de la tarea. Se le asignó un pequeño equipo de ayudantes, y Raoden trató de conseguirle suministros de limpieza adicionales siempre que pudo. Kahar lavó y fregó incansablemente Nueva Elantris a medida que se expandía. Limpiaba la ciudad casi sin ayuda de nadie, y el trabajo seguía manteniendo a raya su dolor.
-Durante la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]], soldados [[Derethi\|derethi]] y monjes [[Dakhor\|Dakhor]] atacaron Nueva Elantris. [[Galladon\|Galladon]] vio que Kahar había perdido un brazo y ambas piernas en la lucha. No está claro si Kahar murió a causa de sus heridas o si sobrevivió para ver la restauración de Elantris.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 00:43, 23 de abril de 2021 (UTC)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## History
+Before being taken by the [[Shaod\|Shaod]], Kahar was a cleaner who washed streets.
+He was the first Elantrian to join [[Raoden\|Raoden's]] band on his own initiative. After Raoden saved a few new Elantrians who had been thrown into the ruined city, Kahar heard rumors on the streets that Raoden had a secret to make the pain go away, and joined him hoping to be let in on this secret.
+Raoden tasked Kahar with cleaning the former chapel that his team was using as a base. Kahar quickly threm himself into this task, and realized that he still retained his cleaning skills. Despite the fact that the slime covering the city was oily and difficult to scrub away, Kahar was able to make the chapel look spotless, even rediscovering the reliefs which decorated the walls. While working on the chapel he discovered the "secret" to not becoming Hoed; being distracted by work helped him forget the pain.
+Raoden and Kahar then discussed the importance of removing the filth from the streets and surrounding buildings, and Kahar was not daunted by the scope of the task. He was given a small crew of assistants, and Raoden tried to procure additional cleaning supplies for him when he could. Kahar tirelessly washed and scrubbed New Elantris as it expanded. He cleaned the city almost single-handedly, and the work continued to keep his pain at bay.
+During the [[Invasion of Arelon\|Invasion of Arelon]], [[Derethi\|Derethi]] soldiers and [[Dakhor\|Dakhor]] monks attacked New Elantris. [[Galladon\|Galladon]] saw that Kahar had lost an arm and both legs in the fighting. It is unclear if Kahar died from his injuries or if he survived to see the restoration of Elantris.
 
 
 
-https://es.coppermind.net/wiki/Kahar
+https://coppermind.net/wiki/Kahar

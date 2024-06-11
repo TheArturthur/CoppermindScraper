@@ -1,47 +1,23 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Larstaísmo**|
+|**Larstaism**|
 |-|-|
-|**Relacionado con**|Scadrial clásico|
-|**Tipo**|Religión|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|Classical Scadrial|
+|**Type**|Religion|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **larstaísmo** fue una religión en el [[Scadrial cl%C3%A1sico\|Scadrial clásico]]. El pueblo de Larsta fue desterrados de su tierra, la cual tenía muchas tradiciones y normas complejas. En respuesta, hicieron su religión lo más simple posible. [[Mare\|Mare]] fue una creyente de la fe larsta, convirtiéndose a ella después de que [[Sazed\|Sazed]] se la predicara.
-Sazed evalúa el larstaísmo para ver si es verdad durante más tiempo que otras religiones pre-Ascensión porque no parecía tener preceptos ilógicos o contradictorios. Él utiliza las descripciones del larstaísmo sobre las plantas y animales del Scadrial pre-Ascensión, como las , para modelar nueva flora.
+**Larstaism** was a religion from [[Classical Scadrial\|Classical Scadrial]]. The Larsta people were banished from their land, which had held many complex traditions and rules. In response, they made their religion as simple as possible. [[Mare\|Mare]] was a follower of the Larsta faith, converting to it after [[Sazed\|Sazed]] had preached it to her.
+Sazed evaluates Larstaism for truth longer than other pre-Ascension religions because it did not seem to have any illogical or contradictory tenets. He uses their descriptions of Scadrial's pre-ascension plants and animals, such as the [[Marewill flowers\|Marewill flowers]], to model new flora.
 
-## Creenciass
-La simplicidad era un principio fundamental de la fe larsta, y se enfocaba en la belleza simple de la naturaleza. Creían en "buscar lo divino" a través del arte y la creación en lugar de responder preguntas existenciales o discutir sobre la vida después de la muerte. Dado que no todo el mundo podía crear arte, la sociedad larsta donaba dinero a monjes talentosos para que pudieran pintar, esculpir y escribir poesía que luego beneficiaría a toda la sociedad. -- Creían que el arte los acercaba a la comprensión de la divinidad. Las flores eran un tema recurrente en la poesía larsta.
-El larstaísmo tenía una jerarquía religiosa, y los sacerdotes larsta escribían poesía sobre la belleza del mundo mientras meditaban. Los materiales para oración, escrituras, notas y escritos también se utilizaban en la religión larsta.
-Los matrimonios larsta requerían solamente una declaración de amor ante un sacerdote local, y no creían en el divorcio.
-Se discute en las *[[Creencias renacidas\|creencias renacidas]]* de [[Armon%C3%ADa\|Armonía]]. La boda de [[Wax\|Wax]] y [[Steris\|Steris]] se basa en prácticas de la fe larsta, como la de [[Vin\|Vin]] y [[Elend\|Elend]].
+## Beliefs
+Simplicity was a key tenet of the Larsta faith, and it focused on the simple beauty of nature. They believed in "seeking the divine" through art and creation rather than on answering existential questions or discussing the afterlife. Since not everyone could create art, Larsta society donated money to talented monks so that they would be able to paint, sculpt and write poetry which would then benefit the entire society -- they believed art brought them closer to understanding divinity. Flowers were a subject of Larsta poetry.
+Larstaism had a religious hierarchy, and Larsta priests wrote poetry about the world's beauty while they meditated. Prayer materials, scriptures, notes and writings were also used in the religion.
+Larsta weddings required only a declaration of love before a local priest, and they did not believe in divorce.
+It is discussed in [[Harmony\|Harmony's]] *[[Beliefs Reborn\|Beliefs Reborn]]*. [[Wax\|Wax]] and [[Steris\|Steris's]] wedding ceremony is based on practices of the Larsta faith, as is [[Vin\|Vin]] and [[Elend\|Elend's]].
 
->“* Os lo advierto, el juramento de amor de Larsta es vinculante. En su cultura no conocían ninguna forma de divorcio.*”
-\- Sazed mientras casa a Vin y Elend
-
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“* "Be warned, the Larsta love oath is binding. They knew no form of divorce in their culture."*”
+\- Sazed while marrying Vin and Elend
 
 
 
-https://es.coppermind.net/wiki/Larsta
+
+https://coppermind.net/wiki/Larsta

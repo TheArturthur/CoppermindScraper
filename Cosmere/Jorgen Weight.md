@@ -1,213 +1,199 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Jorgen Weight**|
 |-|-|
 ||
-|**Familia**|
-|**Padres**|[[Algernon Weight\|Algernon]] y [[Jeshua Weight\|Jeshua]]|
-|**Capacidades**|[[Cit%C3%B3nica (habilidad)\|Citónicas]]|
-|**Títulos**|Identificador: Caracapullo, Jefe de escuadrón del Escuadrón Cielo, vicealmirante|
-|**Oficio**|Piloto de la FDD|
-|**Grupo**|[[FDD\|FDD]], [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], [[Escuadr%C3%B3n Contracorriente\|Escuadrón Contracorriente]]|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
+|**Family**|
+|**Parents**|[[Algernon Weight\|Algernon]] & [[Jeshua Weight\|Jeshua]]|
+|**Abilities**|[[Cytonics\|Cytonics]]|
+|**Titles**|Callsign: Jerkface, Flightleader of Skyward Flight, Vice Admrial|
+|**Profession**|DDF pilots|
+|**Groups**|[[DDF\|DDF]], [[Skyward Flight\|Skyward Flight]], [[Riptide Flight\|Riptide Flight]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]*, *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*Puedes insultarme todo lo que quieras, amenazarme, lo que sea. Mientras vueles como lo hiciste ayer, protegiendo a los demás, te quiero en mi escuadrón.*”
-\-Jorgen a Spensa sobre por qué no la delató[2]
+>“*You can swear at me all you want, threaten me, whatever. So long as you fly like you did yesterday, protecting the others, I want you on my team.*”
+\-Jorgen to Spensa on why he didn’t turn her in[2]
 
 
-**Jorgen Weight**, identificador *Caracapullo*, es un piloto de la [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] y líder de la [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]]. Después de graduarse en la escuela de vuelo, se une inicialmente al [[Escuadr%C3%B3n Contracorriente\|Escuadrón Contracorriente]] antes de volver a asumir el papel de líder de vuelo cuando se reforma el Escuadrón Cielo.
+**Jorgen Weight**, callsign **Jerkface**, is a pilot in the [[Defiant Defense Force\|Defiant Defense Force]] and [[Skyward Flight\|Skyward Flight's]] flight leader. After graduating flight school, he initially joins [[Riptide Flight\|Riptide Flight]] before taking back the flight leader role when Skyward Flight is reformed.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Volar]] 
-2. [[#Cit.C3.B3nica]] 
-
-
-3 Historia. [[#Historia]] 
-
-3. [[#Experimentaci.C3.B3n]] 
-3. [[#Alcance Solar]] 
-3. [[#Ayudando a Alanik]] 
-3. [[#ReAlba]] 
-3. [[#Vuelta a Detritus]] 
-3. [[#Tratos con los Kitsen]] 
-3. [[#La Lucha por Orilla Perpetua]] 
-3. [[#Ascenso]] 
+2. [[#Flying]] 
+2. [[#Cytonics]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+3 History. [[#History]] 
+
+3. [[#Experimentation]] 
+3. [[#Sunreach]] 
+3. [[#Helping Alanik]] 
+3. [[#ReDawn]] 
+3. [[#Back to Detritus]] 
+3. [[#Dealings with the Kitsen]] 
+3. [[#The Fight for Evershore]] 
+3. [[#Promotion]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Spensa]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
->“*Se supone que tenemos que buscar signos de presencia krell, no dedicarnos a rituales juveniles de iniciación. Esperaba más de todos vosotros.*”
-\-Jorgen al Escuadrón Pesadilla cuando trataron de hacer bromas de iniciación.[2]
+>“*We are supposed to be watching for signs of Krell, not engaging in juvenile initiation rituals. I expected better of you men and women.*”
+\-Jorgen to the Nightmare flight when they tried the initiation pranks.[2]
 
-Jorgen es alto, tiene la piel morena y el pelo corto y rizado y, según Spensa, su aspecto "resalta por su aire de niño bonito". Tiene los ojos de color marrón oscuro con toques de gris claro en el centro.
-Es inteligente y se ha preparado para el ejército toda su vida y es muy diligente y trabajador para lograrlo. Jorgen aún está aprendiendo a convertirse en un líder innato, pero se preocupa por su equipo y por hacer lo correcto.
-Se siente atrapado con las opciones de vida que le ha trazado su familia y es tan responsable que las seguirá aunque no sea lo que él personalmente quiera.
+Jorgen is tall, has brown skin and short curly hair, and according to Spensa, looks "distinctive in a kind of baby-faced, pretty-boy way." He has eyes that are deep brown with hints of light gray at the centers.
+He is smart and has prepared for military all his life and is very diligent and hard working for it. Jorgen is still learning how to become a natural leader but does care for his team and doing the right thing.
+He feels trapped with the life choices that have been drawn for him by his family and is so responsible he will follow them even if it is not what he personally wants.
 
-## Atributos y habilidades
+## Attributes and Abilities
  
-### Volar
-Jorgen es muy buen piloto. No sólo porque ha entrenado desde los catorce años, sino porque le gusta y es muy diligente a la hora de formarse. Demuestra su valía desde su primer vuelo en la escuela.
-También es inteligente en batalla, y piensa los movimientos antes de actuar. No tiene problema en decir lo que piensa para el transcurso del combate, pero hará lo que se le ordene.
-Es capaz de mantener la calma y evaluar la situación incluso en batallas muy tensas, se preocupa y trata de empujar a su equipo hacia la victoria y la seguridad. Ha estudiado a los Krell y siente curiosidad y preocupación por la estrategia militar de ambos bandos.
+### Flying
+Jorgen is a very good pilot. Not only because he has trained since being fourteen, but because he does like it and is very diligent in his training. He proves himself since their first flight at school.
+He is also savvy in battle, and thinks through the moves before acting. He doesn’t have a problem saying what he thinks for the course of battle, but will do as commanded.
+He is able to keep calm and assess situations even under very tense battles, he does care and try to push his team to victory and safety. He has studied the Krell and is curious and concerned on the military strategy of both sides.
 
-### Citónica
+### Cytonics
 >“*I’d spent so long wishing I could keep up with Spensa, with Alanik, wishing I wasn’t so hopeless at using my powers - wishing I could harness them to protect the people I loved. But somehow I’d still never made this connection. I was dangerous.*”
 \-Jorgen thinking about his cytonic abilities[11]
 
 
-Jorgen es un citónico. Al principio era incapaz de utilizar sus habilidades, por falta de destreza y precisión. Es capaz de comunicarse, tras un poco de práctica, con los taynix y convencerles de que utilicen sus habilidades. Es capaz de sentir con precisión a otros citónicos y descubre las colonias de taynix en las cavernas de Detritus escuchando sus vibraciones citónicas. [[Becca Nightshade\|la yaya]] y Alanik le ayudan a aprender a meditar y a profundizar su conexión con la ninguna-parte. [[Juno\|Juno]], leyendo viejos textos que los [[Kitsen\|kitsen]] citónicos dejaron, ayuda a Jorgen a controlar las hojas mentales. Se vuelve lo suficientemente hábil con ellas como para destruir otras naves mientras vuela, una técnica peligrosa que requiere habilidad. Puede controlar hojas mentales individuales con gran precisión y curvar una hoja mental para matar a un oponente a cubierto. También es capaz de utilizar sus poderes citónicos para comunicarse telepáticamente con cualquier persona, independientemente de su capacidad citónica. Según los registros kitsen, la habilidad era muy avanzada y muy pocos citónicos la conseguían. Aunque es capaz de utilizar estas habilidades, tiene menos práctica cuando se mueve en la ninguna-parte, y [[Spensa\|Spensa]] describe su proyección citónica como ruidosa y poco refinada, aunque poderosa.
+Jorgen is a Cytonic. Originally he was unable to use his abilities, lacking skill and precision. He is able to communicate, after a little practice, with the taynix and convince them to use their abilities. He is able to sense other cytonics with precision, and discovers the taynix colonies in the caverns of Detritus by hearing their cytonic vibrations. [[Becca Nightshade\|Gran-Gran]] and Alanik help him learn to meditate and deepen his connection to the nowhere. [[Juno\|Juno]], reading from old texts that the [[Kitsen\|kitsen]] cytonics left, helps Jorgen control mindblades. He becomes capable enough with them to destroy other ships while flying, a dangerous technique that requires skill. He can control individual mindblades with great precision, able to curve a mindblade to kill an opponent behind cover. He also is able to use his cytonic powers to communicate telepathically with anyone, regardless of their cytonic ability. According to the kitsen records, the ability was very advanced and very few cytonics achieved it. Though he is able to use these abilities he is less practiced when moving in the nowhere, and [[Spensa\|Spensa]] describes his cytonic projection as loud and unrefined, though powerful.
 
-## Historia
-La familia de Jorgen poseía tres cazas privados, y Jorgen llevaba entrenando en ellos desde los catorce años. Tenía casi mil horas en la cabina. Gracias a ello, no sólo consiguió el pase directo a la [[Escuela de Vuelo\|Escuela de Vuelo]], sino que fue nombrado jefe de escuadrón.
-Desde el primer día, Jorgen se tomó el entrenamiento muy en serio e intentó intimidar al equipo, queriendo que siguieran sus órdenes. No fue bien recibido por el equipo y llevó a [[Spensa\|Spensa]] a una actitud de defensa agresiva. Ella le dio el identificador de "Caracapullo", que tuvo aceptación entre el resto del equipo.
-Durante sus primeros días y batallas, Jorgen lideró el equipo con la cabeza fría, sin embargo estaba muy frustrado por la falta de respeto que recibía del resto de miembros, especialmente de [[Spensa\|Spensa]], y se negó a aceptar el identificador de Caracapullo. Intentó reconfortar al equipo dando un discurso tras la muerte de Bim y Marea, que no fue muy bueno y que había sacado de un libro.
-Después de la batalla, [[Spensa\|Spensa]] lo encontró repasando una y otra vez la simulación de esa batalla, donde intentó varias veces encontrar la forma en que podría haber salvado a Marea. Continuó dando consejos a todos los de su Escuadrón, aunque no siempre se los tomaran del modo correcto.
-En un vuelo posterior, la compañera de ala de Spensa, [[Arcada\|Arcada]], muere. Se estrella porque no quiso eyectarse. Spensa anuncia que le dará un entierro digno de un piloto y es seguida por Jorgen, que se la lleva en su coche aerodeslizador. Trajo los materiales para una pira funeraria. Recuperaron la insignia de Arcada para dársela a sus padres y quemaron su cuerpo. Jorgen también ayudó a [[Spensa\|Spensa]] a coger el propulsor para su nave. [[Peonza\|Peonza]] contó al resto de la tripulación lo que hicieron por Arcada y Jorgen fue más respetado después de eso.
-Al disminuir el número de su escuadrón, con la marcha de [[Arturo M%C3%A9ndez\|Arturo]], [[Nedd Strong\|Nedd]] y [[Kimmalyn\|Kimmalyn]], se les pidió que se unieran a otros escuadrones. Esta fue la primera vez que tuvo que utilizar su identificador de Caracapullo. Después de que las otras tripulaciones trataran de llamarle la atención por ser un "engreído", recibió el apoyo tanto de [[FM\|FM]] como de [[Peonza\|Peonza]] que le llamaron un gran jefe de escuadrón.
-Sólo Jorgen y FM del Escuadrón Cielo se graduaron. Después de una ceremonia muy corta, fueron enviados con el resto de los pilotos a asegurar un Astillero en caída que, si era rescatado, podría dar suficientes piezas para construir una flota ganadora. Esto, sin embargo, era una trampa y no sólo fueron superados en número en la batalla, sino que la ciudad de [[Alta\|Alta]] y [[Caverna %C3%8Dgnea\|Caverna Ígnea]] estaban desprotegidas, objetivo de la destrucción.
-Intentó volver a tiempo para salvar a [[Spensa\|Spensa]] pero estaba demasiado lejos. Consiguió sobrevivir al combate y se convirtió en piloto de pleno derecho de la FDD.
-Después de hablar de sus habilidades [[Cit%C3%B3nica (habilidad)\|citónicas]] con [[Becca Nightshade\|la yaya de Spensa]], Jorgen viajó por debajo de las [[Cavernas inferiores\|cavernas inferiores]] con [[Nedd Strong\|Nedd Strong]] y [[Arturo M%C3%A9ndez\|Arturo Méndez]], ya que escuchó una débil música procedente de ellas con sus sentidos citónicos. Después de buscar durante varios días, encontró una caverna oculta llena de [[Taynix\|taynix]].
+## History
+Jorgen’s family owned three private fighters, and Jorgen had been training on them since he was fourteen. He had nearly a thousand hours in the cockpit. Because of this, not only did he have direct pass to [[Flight School\|Flight School]], but he was made flightleader.
+Since the first day, Jorgen took their training very seriously and tried to bully the team around, wanting them to follow his orders. It was not well received by the team and brought [[Spensa\|Spensa]] to a defensive aggressive attitude. She gave him the Callsign of “Jerkface” which gained traction with the rest of the team.
+During his first days and battles, Jorgen led the team with a cool head, however he was very frustrated with the lack of respect he received from his team, especially [[Spensa\|Spensa]], and refused to accept the Callsign of Jerkface. He tried to comfort the team by giving a speech after Bim and Morningtide died, which was not a very good one and taken off a book.
+After the battle, [[Spensa\|Spensa]] found him going over and over through the simulation of that battle, where he tried several times to find a way he could’ve saved Morningtide. He continued to give advice to all his flight, even if they didn’t always take it the right way.
+In a later flight, Spensa's wingmate, [[Hurl\|Hurl]], dies. She crashes because she was unwilling to eject. Spensa announced she would give her a proper pilot’s burial and is followed by Jorgen who takes her in his hover-car. He brought the materials for a funeral pyre. They recovered Hurl's pin to give to her parents and burned Hurl's body. Jorgen also helped [[Spensa\|Spensa]] with taking the booster for her ship. [[Spin\|Spin]] told the rest of the crew about what they did for Hurl and Jorgen was better respected after that.
+As their flight numbers lowered, with the departure of [[Arturo Mendez\|Arturo]], [[Nedd Strong\|Nedd]] and [[Kimmalyn\|Kimmalyn]], they were asked to join with other flights. This was the first time he had to use his callsign of Jerkface. After the other crews tried to call him out for being “smug”, he received the support from both [[FM\|FM]] and [[Spin\|Spin]] who called him a great flightleader.
+Only Jorgen and FM from Skyward flight graduated. After a very short graduation, they were sent with the rest of the pilots to secure a falling shipyard which, if rescued, could give enough parts to build a winning fleet. This however was a trap and not only were they outnumbered in battle, but the city of [[Alta\|Alta]] and [[Igneous Cavern\|Igneous Cavern]] were unprotected, targeted for destruction.
+He tried to return on time to save [[Spensa\|Spensa]] but he was too far away. He managed to survive the fight and became a full pilot of the DDF.
+After discussing his [[Cytonics\|cytonic]] abilities with [[Becca Nightshade\|Spensa's Gran-Gran]], Jorgan traveled below the [[Deep caverns\|deep caverns]] with [[Nedd Strong\|Nedd Strong]] and [[Arturo Mendez\|Arturo Mendez]], as he heard a faint music from them with his cytonic senses. After searching for several days, he found a hidden cavern full of [[Taynix\|taynix]].
 
-### Experimentación
-Cuando Jorgen encontró la colonia de taynix, los recogió en cajas y los llevó a la [[Plataforma Primaria\|Plataforma Primaria]]. Cobb le transmitió información de Spensa y le dijo a Jorgen que las babosas eran hipermotores. Jorgen, [[Freya Marten\|FM]], y [[Rodge McCaffery\|Gali]] se encargarían de averiguar cómo hacerlos funcionar. Los taynix amarillo y azul escapaban rutinariamente de sus cajas, utilizando sus habilidades citónicas para teletransportarse fuera. Al principio, Jorgen no tuvo cuidado con los taynix y cometió el error de apretar demasiado a uno de los rojos y negros. El taynix, más tarde llamado [[Babosa Letal\|Babosa Letal]], lo acuchilló con lo que probablemente era una [[Hoja mental\|hoja mental]] e infligió a Jorgen docenas de cortes superficiales en la cara y los brazos.
-Tras visitar la enfermería y dar un informe a Cobb, Jorgen y FM fueron enviados a hablar con [[Alanik\|Alanik]] cuando fue despertada por los médicos. FM se encargó de la mayor parte de la conversación e hizo progresos, aunque la madre de Jorgen, Jeshua, entró y arruinó las negociaciones con sus duras exigencias. Alanik utilizó sus habilidades citónicas para teletransportarse lejos, pero hablando en la mente de Jorgen mientras se iba. Le dijo que era poderoso y que no debía dejar que otros lo controlaran.
-Jorgen realizó nuevos experimentos con sus habilidades citónicas, pero atrajo la atención de la Supremacía, que decidió acabar con Detritus ahora que podían escapar. Trasladaron su mayor nave de combate a su posición, armada con un cañón para el bombardeo planetario. Jorgen, Gali, FM y otros escuadrones se enfrentaron a los krell, y Jorgen se comunicó con el taynix del caza estelar de FM para permitirle teletransportarse cerca del cañón. Sin embargo, pronto se vio rodeada por los krell y se vio obligada a retirarse. Jorgen la teletransportó demasiado lejos, dejándola lejos de la batalla. Cobb ordenó la retirada cuando el cañón empezó a disparar. El Cuerpo de Ingenieros consiguió levantar el escudo de Detritus, manteniéndolos a salvo del acorazado de la Supremacía. Jorgen y el resto del Escuadrón Cielo se reunieron con FM lejos de la batalla, incapaces de atravesar el escudo con métodos ordinarios. Cuando los taynix se calmaron, el Escuadrón Cielo tocó alas y Jorgen los teletransportó al interior del escudo para ponerlos a salvo.
+### Experimentation
+After Jorgen found the colony of taynix, he collected them in crates and brought them to [[Platform Prime\|Platform Prime]]. Cobb relayed information from Spensa, and told Jorgen that the slugs were hyperdrives. Jorgen, [[Freyja Marten\|FM]], and [[Rodge McCaffery\|Rig]] were set to the task of figuring out how to make them work. The yellow and blue taynix routinely escaped from their crates, using their Cytonic abilities to teleport out. Jorgen was initially not gentle with the taynix, and made the mistake of squeezing one of the red and black ones to hard. The taynix, later named [[Boomslug\|Boomslug]], slashed him with what was likely a [[Mindblade\|mindblade]] and inflicting Jorgen with dozens of shallow cuts across his face and arms.
+After visiting the infirmary and giving a report to Cobb, Jorgen and FM were sent to talk with [[Alanik\|Alanik]] when she was woken up by the doctors. FM did most of the talking, and made progress, though Jorgen’s mother, Jeshua, came in and ruined the negotiations with her harsh demands. Alanik used her cytonic abilities to teleport away, but speaking into Jorgen’s mind as she left. She told Jorgen that he was powerful and that he shouldn’t let others control him.
+Jorgen conducted furthur experiments with his cytonic abilities, but drew the attention of the Superiority, who decided to wipe out Detritus now that they could potentially escape. They moved their biggest battleship into position, armed with a cannon for planetary bombardment. Jorgen, Rig, FM, and several other flights engaged the Krell, and Jorgen communicated with the taynix in FM’s starfighter to allow her to teleport close to the cannon. She was soon swarmed by Krell however, and was forced to retreat. Jorgen teleported her too far away, leaving her far from the battle. Cobb called the retreat as the cannon began to fire. The Engineering Corps managed to get Detritus’ shield up, keeping them safe from the Superiority’s battleship. Jorgen and the rest of Skyward Flight met up with FM far from the battle, unable to get through the shield using ordinary methods. After the taynix had calmed down, Skyward Flight touched wings with each other and Jorgen teleported them inside the shield to safety.
 
-### Alcance Solar
-Después de que Gali consiguiera que el comunicador funcionara, Jorgen utiliza su habilidad para que el taynix abra una comunicación con [[Cuna\|Cuna]]. Ellos y Cobb hablaron, Cuna dijo que estaban atrapados en el puesto de investigación de [[Alcance Solar (estaci%C3%B3n)\|Alcance Solar]]. Le dieron las coordenadas de la FDD, que aparecieron en la mente de Jorgen. La comunicación terminó, y Joshua quiso hablar con la Asamblea Nacional. Sin embargo, las coordenadas se desvanecían de la mente de Jorgen, y Cobb le dijo a él y al Escuadrón Cielo que partieran inmediatamente hacia Alcance Solar.
-Tras preparar sus naves, el Escuadrón Cielo tocó alas y Jorgen los teletransportó a Alcance Solar utilizando las coordenadas de Cuna. Fueron recibidos por un enorme monstruo espacial que Cuna identificó como una [[Vaina estelar cicl%C3%B3pea\|vaina estelar ciclópea]]. Era una enorme bestia unida a un enorme trozo de roca, con largos tentáculos que se extendían hacia el exterior. Las naves krell rodearon la vaina estelar y atacaron al Escuadrón Cielo. Tras usar su PMI, Jorgen se teletransportó usando uno de los taynix, lo que hizo que los krell le identificaran como el citónico y le apuntaran. Intentó teletransportarse de nuevo, pero acabó accidentalmente cerca de la boca de la vaina estelar. Consiguió teletransportarse fuera de su nave y dentro de la estación justo cuando su nave volaba por los aires. Aunque estaba a salvo, el resto del escuadrón pensó que estaba muerto.
-Branquia teletransportó a FM a la estación, y ella y Jorgen tuvieron un alegre reencuentro. Los sistemas de soporte vital de la estación empezaron a fallar, y Cuna y Jorgen dijeron que tendrían que huir de vuelta a Detritus y volver a por los demás más tarde. FM insistió en que no podían abandonarlos, y le dijo a Jorgen que enviara imágenes de los miembros del Escuadrón Cielo a los taynix. Jorgen así lo hizo, y cada babosa se teletransportó y retornó con un miembro del escuadrón. Cuando el sistema de soporte vital falló, todos se apiñaron y Jorgen los teletransportó lejos.
-Llegaron a Detritus y fueron recibidos por un sorprendido Cobb. Después, Jorgen subió a la sala de mando con Cobb para informarles.
+### Sunreach
+After Rig got the FTL communicator to work, Jorgen uses his ability to get the taynix to open up a communication to [[Cuna\|Cuna]]. They and Cobb talked, Cuna saying that they were trapped on the research outpost of [[Sunreach (station)\|Sunreach]]. They gave the DDF coordinates, which appeared in Jorgen’s mind. The communication ended, and Joshua wanted to discuss with the National Assembly. The coordinates were fading from Jorgen’s mind however, and Cobb told him and Skyward Flight to leave immediately for Sunreach.
+After prepping their ships, Skyward Flight touched wings, and Jorgen teleported them to Sunreach using Cuna's coordinates. They were greeted by an enourmous space monster which Cuna identified as a [[Mammoth starpod\|mammoth starpod]]. It was a huge beast attached to a enourmous chunk of rock, with long tentacles extending outward. Krell ships came around the starpod, and engaged Skyward Flight. After using his IMP, Jorgen teleported away using one of the taynix, which caused the Krell to identify him as the cytonic and target him. He tried to teleport again, but accidentally ended up close to the starpod’s mouth. He managed to teleport out of his ship and into the station just as his ship was blown up. Though he was safe, the rest of the flight thought him to be dead.
+Gill teleported FM into the station, and she and Jorgen had a joyful reunion. The station’s life support systems began to fail, and Cuna and Jorgen said they would have to flee back to Detritus and come back for the others later. FM insisted they couldn’t abandon them, and told Jorgen to send images of Skyward Flight’s members to the taynix. Jorgen did so, and each slug teleported away and returned with a member of the flight. As the life support system failed, they all huddled together and Jorgen teleported them away.
+They arrived back at Detritus, and were greeted by a very surprised Cobb. Afterward, Jorgen went up to the command room with Cobb for a debriefing.
 
-### Ayudando a Alanik
->“*Bueno, creo que serás bienvenida. Supongo que el Alto Mando querrá hablar contigo otra vez.*”
-\-Jorgen hablando con Allanik de manera citónica[32]
-
-
->“*Bien. De verdad creo que todos nos beneficiaríamos de una colaboración. A mí me vendría bien un poco de entrenamiento en la citónica, por si no te habías fijado.*”
-\-Jorgen a Alanik[33]
-
-Cuando Alanik se acercó a él cítonicamente, la mente de Jorgen y la de ella se conectaron, dándole a Alanik la llave cítonica y permitiéndole hipersaltar a Detritus. Jorgen y FM se reunieron con ella, revelándole sin querer que los taynix son hipermotores. Jorgen convenció a Alanik de que necesitaba reunirse con Jeshua y Cobb, ya que Jorgen no tenía autoridad para ayudarla adecuadamente. Una vez en la sala de reuniones, Cobb y Jeshua no pudieron ponerse de acuerdo sobre quién tenía el mando sobre una alianza con Alanik y su facción política. Jorgen se sintió agradecido cuando Alanik fingió que ya sabía lo de los taynix, en lugar de enterarse por él.. Cuando a Alanik le dieron alojamiento a la espera de la decisión, Jorgen y otros miembros del Escuadrón Cielo fueron a visitarla. Charlaron amigablemente, y Cobb entró para decirles que la petición de Alanik había sido denegada. Dijo que tenía las manos atadas. Les dijo que no podía ordenarles oficialmente que se marcharan, pero insinuó que quería que lo hicieran de todos modos. Jorgen no se dio cuenta de inmediato, lo que frustró a Cobb. Se dirigieron al hangar, y Jorgen consiguió que pasaran por delante del personal de mantenimiento que intentó detenerlos. Prepararon sus cazas y volaron hacia el cielo. Jeshua les avisó por radio de que serían considerados desertores si se marchaban, pero lo hicieron de todos modos, y Alanik los hipersaltó hasta [[ReAlba (planeta)\|ReAlba]].
-
-### ReAlba
->“*Nuestro objetivo principal es hacer que la nave de transporte aterrice y liberar a los prisioneros UrDail que lleva. El objetivo secundario es reconquistar la base. Escuadrón Cielo, desplegaos y avanzad hacia el... árbol gigante.*”
-\-Jorgen al Escuadrón Cielo[36]
+### Helping Alanik
+>“*I mean, I think you’re welcome to come back. I’m sure Command would like to speak with you again.*”
+\-Jorgen speaking with Alanik cytonically[33]
 
 
-Al llegar a las afueras de Hueco, Jorgen se enteró por Alanik de la existencia de ReAlba. Persiguieron al transporte de la Supremacía en el que viajaban los aliados de Alanik, el Escuadrón Cielo enfrentándose a los pilotos de la Unidad. Con Jorgen y los demás conteniendo a los pilotos enemigos, pudieron derribar el transporte y ponerlo a salvo con lanzas de luz.
-Tras realizar un hipersalto a otro lugar para que los prisioneros de la Independencia pudieran preparar sus cazas, Jorgen y el Escuadrón Cielo se enfrentaron a más naves de la Unidad. Con el tiempo, se retiraron a [[Hoja Errante\|Hoja Errante]], una plataforma armada flotante. Jorgen y los demás usaron su taynix para teletransportarse a sí mismos y a los pilotos de la Independencia por debajo de las torretas. Llegaron sanos y salvos al hangar mientras Alanik se batía en duelo con [[Quilan\|Quilan]]. Una vez que Alanik llegó a la Plataforma, Jorgen y el Escuadrón Cielo se presentaron a los pilotos de la Independencia.
+>“*Good, I really think we can all benefit from working together. I could use some coaching in cytonics, if you haven’t noticed.*”
+\-Jorgen to Alanik[33]
 
->“*Los otros pilotos son seres humanos. Y acabáis de dejarlos sin una herramienta que podría servirles para sobrevivir, FM. Además, el hecho de que las babosas os lo hayan permitido no es nada bueno. Si obedecen a Alanik, a quien no conocen de nada, significa que los citónicos enemigos podrían utilizar la misma táctica contra nosotros.*”
-\-Jorgen[38]
+When Alanik reached out to him cytonically, Jorgen’s and her mind connected, giving Alanik the cytonic key and letting her hyperjump to Detritus. Jorgen and FM met with her, inadvertently revealing to her that the taynix are hyperdrives. Jorgen convinced Alanik that she needed to meet with Jeshua and Cobb, since Jorgen didn’t have the authority to help her properly. Once in the meeting room, Cobb and Jeshua couldn’t agree on who had command over an alliance with Alanik and her political faction. Jorgen was grateful when Alanik pretended she already knew about the taynix, instead of learning about them from him.. When Alanik was given quarters to await the decision, Jorgen and other members of
+Skyward Flight came to visit her. They chatted amiably, and Cobb came in to tell them that Alanik’s request had been denied. He said that his hands were tied. He told them that he couldn’t officially order them to leave, but heavily hinted that he wanted them to anyway. Jorgen didn’t immediately catch on, frustrating Cobb. They went to the hangar, Jorgen getting them past the maintenance who tried to stop them. They scrambled their fighters and flew out into the sky. Jeshua radioed them that they would be considered deserters if they left, but they left anyway, Alanik hyperjumping them to [[ReDawn (planet)\|ReDawn]].
 
-Jorgen sintonizó su radio en una emisión de [[Nanalis\|Nanalis]] para la población [[UrDail\|UrDail]], y sonó la voz de [[Rinakin\|Rinakin]], aliándose a sí mismo y a la facción Independencia con Unidad. Alanik argumentó que Rinakin estaba siendo forzado a decir esas cosas, y Jorgen estuvo mayoritariamente de acuerdo con ella. Jorgen y los demás exploraron la transporte de la Supremacía, y encontraron un taynix azul y verde con el poder de inhibir la citónica. Alanik y Jorgen charlaron citónicamente, hablando de los poderes de Jorgen y de su relación con Spensa. FM y Alanik fueron a recuperar a Gali, y volvieron con varios taynix tras enterarse de que la Asamblea Nacional iba a entregarlos a la Supremacía. Jorgen estaba furioso, diciendo que habían robado valiosos activos de la FDD y que habían puesto en peligro a los pilotos al robar una herramienta útil. Tras su discusión con FM, Jorgen y Gali trabajaron para interconectar a Babosa Explosiva con el sistema de armas de la Hoja Errante, y la utilizaron para disparar hojas mentales gigantes.
-
->“*realidad. Nos obligaron a retirarnos, a vivir bajo tierra. Desde entonces intentan exterminarnos. Pero seguimos aquí, y seguimos luchando.*”
-\-Jorgen broadcasting to the UrDail[42]
-
-Jorgen, Gali y Alanik hicieron un hipersalto con la Hoja Errante hasta un punto fuera de la Torre, donde Rinakin estaba retenido. Jorgen y los demás pilotos despegaron sus naves, utilizando el taynix para hipersaltar fuera del alcance de las torretas de la plataforma. Quilan y sus citónicos llegaron con una gran fuerza para intentar inhibir Hoja Errante, y Jorgen y el Escuadrón Cielo los mantuvieron ocupados mientras Alanik y Arturo rescataban a Rinakin. Cuando volvieron con éxito y se unieron a la batalla, los citónicos de Quilan consiguieron levantar el inhibidor, y apareció una nave de combate de la Supremacía, con las armas apuntando a la Torre, que estaba llena de civiles. Jorgen y Rinakin iniciaron una transmisión conjunta a la gente de ReAlba, informándoles del engaño de la Unidad. Tras derribar a Quilan y a algunos de los otros citónicos, el inhibidor cayó y teletransportaron Hoja Errante hasta el acorazado, destruyéndolo con sus torretas. Cobb les llamó tras la retirada de la Unidad, y Jorgen le puso al día. Cobb le dijo que regresara a Detritus, y que llevara consigo a algunos de los oficiales de los UrDail. Jorgen pensó que Cobb estaba actuando de forma extraña, y se dieron cuenta de que era un impostor que se hacía pasar por él, utilizando tecnología de hologramas robada a M-Bot. Terminaron la llamada y contactaron con Jeshua. Jorgen habló con sus padres, que iban a una reunión a bordo de una nave de la Supremacía. No le creyeron cuando les advirtió de la trampa en la que se estaban metiendo. Jorgen finalizó la comunicación, e hicieron un hipersalto con la Hoja Errante hasta un punto fuera de Detritus.
-
-### Vuelta a Detritus
->“*Por vuestros años de resistencia, se os ha juzgado demasiado agresivos para vivir. Hallaréis vuestro fin por el bien común. Mas, como muestra de generosidad, vuestras vidas terminarán rápido. El dolor será breve.*”
-\-La transmisión de la Supremacía a los humanos en la nave[45]
+### ReDawn
+>“*Our primary objective is to get the transport to land and free the imprisoned UrDail inside. Secondary objective is to retake the base. Skyward Flight, detach and move towards the… tree thing.*”
+\-Jorgen to Skyward Flight[37]
 
 
-Jorgen y Alanik realizan un hipersalto al centro de mando de Detritus y cogen el falso Cobb, después se teletransportan a Borde, una babosa que estaba en la nave de la Supremacía donde se encontraban la yaya, los padres de Jorgen y varios políticos más. Alanik huye tras la yaya, Cobb y Cuna, y Jorgen persigue a sus padres con el falso Cobb como prueba de la traición de la Supremacía. Alanik se da cuenta de que la nave está preparada para explotar, y advierte a Jorgen citónicamente. Alanik rescató a los demás, y Jorgen encontró a sus padres y a los otros políticos en una habitación cerrada que estaba cítonicamente inhibida.
+Arriving outside Hollow, Jorgen learned about ReDawn from Alanik. They chased after the Superiority transport that Alanik’s allies were on, Skyward Flight engaging Unity pilots. With Jorgen and the others holding off the enemy pilots, they were able to take down the transport and bring it to safety with light-lances.
+After hyperjumping to a different location so that the Independence prisoners could scramble their fighters, Jorgen and Skyward Flight fought off more Unity ships. Eventually, they retreated to [[Wandering Leaf\|Wandering Leaf]], a floating Weaponized platforms. Jorgen and the others used their taynix to teleport themselves and the Independence pilots underneath the turrets. They made it safely to the hangar while Alanik dueled [[Quilan\|Quilan]]. Once Alanik made it to the platform, Jorgen and Skyward Flight were introduced to the Independence pilots.
 
->“*¡Vete! Hazlo mejor que nosotros.*”
-\-Las últimas palabras de Jeshua a Jorgen[45]
+>“*The other pilots are human beings, and you left them without a tool they could use to survive, FM. Besides, the fact that the slugs let you do this is not good. If they’ll respond to Alanik, who they don’t know, it means enemy cytonics could use the same tactic against us.*”
+\-Jorgen[39]
 
-Todas las puertas estaban cerradas y reforzadas, y la sala era visible a través de un vidrio reforzado. Alanik se unió a Jorgen mientras intentaban encontrar una forma de entrar en la habitación o encontrar el inhibidor citónico para liberarlos, pero fracasaron. Jeshua gritó a través del cristal a Jorgen, diciéndole que se fuera. Sin tiempo y dándose cuenta de que no podrían salvar a los políticos, Alanik saltó con Jorgen de vuelta a la Hoja Errante, en contra de la voluntad de este.
-Emergieron en el hangar de la Hoja Errante, Jorgen vio cómo la nave explotaba, llevándose a sus padres con ella. Jorgen les dijo a los demás que iban a bajar a la Plataforma Primaria, ya que había cosas de las que tenían que ocuparse.
+Jorgen tuned his radio to a broadcast from [[Nanalis\|Nanalis]] to the [[UrDail\|UrDail]] population, and [[Rinakin\|Rinakin]]’s voice came on, allying himself and the Independence faction with Unity. Alanik argued that Rinakin was being forced to say those things, and Jorgen mostly agreed with her. Jorgen and the others explored the Superiority transport, and found a blue and green taynix with the power to inhibit cytonics. Alanik and Jorgen chatted cytonically, talking about Jorgen’s powers and his relationship with Spensa. FM and Alanik went to retrieve Rig, and returned with several taynix after hearing that the National Assembly was going to hand them over to the Superiority. Jorgen was furious, saying that they had stolen valuable DDF assets and had put pilots in risk by stealing a useful tool. After his argument with FM, Jorgen and Rig worked to interface Boomslug with Wandering Leaf’s weapons system, and used Boomslug to shoot giant mindblades.
 
->“*Si el almirante estuviera aquí, me daría la razón, porque aquí nadie da pie con bola sin él. ¡Si quieren pruebas, miren lo que le ha pasado a la delegación que enviaron!*”
-\-Jorgen gritándole a Stoff[47]
+>“*They beat us back, made us live underground. They’ve been trying to exterminate us. But we’re still here, and we’re still fighting.*”
+\-Jorgen broadcasting to the UrDail[43]
 
-Jorgen y el Escuadrón Cielo bajaron a la Plataforma Primaria, y Jorgen sube a reunirse con el [[Stoff\|vicealmirante Stoff]]. Jorgen le explicó lo sucedido con el falso Cobb, y él no termina de creerle. Jorgen gritó, diciendo que iba a finalizar su alianza con los UrDail, y luego encontrar a Cobb y la yaya. Jorgen razonó que Cobb aún está al mando, y que él está siguiendo las últimas órdenes que le dió. Durante los días siguientes, Alanik y Jorgen intentaron buscar a la yaya con sus poderes, Jorgen aprendiendo más sobre cómo usarlos, pero seguían sin encontrarlos. Jorgen recibió una comunicación de [[Kauri\|Kauri]], un kitsen que pidió que le pusieran en contacto con Spensa. Tras hablar con Cuna y Stoff, Jorgen recibió autorización para intentar establecer una alianza con el kitsen. Celebraron una nueva reunión con Kauri, quien les informó de que Cobb y la yaya habían realizado un hipersalto al planeta kitsen y se encontraban inconscientes. Cobb dio su permiso, y Jorgen llevó al Escuadrón Cielo, a Cuna y a un equipo médico a Orilla Perpetua usando las coordenadas que Kauri le facilitó.
+Jorgen, Rig, and Alanik hyperjumped Wandering Leaf to a point outside Tower, where Rinakin was being held. Jorgen and the other pilots scrambled their ships, using the taynix to hyperjump outside of the range of the platform’s turrets. Quilan and his cytonics arrived with a large force to try and inhibit Wandering Leaf, and Jorgen and Skyward Flight kept them occupied while Alanik and Arturo rescued Rinakin. When they successfully returned and joined the battle, Quilan’s cytonics managed to get the inhibitor up, and a Superiority battleship appeared, weapons aimed at Tower, which was full of civilians. Jorgen and Rinakin started a joined broadcast to the people of ReDawn, informing them of Unity’s deception. After Quilan and a few of the other cytonics were shot down, the inhibitor went down and they teleported Wandering Leaf up to the battleship, destroying it with its turrets. Cobb called them after the Unity retreat, and Jorgen gave him an update. Cobb told him to return to Detritus, and to bring some of the UrDail officials with them. Jorgen thought Cobb was acting strangely, and they realized it was an imposter posing as Cobb, using hologram technology stolen from M-Bot. They ended the call, and contacted Jeshua. Jorgen spoke to his parents, who were going to a meeting aboard a Superiority ship. They didn’t believe him when he warned them of the trap they were walking into. Jorgen ended the communication, and they hyperjumped Wandering Leaf to a point outside Detritus.
 
-### Tratos con los Kitsen
->“*¿Cuál de vosotros es el humano Caracapullo?*”
-\-Kauri al saludar al Escuadrón Cielo[49]
-
-
-Cuando llegaron, fueron recibidos por Kauri y su tripulación, junto con un kitsen más agresivo llamado Goro que exigió que los humanos se marcharan y cesaran su invasión. Jorgen trató de ser diplomático, pero dejó que FM llevara la voz cantante. Kauri los llevó a la ciudad kitsen [[Manantial So%C3%B1ador\|Manantial Soñador]], donde Jorgen y Alanik inspeccionaron a la yaya y Cobb. Ni Jorgen ni Alanik pudieron sentir ninguna señal citónica de ella, pero ninguno sabía por qué. Mientras celebraba un banquete con los kitsen, Jorgen conoció a [[Juno\|Juno]], un cronista kitsen que había estudiado mucho la citónica, aunque hacía mucho tiempo que no había citónicos kitsen. FM intentó hablar con Jorgen varias veces sobre lo ocurrido con sus padres, pero él se negó a hablar de ello.
-Los kitsen celebraron una reunión del senado para decidir qué hacer con la propuesta de alianza de los humanos, con Kauri argumentando a favor de Jorgen. Jorgen afirmó que era honesto y que no tenía ningún interés en luchar con los kitsen. Mientras los miembros debatían, Jorgen permanecía sentado en silencio, con las emociones revueltas en su interior.
-
->“*No venimos a haceros daño. Solo queremos que entendáis que tenemos herramientas para combatir a la Supremacía. Es posible derrotarlos, pero solo si lo hacemos juntos.*”
-\-Jorgen habla ante el Senado Kitsen.
-
-Jorgen se frustró, y de repente disparó hojas mentales por todas partes en la cámara del senado. Aunque no estaban completamente formadas, causaron un caos total en la sala. Después de llamar la atención de todos, Jorgen trató de salvar las apariencias. Advirtió de lo que la Supremacía había hecho a la Asamblea Nacional humana, y les recordó que tenían un enemigo común. FM habló con Jorgen después, ayudándole a sentirse mejor y aliviando parte de su culpa por lo ocurrido. Juno, el guardián de la sabiduría, se ofreció a ayudar a Jorgen a dominar sus hojas mentales. Llevó a Jorgen a una región remota y le leyó antiguas meditaciones citónicas, que ayudaron a Jorgen a relajarse. Con el consejo de Juno sobre la visualización de sus hojas mentales en formación, Jorgen fue capaz de ganar más control sobre ellas. Escuchó voces en su mente, suplicándole que los ayudara. Jorgen se reunió con los técnicos médicos y descubrió que cuando intentaban mover a la yaya inconsciente y a Cobb, su estado empeoraba rápidamente. Jorgen pidió a Juno que le llevara al lugar donde ambos habían aparecido por primera vez, y descubrió un portal a la ninguna-parte en la biblioteca kitsen. Jorgen se preguntó si los kitsen citónicos estarían atrapados allí, pero fue interrumpido cuando una nave portadora de la Supremacía llegó a la atmósfera.
-
-### La Lucha por Orilla Perpetua
->“*Goro, estamos defendiéndonos a nosotros mismos y también a los tuyos. La Supremacía no tardó en volverse contra los UrDail por acogernos, y os harán lo mismo a vosotros.*”
-\-Jorgen a Goro mientras vuelan hacia la batalla[14]
+### Back to Detritus
+>“*For your years of resistance, you have been judged too aggressive to live. You will meet your end for the good of all. In our graciousness, we will end your lives swiftly. Your pain will be brief.*”
+\-The Superiority broadcast to the humans on the ship[46]
 
 
-Jorgen voló a la batalla con el Escuadrón Cielo, Juno viajando en su cabina para ayudarle con sus hojas mentales. Cuando llegaron más refuerzos de la Supremacía, Jorgen y FM volvieron en hipersalto a Detritus para hablar con Stoff. Él cargó toda la responsabilidad en Jorgen, que decidió llevar a Orilla Perpetua llevándose la Hoja Errante y tres escuadrones de la FDD. También encargó a Gali la tarea de intentar hacerse con el control de cada una de las plataformas de Detritus, para enviar algunas a Orilla Perpetua. Jorgen se reincorporó a la lucha en Orilla Perpetua, dirigiendo a los pilotos de la FDD para defenderla. Un citónico de la Supremacía con cuchillas mentales atacó a Jorgen, destruyendo su nave, pero él consiguió matar al enemigo con sus propias cuchillas mentales.
-Jorgen volvió con Gali en Detritus. Este mostró a Jorgen los cientos de cajas de taynix vacías, diciendo que no sabe muy bien cómo manejar las plataformas y que no tienen suficientes taynix. Jorgen buscó con sus sentidos citónicos, encontró muchas babosas en las cavernas y les prometió comida y amistad. Bien se unió a los taynix y les contó lo bien que los humanos cuidaban de sus babosas. De repente, cientos de babosas aparecieron en la plataforma, traídas por las hiperbabosas. Abracitos, Babosa Explosiva y Bien ayudaron a colocar algunas de las babosas en los lugares correctos, y Jorgen dejó a Gali para que averiguara cómo mover las plataformas.
+Jorgen and Alanik hyperjumped to Detritus’ command center and grabbed the fake Cobb, then teleported to Snide, a slug who was on the Superiority ship where Gran-Gran, Jorgen’s parents, and several other politicians were. Alanik runs off after Gran-Gran, Cobb, and Cuna, and Jorgen chases after his parents with the fake Cobb as evidence of Superiority treachery. Alanik realized that the ship is rigged to blow, and warns Jorgen cytonically. Alanik rescued the others, and Jorgen found his parents and the other politicians in a locked room that was cytonically inhibited.
 
->“*Respiré al ritmo de las vibraciones. No estaba relajado, pero sí tranquilo. Estaba en paz.*”
+>“*Go! Do better than we did.*”
+\-Jeshua’s last words to Jorgen[46]
+
+All the doors were locked and reinforced, and the room was visible through a reinforced pain of glass. Alanik joined Jorgen as they tried to find a way into the room or find the cytonic inhibitor to free them, but failed. Jeshua shouted through the glass to Jorgen, telling him to go. Out of time and realizing that they wouldn’t be able to save the politicians, Alanik hyperjumped herself and Jorgen back to Wandering Leaf, against Jorgen’s will.
+They emerged in the hangar of Wandering Leaf, Jorgen watching the ship explode, taking his parents with it. Jorgen told the others that they were going to head down to Platform Prime, as there was things they needed to take care of.
+
+>“*If Cobb were here, he would agree with me because you people are a mess without him. If you want proof, look at what happened to the delegation you sent!*”
+\-Jorgen yelling at Stoff[48]
+
+Jorgen and Skyward Flight went down to Platform Prime, and Jorgen goes up to meet with [[Stoff\|Vice Admiral Stoff]]. Jorgen explained what happened with the fake Cobb, and Stoff doesn’t fully believe him. Jorgen yelled at Stoff, saying that he was going to finalize their alliance with the UrDail, and then find Cobb and Gran-Gran. Jorgen reasoned that Cobb is still in command, and that he is following Cobb’s last orders. Over the next few days, Alanik and Jorgen both tried searching for Gran-Gran with their powers, Jorgen learning more about how to use his powers but still not finding them. Jorgen received a communication from [[Kauri\|Kauri]], a kitsen who asked to be put in touch with Spensa. After talking with Cuna and Stoff, Jorgen was given authority to try and make an alliance with the kitsen. They held a further meeting with Kauri, who tells them that Cobb and Gran-Gran hyperjumped to the kitsen planet, and are unconscious. Cobb gave his permission, and Jorgen took Skyward Flight, Cuna, and a medical team to Evershore using coordinates Kauri gave him.
+
+### Dealings with the Kitsen
+>“*Which one of you is the human Jerkface?*”
+\-Kauri upon greeting Skyward Flight[50]
+
+
+When they arrived, they were greeted by Kauri and her crew, along with a more aggressive kitsen named Goro who demanded that the humans leave and cease their invasion. Jorgen tried to be diplomatic, but allowed FM to do most of the talking. Kauri took them to the kitsen city of [[Dreamspring\|Dreamspring]], where Jorgen and Alanik inspected Gran-Gran and Cobb. Neither Jorgen or Alanik could feel any cytonic signal from Gran-Gran, but neither knew why. While having a feast with the kitsen, Jorgen met [[Juno\|Juno]], a kitsen lorekeeper who had studied cytonics extensively, though there haven’t been kitsen cytonics for a long time. FM tried to talk to Jorgen several times about what happened with his parents, but Jorgen refused to discuss it.
+The kitsen held a senate meeting to decide what to do with the humans’ proposal of an alliance, with Kauri arguing on Jorgen’s behalf. Jorgen asserted that he is sincere, and has no interest in fighting with the kitsen. As the members debated, Jorgen sat in silence, emotions becoming wound up inside of him.
+
+>“*We’re not here to hurt you. We only want you to understand that we have tools to fight the Superiority. It is possible for us to beat them, but only if we work together.*”
+\-Jorgen speaking before the kitsen senate[51]
+
+Jorgen grew frustrated, and suddenly shot mindblades everywhere into the senate chamber. Though the blades weren’t fully formed, they caused complete chaos in the room. After Jorgen got everyone’s attention, he tried to save face. He warned of what the Superiority did to the human National Assembly, and reminded them that they have a common enemy. FM talked with Jorgen afterwards, helping him feel better and alleviating some of his guilt for what happened. Juno, the lorekeeper, offered to help Jorgen master his mindblades. Juno took Jorgen to a remote region, and read ancient cytonic meditations, which helped Jorgen relax. With Juno’s advice on visualizing his mindblades forming, Jorgen was able to gain more control with his mindblades. Jorgen heard voices in his mind, pleading for him to help them. Jorgen met with the medtechs, and discovered that when they tried to move the unconscious Gran-Gran and Cobb, their conditions worsened rapidly. Jorgen had Juno take him to where Gran-Gran and Cobb had first appeared, and discovered a nowhere portal in the kitsen library. Jorgen wondered if the kitsen cytonics might be trapped behind there, but was interrupted as a Superiority carrier ship arrived in the atmosphere.
+
+### The Fight for Evershore
+>“*Goro, we’re defending ourselves, and your people as well. The Superiority were willing to turn on the UrDail for harboring us, and they’ll do the same to you.*”
+\-Jorgen to Goro as they fly into battle[14]
+
+
+Jorgen flew into battle with Skyward Flight, Juno riding along in his cockpit to help Jorgen with his mindblades. When more Superiority reinforcements arrived, Jorgen and FM hyperjumped back to Detritus to speak with Stoff. Stoff loaded all the responsibility onto Jorgen, who decided to bring Wandering Leaf and three DDF flights back to Evershore. He also put Rig on the task of trying to gain control of Detritus’ individual platforms, to send some to Evershore. Jorgen rejoined the fray back at Evershore, directing the DDF pilots to defend Dreamspring. A Superiority cytonic with mindblades attacked Jorgen, destroying his ship, but Jorgen managed to kill the enemy with his own mindblades.
+Jorgen went back to Rig on Detritus. Rig showed Jorgen the hundreds of empty taynix boxes, saying he doesn’t fully know how to operate the platforms, and that they don’t have enough taynix. Jorgen quested out with his cytonic senses, finding many slugs in the caverns and promising them food and friendship. Fine joined in, telling the taynix how well the humans cared for their slugs. Suddenly, hundreds of slugs appeared on the platform, brought by hyperslugs. Snuggles, Boomslug, and Fine helped herd some of the slugs into the correct places, and Jorgen left Rig to figure out how to move the platforms.
+
+>“*I breathed in rhythm with the vibrations. I wasn’t relaxed, but I was calm. I was at peace.*”
 \-Jorgen focusing on trying to open the portal[55]
 
-Jorgen regresó a Orilla Perpetua, inspeccionando el portal a la ninguna-parte de la biblioteca kitsen donde los técnicos médicos habían trasladado a Cobb y la yaya. Tras hablar citónicamente con ella a través del portal, Jorgen descubrió la forma de desbloquearlo. Varios citónicos kitsen antiguos emergieron del portal, y Cobb y la yaya empezaron a agitarse. Los kitsen citónicos habían sido absorbidos por el portal años atrás, y la yaya y Cobb se habían quedado atrapados cuando siguieron las voces de los kitsen.
-Llegaron más naves de la Supremacía, incluida una aniquiladora, y Jorgen ordenó la evacuación de los miembros del senado kitsen. Después de que Alanik se ocupara de la aniquiladora, Jorgen vio que la Superioridad cambiaba de táctica y atacaba a muchas ciudades kitsen a la vez.
+Jorgen went back to Evershore, inspecting the nowhere portal in the kitsen library where the medtechs had moved Cobb and Gran-Gran. After talking with Gran-Gran cytonically through the portal, Jorgen figured out a way to unlock it. Several ancient kitsen cytonics emerged from the portal, and Cobb and Gran-Gran began to stir. The kitsen cytonics had been sucked into the portal years ago, and Gran-Gran and Cobb had gotten stuck when they followed the kitsens’ voices.
+More Superiority ships arrived, including a lifebuster, and Jorgen ordered the evacuation of the kitsen senate members. After Alanik dealt with the lifebuster, Jorgen saw the Superiorty changing their tactics, and targeting many kitsen cities at once in a spread-out attack.
 
->“*Hemos traído compañía. Toda la que hay.*”
-\-Jorgen a Alanik tras transportar Detritus[57]
+>“*We brought company. All of it.*”
+\-Jorgen to Alanik after transporting Detritus[57]
 
-Jorgen dio órdenes a muchos miembros de su escuadrón y luego regresó donde estaba Gali, en Detritus, que estaba pensando cómo trasladar las plataformas. Cuando Gali y sus ingenieros estuvieron listos, Jorgen hizo que las babosas hicieran un hipersalto con sus plataformas hasta Orilla Perpetua. Para su sorpresa, no sólo se llevó consigo varias plataformas, sino también el planeta entero de Detritus. Con las armas de las plataformas, y con Gali y sus ingenieros enviando plataformas individuales para proteger las ciudades kitsen, rápidamente empezaron a imponerse. Jorgen envió un comunicado citónico a todos sus pilotos, animándoles e infundiéndoles confianza. Varios de los comunicadores potenciaron su señal, y la Supremacía pronto se retiró, marchándose rápidamente.
+Jorgen gave orders to many members of his flight, then went back to Rig on Detritus, who was figuring out how to move the platforms. When Rig and his engineers were ready, Jorgen had the slugs hyperjump their platforms to Evershore. To his surprise, he not only brought several platforms with him, but the entire planet of Detritus as well. With the weapons on the platforms, and with Rig and his engineers sending out individual platforms to protect kitsen cities, they quickly began to win. Jorgen sent out a cytonic communication to all their pilots, encouraging them and instilling them with confidence. Several of the commslugs boosted his signal, and the Superiority soon retreated, leaving quickly.
 
-### Ascenso
->“*Nada de eso cambia el increíble trabajo que has hecho aquí. Si esto es l*”
-\-Cobb a Jorgen[59]
+### Promotion
+>“*None of that changes the incredible work you’ve done here. If this is what you do when your judgement is ‘impaired’, I’d like to see what you do when you’re thinking clearly.*”
+\-Cobb to Jorgen[59]
 
 
-Después, Jorgen y FM se reunieron con Cobb y Stoff, y FM reveló cómo este último había echado toda la responsabilidad sobre Jorgen para evitar cualquier culpa si las cosas iban mal. Después de decirle a FM y a Stoff que los dejaran, Cobb le dijo a Jorgen que estaba impresionado y decidió ascenderlo a vicealmirante, lo que sorprendió a Jorgen. Tras dejar a Cobb, Jorgen habló con FM, contándole su ascenso. Le preguntó si dejaría el combate activo para encargarse del programa diplomático de Detritus. Ella aceptó, sabiendo que ya no podrían volar en misiones con el Escuadrón Cielo. Jorgen decidió poner a Arturo al mando del Escuadrón Cielo en su lugar.
+Afterward, Jorgen and FM met with Cobb and Stoff, and FM revealed how Stoff had shoved all responsibility onto Jorgen to avoid any blame if things went wrong. After telling FM and Stoff to leave them, Cobb told Jorgen that he was impressed, and decided to promote Jorgen to vice admiral, which was a shock to Jorgen. After leaving Cobb, Jorgen talked with FM, telling her of his promotion. He asked her if she would leave behind active combat to be in charge of Detritus’ diplomatic program. She agreed, knowing that they both won’t get to fly missions with Skyward Flight anymore. Jorgen decided to put Arturo in charge of Skyward Flight in his place.
 
-## Relaciones
+## Relationships
 ### Spensa
  
-Jorgen estaba tan ansioso por conseguir el respeto de su tripulación que intimidó al equipo durante los primeros días. Por otro lado, [[Spensa\|Spensa]] estaba molesta con él por tenerlo "fácil". Como resultado, al principio hubo una rivalidad constante entre ellos. Spensa fue la responsable del identificador de Jorgen, Caracapullo.
-Durante un "juego" dirigido por Cobb en la simulación, las mejores técnicas de vuelo y la estrategia de Jorgen estuvieron a punto de darle la victoria; sin embargo, Spensa, que estaba en ese momento en lo alto de la clasificación, se estrelló contra él ganando la partida. Estaba tan frustrado con ella que reveló al Escuadrón Cielo que Spensa era hija de [[Perseguidor\|Perseguidor]]; esto la alejó de los demás miembros y provocó que Spensa robara la fuente de energía del aerodeslizador de Jorgen.
-Spensa sigue desafiando la autoridad de Jorgen y desobedece una orden directa de formación. Éste vuelve a hacer referencia a su herencia paterna y ella le agrede gravemente; aunque él vuelve a quejarse de su insubordinación, no la ataca. Convencida de que él la delataría, acude al despacho de la almirante solicitando medidas disciplinarias para sí misma. Jorgen estaba allí y lo impidió, haciéndole saber que su escuadrón necesitaba a todos los pilotos. Después de eso, ella se vuelve más sensata e incluso se avergüenza del trato que estaba recibiendo, ya que sabía que en parte era culpa suya.
-Tras la muerte de Arcada, le dieron juntos un funeral apropiado y empezaron a ser amigos el uno del otro. Incluso la ayudó a llevar el propulsor a donde ella le pedía. Se dio cuenta de que estaba construyendo su Poco y la animó a ser libre y Desafiante.
-Cuando [[Spensa\|Spensa]] descubre lo que realmente ocurrió en la batalla de Alta, la única persona a la que se abre es Jorgen. Ella le pide que no solucione, sino que escuche. Él es capaz de consolarla.
-Después de que [[Alanik\|Alanik]] se estrelle en Detritus, Spensa le pide a Jorgen que "la convenza de no hacer algo *increíblemente estúpido*", es decir, hacerse pasar por Alanik e infiltrarse en [[Visi%C3%B3n Estelar\|Visión Estelar]]. Luego procede a guiarla a través de los requisitos logísticos de su plan, antes de decirle que se vaya y diciéndole que "confía en sus instintos", lo que hace que Spensa salte y lo bese. Él, sorprendentemente, le devuelve el beso.
-Después de que ella se haya ido, él piensa constantemente en Spensa y espera a que Alanik se despierte para poder preguntarle dónde fue Spensa y así poder ir a buscarla.
+Jorgen was so eager to get the respect from his crew that he bullied the team around on the first days. [[Spensa\|Spensa]] on the other hand resented him for having it “easy”. As a result, there was constant rivalry between them in the beginning. Spensa was responsible for Jorgen’s callsign, Jerkface.
+During a “game” ran by Cobb in the simulation, Jorgen’s better flying techniques and strategy was about to earn him a win; however Spensa, who was up in the mark at that moment, crashed herself into him winning the game. He was so frustrated with her, he revealed to Skyward Flight that Spensa was the daughter of [[Chaser\|Chaser]]; this alienated her from other members and provoked Spensa to steal the power source of Jorgen's hovercar.
+Spensa continues to challenge Jorgen’s authority and disobeys a direct order of formation. He calls in again on her father’s heritage and she assaults him badly; though he complains about her insubordination again, he doesn’t attack her. Convinced that he would call on her, she goes to the Admiral’s office requesting disciplinary actions from her. Jorgen was there and prevented it from happening, letting her know his flight needed every pilot. After that she becomes more sensible and even ashamed of the treatment he was getting as she knew it was partially her fault.
+After Hurl’s death, they give her a proper funeral together and started being friendly to each other. He even helped her with taking the booster to where she asked. He figured out she was building her Poco and encouraged her to be free and defiant.
+When [[Spensa\|Spensa]] finds out about what really happened in the battle of Alta, the only person she opens to is Jorgen. She asks him not to fix but listen. He is able to comfort her.
+After [[Alanik\|Alanik]] crash lands on Detritus, Spensa asks Jorgen to "talk her out of doing something *incredibly stupid*," namely impersonating Alanik and infiltrating [[Starsight (station)\|Starsight]]. He then proceeds to walk her through the logistical requirements of her plan, before telling her to go and telling her he "trust her instincts," which makes Spensa jump up and kiss him. He remarkably kisses her back.
+After she is gone, he constantly thinks about Spensa and waits for Alanik to wake up so that he can ask her where Spensa went so that he can go and find her.
 
-## Curiosidades
-Brandon ideó su identificador antes que su nombre.
-Fue el personaje que más le costó escribir a Brandon y el que más se parece a él.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind . Est página ha sido reclamada por User: Co-president of the Taln Fanclub desde ,Por favor, contactar con el usuario antes de realizar grandes cambios.
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] ·  · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## Trivia
+Brandon came up with his callsign before his name.
+He was both the character Brandon had the hardest time writing and the one he feels is most like him.
 
 
-
-https://es.coppermind.net/wiki/Jorgen_Weight
+https://coppermind.net/wiki/Jorgen_Weight

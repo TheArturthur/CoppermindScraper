@@ -1,13 +1,13 @@
 |**Lorenzo**|
 |-|-|
-|**Fallecido**|*Unknown*|
-|**Títulos**|Lieutenant|
-|**Habilidades**|Marksmanship|
-|**Oficio**|Police Officer|
-|**Residencia**||
-|**Nacionalidad**||
-|**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
-|**Presentado en**|*[[Dreamer\|Dreamer]]*|
+|**Died**|*Unknown*|
+|**Titles**|Lieutenant|
+|**Skills**|Marksmanship|
+|**Profession**|Police Officer|
+|**Residence**||
+|**Nationality**||
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
+|**Introduced In**|*[[Dreamer\|Dreamer]]*|
 
 **Lorenzo** is an NYPD lieutenant in Manhattan who was possessed by [[Dreamer (character)\|Dreamer]], a [[Poltergeist\|poltergeist]] who was playing a game of cops and robbers. He was killed when Dreamer used his body to tackle [[Phi\|Phi]] off a building.
 
@@ -19,14 +19,6 @@ Lorenzo was responding to a shooting in a restaurant in Manhattan with a number 
 Dreamer used Lorenzo's position as a police lieutenant to get intelligence about Phi's whereabouts in order to catch him and beat him at their game. When [[Marks (Dreamer)\|another police officer]] spotted Phi's current body, Dreamer used Lorenzo to encourage him to shoot to kill. Upon catching up to Phi, Dreamer shot at him, hitting several bystanders and noting that Lorenzo was skilled with a gun. When Phi possessed Marks, another police officer, Lorenzo's natural athleticism allowed Dreamer to dodge out of the way of Phi's gunfire. Dreamer then used Lorenzo's microphone to sow confusion by telling the other police that Marks had been working with Phi's previous body. Dreamer continued to pursue Phi into a building next to the target building where [[Longshot\|Longshot]] was hiding, using Lorenzo's police credentials to get past the security guard.
 On the roof of the target building, Dreamer was determined not to let Phi win the game and used Lorenzo's body to tackle Phi (in Marks's body) off the building entirely. Lorenzo and Marks both died on impact with the ground, leaving Dreamer and Phi without hosts.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Dreamer\|Dreamer]]**|
-|-|-|
-|**Personajes**|[[Dreamer (character)\|Dreamer]] · [[Phi\|Phi]] · [[Longshot\|Longshot]] · [[Icer\|Icer]] · [[Rabies\|Rabies]] · [[TheGannon\|TheGannon]] ·  · [[Marks (Dreamer)\|Marks]]|
-|**Términos**|[[Poltergeist\|Poltergeist]] · [[Bolting\|Bolting]]|
 
 
-
-https://es.coppermind.net/wiki/Lorenzo
+https://coppermind.net/wiki/Lorenzo

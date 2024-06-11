@@ -1,45 +1,33 @@
-
-
 |**Han ShuXen**|
 |-|-|
 ||
-|**Oficio**|Pintor|
-|**Nacionalidad**|[[De MaiPon\|de MaiPon]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Profession**|Painter|
+|**Nationality**|[[MaiPon\|MaiPon]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Han ShuXen** es un pintor del [[Imperio Rosa\|Imperio Rosa]] en [[Sel\|Sel]]. Sus cuadros son conocidos y muy valiosos en el Imperio.
-Pintó la obra maestra *[[Lirio del estanque del manantial\|Lirio del estanque del manantial]]* para una mujer a la que amaba. A su muerte, sus hijos regalaron el cuadro al Imperio Rosa; es propiedad de la [[%C3%81rbitro\|árbitro]] [[Frava\|Frava]]. Sin embargo, ShuXen consideraba que el cuadro no debía sobrevivir a su destinatario y no quería que se utilizara para glorificar al Imperio Rosa. Contrató a la [[Falsificar\|falsificadora]] [[Wan ShaiLu\|Wan ShaiLu]], a quien había tutelado en su juventud, para destruirlo y sustituirlo por una copia. Shai se sintió en deuda con su antiguo mentor y aceptó el plan.
-ShuXen ayuda a Shai a hacer una copia magistral de *Lirio del estanque del manantial*, proporcionándole sus estudios del cuadro original y consejos sobre la pincelada. Shai también hace una segunda copia de calidad pasable que utiliza como señuelo. Shai consigue ejecutar el plan y quema el cuadro original, sustituyéndolo por la falsificación maestra.
-En su vejez se ha quedado ciego y apenas puede moverse.
-
-
-Imágenes de Han
+**Han ShuXen** is a painter from the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. His paintings are well-known and extremely valuable in the Empire.
+He painted the masterpiece *[[Lily of the Spring Pond\|Lily of the Spring Pond]]* for a woman he loved. On her death, her children gave the painting to the Rose Empire; it is owned by the [[Arbiter\|arbiter]] [[Frava\|Frava]]. However, ShuXen felt that the painting should not outlive its intended recipient and did not want it used to glorify the Rose Empire. He hired the [[Forger\|Forger]] [[Wan ShaiLu\|Wan ShaiLu]], whom he had tutored in her youth, to destroy it and replace it with a copy. Shai felt that she owed a debt to her former mentor and agreed to the plan.
+ShuXen assists Shai in making a masterful copy of *Lily of the Spring Pond*, providing his studies for the original painting and advice on the brushwork. Shai also makes a second copy of passable quality that she uses as a decoy. Shai is able to execute the plan and burns the original painting, replacing it with the master forgery.
+In his old age he has gone blind and can barely move.
 
 
+Images of Han
 
-Retrato de User: Botanicaxu
 
 
+Portrait by User: Botanicaxu
 
 
 
 
-El alma del emperador de User: Botanicaxu
+
+
+The Emperor's Soul by User: Botanicaxu
 
 
 
 
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 09:40, 16 de junio de 2018 (MST)
-|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
-|-|-|
-|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] ·  · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
-|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
-|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
 
 
-
-https://es.coppermind.net/wiki/ShuXen
+https://coppermind.net/wiki/ShuXen

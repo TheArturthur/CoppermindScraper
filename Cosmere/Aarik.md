@@ -1,91 +1,75 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Aarik**|
 |-|-|
 ||
-|**Padres**|[[Raagent\|Raagent]]|
-|**Títulos**|[[Lord general\|Lord general]]|
-|**Oficio**|Taisha|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Torre (Taldain)\|La Torre]]|
-|**Residencia**|[[Torre (Taldain)\|Guarnición de la Torre]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Parents**|[[Raagent\|Raagent]]|
+|**Titles**|[[Lord General\|Lord General]]|
+|**Profession**|Taisha|
+|**Groups**|[[Taishin\|Taishin]], [[Tower (Taldain)\|The Tower]]|
+|**Residence**|[[Tower (Taldain)\|The Tower]] Garrison|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
->“*¿Como llevas lo de no estar muerto?*”
-\-Aarik a Kenton durante su reunión.[2]
-
-
-**Aarik** es el [[Lord general\|lord general]] de la Torre de soldados de [[Lossand\|Lossand]] y amigo de la infancia de [[Kenton\|Kenton]].
-
-## Sumario
-
-1 Personalidad y apariencia. [[#Personalidad y apariencia]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Citas. [[#Citas]] 
-5 Notas. [[#Notas]] 
+>“*How are you coping with not being dead?*”
+\-Aarik to Kenton on their reunion.[2]
 
 
-## Personalidad y apariencia
->“* Soy un firme defensor de humillar a los trackts y a cualquier figura de autoridad, pero matarlos es pasarse un poco.*”
-\-Aarik a Lokmlen, defendiendo a Ais[2]
+**Aarik** is the [[Lord General\|Lord General]] of the Tower of Soldiers of [[Lossand\|Lossand]], and childhood friend of [[Kenton\|Kenton]].
+
+## Contents
+
+1 Personality and Appearance. [[#Personality and Appearance]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Quotes. [[#Quotes]] 
+5 Notes. [[#Notes]] 
 
 
-Aarik suele ser sarcástico, pero deja entrever una capa más sincera bajo su sonrisa. Muestra poca preocupación e incluso bromea a la ligera durante situaciones graves y peligrosas. Muestra poco respeto, sobre todo por la autoridad, pero defiende a Ais (una [[Trackt\|trackt]]) cuando su vida se ve amenazada. Su sentido del humor es bastante ácido, y se muestra bastante sombrío cuando está solo. Cuando Aarik vuelve a empuñar una espada, su personalidad cambia drásticamente y se vuelve frío, formal y distante. Esto empeora aún más cuando se convierte en lord general.
-Aarik tiene el pelo castaño corto por el lado derecho y largo hasta los hombros por el izquierdo. Suele llevar capa y ropa funcional, incluidas varias bolsas de cuero en el cinturón. Tiene la piel bronceada, probablemente debido a su exposición a la luz ultravioleta en el [[Lado Oscuro\|Lado Oscuro]]. La espada que utilizó le fue regalada por Kenton, pero la desechó cuando huyó del Lado Diurno y sólo conservó la vaina como recuerdo.
-
-## Atributos y habilidades
-Aarik es ágil en sus movimientos, demostrando ser capaz de eludir a un enemigo armado en espacios muy reducidos sin necesidad de hacer uso de su propia arma. Sin embargo, es un hábil jinete de [[Tonk\|tonk]], y espadachín  con reflejos lo bastante rápidos como para atrapar un virote de [[Zinkall\|zinkall]] en pleno vuelo.
-
-## Historia
-Se hizo amigo de Kenton a una edad temprana, lo que le proporcionó unos conocimientos básicos sobre los [[Maestr%C3%ADa de la arena\|maestros de la arena]]. Su padre (el lord general [[Raagent\|Raagent]]) repudió a Aarik por razones desconocidas. Hace aproximadamente tres años, Aarik huyó del [[Lado Diurno\|Lado Diurno]] y viajó al [[Lado Oscuro\|Lado Oscuro]]; aunque sus razones son sólo implícitas. Volviópara ver a Kenton y hablar con su padre.
-
->“*Después de tantos años, Kenton aún cree que fue tu padre quien te apartó. No tiene ni idea.*”
-\-Aarik, debatiéndose sobre si irse o quedarse.[4]
-
-Aarik creyó que Kenton había muerto durante dos semanas antes de enterarse de que su amigo había sobrevivido. Aarik llega al [[Diem\|Diem]] poco después de que Kenton sea nombrado lord mastrell en funciones. Los dos se reunieron y pasanon algún tiempo poniéndose al día. Aarik pasó la noche en los apartamentos de Kentonantes de que le dieran aposentos en el Diem. Cuando [[Drile\|Drile]] llegó por la mañana, Aarik parecía escéptico ante la sospecha de Kenton de que Drile estaba detrás del ataque kerztiano contra el Diem.
-Aarik fue con Kenton a ver a muchos de los Taishin cuando Kenton pedía su favor e intentando influir en sus votos para mantener vivo el Diem. Esto incluía a su padre, Raagent, el lord general. Durante los acontecimientos de la cacería, cuando Aarik rescató a su padre de los [[Karak\|karak]], los dos parecían haber arreglado algo su relación, y se les ve en términos amistosos cuando Kenton se marcha, aunque Aarik bromeó diciendo que aunque su padre siguiera enfadado con él, aún así intentó darle una espada.
-
->“***Aarik**: Disculpa, tengo que cogerlo*
-\-Khriss: ¡Aarik, la has atrapado! ¿Cómo...?
+## Personality and Appearance
+>“*I'm a strong proponent of humiliating trackts and others in authority, but killing them is a bit extreme.*”
+\-Aarik to Lokmlen, defending Ais.[2]
 
 
-Tras ayudar a Kenton a buscar en el Diem al desaparecido [[Lak\|lak]] y enterarse del intento de asesinato en [[Lonzare\|Lonzare]], se dio cuenta de lo grave que se había vuelto la situación y consideró abandonar a Kenton a su suerte. Finalmente, optó por quedarse debido a su amistad y a que la causa de Kenton era justa y su amugo estaba dispuesto a sacrificarse luchando contra Drile para salvar el Diem.
-Tras el segundo encuentro con el [[Lord mercader\|lord mercader]] [[Vey\|Vey]], mientras cenan en el restaurante, los asesinos vuelven a atacar a Kenton. Aarik siguió comiendo, y afirmó que Kenton puede cuidar de sí mismo; entonces atrapó un virote de zinkall desviado que se acercaba a la mesa donde él y la duquesa [[Khrissalla\|Khrissalla]] estaban comiendo. Aarik se percató entonces de la presencia de un asesino disfrazado de camarero y lo redujo contra la mesa.
-Durante el siguiente intento de asesinato de Kenton, en el barco mientras el grupo vuelve a Kezare desde [[Lraezare\|Lraezare]], Aarik se dio cuenta de que ya que Kenton había sobrequemado no era capaz de defenderse a sí mismo usando la maestría de la arema. Aarik se vio obligado a elegir entre dejar morir a Kenton o coger un arma y luchar activamente para defenderlo. Tras una breve lucha interna, Aarik optó por luchar para defenderlo, matando a seis asesinos kerztianos. Tras la lucha, la personalidad de Aarik parece cambiar radicalmente; pasa de ser jovial y extrovertido a ser frío y formal. Kenton dice que actúa como solía hacerlo antes de huir al Lado Oscuro.
-Después de que Ais descubriera el cuerpo de Raagent en la bodega de la Torre, Kenton pidió a Aarik que tomara el título de lord general para asegurar su voto en el mantenimiento del Diem; Aarik aceptó a regañadientes pero se volvió aún más frío y retraído, haciendo que Kenton temiera haber causado a Aarik un daño mental permanente.
-Aarik asistió al duelo entre Kenton y Drile en el Diem. Cuando los Taishin votaron, el lord general Aarik votó a favor del Diem.
+Aarik is generally sarcastic, but hints at a more sincere layer beneath his smile. He shows little concern and even jokes lightly during serious and dangerous situations. He shows little respect, especially for authority, but he defends Ais—a [[Trackt\|trackt]]—when her life is threatened. His sense of humour is rather acerbic, and he is shown to be rather gloomy when on his own. After Aarik picks up a sword again his personality drastically changes and he becomes cold, formal, and distant. This gets even worse after he becomes Lord General.
+Aarik has brown hair cut short on the right side and dropping to shoulder length on his left. He tends to wear a cape along with utilitarian clothing, including a number of leather pouches at his belt. He has tanned skin, likely stemming from his exposure to UV light on the [[Darkside\|Darkside]]. The sword he used was given to him as a gift from Kenton, however he discarded the sword when he fled Dayside and only kept the scabbard as a memento.
 
-## Citas
->“*Mira la parte positiva. ¡Aunque fracases, al menos pasaremos dos semanas viviendo como reyes!*”
-\-Resumen de Aarik sobre la situación de Kenton. [2]
+## Attributes and Abilities
+Aarik is quick on his feet, proving himself able to evade an armed enemy in very close quarters without needing to make use of his own weapon. He is, however, a skilled [[Tonk\|tonk]] rider, and swordsman  with reflexes quick enough to catch a [[Zinkall\|zinkall]] bolt in mid-air.
+
+## History
+He became friends with Kenton at a young age, giving him a basic understanding of the [[Sand mastery\|sand masters]]. His father—Lord General [[Raagent\|Raagent]]—disowned Aarik for unknown reasons. Approximately three years ago, Aarik fled [[Dayside\|Dayside]] and traveled to [[Darkside\|Darkside]]; though his reasons are only implied. He returned to see Kenton and talk with his father.
+
+>“*All these years and Kenton still thinks your father drove you away! He doesn't have any clue.*”
+\-Aarik, debating himself to stay or leave.[4]
+
+Aarik believed Kenton to be dead for two weeks before hearing that his friend had survived. Aarik arrived at the [[Diem\|Diem]] shortly after Kenton is named acting Lord Mastrell. The two were reunited and spent some time catching up. Aarik spent the night in Kenton's apartments before being given accomodations in the Diem. When [[Drile\|Drile]] arrived in the morning, Aarik seemed skeptical of Kenton's suspicion that Drile was behind the Kerztian attack on the Diem.
+Aarik went with Kenton to many of the Taishin when Kenton was petitioning for their favor and trying to sway their votes to keep the Diem alive. This included his father, Raagent, the Lord General. During the events of the hunt, when Aarik rescued his father from the [[Karak\|karak]], the two appeared to have mended their relationship somewhat, and are seen on friendly terms when Kenton is leaving, though Aarik quipped that even if his father was still angry with him, he still tried to give Aarik a sword.
+
+>“***Aarik**: Sorry, I must get this.*
+\-Khriss: Aarik, you caught it! How'd you
 
 
->“*Ten cuidado, Kenton. Un rompecabezas kerazano puede componerse de varias maneras.*”
-\-La respuesta de Aarik al envenenamiento de los maestros de la arena.[2]
+After helping Kenton search the Diem for the missing [[Lak\|lak]] and learning of the assassination attempt in [[Lonzare\|Lonzare]], he realized how dire the situation had become and considered leaving Kenton to his fate. Ultimately, he chose to stay on account of their friendship and because Kenton's cause was just and Kenton was willing to sacrifice himself fighting Drile to save the Diem.
+After the second meeting with [[Lord Merchant\|Lord Merchant]] [[Vey\|Vey]], while they are dining in the restaurant, assassins again attack Kenton. Aarik continued eating, and claimed that Kenton can take care of himself; then he caught a stray zinkall bolt coming toward the table where he and Duchess [[Khrissalla\|Khrissalla]] were eating. Aarik then noticed an assassin disguised as the waitstaff and subdued him to the table.
+During the next assassination attempt on the boat returning thier party to Kezare from [[Lraezare\|Lraezare]], Aarik realized that because Kenton had overmastered he would not be able to defend himself without access to mastered sand. Aarik was forced to choose between letting Kenton die or picking up a weapon and actively fighting to defend him. After a brief internal struggle, Aarik chose to fight to defend Kenton, killing six Kerztian assassins. After the fight, Aarik's personality seemed to change radically; he goes from jovial and outgoing to cold and formal. Kenton says that Aarik was raised in a very strict home, and he beleived his carefree attitude had been him rebelling against that upbringing.
+After Ais discovers the body of Raagent in the wine cellar of the Tower, Kenton asked Aarik to take the title of Lord General to insure his vote in maintaining the Diem; Aarik agreed reluctantly but became even colder and more withdrawn, causing Kenton to fear he had caused Aarik permanent mental harm.
+Aarik attended the duel between Kenton and Drile at the Diem. When the Taishin voted, Lord General Aarik voted in favor of the Diem.
+
+## Quotes
+>“*Look on the bright side. Even if you fail, at least we'll spend the next two weeks living like kings!*”
+\-Aarik's synopsis of Kenton's predicament.[2]
 
 
->“***Khriss**: ¿Tu padre? ¿Quién eres tú?*
-\-Aarik: Alguien sin importancia, y decidido a seguir así.
+>“*Be careful, Kenton—a Kerztian puzzle can be pieced together in more than one way...*”
+\-Aarik's response to the poisoning of the sand masters.[2]
 
 
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] ·  · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+>“***Khriss**: Your father? Who are you?*
+\-Aarik: Someone of no import, and determined to stay that way.
 
 
 
-https://es.coppermind.net/wiki/Aarik
+
+https://coppermind.net/wiki/Aarik

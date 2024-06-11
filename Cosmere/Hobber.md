@@ -1,108 +1,90 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Hobber**|
 |-|-|
 ||
-|**Capacidades**|[[Orden de los Corredores del Viento\|Corredor del Viento]]|
-|**Grupo**|[[Caballero Radiante\|Caballero Radiante]]🐱︎ , [[Puente Cuatro\|Puente Cuatro]]🐱︎, Ejército de Sadeas , Ejército de Kholin|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Abilities**|[[Order of Windrunners\|Windrunner]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Being a Radiant isn't so much about your strength or skill, but about your heart. And yours is the best of all of us.*”
-\-Kaladin a Hobber[2]
+\-Kaladin to Hobber[2]
 
 
-**Hobber** es un miembro del [[Puente Cuatro\|Puente Cuatro]] y un [[Corredor del Viento\|Corredor del Viento]].
+**Hobber** is a member of [[Bridge Four\|Bridge Four]] and a [[Windrunner\|Windrunner]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Rescatado por Kaladin]] 
-3. [[#Tatuajes del Puente Cuatro]] 
-3. [[#Encontrando al Asesino de Blanco]] 
-3. [[#Un milagro]] 
-3. [[#Cayendo en la rutina]] 
+3. [[#Rescued by Kaladin]] 
+3. [[#Bridge Four Tattoos]] 
+3. [[#Encountering the Assassin in White]] 
+3. [[#A Miracle]] 
+3. [[#Falling into Routine]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Kaladin]] 
-4. [[#Roca]] 
+4. [[#Rock]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Hobber es delgado y con la cara redonda. Tiene un espacio entre los dientes y pelo corto y negro. Tiene un tatuaje en la frente para cubrir su marca de esclavo. Hobber es frecuentemente uno de los hombres más positivos del [[Puente Cuatro\|Puente Cuatro]], siempre apoyando a [[Kaladin\|Kaladiny]] al resto de los hombres. Le gusta bromear con los demás y ayudar siempre que puede, incluso cuando está gravemente herido. Sigue las [[Pasiones\|Pasiones]].
+## Appearance and Personality
+Hobber is round-faced and lean. He has a gap between his teeth and short black hair. He has a tattoo on his forehead to cover up his slave’s brand. Hobber is frequently one of the more positive men in [[Bridge Four\|Bridge Four]], always supporting [[Kaladin\|Kaladin]] and the rest of the men. He likes to joke with the others and help wherever he can, even when he is severely injured. He follows the [[Passions\|Passions]].
 
-## Atributos y habilidades
-Hobber es un [[Orden de los Corredores del Viento\|Corredores del Viento]] de al menos Segundo Ideal. Tiene la habilidad de absorber [[Luz tormentosa\|luz tormentosa]] y usar las [[Potencias\|Potencias]] de Adhesión y Gravitación.
+## Attributes and Abilities
+Hobber is a [[Windrunner\|Windrunner]] of at least the Second Ideal. He has the ability to draw in [[Stormlight\|Stormlight]] and use the [[Surges\|Surges]] of Adhesion and Gravitation.
 
-## Historia
-Hobber fue asignado a als cuadrillas de los puentes tras tener una pelea entre borrachos con su escuadrón. Aunque probablemente solo estaba haciendo lo mismo que los demás, un hombre acabó muerto, y fue castigado de acuerdo con ello.
+## History
+Hobber was assigned to the bridge crews after getting into a drunken brawl along with his squad. While he was probably just going along with that the others were doing, a man ended up dead, and he was punished accordingly.
 
-### Rescatado por Kaladin
-Durante la primera carrera de [[Kaladin\|Kaladin]] como líder de puente, encuentra a un herido Hobber tumbado al lado del puente. Una flecha le ha atravesado el muslo y está gimiendo de dolor. Kaladin lo sujeta por debajo de los brazos y lo pone a salvo. Determinando que la flecha no ha afectado a arterias importantes, Kaladin vuelve al campo de batalla para llevarse a más hombres de los puentes heridos. Tras atender a las heridas más graves, Kaladin vuelve con Hobber y limpia, cosey venda su herida. Kaladin ordena a los hombres atar a Hobber y [[Dabbid\|Dabbid]] a lo alto del puente para que puedan transportarlos de vuelta.
-Cuando Kaladin revisa al herido, Hobber estaba sonriendo abiertamente. Agradece a Kaladin haberlo salvado. Kaladin le dice que no será capaz de andar durante unas pocas semanas, pero que le traerá comida del comedor. Hobber simplemente le da las gracias de nuevo, tomando su mano, al borde de las lágrimas. Kaladin pasa a Dabbid y Hobber le dice que ha estado sentado así toda la noche. Hobber piensa que debe haberse llevado un golpe en la cabeza, pero Kaladin no está de acuerdo, llamándolo shock de batalla y diciendo que iría disminuyendo. Hobber solo esperó que tuviera razón.
-Tras unas pocas semanas, gracias a la comida y el antiséptico que [[Kaladin\|Kaladin]] fue capaz de conseguir, Hobber salió cojeando del barracón y se unió al resto del [[Puente Cuatro\|Puente Cuatro]] para su primer cuenco de estofado. En poco tiempo, Hobber pudo andar sin su muleta y no tardó mucho en unirse a las carreras de los puentes de nuevo. Entre medias, [[Lopen\|Lopen]] lo reclutó, junto con [[Dabbid\|Dabbid]], para ayudarlo a llevar agua al resto del Puente Cuatro.
+### Rescued by Kaladin
+During [[Kaladin\|Kaladin]]’s first run as bridgeleader, he found an injured Hobber laying beside the bridge. He had taken an arrow through the thigh and was moaning in pain. Kaladin grabbed him under the arms and pulled him to safety. Determining that the arrow hadn’t hit any major arteries, Kaladin returned to the battlefield to retrieve more injured bridgemen. After tending to the more severe injuries, Kaladin returned to Hobber and cleaned, stitched, and bound his wound. Kaladin ordered the men to tie Hobber and [[Dabbid\|Dabbid]] to the top of the bridge so they could transport them back.
+When Kaladin checked on the wounded, Hobber was smiling openly. He thanked Kaladin for saving him. Kaladin told him he wouldn’t be able to walk for a few weeks, but that he would bring him food from the mess hall. Hobber just thanked him again, taking his hand, almost tearing up. Kaladin moved on to Dabbid and Hobber told Kaladin that he’d been sitting like that all night. Hobber thought he’d been hit in the head, but Kaladin disagreed, calling it battle shock and that it would wear off. Hobber just hoped he was right.
+After a few weeks, thanks to the food and antiseptic [[Kaladin\|Kaladin]] was able to get, Hobber limped out of the barrack and joined the rest of [[Bridge Four\|Bridge Four]] for their first pot of stew. Before long, Hobber could walk without his crutch and it wouldn’t be long before he could start running bridges again. In the meantime, [[Lopen\|Lopen]] recruited him, along with [[Dabbid\|Dabbid]], to help carry water for the rest of Bridge Four.
 
-### Tatuajes del Puente Cuatro
+### Bridge Four Tattoos
 >“*No, sir. I wasn’t freed from Bridge Four. I was freed by it. I wouldn’t trade my time there for anything.*”
-\-Mientras le hacían su tatuaje[4]
+\-While getting his tattoo[4]
 
-Cuando el [[Puente Cuatro\|Puente Cuatro]] decidió hacerse sus tatuajes, Hobber fue el primero en tomar su turno pues fue el primero en creer en [[Kaladin\|Kaladin]]. Incluso durante el doloroso proceso, Hobber mantuvo una sonrisa en el rostro. Cuando la tatuadora acabó, Hobber le preguntó qué significaba. Sigzil le respondió que significaba «libertad». Hobber dijo que era bueno, pero no lo bastante. Quería que le añadieran «Puente Cuatro», porque el Puente Cuatro había sido lo que le liberó. Aunque Kaladin no lo entendió, dibujó los glifos de todas formas para que pudieran añadirse al tatuaje de Hobber. Una vez Hobber acabó, los otros pidieron lo mismo. Hobber, junto con el resto del Puente Cuatro, protestaron cuando la tatuadora dijo que no tatuaría a [[Rlain\|Shen]] porque era propiedad. La tatuadora se rindió y poco después, todo el Puente Cuatro, con la excepción de Kaladin, cuya tinta no se quedaba, tenían el mismo tatuaje de «Puente Cuatro».
+When [[Bridge Four\|Bridge Four]] decided to get tattoos, Hobber was the first one to jump at the chance as he was the very first one to believe in [[Kaladin\|Kaladin]]. Even during the painful process, Hobber kept a grin on his face. As the tattooist finished, Hobber asked what it meant. Sigzil answered that it meant “freedom.” Hobber said that it was good, but not good enough. He wanted “Bridge Four” added to it, because Bridge Four was what freed him. While Kaladin didn’t understand it, he drew the glyphs anyways so they could be added to Hobber’s tattoo. Once Hobber was finished, the others requested the same. Hobber, along with the rest of Bridge Four, objected when the tattooist said she couldn’t tattoo [[Rlain\|Shen]] because he was property. The tattooist gave in and before long, all of Bridge Four, with the exception of Kaladin, whose ink wouldn’t take, had the matching “Bridge Four” tattoo.
 
-### Encontrando al Asesino de Blanco
-[[Kaladin\|Kaladin]], tras recibir una advertencia de [[Syl\|Syl]] de que había oscuridad en el palacio, asignó a Hobber y [[Beld\|Beld]] a una avanzadilla encargada de buscar una salida del edificio. Los dos hombres exploraron, pero se toparon con [[Szeth\|Szeth]]. Szeth cortó las piernas de Hobber, dejándolas grises y oscurecidas, muertas. Luego atravesó a Beld, matándolo. Tras combatir con Szeth, Kaladin encontró a Hobber llorando. Se disculpó con Kaladin y explicó lo ocurrido. Kaladin trató de tranquilizarlo, pero Hobber le dijo que no podía sentir las piernas, que él era inútil. Kaladin se opuso firmemente y dijo que siempre sería Puente Cuatro. Kaladin ofreció hacer que [[Roca\|Roca]] lo enseñara a cocinar. Hobber repuso que era horrible cocinando, pero Kaladin simplemente le dijo que encajaría con la mayoría de los cocineros militares. Kaladin entonces tratói de levantar a Hobber, pero su cuerpo se opuso. Absorbió [[Luz tormentosa\|luz tormentosa]] y entonces llevó a Hobber de vuelta con los demás.
-Hobber cayó en su nuevo papel ayudando a [[Roca\|Roca]] en la cocina, sirviendo a los hombres del [[Puente Cuatro\|Puente Cuatro]] mientras Roca lo miraba orgulloso. Mantuvo las piernas grises cubiertas con una manta, sentándose en un tocón que los hombres hicieron para él. [[Kaladin\|Kaladin]] asintió a Hobber y levantó su puño, animándolo a seguir luchando.
+### Encountering the Assassin in White
+[[Kaladin\|Kaladin]], after receiving warning from [[Syl\|Syl]] that there was darkness in the palace, assigned Hobber and [[Beld\|Beld]] to an advance squad in charge of scouting a way out of the building. The two men scouted ahead, but they ran into [[Szeth\|Szeth]]. Szeth cut down Hobber, leaving his legs darkened and grey, dead. He then stabbed Beld through, killing him. After fighting Szeth, Kaladin found Hobber weeping. He apologized to Kaladin and explained what happened. Kaladin tried to reassure him, but Hobber told him he couldn’t feel his legs, that he was useless. Kaladin objected firmly and told him he would always be Bridge Four. Kaladin offered that they could have [[Rock\|Rock]] teach him how to cook. Hobber countered that he was an awful cook, but Kaladin just told him he’d fit in with most military cooks. Kaladin then tried to lift Hobber, but his body objected. He sucked in [[Stormlight\|Stormlight]] and then carried Hobber back towards the others.
+Hobber fell into his new role of helping [[Rock\|Rock]] in the kitchen, serving the men of [[Bridge Four\|Bridge Four]] while Rock looked on proudly. He kept his grey legs covered with a blanket, sitting on a stump the men had fashioned for him. [[Kaladin\|Kaladin]] nodded to Hobber and raised a fist, encouraging him to fight on.
 
-### Un milagro
->“*Señor, no sé si... O sea, señor yo no soy ningún Radiante. Tampoco se me dio nunca bien la lanza. Apenas soy un cocinero pasable.*”
-\-Hobber a Kaladin[2]
+### A Miracle
+>“*I don't know if...I mean, sir, I'm no Radiant. I was never that good with the spear. I'm barely a passable cook.*”
+\-Hobber to Kaladin[2]
 
 
-Hobber continuó en su puesto como cocinero asistente de [[Roca\|Roca]] una vez que el resto del [[Puente Cuatro\|Puente Cuatro]] se marcharon a [[Urithiru\|Urithiru]] tras la [[Batalla de Narak\|batalla de Narak]]. Un día, viajó con el resto del [[Puente Cuatro\|Puente Cuatro]] y otros futuros [[Orden de los Corredores del Viento\|Corredores del Viento]] a las [[Llanuras Quebradas\|Llanuras Quebradas]] para entrenar. Mientras ayudaba a Roca en la cocina, [[Kaladin\|Kaladin]] fue hacia Hobber y le dio una gema. Kaladin le explicó que tenía que inspirar la [[Luz tormentosa\|luz tormentosa]], algo que no sabía que estaba haciendo hasta que [[Teft\|Teft]] se lo explicó. Hobber se opuso, diciendo que no era bueno con la lanza y que apenas era un cocinero aceptable. Sin embargo, era un trabajo que podía hacer tras ser herido por el [[Szeth\|Asesino de Blanco]], y Roca estaba feliz por contar con su ayuda. Kaladin envolvió la gema con los dedos de Hobber y le dijo que lo intentase, explicando que ser un [[Caballero Radiante\|Caballero Radiante]] no dependía tanto de la fuerza o la habilidad sino del corazón. Kaladin le dijo a Hobber que su corazón era el mejor de todos ellos.
-Un poco después, Roca volvió a la cocina y fue a darle a Hobber los platos para que pudieran empezar a repartir la comida. Sin embargo, Hobber no respondió a su petición. En lugar de eso, estaba concentrado en la gema de su mano. La energía cambió y varios vientospren se giraron hacia Hobber. En un momento, pareció como si todo lo demás se desdibujara cuando Hobber empezó a brillar. Roca gritó y Hobber dio un salto por la sorpresa. Se quedó boquiabierto mientras miraba a la esfera ahora opaca. La sostuvo en su mano y gritó a los otros hombres.
+Hobber continued to find his place in the kitchen as [[Rock\|Rock]]’s assistant chef once the rest of [[Bridge Four\|Bridge Four]] moved to [[Urithiru\|Urithiru]] after the [[Battle of Narak\|Battle of Narak]]. One day, he traveled with the rest of [[Bridge Four\|Bridge Four]] and other prospective [[Windrunners\|Windrunners]] to the [[Shattered Plains\|Shattered Plains]] for training. While assisting Rock in the kitchen, [[Kaladin\|Kaladin]] walked over to Hobber and handed him a gemstone. Kaladin explained he had to breathe in the [[Stormlight\|Stormlight]], something he himself hadn’t really known he was doing until [[Teft\|Teft]] explained it to him. Hobber objected, saying he wasn’t that good with the spear and barely a passable cook. However, it was a job he could do after his was injured by the [[Assassin in White\|Assassin in White]], and Rock was happy to have his help. Kaladin folded the gemstone in Hobber’s fingers and just asked him to try, explaining that being a [[Knight Radiant\|Knight Radiant]] wasn’t about strength or skill as much as it was about heart. Kaladin told Hobber that his heart was the best of all of them.
+A short time later, Rock returned to the kitchen and went to hand Hobber the plates so they could begin distributing the food. However, Hobber didn’t respond to his request. Rather, he was focused on the gemstone in his hand. The energy changed and several windspren turned towards Hobber. In a moment, it seemed like everything else had faded as Hobber’s fist began to glow. Rock shouted and Hobber jumped in surprise. His jaw dropped and he stared at the now-dun sphere. He held up his hand and shouted at the other men.
 
->“*¡Puedo sentirlos otra vez! ¡Me siento los dedos de los pies!*”
-\-Siendo curado[2]
+>“*I can feel them again! I can feel my toes!*”
+\-Being healed[2]
 
-Los hombres de los puentes llegaron a la carrera y Kaladin les ordenó darle todas sus gemas a Hobber. Los hombres se arremolinaron para darle a Hobber sus gemas, y la luz disminuyó. Hobber gritó que podía sentir sus dedos de los pies de nuevo. Se estiró tratando de alcanzar un apoyo, y [[Drehy\|Drehy]] y [[Peet\|Peet]] lo ayudaron salir de su silla, enderezándolo. El finalmente los forzó a retirarse, sosteniéndose por sí mismo precariamente. Los hombres del Puente Cuatro lo celebraron, y [[Lopen\|Lopen]] le hizo el saludo del Puente Cuatro. Pareció ser algo especial viniendo de él, una de las primeras veces que Lopen había sido capaz de hacer el saliudo. Hobber le devolvió el saludo.
+The bridgemen came rushing over and Kaladin ordered them to give all their gemstones to Hobber. The men scrambled to give Hobber their gemstones, and the lights dampened. Hobber cried that he could feel his toes again. He reached out for support, and [[Drehy\|Drehy]] and [[Peet\|Peet]] helped him slip off his stool, righting him. He finally forced them back, standing precariously on his own. The men of Bridge Four celebrated, and [[Lopen\|Lopen]] gave the Bridge Four salute. It seemed to be something special coming from him, one of the first times Lopen had been able to make the salute. Hobber saluted back.
 
-### Cayendo en la rutina
-Según más y más gente llegaba a los cielos y se convertían en [[Orden de los Corredores del Viento\|Corredores del Viento]], muchos sintieron que las cosas estaban cambiando más rápido de lo que les gustaría. Hobber admitió que tenía miedo de no poder seguir el ritmo de los otros, lo que llevó a que muchos confesaran sus miedos. [[Roca\|Roca]] les recordó que aunque todos tenían miedo y se sentían solos, todos compartían esos miedos y podían estar solos juntos. Hobber y los demás lo encontraron reconfortante, y Hobber incluso le dio una palmada en la espalda a [[Rlain\|Rlain]].
-El [[Puente Cuatro\|Puente Cuatro]] continuó estableciendo sus deberes de [[Orden de los Corredores del Viento\|Corredores del Viento]] y guardia, con Hobber y otros compartiendo el deber de guardia. Mientras acompaña a [[Dalinar\|Dalinar]] y [[Navani\|Navani]] a una reunión, esta última se disculpo porque debía ser aburrido. Hobber y [[Leyten\|Leyten]] confesaron que les gusta lo aburrido, porque eso significaba que nadie estaba tratando de matarlos ese día.
+### Falling into Routine
+As more and more people took to the skies and joined the [[Windrunners\|Windrunners]], many felt like things were changing faster than they would have liked for them to. Hobber admitted that he was afraid he couldn’t keep up with the others, which led to many others confessing their fears. [[Rock\|Rock]] reminded them that while they were all afraid and felt alone, they all shared those fears and could be alone together. Hobber and the others found this comforting, with Hobber even slapping [[Rlain\|Rlain]] on the back.
+[[Bridge Four\|Bridge Four]] continued to settle into their [[Windrunner\|Windrunner]] and guard duties, with Hobber and others sharing guard duty. While accompanying [[Dalinar\|Dalinar]] and [[Navani\|Navani]] to a meeting, the latter apologized for how boring it must have been. Hobber and [[Leyten\|Leyten]] both confessed they liked boring, because that meant no one was trying to kill them that day.
 
-## Relaciones
-  Con <<Rlain\|Rlain>> y <<Roca\|Roca>>
+## Relationships
+  With <<Rlain\|Rlain>> and <<Rock\|Rock>>
 ### Kaladin
-Habiendo sido rescatado por [[Kaladin\|Kaladin]], Hobber nunca flaquea en su apoyo o devoción por el jefe de puente. Apoya sus esfuerzos e incluso es el primero en hacer que tapen su marca de esclavo con un tatuaje del [[Puente Cuatro\|Puente Cuatro]]. A Kaladin, que es fuerte la mayor parte del tiempo, casi se le saltan las lágrimas cualquiera de las veces que habla con Hobber tras su lesión a manos de Szeth. Cuando Kaladin anima a Hobber a tratar de inspirar [[Luz tormentosa\|luz tormentosa]], le dice que tiene uno de los mejores corazones de todos ellos.
+Having been rescued by [[Kaladin\|Kaladin]], Hobber never wavers in his support of or devotion to the bridgeleader. He supports his efforts and is even the first to get a [[Bridge Four\|Bridge Four]] tattoo to cover up his slave brand. Kaladin, while strong most of the time, almost seems near tears whenever he talks to Hobber after his injury at the hands of Szeth. When Kaladin encourages Hobber to try to breathe in [[Stormlight\|Stormlight]], he tells Hobber that he has one of the best hearts of all of them.
 
-### Roca
-[[Roca\|Roca]], o Lunamor, abraza el apoyo de Hobber aunque sea un cocinero apenas pasable. Después de que su lesión le dejara las piernas muertas, Hobber bromea sobre que podría quemar el guiso. Sin embargo, Roca aprecia su ayuda, afirmando que siempre puede encontrar al hombre donde lo dejó.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Rock
+[[Rock\|Rock]], or Lunamor, embraces having Hobber’s support in the kitchen even though he is barely passable as a cook. After his injury that left him with dead legs, Hobber jokes that he could burn broth. However, Rock appreciates his help, stating that he can always find the man where he left him.
 
 
 
-https://es.coppermind.net/wiki/Hobber
+https://coppermind.net/wiki/Hobber

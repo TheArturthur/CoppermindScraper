@@ -1,53 +1,37 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gennel**|
 |-|-|
-|**Títulos**|[[Lord granjero\|Lord granjero]]|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Campo\|el Campo]]|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Titles**|[[Lord Farmer\|Lord Farmer]]|
+|**Groups**|[[Taishin\|Taishin]], [[Field\|The Field]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Gennel** es el actual [[Lord granjero\|lord granjero]] de [[Lossand\|Lossand]]. Es el taisha encargado del [[Campo\|Campo]]. Reside en el Congreso de Granjeros y dirige la industria agrícola de Lossand.
+**Gennel** is the current [[Lord Farmer\|Lord Farmer]] of [[Lossand\|Lossand]]. He is the Taisha in charge of the [[Field\|Field]]. He resides at the Farmer's Congress and leads the farming industry of Lossand.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Citas. [[#Citas]] 
-4 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Es un hombre de hombros anchos, barba pelirroja poblada y pelo hasta los hombros.
-
-## Historia
-En la primera votación del Taishin sobre el tema, Gennel votó a favor de la disolución del [[Diem\|Diem]], afirmando que la [[Maestr%C3%ADa de la arena\|maestría de la arena]] es demasiado peligrosa. No estuvo disponible cuando [[N'Teese\|N'Teese]] intentó concertar una reunión con él en nombre de [[Khriss\|Khriss]].
-Cuando [[Kenton\|Kenton]] estaba buscando a [[Vey\|Vey]], visitó a Gennel en su casa y utilizó su arena para lanzar al aire al ayudante de Gennel y le amenazó con volverlo contra él si no le decía adónde había ido Vey. Aterrorizado, Gennel suplicó a Kenton que no le obligara a decírselo, pues Vey se enfadaría mucho con él. Kenton se dio cuenta de que estaba siendo mezquino y dejó plantado al ayudante de Gennel. Entonces le dijo a Gennel que no le obligaría a contestar, pero le pidió que por favor le dijera adónde había ido Vey. Gennel se niega y Kenton se marcha.
-En la votación final del Taishin, Gennel votó a favor del Diem. Se da a entender que esto se debe a que Gennel siempre escucha a Vey.
-
-## Citas
->“*Vey se enfadará mucho si hablo. ¿No podéis preguntar a nadie más? ¡Por favor, no me matéis!*”
-\-Gennel a Kenton[3]
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Quotes. [[#Quotes]] 
+4 Notes. [[#Notes]] 
 
 
-## Notas
+## Appearance and Personality
+He is a broad-shouldered man with a full bushy red beard and shoulder length hair.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## History
+In the first vote of the Taishin on the subject, Gennel voted for the dissolution of the [[Diem\|Diem]], saying that [[Sand mastery\|sand mastery]] is too dangerous. He was unavailable when [[N'Teese\|N'Teese]] attempted to set up a meeting with him on behalf of [[Khriss\|Khriss]].
+When [[Kenton\|Kenton]] was searching for [[Vey\|Vey]] he visited Gennel in his home and used his sand to pull Gennel's assistant into the air and threatened to turn it on him if he wouldn't tell him where Vey went. Terrified, Gennel begged Kenton not make him tell since Vey will be very angry with him. Kenton realized he is being mean and let Gennel's assistant down. He then told Gennel that he won't force him to answer, but asked him to please tell him where Vey went. Gennel refuses and Kenton leaves.
+In the final vote of the Taishin, Gennel voted in favor of the Diem. It is implied that this is because Gennel always listens to Vey.
+
+## Quotes
+>“*Vey will be very angry if I tell. I'm his... friend. Can't you ask someone else? Oh, please don't kill me!*”
+\-Gennel to Kenton[3]
 
 
 
-https://es.coppermind.net/wiki/Gennel
+
+https://coppermind.net/wiki/Gennel

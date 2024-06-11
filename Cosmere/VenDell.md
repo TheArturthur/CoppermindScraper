@@ -1,108 +1,84 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**VenDell**|
 |-|-|
-|**Nacido en**|Sexta Generación|
-|**Especie**|[[Kandra\|Kandra]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|
+|**Born**|Sixth Generation|
+|**Species**|[[Kandra\|Kandra]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**VenDell** es un [[Kandra\|kandra]] antiguo de la Sexta Generación.
-Según [[MeLaan\|MeLaan]], le gusta que le hagan preguntas sobre ser un kandra y también ha hecho comentarios sobre la sexualidad humana.
-Tiene las manos de [[Brisa\|Brisa]].
+**VenDell** is an elder [[Kandra\|kandra]] of the Sixth generation.
+According to [[MeLaan\|MeLaan]], he enjoys being asked questions about being a kandra, and has also made comments on human sexuality.
+He has [[Breeze\|Breeze's]] hands.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Pre-Catacendro]] 
-3. [[#El caso de ReLuur]] 
+3. [[#Pre-Catacendre]] 
+3. [[#The ReLuur Case]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#MeLaan]] 
 4. [[#Waxillium Ladrian]] 
 4. [[#Wayne]] 
 4. [[#Marasi Colms]] 
-4. [[#Armon.C3.ADa]] 
+4. [[#Harmony]] 
 
 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-VenDell aparece como un hombre delgado en traje marrón y pajarita. El color de su traje cambia a un marrón más claro tres veces.
-Tiene un lenguaje y modales educados, pero también tiene la costumbre de hacer comentarios ingeniosos. A menudo da respuestas imprecisas a preguntas. Como kandra, no se inmuta cuando se le apunta con una pistola en la cabeza, pero no acepta ir al campo de batalla debido a que respeta el [[Primer Contrato\|Primer Contrato]].
+## Appearance and Personality
+VenDell appears as a slender man in brown suit and a bow tie. The color of his suit changes to a lighter brown three times.
+He has polite speech and manners but also has a habit of making witty remarks. He often gives indefinite answers to questions. As a kandra he does not flinch when a pistol is put on his head but he does not agree to go on the field due to honoring the [[First Contract\|First Contract]].
 
-## Atributos y habilidades
-Como kandra, VenDell no puede ser asesinado simplemente mediante violencia física. Él puede transformarse en casi cualquier criatura al digerirla y utilizar sus huesos. Es difícil transformarse en animales muy pequeños, ya que necesita una cierta masa para mantener las funciones cognitivas. VenDell sería capaz de cambiar de forma en un conejito si es absolutamente necesario.
-Como cada kandra, VenDell tiene dos Bendiciones que son clavos creados usando el arte de la [[Hemalurgia\|hemalurgia]].
+## Attributes and Abilities
+As a kandra, VenDell cannot be killed by simple physical violence. He can transform into almost any creature by digesting them and using their bones. It is difficult to shapeshift into very small animals since he needs a certain mass to hold the cognitive functions. VenDell would be able to shapeshift into a bunny if absolutely necessary.
+Like each kandra, VenDell has two Blessings which are spikes created using the art of [[Hemalurgy\|Hemalurgy]].
 
-## Historia
-### Pre-Catacendro
-VenDell recibe sus clavos [[Hemalurgia\|hemalúrgicos]] llamados Bendiciones como parte de la Sexta Generación de kandra.
-Justo antes del [[Catacendro\|Catacendro]], VenDell, como la mayoría del resto de kandra, se quita los clavos tal como requiere la [[Resoluci%C3%B3n\|Resolución]]. Sin embargo, Armonía restauró las Bendiciones de VenDell para que pudiese seguir viviendo como un kandra y servirlo.
+## History
+### Pre-Catacendre
+VenDell receives his [[Hemalurgy\|Hemalurgic]] spikes called Blessings as part of the Sixth Generation of kandra.
+Right before the [[Catacendre\|Catacendre]], VenDell, like most other kandra, removes his spikes as executing the [[Resolution\|Resolution]] requires. However, Harmony restored VenDell's Blessings to him so he could keep on living as a kandra and serve him.
 
-### El caso de ReLuur
-VenDell busca a [[Waxillium Ladrian\|Waxillium Ladrian]] e intenta solicitar una reunión con él para hablar sobre una misión para recuperar el clavo perdido de [[ReLuur\|ReLuur]]. Sin embargo, Wax lo rechaza dos veces así que VenDell le pide ayuda a [[Marasi Colms\|Marasi Colms]].
-[[Wayne\|Wayne]] invita a VenDell a celebrar la reunión con Marasi en la mansión de Wax. Wax casi dispara a VenDell cuando llega a casa, ya que no esperaba visitas, pero decide unirse a la reunión de todos modos. En la reunión, VenDell utiliza un proyector de imágenes para mostrar una imagen del [[Campo del Renacimiento\|Campo del Renacimiento]] de [[Elendel\|Elendel]], lo que sorprende a Wax, Wayne y Marasi.
-VenDell habla sobre la [[Investidura\|Investidura]] y la [[Identidad\|Identidad]], explicando cómo la Investidura de cada individuo se ajusta a su aspecto espiritual. Presenta la posibilidad de que alguien pueda usar las [[Mente de metal\|mentes de metal]] de cualquiera. Este, sin embargo, no es su interés principal. Entonces propone la idea de crear una mente de metal sin vínculo la cual pudiese usar cualquiera si un [[Feruquimista\|feruquimista]] se despojase de toda su Identidad, para luego llenar otra mente de metal con un atributo. Esto lleva a una discusión sobre si alguien podría convertir a cualquier persona en [[Alomancia\|nacido de la bruma]] y feruquimista al mismo tiempo al manipular la Identidad y la Investidura para crear un conjunto de brazaletes que otorgasen habilidades feruquímicas o alománticas a la persona que los lleva puestos. Wax argumenta que todo eso es imposible, ya que no hay feruquimistas completos ni nacidos de la bruma disponibles para probar ninguna teoría en este momento. VenDell está de acuerdo en que no ha habido feruquimistas completos durante mucho tiempo, pero no está de acuerdo en que sea imposible en el futuro. Sin embargo, no está dispuesto a utilizar hemalurgia para probar y estudiar las posibilidades.
-Marasi pregunta por más detalles sobre la tarea que VenDell le está dando y, en respuesta, VenDell le pregunta si ella sabe acerca de los [[Brazales de Duelo (in-world)\|Brazales de Duelo]]. VenDell procede a explicar que los Brazales de Duelo eran las mentes de metal del difunto [[Lord Legislador\|lord Legislador]]. Aparentemente, un kandra de la Tercera Generación - ReLuur - probablemente encontró las mentes de metal. Con el proyector de imágenes, VenDell muestra una fotografía tomada por ReLuur de un mural que representa los Brazales de Duelo con un texto que nadie podía leer. ReLuur había regresado desde la expedición en la que participó, pero le faltaba su segundo clavo de metal, lo que lo vuelve inestable y le impide recordar gran parte de su viaje. La misión de VenDell para Marasi era encontrar el clavo perdido de ReLuur.
-Marasi acepta la petición de VenDell y acepta ir a [[Nueva Seran\|Nueva Seran]]. Marasi le pide a Wax que se una a ella, pero él no está dispuesto a ayudar hasta que VenDell le muestra una imagen en la que aparece la hermana de Wax, [[Telsin\|Telsin]]. Después de un breve descanso, Wax, Wayne, Marasi y Steris deciden partir hacia Nueva Seran. VenDell lo había organizado todo para su viaje. Wax le pide a VenDell que se una a ellos, lo cual hace que el kandra pierda momentáneamente la compostura. VenDell está en total desacuerdo en unirse a ellos y dice que en su lugar se unirá MeLaan. VenDell intenta darle a Wax un nuevo pendiente hemalúrgico, pero Wax se niega a aceptarlo. Luego se lo da a Marasi, quien más tarde se lo entrega a Wax.
+### The ReLuur Case
+VenDell seeks out [[Waxillium Ladrian\|Waxillium Ladrian]] and tries to request a meeting with him to talk about a mission to recover [[ReLuur\|ReLuur's]] missing spike. However, Wax rejects him twice so VenDell turns to [[Marasi Colms\|Marasi Colms]] for help.
+[[Wayne\|Wayne]] invites VenDell to hold the meeting with Marasi in Wax's mansion. Wax almost shoots VenDell when he comes home since he wasn't expecting guests, but decides to join the meeting anyway. In the meeting, VenDell uses an image projector to show a picture of [[Elendel\|Elendel]], [[Field of Rebirth\|Field of Rebirth]], which surprises Wax, Wayne, and Marasi.
+VenDell talks about [[Investiture\|Investiture]] and [[Identity\|Identity]], explaining how each individual's Investiture is keyed to their Spiritual aspect. He presents a possibility of someone being able to use anyone's [[Metalmind\|metalmind]]. This, however, isn't his main interest. He then proposes the idea of creating an unkeyed metalmind which anyone could use if a [[Feruchemist\|Feruchemist]] were to divest himself of all Identity, then fill another metalmind with an attribute. This leads to discussion if someone could make any person a [[Allomancy\|Mistborn]] and a Feruchemist at once by manipulating Identity and Investiture to create a set of bracers which imparted Feruchemical or [[Allomantic\|Allomantic]] ability upon a person wearing them. Wax argues it is all impossible since there are no Full Feruchemists or Mistborn around to even test any theories anymore. VenDell agrees that there hasn't been any Full Feruchemists in a very long time but disagrees that it would be impossible in the future. He is not willing to use Hemalurgy to test and study the possibilities though.
+Marasi asks for more details about the task VenDell is giving her and in response VenDell asks if she knows about the [[Bands of Mourning\|Bands of Mourning]]. VenDell proceeds to explain that the Bands of Mourning were the metalminds of the late [[Lord Ruler\|Lord Ruler]]. Apparently, a kandra of the Third Generation - ReLuur - possibly found the metalminds. With the image projector, VenDell shows a picture taken by ReLuur of a mural depicting the Bands of Mourning with script no one could read. ReLuur has since returned from the expedition he went on but is missing his second spike which makes him unstable and unable to remember much of his journey. VenDell's mission for Marasi is to find a recover ReLuur's missing spike.
+Marasi accepts VenDell's request and agrees to go to [[New Seran\|New Seran]]. Marasi asks Wax to join her but he is not willing to help until VenDell shows him a picture which has Wax's sister, [[Telsin\|Telsin]], in it. After a short break, Wax, Wayne, Marasi, and Steris decide to all set off to New Seran. VenDell has arranged everything for their journey. Wax asks VenDell to join them which makes the kandra lose his composure momentarily. VenDell strongly disagrees on joining them on the field and says MeLaan will be joining them instead. VenDell tries to give Wax a new Hemalurgic earring but Wax refuses to take it. He then gives it to Marasi who later delivers it to Wax.
 
-## Relaciones
+## Relationships
 ### MeLaan
-VenDell considera a MeLaan su hermana y confía en que ella se encargue del trabajo de campo. Preferiría que MeLaan mostrara más tacto y mejores modales como representante de [[Armon%C3%ADa\|Armonía]]. MeLaan responde casualmente a VenDell y intercambian comentarios ingeniosos entre ellos.
+VenDell considers MeLaan to be his sister and trusts her to handle the field work. He would prefer MeLaan showing more tact and better manners as a representative of [[Harmony\|Harmony]]. MeLaan casually talks back to VenDell and they make witty comments back and forth.
 
 ### Waxillium Ladrian
-VenDell intenta solicitar educadamente una reunión con [[Waxillium\|Waxillium]] para discutir la misión de recuperar el clavo perdido de [[ReLuur\|ReLuur]], pero Wax lo rechaza en cada ocasión antes de que VenDell pueda mencionar siquiera la misión. Deciden seguir hablándose, pero Wax no ha olvidado ni perdonado lo que le sucedió a [[Lessie\|Lessie]], por lo que hay mucha tensión entre ellos. VenDell intenta darle a Wax un pendiente [[Caminante\|caminante]], pero Wax se niega a aceptarlo. VenDell le entrega el pendiente en una bolsita a Marasi, quien luego se lo entrega a Wax.
+VenDell tries to politely request a meeting with [[Waxillium\|Waxillium]] to discuss the mission of recovering [[ReLuur\|ReLuur's]] missing spike but Wax rejects him each time before he can even mention the mission. They are in speaking terms but Wax has not forgotten nor forgiven what happened to [[Lessie\|Lessie]] so there is a lot of tension between them. VenDell tries to give Wax a [[Pathian\|Pathian]] earring but Wax refuses to take it. VenDell gives the earring in a pouch to Marasi who later delivers it to Wax.
 
 ### Wayne
-A VenDell no le agrada mucho la forma en que [[Wayne\|Wayne]] lo trata, ya que Wayne actúa de manera sospechosa hacia él y le lanza una nuez en la cabeza. VenDell está acostumbrado a que los humanos lo traten con mucho respeto por ser un sirviente de Armonía, por lo que el poco o nulo respeto que muestra Wayne le resulta molesto. Sin embargo, VenDell le pregunta amablemente a Wayne si podría quedarse con su esqueleto después de que Wayne haya fallecido. Según VenDell, los huesos de los hacedores de sangre son particularmente interesantes debido al tiempo que pasan débiles y enfermos, lo que crea singularidades distintivas en las articulaciones y los huesos.
+VenDell is not very pleased with [[Wayne\|Wayne's]] way of treating him due to Wayne acting suspicious of him and throwing a walnut at his head. VenDell is used to humans treating him with high respect for being a servant of Harmony, so Wayne showing little to no respect rubs him the wrong way. However, VenDell politely asks Wayne if he could have his skeleton after Wayne is dead. According to VenDell, Bloodmakers' bones are particularly interesting due to the time they spend weak and sick which creates distinctive oddities in the joints and bones.
 
 ### Marasi Colms
-Después de que Wax rechazase su oferta por segunda vez, VenDell decide pedir la ayuda de [[Marasi\|Marasi]] para recuperar el clavo de ReLuur. Al principio, Marasi se sorprende de por qué VenDell le pedía ayuda, pero acepta colaborar. Incluso le entrega el pendiente a Wax después de que VenDell no se lo diese.
+After being turned down by Wax the second time, VenDell decides to request [[Marasi\|Marasi's]] help for recovering ReLuur's spike. At first, Marasi is puzzled why VenDell would ask her but she agrees to help. She even delivers the earring to Wax after VenDell failed to give it to him.
 
-### Armonía
-Como otros kandra, VenDell también es considerado un [[Inmortal Sin Rostro\|Inmortal Sin Rostro]], los representantes de Armonía. VenDell y otros kandra han estado tratando de hacer que Armonía les diga más sobre inventos futuros, pero no han tenido suerte.
+### Harmony
+Like other kandra, VenDell is also considered to be a [[Faceless Immortal\|Faceless Immortal]], Harmony's representative. VenDell and other kandra have been trying to make Harmony tell them more about future inventions but with no luck.
 
-## Citas
->“*Si tiene que dispararme, hágalo en la pierna izquierda, por favor. Por esos huesos no siento ningún cariño especial.*”
-\-VenDell mientras Wax está a punto de dispararle por invadir su estudio.
-
-
-## Curiosidades
-Brandon contestó "[[RAFO\|RAFO]]" (lee y descúbrelo) a una pregunta sobre si VenDell tenía [[Aliento biocrom%C3%A1tico\|aliento biocromático]] lo que llevó a especulaciones de que esto podría ser la causa de que su traje se volviese de color más claro. Sin embargo, un mes después Brandon confirmó que VenDell simplemente se cambia de trajes.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Quotes
+>“*If you must shoot me, please do it in the left leg, as I've no particular fondness for those bones.*”
+\-VenDell while Wax is about to shoot him for trespassing his study
 
 
+## Trivia
+Brandon has [[RAFO\|RAFO'ed]] a question whether VenDell has [[BioChromatic Breath\|BioChromatic Breaths]] which led to speculation of it being the cause for his suit getting lighter in color. However, a month later Brandon confirmed that VenDell just changes his suits.
 
-https://es.coppermind.net/wiki/VenDell
+
+https://coppermind.net/wiki/VenDell

@@ -1,125 +1,86 @@
-
-
-|**[[Sombras de identidad\|<]]*Brazales de Duelo (libro)*[[El metal perdido\|>]]**|
+|**[[Shadows of Self\|<]]*The Bands of Mourning*[[The Lost Metal\|>]]**|
 |-|-|
 ||
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|**Anterior**|*[[Sombras de identidad\|Sombras de identidad]]*|
-|**Siguiente**|*[[El metal perdido\|El metal perdido ]]*|
-|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|26 de enero de 2016|
-|**Fecha española**|21 de junio de 2017|
-|**Editorial**||
-|**Editorial en español**||
+|**[[Mistborn Era 2\|Mistborn Era 2]]**|
+|**Follows**|*[[Shadows of Self\|Shadows of Self]]*|
+|**Precedes**|*[[The Lost Metal\|The Lost Metal ]]*|
+|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Released**|January 26, 2016|
+|**Publisher**||
 |**ISBN**|978-0-7653-7857-6|
-|**ISBN español**|978-8466659628|
-|**Número de Páginas**|447 , 512 |
-|**Número de Palabras**|[[Brazales de Duelo (libro)/Statistical analysis\|127,456]]|
+|**Page Count**|447|
+|**Word Count**|[[The Bands of Mourning/Statistical analysis\|127,456]]|
 
-Este artículo es sobre la novela. Para el objeto de dentro del universo, ver [[Brazales de Duelo (in-world)\|Brazales de Duelo (in-world)]].
-***Brazales de Duelo*** es el tercer libro ambientado en la [[Nacidos de la bruma Era 2\|segunda era de Nacidos de la bruma]]. Se publicó el 26 de enero de 2016 en inglés (por la editorial Tor) y el 21 de enero de 2017 en español (por la editorial NOVA en España), poco después de *[[Sombras de identidad\|Sombras de identidad]]*.
+This article is for the novel. For the in-universe item, see [[Bands of Mourning\|Bands of Mourning]].
+***The Bands of Mourning*** is the third book set in [[Mistborn Era 2\|Mistborn Era 2]]. It was published on January 26, 2016, shortly after *[[Shadows of Self\|Shadows of Self]]*.
 
-## Sumario
+## Contents
 
-1 Sinopsis. [[#Sinopsis]] 
-2 Resumen. [[#Resumen]] 
-3 Desarrollo. [[#Desarrollo]] 
-4 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-5 Arte interior. [[#Arte interior]] 
-6 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-7 Notas. [[#Notas]] 
+1 Synopsis. [[#Synopsis]] 
+2 Summary. [[#Summary]] 
+3 Development. [[#Development]] 
+4 Cover Gallery. [[#Cover Gallery]] 
+5 Interior Art. [[#Interior Art]] 
+6 Statistical Analysis. [[#Statistical Analysis]] 
+7 Notes. [[#Notes]] 
 
 
-## Sinopsis
+## Synopsis
 >“
-\-Con Aleación de ley y Sombras de identidad, Brandon Sanderson sorprendió a los lectores con un spinoff de sus libros de Nacidos de la bruma, superventas del New York Times, ambientado después de los hechos de la trilogía, en un periodo correspondiente a la América de finales del siglo XIX.
+\-With The Alloy of Law and Shadows of Self, Brandon Sanderson surprised readers with a New York Times bestselling spinoff of his Mistborn books, set after the action of the trilogy, in a period corresponding to late 19th-century America.
+Now, with The Bands of Mourning, Sanderson continues the story. The Bands of Mourning are the mythical metalminds owned by the Lord Ruler, said to grant anyone who wears them the powers that the Lord Ruler had at his command. Hardly anyone thinks they really exist. But now a kandra researcher has returned to Elendel with images that seem to depict the Bands, as well as writings in a language that no one can read. Waxillium Ladrian is recruited to travel south to the city of New Seran to investigate, and along the way he discovers hints that point to the true goals of his uncle Edwarn and the shadowy organization known as The Set.
 
 
-## Resumen
-Para un resumen completo capítulo a capítulo, ver [[Brazales de Duelo (libro)/Resumen\|/Resumen]].
+## Summary
+For a complete chapter by chapter summary, see [[The Bands of Mourning/Summary\|/Summary]].
 
-[[Wax\|Wax]] es un adolescente que vive en la Aldea y se escapa a la ciudad con su [[Telsin\|hermana]] y sus amigos. Se entera de que un alguacil está visitando la zona por un reciente incendio provocado, así que se escabulle y espía a su abuela. Más tarde, en su habitación, espía a uno de estos amigos, [[Forch\|Forch]], fuera, bajo la lluvia. Va a investigar y lo encuentra torturando a un niño. Forch ataca, y Wax consigue matarlo con una bala que le robó a su abuela (dejada por el alguacil como advertencia). Se da cuenta de que su destino es luchar contra el crimen, lejos de la Aldea.
-
-
-Seis meses después de la muerte de [[Paalm\|Paalm]], Wax y [[Steris\|Steris]] van a su boda. Ésta se ve interrumpida por la caída de una torre de agua cercana sobre la iglesia, lo que permite a Wax aplazar el matrimonio. Sigue lamentándose por haber matado a Lessie.
-Cuando Wax vuelve a casa, encuentra a [[MeLaan\|MeLaan]] y a otro [[Kandra\|kandra]], [[VenDell\|VenDell]], pidiendo ayuda a [[Marasi\|Marasi]]. Otro kandra llamado [[ReLuur\|ReLuur]] estaba buscando los [[Brazales de Duelo (in-world)\|Brazales de Duelo]] y regresó herido y con un clavo faltante. Discuten varias posibilidades con la combinación de la [[Feruquimia\|feruquimia]] y la [[Hemalurgia\|hemalurgia]]. Wax acepta ayudar a recuperar el clavo porque su hermana ha sido secuestrada.
+[[Wax\|Wax]] is a teenager living in the [[Village\|Village]], sneaking out into the city with his [[Telsin\|sister]] and her friends. He learns that a constable is visiting the Village about a recent arson, so he bugs out and eavesdrops on his grandmother. Later in his room, he spies one of the friends, [[Forch\|Forch]], outside in the rain. He goes to investigate and finds him torturing a young boy. Forch attacks, and Wax manages to kill him with a bullet he stole from his grandmother (left by the constable as a warning). He realizes that his destiny is fighting crime, away from the Village.
 
 
-Wax, Marasi, MeLaan y [[Wayne\|Wayne]] se dirigen a Nueva Seran, el último lugar donde se vio a ReLuur. Steris les acompaña, como corresponde a una prometida. Su tren es atacado por la [[Banda de los Nocturnos\|banda de los Nocturnos]], pero Wax cree que sólo es una distracción de su [[Edwarn Ladrian\|tío]]. Sigue adelante con su objetivo original en lugar de perseguir a los restos de la banda.
-Wax, Steris y MeLaan acuden a una fiesta celebrada por [[Kelesina Shores\|Kelesina Shores]], donde Wax recibe una extraña moneda de un [[Hoid\|vagabundo]] al entrar. Cuando él le pregunta sin rodeos por la moneda, ella pone una excusa y abandona la fiesta. Steris crea una distracción al vomitar repentinamente, lo que permite a Wax tratar de encontrarla. La encuentra en una habitación hablando con el [[Edwarn Ladrian\|señor Conjunto]] por radio. Una mujer [[Terris\|criada]] aparece y mata a Kelesina. Wax y MeLaan consiguen matarla y confiscar un brazalete de oro lleno de salud.
-Mientras tanto, Wayne y Marasi van a un cementerio para intentar encontrar el clavo perdido. Son atacados por miembros del Grupo, pero Wayne utiliza sus habilidades curativas y de deslizador para acabar con todos ellos. Buscan en el libro de contabilidad del sepulturero corrupto y hacen una visita a [[Templeton Fig\|Templeton Fig]], el hombre que envió a los asesinos. Lo engañan para que revele que el clavo fue enviado a [[Dulsing\|Dulsing]].
-Reunidos en la habitación del hotel, Wax decide seguir adelante hacia Dulsing a pesar de haber sido inculpado por el asesinato de Kelesina y de que probablemente se le necesite de vuelta en [[Elendel\|Elendel]] para resolver las cosas.
+Six months after the death of [[Paalm\|Paalm]], Wax and [[Steris\|Steris]] go to their wedding. Wayne hires some men to interrupt it by making a nearby water tower falling on the church, allowing Wax to put off the marriage. He is still struggling with killing Lessie.
+When Wax goes home, he finds [[MeLaan\|MeLaan]] and another [[Kandra\|kandra]], [[VenDell\|VenDell]], asking [[Marasi\|Marasi]] for help. Another kandra named [[ReLuur\|ReLuur]] was seeking the [[Bands of Mourning\|Bands of Mourning]] and came back wounded and missing a spike. They discuss various possibilities with combining [[Feruchemy\|Feruchemy]] and [[Hemalurgy\|Hemalurgy]]. Wax agrees to help recover the spike because his sister has been kidnapped.
 
 
-Se dirigen a Dulsing en coche de caballos. Antes de llegar allí, descubren un gran edificio inacabado cerca de una villa. Wayne consigue penetrar las defensas utilizando otro disfraz, y los demás se unen a él. En el interior encuentran algunas habitaciones y una gran nave que ha sido ligeramente dañada. Wax y Wayne se separan para encontrar a [[Telsin\|Telsin]]; Marasi y MeLaan tratan de encontrar el clavo.
-Wax y Wayne suben a las vigas y el primero localiza a su hermana en una de las habitaciones. Wayne se abre paso y Wax se reúne con su hermana. La puerta de la habitación se abre y Telsin dispara al recién llegado sin dudarlo.
-Mientras tanto, Marasi y MeLaan han encontrado el posible lugar donde se encuentra el clavo y se cuelan en la habitación. Mientras MeLaan fuerza la cerradura de una caja fuerte, Marasi descubre a un [[Allik Nuncalejos\|hombre]] con una máscara puesta encerrado en una jaula. Insiste en que les acompañe. Recuperan el clavo de la caja fuerte y oyen disparos.
-Tras un largo y desesperado tiroteo, las dos partes acaban encontrándose dentro de la nave. El hombre enmascarado (Allik) los conduce a través de una puerta hasta una nave más pequeña. Wax empuja la nave en el aire y Allik los dirige. Vuelan hacia el «[[Templo del Soberano\|Templo del Soberano]]» para llegar allí antes que Conjunto.
-Al llegar al templo, saben por los dibujos de ReLuur que era allí donde buscaba los Brazales de Duelo. Recorren un pasillo plagado de trampas letales, que MeLaan activa y es capaz de sobrevivir. Llegan a una puerta que no pueden abrir y vuelven a la entrada donde les espera Edwarn. Alcanzan un acuerdo y llegan a una sala con un estrado y cristales rotos, pero sin los Brazales.
-Pensando que todo ha terminado, Telsin se revela como un topo y dispara a Wax. El Grupo toma a todos como prisioneros mientras Wax y Wayne escapan desesperadamente. Wax está gravemente herido pero encuentra una habitación con otro grupo de Brazales. Edwarn le sigue y se los lleva, pero éstos también son falsos. Wax muere mientras Wayne lo mira, llorando. Wax habla con [[Armon%C3%ADa\|Armonía]] y éste le ofrece un camino de vuelta.
-Mientras tanto, Marasi se ha dado cuenta de que la punta de lanza de la estatua son los Brazales de Duelo reales. Todo lo demás era un señuelo para alejar a la gente. Se las arregla para agarrarla mientras está vigilada y empieza a arrasar con el poder. Se dirige a Wax, que ha vuelto a la vida, y le entrega los Brazales.
-Wayne caza a Telsin y le dispara varias veces para vengar la muerte de su amigo, recuperando los clavos de MeLaan y de ReLuur. Restaura a MeLaan y deja escapar a Telsin.
-Conjunto intenta escapar en una nave cercana, pero Wax lo detiene y lo apresa. Steris ayuda a Allik a reunir a sus compañeros de nave prisioneros y a luchar contra los secuaces del Grupo. Una vez terminada la batalla, Wax y la capitana discuten sobre la posesión de la nave y de los Brazales. Steris interviene y encuentran una resolución: ella podrá recuperar su nave, los kandra se quedarán con los Brazales y se abrirá el comercio entre ellos.
-Vuelven a Elendel y Wax se casa con Steris, esta vez por amor y compañía.
+Wax, Marasi, MeLaan, and [[Wayne\|Wayne]] head to New Seran, the last place ReLuur was seen. Steris comes along as is proper for a fiancée. Their train is attacked by the [[Nightstreet Gang\|Nightstreet Gang]], but Wax believes it is only a diversion from his [[Edwarn Ladrian\|uncle]]. He presses on with his original objective rather than chase the remnants of the gang.
+Wax, Steris, and MeLaan go to a party held by [[Kelesina Shores\|Kelesina Shores]], where Wax receives a strange coin from a [[Hoid\|beggar]] on the way in. When he bluntly asks her about the coin, she makes an excuse and leaves the party. Steris creates a diversion by suddenly vomiting, allowing Wax to try to find her. He finds her in a room talking to [[Edwarn Ladrian\|Mr. Suit]] via radio. A female [[Terris\|steward]] shows up, killing Kelesina. Wax and MeLaan manage to kill her and confiscate a gold bracelet filled with health.
+Meanwhile, Wayne and Marasi go to a graveyard to try to find the missing spike. They are attacked by members of the Set, but Wayne uses his healing and slider abilities to take them all down. They search the corrupt gravekeeper's ledger book and pay a visit to [[Templeton Fig\|Templeton Fig]], the man who sent the assassins. They bluff him into revealing that the spike was sent to [[Dulsing\|Dulsing]].
+Meeting in the hotel room, Wax decides to press on to Dulsing even though he has been framed for Kelesina's murder and is probably needed back in [[Elendel\|Elendel]] to sort things out.
 
 
-Una especie de ser con ojos rojos visita a Conjunto en su celda. Anuncia ominosamente que van a acabar con toda la vida en esta esfera. Luego detona una bomba.
-Wax oye la bomba en la suite de su luna de miel y se despierta. Examina la extraña moneda y se da cuenta de que es una mentecobre. Wax decanta el recuerdo y mira a través de los ojos del [[Soberano\|Soberano]].
+They head to Dulsing via horse and carriage. Before they get there, they discover a large, unfinished building near a village. Wayne manages to penetrate the defenses using another disguise, and the others join him. Inside they find some rooms and a large ship that has been slightly damaged. Wax and Wayne split off to find [[Telsin\|Telsin]]; Marasi and MeLaan try to find the spike.
+Wax and Wayne climb up to the rafters, and Wax spots his sister in one of the rooms. Wayne bluffs his way in, and Wax reunites with his sister. The door of the room opens and Telsin shoots the newcomer without hesitation.
+Meanwhile, Marasi and MeLaan have found the potential resting place of the spike, and they sneak into the room. While MeLaan picks the lock on a safe, Marasi discovers a [[Allik Neverfar\|man]] with a mask on locked up in a cage. She insists that he come with them. They retrieve the spike from the safe and hear gunshots.
+After a long, hopeless gunfight in which Marasi is injured, the two parties eventually meet up inside the ship. The masked man (Allik) leads them up through a door to a smaller boat. Wax Pushes the boat into the air, and Allik steers them away. They fly towards the "[[Sovereign's temple\|Sovereign's temple]]" to get there before Suit does.
+Arriving at the temple, they know from ReLuur's drawings that this was where he was seeking the Bands of Mourning. They travel down a hallway riddled with lethal traps, which MeLaan triggers and survives. They arrive at a door that they can't open and go back to the entrance where Edwarn is waiting. They strike a deal, and they make it into a room with a dais and broken glass -- but no bands.
+Thinking that it's over, Telsin reveals herself as a mole and shoots Wax. The Set takes everyone prisoner while Wax and Wayne desperately escape. Wax is grievously injured but finds a room with another set of bands. Edwarn follows him and takes the bands, but these are dummies too. Wax dies as Wayne looks on, weeping. Wax talks with [[Harmony\|Harmony]], and he offers him a way back.
+Meanwhile, Marasi has figured out that the spearhead from the statue is the actual Bands of Mourning. Everything else was a decoy to keep people away. She manages to grab it while under guard and starts rampaging with power. She goes to Wax, who has returned to life, and gives him the Bands.
+Wayne hunts down Telsin and shoots her multiple times to avenge his friend's death, retrieving both MeLaan's and ReLuur's spikes. He restores MeLaan and lets Telsin escape.
+Suit tries to escape in a ship nearby, but Wax stops him and apprehends him. Steris helps Allik rally his prisoner shipmates and fight the Set minions. After the battle is over, Wax and the captain argue over possession of the ship and the Bands. Steris steps in and they find a resolution: she can have her ship back, the kandra will take the Bands, and trade will open up between them.
+They fly back to Elendel and Wax marries Steris, this time for love and companionship.
 
-## Desarrollo
-Tras la finalización de *[[Aleaci%C3%B3n de ley\|Aleación de ley]]* Brandon trazó tres libros más, siguiendo a los mismos personajes, para terminar la historia. El segundo de ellos es *Brazales de Duelo*. Durante la última mitad de 2014, Brandon tuvo dificultades para retomar la historia para *[[Sombras de identidad\|Sombras de identidad]]*, ya que anteriormente, en 2012, había escrito un tercio más o menos entre los borradores de *[[Un recuerdo de luz\|Un recuerdo de luz]]*. Por lo tanto, se adelantó para escribir *Brazales de Duelo*, antes de volver y terminar *Sombras de identidad*.
-Según la propaganda de la portada, el título hace referencia a los brazales del lord Legislador, que tienen un significado mitológico en el mundo posterior a la Ascensión Final.
 
-## Galería de portadas
-Para la galería de portadas de *Brazales de Duelo*, ver [[Brazales de Duelo (libro)/Portadas\|/Portadas]].
-## Arte interior
-Para una galería del arte interior del libro, ver [[Brazales de Duelo (libro)/Arte interior\|/Arte interior]].
-## Análisis estadístico
-Para un análisis estadístico completo, ver [[Brazales de Duelo (libro)/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
-*Brazales de Duelo* consta de treinta y un capítulos, un prólogo y un epílogo, alcanzando un total de 127.456 palabras en inglés. Hay once personajes diferentes con punto de vista único en un total de 83 puntos de vista diferentes.
+Some sort of being with red eyes visits Suit in his jail cell. He ominously announces that they are going to end all life on this sphere. Then he detonates a bomb.
+Wax hears the bomb in his honeymoon suite and wakes up. He examines the strange coin and realizes it is a coppermind. Wax taps the memory and looks through the eyes of the [[Sovereign\|Sovereign]].
 
-|127,456 ||
+## Development
+Following completion of *[[The Alloy of Law\|The Alloy of Law]]* Brandon plotted out three more books, following the same characters, to finish the story. The second of these is *The Bands of Mourning*. During the later half of 2014 Brandon was having difficulty getting back into the story for *[[Shadows of Self\|Shadows of Self]]*, he had previously written a third or so of it in 2012 between drafts of *[[A Memory of Light\|A Memory of Light]]*. Therefore he jumped ahead to write *The Bands of Mourning*, before going back and finishing *Shadows of Self*.
+According to the cover blurb the title refers to the Lord Ruler's bracers, which hold mythological significance in the post-Final Ascension world.
+
+## Cover Gallery
+For the cover gallery of The Bands of Mourning, see [[The Bands of Mourning/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[The Bands of Mourning/Interior art\|/Interior art]].
+## Statistical Analysis
+For a full statistical analysis, see [[The Bands of Mourning/Statistical analysis\|/Statistical analysis]].
+*The Bands of Mourning* consists of thirty-one chapters, one prologue, and one epilogue, reaching a total 127,456 word count. There are eleven different unique point-of-view characters in a total of 83 POVs.
+
+|**Word Count**|127,456||
 |-|-|
-|**Conteo de páginas**|447 , 512 |Tor tapa dura  - NOVA |
-|**Conteo de capítulos**|31|Incluyendo prólogo y epílogo|
-|**Personajes con punto de vista**|11||
-|**Conteo de puntos de vista**|83||
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] ·  · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] ·  · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Page Count**|447|Tor hardback|
+|**Chapter Count**|31|Including prologue and epilogue.|
+|**PoV Characters**|11||
+|**PoV Count**|83||
 
 
 
-https://es.coppermind.net/wiki/The_Bands_of_Mourning
+https://coppermind.net/wiki/The_Bands_of_Mourning

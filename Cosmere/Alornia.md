@@ -1,12 +1,12 @@
 |**Alornia**|
 |-|-|
 |**Capital**|Alornia|
-|**Gobernador**|[[Kairominas\|Kairominas]]|
-|**Universo**|[[Wode\|Wode]] [[State\|States]]|
+|**Ruler**|[[Kairominas\|Kairominas]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
 
 **Alornia** is the [[/wiki/State#Personal States]] ruled by [[Kairominas\|Kairominas]].
 
-## Sumario
+## Contents
 
 1 Setting. [[#Setting]] 
 2 History. [[#History]] 
@@ -32,15 +32,6 @@ Alornia is also the name of the capital city of the State. It is a bustling city
 ## Border States
 Alornia has several [[/wiki/State#Border States]], where [[Liveborn\|Liveborns]] compete for the special resources in the area.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] · [[XinWey's Doctrine\|XinWey's Doctrine]] · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**| · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/Alornia
+https://coppermind.net/wiki/Alornia

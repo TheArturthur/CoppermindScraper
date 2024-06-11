@@ -1,229 +1,209 @@
-
-
 |**Nale**|
 |-|-|
 ||
-|**Capacidades**|[[Sombra cognitiva\|Sombra cognitiva]], [[Orden de los Rompedores del Cielo\|Rompedor del Cielo]], [[Portador de esquirlada\|Portador de esquirlada]]|
-|**Vinculado con**|Altospren sin nombre|
-|**Títulos**|[[Heraldo\|Heraldo]] del [[Todopoderoso\|Todopoderoso]], Heraldo de la Justicia, Patrón de los [[Rompedores del Cielo\|Rompedores del Cielo]], El Iluminador, El Juez|
-|**Apodos**|Nalan, Nin, Nin-hijo-Dios, Oscuridad, Nakku|
-|**Grupo**|[[Caballeros Radiantes\|Caballeros Radiantes]]🐱︎ |
-|**Mundo natal**|[[Ashyn\|Ashyn]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Order of Skybreakers\|Skybreaker]], [[Shardbearer\|Shardbearer]]|
+|**Bonded With**|Unnamed highspren|
+|**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Herald of Justice, Patron of the [[Skybreakers\|Skybreakers]], The Illuminator, The Judge|
+|**Aliases**|Nalan, Nin, Nin-son-God, Darkness, Nakku|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Homeworld**|[[Ashyn\|Ashyn]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
->“*Sin la ley, no hay nada. Es todo lo que tenemos, lo único que hay seguro en este mundo.*”
+>“*Without the law, there is nothing. It is all we have, the only sure thing in this world.*”
 \-Nale[1]
 
 
-**Nale**, también conocido como **Nalan'Elin**, **Nin** o **Nakku**, es uno de los diez [[Heraldos\|Heraldos]] del [[Todopoderoso\|Todopoderoso]] en [[Roshar\|Roshar]] que sirvió como protector de la humanidad contra las Desolaciones desde el año roshariano 7000 hasta el 4500 antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].. Es el Heraldo de la Justicia y el patrón de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]], además de ser él mismo un Rompedor del Cielo.
+**Nale**, also known as **Nalan'Elin**, **Nin**, or **Nakku**, is one of the ten [[Herald\|Heralds]] of [[The Almighty\|The Almighty]] on [[Roshar\|Roshar]], who served as a protector of humanity against the Desolations from 7000 to 4500 Rosharan years before the [[True Desolation\|True Desolation]]. He's the Herald of Justice and the patron of the [[Order of Skybreakers\|Order of Skybreakers]], as well as a Skybreaker himself.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 
-1. [[#Apariencia]] 
-1. [[#Personalidad]] 
-
-
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-
-2. [[#Heraldo y Radiante]] 
-2. [[#Hombre de ley]] 
-2. [[#Recursos]] 
+1. [[#Appearance]] 
+1. [[#Personality]] 
 
 
-3 Historia. [[#Historia]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-3. [[#Las Desolaciones]] 
-3. [[#Era de la Soledad]] 
-
-3. [[#Viviendo oculto]] 
-3. [[#El asesinato de Gavilar Kholin]] 
-3. [[#Cazando potenciadores]] 
+2. [[#Herald and Radiant]] 
+2. [[#Lawman]] 
+2. [[#Resources]] 
 
 
-3. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
+3 History. [[#History]] 
 
-3. [[#Uni.C3.A9ndose a los cantores]] 
-3. [[#La primera l.C3.ADnea de Emul]] 
+3. [[#The Desolations]] 
+3. [[#Era of Solitude]] 
+
+3. [[#Living in Hiding]] 
+3. [[#The Assassination of Gavilar Kholin]] 
+3. [[#Hunting Surgebinders]] 
+
+
+3. [[#True Desolation]] 
+
+3. [[#Joining the Singers]] 
+3. [[#The Emuli Frontline]] 
 
 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Dalinar Kholin]] 
 4. [[#Jezrien]] 
 4. [[#Ishar]] 
-4. [[#Otros Heraldos]] 
+4. [[#Other Heralds]] 
 4. [[#Szeth]] 
 4. [[#Lift]] 
 4. [[#Ulim]] 
 
 
-5 Cultura. [[#Cultura]] 
-6 Notas. [[#Notas]] 
+5 Culture. [[#Culture]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Para más imágenes, ver [[Nale/Galer%C3%ADa\|/Galería]].
->“*La justicia no expira.*”
+For more images, see [[Nale/Gallery\|/Gallery]].
+>“*Justice does not expire.*”
 \-Nale[7]
 
 
->“* La ley no puede ser moral, pero vosotros sí podéis ser morales al crear leyes. Debéis proteger siempre a los más débiles, a aquellos de quien más fácil resulte aprovecharse. Instituid un derecho de circulación para que una familia que considere injusto a su señor pueda abandonar sus dominios. Luego restringid la autoridad de un señor a la gente que los siga.*”
+>“* The law cannot be moral... But you can be moral as you create laws. Ever must you protect the weakest, those most likely to be taken advantage of. Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord’s authority to the people who follow him*”
 \-Nale[8]
 
 
-### Apariencia
-Nale es de piel oscura, y a menudo se le describe como de aspecto [[Makabaki\|makabaki]] o, más concretamente, [[Azir\|azish]]. Lo más notable de su apariencia es una marca en forma de media luna en su mejilla derecha, algo único entre los [[Heraldos\|Heraldos]]. Suele vestir el uniforme de un agente azish: un abrigo negro con una doble hilera de botones plateados y un rígido cuello plateado que asoma por debajo, así como guantes con cuellos largos. Se dice que sus ojos son vidriosos, insensibles y fríos. Las obras de arte [[Roshar\|rosharianas]] lo representan normalmente como calvo, y de hecho se afeita el pelo a ras del cuero cabelludo.
+### Appearance
+Nale is dark-skinned, and often described as looking [[Makabak\|Makabaki]], or more specifically [[Azish\|Azish]]. The most notable aspect of his appearance is a crescent-shaped mark on his right cheek -- something unique to him among the [[Herald\|Heralds]]. He's typically dressed in a uniform of an Azish constable -- a black coat with a double row of silver buttons and a stiff silver collar poking up from beneath, as well as gloves with long collars of their own. His eyes are mentioned as looking glassy, unfeeling and cold. [[Rosharan\|Rosharan]] artwork typically portrays him as bald, and he does indeed shave his hair close to his scalp.
 
-### Personalidad
-Nale está obsesionado con el orden y la ley y tomará medidas extremas para asegurarse de que no infringe ninguna ley del país en el que se encuentra. Esto se debe a que ha perdido la confianza en su propio sentido de la justicia y la moralidad y, como tal, cree que la única manera de actuar correctamente es obedeciendo un código de conducta creado por otros. Sin embargo, es capaz de manipular las reglas a su favor: por ejemplo, nombrándose a sí mismo agente de la ley para poder matar o presionando a las autoridades locales para que cambien la ley. Dicho esto, Nale sigue centrado en obedecer las reglas y castigará incluso a sus propios subordinados por romperlas, sin importar si hacerlo es para su beneficio. Tal vez por esto, [[Sangre Nocturna\|Sangre Nocturna]] no lo consideraría malvado.
-En sus acciones, parece carecer por completo de piedad, y ejecutará la máxima pena a su alcance sin una pizca de compasión o indulgencia, independientemente de quién sea su víctima. Respeta a aquellos que comparten su propia obediencia ciega y los elegirá como reclutas para los Rompedores del Cielo. Aunque entiende que la gente es susceptible de fallar, espera un mayor nivel de exigencia de aquellos a los que elige. Tiene un gran concepto de [[Ishar\|Ishar]], y hará todo lo que el hombre le ordene, hasta el punto de autoengañarse, excepto en las circunstancias más extremas.
-Junto con su falta de confianza en su propia justicia y moralidad, también ha perdido la confianza en su capacidad de decidir y cree que la vida no puede ser vivida tomando decisiones en cada encrucijada.
-La mayor parte del comportamiento actual de Nale es el resultado de sus experiencias durante las [[Desolaci%C3%B3n\|Desolaciones]]. En aquel entonces, era capaz de sentir emociones y compasión; de hecho, era muy consciente de que la ley era, por sí misma, inflexible e inmoral, y que correspondía a los legisladores asegurarse de que la ley protegiera a los débiles de los fuertes. Sin embargo, esta empatía le fue arrebatada en Braize. Para empeorar las cosas están los [[Altospren\|altospren]], que fomentan en él la interpretación inflexible y literalista de la ley. En sus mejores momentos, Nale es consciente de lo que ha perdido, y puede horrorizarse de su propio comportamiento, pero sus actuales patrones de conducta se acaban reafirmando rápidamente.
-Considera que los cantores tienen el derecho a la tierra, lo cual hizo que se aliara con ellos durante la Auténtica Desolación incluso aunque ello significara oponerse a la humanidad.
-Parece tener algunos problemas para percibir correctamente el paso del tiempo, expresando su sorpresa por el hecho de que la comida que había dejado décadas atrás se haya echado a perder. También se muestra imperturbable ante cualquier herida o dolor; recibe una flecha en la cara con poco más que una leve molestia por haber sido interrumpido.
+### Personality
+Nale is obsessed with order and law, and will go to extreme lengths to ensure he doesn't break any laws of the land he's in. This is because he's lost his confidence in his own sense of justice and morality, and as such, he believes that the only way for him to act correctly is to obey a code of conduct created by others. He is, however, capable of bending the rules to his advantage, such as by appointing himself a lawman to enable him to kill, or pressuring local authorities to change the law. This being said, Nale's still focused on obeying the rules, and will punish even his own underlings for breaking them, regardless of whether doing so is to his advantage. Perhaps because of this, [[Nightblood\|Nightblood]] wouldn't consider him to be evil.
+In his actions, he seems utterly devoid of mercy, and will execute the maximum penalty available to him without a shred of compassion or leniency, regardless of who his victim is. He respects those who share his own blind obedience, and will target them as recruits for the Skybreakers. While understanding that people are fallible, he expects higher standards from those he chooses. He thinks the world of [[Ishar\|Ishar]], and will do anything the man commands, to the point of self-delusion, in all but most dire of circumstances.
+Along with his lack of confidence in his own justice and morality, he has also lost confidence in his own decision-making, and believes life cannot be lived by making decisions at every juncture.
+Most of Nale's current-day behavior is the result of his experiences during the [[Desolation\|Desolations]]. Back then, he was capable of emotions and compassion; in fact, he was highly aware that law was, by itself, inflexible and immoral, and that it fell on lawmakers to make sure that law protected the weak from the strong. However, this empathy was tortured out of him on [[Braize\|Braize]]. Making the matters worse are the [[Highspren\|highspren]], which encourage the unyielding, literalist interpretation of the law in him. In his better moments, Nale is aware of what he's lost, and can be horrified by his own behavior, but his current coping patterns quickly reassert themselves.
+He considers the singers to have the law of the land, thus he sided with them during the True Desolation, even though it meant turning against humanity.
+He seems to have some problems correctly perceiving the passage of time, expressing surprise that food he'd left behind decades prior had gone bad. He is also unfazed by any wounds or pain; he takes an arrow to the face with little more than mild annoyance at being interrupted.
 
-## Atributos y habilidades
-  <<Glifo\|Glifo>> de Nalan
-### Heraldo y Radiante
-Para una descripción más detallada de los poderes generales de los Heraldos, ver [[/wiki/Heraldo#Habilidades]].
-Como [[Heraldo\|Heraldo]] del [[Todopoderoso\|Todopoderoso]], Nale es inmortal. Cuando muere, regresa a [[Braize\|Braize]] para ser torturado. Puede regresar a [[Roshar\|Roshar]] cuando lo desee para detener el dolor, aunque esto provoca otra [[Desolaci%C3%B3n\|Desolación]]. También tiene acceso a una [[Hoja de Honor\|hoja de Honor]], y es uno de los dos Heraldos que la han recuperado después del [[Aharietiam\|Aharietiam]] junto con [[Ishar\|Ishar]]. La hoja de Honor le convierte en un [[Potenciaci%C3%B3n\|potenciador]], otorgándole poderes sobre las [[Potenciaci%C3%B3n\|Potencias]] de [[/wiki/Potenciaci%C3%B3n#Divisi.C3.B3n]] y [[/wiki/Potenciaci%C3%B3n#Gravitaci.C3.B3n]].
-Además de sus poderes como Heraldo, Nale ha formado un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con un [[Altospren\|altospren]], lo que le convierte en un Rompedor del Cielo. Es el único Rompedor del Cielo en siglos que ha alcanzado el Quinto Ideal. Su vínculo también le da acceso a una [[Hoja esquirlada\|hoja esquirlada]] viva, lo que le da dos hojas en total. Su doble vínculo (con la hoja de Honor y el [[Spren\|spren]]) aumenta ligeramente sus poderes.
-Aunque tiene acceso a la potenciación durante toda la [[Era de la Soledad\|Era de la Soledad]], parece evitar usarla en presencia de otros, probablemente para pasar desapercibido. Esto cambia después de unirse a los [[Cantor\|cantores]], y parece no tener problemas para usar la Gravitación en combate.
+## Attributes and Abilities
+  Nalan's <<Glyph\|glyph>>
+### Herald and Radiant
+For a more in-depth description of general Heraldic powers, see [[/wiki/Herald#Abilities]].
+As a [[Herald\|Herald]] of the [[Almighty\|Almighty]], Nale is immortal. When he dies, he returns to [[Braize\|Braize]] to be tortured. He can return to [[Roshar\|Roshar]] when he wishes to stop the pain, although this causes another [[Desolation\|Desolation]]. He also has access to an [[Honorblade\|Honorblade]], and is one of two Heralds to have recovered his after [[Aharietiam\|Aharietiam]], along with [[Ishar\|Ishar]]. The Honorblade makes him a [[Surgebinder\|Surgebinder]], granting him powers over the [[Surge\|Surges]] of [[Division\|Division]] and [[Gravitation\|Gravitation]].
+Apart from his powers as a Herald, Nale has formed a [[Nahel bond\|Nahel bond]] with a [[Highspren\|highspren]], making him a Skybreaker. He's the only Skybreaker in centuries to have reached the Fifth Ideal. His bond also gives him access to a living [[Shardblade\|Shardblade]], giving him two Blades in total. His double bond -- with the Honorblade and the [[Spren\|spren]] -- slightly enhances his powers.
+While he has access to Surgebinding during the entire [[Era of Solitude\|Era of Solitude]], he seems to avoid using it in the presence of others, likely to keep a low profile. This changes after he joins the [[Singer\|singers]], and he seems to have no issues using Gravitation in combat.
 
-  Nale y sus <<Rompedores del Cielo\|Rompedores del Cielo>>
-### Hombre de ley
->“*La ley no puede ser moral, pero vosotros sí podéis ser morales al crear leyes. Debéis proteger siempre a los más débiles, a aquellos de quien más fácil resulte aprovecharse.*”
+  Nale and his <<Skybreakers\|Skybreakers>>
+### Lawman
+>“*The law cannot be moral, but **you** can be moral as you create laws. Ever must you protect the weakest, those most likely to be taken advantage of.*”
 \-Nale[8]
 
 
-Nale parece estar bien versado en las leyes y sistemas legales rosharianos. Puede operar sin problemas en varios estados, especialmente en el oeste de Roshar, y utilizar sus leyes en su beneficio. Además, Nale parece ser el experto de los Heraldos en el mantenimiento de la ley y la elaboración de la misma. En la antigüedad, fue él quien enseñó a los habitantes de Roshar a establecer un código legal justo y equitativo. Algunas de sus normas aún siguen en vigor en Roshar, sobre todo el Derecho de Viaje, que prescribió para evitar los abusos de los débiles.
+Nale appears to be well-versed in Rosharan law and legal systems. He can seamlessly operate in various states, especially throughout Western Roshar, and use their laws to his advantage. Moreover, Nale appears to be the Heralds' expert in lawkeeping and lawmaking. In the ancient times, he was the one to teach Rosharans about establishing a fair and just legal code. Some of his rules are still in effect on Roshar, most notably the Right of Travel, which he prescribed to prevent the abuses of the weak.
 
-### Recursos
-Nale encabeza la Orden de los Rompedores del Cielo, y muchos de sus miembros han jurado seguirle directamente como su Tercer Ideal. Esto le proporciona una pequeña pero poderosa fuerza dispuesta a obedecer todas sus órdenes. Los Rompedores del Cielo parecen ejecutar sus órdenes sin rechistar, incluso cuando se vuelve contra la humanidad. Algunos de ellos han jurado el Cuarto Ideal, mientras que otros son simples escuderos, aunque todos parecen bien formados.
-Aparte de los Rompedores del Cielo, Nale parece tener grandes recursos y conexiones. Tiene acceso a varios objetos y criaturas raras: adquirió un [[Larkin\|larkin]], tiene un [[Fabrial\|fabrial]] capaz de resucitar a la gente de entre los muertos e incluso estuvo en posesión de [[Sangre Nocturna\|Sangre Nocturna]] durante un tiempo, habiéndola obtenido por medios desconocidos. También cuenta con alijos de comida y suministros por todo el continente, aunque muchos de ellos están mal mantenidos.
-Está bien relacionado con el oeste de Roshar. Puede rastrear a la [[Danzante del Filo\|Danzante del Filo]] [[Lift\|Lift]] a lo largo de grandes distancias y conseguir fácilmente el atuendo de los guardianes de la ley locales, así como el papeleo necesario para unirse a ellos. También ha fomentado buenas relaciones con la mayoría de los gobiernos locales, lo suficiente como para que estén dispuestos a concederle autoridad después de que se revele a sí mismo y a los Rompedores del Cielo ante ellos. Se desconoce hasta qué punto se ha involucrado en las estructuras de Roshar Oriental, aunque ha adquirido la autoridad para actuar como guardián de la ley en [[Alezkar\|Alezkar]] del rey [[Gavilar Kholin\|Gavilar Kholin]].
+### Resources
+Nale is the head of the Order of Skybreakers, with many of its members sworn to follow him directly as their Third Ideal. This provides him with a small but powerful force willing to obey his every command. The Skybreakers seem to execute his commands unquestioningly, even when he turns against mankind. Some of them have sworn the Fourth Ideal, while others are merely squires, though all seem well-trained.
+Apart from the Skybreakers, Nale seems to have vast resources and connections. He has access to various rare items and creatures: he acquired a [[Larkin\|larkin]], has a [[Fabrial\|fabrial]] able to bring people back from the dead, and was even in possession of [[Nightblood\|Nightblood]] for a while, having obtained it through unknown means. He keeps caches of food and supplies throughout the continent, though many of them are poorly-maintained.
+He is well-connected in Western Roshar. He can track the [[Edgedancer\|Edgedancer]] [[Lift\|Lift]] over vast distances and easily get his hands on the attire of local lawkeepers, as well as necessary paperwork for him to join them. He's also fostered good relationships with most local governments, enough so that they're willing to grant him authority after he reveals himself and the Skybreakers to them. It's unknown how well he's embedded himself in the structures of Eastern Roshar, although he has acquired the authority to act as a lawkeeper in [[Alethkar\|Alethkar]] from King [[Gavilar Kholin\|Gavilar Kholin]].
 
-## Historia
+## History
  
-### Las Desolaciones
->“*No hay persona a quien daríamos una bienvenida más calurosa a este pacto que tú. Eres el hombre más honorable al que he tenido el privilegio de oponerme.*”
-\-Jezrien a Nale[8]
+### The Desolations
+>“*There is no person we would welcome more eagerly into this pact than you. You are the single most honorable man I have ever had the privilege of opposing.*”
+\-Jezrien to Nale[8]
 
 
-Nale nació en [[Ashyn\|Ashyn]], ya sea antes o durante la gran calamidad que la asoló y obligó a la población humana a abandonarla unos 7000 años antes de la Auténtica Desolación. Como la mayoría de los que acabarían convirtiéndose en [[Heraldo\|Heraldos]], viajó a [[Roshar\|Roshar]] para establecerse allí. Fue un rey, un erudito o un general antes de convertirse en un Heraldo.
-Algún tiempo después, cuando comenzaron las [[Desolaci%C3%B3n\|Desolaciones]], Nale se unió al [[Juramento\|Juramento]], convirtiéndose en [[Heraldo\|Heraldo]] del [[Todopoderoso\|Todopoderoso]]. Parece que, en aquel momento, él y [[Jezrien\|Jezrien]] eran enemigos, aunque se desconoce la naturaleza exacta del conflicto entre ellos. Finalmente, se demostró que Nale tenía razón, mientras que Jezrien resultó estar equivocado. Impresionado por la integridad de Nale, Jezrien le propuso participar en el Juramento, a lo que Nale accedió elegantemente.
-Cuando empezaron a aparecer los [[Potenciaci%C3%B3n\|potenciadores]], Nale se mostró inicialmente reacio a tomarlos bajo su patrocinio, aunque los incipientes [[Rompedores del Cielo\|Rompedores del Cielo]] lo nombraron su maestro. Sin embargo, tras una especie de disturbio en la toparquía de [[Revv\|Revv]], accedió a hacerlo, convirtiéndose en el último Heraldo en aceptar formalmente a sus [[Caballeros Radiantes\|Caballeros Radiantes]]. Con el tiempo acabó vinculando a un [[Altospren\|altospren]] y uniéndose a su propia Orden Radiante, convirtiéndose en el único Heraldo que lo ha hecho. No está claro si su altopren le siguió a [[Braize\|Braize]] o se quedó en [[Shadesmar\|Shadesmar]].
-Pasado un tiempo del vínculo con su altospren, Nale estableció el [[/wiki/Vorinismo#Legalidad]], que sigue vigente en las leyes rosharianas durante la Auténtica Desolación.
-Al igual que todos los demás Heraldos excepto [[Taln\|Taln]], con el tiempo Nale se agotó demasiado para seguir participando en el Juramento. Él y los demás dejaron sus [[Hoja de Honor\|hojas de Honor]] y abandonaron el Juramento en un acontecimiento que posteriormente se conoció como [[Aharietiam\|Aharietiam]], unos 4500 años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. A diferencia de los demás, excepto [[Ishar\|Ishar]], Nale acabó recuperando su espada.
+Nale was born on [[Ashyn\|Ashyn]], either before or during the great calamity that befell it and forced the human population to leave around 7000 years before the True Desolation. Like most others who would eventually become [[Herald\|Heralds]], he travelled to [[Roshar\|Roshar]] to settle there. He was either a king, scholar, or general before becoming a Herald.
+Sometime afterwards, when the [[Desolation\|Desolations]] began, Nale joined the [[Oathpact\|Oathpact]], becoming a Herald of the [[Almighty\|Almighty]]. It appears that, at the time, he and [[Jezrien\|Jezrien]] were enemies, though the precise nature of the confict between them is unknown. Eventually, Nale was proven right, while Jezrien turned out wrong. Impressed with Nale's integrity, Jezrien approached Nale about his participation in the Oathpact, to which Nale graciously agreed.
+When the [[Surgebinder\|Surgebinders]] began appearing, Nale was initially reluctant to take them under his patronage, even though the nascent [[Skybreakers\|Skybreakers]] named him their master. Following some sort of the disturbance in the toparchy of [[Revv\|Revv]], however, he agreed to do so, becoming the last Herald to formally accept his [[Knights Radiant\|Knights Radiant]]. He eventually ended up bonding a [[Highspren\|highspren]] and joining his own Radiant Order, becoming the only Herald to have done so. It unclear whether his highspren followed him to [[Braize\|Braize]] or was left in [[Shadesmar\|Shadesmar]].
+Some time after bonding his highspren, Nale instituted the [[Right of Travel\|Right of Travel]], which is still present in Rosharan laws as of the True Desolation.
+Like all other Heralds besides [[Taln\|Taln]], in time Nale grew too exhausted to keep participating in the Oathpact. He and the others left their [[Honorblade\|Honorblades]] behind and abandoned the Oathpact in an event later known as [[Aharietiam\|Aharietiam]], around 4500 years before the [[True Desolation\|True Desolation]]. Unlike the others, with the exception of [[Ishar\|Ishar]], Nale eventually recovered his Blade.
 
  
-### Era de la Soledad
-#### Viviendo oculto
-Al final de la [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] y poco antes de la [[Traici%C3%B3n\|Traición]], Nale y [[Kalak\|Kalak]] estuvieron presentes en la captura de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], por lo que fueron testigos del daño mental causado a los cantores. Mientras que Kalak llegó a lamentar el suceso, se desconoce la opinión de Nale al respecto.
-En algún momento, posiblemente después de la [[Traici%C3%B3n\|Traición]], Nale comenzó a trabajar para evitar que se produjera otra Desolación. Con el tiempo, probablemente siguiendo el consejo de Ishar, llegó a entender que esto significaba eliminar a todos los [[Potenciaci%C3%B3n\|potenciadores]] emergentes que no fueran Rompedores del Cielo, cuyos lazos tenía la capacidad de permitir y negar. En el momento de la reunificación de [[Alezkar\|Alezkar]] seguía haciéndolo, formando una metodología que concordaba con sus propios sentimientos: localizaba a los potenciadores que habían cometido algún tipo de crimen, por pequeño que fuera, y los ejecutaba bajo la pretensión de castigo. Muchos [[Spren\|spren]] eran conscientes de lo que estaba haciendo, pero se mostraban en gran medida indiferentes y lo veían como que los spren dispuestos a vincular acababan recibiendo lo esperable.
+### Era of Solitude
+#### Living in Hiding
+At the end of the [[False Desolation\|False Desolation]] and shortly before the [[Recreance\|Recreance]], Nale and [[Kalak\|Kalak]] were both present at the capture of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], and thus witnessed the mental damage done to the singers. While Kalak came to regret this event happening, Nale's opinion on it is unknown.
+At some point, possibly after the [[Recreance\|Recreance]], Nale began working to prevent another Desolation from happening. Eventually, likely following the advice of Ishar, he came to understand this as eliminating every nascent [[Surgebinder\|Surgebinder]] other than the prospective Skybreakers, whose bonds he had the capacity to permit and deny. By the time of the reunification of [[Alethkar\|Alethkar]], he was still doing it, forming a methodology that agreed with his own sentiments: he would track down Surgebinders who had committed some kind of a crime, no matter how minor, and execute them under the pretense of punishment. Many [[Spren\|spren]] were aware of what he was doing, but were largely indifferent to it, seeing it as spren willing to bond getting what was coming to them.
 
-#### El asesinato de Gavilar Kholin
->“*Esta noche he encontrado razones para su ejecución [la de Gavilar], pero tardaré meses en conseguir la legalidad adecuada.*”
+#### The Assassination of Gavilar Kholin
+>“*Tonight I found reason to have [Gavilar] killed, but it will take me months of planning to achieve the proper legality.*”
 \-Nale[26]
 
 
-En algún momento, Nale entró en contacto con el rey [[Alezkar\|alezi]] [[Gavilar Kholin\|Gavilar Kholin]], posiblemente a través de [[Kalak\|Kalak]] y sus [[Hijos de Honor\|Hijos de Honor]], de los que el rey formaba parte. Aunque Nale participó en el proyecto secreto de Gavilar, no parecía tener mucha paciencia con él. A pesar de ello, visitó al hombre la noche de su [[Asesinato de Gavilar\|asesinato]] en Tanat ? 1167.
-Unas horas antes de que comenzara el festín, Nale se topó con [[Venli\|Venli]] y [[Ulim\|Ulim]] merodeando por el [[Palacio de Kholinar\|Palacio de Kholinar]], e inmediatamente reconoció a este último. Silenciando al [[Vac%C3%ADospren\|vacíospren]], comenzó a interrogar a Venli sobre el número de vacíospren que habían regresado; sin embargo, ella consiguió engañarle haciéndole creer que eran sus propias acciones las que habían provocado un nuevo Retorno. Indignado, y pensando que el proyecto de Gavilar había provocado el regreso de los vacíospren, Nale decidió intentar evitar una nueva catástrofe. Le explicó a Venli que había una laguna en el tratado que permitiría a los oyentes atacar a los alezi si creían que había una conspiración contra ellos. También la orientó hacia [[Szeth\|Szeth]] y le perdonó que se colara en la sección prohibida del palacio antes de marcharse enfadado.
-Durante el festín, Nale, acompañado una vez más por [[Kalak\|Kalak]], se reunió con Gavilar para discutir los progresos del rey. Cuando la reina [[Navani Kholin\|Navani Kholin]] entró en la sala para cuestionar la ausencia de Gavilar en el festín, Nale lo aprovechó para marcharse, arrastrando a Kalak con él, quizá todavía furioso por lo que le había contado Venli. Esa misma noche, los dos hablaron brevemente con [[Elhokar Kholin\|Elhokar Kholin]], luego salieron de la sala del festín y tropezaron con [[Jasnah Kholin\|Jasnah Kholin]], a quien Nale trató con bastante frialdad antes de seguir adelante.
+At some point, Nale got in contact with the [[Alethi\|Alethi]] king [[Gavilar Kholin\|Gavilar Kholin]], possibly through [[Kalak\|Kalak]] and his [[Sons of Honor\|Sons of Honor]], which the king was a part of. While Nale participated in Gavilar's secret project, he didn't seem to have much patience for it. Regardless, he visited the man the night of his [[Assassination of Gavilar\|assassination]] in Tanat ? 1167.
+A few hours before the feast began, Nale stumbled upon [[Venli\|Venli]] and [[Ulim\|Ulim]] skulking around the [[Kholinar Palace\|Kholinar Palace]], and immediately recognized the latter. Silencing the [[Voidspren\|Voidspren]], he began questioning Venli about the number of returning Voidspren; however, she managed to trick him into believing that it was his own actions that had prompted a new Return. Incensed, and thinking that Gavilar's project caused the Voidspren to come back, Nale decided to try and prevent further catastrophe. He explained to Venli that there was a loophole in the treaty that would allow the listeners to attack the Alethi if they believed there was a conspiracy against them. He also pointed her towards [[Szeth\|Szeth]] and pardoned her for sneaking into off-limits section of the palace before leaving in a huff.
+During the feast, Nale, once more accompanied by [[Kalak\|Kalak]], met with Gavilar to discuss the king's progress. When the Queen [[Navani Kholin\|Navani Kholin]] walked into the room to question Gavilar's absence from the feast, Nale took it as an opportunity to take his leave, dragging Kalak along with him, perhaps still furious with what Venli had told him. The same night, the two of them briefly spoke with [[Elhokar Kholin\|Elhokar Kholin]], then left the feasting hall and stumbled on [[Jasnah Kholin\|Jasnah Kholin]], whom Nale treated rather coldly before moving on.
 
-  <<Lift\|Lift>> abrazando a Nale en la <<Tormenta eterna\|tormenta eterna>>
-#### Cazando potenciadores
-Tras el festín, Nale continuó su estela de asesinatos, matando al [[Vigilante de la Verdad\|Vigilante de la Verdad]] [[Ym\|Ym]] por un crimen de hacía cuarenta años. Después, centró sus esfuerzos en la [[Danzante del Filo\|Danzante del Filo]] [[Lift\|Lift]], siguiéndola hasta el palacio real de [[Azimir\|Azimir]]. Aunque consiguió atraparla y rellenar el papeleo adecuado para matarla, Gawx murió en el proceso y Lift consiguió curar al chico. Esto hizo que [[Gawx\|Gawx]] fuera declarado el nuevo [[Aqasix Supremo\|Aqasix Supremo]] y perdonara a Lift, lo que a su vez obligó a Nale a ceder, pues ya no tenía excusa para matarla.
-Nale regresó brevemente al Este para la [[Batalla de Narak\|Batalla de Narak]], donde capturó y revivió a [[Szeth\|Szeth]], recientemente asesinado, en Ishishach 1173. Procedió a reclutar al [[Shinovar\|shin]] y a darle a [[Sangre Nocturna\|Sangre Nocturna]], que había adquirido en un momento desconocido del pasado. Después, se llevó a Szeth con él de vuelta al oeste en otra cacería, esta vez a [[Yeddaw\|Yeddaw]], para dar con otro potenciador. En Jeses ? 1174 encontró con éxito a la Vigilante de la Verdad [[Arshqqam\|Arshqqam]] pero, antes de que pudiera matarla, Lift se enfrentó a él justo cuando se acercaba la [[Tormenta eterna\|tormenta eterna]]. La combinación de la tormenta y las palabras de Lift consiguieron que Nale se diera cuenta de que su plan había fracasado y que había matado para nada.
+  <<Lift\|Lift>> hugging Nale in the <<Everstorm\|Everstorm>>
+#### Hunting Surgebinders
+Following the feast, Nale continued his trail of murder, killing the [[Truthwatcher\|Truthwatcher]] [[Ym\|Ym]] for a forty-year-old crime. Afterwards, he focused his efforts on the [[Edgedancer\|Edgedancer]] [[Lift\|Lift]], tracking her down all the way to the royal palace of [[Azimir\|Azimir]]. While he managed to catch her, and fill out the proper paperwork to have her killed, [[Gawx\|Gawx]] died in the process and Lift managed to heal the boy. This led to Gawx being pronounced the new [[Prime Aqasix\|Prime Aqasix]] and pardoning Lift, which in turn forced Nale to relent, as he had no excuse to kill her anymore.
+Nale briefly returned East for the [[Battle of Narak\|Battle of Narak]], where he caught and revived recently-killed [[Szeth\|Szeth]] in Ishishach 1173. He proceeded to recruit the [[Shin\|Shin]] and gave him [[Nightblood\|Nightblood]], which he had acquired at an unknown point in the past. Afterwards, he took Szeth with him back West on another hunt, this time to [[Yeddaw\|Yeddaw]], to track down yet another budding Surgebinder. In Jeses ? 1174 he successfully found the Truthwatcher [[Arshqqam\|Arshqqam]], but before he could kill her, Lift confronted him just as the [[Everstorm\|Everstorm]] was approaching. The combination of the storm and Lift's words managed to get through to Nale as he realized that his plan had failed, and that he had killed for nothing.
 
-### La Auténtica Desolación
-#### Uniéndose a los cantores
-Tras la tormenta eterna, Nale sufrió una pequeña crisis nerviosa y se marchó a lugares desconocidos durante varias semanas antes de volver a por Szeth, dejándolo en el campo de entrenamiento de los Rompedores del Cielo para luego marcharse de nuevo en busca de la guía de Ishar. Lo que Ishar le dijo funcionó lo suficientemente bien como para calmar a Nale y para que volviera a ser el mismo de siempre cuando regresó meses después.
-Se llevó consigo al sur a todos los Rompedores del Cielo, a [[Marat\|Marat]]. Allí, les contó la verdad del Aharietiam y los orígenes de las Desolaciones. Después, fueron más lejos, a [[Ciudad Thaylen\|Ciudad Thaylen]], aunque sólo Nale y Szeth estuvieron presentes durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]] en Nanab ? 1174. Mientras observaban, Nale informó a Szeth de que pretendía que los Rompedores del Cielo siguieran a los cantores, ya que eran los dueños originales de Roshar. Sin embargo, no participó en la batalla.
-Al principio, Nale intentó convencer a Szeth de que hiciera lo mismo. Cuando el shin optó por seguir a [[Dalinar Kholin\|Dalinar Kholin]], Nale no le guardó rencor y prometió volver más tarde para enseñar a Szeth la [[Potenciaci%C3%B3n\|Potencia]] de la [[Divisi%C3%B3n\|División]]. Luego partió, aunque no se sabe a dónde.
+### True Desolation
+#### Joining the Singers
+Following the Everstorm, Nale had a minor breakdown, leaving for parts unknown for several weeks before coming back for Szeth, dropping him off at the Skybreaker training grounds, then leaving again to seek Ishar's guidance. Whatever Ishar had told him worked well enough to calm Nale down, enough so that he was back to his confident self when he returned months later.
+He took all the Skybreakers with him south, to [[Marat\|Marat]]. There, he told them the truth of Aharietiam and the origins of the Desolations. Afterwards, they went further, to [[Thaylen City\|Thaylen City]], though only Nale and Szeth were present during the [[Battle of Thaylen Field\|Battle of Thaylen Field]] in Nanab ? 1174. As they watched, Nale informed Szeth that he intended for the Skybreakers to follow the singers, as they were the original owners of Roshar. However, he did not participate in the battle.
+Initially, Nale attempted to convince Szeth to do the same. When the Shin chose to follow [[Dalinar Kholin\|Dalinar Kholin]] instead, Nale had no hard feelings about it, and promised to return later to teach Szeth the [[Surge\|Surge]] of [[Division\|Division]]. He then departed, though it's uncertain where to.
 
  
-#### La primera línea de Emul
->“*¿Cómo puedes ser un Forjador de Vínculos? No deberías existir, Epina Negra. Tu causa no es recta. Deberian serte negadas las verdaderas Potencias de Honor.*”
-\-Nale a Dalinar[8]
+#### The Emuli Frontline
+>“*How are you a Bondsmith? You should not exist, Blackthorn. Your cause is not righteous. You should be denied the true Surges of Honor.*”
+\-Nale to Dalinar[8]
 
 
-Un año después de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], a principios de 1175, Nale y sus Rompedores del Cielo fueron enviados a [[Emul\|Emul]] para luchar del lado de los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]]. Durante una batalla en particular, se acercó al líder del ejército, Dalinar, y trató de persuadirlo de que se sometiera a la ley de los cantores. Sin embargo, antes de que pudiera avanzar demasiado en su discurso, [[Cuerda\|Cuerda]] le disparó en la cara, a lo que apenas respondió. Tras sacarse la flecha y curarse la cara, descendió a la cubierta de la plataforma flotante en la que estaban los demás.
-Nale se acercó a Dalinar, incrédulo de que un hombre como él fuera nombrado [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]]. Intentó enmendarlo lanzándose contra él, pero antes de que pudiera atacar, Dalinar, incitado por el [[Padre Tormenta\|Padre Tormenta]], utilizó sus habilidades sobre el Heraldo y atisbó una serie de visiones de la memoria de Nale. Empezando por el abandono del [[Juramento\|Juramento]] por parte de Nale, retrocedieron en el tiempo, mostrando a Nale luchando contra las fuerzas oscuras mientras protegía a un niño pequeño, a Nale estableciendo el derecho a viajar de los [[Vorin\|vorin]], a Nale arrodillándose ante un [[Altospren\|altospren]] y a un sinfín de combates en los que participó. La última fue la visión de Nale aceptando unirse al Juramento con [[Jezrien\|Jezrien]].
-Cuando las visiones terminaron, Nale, conmocionado por lo que había sucedido, se apartó de Dalinar, revelando una línea que los unía, la manifestación del [[Juramento\|Juramento]]. Rompiendo la línea, Nale saltó rápidamente de la plataforma y huyó, claramente aterrorizado por la hazaña de Dalinar.
+A year into the [[True Desolation\|True Desolation]], in early 1175, Nale and his Skybreakers were sent to [[Emul\|Emul]] to fight on the side of the [[Voidbringers\|Voidbringers]]. During one particular battle, he approached the army leader, Dalinar, and tried to persuade him to submit to the law of the singers; however, before he could go too far into his speech, [[Cord\|Cord]] shot him in the face, to which he barely responded. After pulling the arrow out and healing his face, he descended to the deck of the floating platform the others were on.
+Nale approached Dalinar, incredulous that the man such as him would be made a [[Bondsmith\|Bondsmith]]. He tried to amend this and launched himself at Dalinar, but before he could attack, Dalinar, prompted by [[Stormfather\|Stormfather]], used his abilities on the Herald, and saw a number of visions from Nale's memory. Starting from Nale abandoning the [[Oathpact\|Oathpact]], they went back in time, showing Nale fighting dark forces while protecting a small child, Nale establishing the [[Vorin\|Vorin]] Right of Travel, Nale kneeling before a [[Highspren\|highspren]], and endless fighting he partook in. Last was the vision of Nale agreeing to join the Oathpact with [[Jezrien\|Jezrien]].
+When the visions ended, Nale, shocked at what had happened, backed away from Dalinar, revealing a line connecting the two -- the manifestation of the [[Oathpact\|Oathpact]]. Tearing the line, Nale quickly leaped out of the platform and fled, clearly terrified by Dalinar's feat.
 
-## Relaciones
+## Relationships
 ### Dalinar Kholin
-Considera que Dalinar Kholin no merece ser un Forjador de Vínculos, ya que cree que su causa es injusta.
+He sees Dalinar Kholin as being undeserving of being a Bondsmith, as he sees his cause as unrighteous.
 
 ### Jezrien
->“*Alabado sea Yaezir, Heraldo de Reyes. Que gobierne con sabiduría. Si alguna vez deja de babear.*”
-\-Nale sobre Jezrien[1]
+>“*Praise Yaezir. Herald of Kings. May he lead in wisdom. If he ever stops drooling.*”
+\-Nale on Jezrien[1]
 
 
-En un principio, Nale y Jezrien se opusieron el uno al otro en un asunto que se desconoce, llegando a considerarse enemigos. Jezrien finalmente acabó asumiendo que Nale estaba en lo correcto y le ofreció que se uniera a un pacto, considerándolo un hombre muy honorable. Para Nale, trabajar junto a [[Jezrien] era un honor.
-Con el tiempo, su respeto por Jezrien se fue perdiendo hasta acabar considerándolo poco más que un idiota babeante.
+Nale and Jezrien once strongly opposed one another on an unclear issue, considering one another enemies. Jezrien eventually came to consider Nale correct, and offered him to join in a pact, and considered him a very honorable man. Nale considered working alongside Jezrien to be an honor.
+Over time, his respect for Jezrien eroded, and he came consider him to be little more than a drooling idiot.
 
 ### Ishar
-Nale respeta mucho a [[Ishar\|Ishar]] y sus opiniones, pues cree que el Heraldo de la Suerte es el único que no ha sucumbido a la locura. Probablemente fue por sugerencia de Ishar por lo que Nale comenzó su cruzada contra los [[Potenciador\|potenciadores]] y, cuando llega la [[Tormenta eterna\|tormenta eterna]], Nale acude a Ishar en busca de consuelo y consejo. Su respeto se extiende en cierta medida a los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], ya que tiene unos estándares extremadamente altos en cuanto a lo que hace a alguien merecedor del vínculo, estándares que Ishar cumple pero Dalinar no.
+Nale greatly respects [[Ishar\|Ishar]] and his opinions, believing the Herald of Luck to be the only one who hasn't succumbed to madness. It was likely at Ishar's suggestion that Nale began his crusade against [[Surgebinder\|Surgebinders]], and when the [[Everstorm\|Everstorm]] comes, Nale goes to Ishar for comfort and advice. His respect extends somewhat to the [[Bondsmith\|Bondsmiths]], as he has extremely high standards for what makes one worthy of the bond -- standards Ishar meets, but Dalinar doesn't.
 
-### Otros Heraldos
->“*Te preocupas por todo. (...) Cállate.*”
-\-Nale a Kalak[39]
+### Other Heralds
+>“*You're worried about everything. (...) Shut up.*”
+\-Nale to Kalak[39]
 
 
-  Con los otros <<Heraldo\|Heraldos>> cuando abandonaron sus <<Hoja de Honor\|hojas de Honor>>
-En cambio, el respeto de Nale por otros Heraldos parece haberse erosionado con el tiempo. Él y [[Kalak\|Kalak]] viajaron juntos un par de veces, sobre todo durante la captura de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] y el [[Asesinato de Gavilar\|asesinato de Gavilar]]. Tiene poca paciencia con él y sus preocupaciones, y la paranoia y el miedo perpetuos de Kalak le molestan. No parece mantenerse en contacto con los otros Heraldos; no le importa cuando Kalak menciona a [[Shalash\|Shalash]], y ni una sola vez empatiza con [[Taln\|Taln]] a pesar de haberle traicionado.
+  With the other <<Herald\|Heralds>> when they abandoned their <<Honorblade\|Honorblades>>
+By contrast, Nale's respect for other Heralds seems to have eroded with time. He and [[Kalak\|Kalak]] traveled together a couple of times, most notably during the capture of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] and the [[Assassination of Gavilar\|Assassination of Gavilar]]. He has little patience for the man and his worries, and Kalak's perpetual paranoia and fear annoys him. He doesn't seem to keep in touch with the other Heralds; he doesn't care when Kalak mentions [[Shalash\|Shalash]], and never once sympathises with [[Taln\|Taln]], despite betraying him.
 
 ### Szeth
-Nale está muy impresionado con [[Szeth\|Szeth]], calificándolo como una de las personas que más merecen unirse a los [[Rompedores del Cielo\|Rompedores del Cielo]]. Estuvo observándolo durante un periodo considerable de tiempo mientras este era [[Sinverdad\|Sinverdad]], habiéndolo seguido desde poco antes del [[Asesinato de Gavilar\|asesinato de Gavilar]] Kholin. Respeta mucho la obediencia de Szeth a la [[Piedra Jurada\|Piedra Jurada]], lo suficiente como para revivirlo de la muerte y confiarle a [[Sangre Nocturna\|Sangre Nocturna]].
-Incluso después de reclutar a Szeth, Nale parece tener un interés especial en él por encima de otros candidatos. Parece sentirse cómodo contándole a Szeth la historia de su vida y hablándole en privado sobre la verdadera historia del mundo. También se muestra bastante indiferente y receptivo con las opiniones de Szeth a pesar de que no coincidan con las suyas. Incluso cuando Szeth decide ponerse del lado de la gente que se opone a los [[Cantor\|cantores]] (y, por extensión, en contra de Nale), el Heraldo lo respeta y se mantiene amistoso, incluso prometiendo enseñarle más.
+Nale is very impressed with [[Szeth\|Szeth]], calling him one of the people most deserving of joining the [[Skybreaker\|Skybreakers]]. He's been watching Szeth for a considerable period of time while the latter was [[Truthless\|Truthless]], having followed him since shortly prior to the [[Assassination of Gavilar\|assassination of Gavilar]] Kholin. He greatly respects Szeth's obedience to the [[Oathstone\|Oathstone]], enough so to revive him from death and entrust him with [[Nightblood\|Nightblood]].
+Even after recruiting Szeth, Nale seems to take a special interest in him above other candidates. He seems comfortable telling Szeth his life story and speaking to him in private about the true history of the world. He's also fairly indifferent and accepting of Szeth's opinions, despite them disagreeing with his own. Even when Szeth decides to side with the people opposing [[Singer\|singers]] -- and, by extension, against Nale -- the Herald respects it and remains friendly, even promising to teach him further.
 
-  Lift abrazando a Nale en Yeddaw
+  Lift hugging Nale in Yeddaw
 ### Lift
-Nale había estado cazando a [[Lift\|Lift]] sin descanso durante un tiempo cuando llega a [[Azimir\|Azimir]] e intenta desvalijar el [[Palacio de Bronce\|Palacio de Bronce]], lo suficiente como para que ella lo reconozca enseguida. Lo apoda Oscuridad y al principio la aterroriza, aunque cuando sus planes para matarla fracasan, se marcha con bastante facilidad.
-Después, Lift se dedica a cazarlo ella misma, intentando evitar que mate a más [[Potenciaci%C3%B3n\|potenciadores]], lo que finalmente lleva a que ambos tengan un enfrentamiento en [[Yeddaw\|Yeddaw]]. Al principio, Nale se alegra de que haya venido a ser juzgada y tiene toda la intención de matarla. Sin embargo, ella consigue convencerle y señalarle que una Desolación está comenzando de nuevo, lo que parece devolverle temporalmente la cordura. Incluso le abraza, aunque él se marcha poco después.
+Nale has been hunting [[Lift\|Lift]] relentlessly for a while by the time she arrives in [[Azimir\|Azimir]] and attempts to rob the [[Bronze Palace\|Bronze Palace]], enough so for her to recognize him right away. She nicknames him Darkness, and is initially terrified of him, though when his plans to kill her fail, he departs easily enough.
+Afterwards, Lift takes to hunting him herself, trying to stop him from killing more [[Surgebinder\|Surgebinders]], which eventually leads to the two having a confrontation in [[Yeddaw\|Yeddaw]]. Nale is initially rather glad that she came to be judged, and has every intention of killing her. However, she manages to talk him down and point out to him that a Desolation is starting again, which seems to temporarily return him to his senses. She even hugs him, although he departs shortly after.
 
 ### Ulim
->“*No somos amigos. Sigues existiendo solo porque no puedo destruir spren.*”
-\-Nale a Ulim[26]
+>“*We are not friends. You persist only because I cannot destroy spren.*”
+\-Nale to Ulim[26]
 
 
-Nale y [[Ulim\|Ulim]] están familiarizados el uno con el otro, y han interactuado en el pasado lo suficiente como para que Nale reconozca al [[Vac%C3%ADospren\|vacíospren]] a primera vista. Nale lo desprecia; rechaza los intentos de Ulim de entablar conversación y le dice directamente que, si tuviera la capacidad de matar vacíospren, Ulim ya estaría muerto. A su vez, a pesar de ser inmune a todo lo que Nale pueda hacerle, Ulim le tiene terror y se calla inmediatamente cuando se lo ordena. Tras darse cuenta de lo mucho que el tiempo ha destrozado su mente, Ulim se percata de que el estado del Heraldo es similar al de los [[Fusionado\|Fusionados]] y se deleita con el engaño de [[Venli\|Venli]].
+Nale and [[Ulim\|Ulim]] are familiar with each other, and have interacted in the past enough so for Nale to recognize the [[Voidspren\|Voidspren]] on sight. Nale despises him; he brushes away Ulim's attempts at small talk and tells him that if he had the capacity to kill Voidspren, Ulim would already be dead. In turn, despite being immune to anything Nale could throw at him, Ulim is terrified of him, and immediately falls silent when commanded. After realizing how badly time has ravaged his mind, Ulim notes that the Herald's condition is similar to that of the [[Fused\|Fused]], and revels in [[Venli\|Venli]] tricking him.
 
-## Cultura
+## Culture
  
->“*Nin-hijo-Dios, Nale, Nakku, Nalan… Ese hombre tenía un centenar de nombres diferentes y era reverenciado a lo largo y ancho de Roshar.*”
+>“*Nin-son-God, Nale, Nakku, Nalan—this man had a hundred different names and was revered across all Roshar.*”
 \-Szeth[43]
 
 
-Como [[Heraldo\|Heraldo]], Nale es importante en varias culturas rosharianas. En el [[Vorinismo\|vorinismo]] se le llama Nalan y se le asocia con el número 2 (o Nan), la [[Diez Esencias\|Esencia]] del Vapor y los atributos Justo y Confiado. La gente suele jurar «por la mano de Nalan», o decir «Nalan quiera...» para expresar esperanza. De forma más cruda, a veces se utiliza la expresión «por las pelotas de Nale». En general, sin embargo, no aparece en los refranes [[Vorin\|vorin]] con especial frecuencia; desde luego, menos que [[Kalak\|Kalak]].
-En [[Shinovar\|Shinovar]], es venerado como **Nin-hijo-Dios**, y se cree que es un fundador de la humanidad. Los [[Azir\|azishianos]] lo conocen como **Nakku el Juez**. También se le atribuye el título de Iluminador,  y se dice que empuña la [[Espada de la venganza\|espada de la venganza]]. Se le mencionan otros cien nombres en todo el mundo, entre ellos el de Heraldo de la Justicia.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+As a [[Herald\|Herald]], Nale is significant in a number of Rosharan cultures. In [[Vorinism\|Vorinism]], he's called **Nalan**, and is associated with the number 2 (or Nan), the [[Ten Essences\|Essence]] of Vapor, and the attributes Just and Confident. People often swear by Nalan's hand, or say "Nalan send..." to express hope. More crudely, an expression "Nale's nuts" is sometimes used. On the whole, however, he does not feature in [[Vorin\|Vorin]] sayings particularly often; certainly less so than [[Kalak\|Kalak]].
+In [[Shinovar\|Shinovar]], he's revered as **Nin-son-God**, and believed to be a founder of humanity. The [[Azish\|Azish]] know him as **Nakku the Judge**. He's also ascribed the title of the Illuminator, and is said to wield the [[Sword of Retribution\|Sword of Retribution]]. He is mentioned as having a hundred other names across the world, among them the Herald of Justice.
 
 
 
-https://es.coppermind.net/wiki/Nalan
+https://coppermind.net/wiki/Nalan

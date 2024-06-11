@@ -1,213 +1,187 @@
-
-
-|**Autonomía**|
+|**Autonomy**|
 |-|-|
 ||
-|**Recipiente**|[[Bavadin\|Bavadin]]|
-|**[[Lasca\|Lascas]]**|*Ninguna*|
-|**[[Astilla\|Astillas]]**|Ninguna|
-|**Estado**|Entera|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]], [[Marcas estelares\|marcas estelares]]|
-|**Residencia**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Vessel**|[[Bavadin\|Bavadin]]|
+|**[[Sliver\|Slivers]]**|*None*|
+|**[[Splinter\|Splinters]]**|None|
+|**Status**|Whole|
+|**Magics**|[[Sand mastery\|Sand mastery]], [[Starmarks\|Starmarks]]|
+|**Residence**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Es cuando el alma se ve forzada hasta el límite cuando se manifiesta la auténtica excepcionalidad. Y, por tanto, el fracaso debe tener unas consecuencias tan definitivas y terribles como la muerte.*”
-\-Autonomía[2]
+>“*It is when the soul is pushed to the limit that true exceptionalism manifests. And so, there must be a consequence—as final and terrible as death—for failure.*”
+\-Autonomy[2]
 
 
-**Autonomía** es una [[Esquirla\|Esquirla]] de [[Adonalsium\|Adonalsium]], actualmente en poder de [[Bavadin\|Bavadin]]. Está situada por el momento en [[Taldain\|Taldain]], investida en al menos uno de los soles locales, [[AisDa\|AisDa]], aunque posee varios [[Avatar\|Avatares]] en otros mundos del [[Cosmere\|Cosmere]].
+**Autonomy** is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], currently held by [[Bavadin\|Bavadin]]. It's presently located on [[Taldain\|Taldain]], Invested in at least one of the local suns, [[AisDa\|AisDa]], though it possesses a number of [[Avatar\|avatars]] in other worlds throughout the [[Cosmere\|cosmere]].
 
-## Sumario
+## Contents
 
-1 Intención. [[#Intenci.C3.B3n]] 
-2 Magias asociadas. [[#Magias asociadas]] 
+1 Intent. [[#Intent]] 
+2 Associated Magics. [[#Associated Magics]] 
 
-2. [[#Maestr.C3.ADa de la arena]] 
-2. [[#Marcas estelares]] 
+2. [[#Sand mastery]] 
+2. [[#Starmarks]] 
 2. [[#Aviar]] 
-2. [[#Avatares]] 
+2. [[#Avatars]] 
 
-2. [[#Avatares conocidos]] 
+2. [[#Known avatars]] 
 
 
 2. [[#Trellium]] 
-2. [[#Inmortales Sin Rostro]] 
-2. [[#Control de la perpendicularidad]] 
+2. [[#Faceless Immortals]] 
+2. [[#Perpendicularity Control]] 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
-3. [[#Historia temprana y aislamiento de Taldain]] 
-3. [[#Creaci.C3.B3n de avatares y alianza con Odium]] 
+3. [[#Early History and Isolation of Taldain]] 
+3. [[#Avatar Creation and Alliance With Odium]] 
 3. [[#Trell]] 
 
-3. [[#El Grupo]] 
+3. [[#The Set]] 
 3. [[#Bilming]] 
 
 
 
 
-4 Influencia. [[#Influencia]] 
+4 Influence. [[#Influence]] 
 
-4. [[#Religiones]] 
-4. [[#Control tecnol.C3.B3gico y cultural]] 
-4. [[#Conflictos interplanetarios]] 
-
-
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas del traductor. [[#Notas del traductor]] 
-7 Notas. [[#Notas]] 
+4. [[#Religions]] 
+4. [[#Technological and Cultural Control]] 
+4. [[#Interplanetary Conflicts]] 
 
 
-## Intención
->“*La motivación de Autonomía es separarse del resto de nosotros, seguir su propio camino. Anima a sus seguidores a demostrar su valía, y recompensa a quienes muestran audacia, a quienes sobreviven contra toda esperanza. Respeta los grandes planes y los grandes logros.*”
-\-Armonía[1]
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-Autonomía quiere permanecer sola; no desea ser corrompida por otras Esquirlas y piensa que todas ellas están mejor solas.  Se esfuerza por convertirse en la Esquirla más poderosa e intocable; para conseguirlo, extiende su influencia por todo el Cosmere. Para sus seguidores, busca a aquellos que son capaces de sobrevivir por sí mismos y desafiar las probabilidades. Su filosofía se centra en la supervivencia del más fuerte. En el orden mundial de Autonomía, hay que ganarse el derecho a seguir existiendo.
-Sin embargo, esto no impide que Autonomía se entrometa en los asuntos de los demás. En la microescala, dicta cómo se permite exactamente a la gente expresar su individualismo, exigiendo que cada uno de ellos encaje en su plan principal de la forma que ella, y no ellos, ha decidido. En la macroescala, a menudo interviene con sus compañeros Esquirlas, incluso atacándolos indirectamente y planeando las invasiones de sus mundos.
+## Intent
+>“*Autonomy is driven to divide off from the rest of us, go her own way. She pushes her followers to prove themselves, and she rewards those who are bold, who survive against the odds. She respects big plans and big accomplishments.*”
+\-Harmony[1]
 
-## Magias asociadas
-  <<Kenton\|Kenton>> utilizando maestría de la arena
-### Maestría de la arena
-Para más información, ver [[Maestr%C3%ADa de la arena\|maestría de la arena]].
-La maestría de la arena es el sistema mágico del [[Lado Diurno\|Lado Diurno]] de [[Taldain\|Taldain]]. La [[Investidura\|Investidura]] de Autonomía viaja a través de la atmósfera y es absorbida por un pequeño liquen que vive en la arena local; esto tiene el efecto de volver a la arena blanca. Los maestros de la arena pueden utilizar esto para dar órdenes a la arena, haciendo que se mueva. La arena se controla en cintas; la fuerza de un maestro de la arena se define por la cantidad de cintas que es capaz de invocar. Lo hacen a costa de sus reservas internas de agua.
-No está claro cuáles son las condiciones para convertirse en un maestro de la arena. La habilidad parece ser una combinación de naturaleza y crianza, y debe ser estimulada para que aparezca en una persona por otro maestro de la arena; pueden pasar semanas de entrenamiento antes de que se pueda controlar la arena. Al mismo tiempo, parece ser innata al menos una parte, ya que cada persona tiene una fuerza diferente, y en otras, el poder no aparece en absoluto.
-La misma [[Investidura\|Investidura]] utilizada en la maestría de la arena también puede ser utilizada por personas de otros sistemas estelares, si el sol de Taldain es visible desde su ubicación. Los [[Potenciador\|potenciadores]] pueden extraer la Investidura de la luz del sol.
 
-### Marcas estelares
-Para más información, ver [[Marcas estelares\|Marcas estelares]].
-Las **marcas estelares** son una forma de arte investido en el Lado Oscuro, cargado por pulsos semanales de [[Sistema de Taldain\|Ridos]]. Aquellos que usan este arte son llamados **tallados por las estrellas**. Hay muchas imilidades entre las marcas estelares y la maestría de la arena.
+Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. For her followers, she seeks those who are capable of surviving on their own and defying the odds. Her philosophy is very much focused on the survival of the fittest. Under Autonomy's world order, one must earn their right to keep existing.
+However, this doesn't stop Autonomy from meddling in affairs of others. On the micro scale, she dictates how exactly people are allowed to express their individualism, requiring that each of them fit in her major plan in the way she, rather than they, have decided. On the macro scale, she often intervenes with her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
+
+## Associated Magics
+  <<Kenton\|Kenton>> using sand mastery
+### Sand mastery
+For more information, see [[Sand mastery\|Sand mastery]].
+Sand mastery is the magic system of the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. Autonomy's [[Investiture\|Investiture]] travels through the atmosphere there and is absorbed by a small lichen living on the local sand; this has the effect of turning the sand white. Sand masters can use this to command the sand, making it move around. Sand is controlled in ribbons; the strength of a sand master is defined by how many ribbons they are capable of calling forth. They do so at the cost of their internal stores of water.
+It's unclear what the conditions for becoming a sand master are. The ability seems to be a combination of nature and nurture, and must be encouraged to appear in a person by another Sand master; it can take weeks of training before one can control sand. At the same time, it appears to be in-born to at least some extent, as different people have different strength, and in some, the power will not appear at all.
+The same [[Investiture\|Investiture]] used in sand mastery can be also utilized by people in other star systems, if Taldain's sun is visible from their location. [[Surgebinder\|Surgebinders]] could draw Investiture from the sun's light.
+
+### Starmarks
+For more information, see [[Starmarks\|Starmarks]].
+**Starmarks** are a form of Invested Art on Darkside, charged by weekly pulses from [[Taldain system\|Ridos]]. Those who use this art are called **Starcarved**. There are many similarities between starmarks and sand mastery.
 
 ### Aviar
-Para más información, ver [[Aviar\|aviar]].
-Los aviares son un tipo de aves del planeta de [[Primero del Sol\|Primero del Sol]]. Son conocidos por sus habilidades sobrenaturales; cada especie de aviar tiene su propio y específico don. Obtienen esos talentos alimentándose de los frutos del [[Dedo de Patji\|dedo de Patji]], un árbol nativo de la isla de [[Patji (isla)\|Patji]]. Este fruto contiene gusanos, que se vinculan con los aviares para otorgarles sus poderes. Las habilidades de incluyen ocultar la propia mente a quienes son capaces de percibirla, y mostrar a los demás sus posibles muertes. Como la mente de Patji es un avatar de Autonomía, es muy probable que los aviares hagan uso de la Investidura de Autonomía.
+For more information, see [[Aviar\|Aviar]].
+Aviar are a type of birds on the planet of [[First of the Sun\|First of the Sun]]. They are known for their supernatural abilities; every species of Aviar has their own, specific gift. They gain those talents by feeding on fruits of [[Patji's Finger\|Patji's Finger]], a tree native to the island of [[Patji (island)\|Patji]]. This fruit contains worms, which bond with Aviar to grant them their powers. Aviar abilities include hiding one's mind from those capable of perceiving it, and showing others their possible deaths. As the mind of Patji is an avatar of Autonomy, it's highly likely that Aviar make use of Autonomy's Investiture.
 
-### Avatares
-  <<Pante%C3%B3n\|Panteón>>, hogar de los <<Aviar\|aviares>> y el Avatar <<Patji (being)\|Patji>>
->“*Autonomía pretende vencer a los demás llenando el Cosmere de versiones de sí misma. Saturar el mercado, por así decirlo.*”
-\-Luzdeluna[8]
+### Avatars
+  <<Pantheon\|Pantheon>>, home of the <<Aviar\|aviars>> and the avatar <<Patji (being)\|Patji>>
+>“*Autonomy is trying to outcompete the others by filling the cosmere with versions of herself. Crowd out the competition, so to speak.*”
+\-Moonlight[8]
 
 
-Como todas las Esquirlas, Autonomía es capaz de crear avatares semi-autónomos, entidades que ejercen una parte del poder de Autonomía sin estar totalmente separadas de ella. Crea dos tipos de avatares. Un tipo son trozos de Autonomía a los que se les ha permitido adquirir su propia sensibilidad, convirtiéndose en identidades alternativas de ella misma. El otro son seres físicos a los que se les ha concedido el uso de una parte de su poder y han pasado a ser una Lasca suya. Los avatares físicos se benefician al convertirse en seres Investidos, lo que les otorga la inmortalidad, así como una increíble capacidad de curación y resistencia. Sin embargo, necesitan una [[Conexi%C3%B3n\|Conexión]] con la propia Autonomía para beneficiarse de su condición de avatar; interrumpir y cortar esa Conexión les hace perder el poder. Mientras están Conectados y empiezan a convertirse en Lasca, también empiezan a adoptar la Intención de Autonomía, de forma similar a los portadores completos de una [[Esquirla\|Esquirla]].
-Los avatares, tanto los creados como los Investidos, pueden ser de cualquier género, raza y especie, incluso totalmente inhumanos. Se consideran Esquirlas de Adonalsium, en cierto modo. Autonomía puede crear avatares en diferentes [[/wiki/Cosmere#Planetas]] del Cosmere sin visitarlos físicamente. También pueden formarse sin una decisión directa y consciente por parte de Autonomía, pero ella siempre estará enterada de que esto ocurre.
-A través de este proceso, Autonomía ha creado varias personas, tanto masculinas como femeninas; tiene más personas femeninas que masculinas, aunque estas últimas también son bastante populares. Prefiere que sus avatares sean el centro de atención y no ella misma.
+Like all Shards, Autonomy is able to create avatars—semi-autonomous entities that wield a portion of Autonomy's power without being wholly separate from Autonomy herself. Autonomy creates two types of avatars. One type are pieces of Autonomy that have been allowed to gain their own sentience, becoming effectively alternate identities of herself. The other are Physical beings that have been granted the use of a portion of Autonomy's power, and becoming a [[Sliver\|Sliver]] of her. Physical avatars benefit from becoming Invested, granting them immortality, as well as incredible healing and resilience. However, they require a [[Connection\|Connection]] to Autonomy herself in order to benefit from their status as an avatar; interrupting and cutting off that Connection leads them to lose the power. While they are connected and begin to become a sliver, they also begin to take on Autonomy's intent, similar to full [[Shard\|Shard]] wielders.
+Avatars, both made and Invested, can be of any gender, race and species, including fully inhuman ones. They are considered to be Shards of Adonalsium, in a way. Autonomy can create avatars on different [[/wiki/Cosmere#Planets]] in the cosmere without physically visiting them. Avatars can also form without a direct and conscious decision on Autonomy's part, but she will always be aware of this happening.
+Through this process, Autonomy has created several personas, both male and female; she has more female personas than male ones, though the latter are also quite popular. She prefers to make her avatars rather than herself the center of attention.
 
-#### Avatares conocidos
-**[[Se%C3%B1or de la Arena\|Señor de la Arena]]**, en Taldain; Taldain también alberga a muchas otras personas sin identificar de Autonomía, aunque no está claro si todas son avatares o si todas son "caras" diferentes del Señor de la Arena. Al parecer, se manifestó en algún momento a [[Elorin\|Elorin]], lo que le llevó a intentar destruir a los [[Diem\|maestros de la arena]], aunque sigue siendo dudoso si llevar la maestría de la arena a la extinción era su objetivo. El Señor de la Arena también puede haber sido responsable del cisma entre Kerzta y Lossand, ya que los hermanos fundadores de ambas naciones, [[Kerzt\|Kerzt]] y [[Lossa\|Lossa]] afirmaron haber recibido su visita, pero el contenido de las mismas era muy diferente. Lossa recibió el don de la maestría de la arena, mientras que a Kerzt se le hizo creer que la maestría de la arena era una maldición.
-**[[Patji (ser)\|Patji]]**, situada en [[Primero del Sol\|Primero del Sol]]; se desconoce el origen y la cantidad de su [[Investidura\|Investidura]]. Escribió una carta a Hoid en la que desestima sus preocupaciones sobre [[Odium\|Odium]].
-**Avatar de [[Obrodai\|Obrodai]]**, más joven que cualquiera de los anteriores. Se le ha inculcado una gran aversión a [[Hoid\|Hoid]] para evitar que vuelva allí.
-**[[Telsin Ladrian\|Telsin Ladrian]]**, la líder del [[El Grupo\|Grupo]]. Telsin fue investida por Autonomía para facilitar el control o la destrucción de la sociedad [[Scadrial\|scadriana]]. En esta labor, tanto Telsin como la propia Autonomía se denominan ocasionalmente [[Trell (trellismo)\|Trell]].
+#### Known avatars
+**[[Sand Lord\|Sand Lord]]**, on Taldain; Taldain is also home to many other, unnamed personas of Autonomy, though it is unclear if they are all avatars or if they are all different "faces" of the Sand Lord. He apparently manifested himself at some point to [[Elorin\|Elorin]], leading to an attempt to destroy the [[Diem\|sand masters]], though whether driving sand mastery to extinction was his goal remains uncertain. The Sand Lord may have also been responsible for the schism between Kerzta and Lossand, as the siblings to found both nations, [[Kerzt\|Kerzt]] and [[Lossa\|Lossa]] both claimed to have received visits from the Sand Lord, but the content of those visits were very different. Lossa was gifted sand mastery, while Kerzt was led to beleive sand mastery was a curse.
+**[[Patji (being)\|Patji]]**, located on [[First of the Sun\|First of the Sun]]; the origin and amount of its [[Investiture\|Investiture]] is unknown. It wrote a letter to Hoid where it dismisses his concerns over [[Odium\|Odium]].
+**[[Obrodai\|Obrodai]] avatar**, younger than either of the above. She has been instilled with a great dislike of [[Hoid\|Hoid]] in order to prevent him from returning there.
+**[[Telsin Ladrian\|Telsin Ladrian]]**, the leader of the [[Set\|Set]]. Telsin was Invested by Autonomy in order to facilitate either control or destruction of [[Scadrian\|Scadrian]] society. In this function, both Telsin and Autonomy herself are occassionally referred to as [[Trell (Trellism)\|Trell]].
 ### Trellium
-Para más información, ver [[Trellium\|Trellium]].
-El [[Trellium\|trellium]], más raramente llamado **bavadinium**, es el [[Metal divino\|metal divino]] de Autonomía. Aunque se desconocen sus propiedades [[Alomancia\|alománticas]] y [[Feruquimia\|feruquímicas]], cuando se utiliza como clavo [[Hemal%C3%BArgico\|hemalúrgico]], el trellium puede conceder otras habilidades alománticas o feruquímicas, y ocultar al portador del clavo de la visión y el control de Armonía. Además, el trellium repele otras formas de [[Investidura\|Investidura]], especialmente el [[Armonium\|armonium]]. 
-Cuando el trellium entra en contacto con el armonium sobrecalentado, provoca una explosión masiva y excepcionalmente destructiva, capaz de arrasar ciudades enteras. Además, tras la explosión, pueden encontrarse pequeñas cantidades de [[Lerasium\|lerasium]] y [[Atium\|atium]].
+For more information, see [[Trellium\|Trellium]].
+[[Trellium\|Trellium]], more rarely called **bavadinium**, is the [[God Metal\|God Metal]] of Autonomy. While its [[Allomancy\|Allomantic]] and [[Feruchemy\|Feruchemical]] properties are unknown, when used as a [[Hemalurgic\|Hemalurgic]] spike, trellium can grant other Allomantic or Feruchemical abilities, and hide the bearer of the spike from [[Harmony\|Harmony's]] vision and control. Additionally, trellium repells other forms of [[Investiture\|Investiture]], particularly [[Harmonium\|harmonium]]. 
+When trellium is brought into contact with superheated harmonium, it causes a massive, exceptionally destructive explosion, capable of levelling entire cities. Moreover, in the aftermath of the blast, small quantities of [[Lerasium\|lerasium]] and [[Atium\|atium]] can be found.
 
-### Inmortales Sin Rostro
->“*Ellos no lo entendían; no podían entenderlo. El Grupo contaba con sus propios Inmortales Sin Rostro.*”
+### Faceless Immortals
+>“*They didn't understand, couldn’t understand. The Set had Faceless Immortals of its own.*”
 \-Edwarn Ladrian[33]
 
 
-Autonomía parece tener la capacidad de tomar el control de cuerpos vivos, incluso hasta en [[Scadrial\|Scadrial]]. No está claro cuáles son sus limitaciones, ni si hay algún requisito que la persona deba cumplir antes de que Autonomía pueda utilizarlos; es probable que requiera [[Conexi%C3%B3n\|Conexión]] con ella, y posiblemente la presencia de trellium. Cuando las personas están bajo el control de Autonomía, puede hacer que se muevan a su antojo y que digan lo que ella quiera; pueden ser reconocidas como suyas por el brillo rojo de sus ojos. [[El Grupo\|El Grupo]] los llama sus "Inmortales Sin Rostro"; no parecen conocer la verdadera naturaleza de los Inmortales. No está claro si Autonomía puede devolver el cuerpo bajo el control de su propietario original, o si la persona sigue siendo consciente de sí misma mientras ella tiene el control.
+Autonomy appears to have the ability to take control of living bodies, even as far as on [[Scadrial\|Scadrial]]. It is unclear what her limitations are, or if there is any requirement the person must fulfill before Autonomy can use them; it is likely that it requires [[Connection\|Connection]] to Autonomy, and possibly the presence of trellium. When people are under Autonomy's control, she can make them move to their wish and speak what she wants; they can be recognized as hers by red glow in their eyes. The [[Set\|Set]] calls them their "Faceless Immortals"; they do not appear aware of the Immortals' true nature. It's unclear if Autonomy can return the body under the control of its original owner, or if the person is still aware of themselves while Autonomy is in control.
 
-### Control de la perpendicularidad
->“*En algunos planetas, Autonomía ha creado portales como ese inesperadamente, y contra toda explicación de su mecánica.*”
-\-Luzdeluna[34]
+### Perpendicularity Control
+>“*There are planets where Autonomy has created such portals unexpectedly, and against all understood mechanics.*”
+\-Moonlight[34]
 
 
-Autonomía parece haber dominado el control de las [[Perpendicularidad\|perpendicularidades]]. Ha prohibido el acceso a [[Taldain\|Taldain]] a través del [[Reino Cognitivo\|Reino Cognitivo]], bloqueando a cualquier saltamundos nativo fuera de su propia patria. En otros mundos, ha demostrado la capacidad de crear perpendicularidades artificiales y temporales; los métodos por los que lo hace son desconocidos para los estudiosos del Cosmere y parecen romper las leyes conocidas de la [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]].
-Sin embargo, a diferencia de las perpendicularidades naturales, los portales creados por Autonomía tienen restricciones estrictas, y requieren un tiempo y un lugar específicos para formarse. No está claro en qué consisten esas condiciones, aunque parece que las grandes cantidades de individuos Investidos y la Investidura líquida son aspectos clave. Sea cual sea el caso, esas limitaciones significan que para que Autonomía pueda utilizar los portales con eficacia, requiere una gran coordinación y sincronización. Además, una vez fabricadas, esas perpendicularidades pueden ser destruidas gastando la Investidura que las compone; un pequeño grupo de [[Alomante\|alomantes]] puede destruir un portal en el transcurso de varios minutos usando la Investidura para alimentar sus poderes alománticos y quemarla rápidamente.
+Autonomy seems to have mastered control over [[Perpendicularity\|perpendicularities]]. She has barred access to [[Taldain\|Taldain]] through the [[Cognitive Realm\|Cognitive Realm]], locking any native worldhoppers out of their own homeland. On other worlds, she has shown the ability to create artificial, temporary perpendicularities; the methods by which she does so are unknown to cosmere scholars and appear to break the known laws of [[Realmatic Theory\|Realmatic Theory]].
+However, unlike natural perpendicularities, the portals created by Autonomy have strict constraints, requiring specific time and place to form. What affects those conditions is unclear, though it appears that large quantities of Invested individuals and liquid Investiture are key aspects. Whatever the case may be, those constraints means that for Autonomy to use the portals effectively, she requires a great deal of coordination and timing. Additionally, once made, those perpedicularities can be destroyed by spending the Investiture they are comprised of; a small group of [[Allomancer\|Allomancers]] can destroy a portal over the course of several minutes, by using the Investiture to power their Allomancy, in order to quickly burn it away.
 
-## Historia
+## History
   <<Bavadin\|Bavadin>>
-Para la historia de Bavadin antes de tomar la Esquirla, ver [[/wiki/Bavadin#Historia]].
-### Historia temprana y aislamiento de Taldain
->“*La política de aislacionismo que ejerce Autonomía en los últimos tiempos (en claro contraste con su injerencia en otros planetas, debo añadir) impide el viaje hacia y desde Taldain desde hace muchos, muchos años.*”
+For the history of Bavadin prior to taking up the Shard, see [[/wiki/Bavadin#History]].
+### Early History and Isolation of Taldain
+>“*Autonomy's policy of isolationism in recent times (in direct contrast to her interference with other planets, I might add) has prevented travel to and from Taldain for many, many years.*”
 \-Khriss[4]
 
 
-Autonomía fue creada tras la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]], y asumida por [[Bavadin\|Bavadin]], que la llevó lejos de [[Yolen\|Yolen]]. Con el tiempo, se estableció en el [[Sistema de Taldain\|sistema de Taldain]]. Alguien alteró el sistema hasta darle su forma actual, poco natural, aunque se desconoce si fue Autonomía o alguna otra fuerza.
-Con el tiempo, Autonomía empezó a imponer una política de estricto aislacionismo para el planeta, impidiendo que la gente saliera y que viajeros como [[Khriss\|Khriss]] regresaran. También empezó a desempeñar un papel más activo en los asuntos de Taldain, enseñando a su pueblo sobre física avanzada y las tecnologías que había previsto con sus poderes, lo que condujo al meteórico ascenso del planeta como potencia tecnológica. Sin embargo, durante todo este tiempo, Taldain permaneció aislada del resto del Cosmere.
+Autonomy was created in the aftermath of the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and taken up by [[Bavadin\|Bavadin]], who carried it away from [[Yolen\|Yolen]]. Eventually, she settled in [[Taldain system\|Taldain system]]. Someone altered the system into its current, unnatural shape, though whether this was Autonomy or some other force is unknown.
+Eventually, Autonomy began to enforce a policy of strict isolationism for the planet, preventing people from leaving and travellers such as [[Khriss\|Khriss]] from returning. She also began to take a more active role in Taldain's affairs, teaching her people about advanced physics and technologies she has forseen with her powers, leading to the planet's meteoric rise as a technological powerhouse. Throughout this time, however, Taldain remained isolated from the rest of the cosmere.
 
-### Creación de avatares y alianza con Odium
-Incluso cuando Taldain se volvió inaccesible, Autonomía empezó a criar avatares de sí misma en varios mundos, incluido [[Primero del Sol\|Primero del Sol]]. En algún momento de este tiempo, sembró la religión del [[Trelagismo\|trelagismo]] en [[Scadrial\|Scadrial]], presumiblemente con la intención de que más tarde se reactivara y criar a su propio avatar en el planeta.
-Es posible que Autonomía haya ayudado a [[Odium\|Odium]] a matar a [[Devoci%C3%B3n\|Devoción]] y a [[Dominio\|Dominio]] de forma desconocida. Las dos Esquirlas parecen tener algún tipo de alianza o pacto que les impide atacarse mutuamente. Odium pretendía romperlo con el tiempo y traicionar a Autonomía, acabando con ella; sin embargo, fue atrapado en el [[Sistema roshariano\|sistema roshariano]] antes de que eso pudiera ocurrir.
-Milenios después, [[Hoid\|Hoid]] envió un mensaje a Autonomía pidiendo ayuda con Odium y la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] en curso. El mensaje fue interceptado por su avatar en Primero del Sol y la petición fue denegada, aunque [[Patji (ser)\|Patji]] indicó que otros avatares podrían estar más dispuestos a ayudar. Al mismo tiempo, Autonomía estaba manifestando otro avatar en [[Obrodai\|Obrodai]], y Patji exigió que Hoid no volviera allí.
+### Avatar Creation and Alliance With Odium
+Even as Taldain grew inaccessible, Autonomy started to nurture avatars of herself on various worlds, including [[First of the Sun\|First of the Sun]]. At some point during this time, she has seeded the religion of [[Trelagism\|Trelagism]] on [[Scadrial\|Scadrial]], presumably with the intent of later activating it and raising her own avatar on the planet.
+It is possible that Autonomy aided [[Odium\|Odium]] in killing [[Devotion\|Devotion]] and [[Dominion\|Dominion]] in an unknown way. The two Shards appear to have some form of alliance or pact preventing them from attacking each other. Odium intended to eventually break it and double-cross Autonomy, killing her off; however, he was trapped in the [[Rosharan system\|Rosharan system]] before that could happen.
+Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with Odium and the ongoing [[True Desolation\|True Desolation]]. The message was intercepted by her avatar on First of the Sun and the request denied, although [[Patji (being)\|Patji]] indicated that other avatars may be more inclined to assist. At the same time, Autonomy was manifesting another avatar on [[Obrodai\|Obrodai]], and Patji demanded that Hoid does not return there.
 
 ### Trell
-#### El Grupo
->“*Un día, los hombres de dorado y rojo, portadores del último metal, vendrán a por vosotros. Y seréis gobernados por ellos. Adorad. Adorad a Trell y esperad...*”
-\-Miles Cienvidas[44]
+#### The Set
+>“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
+\-Miles Hundredlives[44]
 
 
-En algún momento tras el [[Catacendro\|Catacendro]], Autonomía decidió que el avance del desarrollo tecnológico de [[Scadrial\|Scadrial]] sería perjudicial para sus propios objetivos. El plan inicial de Autonomía para hacer frente a esto fue la creación del [[El Grupo\|Grupo]], una sociedad secreta que resucitó la religión del [[Trelagismo\|trelagismo]], muerta hace tiempo, como [[Trellismo\|trellismo]]. Sus líderes no eran conscientes de la verdadera naturaleza e Intención de Autonomía, conociéndola como el Trell masculino e interactuando con ella a través de los "Inmortales Sin Rostro" de Trell.
-Mientras esto ocurría en el [[Reino F%C3%ADsico\|Reino Físico]], Autonomía inició el proceso de invertirse en Scadrial, aprovechando las intenciones contradictorias de [[Armon%C3%ADa\|Armonía]] para infiltrarse en el planeta. Armonía no podía entenderlo en ese momento, aunque sabía lo suficiente como para mostrárselo a [[Wax\|Wax]] como una niebla roja asfixiante y apremiante.
-El propósito original del Grupo parece haber sido la toma de la [[Cuenca de Elendel\|Cuenca de Elendel]], instalándose ellos mismos -y, por extensión, a Trell- como gobernantes de Scadrial. Sin embargo, el descubrimiento de los [[Scadriano del sur\|scadrianos del sur]] y su tecnología mucho más avanzada les llevó a intentar acelerar la línea temporal. Autonomía, por su parte, decidió renunciar al plan de controlar Scadrial y optar por su completa destrucción. Por ello, eliminó al entonces líder del Grupo, [[Edwarn Ladrian\|Edwarn Ladrian]], y comenzó a trasladar a sus [[Hombres de dorado y rojo\|hombres de dorado y rojo]] al subastral scadriano del [[Reino Cognitivo\|Reino Cognitivo]], con la intención de realizar una invasión total.
-Sin embargo, antes de que esto ocurriera, [[Telsin Ladrian\|Telsin Ladrian]] consiguió convencer de alguna manera a Autonomía para que diera al Grupo la oportunidad de hacerse de nuevo con el planeta. Autonomía, que siempre aprecia las acciones audaces y ambiciosas, respondió invistiendo a Telsin como su avatar. Sin embargo, también concedió a Telsin un plazo antes del cual el mundo tendría que encontrarse bajo el control del Grupo, ya que en una fecha concreta se abriría la [[Perpendicularidad\|perpendicularidad]] artificial que estaba creando para dejar entrar a sus ejércitos.
-En algún momento de este tiempo, las acciones de Autonomía llamaron la atención de los [[Sangre Espectral\|Sangre Espectral]], que comenzaron su labor para detenerla.
+At some point following the [[Catacendre\|Catacendre]], Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals. Autonomy's initial plan for dealing with this was the creation of [[Set\|Set]], a secret society that resurrected the long-dead religion of [[Trelagism\|Trelagism]] as [[Trellism\|Trellism]]. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals".
+While this was happening in the [[Physical Realm\|Physical Realm]], Autonomy began the process of Investing herself into Scadrial, taking advantage of [[Harmony\|Harmony's]] conflicting intents to infiltrate the planet. Harmony could not understand it at the time, albeit he knew enough to visualize it to [[Wax\|Wax]] as a choking, pressing red haze.
+Set's original purpose appears to have been a takeover of the [[Elendel Basin\|Elendel Basin]], installing themselves—and, by extension, Trell—as the rulers of Scadrial. However, the discovery of [[Southern Scadrian\|Southern Scadrians]] and their vastly more advanced technology led them to attempt to accelerate the timeline. Autonomy, on the other hand, decided to forego the plan to control Scadrial and opt for its complete destruction instead. For this reason, she eliminated Set's then-leader, [[Edwarn Ladrian\|Edwarn Ladrian]], and began to move her men of gold and red into Scadrian subastral of the [[Cognitive Realm\|Cognitive Realm]], intending a full-blown invasion.
+Before this could happen, however, [[Telsin Ladrian\|Telsin Ladrian]] somehow managed to convince Autonomy to give the Set a chance to take over the planet again. Autonomy, ever appreciative of bold, ambitious actions, responded by Investing Telsin as her avatar. However, she also granted Telsin a deadline before which the world would have to find itself under Set's control, as on a specific date, the artificial [[Perpendicularity\|perpendicularity]] she was creating to let her armies in would be opened.
+At some point during this time, Autonomy's actions came under attention of the [[Ghostbloods\|Ghostbloods]], who began their work to stop her.
 
-  <<Telsin Ladrian\|Telsin Ladrian>>, avatar de Autonomía
+  <<Telsin Ladrian\|Telsin Ladrian>>, avatar of Autonomy
 #### Bilming
->“*No es la bomba lo que debería preocuparte, sino la destrucción que he enviado por si esa bomba fracasa.*”
-\-Autonomía[2]
+>“*It is not the bomb you should worry about. It is the destruction I have sent if that bomb fails.*”
+\-Autonomy[2]
 
 
-Durante los seis años que siguieron a la muerte de Edwarn Ladrian, el Grupo tomó el control total de la ciudad de [[Bilming\|Bilming]] en nombre de Autonomía, hasta desarrollarla de acuerdo con la filosofía de esta y utilizando la arquitectura de Taldain, en particular el estilo . Al mismo tiempo, realizaron pruebas subterráneas para crear una bomba de [[Trellium\|trellium]]-[[Armonium\|armonium]]. La parte clave del plan -y la que pretendía impresionar a Autonomía- era el dispositivo de lanzamiento: un cohete autopropulsado, algo que la propia Autonomía aún no había descubierto.
-Durante este tiempo, Autonomía terminó el proceso de Investirse en el planeta. Aproximadamente un año antes de su fecha límite, se comunicó con [[Armon%C3%ADa\|Armonía]], intentando un compromiso: dejaría que abandonara pacíficamente Scadrial y se Invistiera en otro lugar, mientras ella tomaba el control de Scadrial. Armonía rechazó su oferta, y posteriormente se vio limitado por Autonomía, que cegó su visión de futuro. En respuesta, Armonía envió a sus agentes -principalmente a [[Waxillium Ladrian\|Waxillium Ladrian]] - a Bilming.
-Mientras estaban en Bilming, Wax y su equipo, así como un grupo de [[Sangre Espectral\|Sangre Espectral]], comenzaron a descifrar el plan de el Grupo. Autonomía decidió finalmente hablar con Wax a través de un cuerpo moribundo, advirtiéndole de la inminente invasión y animándole a que le demostrara su deseo de proteger Scadrial. Ese mismo día, cuando Wax se enfrentó a Telsin, Armonía interrumpió brevemente el vínculo que esta tenía con Autonomía, haciendo que Telsin cayera inconsciente. Cuando Telsin volvió en sí, Autonomía la abandonó por voluntad propia, habiendo aparentemente renunciado a ella y a sus planes.
-Después de que Wax y [[Wayne\|Wayne]] destruyeran la bomba del Grupo, mientras [[Marasi\|Marasi]] destruía la perpendicularidad destinada a los [[Hombres de dorado y rojo\|hombres de dorado y rojo]], Autonomía se retiró a regañadientes de Scadrial, reconociendo su derrota. Sin embargo, esto era sólo temporal: tenía la intención de reagruparse y regresar en el futuro.
+Over the six years following the death of Edwarn Ladrian, the Set fully took control of the city of [[Bilming\|Bilming]] on behalf of Autonomy, up to developing it with accordance to Autonomy's philosophy and using Taldain architecture, particularly the  style. At the same time, they conducted underground tests in order to create a [[Trellium\|trellium]]-[[Harmonium\|harmonium]] bomb. The key part of the plan—and the part of it meant to impress Autonomy—was the delivery device: a self-propelled rocket, something that Autonomy herself was yet to figure out.
+During this time, Autonomy finished the process of Investing herself into the planet. About a year before her deadline, she communicated with [[Harmony\|Harmony]], attempting a compromise: she would let Harmony peacefully depart Scadrial and Invest himself elsewhere, while she took control of Scadrial. Harmony rejected her offer, and was subsequently bound by Autonomy, blinding his future-sight. In response, Harmony sent his agents—primarily [[Waxillium Ladrian\|Waxillium Ladrian]]—to Bilming.
+While in Bilming, Wax and his team, as well as a group of [[Ghostbloods\|Ghostbloods]], began to unravel Set's plan. Autonomy eventually chose to speak with Wax through a dying body, warning him about the impending invasion and encouraging him to prove his desire to protect Scadrial to her. Later that day, when Wax confronted Telsin, Harmony briefly disrupted Autonomy's link to her, causing Telsin to fall unconscious. When Telsin came to, Autonomy abandoned her willingly, having apparently given up on her and her plans.
+After Wax and [[Wayne\|Wayne]] destroyed the Set's bomb, while [[Marasi\|Marasi]] destroyed the perpendicularity intended for the [[Men of gold and red\|men of gold and red]], Autonomy begrudgingly withdrew from Scadrial, acknowledging their victory. However, this was only temporary—she fully intended to regroup and return in the future.
 
-## Influencia
-### Religiones
-  El Señor de la Arena en <<Taldain\|Taldain>>
-Autonomía es ampliamente venerada por muchos de los mundos y culturas del [[Cosmere\|Cosmere]]. Ella -o, a veces, él o ellos- aparece en diversas formas y bajo diversos nombres a lo largo de sus muchas religiones. En algunos lugares, hay panteones enteros de dioses en los que cada miembro es en realidad una persona diferente de ella. Entre las religiones que le rinden culto se encuentra el [[Ker'reen\|ker'reen]] y  de [[Taldain\|Taldain]], que la venera bajo la persona masculina del [[Se%C3%B1or de la Arena\|Señor de la Arena]], la fe [[Eelakin\|Eelakin]], que considera a la isla de [[Patji (isla)\|Patji]], el lugar del avatar de Patji, uno de sus dioses, y las creencias [[Scadrial\|scadrianas]] del [[Trelagismo\|trelagismo]] y posteriormente del [[Trellismo\|trellismo]], en las que se la conoce como el dios Trell. 
-Autonomía suele sembrar estas religiones en varios planetas, incluso en los que ya han sido investidos por otras [[Esquirla\|Esquirlas]]. Se trata de semillas de influencia que puede reactivar posteriormente para ejercer su repercusión en el planeta; por ejemplo, reactivando el trelagismo como trellismo con [[El Grupo\|el Grupo]].
+## Influence
+### Religions
+  The Sand Lord of <<Taldain\|Taldain>>
+Autonomy is widely worshipped by many of [[Cosmere\|cosmere's]] worlds and cultures. She—or, sometimes, he or they—appears in various forms and under various names throughout her many religions. In some places, there are entire pantheons of gods where every member is actually a different persona of her. Religions worshipping Autonomy include [[Ker'reen\|Ker'reen]] and  of [[Taldain\|Taldain]], which worships her under the male persona of [[Sand Lord\|Sand Lord]], the [[Eelakin\|Eelakin]] faith, which considers the island of [[Patji (island)\|Patji]], the site of the Patji avatar, one of its gods, and the [[Scadrian\|Scadrian]] faiths of [[Trelagism\|Trelagism]] and later [[Trellism\|Trellism]], in which she is known as the god Trell.
+Autonomy will often seed these religions on various planets—including those already Invested by other [[Shard\|Shards]]. These are seeds of influence she can later reactivate in order to exert her influence on the planet; for example, reactivating Trelagism as Trellism with the [[Set\|Set]].
 
-### Control tecnológico y cultural
->“*Autonomía. Afirma querer que todo el mundo sea individual. Entrega a cada cual una casita que se distingue de las demás, pero solo de un modo que encaja con su propio plan, con sus propios deseos. Es un individualismo falso. Una exclusividad corporativa. Como esos anuncios que te animan a seguir tu propio camino, a ser tú misma, comprando el mismo producto que todos los demás.*”
-\-Luzdeluna[8]
-
-
-Autonomía ha compartido constantemente sus conocimientos de Esquirla sobre física y tecnología avanzadas con su pueblo. Esto ha hecho que [[Taldain\|Taldain]] se convierta en uno de los mundos más avanzados tecnológicamente del Cosmere, y el que más rápido ha avanzado. Sin embargo, ha insistido al mismo tiempo en impedir que Taldain se desarrolle más de lo que desea, y se ha inmiscuido en el desarrollo cultural y político del planeta desde tiempos remotos, incluyendo la manipulación de individuos específicos en un intento de dividir la fe en el Señor de la Arena y destruir el [[Diem\|Diem]] si no son dignos de sobrevivir.
-En la actualidad, Autonomía ha aislado definitivamente a Taldain del resto del Cosmere. Como tal, los viajes desde y hacia el planeta han desaparecido casi por completo. Esto también ha provocado que los [[Saltamundos\|saltamundos]] de Taldain queden aislados de su propia patria; gente como [[Khriss\|Khriss]] y [[Baon\|Baon]] son exiliados. Sin embargo, Autonomía no se opone a exportar la cultura de Taldain -o, más bien, la versión de la misma que ella aprueba- a otros mundos. Los lugares bajo el control de Autonomía, como [[Bilming\|Bilming]], llegarán a parecerse con el tiempo a las ciudades de Taldain, imitando aspectos como la distribución y el estilo arquitectónico.
-
-### Conflictos interplanetarios
->“*Autonomía tiene acceso a… tropas muy especializadas. Difíciles de controlar. Peligrosas de desplegar.*”
-\-AlmaDoble[34]
+### Technological and Cultural Control
+>“*She claims she wants everyone to be individual. Gives them each a little house that is distinctive from the others, but only in a way that fits her plan, her desires. It's fake individualism. A corporate uniqueness. Like an advertisement telling people to go their own way, be their own person—by buying this product like everyone else.*”
+\-Moonlight[8]
 
 
-La propia Autonomía interfiere directamente en varios mundos del Cosmere. Podría haber ayudado a Odium a matar y astillar a [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] entre otras [[Esquirla\|Esquirlas]]. Se ha apoderado de múltiples mundos a través de sus avatares, siendo conocidos [[Primero del Sol\|Primero del Sol]], [[Obrodai\|Obrodai]] y [[Scadrial\|Scadrial]] por albergar sus avatares en algún momento. En Scadrial en particular, a través de su personaje de Trell, Autonomía puede cegar directamente a [[Armon%C3%ADa\|Armonía]] e intentar llevar la destrucción al planeta como parte de su plan para impedir el ascenso de Scadrial como potencia interestelar. Parece que influye en Roshar en un grado desconocido.
-Cuando las artimañas resultan insuficientes, Autonomía tiene acceso a métodos más contundentes, ya que comanda un ejército conocido únicamente como . Son figuras humanoides de piel dorada y ojos rojos que les dan su apelativo, equipadas con avanzadas armas de fuego. Se desconocen todas sus capacidades; aunque están especializados en la destrucción generalizada, se dice que son difíciles de controlar, lo que hace que desatarlos sea un acto irreversible.
+Autonomy has consistently shared her Shardic knowledge of advanced physics and technology with her people. This has led to [[Taldain\|Taldain]] becoming one of cosmere's most technologically-advanced worlds, and the fastest to advance. However, Autonomy has at the same time insisted on stopping Taldain from developing further than she desires, and has meddled in the planet's cultural and political development from ancient times, including manipulating specific individuals in an attempt to divide faith in the Sand Lord and destroy the [[Diem\|Diem]] should they prove unworthy to survive.
+Presently, Autonomy has effectively isolated Taldain from the rest of the cosmere. As such, off-world travel to and from the planet has all but ceased. This also had the result of cutting Taldain [[Worldhopper\|worldhoppers]] off from their own homeland; people like [[Khriss\|Khriss]] and [[Baon\|Baon]] are virtual exiles. Autonomy is not, however, opposed to exporting Taldain's culture—or rather, the version of it she approves of—to other worlds. Places under Autonomy's control, like [[Bilming\|Bilming]], will eventually come to look similar to cities of Taldain, mimicking aspects such as layout and architectural style.
 
-## Curiosidades
-Si Brandon se convirtiera en Recipiente, Autonomía es una de las Esquirlas que ha dicho que podría elegir.
-Cuando se le preguntó sobre las asociaciones entre las Esquirlas y varios colores de **, la respuesta de Brandon para Autonomía fue "es complicado".
-Según Brandon, Autonomía sería la Esquirla que más se ajusta al [[Citoverso\|Citoverso]] en la época de [[Spensa\|Spensa]].
-Autonomía aparece en uno de los naipes creados para el lanzamiento de *[[El metal perdido\|El metal perdido]]*; como uno de los dos comodines junto a [[Armon%C3%ADa\|Armonía]].
-Autonomía es fan de [[Kelsier\|Kelsier]] y de sus acciones.
-## Notas del traductor
+### Interplanetary Conflicts
+>“*Autonomy has access to … some very specialized troops. Hard to control. Dangerous to unleash.*”
+\-TwinSoul[34]
 
 
-## Notas
+Autonomy herself interferes directly in a number of cosmere's worlds. She might have aided Odium in killing and splintering [[Devotion\|Devotion]] and [[Dominion\|Dominion]] among other [[Shards\|Shards]]. She has been taking over multiple worlds through her avatars, with [[First of the Sun\|First of the Sun]], [[Obrodai\|Obrodai]] and [[Scadrial\|Scadrial]] being known to host her avatars at one point or another. On Scadrial in particular, through her persona of Trell, Autonomy can outright blind [[Harmony\|Harmony]] and attempt to bring destruction to the planet as part of her plan to prevent the rise of Scadrial as an interstellar power. She appears to be influencing Roshar to an unknown degree.
+When subterfuge proves insufficient, Autonomy has access to more forceful methods, as she commands an army known only as the [[Men of gold and red\|men of gold and red]]. They are humanoid figures with golden skin and red eyes that give them their appellation, equipped with advanced firearms. Their full capabilities are unknown; while they specialize in widespread destruction, they are reportedly difficult to control, making unleashing them an irreversible act.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**| · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] ·  · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+If Brandon were to become a Vessel, Autonomy is one of the Shards he has said he might choose.
+When asked about associations between Shards and various ** colors, Brandon's answer for Autonomy was "it's complicated".
+Per Brandon, Autonomy would be the Shard most fitting the [[Cytoverse\|Cytoverse]] as it is during [[Spensa\|Spensa's]] lifetime.
+Autonomy is featured on one of the playing cards created for the release of *[[The Lost Metal\|The Lost Metal]]*; she is depicted as one of the two Jokers alongside [[Harmony\|Harmony]].
+Autonomy is a fan of [[Kelsier\|Kelsier]] and his actions.
 
 
-
-https://es.coppermind.net/wiki/Autonomy
+https://coppermind.net/wiki/Autonomy

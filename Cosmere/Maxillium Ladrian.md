@@ -1,64 +1,40 @@
-
-
 |**Maxillium Ladrian**|
 |-|-|
-|**[[Casa Ladrian\|Casa Ladrian]]**|
-|**Padres**|[[Steris\|Steris]], [[Waxillium\|Waxillium]]|
-|**Hermanos**|[[Tindwyl Ladrian\|Tindwyl]]|
-|**Parientes**|[[Marasi Colms\|Marasi Colms]], [[Edwarn\|Edwarn]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
-|**Ancestros**|[[Ashweather\|Ashweather]], [[Madre de Allrianne\|madre de Allrianne]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Fantasma\|Fantasma]]|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
+|**[[House Ladrian\|House Ladrian]]**|
+|**Parents**|[[Steris\|Steris]], [[Waxillium\|Waxillium]]|
+|**Siblings**|[[Tindwyl Ladrian\|Tindwyl]]|
+|**Relatives**|[[Marasi Colms\|Marasi Colms]], [[Edwarn\|Edwarn]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
+|**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Spook\|Spook]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Ethnicity**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-**Maxillium Ladrian** es el hijo de [[Steris Harms\|Steris Harms]] y [[Waxillium Ladrian\|Waxillium Ladrian]] en [[Scadrial\|Scadrial]]. Es el mayor de sus dos hijos, siendo hermano de [[Tindwyl Ladrian\|Tindwyl Ladrian]].
+**Maxillium Ladrian** is the son of [[Steris Harms\|Steris Harms]] and [[Waxillium Ladrian\|Waxillium Ladrian]] on [[Scadrial\|Scadrial]]. He is the elder of their two children, brother to [[Tindwyl Ladrian\|Tindwyl Ladrian]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Relationships. [[#Relationships]] 
 
 2. [[#Waxillium Ladrian]] 
 2. [[#Wayne]] 
 
 
-3 Notas. [[#Notas]] 
+3 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-[[Wax\|Wax]] dice que a Max le gusta dibujar, y se le ha visto jugando con su [[Cachorrito Soonie\|cachorrito Soonie]], pero sobre todo disfruta volando con su padre. Es animado, como puede observarse por su viaje al interior de la aeronave de los [[Malwish\|malwish]], y siempre ha tenido fascinación por las alturas. También empatiza con las situaciones en las que se encuentran sus padres, le da ánimos a Wax, incluso cuando no entiende muy bien lo que pasa. Asimismo, ha aprendido una versión del hábito de [[Wayne\|Wayne]] de «intercambiar» cosas, como evidencia el robo del papel higiénico de los malwish a cambio de su «popó».
+## Appearance and Personality
+[[Wax\|Wax comments]] that Max enjoys drawing, and he's seen playing with a [[Soonie pup\|Soonie pup]], but most of all he enjoys flying with his father. He is enthusiastic, as evidenced by the trip to the [[Malwish\|Malwish]] airship, and has always had a fascination for heights. He is also empathetic to the situations his parents find themselves in, giving Wax encouragement, even when he doesn't understand very well. He has also picked up a version of [[Wayne\|Wayne's]] habit of "trading" as evidenced by his theft of Malwish toilet paper in exchange for his poop.
 
-## Relaciones
+## Relationships
 ### Waxillium Ladrian
-Max disfruta pasando tiempo con su padre, volando y jugando al juego que él inventó con la pelota de mimbre con metal en su interior, tienen una relación bastante cercana. Max es uno de los principales motivos por los que [[Wax\|Wax]] fue capaz de convertirse en senador y padre, dejando atrás su faceta de vigilante de la ley, dando a entender que ya no necesita la emoción de las persecuciones, y que está totalmente a gusto con su nueva vida.
+Max enjoys spending time with his father, flying and playing the game he invented with the wicker ball with the metal inside it, and the two of them have quite a close relationship. Max is a large part of why [[Wax\|Wax]] is able to transition between his role as a lawman to being a senator and father, understanding that he no longer needs the thrill of the chase, and that he belongs in this new role.
 
 ### Wayne
-[[Wayne\|Wayne]] es el tío de Max, y le ha enseñado algunos acentos, diciéndole que use uno en concreto para molestar a los senadores. Wayne menciona que algunas veces lee libros con Max.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+[[Wayne\|Wayne]] is an uncle-figure to Max, and has taught him accents, telling him to use a certain one to annoy the senators. Wayne also mentions he reads books with Max sometimes.
 
 
 
-https://es.coppermind.net/wiki/Maxillium_Ladrian
+https://coppermind.net/wiki/Maxillium_Ladrian

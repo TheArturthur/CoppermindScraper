@@ -1,28 +1,14 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Río Aredel**|
+|**Aredel River**|
 |-|-|
-|**Tipo**|Río|
-|**Región**|[[Arelon\|Arelon]]🐱︎|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|River|
+|**Region**|[[Arelon\|Arelon]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **río Aredel** fluía a través de [[Arelon\|Arelon]]. Nacía en el [[Lago Alonoe\|lago Alonoe]], corría bajo [[Elantris (ciudad)\|Elantris]], y formaba una bahía cerca de [[Kae\|Kae]] cuando se unía con el [[Mar de Fjorden\|mar de Fjorden]]. Ocasionalmente se desviaba para limpiar las alcantarillas de Kae, ya que sus cañerías dejaron de funcionar tras el [[Reod\|Reod]].
-El río Aredel aparece en el [[/wiki/Aon#Eno]], el carácter para el agua.
-[[Raoden\|Raoden]] y [[Karata\|Karata]] accedieron a él a través de un pozo dentro de Elantris, y dejaron que la corriente los sacara de la ciudad.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 13:43, 3 September 2016 (MST)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+The **Aredel River** flowed through [[Arelon\|Arelon]]. It began at [[Lake Alonoe\|Lake Alonoe]], ran beneath [[Elantris (city)\|Elantris]], and formed a bay near [[Kae\|Kae]] when it joined with the [[Sea of Fjorden\|Sea of Fjorden]]. Occasionally it was diverted to rinse out the sewers of Kae, because their plumbing ceased to function after the [[Reod\|Reod]]
+The Aredel River appeared on [[/wiki/Aon#Eno]], the character for water.
+[[Raoden\|Raoden]] and [[Karata\|Karata]] accessed it via a well inside Elantris, and allowed the current to carry them out of the city.
 
 
 
-https://es.coppermind.net/wiki/Aredel
+https://coppermind.net/wiki/Aredel

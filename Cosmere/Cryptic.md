@@ -1,117 +1,96 @@
-
-
-|**Críptico**|
+|**Cryptic**|
 |-|-|
 ||
-|**Tipo**|Spren|
-|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de los [[Tejedores de Luz\|Tejedores de Luz]], [[Astilla\|Astilla]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Spren|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Lightweavers\|Lightweaver]] magic, [[Splinter\|Splinter]]s|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*No se guerrea contra los crípticos como se hace contra los honorspren. Los crípticos solo son dueños de una ciudad y no desean gobernar ninguna más. Solo ansían escuchar.*”
-\-Marfil[1]
+>“*One does not war with Cryptics, as one does honorspren. Cryptics have but one city, and do not wish to rule more. Only to listen.*”
+\-Ivory[1]
 
 
-Los **crípticos** son una raza de [[Spren\|spren]] sapientes que habitan principalmente en el [[Reino Cognitivo\|Reino Cognitivo]] de [[Roshar\|Roshar]]. A veces se les llama **mentiraspren**.
-Los crípticos son la personificación de las verdades matemáticas subyacentes que gobiernan Roshar y el Cosmere. También son uno de los spren capaces de formar el [[V%C3%ADnculo Nahel\|vínculo Nahel]], que otorga las habilidades de la [[Orden de los Tejedores de Luz\|Orden de los Tejedores de Luz]].
+**Cryptics** are a race of sapient [[Spren\|spren]] that dwell primarily in the [[Cognitive Realm\|Cognitive Realm]] of [[Roshar\|Roshar]]. They are sometimes referred to as **liespren**.
+Cryptics are the personification of the underlying mathematical truths that govern Roshar and the cosmere. They are also one of the spren capable of forming [[Nahel bond\|Nahel bond]], granting the abilities of the [[Order of Lightweavers\|Order of Lightweavers]].
 
-## Sumario
+## Contents
 
-1 Apariencia. [[#Apariencia]] 
+1 Appearance. [[#Appearance]] 
 
-1. [[#Reino F.C3.ADsico]] 
-1. [[#Reino Cognitivo]] 
-
-
-2 Habilidades. [[#Habilidades]] 
-
-2. [[#V.C3.ADnculo Nahel]] 
+1. [[#Physical Realm]] 
+1. [[#Cognitive Realm]] 
 
 
-3 Historia. [[#Historia]] 
-4 Cultura. [[#Cultura]] 
-5 Crípticos destacables. [[#Cr.C3.ADpticos destacables]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+2 Abilities. [[#Abilities]] 
+
+2. [[#Nahel bond]] 
 
 
-## Apariencia
-### Reino Físico
-En el [[Reino F%C3%ADsico\|Reino Físico]], los crípticos se manifiestan como complejos patrones fractales que cambian constantemente, ligeramente elevados de una superficie u objeto. En ocasiones, también pueden manifestarse como una masa tridimensional flotante de líneas retorcidas. Su voz tiene una cualidad de zumbido, y vibran cuando hablan. También suelen tararear mucho.
-Cuando sus cuerpos cognitivos son forzados a entrar en el Reino Físico y mueren, los crípticos aparecen como cuerpos alargados con un caparazón negro, y sus cabezas parecen un amasijo empapado de carne negra, similar a intestinos. Sin embargo, hay una manera de hacer que tomen una forma física en el Reino Físico, mediante el uso de un complejo tejido de luz unido a su aspecto cognitivo, ya que toman forma en el Reino Físico. Esto les permite esencialmente adoptar cualquier forma que el Tejedor de Luz desee, aunque esencialmente es sólo una cáscara imitativa.
-
-### Reino Cognitivo
-En el [[Reino Cognitivo\|Reino Cognitivo]], los crípticos adoptan la forma de figuras altas y esbeltas, con túnicas demasiado rígidas que cuelgan de ellos como si estuvieran hechas de cristal en lugar de tela. Sobre sus cuellos, donde estarían la cabeza y la cara de un humano, tienen un símbolo flotante lleno de ángulos y geometrías imposibles. Los diferentes individuos tienen patrones de cabeza ligeramente diferentes. Estos patrones cambian constantemente a distintas velocidades, que parecen no repetirse nunca, aunque los patrones individuales siempre mantendrán la misma "sensación" general. La forma en que un patrón cambia refleja el estado de ánimo del críptico. Por ejemplo, se acelera cuando siente confusión y se ralentiza cuando siente vergüenza. A pesar de no tener ningún medio aparente para hacerlo, son capaces de oír, ver y hablar tan bien como cualquier otro spren. Sus manos tienen una apariencia huesuda, como si estuvieran cinceladas en obsidiana negra o mármol blanco.
-Se sabe que intentar analizar sus patrones lleva a la gente a la locura debido a la forma en que deforman el espacio y el tiempo a su alrededor.
-
-## Habilidades
-  Un críptico en <<Shadesmar\|Shadesmar>>
-Los crípticos tienen una prodigiosa capacidad de traducción, y parecen capaces de entender cualquier idioma, humano o spren, con la suficiente exposición. También son hábiles descifradores de códigos, un talento derivado de su profunda comprensión de los patrones matemáticos. Mediante vibraciones, también pueden imitar perfectamente voces y sonidos. Los crípticos no son capaces de saber intrínsecamente si algo es mentira.
-Mientras están en el [[Reino F%C3%ADsico\|Reino Físico]], pueden afectarlo de manera menor, permitiéndoles abrir cerraduras. A diferencia de otros tipos de spren sapientes, como [[Honorspren\|honorspren]] o [[Cenizaspren\|cenizaspren]], los crípticos parecen incapaces de volverse invisibles, lo que significa que tienen que esconderse en su entorno para pasar desapercibidos.
-
-### Vínculo Nahel
-Los crípticos son uno de los pocos tipos de spren capaces de vincularse a los humanos con un [[V%C3%ADnculo Nahel\|vínculo Nahel]]. Otorgan a su compañero el poder de la [[Potenciaci%C3%B3n\|Potenciación]] con las potencias de [[Iluminaci%C3%B3n\|Iluminación]] y [[Transformaci%C3%B3n\|Transformación]], convirtiendo a la persona en un [[Orden de los Tejedores de Luz\|Tejedor de Luz]]. A partir de cierto punto, un críptico vinculado adquiere la capacidad de transformarse en una [[Hoja esquirlada\|hoja esquirlada]] que cambia de forma. Los crípticos son capaces de sentir dónde está su Potenciador una vez que empiezan a invocar su espada. Con un vínculo lo bastante poderoso, los crípticos pueden sentir las impresiones de los pensamientos de su potenciador.
-A diferencia de la mayoría de los vínculos Nahel, un vínculo con un críptico progresa al pronunciar verdades profundas y personales sobre uno mismo por parte del titular del vínculo, y las verdades más poderosas e impactantes profundizan aún más el vínculo.  La afinidad particular de los crípticos por las verdades va más allá, ya que son capaces de percibir cuando una persona está mintiendo.
-Los crípticos también pueden dejar que sus Tejedores de Luz se asomen al [[Reino Cognitivo\|Reino Cognitivo]]. Para los Potenciadores inexpertos, actúan como intermediarios en el [[Moldear almas\|moldeado de almas]], transmitiendo las palabras de las almas hacia ellos.
-
-## Historia
-  <<Patr%C3%B3n\|Patrón>> siguiendo a <<Shallan\|Shallan>> en el <<Palaneo\|Palaneo>>
->“*Hubo muy pocos supervivientes. El que llamas Padre Tormenta vivió. Otros más. El resto, miles de nosotros, murieron cuando sucedió el **evento**.*”
-\-Patrón[28]
+3 History. [[#History]] 
+4 Culture. [[#Culture]] 
+5 Notable Cryptics. [[#Notable Cryptics]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-Los crípticos surgieron hace unos diez mil años roshariados antes de la Auténtica Desolación. Se desconoce si los crípticos fueron creados deliberadamente por una [[Esquirla\|Esquirla]], o si surgieron de forma natural a partir de la [[Investidura\|Investidura]] suelta de [[Roshar\|Roshar]]. En algún momento del pasado existieron crípticos muy inteligentes y peligrosos, cosa que derivó en la propagación de muchos estereotipos negativos sobre estos spren. Durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], al igual que muchos otros spren sapientes, empezaron a formar [[V%C3%ADnculo Nahel\|vínculos Nahel]] con los humanos para imitar las [[Hoja de Honor\|hojas de Honor]], lo que condujo a la creación de la [[Orden de los Tejedores de Luz\|Orden de los Tejedores de Luz]]. Durante la [[Traici%C3%B3n\|Traición]], la gran mayoría de los crípticos más antiguos murieron, no quedando ninguno vivo que recordara cómo funcionaba el Vínculo Nahel.
-Con el tiempo, los crípticos consiguieron recuperarse un poco y, a finales de la [[Era de la Soledad\|Era de la Soledad]], gobernaban una de las ciudades más grandes de [[Shadesmar\|Shadesmar]], aunque no se alejaban mucho de ella. En algún momento, se vieron envueltos en algún tipo de desacuerdo político con los [[Honorspren\|honorspren]], posiblemente relacionado con el intento de estos últimos de conquistar [[Shadesmar\|Shadesmar]].
-Los crípticos fueron uno de los primeros grupos de spren que empezaron a vincularse de nuevo con los humanos en previsión de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Entre otros, enviaron a [[Testimonio\|Testimonio]] para que se vinculara con [[Shallan\|Shallan]] cuando ésta era sólo una niña en 1167, así como a otro críptico para que se vinculara con [[Tien\|Tien]], aunque sólo el primero consiguió llevar a buen puerto el vínculo, tras largos contratiempos.
-Un grupo de crípticos estuvo siguiendo a Shallan durante algún tiempo antes de que se vinculara con Patrón. También vigilaron a [[Elhokar\|Elhokar]], alimentando involuntariamente su paranoia. Finalmente enviaron a otro de los suyos para que se vinculara con el rey; sin embargo, Elhokar fue asesinado antes de que pudiera terminar de decir el [[/wiki/Palabras Inmortales#El Primer Ideal]], y ese críptico, [[Dise%C3%B1o\|Diseño]], terminó vinculándose con [[Hoid\|Hoid]] en su lugar.
+## Appearance
+### Physical Realm
+In the [[Physical Realm\|Physical Realm]], Cryptics manifest as complex fractal patterns that are constantly shifting, slightly raised off a surface or object. On occasion, they can also manifest as a floating three-dimensional mass of twisting lines. Their voice has a buzzing quality, and they vibrate when they speak. They also tend to hum a lot.
+When their cognitive bodies are forced into the Physical Realm and they die, Cryptics appear as elongated bodies with a black shell, with their heads looking like a soggy mess of black flesh, similar to intestines. However, there is a way to make them take on a physical form in the Physical Realm, by using a complex Lightweaving wireframe attached to their Cognitive aspect as they take form in the Physical Realm. This allows them to essentially take on any form the Lightweaver desires, though it is essentially only an imitative shell.
 
-## Cultura
->“*A los crípticos les gusta hacer planes. Debaten y observan y nunca hacen nada.*”
-\-Syl[38]
+### Cognitive Realm
+In the [[Cognitive Realm\|Cognitive Realm]], Cryptics take the form of tall, willowy figures in too-stiff robes that hang off them as if made from glass rather than fabric. Above their collars, where a human's head and face would be, they have a floating symbol full of impossible angles and geometries. Different individuals have slightly different head patterns. These patterns are constantly changing at varying speeds, seemingly never repeating, though individual patterns will always maintain the same general "feel". The way a pattern changes reflects the Cryptic's mood, such as speeding up for confusion, and slowing down for shame. Despite not having any apparent means to do so, they are capable of hearing, seeing and speaking as well as any other spren. Their hands appear boney and as if chiseled from black obsidian or white marble.
+Trying to analyze their patterns is known to drive people to insanity due to the way they warp space and time around themselves.
 
+## Abilities
+  A Cryptic in <<Shadesmar\|Shadesmar>>
+Cryptics have prodigious translation abilities, and seem capable of understanding any language, human or spren, with enough exposure. They are also adept codebreakers, a talent stemming from their in-depth understanding of mathematical patterns. Using vibrations, they can also perfectly mimic voices and sounds. Cryptics are not able to inherently tell if something is a lie.
+While in the [[Physical Realm\|Physical Realm]], they can affect it in minor ways, allowing them to pick locks. Unlike other types of sapient spren, like [[Honorspren\|honorspren]] or [[Ashspren\|ashspren]], Cryptics seem unable to turn invisible, meaning they have to hide in their environment to remain unnoticed.
 
-Los crípticos no son muy comunes en Shadesmar, y la gran mayoría de su población vive en una sola ciudad que no tiene nombre, que goza de cierto renocimiento. A diferencia de los [[Honorspren\|honorspren]], los crípticos no tienen ninguna inclinación por conquistar más territorio, por lo que otros tipos de spren sapientes no guerrean con ellos. Aunque tienen una reputación temible entre otros tipos de spren, ellos mismos se contentan con escuchar y aprender.
+### Nahel bond
+Cryptics are one of the few spren types capable of forming a [[Nahel bond\|Nahel bond]] with humans. They grant their partner the power of [[Surgebinding\|Surgebinding]] with the Surges of [[Illumination\|Illumination]] and [[Transformation\|Transformation]], making the person a [[Order of Lightweavers\|Lightweaver]]. Past a certain point, a bonded Cryptic gains the ability to transform into a shape-shifting [[Shardblade\|Shardblade]]. Cryptics are able to sense where their Surgebinder is once they start summoning their blade. With a powerful enough bond, Cryptics are able to feel the impressions of their Surgebinder's thoughts.
+Unlike most Nahel bonds, a Cryptic bond is progressed by uttering deep, personal truths about oneself by the bond holder, with the more powerful, impactful truths deepening the bond further. The Cryptics' particular affinity for truths extends further than that, as they are able to sense when a person is lying.
+Cryptics are also able to let their Lightweavers peer into the [[Cognitive Realm\|Cognitive Realm]]. For inexperienced Surgebinders, they act as intermediaries in [[Soulcasting\|Soulcasting]], relaying the words of souls to them.
 
-  Los crípticos vigilando a <<Elhokar\|Elhokar>>
-Sin embargo, muchos otros spren encuentran a los crípticos extraños e incómodos debido a su fascinación por las mentiras y su enfoque matemático de todo. También son conocidos por su afición a la planificación, así como por ser en gran medida pasivos e inactivos. A pesar de ello, una vez que se proponen algo, se comprometen con ello. Parece que tienen una influencia significativa en la política de Shadesmar, ya que cuando empezaron a vincularse de nuevo con los humanos, otros, como los [[Cultivacispren\|cultivacispren]], siguieron rápidamente su ejemplo.
-Son conocidos por disfrutar de las mentiras y las ironías, reuniéndose y tarareando entre ellos cada vez que se pronuncia una falsedad, aunque no les gusta que les llamen "mentiraspren". A pesar de esta fascinación por las falsedades, los propios crípticos son malos mintiendo en general. Son extremadamente honestos, y parece que sólo a través del vínculo con un humano pueden aprender a utilizar formas de comunicación menos directas, como el sarcasmo y el humor. Parece que prefieren mantenerse juntos en grupos en lugar de ir por su cuenta.
-En conjunto, los crípticos conjunto apoyan que sus miembros se vinculen con los humanos y [[Patr%C3%B3n\|Patrón]] lo hace con la aprobación de sus compañeros. A causa de la [[Traici%C3%B3n\|Traición]], muchos de ellos creen que tal vínculo es una sentencia de muerte, pero aún así piensan que las cosas que podrían aprender de los humanos merecen la pena. A diferencia de la mayoría de los demás spren, los crípticos no dejan que sus parientes vinculados naveguen solos por el vínculo Nahel. Más bien, acompañan al aspirante a Tejedor de Luz por Shadesmar, observándolos y observando su vínculo en ciernes. Es posible que la decisión de a quién vincular sea tomada por un comité entre ellos, en lugar de por individuos.
-Los crípticos tienen su propio lenguaje, que consiste en sonidos de chasquidos rápidos. También pueden hablar con ecuaciones entonadas, aunque en los idiomas humanos sus nombres individuales se traducen en una misma palabra, Patrón. Por ello, los Tejedores de Luz han tenido que convencerlos de que adopten otros nombres que no sean Patrón (excepto para el críptico vinculado a Shallan).
-Los crípticos se consideran más de Cultivación que de Honor.
-
-## Crípticos destacables
-[[Patr%C3%B3n\|Patrón]] (vinculado a [[Shallan\|Shallan]])
-[[Dise%C3%B1o\|Diseño]] (vinculado a [[Hoid\|Hoid]])
-[[Ornamento\|Ornamento]] (vinculado a [[Berila\|Berila]])
-[[Mosaico\|Mosaico]] (vinculado a [[Vathah\|Vathah]])
-[[Motivo\|Motivo]] (vinculado a [[Ishnah\|Ishnah]])
-[[Testimonio\|Testimonio]] (vinculado a [[Shallan\|Shallan]])
-## Curiosidades
-Antes de que se revelara su nombre, Brandon dijo que "truthspren" (verdadspren) era una forma razonablemente precisa de referirse a los crípticos. Quizá sea una referencia a la verdad que necesitan para fortalecer su vínculo.
-Si estuvieran expuestos a los ordenadores, a los crípticos les gustarían mucho, aunque "podrían sentirse ofendidos de que el ordenador no les respondiera, porque pensarían que el ordenador es un patrón y debería hablar con ellos”.
-Los símbolos que forman las cabezas de los crípticos no son [[Glifo\|glifos]], pero es posible que los lectores los reconozcan.
-En la cuarta parte de *[[Juramentada\|Juramentada]]*, el grupo que viajaba a través de Shadesmar se encontraba originalmente con un par de crípticos en el faro en lugar de con [[Riino\|Riino]]. Esto se cambió finalmente para dar a Kaladin una motivación más fuerte para viajar a [[Ciudad Thaylen\|Ciudad Thaylen]] en lugar de a la [[Perpendicularidad de Cultivaci%C3%B3n\|Perpendicularidad de Cultivación]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+  <<Pattern\|Pattern>> following <<Shallan\|Shallan>> in the <<Palanaeum\|Palanaeum>>
+>“*There were very few survivors. The one you call Stormfather lived. Some others. The rest, thousands of us, were killed when the **event** happened.*”
+\-Pattern[29]
 
 
+Cryptics arose around ten-thousand Rosharan years before the True Desolation. It's unknown whether the Cryptics were created deliberately by a [[Shard\|Shard]], or if they arose naturally from [[Roshar\|Roshar's]] loose [[Investiture\|Investiture]]. At some point in the past, there were some very intelligent, dangerous Cryptics, which resulted in the creation of many negative stereotypes about Cryptics. During the [[Heraldic Epochs\|Heraldic Epochs]], they, like many other sapient spren, began forming [[Nahel bond\|Nahel bonds]] with humans to mimic [[Honorblade\|Honorblades]], leading to the creation of the [[Order of Lightweavers\|Order of Lightweavers]]. During the [[Recreance\|Recreance]], the vast majority of the older Cryptics died, leaving none alive to remember how the Nahel bond worked.
+Over time, the Cryptics managed to recover somewhat, and by the late [[Era of Solitude\|Era of Solitude]], they ruled over one of the largest cities in [[Shadesmar\|Shadesmar]], although they did not stray far from it often. At some point, they were engaged in some sort of political disagreement with the [[Honorspren\|honorspren]], possibly related to the latter's attempt to conquer [[Shadesmar\|Shadesmar]].
+Cryptics were one of the first spren groups to begin bonding humans again in anticipation of the [[True Desolation\|True Desolation]]. Among others, they sent [[Testament\|Testament]] to bond with [[Shallan\|Shallan]] when she was only a child in 1167, as well as another Cryptic to bond with [[Tien\|Tien]], although only the former managed to bring the Bond to fruition, after long setbacks.
+A group of them had been following Shallan for some time prior to her bonding Pattern. They also watched over [[Elhokar\|Elhokar]], unwittingly feeding his paranoia. They eventually sent another of their kind to bond with the king; however, Elhokar was killed before he could finish saying the [[/wiki/Immortal Words#The First Ideal]], and that Cryptic, [[Design\|Design]], ended up bonding with [[Hoid\|Hoid]] instead.
 
-https://es.coppermind.net/wiki/Cryptic
+## Culture
+>“*Cryptics like to plan. They debate and watch and never **do** anything.*”
+\-Syl[39]
+
+
+Cryptics are not very common in Shadesmar, with the vast majority of their population living in a single unnamed city, one that enjoys some renown. Unlike the [[Honorspren\|honorspren]], Cryptics do not have any inclination to conquer more territory, so other types of sapient spren do not war with them. Although they have a fearful reputation among other types of spren, they themselves are content with listening and learning.
+
+  Cryptics watching over <<Elhokar\|Elhokar>>
+Nonetheless, many other spren find Cryptics weird and discomforting due to their fascination with lies and their mathematical approach to everything. They are also known for their fondness for planning, as well as being largely passive and inactive. Once they put their mind to something, however, they commit to it. They seem to have a significant influence on the Shadesmar politics, as when they began to bond humans again, others, like [[Cultivationspren\|cultivationspren]], swiftly followed suit.
+They are known for enjoying lies and irony, gathering around and humming among themselves wherever a falsehood is uttered, although they don't like being called "liespren". Despite this fascination with falsehoods, Cryptics themselves are bad at lying in general. They are exceedingly honest, and it seems as though only through bonding with a human can they learn to use less straightforward ways of communication, such as sarcasm and humor. They seem to prefer keeping together in groups rather than going off on their own.
+Cryptics as a whole are supportive of their members bonding with humans, with [[Pattern\|Pattern]] doing so with the approval of his peers. Because of the [[Recreance\|Recreance]], many of them believe that such a bond is a death sentence, yet they also think that the things they could learn from humans are worth it. Unlike most other spren, Cryptics do not leave their bonded kinsmen to navigate the Nahel bond entirely alone. Rather, they accompany the would-be Lightweaver from Shadesmar, observing them and their budding bond. It's possible that the decision of who to bond is made by a committee among them, rather than by individuals.
+Cryptics have their own language, which consists of fast clicking sounds. They can also speak equations in intonations, though their individual names translate to the same word in human languages, namely Pattern. Because of this, the Lightweavers have had to convince them to adopt names other than Pattern (except for the Cryptic bonded with Shallan).
+Cryptics consider themselves to be more of Cultivation than Honor.
+
+## Notable Cryptics
+[[Pattern\|Pattern]] (bonded to [[Shallan\|Shallan]])
+[[Design\|Design]] (bonded to [[Hoid\|Hoid]])
+[[Ornament\|Ornament]] (bonded to [[Beryl\|Beryl]])
+[[Mosaic\|Mosaic]] (bonded to [[Vathah\|Vathah]])
+[[Motif\|Motif]] (bonded to [[Ishnah\|Ishnah]])
+[[Testament\|Testament]] (bonded to [[Shallan\|Shallan]])
+## Trivia
+Before their name was revealed, Brandon said "truthspren" was a reasonably accurate way to refer to the Cryptics. This is perhaps a reference to the truth they require to strengthen their bond.
+If exposed to computers, Cryptics would like them very much, though they "might be offended that the computer isn't talking back to them, because they would think the computer's a pattern and should just be talking to them".
+The symbols that form the Cryptics' heads are not [[Glyph\|glyphs]], but it is possible that readers would recognize them.
+In part four of *[[Oathbringer\|Oathbringer]]*, the group travelling through Shadesmar would originally encounter a pair of Cryptics in the lighthouse rather than [[Riino\|Riino]]. This was eventually changed to give Kaladin a stronger motivation for travelling to [[Thaylen City\|Thaylen City]] rather than [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].
+
+
+https://coppermind.net/wiki/Cryptic

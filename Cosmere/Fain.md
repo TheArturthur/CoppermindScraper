@@ -1,36 +1,23 @@
-
-
 |**Fain**|
 |-|-|
-|**Mundo de origen**|[[Yolen\|Yolen]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Yolen\|Yolen]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **fain** o **vida fain** es una clase de forma de vida de [[Yolen\|Yolen]]. Aunque la vida fain parece flora
-común, las plantas y las tierras tomadas por ella son de un color blanco hueso. Los [[Sho del\|sho del]] ocupan el mismo lugar en el ecosistema fain que los humanos en el normal. Otra forma de vida fain son los **Tamu Keks**, huesos que, de alguna manera, son similares a las [[Gema coraz%C3%B3n\|gemas corazón]] de los [[Cantor\|cantores]] y pueden usarse de alguna forma para realizar comunicaciones entre [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]].
-Aunque se originó en Yolen, la vida fain se ha extendido fuera de ese planeta de manera significativa. El conocimiento de su existencia no es infrecuente entre la gente que conoce el Cosmere después de la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]; cuando se hablaba de cómo [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]] utilizaban el ecosistema de Yolen como modelo para [[Scadrial\|Scadrial]], [[Khriss\|Khriss]] pudo mencionar sin más explicaciones que "por supuesto" se refería a las partes no-fain.
+The **fain** or **fainlife** is a class of lifeforms on [[Yolen\|Yolen]]. Fain creatures generally have six limbs.
+Two of the three sapient species from Yolen, the [[Sho Del\|Sho Del]] and [[Dragon (cosmere)\|dragons]], are fain; the Sho Del fill the same niche in the fain ecosystem that humans fill in the normal one. Another form of fainlife is [[Tamu Kek\|Tamu Keks]], bones that are somehow similar to [[Singer\|singer]] [[Gemheart\|gemhearts]] and can be used for inter-[[Realmatic Theory\|Realm]] communication in some way. Fain flora is bone-white.
+Though it originated on Yolen, the fain ecosystem has spread beyond that planet in significant ways. Knowledge of its existence is not uncommon among [[Cosmere\|cosmere]]-aware people after the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; when discussing how [[Ruin\|Ruin]] and [[Preservation\|Preservation]] used the Yolish ecosystem as a model for [[Scadrial\|Scadrial]], [[Khriss\|Khriss]] is able to mention without further explanation that "of course" this means the non-fain parts.
 
-## Obras no publicadas
-> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[Dragonsteel Prime\|Dragonsteel Prime]]*!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
+## Unpublished Works
+> [!info] This page or section contains details from the unpublished works *[[The Liar of Partinel\|The Liar of Partinel]]* and [[Dragonsteel Prime\|Dragonsteel Prime]]!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
 
-En *[[The Liar of Partinel\|The Liar of Partinel]]*, la vida fain había crecido rápidamente hasta cubrir gran parte del planeta, aunque los humanos habían aprendido a mantenerla a raya con algo conocido como **anillo trune**. **Trune** fue también el nombre que le dieron al ecosistema normal, no afectado por el fain. Un tipo de vida fain conocido es el **musgo calavera**; que anunciaba el avance de la vida fain de forma más extensa. Sus hojas a veces traspasaban el anillo trune y algunas ciudades las recogían y las quemaban, aunque esto no era estrictamente necesario. El mero hecho de interactuar con la vida fain era seguro y algunas ciudades incluso utilizaban la madera de fain para la construcción, pero comer cualquier cantidad de vida fain era mortal para los humanos.
-En *[[Dragonsteel Prime\|Dragonsteel Prime]]*, la versión de Yolen de las [[Llanuras Quebradas\|Llanuras Quebradas]] era la única conexión entre el fain y las partes no fain del mundo. En las Llanuras Quebradas, los sho del luchaban contra los humanos por un material conocido como dragonsteel. Según [[Jerick\|Jerick]], al menos algunos sho del también habían pasado por las Llanuras Quebradas, matando a civiles e intentado matar a su rey. En este borrador, los Tamu Keks eran huesos largos y delgados, que acababan en punta en ambos extremos y que podían encontrarse en los sho del. Jerick fue capaz de sentir el poder que desprendían y advirtió a uno de sus compañeros de que no los tocara.
+In *[[The Liar of Partinel\|The Liar of Partinel]]*, the fainlife had rapidly grown to cover much of the planet, though humans eventually learned to keep it in check with something known as a **trune ring**; **trune** was the name given to the regular, non-fain ecosystem. A type of fainlife known as **skullmoss** heralded the advance of further fainlife. Its leaves would sometimes drift across a trune ring and some cities would gather them up and burn them, though this was not strictly necessary. Merely interacting with the fainlife was safe and some cities even used fain wood for construction, but eating any amount of fainlife was deadly to humans.
+In [[Dragonsteel Prime\|Dragonsteel Prime]], the Yolish version of the [[Shattered Plains\|Shattered Plains]] was the only connection between the fain and non-fain parts of the world. At the Shattered Plains, Sho Del fought humans for a material known as Dragonsteel. According to [[Jerick\|Jerick]], at least some Sho Del had also made it past the Shattered Plains and killed civilians, and had attempted to kill his king. In this draft, Tamu Keks were long, thin bones that came to a point at both ends that could be found on Sho Del; Jerick was able to sense the power coming off them and warned one of his companions not to touch them.
+In the non-canonical work *The Traveler*, fainlife is described as looking like ordinary flora, though the plants and land overtaken by it are bone-white.
 
-## Curiosidades
-[[Brandon Sanderson\|Brandon]] originariamente dio un [[RAFO\|RAFO]] a la pregunta de si algún [[Recipiente\|Recipiente]] original era fain, pero más tarde dijo que [[Uli Da\|Uli Da]] es un sho del.
-Junto con los [[Drag%C3%B3n (Cosmere)\|dragones]], los sho del y los Tamu Keks son dos de las pocas cosas de *Dragonsteel Prime* que siguen formando parte del Cosmere.
-Cuando escribió *[[El ritmo de la guerra\|El ritmo de la guerra]]*, Brandon se debatió entre hacer que el objeto en la caja de comunicación que [[Mraize\|Mraize]] le dio a [[Shallan\|Shallan]] contuviera un [[Seon\|seon]] o un Tamu Kek, pero al final se decidió por hacer que fuera un seon dado que ellos tienen personalidad, mientras que los Tamu Kek son simplemente huesos.
-El ecosistema de vida fain se construyó a partir del pensamiento de Brandon sobre qué tipo de ecología probablemente daría lugar a dragones y sobre qué otras cepas evolutivas existirían en tal ecología.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+The Sho Del, dragons, and Tamu Keks are some of the few things from *Dragonsteel* Prime that are still part of the cosmere.
+When writing *[[Rhythm of War\|Rhythm of War]]*, Brandon debated whether to have the communication box that [[Mraize\|Mraize]] gave to [[Shallan\|Shallan]] contain a [[Seon\|seon]] or a Tamu Kek, but eventually settled on making it a seon because they have personalities whereas Tamu Keks are just bones.
+The fainlife ecosystem was built from Brandon thinking about what sort of ecology would likely give rise to dragons and about what other evolutionary strains would exist in such an ecology.
 
 
-
-https://es.coppermind.net/wiki/Fain
+https://coppermind.net/wiki/Fain

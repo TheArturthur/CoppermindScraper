@@ -1,58 +1,34 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Tevidian Tekiel**|
 |-|-|
-|**[[Casa Tekiel\|Casa Tekiel]]**|
-|**Hijos**|[[Vin\|Vin]], [[Hermana de Vin\|Hermana de Vin]]|
-|**Parientes**|[[Salmen Tekiel\|Salmen Tekiel]], [[Kale Tekiel\|Kale Tekiel]]|
-|**Fallecido**|1022 [[Imperio Final\|IF]], asesinado por [[Kar (Scadrial)\|Kar]]|
-|**Oficio**|[[/wiki/Obligador#Sumo Prelado]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*Nacidos de la bruma: El Imperio Final*|
+|**[[House Tekiel\|House Tekiel]]**|
+|**Children**|[[Vin\|Vin]], [[Vin's sister\|Vin's sister]]|
+|**Relatives**|[[Salmen Tekiel\|Salmen Tekiel]], [[Kale Tekiel\|Kale Tekiel]]|
+|**Died**|1022 [[Final Empire\|FE]], killed by [[Kar\|Kar]]|
+|**Profession**|[[/wiki/Obligator#Lord Prelan]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-**Tevidian Tekiel** fue el sumo prelado del [[Ministerio del Acero\|Ministerio del Acero]] en [[Scadrial\|Scadrial]] durante poco tiempo en el [[Imperio Final\|Imperio Final]], y padre de [[Vin\|Vin]]. Fue un [[Casa Tekiel\|Tekiel]], un [[Noble\|noble]] de una línea muy pura, pero tuvo que renunciar a su apellido para unirse al Ministerio del Acero.
-Tevidian se acostó con varias mujeres [[Skaa\|skaa]]. En última instancia, engendró ilegítimamente a [[Vin\|Vin]] y a su hermana menor, proporcionándoles a ambas la alomancia, Vin siendo [[Alomancia\|nacida de la bruma]] y su hermana pequeña siendo [[Bronce\|buscadora]]. Afirmó que mató a todas las skaa con las que se acostó, pero la [[Madre de Vin\|madre de Vin]] engañó a Tevidian haciéndole creer que era noble, siendo así laxo con ella. Tevidian finalmente la encontró y la mató, pero no logró matar a Vin ni a su hermana. Tevidian no reconoció a Vin, y esta sospechaba que Tevidian nunca supo que había sido padre.
+**Tevidian Tekiel** was the Lord Prelan of the [[Steel Ministry\|Steel Ministry]] on [[Scadrial\|Scadrial]] shortly during the [[Final Empire\|Final Empire]], and [[Vin\|Vin's]] father. He was a [[House Tekiel\|Tekiel]], a [[Noble\|noble]] of a very pure line, but had to renounce his surname to join the Steel Ministry.
+Tevidian bedded many [[Skaa\|skaa]] women. Ultimately, he illegitimately sired [[Vin\|Vin]] and her younger sister, providing them both [[Allomancy\|Allomancy]], Vin being [[Allomancy\|Mistborn]] and her younger sister being a [[Seeker\|Seeker]]. He claimed he killed every skaa he slept with, but [[Vin's mother\|Vin's mother]] deceived Tevidian into thinking she was noble, and so he was lax with her. Tevidian eventually found her and killed her, but did not manage to kill Vin or her sister. Tevidian did not recognize Vin, and Vin suspected Tevidian never knew he was a father.
 
-## Personalidad
->“*"Mi señor," dijo Tevidian, volviéndose. "¡Mira por la ventana! ¿No tenemos cosas mejores que discutir? ¡Toda la ciudad se ha rebelado! Las antorchas de los skaa iluminan la noche y se atreven a internarse en las brumas. ¡Blasfeman, se amotinan y atacan las fortalezas de los nobles!""Déjalos," dijo el [[Lord Legislador\|lord Legislador]], ajeno.*”
-\-Tevidian y el lord Legislador discutiendo sobre los rebeldes skaa[3]
-
-
-Tevidian se mostró profundamente preocupado por la estabilidad del [[Imperio Final\|Imperio Final]], mucho más que el [[Lord Legislador\|lord Legislador]]. Tevidian estaba extremadamente agitado por la caída de las Grandes Casas. Como a todos los obligadores, se le requería tener una fe extrema en el lord Legislador, y por eso Tevidian estaba probablemente agitado porque realmente creía en su dios y su imperio. Aunque Tevidian insistía que el lord Legislador necesitaba actuar, cuando el lord Legislador le dijo que no cuestionase el asunto, Tevidian mostró obediencia y se retiró.
-
-## Conflicto con los Inquisidores y muerte
-Los cantones del [[Ministerio del Acero\|Ministerio del Acero]] a menudo tuvieron luchas políticas internas, y el [[Cant%C3%B3n de la Inquisici%C3%B3n\|Cantón de la Inquisición]] buscó el dominio organizativo sobre el resto del Ministerio durante siglos. El [[Lord Legislador\|lord Legislador]] se cansó de las súplicas de los inquisidores, diciendo que tenían muchos otros deberes y se desperdiciarían haciendo administración. Aún así, los inquisidores persistieron, investigando debilidades en la estructura de poder de los obligadores. [[Bendal\|Bendal]] juró que Tevidian había engendrado un descendiente mestizo y dio caza al medio hermano de [[Vin\|Vin]], [[Reen\|Reen]], para conseguir que lo admitiese. Reen murió prometiendo que Vin se había muerto de hambre hacía mucho tiempo, pero Bendal seguía convencido de que estaba aún ahí fuera.
-[[Kar (Scadrial)\|Kar]] finalmente capturó a Vin, usándola como la cumbre de sus argumentos contra Tevidian y el [[Cant%C3%B3n de la Ortodoxia\|Cantón de la Ortodoxia]]. Ante el lord Legislador, Kar afirmó que ninguna casa noble la habría abandonado. Con Vin siendo tan poderosa, al menos uno de sus progenitores tuvo que venir de una línea muy pura. El lord Legislador presionó a Vin, obligándola a decir quién era su padre. Vin admitió que era el sumo prelado.
-Tevidian protestó, pero el lord Legislador lo interrogó, y el sumo prelado finalmente admitió que la [[Madre de Vin\|madre de Vin]] había, de hecho, tenido hijos. Con esta confesión, el lord Legislador dejó que los inquisidores matasen a Tevidian en su propia sala del trono. Los otros obligadores en la sala retrocedieron horrorizados mientras los inquisidores, exultantes por la brutalidad, clavaron sus dagas en Tevidian repetidamente. Tras la muerte de Tevidian, el Cantón de la Inquisición, con Kar al frente, tuvo la autoridad sobre el Ministerio del Acero.
-
->“*Has demostrado tu argumento, Kar. Parece que he confiado demasiado en la… obediencia de la humanidad. No cometí ningún error. Nunca he cometido ningún error. Sin embargo, es hora de cambiar. Reúne a los altos prelados y tráelos aquí. Sácalos de la cama si es necesario. Serán testigos de que otorgo al Cantón de la Inquisición el mando y la autoridad sobre el Ministerio.*”
-\-Primeras palabras del lord Legislador tras la muerte de Tevidian.[3]
+## Personality
+>“*"My lord," Tevidian said, turning away from her. "Look outside your window! Do we not have better things to discuss? The entire city is in rebellion! Skaa torches light up the night, and they dare go out into the mists. They blaspheme in riots, attacking the keeps of the nobility!""Let them," the [[Lord Ruler\|Lord Ruler]] said in an uncaring voice.*”
+\-Tevidian and the Lord Ruler arguing about the skaa rebels[3]
 
 
-## Notas
+Tevidian was shown to deeply care about the stability of the [[Final Empire\|Final Empire]], much more so than the [[Lord Ruler\|Lord Ruler]]. Tevidian was extremely agitated at the Great Houses' fall. Like all obligators, he was required to have extreme faith in the Lord Ruler, and so Tevidian was probably agitated because he truly believed in his god and his empire. Though Tevidian was insistent the Lord Ruler needed to act, when the Lord Ruler told him to not question the matter, Tevidian showed obedience and stood down.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 14:40, 25 December 2016 (MST)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+## Conflict with Inquisitors and Death
+The Cantons of the [[Steel Ministry\|Steel Ministry]] often had internal political struggles, and the [[Canton of Inquisition\|Canton of Inquisition]] sought organizational dominance over the rest of the Ministry for centuries. The [[Lord Ruler\|Lord Ruler]] grew weary of the Inquisitors' pleas, as he said that they had many other duties and would be wasted doing administration. Still, the Inquisitors persisted, researching weaknesses in the obligator power structure. [[Bendal\|Bendal]] swore that Tevidian had fathered a half-breed child, and hunted [[Vin\|Vin's]] half-brother, [[Reen\|Reen]], to get him to admit it. Reen died promising Vin had starved to death long ago, but Bendal remained convinced one was out there.
+[[Kar\|Kar]] eventually captured Vin, using her as the apex of their arguments against Tevidian and the [[Canton of Orthodoxy\|Canton of Orthodoxy]]. Before the Lord Ruler, Kar claimed that no noble house would ever have abandoned her. With Vin being so powerful, at least one of her parents had to come from a very pure line. The Lord Ruler pressed Vin, prompting her to say who her father was. Vin admitted it was the lord prelan.
+Tevidian protested, but the Lord Ruler questioned him, and the lord prelan eventually admitted that [[Vin's mother\|Vin's mother]] had, in fact, borne children. With that confession, the Lord Ruler let the Inquisitors kill Tevidian in his own throne room. The other obligators in the room backed away in horror as the Inquisitors, exulting in the brutality, plunged their daggers into Tevidian repeatedly. After Tevidian's death, the Canton of Inquisition, with Kar at its head, was given authority over the Steel Ministry.
 
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“*Your point is proven, Kar, It seems that I have trusted too much in the... obedience of mankind. I did not make a mistake. I have never made a mistake. However, it is time for a change. Gather the high prelans and bring them here—rouse them from their beds, if need be. They will witness as I grant the Canton of Inquisition command and authority over the Ministry.*”
+\-The Lord Ruler's first words after Tevidian's death.[3]
 
 
 
-https://es.coppermind.net/wiki/Tevidian_Tekiel
+
+https://coppermind.net/wiki/Tevidian_Tekiel

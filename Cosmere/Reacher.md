@@ -1,88 +1,68 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Alcanzador**|
+|**Reacher**|
 |-|-|
 ||
-|**Tipo**|Spren|
-|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Orden de los Escultores de Voluntad\|Escultor de Voluntad]], [[Astilla\|Astilla]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Spren|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Willshapers\|Willshaper]] magic, [[Splinter\|Splinter]]s|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Les gusta viajar y ver lugares nuevos. Recorren todo el Shadesmar de Roshar, vendiendo puerta a puerta y comerciando con otros spren.*”
-\-Celeste.[1]
-
-
-Los **alcanzadores**, también conocidos como **lumispren**, son un subconjunto de [[Spren\|spren]] sapientes de [[Roshar\|Roshar]]. Vincularse con ellos convierte a una persona en un [[Potenciador\|potenciador]] de la [[Orden de los Escultores de Voluntad\|Orden de los Escultores de Voluntad]].
-
-## Sumario
-
-1 Apariencia. [[#Apariencia]] 
-
-1. [[#Reino F.C3.ADsico]] 
-1. [[#Reino Cognitivo]] 
+>“*They like to travel, to see new places. They sail all across Roshar's Shadesmar, peddling goods, trading with other spren.*”
+\-Azure[1]
 
 
-2 Habilidades. [[#Habilidades]] 
+**Reachers**, also known as **lightspren**, are a subset of sapient [[Spren\|spren]] on [[Roshar\|Roshar]]. Bonding with them makes a person a [[Surgebinder\|Surgebinder]] of the [[Order of Willshapers\|Order of Willshapers]].
 
-2. [[#V.C3.ADnculo Nahel]] 
+## Contents
 
+1 Appearance. [[#Appearance]] 
 
-3 Historia. [[#Historia]] 
-4 Cultura. [[#Cultura]] 
-5 Alcanzadores destacados. [[#Alcanzadores destacados]] 
-6 Notas. [[#Notas]] 
-
-
-## Apariencia
-  Un alcanzador en un barco
-### Reino Físico
-En el [[Reino F%C3%ADsico\|Reino Físico]], los alcanzadores se manifiestan como una bola de luz lo suficientemente pequeña como para ocultarse en la palma de una mano. Cuando se mueven, dejan un rastro luminoso que los hace parecer un cometa. La intensidad de la luz puede aumentar o disminuir, aparentemente en función del estado de ánimo del spren. Los alcanzadores parecen ser un poco más tangibles que sus congéneres cuando están en el Reino Físico: el viento los empuja, están calientes, y se parecen a la seda al tocarlos. Pueden comunicarse latiendo a los [[Ritmo\|ritmos]] de Roshar, produciendo destellos de luz y vibraciones audibles. Para un cantor, esas vibraciones parecen tener un significado más allá del simple estado de ánimo, incluyendo conceptos más abstractos como relaciones familiares y cantidades.
-
-### Reino Cognitivo
-En el [[Reino Cognitivo\|Reino Cognitivo]], los alcanzadores se manifiestan como humanos y pueden tener rasgos similares a las diferentes etnias rosharianas, aunque tienen la piel metálica broncínea, lo que los hace parecer estatuas vivientes. Sus ojos metálicos, de bronce, tienen agujeros en lugar de pupilas. Su cabello también es metálico broncíneo; los alcanzadores se lo recogen en moños y coletas. A diferencia de los [[Honorspren\|honorspren]] o los [[Cr%C3%ADptico\|crípticos]], los alcanzadores no parecen tener ropa como parte de su esencia; en su lugar, visten ropa similar a la de los humanos con colores terrosos y marrones con muchos bolsillos abotonados. Parecen preferir ir descalzos. Aunque la mayoría de los alcanzadores adoptan una forma humana, pueden tomar otras formas.
-Los alcanzadores son conocidos por no ser excesivamente habladores.
-
-## Habilidades
-Los alcanzadores del barco de Ico van descalzos para poder caminar a lo largo de las líneas vibrantes de cobre de la cubierta, que [[Shallan\|Shallan]] cree que usan para comunicarse entre ellos sin necesidad de hablar.
-En el [[Reino F%C3%ADsico\|Reino Físico]], los alcanzadores parecen capaces de moverse muy rápido, así como de flotar y volar, aunque no pueden volverse invisibles. Son capaces de dominar a [[Vac%C3%ADospren\|vacíospren]] menores, y pueden vivir dentro de la [[Gema coraz%C3%B3n\|gema corazón]] de un [[Cantor\|cantor]]. También pueden latir a los ritmos de [[Odium\|Odium]], aunque hacerlo parece causarles cierto dolor.
-
-### Vínculo Nahel
-Los alcanzadores son uno de los tipos de spren capaces de formar [[V%C3%ADnculo Nahel\|vínculos Nahel]]. Al vincularse con ellos, una persona se convierte en [[Potenciador\|potenciador]] con las potencias de [[Transportaci%C3%B3n\|Transportación]] y [[Cohesi%C3%B3n\|Cohesión]]. Es importante destacar que son los primeros spren sapientes que han sido capaces de formar un vínculo Nahel con un cantor en lugar de con un humano. Si bien el vínculo parece proporcionarles un mayor nivel de inteligencia igual que ocurre con otros spren, los alcanzadores parecen incapaces de comunicarse; sin embargo, no se sabe si esto es una consecuencia de vincularse con un cantor, o si un alcanzador vinculado a un humano también sería mudo. A pesar de esto, pueden comunicarse con su cantor a través de latidos y ritmos, y son capaces de leer los pensamientos de su Caballero. Los alcanzadores pueden silenciar los ritmos de su potenciador.
-
-## Historia
-Durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], los alcanzadores comienzan a vincularse con personas en un esfuerzo por emular a las [[Hoja de Honor\|Hojas de Honor]], dando origen a la [[Orden de los Escultores de Voluntad\|Orden de los Escultores de Voluntad]]. Cuando la [[Traici%C3%B3n\|Traición]] llega, ellos, al igual que otros spren sapientes, pierden a una tremenda cantidad de sus miembros, incluyendo a muchos familiares. En la [[Era de la Soledad\|Era de la Soledad]], logran reconstruir su sociedad y se convierten en reconocidos guías y comerciantes.
-Cuando [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], sus [[Spren\|spren]] y [[Celeste\|Celeste]] se quedan varados en [[Shadesmar\|Shadesmar]], consiguen pasaje a [[Celebrant\|Celebrant]] en un barco tripulado por alcanzadores, y comandado por el capitán [[Ico\|Ico]], a cambio de suministros y [[Esfera\|esferas]] opacas. No está claro cuántos alcanzadores han optado por comenzar a formar vínculos Nahel nuevamente, aunque hay algunos dispuestos.
-
-## Cultura
-  <<Timbre\|Timbre>>, un alcanzador, en la mano de <<Venli\|Venli>>
-Los alcanzadores son hábiles marineros y exploradores que viajan a través del Mar de las Almas en barcos tirados por [[Mandra\|mandras]]. Debido a esto, a menudo actúan como guías para los recién llegados, y comercian extensamente con diversas ciudades y asentamientos de spren. Por lo general, no llevan armas aparte de cuchillos, aunque sus barcos están equipados con grandes arpones, probablemente para defenderse de spren menores hostiles.
-Se desconoce si los alcanzadores tienen asentamientos propios, aunque son muy comunes en [[Celebrant\|Celebrant]]. Allí viven y trabajan, vendiendo bienes, que incluyen importaciones de otros mundos como pinturas [[Nalthiano\|nalthianas]], o intercambiando dinero. El trabajo en los muelles de Celebrant también parece estar ocupado principalmente por alcanzadores, que ayudan con el atraque de los barcos y el desenjaezado de los mandras.
-Si bien los alcanzadores pueden ser tanto masculinos como femeninos, no parecen practicar ninguna división de género; ambos pueden desempeñar los mismos trabajos, usar la misma ropa y leer.
-La Traición ha dejado en los alcanzadores una profunda desconfianza hacia los humanos y sus juramentos. Algunos parecen comprender que los humanos utilicen [[Hoja esquirlada\|hojas esquirladas]] de [[Ojomuerto\|ojomuertos]] para sus propósitos, aunque existe un trasfondo de resignación en esto, ya que parecen creer que es inevitable que los juramentos humanos sean quebrantados. No obstante, parecen estar decididos a ser útiles, comerciando sin problema con los humanos y proporcionándoles medios de supervivencia. También están dispuestos a dar consejos gratis.
-
-## Alcanzadores destacados
-Capitán [[Ico\|Ico]]
-[[Timbre\|Timbre]] (vínculado a [[Venli\|Venli]])
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+1. [[#Physical Realm]] 
+1. [[#Cognitive Realm]] 
 
 
+2 Abilities. [[#Abilities]] 
 
-https://es.coppermind.net/wiki/Reacher
+2. [[#Nahel bond]] 
+
+
+3 History. [[#History]] 
+4 Culture. [[#Culture]] 
+5 Notable Reachers. [[#Notable Reachers]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance
+  A Reacher on a ship
+### Physical Realm
+In the [[Physical Realm\|Physical Realm]], Reachers appear as a ball of light, small enough to hide in a palm of a hand. When they move, they trail around a glowing streak, making them look like a comet. The light can grow stronger or fainter, seemingly depending on the spren's mood. Reachers seem to be a little more tangible than their kinsmen when in the Physical Realm -- wind pushes them, they are warm, and feel somewhat like silk to touch. They can communicate through pulsing to the [[Rhythm\|rhythms]] of Roshar, which produces bursts of light, as well as audible vibrations. For a singer, those vibrations appear to carry more meaning than simple mood, including more abstract concepts like familial relations and high numbers.
+
+### Cognitive Realm
+In the [[Cognitive Realm\|Cognitive Realm]], Reachers appear human and can have features similar to different Rosharan populations, though they have metallic bronze skin, making them look like living statues. They have bronze metal eyes with holes where the pupils would be. Their hair is similarly metallic bronze; the Reachers pin them into buns and ponytails. Unlike [[Honorspren\|honorspren]] or [[Cryptic\|Cryptics]], Reachers don't seem to have clothes as part of their essence; instead, they wear human-like clothing of earthy, tan colors, with numerous buttoned pockets. They seem to prefer going barefoot. While most Reachers adopt a human form, they can take other forms.
+Reachers are not known for being overly talkative to others.
+
+## Abilities
+The Reachers on Ico's ship are barefoot so that they can walk along the vibrating copper lines set into the deck, which [[Shallan\|Shallan]] believes are used for wordless communication between the Reachers .
+In the [[Physical Realm\|Physical Realm]], Reachers seem able to move very quickly, as well as hover and fly, although they cannot become invisible. They are capable of overpowering lesser [[Voidspren\|voidspren]], and can live inside the [[Gemheart\|gemheart]] of a [[Singer\|singer]]. They can also pulse to [[Odium\|Odium's]] rhythms, though doing so appears to cause some pain.
+
+### Nahel bond
+Reachers are one of the spren types capable of forming [[Nahel bond\|Nahel bonds]]. Bonding them makes a person a [[Surgebinder\|Surgebinder]] with the Surges of [[Transportation\|Transportation]] and [[Cohesion\|Cohesion]]. Notably, they are the first sapient spren to be shown capable of forming a Nahel bond with a singer rather than a human. While the bond does seem to afford them a higher level of intelligence as it does with other spren, Reachers appear incapable of communication; however, it's uncertain whether this is a consequence of bonding a singer, or if a Reacher bonded to a human would also be mute. Despite this, they are able to communicate with their singer via pulses and Rhythms and are able to read their Knights thoughts. Reachers are able to mute the rhythms of their Surgebinder.
+
+## History
+During the [[Heraldic Epochs\|Heraldic Epochs]], the Reachers began bonding people in an effort to emulate the [[Honorblade\|Honorblades]], giving rise to the [[Order of Willshapers\|Order of Willshapers]]. When the [[Recreance\|Recreance]] came, they, like other sapient spren, lost a tremendous number of their kinsmen, including many family members. By the [[Era of Solitude\|Era of Solitude]], they managed to rebuild their society, becoming well-known guides and traders.
+When [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], their [[Spren\|spren]] and [[Azure\|Azure]] were stranded in [[Shadesmar\|Shadesmar]], they managed to find passage to [[Celebrant\|Celebrant]] on a Reacher-crewed ship commanded by captain [[Ico\|Ico]], in exchange for barter supplies and dun [[Sphere\|spheres]]. It's uncertain how many Reachers have chosen to begin forming Nahel bonds again, though there are some willing.
+
+## Culture
+  <<Timbre\|Timbre>>, a Reacher, in <<Venli\|Venli's>> hand
+Reachers are adept sailors and explorers, journeying across the Sea of Souls in ships pulled by teams of [[Mandra\|mandras]]. Because of this, they often serve as guides for newcomers, and trade extensively with various spren cities and settlements. They usually don't carry weapons other than knives, although their ships are equipped with large harpoons, likely to defend them from hostile lesser spren.
+It's unknown if Reachers have settlements of their own, although they are very common in [[Celebrant\|Celebrant]]. There, they live and work, selling goods -- including off-world imports like [[Nalthian\|Nalthian]] paintings -- or exchanging money. Celebrant docks also seem to be crewed mainly by Reachers, who assist in docking the ships and unharnessing mandras.
+While Reachers can be both male and female, they don't seem to practice any sort of division between genders -- both can be seen performing the same jobs, wearing the same clothes, and reading.
+The Recreance has left the Reachers with a deep-seated mistrust in humans and their oaths. Some seem to be understanding of humans using [[Deadeye\|deadeye]] [[Shardblade\|Shardblades]] for their own purposes, though there is an undercurrent of resignation to this, as they seem to believe that it's inevitable for human oaths to be broken. Nonetheless, they seem intent on being helpful, easily trading with humans and providing them with means of survival. They're also willing to provide advice free of charge.
+
+## Notable Reachers
+Captain [[Ico\|Ico]]
+[[Timbre\|Timbre]] (bonded to [[Venli\|Venli]])
+
+
+https://coppermind.net/wiki/Reacher

@@ -1,90 +1,76 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Magna**|
 |-|-|
 ||
-|**Fallecido**|80 , segunda batalla del Escuadrón Cielo|
-|**Apodos**|Identificador:Marea|
-|**Oficio**|Piloto de la FDD|
-|**Etnia**|[[Viciense\|Viciense]]|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
+|**Died**|80 , Skyward Flight's Second Battle|
+|**Aliases**|Callsign:Morningtide|
+|**Profession**|DDF pilots|
+|**Ethnicity**|[[Vician\|Vician]]|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
->“*Cielo Siete. Identificador: Marea. Confirmada.*”
+>“*Skyward Seven. Callsign: Morningtide. Confirmed.*”
 \-[2]
 
 
-**Magna**  (Identificador: **Marea**) es una cadete [[Viciense\|viciense]] en el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]].  Marea muere durante la batalla, aproximadamente un mes después de comenzar la [[Escuela de vuelo\|escuela de vuelo]].
+**Magna** (Callsign: **Morningtide**) is a [[Vician\|Vician]] cadet in [[Skyward Flight\|Skyward Flight]]. Morningtide dies during battle, approximately a month after she begins [[Flight school\|flight school]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Escuela de vuelo]] 
+3. [[#Flight School]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Spensa Nightshade]] 
 4. [[#Jorgen Weight]] 
 4. [[#Cobb]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Es una chica viciense tranquila con un tatuaje en la mandíbula inferior, visible incluso cuando lleva puesto el casco. Su voz tiene un fuerte acento y rara vez habla cuando está con sus compañeros de vuelo o durante las clases.
-Es viciense y procede de la [[Caverna Vici\|Caverna Vici]]. Tiene una cultura distinta a la de los demás miembros de su escuadrón, y es descendiente de los marines que sirvieron a bordo de la *[[Desafiante (nave)\|Desafiante]]*. Su naturaleza tímida se yuxtapone al estereotipo de que los vicienses son siempre poderosos guerreros.
-La naturaleza tranquila de Marea, debido a su inglés deficiente, a veces la hace parecer reservada y distante con sus compañeros de clase. Es probable que esta barrera lingüística dificulte que Marea haga amigos, lo que hace que se mantenga al margen. Se siente avergonzada por su falta de comprensión y le cuesta pedir aclaraciones en clase.
+She is a quiet [[Vician\|Vician]] girl with a tattoo on her lower jaw, visible even while she is wearing her helmet. Her voice is thickly accented and she rarely speaks while around her flightmates or during class.
+She is Vician and hails from [[Vici Cavern\|Vici Cavern]]. She has a culture distinct from the other members of her flight, and is a descendant of the marines that served aboard the *[[Defiant (starship)\|Defiant]]*. Her shy nature stands as a juxtaposition to the stereotype that Vician's are always mighty warriors.
+Morningtide's quiet nature, due to her broken English, sometimes makes her come across as standoffish and aloof to her classmates. This language barrier likely makes it difficult for Morningtide to make friends, causing her to keep to her self. She feels embarrassed by her lack of understanding and struggles to ask for clarification during class.
 
-## Atributos y habilidades
-Como alguien que aprobó el examen de acceso a la escuela de vuelo, Marea es una gran conocedora del pilotaje y de los cazas estelares. Se ha entrenado para pilotar un Poco, realizar maniobras aéreas y utilizar su armamento. No siempre entiende las instrucciones y comentarios que le da Cobb, pero comprende la mayor parte de lo que dice.
-Marea habla al menos dos idiomas, aunque no domina el inglés.
+## Attributes and Abilities
+As someone who passed the flight school entrance exam, Morningtide is highly knowledgeable about piloting and starfighters. She has trained to pilot a Poco, perform aerial maneuvers, and use its weaponry. She doesn't always understand the instructions and comments given to her by Cobb, but she comprehends a majority of what he says.
+Morningtide speaks at least two languages, though she is not fluent in English.
 
-## Historia
+## History
  
-### Escuela de vuelo
-Tras aprobar el examen de ingreso, Marea fue asignada al escuadrón cielo bajo la tutela de [[Cobb\|Cobb]]. Fue alojada con las demás mujeres de su escuadrón, a excepción de [[Spensa\|Spensa]], a quien se le denegó el alojamiento.
-El primer día de escuela de vuelo, Marea, junto con el resto del Escuadrón Cielo, recibió la orden de surcar los cielos tras el ataque de los [[Varvax\|krell]]. Se les ordenó alinearse cerca de la batalla para engañar a los krell y hacerles creer que había más pilotos listos para unirse al conflicto. Tras la batalla, escoltó a [[Galimat%C3%ADas\|Galimatías]] de vuelta a la base mientras los demás miembros del escuadrón esperaban refuerzos. Marea no esperó a que los demás miembros del Escuadrón Cielo llegaran de vuelta a la base antes de llevar a Gali a algún lugar para descansar.
-El segundo día, Marea almorzó sola en el aula, en lugar de hacerlo en el comedor con los demás cadetes. Spensa la encontró allí e intentó entablar una conversación amistosa con ella, pero se volvió hostil cuando Marea fue incapaz de responder. Tras la llegada de los demás cadetes y su paso por clase, Cobb recibió comentarios sobre sus métodos de enseñanza, lo que llevó tanto a Cobb como a Spensa a darse cuenta de que el inglés no era su lengua materna.
-Cuando la clase pasó a practicar con las lanzas de luz, Cobb intentó animar a Marea mientras los cadetes hacían ejercicios. Ella no entendió del todo lo que le había dicho y pidió a Spensa que le explicara mejor sus instrucciones cuando la otra chica vino a ver cómo estaba.
-Unos días después, el Escuadrón Cielo fue enviado de nuevo a la batalla contra los krell, esta vez luchando junto a pilotos de pleno derecho. Durante la escaramuza, tres naves krell empezaron a seguir a Marea. Tanto Spensa como [[Kimmalyn\|Kimmalyn]] intentaron ayudarla, sin embargo, fue alcanzada por fuego krell y murió cuando su [[Poco\|Poco]] explotó.
-La muerte de Marea afectó a muchos de sus compañeros pilotos, incluidos los de su escuadrón y a su instructor de vuelo.
+### Flight School
+After passing the entrance exam, Morningtide was placed in Skyward Flight under the tutorledge of [[Cobb\|Cobb]]. She was roomed with the other female members of her flight, with the exception of [[Spensa\|Spensa]], who was denied accommodation.
+On the first day of flight school, Morningtide, along with the rest of Skyward Flight, were ordered to take to the sky after the [[Varvax\|Krell]] attacked. They were instructed to line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict. After the battle, she escorted [[Rigmarole\|Rigmarole's]] back to base while the other members of the flight waited for reinforcements. Morningtide did not wait for the other members of Skyward Flight to arrive back at base before taking Rig somewhere to rest.
+The second day found Morningtide eating her lunch alone in the classroom instead of in the mess hall with the other cadets. Spensa found her in the room and tried to engage her in a friendly conversation, however, turned hostile when Mortingtide was unable to respond. After the other cadets arrive and they go through their class, Cobb took feedback on his teaching methods, leading both Cobb and Spensa to realize that English was not Morningtide's native language.
+When the class moved on to practicing with light-lances, Cobb attempted to encourage Morningtide while the cadets did exercises. She did not completely understand what he had said to her and asked Spensa to explain his instructions further when the other girl came to check on her.
+A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. During the skirmish, three Krell ships began to tail Morningtide. Both Spensa and [[Kimmalyn\|Kimmalyn]] attempted to help her, however, she was hit by Krell fire and died when her [[Poco\|Poco]] exploded.
+Morningtide's death affected many of her fellow pilots, including those in her flight and her flight instructor.
 
-## Relaciones
+## Relationships
 ### Spensa Nightshade
->“*Hola. ¿Qué os han puesto hoy? Huele a salsa. ¿Estofado de pasta de algas? ¿Puré de patatas? ¿Filetes de cerdo? No te preocupes, podré soportarlo. Soy una soldado. Dímelo sin miramientos.*”
-\-Spensa intentando ser amigable con Marea[5]
+>“*Hey, what did they have? Smells like gravy. Algae paste stew? Potato mash? Pork chops? Don’t worry, I can take it. I’m a soldier. Give it to me straight.*”
+\-Spensa attempting to be friendly with Morningtide[5]
 
-Al principio, a Spensa no le gustaba Marea, ya que consideraba que la otra chica era huraña y poco amistosa, incluso con los que se esforzaban por ser sus amigos. Pensó que la actitud de Marea hacia ella podía deberse a su arrogancia o a un problema que la otra chica tenía con ella, pero más tarde descubrió que la chica viciense no hablaba inglés como lengua materna. Una vez superada la barrera del idioma, Marea y Spensa se hicieron más amigas, y Spensa la ayudó explicándole las instrucciones de Cobb cuando la chica no las entendía. La muerte de Marea supuso un duro golpe para Spensa, que tuvo que luchar con su dolor por la pérdida de su amiga y era muy consciente de los agujeros que habían dejado en el escuadrón la pérdida de Marea y [[Bim\|Bim]]. A pesar de sus dificultades iniciales para expresar sus sentimientos por la pérdida de sus amigos, Spensa fue capaz de ofrecer a los demás miembros del escuadrón algunas palabras de consuelo después de que volvieran al servicio tras la muerte de Marea y Bim. Spensa tardó varias semanas en superar su dolor y llegar a un punto en el que no se viera afectada continuamente por la muerte de la otra chica.
+Spensa initially took a disliking to Morningtide as she found the other girl to be standoffish and unfriendly, even towards those who made an effort to be her friend. Spensa thought that Morningtide's attitude towards her may have been due to arrogance or a issue the other girl had with her, however, Spensa later discovered that the Vician girl was not a native English speaker. After the language barrier was acknowledge, Morningtide and Spensa became better friends, with Spensa providing support to Morningtide with further explanations of the Cobb's instructions when they were not clear to the girl. Spensa was hit hard by Morningtide's death and struggled with her grief after losing her friend, keenly aware of the holes that had been left in the flight by the loss of Morningtide and [[Bim\|Bim]]. Despite her initial struggles to vocalize her feelings about the loss of her friends, Spensa was able to offer the other members of Skyward some words of comfort after they returned to duty following the death of Morningtide and Bim. It took several weeks for Spensa to work through her grief and to get to a place where she was not continuously affected by the other girl's death.
 
 ### Jorgen Weight
-Como jefe de escuadrón de Marea, [[Jorgen\|Jorgen]] se tomó muy mal su muerte, sin embargo, al principio intentó dejar a un lado su dolor para ofrecer su apoyo al resto de su escuadrón. Tras su muerte, Jorgen repitió con frecuencia simulaciones de la batalla para ver si podría haberla salvado de haber actuado de otro modo. Aunque repasó múltiples escenarios, no encontró ninguno en el que ella hubiera podido salvarse, lo que le causó una gran frustración.
+As Morningtide's flightleader, [[Jorgen\|Jorgen]] took her death hard, however, at first tried to put aside his grief to offer his support to the rest of his flight. Following her death, Jorgen frequently replayed simulations of the battle to see if he could have saved her, if he had acted differently. Although he ran through multiple scenarios, he did not find one where she could have been saved, which caused him great frustration.
 
 ### Cobb
->“*¡Marea! ¡No seas tímida, cadete! ¡Métete ahí dentro! ¡Quiero verte balanceándote en tantas tirdosas líneas de luz que la fricción te queme!*”
-\-Los intentos de Cobb por ser alentador.[8]
+>“*Morningtide! Don’t be timid, cadet! Get in there! I want you to swing from so many scudding lines of light that you get rope burns!*”
+\-Cobb's attempts to be encouraging.[8]
 
 
-Al principio, Cobb no era consciente de la barrera lingüística de Marea. Culpa a Férrea de su muerte, creyendo que la almirante se equivocó al enviar a cadetes poco formados a batallas reales. Spensa le encuentra volviendo a ver la batalla, sin embargo, no está claro si, como Jorgen, estaba intentando recrear escenarios en los que la cadete se había salvado o si estaba viendo la grabación por otra razón.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-LadyLameness (talk) 11:09, 6 de septiembre de 2019 (UTC)
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+Cobb was initially unaware of Morningtide's language barrier. He blames [[Ironsides\|Ironsides]] for Morningtide's death, believing that the Admiral was wrong to be sending under-trained cadets into real battles. Spensa finds him re-watching the battle, however, it is unclear if, like Jorgen, he was attempting to recreate scenarios where the female cadet had been saved or if he was watching the recording for another reason.
 
 
 
-https://es.coppermind.net/wiki/Magna
+https://coppermind.net/wiki/Magna

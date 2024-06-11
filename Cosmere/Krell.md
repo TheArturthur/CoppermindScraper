@@ -1,10 +1,10 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
 
-## Citoverso
-[[Varvax\|Varvax]]: una especie a menudo llamada "Krell" por la gente de [[Detritus\|Detritus]].
-[[KRELL\|KRELL]]: Abreviatura de *Ketos Redgor tErren Listro Listrins* (*Ketos redgor Earthen listro listrins* en inglés), una fuerza policial de [[Supremac%C3%ADa\|Supremacía]] que evita que los humanos dejen el planeta.
+## Cytoverse
+[[Varvax\|Varvax]]: a species often called "Krell" by the people of [[Detritus\|Detritus]].
+[[KRELL\|KRELL]]: abbreviation of *Ketos redgor Earthen listro listrins*, a [[Superiority\|Superiority]] police force that prevents the humans from leaving the planet.
 ## Cosmere
-[[Krell (Cosmere)\|Krell (Cosmere)]]: una especie animal encontrada en la isla [[Patji (isla)\|Patji]] en [[Primero del Sol\|Primero del Sol]].
+[[Krell (cosmere)\|Krell (cosmere)]]: an animal species found on the island of [[Patji (island)\|Patji]] on [[First of the Sun\|First of the Sun]].
 
 
-https://es.coppermind.net/wiki/Krell
+https://coppermind.net/wiki/Krell

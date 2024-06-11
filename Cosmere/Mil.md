@@ -1,41 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Mil**|
 |-|-|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
-Para el corredor de apuestas veden, ver [[Mill\|Mill]].
-**Mil** es un hombre de [[Piedralar\|Piedralar]] en [[Roshar\|Roshar]].
+For the Veden bookmaker, see [[Mill\|Mill]].
+**Mil** is a man from [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 
-## Apariencia y personalidad
-Es un hombre mayor de cara amigable con una barba desigual, que siempre ha querido que le creciese pero nunca lo ha conseguido.
+## Appearance and Personality
+He is an older man with a friendly face and a patchwork beard, which he had always wanted to grow out but never managed.
 
-## Historia
-En el año 1175, Mil se encontraba entre los habitantes de Piedralar que fueron evacuados a [[Urithiru\|Urithiru]] en el *[[Cuarto Puente\|Cuarto Puente]]* debido a la ocupación del norte de Alezkar llevada a cabo por las fuerzas [[Cantor\|cantoras]]. Tras comenzar a vivir en la torre, visitó la clínica de [[Lirin\|Lirin]] y fue atendido por [[Kaladin\|Kaladin]], a quien ya conocía de antes de la guerra. Mil había estado sufriendo dolores de cabeza persistentes durante meses y Kaladin pensó que podría tratarse de migrañas. Kaladin le recetó medicina para el dolor, y le sugirió visitar a los [[Orden de los Danzantes del Filo\|Danzantes del Filo]] por su capacidad de [[/wiki/Potenciaci%C3%B3n#Progresi.C3.B3n]], aunque era porbable que ya fuese muy tarde para curarle por medio de la [[Potenciaci%C3%B3n\|potenciación]]. Se le pidió a Mil que apuntase todos sus dolores de cabeza y síntomas durante un mes; esta simple confirmación de su dolor lo hizo sonreír de oreja a oreja.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:57, 21 June 2021 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+In 1175, Mil was among the residents of Hearthstone that were evacuated from Hearthstone to [[Urithiru\|Urithiru]] on the *[[Fourth Bridge\|Fourth Bridge]]* due to the occupation of northern Alethkar by [[Singer\|singer]] forces. After taking up residence in the tower, he visited [[Lirin\|Lirin's]] clinic and was treated by [[Kaladin\|Kaladin]], whom he had known prior to the war. Mil had been suffering from persistent headaches for months and Kaladin thought it might be migraines. Kaladin prescribed him medicine for the pain, and suggested visiting the [[Edgedancers\|Edgedancers]] for [[Regrowth\|Regrowth]] even though it was likely too late to heal him with [[Surgebinding\|Surgebinding]]. Mil was told to record all his headaches and symptoms for a month; this simple affirmation of his pain made him grin ear to ear.
 
 
 
-https://es.coppermind.net/wiki/Mil
+https://coppermind.net/wiki/Mil

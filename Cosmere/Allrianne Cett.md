@@ -1,100 +1,78 @@
-
-
 |**Allrianne Cett**|
 |-|-|
 ||
-|**[[Casa Cett\|Casa Cett]]**|
-|**Cónyuge**|[[Edgard Ladrian\|Edgard]]|
-|**Padres**|[[Ashweather Cett\|Ashweather]], [[Madre de Allrianne\|Madre]]|
-|**Hermanos**|[[Gneorndin Cett\|Gneorndin]]|
-|**Descendientes**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]]|
-|**Nacido en**|~1006 [[Imperio Final\|IF]]|
-|**Capacidades**|[[/wiki/Cinc#Uso alom.C3.A1ntico]]|
-|**Grupo**|Ejército de Venture|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|**|
+|**[[House Cett\|House Cett]]**|
+|**Spouse**|[[Edgard Ladrian\|Edgard]]|
+|**Parents**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Mother]]|
+|**Siblings**|[[Gneorndin Cett\|Gneorndin]]|
+|**Descendants**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Born**|~1006 [[Final Empire\|FE]]|
+|**Abilities**|[[/wiki/Zinc#Allomantic Use]]|
+|**Groups**|Venture army|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
 
-> [!info] Se ha sugerido que esta página se una  con Allrianne Ladrian.La información de esta página es mejor que sea incluido en otra página
+> [!info] It has been suggested that this page be moved to [[Allrianne Ladrian\|Allrianne Ladrian]].Please discuss the proposed move on the article's talk page.
 
-**Allrianne Cett** es una mujer noble del [[Dominio Occidental\|Dominio Occidental]] y una brumosa de [[Cinc\|cinc]] (o [[Encendedora\|encendedora]]) de [[Scadrial\|Scadrial]] durante el [[Imperio Final\|Imperio Final]] y el posterior [[Colapso\|Colapso]]. Es la hija de [[Ashweather Cett\|Ashweather Cett]] y está casada con [[Brisa\|Brisa]].
+**Allrianne Cett** is a noblewoman from the [[Western Dominance\|Western Dominance]] and a [[Zinc\|zinc]] [[Misting\|Misting]] (aka a [[Rioter\|Rioter]]) on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]] and subsequent [[Collapse\|Collapse]]. She is the daughter of [[Ashweather Cett\|Ashweather Cett]] and is married to [[Breeze\|Breeze]].
 
-## Sumario
+## Contents
 
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
-5 Citas. [[#Citas]] 
-6 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+5 Quotes. [[#Quotes]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y Personalidad
-Allrianne es descrita como joven, linda y un poco rellenita. Tiene el cabello dorado, largo y ondulado, debido tanto a sus raíces occidentales como a su uso continuo de los estilos de Imperio Final. Es elegante como la mayoría de las mujeres nobles, pero también deja ver un aire digno para expresar alta energía. Se la ve por primera vez con un vestido rojo después de los estilos actuales populares entre la nobleza, y rara vez se la ve sin esa ropa.  Mientras está en Urteau, se ve obligada a usar vestidos skaa marrones sencillos, pero continúa usando vestidos elegantes dentro de la seguridad de la caverna de almacenamiento de la ciudad. Está disgustada con la restricción, pero sigue la ley. 
-Allrianne es percibida por muchos como una chica joven e ingenua. Usa esta percepción para manipular a los demás de la misma forma que su interés romántico, Brisa. Sazed la ve como encendedora en lugar de [[Aplacador\|aplacadora]]. Es segura y exigente tanto en alomancia como en personalidad. Desde el momento en que llega a Luthadel por primera vez, espera que la atiendan al nivel de vida al que está acostumbrada. Vin es testigo de cómo enumera sus comidas favoritas a los sirvientes y organiza un baño en el momento en que sabe que se quedará. A pesar de esta necesidad de comodidad, en repetidas ocasiones está dispuesta a salir de su zona de confort para proteger o ayudar a sus seres queridos. No solo trae a su padre de regreso a Luthadel para ayudar a Brisa, sino que también viaja a Urteau a pesar de conocer el clima político de la ciudad y el odio por los nobles. Ella corría un peligro más inmediato al ir allí como una noble de pura sangre.
-Si bien Allrianne admite que a su padre le importan poco los [[Skaa\|skaa]], se menciona repetidas veces la falta de indiferencia de Allrianne hacia ellos. Cuando va de compras con Vin, admite que sabe que Brisa es medio skaa. Ella siente lástima por ellos, y más específicamente por Vin, en ese momento, pero todavía la trata como una amiga. Más tarde, cuando es testigo de las ejecuciones de Quellion, comienza a llorar y alborota las emociones de la multitud. Este no es un dolor pasivo. Ella, intencionalmente o no, casi comienza un motín como resultado de su odio por lo que está haciendo Quellion.Sus sentimientos se manifiestan en sus interacciones muy activas con quienes la rodean.
-Brisa parece tener algunos reparos sobre influir en las personas en su vida amorosa, pero Allrianne no tiene tales preocupaciones. Cett le informa a Elend en su reunión que está seguro de que Allrianne ha seducido a Brisa, y no al revés.  Vin es testigo de cómo lo hace cuando espía a Brisa y Clubs, y luego reflexiona sobre la dificultad de lograr que Brisa la ame. Incluso cuando piensa en la seducción, ella no se preocupa por su moralidad o la verdad de su relación, solo encuentra que ha sido un desafío divertido. 
+## Appearance and Personality
+Allrianne is described as youthful, cute and a bit plump. She has golden hair that is long and bouncy, owing to both her Western roots and her continued use of Final Empire styles. She is graceful like most noblewomen, but she also drops her dignified air to express high energy. She is first seen in a red dress after the current styles popular with the nobility, and is rarely seen out of such clothing.  While in Urteau, she is forced to wear plain brown skaa dresses, but continues to wear fancy ones within the safety of the city's storage cavern. She is disgruntled about the restriction but follows the law. 
+Allrianne is perceived by many as a young, naive girl. She uses this perception to manipulate others at the same amount and level as her romantic interest Breeze, as seen by Sazed and as a Rioter rather than a [[Soother\|Soother]]. She is confident and demanding in both Allomancy and personality. From the moment she arrives in Luthadel for the first time, she expects to be taken care of at the level of living she is used to. Vin witnesses her listing off favorite foods to servants and arranging a bath the moment she knows she will be staying. Despite this need for comfort, she is repeatedly willing to go outside her comfort zone in order to protect or help those she loves. Not only does she bring her father back to Luthadel in order to assist Breeze, she also travels to Urteau despite knowing the city's political climate and hatred for nobles. She was in the most immediate danger by going there as a full blooded noble.
+While Allrianne admits that her father cares little about the [[Skaa\|skaa]], there are repeated mentions of Allrianne's own lack of indifference towards them. When she goes shopping with Vin, she admits that she knows Breeze is half-skaa. She feels pity for them, and more specifically for Vin, at the time, but still treats Vin as a friend. Later, when she witnesses Quellion's executions, she begins crying and riots the crowd's emotions. This is no passive grief. She, intentionally or not, almost begins a riot as a result of her hatred for what Quellion is doing. Her feelings come through in her very active interactions with those around her.
+Breeze seems to have some compunctions about influencing people in his love life, but Allrianne has no such worries. Cett informs Elend in their meeting that he is certain Allrianne has seduced Breeze, rather than the other way around.  Vin witnesses her doing so when she spies on Breeze and Clubs, and later she muses on the difficulty of getting Breeze to love her. Even when thinking about the seduction, she has no worries about its morality or the truth of their relationship, only finding it to have been a fun challenge. 
 
-## Atributos y habilidades
-Allrianne es una [[Encendedor\|encendedora]] muy hábil, y es capaz de influenciar a cientos de personas a la vez. Puede fácilmente manipular a la gente para ayudarla o actuar como guste aunque no está claro si su seducción por Brisa es el resultado de eso, o simplemente su encanto natural.
-Ella también cabalga con un fácil dominio, capaz de mantenerse a lomos de un caballo al galope incluso con un vestido frívolo.
+## Attributes and Abilities
+Allrianne is a very skilled [[Rioter\|Rioter]], and is able to influence hundreds of people at once. She can easily manipulate people to help her or act the way Though it is unclear whether her seduction of Breeze was a result of that, or just her natural charm.
+She also rides with an easy mastery, capable of staying on the back of a galloping horse even in a frivolous dress.
 
-## Historia
+## History
  
-Allrianne creció en [[Ciudad Fadrex\|Ciudad Fadrex]] alejada de la corte, pero su madre le enseñó las costumbres. Probablemente estaba preparada para casarse para crear una alianza beneficiosa. Fue la primera alomante nacida en la familia Cett durante siglos.
-Cuando Brisa fue al Dominio Occidental, Allrianne lo sedujo al encenderlo para que se sintiera atraído por ella. Después de que Brisa convenciera a Ashweather Cett de que el escondite de atium estaba en [[Luthadel\|Luthadel]], fue con el ejército de Cett y entró sola en la ciudad, durante el [[Asedio de Luthadel\|asedio]], tanto para buscar asilo como para encontrar a Brisa.
-[[Tindwyl\|Tindwyl]] seleccionó a Allrianne para que acompañara a Vin en un viaje de compras de vestidos porque conocía la moda de la época. Allrianne intentó vincularse con Vin durante el viaje en carruaje hasta allí, pero Vin la ignoró en gran medida. Ella terminó atrayendo la atención de [[Fantasma\|Fantasma]], lo que resultó ser fugaz y fue mejor mantenida por una multitud que se reunió para ver a Vin.
-Allrianne dejó Luthadel con [[Elend\|Elend]], Vin y Fantasma con el pretexto de ir a buscar el Pozo de la Ascensión, después de que Brisa se lo pidiera, para que ella pudiera sobrevivir. Allrianne dejó el grupo después de que pasaron junto al ejército de [[Straff Venture\|Straff Venture]] para persuadir a Cett de que ayudara al ejército de Luthadel.
-Allrianne se encuentra con un grupo de bandidos, cuyo líder es [[Hobart\|Hobart]] y les promete una recompensa para guiarla al campamento de su padre. Allrianne convenció a Cett de dar la vuelta y regresar a Luthadel para ganar algo de su arduo viaje y también ayudar a Brisa.
-Allrianne no pudo conseguir que su padre ayudara a las fuerzas de Elend, pero cuando las fuerzas de Koloss y Elend atacaron a las de Straff, Allrianne pudo convencer a Cett para que ayudara al ejército de Elend.
-Brisa acabó admitiendo abiertamente que tenía una relación con Allrianne, aunque rechazó casarse con ella oficialmente. Allrianne y Brisa, junto con el Capitán [[Goradel\|Goradel]] y Sazed, fueron a [[Urteau\|Urteau]], donde encontraron a Fantasma, para actuar oficialmente como embajadores mientras recuperaban suministros del escondite y para ayudar a sofocar una rebelión. Allrianne estaba en la caverna de almacenamiento cuando ocurrió la [[Ascensi%C3%B3n Final\|Ascensión Final]] y fue transportada a la [[Cuenca de Elendel\|Cuenca de Elendel]] junto a [[Ham\|Ham]] y [[Demoux\|Demoux]] cuando Sazed cambió el mundo.
-Durante la fundación de [[Elendel\|Elendel]] y el tiempo posterior a la Ascensión Final, Allrianne pronunció discursos sobre igualdad en el lugar de trabajo y temas feministas, que codificaron una cultura en la que se espera que las mujeres puedan seguir siendo femeninas mientras trabajan. Es considerada como una de los [[Originadores\|Originadores]].
+Allrianne grew up in [[Fadrex City\|Fadrex City]] distanced from court, but was taught the customs by her mother. She was likely prepared to be married off to create a beneficial alliance. She was the first Allomancer to be born in the Cett family for centuries.
+When Breeze went to the Western Dominance, Allrianne seduced him by Rioting him to be attracted to her. After Breeze convinced Ashweather Cett that the atium cache was in [[Luthadel\|Luthadel]], Allrianne went with Cett's army and entered the city alone, during the [[Siege of Luthadel\|siege]], to both seek asylum and to find Breeze.
+[[Tindwyl\|Tindwyl]] selected Allrianne to accompany Vin on a shopping trip for dresses because she knew the fashions of the time. Allrianne attempted to bond with Vin during the carriage ride there but was largely ignored by Vin. She ended up attracting [[Spook\|Spook's]] attention, which turned out to be fleeting and was better kept by a crowd that gathered to see Vin.
+Allrianne left Luthadel with [[Elend\|Elend]], Vin, and [[Spook\|Spook]] on the pretense of going to find the [[Well of Ascension\|Well of Ascension]], after being prompted by Breeze, so that she would survive. Allrianne left the group after they passed [[Straff Venture\|Straff Venture's]] army to persuade Cett to help the Luthadel army.
+Allrianne encountered a group of bandits, the leader of which was [[Hobart\|Hobart]], and promised them a reward to guide her to her father's camp. Allrianne convinced Cett to turn around and head back towards Luthadel to gain something off of their arduous trip and to help Breeze.
+Allrianne was not able to get her father to help Elend's forces, but when the Koloss and Elend's forces attacked Straff's, Allrianne was able to convince Cett to aid Elend's army.
+Breeze finally openly admitted to having a relationship with Allrianne, though he refused to marry her officially. Allrianne and Breeze, along with Captain [[Goradel\|Goradel]] and Sazed, went to [[Urteau\|Urteau]], where they found Spook, to officially act as ambassadors while retrieving supplies from the cache and to help quell a rebellion. Allrianne was in the storage cavern when the [[Final Ascension\|Final Ascension]] occurred and was transported to the [[Elendel Basin\|Elendel Basin]] with [[Ham\|Ham]] and [[Demoux\|Demoux]] when Sazed changed the world.
+During the founding of [[Elendel\|Elendel]] and the time after the [[Final Ascension\|Final Ascension]], Allrianne gave speeches on workplace equality and feminist themes, which codified a culture in which women were expected to be able to remain feminine while working. Allrianne was referred to as one of the [[Originators\|Originators]].
 
-## Relaciones
-Se preocupa mucho por Brisa, lo suficiente como para cabalgar y convencer a su padre de que regrese y ayude a [[Luthadel\|Luthadel]], y por lo tanto a Brisa, a sobrevivir.
+## Relationships
+She cares very much about Breeze, enough to ride out and convince her father to turn back and help [[Luthadel\|Luthadel]], and therefore Breeze, survive.
 
-## Citas
->“*El caro vestido de la joven, de seda roja clara con un chal y mangas de encaje, podría haberle aportado un aire de dignidad, si no se hubiera abalanzado hacia Brisa en cuanto este entró en la sala.*”
-\-La primera descripción de Allrianne.[1]
-
-
->“*Muy bien, ¿qué era esa cosa rosa que acabo de encontrarme en el pasillo?*”
-\-Vin sobre su primer encuentro con Allrianne.[1]
+## Quotes
+>“*The young woman's expensive dress-- light red silk with a shawl and lace sleeves-- might have lent her an air of dignity, had she not scampered forward as soon as Breeze entered the room.*”
+\-The first description of Allrianne.[1]
 
 
->“*Conseguir que la amara un hombre como él, tan experto en la alomancia, tan convencido de que su edad lo hacía inadecuado para ella… bueno, eso había sido un verdadero logro.*”
-\-Allrianne sobre su seducción sobre Brisa.[8]
+>“*All right, what was that pink thing I just passed in the hallway?*”
+\-Vin on her first meeting with Allrianne[1]
 
 
->“*Estaba llorando.*
-\-Por los Dioses Olvidados, pensó Sazed, reconociendo por fin su contacto en sus emociones. Los encendía para enfurecerlos contra Quellion. Es tan buena como Brisa.
+>“*Getting a man like him-- a man so expert in Allomancy, so determined that his age made him inappropriate for her-- to love her... well, that had been a true accomplishment.*”
+\-Allrianne on her seduction of Breeze.[8]
 
 
->“*¿Por qué no?. Se lo merece. Podría hacer que esta muchedumbre lo hiciera pedazos*”
-\-Allrianne hablando con Brisa sobre los disturbios de la multitud en una de las ejecuciones de Quellion mientras estaba en Urteau.[5]
+>“*She was crying.*
+\-By the Forgotten Gods, Sazed thought, finally recognizing her touch on his emotions, Rioting them to make him angry at Quellion. She's as good as Breeze is.
 
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] ·  · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“*Why not? He deserves it. I could make this crowd rip him apart*”
+\-Allrianne speaking to Breeze about rioting the crowd at one of Quellion's executions while in Urteau.[5]
 
 
 
-https://es.coppermind.net/wiki/Allrianne_Cett
+
+https://coppermind.net/wiki/Allrianne_Cett

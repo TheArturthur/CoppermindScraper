@@ -1,351 +1,329 @@
-
-
 |**Waxillium Ladrian**|
 |-|-|
 ||
-|**[[Casa Ladrian\|Casa Ladrian]]**|
-|**Cónyuge**|[[Paalm\|Paalm]] , [[Steris Harms\|Steris Harms]] |
-|**Hijos**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
-|**Hermanos**|[[Telsin Ladrian\|Telsin]]|
-|**Parientes**|[[Edwarn Ladrian\|Edwarn]], [[Hinston\|Hinston]]|
-|**Ancestros**|[[Edgard Ladrian\|Edgard Ladrian]], [[Allrianne Cett\|Allrianne Cett]], [[Ashweather Cett\|Ashweather Cett]], [[Madre de Allrianne\|madre de Allrianne]], [[Vwafendal\|Vwafendal]]|
-|**Nacido en**|299 [[Catacendro\|PC]]|
-|**Capacidades**|[[Nacidoble\|Nacidoble]]🐱︎: [[/wiki/Hierro#Uso feruqu.C3.ADmico]] y [[/wiki/Acero#Uso alom.C3.A1ntico]] (Chocador), [[Hemalurgia\|Hemalurgo]], [[Alomancia\|Nacido de la bruma]]|
-|**Apodos**|*Disparo al amanecer*, Asinthew, senador alguacil de los Áridos, espada, espada de Armonía|
-|**Oficio**|Vigilante (anteriormente), Gran Señor, Senador|
-|**Lugar de nacimiento**|[[Elendel\|Elendel]]|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|
+|**[[House Ladrian\|House Ladrian]]**|
+|**Spouse**|[[Paalm\|Paalm]] , [[Steris Harms\|Steris Harms]] |
+|**Children**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Siblings**|[[Telsin Ladrian\|Telsin]]|
+|**Relatives**|[[Edwarn Ladrian\|Edwarn]], [[Hinston\|Hinston]]|
+|**Ancestors**|[[Edgard Ladrian\|Edgard Ladrian]], [[Allrianne Cett\|Allrianne Cett]], [[Ashweather Cett\|Ashweather Cett]], [[Allrianne's mother\|Allrianne's mother]], [[Vwafendal\|Vwafendal]]|
+|**Born**|299 [[Catacendre\|PC]]|
+|**Abilities**|[[/wiki/Iron#Feruchemical Use]] & [[/wiki/Steel#Allomantic Use]] [[Twinborn\|twinborn]] (Crasher), [[Hemalurgy\|Hemalurgist]], [[Allomancy\|Mistborn]]|
+|**Aliases**|Dawnshot, Asinthew, Lawman Senator of the Roughs, Sword, Harmony's Sword|
+|**Profession**|Lawman (Former), High Lord, Senator|
+|**Birthplace**|[[Elendel\|Elendel]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Ethnicity**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Lo que define a un agente de la ley, tío, es muy simple... Somos los que estamos dispuestos a parar una bala con nuestro cuerpo para evitar que alguien más resulte herido.*”
-\-Wax.[3]
-
-
-**Waxillium Ladrian**, o **Wax**, es un [[Nacidoble\|nacidoble]] y el decimosexto Gran Señor de la [[Casa Ladrian\|Casa Ladrian]] en [[Scadrial\|Scadrial]]. Los [[Terris\|terrisanos]] conocen a Wax como **Asinthew**. Creció en [[Elendel\|Elendel]], pero se marchó de la ciudad para escapar de la política, viviendo como un vigilante de la ley en [[Los %C3%81ridos\|los Áridos]] durante veinte años. Regresó a Elendel en el año 341 [[Catacendro\|PC]], tras enterarse de la muerte de [[Edwarn Ladrian\|su tío]], convirtiéndose en el Gran Señor de su Casa, aunque continúa investigando a importantes criminales, particularmente aquellos relacionados con [[El Grupo\|el Grupo]]. Wax es un chocador, una combinación de [[Brumoso\|brumoso]] de [[Acero\|acero]] (alias un [[Lanzamonedas\|lanzamonedas]]) y un [[Ferrin\|ferrin]] de [[Hierro\|hierro]] (también conocido como ajustador).
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-
-2. [[#Artes Met.C3.A1licas]] 
-
-2. [[#Alomancia]] 
-2. [[#Feruquimia]] 
-2. [[#Hemalurgia]] 
+>“*The definition of a lawman, Uncle, is easy... He's the man who takes the bullet so nobody else has to.*”
+\-Wax[3]
 
 
-2. [[#Fuerzas de la ley]] 
-2. [[#Otras habilidades]] 
+**Waxillium Ladrian**, or **Wax** for short, is a [[Twinborn\|Twinborn]] and Sixteenth High Lord of [[House Ladrian\|House Ladrian]] on [[Scadrial\|Scadrial]]. Among the [[Terris\|Terris]], Wax is known as **Asinthew**. He grew up in [[Elendel\|Elendel]], but left the city to escape its politics, eventually living as a lawman in the [[Roughs\|Roughs]] for twenty years. He returned to Elendel in 341 [[Catacendre\|PC]], after receiving word of [[Edwarn Ladrian\|his uncle's]] death, to become High Lord of his House, though he continues to investigate notable criminals, particularly those connected with the [[Set\|Set]]. Wax is a Crasher, a Twinborn combination of [[Steel\|steel]] [[Misting\|Misting]] (aka a [[Coinshot\|Coinshot]]) and an [[Iron\|iron]] [[Ferring\|Ferring]] (aka a Skimmer).
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+
+2. [[#Metallic Arts]] 
+
+2. [[#Allomancy]] 
+2. [[#Feruchemy]] 
+2. [[#Compounding]] 
+2. [[#Hemalurgy]] 
 
 
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-3. [[#La Aldea]] 
-3. [[#Los .C3.81ridos]] 
-3. [[#Regreso a Elendel]] 
-
-3. [[#Los Desvanecedores]] 
-3. [[#Conociendo al Se.C3.B1or Conjunto]] 
+2. [[#Law Enforcement]] 
+2. [[#Other Skills]] 
 
 
-3. [[#Sangradora]] 
+3 History. [[#History]] 
 
-3. [[#Atormentado por el pasado]] 
-3. [[#Persecuci.C3.B3n de una mujer loca]] 
-3. [[#Confrontando un recuerdo]] 
+3. [[#Early Life]] 
+3. [[#The Village]] 
+3. [[#The Roughs]] 
+3. [[#Return to Elendel]] 
 
-
-3. [[#Brazales de Duelo]] 
-
-3. [[#Hacia Nueva Seran]] 
-3. [[#Descubriendo el arma]] 
-3. [[#Retorno]] 
+3. [[#The Vanishers]] 
+3. [[#Meeting Mister Suit]] 
 
 
-3. [[#Senador alguacil de los .C3.81ridos]] 
+3. [[#Bleeder]] 
+
+3. [[#Tormented by the Past]] 
+3. [[#Pursuit of a Mad Woman]] 
+3. [[#Confronting a Memory]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+3. [[#The Bands of Mourning]] 
+
+3. [[#To New Seran]] 
+3. [[#Uncovering the Weapon]] 
+3. [[#Return]] 
+
+
+3. [[#Lawman Senator of the Roughs]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Lessie]] 
 4. [[#Wayne]] 
 4. [[#Steris Harms]] 
-4. [[#Hijos]] 
+4. [[#Children]] 
 4. [[#Sazed]] 
 4. [[#Bavadin]] 
 4. [[#Telsin]] 
 
 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Para más imágenes, ver [[Waxillium Ladrian/Galer%C3%ADa\|/Galería]].
->“*Esa es la parte que no tiene sentido. Todo el mundo sabe que soy irreparablemente guapo.*”
-\-Wax.[8]
+For more images, see [[Waxillium Ladrian/Gallery\|/Gallery]].
+>“*That's the part that doesn't make sense. Everyone knows I'm irreparably handsome.*”
+\-Wax[8]
 
 
-Wax es alto, de piel bronceada, con una cara y ojos intensos que son descritos en ocasiones por ser tan fríos como el hielo. Aunque los veinte años que pasó viviendo en los Áridos han hecho mella en su apariencia,  dejándole sus manos callosas y su pelo negro con vetas grises, sigue manteniendo el esbelto y musculoso cuerpo de su juventud. Acostumbrado a sentarse para afeitarse, Wax todavía cree que le quedaría bien una cicatriz en la cara, al más puro estilo de los Áridos.
+Wax is tall with tan skin , an intense face, and eyes that are sometimes described to be as cold as icicles. Though the twenty years he spent living in the Roughs have taken their toll on his appearance' leaving his hands calloused and his dark hair streaked with gray, he still maintains the lean, muscular body of his youth. Accustomed to regularly sitting for a shave, Wax still believes he could use a nice scar on his face, in good Roughs fashion.
 
->“*Sus ropas estaban terriblemente cubiertas de polvo, pero eran de buen paño: un bonito traje, un pañuelo plateado al cuello, chispeantes gemelos en las mangas de su elegante camisa blanca. Había cultivado un aspecto físico que parecía fuera de lugar, como si planeara asistir a un baile de gala en Elendel en vez de recorrer una población muerta en los Áridos a la caza de un asesino.*”
-\-Wax persiguiendo a un bandido.[14]
+>“*His clothing was terribly dusty, but well tailored: a fine suit, a silver cravat at the neck, twinkling cuff links on the sleeves of his fine white shirt. He had cultivated a look that appeared out of place, as if he were planning to attend a fine ball back in Elendel rather than scrambling through a dead town in the Roughs hunting a murderer.*”
+\-Wax tracking an outlaw[14]
 
-En adición a sus mentes de metal, un par de brazaletes de [[Hierro\|hierro]] que lleva puestos en la parte superior de sus brazos, normalmente ocultos por los puños de sus mangas; a Wax le gusta portar un sombrero al estilo de los Áridos con forro de [[Aluminio\|aluminio]], así como un largo gabán de bruma sobre su fino traje de ciudad, su chaleco y su pañuelo. Wax tiende a ser antinaturalmente ligero incluso cuando camina, debido a su hábito de estar llenando constantemente sus mentes de metal con un pequeño porcentaje de su peso.
-Cuando está patrullando, Wax añade una escopeta en el bolsillo de su gabán de brumas y se ata un cinturón completamente equipado con casquillos de bala gastados y viales de metal llenos de whiskey, para complementar a las dos pistolas encartuchadas que lleva en su cintura.
-Wax es temperamental, con defectos y desconfía de la sociedad noble moderna, pues le desagradan los "juegos" de la gran ciudad. Admira la simpleza de los Áridos, donde los problemas son resueltos rápidamente y un hombre armado es capaz de marcar la diferencia; en contraste con la política de Elendel, donde las grandes casas ocultan sus verdaderas intenciones tras sonrisas falsas y descaradas mentiras.
-Wax también tiene el hábito de inspeccionar cautelosamente los lugares, intentando dar con posibles ataques o cualquier otra forma de daño o amenaza. Esto es apreciable en su constante tendencia por sentarse en el lugar más seguro de una habitación, o por examinar un lugar para encontrar la posición más fácil de defender.
+In addition to his metalminds, a pair of [[Iron\|iron]] bracers he wears on his upper arms typically hidden by the cuffs of his sleeves, Wax favors wearing an [[Aluminum\|aluminum]]-lined, Roughs-style hat, as well as a long, mistcloak duster over his fine city suit, vest, and cravat. Wax tends to be unnaturally light on his feet, due to his habit of nearly constantly filling his metalminds with a small percentage of his weight.
+When on patrol, Wax adds a shotgun to the pocket of his tasseled mistcloak and straps on a gunbelt fully stocked with spent bullet casings and whiskey-filled metal vials, to compliment the dual pistols holstered on his hips.
+Wax is temperamental, rough around the edges and distrustful of modern noble society, disliking the "games" of the big city. He admires the simplicity of the Roughs, where trouble is solved quickly and one man with a gun can make a difference, contrasting the politics of Elendel, where the great houses hide their true intentions behind fake smiles and outright lies.
+Wax also has a habitual routine of warily checking for possible attacks or any form of danger. This is seen through his constant tendency to take the safest seat in a room, or scan an area for the most defensible location.
 
-## Atributos y habilidades
-  Volando mediante empujones de acero
-### Artes Metálicas
-Waxillium es un **chocador**; un nacidoble con las habilidades de un [[Acero\|lanzamonedas]] y de un [[Hierro\|ajustador]]. La combinación de estos poderes convierte a Wax en un individuo particularmente peligroso, puesto que la fuerza de sus empujones de acero depende, en gran medida, de la masa del alomante.
+## Attributes and Abilities
+  Flying on Steelpushes
+### Metallic Arts
+Waxillium is a Crasher; a [[Steel\|Coinshot]] and [[Iron\|Skimmer]] Twinborn. The combination of these abilities makes Waxillium a particularly dangerous individual since the strength of a Steelpush is largely dependent on the mass of the Allomancer.
 
-#### Alomancia
-Waxillium es un lanzamonedas extremadamente habilidoso. Quizá, la mayor muestra de su maestría es su habilidad para regular la fuerza de sus empujones de acero. Por lo general, es muy difícil para los alomantes mantener un control preciso sobre sus empujones de acero, así que, en vez de eso, muchos de ellos optan por regular la duración de estos. Levitar sin balancearse arriba o abajo, por ejemplo, requiere una elevada disciplina que pocos alomantes logran conseguir; la mayoría emplea pequeños estallidos de empujones de acero, caen, y vuelven a empujarse. Wax es capaz de aplicar suficiente presión sobre una pequeña vara de metal como para pegarla al lado de una mesa sin mover la propia mesa en sí misma.
-Wax también usa su habilidad para crear una burbuja defensiva alrededor de sí mismo que no afecta a sus propios objetos de metal, pero que desvía ligeramente las balas dirigidas hacia él. Para incrementar la velocidad de sus balas, las empuja tras haberlas disparado para forzarlas a traspasar la cobertura del oponente; y para viajar a través del aire, en conjunto con su habilidad de ajustador para regular su propia masa. Wax no parece utilizar las habilidades más comunes de un lanzamonedas con asiduidad, pues se le tuvo que recordar que puede disparar una bala sin un arma, aunque siempre emplea acero como tercer botón de su chaleco, ya sea para una reserva extra de metal o para usarlo como arma en caso de emergencias.
-Mientras experimentaba con [[Trellium\|trellium]], Wax quemó una pequeña cantidad de [[Lerasium\|lerasium]], lo que le convirtió en un nacido de la bruma, permitiéndole a partir de ahí quemar todos los metales alománticamente viables.
+#### Allomancy
+Waxillium is an extremely skilled Coinshot. Perhaps the biggest mark of his mastery is his ability to regulate the strength of his Steelpushes. Generally, Allomancers find it too hard to maintain a fine control over their Steelpushes, so instead most opt to regulate the length of the time of them. Levitating without bobbing up and down, for example, requires extreme discipline that few Allomancers can achieve; most use short bursts of Steelpushes, fall down, then Push again. Waxillium is able to apply enough pressure on a small metal rod to make it stick to the side of a table without moving the table itself with ease.
+Wax also uses his ability to form a defensive bubble around himself that doesn't affect his own metal items but Pushes bullets coming at him off course slightly; to enhance the velocity of his bullets, Pushing them after being shot to force them through an opponents cover; and to travel in the air, in combination with his Skimmer ability to regulate his mass. Wax doesn't appear to use the most obvious ability of a Coinshot very often, as he had to be reminded that he could launch a bullet without a gun, although he always uses steel for his third vest button as an extra metal reserve or to use as a weapon in emergencies.
+While experimenting on [[Trellium\|trellium]], Wax burned a small amount of [[Lerasium\|lerasium]], making him a Mistborn, therefore allowing him to burn all allomantically viable metals.
 
-#### Feruquimia
-Como ajustador, mediante el uso de mentehierros, Wax puede almacenar su peso a cambio de ser más liviano de lo normal, y decantar esos depósitos para volverse más pesado. Wax almacena constantemente parte de su peso, quedándose con tres cuartos de su peso normal, siendo más ligero de lo habitual. También emplea esta habilidad para navegar verticalmente junto con sus [[/wiki/Acero#Uso alom.C3.A1ntico]] y una escopeta. Wax no suele decantar su peso muy a menudo, puesto que prefiere almacenarlo para ser más ligero y, consecuentemente, la enorme cantidad de peso que puede decantar de sus mentes de metal le permite atravesar con facilidad y sin esfuerzo el suelo, cayendo directamente a través de este. Emplea este poder a favor propio en varias ocasiones. Acaba incustrando sus mentes de metal en lo profundo de la piel para protegerlas de los alomantes.
+#### Feruchemy
+As a Skimmer, using iron metalminds, Wax can store his weight at the cost of being lighter than normal, and tap the storage to become heavier. Wax constantly stores his weight to make him about three-quarters of his normal weight, making him lighter on his feet. He also uses this ability to navigate vertically in combination with [[/wiki/Steel#Allomantic Use]] and a shotgun. Wax doesn't tap into his weight very often, preferring to store it to be lighter, as a result, the sheer amount of weight he can tap in to allows him to quite easily fall straight through a floor with no effort. He uses this power to his advantage many times. He eventually embedded his ironminds deep into his skin to protect them from Allomancers.
 
- 
-#### Hemalurgia
-Waxillium posee un [[Pendiente de Wax\|pendiente]] con una ligera carga [[Hemalurgia\|hemalúrgica]]. Se desconoce el tipo de carga que tiene. Este pendiente es una característica de [[El Camino\|El Camino]], los creyentes de esta religión llevan normalmente pendientes metálicos mientras rezan. Esto le permite a [[Armon%C3%ADa\|Armonía]] comunicarse directamente con él. Se lo dio la [[Kandra\|kandra]] [[MeLaan\|MeLaan]].
-Mientras intentaba detener al Grupo en Bilming, Wax se colocó un clavo de [[Electro\|electro]] en la parte inferior del pecho, lo que le otorgó [[Duraluminio\|duraluminio]] alomántico. También estudió a fondo las notas de Fantasma sobre la hemalurgia, y creó un esquema de todos los puntos del cuerpo donde se podrían alojar los clavos, y una lista detallada de cómo funcionaban los clavos.
-
-### Fuerzas de la ley
-Wax pasó veinte años de su vida como un vigilante de la ley en [[Los %C3%81ridos\|los Áridos]]. Sus proezas son registros públicos, guardados en la universidad de Elendel, donde son estudiados por los alumnos de derecho y criminología.
-
-
->“*Las noticias de los Áridos vuelan. La mayoría son escritas por alguien. Se pueden encontrar en la universidad o en la librería adecuada.*”
-\-Marasi sobre los casos notables de Wax.[27]
-
-
-[[Peret\|Peret el Negro]], violador y [[Brazo de peltre\|brazo de peltre]]. El primer hombre al que capturó Wax.
-[[Pars\|Pars el Muerto]], un carnicero que se convirtió en un asesino. Wax necesitó a Miles Cienvidas para acabar con él.
-[[Sangriento Tan\|Sangriento Tan]], un enterrador desquiciado que creó escenas macabras con los cuerpos de sus víctimas.
-[[Miles Dagouter\|Miles Dagouter]], un vigilante que se convirtió en criminal. Líder de los Desvanecedores.
-[[Paalm\|Paalm]], una kandra demente.
-[[Edwarn Ladrian\|Edwarn Ladrian]], el tío perdido de Wax que es miembro del Grupo.
-[[Telsin Ladrian\|Telsin Ladrian]], hermana de Wax, avatar de [[Autonom%C3%ADa\|Autonomía]] y líder del [[El Grupo\|Grupo]].
-### Otras habilidades
-Wax es un tirador talentoso, prefiriendo usar sus dos pistolas a la vez. Miles Cienvidas afirmó que Wax era el tirador más preciso y excelente que había vito jamás, y le había visto haciendo tiros que creía imposibles. Se le había visto disparando a una bala desviada por la burbuja de velocidad de un [[Bendaleo\|deslizador]], acabando en un tiro mortal como resultado. Sin embargo, tras un traumático tiro fallido que resultó en la muerte de su amada, [[Lessie\|Lessie]], Wax suele ponerse nervioso cuando se encuentra en situaciones con rehenes de por medio.
-Wax tiene habilidades para la metalurgia, y demuestra ser un investigador con talento.
-
-## Historia
-### Vida temprana
-Waxillium es un descendiente de [[Edgard Ladrian\|Edgard Ladrian]] y [[Allrianne Cett\|Allrianne Cett]]. Es un mestizo hereditario, siendo un [[Terris\|terrisano]] por parte de madre y [[Noble\|noble]] por parte de padre, y se dice que tiene más sangre de Terris que la mayoría. Se crió bajo el techo de una casa noble y vivió una vida de lujos ––algo que detestaba. Él y su hermana, [[Telsin\|Telsin]], fueron criados principalmente por su tío en [[Elendel\|Elendel]], tras la muerte de sus padres en lo que se informó como un accidente. Telsin afirmaba que su muerte se debió a los [[Kandra\|agentes]] de [[Armon%C3%ADa\|Armonía]] intentando llegar a ella, pero la veracidad de esta afirmación no está clara.
-Cuando tenía 12 años, su tío empezó a enseñarle cómo dirigir el [[Primer Banco Central\|Primer Banco Central]], que operaba su familia. Wax se quedó asqueado por las prácticas tan inmorales del banco y se distanció a sí mismo de ese cargo.
-
-### La Aldea
-Con 15 años, Wax pasó un año de su vida viviendo en [[La Aldea\|la Aldea]], con la opción de quedarse allí si él lo deseaba. Durante sus últimos meses en este lugar, se encontró con [[Forch\|Forch]], un chico [[Nacidoble\|nacidoble]] de Terris que había provocado un incendio. Wax investigó el crimen y llevó sus pruebas a los agentes de policía, pero fueron completamente ignoradas por su abuela, quien insistía en que el pueblo de Terris era capaz de encargarse de sí mismo y de sus criminales. Accidentalmente, vio a Forch más tarde esa noche y creyó que iba a volver a provocar otro incendio. Al investigar más concienzudamente, Wax se topó con Forch intentando diseccionar el cuerpo con vida de un chico al que había secuestrado. A pesar de estar en clara desventaja con el otro nacidoble, Wax acabó matando a Forch en defensa propia durante una batalla de empujones de acero, rescatando así al niño. Fue entonces cuando decidió abandonar la Aldea y empezar a actuar por su propia cuenta.
+#### Compounding
+Having inhaled and burned lerasium, thus granting all allomantic abilities, Wax possesses the ability to Compound Feruchemical iron by ingesting an ironmind and burning it with Allomantic iron to amplify the stored weight. Though never explicitly shown or used by Wax, the ability is nevertheless available to the lawman.
 
  
-### Los Áridos
-En sus primeros años en [[Los %C3%81ridos\|los Áridos]], Wax se veía a sí mismo como la imagen de un "caballero cazarrecompensas"; aunque en sus inicios era incompetente y no estaba familiarizado con sus habilidades de nacidoble, acabaría, con el paso del tiempo, perfeccionándolas. En algún punto, tuvo a un ayudante llamado [[Paclo\|Paclo el Polvoriento]]. Trabajó activamente junto con otros agentes de la ley de la zona, llegando a trabajar con [[Jon Dedomuerto\|Jon Dedomuerto]] y encontrando a un joven [[Wayne\|Wayne]] de 17 años, a quien terminaría salvando de su ejecución y convertiría en un vigilante.
-Durante la reclamación de la recompensa de [[Granito Joe\|Granito Joe]], conoció a [[Lessie\|Lessie]]—la mujer de la que se enamoraría y con la que terminaría casándose.
-Tras la noticia sobre la muerte de su tío, se imploró a Wax para que regresara a Elendel y comenzara a encargarse de la contabilidad de su casa. Al principio ignoró esta petición, eligiendo, en vez de ello, dar caza al homicida [[Sangriento Tan\|Sangriento Tan]] como su última recompensa. En un espantoso y repentino cambio de los acontecimientos, Waxillium disparó por error a Lessie en la frente cuando pretendía liberarla de las garras de *Sangriento* Tan. Al no quedarle nada en los Áridos, decidió volver a la mansión de su familia en Elendel.
+#### Hemalurgy
+Waxillium has an [[Wax's earring\|earring]] with a slight [[Hemalurgy\|Hemalurgic]] charge. It is unknown what type of charge it is. The earring is a feature of [[Pathism\|Pathism]], adherents to the religion often wear metal earrings while praying. This enables [[Harmony\|Harmony]] to communicate directly with him. It was given to him by the [[Kandra\|kandra]] [[MeLaan\|MeLaan]].
+While trying to stop the Set in Bilming, Wax gave himself an [[Electrum\|Electrum]] spike in his lower chest, granting him Allomantic [[Duralumin\|duralumin]]. He also extensively studied Spook's notes about Hemalurgy, and created charts of all of the points on the body where spikes could be placed, and a detailed list of the ways the spikes worked.
 
-### Regreso a Elendel
->“*Siempre se sentía más fuerte en las brumas. Sentía como si alguien estuviera observándolo, cuando estaba en ellas.*”
-\-Wax reflexionando sobre las brumas.[35]
+### Law Enforcement
+Wax spent twenty years as a lawman in the [[Roughs\|Roughs]]. His exploits are a matter of public record, kept at the university in Elendel where they are studied by students of law and criminology.
 
-En sus primeros meses en Elendel, Wax se ganó una reputación por desaparecer frecuentemente al comienzo de los eventos sociales, prefiriendo atravesar las brumas por medio de empujones de acero, patrullando la ciudad de esta forma. En una de esas noches, Waxillium pausó su ronda e intervino en un tiroteo. Creyendo haber escuchado a una mujer gimotear, que le recordó a Lessie, Wax se quedó petrificado en mitad del tiroteo. Colgó sus armas para siempre; tras llegar a la conclusión de que ya no era capaz de seguir siendo un vigilante y de que la efectividad de la policía de la ciudad lo forzara a percatarse de la irrelevancia de los justicieros en general.
-Encaminó su vida hacia un esfuerzo algo más mundano, salvar el futuro financiero de su casa, por lo que trabajó durante medio año para revertir el último despilfarro de su tío con los fondos de la familia. Creyendo que ya no había otra opción, decidió aceptar un contrato matrimonial con la hija de [[Lord Harms\|lord Harms]], [[Steris\|Steris]], con la esperanza de que el dinero de su padre pudiese sacar a la Casa Ladrian del borde de la pobreza. Ese mismo día, Wayne, un viejo compañero que tuvo durante su estancia en los Áridos, regresó a su vida ––trayendo consigo una bala de [[Aluminio\|aluminio]] y un tentador misterio que implicaba a una banda de saqueadores de trenes conocidos como los [[Desvanecedores\|Desvanecedores]], lo que amenazaba con alejar a Wax de las responsabilidades de su casa y con devolverle a la vida de un agente de la ley.
 
-#### Los Desvanecedores
-En contra de su mejor decisión, y bajo la mirada de desaprobación de su mayordomo, [[Tillaume\|Tillaume]], Wax comenzó a juntar las diferentes piezas de la historia de los Desvanecedores, con la esperanza de descubrir la razón de sus objetivos así como el secreto de cómo cometían sus crímenres. Percatándose de la distracción que esto le había creado, apartándolo de los deberes de su casa, Waxillium se esforzó por mantener al margen su nueva obsesión y asistió al [[Banquete nupcial Yomen-Ostlin\|banquete nupcial Yomen-Ostlin]] junto a Steris, haciendo así su debut como pareja en público.
+>“*Reports trickle in. From the Roughs. Most of them get written up by someone. You can find them at the university or at the right bookshop.*”
+\-Marasi on Wax's notable cases[27]
 
->“*Era difícil no recordar la imagen de él abriéndose paso entre la línea de mesas, pistola en mano mientras abatía a dos hombres que intentaban arrastrarla a la noche. Verlo surcar los aires, los disparos resonando abajo, los candelabros quebrándose y los cristales esparciendo luz a su alrededor, mientras abatía a un hombre desde el aire y caía al rescate de su amigo. Estaba hablando con una leyenda.*”
-\-Marasi haciendo una visita a Waxillium mientras investiga.[36]
 
-Después de que la boda fuese interrumpida por la llegada de bandidos de los Desvanecedors, quienes procedieron a robar a los señores y damas que asistieron a punta de pistola, Wax inicialmente rechazó la insistencia de Wayne de que usara una pistola puesto que se había autoconvencido de que la policía de Elendel sería capaz de manejar el altercado con mucho menos derramamiento de sangre. Cuando la banda fue demasiado lejos, matando a un hombre y tomando a Steris como rehén, Wax admitió que no podía quedarse quieto y no actuar, por lo que atacó a la banda con sus pistolas de repuesto y con toda la furia de sus empujones de acero. En el tiroteo resultante, Wax, Wayne y la prima de Steris, [[Marasi\|Marasi]], unieron fuerzas para contener a la mayoría de los atacantes, minimizando, con éxito, el número de civiles heridos. Cuando Marasi fue puesta a tiro de pistola repentinamente por un bandido, que vestía como lo hacía Lessie un año antes, Wax casi vuelve a quedarse petrificado. Marasi trató de zafarse, consiguiendo aturdir al Desvanecedor que la sujetaba, facilitándole momentáneamente el disparo a Wax; que se vio forzado a tomar la decisión de apretar el gatillo para salvarla, superando su miedo. Mientras los ladrones se retiraban, Waxillium se sorprendió al descubrir la identidad del líder de los Desvanecedores, [[Miles Dagouter\|Miles "Cienvidas" Dagouter]], otro antiguo vigilante de los Áridos.
-Con Steris secuestrada, Wax duplicó sus esfuerzos en su previa investigación. Cómo había obtenido una de las armas de aluminio de los Desvanecedores, Wax se puso a investigar su composición y su posible origen así como descubrir el misterio sobre el objetivo principal de la banda.
+[[Peret\|Peret the Black]], a rapist and [[Pewterarm\|Pewterarm]]. The first man Wax ever brought in.
+[[Pars the Deadman\|Pars the Deadman]], a butcher turned murderer. Wax needed Miles Hundredlives to bring him in.
+[[Bloody Tan\|Bloody Tan]], an unhinged mortician who created grisly scenes with his victims bodies.
+[[Miles Dagouter\|Miles Dagouter]], a lawman gone criminal. Leader of the Vanishers.
+[[Paalm\|Paalm]], an insane kandra.
+[[Edwarn Ladrian\|Edwarn Ladrian]], Wax's long lost uncle and member of the Set.
+[[Telsin Ladrian\|Telsin Ladrian]], Wax's sister, avatar of [[Autonomy\|Autonomy]] and leader of the [[Set\|Set]].
+### Other Skills
+Wax is a talented marksman, preferring to use two guns at once. Miles Hundredlives stated that Wax was the finest marksman he had ever seen, and had seen him make shots that he would have thought impossible. He has been shown to shoot a bullet that was put off course by the speed bubble of a [[Bendalloy\|Slider]], scoring a lethal shot as a result. However, due to a traumatic misfire that resulted in the death of a loved one, [[Lessie\|Lessie]], Wax tends to act nervously when faced with hostage situations.
+Wax is skilled at metallurgy, and he is shown to be a talented investigator.
+
+## History
+### Early Life
+Waxillium is a descendant of [[Edgard Ladrian\|Edgard Ladrian]] and [[Allrianne Cett\|Allrianne Cett]]. He is of mixed heritage, with [[Terris\|Terris]] on his mother's side and [[Noble\|Noble]] on his father's side, and he is said to have more Terris blood than most. He was raised under a noble house and lived a life of luxury--something he detested. He and his sister, [[Telsin\|Telsin]], were mostly raised by their uncle in [[Elendel\|Elendel]], with their parents dying in what was reported as an accident. Telsin claims this death was due to [[Harmony\|Harmony's]] [[Kandra\|agents]] trying to get to her, but the veracity of this claim is not known.
+At the age of 12, his uncle began grooming him to run the family-operated [[First Central Bank\|First Central Bank]]. Wax became disgusted by the unethical practices of the bank and distanced himself from the role.
+
+### The Village
+At the age of 15, Wax spent a year living in the [[Village\|Village]], with the option to stay if he wished. During his last months in the Village, he encountered [[Forch\|Forch]], a [[Twinborn\|Twinborn]] Terris boy who committed arson. Wax investigated the crime and brought his evidence to the attention of the constables, but this was ultimately disregarded by his grandmother who insisted that the Terris people manage themselves and their criminals. Wax unintentionally spotted Forch later that night and believed he was going to commit arson again. Investigating further, Wax unknowingly stumbled upon Forch attempting to dissect a living boy he had kidnapped. Despite being heavily outmatched by another Twinborn, Wax ultimately killed Forch in self defense during a Steelpushing battle, rescuing the child from him. This is when Wax decided to leave the Village and strike out on his own.
 
  
-En mitad de esta, Wax, Wayne y Marasi se vieron atrapados en una explosión durante su estudio, planeada por su mayordomo como un chapucero intento de matarlo.
-Wax comenzó a planear una manera para derrotar al antiguo e imbatible vigilante, una vez habían descubierto la ubicación del escondrijo de los Desvanecedores y habían confirmado que Miles estaba involucrado en todo ello. Centrado en resolver los peculiares métodos de robo de la banda, Wax fue sorprendido por los Desvanecedores cuando atacaron el tren de camino a Elendel en el que se encontraba. Herido durante el ataque y perturbado por la afirmación de Miles de que el verdadero mal del mundo es la corrupción de Elendel en sí misma, Waxillium acudió a la casa de [[Ranette\|Ranette]], donde se hizo con balas [[Mataneblino\|mataneblinos]] y un nuevo prototipo de revólver, [[Vindicaci%C3%B3n\|Vindicación]].
+### The Roughs
+In his early years in the [[Roughs\|Roughs]], Wax developed an image of himself as a "Gentleman Bounty Hunter"; although initially incompetent and unfamiliar with his Twinborn abilities, he would eventually hone them. At one point, he had a deputy named [[Paclo\|Paclo]]. He pro-actively worked with other law enforcers in the area, eventually working with [[Jon Deadfinger\|Jon Deadfinger]] and finding a 17 year old [[Wayne\|Wayne]] who he would ultimately spare from execution and turn his life around to become a lawman.
+During a bounty claim on Granite Joe, he encountered [[Lessie\|Lessie]]--a woman he would fall in love with and eventually marry.
+After the reported death of his uncle, Wax was implored to return to Elendel to begin managing the ledgers of his house. Initially ignoring this request, Wax chose instead to hunt the murderous [[Bloody Tan\|Bloody Tan]] as his final bounty. In a horrifying turn of events, Waxillium mistakenly shot Lessie in the forehead when he attempted to free her from Bloody Tan's clutches. With nothing left for him in the Roughs, Wax returned to his family mansion in Elendel.
 
-  Wax disparando a <<Miles\|Miles>>
-Habiendo deducido correctamente el siguiente objetivo de los Desvanecedores, Wax puso a Wayne y a Marasi a trabajar, enfocándose en la protección del próximo tren de cargamento de lord [[Augustin Tekiel\|Tekiel]], que incluía el nuevo vagón de carga llamado el [[Inexpugnable\|Inexpugnable]]. Wax se infiltró en el vagón justo antes de que el robo previsto tuviese lugar, de manera que se lo llevaran a su guarida. Haciendo uso de una gran cantidad de dinamita que había colado con él dentro del Inexpugnable, Waxillium se abrió paso a través del escondite de los Desvanecedores, perdiendo, desafortunadamente, a *Vindicación* durante la refriega. Tras activar con éxito una trampa construida especialmente para capturar a Miles, Wax se vio obligado a huir cuando el criminal decidió explotarse a sí mismo con un explosivo personal, en vez de dejarse capturar. Entabló una breve conversación con [[Armon%C3%ADa\|Armonía]] al escapar a las brumas, con la que acabó percatándose de que Armonía había estado trabajando detrás de escena para orquestar la entrega de sus antiguas armas perdidas al escondrijo de los Desvanecedores, justo a tiempo para ayudarle.
-Armado de nuevo, Wax encontró y rescató a Steris, mató a numerosos Desvanecedores, y destruyó su guarida con un tremenda proeza con los poderes de un nacido del metal. Como la construcción colapsó, algunos Desvanecedores sobrevivieron, dirigidos por Miles Cienvidas, curado al completo, quien sujetaba a Marasi a punta de pistola. Negándose a quedarse paralizado de nuevo y perder la vida de otra mujer en el mismo tipo de enfrentamiento, le pidió a Wayne que emplazara una burbuja de velocidad. Disparando al desvanecedor a través de la burbuja, Wax compensó el inevitable desvío de la bala temporalmente ralentizada al disparar una segunda vez, en un tiro increíblemente certero que golpeó su primera bala y provocó que rebotara y fuese dirigida directamente a la cabeza de Tarson, el brazo de peltre. Miles y un Wax ya herido se prepararon para combatir, con el primero derrotando al segundo sin piedad alguna. Waxillium resistió, aguantando el castigo de los puñetazos de Miles mientras Marasi los metía en secreto dentro de una burbuja temporal. Logró distraer al criminal, poniendo todas sus esperanzas en Wayne, quien regreso al cabo, rodeándolos a los tres (Marasi, Miles y él mismo) con agentes de la policía de Elendel.
+### Return to Elendel
+>“*He always felt stronger in the mists. He felt like someone was watching, when he was out in them.*”
+\-Wax thinks of the mists[35]
 
-#### Conociendo al Señor Conjunto
-Después de que los Desvanecedores supervivientes fuesen detenidos e interrogados, Waxillium reconoció la descripción de un hombre que trabaja con Miles a quien llamaban «Señor Conjunto», que le llevó a creer que estaban hablando sobre su supuesto difunto tío, [[Edwarn Ladrian\|Edwarn Ladrian]]. Siguiendo la pista sobre el paradero actual del Señor Conjunto, Wax se subió a un tren en [[Puertoseco\|Puertoseco]] y confirmó sus sospechas. Se enfrentó a su tío cara a cara, y le exigió que revelara la localización de las otras mujeres que habían sido secuestradas por los Desvanecedores. Sin sentirse amenazado, Edwarn invitó a Wax a que expusiese su operación, puesto que no había pruebas que apuntaran a su participación en todo aquello. Wax escuchó como su tío le reprendía por su presunta rectitud, tal y como hacía cuando era un crío. Cuando intentó tomar las riendas de la situación, Edwarn avisó a sus hombres, que lo lanzaron por la parte trasera del tren, no sin que antes hubiera robado el libro de citas y reuniones de su tío.
+In his early months in Elendel, Wax earned a reputation for frequently disappearing early from social functions, preferring to steel-push through the mists, in patrol of the city. On one such night, Waxillium paused his patrol and intervened in a shootout. Believing he heard a woman's whimper, which reminded him of Lessie, Wax froze during the gunfight. Coming to the conclusion that he was no longer capable of being a lawman, and with the effectiveness of the city constabulary forcing him to face the irrelevance of vigilante justice in general, Wax hung up his guns for good.
+Throwing himself into the much more mundane effort of saving his house's financial future, Waxillium spent half a year working to reverse his late uncle's squandering of the family funds. Believing there was no other choice, he entered into a marriage agreement with [[Lord Harms\|Lord Harms']] daughter, [[Steris\|Steris]], hopeful that her father's money would help bring House Ladrian back from the brink of destitution. That same day, Wayne, an old partner from his time in the Roughs, re-entered Wax's life--carrying with him an [[Aluminum\|aluminum]] bullet and a tantalizing mystery surrounding a gang of train robbers known as the [[Vanishers\|Vanishers]], which threatened to draw Wax away from his house responsibilities and right back into the life of a lawman.
 
-### Sangradora
-Recién rescatada, Steris le sugirió a Wax que esta terrible experiencia les brindaba a los dos la oportunidad de acelerar su matrimonio y anunciar su compromiso mucho antes de lo que habían previsto. Indeciso inicialmente, Wax accedió a que la pareja siguiera adelante, gracias a la sugerencia de Steris; tratando de mantener alejados los potenciales pensamientos románticos sobre Marasi y de enterrar los dolorosos recuerdos sobre Lessie.
-Debido a sus inestimables contribuciones en la resolución del caso de los Desvanecedores, se le otorgó un permiso como ayudante para toda la ciudad por el [[/wiki/Elendel#Gobierno]], además, se le concedió cierto permiso para practicar la justicia al estilo de los Áridos en la ciudad. Armonía lo agilizó utilizando a TenSoon, que imitó a un alto cargo de la policía para hacer pasar los documentos.
+#### The Vanishers
+Against his better judgement, and under the disapproving eye of his butler, [[Tillaume\|Tillaume]], Wax began to piece together the history of the Vanishers, hoping to discover the reason for their unorthodox targets as well as the secret behind the way they commit their crimes. Realizing the distraction this had created for his house duties, Waxillium endeavored to put away this new obsession and attended the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]] with Steris, marking their public debut as a couple.
 
-#### Atormentado por el pasado
-Meses más tarde, mientras surcaba el aire mediante empujones de acero a través de las abarrotadas calles de la ciudad persiguiendo a un ladrón de bancos conocido como [[El Tirador\|el Tirador]] (un alomante relacionado con [[El Grupo\|el Grupo]] que aparecía en el cuaderno de citas de su tío), Wax se quedó aturdido y profundamente perturbado cuando reconoció la cara de un transeúnte en la acera bajo él;*Sangriento* Tan, el asesino que mató a Lessie. Sobresaltado e incapaz de localizarlo entre el gentío, Wax pidió ayuda a Wayne y a Marasi para que continuaran la persecución en las [[Evasiones\|Evasiones]]. Finalmente atraparon a Marks, y Wax no pudo arrestar al hombre para interrogarlo cuando, repentinamente, fue asesinado con una ballesta por un asesino.
-Varios agentes que habían llegado tarde a la escena se acercaron a él y le hicieron saber que el comisario, [[Claude Aradel\|Claude Aradel]], quería que se involucrase discretamente en la investigación del reciente asesinato de [[Winsting\|Winsting]], hermano del gobernador de Elendel, [[Replar Innate\|Replar Innate]], que había sido asesinado junto con treinta de los criminales de peor reputación de la ciudad. Mientras examinaba la escena, Wax determinó que Winsting había sido apuñalado por alguien a quien conocía, cercano a él, teniendo en cuenta la ubicación de los asesinatos, la posición de los cadáveres, y el elevado número de víctimas ––detalles que significaban que la velocidad potenciada [[Feruquimia\|feruqímicamente]] se había empleado para lograr algo tan macabro––. Wax se motivó a sí mismo al saber que estaba en la caza de un [[Mensajero de acero\|mensajero de acero]].
-Para encontrar la pista de una feruquimista rebelde, Wax empezó su búsqueda en el mejor lugar para ello, visitando así [[La Aldea\|la Aldea]] de [[Terris\|Terris]] para obtener consejo de su abuela, [[Vwafendal\|Vwafendal]]. Reconociendo el nombre de [[Idashwy\|Idashwy]], una mensajera de acero de su juventud que acababa de marcharse de la Aldea, Wax continuó su investigación en otro lugar, pidiéndole ayuda a Wayne para descubrir dónde se alojaba la mujer en la ciudad. Pillado por sorpresa por haber atisbado de nuevo a *Sangriento* Tan en las abarrotadas calles, Wax comenzó a dudar de sus propios sentidos. Trató de quitarse de encima esa distracción, y se volvió a juntar con Wayne, descubriendo entonces el cuerpo sin vida de Idashwy, tirado en el suelo de su cocina con un gran agujero que le perforaba el pecho. Puesto que había pasado mucho tiempo con un libro que le había regalado [[Marsh\|Ojos de Hierro]], Wax pudo reconocer que, muy probablemente, Idashwy había sido víctima de la creación de un clavo [[Hemalurgia\|hemalúrgico]]. Suponiendo que el asesino había usado el clavo para robar su veolocidad feruquímica, Wax se sorprendió al encontrar una nota para él en el bolsillo de la víctima. Esta rezaba las últimas palabras que *Sangriento* Tan le había dicho allá en los Áridos.
+>“*It was so hard not to recall the sight of him breaking through the line of tables, gun in hand as he expertly felled two of the men trying to haul her out into the night. Or the sight of him soaring through the air—gunshots exploding up from beneath, the chandeliers shattering and crystal spraying light around him—as he shot a man from midair and dropped to rescue his friend. She was talking to a legend.*”
+\-Marasi calls on Waxillium in his study[36]
 
->“*Alguien más nos mueve, vigilante.*”
-\-Sangriento Tan.[29]
+After the wedding was interrupted by the arrival of bandits from the Vanishers gang, who proceeded to rob the lords and ladies in attendance at gunpoint, Wax initially refused Wayne's insistence that he take up a pistol--having convinced himself that the Elendel constabulary would be able to handle the disturbance with far less bloodshed. When the gang went too far, killing a man and taking Steris as a hostage, Wax admitted that he could not stand idly by, and attacked the gang with his backup pistols and the full fury of his Steelpushing. In the ensuing gunfight, Wax, Wayne, and Steris' cousin [[Marasi\|Marasi]] worked together to subdue the majority of the attackers, while successfully minimizing civilian casualties. When Marasi was suddenly held at gunpoint by one of the gang, in the same fashion as Lessie a year ago, Wax nearly froze up again. Marasi struggled, successfully stunning the Vanisher holding her, momentarily opening up the shot for Wax--forcing him to make a choice to overcome his fear to pull the trigger and save her. As the robbers retreated, Waxillium was surprised to discover the identity of the Vanishers' leader, [[Miles Dagouter\|Miles "Hundredlives" Dagouter]]--another former lawman from the Roughs.
+With Steris kidnapped, Wax re-doubled his efforts into his previous investigation. Having obtained one of the Vanishers' aluminum guns, Wax poured himself into researching its makeup and possible origin as well as uncovering the mystery of the Vanishers' ultimate goal.
 
-Considerando que necesitaba tiempo para pensar, Wax se montó solo en su carruaje, conducido por [[Hoid\|Hoid]]. Comenzó a pensar si el pendiente de [[Caminante\|caminante]] que tenía había sido alguna vez un clavo hemalúrgico, así que se lo puso en la oreja. De inmediato, Armonía habló con él directamente—calmándole y asegurándole de que no se había vuelto loco. Armonía admitió que su pendiente era un clavo, que era la razón por la que podían mantener una conversación. Asimismo, Armonía le explicó que sus supuestos avistamientos de *Sangriento* Tan eran reales y no fruto de su imaginación, aunque el asesino al que Wax estaba persiguiendo no era un hombre, sino una [[Inmortal Sin Rostro\|Inmortal Sin Rostro]] que usaba los huesos de Tan llamada [[Sangradora\|Sangradora]].
+ 
+In the middle of his investigation, Wax, Wayne, and Marasi were caught up in an explosion in his study, set off by his butler in a botched attempt to assassinate him.
+Eventually discovering the location of the Vanishers' hideout and confirming Hundredlives' involvement, Wax began forming a plan to take down the unbeatable, former lawman. Focusing his attention on puzzling out the Vanishers' peculiar robbery methods, Wax was taken by surprise when the Vanishers attacked his train en route back to Elendel. Wounded in the attack and shaken by Hundredlives' claim that the real evil in the world is the corruption of Elendel itself, Waxillium escaped to [[Ranette\|Ranette's]] house, where he obtained [[Hazekiller\|Hazekiller]] bullets and a new prototype revolver, [[Vindication\|Vindication]].
 
-#### Persecución de una mujer loca
-Mientras asistía a la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] con Steris, Wax conoció a [[MeLaan\|MeLaan]], una Inmortal Sin Rostro enviada para ayudar en la caza de Sangradora por el mismísimo Armonía. Entre conversaciones con diversos nobles de la ciudad, comenzó a escuchar una nueva voz en su cabeza, burlándose de él y de la gente de Elendel. Pronto se percató de que estaba escuchando la voz de Sangradora, que había aprendido de alguna manera a usar la misma conexión hemalúrgica que tenía con Armonía. Empleando esa conexión para localizar a Sangradora en la fiesta, Wax intentó capturarla, persiguiéndola saltando por una ventana y atravesando las [[Bruma\|brumas]] en la noche.
-Su persecución de Sangradora fue abordada por una docena de hombres armados, por lo que Wax estaba convencido de que debía estar aliada con el Grupo. Escuchó atentamente cuando la kandra le contaba en su mente sus planes para matar al gobernador y liberar a la ciudad de la influencia de Armonía, pero primero declaró que debía matar al padre de Wax. Intuyendo que estaba amenazando la vida de lord Harms, Wax recorrió toda la ciudad, llevando tanto al viejo hombre como a su hija, Steris, a ubicaciones secretas y separadas. Creyendo que se encontraba un paso por delante de Sangradora, Wax informó al gobernador Innate, advirtiéndole de una amenaza urgente contra su vida, solo para descubrir que durante su ausencia Sangradora había asesinado brutalmente al [[Padre Bin\|Padre Bin]], el sacerdote [[Supervivencialista\|supervivencialista]] que iba a oficiar su boda con Steris.
-Siguiendo los pasos de la kandra, Wax encontró el carruaje que había usado para escapar de la escena del crimen. Dentro, halló restos de [[Marchitaventura\|marchitaventura]], una sustancia que solo crecía en la [[Tierra Natal kandra\|Tierra Natal de los Inmortales Sin Rostro]]. Confundido, siguió su pista hasta la mansión del gobernador. Una vez estaba lo suficientemente cerca del lugar, la voz de Sangradora regresó de inmediato a su mente, tratando de convencerle de que no le importaba a Armonía y que tan solo lo estaba usando. Para sembrarle dudas, Sangradora le preguntó a Wax que intentara explicar por qué Armonía no había intervenido para salvar la vida de Lessie. Distraído, Wax fue incapaz de impedir que Sangradora emplease su habilidades robadas de mensajera de acero para atacar las cámaras de la mansión del gobernador. Para cuando el vigilante llegó, Sangradora ya había desaparecido, aunque por suerte había dejado con vida al gobernador. Buscando cuidadosamente, Wax encontró otro mensaje de Sangradora, esta vez escrito con sangre de su último asesinato.
+  Wax shooting <<Miles\|Miles>>
+Correctly deducing the Vanishers' next target, Wax set Wayne and Marasi to work, zeroing in on the protection of Lord [[Augustin Tekiel\|Tekiel's]] next shipment train, which included the new, [[Breaknaught\|Breaknaught]] cargo car. Infiltrating the car just before the predicted robbery took place, Wax allowed himself to be taken to the Vanishers' lair. Making use of a large amount of dynamite smuggled alongside him in the Breaknaught, Waxillium fought his way through the Vanishers' hideout, unfortunately losing Vindication in the fray. Successfully springing a trap made specially to capture Hundredlives, Wax was then forced to flee when the outlaw opted to blow himself up with a personal explosive, rather than be captured. Escaping into the mists, Waxillium briefly experienced a conversation with [[Harmony\|Harmony]], which culminated in the realization that Harmony had worked behind the scenes to orchestrate the delivery of Wax's old, lost weapons to the Vanishers' hideout, just in time to help.
+Newly re-armed, Wax located and rescued Steris, killed numerous members of the Vanishers gang, and destroyed their hideout with a tremendous feat of Metalborn power. As the building collapsed, several surviving Vanishers, led by the now fully-healed, Miles Hundredlives, held Marasi at gunpoint. Refusing to freeze up and lose another woman's life to the same type of standoff, Wax called for Wayne to create a speed bubble. Firing at the Vanisher through the speed bubble, Wax compensated for the unavoidable veering of the time-slowed bullet by firing a second time, in an incredibly aimed shot which struck his first bullet and caused it to ricochet directly into the thug's head. Miles and an already injured Wax squared off, with Hundredlives beating Wax mercilessly. Waxillium held on, taking the punishment of Miles' blows as Marasi secretly held them in a time bubble. Wax successfully distracted the outlaw, laying all of his hopes on the absent Wayne, who finally returned, having surrounded the three of them with Elendel's constables.
 
->“*Le arranco la lengua para acabar con las mentiras. Le apuñalo los ojos para evitar su mirada. Serás libre.*”
-\-Sangradora.[54]
+#### Meeting Mister Suit
+After the surviving Vanishers were taken into custody and interrogated, Waxillium recognized the description of a man working with Miles whom they called "Mister Suit," which led him to believe they were talking about his supposed late uncle, [[Edwarn Ladrian\|Edwarn Ladrian]]. Following up on a lead to Suit's current whereabouts, Wax boarded a train at [[Dryport\|Dryport]] and confirmed his suspicions. Confronting his uncle face to face, Waxillium demanded that Edwarn give up the location of the other women the Vanishers had kidnapped. Unthreatened, Edwarn welcomed Wax to attempt to expose his operation, as there was no real proof pointing to the old man's involvement. Wax listened as his uncle chastised him for his purported self-righteousness, just as he did when Wax was a child. When Wax moved to take matters into his own hands, Edwarn called in his men, who threw Wax off the back of the train--but not before Wax swiped his uncle's appointment book.
 
-Tratando de buscar más información sobre Sangradora, Wax entró en el museo del [[Campo del Renacimiento\|Campo del Renacimiento]]. Encontró el camino secreto que atravesaba las históricas minas de [[Atium\|atium]], y se adentró en la caverna que llevaba a la Tierra Natal, donde se topó con [[TenSoon\|TenSoon]], el legendario sabueso de [[Vin\|la Guerrera Ascendente]]. TenSoon le contó a Wax sobre la historia de Sangradora y le enseñó una copia rota y profanada de las [[Palabras de Instauraci%C3%B3n\|Palabras de Instauración]], producto de una de sus últimas acciones antes de marcharse de la Tierra Natal y siendo una prueba de su descenso a la locura. Wax y TenSoon comenzaron a ser perseguidos en la Tierra Natal por la aparición repentina de unas [[Quimera hemal%C3%BArgica\|quimeras hemalúrgicas]]—–humanos deformados bajo el control de Sangradora—– pero no antes de que Wax comprendiera su plan al completo. No quería matar solo al gobernador; quería incitar una revuelta en la ciudad. Wax regresó de inmediato a la mansión de Innate, con la intención de salvar su vida de una vez por todas. Tras entrar al despacho del gobernador, encontró una bola de chicle mascado colocado meticulosamente, lo que reconoció como una señal de problemas, que le había dejado Wayne. Fue entonces que descubrió la verdad; Sangradora había estado imitando en secreto al gobernador todo ese tiempo, así que Wax sacó su pistola. Sangradora abrió fuego primero, matando a los guardias de Innate mientras escapaba por la ventana.
+### Bleeder
+Newly rescued, Steris suggested to Wax that their shared ordeal afforded the two of them an opportunity to speed up their marriage contract and announce their engagement much sooner then previously planned. Initially hesitant, Wax agreed that the couple should move forward with Steris' suggestion, endeavoring to push away any potentially romantic thoughts of Marasi and bury his painful memories of Lessie.
+Due to his invaluable contributions toward the resolution of the Vanishers case, Wax was granted a citywide deputized forbearance by the [[/wiki/Elendel#Government]] as well as certain allowances to practice his Roughs-style justice in the city. This was expedited by Harmony using TenSoon, who imitated a high ranking member of the constabulary to push the documents through.
 
-  Wax llorando junto a <<Steris\|Steris>> tras matar a <<Lessie\|Lessie>>
-#### Confrontando un recuerdo
-Empujándose a través de la noche tras Sangradora, Wax la encontró fácilmente, cambiando su cuerpo de nuevo antes de volver a escapar. Finalmente, se enfrentó a ella en el [[Pontoriente\|Pontoriente]], donde vio que Sangradora le estaba apuntando con su arma, pero no había disparado. Con lágrimas en sus ojos, la kandra le imploró a Wax que renunciara a Armonía y fuese libre. El vigilante ignoró el dolor que sentía, viendo cómo Sangradora tenía ahora la cara de su difunta mujer, Lessie. Hizo todo lo que pudo para no escuchar lo bien que podía imitar la voz y las peculiaridades de Lessie. Wax la apuntó con *Vindicación* y le disparó en la cabeza con la bala de la cámara secreta del arma. La bala había sido fabricada por Ranette a petición suya, moldeada de su pendiente de caminante. Estaba diseñada para funcionar como un segundo clavo para Sangradora, permitiendo así que Armonía reiterara el control hemalúrgico sobre ella.
-Sangradora gritó que no iba a ser controlada de nuevo. Mientras moría en los brazos de Wax, habiendo terminado con su propia vida para no regresar al servicio de Armonía, le suplicó a este que le preguntase a Armonía por qué le había mandado en un principio a protegerle, cuando él comenzó en los Áridos. Le dijo que lo amaba, y quería saber por qué, si Armonía era tan maravilloso, un dios omnisciente, había utilizado a Wax precisamente para matarla. Se dio cuenta, ya demasiado tarde, de que la mujer a la que había disparado no era Sangradora, una asesina demente y una Inmortal Sin Rostro que se parecía a Lessie; ella *era* Lessie.
-Durante las siguientes semanas, Wax lamentó amargamente la muerte final de su mujer, distanciándose de Armonía por ocultarle la verdadera identidad de Sangradora. Renunciando a las brumas que tanto solía querer, Wax se mantuvo al margen de sus responsabilidades públicas, mostrando poco interés en seguir las intrigas de la ciudad que Wayne, MeLaan, y Marasi habían descubierto conforme el plan de Sangradora se desmoronaba. Ofreciendo poca resistencia, aceptó posponer su boda con Steris mientras tanteaba con entregarse a su depresión.
+#### Tormented by the Past
+Months later, while Steelpushing through the crowded city streets in hot pursuit of a bank robber known as the [[Marksman\|Marksman]] (an Allomancer connected with the [[Set\|Set]] who featured in Edwarn's appointment book) Wax was stunned and deeply disturbed to recognize the face of an onlooker on the sidewalk below--Bloody Tan, Lessie's murderer. Shaken and unable to locate Tan among the crowds, Wax enlisted the help of Wayne and Marasi to continue the chase into the [[Breakouts\|Breakouts]]. Eventually catching Marks, Wax was prevented from bringing the man in for questioning when Marks was suddenly killed by an assassin's crossbow.
+Approached by a number of constables who arrived late on the scene, Wax learned that Constable-General [[Claude Aradel\|Claude Aradel]] would like to quietly enlist his assistance in investigating the recent murder of Elendel Governer [[Replar Innate\|Replar Innate's]] brother, [[Winsting\|Winsting]], who had been killed among thirty of Elendel's most notorious criminals. Examining the scene, Wax determined that Winsting was stabbed by someone familiar to the man, citing the location of the killings, the position of the bodies, and the sheer number of victims--details which also dictated that [[Feruchemical\|Feruchemically]] enhanced speed would have been required to perform the grisly feat. Wax steeled himself, knowing he was now on the trail of a [[Steelrunner\|Steelrunner]].
+Starting his search in the best place to find word of a rogue Feruchemist, Wax visited the [[Terris\|Terris]] [[Village\|Village]] to obtain the counsel of his grandmother, [[Vwafendal\|Vwafendal]]. Recognizing the name [[Idashwy\|Idashwy]], a Steelrunner from his past who had recently left the Village, Wax continued his investigation elsewhere, enlisting Wayne's help to discover the woman's address in the city. Blindsided by another momentary glimpse of Bloody Tan on the crowded streets, Wax began to doubt his own senses. Shaking off the distraction, Wax joined Wayne in discovering Idashwy's corpse, laying in her kitchen with a large hole bored through her chest. Having spent great amounts of time studying a book gifted to him by [[Ironeyes\|Ironeyes]] himself, Wax recognized the likelihood of Idashwy having been the victim of the creation of a [[Hemalurgic\|Hemalurgic]] spike. Guessing that the killer used the spike to steal her Feruchemical speed, Wax was surprised to find a note written to himself hidden in the victim's pocket. On the note were some of the last words Bloody Tan said to him, back in the Roughs.
 
-### Brazales de Duelo
->“*En el fondo se alegrará de que se haya detenido la boda. Quizás acabe deduciendo que he sido yo, muy en su subconsciente, pero pagará por los daños sin importarle los consejos de su asesor. Y no dirá ni pío, ni investigará el caso siquiera. Espera y verás.*”
-\-Wayne hablando con Marasi.[61]
+>“*Someone else moves us, lawman.*”
+\-Bloody Tan[29]
 
-Seis meses después, animado por el creciente vínculo amoroso con Steris y decidido a no seguir en el mismo pozo de desesperación en el que ya había estado cuando perdió a Lessie la primera vez, Wax regresó a ocuparse de sus responsabilidades policiales junto a Wayne. Cuando llegó el día de su boda con Steris, Wax volvió a ser perseguido por uno de los kandra de Armonía; el cual afirmaba tener un tema de gran importancia sobre el que tratar con él. Rechazándolo, Wax continuó en la iglesia supervivencialista donde subió al altar con Steris, cuyas lágrimas sinceras le conmovieron de una manera que no esperaba. Dándose cuenta de que aún no estaba listo para dejar atrás el recuerdo de Lessie, Wax se libró afortunadamente de la necesidad de sufrir más angustias cuando una torre de agua de fuera cayó repentinamente sobre el techo de la iglesia, empapando a todos los asistentes y haciendo que la ceremonia fuese pospuesta una vez más, para alivio de Wax.
+Needing time to think, Wax rode alone in his carriage, driven by [[Hoid\|Hoid]]. Casually musing upon whether his [[Pathian\|Pathian]] earring may have once been a Hermalurgic spike, Wax placed it into his ear. Immediately, Harmony spoke to Wax directly--careful to reassure him that he had not gone insane. Harmony admitted that the earring was a spike, which was the reason they were able to converse. Additionally, Harmony explained that Wax's earlier sightings of Bloody Tan were real and not imagined, though the murderer Wax had been chasing all this time was not a man, but actually a [[Faceless Immortal\|Faceless Immortal]] using Tan's bones, named [[Bleeder\|Bleeder]].
 
-#### Hacia Nueva Seran
-Wax desenfundó a *Vindicación* y se tomó un nuevo vial con metales mientras regresaba a la mansión Ladrian más tarde; las pistas de intrusión en su propio hogar le habían puesto alerta. Descubrió que esa nueva amenaza no era más que el kandra de antes, ahora estaba sentado en su sala de estudio, que había hecho poco para animarle a bajar el arma. El kandra, [[VenDell\|VenDell]], de la Sexta Generación, había conseguido atraer la atención de Marasi y Wayne para que le ayudaran, pero Wax creía que VenDell lo había hecho tan solo para involucrarlo a él en el asunto, ignorando el rechazo a su proposición de antes. Aprovechando la curiosidad de Wax, el kandra mostró un [[Evanoscopio\|evanoscopio]], que empleó para llamar su atención con una presentación sobre la naturaleza de la [[Investidura\|Investidura]] y de la [[Identidad\|Identidad]], así como del mito de los [[Brazales de Duelo\|Brazales de Duelo]]. Mientras su paciencia se agotaba, VenDell explicó que estos evanotipos había sido tomados por otro kandra, [[ReLuur\|ReLuur]], quien estaba obsesionado con los Brazales y estaba convencido de que eran [[Mente de metal\|mentes de metal]] sin Identidad, es decir, que tenían el potencial de concederle a cualquiera poderes de un nacido del metal comparables con los del [[Lord Legislador\|lord Legislador]]. Rechazando la idea por completo, Wax se sorprendió al ver otra impresión del evanotipo con una imagen de su hermana, [[Telsin\|Telsin]], que estaba siendo arrastrada a algún lugar en contra de su voluntad. VenDell le informó de que ReLuur había sido abordado por los mismos matones en [[Nueva Seran\|Nueva Seran]], donde uno de sus clavos había sido robado. Convencido del peligro y preocupado por su hermana, Wax aceptó ayudar en la misión.
+#### Pursuit of a Mad Woman
+While attending [[Lady ZoBell's party\|Lady ZoBell's party]] with Steris, Wax met [[MeLaan\|MeLaan]], a Faceless Immortal sent to help in the hunt for Bleeder by Harmony himself. In between chats with various nobility of the city, Wax began to hear a new voice in his head--mocking him and the people of Elendel. Wax soon realized he was hearing the voice of Bleeder, who had somehow learned to use the same Hermalurgic connection to him that Harmony had. Using their connection to discover Bleeder's location at the party, Wax attempted to apprehend her, giving chase out a window and through the [[Mist\|Mists]] of the city outside.
+His pursuit of Bleeder waylaid by a dozen armed men, Wax was convinced that she must be aligned with the Set. Wax listened closely as Bleeder spoke in his mind of her plans to kill the governor and free the city from Harmony's influence, but first she claimed she would need to murder Wax's father. Guessing that she must have been threatening Lord Harms' life, Wax raced across the city, spiriting the old man and Steris to separate, secret locations. Finally believing he had moved one step ahead of Bleeder, Wax reported to Governor Innate to warn him of the dire threat to his life, only to discover that during his absence Bleeder had brutally killed [[Father Bin\|Father Bin]], the [[Survivorist\|Survivorist]] priest who was to perform his marriage ceremony to Steris.
+Tracking Bleeder's path, Wax located the carriage she had used to escape the scene of the killing. Inside, Wax found traces of [[Perchwither\|Perchwither]], a substance only found in the [[Kandra Homeland\|Homeland of the Faceless Immortals]]. Puzzled, Wax followed her trail back to the Governor's mansion. Once close enough to her location, Bleeder's voice immediately returned to his mind, keen to convince Wax that Harmony did not care and was only using him. Sowing doubt, Bleeder asked Wax to attempt to explain why Harmony had failed to step in and save Lessie's life. Distracted, Wax was unable to prevent Bleeder from using her stolen Steelrunner abilities to attack Innate's chambers. By the time Wax arrived, Bleeder had already disappeared, though thankfully leaving the governor alive. Looking closer, Wax found another message from Bleeder, this time written in the blood of her latest kill.
 
->“*¿Por qué será que cada vez que abres la boca me dan ganas de volver a cerrártela a puñetazos, por muy útil que sea lo que estés diciendo?*”
-\-Wax a VenDell.[62]
+>“*I rip out his tongue to stop the lies. I stab out his eyes to hide from his gaze. You will be free.*”
+\-Bleeder[54]
 
-Con una evidencia real de que su hermana estaba viva después de varios años, Wax sabía que estaba siendo manipulado de nuevo por Armonía; aunque esta vez, se esforzó en proceder con los ojos bien abiertos. Rechazó el regalo de VenDell, un nuevo pendiente de caminante. Lo haría por su cuenta, sin la voz de Armonía en su oreja.
-Steris, cuya compañía se estaba volviendo cada vez más útil y familiar, acompañó a Wax y los demás en el tren hacia Nueva Seran. Durante el viaje, a Wax le costó no interrumpirle mientras leía un libro con interés. Necesitaba obtener su profundo conocimiento sobre las políticas locales y saciar su curiosidad después de que se percatase del aumento de protestas sobre las nuevos aranceles de Elendel, que pudo observar a través de las ventanas mientras pasaban por las ciudades exteriores. Distrayéndola aún más, Wax consiguió echar un vistazo a lo que tenía a Steris tan absorta, estaba leyendo un libro sobre la reproducción humana. Avergonzada, Steris intentó cambiar de tema, pero el descubrimiento tan solo hizo que el cariño que él le tenía aumentase.
+Seeking more information on Bleeder, Wax entered the museum in the [[Field of Rebirth\|Field of Rebirth]]. Locating the secret path through the historical [[Atium\|atium]] mines, Wax entered the cavern leading to the Homeland, and encountered [[TenSoon\|TenSoon]], legendary wolfhound of the [[Ascendant Warrior\|Ascendant Warrior]]. TenSoon told Wax much of Bleeder's history and showed him a torn up and desecrated copy of the [[Words of Founding\|Words of Founding]]--the product of one of her last acts before leaving the Homeland and evidence of her descent into madness. Wax and TenSoon found themselves chased from the Homeland by the sudden appearance of [[Hemalurgic chimera\|Hemalurgic chimeras]]--deformed humans under Bleeder's control--but not before Wax came to realize the full scope of her plan. She didn't want to simply kill the governor; she wanted to incite a city-wide riot. Wax immediately returned to Innate's mansion, intent on saving his life once and for all. After entering the governor's study, Wax noticed a carefully placed gumball, which he recognized to be a sign of trouble, left for him by Wayne. Immediately realizing the truth--that Bleeder had been secretly impersonating the governor the entire time--Wax pulled out his gun. Bleeder opened fire first, killing Innate's guards as she escaped out the window.
 
-  Repasando las finanzas de la casa con Steris en el tren
-Notando que el tren se ralentizaba repentinamente, Wax saltó a la acción. Acertó al suponer que los asaltantes habían desenganchado su vagón, así que saltó a las vías y decantó su mente de metal par aumentar notablemente su peso, lo que le permitió realizar un empujón de acero de forma que el vagón se reenganchase al resto del tren. Wax se empujó de vuelta encima del tren, que ya estaba siendo abordado por un gran grupo de hombres armados a caballo. Dejando a Steris al cuidado de Marasi, se abrió paso a través del tren luchando, y acabó enfrentándose contra un enorme bruto nacido del metal cuya gran corpulencia se convirtió en un objetivo excelente para el nuevo regalo de Ranette para su arsenal ––un gancho que se accionaba alománticamente que resultó ser particularmente útil para lanzar a alguien del tren––.
-Tras asegurar el tren y permitir que un doctor atendiera sus heridas en la estación de [[Pie de Hierro\|Pie de Hierro]], Wax comenzó a preocuparse por Wayne, quien seguía desaparecido, puesto que podría haber resultado gravemente herido o incapacitado en la pelea. Su preocupación pronto se convirtió en molestia cuando su larga búsqueda terminó al encontrarlos a él y a MeLaan escondidos juntos en un compartimento privado, atontados por su "propia lucha".
-Finalmente, llegaron a Nueva Seran, y Wax y Steris coincidieron en que la mejor manera comenzar su investigación era atender a un baile en la casa de lady [[Kelesina Shores\|Kelesina Shores]], donde podrían sonsacar tanta información como fuese posible de la clase alta de la ciudad. Conforme llegaban a la mansión, Wax le dio una billete a un [[Hoid\|mendigo]] elocuente, que insistió en que se llevara a cambio una extraña moneda, hecha de dos metales diferentes, marcada con el dibujo de la cara de un hombre con un clavo atravesándole uno de sus ojos, y llena de símbolos que no podía leer. Separándose, los dos se mezclaron con la élite y recopilaron los rumores que pudieron, incluyendo algunos sobre un silencioso proyecto de construcción que podía involucrar alomantes, al noreste de la ciudad. Tan arisco como siempre, y rodeado por tantos experimentados mentirosos y ladrones como nunca antes, se percató de que aún tenía mucho que aprender sobre política. Con todo, recabó más información de la que había esperado, e incluso detectó que pasaba algo más con lady Kelesina de lo que realmente esta mostraba. Siendo interrumpido justo cuando iba a invitar a lady [[Felise Demoux\|Felise Demoux]], Wax tuvo que compartir un baile con [[Khriss\|Khriss]] en su lugar, que estaba emocionada por preguntarle sobre su particular combinación de habilidades feruquímicas y alománticas. Tratando de sonsacarle más información de lo que parecía adecuado, y mostrando un incómodamente alto nivel de conocimiento sobre sus poderes, Khirss aumentó las sospechas de Wax, mientras este regresaba a hacer sus propias preguntas a otros invitados.
-Dándose cuenta de que lady Kelesina estaba tratando de escaparse de la fiesta, Wax se apresuró para encontrar una salida y poder perseguirla, tratando de que nadie se fijara en que la estaba persiguiendo. Estando siempre preparada, Steris le armó con una pistola que había colado en el baile y luego creó una distracción, mediante un vial de ipecacuana. Siguiéndola con tanto cuidado como pudo, acabó alcanzándola en el interior de su mansión, donde oyó la inconfundible voz de su tío a través de la puerta de su habitación. Escuchó como Edwarn detallaba su participación en el asalto al tren del día anterior y en otros planes para obstaculizar a Wax y que este se mantuviera fuera de su camino. Entró bruscamente a través de la puerta sin ningún tipo de duda, y fue desarmado inmediatamente por su doncella, que podía quemar [[Peltre\|peltre]]. Siguiendo las órdenes de Edwarn, cuyas palabras estaban siendo emitidas a través de un raro proyector de voz que estaba en la habitación, la doncella se volvió y asesinó a Kelesina con el arma de Wax, implicándolo así a él, un visitante noble de Elendel, en el asesinato de una miembro de la élite política de Nueva Seran.
+  Wax crying with <<Steris\|Steris>> after killing <<Lessie\|Lessie>>
+#### Confronting a Memory
+Steelpushing through the night after Bleeder, Wax easily found her, changing bodies again just before she moved to escape. Finally confronting her on the [[Eastbridge\|Eastbridge]], Wax saw that Bleeder had pointed her gun at him, but she did not fire. With tears in her eyes, she pleaded with Wax to forsake Harmony and be free. Wax ignored the pain he felt, seeing that Bleeder was now wearing the face of his dead wife, Lessie. He did his best not to listen to how well Bleeder could mimic Lessie's voice and mannerisms. Wax levelled Vindication and shot her in the head with the bullet from the gun's special chamber. The bullet had been made to his request by Ranette, molded from his Pathian earring. It was designed to give Bleeder a second spike, allowing Harmony to reassert Hemalurgic control over the mad kandra.
+Bleeder screamed that she would not be controlled again. As she died in Wax's arms, having terminated her own life to prevent Harmony from returning her to his service, Bleeder begged Wax to ask Harmony why he originally sent her to protect him, back in the Roughs. Telling Wax that she loved him, she demanded to know why, if Harmony was such a wonderful, all-knowing god, he would use Wax to kill her. Too late, Wax realized that the woman he had shot was not just Bleeder, an insane murderer and Faceless Immortal who looked like Lessie; she *was* Lessie.
+In the weeks that followed, Wax bitterly grieved his wife's final death, greatly distancing himself from Harmony for keeping Bleeder's identity secret from him. Forsaking even the mists he used to cherish, Wax largely shied away from his public responsibilities, showing little interest in following up on the city intrigues Wayne, MeLaan, and Marasi had uncovered while Bleeder's plan unraveled. Offering little in the manner of resistance, Wax even agreed to postpone the wedding with Steris as he flirted with surrendering to his depression.
 
-  Surcando el aire con <<Steris\|Steris>>
-Gracias a la llegada a tiempo de MeLaan, Wax pudo abrirse paso y escapar de la mansión junto a Steris, a quien encontró esperándole detrás de un arbusto en el exterior de la casa. La atrajo hacia sí y, mediante un empujón de acero, salieron disparados hacia el cielo, a través de las brumas de la noche, que daban paso a la increíble vista del [[/wiki/Vin#Mitos y Cultura post-Catacendro]], donde compartieron un tranquilo momento de respeto mutuo y se besaron por encima de las nubes.
+### The Bands of Mourning
+>“*In the back of his noggin, he'll be relieved that I stopped the wedding. He'll figure it was me, deep in his subcontinence, and will pay for the damages—no matter what the assessor says. And he won't say anything, won't even investigate. Watch.*”
+\-Wayne speaks with Marasi[61]
 
-#### Descubriendo el arma
-Manteniéndose al margen de las autoridades locales y siguiendo su única pista conseguida en la fiesta, Wax se montó en un carruaje hacia la zona de construcción del noreste de la ciudad. Por el camino, ayudó a Marasi a probar el aparato cúbico que había cogido a los asaltantes del tren, a los que llamaban [[/wiki/Ettmetal#Usos Mec.C3.A1nicos]], puesto que parecía expandir el área de efecto de alomancia de su usuario de alguna manera. Wax, Wayne, MeLaan, y Marasi consiguieron infiltrarse en una zona de construcción, descubriendo que un enorme y anodino edificio estaba tapando lo que estaba haciendo Edwarn en Nueva Seran ––la aparente construcción de una enorme nave de guerra de madera––.
-Separándose de Marasi y MeLaan, que marcharon en busca del clavo robado de ReLuur, Wax y Wayne entraron en la nave, decididos a encontrar a su tío. Usó un catalejo que le había prestado MeLaan, y cambió su plan de imediato cuando localizó la cámara en la que tenían a Telsin retenidas. Rodearon fácilmente a los trabajadores y a los ingenieros que bloqueaban su camino, y entró sigilosamente en la habitación decidido a salvar a su hermana. Por fin reunidos, Wax se sorprendió cuando Telsin disparó brutalmente a uno de sus captores. Los años la habían cambiado tanto como, según suponía, lo habrían cambiado a él. Luchando para abrirse paso y acompañados por la generosa ayuda de burbujas de velocidad de Wayne, Wax se unió a un gran escape después de que [[Allik\|Allik]], un hombre enmascarado que Marasi había rescatado, revelase la existencia de una segunda y más pequeña nave que podía separarse de la principal y sacarlos de allí volando.
+Six months later, spurred on by a slowly growing bond with Steris and determined not to remain in the same well of despair that had tried to claim him when he lost Lessie the first time, Wax had returned to the pursuit of his constabulary duties with Wayne. When the day of his wedding with Steris arrived, Wax found himself pursued once again by a member of Harmony's kandra; this one claiming to have a matter of great importance to discuss. Rebuffing him, Wax continued on to the Survivorist church where he walked down the aisle with Steris, whose genuine tears moved him in a way he did not expect. Realizing he was still not ready to let go of Lessie's memory, Wax was blessedly spared the need for any further heartbreak when a water tower outside suddenly tipped onto the roof of the church, bathing all those in attendance and postponing the ceremony once again, much to Wax's relief.
 
->“*Siempre fuiste tan callado...tan pensativo. ¿Cómo has llegado hasta aquí? Me... Tu cara, Waxillium. Estás muy mayor.*”
-\-Telsin.[75]
+#### To New Seran
+Wax unholstered Vindication and downed a new vial of metals as he returned to Ladrian mansion later that day; the telltale clues of intrusion in his own home had quickly brought him to high alert. Discovering that this newest threat turned out to be nothing more than the same kandra as before, now seated in Wax's own study, had done little to encourage him to lower his pistol. The kandra, [[VenDell\|VenDell]], of the sixth generation, had successfully ensnared Marasi and Wayne in his appeal for assistance, but Wax believed that VenDell had done so simply as another way to entangle him into the affair, while ignoring his earlier refusal. Pouncing on Wax's curiosity, VenDell produced an [[Evanoscope\|evanoscope]], which he used to engage him in a presentation on the nature of [[Investiture\|Investiture]] and [[Identity\|Identity]], as well as the myth of the [[Bands of Mourning\|Bands of Mourning]]. Wax's patience wearing thin, VenDell explained that these evanotype images had been taken by another kandra, [[ReLuur\|ReLuur]], who was obsessed with the Bands and convinced they were Identity-less [[Metalmind\|metalminds]] which held the potential to grant anyone Metalborn powers to rival those of the [[Lord Ruler\|Lord Ruler]]. Dismissing the idea outright, Wax was shocked to see another evanotype impressed with an image of his sister, [[Telsin\|Telsin]], who was being dragged somewhere against her will. VenDell informed him that ReLuur had been accosted by the same thugs in [[New Seran\|New Seran]], where one of his spikes had been stolen. Convinced of the danger and worried for his sister, Wax agreed to help.
 
-Hicieron una breve parada para recoger a Steris, y Wax y Marasi leyeron un cuaderno que ella le había robado a Edwarn, que parecía contener la ubicación de un segundo lugar de trabajo, al sur de donde estaban. Esto corroboraba las afirmaciones de Telsin sobre que Edwarn había estado trabajando de manera obsesiva par encontrar una gran arma en el sur y prometía que esta permitiría al Grupo la capacidad de dominar toda la [[Cuenca de Elendel\|Cuenca]]. Telsin le advirtió a Wax de que su tío había partido para recuperar el arma no hacía mucho; así que estaba claro que no había mucho tiempo. El cuaderno de Marasi también incluía un mapa que mostraba un templo marcado para excavación en las montañas del sur, lo cual avivó un miedo evidente, puesto que el Grupo podría estar peligrosamente cerca de obtener los míticos Brazales de Duelo, justo después de que VenDell les hubiese advertido de su existencia en Elendel.
-Aprovechándose de su viaje, que fue más rápido, la banda llegó a las montañas mucho antes que Edwarn y sus hombres, ya que estos seguían escalando a través de la nieve. Localizaron el templo gracias al cuaderno de Marasi, y Wax se aventuró dentro, procediendo con precaución después de que encontrara los restos diseminados de antiguos cazadores de tesoros que habían estado allí antes que él. Haciendo uso de la casi-invencibilidad de MeLaan, Allik y él atravesaron lentamente el antiguo sistema de seguridad del templo, activando las trampas de forma segura, las cuales habrían matado a cualquier otro grupo de intrusos.
-Se detuvieron al encontrar una puerta inscrita con una escritura que ninguno de ellos podía descifrar, así que Wax volvió a la entrada del templo, donde Steris, Marasi y Wayne habían retenido a Edwarn a punta de pistola; su expedición acababa de llegar al templo. Edwarn afirmó conocer el secreto para abrir la puerta final del templo y amenazó a Wax, pues tenía una fuerza arrolladora de alomantes y matones rodeando el templo que no dudarían en matar a cualquiera de los miembros de su lamentable grupo a no ser de que les permitiera unirse en la búsqueda de los Brazales. Llegaron a la última cámara del templo, que no contenía los Brazales, y Wax se encontró de repente en un duelo armado con Telsin, de quien sospechaba que era un topo del Grupo. Ambos hermanos dispararon a la vez; su bala se volvió loca y falló; pero el tiro de Telsin alcanzó a Wax justo debajo del cuello. Unas cuantas balas después, este cayó a una zanja que se encontraba debajo de donde se suponía que debían haber estado los Brazales. Dejando un rastro de sangre y debilitándose más por cada segundo que pasaba, Edwarn encontró a Wax al poco tiempo, revelando que ahora era un alomante gracias a sus clavos hemalúrgicos. Edwarn activó cruelmente otra de las trampas del templo, que hizo que se colapsara el techo y este cayera aplastando el cuerpo ya herido de Wax, enterrándolo bajo una rigurosa avalancha de escombros. Aturdido, Wax se vio forzado a observar sin poder hacer nada cómo su tío se acercaba, le quitaba su pistola y pretendía rematarlo. Cuando Wayne llegó para tratar de rescatarlo y se echó a llorar al verlo, Wax utilizó su último aliento para decirle a su amigo que siguiera con su vida y continuara luchando. Al no ser capaz de aguantar aquello más tiempo, Waxillium Ladrian murió.
+>“*What is it about you that makes me want to punch you, even when you're saying something helpful?*”
+\-Wax to VenDell[62]
 
-  Conversando con <<Sazed\|Sazed>>
-#### Retorno
->“*Wax apretó las mandíbulas, incapaz de detener los temblores que se habían apoderado de él. Volvió a revivirlo todo: sostenerla en sus brazos mientras agonizaba. Saber que la había asesinado. El odio hervía en su seno. Un odio dirigido contra Armonía. Contra el mundo entero. Y también... sí. Contra sí mismo.*”
-\-Wax reflexionando sobre la muerte de Lessie.[80]
+With real proof that his sister was alive for the first time in years, Wax knew he was being manipulated into doing Harmony's bidding again; though this time, he endeavored to step in with his eyes wide open. Wax categorically rejected VenDell's extended gifting of another Pathian earring. He would do this on his own, without Harmony's voice in his ear.
+Joined on the train to New Seran by Steris, who was becoming increasingly familiar and useful company, Wax soon found it difficult to interrupt her intense reading of a book. He needed to mine her keen knowledge of local politics and slake his curiosity after he noticed increased protests of Elendel's tariffs, visible out the windows as they passed through the outer cities. Distracting her further, Wax was delighted to finally catch a glimpse of what had earlier held Steris' attention so doggedly--she had been reading a book on basic human reproduction. Mortified, Steris attempted to change the subject, but the discovery only added to Wax's growing affection for the woman.
 
-Al instante, Wax se encontraba ante Armonía. Estando cara a cara con el dios que había rechazado durante tanto tiempo, Wax no lo evitó; sino que comenzó a criticarle por su inacción, que había llevado a que mucha gente sufriera. Le reprendió por haberle usado a él durante todos estos años con tan poca consideración. Le exigió una explicación por lo que le había ocurrido a Lessie.Esta escena recuerda al encuentro de Kelsier con Conservación en *Nacidos de la bruma:Historia Secreta*. Juntos, Wax y Armonía filosofaron sobre la naturaleza de la causa y efecto. Armonía le explicó a Wax pacientemente que su trabajo iba más allá de lo que él comprendía. La deidad expandió su visión del mundo––enseñándole una representación del planeta y permitiéndole echar un pequeño vistazo al gran conflicto en el que estaba involucrado en ese momento––. Permitiéndole elegir; Armonía le ofreció la oportunidad de tener "otra aventura", cosa que aceptó. Entonces abrió sus ojos y gritó, retirando los escombros de su cuerpo tan solo con la pura fuerza del acero. Su cuerpo se curó instantáneamente, Wax se fijó en que Marasi le había colocado algo como parecido a una punta de lanza enorme en sus manos: los verdaderos Brazales de Duelo, una mente de metal sin vínculo de poderes prácticamente ilimitados.
-Al decantar la extremadamente potente mente de metal que eran las puntas de lanza, Wax estalló, atravesando los confines del templo y saliendo al aire libre, dejando tras de sí una estela de bruma. Siendo capaz de sentir y de recurrir a innumerables fuentes de metal en los alrededores, Wax sabía perfectamente que podría destrozar la nave de escape de Edwarn y Telsin sin esforzarse apenas. Controlándose a sí mismo, confrontó a su tío por última vez, y escogió apresarlo sin hacer uso de los peligrosos poderes de la punta de lanza.
-Wax regresó finalmente a Elendel, donde puso los Brazales en manos de los kandra. Dispuesto a no retrasarlo más y preparado para pasar página en su vida, convenció a Steris para casarse con él en una ceremonia discreta, entusiasmado por el sentimiento de amor que había brotado entre ambos. En su luna de miel, Wax se despertó repentinamente por el sonido de una explosión a lo lejos. Mientras deambulaba por su habitación, se percató de que estaba sosteniendo, sin darse cuenta, la moneda de dos metales que el vagabundo le había dado antes de la fiesta de Nueva Seran. Al mirar detenidamente la moneda como si fuese la primera vez, Wax decidió probar a decantarla como a una mente de metal, lo que despertó un recuerdo almacenado en cobre que parecía pertenecer al misterioso [[Soberano\|Soberano]].
+  Looking over the house finances with Steris on the train
+Feeling the train car suddenly slowing, Wax sprang into action. Guessing rightly that robbers had disconnected their car, he leaped to the tracks below and then tapped his metalmind to greatly increase his weight, which allowed him to Steelpush the train car back down the tracks fast enough to reconnect. Wax pushed himself back onto the train, which was already being boarded by a large group of gunmen on horseback. Leaving Steris in Marasi's care, Wax fought his way through the train, eventually squaring off against a huge Metalborn brute, whose large bulk turned out to be a great target for Ranette's latest gift to Wax's arsenal--an Allomantically-triggered hook device which proved particularly well suited to throwing people from a train.
+After securing the train and allowing a doctor to tend to his wounds at [[Ironstand\|Ironstand]] station, Wax began to worry that the still missing Wayne might have been seriously hurt or incapacitated in the battle. Wax's concern soon melted to annoyance when his long search of the train turned up both Wayne and MeLaan who were holed up together in a private compartment, groggy from a tussle of their own.
+Eventually arriving in New Seran, Wax and Steris agreed that the best way to begin their investigation was to attend a ball at the home of Lady [[Kelesina Shores\|Kelesina Shores]], where they would be sure to scrape as much information as possible from the city's upper crust. As they approached the mansion, Wax gave a bank note to a well spoken [[Hoid\|beggar]], who insisted he take in exchange a strange coin, made of two different metals, branded with the face of a man spiked through one eye, and covered in symbols that Wax could not read. Separating, the two mingled among the elite and gathered what rumors they could, including some regarding a hushed building project that may have involved Allomancers, north east of the city. Gruff around the edges as ever, and surrounded by as practiced liars and thieves as he had ever faced before, Wax knew he still had a lot to learn about politics. Still, he gained more information than he expected, even detecting that there was more going on with Lady Kelesina than she let on. Interrupted just as he was about to extend an invitation to Lady [[Felise Demoux\|Felise Demoux]], Wax instead shared a dance with [[Khriss\|Khriss]], who was excited to question Wax extensively about his particular pairing of Feruchemical and Allomantic abilities. Pushing for more information than seemed proper, and displaying an uncomfortably high level of knowledge of his powers, Khriss increased Wax's already heavy suspicions, as he returned to asking other guests of the party questions of his own.
+Sensing that Lady Kelesina was making a quick escape from the party, Wax scrambled to find a way to exit in pursuit, without alerting anyone that he was following. Ever prepared, Steris armed Wax with a pistol she had snuck into the dance and then produced the requisite distraction, from the bottom of a vial of ipecac. Following as carefully as possible, Wax caught up to Kelesina deep in her mansion, where he overheard the unmistakable voice of his uncle through the door to her bedroom. Wax listened as Edwarn detailed his involvement in both the train robbery from the day before as well as further plans to stymie Wax and keep him off his trail. Bursting through the door without any hesitation, Wax was immediately disarmed by Kelesina's [[Pewter\|pewter]]-burning steward. Beckoned by Edwarn, whose words were actually emitted from an odd voice projector sitting in the room, the steward turned and murdered Kelesina with Wax's gun, tidily implicating him, a visiting noble from Elendel, in the assassination of one of New Seran's political elite.
 
-### Senador alguacil de los Áridos
-Poco después de los sucesos del sur, se retiró como vigilante y se convirtió en senador para intentar provocar un cambio. También se casó con Steris, y tuvo dos hijos, [[Maxillium Ladrian\| Maxillium]] y [[Tindwyl Ladrian\|Tindwyl Ladrian]].
-Al enterarse del [[Ley de la Supremac%C3%ADa de Elendel\|Ley de la Supremacía de Elendel]], comenzó a recorrer las ciudades exteriores y los Áridos en un intento de recabar apoyos, tanto del pueblo como de los gobernadores y otros senadores. También investigó la corrupción y los votos vendidos en el senado, para intentar revelarla y paralizar la votación. Al final fracasó, y el proyecto de ley fue aprobado.
-Más tarde, experimentó con trellium (que le proporcionó Marasim tomada del cadaver de un [[Ciclo\|ciclo]] que había matado en una operación policial ese mismo día) y armonium, y descubrió la interacción explosiva entre ellos. Esto le llenó de pánico ante la idea de que el Grupo ya lo hubiera descubierto antes que él.
+  Flying through the air with <<Steris\|Steris>>
+With the timely arrival of MeLaan, Wax fought his way out of the mansion and escaped with Steris, who he found waiting for him behind a shrub outside. Taking her close, Wax Steelpushed their way straight up into the sky and through the evening mists, which gave way to the breathtaking view of [[/wiki/Vin#Post-Catacendre Myths and Culture]], where they shared a quiet moment of mutual respect and kissed above the clouds.
 
-## Relaciones
-  Wax y Wayne
+#### Uncovering the Weapon
+Staying ahead of the local authorities and following up on their only lead from the party, Wax rode a stagecoach toward the construction site to the northeast. Along the way, he helped Marasi field test the cube device she had taken from the train robbers, which they took to calling an [[Primer cube\|Allomantic grenade]] as it seemed to somehow extend the area of effect of its user's Allomancy. Wax, Wayne, MeLaan, and Marasi successfully infiltrated the construction site, discovering that a large, nondescript building was actually a facade covering up Edwarn's real effort in New Seran--the apparent construction of a huge, wooden warship.
+Splitting from Marasi and MeLaan, who went in search of ReLuur's stolen spike, Wax and Wayne entered the warship, determined to locate Edwarn himself. Using a spyglass borrowed from MeLaan, Wax immediately changed their plan when he located the chamber where Telsin was being held. Easily bypassing the workmen and engineers blocking his path, Wax quietly entered the room dead set on saving his sister. Finally reunited, Wax was surprised when Telsin immediately took brutal retribution on one of her captors. The years had really changed her just as, he supposed, they had changed him. Fighting their way out, accompanied by a generous helping of speed bubble assistance from Wayne, Wax joined in a grand escape after [[Allik\|Allik]], a masked man that Marasi had rescued, revealed the existence of a second, smaller ship which could detach from the main vessel and lift into the sky.
+
+>“*You were always the quiet one. The thoughtful one. How did you get here? I... Your face, Waxillium. You're old.*”
+\-Telsin[75]
+
+Briefly stopping their ship to pick up Steris, Wax and Marasi pored over a notebook that she stole from Edwarn, which seemed to show the location of a second work site, south of their position. This corroborated Telsin's claims that Edwarn had been obsessively working to find a great weapon in the south that promised to give the Set the ability to dominate the whole of the [[Elendel Basin\|Basin]]. Telsin warned Wax that their uncle had set off to retrieve the weapon not long ago; it was clear that there wasn't much time. Marasi's notebook also included a map showing a temple marked for excavation in the peaks of the southern mountains, which reignited the palpable fear that the Set could be dangerously close to obtaining the fabled Bands of Mourning, just as VenDell had warned back in Elendel.
+Taking advantage of their more efficient form of travel, Wax's group arrived on the mountain peaks soundly before Edwarn and his men could complete their slow climb through the snow. Locating the temple from Marasi's notebook, Wax ventured inside, proceeding with caution after he encountered the scattered remains of treasure hunters who had been there before him. Making grand use of MeLaan's nigh-invincibility, Wax and Allik worked slowly through the temple's ancient security system, safely triggering traps that would have spelled certain death for any other group of trespassers.
+Halted by a door which was inscribed with writing that none of them could decipher, Wax returned to the entrance of the temple, where Steris, Marasi, and Wayne held Edwarn at gunpoint; his expedition had arrived at the temple just before Wax's return. Edwarn claimed to know the secret to opening the temple's final door and threatened Wax that he had an overwhelming force of Allomancers and goons surrounding the temple who would not hesitate to kill every member of Wax's pitiful group, unless he was allowed to join them in collecting the Bands. When the temple's last chamber proved to be missing the Bands, Wax suddenly found himself in an armed standoff with Telsin, who he had rightly suspected to be a mole for the Set. Both siblings fired at once; Wax's bullet went wild and missed, but Telsin's shot hit Wax just below the neck. A number of bullets later, Wax fell into a pit below the Bands' supposed resting chamber. Trailing blood and weakening by the moment, Wax was soon tracked down by Edwarn, now fully revealed as an Allomancer, by way Hemalurgic spikes. Edwarn cruelly triggered another of the temple's traps, which collapsed the roof and crushed Wax's already wounded body under a punishing avalanche of rubble. In a daze, Wax was forced to watch helplessly as his uncle approached, unholstering his pistol and intent on finishing him off. When Wayne arrived to attempt his rescue and broke down at the sight of him, Wax used his remaining breath to tell his friend to go on living and keep fighting. No longer able to hold on, Waxillium Ladrian died.
+
+  Speaking with <<Sazed\|Sazed>>
+#### Return
+>“*Wax clenched his jaw, but couldn't force down the trembling that took him. He lived it again, holding her as she died. Knowing he'd killed her. That hatred seethed inside of him. Hatred for Harmony. Hatred for the world. And yes. Hatred for himself.*”
+\-Wax reflects on Lessie's death.[80]
+
+Immediately, Wax found himself in the presence of Harmony. Face to face with the god he had shunned for so long, Wax did not shirk away; instead, Wax laid into Harmony for his inaction that had led to so many people suffering. He chastised him for using Wax all these years with what appeared to be so little regard. He demanded an explanation for what happened to Lessie. This scene is reminiscent of Kelsier's meeting with Preservation in Mistborn: Secret History. Together, Wax and Harmony philosophized on the nature of cause and effect. Harmony patiently explained that his workings were larger in scope than Wax could currently understand. He expanded Wax's worldview-- showing him a representation of the planet and allowing him a small glimpse of the greater conflict in which he was currently embroiled. Allowing Wax to choose, Harmony offered him a chance at "another adventure," which Wax accepted. Wax opened his eyes and screamed, throwing the rubble from his body with the pure strength of steel itself. His body instantaneously healed, Wax focused his view on Marasi who had placed something like an oversized spearhead in his hand: the real Bands of Mourning, an unkeyed metalmind of nearly limitless power.
+Tapping the enormously potent metalmind inside the spearhead, Wax burst through the confines of the temple and out into the open air, trailing mist in his wake. Able to sense and call upon what seemed to be endless trace metals in the surrounding area, Wax knew that he could crush Edwarn and Telsin's fleeing ship with little effort. Bringing himself under control, Wax confronted his uncle for the final time, choosing to subdue him without the use of the spearhead's dangerous power.
+Wax finally returned to Elendel, where he gave over the spearhead into the hands of the kandra. No longer willing to put it off, and ready to move on with his life, Wax convinced Steris to marry him in a quiet ceremony, highlighted by their newly blossomed love for each other. On their honeymoon, Wax was suddenly awakened by the sound of an explosion in the distance. Wandering their suite, Wax found himself absently handling the dual metal coin that the beggar had given him, before the party in New Seran. Looking closely at the coin for what seemed like the first time, Wax hesitantly tested tapping it like a metalmind, which sprang to life a copper-stored memory, seemingly belonging to the mysterious [[Sovereign\|Sovereign]].
+
+### Lawman Senator of the Roughs
+Shortly after the events in the south, he retired as a lawman and became a senator in order to try to bring about change. He also settled down with Steris, and had two children, [[Maxillium Ladrian\| Maxillium]] and [[Tindwyl Ladrian\|Tindwyl Ladrian]].
+Upon hearing about the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]], he began to go across the Outer cities and roughs in an attempt to gather support, from both the people, governors, and other senators. He also looked for the corruption and sold votes in the senate, so that he could attempt to reveal it to stall the vote. He ultimately failed, with the Bill passing.
+Later, he was experimenting with trellium (supplied to him by Marasi, taken as a spike from the corpse of a [[Cycle\|Cycle]] she had killed in a constable operation that day) and harmonium, and discovered their explosive interaction with each other. This filled him with panic over the idea of the Set having already discovered it before him.
+
+## Relationships
+  Wax with Wayne
 ### Lessie
-Wax mantuvo una relación amorosa y se casó informalmente con una mujer vigilante llamada [[Lessie\|Lessie]] en los Áridos, pero murió de un disparo tras ser retenida como rehén por el infame criminal [[Sangriento Tan\|Sangriento Tan]]. Sin que Wax lo supiera, era la kandra Paalm, enviada para protegerle mientras estaba en los Áridos. Depués de que se quitara uno de sus clavos hemalúrgicos, Wax disparó a Paalm con una bala cargada hemalúrgicamente, permitiendo a Armonía tomar el control de ella de nuevo.
+Wax was romantically involved with and informally married to a female lawkeeper named [[Lessie\|Lessie]] out in the Roughs, but she was shot after being held hostage by the infamous criminal [[Bloody Tan\|Bloody Tan]]. Unbeknownst to Wax, she was the kandra Paalm, sent to protect Wax while he was in the Roughs. After she had removed one of her spikes, Wax shot Paalm with a Hemalurgically charged bullet, allowing Harmony to take control of her.
 
 ### Wayne
-El mejor amigo de Wax es [[Wayne\|Wayne]], un compañero vigilante de los Áridos. Wax ayudó a Wayne a cambiar su vida después de que Wayne accidentalmente disparase y matase a un hombre en un chapucero intento de robo. Acompañará a Wax en sus aventuras, y es el aliado en quien más confía este último.
+Wax's best friend is [[Wayne\|Wayne]], a fellow lawman from the Roughs. Wax helped Wayne turn his life around after Wayne accidentally shot and killed a man in a botched robbery attempt. He accompanies Wax on his adventures, and is his most trusted ally.
 
-  Wax con Steris
+  Wax with Steris
 ### Steris Harms
-Tras regresar a Elendel, Wax acepta, a regañadientes, un acuerdo matrimonial con [[Steris Harms\|Steris Harms]], para beneficiar así a ambas casas. Así es como conoce a [[Marasi\|Marasi]], la hermanastra ilegítima de Steris. Podría parecer que Wax y Marasi manifestarían una relación romántica entre ellos dos, sin embargo, esto nunca llega a ocurrir. Con el tiempo, se quedaría fascinado por las idiosincrasias de [[Steris\|Steris]], haciendo que ambos se enamorasen y se acabaran casando por motivos emocionales.
+After returning to Elendel, Wax reluctantly enters into a marriage contract with [[Steris Harms\|Steris Harms]], in order to benefit both their houses. It is here that Wax meets [[Marasi\|Marasi]], Steris' illegitimate half-sister. It seemed like Wax and Marasi would develop a romantic relationship, however, this does not come to pass. Eventually, he becomes fascinated by the idiosyncrasies of [[Steris\|Steris]], leading them to fall in love and marry for emotional reasons.
 
-### Hijos
-Waxillium y Steris tienen dos hijos, [[Maxillium Ladrian\|Maxillium Ladrian]] y [[Tindwyl Ladrian\|Tindwyl Ladrian]]. A Wax le gusta volar con Maxillium, y este le ayudó en la transición de vigilante a senador y padre.
+### Children
+Waxillium and Steris have two children, [[Maxillium Ladrian\|Maxillium Ladrian]] and [[Tindwyl Ladrian\|Tindwyl Ladrian]]. Wax enjoys flying with Maxillium, and Maxillium helped Wax transition from lawman to Senator and father.
 
 ### Sazed
-Waxillium guarda un resentimiento personal hacia Armonía. Aunque está de acuerdo con la Esquirla sobre que no hubiese querido que otro matara a Paalm o que ella hubiese continuado sufriendo por el clavo de [[Trellium\|trellium]] que usaba, está resentido por el hecho de que no sabía que la kandra era su mujer hasta que esta estaba muriéndose.
+Waxillium nurses a personal grudge against Harmony. Although he agrees with the Shard that he wouldn't have wanted someone else to have killed Paalm or for her to have had to continue to suffer the [[Trellium\|trellium]] spike that she was using, he resents the fact that he hadn't known that the kandra was his wife until she was dying.
 
 ### Bavadin
-Wax odia a [[Autonom%C3%ADa\|Autonomía]] por la amenaza que supone para Scadrial, dedicándose así en cuerpo y alma a parar los planes tanto de ella como del Grupo.
-Bavadin ama a Wax, viéndolo como una obra maestra que refleja perfectamente sus ideales, lamentando que Armonía llegase a él primero. Por esto, ella le cuestiona que Scadrial merezca que se le deje en paz.
+Wax hates [[Autonomy\|Autonomy]] for the threat that she poses to all of Scadrial, and devotes everything to stopping her and the Set.
+Bavadin loves Wax, seeing him as a masterpiece that perfectly reflects her ideals, regretting that Harmony got to him first. Due to this, she challenged him that Scadrial deserves to be left alone.
 
 ### Telsin
-Siempre ha tenido una relación bastante antagónica con su hermana, que se agravó cuando descubrió que ella estaba en el Grupo.
+He has always had a rather antagonistic relationship with his sister, which was only exacerbated by his discovery that she was in the Set.
 
-## Citas
->“*Lo descubrí primero en sus ojos, ese afán... ese fuego. Y después lo he descubierto también dentro de mí. Es una llama, Waxillium, y su pasión es contagiosa. Cuando estoy aquí, cuando estoy con él... ardo, Marasi. Es maravilloso.*”
-\-Steris.[87]
-
-
->“*La ley existe para impedirnos estropear la capacidad de explorar de los demás. Sin ella, no hay libertad. Por eso soy lo que soy.*”
-\-Wax.[64]
+## Quotes
+>“*I saw it in his eyes, first. That hunger, that fire. And then I found it in myself. He's a flame, Waxillium is, and fire can be shared. When I'm out here, when I'm with him, I burn, Marasi. It's wonderful.*”
+\-Steris[87]
 
 
->“*Hace ya casi un año que nos conocemos, lord Waxillium. Puedo aceptar lo que eres, pero no soy ninguna ilusa. En nuestra boda va a pasar algo. Irrumpirá un villano pegando tiros a diestro y siniestro, o descubriremos que alguien ha plantado explosivos en el altar, o quizá surja un asesino de entre las sombras, si previo aviso, para atentar contra tu vida. Algo, lo que sea.*”
-\-Steris.[46]
+>“*The law is there to keep us from ruining everyone else's ability to explore. Without law, there's no freedom. That's why I am what I am.*”
+\-Wax[64]
 
 
->“*Te equivocas sobre mí... No soy las manos de Armonía. Soy Su espada.*”
-\-Wax confrontando a Sangradora.[58]
+>“*I have known you for an entire year now, Lord Waxillium. I can accept you for who you are, but I am under no illusions. Something will happen at our wedding. A villain will burst in, guns firing. Or we'll discover explosives in the altar. Or Father Bin will inexplicably turn out to be an old enemy and attempt to murder you instead of performing the ceremony. It will happen.*”
+\-Steris[46]
 
 
->“*Steris, creo que todos somos un poco así. Llevados de un lado a otro por el deber, o la sociedad, o el mismo Dios... Somos meros pasajeros, incluso en el viaje de nuestras vidas. Pero, de vez en cuando, nos enfrentamos a una elección. Una decisión importante. Quizá no seamos capaces de escoger lo que nos pase, ni dónde vamos a detenernos, pero nos está dado apuntarnos a nosotros mismos en una dirección en particular.*”
+>“*You're wrong about me... I'm not Harmony's hands. I'm His sword.*”
+\-Wax confronts Bleeder[58]
+
+
+>“*Steris, I think we're all like that. Shuffled from place to place by duty, or society, or God Himself. It seems like we're just along for the ride, even in our own lives. But once in a while, we do face a choice. A real one. We may not be able to choose what happens to us, or where we'll stop, but we point ourselves in a direction.*”
 \-Wax[11]
 
 
->“*He hecho algo para ayudar. Te he enviado a ti.*”
-\-Harmony hablando con Wax[42]
+>“*I have done something to help. I sent you.*”
+\-Harmony speaks to Wax[42]
 
 
-## Curiosidades
-Brandon tenía pensado, originalmente, que la habilidad instintiva de Wax para crear una burbuja de acero fuese el resultado de ser un [[Sabio\|sabio]] en la combinación de sus poderes alománticos y feruquímicos. Abandonó esa idea cuando se percató de que Wax no mostraba ninguna sintomatología que mostraría un sabio.
-Wax es uno de los tres chocadores que han nacido a lo largo de la historia.
-Wax prefiere whiskey [[Stagin\|Stagin]] en sus viales alománticos, creyendo que los alomantes que no lo usan están perdiendo una oportunidad de oro. Steris prefiere emplear aceite de hígado de bacalao en los viales que ella le prepara.
->“*El whiskey es perjudicial para ti, lord Waxillium. Una mujer **debe** velar por la salud de su esposo.*”
-\-Steris.[65]
+## Trivia
+Brandon originally intended Wax's instinctive ability to create a steel bubble to be a result of him being a [[Savant\|savant]] in the combination of his Allomantic and Feruchemical powers. He has since backed up on that, as he realized Wax wasn't showing any savant-like consequences.
+Wax is one of only three Crashers ever born.
+Wax prefers [[Stagin\|Stagin's]] whiskey in his Allomantic vials, believing that Allomancers who do not do so are missing a golden opportunity. Steris prefers to use cod-liver oil in the vials that she prepares for Wax.
+>“*Whiskey is bad for you, Lord Waxillium. A wife **must** look out for her husband's health.*”
+\-Steris[65]
 
 
-Wax ha recurrido a las brumas en algún momento.
-Wax ha estado involucrado en más de diecisiete explosiones.
-## Notas
-|Antecesor  **[[Edwarn Ladrian\|Edwarn]]**|**jefe de la [[Casa Ladrian\|Casa Ladrian]]** |Sucesor  ***En posesión***|
-|-|-|
+Wax has drawn upon the mists at some point.
+Wax has been involved in more than seventeen explosions.
 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**| · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-
-
-https://es.coppermind.net/wiki/Asinthew
+https://coppermind.net/wiki/Asinthew

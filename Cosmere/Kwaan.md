@@ -1,103 +1,79 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kwaan**|
 |-|-|
-|**Familia**|
-|**Parientes**|[[Rashek\|Rashek]]|
-|**Fallecido**|c. 0 [[Imperio Final\|IF]]|
-|**Capacidades**|[[Feruquimia\|Feruquimista]]|
-|**Títulos**|El Anunciador|
-|**Grupo**|[[Forjamundos\|Forjamundos]]|
-|**Era**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]]|
-|**Nacionalidad**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Relatives**|[[Rashek\|Rashek]]|
+|**Died**|c. 0 [[Final Empire\|FE]]|
+|**Abilities**|[[Feruchemy\|Feruchemist]]|
+|**Titles**|The Announcer|
+|**Groups**|[[Worldbringers\|Worldbringers]]|
+|**Era**|[[Classical Scadrial\|Classical Scadrial]]|
+|**Nationality**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Me llamo Kwaan. Filósofo, erudito, traidor. Soy quien descubrió a Alendi y quien lo proclamó Héroe de las Eras por primera vez. Soy el que dio comienzo a todo esto.*”
-\-De la inscripción de Kwaan[3]
-
-
-**Kwaan** era un [[Forjamundos\|forjamundos]] de [[Terris\|Terris]] anterior al [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Fue la primera persona que creyó que [[Alendi\|Alendi]] era el profetizado [[H%C3%A9roe de las Eras\|Héroe de las Eras]]. Más tarde se dio cuenta de que estaba equivocado y reclutó a su sobrino [[Rashek\|Rashek]] para impedir que Alendi asumiera el poder del [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]] y liberara a una maldad desconocida ([[Ruina\|Ruina]]). Finalmente, Rashek asumió él mismo el poder y se convirtió en el lord Legislador, alterando el planeta y estableciendo el [[Imperio Final\|Imperio Final]]. Así pues, las acciones de Kwaan tuvieron un efecto significativo sobre Scadrial y el [[Cosmere\|Cosmere]] durante más de un milenio. Antes de su muerte, Kwaan inscribió una breve historia de sus hazañas en una placa de [[Acero\|acero]] que fue descubierta por [[Sazed\|Sazed]]; esta inscripción fue fundamental para que la [[Banda de Kelsier\|banda de Kelsier]] se diera cuenta del alcance de la interferencia de Ruina en sus acciones.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Proclamaci.C3.B3n del H.C3.A9roe de las Eras]] 
-3. [[#Retractaci.C3.B3n]] 
-3. [[#Reclutamiento de Rashek]] 
-3. [[#.C3.9Altimos d.C3.ADas y legado]] 
+>“*My name is Kwaan. Philosopher, scholar, traitor. I am the one who discovered Alendi, and I am the one who first proclaimed him to be the Hero of Ages. I am the one who started this all.*”
+\-From Kwaan's inscription[3]
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+**Kwaan** was a [[Worldbringer\|Worldbringer]] of [[Terris\|Terris]] prior to the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He was the first person to believe that [[Alendi\|Alendi]] was the prophesied [[Hero of Ages\|Hero of Ages]]. He later realized that he was incorrect and recruited his nephew [[Rashek\|Rashek]] to prevent Alendi from taking up the power of the [[Well of Ascension\|Well of Ascension]] and freeing an unknown evil ([[Ruin\|Ruin]]). Rashek ultimately took up the power himself and became known as the Lord Ruler, altering the planet and establishing the [[Final Empire\|Final Empire]]. Kwaan's actions therefore had a significant effect on Scadrial and the greater [[Cosmere\|cosmere]] for more than a millenium. Before his death, Kwaan inscribed a brief history of his exploits on a [[Steel\|steel]] plate that was discovered by [[Sazed\|Sazed]]; this inscription was critical to [[Kelsier's crew\|Kelsier's crew]] realizing the extent of Ruin's interference in their actions.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Proclaiming the Hero of Ages]] 
+3. [[#Recanting]] 
+3. [[#Recruiting Rashek]] 
+3. [[#Final Days and Legacy]] 
 
 
-## Apariencia y personalidad
->“*Kwaan y yo nos conocimos por casualidad... aunque supongo que él diría que fue la «providencia». He conocido a muchos otros filósofos terrisanos desde aquel día. Son, cada uno de ellos, hombres de gran sabiduría y sorprendente sagacidad. Hombres de una importancia casi palpable. No es así Kwaan.*”
-\-Del diario de Alendi[8]
-
-Según el [[Diario de Alendi\|diario de Alendi]], Kwaan no era como los demás eruditos y filósofos de Terris. No era un erudito religioso, ni irradiaba un aire de gran sabiduría. En cambio, tenía muchos intereses que a Alendi le parecían ridículos, y se interesaba especialmente por la naturaleza. Era increíblemente persistente en sus investigaciones, y tenía tendencia a divagar.
-
-## Atributos y habilidades
-Como la mayoría de los forjamundos, Kwaan era presumiblemente un [[Feruquimista\|feruquimista]] completo, capaz de utilizar todas las habilidades feruquímicas. También parecía tener  y podía memorizar páginas completas con palabras sin utilizar una [[Mentecobre\|mentecobre]]. Es posible que su memoria aumentara mágicamente.
-Durante el primer encuentro de Alendi con Kwaan, el forjamundos intentaba averiguar si los árboles podían pensar. Es probable que esto se deba a que Kwaan y otros terrisanos antiguos tenían algún conocimiento de la [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]], y puede que estuviera investigando si los árboles tenían o no un [[Reino Cognitivo\|aspecto cognitivo]].
-Kwaan utilizaba patrones de habla propios de Terris que se reflejan en sus escritos.
-
-## Historia
-Como forjamundos, el trabajo y la investigación de Kwaan se centraron en la naturaleza, un tema que la mayoría de sus colegas consideraban "inadecuado" para alguien de su posición. Pasaba mucho tiempo en la gran biblioteca de [[Khlennium\|Khlennium]].
-
-### Proclamación del Héroe de las Eras
-Kwaan y Alendi se conocieron por casualidad en la biblioteca khlenni. Alendi había abandonado su ciudad natal para buscar una vida de indistinción, pero Kwaan se dio cuenta de su ingenio y sintió que inspiraba respeto, a pesar de su juventud. Pronto entabló amistad con él y lo contrató como ayudante durante al menos unos meses.
-En algún momento, Alendi se convirtió en rey de Khlennium, posiblemente casándose con la hija del rey anterior. Bajo la creciente amenaza de [[La Profundidad\|la Profundidad]], Alendi unió varias naciones (incluida Terris) (algunas mediante la diplomacia y otras mediante acciones militares). Salvo algunos disidentes, Alendi consiguió crear una unidad general en Scadrial bajo el reinado de Khlennium. A medida que crecían la fama y el poder de Alendi, Kwaan empezó a convencerse de que encajaba en las profecías de Terris sobre el Héroe de las Eras, también conocido como la Anticipación. Al principio, los demás forjamundos despreciaron las afirmaciones de Kwaan. Sin embargo, estaba decidido a validar su teoría y decidió viajar con Alendi y documentar sus viajes. Alendi, que estaba bajo la influencia de Ruina, alimentó rumores sobre sí mismo para persuadir al mundo de su causa, mientras Ruina alteraba ligeramente las profecías para adaptarlas a Alendi. Con el tiempo, los demás forjamundos se convencieron de que Alendi debía ser el Héroe de las Eras.
-
-### Retractación
->“*Alendi no fue nunca el Héroe de las Eras. En el mejor de los casos, he exagerado sus virtudes, creando un héroe donde no había ninguno. En el peor, me temo que se ha corrompido todo aquello en lo que creemos.*”
-\-De la inscripción de Kwaan[32]
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-El descubrimiento de Alendi por parte de Kwaan le había granjeado renombre entre los forjamundos, y se dejó llevar por la idea de que él era el Anunciador del héroe predicho en las profecías. Sin embargo, cuando los demás forjamundos empezaron a coincidir con su teoría sobre Alendi, se dio cuenta de que algo iba mal. Creía que Alendi quizá encajaba demasiado perfectamente en las profecías, y que su propio deseo de reconocimiento le había hecho exagerar las virtudes de Alendi o dar saltos en la lógica para cumplir todas las señales de que el Héroe de las Eras había llegado. Además, su memoria eidética le permitía recordar las profecías sin recurrir a sus mentes de cobre (que podían ser manipuladas por Ruina) y empezó a notar cambios en las profecías citadas por los otros forjamundos que sólo podían deberse a la intromisión de una fuerza externa.
-Al principio, el orgullo de Kwaan no le permitió llevar esta información a los demás forjamundos. Denunció públicamente a Alendi ante el [[C%C3%B3nclave de los forjamundos\|Cónclave de los forjamundos]], pero para entonces ya era demasiado tarde para detener los acontecimientos que estaban en marcha. Los demás siguieron predicando las virtudes de Alendi y desestimaron las preocupaciones de Kwaan, calificándolas de locura. Alendi se había rodeado de nuevos consejeros que le decían lo que quería oír. El repentino cambio de actitud de Kwaan hirió y confundió a Alendi, que lo veía como una figura paterna. Alendi consideró la posibilidad de hacer ejecutar a Kwaan, pero no hizo grandes esfuerzos por localizarlo, ya que estaba centrado en su viaje al [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]]. Kwaan sabía que Alendi era despiadado y esperaba ser ejecutado después de que Alendi visitara el Pozo.
+## Appearance and Personality
+>“*Kwaan and I met by happenstance—though, I suppose, he would use the word "providence." I have met many other Terris philosophers since that day. They are, every one, men of great wisdom and ponderous sagaciousness. Men with an almost palpable importance. Not so Kwaan.*”
+\-From Alendi's logbook[8]
 
-### Reclutamiento de Rashek
-Cuando Kwaan se dio cuenta de que una fuerza misteriosa influía en Scadrial, llegó a creer que algo destructivo estaba aprisionado en el Pozo de la Ascensión. Seguía creyendo que Alendi era un buen hombre, y que si tomaba el poder del Pozo lo soltaría, liberando a lo que estuviera atrapado dentro. Se trataba de una deducción impresionante, ya que Ruina había sido aprisionada en el Pozo por [[Conservaci%C3%B3n\|Conservación]] cuando se creó la vida en Scadrial, y podría haber sido liberada si Alendi soltaba el poder.
-Como último recurso, Kwaan reclutó a su joven sobrino [[Rashek\|Rashek]] para que se hiciera contratar como uno de los guías de Alendi por las [[Monta%C3%B1as de Terris\|montañas de Terris]]. Así, impediría que Alendi llegara al Pozo por todos los medios, incluido el asesinato. Rashek aceptó de buen grado este encargo porque odiaba que la nación terrisana hubiera sido anexionada por Khlennium; también creía que sólo un terrisano podía ser el verdadero Héroe de las Eras. Finalmente, Rashek mató a Alendi y asumió el poder, realizando numerosos cambios en el mundo y en sí mismo, y gobernando el Imperio Final como lord Legislador durante mil años.
+According to [[Alendi's logbook\|Alendi's logbook]], Kwaan was unlike other Terris scholars and philosophers. He was not a religious scholar, nor did he radiate an air of great wisdom. Instead, he had many interests that seemed ridiculous to Alendi, and he was particularly interested in nature. He was incredibly persistent in his research, and he was prone to rambling.
 
-### Últimos días y legado
->“*Escribo estas palabras en acero, pues todo lo que no esté grabado en metal es indigno de confianza.*”
-\-De la inscripción de Kwaan[51]
+## Attributes and Abilities
+Like most Worldbringers, Kwaan was presumably a full [[Feruchemist\|Feruchemist]], able to use all of the Feruchemical abilities. He also seemed to have an  and could memorize pages of words without using a [[Coppermind\|coppermind]]. It is possible that his memory was magically enhanced.
+During Alendi's first encounter with Kwaan, the Worldbringer was trying to figure out whether trees could think. This is likely because Kwaan and other ancient Terrismen had some awareness of [[Realmatic Theory\|Realmatic Theory]], and he may have been investigating whether or not trees had a [[Cognitive Realm\|Cognitive aspect]].
+Kwaan used uniquely Terris speech patterns that are reflected in his writing.
 
+## History
+As a Worldbringer, Kwaan's work and research focused on nature, a subject that most of his colleagues found "unsuitable" for someone in his position. He spent a lot of time in the great library of [[Khlennium\|Khlennium]].
 
-Poco antes de que Alendi y Rashek viajaran al pozo, Kwaan creó una [[Inscripci%C3%B3n de Kwaan\|inscripción en acero]] en la que describía sus descubrimientos y se disculpaba por su papel en los acontecimientos de su época, sabiendo que Ruina no podía alterar el metal.
-Durante la [[Ascensi%C3%B3n del lord Legislador\|Ascensión de Rashek]], Kwaan formó parte del selecto grupo de feruquimistas cercanos a Rashek a los que se les dio la "opción" de cambiar la feruquimia por la inmortalidad. Al hacerlo, se habría convertido en uno de los miembros de la Primera Generación de [[Kandra\|kandra]]. Sin embargo, Kwaan fue el único que rechazó la oferta, por considerarla una traición a lo que eran como pueblo. Rashek intentó destruirle furioso, pero no pudo hacerlo debido a que ejercía el poder de [[Conservaci%C3%B3n\|Conservación]]. Kwaan siguió siendo humano, huyendo y escondiéndose. Rashek acabó dándole caza y ejecutándolo. Conocía la inscripción en metal y la conservaba para recordar su antigua vida.
-La inscripción sobrevivió hasta el final del Imperio Final, cuando fue encontrada en el [[Convento de Seran\|convento de Seran]] por [[Sazed\|Sazed]]. Este hizo un calco de la inscripción y la estudiaba a menudo. Sin embargo, Ruina volvió a utilizar la táctica de alterar el texto retroactivamente. Mediante éste y otros métodos (incluida la manipulación de [[Vin\|Vin]]), ayudó a orquestar la rebelión contra Rashek. Con el tiempo, Sazed descubrió que su copia de la inscripción había sido alterada, pero sólo después de que Ruina ya hubiera sido liberada.
+### Proclaiming the Hero of Ages
+Kwaan and Alendi originally had a chance meeting in the Khlenni library. Alendi had left his hometown to seek a life of indistinction, but Kwaan noticed his ingenuity and felt he commanded respect, despite his youth. He soon befriended him and hired him as an assistant for at least a few months.
+At some point in time Alendi became king of Khlennium, possibly by marrying the previous king's daughter. Under the growing threat of the [[Deepness\|Deepness]], Alendi united several nations (including Terris)—some by diplomacy and others through military actions. Except for a few dissenters, Alendi was able to create a general unity on Scadrial under the reign of Khlennium. As Alendi's fame and power grew, Kwaan had started to become convinced that he fit the Terris prophecies regarding the Hero of Ages, also known as the Anticipation. Initially, the other Worldbringers met Kwaan's claims with scorn. However, Kwaan was determined to validate his theory and decided to travel with Alendi and document his journeys. Alendi, who was under Ruin's influence, fueled rumors about himself to persuade the world of his cause, while Ruin slightly altered the prophecies to fit Alendi. Eventually, the other Worldbringers became convinced that Alendi must be the Hero of Ages.
 
-## Curiosidades
-Una de las principales inspiraciones de Brandon para *[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]* fue la relación entre Kwaan, Alendi y Rashek. A pesar del interés de los fans, no es probable que Brandon escriba una precuela sobre las interacciones entre estos personajes.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 18:56, 15 de junio de 2023 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · |
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### Recanting
+>“*Alendi was never the Hero of Ages. At best, I have amplified his virtues, creating a Hero where there was none. At worst, I fear that all we believe may have been corrupted.*”
+\-From Kwaan's inscription[32]
 
 
+Kwaan's discovery of Alendi had earned him renown among the Worldbringers, and he became swept up in the idea that he was the Announcer of the hero foretold in the prophecies. However, by the time the other Worldbringers began to agree with his theory about Alendi, he realized that something was wrong. He believed that Alendi was perhaps too perfect of a fit to the prophecies, and that his own desire for recognition had caused him to exaggerate Alendi's virtues or make leaps of logic in order to fulfill all of the signs that the Hero of Ages had arrived. Additionally, his eidetic memory allowed him to remember the prophecies without resorting to his copperminds (which could be manipulated by Ruin) and he began to notice changes in the prophecies cited by the other Worldbringers that could only be caused by meddling from an outside force.
+Kwaan's pride did not allow him to bring this information to the other Worldbringers at first. He publicly denouced Alendi to the [[Conclave of Worldbringers\|Conclave of Worldbringers]], but by then it was too late to stop the events that were in motion. The other Worldbringers continued to preach Alendi's virtues and dismissed Kwaan's concerns as madness. Alendi had surrounded himself with new counselors who told him what he wanted to hear. Kwaan's sudden reversal hurt and confused Alendi, who saw him as a father figure. Alendi considered having Kwaan executed, but he did not make a great effort to track him down since he was focused on his journey to the [[Well of Ascension\|Well of Ascension]]. Kwaan knew that Alendi was ruthless and expected to be executed after Alendi visited the Well.
 
-https://es.coppermind.net/wiki/Kwaan
+### Recruiting Rashek
+Once Kwaan realized that a mysterious force was influencing Scadrial, he came to believe that something destructive was imprisoned in the Well of Ascension. He still believed that Alendi was a good man, and that if he took the power of the Well he would release it, freeing whatever was trapped inside. This was an impressive deduction, as Ruin had indeed been imprisoned in the Well by [[Preservation\|Preservation]] when life was first created on Scadrial, and could have been freed if Alendi released the power.
+As a last resort, Kwaan recruited his young nephew [[Rashek\|Rashek]] to get himself hired as one of Alendi's guides through the [[Terris Mountains\|Terris Mountains]]. He would then prevent Alendi from reaching the Well by any means necessary, including assassination. Rashek gladly agreed to this assignment because he hated the fact that the Terris nation had been annexed by Khlennium; he also believed that only a Terrisman could be the true Hero of Ages. Rashek ultimately killed Alendi and took up the power, making numerous changes to the world and himself, and ruling the Final Empire as Lord Ruler for a thousand years.
+
+### Final Days and Legacy
+>“*I write these words in steel, for anything not set in metal cannot be trusted.*”
+\-From Kwaan's inscription[51]
+
+
+Shortly before Alendi and Rashek journeyed to the well, Kwaan created a [[Kwaan's inscription\|steel inscription]] describing his discoveries and apologizing for his role in the events of his time, knowing that Ruin could not alter metal.
+During [[Ascension of the Lord Ruler\|Rashek's Ascension]], Kwaan was among the select group of Feruchemists close to Rashek that were given a "choice" to trade Feruchemy for immortality. In doing so, he would have become one of the First Generation of [[Kandra\|kandra]]. However, Kwaan was the only one who refused the offer, believing it to be a betrayal of who they were as a people. Rashek attempted to destroy him in anger, but was unable to do so due to wielding [[Preservation\|Preservation's]] power. Kwaan remained human, fleeing and going into hiding. Rashek eventually hunted him down and executed him. He was aware of the metal inscription, and kept it around to remind him of his old life.
+The inscription survived to the end of the Final Empire, when it was found in the [[Conventical of Seran\|Conventical of Seran]] by [[Sazed\|Sazed]]. Sazed made a rubbing of the inscription and studied it often. However, Ruin once again used the tactic of altering the text retroactively. Through this and other methods (including manipulating [[Vin\|Vin]]), he helped orchestrate the rebellion against Rashek. Sazed eventually figured out that his copy of the inscription had been altered, but only after Ruin had already been released.
+
+## Trivia
+One of Brandon's main inspirations for *[[The Well of Ascension\|The Well of Ascension]]* was the relationship between Kwaan, Alendi, and Rashek. Despite fan interest, Brandon is not likely to write a prequel story about the interactions between these characters.
+
+
+https://coppermind.net/wiki/Kwaan

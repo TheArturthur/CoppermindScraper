@@ -1,36 +1,23 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Jeffrey Jeffrey**|
 |-|-|
-|**Residencia**|[[Baliza\|Baliza]]|
-|**Etnia**|[[De Treno\|de Treno]]|
-|**Mundo natal**|[[C%C3%A1ntico\|Cántico]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Hombre Iluminado\|El Hombre Iluminado]]*|
+|**Residence**|[[Beacon\|Beacon]]|
+|**Ethnicity**|[[Threnodite\|Threnodite]]|
+|**Homeworld**|[[Canticle\|Canticle]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Sunlit Man\|The Sunlit Man]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El Hombre Iluminado\|El Hombre Iluminado]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Jeffrey Jeffrey** es un ciudadano de [[Baliza\|Baliza]] y un administrador para el Bien Mayor.
+**Jeffrey Jeffrey** is a citizen of the [[Beacon\|Beacon]] and an administrator or steward to the Greater Good.
 
-## Apariencia y personalidad
-Jeffery Jeffery es un hombre fornido con una tupida barba negra y ojos marrones. Nómada comenta que Jeffery Jeffery parece un primo suyo, lo que implica que podría pasar por [[Azir\|azishiano]].
+## Appearance and Personality
+Jeffrey Jeffrey is a burly man with a bushy black beard and brown eyes. Nomad comments that Jeffrey Jeffrey looks like a cousin of his, implying he could pass for [[Azir\|Azish]].
 
-## Historia
-Jeffrey Jeffery es parte del grupo de asalto que roba la placa de autorización [[Scadrial\|scadriana]] al [[Rey Incandescente\|Rey Incandescente]]. El grupo vuelve a Baliza y Jeffrey Jeffrey presenta un informe de la misión al [[El Bien Mayor\|Bien Mayor]]. Cuando [[N%C3%B3mada\|Nómada]] revela que podría usar la placa para entrar al Refugio, Jeffrey Jeffrey piensa que llegar al Refugio es la única esperanza de Baliza.
-Después de que Baliza no encontrase el refugio, Jeffrey Jeffrey asiste a una conferencia con los líderes de Baliza para discutir las bajas y llegar a un nuevo plan de acción. Jeffery Jeffrey acepta ayudar a Nómada a obtener materiales para modificar los motores de Baliza para usarlos en vacío. Cuando el sistema está configurado, Jeffrey Jeffrey ayuda a familiarizar a Nómada con los controles para el ascenso de la montaña. Cuando Baliza se estrella en el otro lado, Jeffrey Jeffrey está presente en la reunión para estudiar los daños.
-Jeffrey pilota una nave de guerra de Baliza durante una pelea con [[Uni%C3%B3n\|Unión]]. Mientras su nave se hunde, Nómada rescata a Jeffrey Jeffrey y lo lleva a la [[Cazadora del alba\|Cazadora del alba]].
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El Hombre Iluminado\|El Hombre Iluminado]] (**[[C%C3%A1ntico\|Cántico]]**)**|
-|-|-|
-|**Personajes**|[[N%C3%B3mada\|Nómada]] · [[Auxiliar\|Auxiliar]] · [[Rebeke Salvamento\|Rebeke]] · [[Eleg%C3%ADa Salvamento\|Elegía]] · [[Rey Incandescente\|Rey Incandescente]] · [[Compasi%C3%B3n\|Compasión]] · [[Confianza\|Confianza]] · [[Contemplaci%C3%B3n\|Contemplación]] · [[Fervor\|Fervor]] · |
-|**Lugares**|[[Baliza\|Baliza]] · [[Uni%C3%B3n\|Unión]] · [[Instalaci%C3%B3n de investigaci%C3%B3n scadriana\|Instalación de investigación scadriana]]|
-|**Magia**|[[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Sol coraz%C3%B3n\|Sol corazón]] · [[Chamuscado\|Chamuscado]] · [[Coro\|Coro]]|
+## History
+Jeffrey Jeffrey is part of the raiding party that steals the [[Scadrian\|Scadrian]] authorization badge from the [[Cinder King\|Cinder King]]. The group returns to Beacon and Jeffrey Jeffrey gives a report of the mission to the [[Greater Good\|Greater Good]]. When [[Nomad\|Nomad]] reveals that he could operate the key to get into the Refuge, Jeffrey Jeffrey thinks that getting to the Refuge is Beacon's only hope.
+After Beacon fails to find the Refuge, Jeffrey Jeffrey attends a conference with the leaders of Beacon to discuss casualties and come up with a new plan of action. Jeffrey Jeffrey agrees to help Nomad get materials to modify the engines of Beacon for a vacuum. When the system is set up, Jeffrey Jeffrey helps familiarize Nomad with the controls for the ascent up the mountain. When Beacon crashes on the other side, Jeffrey Jeffrey is present at the meeting to survey the damage.
+Jeffrey Jeffrey pilots a Beacon gunship during a fight with [[Union\|Union]]. As his ship is going down, Nomad rescues Jeffrey Jeffrey and deposits him on the [[Dawnchaser\|Dawnchaser]].
 
 
 
-https://es.coppermind.net/wiki/Jeffrey_Jeffrey
+https://coppermind.net/wiki/Jeffrey_Jeffrey

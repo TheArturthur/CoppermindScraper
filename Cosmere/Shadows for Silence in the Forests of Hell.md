@@ -1,103 +1,70 @@
-
-
-
-|***Sombras por Silencio en los bosques del infierno***|
+|***Shadows for Silence in the Forests of Hell***|
 |-|-|
 ||
-|**Localización**|[[Treno\|Treno]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|3 de Diciembre de 2013|
-|**Fecha española**|18 de octubre de 2017|
-|**Editorial**||
+|**Setting**|[[Threnody\|Threnody]], [[Cosmere\|Cosmere]]|
+|**Released**|December 3, 2013|
+|**Publisher**||
 |**ISBN**|978-0765332066|
-|**ISBN español**|978-8466662321|
-|**Número de Palabras**|[[Sombras por Silencio en los bosques del infierno/An%C3%A1lisis estad%C3%ADstico\|17,647]]|
+|**Word Count**|[[Shadows for Silence in the Forests of Hell/Statistical analysis\|17,647]]|
 
-***Sombras por Silencio en los bosques del infierno*** es una novela del [[Cosmere\|Cosmere]] de [[Brandon Sanderson\|Brandon Sanderson]] ambientada en el planeta [[Treno\|Treno]]. Se publicó originalmente en la Antología *Mujeres Peligrosas*, editada por George R.R. Martin y Gardner Dozois.
-La protagonista de la historia, [[Silencio Montane\|Silencio Montane]], es una mujer peligrosa, en consonancia con el tema de la antología.
+***Shadows for Silence in the Forests of Hell*** is a [[Cosmere\|cosmere]] novella by [[Brandon Sanderson\|Brandon Sanderson]] set on the planet of [[Threnody\|Threnody]]. It was originally published in the *Dangerous Women* Anthology edited by George R.R. Martin and Gardner Dozois.
+The protagonist of the story, [[Silence Montane\|Silence Montane]], is a dangerous woman, in keeping with the anthology's theme.
 
-## Sumario
+## Contents
 
-1 Resumen. [[#Resumen]] 
-2 Escenario. [[#Escenario]] 
-3 Personajes principales. [[#Personajes principales]] 
-4 Saga. [[#Saga]] 
+1 Summary. [[#Summary]] 
+2 Setting. [[#Setting]] 
+3 Main Characters. [[#Main Characters]] 
+4 Series. [[#Series]] 
 
-4. [[#Posible secuela]] 
-
-
-5 Desarrollo. [[#Desarrollo]] 
-6 Historia de la publicación. [[#Historia de la publicaci.C3.B3n]] 
-7 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-8 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-9 Notas del traductor. [[#Notas del traductor]] 
-10 Notas. [[#Notas]] 
+4. [[#Potential Sequel]] 
 
 
-## Resumen
-Para un resumen capítulo a capítulo, ver Resumen:Sombras por Silencio.
-La historia sigue a [[Silencio Montane\|Silencio Montane]], propietaria de una [[Posada de Silencio\|posada]] en los bosques del infierno e identidad secreta del legendario cazarrecompensas conocido como «Zorro Blanco». Desesperada por seguir siendo solvente y mantener su posada fuera del alcance de su acreedor [[Theopolis\|Theopolis]], acepta el reto de dar caza a [[Chesterton Divide\|Chesterton Divide]], un famoso asaltante de caminos, y a su banda. La complejidad del trabajo aumenta rápidamente a medida que avanza la noche. Al final, hay consecuencias inesperadas para todos los implicados.
+5 Development. [[#Development]] 
+6 Publication History. [[#Publication History]] 
+7 Cover Gallery. [[#Cover Gallery]] 
+8 Statistical Analysis. [[#Statistical Analysis]] 
+9 Notes. [[#Notes]] 
 
-## Escenario
-La historia tiene lugar en uno de los dos continentes principales del planeta [[Treno\|Treno]], en una zona conocida como [[Bosques del infierno\|bosques del infierno]]. La acción se centra en torno a la [[Posada de Silencio\|posada de Silencio]] y los bosques cercanos.
-Treno no se considera un [[/wiki/Cosmere#Planetas]] «importante» en la narrativa general del Cosmere y actualmente no está habitado por una Esquirla, pero los acontecimientos pasados en el sistema siguen teniendo relevancia directa para los sucesos actuales que ocurren en el universo. [[Hoid\|Hoid]] no aparece en la historia, aunque otros [[Saltamundos\|saltamundos]] pueden haberlo hecho.
 
-## Personajes principales
+## Summary
+For a chapter by chapter summary, see Summary:Shadows for Silence.
+The story follows [[Silence Montane\|Silence Montane]], the proprietress of a [[Waystop\|waystop]] in the Forests of Hell and secret identity of the legendary bounty hunter known as “The White Fox.” Desperate to remain solvent and keep her waystop out of the hands of her creditor [[Theopolis\|Theopolis]], she takes on the challenge of hunting down [[Chesterton Divide\|Chesterton Divide]], a notorious highwayman, and his crew. The complexity of the job quickly escalates as the night goes on. By the end, there are unexpected consequences for everyone involved.
+
+## Setting
+The story takes place on one of the two major continents on the planet [[Threnody\|Threnody]], in an area known as the [[Forests of Hell\|Forests of Hell]]. The action centers around [[Silence's waystop\|Silence's waystop]] and the forests nearby.
+Threnody is not considered a "major" [[/wiki/Cosmere#Planets]] in the overall narrative of the cosmere and is not currently inhabited by a Shard, but past events in the Threnodite system still hold direct relevance to current events occurring in the universe. [[Hoid\|Hoid]] does not appear in the story, though other [[Worldhopper\|worldhoppers]] may have.
+
+## Main Characters
  
 
-**Otros personajes**
+**Other Characters**
 
 
-## Saga
-### Posible secuela
-Para más información, ver [[The Night Brigade\|The Night Brigade]].
-Brandon quedó satisfecho con la historia y siempre ha hecho referencia a escribir una novela ambientada en Treno, en parte porque utilizaría la novela para presentar a un grupo con relevancia para el Cosmere en general. Es poco probable que Silencio aparezca en la historia, salvo como un posible cameo.
+## Series
+### Potential Sequel
+For more information, see [[The Night Brigade\|The Night Brigade]].
+Brandon was pleased with the story and has consistently referred to writing a novel set on Threnody, partly because he would use the novel to introduce a group with relevance to the overall cosmere. It is unlikely that Silence would appear in the story, except as a potential cameo.
 
-## Desarrollo
-George R.R. Martin propuso a Brandon que colaborara con un relato corto para una antología durante una firma de libros en una convención en 2011. Brandon aceptó entusiasmado y decidió crear una «mujer peligrosa» que no se ciñera a los tópicos conocidos. Se inspiró en el nombre puritano «Silencio», y quiso hacer de la parte peligrosa de su personaje algo inesperado. Las [[Sencillas Reglas\|Sencillas Reglas]] relativas a las [[Umbra\|umbras]] se basan vagamente en las tradiciones judías. A [[Isaac Stewart\|Isaac Stewart]] se le ocurrió el nombre del planeta «[[Treno\|Treno]]», aunque el nombre no se reveló hasta después de la publicación.
-La historia acabó teniendo unas 18.000 palabras. En julio de 2013 se publicó un  en el sitio web de Tor, y la antología se publicó el 3 de diciembre de 2013. Claudia Black se encargó de la narración de la versión en audiolibro.
+## Development
+George R.R. Martin approached Brandon about contributing an anthology short story during a book signing at a convention circa 2011. Brandon eagerly accepted, and decided to create a "dangerous woman" that did not adhere to familiar tropes. He was inspired by the puritan name "Silence", and wanted to make the dangerous part of her character something unexpected. The [[Simple Rules\|Simple Rules]] regarding [[Shade\|Shades]] are vaguely based in Jewish traditions. [[Isaac Stewart\|Isaac Stewart]] came up with the planet name "[[Threnody\|Threnody]]", although the name was not revealed until after publication.
+The story ended up being around 18,000 words in length. An  was released on Tor's website in July 2013, and the anthology was published on December 3, 2013. Claudia Black supplied the narration for the audiobook version.
 
-## Historia de la publicación
-*Sombras por el Silencio en los bosques del infierno* se incluyó con *[[Perfect State\|Perfect State]]* en una edición de tapa dura exclusiva de la convención de 2015.
-El relato también aparece en el ómnibus de relatos cortos del Cosmere *[[Arcanum ilimitado\|Arcanum ilimitado]]*, acompañado de un ensayo sobre el [[Sistema de Treno\|sistema de Treno]] y un epílogo.
+## Publication History
+*Shadows for Silence in the Forests of Hell* was bundled with *[[Perfect State\|Perfect State]]* in a hardcover edition as a 2015 Con Exclusive.
+The story also appears in the cosmere short story omnibus *[[Arcanum Unbounded\|Arcanum Unbounded]]*, accompanied by an essay on the [[Threnodite system\|Threnodite system]] and a postscript.
 
-## Galería de portadas
-Para una galería de portadas de *Sombras por el Silencio en los bosques del infierno*, ver [[Sombras por Silencio en los bosques del infierno/Portadas\|/Portadas]].
-## Análisis estadístico
-Para un análisis estadístico completo, ver [[Sombras por Silencio en los bosques del infierno/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
-*Sombras por Silencio en los bosques del infierno* consta de una introducción de 940 palabras y una conclusión de 468 palabras desde el punto de vista de Daggon, mientras que el resto está escrito desde el punto de vista de Silencio.
+## Cover Gallery
+For a cover gallery of Shadows for Silence in the Forests of Hell, see [[Shadows for Silence in the Forests of Hell/Covers\|/Covers]].
+## Statistical Analysis
+For a full statistical analysis, see [[Shadows for Silence in the Forests of Hell/Statistical analysis\|/Statistical analysis]].
+*Shadows for Silence in the Forests of Hell* consists of a 940-word intro and a 468-word outro from the PoV of Daggon, while the remainder is written from the PoV of Silence.
 
-|**Conteo de palabras**|17,647|
+|**Word Count**|17,647|
 |-|-|
-|**Personajes con punto de vista**|2|
-|**Conteo de puntos de vista**|8|
+|**PoV Characters**|2|
+|**PoV Count**|8|
 
 
 
-## Notas del traductor
-
-## Notas
-
-Este meta-artículo está completo, pero no ha sido revisado todavía.
-|** ([[Treno\|Treno]])**|
-|-|-|
-|**Personajes**|[[Silencio Montane\|Silencio Montane]] · [[Chesterton Divide\|Chesterton Divide]] · [[William Ann Montane\|William Ann Montane]] · [[Theopolis\|Theopolis]] · [[Joven Rojo\|Joven Rojo]] · [[Abuela de Silencio\|Abuela de Silencio]] · [[Sebruki\|Sebruki]] · [[Daggon\|Daggon]] · [[Nazh\|Nazh]]|
-|**Lugares**|[[Bosques del infierno\|Bosques del infierno]] · [[Posada de Silencio\|Posada de Silencio]] · [[%C3%9Altimo Puerto\|Último Puerto]] · [[Puente Viejo\|Puente Viejo]] · [[Patria\|Patria]] · [[Colina Basti%C3%B3n\|Colina Bastión]] · [[Mundo Ca%C3%ADdo\|Mundo Caído]]|
-|**Términos**|[[Ambici%C3%B3n\|Ambición]] · [[Sencillas Reglas\|Sencillas Reglas]] · [[Umbra\|Umbra]] · [[Dios del M%C3%A1s All%C3%A1\|Dios del Más Allá]] · [[Maldad\|La Maldad]] · [[Pionero\|Pionero]] · [[Ciudades-fuerte\|Ciudades-fuerte]] · [[Profunda\|Profunda]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
-
-
-
-https://es.coppermind.net/wiki/Shadows_for_Silence_in_the_Forests_of_Hell
+https://coppermind.net/wiki/Shadows_for_Silence_in_the_Forests_of_Hell

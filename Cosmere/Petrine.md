@@ -1,46 +1,21 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Petrine**|
 |-|-|
-|**Oficio**|Jefa de ingenieros de naves voladoras|
-|**Etnia**|[[De Scadrial del Sur\|de Scadrial del Sur]]|
-|**Nacionalidad**|[[Malwish\|Malwish]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Brazales de Duelo\|Brazales de Duelo]]*|
+|**Profession**|Airship enginemaster|
+|**Ethnicity**|[[Southern Scadrian\|Southern Scadrian]]|
+|**Nationality**|[[Malwish\|Malwish]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
-**Petrine** es una [[Scadriano del sur\|scadriana del sur]], miembro de la tripulación de la *[[Brunstell\|Brunstell]]*.
+**Petrine** is a [[Southern Scadrian\|Southern Scadrian]] crewmember of the *[[Brunstell\|Brunstell]]*.
 
-## Apariencia y personalidad
-Petrine tiene más de sesenta años y la piel arrugada. Debido a que es [[Malwish\|malwish]], lleva una máscara que le oculta la cara y presumiblemente cambia de máscara de vez en cuando. Es dura y valiente.
+## Appearance and Personality
+Petrine is in her sixties and has wrinkled skin. Because she is [[Malwish\|Malwish]], she wears a mask that obscures her face, and presumably changes her mask on occasion. She is tough and courageous.
 
-## Historia
-Petrine era miembro de la tripulación de la nave voladora malwish *[[Brunstell\|Brunstell]]* capitaneada por [[Jordis\|Jordis]]. Ella trabajaba como jefa de ingenieros de la nave y era la más anciana de la tripulación. Estaba en la *Brunstell* durante la expedición por las montañas cercanas a la [[Cuenca de Elendel\|Cuenca de Elendel]] en busca de los [[Brazales de Duelo\|Brazales de Duelo]] y el templo perdido del [[Soberano\|Soberano]]. Después de que la nave se estrellase en [[Dulsing\|Dulsing]], la tripulación y su nave fueron capturadas por [[El Grupo\|el Grupo]]. Estos torturaron a los malwish para conseguir información, matando a algunos de ellos. Petrine estaba entre los cautivos que finalmente fueron llevados a las montañas para ayudar a buscar el templo.
-Los mantuvieron en una tienda y no pudieron lidiar con el clima frío de las montañas; Jordis estaba sorprendida de que Petrine sobreviviese tanto tiempo en el frío, dada su edad. Cuando la situación se volvió verdaderamente desesperada, Petrine sugirió que los malwish hiciesen un último esfuerzo para combatir a sus captores, incluso si muriesen haciéndolo. Sin embargo, [[Allik\|Allik]] llegó entonces para liberarlos, y ayudó a Petrine y al resto de la tripulación a recuperarse usando [[Mente de metal liberada\|medallones]]. [[Steris\|Steris]] había traído armas para los malwish, y Petrine ayudó a distribuirlos antes de verse envueltos en un tiroteo con el Grupo.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 05:02, 29 June 2020 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+Petrine was a crew member of the Malwish airship *[[Brunstell\|Brunstell]]* captained by [[Jordis\|Jordis]]. She served as the enginemaster of the ship and was the eldest member of the crew. She was on the *Brunstell* during its expedition to the mountains near the [[Elendel Basin\|Elendel Basin]] seeking the [[Bands of Mourning\|Bands of Mourning]] and the lost temple of the [[Sovereign\|Sovereign]]. After the ship crashed in [[Dulsing\|Dulsing]], the crew and their ship were captured by the [[Set\|Set]]. The Set tortured the Malwish for information, killing some of them. Petrine was among the captives that that were eventually taken into the mountains to help search for the temple.
+The captives were kept in a tent and were not able to contend with the cold weather in the mountains; Jordis was surprised that Petrine survived so long in the cold, given her age. When the situation became truly desperate, Petrine suggested that the Malwish make one final effort to resist their captors, even if they were killed doing so. However, [[Allik\|Allik]] then arrived to release them, and he helped Petrine and the rest of the crew recover using [[Unsealed metalminds\|medallions]]. [[Steris\|Steris]] had brought guns to arm the Malwish, and Petrine helped distribute them before the group engaged the Set in a gunfight.
 
 
 
-https://es.coppermind.net/wiki/Petrine
+https://coppermind.net/wiki/Petrine

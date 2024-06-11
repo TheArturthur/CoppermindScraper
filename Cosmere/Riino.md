@@ -1,92 +1,65 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Riino**|
 |-|-|
-|**Capacidades**|[[Elantrino\|Elantrino]], [[Saltamundos\|Saltamundos]]|
-|**Apodos**|Oráculo de Rii|
-|**Grupo**|[[Ire\|Ire]]🐱︎|
-|**Residencia**|[[Shadesmar\|Shadesmar]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**Abilities**|[[Elantrian\|Elantrian]], [[Worldhopper\|Worldhopper]]|
+|**Aliases**|Rii Oracle|
+|**Groups**|[[Ire\|Ire]]|
+|**Residence**|[[Shadesmar\|Shadesmar]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
->“*Has venido para que te lea la fortuna, ¿no es así? ¿El Oráculo Rii? Deseas que contemple los caminos por recorrer... durante la alta tormenta, cuando los reinos se entremezclan.*”
-\-Riino a Kaladin[1]
-
-
-**Riino** es un antiguo [[Hoed\|hoed]] [[Elantrino\|elantrino]] y miembro de los [[Ire\|Ire]] de [[Sel\|Sel]]. En el presente, sirve como [[Faro de Riino\|guarda del faro]] y oráculo en el [[Shadesmar\|Shadesmar]] de [[Roshar\|Roshar]].
-Su nombre deriva del [[/wiki/Aon#Rii]], que significa "lujo", "opulencia".
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
-
-2. [[#Visi.C3.B3n de futuro]] 
+>“*You came here for a fortune, didn’t you? You wish me to see the unwalked paths—during the highstorm, when realms blend.*”
+\-Riino to Kaladin[1]
 
 
-3 Historia. [[#Historia]] 
+**Riino** is a formerly-[[Hoed\|Hoed]] [[Elantrian\|Elantrian]] and a member of the [[Ire\|Ire]] from [[Sel\|Sel]]. In the present, he serves as a [[Riino's lighthouse\|lighthouse keeper]] and oracle in [[Roshar\|Roshar's]] [[Shadesmar\|Shadesmar]].
+His name derives from [[/wiki/Aon#Rii]], which means "wealth."
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
+
+2. [[#Future Sight]] 
+
+
+3 History. [[#History]] 
 
 3. [[#Sel]] 
-3. [[#Miembro de los Ire]] 
+3. [[#Member of the Ire]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Como hoed, es pequeño y extremadamente arrugado; [[Raoden\|Raoden]] cree que parece tener "mil años". Cuando [[Kaladin\|Kaladin]] y los demás se encuentran con él, ha conservado la piel arrugada y también tiene la calva común de los elantrinos. Kaladin cree que es [[Shin\|shin]], probablemente porque, como habitante de otro mundo, carece del pliegue epicántico que se ve en la mayoría de los [[Roshar\|rosharianos]] pero que está ausente en los shin.
-En su papel de adivino, pronuncia un discurso dramático para atraer a los clientes potenciales a que paguen por su futuro, y confiesa que disfruta haciéndolo. Sin embargo, una vez que se da cuenta de que Kaladin no está allí por conocer su futuro, se vuelve amable y servicial, facilitando a los viajeros transporte y provisiones. Es seguidor del [[Shu-Korath\|Shu-Korath]], o al menos ha estado muy expuesto a él.
+## Appearance and Personality
+As a Hoed, he is small and extremely wrinkled; [[Raoden\|Raoden]] thinks he appears to be "a thousand years old". When [[Kaladin\|Kaladin]] and the others meet him, he has retained the wrinkled skin and also has the bald head common to Elantrians. Kaladin thinks he is [[Shin\|Shin]], presumably because, as an offworlder, he lacks the epicanthic fold seen in most [[Roshar\|Rosharans]] but absent in the Shin.
+He displays a flair for showmanship; in his role as a fortune seer, he delivers a dramatic speech to entice potential customers into paying for fortunes, and confesses that he quite enjoys doing so. Once he realizes that Kaladin is not there for a fortune, however, he becomes businesslike and helpful, setting the travelers up with transportation and supplies. He's a follower of [[Shu-Korath\|Shu-Korath]], or at least has been heavily exposed to it.
 
-## Habilidades y atributos
-Riino es un [[Elantrino\|elantrino]], y tiene todos los poderes asociados, incluida la inmortalidad funcional, la curación y la capacidad de utilizar [[Aon\|aones]]. Parece capaz de actuar como un elantrino a una distancia considerable de [[Sel\|Sel]], sin el conducto de [[Dor\|Dor]] que los [[Ire\|Ire]] utilizaban en los días del [[Imperio Final\|Imperio Final]]. Se desconoce cómo lo consigue, y si es algo disponible para todos los Ire en la época de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]].
-Riino es un [[Saltamundos\|saltamundos]], que como mínimo ha viajado de Sel a Roshar. También puede haber estado en [[Nalthis\|Nalthis]], ya que menciona las [[Elevaci%C3%B3n\|Elevaciones]], aunque es posible que la palabra simplemente se haya incorporado al lenguaje general de los saltamundos. Además de referirse a las Elevaciones, también menciona estar [[Investidura\|Investido]] y la [[Potenciaci%C3%B3n\|Potenciación]], lo que indica que al menos conoce un poco el [[Cosmere\|Cosmere]].
+## Abilities and Attributes
+Riino is an [[Elantrian\|Elantrian]], and has all the associated powers, including functional immortality, healing, and the ability to use [[Aon\|Aons]]. He seems capable of functioning as an Elantrian at a considerable distance from [[Sel\|Sel]], without the [[Dor\|Dor]] channel that the [[Ire\|Ire]] use in the days of the [[Final Empire\|Final Empire]]. How he achieves this, and whether it's something available to all Ire at the time of the [[True Desolation\|True Desolation]], is unknown.
+Riino is a [[Worldhopper\|worldhopper]], having traveled at the very least from Sel to Roshar. He also may have been to [[Nalthis\|Nalthis]], as he mentions [[Heightening\|Heightenings]], though the word may have simply entered into general worldhopper parlance. In addition to referencing Heightenings, he also mentions being [[Investiture\|Invested]] and [[Surgebinding\|Surgebinding]], indicating he is at least somewhat aware of the [[Cosmere\|cosmere]].
 
-### Visión de futuro
-Riino tiene la capacidad de predecir el futuro, ayudado por una especie de globo brillante. Sea lo que sea, no se trata de un [[Fabrial\|fabrial]], ya que no contiene gemas. Aunque el propio Riino menciona que para utilizarlo es necesario un entrenamiento específico, el globo puede conceder visiones a los no iniciados. Requiere que su entorno esté muy Investido, por lo que Riino sólo lo utiliza durante una [[Alta tormenta\|alta tormenta]].
-Dicho esto, [[Celeste\|Celeste]] cree que Riino es un charlatán, que utiliza diversas sustancias eufóricas y manipulación psicológica para hacer creer a la gente que puede ver el futuro. Teniendo en cuenta que la visión de Kaladin parece haber sido correcta, es probable que esté equivocada, aunque también es posible que la visión no esté relacionada con el globo, ya que Kaladin ha visto anteriormente cosas auténticas en altas tormentas.
+### Future Sight
+Riino has an ability to predict the future, assisted by some sort of shining globe. Whatever the globe is, it isn't a [[Fabrial\|fabrial]], as it doesn't feature a gemstone. While Riino himself mentions that utilizing it requires specific training, the globe can grant visions to the uninitiated. It requires that its surroundings be highly Invested, which is why Riino uses it only during a [[Highstorm\|highstorm]].
+This being said, [[Azure\|Azure]] believes that Riino is a charlatan, using various euphoric substances and psychological manipulation to make people believe he can see the future. Considering that Kaladin's vision appears to have been correct, she's likely wrong, though it's also possible that the vision is unrelated to the globe, as Kaladin has seen true things in highstorms before.
 
-## Historia
->“*Éramos tan hermosos, antes. Mi pelo era tan brillante, mi piel tan luminosa. Los aones fluían de mis dedos. Eran tan hermosos...*”
-\-El mantra de Riino como hoed[3]
+## History
+>“*We were so beautiful once. My hair so bright, my skin full of light. Aons fluttered from my fingers. They were so beautiful…*”
+\-Riino's mantra as the Hoed[3]
 
 
 ### Sel
-Riino se convirtió en elantrino en algún momento antes del [[Reod\|Reod]]; con el tiempo se convirtió en hoed, repitiendo un mantra de "Hermosa, una vez fue tan hermosa...", en referencia a la belleza perdida de Elantris y los elantrianos. Sobrevivió hasta que [[Raoden\|Raoden]], diez años después del Reod, se dio cuenta de lo que significaba su mantra e intentó sacarle información sobre el [[AonDor\|AonDor]]. Riino mostró la suficiente racionalidad y memoria como para dirigir a Raoden para que lo pusiera en la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]], donde pareció disolverse.
+Riino became an Elantrian at some point before the [[Reod\|Reod]]; he eventually became a Hoed, repeating a mantra of "Beautiful, once so very beautiful...", referring to the lost beauty of Elantris and the Elantrians. He survived until [[Raoden\|Raoden]], ten years after the Reod, realized what his mantra meant and attempted to get information on [[AonDor\|AonDor]] from him. Riino displayed just enough rationality and memory to direct Raoden to put him into [[Devotion's Perpendicularity\|Devotion's Perpendicularity]], where he appeared to dissolve.
 
-### Miembro de los Ire
-En realidad, fue transportado al [[Reino Cognitivo\|Reino Cognitivo]]; de algún modo sobrevivió a las peligrosas condiciones de la zona, con el tiempo recuperó la mente, y más tarde se convirtió en miembro de los [[Ire\|Ire]]. Más tarde, ocupó un puesto en un faro del subastral roshariano del Reino Cognitivo, en el [[Mar de las Luces Perdidas\|mar de las Luces Perdidas]]. Se estableció allí por una razón específica, y aunque era miembro de los Ire, su propósito allí no estaba relacionado con los objetivos generales de los [[Ire\|Ire]].
-Cuando [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], sus spren y [[Celeste\|Celeste]] entraron accidentalmente en Shadesmar, sus viajes les llevaron hasta Riino. Kaladin intentó acercarse sigilosamente a Riino, quien lo detectó de todos modos. Riino se presentó como el "Oráculo Rii" y se ofreció a leerle la suerte a Kaladin durante una [[Alta tormenta\|alta tormenta]], usando un gran globo lleno de lo que parecía ser [[Luz tormentosa\|luz tormentosa]]. Cuando Kaladin tocó el globo y tuvo una visión propia, Riino se sorprendió, y logró adivinar cómo Kaladin tenía acceso a la Investidura necesaria para causar ese efecto.
-Cuando llegó el resto del grupo, Riino negoció con ellos los precios de los suministros y les ayudó a conseguir un barco con destino a [[Celebrant\|Celebrant]]. Finalmente los dejó al cuidado de los [[Alcanzador\|alcanzadores]] y retornó a su faro, habiendo decidido al parecer que el asunto ya no era de su incumbencia.
+### Member of the Ire
+In actuality, he was transported to the [[Cognitive Realm\|Cognitive Realm]]; he somehow survived the dangerous conditions in the area, eventually recovered his mind, and later became a member of the [[Ire\|Ire]]. Later, he took up a post at a lighthouse on the Rosharan subastral of the Cognitive Realm, in the [[Sea of Lost Lights\|Sea of Lost Lights]]. He settled there for a specific reason, and though he was a member of the Ire, his purpose there was unrelated to the [[Ire\|Ire's]] overall goals.
+When [[Kaladin\|Kaladin]], [[Shallan\|Shallan]], [[Adolin\|Adolin]], their spren, and [[Azure\|Azure]] accidentally entered Shadesmar, their travels brought them to Riino. Kaladin attempted to sneak up on Riino, who detected him anyway. Riino introduced himself as the "Rii Oracle" and offered to tell Kaladin's fortune during a [[Highstorm\|highstorm]], using a large globe filled with what appeared to be [[Stormlight\|Stormlight]]. When Kaladin touched the globe and had a vision of his own, Riino was surprised, and managed to guess how Kaladin had access to the Investiture required to cause that effect.
+When the rest of the group arrived, Riino negotiated prices with them on supplies and helped them get a ship to [[Celebrant\|Celebrant]]. He eventually dropped them off into the care of the [[Reacher\|Reachers]] and returned to his lighthouse, having apparently decided that the matter was no longer his concern.
 
-## Curiosidades
-La conexión de Riino con los sucesos de *[[Elantris (libro)\|Elantris]]* no se ha revelado en las páginas del libro; más bien, Brandon lo señaló de manera imprevista, refiriéndose a una escena en la que Kaladin se encuentra con «nuestra *tan hermoso* amigo de *Elantris*».
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
-
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+Riino's connection to the events of *[[Elantris (book)\|Elantris]]* has not been revealed on-page; rather, Brandon pointed to it unprompted, referring to a scene where Kaladin meets "our 'so very beautiful' friend from *Elantris*".
 
 
-
-https://es.coppermind.net/wiki/Riino
+https://coppermind.net/wiki/Riino

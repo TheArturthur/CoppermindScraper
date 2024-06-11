@@ -1,111 +1,89 @@
-
-
 |**Nergaoul**|
 |-|-|
 ||
-|**Capacidades**|[[Astilla\|Astilla]] de [[Odium\|Odium]]|
-|**Apodos**|La Emoción|
-|**Grupo**|[[Deshechos\|Deshechos]]🐱︎|
-|**Especie**|[[Spren\|Spren]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
+|**Aliases**|The Thrill|
+|**Groups**|[[Unmade\|Unmade]]|
+|**Species**|[[Spren\|Spren]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*La Emoción no odiaba. Aunque algunos spren podían tomar decisiones, otros eran como animales, primitivos, guiados por una sola e irresistible directriz. Vivir. Arder. Reír. O en este caso, **luchar**.*”
-\-Dalinar cuando captura a Nergaoul.[2]
-
-
-**Nergaoul** es uno de los nueve [[Deshecho\|Deshechos]] en [[Roshar\|Roshar]]. En épocas modernas, Nergaoul es conocido con la **Emoción**. Es descrito como un «spren antiguo y maligno», aunque no es lo suficientemente inteligente como para tomar decisiones.
-
-## Sumario
-
-1 Apariencia y naturaleza. [[#Apariencia y naturaleza]] 
-
-1. [[#La Emoci.C3.B3n]] 
-1. [[#Deshecho]] 
+>“*The Thrill didn't hate. Though some spren could make decisions, others were like animals—primal, driven by a single overpowering directive. Live. Burn. Laugh. Or in this case, **fight**.*”
+\-Dalinar when trapping Nergaoul.[2]
 
 
-2 Historia. [[#Historia]] 
+**Nergaoul** is one of the nine [[Unmade\|Unmade]] on [[Roshar\|Roshar]]. In modern times Nergaoul is known as the **Thrill**. He has been described as an "ancient, evil spren", although he isn’t intelligent enough to make decisions.
 
-2. [[#En Alezkar]] 
-2. [[#En Jah Keved]] 
-2. [[#En Thaylenah]] 
-2. [[#Encarcelamiento]] 
+## Contents
 
+1 Appearance and Nature. [[#Appearance and Nature]] 
 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+1. [[#The Thrill]] 
+1. [[#Unmade]] 
 
 
-## Apariencia y naturaleza
-Para más imágenes, ver [[Nergaoul/Galer%C3%ADa\|/Galería]].
->“*Algo surgió con violencia del agua. Algo primitivo, algo que Venli había sentido pero jamás había conocido de verdad. Una neblina roja. Efímera, como una sombra vislumbrada en un día gris que se confunde con algo físico. Caballos rojos a la carga, furibundos y galopantes. Las siluetas de hombres matando y muriendo, derramando sangre y regocijándose en ella. Una colina de huesos apilados sobre la que los hombres forcejeaban.*
-\-La neblina roja ascendió desde el oleaje y se extendió a una zona de orilla vacía, al norte. Imbuyó a Venli un anhelo por el campo de batalla. Una hermosa concentración, una Emoción por la lucha.
+2 History. [[#History]] 
+
+2. [[#In Alethkar]] 
+2. [[#In Jah Keved]] 
+2. [[#In Thaylenah]] 
+2. [[#Imprisonment]] 
 
 
-Cuando es visible en el Reino Físico, Nergaoul se manifiesta como una niebla roja. A menudo muestra imágenes del campo de batalla y de soldados luchando y muriendo, entre otras cosas. Sin embargo, Nergaoul puede afectar a la gente incluso sin ser visible y esta influencia puede llegar a sentirse en un área lo suficientemente grande como para abarcar naciones.
-En [[Shadesmar\|Shadesmar]] se manifiesta como una enorme masa oscura de luz roja y viva.
-[[Sja-anat\|Sja-anat]] describe a Nergaoul como alguien que apenas tiene mente, más parecido a un spren emocional o emocispren.
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
+
+
+## Appearance and Nature
+For more images, see [[Nergaoul/Gallery\|/Gallery]].
+>“*Something came surging out. Something primeval, something Venli had felt but never truly known. Red mist. Ephemeral, like a shadow you see on a dark day and mistake for something real. Charging red horses, angry and galloping. The forms of men, killing and dying, shedding blood and reveling in it. Bones piled atop one another, making a hill upon which men struggled.*
+\-The red mist climbed up from the surging waves, rolling out onto an empty section of rock, northward along the rim of the water. It brought to her a lust for the battlefield. A beautiful focus, a Thrill for the fight.
+
+
+When visible in the Physical Realm, Nergaoul appears in the form of red mist. The mist would often form images of battle, of soldiers fighting and dying, among other things. However, Nergaoul can affect people even without being in this visible state, and his influence can be felt in an area big enough to span nations.
+In [[Shadesmar\|Shadesmar]], he appears as a large dark mass of living red light.
+[[Sja-anat\|Sja-anat]] describes Nergaoul as practically mindless, more like an emotion spren.
 
  
-### La Emoción
-La **Emoción** es el término que se utiliza para describir el efecto que ejerce la presencia de Nergaoul en las personas. Se manifiesta como un impulso competitivo muy fuerte, acompañado de un aumento en la concentración y en la capacidad de ignorar el dolor o los dilemas morales, cosas que podrían distraer la atención de la victoria. Este efecto se puede sentir durante cualquier competición, sea violenta o no, pero es mucho más fuerte durante una batalla, donde se ha descrito como una sed de sangre y un disfrute y anhelo por la guerra. Se trata de un fenómeno que ha experimentado mucha gente en Roshar, aunque la mayoría no son conscientes de que proviene de un Deshecho.
-Se cree que la Emoción se hace más fuerte cuanto más cerca está una persona de la ubicación de Nergaoul. Independientemente de su fuerza, con la suficiente fuerza de voluntad es posible rechazar o incluso deshacerse de la Emoción cuando ya está surtiendo efecto sobre alguien.
-Parece ser que aquellos que han experimentado la Emoción con anterioridad son capaces, de alguna forma, de identificar cuando otra persona está bajo su efecto, ya que [[Adolin\|Adolin]] fue capaz de sentirla en [[Eshonai\|Eshonai]] y [[Dalinar\|Dalinar]] en [[Kalanor\|Kalanor]].
+### The Thrill
+The ** Thrill** is the term used to describe the effect of Nergaoul's presence on people. It manifests as a strong competitive urge accompanied by increased focus and the ability to ignore things like pain or moral concerns that might otherwise distract from the goal of victory. This effect can be felt during any competition, whether violent or non-violent, although it is much more keen during battle, where it has been described as a sense of bloodlust and an enjoyment and longing for war. It is a phenomenon experienced by many on Roshar, most of whom are not aware of its Unmade origin.
+The Thrill is thought to generally grow stronger the closer someone is to Nergaoul's location. Regardless of its strength, given enough willpower, it is still possible for someone sensing the Thrill to reject it, or let go of it even when it is already in effect.
+It appears that those who've experienced the Thrill could somehow sense when someone else is embracing it, as [[Adolin\|Adolin]] was able to sense it in [[Eshonai\|Eshonai]] and [[Dalinar\|Dalinar]] in [[Kalanor\|Kalanor]].
 
-  <<Dalinar\|Dalinar>> envuelto por la Emoción
-### Deshecho
-Como spren de [[Odium\|Odium]], Nergaoul contiene parte de la Investidura de Odium. Tal vez debido a esto, Odium puede controlar fácilmente a cualquiera que abrace la Emoción. Puede enviar a Nergaoul a donde él quiera y además puede aumentar la fuerza de la Emoción para alguien en concreto, como hace con Dalinar mientras intenta que se convierta en su campeón.
-Hessi lo describe como uno de los Deshechos menos conscientes de sí mismos y señala que la Emoción afecta por igual a humanos y a Portadores del Vacío. En la interacción de Nergaoul con Dalinar durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], parece que su comprensión es limitada. Sin embargo, también parece poseer algo de consciencia, ya que muestra deseo de complacer a Dalinar y se regocija ante sus elogios.
-Sabemos que estar cerca de algo vinculado a [[Honor\|Honor]] reduce los efectos de la Emoción. Por ejemplo, [[Kaladin\|Kaladin Bendito por la Tormenta]], que es un [[Caballeros Radiantes\|Caballero Radiante]], es inmune a su efecto. Durante las incursiones a las mesetas, a menudo Dalinar siente la Emoción pero la pierde de forma repentina, muy posiblemente a causa de las acciones que está llevando a cabo y que lo conducirán a convertirse en un Radiante. Probablemente, esto se deba a que la Investidura de Honor interfiere con la Investidura de Odium. De todas formas, a diferencia de Kaladin, el camino de Dalinar hacia la Radiancia no lo hace completamente inmune a la Emoción, incluso tras pronunciar varios ideales.
+  <<Dalinar\|Dalinar>> engulfed in the Thrill
+### Unmade
+As a spren of [[Odium\|Odium]], Nergaoul contains part of Odium's Investiture. Perhaps due to this, Odium can more easily control anyone embracing the Thrill. Odium can send Nergaoul wherever he wished, and also increase the strength of the Thrill for anyone he chooses, as he does to Dalinar while trying to make him his champion.
+Hessi describes Nergaoul as one of the less self-aware Unmade, noting how the Thrill affects both Voidbringers and humans indiscriminately. From Nergaoul's interaction with Dalinar during the [[Battle of Thaylen Field\|Battle of Thaylen Field]], his comprehension does seem lacking. However, he also seems to possess some level of sentience, as he showed a desire to please Dalinar and exulted in his praise.
+It is known that being very close to something tied to [[Honor\|Honor]] reduces the effects of the Thrill. For example, [[Kaladin Stormblessed\|Kaladin Stormblessed]], a [[Knight Radiant\|Knight Radiant]] is immune to it. During plateau raids, Dalinar often notices the Thrill, but loses it suddenly, possibly due to the moves he was making that lead to his becoming a Radiant. This is likely due to Honor's Investiture interfering with Odium's Investiture. Unlike Kaladin, however, Dalinar's path to Radiance did not make him entirely immune to the Thrill, even after swearing several oaths.
 
-## Historia
- 
-Según Mítica de [[Hessi\|Hessi]], las señales de la presencia de Nergaoul, como son la furia por la batalla y la niebla roja, se conocen desde la antigüedad. Ella creía que Nergaoul seguía activo en el Roshar actual por las descripciones alezi de la Emoción.
+## History
+ According to [[Hessi\|Hessi's]] Mythica, the signs of Nergaoul's presence, namely the battle rage and the red mist, have been known since ancient times. She believed Nergaoul to still be active on modern Roshar due to Alethi descriptions of the Thrill.
+### In Alethkar
+Most Alethi soldiers, lighteyed or not, felt the Thrill to some degree. Most notably, it was used heavily and quite effectively by the Alethi general and highprince [[Dalinar Kholin\|Dalinar Kholin]] back when he fought battles for his brother [[Gavilar Kholin\|Gavilar]], who wanted to unify Alethkar under his own rule. Dalinar's Thrill-driven ferocity in combat earned him a great reputation within Alethkar and infamy elsewhere. People started calling him the **Blackthorn** after the Thrill helped him endure getting pierced by several black arrows during a failed assassination attempt.
+Getting help from an Unmade came at a cost. At one point, the Thrill caused Dalinar to almost attack Gavilar after a battle. Later on, succumbing to a vengeful rage stoked by the Thrill, he ordered the slaughter of everyone in the rebelling city of [[Rathalas\|Rathalas]], which led to the death of his own wife [[Evi\|Evi]].
+Dalinar eventually recovered from this tragedy when his memories of Evi were taken away by [[Cultivation\|Cultivation]] and he resumed fighting in battles, this time against those responsible for Gavilar's assassination. He continued to use the Thrill throughout most of the [[War of Reckoning\|War of Reckoning]] until he found himself more and more repulsed by the idea of senseless killing. Dalinar came to realize that there was something wrong about the Thrill.
+Other notable Alethi who embraced the Thrill at some point in their lives were Dalinar's son [[Adolin\|Adolin]], the Highprince [[Kalanor\|Kalanor]], and the Highprince [[Torol Sadeas\|Torol Sadeas]].
 
-### En Alezkar
-La mayoría de los soldados alezi, ojos claros o no, han sentido la Emoción hasta cierto punto. Especialmente, fue utilizada en gran medida y de forma muy eficaz por el general alezi y alto príncipe [[Dalinar Kholin\|Dalinar Kholin]] cuando luchaba para su hermano [[Gavilar Kholin\|Gavilar]], quien quería unificar Alezkar bajo su gobierno. La ferocidad que mostraba en combate, impulsada por la Emoción, le granjeó a Dalinar una gran reputación dentro de Alezkar y una muy mala reputación en el resto de naciones. La gente empezó a llamarle **Espina Negra** después de que, gracias a la Emoción, sobreviviera al ser atravesado por varias flechas negras durante un intento de asesinato fallido.
-Pero obtener ayuda de un Deshecho tenía un alto precio. Un día, la Emoción hizo que Dalinar casi atacara a Gavilar tras una batalla. Más adelante, al sucumbir a una furia vengativa avivada por la Emoción, ordenó la matanza de todos los habitantes de la ciudad rebelde de [[Rathalas\|Rathalas]], lo que también causó la muerte de [[Evi\|Evi]], su propia esposa.
-Dalinar consiguió recuperarse de esta tragedia cuando [[Cultivaci%C3%B3n\|Cultivación]] se llevó todos sus recuerdos de Evi y pudo volver a luchar en las batallas, esta vez contra los responsables del asesinato de Gavilar. Continuó utilizando la Emoción durante la mayor parte de la [[Guerra de la Venganza\|Guerra de la Venganza]], hasta que cada vez le producía más rechazo la idea de matar sin sentido. Dalinar llegó a la conclusión de que algo estaba mal en la Emoción.
-Otros alezi conocidos que abrazaron la Emoción en algún momento de sus vidas fueron el hijo de Dalinar, [[Adolin\|Adolin]], el alto príncipe [[Kalanor\|Kalanor]] y el alto príncipe [[Torol Sadeas\|Torol Sadeas]].
+### In Jah Keved
+Nergaoul moved towards [[Jah Keved\|Jah Keved]] while the country was recovering from a series of assassinations that killed King [[Hanavanar\|Hanavanar]] and many Veden Highprinces. It is believed that the Unmade's presence greatly worsened the civil war that broke out due to the succession crisis, causing much destruction until the war ended with [[Valam\|Valam's]] victory.
+King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]], the one ultimately responsible for the assassinations, and who shortly succeeded [[Valam\|Valam]] and obtained Jah Keved as his second kingdom, had been studying the various Unmade and noticed Nergaoul's influence in the civil war, but decided to focus his efforts on the Unmade called [[Moelach\|Moelach]] instead.
 
-### En Jah Keved
-Nergaoul se desplazó hacia [[Jah Keved\|Jah Keved]] cuando el país se estaba recuperando de diversos asesinatos, entre ellos el del [[Hanavanar\|rey Hanavanar]] y muchos altos príncipes veden. Se cree que la presencia del Deshecho empeoró la guerra civil que tenía lugar tras la crisis de sucesión, causando mucha destrucción hasta que la guerra finalizó con la victoria de [[Valam\|Valam]].
-El rey [[Taravangian\|Taravangian]] de [[Kharbranth\|Kharbranth]], el verdadero responsable de los asesinatos y quien, poco después, sucedió a Valam y consiguió Jah Keved como su segundo reino, había estado estudiando a distintos Deshechos y se dió cuenta de la influencia de Nergaoul en la guerra civil, pero decidió centrar sus esfuerzos en el Deshecho conocido como [[Moelach\|Moelach]].
-
-  <<Dalinar\|Dalinar>> enfrentándose a Nergaoul en <<Ciudad Thaylen\|Ciudad Thaylen>>
-### En Thaylenah
->“*Gracias por concederme fuerza cuando la necesité. Y ahora, vieja amiga, es hora de descansar.*”
-\-Dalinar a Nergaoul (a quien él conoce como la Emoción), justo antes de capturar al Deshecho[2]
+  <<Dalinar\|Dalinar>> confronting Nergaoul at <<Thaylen City\|Thaylen City>>
+### In Thaylenah
+>“*Thank you for giving me strength when I needed it. Now, old friend, it is time to rest.*”
+\-Dalinar to Nergaoul (who he knows as the Thrill), right before trapping the Unmade[2]
 
 
-Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], [[Odium\|Odium]] utiliza a Nergaoul para controlar a los soldados de [[Principado Sadeas\|Sadeas]] y atacar [[Ciudad Thaylen\|Ciudad Thaylen]]. También utiliza la Emoción para intentar atraer a Dalinar a su bando y que se convierta en su campeón.
-Cuando [[Szeth\|Szeth]] y [[Lift\|Lift]] recuperan la [[/wiki/Piedrabase#Gemas Perfectas]] conocida como [[L%C3%A1grima del Rey\|Lágrima del Rey]], Lift se la entrega a Dalinar, quien consigue atrapar a Nergaoul dentro de la piedra preciosa. Consigue hacerlo al abrazar a la Emoción por última vez mientras levantaba la Lágrima del Rey por encima de su cabeza, persuadiendo al Deshecho para que entrara. Esto libera al ejército de Sadeas de la influencia de Odium, poniendo así fin a la batalla.
-Tras la batalla, Dalinar le entrega a Navani la gema y prisión de Nergaoul para que la estudie.
+During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Odium\|Odium]] used Nergaoul to control the [[Sadeas princedom\|Sadeas]] soldiers and attack [[Thaylen City\|Thaylen City]]. He also used the Thrill to attempt to turn Dalinar to his side and become his champion.
+After [[Szeth\|Szeth]] and [[Lift\|Lift]] obtained the [[Perfect gemstone\|perfect gemstone]] called [[King's Drop\|King's Drop]], Lift handed it to Dalinar, who then managed to trap Nergaoul inside the gemstone. He did this by embracing the Thrill one last time while lifting King's Drop above his head, coaxing the Unmade into it. This freed the Sadeas army from Odium's influence, thereby ending the battle.
+After the battle, Dalinar gave Nergaoul's gemstone prison to Navani for study.
 
-### Encarcelamiento
-En palabras de [[Navani\|Navani]], en algún momento del año siguiente a la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], la gema que mantenía cautivo a Nergaoul fue encerrada en una caja de aluminio y arrojada a las profundidades del océano. Es más seguro de lo que parece y lo más inaccesible que pudieron hacer para evitar que cayera en manos enemigas. Desde el encarcelamiento de Nergaoul, [[Dalinar\|Dalinar]] ha empezado a odiar la visión y los olores de la guerra. Ha perdido el deseo de matar.
+### Imprisonment
+According to [[Navani\|Navani]], sometime in the year following the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Nergaoul's gemstone prison was locked it in an aluminum box and sunk deep in the ocean. It is more secure than it seems and was the most inaccessible thing they could do to keep him out of the enemies hands. Since Nergaoul's imprisonment, [[Dalinar\|Dalinar]] has started loathing the sights and smells of war. He has lost the will to kill.
 
-## Curiosidades
-Los nombres de todos los [[Deshecho\|Deshechos]] tienen su origen en la mitología de la vida real. «Nergaoul» probablemente deriva de , el dios mesopotámico de la guerra y el inframundo.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+The names of all [[Unmade\|Unmade]] have origins in real-life mythology. "Nergaoul" is probably derived from , the Mesopotamian god of war and the underworld.
 
 
-
-https://es.coppermind.net/wiki/Nergaoul
+https://coppermind.net/wiki/Nergaoul

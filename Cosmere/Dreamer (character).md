@@ -1,18 +1,18 @@
 |**Dreamer (character)**|
 |-|-|
-|**Hermanos**|[[Phi\|Phi]]|
-|**Fallecido**|~2010s|
-|**Apodos**|Dave|
-|**Poderes**|Possession of the living, [[Bolting\|Bolting]]|
-|**Especie**|[[Poltergeist\|Poltergeist]] (formerly human)|
-|**Residencia**||
-|**Nacionalidad**||
-|**Mundo natal**|[[Tierra (Dreamer)\|Tierra (Dreamer)]]|
-|**Presentado en**|*[[Dreamer\|Dreamer]]*|
+|**Siblings**|[[Phi\|Phi]]|
+|**Died**|~2010s|
+|**Aliases**|Dave|
+|**Powers**|Possession of the living, [[Bolting\|Bolting]]|
+|**Species**|[[Poltergeist\|Poltergeist]] (formerly human)|
+|**Residence**||
+|**Nationality**||
+|**Homeworld**|[[Earth (Dreamer)\|Earth (Dreamer)]]|
+|**Introduced In**|*[[Dreamer\|Dreamer]]*|
 
 Dave, better known by his gaming handle **Dreamer**, is a [[Poltergeist\|poltergeist]], the spirit of a dead young man who must possess the bodies of living people. He is part of a group of gamer poltergeists, including his brother [[Phi\|Phi]], that play games like "capture the flag" and "cops and robbers," using living bodies like "lives" in a video game.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 
@@ -54,14 +54,6 @@ At this point Dreamer was out of bodies to use in the game, but Phi had one rema
 ### Phi
 Dreamer is Phi's younger brother. While he plays games and continues to interact with Phi, Dreamer considers him to be self-satisfied and stubborn.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Dreamer\|Dreamer]]**|
-|-|-|
-|**Personajes**| · [[Phi\|Phi]] · [[Longshot\|Longshot]] · [[Icer\|Icer]] · [[Rabies\|Rabies]] · [[TheGannon\|TheGannon]] · [[Lorenzo\|Lorenzo]] · [[Marks (Dreamer)\|Marks]]|
-|**Términos**|[[Poltergeist\|Poltergeist]] · [[Bolting\|Bolting]]|
 
 
-
-https://es.coppermind.net/wiki/Dreamer_(character)
+https://coppermind.net/wiki/Dreamer_(character)

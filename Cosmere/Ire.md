@@ -1,111 +1,97 @@
-
-
 |**Ire**|
 |-|-|
 ||
-|**Mundo de origen**|[[Reino Cognitivo\|Reino Cognitivo]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Cognitive Realm\|Cognitive Realm]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|Elantrian]] [[Worldhopper\|worldhoppers]] from [[Sel\|Sel]] who have constructed a fortress in the [[Cognitive Realm\|Cognitive Realm]] between worlds. [[/wiki/Aon#Ire]], presumably their namesake, means *age* or *time*.
 
-Los **Ire** son un grupo excepcionalmente consciente del [[Cosmere\|cosmere]] formado por [[Elantrinos\|elantrinos]] [[Saltamundos\|saltamundos]] de [[Sel\|Sel]] que han construido una fortaleza en el [[Reino Cognitivo\|Reino Cognitivo]] entre mundos. El [[/wiki/Aon#Ire]], probablemente su homónimo, significa edad o tiempo.
+## Contents
 
-## Sumario
+1 Members. [[#Members]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 Equipment. [[#Equipment]] 
 
-1 Miembros destacados. [[#Miembros destacados]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Equipo. [[#Equipo]] 
-
-3. [[#Fortaleza]] 
-3. [[#Artefactos M.C3.A1gicos]] 
+3. [[#Fortress]] 
+3. [[#Magical Artifacts]] 
 
 
-4 Historia. [[#Historia]] 
+4 History. [[#History]] 
 
-4. [[#Reclutamiento de Riino]] 
-4. [[#Planes para Ascender]] 
-4. [[#Infiltraci.C3.B3n de Kelsier]] 
-4. [[#Expedici.C3.B3n fallida]] 
-4. [[#Riino en Shadesmar]] 
-4. [[#Eyree en Integridad Duradera]] 
-4. [[#Riina como la hechicera]] 
-
-
-5 Miembros. [[#Miembros]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+4. [[#Recruiting Riino]] 
+4. [[#Plans for Ascension]] 
+4. [[#Kelsier.27s Infiltration]] 
+4. [[#Failed Expedition]] 
+4. [[#Riino in Shadesmar]] 
+4. [[#Eyree in Lasting Integrity]] 
+4. [[#Riina as the Sorceress]] 
 
 
-## Miembros destacados
-El grupo parece tener cierta jerarquía, consistiendo propiamente en elantrinos extremadamente ancianos, tanto hombres como mujeres. Están increíblemente arrugados, en su mayoría o completamente calvos, y no son inmediatamente reconocibles como humanos. Tienen la piel plateada característica de los elantrinos y brillan levemente; algunos miembros tienen la piel más oscura, indicando, se presupone, que son de etnia [[Dula\|dula]]. Los Ire llevan túnicas blancas con capuchas y bordados plateados. [[Alonoe\|Alonoe]], que parece tener el rol de líder en el grupo, tiene bandas de plata más anchas en sus túnicas.
-Los Ire viven en el Reino Cognitivo y mantienen una fortaleza en el borde del [[Subastral\|subastral]] de [[Scadrial\|Scadrial]]. Son acompañados por un gran número de guardias, liderados por un capitán. Estos llevan tabardos azul claro y portan picas, no tienen la apariencia anciana de los Ire, ni son elantrinos. De todos modos, tienen la piel blanca y hablan el mismo idioma que los Ire, lo que implica que son también de herencia [[A%C3%B3nico\|aónica]].
-Los Ire tienen otros miembros, no todos ancianos. Además de su fortaleza, poseen otros pequeños puestos de avanzada en el Reino Cognitivo, y algunos de sus miembros presumiblemente visitan o trabajan en estas ubicaciones. Continúan añadiendo nuevos miembros a su grupo.
+5 Notable Members. [[#Notable Members]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-  <<Alonoe\|Alonoe>>, una de las líderes de los Ire
-Los miembros elantrinos de los Ire no son capaces de usar el [[AonDor\|AonDor]] en su fortaleza debido a la naturaleza dependiente de la ubicación de la magia de Sel.  Aún con todo, la fortaleza tiene un grueso y brillante conducto que avanza hacia la distancia; [[Kelsier\|Kelsier]] es capaz de sentir que este tubo conecta con una fuente de poder en su planeta, presumiblemente el [[Dor\|Dor]]. El conducto parece proporcionar la energía que los Ire necesitan para alimentar su fisiología elantrina, ya que parecen absorber el brillo directamente de los muros de la fortaleza. [[Conservaci%C3%B3n\|Conservación]] los describe como aquellos que “murieron, pero no”, y los clasifica de manera diferente a las sombras cognitivas como Kelsier. Su residencia en el Reino Cognitivo también afecta a la manera en la que envejecen. Todos los miembros son saltamundos, y basándose en el número de guardias de la fortaleza, parecen ser capaces de traer a otras personas al Reino Cognitivo. Una miembro de los Ire tiene la habilidad de aplicar salvaguardas en objetos mágicos para ocultarlos de la detección de una [[Esquirla\|Esquirla]].
-Como grupo, los Ire conocen en profundidad el [[Cosmere\|Cosmere]] y usan términos como [[Fortuna\|Fortuna]], [[Conexi%C3%B3n\|Conexión]], [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]], [[Sombra cognitiva\|sombra cognitiva]] y [[Adonalsium\|Adonalsium]]. Sabían que estaba pasando algo con la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]] antes de que ocurriese el [[Reod\|Reod]]; no estaban en Sel durante este suceso, pero les afectó de alguna manera. Tienen cierto conocimiento de manifestaciones de [[Investidura\|Investidura]] en otros [[Mundo esquirlado\|mundos esquirlados]], aunque no siempre saben los detalles. Sus puestos de avanzada en otros planetas y subastrales puede que contribuyan a este conocimiento. [[Ruina\|Ruina]], [[Conservaci%C3%B3n\|Conservación]] y [[Armon%C3%ADa\|Armonía]] eran todos conscientes de su fortaleza. Los eruditos del Cosmere [[Khriss\|Khriss]] y [[Nazh\|Nazh]] indican que el conocimiento que tienen sobrepasa con creces el suyo propio. Los Ire se comunican con otros eruditos del Cosmere y saltamundos de [[Luzdeplata\|Luzdeplata]], aunque son bastante aislacionistas. Khriss cree que pueden estar ocultando secretos sobre Sel y han declinado repetidamente sus peticiones de colaboración.
 
-## Equipo
-### Fortaleza
-La fortaleza de los Ire está localizada en el Reino Cognitivo al límite del subastral de Scadrial, cerca del espacio entre planetas. La localización correspondiente en el [[Reino F%C3%ADsico\|Reino Físico]] se encuentra en alguna parte del océano más allá del [[Dominio Lejano\|Dominio Lejano]], al noroeste del [[Imperio Final\|Imperio Final]]. Está hecha de piedras blancas —en realidad las almas de rocas— que brillan con una tenue y constante luz azul. El conducto que conecta la fortaleza al Dor proporciona el poder necesario para mantenerla en el Reino Cognitivo, ya que el poder puede verse recorriendo el edificio por completo. Es bonita y de algún modo acogedora; es la instalación mejor construida de los Ire, y es casi tan grande como una ciudad. Tiene numerosas ventanas, siendo algunas estrechas, como saeteras. El interior de la fortaleza tiene numerosos corredores de piedra y múltiples salas grandes. También posee viviendas para sus residentes, incluyendo dormitorios. Los guardias vigilan el techo de la fortaleza, buscando [[Sombra cognitiva\|sombras cognitivas]], particularmente aquellas de [[Treno\|Treno]]. Los caballos también se guardan en la fortaleza.
+## Members
+The group seems to have a hierarchy, with the Ire proper consisting of extremely ancient Elantrians, both male and female. They are incredibly wizened and mostly or completely bald, and are not immediately recognizable as human. They have the silvery skin of Elantrians and glow slightly; a few members have darker skin, presumably indicating that they are ethnically [[Dula\|Dula]]. The Ire wear hooded white robes with silver embroidery. [[Alonoe\|Alonoe]], who seems to have a leadership role in the group, has thicker bands of silver on her robes.
+The Ire live in the Cognitive Realm and maintain a fortress at the edge of the [[Scadrian\|Scadrian]] [[Subastral\|subastral]]. They are accompanied by a large complement of guards, led by a captain. The guards wear white-blue tabards and carry pikes. They do not have the ancient appearance of the Ire, nor are they Elantrians. However, they have fair skin and speak the same language as the Ire, implying that they are also of [[Aonic\|Aonic]] heritage.
+The Ire have other members, not all of whom are ancient. In addition to their fortress, they have other small outposts in the Cognitive Realm, and some of their members presumably operate or visit these locations. They continue to add new members to their group.
 
-### Artefactos Mágicos
-Los Ire poseen una gran cantidad de artefactos mágicos extremadamente poderosos. Tienen un dispositivo del tamaño de un reloj de sobremesa que consiste en una gran gema amarilla engarzada en un entramado de metal dorado. Este, que comparte bastantes características con los [[/wiki/Fabrial#Alertadores]] [[Roshar\|rosharianos]], es capaz de detectar la presencia de [[Umbra\|umbras]] de Treno en el radio de un día de marcha alrededor de la fortaleza.
-El grupo también diseñó (y probablemente creó) un [[Orbe de los Ire\|orbe mágico]] que fue llenado con [[Dor\|Dor]] purificado.{{wob ref|16169} A pesar de su extensa planificación, puede que los Ire no estuviesen completamente preparados para los efectos de usar el orbe.
-También beben una liquido brillante que tiene una apariencia similar a la sustancia del orbe. Beber este líquido restaura el aura luminiscente que emana de los miembros de los Ire. La naturaleza específica del líquido es desconocida, pero tiene alguna relación con una sustancia brillante hecha de Investidura que se le ve aplicar a [[Hoid\|Hoid]] a su remo cuando está remando por el Reino Cognitivo.
-Un miembro de la organización llamado [[Riino\|Riino]] también posee un orbe de luz brillante. Este es muy similar al orbe de Conexión, aunque la luz puede que sea más “lechosa”. Riino se llama a sí mismo “adivino” y afirma ver el futuro, insinuando que su orbe puede que contenga [[Fortuna\|Fortuna]] destilada. [[Kaladin\|Kaladin]] es capaz de experimentar brevemente visiones cuando toca la esfera, y Riino le dice que esto solo le ocurre a las personas [[Investidura\|investidas]].
-Cuando [[Shallan\|Shallan]] se infiltra en la cámara de los[[Honorspren\|honorspren]] en [[Integridad Duradera\|Integridad Duradera]], encuentra una construcción grande, similar a una jarra, usada para almacenar luz tormentosa, aunque los honorspren no saben cómo funciona exactamente. De todos modos, sí saben que dispositivos similares pueden ser comprados de un grupo de mercaderes conocidos como los “Eyree”.
+## Attributes and Abilities
+  <<Alonoe\|Alonoe>>, a leader of the Ire
+The Elantrian members of the Ire are not able to use [[AonDor\|AonDor]] in their fortress due to the location-dependent nature of Selish magic. However, the fortress has a thick, brightly glowing conduit that leads into the distance; [[Kelsier\|Kelsier]] is able to sense that this conduit connects to a source of power on their planet, presumably the [[Dor\|Dor]]. The conduit seems to provide the power that the Ire need to fuel their Elantrian physiology, as they appear to absorb the glowing light directly from the walls of the fortress. [[Preservation\|Preservation]] describes them as those that "died, but did not", and classifies them differently than Cognitive Shadows like Kelsier. Their residence in the Cognitive Realm also affects the way that they age. All of the members are worldhoppers, and based on the number of guards in the fortress, they seem to be able to bring other people into the Cognitive Realm. A female member of the Ire has the ability to place wards on magical objects to conceal them from detection by a [[Shard\|Shard]].
+As a group, the Ire are highly [[Cosmere\|cosmere]]-aware and use terms like [[Fortune\|Fortune]], [[Connection\|Connection]], [[Realmatic Theory\|Realmatic Theory]], [[Cognitive Shadow\|Cognitive Shadow]], and [[Adonalsium\|Adonalsium]]. They were aware that there was something happening to [[Devotion's Perpendicularity\|Devotion's Perpendicularity]] before the [[Reod\|Reod]] occurred; they were not on Sel during the Reod, but it affected them in some way. They have some knowledge of manifestations of [[Investiture\|Investiture]] on other [[/wiki/Cosmere#Planets]] in the cosmere, although they do not always know all the details. Their outposts on other planets and subastrals may contribute to this knowledge. [[Ruin\|Ruin]], [[Preservation\|Preservation]], and [[Harmony\|Harmony]] were all aware of their fortress. Cosmere scholars [[Khriss\|Khriss]] and [[Nazh\|Nazh]] indicate that the Ire's knowledge far surpasses their own. The Ire communicate with other cosmere scholars and worldhoppers in [[Silverlight\|Silverlight]], although they are fairly isolationist. Khriss believes that they may be hiding secrets about Sel and have denied her repeated requests for collaboration.
 
-## Historia
-Poco se sabe sobre el origen de los Ire, excepto que la organización y algunos de sus miembros son increíblemente viejos. El grupo precede a el Reod, ya que ellos no estaban en [[Sel\|Sel]] cuando esta ocurrió, pero parece probable que fuese formado mucho antes de ese momento.
+## Equipment
+### Fortress
+The Ire's fortress is located in the Cognitive Realm at the very edge of the subastral of Scadrial, near the space between planets. The corresponding location in the [[Physical Realm\|Physical Realm]] is somewhere in the ocean beyond the [[Farmost Dominance\|Farmost Dominance]] in the northwest of the [[Final Empire\|Final Empire]]. It is made of white stones—actually the souls of stones—that glow with a faint, constant blue light. The conduit that connects the fortress to the Dor provides the power needed for the fortress to have permanence in the Cognitive Realm, as the power can be seen coursing through the entire building. It is beautiful and somehow inviting; it is the Ire's most well-constructed facility, and is nearly as large as a city. It has numerous windows, with some being narrow, like an arrow slit. The interior of the fortress has stone corridors and multiple large chambers. It also has living quarters for its residents, including bedrooms. Guards keep watch from the roof of the fortress looking for [[Cognitive Shadow\|Cognitive Shadows]], particularly those from [[Threnody\|Threnody]]. Horses are also kept in the fortress.
 
-### Reclutamiento de Riino
-[[Riino\|Riino]] era un elantrino que se convirtió en [[Hoed\|hoed]] tras el [[Reod\|Reod]] en Sel. Fue capaz de dirigir a [[Raoden\|Raoden]] y [[Galladon\|Galladon]] para depositarlo en la [[Perpendicularidad de Devoci%C3%B3n\|Perpendicularidad de Devoción]], donde su cuerpo pareció disolverse. De alguna manera sobrevivió a las peligrosas condiciones del Reino Cognitivo de Sel  y se convirtió en un miembro de los Ire.
+### Magical Artifacts
+The Ire are in possession of several extremely powerful magical artifacts. They have a device the size of a desk clock that consists of a large yellow gemstone set in a lattice of golden metal. The device, which shares several characteristics with [[Rosharan\|Rosharan]] [[/wiki/Fabrial#Warning fabrials]], is able to detect the presence of Threnodite [[Shade\|shades]] within a day's march of the fortress.
+The group also designed (and likely created) a [[Ire's orb\|magical orb]] filled with purified [[Dor\|Dor]] that could grant Connection. Despite their extensive planning, the Ire may not have been fully prepared for the effects of using the orb.
+They also drink a glowing liquid that has a similar appearance to the substance in the orb. Drinking the liquid restores the luminous aura that emanates from the members of the Ire. The specific nature of the liquid is unknown, but it has some relation to a glowing substance made of Investiture that [[Hoid\|Hoid]] is seen applying to his oar when he is rowing through the Cognitive Realm.
+A member of the organization named [[Riino\|Riino]] is also in possession of an orb of glowing light. This orb is very similar to the Connection orb, although the light may be more "milky". Riino calls himself a "fortune seer" and says he can see the future, implying that his orb may contain distilled [[Fortune\|Fortune]]. [[Kaladin\|Kaladin]] is able to briefly experience visions when he touches the globe, and Riino tells him that this only happens for [[Investiture\|Invested]] people.
+When [[Shallan\|Shallan]] infiltrates the [[Honorspren\|honorspren's]] vault in [[Lasting Integrity\|Lasting Integrity]], she finds a large construction, similar to a vat or a jar, used for storing Stormlight though the honorspren don't know exactly how it works; they do know similar devices could be purchased from a group of traveling merchants known as the "Eyree," however.
 
-### Planes para Ascender
-Alonoe y Elrao insinuaron que los Ire trabajaron en una estrategia para tomar el control del poder de la Esquirla Conservación durante bastante tiempo. Su motivación específica para querer obtener el poder de una Esquirla no está del todo clara. Monitorizaron activamente la decreciente salud del [[Recipiente\|Recipiente]] de Conservación, [[Leras\|Leras]], porque sabían que su muerte iba a ser su oportunidad para actuar. El orbe de Conexión era esencial para su programa, aunque consideraron otros usos para el orbe antes de asentar su plan.
+## History
+Little is known about the origin of the Ire, except that the organization and some of its members are incredibly old. The group predates the Reod since they were not on [[Sel\|Sel]] when it occurred, but it seems likely that it was formed long before that time.
 
-### Infiltración de Kelsier
-  Símbolo para "Ire" al estilo del <<Alfabeto de acero\|alfabeto de acero>>.
-Después de ser asesinado por el [[Lord Legislador\|lord Legislador]] y convertirse en una sombra cognitiva, [[Kelsier\|Kelsier]] conoció a un moribundo Leras. Kel estaba desesperado por encontrar una manera de detener a [[Ruina\|Ruina]], y Leras le guió hacia [[Khriss\|Khriss]] y [[Nazh\|Nazh]], quienes estuvieron sorprendidos de verle. Le dijeron que no podían ayudarle, pero que debería buscar a los Ire debido a su excepcional conocimiento sobre el Cosmere. Leras confirmó que los Ire tenían una ciudad en el Reino Cognitivo, y Kelsier partió para encontrarla e investigarla 
-Finalmente, Kelsier encontró la fortaleza e intentó infiltrarse. Fue capaz de discernir que estaba construida con piedra de otro planeta, y sustentada por un poder desconocido. También fue inherentemente capaz de hablar y leer el lenguaje [[A%C3%B3nico\|aónico]]. Un guardia llamado [[Maod\|Maod]] lo encontró, y él y su capitán reportaron el incidente a Alonoe. Esta y los Ire desconfiaban de las intrusiones de las umbras de Treno, y asumieron que Kelsier era una de ellas. Alonoe le dio instrucciones al capitán de la guardia para encender un dispositivo especial parecido a un [[Fabrial\|fabrial]] esperando detectar cualquier habitante de Treno cerca. Aunque el dispositivo no detectó a Kelsier ya que este era de Scadrial, le dijo a los guardias y al resto de los Ire que necesitaban estar alerta.
-Kelsier observó entonces una reunión suya y escuchó su plan para apropiarse del poder de Conservación. [[Elrao\|Elrao]] expresó preocupación sobre enfadar a Ruina, pero Alonoe se negó a dejar que el miedo detuviese el plan. Kelsier se irritó por la ambición de Alonoe, en parte porque había hecho migas con Leras (a quien él llamaba “Borrón”). Descubrió la clave del plan de los Ire, un [[Orbe de los Ire\|orbe mágico]] que podría proporcionar la Conexión necesaria a alguien para ascender como Conservación. Planeaban usar salvaguardas para prevenir que Ruina notase el dispositivo. Kelsier decidió frustrar los planes de los Ire robando el orbe.
+### Recruiting Riino
+[[Riino\|Riino]] was an Elantrian who had become [[Hoed\|Hoed]] after the [[Reod\|Reod]] on Sel. He was able to direct [[Raoden\|Raoden]] and [[Galladon\|Galladon]] to place him into [[Devotion's Perpendicularity\|Devotion's Perpendicularity]], and his body seemed to dissolve. He somehow survived the dangerous conditions in Sel's Cognitive Realm and became a member of the Ire.
 
-### Expedición fallida
-Alrededor de una semana más tarde, cinco miembros de los Ire y quince guardias dejaron la fortaleza a caballo pretendiendo tomar el control de Conservación. Llevaron consigo un líquido brillante que parecía sustanciar su aura mágica elantrina. Aunque cuatro de los miembros de los Ire llevaban orbes de señuelo, Kelsier acertó correctamente que Alonoe no alejaría al orbe real de su posesión. Kelsier sembró el caos, pretendiendo ser Ruina y susurrando cosas perturbadoras al oído de Alonoe. Esta estaba determinada a perseverar, pero las fechorías de Kelsier impidieron al grupo dormir, llevando a la confusión y las luchas internas. Cuando la expedición se acercó a la jungla, Kelsier aprovechó la oportunidad para asustar a los caballos del grupo y aisló a Alonoe en medio de la vegetación. Usando uno de las túnicas de Alonoe que había robado de la fortaleza, engañó al resto del grupo para que pensase que se había desintegrado, espantándolos. Dio entonces media vuelta para confrontar a la aterrorizada Alonoe, que creyó que él era Ruina y le dio el orbe. Alonoe incluso se ofreció a servir a Ruina, pero Kelsier la rechazó, forzándola a caminar para encontrar a sus compañeros  Kelsier usó el orbe con éxito como los Ire tenían intención de hacer.
+### Plans for Ascension
+Alonoe and Elrao implied that the Ire worked on a strategy to take over the power of the Shard Preservation's power for quite some time. Their specific motivation for wanting to take up the power of a Shard is unclear. They actively monitored the failing health of Preservation's [[Vessel\|Vessel]], [[Leras\|Leras]], because they knew that his death would be their window to act. The Connection orb was critical to their scheme, although they did consider other uses for the orb before settling on their plan.
 
-### Riino en Shadesmar
-Un tiempo después de unirse a los Ire, Riino fue visto en [[Shadesmar\|Shadesmar]] en [[Roshar\|Roshar]] trabajando como guardián de un faro. Estaba ahí con un objetivo específico, pero no estaba relacionado con la misión general de los Ire. Poseía un orbe mágico que le permitía ver el futuro, se llamaba a sí mismo, el "Oraculo [[/wiki/Aon#Rii]]". Kaladin conoció a Riino y el orbe pareció traspasarlo; lo tocó y experimentó visiones. Riino de primeras asumió que Kaladín tenía [[Aliento biocrom%C3%A1tico\|aliento biocromático]] ya que solo las personas investidas podían usar el orbe, pero entonces se sorprendió cuando se dio cuenta de que la [[Potenciaci%C3%B3n\|Potenciación]] había vuelto a Roshar.
+### Kelsier's Infiltration
+  A <<Steel alphabet\|steel alphabet>>-style symbol for "Ire".
+After being killed by the [[Lord Ruler\|Lord Ruler]] and becoming a Cognitive Shadow, [[Kelsier\|Kelsier]] met a dying Leras. Kelsier was desperate to find a way to stop [[Ruin\|Ruin]], and Leras led him to [[Khriss\|Khriss]] and [[Nazh\|Nazh]], who were shocked to see him. They told him that they could not help him, but that he should seek the Ire due to their exceptional knowledge about the cosmere. Leras confirmed that the Ire had a city in the Cognitive Realm, and Kelsier set out to find and investigate it.
+Kelsier eventually found the fortress and attempted to infiltrate it. Kelsier was able to discern that the fortress was built with stone from another planet and sustained by an unfamiliar power; he was also inherently able to speak and read the [[Aonic\|Aonic]] language. A guard named [[Maod\|Maod]] spotted him, and he and his captain reported the incident to Alonoe. Alonoe and the Ire were wary of intrusions by shades from Threnody, and assumed that Kelsier was one of them. She instructed the guard captain to turn on a special [[Fabrial\|fabrial]]-like device, hoping to detect any Threnodites nearby. Although the device did not detect Kelsier since he was Scadrian, she told the guards and the rest of the Ire that they need to stay alert.
+Kelsier then observed a meeting of the Ire and overheard their plan to seize the power of Preservation. [[Elrao\|Elrao]] expressed concern about angering Ruin, but Alonoe refused to let fear deter the plan. Kelsier was irritated by Alonoe's ambition, partly because he had befriended Leras (whom he called "Fuzz"). He discovered the key to the Ire's plan, a [[Ire's orb\|magical orb]] that could provide the Connection necessary for someone to ascend as Preservation. They planned to use wards to prevent Ruin from noticing the device. Kelsier decided to thwart the Ire by stealing the orb.
 
-### Eyree en Integridad Duradera
-Un grupo de mercaderes ambulantes, llamados los Eyree por los rosharianos, vendieron a los honorspren de [[Integridad Duradera\|Integridad Duradera]] tecnología elantrina que contenía luz tormentosa.
+### Failed Expedition
+About a week later, five members of the Ire and fifteen guards left the fortress on horseback, intending to take control of Preservation. They brought a glowing liquid that seemed to sustain their magical Elantrian aura. Although four of the Ire members carried decoy orbs, Kelsier correctly guessed that Alonoe would not allow the real orb to leave her possession. He began to sow seeds of chaos, pretending to be Ruin and whispering disturbing things into Alonoe's ears. Alonoe was determined to persevere, but Kelsier's antics prevented the group from sleeping, leading to confusion and infighting. When the expedition approached a jungle, Kelsier seized the opportunity to scare the group's horses and isolate Alonoe amidst the vegetation. Using one of Alonoe's robes that he had stolen from the fortress, he tricked the rest of the group into thinking that she had disintegrated, scaring them away. He then doubled back to confront a terrified Alonoe, who believed that he was Ruin and gave up the orb. Alonoe even offered to serve Ruin, but Kelsier dismissed her, forcing her to walk to find her companions. Kelsier went on to successfully use the orb as the Ire had intended.
 
-### Riina como la hechicera
-Muchos años después de la interrupción de Kelsier, uno de los miembros del grupo, [[Riina\|Riina]] llegó a poseer una [[Torre de la hechicera\|nave espacial]] y la utilizó para viajar a [[Lumar\|Lumar]]. Poco a poco se hizo conocida localmente como una poderosa *hechicera*; adoptó ese nombre, llegando a maldecir a quienes intentaban perturbar su presencia. El reino del [[Mar Esmeralda\|mar Esmeralda]] intentó guerras contra ella en vano. Finalmente fue obligada a marcharse por [[Hoid\|Hoid]] y [[Trenza\|Trenza]]. Se desconoce si los Ire sancionaron estas acciones, o incluso si eran conscientes de ellas.
+### Riino in Shadesmar
+Some time after joining the Ire, Riino was seen in [[Shadesmar\|Shadesmar]] on [[Roshar\|Roshar]] working as a lighthouse keeper. He was there for a specific purpose, although it was not related to the overall mission of the Ire. He was in possession of a magical orb that allowed him to see the future; he called himself the "[[/wiki/Aon#Rii]] Oracle." Kaladin met Riino and the orb seemed to transfix him; he touched it and experienced visions. Riino first assumed that Kaladin had [[BioChromatic Breath\|BioChromatic Breath]] since only Invested people could use the orb, but was then shocked when he realized that [[Surgebinding\|Surgebinding]] had returned on Roshar.
 
-## Miembros
-Para más información, ver :Categoría: Ire.
+### Eyree in Lasting Integrity
+A group of traveling merchants, called the Eyree by Rosharans, sold the honorspren of [[Lasting Integrity\|Lasting Integrity]] Elantrian technology which can contain Stormlight.
+
+### Riina as the Sorceress
+Many years after Kelsier's disruption, one of the group's members, [[Riina\|Riina]] came into the possession of a [[Sorceress's tower\|spaceship]] and used it to travel to [[Lumar\|Lumar]]. She gradually became known locally as a powerful *Sorceress*; she took up that name, going on to curse those who tried to disrupt her presence. The kingdom on the [[Emerald Sea\|Emerald Sea]] attempted wars against her in vain. She was eventually forced to leave by [[Hoid\|Hoid]] and [[Tress\|Tress]]. Whether the Ire sanctioned, or even was aware of, these actions is unknown.
+
+## Notable Members
+For more information, see :Category: Ire.
 [[Alonoe\|Alonoe]]
 [[Elrao\|Elrao]]
 [[Riina\|Riina]]
 [[Riino\|Riino]]
-[[Maod\|Maod]] (guardia)
-## Curiosidades
-[[Isaac Stewart\|Isaac Stewart]] diseñó un símbolo del [[Alfabeto de acero\|alfabeto de acero]] para los “Ire” como confirmación al hecho de que la organización se ha movido entre mundos. El símbolo no está pensado para crear una relación directa con las [[Artes Met%C3%A1licas\|Artes Metálicas]], pero puede que haya algún tipo de conexión establecida en futuros libros.
-Ya que las actividades de los Ire se cruzan con aquellas de los eruditos del Cosmere en [[Luzdeplata\|Luzdeplata]], es probable que formen parte de una potencial historia ambientada allí.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] ·  · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+[[Maod\|Maod]] (guard)
+## Trivia
+[[Isaac Stewart\|Isaac Stewart]] designed a [[Steel alphabet\|steel alphabet]] symbol for "Ire" as a nod to the fact that the organization has moved between worlds. The symbol is not meant to convey a direct relationship to the [[Metallic Arts\|Metallic Arts]], but there may be some sort of connection established in a future book.
+Since the activities of the Ire intersect with those of the cosmere scholars in [[Silverlight\|Silverlight]], they would likely play some part in a potential story set there.
 
 
-
-https://es.coppermind.net/wiki/Ire
+https://coppermind.net/wiki/Ire

@@ -1,85 +1,64 @@
-
-
 |**Mare**|
 |-|-|
 ||
-|**Cónyuge**|[[Kelsier\|Kelsier]]|
-|**Fallecido**|1019 [[Imperio Final\|IF]] en los [[Pozos de Hathsin\|Pozos de Hathsin]]|
-|**Capacidades**|[[/wiki/Esta%C3%B1o#Uso alom.C3.A1ntico]]|
-|**Religión**|[[Larsta\|Larsta]]|
-|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Spouse**|[[Kelsier\|Kelsier]]|
+|**Died**|1019 [[Final Empire\|FE]] in the [[Pits of Hathsin\|Pits of Hathsin]]|
+|**Abilities**|[[/wiki/Tin#Allomantic Use]]|
+|**Religion**|[[Larsta\|Larsta]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Mare** es una [[Brumoso\|brumosa]] de [[Esta%C3%B1o\|estaño]] (también denominada [[Ojo de esta%C3%B1o\|ojo de estaño]]) en [[Scadrial\|Scadrial]]. Es la mujer de Kelsier y también forma parte de su banda. Siempre se ha sentido fascinada por los tiempos previos a la Ascensión, es una fiel seguidora del [[Larsta%C3%ADsmo\|larstaísmo]] y colecciona artefactos propios de esa época, incluido un dibujo de una flor. Además, también es un miembro activo de la rebelión skaa. Kelsier y ella fueron capturados por el [[Lord Legislador\|lord Legislador]] cuando trataron de infiltrarse en [[Kredik Shaw\|Kredik Shaw]] y fueron enviados a los [[Pozos de Hathsin\|Pozos de Hathsin]], donde acabó siendo asesinada. Tras su muerte, Kelsier dedica toda su vida al mismo propósito: crear un mundo donde las flores puedan volver a crecer, el mundo con el que ella siempre había soñado.
+**Mare** is a [[Tin\|tin]] [[Misting\|Misting]] (aka a [[Tineye\|Tineye]]) on [[Scadrial\|Scadrial]]. She is [[Kelsier\|Kelsier's]] wife and a member of his crew. She is fascinated by pre-Ascension times, following the pre-Ascension religion of [[Larstaism\|Larstaism]] and collecting artifacts from that era, including a picture of a flower. She is also active in the skaa rebellion. She and Kelsier are captured by the [[Lord Ruler\|Lord Ruler]] when they try to infiltrate [[Kredik Shaw\|Kredik Shaw]], and sent to the [[Pits of Hathsin\|Pits of Hathsin]]. She is later killed there. After her death, Kelsier dedicates his life toward making a world where flowers grow again, the world she had always dreamed of.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Alomancia]] 
-2. [[#Trabajo como ladrona]] 
-
-
-3 Historia. [[#Historia]] 
-4 Legado. [[#Legado]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+2. [[#Allomancy]] 
+2. [[#Thieving]] 
 
 
-## Apariencia y personalidad
+3 History. [[#History]] 
+4 Legacy. [[#Legacy]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
  
-Para más imágenes, ver [[Mare/Galer%C3%ADa\|/Galería]].
-Mare tiene el pelo oscuro y una personalidad obstinada. Kelsier dice que ella tenía «una veta oculta tendente a lo poco convencional».
+For more images, see [[Mare/Gallery\|/Gallery]].
+Mare has dark hair and a stubborn personality. Kelsier describes her as having had 'a hidden streak of unconventionality'.
 
-## Atributos y habilidades
-### Alomancia
-Mare es una [[Ojo de esta%C3%B1o\|ojo de estaño]], lo que quiere decir que puede quemar estaño para amplificar sus sentidos.
+## Attributes and Abilities
+### Allomancy
+Mare is a [[Tineye\|Tineye]], meaning she can burn tin to enhance her senses.
 
-### Trabajo como ladrona
-Mare es una ladrona muy hábil que trabaja con Kelsier y Dockson, así como con otros ladrones. También es experta en hacerse pasar por noble.
+### Thieving
+Mare is a competent thief, working with Kelsier and Dockson as well as other thieves. She is also very skilled at impersonating a noblewoman.
 
-## Historia
-Mare se vio atraída por los bajos fondos skaa debido a su estatus como [[Alomancia\|brumosa]] y su interés por los tiempos previos a la Ascensión. Así es como conoció a Kelsier y se acabó casando con él pese a que [[Marsh\|Marsh]] también se había enamorado de ella. Mare también era amiga de [[Sazed\|Sazed]], y fue quien se lo presentó a su marido.
+## History
+Mare was drawn to the Skaa underground because of both her status as a skaa [[Misting\|Misting]] and her interest in pre-Ascension times. This was how she met Kelsier. They got married, although [[Marsh\|Marsh]] had also been in love with her. Mare was also friends with [[Sazed\|Sazed]], and introduced him to her husband.
 
-  Mare con su flor
-Siempre quiso tener hijos, en concreto una niña a la que pudiera «enseñar a caminar por la línea que separa a la noble de la ladrona». No obstante, Kelsier pensaba que tener hijos sería un estorbo, por lo que nunca tuvieron ninguno (algo de lo que más tarde Kelsier se arrepentiría).
-Mare se mostraba decepcionada con Kelsier cada vez que sus actos contra la nobleza ponían la vida que habían construido en peligro.
-Cuando Kelsier se enteró de que el lord Legislador escondía algo de gran valor en su habitación secreta, Mare y un [[Ahumador\|ahumador]] llamado [[Redd\|Redd]] trabajaron junto a él en un intento de allanar la estancia. Sin embargo, unos [[Inquisidor de acero\|inquisidores de acero]] estaban esperándolos a la entrada de la cámara secreta, donde inmediatamente asesinaron a Redd. En ese momento, el lord Legislador dio las gracias a Mare por haber traicionado a Kelsier. Acto seguido los separó.
-Mare fue trasladada a los Pozos de Hathsin algunas semanas más tarde que Kelsier. Aunque aún la amaba, las palabras pronunciadas por el lord Legislador hicieron que Kelsier cuestionara su lealtad. A pesar de reafirmarse en su inocencia, Kelsier creyó la mentira de que Mare lo había traicionado, aunque nunca estuvo completamente seguro de lo que había sucedido. Mare murió dieciocho meses después, sacrificándose por su marido. Kelsier no había sido capaz de encontrar ninguna geoda de [[Atium\|atium]], sin la cual sería asesinado por los obligadores. Mare hizo creer a Kelsier que había encontrado dos geodas y le convenció de que cogiera una. Cuando descubrieron que Mare no había traído ninguna geoda, los obligadores la golpearon hasta matarla. Este es el evento que causó que Kelsier [[Romper\|Rompiera]].
-[[Conservaci%C3%B3n\|Conservación]] informó a Kelsier de que Mare fue al [[M%C3%A1s All%C3%A1\|Más Allá]] tras su muerte. Más tarde, Kelsier trató de confirmarlo, pero no recibió respuesta de la [[Esquirla\|Esquirla]]. Sin embargo, Mare no era una [[Kandra\|kandra]] ni existe como [[Sombra cognitiva\|sombra cognitiva]].
+  With her flower
+She wanted children, particularly a daughter whom she could teach to ‘walk the line between noblewoman and thief’. However, Kelsier thought they would be a hindrance and so they had none — something he later regretted.
+She expressed disappointment when Kelsier's vigilante actions against nobles would throw their life into upheaval.
+When Kelsier heard that the Lord Ruler was hiding something valuable in his secret room, Mare and a [[Smoker\|Smoker]] named [[Redd\|Redd]] helped him in his attempt to break into the room. However, they arrived to find [[Steel Inquisitors\|Steel Inquisitors]] outside the secret chamber, waiting for them. They killed Redd immediately. The Lord Ruler then thanked Mare for betraying Kelsier to him, before the two were separated.
+She arrived in the Pits of Hathsin a few weeks after Kelsier. Though he still loved her, Kelsier questioned her loyalty due to the Lord Ruler's words. Despite Mare's claims of innocence, Kelsier believed the lie that Mare had betrayed him, although he was never completely certain about what had happened. She died eighteen months later, having sacrificed herself for Kelsier. He had been unable to find an [[Atium\|atium]] geode, without which he would have been killed by the taskmasters. Mare convinced him to take hers, lying that she had found two that week. When it was revealed that she had none, the taskmasters beat her to death. This event is what caused Kelsier to [[Snap\|Snap]].
+[[Preservation\|Preservation]] informed Kelsier that Mare went to the [[Beyond\|Beyond]] after her death. Kelsier later sought to confirm this, but received no answer from the [[Shard\|Shard]]. However, Mare was not a [[Kandra\|kandra]], nor does she exist as a [[Cognitive Shadow\|Cognitive Shadow]].
 
-## Legado
+## Legacy
  
-Años más tarde, [[Vin\|Vin]] descubrió que el lord Legislador y los inquisidores tenían la capacidad de penetrar las nubes de [[Cobre\|cobre]]. Concluyó que los inquisidores pudieron detectar el uso de la alomancia de Mare aquella noche, dando pie a la captura del pequeño equipo de Kelsier. Esto significaba que era muy posible que Mare no traicionara Kelsier en realidad, aunque a Kelsier le costó asimilar esta nueva información.
-Las  que crecen en Scadrial tras el [[Catacendro\|Catacendro]] fueron llamadas así por [[Fantasma\|Fantasma]] en su honor.
+Years later, [[Vin\|Vin]] realized that the Lord Ruler and his Inquisitors were able to pierce [[Copper\|copperclouds]]. She concluded that the Inquisitors had sensed Mare's use of Allomancy on the night of the break-in, allowing them to apprehend Kelsier's small team. This meant that it was possible that Mare hadn't betrayed Kelsier after all, although Kelsier struggled to process this new information.
+[[Marewill flowers\|Marewill flowers]] that grow in post-[[Catacendre\|Catacendre]] Scadrial were named after Mare by [[Spook\|Spook]].
 
-## Curiosidades
-Algunos aspectos de la vida de Mare y su historia con Kelsier siguen siendo misteriosos, pero pueden ser explicados en una historia futura como en la secuela de *Nacidos de la bruma: historia secreta*.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Some aspects of Mare's life and her backstory with Kelsier remain mysterious, but may be explained in a future story such as a sequel to *Mistborn: Secret History*.
 
 
 
-https://es.coppermind.net/wiki/Mare
+
+https://coppermind.net/wiki/Mare

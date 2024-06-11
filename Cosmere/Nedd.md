@@ -1,143 +1,127 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Nedd Strong**|
 |-|-|
 ||
-|**Familia**|
-|**Hermanos**|[[Conducto (Escuadr%C3%B3n)\|Conducto]], [[Tormenta Nocturna Siete\|Tormenta Nocturna Siete]]|
-|**Apodos**|Identificador: Nedder|
-|**Oficio**|Piloto de la FDD|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
+|**Family**|
+|**Siblings**|[[Vent (Skyward)\|Vent]], [[Nightstorm Seven\|Nightstorm Seven]]|
+|**Aliases**|Callsign: Nedder|
+|**Profession**|DDF pilots|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Solar\|Solar]]*, *[[ReAlba (novella)\|ReAlba]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
-
->“*Lo divertido es quedarte sentado en casa, con los pies levantados, disfrutando de una taza de algo caliente. Todo esto me supera mucho.*”
+>“*Fun is sitting at home, with your feet up, enjoying a mug of something warm. All of this is over my head.*”
 \-[3]
 
 
-**Nedd Strong** (identificador **Nedder'**) es miembro de la [[FDD\|FDD]] y piloto en el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]]. Es jefe de escuadrón asistente, junto con Arturo, de Jorgen. Aunque en un principio fue eliminado del programa de vuelo de la FDD, Nedd es readmitido después de la [[Segunda Batalla de Alta\|Segunda Batalla de Alta]], probablemente debido a su heroísmo durante el asalto [[Varvax\|Krell]].
-Nedd tiene dos hermanos mayores, ambos pilotos de la FDD; [[Conducto (Escuadr%C3%B3n)\|Tormenta Nocturna Seis]] y [[Tormenta Nocturna Siete\|Tormenta Nocturna Siete]]. Creció viviendo en la [[Base Alta\|Base Alta]], donde sus padres mantienen los huertos. Su familia es acomodada, probablemente debido al riesgo asociado al trabajo de sus padres, sin embargo, no es tan rica como algunas de las familias de las [[Cavernas inferiores\|cavernas inferiores]]. Antes de la escuela de vuelo, Nedd fue a la escuela en las cavernas inferiores, donde se hizo buen amigo de Jorgen y Arturo.
+**Nedd Strong** (callsign **Nedder**) is a member of the [[DDF\|DDF]] and a pilot in [[Skyward Flight\|Skyward Flight]]. He is flight assistant, along with Arturo to Jorgen. Although originally removed from the DDF flight program, Nedd is reinstated after the [[Battle of Alta Second\|Battle of Alta Second]], likely due to his heroics during the [[Varvax\|Krell]] assault.
+Nedd has two older brothers, both DDF pilots; [[Vent (Skyward)\|Nightstorm Six]] and [[Nightstorm Seven\|Nightstorm Seven]]. He grew up living in [[Alta Base\|Alta Base]], where his parents keep the orchards. His family is well off, likely due to the risk associated with his parent's work, however, not as rich as some of the families in the [[Deep caverns\|lower caverns]]. Prior to flight school, Nedd went to school in the deep caverns, where he became good friends with Jorgen and Arturo.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
-4. [[#Jorgen y Arturo]] 
+4. [[#Jorgen and Arturo]] 
 4. [[#Spensa]] 
-4. [[#Arcada]] 
+4. [[#Hurl]] 
 4. [[#FM]] 
-4. [[#Otros]] 
+4. [[#Other]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
->“*Como nuestro experto residente que soy, quisiera señalar que el arma de un verdadero cobarde es un sofá cómodo y una pila de novelas un poco divertidas.*”
+## Appearance and Personality
+>“*As our resident expert, I’d like to point out that the true coward’s weapon is a comfortable couch and a stack of mildly amusing novels.*”
 \-[3]
 
 
-Nedd es el miembro más alto de [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], que mide un metro noventa y tres. Es de constitución corpulenta, y cuando ingresó en la escuela de vuelo, no había terminado de desarrollar sus facciones, ya que su cara parecía demasiado grande para su cabeza. Entre su altura y su complexión general, Nedd ocupa la mayor parte del espacio de su cabina. Es consciente de sus hábitos alimenticios saludables y suele saltarse el postre durante las comidas para mantener un mejor físico. Tiene un leve acento que normalmente se asocia con los de las [[Cavernas inferiores\|cavernas inferiores]], que adquirió durante su escolarización previa a la FDD. No es religioso.
+Nedd is the tallest member of [[Skyward Flight\|Skyward Flight]], standing at one hundred and ninety three centimeters tall. He is heavily built, and when he joined flight school, had not fully grown into his features as his face appeared too large for his head. Between his height and overall build, Nedd takes up most of the space in his cockpit. He is conscious of healthy eating habits and routinely skips dessert during meals to maintain a better physique. He has a faint accent that is normally associated with those from the [[Deep caverns\|lower caverns]], which he picked up during his pre-[[DDF\|DDF]] schooling. He is not religious.
 
->“*"Creía que decías que eras tonto"*
-\-"Más tonto que las piedras"
-"¿Y esas perspicaces observaciones de nuestros compañeros?"
-
-
-Tiene buen carácter, es tranquilo, y amistoso, se hizo amigo de muchos de sus compañeros de escuadrón durante los primeros días de la escuela de vuelo. Se apresura a bromear con los demás de forma amistosa, y no tiene problema en convertirse en el blanco de la broma. Esto es exagerado, probablemente a propósito, por Nedd, que en realidad es una persona muy reflexiva y perspicaz. Se le da bien conocer a las personas y anticipar cómo satisfacer sus necesidades, aunque sus compañeros no sean conscientes de ellas. A menudo se utilizará a sí mismo como blanco si nota que alguien está estresado y necesita desahogarse.
-A Nedd se le da bien entender cómo se pueden aprovechar los rasgos y las personalidades de los que le rodean, y diseñará situaciones para utilizarlos de forma eficaz. No se amilana ante los conflictos y hace de mediador, siendo muy bueno a la hora de calmar situaciones. En general, Nedd es muy sensato, pero puede actuar de forma irracional si cree que alguien que le importa está en peligro. Nedd es dado de baja de la FDD cuando no se presenta al servicio tras la muerte de sus hermanos, ya que la inestabilidad emocional, incluso la causada por el dolor, se considera un signo de que un piloto no es apto para el servicio. Aunque parece haber vuelto a ser el mismo cuando los miembros restantes del Escuadrón Cielo se gradúan, sigue atormentado por los recuerdos de sus muertes.
-Nedd se vuelve más consciente y más crítico con la cultura sembrada por la FDD tras su expulsión de la [[Escuela de vuelo\|escuela de vuelo]]. A pesar de su amor por volar, es consciente de cómo la FDD trata a sus pilotos y al principio no está interesado en volver a unirse, ya que no cree que pudiera hacerle eso a su madre tras la muerte de sus dos primeros hijos. Tras la Segunda Batalla de Alta, la actitud de Nedd hacia la FDD cambia lo suficiente como para volver a unirse y servir como piloto.
-
-## Atributos y habilidades
->“*"¿Y qué pasa con los que seguimos siendo unos descerebrados, babosos e idiotas pero sí que hemos entrenado con usted?""No te subestimes tanto, Nedder. No te he visto babear nunca"*”
-\-Cobb y Nedd[14]
+>“*“I thought you said you were stupid.”*
+\-“Dumb as cold rocks.”
+“And your insightful read on our companions?”
 
 
-A pesar de su propensión a actuar de otro modo, Nedd tiene grandes conocimientos sobre pilotaje y [[Caza estelar\|cazas estelares]], habiendo alcanzado el rango de piloto.
-Durante la escuela de vuelo, Nedd se forma para pilotar un [[Poco\|Poco]], realizar maniobras aéreas y utilizar su armamento. Tiene cierta experiencia práctica en vuelo y combates aéreos antes de unirse a la [[FDD\|FDD]], sin embargo, no era extensa - no está acostumbrado a volar con un compañero de ala y no tiene práctica con el uso de sus [[/wiki/Caza estelar#Destructores]]. Cuando empezó en el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], volaba bastante bien cuando se enfrentaba a un solo [[Varvax\|Krell]], pero era derribado con bastante rapidez cuando se enfrentaba a varios enemigos durante una simulación de batalla. Puede que prefiera los destructores al resto de armamento del caza estelar, sin embargo, sus frecuentes sugerencias de usar estas armas pueden ser su forma de recordar a [[Bim\|Bim]].
-Tras su reincorporación, Nedd pasa a formar parte de un equipo especializado compuesto por miembros del Escuadrón Cielo y pilota un largo, un francotirador o un interceptor.
-Nedd no es un citónico. 
+He is good natured, easy going, and friendly, easily befriending many of his fellow flightmates during the early days of flight school. He is quick to joke with others in a friendly manner, and has no issue with making himself the butt of the joke. This is overdone, likely on purpose, by Nedd, who is actually a very thoughtful and perceptive person. He is good at characterizing people and anticipating how to meet their needs, even if these needs aren't something his companions are aware of themselves. He will often use himself as a target if he notices that someone is stressed and needing to blow off steam.
+Nedd is good at understanding how the traits and personalities of those around him can be utilized and will engineer situations to effectively use these traits. He does not shy away during conflict and will play the mediator, being very good at diffusing situations. Nedd is, in general, very levelheaded, however can act irrationally if he believes someone he cares about is in danger. Nedd is forcibly discharged from the DDF when he fails to report for duty after the death of his brothers, as instability of emotions, even those caused by grief, are considered a sign that a pilot is unfit to serve. Although he appears to have returned to his jolly self by the time the remaining members of Skyward Flight graduate, he is still haunted by memories of their deaths.
+Nedd becomes more aware and more critical of the culture seeded by the DDF after his dismissal from [[Flight school\|flight school]]. Despite his love of flying, he is aware of how the DDF treats their pilots and is initially not interested in rejoining, as he does not think he could do that to his mother after the death of her first two sons. Following the Battle of Alta Second, Nedd's attitude towards the DDF shifts enough for him to rejoin and serve as a pilot.
 
-## Historia
-Nedd creció en la [[Base Alta\|Base Alta]], donde sus padres mantenían los huertos. Se desconoce de dónde es originario Nedd, o dónde vivían él y su familia antes de que la Base Alta se consolidara como fortaleza tras la [[Batalla de Alta\|Batalla de Alta]]. En algún momento de su infancia, sus padres comenzaron a enviar a Nedd a las [[Cavernas inferiores\|cavernas inferiores]], donde asistió a la escuela; sin embargo, no está claro si vivía en estas cavernas durante todo el curso escolar o si se desplazaba cada día a través de los ascensores privados. Durante sus estudios, conoce a [[Arturo\|Arturo]] y [[Jorgen\|Jorgen]] y entabla amistad con ellos. Cuando ingresan en la escuela de vuelo, los tres son amigos íntimos. Tras realizar el examen de ingreso, Nedd ingresa en [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] bajo la tutela de [[Cobb\|Cobb]]. Durante su estancia en la [[Escuela de vuelo\|escuela de vuelo]], se alojó con los otros miembros masculinos de su escuadrón.
-Su primer día en la escuela de vuelo le vio llegar al aula con sus dos amigos, Jorgen y Arturo. Cuando Jorgen regañó a los demás miembros del Escuadrón Cielo por no estar organizados y les ordenó que prestaran atención, Nedd obedeció la orden con naturalidad. Después de que Cobb nombrara a Jorgen jefe de escuadrón, éste eligió a Nedd como uno de sus dos ayudantes.
-Cuando la primera lección se vio interrumpida por un ataque [[Varvax\|Krell]], Nedd, junto con el resto del Escuadrón Cielo, recibió la orden de surcar los cielos y alinearse cerca de la batalla para engañar a los krell haciéndoles creer que había más pilotos dispuestos a unirse al conflicto. Cuando una nave krell se separó y se dirigió hacia los cadetes y la Base Alta, Nedd se unió a Jorgen como compañero de ala para intentar repelerla. La pareja se enfrentó a la nave krell utilizando técnicas de combate aéreo, pero Nedd se alejó demasiado de Jorgen, lo que permitió a la nave krell seguir al otro piloto y le hizo quedarse rezagado respecto a las otras dos naves.
+## Attributes and Abilities
+>“*"What about those of us who are still drooling, meathead idiots?" Nedd asked. "But did train with you?"*
+\-"Don't sell yourself short, Nedder," Cobb said. "I’ve never seen you drool."
 
->“*Bonita explosión, Rara. Siete de diez. Intenta girar tus restos un poco más la próxima vez que caigas.*”
-\-Nedd burlándose de Kimmalyn durante el entrenamiento[3]
 
-Al día siguiente, cuando Cobb pidió a los cadetes que le informaran sobre su método y estilo de enseñanza, Nedd se sorprendió, pues no esperaba que a Cobb le importaran sus sentimientos al respecto. En respuesta a la pregunta de Cobb, dijo que estaba confundido y luego hizo una broma sobre el almuerzo. Más tarde, los cadetes empezaron a probar las funciones de las armas en sus simuladores. Al igual que sus compañeros de clase, salvo [[Kimmalyn\|Kimmalyn]], Nedd no tuvo un buen rendimiento cuando intentó dar en el blanco por primera vez, y no consiguió efectuar ni un solo disparo. Cuando la clase intentó un combate aéreo tras el ejercicio de tiro al blanco, Nedd fue derribado al poco de comenzar la simulación.
-Durante el juego de anillos con [[/wiki/Caza estelar#Lanza de luz]], Nedd se estrelló intencionadamente en el tercer anillo de la segunda carrera. Como broma, tiró de Arturo hacia los escombros frente al anillo usando su lanza de luz, haciendo que ambos se estrellaran. Después de que [[Spensa\|Spensa]] chocara deliberadamente con Jorgen, Nedd, junto con Arturo, intentó calmar a su jefe de escuadrón, bromeando que Jorgen aún había vencido a Arturo - un comentario que Arturo no apreció. Como venganza, Jorgen habló a Nedd y Arturo del padre de Spensa, mientras el resto de la sala escuchaba.
-Pocos días después, el Escuadrón Cielo fue enviado de nuevo a la batalla contra los krell, esta vez luchando junto a pilotos titulares. Poco después de que [[Marea\|Marea]] fuera derribada, Nedd se emparejó con Arturo, que inicialmente había sido compañero de ala de Jorgen, para evitar que los krell pudieran centrarse en ninguno de ellos. Nedd sobrevivió a la batalla, sin embargo, tanto [[Bim\|Bim]] como Marea murieron.
+Despite his propensity to act otherwise, Nedd is highly knowledgeable about piloting and [[Starfighter\|starfighters]], having achieved the rank of pilot.
+During flight school Nedd trains to pilot a [[Poco\|Poco]], perform aerial maneuvers, and use its weaponry. He has some prior practical experience in flying and dogfighting from before joining the [[DDF\|DDF]], however, it was not extensive - he is unused to flying with a wingmate and not practiced with using his [[/wiki/Starfighter#Destructors]]. When he first began in [[Skyward Flight\|Skyward Flight]], he flew well enough when facing a single [[Varvax\|Krell]], but was shot down fairly quickly when pitted against multiple enemies during a battle simulation. He may have a preference for destructors over the other starfighter weaponry, however, his frequent suggestions to use these weapons may instead be his way of remembering [[Bim\|Bim]].
+After being reinstated, Nedd is placed in a specialized team made up of Skyward Flight members and flies either a largo, sniper, or interceptor.
+Nedd is not a cytonic.
+
+## History
+Nedd grew up on [[Alta Base\|Alta Base]], where his parents kept the orchards. It is unknown where Nedd originally hails from, or where he and his family lived before Alta Base was solidified as a stronghold following the [[Battle of Alta\|Battle of Alta]]. At some point during his upbringing, his parents began to send Nedd to the [[Deep caverns\|deep caverns]] where he attended school, however, it is unclear whether he lived in these caverns for the duration of the school year or commuted each day via the private elevators. During his schooling he met and befriended [[Arturo\|Arturo]] and [[Jorgen\|Jorgen]] and by the time they join flight school, the three are close friends. After taking the entrance exam, Nedd was placed in [[Skyward Flight\|Skyward Flight]] under the tutorledge of [[Cobb\|Cobb]]. During his time at [[Flight school\|flight school]], he roomed with the other male members of his flight.
+His first day of flight school saw him arriving at the class room with his two friends, Jorgen and Arturo. When Jorgen chided the other members of Skyward Flight for not being organized and ordered them to attention, Nedd naturally obeyed the command. After Cobb named Jorgen flightleader, Jorgen chose Nedd as one of his two assistant flightleaders.
+When the first lesson was interrupted by a [[Varvax\|Krell]] attack, Nedd, along with the rest of Skyward Flight, were ordered to take to the sky and line up close to the battle to deceive the Krell into thinking there were more pilots ready to join the conflict. When a Krell ship broke away heading towards the cadets and Alta Base, Nedd joined Jorgen as his wingmate to try and ward it off. The pair engaged the Krell ship using dogfighting techniques, however, Nedd pulled too far away from Jorgen allowing the Krell to tail the other pilot, leading to him falling behind the other two ships.
+
+>“*Nice explosion, Quirk. Seven out of ten. Try to spin your wreckage a little more next time you fall.*”
+\-Nedd teasing Kimmalyn during training[3]
+
+The next day, when Cobb asked the cadets to report back to him on his teaching method and style, Nedd was surprised, not expecting Cobb to care about their feelings on the matter. In answer to Cobb's question, he reported he was confused then made a joke about lunch. Later, the cadets began testing out the weapons functions on their mockpits. Like his fellow classmates, barring [[Kimmalyn\|Kimmalyn]], Nedd performed poorly when first attempting to hit the targets, not managing to land a single shot. When the class attempted dogfighting following the target practice exercise, Nedd was shot down not long after the simulation began.
+During the [[/wiki/Starfighter#Light-Lance]] ring game, Nedd intentionally crashed on the third ring of the second run. As a joke, he pulled Arturo into the debris in front of the ring by using his light-lance, causing them both to crash. After [[Spensa\|Spensa]] deliberately collided with Jorgen, Nedd, along with Arturo, attempted to calm his flightleader down, joking that Jorgen had still beaten Arturo - a comment Arturo did not appreciate. As a form of vicious retribution, Jorgen told Nedd and Arturo about Spensa's [[Zeen Nightshade\|father]] while the rest of the room listened.
+A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. Shortly after [[Morningtide\|Morningtide]] was shot down, Nedd paired off with Arturo, who had initially been Jorgen's wingmate, to prevent the Krell from being able to focus on either of them. Nedd survived the battle, however, both [[Bim\|Bim]] and Morningtide were killed.
 
  
-Tras la muerte de sus compañeros de escuadrón, Nedd pidió a Spensa que pronunciara uno de sus discursos sobre el honor y la gloria para ayudar al escuadrón a procesar la muerte de sus amigos. Aunque al principio Spensa se mostró reticente, pues ya no veía el sentido de sus bravuconadas, lo que acabó diciendo sobre su fallecimiento tuvo el efecto deseado por Nedd. Mientras la lección continuaba, bromeó con Arturo y [[Arcada\|Arcada]], probablemente en un intento de levantarles también el ánimo.
-Dos semanas más tarde, Nedd fue emparejado con Spensa durante un entrenamiento con [[/wiki/Caza estelar#Pulso Magallanes Invertido]]. Mientras esperaban su turno, Nedd le habló a Spensa de su educación, de lo que había observado de los demás cadetes y de cómo creía que lo estaban llevando. A Spensa le parecieron interesantes sus observaciones sobre los demás, que demostraban que la imagen de bromista tonto que proyectaba Nedd encubría su perspicacia e inteligencia. Más tarde, una vez finalizado el ejercicio de entrenamiento, Nedd trató de calmar la situación entre Spensa y Jorgen elogiando sus habilidades de combate y convirtiendo la situación en una exhibición educativa, recordando también a Jorgen que él había provocado a la cadete.
-Cuando el [[Astillero\|astillero]] empezó a caer, la primera vez que el Escuadrón Cielo volaba desde las muertes de Marea y Bim, Nedd, Kimmalyn y Spensa se separaron accidentalmente del resto del escuadrón, y a Spensa la empezaron a seguir. Nedd y Kimmalyn ayudaron a destruir y dispersar la cola de Spensa antes de que los tres fueran a intentar reunirse con los demás.
-Antes de que pudieran reunirse con el resto de su escuadrón, Nedd se escabulló, diciéndoles a los otros dos que los alcanzaría, y luego siguió a sus hermanos, que estaban siendo seguidos por krell, hacia el astillero roto. Spensa le siguió hasta las entrañas de la nave, intentando ambos destruir las colas del piloto de [[Escuadr%C3%B3n Tormenta Nocturna\|Tormenta Nocturna]]. A pesar del peligro que corrían por la caída del astillero, Nedd no quería abandonar a sus hermanos, ni siquiera cuando Spensa dijo que debían retroceder antes de que la gigantesca nave se estrellara. Cuando se negó a detenerse, Spensa alanceó a su [[Poco\|Poco]] con su lanza de luz, tirando de él hasta detenerlo. Nedd llamó airadamente cobarde a Spensa por sus acciones, aunque la siguió cuando empezó a navegar fuera de la nave. Lograron escapar de la nave y salir de debajo de ella antes de que chocara contra la superficie del planeta, con siete segundos de sobra. De vuelta en la base, Nedd fue a comprobar la línea de vuelo del Tormenta Nocturna para descubrir que ninguno de sus hermanos había conseguido volver a Alta y que habían muerto en el accidente.
-Tras la muerte de sus hermanos, Nedd dejó de asistir a clase, lo que provocó su expulsión de la FDD. Es probable que Nedd regrese a casa para vivir con sus padres fuera de la Base Alta. Tras su marcha, el Poco de Nedd fue asignado a otro escuadrón.
-Semanas más tarde, tras la muerte de [[Arcada\|Arcada]], Nedd se reunió con sus antiguos compañeros de escuadrón mientras estaban de permiso. Hablaron de Arcada, recordando a su amiga y rememorando su época en la escuela de vuelo. Cuando la novia de Arturo, [[Bryn\|Bryn]], fue al baño, los actuales y antiguos miembros del Escuadrón Cielo hablaron brevemente sobre la extrañeza de las tácticas krell y la reticencia de la FDD a hablar de estas cosas.
+Following the death of their flightmates, Nedd asked Spensa to give one of her speeches on honor and glory to help the flight process their friend's deaths. Although Spensa was initially reluctant, no longer seeing the point of her bravado, what she eventually said about their passing has the desire effect that Nedd had hoped for. As the lesson continued, he joked with Arturo and [[Hurl\|Hurl]], likely in an attempt to also raise their spirits.
+Two weeks later, Nedd was paired with Spensa during a [[/wiki/Starfighter#Inverted Magellan Pulse]] training. While they waited for their run, Nedd told Spensa about his upbringing, what he had observed of the other cadets, and how he thought they were coping. Spensa found his observations of the other cadets interesting, showing that Nedd's projected image of a dumb jokester covered his perceptiveness and intelligence. Later, after the training exercise had finished, Nedd tried to diffuse the situation between Spensa and Jorgen by complimenting her fighting skills and shifting the situation into an educational display, also reminding Jorgen that he had provoked the female cadet.
+When the [[Shipyard\|shipyard]] began falling, the first time Skyward Flight had flown since Morningtide and Bim's deaths, Nedd, Kimmalyn, and Spensa accidentally split from the rest of the flight, with Spensa picking up a tail. Nedd and Kimmalyn helped destroy and scatter Spensa's tail before the three went to try and rejoin the others.
+Before they could meet up with the rest of their flight, Nedd peeled away, telling the other two that he would catch up, then followed his brothers, who were being tailed by Krell, into the broken shipyard. Spensa followed him into the bowel's of the ship, the two of them trying to destroy the [[Nightstorm Flight\|Nightstorm]] pilot's tails. Despite the danger they were in from the falling shipyard, Nedd did not want to leave his brothers, even when Spensa said they should pull back before the giant ship crashed. When he refused to stop, Spensa speared his [[Poco\|Poco]] with her light-lance, pulling him to a stop. Nedd angrily called Spensa a coward for her actions, though followed her when she began to navigate out of the ship. They managed to escape the ship and get out from underneath it before it hit the planet's surface, with seven seconds to spare. Back at base, Nedd went to check the Nightstorm Flight line up to discover that neither of his brothers had made it back to Alta and had died in the crash.
+After the death of his brothers, Nedd stopped attending classes, leading to his dismissal from the DDF. Nedd likely returns home to live with his parents outside of Alta Base. Following his departure, Nedd's Poco was assigned to another flight.
+Weeks later, following [[Hurl\|Hurl's]] death, Nedd met up with his former flightmates while they were on leave from duty. They spoke of Hurl, remembering their friend and reminiscing about their time in flight school. When Arturo's girlfriend, [[Bryn\|Bryn]], went to the bathroom, the current and former members of Skyward Flight talked briefly about the strangeness of Krell tactics and the DDF's hesitancy to talk about these things.
 
->“*¡Hola, Nedd! Puedo confirmar que eres muy idiota, pero todos los humanos lo sois. Tus capacidades mentales parecen estar dentro de una desviación típica de la media de la especie.*”
-\-Primera interacción entre Nedd y M-Bot[23]
+>“*Hi, Nedd! I can confirm you are an idiot, but all humans are. Your mental abilities appear to be within a standard deviation from their average.*”
+\-Nedd and M-Bot's first interaction[24]
 
-Nedd asistió a la graduación del Escuadrón Cielo, pero se perdió la ceremonia y se encontró con Spensa durante el aperitivo. Había planeado convencer a los miembros que se graduaban del escuadrón para que se unieran al grupo original para una celebración posterior a la graduación, sin embargo, no pudo encontrar a [[FM\|FM]] y Jorgen entre la ceremonia y su partida para defender el [[Astillero\|astillero]] que estaba cayendo. Nedd y Spensa fueron a reunirse con el resto de la ex tripulación del escuadrón para escuchar la batalla en la radio personal de la familia Méndez. Aunque el grupo empezó escuchando en la frecuencia de la [[LAN\|Asamblea]], con el tiempo cambiaron a la frecuencia de los pilotos para oír directamente lo que ocurría.
-Queriendo ayudar a sus compañeros pilotos tras oír la desesperación durante la batalla, Nedd, Kimmalyn y Arturo fueron a las cavernas inferiores para robar los cazas privados de los Méndez. Los tres tomaron las naves y fueron a unirse a Spensa para rechazar el segundo ataque krell. [[F%C3%A9rrea\|Férrea]] ordenó a Nedd y a sus dos compañeros que se centraran en destruir el bombardero aunque eso destruyera Alta.
-Una vez que el grupo llegó, Nedd y Arturo fueron tras el bombardero por orden de Spensa, en un intento de alejarlo de la Base Alta. Férrea intentó desautorizar a Spensa, pero Nedd y Arturo hicieron caso omiso. Sin embargo, sus intentos de atacar al bombardero se vieron constantemente obstaculizados por las naves negras de la guardia krell, que atacaban si se acercaban pero retrocedían si se alejaban. Cuando llegó el Escuadrón Contracorriente, se unieron a Nedd y Arturo para enfrentarse a estas naves y mantenerlos ocupados y distraídos. Se desconoce cómo terminó el combate en el que participó Nedd, pero cabe suponer que los cazas krell negros se retiraron al soltar la [[Aniquiladora\|aniquiladora]].
-Tras la batalla, Nedd fue readmitido como piloto de la FDD. Acompañó a Jorgen durante su exploración del sistema de cuevas de Detritus, sin embargo, tras cinco días de viaje, empezó a hacerse eco de la sugerencia de Arturo de que el trío regresara a la base. Desconocía la verdadera razón por la que los amigos estaban explorando las cuevas, creyendo que el objetivo de su tarea había sido transmitido por Cobb a Jorgen.
+Nedd attended Skyward Flights graduation, however missed the actual ceremony instead running into Spensa during refreshments. He had planned to convince the graduating members of the flight to join the original group for a post graduation celebration, however, he was unable to find [[FM\|FM]] and Jorgen between the ceremony and their departure to defend the falling [[Shipyard\|shipyard]]. Nedd and Spensa went to join the rest of the ex-Skyward crew to listen in to the battle on the Mendez family's personal radio. Although the group started listening in on the [[NAL\|Assembly]] frequency, they eventually changed to the pilot band to hear directly what was going on.
+Wanting to help their fellow pilots after hearing the desperation during the battle, Nedd, Kimmalyn, and Arturo went to the deep caverns to steal the Mendez private fighters. The three took the Mendez ships and went to join Spensa in fighting off the second Krell attack. [[Ironsides\|Ironsides]] ordered Nedd and his two companions to focus on destroying the bomber even if it would destroy Alta.
+Once the group arrived, Nedd and Arturo went after the bomber on Spensa's orders, in an attempt to drive it away from Alta Base. Ironsides tried to overrule Spensa, however, was ignored by Nedd and Arturo. They attempts to attack the bomber, however, were constantly impeded by the black Krell guard ships which would attack if they got close but fall back if they pulled away. When [[Riptide Flight\|Riptide Flight]] arrived, they joined Nedd and Arturo in engaging with these ships to keep them busy and distracted. It is unknown how the fight Nedd was involved in ended, but it can be assumed the black Krell fighters pulled back when the [[Lifebuster\|lifebuster]] was dropped.
+Following the battle, Nedd was reinstated as a DDF pilot. He accompanied Jorgen during his exploration of Detritus' cave system, however, after five days of travelling, began to echo Arturo's suggestion that the trio head back to base. He was unaware of the true reason the friends were exploring the caves, believing the objective of their task had been relayed from Cobb to Jorgen.
 
-## Relaciones
-### Jorgen y Arturo
->“*"¿Y qué haces cuando hay una emergencia en un caza? Te... "*
-\-"Te llamo. Y te pregunto: «Oye, Arturo, ¿dónde está la tirdosa palanca de eyección?»"
+## Relationships
+### Jorgen and Arturo
+>“*"And what do you do when there's an emergency? In a fighter? You…"*
+\-"Call you," Nedd said. "And say, ‘Hey Arturo. Where’s the scudding eject lever?’"
 
 
-Nedd conoció a [[Arturo\|Arturo]] y [[Jorgen\|Jorgen]] en algún momento mientras los tres estudiaban en las [[Cavernas inferiores\|cavernas inferiores]], antes de la [[Escuela de vuelo\|escuela de vuelo]]. Para cuando todos son aceptados en la clase de [[Cobb\|Cobb]], los tres son buenos amigos.
-Nedd tiene una relación divertida y bromista con Arturo, en la que ambos suelen lanzarse insultos amistosos y discutir sobre temas mundanos. Arturo está acostumbrado a las ocurrencias de Nedd y se siente lanzado después de que Nedd abandone la escuela de vuelo, esperando aún sus respuestas durante ciertos compases de la conversación. La relación de Nedd con Jorgen es más juguetona y Nedd a menudo se burla de él, probablemente para que el otro chico se desahogue.
-Nedd y Arturo no invitan deliberadamente a Jorgen a las reuniones informales del [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]], ya que creen que no querría unirse al grupo, con lo que la invitación sería una pérdida de tiempo. No está claro si tienen razón en este pensamiento.
+Nedd met [[Arturo\|Arturo]] and [[Jorgen\|Jorgen]] at some point while the three of them were schooled in the [[Deep caverns\|deep caverns]], prior to [[Flight school\|flight school]]. By the time they all are accepted into [[Cobb\|Cobb's]] class, the three are good friends.
+Nedd has a fun natured and bickering type of relationship with Arturo, with the two often throwing friendly insults at each other and arguing over mundane topics. Arturo is used to Nedd's wisecracks and is thrown after Nedd drops out of flight school, still expecting his responses during certain beats of conversation. Nedd's relationship with Jorgen is more one sided in it's playfulness and Nedd often pokes fun at Jorgen, likely to allow the other boy to let off steam.
+Nedd and Arturo deliberately do not invite Jorgen to informal gatherings of [[Skyward Flight\|Skyward Flight]] as they believe he would not want to join the group, thus making the invitation a waste of time. It is unclear if they are correct in this thought.
 
 ### Spensa
->“*"Eh, Peonza. Tú siempre estás hablando del honor, y de la gloria de morir como guerreros, y de gilipolleces por el estilo." *
-\-"Sí, ¿y qué?"
-"Que... Que a lo mejor, nos vendrían bien unas gilipolleces de esas ahora mismo."
+>“*“Hey, Spin. You’re always talking about ‘honor’ and the ‘glory of dying like warriors’ and crap like that.”*
+\-“Yeah? So?”
+“So…, maybe we could use a little of that crap right now.”
 
 
-Aunque al principio [[Spensa\|Spensa]] sólo ve a Nedd en relación con [[Jorgen\|Jorgen]], tras la muerte de [[Marea\|Marea]] y [[Bim\|Bim]], empieza a descubrir más de la persona que hay debajo de su proyectada personalidad bromista. Se da cuenta de que es mucho más inteligente de lo que parece y de que es una persona muy perspicaz y reflexiva. Tras la revelación de que el padre de Spensa era [[Zeen Nightshade\|Zeen Nightshade]], Nedd empezó a actuar con más cautela cerca de Spensa, aunque no está claro si esto se debía a su parentesco o a su temperamento.
-Cuando Spensa impidió que Nedd persiguiera a sus hermanos mientras el astillero se derrumbaba, él la acusó de cobardía, un comentario que se le quedó grabado a Spensa después del suceso y que jugó a favor de sus miedos subyacentes. La expulsión de Nedd de la [[FDD\|FDD]] desconcertó a Spensa, que al principio no se dio cuenta de que le habían expulsado de la [[Escuela de vuelo\|escuela de vuelo]], y le afectó en gran medida, probablemente debido tanto a la pérdida de otro miembro de la FDD como a su interacción final.
-Pasaron semanas desde que Nedd y Spensa se separaron tras la muerte de sus hermanos; sin embargo, en el momento de su reencuentro, los resentimientos que Nedd había tenido hacia la cadete habían desaparecido. Tras la reincorporación de Nedd a la FDD, ambos estrechan su amistad y Spensa se acostumbra a la presencia del otro piloto.
+Although [[Spensa\|Spensa]] initially sees Nedd only in relation to [[Jorgen\|Jorgen]], following [[Morningtide\|Morningtide]] and [[Bim\|Bim's]] death's, she begins to discover more of the person underneath his projected jokester personality. She comes to realize that he is much more intelligent that he seems, and is a very perceptive and thoughtful person. Following the revelation that Spensa's father was [[Zeen Nightshade\|Zeen Nightshade]], Nedd began acting more cautious around Spensa, although it is unclear if this was because of her parentage or her temper.
+When Spensa stopped Nedd from chasing his brothers while the shipyard was falling, he accused her of cowardice, a comment that stuck with Spensa after the event and played into her underlying fears. Spensa was thrown by Nedd's dismissal from the [[DDF\|DDF]], not realizing, at first, that he had been removed from [[Flight school\|flight school]], and was largely affected by it, likely due to both losing another flight member and their final interaction.
+Weeks passed between Nedd and Spensa's parting following his brother's death, however, by the time of their reunion, the ill feelings that Nedd had held towards the female cadet had passed. After Nedd rejoins the DDF, the pair strengthen their friendship, with Spensa growing use to being in the other pilot's presence.
 
-### Arcada
->“*Parece que para ella todo es una competición, pero entonces perdimos a Bim y a Marea, y ahora casi no abre la boca. No sabe cómo reaccionar desde que no puede ver el vuelo como un juego.*”
-\-Nedd describiendo el estado de ánimo de Arcada a Spensa tras la muerte de Bim y Marea[3]
+### Hurl
+>“*Seems like everything’s a competition to her, but then we lost Bim and Morningtide, so now she’s gone all quiet. She doesn’t know how to react now that she can’t see flying as a game.*”
+\-Nedd describing Hurl's mood to Spensa following the death's of Bim and Morningtide[3]
 
 
-Nedd y [[Arcada\|Arcada]] mantienen una relación competitiva, en la que cada uno intenta superar al otro en diversas actividades. Él es consciente de su formación atlética y la reta a jugar al bolapared, aunque casi siempre pierde. Una noche, durante la cena, ambos apostaron a ver quién comía más empanadillas de algas. A diferencia de lo que ocurrió durante el bolapared, Nedd ganó esta apuesta.
-Nedd puede ver a través de la fachada de confianza de Arcada y aunque reconoce que es una buena piloto, no cree que sea tan buena como ella cree ser.
+Nedd and [[Hurl\|Hurl]] have a competitive relationship, with each of them trying to outdo the other in various activities. He is aware of her athletic background and will challenge her to wall-ball, even though he almost always loses. At dinner one night, the two made a bet on who could eat the most algae patties. Unlike during wall-ball, Nedd won this bet.
+Nedd can see through Hurl's front of confidence and although he acknowledges that she is a good pilot, he does not think she is as good as she believes herself to be.
 
 ### FM
-Nedd estaba colado por FM.  FM se daba cuenta, pero no sentía lo mismo. Ella esquivaba sus intenciones, tratando de disuadirlo disimuladamente. Finalmente, Nedd le pidió una cita y ella le dijo que prefería que fueran amigos. Nedd se lo tomó bien, pero actuó de forma incómoda con ella, tratando de hacer las cosas menos raras pero fracasando rotundamente, exasperando ligeramente a FM, que ignoró su interés en primer lugar para evitar exactamente esa situación. Siguen en buenos términos y no dejan que la incomodidad afecte a su escuadrón.
+Nedd had a crush on FM. FM could tell, but didn't feel the same. FM stepped around his interest, trying to dissuade him covertly. Finally Nedd asked her out on a date, and she told him she'd rather be friends. Nedd took it well but acted awkwardly around her, trying to make things less weird but failing utterly, slightly exasperating FM, who ignored his interest in the first place to avoid that exact situation. They are still on good terms and don't let the awkwardness affect their flying.
 
-### Otros
-[[Cobb\|Cobb]]: Cobb es muy consciente de la inteligencia de Nedd a pesar de su propensión a hacerse el tonto. Cobb creía que el despido de Nedd de la FDD acabaría siendo bueno para él.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-Este artículo estaba completo y revisado , pero tras la publicación de *[[Solar\|Solar]]*, ahora necesita volver a revisarse.
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] ·  · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+### Other
+[[Cobb\|Cobb]]: Cobb is well aware of Nedd's intelligence despite his propensity to play dumb. Cobb believed Nedd's dismissal from the DDF would ultimately be good for him.
 
 
-
-https://es.coppermind.net/wiki/Nedd
+https://coppermind.net/wiki/Nedd

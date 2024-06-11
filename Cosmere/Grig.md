@@ -1,24 +1,10 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Grig**|
 |-|-|
-|**Universo**|[[Citoverso\|Citoverso]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
-El **grig** es una especie de criatura parecida a un dinosaurio en el [[Citoverso\|Citoverso]], y algunos habitan fragmentos en la [[Ninguna-parte\|ninguna-parte]]. Son reptilianos y caminan sobre dos patas, con una larga cola que se arrastra detrás de su cuerpo. Sus ojos están en el torso, y su cuello es largo y en forma de trompa, terminando en una boca dentuda. Tiene bigotes a lo largo del cuello que le permiten orientarse entre los árboles. Los grigs son grandes y de aspecto feroz, y miden al menos más de un metro de ancho.
-A pesar de su aspecto temible, suelen utilizarse como animales de carga. Se alimentan de energía y no se inmutan ante las descargas. Se les puede domesticar ofreciéndoles una pequeña matriz de poder u otra fuente de energía. Después de un festín, suelen irse a dormir.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Taln Fan (talk) 04:06, 21 de marzo de 2022 (UTC)
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+The **grig** is a species of dinosaur-like creature in the [[Cytoverse\|Cytoverse]], and some inhabit fragments in the [[Nowhere\|nowhere]]. They are reptilian and walk on two legs, with a long tail that trails behind their body. Their eyes are on its shoulders, and its neck is a long and trunk-like, ending in a toothy mouth. It has whiskers along its neck's length to allow it to feel its way through trees. Grigs are large and fierce looking, and are at least more than a meter wide.
+Despite their fearsome appearances, they are usually used as pack animals. They feed on energy, and aren't fazed by energy blasts. They can be tamed by giving them an offering of a small power matrix or other energy source. After a feast, they usually wander off to sleep.
 
 
 
-https://es.coppermind.net/wiki/Grig
+https://coppermind.net/wiki/Grig

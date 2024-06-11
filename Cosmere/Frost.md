@@ -1,99 +1,83 @@
-
-
 |**Frost**|
 |-|-|
 ||
-|**Grupo**|[[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]]🐱︎|
-|**Especie**|[[Drag%C3%B3n (Cosmere)\|Dragón (Cosmere)]]|
-|**Mundo natal**|[[Yolen\|Yolen]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Groups**|[[Seventeenth Shard\|Seventeenth Shard]]|
+|**Species**|[[Dragon (cosmere)\|Dragon (cosmere)]]|
+|**Homeworld**|[[Yolen\|Yolen]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Nuestra interferencia, hasta el momento, no ha provocado más que dolor. Mi camino ha sido escogido muy deliberadamente.*”
-\-Carta de Frost a Hoid[2]
-
-
-**Frost** es un [[Drag%C3%B3n (Cosmere)\|dragón]] de [[Yolen\|Yolen]]. Es lo bastante antiguo como para recordar la [[Fragmentaci%C3%B3n\|Fragmentación]], y se ha estado comunicando con [[Hoid\|Hoid]] a través de [[Cartas\|cartas]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-
-2. [[#Immortalidad]] 
+>“*Our interference so far has brought nothing but pain. My path has been chosen very deliberately.*”
+\-Frost's letter to Hoid[2]
 
 
-3 Historia. [[#Historia]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas del traductor. [[#Notas del traductor]] 
-6 Notas. [[#Notas]] 
+**Frost** is a [[Dragon (cosmere)\|dragon]] from [[Yolen\|Yolen]]. He is old enough to remember the [[Shattering\|Shattering]], and has been corresponding with [[Hoid\|Hoid]] through [[Letters\|letters]].
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+
+2. [[#Immortality]] 
 
 
-## Apariencia y personalidad
->“*Por favor, oye mi súplica. Deja ese lugar y únete a mí en mi juramento de no intervención. El Cosmere mismo puede depender de nuestra contención.*”
-\-Carta de Frost a Hoid[5][6]
+3 History. [[#History]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-Desconocemos los detalles concretos de la apariencia de Frost. Se da por supuesto que tiene las poderosas habilidades de metamorfosis comunes de su raza, que le confieren el poder de alterar su apariencia de manera significativa. Probablemente, su apariencia habitual es de naturaleza reptiliana.
-Frost ha vivido los eventos significativos ocurridos en el Cosmere y ha adoptado la política de no interferir. Es sarcástico y ofensivo con Hoid, aunque está claro que su relación personal es complicada.
+## Appearance and Personality
+>“*Please, hearken to my plea. Leave that place and join me in my oath of nonintervention. The cosmere itself may depend upon our restraint.*”
+\-Frost's letter to Hoid[5][6]
 
 
-Imágenes de Frost
+The specific details of Frost's appearance are unknown. He presumably has the powerful shapeshifting abilities common to his race, giving him the power to significantly alter his appearance. His usual appearance is presumably reptilian in nature.
+Frost has lived through significant events in the cosmere and has adopted a non-interference policy. He's sarcastic and insulting towards Hoid, although it is clear that their personal relationship is complicated.
 
 
-
- Con [[Hoid\|Hoid]], en un sticker de [[Dragonsteel Entertainment\|Dragonsteel Entertainment]]
+Images of Frost
 
 
 
-
-
- Con Hoid
+ With [[Hoid\|Hoid]], on [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] sticker
 
 
 
 
 
- Con Hoid
+ With Hoid
 
 
 
 
 
- Con Hoid
+ With Hoid
 
 
 
-## Atributos y habilidades
-  Frost con Hoid
-Como todos los dragones, Frost es funcionalmente inmortal, en el sentido de que no envejece pero se le puede matar. Es el personaje conocido de mayor edad del Cosmere, mayor incluso que Hoid.
-Los dragones también son conocidos por tener la habilidad de volar y cambiar de forma, incluyendo la habilidad de parecer humano.
-Pese a no ser un [[Saltamundos\|saltamundos]], posee un elevadísimo conocimiento sobre el Cosmere. Está relacionado con la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], un grupo que comparte su política de no intervención. Es capaz de mantener un seguimiento de los actuales eventos en el Cosmere a través de la Decimoséptima Esquirla, por correspondencia, u otros medios. Entre otras cosas, sabe que Hoid posee una pepita de [[Lerasium\|lerasium]] procedente de [[Scadrial\|Scadrial]], que [[Odium\|Odium]] está atrapado en el [[Sistema roshariano\|sistema roshariano]], y que la gema de Hoid (presuntamente la [[Primera Gema\|Primera Gema]]) está «muerta». A pesar de la existencia de [[Mercantil Luzdeplata\|Mercantil Luzdeplata]], un «sistema postal» interplanetario, este no era el método usado entre Frost y Hoid para intercambiar correspondencia, lo que significa que tenían otros medios para comunicarse.
 
-### Immortalidad
-La mortalidad actual de Frost es ambigua. Como dragón, es naturalmente eterno; inmortal en el sentido débil de que podría vivir para siempre sin intervención externa. Sin embargo, Hoid dice "como eres **ahora** esencialmente inmortal",  él debe ser inmortal en *algún* sentido más fuerte que eso. Pero contraviniendo eso, él todavía puede ser asesinado. Frost es lo suficientemente difícil de matar como para que Hoid lo considere "esencialmente inmortal", pero aún así es posible matarlo. Lo que esto significa no está claro.
 
-## Historia
-Se sabe poco de la historia de Frost, aunque es verdaderamente antiguo. Es algo mayor que Hoid, y se sabe que los dos vivieron en [[Yolen\|Yolen]]. De su correspondencia se puede deducir que Hoid y Frost se conocían bien, y Frost da a entender que han trabajado juntos en el pasado. En dicha correspondencia también se exhibe que conocían personalmente a cierto número de los dieciséis [[/wiki/Esquirla#Recipiente]] originales que perpetraron la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]] en Yolen y tomaron el poder de las [[Esquirla\|Esquirlas]]. En concreto, las cartas mencionan a [[Rayse\|Rayse]], [[Bavadin\|Bavadin]], [[Aona\|Aona]], [[Skai\|Skai]], [[Ati\|Ati]], y [[Tanavast\|Tanavast]], y Frost menciona a «los dieciséis».
-Dada la carta inicial de Hoid a Frost, parece que ambos llevan un tiempo sin hablarse. Hoid no está seguro de si Frost es completamente consciente de que [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] han sido [[Astilla\|Astillados]] en [[Sel\|Sel]], aunque han pasado milenios desde el suceso. Hoid le ruega a Frost su apoyo, lo que implica que Frost todavía tiene influencia en el Cosmere. Frost rechaza a Hoid, recalcando su política de no-intervención y hace referencia a sus actos pasados como si hubieran causado más mal que bien. Aunque Frost parece compartir la evaluación de Hoid sobre el hecho de que Odium es peligroso, no entiende el nivel de preocupación de Hoid dado que Odium está atrapado en el [[Sistema roshariano\|sistema roshariano]]. La postura de ambos es diametralmente opuesta en cuanto a la mejor forma de salvar el Cosmere, y Frost suplica a Hoid que abandone su misión para evitar que con su intervención las cosas vayan a peor.
-Durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]] de Roshar, Frost aún vive en Yolen.
-
-## Curiosidades
-Es probable que haya personajes más antiguos que Frost en el Cosmere, pero todavía no han sido canonizados.
-La primera aparición de Frost fue en la novela *[[Dragonsteel Prime\|Dragonsteel Prime]]* que todavía no está publicada. Una parte de ella se puede leer  en la página web de Brandon. Según la planificación a largo plazo para el Cosmere, Brandon aún mantiene la idea de sacar una saga de libros llamada *[[Dragonsteel\|Dragonsteel]]*, y probablemente incluirá a Frost.
-En *Dragonsteel Prime* original, Frost se hacía pasar por humano, y Hoid pudo demostrar que era un dragón gastándole una broma usando un [[Tamu Kek\|Tamu Kek]].
-## Notas del traductor
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 12:05, 24 June 2019 (MST)
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+ With Hoid
 
 
 
-https://es.coppermind.net/wiki/Frost
+## Attributes and Abilities
+  Frost With Hoid
+Like all dragons, Frost is functionally immortal, meaning that he does not age, but he can be killed. He is the oldest known character in the cosmere, even older than Hoid. He has gained a second form of immortality on top of his natural dragon immortality through unknown means.
+Dragons are also known to have the abilities of flight and shapeshifting, including the ability to appear human.
+While not a [[Worldhopper\|worldhopper]], he is still highly knowledgeable about the cosmere. He is associated with the [[Seventeenth Shard\|Seventeenth Shard]], a group that shares his nonintervention policy. He is able to keep track of current events in the cosmere through the Seventeenth Shard, correspondence, or other means. Among other facts, he knows that Hoid possesses a bead of [[Lerasium\|lerasium]] from [[Scadrial\|Scadrial]], that [[Odium\|Odium]] is trapped in the [[Rosharan system\|Rosharan system]], and that a gemstone of Hoid's (presumably the [[First Gem\|First Gem]]) is "dead". Despite the existence of the [[Silverlight Mercantile\|Silverlight Mercantile]] interplanetary postal service, this was not the method Hoid and Frost used to exchange letters, meaning that they had some other means of contacting one another.
+
+### Immortality
+Frost's current mortality status is ambiguous. As a dragon, he is naturally ageless; immortal in the weak sense that he could live forever absent outside intervention. However, Hoid says "as you are **now** essentially immortal", he must be immortal in *some* sense stronger than that. But contravening that, he still can be killed. Frost is both sufficiently difficult to kill that Hoid would consider him "essentially immortal", but still possible to kill. What this means is not clear.
+
+## History
+Little is known of Frost's history even though he is truly ancient. He is slightly older than Hoid, and both of them are known to have lived on [[Yolen\|Yolen]]. In their correspondence, Frost and Hoid seemed to know each other well, and Frost hinted that they had worked together in the past. They also exhibited a shared personal knowledge of a number of the original sixteen [[Vessel\|Vessels]] who perpetrated the [[Shattering of Adonalsium\|Shattering of Adonalsium]] on Yolen and took up the power of the [[Shard\|Shards]]. Specifically, the letters mentioned [[Rayse\|Rayse]], [[Bavadin\|Bavadin]], [[Aona\|Aona]], [[Skai\|Skai]], [[Ati\|Ati]], and [[Tanavast\|Tanavast]] by name, and Frost referenced "the sixteen".
+In Hoid's initial letter to Frost, it seemed that the two had not spoken in some time; Hoid was not sure if Frost was fully aware of the [[Splinter\|Splintering]] of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] even though several millenia had passed since that event. Hoid begged Frost for his support, implying that Frost still had clout in the cosmere. Frost rebuffed Hoid, emphasizing his nonintervention policy, and referred to their past actions as having caused more harm than good. Although Frost seemed to agree with Hoid's assessment that Odium was dangerous, he did not understand Hoid's level of concern since Odium was trapped in the [[Rosharan system\|Rosharan system]]. The two were diametrically opposed on the best way to save the cosmere, and Frost entreated Hoid to abandon his quest; he felt that this was the only way to ensure that Hoid would not make things worse with his meddling.
+Frost still lived on Yolen during Roshar's [[True Desolation\|True Desolation]].
+
+## Trivia
+It is likely that there are characters older than Frost in the cosmere, but they have not been canonized.
+Frost first appeared in the unpublished novel *[[Dragonsteel Prime\|Dragonsteel Prime]]*, some of which can be read on Brandon's website. A series of *[[Dragonsteel (series)\|Dragonsteel]]* novels are still in Brandon's long-term plans for the cosmere, and would likely include Frost.
+In the original Dragonsteel Prime, Frost was posing as a human, and Hoid was able to prove he was a dragon by pranking him using a [[Tamu Kek\|Tamu Kek]].
+
+
+https://coppermind.net/wiki/Frost

@@ -1,91 +1,88 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**AonDor**|
 |-|-|
 ||
-|**Relacionado con**|[[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]]|
-|**Prerrequisitos**|La [[Shaod\|Shaod]]|
-|**Tipo**|Fin-positivo|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|
+|**Prerequisites**|The [[Shaod\|Shaod]]|
+|**Type**|End-Positive|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]* y *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+**AonDor** is a manifestation of [[Investiture\|Investiture]] located on the [[/wiki/Cosmere#Planets]] [[Sel\|Sel]] that is used by the [[Elantrian\|Elantrians]]. It involves the use of variously shaped [[Aon\|Aons]], which draw energy from the [[Dor\|Dor]] and must be fine-tuned to the landscape.
 
-El **AonDor** es una de las manifestación de [[Investidura\|Investidura]] que se localizan en el [[/wiki/Cosmere#Planetas]] [[Sel\|Sel]] y es utilizada por los [[Elantrino\|Elantrinos]]. Este sistema implica el uso de los **[[Aon\|aones]]**, variados en su forma, los cuales extraen la energía del [[Dor\|Dor]] y que son una representación esquemática del paisaje.
+## Contents
 
-## Sumario
+1 Prerequisites. [[#Prerequisites]] 
+2 Drawing Aons. [[#Drawing Aons]] 
+3 Aon Modifiers. [[#Aon Modifiers]] 
 
-1 Prerrequisitos. [[#Prerrequisitos]] 
-2 Dibujando aones. [[#Dibujando aones]] 
-3 Modificadores al aon. [[#Modificadores al aon]] 
-
-3. [[#Tipos de modificadores]] 
+3. [[#Types of Modifiers]] 
 
 
-4 Ecuaciones de aones. [[#Ecuaciones de aones]] 
+4 Aon Equations. [[#Aon Equations]] 
 
-4. [[#Maldiciones]] 
-
-
-5 Relación con Arelon. [[#Relaci.C3.B3n con Arelon]] 
-6 Historia. [[#Historia]] 
-
-6. [[#Los primeros elantrinos]] 
-6. [[#El Reod]] 
-6. [[#La restauraci.C3.B3n de Elantris]] 
-6. [[#La hechicera de Lumar]] 
+4. [[#Curses]] 
 
 
-7 Elantrinos conocidos. [[#Elantrinos conocidos]] 
-8 Notas. [[#Notas]] 
+5 Relationship To Arelon. [[#Relationship To Arelon]] 
+6 History. [[#History]] 
+
+6. [[#The First Elantrians]] 
+6. [[#The Reod]] 
+6. [[#Restoration of Elantris]] 
+6. [[#The Sorceress of Lumar]] 
 
 
-## Prerrequisitos
-Solo un [[Elantrino\|Elantrino]] **posee** la capacidad para extraer poder del [[Dor\|Dor]] utilizando los [[Aon\|aones]]. Esto significa que para poder utilizar el AonDor, la persona debe ser inicialmente de **ascendencia** [[A%C3%B3nico\|aónica]]. A continuación, dicha persona debe ser escogida por la **[[Shaod\|Shaod]]**. Su piel brillará, su cabello se volvera blanco, y adquirirá la habilidad para dibujar aones que canalicen el Dor.
-También es posible formar esta Conexión siendo invitado a ciertos grupos (seguramente grupos elantrianos, como los [[Ire\|Ire]]), aunque la mecánica exacta de esto aún no se conoce. Alguien puede utilizar un [[Falsificaci%C3%B3n\|sello de almas]] para covnertirse en elantrino.
+7 Known Elantrians. [[#Known Elantrians]] 
+8 Notes. [[#Notes]] 
 
-## Dibujando aones
-A la hora de dibujar un aon **funcional**, el Elantrino que lo dibuja debe de tener la **intención** de querer hacerlo, o por el contrario las líneas relucientes que se utilizan para trazar el aon no aparecerán. Los elantrinos pueden usar sus dedos para dibujar los aones, pudiendo dar a las líneas diferentes anchuras con cada dedo. Se pueden utilizar **otros objetos** para trazar los aones, tales como una pluma o un palo. Además, los elantrinos pueden **crear** los aones a partir de otros materiales, como el alambre o la piedra. De este modo pueden crear amuletos, y objetos parecidos, que proporcionen un efecto mágico propiamente dicho. Si no se termina de dibujar un aon por **completo**, al poco tiempo desaparecerá sin producir efecto alguno.
-Cada aon posee un efecto único que está **determinado** por su forma. El Aon **Aon** es el punto de partida para el resto de los aones. Según parece, la energía solo puede canalizarse al [[Reino F%C3%ADsico\|Reino Físico]] en un pulso concreto, con ciertas longitudes y frecuencias asociadas, por lo que **la forma** de un aon solo permite que escape una frecuencia concreta, que producirá un efecto específico. Si la forma de un aon se traza de modo erróneo, lo más probable es que no suceda nada, el aon resplandecerá una vez y se desvanecerá. Un aon dibujado incorrectamente con la omisión de una o varias líneas básicas comenzará su proceso para funcionar pero se dentendrá a la mitad del mismo debido a la falta de energía procedente del Dor. En algunas ocasiones cuando el objetivo del aon es una persona o un grupo de gente, puede provocar que este o estos adquieran el aspecto de un Elantrino que ha sufrido el Reod. El **tamaño** del aon puede afectar a su poder. Los aones se pueden **combinar** entre sí. También a los aones se les puede otorgar más control o fuerza cuando la amplitud de las líneas se corresponde de manera más **precisa** con las correspondientes localizaciones dentro de [[Arelon\|Arelon]].
-Solo un Elantrino puede **destruir** un aon y si no es destruido, el aon continuará funcionando incluso aunque se raye o se borre. Es posible negar los efectos otorgados por la magia [[Dakhor\|Dakhor]] utilizando el AonDor.
 
-## Modificadores al aon
-Aunque los aones son sin lugar a dudas poderosos, a la hora de especificar ciertas características (como cuánto durará una columna de fuego creada con el Aon Ehe o a dónde te llevará el Aon Tia) es necesario añadir nuevas líneas en torno al aon central para modificar sus efectos.
+## Prerequisites
+Only an [[Elantrian\|Elantrian]] can use the [[Aon\|Aons]] to draw power from the [[Dor\|Dor]]. This means that to use AonDor, a person must originally be of [[Aonic\|Aonic]] descent. The person must then be chosen by the [[Shaod\|Shaod]]. Their skin will glow, their hair will turn white, and they gain the ability to draw Aons that channel the Dor.
+It is also possible to form this Connection by being invited into specific groups (presumably Elantrian groups, such as the [[Ire\|Ire]]), though the exact mechanics of this are not yet known. Someone can also [[Forgery\|stamp]] themselves to become an Elantrian.
 
-### Tipos de modificadores
-Los enlaces entre aones. Cuando se vinculan subsecciones de aones listados entre sí y poder así controlar en qué momento se producirá el efecto de cada aon.
-Los que sirven para activar diferentes cadenas de aones.
-Los que sirven para modificar los niveles de poderes en los efectos de un aon.
-Los que sirven para modificar el alcance de los aones.
-## Ecuaciones de aones
-En niveles de uso extremadamente avanzado del AonDor, múltiples aones se puede usar en conjunción para modificarse entre sí en lo que se denominan **ecuaciones de aones**. Estas se utilizan para canalizar el Dor de las maneras **más específicas** que permite el AonDor. Gracias a esto, los elantrinos pueden fabricar cualquier objeto de la nada, aunque esto requiere de **pura habilidad y práctica**, y los elantrinos capaces de hacer esto son **extremadamente** raros. Además de su efecto principal, parece que cada aon cuenta con un **efecto secundario** que puede utilizarse en las ecuaciones de aones. Casi cualquier efecto en el Cosmere puede ser replicado con la ecuación correcta.
+## Drawing Aons
+In order to draw a functional Aon, the Elantrian drawing it must intend to do so, or else the glowing lines used to draw the Aon won’t appear. Elantrians can use their fingers to draw Aons, with each finger giving the lines different widths. Other objects like a quill or stick can also be used to draw Aons. Aons can also be crafted out of other materials by Elantrians, like stone or wire. In this way they can make amulets and the like, that have an actual magical effect. Leaving an Aon alone for a short time without completing it will cause it to disappear with no effects.
+Each Aon has a unique effect, which is determined by its shape. The Aon "Aon" is the starting point for every other Aon. It appears that the energy can only get to the [[Physical Realm\|Physical Realm]] in certain pulse lengths and frequencies, so an Aon’s shape only allows for a certain frequency to escape, which has a specific effect. If an Aon is the wrong shape, it may do nothing, and the Aon will flash once and fade away. An Aon drawn incorrectly with an omission of basic lines would begin the process of the Aon, but stop in the middle of the process due to not having enough energy from the Dor. Sometimes if it is targeted at a person or group of people, it could cause them to appear like a Reod Elantrian. The size of an Aon can affect its power. Aons can also be combined together. Aons can be given more control or strength when the width of the lines match the proper locations that correspond with [[Arelon\|Arelon]].
+Aons can only be destroyed by an Elantrian. Unless destroyed by an Elantrian an Aon will continue to function even if it is scuffed or erased. It is possible for AonDor to negate effects granted by [[Dakhor\|Dakhor]].
 
-### Maldiciones
-A través de complejas ecuaciones de aones, es posible lanzar complejas maldiciones sobre las personas con efectos y condiciones específicos, hasta el punto de transformar a alguien en una especie completamente diferente. También pueden cambiar completamente la personalidad de una persona, limitar su inteligencia, y prohibir que uno pueda hablar de su maldición o de cómo romperla.
-La única forma conocida de romper una maldición es cumplir las condiciones de la misma. Estas maldiciones son difíciles de romper de cualquier otra forma, incluso por quien la creó. Aunque es posible hacerlo a través de métodos desconocidos o editando los parámetros de las condiciones.
-Los individuos malditos tienen un anillo de aones a su alrededor, que describe y compone su maldición. Estos parecen ser difíciles o imposibles de ver por aquellos que no tienen acceso al AonDor.
+## Aon Modifiers
+While Aons are undoubtedly powerful, in order to specify certain traits, like how long a column of fire from an Aon Ehe will last, or where an Aon Tia will take you, additional lines must be drawn around the central Aon to modify its effects.
 
-## Relación con Arelon
-El AonDor tiene una conexión especial con la tierra de Arelon. El primer aon, el Aon Aon, posee una forma similar esquemática a la de la tierra de Arelon, siendo sus líneas y el punto que contiene representativos de la costa, las montañas Atad y el lago Alonoe. Cada uno de los aones reflejan alguna de las características de la tierra, como [[/wiki/Aon#Dii]], el aon para la «madera», el cual contiene circulos que representan el lugar donde estarían los bosques de Arelon. Esta relación con Arelon es muy fluida, pues si la tierra cambia así lo harán también los aones. Cuando un terremoto creó un abismo en el sur de Arelon, provocó que en todos los aones se requiriese una nueva línea para mantener su funcionalidad. A medida que un Elantrino se desplaza lejos de la ciudad de [[Elantris (ciudad)\|Elantris]], el poder de los aones se ve reducido de manera proporcional; a mayor distancia, mayor es la reducción.
-Sería posible crear **otra ciudad** similar a Elantris en otras localizaciones de Sel. Los **[[Ire\|Ire]]** crearon una base similar a ella en el [[Reino Cognitivo\|Reino Cognitivo]] de [[Scadrial\|Scadrial]], aunque para que esto les funcione deben debe canalizar Investidura desde Sel a través de tuberías. Existen, no obstante, otros modos para conseguir el mismo efecto.
-Debido a las particularidades del Dor, el AonDor **no funcionará** fuera de [[Sel\|Sel]] en otros planetas de **manera general**, sin embargo, es **posible hackear** el sistema de magia y hacer que funcione en otros mundos. Por ejemplo, un [[Feruquimia\|feruquimista]] completo podría utilizar [[/wiki/Nicrosil#Uso feruqu.C3.ADmico]] para crear un [[/wiki/Scadriano del sur#Tecnolog.C3.ADa]] [[/wiki/Duraluminio#Uso feruqu.C3.ADmico]] [[/wiki/Feruquimia#Mentes de metal liberadas]]** que permitiese a un elantrino **almacenar** su [[Conexi%C3%B3n\|Conexión]] con Elantris para así conseguir que su magia funcione a **pleno** potencial lejos de Elantris.**
+### Types of Modifiers
+Linking Aons - used to link subsections of Aon lists together, it controls the timing of when other Aons take effect.
+Setting off different chains of Aons.
+Modifying power levels of Aon effects.
+Modifying the range of Aons.
+## Aon Equations
+In extremely advanced uses of AonDor, multiple Aons can be used in conjunction to modify each other in Aon equations. These are used to channel the Dor in the most specific ways allowed by AonDor. With it, Elantrians could fabricate any object out of nothing, although the sheer skill and practice required makes Elantrians who can do this extremely rare. In addition to its regular effect, it appears that each Aon has a secondary effect that can be used in the Aon equations. Almost any effect in the cosmere can be replicated with the right equation.
 
-## Historia
-### Los primeros elantrinos
-Hace mucho tiempo, el rey **[[Raoshem\|Rhashm]]** condujo a su pueblo desde otra tierra hasta Arelon, descubriendo la ciudad de Elantris completamente abandonada. Pese a la superstición que rodeaba Elantris que decía que estaba encantada, Rhashm hizo de ella su capital. Tras unas pocas décadas, la princesa [[Elashe\|Elashe]], una de sus descendientes, fue la **primera persona** aónica en ser tomada por la Shaod y convertirse así en **Elantrina**.
+### Curses
+It is possible through complex Aon Equations to lay complex curses upon people with specific effects and conditions, even to the point of transforming someone into a completely different species. They can also completely change one's personality, limit their intelligence, and forbid one from being able to speak of their curse or how to break it.
+The only known way to break a curse is to fulfill the conditions of the curse. These curses are difficult to break in any other way, even by the one who created it. Though it is possible to do so through unknown methods or editing the parameters of the conditions.
+Cursed individuals have a ring of Aons surrounding them, which describes and makes up their curse. These appear to be difficult or impossible to see by those without access to AonDor.
 
-### El Reod
-Durante siglos, el AonDor funcionó sin problemas, con los elantrinos gobernando Arelon desde Elantris. Sin embargo, cuando un **terremoto** provocó la aparación del **Abismo**, los elantrinos se convirtieron en el objetivo del ahora imperfecto **Aon Rao**, el cual formaba parte de Elantris y las ciudades exteriores. Esto provocó que a partir de entonces estuveran malditos y su apariencia se tornase repugnante, además de privarles de su acceso al sistema de magia. Al no saber dónde debía estar la nueva línea que representase el Abismo no podían usar la magia. La mayoría de los elantrinos fueron asesinados sin clemencia por ciudadanos aterrorizados.
+## Relationship To Arelon
+AonDor has a specific tie to the land of Arelon. The base Aon Aon is shaped like the land of Arelon, with its lines and dot representing the coast, Atad Mountains, and Lake Alonoe. Every Aon reflects some trait of the land, such as the Dii, the Aon for wood, contain circles where the forests of Arelon fall. This is a very fluid relationship; as the land changes so do the Aons. When an earthquake created a chasm in the south of Arelon, a new line was required in every Aon to make it functional. AonDor's power will diminish the further an Elantrian travels from the city of [[Elantris (city)\|Elantris]].
+It is possible to create another city similar to Elantris in other locations on Sel. The [[Ire\|Ire]] created a base similar to it in the [[Cognitive Realm\|Cognitive Realm]] of [[Scadrial\|Scadrial]], though in order for this to work, Investiture from Sel needs to be piped to it. There are, however, other ways to achieve the same effect.
+AonDor will not normally work on planets other than [[Sel\|Sel]], but it is possible to hack the magic system and get it to work on other planets. A Full [[Feruchemist\|Feruchemist]] could use [[/wiki/Nicrosil#Feruchemical Use]] to create an [[Unsealed metalminds\|unsealed]] [[/wiki/Duralumin#Feruchemical Use]] [[/wiki/Southern Scadrian#Technology]] that allows an Elantrian to store their [[Connection\|Connection]] to Elantris for magic to work at full potential far from Elantris.
 
-### La restauración de Elantris
-[[Raoden\|Raoden]] se las arregló para descubrir que funcionaba mal con el AonDor mientras estuvo encerrado en la ciudad, **reparando** entonces el Aon Rao y **restaurando** así la ciudad a su antigua gloria. Él, como Elantrino, tomo así su lugar como rey de Arelon, gobernando desde la ciudad de Elantris.
+## History
+### The First Elantrians
+King [[Raoshem\|Rhashm]] led his people from other lands to Arelon, discovering the city of Elantris completely abandoned. Despite superstition about Elantris being haunted, Rhashm made it his capital. After a few decades, Princess [[Elashe\|Elashe]], one of his descendants, was the first Aonic person to be taken by the Shaod to become an Elantrian.
 
-### La hechicera de Lumar
-En algún momento del futuro, [[Riina\|Riina]] se asentó en [[Lumar\|Lumar]] y llegó a ser temida bajo el nombre de la hechicera. Una de las fuentes de su infamia fueron sus diversas maldiciones, que lanzaba a la gente usando complejas series de AonDor.
+### The Reod
+For centuries, AonDor functioned fine, Elantrians ruling Arelon from Elantris. However, when the earthquake caused the Chasm, the Elantrians became the target of the now malformed Rao that made up Elantris and the Outer Cities. This caused them to become cursed and foul looking, as well as robbing them of their access to the magic system. They didn’t know where the new line was, so they couldn’t use the magic. Most were slaughtered mercilessly by the terrified citizenry.
 
-## Elantrinos conocidos
-Para más información, ver :Categoría: Elantrinos.
+### Restoration of Elantris
+[[Raoden\|Raoden]] managed to discover what was wrong with the AonDor during his imprisonment in the city, and he repaired the Rao and restored the city to its former glory. He, an Elantrian, took his place as king of Arelon, ruling from the city of Elantris.
+
+### The Sorceress of Lumar
+At some point in the future, [[Riina\|Riina]] settled on [[Lumar\|Lumar]] and became feared as the Sorceress. One source of her infamy as her various curses, which she laid upon people using complex AonDor arrays.
+
+## Known Elantrians
+For more information, see :Category: Elantrians.
 
 [[Raoden\|Raoden]]
 [[Galladon\|Galladon]]
@@ -102,16 +99,6 @@ Para más información, ver :Categoría: Elantrinos.
 [[Shaor\|Shaor]]
 [[Taan\|Taan]]
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**| · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
 
 
-
-https://es.coppermind.net/wiki/AonDor
+https://coppermind.net/wiki/AonDor

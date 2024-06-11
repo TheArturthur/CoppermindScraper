@@ -1,45 +1,41 @@
-
-
-|**Caballeros Radiantes**|
+|**Knights Radiant**|
 |-|-|
 ||
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*, *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*, *[[El Hombre Iluminado\|El Hombre Iluminado]]*, y *[[Aleaci%C3%B3n de ley\|Aleación de ley]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, *[[The Sunlit Man\|The Sunlit Man]]*, and *[[The Alloy of Law\|The Alloy of Law]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*"Esperas demasiado de mí. No soy ningún glorioso caballero de días pasados. Soy un hombre roto. ¿Me oyes, Syl? *Estoy roto*.Ella se acercó volando y susurró: "Así estaban todos, tonto".*”
-\-Kaladin y Syl sobre cómo eran los Caballeros Radiantes.[1]
-
-
-Los **Caballeros Radiantes** (*Neshua Kadal* en oyente) eran una organización de [[Potenciaci%C3%B3n\|potenciadores]] en [[Roshar\|Roshar]]. Sus órdenes estaban centradas en [[Urithiru\|Urithiru]], pero vivían a lo largo de [[Alezela\|Alezela]], el [[Reinos Plateados\|Reino Plateado]] que tenía que mantener las artes de la guerra. Consideraban que su deber y privilegio era permanecer vigilantes ante [[Desolaci%C3%B3n\|Desolaciones]]. Se cree comúnmente que traicionaron a la humanidad en el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]], y entonces se les denominó los **Radiantes Perdidos**. Su símbolo era una forma de reloj de arena dorado de ocho esferas conectadas con dos en el centro.
-
-## Sumario
-
-1 Historia. [[#Historia]] 
-2 Órdenes Radiantes y poderes. [[#.C3.93rdenes Radiantes y poderes]] 
-3 Escuderos. [[#Escuderos]] 
-4 Palabras Inmortales. [[#Palabras Inmortales]] 
-5 Vorinismo. [[#Vorinismo]] 
-6 Caballeros Radiantes destacados. [[#Caballeros Radiantes destacados]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+>“*"I'm not some glorious knight of ancient days. I'm a broken man. Do you hear me, Syl? *I'm broken*."She zipped up to him and whispered, "That’s what they all were, silly"*”
+\-Kaladin and Syl on what the Knights Radiant were like.[1]
 
 
-## Historia
->“*Fueron una solución, un modo de compensar la destrucción de las Desolaciones. Diez órdenes de caballeros, fundadas con el propósito de ayudar a los hombres a luchar, y luego reconstruir.*”
-\-Visiones de Dalinar[6]
+The **Knights Radiant** (Listener: *Neshua Kadal*) were an organization of [[Surgebinding\|Surgebinders]] on [[Roshar\|Roshar]]. Their Orders were centered at [[Urithiru\|Urithiru]], but they lived all across [[Alethela\|Alethela]], the [[Silver Kingdoms\|Silver Kingdom]] who had to maintain the arts of war. They considered it their duty and privilege to stay vigilant for [[Desolation\|Desolations]]. It is commonly believed that they betrayed mankind on the [[Day of Recreance\|Day of Recreance]], and were then referred to as the **Lost Radiants**. Their symbol was a golden hourglass shape, of eight spheres connected with two at the center.
 
-Los primeros potenciadores surgieron como resultado de los [[Spren\|spren]] que intentaron imitar lo que [[Honor\|Honor]] había dado a sus [[Heraldo\|Heraldos]]. Los spren formaron vínculos con la humanidad para darles habilidades de [[Potenciaci%C3%B3n\|potenciación]]. Honor se sorprendió por su aparición, porque no se lo había enseñado a sus Heraldos. Estos potenciadores fueron posteriormente agrupados en las diez órdenes de los Caballeros Radiantes por el Heraldo [[Ishar\|Ishi'Elin]], con el propósito de vigilar la llegada de las Desolaciones, ayudar a los hombres a luchar y luego reconstruir la sociedad desde la destrucción de las Desolaciones. Adoptaron la ciudad de Urithiru como su centro de poder. Este sistema formalizado ya existía al menos en la Sexta Época, año 31.
-Durante mucho tiempo, mantuvieron su deber hasta que, finalmente, lo abandonaron en lo que ahora se conoce como el Día de la Traición, y posiblemente incluso se volvieron contra sus protegidos, como dicen algunas leyendas. Esta traición provocó la muerte de muchos spren, convirtiendo sus [[Hoja esquirlada\|hojas esquirladas]] en herramientas de destrucción; como resultado, dejaron de conceder la potenciación a la humanidad.
-En los últimos tiempos, sintiendo un peligro inminente, los spren comenzaron a regresar a la humanidad como un acto de autoconservación. La gente de todo Roshar comenzó a obtener poderes de potenciación formando vínculos Nahel con los spren en los años siguientes. A principios del año 1174, Urithiru fue reclamado, y los Caballeros Radiantes fueron refundados con cuatro miembros inicialmente; [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Dalinar Kholin\|Dalinar Kholin]], y [[Renarin Kholin\|Renarin Kholin]].
+## Contents
 
-## Órdenes Radiantes y poderes
-  Símbolos de las diez órdenes Radiantes y sus potencias
-Los Caballeros Radiantes constaban de diez órdenes diferentes, algunas de las cuales tenían varios cientos de miembros. Cada orden tenía dos [[Potencias\|Potencias]] asociadas, y cada una era utilizada por dos órdenes diferentes. Los eruditos asociaron las diez órdenes con las [[Diez Esencias\|Diez Esencias]] también.
-Cada orden correspondía a un Heraldo, y todos ellos, excepto los Forjadores de Vínculos, corresponden aproximadamente a un [[Deshecho\|Deshecho]], aunque no es del todo una relación uno a uno.
+1 History. [[#History]] 
+2 Radiant Orders and Powers. [[#Radiant Orders and Powers]] 
+3 Squires. [[#Squires]] 
+4 Immortal Words. [[#Immortal Words]] 
+5 Vorinism. [[#Vorinism]] 
+6 Notable Knights Radiant. [[#Notable Knights Radiant]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
+## History
+>“*They were a solution, a way to offset the destruction of the Desolations. Ten orders of knights, founded with the purpose of helping men fight, then rebuild.*”
+\-Dalinar's visions[6]
+
+The first Surgebinders came to be as a result of [[Spren\|spren]] trying to imitate what [[Honor\|Honor]] had given his [[Herald\|Heralds]]. The spren formed bonds with the mankind to give them [[Surgebinding\|Surgebinding]] abilities. Honor was surprised by their coming, because he hadn't taught it to his Heralds. These Surgebinders were later formed into the ten orders of the Knights Radiant by the Herald [[Ishar\|Ishi'Elin]], for the purpose of watching for the coming Desolations, and helping men fight, then rebuild the society from the destruction of the Desolations, and they adopted the city of Urithiru as their center of power. This formalized system was in place by at least the Sixth Epoch, Year 31.
+For a long time, they maintained their duty, until eventually they abandoned it on what is now known as the Day of Recreance, and possibly even turned against their wards, as some legends say. This betrayal caused many spren to die, their [[Shardblade\|corpses]] becoming tools of destruction, and as a result they stopped granting humanity Surgebinding.
+In recent times, sensing an impending danger, the spren started returning to mankind as an act of self-preservation. People all over Roshar started gaining Surgebinding powers by forming Nahel bonds with the spren in the following years. At the beginning of the year 1174, Urithiru was reclaimed, and the Knights Radiant were re-founded with initially four members; [[Kaladin\|Kaladin]], [[Shallan Davar\|Shallan Davar]], [[Dalinar Kholin\|Dalinar Kholin]], and [[Renarin Kholin\|Renarin Kholin]].
+
+## Radiant Orders and Powers
+  Symbols of the Ten Radiant Orders and their Surges
+The Knights Radiant comprised ten different Orders, some of which had several hundred members. Each Order had two [[Surge\|Surges]] associated with it, and each Surge was used by two different Orders. Scholars associated the ten Orders with the [[Ten Essences\|Ten Essences]] as well.
+Each order corresponded to a Herald, and all of them except the Bondsmiths roughly correspond to an [[Unmade\|Unmade]], though it is not entirely a one to one relationship.
 
 
 
@@ -49,68 +45,53 @@ Cada orden correspondía a un Heraldo, y todos ellos, excepto los Forjadores de 
 
 
 
-Los Caballeros Radiantes también usaban [[Hoja esquirlada\|hoja]] y [[Armadura esquirlada\|armadura esquirladas]], que estaban grabadas con glifos y brillaban de un color diferente según la orden a la que pertenecían. No todos los Radiantes tienen acceso a estas esquirladas y muchas órdenes no las reciben hasta que han jurado los Ideales superiores.
-
-## Escuderos
-Muchas órdenes de Caballeros son capaces de conceder la capacidad de usar la [[Luz tormentosa\|luz tormentosa]] y algunas de sus [[Potencias\|Potencias]] a la gente, posiblemente a aquellos capaces de convertirse en Caballeros ellos mismos. Es posible que los potenciales escuderos deban tener una mentalidad que coincida, al menos en parte, con los requisitos de la orden. En el caso de los [[Corredores del Viento\|Corredores del Viento]], parece tratarse de un estado mental orientado a la protección. Muchos escuderos recitan el Primer Ideal antes de obtener acceso a la potenciación, pero esto no es necesario. Cada orden sigue un camino y con un Caballero dispuesto a ayudar se pueden dar los primeros pasos antes de vincular a un [[Spren\|spren]] ellos mismos. Esto muestra a los spren quiénes son buenos candidatos para cada orden, y reduce la posibilidad de que un spren muera por juramentos fallidos. El tiempo como escudero también permite a una persona practicar con la potenciación antes de obtener un vínculo Nahel.
-Es posible que una persona siga siendo escudero toda su vida, o que sea escudero de una orden y vincule un spren de otra. Usando una mezcla de otras [[Investidura\|Investiduras]] (como la [[Feruquimia\|feruquimia]] y la [[Hemalurgia\|hemalurgia]]), un potenciador podría hackear la magia y ser un escudero de múltiples órdenes a la vez.
-Los poderes de un escudero están ligados a un Radiante en particular y a su spren; sin su presencia, un escudero no puede atraer la luz tormentosa para potenciar, incluso si otro Caballero de pleno derecho de la misma orden está presente. Los escuderos deben estar a menos de 80 kilómetros de su Radiante para usar sus poderes, aunque empiezan a debilitarse una vez que están separados por cincuenta kilómetros o más. Si su Radiante se separara repentinamente de ellos, como al usar una [[Puerta Jurada\|Puerta Jurada]], los poderes de un escudero durarían entre una y dos horas.
-Aunque se ha dicho que algunas órdenes pueden no tener escuderos, los [[Corredores del Viento\|Corredores del Viento]], [[Rompedores del Cielo\|Rompedores del Cielo]], [[Portadores del Polvo\|Portadores del Polvo]], [[Tejedores de Luz\|Tejedores de Luz]], [[Escultores de Voluntad\|Escultores de Voluntad]], [[Custodios de Piedra\|Custodios de Piedra]], y los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] son conocidos por tener escuderos.
-
-## Palabras Inmortales
-Para una lista completa de los Ideales, ver [[Caballeros Radiantes/Palabras Inmortales\|/Palabras Inmortales]].
->“*Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino.*”
-\-El Primer Ideal de los Caballeros Radiantes
 
 
-  Los Caballeros Radiantes se dirigen a la batalla
-Los Ideales de los Caballeros Radiantes, conocidos como las **Palabras Inmortales**, sirven de guía para las acciones y vidas de los Radiantes. Cada orden tiene cinco Ideales, aunque diferentes Radiantes de la misma orden pueden jurar un Ideal con palabras ligeramente diferentes y los Tejedores de Luz juran verdades más individualizadas en lugar de Ideales. Sin embargo, la composición del Primer Ideal es exacta y la utilizan todas las órdenes, incluidos los Tejedores de Luz. Parece que no es necesario pronunciar el Primer Ideal como una frase completa ininterrumpida, ya que, cuando [[Navani Kholin\|Navani Kholin]] lo pronunció para vincular al [[Hermano\|Hermano]], repartió las tres frases a lo largo de una conversación; además, aunque no pudo completar el Ideal antes de ser asesinado, [[Elhokar Kholin\|Elhokar Kholin]] tartamudeó y repitió las palabras. El Primer Ideal actúa como lema y guía para los Radiantes en su conjunto, y es conocido como el Ideal del Radiante por los Rompedores del Cielo, que pueden haber heredado el nombre de los antiguos Radiantes. Los Ideales únicos de cada orden están diseñados como una progresión que desarrolla el carácter de un Radiante hacia los conceptos centrales de su orden. El [[Padre Tormenta\|Padre Tormenta]] y [[Cultivaci%C3%B3n\|Cultivación]] tienen cierta autoridad para decidir si un Radiante ha progresado lo suficiente como para que su juramento pueda ser aceptado, aunque esta potestad parece ser limitada. No está claro si el Padre Tormenta tenía o no esta capacidad antes de la Astillación de Honor, pero parece probable que, en cambio, fuera decisión de Honor en ese momento. Un Forjador de Vínculos puede ser capaz de aceptar juramentos de otras órdenes.
-A medida que un Radiante jura ideales adicionales, obtiene su hoja y su armadura esquirladas (aunque el ideal con el que se reciben no es el mismo para todas las órdenes) y se vuelve más eficiente en el uso de la luz tormentosa. Además, algunas órdenes no pueden utilizar una de sus Potencias hasta que juren un Ideal superior. Jurar el Quinto Ideal, también conocido como el Ideal Final, hace que el vínculo Nahel entre Radiante y spren sea tan fuerte que sólo puede romperse con la muerte; hasta ese momento, hay formas aparentemente seguras de romper el vínculo. Jurar el Quinto Ideal generalmente no es necesario para ser considerado un Caballero Radiante de pleno derecho y es un proceso tan difícil que la Orden de los Rompedores del Cielo no ha tenido a nadie que jure el Quinto Ideal durante siglos.
-Los ideales deben jurarse en orden, incluso si un Radiante está dispuesto a jurar un ideal superior al que no puede jurar actualmente. Los Radiantes deben estar preparados para jurar los Ideales, y no pueden decir las palabras por adelantado.
+The Knights Radiant also used [[Shardblade\|Shardblades]] and [[Shardplate\|Shardplate]], which were etched with glyphs and glowed a different color according to the Order they were a part of. Not all Radiants have access to Shards and many Orders don't receive them until they have sworn the higher Ideals.
 
-## Vorinismo
-En el [[Vorinismo\|vorinismo]], la caída de los Caballeros Radiantes se llamaba el [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]]. Se enseña que son personas malvadas que se volvieron contra la humanidad, por lo que se les da el apodo de «Radiantes Perdidos».
-El vorinismo transmitía que los Caballeros Radiantes traicionaron al pueblo. Se enseñaba que sus poderes no eran reales, sino elaborados trucos, y que sólo pretendían tener una vocación sagrada. La «prueba» de ello era que los poderes no podían reproducirse.
-Hay leyendas que cuentan que las almas de los Caballeros Radiantes llegan durante las altas tormentas para robar las esferas que se han dejado para ser infundidas. Esto se utilizaba para explicar tanto el robo de esferas por ladrones en la oscuridad como el hecho de que los vientos de la alta tormenta a menudo arrancaban las cestas de sus postes y las arrojaban en la distancia.
+## Squires
+Many orders of the knights are able to grant the ability to use [[Stormlight\|Stormlight]] and some of their [[Surgebinding\|Surges]] to people, possibly those capable of becoming knights themselves. It appears that potential squires must have a mindset that matches at least partly with the requirements of the order. For [[Order of Windrunners\|Windrunners]] this appears to be a mental state geared to protection. Many squires recite the First Ideal before gaining Surgebinding, but this is not required. Each order follows a path and with a Knight willing to help the first steps can be taken before Bonding a [[Spren\|spren]] themselves. This shows the spren what people are good candidates for each order, and reducing the chance that a spren will die from failed oaths. Time as a Squire also allows a person to practice Surgebinding before gaining a Nahel bond.
+It is possible for a person to remain a squire their whole life, or to be a squire of one order and bond a spren from another. Using a mix of other [[Investiture\|Investiture]] (such as [[Feruchemy\|Feruchemy]] and [[Hemalurgy\|Hemalurgy]]), a Surgebinder could hack the magic and be a squire of multiple Orders at once.
+The powers of a squire are tied to a particular Radiant and their spren, and without their presence, a squire cannot draw in Stormlight to Surgebind, even if another full Knight of the same order is present. Squires must be within approximately fifty miles of their Radiant to use their powers, although they begin to weaken once they are separated by thirty miles or more. If their Radiant were to suddenly separate from them, such as by using an [[Oathgate\|Oathgate]], a squire's powers would last between one to two hours.
+While it has been said that some orders may not have squires, the [[Order of Windrunners\|Windrunners]], [[Order of Skybreakers\|Skybreakers]], [[Order of Dustbringers\|Dustbringers]], [[Order of Lightweavers\|Lightweavers]], [[Order of Willshapers\|Willshapers]], [[Order of Stonewards\|Stonewards]], and [[Order of Bondsmiths\|Bondsmiths]] are known to have squires.
 
-## Caballeros Radiantes destacados
-Para todos los Caballeros Radiantes, ver :Categoría:Caballeros Radiantes.
-
-[[Kaladin\|Kaladin]] (Corredor del Viento, vinculado a [[Sylphrena\|Sylphrena]])
-[[Lopen\|Lopen]] (Corredor del Viento, vinculado a [[Rua\|Rua]])
-[[Teft\|Teft]] (Corredor del Viento, vinculado a [[Phendorana\|Phendorana]])
-[[Sigzil\|Sigzil]] (Corredor del Viento, vinculado con un spren sin nombre, después Rompedor del Cielo vinculado con [[Auxiliar\|Auxiliar]])
-[[Nale\|Nale]] (Rompedor del Cielo, vinculado con un spren sin nombre; también Heraldo de los Rompedores del Cielo)
-[[Szeth\|Szeth]] (Rompedor del Cielo, vinculado con un [[Altospren de Szeth\|spren sin nombre]])
-[[Malata\|Malata]] (Portadora del Polvo, vinculada con [[Chispa\|Chispa]])
-[[Lift\|Lift]] (Danzante del Filo, vinculada con [[Wyndle\|Wyndle]])
-[[Renarin Kholin\|Renarin Kholin]] (Vigilante de la Verdad, vinculado con [[Glys\|Glys]])
-[[Shallan Davar\|Shallan Davar]] (Tejedora de Luz, vinculada con [[Testimonio\|Testimonio]] y luego con [[Patr%C3%B3n\|Patrón]])
-[[Hoid\|Hoid]] (Tejedor de Luz, vinculado a [[Dise%C3%B1o\|Diseño]])
-[[Jasnah Kholin\|Jasnah Kholin]] (Nominadora de lo otro, vinculada con [[Marfil\|Marfil]])
-[[Venli\|Venli]] (Escultora de Voluntad, vinculada con [[Timbre\|Timbre]])
-[[Dalinar Kholin\|Dalinar Kholin]] (Forjador de Vínculos, vinculado con el [[Padre Tormenta\|Padre Tormenta]])
-[[Navani Kholin\|Navani Kholin]] (Forjadora de Vínculos, vinculada con el [[Hermano\|Hermano]])
-
-## Curiosidades
-Brandon pretendía que los conjuntos de Ideales a través de las órdenes (por ejemplo, el Tercer Ideal) tuvieran un tema, aunque no todos los juramentos seguirán este patrón.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|****|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Immortal Words
+For a full list of all the Ideals, see [[Knights Radiant/Immortal Words\|/Immortal Words]].
+>“*Life before death. Strength before weakness. Journey before destination.*”
+\-The First Ideal of the Knights Radiant
 
 
+  Knights Radiant heading into battle
+The Ideals of the Knights Radiant, known as the **Immortal Words**, serve as a guide for the Radiants' actions and lives. Each order of Radiants has five Ideals, though different Radiants from the same order may swear an ideal with slightly different words and Lightweavers swear more individualized truths instead of ideals. The wording of the First Ideal, however, is exact and is used by all orders, including the Lightweavers. It appears that it is not necessary to speak the First Ideal as a complete uninterrupted phrase, as when [[Navani Kholin\|Navani Kholin]] spoke them to bond the [[Sibling\|Sibling]], she spread the three sentences throughout the length of a conversation, and though he was unable to complete the Ideal before being killed, [[Elhokar Kholin\|Elhokar Kholin]] stuttered and repeated its words. The First Ideal acts as a motto and guide for the Radiants as a whole, and is known as the Ideal of Radiance by the Skybreakers, who may have carried the name over from the ancient Radiants. The unique Ideals of each order are designed as a progression that develops a Radiant's character toward the central concepts of their order. The [[Stormfather\|Stormfather]] and [[Cultivation\|Cultivation]] have some discretion in deciding whether or not a Radiant has progressed enough that their oath can be accepted, though this discretion appears to be limited. It is unclear whether or not the Stormfather had this ability prior to Honor's Splintering, but it seems likely it was instead Honor's decision at this time. A Bondsmith may also be able to accept the oaths of other orders.
+As a Radiant swears additional Ideals, they gain their Shardblade and Shardplate (though the Ideal at which these are received is not the same for all orders) and become more efficient in their use of Stormlight. Additionally, some orders cannot use one of their Surges until they swear a higher Ideal. Swearing the Fifth Ideal, also known as the Final Ideal, makes the Nahel bond between Radiant and spren so strong that it can only be broken by death; until that point, there are apparently safe ways to break the bond. Swearing the Fifth Ideal is generally not necessary to be considered a full Knight Radiant and is such a difficult process that the Order of the Skybreakers has not had someone swear the Fifth Ideal for centuries.
+Ideals must be sworn in order, even if a Radiant is ready to swear a higher ideal than the one they cannot currently swear. Radiants must also be ready to swear the ideals, and cannot just say the words to advance.
 
-https://es.coppermind.net/wiki/Knights_Radiant
+## Vorinism
+In [[Vorinism\|Vorinism]], the fall of the Knights Radiant was called the [[Day of Recreance\|Day of Recreance]]. They are taught to be evil people who turned against humanity, and are thus given the moniker "Lost Radiants."
+Vorinism taught that the Knights Radiant betrayed the people. It was taught that their powers were not real, but elaborate tricks, and that they only pretended to have a holy calling. The "evidence" for this was that the powers could not be reproduced.
+There are legends that teach about the souls of the Knights Radiant arriving during highstorms in order to steal spheres left out to be infused. This was used as a way to explain both spheres being stolen by thieves in the dark, and how the winds of the highstorm often tore baskets off their posts and flung them into the distance.
+
+## Notable Knights Radiant
+For all Knights Radiant, see :Category:Knights Radiant.
+
+[[Kaladin\|Kaladin]] (Windrunner, bonded with [[Sylphrena\|Sylphrena]])
+[[Lopen\|Lopen]] (Windrunner, bonded with [[Rua\|Rua]])
+[[Teft\|Teft]] (Windrunner, bonded with [[Phendorana\|Phendorana]])
+[[Sigzil\|Sigzil]] (Windrunner, bonded with unnamed spren, then Skybreaker bonded with [[Auxiliary\|Auxiliary]])
+[[Nale\|Nale]] (Skybreaker, bonded with an unnamed spren; also Skybreaker Herald)
+[[Szeth\|Szeth]] (Skybreaker, bonded with an [[Szeth's highspren\|unnamed highspren]])
+[[Malata\|Malata]] (Dustbringer, bonded with [[Spark\|Spark]])
+[[Lift\|Lift]] (Edgedancer, bonded with [[Wyndle\|Wyndle]])
+[[Renarin Kholin\|Renarin Kholin]] (Truthwatcher, bonded with [[Glys\|Glys]])
+[[Shallan Davar\|Shallan Davar]] (Lightweaver, bonded with [[Testament\|Testament]], then [[Pattern\|Pattern]])
+[[Hoid\|Hoid]] (Lightweaver, bonded with [[Design\|Design]])
+[[Jasnah Kholin\|Jasnah Kholin]] (Elsecaller, bonded with [[Ivory\|Ivory]])
+[[Venli\|Venli]] (Willshaper, bonded with [[Timbre\|Timbre]])
+[[Dalinar Kholin\|Dalinar Kholin]] (Bondsmith, bonded with the [[Stormfather\|Stormfather]])
+[[Navani Kholin\|Navani Kholin]] (Bondsmith, bonded with the [[Sibling\|Sibling]])
+
+## Trivia
+Brandon intended for sets of Ideals across Orders (e.g. the Third Ideal) to have a theme, though not all oaths will follow the pattern.
+
+
+https://coppermind.net/wiki/Knights_Radiant

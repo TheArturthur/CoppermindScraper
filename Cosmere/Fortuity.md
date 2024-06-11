@@ -1,19 +1,19 @@
 |**Fortuity**|
 |-|-|
 ||
-|**Fallecido**|Killed by [[Megan Tarash\|Megan Tarash]]|
-|**Capacidades**|[[%C3%89pico\|Épico]]|
-|**Residencia**||
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Steelheart\|Steelheart]]*|
+|**Died**|Killed by [[Megan Tarash\|Megan Tarash]]|
+|**Abilities**|[[Epic\|Epic]]|
+|**Residence**|[[Newcago\|Newcago]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Steelheart\|Steelheart]]*|
 
 >“*Slontze. His danger sense is weakened if he's attracted to you. So unless he finds you a **whole** lot prettier than I do, it’s **not** going to help.*”
 \-Megan to David[2]
 
 
-**Fortuity** is a  living in . He isn't particularly important in 's government, and has fallen out of favor with him.
+**Fortuity** is a [[High Epic\|High Epic]] living in [[Newcago\|Newcago]]. He isn't particularly important in [[Steelheart (Epic)\|Steelheart's]] government, and has fallen out of favor with him.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -43,28 +43,16 @@ He also has a secondary power of superhuman reflexes and dexterity. Fortuity kee
 ### Weakness
 His weakness is his attraction to women. It distracts him from his danger sense. However, his danger sense is still strong enough to detect if he is about to get killed, even while his weakness is in effect. However, he will most likely not realize if someone is about to do something nonlethal to him while the weakness is in effect, such as handcuff him to a pole.
 
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 Because Fortuity's weakness is being attracted to women, it means it is also his fear. However, Fortuity seems to freely let him be attracted, which means he encounters his fear every time he is attracted. This could explain why the attraction doesn't negate his entire power, just distracts him from his danger sense.
 
 ## History
-On the first Saturday of every month, Fortuity went to see a play at the . He would then look for amusement afterwards.
+On the first Saturday of every month, Fortuity went to see a play at the [[Reeve Playhouse\|Reeve Playhouse]]. He would then look for amusement afterwards.
 The [[Reckoners\|Reckoners]] made plans to kill Fortuity: [[Megan Tarash\|Megan]] would walk by and get Fortuity attracted to her. Megan would then convince Fortuity to come to the nearest dance club, but would stop in an alleyway along the way to make out. Then, while Fortuity was distracted, Megan would handcuff Fortuity to the lamppost, and shoot him while he was immobilized.
 The plan proceeded as normal at first, but [[Curveball\|Curveball]] interrupted, claiming that [[Spritzer\|Spritzer]] needed Fortuity to run some odds for him. However, [[David\|David]] then interrupted, attempting to lead Curveball away from Megan. After David accidentally revealed his fraud to Curveball, Curveball opened fire. However, Fortuity knew that something was wrong even before this. The plan went wrong in some way.
 Megan had already gotten the handcuffs on Foruity, but had failed to attach him to the lamppost. Fortuity tried to run away, but [[Tia\|Tia]] blew up the Reeve Playhouse, scaring Foruity back to where the Reckoners wanted him. After some chase, David stole someone's car and trapped Fortuity in an alley. However, Fortuity chose this moment to reveal his heightened reflexes, and gracefully backflipped off of the windshield, shattering the glass. As Fortuity launched for David, Megan checkmated him with two bullets on each side of his body, while he was airborne. The two bullets were impossible to simultaneously dodge and as such killed him. The Reckoners did not get a chance to harvest any of Fortuity's cells after they killed him. Initially, it was widely believed that the Reckoners were behind the hit, though the Reckoners later spread rumors claiming that agents of a new Epic, [[Limelight\|Limelight]], were responsible.
 
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Taln Fan (talk) 04:48, 22 March 2023 (UTC)
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  ·  · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Fortuity
+https://coppermind.net/wiki/Fortuity

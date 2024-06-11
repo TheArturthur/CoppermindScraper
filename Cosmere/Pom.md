@@ -1,154 +1,133 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Shalash**|
 |-|-|
 ||
-|**Padres**|[[Jezrien\|Jezrien]]|
-|**Capacidades**|[[Sombra cognitiva\|Sombra cognitiva]], [[Portador de esquirlada\|Portador de esquirlada]] |
-|**Títulos**|[[Heraldo\|Heraldo]] del [[Todopoderoso\|Todopoderoso]], Heraldo de la Belleza, Dama de los Sueños, Patrona de los [[Tejedores de Luz\|Tejedores de Luz]]|
-|**Apodos**|Shush-hija-Dios, Ash, Epan, Pom|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Mundo natal**|Unknown|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Parents**|[[Jezrien\|Jezrien]]|
+|**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
+|**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Herald of Beauty, Lady of Dreams, Patron of the [[Order of Lightweavers\|Lightweavers]]|
+|**Aliases**|Shush-daughter-God, Ash, Epan, Pom|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Homeworld**|Unknown|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
->“*Una mujer se sienta y se rasca los ojos. Hija de reyes y vientos, vándala.*”
-\-Un Susurro de muerte[2]
-
-
-**Shalash**, también conocida como **Ash**, es una de los diez [[Heraldo\|Heraldos]] del [[Todopoderoso\|Todopoderoso]] en [[Roshar\|Roshar]]. Comúnmente se la conoce como **Heraldo de la Belleza**, es la patrona de la [[Orden de los Tejedores de Luz\|orden de los Tejedores de Luz]] y la hija de otro Heraldo, [[Jezrien\|Jezrien]]. Antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], viajaba por el continente destruyendo cualquier representación de ella que pudiera encontrar. En la actualidad vive con los [[Caballeros Radiantes\|Caballeros Radiantes]] en [[Urithiru\|Urithiru]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-
-1. [[#Apariencia]] 
-1. [[#Personalidad]] 
+>“*A woman sits and scratches out her own eyes. Daughter of kings and winds, the vandal.*”
+\-A Death Rattle[2]
 
 
-2 Habilidades y atributos. [[#Habilidades y atributos]] 
+**Shalash**, also known as **Ash**, is one of the ten [[Herald\|Heralds]] of [[The Almighty\|The Almighty]] on [[Roshar\|Roshar]]. She's commonly titled the **Herald of Beauty**; she's the patron of the [[Order of Lightweavers\|Order of Lightweavers]] and the daughter of another Herald, [[Jezrien\|Jezrien]]. Prior to the [[True Desolation\|True Desolation]], she was traveling the world destroying any depiction of herself she could find. Currently, she resides with the [[Knights Radiant\|Knights Radiant]] in [[Urithiru\|Urithiru]].
 
-2. [[#Inmortalidad]] 
-2. [[#Potenciaci.C3.B3n]] 
-2. [[#Otros]] 
+## Contents
 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 
-3 Historia. [[#Historia]] 
-
-3. [[#.C3.89pocas Her.C3.A1ldicas]] 
-3. [[#Era de la Soledad]] 
-3. [[#Aut.C3.A9ntica Desolaci.C3.B3n]] 
+1. [[#Appearance]] 
+1. [[#Personality]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
 
-4. [[#Otros Heraldos]] 
+2. [[#Immortality]] 
+2. [[#Surgebinding]] 
+2. [[#Other]] 
+
+
+3 History. [[#History]] 
+
+3. [[#Heraldic Epochs]] 
+3. [[#Era of Solitude]] 
+3. [[#True Desolation]] 
+
+
+4 Relationships. [[#Relationships]] 
+
+4. [[#Other Heralds]] 
 4. [[#Hoid]] 
 
 
-5 Cultura. [[#Cultura]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Culture. [[#Culture]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
->“*¡Tienes que odiarme! Ódiame, **por favor**.*”
-\-Shalash a Taln[8]
+>“*You have to hate me! Hate me, **please**.*”
+\-Shalash to Taln[8]
 
 
-Para más imágenes, ver [[Shalash/Galer%C3%ADa\|/Galería]].
-### Apariencia
-Shalash tiene la piel oscura y el pelo largo y negro. Sus ojos son de un leve color violeta, tan suave que es casi blanco y carece de pliegue epicántico. Se la describe como una mujer alta y esbelta, así como excepcionalmente hermosa. Los [[Roshar\|rosharianos]] que la ven creen que es [[Makabak\|makabaki]] con algo de herencia [[Shin\|shin]]. En los últimos años, prefiere vestir con ropa práctica antes que cualquier vestimenta particularmente femenina. Lleva con ella una espada de hoja fina, aunque no es una [[Hoja esquirlada\|hoja esquirlada]].
+For more images, see [[Shalash/Gallery\|/Gallery]].
+### Appearance
+Shalash has dark skin and long black hair. Her eyes are a faint violet, so faint as to be almost white, and lack epicanthic folds. She is also described as being tall and lean as well as exceptionally beautiful. [[Rosharan\|Rosharans]] who see her think she's [[Makabak\|Makabaki]] with some [[Shin\|Shin]] heritage. In recent years, she tends to wear practical clothing over anything particularly feminine. She carries around a thin-bladed sword, though it's not a [[Shardblade\|Shardblade]].
 
-### Personalidad
-Pese a que no le gusta el robo, no tiene problemas con colarse en las casas de los ricos para destruir arte, e incluso hay ocasiones en las que no quiere que el destrozo sea pequeño. Esto parece ser una perversión de su atributo divino, la Creatividad, y puede ser un síntoma de haber abandonado el [[Juramento\|Juramento]]. Se centra en las representaciones de sí misma: cada vez que ve su propio rostro, ya sea en una pintura, una estatua o un tapiz, se ve forzada a destruirlo. Parece incapaz de resistir esta sensación incluso cuando está limitada por la falta de tiempo. Shalash es consciente de esto y cuando está haciendo algo importante se esfuerza por no mirar a ningún lado donde pueda encontrar representaciones de los [[Heraldo\|Heraldos]]. Odia que la gente le rinda culto y se burla de quienes la consideran divina. Piensa que la gente debería dejar de adorar, hablar de y pintar Heraldos.
-No le interesan mucho los temas académicos, como la [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]], lo que implica que no fue una erudita.Plantilla:Refref book
-Shalash es muy reservada y no le gusta que le hagan preguntas indiscretas. Parece estar muy arrepentida por haber abandonado el [[Juramento\|Juramento]]. Tras reencontrarse con [[Taln\|Taln]], se muestra muy compungida por haberle dejado atrás, y está consternada porque él no la odie por ello. A pesar de ello, ya no le importa el futuro de [[Roshar\|Roshar]] y su gente. También parece tener momentos en los que pierde el contacto con la realidad, ya que menciona que ha perdido décadas, si no siglos, de recuerdos.
+### Personality
+She dislikes thievery, though she has no issues with breaking into the dwellings of the rich to destroy art, even if she doesn't want the destruction to be too easy. This appears to be a perversion of her divine attribute of Creative, and may be a symptom of her forsaking of the [[Oathpact\|Oathpact]]. It's focused on depictions of herself - whenever she sees her own face, whether as a painting, statue or tapestry, she is compelled to destroy it. She seems unable to resist the urge even when pressed for time. She is, however, aware of this, and when doing something important, she actively avoids looking anywhere one may find artwork of the [[Herald\|Heralds]]. She hates people worshipping her at all, and sneers at those who consider her divine. She thinks that all people should stop worshipping, talking about, and painting Heralds.
+She isn't interested much in scholarly matters, such as the [[Realmatic Theory\|Realmatic Theory]], which implies that she wasn't a scholar.
+Shalash is very private and does not appreciate being asked prying questions. She seems to be highly regretful of abandoning the [[Oathpact\|Oathpact]]. Upon meeting [[Taln\|Taln]] again, she's extremely apologetic for leaving him behind, and expresses dismay that he doesn't hate her for it. Despite that, she no longer cares about the fate of [[Roshar\|Roshar]] and its people. She also seems to have periods of losing touch with reality, as she mentions missing decades, if not centuries of memories.
 
-## Habilidades y atributos
+## Abilities and Attributes
   Shalash
-Para más información sobre los poderes de los Heraldos, ver [[/wiki/Heraldo#Habilidades]].
-### Inmortalidad
-Shalash es una [[Sombra cognitiva\|sombra cognitiva]] capaz de volver a la vida, aunque desconocemos el mecanismo exacto que lo permite. Tras cada muerte, viaja a [[Braize\|Braize]] y cada vez que ella u otro [[Heraldo\|Heraldo]] cede, vuelve a la vida en [[Roshar\|Roshar]]. Mientras viva, no envejece, y es probable que viva para siempre a menos que la maten. Tampoco parece tener ninguna necesidad de dormir, o por lo menos, parece que no puede perder el conocimiento con facilidad.
+For more information about Heralds' powers, see [[/wiki/Herald#Abilities]].
+### Immortality
+Shalash is a [[Cognitive Shadow\|Cognitive Shadow]] capable of returning to life, though the exact mechanics of how are unclear. Following every death, she travels to [[Braize\|Braize]]; whenever she or another [[Herald\|Herald]] gives in, she returns to life on [[Roshar\|Roshar]]. While alive, she's ageless, and will likely live forever unless killed. She also appears to have no need of sleep; at the very least, it seems she cannot easily lose consciousness.
 
-### Potenciación
-Como parte del [[Juramento\|Juramento]], se le entregó una de las [[Hoja de Honor\|hojas de Honor]], lo que le permitió acceder a la [[Potenciaci%C3%B3n\|potenciación]]. Su espada le permitía acceder a las [[Potencia\|Potencias]] de [[Iluminaci%C3%B3n\|Iluminación]] y [[Transformaci%C3%B3n\|Transformación]]. Aun así, dejó su [[Hoja de Honor\|espada]] atrás durante [[Aharietiam\|Aharietiam]], y no la ha recuperado desde entonces.
+### Surgebinding
+As part of the [[Oathpact\|Oathpact]], she was given one of the [[Honorblade\|Honorblades]], granting her access to [[Surgebinding\|Surgebinding]]. Her Blade allowed her to use the [[Surge\|Surges]] of [[Illumination\|Illumination]] and [[Transformation\|Transformation]]. However, she has left her [[Honorblade\|Blade]] behind at [[Aharietiam\|Aharietiam]], and hasn't recovered it since.
 
-### Otros
-Teniendo en cuenta todas las características que sabemos sobre ella, es propable que Shalash fuera algún tipo de artista, o al menos alguien con inclinaciones artísticas. También se dice que su oído es excepcionalmente bueno. Es hábil espiando y en tareas de infiltración, ya que no tiene problemas en mezclarse en una ciudad nueva o encontrar un camino hacia un campamento militar. Aunque su obsesión por las representaciones de sí misma es compulsiva, es muy discreta al respecto, ya que irrumpe en las casas y se marcha sin dejar ningún rastro de su presencia allí, más allá del arte destruido o perdido.
+### Other
+Considering her well-known attributes, it's likely Shalash was once an artist of some sort, or at least artistically inclined. Her hearing is noted as exceptionally good. She's also fairly capable of spying and infiltration, as she has no problems mixing herself into a new city or finding her way into a military camp. Though her obsession with depictions of herself is compulsive, she is very covert about it, breaking into houses and leaving without any trace of her presence other than missing or destroyed art.
 
-## Historia
-### Épocas Heráldicas
-  Fin del Juramento
-A diferencia del resto de [[Heraldo\|Heraldos]], no sabemos con seguridad si Shalash nació en [[Ashyn\|Ashyn]] o más tarde, después de que pueblo viajara a [[Roshar\|Roshar]], aunque la primera opción es la más probable. Cuando empezaron las [[Desolaci%C3%B3n\|Desolaciones]], ella fue una de las elegidas por [[Honor\|Honor]] para ser uno de sus Heraldos. Así se creó el [[Juramento\|Juramento]], y Shalash recibió una de las [[Hoja de Honor\|hojas de Honor]] para ayudarla en sus obligaciones. Desconocemos las circunstancias exactas que llevaron a ello, pero existen historias sobre el [[D%C3%ADa de Pruebas\|Día de Pruebas]], que narran como los aspirantes a Heraldo se enfrentaron a tareas difíciles, si no imposibles, para demostrar su valor.
-Tras la creación del Juramento, Shalash y el resto de Heraldos pasaron varios miles de años ayudando a la gente de [[Roshar\|Roshar]] a luchar contra los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] en las siguientes Desolaciones. Antes de cada Desolación, los Heraldos volvían a Roshar y disponían de poco tiempo para ayudar a la humanidad a prepararse para esa Desolación, enseñándoles la tecnología necesaria que podían haber perdido durante su ausencia. El nivel tecnológico con el que los Heraldos se encontraban en cada Desolación variaba, en algunos casos los rosharianos no habían avanzado más allá de la Edad de Piedra. Al final de cada Desolación, si Shalash no "moría", ella, junto con los otros Heraldos que habían sobrevivido, estaban obligados a volver a [[Braize\|Braize]]. Allí, ella y los demás serían torturados hasta que alguno de ellos se rindiera y volviera a Roshar, con lo que se iniciaría una nueva Desolación.
-Durante [[Aharietiam\|Aharietiam]], Shalash y el resto de Heraldos excepto [[Taln\|Taln]], que ya estaba muerto en ese momento, decidieron renunciar al Juramento y abandonar sus hojas de Honor. Mintieron a la gente de Roshar al decirles que habían "ganado", y se marcharon cada uno por su lado. Sin embargo, al romper el Juramento no tuvieron tanto éxito como pensaban.
+## History
+### Heraldic Epochs
+  End of the Oathpact
+Unlike with the other [[Herald\|Heralds]], it's uncertain whether Shalash was born on [[Ashyn\|Ashyn]] or after its people travelled to [[Roshar\|Roshar]], though the former is more likely. When the [[Desolation\|Desolations]] started, she was chosen by [[Honor\|Honor]] to be one of his Heralds. This formed the [[Oathpact\|Oathpact]], which included Shalash receiving one of the [[Honorblade\|Honorblades]] to aid her in her duties. The precise circumstances of how this came to be are unknown, but there are stories about [[Proving Day\|Proving Day]], during which the would-be Heralds faced difficult, if not impossible, tasks to prove themselves.
+Following the formation of the Oathpact, Shalash and the other Heralds spent several thousand years helping the people of [[Roshar\|Roshar]] fight the [[Voidbringer\|Voidbringers]] in subsequent Desolations. Preceding each Desolation, the Heralds would return to Roshar and have a short time to prepare them for said Desolation, teaching them any necessary technology they may have lost in the intervening time. The level of technology the Heralds returned to varied with each Desolation, in some cases the Rosharans had not progressed past the Stone Age. At the end of each Desolation, if Shalash did not "die", she, along with any other surviving Heralds, was required to leave Roshar and return to [[Braize\|Braize]]. There, she and the others would be tortured to get them to give in and return, whereupon a new Desolation would begin.
+At [[Aharietiam\|Aharietiam]], Shalash and all Heralds other than [[Taln\|Taln]] -- who was dead at the time -- decided to forsake the Oathpact and abandon their Honorblades. They lied to the people of Roshar, telling them they had "won" and went their separate ways. They were, however, not as successful in their breaking as they'd thought.
 
-  Shalash destruyendo una pintura de sí misma
-### Era de la Soledad
->“*Me preocupa Ash. Está cada vez peor.*”
+  Shalash destroying a painting of herself
+### Era of Solitude
+>“*I'm worried about Ash. She’s getting worse.*”
 \-Kalak [22]
 
 
-En un momento desconocido de la [[Era de la Soledad\|Era de la Soledad]] vivió en [[Shinovar\|Shinovar]], donde los shin intentaron matarla, a lo que ella no se opuso especialmente. Sólo se marchó cuando empezaron a adorarla.
-Shalash estuvo presente durante el [[Desaf%C3%ADo de Fuertormenta\|Desafío de Fuertormenta]], del que cuenta a [[Jasnah Kholin\|Jasnah Kholin]] que el rey [[Iyalid\|Iyalid]] se había emborrachado durante el Desafío, zanjando un debate entre ella y [[Jochi\|Jochi]].
-Alrededor de cuatro mil quinientos años después de Aharietiam, Shalash viajaba por el continente destruyendo cualquier representación de sí misma. En algún momento antes del asesinato del rey [[Asesinato de Gavilar\|Gavilar Kholin]] de [[Alethkar\|Alethkar]] se infiltró en el palacio real de [[Kholinar\|Kholinar]] y destruyó su propia estatua. Este comportamiento parece haber ido a peor en los últimos tiempos, por cómo notan sus compañeros Heraldos que Shalash ha ido empeorando.
-Cinco años después, en 1173, Shalash, con la ayuda de [[Baxil\|Baxil]] y [[Av\|Av]], se infiltraron en el palacio de [[Ashno\|Ashno de Sages]], el dirigente de [[Emul\|Emul]], y destruyó un montón de obras de arte que la representaban, entre ellos un lienzo y una estatua. También se infiltró, antes o en esa misma época, en el [[Palacio de Bronce\|Palacio de Bronce]] en [[Azimir\|Azimir]], donde desfiguró un mural de los Heraldos, arañando su propia cara, además de destruir muchas de las estatuas de su templo en [[Thaylenah\|Thaylenah]].
+At an unknown point in time during the [[Era of Solitude\|Era of Solitude]] she lived in [[Shinovar\|Shinovar]], where the Shin tried to kill her, which she wasn't particularly against. She only left after they started worshipping her.
+Shalash was present during the [[Challenge of Stormhold\|Challenge of Stormhold]], which she recounts to [[Jasnah Kholin\|Jasnah Kholin]] that King [[Iyalid\|Iyalid]] had been drunk during the Challenge, settling a debate between her and [[Jochi\|Jochi]].
+Roughly four and a half thousand years after Aharietiam, Shalash was traveling the world destroying any depictions of herself. Sometime prior to the [[Assassination of Gavilar\|assassination]] of King [[Gavilar Kholin\|Gavilar Kholin]] of [[Alethkar\|Alethkar]] she infiltrated the royal palace in [[Kholinar\|Kholinar]] and destroyed her own statue. This pattern of behavior seemed to have gotten much worse at the time, as her fellow Heralds noted that she was getting worse.
+Five years later, in 1173, Shalash, alongside with hired help [[Baxil\|Baxil]] and [[Av\|Av]], infiltrated the palace of [[Ashno of Sages\|Ashno of Sages]], the Prime of [[Emul\|Emul]], and destroyed a great deal of artwork depicting herself, including a canvas painting and a statue. Either during or prior to that time, she also infiltrated the [[Bronze Palace\|Bronze Palace]] in [[Azimir\|Azimir]], where she defaced the mural of the Heralds, scratching out her own face, along with destroying many of the statues in her temple in [[Thaylenah\|Thaylenah]].
 
-### Auténtica Desolación
-Tras la guerra civil en [[Jah Keved\|Jah Keved]], al inicio de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], Ash se convirtió en una lavandera para, usando el nombre falso de Pom, localizar una obra de ella misma de [[Dandos Heraldin\|Dandos el Ilustre]]. Todo resultó ser una trampa de [[Mraize\|Mraize]], quien quería contarle donde estaba [[Taln\|Taln]]. Esto la condujo hasta [[Ciudad Thaylen\|Ciudad Thaylen]], a la que llegó justo a tiempo para la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. Allí, encontró a Taln.
-Durante la batalla, Taln estaba es una estado casi catatónico, lo que hacía que Ash tuviera que arrastralo hasta que [[Dalinar Kholin\|Dalinar Kholin]] consiguió abrir la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] y ambos Heraldos consiguieron mantener una breve conversación. Tras la batalla, y con Taln poco comunicativo una vez más, Ash decidió llevarlo con [[Ishar\|Ishar]]. Esto, sin embargo, no llegó a suceder, ya que al mismo tiempo [[Moash\|Vyre]] se las ingenió para matar a [[Jezrien\|Jezrien]], dejándolos a los dos en un profundo estado de shock. Este momento de gran conmoción hizo que Jasnah, que observaba la fila que se dirigía a la [[Puerta Jurada\|Puerta Jurada]] buscando a los dos Heraldos con sus retratos en la mano, se percatara de su presencia y saliera a su encuentro, pero Shalash quedó inconsciente antes de que las dos mujeres pudieran hablar.
-Tras ser descubiertos en la Batalla de la Explanada Thayleña, Ash y Taln se trasladaron a [[Urithiru\|Urithiru]], donde Jasnah los interrogó con frecuencia. Ash le proporcionó alguna información acerca de los [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]] y del Juramento a Dalinar, pero aseguró que Ishar era el verdadero experto en ese tema. Llevaron a los dos Heraldos a la ofensiva en Emul, y Dalinar volvió a interrogar a Ash acerca de Ishar.
+### True Desolation
+Following the [[Jah Keved\|Jah Keved]] civil war, at the start of the [[True Desolation\|True Desolation]], Ash became a washerwoman under the assumed name Pom to track down a painting of herself by [[Dandos\|Dandos the Oilsworn]]. This turned out to be a trap set up by [[Mraize\|Mraize]], who wished to tell her where [[Taln\|Taln]] was. This set her on the path to [[Thaylen City\|Thaylen City]], where she arrived just in time for the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. There, she found Taln.
+During the battle, Taln was next to catatonic, requiring Ash to pull him along until [[Dalinar Kholin\|Dalinar Kholin]] managed to open [[Honor's Perpendicularity\|Honor's Perpendicularity]], whereupon the two Heralds managed to have a short conversation. After the battle, with Taln once more uncommunicative, Ash decided to take him to [[Ishar\|Ishar]]. This was, however, not to be, as at the same time, [[Vyre\|Vyre]] managed to kill [[Jezrien\|Jezrien]], sending her into deep shock. The resulting commotion made Jasnah, who was watching the line to the [[Oathgates\|Oathgates]] looking for the two Heralds with their paintings in her hands, notice them and come to confront them, but Shalash fell unconscious before the two could talk.
+After being discovered at the Battle of Thaylen Field, Ash and Taln moved to [[Urithiru\|Urithiru]], where they were often interviewed by Jasnah. Ash provided some information about [[Bondsmiths\|Bondsmiths]] and the Oathpact to Dalinar, but claimed that Ishar was the real expert on the subject. The two Heralds were brought along to the offensive in Emul, and Ash was eventually again questioned by Dalinar about Ishar.
 
-  Con <<Taln\|Taln>>
-## Relaciones
-### Otros Heraldos
-Shalash es la hija de [[Jezrien\|Jezrien]], otro [[Heraldo\|Heraldo]]. No parece que tuvieran una relación muy estrecha y la única vez que la vemos pensar en él es cuando siente el dolor por su muerte.
-Considera que todos los Heraldos -- excepto ella misma y tal vez [[Ishar\|Ishar]] -- están locos por miles de años de tortura. También considera al Heraldo de los Misterios un hombre dispuesto a arriesgar su vida, su alma y su trabajo por el bien de la humanidad.
-Es probable que ella y [[Taln\|Taln]] mantuvieran una relación sentimental, o al menos una relación muy estrecha, ya que ella se siente atraída por sus manos y recuerda la sensación que le provocaban incluso después de cuatro mil años. Él también es la única persona con la que se disculpa por abandonar el [[Juramento\|Juramento]], y casi se desmorona cuando Taln se niega a odiarla por ello. Trata a Taln con mucha delicadeza y lo conduce como a un minusválido cuando caminan juntos.
-Otros Heraldos, como [[Nale\|Nale]] y probablemente [[Kalak\|Kalak]], parecen haber seguido las actividades de Shalash, aunque se desconoce si se han reunido con ella en los últimos años.
+  With <<Taln\|Taln>>
+## Relationships
+### Other Heralds
+Shalash is the daughter of [[Jezrien\|Jezrien]], a fellow [[Herald\|Herald]]. It doesn't seem as though the two are very close; the only time she's seen thinking about him is when she feels the pain of his death.
+She considers all the Heralds --except herself and maybe [[Ishar\|Ishar]] -- to be mad from thousands years of torture. She also considers the Herald of Mysteries a man willing to risk his life, soul, and work for the better of humankind.
+She and [[Taln\|Taln]] were likely romantically involved, or at least very close; she finds herself drawn to his hands, and remembers the sensation of them even after four thousand years. He's also the only person to whom she's apologetic about abandoning the [[Oathpact\|Oathpact]], and she nearly breaks down when he refuses to hate her for it. She treats Taln very gently and leads him like a disabled man when they walk together.
+Other Heralds -- [[Nale\|Nale]] and possibly [[Kalak\|Kalak]] -- appear to have been keeping tabs on her activities, though it's unknown whether they've met with her directly in recent years.
 
 ### Hoid
-Ha conocido a [[Hoid\|Hoid]] y lo conoce lo suficientemente bien como para reconocer su estilo artístico, aunque se refiere a él como Midius. Hoid se muestra especialmente tierno y reverente cuando trata con ella y con Taln.
+She has met [[Hoid\|Hoid]], and knows him well enough to be able to recognize his art style, though she refers to him as Midius. Hoid is particularly tender and reverent when he deals with her and Taln.
 
-## Cultura
->“*¡Ojos de Ash!*”
-\-Shallan[27]
-
-
-En el [[Vorinismo\|vorinismo]], Shalash es conocida como **Shalash'Elin**, la Heraldo de la Belleza, aunque también se utiliza su apodo Ash. La tradición la asocia con el número 6 (shash), la [[Diez Esencias\|Esencia]] sangre, y con los atributos divinos Creativo y Honrado. Como los otros Heraldos, tiene templos en su honor en todas las grandes ciudades. Existen numerosas obras de arte dedicadas a ella, y pueden encontrarse representaciones de ella incluso en objetos tan cotidianos como un brasero.
-"Ojos de Ash" y "por la máscara de Ash" son frases muy comunes y que a menudo se utilizan para expresar conmoción o sorpresa. El "temperamento erudito" es un modismo de significado desconocido, aunque puede hacer referencia a alguien que es honesto o impulsivo. El nombre [[Shallan\|Shallan]] proviene de Shalash. "El pincel de pintura infinita de Ash" es una frase que probablemente dicen los artistas cuando ven algo bello y asombroso.
-Más al oeste, en [[Emul\|Emul]] y probablemente en otros países [[Makabak\|makabaki]], Shalash es conocida como **Epan** y recibe el título **Dama de los Sueños**. En [[Shinovar\|Shinovar]], se la conoce como **Shush-hija-Dios**.
-
-## Curiosidades
-  Símbolo de capítulo de Ash
-  <<Glifo\|Glifo>> de Shalash
-Shalash será el personaje del flashback en el séptimo libro de *El archivo de las tormentas*.
-Shalash es una de los tres Heraldos, junto con [[Kalak\|Kalak]] y [[Pailiah\|Pailiah]], cuyos nombres son simétricos de forma natural según las reglas [[Vorin\|vorin]].
-"Shalash" guarda cierto parecido con los [[Aon\|aones]] Shao (Transformación), Ala (Belleza), y Ashe (Luz). Pese a que sabemos que esto no es una coincidencia, la misma Shalash puede que desconozca el origen lingüístico de su nombre.
-Su nombre y el de [[Shashara\|Shashara]] son parecidos, pero esto no es relevante.
-Al retrato de Shalash que se utiliza en los arcos de los capítulos, el equipo de [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] lo llama the Artist.
-En la mitología sitia, Shalash era la mujer del dios Dagón.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Culture
+>“*Ash's eyes!*”
+\-Shallan[28]
 
 
+In [[Vorinism\|Vorinism]], Shalash is known as **Shalash'Elin**, the Herald of Beauty, though the nickname Ash is also used. Tradition associates her with the number 6 (shash), the [[Ten Essences\|Essence]] of Blood, and the divine attributes of Creative and Honest. Like all other Heralds, she has temples to herself in all major cities. There are numerous pieces of artwork devoted to her, and depictions of her can be found decorating even utilitarian items like braziers.
+"Ash's eyes" and "Ash's mask" are extremely common phrases, often used to express shock or surprise. "Scholarship temperament" is an idiom with uncertain meaning, though it may refer to being honest or impulsive. The name [[Shallan\|Shallan]] is derived from Shalash. "Ash's brush of endless paint" is a phrase likely said by artists when they see something beautiful and astonishing.
+Further west, in [[Emul\|Emul]] and, likely, other [[Makabak\|Makabaki]] countries, Shalash is known as **Epan** and titled the **Lady of Dreams**. In [[Shinovar\|Shinovar]], she is called **Shush-daughter-God**.
 
-https://es.coppermind.net/wiki/Pom
+## Trivia
+  Ash's chapter icon
+  Shalash's <<Glyph\|glyph>>
+Shalash will be the flashback character in the seventh book of the Stormlight Archive.
+She's one of only three Heralds, alongside [[Kalak\|Kalak]] and [[Pailiah\|Pailiah]], whose names are naturally symmetric under [[Vorin\|Vorin]] rules. 
+"Shalash" bears a certain resemblance to [[Aon\|Aons]] Shao (Transformation), Ala (Beauty), and Ashe (Light). While this isn't coincidental, Shalash herself may be unaware of the linguistics of her name.
+Her name and [[Shashara\|Shashara's]] are similar, but this isn't significant.
+Shalash's portrait used in the chapter arches is called the Artist by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
+In Syrian mythology, Shalash was the wife of the god Dagon.
+
+
+https://coppermind.net/wiki/Pom

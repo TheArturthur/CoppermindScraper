@@ -1,107 +1,70 @@
-
-
-|**[[Brazales de Duelo (libro)\|<]]*El metal perdido***|
+|**[[The Bands of Mourning\|<]]*The Lost Metal***|
 |-|-|
 ||
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|**Anterior**|*[[Brazales de Duelo (libro)\|Brazales de Duelo (libro)]]*|
-|**Localización**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|15 de noviembre 2022|
-|**Fecha española**|17 de noviembre 2022 |
-|**Editorial**||
-|**Editorial en español**||
-|**Número de Páginas**|507|
-|**Número de Palabras**|[[El metal perdido/An%C3%A1lisis estad%C3%ADstico\|156,381]]|
+|**[[Mistborn Era 2\|Mistborn Era 2]]**|
+|**Follows**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
+|**Setting**|[[Scadrial\|Scadrial]], [[Cosmere\|Cosmere]]|
+|**Released**|November 15, 2022|
+|**Publisher**||
+|**Page Count**|507|
+|**Word Count**|[[The Lost Metal/Statistical analysis\|156,381]]|
 
-***El metal perdido*** es el título del cuarto y último libro de [[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]. Salio a la venta el 15 de noviembre de 2022 en inglés y el 17 de noviembre en español.
+***The Lost Metal*** is the title of the fourth and final [[Mistborn Era 2\|Mistborn Era 2]] book. It was released on November 15, 2022.
 
-## Sumario
+## Contents
 
-1 Sinopsis. [[#Sinopsis]] 
-2 Desarrollo. [[#Desarrollo]] 
+1 Synopsis. [[#Synopsis]] 
+2 Summary. [[#Summary]] 
+3 Development. [[#Development]] 
 
-2. [[#Contenido previo a la publicaci.C3.B3n]] 
-
-
-3 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-4 Arte interior. [[#Arte interior]] 
-5 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-6 Notas. [[#Notas]] 
+3. [[#Pre-Publication Content]] 
 
 
-## Sinopsis
+4 Cover Gallery. [[#Cover Gallery]] 
+5 Interior Art. [[#Interior Art]] 
+6 Statistical Analysis. [[#Statistical Analysis]] 
+7 Notes. [[#Notes]] 
+
+
+## Synopsis
 >“
-\-Durante años, el agente del orden fronterizo convertido en senador de la gran ciudad, Waxillium Ladrian, ha dado caza a la sombría organización conocida como el Grupo entre cuyos líderes se encuentran su tío y su hermana, después de que empezaran a secuestrar a personas con el poder de la alomancia corriendo por sus venas. Cuando la detective Marasi Colms y su compañero Wayne encuentran armas almacenadas destinadas a la ciudad portuaria de Bilming, se abre una nueva vía de investigación. El conflicto entre Elendel y las ciudades exteriores no hace sino favorecer al Grupo, y sus tentáculos ahora llegan hasta el Senado de Elendel, cuya corrupción Wax y Steris creyeron haber expuesto. Ahora la ciudad de Bilming se encuentra todavía más involucrada.
-Después de que Wax descubre un nuevo tipo de material explosivo capaz de provocar una destrucción sin precedentes, y tras darse cuenta de que el Grupo ya debe tenerlo en su poder, un kandra inmortal al servicio del dios de Scadrial revela que el poder de Armonía se encuentra obstruido en Bilming. Ello implica que la ciudad ha caído bajo la influencia de otro dios: Trell, adorado por el Grupo. Y Trell no es el único factor en juego del vasto Cosmere. Marasi es reclutada por individuos de otro mundo con extrañas habilidades, que esgrimen que su misión es proteger Scadrial… a cualquier precio.
-Las visiones de Armonía sobre posibilidades futuras llegan a un abrupto fin inesperadamente, y después de eso solo hay oscuridad. Es una carrera contra el tiempo, y Wax ha de elegir si dejar de lado su sinuosa relación con Dios para convertirse una vez más en la Espada de Armonía, algo para lo que el dios le ha criado desde pequeño. Si no aparece alguien para ser el héroe que Scadrial necesita, el planeta, junto con sus millones de habitantes, sucumbirá a una repentina y funesta ruina.
+\-For years, frontier lawman turned big-city senator Waxillium Ladrian has hunted the shadowy organization the Setwith his late uncle and his sister among their leaderssince they started kidnapping people with the power of Allomancy in their bloodlines. When Detective Marasi Colms and her partner Wayne find stockpiled weapons bound for the Outer City of Bilming, this opens a new lead. Conflict between Elendel and the Outer Cities only favors the Set, and their tendrils now reach to the Elendel Senatewhose corruption Wax and Steris have sought to exposeand Bilming is even more entangled.
+After Wax discovers a new type of explosive that can unleash unprecedented destruction and realizes that the Set must already have it, an immortal kandra serving Scadrial's god reveals that Harmony's power is blocked in Bilming. That means the city has fallen under the influence of another god: Trell, worshipped by the Set. And Trell isn't the only factor at play from the larger CosmereMarasi is recruited by offworlders with strange abilities who claim their goal is to protect Scadrial... at any cost.
+Harmony's vision of future possibilities comes to an abrupt halt tomorrow night, with only blackness after that. It's a race against time, and Wax must choose whether to set aside his rocky relationship with God and once again become the Sword that Harmony has groomed him to be. If no one steps forward to be the hero Scadrial needs, the planet and its millions of people will come to a sudden and calamitous ruin.
 
 
-Para un resumen completo capítulo por capítulo, ver [[El metal perdido/Resumen\|/Resumen]].
-## Desarrollo
-Tras la finalización de *[[Aleaci%C3%B3n de ley\|Aleación de ley]]* Brandon planificó tres libros más, siguiendo a los mismos personajes, para terminar la historia. Brandon comenzó a escribir *El metal perdido* en abril de 2021, después de terminar *[[Cit%C3%B3nica (libro)\|Citónica]]*,  y completó el primer borrador el 4 de agosto de 2021. El segundo borrador se completó el 20 de septiembre de 2021, y se envió a los lectores beta y al editor de Brandon poco después; la lectura beta terminó en noviembre. La edición posterior a la lectura beta se realizó el 7 de marzo de 2022; tardó más tiempo en completarse de lo que Brandon esperaba y provocó que el libro se alargara más de lo que había previsto inicialmente. Después de eso, Brandon hizo una última edición, que se terminó el 24 de mayo de 2022, antes de entregar el libro a Tor para un lanzamiento el 15 de noviembre de 2022,, más o menos cuando los dos primeros libros de Era 2 salieron a la venta en su edición en piel.
-El libro incluye alguna información relevante para el [[Cosmere\|Cosmere]] más amplio, incluyendo la identidad de [[Trell (trellismo)\|Trell]], la naturaleza del [[Trellium\|trellium]], y algunas pistas sobre los planes de [[Kelsier\|Kelsier]]. La mayoría de esos elementos son más bien presagios de la [[Nacidos de la bruma Era 3\|Era 3 de Nacidos de la bruma]] y el libro se centra sobre todo en los personajes de [[Wax\|Wax]], [[Wayne\|Wayne]], [[Steris\|Steris]] y [[Marasi\|Marasi]], aunque Brandon también considera que el libro es ligeramente más consciente del Cosmere que cualquier otro libro que haya escrito.  El libro comienza con un flashback de [[Wayne\|Wayne]], en lugar de uno de [[Wax\|Wax]]. Al menos al principio del proceso de desarrollo, Brandon imaginó que Wax se había retirado y que el libro se abría con Wayne como ayudante de Marasi. El libro incluye un periódico, como los otros libros de la Era 2 de *Nacidos de la bruma*.
-El primer borrador del libro tenía unas 149.000 palabras en total; en el tercer borrador, aumentó en unas 25.000 palabras. En el primer borrador, la primera parte tenía unas 30.000 palabras y contaba con dos narraciones separadas, cada una con dos de los personajes principales, y alternaba los puntos de vista entre los cuatro personajes principales; la segunda parte tenía unas 45.000 palabras y reunía a los cuatro personajes principales, continuando con la alternancia de puntos de vista; y en la tercera parte, los personajes se dividían de nuevo, Marasi con su propio arco de unas 30.000 palabras, Wax y Wayne juntos para un arco de unas 40.000 palabras, y Steris por su cuenta para un arco corto de unas 10.000 palabras. Brandon escribió cada uno de los arcos de la tercera parte por separado, lo que le pareció un buen enfoque ya que esencialmente le permitió escribir el final tres veces y a él le gusta escribir finales. Brandon predijo que Steris tendría unos siete u ocho puntos de vista. El epílogo es un poco más largo de lo normal, ya que es el último libro de la Era 2 y Brandon quería entretenerse un poco más con los personajes y el escenario.
+## Summary
+For a complete chapter by chapter summary, see [[The Lost Metal/Summary\|/Summary]].
+## Development
+Following completion of *[[The Alloy of Law\|The Alloy of Law]]* Brandon plotted out three more books, following the same characters, to finish the story. Brandon began writing *The Lost Metal* in April 2021, after he finished *[[Cytonic (book)\|Cytonic]]*, and completed the first draft on August 4, 2021. The second draft was completed on September 20, 2021, and went to beta readers and Brandon's editor shortly thereafter; the beta reads concluded some time in November. The post-beta read edit was done by March 7, 2022; it took more time to complete than Brandon had expected and resulted in the book growing longer than he had initially anticipated. After that, Brandon did one final edit, which was done by May 24, 2022, before turning the book in to Tor for a November 15, 2022 release, around when the first two Era 2 books were released in leatherbound.
+The book includes some information relevant to the broader [[Cosmere\|cosmere]], including the identity of [[Trell (Trellism)\|Trell]], the nature of [[Trellium\|trellium]], and some clues about [[Kelsier\|Kelsier's]] plans. Most of those elements are more foreshadowing for [[Mistborn Era 3\|Mistborn Era 3]] and the book mostly focuses on the characters of [[Wax\|Wax]], [[Wayne\|Wayne]], [[Steris\|Steris]], and [[Marasi\|Marasi]], though Brandon also considers the book to be slightly more cosmere-aware than any other book he has written. The book begins with a [[Wayne\|Wayne]] flashback, rather than one of [[Wax\|Wax]]. Early in the development process, Brandon envisioned Wax having essentially retired and the book opening with Wayne as Marasi's deputy. The book includes a broadsheet, like the other books in *Mistborn* Era 2.
+The first draft of the book was about 149,000 words total; in the third draft, it grew by about 25,000 words. In the first draft, Part One was about 30,000 words and had two separate narratives, each with two of the main characters, and alternated viewpoints between all four main characters; Part Two was about 45,000 words and brought all four of the main characters together, continuing to alternate viewpoints; and in Part Three, the characters split again, with Marasi on her own arc of about 30,000 words, Wax and Wayne together for an arc of about 40,000 words, and Steris on her own for a short arc of about 10,000 words. Brandon wrote each of the arcs of Part Three separately from each other, which he found was a good approach as it essentially let him write the ending three times and he likes writing endings. In total, Brandon predicted that Steris would have around seven or eight viewpoints. The epilogue is a bit longer than normal, as it is the last book of Era 2 and Brandon wanted to linger with the characters and setting a little more.
 
-### Contenido previo a la publicación
-En la JordanCon de 2021, Brandon hizo una lectura del primer borrador del prólogo, un flashback de Wayne cuando era un niño. Se puede escuchar y leer  y  y también se envió en el boletín de julio de 2021 de Brandon.
-En la Mini-Con de Dragonsteel de 2021, Brandon hizo una lectura del segundo borrador del capítulo uno y parte del capítulo dos, que puede escucharse y leerse .
-El 19 de septiembre de 2022, Tor empezó publicando capítulos de muestra del libro cada lunas que se pueden empezar a leer  y .
-Brandon considera que el libro es ligeramente más consciente del Cosmere que cualquier otro libro que haya escrito; la principal conexión del Cosmere en el libro se relaciona con una de las historias de *[[Arcanum ilimitado\|Arcanum ilimitado]]*.
-[[Investidura\|Investidura]] sin [[Conexi%C3%B3n\|Conexión]] aparece en el libro.
-Brandon mencionó en la JordanCon que cree que hay una mención a la [[Esquirla\|Esquirla]] [[Capricho\|Capricho]] en el libro.
-Al menos en el primer borrador, hay un punto de la trama "muy menor" que involucra a una rana disecada.
-En la Mini-Con de Dragonsteel, Brandon mencionó que hay un [[Saltamundos\|saltamundos]] de un planeta con una cultura inspirada en el  en el libro.
-[[Marsh\|Marsh]] también hace su aparición en el libro.
-## Galería de portadas
-Para una galería de portadas de *El metal perdido*, ver [[El metal perdido/Portadas\|/Portadas]].
-## Arte interior
-Para una galería con el arte interior del libro, ver [[El metal perdido/Arte interior\|/Arte interior]].
-## Análisis estadístico
-Para un análisis estadístico completo, ver [[El metal perdido/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
+### Pre-Publication Content
+At JordanCon in 2021, Brandon did a reading of the first draft of the prologue, a flashback to Wayne as a young child. It can be listened to and read  and was also sent out in Brandon's July 2021 newsletter.
+At Dragonsteel Mini-Con in 2021, Brandon did a reading of the second draft of chapter one and part of chapter two, which can be listened to and read .
+On September 19, 2022, Tor began releasing sample chapters from the book every Monday, which can be read .
+Brandon considers the book to be slightly more cosmere-aware than any other book he has written; the primary cosmere connection in the book relates to one of the stories from *[[Arcanum Unbounded\|Arcanum Unbounded]]*.
+[[Investiture\|Investiture]] without [[Connection\|Connection]] appears in the book.
+Brandon mentioned at JordanCon that he thinks there is a mention of the [[Shard\|Shard]] [[Whimsy\|Whimsy]] in the book.
+At least in the first draft, there is a "very minor" plot point that involves a desiccated frog.
+At Dragonsteel Mini-Con, Brandon mentioned that there is a [[Worldhopper\|worldhopper]] from a planet with a culture inspired by the  in the book.
+[[Marsh\|Marsh]] also makes an appearance in the book.
+## Cover Gallery
+For a cover gallery of The Lost Metal, see [[The Lost Metal/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[The Lost Metal/Interior art\|/Interior art]].
+## Statistical Analysis
+For a full statistical analysis, see [[The Lost Metal/Statistical analysis\|/Statistical analysis]].
 *The Lost Metal* consists of seventy-four chapters, one prologue, and seven epilogues, reaching a total 156,381 word count. There are eleven different unique point-of-view characters in a total of 94 POVs.
 
-|**Conteo de palabras**|156,381||
+|**Word Count**|156,381||
 |-|-|
-|**Conteo de páginas**|507|Tor tapa dura|
-|**Conteo de capítulos**|82|Incluyendo prólogo y epílogos|
-|**Personajes con punto de vista**|11||
-|**Conteo de puntos de vista**|94||
-
-## Notas
-
-Este meta-artículo está completo, pero no ha sido revisado todavía.
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] ·   |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · |
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Page Count**|507|Tor hardback|
+|**Chapter Count**|82|Including prologue and epilogues.|
+|**PoV Characters**|11||
+|**PoV Count**|94||
 
 
 
-https://es.coppermind.net/wiki/The_Lost_Metal
+https://coppermind.net/wiki/The_Lost_Metal

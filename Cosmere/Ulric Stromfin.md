@@ -1,20 +1,12 @@
 |**Ulric Stromfin**|
 |-|-|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Ulric Stromfin** is the head of the Seattle branch of the  cartel.
-
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]]**|
-|-|-|
-|**Personajes**|[[Runian\|Runian]] · [[Sefawynn\|Sefawynn]] · [[Ealstan\|Ealstan]] ·  · [[Quinn Jericho\|Quinn Jericho]] · [[Ryan Chu\|Ryan Chu]] · [[Logna\|Logna]]|
-|**Lugares**|[[Stenford\|Stenford]] · [[Wellbury\|Wellbury]] · [[Maelport\|Maelport]]|
+**Ulric Stromfin** is the head of the Seattle branch of the [[Fabian Augments\|Fabian Augments]] cartel.
 
 
 
-https://es.coppermind.net/wiki/Ulric_Stromfin
+https://coppermind.net/wiki/Ulric_Stromfin

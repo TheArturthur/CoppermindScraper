@@ -1,34 +1,23 @@
-
-
 |**Zu (Sel)**|
 |-|-|
 ||
-|**Oficio**|Soldado|
-|**Nacionalidad**|[[Ariete\|Ariete]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El alma del emperador\|El alma del emperador]]*|
+|**Profession**|Soldier|
+|**Nationality**|[[Striker\|Striker]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Emperor's Soul\|The Emperor's Soul]]*|
 
-**Zu** es un [[Ariete\|ariete]] [[Mulla'dil\|mulla'dil]] del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]]. Es el capitán de la guardia del [[Palacio Rosa\|palacio Rosa]].
+For the Iriali Stoneward on Roshar, see [[Zu (Roshar)\|Zu (Roshar)]].
+**Zu** is a [[Striker\|Striker]] from [[Mulla'dil\|Mulla'dil]] in the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]]. He is the captain of the guard in the [[Rose Palace\|Rose Palace]].
 
-## Apariencia y personalidad
-Zu es un hombre alto y joven con una musculatura esbelta y piel pálida. Tiene el pelo oscuro y cuidado, lo que indica que no suele llevar casco. Tiene los labios gruesos.
-Zu es un hombre ambicioso que se considera destinado a cosas importantes en el futuro. Es simple de mente, pero muy útil cuando los árbitros necesitan asesinar a alguien. No se siente cómodo con la [[Falsificaci%C3%B3n\|falsificación]].
+## Appearance and Personality
+Zu is a young, tall man with a lean musculature and pale skin. He has dark hair which he keeps styled, indicating that he does not usually wear a helmet. He has wide lips.
+He is an ambitious man who fancies himself bound for important things in the future. He is simpleminded but very useful when the arbiters need someone killed. He is uncomfortable with [[Forgery\|Forgery]].
 
-## Historia
-Zu es uno de los guardias a los que se le ordena llevar a [[Wan ShaiLu\|Wan ShaiLu]] ante los cinco [[%C3%81rbitro\|árbitros]] de la [[Facci%C3%B3n de la Herencia\|Facción de la Herencia]] tras ser capturada. Muestra un gran desprecio por ella, prometiendo que la matará en un futuro. Se siente inseguro por su fracaso al no poder arrestarla cuando roba en el Palacio Rosa. Después de que Shai se entere de que el emperador [[Ashravan\|Ashravan]] está en estado comatoso, asignan a Zu para supervisar la seguridad de su habitación. Él es el único ariete que conoce las lesiones de Ashravan y el trato que los árbitros han hecho con Shai para crear una [[Marca de Esencia\|Marca de Esencia]] que lo reviva. Escolta personalmente a los árbitros que acuden a visitar la habitación de Shai.
-Una vez que esta completa su trabajo con el alma del emperador, Zu entra en su habitación, despacha a los guardias y luego intenta matarla. Logra herir a Shai con su espada, pero luego se cae al suelo a causa de una trampa previamente creada por Shai, hiriéndose en la frente y quedando inconsciente. Cuando se despierta, acude al [[Dedos de Hierba\|sellador de sangre]] contratado por los árbitros y logran rastrear a Shai usando la sangre de su espada. Sin embargo, Shai vence fácilmente a Zu en combate usando su Marca de Esencia de *[[Shaizan\|Shaizan]]*, rompiéndole la muñeca y seis costillas. Zu se queda asombrado por su habilidad. Durante su huida de palacio, Shai le roba su caballo de guerra, alto y blanco, de sangre [[Gurish\|gurish]], que vale más que una pequeña casa en algunas partes del Imperio Rosa.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 09:12, 12 de marzo de 2019 (MST)
-|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
-|-|-|
-|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] ·  · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
-|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
-|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+## History
+Zu was one of the guards ordered to bring [[Wan ShaiLu\|Wan ShaiLu]] before the five [[Arbiter\|arbiters]] of the [[Heritage Faction\|Heritage Faction]] after she was captured. He showed a great dislike for Shai, promising that he would eventually kill her; he felt insecure about his failure to apprehend her when she stole from the Rose Palace. After Shai learned that Emperor [[Ashravan\|Ashravan]] was comatose, Zu was assigned to oversee the security of her room. He was the only Striker who knew of Ashravan's injury and the deal that the arbiters struck with Shai to create an [[Essence Mark\|Essence Mark]] that would revive him. He personally guarded the arbiters that came to visit Shai's room.
+Once Shai completed her work on the emperor's soul, Zu came into her room, dismissed the guards inside, then tried to kill her. He managed to wound Shai with his sword, but he then fell through the floor due to a trap previously set by Shai, injuring his forehead and falling unconscious. When he woke up, he went to [[Weedfingers\|the Bloodsealer]] employed by the arbiters and they managed to track Shai again using the blood on his sword. However, Shai easily bested Zu in combat using her *[[Shaizan\|Shaizan]]* Essence Mark, breaking his wrist and six of his ribs. He was amazed at her ability. She stole his tall, white, [[Gurish\|Gurish]] warhorse during her escape from the palace; it was worth more than a small house in some parts of the Rose Empire.
 
 
 
-https://es.coppermind.net/wiki/Zu_(Sel)
+https://coppermind.net/wiki/Zu_(Sel)

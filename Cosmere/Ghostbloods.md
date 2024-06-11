@@ -1,166 +1,144 @@
-
-
-|**Sangre Espectral**|
+|**Ghostbloods**|
 |-|-|
 ||
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Para la trilogía de libros que recibe el mismo nombre, ver [[Nacidos de la bruma Era 3\|Nacidos de la bruma Era 3]].
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]*, *[[El ritmo de la guerra\|El ritmo de la guerra]]*, y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+For the book trilogy named after the Ghostbloods, see [[Mistborn Era 3\|Mistborn Era 3]].
+> [!info] The Ghostbloods are not a Rosharan organization, and I don't think you appreciate the danger they present...The Ghostbloods are involved in events all across the [[Cosmere\|cosmere]], so this page contains **extensive spoilers**.
 
-Los **Sangre Espectral** son una organización secreta que se encuentra en muchos planetas del [[Cosmere\|Cosmere]], formada con el propósito de proteger [[Scadrial\|Scadrial]] de todas las amenazas.
-Los miembros deben tatuarse tres diamantes superpuestos en algún lugar de su cuerpo. El símbolo se parece a la forma de las , que tienen tres pétalos.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-## Sumario
+The **Ghostbloods** are a secret organization found on many planets in the [[Cosmere\|cosmere]], formed for the purposes of protecting [[Scadrial\|Scadrial]] from all threats.
+Members are required to get a tattoo of three overlapping diamonds somewhere on their bodies. The symbol bears a resemblance to the three-petal shape of [[Marewill flowers\|Marewill flowers]].
 
-1 Principios. [[#Principios]] 
-2 Objetivos. [[#Objetivos]] 
+## Contents
 
-2. [[#Sangre Espectral en Scadrial]] 
-2. [[#Sangre Espectral en Roshar]] 
+1 Tenets. [[#Tenets]] 
+2 Objectives. [[#Objectives]] 
 
-
-3 Recursos. [[#Recursos]] 
-4 Estructura. [[#Estructura]] 
-5 Miembros destacables. [[#Miembros destacables]] 
-
-5. [[#Filial roshariana]] 
-5. [[#Filial scadriana]] 
+2. [[#Scadrian Ghostbloods]] 
+2. [[#Rosharan Ghostbloods]] 
 
 
-6 Acciones. [[#Acciones]] 
+3 Resources. [[#Resources]] 
+4 Structure. [[#Structure]] 
+5 Notable Members. [[#Notable Members]] 
 
-6. [[#Intento de asesinato de Jasnah Kholin]] 
-6. [[#Reclutamiento de Shallan Davar]] 
-6. [[#Purificaci.C3.B3n de Urithiru]] 
-6. [[#Persecuci.C3.B3n de los Hijos de Honor]] 
-6. [[#Reclutamiento de Sja-anat]] 
-6. [[#Transporte de otras formas de Investidura a Roshar]] 
-6. [[#Resistencia contra Trell]] 
+5. [[#Rosharan Chapter]] 
+5. [[#Scadrian Chapter]] 
 
 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+6 History. [[#History]] 
+
+6. [[#Formation]] 
+6. [[#Attempted Murder of Jasnah Kholin]] 
+6. [[#Recruiting Shallan Davar]] 
+6. [[#Cleansing Urithiru]] 
+6. [[#Pursuit of the Sons of Honor]] 
+6. [[#Recruiting Sja-anat]] 
+6. [[#Bringing other forms of Investiture to Roshar]] 
+6. [[#Resistance against Trell]] 
 
 
-## Principios
-Los Sangre Espectral tienen tres principios básicos:
-
-Proteger Scadrial.
-Compartir lo que saben entre ellos, pero no con los demás.
-Confiar los unos en los otros.
-## Objetivos
-### Sangre Espectral en Scadrial
-Los Sangre Espectral se dedican a proteger Scadrial a cualquier precio, y por ello entraron en conflicto con [[El Grupo\|el Grupo]] y [[Autonom%C3%ADa\|Autonomía]].
-
-### Sangre Espectral en Roshar
->“*Poder. Portátil, fácil de contener, renovable. Tienes en la mano la energía de una tormenta, Velo. Una energía cruzada, arrancada del corazón de la rabiosa tempestad. Está domesticada: no solo es una fuente segura de luz, sino también de un poder al que pueden acceder aquellos con… intereses y capacidades particulares.*”
-\-Mraize a Shallan[9]
-
-Los Sangre Espectral rosharianos buscan poder, una forma de conseguir sacar [[Luz tormentosa\|luz tormentosa]] ([[Investidura\|Investidura]]) de Roshar a través de [[Shadesmar\|Shadesmar]]. Persiguen a [[Restares\|Restares]] y a los [[Hijos de Honor\|Hijos de Honor]] ya que temen que ellos estén cerca de descubrir el secreto para hacer esto posible. La luz tomentosa es poder gratis, fácil de acceder y portátil. Para conseguir su objetivo, necesitan hacerse con el control de las [[Puertas Juradas\|Puertas Juradas]], lo que inspiró la búsqueda de [[Urithiru\|Urithiru]]. Buscan [[Gema perfecta\|gemas perfectas]] que les permitan que la luz tormentosa dure lo suficiente como para salir del mundo, aunque hay un problema de [[Conexi%C3%B3n\|Conexión]].
-Los Sangre Espectral están obsesionados con encontrar a [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], quien tiene la habilidad de vincular mentes de pueblos enteros, aunque sus motivos no están claros. No están interesados en ver a [[Odium\|Odium]] reinar sobre Roshar. Buscan vincular a [[Sja-anat\|Sja-anat]], ya que su antiguo conocimiento sería inestimable.
-También buscan encarcelar a los [[Heraldo\|Heraldos]] en gemas con el objetivo de obtener información. [[Thaidakar\|Thaidakar]] busca conocimiento sobre una afección que comparte con los Heraldos para salvarse a sí mismo.
-Su deseo de encontrar una forma de transportar la luz tormentosa fuera del mundo, y de ayudar a Thaidakar a aprender a salir de Scadrial, probablemente esté relacionado con el objetivo de los Sangre Espectral de proteger Scadrial. Sin embargo, los Sangre Espectral de Scadrial parecen verlos como algo descontrolados.
-
-## Recursos
-Poseen un edificio de viviendas en el campamento de guerra del [[Alto pr%C3%ADncipe\|alto príncipe]] [[Sebarial\|Sebarial]] en las [[Llanuras Quebradas\|Llanuras Quebradas]] que tiene un sótano. En él había una muestra de trofeos que [[Shallan\|Shallan]] vio, incluyendo varias [[Gema coraz%C3%B3n\|gemas corazón]] enormes, un colmillo probablemente de un [[Espinablanca\|espinablanca]], una cuenca ocular que parecía la estructura del cráneo de un [[Santhid\|santhid]], un frasco de [[Arena (Taldain)\|arena]] pálida, un par de gruesas horquillas, un mechón de pelo dorado, una rama de un árbol de [[Yolen\|Yolen]] con algo escrito, un cuchillo de plata, una extraña flor conservada en algún tipo de solución, y un trozo de [[%C3%89ter\|cristal rosa]] pálido que parecía ser algún tipo de gema. También había conchas que Shallan reconoció vagamente. No había placas que describieran ninguno de estos recuerdos.
-En Scadrial, tienen un piso franco en la casa número 187, en la Treinta y tres con Finete, en el distrito Puente Caballero de [[Bilming\|Bilming]]. Está protegida con cerraduras de Identidad y contiene mapas, un [[Seon\|seon]], una armería y tres frascos de [[Dor\|Dor]] purificado en una caja fuerte con cerradura [[Despertar\|despertada]]. También poseen una gran finca en [[Elendel\|Elendel]].
-
-## Estructura
-Los Sangre Espectral operan en múltiples planetas dentro del [[Cosmere\|Cosmere]]. Funcionan dentro de una estricta jerarquía, ya que un grupo de cazadores sin estructura se volvería contra los demás con demasiada facilidad. No atacan a los suyos. No negocian hacia arriba. Es habitual que un maestro espíe a sus alumnos. [[Ialai Sadeas\|Ialai Sadeas]] advierte a [[Shallan\|Shallan]] que los Sangre Espectral la vigilarán para asegurarse de que no ascienda lo suficiente como para conocer secretos que puedan perjudicarles.
-Para unirse a los Sangre Espectral es necesario ser invitado por un miembro de la organización y prestar juramento a los Sangre Espectral. Es tradición que el que ofrece la afiliación se convierta en el mentor del que ha invitado.
-Al unirse a los Sangre Espectral, comparten todo lo que saben y el miembro puede influir en las decisiones. Los Sangre Espectral no guardan secretos a sus compañeros, pero en la mayoría de los casos los miembros tampoco pueden compartir los secretos de los Sangre Espectral con los no miembros. Mraize advirtió a Shallan que si rompía los lazos con el grupo, sería cazada. Él y su babsk no la cazarían, pero lo único que podían hacer era disuadir a los demás. Los miembros no deben compartir información secreta con nadie ajeno a la organización, ya que hacerlo supondría el asesinato del infractor, debido al peligro que puede suponer para la organización.
-[[Thaidakar\|Thaidakar]] no está en [[Roshar\|Roshar]] y sólo va como, lo que ellos consideran, un avatar; sí que se muestra directamente a los Sangre Espectral de Scadrial. Thaidakar afecta a las acciones de los Sangre Espectral de Roshar, aunque están un poco alejadas de él al estar en otro planeta.
-
-## Miembros destacables
-Para más información, ver :Categoría:Los Sangre Espectral.
-[[Kelsier\|Kelsier]]: Líder de los Sangre Espectral a quien los habitantes de Scadrial se refieren como el Superviviente y los habitantes de Roshar como Thaidakar
-### Filial roshariana
-[[Iyatil\|Iyatil]]: Una miembro de alto rango, alumna de Thaidakar y pretende ser la maestra de Mraize. También es una saltamundos
-[[Mraize\|Mraize]]: Un miembro de alto rango, el estudiante de Iyatil y un saltamundos
-[[Shallan Davar\|Shallan Davar]]: Bajo el alias de «Velo» (anteriormente)
-[[Jin\|Jin]]: Un hombre de pelo dorado
-[[Kabsal\|Kabsal]]: Un miembro del fervor de [[Kharbranth\|Kharbranth]] (fallecido)
-[[Lin Davar\|Lin Davar]]: Padre de Shallan (fallecido)
-[[Luesh\|Luesh]]: El mayordomo de la familia Davar (fallecido)
-[[Insomne\|Insomne]] sin nombre: Utilizó un [[Cremlino\|cremlino]] en forma de pluma para espiar a [[Sagaz\|Sagaz]]
-### Filial scadriana
-[[Luzdeluna\|Luzdeluna]]: Una estudiante de Thaidakar, con sede en [[Bilming\|Bilming]], considerada la mejor agente
-[[Nombres-en-C%C3%B3digo\|Los-Nombres-En-Código-Son-Una-Idiotez]]: Una miembro con base en [[Bilming\|Bilming]]
-[[AlmaDoble\|AlmaDoble]]: Miembro con sede en [[Bilming\|Bilming]]
-[[Dlavil\|Dlavil]]: miembro afincado en [[Elendel\|Elendel]] y hermano de [[Iyatil\|Iyatil]]
-[[Decano\|Decano]]: Un miembro afincado en Elendel, un importante químico que ayuda en la producción del aluminio de la Sangre Espectral
-## Acciones
-### Intento de asesinato de Jasnah Kholin
-Los Sangre Espectral han realizado varios intentos de asesinar a Jasnah Kholin, y afirman que ella también ha intentado asesinar a varios de sus miembros. Cuando Jasnah pasó un tiempo en [[Kharbranth\|Kharbranth]] para estudiar a los Portadores del Vacío, un agente de los Sangre Espectral llamado [[Kabsal\|Kabsal]] se infiltró en el fervor local para matar a Jasnah. Utilizó a su joven pupila [[Shallan Davar\|Shallan Davar]] para acercarse a Jasnah, lo que les llevó a entablar una relación. Cuando Kabsal intentó envenenar a Jasnah con pan, fue accidentalmente asesinado cuando comió un poco de ese pan envenenado y Jasnah moldeó su antídoto, creyendo erróneamente que ese era el veneno. Jasnah encontró más tarde el tatuaje de los Sangre Espectral en el brazo de Kabsal.
-Cuando Jasnah abandonó Kharbranth, los Sangre Espectral colocaron al menos a [[Novato\|un agente]] a bordo del barco *[[Placer del Viento\|Placer del Viento]]* en el viaje desde [[Kharbranth\|Kharbranth]] hasta las [[Llanuras Quebradas\|Llanuras Quebradas]]. Ese colaborador, junto con otros hombres que [[Shallan\|Shallan]] no reconoció, intentaron asesinar a Jasnah. Creyeron que lo habían conseguido, pero en realidad, Jasnah había escapado a [[Shadesmar\|Shadesmar]] mediante [[Transportaci%C3%B3n\|el uso de sus poderes de Nominadora de lo Otro]].
-Jasnah asume que fue atacada por sus juramentos Radiantes.
-
-### Reclutamiento de Shallan Davar
-Un hombre asociado a los Sangre Espectral financiaba a [[Lin Davar\|Lin Davar]] en su intento de convertirse en el alto príncipe de [[Veden\|Veden]], [[Jah Keved\|Jah Keved]]. Después de que un desconocido [[Veden\|veden]] [[Portador de esquirlada\|portador de esquirlada]] atacara a Amaram, éste especuló con que [[Thaidakar\|Thaidakar]] y los Sangre Espectral estaban detrás del ataque. El portador de esquirlada desconocido resultó ser [[Helaran Davar\|Helaran Davar]], hermano de [[Shallan\|Shallan]]. 
-Los Sangre Espectral fueron buscados por Shallan Davar, que, bajo el disfraz de Velo, quería investigarlos. Shallan se reunió con Mraize e Iyatil en un escondite de los Sangre Espectral situado en el campamento de guerra de [[Sebarial\|Sebarial]], y consiguió hacerles creer que había sido enviada allí por [[Tyn\|Tyn]]. Mraize, sin saber que Tyn estaba muerta, ordenó a Shallan que le dijera a Tyn que investigara los aposentos de Meridas Amaram. Shallan realizó esta tarea con éxito y llevó sus hallazgos a Mraize, aunque reveló accidentalmente su memoria fotográfica. Mraize dedujo entonces que Tyn estaba muerta, asesinada por Shallan, pero la elogió por ello. Entonces le dijo que podría conseguir un lugar entre los Sangre Espectral si realizaba tareas para ellos. Sin embargo, también permitió que otros Sangre Espectral intentaran asesinarla si lo deseaban. Shallan consiguió evitar los atentados contra su vida y llevó a cabo su siguiente tarea, investigar la presencia de [[Taln\|Taln]] en el campamento de guerra de [[Dalinar Kholin\|Dalinar Kholin]], de forma satisfactoria.
-Tras la batalla de Narak y el posterior descubrimiento de Urithiru, Mraize se enfrentó a Shallan y le reveló que había descubierto su verdadera identidad como hija de Lin Davar, protegida de Jasnah Kholin y Caballera Radiante con la capacidad de moldear almas. Mraize le recordó la deuda de su familia con los Sangre Espectral, y también le reveló que los agentes de la organización habían rescatado a sus hermanos de la guerra civil en Jah Keved, y que los llevarían a salvo a Urithiru. Los agentes de los Sangre Espectral tuvieron éxito, y los hermanos Davar llegaron a Urithiru tras la Batalla de la Explanada Thayleña.
-Las identidades de Shallan debatieron su interés en unirse a los Sangre Espectral. Velo estaba interesada en unirse, pero se negaba a hacerse el tatuaje. Shallan planeaba romper los lazos con los Sangre Espectral. Sinforma, una cuarta identidad imaginada para Shallan en la que escondía sus dudas y ambiciones egoístas, quería unirse a los Sangre Espectral.
-Mraize ofreció a Shallan ser miembro de pleno derecho de los Sangre Espectral a cambio de asesinar a [[Restares\|Restares]], líder de los [[Hijos de Honor\|Hijos de Honor]]. Shallan no siguió adelante y rompió los lazos con el grupo. Amenazó a Mraize para que abandonara [[Urithiru\|Urithiru]] y le advirtió que iría a la caza de [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. Mraize le advirtió que se había movido contra el grupo de la forma más ofensiva.
-
->“*Esto no acabará bien para ti, Shallan. Estás enemistándote con la organización más poderosa de todo el Cosmere.*”
-\-Mraize a Shallan[21]
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
-### Purificación de Urithiru
-Mraize le pidió a [[Shallan\|Shallan]] que investigara el mal en Urithiru, el cual ella ya estaba percibiendo.  Esto la llevó a encontrar, confrontar y expulsar a la [[Re-Shephir\|Madre Medianoche]].
+## Tenets
+The Ghostbloods have three general tenets:
 
-### Persecución de los Hijos de Honor
-Los Sangre Espectral deseaban vigilar las actividades de la Casa Sadeas, y Mraize los espiaba personalmente actuando como guardia de [[Ialai Sadeas\|Ialai Sadeas]] en Urithiru. Asesinaron a [[Thanadal\|Thanadal]] y a [[Vamah\|Vamah]], atacaron a Ialai varias veces y finalmente tuvieron éxito cuando [[Shallan\|Shallan]] la asesinó con [[Ruinaoscura\|ruinaoscura]], aunque ella afirmó que lo hizo por el bien de [[Alezkar\|Alezkar]].
-Shallan y [[La Corte Inadvertida\|la Corte Inadvertida]] registraron los aposentos de Ialai y encontraron un cuaderno que contenía muchos secretos de los Sangre Espectral, incluyendo un mapa de [[Shadesmar\|Shadesmar]], una ruta a través del [[Mar de las Luces Perdidas\|Mar de las Luces Perdidas]] y los supuestos orígenes de [[Thaidakar\|Thaidakar]] fuera del mundo.
-Shallan persiguió a [[Restares\|Restares]] hasta [[Integridad Duradera\|Integridad Duradera]]. Este nombre era un alias del [[Heraldo\|Heraldo]] [[Kalak\|Kalak]]. Tras una lucha interna, Shallan decidió no matarlo. Se ofreció a compartir información sobre los Sangre Espectral y él afirmó estar cerca de salir del planeta.
+Protecting Scadrial.
+Sharing what they know with each other, but not with outsiders.
+Trusting each other.
+## Objectives
+### Scadrian Ghostbloods
+The Scadrian Ghostbloods are devoted to protecting Scadrial at any cost, and due to this came into conflict with the [[Set\|Set]] and [[Autonomy\|Autonomy]].
 
-### Reclutamiento de Sja-anat
-Durante su boda, Shallan recibe instrucciones en una carta de Mraize para reclutar a [[Sja-anat\|Sja-anat]] para los Sangre Espectral. [[Mraize\|Mraize]] solicitó un vínculo entre un Sangre Espectral y uno de sus spren «iluminados». Shallan sólo organizó un encuentro. Sja-anat envió a [[Tumi\|Tumi]], que acabó vinculando a [[Rlain\|Rlain]].
+### Rosharan Ghostbloods
+>“*Power, portable, easily contained, renewable. You hold the energy of a storm in your hand, Veil. That raw energy, plucked from the heart of the raging tempest. It is tamed—not only a safe source of light, but of power that those with … particular interests and abilities can access.*”
+\-Mraize to Shallan[9]
 
-### Transporte de otras formas de Investidura a Roshar
-Los Sangre Espectral tienen planes para comercializar la [[Investidura\|Investidura]] a una escala mucho mayor de lo que ocurrió en [[Scadrial\|Scadrial]]. A este respecto traen [[Arena (Taldain)\|arena]] de [[Taldain\|Taldain]], [[Seon\|Seones]] de [[Sel\|Sel]], y [[Aviar\|aviares]] de [[Primero del Sol\|Primero del Sol]] a [[Roshar\|Roshar]]. Quieren utilizar las [[Puerta Jurada\|Puertas Juradas]] para facilitar el comercio de estos artículos en Roshar, ya que así no necesitarían depender de las [[Perpendicularidad\|perpendicularidades]]. Mraize también menciona que las gemas perfectas serían una buena herramienta para transportar luz tormentosa fuera de Roshar; [[Jasnah\|Jasnah]] ha observado que no hay ni de lejos tantas gemas perfectas en circulación como debería haber, lo que lleva a [[Adolin\|Adolin]] a teorizar que un grupo que es consciente de su importancia (como los Sangre Espectral) ha estado coleccionándolas en secreto. Los [[Honorspren\|honorspren]] de [[Integridad Duradera\|Integridad Duradera]] han reunido varias gemas perfectas a lo largo de milenios, aunque no está claro cuántas tienen en comparación con las que Jasnah cree que deberían existir.
+The Rosharan Ghostbloods seek power. They are seeking a way to get [[Stormlight\|Stormlight]] ([[Investiture\|Investiture]]) offworld from [[Roshar\|Roshar]] through [[Shadesmar\|Shadesmar]]. They hunt [[Restares\|Restares]] and the [[Sons of Honor\|Sons of Honor]] as they fear they are close to discovering the secret of making this possible. Stormlight is free, portable, easy-to-access power. To attain this goal, they need control of the [[Oathgate\|Oathgates]], which inspired their hunt for [[Urithiru\|Urithiru]]. They seek [[Perfect gemstone\|perfect gemstones]] that would allow the Stormlight to last long enough to get offworld, though there is a [[Connection\|Connection]] problem.
+The Ghostbloods are obsessed with finding [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], who has the ability to bind minds of an entire people, though their reasons are unclear. They are not interested in seeing [[Odium\|Odium]] rule Roshar. They seek to bond [[Sja-anat\|Sja-anat]], as her ancient knowledge would be invaluable.
+They also seek to imprison [[Herald\|Heralds]] in gemstones, in order to obtain information. [[Thaidakar\|Thaidakar]] seeks knowledge about an affliction he shares with the Heralds, in order to save himself.
+Their desire to find a way to carry Stormlight off-world, and to help Thaidakar learn how to leave Scadrial, likely ties into the Ghostblood's goal of protecting Scadrial. The Scadrian Ghostbloods, however, seem to see them as running amok.
 
-### Resistencia contra Trell
-Los Sangre Espectral de Scadrial trabajaron para resistir la amenaza inminente de [[Trell (trellismo)\|Trell]].
-En 348 PC, los Sangre Espectral intentaron reclutar a [[Marasi Colms\|Marasi Colms]] y enviaron a [[Wan ShaiLu\|Luzdeluna]] a entregarle un mensaje en el que le decían que los Sangre Espectral la estaban observando y estaban impresionados.
-Varios días después, los Sangre Espectral se pusieron en contacto con [[Kelsier\|Kelsier]] a través de [[Seon\|seon]] en su escondite de [[Bilming\|Bilming]] informándole de que [[El Grupo\|el Grupo]] había desarrollado una bomba para destruir [[Elendel\|Elendel]].
-Después de que Kelsier informara a los Sangre Espectral de que no llegaría a Bilming a tiempo, [[Prasanva\|AlmaDoble]], Luzdeluna y Marasi descubrieron las [[Peregrino\|cavernas]] subterráneas del Grupo y se infiltraron en ellas. Como Luzdeluna y Marasi fueron descubiertas y se enfrentaron a los soldados tras el intento de Marasi de salvar a un grupo de personas de la ejecución, Luzdeluna utilizó un [[Sello de alma\|sello de alma]] para reescribir su historia y convertirse en [[Elantrino\|elantrina]] para que Marasi pudiera escapar.
-Después de que [[Waxillium Ladrian\|Wax]] y [[Wayne\|Wayne]] detuvieran la bomba que el Grupo envió a Elendel, Marasi se reunió allí con Kelsier y los Sangre Espectral y les dijo que no se uniría a ellos debido a su norma de mantener su información en secreto. Después de eso, AlmaDoble supuestamente emprendió una misión para localizar a Luzdeluna.
+## Resources
+The Ghostbloods own a tenement building in [[Highprince\|Highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]] that has a basement. In it there was a display of trophies that [[Shallan\|Shallan]] saw, including several enormous [[Gemheart\|gemhearts]], a tusk was probably from a [[Whitespine\|whitespine]], an eye socket that looked like the structure of a [[Santhid\|santhid]]’s skull, a vial of pale [[Sand (Taldain)\|sand]], a couple of thick hairpins, a lock of golden hair, a [[Yolen\|Yolish]] branch of a tree with writing on it, a silver knife, an odd flower preserved in some kind of solution, and a chunk of pale [[Aether\|pink crystal]] that looked like it might be some kind of gemstone. There were also shells that Shallan vaguely recognized. There were no plaques describing any of these mementos.
+On Scadrial, they have a safehouse at house one eighty-seven, near Thirty-Third and Finete in the Knightbridge district of [[Bilming\|Bilming]]. It is protected with Identity locks and contains maps, a [[Seon\|seon]], an armory, and three jars of purified [[Dor\|Dor]] in a safe with an [[Awakening\|Awakened]] lock. They also own a large estate in [[Elendel\|Elendel]].
 
-## Curiosidades
-El nombre de los Sangre Espectral significa algo, y tiene raíces en eventos específicos del [[Cosmere\|Cosmere]].
-Los Sangre Espectral reclutan activamente de la [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]], en particular a agentes de campo.
-No colaboran con la Decimoséptima Esquirla.
-Los Sangre Espectral encuentran intrigante a [[Hoid\|Hoid]].
-Los Sangre Espectral no confían en los [[Insomne\|Insomnes]]. Les preocupa que se apoderen de su organización.
-La tercera saga de Nacidos de la bruma se subtitulará "Sangre Espectral".
-## Notas
+## Structure
+The Ghostbloods operate across multiple planets within the [[Cosmere\|cosmere]]. They operate within a strict hierarchy, as a group of hunters without structure would turn on each other too easily. They do not strike against their own. They do not negotiate upward. It is common for a master to spy on their pupils. [[Ialai Sadeas\|Ialai Sadeas]] warns [[Shallan\|Shallan]] that the Ghostbloods will watch her to ensure she doesn't rise high enough to learn secrets that could hurt them.
+Joining the Ghostbloods requires being brought in by a member of the organization, and the swearing of oaths to the Ghostbloods. It is tradition for the one who offers membership to become the mentor of the one they invited.
+Upon joining the Ghostbloods, they share everything they know and the member can influence decisions. The Ghostbloods do not keep secrets from fellow members, but in most cases members are also not allowed to share Ghostblood secrets with non-members. Mraize warned Shallan that if she were to break ties with the group, she would be hunted. He and his babsk would not hunt her, but all they could do was discourage others. Members are not to share secret information with anyone outside of the organization, doing so would result in the assassination of the offender, due to the danger it can pose to the organization.
+[[Thaidakar\|Thaidakar]] is not on [[Roshar\|Roshar]] and only comes as what they consider an avatar; he does show up directly to the Scadrian Ghostbloods. Thaidakar does affect the Rosharan Ghostbloods' actions, but they are a little removed from him on Roshar.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] ·  · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Notable Members
+For more information, see :Category: Ghostbloods.
+[[Kelsier\|Kelsier]]: Leader of the Ghostbloods, referred to as the Survivor by the inhabitants of Scadrial and as Thaidakar by the inhabitants of Roshar.
+### Rosharan Chapter
+[[Iyatil\|Iyatil]]: a high-ranking member, the pupil of Thaidakar, purports to be Mraize's master, a Worldhopper
+[[Mraize\|Mraize]]: a high-ranking member, the student of Iyatil, a Worldhopper
+[[Shallan Davar\|Shallan Davar]]: under the alias of "Veil" (formerly)
+[[Jin\|Jin]]: a golden-haired man
+[[Kabsal\|Kabsal]]: a member of the [[Kharbranth\|Kharbranth]] Ardentia (deceased)
+[[Lin Davar\|Lin Davar]]: Shallan's father (deceased)
+[[Luesh\|Luesh]]: the Davar family's steward (deceased)
+Unnamed [[Sleepless\|Sleepless]]: used a pen-shaped [[Cremling\|cremling]] to spy on [[Wit\|Wit]]
+### Scadrian Chapter
+[[Moonlight\|Moonlight]]: a [[MaiPon\|MaiPon]] woman from [[Sel\|Sel]] and student of Thaidakar, based in [[Bilming\|Bilming]], considered his best agent
+[[Codenames\|Codenames Are Stupid]]: an [[Arelene\|Arelene]] woman from [[Sel\|Sel]], based in [[Bilming\|Bilming]]
+[[TwinSoul\|TwinSoul]]: an [[Aetherbound\|Aetherbound]] man from [[Dhatri\|Dhatri]], based in [[Bilming\|Bilming]]
+[[Dlavil\|Dlavil]]: a [[Southern Scadrian\|Southern Scadrian]] man based in [[Elendel\|Elendel]], and brother of [[Iyatil\|Iyatil]]
+[[Dean\|Dean]]: A member based in Elendel, an important chemist who assists in the production of the Ghostblood's aluminum.
+## History
+### Formation
+The Ghostbloods were formed on Scadrial at some point between the Scadrian year 1 [[Catacendre\|PC]] and the Vorin year 1168.
 
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · |
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
+### Attempted Murder of Jasnah Kholin
+The Ghostbloods have made several attempts to murder Jasnah Kholin, and claims that she has had a number of their members assassinated as well. When Jasnah spent time in [[Kharbranth\|Kharbranth]] to study the Voidbringers, a Ghostblood agent named [[Kabsal\|Kabsal]] infiltrated the local Ardentia in order to kill Jasnah. He used her young ward [[Shallan Davar\|Shallan Davar]] to get close to Jasnah, which led to them forming a relationship. As Kabsal attempted to poison Jasnah with bread, he was inadvertently killed when he ate some of the poisoned bread and Jasnah Soulcast his antidote, mistakenly believing that to be the poison. Jasnah later found the Ghostblood tattoo on Kabsal's arm.
+When Jasnah left Kharbranth, the Ghostbloods planted at least [[New kid\|one operative]] aboard the ship *[[Wind's Pleasure\|Wind's Pleasure]]* on the journey from [[Kharbranth\|Kharbranth]] to the [[Shattered Plains\|Shattered Plains]]. That operative, along with other men [[Shallan\|Shallan]] did not recognize, attempted to murder Jasnah. They thought they'd succeeded, but in reality, Jasnah had escaped to [[Shadesmar\|Shadesmar]] by [[/wiki/Surge#Transportation]].
+Jasnah assumes that she was targeted because of her Radiant oaths.
+
+### Recruiting Shallan Davar
+A man identified with the Ghostbloods was financing [[Lin Davar\|Lin Davar]] in his bid to become [[Highprince\|Highprince]] of [[Veden\|Veden]], [[Jah Keved\|Jah Keved]]. After an unknown [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] attacked Amaram, Amaram speculated that [[Thaidakar\|Thaidakar]] and the Ghostbloods were behind the attack. The unknown shardbearer turned out to be [[Helaran Davar\|Helaran Davar]], [[Shallan\|Shallan's]] brother.
+The Ghostbloods were sought out by Shallan Davar, who, under the disguise of Veil, wanted to investigate them. Shallan met with Mraize and Iyatil in a Ghostblood hideout located in [[Sebarial\|Sebarial's]] warcamp, and managed to trick them into believing that she was sent there by [[Tyn\|Tyn]]. Mraize, unaware that Tyn was dead, ordered Shallan to tell Tyn to investigate the quarters of Meridas Amaram. Shallan successfully performed this task, and brought her findings to Mraize, which led to her accidentally revealing her photographic memory. Mraize then deduced that Tyn was dead, killed by Shallan, but commended her for it. He then told her that she could get a place among the Ghostbloods if she completed tasks for them. However, he also allowed other Ghostbloods to attempt to murder her if they wanted to. Shallan managed to avoid the attempts on her life, and carried out her next task, to investigate [[Taln\|Taln's]] presence in the warcamp of [[Dalinar Kholin\|Dalinar Kholin]], to a satisfactory manner.
+After the Battle of Narak, and the subsequent discovery of Urithiru, Mraize confronted Shallan, and revealed that he had figured out her real identity as Lin Davar's daughter, Jasnah Kholin's ward, and a Knight Radiant with the ability to Soulcast. Mraize reminded her of her family's debt to the Ghostbloods, and also revealed that Ghostblood agents had rescued her brothers from the civil war in Jah Keved, and would bring them safely to Urithiru. The Ghostblood operatives succeeded, and the Davar brothers arrived in Urithiru after the Battle of Thaylen Fields.
+Shallan's identities debated their interest in joining the Ghostbloods. Veil was interested in joining, but refused to get the tattoo. Shallan planned to break ties with the Ghostbloods. Formless, an imagined fourth identity for Shallan where she hid her self doubt and selfish ambitions, wanted to join the Ghostbloods.
+Mraize offered Shallan full membership in the Ghostbloods in return for assassinating [[Restares\|Restares]], leader of the [[Sons of Honor\|Sons of Honor]]. Shallan did not go through with it and broke ties with the group. She threatened Mraize to leave [[Urithiru\|Urithiru]] and warned him that she would be hunting for [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. Mraize warned her that she'd moved against the group in the most offensive of ways.
+
+>“*This will not end well for you, Shallan. You make an enemy of the most powerful organization in all the cosmere.*”
+\-Mraize to Shallan[21]
 
 
+### Cleansing Urithiru
+Mraize asked [[Shallan\|Shallan]] to investigate the wrongness in Urithiru, which she was already sensing. This led her to find, confront, and expel [[Re-Shephir\|Re-Shephir]].
 
-https://es.coppermind.net/wiki/Ghostbloods
+### Pursuit of the Sons of Honor
+The Ghostbloods wished to keep an eye on the activities of House Sadeas, and Mraize was personally spying on them, acting as a guard to [[Ialai Sadeas\|Ialai Sadeas]] in Urithiru. They murdered [[Thanadal\|Thanadal]] and [[Vamah\|Vamah]]. They struck at Ialai several times and ultimately succeeded when [[Shallan\|Shallan]] assassinated her with [[Blackbane\|Blackbane]], though Shallan claimed she did this for the good of [[Alethkar\|Alethkar]].
+Shallan and the [[Unseen Court\|Unseen Court]] searched Ialai's bed chambers and found a notebook containing many Ghostblood secrets, including a map of [[Shadesmar\|Shadesmar]], a route through the [[Sea of Lost Lights\|Sea of Lost Lights]], and [[Thaidakar\|Thaidakar's]] supposed offworld origins.
+Shallan hunted [[Restares\|Restares]] to [[Lasting Integrity\|Lasting Integrity]]. Restares was an alias for the [[Herald\|Herald]] [[Kalak\|Kalak]]. After an internal struggle, Shallan decided against killing him. She offered to share information about the Ghostbloods. He claimed to be close to getting offworld.
+
+### Recruiting Sja-anat
+During her wedding, Shallan is instructed in a letter from Mraize to recruit [[Sja-anat\|Sja-anat]] into the Ghostbloods. [[Mraize\|Mraize]] requested a bond between a Ghostblood and one of her "enlightened" spren. Shallan only arranged a meeting. Sja-anat sent [[Tumi\|Tumi]], who ended up bonding [[Rlain\|Rlain]].
+
+### Bringing other forms of Investiture to Roshar
+The Ghostbloods have plans to commercialize [[Investiture\|Investiture]] on a much larger scale than what happened on [[Scadrial\|Scadrial]]. In these efforts they bring [[Sand (Taldain)\|sand]] from [[Taldain\|Taldain]], [[Seon\|Seons]] from [[Sel\|Sel]], and [[Aviar\|Aviars]] from [[First of the Sun\|First of the Sun]] to [[Roshar\|Roshar]]. They want to use the [[Oathgate\|Oathgates]] to facilitate the trade of these items on Roshar, as they would not need to rely on [[Perpendicularity\|perpendicularities]]. Mraize also mentions that perfect gemstones would be a good tool for carrying Stormlight off Roshar; [[Jasnah Kholin\|Jasnah]] has noted that there are nowhere near as many perfect gemstones in circulation as there should be, which leads [[Adolin Kholin\|Adolin]] to theorize that a group that is aware of their importance—like the Ghostbloods—has been secretly collecting them. The [[Honorspren\|honorspren]] of [[Lasting Integrity\|Lasting Integrity]] have collected several perfect gemstones over millennia, though it is unclear how many they have compared to how many Jasnah thinks there should be.
+
+### Resistance against Trell
+The Ghostbloods on Scadrial worked in order to resist the oncoming threat of [[Trell (Trellism)\|Trell]].
+On 348 [[Catacendre\|PC]] the Ghostbloods attempted to recruit [[Marasi Colms\|Marasi Colms]] and sent [[Wan ShaiLu\|Moonlight]] to deliver a message to her telling that the Ghostbloods were watching her and were impressed.
+Several days later the Ghostbloods contacted [[Kelsier\|Kelsier]] via [[Seon\|Seon]] in their hideout in [[Bilming\|Bilming]] informing him that the [[Set\|Set]] had developed a bomb to destroy [[Elendel\|Elendel]].
+After Kelsier informed the Ghostbloods that he wouldn't get to Bilming in time, [[Prasanva\|TwinSoul]], Moonlight and Marasi discovered and infiltrated the Set's underground [[Wayfarer\|caverns]]. Since Moonlight and Marasi were discovered and confronted by Set soldiers after Marasi's attempt to save a group of people from execution, Moonlight used a [[Soulstamp\|soulstamp]] to rewrite her history and become an [[Elantrian\|Elantrian]] so Marasi could escape.. Ghostblood agents in Elendel were ordered to assist the local authorities with organising the evacuation, as they too would not reach Bilming in time.
+After [[Waxillium Ladrian\|Wax]] and [[Wayne\|Wayne]] stopped the bomb that the Set sent to Elendel, Marasi met with Kelsier and the Ghostbloods in Elendel and told them that she wouldn't join with them, because of their rule of keeping their information secret. After that TwinSoul supposedly went on a mission to track down Moonlight.
+
+## Trivia
+The name of the Ghostbloods means something, and has roots in specific [[Cosmere\|cosmere]] events.
+The Ghostbloods would actively recruit from the [[Seventeenth Shard\|Seventeenth Shard]], particularly from their field agents.
+They are not working together with the Seventeenth Shard.
+The Ghostbloods find [[Hoid\|Hoid]] intriguing.
+The Ghostbloods do not trust the [[Sleepless\|Sleepless]]. They are worried about having their organization taken over.
+The third Mistborn series will be subtitled 'Ghostbloods'.
+
+
+https://coppermind.net/wiki/Ghostbloods

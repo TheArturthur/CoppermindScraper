@@ -1,11 +1,11 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
 
-## Personas
-[[Torol Sadeas\|Torol Sadeas]] - [[Alto pr%C3%ADncipe\|Alto príncipe]] del principado Sadeas
-[[Ialai Sadeas\|Ialai Sadeas]] - La mujer de Torol
-## Lugares
-[[Principado Sadeas\|Principado Sadeas]] - En el norte de [[Alezkar\|Alezkar]]
-El campamento de guerra de Sadeas en [[/wiki/Las Llanuras Quebradas#Campamentos de guerra]]
+## People
+[[Torol Sadeas\|Torol Sadeas]] - [[Highprince\|Highprince]] of the Sadeas princedom
+[[Ialai Sadeas\|Ialai Sadeas]] - Torol's wife
+## Places
+[[Sadeas princedom\|Sadeas princedom]] - In the north of [[Alethkar\|Alethkar]]
+The Sadeas warcamp on the [[/wiki/Shattered Plains#Warcamps]]
 
 
-https://es.coppermind.net/wiki/Sadeas
+https://coppermind.net/wiki/Sadeas

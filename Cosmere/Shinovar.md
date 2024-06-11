@@ -1,167 +1,147 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Shinovar**|
 |-|-|
 ||
-|**Etnia**|Shin|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Shin|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The world is changing outside, but the Shin seem determined to remain the same.*”
 \-Vstim to Rysn about the Shin[1]
 
 
-**Shinovar** es una nación situada al oeste del continente de [[Roshar\|Roshar]]. Debido a las [[Monta%C3%B1as Brumosas\|montañas]] que lo separan del resto del continente, Shinovar es diferente tanto ecológica como culturalmente del resto de Roshar. Los nativos de Shinovar son conocidos como los **shin**.
+**Shinovar** is a nation on the western mainland of [[Roshar\|Roshar]]. Due to the [[Misted Mountains\|mountains]] separating it from the rest of the continent, Shinovar is distinct both ecologically and culturally from the rest of Roshar. Shinovar natives are known as the **Shin**.
 
-## Sumario
+## Contents
 
-1 Etimología. [[#Etimolog.C3.ADa]] 
-2 Geografía y Ecología. [[#Geograf.C3.ADa y Ecolog.C3.ADa]] 
-3 Historia. [[#Historia]] 
+1 Etymology. [[#Etymology]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+3 History. [[#History]] 
 
-3. [[#Previo a la expulsi.C3.B3n]] 
-3. [[#.C3.89pocas Her.C3.A1ldicas]] 
+3. [[#Pre-Expulsion]] 
+3. [[#Heraldic Epochs]] 
 
-3. [[#Llegada de los humanos]] 
-3. [[#Los Reinos Plateados]] 
-
-
-3. [[#Era de la Soledad]] 
-
-3. [[#Invasiones shin]] 
-3. [[#Pre.C3.A1mbulo a la Aut.C3.A9ntica Desolaci.C3.B3n]] 
+3. [[#Human Arrival]] 
+3. [[#The Silver Kingdoms]] 
 
 
-3. [[#La Aut.C3.A9ntica Desolaci.C3.B3n]] 
+3. [[#Era of Solitude]] 
+
+3. [[#Shin Invasions]] 
+3. [[#Lead-up to the True Desolation]] 
 
 
-4 Política. [[#Pol.C3.ADtica]] 
-5 Cultura. [[#Cultura]] 
-
-5. [[#Habitantes]] 
-5. [[#Estructura de Clases]] 
-5. [[#Religi.C3.B3n]] 
-5. [[#Econom.C3.ADa]] 
-5. [[#Idioma]] 
+3. [[#The True Desolation]] 
 
 
-6 Shins Destacados. [[#Shins Destacados]] 
-7 Curiosidades. [[#Curiosidades]] 
-8 Notas. [[#Notas]] 
+4 Politics. [[#Politics]] 
+5 Culture. [[#Culture]] 
+
+5. [[#Peoples]] 
+5. [[#Class Structure]] 
+5. [[#Religion]] 
+5. [[#Economy]] 
+5. [[#Language]] 
 
 
-## Etimología
-El nombre de *Shinovar* probablemente provenga del Reino Plateado *Shin Kak Nish*, derivado a su vez de [[Ashyn\|Ashyn]].
+6 Notable Shin. [[#Notable Shin]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
-## Geografía y Ecología
-  Tierras de cultivo en Shinovar
+
+## Etymology
+*Shinovar* is likely derived from the Silver Kingdom *Shin Kak Nish*, which is derived from [[Ashyn\|Ashyn]].
+
+## Geography and Ecology
+  A farmland in Shinovar
 >“*The entire landscape had an eerie feel to it, as if it were dead. Nothing moved.*”
 \-Rysn's opinion of Shinovar[1]
 
 
-Situada en el lado oeste del continente de Roshar, Shinovar está rodeada por el este por las [[Monta%C3%B1as Brumosas\|Montañas Brumosas]] y por el oeste por una cordillera sin nombre. Múltiples ríos atraviesan Shinovar desde las masas de agua tanto al norte como al sur. Las Montañas Brumosas evitan que Shinovar colinde con cualquier otra nación. Las montañas también protejen Shinovar de la peor parte de las [[Alta tormenta\|altas tormentas]], haciendo que sufra altas tormentas mucho más leves que el resto de Roshar. Las tormentas ordinarias también ocurren en Shinovar, especialmente durante el verano, y puede ser difícil diferenciar entre las dos basándose en su fuerza. Aún así, las altas tormentas recargan las gemas con la misma cantidad de [[Luz tormentosa\|luz tormentosa]] a pesar de su menor fuerza. Los [[Spren\|spren]] raramente se manifiestan en Shinovar, aunque no tiene relación con la fuerza de la alta tormenta.
-Shinovar tiene una ecología vastamente diferente del resto del planeta, ya que la fauna y la flora de allí no tiene la necesidad de adaptación para sobrevivir a las altas tormentas, y, de hecho, no podrían sobrevivir fuera de Shinovar. Mucha de la ecología está basada en las plantas y animales traídos por los refugiados de [[Ashyn\|Ashyn]]. El terreno en Shinovar está cubierto por una capa de tierra, haciendo que el suelo se sienta esponjoso para los extranjeros. Todo el terreno está cubierto por una capa gruesa de hierba que no reacciona ni se mueve ante movimientos. Los árboles que puntean el paisaje son rectos hacia arriba con hojas que no se retiran dentro del tronco. Las plantas que se sabe que se cosechan en Shinovar incluyen trigo, fresas, y uvas. Los animales que viven en Shinovar incluyen [[Pollo\|pollos]] y caballos. Los caballos son tanto domesticados como salvajes.
-Los edificios hechos de arcilla y tierra parecen ser comunes en Shinovar, ya que recuerdan a [[Szeth\|Szeth]] a su hogar en el [[Valle de la Verdad\|Valle de la Verdad]]. Esto está motivado por la creencia shin de que la piedra es sagrada y no se puede usar como material para edificar. Las debilitadas altas tormentas seguramente hagan esta manera de edificar viable cuando no lo sería en otras partes de Roshar. Shinovar contiene una [[Puerta Jurada\|Puerta Jurada]] en algún lugar dentro del país, aunque su localización exacta es desconocida.
+Lying on the western side of continental Roshar, Shinovar is bordered to the east by the [[Misted Mountains\|Misted Mountains]] and to the west by an unnamed mountain range. Multiple rivers flow through Shinovar from the bodies of water to both the north and the south. The Misted Mountains prevent Shinovar from bordering any other nations. The mountains also protect Shinovar from the worst of the [[Highstorm\|highstorms]], so Shinovar experiences far more mild highstorms than the rest of Roshar. Regular storms also occur in Shinovar, particularly during the summer, and it can be difficult to tell the two apart based on strength. The highstorm still recharges gems with the same amount of [[Stormlight\|Stormlight]] despite its lower strength. [[Spren\|Spren]] rarely manifest in Shinovar, though that is unrelated to highstorm strength.
+Shinovar has a vastly different ecology from the rest of the planet, as the flora and fauna there have not the need of adapting to survival in the highstorms, and in fact, cannot survive outside of Shinovar. Much of the ecology there is based on the plants and animals brought to Roshar by the [[Ashyn\|Ashyn]] refugees. The ground in Shinovar is coated with a layer of soil, making the ground feel springy to outsiders. The entire land is coated with a thick layer of grass that does not move or react to movement. The trees dotting the landscape are straight upward with leaves that do not withdraw into the trunk.  Plants that are known to be farmed in Shinovar include wheat, strawberries, and grapes. Animals that live in Shinovar include [[Chicken\|chickens]] and horses. Horses are both domesticated and wild.
+Buildings made of clay and earth seem to be common in Shinovar, as they remind [[Szeth\|Szeth]] of his home in the [[Valley of Truth\|Valley of Truth]]. This is motivated by the Shin's beliefs that stone is sacred and cannot be used as a building material. The weakened highstorms likely make this form of building viable when it would not be in other parts of Roshar. Shinovar contains an [[Oathgate\|Oathgate]] somewhere inside the country, though its exact location is not known.
 
-## Historia
-### Previo a la expulsión
-Se sabe poco del estado de Shinovar antes de la llegada de los humanos, excepto que la relación de los [[Cantor\|cantores]] con esa tierra bastó para que decidieran dejársela a la humanidad a su llegada. La ecología era muy distinta en esta era, sin la flora y la fauna de Ashyn establecidas aún.
+## History
+### Pre-Expulsion
+Little is known about the state of Shinovar before human arrival, except that [[Singer\|Singer]] relationship with the land was as such that it was the land they decided to grant to humanity upon their arrival. The ecology was very different during this era, not yet introduced to Ashynite flora and fauna.
 
-### Épocas Heráldicas
-#### Llegada de los humanos
-Cuando los humanos llegaron a Roshar desde [[Ashyn\|Ashyn]] tras dejarla inhabitable para la vida humana, los [[Cantor\|cantores]] les dieron el territorio de Shinovar para que se establecieran. Como estaba escudada de las altas tormentas, los humanos fueron capaces de cultivar las plantas y mantener los animales que habían traído consigo, lo cual se transformó en un aspecto definitorio de la ecología shin.
-Con el tiempo, la humanidad empezó a sentirse insatisfecha con el territorio que se les había cedido y decidió expandirlo mediante la violencia, dando inicio a lo que se conoció como la Primera Desolación.
+### Heraldic Epochs
+#### Human Arrival
+When humans first arrived on Roshar from [[Ashyn\|Ashyn]] after leaving it inhospitable to human life, the [[Singer\|singers]] gave them the land of Shinovar to settle in. Because it is sheltered from highstorms, humans were able to grow the plants and animals they had brought with them there, and these became a defining aspect of the Shin ecology.
+Over time, humanity grew dissatisfied with the territory they were granted, and chose to violently expand it, which begun what came to be known as the First Desolation.
 
-#### Los Reinos Plateados
-  Mapa de los Reinos Plateados
-Para más información, ver [[Shin Kak Nish\|Shin Kak Nish]].
-Shinovar fue fundada como [[Shin Kak Nish\|Shin Kak Nish]] en la Época de los [[Reinos Plateados\|Reinos Plateados]].
-Debido a las Desolaciones, constantemente retrocedían a niveles tecnológicos primitivos, muchas veces hasta el punto de tener que emplear herramientas de piedra. No obstante, avanzaban de nuevo con la ayuda de los Heraldos cuando estos regresaban; a menudo les ayudaban a entrar en la edad de bronce y recibían ayuda de [[Kalak\|Kalak]] y sus [[Escultores de Voluntad\|Escultores de Voluntad]].
-[[Nohadon\|Nohadon]] reivindicó haber estado en una guerra cerca de la frontera Shin. Shinovar parece haber sido menos aislacionista durante este periodo, ya que tenían una [[Puerta Jurada\|Puerta Jurada]] y gente shin entre los [[Caballeros Radiantes\|Caballeros Radiantes]].
+#### The Silver Kingdoms
+  Map of the Silver Kingdoms
+For more information, see [[Shin Kak Nish\|Shin Kak Nish]].
+Shinovar was founded as [[Shin Kak Nish\|Shin Kak Nish]] in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch.
+Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
+[[Nohadon\|Nohadon]] claimed to have been in a war near the Shin border. Shinovar seems to have been less isolationist during this period, as they had a working [[Oathgate\|Oathgate]] and Shin people among the [[Knights Radiant\|Knights Radiant]].
 
-### Era de la Soledad
-Después de la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]], los Shin tomaron control de las [[Hoja de Honor\|hojas de Honor]] y las llevaron a Shinovar (salvo la hoja de [[Taln\|Taln]], que estaba con él en [[Braize\|Braize]]). Debido a esta historia, se consideran a sí mismos como los únicos que se acuerdan de la verdad acerca de la historia de Roshar, aunque lo que recuerdan podría no ser del todo exacto. [[Nale\|Nale]] volvió y recuperó la suya en algún momento sin informar a los líderes shin. Algunos miembros de los shin usan y entrenan con las hojas de Honor y [[Potencia\|potencias]].
+### Era of Solitude
+After the [[Last Desolation\|Last Desolation]], the Shin took control of the [[Honorblade\|Honorblades]] and brought them to Shinovar (save for [[Taln\|Taln's]] Blade, as it was with him on [[Braize\|Braize]]). Because of this history, they consider themselves the only ones who remember the truth about Rosharan history, though what they remember might not be entirely accurate. [[Nale\|Nale]] came back and retrieved his at some point without informing the Shin leaders. Members of the Shin use and train with the Honorblades and [[Surge\|surges]].
 
-#### Invasiones shin
-Durante la [[Era de la Soledad\|Era de la Soledad]], los shin trataron de conquistar toda Roshar múltiples veces, per no triunfaron ninguna de ellas. Usaron hojas de Honor, Potencias, y caballería, una técnica de lucha desconocida para el resto del continente. [[Shubreth-hijo-Mashalan\|Shubreth-hijo-Mashalan]] seguramente fuese un líder durante una de estas invasiones.
+#### Shin Invasions
+During the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to conquer all of Roshar, but they did not succeed any time. They used Honorblades, Surges, and cavalry, a fighting technique unfamiliar to the rest of the continent. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions.
 
-#### Preámbulo a la Auténtica Desolación
-Aproximadamente siete años antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], [[Szeth\|Szeth]] anunció que los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]] estaban retornando. Los líderes shin le dijeron que esto era falso, le hicieron [[Sinverdad\|Sinverdad]], y le exiliaron, llevándose la hoja de Honor de [[Jezrien\|Jezrien]] consigo. Fue intercambiado a [[Vstim\|Vstim]], un mercader [[Thayle%C3%B1o\|thayleño]] que a menudo comerciaba con éxito con los shin, y exiliado de Shinovar.
+#### Lead-up to the True Desolation
+Approximately seven years before the [[True Desolation\|True Desolation]], [[Szeth\|Szeth]] announced that the [[Voidbringers\|Voidbringers]] were returning. He was told by the Shin leaders that this was false, made [[Truthless\|Truthless]], and exiled, taking [[Jezrien\|Jezrien's]] Honorblade with him. He was traded to [[Vstim\|Vstim]], a [[Thaylen\|Thaylen]] merchant who often traded successfully with the Shin, and exiled from Shinovar.
 
-### La Auténtica Desolación
-Después de que la [[Tormenta eterna\|tormenta eterna]] cayera por primera vez, los shin mandaron advertencias a otro países, incluyendo [[Tashikk\|Tashikk]], para prepararlos.
-[[Dalinar\|Dalinar]] los contactó a través de un mercader thayleño pidiendo que cooperasen con su planeada coalición. Los shin eran considerados aliados particularmente importantes de conseguir porque controlaban la Puerta Jurada más occidental del continente de Roshar. Cuando recibieron este mensaje, los shin declinaron la unión, mandando de vuelta nada más que una felicitación a Dalinar. No sólo no se unieron a la coalición, si no que tampoco se unieron a [[Odium\|Odium]] y fueron considerados no definidos por ningún bando al terminar la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]].
-En algún momento tras el inicio de la Auténtica Desolación, varios Deshechos se asentaron en Shinovar y los shin los convirtieron en dioses. [[Ishar\|Ishar]] afirma que salvó a los shin de los Deshechos, pero se desconoce la veracidad de esta afirmación.
+### The True Desolation
+After the [[Everstorm\|Everstorm]] hit the first time, the Shin sent warnings to other countries, including [[Tashikk\|Tashikk]], to prepare them.
+[[Dalinar\|Dalinar]] sent word to them through a Thaylen merchant asking them to cooperate with his planned coalition. The Shin were considered particularly important allies to gain because they controlled the westernmost Oathgate on continental Roshar. When they received his message, the Shin declined to join, sending back only a congratulations to Dalinar. While the Shin did not join the coalition, they also did not join [[Odium\|Odium]] and were considered uncommitted by the end of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+At some point after the start of the True Desolation, various Unmade settled in Shinovar and the Shin made gods of them. [[Ishar\|Ishar]] claims that he saved the Shin from the Unmade, but the veracity of this statement is unknown.
 
-## Política
-La forma de gobierno de Shinovar no parece ser bien conocida fuera de la nación, incluso para otros monarcas como [[Taravangian\|Taravangian]]. Tienen múltiples líderes que [[Szeth\|Szeth]] ve como corruptos por declararle erróneamente como [[Sinverdad\|Sinverdad]]. Otros países tienden a verles como bárbaros. Con respecto a la política extranjera, los shin tienden a ser aislacionistas, rechazando unirse a la coalición de países de Dalinar cuando la Tormenta eterna golpeó. Esta política se debe a su naturaleza xenófoba. Los líderes shin están involucrados en hacer a alguien Sinverdad. Como los Chamanes de la piedra también están involucrados en vigilar a los Sinverdad, es posible que sean parte del liderazgo shin.
+## Politics
+The way Shinovar is governed does not seem to be well known outside of Shinovar, even to other monarchs like [[Taravangian\|Taravangian]]. They have multiple leaders who [[Szeth\|Szeth]] views as corrupt for falsely making him [[Truthless\|Truthless]]. Other countries tend to view them as barbarians. When it comes to foreign policy, the Shin tend to be isolationist, declining to join Dalinar's coalition of countries when the Everstorm hit. This policy is due to their xenophobic nature. The Shin leaders are involved in making someone Truthless. As the Stone Shamans are also involved in monitoring the Truthless, it is possible they are part of the Shin leadership.
 
-## Cultura
-### Habitantes
-Los shin, nativos de Shinovar, tienen caras redondeadas y son unas de las pocas etnias en Roshar a cuyos ojos les falta la . Estos rasgos les otorgan una mirada con los ojos muy abiertos que, según los extranjeros, les hace parecer niños pequeños. Los shin también tienen piel más clara que la gente de otras partes de Roshar y son descritos frecuentemente como pálidos. El shin promedio es más bajo que el [[Alezi\|Alezi]] promedio. Sus rasgos distintivos son el resultado de su xenofobia y no entremezclarse mucho con otras razas. El Heraldo Ishar parece shin.
-Los shin tienen un esquema de nombramiento claro, presumiblemente único de su cultura. Una persona se identifica por su nombre propio, luego como hijo o hija, y finalmente su padre para los hombres y posiblemente su madre para las mujeres. Así, un shin tendría un nombre como [[Thresh-hijo-Esan\|Thresh-hijo-Esan]] (Thresh, hijo de Esan) o [[Ali-hija-Hasweth\|Ali-hija-Hasweth]] (Ali, hija de Hasweth). En circunstancias extraordinarias, se puede usar el nombre del abuelo o abuela, para así evitar deshonrar a su padre o madre. Un ejemplo de este caso es [[Szeth\|Szeth]]-hijo-hijo-[[Vallano\|Vallano]], significando "Szeth, hijo del hijo de Vallano". El mismo patrón se aplica a los nombres de los [[Heraldo\|Heraldos]] en la cultura shin, siendo [[Honor\|Honor]] considerado como el padre -- [[Nale\|Nale]] es conocido como Nin-hijo-Dios.
+## Culture
+### Peoples
+The Shin, natives of Shinovar, have round faces and are one of few ethnicities on Roshar whose eyes lack . These features give them a wide-eyed look that, to outsiders, makes them appear to resemble young children. The Shin also have lighter skin than people in other parts of Roshar and are often described as pale. The average Shin is shorter than the average [[Alethi\|Alethi]]. Their distinctive features are the result of them being xenophobic and not intermixing with other races very much. The Herald Ishar looks Shin.
+The Shin have a distinct naming scheme, seemingly unique to their culture. A person is identified first by their given name, then as either son or daughter, and finally their parent -- father for men, possibly mother for women. As such, a Shin would have a name like [[Thresh-son-Esan\|Thresh-son-Esan]] (Thresh, son of Esan) or [[Ali-daughter-Hasweth\|Ali-daughter-Hasweth]] (Ali, daughter of Hasweth). In extraordinary circumstances, one can use the name of their grandparent instead, so as to avoid dishonoring their parent. One example of such a case is [[Szeth\|Szeth]]-son-son-[[Vallano\|Vallano]], meaning "Szeth, son of the son of Vallano". The same pattern is applied to the names of [[Herald\|Heralds]] in the Shin culture, with [[Honor\|Honor]] being considered their parent -- [[Nale\|Nale]] is known as Nin-son-God.
 
-### Estructura de Clases
-Los shin tienen una estructura social extremadamente estricta basada en las profesiones. Arriba de la escalera social en Shinovar están los granjeros, quienes contribuyen a la tierra haciendo crecer plantras y son así considerados sagrados. Cada granjero recibe el título de **el que suma** y es referido de esta manera por los otros shin. Los granjeros ocupan su día trabajando en sus campos o ejercitando su poder para supervisar negociaciones, durante las cuales visten túnicas elegantes y multicolor que se atan al frente. Estas túnicas parecen diseñadas para montar a caballo, ya que casi alcanzan el suelo desde el lomo del caballo. Los granjeros pueden poseer e intercambiar guerreros por medio de pidras similares a [[Piedra Jurada\|Piedras Juradas]]. Debido a su naturaleza sagrada, los extranjeros no tienen permitido visitar aldeas de granjas o tierras de cultivo.
-Los comerciantes y mercaderes tienen un estatus más bajo que los granjeros, y son supervisados por estos durante ciertas transacciones, como cuando se intercambia con extranjeros. Visten coloridas capas que representan su estatus, y puede que también monten a caballo.
+### Class Structure
+The Shin have an extremely strict social structure based on profession. High on the social ladder in Shinovar are the farmers, who add to the land by growing plants and are as such considered holy. Each farmer is given the title **he who adds** and is referred to as such by other Shin. Farmers spend their days either working their fields or exercising their power to oversee negotiations, during which they wear fine, multicolored robes that tie in the front. The robes seem designed for horseback riding, as the robes reach almost to the ground from horseback. Farmers are able to own and trade warriors by way of stones similar to [[Oathstone\|Oathstones]]. Because of their holy nature, outsiders are not allowed to visit farming villages or farmland.
+Traders and merchants are lower in status than farmers, and are required to be supervised by the latter during certain transactions, as when trading with foreigners. They wear colorful capes to signify their status, and they may also ride on horseback.
 
 >“*Here, warriors are the lowliest of men—kind of like slaves.*”
 \-Vstim to Rysn on Shin culture
 
-Los guerreros son vistos extremadamente mal en la cultura shin. Para un shin, como los guerreros sólo exiten para destruir, éstos están muy por debajo de los granjeros y artesanos que viven para crear, e incluso mercaderes, que comercian con bienes ajenos. Se requiere que todos los guerreros obedezcan sin fallo a la persona que posee su piedra, sometíendose a sí mismos voluntariamente a un estado no diferente a la esclavitud. Aunque un guerrero shin es capaz de distinguir su piedra, no parece que ésta sea notable de ninguna otra manera--su subyugación parece ser completamente voluntaria. Como regla, los guerreros shin no pueden ser otorgados a extranjeros, y las reglas que conciernen al comercio de guerreros dentro de Shinovar son desconocidas. Sin embargo, se sabe que a cualquier persona que coja un arma se le exige tomar una piedra y vivir el resto de su vida como un guerrero. Los guerreros con distinguibles por las simples prendas marrones que visten.
-Sólamente los [[Sinverdad\|Sinverdad]] son peor considerados que los guerreros en la cultura shin. En el presente, sólo hay un Sinverdad shin, y no parece que vaya a haber más en el futuro próximo. Los Sinverdad son exiliados de Shinovar, y obligados a vivir la vida de un guerrero shin fuera de la nación. Se les exige tener un maestro, pero no pueden buscar o evitar un maestro en concreto, compartiendo libremente información sobre su servitud a cualquiera que pregunte (asumiendo que el maestro actual no haya dado órdenes contrarias). La naturaleza exacta de la ofensa que convierte a uno en Sinverdad es desconocida.
+Warriors are all viewed extremely poorly in Shin culture. To a Shin, since warriors exist only to destroy, they are far below the farmers and craftsmen who live to create, and even merchants, who trade in other's goods. All warriors are required to obey totally the person who holds their stone, voluntarily subjecting themselves into a state not unlike slavery. While a Shin warrior is able to distinguish his stone, it does not appear to be remarkable in any other way--their subjugation appears to be entirely voluntary. As a rule, Shin warriors cannot be given to outsiders, and the rules regarding the trading of warriors inside Shinovar are unknown. What is known, however, is that any person who picks up a weapon is required to take a stone and live the rest of their life as a warrior. Warriors are recognizable by the simple brown clothing they wear.
+Only the [[Truthless\|Truthless]] are considered lower than warriors in the Shin culture. At present, there is only one Shin Truthless, and there are not likely to be more in the foreseeable future. Truthless are exiled from Shinovar, and required to live the life of a Shin warrior outside of Shinovar. They are required to have a master, but are not allowed to seek or avoid a particular master, freely sharing information about their servitude to any who asks (assuming that a current master has not given contradictory orders). The precise nature of the offense that makes one Truthless is unknown.
 
-### Religión
-Para más información, ver [[Chamanismo de la piedra\|Chamanismo de la piedra]].
-Los shin siguen el [[Chamanismo de la piedra\|chamanismo de la piedra]]. Creen que la piedra es sagrada y que su alma es otorgada a las piedras a su muerte, donde ellos seguirían existiendo. Consideran caminar sobre piedra una herejía, y se refieren a aquellos que lo hacen, despectivamente, como caminantes sobre la piedra. Las piedras de [[Urithiru\|Urithiru]] son la única excepción a esto, ya que es un sitio sagrado. De manera similar, la minería en piedra se considera una herejía. Por esto, el metal es muy valioso en el territorio shin, prefiriendo metal [[Moldear almas\|moldeado]] antes que metal minado por su blasfemia inherente al conseguirlo. Los shin no comercian por fabriales aparentemente por motivos religiosos. Llaman al momento más oscuro de la noche, entre las dos primeras lunas, la "hora odiosa" y creen que es el único momento en el que los dioses no vigilan a los hombres. Las aldeas de granjas y tierras de cultivo son consideradas sagradas, y los extranjeros tienen prohibido visitarlas.
+### Religion
+For more information, see [[Stone Shamanism\|Stone Shamanism]].
+The Shin follow [[Stone Shamanism\|Stone Shamanism]]. They believe stone to be sacred and that their soul is given to the stones upon their death, where they continue to exist. They consider walking upon stones to be a heresy, and derogatorily refer to those who do as Stonewalkers. The stones of [[Urithiru\|Urithiru]] are the one exception to this, as Urithiru is a holy site. Similarly, mining in stone is considered to be a heresy. Because of this, metal is very valuable in Shin territory, with the Shin preferring [[Soulcast\|Soulcast]] metal above mined metal because of the inherent blasphemy in obtaining the latter. Shin won't trade for fabrials apparently for religious reasons. They called the period of darkest night between the first two moons the "hateful hour" and believed it was the only time their gods didn't keep watch over them. Farm villages and farmland are considered holy, with outsiders not being allowed to visit them.
 
-### Economía
+### Economy
 >“*Never try to cheat the Shin. Be forthright, tell them the truth, and—if anything—undervalue your goods. They will love you for it. And they’ll pay you for it too.*”
 \-Vstim's lesson to Rysn[1]
 
 
-A la hora de comerciar, y como resultado de su naturaleza humilde, regatear con los shin normalmente incluye ambas partes devaluando sus mercancías al otro, hasta que se puede alcanzar un acuerdo. Los shin valoran y premian la honestidad en las negociaciones. Esta actitud única hacia el comercio significa que entender cómo conseguir un buen acuerdo con ellos puede ser complicado para los mercaderes. [[Vstim\|Vstim]] es uno de los pocos mercaderes [[Thayle%C3%B1o\|thayleños]] que los entiende, obteniendo normalmente buenos tratos. Los shin son conocidos por criar y comerciar [[Pollo\|pollos]], un animal único de esta región de Roshar. También comercian frecuentemente con caballos, tela, y carnes secas. Son famosos por sus caballos, y muchas variedades de fruta, como fresas, sólo pueden crecer en el suelo de Shinovar. A cambio, los shin quieren metal, particularmente metal [[Moldear almas\|moldeado]] que no requiere minería en piedra para conseguir.
+When it comes to trading, and as a result of their humble nature, haggling with the Shin usually involves both parties devaluing their wares to the other, until an agreement can be reached. The Shin value and reward honesty in negotiations. This unique attitude towards trading means it can be difficult for merchants to understand how to get a good deal from them. [[Vstim\|Vstim]] is one of the few [[Thaylen\|Thaylen]] merchants to understand them, so he often gets good deals. Shin are known for raising and trading [[Chicken\|chickens]], an animal unique to this region of Roshar. They also commonly trade horses, cloth, and dried meats. They are famed for their horses, and many varieties of fruit, such as strawberries, can only grow in the soil of Shinovar. In exchange, the Shin want metal, particularly [[Soulcast\|Soulcast]] metal that does not require mining stones to get.
 
-### Idioma
+### Language
 >“*Tan balo ken tala,*”
 \-A presumably Shin greeting Vstim gives Thresh-son-Esan[1]
 
 
-Los shin tienen su propio idioma, el cual es parte de la familia Alborea derivada hace mucho del [[Canto del alba\|Canto del alba]]. Comparte gramática con otros idiomas en la familia Alborea, como el [[Oyente\|oyente]] y el [[Comecuernos\|Comecuernos]], pero el vocabulario es vastamente diferente debido al mucho tiempo que hace de su divergencia. A diferencia de los idiomas hablados en el este, los shin tienen múltiples palabras para diferentes tipos de [[Pollo\|pollos]]. El idioma shin no se presta a simplificar palabras tan bien como la familia lingüística [[Vorin\|Vorin]]. Hay al menos una forma escrita del idioma, la lengua de los guerreros.
+The Shin have their own language, which is part of the Dawnate family derived long ago from the [[Dawnchant\|Dawnchant]]. It shares grammar with other languages in the Dawnate family, like [[Listener\|listener]] and [[Horneater\|Horneater]], but the vocabulary is vastly different because of how long ago the languages diverged. Unlike languages spoken in the east, the Shin have multiple words for different kinds of [[Chicken\|chickens]]. The Shin language does not lend itself to simplifying words as well as the [[Vorin\|Vorin]] language family. There is at least one written form of language, the warrior's script.
 
-## Shins Destacados
-Para más gente de Shinovar, ver :Categoría:Shin.
+## Notable Shin
+For more people from Shinovar, see :Category: Shin.
 [[Szeth\|Szeth]]
-[[Thresh\|Thresh-hijo-Esan]]
-[[Neturo\|Neturo-hijo-Vallano]]
-[[Shauka\|Shauka-hija-Hasweth]]
-[[Ali\|Ali-hija-Hasweth]]
-[[Shubreth\|Shubreth-hijo-Mashalan]]
-## Curiosidades
-Los shin serían los únicos Rosharianos que parecen caucásicos.
-La gente shin es el único grupo en Roshar que hace vino a partir de uvas.
-Los gatos viveron en Shinovar en algún momento.
-En el borrador original de [[El camino de los reyes\|El camino de los reyes]], Shinovar se llamaba Shinavar y se le conocía como [[Silnasen\|Silnasen]] durante el periodo de los reinos de Época. Al final, Silnasen pasó a ser una ciudad-estado en Jah Keved y el reino moderno se llamó Shinovar.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] ·  · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+[[Thresh\|Thresh-son-Esan]]
+[[Neturo-son-Vallano\|Neturo-son-Vallano]]
+[[Shauka\|Shauka-daughter-Hasweth]]
+[[Ali\|Ali-daughter-Hasweth]]
+[[Shubreth\|Shubreth-son-Mashalan]]
+## Trivia
+The Shin people are the only Rosharans that would look Caucasian.
+The Shin people are the only group on Roshar who make wine out of grapes.
+Cats at one point lived in Shinovar.
+In [[The Way of Kings Prime\|The Way of Kings Prime]], Shinovar was named Shinavar, and was known as [[Silnasen\|Silnasen]] during the Epoch Kingdoms period. Eventually, Silnasen was made into a city-state in Jah Keved and the modern country was renamed to Shinovar.
 
 
-
-https://es.coppermind.net/wiki/Shinovar
+https://coppermind.net/wiki/Shinovar

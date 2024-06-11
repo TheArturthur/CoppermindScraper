@@ -1,159 +1,130 @@
+This article is about [[Brandon Sanderson\|Brandon Sanderson's]] series. For the kind of Allomancer, see [[Allomancy\|Allomancy]].
+**Mistborn** is a fantasy series by [[Brandon Sanderson\|Brandon Sanderson]]. It is a major part of the [[Cosmere\|cosmere]] sequence and is set mostly on the [[/wiki/Cosmere#Planets]] [[Scadrial\|Scadrial]].
+It is most well known as the trilogy of *Mistborn: The Final Empire*, *[[The Well of Ascension\|The Well of Ascension]]* and *[[The Hero of Ages\|The Hero of Ages]]*, but there have been additional installments. Brandon originally planned a "trilogy of trilogies" but this has been expanded into a number of series over various eras in the history of Scadrial.
 
+## Contents
 
-Este artículo es sobre la saga de [[Brandon Sanderson\|Brandon Sanderson]]. Para el tipo de alomante, ver [[Alomancia\|Alomancia]].
-**Nacidos de la Bruma** es una saga de fantasía creada por [[Brandon Sanderson\|Brandon Sanderson]]. Es una parte importante en la secuencia del [[Cosmere\|Cosmere]] y se desarrolla principalmente en el [[Mundo esquirlado\|mundo esquirlado]] [[Scadrial\|Scadrial]]
-Es más conocido como la trilogía de *El Imperio Final*, *[[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]]* y *[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*, aunque ha habido entregas adicionales. Originalmente Brandon planteó una “trilogía de trilogías”, pero se ha expandido en diversas series a lo largo de varias eras de la historia de Scadrial.
-
-## Sumario
-
-1 Era 1: Trilogía original
-2 Era 2: Saga de Wax y Wayne
-3 Era 3: Trilogía Sangre Espectral
-4 Posible trilogía Cyberpunk de Nacidos de la bruma. [[#Posible trilog.C3.ADa Cyberpunk de Nacidos de la bruma]] 
-5 Era 4: Cuarta trilogía de Nacidos de la bruma
-6 Otros productos. [[#Otros productos]] 
-7 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-8 Publicación. [[#Publicaci.C3.B3n]] 
-9 Premios. [[#Premios]] 
-10 Notas. [[#Notas]] 
+1 Era 1: Original Trilogy
+2 Era 2: Wax and Wayne Series
+3 Era 3: Ghostbloods Trilogy
+4 Possible Cyberpunk Mistborn Trilogy. [[#Possible Cyberpunk Mistborn Trilogy]] 
+5 Era 4: Fourth Mistborn Trilogy
+6 Other media. [[#Other media]] 
+7 Cover Galleries. [[#Cover Galleries]] 
+8 Publication. [[#Publication]] 
+9 Awards. [[#Awards]] 
+10 Notes. [[#Notes]] 
 
 
 
 
-## Era 1: Trilogía original
-  Ilustración para el lanzamiento brasileño de la trilogía
-La primera trilogía de *Nacidos de la bruma* narra los esfuerzos de un grupo secreto de [[Alomante\|alomantes]] que intentan derrocar un imperio distópico y establecerse en un mundo cubierto de cenizas.
+## Era 1: Original Trilogy
+  Artwork for the Brazilian and Spanish releases of the trilogy
+The first Mistborn trilogy chronicles the efforts of a secret group of [[Allomancy\|Allomancers]] who attempt to overthrow a dystopian empire and establish themselves in a world covered by ash.
 
-|**Año depublicación**|**Título delLibro**|**Orden**|**Longitud**|**Añoen el mundo**|**Notas**|**Referencias**|
+|**YearPublished**|**Book Title**|**Order**|**Length**|**In-worldYear(s)**|**Notes**|**Refs**|
 |-|-|
-|**2006  - 2008 **|*Nacidos de la bruma: El Imperio Final*|#1|Novela|1022 [[Imperio Final\|IF]]|||
-|**2007  - 2009 **|*[[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]]*|#2|Novela|1024 [[Imperio Final\|IF]]|||
-|**2008  - 2010 **|*[[El H%C3%A9roe de las Eras\|El Héroe de las Eras]]*|#3|Novela|1025 [[Imperio Final\|IF]]|||
-|**2011  - 2017 **|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|#0.5|Historia corta|1019 [[Imperio Final\|IF]]|Publicada en el libro de reglas básicas de [[Mistborn Adventure Game (manual de juego)\|Mistborn Adventure Game]], y más tarde en el [[Arcanum ilimitado\|Arcanum ilimitado]]||
-|**2016 **|*Nacidos de la bruma: historia secreta*|#3.5|Novela corta|1022-1025 [[Imperio Final\|IF]]|Ocurre a la vez que los eventos del final de *El Imperio Final* hasta el final de *El Héroe de las Eras*. Se recomienda leerlo después de *Brazales de Duelo*.||
+|**2006**|*Mistborn: The Final Empire*|#1|Novel|1022 [[Final Empire\|FE]]|||
+|**2007**|*[[The Well of Ascension\|The Well of Ascension]]*|#2|Novel|1024 [[Final Empire\|FE]]|||
+|**2008**|*[[The Hero of Ages\|The Hero of Ages]]*|#3|Novel|1025 [[Final Empire\|FE]]|||
+|**2011**|*[[The Eleventh Metal\|The Eleventh Metal]]*|#0.5|Short Story|1019 [[Final Empire\|FE]]|Released in the [[Mistborn Adventure Game (rule book)\|core rule book]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*||
+|**2016**|*Mistborn: Secret History*|#3.5|Novella|1022-1025 [[Final Empire\|FE]]|Occurs concurrently with events from the end of *Mistborn: The Final Empire* to the end of *The Hero of Ages*. Should ideally be read after *The Bands of Mourning*.||
 
 
 
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
+|**[[Mistborn Era 1\|Mistborn Era 1]]**|
 |-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
+|**Characters**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Spook\|Spook]] · [[Edgard Ladrian\|Breeze]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|The Lord Ruler]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Places**|[[Final Empire\|Final Empire]] · [[Dominance\|The Dominances]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pits of Hathsin\|Pits of Hathsin]] · [[Kandra Homeland\|Kandra Homeland]] · [[Urteau\|Urteau]] · [[Fadrex City\|Fadrex City]] · [[Tathingdwen\|Tathingdwen]]|
+|**Ethnicities and Species**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrismen]] · [[Inquisitor\|Inquisitors]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Mistwraith\|Mistwraiths]] · [[Southern Scadrian\|Southern Scadrians]]|
+|**Organizations**|[[Skaa rebellion\|Skaa rebellion]] · [[Steel Ministry\|Steel Ministry]] · [[Keeper\|Keepers]] (the [[Synod\|Synod]]) · [[Worldbringers\|Worldbringers]]|
+|**Mythology**|[[Deepness\|The Deepness]] · [[Terris Prophecies\|Terris Prophecies]] · [[Well of Ascension\|Well of Ascension]]|
 
 
 
-## Era 2: Saga de Wax y Wayne
-Ambientada unos 300 años después de Era 1, la serie de Wax y Wayne trata sobre las hazañas de [[Waxillium Ladrian\|Waxillium Ladrian]], un vigilante forzado a mudarse a la gran ciudad, donde empieza a investigar secuestros y robos.
+## Era 2: Wax and Wayne Series
+Set about 300 years after Era 1, the Wax and Wayne series is about the exploits of [[Waxillium Ladrian\|Waxillium Ladrian]], a "wild-west Deputy" forced to move into the big city who starts investigating kidnappings and robberies.
 
-|**Año depublicación**|**Título dellibro**|**Orden**|**Longitud**|**Añoen el mundo**|**Notas**|**Referencias**|
+|**YearPublished**|**Book Title**|**Order**|**Length**|**In-worldYear(s)**|**Notes**|**Refs**|
 |-|-|
-|**2011  - 2012 **|*[[Aleaci%C3%B3n de ley\|Aleación de ley]]*|#1|Novela|341 [[Catacendro\|PC]]|||
-|**2015  - 2016 **|*[[Sombras de identidad\|Sombras de identidad]]*|#2|Novela|342 [[Catacendro\|PC]]|||
-|**2016  - 2017 **|*[[Brazales de Duelo (libro)\|Brazales de Duelo]]*|#3|Novela|342 [[Catacendro\|PC]]|||
-|**2022 **|*[[El metal perdido\| El metal perdido]]*|#4|Novela|348 [[Catacendro\|PC]]|||
-|**2014  - 2017 **|*[[Alomante Jak y los Pozos de Eltania\|Alomante Jak y los Pozos de Eltania]]*|N/A|Historia corta|341 [[Catacendro\|PC]]|Publicado en el suplemento de *Aleación de ley* de [[Mistborn Adventure Game (manual de juego)\|Mistborn Adventure Game]], y más tarde en [[Arcanum ilimitado\|Arcanum ilimitado]]||
+|**2011**|*[[The Alloy of Law\|The Alloy of Law]]*|#1|Novel|341 [[Catacendre\|PC]]|||
+|**2015**|*[[Shadows of Self\|Shadows of Self]]*|#2|Novel|342 [[Catacendre\|PC]]|||
+|**2016**|*[[The Bands of Mourning\|The Bands of Mourning]]*|#3|Novel|342 [[Catacendre\|PC]]|||
+|**2022**|*[[The Lost Metal\|The Lost Metal]]*|#4|Novel|348 [[Catacendre\|PC]]|||
+|**2014**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|N/A|Short Story|341 [[Catacendre\|PC]]|Released in the [[Alloy of Law (rule book)\|Alloy of Law supplement]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*||
 
-*Aleación de ley* fue concebida inicialmente como una de las varias historias cortas que Brandon quería situar entre la primera y la segunda trilogía principal y que con el tiempo se convirtió en una novela completa, y luego en una saga, siendo la única que tiene cuatro libros; *Aleación de ley* se mantiene más o menos sola, mientras que el resto se plantea como una trilogía.
+*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
+Brandon has also said that he may do some more stories before the second trilogy, set in a 1940's society.
 
 
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
+|**[[Mistborn Era 2\|Mistborn Era 2]]**|
 |-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-Brandon también ha dicho que es posible que haga algunas historias más antes de la segunda trilogía, ambientadas en una sociedad de los años 40.
-
-
-## Era 3: Trilogía Sangre Espectral
-**Nacidos de la bruma: Ghotbloods**, la tercera trilogía, estará ambientada en los inicios de la era informática con tecnología de los años 80. Está previsto que la protagonista sea una mujer terrisana, programadora informática y [[Nicrosil\|nicroestallante]]; también está previsto que su hermano sea un personaje. Peter la ha descrito como "una chica friki morena de Terris", aunque señala que esto podría cambiar para cuando la serie se esté escribiendo realmente. Brandon respalda esta descripción, y la describe como una especie de "cómo funciona la cultura nerd en Scadrial". Brandon había planeado inicialmente que la trilogía contara con un equipo SWAT de alomantes, con un equipo contratado para acabar con un asesino en serie, pero ahora se inclina más hacia un thriller de espionaje. Probablemente se estrenará en la década de 2020, después de *[[El archivo de las tormentas 5\|El archivo de las tormentas 5]]* y las secuelas de *[[Elantris (libro)\|Elantris]]*.
-Lo escribirá de forma similar a la primera trilogía, escribiendo los tres libros antes de publicarlos para poder prefigurar y editar adecuadamente los libros anteriores. Tiene muchas ganas de escribir el décimo libro. Estos volverán a la longitud de los libros de *Nacidos de la bruma Era 1*.
-Está previsto que estos libros incluyan un mapa global de Scadrial. Se planea intercalar en ellos historietas cortas, similares a los periódicos de Era 2. Habrá deportes relacionados con la alomancia, y se planea que varios personajes sean [[Nacidoble\|nacidobles]] con "combinaciones realmente ingeniosas". Está previsto que tenga lugar entre cincuenta y setenta años después de Era 2, para entonces los [[Scadrianos del sur\|scadrianos del sur]] serán bien conocidos por el resto de Scadrial. Se centrará más en [[Kelsier\|Kelsier]] y [[Trell (trellismo)\|Trell]]. También se espera que [[MeLaan\|MeLaan]] desempeñe un papel.
-
-## Posible trilogía Cyberpunk de Nacidos de la bruma
-Brandon tiene interés en escribir una trilogía "Cyberpunk" de «Nacidos de la bruma» entre las Eras 3 y 4. Que la escriba o no dependerá de cómo se desarrolle la Era 3 y de si cree que tiene tiempo suficiente para escribir más libros antes de hacerse demasiado viejo. Los libros tendrían una extensión similar a los de la Era 2 (unas 100.000 palabras) y se escribirían más o menos al mismo tiempo que la segunda mitad de «El archivo de las tormentosas». Esta trilogía se convertiría en la Era 4 y llevaría a Nacidos de la bruma a la Era 5. y pondría a «Nacidos de la bruma» en dieciséis libros. Si una trilogía entera no es factible, al menos quiere escribir una novela corta. No se sabe nada acerca de los personajes o la trama, pero Brandon quiere jugar con mentes de metal sin sellar como "wetware metalúrgico" de estilo cyberpunk. Para 2024 se siente bastante ocmprometido con la idea de escribir la trilogía, pero no promete nada con certeza.
-
-
-## Era 4: Cuarta trilogía de Nacidos de la bruma
-La cuarta trilogía será una ópera espacial con tecnología más rápida que la luz potenciada por la alomancia. [[Hoid\|Hoid]] será un personaje principal en esta trilogía. Los [[Insomne\|Insomnes]], o dysian aimianos, también tendrán un papel importante en esta trilogía.  También está previsto que los iriali tengan un papel importante.
-Es posible que haya otras dos series del Cosmere, actualmente sin título, escritas antes de esta trilogía.
-Planea que cada libro de la Era 4 tenga la longitud de un libro de *El archivo de las tormentas*.
-
-## Otros productos
-[[Mistborn Adventure Game\|Mistborn Adventure Game]] - juego de mesa RPG de [[Crafty Games\|Crafty Games]].
-Mistborn: Birthright - videojuego cancelado.
-[[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] - Diversas posibilidades de producción de una película.
-Mistborn: House War - juego de mesa de [[Crafty Games\|Crafty Games]].
-## Galería de portadas
-
-*[[El Imperio Final (libro)/Portadas\|El Imperio Final]]* · *[[El Pozo de la Ascensi%C3%B3n (libro)/Portadas\|El Pozo de la Ascensión]]* · *[[El H%C3%A9roe de las Eras/Portadas\|El Héroe de las Eras]]* · (*Nacidos de la bruma: Historia Secreta*)
-
-*[[Aleaci%C3%B3n de ley/Portadas\|Aleación de ley]]* · *[[Sombras de identidad/Portadas\|Sombras de identidad]]* · *[[Brazales de Duelo (libro)/Portadas\|Brazales de Duelo]]*
-## Publicación
-
-Nacidos de la Bruma: El Imperio Final (Tor, Julio 2006  - Ediciones B 2008 )
-Nacidos de la Bruma: El Pozo de la Ascensión (Tor, Primavera 2006  - Ediciones B 2009 )
-Nacidos de la Bruma: El Héroe de las Eras (Tor, Otoño 2006  - Ediciones B 2010 )
-Derechos de audio (saga completa) Macmillan Audio
-Derechos búlgaros (saga completa) para Studio of A.
-Derechos chinos (tradicional; saga completa) de Fantasy Foundation
-Derechos chinos (simplificado; saga completa) de Shangai Wanyu
-Derechos checos (saga completa) de Talpress
-Derechos franceses (saga completa) de Calmann-Levy
-Derechos alemanes (saga completa) de Heyne
-Derechos griegos (saga completa) de Fantastikos Kosmos
-Derechos hebreos (#1-2) a Opus Press
-Derechos húngaros (#1-3) a DeltaVision
-Derechos italianos (#1-3) a Fanucci
-Derechos indonesios (#1-3) a Mizan Publishing
-Derechos Japoneses (saga completa) a Hayakawa
-Derechos polacos (saga completa) a Mag
-Derechos rusos (#1-2) a EKSMO
-Derechos rusos (#1-3) a Azbooka-Atticus
-Derechos serbios (#1-3) a Laguna
-Derechos españoles (saga completa) a Ediciones B
-Derechos Turcos (#1-3) a Arkadas
-Derechos Reino Unido (saga completa) a Orion/Gollancz
-Derechos de cine para Nacidos de la bruma a Chris Geary y Paloppa Pictures LLC 
-
-## Premios
-*El Héroe de las Eras* - Nº21 en la lista de tapa dura del NY Times.
-*El Pozo de la Ascensión* – Finalista en el *Romantic Times Award*, Mejor fantasía épica.
-*El Héroe de las Eras* – Ganador de la *Romantic Times Award*, Mejor fantasía épica.
-*El Héroe de las Eras* – Finalista para el premio inaugural de David Gemmell.
-Los tres libros de la trilogía de Nacidos de la bruma pertenecen a la selección SF Book Club.
-*El Héroe de las Eras* – seleccionado como *Indie Next List Notable* en Diciembre de 2008 .
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|** ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|****|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Characters**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Bleeder]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
+|**Places**|[[Elendel\|Elendel]] · [[Elendel Basin\|Elendel Basin]] · [[Roughs\|Roughs]] · [[New Seran\|New Seran]] · [[Bilming\|Bilming]] · [[Malwish Consortium\|Malwish Consortium]]|
+|**Culture**|[[Church of the Survivor\|Survivorism]] · [[The Path\|The Path]] · [[Sliverism\|Sliverism]] · [[Trell (Trellism)\|Trellism]]|
+|**Organizations**|[[Set\|The Set]] · [[Vanishers\|The Vanishers]] · [[Ghostbloods\|The Ghostbloods]]|
+|**Broadsheets**|[[The Elendel Daily\|The Elendel Daily]] · [[The House Record\|The House Record]] · [[The New Ascendancy\|The New Ascendancy]] · [[The Two Seasons\|The Two Seasons]]|
 
 
 
-https://es.coppermind.net/wiki/Mistborn_(series)
+## Era 3: Ghostbloods Trilogy
+**Mistborn: Ghostbloods**, the third trilogy, will be set in the early computer age with 1980s technology. The main character is planned as a Terris woman who is a computer programmer and [[Nicrosil\|Nicroburst]]; her brother is also planned to be a character. Peter has described her as a "brown Terris geek girl", though he does point out that this could change by the time the series is actually being written. Brandon backs up this description, and describes it as a sort of "how nerd culture works on Scadrial." Brandon had initially planned for the trilogy to feature an Allomancer SWAT team, with a team of allomancers hired to take out a serial killer, but is now leaning more towards a spy thriller. It will probably be released in the 2020s, after *[[Stormlight 5\|Stormlight 5]]* and the *[[Elantris (book)\|Elantris]]* sequels.
+He will be writing it in a similar manner to the first trilogy, writing all three books before publishing so that he could properly foreshadow and edit past books. He is greatly looking forward to writing book ten. These will be returning to the length of the Mistborn Era One books.
+It is planned for these books to include a global map of Scadrial. There are short comic books that are planned to be interspersed in them, similar to the broadsheets in Era Two. There are going to be allomancy-involved sports, and various characters are planned to be [[Twinborn\|Twinborn]] with "really neat combinations." It is planned to take place fifty to seventy years after Era Two, by which time the [[Southern Scadrian\|Southern Scadrians]] will be well-known to the rest of Scadrial. It will put more focus upon [[Kelsier\|Kelsier]] and [[Trell (Trellism)\| Trell]]. [[MeLaan\|MeLaan]] is also expected to play a role.
+
+## Possible Cyberpunk Mistborn Trilogy
+Brandon has interest in writing a "Cyberpunk" Mistborn trilogy between Eras Three and Four. Whether he writes it depends on how Era Three plays out and if he feels he has enough time to write more books before he gets too old. The books would be similar in length to Era Two (around 100,000 words) and be written around the same time as the second half of the Stormlight Archive. This trilogy would become Era Four and push space age Mistborn to Era Five and put Mistborn up to a fitting sixteen books. If a whole trilogy isn’t feasible he wants to at least write a novella. Nothing about the characters or plot are known but Brandon wants to play with unsealed metalminds as cyberpunk-esque “metallurgic wetware”. As of 2024, he feels committed to the idea of writing the trilogy, but doesn't promise it with certainty.
+
+
+## Era 4: Fourth Mistborn Trilogy
+The fourth trilogy is going to be a space-opera with [[Allomancy\|Allomancy]]-powered faster-than-light technology. [[Hoid\|Hoid]] will be a main character in this trilogy. The [[Sleepless\|Sleepless]], or Dysian Aimians, will also have a major role in this trilogy. The Iriali are also planned to have a major role.
+There may be two more currently untitled cosmere series written before this trilogy.
+He plans for each Era 4 book to be around the length of a Stormlight book.
+
+## Other media
+[[Mistborn Adventure Game\|Mistborn Adventure Game]] - tabletop RPG by [[Crafty Games\|Crafty Games]]
+Mistborn: Birthright - cancelled video game
+[[Mistborn film\|Mistborn film]] - various incarnations of a movie deal
+Mistborn: House War - board game by [[Crafty Games\|Crafty Games]]
+## Cover Galleries
+
+*The Final Empire* · *[[The Well of Ascension/Covers\|The Well of Ascension]]* · *[[The Hero of Ages/Covers\|The Hero of Ages]]* · (*Mistborn: Secret History*)
+
+*[[The Alloy of Law/Covers\|The Alloy of Law]]* · *[[Shadows of Self/Covers\|Shadows of Self]]* · *[[The Bands of Mourning/Covers\|The Bands of Mourning]]* · *[[The Lost Metal/Covers\|The Lost Metal]]*
+## Publication
+
+MISTBORN: THE FINAL EMPIRE (Tor, July 2006)
+MISTBORN: THE WELL OF ASCENSION (Tor, Spring 2007)
+MISTBORN: THE HERO OF AGES (Tor, Fall 2008)
+Audio rights (entire series) to Macmillan Audio
+Bulgarian rights (entire series) to Studio of A.
+Chinese rights (traditional; entire series) to Fantasy Foundation
+Chinese rights (simplified; entire series) to Shanghai Wanyu
+Czech rights (entire series) to Talpress
+French rights (entire series) to Calmann-Levy
+German rights (entire series) to Heyne
+Greek rights (entire series) to Fantastikos Kosmos
+Hebrew rights (#1-2) to Opus Press
+Hungarian rights (#1-3) to DeltaVision
+Italian rights (#1-3) to Fanucci
+Indonesian rights (#1-3) to Mizan Publishing
+Japanese rights (entire series) to Hayakawa
+Polish rights (entire series) to Mag
+Russian rights (#1-2) to EKSMO
+Russian rights (#1-3) to Azbooka-Atticus
+Serbian rights (#1-3) to Laguna
+Spanish rights (entire series) to Ediciones B
+Turkish rights (#1-3) to Arkadas
+UK rights (entire series) to Orion/Gollancz
+Film rights for MISTBORN to Chris Geary and Paloppa Pictures LLC
+
+## Awards
+THE HERO OF AGES — #21 on NY Times hardcover list
+THE WELL OF ASCENSION — Finalist for Romantic Times Award, Best Epic Fantasy
+THE HERO OF AGES — Winner of the Romantic Times Award, Best Epic Fantasy
+THE HERO OF AGES — Finalist for the inaugural David Gemmell Award
+All three Mistborn Trilogy books are SF Book Club selections
+THE HERO OF AGES — selected as an Indie Next List Notable for Dec. 2008
+
+
+https://coppermind.net/wiki/Mistborn_(series)

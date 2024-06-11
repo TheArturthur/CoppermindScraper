@@ -1,71 +1,55 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Raagent**|
 |-|-|
-|**Familia**|
-|**Hijos**|[[Aarik\|Aarik]]|
-|**Fallecido**|Asesinado por [[Sharezan\|Sharezan]]|
-|**Títulos**|[[Lord general\|Lord general]]|
-|**Grupo**|[[Taishin\|Taishin]]🐱︎, [[Torre (Taldain)\|la Torre]]|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Family**|
+|**Children**|[[Aarik\|Aarik]]|
+|**Died**|killed by [[Sharezan\|Sharezan]]|
+|**Titles**|[[Lord General\|Lord General]]|
+|**Groups**|[[Taishin\|Taishin]], [[Tower (Taldain)\|The Tower]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
->“*La política siempre se basa en la hipocresía, Kenton.*”
+>“*All politics is founded on hypocrisy.*”
 \-Raagent[3]
 
 
-**Raagent** es el [[Lord general\|lord general]] de la [[Torre (Taldain)\|Torre]] en [[Lossand\|Lossand]].
+**Raagent** is the [[Lord General\|Lord General]] of the [[Tower (Taldain)\|Tower]] in [[Lossand\|Lossand]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
-4 Curiosidades. [[#Curiosidades]] 
-5 Véase también. [[#V.C3.A9ase tambi.C3.A9n]] 
-6 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Tiene la piel clara del Lado Diurno y el pelo largo y castaño. Tiene una larga perilla y un bigote caído.
-
-## Historia
-En la primera votación del Taishin vota a favor de la disolución del [[Diem\|Diem]].
-
->“*¡Chico, acabo de verte decapitar a un monstruo de veinte metros de alto! Haré lo que sea para evitar que ese poder se nos escape.*”
-\-Raagent a Kenton tras matar al segundo KaRak.[3]
-
-Se va de caza a las arenas profundas en un intento de evitar a [[Kenton\|Kenton]], pero él y [[Aarik\|Aarik]] le persiguen. Cuando llegan, Raagent invita a Kenton a unirse a él en su cacería de [[Cavadizo\|cavadizos]] profundos. En el viaje a la arena profunda discuten sobre los distintos tipos de cavadizos, y Raagent pregunta a Kenton cuánto le costará contratar a los maestros de la arena. Él dice que la razón por la que quiere desmantelar el Diem es para quedarse con su prestigio, y que no le importa nada su poder. Luego dice que ha cambiado el suyo y que simplemente quiere destruir el Diem. Se marcha para asestar el golpe mortal al [[KaRak\|KaRak]] que sus soldados capturaron y debilitaron para él. Kenton empieza a alejarse y, de repente, una mujer viene volando hacia él y se vuelve para ver a un KaRak mucho más grande, la madre del primero, atacando a Raagent y a sus soldados. Kenton distrae al cavadizo, lo que da a Aarik una oportunidad para entrar montado en su [[Tonk\|tonk]], salvando la vida de Raagent. Kenton vuelve entonces y utiliza su arena para matar a la criatura. Raagent queda impresionado por la demostración de Kenton, y después de que éste acceda a dar a la Torre un contingente de maestros de la arena para que los utilice, Raagent acepta votar a favor del Diem. Kenton se marcha, y Aarik y su padre comen juntos por primera vez en años.
-Intenta concertar una reunión con la [[Trackt\|trackt]] superior [[Ais\|Ais]] para traicionar a [[Sharezan\|Sharezan]]. Sharezan lo descubre y lo atrapa, pero Raagent se da cuenta a tiempo y escapa sano y salvo.
-Presumiblemente como venganza por su intento de traición, Sharezan ejecuta personalmente a Raagent de forma brutal. Se cuela en el dormitorio de Raagent en la Torre, utiliza las sábanas de la cama [[ShalRim\|ShalRim]] de Raagent para atarlo y luego lo lleva a la bodega de la Torre, donde no se oirán sus gritos de auxilio. Sharezan apuntala a Raagent contra una pared y enciende velas para proporcionarle algo de luz en la oscuridad de la bodega. Después le dosifica [[Kamo\|kamo]], un estimulante emocional, y le corta los párpados. Como, al igual que todos los habitantes del Lado Diurno, Raagent tenía miedo a la oscuridad, el kamo, combinado con la creciente oscuridad provocada por las velas apagadas, hizo que la mente de Raagent conjurara todo tipo de horrores. Como no podía cerrar los ojos, se veía obligado a soportar estas pesadillas hasta que murió del susto. [[Baon\|Baon]] teoriza que el asesinato se cometió para reducir las posibilidades de Kenton de ganar todos los votos del [[Taishin\|Taishin]], ya que Raagent era uno de los partidarios de Kenton.
-Tras la muerte de Raagent, a petición de Kenton, Aarik se convierte a regañadientes en el nuevo lord general en lugar de su padre y vota a favor del Diem.
-
-## Relaciones
-Es el padre de [[Aarik\|Aarik]], a quien repudió en algún momento del pasado.
-Se relacionaba con [[Sharezan\|Sharezan]]. No está claro cuál era exactamente su relación.
-## Curiosidades
-En la [[Arena Blanca (prosa)\|prosa]] se llamaba Reegent.
-## Véase también
-[[Lord general\|Lord general]]
-[[/wiki/Lossand#La Torre]]
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
+4 Trivia. [[#Trivia]] 
+5 See Also. [[#See Also]] 
+6 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+He has fair Daysider skin and long brown hair. He has a long goatee and a drooping moustache.
 
-https://es.coppermind.net/wiki/Raagent
+## History
+In the first vote of the Taishin he votes for the dissolution of the [[Diem\|Diem]].
+
+>“*Boy, I just saw you cut the head off of a seventy-foot tall monster! I don't care what I have to do, that isn't the kind of power we can afford to cut free.*”
+\-Raagent to Kenton after he killed the second KaRak.[3]
+
+He goes on a hunting trip to the deep sands in an attempt to avoid [[Kenton\|Kenton]], but Kenton and [[Aarik\|Aarik]] chase after him. When they arrive Raagent invites Kenton to join him on his deep [[Sandling\|sandling]] hunt. On the ride to the deep sand they discuss the different types of sandlings, and Raagent asks Kenton how much it will cost him to hire the sand masters. He says that the reason he wants to dismantle the Diem is so he could have their prestige for himself, and he cares nothing for their power. He then says that he has changed his and simply wants the Diem destroyed. He goes off to deal the killing blow to the [[KaRak\|KaRak]] his soldiers captured and weakened for him. Kenton starts to walk away and suddenly a woman comes flying towards him and he turns around to see a much larger KaRak, the first one's mother, attacking Raagent and his soldiers. Kenton distracts the sandling, giving Aarik an opening to ride in on his [[Tonk\|tonk]], saving Raagent's life. Kenton then goes back and uses his sand to kill the creature. Raagent is impressed by Kenton's showing, and after Kenton agrees to give the Tower a contingent of sand masters to use, Raagent agrees to vote for the Diem. Kenton leaves, and Aarik and his father eat together for the first time in years.
+He tries to set up a meeting with Senior [[Trackt\|Trackt]] [[Ais\|Ais]] to betray [[Sharezan\|Sharezan]]. Sharezan finds out and traps the building, but Raagent realizes in time and escapes safely.
+Presumably as revenge for his attempted betrayal, Sharezan personally executes Raagent in a brutal fashion. He sneaks into Raagent's sleeping chambers in the Tower, uses Raagent's [[ShalRim\|ShalRim]] bed sheets to tie him up, and then brings him down into the Tower's wine cellar where his cries for help won't be heard. Sharezan props Raagent up against a wall and lights candles to provide some light in the darkness of the cellar. He then dosed him with [[Kamo\|kamo]], an emotional stimulant, and cut off his eyelids. Since, like all Daysiders, Raagent was afraid of the dark, the kamo, combined with the growing darkness from the candles burning out, caused Raagent's mind to conjure up all sorts of horrors. Since he couldn't close his eyes he was forced to endure these nightmares until he died from the fright. [[Baon\|Baon]] theorizes that the murder was done in order to lessen Kenton's chances of winning all of the [[Taishin\|Taishins']] votes, since Raagent was one of Kenton's supporters.
+After Raagent's death, at Kenton's request, Aarik reluctantly becomes the new Lord General in his father's place and votes in favor of the Diem.
+
+## Relationships
+He is the father of [[Aarik\|Aarik]], whom he disowned at some point in the past.
+He was dealing with [[Sharezan\|Sharezan]]. It is unclear what exactly their relationship was.
+## Trivia
+In the [[White Sand (prose)\|prose]] he was named Reegent.
+## See Also
+[[Lord General\|Lord General]]
+[[/wiki/Lossand#The Tower]]
+
+
+https://coppermind.net/wiki/Raagent

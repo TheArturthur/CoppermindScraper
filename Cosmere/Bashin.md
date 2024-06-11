@@ -1,87 +1,66 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Bashin**|
 |-|-|
-|**Oficio**|Jefe de cacería, Jefe de exploradores|
-|**Grupo**|Ejército de Kholin|
-|**Residencia**|[[Urithiru\|Urithiru]]|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Profession**|Huntmaster, Scoutmaster|
+|**Groups**|Kholin army|
+|**Residence**|[[Urithiru\|Urithiru]]|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Bashin** es un [[Alezi\|alezi]] [[Ojos oscuros\|ojos oscuros]] del primer [[Nahn\|nahn]] en [[Roshar\|Roshar]] y un veterano colaborador de [[Dalinar Kholin\|Dalinar Kholin]].
+**Bashin** is a [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] of the first [[Nahn\|nahn]] on [[Roshar\|Roshar]] and a longtime associate of [[Dalinar Kholin\|Dalinar Kholin]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Abilities and Attributes. [[#Abilities and Attributes]] 
+3 History. [[#History]] 
 
-3. [[#Amigo de Dalinar]] 
-3. [[#Cacer.C3.ADa de abismoides]] 
-3. [[#El asalto de Dalinar]] 
+3. [[#Friend of Dalinar]] 
+3. [[#Chasmfiend Hunt]] 
+3. [[#Dalinar.27s Assault]] 
 3. [[#Urithiru]] 
 
 
-4 Notas. [[#Notas]] 
+4 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Es un hombre bajo, corpulento y de panza particularmente notable, que viste con ropas ajadas como unos pantalones de soldado y normalmente con un chaquetón de cuero. Está especialmente orgulloso de su sombrero marrón, blando y de ala ancha, que consiguió cerca del [[Lagopuro\|Lagopuro]]. Durante más de veinte años siempre se lo ha visto usando un sombrero similar a pesar del hecho de que suele ser objeto de burla. Cuando Bashin se retira del servicio, le deja su sombrero a [[Felt\|Felt]], que lo lleva como recuerdo.
-Bromea con sus amigos, a menudo con cierta autocrítica, y normalmente es optimista. Se trata de una persona respetada y capaz de proporcionar información práctica cuando es necesario. Bashin parece ser alguien seguro e independiente, cosa que no se ajusta al estereotipo de un ojos oscuros. Dalinar se refiere a él como "tipo raro", ya que ha viajado más que la mayoría de los alezi y parece ansioso por seguir explorando Roshar. Al servicio del ejército Kholin, no lleva uniforme a pesar de la veneración que Dalinar profesa a los [[C%C3%B3digos de Guerra Alezi\|Códigos de Guerra Alezi]]. Además, y en almenos una ocasión, se dirige a Dalinar por su nombre (en lugar de "brillante señor").
+## Appearance and Personality
+He is a short, portly man with a particularly large belly, and he wears rugged clothing such as soldier's trousers, typically with a leather overcoat. He is exceptionally proud of his wide-brimmed, floppy brown hat that he acquired near the [[Purelake\|Purelake]]; he is always seen wearing a similar hat over a span of more than twenty years despite the fact that it tends to be an object of ridicule. After Bashin retires he passes his floppy hat on to [[Felt\|Felt]], who wears it as a memento.
+He jokes with his friends, often in a self-deprecating manner, and is generally optimistic. He is well-respected and able to provide no-nonsense information when needed. Bashin seems to have a confident, independent streak and does not conform to the stereotype of a darkeyes. Dalinar calls him an "odd one" as he has traveled more extensively than most Alethi, and he seems eager to continue exploring Roshar. He does not wear a uniform while serving in the Kholin army despite Dalinar's reverence for the [[Alethi Codes of War\|Alethi Codes of War]]. He also addresses Dalinar by his first name (rather than "Brightlord") on at least one occasion.
 
-## Atributos y habilidades
-Bashin ha desempeñado una amplia variedad de responsibilidades y algunas de perfil muy elevado, sobre todo para un ojos oscuros. Es muy conocido entre la familia Kholin y cuenta con la confianza de Dalinar. En su juventud, pasó mucho tiempo bebiendo y apostando, pero esto era común entre los soldados alezi y, en última instancia, contribuyó a su camaradería con Dalinar y otros [[Ojos claros\|ojos claros]]. En el ejército Kholin inspira respeto a pesar de no lucir uniforme ni ostentar ningún rango destacado. Normalmente es competente, y aunque la cacería del abismoide acabó desastrosamente, estaba bien organizada y nada hace indicar que Bashin podría haber hecho algo para prevenir el ataque del abismoide.
-Ha viajado mucho y está familiarizado con las tierras y los pueblos rosharianos más allá de Alezkar. Posee conocimientos sobre el ciclo vital de los abismoides y sus hábitos de anidación y alimentación. También ha visto las formas [[Cantor\|cantoras]] conocidas antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], por lo que es capaz de reconocer inmediatamente a la [[Forma tormenta\|forma tormenta]] como algo que no se ha visto con anterioridad.
+## Abilities and Attributes
+Bashin is given a wide variety of responsibilities, some very high-profile, particularly for a darkeyes. He is well-known among the Kholin family and he has Dalinar's trust. He commands respect in the Kholin army even though he does not wear a uniform nor hold any obvious rank. In his youth, he spent a lot of time drinking and gambling, but this was common among Alethi soldiers and ultimately contributed to his camaraderie with Dalinar and other [[Lighteyes\|lighteyes]]. He is generally competent; although the chasmfiend hunt ended in disaster, it appeared to be well-organized, and there is no indication that Bashin could have done anything to prevent the chasmfiend's attack.
+He is well-traveled, and is familiar with Rosharan lands and peoples outside of Alethkar. He is knowledgeable regarding the chasmfiend lifecycle and their nesting and feeding tendencies. He has also seen the known [[Singer\|singer]] forms prior to the [[True Desolation\|True Desolation]] and is immediately able to recognize [[Stormform\|stormform]] as something that has not been seen before.
 
-## Historia
-### Amigo de Dalinar
->“*Los ojos claros necesitan gente que los obedezca, ¿verdad? Pues yo me aseguro de que tengas mucho sirviéndote, por lo menos medido en peso.*”
-\-Bashin, después de que Havar se burle de su enorme barriga[2]
-
-
-Bashin acompañó a [[Dalinar\|Dalinar]] a un salón de lucha libre, en [[Kholinar\|Kholinar]], la noche del nacimiento de [[Adolin\|Adolin]] en 1150. Dalinar parecía disfrutar de la compañía de Bashin y [[Havar\|Havar]], ya que lo trataban como un amigo y no como un alto príncipe. Con ellos, Dalinar bebió mucho y consumió [[Musgoardiente\|musgoardiente]] para mantener a raya a la [[La Emoci%C3%B3n\|Emoción]]. Bashin ganó una apuesta con Havar sobre uno de los combates, después de haberse apostado su sombrero.
-Cuando Dalinar quiso reemplazar a un luchador enfermo, el que debía ser su ponente le tenía miedo, y Bahin y Havar no tuvieron más remedio que admitirle a Dalinar que no era consciente de haber mutilado a tres personas, dos semanas antes, en una pelea en una taberna. [[Toh\|Toh]] llegó para decirle a Dalinar que [[Evi\|Evi]] se había puesto de parto de forma prematura, y Bashin intentó ocultar el hecho de que Dalinar estaba consumiendo musgoardiente.
-Bashin estuvo presente en un encuentro con los [[Parshendi\|parshendi]] en algún momento del reinado del rey [[Gavilar\|Gavilar]].
-
-### Cacería de abismoides
->“*Oh, Condenación.*”
-\-Bashin, cuando un abismoide atacó[1]
-
-Durante la [[Guerra de la Venganza\|Guerra de la Venganza]], Bashin era el jefe de cacería de una cacería de [[Abismoide\|abismoides]] en las [[Llanuras Quebradas\|Llanuras Quebradas]], liderando un grupo que incluía a [[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], y [[Torol Sadeas\|Torol Sadeas]]. Él y sus compañeros se prepararon para la cacería, explorando los movimientos del abismoide y preparando una pequeña meseta para la lucha con el abismoide. Usaron un [[Chull\|chull]] para remolcar el cadáver de un cerdo, para colgarlo del bode de la meseta y que hiciera de cebo. También prepararon una meseta de observación, separada y con un pabellón y un puesto de refrigerios para que escribas, asistentes, invitados y soldados que acompañaban al rey y los altos príncipes pudieran observar la cacería cómodamente. Bashin se mostró optimista con que sería una buena caza ya que el abismoide que habían estado siguiendo era enorme.
-Bashin también se le encomendó la tarea de aconsejar a los nobles sobre la cacería, y se lo tomó muy en serio. Ante la aparición del abismoide, Bashin había ideado, como distracción adicional, añadir cerdos como cebo vivo, lo que permitiría al grupo de caza utilizar [[Granarco\|granarcos]] para debilitarlo. Bashin les dijo que apuntaran a las patas del abismoide. Les recordó que los abismoides tienden a ser más agresivos si no están incubando.
-El chull que arrastraba el cebo empezó a actuar de forma errática y el abismoide apareció antes de lo previsto. En lugar de atacar la meseta de caza, atacó la meseta de observación, donde se comió un chull e hirió a varias personas. Rápidamente, los [[Portador de esquirlada\|portadores de esquirlada]] respondieron y Elhokar consiguió matar al abismoide y reclamar su [[Gema coraz%C3%B3n\|gema corazón]].
-
-### El asalto de Dalinar
->“*Señor… tienes que ver esto. Algo ha cambiado.*”
-\-Bashin a Dalinar, tras descubrir a un cantor en forma tormenta[3]
+## History
+### Friend of Dalinar
+>“*Lighteyes need folks to obey them, right? I’m making certain that you got lots to serve you, at least by weight.*”
+\-Bashin, after Havar mocks his large belly[2]
 
 
-En 1173, Bashin se unió a la ofensiva de Dalinar en las Llanuras Quebradas. Coordinó los equipos que exploraron las mesetas antes de la [[Batalla de Narak\|Batalla de Narak]], e informó a Dalinar de los avistamientos de parshendi. Sus exploradores consiguieron matar a un cantor en [[Forma tormenta\|forma tormenta]] y se lo enseñó a Dalinar y [[Shallan\|Shallan]], dándose cuenta de que algo había cambiado. Se mostró confundido por las quemaduras que presentaban algunos cadáveres de exploradores alezi, ya que desconocía que los cantores podían controlar rayos en su forma tormenta.
+Bashin accompanied [[Dalinar\|Dalinar]] to a wrestling hall in [[Kholinar\|Kholinar]] on the night of [[Adolin\|Adolin's]] birth in 1150. Dalinar seemed to enjoy the company of Bashin and [[Havar\|Havar]], as they treated him like a friend and not a highprince. Dalinar was also able to drink heavily and use [[Firemoss\|firemoss]] to stave off the [[Thrill\|Thrill]] in their company. Bashin won a bet with Havar on a wrestling match, after nervously wagering his hat.
+When Dalinar attempted to replace a sick wrestler, his potential opponent was clearly scared of him, and Bashin and Havar were forced to admit to Dalinar that he did not realize that he had maimed three people in a tavern fight a few weeks prior. [[Toh\|Toh]] arrived to tell Dalinar that [[Evi\|Evi]] went into early labor, and Bashin attempted to conceal the fact that Dalinar was using firemoss.
+Bashin was present at a meeting with the [[Parshendi\|Parshendi]] at some point during the reign of King [[Gavilar\|Gavilar]].
+
+### Chasmfiend Hunt
+>“*Aw, Damnation.*”
+\-Bashin, as a chasmfiend attacked[1]
+
+During the [[War of Reckoning\|War of Reckoning]], Bashin was the huntmaster of a [[Chasmfiend\|chasmfiend]] hunt on the [[Shattered Plains\|Shattered Plains]], leading a group that included [[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], and [[Torol Sadeas\|Torol Sadeas]]. He and his colleagues prepared for the hunt, scouting the chasmfiend's movements and preparing a small plateau for fighting the chasmfiend. They used a [[Chull\|chull]] to tow a hog carcass and hang it over the edge of the plateau as bait. They also prepared a separate viewing plateau, erecting a pavilion and refreshment station so that the scribes, attendants, guests, and soldiers accompanying the king and highprinces could watch the hunt in comfort. Bashin was optimistic that the day would be a good hunt, as the chasmfiend that they were tracking was massive.
+Bashin was also tasked with providing the nobles advice regarding the hunt, which he took seriously. Once the chasmfiend appeared, Bashin planned to add live bait hogs as an additional distraction, allowing the hunting party to use [[Grandbow\|grandbows]] to weaken it. Bashin told the party to aim for the chasmfiend's legs. He reminded them that chasmfiends tend to be more aggressive if they are not pupating.
+The chull that was towing the bait began to act erratically, and the chasmfiend appeared earlier than expected. Instead of attacking the hunting plateau, it attacked the viewing plateau, eating a chull and injuring multiple people. The [[Shardbearer\|Shardbearers]] quickly responded and Elhokar was able to kill the chasmfiend and claim its [[Gemheart\|gemheart]].
+
+### Dalinar's Assault
+>“*Sir... you need to see this. Something has changed.*”
+\-Bashin to Dalinar, after discovering a singer in stormform[3]
+
+
+In 1173, Bashin joined Dalinar's offensive into the Shattered Plains. He coordinated teams scouting the plateaus prior to the [[Battle of Narak\|Battle of Narak]], reporting on sightings of the Parshendi to Dalinar. His scouts managed to kill a singer in [[Stormform\|stormform]], and he showed Dalinar and [[Shallan\|Shallan]] the corpse, realizing that it may have been a significant development. He was confused by the burn marks on the bodies of some dead Alethi scouts, as he was not aware that singers could control lightning in stormform.
 
 ### Urithiru
-Bashin vivió en [[Urithiru\|Urithiru]] tras la llegada de la [[Tormenta eterna\|tormenta eterna]]. Supervisaba las perreras de [[Sabueso-hacha\|sabuesos-hacha]] el las zonas Kholin de la torre, a pesar de que los sabuesos-hacha ya no se utilizaban para cazar. Bashin se jubiló en algún momento después de mudarse a la torre. Le dio su amado sombrero flexible a [[Felt\|Felt]].
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:51, 13 January 2021 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Bashin lived in [[Urithiru\|Urithiru]] after the coming of the [[Everstorm\|Everstorm]]. He oversaw [[Axehound\|axehound]] kennels in the Kholin sections of the tower, even though axehounds were no longer used for hunting. Bashin retired from his duties at some point after he moved to the tower. He gave his prized floppy hat to [[Felt\|Felt]].
 
 
 
-https://es.coppermind.net/wiki/Bashin
+https://coppermind.net/wiki/Bashin

@@ -1,44 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Laird**|
 |-|-|
-|**Oficio**|[[/wiki/Obligador#Prelado]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**Profession**|[[/wiki/Obligator#Prelan]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-El prelado **Laird** era un [[Obligador\|obligador]] del [[/wiki/Ministerio del Acero#Cant.C3.B3n de las Finanzas]] en [[Scadrial\|Scadrial]] durante los tiempos del [[Imperio Final\|Imperio Final]].
+Prelan **Laird** was an [[Obligator\|obligator]] of the [[Canton\|Canton of Finance]] on [[Scadrial\|Scadrial]] during the times of the [[Final Empire\|Final Empire]].
 
-## Apariencia y personalidad
-Como todos los obligadores, Laird es calvo y lleva una túnica gris oscuro, pero la complejidad de los tatuajes alrededor de sus ojos lo marcan como algo más que un simple obligador, en concreto, como un prelado. Laird tiene un aire señorial, no se molesta en devolver el saludo a los nobles menores o en despedir a los sirvientes.
+## Appearance and Personality
+Like all obligators Laird is bald and wears a dark gray robe, but the complex tattoos around his eyes mark him as more than an ordinary obligator, namely a prelan. Laird has a lordly air, he doesn't bother to bow back to lesser noblemen or to dismiss servants.
 
-## Historia
-Visitó a [[Camon\|Camon]] para arreglar un trato de transporte. Camon, quien actuó como 'lord Jedue', trató de engañar al prelado estableciendo un contrato que no cumpliría. Laird sospechó que la oferta de Camon era demasiado buena para ser verdad, pero después de repetidos aplacimientos de Vin, dijo que estaba dispuesto a llevar la oferta ajustada de Camon al Consejo nuevamente.
-Probablemente Laird sentía como Vin aplacaba, ya que los obligadores están entrenados para ello, y la cita de seguimiento de Camon con el ministerio fue planificada con el alto prelado [[Arriev\|Arriev]], quien estaba mejor preparado para decidir si Vin o Camon eran [[Alomante\|Alomantes]].
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+He visited [[Camon\|Camon]] to arrange a transportation deal. Camon, who acted as 'Lord Jedue', tried to swindle the prelan by setting up a contract he wouldn't live up to. Laird was suspicious of Camon's too good to be true offer, but after repeated Soothings by [[Vin\|Vin]] he said that he was willing to propose Camon's adjusted offer to the council again.
+It is likely that Laird felt Vin's Soothings, as obligators are trained to recognize this, and Camon's follow-up appointment with the ministry was planned with High Prelan [[Arriev\|Arriev]] who was better suited to decide if either Vin or Camon was an [[Allomancer\|Allomancer]].
 
 
 
-https://es.coppermind.net/wiki/Laird
+https://coppermind.net/wiki/Laird

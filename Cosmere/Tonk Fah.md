@@ -1,76 +1,64 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Tonk Fah**|
 |-|-|
 ||
-|**Grupo**|[[Banda de Denth\|Banda de Denth]]🐱︎|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[Pahn Kahl\|Pahn Kahl]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Groups**|[[Denth's crew\|Denth's crew]]|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Los dedos son los dedos.*”
-\-Tonk Fah a Denth y Vivenna[1]
-
-
-**Tonk Fah** es un mercenario [[Pahn Kahl\|pahn kahl]] en [[Nalthis\|Nalthis]] y un importante miembro de la [[Banda de Denth\|banda de Denth]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+>“*"Toes is toes."*”
+\-Tonk Fah to Denth and Vivenna[1]
 
 
-## Apariencia y personalidad
-Superficialmente, Tonk Fah puede parecer un mercenario divertido, algo simple, pero de buen carácter, al que le gusta dormir la siesta y comer.
-En realidad, es un sociópata y un sádico que trabaja con [[Denth\|Denth]] como matón; dejado a su aire, sería un asesino en serie. Es "corpulento" y lleva un garrote atado a la espalda. Es menos aseado que Denth.
-Tiene una serie de mascotas exóticas, a las que tortura y mata en secreto cuando le apetece. Es necesario un gran esfuerzo para que [[Denth\|Denth]] vuelva a centrar su atención en los animales en lugar de en los humanos.
+**Tonk Fah** is a [[Pahn Kahl\|Pahn Kahl]] mercenary on [[Nalthis\|Nalthis]] and an important member of [[Denth's crew\|Denth's crew]].
 
-## Atributos y habilidades
-Tonk Fah es un guerrero capaz y extremadamente fuerte. Se enfrenta a cinco sinvidas cuando huyen de la redada en los barrios bajos e incluso incapacita a dos cuando intentan matar a Vivenna. Ambas habilidades parecen estar potenciadas por su gran tamaño.
-Tonk Fah también tiene la extraña habilidad de quedarse dormido en cualquier momento.
+## Contents
 
-## Historia
-  Con <<Denth\|Denth>>
-Cuando [[Vivenna\|Vivenna]] llega a [[T'Telir\|T'Telir]], Tonk Fah y su compañero Denth la interceptan cuando va a reunirse con [[Lemex\|Lemex]], el maestro espía idriano de la ciudad. Él ayuda a convencerla con su estilo desenfadado y algo jovial de que es un mercenario simplista e incomprendido. Parece ansioso por complacer y bastante diligente en el cumplimiento de las órdenes.
-Tonk Fah y Denth fueron contratados por Lemex para apoyar la rebelión de [[Vahr\|Vahr]], pero le estaban envenenando en secreto. Tras su muerte, Tonk Fah se deshizo discretamente del cuerpo de Lemex. Más tarde, ayuda a saquear la casa de Lemex en busca de sus objetos de valor y sus planes y ayuda a vigilar a Vivenna mientras se reúne con los lords idrianos de los barrios bajos. Entre bastidores, Tonk Fah ya ha matado al menos a tres soldados idrianos enviados para recuperar a [[Vivenna\|Vivenna]] de la casa saqueada de [[Lemex\|Lemex]].
-Después de que [[Parlin\|Parlin]] fuera torturado y asesinado por Tonk Fah, [[Vivenna\|Vivenna]] escapa a las calles. Durante su intento de huida, primero intenta despertar la capa de Tonk Fah, pero debido a un mal Mandato esto no funciona; en su lugar utiliza el Mandato sinvida de [[Clod\|Clod]] como distracción. Mientras pasa hambre en las calles, [[Vivenna\|Vivenna]] ve que el primer comedor al que acude está siendo vigilado por Tonk Fah, por lo que evita ir a cualquiera de los comedores aunque esté al borde de la muerte.
-Después de que [[Vivenna\|Vivenna]] se cuele en la [[Corte de los Dioses\|Corte de los Dioses]] con el fin de ayudar a liberar a [[Vasher\|Vasher]] con la guía de [[Sangre Nocturna\|Sangre Nocturna]], se encuentra con [[Denth\|Denth]] torturando a [[Vasher\|Vasher]], con Tonk Fah durmiendo ociosamente con la espalda contra la pared. [[Vivenna\|Vivenna]] utiliza una cuerda despertada para estrangular a Tonk Fah, lo que distrae a [[Denth\|Denth]] cuando intenta ayudar a Tonk Fah a escapar de la atadura.
-Mientras Tonk Fah vigila a [[Vivenna\|Vivenna]] durante el duelo entre [[Denth\|Denth]] y [[Vasher\|Vasher]], ella se da cuenta de que él aún lleva puesta la misma capa en la que ella había colocado su [[Aliento biocrom%C3%A1tico\|aliento biocromático]]. Utiliza esto para distraer a [[Denth\|Denth]].
-Después de que [[Denth\|Denth]] es asesinado por [[Vasher\|Vasher]], Tonk Fah toma su dinero y escapa con [[Joyas\|Joyas]].
-
-## Relaciones
-Está en una banda de mercenarios con [[Denth\|Denth]], [[Joyas\|Joyas]], y [[Clod\|Clod]].
-Como parte de la [[Banda de Denth\|banda de Denth]], Tonk Fah finge temporalmente ser empleado y aliado de Vivenna. En realidad está al servicio de [[Dedos Azules\|Dedos Azules]].
-No le gusta Joyas.
-
-## Citas
->“*Nunca enfades a la gente importante. A menos que te pague gente que sea *aún más* importante.*”
-\-Tonk Fah a Vivenna[15]
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
->“*A veces matamos, pero no asesinamos. Eso es trabajo para asesinos.*”
-\-Tonk Fah a Vivenna[15]
+## Appearance and Personality
+Superficially Tonk Fah can appear to be a funny, somewhat simple, but good-natured mercenary, who likes to nap and eat.
+In reality, he is a sociopath and sadist who works with [[Denth\|Denth]] as a thug; left to his own devices he'd be a serial killer. He is "large of girth" and carries a cudgel strapped to his back. He is less meticulous about his appearance than Denth.
+He keeps a succession of exotic pets, which he secretly tortures and kills when the urge takes him. It takes [[Denth\|Denth]] a large effort to have him re-focus his attention to animals instead of humans.
+
+## Attributes and Abilities
+Tonk Fah is a capable warrior and extremely strong. He takes on five Lifeless when fleeing the raid in the slums and even incapacitates two as they try to kill Vivenna. Both of these abilities seem to be enhanced by his great size.
+Tonk Fah also has the uncanny ability to fall asleep at a moments notice.
+
+## History
+  With <<Denth\|Denth>>
+When [[Vivenna\|Vivenna]] arrives in [[T'Telir\|T'Telir]], Tonk Fah and his companion Denth intercept her as she goes to meet [[Lemex\|Lemex]], the Idrian spymaster in the town. He helps convince her with his casual, somewhat jovial style that he is a simplistic and misunderstood mercenary. He appears to be eager to please and quite diligent in carrying out orders.
+Tonk Fah and Denth were employed by Lemex in support of [[Vahr\|Vahr's]] rebellion, but were secretly poisoning him. Upon his death, Tonk Fah discreetly disposed of Lemex's body. Later, he helps ransack Lemex's home in search of his valuables and plans and helps guard Vivenna while she meets with Idrian slum lords . Behind the scenes, Tonk Fah has already killed at least three Idrian soldiers sent to retrieve [[Vivenna\|Vivenna]] from [[Lemex\|Lemex's]] ransacked house.
+After [[Parlin\|Parlin]] was tortured and killed by Tonk Fah , [[Vivenna\|Vivenna]] escapes into the streets. During her escape attempt she first tried to awaken Tonk Fah's cloak, but due to a bad command this does not work; and she instead uses [[Clod\|Clod's]] lifeless command as a distraction. While starving on the streets, [[Vivenna\|Vivenna]] sees that the first soup kitchen she goes to is being watched by Tonk Fah, and thus she avoids going to any soup kitchens even while on the verge of death.
+After [[Vivenna\|Vivenna]] sneaks into the [[Court of the Gods\|Court of the Gods]] in order to help free [[Vasher\|Vasher]] with the guidance of [[Nightblood\|Nightblood]], she comes across [[Denth\|Denth]] torturing [[Vasher\|Vasher]], with Tonk Fah idly sleeping with his back against the wall. [[Vivenna\|Vivenna]] uses an Awakened rope to strangle Tonk Fah, which distracts [[Denth\|Denth]] as he moves to help Tonk Fah escape the binding.
+While Tonk Fah keeps an eye on [[Vivenna\|Vivenna]] during the duel between [[Denth\|Denth]] and [[Vasher\|Vasher]], she realizes that he was still wearing the same cloak she had placed her [[BioChromatic Breath\|BioChromatic Breath]] into. She uses this to distract [[Denth\|Denth]].
+After [[Denth\|Denth]] is killed by [[Vasher\|Vasher]], Tonk Fah takes his money and escapes with [[Jewels\|Jewels]].
+
+## Relationships
+He is in a mercenary band with [[Denth\|Denth]], [[Jewels\|Jewels]], and [[Clod\|Clod]].
+As a part of [[Denth's crew\|Denth's crew]], Tonk Fah temporarily pretends to be employed by and allied with Vivenna. In reality he is in the employ of [[Bluefingers\|Bluefingers]].
+He is not fond of Jewels.
+
+## Quotes
+>“*Don't make important people angry unless you're getting paid by people who are even *more* powerful.*”
+\-Tonk Fah to Vivenna[15]
 
 
-## Curiosidades
-[[Brandon Sanderson\|Brandon]] pretende que Tonk Fah aparezca en la secuela de [[Nightblood (libro)\|El aliento de los dioses]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+>“*We kill sometimes, but we don’t murder. That’s assassin work.*”
+\-Tonk Fah to Vivenna[15]
 
 
+## Trivia
+[[Brandon Sanderson\|Brandon]] intends for Tonk Fah to appear in the [[Nightblood (book)\|Warbreaker sequel]].
 
-https://es.coppermind.net/wiki/Tonk_Fah
+
+https://coppermind.net/wiki/Tonk_Fah

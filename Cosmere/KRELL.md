@@ -1,52 +1,39 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**KRELL**|
 |-|-|
 ||
-|**Líder**|[[Departamento de Servicios de Protecci%C3%B3n\|Departamento de Servicios de Protección]]|
-|**Cuartel General**|Estación espacial KRELL|
-|**Tipo**|Policía|
-|**Universo**|[[Citoverso\|Citoverso]]|
+|**Leader**|[[Department of Protective Services\|Department of Protective Services]]|
+|**Headquarters**|KRELL space station|
+|**Type**|Police force|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Estelar\|Estelar]]* y *[[Solar\|Solar]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]* and *[[Sunreach\|Sunreach]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Este es uno de varios artículos con este nombre. Para otros, ver [[Krell\|Krell]].
->“*No nos mantenían retenidos por rencor, sino porque de verdad estaban aterrorizados por la humanidad.*”
+This is one of several articles with this name. For others, see [[Krell\|Krell]].
+>“*They kept us contained not out of spite, but because they were genuinely terrified of humankind.*”
 \-Spensa[1]
 
 
-**Ketos redgor Earthen listro listrins (KRELL)** es una fuerza paramilitar dentro del [[Departamento de Servicios de Protecci%C3%B3n\|Departamento de Servicios de Protección]] de la [[Supremac%C3%ADa\|Supremacía]]. Su nombre se traduce como "Mantenimiento penitenciario y contención de terrícolas". Se desconoce si su jurisdicción se limita a [[Detritus\|Detritus]] o si son responsables de todas las reservas humanas.
+**Ketos redgor Earthen listro listrins (KRELL)** is a paramilitary force within the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]]. The name translates to "Penitentiary maintenance and containment of Earthlings". It's unknown whether their jurisdiction is limited to [[Detritus\|Detritus]] or if they're responsible for all human preserves.
 
-## Sumario
+## Contents
 
-1 Función. [[#Funci.C3.B3n]] 
-2 Recursos. [[#Recursos]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
-
-
-## Función
-La principal tarea de los KRELL es impedir que la población humana abandone su planeta. Lo hacen principalmente lanzando ataques ocasionales para mantener a la gente concentrada en defenderse, sin dejarles aliento para investigar medios de escape o recuperar cualquier tecnología avanzada. Sin embargo, los KRELL tienen prohibido destruir directamente a la humanidad, ya que las leyes de Supremacía prohíben que una especie sea aniquilada por completo.
-Dicho esto, recientemente esta regla parece haber dejado de estar en vigor, ya que los KRELL han empezado a actuar de forma más agresiva, al menos en lo que respecta a Detritus. Esto podría estar motivado por la mejora de la capacidad de lucha de los humanos, o por maniobras políticas de su organización matriz, el Departamento de Servicios de Protección, y su líder, [[Winzik\|Winzik]].
-Con lo pequeño que es el ejército de la Supremacía, es probable que los KRELL sean su mayor fuerza de combate. Como tal, sus pilotos de naves no tripuladas a veces pueden ser llamados para realizar otras tareas, tales como la supervisión de las pruebas para el Proyecto de Resistencia a [[Zapador\|Zapadores]].
-
-## Recursos
-La mayoría de los que sirven aquí son [[Varvax\|varvax]]; por ello, los humanos suelen usar "krell" para referirse a esta especie. Mandan una pequeña flota de naves de combate, así como una estación espacial situada en las proximidades de Detritus. La estación sirve como centro de mando KRELL, centro de control de sus cazas y puesto de observación desde el que vigilan el planeta. A pesar de sus muchas funciones, la estación KRELL es más pequeña que las naves militares más pesadas de la Supremacía.
-La inmensa mayoría de las fuerzas KRELL pilotan drones teledirigidos, aunque poseen varias naves tripuladas, apodadas "ases" por la FDD. También cuentan con algunas [[Aniquiladora\|aniquiladoras]], armas especiales diseñadas para mantener a raya a Detritus, o acabar con su población si es necesario. Además, pueden llamar a algunos acorazados más grandes, que son mucho más formidables que los cazas. Los vehículos KRELL se reconocen por el nombre de la fuerza que llevan grabado en los laterales y por la capa de pintura negra.
-
-## Curiosidades
-El nombre "Krell" es un homenaje a **, una de las películas favoritas de Brandon. También ha aparecido en el [[Cosmere\|Cosmere]]; allí, los [[Krell (Cosmere)\|krell]] son animales herbívoros nativos de [[Primero del Sol\|Primero del Sol]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · |
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+1 Function. [[#Function]] 
+2 Resources. [[#Resources]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Function
+KRELL's primary task is preventing the human population from leaving their planet. They do so mostly by launching occassional attacks to keep people focused on defending themselves, leaving them no breathing room for researching means of escape or recovering any advanced technology. KRELL is, however, forbidden from outright destroying humanity, as Superiority laws prohibits a species from being completely wiped out.
+This being said, recently this rule appears to no longer be in effect, as KRELL have begun to act more aggressively, at least in regards to Detritus. This could be motivated by humans' improved fighting capacity, or political maneuvering of their parent organization, the Department of Protective Services, and its leader, [[Winzik\|Winzik]].
+With how small Superiority's military is, it's likely that KRELL is their largest fighting force. As such, their drone pilots can sometimes be called on to perform other tasks, such as overseeing tests for the [[Delver\|Delver]] Resistance Project.
 
-https://es.coppermind.net/wiki/KRELL
+## Resources
+Most of the people serving in KRELL are [[Varvax\|varvax]]; because of this, humans often use "krell" to refer to the species. They command a small fleet of fighter ships, as well as as a space station positioned in the vicinity of Detritus. The station serves as the KRELL command center, the hub for their fighters, and an observation post from which they monitor the planet. Despite its many functions, KRELL's station is smaller than the Superiority's heavier military ships.
+Vast majority of KRELL forces pilot remotely-controlled drones, although they do possess a number of manned vessels, nicknamed "aces" by the [[DDF\|DDF]]. They also have some [[Lifebuster\|lifebusters]], special weapons designed to keep Detritus in check, or wipe its population out if necessary. They can additionally call on a few larger battleships, which are far more formidable than the fighters. The KRELL vehicles can be recognized by the stenciled name of the force on their sides, as well as a black coat of paint.
+
+## Trivia
+The name "Krell" is an homage to **, one of Brandon's favorite movies. It's also popped up in the [[Cosmere\|cosmere]]; there, [[Krell (cosmere)\|krell]] are herbivorous animals native to [[First of the Sun\|First of the Sun]].
+
+
+https://coppermind.net/wiki/KRELL

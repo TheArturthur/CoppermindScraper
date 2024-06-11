@@ -1,104 +1,98 @@
-
-
-|**Puente Cuatro**|
+|**Bridge Four**|
 |-|-|
 ||
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Juramentada\|Juramentada]]* y *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Puente Cuatro** es el nombre de un grupo encabezado por [[Kaladin Bendito por la Tormenta\|Kaladin Bendito por la Tormenta]], un [[Caballero Radiante\|Caballero Radiante]] alezi de la [[Orden de los Corredores del Viento\|Orden de los Corredores del Viento]]. El grupo era originalmente una de las [[Cuadrilla del puente\|cuadrillas de los puentes]] del campamento de guerra de Sadeas en [[Las Llanuras Quebradas\|las Llanuras Quebradas]] (lo que explica su nombre), pero su función ha evolucionado con el tiempo, convirtiéndose tanto en la guardia de honor de [[Dalinar Kholin\|Dalinar Kholin]] como en una unidad militar dentro de un batallón del ejército Kholin. Más tarde se convirtió en un grupo formado en gran parte por los [[Escudero\|escuderos]] y [[Caballeros Radiantes\|Caballeros Radiantes]] leales a él. A pesar de estos cambios tan drásticos, sus miembros todavía se refieren a sí mismos por su nombre original como cuadrilla de los puentes, e incluso se han quedado con su antiguo puente.
-Su insignia, diseñada por Kaladin, está compuesta por el glifo *vev* (representa el número cuatro) suspendido arriba del glifo *gesheh* (que significa puente), el símbolo está estilizado como si fuera un puente abarcando un abismo.
+**Bridge Four** is the name of a group headed by [[Kaladin Stormblessed\|Kaladin Stormblessed]], an Alethi [[Knight Radiant\|Knight Radiant]] of the [[Order of Windrunners\|Order of Windrunners]]. The group was originally one of the [[Bridge crew\|bridge crews]] of the Sadeas warcamp in the [[Shattered Plains\|Shattered Plains]], hence the name, but its function has evolved over time, becoming both [[Dalinar Kholin\|Dalinar Kholin's]] honor guard as well as a military unit within a battalion of the Kholin army, then later becoming a group largely consisting of Kaladin's [[Squire\|squires]] and [[Knights Radiant\|Knights Radiant]] loyal to him. Despite such drastic changes, the members still refer to themselves by their original bridge crew name, and have even kept their old bridge with them.
+Their insignia, designed by Kaladin, is made up of the glyph *vev* (meaning the number four) suspended above the glyph *gesheh* (meaning bridge), stylized as a bridge spanning a chasm.
 
-Para más imágenes, ver [[Puente Cuatro/Galer%C3%ADa\|/Galería]].
-## Sumario
+For more images, see [[Bridge Four/Gallery\|/Gallery]].
+## Contents
 
-1 Historia. [[#Historia]] 
+1 History. [[#History]] 
 
-1. [[#Cambios provocados por Kaladin]] 
-1. [[#Plan de escape y libertad]] 
-1. [[#Oficiales de batall.C3.B3n]] 
-1. [[#Guardia de honor de Dalinar]] 
-1. [[#Escuderos y Radiantes]] 
-
-
-2 Tatuajes. [[#Tatuajes]] 
-3 Miembros destacados. [[#Miembros destacados]] 
-4 Notas. [[#Notas]] 
+1. [[#Changes under Kaladin]] 
+1. [[#Escape Plan and Freedom]] 
+1. [[#Battalion Officers]] 
+1. [[#Dalinar.27s Honor Guard]] 
+1. [[#Squires and Radiants]] 
 
 
-## Historia
+2 Tattoos. [[#Tattoos]] 
+3 Notable Members. [[#Notable Members]] 
+4 Notes. [[#Notes]] 
+
+
+## History
  
->“*Pero se había equivocado. Sí que podían hacerle algo peor. Un tormento final que el mundo reservaba solo para él.*
-\-Y se llamaba Puente Cuatro.
+>“*It appeared that he'd been wrong. There had been something more they could do to him. One final torment the world had reserved just for Kaladin. And it was called Bridge Four.*”
+\-Kaladin's thoughts after his first Bridge Run[3]
 
 
-Conocido por su mala suerte, el Puente Cuatro de las cuadrillas de puentes de [[Torol Sadeas\|Torol Sadeas]] rara vez mantuvo un jefe de puente durante más de unos pocos días y casi siempre fue el que sufrió las mayores bajas en las carreras de puentes.
-Un castigo común para los [[Hombres de los puentes\|hombres de los puentes]] era una transferencia al Puente Cuatro, y la existencia de un grupo en peor situación que los otros era un control mental utilizado por los hombres de Sadeas en el resto de cuadrillas. Como resultado, los hombres del Puente Cuatro sabían que no se les podía hacer nada peor, y habían perdido toda motivación. Ni siquiera se presentaban entre ellos ni intercambiaban nombres.
-Al llegar a los terrenos de los puentes en el campamento de guerra de Sadeas, [[Kaladin\|Kaladin]] logró ganarse la enemistad inmediata de [[Gaz\|Gaz]], el sargento a cargo de las cuadrillas de los puentes, quien más tarde lo asignó al Puente Cuatro.
+Notorious for its bad luck, Bridge Four of [[Torol Sadeas\|Torol Sadeas']] bridge crews seldom kept a bridgeleader for more than a few days and almost always took the highest casualties on bridge runs.
+A transfer to Bridge Four was often used as a punishment for [[Bridgemen\|bridgemen]], and the existence of a group worse off than themselves was a mental control used by Sadeas' men on the rest of the bridge crews. As a result of this, the bridgemen in Bridge Four knew that nothing worse could be done to them, and put no effort into anything. They didn't tell each other their names or anything else about themselves.
+Upon arrival at the bridge yard in Sadeas' warcamp [[Kaladin\|Kaladin]] managed to earn the immediate enmity of [[Gaz\|Gaz]], the bridge sergeant in charge of the bridge crews, who then placed him in Bridge Four.
 
-  Reunión alrededor de la hoguera
-### Cambios provocados por Kaladin
->“*Cuando alzaron el puente, una espontánea salva de aplausos se alzó de entre las otras cuadrillas.*
-\-Eso es nuevo dijo Teft, a la izquierda de Kaladin.
-Supongo que por fin se han dado cuenta de lo que somos.
-¿Y qué somos?
-Kaladin se cargó el puente sobre los hombros.
-Somos sus campeones. ¡Puente adelante!"
+  Gathering around campfire
+### Changes under Kaladin
+>“*As they hefted their bridge, a spontaneous round of cheering rose up from the other crews. "That's new," ... "Guess they finally realized what we are," Kaladin said. "And what's that?" ... "We're their champions. Bridge forward!"*”
+\-Kaladin to Teft on the marching off for the Battle of the Tower[6]
 
 
-Kaladin, aún sin darse cuenta de sus poderes latentes de [[Corredor del Viento\|Corredor del Viento]], logró sobrevivir a las carreras de los puentes incluso después de varias semanas, y finalmente decidió proteger a otros miembros del Puente Cuatro y convertirse en su líder de puente. Utilizando sus conocimientos médicos y militares, rápidamente provocó grandes cambios en la cuadrilla. Sus esfuerzos por construir una moral de grupo e inculcar disciplina lo llevaron a lograr una mejor organización. Encontró formas de tratar a los miembros de la tripulación heridos, salvando muchas vidas. En poco tiempo, el Puente Cuatro comenzó a tener la menor cantidad de bajas entre las cuadrillas de los puentes. Sin embargo, debido a que Kaladin instruyó a sus hombres para que usaran el puente como escudo, los parshendi decidieron disparar contra los otros puentes, cuyos miembros sufrieron grandes bajas, lo cual desembocó en una pérdida de la batalla, pues el puente de Kaladin fue uno de los únicos que logró llegar al abismo. Posteriormente, Kaladin fue castigado por ello, pero los miembros del Puente Cuatro permanecieron a su lado incluso cuando todo el mundo creía que iba a morir.
+Kaladin, still unaware of his latent powers as a [[Windrunner\|Windrunner]], managed to survive the bridge runs even after several weeks, and eventually decided to protect other members of Bridge Four and become their bridgeleader. Using both his medical and military knowledge, he quickly turned the crew around. His efforts in building morale and instilling discipline led to better organization. He found ways to treat wounded crew members, saving many lives. Soon enough Bridge Four was having the fewest casualties among the bridge crews. However due to Kaladin's selfish tactics in one particular battle, every other bridge crew suffered heavy casualties and the battle was lost due to Kaladin instructing his bridgemen to use their bridge as a shield. The other bridges were shot at more by the Parshendi. Kaladin's bridge was one of the only ones that made it to the chasm. Kaladin was punished but Bridge Four remained by his side even upon his near death.
 
-### Plan de escape y libertad
-  Entrenando con Kaladin en los abismos
-A pesar de sus enormes logros, el trato de los oficiales [[Ojos claros\|ojos claros]] del campamento de guerra hacia el Puente Cuatro no mejoró y, de hecho, incluso fue a peor. Así, Kaladin comenzó a pensar en escapar, no solo por su propio beneficio, sino por el del resto del equipo.
-Después de una preparación cuidadosa y prolongada (que implicó entrenar a los hombres del Puente Cuatro para luchar), y tras obtener los recursos necesarios, justo cuando tuvieron la oportunidad de poner en marcha su plan de escape, Kaladin y el Puente Cuatro se vieron envueltos en la política alezi inesperadamente, cuando el alto príncipe [[Torol Sadeas\|Torol Sadeas]] traicionó a [[Dalinar Kholin\|Dalinar Kholin]] durante la [[Batalla de la Torre\|Batalla de la Torre]], dejando a este último en inferioridad numérica frente al ejército parshendi contra el que luchaban. Al formar parte del ejército de Sadeas, el Puente Cuatro fue testigo de la traición.
-A pesar de que no tenía ninguna lealtad hacia Dalinar, Kaladin decidió rescatar al alto príncipe y su ejército, sacrificando así su oportunidad de escapar.
-Por esta razón, Dalinar decidió entregarle su [[Espada esquirlada\|espada esquirlada]], [[Juramentada (hoja esquirlada)\|Juramentada]], a Sadeas a cambio de la libertad de cada uno de los hombres de los puentes de su campamento de guerra. Posteriormente, los miembros del Puente Cuatro se convirtieron en la nueva guardia de honor de Dalinar, y Kaladin fue nombrado capitán a cargo tanto de la guardia de honor como de un nuevo batallón formado por los antiguos hombres de los puentes.
+### Escape Plan and Freedom
+  Training with Kaladin in the chasms
+Despite their huge gains, the treatment of the warcamp's [[Lighteyes\|lighteyed]] officers towards Bridge Four did not improve, and in fact even worsened. Kaladin started thinking of escape, not just for himself, but for the rest of the crew.
+After careful and lengthy preparation that involved training the bridgemen to fight and obtaining necessary resources, and just when they found an opportunity to set their escape plan into motion, Kaladin and Bridge Four found themselves unexpectedly thrust into Alethi politics when their highprince [[Torol Sadeas\|Torol Sadeas]] betrayed [[Dalinar Kholin\|Dalinar Kholin]] during the [[Battle of the Tower\|Battle of the Tower]], leaving the latter outnumbered by the Parshendi army they were battling. Being a part of the Sadeas army, Bridge Four witnessed the betrayal.
+Despite not having any allegiance to Dalinar, and sacrificing their opportunity to escape, Kaladin chose to rescue the highprince and his army.
+For this, Dalinar gave Sadeas [[Oathbringer (Shardblade)\|Oathbringer]], his [[Shardblade\|Shardblade]], in exchange of the freedom of every single bridgeman in Sadeas' warcamp. Afterwards, the members of Bridge Four became Dalinar's new honor guard, and Kaladin was appointed captain in charge of both the honor guard and a new battalion consisting of the former bridgemen.
 
-  Puente Cuatro
-### Oficiales de batallón
-Como capitán, Kaladin reclutó a varios miembros del Puente Cuatro para que se convirtieran en oficiales del nuevo batallón:
+  Bridge Four
+### Battalion Officers
+As captain, Kaladin assigned several Bridge Four members to become officers of the new battalion:
 
-[[Roca\|Roca]] - teniente e intendente, a cargo de la comida del batallón.
-[[Lopen\|Lopen]] - teniente segundo de Roca.
-[[Teft\|Teft]] - teniente a cargo de la formación.
-[[Sigzil\|Sigzil]] - teniente y secretario.
-[[Cikatriz\|Cikatriz]] - teniente.
-[[Moash\|Moash]] (antiguamente) - teniente
-A Cikatriz y a Moash se les asignó la tarea de centrarse en las tareas de guardaespaldas del Puente Cuatro.
+[[Rock\|Rock]] - lieutenant and quartermaster, in charge of food for the battalion
+[[Lopen\|Lopen]] - second lieutenant to Rock
+[[Teft\|Teft]] - lieutenant in charge of training
+[[Sigzil\|Sigzil]] - lieutenant and clerk
+[[Skar\|Skar]] - lieutenant
+[[Moash\|Moash]] (former) - lieutenant
+Skar and Moash were both tasked to focus on Bridge Four's bodyguard duties.
 
-### Guardia de honor de Dalinar
-  Defendiendo a Dalinar de Szeth
-Como guardaespaldas personales del alto príncipe Dalinar, el Puente Cuatro custodiaba tanto al alto príncipe como a su familia. Dalinar era su máxima prioridad, ya que Kaladin creía que el alto príncipe era su única garantía de libertad. Por ello, creó una táctica que consistía en tener siempre un equipo (que si no podía estar dirigido por el propio Kaladin, lo estaba por un teniente del Puente Cuatro) que se encargase de vigilar al alto príncipe en todo momento, mientras que el resto de miembros del Puente Cuatro protegía a sus hijos o realizaba otras responsabilidades como miembros del batallón de Kaladin.
-Inicialmente, los miembros del Puente Cuatro obtuvieron uniformes de la [[Guardia de Cobalto\|Guardia de Cobalto]] pero rechazaron la idea de formar parte de ese grupo; incluso mutilaron sus uniformes, cortando la insignia de la Guardia de Cobalto, que luego fue reemplazada por la propia insignia del Puente Cuatro.
+### Dalinar's Honor Guard
+  Defending Dalinar from Szeth
+As Highprince Dalinar's personal bodyguards, Bridge Four guarded both the Highprince and his family. Dalinar was their top priority, as Kaladin believed that the highprince was their only guarantee of freedom. He made it a policy to always have a team, led by a Bridge Four lieutenant if not Kaladin himself, watching the highprince at all times, while the rest of Bridge Four guarded his sons or carried out other responsibilities as members of Kaladin's battalion.
+Initially they were given [[Cobalt Guard\|Cobalt Guard]] uniforms, but they rejected the idea of being part of that group. They even mutilated their uniforms, cutting off the Cobalt Guard insignia, which was later replaced by Bridge Four's own insignia.
 
-### Escuderos y Radiantes
-Los miembros del Puente Cuatro comenzaron a convertirse en [[Escudero\|escuderos]] de Kaladin poco después de que él pronunciase el [[/wiki/Orden de los Corredores del Viento#Tercer Ideal]]. Esto les dio acceso a la [[Luz tormentosa\|luz tormentosa]] y los [[Enlace\|enlaces]] (Potencias de [[Adhesi%C3%B3n\|Adhesión]] y [[Gravitaci%C3%B3n\|Gravitación]]). Debido a esto, Dalinar los consideró demasiado importantes para el servicio de guardia, por lo que se asignó dicho trabajo a otros hombres de los puentes en su lugar.
-A partir de entonces, el Puente Cuatro se centró más en entrenar sus habilidades, en reclutar potenciales escuderos y en realizar tareas más cruciales para Dalinar. No obstante, sus habilidades desaparecían cada vez que Kaladin estaba demasiado lejos, por lo que Dalinar les dio la [[Hoja de Honor\|hoja de Honor]] de los Corredores del Viento para que la usasen para entrenar en dicha situación.
-Más adelante, [[Teft\|Teft]] y [[Lopen\|Lopen]] se vincularon con dos honorspren para convertirse en Caballeros Radiantes. Es posible que otros miembros del Puente Cuatro ya hubieran hecho lo mismo.
-Teft, quien también alcanzó el Tercer Ideal, recibió escuderos propios de otra cuadrilla de los puentes, el Puente Trece.
+### Squires and Radiants
+Members of Bridge Four started becoming Kaladin's [[Squire\|squires]] soon after he spoke the [[/wiki/Order of Windrunners#Third Ideal]]. This gave them access to [[Stormlight\|Stormlight]] and the [[Lashing\|Lashings]] (Surges of [[Adhesion\|Adhesion]] and [[Gravitation\|Gravitation]]). Because of this Dalinar considered them too important for guard duty, so that was given to other bridge crews instead.
+From then on Bridge Four focused more on training their Surgebinding abilities, recruiting potential squires, and performing more crucial assignments for Dalinar. Their abilities disappeared whenever Kaladin was too far away, so Dalinar gave them the Windrunner [[Honorblade\|Honorblade]] to use for training in such cases.
+At some point, [[Teft\|Teft]] and [[Lopen\|Lopen]] bonded honorspren to become Knights Radiant. Other Bridge Four members may have already done the same.
+Teft, who reached the Third Ideal as well, received squires of his own from another bridge crew, namely Bridge Thirteen.
 
-## Tatuajes
-  Tatuajes del Puente Cuatro
-Los miembros supervivientes que han estado en el Puente Cuatro desde los días de las carreras de los puentes tienen los [[Glifo\|glifos]] de "Libertad" y "Puente Cuatro" tatuados en su cuerpo. El glifo "Libertad" suele ser la marca de un esclavo liberado.
+## Tattoos
+  Bridge Four Tattoos
+Surviving members who've been in Bridge Four since the bridge crew days have [[Glyph\|glyphs]] for "Freedom" and "Bridge Four" tattooed on their person. The "Freedom" glyph is usually a mark of a freed slave.
 
-  La parte del glifo que significa "Puente Cuatro"
-En la sociedad alezi, los esclavos a menudo son marcados con un símbolo de esclavitud en la frente para que su condición sea evidente. Un esclavo liberado recibe una orden de libertad, pero también podría cubrir su marca de esclavo con un tatuaje que indique detalles de su libertad para evitar posibles malentendidos.
-Poco después de mudarse al campamento de guerra de Dalinar, Kaladin contrató a una tatuadora para que les hiciera el tatuaje de libertad a los miembros del Puente Cuatro que habían sido esclavos. El primero en conseguirlo, [[Hobber\|Hobber]], insistió en añadirle al tatuaje los glifos del "Puente Cuatro", como una declaración de lealtad y gratitud hacia este. El resto de los ex esclavos decidieron imitarle. Como gesto de solidaridad, incluso aquellos que no tenían la marca de esclavos también solicitaron el mismo tatuaje, aunque [[Moash\|Moash]] optó por colocarse el tatuaje en el hombro izquierdo en lugar de en la frente.
-De algún modo, la tinta sigue derritiéndose de la frente de Kaladin cuando le toca ser tatuado. Se cree que esto se debe al Aspecto Espiritual de la Identidad. Como Kaladin percibe las cicatrices como parte de su Identidad, la Investidura de la luz tormentosa invierte el cambio. Tras pronunciar el Cuarto Ideal, el padre de Kaladin se da cuenta de que sus cicatrices se desprenden como costras, dejando tras de sí una piel limpia y lisa.
+  The portion of the glyph meaning "Bridge Four"
+In Alethi society, slaves are often branded with a mark of slavery on their forehead to make their status apparent to anyone who sees them. A freed slave is given a writ of freedom, but he could also cover his slave brand with a tattoo indicating details of his freedom in order to lessen potential misunderstandings.
+Shortly after moving to Dalinar's warcamp, Kaladin hires a tattooist to give a Freedom tattoo to those Bridge Four members who'd been slaves. The first one to get it, [[Hobber\|Hobber]], insists on having glyphs for "Bridge Four" added to the tattoo as well, as a statement of loyalty and gratitude towards Bridge Four. The rest of the former slaves copy him. As a gesture of solidarity, even those who didn't have the slave brand request for the same tattoo as well, although [[Moash\|Moash]] opts to have the tattoo placed on his left shoulder instead of his forehead.
+Somehow the ink keeps on melting away from Kaladin's forehead when it is his turn to be tattooed. It is believed that this is because of the Spiritual Aspect of Identity. Because Kaladin perceives the scars to be part of his identity the Investiture from the Stormlight reverses the change. After speaking the Fourth Ideal, Kaladin's father notices that his scars are falling off as scabs, leaving clean smooth skin behind.
 
-## Miembros destacados
+## Notable Members
  
-Para una lista de los miembros, ver Category:Bridge Four.
+For a full list of members, see Category:Bridge Four.
 
-[[Kaladin\|Kaladin]] (capitán)
-[[Lunamor\|Lunamor]] (teniente; a.k.a Roca)
-[[Moash\|Moash]] (teniente; antiguamente—traidor)
-[[Teft\|Teft]] (teniente - fallecido)
-[[Cikatriz\|Cikatriz]] (teniente)
-[[Sigzil\|Sigzil]] (teniente)
+[[Kaladin\|Kaladin]] (captain)
+[[Lunamor\|Lunamor]] (lieutenant; a.k.a Rock)
+[[Moash\|Moash]] (lieutenant; former—traitor)
+[[Teft\|Teft]] (lieutenant—deceased)
+[[Skar\|Skar]] (lieutenant)
+[[Sigzil\|Sigzil]] (lieutenant)
 [[Dabbid\|Dabbid]]
 [[Drehy\|Drehy]]
 [[Hobber\|Hobber]]
@@ -108,23 +102,6 @@ Para una lista de los miembros, ver Category:Bridge Four.
 [[Lyn\|Lyn]] (post-Sadeas)
 [[Renarin Kholin\|Renarin Kholin]] (post-Sadeas)
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**| · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
 
 
-
-https://es.coppermind.net/wiki/Bridge_Four
+https://coppermind.net/wiki/Bridge_Four

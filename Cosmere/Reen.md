@@ -1,62 +1,39 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Reen**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Madre de Vin\|Madre]]|
-|**Hermanos**|[[Vin\|Vin]], [[Hermana de Vin\|hermana pequeña]]|
-|**Fallecido**||
-|**Grupo**|[[Banda de Camon\|Banda de Camon]]|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Parents**|[[Vin's mother\|Mother]]|
+|**Siblings**|[[Vin\|Vin]], [[Vin's sister\|sister]]|
+|**Died**||
+|**Groups**|[[Camon's crew\|Camon's crew]]|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Cuando estás sola, nadie puede traicionarte.*”
+>“*When you're alone, no one can betray you.*”
 \-Reen
 
 
-**Reen** es un huérfano [[Skaa\|skaa]] de [[Luthadel\|Luthadel]] en [[Scadrial\|Scadrial]]. Vivía con su hermanastra [[Vin\|Vin]], su [[Madre de Vin\|madre]] y la [[Hermana de Vin\|hermana de Vin]] hasta que descubrió que esta última había sido asesinada por su madre. Los dos vivieron en las calles y trabajaron en los bajos fondos, hasta que con el tiempo entraron a trabajar en la [[Banda de Camon\|banda de Camon]].
+**Reen** is a [[Skaa\|skaa]] orphan from [[Luthadel\|Luthadel]] on [[Scadrial\|Scadrial]]. He lived with his half sister [[Vin\|Vin]], his [[Vin's mother\|mother]] and [[Vin's sister\|Vin's sister]] until he discovered that Vin's sister had been murdered by their mother. The two lived on the streets and worked in the underground, until eventually coming to work in [[Camon\|Camon's]] [[Camon's crew\|crew]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Citas. [[#Citas]] 
-4 Notas. [[#Notas]] 
-
-
-## Apariencia y personalidad
-Sin embargo, no se sabe mucho sobre el aspecto de Reen; es un individuo brutal, que a menudo golpea a Vin sin motivo alguno, aunque él afirma que es para endurecerla. No confía en nadie, y no duda en inculcar esta idea también a [[Vin\|Vin]]. Aunque es frecuentemente violento y duro con Vin, se preocupa por ella, ya que la salvó de su madre, y la protegió de ser encontrada por los [[Obligador\|obligadores]].
-
-## Historia
-Era medio hermano de [[Vin\|Vin]] y la cuidó en su infancia. La crió para que desconfiara de todo y no se fiara de nadie, incluido él mismo, afirmando siempre que al final la traicionaría. Más tarde, fue capturado por los [[Inquisidor de acero\|inquisidores de acero]], pero nunca reveló la existencia de Vin; a pesar de ser torturado día y noche, insistió en que ella había muerto de hambre hacía años.
-Reen y Vin vivían originalmente con su madre, que era la progenitora que ambos compartían. Tras la muerte de la hermana de Vin a manos de su madre, Reen se marchó con ella para ganarse la vida en los bajos fondos skaa. La pareja viajó con diferentes bandas por varios pueblos y ciudades del Dominio Central. Cuando Reen dejó a Vin, estaban sirviendo en la banda de [[Camon\|Camon]] en [[Luthadel\|Luthadel]]. Camon afirmaba que Reen le debía una gran suma de dinero, aunque se desconoce el motivo de ello.
-A lo largo de su vida, Vin estuvo atormentada por la voz de Reen, que le aconsejaba no confiar en nadie. Aunque muchas veces, simplemente recordaba la constante advertencia de Reen sobre confiar en los demás. Durante el [[Asedio de Ciudad Fadrex\|Asedio de Ciudad Fadrex]], Vin descubre, a través de una conversación con la propia Esquirla, que [[Ruina\|Ruina]] era la responsable de los frecuentes "susurros" en su cabeza con la voz de Reen. Ruina lo consiguió hablando con ella a través de su [[Pendiente de Vin\|pendiente]] cargado [[Hemalurgia\|hemalúrgicamente]].
-
-## Citas
-Para más citas, ver [[Reen/Citas\|/Citas]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Quotes. [[#Quotes]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+Not much is known about Reen's appearance, however; Reen is a brutal individual, who often beats Vin for little or no reason, though he claims it is to toughen her up. He trusts no one, and is not hesitant about drilling this idea into [[Vin\|Vin]] as well. Though Reen is frequently violent and harsh toward Vin, he does care, as he saved her from their mother, and protected her from being found by the [[Obligator\|Obligators]].
 
-https://es.coppermind.net/wiki/Reen
+## History
+He was half brother to [[Vin\|Vin]] and looked after her in their childhood. He raised Vin to be wary of everything and trust no one, including himself, always claiming that he would betray her in the end. Later, he was captured by the [[Steel Inquisitor\|Steel Inquisitors]], but he never revealed Vin's existence; despite being tortured day and night, he insisted that she had starved to death years ago.
+Reen and Vin originally lived with their mother, who was the parent they both shared. After the death of Vin's sister by her mother's hands, Reen left with Vin to earn a living in the skaa underground. The pair traveled with different crews around various towns and cities in the central dominance. When Reen left Vin, they were serving in [[Camon\|Camon's]] crew in [[Luthadel\|Luthadel]]. Camon claimed that Reen owed him a large sum of money, though the reason behind this is unknown.
+Throughout her life Vin was plagued by Reen's voice, which advised her against trusting in anyone. Although many times, she simply would remember Reen's constant warning about trusting others. During the [[Siege of Fadrex City\|Siege of Fadrex City]], Vin discovers, through a conversation with the Shard himself, that [[Ruin\|Ruin]] was responsible for the frequent "whispers" in her head from Reen's voice. Ruin accomplished this by speaking to her via her [[Hemalurgy\|Hemalurgically]] charged [[Vin's earring\|earring]].
+
+## Quotes
+For more quotes, see [[Reen/Quotes\|/Quotes]].
+
+
+https://coppermind.net/wiki/Reen

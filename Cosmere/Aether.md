@@ -1,132 +1,112 @@
-
-
-|**Éter**|
+|**Aether**|
 |-|-|
-|**Tipo**|*Desconocido*|
-|**Mundo de origen**|🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|*Unknown*|
+|**World of Origin**|[[Dhatri\|Dhatri]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]* y *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Eso es lo que se llama un éter. Una entidad antigua, previa a la creación de tu mundo. AlmaDoble puede hacerlo crecer y manipularlo. ¿Querrías saber más?*”
-\-Luzdeluna a Marasi[1]
+>“*It's called an aether. An ancient entity predating the creation of your world. TwinSoul can grow it, manipulate it. Would you like to know more?*”
+\-Moonlight to Marasi[1]
 
 
-Los éteres son una antigua variedad de entidades [[Investidura\|investidas]] presentes en el [[Cosmere\|Cosmere]]. Se originan en un planeta no desvelado donde residen los doce éteres primigenios, aunque desde entonces los éteres se han extendido a otros mundos del Cosmere. Los que están [[V%C3%ADnculo Luhel\|vinculados]] a uno de los doce éteres primigenios y son capaces de manifestar ese éter se conocen como "etervínculos". Han existido desde antes de la Fragmentación de Adonalsium, y algunos creen que son incluso anteriores a él o que son totalmente independientes de sus creaciones.
-Todas las formas de éter parecen morir a causa de la plata y la sal, volviéndose grises y perdiendo su reactividad cuando la tocan. La sustancia que producen al expandirse también se vuelve gris y muere al entrar en contacto con la plata.
-En [[Lumar\|Lumar]], la sustancia asociada puede seguir creciendo si se le añade más humedad, hasta llegar al máximo. Se desconoce si esa propiedad se aplica a las sustancias manifestadas de los etervínculos. Mientras crece, el germinador puede darle forma utilizando [[Hierro\|hierro]] para acercar el material y [[Acero\|acero]] para alejarlo.
+Aethers are an ancient variety of [[Investiture\|Invested]] entities present in the [[Cosmere\|cosmere]]. They originate on an unrevealed planet where the twelve primal aethers reside, although the aethers have since spread to other worlds of the cosmere. Those who are [[Luhel bond\|bonded]] to one of the twelve primal aethers and are able to manifest that aether are known as **aetherbound**. Aethers have existed since prior to the Shattering of Adonalsium, and some believe that they predate Adonalsium itself or are totally independent from its creations.
+All forms of aether seem to be killed by silver and salt, turning grey and losing their reactivity when they touch it. The substance they produce upon expanding also grows grey and dies when coming into contact with silver.
+On [[Lumar\|Lumar]] the associated substance can continue growing if more moisture is added, until it maxes out. It is unknown if that property applies to aetherbound manifested substances. While growing in such a manner, a sprouter is able to shape it by using [[Iron\|iron]] to pull the material closer, and [[Steel\|steel]] to push it away.
 
-## Sumario
+## Contents
 
-1 Cultura y mitología. [[#Cultura y mitolog.C3.ADa]] 
-2 Éteres primordiales. [[#.C3.89teres primordiales]] 
+1 Culture and Mythology. [[#Culture and Mythology]] 
+2 Primal Aethers. [[#Primal Aethers]] 
 
 2. [[#Silajana]] 
 
 
-3 Etervículos. [[#Eterv.C3.ADculos]] 
-4 Variedades de éter. [[#Variedades de .C3.A9ter]] 
+3 Aetherbound. [[#Aetherbound]] 
+4 Varieties of Aether. [[#Varieties of Aether]] 
 
-4. [[#Rosa.C3.ADta]] 
-4. [[#C.C3.A9firo]] 
-4. [[#Esporas]] 
-4. [[#.C3.89ter oscuro]] 
-
-
-5 Éteres de Lumar. [[#.C3.89teres de Lumar]] 
-6 Historia. [[#Historia]] 
-7 Etervínculos conocidos. [[#Eterv.C3.ADnculos conocidos]] 
-8 Curiosidades. [[#Curiosidades]] 
-9 Notas. [[#Notas]] 
+4. [[#Roseite]] 
+4. [[#Zephyr]] 
+4. [[#Spores]] 
+4. [[#Dark aether]] 
 
 
-## Cultura y mitología
->“*Silajana me exige que os lo advierta. Se os concedió este renacimiento para bendecir, alentar e impulsar a quienes os rodean. Vuestros actos demuestran que ese don fue en vano. Si hoy quedáis destruidos al oponeros a mi defensa de estos inocentes, será porque rechazáis esa magnífica bendición, y quizá no se os vuelva a conceder el renacimiento hasta dentro de muchos siglos. Rendid las armas y abridnos paso o sufriréis mi ira.*”
-\-Prasanva a los miembros de el Grupo[2]
+5 Lumar aethers. [[#Lumar aethers]] 
+6 History. [[#History]] 
+7 Known Aetherbound. [[#Known Aetherbound]] 
+8 Trivia. [[#Trivia]] 
+9 Notes. [[#Notes]] 
 
 
-Los habitantes del planeta con éteres primordiales sostienen como principio sagrado que los éteres son anteriores a Adonalsium e independientes de sus creaciones. Los propios éteres creen en que de forma colectiva forman un igual a Adonalsium. 
-Estos pueblos veneran a los éteres. Creen que hicieron a todas las personas, creándolas para que piensen de forma diferente unas de otras. También creen que los humanos fueron dotados de renacimiento por los éteres para animar, bendecir y elevar a sus semejantes. Los que siguen a los éteres también sostienen que la gente vuelve a los éteres al morir para reflexionar sobre sus elecciones en la vida. Se cree que las personas que han tomado malas decisiones están condenadas a esperar mucho tiempo hasta su próximo renacimiento. A menudo juran con frases como "por el primer éter".
-En [[Lumar\|Lumar]], es una práctica utilizar balas de cañón llenas de agua, con el fin de causar más daño a los barcos enemigos a través de la violenta expansión de la sustancia asociada.
+## Culture and Mythology
+>“*Silajana demands that I warn you, you have been given this rebirth to bless, encourage, and uplift those around you. By your actions here, you prove this gift wasted. If you are destroyed today by resisting my defense of these innocents, you reject your great blessing—and may not be given rebirth again for many, many centuries. Lay down your weapons and let us pass, or suffer my wrath.*”
+\-Prasanva to the members of the Set[2]
 
-## Éteres primordiales
->“*Silajana es uno de los éteres primordiales. Son anteriores a Adonalsium, ¿sabéis?, y existen al margen de su poder.*”
-\-Prasanva a Marasi[5]
 
-Los **éteres primordiales** son un grupo de doce éteres sapientes que existen en [[Dhatri\|Dhatri]]. Son venerados en ese planeta y conceden a los siervos mortales un brote de su núcleo, convirtiéndolos en etervínculos. Sólo se conoce uno de estos éteres primordiales, [[Silajana\|Silajana]], el éter primordial de rosaíta.
-Se da a entender que [[Suna\|Suna]] y [[Vishwadhar\|Vishwadhar]] son otros dos éteres primordiales, son referenciados junto con Silajana por AlmaDoble 
-Se sabe que son antiguos y muy poderosos, no comparables a los [[Esquirlas\|Esquirlas]], pero aún más allá de la fuerza de la mayoría de las entidades que no son esquirlas en el Cosmere. Aunque personalmente se creen iguales en fuerza al propio Adonalsium.
+The people of the planet with primal aethers hold it as a sacred tenet that the aethers predate Adonalsium and are independent of its creations. The aethers themselves believe collectively they are the equals of Adonalsium.
+Aethers are revered by these people. They believe that aethers made all people, creating them to each think differently from one another. They also believe humans were gifted with rebirth by the aethers to encourage, bless, and uplift their fellow people. Those that follow the aethers also hold that people return to the aethers upon their deaths to reflect upon their choices in life. It is believed that people who have made poor choices are cursed to wait a long time until their next rebirth. They often swear with phrases such as "by the first aether".
+On [[Lumar\|Lumar]], it is a practice to use cannonballs filled with water, in order to cause further damage to enemy ships through the violent expansion of the associated substance.
+
+## Primal Aethers
+>“*Both less and more than a god. Silajana is one of the primal aethers. They predate Adonalsium, you know, and exist outside of his power.*”
+\-Prasanva to Marasi[5]
+
+The **primal aethers** are a group of twelve sapient aethers that exist on [[Dhatri\|Dhatri]]. They are revered on that planet and grant mortal servants a bud of their core, making them into aetherbound. Only one of these primal aethers is known, this being [[Silajana\|Silajana]], the roseite primal aether.
+[[Suna\|Suna]] and [[Vishwadhar\|Vishwadhar]] may be two other primal aethers, they are referenced along with Silajana by TwinSoul.
+They are known to be ancient and very powerful, not comparable to [[Shards\|Shards]], but still beyond the strength of most non-shard entities in the cosmere. Though they personally believe themselves to be equals in strength to Adonalsium itself.
 
 ### Silajana
-**[[Silajana\|Silajana]]** es el éter primordial de rosaíta, vinculado a [[Prasanva\|Prasanva]] entre otros. Se sabe poco de Silajana, aunque apoyó a los [[Sangre Espectral\|Sangre Espectral]] y su trabajo en Scadrial contra [[Trell\|Trell]]. Envió a Prasanva al exilio, lejos de Dhatri, y no le permitió regresar y arriesgarse a otro exterminio. La misión de Prasanva en Scadrial era reunir aliados y recursos.
+**[[Silajana\|Silajana]]** is the roseite primal aether, bonded to [[Prasanva\|Prasanva]] among others. Little is known of Silajana, although he was supportive of the [[Ghostbloods\|Ghostbloods]] and their work done on Scadrial countering [[Trell\|Trell]]. He has sent Prasanva into exile, away from Dhatri, and would not allow him to return and risk another extermination. Prasanva's mission on to Scadrial was to gather allies and resources.
 
-## Etervículos
->“*Este brote me conecta con Silajana, y por medio de él con todos sus otros etervínculos. Él es el núcleo, nosotros su red. Él es eterno, nosotros sus agentes mortales en el Cosmere.*”
-\-Prasanva sobre los etervínculos[5]
+## Aetherbound
+>“*This bud connects me to Silajana and through him to all of his other aetherbound. He is the core, and we his web. He is eternal, and we his mortal agents in the cosmere.*”
+\-Prasanva on the aetherbound[5]
 
-Los **etervínculos** son los servidores investidos de los éteres primordiales. Están conectados a uno de los doce éteres y se les concede un brote del núcleo de ese éter. El brote aparece, al menos a veces, como un cambio físico en el cuerpo de la persona que se corresponde con el éter al que se ha [[V%C3%ADnculo Luhel\|vinculado]]. A diferencia de otros vínculos, como el que hay entre spren y Radiante, cada etervínculo no está Conectado a su propio éter individual. En cambio, todos están vinculados al mismo éter primordial; por ejemplo, todos los etervínculos de rosaíta tienen un brote de Silajana.
-Un etervínculo puede hacer crecer y manipular ese mismo tipo de éter desde sus cuerpos. Son capaces de controlar el tamaño, la forma y el comportamiento de los éteres que producen, dentro de ciertas limitaciones. Este proceso requiere agua extraída del cuerpo del etervínculo para facilitar el crecimiento del éter. Cuanto mayor sea la masa, más agua se necesitará. Esto parece estar relacionado con la forma en que las esporas de éter se expanden violentamente al interactuar con el agua. Los efectos de deshidratación causados por los éteres pueden ser rápidamente revertidos si el etervínculo bebe más agua.
-La manipulación de éteres por parte de los etervínculos está limitada principalmente por el tamaño del éter y su capacidad para visualizar claramente lo que quieren producir. Se necesita habilidad y talento para producir mecanismos complejos, como la fabricación de una pistola funcional de rosaíta.
-Cuando un éter se manifiesta en el Reino Físico, sólo puede persistir si está presente en determinados campos de Investidura. Si estos campos no están presentes, el éter dependerá del contacto físico con el cuerpo del etervínculo para mantenerse. Sin ese contacto, el éter se degradará y acabará desapareciendo. También pueden establecerse fuentes externas de Investidura más localizadas para que el éter se alimente de ellas, lo que permitirá que el éter persista sin contacto físico con un etervínculo. En lugar de depender del agua como combustible, la Investidura pura puede sustituir al agua, lo que permite a un etervínculo realizar hazañas más espectaculares de lo que normalmente sería posible. También están siempre en contacto con el éter primordial que les concedió su brote. Los éteres primordiales son capaces de hablar a las mentes de sus etervínculos, ofreciéndoles sabiduría, ánimo y conocimiento. Además, el éter primordial puede ser capaz de percibir las zonas en las que está presente su éter. Por ejemplo, un etervínculo de rosaíta puede hacer crecer su éter por encima de una pared y el éter primordial puede describirle lo que hay al otro lado.
-Se sabe poco sobre las capacidades de los etervínculos que no son de rosaíta. Hay doce tipos de éter primordial, y presumiblemente doce variedades correspondientes de etervínculo.  Hay que ser un etervínculo para producir nuevo éter, así que los trozos físicos de éter no son especialmente útiles para nadie más.  Ni siquiera los estudiosos del Cosmere, como los de [[Luzdeplata\|Luzdeplata]], comprenden aún cómo controlarlos.
+**Aetherbound** are the Invested servants of the primal aethers. They are Connected to one of the twelve aethers and granted a bud of that aether’s core. The bud at least sometimes appears as a physical change to the body of the person that corresponds with the aether they have [[Luhel bond\|bonded]]. Unlike other bonds like between spren and Radiant, each aetherbound is not Connected to their own individual aether. Instead they are all bound to the same primal aether; for instance all roseite aetherbound have a bud from Silajana.
+An aetherbound can grow and manipulate that same type of aether from their bodies. They are capable of controlling the size, shape, and behavior of the aethers they produce, within certain constraints. This process requires water drawn from the aetherbound's body to facilitate the growth of the aether. The larger the mass, the more water will be required. This seems to be connected to the manner in which aether spores violently expand upon interaction with water. The effects of dehydration caused by aethers can be quickly reversed if the aetherbound drinks more water.
+The manipulation of aethers by the aetherbound is mostly constrained by the size of the aether and their ability to visualize clearly what they want to produce. It takes skill and talent to produce complex mechanisms, such as producing a functional gun out of roseite.
+When an aether is manifested in the Physical Realm, it can only persist if it is present in certain fields of Investiture. If these fields are not present, the aether will be dependent on physical contact with the aetherbound’s body to sustain itself. Without that contact, the aether will degrade and eventually vanish. More localized external sources of Investiture can also be set up for the aether to feed upon instead, which will allow the aether to persist without physical contact with an aetherbound. Rather than relying on water for fuel, pure Investiture can be substituted for water, allowing an aetherbound to perform more dramatic feats than would be normally possible. They are also always in contact with the primal aether that granted them their bud. The primal aethers are able to speak into the minds of their aetherbound, offering wisdom, encouragement, and knowledge. Additionally, the primal aether may be able to perceive areas where their aether is present. For instance a roseite aetherbound might grow their aether over a wall and the primal aether could describe to them what is present on the other side.
+Little is known about the abilities of non-roseite aetherbound. There are twelve types of primal aether, and presumably twelve corresponding varieties of aetherbound. One must be an aetherbound to produce new aether, so physical pieces of aether are not particularly useful to anyone else. Even cosmere scholars such as those in [[Silverlight\|Silverlight]] do not yet understand how to control them.
 
-## Variedades de éter
-### Rosaíta
-El éter de rosaíta se manifiesta en forma de cristales de color rosa rojizo, similares al cuarzo rosa. Por lo general, los cristales tienen superficies lisas que ocasionalmente se ven estropeadas por pequeñas picaduras. Los etervínculos que están vinculados a Silajana, la fuente del éter de rosaíta, poseen un brote que sustituye una parte de la piel y el músculo de la palma de la mano por este elemento, dejando los huesos de la mano visibles bajo ella. Cuando el éter de rosaíta deja de ser mantenido por un etervínculo, se convierte en un polvo fino de color rosa, que con el tiempo se transforma en una bruma de color rosa. Los etervínculos que son capaces de controlar la rosaíta tienen un fino control sobre varios de sus atributos, incluyendo su coloración general y su claridad. No se ha demostrado que sean capaces de fabricar rosaíta de cualquier color, pero pueden controlar la tonalidad de esta, eligiendo si parece más roja o rosa y si es transparente u opaca.
-La rosaíta es un material útil para varios fines. Es un material fuerte, resistente a los disparos, aunque las balas la astillan cuando impactan contra ella. Es útil para crear objetos o herramientas que dependen de la fuerza o la estructura que proporciona el cristal. Se pueden crear fácilmente herramientas sencillas, como una pluma estilográfica en el dedo índice del etervínculo, un pequeño cuchillo, un puntero o un vaso de agua, así como armas como una maza y otras estructuras pequeñas como sillas y escaleras. Como ocurre con todos los éteres, su máxima utilidad potencial está directamente relacionada con la creatividad, la habilidad y la comprensión de la persona que manifiesta la rosaíta. Una persona con conocimientos puede convertir un mapa en una maqueta de una ciudad hecha de rosaíta, o crear una pistola de rosaíta funcional si puede visualizar los mecanismos. Los etervínculos ancianos o los que tienen dificultades para mantenerse en pie pueden utilizar el éter para ayudarles en su estabilidad, haciendo crecer líneas de éter a lo largo de los bordes de sus articulaciones y extremidades para que les sirvan de apoyo. La rosaíta también puede cultivarse para formar un útil par de gafas, incluso con lentes de aumento externas más grandes. Los usos avanzados de la rosaíta incluyen un juggernaut (un gigante), un gran exoesqueleto de rosaíta que protege al etervínculo dentro del cuerpo y es increíblemente difícil de derribar, incluso con disparos. El cuerpo de este sigue siendo de cristal firme, pero está creado con articulaciones que le permiten moverse. La rosaíta también puede formar máquinas más grandes, como un ascensor si es necesario. Estos dos últimos ejemplos pueden requerir tanto éter que necesitan una Investidura purificada o alguna otra fuente de poder para poder ser creados o controlados durante mucho tiempo.
+## Varieties of Aether
+### Roseite
+The roseite aether manifests as pink-red crystals, similar to rose quartz. Generally the crystals have smooth surfaces that are occasionally marred by small pits. Aetherbound that are bonded to Silajana, the source of the roseite aether possess a bud that replaces a portion of the skin and muscle on the palm of their hand with roseite, leaving the bones of their hand visible underneath the roseite. When roseite aether is no longer being maintained by an aetherbound, it collapses into a fine rose-colored dust or powder, which eventually sublimates to a rose-colored mist. Aetherbound that are able to control roseite have fine control over a number of its attributes, including its general coloration and clarity. They have not been shown to be able to make roseite of any color, but they can control the shade of the roseite, choosing whether it appears more red or pink and whether it is transparent or opaque.
+Roseite is a useful material for a number of purposes. Roseite is a strong material, resistant to gunfire, although bullets will chip the roseite when they impact it. It is useful to create items or tools that rely on the strength or structure provided by the crystal. Simple tools like creating a fountain pen nib on the aetherbound's index finger, a small knife, a pointer, or a water glass can easier be created, as well as weapons like a mace and other small structures such as chairs and ladders. As with all aethers, its maximum potential utility is directly related to the creativity, skill, and understanding of the person manifesting the roseite. A knowledgeable person can turn a map into a model of a city made of roseite, or create a functional roseite gun if they can visualize the mechanisms. Elderly aetherbound or those who have difficulty standing can use the aether to help with their stability, growing lines of aether along the edges of their joints and limbs for support. Roseite can also be grown to form a useful pair of spectacles, including with larger external magnifying lenses. Advanced uses of roseite include a juggernaut, a large exoskeleton of roseite that protects the aetherbound within the body and is incredibly difficult to bring down, even with gunfire. The body of the juggernaut is still comprised of firm crystal, but it is created with joints that allow it to move. Roseite can also form larger machines, such as an elevator if need be. These latter two examples may require so much aether that they need purified Investiture or some other source of power in order to be created or controlled for long.
 
-### Céfiro
-El éter céfiro puede ser usado como propelente de emergencia durante un viaje espacial.
+### Zephyr
+The zephyr aether can be used as emergency propellent during space travel.
 
-### Esporas
-Para más información, ver [[Esporas de %C3%A9ter\|esporas de éter]].
-Las esporas de éter se encuentran en el planeta [[Lumar\|Lumar]], donde llueven en [[Lunacuerdo\|lunacuerdos]] desde las doce lunas, formando mares en el planeta.
+### Spores
+For more information, see [[Aether spores\|Aether spores]].
+Aether spores are found on the planet [[Lumar\|Lumar]], where they rain down in [[Lunagree\|lunagrees]] from the twelve moons, forming seas on the planet.
 
-### Éter oscuro
->“*Mi tierra natal es inhabitable para los míos de momento. Me uní a lord Kelsier por la oportunidad de obtener aliados y recursos para mi futura lucha contra el éter oscuro.*”
-\-Prasanva sobre el éter oscuro[14]
-
-
-El éter oscuro es una especie de amenaza presente en Dhatri. Puede haber hecho que el planeta sea inhóspito para los etervínculos de rosaíta o para cualquier etervínculo. Puede estar relacionado con las fuerzas presentes en la tierra natal de los etervínculos de Prasanva y con algún tipo de exterminio. Prasanva ha salido del mundo en busca de otros aliados para llevarlos de vuelta y ayudar a luchar contra este éter oscuro.
-
-## Éteres de Lumar
-Los éteres en Lumar son una cepa especialmente parasitaria centrada en la autopropagación a través de [[Esporas de %C3%A9ter\|esporas comprimidas de éter]]. En comparación con los éteres normales, se vinculan con sus huéspedes de una forma mucho más agresiva.
-Son especialmente inestables, con la más mínima pizca de agua (o sangre) provocando una expansión descontrolada al extraer Investidura del Reino Espiritual, muy rápida, comparable a la de un rayo. A pesar de que se expanden aún más cuando entran en contacto con más agua, tienen un límite máximo de crecimiento. Cuando alcanzan este potencial máximo, dejan de reaccionar con el agua y (en el caso del éter glauco) se pueden comer sin peligro. La dirección de esta expansión puede modificarse por diversos factores, como los fenómenos cognitivos que la rodean, moldeados por pensamientos y Mandatos. También se ven alejados por el acero y atraídos por el hierro.
-Hay éteres " sobredimensionados" conocidos como **éteres primordiales** que viven en las doce lunas de Lumar. Estos se propagan creando sus esporas y enviándolas a Lumar. Aunque las lunas no tienen agua, los éteres primordiales la necesitan para sobrevivir, por lo que eligen a los habitantes de Lumar como "[[Comeesporas\|comeesporas]]". Estas personas albergan una manifestación del éter dentro de sus cuerpos; los éteres primordiales les drenan el agua progresivamente, lo que les conduce con el tiempo a la muerte. Los comeesporas están protegidos por el éter que están hechos para gestar, que intenta activamente evitar la muerte de su anfitrión. Se desconoce el método por el que el agua se transfiere al éter primordial respectivo.
-El éter primordial de medianoche en Lumar podría llamarse **[[Thanasmia\|Thanasmia]]**, pero este nombre no ha sido confirmado.
-
-## Historia
-Los éteres han estado presentes en el Cosmere al menos desde antes de la Fragmentación de Adonalsium, y afirman incluso ser anteriores a Adonalsium. Aunque en un principio eran nativos de un solo mundo, diferentes variantes de los éteres se han extendido desde entonces a otros planetas,  y ahora afirman no tener un planeta específico de origen. En algún momento se inició un conflicto con el éter oscuro en el planeta de los éteres primordiales, que fue demasiado difícil de derrotar por Prasanva y puede haber conducido a su exilio.
-Es posible que Mraize haya visitado en algún momento un mundo que contenga éteres, ya que tiene un trozo de rosaíta en su colección. Como Mraize es un [[Saltamundos\|saltamundos]], se desconoce la procedencia del éter de rosaíta de su colección, pero no puede hacer uso de él. Más tarde, su lavandera [[Mem\|Mem]] se encargó de eliminar una mancha de éter en el traje de jefe de caballería [[Azishiano\|azishiano]] de Mraize. Pensó que podría ser una combinación de aceite y sangre y tuvo muchas dificultades para quitar la mancha, pero finalmente la limpió sin dañar el delicado tinte de [[Micalino\|micalino]] del traje. Mraize se sorprendió de su éxito y le dio una bonificación.
-[[Foil\|Foil]] intenta conseguir el control de los éteres. [[Khriss\|Khriss]] cree que el descubrimiento de la [[Anti-Investidura\|anti-Investidura]] puede refutar algunas de sus teorías sobre ellos.
-Los éteres también son relevantes para la era espacial del Cosmere.
-
-## Etervínculos conocidos
-Para más información, ver :Categoría:Etervínculo.
-[[Prasanva\|Prasanva]] (vinculado a [[Silajana\|Silajana]]) - Agente de los Sangre Espectral que huyó a Scadrial tras una especie de exterminio en su mundo natal.
-## Curiosidades
-Los éteres se originaron en la novela inédita *[[Aether of Night\|Aether of Night]]*. Algunos elementos de la novela ya han sido reutilizados en otras obras, y se reescribiría por completo antes de introducir el mundo en el Cosmere.
-El planeta en el que se originan los éteres no es fundamental para el arco general del Cosmere. Brandon no ha decidido cuántas novelas sobre el éter escribirá ni dónde las encajará en el calendario de publicación del Cosmere. Ha considerado la posibilidad de hacer una trilogía hacia el final de la serie del Cosmere.
-Los éteres también son relevantes para la era espacial del Cosmere.
-Pueden desarrollar relaciones simbióticas con animales de forma parecida a lo que hacen los [[Spren\|spren]] en [[Roshar\|Roshar]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-Este artículo estaba completo y revisado , pero tras la publicación de *[[El metal perdido\|El metal perdido]]*, ahora necesita volver a revisarse.
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**| · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] ·  · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+### Dark aether
+>“*[My] homeland is inhospitable to my kind for now. I joined Lord Kelsier for the opportunity to gain allies and resources for my eventual fight against the dark aether.*”
+\-Prasanva on the dark aether[14]
 
 
+The dark aether is some sort of threat present on Dhatri. It may have made the planet inhospitable for roseite aetherbound or any aetherbound. It may be related to the forces present in the aetherbound Prasanva's homeland and some sort of extermination. Prasanva has gone offworld in search of other allies to bring back to help fight this dark aether.
 
-https://es.coppermind.net/wiki/Aether
+## Lumar aethers
+Aethers on Lumar are an especially parasitic strain focused on self-propagation through compressed [[Aether spores\|aether spores]]. Compared to normal aethers, these bond with their hosts far more aggressively.
+They are especially unstable, with the smallest hint of water (or blood) leading to uncontrolled expansion as it pulls Investiture from the Spiritual Realm, this expansion is very rapid, comparable to lightning. Despite expanding even more when put into contact with more water, they do have a maximum extent to which they are able to grow. When they reach this maximum growth potential, they stop reacting with water and (in the case of Verdant Aether) can be safely eaten. The direction of this expansion can be changed by various factors, such as the cognitive phenomena surrounding it, shaped by thoughts and commands. It is also pushed away by steel and attracted by iron.
+There are "overgrown" aethers known as **prime aethers** that live on Lumar's twelve moons. The prime aethers propagate themselves by creating their spores and sending them down to Lumar. Although the moons do not have water, the prime aethers still need it to survive, so they choose people on Lumar as "[[Spore eater\|spore eaters]]". These people host a manifestation of the aether within their bodies; the prime aethers progressively drain water from them, eventually leading to death. Spore eaters are protected by the aether that they are made to gestate, which actively tries to prevent the death of its host. The method through which the water is transferred to the respective prime aether is not known.
+The prime midnight aether on Lumar may be named **[[Thanasmia\|Thanasmia]]**, but this name has not been confirmed.
+
+## History
+Aethers have been present in the cosmere since at least prior to the Shattering of Adonalsium, and may predate Adonalsium altogether. While they were initially native to a single world, different variants of the aethers have since spread to other planets, and now claim to have no specific planet of origin. At some point a conflict with the dark aether began on the planet of the primal aethers, which was too difficult to be defeated by Prasanva and may have led to his exile.
+At some point Mraize may have visited a world containing aethers, as he has a piece of roseite in his collection. As Mraize is a [[Worldhopper\|worldhopper]], the provenance of the roseite aether in his collection is unknown, but he is not able to make use of that piece of aether. Later his laundress [[Mem\|Mem]] was tasked with removing an aether stain on Mraize's [[Azish\|Azish]] cavalrylord's suit. She thought it might be a combination of oil and blood and had a great deal of difficulty removing the stain, but eventually cleaned it off without damaging the suit's delicate [[Mycalin\|Mycalin]] dye. Mraize was surprised by her success and gave her a bonus.
+[[Foil\|Foil]] is trying to achieve control over the aethers. [[Khriss\|Khriss]] thinks that the discovery of [[Anti-Investiture\|anti-Investiture]] may disprove some of his theories about them.
+The aethers are also relevant to the cosmere space age.
+
+## Known Aetherbound
+For more information, see :Category:Aetherbound.
+[[Prasanva\|Prasanva]] (Bound to [[Silajana\|Silajana]]) - Agent of the Ghostbloods that fled to Scadrial after some sort of extermination on his home world.
+## Trivia
+Aethers originated in the unpublished novel *[[Aether of Night\|Aether of Night]]*. Elements of the novel have already been repurposed into other works, and it would be completely rewritten before the world is introduced to the cosmere.
+The planet where aethers originate is not central to the overall cosmere arc. Brandon has not decided how many aether novels he will write or where to fit them into the cosmere release timeline. He has considered doing a trilogy towards the end of the cosmere sequence.
+They are going to be relevant to Space-Age Cosmere.
+Aethers could develop symbiotic relationships with animals similar to the ones [[Spren\|spren]] on [[Roshar\|Roshar]] develop.
+
+
+https://coppermind.net/wiki/Aether

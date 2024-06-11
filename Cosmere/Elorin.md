@@ -1,63 +1,47 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Elorin**|
 |-|-|
-|**Fallecido**|Asesinado por [[Kenton\|Kenton]]|
-|**Capacidades**|[[Maestr%C3%ADa de la arena\|Maestro de la arena]]|
-|**Títulos**|Inframastrell|
-|**Grupo**|[[Diem\|Diem]]🐱︎|
-|**Residencia**|[[Kezare\|Kezare]]|
-|**Etnia**|[[Del Lado Diurno\|del Lado Diurno]]|
-|**Nacionalidad**|[[De Lossand\|de Lossand]]|
-|**Mundo natal**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Arena Blanca\|Arena Blanca]]*|
+|**Died**|Killed by [[Kenton\|Kenton]]|
+|**Abilities**|[[Sand mastery\|Sand master]]|
+|**Titles**|Undermastrell|
+|**Groups**|[[Diem\|Diem]]|
+|**Residence**|[[Kezare\|Kezare]]|
+|**Ethnicity**|[[Daysider\|Daysider]]|
+|**Nationality**|[[Lossandin\|Lossandin]]|
+|**Homeworld**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
-Inframastrell **Elorin** es un [[Maestro de la arena\|maestro de la arena]] [[Lossand\|lossandino]] en el Lado Diurno de [[Taldain\|Taldain]]. Elorin sirve como ayudante de [[/wiki/Taishin#El lord mastrell]] [[Praxton\|Praxton]] y [[Kenton\|Kenton]].
+Undermastrell **Elorin** is a [[Lossand\|Lossandin]] [[Sand mastery\|sand master]] on the Dayside of [[Taldain\|Taldain]]. Elorin serves as an assistant to [[/wiki/Taishin#The Lord Mastrell]] [[Praxton\|Praxton]] and [[Kenton\|Kenton]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
-5 Notas. [[#Notas]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Elorin tiene las cejas amarillas, los ojos verdes y la cabeza calva. Lleva el uniforme estándar de un maestro de la arena con un fajín amarillo. Elorin es deferente con sus superiores, especialmente con el lord mastrell Praxton.
+## Appearance and Personality
+Elorin has yellow eyebrows, green eyes, and a bald head. He wears the standard uniform of a sand master with a yellow sash. Elorin is deferential to his superiors--especially Lord Mastrell Praxton.
 
-## Atributos y habilidades
-Aunque hacia el final de su vida se niega a utilizar sus poderes, Elorin es un [[Maestro de la arena\|maestro de la arena]]. Como tal, puede manipular arena [[Investidura\|Investidapara]] formar cintas telequinéticas y muros de arena.
+## Attributes and Abilities
+Although towards the end of his life he refuses to use his powers, Elorin is a [[Sand mastery\|sand master]]. As such he can manipulate [[Investiture\|Invested]] sand to form telekinetic ribbons and walls of sand.
 
-## Historia
-Elorin se unió a los maestros de la arena a una edad temprana como acolento y con el tiempo alcanzó el rango de inframastrell y se convirtió en ayudante de [[Praxton\|Praxton]]. Con el tiempo, el [[Se%C3%B1or de la Arena\|Señor de la Arena]] se presentó ante Elorin como una imponente figura de arena, tras ver esto Elorin se convirtió a la fe [[Ker'reen\|Ker'reen]], además de esto renunció a su puesto de jefe de acolentos y dejó de utilizar sus poderes sin que los demás maestros de la arena se dieran cuenta. Consideró la posibilidad de renunciar por completo al Diem, pero [[A'kar\|A'kar]] le ordenó que permaneciera en su puesto para tramar la caída del Diem desde dentro.
-Cinco meses más tarde, Elorin patrocinó el intento de [[Kenton\|Kenton]] de emprender la [[Senda del Mastrell\|Senda del Mastrell]] en la [[Kerla\|Kerla]]. Se mostró reacio a hacerlo e intentó disuadir a Kenton de la tarea señalando la dificultad de la Senda y lo débil que era, pero finalmente cedió y le indujo a iniciarla. Elorin expresó su preocupación por la seguridad de Kenton durante la prueba y le gritó que tenía que pedir ayuda para recibir asistencia. Cuando Kenton se negó, pidió a Praxton que interviniera, pero se mostró conforme cuando el lord mastrell denegó su petición. Elorin fue uno de los primeros en acudir a Kenton tras la prueba, pidiendo agua, y estuvo presente cuando se despertó al día siguiente. Elorin animó a Kenton a que no asistiera a la Ceremonia de la Ascensión, aparentemente porque el lord mastrell estaba disgustado con las acciones de Kenton, pero en realidad quería que no asistiera porque sabía que los [[Kerztiano\|kerztianos]] iban a atacar el Diem aquel día, y quería proteger a su amigo de la masacre que se avecinaba. A pesar de su deseo, Kenton insistió en ir a la ceremonia.
+## History
+Elorin joined the Sand Masters at an early age as an acolyte and eventually achieved the rank of undermastrell and became an assistant to [[Praxton\|Praxton]]. Eventually the [[Sand Lord\|Sand Lord]] appeared before Elorin as a towering figure of sand, after he saw this Elorin converted to the [[Ker'reen\|Ker'reen]] faith, in addition to this he resigned his position as head of acolents and quitely stopped using his powers without the other sand masters noticing. He considered resigning from the Diem entirely but the [[A'kar\|A'kar]] ordered him to stay in position in order to plot the Diem's downfall from within.
+Five months later Elorin sponsored [[Kenton\|Kenton's]] attempt at running the [[Mastrell's Path\|Mastrell's Path]] in the [[Kerla\|Kerla]]. He was reluctant to do so and attempted to dissuade Kenton from the task pointing to the Path's difficulty and Kenton's weakness but ultimately he relented and inducted Kenton to begin the path. Elorin expressed concern over Kenton's saftey during the trial and yelled to Kenton that he had to ask for help in order to receive assistance. When Kenton refused, he asked Praxton to intervene, but was compliant when the Lord Mastrell denied his request. Elorin was one of the first individuals to rush to Kenton after the test, calling for water, and was present when Kenton woke up the next day. Elorin encouraged Kenton not to attend the advancement ceremony, ostensibly because the Lord Mastrell was displeased with Kenton's actions, but in truth he wanted him to stay away because he knew the [[Kerztian\|Kerztians]] were going to attack the Diem that day, and wanted to protect his friend from the oncoming massacre. Despite his wish Kenton insisted on going to the ceremony.
 
->“*«El Señor de la Arena se me apareció. Cuando tu dios ordena, lord mastrell, tú obedeces».*”
-\-Elorin a Kenton poco antes de su muerte.[1]
+>“*The Sand Lord appeared to me. When your god commands, Lord Mastrell, you listen.*”
+\-Elorin to Kenton shortly before his death.[1]
 
-Antes de la Ceremonia de la Ascensión, Elorin envenenó el cuenco de agua ceremonial con [[KaDo\|KaDo]]. Este cuenco, según la tradición, se pasó a todos los maestros de la arena para que bebieran de él, lo que envenenó a todo el Diem. El único individuo que escapó a esta fe fue [[Drile\|Drile]], que se negó a beber del cuenco. Tras esto, Elorin continuó la ceremonia con normalidad, esperando el ataque de los kerztianos. Un gran número de [[DaiKeen\|sacerdotes guerreros]] llegaron y atacaron a los maestros de la arena reunidos según el plan de Elorin. Poco acostumbrados al combate y rápidamente deshidratados debido al veneno de Elorin, los maestros de la arena se deshidrataron rápidamente y , lo que provocó su muerte y la destrucción de la mayor parte del Diem.
-Tras el ataque, Elorin volvió a su aldea natal, pero se dio cuenta de que ya no encajaba en ella y volvió a viajar por el Lado Diurno. Al enterarse de que el Diem se había reformado, colció y se encontró con el nuevo lord mastrell, Kenton. Para ocultar su verdadera naturaleza, Elorin mintió y afirmó que había sobredominado y había perdido sus poderes, en lugar de admitir su traición ante Kenton. A sugerencia de este, Elorin aceptó retomar sus funciones como ayudante y él accedió, mientras cumplía estas funciones también coordinaba los ataques de los asesinos kerztianos contra Kenton y Drile. Más tarde, por sugerencia de [[Khriss\|Khriss]], Kenton encargó a Elorin que, junto con [[Dirin\|Dirin]], dirigiera todas las funciones cotidianas del Diem. Kenton dijo a todos los maestros de la arena que tuvieran preguntas que se las hicieran a Elorin en lugar de a él.
-Elorin presidió el duelo de Kenton con Drile e hizo que cada uno bebiera de cuencos ceremoniales distintos. Elorin utilizó a KaDo para envenenar el cuenco de [[Drile\|Drile]] en un complot para asegurarse de que un líder débil gobernara el [[Diem\|Diem]]. Su complot tuvo éxito y Kenton derrotó a Drile, mucho más poderoso. Tras la lucha, Kenton y Drile se dieron cuenta de que algo iba mal durante su combate, Drile dijo que sentía la misma debilidad que sintió aquel día en la Kerla. Kenton se sorprendió porque había pensado que Drile era quien había traicionado al Diem en el Kerla. Juntos dedujeron rápidamente que había sido Elorin quien les había traicionado. Kenton se enfrentó a él, y Elorin admitió que llevaba seis meses trabajando para provocar la caída del Diem. Dijo que habían pasado dos días desde su último intento y se le permitió intentarlo de nuevo. Levantó su [[Zinkall\|zinkall]] hacia Kenton y disparó un dardo [[Terken\|terken]] al mismo tiempo que Kenton enviaba una cinta de arena hacia él. Elorin falló y la cinta de Kenton le atravesó el corazón, matándolo.
+Prior to the advancement ceremony Elorin poisoned the ceremonial water bowl with [[KaDo\|KaDo]]. This bowl was, as per tradition, passed around to every sand master to drink from which poisoned the entire Diem. The only individual who escaped this faith was [[Drile\|Drile]] who refused to drink from the bowl. After this Elorin continued the ceremony as normal, waiting for the Kerztian to attack. A large number of the [[DaiKeen\|warrior-priests]] arrived and attacked the assembled sand masters as per Elorin's plan. Unused to combat and quickly becoming dehydrated due to Elorin's poison, the Sand Masters quickly dehydrated and [[Overmastery\|overmastered]] leading to their deaths and the destruction of most of the Diem.
+After the attack Elorin returned to his home village but found that he no longer fit in their anymore and went back to travelling around Dayside. Upon hearing that the Diem had reformed he returned and met the new Lord Mastrell Kenton. In order to hide his true nature Elorin lied and claimed to have overmastered and lost his powers rather than admit his treachery to Kenton. At Kenton's suggestion Elorin accepted to take up his duties as an assistant again and he agreed, while fulfilling these duties he also coordinated attacks by Kerztian assassins against Kenton and Drile. Later, at [[Khriss\|Khriss']] suggestion, Kenton tasked Elorin, alongside [[Dirin\|Dirin]], with running all of the Diem's day to day functions. Kenton told all sand masters with questions to ask Elorin instead of him.
+Elorin presided over Kenton's duel with Drile and made each of them drink from separate ceremonial bowls. Elorin used KaDo to poison [[Drile\|Drile's]] bowl in a plot to ensure a weak leader would rule the [[Diem\|Diem]]. His plot succeeded and Kenton defeated the more powerful Drile. After the fight Kenton and Drile realized that something was wrong during their fight, Drile said that he felt the same weakness he felt that day in the Kerla. Kenton was surprised because he had thought Drile was the one who had betrayed the Diem in the Kerla. Together they quickly surmised that it must have been Elorin who betrayed them. Kenton confronted Elorin, and Elorin admitted to have been working to cause the Diem's downfall for the past six months. Elorin said that two days had passed since his last attempt and he was allowed to try again. He raised his [[Zinkall\|zinkall]] towards Kenton and fired a [[Terken\|terken]] dart at the same time that Kenton sent a ribbon of sand towards him. Elorin missed and Kenton's ribbon went through his heart, killing him.
 
-## Relaciones
-Antes de su conversión, Elorin era íntimo amigo de Kenton, e intenta salvarle la vida en repetidas ocasiones.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+## Relationships
+Before his conversion, Elorin was close friends with Kenton, and repeatedly tries to save his life.
 
 
 
-https://es.coppermind.net/wiki/Elorin
+https://coppermind.net/wiki/Elorin

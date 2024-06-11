@@ -1,78 +1,48 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**[[Estelar\|<]]*Citónica*[[Desafiante (libro)\|>]]**|
+|**[[Starsight\|<]]*Cytonic*[[Defiant (book)\|>]]**|
 |-|-|
 ||
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón (saga)]]**|
-|**Anterior**|*[[Estelar\|Estelar]]*|
-|**Siguiente**|*[[Desafiante (libro)\|Desafiante ]]*|
-|**Localización**|[[Citoverso\|Citoverso]]|
-|**Fecha original**|23 de noviembre de 2021|
-|**Fecha española**|2 de diciembre de 2021|
-|**Editorial**||
-|**Editorial en español**||
+|**[[Skyward (series)\|Skyward (series)]]**|
+|**Follows**|*[[Starsight\|Starsight]]*|
+|**Precedes**|*[[Defiant (book)\|Defiant ]]*|
+|**Setting**|[[Cytoverse\|Cytoverse]]|
+|**Released**|November 23, 2021|
+|**Publisher**||
 |**ISBN**|978-0399555855|
-|**ISBN español**|ISBN 9788418037191|
-|**Número de Páginas**|409 , 456 |
+|**Page Count**|409|
 
-Para las capacidades psiónicas que poseen muchos en el [[Citoverso\|Citoverso]], ver [[Cit%C3%B3nica (habilidad)\|Citónica (habilidad)]].
-***Citónica*** es el tercer libro de la [[Escuadr%C3%B3n (saga)\|saga Escuadrón]] de [[Brandon Sanderson\|Brandon Sanderson]]. Es la continuación de *[[Estelar\|Estelar]]*.
+For the psionic abilities possessed by many in the [[Cytoverse\|Cytoverse]], see [[Cytonics\|Cytonics]].
+***Cytonic*** is the third book in the [[Skyward (series)\|Skyward series]] by [[Brandon Sanderson\|Brandon Sanderson]]. It is the sequel to *[[Starsight\|Starsight]]*.
 
-## Sumario
+## Contents
 
-1 Sinopsis. [[#Sinopsis]] 
-2 Resumen. [[#Resumen]] 
-3 Desarrollo. [[#Desarrollo]] 
-4 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-5 Arte interior. [[#Arte interior]] 
-6 Notas. [[#Notas]] 
+1 Synopsis. [[#Synopsis]] 
+2 Summary. [[#Summary]] 
+3 Development. [[#Development]] 
+4 Cover Gallery. [[#Cover Gallery]] 
+5 Interior Art. [[#Interior Art]] 
+6 Notes. [[#Notes]] 
 
 
-## Sinopsis
+## Synopsis
 >“
-\-La vida de Spensa como miembro de la Fuerza de Defensa Desafiante dista mucho de ser normal y corriente. Demostró ser una de las mejores pilotos de caza estelar en el enclave humano de Detritus y salvó a su pueblo del exterminio a manos de los krells, la enigmática especie alienígena que los tenía prisioneros desde hace décadas. Por si fuera poco, viajó a años-luz de distancia de su hogar como espía infiltrada en la Supremacía, a un lugar donde descubrió que había toda una galaxia más allá de su pequeño y desolado planeta natal.
-Ahora la Supremacía, el gobierno galáctico empecinado en dominar toda vida humana, ha desatado una guerra a escala galáctica. Y Spensa ha visto las armas que pretenden emplear para terminarla: los zapadores, unas antiguas y enigmáticas fuerzas alienígenas que pueden arrasar sistemas estelares enteros en un instante. Spensa sabe que, por muchos pilotos con los que cuente la FDD, no hay manera de derrotar a ese depredador.
-Sin embargo, Spensa es citónica. Se enfrentó a un zapador y percibió algo siniestramente familiar en él. Y quizá, si logra descubrir lo que es ella misma, podría ser algo más que solo otra piloto en la guerra. Podría salvar la galaxia.
-Pero la única manera de que Spensa descubra su verdadera naturaleza es dejar atrás todo lo que conoce y entrar en la ninguna-parte, un lugar del que muy pocos han regresado jamás.
-Tener valor significa afrontar el miedo. Y esta misión es aterradora.
+\-Spensa’s life as a Defiant Defense Force pilot has been far from ordinary.
+She proved herself one of the best starfighters in the human enclave of Detritus and she saved her people from extermination at the hands of the Krell – the enigmatic alien species that has been holding them captive for decades. What’s more, she travelled light-years from home as a spy to infiltrate the Superiority, where she learned of the galaxy beyond her small, desolate planet home. Now, the Superiority – the governing galactic alliance bent on dominating all human life – has started a galaxy-wide war. And Spensa has seen the weapons they plan to use to end it: the Delvers. Ancient, mysterious alien forces that can wipe out entire planetary systems in an instant.
+Spensa knows that no matter how many pilots the DDF has, there is no defeating this predator.
+Except that Spensa is Cytonic. She faced down a Delver and saw something eerily familiar about it. And maybe, if she’s able to figure out what she is, she could be more than just another pilot in this unfolding war. She could save the galaxy. The only way she can discover what she really is, though, is to leave behind all she knows and enter the Nowhere. A place from which few ever return.
+To have courage means facing fear. And this mission is terrifying.
 
 
-## Resumen
-Para un resumen capítulo a capítulo, ver [[Cit%C3%B3nica (libro)/Resumen\|/Resumen]].
-## Desarrollo
-En uno de los Preguntas y Respuestas de Reddit previos a la publicación del primer libro, Brandon afirmó que la trilogía probablemente se convertiría en una serie de cuatro libros. En su [[State of the Sanderson\|State of the Sanderson]] de 2018, afirmó que debido a la cantidad de tiempo necesario para completar *[[El ritmo de la guerra\|El ritmo de la guerra]]*, *Citónica (libro)|Citónica* "[no] sería escrito hasta 2020, para un lanzamiento en la primavera de 2021". En el State of the Sanderson de 2019, esto se actualizó a escritura a finales de 2020 para un "probable" lanzamiento en 2021.
-En algún momento a principios de 2020, Brandon estaba planeando escribir el libro con dos puntos de vista alternos, [[Spensa\|Spensa]] y otra persona, pero más tarde decidió hacer una serie de audio novelas para acompañar el lanzamiento del libro en lugar de incluir el segundo personaje de punto de vista.
-En un principio, Brandon quería titular el libro "Ninguna-parte", pero el editor se opuso y él acabó accediendo a su petición.
+## Summary
+For a chapter-by-chapter summary, see [[Cytonic (book)/Summary\|/Summary]].
+## Development
+In a Reddit Q&A leading up to the release of the first book, Brandon stated that the trilogy would likely become a four book series. In his 2018 [[State of the Sanderson\|State of the Sanderson]], he stated that due to the amount of time needed to complete *[[Rhythm of War\|Rhythm of War]]*, *Cytonic* "[wouldn't] be written until 2020, for a spring 2021 release." In the 2019 State of the Sanderson, this was updated to writing in late 2020 for a "likely" 2021 release.
+At some point in early 2020, Brandon was planning on writing the book with two alternating points of view, [[Spensa\|Spensa]] and someone else, but later decided on doing a series of audio novellas to accompany the book's release instead of including the second point-of-view character.
+Brandon originally wanted to call the book *Nowhere*, but the publisher opposed that idea and he ended up deferring to their request.
 
-## Galería de portadas
-Para una galería de portadas de *Citónica*, ver [[Cit%C3%B3nica (libro)/Portadas\|/Portadas]].
-## Arte interior
-Para una galería del arte interior del libro, ver [[Cit%C3%B3nica (libro)/Arte interior\|/Arte interior]].
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] ·  · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+## Cover Gallery
+For a cover gallery of Cytonic, see [[Cytonic (book)/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[Cytonic (book)/Interior art\|/Interior art]].
 
 
-
-https://es.coppermind.net/wiki/Cytonic_(book)
+https://coppermind.net/wiki/Cytonic_(book)

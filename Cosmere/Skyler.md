@@ -1,14 +1,14 @@
 |**Skyler**|
 |-|-|
-|**Mundo natal**||
-|**Presentado en**|*[[The Original\|The Original]]*|
+|**Homeworld**||
+|**Introduced In**|*[[The Original\|The Original]]*|
 
 >“*From the moment I’d woken up, he’d been a pain in the ass. But honest, at least as far as I could tell.*”
 \-Holly[1]
 
 **Skyler** is a [[Provisional Replica\|Provisional Replica]] and a government agent. He acts as the personal contact for [[Holly Winseed (Provisional Replica)\|Holly’s Provisonal Replica]], and directs her and gives her information as she hunts down [[Holly Winseed (Original)\|her original]].
 
-## Sumario
+## Contents
 
 1 History. [[#History]] 
 
@@ -29,14 +29,6 @@ The next time Holly came to a renewal station after escaping another ICON attack
 Skyler’s men found the hotel room where Holly’s original had been staying, and found a biolocked recorder there. He told Holly to come to the building where he works, and she unlocked the recording. The recording made Holly very angry, and Skyler told Holly that he himself is a Provisional Replica. She asked him about her violent tendencies, and he told her that they didn’t edit her personality, meaning that those are all her emotions. Holly played the rest of the recording, and they decided that she should infiltrate the checkout slums.
 When Holly infiltrated the checkout slums disguised as a new checkout, Skyler used cleaning drones to get inside. At the right moment, he used them to knock out the lights in the slums to allow Holly to climb up a building unseen. After Holly found , leader of ICON, Skyler and his men came to arrest her.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[The Original\|The Original]]**|
-|-|-|
-|**Characters**|Holly Winseed ([[Holly Winseed (Original)\|Original]] · [[Holly Winseed (Provisional Replica)\|Provisional Replica]])|
-|**Other**|[[Provisional Replica\|Provisional Replica]] · [[ICON\|ICON]]|
 
 
-
-https://es.coppermind.net/wiki/Skyler
+https://coppermind.net/wiki/Skyler

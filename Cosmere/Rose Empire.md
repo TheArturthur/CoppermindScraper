@@ -1,36 +1,24 @@
-
-
-|**Imperio Rosa**|
+|**Rose Empire**|
 |-|-|
-|**Capital**|[[Sede Imperial\|Sede Imperial]]|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Capital**|[[Imperial Seat\|Imperial Seat]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **Imperio Rosa** es una nación en [[Sel\|Sel]]. Se encuentra en el mismo continente que [[Teod\|Teod]], aunque están separadas por montañas. El Imperio Rosa está gobernado por el emperador de los Ochenta Soles, que ocupa el Trono Rosa. Durante el encarcelamiento de [[Wan ShaiLu\|Shai]], el emperador reinante es [[Ashravan\|Ashravan]], el 49º emperador de la dinastía imperial. Se estima que la dinastía imperial tiene una antigüedad entre 1000 y 3500 años en este momento, dada la esperanza de vida de un [[Grande\|grande]].
-El Impero Rosa mantiene relaciones comerciales con los estados de [[Sycla\|Sycla]], aunque su relación con [[Svorden\|Svorden]] es más tensa. Svorden envía una mesa como regalo al predecesor del emperador Ashravan, pero la mala relación con la zona hace que el emperador la guarde.
-El Imperio Rosa conoce el concepto de producción en masa, y lo utiliza en combinación con el [[Falsificaci%C3%B3n\|recordar]] para crear obras complejas en grandes cantidades.
-El imperio parece utilizar un sistema de castas en el que los ciudadanos obtienen rangos conocidos como «niveles» que conllevan ciertos requisitos y privilegios.
+The **Rose Empire** is a nation on [[Sel\|Sel]]. It is on the same continent as [[Teod\|Teod]], but separated from it by mountains. The Rose Empire is ruled by the Emperor of Eighty Suns, who sits on the Rose Throne. The reigning emperor during the time of [[Wan ShaiLu\|Shai's]] imprisonment was [[Ashravan\|Emperor Ashravan]], the 49th Emperor of the Imperial dynasty. The lifespan of Rose Empire's dynasty is thus estimated to be within the range of 1000 to 3500 years at that point, given the lifespan of a [[Grand\|Grand]].
+The Rose Empire maintains trade with the states of [[Sycla\|Sycla]], but has a more strained relationship with [[Svorden\|Svorden]]. Svorden had sent a table as a gift to Emperor Ashravan's predecessor, but the poor relationship with Svorden caused the emperor to lock it away.
+They know of the concept of mass production, and used it in collusion with [[Forgery\|Remembering]] to create complex works in quantity.
+The empire uses a caste system in which citizens attain ranks known as "reeds" that have certain requirements and privileges.
 
-## Facciones
-Existen ochenta facciones diferentes en el gobierno del Imperio Rosa. Se piensa que este número está relacionado con el hecho de que los ciudadanos del Imperio Rosa crean que existen ochenta soles y que uno nuevo sale cada día. Cada facción está liderada por un grupo de cinco **árbitros**, quienes en conjunto determinan la línea de sucesión de los emperadores. Tras la muerte de un emperador, los árbitros ser reúnen y elevan al candidato de una facción acordada a la posición de emperador. Los árbitros de la facción del emperador ocupan posiciones de gran poder en el gobierno. Solo los [[Grande\|grandes]] pueden ser árbitros. Habitualmente visten túnicas largas y coloridas para denotar su posición, y cada árbitro tiene un símbolo que utilizan sus sirvientes asignados. Los árbitros de la facción del emperador son conocidos como los árbitros gobernantes y poseen mucho poder e influencia sobre el Imperio Rosa, superados únicamente por el propio emperador. Los prisioneros condenados a muerte tienen permitido solicitar la intervención de un árbitro si su caso es revisado por los árbitros gobernantes. Si el emperador entra en periodo de luto, sólo los árbitros gobernantes tienen permitido hablar con él. Como resultado, en tales circunstancias, los árbitros tienen esencialmente un control unilateral sobre todo el Imperio Rosa.
+## Factions
+There are eighty different factions in the Rose Empire's government. The number is presumed to relate to the fact that citizens of the Rose Empire believe that there are eighty suns and that a new one rises each day. Each faction is led by a group of five **arbiters**, who as a whole determine the line of succession of emperors. Upon the death of an emperor, the arbiters gather and elevate the candidate of an agreed upon faction to the position of emperor. The arbiters of the faction of the emperor occupy positions of great power in the government. Only [[Grand\|Grands]] may become arbiters. Customarily they wear long, colorful robes to denote their position, and each arbiter has a Symbol that is used by their assigned servants. The arbiters of the Emperor's faction are known as the ruling arbiters and they possess considerable power and influence over the Rose Empire, only superseded by the Emperor himself. Prisoners sentenced to death are allowed to call for arbiter intervention, if their case is granted a review by the ruling arbiters. If the Emperor goes into mourning the ruling arbiters are the only people allowed to speak with him. As a result, in such circumstances the arbiters essentially have unilateral control over the entire Rose Empire.
 
-[[Facci%C3%B3n de la Herencia\|Facción de la Herencia]]
-[[Facci%C3%B3n Gloria\|Facción Gloria]]
-## Sub-estados
+[[Heritage Faction\|Heritage Faction]]
+[[Glory Faction\|Glory Faction]]
+## Sub-states
 [[Dzhamar\|Dzhamar]]
 [[MaiPon\|MaiPon]]
 [[Mulla'dil\|Mulla'dil]]
 [[Ukurgi\|Ukurgi]]
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
-|-|-|
-|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
-|**Lugares**| · [[Mulla'dil\|Mulla'dil]] · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
-|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
 
 
-
-https://es.coppermind.net/wiki/Rose_Empire
+https://coppermind.net/wiki/Rose_Empire

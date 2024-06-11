@@ -1,100 +1,81 @@
-
-
 |**Helaran Davar**|
 |-|-|
 ||
-|**[[Casa Davar\|Casa Davar]]**|
-|**Padres**|[[Lin Davar\|Lin]], [[Madre de Shallan\|madre]]|
-|**Hermanos**|[[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
-|**Fallecido**|Ishi ? 1172|
-|**Capacidades**|[[Portador de esquirlada\|Portador de esquirlada]]|
-|**Grupo**|[[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]]|
-|**Nacionalidad**|[[De Jah Keved\|de Jah Keved]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**[[House Davar\|House Davar]]**|
+|**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|mother]]|
+|**Siblings**|[[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
+|**Died**|Ishi ? 1172|
+|**Abilities**|[[Shardbearer\|Shardbearer]]|
+|**Groups**|[[Order of Skybreakers\|Order of Skybreakers]]|
+|**Nationality**|[[Veden\|Veden]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Helaran Davar** es un [[Portador de esquirlada\|portador de esquirlada]] [[Jah Keved\|veden]] de [[Roshar\|Roshar]]. Helaran es el mayor de los hijos de la [[Casa Davar\|casa Davar]], y sus hermanos pequeños son: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], y [[Shallan\|Shallan]]. Antes era conocido como **Nan Helaran Davar**, que le identificaba como el primogénito y heredero de su casa hasta que fue despojado del título cuando [[Lin Davar\|su padre]] le repudió.
+**Helaran Davar** is a [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] on [[Roshar\|Roshar]]. Helaran is the oldest child of [[House Davar\|House Davar]], with four younger siblings: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], and [[Shallan\|Shallan]]. Originally known as **Nan Helaran Davar**, identifying him as the first son and heir of his House, until he is stripped of the title Nan when [[Lin\|his father]] disowns him.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Características y habilidades. [[#Caracter.C3.ADsticas y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Shallan]] 
 4. [[#Balat]] 
 4. [[#Lin Davar]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-  Con <<Shallan\|Shallan>>
-Para más imágenes, ver [[Helaran Davar/Galer%C3%ADa\|/Galería]].
->“*La sonrisa de Helaran era tan amplia que prácticamente brillaba. Era dificil fruncir el ceño en una habitación donde él estaba sonriendo.*”
-\-Pensamientos de Shallan sobre su hermano.[3]
+## Appearance and Personality
+  With <<Shallan\|Shallan>>
+For more images, see [[Helaran Davar/Gallery\|/Gallery]].
+>“*Helaran's grin was so wide, it practically glowed. It was hard to frown in a room where he was smiling.*”
+\-Shallan's thoughts on her brother.[3]
 
 
-Helaran es alto, musculoso y de barbilla cuadrada, aunque su padre es más alto que él.
-De todos los hijos de la casa Davar, él es considerado el más responsable y el único que es verdaderamente adulto, incluso después de que su hermano pequeño [[Balat\|Balat]] cumpliese la mayoría de edad. Él y [[Shallan\|Shallan]] eran los hijos favoritos de [[Lin Davar\|su padre]].
-Helaran está enfadado con su padre y le guarda rencor porque piensa que mató a [[Madre de Shallan\|su madre]] y a su amante a sangre fría.
+Helaran is tall, muscular, and square-chinned, although his father is taller than he is.
+Of all the Davar children, he is considered to be the most responsible and the only true adult, even after his younger brother [[Balat\|Balat]] comes of age. He and [[Shallan\|Shallan]] are [[Lin\|his father's]] favorite children.
+Helaran is resentful and angry at his father, who he believes murdered [[Shallan's mother\|his mother]] and her lover in cold blood.
 
-## Características y habilidades
-[[Madre de Shallan\|Su madre]] mantenía contacto estrecho con un acólito de los [[Rompedores del Cielo\|Rompedores del Cielo]] y es posible que [[Nale\|Nale]] conociera a algún miembro de la casa que estaba cerca de vincular un [[Spren\|spren]]. Se cree que Nale pensaba que se trataba de Helaran. Fue reclutado porque impresionó a Nale. Le reclutaron mostrándole grandes exhibiciones de poder y armaduras y hojas esquirladas.
+## Attributes and Abilities
+[[Shallan's mother\|His mother]] had intimate contact with a [[Skybreaker\|Skybreaker]] acolyte and it is possible [[Nale\|Nale]] knew a member of the house was close to bonding a [[Spren\|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.
 
-## Historia
-  Helaran en el campo de batalla alezi, momentos antes de ser asesinado por Kaladin
-Alrededor de 1168, o un poco antes, Helaran consiguió una [[Hoja esquirlada\|hoja esquirlada]] de la [[Orden de los Rompedores del Cielo\|Orden de los Rompedores del Cielo]].
-Más tarde ese mismo año, visitó a [[Shallan\|Shallan]] y le entregó utensilios para hacer bocetos traídas desde [[Tenaza del Norte\|Tenaza del Norte]] como regalo. También le entregó a [[Balat\|Balat]] un cachorro de [[Sabueso-hacha\|sabueso-hacha]], del que Balat abusó y seguramente mató. Durante su visita, le dijo a Shallan y a [[Lin Davar\|su padre]] que debía irse para atender ciertos asuntos, a lo que su padre se opuso y terminaron enzarzados. Helaran invocó su hoja esquirlada, amenazó a su padre y se marchó, prometiendo volver para visitar a la familia.
-Tras el encontronazo con su padre visitó el territorio de los Davar de forma esporádica y durante breves periodos de tiempo, y le llevaba a [[Shallan\|Shallan]] más útiles para pintar mientras evitaba a su padre.
-De todos los hijos de la casa Davar es el que más sabe sobre los secretos de su padre, sus planes y es el que más se opone a él. Ha tenido alguna conexión con [[Sagaz\|Sagaz]], a quien le pidió que enviara el mensaje: «tiene ojos cerca, y está vigilando». Tras escuchar esto su padre le desheredó y comenzó a referirse a Tet Balat como Nan Balat, como si fuera Balat el mayor de los hijos.
-Dos años más tarde regresa a [[Jah Keved\|Jah Keved]] y allí se encuentra con Balat. Helaran advierte a su hermano de que esta vez cuando se marche, quizá no regrese en mucho tiempo, y le pide que cuide de la familia. Cuando su padre se entera, envía a uno de sus soldados nuevos, [[Rin\|Rin]], para matarlo.
-En Ishi 1172, apareció en un campo de batalla en [[Alezkar\|Alezkar]] con un conjunto completo de esquirladas. Su objetivo allí era matar al alto señor [[Meridas Amaram\|Meridas Amaram]], pero antes fue asesinado por [[Kaladin\|Kaladin]]. Aunque Kaladin era a quien le pertenecía el derecho de reclamar el set de esquirladas de Helaran, Amaram le traicionó y se las quedó para él.
-Helaran todavía no había vinculado un [[Altospren\|altospren]] y por ello su [[Hoja esquirlada\|hoja esquirlada]] tenía una gema brillante. Seguramente Helaran fue enviado a asesinar al alto señor [[Meridas Amaram\|Meridas Amaram]] a modo de prueba —o bien lo hizo por iniciativa propia para demostrar que era digno de convertirse en Caballero.
-Aunque Kaladin tiene derecho a reclamar las esquirladas de Helaran, Amaram traiciona a Kaladin, lo esclaviza y las reclama para sí.
+## History
+  Helaran on the Alethi battlefield, moments prior to being killed by Kaladin
+Around 1168 or shortly before, Helaran acquires a [[Shardblade\|Shardblade]] from the [[Order of Skybreakers\|Order of Skybreakers]].
+Later that year, he visits [[Shallan\|Shallan]] and brings her sketching tools from [[Northgrip\|Northgrip]] as a present. He had also given [[Balat\|Balat]] a new [[Axehound\|axehound]] pup, but Balat had abused and possibly killed it. During the visit, he tells Shallan and his father that he must leave to attend to affairs, but [[Lin\|his father]] disagrees and confronts him. Helaran summons his Shardblade, threatens his father, and leaves, but promises to return and check on the family.
+After this confrontation with his father he visits the Davar estate sporadically and for only short periods at a time, bringing [[Shallan\|Shallan]] more drawing supplies but avoiding his father.
+Of all the Davar children, he knows the most about his father's secrets and plans and stands up to him the most. He has some connection to [[Wit\|Wit]], whom he asks to deliver the message that "he has eyes nearby and is watching". Upon hearing this, his father declares him disinherited and start referring to Tet Balat as Nan Balat, thereby naming Balat the eldest son.
+Two years later, he returns to [[Jah Keved\|Jah Keved]] and meets with Balat. Helaran warns his brother that this time when he leaves, he might not be coming back for a long time, and asks him to watch over the family. When his father finds out, he sends one of his new guards, [[Rin\|Rin]], to kill him.
+In Ishi 1172, he appears on a battlefield in [[Alethkar\|Alethkar]] with a full set of Shards. Helaran's goal is to kill Highlord [[Meridas Amaram\|Meridas Amaram]], but he is killed by [[Kaladin\|Kaladin]] during the battle.
+Helaran had not yet bonded a [[Highspren\|highspren]] and so his [[Shardblade\|Shardblade]] still had a glowing gemstone. Likely, Helaran was sent to kill Highlord [[Meridas Amaram\|Meridas Amaram]] as a test—either that or he took it upon himself as a way of proving his worthiness for Knighthood.
+Although it is Kaladin's right to claim Helaran's Shards, Amaram betrays Kaladin, enslaved him, and claims the Shards for himself instead.
 
-## Relaciones
-  Con sus hermanos
+
+## Relationships
+  With his siblings
 ### Shallan
-Helaran tiene una actitud protectora con [[Shallan\|Shallan]]. La anima a dibujar, ya que cree que tiene potencial para ser muy buena en el arte. Tras su marcha, continúa enviándole regalos, entre ellos el libro de [[Jasnah Kholin\|Jasnah Kholin]] y papel de buena calidad para sus dibujos.
-Shallan admira a su hermano y siente que su sentido de la justicia lo obtuvo de él, de «la mejor persona que había conocido jamás».
-Shallan quiere encontrar información sobre su pasado y sus motivaciones pero no parece haber hecho un gran progreso tras afiliarse a los [[Sangre Espectral\|Sangre Espectral]].
+Helaran is protective of [[Shallan\|Shallan]]. He encourages her drawing, as he believes her to have the potential to be great at it. After leaving, he continues to send her gifts, including [[Jasnah Kholin\|Jasnah Kholin's]] book and high quality paper for her drawings.
+Shallan looks up to her brother and feels that her rightness comes from him, from "the best person she knew".
+She wants to find information on his past and motives, but doesn't make much progress until after becoming affiliated with the [[Ghostbloods\|Ghostbloods]].
 
 ### Balat
-Cuando Helaran se marcha de su casa por primera vez no cree que [[Balat\|Balat]] esté listo para liderar a sus hermanos. Sin embargo, varios años más tarde, y antes de marcharse a la guerra en [[Alezkar\|Alezkar]], le pide que cuide de su familia. Balat lo considera fuerte y valiente y no se cree a su altura. Cuando Helaran y Balat están juntos, Balat «se hincha» y actúa con mayor confianza.
+When Helaran leaves the house for the first time he doesn't think [[Balat\|Balat]] is ready to lead their brothers. However, several years later, before leaving to the war at [[Alethkar\|Alethkar]], he does ask him to watch over his family. Balat considers Helaran to be strong and brave and doesn't consider himself to be as good as he. When Helaran and Balat are together, Balat "puffs up" and acts more confident.
 
 ### Lin Davar
->“*Hay cosas más importantes en este mundo. Más importantes que tú y tus crímenes.*”
-\-Helaran a su padre antes de dejar la casa Davar [3]
+>“*There are more important things in this world, more important even than you and your crimes.*”
+\-Helaran to his father before leaving house Davar [3]
 
 
-Helaran está seguro de que [[Lin Davar\|su padre]] mató a [[Madre de Shallan\|su madre]] y a su amante. Se enfrentó a él y se marchó de su casa. Aunque no se volvieron a ver, mantuvieron el contacto: Helaran le envió un mensaje advirtiendo que tiene ojos y está vigilando, provocando con ello que su padre le desheredara y perdiera el título de Nan. Pasado un tiempo, Lin Davar descubrió que Balat había hablado con él y mandó un guardia a matar a Helaran.
+Helaran is sure [[Lin\|his father]] killed [[Shallan's mother\|his mother]] and her lover. He confronts him as he leaves his house. Even though they don't see each other again, they grow further apart; Helaran sends him a message stating that he has eyes nearby, and is watching, causing himself to be disinherited and to lose his title of Nan. Later, Lin Davar finds that Helaran talked to Balat and sends a guard to kill him.
 
-## Curiosidades
-El motivo tras el intento de asesinato de [[Amaram\|Amaram]] por parte de Helaran es desconocido, de todos modos, [[Mraize\|Mraize]] de los [[Sangre Espectral\|Sangre Espectral]] cree que fue para darle un golpe a los [[Hijos de Honor\|Hijos de Honor]].
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+The reason behind Helaran's attempt on [[Amaram\|Amaram's]] life is unknown; however, [[Mraize\|Mraize]] of the [[Ghostbloods\|Ghostbloods]] believed the attack was a strike against the [[Sons of Honor\|Sons of Honor]].
 
 
 
-https://es.coppermind.net/wiki/Helaran_Davar
+https://coppermind.net/wiki/Helaran_Davar

@@ -1,83 +1,64 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Santhid**|
 |-|-|
 ||
-|**Tipo**|Grancaparazón|
-|**Racional**|Si|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Greatshell|
+|**Sapient**|Yes|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*El santhid. Me rescató.*”
+>“*The santhid. It rescued me.*”
 \-Shallan[1]
 
 
-Los **santhidyn** son gigantescos animales marinos con caparazón nativos de [[Roshar\|Roshar]]. Son una de las pocas especies rosharianas con algún grado de racionalidad.
-Los santhidyn son tan raros y solitarios que algunos eruditos los creen extintos, aunque los marineros en ocasiones los avistan y algunos especímenes muertos son arrastrados a al costa. No había dibujos conocidos o descripciones fiables de ejemplares vivos hasta que un santhid fue observado y dibujado por [[Shallan Davar\|Shallan Davar]].
+**Santhidyn** are massive shelled marine animals native to [[Roshar\|Roshar]]. They are one of a few Rosharan species known to have some degree of sapience.
+Santhidyn are so rare and reclusive that some scholars believe them to be extinct, although sailors sometimes sight them and dead specimens occasionally wash up on shore. There were no known pictures or reliable descriptions of live specimens until a santhid was observed and drawn by [[Shallan Davar\|Shallan Davar]].
 
-## Sumario
+## Contents
 
-1 Apariencia y anatomía. [[#Apariencia y anatom.C3.ADa]] 
-2 Comportamiento. [[#Comportamiento]] 
-3 Ecología. [[#Ecolog.C3.ADa]] 
-4 Historia. [[#Historia]] 
-5 Trasfondo. [[#Trasfondo]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+1 Appearance and Anatomy. [[#Appearance and Anatomy]] 
+2 Behavior. [[#Behavior]] 
+3 Ecology. [[#Ecology]] 
+4 History. [[#History]] 
+5 Lore. [[#Lore]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y anatomía
-Los santhidyn tienen un caparazón verde y marrón con forma de cúpula en la parte superior de sus cuerpos, del tamaño aproximado de tres barcas de remos atadas juntas y de al menos seis u ocho pies de altura. El caparazón en ocasiones está cubierto por algas, y pequeños cristales sobresalen de él. Mientras el santhid está nadando, el caparazón parece una pequeña isla móvil. El caparazón se extiende bajo el agua, de forma que ninguna otra parte del animal puede ser vista desde el barco, solo sombras.
-Bajo el caparazón, sus cuerpos son una enrevesada masa gris y azul. Tienen largos y muy gruesos tentáculos azules que cuelgan tras el santhid. Su piel es ondulada y doblada, retorcida como un árbol antiguo. Tienen un ojo del tamaño de una cabeza humana a cada lado de su cuerpo y tres enormes aletas en sus flancos.
-Aunque no está claro si los santhidyn se categorizan a como «[[Grancaparaz%C3%B3n\|grancaparazones]]», tienen algunas características en común con otros animales como los [[Yu-nerig\|yu-nerig]] y [[Tai-na\|Tai-na]], y son parte de la misma familia que los [[Abismoide\|abismoides]]. Shallan observa [[Spren\|spren]] con cabeza de flecha, presumiblemente [[Mandra\|mandras]], cerca de un santhid. Estos spren son conocidos por permitir a los animales crecer hasta un tamaño extraordinario en Roshar. El tamaño y la anatomía de los santhidyn también podría indicar que tienen [[Gema coraz%C3%B3n\|gemas corazón]].
+## Appearance and Anatomy
+Santhidyn have a dome-shaped brown-green shell on the top of their bodies, about the size of three rowboats tied together and at least six or eight feet in height. The shell is sometimes overgrown with seaweed, and small crystals jut up from it. While the santhid is swimming through the water, the shell looks like a tiny, mobile island. The shell extends underwater, such that no other part of the animal can be seen from a ship, only shadows.
+Underneath the shell, their bodies are a knotted gray-blue mass. They have long, very thick blue tendrils that trail behind the santhid at a drooping slant. Their skin is rippled and folded, gnarled like an ancient tree. They have an eye the size of a human head on each side of their body and three enormous fins on each of their flanks.
+Although it is unclear if santhidyn are categorized as "[[Greatshell\|greatshells]]", they have some characteristics in common with other animals such as the [[Yu-nerig\|yu-nerig]] and [[Tai-na\|Tai-na]], and they are part of the same family tree as [[Chasmfiend\|chasmfiends]]. Shallan observes arrow-shaped [[Spren\|spren]], presumably [[Mandra\|mandras]], near a santhid. These spren are known to enable animals to grow to enormous size on Roshar. The size and anatomy of santhidyn may also indicate that they have [[Gemheart\|gemhearts]].
 
  
-## Comportamiento
->“*¿Sabes que nadie ha realizado jamás un dibujo de un santhid vivo? Todos los que se han encontrado varados en las playas estaban ya muy descompuestos.*”
+## Behavior
+>“*Do you realize that nobody has ever produced a drawing of a live santhid? All the ones that have washed up on beaches were badly decomposed.*”
 \-Shallan[3]
 
-Los avistamientos de santhidyn son extremadamente raros. Incluso los marineros a tiempo completo solo ven uno cada pocos años. Cuando un santhid encuentra un barco, en ocasiones lo sigue durante días, incluso esperando en el mar si el barco visita un puerto de escala. Sus grandes aletas le permiten nadar rápida y suavemente, y parece que pueden seguirle el ritmo a los barcos fácilmente, incluso en distancias largas. Son generalmente considerados inofensivos, e incluso hay historias de santhidyn salvando a gente de ahogarse, aunque su presencia aún inquieta a los marineros al ser unas criaturas enigmáticas.
-Los santhidyn tienen cierto nivel de racionalidad. Esto está relacionado con la [[Esquirla\|Esquirla]] [[Cultivaci%C3%B3n\|Cultivación]] y presumiblemente facilitado por su relación con [[Spren\|spren]], aunque esta relación no está bien entendida. Shallan se dio cuenta de que un santhid pareció enfocar su ojo directamente en ella; creyó que el mismo santhid la rescató más tarde del naufragio.
+Sightings of santhidyn are extremely rare. Even full-time sailors may only see one every few years. When a santhid does encounter a ship, they may sometimes follow it for days, even waiting at sea for the ship if it visits a port of call. Their large fins allow them to swim quickly and smoothly, and they seem to easily keep up with ships, even over long distances. They are generally considered harmless, and there are even stories about santhidyn saving people from drowning, although their presence still worries some sailors since they are enigmatic creatures.
+Santhidyn have some degree of sapience. This is related to the [[Shard\|Shard]] [[Cultivation\|Cultivation]] and presumably facilitated by a relationship with [[Spren\|spren]], although this relationship is not well-understood. Shallan noticed that a santhid seemed to focus its eye directly on her; she believed that the same santhid later rescued her from a shipwreck.
 
-## Ecología
-Las aguas alrededor de los santhidyn están rebosantes de vida. Bancos de pequeños peces a menudo siguen a los santhidyn, recogiéndose bajo la parte inferior de su caparazón, quizá indicando una relación simbiótica. Si un santhid se acerca a un barco, los peces pasarán de uno a otro continuamente, también cobijándose bajo la nave. Shallan teoriza que el comportamiento alimenticio de los peces quizá sea la razón por la que los santhidyn en ocasiones siguen a los barcos.
-Debido a que los avistamientos son infrecuentes, la extensión completa de los santhidyn no está claro, auqnue su tamaño presumiblemente los limita a aguas más profundas. Han sido observados en los Estrechos de Ceño largo y las [[Profundidades Meridionales\|Profundidades Meridionales]].
+## Ecology
+The waters around santhidyn are teeming with life. Schools of small fish usually follow santhidyn, picking at the underside of their shell, perhaps indicating a symbiotic relationship. If a santhid approaches a ship, fish will move back and forth between the two, also picking at the bottom of the vessel. Shallan theorizes that the feeding behavior of the fish may be the reason that santhidyn sometimes follow ships.
+Because sightings are so infrequent, the full range of santhidyn is unclear, although their size presumably limits them to deeper waters. They have been observed in Longbrow's Straits and the [[Southern Depths\|Southern Depths]].
 
-  <<Shallan\|Shallan>> encontrándose con el santhid
-## Historia
-Los santhidyn son rara vez vistos por los marineros, y aún más raramente por eruditos. Una naturalista llamado [[Naladan\|Naladan]] pasó toda sui vida persiguiendo santhidyn y nunca consiguió ver uno. Los avistamientos son tan infrecuentes que hay un gran nivel de desacuerdo sobre su naturaleza, e incluso su existencia. Algunos cadáveres son arrastrados a la costa, pero generalmente están muy descompuestos y no sirven para el estudio.
-[[Shallan Davar\|Shallan Davar]] y la tripulación del *[[Placer del Viento\|Placer del Viento]]* encontraron un santhid en los [[Estrechos de Ce%C3%B1o Largo\|Estrechos de Ceño Largo]] en 1173. Shallan estaba decidida a observar la criatura bajo el agua, y ordenó a la tripulación atarle algunas cuerdas y bajarla por la borda hasta el agua, contra el mejor juicio de [[Yalb\|Yalb]] y [[Tozbek\|Tozbek]]. Shallan estaba maravillada con el gigantesco y majestuoso cuerpo del santhid, y los muchos peces y [[Spren\|spren]] que lo rodeaban. Estaba eufórica al salir del agua e hizo una serie de bocetos del gran animal.
-Cuando el *Placer del Viento* se hundió más tarde en las costas de las [[Tierras Heladas\|Tierras Heladas]], Shallan consiguió sobrevivir; llegó a tierra cerca de las [[Criptas Huecas\|Criptas Huecas]]. Cuando se despertó, no recordaba lo ocurrido, pero vio un santhid dejando el lugar. Creyó que era el mismo santhid que se había encontrado en los Estrechos de Ceño Largo, a pesar de que había viajado una gran distancia sin volver a verlo. Asumió que el santhid la había salvado, y especuló sobre su nivel de inteligencia. Perdió sus dibujos originales durante el naufragio, pero más tarde recreó algunos de ellos.
-Durante la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]], la tripulación del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]* se cruzó con una replica de un cadáver de santhid formado por [[Insomne\|insomnes]]. Pensando que era un cadáver de santhid normal, la tripulación estaba segura de qeu era un presagio terrible hasta que [[Rysn\|Rysn]] los convenció de que, como los santhid muertos que llegaban a la costa, era en realidad un buen presagio y qla tripulación debía darle un entierro apropiado. Cuando la tripulación trataba de acercarlo para el entierro, sin embargo, se dividió en sus hordinos constituyentes, aterrando a la tripulación.
+  <<Shallan\|Shallan>> meeting a santhid
+## History
+Santhidyn are rarely seen by sailors, and even more rarely by scholars. A naturalist named [[Naladan\|Naladan]] spent her entire career chasing santhidyn and never got a good look at one. Sightings are so infrequent that there is a great deal of disagreement about their nature, and even their existence. Some corpses have washed ashore, but they are generally badly decomposed and not useful for study.
+[[Shallan Davar\|Shallan Davar]] and the crew of the *[[Wind's Pleasure\|Wind's Pleasure]]* encountered a santhid in [[Longbrow's Straits\|Longbrow's Straits]] in 1173. Shallan was determined to observe the creature underwater, and ordered the crew to tie some ropes around her and lower her over the gunwale down to the water, against [[Yalb\|Yalb]] and [[Tozbek\|Tozbek's]] better judgment. Shallan was amazed at the santhid's massive, majestic body and the many fish and [[Spren\|spren]] surrounding it. She was ecstatic after emerging from the water and made a number of sketches of the great animal.
+When the *Wind's Pleasure* later sank off the coast of the [[Frostlands\|Frostlands]], Shallan managed to survive; she made landfall near the [[Shallow Crypts\|Shallow Crypts]]. When she woke up, she did not remember what had happened, but she saw a santhid leaving the area. She believed that it was the same santhid she had encountered in Longbrow's Straits, even though she had since traveled a significant distance without seeing it again. She assumed that the santhid had saved her, and speculated about its level of intelligence. She lost her original drawings during the sinking, but later recreated some of them.
+During the [[Expedition to Akinah\|expedition to Akinah]], the crew of the *[[Wandersail (1174 ship)\|Wandersail]]* came across a replica of a dead santhid formed by a [[Sleepless\|Sleepless]]. Thinking it to be a regular santhid corpse, the crew were certain that it was a terrible omen until convinced by [[Rysn\|Rysn]] that, like a dead santhid washing up on shore, it was actually a good omen and that the crew should give the creature a proper burial. Upon the crew attempting to haul in it for a burial, however, it split into its constituent hordelings, horrifying the crew.
 
-## Trasfondo
->“*¡Traes buena suerte, joven señora! Hacía años que no veíamos a un santhid.*”
-\-Yalb, a Shallan[3]
-
-
-Los marineros [[Thayle%C3%B1o\|thayleños]] consideran que los santhidyn son buena suerte y un buen presagio, ya sea vivos o varados en la costa, y respetan a los que encuentran como si fuesen sagrados. Matar a un santhid se considera un acto monstruoso y se rumoprea que trae suerte extremadamente mala, incluso pensar en cazar uno hace la que mayoría se sientan incómodos. A menudo cuentan historias de avistamientos y comportamientos de santhid. Los eruditos como Shallan y [[Jasnah\|Jasnah]] son conscientes de la reverencia que tienen los marineros por los santhidyn.
-Los caparazones de santhid a veces se exhiben en ciudades portuarias como [[Amydlatn\|Amydlatn]]  o la academia naval de Cuidad Thaylen. [[Mraize\|Mraize]] también parefce tener parte de un caparazón de santhid en su «sala de trofeos».
-Se cree que los santhids magnifican la paz y la confianza, y alguna gente los cree más spren que animal.
-
-## Curiosidades
-Los santhids no están basados en ningún animal real en particular.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 22:02, 16 November 2020 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Lore
+>“*You are good luck, young miss! We ain't seen a santhid in years.*”
+\-Yalb, to Shallan[3]
 
 
+[[Thaylen\|Thaylen]] sailors consider santhidyn to be very good luck and a good omen, whether alive or when washed on the shore, and respect those they do encounter as if they were sacred. Killing a santhid is considered to be a monstrous act and rumored to attract extremely bad luck, and even the thought of hunting one is enough to make most uncomfortable. They often tell stories about santhid sightings and behavior. Scholars such as Shallan and [[Jasnah\|Jasnah]] are aware of the reverence that sailors hold for santhidyn.
+Santhid shells are sometimes displayed in coastal cities such as [[Amydlatn\|Amydlatn]]  or at the naval academy of Thaylen City. [[Mraize\|Mraize]] also appears to have a part of a santhid skull in his "trophy room".
+Santhids are believed to magnify peace and confidence, and some people consider them to be more spren than animal.
 
-https://es.coppermind.net/wiki/Santhid
+## Trivia
+Santhids are not based on any particular real-life animal.
+
+
+https://coppermind.net/wiki/Santhid

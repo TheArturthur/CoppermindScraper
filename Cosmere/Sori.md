@@ -1,44 +1,31 @@
-
-
 |**Sori**|
 |-|-|
 ||
-|**Tipo**|Isla|
-|**Región**|[[Pante%C3%B3n\|Panteón]]🐱︎|
-|**Mundo**|[[Primero del Sol\|Primero del Sol]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Island|
+|**Region**|[[Pantheon\|Pantheon]]|
+|**World**|[[First of the Sun\|First of the Sun]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Sori** es una pequeña isla del [[Pante%C3%B3n\|Panteón]] en [[Primero del Sol\|Primero del Sol]].
+**Sori** is a small island in the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]].
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Ecología. [[#Ecolog.C3.ADa]] 
-3 Cultura. [[#Cultura]] 
-4 Notas. [[#Notas]] 
+1 Geography. [[#Geography]] 
+2 Ecology. [[#Ecology]] 
+3 Culture. [[#Culture]] 
+4 Notes. [[#Notes]] 
 
 
-## Geografía
-Sori es una de las más de cuarenta islas del archipiélago del Panteón. [[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] la denomina la "menor" de las islas, por lo que presumiblemente es la más pequeña en superficie. Se encuentra en el extremo del archipiélago más cercano a las [[Islas Eelakin\|islas Eelakin]], ya que es la primera isla que ve Ocaso cuando regresa de un viaje a ellas. Sori está aproximadamente a tres semanas de viaje en barca de remos desde las islas natales. Se hace referencia a tres islas cercanas como las "primas" de Sori.
+## Geography
+Sori is one of over forty islands in the Pantheon archipelago. It is referred to by [[Sixth of the Dusk (character)\|Sixth of the Dusk]] as the "least" of the islands, and is therefore presumably the smallest island by area. It is located on the end of the archipelago closest to the [[Eelakin Islands\|Eelakin Islands]], as it is the first island Dusk sees when he returns from a trip there. Sori is approximately three weeks' journey from the homeisles by rowboat. Three nearby islands are referred to as Sori's "cousins".
 
-## Ecología
-Como isla del Panteón, Sori alberga diversas criaturas y plantas únicas. Se pueden encontrar [[Recorrefondos\|recorrefondos]] en las aguas cercanas, y hay trampas en sus selvas. Explorar Sori presenta algunos desafíos, pero es mucho menos peligrosa que otras islas del Panteón. Aunque es de suponer que cuenta con algunos de los animales salvajes que se encuentran en otras islas, Ocaso menciona que carece de caza valiosa; es probable que ciertas especies de animales del Panteón no se encuentren en Sori. Sin embargo, es posible que los [[Aviar\|aviares]] vivan en la isla, ya que el tío de Ocaso le regala una pluma de apareamiento como parte de su entrenamiento en Sori.
+## Ecology
+As an island in the Pantheon, Sori is home to various unique creatures and plants. [[Deepwalker\|Deepwalkers]] can be found in the waters nearby, and there are traps in its jungles. Exploring Sori presents some challenges, but it is far less dangerous than other islands in the Pantheon. Although it presumably has some of the same wildlife found on other islands, Dusk mentions that it lacks valuable game; it is likely that certain species of Pantheon animals are not found on Sori. However, [[Aviar\|Aviar]] may live on the island, as Dusk's uncle gives him a mating plume as part of his training on Sori.
 
-## Cultura
-En la tradición eelakin, las islas del Panteón están personificadas, y el nombre Sori significa "niño". Se considera que Sori es amada por todas las demás islas. Todos los tramperos son bienvenidos allí, y un trampero puede hacer una ofrenda a Sori sin que su propia isla de residencia se ponga celosa. A diferencia de otras islas, todos los tramperos han pasado un tiempo en Sori durante su aprendizaje, y la isla es la más visitada del Panteón.
-Como Sori es más mansa que otras islas, se utiliza para entrenar a jóvenes [[Trampero\|tramperos]] antes de que elijan otra isla del Panteón para vivir. A los aprendices se les prohíbe visitar otras islas hasta que hayan completado su formación en Sori. Ocaso recuerda haber entrenado allí con su tío y guarda buenos recuerdos de su estancia allí.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 00:28, 1 de julio de 2020 (UTC)
-|**[[Sexto del Ocaso\|Sexto del Ocaso]] (**[[Primero del Sol\|Primero del Sol]]**)**|
-|-|-|
-|**Personajes**|[[Sexto del Ocaso (personaje)\|Sexto del Ocaso]] · [[Vathi\|Vathi]] · [[Primero del Cielo\|Primero del Cielo]]|
-|**Lugares**|[[Pante%C3%B3n\|Panteón]] ([[Patji (isla)\|Patji]] · ) · [[Islas Eelakin\|Islas Eelakin]] · [[Continente\|Continente]]|
-|**Magia**|[[Patji (ser)\|Patji]] · [[Aviar\|Aviar]] ([[Sak\|Sak]] · [[Kokerlii\|Kokerlii]]) · [[Ojo de Patji\|Ojo de Patji]]|
-|**Grupos**|[[Compa%C3%B1%C3%ADa Comercial Intereses Norte%C3%B1os\|Compañía Comercial Intereses Norteños]] · [[Venidos de Arriba\|Venidos de Arriba]]|
+## Culture
+In the Eelakin tradition, the islands of the Pantheon are personified, and the name Sori means "child". Sori is considered to be loved by all of the other islands. All trappers are welcome there, and a trapper can make an offering to Sori without causing their own island of residence to become jealous. Unlike other islands, all trappers have spent time on Sori during their apprenticeships, and the island is the most visited in the Pantheon.
+Because Sori is more tame than other islands, it is used as a training ground for young [[Trapper\|trappers]] before they choose another island in the Pantheon to live on. Trainees are prohibited from visiting other islands until they have completed their training on Sori. Dusk recalls training with his uncle on Sori and has fond memories of his time there.
 
 
 
-https://es.coppermind.net/wiki/Sori
+https://coppermind.net/wiki/Sori

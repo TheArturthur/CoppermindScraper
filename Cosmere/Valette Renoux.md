@@ -1,79 +1,77 @@
-
-
 |**Vin**|
 |-|-|
 ||
-|**[[Casa Tekiel\|Casa Tekiel]]**|
-|**Cónyuge**|[[Elend Venture\|Elend Venture]]|
-|**Padres**|[[Tevidian Tekiel\|Tevidian Tekiel]], [[Madre de Vin\|madre]]|
-|**Hermanos**|[[Reen\|Reen]], [[Hermana de Vin\|hermana]]|
-|**Parientes**|[[Salmen Tekiel\|Salmen Tekiel]], [[Kale Tekiel\|Kale Tekiel]]|
-|**Nacido en**|1005 [[Imperio Final\|IF]]|
-|**Fallecido**|1025 [[Imperio Final\|IF]]|
-|**Capacidades**|[[Alomancia\|Nacido de la bruma]], [[Lasca\|Lasca]], [[Esquirla\|Esquirla]] [[Preservation\|Preservation]], [[Hemalurgia\|Hemalurgo]]|
-|**Títulos**|Heredera del Superviviente, Emperatriz del [[Nuevo Imperio\|Nuevo Imperio]], Guerrera Ascendente, Héroe de las Eras, Lady Nacida de la Bruma, Madre, [[Conservaci%C3%B3n\|Conservación]]|
-|**Apodos**|Valette Renoux|
-|**Grupo**|[[Banda de Camon\|Banda de Camon]] , [[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|
-|**Lugar de nacimiento**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final]]*|
+|**[[House Tekiel\|House Tekiel]]**|
+|**Spouse**|[[Elend Venture\|Elend Venture]]|
+|**Parents**|[[Tevidian Tekiel\|Tevidian Tekiel]], [[Vin's mother\|mother]]|
+|**Siblings**|[[Reen\|Reen]], [[Vin's sister\|sister]]|
+|**Relatives**|[[Salmen Tekiel\|Salmen Tekiel]], [[Kale Tekiel\|Kale Tekiel]]|
+|**Born**|1005 [[Final Empire\|FE]]|
+|**Died**|1025 [[Final Empire\|FE]]|
+|**Abilities**|[[Allomancy\|Mistborn]], [[Hemalurgy\|Hemalurgist]], [[Sliver\|Sliver]], [[Shard\|Shard]] of [[Preservation\|Preservation]]|
+|**Titles**|Heir to the Survivor, Empress of the [[New Empire\|New Empire]], Ascendant Warrior, Hero of Ages, Lady Mistborn, Mother, [[Preservation\|Preservation]]|
+|**Aliases**|Valette Renoux|
+|**Groups**|[[Camon's crew\|Camon's crew]] , [[Kelsier's crew\|Kelsier's crew]], Venture army|
+|**Birthplace**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-Valette redirige aquí. Para la noble post-[[Catacendro\|Catacendro]], ver [[Valette Entrone\|Valette Entrone]].
->“*Eso era una ilusión, un sueño. Soy la niña que creció en las sombras.*”
+Valette redirects here. For the post-[[Catacendre\|Catacendre]] noblewoman, see [[Valette Entrone\|Valette Entrone]].
+>“*That was an illusion, a dream. I am that child who grew up in the shadows.*”
 \-Vin.[4]
 
 
-**Vin Venture** es una [[Alomancia\|nacida de la bruma]] medio [[Skaa\|skaa]] del [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Más tarde se la llega a conocer como **Heredera del Superviviente**, la **Guerrera Ascendente** y **Lady Nacida de la Bruma**, así como con el alias de **Valette Renoux**. Nació de la [[Madre de Vin\|amante skaa]] de [[Tevidian Tekiel\|Tevidian Tekiel]] en el año 1005 [[Imperio Final\|IF]] en [[Luthadel\|Luthadel]], y fue criada por su medio hermano [[Reen\|Reen]] después de que este descubriera que su [[Hermana de Vin\|otra hermana]] había sido asesinada por su madre. Los dos vivían en las calles y trabajaban en la clandestinidad, hasta que finalmente llegaron a trabajar en la [[Banda de Camon\|banda]] de [[Camon\|Camon]].
-Vin se entrena y trabaja con la [[Banda de Kelsier\|Banda de Kelsier]], después de que él evite que Camon la golpee hasta la muerte, y se infiltra en la nobleza bajo el disfraz de Valette Renoux, eventualmente ayudando a salvar a los supervivientes del ejército de la [[Rebeli%C3%B3n skaa\|rebelión skaa]] y matar a [[Shan Elariel\|Shan Elariel]] antes de luchar contra el [[Lord Legislador\|lord Legislador]] y matarlo también. Después del Colapso, se casa con [[Elend Venture\|Elend Venture]] y se establece a sí misma y a Elend como la 'emperatriz' y el emperador del [[Nuevo Imperio\|Nuevo Imperio]], respectivamente, durante el [[Asedio de Luthadel\|Asedio de Luthadel]], en el que mata a [[Zane\|Zane]] y a [[Straff Venture\|Straff Venture]], salva a la ciudad de los arrasadores [[Koloss\|koloss]] y obliga a [[Ashweather Cett\|lord Cett]] a jurarles lealtad. A raíz del asedio, involuntariamente libera a [[Ruina\|Ruina]] de su prisión en el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]].
-Tras la liberación de Ruina, Vin ayuda a asegurar el nuevo Imperio; localiza las cavernas de suministros del lord Legislador, participa en el [[Asedio de Ciudad Fadrex\|asedio de Ciudad Fadrex]], y toma la [[Esquirla\|Esquirla]] [[Conservaci%C3%B3n\|Conservación]] poco antes de la [[Batalla de Hathsin\|batalla de Hathsin]], donde da su vida para matar a Ruina. En los años posteriores a la [[Ascensi%C3%B3n Final\|Ascensión Final]], se convierte en una figura mítica para los descendientes de los sobrevivientes, conocidse dice que se convirtió en la guardiana de las brumas y ahora vigila a las personas en la noche.
+**Vin Venture** is a half-[[Skaa\|skaa]] [[Allomancy\|Mistborn]] from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. She later becomes known as **Heir to the Survivor**, the **Ascendant Warrior** and the **Lady Mistborn**, as well as taking on the alias **Valette Renoux**. She was born to [[Tevidian Tekiel\|Tevidian Tekiel's]] [[Vin's mother\|skaa mistress]] in year 1005 [[Final Empire\|FE]] in [[Luthadel\|Luthadel]], and was raised by her half brother [[Reen\|Reen]] after he discovered that their [[Vin's sister\|sister]] had been murdered by their mother. The two lived on the streets and worked in the underground, until eventually coming to work in [[Camon\|Camon's]] [[Camon's crew\|crew]].
+Vin trains in and works with [[Kelsier\|Kelsier's]] [[Kelsier's crew\|crew]] after he prevents Camon from beating her to death, and infiltrates the nobility under the guise of Valette Renoux, eventually helping to save the survivors of the [[Skaa rebellion\|skaa rebellion's]] army and killing [[Shan Elariel\|Shan Elariel]] before fighting the [[Lord Ruler\|Lord Ruler]] and killing him. After the Collapse, she marries [[Elend Venture\|Elend Venture]] and sets herself and Elend up as the **empress** and emperor of the [[New Empire\|New Empire]], respectively, during the [[Siege of Luthadel\|Siege of Luthadel]], wherein she kills [[Zane\|Zane]] and [[Straff Venture\|Straff Venture]], saves the city from rampaging [[Koloss\|koloss]] and forces [[Ashweather Cett\|Lord Cett]] to swear his allegiance to them. In the aftermath of the siege, she inadvertently frees [[Ruin\|Ruin]] from its prison at the [[Well of Ascension\|Well of Ascension]].
+Following Ruin's release, Vin helps to secure her and Elend's empire; locating the Lord Ruler's storage caverns, participating in the [[Siege of Fadrex City\|Siege of Fadrex City]], and takes up the [[Shard\|Shard]] [[Preservation\|Preservation]] shortly prior to the [[Battle of Hathsin\|Battle of Hathsin]], wherein she gives her life to kill Ruin. In the years following the [[Final Ascension\|Final Ascension]], she becomes a mythical figure to the descendants of the survivors, known as the Ascendant Warrior. In the [[Words of Founding\|Words of Founding]], it is said that she became the guardian of the mists and now watches over people in the night.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Alomancia]] 
-2. [[#Armas y combate]] 
-2. [[#Disfraces]] 
-2. [[#Ascensi.C3.B3n]] 
-2. [[#Debilidades]] 
-
-
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-
-3. [[#Ni.C3.B1ez]] 
+2. [[#Allomancy]] 
+2. [[#Weapons and Combat]] 
+2. [[#Disguises]] 
+2. [[#Ascension]] 
+2. [[#Weaknesses]] 
 
 
-3. [[#La rebeli.C3.B3n skaa]] 
+3 History. [[#History]] 
 
-3. [[#Banda de Camon]] 
-3. [[#Banda de Kelsier]] 
-3. [[#La guerra de casas]] 
-3. [[#El levantamiento skaa y la muerte del lord Legislador]] 
+3. [[#Early Life]] 
 
-
-3. [[#El asedio de Luthadel]] 
-
-3. [[#Zane y el ataque a la fortaleza Hasting]] 
-3. [[#La batalla de Luthadel]] 
-3. [[#El Pozo de la Ascensi.C3.B3n]] 
-3. [[#Tras el asalto de los koloss]] 
+3. [[#Childhood]] 
 
 
-3. [[#El Nuevo Imperio]] 
+3. [[#The Skaa Rebellion]] 
 
-3. [[#El asedio de Fadrex]] 
-3. [[#La batalla de Hathsin y la Ascensi.C3.B3n Final]] 
+3. [[#Camon.27s Crew]] 
+3. [[#Kelsier.27s Crew]] 
+3. [[#The House War]] 
+3. [[#The Skaa Riots .26 the Death of the Lord Ruler]] 
 
 
-3. [[#Mitos y cultura post-Catacendro]] 
+3. [[#The Siege of Luthadel]] 
+
+3. [[#Zane .26 the Attack on Keep Hasting]] 
+3. [[#The Battle of Luthadel]] 
+3. [[#The Well of Ascension]] 
+3. [[#Aftermath of the Koloss Assault]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+3. [[#The New Empire]] 
+
+3. [[#The Siege of Fadrex]] 
+3. [[#The Battle of Hathsin .26 The Final Ascension]] 
+
+
+3. [[#Post-Catacendre Myths and Culture]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Elend]] 
 4. [[#Reen]] 
@@ -82,241 +80,219 @@ Tras la liberación de Ruina, Vin ayuda a asegurar el nuevo Imperio; localiza la
 4. [[#Sazed]] 
 
 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Ver También. [[#Ver Tambi.C3.A9n]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 See Also. [[#See Also]] 
 
-7. [[#Subp.C3.A1ginas]] 
-7. [[#Art.C3.ADculos relacionados]] 
-
-
-8 Notas. [[#Notas]] 
+7. [[#Subpages]] 
+7. [[#Related Articles]] 
 
 
-## Apariencia y personalidad
+8 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
  
-Para más imágenes, ver [[Vin/Galer%C3%ADa\|/Galería]].
-Debido a una vida pasada en las calles y en el bajo mundo skaa, Vin es relativamente pequeña y se considera escuálida. Tiene el cabello negro, el cual mantuvo corto hasta que se unió a la rebelión skaa.
-Ella desconfía de forma natural de los demás debido a las circunstancias de su educación y es lenta para confiar en las personas por temor a ser traicionada. Inicialmente, tiende a intentar parecer irrelevante u ocultarse cuando se siente incómoda o ansiosa, y prefiere la soledad a la compañía de los demás, debido a la creencia que se le ha inculcado de que nadie puede traicionarla si está sola.
-A menudo está alerta y vigilante, tiende a posarse en las cosas o sentarse en lugares donde puede vigilar mejor su entorno. Vin también se siente incómoda con la atención de los demás, y prefiere pasar desapercibida y oculta. Esto la pone en una posición incómoda con la [[Iglesia del Superviviente\|Iglesia del Superviviente]], ya que muestra una evidente incomodidad al ser venerada como la Dama Heredera. Por esta razón, también se siente incómoda con [[Demoux\|Demoux]]. Prefiere usar ropa sencilla y práctica, e inicialmente encuentra los vestidos nobles incómodos y poco prácticos, lo que se refleja más tarde al convertirse en emperatriz del Nuevo Imperio, negándose a usar atuendos reales en favor de ropa más práctica para la batalla.
-Para cuando sucede el asedio de la ciudad de Fadrex, Vin se ha vuelto confiada y perspicaz. Tiene el control total, y todo esto en conjunto la hace parecer más poderosa de lo que era antes de conocer a Kelsier.
-Vin está muy [[Conexi%C3%B3n\|Conectada]] con Conservación, ya que odia el cambio y teme que la gente la deje.
+For more images, see [[Vin/Gallery\|/Gallery]].
+Due to a life spent on the streets and in the skaa underground, Vin is relatively small and thinks of herself as scrawny. She has black hair which she kept cut short until she joins the skaa rebellion.
+She is naturally suspicious of others due to the circumstances of her upbringing, and slow to trust people out of fear of being betrayed. She initially tends to attempt to make herself seem irrelevant or hide when she is uncomfortable or anxious, and prefers solitude to the company of others, because of the belief instilled in her that no one can betray her if she is alone.
+Often she is alert and watchful, having a tendency to perch on things, or sitting in places where she can best monitor her surroundings. Vin is also uncomfortable with having the attention of others, preferring to go hidden and unnoticed. This puts her in an awkward position with the [[Church of the Survivor\|Church of the Survivor]], as she displays obvious discomfort as being revered as the Lady Heir. For this reason, she is also uncomfortable around [[Demoux\|Demoux]]. She prefers to wear simple, practical clothing, and initially finds noble dresses uncomfortable and impractical, which is reflected later after becoming empress of the New Empire when she refuses to wear royal garb in favour of clothing more practical for battle.
+By the time of the siege of Fadrex city, Vin has grown confident and perceptive. She is fully in control, and all of this in tandem makes her seem more powerful than she was before meeting Kelsier.
+Vin is very [[Connection\|Connected]] to Preservation, since she hates change and fears people leaving her.
 
-## Atributos y habilidades
+## Attributes and Abilities
  
-### Alomancia
-Al ser una nacida de la bruma, Vin tiene la capacidad de usar y quemar todos los metales alománticos. Se [[Romper\|Rompió]] durante su difícil proceso de nacimiento, lo cual es una de las razones por las que tiene una gran afinidad con la alomancia. Vin mostró capacidad en el uso de sus habilidades e incluso Kelsier mencionó que su talento superaba al suyo. Sin embargo, debido a las limitaciones del Imperio Final, Vin no tenía experiencia en quemar [[Nicrosil\|nicrosil]], [[Cromo\|cromo]], [[Cadmio\|cadmio]], o [[Bendaleo\|bendaleo]]. Además, la curiosidad y el ingenio naturales de Vin permitieron demostraciones extremas de su poder. Un gran ejemplo de ello es el descubrimiento de Duralumin. Sabiendo que cada metal alomántico puro tenía una aleación suplementaria, Vin contrató a metalúrgicos para desarrollar múltiples variaciones de aleación para las pruebas.
-También demostró diversas destrezas en su uso alomántico. Esto se debe principalmente a la predilección de Vin por los metales orientados al combate y a que ella es una [[Alomancia\|nacida de la bruma]] plena. Si no podía ver de inmediato cómo un metal en particular podría ayudar en una pelea, Vin a menudo los consideraría menos útiles. Sin embargo, durante el transcurso del tiempo, desarrolló una comprensión profunda de la teoría alomántica. Fue considerada la nacida de la bruma más poderosa de su tiempo, incluso con [[Elend Venture\|Elend Venture]] consumiendo lerasium directamente y, por lo tanto, sin sufrir una dilución de poder por transferencia genética.
-**[[Hierro\|Hierro]] y [[Acero\|Acero]]-** Vin era extremadamente competente en el uso de estos metales. Ser capaz de combinar los aspectos de empujar acero y tirar del hierro le permitió una movilidad y un potencial ofensivo mucho mayores en comparación con el lanzamiento o la atracción de monedas. La alomancia naturalmente más poderosa de Vin, mejoró aún más sus metales físicos externos, ya que pudo igualar a Kelsier en fuerza cuando empujaba contra una moneda a pesar de que Kelsier pesaba casi el doble de su peso. El control de Vin sobre el acero y el hierro le permitió usar herraduras como medio de movimiento continuo.
-**[[Peltre\|Peltre]]-** Vin usaba peltre casi constante e inconscientemente. Habiendo quemado inconscientemente la pequeña cantidad que absorbió al beber agua cuando era niña para curar sus heridas diarias, su cuerpo se ha acostumbrado a hacerlo. Esto es necesario para ayudar a recuperarse de las muchas lesiones que sufre, incluso después de caer inconsciente. Habiendo sido entrenada por Hammond para quemar peltre para ayudar con golpes y maniobras individuales, Vin se convirtió en una hábil combatiente cuerpo a cuerpo. Ha usado peltre para levantar y usar una espada Koloss de igual forma que ha podido completar arrastres de peltre.
-**[[Esta%C3%B1o\|Estaño]]-** Vin suele quemar una pequeña cantidad de estaño en todo momento. Los sentidos intensificados le dan una ventaja sobre aquellos que intentarían un ataque furtivo. Vin también quema estaño cuando es necesario para asistir con la vista o el oído, a menudo cuando está espiando.
-**[[Lat%C3%B3n\|Latón]] y [[Cinc\|Cinc]]-** Vin se dio cuenta de su poder de influencia emocional incluso antes de que Kelsier la encontrara. Ella los apodó "suerte" y acumuló su reserva de metal (obtenida de los minerales en el agua) para usarla en situaciones peligrosas. Sin embargo, no usa el poder a menudo en su vida posterior, en gran parte debido a su falta de delicadeza al usarlos. A diferencia de Brisa, que es casi imposible de detectar, Vin es a menudo descubierta. Sin embargo, los ha usado para demostrar su poder, como cuando asustó a Straff Venture al despojarlo de todas sus emociones con un empuje de latón impulsado por duraluminio. Combinada con duraluminio, la alomancia emocional también le permite a Vin controlar a los koloss.
+### Allomancy
+Being a Mistborn, Vin has the ability to access and burn all of the Allomantic metals. She [[Snapping\|Snapped]] during her difficult birth process, which is one reason why she has great affinity with Allomancy. Vin showed proficiency in using her abilities with even Kelsier mentioning her talent surpassing his own. However due to the limitations of the Final Empire, Vin had no experience burning [[Nicrosil\|nicrosil]], [[Chromium\|chromium]], [[Cadmium\|cadmium]], or [[Bendalloy\|bendalloy]]. In addition Vin’s natural curiosity and ingenuity allowed for extreme demonstrations of her power. A great example of Vin’s ingenuity is the discovery of Duralumin. Knowing that every pure allomantic metal had a supplementary alloy, Vin contracted metallurgists to develop multiple alloy variations for testing.
+Vin demonstrated varying proficiencies in her allomantic usage. This is primarily caused by Vin’s predilection toward combat oriented metals, and her being a full [[Allomancy\|Mistborn]]. If she could not immediately see how a particular metal could aid in a fight, Vin would often consider them less useful. However for the time period, Vin developed a deep understanding of allomantic theory. She was considered the most powerful Mistborn of her time even with [[Elend Venture\|Elend Venture]] consuming Lerasium directly, and therefore not suffering a dilution of power from genetic transfer.
+**[[Iron\|Iron]] and [[Steel\|Steel]]-** Vin was extremely proficient in the use of both steel and iron. Being able to combine both the aspects of Steelpushes and Ironpulls allowed for far greater mobility and offensive potential when compared to the average Coinshot or Lurcher. Vin’s naturally more powerful allomancy further enhanced her external physical metals, as she was able to match Kelsier in strength when Pushing against a coin, despite Kelsier being nearly twice her weight. Vin’s control over steel and iron allowed her to use horseshoes as a means of continued motion.
+**[[Pewter\|Pewter]]-** Vin used pewter almost constantly and subconsciously. Having subconsciously burned the small amount she absorbed in drinking water as a child to heal her daily wounds her body has grown accustomed to doing so. This is needed to assist in recovering from the many injuries she sustains, even after falling unconscious. Having been trained by Hammond to flare pewter to assist with individual strikes and maneuvers, Vin became a skilled hand to hand combatant. Vin has used pewter to lift and use a Koloss sword. Vin has been able to complete pewter drags.
+**[[Tin\|Tin]]-** Vin often burns a small amount Tin at all times. The heightened senses give her an advantage over those that would try a sneak attack. Vin also flares tin when needed to assist in sight or hearing, often when she is spying.
+**[[Brass\|Brass]] and [[Zinc\|Zinc]]-** Vin came to realize her power of emotion influencing even before Kelsier found her. She nicknamed them "luck" and stockpiled her metal reserve (gained from minerals in water) to be used in dangerous situations. However, she doesn't use the power often in her later life, largely due to her lack of finesse in using them. Unlike Breeze who is almost impossible to detect, Vin is often discovered. She has used them however to demonstrate her power, such as when she scared Straff Venture by stripping away all his emotions using a Duralumin powered brass Push. Combined with duralumin, emotional allomancy also allow Vin to control Koloss.
 
-  Quemando <<Atium\|atium>>
-**[[Cobre\|Cobre]] y [[Bronce\|Bronce]]-** Vin quema ambos metales constantemente. Cobre para ocultar su propia alomancia y bronce para detectar a otros que usan alomancia cerca de ella. Originalmente, Vin pensó que podría ser más fuerte en el uso de bronce que otros alomantes, ya que podía penetrar nubes de cobre. También puede perforar su propia nube de cobre, escuchando pulsos alománticos del exterior. Sin embargo, esto se debió a su pendiente que era en realidad un [[Hemalurgia\|clavo hemalúrgico]].
-**[[Duraluminio\|Duraluminio]]-** Después de haber descubierto el duraluminio ella misma, Vin lo mantuvo en secreto. Esto se debe a que las habilidades de mejora del duraluminio son extremadamente poderosas. Los empujes de acero mejorados con duraluminio le han permitido a Vin saltar distancias extremas, así como lanzar varios caballos al aire usando sus herraduras.
-**[[Oro\|Oro]]-** Ver su yo pasado y las versiones alternativas de lo que Vin podría haber sido la perturbó hasta el punto de que nunca quiso volver a intentarlo.
-**[[Atium\|Atium]]-** Debido al poder y la rareza del atium, Vin lo mantuvo en una forma de reverencia, tanto apreciando como temiendo su uso. Vin también entendió los fallos del atium, lo que le permitió derrotar a dos nacidos de la bruma potenciados por ese metal.
-**[[Malatium\|Malatium]]-** Durante la pelea final entre el [[Lord Legislador\|lord Legislador]] y Vin, usó el metal para descubrir el secreto oculto tras el pasado del lord Legislador. Luego usó este secreto para aturdirlo y asesinarlo.
-**[[Electro\|Electro]]-** Considerado el "atium de los pobres", Vin usa electro para luchar contra los Inquisidores de acero cuando parecía que el suministro de atium se había agotado.
+  Burning <<Atium\|atium>>
+**[[Copper\|Copper]] and [[Bronze\|Bronze]]-** Vin burns both metals constantly. Copper to hide her own allomancy, and bronze to detect others using allomancy near her. Originally Vin thought that she may be stronger at using bronze than other allomancers as she was able to pierce copperclouds. She can also pierce her own coppercloud, hearing allomantic pulses from outside. This was however due to her earring which was in fact a [[Hemalurgic\|Hemalurgic]] spike.
+**[[Duralumin\|Duralumin]]-** Having discovered duralumin herself, Vin kept it a secret. This is because of duralumin’s enhancing abilities being extremely powerful. Duralumin enhanced Steelpushes have allowed Vin to leap extreme distances, as well as throw several horses into the air by their horseshoes.
+**[[Gold\|Gold]]-** Seeing her past self and alternate versions of what Vin could have been unnerved her to the point that she never wanted to attempt it again.
+**[[Atium\|Atium]]-** Due to the power and rarity of atium Vin held it in a form of reverence, both appreciating and fearing its use. Vin also understood atium’s flaws, allowing her to defeat two atium powered Mistborn.
+**[[Malatium\|Malatium]]-** During the final fight between the [[Lord Ruler\|Lord Ruler]] and Vin, she used the metal to discover the hidden secret behind the Lord Ruler's past. She then used this secret to stun him and kill him.
+**[[Electrum\|Electrum]]-** The “poor man’s atium” Vin uses electrum to fight Steel Inquisitors when it appeared the supply of atium had depleted.
 
 
-### Armas y combate
+### Weapons and Combat
  
-En términos de combate cuerpo a cuerpo y habilidades con armas, Vin era muy talentosa. Habiendo recibido entrenamiento en combate tanto de Kelsier (un [[Alomancia\|nacido de la bruma]] completo) como de Hammond (un violento consumado), Vin ha desarrollado un conjunto único de habilidades. Utilizando principalmente dagas de obsidiana para evitar la influencia alomántica de sus oponentes, Vin utiliza varios empujones de acero y tirones de hierro para maniobrar rápidamente por el campo de batalla. Al hacerlo, a menudo sorprenderá a sus oponentes golpeando desde ángulos imprevistos. Vin a veces utiliza trucos que le permitan posicionarse también para ataques sorpresa. Un ejemplo de esto es empujar su bolsa de monedas para que parezca que se está moviendo en esa dirección, solo para golpear desde otra posición alternativa. Además del uso de dagas, Vin ha sido entrenada en el uso de bastones, e incluso manejó una gran espada koloss con un efecto devastador, aunque en el caso de la espada, Vin usó la fuerza otorgada por el peltre y no la habilidad pura.
+In terms of melee combat and weapon skills, Vin was very talented. Having undergone training in combat from both Kelsier (a full [[Allomancy\|Mistborn]]), and Hammond (an accomplished Thug), Vin has developed a unique set of skills. Primarily using obsidian daggers to prevent Allomantic influence by her opponents, Vin uses various Steelpushes and Ironpulls to quickly maneuver around the battlefield. Doing so she will often surprise her opponents by striking from unforeseen angles. Vin will often utilize tricks to allow her to position herself for surprise attacks as well. An example of this is Pushing her coin pouch away to make it seem as if she was moving in that direction, only to strike from an alternate one. In addition to the use of daggers Vin has been trained in the use of staffs, and even handled a koloss great sword to devastating affect, though in the case of the sword Vin wielded through the strength granted by pewter and not pure skill.
 
-### Disfraces
-Vin también ha demostrado ser hábil para disfrazarse como se ve cuando se insertó en la vida de la corte bajo la apariencia de Valette Renoux. Usó este alias para ayudar a Kelsier a espiar a la nobleza, así como para difundir mentiras entre ellos.
+### Disguises
+Vin has also shown herself to be skilled in disguising herself as seen when she inserted herself into the court lifestyle under the guise of Valette Renoux. She used this alias to help Kelsier spy on the nobility, as well as plant lies among them.
 
-### Ascensión
-Cuando tomó la esquirla de Conservación, Vin fue imbuida de una gran cantidad de poder. Se demostró que podía aumentar los poderes de los alomantes como se vio cuando fortaleció las habilidades alománticas de Elend.
+### Ascension
+Later when she took the shard of Preservation, Vin was imbued with a large amount of power. She was shown to be able to augment the powers of Allomancers as seen when she strengthened Elend's Allomantic abilities.
 
-### Debilidades
-A pesar de las increíbles demostraciones de alomancia y destreza cuerpo a cuerpo de Vin, sigue siendo extremadamente pequeña en estatura. Al privarle de metales alománticos, queda débil y se vuelve casi indefensa. Cuando se vio obligada a quemar aluminio, no pudo lograr ninguna resistencia razonable contra sus captores. Además, debido a su tamaño, es muy vulnerable en un combate de empujar acero, y cuando intentó empujar contra Kelsier, este le advirtió de que podría ser catastrófico si lo hacía.
-Además, los amigos de Vin pueden usarse en su contra. Su deseo de protegerlos empuja a Vin a situaciones en las que está en desventaja. Esto es más evidente cuando se trata de Elend. Temiendo intentos de asesinato, Vin usó peltre y estaño para permitirse permanecer despierta durante largos períodos de tiempo. Esto podría haber rozado el arrastre de peltre, si no la hubieran convencido de que descansara de vez en cuando. La fatiga hizo que ella se sintiera naturalmente debilitada.
+### Weaknesses
+Despite Vin's amazing displays of allomancy and melee prowess, she is still extremely small in stature. When deprived of allomantic metals, Vin is left weak and nearly defenseless. When forced to burn aluminum, she was unable to achieve any reasonable resistance against her captors. Additionally, due to her small size, she is very vulnerable in a steelpushing match, and when she tried pushing against Kelsier, he warned her that it could be catastrophic if she did.
+Additionally Vin's friends can be used against her. Her desire to protect them pushes Vin into situations where she is disadvantaged. This is more evident when Elend is concerned. Fearing assassination attempts Vin used pewter and tin to allow her to remain awake for extreme lengths. This could have bordered on pewter dragging had she not been convinced to rest occasionally. The fatigue caused her to naturally be in a weakened state.
 
-## Historia
-  Como ladrona
-### Vida temprana
-#### Niñez
-Vin es hija de Tevidian Tekiel, sumo prelado del [[Ministerio de Acero\|Ministerio de Acero]] y de una prostituta skaa. Vin tenía una hermana menor no identificada, así como un medio hermano mayor por parte de su madre, Reen. Vin y su hermana heredaron poderes alománticos de su padre, siendo él mismo un [[Bronce\|buscador]].
-Su madre estaba desequilibrada y Ruina la empujó a matar a la hermana pequeña de Vin con un pendiente de bronce, creando un clavo [[Hemal%C3%BArgico\|hemalúrgico]] que luego la madre usó para perforar la oreja de la pequeña Vin. Debido a la hemalurgia del pendiente, esto le dio a Ruina acceso para hablar en la mente de Vin e influenciarla. Ruina pudo usar a Vin como un peón involuntario y así liberarse del Pozo de la Ascensión. Debido a que la hemalurgia le permitió a Vin asumir el poder alomántico de su hermana asesinada, su habilidad de búsqueda alomántica se volvió dos veces más fuerte que una típica nacida de la bruma o buscadora, lo que le permitió perforar [[Nube de cobre\|nubes de cobre]] alománticas y localizar el oculto Pozo de la Ascensión. 
-Su medio hermano Reen salvó a Vin de su madre y, después de la muerte de esta y de su hermana, vivieron juntos en las calles. En ocasiones, vivió como una mendiga, durmiendo en callejones expuestos. Las lecciones de Reen y los intentos de fortalecerla, como llevarla a los robos para enseñarle a robar y enseñarle a sobrevivir a la clandestinidad skaa, fueron abusivos. La golpeaba por cosas como ser demasiado amigable con otros miembros de la banda o hacer un comentario tonto y llamar la atención de una forma negativa y no deseada. Este abuso tuvo un efecto profundo en la habilidad de Vin para confiar, pero logró inculcar las lecciones que él creía que ella necesitaba aprender para sobrevivir y trabajar con las cuadrillas de ladrones en [[Luthadel\|Luthadel]]. En algún momento Vin se dio cuenta de su habilidad para calmar a la gente, sin darse cuenta de que era una alomante pensó en ello como en su "Suerte" usandola para el robo. También inconscientemente quemó ciertas cantidades de [[Esta%C3%B1o\|estaño]] y [[Peltre\|peltre]] que la ayudaron a sobrevivir en las calles. Un par de meses tras unirse a la banda de Camon, Reen desapareció, dejando a Vin creyendo que la había abandonado. Vin luego descubre que Reen nunca la traicionó. A pesar de ser capturado por los Inquisidores y torturado, Reen nunca la delató, jurando que ella había muerto incluso mientras estaba siendo torturado.
+## History
+  As a thief
+### Early Life
+#### Childhood
+Vin was born of Tevidian Tekiel, lord prelan of the [[Steel Ministry\|Steel Ministry]] to a skaa prostitute. Vin had an unnamed younger sister as well as an older half brother on their mother's side, Reen. Vin and her sister inherited Allomantic powers from their father, the latter being born a [[Bronze\|Seeker]].
+Her mother was insane and was driven by Ruin to kill Vin's infant sister with a bronze pin, creating a [[Hemalurgic\|Hemalurgic]] spike which the mother then used to pierce the young child Vin's ear. Because of the earring's Hemalurgy, this gave Ruin access to speak into Vin's mind and influence her. Ruin was able to use Vin as an unwitting pawn and get himself released from the Well of Ascension. Because the Hemalurgy allowed Vin to take on the Allomantic power of her murdered sister, her Allomantic Seeking ability became twice as strong as a typical Mistborn or Seeker, enabling her to pierce Allomantic [[Coppercloud\|copperclouds]] and locate the hidden Well of Ascension. 
+Her half-brother Reen saved Vin from their mother and after the death of her mother and sister, she lived on the road with
+him. At times, she had lived like a beggar, sleeping in exposed alleys. Reen's lessons and attempts to strengthen her -- like taking her on burglaries to teach her to steal and teaching her to survive the skaa underground -- were abusive. He beat her for things such as being too friendly with other crewmembers or making a foolish comment and drawing unwanted negative attention. This abuse had a profound effect on Vin's ability to trust, but was successful in instilling the lessons he believed she needed to learn to survive and work the thieving crews in [[Luthadel\|Luthadel]]. At some point Vin realized her ability to soothe people, unaware that she was an Allomancer she thought of it as her "Luck" using it in her thievery. She also subconsciously burned tiny amounts of [[Tin\|tin]] and [[Pewter\|pewter]] that helped her survive on the streets. A couple months after they joined Camon's crew, Reen disappeared, leaving Vin to think he had abandoned her. Later Vin discovers that Reen never betrayed her. Despite being captured and tortured by Inquisitors, Reen never gave her up, swearing that she had died even while he was being tortured.
 
-### La rebelión skaa
-#### Banda de Camon
-  Estudiando <<Alomancia\|Alomancia>> con <<Kelsier\|Kelsier>>
-Los seis meses posteriores a la marcha de Reen, Vin continúa trabajando para la banda de Camon. Camon, que sabía que era alomante, la ve como una herramienta poderosa a la vez que teme que se vuelva contra él. Camon abusa de Vin, golpeándola o incluso azotándola con poca o ninguna razón. Tampoco le paga para que no pueda huir. Vin involuntariamente aplacaba a las víctimas de Camon, haciéndolas más vulnerables a las estafas de este. Tras un tiempo Camon se unió a [[Theron\|Theron]] otro líder de banda, para tratar de realizar una estafa contra el Cantón de las Finanzas. Aunque la estafa parece haber pasado desapercibida, sin que ellos lo supieran, la alomancia de Vin alerta a los obligadores sobre sus habilidades, y un Inquisidor de Acero es puesto tras la pista de Vin. [[Kelsier\|Kelsier]] se da cuenta de esto mientras sigue a Vin y Camon, e interviene para distraer al inquisidor, haciéndolos perder el rastro de Vin por el momento. Durante su tiempo trabajando en la banda, Vin llegó a confiar un poco en [[Ulef\|Ulef]], otro miembro del grupo. Aunque ella no pensaba en él como un amigo, creyendo que la amistad era una puerta de entrada a la traición, él es lo más cercano a un amigo que tiene en ese momento. Cuando Vin tiene un presentimiento y se prepara para dejar la guarida de la banda, ella le dice a Ulef que se va y le pide que se una a ella. Sin embargo, Ulef la traiciona con Camon, quien en ese momento está borracho y cree que Vin planea venderlo al Ministerio del Acero. Camon enfurecido y ebrio intenta golpear a Vin hasta matarla, pero Kelsier entra en la guarida e interviene, salvando la vida de Vin. Kelsier hace que [[Milev\|Milev]] reemplace a Camon, y saca a este último a las calles.
+### The Skaa Rebellion
+#### Camon's Crew
+  Studying <<Allomancy\|Allomancy>> with <<Kelsier\|Kelsier>>
+For six months after Reen left, Vin continues to work in Camon's crew. Camon, who knew she was an Allomancer, saw her as a powerful tool but at the same time was scared that she would turn against him. Camon abused Vin, hitting or even whipping her for little to no reason. He also didn't pay her so that she could not run away. Vin unwittingly soothed Camon's victims, making them more gullible to Camon's scams. After some time Camon joined with [[Theron\|Theron]] another Crew leader for a scam, against the Canton of Finance. Though the scam seems to have gone unnoticed, unbeknownst to them, Vin's Allomancy alerts the obligators to her abilities, and a Steel Inquisitor is put on Vin's trail. [[Kelsier\|Kelsier]] notices this as he is following Vin and Camon, and steps in to distract the Inquisitor, making them lose Vin's trail for the time being. During her time working in the crew, Vin grew to somewhat trust [[Ulef\|Ulef]], another member of the crew. Though she did not think of him as a friend, believing that friendship was a gateway to betrayal, he is the closest thing to a friend she has at the time. As Vin gets a foreboding feeling and prepares to leave the crew's lair, she tells Ulef that she's leaving, and asks him to join her. However, Ulef betrays her to Camon, who is at the time drunk and believes that Vin plans to sell him out to the Steel Ministry. Camon flies into a drunken rage, intending to beat her to death, before Kelsier enters the lair and intervenes, saving Vin's life. Kelsier has [[Milev\|Milev]] replace Camon, and has the latter put out on the streets.
 
-#### Banda de Kelsier
-Vin se une a la banda de Kelsier y comienza su entrenamiento como nacida de la bruma con él.
-En su primera lección práctica con Kelsier, se aventuran fuera de las murallas de la ciudad y [[Sazed\|Sazed]] los recoge en un carruaje que los lleva a [[Fellise\|Fellise]], donde Vin es instruida por él, ya que se decide que ella se infiltrará de parte de la banda en la corte noble. Ella contribuye al plan proporcionando un método de su antigua banda para infiltrarse en el Ministerio del Acero: el falso convoy por el canal de Theron.
-Durante la reunión, Ham interrumpe, informando que el Ministerio encontró la guarida de Camon, donde Milev y su equipo habían continuado operando. La banda se mueve para investigar la guarida, donde los antiguos compañeros de banda de Vin han sido masacrados por un inquisidor. Al encontrar al exlíder de la banda colgado de un gancho en las calles, se dan cuenta de que los inquisidores aún deben estar tras la pista de Vin después de la última estafa de Camon.
+#### Kelsier's Crew
+Vin joins Kelsier's crew and begins her Mistborn training with him.
+In her first practical lesson with Kelsier, they venture outside the city walls and are picked up in a carriage by [[Sazed\|Sazed]], who takes them to [[Fellise\|Fellise]], where Vin is tutored by him as it is decided that she will infiltrate the noble court on their behalf. She contributes to the plan by supplying a method to infiltrate the Steel Ministry from her old crew: Theron's fake canal convoys.
+During the meeting, Ham interrupts, reporting that the Ministry found Camon's lair, where Milev and his crew had continued to operate. The crew move to investigate the lair, wherein Vin's old crew mates has been butchered by an Inquisitor. Finding the former crewleader hung from a hook in the streets, the crew realize that the Inquisitors must still be on Vin's trail after Camon's last scam.
 
-  Con <<Elend\|Elend>> como Valette
-#### La guerra de casas
-Vin espía a las casas nobles disfrazándose de una mujer noble: **Valette Renoux**, una identidad creada como tapadera, como una prima de cuarto grado de Lord [[Renoux\|Renoux]], hija de [[Casa Renoux\|lord Hadren y lady Fellette Renoux]]. Kelsier revela que eligió la Casa Renoux y la figura de Valette en parte debido a su condición de comerciantes de armas, lo que los hace valiosos para varias casas y atrae a los nobles importantes para la rebelión. Vin asiste a su primer baile en la [[Mansi%C3%B3n Venture\|mansión Venture]] para establecer su identidad dentro de Luthadel, y atrae la atención de varios jóvenes, rechazando sus ofertas para bailar debido a su inexperiencia. Ella reconoce a su padre y conoce a Elend Venture, el heredero de la [[Casa Venture\|Casa Venture]], aunque solo se entera de quién es Elend en realidad cuando habla con Sazed.
-Vin sigue a Kelsier una noche, descubriendo el camino de clavos entre Luthadel y Fellise en el proceso. Después de que él la descubre y se enfrenta a ella, le presenta el [[Atium\|atium]] por primera vez, e intentan asaltar el palacio del lord Legislador, [[Kredik Shaw\|Kredik Shaw]]. Durante la redada, ambos se ven obligados a huir cuando son atacados por los inquisidores de acero que protegen el palacio, y Vin se queda atrás. Recupera el [[Diario de Alendi\|diario]] de [[Alendi\|Alendi]] antes de ser gravemente herida en su intento de escapar. Sazed, sin embargo, logra salvarla de los inquisidores y la lleva de regreso al escondite de [[Clubs\|Clubs]]. Vin pasa las siguientes dos semanas inconsciente mientras se recupera de una herida gigantesca en el costado, y tarda tres meses más recuperarse por completo de su terrible experiencia en Kredik Shaw.
-Gradualmente, Vin se siente más cómoda al adoptar la personalidad de Valette, pero recibe un recordatorio que la vuelve a la realidad del Imperio Final cuando es testigo de cómo un soldado asesina a un mozo de cocina skaa por pedir limosna a un noble.
-Vin intenta entrenarse con Ham en el uso de peltre al verlo practicar, pero los dos descubren que la [[Guarnici%C3%B3n de Luthadel\|guarnición de Luthadel]] está siendo llamada para sofocar al ejército de la rebelión skaa liderada por Yeden en un ataque repentino contra la guarnición de Holstep como una prueba de su fuerza. Después de informar al resto de la banda, Vin se une a Kelsier en una misión desesperada para salvar a los sobrevivientes del ejército skaa. Encuentran que el ejército está siendo masacrado en una emboscada de la guarnición de Valtroux, y Vin evita que Kelsier intente detenerlo, recordándole que, aunque son nacidos de la bruma, no son invencibles. En cambio, regresan a las cuevas y encuentran a los dos mil hombres liderados por Demoux, quien se quedó atrás por lealtad a Kelsier. Vin y Kelsier conducen a los restos del ejército de regreso a Luthadel.
+  With <<Elend\|Elend>> as Valette
+#### The House War
+Vin spies on the noble houses by disguising herself as a noblewoman: **Valette Renoux**, an identity created as a cover, who is the fourth cousin of Lord [[Renoux\|Renoux]], daughter of [[House Renoux\|Lord Hadren and Lady Fellette Renoux]]. Kelsier reveals that he chose House Renoux and the Valette cover in part because of their status as weapons merchants, making them valuable to various houses and drawing the nobles that the rebellion needs to focus on to them. Vin attends her first ball at [[Keep Venture\|Keep Venture]] to establish her identity within Luthadel, and she attracts the attentions of several young men, declining their offers to dance on account of her inexperience. She recognises her father and meets Elend Venture, the heir to [[House Venture\|House Venture]], although she only learns who Elend really is after the fact when speaking with Sazed.
+Vin follows Kelsier one night, discovering the spikeway between Luthadel and Fellise in the process. After he discovers and confronts her, he introduces her to [[Atium\|atium]] for the first time, and they attempt to raid the Lord Ruler's palace, [[Kredik Shaw\|Kredik Shaw]]. During the raid, the pair are forced to flee when attacked by the Steel Inquisitors guarding the palace, and Vin is left behind. She recovers [[Alendi\|Alendi's]] [[Alendi's journal\|logbook]] before she is gravely wounded in her attempt to escape. Sazed, however, manages to save her from the Inquisitors and brings her back to [[Clubs\|Clubs']] hideout. Vin spends the subsequent two weeks unconscious as she recovers from a massive wound in her side, and it takes three more months to recover fully from her ordeal at Kredik Shaw.
+Gradually, Vin grows more comfortable when adopting the Valette persona, but she is given a sobering reminder of the realities of the Final Empire when she witnesses a soldier murder a skaa kitchen boy for begging from a nobleman.
+Vin tries to get training from Ham with pewter by watching him spar, but the two find out that the [[Luthadel Garrison\|Luthadel Garrison]] is being called away to quell the skaa rebellion's army led by Yeden in a sudden attack against the Holstep Garrison as a test of their strength. After informing the rest of the crew, Vin joins Kelsier on a desperate mission to save the skaa army's survivors. They find the army being massacred in an ambush from the Valtroux Garrison, and Vin stops Kelsier from trying to stop it, reminding him that even though they are Mistborn, they're not invincible. Instead, they return to the caves, finding the two thousand men, lead by Demoux, who stayed behind out of loyalty to Kelsier. Vin and Kelsier lead the remnants of the army back to Luthadel.
 
-  Combatiendo con <<Shan Elariel\|Shan Elariel>>
-Dos semanas más tarde, después de que Vin se recuperase de las consecuencias del arrastre de peltre, comienzan las ejecuciones en la más tarde conocida como Plaza del Superviviente. Ella descubre la identidad de su padre como el sumo prelado del Ministerio del Acero durante las ejecuciones después de señalar a Kelsier. Las ejecuciones brindan a Kelsier la oportunidad de renovar la determinación de la banda, mostrándoles por qué están luchando realmente.
-Después de las ejecuciones en la plaza de la fuente, la banda se compromete aún más a provocar una guerra de casas total, convirtiéndola en la máxima prioridad ahora que la mayor parte de su ejército está perdido. Vin comienza a difundir información errónea entre la nobleza, sin dejar de ser la principal espía de la banda entre ellos. Vin y Kelsier van a encontrarse con Marsh en [[Los Quiebros\|los Quiebros]], y, mientras esperan, experimenta la quema de oro por primera vez, viendo las dos versiones de sí misma, la versión confiada que perdió sus instintos callejeros y la versión odiosa y solitaria. La reunión con Marsh arroja la verdad sobre los alomantes del Ministerio, quienes están en las comisarías aplacadoras ubicadas en las secciones de skaa de Luthadel.
-Mientras espiaba a la nobleza y difundía su información, Vin se entera por Elend que la Casa Venture trabaja en los [[Pozos de Hathsin\|Pozos de Hathsin]] y extrae el atium del lord Legislador. A medida que la guerra de casas alcanza un punto sin retorno, las fiestas nobles y los bailes llegan a su fin y se formalizan las alianzas. Elend rechaza a Vin, pero ella le salva la vida poco después cuando descubre el plan de [[Shan Elariel\|Shan Elariel]] para matarlo. Ella lucha contra Shan y sus compañeros asesinos, matando a un nacido de la bruma varón que acompaña a Shan. Cuando se enfrenta a Shan directamente, Vin se da cuenta de que su atium está a punto de agotarse y lo apaga prematuramente, lo que lleva a Shan a pensar que es vulnerable. Vin quema atium en el último segundo, cogiendo a Shan por sorpresa y matándola.
-Vin y Kelsier descubren lo que suponen son los restos de Marsh durante su próxima reunión con él, y Kelsier decide tomar represalias destruyendo los Pozos de Hathsin y poniendo fin a la producción de atium en ese lugar durante los próximos trescientos año. El lord Legislador ordena más ejecuciones en respuesta al ataque, y Vin observa cómo Kelsier los interrumpe, rescatando a los prisioneros de la Casa Renoux y matando a [[Bendal\|Bendal]], antes de enfrentarse al lord Legislador y ser asesinado por una lanza en el pecho, sintiéndose traicionada por su muerte, pues todas las advertencias de Ruina volvieron con la voz de Reen para reforzar su sensación de traición.
+  Fighting <<Shan Elariel\|Shan Elariel>>
+Two weeks later, after Vin has recovered from the consequences of pewter-dragging, the executions in the later named Square of the Survivor begin. She discovers her father's identity as the Steel Ministry's lord prelan during the executions after pointing him out to Kelsier. The executions provide Kelsier the opportunity to renew the crew's determination, by showing them what it is that they're truly fighting for.
+After the executions in the fountain square, the crew commit even more to provoking an all out house war in earnest, making it the top priority now that the bulk of their army is lost. Vin begins to spread bad information among the nobility, while remaining the crew's primary spy among them. Vin and Kelsier go to meet Marsh in [[The Twists\|the Twists]], and while waiting, she experiences burning gold for the first time, seeing the two versions of herself, the trusting version who lost her street instincts, and the hateful and lonely version. The meeting with Marsh yields the truth about the Ministry Allomancers, that they're used in the Soothing stations positioned throughout the skaa sections of Luthadel.
+In the course of spying on the nobility and spreading her information, Vin learns from Elend that House Venture works the [[Pits of Hathsin\|Pits of Hathsin]] and mines the Lord Ruler's atium. As the house war reaches the point of no return, the noble parties and balls come to a close as alliances are formalised. Elend rejects Vin, but she saves his life shortly after when she uncovers [[Shan Elariel\|Shan Elariel's]] plot to kill him. She fights Shan, and her fellow assassins, killing the male Mistborn accompanying Shan. When confronting Shan directly, Vin realises that her atium is about to run out, and extinguishes it prematurely, leading Shan to think that she is vulnerable. Vin burns atium at the last second, taking Shan by surprise and killing her.
+Vin and Kelsier discover what they assume to be Marsh's remains during their next meeting with him, and Kelsier decides to retaliate by destroying the Pits of Hathsin and ending the atium production there for the next three hundred years. The Lord Ruler orders more executions in response to the attack, and Vin watches as Kelsier interrupts them, rescuing the House Renoux prisoners and killing [[Bendal\|Bendal]], before he faces the Lord Ruler and is killed by a spear through the chest, feeling betrayed by his death after all of his assurances as Ruin returns in Reen's voice to reaffirm her sense of betrayal.
 
-  Combatiendo con el lord Legislador
-#### El levantamiento skaa y la muerte del lord Legislador
-Vin es encarcelada en Kredik Shaw después de la muerte de Kelsier a manos del lord Legislador, y se ve obligada a quemar [[Aluminio\|aluminio]] para destruir sus metales. Ella es llevada para ser interrogada por el lord Legislador, y se arranca su pendiente mientras lucha contra él, lo que permite que las [[Bruma\|brumas]] Invistan su poder en ella, restaurando todas sus habilidades alománticas. Vin lo mata [[Hierro\|tirando]] de sus [[Mente de metal\|mentes de metal]] hasta arrancarlas y apuñalándolo fatalmente con una lanza.
-[[TenSoon\|TenSoon]] más tarde argumentaría durante su juicio que, como la persona que mató al lord Legislador, Vin efectivamente había tomado su lugar y heredó su título, y por lo tanto debería ser considerada la Madre de los kandra para reemplazar a su Padre.
+  Fighting the Lord Ruler
+#### The Skaa Riots & the Death of the Lord Ruler
+Vin is imprisoned in Kredik Shaw after Kelsier's death at the hands of the Lord Ruler, and is forced to burn [[Aluminum\|aluminum]] to destroy her metals. She is taken to be questioned by the Lord Ruler, and has her earring ripped out while battling him, allowing the [[Mist\|mists]] to Invest their power in her, restoring all her Allomantic abilities. Vin kills him by [[Iron\|Pulling]] out his [[Metalmind\|metalminds]] and fatally stabbing him with a spear.
+[[TenSoon\|TenSoon]] would later argue during his judgement that as the one to kill the Lord Ruler, Vin had effectively taken his place and inherited his title, and should thus be considered the Mother of the kandra to replace their Father.
 
-### El asedio de Luthadel
-Después de la caída del [[Imperio Final\|Imperio Final]], Vin ayuda a Elend a establecer sus ideas para un gobierno libre y justo. Mientras avanza el [[Asedio de Luthadel\|asedio de Luthadel]], sella practica su alomancia, corteja a [[Zane Venture\|Zane Venture]], descubre el [[Duraluminio\|duraluminio]], se hace amiga del [[Kandra\|kandra]] TenSoon, e intimida con éxito a los dos sitiadores: [[Straff Venture\|Straff Venture]] y [[Ashweather Cett\|Ashweather Cett]].
+### The Siege of Luthadel
+After the fall of the [[Final Empire\|Final Empire]], she helps Elend establish his ideas for fair and free governance. Whilst the [[Siege of Luthadel\|Siege of Luthadel]] progresses, she practices her Allomancy, courts [[Zane Venture\|Zane Venture]], discovers [[Duralumin\|duralumin]], befriends the [[Kandra\|kandra]] TenSoon, and successfully intimidates the two besiegers: [[Straff Venture\|Straff Venture]] and [[Ashweather Cett\|Ashweather Cett]].
 
-#### Zane y el ataque a la fortaleza Hasting
-Al escuchar que Elend ingresó en el ejército de koloss de [[Jastes Lekal\|Jastes Lekal]], Vin experimenta una ronda de incertidumbre y dudas sobre sí misma, insegura incluso de su capacidad para proteger a una persona. Zane se aprovecha de su duda y la convence de que Elend no dejará que ella lo proteja y que debería atacar a Cett. 
-Junto a Zane, Vin lanza un asalto brutal al [[Torre%C3%B3n Hasting\|Torreón Hasting]], la cual Lord Cett se apropia como propia residencia una vez que entra en Luthadel. En minutos, los dos nacidos de la bruma eliminan a trescientos de los mil hombres de la guarnición que están allí y se dirigen hacia Lord Cett y su hijo, [[Gneorndin Cett\|Gneorndin Cett]] para amenazarlos. Aunque Vin ha sospechado desde que lo vio por primera vez que Cett es un alomante que finge su discapacidad física, rápidamente se hace evidente que ni él ni su hijo son alomantes, o que representen una amenaza por sí mismos, lo que lleva a Vin a perdonarles la vida. Cuando Zane se mueve para matarlos, ella lo convence de que no lo haga. Después del ataque, Cett se retira de la ciudad y abandona completamente el asedio.
-Después del ataque, Vin se refugia en un escondite de ladrones abandonado, asustada por sus propias acciones hasta que TenSoon y Elend la encuentran y hablan con ella. Ella revela que Kelsier a veces la asustaba con sus razones para matar nobles. Durante su conversación con Elend, ella decide que tiene que ir al norte, al [[Dominio de Terris\|Dominio de Terris]] y buscar el Pozo de la Ascensión.
-Zane intenta convencer a Vin de que se vaya con él, pero ella se niega y él se molesta y la ataca. En la pelea que siguió, la identidad de TenSoon queda expuesta para ella. Zane también revela varias de sus manipulaciones durante el asedio; colocando un alomante entre el personal de Cett, lo que obligó a Vin a luchar contra los asesinos alomantes en frente de Elend para intimidarlo, y tratando de hacer que Vin explorara su potencial como asesina. Zane parece tener la ventaja, ya que está quemando atium y bloqueando todos los ataques, y en su desesperación, Vin intenta atraer la bruma en vano, ya que su pendiente hemalúrgico no se quita durante la pelea. Sin embargo, TenSoon le avisa sobre el defecto, insinuándolo y permitiéndole tomar el control de él con un aplacante mejorado con duraluminio. Vin usa esto para su ventaja, atacando a Zane con el cuerpo de TenSoon y recuperando la cuenta de atium, aunque esta última resulta ser una falsificación, una bolita de plomo con una fina capa de atium. Acorralado, sin forma de escapar, Vin se ve obligada a luchar contra Zane, y usa su propia previsión otorgada por atium para predecir lo que hará y permitir su reacción, lo que hace que su sombra de atium se divida. Vin lo apuñala en el cuello y lo mata. 
-Vin herida va a buscar a Elend, y mientras Sazed la cura, ella se casa con Elend. Sazed aprovecha la oportunidad para convencer a la pareja de que huyan de la ciudad en busca del Pozo de la Ascensión, en un intento por salvarlos, junto con Fantasma.
+#### Zane & the Attack on Keep Hasting
+Upon hearing that Elend went into [[Jastes Lekal\|Jastes Lekal's]] koloss army, Vin experiences a round of uncertainty and self-doubt, uncertain of even her ability to protect one person. Zane takes advantage of her doubt, and convinces her that Elend won't let her protect him, and that she should attack Cett. 
+Alongside Zane, Vin launches a brutal assault on [[Keep Hasting\|Keep Hasting]], the keep which Lord Cett appropriates as his own residence once he enters Luthadel. In minutes, the two Mistborn wipe out three hundred of the one thousand men garrisoned there and make their way to Lord Cett and his son, [[Gneorndin Cett\|Gneorndin Cett]] to threaten them. Though Vin has suspected ever since she first saw him that Cett is an Allomancer feigning his physical disability, it quickly becomes evident that neither he nor his son are Allomancers, or that they pose any threat on their own, leading Vin to spare their lives. When Zane moves to kill them, she convinces him not to. Following the attack, Cett pulls out of the city and withdraws from the siege entirely.
+After the attack, Vin hid in an abandoned thieves' hideout, frightened by her own actions until TenSoon and Elend find her and talk to her. She reveals that Kelsier sometimes frightened her with his rationale for killing nobles. During her conversation with Elend, she decides that she has to go north to the [[Terris Dominance\|Terris Dominance]] and look for the Well of Ascension.
+Zane attempts to convince Vin to leave with him, but she refuses and he becomes upset, attacking her. In the ensuing fight, TenSoon's identity is exposed to her. Zane additionally reveals multiple of his manipulations throughout the siege; placing an Allomancer among Cett's staff, forcing Vin to fight off Allomancer assassins in front of Elend to intimidate him, and attempting to make Vin explore her potential as a killer. Zane seemingly has the advantage, as he is burning atium and blocking her every attack, and in her desperation, Vin attempts to draw on the mists to no avail, because her Hemalurgic earring is not removed during the fight. However, TenSoon tips her off to the Flaw, hinting at it and allowing her to take control of him with a duralumin-enhanced Soothing. Vin uses this to her advantage, attacking Zane with TenSoon's body and retrieving the bead of atium, although the latter turns out to be a fake, a lead ball with a thin coat of atium. Cornered, with no means of escape, Vin is forced to fight Zane, and uses his own foresight granted by atium to predict what he will do and allowing her to react, causing her atium shadow to split. Vin stabs him in the neck, killing him. 
+Vin goes to find Elend in her wounded condition, and while Sazed tends to her wounds, she marries Elend. Sazed takes the opportunity to convince the couple to flee the city in search of the Well of Ascension, in an attempt to save them, along with Spook.
 
-  En el <<Pozo de la Ascensi%C3%B3n\|Pozo>>
-#### La batalla de Luthadel
-Convencidos de la necesidad de encontrar el Pozo de la Ascensión, Vin y Elend abandonan Luthadel y se dirigen hacia el [[Dominio de Terris\|Dominio de Terris]] con la esperanza de encontrar el [[Pozo de la Ascensi%C3%B3n\|Pozo de la Ascensión]]. Algún tiempo después de su partida, el ejército [[Koloss\|koloss]] ataca [[Luthadel\|Luthadel]]. Vin se da cuenta de que el Pozo se encuentra debajo de Kredik Shaw, y regresa para encontrar que la [[Batalla de Luthadel\|batalla de Luthadel]] ha comenzado. Utiliza un salto de [[Acero\|acero]] mejorado con [[Duraluminio\|duraluminio]] para matar a [[Straff Venture\|Straff Venture]] partiéndolo en dos con una [[Espadas koloss\|espada koloss]], y detiene el asalto koloss a la ciudad al controlarlos a través de la alomancia emocional.
+  In the <<Well of Ascension\|Well>>
+#### The Battle of Luthadel
+Convinced of the need to find the Well of Ascension, Vin and Elend leave Luthadel, and head towards the [[Terris Dominance\|Terris Dominance]] in hope of finding the [[Well of Ascension\|Well of Ascension]]. Some time after their departure, the [[Koloss\|koloss]] army attacks [[Luthadel\|Luthadel]]. Vin realises that the Well is located under Kredik Shaw, and returns to find the [[Battle of Luthadel\|Battle of Luthadel]] under way. She utilises a [[Duralumin\|duralumin]]-enhanced [[Steel\|steel]] jump to kill [[Straff Venture\|Straff Venture]] via bisection with a [[Koloss blades\|koloss blade]], and stops the koloss assault on the city by controlling them through emotional Allomancy.
 
-#### El Pozo de la Ascensión
-Vin encuentra el Pozo de la Ascensión debajo de Kredik Shaw después de la batalla. Una vez que ingresan a la cámara del Pozo, el [[Conservaci%C3%B3n\|espíritu de la bruma]] ataca a Elend (forzada su mano por Kelsier) apuñalándolo fatalmente con la esperanza de que Vin use el poder para salvarlo. A pesar de los mejores intentos de Conservación de preparar a Vin para tomar el poder, y el intento de Kelsier de obligarla a usarlo, Vin entra al Pozo y, alentada por los trucos de Ruina, renuncia al poder en la creencia de que es la mejor opción, liberando inadvertidamente a [[Ruina\|Ruina]] de su prisión como él la había estado manipulando para que lo haga. Conservación le muestra a Vin la última perla de [[Lerasium\|lerasium]] en la cámara para permitirle salvar a Elend al darle la perla para que se la trague, transformándolo así en un nacido de la bruma.
+#### The Well of Ascension
+She finds the Well of Ascension beneath Kredik Shaw in the aftermath of the battle. Once they enter the Well's chamber, the [[Preservation\|mist spirit]] attacks Elend -- its hand forced by Kelsier -- fatally stabbing him in the hope that Vin would use the power to save him. Despite Preservation's best attempts to prepare Vin to take up the power, and Kelsier's attempt force her to use it, Vin enters the Well and, encouraged by Ruin's tricks, gives up the power in the belief that it is the best choice, thus inadvertently releasing [[Ruin\|Ruin]] from his prison as he had been manipulating her to do. Preservation shows Vin the final bead of [[Lerasium\|lerasium]] in the chamber in order to allow her to save Elend by feeding him the bead and transforming him into a Mistborn.
 
-#### Tras el asalto de los koloss
-La banda celebra en la Fortaleza Venture un funeral por los caídos. Mientras Demoux habla en el servicio, Vin se sienta en los escalones, vigilada por Ham. Kelsier intenta consolarla tras la desastrosa liberación de Ruina, pero debido a la separación entre los reinos, no puede escucharlo.
+#### Aftermath of the Koloss Assault
+The crew hold a funeral service for the fallen at Keep Venture. While Demoux speaks at the service, Vin sits on the steps, watched over by Ham. Kelsier attempts to comfort her in the wake of the disastrous release of Ruin, but due to the separation between the realms, she is unable to hear him.
 
-### El Nuevo Imperio
-Vin y Elend se dispusieron a expandir su imperio y controlaron a un gran número de koloss matando a los inquisidores de Ruina. Buscan el [[Dep%C3%B3sito de atium\|depósito de atium]] y las cavernas de suministros, descubriendo más sobre la historia del mundo. También leyeron sobre el metal [[Electro\|electro]], el cual ayuda a protegerlos de los ataques de atium.
+### The New Empire
+Vin and Elend set about expanding their empire, and bring large numbers of koloss under their control by killing Ruin's Inquisitors. They search for the [[Atium cache\|atium cache]] and the storage caverns, discovering more about the history of the world. They also read about the metal [[Electrum\|electrum]], which helps to protect them from atium attacks.
 
-  Bailando con <<Elend\|Elend>>
-#### El asedio de Fadrex
-[[Asedio de Ciudad Fadrex\|Asedian]] [[Ciudad Fadrex\|Ciudad Fadrex]], con la esperanza de localizar el atium y las últimas placas del lord Legislador. Durante el asedio, los intentos de Vin de recopilar información a través de los contactos de Ashweather Cett la llevan a un informador llamado [[Lentoveloz\|Lentoveloz]].Ella habla con Lentoveloz y, aunque él es reacio a vender información sobre las debilidades de Aradan Yomen, rápidamente deduce cómo convencerlo de que le venda la información: apelando a su miedo al cambio y convenciéndolo de que el cambio que se avecina en el mundo es inevitable y que Yomen no puede proteger a Fadrex de ello.
-Al acercarse al siguiente informante, [[Hoid\|Hoid]], para confirmar la información de Lentoveloz, ella duda antes de contactarlo, debido a los intentos desesperados de Kelsier desde el reino cognitivo para mantener a Vin alejada de Hoid y así evitar que llegue a ella. Gracias a quemar bronce, tiene un mal presentimiento sobre la situación y se va. Vin confía en sus instintos y se mantiene completamente alejada de Hoid.
-Vin explora brevemente el Cantón de Recursos desde el exterior, luego procede con el tercero y último de los informantes de Cett, pero Conservación le da poder a Kelsier con algo similar a la alomancia, para que pueda seguir mejor a Vin a través de la ciudad de Fadrex mientras ella está espiando. Su quema de bronce le permite detectar a Kelsier que la sigue en el reino cognitivo, y ella cree que está siendo seguida por un enemigo nacido de la bruma e intenta perderlo. Ruina interfiere al notar a Kelsier, sin embargo, impide que la persiga y envía una criatura de su propia creación tras Vin, imitando los pulsos que Kelsier estaba emitiendo para engañarla. La criatura de Ruina deja de perseguirla en el momento en que Vin se vuelve para enfrentarla, y concluye que debe haber sido el espíritu de la niebla.
-Vin es capturada y encarcelada por Yomen. Mientras está encarcelada, Vin es visitada por una aparición de Reen, quien luego se revela como [[Ruina\|Ruina]]. Después de enterarse de esto, ella lucha contra [[Marsh\|Marsh]], y escapa de regreso a [[Luthadel\|Luthadel]] donde combate contra los otros Inquisidores y destruye el palacio en un empujón impulsado por la [[Bruma\|bruma]], finalmente es capaz de utilizar la bruma después de que Marsh recuperase suficiente control sobre su cuerpo para desafiar a Ruina, eliminando el pendiente de Vin que resultó ser un clavo hemalúrgico.
+  Dancing with <<Elend\|Elend>>
+#### The Siege of Fadrex
+They [[Siege of Fadrex City\|besiege]] [[Fadrex City\|Fadrex City]], in hope of locating the atium, and the last of the Lord Ruler's plates. During the siege, Vin's attempts to gather information about through Ashweather Cett's contacts lead her to [[Slowswift\|Slowswift]]. She speaks with Slowswift and though he is reluctant to sell information about Aradan Yomen's weaknesses, she quickly deduces how to convince him to sell her the information: by appealing to his fear of change and convincing him that the change coming upon the world is inevitable, and that Yomen cannot protect Fadrex from it.
+Upon approaching the next informant, [[Hoid\|Hoid]], for confirmation of Slowswift's information, she hesitates before contacting him and because of Kelsier's desperate attempts from the cognitive realm to keep Vin away from him get through to her, due to her burning bronze. She gets a bad feeling about the situation and leaves. She trusts her instincts and keeps away from Hoid entirely.
+Vin briefly scouts the Canton of Resource from outside, then proceeds to the third and final of Cett's informants, but Preservation empowers Kelsier with something similar to Allomancy, so that he can better follow Vin through Fadrex City while she is spying. Her bronze burning picks up on Kelsier trailing her in the cognitive realm, and she believes she is being followed by an enemy Mistborn and attempts to lose him. Ruin interferes upon noticing Kelsier, however, stopping him from pursuing her and sending a puppet of his own making after Vin, imitating the pulses that Kelsier was giving off in order to trick her. Ruin's puppet stops giving chase the moment Vin turns to face it, and she concludes that it must have been the mist spirit.
+Vin is captured and imprisoned by Yomen. While imprisoned, Vin is visited by an apparition of Reen, who is later revealed to be [[Ruin\|Ruin]]. After learning about Ruin, she fights [[Marsh\|Marsh]], and escapes back to [[Luthadel\|Luthadel]] where she fights the other Inquisitors and destroys the palace in a [[Mist\|mist]]-powered Push, finally able to use the mists after Marsh regains enough control over his body to defy Ruin and remove her earring and Hemalurgic spike.
 
-#### La batalla de Hathsin y la Ascensión Final
+#### The Battle of Hathsin & The Final Ascension
  
-Cuando Vin absorbe las brumas en la lucha contra los Inquisidores, su cuerpo finalmente es vaporizado por el poder y ella toma la [[Esquirla\|Esquirla]] de Conservación e intenta enmendar el mundo de maneras similares a las del inexperto [[Rashek\|Rashek]]. Falla en muchas de las mismas formas en que lo hizo Rashek, inicialmente, por las consecuencias imprevistas de cada acción, así como por la interferencia de Ruina. Vin observa la pelea final entre Elend y Marsh, alimentando la Alomancia de Elend con el poder de Conservación. Marsh decapita a Elend, matándolo y eliminando lo último que une a Vin con el mundo. Esta ataca a Ruina directamente, matando tanto a [[Ati\|Ati]] como a ella misma, dejando que [[Sazed\|Sazed]] recoja ambas Esquirlas.
-En su [[Nota de Sazed\|carta]] a [[Fantasma\|Fantasma]], Sazed revela que él había hablado con Vin y que ella estaba feliz donde estaba. Sazed también trata de devolverla a la vida, pero explica que la mera curación de un cuerpo no devuelve el alma.
+When Vin absorbs the mists in the fight against the Inquisitors her body is eventually vaporised by the power and she takes up the [[Shard\|Shard]] Preservation and attempts to right the world in similar ways to the inexperienced [[Rashek\|Rashek]]. She fails in many of the same ways as Rashek, initially, from unforeseen consequences of each action, as well as Ruin's interference. She observes the final fight between Elend and Marsh, fueling Elend's Allomancy with Preservation's power. Marsh beheads Elend, killing him, and removing the last thing binding Vin to the world. She attacks Ruin directly, killing both [[Ati\|Ati]] and herself, leaving both Shards to be taken up by [[Sazed\|Sazed]].
+In his [[Sazed's note\|letter]] to [[Spook\|Spook]], Sazed reveals that he had spoken with Vin and she was happy where she was, Sazed also tries to bring her back to life but reveals that merely healing a body does not return souls.
 
-### Mitos y cultura post-Catacendro
-En el mundo rehecho por [[Armon%C3%ADa\|Armonía]], Vin se mitifica como la **Guerrera Ascendente**, rara vez se la menciona por su nombre. Los mitos hablan de ella asesinando al lord Legislador; cargando el mundo en sus brazos, siendo capaz de matar con una sola mirada y de descubrir secretos que nadie conocía, además de ser capaz de derrotar sola a ejércitos enteros de koloss enfurecidos. Se cree que ella se fusionó con las brumas, convirtiéndose en su guardiana y vigilando en la noche. Los "cuchillos de Lady Nacida de la Bruma" se consideran reliquias de la mitología, junto con otros objetos como las mentes de metal del lord Legislador. Además, es un modelo histórico para las mujeres modernas en la [[Cuenca de Elendel\|Cuenca de Elendel]], su ejemplo crea puntos de vista más igualitarios sobre las mujeres en la sociedad de la Cuenca. Su legado en este sentido también se ha convertido en ley. Sin embargo, la forma en que se la mitifica deja una reputación asombrosa para que otras mujeres de la Cuenca puedan estar a la altura.
-Grandes estatuas de Vin y Elend se encuentran en lo alto de su tumba, junto a un museo en el [[Campo del Renacimiento\|Campo del Renacimiento]] dominando el área. En [[Nueva Seran\|Nueva Seran]], una vieja estatua hundida de Vin, de dos metros y medio de altura y hecha de mármol negro, reside en un cementerio entre las tumbas de los pobres. [[Ranette\|Ranette]] creó un arma a la que llamó [[Vindicaci%C3%B3n\|Vindicación]], por Vin. Vin se representa arrancando las entrañas del lord Legislador en varios textos religiosos ilustrados. En algunas obras de arte de ella, como los murales de la mansión de Kelesina Shores en Nueva Seran, se la representa elevándose sobre una bandada de cuervos, símbolo de los Inquisidores de Acero.
-Los lanzamonedas han comenzado a llamar *Campos de la Ascendente* al paisaje nocturno sobre las brumas, solo accesible para aquellos que pueden empujarse hacia el cielo.
+### Post-Catacendre Myths and Culture
+In the world remade by [[Harmony\|Harmony]], Vin becomes mythologised as the **Ascendant Warrior**, and is rarely referred to by name. The myths tell of her slaying the Lord Ruler, carrying the world upon her arms, able to kill with a glare alone, able to discover secrets no others knew, and capable of defeating entire armies of enraged koloss on her own. It is believed that she merged with the mists, becoming their guardian and watching over those in the night. The "Lady Mistborn's knives" are considered relics from mythology, alongside other objects such as the Lord Ruler's metalminds. Additionally, she is a historical model for modern women in the [[Elendel Basin\|Elendel Basin]], her example creating more egalitarian views about women in the Basin's society. Her legacy in this regard is also written into law. However, the way in which she is mythologised leaves a staggering reputation for other women in the Basin to live up to.
+Large statues of her and Elend stand atop their tomb and museum in the [[Field of Rebirth\|Field of Rebirth]] and dominate the area. In [[New Seran\|New Seran]], an old, sunken statue of Vin, eight feet tall and made of black marble, resides in a graveyard among the graves of the impoverished. [[Ranette\|Ranette]] created a gun which she named [[Vindication\|Vindication]], after Vin. Vin is depicted ripping out the Lord Ruler's insides in several illustrated religious texts. In some artwork of her, such as the murals in [[Kelesina Shores\|Kelesina Shores']] mansion in New Seran, she is depicted rising above a flock of ravens, symbolic of Steel Inquisitors.
+Coinshots have started calling the nightscape above the mists, only accessible to those who can push themselves into the sky, the *Ascendant's Fields*.
 
-## Relaciones
-  Con Elend
+## Relationships
+  With Elend
 ### Elend
->“*Quiero que me abrace. Quiero que me hable, aunque no comprenda lo que dice. Cualquier cosa para que permanezca allí, a mi lado. Quiero ser mejor por su causa.*”
-\-Vin.[59]
+>“*I want him to hold me. I want him to talk to me, even if I don’t understand what he’s saying. Anything to keep him there, with me. I want to be better because of him.*”
+\-Vin[59]
 
 
-Vin conoce a [[Elend\|Elend]] en un baile celebrado en la [[Mansi%C3%B3n Venture\|Mansión Venture]], mayormente por acidente. A Elend parece gustarle, y Vin corresponde los sentimientos. [[Dockson\|Dockson]] y los demás la advierten, contándole que Elend solo está fingiengo que le gusta para fastidiar a su padre. Vin, sin embargo, cree firmemente que Elend es diferente a los otros hombres. Cuando la guerra de casas aumenta, Elend empieza a evitar a Vin, pues no quería que se convirtiese en un objetivo para los asesinos. Vin se percata de cuanto realmente se preocupa por Elend esa noche, y salva a Elend del intento de asesinato liderado por [[Shan Elariel\|Shan Elariel]], su prometida. En la ejecución de la plaza de Luthadel, Elend intenta rescatar a Vin porque piensa que está en una de las jaulas. Cuando ella es capturada por el [[Lord Legislador\|lord Legislador]], Elend valientemente lidera un equipo de guardias adentro de [[Kredik Shaw\|Kredik Shaw]] para rescatarla. Poco después descubre su identidad como skaa y nacida de la Bruma.
+Vin first meets [[Elend\|Elend]] at a ball at [[Keep Venture\|Keep Venture]], largely by accident. Elend seems to like her, and Vin returns the feelings. [[Dockson\|Dockson]] and the others warns her, telling her that Elend is just pretending to like her in order to annoy his father. Vin, however, is firm in her belief that Elend is different from the other nobles. As the house war escalates, Elend starts avoiding Vin, not wanting her to become a target for assassins. Vin realizes how much she truly cares for Elend that night, and saves Elend from an assassination attempt lead by [[Shan Elariel\|Shan Elariel]], his fiancée. At the execution in Luthadel square, Elend attempts to rescue Vin because he thinks she is in one of the cages. When she is captured by the [[Lord Ruler\|Lord Ruler]], Elend courageously leads a team of guards into [[Kredik Shaw\|Kredik Shaw]] to rescue her. Soon after he finds out her identity as a skaa and a Mistborn.
 
->“*Sé lo que quiero. Amor a Elend. No sé cuánto tiempo nos queda juntos, pero quiero algo, al menos.*”
-\-Vin.[1]
+>“*I know what I want, now. I love Elend. I don’t know what kind of time we’ll have together, but I want some, at least.*”
+\-Vin[1]
 
-Empiezan a vivir juntos, y Vin actúa como guardaespaldas de Elend, manteniéndolo a salvo de los asesinos. Elend se declara a ella en algún momento, pero Vin lo rechaza. Tienen cierta tensión durante unos meses, aunque no hablan sobre ello con el otro. Vin siente que él es demasiado bueno para ella y que merece alguien mejor. Vin cree que Elend tiene miedo de ella y de cómo mata a los asesinos. Por su parte, Elend cree que es demasiado aburrido e irrelevante para alguien como ella. Ambos hablan con Sazed por separado, pidiendo consejo. Sazed los anima a ambos a seguir con la relación, diciéndoles lo buenos que son para el otro.
-Tras combatir y matar a [[Zane\|Zane]], Vin va corriendo con Elend y pide que Sazed los case en una rápida ceremonia de boda. Después de que más tarde Elend se convirtiera en nacido de la bruma, él y Vin pelean juntos en múltiples ocasiones. Trabajan juntos para tratar de conquistar [[Ciudad Fadrex\|Ciudad Fadrex]]. Cuando Vin Asciende a [[Conservaci%C3%B3n\|Conservación]], observa impotente cómo Elend pelea con [[Marsh\|Marsh]] en la batalla de [[Hathsin\|Hathsin]]. Cuando Marsh mata a Elend, acaba con el único motivo que tenía Vin para vivir, permitiéndole sacrificarse para matar a [[Ruina\|Ruina]].
+They began living together, and Vin acts as Elend’s bodyguard, keeping him safe from assassins. Elend proposes to her at some point, but Vin denies him. They have some tension for a few months, though they don’t talk about it to each other. Vin feels that he is too good for her, and that he deserves someone better than her. Vin believes that Elend is scared of her and the way she kills so many assassins. In turn, Elend feels that he is too boring and unimportant for one such as her. They both talk to Sazed separately, asking for advice. Sazed encourages each of them to continue with the relationship, telling them how they are good for each other.
+After fighting and killing [[Zane\|Zane]], Vin runs to Elend and has Sazed marry them in a quick marriage ceremony. After Elend later becomes a Mistborn, he and Vin fight together on multiple occasions. They work together to try and conquer [[Fadrex City\|Fadrex City]]. When Vin ascends to [[Preservation\|Preservation]], she watches, helpless as Elend fights [[Marsh\|Marsh]] at the Battle of [[Hathsin\|Hathsin]]. When Marsh kills Elend, it takes away the only thing Vin has left to live for, enabling her to sacrifice herself to kill [[Ruin\|Ruin]].
 
 ### Reen
->“*Me pegaba una y otra vez. Me insultaba, me gritaba. Me dijo que me traicionaría. Todos los días pienso en cuánto lo odiaba. Y lo quería. Lo sigo haciendo.*”
-\-Vin.[23]
+>“*He beat me over and over and over. He swore at me, he yelled at me. He told me he’d betray me. Everyday I thought about how much I hated him. And I loved him. I still do.*”
+\-Vin[23]
 
 
-[[Reen\|Reen]] es el medio hermano de Vin. Cuando su [[Madre de Vin\|madre]] trata de matar a Vin, es Reen quien la rescata. Reen cría a Vin en las calles, y ella lo acompaña, aprendiendo cómo ser una ladrona. Reen la maltrata, a menudo pegándole y gritándole. Le graba el instinto de no confiar en nadie, diciendo que cualquiera la traicionaría, incluido él. Llegado el momento la deja, abandonándola a vivir en las calles por su cuenta. Aunque la traiciona, Vin luego se da cuenta de que lo sigue queriendo.
-En algún momento Reen es capturado por los [[Inquisidor\|inquisidores]] e interrogado sobre el paradero de Vin. A pesar de la tortura, protege a Vin, insistiendo en que murió de hambre años atrás.
+[[Reen\|Reen]] is Vin's half-brother. When [[Vin's mother\|their mother]] tries to kill Vin, it is Reen who rescues her. Reen raises Vin on the streets, and she accompanies him, learning how to be a thief. Reen is abusive towards her, often beating her and yelling at her. He drills into her the instinct to trust nobody, saying that anyone would betray her, including him. Eventually he does leave her, abandoning her to survive on the streets by herself. Even though he betrays her, Vin later realizes that she still loves him.
+At some point Reen gets captured by the [[Inquisitor\|Inquisitors]], and is interrogated about the whereabouts of Vin. Despite the torture, he protects Vin, insisting that she died of starvation years ago.
 
-  Con <<Kelsier\|Kelsier>> y los otros miembros de su <<Banda de Kelsier\|banda>>
+  With <<Kelsier\|Kelsier>> and the other members of his <<Kelsier's crew\|crew>>
 ### Kelsier
->“*Ha sido un trabajo divertido, ¿no? Cuando me recordéis, por favor, acordaos de esto. Acordaos de sonreír.*”
-\-Nota de Kelsier para Vin y el resto de la banda.[64]
+>“*It was a fun job wasn’t it? When you remember me, please remember that. Remember to smile.*”
+\-Kelsier’s note to Vin and the rest of the crew[64]
 
 
-Kelsier es el mentor de Vin, y le enseña a usar sus habilidades alománticas. Aunque al inicio duda y sospecha de Kelsier, acaba aprendiendo a confiar en él, y este se vuelve algo similar a una figura paterna para ella. Intenta enseñar a Vin a sonreír y de vez en cuando mirar el lado bueno de las cosas. Hacen varias salidas juntos, incluyendo pelear con Inquisidores. Aún cuando Kelsier es asesinado por el [[Rashek\| lord Legislador]], sigue vigilando a Vin como [[Sombra cognitiva\|sombra cognitiva]]. Se siente culpable por abandonarla, pero hace lo mejor que puede para ayudarla. Incluso toma un papel importante para liberarla de la influencia de Ruina.
+Kelsier is Vin’s mentor, and teaches her to use her Allomantic abilities. Though she initially is wary and suspicious of Kelsier, she eventually learns to trust him, and he becomes somewhat of a father figure to her. He tries to teach Vin to smile and occasionally look on the bright side of things. They go on several outings together, including fighting Inquisitors. Though Kelsier is killed by the [[Rashek\| Lord Ruler]], he continues to watch over Vin as a [[Cognitive Shadow\|Cognitive Shadow]]. He feels guilty for abandoning her, but does his best to help her. He eventually plays an important role in freeing her from Ruin’s influence.
 
 ### Zane
->“*Alguien… que se parece más a mí. El tipo de hombre con el que debería estar.*”
-\-Vin, hablando con Sazed sobre Zane.[59]
+>“*Just… someone more like myself. The kind of man I should be with.*”
+\-Vin, talking to Sazed about Zane.[59]
 
 
-Desde el primer momento en que lo ve, a Vin le intriga el misterioso nacido de la bruma que la observa desde los tejados de los edificios y que siempre se escabulle de ella al ser perseguido. Pronto, Vin conoce a Zane y llegan a conocerse mucho. Se enfrentan en las brumas cada noche, sin intentar nunca seriamente matar al otro. Zane le habla a Vin sobre la inmensa habilidad y poder que tiene ella, así como que [[Elend\|Elend]] solo la está usando como herramienta. Él consigue que ataque la fortaleza de [[Ashweather Cett\|Cett]] con él, y matan a miles de soldados.
-La relación de Vin con Zane le causa una confusión emocional, pues debe decidir entre Zane y Elend. Al final, es una conversación con [[Sazed\|Sazedlo]] que la ayuda a aclararse. Una noche, Zane la busca para pedirle huir juntos. Vin lo rechaza, escogiendo a Elend sobre Zane. Zane la ataca, esta vez intentando matarla. Aunque Zane quema [[Atium\|atium]], Vin consigue de todas formas matarlo en la pelea.
+From the first time she sees him, Vin is intrigued by the mysterious Mistborn who watches her from the tops of buildings, and who always manages to slip away from her when she gives chase. Soon, Vin meets Zane and they get to know each other well. They duel in the mists nearly every night, never seriously trying to kill each other. Zane tells Vin of her immense skill and power, and tells her that [[Elend\|Elend]] is just using her as a tool. He gets her to attack [[Ashweather Cett\|Cett]]’s keep with him, and they slaughter thousands of soldiers.
+Vin’s relationship with Zane causes her emotional turmoil, as she tries to decide between Zane and Elend. In the end, it’s a conversation with [[Sazed\|Sazed]] that helps her make up her mind. One night, Zane comes to her and asks her to run away with him. Vin refuses, choosing Elend over Zane. Zane attacks her, this time intending to kill her. Though Zane burns [[Atium\|atium]], Vin still manages to kill him during the course of their fight.
 
 ### Sazed
->“*Oh, niña. ¿Cuándo dejarás de preocuparte y te dejarás amar sin más?*”
-\-Sazed.[59]
+>“*Oh, child. When will you stop worrying and simply let yourself be loved?*”
+\-Sazed[59]
 
 
-En la vida caótica y confusa de Vin, [[Sazed\|Sazed]] se mantiene como una persona constante y preparada para confiar en él. Él ha salvado su vida en más de una ocasión, y Vin confía en él completamente. Durante el tiempo de Vin en la banda de [[Kelsier\|Kelsier]], Sazed le sugiere distintas religiones de sus [[Mentecobre\|mentecobres]]. Ella acude a él por consejo y por los eventos importantes del momento, así como para consejos sobre relaciones. Él se mantiene calmado siempre, lo que a menudo tiene un efecto calmante en Vin. A petición de Vin, oficia la ceremonia de boda de Vin y Elend.
+In Vin’s chaotic and confusing life, [[Sazed\|Sazed]] remains a constant and steady person for her to confide in. He has saved her life on more than one occasion, and Vin trusts him completely. Throughout Vin’s time in [[Kelsier\|Kelsier]]’s crew, Sazed often suggests different religions to her from his [[Coppermind\|copperminds]]. She goes to him for both advice on important current events, as well as relationship advice. He remains calm at all times, which often has a calming affect on Vin in turn. At Vin’s request, he preforms Vin and Elend’s marriage ceremony.
 
-## Citas
-Para más citas, ver [[Vin/Citas\|/Citas]].
->“*Anonimato. Ocultarte, incluso cuando estás con otros. Permanecer callado sin molestas a nadie. Obligarte, al menos. Es una forma de vida. Una protección.*”
-\-Vin a TenSoon.[67]
-
-
->“*Trajiste ejércitos para atacar mi ciudad. Amenazaste a mi pueblo. No mataré a tus soldados, ni les haré pagar por lo que hiciste, pero a ti te mataré, Cett .*”
-\-Vin a lord Cett.[68]
+## Quotes
+For more quotes, see [[Vin/Quotes\|/Quotes]].
+>“*Anonymity. Hiding, even when you’re with others. Being quiet, unobtrusive. Forcing yourself to stay apart—emotionally, at least. It’s a way of life. A protection.*”
+\-Vin to TenSoon[67]
 
 
->“*No sabría decir si eres un necio, (...) o si simplemente existes de un modo que te incapacita para considerar algunas cosas. (...) Dijiste que el único motivo para crear algo era poder destruirlo.(...) Creamos cosas para verlas crecer, Ruina. (...) Para sentir placer al ver que lo que amamos se vuelve más de lo que era antes.*”
-\-Vin a Ruin durante la batalla de Hathsin.[3]
+>“*You brought armies to attack my city. You threatened my people. I won’t slaughter your soldiers, make them pay for what you did, but I will kill you, Cett.*”
+\-Vin to Lord Cett[68]
 
 
->“*Era fuerte y vulnerable a la vez. Fue mi última maestra y la más grande. Era capaz de entregar todo su ser en cada cosa que hacía. Cuando luchaba era la hoja. Cuando amaba era el beso. En ese aspecto era mucho más… humana que cualquiera que haya conocido.*”
-\-TenSoon hablando de Vin a Waxillium Ladrian.[69]
+>“*I can't decide if you're a fool, (...) or if you simply exist in a way that makes you incapable of considering some things. (...) You said that the only reason to create something is to destroy it. (...) We create things to watch them grow, Ruin. (...) To take pleasure in seeing that which we love become more than it was before.*”
+\-Vin to Ruin during the Battle of Hathsin.[3]
 
 
->“*Muy bien, ¿Qué era esa cosa rosa que acabo de encontrarme en el pasillo?*”
-\-Primera reacción de Vin al ver a Alrrianne Cett.[70]
+>“*She was strong and vulnerable all at once. She was my last master, and my greatest. She had a way of pouring everything of herself into what she did. When she fought, she was the blade. When she loved, she was the kiss. In that regard, she was far more . . . human than any I have known.*”
+\-TenSoon speaking of Vin to Waxillium Ladrian.[69]
 
 
-## Curiosidades
-Vin era originalmente un hombre en un capítulo de *Nacidos de la Bruma* antes de que Brandon cambiara de idea.
-## Ver También
-### Subpáginas
-[[Vin/Citas\|Citas]]
-[[Vin/Galer%C3%ADa\|Galería]]
+>“*All right, what was that pink thing I just passed in the hallway?*”
+\-Vin's first reaction upon seeing Allrianne Cett[70]
 
-### Artículos relacionados
 
-[[Pendiente de Vin\|Pendiente de Vin]]
+## Trivia
+Vin was originally male in a single chapter of Mistborn before Brandon changed his mind.
+## See Also
+### Subpages
+[[Vin/Gallery\|Gallery]]
+[[Vin/Quotes\|Quotes]]
+
+### Related Articles
+
+[[Vin's earring\|Vin's earring]]
 [[Elend Venture\|Elend Venture]]
 [[Kelsier\|Kelsier]]
-[[Conservaci%C3%B3n\|Conservación]]
-[[Iglesia del Superviviente\|Iglesia del Superviviente]]
-
-## Notas
-|Antecesor  **[[Kelsier\|Kelsier]]**|**Recipiente de[[Conservaci%C3%B3n\|Conservación]]** |Sucesor  **[[Sazed\|Sazed]]**|
-|-|-|
-
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**| · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+[[Preservation\|Preservation]]
+[[Church of the Survivor\|Church of the Survivor]]
 
 
 
-https://es.coppermind.net/wiki/Valette_Renoux
+https://coppermind.net/wiki/Valette_Renoux

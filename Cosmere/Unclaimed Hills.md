@@ -1,75 +1,55 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Colinas Irreclamadas**|
+|**Unclaimed Hills**|
 |-|-|
 ||
-|**Región**|[[Tierras Heladas\|Tierras Heladas]]🐱︎|
-|**Mundo**|[[Roshar\|Roshar]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Region**|[[Frostlands\|Frostlands]]|
+|**World**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-Las **Colinas Irreclamadas** es una región geográfica al este de [[Roshar\|Roshar]] que contiene las [[Llanuras Quebradas\|Llanuras Quebradas]].
+The **Unclaimed Hills** is a geographical region in eastern [[Roshar\|Roshar]] that contains the [[Shattered Plains\|Shattered Plains]].
 
-## Sumario
+## Contents
 
-1 Localización. [[#Localizaci.C3.B3n]] 
-2 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-3 Habitantes. [[#Habitantes]] 
-4 Historia. [[#Historia]] 
+1 Location. [[#Location]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
+3 Inhabitants. [[#Inhabitants]] 
+4 History. [[#History]] 
 
-4. [[#Historia Antigua y abandono]] 
-4. [[#Redescubrimiento y la Guerra de la Venganza]] 
-4. [[#Verdadera Desolaci.C3.B3n]] 
-
-
-5 Notas. [[#Notas]] 
+4. [[#Ancient History and Abandonment]] 
+4. [[#Rediscovery and the War of Reckoning]] 
+4. [[#True Desolation]] 
 
 
-## Localización
-Las Colinas Irreclamadas se encuentran al este de Roshar, cubriendo la parte norte de la gran región de las [[Tierras Heladas\|Tierras Heladas]]. Forman la frontera oriental de [[Alezkar\|Alezkar]] y se extienden hasta las orillas del [[Oc%C3%A9ano de los Or%C3%ADgenes\|Océano de los Orígenes]], mientras que hacia el sur se van aplanando. Su característica geográfica más notable son las [[Llanuras Quebradas\|Llanuras Quebradas]], que ocupan la zona sur de la región.
+5 Notes. [[#Notes]] 
 
-## Geografía y ecología
-  Una caravana de esclavos cabalgando hacia las colinas.
-Las Colinas Irreclamadas toman su nombre de su terreno irregular. Algunas colinas son poco más que montículos, otras son mucho más altas. Son rocosas, cubiertas de hierba dura y retráctil que se extiende hasta donde alcanza la vista. En ocasiones, esta monotonía verde se rompe con plantas espinosas como la [[Ruinaoscura\|ruinaoscura]] silvestre y un arbusto sin nombre con gruesos tallos y agujas verdes espinosas, pero no hay árboles ni vegetación más alta.
-Toda la región está muy expuesta a las [[Alta tormenta\|altas tormentas]], lo que hace que las plantas sean asustadizas. A cualquier señal de movimiento, se retraen, dejando sólo piedra marrón. La mayor parte de la fauna de las colinas permanece oculta, y sólo revela su presencia después de una alta tormenta. Entonces, se pueden encontrar numerosos [[Cremlino\|cremlinos]], [[Patoso\|patoso]] y babosas que salen a beber el agua. Aunque la tierra es cultivable, sería difícil cultivarla adecuadamente: los cremlinos crecen pequeños y los cultivos dan poco rendimiento.
 
-## Habitantes
-Las Colinas Irreclamadas, como su nombre indica, no están en manos de ninguna nación y están escasamente habitadas. Las Llanuras Quebradas fueron ocupadas en su día por los [[Oyentes\|oyentes]], aunque durante la [[Guerra de la Venganza\|Guerra de la Venganza]], su presencia se reduce a la meseta de [[Narak\|Narak]], mientras que los bordes son tomados por el ejército [[Alezi\|alezi]]. Las propias Colinas son el hogar de una pequeña población del pueblo [[Natanatan\|natano]].
-Las ciudades que existen se encuentran en su mayoría en la costa oceánica. La mayoría de ellas son pequeñas e independientes, y nominalmente [[Vorin\|vorin]], aunque su adhesión a la doctrina -sobre todo en cuanto a la prohibición del comercio de esclavos- es mucho más laxa que en las naciones occidentales. Las más grandes son la ciudad-estado [[Nueva Natanan\|Nueva Natanan]] y un asentamiento llamado [[Sombra del Amanecer\|Sombra del Amanecer]].
-Después de que los [[Alezi\|alezi]] se trasladen a las Llanuras, se hacen varios planes para repoblar la tierra. Inicialmente, [[Dalinar Kholin\|Dalinar Kholin]] propone colonizar la zona y añadirla al territorio alezi, aunque este plan se detiene antes de que pueda llevarse a cabo por la llegada de la [[Tormenta eterna\|tormenta eterna]]. Más tarde, [[Navani Kholin\|Navani Kholin]] sugiere construir un nuevo reino allí después de que Alezkar caiga en manos de los Portadores del Vacío, pero la idea se descarta debido a lo difícil que es cultivar la región.
+## Location
+The Unclaimed Hills lie in the east of Roshar, covering the northern part of the greater region of the [[Frostlands\|Frostlands]]. They form the eastern border of [[Alethkar\|Alethkar]] and stretch all the way to the shores of the [[Ocean of Origins\|Ocean of Origins]], while to the south, they gradually flatten out. Their most notable geographical feature is the [[Shattered Plains\|Shattered Plains]], which occupy the southern portion of the area.
 
-## Historia
-### Historia Antigua y abandono
-Durante las [[%C3%89pocas Her%C3%A1ldicas\|Épocas Heráldicas]], el territorio ahora conocido como Colinas Irreclamadas estaba dividido entre los [[Reinos Plateados\|Reinos Plateados]] de [[Alezela\|Alezela]] y [[Natanatan\|Natanatan]]. Es posible que la batalla final del [[Aharietiam\|Aharietiam]] se librara en un cañón dentro de las Colinas -- el [[Padre Tormenta\|Padre Tormenta]] haría que Dalinar lo recordara más tarde a través de una [[Visiones de Dalinar\|visión]].
-Tras la escisión de Alethela y la destrucción de Natanatan, la tierra fue perdiendo importancia. Es posible que hubiera otro reino allí en algún momento; sin embargo, a finales de la [[Era de la Soledad\|Era de la Soledad]], la región estaba esencialmente deshabitada, atravesada sólo por viajeros, cazadores, bandidos y, en ocasiones, [[Oyentes\|oyentes]] que se aventuraban a salir de las Llanuras Quebradas. En ausencia de personas, florecieron las bestias, incluidos los [[Abismoide\|abismoides]].
+## Geography and Ecology
+  A slave caravan riding into the Hills
+The Unclaimed Hills get their name from their uneven terrain. Some hills are little more than mounds; others are far taller. They are rocky, covered with tough, retractable grass stretching as far as the eye can see. On occasion, this green monotony is broken by spiny plants such as wild [[Blackbane\|blackbane]] and an unnamed shrub with thick stalks and spiny green needles, but there are no trees or any taller vegetation.
+The whole region is highly exposed to the [[Highstorm\|highstorms]], making the plants skittish. At any sign of movement, they retract, leaving behind only brown stone. Most of the Hills' fauna stays hidden, only revealing their presence after a highstorm. Then, one can find numerous [[Cremling\|cremlings]], [[Legger\|leggers]] and slugs coming out to drink the water. Though the land is arable, it would be difficult to farm it properly -- rockbuds grow small, and crops give little yields.
 
-### Redescubrimiento y la Guerra de la Venganza
-Para más información, ver [[Guerra de la Venganza\|Guerra de la Venganza]].
-Se enviaron varias expediciones a las Colinas Irreclamadas en busca de un paso fluvial hacia [[Nueva Natanan\|Nueva Natanan]]. Tras la unificación de [[Alezkar\|Alezkar]], [[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]] emprendieron su propio viaje de caza hasta allí, donde se encontraron con los oyentes y descubrieron las Llanuras Quebradas, y en ellas, los abismoides, la fuente de las gemas de los oyentes. Al principio, las relaciones entre los [[Alezi\|alezi]] y los oyentes, apodados parshendi por los humanos, fueron bien, pero en la noche de un importante tratado entre ambos, los oyentes decidieron asesinar a Gavilar para impedir que liberara a sus dioses. Como resultado, los alezi se trasladaron a las Llanuras Quebradas y comenzaron a librar la [[Guerra de la Venganza\|Guerra de la Venganza]] contra los oyentes.
-El regreso de la población humana a las Colinas trajo consigo un aumento tanto del comercio como del bandolerismo. Los esclavistas y los criminales florecieron en el difícil y deshabitado páramo, y los [[Altos pr%C3%ADncipes\|altos príncipes]] no estaban interesados o eran incapaces de detenerlo. Aunque los alezi tenían planes para volver a habitar las Llanuras Quebradas por completo, esto quedó en suspenso, primero por la guerra y luego por el comienzo de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]].
+## Inhabitants
+The Unclaimed Hills are, as their name indicates, held by no nation, and sparsely inhabited. The Shattered Plains were once occupied by the [[Listener\|listeners]], though during the [[War of Reckoning\|War of Reckoning]], their presence is reduced to the plateau of [[Narak\|Narak]], while the edges are taken over by the [[Alethi\|Alethi]] military. The Hills themselves are home to a small population of the [[Natan\|Natan]] people.
+What cities there are lie mostly on the ocean coast. Most of them are small and independent, and nominally [[Vorin\|Vorin]], although their adherence to the doctrine -- particularly in terms of the prohibition on slave trade -- is far looser than in the western nations. The largest among them are the city-state [[New Natanan\|New Natanan]] and a settlement called [[Dawn's Shadow\|Dawn's Shadow]].
+After the [[Alethi\|Alethi]] move onto the Plains, several plans are made to reinhabit the land. Initially, [[Dalinar Kholin\|Dalinar Kholin]] proposes homesteading the area and adding it to the Alethi territory, though that plan is stopped before it can be fully put in place by the coming of the [[Everstorm\|Everstorm]]. Later, [[Navani Kholin\|Navani Kholin]] suggests building a new kingdom there after Alethkar falls to the voidbringers, but the idea is discarded on the account of how difficult the region is to farm.
 
-### Verdadera Desolación
-Cuando la [[Tormenta eterna\|tormenta eterna]] comenzó a dar la vuelta al mundo, los alezi se centraron en la defensa de las [[Llanuras Quebradas\|Llanuras Quebradas]], en particular la zona de la [[Puerta Jurada\|Puerta Jurada]] en su centro. Las Colinas siguieron siendo simplemente un lugar por el que la gente viajaba, ya fuera para escapar o en su camino hacia y desde las Llanuras.
+## History
+### Ancient History and Abandonment
+Back during the [[Heraldic Epochs\|Heraldic Epochs]], the territory now known as the Unclaimed Hills was split between the [[Silver Kingdoms\|Silver Kingdoms]] of [[Alethela\|Alethela]] and [[Natanatan\|Natanatan]]. It's possible that the final battle of the [[Aharietiam\|Aharietiam]] was fought in a canyon within the Hills -- [[Stormfather\|Stormfather]] would later bring [[Dalinar\|Dalinar]] into a memory of it through a [[Dalinar's visions\|vision]].
+Following the splintering of Alethela and the destruction of Natanatan, the land slowly dropped in importance. It's possible there was another kingdom there at some point; however, by the late [[Era of Solitude\|Era of Solitude]], the region was essentially uninhabited, traversed only by travellers, hunters, bandits and, on occasion, [[Listener\|listeners]] venturing out of the Shattered Plains. In the absence of people, beasts, including the [[Chasmfiend\|chasmfiends]], flourished.
 
-## Notas
+### Rediscovery and the War of Reckoning
+For more information, see [[War of Reckoning\|War of Reckoning]].
+Several expeditions were sent out into the Unclaimed Hills in search of a river passage to [[New Natanan\|New Natanan]]. Following the unification of [[Alethkar\|Alethkar]], [[Gavilar\|Gavilar]] and [[Dalinar Kholin\|Dalinar Kholin]] went on their own hunting trip there, whereupon they encountered the listeners and discovered the Shattered Plains -- and on them, chasmfiends, the source of the listeners' gems. Initially, the relations between the [[Alethi\|Alethi]] and the listeners, dubbed Parshendi by the humans, went well, but on the night of an important treaty between the two, the listeners chose to assassinate Gavilar to stop him from releasing their gods. As a result, the Alethi moved onto the Shattered Plains and began to wage the [[War of Reckoning\|War of Reckoning]] against the listeners.
+The return of human population to the Hills brought with it an increase in both trade and banditry. Slavers and criminals flourished in the difficult, uninhabited wasteland, and the [[Highprince\|highprinces]] were either uninterested or incapable of stopping it. Though the Alethi had plans for reinhabiting the Shattered Plains fully, those were put on hold, first by the war and then by the beginning of the [[True Desolation\|True Desolation]].
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### True Desolation
+As the [[Everstorm\|Everstorm]] began circling the globe, the Alethi focused on the defending the [[Shattered Plains\|Shattered Plains]], in particular the area around the [[Oathgate\|Oathgate]] in their center. The Hills remained simply a place people travelled through, whether to escape or on their way to and from the Plains.
 
 
 
-https://es.coppermind.net/wiki/Unclaimed_Hills
+https://coppermind.net/wiki/Unclaimed_Hills

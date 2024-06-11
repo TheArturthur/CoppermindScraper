@@ -1,80 +1,68 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Kaise**|
 |-|-|
 ||
-|**[[Familia real teo\|Familia real teo]]**|
-|**Padres**|[[Kiin\|Kiin]], [[Daora\|Daora]]|
-|**Hermanos**|[[Lukel\|Lukel]], [[Adien\|Adien]], [[Daorn\|Daorn]]|
-|**Parientes**|[[Sarene\|Sarene]], [[Teorn\|Teorn]], [[Eventeo\|Eventeo]]|
-|**Nacido en**|Año del [[Reod\|Reod]]|
-|**Capacidades**|[[Saltamundos\|Saltamundos]]|
-|**Vinculado con**|[[Dao\|Dao]]|
-|**Apodos**|Los-Nombres-En-Código-Son-Una-Idiotez|
-|**Grupo**|[[Los Sangre Espectral\|Los Sangre Espectral]]🐱︎|
-|**Nacionalidad**|[[De Arelon\|de Arelon]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Teo Royal Family\|Teo Royal Family]]**|
+|**Parents**|[[Kiin\|Kiin]], [[Daora\|Daora]]|
+|**Siblings**|[[Lukel\|Lukel]], [[Adien\|Adien]], [[Daorn\|Daorn]]|
+|**Relatives**|[[Sarene\|Sarene]], [[Teorn\|Teorn]], [[Eventeo\|Eventeo]]|
+|**Born**|Year of [[Reod\|Reod]]|
+|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Bonded With**|[[Dao\|Dao]]|
+|**Aliases**|Codenames Are Stupid|
+|**Groups**|[[Ghostbloods\|Ghostbloods]]|
+|**Nationality**|[[Arelene\|Arelene]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
-**Kaise** es una mujer [[Arelon\|arelena]], [[Saltamundos\|saltamundos]] y miembro de los [[Sangre Espectral\|Sangre Espectral]].
+**Kaise** is an [[Arelene\|Arelene]] woman, [[Worldhopper\|Worldhopper]], and a member of the [[Ghostbloods\|Ghostbloods]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Encuentro con Sarene]] 
-3. [[#La visita a Elantris]] 
-3. [[#Esgrima]] 
-3. [[#El ataque dakhor]] 
-3. [[#Resistencia contra Trell]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Meeting Sarene]] 
+3. [[#The Visit to Elantris]] 
+3. [[#Fencing]] 
+3. [[#The Dakhor Attack]] 
+3. [[#Resistance against Trell]] 
 
 
-## Apariencia y personalidad
-Siempre tiene hambre, lo que tiene sentido porque [[Kiin\|Kiin]] es su padre y hace una comida excelente. Pasa mucho tiempo en la cocina con él, acosándole para que le dé de comer. Es muy inteligente, incluso más que [[Daorn\|Daorn]], su hermano. Reprende a [[Sarene\|Sarene]] por sus malos modales en la mesa, diciendo que se le ha caído más de la mitad de la comida al suelo y que una princesa debería saber usar los palillos [[MaiPon\|MaiPon]]. Ella y Daorn discuten mucho y afirman no parecerse en nada, aunque son casi idénticos. Kaise suele maldecir en idiomas extranjeros cuando pierde una discusión. También padece .
-De adulta, lleva el pelo rubio recogido y está algo rellenita.
+4 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-Como miembro de los [[Sangre Espectral\|Sangre Espectral]], tiene acceso a sus cuantiosos recursos e información. Está vinculada a [[Dao\|Dao]] y tiene el [[Seon\|seon]] con ella en [[Scadrial\|Scadrial]].
-Le gusta aprender idiomas de forma natural (sin usar la [[Conexi%C3%B3n\|Conexión]], que considera una trampa) y puede hablar varios idiomas, entre ellos el [[Areleno\|areleno]], [[JinDo\|JinDo]], [[Fjordell\|fjordell]], [[Duladen\|duladen]], [[Svorden\|svordisano]] y el idioma del norte de [[Scadrial\|Scadrial]] (aunque con un ligero acento), y al menos puede leer [[Thayle%C3%B1o\|thayleño]].
-Ha trabajado o estudiado como filóloga en alguna medida y, según parece, gestiona los registros y la comunicación para la unidad de los Sangre Espectral en [[Bilming\|Bilming]].
 
-## Historia
-### Encuentro con Sarene
-  Kaise (izquierda) con <<Kiin\|Kiin>>, <<Daorn\|Daorn>>, y <<Adien\|Adien>>
-Kaise nació en la época del [[Reod\|Reod]].
-Cuando [[Sarene\|Sarene]] llega a [[Kae\|Kae]], su tío [[Kiin\|Kiin]] le presenta a sus hijos, sus primos Kaise y [[Daorn\|Daorn]]. Después, todos se sientan a comer platos de [[JinDo\|JinDo]]. Mientras, Kaise se queja de que Sarene no parece una princesa porque es muy alta. Sarene le explica que ella es [[Teod\|teo]], a lo que Daorn añade que su padre también lo es. Después de explicarle el [[Reod\|Reod]] a Sarene, Kiin y [[Daora\|Daora]] le explicaron que no se atrevían a contratar sirvientes y que en realidad no los necesitaban, teniendo en cuenta todo lo que podían hacer solos. Kiin sonrió y dijo que eso era especialmente cierto cuando se tenían hijos que hacían los trabajos sucios.
+## Appearance and Personality
+She is always hungry, which makes sense as [[Kiin\|Kiin]] is her father and he makes excellent food. She spends lots of time in the kitchen with him, bugging him for food. She is very intelligent, even more so than [[Daorn\|Daorn]], her brother. She reprimands [[Sarene\|Sarene]] for her bad table manners, saying that she has dropped over half her food on the floor and that a princess should know how to use [[MaiPon\|MaiPon]] sticks. She and Daorn argue a lot and claim to look nothing alike, even though they look almost identical. Kaise often curses in foreign languages when she loses an argument. She also has .
+As an adult, she wears her blonde hair in a bob and is somewhat plump.
 
-### La visita a Elantris
-Daorn y Kaise condujeron a Sarene hasta las murallas de [[Elantris (ciudad)\|Elantris]]. Subieron las enormes escaleras y, mientras Sarene miraba el suelo, Daorn tiró de su vestido para advertirle de que no se acercara demasiado. Ella se recuperó y observó una gran reunión en lo alto de la muralla, a poca distancia.
-Preguntó qué era y Daorn se encogió de hombros, sin saber. Kaise admitió que el lugar solía estar vacío. Sarene dijo que debían echar un vistazo. Cuando se acercaron al grupo, se dieron cuenta de que era el [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]]. Kaise se escabulló entre la multitud, emocionada por verle. Después de que Sarene desafiara a Hrathen, Kaise se reunió con la pareja y le dijo a Sarene que lo que había hecho era maravilloso. Daorn continuó diciendo que Kiin temía que Hrathen tuviera éxito porque los tiempos difíciles hacen que la gente esté más dispuesta a aceptar a un hombre que predica el cambio. Sarene le dijo a Daorn que su padre era un hombre sabio.
-Regresaron con el tiempo al motivo original de la visita y contemplaron la ciudad de Elantris. Kaise señaló a la gente y dijo que estaban muy tristes, que nadie se ocupaba de ellos. Sarene señaló que alguien debía alimentarlos, pero Daorn replicó que nadie los alimenta y que no tienen nada que comer.
+## Attributes and Abilities
+As a member of the [[Ghostbloods\|Ghostbloods]], she has access to their considerable resources and information. She is bonded to [[Dao\|Dao]] and has the [[Seon\|seon]] with her on [[Scadrial\|Scadrial]].
+She enjoys learning languages naturally (without the use of [[Connection\|Connection]], which she considers to be cheating) and can speak a variety of languages, including [[Arelene\|Arelene]], [[JinDo\|JinDo]], [[Fjordell\|Fjordell]], [[Duladen\|Duladen]], [[Svordish\|Svordish]], and the language of northern [[Scadrial\|Scadrial]] (albeit with a slight accent), and she can at least read [[Thaylen\|Thaylen]].
+She has worked or studied as a philologist in some capacity, and, appropriately, she seems to manage records and communication for her Ghostblood cell in [[Bilming\|Bilming]].
 
-### Esgrima
-Cuando Sarene enseñó esgrima a las mujeres, [[Lukel\|Lukel]] se presentó para no perderse la experiencia. Daorn y Kaise le acompañaron. Después de la lección, Sarene confesó que estaba preocupada por no haber hecho un buen trabajo enseñando esgrima a las mujeres. Kaise dijo que podría haberlo hecho mejor. Explicó que Sarene no les había enseñado ni la postura, ni la Forma Adecuada, ni las reglas del torneo. Sarene se sorprendió y Kaise admitió que había leído un libro sobre el tema. Entonces se acercó para apartar la mano de Daorn, que la estaba pinchando con un palo que había cogido del montón de Sarene.
-Sarene confesó que Kaise debía de ser la niña más inteligente que había conocido. Lukel admitió que, aunque era inteligente, Sarene no debía dejar que Kaise la impresionara demasiado. Después de todo, seguía siendo una niña. Sarene dijo que seguía siendo asombrosa y Lukel estuvo de acuerdo. Sin embargo, también admitió que a veces sentía lástima por Daorn porque se esforzaba al máximo, pero que probablemente se sentía insuficiente porque Kaise podía ser muy dominante.xc
+## History
+### Meeting Sarene
+  Kaise (left) with <<Kiin\|Kiin>>, <<Daorn\|Daorn>>, and <<Adien\|Adien>>
+Kaise was born around the time of the [[Reod\|Reod]].
+When [[Sarene\|Sarene]] arrived in [[Kae\|Kae]], her uncle [[Kiin\|Kiin]] introduced her to his children, her cousins Kaise and [[Daorn\|Daorn]]. Afterwards, they all sit down to eat [[JinDo\|JinDo]] food. As they eat, Kaise complains that Sarene doesn’t look like a princess because she is so tall. Sarene explained that she is [[Teod\|Teo]], to which Daorn adds that their father is Teo, too. After explaining the [[Reod\|Reod]] to Sarene, Kiin and [[Daora\|Daora]] explained that they couldn’t bring themselves to hire servants and they didn’t really need to considering how much they could get done on their own. Kiin smiled and said it was especially true when you had kids to do the dirty jobs.
 
-### El ataque dakhor
-Cuando los monjes del [[Monasterio Dakhor\|monasterio Dakhor]], liderados por [[Dilaf\|Dilaf]], atacaron la ciudad de [[Kae\|Kae]], Daorn, Kaise y [[Adien\|Adien]] se acurrucaron en la mansión de Kiin con la [[Jalla\|Jalla]]. Sin embargo, una vez que Dilaf capturó a Sarene, ordenó que la familia fuera llevada con el resto de los malditos de [[Arelon\|Arelon]] a Elantris para ser quemados. Mientras eran conducidos por la ciudad, Daorn y Kaise se aferraron a Lukel, aterrorizados.
+### The Visit to Elantris
+Daorn and Kaise led Sarene to the walls of [[Elantris (city)\|Elantris]]. They walked up the enormous set of stairs and as Sarene looked down at the ground below, Daorn pulled against the back of her dress, cautioning her not to get too close. She recovered and noticed a large gathering on the wall’s top a short distance away.
+She asked what it was and Daorn shrugged, not knowing. Kaise admitted the place was usually empty. Sarene said they should have a look. As they approached the group, they realized it was the [[Gyorn\|gyorn]] [[Hrathen\|Hrathen]]. Kaise darted into the crowd, excited to see him. After Sarene challenged Hrathen, Kaise rejoined the pair, telling Sarene what she did was wonderful. Daorn went on to say that Kiin was afraid that Hrathen would be successful because the hard times make people more willing to accept a man who preaches change. Sarene told Daorn that his father was a wise man.
+They eventually returned to their original reason for the visit and looked out over the city of Elantris. Kaise pointed out the people and said they were so sad, that no one took care of them. Sarene pointed out that someone must feed them, but Daorn countered that no one feeds them and there is nothing for them to eat.
 
-### Resistencia contra Trell
-En algún momento, Kaise se convirtió en miembro de los [[Sangre Espectral\|Sangre Espectral]] y trabajó en [[Scadrial\|Scadrial]] para resistir la amenaza inminente del [[Trell (trellismo)\|Trell]], bajo el nombre en clave Los-Nombres-en-Código-Son-Una-Idiotez. Trabajó en un piso franco en [[Bilming\|Bilming]], junto a [[Luzdeluna\|Luzdeluna]], [[AlmaDoble\|AlmaDoble]], [[Dao\|Dao]] y su perra [[Lily\|Lily]]. Estuvo presente cuando Luzdeluna llevó a [[Marasi Colms\|Marasi Colms]] al piso franco, pero se quedó atrás mientras los demás partían en una misión; su tarea consistía en reunirse con [[Maraga\|Maraga]] y enviar mensajes a [[Steris Harms\|Steris Harms]] y a los agentes Sangre Espectral de la [[Cuenca de Elendel\|Cuenca de Elendel]], indicándoles que se prepararan para una evacuación de [[Elendel\|Elendel]].
+### Fencing
+When Sarene taught the women fencing, [[Lukel\|Lukel]] showed up not wanting to miss the experience. Daorn and Kaise tagged along. After the lesson, Sarene confessed that she was worried that she didn’t do a good job teaching the women fencing. Kaise piped in that she could have done better. She explained that Sarene didn’t teach them about riposting, Proper Form, or tournament rules. Sarene was surprised and Kaise admitted she read a book about it. She then reached over to slap away Daorn’s hand who was poking her with a stick he had taken from Sarene’s pile.
+Sarene confessed that Kaise must be the most intelligent little girl she’d ever met. Lukel admitted that while she is smart, Sarene shouldn’t let Kaise impress her too much. After all, she was still a child. Sarene said she was still astounding and Lukel agreed. However, he also admitted that he felt sorry for Daorn sometimes because he tries his best, but that he probably feels inadequate because Kaise can be so domineering.
 
-## Notas
+### The Dakhor Attack
+When the monks of the [[Dakhor Monastery\|Dakhor Monastery]], led by [[Dilaf\|Dilaf]], attacked the city of [[Kae\|Kae]], Daorn, Kaise and [[Adien\|Adien]] huddled in Kiin’s mansion with [[Jalla\|Jalla]], Lukel’s wife. However, once Dilaf captured Sarene, he ordered the family to be taken with the rest of the accursed in [[Arelon\|Arelon]] to Elantris to be burned. As they were led through the city, Daorn and Kaise clung to Lukel, terrified.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+### Resistance against Trell
+At some point, Kaise became a member of the [[Ghostbloods\|Ghostbloods]] and worked on [[Scadrial\|Scadrial]] in order to resist the oncoming threat of [[Trell (Trellism)\|Trell]], under the codename of Codenames Are Stupid. She worked out of a safehouse in [[Bilming\|Bilming]], alongside [[Moonlight\|Moonlight]], [[TwinSoul\|TwinSoul]], [[Dao\|Dao]], and her dog [[Lily\|Lily]]. She was present when Moonlight brought [[Marasi Colms\|Marasi Colms]] to the safehouse, but stayed behind while the others left on a mission; her task was to meet [[Maraga\|Maraga]] and send messages to [[Steris Harms\|Steris Harms]] and the Ghostblood agents in the [[Elendel Basin\|Elendel Basin]], telling them to prepare for an evacuation of [[Elendel\|Elendel]].
 
 
 
-https://es.coppermind.net/wiki/Kaise
+https://coppermind.net/wiki/Kaise

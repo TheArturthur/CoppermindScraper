@@ -1,119 +1,98 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Notum**|
 |-|-|
 ||
-|**Capacidades**|[[Astilla\|Astilla]] de [[Honor\|Honor]]|
-|**Títulos**|Capitán |
-|**Oficio**|Marinero|
-|**Especie**|[[Honorspren\|Honorspren]]|
-|**Residencia**|[[Shadesmar\|Shadesmar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Juramentada\|Juramentada]]*|
+|**Abilities**|[[Splinter\|Splinter]] of [[Honor\|Honor]]|
+|**Titles**|Captain |
+|**Profession**|Sailor|
+|**Species**|[[Honorspren\|Honorspren]]|
+|**Residence**|[[Shadesmar\|Shadesmar]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
->“*¡Honor no está muerto mientras viva en los corazones de los hombres!*”
-\-Notum.[1]
-
-
-**Notum** es un [[Honorspren\|honorspren]] de [[Roshar\|Roshar]] que sirve como capitán del barco* [[Sendero de Honor\|Sendero de Honor]]*. Tras aceptar ayudar a [[Syl\|Syl]] a escapar de los [[Fusionado\|Fusionados]] en [[Celebrant\|Celebrant]], es desterrado y enviado a patrullar el área que rodea [[Integridad Duradera\|Integridad Duradera]]. Más tarde, abandona su discurso preparado para defender a [[Adolin Kholin\|Adolin Kholin]] en su juicio, arriesgándose a sufrir daños personales y volver al exilio.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-
-2. [[#Vida temprana]] 
-2. [[#Capit.C3.A1n del Sendero de Honor]] 
-2. [[#Exilio]] 
-2. [[#Retorno a Integridad Duradera]] 
+>“*Honor is not dead so long as he lives in the hearts of men!*”
+\-Notum[1]
 
 
-3 Relaciones. [[#Relaciones]] 
+**Notum** is an [[Honorspren\|honorspren]] on [[Roshar\|Roshar]] who serves as the captain of the ship *[[Honor's Path\|Honor's Path]]*. After he agrees to help [[Syl\|Syl]] flee the [[Fused\|Fused]] in [[Celebrant\|Celebrant]], he is exiled and sent to patrol the area surrounding [[Lasting Integrity\|Lasting Integrity]]. He later abandons his prepared speech in order to defend [[Adolin Kholin\|Adolin Kholin]] at his trial, risking personal harm and a return to exile.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+
+2. [[#Early Life]] 
+2. [[#Captain of Honor.27s Path]] 
+2. [[#Exile]] 
+2. [[#Return to Lasting Integrity]] 
+
+
+3 Relationships. [[#Relationships]] 
 
 3. [[#Adolin]] 
 3. [[#Sylphrena]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
->“*Yo también hice un juramento. A Honor, y a las verdades que seguimos.*”
-\-Notum a Kaladin.[2]
+## Appearance and Personality
+>“*I've sworn an oath myself. To Honor, and to the truths we follow.*”
+\-Notum to Kaladin[2]
 
-Notum es un honorspren alto que se asemeja físicamente a un [[Alezi\|alezi]] y se manifiesta vistiendo ropa acorde con su posición. Tiene el mentón afeitado pero luce barba y un fino bigote que se conectan con prominentes patillas, de forma muy parecida al estilo de vello facial de los [[Comecuernos\|comecuernos]]. Como todos los honorspren, Notum tiene un comportamiento arrogante y brilla con un suave color blanco-azulado.
-Notum es la personificación de lo que significa ser un honorspren. Ha hecho un juramento a [[Honor\|Honor]] y hace todo lo posible por vivir según ese ideal, creyendo que los juramentos y las promesas son esenciales. Es un leal servidor del [[Padre Tormenta\|Padre Tormenta]], reacio a comprometer sus creencias, pero que puede ser persuadido por argumentos que involucren juramentos que otras personas han hecho. Notum es un spren prudente; entiende que la fortaleza de la humanidad radica en sus personalidades dinámicas, aunque sigue creyendo que el [[V%C3%ADnculo Nahel\|vínculo Nahel]] conlleva riesgo de desastre. Habla de forma formal pero, a su manera, considerada.
-Como capitán, Notum se preocupa profundamente por su tripulación y los defiende fervientemente. Se enfrenta al hecho de que permitir que Syl escape pone a su tripulación en peligro. Está dispuesto a considerar que está equivocado cuando se le presentan evidencias; después de que [[Adolin\|Adolin]] lo salve, se da cuenta de que los humanos no son todos despreciables y lo defiende, a costa de un alto precio personal, en su juicio.
+Notum is a tall honorspren who appears physically similar to an [[Alethi\|Alethi]] and manifests himself wearing clothing befitting his station. He has a shaved chin but sports a beard and a thin mustache that connect to prominent sideburns, almost like the [[Horneater\|Horneater]] style of wearing facial hair. Like all honorspren, Notum stands with an imperious bearing and glows with a soft blue-white color.
+Notum is the epitome of what it means to be an honorspren. He has sworn an oath to [[Honor\|Honor]] and tries his best to live by that, believing that oaths and promises are crucial. He is a loyal servant of the [[Stormfather\|Stormfather]], unwilling to compromise his beliefs, but can be swayed by arguments that involve oaths other people have made. Notum is a cautious spren; he understands that the strength of humankind is their dynamic personalities, although he still believes that the [[Nahel bond\|Nahel bond]] risks disaster. He speaks formally but, in his own way, compassionately.
+As a captain, Notum strongly cares for his crew and is very defensive of them. He struggles with the fact that by allowing Syl to escape, he is putting his crew in harm's way. He is willing to consider that he is wrong when presented with evidence; after [[Adolin\|Adolin]] saves him, he realizes humans are not all despicable and defends him, even at great personal cost, at his trial.
 
-## Historia
-### Vida temprana
-Notum nace después de la [[Traici%C3%B3n\|Traición]], cuatro generaciones después de que el [[Padre Tormenta\|Padre Tormenta]] se ponga a crear más [[Honorspren\|honorspren]]. En algún momento de su pasado, hace un juramento a [[Honor\|Honor]] y a las verdades que siguen los honorspren. Notum pasa algún tiempo en la capital de los honorspren, [[Integridad Duradera\|Integridad Duradera]], obedeciendo las órdenes del Padre Tormenta, durante el cual llega a conocer a [[Sylphrena\|Sylphrena]].
+## History
+### Early Life
+Notum was born after the [[Recreance\|Recreance]], four generations after the [[Stormfather\|Stormfather]] was moved to create more [[Honorspren\|honorspren]]. At some point in his past, he swore an oath to [[Honor\|Honor]] and the truths that the honorspren follow. Notum spent at least some time in the honorspren capital, [[Lasting Integrity\|Lasting Integrity]], doing the Stormfather's bidding, during which time he got to know [[Sylphrena\|Sylphrena]].
 
-### Capitán del *Sendero de Honor*
-En algún momento, Notum se convierte en capitán del *[[Sendero de Honor\|Sendero de Honor]]*. A principios de 1174, Notum y su tripulación atracan en [[Celebrant\|Celebrant]]. Tras unos disturbios en la ciudad, el barco se preparar para huir, pero cuando Syl grita al barco, revelando su identidad, Notum los sube a ella y a sus acompañantes a bordo. Inicialmente, Notum confina a los [[Caballeros Radiantes\|Radiantes]] y sus [[Spren\|spren]] en sus camarotes; sin embargo, después de una semana de viaje, los libera a todos excepto a Syl, alegando que es deshonroso retener a personas que no son prisioneros en contra de su voluntad. Mantiene a Syl en cautividad con la intención de entregarla en la capital de los honorspren. Cuando [[Shallan\|Shallan]] es liberada, Notum le da permiso para traer cuentas del aspecto [[Reino Cognitivo\|cognitivo]] a la cubierta y practicar a visualizarlas. Notum le explica brevemente cómo funcionan las cuentas en [[Shadesmar\|Shadesmar]].
+### Captain of *Honor's Path*
+Notum at some point became the captain of *[[Honor's Path\|Honor's Path]]*. In early 1174, Notum and his crew took port in [[Celebrant\|Celebrant]]. After a disturbance in the city, the ship was preparing to flee, but after Syl called out to his ship, revealing her identity, he took her and her companions aboard the ship. Notum initially confined the [[Knights Radiant\|Radiants]] and their [[Spren\|spren]] to their quarters; however, after a week's travel, he released all of them but Syl because he claimed that it was dishonorable to hold people who were not prisoners against their will. He kept Syl in captivity, though, intending to deliver her to the honorspren capital. Upon her release to the deck, Notum gave [[Shallan\|Shallan]] permission to bring the [[Cognitive Realm\|Cognitive]] aspect beads on the deck and practice visualizing them. He briefly explained to her how the beads work in [[Shadesmar\|Shadesmar]].
 
->“*Yo no soy un altospren. Comprendo que la variedad entre los humanos es lo que os confiere fuerza. Vuestra capacidad de cambiar de opinión, de ir en contra de lo que antes pensabais, puede ser una gran ventaja. Pero vuestro vínculo es peligroso, sin Honor. No habrá los suficientes controles sobre vuestro poder. Os arriesgáis a una catástrofe.*”
-\-Pensamientos de Notum sobre el vínculo Nahel.[2]
+>“*I’m no highspren. I can see that the variety of humankind is what gives you strength. Your ability to change your minds, to go against what you once thought, can be a great advantage. But your bond is dangerous, without Honor. There will not be enough checks upon your power—you risk disaster.*”
+\-Notum's thoughts on the Nahel bond[2]
 
-Días después, Notum intenta expulsar a [[Kaladin\|Kaladin]] de la cubierta superior de su barco mientras Kaladin trata nuevamente de convencerle para sacar a Syl de su camarote. Notum amenaza con encerrar a Kaladin de nuevo o incluso arrojarlo por la borda. Le explica a Kaladin que considera inapropiada y peligrosa la relación que tiene con Syl. También le explica que Syl es una de las primeras hijas del Padre Tormenta y la única honorspren superviviente de la Traición, razón por la cuál el Padre Tormenta la protege tanto. Notum también cree que el vínculo Nahel es peligroso sin Honor y que Kaladin y Syl deben separarse. Kaladin intenta nuevamente convencer a Notum para liberar a Syl, y él se aleja permitiendo que Kaladin permanezca en la cubierta. Cuando unos [[Vientospren\|vientospren]] muestran interés en Kaladin, Notum los observa y dice que nunca antes había visto vientospren en persona. Kaladin aprovecha esta oportunidad para pedirle a Notum que les ayude a llegar hasta [[Dalinar Kholin\|Dalinar Kholin]] a tiempo, explicando que ha hecho un juramento para proteger al [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]]. Notum se sorprende al escuchar que Dalinar se ha vinculado al Padre Tormenta y accede a considerar ayudarlos. Poco después, un miembro de la tripulación avista ocho [[Fusionado\|Fusionados]] persiguiendo el barco.
-Tras varias horas intentando escapar de los Fusionados, Notum accede a ayudarles. Libera a Syl y ordena a su tripulación abrir una sección en el casco para que los Radiantes y sus spren puedan escapar a través de ella. [[Vivenna\|Celeste]] le pide que la tripulación corte fardos de tela con una [[Despertar\|forma específica]], y Notum da la orden aunque no entiende la razón. A pesar del peligro que representa para su tripulación, Notum les permite escapar del barco para que Syl pueda evadir a los Fusionados. Cree que su tripulación será capturada y torturada poco después; y, en efecto, pasa cinco meses en prisión antes de ser degradado al rango más bajo posible, exiliado de Integridad Duradera, y asignado a patrullar durante dos siglos las tierras vacías que rodean Integridad Duradera. Vaga por la zona con un pequeño grupo que incluye algunos [[Alcanzador\|alcanzadores]] armados, pudiendo ver Integridad Duradera pero sin poder visitarla.
+Days later, Notum attempted to remove [[Kaladin\|Kaladin]] from the upper deck of his ship while Kaladin again tried to convince him to release Syl from her quarters. Notum threatened to lock Kaladin up again or throw him overboard. He explained to Kaladin that he considered Kaladin's relationship with Syl to be inappropriate and dangerous. He also explained that Syl was one of the Stormfather's first children and was the only honorspren survivor of the Recreance, which was why the Stormfather was so protective of her. Notum also believed that the Nahel bond was dangerous without Honor and that Kaladin and Syl should separate. Kaladin tried again to convince Notum to free Syl, and he walked away but allowed Kaladin to remain on deck. When some [[Windspren\|windspren]] took an interest in Kaladin, Notum watched them and exclaimed that he had never seen windspren in person before. Kaladin used this opportunity to ask Notum to help them reach [[Dalinar Kholin\|Dalinar Kholin]] in time, explaining that he had sworn an oath to protect the [[Bondsmith\|Bondsmith]]. Notum was shocked to hear that Dalinar had bonded the Stormfather and agreed to consider helping them. Shortly afterward, a member of the crew spotted eight [[Fused\|Fused]] in pursuit of the ship.
+After several hours spent trying to outrun the Fused, Notum agreed to help. He freed Syl and had his crew unlatch a section of the hull for the Radiants and their spren to escape through. [[Vivenna\|Azure]] asked him to have his crew cut bales of cloth into [[Awakening\|specific shapes]], and Notum gave the order even though he did not understand the reason. Notum allowed them to escape the ship, despite the danger it posed to his crew, so that Syl could escape the Fused. He believed that his crew would be captured and tortured shortly thereafter; in fact, he spent five months in prison before being demoted to the lowest rank possible, exiled from Lasting Integrity, and assigned two centuries' time patrolling the empty land surrounding Lasting Integrity. He wandered the area with a small group that included a few armed [[Reachers\|Reachers]], able to see Lasting Integrity but unable to visit it.
 
->“*Tu pueblo es un pueblo criminal. El único motivo de que no hubiera un castigo inmediato fue que matasteis a todos los spren que podrían haber actuado en vuestra contra.*”
-\-Notum a Adolin.[3]
+>“*Your people are criminals. The sole reason there was no swift retribution was because you killed every spren who could have acted against you.*”
+\-Notum to Adolin[3]
 
-### Exilio
-Notum y su caravana se encuentran patrullando en [[Innominado\|Innominado]] cuando llega la barcaza de [[Unativi\|Unativi]] con el emisario de la [[Coalici%C3%B3n de monarcas\|coalición]] en 1175. Habla con Unativi mientras [[Adolin\|Adolin]] regresa del pueblo, y luego se encara con Adolin con condescendencia y desagrado. Notum se sorprende cuando Adolin le describe los objetivos diplomáticos de su viaje, pero el spren descarta inmediatamente cualquier posibilidad de éxito y trata de explicar la desesperanza de la misión mediante una situación hipotética que compara a los Radiantes con ladrones. Notum desea sinceramente transmitirle a Adolin que no tienen ninguna posibilidad con los honorspren debido a cómo se sienten acerca de la Traición, pero se enfuerece tanto que se aleja enfadado hacia su caravana. Adolin lo llama, mencionando su barco, así que Notum le relata su castigo. Cuando pregunta si al menos consiguieron salvar a Dalinar, Adolin se ve obligado a admitir que en realidad fue al revés. Notum se marcha con la intención de disuadir nuevamente a Adolin de visitar Integridad Duradera si sus caminos vuelven a cruzarse.
+### Exile
+Notum and his caravan happened to patrol through [[Nameless\|Nameless]] at the same time as the arrival of [[Unativi\|Unativi's]] barge with the [[Coalition of monarchs\|coalition's]] emissary in 1175. He spoke with Unativi as [[Adolin\|Adolin]] was returning from town, then confronted Adolin with condescension and displeasure. Adolin surprised Notum by describing the diplomatic goals of their trip, but the spren immediately dismissed any chance of their success and tried to explain the hopelessness of the mission by illustrating a hypothetical situation that compared the Radiants to thieves. He sincerely wished to convey to Adolin that they had no chance with the honorspren so long as the spren felt as they did about the Recreance, but he got riled up so badly that he stalked away towards his caravan. Adolin called after him, mentioning his ship, so Notum explained to him about his punishment. When he asked whether they had at least been able to save Dalinar, Adolin was forced to admit that really it had been the other way around. Notum left, intending to try again to dissuade Adolin from visiting Lasting Integrity if they met again on the road.
 
-  <<Adolin\|Adolin>> salvando a  de los <<Tukari\|tukari>>
-A medida que Notum y su grupo viajan por el camino hacia Integridad Duradera, el grupo diplomático los sigue a cierta distancia. El grupo diplomático se da cuenta de que hay una caravana de [[Tukari\|Tukari]] siguiéndolos, así que Adolin envía un mensajero a Notum para preguntarle al respecto. A pesar de la preocupación de Adolin, Notum le dice que no hay nada de malo en que los tukari usen el camino. Sin embargo, le pide que le informen si hacen algo amenazante. En cierto momento, Notum no puede continuar más hacia al oeste sin acercarse demasiado a Integridad Duradera, así que monta sobre un espléndido spren blanco y resplandeciente similar a un caballo para decirles a Adolin y Shallan que, en cambio, va a girar hacia el sur. Intenta de nuevo decirles que no vayan a la capital y les da recuerdos para Syl.
-Mientras Notum y su caravana se dirigen hacia el sur, los tukari los persiguen. Cuando los alcanzan, los capturan, y atan a Notum y a tres alcanzadores. Después, comienzan a apuñalar a Notum una y otra vez más rápido de lo que puede sanar. Adolin se da cuenta del plan y acude en su rescate, logrando ahuyentar a los soldados tukari con la ayuda de [[Maya\|Maya]] y [[Galante\|Galante]]. Cuando se despierta, Notum expresa su profunda conmoción acerca de que los humanos ataquen a un spren de esa manera. No quiere ir con el grupo a recibir ayuda en Integridad Duradera, a pesar de la insistencia de Adolin, pero la delegación de Urithiru consigue subirlo a un caballo y lleva al resto de su grupo de regreso a su campamento, donde inmediatamente recogen y parten hacia la capital de los honorspren. Por el camino, Notum le pregunta a Adolin cómo ha entrenado a Maya para que luche a su lado, ya que no puede aceptar que Maya haya saltado a la refriega por voluntad propia. A pesar de los esfuerzos por evitar que los honorspren detecten a Notum, los tres que se acercan al grupo desde la capital lo ven y afirman implacablemente que no solo no es bienvenido, sino que su presencia en el grupo empeora aún más su reputación a sus ojos. Mientras Adolin, Maya, Shallan, y [[Patr%C3%B3n\|Patrón]] entran en la fortaleza, el resto del grupo acampa cerca y se ocupa de Notum.
+  <<Adolin\|Adolin>> saving  from the <<Tukar\|Tukari>>
+As Notum and his group traveled on the road towards Lasting Integrity, the diplomatic group followed behind a little ways. The other group noticed that there was a caravan of [[Tukari\|Tukari]] trailing them, so Adolin sent a messenger forward to Notum to ask about them. Despite Adolin's worry, Notum told Adolin that there was nothing wrong with the Tukari using the road. He did, however, ask to be informed if they did anything threatening. At a certain point, Notum could go no farther west lest he get too close to Lasting Integrity, so he rode over on a magnificent glowing white horse-like [[Spren\|spren]] to tell Adolin and Shallan that he would instead turn to go south. He tried again to tell them not to go to the capital and told them to give his best to Syl.
+As Notum and his caravan turned south, the Tukari group pursued them. When they caught up, they captured and bound Notum and three Reachers, then began stabbing Notum over and over faster than he could heal. Adolin tumbled to their plan and came to his rescue, managing to drive off the Tukari soldiers with [[Maya\|Maya's]] and [[Gallant\|Gallant's]] help. When he awoke, Notum expressed his utter shock that humans would attack a spren in such a manner. He didn't want to go with the group to receive aid at Lasting Integrity, no matter Adolin's urging, but the delegation from Urithiru put him on a horse and took the rest of his group back to their camp, where they immediately packed and left for the honorspren capital. On the way, Notum asked Adolin how he had trained Maya to fight alongside him and simply could not accept that Maya had jumped into the fray of her own volition. Despite their efforts to keep the honorspren from noticing Notum, the three who approached the party from the capital saw him and implacably stated that not only was he not welcome, but his presence in the group further degraded his reputation in their eyes. As Adolin, Maya, Shallan, and [[Pattern\|Pattern]] entered the fortress, the rest of the group made camp nearby and tended to Notum.
 
-### Retorno a Integridad Duradera
->“*Te han ofrecido acabar tu exilio, ¿verdad, Notum? ¿A cambio de una pequeña puñalada trapera?*”
-\-Adolin a Notum.[1]
+### Return to Lasting Integrity
+>“*Offered to end your exile, did they, Notum? In exchange for a little backstabbing?*”
+\-Adolin to Notum[1]
 
-Los honorspren envían [[Luz tormentosa\|luz tormentosa]] al campamento para que Notum pueda ser sanado, tras lo cuál el grupo asume que volverá a patrullar. En realidad, los honorspren se acercan a Notum con una oferta para testificar en contra de Adolin en su juicio, prometiendo poner fin a su exilio y volver a promocionarle a un rango más alto. Lo llaman como su tercer testigo, le devuelven su uniforme, y le proporcionan un discurso preparado que comienza a leer tras negarse a mirar a Adolin a los ojos. Notum se detiene tras un par de frases, dándole a Adolin la oportunidad de admitir en voz baja que los humanos metieron al spren en problemas y alentándole a ser sincero. Tras encontrar la mirada de Adolin finalmente, Notum declara en voz alta que «Honor no está muerto mientras viva en los corazones de los hombres».
-Notum repite las palabras mientras varios oficiales honorspren se acercan corriendo hacia él, arrastrándolo fuera del foro. Mientras se va, sin embargo, parte de la multitud comienza a corear la frase también. Al día siguiente, no se les permite regresar al foro ni a Notum ni a los simpatizantes con su causa, aunque varios de ellos se aglomeran en lo alto del muro para observar.
+The honorspren sent [[Stormlight\|Stormlight]] to the camp so Notum could be healed, after which the party there assumed he returned to patrol. In reality, the honorspren approached Notum with an offer to testify against Adolin at his trial, promising to end his exile and return him to a higher rank. They called him in as their third witness, gave him back his uniform, and provided him with a prepared speech that he began to read after refusing to meet Adolin's eyes. Notum trailed off after a couple of sentences, giving Adolin the opportunity to admit quietly to him that the humans had gotten the spren in trouble and to encourage him to be honest. After finally meeting Adolin's eyes, Notum declared in a carrying voice that "Honor was not dead so long as he lived in the hearts of men."
+Notum repeated the words as several honorspren officials ran at him, dragging him out of the forum. As he left, however, quite a few in the crowd were chanting the phrase as well. Neither Notum nor those sympathetic to his cause were allowed to return to the forum the following day, though several of them crowded the top of the wall to watch.
 
-## Relaciones
+## Relationships
 ### Adolin
->“*Adelante. Te metimos en líos, Notum. Lo justo es que tengas la oportunidad de contar tu versión. No puedo pedirte nada más que sinceridad.*”
-\-Adolin a Notum.[1]
+>“*Go ahead. We got you in trouble, Notum. It's only fair that you get a chance to tell your side. I can’t ask anything of you other than honesty.*”
+\-Adolin to Notum[1]
 
 
-Notum, como [[Honorspren\|honorspren]], tiende a formarse una opinión y no desviarse de ella. Es suficientemente abierto de mente como para darse cuenta de que es una fortaleza de los humanos poder ser convencidos de una verdad diferente, pero no desea esa habilidad para sí mismo. Esto cambia cuando [[Adolin\|Adolin]] acude a su rescate y lo salva de un grupo de [[Tukari\|tukari]]. Notum se enfrenta a la idea de que los hombres todavía son honorables, habiendo desechado esa idea durante toda su vida. Sin embargo, su propio e innato sentido del honor le fuerza a admitir el hecho, especialmente después de que los honorspren lo sobornen para difamar a Adolin y sus acompañantes Radiantes y [[Spren\|spren]]. Esta lucha interna culmina con él defendiendo publicamente a Adolin durante el juicio en [[Integridad Duradera\|Integridad Duradera]].
+Notum, as an [[Honorspren\|honorspren]], tends to form an opinion and then not deviate from it. He is open enough to realize that it is a strength of humans to be able to be convinced of a different truth, but does not claim that ability for himself. This changes when [[Adolin\|Adolin]] rushes to his rescue and saves him from a group of [[Tukari\|Tukari]]. Notum struggles with the idea that men are still honorable, having dismissed the idea his whole life; however, his own innate sense of honor forces him to admit the fact, especially after the honorspren subsequently bribe him to slander Adolin and his Radiant and [[Spren\|spren]] companions. This internal struggle culminates in him publicly defending Adolin during his trial at [[Lasting Integrity\|Lasting Integrity]].
 
 ### Sylphrena
->“*Si no nos vemos después de que te rechacen, dale recuerdos míos a la Antigua Hija. Me… alegro de que no esté atrapada en la fortaleza. No encajaría con ella.*”
-\-Notum a Adolin.[7]
+>“*If I don't see you after you’re turned away, give my best to the Ancient Daughter. It is... well that she is not trapped in the stronghold. It would not suit her.*”
+\-To Adolin[7]
 
 
-[[Syl\|Syl]] tiende a menospreciar a Notum debido a su ferviente obediencia al [[Padre Tormenta\|Padre Tormenta]] durante sus días en Integridad Duradera. Sin embargo, él la tiene en alta estima debido al aprecio que el Padre Tormenta le tiene a ella. Al principio, Notum usa esto como excusa para encerrar a Syl en su barco tras partir de [[Celebrant\|Celebrant]] e incluso llega a plantearse matar a [[Kaladin\|Kaladin]] para que Syl pueda liberarse del [[V%C3%ADnculo Nahel\|vínculo Nahel]] que tiene con él. Sin embargo, en el fondo de su corazón, sabe que no es una acción honorable. Cuando se da cuenta de que los [[Fusionado\|Fusionados]] los siguen de cerca, acepta dejar que Syl y los demás escapen y afronta el castigo por sus acciones. Notum llega incluso a alegrarse por la libertad de Syl a pesar del alto precio que paga por ello. Al final, su aprecio tanto por Syl como por el Padre Tormenta es probablemente un factor que le influye para cambiar de opinión y aliarse con los honorspren que se están vinculando con nuevos Radiantes.
+[[Syl\|Syl]] tends to think less of Notum because of his fervent obedience to the [[Stormfather\|Stormfather]] during his days in Lasting Integrity. He, however, regards her highly because of the Stormfather's regard for her. At first he uses this as his excuse to lock Syl away in his ship after leaving [[Celebrant\|Celebrant]] and even contemplates killing [[Kaladin\|Kaladin]] so Syl can be free of her [[Nahel bond\|Nahel bond]] with him. However, he recognizes in his heart that this is not an honorable action. When he realizes that the [[Fused\|Fused]] are still on their tail, he is willing to let Syl and the others escape and take the punishment for his actions. Notum even finds it within himself to be glad for Syl's freedom despite the heavy price he had paid. In the end, his regard for both Syl and the Stormfather are likely factors that influence him to change his mind and side with the honorspren bonding new Radiants.
 
-## Curiosidades
-El nombre de Notum, al igual que el de varios otros honorspren, deriva de la lingüistica del mundo real relacionada con el viento. Específicamente, su nombre está basado en , el antiguo dios griego del viento del sur.
-en *[[El ritmo de la guerra\|El ritmo de la guerra]]*, Notum afirma que su padre vive en Integridad Duradera como un [[Ojomuerto\|ojomuerto]]; esto es un error, ya que en *[[Juramentada\|Juramentada]]* se dice que Notum y su padre son descendientes de un honorspren que el Padre Tormenta creó después de la Traición. [[Brandon Sanderson\|Brandon]] mezcló temporalmente a Notum con [[Ico\|Ico]], cuyo [[Padre de Ico\|padre]] sí que es un ojomuerto, aunque no vive en la fortaleza. Dragonsteel planea cambiar está línea en el libro.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Truthwatch3r (talk) 18:06, 30 May 2022 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+Notum's name, like that of a number of other honorspren, is derived from real-world linguistics related to the wind. Specifically, he is named for , the Ancient Greek god of the South Wind.
+In *[[Rhythm of War\|Rhythm of War]]*, Notum states that his father lives in Lasting Integrity as a [[Deadeye\|deadeye]]; this is a mistake, as it was already established in *[[Oathbringer\|Oathbringer]]* that Notum and his father are descended from an honorspren which the Stormfather created after the Recreance. [[Brandon Sanderson\|Brandon]] temporarily mixed up Notum with [[Ico\|Ico]], whose [[Ico's father\|father]] is indeed a deadeye, though not living at the fortress. Dragonsteel plans to change this line in the book.
 
 
-
-https://es.coppermind.net/wiki/Notum
+https://coppermind.net/wiki/Notum

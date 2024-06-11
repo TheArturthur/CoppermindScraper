@@ -1,62 +1,59 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Komashi**|
 |-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Astilla\|Astillas]] de [[Virtuosismo\|Virtuosismo]]|
-|**[[Investidura\|Investiduras]]**|[[Hion\|Hion]]|
-|**Sistema**|[[Sistema UTol\|Sistema UTol]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Shard\|Shards]]**|[[Splinter\|Splinters]] of [[Virtuosity\|Virtuosity]]|
+|**[[Investiture\|Investitures]]**|[[Hion\|Hion]]|
+|**System**|[[UTol system\|UTol system]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Komashi** es un planeta del [[Sistema UTol\|sistema UTol]] en el [[Cosmere\|Cosmere]]. La [[Esquirla\|Esquirla]] [[Virtuosismo\|Virtuosismo]] se [[/wiki/Astilla#Formaci.C3.B3n]] a sí misma en los alrededores de Komashi, y toda la región está llena de sus [[Astilla\|Astillas]]. El planeta es el lugar de origen de los [[Haijo\|haijo]] que impulsan la tecnología [[Hion\|hion]], así como de las [[Yoki-haijo\|yoki-haijo]].
+**Komashi** is a planet in the [[UTol system\|UTol system]] in the [[Cosmere\|cosmere]]. The [[Shard\|Shard]] [[Virtuosity\|Virtuosity]] [[/wiki/Splinter#Formation]] herself in the vicinity of Komashi, and the entire region is filled with her [[Splinter\|Splinters]]. The planet is the original home of the [[Hijo\|hijo]] which power [[Hion\|hion]] technology, as well as the [[Yoki-hijo\|yoki-hijo]].
 
-## Sumario
+## Contents
 
-1 Astronomía. [[#Astronom.C3.ADa]] 
-2 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
+1 Astronomy. [[#Astronomy]] 
+2 Geography and Ecology. [[#Geography and Ecology]] 
 
-2. [[#Antes de la m.C3.A1quina]] 
-2. [[#Ecolog.C3.ADa bajo la Mortaja]] 
-2. [[#Ecolog.C3.ADa despu.C3.A9s de la m.C3.A1quina]] 
+2. [[#Before the Machine]] 
+2. [[#Ecology Under the Shroud]] 
+2. [[#Ecology After the Machine]] 
 
 
-3 Historia. [[#Historia]] 
-4 Asentamientos. [[#Asentamientos]] 
+3 History. [[#History]] 
+4 Settlements. [[#Settlements]] 
 
 4. [[#Nagadan]] 
 4. [[#Torio]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Astronomía
-Komashi forma un sistema planetario doble junto con [[UTol\|UTol]] en el [[Sistema UTol\|sistema UTol]], con la pareja orbitando alrededor de un gran sol rojo anaranjado. UTol aparece en el cielo como una estrella de color azul pálido y suave, siendo el único cuerpo celeste cuya luz es capaz de penetrar la [[Mortaja\|mortaja]]. [[Yumi\|Yumi]] considera que la aparición de la "estrella diurna" es un presagio alentador del [[Haijo\|haijo]].
+## Astronomy
+Komashi forms a double planet system along with [[UTol\|UTol]] in the [[UTol system\|UTol system]], and the pair orbit a large red-orange sun. UTol appears in the sky as a pale, soft blue star, and is the only celestial body whose light is able to penetrate the [[Shroud\|shroud]]. [[Yumi\|Yumi]] considers the appearance of the "daystar" to be an encouraging omen from the [[Hijo\|hijo]].
 
-## Geografía y ecología
-El planeta está cubierto por masas de tierra y océanos. El terreno en sí está formado predominantemente por piedra marrón. Diversos cambios a lo largo de la historia de Komashi han provocado importantes alteraciones en la geología y la ecología del planeta.
+## Geography and Ecology
+The planet itself is covered by both land masses and oceans. The land itself is predominantly formed of brown stone. Various changes over Komashi's history have resulted in major alterations to the planet's geology and ecology.
 
-### Antes de la máquina
-Es probable que Komashi fuese predominantemente un páramo antes de la llegada de los haijo, si es que existió tal época. Estos espíritus habitaron en la superficie del planeta, donde calientan el suelo de piedra en algunas áreas, proporcionando energía. El calor no es suficiente para quemar la tela, pero puede quemar la piel si se deja expuesta durante mucho tiempo. Esta energía geotérmica también es la responsable de que el agua subterránea salga a la superficie a través de [[Pozo de vapor\|pozos de vapor]].La vida durante esta fase de la historia de Komashi depende totalmente de los pozos de vapor, con toda la civilización humana ocupando la cuenca donde se pueden encontrar, que no se extiende más de ochenta kilómetros de ancho. El calor del suelo alrededor de los pozos de vapor puede variar un poco, con puntos más cálidos utilizados por las [[Yoki-haijo\|yoki-haijo]], llamados "kimomakkin", y zonas más frías que a veces permiten un «manantial fresco», sobre todo en elevaciones relativamente altas, donde no son necesarios los zuecos. Los manantiales frescos suelen tener el agua hasta la cintura y pueden llegar a medir unos 30 metros.
-Las áreas entre los pozos de vapor, conocidas como piedra ardiente, son conocidas por su intenso calor, tan extremo que las plantas no pueden sobrevivir y los zuecos pueden incendiarse. La temperatura solo desciende ligeramente durante las noches, lo que permite cruzar a los viajeros en vagones suspendidos. En las afueras de esta región se encuentran los páramos fríos, un páramo de tierra y piedra sin calentar a mayor altura, estando inexplorado más allá. Los páramos fríos están escasamente poblados por nómadas.
-La flora y la fauna de Komashi están adaptadas a su extraño entorno. La vida vegetal suele flotar por diversos medios para evitar el suelo caliente. En particular, lo hacen por medios mágicos que reducen su peso y el de todo lo que se encuentre cerca de su centro. Muchos tienen hojas anchas que captan las corrientes térmicas del suelo para impulsarse en el aire. Algunas plantas también disponen de medios adicionales para mantenerse por encima de la superficie, como las bolsas de gas de las plantas [[Mingo\|mingo]], que pueden expulsar aire para propulsarse. Estas plantas tienen raíces que absorben nutrientes y humedad del aire. Existe un ecosistema completo flotando en capas en el aire por encima de los pozos de vapor, hasta treinta metros o más, donde la humedad se acumula y el aire permanece muy húmedo. A veces, las plantas se acercan más al suelo, sobre todo por las noches, cuando la superficie se enfría un poco. Algunas plantas crecen en la superficie, en las zonas más frías, como el bambú, que se encuentra en los manantiales frescos o en los páramos. En general, la vida vegetal incluye todo lo que uno podría esperar encontrar en cualquier otro lugar del Cosmere: grandes árboles, flores vibrantes y arbustos.
-Muchos animales habitan en la flora para mantenerse por encima del suelo. Muchos son nocturnos: duermen en las plantas durante el día, cuando la superficie está caliente. Algunas formas de lagartos son capaces de saltar y deslizarse entre las plantas. La vida animal en Komashi parece estar dominada por criaturas más pequeñas, incluidos mamíferos como ratones, lagartos y serpientes. También hay muchas formas de pájaros, incluidos cuervos gigantes que pueden crecer hasta alcanzar el tamaño de un niño humano.
+### Before the Machine
+It is likely that Komashi was predominantly a wasteland prior to the arrival of the hijo--if such a time existed. These spirits came to dwell within the surface of the planet, where they warm the stone ground in some areas, providing energy. The heat isn't hot enough to burn cloth, but can burn skin if left touching for long enough. This geothermal energy is also responsible for bringing subterranean water to the surface through [[Steamwell\|steamwells]]. Life during this phase of Komashi's history is entirely dependent on the steamwells, with all of human civilization occupying the basin where they can be found, which stretches no more than fifty miles across. The ground heat around steamwells can vary somewhat, with warmer spots used by the [[Yoki-hijo\|yoki-hijo]], called "kimomakkin", and cooler areas sometimes allowing for a "cold spring", especially at relatively higher elevations, where clogs are not necessary. The cold springs generally contain waist-deep water and may be a dozen or more feet across.
+The areas between steamwells, called the searing barrens, is known to be so hot that plants cannot survive and clogs can catch fire. The temperature drops only slightly during nights, allowing for travelers on hovering wagons to cross it. On the outskirts of this region lies the cold wastes, a wasteland of soil and unheated stone at higher elevation, and beyond that is unexplored. The cold wastes are very sparsely populated by nomads.
+The flora and fauna of Komashi are adapted to their strange environment. Plant life is generally able to float by various means, to avoid the hot ground. Most notably, they do this by some magical means which reduces their weight, and the weight of anything near their center. Many have broad leaves which catch thermals from the ground for a boost into the air. Some plants also have additional means to stay above the surface, such as the gas pockets on the [[Mingo\|mingo]] plants which can expel air for propulsion. These plants have roots that absorb nutrients and moisture from the air. A complete ecosystem exists floating in layers in the air above steamwells, up to one hundred feet or more, where moisture collects and the air stays very humid. Plants sometimes dive closer to the ground, especially during the evenings as the surface cools somewhat. Some few plants can be found actually growing on the surface, in cooler areas, such as bamboo that can be found around cold springs or in the cold wastes. In general, the plant life includes everything one might expect to find elsewhere in the cosmere: large trees, vibrant flowers, and bushes.
+Many animals dwell in the plant life to stay above the ground. Many are nocturnal--sleeping in plants during the daytime hours, while the surface is hot. Some forms of lizards are able to jump and glide between plants. Animal life on Komashi seems to be dominated by smaller creatures, including mammals like mice, lizards, and snakes. There are also many forms of birds, including giant crows that can grow to the size of a human child.
 
-### Ecología bajo la Mortaja
-Tras la activación de la máquina padre, la energía de los espíritus se redirige al hion, lo que disminuye por completo la antigua energía geotérmica que emanaba del suelo. Esto afectó al ciclo del agua en el planeta, dando lugar a precipitaciones regulares no ligadas a lugares específicos. La vida vegetal se vio obligada a adaptarse rápidamente cuando la [[Mortaja\|mortaja]] llegó a cubrir el planeta, bloqueando finalmente toda la luz solar. Afortunadamente, el hion demostró ser una alternativa aceptable, permitiendo que las plantas creciesen y fuesen cultivadas en las proximidades de las líneas de hion. Más allá, las plantas llegaron a asentarse en el suelo y a perder la extraña naturaleza que les permitía flotar.
-La mortaja duró unos mil setecientos años.
+### Ecology Under the Shroud
+Following the activation of the father machine the energy of the spirits is redirected to hion, which completely diminishes the former geothermal energy emanating from the ground. This affected the water cycle on the planet, resulting in regular rainfall not bound to specific locations. Plant life was forced to adapt rapidly as the [[Shroud\|shroud]] came to cover the planet--eventually blocking all sunlight. Fortunately, hion proved to be an acceptable alternative, allowing for plants to grow and be cultivated in the vicinity of hion lines. Beyond this, the plants came to settle on the ground and lose the strange nature allowing them to float.
+The shroud lasted for roughly seventeen hundred years.
 
-### Ecología después de la máquina
-Al final, con la súbita evaporación de la mortaja, estas dos ecologías distintas del pasado de Komashi se funden en un equilibrio entre ambas. Con los haijo suministrando energía a las líneas de hion, la superficie de Komashi no vuelve a las temperaturas extremas de antaño. Las semillas conservadas en [[Ciudad Torio\|Ciudad Torio]] de plantas antiguas son capaces de plantarse y crecer bajo la ahora visible luz del sol, mientras que las plantas adaptadas a las líneas hion siguen dependiendo de esa [[Investidura\|Investidura]].
+### Ecology After the Machine
+Ultimately, with the shroud suddenly evaporated, these two distinct ecologies of Komashi's past are merged into a compromise of the two. With hijo continuing to supply the hion lines with power, the surface of Komashi doesn't return to the extreme temperatures it once did. Seeds preserved in [[Torio City\|Torio City]] of ancient plants are able to be planted and to grow under the light of the now-visible sun, while plants adapted to the hion lines continue to rely on that [[Investiture\|Investiture]].
 
-## Historia
-En algún momento del pasado lejano, la Esquirla Virtuosidad se astilló en las proximidades de Komashi. No está claro si los haijo existían antes o si fue creado por ello. La primera sociedad humana de Komashi fue el reino de Torio, que se asentó alrededor de los pozos de vapor. Estos pueblos confiaban en las [[Yoki-haijo\|yoki-haijo]] para unir los haijo, los espíritus, en herramientas útiles necesarias para vivir y cultivar en su duro entorno. A medida que la sociedad de Torio se desarrollaba, los eruditos crearon la máquina, un dispositivo [[Despertar\|Despertado]] destinado a utilizar a los haijo para producir líneas hion. Cuando se activó, la máquina consumió las almas de los habitantes de Torio, dejando con vida sólo a los nómadas que vivían en las afueras del reino.
-El resultado de las acciones iniciales de la máquina creó la mortaja: un miasma negro formado por las almas humanas de las que se alimentaba. La mortaja se extendió desde la máquina, bajando del cielo, y acabó cubriendo todo el planeta. Al mismo tiempo, a medida que la máquina procedía a utilizar a los haijo, empezaron a surgir líneas de hion del suelo en las proximidades de las antiguas aldeas de Torio. La mortaja se extendió a lo largo de varias décadas, dando lugar a las [[Pesadilla\|pesadillas]] que amenazaban a los supervivientes hasta que estos se reasentaron alrededor de las nuevas líneas de hion. Con el tiempo, los humanos se asentaron y aprendieron a defenderse de las pesadillas utilizando [[Pintor\|pintores]]. Se ampliaron las líneas entre los asentamientos para facilitar los desplazamientos entre ciudades. Con el tiempo se desarrollaron varias naciones, entre ellas [[Nagadan\|Nagadan]], la mayor y más desarrollada, así como una docena de otras naciones más pequeñas que se encontraban más allá y que con frecuencia entraban en conflicto entre sí. Se perdió el conocimiento del pasado y las actividades de la máquina se mantuvieron en secreto durante este periodo. Mantuvo secuestradas las almas de las yoki-haijo en prisiones dentro de la mortaja, rodeadas de sólidos muros. La única interacción clara entre estas sociedades humanas y la máquina fue el "[[Incidente\|Incidente]]", en el que la máquina envió pesadillas para atacar y destruir [[Futinoro\|Futinoro]] después de que los espíritus entraran en contacto con la gente de allí.
-Esto duró hasta que un espíritu fue capaz de [[Conexi%C3%B3n\|Conectar]] a [[Yumi\|Yumi]] y [[Nikaro\|Nikaro]]. Así la yoki-haijo pudo liberar a los espíritus, destruyendo la máquina. Este acontecimiento provocó la disipación de la mortaja y el fin de las pesadillas. A pesar de los grandes cambios ecológicos que esto provocó, la sociedad humana persistió y se adaptó, sobre todo con la ayuda de las semillas de antiguas plantas que se conservan en la ciudad de Torio.
+## History
+At some point in the distant past, the Shard Virtuosity Splintered herself in the vicinity of Komashi. It is unclear whether the hijo existed prior to this or whether they were created by it. The earliest human society on Komashi was the kingdom of Torio, which settled around the steamwells. These people relied on the [[Yoki-hijo\|yoki-hijo]] to bind the hijo, the spirits, into useful tools required to live and cultivate crops in their harsh environment. As the Torish society developed, scholars created the machine--an [[Awakening\|Awakened]] device intended to utilize the hijo to produce hion lines. When activated, the machine consumed the souls of the people of Torio, leaving alive only the nomads living on the outskirts of the kingdom.
+The outcome of the machine's initial actions created the shroud--a black miasma formed from the human souls that it fed upon. The shroud spread out from the machine, coming down from the sky, and eventually blanketed the entire planet. At the same time, as the machine moved on to utilizing the hijo, hion lines began to emerge from the ground in the vicinity of former Torish villages. The shroud spread over the course of several decades, giving birth to the [[Nightmare\|nightmares]] that threatened survivors until survivors resettled around the new hion lines. Eventually humans settled and learned to defend themselves from the nightmares using [[Painter\|painters]]. Lines were extended between settlements to allow for easier travel between cities. Over time several nations developed, including [[Nagadan\|Nagadan]]--the largest and most developed--as well as a dozen other smaller nations beyond it that were frequently in conflict with one another. Knowledge of the past was lost, and the machine's activities were kept secret during this period. It held the souls of the yoki-hijo hostage in prisons within the shroud, surrounded by solid walls. The only clear interaction between these human societies and the machine was the "[[Incident\|Incident]]", in which the machine sent nightmares to attack and destroy [[Futinoro\|Futinoro]] after spirits made contact with people there.
+This lasted until a spirit was able to [[Connection\|Connect]] [[Yumi\|Yumi]] and [[Nikaro\|Nikaro]], and the yoki-hijo was able to free the spirits, destroying the machine. This event resulted in the dissipation of the shroud and the end of the nightmares. In spite of the major ecological changes this caused, human society persisted and adapted, particularly with the help of seeds of former plants found preserved in Torio City.
 
-## Asentamientos
-Antes de la activación de la máquina padre, la humanidad se concentraba en torno a los pozos de vapor del reino de Torio. Sin embargo, tras la formación de la mortaja, los pocos nómadas supervivientes emigraron hacia el exterior y formaron varias ciudades y naciones en torno a los cabos de hion. The largest and most significant of these nations was [[Nagadan\|Nagadan]], though twelve other nations exist. These other nations were smaller than Nagadan, and tended to fight amongst themselves.
-La humanidad ha habitado muy poco del planeta. Torio y Nagadan, las dos naciones más grandes de la historia conocida, solo tienen unos ochenta kilómetros rosharianos de diámetro. Esta pequeña área es el resultado de varios factores: durante la era pre-máquina, la humanidad se vio obligada a permanecer alrededor de los pozos de vapor; post-máquina, se mantuvieron alrededor de los cabos de hion y la expansión fue desalentada por la mortaja.
+## Settlements
+Before the activation of the father machine, humanity was focused around steamwells in the kingdom of Torio. However, after the formation of the Shroud, the few surviving nomads migrated outwards and formed several cities and nations around hion stubs. The largest and most significant of these nations was [[Nagadan\|Nagadan]], though twelve other nations exist. These other nations were smaller than Nagadan, and tended to fight amongst themselves.
+Humanity has inhabited very little of the planet, with Torio and Nagadan, the two largest nations in known history, only being around fifty Rosharan miles across. This small area is a result of several factors: during the pre-machine era, humanity was forced to stay around steamwells; post-machine, they were kept around hion stubs and expansion was discouraged by the shroud.
 
 ### Nagadan
 [[Kilahito\|Kilahito]]
@@ -64,26 +61,9 @@ La humanidad ha habitado muy poco del planeta. Torio y Nagadan, las dos naciones
 [[Fuhima\|Fuhima]]
 [[Jito\|Jito]]
 ### Torio
-[[Ciudad Torio\|Ciudad Torio]]
-[[Pueblo de Gongsha\|Pueblo de Gongsha]]
+[[Torio City\|Torio City]]
+[[Gongsha Town\|Gongsha Town]]
 [[Ihosen\|Ihosen]]
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (****)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
-
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] ·  · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
 
 
-
-https://es.coppermind.net/wiki/Komashi
+https://coppermind.net/wiki/Komashi

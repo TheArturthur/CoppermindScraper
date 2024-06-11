@@ -1,37 +1,16 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Lancer**|
 |-|-|
-|**Tipo**|Grancaparazón|
-|**Racional**|Sí|
-|**Nativo de**|[[Aimia\|Aimia]]|
-|**Mundo de origen**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Greatshell|
+|**Sapient**|Yes|
+|**Native to**|[[Aimia\|Aimia]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **lanceryn** (singular: lancer) son un tipo de [[Grancaparaz%C3%B3n\|grancaparazón]] nativo de [[Aimia\|Aimia]].
-Los lanceryn eran originalmente los **Antiguos Guardianes** o **Guardianes de los Antiguos Pecados**, encargados de la custodia de la [[Esquirla del Amanecer\|Esquirla del Amanecer]] bajo [[Akinah\|Akinah]]. Como todos los grancaparazones, los lanceryn eran enormes. Es probable que pudieran volar y se vincularan a [[Mandra\|mandras]]. Al igual que el larkin moderno, tenían la capacidad de alimentarse de [[Investidura\|Investidura]]. Al caer su especie, los [[Insomne\|Insomnes]] asumieron su papel de protección de la Esquirla del Amanecer. Algunos horlinos se habían reproducido con lanceryn antes de su caída, transmitiendo así la capacidad de alimentarse de Investidura, aunque de forma limitada.
-Se cree comúnmente que los lanceryn murieron durante [[La destrucci%C3%B3n de Aimia\|la destrucción de Aimia]], para consternación de los que habían cosechado sus [[Gema coraz%C3%B3n\|gemas corazón]]. Eran la última criatura conocida que producía gemas corazón de gran tamaño antes del descubrimiento de los [[Abismoide\|abismoides]] en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Sin embargo, parece que los lanceryn perviven de algún modo en [[Larkin\|larkin]]. El [[Insomne\|Insomne]] [[Nikliasorm\|Nikliasorm]] cree que [[Chiri-Chiri\|Chiri-Chiri]], una larkin, es una Antigua Guardiana por derecho propio. También dice que los lanceryn ahora se llaman larkin. Son "más o menos de la misma especie". Aunque existe cierta relación entre ambos, todavía no está claro cuál es exactamente.
-En las cavernas submarinas de Aimia, hay una sala que contiene seis cráneos de grancaparazones, presumiblemente pertenecientes a lanceryn. Parecen volverse para mirar a [[Rysn\|Rysn]] mientras ella está en una caverna cercana.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+The **lanceryn** (singular: lancer) are a type of [[Greatshell\|greatshell]] native to [[Aimia\|Aimia]].
+The lanceryn were originally the **Ancient Guardians** or **Guardians of Ancient Sins**, tasked with the keeping of the [[Dawnshard\|Dawnshard]] underneath [[Akinah\|Akinah]]. Like all greatshells, the lanceryn were enormous. It is likely they could fly and bonded [[Mandra\|mandras]]. They, like the modern larkin, had the ability to feed on [[Investiture\|Investiture]]. At the fall of their species, the [[Sleepless\|Sleepless]] took over their role protecting the Dawnshard. Some hordelings had bred with lanceryn prior to their fall, thus passing on the ability to feed on Investiture, albeit in a limited manner.
+It is commonly believed that the lanceryn died off during the [[Scouring of Aimia\|scouring of Aimia]], to the dismay of those who had harvested their [[Gemheart\|gemhearts]]. They were the last creature known to produce gemhearts of large size prior to the discovery of the [[Chasmfiend\|chasmfiends]] on the [[Shattered Plains\|Shattered Plains]]. However, it appears that the lanceryn live on in some way in [[Larkin\|larkin]]. The [[Sleepless\|Sleepless]] [[Nikliasorm\|Nikliasorm]] believes that [[Chiri-Chiri\|Chiri-Chiri]], a larkin, is an Ancient Guardian in her own right. It also says that lanceryn are now called larkin. They are "kind of the same species." Although there is some relationship between the two, it is unclear as of yet exactly what that relationship is.
+In the undersea caverns of Aimia, there is a room containing six greatshell skulls made of carapace, presumably belonging to lanceryn. They appear to turn to face [[Rysn\|Rysn]] while she is in a nearby cavern.
 
 
 
-https://es.coppermind.net/wiki/Lancer
+https://coppermind.net/wiki/Lancer

@@ -1,131 +1,120 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Susebron**|
 |-|-|
 ||
-|**Familia**|
-|**Cónyuge**|[[Sisirinah\|Sisirinah]]|
-|**Padres**|[[Madre de Susebron\|Madre]]|
-|**Capacidades**|Retornado, [[Despertante\|Despertante]], [[Sombra cognitiva\|Sombra cognitiva]].|
-|**Residencia**|[[T'Telir\|T'Telir]]|
-|**Nacionalidad**|[[De Hallandren\|de Hallandren]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Spouse**|[[Sisirinah\|Sisirinah]]|
+|**Parents**|[[Susebron's mother\|Mother]]|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Titles**|[[God King\|God King]] of [[Hallandren\|Hallandren]], Susebron the Grand, Immortal Majesty, His Excellent Grace|
+|**Residence**|[[T'Telir\|T'Telir]]|
+|**Nationality**|[[Hallandren\|Hallandren]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Cuando los demás miran a las personas, una puede parecerles a veces más hermosa que otra. Para mí no es así. Yo solo veo el color. Los ricos y maravillosos colores que componen todas las cosas y les dan vida.*”
-\-Susebron a Siri[1]
-
-
-**Susebron**, también conocido como **Susebron V**, es el rey-dios de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]] unos 300 años después de la Multiguerra. Es un [[Retornado\|Retornado]] y sus súbditos le dan dos o más [[Aliento\|alientos]] cada semana para mantenerlo con vida. Es el quinto rey-dios en los trescientos años transcurridos desde la Multiguerra.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Infancia y primeros a.C3.B1os de vida]] 
-3. [[#Matrimonio con Siri]] 
-3. [[#La rebeli.C3.B3n Pahn Kahl]] 
+>“*When others look at something—a person—one may sometimes seem more beautiful than another. This is not so for me. I see only the colors. The rich, wondrous colors that make up all things and give them life.*”
+\-Susebron to Siri[2]
 
 
-4 Relaciones. [[#Relaciones]] 
+**Susebron**, also known as **Susebron the Fifth**, is the God King of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive. He is the fifth God King in the three hundred years since the Manywar.
+
+## Contents
+
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Childhood and Early Life]] 
+3. [[#Marriage to Siri]] 
+3. [[#The Pahn Kahl Rebellion]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Siri]] 
 
 
-5 Desarrollo. [[#Desarrollo]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Development. [[#Development]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance & Personality
  
-Para más imágenes, ver [[Susebron/Galer%C3%ADa\|/Galería]].
->“*Todos esos cuentos son solo historias contadas por gente que vivió antes que nosotros. Lo que dicen sobre la humanidad es cierto. He observado y he visto cómo actúa la gente. Es extraño, para mí, interpretar estas cosas, pues no veo como los hombres normales.*”
-\-Susebron sobre su percepción de la belleza[1]
+For more images, see [[Susebron/Gallery\|/Gallery]].
+>“*All of those stories are just tales told by people who lived lives before ours. What they say about humankind is true. I have watched and seen how people act. It is strange, for me, to interpret these things, for I do not see as normal men do. I am the God King. Everything, to my eyes, has the same beauty.*”
+\-Susebron on his perception of beauty[2]
 
 
-Como Retornado, Susebron aparenta unos veinte años, mucho menos de los cincuenta que tiene. Se le describe con el pelo oscuro, los ojos negros y la piel pálida, aunque más tarde se revela que puede aprender a cambiar de aspecto a voluntad.
-Es ingenuo, ya que ha crecido en una prisión virtual impuesta por sus sacerdotes. Confía mucho en ellos y se niega a creer que puedan desearle el mal (aunque cabe destacar que su fe en ellos resulta estar bien fundada). Su principal fuente de conocimiento sobre moralidad es un libro de cuentos que perteneció a su [[Madre de Susebron\|madre]], cuya moral sigue de memoria. Más tarde, empieza a entender algunas cosas por sí mismo, aunque sigue aferrándose a las reglas del libro, lo que le hace honesto hasta la exageración. Susebron es muy devoto de las personas en las que confía, incluyendo a [[Siri\|Siri]] y los sacerdotes, y se niega a abandonar a ninguno de ellos. Sin embargo, puede ser realista en su evaluación de los demás y es muy consciente de sus propios defectos como gobernante.
-Es muy aficionado a los dulces y justifica comer muchos diciendo que, como Retornado, no puede engordar.
+As a Returned, Susebron looks about twenty, much younger than his fifty years. He is described as having dark hair, black eyes, and pale skin, though it is revealed later that he can learn to change his appearance at will.
+He is naive, having grown up in a virtual prison imposed upon him by his priests. He is highly trusting of them, and refuses to believe that they may wish him harm (though it is worth noting that his faith in them turns out to be well-placed). His main source of knowledge about morality is a book of stories that once belonged to his [[Susebron's mother\|mother]], the morals of which he follows from memory. Later, he begins to figure some things out for himself, though he continues to hold to the book's rules, making him honest to a fault. Susebron is highly devoted to the people he trusts, including [[Siri\|Siri]] and the priests, and refuses to abandon either of them. Nonetheless, he can be realistic in his assessment of others and is keenly aware of his own shortcomings as a ruler.
+He is very fond of sweets and justifies eating a lot of them by saying that as a Returned, he can't gain any weight.
 
-## Atributos y habilidades
-  Usando el <<Despertar\|despertar>>
-Durante la mayor parte de su vida, Susebron fue mudo e incapaz de leer o escribir con el alfabeto común. Sin embargo, entendía la escritura de los artesanos de Hallendren, codificada por colores, que era el único medio de comunicación entre Susebron y sus sacerdotes. Como no le enseñaron a despertar mentalmente, fue incapaz de usar su aliento para hacerlo. Con el tiempo, consigue aprender a leer y escribir con [[Siri\|Siri]], y [[Sondeluz\|Sondeluz]] le devuelve la lengua, adquiriendo inmediatamente la capacidad de hablar.
-Ha sido dotado con el [[Tesoro de Dalapaz\|Tesoro de Dalapaz]], una suma de aproximadamente cincuenta mil alientos. Además, recibe de dos a tres alientos cada semana, lo que hace que su reserva de estos aumente constantemente con el tiempo. Esto le otorga la Décima [[Elevaci%C3%B3n\|Elevación]] y todas las habilidades de las Elevaciones inferiores, entre las que se incluyen:
+## Attributes and Abilities
+  Using <<Awakening\|Awakening>>
+Throughout most of his life, Susebron was mute and unable to read or write using the common alphabet. He did, however, understand the color-coded Hallendren artisan's script, which provided the only means of communication between Susebron and his priests. Because he wasn't taught how to Awaken mentally, he was unable to use his Breath to Awaken. He eventually manages to learn how to read and write from [[Siri\|Siri]], and has his tongue restored by [[Lightsong\|Lightsong]], immediately gaining the ability to speak.
+He has been gifted with [[Peacegiver's Treasure\|Peacegiver's Treasure]], a sum of approximately fifty thousand Breaths. Additionally, he receives two to three Breaths every week which causes his hoard of Breath to grow steadily over time. This grants him the Tenth [[Heightening\|Heightening]] and all the abilities of the Heightenings beneath it, including:
 
-Reconocimiento de aura – le permite conocer el número de alientos que posee una persona–.
-Tono perfecto.
-Perfecto reconocimiento del color – le permite determinar instantáneamente e instintivamente los tonos exactos de color y sus armonías tonales–.
-Perfecto sentido vital – le permite percibir a las personas que le rodean–.
-No envejecimiento – le hace inmune a la mayoría de toxinas y males físicos, convirtiéndole funcionalmente en inmortal.
-Despertar instintivo: le permite conocer los Mandatos necesarios para lo que desea hacer sin aprendérselos de antemano.
-Reconocimiento de aliento investido: le permite reconocer el aura de los objetos y saber cuándo algo ha sido investido con aliento a través de un despertante.
-Ruptura de Mandatos - le permite anular instintivamente Mandatos en otros objetos Investidos, incluyendo los sinvida. Esto requiere concentración y le dejará exhausto.
-Gran despertar: le permite despertar objetos de piedra y acero.
-Mandato audible: le permite despertar objetos que no está tocando físicamente, pero que están al alcance del sonido de su voz.
-Distorsión del color: dondequiera que vaya Susebron, los objetos blancos que se encuentran a su alrededor rompen sus colores como un prisma, creando otros colores. Para demostrarlo, suele vestir de blanco en actos públicos, aunque en privado viste de negro, ya que es un color más poderoso desde el punto de vista del Despertar.
-Invocación perfecta: al despertar, drena el color de los objetos hasta convertirlos en blancos en lugar de grises.
-Mandato mental - esta habilidad, difícil de aprender, le permite emitir Mandatos y despertar mentalmente. Susebron habría podido despertar objetos gracias a esta habilidad antes de que le curaran la lengua, pero nunca le enseñaron a hacerlo.
-Hay rumores de otros poderes otorgados por la Décima Elevación que no son comprendidos o no han sido dados a conocer por los reyes-dioses, que han sido los únicos en conseguirlo.
-El Tesoro de Dalapaz hace a Susebron prácticamente inmortal, e incluso si de repente se quedara sin su suministro semanal, podría vivir más de novecientos años alimentándose sólo de él. Esta cantidad de aliento también podría hacerle inmune a la alomancia emocional. Además, como rey-dios, es capaz de usar su Aliento Divino para curar a varias personas en lugar de sólo a una. No se sabe si esto se debe a que fue un Retornado joven o a algún efecto secundario de poseer el Tesoro de Dalapaz.
-Aunque poco se ha mostrado de las habilidades despertantes de Susebron, él es por naturaleza extremadamente poderoso gracias al gran número de alientos que posee. Poco después de recuperar su lengua, era capaz de controlar cientos de objetos despertados al mismo tiempo.
-Aunque es rey, no se sabe con certeza si tiene dotes políticas, ya que hasta hace muy poco ha sido poco más que una mera representación del sacerdocio.
+Aura Recognition - allows him to assess the number of Breaths a person possesses.
+Perfect Pitch
+Perfect Color Recognition - allows him to instantly and instinctively determine exact shades of colors and their hue harmonics.
+Perfect Life Sense - allows him to sense people around him.
+Agelessness - makes him immune to most toxins and physical ailments, as well as making him functionally immortal.
+Instinctive Awakening - allows him to know commands necessary for what he desires to do without learning them beforehand.
+Invested Breath Recognition - allows him to recognize the auras of objects, and can tell when something has been Invested with Breath via Awakening.
+Command Breaking - allows him to instinctively override Commands in other Invested objects, including Lifeless. This requires concentration and will leave him exhausted.
+Greater Awakening - allows him to Awaken stone and steel objects.
+Audible Command - allows him to Awaken objects that he is not physically touching, but that are within the sound of his voice.
+Color Distortion - Wherever Susebron goes, white objects in his vicinity break up their colors like a prism, creating further colors. To show this off, he's usually dressed in white for public functions, although he wears black in private, as it is a more powerful color from an Awakening standpoint.
+Perfect Invocation - when Awakening he drains objects to white instead of grey.
+Mental Command - this ability, which is difficult to learn, allows him to give Commands and Awaken mentally. Susebron would have been able to Awaken through this ability before having his tongue healed, but was never taught how to do so.
+There are rumors of other powers granted by the Tenth Heightening which are not understood or have not been made known by the God Kings, who have been the only ones to achieve it.
+The Peacegiver's Treasure makes Susebron effectively immortal, and even if he were to suddenly be cut off from his weekly supply, he could still live for over nine hundred years feeding off it. This amount of Breath might also make him immune to emotional [[Allomancy\|Allomancy]]. In addition, as the God-King, he's capable of using his divine Breath to heal multiple people instead of just one. Whether this is because he was Returned young or some side-effect of holding Peacegiver's Treasure is uncertain.
+Though little has been shown of Susebron's Awakening abilities, he is naturally extremely powerful by the virtue of the sheer number of Breaths he possesses. Shortly after regaining his tongue, he was capable of controlling hundreds of individual Awakened objects simultaneously.
+Though he is a king, it's uncertain how much in the way of political skill he has, as until very recently, he's been little more than a figurehead of the priesthood.
 
-## Historia
-### Infancia y primeros años de vida
-Susebron fue un niño [[Retornado\|Retornado]] cincuenta años antes de la rebelión Pahn Kahl]]. Nació en el seno de una familia pobre que vivía muy al norte, en Hallandren, hijo de un mercader y su esposa. En el momento de su Retorno, el entonces [[Rey-dios\|rey-dios]] era incapaz de tener un hijo, por lo que el pequeño Susebron recibió el [[Tesoro de Dalapaz\|Tesoro de Dalapaz]] y se convirtió en el nuevo rey-dios después de que su predecesor renunciara a su Aliento Divino para curar una plaga. En algún momento, antes o después de su coronación, le extirparon la lengua para que no pudiera utilizar la gran cantidad de alientos que le habían sido otorgados. [[Madre de Susebron\|Su madre]] lo crió en palacio, aunque con el tiempo "se la llevaron". A lo largo de los años, consiguió conservar un libro de cuentos que ella solía leerle; había oído las historias tantas veces y las había mirado tantas veces que había memorizado cada símbolo, y la moraleja de las historias del libro era en parte el código por el que vivía.
-Durante la mayor parte de su vida, Susebron residió casi siempre solo en el palacio negro de los reyes-dioses en [[T'Telir\|T'Telir]]. A pesar de ser el gobernante oficial de Hallandren, se mantenía alejado de su gente y de otros Retornados, y sólo salía brevemente en ocasiones especiales para ocultar el hecho de que era mudo. Por aquel entonces, no se le había enseñado a [[Despertar\|despertar]] mediante el pensamiento.
+## History
+### Childhood and Early Life
+Susebron was an infant [[Returned\|Returned]] fifty years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. He was born to a poor family living far to the north in Hallandren, to a merchant and his wife. At the time of his Return, the current [[God King\|God King]] was unable to produce a child, and so the infant Susebron was given [[Peacegiver's Treasure\|Peacegiver's Treasure]] and made the new God King after his predecessor gave up his divine Breath to cure a plague. At some point either before or after his crowning, his tongue was removed so that he would be unable to use the wealth of Breaths that had been bestowed on him. [[Susebron's mother\|His mother]] raised him in the palace, though eventually she was "taken away". Through the years he managed to retain a storybook she used to read him; he had heard the stories so many times and looked at it over the years that he had memorized each symbol, and the morals of the stories in the book were in part the code by which he lived.
+Throughout most of his life, Susebron resided mostly alone in the black palace of the God Kings in [[T'Telir\|T'Telir]]. Despite being the official ruler of Hallandren, he was kept away from its people and other Returned, only coming out briefly on special occasions in order to hide the fact that he was mute. At the time, he had not been taught to [[Awakening\|Awaken]] by thought.
 
-### Matrimonio con Siri
-  <<Siri\|Siri>> arrodillada ante Susebron
->“*No creo que se suponga que los reyes-dioses sean «dulces».*”
-\-Susebron mostrando su desconocimiento de términos metafóricos[1]
+### Marriage to Siri
+  <<Siri\|Siri>> kneeling before Susebron
+>“*I don't think God Kings are supposed to be "sweet."*”
+\-Susebron showing his lack of knowledge on metaphorical terms[2]
 
 
-Para evitar una guerra entre [[Idris\|Idris]] y Hallandren, se prometió a Susebron la mano de la hija del rey [[Dedelin\|Dedelin]], [[Vivenna\|Vivenna]]. En el último momento, sin embargo, fue cambiada por su hermana, [[Sisirinah\|Sisirinah]], y Susebron acabó casándose con esta. Durante mucho tiempo, Susebron y Siri sólo se veían por la noche, ya que los sacerdotes querían que tuvieran un hijo, pero ninguno de los dos actuaba, ya que Siri esperaba el primer movimiento de Susebron mientras que Susebron no tenía ni idea de lo que se esperaba de él. Al principio, no entendía a Siri, no sabía por qué pasaba las noches esperando desnuda en su piso. Después de casi una semana de esta rutina, Siri se le acercó y le recriminó que no hubiera hecho otra cosa que mirar durante toda la semana anterior. Cuando Susebron se acerca, se revela que no tiene lengua. Siri, para convencer a sus sacerdotes de que estaban intentando tener un bebé, empezó a gemir y a botar en la cama todos los días, imitando cómo creía que sonaba una relación sexual. Después de que ella comenzara a realizar su rutina de gemidos y gritos para los sacerdotes, él se acercó a ella con un libro, con la esperanza de iniciar alguna comunicación.
-Siri enseñó a Susebron a leer y escribir utilizando el libro de cuentos de su madre, y empezaron a conversar, él escribiendo en una pizarra y ella hablando. Mientras ambos planeaban cómo revelar a los demás dioses que no tenía lengua, empezaron a enamorarse. Pasaba largas horas con ella, aprendiendo cosas como el sarcasmo y la burla, sobre lugares como Idris, y sobre la vida de Siri mientras crecía. Durante una de estas conversaciones, Susebron expresó su interés por conocer a [[Austre\|Austre]]. Con el tiempo, él y Siri consumaron su matrimonio.
+To forestall a war between [[Idris\|Idris]] and Hallandren, Susebron was promised the hand of king [[Dedelin\|Dedelin's]] daughter, [[Vivenna\|Vivenna]]. At the last moment, however, she was swapped for her sister, [[Sisirinah\|Sisirinah]], and Susebron ended up marrying Siri. For a long time, Susebron and Siri met only at night, as the priests wanted them to make a child, but neither acted, as Siri was awaiting Susebron's first move while Susebron had no idea what was expected of him. Initially, he did not understand Siri, uncertain as to why she spent her nights waiting, naked, on his floor. After a nearly a week of this routine, Siri approached him and berated him for doing nothing but watch throughout all the previous week. When Susebron approaches, it is revealed that he has no tongue. Siri, to convince his priests that they were trying for a baby, began moaning and bouncing on the bed every day, mimicking what she thought sex sounded like. After she began to perform her moaning and screaming routine for the priests, he approached her with a book, hoping to start some communication.
+Siri taught Susebron to read and write using his mother's storybook, and they started to converse, him writing on a board, and her speaking. As he and Siri planned how to reveal to the other gods that he had no tongue, the two began to fall in love. He would spend long hours with her, learning about things like sarcasm and mockery, about places such as Idris, and about Siri's life growing up. During one of these conversations, Susebron expressed an interest in meeting [[Austre\|Austre]]. Eventually, he and Siri consummated their marriage.
 
-### La rebelión Pahn Kahl
-Para más información, ver [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].
-Después de que Siri le convenciera, Susebron decidió revelar finalmente su verdadera función en la corte a los otros dioses, con el plan de huir con Siri y [[Dedos Azules\|Dedos Azules]] en caso de fracasar. Sin embargo, antes de que ninguna de las dos cosas pudiera ocurrir, Siri fue raptada por los sacerdotes bajo el pretexto de su embarazo obligándola a permanecer recluida. Casi inmediatamente después, los [[Pahn Kahl\|pahn kahl]] atacaron la [[Corte de los Dioses\|Corte de los Dioses]], y encarcelaron tanto a Siri como a Susebron.
-Éste se encontró en una celda junto a [[Sondeluz\|Sondeluz]], que sacrificó su propio [[Aliento biocrom%C3%A1tico\|Aliento Divino]] para curarlo, devolviéndole la lengua. Ahora que podía hablar, y armado con suficientes alientos que le permitieron despertar instintivamente, Susebron liberó su palacio de los invasores pahn kahl y salvó a Siri.
-Poco después de sofocar la rebelión, Susebrón fue abordado por [[Vasher\|Vasher]], quien le dio el Mandato de los [[Fantasmas de Kalad\|Fantasmas de Kalad]] esparcidos por la ciudad. Lo utilizó para enviar a las estatuas tras el ejército [[Sinvida\|sinvida]], que se abalanzaba sobre Idris. Él mismo permaneció en T'Telir junto con Siri, ahora con mucha más influencia en la política de Hallandren.
+### The Pahn Kahl Rebellion
+For more information, see [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+After much convincing from Siri, Susebron decided to finally reveal his true function in the court to the other gods, with the plan for failure being to flee with Siri and [[Bluefingers\|Bluefingers]]. However, before either could happen, Siri was taken away by the priests under the guise of her pregnancy forcing her to stay in seclusion. Almost immediately afterwards, the [[Pahn Kahl\|Pahn Kahl]] attacked the [[Court of Gods\|Court of Gods]], and imprisoned both Siri and Susebron.
+The latter found himself in a cell next to [[Lightsong\|Lightsong]], who sacrificed his own divine [[BioChromatic Breath\|Breath]] to heal him, restoring his tongue. Now able to speak, and armed with enough Breaths to let him instinctively Awaken, Susebron freed his palace from the Pahn Kahl invaders and saved Siri.
+Soon after the rebellion was quenched, Susebron was approached by [[Vasher\|Vasher]], who gave him the command to the [[Kalad's Phantoms\|Kalad's Phantoms]] strewn about the city. He used it to send the statues after the [[Lifeless\|Lifeless]] army, which was bearing down on Idris. He himself remained in T'Telir along with Siri, now with far more influence on Hallandren politics.
 
-## Relaciones
-  Con <<Siri\|Siri>>
+## Relationships
+  With <<Siri\|Siri>>
 ### Siri
->“*No hay nada tan maravilloso como tú, ni siquiera en mi propia corte. Las montañas deben de ser realmente especiales, para producir tanta belleza.*”
-\-Susebron a Siri[1]
+>“*There is nothing so wonderful as you, even in my entire court. The mountains must be special indeed, to produce such beauty.*”
+\-Susebron to Siri[2]
 
 
-Siri y Susebron están casados. Aunque el propósito de su matrimonio es consolidar alianzas políticas y cumplir el acuerdo entre [[Hallandren\|Hallandren]] e [[Idris\|Idris]] establecido dos décadas antes, llegan a amarse profundamente. En un principio, Siri no estaba destinada a ser la esposa de Susebron a través del acuerdo; en su lugar, su hermana mayor [[Vivenna\|Vivenna]] fue preparada toda su vida para casarse con el rey-dios. Sin embargo, cuando Vivenna cumple veintidós años y llega el momento en que debe viajar a Hallandren para casarse con Susebron, su padre, el rey [[Dedelin\|Dedelin]], decide enviar a Siri en su lugar. A pesar del terror inicial de Siri ante la perspectiva de su matrimonio con Susebron, ambos entablan una amistad que rápidamente se convierte en amor.
+Siri and Susebron are married. Though the purpose of their marriage is to solidify political alliances and to fulfill the agreement between [[Hallandren\|Hallandren]] and [[Idris\|Idris]] set up two decades previously, they come to love each other deeply. Siri is not initially meant to be Susebron's wife through the agreement; instead, her older sister [[Vivenna\|Vivenna]] is groomed her whole life to marry the God King. However, when Vivenna turns twenty-two and the time comes that she must travel to Hallandren to wed Susebron, her father, King [[Dedelin\|Dedelin]], decides to send Siri in her place. Despite Siri's initial terror at the prospect her marriage to Susebron, the two strike up a friendship which turns quickly to love.
 
-## Desarrollo
-> [!info] ¡Esta página o sección contiene detalles del trabajo (sin publicar) *[[Mythwalker\|Mythwalker]]*!Esta información puede destripar algunos elementos de la trama de cualquier libro publicado. También debe considerarse como no canon y que puede cambiar por completo en el futuro
+## Development
+> [!info] This page or section contains details from the unpublished work *[[Mythwalker\|Mythwalker]]*!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
 
-[[Siri\|Siri]], [[Vivenna\|Vivenna]] y Susebron se desarrollaron juntos. Originalmente, todos ellos eran personajes de *[[Mythwalker\|Mythwalker]]*, la novena novela inédita de Brandon. Susebron no tenía nombre en Mythwalker, sólo se llamaba Emperador, pero también iba a casarse con Vivenna (Vvenna en *Mythwalker*) antes de hacerlo con Siri.
-El Emperador en Mythwalker conserva el mismo estatus divino que Susebron, pero los detalles son ligeramente diferentes: es significativamente más joven, ha sido coronado a la edad de diez años en lugar de poco después de su nacimiento, y viste de negro en lugar de blanco en la corte. Tampoco es un [[Retornado\|Retornado]], ya que el [[Despertar\|despertar]] aún no existía en su forma actual.
-Aunque el Emperador está presente en la boda de Siri con él (a diferencia de Susebron), sus primeros encuentros con ella son muy parecidos a los de *[[El aliento de los dioses\|El aliento de los dioses]]*. Sin embargo, como la Siri de Mythwalker posee poderes que le permitirían hacer crecer de nuevo su lengua, la trama requiere que ambos permanezcan en ese estado inicial de incomunicación durante mucho más tiempo que ahora.
-Aunque Brandon nunca terminó *Mythwalker*, la incipiente relación entre Siri y el Emperador era una de sus partes favoritas de la historia, y por eso la retomó en *El aliento de los dioses*. Aunque su trama se reescribió de forma significativa para mejorar el ritmo, la personalidad del Emperador no cambió cuando se convirtió en Susebron.
+[[Siri\|Siri]], [[Vivenna\|Vivenna]] and Susebron were developed together. Originally, they were all characters from *[[Mythwalker\|Mythwalker]]*, Brandon's ninth, unpublished novel. Susebron was unnamed in Mythwalker, going only by the name of the Emperor, but was likewise going to marry Vivenna (Vvenna in *Mythwalker*) before marrying Siri instead.
+The Emperor in Mythwalker retains the same divine status Susebron has, but the details are slightly different: he's significantly younger, has been crowned at the age of ten rather than shortly after his birth, and wears black rather than white in court. He's also not a [[Returned\|Returned]], as [[Awakening\|Awakening]] did not yet exist in its current form.
+Though the Emperor is present for Siri's marriage to him (in contrast to Susebron), his early meetings with her go much the same as they do in *[[Warbreaker\|Warbreaker]]*. However, as the Siri in Mythwalker possesses powers that would allow her to regrow his tongue, the plot requires the two to remain in that initial state of non-communication for far longer than they do now.
+Though Brandon never finished *Mythwalker*, the budding relationship between Siri and the Emperor was one of his favorite parts of the story, which is why he revisited it in *Warbreaker*. Though their plot was re-written significantly to improve the pacing, the Emperor's personality did not change when he became Susebron.
 
-## Curiosidades
-Varias personas enviaron un correo electrónico a Brandon diciendo que, al carecer de lengua, Susebron no debería tener el sentido del gusto. Sin embargo, se trata de una idea errónea nacida de una leyenda urbana muy extendida según la cual las papilas gustativas están segregadas por sabores en la lengua de una persona, mientras que en realidad, el paladar también las tiene.
-Aunque Susebron cree haber ocultado su libro de relatos a los sacerdotes, éstos son conscientes de ello, aunque deciden dejar que lo conserve como recuerdo.
-Según Brandon, puede que Susebron no sea un buen rey-dios, pero sin duda será uno honrado. Es posible que [[Llarimar\|Llarimar]] se convierta en su sumo sacerdote.
-Aunque Susebron podría aparecer en [[Nightblood (libro)\|la secuela de El aliento de los dioses]] no será el centro de la historia.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] ·  · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+## Trivia
+Several people emailed Brandon saying that lacking a tongue, Susebron shouldn't have the sense of taste. However, this is a misconception born out of a common urban legend that the taste buds are segregated by taste on a person's tongue, while in reality, the roof of the mouth also has them.
+Though Susebron believes that he has hidden his book of stories from the priests, they are aware of it, though they decided to let him keep it as a memento.
+According to Brandon, Susebron might not make a good God-King, but he will certainly make an earnest one. It's possible that [[Llarimar\|Llarimar]] will become his high priest.
+Though Susebron might appear in *[[Nightblood (book)\|Nightblood]]*, he will not be the focus of the story.
 
 
-
-https://es.coppermind.net/wiki/Susebron
+https://coppermind.net/wiki/Susebron

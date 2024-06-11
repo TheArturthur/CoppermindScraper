@@ -1,21 +1,21 @@
 |**Megan Tarash**|
 |-|-|
 ||
-|**Nacido en**|~19 years before *[[Steelheart\|Steelheart]]*|
-|**Capacidades**|[[%C3%89pico\|Épico]]|
-|**Apodos**|Firefight|
-|**Grupo**|[[Reckoners\|Reckoners]]🐱︎|
-|**Lugar de nacimiento**|[[Portland\|Portland]]|
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Steelheart\|Steelheart]]*|
+|**Born**|~19 years before *[[Steelheart\|Steelheart]]*|
+|**Abilities**|[[Epic\|Epic]]|
+|**Aliases**|Firefight|
+|**Groups**|[[Reckoners\|Reckoners]]|
+|**Birthplace**|[[Portland\|Portland]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Steelheart\|Steelheart]]*|
 
 >“*Sometimes stupid is right. Hell. I hope nobody ever quotes me on that one.*”
 \-Megan before battling Prof.[2]
 
 
-**Megan Tarash**, also known as the  **Firefight**, is a member of 's inner circle. She infiltrated the [[Reckoners\|Reckoners]], a group that kills Epics, but later rejoined the group after [[Jonathan Phaedrus\|Jonathan Phaedrus]] was corrupted by his powers.
+**Megan Tarash**, also known as the [[Epic\|Epic]] **Firefight**, is a member of [[Steelheart (Epic)\|Steelheart's]] inner circle. She infiltrated the [[Reckoners\|Reckoners]], a group that kills Epics, but later rejoined the group after [[Jonathan Phaedrus\|Jonathan Phaedrus]] was corrupted by his powers.
 
-## Sumario
+## Contents
 
 1 Attributes and Abilities. [[#Attributes and Abilities]] 
 
@@ -51,17 +51,17 @@
 
 
 ## Attributes and Abilities
-Para images of Megan, ver .
+For images of Megan, see [[Megan Tarash/Gallery\|/Gallery]].
   Portrait of Megan's dimensional double, Firefight
 She is an extremely accurate shooter, which helped with the fact that she has no offensive epic powers.
 
 ### Epic Abilities
 #### Essokinesis
-Megan's power was originally assumed to be the ability to create illusions, but in fact, her power "pulls" items from another reality into this reality. This caused the illusions she creates to be extremely realistic, nearly impossible to distinguish using any detecting method. Also, since the ability tends to pull things from a "nearby" parallel universe (among the ), a tricky fact is that the illusions she creates are actually possibilities. This can be used to somewhat predict the future; if something is going to happen, it is possible that it will happen the same way as Megan's illusions.
-When Megan stretches her ability or within a very short time after her reincarnation, she can be powerful enough to make her illusions become real, creating actual effects and bordering on omnipotence. However, stretching her ability makes her prone to the corruption of .
+Megan's power was originally assumed to be the ability to create illusions, but in fact, her power "pulls" items from another reality into this reality. This caused the illusions she creates to be extremely realistic, nearly impossible to distinguish using any detecting method. Also, since the ability tends to pull things from a "nearby" parallel universe (among the [[Reckoners Multiverse\|Reckoners Multiverse]]), a tricky fact is that the illusions she creates are actually possibilities. This can be used to somewhat predict the future; if something is going to happen, it is possible that it will happen the same way as Megan's illusions.
+When Megan stretches her ability or within a very short time after her reincarnation, she can be powerful enough to make her illusions become real, creating actual effects and bordering on omnipotence. However, stretching her ability makes her prone to the corruption of [[Calamity (Epic)\|Calamity]].
 
 #### Reincarnation
-Megan has the ability to reborn with a new body roughly one day after her death. However, a big portion of her memory is lost in the process, also causing part of her personality to change. For this reason, she had a camera to send a recording to her new incarnation should something happen to her. The ability to reincarnate makes her a .
+Megan has the ability to reborn with a new body roughly one day after her death. However, a big portion of her memory is lost in the process, also causing part of her personality to change. For this reason, she had a camera to send a recording to her new incarnation should something happen to her. The ability to reincarnate makes her a [[High Epic\|High Epic]].
 
 ### Weakness
 Fire causes the shadows that Megan summons to be dispelled. She thinks that if she is killed by fire, she won't reincarnate. Megan confronted her fear, dispelling the majority of the darkness, but she still feels its effects if she overuses her abilities, or after reincarnating. Megan's weakness comes from when her house was burned down when she was young.
@@ -76,7 +76,7 @@ Megan grew up in Portland, Oregon. Her father believed that a nuclear apocalypse
 David encountered Megan while observing the Reckoners' attempt to assassinate the High Epic, [[Fortuity\|Fortuity]]. When another Epic named [[Curveball\|Curveball]] appeared, David assumed that the plan was going awry and he intervened, ruining the entire plan. After Megan and David take down the two Epics, Megan takes the eager newcomer to her team. David found his interactions with her to be inconsistent and confusing; initially, she seemed impressed by his skills and suggested to Prof that they take him on, but later she dismissed his plans and arguments related to killing Steelheart as absurd and generally treated him with irritation and disdain. Megan later explained that she became hostile towards David after he started convincing the other Reckoners to target Steelheart because she believed that killing Steelheart would do more harm than good. Eventually, she grew fond of him anyway, and the two developed a rapport.
 
 #### Sudden Loss
-After the Reckoners' hit on Conflux went awry, David and Megan attempted to escape together on a motorcycle. The vehicle crashed, mortally injuring Megan. David defended her from their pursuers and confessed his infatuation for her while she lay unconscious. After Prof rescued the two of them and brought them back to the Reckoners' base, Megan died of her injuries despite [[Tia\|Tia]]'s attempt to treat her. The Reckoners abandoned the base and burned everything they left inside, including Megan's remains, in order to cover their tracks.
+After the Reckoners' hit on Conflux went awry, David and Megan attempted to escape together on a motorcycle. The vehicle crashed, mortally injuring Megan. David defended her from their pursuers and confessed his infatuation for her while she lay unconscious. After Prof rescued the two of them and brought them back to the Reckoners' base, Megan died of her injuries despite [[Tia\|Tia's]] attempt to treat her. The Reckoners abandoned the base and burned everything they left inside, including Megan's remains, in order to cover their tracks.
 
 #### Reappearance
 While fighting Nightwielder, David finds Megan and comes to the conclusion that she is the Epic named Firefight as reincarnation is one of her abilities. It is revealed that Megan betrayed the Reckoners as they began to target important parts of Steelheart's infrastructure by infiltrating the organization and feeding information to Steelheart. Initially, she seemed to be unable to recall any past events before her death as seen when she struggled to remember David's identity. Later, during the Steelheart hit, David found Megan listening to an audio recording of her death, including David's confession. She told him to stay away, however, or she would shoot herself, as death meant nothing to her anymore.
@@ -92,19 +92,8 @@ She helps David capture the Epic [[Knoxx\|Knoxx]], to whom Regalia claims to hav
 While David fights a corrupted Prof later in the book, Megan reincarnates and saves David from his battle with her reality warping abilities. Because she confronted her fear of fire, the corruption from her powers lessens greatly and she is able to use her powers more freely. Her fear of fire and it being her weakness leads David to believe that Epics' weaknesses are somehow linked to their past. She, Mizzy, and David are the last remaining Reckoners in Babilar, as Prof killed Val and Exel and Tia had fled the city.
 
 ### Hunting Prof
-Megan rejoins the Reckoners, with her Epic status being acknowledged and accepted by the other members, and aids David in his mission to infiltrate Knighthawk's base. Mizzy and Megan still have tension since Megan killed Sam while corrupted. Megan begins to experiment with her powers and learns how to bring corporeal or solid items to her reality. In attempt to free Prof from his corruption, Megan uses her powers to summon [[Tavi\|Tavi]], Prof's and [[Tia\|Tia]]'s daughter from another reality that possesses similar powers to his own, to fight him. Unfortunately, Megan and David's tactic shows little results and Megan is nearly corrupted once more from the stress of her powers. Later, Megan fully accepts her powers and finally completely frees herself from the corruption of her powers when she refuses to run away from her powers and let [[Larcener\|Larcener]] take them away. This leads David to conclude that Epics can only free themselves from the corruption of their powers by accepting their powers as well as confronting their weakness.
-
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] ·  · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
+Megan rejoins the Reckoners, with her Epic status being acknowledged and accepted by the other members, and aids David in his mission to infiltrate Knighthawk's base. Mizzy and Megan still have tension since Megan killed Sam while corrupted. Megan begins to experiment with her powers and learns how to bring corporeal or solid items to her reality. In attempt to free Prof from his corruption, Megan uses her powers to summon [[Tavi\|Tavi]], Prof's and [[Tia\|Tia's]] daughter from another reality that possesses similar powers to his own, to fight him. Unfortunately, Megan and David's tactic shows little results and Megan is nearly corrupted once more from the stress of her powers. Later, Megan fully accepts her powers and finally completely frees herself from the corruption of her powers when she refuses to run away from her powers and let [[Larcener\|Larcener]] take them away. This leads David to conclude that Epics can only free themselves from the corruption of their powers by accepting their powers as well as confronting their weakness.
 
 
 
-https://es.coppermind.net/wiki/Megan_Tarash
+https://coppermind.net/wiki/Megan_Tarash

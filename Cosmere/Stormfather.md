@@ -1,48 +1,45 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Padre Tormenta**|
+|**Stormfather**|
 |-|-|
 ||
-|**Capacidades**|[[V%C3%ADnculo Nahel\|Vínculo Nahel]], magia de [[Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]], [[Lasca\|Lasca]], [[Astilla\|Astilla]] de [[Honor\|Honor]], [[Sombra cognitiva\|Sombra cognitiva]]|
-|**Vinculado con**|[[Dalinar\|Dalinar]]|
-|**Títulos**|Jinete de las Tormentas, Jinete de la Tormenta, Dios de las Tormentas, Spren de las tormentas, Padre de Tormentas|
-|**Apodos**|[[Jezerezeh\|Jezerezeh]], [[Kelek\|Kelek]]|
-|**Especie**|[[Spren\|Spren]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Abilities**|[[Nahel bond\|Nahel bond]], [[Bondsmith\|Bondsmith]] magic, [[Sliver\|Sliver]], [[Splinter\|Splinter]] of [[Honor\|Honor]], [[Cognitive Shadow\|Cognitive Shadow]]|
+|**Bonded With**|[[Dalinar\|Dalinar]]|
+|**Titles**|Rider of Storms, Storm Rider, God of Storms, Spren of Storms, Father of Storms|
+|**Aliases**|[[Jezerezeh\|Jezerezeh]], [[Kelek\|Kelek]]|
+|**Species**|[[Spren\|Spren]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am that which brings Light and Darkness.*”
 \-The Stormfather explaining his role to Dalinar.[9]
 
-El **Padre Tormenta** es un [[Spren\|spren]] poderoso y único en [[Roshar\|Roshar]], responsable de las [[Alta tormenta\|altas tormentas]]. Es uno de los tres spres [[Forjador de V%C3%ADnculos\|Forjadores de Vínculos]], y está actualmente vinculado con [[Dalinar Kholin\|Dalinar Kholin]]. Para los [[Oyente\|oyentes]], es conocido como el **Jinete de las Tormentas**.
+The **Stormfather** is a powerful and unique [[Spren\|spren]] on [[Roshar\|Roshar]] responsible for the [[Highstorm\|highstorms]]. He is one of the three [[Bondsmith\|Bondsmith]] spren, and is currently bonded to [[Dalinar Kholin\|Dalinar Kholin]]. To the [[Listener\|listeners]], he is known as the **Rider of Storms**.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Naturaleza]] 
-2. [[#Altas tormentas]] 
-2. [[#Visiones]] 
-2. [[#Sue.C3.B1os]] 
-2. [[#V.C3.ADnculo Nahel]] 
+2. [[#Nature]] 
+2. [[#Highstorms]] 
+2. [[#Visions]] 
+2. [[#Dreams]] 
+2. [[#Nahel Bond]] 
 2. [[#Honorspren]] 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
-3. [[#Origen y la Tracici.C3.B3n]] 
-3. [[#Visiones y v.C3.ADnculos]] 
-3. [[#Spren Forjador de V.C3.ADnculos]] 
-3. [[#La espiral descendente]] 
-3. [[#Eila Stele y la Explanada Thayle.C3.B1a]] 
+3. [[#Origins and the Recreance]] 
+3. [[#Visions and Bonds]] 
+3. [[#Bondsmith spren]] 
+3. [[#The Downward Spiral]] 
+3. [[#Eila Stele and Thaylen Field]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Dalinar]] 
 4. [[#Honor]] 
@@ -50,172 +47,155 @@ El **Padre Tormenta** es un [[Spren\|spren]] poderoso y único en [[Roshar\|Rosh
 4. [[#Kaladin]] 
 
 
-5 Cultura. [[#Cultura]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Culture. [[#Culture]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
 >“*I have burned and broken cities myself. I can see … yes, I see a difference now. I see pain now. I did not see it before the bond.*”
 \-The Stormfather.[11]
 
 
-Para más imágenes, ver [[Padre Tormenta/Galer%C3%ADa\|/Galería]].
-La vasta mayoría del tiempo, el Padre Tormenta es simplemente una presencia incorpórea en los cielos, o una abrumadora voz proveniente del cielo mismo. En las ocasiones en las que se muestra a sí mismo, toma la forma de una enorme, imperiosa cara hecha de nubes, que parece alargarse de horizonte a horizonte hasta el infinito.
+For more images, see [[Stormfather/Gallery\|/Gallery]].
+The vast majority of the time, the Stormfather is simply a disembodied presence in the skies, or an overpowering voice within the highstorm itself. On the occasions that he does show himself, he takes the form of an enormous, imperious face made out of the clouds, that seems to stretch from horizon to horizon into infinity.
 
 >“*Of course, if the Stormfather was listening, he'd correct Dalinar’s mistakes. The Stormfather hated to be misquoted.*”
 \-Dalinar on the Stormfather[8]
 
-Es extremadamente orgulloso y altivo, convencido de su propio poder y justicia. No le importa la humanidad, solo les sirve y manda [[Visiones\|visiones]] porque fue encargado para hacerlo por Honor. Está particularmente centrado en los juramentos y en mantenerlos, y no es amable con los que los rompen. Sin embargo, su sentido de justicia no significa que demande que los hombres sigan lo que es **correcto**; para él, un genocidio no es una acción malvada si se lleva a cabo como castigo por romper un juramento.
-Es a menudo incapaz de entender las emociones humanas y sus pensamientos, y encuentra su naturaleza inestable indigna de confianza. A lo largo del tiempo, cuando se vincula con un humano, empieza a ganar un sentido de empatía y entendimiento de la gente. También comienza a ganar un sentido de moralidad, entendiendo el daño que sus acciones han causado a la gente. No obstante, esto no significa que se haga mucho más amable o apacible, ya que sigue creyendo que las tormentas son su dominio y suyo solo, y no le importa matar a aquellos que se atrevan a desafiarle en eso, como los navegantes en mar abierto.
+He is extremely prideful and haughty, convinced of his own power and righteousness. He does not care for humanity, only serving them and sending [[Visions\|visions]] because he was bid to do so by Honor. He is particularly focused on oaths and keeping them, and does not take kindly to those who would break them. His sense of justice does not mean he demands that men follow what is *right*, however; to him, a genocide is not an evil deed if it was done as punishment for breaking an oath.
+He's often incapable of understanding human emotions and thoughts, and finds their unstable nature untrustworthy. Over time, when bonded to a human, he begins to gain a sense of empathy and understanding of people. He also begins to gain a sense of morality, understanding the harm his actions have brought to people. This does not mean he grows much more kind or gentle, though, as he still believed that the storms are his domain and his alone, and is fine with killing those who would dare to challenge him on that, like sailors on the open sea.
 
-## Atributos y habilidades
-### Naturaleza
+## Attributes and Abilities
+### Nature
  
 >“*I am a sliver of the Almighty himself!*”
 \-The Stormfather.[1]
 
-El Padre Tormenta es un [[Spren\|spren]], haciéndole naturalmente inmortal e intangible. A diferencia de la mayoría de spren, está sobre todo presente en el [[Reino F%C3%ADsico\|Reino Físico]] más que en [[Shadesmar\|Shadesmar]], y por ende no puede verlo, aunque sus altas tormentas le afecten. Es uno de los spren más poderosos en Roshar, con una inmensa cantidad de [[Investidura\|Investidura]], mayor incluso que la de los [[Deshechos\|Deshechos]], aunque él esté mucho más restringido que ellos en lo que puede hacer con ella.
-Se ha unido con la [[Sombra cognitiva\|sombra cognitiva]] de [[Tanavast\|Tanavast]], haciéndole algo parecido a una [[Lasca\|Lasca]] a la vez que siendo una [[Astilla\|Astilla]]. Se considera a sí mismo como una memoria que la humanidad creó del Todopoderoso, ahora que el propio dios ya no está. No está claro cuánto de Tanavast queda en él, ya que parece que comparte algunas de sus memorias y opiniones, particularmente en lo que respecta a [[Cultivaci%C3%B3n\|Cultivación]], pero su naturaleza distante no cuadra con lo que se ha visto de Tanavast.
-La naturaleza inusual del Padre Tormenta tanto como spren como sombra cognitiva le da algunas habilidades adicionales al [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] vinculado con él en ese momento. [[Dalinar Kholin\|Dalinar Kholin]] es capaz de usar esto para unir los [[Reino F%C3%ADsico\|Reinos Físico]], [[Reino Cognitivo\|Cognitivo]] y [[Reino Espiritual\|Espiritual]], creando la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]]. Esto permite a la gente viajar entre [[Shadesmar\|Shadesmar]] y Roshar, y desprende cantidades casi infinitas de [[Luz tormentosa\|luz tormentosa]] hacia el área de alrededor, aunque la perpendicularidad no dura mucho. [[Odium\|Odium]] se refiere al evento entero como Ascender. Si esto se puede usar en otros Reinos más allá del Físico se desconoce.
+The Stormfather is a [[Spren\|spren]], making him naturally immortal and intangible. Unlike most other spren, he is mostly present in the [[Physical Realm\|Physical Realm]] rather than [[Shadesmar\|Shadesmar]], and thus cannot see inside of it, even though his highstorms affect it. He is one of the most powerful spren on Roshar, with an immense amount of [[Investiture\|Investiture]], greater even than that of the [[Unmade\|Unmade]], although he is much more restricted than them in what he can do with it.
+He has merged with [[Tanavast\|Tanavast's]] [[Cognitive Shadow\|Cognitive Shadow]], making him something akin to a [[Sliver\|Sliver]] along with being a [[Splinter\|Splinter]]. He considers himself to be a memory men created for the Almighty, now that the god himself is gone. It is unclear how much of Tanavast is left within him, as though he seems to share some of his memories and opinions, particularly in regards to [[Cultivation\|Cultivation]], his standoffish nature does not match what has been seen of Tanavast.
+The Stormfather's unusual nature as both a spren and a Cognitive Shadow gives some additional abilities to the [[Bondsmith\|Bondsmith]] bonded to him in the present times. [[Dalinar Kholin\|Dalinar Kholin]] is able to use it to merge the [[Physical Realm\|Physical]], [[Cognitive Realm\|Cognitive]] and [[Spiritual Realm\|Spiritual Realms]], creating [[Honor's Perpendicularity\|Honor's Perpendicularity]]. This allows people to travel between [[Shadesmar\|Shadesmar]] and Roshar, and releases near-infinite amounts of [[Stormlight\|Stormlight]] into the surrounding area, albeit the perpendicularity doesn't last for long. [[Odium\|Odium]] refers to the whole event as Ascending. Whether this can be used in another Realm beyond the Physical is unknown.
 
-### Altas tormentas
-El Padre Tormenta manda sobre las [[Alta tormenta\|altas tormentas]], los poderosos huracanes que azotan Roshar en intervalos regulares. Mientras que él normalmente se ciñe a su calandario, puede invocarlas en una localización particular si se necesita. Las altas tormentas también le otorgan la habilidad de invocar [[Luz tormentosa\|luz tormentosa]], aunque no puede hacerlo fuera de una alta tormenta.
-Mientras conduce a las tormentas, y percibe todo dentro de ellas, su consciencia no se restringe a ellas; es capaz de hablar con [[Dalinar\|Dalinar]] desde grandes distancias, y a diferencia de otros spren Radiantes, no necesita permanecer cerca de él. Dicho esto, no tiene el absoluto control sobre todo lo que pasa dentro de las tormentas, y es incapaz de parar a los oyentes de usarla para vincularse con spren, incluso [[Vac%C3%ADospren\|vacíospren]].
-Dentro de una alta tormenta, el Padre Tormenta es capaz de comunicarse con gente, apareciendo como una cara enorme y hablando en una voz atronadora. Hacer esto ralentiza mucho el tiempo.
+### Highstorms
+The Stormfather commands the [[Highstorm\|highstorms]], the powerful hurricanes that scour Roshar at regular intervals. While he ordinarily sticks to his schedule, he can summon them to a particular location if need be. The highstorms also grant him the ability to summon [[Stormlight\|Stormlight]], although he cannot do so outside of a highstorm.
+While he rides the storms, and can perceive everything within them, his consciousness is not restricted to them -- he is capable of speaking to [[Dalinar\|Dalinar]] from great distances, and unlike other Radiant spren, he does not need to remain close to him. This being said, he does not have absolute control over everything that happens within his storms, and he's incapable of stopping singers from using it to bond with spren, even [[Voidspren\|voidspren]].
+Within a highstorm, the Stormfather is capable of communicating with people, appearing as an enormous face and speaking in a thunderous voice. Doing so slows down time greatly.
 
-### Visiones
-Para más información, ver [[Visiones de Dalinar\|Visiones de Dalinar]].
-El Padre Tormenta es capaz de mandar visiones a la gente, siempre que su objetivo esté en un área que experimente una alta tormenta. Si la persona está despierta o dormida en ese momento es irrelevante, y parece que la visión no se puede resistir. Las visiones pueden mandarse a más de una persona a la vez, siempre que todas las personas aparte de su Forjador de Vínculos estén dentro de una alta tormenta. Su Forjador de Vínculos también puede entrar una visión sin una alta tormenta y puede llevar a gente consigo fuera de una alta tormenta siempre que estén en contacto con él. Cuando hablan entre ellos dentro de la visión, los acentos pueden no manifestarse.
-Las visiones que el Padre Tormenta manda le fueron otorgadas por [[Honor\|Honor]] cerca del final de la vida de la Esquirla, para que fuesen enviadas a los que mejor las fuesen a usar, como posibles futuros Forjadores de Vínculos. Se reproducen como escenas pregrabadas, altamente interactivas, ambientadas en otro sitio y otro tiempo. El blanco de la visión asume el rol de alguien que vivió en ese tiempo y lugar, y la gente evocada por la visión interactúa con este blanco como si fuera esa persona.
-El blanco no puede invocar a su [[Hoja esquirlada\|hoja esquirlada]], aunque son capaces de usar sus Potencias. Sin embargo, pueden sentir dolor e intentar representar sus acciones dentro de la visión, lo que a veces requiere que sus cuerpos físicos sean contenidos. Hablarán el idioma acorde con el periodo histórico y lugar de la visión, incluso si normalmente no fueran capaces de hablarlo.
-Mientras que el Padre Tormenta ordinariamente tiene un ciclo de visiones por las que pasa en bucle, puede mandar a su Forjador de Vínculos a ellas fuera de una alta tormenta, y transportar al Forjador a cualquier área de visión del "mapa". Tiene casi control completo sobre las visiones, siendo capaz de insertar a la gente como diferentes personajes dentro de ellas y manipular el paso el tiempo, pero entidades como [[Esquirla\|Esquirlas]] o [[Lift\|Lift]] pueden invalidarlo.
-Determinados lugares son inmunes a las visiones del Padre Tormenta, impidiéndole acceder a ellos. Esto incluye [[Kholinar\|Kholinar]] mientras estaba habitado por [[Deshechos\|Deshechos]], y Urithiru mientras el Hermano estaba parcialmente corrupto, negando habilidades Radiantes.
+### Visions
+For more information, see [[Dalinar's visions\|Dalinar's visions]].
+The Stormfather is capable of sending people visions, so long as his target is in an area experiencing a highstorm. Whether or not a person is currently awake or asleep is irrelevant, and it appears that the vision cannot be resisted. The visions can be given to more than one person at a time, as long as all other than his bonded Surgebinder are within a highstorm. His bonded Surgebinder is also able to enter a vision without a highstorm and is able to bring in others with them outside of a highstorm as long as they are touching the Bondsmith. When speaking to others inside of a vision, accents might not carry over.
+The visions the Stormfather sends out have been bestowed upon him by [[Honor\|Honor]] near the end of the Shard's life, to be given to those who would be best served by them, such as possible future Bondsmiths. They play out as a pre-recorded, heavily interactive scenes, set in another place and another time. The target of the vision assumes the role of someone who lived in that time and place, and the people conjured up by the vision interact with them as though they were that person.
+The target cannot summon their [[Shardblade\|Shardblade]], although they are capable of using their Surgebinding abilities. They can, however, feel pain and attempt to act out their actions within a vision, which sometimes requires that their physical bodies be restrained. They will speak the language matching the time period and location of the vision, even if they aren't normally able to speak it.
+While the Stormfather ordinarily has a cycle of visions he goes through on a loop, he can send his bonded Bondsmith to them even outside of a highstorm, and transport the Bondsmith into any area of the vision "map". He has almost complete control over the visions, being able to insert people as various characters within them and manipulate the passing of time, but entities such as [[Shard\|Shards]] or [[Lift\|Lift]] can override him.
+Certain places are immune to the Stormfather's visions, preventing him from accessing them. This included [[Kholinar\|Kholinar]] while it was inhabited by [[Unmade\|Unmade]], and Urithiru while the Sibling was partially corrupted, negating Radiant abilities.
 
-### Sueños
-Fuera de las visiones, el Padre Tormenta es capaz de comunicarse a través de sueños. Esos sueños usualmente se ubican en un espacio blanco que parece estar fuera del tiempo y del espacio. La gente lo experiencia como si todo a su alrededor se desvaneciese, reemplazado por un suelo sólido y viento que parece detenerse en su lugar. A diferencia de las visiones, los sueños parecen no tomar nada de tiempo en el mundo real. El Padre Tormenta también puede dejar a alguien "cabalgar la tormenta", permitiéndoles experimentar ser la tormenta misma; como las visiones, esto requiere que la persona esté dentro de la tormenta a menos que sea Forjador de Vínculos. El único cantor que se sabe que ha hecho esto, [[Eshonai\|Eshonai]], también ganó un entendimiento fundamental de los [[/wiki/Roshar#Ritmos]] de Roshar.
+### Dreams
+Outside of the visions, the Stormfather is capable of communicating through dreams. Those dreams usually take place in a blank space that seems outside of time and space. People experiencing them feel as though everything around them fades away, replaced by solid ground and wind that seems to stop in place. Unlike the visions, the dreams seem to take up no time at all in the real world. The Stormfather can also let a person "ride the storm," allowing them to experience being the storm itself; like the visions, these require the person to be within the storm unless they are a Bondsmith. The only known singer to have done this, [[Eshonai\|Eshonai]], gained a fundamental understanding of Roshar's [[/wiki/Roshar#Rhythms]] as well.
 
-  El Padre Tormenta y los spren <<Caballeros Radiantes\|Radiantes>>
-### Vínculo Nahel
+  The Stormfather and the <<Knights Radiant\|Radiant>> <<Spren\|spren>>
+### Nahel Bond
 >“*I will not be a simple sword to you. I will not come as you call, and you will have to divest yourself of that... monstrosity that you carry. You will be a Radiant with no Shards.*”
 \-The Stormfather upon bonding Dalinar.[1]
 
-El Padre Tormenta es uno de los tres grandes spren [[Forjador de V%C3%ADnculos\|Forjadores de Vínculos]]. Formar un [[V%C3%ADnculo Nahel\|vínculo Nahel]] con él garantiza el poder sobre las potenciaciones de [[Tensi%C3%B3n\|Tensión]] y [[Adhesi%C3%B3n\|Adhesión]]. Está actualmente vinculado con [[Dalinar Kholin\|Dalinar Kholin]].
-Mientras que un Forjador de Vínculos puede usar la Adhesión de la forma que un [[Corredor del Viento\|Corredor del Viento]] lo haría, también pueden aplicar sus poderes de diferente manera, usándolos más en lo [[Reino Espiritual\|Espiritual]]. Usando la Adhesión Espiritual, un Forjador de Vínculos puede formar una conexión entre ellos y otra persona, permitiéndoles hablar el mismo idioma. También parecen capaces de escuchar los aspectos espirituales de los objetos, y usar esto para reparar al completo cosas rotas. Los Forjadores de Vínculos también pueden invocar luz tormentosa a voluntad, aunque esto requiere un esfuerzo significativo. Debido a su conexión con las altas tormentas, su Forjador de Vínculos se siente más energético en los días con alta tormenta.
-Hay varias diferencias entre el Padre Tormenta y otros spren Radiantes. A diferencia de ellos, él es capaz de mantener la consciencia en el Reino Físico incluso sin el vínculo, aunque le garantiza un entendimiento más profundo de la humanidad y sus debilidades, junto con la habilidad de empatizar con otros y respuestas más humanas, como maldecir. Tampoco se convierte en hoja esquirlada, ya sea por su inmenso poder o por su inmenso desprecio hacia la humanidad. Adicionalmente, puede escuchar declaraciones o preguntas dirigidas a él, y hablar directamente en la mente de su Forjador de Vínculos, aunque no parezca que esté cerca. Su Forjador de Vínculos también se puede comunicar con él a través del pensamiento.
+The Stormfather is one of the three great [[Bondsmith\|Bondsmith]] spren. Forming a [[Nahel bond\|Nahel bond]] with him grants one the power over the [[Surge\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]]. He is currently bonded with [[Dalinar Kholin\|Dalinar Kholin]].
+While a Bondsmith can use Adhesion the way a [[Windrunner\|Windrunner]] would, they can also apply their powers in different manner, using them more in the [[Spiritual Realm\|Spiritual]]. Using Spiritual Adhesion, a Bondsmith can form a connection between themselves and another person, allowing them to speak their language. They also seem capable of hearing the spiritual aspects of objects, and use this to mend broken things back whole. Bondsmiths can also summon Stormlight at will, although this requires significant effort. Due to his connection with highstorms, his Bondsmith will feel more energetic on highstorm days.
+There are several differences between the Stormfather and other Radiant spren. Unlike them, he is capable of maintaining consciousness in the Physical Realm even without the Bond, although it grants him deeper understanding of humanity and its foibles, along with the ability to empathize with others and more human responses, like cursing. He also does not become a Shardblade, either due to his immense power or due to his immense dislike for humanity. In addition, he can hear statements or questions directed to him, and speak directly into his Surgebinder's mind, even if he does not seem to be nearby. His Bondsmith can also communicate with him by thinking.
 
 ### Honorspren
-El Padre Tormenta es el creador de los [[Honorspren\|honorspren]] modernos, una labor que le fue asignada por [[Honor\|Honor]] poco antes de su muerte. Tras la [[Traici%C3%B3n\|Traición]], cuando casi todos ellos fueron asesinados, paró de hacerlo; sin embargo, finalmente crearía diez de ellos, los que eventualmente crearían a otros, llevando al resurgimiento de la raza.
-Hoy en día, muchos honorspren lo tratan como un honrado antepasado y obedecen su deseos, con [[Syl\|Syl]] en particular refiriéndose a él como su padre. El Padre Tormenta, en cambio, los considera como sus hijos. Aparentemente ejerce influencia sobre su habilidad para formas [[V%C3%ADnculo Nahel\|vínculos Nahel]], aunque no puede pararlos si su potenciador recita los Juramentos apropiados. También es capaz de otorgarles emociones más humanas, pero se niega a hacerlo.
+The Stormfather is the creator of the modern [[Honorspren\|honorspren]], a duty that was bestowed upon him by [[Honor\|Honor]] shortly before the latter's death. Following the [[Recreance\|Recreance]], where almost all of them have been killed, he stopped doing so; however, he would eventually create ten of them, which would eventually create others, leading to the resurgence of the race.
+Today, many honorspren treat him as an honored ancestor and obey his wishes, with [[Syl\|Syl]] in particular referring to him as her father. The Stormfather, in turn, considers them his children. He apparently exerts some influence over their ability to form [[Nahel bond\|Nahel bonds]], although he cannot stop them if their Surgebinder says the proper Oaths. He is also able to grant them more human-like emotions, but refuses to do so.
 
-## Historia
-### Origen y la Tracición
+## History
+### Origins and the Recreance
 >“*During these days, Honor still lived. I was not yet fully myself. More of a storm. Less interested in men.*”
 \-About his origins[13]
 
-El Padre Tormenta es probablemente una de las entidades más antiguas del [[Cosmere\|Cosmere]], ya que las [[Alta tormenta\|altas tormentas]] que manda preceden incluso a la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Durante los milenios tempranos de su existencia, no era particularmente competente ni consciente de sí mismo, simplemente siendo la indiferente tormenta. Incluso entonces, era capaz de vincularse con humanos.
-Poco antes de la [[Traici%C3%B3n\|Traición]],unos dos mil años antes de la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]], [[Honor\|Honor]] alteró al Padre Tormenta en una preparación frenética para su propia muerte. Entre otros cambios, le dio la capacidad de crear [[Honorspren\|honorspren]], igual que le otorgó una serie de visiones para mandar a la persona que se beneficiaría de ellas, en el caso de una nueva [[Desolaci%C3%B3n\|Desolación]]. Entonces, el Padre Tormenta tenía una inteligencia infantil, aunque creció a lo largo del tiempo. Cuando vino la Traición, en duelo por la pérdida de los honorspren, que creyó que incluía a [[Sylphrena\|Sylphrena]], rehusó de hacer nuevos por siglos. Finalmente, creó a diez, quienes crearon entonces a sus propios hijos, hasta que los honorspren volvieron a ser una nación.
+The Stormfather is likely to be one of the oldest entities in the [[Cosmere\|cosmere]], as the [[Highstorm\|highstorms]] he commands predate even the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. During the early millennia of his existence, he was not particularly cognizant or self-aware, but rather simply the uncaring storm. Even back then, however, he was capable of bonding with humans.
+Shortly before the [[Recreance\|Recreance]], around 2000 years before the [[True Desolation\|True Desolation]], [[Honor\|Honor]] altered the Stormfather in a frantic preparation for his own death. Among other changes, he gave him the capacity to create [[Honorspren\|honorspren]], as well as bestowed him with a set of visions to be sent to a person who would benefit from them, in the event of a new [[Desolation\|Desolation]]. Back then, the Stormfather had only childlike intelligence, although it grew over time. When the Recreance came, grieving for the lost honorspren -- which he believed included [[Sylphrena\|Sylphrena]] -- he refused to make new ones for centuries. Eventually, he created ten, who would then create children of their own, until the honorspren became a nation again.
 
-  Vinculándose con <<Dalinar\|Dalinar>>
-### Visiones y vínculos
-En algún momento poco antes de la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], Syl fue redescubierta, y el Padre Tormenta organizó su traslado a una de las ciudades de honorspren, ordenando a [[Notum\|Notum]] que la vigilara. Contra sus deseos, eventualmente escapó y formó un [[V%C3%ADnculo Nahel\|vínculo Nahel]] tras darse cuenta de que venía una nueva Desolación.
-En esos momentos, el Padre Tormenta comenzó a enviar sus visiones. Aunque hubo menos de diez personas que las recibieron, las únicas conocidas son [[Gavilar\|Gavilar]] y [[Dalinar Kholin\|Dalinar Kholin]]. Gavilar comenzó a verlas poco antes de su muerte, aunque las interpretó muy diferente de lo que se suponía que eran. Esto llevó indirectamente a la creación del [[Diagrama (literatura)\|Diagrama]], al igual que su cooperación con los [[Hijos de Honor\|Hijos de Honor]] en un intento de traer de vuelta a los [[Heraldo\|Heraldos]], aunque eso significase empezar una nueva Desolación.
-Siguiendo la muerte de Gavilar, el Padre Tormenta comenzó a mandar sus visiones al hermano pequeño. Esto llevó a la caída en picado de la reputación de Dalinar en los campamentos de guerra, pero también a que empezase a buscar información sobre las Desolaciones y a hacer el primer intento de verdaderamente unificar Alezkar. Al mismo tiempo, ya que [[Kaladin\|Kaladin]] se estaba vinculando con Syl, el Padre Tormenta lo estaba vigilando. Cuando Kaladin estaba colgado enfrentándose a su juicio por orden de [[Torol Sadeas\|Sadeas]], el Padre Tormenta apareció, como si le observase, aunque Kaladin asumió más tarde que era una alucinación delirante.
-El Padre Tormenta más adelante visitó a Kaladin directamente en un sueño, donde los dos tuvieron una conversación. Acusó a Kaladin de ser un traidor, y compartió su creencia de que no se puede confiar en los humanos. Sus predicciones aparentemente se cumplieron cuando Kaladin mató a Syl rompiendo su vínculo. El Padre Tormenta lo visitó en una alta tormenta subsecuente para decirle que ella estaba muerta y que Kaladin nunca volvería a [[Potenciar\|Potenciar]]. Aunque dejara que [[Shallan\|Shallan]] también le viese, no habló con ella.
-Durante la [[Batalla de Narak\|batalla de Narak]], el Padre Tormenta habló con Dalinar fuera de una visión, proclamando que los Alezi estaban perdidos, y prometiendo mandar una alta tormenta para llevarse sus cuerpos. Al mismo tiempo, Syl comenzó a recuperar su consciencia, así que el Padre Tormenta se marchó para detenerla de volver a vincularse con Kaladin. A pesar de sus mejores esfuerzos, Syl tuvo éxito, y el Padre Tormenta de mala gana le permitió restaurar su vínculo. Tras el choque de la alta tormenta con la tormenta eterna, se llevó a la sombra cognitiva de [[Eshonai\|Eshonai]] y le mostró el mundo mientras la tormenta cruzaba el continente antes de dejarla marcharse al [[M%C3%A1s All%C3%A1\|Más Allá]].
-Tras la batalla, Dalinar subió a la cima de [[Urithiru\|Urithiru]] para hablar con él. El Padre Tormenta contestó, explicando la [[Tormenta eterna\|Tormenta eterna]] y la muerte de Honor, después de lo cual Dalinar intentó vincularse con él. Aunque inicialmente el Padre Tormenta fue hostil con la idea, finalmente cedió una vez Dalinar pronunció las [[Palabras Inmortales\|Palabras Inmortales]], aunque bajo la estipulación de que Dalinar no empuñase [[Hoja esquirlada\|hojas esquirladas]].
+  Bonding with <<Dalinar\|Dalinar>>
+### Visions and Bonds
+At some point shortly before the [[True Desolation\|True Desolation]], Syl was rediscovered, and the Stormfather arranged to have her delivered to one of the honorspren cities, ordering [[Notum\|Notum]] to keep an eye on her. Against his wishes, she eventually escaped to form a [[Nahel bond\|Nahel bond]] after realizing that a new Desolation was coming.
+Around the same time, the Stormfather began sending out his visions. While there were less than ten people to have received them, the only ones known are [[Gavilar\|Gavilar]] and [[Dalinar Kholin\|Dalinar Kholin]]. Gavilar began seeing them shortly before his death, although he interpreted them far differently than they were supposed to be. This led indirectly to the creation of the [[Diagram (literature)\|Diagram]], as well as Gavilar's cooperation with the [[Sons of Honor\|Sons of Honor]] in a bid to bring the [[Herald\|Heralds]] back, even if it meant starting a new Desolation.
+Following Gavilar's death, the Stormfather began sending his visions to the younger brother. This led to Dalinar's reputation in the [[Alethi\|Alethi]] warcamps plummeting, but also to him beginning to research the Desolations and making the first attempt at truly uniting Alethkar. At the same time, as [[Kaladin\|Kaladin]] was bonding Syl, the Stormfather was keeping an eye on him. When Kaladin was strung up by to face his judgement by [[Torol Sadeas\|Sadeas']] orders, the Stormfather appeared, as if observing him, although Kaladin later assumed it was a delirious hallucination.
+The Stormfather later visited Kaladin directly in a dream, where the two had a conversation. He accused Kaladin of being a traitor, and shared his belief that humans couldn't be trusted. His predictions seemingly came true when Kaladin killed Syl by breaking his bond. Stormfather visited him in a subsequent highstorm to tell him that she was dead and that Kaladin would never [[Surgebind\|Surgebind]] again. While he let [[Shallan\|Shallan]] see him as well, he didn't speak with her.
+During the [[Battle of Narak\|Battle of Narak]], the Stormfather spoke to Dalinar out of a vision, claiming that the Alethi were lost, and promising to send a highstorm to sweep away their bodies. At the same time, Syl began to regain her consciousness, and so the Stormfather departed to stop her from re-bonding Kaladin. Despite his best efforts, Syl succeeded, and the Stormfather reluctantly conceded allowing her to restore her bond. Following the crash of the Highstorm and Everstorm, he took the Cognitive Shadow of [[Eshonai\|Eshonai]] and showed her the world as the storm crossed the continent, before letting her pass into the [[Beyond\|Beyond]].
+Following the battle, Dalinar climbed to the top of [[Urithiru\|Urithiru]] to speak with him. The Stormfather answered, explaining the [[Everstorm\|Everstorm]] and Honor's death, whereupon Dalinar attempted to bond him. Though initially, the Stormfather was hostile to the idea, he eventually agreed once Dalinar said the [[Immortal Words\|Immortal Words]], although under the stipulation that Dalinar would wield no [[Shardblade\|Shards]].
 
-### Spren Forjador de Vínculos
-  El Padre Tormenta presidiendo sobre el matrimonio de Dalinar y Navani
+### Bondsmith spren
+  The Stormfather presiding over Dalinar and Navani's marriage
 >“*Oaths are the soul of righteousness. If you are to survive the coming tempest, oaths must guide you.*”
 \-At Dalinar's and Navani's wedding[12]
 
-Este nuevo vínculo permite al Padre Tormenta enseñar a Dalinar las visiones de Honor a voluntad, llevado a que Dalinar las explore extensivamente. Poco después, Dalinar pidió al Padre Tormenta que los casase a él y a [[Navani\|Navani]], a lo que accedió.
-Desde ese momento, el Padre Tormenta sirvió como una fuente de información para Dalinar. Mientras que se negó a revelarle los motivos de la [[Traici%C3%B3n\|Traición]], le explicó la naturaleza de las [[Hoja de Honor\|hojas de Honor]], al igual que la razón por la que [[Honor\|Honor]] pensó que el plan de luchar con [[Odium\|Odium]] en un campeonato funcionaría; que Odium es una fuerza de la naturaleza, y como tal, limitado por reglas. Eventualmente, tras la conversación sobre si [[Juramentada (hoja esquirlada)\|Juramentada]] pudiese ser devuelta a la vida, el Padre Tormenta reveló que puede mandar visiones a otra gente, permitiendo a Dalinar comunicarse instantáneamente a través de grandes distancias, haciendo las negociaciones con gente de lejos mucho más fáciles.
-Inicialmente, el plan fue razonablemente bien, con [[Dalinar\|Dalinar]] conversando con [[Fen Rnamdi\|Fen Rnamdi]] de [[Thaylenah\|Thaylenah]] y la convenciéndola de que considerase su oferta. Después, el Padre Tormenta les trajo a él, [[Navani\|Navani]] y a [[Jasnah\|Jasnah]] a la visión del [[Aharietiam\|Aharietiam]] para explorarla. Fue ahí que le dijo a Dalinar sobre los orígenes y destino de los [[Heraldo\|Heraldos]], aunque volvió a negarse a hablar de la Traición. Poco más tarde, durante un viaje de vuelta a los campamentos de guerra, le dijo a Dalinar que estaba empezando a sentir empatía por la gente que moría en sus tormentas.
+This new bond allowed the Stormfather to show Dalinar Honor's visions at will, leading to Dalinar exploring them extensively. Shortly afterwards, Dalinar asked the Stormfather to marry him and [[Navani\|Navani]], to which he agreed.
+From then on out, the Stormfather served as a source of information for Dalinar. While he refused to give him the reasons for the [[Recreance\|Recreance]], he explained the nature of the [[Honorblade\|Honorblades]], as well as the reason why [[Honor\|Honor]] thought the plan of fighting [[Odium\|Odium]] in a contest of champions would work -- that Odium is a force of nature, and as such, bound by rules. Eventually, after a conversation concerning whether [[Oathbringer (Shardblade)\|Oathbringer]] can be brought back to life, the Stormfather revealed that he can send visions to other people, allowing Dalinar to instantaneously communicate across vast distances, making negotiations with far away people much easier.
+Initially, the plan went reasonably well, with [[Dalinar\|Dalinar]] conversing with [[Fen Rnamdi\|Fen Rnamdi]] of [[Thaylenah\|Thaylenah]] and convincing her to consider his offer. Afterwards, the Stormfather brought him, [[Navani\|Navani]] and [[Jasnah\|Jasnah]] to the vision of [[Aharietiam\|Aharietiam]] to explore it. It was there that he told Dalinar about the origins and fate of the [[Herald\|Heralds]], though he again refused to speak about the Recreance. Shortly afterwards, during a trip back to the warcamps, he told Dalinar that he was beginning to feel empathy for people dying in his storms.
 
-### La espiral descendente
+### The Downward Spiral
 >“*This is the lot I have chosen. It is you or oblivion.*”
 \-The Stormfather to Dalinar.[16]
 
 
-La exploración libre de las visiones acabó cuando [[Odium\|Odium]] invadió una de ellas, con el Padre Tormenta incapaz de detenerlo. Aunque el gran spren recuperó rápidamente su porte, no cupo duda de que estaba aterrorizado de la Esquirla, y que por el momento, las visiones quedaban suspendidas. Finalmente, Dalinar comenzó a indagar sobre el destino actual de los Heraldos, y el Padre Tormenta le informó de que podía ver a [[Ishar\|Ishar]], y que el viejo Vinculador de Dioses maldice su nombre por las noches.
-Poco después, las memorias de Dalinar del incendio de [[Rathalas\|Rathalas]] volvieron. Tras eso, confrontó al Padre Tormenta sobre sus razones para vincularse con un monstruo como él, a lo que el Padre Tormenta le respondió que para él, lo que Dalinar había hecho era administrar justicia; pero también que ahora, con su vínculo más avanzado, entendía la inmoralidad del acto.
-Cuando Dalinar viajó a [[Vedenar\|Vedenar]], sintió el regreso de [[La Emoci%C3%B3n\|la Emoción]], e intentó escapar. A pesar de las protestas del Padre Tormenta, logró invocar algo reluciente y blanco que usó para abrir la [[Puerta Jurada\|Puerta Jurada]], causando al gran spren un dolor significativo. Después, Danilar le pidió perdón, pero el Padre Tormenta no estaba molesto por ello, o al menos actuaba como si no lo estuviese.
+The free exploration of the visions ended when [[Odium\|Odium]] invaded one of the visions, with the Stormfather powerless to stop him. Though the great spren quickly recovered his poise, there was no doubt that he was terrified of the Shard, and for the time being, further visions were suspended. Eventually, Dalinar began inquiring about the current fate of the Heralds, and the Stormfather informed him that he could see [[Ishar\|Ishar]], and that the old Binder of Gods cursed his name at night.
+Soon afterwards, Dalinar's memories of the burning of [[Rathalas\|Rathalas]] returned. Afterwards, he confronted the Stormfather about his reasons for bonding a monster such as himself, to which the Stormfather answered that to him, what Dalinar had done was administering justice -- but also that now, with his bond more advanced, he understood the immorality of the act.
+When Dalinar traveled to [[Vedenar\|Vedenar]], he felt the return of the [[Thrill\|Thrill]], and sought to run away. Despite the Stormfather's protests, he managed to summon something gleaming and white and used it to open the [[Oathgate\|Oathgate]], causing the great spren significant pain. Afterwards, Dalinar apologized to him, but the Stormfather was unbothered by the event, or at least acted as though he was.
 
-  Acompañando a Dalinar a la Explanada Thayleña
-### Eila Stele y la Explanada Thayleña
+  Accompanying Dalinar at Thaylen Field
+### Eila Stele and Thaylen Field
 >“*I was bonded to men before. This never happened then.*”
 \-The Stormfather about Honor's Perpendicularity.[20]
 
 
-Las revelaciones de [[Eila Stele\|Eila Stele]] vinieron poco después. Tras esto, el Padre Tormenta explicó a Dalinar la Traición y el papel que Honor jugó en prevenirla en las eras pasadas, al igual que la decadencia de honor poco antes de su muerte.
-En la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], el Padre Tormenta acompañó a Dalinar a su encuentro con Odium, aunque no podía explicar lo que los [[Tronador\|Tronadores]] querían de la [[Reserva Thayle%C3%B1a de Gemas\|Reserva Thayleña de Gemas]]. Cuando Odium se encontró a Dalinar, el Padre Tormenta se calló, alejado por la presencia de la Esquirla. Retornó rápidamente después de que Dalinar rechazase la influencia de Odium. Después de que Dalinar abriese la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]], el Padre Tormenta volvió, sorprendico e incierto sobre lo que estaba pasando, aunque era suficientemente consciente para aceptar las palabras de Dalinar en forma del Tercer Ideal de los Forjadores de Vínculos, y a señalar la presencia de [[Shalash\|Shalash]] y [[Taln\|Taln]] a su Forjador de Vínculos.
-Tras la batalla, el Padre Tormenta visitó brevemente a [[Lopen\|Lopen]] para escuchar su segundo ideal de los [[Corredor del Viento\|Corredores del Viento]], castigándole por pensar que había estado preparado antes. Después, permitió a Dalinar y a [[Shallan\|Shallan]] usar su presencia sobre [[Kholinar\|Kholinar]] para ver lo que le había pasado a la ciudad.
+The revelations of [[Eila Stele\|Eila Stele]] came soon afterwards. In the aftermath, the Stormfather explained to Dalinar the Recreance and the role Honor played in preventing it in the ages past, as well as Honor's decay shortly before his death.
+At the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the Stormfather accompanied Dalinar to his meeting with Odium, though he couldn't explain what the [[Thunderclast\|thunderclasts]] would want with the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]]. When Odium met with Dalinar, the Stormfather fell quiet, banished by the Shard's presence. He quickly returned after Dalinar managed to reject Odium's influence. After Dalinar opened [[Honor's Perpendicularity\|Honor's Perpendicularity]], the Stormfather returned, shocked and uncertain as to what was happening, though he was aware enough to accept Dalinar's words as the Third Ideal of the Bondsmiths, and to point out [[Taln\|Taln]] and [[Shalash\|Shalash's]] presence to his Bondsmith.
+In the aftermath of the battle, the Stormfather briefly visited [[Lopen\|Lopen]] to hear out his [[Windrunner\|Windrunner]] second ideal, chastising him for thinking he had been ready earlier. Afterwards, he allowed Dalinar and [[Shallan\|Shallan]] to use his presence over [[Kholinar\|Kholinar]] to see what had happened to the city.
 
-## Relaciones
-  Presidiendo el matrimonio de <<Dalinar\|Dalinar>> y <<Navani\|Navani>>
+## Relationships
+  Presiding over <<Dalinar\|Dalinar>> and <<Navani\|Navani's>> marriage
 ### Dalinar
 >“*Why did you bond me? Shouldn't you have picked a man who was just?*”
 \-Dalinar to the Stormfather.[11]
 
 
-[[Dalinar Kholin\|Dalinar Kholin]] es el [[Forjador de V%C3%ADnculos\|Forjador de Vínculos]] actual del Padre Tormenta; no el primero, pero sí el primero en cientos de años. Aunque el Padre Tormenta no estaba ansioso por vincularse en un principio, una vez Dalinar dijo las Palabras, el Padre Tormenta se comprometió a quedarse con él. Sigue siendo abrasivo hacia Dalinar, reteniendo información que no quiere compartir, pero lucha por ayudarle, incluso en la cara de [[Odium\|Odium]]. A menudo actúa como confidente de Dalinar en temas en los que éste está incómodo compartiéndolos con [[Navani\|Navani]]
-A cambio, el Padre Tormenta gana una empatía mayor y un entendimiento de la naturaleza humana. También coge hábitos menos sanos, como maldecir.
+[[Dalinar Kholin\|Dalinar Kholin]] is the Stormfather's current [[Bondsmith\|Bondsmith]]; not the first one, but the first in many hundreds of years. Though the Stormfather isn't eager to bond at first, once Dalinar says the Words, the Stormfather commits to staying with Dalinar. He is still abrasive towards him, withholding information he doesn't wish to share, but he strives to help Dalinar, even in the face of [[Odium\|Odium]]. He often acts as Dalinar's confidant in matters the latter is uncomfortable sharing with [[Navani\|Navani]].
+In return, the Stormfather gains increased empathy and understanding of human nature. He also picks up less wholesome habits, such as cursing.
 
 ### Honor
 >“*Of course Honor's suggestion would work. He spoke it.*”
 \-The Stormfather.[41]
 
 
-Mientras que no tiene elección en obedecer los deseos de [[Honor\|Honor]], el Padre Tormenta le respeta mucho de muchas maneras. Le respeta implícitamente, y tiene muchas buenas cosas que decir sobre él. Parece que le trata como una figura paterna, probablemente debido a la transformación que le hizo Honor poco antes de la muerte de [[Tanavast\|Tanavast]]. El Padre Tormenta también es hasta cierto punto la [[Sombra cognitiva\|sombra cognitiva]] de Honor. Lo que esto significa es incierto, ya que mientras que el Padre Tormenta parece pensar de la misma manera que pensaba Honor sobre [[Cultivaci%C3%B3n\|Cultivación]], también se considera a sí mismo una entidad separada.
+While he has no choice in obeying [[Honor\|Honor's]] wishes, the Stormfather greatly respects him in many ways. He trusts him implicitly, and has many good things to say about him. He seems to treat him as something of a father figure, likely due to Honor's transformation of him shortly before [[Tanavast\|Tanavast's]] death. The Stormfather is also Honor's [[Cognitive Shadow\|Cognitive Shadow]] to an extent. What this means is uncertain, as while the Stormfather seems to think the same way about [[Cultivation\|Cultivation]] Honor used to, he also seems to consider himself a separate entity.
 
 ### Sylphrena
 >“*You have taken her from me. My beloved one.*”
 \-The Stormfather to Kaladin.[62]
 
-[[Syl\|Syl]] es una de las [[Honorspren\|honorspren]] originales creados por el Padre Tormenta antes de la [[Traici%C3%B3n\|Traición]]. Quizás por esto, parece que la adora sobre todos sus otros hijos, y se ocupa de que no sea herida. Aunque le trate como su padre, ella está claramente frustrada con lo sobreprotector que puede ser, y discute con él sobre lo que se le permite y no se le permite hacer.
+[[Syl\|Syl]] is one of the original [[Honorspren\|honorspren]] created by the Stormfather prior to the [[Recreance\|Recreance]]. Perhaps because of this, he seems to adore her above all his other children, and takes care that she's not harmed. While she calls him her father, she's also clearly frustrated with how overprotective he can be, and will argue with him over what she is and isn't allowed to do.
 
-  Kaladin viendo al Padre Tormenta por la primera vez
+  Kaladin seeing the Stormfather for the first time
 ### Kaladin
 >“*Just listen to the piece of nature incarnate, okay?*”
 \-Syl to Kaladin about her father.[7]
 
 
-El Padre Tormenta tiene sentimientos encontrados con respecto a [[Kaladin\|Kaladin]]. Por una parte, está furioso con él por vincularse con Syl, y le culpa de todo lo malo que le pasa, asumiendo inmediatamente que la mataría. Eventualmente, llega a respetarle un poco, aunque el respeto es a regañadientes. Kaladin a veces cabalga sus tormentas en sueños, aunque esto parece más bien accidental. Él es la única persona a la que el Padre Tormenta se refiere como "hijo de Tanavast", por una razón específica, pero desconocida.
-A lo largo del tiempo, el Padre Tormenta parece empezar a preocuparse un poco por Kaladin, a su manera. Le ayuda a viajar a [[Urithiru\|Urithiru]] desde [[Revolar\|Revolar]], y más tarde espera que el Bendito por la Tormenta pueda retornar a salvo de [[Kholinar\|Kholinar]].
+The Stormfather has mixed feelings regarding [[Kaladin\|Kaladin]]. On one hand, he's furious with him for bonding Syl, and blames him for everything bad that happens to her, immediately assuming that he would kill her. Eventually, he comes to respect him somewhat, although the respect is grudging. Kaladin sometimes rides his storms in dreams, though this seems rather accidental. He's the only person to whom the Stormfather refers to as "child of Tanavast", for a specific, but unknown reason.
+Over time, the Stormfather seems to come to care for Kaladin somewhat, in his own way. He helps him travel to [[Urithiru\|Urithiru]] from [[Revolar\|Revolar]], and later hopes that the Stormblessed can safely return from [[Kholinar\|Kholinar]].
 
 
-## Cultura
-La religión [[Vorin\|Vorin]] a menudo identifica al Padre Tormenta como el [[Todopoderoso\|Todopoderoso]], al igual que como uno o más de uno de los [[Heraldo\|Heraldos]]. En [[Alezkar\|Alezkar]], se cree comúnmente que [[Jezrien\|Jezrien]] y el Padre Tormenta son la misma identidad. En [[Natanatan\|Natanatan]], se dice lo mismo sobre [[Kalak\|Kalak]]. Un castigo común para algunos criminales en países vorin es ser colgado en una [[Alta tormenta\|alta tormenta]], para ser "juzgado por el Padre Tormenta", lo que típicamente significa una sentencia de muerte.
-La palabra "padre tormenta" es una maldición común, similar a otras variaciones de la palabra "tormenta".
-Los [[Oyente\|oyentes]] creen que es un traidor de su raza, que protegió a los humanos en vez de a ellos. Sin embargo, siguen respetándole, creyendo que mataría a cualquiera que no lo hiciese, llevando a una mezcla de admiración y temor en su sociedad.
+## Culture
+The [[Vorin\|Vorin]] religion often identifies the Stormfather with the [[Almighty\|Almighty]], as well as one or more of the [[Herald\|Heralds]]. In [[Alethkar\|Alethkar]], it's commonly believed that [[Jezrien\|Jezrien]] and the Stormfather are the same entity. In [[Natanatan\|Natanatan]], the same is said about [[Kalak\|Kalak]]. A common punishment for some criminals in Vorin countries is being strung up in a [[Highstorm\|highstorm]], to be "judged by the Stormfather", which typically equals a death sentence.
+The word "stormfather" is a common curse, similar to other variations of the word "storm".
+The [[Listener\|listeners]] believe him to be a traitor to their kind, who protected humans instead of them. They still respect him, though, believing that he would kill anyone who doesn't, leading to a mix of awe and fear in their society.
 
-## Curiosidades
-El Padre Tormenta tiene dos "modos" diferentes de hablar. Usa mayúsculas pequeñas cuando habla con los que no están vinculados con él, o cuando habla para que todo el mundo le escuche. Habla normal cuando se comunica directamente con [[Dalinar\|Dalinar]] tras convertirse en Forjador de Vínculos. Curiosamente, solo hay otros cuatro personajes que hayan hablado todo en mayúsculas:
+## Trivia
+The Stormfather has two different "modes" of speech. He uses small caps when talking to those unbonded to him, or when speaking so that everyone can hear him. He speaks normally when communicating directly with [[Dalinar\|Dalinar]] after the latter becomes a Bondsmith. Interestingly, there are only four other characters shown speaking in small caps:
 
-[[Cultivaci%C3%B3n\|Cultivación]] cuando se encuentra con Dalinar en el [[Valle\|Valle]].
-[[Odium\|Odium]], cuando evita que un Fusionado tome el cuerpo de [[Venli\|Venli]], cuando le dice a Dalinar «te matamos», igual que cuando le habla a [[Vyre\|Vyre]].
-[[Syl\|Syl]] cuando está a punto de ser revivida por [[Kaladin\|Kaladin]]
-Dalinar cuando conecta a Kaladin con una visión de [[Tien\|Tien]] y posteriormente acepta el Cuarto Ideal de Kaladin.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] ·  · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+[[Cultivation\|Cultivation]] when she met Dalinar in the [[Valley\|Valley]].
+[[Odium\|Odium]] when preventing a Fused from taking [[Venli\|Venli's]] body, when he tells Dalinar "We killed you", and when he speaks to [[Vyre\|Vyre]].
+[[Syl\|Syl]] when about to be resurrected by [[Kaladin\|Kaladin]].
+Dalinar when Connecting Kaladin to a vision of [[Tien\|Tien]] and subsequently accepting Kaladin's Fourth Ideal.
 
 
-
-https://es.coppermind.net/wiki/Stormfather
+https://coppermind.net/wiki/Stormfather

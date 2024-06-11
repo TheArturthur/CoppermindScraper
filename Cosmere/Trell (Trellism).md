@@ -1,87 +1,63 @@
-
-
-|**Trell (trellismo)**|
+|**Trell**|
 |-|-|
 ||
-|**Capacidades**|Avatar de [[Autonom%C3%ADa\|Autonomía]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
+|**Abilities**|Avatar of [[Autonomy\|Autonomy]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-Para otros usos de la palabra Trell, ver [[Trell\|Trell]].
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+For other uses of Trell, see [[Trell\|Trell]].
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Contempló la pequeña púa que tenía en las manos y le pareció oír un nombre, el mismo que había pronunciado Miles *Cienvidas* antes de morir, hacía un año. El nombre de un dios muy antiguo... ¿Quién, o qué, era Trell?*”
-\-Marasi comienza a investigar sobre Tell concienzudamente.[2]
-
-
-**Trell** es un avatar de [[Autonom%C3%ADa\|Autonomía]] venerado por los seguidores del [[Trelagismo\|trelagismo]] y más tarde el **trellismo** en [[Scadrial\|Scadrial]]. Trell se convirtió en una fuerza de oposición contra [[Armon%C3%ADa\|Armonía]] en algún momento después del [[Catacendro\|Catacendro]].
-
-## Sumario
-
-1 Naturaleza. [[#Naturaleza]] 
-2 Historia. [[#Historia]] 
-3 Magia Asociada. [[#Magia Asociada]] 
-4 Religión. [[#Religi.C3.B3n]] 
-
-4. [[#Creencias]] 
-4. [[#Seguidores]] 
+>“*She looked down at the small spike in her hands, and heard a name from a year ago, spoken by Miles Hundredlives as he died. The name of a god from the old days... Who, or what, was *Trell*?*”
+\-Marasi begins researching Trell in earnest[2]
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+**Trell** is an avatar of [[Autonomy\|Autonomy]] worshiped by followers of [[Trelagism\|Trelagism]], and later **Trellism** on [[Scadrial\|Scadrial]]. Trell became a force of opposition against [[Harmony\|Harmony]] sometime after the [[Catacendre\|Catacendre]].
+
+## Contents
+
+1 Nature. [[#Nature]] 
+2 History. [[#History]] 
+3 Associated Magic. [[#Associated Magic]] 
+4 Religion. [[#Religion]] 
+
+4. [[#Beliefs]] 
+4. [[#Followers]] 
 
 
-## Naturaleza
-Trell es un avatar de Autonomía. Armonía utilizó una gran nebulosa rojiza alrededor de Scadrial para representar la intrusión de otra Esquirla cuando se encontró a [[Waxillium Ladrian\|Waxillium Ladrian]], y este la describió como una sensación de «terror y destrucción» ahogándole mientras la observaba. Su apariencia rojiza sugiere que la entidad está absorbiendo o corrompiendo la [[Investidura\|Investidura]] de otra Esquirla.
-
-## Historia
-El nombre Trell ha sido usado de muchas maneras a lo largo de los eones. Trell no es nativo de [[Yolen\|Yolen]].
-Las semillas de la personalidad de Trell empezaron a colocarse durante el periodo de tiempo del Scadrial Clásico, cuando Autonomía preparó el planeta para una posible incursión posterior. Tras el [[Catacendro\|Catacendro]] y las acciones de [[Kelsier\|Kelsier]], un grupo de individuos del [[Sistema scadriano\|sistema scadriano]] se interesó más por la posesión de poderes procedentes de fuera de este mundo. Estos grupos empezaron a investigar sobre los poderes otorgados por "antiguas deidades", y acabaron atrayendo la atención de [[Autonom%C3%ADa\|Autonomía]], que entonces empezó a utilizar de nuevo su personalidad de Trell. Más tarde, este grupo se convertiría en [[El Grupo\|el Grupo]].
-Después de esto, la religión del Grupo empezó a transformarse en una nueva forma de tregalismo, rebautizada como trellismo. Más allá del Trellismo, la primera prueba evidente de la intervención de Trell es el misterioso clavo hemalúrgico que emplea [[Paalm\|Paalm]] para ocultarse así misma de Armonía. De acuerdo con Armonía, Trell ha rodeado Scadrial y comenzó un asedio a sus defensas alrededor del año 340 [[Catacendro\|PC]].
-
-## Magia Asociada
-Un metal plateado con distintivas y oscuras manchas rojizas está asociado a Trell. Este metal ha sido utilizado como un clavo [[Hemalurgia\|hemalúrgico]] de distintas formas. Antes que nada, está la extraña manera en que un clavo de este metal oculta a su portador de Armonía. Además, el clavo también puede emplearse para robar atributos misteriosos y desconocidos previamente para los [[Kandra\|kandra]]. [[MeLaan\|MeLaan]] teorizó que Paalm pudo utilizar tanto [[Alomancia\|alomancia]] como [[Feruquimia\|feruquimia]] robada gracias a esos atributos. Por último, el uso de dicho clavo en [[Rian\|Rian]] parece provocar, si es que no fue otra cosa, algún tipo de trastorno psicológico. Es posible que [[Miles Dagouter\|Miles]] estuviera perforado con este metal también antes de morir.
-Existen [[Inmortal Sin Rostro\|Inmortales Sin Rostro]] de ojos rojos que parecen actuar como agentes de Trell. Sigue sin estar claro quiénes o qué son estos seres y cómo de parecidos son a los kandra normales.
-
-## Religión
->“*¡Sois idiotas! Un día, los [[Hombres de dorado y rojo\|hombres de dorado y rojo]], portadores del último metal, vendrán a por vosotros. Y seréis gobernados por ellos. Adorad. Adorad a Trell y esperad...*”
-\-Últimas palabras de Miles Dagouter.[16]
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-### Creencias
-Los seguidores del Trellismo parecen tener sus raíces en el [[Trelagismo\|Trelagismo]], tal y como se describe en las [[Palabras de Instauraci%C3%B3n\|Palabras de Instauración]]. El punto hasta el cual estas religiones están relacionadas es incierto, ya que las dos religiones no comparten ninguna otra similitud más allá del nombre de su dios. Los creyentes del Trellsimo adoran a una deidad llamada Trell, a quien consideran su creador de cierto modo. Al menos algunos de sus seguidores parecen creer en una profecía apocalíptica que sostiene que «los hombres de dorado y rojo, portadores del último metal» vendrán y gobernarán a la gente de [[Elendel\|Elendel]], y puede que a todo Scadrial.
-Miles Dagouter animó a la gente a venerar con intensidad a Trell, aunque los detalles de cómo esta deidad es adorada son desconocidos. Miles creía que Trell le creó «para enmendar errores» y que las enseñanzas de la religión probaban que era «especial» en algún sentido. No está claro hasta qué punto las creencias de Miles respecto a la justicia son comunes con las de otros creyentes de esta religión. Es probable que parte del núcleo de estas ideas sea propio del Trellsimo, dadas algunas relaciones con las filosofías de Paalm y [[Edwarn Ladrian\|Edwarn Ladrian]].
+## Nature
+Trell is the avatar of Autonomy. Harmony appears to use a vast, red haze around Scadrial to represent the intrusion of another Shard when meeting with [[Waxillium Ladrian\|Waxillium Ladrian]], and Wax described a sensation of "dread and destruction" choking him upon observing it. The appearance of red suggests that the entity is co-opting or corrupting the [[Investiture\|Investiture]] of another Shard.
 
-### Seguidores
-Pese a la mención de la religión en las Palabras de Instauración, esta es relativamente desconocida entre la población general del norte de Scadrial. [[Marasi Colms\|Marasi Colms]] tuvo complicaciones con su investigación sobre esta religión, pues hay pocas personas dispuestas a hablar abiertamente sobre su conocimiento de esta. Varios miembros del Grupo, tanto en altos como en bajos puestos, son seguidores del Trellismo, y la organización en sí puede existir por el mero propósito de servir a Trell. Se ha visto a supuestos seguidores del Trellismo tanto jurando por Trell como dándole las gracias a la deidad.
-«[[Inmortal Sin Rostro\|Inmortales Sin Rostro]]» con ojos rojos parecen trabajar en nombre de Trell, y se sabe que han visitado a seguidores de Trell en alguna ocasión. Paalm también parece ser un agente de Trell, aunque ni Paalm ni los Inmortales Sin Rostro de ojos rojizos muestran signos de ser creyentes del Trellismo.
+## History
+The name Trell has been used in many ways over the eons. Trell is not native to [[Yolen\|Yolen]].
+The seeds for Trell's personality began to be placed during the Classical Scadrial time period when Autonomy prepped the planet for a potential later incursion. Following the [[Catacendre\|Catacendre]] and the actions of [[Kelsier\|Kelsier]] a group of individuals in the [[Scadrian System\|Scadrian System]] grew more interested in possessing powers that stem from off-world. These individuals began to research about the powers granted by 'ancient deities,' these groups eventually attracted the attention of [[Autonomy\|Autonomy]] who then began using their Trell personna again. The group would later go on to become the [[Set\|Set]].
+Following this the religion of the Set began to morph into a newer form of Trelagism, renamed Trellism. Beyond Trellism, the first overt evidence of Trell's involvement came in the form of a mysterious spike used by [[Paalm\|Paalm]] to hide from Harmony's sight. According to Harmony, Trell had surrounded the planet of Scadrial and was laying siege to Harmony's defenses sometime around 340 [[Catacendre\|PC]].
 
-## Curiosidades
-Los planes de [[Brandon Sanderson\|Brandon]] respecto a Trell en libros futuros no estaban predefinidos durante la escritura de la trilogía original de *[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]*. Puesto que los libros de *Nacidos de la bruma Era 2* no estaban planeados en ese momento, no es ninguna sorpresa que Trell vaya a tener un papel mucho más importante en la trilogía *Nacidos de la burma Era 3*.
+## Associated Magic
+A silvery metal with distinctive, dark red spots is associated with Trell. This metal has been utilized as a [[Hemalurgic\|Hemalurgic]] spike in several ways. First and foremost is the strange way that such a spike blinds Harmony to the recipient of the spike. Additionally, the spike may also be used to steal mysterious attributes previously unknown to the [[Kandra\|kandra]]. [[MeLaan\|MeLaan]] theorized that Paalm was able to utilize stolen [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]] by means of these attributes. Lastly, the use of such a spike in [[Rian\|Rian]] appeared to cause, if nothing else, a level of psychological distress. It is possible that Miles was spiked with this metal as well, before he died.
+There are red-eyed [[Faceless Immortal\|Faceless Immortals]] which appear to act as agents on behalf of Trell. It is unclear who or what these beings are and how similar they are to typical kandra.
 
-## Notas
+## Religion
+>“*You are fools! One day, the [[Men of gold and red\|men of gold and red]], bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait ...*”
+\-Miles Dagouter's last words[17]
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-Este artículo estaba completo y revisado , pero tras la publicación de *[[El metal perdido\|El metal perdido]]*, ahora necesita volver a revisarse.
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · |
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
 
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### Beliefs
+Followers of Trellism appear to trace the religion's roots to [[Trelagism\|Trelagism]] as it is described in the [[Words of Founding\|Words of Founding]]. The extent to which these religions are related is unclear, as the two religions share no apparent similarities beyond the name of their god. Adherents of Trellism believe in a deity named Trell, whom they consider to be their creator in some capacity. At least some among them appear to believe in an apocalyptic prophecy which claims that "men of gold and red, bearers of the final metal" will arrive and rule over the people of [[Elendel\|Elendel]], and perhaps all of Scadrial.
+Miles Dagouter encouraged people to actively worship Trell, though the details on how Trell is worshiped are unknown. Miles believed that Trell created him "to see wrongs righted" and that the religion's teachings proved he was "special" in some way. It is unclear to what extent Miles' beliefs concerning social justice are held in common among other members of the religion. It is likely that some kernel of these ideas is pervasive in Trellism, given some relations to the philosophies of Paalm and [[Edwarn Ladrian\|Edwarn Ladrian]].
+
+### Followers
+Despite the religion's mention in the Words of Founding, it is relatively unknown among the general population of northern Scadrial. [[Marasi Colms\|Marasi Colms]] had a difficult time researching the religion, with few people willing to speak openly about their knowledge. Several members of the Set, in both high and low positions, are followers of Trellism, and the organization itself may exist for the purpose of serving Trell. Presumed followers of Trellism have been seen both swearing by and giving thanks to Trell.
+Red-eyed "[[Faceless Immortal\|Faceless Immortals]]" appear to work on behalf of Trell, and have been known to visit followers of Trell on occasion. Paalm also appears to be an agent of Trell, though neither Paalm or the red-eyed Faceless Immortals show any signs of being adherents of Trellism.
+
+## Trivia
+[[Brandon Sanderson\|Brandon's]] plans for Trell in future books were outlined during the writing of the first *[[Mistborn (series)\|Mistborn]]* trilogy. As the *[[Mistborn Era 2\|Mistborn Era 2]]* books were not planned at the time, it comes as no surprise that Trell will have a much more prominent role in the *[[Mistborn Era 3\|Mistborn Era 3]]* trilogy.
 
 
 
-https://es.coppermind.net/wiki/Trell_(Trellism)
+https://coppermind.net/wiki/Trell_(Trellism)

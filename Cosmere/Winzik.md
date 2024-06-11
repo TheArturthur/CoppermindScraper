@@ -1,85 +1,70 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ohz Burtim Winzik**|
 |-|-|
-|**Títulos**|Ministro de Servicios de Protección|
-|**Grupo**|[[Departamento de Servicios de Protecci%C3%B3n\|Departamento de Servicios de Protección]]|
-|**Especie**|[[Varvax\|Varvax]]|
-|**Mundo natal**|[[Visi%C3%B3n Estelar\|Visión Estelar]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Estelar\|Estelar]]*|
+|**Titles**|Minster of Protective Services|
+|**Groups**|[[Department of Protective Services\|Department of Protective Services]]|
+|**Species**|[[Varvax\|Varvax]]|
+|**Homeworld**|*Unknown*|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Starsight\|Starsight]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]*, *[[Perpetua\|Perpetua]]*, y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+**Ohz Burtim Winzik** is a [[Varvax\|varvax]] who lives on [[Starsight\|Starsight]] and the head of the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]].
 
-**Ohz Burtim Winzik** es un [[Varvax\|varvax]] que vive en [[Visi%C3%B3n Estelar\|Visión Estelar]] y jefe del [[Departamento de Servicios de Protecci%C3%B3n\|Departamento de Servicios de Protección]] de la [[Supremac%C3%ADa\|Supremacía]].
+## Contents
 
-## Sumario
+1 History. [[#History]] 
 
-1 Historia. [[#Historia]] 
-
-1. [[#El programa de cazas]] 
-1. [[#Ataque a Detritus]] 
-1. [[#Golpe militar]] 
-1. [[#Otros sistemas]] 
+1. [[#The Fighter Program]] 
+1. [[#Attack on Detritus]] 
+1. [[#Military Coup]] 
+1. [[#Other Schemes]] 
 
 
-2 Notas. [[#Notas]] 
+2 Notes. [[#Notes]] 
 
 
-## Historia
-### El programa de cazas
-Tanto Winzik como [[Cuna\|Cuna]] idearon el programa de cazas para hacer frente a los zapadores. Sin embargo, sus métodos eran diferentes. Winzik tenía su propia agenda secreta, y quería controlar a los zapadores para amenazar a otros planetas con ellos y mantenerlos a raya, mientras que Cuna quería integrar más plenamente a las especies "menores" en la Supremacía.
+## History
+### The Fighter Program
+Both Winzik and [[Cuna\|Cuna]] devised the fighter program to deal with the delvers. However, they had different methods of going about it. Winzik had his own secret agenda, wanting to control the delvers to threaten other planets with them to keep them in line, while Cuna wanted to more fully integrate "lesser" species into the Superiority.
 
->“*Caramba, caramba, qué agresiva. Emisaria, ¿es consciente del peligro que supone para nosotros? ¿Para su propia gente? ¿Sabe que, al hacer lo que hace, podría provocar una gran destrucción?*”
-\-Winzik a Spensa al conocer sus habilidades citónicas[1]
+>“*My my, so aggressive. Emissary, do you know the danger you pose to us? To your own people? Do you know that by doing what you do, you could cause great destruction?*”
+\-Winzik to Spensa upon learning of her cytonic abilities[1]
 
-Cuando Spensa llegó a Visión Estelar para el nuevo programa de formación de pilotos, Winzik se reunió con ella, junto con Cuna y [[Brade\|Brade]]. Winzik hizo que Brade comprobara las habilidades citónicas de Spensa, y Winzik le habló de las normas sobre citónicos en Visión Estelar. Spensa aceptó las normas. Cuando los futuros pilotos se presentaron a las pruebas para la nueva fuerza de combate, Winzik estuvo allí para dar un discurso y supervisar personalmente las pruebas. Le dio a Spensa un número de identificación temporal cuando ella no lo tenía, e intentó brevemente disuadirla de participar en la prueba. Les detalló las reglas de la batalla de práctica, y les dijo que abandonaran si sentían excesiva agresividad o imprudencia durante el combate. Los drones que utilizaron en el combate emplearon fuego real, y doce naves fueron destruidas durante el ejercicio. Varios de los pilotos estaban furiosos, y un [[Burl\|burl]], [[Gul'zah\|Gul'zah]], gritó airadamente a Winzik. Winzik le reprendió con calma por su agresión, y los miembros de seguridad [[Dione\|dione]] se llevaron al burl.
+When Spensa arrived on Starsight for the new pilot training program, Winzik met her, along with Cuna and [[Brade\|Brade]]. Winzik had Brade check Spensa for cytonic abilities, and Winzik then told Spensa about the regulations on cytonics on Starsight. Spensa agreed to the rules. When the prospective pilots were trying out for the new fighter force, Winzik was there to give a speech and personally oversee the tryouts. He gave Spensa a temporary identification number when she didn't have one, and briefly tried to discourage her from participating in the trial. Winzik detailed the rules of the practice battle, and told them to drop out if they felt excessive amounts of aggression or recklessness during the fight. The drones they used in the fight used live fire, and twelve ships were destroyed during the exercise. Several of the pilots were furious, and one [[Burl\|burl]], [[Gul'zah\|Gul'zah]], angrily shouted at Winzik. Winzik calmly reprimanded Gul'zah for their aggression, and the burl was taken away by [[Dione\|dione]] security members.
 
->“*¡Bienvenidos y gracias por su servicio! En el Departamento de Servicios de Protección estamos muy emocionados por entrenar a esta nueva y audaz fuerza. Ustedes serán nuestra primera línea de defensa contra un peligro que ha acechado a la Supremacía durante toda su existencia.*”
-\-Winzik a los miembros del programa de zapadores[6]
+>“*All right, everyone! Welcome and thank you for your service! We at the Department of Protective Services are very excited to be training this new bold force. You will be our first line of defense against a danger that has loomed above the Superiority for its entire existence.*”
+\-Winzik to the members of the delver program[6]
 
-Winzik también dirigió a los nuevos pilotos mientras entrenaban por primera vez en el laberinto del zapador. Cuando Spensa le llamó para preguntarle por las imágenes que estaba viendo en el laberinto, Winzik le respondió que no sabían realmente cómo funcionaba el laberinto, ya que ellos no lo habían diseñado. Cuando el Departamento de Servicios de Protección fue criticado por no contener bien a los humanos de Detritus, Winzik insistió en que la fuerza de los humanos era exagerada. Se siguió formando a los pilotos en el programa de zapadores, y numerosos funcionarios de la Supremacía se presentaron un día para observar. Winzik dificultó los desafíos para el escuadrón de Spensa, ya que quería mostrar la habilidad de Brade a los oficiales. Durante aquel día de entrenamiento se reveló cómo planeaba Winzik enfrentarse a los zapadores. Brade había estado formándose para desviarlos, y el plan de Winzik consistía en dirigir a uno de ellos hacia un planeta enemigo, utilizando a los pilotos del programa de zapadores como fuerza de distracción. Su primer objetivo planeado era Detritus.
+Winzik also directed the new pilots as they first trained on the delver maze. When Spensa called him to ask about the images she was seeing in the maze, Winzik replied that they didn't truly know how the maze worked, since they didn't design it. When the Department of Protective Services came under fire for not keeping the humans on Detritus well contained, Winzik insisted that the extent of the humans' strength was exaggerated. The training of the pilots in the delver program continued, and numerous Superioirty officials showed up to watch one day. Winzik made the challenges more difficult for Spensa's flight, wanting to show off Brade's skill to the officials. It was revealed during that day of training how Winzik planned to deal with delvers. Brade had been training to divert delvers, and Winzik's plan was to direct an oncoming delver towards an enemy planet, using the pilots in the delver program as a diversionary force. His first target was planned to be Detritus.
 
-### Ataque a Detritus
->“*Su misión será destruir sus fuerzas. Ese acto debería ser una demostración excelente de por qué la Supremacía necesita una fuerza de defensa más activa y bien entrenada.*”
-\-Winzik a su grupo de pilotos[9]
-
-
-Tras semanas de ejercicios y entrenamiento, Winzik ordenó a todos sus pilotos que se presentaran en la [[Pesos y Medidas\|Pesos y Medidas]] para atacar Detritus, con la intención de acabar con los humanos de una vez por todas. Cuando Spensa reveló su naturaleza como humana a Brade, esta gritó inmediatamente y avisó a Winzik. Mientras Spensa escapaba hacia Detritus, él desvió fuerzas para perseguirla. Winzik transmitió su ataque a la gente de Visión Estelar, planeando traer un zapador a Detritus y destruir a los humanos por completo. Con los humanos cada vez más fuertes y libres, harían que él y su departamento parecieran ineptos. Así que pretendía consolidar su reputación y su fuerza. Mientras se producía la lucha, también ordenó el asalto a la embajada de Spensa, y [[M-Bot\|M-Bot]] fue desmantelado y destruido en su mayor parte. Hizo que Brade gritara repetidamente a la ninguna-parte, agitando a los zapadores y provocando la llegada de uno de ellos.
-El plan de Winzik fracasó después de que Spensa redirigiera el zapador a Visión Estelar, y con el tiempo lo enviara de vuelta a la ninguna-parte. Se organizaron juicios para Winzik, con opiniones encontradas en el gobierno de la Supremacía sobre sus acciones. Aún tenía cierto apoyo, y afirmaba que los humanos habían convocado al zapador en Detritus, y que Morriumur era un héroe. Muchos, incluide Cuna, no le creyeron.
-
-### Golpe militar
->“*Llevo meses advirtiendo de esta amenaza sin que me hicieran ningún caso. Caramba, caramba. Nunca debimos permitir que los humanos se enquistaran. Durante todos estos años, le alte ministre y el Departamento de Integración de Especies me han tenido con las manos atadas, impidiéndome hacer lo que era necesario.*”
-\-Winzik en una emisión durante su golpe de estado[14]
+### Attack on Detritus
+>“*Your job will be to destroy their forces. This should prove to be an excellent display of why the Superiority needs a more active and well-trained defense force.*”
+\-Winzik to his group of pilots[10]
 
 
-Mientras Cuna visitaba a Spensa en el hospital, Winzik organizó un golpe militar en Visión Estelar. Hizo que sus soldados intentaran capturar a Cuna y Spensa, pero ella consiguió esconder al primero y escapar del hospital. Winzik veía a Spensa como una amenaza y quería matarla. Después de que Brade hiciera explotar una unidad de transporte de la Supremacía, probablemente por orden de Winzik, éste hizo creer que Spensa se había rebelado, matando a le ministre Cuna y disparando contra civiles. Utilizó esto como prueba para decir que los humanos eran realmente los monstruos peligrosos que siempre había dicho que eran. Pidió que se declarara el estado de emergencia y que se le otorgara el poder de eliminar a los humanos.
-Es de suponer que recibió esos poderes poco después, pues tras descubrirse que los humanos tenían [[Jorgen Weight\|un segundo citónico]], envió una nave de combate de la Supremacía con un arma planetaria para destruir Detritus. Sin embargo, la táctica fracasó, después de que el Cuerpo de Ingenieros de Detritus consiguiera levantar el escudo alrededor del planeta. El golpe de Winzik había obligado a Cuna y a varios de sus ayudantes a huir de Visión Estelar, escondiéndose en el puesto de investigación de [[Alcance Solar (estaci%C3%B3n)\|Alcance Solar]]. Winzik envió una fuerza de naves para asediar la posición de Cuna, pero este y sus ayudantes fueron rescatados por el Escuadrón Cielo.
+After weeks of exercises and training, Winzik ordered all of his pilots to report to the [[Weights and Measures\|Weights and Measures]] for an attack on Detritus, intending to finish the humans off once and for all. When Spensa revealed her nature as a human to Brade, Brade immediately yelled and told Winzik. As Spensa escaped towards Detritus, Winzik diverted forces to chase her down. Winzik broadcasted his attack to the people back on Starsight, planning to bring a delver to Detritus and destroy the humans completely. With the humans growing stronger and freer, they would make him and his department look inept. So he intended to solidify his reputation and his strength. While the fight was occurring, he also ordered Spensa's embassy raided, and [[M-Bot\|M-Bot]] was stripped down and mostly destroyed. He had Brade scream repeatedly into the nowhere, agitating the delvers and causing one to arrive.
+Winzik's plan failed after Spensa redirected the delver to Starsight, and eventually sent it back to the nowhere. Trials were arranged for Winzik, with conflicting views in the Superioirty government about his actions. He still had some support, and he claimed that the humans had summoned the delver to Detritus, and that Morriumur was a hero. Many, including Cuna, didn't believe him.
 
-### Otros sistemas
-Winzik pronto se involucró en la política de [[ReAlba (planeta)\|ReAlba]]. Exigió a los [[UrDail\|UrDail]] que entregaran a los humanos que creía que albergaban. Sospechaba que habían estado trabajando directamente con Spensa. Winzik apoyó a la facción Unidad en ReAlba y envió una lanzadera de la Supremacía con un inhibidor citónico para ayudar a capturar a Alanik. Además, sus fuerzas ayudaron a acorralar y capturar a los pilotos de la facción Independencia. Una vez capturado su líder de la Independenci, [[Rinakin\|Rinakin]], Winzik utilizó tecnología holográfica robada a M-Bot para sustituirlo por un impostor, que se puso públicamente del lado de la Supremacía.
-Por la misma época, Winzik inició unas supuestas conversaciones de paz con la Asamblea Nacional de Detritus. A cambio del cese de las hostilidades, quería que los humanos entregaran a sus citónicos para "entrenarlos". También exigió que los humanos entregaran sus [[Taynix\|taynix]]. Durante una de las conversaciones de paz, Winzik sustituyó al [[Matthew Cobb\|almirante Cobb]] por un impostor, utilizando de nuevo la tecnología holográfica robada.
-Los planes de Winzik para ReAlba, las acciones de Alanik y el Escuadrón Cielo rompieron el control de la facción Unidad y de la Supremacía sobre ReAlba. Aunque su estratagema allí fracasó, la Asamblea Nacional en Detritus aceptó las condiciones de Winzik y llevó a Cuna y [[Becca Nightshade\|Becca Nightshade]] a una nave de la Supremacía para una última conversación de paz. [[Jeshua Weight\|Jeshua Weight]], junto con muchos otros miembros de la Asamblea Nacional, también acudieron a la nave. Winzik los hizo encerrar en una habitación de la nave, y colocó una bomba para hacerlos explotar. Aunque el Escuadrón Cielo descubrió el plan de Winzik y rescató a Cuna, Cobb y la yaya, los miembros cautivos de la Asamblea Nacional fueron destruidos por la bomba.
-Cuando los miembros del Escuadrón Cielo fueron a [[Orilla Perpetua (planeta)\|Orilla Perpetua]] para reunirse con los [[Kitsen\|kitsen]] y recuperar a la yaya y a Cobb, Winzik envió una gran fuerza para atacar el planeta en represalia. Las naves atacaron directamente las ciudades, principalmente la capital, [[Manantial So%C3%B1ador\|Manantial Soñador]], incluyendo una [[Aniquiladora\|aniquiladora]]. Sin embargo, su ataque fue frustrado cuando Jorgen y [[Rodge McCaffery\|Gali]] consiguieron hacer hipersaltar todo el planeta de Detritus hasta Orilla Perpetua para unirse a la lucha.
+### Military Coup
+>“*I have been warning about this threat for months, and have been disregarded. The humans should never have been allowed to fester. All these years, the high minister and the Department of Species Integration tied my hands, preventing me from doing what needed to be done.*”
+\-Winzik on a broadcast during his coup[15]
 
->“*Soy un ruido que puede terminar con ese dolor. Puedo detener a todos los citónicos de la galaxia. Puedo ocuparme de que ninguno de ellos vuelva a molestarlos jamás. Vuelva a… corromperlos jamás.*”
-\-La promesa de Winzik a los zapadores[26]
 
-A pesar de sus fracasos anteriores, Winzik continuó con sus planes de utilizar a los zapadores. Se comunicó con ellos, hablando citónicamente a través de Brade. Les ofreció un trato, diciendo que si le ayudaban a consolidar su posición de poder, atacando sólo donde él quisiera, se desharía de todos los citónicos que les molestaban. Spensa espió la primera conversación con los zapadores, y Winzik y Brade la engañaron la siguiente vez. Brade y Spensa se enfrentaron, generando mucho ruido citónico. Winzik lo utilizó para demostrar su punto de vista, y los zapadores aceptaron su propuesta. Probó primero a los zapadores haciendo que uno atacara un planeta despoblado, por si no los tenía totalmente controlados.
+While Cuna was visiting Spensa in the hospital, Winzik staged a military coup on Starsight. He had his soldiers try and capture Cuna and Spensa, but Spensa managed to hide Cuna and escape the hospital. Winzik saw Spensa as a threat, and wanted her killed. After Brade blew up a Superiority transport on what was likely Winzik's orders, Winzik made it sound like Spensa had gone rogue, killing Minister Cuna and shooting at civilians. He used this as evidence to say that the humans really were the dangerous monsters he'd always said they were. He petitioned for a state of emergency to be declared, and for himself to be given the power to eliminate the humans.
+He presumably received those powers soon after, for after the humans were discovered to have [[Jorgen Weight\|a second cytonic]], he sent a Superiority battleship with a planetary weapon to destroy Detritus. The gambit failed however, after Detritus' Engineering Corps managed to get the shield up around the planet. Winzik's coup had forced Cuna and several of their assistants to flee Starsight, hiding at the research outpost of [[Sunreach (station)\|Sunreach]] Winzik sent a force of ships to besiege Cuna's position, but Cuna and their assistants were rescued by Skyward Flight.
 
-## Notas
+### Other Schemes
+Winzik soon became involved with the politics of [[ReDawn (planet)\|ReDawn]]. He demanded that the [[UrDail\|UrDail]] hand over the humans he thought they were harboring. He suspected that they had been working directly with Spensa. Winzik backed the Unity faction on ReDawn, and sent a Superiority shuttle with a cytonic inhibitor to help capture Alanik. In addition, his forces helped round up and capture pilots in the Independence faction. Once the Independence leader, [[Rinakin\|Rinakin]], was captured, Winzik used stolen holographic technology from M-Bot to replace him with an imposter, who publicly sided with the Superiority.
+Around the same time, Winzik initiated supposed peace talks with the National Assembly on Detritus. In return for a halt to hostilities, he wanted the humans to turn over their cytonics for "training". He also demanded that the humans turn over their [[Taynix\|taynix]]. During one of the peace talks, Winzik had [[Matthew Cobb\|Admiral Cobb]] replaced by an imposter, again using the stolen holographic technology.
+Winzik's plans for ReDawn, the actions of Alanik and Skyward Flight breaking the Unity faction's and the Superiority's control on ReDawn. Though his ploy on ReDawn failed, the National Assembly back on Detritus agreed to Winzik's terms, and brought Cuna and [[Becca Nightshade\|Becca Nightshade]] to a Superiority ship for a last peace talk. [[Jeshua Weight\|Jeshua Weight]], along with many other members of the National Assembly, came to the ship as well. Winzik had them locked into a room on the ship, and set a bomb on the ship to blow them up. Though Skyward Flight figured out Winzik's scheme and rescued Cuna, Cobb, and Gran-Gran, the captive members of the National Assembly were blown up by the bomb.
+When members of Skyward Flight went to [[Evershore (planet)\|Evershore]] to meet with the [[Kitsen\|kitsen]] and retrieve Gran-Gran and Cobb, Winzik sent a large force to attack Evershore in retribution. The ships attacked the cities directly, mainly the capital of [[Dreamspring\|Dreamspring]], the attack including a [[Lifebuster\|lifebuster]]. However, his attack was foiled when Jorgen and [[Rodge McCaffery\|Rig]] managed to hyperjump the entire planet of Detritus to Evershore to join the fight.
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] ·  · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+>“*I am the noise that end that pain. I can round up every cytonic in the galaxy. I can make it so none of them ever bother you again. Never... corrupt you again.*”
+\-Winzik's promise to the delvers[27]
+
+Despite his previous failures, Winzik continued his plans to use the Delvers. He communicated with the delvers, speaking cytonically through Brade. He offered a deal with them, saying that if they helped him solidify his position of power, only attacking where he wanted, he would get rid of all the cytonics annoying them. Spensa cytonically eavesdropped on the first conversation with the delvers, and Winzik and Brade tricked her the next time. Brade and Spensa clashed, generating a lot of cytonic noise. Winzik used this to demonstrate his point further, and the delvers agreed to his proposition. Winzik first tested out the delvers by having one attack an unpopulated planet, in case he didn't have a full hold on them.
 
 
 
-https://es.coppermind.net/wiki/Winzik
+https://coppermind.net/wiki/Winzik

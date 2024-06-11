@@ -1,44 +1,30 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Waren**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Diolen\|Diolen]]|
-|**Parientes**|[[Idan\|Idan]] |
-|**Religión**|[[Shu-Dereth\|Shu-Dereth]], [[Shu-Korath\|Shu-Korath]] |
-|**Etnia**|[[A%C3%B3nico\|Aónico]]|
-|**Nacionalidad**|[[De Arelon\|de Arelon]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**Family**|
+|**Parents**|[[Diolen\|Diolen]]|
+|**Relatives**|[[Idan\|Idan]] |
+|**Religion**|[[Shu-Dereth\|Shu-Dereth]], [[Shu-Korath\|Shu-Korath]] |
+|**Ethnicity**|[[Aonic\|Aonic]]|
+|**Nationality**|[[Arelene\|Arelene]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
->“*Hará falta tiempo para acabar con una religión e instaurar una nueva en su lugar.*”
-\-Waren, a Hrathen[1]
+>“*It will take time to unseat an entire religion and set up a new one in its place.*”
+\-Waren, to Hrathen[1]
 
 
-Lord **Waren** es un noble de [[Arelon\|Arelon]] en [[Sel\|Sel]]. Su conversión al [[Shu-Dereth\|Shu-Dereth]] es una parte importante del plan del gyorn [[Hrathen\|Hrathen]] para convertir a todo Arelon.
+Lord **Waren** is a noble in [[Arelon\|Arelon]] on [[Sel\|Sel]]. His conversion to [[Shu-Dereth\|Shu-Dereth]] is an important part of the gyorn [[Hrathen\|Hrathen's]] plan to convert all of Arelon.
 
-## Apariencia y personalidad
-Waren es delgado y tiene el pelo rubio casi blanco. Es bastante joven, presumiblemente más joven que [[Sarene\|Sarene]]. Es inteligente y astuto, con una aguda comprensión del poder y las ventajas políticas. Se comporta con un aire de logro y control. Antes de su conversión al Shu-Dereth, era ampliamente conocido en Arelon como un piadoso [[Shu-Korath\|korathi]], lo que le había granjeado notoriedad entre la nobleza. Muchos creen que su extrema piedad era más oportunista que genuina, y que la utilizaba para obtener beneficios políticos.
+## Appearance and Personality
+Waren is thin and has nearly-white blond hair. He is quite young, presumably younger than [[Sarene\|Sarene]]. He is intelligent and shrewd, with a keen understanding of power and political advantage. He carries himself with an air of accomplishment and control. Before his conversion to Shu-Dereth, he was widely known in Arelon as a pious [[Shu-Korath\|Korathi]], which had gained him notoriety among the nobility. Many people believe that his extreme piety was more opportunistic than genuine, and used for political gain.
 
-## Historia
-Waren es el hijo mayor del barón [[Diolen\|Diolen]], propietario de la [[/wiki/Arelon#Plantaciones]]. Se desconoce el nombre de su difunta madre, pero era una conocida de [[Eshen\|Eshen]], que la consideraba una mujer decente y una excelente costurera. El nombre de Waren se basa en [[/wiki/Aon#Are]].
-Cuando [[Hrathen\|Hrathen]] llegó a Arelon con la intención de convertir la nación al Shu-Dereth, comenzó por reunirse con varios jóvenes nobles en [[Kae\|Kae]], entre ellos Waren. Hrathen se sorprendió de que hubiera acompañado a su primo [[Idan\|Idan]] a la reunión debido a la reputación que tenía. Aunque Hrathen podía ver que Waren no era realmente religioso, se dio cuenta de que el joven podía ser una herramienta valiosa para él, y se puso manos a la obra para convencerle de que convertirse le aportaría poder e influencia. A Waren le preocupaba que se tardara demasiado en desbancar el poder del Shu-Korath en Arelon, pero Hrathen le convenció de que el declive del Shu-Korath se venía produciendo desde hacía mucho tiempo, poniendo como ejemplo la caída de la [[Rep%C3%BAblica de Duladel\|República de Duladel]]. Waren salió de la reunión con un nuevo respeto por Hrathen.
-Más tarde, Waren afirmó haber tenido una visión de [[Jaddeth\|Jaddeth]] en la que se le ordenaba convertirse al Shu-Dereth. Su abrupta conversión tras años de estricta adhesión al Shu-Korath causó revuelo entre los nobles de Arelon. En un momento dado, fue el tema de cotilleo entre las mujeres del séquito de [[Eshen\|Eshen]], incluida [[Sarene\|Sarene]]. Cuando Sarene asistió a un baile en la finca del duque [[Telrii\|Telrii]] con [[Shuden\|Shuden]], Waren asistió como parte del grupo de Hrathen. Aunque técnicamente no debía estar en la habitación más exclusiva de [[Iadon\|Iadon]] en la fiesta, Waren aprovechó su proximidad a Hrathen para asistir de todos modos. Shuden señaló a Sarene que la conversión de Waren era preocupante debido a su reputación, que Shuden creía oportunista más que genuina. Sarene tomó la conversión de Waren como una señal peligrosa para la nación, ya que marcaba un paso importante en el plan de Hrathen.
-[[Dilaf\|Dilaf]] pronto tomó como [[Odiv\|odivs]] a Waren y a muchos otros partidarios clave de Hrathen, en un movimiento calculado para socavar y desestabilizar al gyorn. Después de que Hrathen recuperara cierto control sobre la iglesia derethi en Arelon, obligó a Dilaf a relevar a sus odiv, incluido Waren, de sus juramentos. Este se convirtió entonces en un [[/wiki/Shu-Dereth#Cadena hasta Jaddeth]] para Dilaf. Se desconoce su destino tras la [[Invasi%C3%B3n de Arelon\|invasión de Arelon]] y la restauración de Elantris.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:51, 14 de marzo de 2023 (UTC)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## History
+Waren is the oldest son of Baron [[Diolen\|Diolen]], the owner of [[/wiki/Arelon#Plantations]]. His deceased mother's name is unknown, but she was an acquaintance of [[Eshen\|Eshen]], who considered her a decent woman and an excellent knitter. Waren's name is based on [[/wiki/Aon#Are]].
+When [[Hrathen\|Hrathen]] came to Arelon with the intention of converting the nation to Shu-Dereth, he began by meeting with several young nobles in [[Kae\|Kae]], including Waren. Hrathen was surprised that he had accompanied his cousin [[Idan\|Idan]] to the meeting because of Waren's reputation. Although Hrathen could see that Waren was not actually religious, he realized that the young man could be a valuable tool to him, and set to work convincing him that converting would bring him power and influence. Waren was concerned that it would take too long to unseat the power of Shu-Korath in Arelon, but Hrathen convinced him that the decline of Shu-Korath had been happening for a long time, using the fall of the [[Duladel Republic\|Duladel Republic]] as an example. Waren left the meeting with a newfound respect for Hrathen.
+Later, Waren claimed to have seen a vision of [[Jaddeth\|Jaddeth]] commanding him to convert to Shu-Dereth. His abrupt conversion after years of strict adherence to Shu-Korath caused a stir among the nobles of Arelon. At one point, he was the topic of gossip among the women in [[Eshen\|Eshen's]] retinue, including [[Sarene\|Sarene]]. When Sarene attended a ball at Duke [[Telrii\|Telrii's]] estate with [[Shuden\|Shuden]], Waren was in attendance as part of Hrathen's group. Though he wasn't technically supposed to be in [[Iadon\|Iadon's]] more exclusive room at the party, Waren used his proximity to Hrathen to attend anyway. Shuden noted to Sarene that Waren's conversion was worrisome due to his reputation, which Shuden believed to be opportunistic rather than genuine. Sarene took Waren's conversion as a dangerous sign for the nation, since it marked an important step in Hrathen's plan.
+[[Dilaf\|Dilaf]] soon took Waren and many of Hrathen's other key supporters as [[Odiv\|odivs]] in a calculated move intended to undermine and destabilize the gyorn. After Hrathen wrested back some control over the Derethi church in Arelon, he forced Dilaf to relieve his odivs, including Waren, of their oaths. Waren then became a [[/wiki/Shu-Dereth#The Great Chain]] to Dilaf instead. His fate following the [[Invasion of Arelon\|invasion of Arelon]] and restoration of Elantris is unknown.
 
 
 
-https://es.coppermind.net/wiki/Waren
+https://coppermind.net/wiki/Waren

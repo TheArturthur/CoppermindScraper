@@ -1,219 +1,203 @@
-
-
-|**Esquirla**|
+|**Shard**|
 |-|-|
 ||
-|**Relacionado con**|[[Adonalsium\|Adonalsium]], [[Investidura\|Investidura]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Adonalsium\|Adonalsium]], [[Investiture\|Investiture]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]* y *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-*Esta página contiene información sobre las Esquirlas de Adonalsium. Para información referente al armamento utilizado en Roshar, véase [[Armadura esquirlada\|armadura esquirlada]] o [[Espada esquirlada\|espada esquirlada]]*.
->“*Las Esquirlas no son Dios, sino fragmentos de Dios. Ruina, Conservación, Autonomía, Cultivación, Devoción… Hay dieciséis.*”
-\-Khriss.[1]
-
-
-Las **Esquirlas de [[Adonalsium\|Adonalsium]]**, o **Esquirlas** para abreviar, son dieciséis piezas del poder de la creación. Cada una de ellas recibe el nombre de una característica o ideal específico que representa el propósito o la motivación principal de la Esquirla. Una persona que ha tomado el poder de un fragmento se conoce como Recipiente.
-Las Esquirlas son las entidades más poderosas que se conocen en el [[Cosmere\|Cosmere]], y, a todos los efectos, son los dioses del Cosmere. La mayoría de los sistemas mágicos, si no todos, están relacionados con ellos.
-
-## Sumario
-
-1 Introducción. [[#Introducci.C3.B3n]] 
-
-1. [[#Poder]] 
-1. [[#Recipiente]] 
+This page contains information for the Shards of Adonalsium. For information regarding the armaments used on Roshar, see [[Shardblade\|Shardblade]] or [[Shardplate\|Shardplate]].
+>“*The Shards are not God, but they are *pieces* of God. Ruin, Preservation, Autonomy, Cultivation, Devotion...There are sixteen of them.*”
+\-Khriss[1]
 
 
-2 Historia. [[#Historia]] 
-3 Esquirlas conocidas. [[#Esquirlas conocidas]] 
+The **Shards of [[Adonalsium\|Adonalsium]]**, or **Shards** for short, are sixteen pieces of the power of creation. They are each named after a specific characteristic or ideal that represents the Shard's primary purpose or motivation. A person who has taken up the power of a Shard is the **Vessel** of that Shard.
+The Shards are the most powerful known entities in the [[Cosmere\|cosmere]], and for all intents and purposes, serve as the gods of the cosmere. Most if not all magic systems are related to them.
 
-3. [[#Esquirlas originales]] 
-3. [[#Esquirlas h.C3.ADbridas]] 
-3. [[#Esquirla sin nombre]] 
+## Contents
 
+1 Introduction. [[#Introduction]] 
 
-4 Poderes y habilidades. [[#Poderes y habilidades]] 
-
-4. [[#Poderes individuales]] 
-
-4. [[#Movimiento]] 
-4. [[#Comunicaci.C3.B3n]] 
-4. [[#Capacidad mental]] 
-4. [[#Creaci.C3.B3n de sapiencia]] 
-4. [[#Generaci.C3.B3n de magia]] 
-4. [[#Visi.C3.B3n del futuro]] 
+1. [[#Power]] 
+1. [[#Vessel]] 
 
 
+2 History. [[#History]] 
+3 Known Shards. [[#Known Shards]] 
+
+3. [[#Original Shards]] 
+3. [[#Hybrid Shards]] 
+3. [[#Unnamed Shard]] 
 
 
-5 Formas y subdivisiones. [[#Formas y subdivisiones]] 
+4 Powers and Abilities. [[#Powers and Abilities]] 
 
-5. [[#Lascas]] 
-5. [[#Astillas]] 
+4. [[#Individual Powers]] 
+
+4. [[#Movement]] 
+4. [[#Communication]] 
+4. [[#Mind Capacity]] 
+4. [[#Creating Sapience]] 
+4. [[#Magic Generation]] 
+4. [[#Future Sight]] 
 
 
-6 Campeón. [[#Campe.C3.B3n]] 
-7 Ver también. [[#Ver tambi.C3.A9n]] 
-8 Notas. [[#Notas]] 
 
 
-## Introducción
+5 Forms and Subdivisions. [[#Forms and Subdivisions]] 
+
+5. [[#Slivers]] 
+5. [[#Splinters]] 
+
+
+6 Champion. [[#Champion]] 
+7 See Also. [[#See Also]] 
+8 Notes. [[#Notes]] 
+
+
+## Introduction
   <<Honor\|Honor>>
->“*Ruina y Conservación habitaban poder y energía del mismo modo que un hombre habita carne y sangre.*”
-\-Sazed.[4]
+>“*Ruin and Preservation inhabited power and energy in the same way a person inhabits flesh and blood.*”
+\-Sazed[4]
 
 
-### Poder
-Cada Esquirla es un fragmento del poder de la creación con una motivación específica, como pueden ser destruir o conservar. Cada uno de esos fragmentos comenzó su existencia con el mismo nivel de poder, sin embargo, con el paso del tiempo muchos han disminuido, ya sea por conflictos o por el acto de Investir un mundo, es decir, imbuirlo de [[Investidura\|Investidura]]. Cada Esquirla tiene su propia Investidura, aunque una Esquirla puede apropiarse y adaptar la Investidura de otra Esquirla, volviéndola notablemente roja.
-Investir un mundo conlleva numerosos efectos, sobre todo la creación de un sistema de magia ligado a la Esquirla. Aunque una Esquirla no tiene control total sobre el funcionamiento del sistema mágico o sobre lo que hace, puede manipular su mecánica hasta cierto punto. Además, la presencia de una Esquirla conduce a la formación de una [[Perpendicularidad\|perpendicularidad]], un pozo de la Investidura de la Esquirla que atraviesa los tres [[Teor%C3%ADa Realm%C3%A1tica\|Reinos]], permitiendo el [[Saltamundos\|salto entre mundos]]. La Investidura de la Esquirla también puede manifestarse directamente en el mundo de otras maneras. Ejemplos de estas son el [[Atium\|atium]] y [[Lerasium\|lerasium]] en [[Scadrial\|Scadrial]], las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]] en [[Nalthis\|Nalthis]], o los numerosos [[Spren\|spren]] de [[Roshar\|Roshar]].
-Es posible que una Esquirla se descomponga en múltiples Esquirlas más pequeñas con Intenciones diferentes. Actualmente se desconoce si esto ha ocurrido alguna vez, o cómo se lograría.
+### Power
+Each Shard is a piece of the power of creation with a specific motivation, such as to destroy or to preserve. Those fragments each began their existence with equal level of power; however, over time many have diminished, whether through conflict or by the act of Investing a world -- imbuing it with [[Investiture\|Investiture]]. Each Shard has its own Investiture; while a Shard can co-opt the Investiture of another Shard, that Investiture can become noticeably red.
+Investing in a world will produce numerous effects, most notably the creation of a magic system tied to the Shard. While a Shard doesn't have complete control over how the magic system functions or what it does, it can manipulate its mechanics to an extent. Moreover, the presence of a Shard leads to the formation of a [[Perpendicularity\|Perpendicularity]], a well of the Shard's Investiture that pierces all three [[Realmatic Theory\|Realms]], allowing for [[Worldhopping\|worldhopping]]. The Shard's Investiture can also manifest directly in the world in other ways; examples of such manifestations are [[Atium\|atium]] and [[Lerasium\|lerasium]] on [[Scadrial\|Scadrial]], the [[Tears of Edgli\|Tears of Edgli]] on [[Nalthis\|Nalthis]], or the many [[Spren\|spren]] of [[Roshar\|Roshar]].
+It is possible for a Shard to be broken down into multiple smaller Shards with different Intents. It is currently unknown whether this has ever happened before, or how it would be accomplished.
 
-### Recipiente
-Para funcionar correctamente, un Esquirla requiere un **Recipiente** –– una mente que la controle (perteneciente a una criatura sapiente del [[Reino F%C3%ADsico\|Reino Físico]], como un humano––. Actualmente solo hay una Esquirla tomada por una dragona, ([[Cultivaci%C3%B3n\|Cultivación]]). No es necesario ser capaz de usar la Investidura para convertirse en un Recipiente, pero dicha habilidad ayuda. Lo que se necesita para convertirse en un Recipiente es, sobre todo, la [[Conexi%C3%B3n\|Conexión]] con la Esquirla en cuestión, ya sea forjada artificialmente o impulsada por una inclinación natural hacia la intención de la Esquirla. Tras la Ascensión, un Recipiente pierde su conexión con su especie anterior: por ejemplo, un humano que Ascendió ya no se considera humano. Sin embargo, es posible que los Recipientes se reproduzcan.
-El acto de convertirse en un Recipiente se llama **Ascensión**, y hace que el cuerpo del Recipiente se evapore y su mente se expanda. A partir de entonces, el Recipiente y la Esquirla están entrelazados: el Recipiente consigue establecer el curso general de cómo se definirá el poder de la Esquirla, y se alimenta del poder de esta para permanecer vivo, pero el poder de la Esquirla es la fuerza motriz entre los dos. A lo largo de los siglos, la mente del Recipiente empieza a cambiar para ajustarse más perfectamente a la intención de la Esquirla. Si un Recipiente lucha contra la Intención de la Esquirla, pueden quedar vulnerables. Si el Recipiente renunciara a la Esquirla, la influencia de la Esquirla en su mente se desvanecería con el tiempo.
-Una Esquirla se puede matar astillándola, rompiendo su poder en trozos más pequeños, llamados [[Astilla\|Astillas]]; la forma más fácil de conseguirlo es matando la mente de la Esquirla. La muerte real de un Recipiente, sin embargo, puede tardar hasta cientos de años. Si la Esquirla se toma antes de que el Recipiente muera completamente, se puede evitar la astillación; sino, el poder se volverá salvaje y peligroso. Una Esquirla sin un Recipiente acabará adquiriendo conciencia. Cuando un Recipiente muere, el cuerpo original de la persona se materializa y cae al suelo como un cadáver. Sin embargo, el Recipiente no envejece rápidamente, ya que la inmortalidad de las Esquirlas es diferente a la de otros métodos, como puede ser la composición de atium.
-Es posible que los Recipientes se separen de sus Esquirlas sin morir o sin que se astillen las Esquirlas que poseían. Si esto ocurre, después de la muerte del Recipiente, éste es capaz de resistir la atracción hacia el [[M%C3%A1s All%C3%A1\|Más Allá]].
-Un Recipiente mentalmente enfermo puede afectar a la intención de la Esquirla.
+### Vessel
+To function properly, a Shard requires a **Vessel** -- a mind to control it, belonging to a sapient creature from the [[Physical Realm\|Physical Realm]], such as a human. Currently, there is only one Shard held by a Dragon ([[Cultivation\|Cultivation]]). One doesn't need to be able to use Investiture in order to become a Vessel, but the ability does help. What becoming a Vessel requires above all is [[Connection\|Connection]] to the Shard in question, whether forged artificially or driven by a natural inclination towards the Shard's intent. Upon Ascension, a Vessel loses its connection to its former species -- for example, a human who Ascended is no longer considered human. However, it is possible for Vessels to reproduce.
+The act of becoming a Vessel is called **Ascension**, and causes the Vessel's body to vaporize and mind to expand. From then on, the Vessel and the Shard are intertwined; the Vessel gets to set some general course of how the Shard's power is defined, and feeds off the Shard's power to remain alive, but the Shard's power is the driving force between the two. Over centuries, the Vessel's mind begins to change to fit the Shard's intent more perfectly. If a Vessel fights against their Shards intent, they can be left vulnerable. If the Vessel were to give up the Shard, the Shard's influence on their mind would fade over time.
+A Shard can be killed by Splintering it, breaking its power down further into smaller pieces, called [[Splinter\|splinters]]; the easiest way to achieve that is by killing the mind. The actual death of a Vessel, however, can take up to hundreds of years. If the Shard is taken up before the Vessel dies completely, splintering can be prevented; if not, the power will become wild and dangerous. A Shard without a Vessel will eventually gain sentience. When a Vessel dies, the person's original body materializes and falls to the ground as a corpse. However, it does not age rapidly, since Shardic immortality is different from other methods like atium compounding.
+It is possible for Vessels to be separated from their Shards without dying or Splintering the Shards they held. If this happens, then after the Vessel's death, it is able to resist the pull into the [[Beyond\|Beyond]].
+A mentally ill Vessel can affect the Shard's intent.
 
-## Historia
+## History
 
->“*He rebuscado e investigado, y solo he podido encontrar un nombre: Adonalsium. Quién, o qué era, eso aún no lo sé.*”
-\-Sazed.[29]
+>“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
+\-Sazed[29]
 
 
-Se desconoce qué era exactamente [[Adonalsium\|Adonalsium]] aunque se ha mencionado en numerosas ocasiones como el poder de la creación, lo que sugiere que es el dios progenitor del [[Cosmere\|Cosmere]]. En algún momento del pasado lejano, en el planeta de [[Yolen\|Yolen]], dieciséis personas conspiraron para matarlo y lo consiguieron en un acontecimiento conocido como la [[Fragmentaci%C3%B3n de Adonalsium\|Fragmentación de Adonalsium]]. Algunas de esas personas tenían una relación romántica y otras estaban emparentadas entre sí.  Todas ellas fueron mortales en algún momento.
-Tras la Fragmentación, el poder que componía Adonalsium se rompió en dieciséis trozos, cada uno de ellos polarizado en un aspecto concreto, como [[Ruina\|Ruina]] o [[Dotaci%C3%B3n\|Dotación]]. Esos fragmentos, cada uno de ellos de igual poder, pasaron a conocerse como las Esquirlas. Los dieciséis asesinos de Adonalsium tomaron cada uno uno de los fragmentos, Ascendiendo y convirtiéndose en los primeros Recipientes. Tras su Ascensión, cada uno ellos partió de Yolen. Algunos se asentaron en planetas, a partir de entonces denominados [[Mundo esquirlado\|mundos esquirlados]]; mientras que otros no echaron raíces. En esta época todos tenían la misma cantidad de poder.
-Originalmente, las Esquirlas hicieron un acuerdo para no interferir entre ellas, pero no hicieron un juramento formal, y muchas de ellas decidieron no mantenerlo. Además, [[Honor\|Honor]] no consideraba haber roto el pacto al viajar con [[Cultivaci%C3%B3n\|Cultivación]], sugiriendo que la redacción del acuerdo no había sido tan precisa como podían pensar Esquirlas como Dotación.
-A lo largo de los milenios, varias Esquirlas han fallecido, de un modo u otro. La causa más común de su muerte fueron las acciones de una Esquirla específica, [[Odium\|Odium]], que se dedicó a matarlas, astillando a [[Ambici%C3%B3n\|Ambición]], [[Devoci%C3%B3n\|Devoción]], [[Dominio\|Dominio]] y [[Honor\|Honor]] antes de quedar finalmente atrapado en el [[Sistema roshariano\|sistema roshariano]] por los fragmentos restantes de este último. La muerte del Recipiente de [[Conservaci%C3%B3n\|Conservación]], [[Leras\|Leras]], hizo que el poder pasara por varias manos antes de combinarse finalmente con [[Ruina\|Ruina]] para formar [[Armon%C3%ADa\|Armonía]]. Por el contrario,[[Autonom%C3%ADa\|Autonomía]] se expandió, creando avatares para habitar numerosos mundos esquirlados, incluyendo [[Obrodai\|Obrodai]] y [[Primero del Sol\|Primero del Sol]].
-Al menos uno de los Recipientes se arrepiente de haber tomado una Esquirla, aunque se desconoce cuál de ellos. Hay descendientes de algunos Recipientes que aún viven. Además de Odium, al menos una Esquirla, se ha visto obligada a abandonar su mundo esquirlado tras la destrucción de este.
+It is unknown what precisely [[Adonalsium\|Adonalsium]] was, though it has been referred to numerous times as the power of creation, suggesting it to be the progenitor god of the [[Cosmere\|cosmere]]. At some point in the distant past, on the planet of [[Yolen\|Yolen]], sixteen people conspired to kill it, and succeeded in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Some of those people were romantically involved; others were related to each other. All of them were mortal at some point.
+Following the Shattering, the power that comprised Adonalsium broke into sixteen pieces, each polarized to one particular aspect of it, such as [[Ruin\|Ruin]] or [[Endowment\|Endowment]]. Those pieces, each equal in power, became known as the Shards. The sixteen killers of Adonalsium each took up one of the Shards, Ascending and becoming the first Vessels. Following their Ascension, each of the Vessels departed Yolen. Some settled on various [[/wiki/Cosmere#Planets]], while others set no roots. At this time they all had an equal amount of power.
+Originally, the Shards made an agreement not to interfere with each other, but they did not make a formal oath and many of the Shards chose not to keep to the agreement. Additionally, [[Honor\|Honor]] felt he did not break the agreement by traveling with [[Cultivation\|Cultivation]], suggesting the wording of the agreement may not have been as precise as Shards like Endowment thought.
+Over the millennia, several Shards have passed away, one way or another. The most common cause of death for them were actions of one specific Shard, [[Odium\|Odium]], who went on a killing spree, splintering [[Ambition\|Ambition]], [[Devotion\|Devotion]], [[Dominion\|Dominion]] and [[Honor\|Honor]] before eventually being trapped in the [[Rosharan system\|Rosharan system]] by the remnants of the latter. The death of [[Preservation\|Preservation's]] Vessel, [[Leras\|Leras]], led to the power being passed between several hands before it was eventually combined with [[Ruin\|Ruin]] to form [[Harmony\|Harmony]]. By contrast, [[Autonomy\|Autonomy]] spread, creating avatars to inhabit numerous planets, including [[Obrodai\|Obrodai]] and [[First of the Sun\|First of the Sun]].
+At least one of the Vessels regrets taking up a Shard, though which one that would be is unknown. There are living descendants of some of them still alive. At least one Shard other than Odium has been forced to leave their planet after its destruction.
 
-## Esquirlas conocidas
-Hay dieciséis Esquirlas originales, quince de las cuales se conocen actualmente.
-Mientras que la mayoría de los [[Mundo esquirlado\|mundos esquirlados]] tienen sólo una Esquirla, [[Sel\|Sel]] y [[Scadrial\|Scadrial]] son biesquirlados, albergando dos Esquirlas cada uno. [[Roshar\|Roshar]], por otro lado, es el único ejemplo conocido de un mundo influenciado por tres Esquirlas.
+## Known Shards
+There are sixteen original Shards, fifteen of which are currently known.
+While most planets have at most one Shard, [[Sel\|Sel]] and [[Scadrial\|Scadrial]] are both dishardic, hosting two Shards each. [[Roshar\|Roshar]], on the other hand, is the only known example of a world influenced by three Shards.
 
-### Esquirlas originales
-|**Esquirla**|**Recipiente**|**Mundo**|**Libros**|**Referencias**|
+### Original Shards
+|**Shard**|**Vessel**|**World**|**Books**|**References**|
 |-|-|
-|[[Devoci%C3%B3n\|Devoción]]|[[Aona\|Aona]] |[[Sel\|Sel]]|*[[Elantris (libro)\|Elantris]], [[El alma del emperador\|El alma del emperador]]*||
-|[[Dominio\|Dominio]]|[[Skai\|Skai]] |[[Sel\|Sel]]|*[[Elantris (libro)\|Elantris]], [[El alma del emperador\|El alma del emperador]]*||
-|[[Conservaci%C3%B3n\|Conservación]]|[[Sazed\|Sazed]] |[[Scadrial\|Scadrial]]|*[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]*||
-|[[Ruina\|Ruina]]|[[Sazed\|Sazed]] |[[Scadrial\|Scadrial]]|*[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]*||
-|[[Odium\|Odium]]|[[Taravangian\|Taravangian]] |[[Braize\|Braize]], [[Roshar\|Roshar]]|*[[El archivo de las tormentas\|El archivo de las tormentas]]*||
-|[[Cultivaci%C3%B3n\|Cultivación]]|[[Koravellium Avast\|Koravellium Avast]]|[[Roshar\|Roshar]]|*[[El archivo de las tormentas\|El archivo de las tormentas]]*||
-|[[Honor\|Honor]]|[[Tanavast\|Tanavast]] |[[Roshar\|Roshar]]|*[[El archivo de las tormentas\|El archivo de las tormentas]]*||
-|[[Dotaci%C3%B3n\|Dotación]]|[[Edgli\|Edgli]]|[[Nalthis\|Nalthis]]|*[[El aliento de los dioses\|El aliento de los dioses]]*||
-|[[Autonom%C3%ADa\|Autonomía]]|[[Bavadin\|Bavadin]]|[[Taldain\|Taldain]]; con avatares en[[Primero del Sol\|Primero del Sol]], [[Obrodai\|Obrodai]] y [[Scadrial\|Scadrial]]|*[[Arena Blanca\|Arena Blanca]]*, *[[Sexto del Ocaso\|Sexto del Ocaso]]*, [[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]||
-|[[Ambici%C3%B3n\|Ambición]]|[[Uli Da\|Uli Da]] |[[Treno\|Treno]]|*[[Sombras por Silencio en los bosques del infierno\|Sombras por Silencio en los bosques del infierno]]*||
-|[[Invenci%C3%B3n\|Invención]]|*Desconocido*|*Desconocido*|*Desconocido*||
-|[[Piedad\|Piedad]]|*Desconocido*|*Desconocido*|*Desconocido*||
-|[[Valor\|Valor]]|*Desconocido*|*Desconocido*|*Desconocido*||
-|[[Capricho\|Capricho]]|*Desconocido*|*Desconocido*|*Desconocido*||
-|[[Virtuosismo\|Virtuosismo]]|*Desconocido* |[[Komashi\|Komashi]]|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*||
-|*Desconocida*|*Desconocido*|*Desconocido*|*Desconocido*|
+|[[Devotion\|Devotion]]|[[Aona\|Aona]] |[[Sel\|Sel]]|*[[Elantris (book)\|Elantris]], [[The Emperor's Soul\|The Emperor's Soul]]*||
+|[[Dominion\|Dominion]]|[[Skai\|Skai]] |[[Sel\|Sel]]|*[[Elantris (book)\|Elantris]], [[The Emperor's Soul\|The Emperor's Soul]]*||
+|[[Preservation\|Preservation]]|[[Sazed\|Sazed]] |[[Scadrial\|Scadrial]]|*[[Mistborn (series)\|Mistborn]]*||
+|[[Ruin\|Ruin]]|[[Sazed\|Sazed]] |[[Scadrial\|Scadrial]]|*[[Mistborn (series)\|Mistborn]]*||
+|[[Odium\|Odium]]|[[Taravangian\|Taravangian]] |[[Braize\|Braize]], [[Roshar\|Roshar]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|[[Cultivation\|Cultivation]]|[[Koravellium Avast\|Koravellium Avast]]|[[Roshar\|Roshar]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|[[Honor\|Honor]]|[[Tanavast\|Tanavast]] |[[Roshar\|Roshar]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|[[Endowment\|Endowment]]|[[Edgli\|Edgli]]|[[Nalthis\|Nalthis]]|*[[Warbreaker\|Warbreaker]]*||
+|[[Autonomy\|Autonomy]]|[[Bavadin\|Bavadin]]|[[Taldain\|Taldain]]; avatars on[[First of the Sun\|First of the Sun]], [[Obrodai\|Obrodai]], and [[Scadrial\|Scadrial]]|*[[White Sand\|White Sand]]*, *[[Sixth of the Dusk\|Sixth of the Dusk]]*, [[Mistborn Era 2\|Mistborn Era 2]]||
+|[[Ambition\|Ambition]]|[[Uli Da\|Uli Da]] |[[Threnody\|Threnody]]|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*||
+|[[Invention\|Invention]]|*Unknown*|*Unknown*|*Unknown*||
+|[[Mercy\|Mercy]]|*Unknown*|*Unknown*|*Unknown*||
+|[[Valor\|Valor]]|*Unknown*|*Unknown*|*Unknown*||
+|[[Whimsy\|Whimsy]]|*Unknown*|*Unknown*|*Unknown*||
+|[[Virtuosity\|Virtuosity]]|*Unknown* |[[Komashi\|Komashi]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
+|*Unknown*|*Unknown*|*Unknown*|*Unknown*|
 
-### Esquirlas híbridas
-Varias de las Esquirlas conocidas están muertas en la época actual como [[Ambici%C3%B3n\|Ambición]], [[Virtuosismo\|Virtuosismo]], [[Honor\|Honor]], [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] todas [[Astilla\|astilladas]], con los restos de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] habiendo sido combinados juntos en el [[Reino Cognitivo\|Reino Cognitivo]] como [[El Dor\|el Dor]]. [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]], por otro lado, se han fusionado en [[Armon%C3%ADa\|Armonía]], aunque permanecen algo separadas dentro de esta construcción unificada. Es posible que los restos de la Esquirla Honor se fusionen con Odium para formar una nueva Esquirla.
+### Hybrid Shards
+Several of the known Shards are dead in the current time, with [[Ambition\|Ambition]], [[Virtuosity\|Virtuosity]], [[Honor\|Honor]], [[Devotion\|Devotion]] and [[Dominion\|Dominion]] all being [[Splinter\|Splintered]], with the remnants of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] having been combined together in the [[Cognitive Realm\|Cognitive Realm]] as [[The Dor\|the Dor]]. [[Ruin\|Ruin]] and [[Preservation\|Preservation]], on the other hand, have blended together into [[Harmony\|Harmony]], albeit they remain somewhat separate within this unified construct. It is possible for the remnants of the Shard Honor to merge with Odium to form a new Shard.
 
 
-|**Esquirla**|**Recipiente**|**Mundo**|**Libros**|**Notas**|**Referencias**|
+|**Shard**|**Vessel**|**World**|**Books**|**Notes**|**References**|
 |-|-|
-|[[Armon%C3%ADa\|Armonía]]|[[Sazed\|Sazed]]|[[Scadrial\|Scadrial]]|*[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]*|Combinación de [[Ruina\|Ruina]] y [[Conservaci%C3%B3n\|Conservación]]||
-|[[El Dor\|El Dor]]|*Ninguno*|[[Sel\|Sel]]|*[[Elantris (libro)\|Elantris]], [[El alma del emperador\|El alma del emperador]]*, [[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]|Combinación de [[Devoci%C3%B3n\|Devoción]] y [[Dominio\|Dominio]] astillados||
+|[[Harmony\|Harmony]]|[[Sazed\|Sazed]]|[[Scadrial\|Scadrial]]|*[[Mistborn (series)\|Mistborn]]*|Conjoining of [[Ruin\|Ruin]] and [[Preservation\|Preservation]]||
+|[[The Dor\|The Dor]]|*None*|[[Sel\|Sel]]|*[[Elantris (book)\|Elantris]], [[The Emperor's Soul\|The Emperor's Soul]]*|Combination of the splintered [[Devotion\|Devotion]] and [[Dominion\|Dominion]]||
 
-### Esquirla sin nombre
->“*Algunos hombres, al envejecer, se vuelven más sabios. Yo no soy de esos, pues la sabiduría y yo siempre nos hemos trabado uno a la otra, y aún estoy por aprender la lengua en la que habla.*”
-\-Hoid posiblemente implicando la existencia de otra Esquirla.[74][75]
-
-
-Queda una Esquirlas que no han sido nombrada, pero que tiene una Intención similar a la de Sabiduría o Prudencia. [[Hoid\|Hoid]] y esta Esquirla pueden ser antagónicos entre sí, aunque esto parece ser algo común en sus relaciones con los Recipientes originales. Hay una Esquirla que "[[Esquirla de Supervivencia\|sólo quiere esconderse y sobrevivir]]",  aunque con el tiempo se ha dado cuenta de que eso puede no ser lo más deseable; ésta puede ser la Esquirla de la "sabiduría".
-En un momento dado, existía una Esquirla desconocida que no habitaba ningún planeta, algo que probablemente hiciera referencia a Virtuosismo. Del mismo modo, en un momento dado había al menos una Esquirla desconocida que había sido astillada por Odium, aunque la Esquirla Ambición ha sido revelada desde entonces.
-
-## Poderes y habilidades
->“*...el poder del antiguo Adonalsium lo impregna. Y lo controla. Odium es una fuerza, como la presión, la gravedad o el paso del tiempo. Esas cosas no pueden incumplir sus propias reglas. Odium tampoco.*”
-\-El Padre Tormenta.[85]
+### Unnamed Shard
+>“*Some men, as they age, grow wiser. I am not one of those, for wisdom and I have always been at cross-purposes, and I have yet to learn the tongue in which she speaks.*”
+\-Hoid possibly implying the existence of another Shard[74][75]
 
 
-Las Esquirlas poseen un poder increíble: una sola Esquirla puede mover fácilmente planetas enteros y alterar a las personas hasta en un nivel genético. Existen en los tres Reinos, pero a diferencia de otros seres vivos, la mayor parte de su poder se concentra en el [[Reino Cognitivo\|Cognitivo]] y en el [[Reino Espiritual\|Espiritual]]. Las Esquirlas no aparecen en el Reino Cognitivo como otras entidades (como una cuenta en Roshar). El tiempo importa poco a las Esquirlas, y pueden doblarlo y estirarlo a su antojo.
-Los Recipientes también consiguen una cantidad de conocimiento cuando Ascienden, más de la que pueden procesar de manera inmediata. Ganan más conocimiento, pero no es automático, requiere que lo consigan de manera consciente.
-Como la [[Investidura\|Investidura]] nunca desaparece realmente, una Esquirla tiene acceso a un suministro funcionalmente inagotable de ella; sin embargo, hay una cantidad finita que un Recipiente puede dominar en un momento dado. Esto significa que, aunque toda la Investidura del Cosmere está asignada a una u otra Esquirla, una Esquirla no puede comandarla toda a la vez. Por lo tanto, aunque son poderosas, las Esquirlas no son omniscientes, ni omnipresentes, ni omnipotentes.
-El poder de una Esquirla puede disminuirse temporalmente, ya sea asignándoselo a criaturas vivas (como personas o [[Spren\|spren]]), o enviándolo de vuelta al Reino Espiritual (por ejemplo, quemando [[Atium\|atium]]). Además, las Esquirlas están, como poderes, obligadas a seguir reglas superiores; un trato, una vez hecho por una Esquirla, no puede romperse, y deben obedecer absolutamente todas las reglas que lo rigen. Romper esos tratos dejará agujeros en ellas que otra Esquirla puede aprovechar para matarlas.
-Cada Esquirla parece especialmente predispuesta a actuar de acuerdo con su Intención; por ejemplo, a [[Conservaci%C3%B3n\|Conservación]] le resulta casi imposible destruir, mientras que a [[Ruina\|Ruina]] le resulta extremadamente fácil hacerlo. Esto está parcialmente influenciado por el cambio de personalidad provocado por la Esquirla. Sin embargo, se desconoce si las intenciones proporcionan a las Esquirlas poderes únicos reales.
+There remains one Shard that has not been named, but it has an Intent similar to Wisdom or Prudence. [[Hoid\|Hoid]] and this Shard may be antagonistic towards each other, though this appears to be something of a common thread in his relations with the original Vessels. There is a Shard that "[[Survival Shard\|just wants to hide and survive]]," though it has realized over time that that may not be the most desirable course of action; this may be the "wisdom" Shard.
+At one point, there was an unknown Shard that does not inhabit a planet, which likely referred to Virtuosity. Similarly, at one point there was at least one unknown Shard that had been Splintered by Odium, though the Splintered Shard Ambition has been revealed since then.
 
-### Poderes individuales
-  <<Ruina\|Ruina>> dominando a un <<Inquisidor de acero\|inquisidor de acero>>
-#### Movimiento
-Las Esquirlas son capaces de aparecer en varias partes de sus propios mundos investidos de forma instantánea. También pueden viajar a otros planetas si lo desean. Sin embargo, cuando una Esquirla inviste su poder en un mundo, queda ligada a él y tendrá dificultades para abandonar el sistema en el que se encuentra. Las Esquirlas también pueden atraparse unas a otras en los sistemas, aunque se desconoce la mecánica precisa de ello.
-
-#### Comunicación
-Las Esquirlas tienen varias formas de comunicarse con la gente. Algunas Esquirlas pueden hablar directamente a la mente de los demás, mientras que otras pueden escuchar. Una Esquirla también puede comunicarse con una persona directamente a través de sueños o visiones, e incluso adoptar una forma física –una especie de marioneta, que sirve como salida física para la comunicación– . Mientras que el uso de las visiones y el hablar directamente a la mente están limitados a una sola persona, una de estas marionetas puede ser vista por muchas personas.
-Una Esquirla también puede comunicarse directamente con [[Sombra cognitiva\|sombras cognitivas]].
-
-#### Capacidad mental
-Tras la Ascensión, la mente del [[Recipiente\|Recipiente]] se ampliará enormemente, permitiendo una capacidad de pensamiento mucho mayor de la que podría tener un mortal. Una Esquirla es capaz de la bilocación ––estar presente en varios lugares a la vez–– dentro de su esfera de influencia. Como los momentos pueden pasar como años para una Esquirla, también puede parecer que piensan mucho más rápido que las mentes normales. Otro resultado también es la comprensión fundamental del Cosmere hasta el punto de [[Eje\|eje]] y antieje. Parecen poseer una memoria impecable, sin un límite superior evidente, ya que [[Sazed\|Sazed]] es capaz de absorber la enorme cantidad de conocimientos en sus [[Mente de metal\|mentes de metal]].
-Sin embargo, en contra de lo que muchos creen, las Esquirlas no son omniscientes ni omnipresentes. Sólo pueden aparecer en un número de lugares limitados a la vez, y pueden ser distraídos, engañados o sorprendidos. También es posible bloquear los sentidos de una Esquirla fuera de un área determinada. Son incapaces de romper un contrato formal, al menos no sin herirse gravemente.
-
-#### Creación de sapiencia
-Las Esquirlas pueden utilizar su poder para crear complejas **construcciones**, capaces de continuar su función después de la muerte de la Esquirla. Ejemplos de tales construcciones son las brumas de [[Conservaci%C3%B3n\|Conservación]], y el registro de visiones de [[Honor\|Honor]]. Las Esquirlas también pueden crear seres sapientes a partir de su poder ––esto se ve más comúnmente en [[Roshar\|Roshar]], con su sobreabundancia de [[Spren\|spren]]––. Muchos de ellos, como el [[Padre Tormenta\|Padre Tormenta]], la [[Vigilante Nocturna\|Vigilante Nocturna]], y los [[Honorspren\|honorspren]] fueron creados por las Esquirlas locales.
-Las Esquirlas también pueden crear **avatares**, personas que pueden actuar independientemente de ellas. Los avatares pueden ser de cualquier género, raza y especie, independientemente del Recipiente original que los cree, y pueden formarse a una distancia considerable del cuerpo principal de la Esquirla, pudiendo existir muchos avatares diferentes en un solo [[Mundo esquirlado\|mundo esquirlado]]. Aunque una Esquirla puede crearlos directamente, los avatares también pueden formarse sin una decisión consciente por parte de la Esquirla, aunque ésta sigue siendo consciente de lo que ocurre. Sin embargo, cuando se crean directamente, se les pueden inculcar rasgos específicos. Algunos avatares son autoconscientes, mientras que otros no lo son, aunque la Esquirla madre siempre será consciente. Aunque algunos llaman a estos Avatares Astillas, no está claro si realmente se ajustan a la definición.
-Los avatares son, en cierto modo, considerados Esquirlas por derecho propio. Los conocidos son [[Patji (ser)\|Patji]] y el , ambos de [[Autonom%C3%ADa\|Autonomía]]. Es difícil pero posible que alguien se convierta en Recipiente de un avatar.
-El poder de la Esquirla también está directamente relacionado con la sensibilidad y la sapiencia. La presencia cercana de una Esquirla en particular, como [[Cultivaci%C3%B3n\|Cultivación]], puede llevar a algunos seres a desarrollar mayores niveles de sapiencia. Este poder también puede otorgar sensibilidad directamente: los [[Scadrial\|scadrianos]] son sapientes debido al poder de Conservación que hay en ellos, y la sapiencia de [[Sangre Nocturna\|Sangre Nocturna]] se deriva parcialmente de su gran cantidad de [[Aliento\|alientos]]. Las [[Astilla\|Astillas]] también pueden volverse sapientes. Incluso el poder bruto de una Esquirla, si se deja sola y sin un Recipiente, eventualmente comenzará a formar una mente rudimentaria.
-
-#### Generación de magia
-Cuando una Esquirla inviste un mundo, comenzará a alimentar el sistema de magia local. Cada Esquirla puede hacer esto de forma diferente, aunque gran parte del sistema lo dicta el propio planeta. Debido a esta conexión con la magia, una Esquirla es capaz de interactuar directamente con sus usuarios y proporcionar Investidura cuando sea necesario, sin necesidad de intermediarios.
-Aunque no todos los sistemas mágicos del Cosmere están directamente ligados a una Esquirla, la presencia de esta influye enormemente en la forma que adopta un sistema mágico. En un [[Mundo esquirlado\|mundo esquirlado]], la magia se forma como resultado de las interacciones entre el poder de una Esquirla, la [[Realm%C3%A1tica\|Realmática]], las inclinaciones naturales del mundo y, en algunos casos, incluso la genética. Por esta razón, la función exacta que realiza la magia no siempre estará relacionada con la naturaleza de la Esquirla por ejemplo; la [[Potenciaci%C3%B3n\|potenciación]], a pesar de estar impulsada por [[Honor\|Honor]], es capaz de manipular la [[Divisi%C3%B3n\|División]], que controla la separación de las cosas. Sin embargo, la forma de *obtener* la magia está ligada a la Esquirla. La [[Hemalurgia\|hemalurgia]] exige la destrucción de una persona, de acuerdo con la Intención de Ruina, mientras que la potenciación exige forjar vínculos.
-Las Esquirlas son capaces de manipular la Investidura que no les pertenece.
-
-#### Visión del futuro
-> [!info] Esta página o sección usa información basada en teorías y especulacionesSe recomienda leer con cuidado y teniendo en cuenta que la información no es necesariamente canon
-
->“*Es como si el futuro fuera una ventana rota. Cuanto más miras, más piezas de la ventana se rompen. El futuro cercano puede esperarse, pero el futuro lejano..., solo puede suponerse.*”
-\-Honor.[108]
+## Powers and Abilities
+>“*The power of ancient Adonalsium permeates him. And controls him. [[Odium\|Odium]] is a force like pressure, gravitation, or the movement of time. These things cannot break their own rules. Nor can he.*”
+\-Stormfather[85]
 
 
-Las Esquirlas pueden percibir el futuro, aunque puede resultarles difícil. Algunos lo hacen mejor que otros, destacando Cultivación y Conservación. Como todos los videntes, las Esquirlas pueden equivocarse tanto en lo que ven como en su interpretación, aunque por regla general ven más allá que los que no son Esquirlas. El poder también puede ser utilizado por otros para percibir el futuro como ellos: ejemplos de ello son el [[Atium\|atium]], así como las visiones de los [[Retornado\|Retornados]].
-Tanto [[Conservaci%C3%B3n\|Conservación]] como [[Honor\|Honor]] describen que ver el futuro no es un camino fijo, sino una red enmarañada de posibilidades vinculadas, así como las circunstancias necesarias para que se produzcan, siendo algunas más probables que otras. Como resultado, predecir el futuro no es un proceso sencillo, y no es igualmente útil para todos los videntes. Al Ascender a [[Odium\|Odium]], [[Taravangian\|Taravangian]] se dio cuenta de que hay posibilidades de futuro que Rayse no había visto, lo que implica que la capacidad de ver el futuro puede estar relacionada también con el Recipiente.
-Se cree que la Intención de una Esquirla puede estar ligada a su habilidad para ver el futuro. Conservación, como una Esquirla dedicada a mantener las cosas existentes, y Cultivación, una Esquirla dedicada a hacer crecer algo en la forma deseada, tendrían un interés natural en predecir lo que deparará el futuro, lo que les haría más competentes en esta habilidad. En cambio, una Esquirla como Ruina, que sólo se interesa por destruir cosas, y Honor, que se dedica a mantener los juramentos, no verían el futuro como parte de su naturaleza.
+Shards possess incredible power -- a single Shard can easily move entire planets and alter people down to the genetic level. They exist in all three Realms, but unlike other living beings, the vast majority of their power is concentrated in the [[Cognitive Realm\|Cognitive]] and [[Spiritual Realm\|Spiritual]]. Shards do not appear in the Cognitive Realm like other entities (such as a bead on Roshar). Time matters little to Shards, and they can bend and stretch it as they wish.
+Vessels also gain an immense amount of knowledge upon Ascending, more than they can process immediately. They can gain more knowledge instantaneously, but this is not automatic, and requires them to consciously gain that knowledge.
+As [[Investiture\|Investiture]] never truly goes away, a Shard has access to a functionally-endless supply of it; however, there is a finite amount that a Vessel can command at any one time. This means that while all Investiture in the cosmere is assigned to one Shard or another, a Shard cannot truly command all of it at once. As such, while powerful, Shards are not omniscient, omnipresent, nor omnipotent.
+A Shard's power can be temporarily diminished, either by assigning it to living creatures (such as people or [[Spren\|spren]]), or sending it back to the Spiritual Realm (e.g. burning [[Atium\|atium]]). Moreover, Shards are, as powers, bound to follow higher rules; a deal, once made by a Shard, cannot be broken, and they must absolutely obey the rules that govern them. Breaking such deals will leave holes in them that another Shard can exploit to kill them.
+Each Shard appears particularly predisposed toward acting in line with their intent; for example, [[Preservation\|Preservation]] finds it nearly impossible to destroy, while it's extremely easy for [[Ruin\|Ruin]] to do so. This is partially influenced by the personality change brought about by the Shard. However, whether intentions provide Shards with actual unique powers is unknown.
 
-## Formas y subdivisiones
-  <<Cultivaci%C3%B3n\|Cultivación>> con su hija-<<Spren\|spren>>, la <<Vigilante Nocturna\|Vigilante Nocturna>>
->“*—Sigo siendo una spren. Soy un pedacito de Dios.*”
-\-Syl.[125]
+### Individual Powers
+  <<Ruin\|Ruin>> commanding a <<Steel Inquisitor\|Steel Inquisitor>>
+#### Movement
+Shards are capable of appearing in various parts of their own Invested worlds instantaneously. They can also travel to other planets by willing themselves to do so. However, when a Shard Invests its power in a world, it's bound to it and will have difficulty leaving the system it is in. Shards can also trap each other in systems, though the precise mechanics of that are unknown.
+
+#### Communication
+Shards have several ways of communicating with people. Some Shards can speak directly into the minds of others, while others can listen. A Shard can also communicate with a person directly through dreams or visions, and even take on a physical form -- a puppet of sorts, serving as a Physical outlet for communication. While the use of visions and speaking directly into a mind are limited to a single person, a puppet can be seen by many people.
+A Shard can also communicate directly with [[Cognitive Shadow\|Cognitive Shadows]].
+
+#### Mind Capacity
+Upon Ascension, the [[Vessel\|Vessel's]] mind will be greatly expanded, allowing a far greater capacity to think than a mortal could. A Shard is capable of bilocation -- being present in several places at once -- within its sphere of influence. As moments can pass like years to a Shard, they can also appear to think far faster than normal minds. Fundamental understanding of the cosmere, to the point of [[Axi\|axi]] and anti-axi, also comes as a result. They seem to possess flawless memory, with no obvious upper limit, as [[Sazed\|Sazed]] is able to absorb the tremendous amount of knowledge in his [[Metalmind\|metalminds]].
+However, contrary to what many believe, Shards are neither omniscient nor omnipresent. They can only appear at limited places at once, and can be distracted, deceived or surprised. It is also possible to block a Shard's senses away from a certain area. They are incapable of breaking a formal contract, at least not without seriously wounding themselves.
+
+#### Creating Sapience
+Shards can use their power to create complex **constructs**, capable of continuing their function past the Shard's death. Examples of such constructs are the snapping mists of [[Preservation\|Preservation]], and the vision journal of [[Honor\|Honor]]. Shards can also create sapient beings from their power -- this is most commonly seen on [[Roshar\|Roshar]], with its overabundance of [[Spren\|spren]]. Many of them, like the [[Stormfather\|Stormfather]], [[Nightwatcher\|Nightwatcher]], and [[Honorspren\|honorspren]] were created by local Shards.
+Shards can also create **avatars**, personas that can act independently of them. Avatars can be of any gender, race, and species, regardless of the original Vessel creating them, and can be formed at a considerable distance from the main body of the Shard, with many different avatars able to exist on a single planet. Though a Shard can create them directly, avatars can also form without a conscious decision on the Shard's part, though the Shard is still aware of what is happening. When created directly, however, they can be instilled with specific traits. Some avatars are self-aware, while others are not, although the parent Shard will always be aware. Though some would call these avatars Splinters, it is not clear whether they truly fit the definition.
+Avatars are, in a way, considered to be Shards in their own right. Known ones include [[Patji (being)\|Patji]] and the [[Sand Lord\|Sand Lord]], both of [[Autonomy\|Autonomy]]. It is difficult but possible for someone to become a Vessel of an avatar.
+Shardic power is also directly related to sentience and sapience. The close presence of a particular Shard, such as [[Cultivation\|Cultivation]], can lead to some beings developing higher levels of sapience. Shardic power can also grant sentience directly -- [[Scadrian\|Scadrians]] are sapient due to Preservation's power within them, and [[Nightblood\|Nightblood's]] sapience is partially derived from his large quantity of [[Breath\|Breaths]]. [[Splinter\|Splinters]] can also become sapient. Even the raw power of a Shard, if left alone and without a Vessel, will eventually begin to form a rudimentary mind.
+
+#### Magic Generation
+When a Shard Invests a world, it will begin to fuel the local magic system. Each Shard can do this differently, though much of the system is dictated by the planet itself. Because of this connection to the magic, a Shard is able to directly interact with its users and provide Investiture when necessary, without the need for intermediaries.
+While not all magic systems in the cosmere are directly tied to a Shard, Shardic presence greatly influences the shape a magic system takes. On a planet inhabited by a Shard, magic forms as a result of the interactions between a Shard's power, [[Realmatic\|Realmatics]], the world's natural inclinations and, in some cases, even genetics. For this reason, the exact function magic performs will not always be related to the Shard's nature -- for example, [[Surgebinding\|Surgebinding]], despite being powered by [[Honor\|Honor]], is capable of manipulating [[Division\|Division]], which controls separating things. However, how the magic is *obtained* is tied to the Shard. [[Hemalurgy\|Hemalurgy]] demands that a person be destroyed, in line with the intent of Ruin, while Surgebinding demands forging bonds.
+Shards are capable of tampering with Investiture that does not belong to them.
+
+#### Future Sight
+> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
+
+>“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
+\-Honor[108]
 
 
-La Investidura en bruto de una Esquirla puede adoptar distintas formas y estados. Como sólido, la Investidura es metálica, por lo que a veces se la denomina *[[Metal divino\|metal divino]]'*. Ejemplos de metales divinos son el [[Atium\|atium]], el [[Lerasium\|lerasium]], el [[Raysio\|raysio]] y la aleación de [[Honor\|Honor]] y [[Cultivaci%C3%B3n\|Cultivación]] que forma las [[Hoja esquirlada\|hojas esquirladas]]. Los metales divinos suelen tener propiedades dentro de las [[Artes Met%C3%A1licas\|Artes Metálicas]], independientemente de la Esquirla con el que estén alineados.
-El poder de la Esquirla más potente es el líquido. Normalmente se concentra en un lugar de un planeta, formando una *[[Perpendicularidad\|perpendicularidad]]'*. Una perpendicularidad representa una tremenda cantidad de poder, suficiente para atravesar los tres Reinos, permitiendo a la gente deslizarse entre ellos. Ejemplos de tales perpendicularidades son el [[Pozo de la Ascensi%C3%B3n (in-world)\|Pozo de la Ascensión]], los [[Pozos de Hathsin\|Pozos de Hathsin]], o el [[Perpendicularidad de Devoci%C3%B3n\|Lago]].
-En forma de gas, el poder puede adoptar diversas funciones. Algunos ejemplos de Investidura en forma gaseosa son el [[Aliento\|aliento]], la [[Luz tormentosa\|luz tormentosa]] y las brumas de Conservación. Todos ellos pueden servir de combustible para la magia. Tanto en el [[Despertar\|despertar]] como en la [[Potenciaci%C3%B3n\|potenciación]], la Investidura gaseosa es, de hecho, la fuente principal de la magia, pero incluso en sistemas que utilizan otras sustancias, como la [[Alomancia\|alomancia]], la Investidura gaseosa puede servir para el mismo propósito.
+Shards can perceive the future, although it can be difficult for them. Some are better at it than others, with [[Cultivation\|Cultivation]] and [[Preservation\|Preservation]] being noted as particularly excelling. Like all seers, Shards can be wrong about both what they see and how they interpret it, although as a general rule they see further than non-Shards. Shardic power can also be utilized by others to perceive the future as they do: examples of this are [[Atium\|atium]], as well as the visions of the [[Returned\|Returned]].
+Both [[Preservation\|Preservation]] and [[Honor\|Honor]] describe seeing the future as not one set path, but a tangled web of linked possibilities, as well as the circumstances necessary to bring them about, with some being more likely than others. As a result, predicting the future is not a straightforward process, and is not equally useful to all seers. Upon Ascension to [[Odium\|Odium]], [[Taravangian\|Taravangian]] realized that there are possibilities of future that Rayse had not seen, implying the future sight ability may be related to the Vessel as well.
+It is theorized that a Shard's intent may be tied to its proficiency with future sight. Preservation, as a Shard dedicated to keeping things existing, and Cultivation, a Shard dedicated to growing something in a desired form, would hold a natural interest in predicting what the future will hold which may make them more proficient with this ability. By contrast, a Shard like Ruin, which is interested only in destroying things, and Honor, about holding to one's oaths, would not have "seeing ahead" as part of their nature.
 
-### Lascas
-Para más información, ver [[Lasca\|Lasca]].
-Una Lasca es una persona que ha tenido el poder de una Esquirla, y luego la ha liberado. Esto " amplía" la [[Redesp%C3%ADritu\|redespíritu]] de una persona, alterándola notablemente. Hay dudas en cuanto a la cantidad de poder que hay que tener para ser considerado un Lasca; sin embargo, una persona que ha tenido que manejar directamente el poder de las Esquirlas es el ejemplo más claro. El [[Lord Legislador\|lord Legislador]] y [[Kelsier\|Kelsier]] serían considerados Lascas, mientras que los [[Elantrinos\|elantrinoss]] y los [[Retornado\|Retornados]] no lo serían.
+## Forms and Subdivisions
+  <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
+>“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
+\-Syl[125]
 
-### Astillas
-Para más información, ver [[Astilla\|Astilla]].
-Una Astilla es un fragmento del poder de una Esquirla, de forma similar a como una Esquirla es un fragmento del poder de Adonalsium. A diferencia de las Lascas o de las [[Sombras cognitivas\|sombras cognitivas]], las Astillas no suelen tener un componente físico. Suelen tener una mente propia, separada y distinta de la de su Esquirla madre. Pueden formarse de dos maneras distintas: o bien porque la Esquirla se astilla (muere), o bien porque la Esquirla se separa directamente de astillas de sí misma. En determinadas circunstancias, una Esquirla puede dividirse y cada pieza resultante obtendría un aspecto de la Intención de la Esquirla original.
-Las Astillas pueden estar compuestas por la Investidura de una o más Esquirlas. Ejemplos de astillas son el [[Aliento\|aliento]] divino de los [[Retornado\|Retornados]], los [[Aon\|aones]] dentro de [[Seon\|seones]], y los [[Spren\|spren]]. Es posible crear una nueva Esquirla a partir de astillas de otras múltiples Esquirlas, aunque es mucho más difícil de lo que parece.
-Una Esquirla Astillada más allá de su identificación como una, puede ser reconstruída como una Esquirla diferente, aunque requiere el uso de una gran cantidad de esfuerzo y recursos, como la utilización de una Esquirla del Amanecer.
 
-## Campeón
-Es posible que una Esquirla nombre un "campeón" al hacer un pacto con otra Esquirla. Convertirse en campeón es un evento formal, y requiere un tipo de acuerdo contractual. Honor animó a [[Dalinar Kholin\|Dalinar Kholin]] a intentar que Odium aceptara un combate de campeones; Odium acabó aceptando e intentó nombrar a Dalinar como su campeón, aunque éste se negó. Las Esquirlas fuera del [[Sistema roshariano\|sistema roshariano]] también han tenido campeones. Los Heraldos son similares a los campeones y los conflictos entre [[Marsh\|Marsh]] y [[Elend\|Elend]] o los de [[Marsh\|Marsh]] y [[Vin\|Vin]] son un eco de este sistema.
+The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture is metallic, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.
+Shardic power is the most potent as a liquid. It typically coalesces in one place on a planet, forming a **[[Perpendicularity\|perpendicularity]]**. A perpendicularity represents a tremendous amount of power, enough so to pierce all three Realms, allowing people to slide between them. Examples of such perpendicularities are the [[Well of Ascension\|Well of Ascension]], the [[Pits of Hathsin\|Pits of Hathsin]], or the [[Devotion's Perpendicularity\|Lake]].
+As a gas, the Shardic power can take on a number of different functions. Examples of Investiture in gaseous forms include [[Breath\|Breath]], [[Stormlight\|Stormlight]], and Preservation's mists. All can serve as fuel for magic. In both [[Awakening\|Awakening]] and [[Surgebinding\|Surgebinding]], gaseous Investiture is, in fact, the primary source of magic, but even in systems that use other substances, like [[Allomancy\|Allomancy]], gaseous Investiture can serve the same purpose.
 
-## Ver también
+### Slivers
+For more information, see [[Sliver\|Sliver]].
+A Sliver is a person who has held the power of a Shard, and then released it. This "stretches" a person's [[Spiritweb\|spiritweb]], noticeably altering them. There is some grey area as to how much power one needs to have to be considered a Sliver; however, a person who directly handled Shardic power is the most straightforward example. The [[Lord Ruler\|Lord Ruler]] and [[Kelsier\|Kelsier]] would both be considered Slivers, while [[Elantrian\|Elantrians]] and [[Returned\|Returned]] would not.
+
+### Splinters
+For more information, see [[Splinter\|Splinter]].
+A Splinter is a fragment of a Shard's power, similar to how a Shard is a fragment of Adonalsium's power. Unlike Slivers or [[Cognitive Shadow\|Cognitive Shadows]], Splinters don't generally have a Physical component. They often have a mind of their own, separate and distinct from that of their parent Shard. They can form in two distinct ways: either by the Shard being splintered (killed), or by the Shard directly splitting off splinters of itself. Under certain circumstances, a Shard may be split and each resulting piece would gain an aspect of the original Shard's Intent.
+Splinters can be comprised of the Investiture of one or more Shards. Examples of splinters include the divine [[Breath\|Breath]] of the [[Returned\|Returned]], [[Aon\|Aons]] within [[Seon\|seons]], and [[Spren\|spren]]. It is possible to create a new Shard from splinters of multiple other Shards, though it is much more difficult than it sounds.
+A Shard Splintered beyond recognition could be reconstructed as a different Shard, though this would require a great deal of effort and resources, such as the use of a Dawnshard.
+
+## Champion
+It is possible for a Shard to name a "champion" when making a deal with another Shard. Becoming a champion in this way is a formal event and requires some kind of contractual agreement. Honor encourages [[Dalinar Kholin\|Dalinar Kholin]] to try to get Odium to agree to a contest of champions; Odium eventually agrees and attempts to name Dalinar as his champion, though Dalinar declines. Shards outside of the [[Rosharan system\|Rosharan system]] have also had champions. The Heralds are similar to champions, and the conflicts between [[Marsh\|Marsh]] and [[Elend\|Elend]] and between Marsh and [[Vin\|Vin]] are an echo of this system.
+
+## See Also
 [[Adonalsium\|Adonalsium]]
-[[Mundo esquirlado\|Mundo esquirlado]]
-[[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]]
-[[Cronolog%C3%ADa\|Cronología]]
+[[Realmatic Theory\|Realmatic Theory]]
 
 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|****|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] · [[Dhatri\|Dhatri]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
-
-
-
-https://es.coppermind.net/wiki/Avatar
+https://coppermind.net/wiki/Avatar

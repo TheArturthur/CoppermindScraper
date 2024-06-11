@@ -1,85 +1,59 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ferson Penrod**|
 |-|-|
-|**Family**|[[Casa Penrod\|Casa Penrod]]|
-|**Fallecido**|c 1025 [[Imperio Final\|IF]]|
-|**Títulos**|Rey del [[Dominio Central\|Dominio Central]]|
-|**Grupo**|[[Asamblea de Luthadel\|Asamblea de Luthadel]]🐱︎|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|**|
+|**Family**|[[House Penrod\|House Penrod]]|
+|**Died**|c 1025 [[Final Empire\|FE]]|
+|**Titles**|King of the [[Central Dominance\|Central Dominance]]|
+|**Groups**|[[Luthadel Assembly\|Luthadel Assembly]]|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
 
-Lord **Ferson Penrod** es un [[Noble\|noble]] de [[Scadrial\|Scadrial]]. Tras la [[Colapso\|caída del lord Legislador]], se convierte en miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]]. Llega a ser el segundo rey del [[Dominio Central\|Dominio Central]], sucediendo a [[Elend Venture\|Elend Venture]], y más tarde por debajo de él en el [[Nuevo Imperio\|Nuevo Imperio]].
+Lord **Ferson Penrod** is a [[Noble\|noble]] on [[Scadrial\|Scadrial]]. After the [[Collapse\|fall of the Lord Ruler]], he becomes a member of the [[Luthadel Assembly\|Luthadel Assembly]]. He becomes the second king of the [[Central Dominance\|Central Dominance]], succeeding [[Elend Venture\|Elend Venture]], and later under him in the [[New Empire\|New Empire]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Miembro de la Asamblea en Luthadel]] 
-2. [[#Rey del Dominio Central]] 
-
-
-3 Citas. [[#Citas]] 
-4 Notas. [[#Notas]] 
+2. [[#Assemblyman in Luthadel]] 
+2. [[#King of the Central Dominance]] 
 
 
-## Apariencia y personalidad
->“*Penrod es un hombre de honor. O al menos tanto como lo son los nobles..., lo que significa que insiste en que se le **considere** un hombre de honor.*”
-\-Brisa a Vin[2]
+3 Quotes. [[#Quotes]] 
+4 Notes. [[#Notes]] 
 
 
-Penrod tiene el pelo blanco y lleva un traje muy bien confeccionado. Tiene unos modales pulidos y una postura fuerte. Tiene dolencias estomacales, aunque se desconoce si son frecuentes. Penrod es tradicionalista y políticamente conservador, pero nunca ha hablado negativamente de los skaa. Sin embargo, Elend lo considera un producto de su sociedad; aunque no considera a los skaa animales, nunca podría verlos como iguales.
-Penrod es un hombre honorable, y después de que Elend le proponga como canciller, se siente obligado a proponer a Elend como candidato a rey. Piensa que, aunque el sistema del [[Imperio Final\|Imperio Final]] no era perfecto, mantenía a la gente más segura que el sistema de Elend. Se ve a sí mismo como el patriarca de la ciudad, el noble que debía aportar una medida de templanza conservadora a los problemas de la ciudad.
-
-## Historia
-En la época anterior al [[Colapso\|Colapso]] Penrod era un noble menor de una [[Casa Penrod\|casa menor]] y se decía que se arrastraba ante gente como [[Straff Venture\|Straff Venture]] en las fiestas todas las semanas, deseando conseguir su favor.
-
-### Miembro de la Asamblea en Luthadel
-Aunque muchos otros nobles abandonaron [[Luthadel\|Luthadel]] tras el Colapso, Penrod optó por quedarse y arriesgarse al posible peligro, con la esperanza de que su posición aumentaras. Así, fue uno de los nobles más poderosos que permanecieron en Luthadel. Más tarde se convirtió en miembro de la [[Asamblea de Luthadel\|Asamblea de Luthadel]]. Tenía mucha influencia entre los demás asambleístas, y le escuchaban más que a [[Elend Venture\|Elend Venture]]. Cuando el ejército de [[Straff Venture\|Straff Venture]] llegó a Luthadel, Penrod pensó que era inevitable que tomara la ciudad, pero que debían intentar obtener de Straff lo máximo posible a cambio.
-Cuando Elend fue depuesto, declaró que, puesto que no había rey, por ley debía haber un canciller que dirigiera los debates de la Asamblea. Nombró a Penrod y los asambleístas lo aceptaron. Más tarde, cuando hubo que nombrar a los candidatos a rey, uno de los skaa propuso a Penrod. Penrod, a su vez, propuso a Elend, a cambio de que éste le propusiera como canciller. [[Philen Frandeu\|Philen Frandeu]] propone a [[Ashweather Cett\|Ashweather Cett]], que estaba escondido entre la multitud.
-Antes de la elección, Straff convenció a Penrod para que le diera la ciudad si ganaba las elecciones, y sobornó a los comerciantes skaa para que votaran a Penrod, ofreciéndoles títulos. El día de la elección, que era el último día de un plazo de treinta días para elegir un nuevo rey, unos asesinos atacaron a Elend, Cett y los asambleístas. Aun así, como no querían perder el plazo, los miembros de la Asamblea se reunieron en la mansión de Penrod después del ataque para votar. Al final, Penrod obtuvo quince votos, Elend siete y Cett dos. Eso no supuso el mínimo de dos tercios de los votos que Penrod necesitaría para ganar. Sin embargo, cuando los dos asambleístas que votaron por Cett quisieron cambiar sus votos, Elend fue honesto y dijo que la ley establecía que podían hacerlo. Ambos cambiaron sus votos a favor de Penrod, haciendo que éste ganara las elecciones.
-
-### Rey del Dominio Central
-[[Ruina\|Ruina]] tomó más tarde el control de Penrod, a través de un clavo hemalúrgico recogido de un [[Brumoso\|brumoso]] de cobre. Marsh atacó a Penrod y le atravesó el corazón con el clavo. Como Penrod seguía vivo, los cirujanos supusieron que apenas le había atravesado el corazón y temieron que extraerlo le matara, ya que empezaba a sangrar cada vez que intentaban acercarse a él con sus instrumentos, así que lo dejaron en su sitio, dando a Ruina un punto de apoyo en la mente de Penrod.
-Ruina, manifestándose como el [[Lord Legislador\|lord Legislador]], llevó a Penrod a la locura, haciendo que condujera a Luthadel al caos, incluso obligando a los [[Skaa\|skaa]] a luchar hasta la muerte por la comida, mientras afirmaba que sólo los fuertes podían sobrevivir. Por sugerencia de [[TenSoon\|TenSoon]], los habitantes de Luthadel huyeron de la ciudad, refugiándose en los [[Pozos de Hathsin\|Pozos de Hathsin]]. Más tarde, al descubrir que Ruina había estado influyendo en él, Penrod escribió una nota con carbón en la que decía que había preferido acabar con su propia vida antes que seguir causando destrucción a los que le rodeaban, y revelaba la ubicación de los habitantes de Luthadel. Entonces, el rey se suicidó con una espada. Ruina intentó engañar a Elend cambiando el mensaje de Penrod para que dijera que el pueblo estaba en el [[Dominio de Terris\|Dominio de Terris]], pero con la ayuda de [[Vin\|Vin]] Elend consiguió ver el engaño.
-
-## Citas
->“*Elend, muchacho. Todos hemos vivido aquí durante el reinado del lord Legislador. Todos sabemos qué tipo de hombre es tu padre. Si quiere esta ciudad, la tomará. Todo lo que podemos decidir, por tanto, es cómo rendirnos mejor. Tal vez encontremos un modo de que la gente conserve algo de libertad bajo su gobierno.*”
-\- Penrod sobre Straff Venture.[3]
+## Appearance and Personality
+>“* Penrod is an honorable man. Or, at least, as honorable as noblemen get—which means that he insists on being **seen** as honorable.*”
+\-Breeze to Vin[2]
 
 
->“*Lo siento, decía. Algo ha tomado el control sobre mí... sobre esta ciudad. Estoy lúcido solo parte del tiempo. Mejor matarme que causar más destrucción. Busca a tu pueblo en el Dominio de Terris.*”
-\-Nota final de Penrod, alterada por Ruina.[9]
+Penrod has white hair and wears a well-cut suit. He has polished mannerisms and a strong posture. He has stomach ills, though it is unknown whether this is frequent. Penrod is a traditionalist and politically conservative, yet he never spoke negatively against the skaa. However, Elend considers him a product of his society—although he doesn't consider the skaa animals, he could never see them as equals.
+Penrod is an honorable man, and after Elend nominates him for chancellor he feels obligated to nominate Elend as a candidate for king. He thinks that though the [[Final Empire\|Final Empire's]] system wasn't perfect, it kept people safer than Elend's system. He sees himself as the city's patriarch, the nobleman who needed to bring a measure of conservative temperance to the city's problems.
+
+## History
+In the time before the [[Collapse\|Collapse]] Penrod was a lesser noble in a [[House Penrod\|minor house]] and was said to grovel before the like of [[Straff Venture\|Straff Venture]] at the parties every week, wishing to curry favor.
+
+### Assemblyman in Luthadel
+Though many other nobles left [[Luthadel\|Luthadel]] after the Collapse, Penrod opted to stay and risk the possible danger, hoping to elevate his position. As such he was one of the more powerful noblemen remaining in Luthadel. He later became a member of the [[Luthadel Assembly\|Luthadel Assembly]]. He had much influence among the other Assemblymen, and they listened to him more than to [[Elend Venture\|Elend Venture]]. When [[Straff Venture\|Straff Venture's]] army arrived at Luthadel, Penrod thought him taking the city was inevitable, but that they should try to get as much from Straff in return as possible.
+When Elend was deposed, he stated that since there was no king, by law there should be a chancellor to lead the discussions of the Assembly. He nominated Penrod, and the Assemblymen accepted him. Later, when candidates for king were to be nominated, one of the skaa nominated Penrod. Penrod, in turn, nominated Elend, in return for Elend having nominated him for chancellor. [[Philen Frandeu\|Philen Frandeu]] nominates [[Ashweather Cett\|Ashweather Cett]], who was hiding among the crowd.
+Before the election, Straff convinced Penrod to give him the city if he won the election, and bribed the skaa merchants to vote on Penrod, offering them titles. In the day of the election, which was the last day of a thirty-day deadline to choose a new king, assassins attacked Elend, Cett and the Assemblymen. Still, not wanting to miss the deadline, the Assemblymen gathered in Penrod's mansion after the attack to vote. In the end, Penrod got fifteen votes, Elend got seven and Cett got two. That didn't make up the minimum of two-thirds of the votes that Penrod would need to win. However, when the two Assemblymen who voted for Cett wanted to changed their votes, Elend was honest and said the law stated they could. They both changed their votes to Penrod, making him win the election.
+
+### King of the Central Dominance
+[[Ruin\|Ruin]] later took control of Penrod, through a Hemalurgic spike harvested from a copper [[Misting\|Misting]]. Marsh attacked Penrod and drove the spike through his heart. Since Penrod continued to live, the surgeons assumed it had just barely missed his heart and feared removing it would kill him as it began to bleed whenever they tried to go near it with implements, so they leave it in place, giving Ruin a foothold into Penrod's mind.
+Ruin, manifesting as the [[Lord Ruler\|Lord Ruler]], drove Penrod to madness, making him drive Luthadel into chaos, including forcing the [[Skaa\|skaa]] to fight to death for food while claiming that only the strong may survive. At [[TenSoon\|TenSoon's]] suggestion, the inhabitants of Luthadel fled the city, taking refuge in the [[Pits of Hathsin\|Pits of Hathsin]]. Later, discovering that Ruin had been influencing him, Penrod wrote a note with charcoal saying that he has prefered to end his own life rather than keep causing destruction to those around him, and revealing the location of the people of Luthadel. Then, the king killed himself with a sword. Ruin tried to mislead Elend by changing Penrod's message to say the people were in the [[Terris Dominance\|Terris Dominance]], but with [[Vin\|Vin's]] help Elend managed to see through the ruse.
+
+## Quotes
+>“* Elend, lad, we all lived here during the Lord Ruler's reign. We all know what kind of man your father is. If he wants this city, he *is* going to take it. All we can decide, then, is how to best give up. Perhaps we can find a way for the people to retain some freedom under his rule.*”
+\- Penrod on Straff Venture.[3]
 
 
-## Notas
-|Antecesor  **[[Elend Venture\|Elend Venture]]**|**Rey del [[/wiki/Dominio (Imperio Final)#Dominio Central]]**  1023 [[Imperio Final\|IF]] a 1025 [[Imperio Final\|IF]]|Sucesor  ***Título abolido***|
-|-|-|
-
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+>“* I'm sorry. Something has taken control of me...of this city. I am lucid only part of the time. Better to kill myself than to cause more destruction. Look toward the Terris Dominance for your people.*”
+\- Penrod's final note, altered by Ruin.[9]
 
 
 
-https://es.coppermind.net/wiki/Ferson_Penrod
+
+https://coppermind.net/wiki/Ferson_Penrod

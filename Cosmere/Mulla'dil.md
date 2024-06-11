@@ -1,39 +1,27 @@
-
-
 |**Mulla'dil**|
 |-|-|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Mulla'dil** es el nombre tanto de una región montañosa del [[Imperio Rosa\|Imperio Rosa]] de [[Sel\|Sel]] como de sus habitantes. Tras unirse al imperio, a los mulla'dil se les suele llamar **arietes**.
+**Mulla'dil** is the name of both a mountainous region of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] and its inhabitants. After joining the Empire, the Mulla'dil people are commonly called **Strikers**.
 
-## Sumario
+## Contents
 
-1 Historia. [[#Historia]] 
-2 Rasgos físicos. [[#Rasgos f.C3.ADsicos]] 
-3 Cultura. [[#Cultura]] 
-4 Notas. [[#Notas]] 
+1 History. [[#History]] 
+2 Physical Traits. [[#Physical Traits]] 
+3 Culture. [[#Culture]] 
+4 Notes. [[#Notes]] 
 
 
-## Historia
-La nación fue incorporada al imperio muchos años antes del reinado del [[Ashravan\|emperador Ashravan]], y su nombre apenas se usa actualmente. Los habitantes de Mulla'dil están bien considerados por los [[Grande\|grandes]], aunque fueron renombrados como arietes después de que el imperio se anexara a su territorio. No es raro que los arietes sean altaneros. Suelen trabajar como guardias o soldados del imperio, aunque algunos de ellos preferirían una profesión diferente. Aquellos que trabajan en el [[Palacio Rosa\|Palacio Rosa]] tienen que estar alfabetizados.
+## History
+The nation was subsumed into the Empire many years previous to [[Ashravan\|Emperor Ashravan's]] reign, and the use of its name was rare in contemporary usage. The people of Mulla'dil were well regarded by the [[Grand\|Grands]], although they renamed them Strikers after the Empire annexed their territory. It was not uncommon for Strikers to be Elevated. Strikers were often employed as guards or soldiers by the Empire, although some of them would have preferred a different profession. Strikers employed at the [[Rose Palace\|Rose Palace]] were required to be literate.
 
-## Rasgos físicos
-Los mulla'dil son generalmente altos y de piel pálida, con cabello oscuro y rizado. Normalmente son esbeltos y atléticos, y a algunos se les puede describir como «fornidos».
+## Physical Traits
+Mulla'dil people are generally tall and pale-skinned, with dark, curly hair. They are usually lean and athletic, and some individuals can be described as "brawny".
 
-## Cultura
-Aunque Mulla'dil se integró en el imperio, su gente todavía mantiene una identidad cultural, incluyendo el uso regular del idioma mulla'dil. La antigua nación limitaba con los pantanos de [[Dzhamar\|Dzhamar]] y existía un profundo odio mutuo entre los arietes y sus vecinos. Todavía existe una considerable tensión debido a la práctica dzhamariana del [[Sellado de sangre\|sellado de sangre]], que los arietes consideran repulsiva y antinatural. La rivalidad entre ambas naciones puede llegar a estar por encima de su lealtad al imperio.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:03, 23 de septiembre de 2019 (UTC)
-|**[[El alma del emperador\|El alma del emperador]] ([[Sel\|Sel]])**|
-|-|-|
-|**Personajes**|[[Wan ShaiLu\|Wan ShaiLu]] · [[Gaotona\|Gaotona]] · [[Ashravan\|Ashravan]] · [[Frava\|Frava]] · [[Zu (Sel)\|Zu]] · [[Han ShuXen\|Han ShuXen]] · [[Kurshina\|Kurshina]] · [[Buf%C3%B3n imperial\|Bufón imperial]]|
-|**Lugares**|[[Imperio Rosa\|Imperio Rosa]] ·  · [[MaiPon\|MaiPon]] · [[Dzhamar\|Dzhamar]] · [[Ukurgi\|Ukurgi]] · [[Bosque de Sogdian\|Bosque de Sogdian]] · [[Palacio Rosa\|Palacio Rosa]] · [[Sede Imperial\|Sede Imperial]]|
-|**Magia**|[[Falsificaci%C3%B3n\|Falsificación]] · [[Sellado de sangre\|Sellado de sangre]] · [[Sello de alma\|Sello de alma]] · [[Piedra de alma\|Piedra de alma]] · [[Esqueleto\|Esqueleto]] · [[Marca de Esencia\|Marca de Esencia]]|
+## Culture
+Although Mulla'dil was folded into the Empire, its people still maintain a cultural identity, including the ongoing use of the Mulla'dil language. The former nation bordered the swamps of [[Dzhamar\|Dzhamar]] and there was a deep-seated hatred between the Strikers and their neighbors. There is still significant tension caused by the Dzhamarian practice of [[Bloodsealing\|Bloodsealing]], which the Strikers consider to be revolting and unnatural. The antagonism between the two nations may exceed their loyalty to the Empire.
 
 
 
-https://es.coppermind.net/wiki/Mulla%27dil
+https://coppermind.net/wiki/Mulla%27dil

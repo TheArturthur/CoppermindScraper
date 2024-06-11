@@ -1,81 +1,67 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Parlin**|
 |-|-|
 ||
-|**Familia**|
-|**Padres**|[[Yarda\|Yarda]]|
-|**Fallecido**|Torturado y asesinado por [[Tonk Fah\|Tonk Fah]] en 327|
-|**Religión**|[[Austrismo\|Austrismo]]🐱︎|
-|**Nacionalidad**|[[De Idris\|de Idris]]|
-|**Mundo natal**|[[Nalthis\|Nalthis]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El aliento de los dioses\|El aliento de los dioses]]*|
+|**Family**|
+|**Parents**|[[Yarda\|Yarda]]|
+|**Died**|Tortured and killed by [[Tonk Fah\|Tonk Fah]] in 327|
+|**Religion**|[[Austrism\|Austrism]]|
+|**Nationality**|[[Idrian\|Idrian]]|
+|**Homeworld**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
->“*Si no estás familiarizado con un sitio, conviene hacerlo lo antes posible.*”
-\-Parlin a Vivenna[2]
-
-
-**Parlin** es un guardia [[Idriano\|idriano]] de [[Nalthis\|Nalthis]]. Trabaja como cazador en Idris gran parte de su tiempo, pero acompañó a [[Vivenna\|Vivenna]] a [[Hallandren\|Hallandren]] cuando fue a rescatar a [[Siri\|Siri]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+>“*If you aren't familiar with a place, you need to become familiar with it."*”
+\-Parlin to Vivenna[2]
 
 
-## Apariencia y personalidad
-Parlin es un cazador tranquilo y consumado que prefiere los bosques y los animales a las ciudades y la gente.
-En Idris, Parlin vestía ropas de color marrón apagado que le ayudaban a camuflarse en las montañas y los bosques. En [[T'Telir\|T'Telir]], llevaba ropa que le ayudaba a camuflarse allí: un sombrero verde brillante que le caía por un lado de la cara y chalecos de colores. Es alto pero no larguirucho y tiene la cara cuadrada.
-Como la mayoría de los idrianos, es seguidor de [[Austre\|Austre]] y viste y actúa con modestia. Es escueto, no grosero, pero rara vez siente que tiene mucho que decir. Es confiable y seguro. Vivenna teme que T'Telir le agobie. Las multitudes lo ponen nervioso.
-[[Denth\|Denth]] describe a Parlin como "rápido para adaptarse a las situaciones" y "digno de confianza", por lo que merece la pena tenerlo cerca. Aunque admite que Parlin "no tiene el ingenio de un erudito".
+**Parlin** is an [[Idrian\|Idrian]] guardsman from [[Nalthis\|Nalthis]]. He works as a hunter in Idris for much of his time, but accompanied [[Vivenna\|Vivenna]] to [[Hallandren\|Hallandren]] when she went to rescue [[Siri\|Siri]].
 
-## Atributos y habilidades
-Parlin es un buen cazador y explorador. Es capaz de mezclarse con su entorno y muy observador. Aprende rápidamente las costumbres y los modales de los tipos duros de T'Telir y los adopta para integrarse mejor en la ciudad.
+## Contents
 
-## Historia
->“*Solo huelo cuerpos y especias, solo oigo el parloteo de la gente. No hay viento, ni árboles, ni ríos, solo... *gente*.*”
-\-Parlin a Vivenna.[2]
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-Antes de partir, Parlin vigilaba los pasos del norte. Actúa como guardaespaldas de [[Vivenna\|Vivenna]] cuando ésta va en secreto a [[T'Telir\|T'Telir]] en busca de su hermana [[Siri\|Siri]], y es varios años mayor que Vivenna. Era fácil de convencer y ya conocía la ruta, pues había explorado la muralla un año antes.
-Sin embargo, su habilidad para mezclarse con la naturaleza se refleja bien en la ciudad. Parlin adopta un sombrero y un chaleco de colores brillantes en T'Telir, que Vivenna afirma que le hacen parecer ridículo, pero [[Denth\|Denth]] señala que simplemente le hacen parecer hallandrense. Parlin también se fija en [[Joyas\|Joyas]] en un momento dado, lo que despierta los celos de Vivenna, aunque ella se niega a admitirlo cuando Denth saca el tema.
-Es torturado hasta la muerte por el mercenario [[Tonk Fah\|Tonk Fah]] cuando Denth cree que Vivenna ha huido, ya que poco antes había hablado con ella en las escaleras y ella podría haberle hecho confidencias. Denth no pretendía que Tonk Fah lo matara, pero este se dejó llevar durante la tortura. Su cuerpo queda atado a una silla en el piso franco de los barrios bajos. Funciona como el cebo de una trampa porque cuando es descubierto por Vivenna es allí donde es apresada por Denth y Tonk Fah. Vivenna se culpa por la muerte de Parlin, ya que ella lo convenció de ir a esa misión.
+## Appearance and Personality
+Parlin is a quiet and accomplished hunter who prefers forests and animals to cities and people.
+In Idris, Parlin wore dull brown clothing that would help camouflage him in the mountains and forests. In [[T'Telir\|T'Telir]], he wore clothing that helped him blend in there: a bright green hat that flopped down the side of his face and colorful vests. He is tall but not lanky and has a square-jawed face.
+Like most Idrians, he is a follower of [[Austre\|Austre]] and dresses and acts with self-deprecation. He is terse; he is not rude, but he rarely feels he has much to say. He is solid and reliable. Vivenna fears T'Telir is probably overwhelming him. Crowds make him nervous.
+[[Denth\|Denth]] describes Parlin as "quick at adapting to situations" and "trustworthy", making him worth keeping around, though he does admit that Parlin doesn't have the "wit of a scholar."
 
-## Relaciones
-Es hijo del general [[Yarda\|Yarda]].
-Es el hombre con el que el rey [[Dedelin\|Dedelin]] habría casado a [[Vivenna\|Vivenna]] si ella no hubiera sido prometida al [[Susebron\|rey-dios]]. Fueron amigos íntimos durante toda la infancia.
-[[Vivenna\|Vivenna]] no está enamorada de Parlin, pero siente afecto por él. Lo ve más como un hermano.
-Se siente atraído por [[Joyas\|Joyas]], pero a ella sólo le divierte. No está interesada románticamente, ya que ya está con [[Arsteel\|Arsteel]].
+## Attributes and Abilities
+Parlin is a good hunter and scout. He is able to blend into his surroundings and is very observant. He quickly picks up on the customs and mannerisms of the street toughs of T'Telir and adopts both to better blend into the city.
 
-## Citas
->**Vivenna**: "*Por desgracia, Parlin, las personas no son animales.**"***Parlin**: "*Soy consciente de ello. Los animales tienen sentido.**"*
-\-Vivenna: "Por desgracia, Parlin, las personas no son animales.
+## History
+>“*I can’t smell anything but bodies and spices, can’t hear anything but the chatter of people. There’s no wind, no trees, no rivers, just… *people*.*”
+\-Parlin to Vivenna[2]
+
+
+Before departing, Parlin was guarding the Northern Passes. He acts as [[Vivenna\|Vivenna's]] bodyguard when she goes secretly to [[T'Telir\|T'Telir]] after her sister [[Siri\|Siri]], and is several years Vivenna's senior. He was easy to convince and already knew the route, as he had scouted the wall a year before.
+Nevertheless, his skill at blending in with nature translates well to the city. Parlin adopts a brightly colored hat and vest in T'Telir, which Vivenna claims makes him look ridiculous, but [[Denth\|Denth]] points out it simply makes him look Hallandren. Parlin also takes a shine to [[Jewels\|Jewels]] at one point which sparks jealousy in Vivenna, though she refuses to admit it when Denth brings it up.
+He is tortured to death by the mercenary [[Tonk Fah\|Tonk Fah]] when Denth believes Vivenna has run away, as only a short time previously he had talked to her on the stairs and she may have confided in him. Denth did not intend for Tonk Fah to kill him, but Tonk Fah got carried away during the torture. His body is then left tied to a chair in the safe house in the slums. It works like bait in a trap because when it is discovered by Vivenna it is here she is taken by Denth and Tonk Fah. Vivenna blames herself for Parlin's death, as she convinced him to come on this mission.
+
+## Relationships
+He is the son of General [[Yarda\|Yarda]].
+He is the man King [[Dedelin\|Dedelin]] would have married [[Vivenna\|Vivenna]] to had she not been promised to the [[Susebron\|God King]]. They were close friends throughout childhood.
+[[Vivenna\|Vivenna]] is not in love with Parlin, but she does have affection for him. She views him more as a brother.
+He is attracted to [[Jewels\|Jewels]], but she is only amused by him. She is not romantically interested, as she is already involved with [[Arsteel\|Arsteel]].
+
+## Quotes
+>**Vivenna**: "*Unfortunately, Parlin, people aren't like animals.**"***Parlin**: "*I am aware of that. Animals make sense.**"*
+\-Vivenna: "Unfortunately, Parlin, people aren't like animals.
 "
-Parlin: "Soy consciente de ello. Los animales tienen sentido.
+Parlin: "I am aware of that. Animals make sense.
 "
 
 
-## Curiosidades
-En los primeros borradores de *El aliento de los dioses*, Parlin se llamaba Peprin y era mucho más torpe e inocente.
-Si [[Brandon Sanderson\|Brandon Sanderson]] pudiera cambiar algo de *El aliento de los dioses*, sería hacer de Parlin un personaje más convincente. Su muerte debería haber sido más impactante.
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+## Trivia
+In early drafts of Warbreaker, Parlin was named Peprin and was much more bumbling and innocent.
+If [[Brandon Sanderson\|Brandon Sanderson]] could change anything about Warbreaker, it would be to make Parlin a more compelling character. His death should have been more impactful.
 
 
-
-https://es.coppermind.net/wiki/Parlin
+https://coppermind.net/wiki/Parlin

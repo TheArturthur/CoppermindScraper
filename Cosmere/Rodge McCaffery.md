@@ -1,139 +1,124 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Rodge McCaffrey**|
 |-|-|
 ||
-|**Títulos**|Identificador: Galimatías|
-|**Apodos**|Gali|
-|**Habilidades**|Reparación de naves|
-|**Oficio**|Ingeniero, Piloto de la FDD |
-|**Grupo**|Cuerpo de ingenieros|
-|**Mundo natal**|[[Detritus\|Detritus]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[Escuadr%C3%B3n\|Escuadrón]]*|
+|**Titles**|Callsign: Rigmarole|
+|**Aliases**|Rig|
+|**Skills**|Ship repair|
+|**Profession**|Engineer, DDF pilots |
+|**Groups**|Engineering Corps|
+|**Homeworld**|[[Detritus\|Detritus]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!warning] ¡Esta página o sección contiene spoilers de *[[Desafiante (libro)\|Desafiante]]*!Esta información destripa elementos de la trama.  Ándese con ojo si no ha leido este libro.
+> [!info] This page or section needs to be updated with new information for *[[Evershore (novella)\|Evershore]]* and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Cit%C3%B3nica (libro)\|Citónica]]* y *[[Desafiante (libro)\|Desafiante]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+**Rodge McCaffrey** (**Rig**, callsign: **Rigmarole**) is a childhood friend of [[Spensa\|Spensa]] who is accepted into [[DDF\|DDF]] [[Flight School\|Flight School]] with her. He drops out after their first battle, pursuing the Engineering Corps and getting a job there.
 
-**Rodge McCaffrey** (**Gali**, identificador: **Galimatías**) es un amigo de la infancia de [[Spensa\|Spensa]] que es aceptado en la [[Escuela de vuelo\|escuela de vuelo]] de la [[FDD\|FDD]] con ella. Abandona después de su primera batalla, buscando al Cuerpo de Ingenieros y consigue un trabajo allí.
+## Contents
 
-## Sumario
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+2. [[#Flight School]] 
+2. [[#Repairing M-Bot]] 
+2. [[#Experiments with the Taynix]] 
+2. [[#Alanik.E2.80.99s Return]] 
+2. [[#Helping Alanik]] 
 
-2. [[#Escuela de vuelo]] 
-2. [[#Reparando a M-Bot]] 
-2. [[#Experimentos con los taynix]] 
-2. [[#Regreso de Alanik]] 
-2. [[#Ayudando a Alanik]] 
-
-2. [[#En ReAlba]] 
-2. [[#Vuelta a Detritus]] 
+2. [[#On ReDawn]] 
+2. [[#Back to Detritus]] 
 
 
 
 
-3 Relaciones. [[#Relaciones]] 
+3 Relationships. [[#Relationships]] 
 
 3. [[#Spensa]] 
 3. [[#FM]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Gali es larguirucho y pelirrojo. Sus ojos son de un azul claro y profundo. A menudo se siente cohibido, pero gracias a los diseños por los que recibe tantos elogios en el Cuerpo de Ingenieros, adquiere mucha más confianza en sí mismo. Gali es muy inteligente, y es bueno con la maquinaria.
+Rig is described as lanky and has red hair. His eyes are a clear, deep blue. He is often self-conscious, but through the designs he receives so much praise for at the Engineering Corps, he becomes much more confident. Rig is very smart, and is good with machinery.
 
-## Historia
-### Escuela de vuelo
-Gali conoce a Spensa desde hace mucho tiempo. Estudiaron juntos para el examen de ingreso en la escuela de vuelo y Gali obtuvo una puntuación perfecta. Se entrena con Spensa allí, pero su escuadrón es llamado a la batalla tras un breve periodo de entrenamiento. En el transcurso de la batalla, su nave es alcanzada por un destructor krell, pero su escudo resiste y sale ileso. Al día siguiente abandona el programa, dándose cuenta de que sólo ha sido el sueño de Spensa.
+## History
+### Flight School
+Rig has known Spensa for a very long time. They studied for their Flight School entrance exam together and Rig received a perfect score. He trains with Spensa at the flight school, but their flight is called into battle after only a short amount of training. In the course of the battle his ship gets struck by a Krell destructor blast, though his shield holds and he makes it out of the battle unscathed. The next day he drops out of the program, realizing that it has only ever been Spensa's dream.
 
-### Reparando a M-Bot
-Gali recibió varias ofertas de trabajo tras abandonar los estudios, pero Spensa le enseñó a M-Bot, un caza de alta tecnología accidentado que encontró en una cueva. Gali estaba entusiasmado y quería ayudar a repararlo. Por ello, decide aceptar un trabajo en el Cuerpo de Ingenieros para adquirir las piezas y los conocimientos que necesitará para arreglar a M-Bot. A medida que aprendía más y más durante su formación como ingeniero, fue capaz de ayudar a repararlo poco a poco. Consiguió la mayoría de los suministros necesarios gracias a su trabajo, aunque le faltaban algunos artículos, principalmente un propulsor. Rodge quería compartir los diseños de algunas de las características de la nave, aunque muchas de sus características eran demasiado complicadas para que él las entendiera y explicara. Algunas consiguió exponerlas a sus superiores, lo que rápidamente le granjeó el favor y su respeto. Cuando Spensa consiguió obtener un propulsor de los restos de la nave de [[Arcada\|Arcada]], Rodge pudo terminar de reparar M-Bot.
+### Repairing M-Bot
+Rig received multiple offers for jobs after dropping out, then Spensa showed him M-Bot, a crashed, high-tech fighter which she found in a cave. Rig was very excited, wanting to help repair it. Because of this, he decides to accept a job with the Engineering Corps to acquire the parts and knowledge he will need to fix M-Bot. As he learned more and more during his training as an engineer, he was able to help repair M-Bot bit by bit. He managed to get most of the necessary supplies through his job with the Engineering Corps, though lacked a few items, mainly a booster. Rodge wanted to share the designs some of M-Bot’s features, though many of his features were too complicated for him to understand and explain. Some of the features he managed to explain to his superiors, which quickly granted him favor and respect there. When Spensa managed to get a booster from the wreckage of [[Hurl\|Hurl]]’s ship, which allowed Rodge to finish repairing M-Bot.
 
-### Experimentos con los taynix
-Junto con Jorgen y FM, Gali es asignado para ayudar en la investigación de cómo utilizar los taynix como hipermotores, después de que Jorgen encuentre una colonia de ellos en las cavernas de Detritus. Trabajó en la parte más técnica de los experimentos, y creó una caja metálica hecha del mismo material que la que encontraron dentro de M-Bot.
-Más tarde Gali estaba trabajando en la sala de control de la Plataforma Primaria, intentando encontrar dónde se encuentra el comunicador FTL (más rápido que la velocidad de la luz). Intentó sutilmente que se marchara y FM le preguntó qué tenía contra ella. Gali admitió que le gustaba y cambiaron de tema. Encontraron el comunicador FTL, una caja metálica como la de la nave de M-Bot, y se dieron cuenta de que si le ponían un taynix, podrían usarlo para comunicarse a hipervelocidad.
-Gali ayudó a idear un experimento para Jorgen, y éste intenta teletransportarse usando una babosa en la caja metálica. También intentó teletransportarse usando una nave, y Gali monitorizó el experimento desde la Plataforma Primaria. Cuando la Supremacía fue alertada de las habilidades citónicas de Jorgen y se pusieron en posición para bombardear, Jorgen le dijo a Gali que él iría en un caza con FM. Le dijo que atacarían el cañón planetario, y que necesitarían a alguien con conocimientos mecánicos para saber cómo destruirlo mejor una vez que ella llegara allí. Era reacio a volver a entrar en combate, pero el Escuadrón Cielo se alegró de tenerle de vuelta aunque fuera por poco tiempo. Él y FM volaron hacia la batalla, escuchando la música que ella llevaba mientras lo hacían.
-Después de que Jorgen teletransportara su nave cerca del acorazado principal de la Supremacía, Gali analizó el cañón y decidió que estaba fuertemente protegido. Le dijo a FM que apuntara a los controles, que estaban menos protegidos. Sin embargo, pronto se vieron rodeados por krell y obligados a retirarse. Cobb ordenó la retirada cuando el cañón empezó a disparar contra Detritus, pero el Cuerpo de Ingenieros consiguió levantar el escudo planetario para bloquear los disparos. El Escuadrón Cielo se reagrupó a cierta distancia mientras el Mando ideaba un plan y daba tiempo a los taynix para recuperarse.
-Gali y FM se acurrucaron con las babosas en la nave de FM mientras escuchaban música. Se cogieron de la mano, disfrutando de la compañía del otro y hablando, y FM le dijo a Gali que estaba interesada en él. Una vez que las babosas se hubieron relajado, el Escuadrón Cielo y algunas otras naves tocaron alas, y Jorgen las teletransportó dentro del escudo.
-Tras aterrizar en la Plataforma Primaria, Gali fue a reunirse con el Cuerpo de Ingenieros y después informó a FM de que iban a intentar utilizar a Bien para hacer funcionar el comunicador FTL. Mientras se dirigían a la sala de mando, Rig y Gali hablaron de lo que más temían, y Gali admitió que temía morir en combate y dejar de existir. Hablaron de sus días en la escuela de vuelo, así como de los taynix, y el tema giró en torno a sus experimentos. Gali propuso que probaran diferentes experimentos, y él y FM se besaron brevemente.
+### Experiments with the Taynix
+Along with Jorgen and FM, Rig is assigned to help with the investigation of how to use the taynix as hyperdrives, after Jorgen finds a colony of them in the caverns of Detritus. He worked on the more technical side of the experiments, and created a metal box made of the same material as the one that they found inside M-Bot.
+Later Rig was working in the Platform Prime control room, trying to find where the FTL communicator is located. He subtly tried to get her to leave, and FM asked him what he had against her. Rig admitted that he liked her, and they awkwardly changed the subject. They found the FTL communicator, a metal box like the one in M-Bot’s ship, and they realized that if they put a taynix in it, they could use it for hyperspeed communication.
+Rig heped devise an experiment for Jorgen, and he tries to teleport using a slug in the metal box. Jorgen tried to teleport using a ship, and Rig monitored the experiment from Platform Prime. When the Superiority was alerted to Jorgen’s cytonic abilities and they moved into position for bombardment, and Jorgen told Rig that he’d be in a fighter with FM. He told Rig that they’d be attacking the planetary cannon, and would need someone with mechanical knowledge to know how to best destroy it once she got up there. He was reluctant to go back into combat again, but Skyward Flight was glad to have him back even for a short time. He and FM flew up to the battle, listening to FM’s music as they went.
+After Jorgen teleported their ship up close to the Superiority main battleship, Rig analyzed the cannon and decided it was heavily protected. He told FM to target the controls, which were less shielded. They were soon swarmed by Krell however and forced to retreat. Cobb called the retreat as the cannon began firing at Detritus, but the Engineering Corps managed to get the planetary shield up to block the shots. Skyward Flight regrouped a ways away while Command figured out a plan, and gave the taynix time to recover.
+Rig and FM cuddled with the slugs in FM’s ship while listening to music. They held hands, enjoying each other’s company and talking, and FM told Rig that she is interested in him. Once the slugs had relaxed, Skyward Flight and a few other ships touched wings, and Jorgen teleported them inside the shield.
+After they landed on Platform Prime, Rig went to meet with the Engineering Corps and afterward informed FM that they were going to try using Fine to make the FTL communicator work. As they walked to the command room, Rig and FM discussed what they feared most, and FM admitted that she’s afraid of dying in battle and ceasing to exist. They discussed their days in flight school as well as the taynix, and the topic turned to their experiments. Rig proposed that they try different experiments, and him and FM kissed briefly.
 
  
-FM y Gali trabajaron en un experimento en el hangar de ingeniería, intentando enseñar a los taynix a teletransportarse a un lugar conocido. Le enseñaron a Mofletes caviar en una caja, llamándola "casa". FM lo puso en otra caja y le dijo que fuera a "casa". Aunque al principio no lo hizo, con el tiempo se teletransportó al lugar. Probaron el mismo experimento con otras dos babosas, con resultados variables. Se dirigieron a la sala de mando de la Plataforma Primaria, donde Bien había sido introducida en el comunicador. Cobb llamó a Cuna, que respondió. Gali escuchó cómo este pedía ayuda, diciendo que estaban siendo asediados por veinte cazas krell en la estación [[Alcance Solar (estaci%C3%B3n)\|Alcance Solar]]. Cobb ordenó al Escuadrón Cielo que partiera inmediatamente, y Gali se despidió de FM mientras se marchaba, temiendo por su seguridad.
-Tras la vuelta del Escuadrón Cielo con Cuna y su personal, Gali tuvo un alegre reencuentro con FM. Hablaron un poco, y luego se besaron.
+FM and Rig worked on an experiment in the engineering bay, trying to teach the taynix to teleport to a familiar place. They showed Chubs some caviar in a box, calling it “home”. FM put Chubs in a separate box and told him to go to “home”. Though he doesn’t initially, he eventually teleports into the box. They tried the same experiment with two more slugs, with varying results. They headed to the command room on Platform Prime, where Fine had been loaded into the communicator. Cobb called Cuna, who responded. Rig listened as Cuna requested help, saying that they’re being besieged by twenty Krell fighters at the station of [[Sunreach (station)\|Sunreach]]. Cobb ordered Skyward Flight to depart immediately, and Rig said goodbye to FM as she left, fearing for her safety.
+After Skyward Flight returned with Cuna and their staff, Rig had a joyful reunion with FM. They talked a bit, then kissed.
 
-### Regreso de Alanik
->“*¿Vienes con nosotros? Porque si no, casi que vuélvete a Ingeniería. Es mejor que no te asocien con lo que vamos a hacer.*”
-\-FM a Gali antes de irse[18]
-
-
-Cuando Alanik llegó a Detritus y solicitó ayuda, Gali y otros miembros del Escuadrón Cielo fueron a charlar con ella mientras esperaba una decisión. Charlaron amistosamente, y Cobb entró y les dijo que la petición de Alanik había sido denegada oficialmente, que tenía las manos atadas, pero insinuó que quería que el Escuadrón Cielo partiera de todos modos. Gali decidió no ir con ellos, quedándose a regañadientes.
-
-### Ayudando a Alanik
-#### En ReAlba
->“*Os ayudaré. Pero deberíais saber que aquí también están pasando muchas cosas. Cobb y Jeshua han ido a reunirse con unos representantes de la Supremacía.*”
-\-Gali a FM[19]
+### Alanik’s Return
+>“*Are you coming with us? Becuase if not, you should get back to Engineering. you don’t want to be associated with what we’re about to do.*”
+\-FM to Rig before leaving[18]
 
 
-FM y Alanik hipersaltaron a Deteritus para reclutar a Gali, ya que necesitaban su ayuda con [[Hoja Errante\|Hoja Errante]] y arreglando la nave de Alanik. Él accedió a ayudarles y les puso al corriente de los tratos de la Asamblea Nacional con la Supremacía. Una vez en Hoja Errante, Gali examinó los sistemas de la Plataforma, encontrando un mecanismo de hipermotor, un sistema de armas y un sistema de escudos.
+When Alanik came to Detritus and requested aid, Rig and other members of Skyward Flight came to chat with her while she awaited a decision. They chatted amiably, and Cobb came in and told them that Alanik’s request had been officially denied. He said his hands were tied, but heavily hinted that he wanted Skyward Flight to leave anyway. Rig decided not to leave with Skyward Flight, reluctantly staying behind.
 
->“*Interesante. ¿Es posible que necesite un hipermotor para trasladarse? Traedme algo para que me suba y mire encima de las cajas, a ver cómo están conectadas a la plataforma.*”
-\-Gali analizando los sistemas de Hoja Errante[20]
-
-Ayudó a Jorgen a descubrir cómo funciona el inhibidor citónico de la Plataforma, y pasó los siguientes días trabajando duro, sin dormir mucho. Reparó la nave de Alanik, activó el escudo de la Plataforma y ayudó a averiguar cómo utilizar a Babosa Explosiva en el sistema de armas. Después de que los demás idearan un plan, utilizó a [[Trapo\|Trapo]] para hacer que la plataforma hipersaltara en las afueras de la ciudad arbórea Torre. Mientras Alanik y Arturo iban a rescatar a [[Rinakin\|Rinakin]] y el Escuadrón Cielo luchaba contra las naves de Unidad, Gali se quedó en Hoja Errante con Jorgen y manejó la plataforma. Cuando una nave de combate de la Supremacía llegó para atacar Torre, Gali hizo un hipersalto con Hoja Errante hasta acercarse a ella, lo que permitió que las torretas automáticas y el sistema de armas de hojas mentales la destruyeran. Un soldado varvax citónico saltó sobre Hoja Errante para intentar apoderarse de la sala de mando, y Gali llamó a Babosa Explosiva para que le ayudara. Esta atacó al varvax, destruyendo su armadura y provocando su huida. Las fuerzas de Unidad se retiraron, y la facción Independencia y el Escuadrón Cielo ganaron la batalla. Cobb les llamó y les dijo que regresaran a Detritus con algunos de los oficiales de los UrDail. Gali y los demás pensaron que Cobb estaba actuando de forma extraña, y determinaron que el hombre era en realidad un impostor que se hacía pasar por Cobb, utilizando tecnología holográfica robada a M-Bot. Pusieron fin a la charla, y Gali hizo que Hoja Errante hipersaltara hasta un punto fuera de Detritus.
-
-#### Vuelta a Detritus
->“*La caja está diseñada para impedir su manipulación. No sé cómo funciona, pero eso sí lo veo claro. Alanik, lo siento. No sé resolverlo. Tenemos que irnos de esta nave ahora mismo.*”
-\-Gali a Alanik[24]
+### Helping Alanik
+#### On ReDawn
+>“*I’ll help you. But you should know, there’s a lot going on here too. Cobb and Jeshua met with some representatives from the Superiority.*”
+\-Rig to FM[19]
 
 
-De vuelta fuera de Detritus, Alanik y Jorgen subieron a bordo de una nave de la Supremacía para rescatar a la yaya, Cobb, los padres de Jorgen y los miembros de la Asamblea Nacional. Alanik descubrió una bomba a bordo, preparada para explotar, y trajo a Gali desde Hoja Errante. Examinó la bomba, pero no sabía cómo detenerla. Utilizó a Trapo para volver hipersaltando a Hoja Errante, mientras Alanik y Jorgen intentaban sacar a los demás de la nave. Consiguieron sacar a la yaya y a Cobb, pero los demás murieron en la explosión. Después, Gali se culpó en parte de sus muertes, pero Alanik le dijo que no era culpa suya. Gali se unió a Jorgen y al resto del escuadrón mientras Jorgen gritaba al [[Stoff\|vicealmirante Stoff]], y fue con FM para intentar que una de las babosas encontrara a Cobb. Cuando el resto del Escuadrón Cielo partió hacia [[Orilla Perpetua (planeta)\|Orilla Perpetua]], Gali trabajó en la exploración de las plataformas de Detritus con el equipo de ingeniería. FM y Jorgen volvieron a Detritus durante la batalla por Orilla Perpetua, y se reunieron con Gali. Tras ser informados de la situación, fue con ellos a despertar a Stoff y darle un informe. Este les dio casi total autonomía, descargando sobre ellos la responsabilidad y, por tanto, la posible culpa del fracaso. Jorgen ordenó a Gali que intentara acceder al centro de control de plataformas, para intentar enviar algunas plataformas a Orilla Perpetua para ayudar.
+FM and Alanik hyperjumped to Deteritus to recruit Rig, since they needed his help overeating [[Wandering Leaf\|Wandering Leaf]] and fixing Alanik’s ship. He agreed to help, and filled them in on the National Assembly’s dealings with the Superiority. Once on Wandering Leaf, Rig examined the platform’s systems, findings a hyperdrive mechanism, a weapons system, and a shield system.
 
->“*Hum. Sé que te he pedido más babosas, pero la verdad es que no sé en qué cajas meterlas. Y no tengo ni idea de lo que harían algunas de ellas, aunque averiguáramos dónde ponerlas.*”
-\-Gali a Jorgen[29]
+>“*Interesting. Maybe it requires a hyperdrive to move? Get me someting to stand on so I can get a look above the boxes and see how they’re interfaced with the platform.*”
+\-Rig analyzing Wandering Leaf’s systems[20]
 
-Algún tiempo después, Jorgen volvió a hacer un hipersalto hacia Gali, diciéndole que necesitaban transportar varias plataformas a Orilla Perpetua lo antes posible, ya que estaban llegando refuerzos de la Supremacía. Gali le mostró a Jorgen que había toneladas de cajas taynix vacías en la sala de control, pero que no sabía qué hacían muchas de ellas, y mucho menos tenía suficientes babosas para alimentarlas a todas. Jorgen y Bien conectaron con los taynix que había bajo Detritus, invocando cientos de babosas distintas en la sala de control, lo que sobresaltó a Gali. Él y varias de las babosas empezaron a meter a las nuevas en cajas, aunque Gali todavía no sabía muy bien lo que estaba haciendo. Jorgen le dijo que se las arreglara como pudiera.
-Cuando las fuerzas de la Supremacía empezaron a atacar varias ciudades de Orilla Perpetua, Gali se vio obligado a darse prisa. Jorgen, con la ayuda de Bien, consiguió hacer hipersaltar todo el planeta de Detritus hasta un punto alejado de Orilla Perpetua. Gali descubrió que la plataforma de control tenía controles de navegación similares a los de la Plataforma Primaria, que podían dirigir los hiperbabosas. La repentina aparición de Detritus provocó un enorme maremoto abajo, y él y sus ingenieros se apresuraron a introducir las coordenadas en el sistema de navegación. Alejó a Detritus de Orilla Perpetua, al tiempo que enviaba varias plataformas al planeta para proteger las ciudades kitsen de las naves de la Supremacía. Tras la retirada de la Supremacía y la salvación de Orilla Perpetua, Gali trabajó en la colocación óptima de plataformas alrededor del planeta para generar el escudo.
+He helped Jorgen figure out how to work the platform’s cytonic inhibitor, and spent the next few days hard at work, not getting much sleep. He repaired Alanik’s ship, activated the platform’s shield, and helped figure out how to use Boomslug in the weapons system. After the others came up with a plan, he used [[Drape\|Drape]] to hyperjump the platform outside the tree city of Tower. While Alanik and Arturo went to rescue [[Rinakin\|Rinakin]] and Skyward Flight fought off Unity ships, Rig stayed on Wandering Leaf with Jorgen and operated the platform. When a Superiority battleship arrived to attack Tower, Rig hyperjumped Wandering Leaf up close to it, allowing the automatic turrets and mindblade weapons system to destroy it. A cytonic varvax soldier hyperjumped onto Wandering Leaf to try and seize the command room, and Rig called for Boomslug to help him. Boomslug attacked the varvax, destroying its armor and causing it to flee. The Unity forces retreated, and the Independence faction and Skyward Flgiht won the battle. Cobb called them, and told them to return to Detritus with some of the UrDail officials. Rig and the others thought Cobb was acting strangely, and determined that the man is actually an imposter posing as Cobb, using holographic technology stolen from M-Bot. They ended the conversation, and Rig hyperjumped Wandering Leaf to a point outside Detritus.
 
-## Relaciones
+#### Back to Detritus
+>“*The box is rigged to prevent tampering. I don’t know how it works, but I know that much. Alanik, I’m sorry. I can’t fix it. We need to get off this ship immediately.*”
+\-Rig to Alanik[24]
+
+
+Back outside Detritus, Alanik and Jorgen went aboard a Superiority ship to rescue Gran-Gran, Cobb, Jorgen’s parents, and members of the National Assembly. Alanik discovered a bomb on board, rigged to blow, and fetched Rig from Wandering Leaf. Rig examined the bomb, but didn’t know anything about how to stop it. He used Drape to hyperjump back to Wandering Leaf while Alanik and Jorgen tried to get the others off the ship. They got Gran-Gran and Cobb off, but the others died in the resulting explosion. Afterward, Rig partially blamed himself for their deaths, but Alanik told him it wasn’t his fault. Rig joined Jorgen and the rest of the flight as Jorgen yelled at [[Stoff\|Vice Admiral Stoff]], and went with FM to try and get one of the slugs to find Cobb. When the rest of Skyward Flight left for [[Evershore (planet)\|Evershore]], Rig worked on exploring Detritus’ platforms with the Engineering team. FM and Jorgen returned to Detritus during the battle for Evershore, and met with Rig. After being appraised of the situation, Rig went with them to wake up Stoff and give him a report. Stoff gave them almost full autonomy, dumping the responsibility, and therefore possible blame for failure, on them. Jorgen ordered Rig to try and access the platform control center, to try and send some platforms to Evershore to help.
+
+>“*Um, I know I asked you for more slugs, but I really don’t know which boxes to put them in. I have no idea what some of these slugs would do, even if we could figure out where to put them.*”
+\-Rig to Jorgen[29]
+
+Some time later, Jorgen hyperjumped to Rig again, saying they needed to transport several platforms to Evershore as soon as possible, since Superiority reinforcements were arriving. Rig showed Jorgen that there were tons of empty taynix boxes in the control room, but that he didn’t know what many of them did, much less have enough slugs to power them all. Jorgen and Fine connected with the taynix beneath Detritus, summoning hundreds of various slugs into the control room, startling Rig. Rig and several of the slugs started getting the new slugs into boxes, though Rig still didn’t really know what he was doing. Jorgen told him to just do his best to figure it out.
+When the Superiority forces started targeting various Evershore cities, Rig was forced to hurry up. Jorgen, with the help of Fine, managed to hyperjump the entire planet of Detritus to a point off Evershore. Rig found that the control platform had similar navigation controls to Platform Prime, which could direct the hyperslugs. Detritus’ sudden appearance caused a massive tidal wave to form down below, and he and his engineers scrambled to enter coordinates into the navigation system. He moved Detritus further away from Evershore, while also sending out various platforms down to Evershore to protect the kitsen cities from Superiority ships. After the Superiority retreated and Evershore was saved, Rig worked on optimally placing platforms around the planet to generate the shield.
+
+## Relationships
 ### Spensa
->“*Crecimos juntos. Es como mi hermana. No es que tenga ninguna, pero si tuviera una hermana que fuese... así como aterradora, creo que me daría la misma sensación.*”
-\-Rodge a FM sobre Spensa[13]
+>“*We grew up together. She’s like my sister. Not that I ever had a sister, but if I had one who was, like, terrifying, that’s how I think it would feel.*”
+\-Rodge to FM about Spensa[13]
 
 
-Rodge y Spensa son amigos desde que tenían unos ocho años, ya que ambos eran marginados sociales. El entusiasmo de Spensa suele contagiar a Rodge, que se ve arrastrado a muchas de sus temerarias aventuras. Sin embargo, Rodge se resigna a ello y no se sorprende cuando Spensa aparece a altas horas de la noche colgada boca abajo en su ventana. Cuando alguien intentó robarle la comida a Rodge cuando eran más jóvenes, ella le rompió un brazo y le puso un ojo morado.
-Cuando Rodge se da cuenta de que la escuela de vuelo no es para él, Spensa se enfada, pero se da cuenta de que será más feliz en otra parte. Rodge se preocupa por Spensa cuando se infiltra en la Supremacía y queda atrapada en la ninguna-parte, pero confía en que logrará salir.
+Rodge and Spensa have been friends since they were about eight, as they were both social outcasts. Spensa's enthusiasm often catches Rodge up and he is dragged along on many of her reckless adventures. Rodge is resigned to this, though, and isn't surprised when Spensa turns up late at night hanging upside-down at his window. When someone was trying to steal Rodge's lunch when they were younger, she gave the offender a broken arm and black eye.
+When Rodge realizes that flight school is not for him, Spensa is upset, but comes to realize he will be happier elsewhere. Rodge is worried about Spensa when she infiltrates the Superiority and gets trapped in the nowhere, but has confidence that she will make it out.
 
 ### FM
->“*No puedes contarle lo que he dicho. Seguro que ni se acuerda de quién soy. ¿Se acuerda?*”
-\-Rodge hablando con Spensa después de admitir que le gusta FM[36]
+>“*You will not tell her I said those things. She probably doesn’t even remember who I am....Does she?*”
+\-Rodge talking to Spensa after admitting he likes FM[36]
 
 
-[[Rodge\|Rodge]] está enamorado de FM y piensa que es inteligente, guapa y tiene unos ojos bonitos. Spensa, mientras hace de casamentera, le pregunta a FM por sus preferencias sentimentales para ver si estaría interesada en alguien como Rodge, aunque sus intentos de averiguar información no llegan muy lejos.
-FM piensa que Rodge es guapo y quería conocerlo mejor. Sin embargo, debido a su timidez, Rodge se sentía muy incómodo con ella, lo que le hace pensar que no le gustaba, ya que nunca la miraba a los ojos y rara vez le hablaba.
-Después de que ella se enfrente a él, preguntándole cuál es su problema, él le confiesa que está colado por ella, y se disculpa por haberle hecho sentir que no le gustaba. FM, aunque encuentra atractivo a Rodge, está preocupada por entablar una relación debido al peligro de su vida como piloto, sabiendo que cualquier día podría volar y no volver. Le dice que no sabe si le gusta alguien, y él se lo toma como una suave decepción.
-Después de esto, Rodge es capaz de hablar más con FM y la trata con más normalidad, y hace que a ella le salte el corazón cuando le sonríe. Cuando la Supremacía se prepara para disparar contra Detrius con armas planetarias, FM y Rodge viajan juntos en el [[Dulo\|Dulo]]. Cuando el escudo planetario se dispara, ellos, el resto del Escuadrón Cielo y un par de pilotos más quedan atrapados en el exterior hasta que se reúnen para hacer un hipersalto de vuelta al interior. Durante la espera, FM le dice a Rodge que ahora está más segura de sus sentimientos, y le coge la mano, para deleite de él. Después de la batalla, FM está estresada y preocupada por los [[Taynix\|taynix]]. Rodge habla con ella y la ayuda a sentirse mejor. Ella lo besa después de que él la ayuda a levantarse. Trabajan juntos para experimentar con los taynix, y Rodge está de acuerdo con FM en que las babosas están vivas y son algo más que herramientas. Rodge se preocupa cuando FM se va de misión, y a ella le preocupa hacerle daño si no vuelve, pero decide que no tiene mucho sentido seguir vivo si uno no tiene mucho por lo que vivir. Con este pensamiento, ella decide continuar su relacion con Rodge a pesar del peligro de su situacion.
-FM y Rodge usaron su taynix para encontrarse discretamente, porque aún no estaban preparados para decirle a todo el mundo que estaban saliendo. Están muy unidos, y a FM le gusta ayudar a Rodge con sus proyectos de ingeniería, o al menos verle trabajar.
+[[Rodge\|Rodge]] has a crush on FM and thinks she is smart, cute, and has nice eyes. Spensa, while playing matchmaker, asks FM about her dating preferences to see whether she would be interested in someone like Rodge, although her attempts to find out information do not go very far.
+FM thinks Rodge is cute, and wanted to get to know him better. Because of his shyness, though, Rodge felt very awkward around her and she thought he didn't like her, as he never looked her in the eye and rarely spoke to her.
+After she confronts him, asking what his problem is, he confesses that he has a crush on her, and apologizes for making her feel that he didn't like her. FM, though she finds Rodge attractive, is worried about getting into a relationship because of the danger of her life as a pilot, knowing that any day, she could fly away and not come back. She tells Rodge she doesn't know if she likes anyone, and he takes it as a gentle letdown.
+After this, Rodge is able to talk to FM more and treats her more normally, and makes her heart skip when he smiles at her. When the Superiority prepares to fire on Detrius with planetary weapons, FM and Rodge ride together in the [[Dulo\|Dulo]]. When the planetary shield goes up, they, the rest of Skyward flight, and a couple of other pilots are trapped outside until they rendezvous to hyperjump back inside. During the wait, FM tells Rodge that she's more sure about her feelings now, and takes his hand, much to his delight. After the battle, FM is stressed and worrying about the [[Taynix\|taynix]]. Rodge talks to her, and helps her feel better. She kisses him after he helps her up. They work together to experiment with the taynix, and Rodge agrees with FM in that the slugs are alive and more than just tools. Rodge is worried when FM leaves on missions, and FM is worried about hurting him if she doesn't come back, but she decides that there's little point in staying alive if one doesn't have much to live for. With this thought, she decides to continue her relationship with Rodge despite the danger of her situation.
+FM and Rodge used their taynix to meet quietly, because they weren't ready to tell everyone that they were dating yet. They are close, and FM enjoys helping Rodge with his engineering projects, or at least watching him work.
 
-## Curiosidades
-El apellido de Rodge es un guiño a , la escritora de 
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] ·  · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## Trivia
+Rodge’s last name is a nod to , the writer of 
 
 
-
-https://es.coppermind.net/wiki/Rodge_McCaffery
+https://coppermind.net/wiki/Rodge_McCaffery

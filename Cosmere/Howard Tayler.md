@@ -17,4 +17,4 @@ Tayler spends time regularly during the week drawing at a local comic book and g
 
 
 
-https://es.coppermind.net/wiki/Howard_Tayler
+https://coppermind.net/wiki/Howard_Tayler

@@ -1,50 +1,37 @@
-
-
 |**Forton**|
 |-|-|
-|**Oficio**|Boticario|
-|**Nacionalidad**|[[De Hrovell\|de Hrovell]]|
-|**Mundo natal**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Elantris (libro)\|Elantris]]*|
+|**Profession**|Apothecary|
+|**Nationality**|[[Hrovell\|Hrovell]]|
+|**Homeworld**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
->“*Mi verdadera paga es saber que he servido a Nuestro Señor [[Jaddeth\|Jaddeth]]*”
-\-Forton a Hrathen[1]
-
-
-**Forton** es un creador de pociones procedente de la nación de [[Hrovell\|Hrovell]] en [[Sel\|Sel]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Notas. [[#Notas]] 
+>“*My true payment is the knowledge I have served Lord [[Jaddeth\|Jaddeth]]*”
+\-Forton to Hrathen[1]
 
 
-## Apariencia y personalidad
-Forton tenía un rostro de facciones ratoniles, con grandes orejas. Tenía además una tos persistente, provocada por diferentes substancias que al hombre le gustaba fumar. Estas mismas substancias eran la causa de que Forton estuviese absolutamente contento con su vida.
-Era también un hombre de contradicciones. Aunque, por un lado, era un devoto seguidor de los [[Misterios Jeskeri\|Misterios Jeskeri]] y se le consideraba una especie de místico en su ciudad, por otro lado, también era un [[Derethi\|derethi]] incondicional. Su conocimiento de la doctrina derethi era impresionante, pero deficiente en algunas áreas, como por ejemplo creer que los [[Gyorn\|gyorns]] podían simplemente orar a Jaddeth para que sus palabras fuesen dirigidas directamente a cualquiera que tuviese un seon.
-Forton, al igual que muchos en Hrovell, habla un dialecto del [[Fjordell\|fjordell]] que sonaba marcado, áspero y rudo.
+**Forton** is a [[Hrovell\|Hrovell]] potions maker on [[Sel\|Sel]].
 
-## Atributos y habilidades
-Forton era un boticario poseedor de una habilidad sin igual. De hecho, las pociones que hace están [[Investidura\|Investidas]], siendo probable que extraigan poder del [[Dor\|Dor]]. Se desconoce cuál es el proceso que sigue Forton para crear estas pociones, dónde aprendió la habilidad para ello o incluso si otras personas pueden hacer también estas pociones. Hasta donde sabemos, no existía nadie en [[Opelon\|Opelon]] capaz de igualar la pericia de Forton a la hora de crear antídotos, elixires, pociones y venenos. Poseía tanta habilidad y era tan útil, que Hrathen pasaba por alto el hecho de que fuera un impío.
-Además, Forton estaba vinculado a un seon, lo que le permitía una comunicación instantánea con cualquier otro punto del mundo en el que hubiese un seon.
+## Contents
 
-## Historia
-Años antes de la [[Invasi%C3%B3n de Arelon\|Invasión de Arelon]], Hrathen fue envenenado por un enemigo político con un veneno del que no se conocía antídoto. Hrathen acudió a Forton buscando ayuda y éste le curó. Hrathen se mantiene en contacto con él a través de un [[Seon\|seon]], encargándole pociones, antídotos y similares. Durante su misión para intentar convertir [[Arelon\|Arelon]] al [[Shu-Dereth\|Shu-Dereth]], Hrathen le encarga una poción que podía simular la apariencia de un [[Elantrino\|elantrino]] que ha sido tomado por la [[Shaod\|Shaod]]. Hrathen utilizó está poción en sí mismo y en [[Sarene\|Sarene]] para crear una aparente sanación milagrosa y ganar así cierta ventaja sobre [[Eventeo\|Eventeo]], el padre de Sarene y rey de [[Teod\|Teod]].
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Notes. [[#Notes]] 
 
-## Notas
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 18:59, 1 de julio de 2018 (MST)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Appearance & Personality
+Forton had a mouse-like face with large ears. He also had a persistent cough, because of various substances that Forton liked to smoke. These same substances also caused Forton to be absolutely content with his life.
+Forton was a man of contradictions. While he was a devote follower of the [[Jeskeri Mysteries\|Jeskeri Mysteries]] and was considered a mystic of sorts in his town, he also professed to be staunchly [[Derethi\|Derethi]]. His knowledge of Derethi doctrine was impressive, but still lacking in some areas, such as his belief that [[Gyorn\|gyorns]] could simply pray to Jaddeth to have their words directed to anyone with a seon.
+Forton, like many in Hrovell, spoke a dialect of [[Fjordell\|Fjordell]] that was thick, harsh, and rough sounding.
+
+## Attributes and Abilities
+Forton was an apothecary of unparalleled skill. In fact, Forton's potions are [[Investiture\|Invested]], likely drawing on the power of the [[Dor\|Dor]]. It is unknown how exactly Forton creates these potions, where he learned his skills, or whether there are other people who can also make these potions. There was no one in [[Opelon\|Opelon]] who could match Forton's skills in making antidotes, elixirs, potions, and poisons. He was so skilled and such a useful tool that Hrathen overlooked the fact that he was a heathen.
+Forton was also bound to a seon, allowing for instantaneous communication across the world.
+
+## History
+Years before the [[Invasion of Arelon\|Invasion of Arelon]], Hrathen was poisoned by a political enemy with a poison that had no known antidote. Hrathen went to Forton for help and was cured. Hrathen kept in touch with Forton via [[Seon\|seon]], ordering potions, antidotes, and the like. While attempting to convert [[Arelon\|Arelon]] to [[Shu-Dereth\|Shu-Dereth]], Hrathen commissioned a potion that could simulate the appearance of an [[Elantrian\|Elantrian]] who had been taken by the [[Shaod\|Shaod]] after the [[Reod\|Reod]]. Hrathen used this potion both on himself and [[Sarene\|Sarene]] to create the appearance of a miracle healing and gain leverage on [[Eventeo\|Eventeo]], Sarene's father and king of [[Teod\|Teod]].
 
 
 
-https://es.coppermind.net/wiki/Forton
+https://coppermind.net/wiki/Forton

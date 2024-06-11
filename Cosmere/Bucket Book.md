@@ -1,9 +1,9 @@
 |**Bucket Book**|
 |-|-|
-|**Propietario**|[[Jax (Reckoners)\|Jax]]|
-|**Mundo de origen**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
+|**Owner**|[[Jax (Reckoners)\|Jax]]|
+|**World of Origin**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Lux (libro)\|Lux]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*After all, the Bucket Book was sacred. A ledger of true excellence. A list of impossible feats that saluted both Hershel and me in notarized record.*”
 \-Jax[1]
@@ -20,17 +20,6 @@ The **Bucket Book** is a book of several hundred challenges that [[Jax (Reckoner
 #171: Make it back alive.
 
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Bucket_Book
+https://coppermind.net/wiki/Bucket_Book

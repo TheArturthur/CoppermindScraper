@@ -1,67 +1,46 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Avarak Matal**|
 |-|-|
-|**Cónyuge**|[[Hashal\|Hashal]]|
-|**Oficio**|Capitán del ejército|
-|**Grupo**|Ejército de Sadeas|
-|**Nacionalidad**|[[De Alezkar\|de Alezkar]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[The Way of Kings\|The Way of Kings]]*|
+|**Spouse**|[[Hashal\|Hashal]]|
+|**Profession**|Army captain|
+|**Groups**|Sadeas army|
+|**Nationality**|[[Alethi\|Alethi]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-El brillante señor **Avarak Matal** es un oficial [[Ojos claros\|ojos claros]] en el campamento de guerra [[Principado Sadeas\|Sadeas]], en las [[Llanuras Quebradas\|Llanuras Quebradas]]. Es el capitán de las [[Cuadrilla del puente\|cuadrillas de los puentes]] de Sadeas, a pesar de que su mujer parece ejercer más autoridad que él.
+Brightlord **Avarak Matal** is a [[Lighteyes\|lighteyed]] officer in the [[Sadeas princedom\|Sadeas]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]]. He is the captain of the Sadeas [[Bridge crew\|bridge crews]], although his wife [[Hashal\|Hashal]] seems to exert more authority than he does.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-2. [[#Ascenso a capit.C3.A1n de las cuadrillas de los puentes.2C Kakab 1173]] 
-2. [[#.C3.89xito en el campo de batalla.2C Tanatev 1174]] 
-2. [[#Batalla de la Torre.2C Tanatash 1174]] 
-
-
-3 Notas. [[#Notas]] 
+2. [[#Becoming Captain of the Bridge Crews.2C Kakab 1173]] 
+2. [[#Success on the Battlefield.2C Tanatev 1174]] 
+2. [[#Battle of the Tower.2C Tanatash 1174]] 
 
 
-## Apariencia y personalidad
-Es casi tan alto como [[Kaladin\|Kaladin]], pero es flaco y de manos delicadas. Lleva una espada en el costado, aunque Kaldin piensa que es solo por moda. Hashal y él se consideran buenos socios de [[Torol Sadeas\|Torol Sadeas]], y son presumiblemente de un [[Dahn\|dahn]] bastante alto.
+3 Notes. [[#Notes]] 
 
-## Historia
-  Con su <<Hashal\|mujer>>, pasando revista a las <<Cuadrilla del puente\|cuadrillas de los puentes>>
-### Ascenso a capitán de las cuadrillas de los puentes, Kakab 1173
-Matal asciende a capitán de las [[Cuadrilla del puente\|cuadrillas de los puentes]] de Sadeas tras la ejecución de [[Lamaril\|Lamaril]] por la batalla desastrosa de la carga lateral. La mujer de Matal, [[Hashal\|Hashal]], afirma que éste pide la capitanía de las cuadrillas de los puentes para poder asegurar que se dirijen de forma eficiente y sin problemas. Kaladin asume que es mentira, ya que no es un cargo de prestigio.
-Matal no suele administrar las cuadrillas directamente, sino que deja que Hashal las dirija bajo su autoridad. Casi nunca habla cuando ella está presente y solo toma el control en el campo de batalla donde no se permite acceso a las mujeres, como cuando ordena a las cuadrillas formar filas y empezar las carreras antes del asalto a una meseta.
 
-### Éxito en el campo de batalla, Tanatev 1174
-Durante una carrera hacia una meseta, Kaladin intenta desviar la atención de los [[Parshendi\|parshendi]] vistiéndose con restos de [[Cantores\|cantores]] y haciéndo de señuelo. Matal le grita cuando se da cuenta de que algo no estaba yendo acorde al plan, ya que el anterior intento de Kaladin por innovar en la metodología de las carreras había resultado en la ejecución de Lamaril. El uso en secreto de la [[Potenciaci%C3%B3n\|potenciación]] de Kaladin permite que la arriesgada maniobra salga bien, por lo que las cuadrillas casi no sufren ninguna baja. Torol Sadeas se persona tras la batalla, con lo que Maral asume que no está contento con lo sucedido. En favor de Maral, éste acepta toda la responsabilidad por las acciones de Kaladin y Sadeas, asumiendo que el ojos claros lo tenía planeado de antemano, queda satisfecho con el resultado de la maniobra y le concede un ascenso. El ahora capitán se enfada muchísimo con Kaladin por poner su vida en peligro, pero no le castiga, ya que sabe que no puede permitirse perderlo.
-Más tarde, Matal da permiso a Kaladin y al [[Puente Cuatro\|Puente Cuatro]] para dejar atrás a Shen en las carreras, por como se comporta tras ver la forma en la que estaban tratando a los cuerpos de los parshendi.
+## Appearance and Personality
+He is nearly as tall as [[Kaladin\|Kaladin]], but he is spindly with delicate hands. He wears a sword at his side, but Kaladin believes that it is mostly there for fashion. He and Hashal consider themselves close associates of [[Torol Sadeas\|Torol Sadeas]], and are presumably of a fairly high [[Dahn\|dahn]].
 
-### Batalla de la Torre, Tanatash 1174
-Se ve a Maral gritar órdenes al tiempo que suenan los cuernos antes de la [[Batalla de la Torre\|Batalla de la Torre]], en la que Maral no participa. Kaladin le ve hablando con la retaguardia al otro lado del abismo en el que está el Puente Cuatro. Kaladin, confuso por las acciones de Matal, se da cuenta de que Sadeas planea retirarse y traicionar a [[Dalinar\|Dalinar]] y el ejército Kholin, abandonándolos a su suerte.
-Cuando ocurre la retirada, Matal dirije a las cuadrillas de los puentes de vuelta al campamento de guerra Sadeas. Kaladin y el Puente Cuatro se quedan rezagados, provocando la ira de su capitán. Sin embargo, es capaz de convencerle para que les dejen volver a su ritmo, alegando que sus hombres están cansados y que tienen su propio puente para poder cruzar, y a su vez ocultando la posibilidad de escapar del ejército en ese momento. Matal accede porque piensa que los parshendi podrían perseguirlos y acabar con ellos, librándose así del líder de la cuadrilla. Esto, al final, permitiría al Puente Cuatro rescatar a Dalinar y a muchos de sus hombres.
-Tras la conclusión de la batalla, Kaladin se da cuenta de que Matal les observa furiosamente durante la reunión de los altos príncipes. También piensa que su superior acabaría ejecutado, igual que pasó con Lamaril.
+## History
+  With his <<Hashal\|wife>>, inspecting the <<Bridge crew\|bridge crews>>
+### Becoming Captain of the Bridge Crews, Kakab 1173
+Matal was made captain of the Sadeas [[Bridge crew\|bridge crews]] after [[Lamaril\|Lamaril's]] execution following the disastrous "side carry" battle. Matal's wife [[Hashal\|Hashal]] claimed that he had asked to be assigned the captaincy of the bridge crews in order to see to it that they were run smoothly and efficiently; Kaladin assumed this was a fabrication since the position was not prestigious.
+Matal rarely addressed the crews directly, instead allowing Hashal to deal with them using his authority. He rarely spoke when Hashal was present, and only took personal command on the battlefield where women were not allowed; for example, he would give the bridge crews orders to form up and run before a plateau assault.
 
-## Notas
+### Success on the Battlefield, Tanatev 1174
+During a Sadeas plateau run, Kaladin attempted to divert the attention of the [[Parshendi\|Parshendi]] from the bridge crews by dressing in [[Singer\|singer]] remains and using himself as bait. Matal screamed loudly at Kaladin when he realized something unexpected was happening since Kaladin's previous attempt at innovation had resulted in Lamaril's execution. Kaladin's covert use of [[Surgebinding\|Surgebinding]] allowed the risky strategy to succeed, and the crews suffered almost no casualties. Torol Sadeas approached after the battle and Matal assumed he would be angry; to his credit, he took responsibility for Kaladin's actions. However, Sadeas assumed that Matal had approved the plan beforehand and was pleased that his risk paid off, stating that he would likely be compelled to give Matal a promotion. Matal was extremely angry at Kaladin for putting his life on the line, but did not discipline him since he knew he could not afford to lose him.
+Matal later gave Kaladin and [[Bridge Four\|Bridge Four]] permission to leave [[Shen\|Shen]] behind on bridge runs due to his foul temper and behavior after he saw how they were treating the corpses of the Parshendi.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 18:29, 28 December 2021 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Battle of the Tower, Tanatash 1174
+Matal was later seen shouting orders when the horns sounded before the [[Battle of the Tower\|Battle of the Tower]]. During the battle, Matal stayed back from the fighting. Kaladin saw him speaking to the rear guard across the chasm from Bridge Four's position. Confused by Matal's actions, Kaladin realized that Sadeas planned to betray [[Dalinar\|Dalinar]] and the Kholin army by retreating and abandoning them.
+After retreating from the battle, Matal directed the bridge crews back towards the Sadeas warcamp. Kaladin and Bridge Four lagged at the rear of the army, drawing Matal's ire. Kaladin told Matal that his men were tired, and convinced him to allow them to follow at their own pace since they had their own bridge to cross with; he secretly hoped to desert the army. Matal agreed, thinking that their slow pace would cause them to be hunted down by Parshendi and he would be rid of Kaladin. Bridge Four was ultimately able to rescue Dalinar and many of his men.
+After the battle concluded, Kaladin observed Matal furiously focusing on Bridge Four while the highprinces debriefed. Kaladin assumed that Sadeas would have Matal executed, based on Lamaril's fate.
 
 
 
-https://es.coppermind.net/wiki/Matal
+https://coppermind.net/wiki/Matal

@@ -1,227 +1,209 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Taishin**|
 |-|-|
-|**Cuartel General**|[[Kezare\|Kezare]]|
-|**Tipo**|Consejo|
-|**Mundo de origen**|[[Taldain\|Taldain]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Headquarters**|[[Kezare\|Kezare]]|
+|**Type**|Council|
+|**World of Origin**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-Los **taishin**, o consejo de gremios, forma el órgano de gobierno de [[Lossand\|Lossand]]. Está compuesto por ocho miembros que representan a los ocho Oficios de Lossand. A un miembro del Consejo de los taishin se le conoce por el singular "taisha". La mayoría de los Gremios de Oficios tienen muchos "suboficios", como el Proyecto de Artesanos, que representa profesiones como la pintura tradicional, así como profesiones dispares como la carpintería, la zapatería y la medicina.
+The **Taishin**, or the council of guilds, form the ruling body of [[Lossand\|Lossand]]. It is composed of eight members who represent the eight Professions of Lossand. A member of the Taishin Council is known by the singular "Taisha." Most of the Profession Guilds have many "sub-professions," such as the Draft of Artisans which represents professions such as traditional painting, as well as disparate professions like carpentry, cobblery, and medicine.
 
-## Sumario
+## Contents
 
-1 El Consejo. [[#El Consejo]] 
+1 The Council. [[#The Council]] 
 
-1. [[#Historia]] 
-
-
-2 Composición del Consejo. [[#Composici.C3.B3n del Consejo]] 
-
-2. [[#El lord mastrell]] 
-2. [[#La dama jueza]] 
-2. [[#El lord general]] 
-2. [[#El lord almirante]] 
-2. [[#El lord mercader]] 
-2. [[#El lord granjero]] 
-2. [[#El lord artesano]] 
-2. [[#La dama constructora]] 
+1. [[#History]] 
 
 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+2 Council Composition. [[#Council Composition]] 
+
+2. [[#The Lord Mastrell]] 
+2. [[#The Lady Judge]] 
+2. [[#The Lord General]] 
+2. [[#The Lord Admiral]] 
+2. [[#The Lord Merchant]] 
+2. [[#The Lord Farmer]] 
+2. [[#The Lord Artisan]] 
+2. [[#The Lady Mason]] 
 
 
-## El Consejo
-El título de cada taisha va precedido de "lord" o "dama" (según el género), y el actual líder del Consejo Taishin también lleva el honorífico "supremo". La actual líder es la jueza suprema. Los taishin se componen de los siguientes cargos:
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
-El **mastrell**
-La **jueza **
-El **general**
-El **almirante**
-El **mercader**
-El **granjero**
-El **artesano**
-La **constructora**
+## The Council
+Each Taisha's title is preceded by "Lord" or "Lady" (as gender dictates), and the current leader of the Taishin Council also bears the honorific "High." The current leader of the Taishin is The High Judge. The Taishin are composed of the following positions:
 
-Aunque se refieren a [[Nilto\|Nilto]] como el "**lord mendigo**", no es un miembro oficial de los taishin y no tiene voto; pero es tan influyente como cualquiera de los otros por sus actividades en favor de los pobres sin oficio y de la clase trabajadora..
-Los taishin se reúnen en la sala de reuniones, situada en la Sala del Juicio, una sala triangular con cada taisha en un estrado elevado a lo largo de la pared del fondo y asientos para [[Kelzin\|Kelzin]] y otras partes a lo largo de las otras dos paredes y la entrada justo enfrente de los taishin (en el "pico"). Un asistente registra a todos los partidos y anuncia quiénes se dirigirán al Consejo. Sólo se pueden anunciar nuevos participantes cuando se haya cedido la palabra a los taishin.
 
-### Historia
-Tras la masacre del [[Diem\|Diem]] en el [[Kerla\|Kerla]], el consejo se reunió para disolver el Oficio de los maestros de la arena. Muchos miembros del consejo tenían razones personales para querer disolverlo. En la primera votación sobre el [[Diem\|Diem]] todos los taishin, a excepción del lord almirante [[Delius\|Delius]], votaron a favor de disolverlo.
-El lord mastrell en funciones [[Kenton\|Kenton]] exigió que se declarara nulo el procedimiento debido a la interacción de dos leyes de los estatutos del Consejo Taishin. La jueza suprema Heelis confirmó las leyes citadas, pero clasificó la votación como una decisión preliminar. Además, dictaminó que debido a que la votación fue seis a uno (con el lord mastrell incapaz de votar por encontrarse como lord mastrell "en funciones", no ratificado por los taishin para el cargo), Kenton necesitaría una decisión unánime para anular la votación preliminar.
-Tras el duelo en el Diem, Kenton convocó la votación final sobre el futuro del Diem. Esta vez, el Consejo Taishin votó por unanimidad mantener el Oficio de los maestros de la arena.
+The **Mastrell**
+The **Judge**
+The **General**
+The **Admiral**
+The **Merchant**
+The **Farmer**
+The **Artisan**
+The **Mason**
 
-## Composición del Consejo
-### El lord mastrell
-||**El Diem de los Maestros de la Arena**|
+Though [[Nilto\|Nilto]] is referred to as the "**Lord Beggar**", he is not an official member of the Taishin and he has no vote; but is as influential as any of the other Taishin because of his activities on behalf of the professionless poor and working class.
+The Taishin meet in the Meeting Chamber, located in the Hall of Judgement, a triangular chamber with each Taisha on a raised dias along the back wall and seating for [[Kelzin\|Kelzin]] and other parties along the other two walls and the entranceway directly across from the Taishin (at the "peak"). A steward logs in all parties and announces those who will address the Council. New parties may only be announced when the floor to address the Taishin has been yielded.
+
+### History
+Following the massacre of the [[Diem\|Diem]] in the [[Kerla\|Kerla]], the Taishin council met to disband the Profession of the Sand Masters. Many council members had personal reasons to want the Diem disbanded. In the first vote on the [[Diem\|Diem]] all of the Taishin, with the exception of Lord Admiral [[Delius\|Delius]], voted to disband the Diem.
+Acting Lord Mastrell [[Kenton\|Kenton]] demanded the proceeding be declared void due to an interaction of two laws of the Taishin Council charter. High Judge Heelis confirmed the laws, as quoted, but classified the vote as a preliminary decision. She further ruled that because the vote was six-to-one (with the Lord Mastrell unable to vote due to being an "acting" Lord Mastrell, not ratified by the Taishin to the position), Kenton would require a unanimous decision to overturn the prelimary vote.
+Following the duel at the Diem, Kenton called for the final vote on the Diem's future. This time the Taishin Council voted unanimously to retain the Profession of Sand Masters.
+
+## Council Composition
+### The Lord Mastrell
+||**The Diem of the Sand Masters**|
 |-|-|
-|Lider: el lord mastrell|
-|Sede: El Diem|
-|Maestros de la arena|
+|Leader: Lord Mastrell|
+|Headquarters: The Diem|
+|Sand Mastery|
 
-El lord mastrell es el taisha a cargo del [[Diem\|Diem]] y los [[Maestr%C3%ADa de la arena\|maestros de la arena]]. El actual lord mastrell es [[Kenton\|Kenton]]. Se necesita la aprobación del lord mastrell para que un maestro de la arena pueda ascender a cualquier rango en el Diem, excepto a [[Acolento\|acolento]].
-
-
-Aparentemente, en ausencia de un lord mastrell, el cargo recae por defecto en el mastrell más antiguo del Diem. Normalmente, un nuevo lord mastrell sería elegido por votación del resto del Diem.
-Se desconoce si este proceso se modificó en los ajustes de Kenton a la normativa del Diem.
+The Lord Mastrell is the Taisha in charge of the [[Diem\|Diem]] and its [[Sand mastery\|sand masters]]. The current Lord Mastrell is [[Kenton\|Kenton]]. The Lord Mastrell's approval is required before a sand master can advance to any rank in the Diem except [[Acolent\|Acolent]].
 
 
-Aproximadamente un siglo antes de [[Praxton\|Praxton]], el lord mastrell de la época abrió una cuenta con el entonces lord mercader [[Hennin\|Hennin]]. El lord mastrell hizo que Hennin pusiera el dinero de los tributos del Diem en la cuenta, pero Hennin perdió el dinero en malas inversiones. Con los años los tributos, combinados con los intereses, crecieron hasta convertirse en una deuda insalvable. Los mastrell utilizaron esta deuda como palanca sobre los lord mercaderes para chantajearlos y obligarlos a cumplir sus órdenes, hasta que Kenton, en un arrebato de conciencia, se la perdonó.
-Cuando el lord mastrell Praxton murió a manos de asesinos kerztianos, junto con la mayor parte del Diem, los demás taishin votaron a favor de disolver el Diem. Kenton llegó en medio de la reunión del consejo e interrumpió, exigiendo que se declarara nula la votación, alegando que a él, el lord mastrell en funciones por descarte, no se le había avisado con suficiente antelación antes de la votación. La jueza suprema acepta a regañadientes que Kenton tiene razón. Dijo que, en efecto, él era el lord mastrell en funciones y que tenía dos semanas para convencer a todos los taishin de que votaran por el Diem.
-Kenton también tenía un rival para el puesto. [[Drile\|Drile]], un antiguo mastrell degradado que era un maestro de la arena mucho más poderoso que Kenton. Retó a Drile a un duelo para resolver su desacuerdo. Aceptó con la condición de que el duelo tuviera lugar antes de que el consejo tomara su decisión. [[Elorin\|Elorin]], en un complot para asegurarse de que el Diem tuviera un líder débil, envenenó el agua que bebieron antes del duelo con [[KaDo\|KaDo]]. Kenton, habiendo sentido los efectos antes, se vio menos afectado que el más poderoso Drile, que no se dio cuenta de que le afectaba nada ni de lo rápido que se deshidrataría bajo esos efectos. Kenton pidió a la jueza suprema que los taishin votaran en el acto, sobre el Diem, y ella accedió. Todos votaron a favor de mantener el Diem, y Heelis ratificó a Kenton como lord mastrell oficial. Después Kenton se reunió con Drile, discutieron sobre los efectos que sentían y se dieron cuenta de que cada uno había culpado al otro, pero el verdadero traidor debía ser Elorin, que ofreció agua en ambas ocasiones. Kenton se enfrentó a Elorin en sus aposentos, donde confesó, y en la pelea que siguió Kenton lo mató.
-Después Kenton, trabajando con Drile a su lado, dirigió el Diem en una nueva dirección; diferente de cómo había sido dirigido en el pasado.
+It appears that in the absence of a Lord Mastrell, the position defaults to the most senior Mastrell in the Diem. Normally a new Lord Mastrell would be chosen by a vote of the Diem's Mastrells.
+It is unknown if this process was changed in Kenton's adjustments to the Diem's charter.
 
-### La dama jueza
-||**El Salón de los Jueces, Trackts y Escribas**|
+
+About a century before [[Praxton\|Praxton]], the Lord Mastrell of the time started an account with then Lord Merchant [[Hennin\|Hennin]]. The Lord Mastrell had Hennin put the Diem's tribute money in the account, but Hennin lost the money on bad investments. Over the years the tributes, combined with the interest, grew to become an insurmountable debt. The Lords Mastrell used this debt as a lever over the Lords Merchant to blackmail them into doing their bidding until Kenton, in a fit of conscience, forgave it.
+When Lord Mastrell Praxton died at the hands of [[Kerztian\|Kerztian]] assassins, along with most of the Diem, the other Taishin voted to disband the Diem. Kenton arrived in middle of the council's meeting and interrupted, demanding that the vote be declared void, saying that he, the default acting Lord Mastrell, wasn't given enough notice before the vote. The Lady Judge reluctantly agreed that Kenton has a valid point. She said that he is indeed the acting Lord Mastrell and that he had two weeks to convince all of the Taishin to vote for the Diem.
+Kenton also had a rival for the position. [[Drile\|Drile]], a demoted former-Mastrell who was a much more powerful sand master than Kenton was. Kenton challenged Drile to a duel to settle their disagreement. Drile accepted on the condition that the duel would take place before the council made their decision. [[Elorin\|Elorin]], in a plot to ensure that the Diem would have a weak leader, poisoned the water they drank before the duel with [[KaDo\|KaDo]]. Kenton, having felt the effects before, was less affected that the more powerful Drile who did not realize he was affected by anything or how quickly he would dehydrate under those effects. Kenton asked the High Judge for the Taishin to vote on the spot, in the Diem, and she agreed. The Taishin all voted for the retention of the Diem, and Heelis ratified Kenton as the official Lord Mastrell. Afterward Kenton met with Drile, discussing the effects they felt and realized they had each blamed the other, but the real traitor must be Elorin, who proffered water in both occasions. Kenton confronted Elorin in his chambers, where Elorin confessed, and in the ensuing fight Kenton killed him.
+Afterward Kenton, working with Drile at his side, led the Diem in a new direction; different from how it had been led in the past.
+
+### The Lady Judge
+||**The Hall of Judges, Trackts, and Scribes**|
 |-|-|
-|Lider: La dama jueza|
-|Sede: la sala del Juicio|
-|Escribas, jueces, mantenimiento de la paz|
+|Leader: Lady Judge|
+|Headquarters: The Hall of Judgement|
+|Writing, Law, Keeping the Peace|
 
-La dama jueza es la taisha encargada de la [[Sala del Juicio\|Sala del Juicio]]. La actual es [[Heelis\|Heelis]]. Es la líder de los [[Trackt\|trackts]] y jueces de Lossand y es la máxima autoridad de la ley.
-
-
-Se desconoce cómo se elige al taisha de la Sala.
+The Lady Judge is the Taisha in charge of the [[Hall of Judgement\|Hall of Judgement]]. The current Lady Judge is [[Heelis\|Heelis]]. She is the leader of the [[Trackt\|trackts]] and judges of Lossand and is the final arbiter of the law.
 
 
-Dado que la dama jueza es también la actual jefa del Consejo Taishin, como jueza suprema preside las reuniones de los taishin.
-En la votación final sobre el Diem, Heelis, alegando que el voto debe ser imparcial pero que ella está predispuesta a favor del Diem, da su voto a [[Ais\|Ais]] para que el voto lo emita alguien con un sesgo en contra del Diem. Ais, con la visión de Kenton deteniendo a [[Sharezan\|Sharezan]] para salvar a su familia en mente, deja de lado su sesgo [[Kerzta\|kerztiano]] contra la maestría de la arena, y vota a favor del Diem.
+It is unknown how the Taisha of the Hall is selected.
 
-### El lord general
-||**La Torre de los Soldados**|
+
+Because the Lady Judge is also the current head of the Taishin Council, as High Judge she presides over meetings of the Taishin.
+In the final vote regarding the Diem, Heelis, citing that the vote should be impartial but that she is biased in favor the Diem, gives her vote to [[Ais\|Ais]] so that the vote will be cast by somebody biased against the Diem. Ais, with the sight of Kenton stopping [[Sharezan\|Sharezan]] to save her family in mind, puts aside her [[Kerztian\|Kerztian]] bias against sand mastery, and votes in favor of the Diem.
+
+### The Lord General
+||**The Tower of Soldiers**|
 |-|-|
-|Lider: el lord general|
-|Sede: La Guarnición de la Torre|
-|Militares de Lossand|
+|Leader: Lord General|
+|Headquarters: The Tower Garrison|
+|Lossand's Military|
 
-El lord general es el taisha a cargo de la [[Torre (Taldain)\|Torre]]. El actual es [[Aarik\|Aarik]]. Reside en la Guarnición de la Torre. Es el líder de los soldados de Lossand.
-
-
-Parece ser que el cargo es hereditario.
+The Lord General is the Taisha in charge of the [[Tower (Taldain)\|Tower]]. The current Lord General is [[Aarik\|Aarik]]. He resides at the Tower Garrison. He is the leader of the soldiers of Lossand.
 
 
-El lord general [[Raagent\|Raagent]] había pasado a estar bajo el control de Sharezan, pero intentó ponerse en contacto con la trackt superior Ais para que le ayudara a liberarse de la organización de Sharezan. Su encuentro con ella fue descubierto y se convirtió en una trampa para ambos. Escaparon, pero Sharezan consiguió de algún modo acceder a la Torre y lo mató con su miedo a la oscuridad en la bodega de la Torre.
-Tras la muerte de Raagent a manos de Sharezan, Kenton le pide a Aarik que tome la posición de su padre y vote por el Diem. Aarik acepta a regañadientes. El lord general Aarik vota por el Diem en la votación final de los Taishin.
+It appears that the position is hereditary.
 
-### El lord almirante
-||**El Timón de los Navieros**|
+
+Lord General [[Raagent\|Raagent]] had somehow come to be under the control of Sharezan, but attempted to contact Senior Trackt Ais for aid in freeing himself from Sharezan's organization. His meeting with the Trackt was discovered and turned into a trap for them both. They escaped, but Sharezan somehow gained access to the Tower and killed him with his fear of darkness in the Tower's wine cellar.
+After Raagent's death at the hands of Sharezan, Kenton asks Aarik to take his father's position and vote for the Diem. Aarik reluctantly agrees. Lord General Aarik votes for the Diem in the final vote of the Taishin.
+
+### The Lord Admiral
+||**The Helm of Shipowners**|
 |-|-|
-|Lider: el lord almirante|
-|Sede: Reposo del Timón|
-|A pesar del uso del término "almirante", su finalidad no es militar, sino mercantilEstán estrechamente relacionados con los comerciantes, con los que a menudo mantienen enemistadesGobernados por el Círculo de Navieros.|
+|Leader: The Lord Admiral|
+|Headquarters: Helm's Rest|
+|Despite the use of "Admiral," not military, but mercantile in purposeClosely related to Merchants, with whom they often feudGoverned by the Shipowners' Circle|
 
-El lord almirante es el taisha al frente del [[Tim%C3%B3n\|Timón]]. El actual es [[Lokkall\|Lokkall]]. Reside en el Reposo del Timón. El lord almirante está aparentemente a cargo de la industria naviera de Lossand, pero en realidad el cargo no es más que una figura decorativa sin ningún poder real. De hecho, a menudo se considera un castigo más que un honor. El verdadero liderazgo del Timón pertenece a su consejo dirigente, el Círculo de Navieros.
-
-
->“*Robo por concesión de un gran honor. Si te opones a la voluntad del Círculo, podrías perderlo todo*”
-\-Delius[7]
+The Lord Admiral is the Taisha at the head of the [[Helm\|Helm]]. The current Lord Admiral is [[Lokkall\|Lokkall]]. He resides at Helm's Rest. The Lord Admiral is ostensibly in charge of the shipping industry of Lossand, but in fact the position of Lord Admiral is merely a figurehead position without any actual power. In fact, it is often viewed as a punishment rather than an honor. The true leadership of the Helm belongs to its leading council, the Shipowners' Circle.
 
 
-Cuando el Círculo de Navieros elige a un nuevo lord almirante, todos sus bienes y riquezas quedan confiscados y se le prohíbe poseer propiedades. Todo lo que se le da es: un barco cuando lo necesita, una casa para vivir y cualquier comida y bebida que pida. El cargo es el medio por el cual el Círculo mantiene el poder sobre sus miembros, cualquiera que tenga demasiado éxito o que no acate la voluntad del Círculo puede ser "honrado" con el cargo de lord almirante.
+>“*Theft by bestowal of a Grand Honor—Go against the will of the Circle, and you can lose everything.*”
+\-Delius[8]
 
 
->“*Creo pocas cosas en esta vida. Una es que el vino es el mejor compañero que pueda pedirse. Otra el que el lord mercader representa todo lo malvado y ruin de este mundo. Ambas filosofías me facilitan la vida. Una me antiene feliz, la otra me evita tomar decisiones.*”
-\-Delius[13]
+When the Shipowners' Circle selects a new Lord Admiral all of his property and wealth becomes forfeit and he is forbidden from owning property. All he is given is: a ship when he needs it, a house to live in, and any food and drink he asks for. The Lord Admiralship is the means by which the Circle keeps power over its members, anyone who becomes too successful or does not abide by the Circle's will can be "honored" them with the position of Lord Admiral.
 
-[[Delius\|Delius]], en la votación inicial sobre la disolución del Diem, votó a favor de mantenerlo, pero sólo porque el lord mercader Vey votó a favor de disolverlo. Cuando Kenton le visita en el Reposo del Timón, le asegura que votará a favor del Diem en la votación final porque él siempre vota lo contrario que Vey, y el lord mercader, al ser kerztiano, nunca votará a favor.
-Más tarde, el lord almirante Delius decide celebrar una fiesta en honor del nuevo lord mastrell, aparentemente para tener una excusa para conocer a la duquesa [[Khrissalla\|Khrissalla]], pero en realidad como una estratagema para ofender y enfadar a los propietarios de barcos Kelzin, que esperan disolver el Diem y ganarse el favor del A'kar, que se ha ofrecido a relajar los embargos que afectan a los beneficios del Timón si se disuelve el Diem. 
-Cuando el capitán de puerto [[NaiMeer\|NaiMeer]] impidió que Kenton viajara a [[Lraezare\|Lraezare]], Delius se puso en contra de NaiMeer y requisó un barco para él, supuestamente para visitar el Círculo de Navieros, e invitó a Kenton a acompañarle. Cuando llegaron a la reunión del Círculo de Navieros en casa de Lokkal, su líder, el Círculo fue manipulado para destituir a Delius del cargo de lord almirante por su apoyo al Diem.
-Delius pidió inmediatamente a su mayordomo "los documentos" y los firmó, transfiriéndose la propiedad de la flota de barcos. A continuación, anunció que ordenaba a sus barcos monopolizar el acceso al puerto de Kezare durante el mes siguiente. Al oír esto, el Círculo entró en pánico. Delius propuso entonces a Lokkall como nuevo lord almirante, diciendo que si votaban por él no bloquearía Kezare, todos estuvieron de acuerdo y Lokkall se convirtió en el nuevo lord almirante. Delius le dijo entonces a Lokkall que se quedaría con todas las posesiones que acababa de perder, y que si votaba a favor del Diem nombraría a un nuevo lord almirante y le devolvería sus posesiones. Lokkall aceptó.
-En la votación final, lord Lokkall, con algunas indicaciones de Delius, votó a favor de mantener el Diem, de todo corazón.
 
-### El lord mercader
-||**El Gremio de los Mercaderes**|
+>“*I have very few beliefs in life. One is that wine is by far the best companion a man could ask for. The other is that the Lord Merchant represents all that is evil and vile in our world. Both are philosophies that make my life easier—one keeps me happy, the other makes all of my decisions for me.*”
+\-Delius[14]
+
+[[Delius\|Delius]], in the initial vote on dissolving the Diem, voted to retain, but only because Lord Merchant Vey voted to dissolve. When Kenton visits him at Helm's Rest, he reassures Kenton that he will vote for the Diem in the final vote because he always votes the opposite of Vey, and the Lord Merchant, being Kerztian, will never vote in favor of the Diem.
+Later, Lord Admiral Delius decides to hold a party to honor the new Lord Mastrell, ostensibly so he has an excuse to meet the Duchess [[Khrissalla\|Khrissalla]], but really as a ploy to offend and rile the Kelzin shipowners, who hope to disband the Diem and earn favor with the A'kar—who has offered to relax embargoes that impact the profits of the Helm if the Diem is dissolved.
+When Kenton was being prevented from traveling to [[Lraezare\|Lraezare]] by dockmaster [[NaiMeer\|NaiMeer]], Delius pulled rank on NaiMeer and commandeered a ship for himself, ostensibly to visit the Shipowners' Circle, and invited Kenton along. When they arrived at the Shipowners' Circle meeting at the house of Lokkal, its leader, the Circle was manipulated into removing Delius from the office of Lord Admiral because of his support for the Diem.
+Delius immediately asked his steward for "the documents" and signed them, transferring ownership of the fleet of ships to himself. He then announced that he was commanding his ships to monopolize access to the port of Kezare for the next month. Upon hearing this the Circle went into a panic. Delius then nominated Lokkall to be the new Lord Admiral, saying that if they voted for him he would not block Kezare, they unanimously agreed, and Lokkall became the new Lord Admiral. Delius then told Lokkall that he would hold all of the possessions that he had just lost, and if he voted in favor of the Diem he would nominate a new Lord Admiral and return his possessions to him. Lokkall agreed.
+In the final vote Lord Admiral Lokkall, with some prompting from Delius, voted to retain the Diem, wholeheartedly.
+
+### The Lord Merchant
+||**The Guild of Merchants**|
 |-|-|
-|Lider: el lord mercader|
-|Sede: el Mercado Dorado|
-|Cambistas, prestamistas y comerciantes|
+|Leader: Lord Merchant|
+|Headquarters: The Golden Market|
+|Moneychangers, Lenders, and Merchants|
 
-El lord mercader es el taisha a la cabeza del [[Gremio\|Gremio]]. El actual es [[Vey\|Vey]]. Reside en el Mercado Dorado del Gremio. Dirige el sector bancario de Lossand.
-
-
-El cargo de lord mercader recae en el miembro del gremio con más riquezas. Cuando el cargo cambia de manos, el nuevo lord mercader adquiere todas las riquezas y deudas de su predecesor.
+The Lord Merchant is the Taisha at the head of the [[Guild\|Guild]]. The current Lord Merchant is [[Vey\|Vey]]. He resides at the Golden Market of the Guild. He leads the banking industry of Lossand.
 
 
->“*El lord mercader Hennin, para ser exactos. Un idiota que llegó al puesto después de heredar dos fortunas distintas, sin saber nada de negocios.*”
-\-Vey[7]
+The position of Lord Merchant goes to the member of the Guild with the most wealth. When the position changes hands the new Lord Merchant acquires all of his predecessor's wealth and debts.
 
 
->“*Y por eso cada trimestre el lord mercader sigue enviando su tributo... que el lord mastrell, a su vez, deposita en la cuenta de ahorro, que sigue acumulando interés e incrementando la condenada deuda.*”
-\-Vey[7]
+>“*Lord Merchant Hennin, to be exact. An idiot who acquired the position after inheriting two separate fortunes and no business sense.*”
+\-Vey[8]
 
-Tras el gobierno de Hennin, cuando el siguiente lord mercader asumió el poder descubrió que ahora se debía una enorme suma al Diem, los tributos originales y una gran cantidad de intereses. Con el paso de los años, la deuda aumentó hasta el punto de ser imposible de pagar.
-El lord mastrell estaba dispuesto a mantener la deuda en secreto siempre y cuando el lord mercader votara en concordancia con el Diem. El predecesor de la dama jueza conocía la deuda y dictaminó que lord mercader debía pagarla íntegramente cuando lord mastrell se lo pidiera. En lugar de exigir que Vey pagara la deuda, Kenton se la perdonó, ganándose el respeto de Vey y haciendo que votara a favor del Diem.
 
-### El lord granjero
-||**El Campo de los Granjeros**|
+>“*Thus, each quarter, the Lord Merchant continues to send the tribute which the Lord Mastrell deposits into the savings account, which continues to accrue more interest, adding to the blasted debt.*”
+\-Vey[8]
+
+About a hundred years before Vey took the position, a man named [[Hennin\|Hennin]] was the Lord Merchant. He reached the position when two of his relatives died, leaving him enough of a fortune to become Lord Merchant. The Lord Mastrell of the time started a personal account with Hennin, who lost the entire principal on bad investments. Hennin and future Lord Merchants would put the Diem's tribute money into the account, increasing the balance, and therefore the interest.
+After Hennin's rule, when the next Lord Merchant took over he discovered that a vast sum was now owed to the Diem, the original tributes and a large amount of interest. Over the years the debt has increased to the point where it became impossible to pay back.
+The Lord Mastrell was willing to keep the debt secret so long as the Lord Merchant voted in concordance with the Diem. The Lady Judge's predecessor knew about the debt and ruled that the Lord Merchant must pay the debt in full when the Lord Mastrell asks for it. Instead of demanding that Vey pay the debt, Kenton forgave the debt, earning Vey's respect and causing him to vote for the Diem.
+
+### The Lord Farmer
+||**The Field of Farmers**|
 |-|-|
-|Lider: el lord granjero|
-|Sede: el Congreso de Granjeros|
-|Los que poseen la tierra (Kelzin) y los que la trabajan|
+|Leader: Lord Farmer|
+|Headquarters: The Farmers Congress|
+|Those who own the land (Kelzin) and those who work it|
 
-El lord granjero es el taisha encargado del [[Campo\|Campo]]. El actual es [[Gennel\|Gennel]]. Reside en el Congreso de Granjeros. Dirige la industria agrícola de Lossand, los terratenientes Kelzin de las tierras de cultivo, y supervisa las cuotas agrícolas.
-
-
-Se desconoce cómo se selecciona el taisha del Campo.
+The Lord Farmer is the Taisha in charge of the [[Field\|Field]]. The current Lord Farmer is [[Gennel\|Gennel]]. He resides at the Farmers Congress. He leads the farming industry of Lossand, the Kelzin landowners of farmland, and oversees farming quotas.
 
 
-En la votación inicial, el lord granjero votó a favor de disolver el Diem. Se da a entender que, dado que el lord mercader Vey y el lord granjero Gennel son ambos kerztianos, son amigos y Gennel tiende a seguir el ejemplo de Vey en la mayoría de las cosas{{ref|group=fn|text=Este aspecto de su relación se declaró explícitamente en la versión [[Arena Blanca (prosa)\|en prosa]].
-Vota a favor del Diem en la votación final de los taishin sin explicar por qué ha cambiado de opinión. Sin embargo, se da a entender que siempre escucha y sigue a Vey, y que por eso votó a favor del Diem.
+It is unknown how the Taisha of the Field is selected.
 
-### El lord artesano
-||**El Proyecto de los Artesanos**|
+
+In the initial vote, the Lord Farmer voted to dissolve the Diem. It is implied that since Lord Merchant Vey and Lord Farmer Gennel are both Kerztian, they are friends and Gennel tends to follow Vey's lead in most things
+He votes in favor of the Diem in the final vote of the Taishin without explaining why he changed his mind. However, it is implied that he always listens to and follows Vey, and that this is why he voted for the Diem.
+
+### The Lord Artisan
+||**The Draft of Artisans**|
 |-|-|
-|Lider: el lord artesano|
-|Sede: Estudio Central del Artesano|
-|Artesanos y creadores|
+|Leader: The Lord Artisan|
+|Headquarters: The Artisan Central Studio|
+|Artisans and Craftpersons|
 
-El lord artesano es el taisha encargado del [[Proyecto (oficio)\|Proyecto]]. El actual lord artesano es [[Rite\|Rite]]. Reside en el Estudio Central del Artesano. Dirige la industria manufacturera de Lossand.
-
-
-El lord artesano es elegido por votación de los miembros de su Oficio.
+The Lord Artisan is the Taisha in charge of the [[Draft (profession)\|Draft]]. The current Lord Artisan is [[Rite\|Rite]]. He resides at the Artisan Central Studio. He leads the manufactured goods industry of Lossand.
 
 
-En la votación inicial, el lord artesano votó a favor de disolver el Diem.
-Cuando Kenton se reúne con él, Rite le explica que se ha cebado con el Diem por la ley que permite a los mastrell hacerse con bienes y servicios sin pagar. Después de que Kenton, por consejo de Khrissalla, promete los servicios de los maestros de la arena al Proyecto; y, con la ayuda de un préstamo del Gremio, promete pagar la deuda de 1.500.000 [[Lak\|laks]] del Diem; el lord artesano acepta votar por el Diem.
-En la votación final, el lord artesano Rite afirma que sus condiciones para el Diem se han cumplido y la deuda ha sido pagada, y vota a favor de mantener el Diem.
+The Lord Artisan is selected by a vote of his Professions' members.
 
-### La dama constructora
-||**La Compañía de los Constructores**|
+
+In the initial vote, the Lord Artisan voted to dissolve the Diem.
+When Kenton meets with him, Rite explained that he was biased against the Diem because of the law allowing mastrell's to take goods and services without payment. After Kenton, on Khrissalla's advice, promises the services of sand masters to the Draft; and, with the help of a loan from the Guild, promises to repay the Diem's 1,500,000 [[Lak\|lak]] debt; the Lord Artisan agrees to vote for the Diem.
+In the final vote, Lord Artisan Rite cites that his terms for the Diem have been met and the debt repaid, and does vote to retain the Diem.
+
+### The Lady Mason
+||**The Company of Masons**|
 |-|-|
-|Lider: la dama constructora|
-|Sede: Cuartel General de los constructores|
-|Canteros, constructores y mineros.|
+|Leader: Lady Mason|
+|Headquarters: The Mason Headquarters|
+|Stone Masons, Builders, Miners|
 
-La dama constructora es la taisha a cargo de la [[Compa%C3%B1%C3%ADa\|Compañía]]. El nombre canónico de la actual dama constructora es desconocido. Reside en el cuartel general de los constructores. Dirige la industria de la construcción de Lossand.
-
-
-Se desconoce cómo se selecciona al taisha de la Compañía.
+The Lady Mason is the Taisha in charge of the [[Company\|Company]]. The canonical name of the current Lady Mason is unknown. She resides at the Mason Headquarters. She leads the construction industry of Lossand.
 
 
-En la votación inicial, la dama constructora votó a favor de disolver el Diem.
-En la votación final de los taishin, la dama constructora votó a favor del Diem, diciendo que ha demostrado que puede ser beneficioso y flexible. Esto se debió en gran parte al incidente del derrumbe de la construcción, en el que Kenton utilizó su arena para salvar la vida de varios trabajadores del Gremio.
-
-## Curiosidades
-En [[Arena Blanca (prosa)\|la edición en prosa]], el taisha de la Compañía de Constructores era varón y se llamaba Selcomb. Utilizaba representantes para asistir a las reuniones de los taishin y así no tener que salir de Nor'Tallon.
-## Notas
+It is unknown how the Taisha of the Company is selected.
 
 
+In the initial vote, the Lady Mason voted to dissolve the Diem.
+In the final vote of the Taishin the Lady Mason voted for the Diem, saying that it has proven that it can be beneficial and flexible. This was largely due to the incident with the construction collapse, where Kenton used his sand to save the lives of several of the Guild's workers.
+
+## Trivia
+In the [[White Sand (prose)\|prose]] the Taisha of the Mason's guild was male and was named Selcomb. He used representatives to attend the Taishin meetings so that he would not need to leave Nor'Tallon.
 
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**| · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] · [[Ker'reen\|Ker'reen]] · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
-
-
-
-https://es.coppermind.net/wiki/Taisha
+https://coppermind.net/wiki/Taisha

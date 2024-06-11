@@ -1,28 +1,24 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|***El camino de los reyes*[[Palabras Radiantes\|>]]**|
+|***The Way of Kings*[[Words of Radiance\|>]]**|
 |-|-|
 ||
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|
-|**Siguiente**|*[[Palabras Radiantes\|Palabras Radiantes ]]*|
-|**Localización**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|31 de agosto de 2010|
-|**Fecha española**|julio de 2015|
-|**Editorial**||
-|**Editorial en español**||
+|**[[The Stormlight Archive\|The Stormlight Archive]]**|
+|**Precedes**|*[[Words of Radiance\|Words of Radiance ]]*|
+|**Setting**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
+|**Released**|August 31, 2010|
+|**Publisher**||
 |**ISBN**|978-0-7653-2635-5|
-|**ISBN español**|978-84-666-5766-2|
-|**Número de Páginas**|1,008 , 1200 |
-|**Número de Palabras**|[[El camino de los reyes/An%C3%A1lisis estad%C3%ADstico\|384,265]]|
-Este artículo se refiere a la novela de [[Brandon Sanderson\|Brandon Sanderson]]. Para el libro dentro del propio universo, ver [[El camino de los reyes (in-world)\|El camino de los reyes (in-world)]].
-***El camino de los reyes*** es una novela de fantasía épica de [[Brandon Sanderson\|Brandon Sanderson]]. Es el primer volumen de una serie planificada de diez volúmenes llamada *[[El archivo de las tormentas\|El archivo de las tormentas]]*. Michael Whelan creó la portada de la edición estadounidense. La portada de la edición internacional fue creada por Sam Green.
-Tiene tres personajes principales y varios secundarios, muchos de los cuales se exploran a través de Interludios.
-El camino de los reyes también tiene una serie de [[El camino de los reyes/Ep%C3%ADgrafes\|epígrafes]], que dan pistas premonitorias e información sobre el [[Cosmere\|Cosmere]].
+|**Page Count**|1,008|
+|**Word Count**|[[The Way of Kings/Statistical analysis\|384,265]]|
+This article is about [[Brandon Sanderson\|Brandon Sanderson's]] novel. For the in-universe text, see [[The Way of Kings (in-world)\|The Way of Kings (in-world)]].
+***The Way of Kings*** is an epic fantasy novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first volume in a planned ten volume series called [[The Stormlight Archive\|The Stormlight Archive]]. Michael Whelan created the cover for the US edition. The cover of the international edition was created by Sam Green.
+It has three main characters and several minor characters, many of whom are explored through Interludes.
+The Way of Kings also has a series of [[The Way of Kings/Epigraphs\|Epigraphs]], which give hints of foreshadowing and information about the [[Cosmere\|cosmere]].
 
-## Sumario
+## Contents
 
-1 Sinopsis. [[#Sinopsis]] 
-2 Solapa de la portada. [[#Solapa de la portada]] 
-3 Resumen. [[#Resumen]] 
+1 Synopsis. [[#Synopsis]] 
+2 Cover Flap. [[#Cover Flap]] 
+3 Summary. [[#Summary]] 
 
 3. [[#Kaladin]] 
 3. [[#Dalinar]] 
@@ -30,131 +26,100 @@ El camino de los reyes también tiene una serie de [[El camino de los reyes/Ep%C
 3. [[#Szeth]] 
 
 
-4 Ambientación. [[#Ambientaci.C3.B3n]] 
+4 Setting. [[#Setting]] 
 
-4. [[#Sistema de magia]] 
-
-
-5 Galería de portadas. [[#Galer.C3.ADa de portadas]] 
-6 Arte interior. [[#Arte interior]] 
-7 Traducciones. [[#Traducciones]] 
-8 Ver también. [[#Ver tambi.C3.A9n]] 
-9 Análisis estadístico. [[#An.C3.A1lisis estad.C3.ADstico]] 
-10 Notas. [[#Notas]] 
+4. [[#Magic System]] 
 
 
-## Sinopsis
-*Anhelo los días previos a la [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]].*
-*Los días en que los [[Heraldo\|Heraldos]] nos abandonaron y los [[Caballeros Radiantes\|Caballeros Radiantes]] se giraron en nuestra contra. Un tiempo en que aún había magia en el mundo y honor en el corazón de los hombres.*
-*El mundo fue nuestro, pero lo perdimos. Probablemente no hay nada más estimulante para las almas de los hombres que la victoria.*
-*¿O tal vez fue la victoria una ilusión durante todo ese tiempo? ¿Comprendieron nuestros enemigos que cuanto más duramente luchaban, más resistíamos nosotros? Quizá vieron que el fuego y el martillo tan solo producían mejores espadas. Pero ignoraron el acero durante el tiempo suficiente para oxidarse.*
-*Hay cuatro personas a las que observamos. La primera es [[Kaladin\|el médico]], quien dejó de curar para convertirse en soldado durante la [[Guerra de la Venganza\|guerra más brutal de nuestro tiempo]]. La segunda es [[Szeth\|el asesino]], un homicida que llora siempre que mata. La tercera es [[Shallan\|la mentirosa]], una joven que viste un manto de erudita sobre un corazón de ladrona. Por último está el [[Dalinar Kholin\|alto príncipe]], un guerrero que mira al pasado mientras languidece su sed de guerra.*
-*El mundo puede cambiar. La [[Potenciaci%C3%B3n\|potenciación]] y el [[Empleando esquirlada\|uso de las esquirlas]] pueden aparecer de nuevo, la magia de los días pasados puede volver a ser nuestra. Esas cuatro personas son la clave.*
-*Una de ellas nos redimirá.*
-*Y una de ellas nos destruirá.*
+5 Cover Gallery. [[#Cover Gallery]] 
+6 Interior Art. [[#Interior Art]] 
+7 Translations. [[#Translations]] 
+8 See Also. [[#See Also]] 
+9 Statistical Analysis. [[#Statistical Analysis]] 
+10 Notes. [[#Notes]] 
 
-## Solapa de la portada
-En Roshar, un mundo de piedra y tormentas, unas extrañas tempestades de increíble potencia barren el rocoso territorio de tal manera que han dado forma a una nueva civilización escondida. Han pasado siglos desde la caída de las diez órdenes consagradas conocidas como los Caballeros Radiantes, pero sus espadas y armaduras aún permanecen; espadas místicas y corazas que transforman a hombres corrientes en guerreros invencibles.
-Tan solo en las Llanuras Quebradas asola una guerra sin sentido. Allí, Kaladin -quien cambió su aprendizaje como médico por un arma para proteger a su hermano pequeño- ha sido sometido a la esclavitud. En una guerra donde diez ejércitos luchan por separado contra un solo enemigo, él combate para salvar a sus hombres y para sondear a los líderes que los consideran prescindibles.
-El brillante Dalinar Kholin lidera uno de esos otros ejércitos. Como su hermano, el último rey, se siente fascinado por un antiguo texto llamado *El camino de los reyes*. Preocupado por las poderosas visiones de tiempos pasados y de los Caballeros Radiantes, ha empezado a dudar de su propia cordura.
-Mientras tanto, al otro lado del océano, su erudita y hereje sobrina, Jasnah Kholin, forma a su discípula, la joven Shallan, quien investigará los secretos de los Caballeros Radiantes y la verdadera causa del la guerra. Pero sus motivos son oscuros. Mientras prepara un robo audaz, su investigación destapa los secretos de los Caballeros Radiantes y la verdadera causa de la guerra.
 
-## Resumen
-Para el resumen capítulo a capítulo, ver [[El camino de los reyes/Resumen\|/Resumen]].
-El libro está ambientado en [[Roshar\|Roshar]] y sigue las historias de [[Kaladin\|Kaladin]], [[Dalinar Kholin\|Dalinar Kholin]] y [[Shallan Davar\|Shallan Davar]]. También hay varios personajes menores que reciben puntos de vista; [[Szeth\|Szeth]], [[Adolin Kholin\|Adolin Kholin]], [[Hoid\|Sagaz]] y [[Navani Kholin\|Navani Kholin]] en el texto principal, y varios otros en los Interludios.
+## Synopsis
+*I long for the days before the [[Last Desolation\|Last Desolation]].*
+*The age before the [[Herald\|Heralds]] abandoned us and the [[Knights Radiant\|Knights Radiant]] turned against us. A time when there was still magic in the world and honor in the hearts of men.*
+*The world became ours, and we lost it. Nothing, it appears, is more challenging to the souls of men than victory itself.*
+*Or was that victory an illusion all along? Did our enemies realize that the harder they fought, the stronger we resisted? Perhaps they saw that the heat and the hammer only make for a better grade of sword. But ignore the steel long enough, and it will eventually rust away.*
+*There are four whom we watch. The first is [[Kaladin\|the surgeon]], forced to put aside healing to become a soldier in the most brutal war of our time. The second is [[Szeth\|the assassin]], a murderer who weeps as he kills. The third is [[Shallan\|the liar]], a young woman who wears a scholar’s mantle over the heart of a thief. The last is [[Dalinar\|the highprince]], a warlord whose eyes have opened to the past as his thirst for battle wanes.*
+*The world can change. [[Surgebinding\|Surgebinding]] and [[Shardwielding\|Shardwielding]] can return; the magics of ancient days can become ours again. These four people are key.*
+*One of them may redeem us.*
+*And one of them will destroy us.*
+
+## Cover Flap
+Roshar is a world of stone and storms. Uncanny tempests of incredible power sweep across the rocky terrain so frequently that they have shaped ecology and civilization alike. Animals hide in shells, trees pull in branches, and grass retracts into the soilless ground. Cities are built only where the topography offers shelter.
+It has been centuries since the fall of the ten consecrated orders known as the Knights Radiant, but their Shardblades and Shardplate remain: mystical swords and suits of armor that transform ordinary men into near-invincible warriors. Men trade kingdoms for Shardblades. Wars are fought for them, and won by them.
+One such war rages on a ruined landscape called the Shattered Plains. There, Kaladin, who traded his medical apprenticeship for a spear to protect his little brother, has been reduced to slavery. In a war that makes no sense, where ten armies fight separately against a single foe, he struggles to save his men and to fathom the leaders who consider them expendable.
+Brightlord Dalinar Kholin commands one of those other armies. Like his brother, the late king, he is fascinated by an ancient text called *The Way of Kings*. Troubled by overpowering visions of ancient times and the Knights Radiant, he has begun to doubt his own sanity.
+Across the ocean, an untried young woman named Shallan seeks to train under the eminent scholar and notorious heretic Jasnah Kholin, Dalinar's niece. Though she genuinely loves learning, Shallan's motives are less than pure. As she plans a daring theft, her research for Jasnah hints at secrets of the Knights Radiant and the true cause of the war.
+
+## Summary
+For a chapter by chapter summary, see [[The Way of Kings/Summary\|/Summary]].
+The book is set on [[Roshar\|Roshar]] and follows the stories of [[Kaladin\|Kaladin]], [[Dalinar Kholin\|Dalinar Kholin]], and [[Shallan Davar\|Shallan Davar]]. There are also several minor characters who receive viewpoints; [[Szeth\|Szeth]], [[Adolin Kholin\|Adolin Kholin]], [[Wit\|Wit]], and [[Navani Kholin\|Navani Kholin]] in the main text, and several others in the Interludes.
 
 ### Kaladin
-**[[Kaladin\|Kaladin]]** es el personaje central de la novela. Al principio de su historia, es un líder de escuadrón en el ejército de [[Amaram\|Amaram]]. A continuación, su historia se traslada a su época de esclavo. Es vendido al [[/wiki/Llanuras Quebradas#Campamentos de guerra]], donde se le coloca en el [[Puente Cuatro\|Puente Cuatro]], y se le obliga a correr de frente hacia el fuego enemigo con el resto de su cuadrilla del puente para dar al ejército una forma de cruzar los abismos, así como para alejar las flechas enemigas de las tropas. Tras un periodo de desesperación, Kaladin trabaja para mejorar la vida de su cuadrilla. Los forma para que las carreras de los puentes no los cansen tanto, salva la vida de los hombres de los puentes heridos y, poco a poco, consigue que salgan de la apatía y comiencen a verse a sí mismos como soldados. Kaladin también planea encontrar una forma de escapar del ejército de Sadeas.
-Kaladin se enfrenta a la lucha interna de su incapacidad para salvar a los que le rodean y a su desconfianza hacia los ojos claros.
-Como personaje central de *El camino de los reyes*, el pasado de Kaladin se ve a través de flashbacks. Los flashbacks muestran su infancia y su aprendizaje como cirujano a las órdenes de su padre, así como su ingreso en el ejército y la razón por la que se convirtió en esclavo.
+**[[Kaladin\|Kaladin]]** is the focus character of the novel. At the beginning of his story, he is a squadleader in [[Amaram\|Amaram's]] army. His storyline then cuts to his time as a slave. He is sold to [[Shattered Plains\| Sadeas's warcamp]], where he is placed in [[Bridge Four\|Bridge Four]], and made to run headlong into enemy fire with the rest of his bridgecrew to give the army a way to cross the chasms as well as drawing enemy arrows away from troops. After a period of despair, Kaladin works to improve the life of his bridgecrew. He trains them so that the bridge runs won't tire them out so much, saves the lives of injured bridgemen, and slowly gets them to start caring again, and to see themselves as soldiers. Kaladin also plans to find a way to escape from Sadeas's army.
+Kaladin faces the internal struggles of his inability to save those around him and his distrust of any lighteyes.
+As the focus character of *The Way of Kings*, Kaladin's past is viewed through the use of flashbacks. The flashbacks show his childhood and his surgeon apprenticeship under his father, as well as how he joins the army and why he became a slave.
 
 ### Dalinar
-La historia de **[[Dalinar Kholin\|Dalinar Kholin]]** se centra en la política de la nobleza alezi.
-Tras el asesinato de su hermano [[Gavilar\|Gavilar]], Dalinar se tomó a pecho sus últimas palabras y comenzó a seguir los [[C%C3%B3digos de Guerra Alezi\|Códigos de Guerra Alezi]] y las enseñanzas de [[El camino de los reyes (in-world)\|El camino de los reyes]], un libro escrito por [[Nohadon\|Nohadon]]. Le acosan visiones del pasado durante cada [[Alta tormenta\|alta tormenta]], y tiene la fuerte sensación de que la guerra en las [[Llanuras Quebradas\|Llanuras Quebradas]] no es en lo que debe centrarse el rey, sino en unir a los altos príncipes alezi por completo. Tras la traición de [[Torol Sadeas\|Torol Sadeas]], finalmente abandona la política y abraza al Espina Negra, dándose cuenta de que debe obligar a los altos príncipes a unirse y terminar la guerra rápidamente, para que puedan centrarse en la [[Desolaci%C3%B3n\|Desolación]] que se avecina.
+**[[Dalinar Kholin\|Dalinar Kholin]]'**s story centers around the politics of the Alethi nobility.
+Following his brother [[Gavilar\|Gavilar's]] assassination, Dalinar took his last words to heart, and began following the [[Alethi Codes of War\|Alethi Codes of War]] and the teachings of [[The Way of Kings (in-world)\|The Way of Kings]], a book written by [[Nohadon\|Nohadon]]. He is plagued by visions of the past during every [[Highstorm\|highstorm]], and has a strong sense that the war on the [[Shattered Plains\|Shattered Plains]] is not what the king needs to be focused on, but rather uniting the Alethi highprinces completely. Following the betrayal by [[Torol Sadeas\|Torol Sadeas]], he finally drops politics and embraces the Blackthorn, realizing that he must force the highprinces to unite and finish the war quickly, so they may focus on the [[Desolation\|Desolation]] to come.
 
 ### Shallan
-**[[Shallan Davar\|Shallan Davar]]** se convierte en la pupila de la infame erudita [[Jasnah\|Jasnah]], con la esperanza de robar su [[Moldear almas\|moldeador de almas]]. Su historia es principalmente un conflicto interno entre continuar con su tutela, que ama, y robar el [[Fabrial\|fabrial]] para ayudar a su familia. A medida que el conflicto avanza, Shallan comienza a atraer misteriosos spren cuando no presta atención, y cree que se está volviendo loca. Las cosas llegan a un punto crítico cuando su interés amoroso, [[Kabsal\|Kabsal]], es sorprendido tratando de envenenar a Jasnah, y el robo de Shallan se revela. Se enfrenta a Jasnah, que también puede ver a los spren y puede [[Moldear almas\|moldear almas]] sin usar un fabrial, y revela que está investigando a los [[Portadores del Vac%C3%ADo\|Portadores del Vacío]].
+**[[Shallan Davar\|Shallan Davar]]** becomes the ward of the rather infamous scholar [[Jasnah\|Jasnah]], in the hopes of stealing her [[Soulcaster\|Soulcaster]]. Her story is a mostly internal conflict between continuing her wardship, which she loves, and stealing the [[Fabrial\|fabrial]] to help her family. As her conflict progresses, Shallan begins to draw mysterious spren when she's not paying attention, and she believes she is going mad. Things come to a head when her love interest [[Kabsal\|Kabsal]] is caught trying to poison Jasnah, and Shallan's theft is revealed. She confronts Jasnah, who can also see the spren and can [[Soulcast\|Soulcast]] without the use of a fabrial, and she reveals that she is researching the [[Voidbringer\|Voidbringers]].
 
 ### Szeth
-La historia de **[[Szeth\|Szeth]]** se cuenta a través de los Interludios. Un [[Sinverdad\|Sinverdad]] de [[Shinovar\|Shinovar]], se presenta por primera vez cuando asesina al rey Gavilar de [[Alezkar\|Alezkar]]. Conocido como el Asesino de Blanco, pasa por varios maestros antes de recibir órdenes de asesinar a varias personas de alto rango por parte de un misterioso maestro. Odiándose a sí mismo, asesina a las personas de su lista hasta llegar al rey [[Taravangian\|Taravangian]], que resulta ser el hombre que sostiene su [[Piedra Jurada\|Piedra Jurada]].
+**[[Szeth\|Szeth]]'**s story is told through the Interludes. A [[Truthless\|Truthless]] of [[Shinovar\|Shinovar]], he is first introduced when he famously assassinates King Gavilar of [[Alethkar\|Alethkar]]. Known as the Assassin in White, he goes through several masters before getting orders to assassinate several high-ranking people by a mysterious master. Hating himself, he murders the people on his list until he gets to King [[Taravangian\|Taravangian]], who turns out to be the man holding his [[Oathstone\|oathstone]].
 
-## Ambientación
-### Sistema de magia
-Roshar tiene varios sistemas de magia. La mayoría de ellos son utilizados por las órdenes de los [[Caballeros Radiantes\|Caballeros Radiantes]], entre cuyos poderes se incluyen el [[Moldear almas\|moldeado de almas]] y la [[Potenciaci%C3%B3n\|potenciación]]. Independiente de las órdenes Radiantes está la [[Antigua Magia\|Antigua Magia]].
-Las [[Diez Esencias\|Diez Esencias]] no se han desarrollado mucho en el libro, aunque tienen algo que ver con el moldeado de almas.
+## Setting
+### Magic System
+Roshar has several magic systems. Most of these are used by the [[Knights Radiant\|Knights Radiant]] orders, with some of these powers including [[Soulcast\|Soulcasting]] and [[Surgebinding\|Surgebinding]]. Independent of the Radiant orders is the [[Old Magic\|Old Magic]].
+The [[Ten Essences\|Ten Essences]] have not been elaborated on much in the book, though they have something to do with Soulcasting.
 
-## Galería de portadas
-Para una galería de portadas de El camino de los reyes, ver [[El camino de los reyes/Portadas\|/Portadas]].
-## Arte interior
-Para una galería del arte interior del libro, ver [[El camino de los reyes/Arte interior\|/Arte interior]].
-## Traducciones
-|**Traducciones**|
+## Cover Gallery
+For a cover gallery of The Way of Kings, see [[The Way of Kings/Covers\|/Covers]].
+## Interior Art
+For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/Interior art]].
+## Translations
+|**Translations**|
 |-|-|
-|**Idioma**|**Título**|
+|**Language**|**Title**|
 |**Dansk**|*En Konges Vej*|
-|**Inglés**|*The Way of Kings*|
-|**Francé**|*La Voie Des Rois*|
-|**Alemán**|*Der Weg der Könige*|
-|*Der Pfad Der Winde* (El Camino de los Vientos)|
+|**Español**|*El camino de los reyes*|
+|**Français**|*La Voie Des Rois*|
+|**Deutsch**|*Der Weg der Könige*|
+|*Der Pfad Der Winde* (The Path of Winds)|
 |**Italiano**|*La Via dei Re*|
-|**Polaco**|*Droga królów*|
-|**Checo**|*Cesta králů *|
-|**Turco**|*Krallarin Yolu*|
-|**Persa**|*طریق شاهان*|
-|**Hebreo**|*דרך המלכים*|
-|**Japonés**|白き暗殺者 (El asesino de blanco)|
-|死を呼ぶ嵐 (Llamada a la tormenta de la muerte)|
-|自由への懸け橋 (Puente de libertad)|
+|**Polski**|*Droga królów*|
+|**Čeština**|*Cesta králů *|
+|**Türkçe**|*Krallarin Yolu*|
+|**فارسی**|*طریق شاهان*|
+|**עִבְֿרִית**|*דרך המלכים*|
+|**日本語**|白き暗殺者 (The White Assassin)|
+|死を呼ぶ嵐 (To Call the Storm of Death)|
+|自由への懸け橋 (Bridge of Freedom)|
 |****|
 
-## Ver también
-[[El camino de los reyes/Ep%C3%ADgrafes\|El camino de los reyes/Epígrafes]]
-[[El camino de los reyes/Encabezados\|El camino de los reyes/Encabezados]]
-[[El camino de los reyes/Portadas\|El camino de los reyes/Portadas]]
-[[El camino de los reyes/Arte interior\|El camino de los reyes/Arte interior]]
-## Análisis estadístico
-Para un análisis estadístico completo, ver [[El camino de los reyes/An%C3%A1lisis estad%C3%ADstico\|/Análisis estadístico]].
-*El camino de los reyes* consta de un preludio, un prólogo, setenta y cinco capítulos, diez de los cuales están reservados a flashbacks del personaje central del libro, nueve interludios y un epílogo, alcanzando un total de 384,265 palabras en inglés (dato no disponible en español). Hay puntos de vista únicos de diecisiete personajes diferentes en un total de 123 puntos de vista, aunque doce de estos personajes ocupan una parte mucho más corta del libro que los otros cinco.
+## See Also
+[[The Way of Kings/Epigraphs\|The Way of Kings/Epigraphs]]
+[[The Way of Kings/Headings\|The Way of Kings/Headings]]
+[[The Way of Kings/Covers\|The Way of Kings/Covers]]
+[[The Way of Kings/Interior art\|The Way of Kings/Interior art]]
+## Statistical Analysis
+For a full statistical analysis, see [[The Way of Kings/Statistical analysis\|/Statistical analysis]].
+*The Way of Kings* consists of one prelude, one prologue, seventy-five chapters, ten of which are reserved for flashbacks of the focus character of the book, nine interludes and one epilogue, reaching a total 384,265 word count. There are seventeen different unique point-of-view characters in a total of 123 POVs, although twelve of these characters occupy a much shorter portion of the book than the other five.
 
-|**Conteo de palabras (inglés)**|384,265||
+|**Word Count**|384,265||
 |-|-|
-|**Conteo de páginas**|1,008|Tor hardback|
-|1200|Nova editorial. Edición 2020|
-|**Conteo de capítulos**|87|Incluyendo preludio, prólogo, 9 interludios y epílogo.|
-|**Personajes PdV**|17||
-|**Recuento de PdV**|123||
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
-
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**| · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+|**Page Count**|1,008|Tor hardback|
+|**Chapter Count**|87|Including prelude, prologue, 9 interludes, and epilogue.|
+|**PoV Characters**|17||
+|**PoV Count**|123||
 
 
 
-https://es.coppermind.net/wiki/The_Way_of_Kings
+https://coppermind.net/wiki/The_Way_of_Kings

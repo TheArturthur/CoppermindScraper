@@ -1,53 +1,25 @@
-
-
 |**Adawathwyn**|
 |-|-|
 ||
-|**Capacidades**|[[/wiki/Cinc#Uso feruqu.C3.ADmico]]|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El metal perdido\|El metal perdido]]*|
+|**Abilities**|[[/wiki/Zinc#Feruchemical Use]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Ethnicity**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-**Adawathwyn** es una antigua vicegobernadora de [[Elendel\|Elendel]], segunda del gobernador [[Varlance\|Varlance]]. Adawathwyn es una [[/wiki/Cinc#Uso feruqu.C3.ADmico]] [[Terris\|terrisana]].
+**Adawathwyn** is a former vice governor of [[Elendel\|Elendel]] under Governor [[Varlance\|Varlance]]. Adawathwyn is a [[Terris\|Terris]] [[/wiki/Zinc#Feruchemical Use]].
 
-## Apariencia y personalidad
-Adawathwyn tiene el pelo castaño y rizado y ojos marrones oscuros. Aparenta ser solamente una representante simbólica del pueblo terrisano, pero Varlance está bajo su influencia durante la mayor parte de su mandato. Él depende de ella para casi cualquier acción, y ella lo presiona frecuentemente en decisiones importantes.
+## Appearance and Personality
+Adawathwyn has curly brown hair and dark brown eyes. She outwardly appears to be just a token representative for the Terris people, but Varlance is in her pocket for most of his term. He relies on her for almost every action, and she frequently pushes him around on major decisions.
 
-## Historia
-Adawathwyn se convirtió en vicegobernadora de Elendel bajo el gobernador [[Varlance\|Varlance]]. Estuvo involucrada en casi todas las decisiones políticas que él tomó.
-Cuando [[Steris\|Steris]] la informó de una amenaza de bomba a Elendel, estableció un consejo para investigarlo, pero también maniobró para excluir a la Casa Ladrian. El consejo consistía solo en tres senadores, [[Darlin Cett\|lord Cett]], [[Mari Hammondess\|lady Hammondess]] y [[Lady Gardre\|lady Gardre]].
-Cuando el [[Reddi\|comisario general Reddi]] invita de todos modos a Steris a la reunión como experta en la materia, Adawathwyn no estaba contenta.. Cuando el consejo propuso una guerra a la que Reddi se oponía, ella planeó un  para forzarlos. Sus acciones parecían beneficiar al [[El Grupo\|Grupo]] pero Steris creía que era alentada en secreto pero no influenciada directamente por ellos.
-Finalmente, Adawathwyn y el consejo creen a Steris después de que [[TenSoon\|TenSoon]] se revelase a sí mismo, disfrazado como un oficial de policía. Como ferrin de [[/wiki/Cinc#Uso feruqu.C3.ADmico]], ella planeó usar los [[Brazales de Duelo\|Brazales de Duelo]] para deshacerse de los explosivos de forma segura. Sin embargo, TenSoon reveló que los brazales estaban agotados, por lo que Adawathwyn no pudo poner a prueba el plan. Dado que la destrucción de la ciudad era inminente, Adawathwyn y los otros senadores del consejo huyeron de la ciudad, dejando atrás a Steris y Varlance para evacuar a todos los demás.
-Cuando terminó la crisis, Adawathwyn fue despedida por el gobernador Varlance.
-
-## Notas
-|Antecesor  ***desconocido***|**Vicegobernadora de [[Elendel\|Elendel]]**  ?-348 [[Catacendro\|PC]]|Sucesor  ***desconocido***|
-|-|-|
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## History
+Adawathwyn became the Vice Governor of Elendel under Governor [[Varlance\|Varlance]]. She was involved in almost every policy decision he took.
+After [[Steris\|Steris]] informed her of a bomb threat to Elendel, she established a Council to investigate it but also manoeuvred to exclude House Ladrian. The Council consisted only of three senators, [[Darlin Cett\|Lord Cett]], [[Mari Hammondess\|Lady Hammondess]] and [[Lady Gardre\|Lady Gardre]].
+When [[Reddi\|Constable-General Reddi]] invites Steris to the meeting anyway as a subject matter expert, Adawathwyn was not happy.. When the Council proposed a war that Reddi was opposed to, she planned to use a  to force them. Her actions seem to benefit the [[Set\|Set]] but Steris believed she was secretly encouraged but not directly influenced by them.
+Adawathwyn and the Council finally believe Steris after [[TenSoon\|TenSoon]] revealed himself, disguised as a police officer. As a [[/wiki/Zinc#Feruchemical Use]] Ferring, she planned to use the [[Bands of Mourning\|Bands of Mourning]] to safely dispose of the bombs. However, Tensoon revealed that the bands are drained, so Adawathwyn could not try the plan. Considering the destruction of the city imminent, Adawathwyn and the other Senators in the Council fled the city, leaving behind Steris and Varlance to evacuate everyone else.
+After the crisis was over, Adawathwyn was fired by Governor Varlance.
 
 
 
-https://es.coppermind.net/wiki/Adawathwyn
+https://coppermind.net/wiki/Adawathwyn

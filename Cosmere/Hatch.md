@@ -1,24 +1,15 @@
 |**Hatch**|
 |-|-|
-|**Poderes**|[[Rithm%C3%A1tica\|Rithmática]]|
-|**Oficio**|Professor|
-|**Residencia**|[[Academia Armedius\|Academia Armedius]]|
-|**Mundo natal**||
-|**Presentado en**|**|
+|**Powers**|[[Rithmatics\|Rithmatics]]|
+|**Profession**|Professor|
+|**Residence**|[[Armedius Academy\|Armedius Academy]]|
+|**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
-**Hatch** is a professor at .
+**Hatch** is a professor at [[Armedius Academy\|Armedius Academy]].
 
 ## Trivia
 Prof Hatch is possibly a cameo of Matt Hatch of 
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[El rithmatista\|El rithmatista]]**|
-|-|-|
-|**Characters**|[[Joel Saxon\|Joel Saxon]] · [[Melody Muns\|Melody Muns]] · [[Fitch\|Professor Fitch]] · [[Andrew Nalizar\|Andrew Nalizar]] · [[Thomas York\|Principal York]] · [[Harding\|Inspector Harding]]|
-|**Places**| ·  ·  ·  · [[JoSeun\|JoSeun]]|
-|**Magic and Lore**| ·  ·  ·  ·  · [[Shadowblaze\|Shadowblaze]] · |
 
 
-
-https://es.coppermind.net/wiki/Hatch
+https://coppermind.net/wiki/Hatch

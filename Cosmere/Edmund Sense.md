@@ -1,14 +1,14 @@
 |**Edmund Sense**|
 |-|-|
 ||
-|**Capacidades**|[[%C3%89pico\|Épico]]|
-|**Apodos**|Conflux|
-|**Residencia**||
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Steelheart\|Steelheart]]*|
-
-**Edmund Sense**, also known as the  **Conflux**, is commonly believed to be a member of  inner circle and the chief of . In reality he is a prisoner.
-Because he routinely gives his powers away and has voluntarily confronted his weakness, Edmund is not very susceptible to 's corrupting influence. He is a gentle, timid man whose first concern is usually self-preservation and who deeply dislikes conflict.
+|**Abilities**|[[Epic\|Epic]]|
+|**Aliases**|Conflux|
+|**Residence**|[[Newcago\|Newcago]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Steelheart\|Steelheart]]*|
+> [!info] This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
+**Edmund Sense**, also known as the [[Epic\|Epic]] **Conflux**, is commonly believed to be a member of [[Steelheart (Epic)\|Steelheart's]] inner circle and the chief of [[Enforcement\|Enforcement]]. In reality he is a prisoner.
+Because he routinely gives his powers away and has voluntarily confronted his weakness, Edmund is not very susceptible to [[Calamity (Epic)\|Calamity's]] corrupting influence. He is a gentle, timid man whose first concern is usually self-preservation and who deeply dislikes conflict.
 
 ## Attributes and Abilities
 
@@ -17,17 +17,6 @@ Shortly after becoming an Epic, Edmund accidentally killed his wife, Sara, by el
 About eleven years after the rise of Calamity, the Reckoners attempted to assassinate Conflux, whom they believed to be the head of Enforcement, as part of their larger plan to bring down Steelheart and his regime. In the process, they discovered Edmund, tied up and gagged in the trunk of the limo they believed Conflux was riding inside. They took him prisoner and questioned him, and he revealed to them the true nature of his role in Newcago.
 After the Reckoners killed Steelheart, Edmund became an employee of the Newcago provisional government and continued to provide power for the city. When [[Jonathan Phaedrus\|Jonathan Phaedrus]] was corrupted a year later, Cody and Abraham took Edmund to a safe house outside of Newcago to hide from him. [[David Charleston\|David Charleston]], who was serving as leader of the Reckoners at the time, invited him to join the surviving Reckoners in [[Ildithia\|Ildithia]], but Edmund declined, preferring to stay out of danger. He asked David to give him up to another powerful Epic who would be able to protect him, but David refused.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · [[Wingflare\|Wingflare]]|
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Edmund_Sense
+https://coppermind.net/wiki/Edmund_Sense

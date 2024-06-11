@@ -1,44 +1,30 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Do-Kando**|
 |-|-|
-|**Tipo**|Religious/philosophical text|
-|**Autor**|[[Keseg\|Keseg]]|
-|**Idioma**|[[JinDo\|JinDo]]|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Type**|Religious/philosophical text|
+|**Author**|[[Keseg\|Keseg]]|
+|**Language**|[[JinDo\|JinDo]]|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El ***Do-Kando*** es el antiguo libro sagrado del [[Shu-Keseg\|Shu-Keseg]], una religión de [[Sel\|Sel]].
+The ***Do-Kando*** is the ancient holy book of [[Shu-Keseg\|Shu-Keseg]], a religion on [[Sel\|Sel]].
 
-## Sumario
+## Contents
 
-1 Contenido. [[#Contenido]] 
-2 Legado. [[#Legado]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
-
-
-## Contenido
-Es una de las obras más antiguas de la literatura de Sel, y se cree que sólo fue precedida por *[[Wyrn el rey\|Wyrn el rey]]*. El libro consiste en las enseñanzas del filósofo religioso de [[JinDo\|JinDo]] [[Keseg\|Keseg]] (también conocido como Keshu o KeHwo), recogidas por sus dos discípulos principales, [[Dereth\|Dereth]] y [[Korath\|Korath]]. Keseg se basó en el valor tradicional JinDo de la unidad y aplicó los conceptos de un dios único y omnipotente y un ministerio organizado. La obra de Keseg fue considerada revolucionaria aunque su principal intención era clarificar las creencias JinDo existentes.
-
-## Legado
-[[Dereth\|Dereth]] y [[Korath\|Korath]] interpretaron las enseñanzas de Keseg de forma diferente y escribieron sus propios libros sagrados, el *[[Do-Dereth\|Do-Dereth]]* y el *[[Do-Korath\|Do-Korath]]*. Estos libros siguen siendo la base de las dos religiones más practicadas en la [[Opelon\|Opelon]] moderna. Los [[Shu-Dereth\|derethi]] todavía utilizan el *Do-Kando* en cierta medida junto con el *Do-Dereth*.
-Mientras explicaba su supuesta conversión al Shu-Dereth a [[Hrathen\|Hrathen]], [[Dilaf\|Dilaf]] afirmó que un [[Arteth\|arteth]] derethi le dio una copia tanto del *Do-Kando* como del *Do-Dereth* y que los leyó en una noche.
-
-## Curiosidades
-En las ediciones originales de *[[Elantris (libro)\|Elantris]]*, este libro se denominaba *Do-Keseg* en el capítulo 3 y *Do-Kando* en el capítulo 43.. La edición del Décimo Aniversario de *Elantris* cambió ambas referencias a *Do-Kando*.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 23:27, 2 de octubre de 2019 (UTC)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+1 Contents. [[#Contents]] 
+2 Legacy. [[#Legacy]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Contents
+It is among the earliest extant pieces of Selish literature, thought to be preceded only by *[[Wyrn the King\|Wyrn the King]]*. The book consists of the teachings of the [[JinDo\|JinDo]] religious philosopher [[Keseg\|Keseg]] (also known as Keshu or KeHwo), as recorded by his two primary disciples, [[Dereth\|Dereth]] and [[Korath\|Korath]]. Keseg drew from the traditional JinDo value of unity and applied the concepts of a single, omnipotent god and an organized ministry. Keseg's work was considered revolutionary even though his primary intent was to clarify existing JinDo beliefs.
 
-https://es.coppermind.net/wiki/Do-Kando
+## Legacy
+[[Dereth\|Dereth]] and [[Korath\|Korath]] interpreted Keseg's teachings differently and wrote their own holy books, the *[[Do-Dereth\|Do-Dereth]]* and the *[[Do-Korath\|Do-Korath]]*. These books remain the basis for the two religions most commonly practiced in modern [[Opelon\|Opelon]]. The [[Shu-Dereth\|Derethi]] still use the *Do-Kando* to some extent alongside the *Do-Dereth*.
+While explaining his supposed conversion to Shu-Dereth to [[Hrathen\|Hrathen]], [[Dilaf\|Dilaf]] claimed that a Derethi [[Arteth\|arteth]] gave him a copy of both the *Do-Kando* and the *Do-Dereth* and that he read them in one night.
+
+## Trivia
+In the original printings of *[[Elantris (book)\|Elantris]]*, this book was referred to as the *Do-Keseg* in chapter 3 and *Do-Kando* in chapter 43. The Tenth Anniversary edition of *Elantris* changed both references to *Do-Kando*.
+
+
+https://coppermind.net/wiki/Do-Kando

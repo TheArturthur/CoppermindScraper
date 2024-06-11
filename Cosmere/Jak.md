@@ -1,100 +1,78 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Jak**|
 |-|-|
 ||
-|**Capacidades**|[[/wiki/Esta%C3%B1o#Uso alom.C3.A1ntico]]|
-|**Oficio**|Explorador|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Alomante Jak y los Pozos de Eltania\|Alomante Jak y los Pozos de Eltania]]*|
+|**Abilities**|[[/wiki/Tin#Allomantic Use]]|
+|**Profession**|Explorer|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El metal perdido\|El metal perdido]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Jak** también conocido como "Alomante Jak" y "Caballero Jak", es un noble y un explorador de [[Scadrial\|Scadrial]].
+**Jak** also known as "Allomancer Jak" and "Gentleman Jak", is a [[Scadrian\|Scadrian]] nobleman and an explorer.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance & Personality. [[#Appearance .26 Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Aventuras tempranas]] 
-3. [[#Los Pozos de Eltania]] 
-3. [[#Nueva Seran]] 
-3. [[#Separaci.C3.B3n con Handerwym]] 
+3. [[#Early Adventuring]] 
+3. [[#The Pits of Eltania]] 
+3. [[#New Seran]] 
+3. [[#Breakup with Handerwym]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Waxillium Ladrian]] 
 
 
-5 Publicaciones. [[#Publicaciones]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Publishing. [[#Publishing]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Para more images, ver .
-Jak se representa en todos sus periódicos como un hombre bien arreglado de unos treinta años. Siempre se le muestra luciendo un gran bigote que se complementa con cabello largo y anteojos. Aunque el atuendo varía de vez en cuando, casi siempre se parece a un traje de algún tipo con una [[Capa de brumas\|capa de brumas]] añadida. Aparentemente, la capa de brumas no sirve para nada, ya que no se sabe que Jak sea un [[Lanzamonedas\|lanzamonedas]] o [[Atraedor\|atraedor]]. Cuando se encuentra en entornos menos formales y explorando al aire libre, también se lo representa con un sombrero de vaquero. Jak también usa con frecuencia camisas abotonadas, que aparentemente tienden a romperse a medida que avanzan sus historias, debajo de las cuales se muestra que tiene un físico bien musculoso.   
-Puede ser difícil entender cómo es la personalidad de Jak, ya que la representación de él en sus aventuras y las opiniones de quienes lo rodean difieren mucho. Descrito por él mismo, Jak se muestra como un individuo hábil y valiente que muestra poco o ningún miedo ante la variedad de amenazas que enfrenta. Se demuestra que es competente y capaz de escapar de una amplia gama de escenarios peligrosos usando solo su inteligencia. Siendo a la vez culto y viajero, también tiene pequeños problemas para llevarse bien con aquellos con quienes se cruza durante sus aventuras. En contraste con esto, sin embargo, sus pares más cercanos dan una versión diferente tanto de su personalidad como de sus aventuras, según su editor y mayordomo [[Terris\|terrisano]], [[Handerwym\|Handerwym]], Jak es de hecho bastante ignorante acerca de los eventos sobre los que escribe. Handerwym atestigua que Jak hace poco en el camino de la verdadera investigación o en la revisación de la veracidad de sus reportes, ni siquiera en cuanto a chequear los errores gramaticales o la continuidad. Handerwym corrige la mayoría de estos errores con la publicación de las ediciones de libros de sus viajes con comentarios mordaces en forma de notas a pie de página que también se agregan para proporcionar un relato más preciso de los eventos. Mientras se reformula de afirmar abiertamente que Jak miente en sus aventuras, Handerwym muestra una gran cantidad de dudas sobre sus afirmaciones más extravagantes. A partir de estas notas a pie de página, se pinta una imagen diferente de Jak en la que parece más idiota que valiente durante sus aventuras, parece un hecho común que malinterprete por completo lo que está sucediendo y, en cambio, intensifique constantemente las situaciones. A pesar de esto, y las muchas afirmaciones improbables que hace Jak, él mismo no cree que esté mintiendo al contar sus historias.
+## Appearance & Personality
+For more images, see [[Jak/Gallery\|/Gallery]].
+Jak is depicted in all his broadsheets as being a well groomed man around his early thirties. He is always shown sporting a large mustache which is complimented by long hair and glasses. Although his outfit varies from time to time it almost always bares a resemblance to a suit of some kind with a [[Mistcloak\|mistcloak]] added. The mistcloak seemingly serves no purpose since Jak is not known to be a [[Coinshot\|coinshot]] or [[Lurcher\|lurcher]]. When in less formal settings and outside exploring he is also depicted as wearing a cowboy hat. Jak also has frequently wears buttoned up shirts, which apparently have a tendency to break open as his stories go on, underneath of which he is shown to have a well muscled physique.
+It can be difficult to understand what Jak's personality is like as the depiction of him in his adventures and the opinions of those around him diverge greatly. As depicted by himself Jak is shown to be a crafty and courageous individual who displays little to no fear at the variety of threats that face him. He is shown to be competent and capable of escaping a wide array of dangerous scenarios using his smarts alone. Being both well cultured and travelled he also has little issues getting along with those whose paths he crosses during his ventures. In contrast to this however his closest peers give a different account of both his personality and adventures, according to his editor and [[Terris\|Terris]] steward, [[Handerwym\|Handerwym]], Jak is in fact quite ignorant about the events he writes about. Handerwym attests that Jak does little in the way of true research or in double checking his accounts for accuracy, not even for grammar mistakes or continuity. Most of these errors are rectified by Handerwym come the publication of the book editions of his journeys with biting commentary given in the form of footnotes also added to provide a more accurate account of events. While refraining from outright stating that Jak lies in his adventures Handerwym displays a large amount of doubt about his more outlandish claims. From these footnotes a different image of Jak is painted in which he appears more idiotic than brave during his adventures, it seems a common occurance for him to completely misunderstand what is happening and instead consistently escalating situations. Despite this, and the many improbable claims that Jak makes, he himself does not actually think he is lying whilst recounting his stories.
 
-## Atributos y habilidades
-Jak es un [[Brumoso\|brumoso]] de [[Esta%C3%B1o\|estaño]], (también de nominado [[Ojo de esta%C3%B1o\|ojo de estaño]]) que aparentemente es hábil en el uso de sus habilidades para ayudarlo a buscar información importante. También es experto en un arma que empuña a la que llamó * 'Destello'*. Jak aparentemente también tiene una buena habilidad en el manejo de animales, ya que afirma haber logrado domesticar un animal de 'cuello largo' de [[Los %C3%81ridos\|Los Áridos]]. El animal en cuestión es una  o una .
+## Attributes and Abilities
+Jak is a [[Tin\|tin]] [[Misting\|Misting]] (aka a [[Tineye\|Tineye]]) who is apparently skilled at using his abilities to help assist him in seeking out important information. He also is proficient in a gun that he wields which he named **Glint**. Jak also seemingly has a good skill in animal handling as he claims to have managed to domesticate a 'long necked' animal from the [[Roughs\|Roughs]]. The animal in question being either a  or a .
 
-## Historia
-  <<Elizandra\|Elizandra>> Encontrando a Jak
-### Aventuras tempranas
-Jak comenzó su carrera de aventurero en algún momento alrededor del año 319 PC. Sus historias inicialmente recibieron un gran éxito y aclamación con los relatos sobre él llegando tan lejos como Los Áridos. Se destacó debido a la afirmación que hacía de que nunca había matado a un criminal y, en cambio, los arrestaba.
-A lo largo de los años, Jak eventualmente dejaría Los Áridos y comenzaría a explorar lugares más distantes y peligrosos. Fue arrojado al océano en *Alomante Jak y la máscara de las eras* mientras estaba atado a un busto del [[Superviviente\|Superviviente]] (o el [[Fantasma\|Lord Nacido de la bruma]]). Afirma haber nadado a través de los rápidos del río en *Alomante Jak y las aguas del horror*, aunque es posible que esto no haya sucedido realmente. En algún momento, también escaló los montes de ceniza y domesticó a un animal de cuello largo.
+## History
+  <<Elizandra\|Elizandra>> finding Jak
+### Early Adventuring
+Jak began his adventuring career sometime around the year 319 PC, his stories initially received great success and acclaim with stories about him reaching as far as the Roughs. He was noted due to the claim that he had never killed a criminal yet and instead arrested them.
+Over the years Jak would eventually leave the roughs and begin exploring more distant and dangerous locations. He was thrown into the ocean in *Allomancer Jak and the Mask of Ages* while tied to a bust of the [[Survivor\|Survivor]] (or the [[Spook\|Lord Mistborn]]). He claims to have swum through river rapids in *Allomancer Jak and the Waters of Dread*, although this may not have actually happened. He also at some stage climbed the ashmounts and domesticated a long necked animal.
 
-### Los Pozos de Eltania
-Durante una aventura posterior, Jak se aventuró a los [[Pozos de Eltania\|Pozos de Eltania]] en busca del tesoro del Superviviente. En un momento creyó que iba a ser ejecutado por alguna transgresión desconocida contra la tribu koloss local. Antes de ser ejecutado, a Jak se le permitió despedirse a sus conocidos. Jak logró recuperar su arma de manos de [[Handerwym\|Handerwym]] mientras lo abrazaba. Luego usó el arma para escapar de sus ataduras y matar a su verdugo. Entonces, Jak decidió ser aceptado por la tribu koloss como uno de los suyos. También llegó a creer que ahora era el rey de la tribu.
-Sería desafiado por un koloss y logró matarlo con su arma. Aparentemente, esto era parte de su plan para ser aceptado por la tribu koloss, pero Handerwym sintió que no era uno bueno. Jak más tarde despertaría solo en una cueva dentro de un cañón y se creería atrapado allí. Después de buscar una salida, eventualmente decidiría sumergirse en un río debajo de él. Luego logró salir del río cerca de un grupo de koloss. El grupo lo llevó a los líderes de su tribu, quienes se ofrecieron a convertir a Jak en un koloss creyendo que era digno de unirse a la tribu, Jak también descubrió que su novia, [[Elizandra Dramali\|Elizandra Dramali]] era de sangre koloss y ella misma había sido miembro anterior de la tribu. Dramali intenta explicarle el proceso a Jak para que pueda elegir, pero él la interrumpe e idea un plan para no convertirse en un koloss. Jak proclama que ya es un koloss y que lo demostrará recuperando el tesoro de los sobrevivientes del fondo de un lago. Tuvo éxito en su intento y los koloss se alegraron de descubrir un alijo de clavos hemalúrgicos en su interior. Jak luego descubrió que la caja que contenía las clavos estaba hecha de aluminio, complacido con el hallazgo, dejó a la tribu junto a Elizandra. Más tarde tendrían que volver al darse cuenta de que se habían olvidado de Handerwym y lo habían dejado atrás.
+### The Pits of Eltania
+During a later adventure Jak ventured to the [[Pits of Eltania\|Pits of Eltania]] in search of the Survivor's treasure. He at one stage believed he was to be executed for some unknown transgression against the local koloss tribe. Before being executed Jak was allowed to say goodbye to his acquaintances. Jak managed to recover his gun from [[Handerwym\|Handerwym]] while embracing him. Jak used the gun to escape his bonds and kill his executioner. Jak then resolved to be accepted by the koloss tribe as one of their own, he also came to believe that he was now king of the tribe.
+He would be challenged by a koloss and managed to kill them with his gun. This was apparently part of his plan to be accepted by the koloss tribe but Handerwym felt it was not a good one. Jak would later wake up alone in a cave within a canyon and believed himself trapped there. After searching for an exit he would eventually decide to dive into a river below him. He then managed to exit the river near a group of koloss. The group brought him over to their tribe leaders who offered to make Jak into a koloss believing him to be worthy of joining the tribe, Jak also discovered that his girlfriend, [[Elizandra Dramali\|Elizandra Dramali]] is koloss blooded and herself a previous member of the tribe. Dramali tries to explain the process to Jak so he can choose but he interrupts her and devises a plan to not be made into a koloss. Jak proclaims that he is already a koloss and that he will prove it by recovering the survivors treasure from the bottom of a lake. He was successful in this endeavour and the koloss were pleased to discover a cache of Hemalurgic spikes within it. Jak then discovered the box containing the spikes was made of aluminium, pleased with the find he left the tribe with Elizandra. They would later have to go back upon realising they had forgotten Handerwym and had left him behind.
 
-### Nueva Seran
-  Con <<Elizandra\|Elizandra>>
-Durante una aventura posterior, Jak se encontraba en Nueva Seran, donde Handerwym se enteró de que los delincuentes iban a reemplazar los presuntos botones de la chaqueta de fumar favorita de [[Fantasma\|Fantasma]] con falsificaciones. Decidiendo poner fin a esto, Jak y Handerwym fueron a una subasta por los botones que tenía Lady Lavont. Handerwym se quedó para vigilar los botones y asegurarse de que no se cambiaran por falsificaciones mientras Jak se fue a hablar con Lady Lavont y su círculo de amigos. Mientras lo hacía, un hombre apuntó con un arma a Jak alegando que había matado a su hermano y que quería venganza. En un esfuerzo por ganar tiempo, Jak proclamó que estaba desarmado y giró en círculos para probar su punto, luego, al darse cuenta de que no recordaba haber matado al hermano del hombre, le informó que era inocente. Entonces el hombre se dio cuenta de que había confundido a Jak con [[Wax\|Wax]], Jak se rió del error y se ofreció a comprarle un trago. Sin embargo, antes de que tuviera la oportunidad, Handerwym llegó y le indicó a Jak que los botones habían sido robados.
-Posteriormente, Jak conoció a [[Nicelle Sauvage\|Nicelle Sauvage]], quien luego comenzó a publicar bajo la marca Alomante Jak. Más tarde serviría como su asistente durante sus aventuras, una época que Nicki consideraba una de las más extrañas de su vida.
+### New Seran
+  With <<Elizandra\|Elizandra>>
+During a later adventure Jak would find himself at New Seran where Handerwym caught news that criminals were going to replace the alleged buttons of [[Spook\|Spook's]] favorite smoking jacket with forgeries. Deciding to put a stop to this Jak and Handerwym went to an auction for the buttons being held by Lady Lavont. Handerwym was left to keep an eye on the buttons and make sure they were not swapped out with fakes while Jak went off to talk to Lady Lavont and her circle of friends. While doing so a man pulled a gun on Jak claiming he had killed his brother and that he wanted revenge. In an effort to buy time Jak proclaimed that he was unarmed and spun around in a circle to prove his point, then realizing he did not recall killing the man's brother he informed him that he was innocent. The man then realized that he had mistaken Jak for [[Wax\|Wax]], Jak laughed off the mistake and offered to buy him a drink. Before he got the chance however Handerwym arrived and signaled to Jak that the buttons had been stolen.
+At a later time Jak made the acquaintance of [[Nicelle Sauvage\|Nicelle Sauvage]] who then started publishing under the Allomancer Jak brand. She would later serve as his assistant during his ventures, a time Nicki considered among the strangest in her life.
 
-### Separación con Handerwym
-En los años posteriores al descubrimiento de los [[Brazales de Duelo\|Brazales de Duelo]], Jak continuó publicando sus historias y, por casualidad, descubrió una gran cantidad de artefactos del Superviviente. Mientras expandía su negocio, Jak decidió invertir en nuevas formas de entretenimiento mediático y para financiar estas empresas tomó una participación en la propiedad de Handerwym en la empresa. Esto llevó a una pelea pública entre los dos y el juez finalmente se puso del lado de Handerwym. Jak siguió publicándose en *[[El Centinela de la Verdad\|El Centinela de la Verdad]]*, mientras que Handerwym mantuvo el acceso exclusivo a *[[Las Dos Estaciones\|Las Dos Estaciones]]*, así como a otros periódicos. Nicelle Sauvage continuaría bajo el estandarte de Handerwym.
+### Breakup with Handerwym
+In the years following the discovery of the [[Bands of Mourning\|Bands of Mourning]] Jak continued to publish his stories and by happenstance discovered a large amount of Survivor artifacts. Whilst expanding his business Jak decided to invest in new forms of media entertainment and in order to fund these ventures took a stake out of Handerwym's ownership in the company. This led to a public falling out between the two with the judge ultimately siding with Handerwym. Jak continued to be published in *[[Sentinel of Truth\|The Sentinel of Truth]]* while Handerwym kept exclusive access to *[[The Two Seasons\|The Two Seasons]]* as well as other papers. Nicelle Sauvage would continue under Handerwym's banner.
 
-## Relaciones
+## Relationships
 ### Waxillium Ladrian
-[[Wax\|Wax]] al igual que Jak comenzó su carrera en Los Áridos trabajando para recaudar dinero de las diversas recompensas de la región. Jak era su mayor en esta profesión por unos 6 años, ya que Wax comenzó esta carrera en algún momento alrededor de 325 PC. A pesar de esta conexión común, parece que los dos no se llevaron bien durante los primeros días, ya que Wax afirma que encontró ridículas las historias de Jak y lo consideró un 'presumido' en lugar de un verdadero representante de la ley mientras que Jak, por otro lado, mostró un abierto desdén por Wax y dijo que con gusto le dispararía si tuviera la oportunidad.  La razón de esta animosidad no está clara, sin embargo, parecería que la pareja nunca trabajó junta, ya que ni Jak ni Wax mencionaron trabajar con el otro, en particular, Wax no incluye a Jak con los otros agentes de la ley con los que trabajó en Los Áridos.
-Más tarde, sin embargo, su relación mejoraría lentamente con el tiempo, al menos para Jak. Tras el descubrimiento de los [[Brazales de Duelo\|Brazales de Duelo]] y el comienzo de la carrera política de Wax, Jak se encariñó considerablemente con el hombre y comenzó a mencionarlo con mucha más frecuencia en sus escritos, insistiendo en que los dos eran amigos y camaradas durante aventuras pasadas. Wax mismo lo niega y se frustra bastante cuando se menciona la conexión, sin embargo, está dispuesto a seguirle el juego a la historia cuando sea necesario para consolar a alguien.
+[[Wax\|Wax]] much like Jak began his career in the Roughs working to collect money from the various bounties around the region. Jak was his elder in this profession by about 6 years as Wax began this career sometime around 325 PC. Despite this common connection however it appears that the two never got along during the early days, Wax himself states that he found Jak's stories ridiculous and considered him a 'fop' rather than a true lawman whilst Jak on the other hand showed open disdain for Wax stating that he would gladly look forward to shooting him if given the chance. The reason for this animosity is unclear however it would seem that the pair never actually worked together as neither Jak nor Wax ever mention working with the other, notably Wax does not list Jak with the other lawmen he worked with in the Roughs.
+Later on however their relationship would slowly improve over time, at least on Jak's end. Following the discovery of the [[Bands of Mourning\|Bands of Mourning]] and the start of Wax's political career Jak would warm considerably to the man and begin mentioning him much more frequently in his writings, insisting that the pair were friends and comrades during past adventures. Wax himself denies this and grows quite frustrated when the connection is mentioned, however he is willingly to play along with the story when needed to comfort someone.
 
-## Publicaciones
+## Publishing
  
-Sus aventuras sensacionalistas se publican en *[[El Diario de Elendel\|El Diario de Elendel]]* y *[[El Archivo Local\|El Archivo Local]]*.  En este último, insulta a otros periódicos y afirma que El Archivo Local es superior a ellos, lo que puede sugerir algún tipo de acuerdo de marca que tiene con ellos. Estas versiones no están editadas por Handerwym y, como resultado, están terriblemente escritas. Handerwym luego toma varios episodios y los combina en un volumen que edita y anota. Las anotaciones generalmente consisten en insultos humorísticos y correcciones. Una historia sobre [[Nicelle Sauvage\|Nicelle Sauvage]] en *[[El Nuevo Ascendiente\|El Nuevo Ascendiente]]* se publica bajo el logotipo "Alomante Jak presenta",  sugiriendo que Jak puede ayudar a publicar las historias de otros aventureros.
-Se sabe que ha publicado varias series, en particular *Alomante Jak y la Máscara de las Eras*, *Alomante Jak y las aguas del horror*, *Alomante Jak y los Pozos de Eltania*, y *Caballero Jak en la Ciudad de las Fuentes*.. Aunque muchas otras obras son referenciadas pero quedaron sin nombrar.
-*Caballero Jak en la Ciudad de las Fuentes* es conocido por tener episodios con nombre, como *Parte 5: Un Deporte de Espíritus* y *Parte 6: La Velada Siniestra*
+His sensationalized adventures are published in *[[The Elendel Daily\|The Elendel Daily]]* and *[[The House Record\|The House Record]]*. In the House Record he does insult other newspapers and claims the House Record is superior to them which may suggest some kind of brand deal he has with them. These versions are unedited by Handerwym and as a result are terribly written. Handerwym then takes several episodes and combines them into one volume that he edits and annotates. The annotations generally consist of humorous insults and corrections. A story about [[Nicelle Sauvage\|Nicelle Sauvage]] in *[[The New Ascendancy\|The New Ascendancy]]* is published under an "Allomancer Jak presents" logo, suggesting that Jak may help publish the stories of other adventurers.
+He is known to have published various series, notably *Allomancer Jak and the Mask of Ages*, *Allomancer Jak and the Waters of Dread*, *Allomancer Jak and the Pits of Eltania*, and *Gentleman Jak in the City of Fountains*. Although far more are referenced to, but left unnamed.
+*Gentleman Jak in the City of Fountains* is further known to have named episodes, with *Part 5: A Sport of Spirits* and *Part 6: The Sinister Soiree*
 
-## Curiosidades
-Jak parece ser un [[Supervivencialista\|supervivencialista]], ya que hace referencia a todo los que brinda el [[Superviviente\|Superviviente]] y considera que sus enseñanzas son verdaderas. Sin embargo, él piensa que su supuesto guía espiritual [[Lyndip\|Lyndip]] puede ser un [[Inmortal Sin Rostro\|Inmortal Sin Rostro]] (que son parte de la doctrina del [[Caminante\|Caminante]] como lo señala [[Handerwym\|Handerwym]]) por lo que su profundidad teológica parece ser limitada.
-La [[Madre de Wayne\|madre de Wayne]] y [[Wayne\|Wayne]] afirman ser fanáticos del alomante Jak y sus historias, el último afirma haber leído todas sus aventuras publicadas.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Jak appears to be a [[Survivorist\|Survivorist]], as he references the [[Survivor\|Survivor]] providing for him and regards the Survivor's teachings as true. However, he thinks his alleged spirit guide [[Lyndip\|Lyndip]] may be a [[Faceless Immortal\|Faceless Immortal]] (which are part of [[Pathian\|Pathian]] doctrine as noted by [[Handerwym\|Handerwym]]) so his theological depth appears to be limited.
+[[Wayne's mother\|Wayne's mother]] and [[Wayne\|Wayne]] himself both claim to be fans of Allomancer Jak and his stories, the latter claiming to have read all of his published adventures.
 
 
-
-https://es.coppermind.net/wiki/Jak
+https://coppermind.net/wiki/Jak

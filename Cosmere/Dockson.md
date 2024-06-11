@@ -1,32 +1,30 @@
-
-
 |**Dockson**|
 |-|-|
 ||
-|**Nacido en**|980s [[Imperio Final\|IF]]|
-|**Fallecido**|1024 [[Imperio Final\|IF]]|
-|**Apodos**|Delton|
-|**Grupo**|[[Banda de Kelsier\|Banda de Kelsier]]🐱︎, Ejército de Venture|
-|**Residencia**|[[Luthadel\|Luthadel]]|
-|**Etnia**|[[Skaa\|Skaa]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Imperio Final (libro)\|El Imperio Final (libro)]]*|
+|**Born**|980s [[Final Empire\|FE]]|
+|**Died**|1024 [[Final Empire\|FE]]|
+|**Aliases**|Delton|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
+|**Residence**|[[Luthadel\|Luthadel]]|
+|**Ethnicity**|[[Skaa\|Skaa]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
-**Dockson** es un miembro de la [[Banda de Kelsier\|banda de Kelsier]] en [[Scadrial\|Scadrial]]. Es la mano derecha de Kelsier, y los dos han sido amigos desde hace mucho tiempo, trabajando juntos para derrocar al [[Lord Legislador\|lord Legislador]]. Dockson es el único que no es alomante dentro de la banda.
+**Dockson** is a member of [[Kelsier's crew\|Kelsier's crew]] on [[Scadrial\|Scadrial]]. He performs as Kelsier's right-hand man and the two have been friends for a long time, working together to topple [[The Lord Ruler\|The Lord Ruler]]. Dockson is the only non-Allomancer amongst the crew.
 
-## Sumario
+## Contents
 
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Vida temprana]] 
-3. [[#Banda de Kelsier]] 
+3. [[#Early Life]] 
+3. [[#Kelsier.27s Crew]] 
 3. [[#Luthadel]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Kelsier]] 
 4. [[#Vin]] 
@@ -34,69 +32,49 @@
 4. [[#Hammond]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y Personalidad
+## Appearance and Personality
  
-Dockson tiene una cara cuadrada, la cual Kelsier cree que pega con su complexión moderadamente fornida. Tiene el pelo negro y luce media barba corta, el equivalente scadriano de una perilla. Dado que «le habían crecido cuatro pelos hacía veinte años», podemos asumir que Dockson es de mediana edad durante los eventos de *Nacidos de la Bruma*. A menudo viste ropa como la de los nobles. Tanto [[Sazed\|Sazed]] como [[Vin\|Vin]] piensan que los trajes nobles le sientan mejor a él que al resto de miembros de la banda.
-Dockson es el responsable de mantener a la banda operativa, demostrando tener aptitudes para la organización y la administración. La mayoría de las veces intenta dirigir a [[Kelsier\|Kelsier]] y a los demás pero se permite bromear con el resto de miembros de vez en cuando. Es bastante diligente en sus obligaciones para asegurarse de que la banda tiene todo lo que necesita para funcionar y a menudo es bastante serio.
-El humor de Dockson es bastante seco y sarcástico, pero lo mantiene con cierta reserva. Es probable que sea así como afronta las situaciones difíciles. Esto puede verse en sus comentarios sarcásticos a Kelsier y en sus comentarios secos, poco después de haber visto cómo [[Vin\|Vin]] era maltratada por [[Camon\|Camon]].
-No obstante, tras la muerte de Kelsier, su alegría se esfuma. Se arrepiente de aquello en lo que se ha convertido. Siente que es un hombre que ha conseguido lo que quería, pero que no debería haberlo deseado con tantas ganas. Aun así, nunca vacila en su rol como administrador de la banda.
-Cuando Kelsier fue enviado a los [[Pozos de Hathsin\|Pozos de Hathsin]], Dockson estaba metido en peleas.
+Dockson has a squarish face, which Kelsier observes is well-suited to his moderately stocky build. He has black hair and sports a short half-beard, the Scadrian term for a goatee. Since he "first put forth whiskers some twenty years before," we can assume Dockson is middle-aged by the events of Mistborn. He often wears clothing of noble origin. Both Sazed and Vin feel noble suits fit him better than the others in the crew.
+Dockson is responsible for keeping the crew operational, demonstrating aptitude for organization and administration. Most often he tries to direct [[Kelsier\|Kelsier]] and the others but allows himself to joke with the other members from time to time. He is quite diligent in his duties to ensure the crew has everything they need to remain functioning and is sometimes quite stern.
+Dockson's humor is quite dry and sarcastic, but he keeps it somewhat reserved. Thought this is likely how he deals with difficult situations. This can be seen in his sarcastic comments to Kelsier and in his dry comments, shortly after having seen how [[Vin\|Vin]] was abused by [[Camon\|Camon]].
+After Kelsier's death, however, his mirth vanishes. He regrets the way he's become. He feels he is a man who has gotten what he wanted, but realizes he shouldn't have desired it so badly. Despite this, his role as administrator never falters.
+At least prior to Kelsier being sent to the [[Pits of Hathsin\|Pits of Hathsin]], Dockson was into brawling.
 
-## Atributos y habilidades
-Dockson es un hábil administrador y actúa como organizador y tesorero de la banda de Kelsier. Es un excelente ladrón y líder del grupo por derecho propio. Tiene cierto nivel de habilidad con la espada y no teme enfrentarse y luchar, incluso en presencia de [[Koloss\|koloss]].
+## Attributes and Abilities
+Dockson is a skilled administrator and acts as the organizer and treasurer for [[Kelsier's crew\|Kelsier's crew]]. He is an excellent thief and crew leader in his own right. He has some level of skill with a sword and is not afraid to stand and fight, even in the presence of [[Koloss\|Koloss]].
 
-## Historia
+## History
  
-### Vida temprana
-En su niñez, Dockson fue un [[Skaa\|skaa]] que trabajaba en la plantación de lord [[Devinshae\|Devinshae]]. Era una vida dura, pero comía más que un skaa callejero. De entre los lores terratenientes, Devinshae era más bien indulgente, lo que significaba que «rara vez» golpeaba a sus skaa hasta matarlos. Dockson empezó a escabullirse entre las chozas para pasar tiempo con su novia, [[Kareien\|Kareien]]. Los otros skaa les ayudaban, escondiéndoles de los capataces, porque su romance les inspiraba. Pero un día, lord Devinshae se llevó a Kareien a su casa y la violó, devolviendo su cuerpo a la mañana siguiente. A la tarde siguiente, Dockson escapó de la plantación. Más tarde conoció a [[Kelsier\|Kelsier]] y empezaron a robar a los nobles, llegando a convertirse en uno de los líderes de bandas con peor reputación de [[Luthadel\|Luthadel]], incluso sin tener poderes. Con el tiempo, Kelsier conoció y se casó con una [[Ojo de esta%C3%B1o\|ojo de estaño]] llamada [[Mare\|Mare]]. Dockson participó en su plan para robar lo que había dentro de la habitación secreta del [[Lord Legislador\|lord Legislador]], pero no participó activamente en la misión. El plan fracasó, y Kelsier y Mare fueron capturados y enviados a los [[Pozos de Hathsin\|Pozos de Hathsin]]. Dockson consiguió eludir la captura, pero se vio obligado a esconderse. Continuó trabajando como ladrón y planificador, pero a menor escala.
+### Early Life
+In his early life, Dockson was a plantation [[Skaa\|skaa]] under Lord [[Devinshae\|Devinshae]]. It was a hard life, but he ate more regularly than a street skaa. Amongst plantation lords, Devinshae was rather lenient, which meant he "rarely" beat his skaa to death. Dockson started to sneak between hovels to spend time with his girlfriend, [[Kareien\|Kareien]]. The other skaa played along, hiding them from the taskmasters, because their romance inspired them. But one day, Lord Devinshae took Kareien to his house and raped her, returning her body in the next morning. The following evening, Dockson escaped from the plantation. He later met [[Kelsier\|Kelsier]] and they started to steal from nobles, eventually becoming the most infamous crewleaders in [[Luthadel\|Luthadel]], even having no powers.Eventually, Kelsier met and married a [[Tineye\|Tineye]] named [[Mare\|Mare]]. Dockson was involved in their plan to steal whatever was inside the [[Lord Ruler\|Lord Ruler's]] secret room, but didn’t actively participate in the mission. The plan failed, and Kelsier and Mare were caught and sent to the [[Pits of Hathsin\|Pits of Hathsin]]. Dockson managed to evade capture but was forced into hiding. He continued to work as a thief and planner, but on a smaller scale.
 
-### Banda de Kelsier
-Cuando Kelsier se convirtió en un nacido de la bruma y regresó a [[Luthadel\|Luthadel]], primero buscó a Dockson y lo reclutó para su plan. Dockson volvió a ser el organizador y la mano derecha de Kelsier.
+### Kelsier's Crew
+When Kelsier became a Mistborn and returned to [[Luthadel\|Luthadel]], he first sought out Dockson and recruited him for his plan. Dockson once again became Kelsier’s organizer and right hand man.
 
 ### Luthadel
-Dockson murió espada en mano durante la [[Batalla de Luthadel\|Batalla de Luthadel]]. Viendo su inevitable final, se ofreció a sí mismo un poco de redención, pensando que si las cosas hubieran sido diferentes y se hubieran vuelto contra la nobleza como él quiso durante el [[Colapso\|Colapso]], entonces él y los otros no hubieran sido mejores que las bestias. Cree que hicieron lo correcto después de todo.
+Dockson met his death with a sword in hand during the [[Battle of Luthadel\|Battle of Luthadel]]. Seeing his impending end, he offered himself a little redemption and remarked that had things been different -- had they turned on the nobility as he had wanted to in the [[Collapse\|Collapse]] -- then he and others would have been no better than beasts. He believed that they had done the right thing after all.
 
-## Relaciones
-  Con <<Kelsier\|Kelsier>> y los otros miembros de la <<Banda de Kelsier\|banda>>
->“
-\-¡Por el lord Legislador, me alegro de tenerte de vuelta, Kel! Me temo que me he vuelto muy aburrido estos últimos años.
+## Relationships
+  With <<Kelsier\|Kelsier>> and the other members of his <<Kelsier's crew\|crew>>
+>“*By the Lord Ruler, it’s good to have you back, Kell! I’m afraid I’ve grown rather boring during the last few years.*”
+\-Dockson to Kelsier[1]
 
 
 ### Kelsier
-Kelsier hace aflorar la alegría y la jovialidad en Dockson, mientras que éste se esfuerza por mantener a Kelsier con los pies en la tierra y encauzado. Son amigos y compañeros de banda desde hace años, ya que se conocieron cuando Dockson abandonó su plantación skaa bajo el gobierno de [[Devinshae\|lord Devinshae]]. Trabajarían juntos robando a los nobles, hasta convertirse en los jefes de banda más conocidos de toda [[Luthadel\|Luthadel]]. Se burla regularmente de Kelsier y le señala lo insufrible que es, todo ello mientras sonríe. Dockson también se ocupó de las cosas de [[Mare\|Mare]] y Kelsier después de que ambos fueran capturados por el [[Lord Legislador\|lord Legislador]]. Tras la muerte de Kelsier, Dockson llegó a estar resentido con Kelsier hasta el punto de culparle por haberles dejado un reino que dirigir, cuando sólo eran ladrones. Al final, Dockson maldijo a Kelsier antes de morir.
+Kelsier brings out the mirth and joviality in Dockson, while Dockson works hard to keep Kelsier grounded and directed. They've been friends and crewmates for years, having met back when Dockson left his skaa plantation under the rule of [[Devinshae\|Lord Devinshae]]. They would work together stealing from nobles, working their way up to becoming the most infamous crew leaders in all of [[Luthadel\|Luthadel]]. He regularly pokes fun at Kelsier and points out how insufferable he is, all while smiling. Dockson also took care of [[Mare\|Mare]] and Kelsier's things after they were both captured by the [[Lord Ruler\|Lord Ruler]]. After Kelsier's death, Dockson grew to resent Kelsier to a point, blaming him for leaving them with a kingdom to run, when they were only thieves. In the end, Dockson cursed Kelsier before he died.
 
 ### Vin
-Dockson prestó mucha atención a Vin cuando aún formaba parte de la banda de [[Camon\|Camon]] después de que éste intentara estafar a [[Marsh\|Marsh]] y llevara a Vin.  En su primer encuentro, Dockson es amable con Vin e intenta ser gentil con ella. Una vez que ella se siente más cómoda con el resto de la banda y empieza a confiar en ellos, Dockson comienza a tratar a Vin con su habitual humor seco y sarcasmo. Al principio, Vin pensó que la opinión de Dockson sobre la nobleza era demasiado dura, pero después de escuchar la historia de Dockson sobre su amor asesinado, [[Kareien\|Kareien]], ella comprende sus sentimientos.
+Dockson paid close attention to Vin while she was still in [[Camon\|Camon's]] crew after he tried to swindle [[Marsh\|Marsh]] and brought Vin. Upon their first meeting, Dockson is kind to Vin and attempts to be gentle around her. Once Vin becomes more comfortable with the rest of the crew and starts to trust them, Dockson begins to treat Vin with his regular dry humor and sarcasm. Initially Vin thought Dockson's view of the nobility was too hard, but after hearing Dockson story of his murdered love, [[Kareien\|Kareien]], she understands his feelings.
 
 ### Elend Venture
-Dockson no se llevaba bien con [[Elend Venture\|Elend Venture]], ya que él pensaba que Kelsier no aprobaría el mandato de Elend, y por su propio deseo de distanciarse de una verdad sobre sí mismo: admitir que Elend se siente culpable por los actos de la nobleza significaría que Dox tendría que afrontar sus propias atrocidades contra la misma.
+Dockson does not get along with [[Elend Venture\|Elend Venture]] since he thinks Kelsier wouldn't approve of Elend ruling, and his own conscious desire to distance himself from a truth about himself: admitting to himself that Elend feels guilty for the acts of the nobility would mean Dox has to confront his own atrocities towards the nobility.
 
 ### Hammond
-Dockson mantiene una rivalidad con [[Hammond\|Hammond]]; esa es la razón por la que hablan tan poco entre ellos en los libros. Suelen ponerse de los nervios el uno al otro en sus breves interacciones ya sea formulando un plan o discutiendo. Sin embargo, cuando tienen una meta en común pueden «llevarse bien».
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] ·  · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+Dockson has a rivalry with [[Hammond\|Hammond]]; that is why they spend so little time conversing in the books. They tend to get on each other's nerves in their brief interactions when they're either formulating a plan or arguing. However, when they have a goal to work toward, they can keep going.
 
 
 
-https://es.coppermind.net/wiki/Dockson
+https://coppermind.net/wiki/Dockson

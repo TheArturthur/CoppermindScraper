@@ -1,76 +1,56 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Yalb**|
 |-|-|
 ||
-|**Oficio**|Marinero|
-|**Nacionalidad**|[[De Thaylenah\|de Thaylenah]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El camino de los reyes\|El camino de los reyes]]*|
+|**Profession**|Sailor|
+|**Nationality**|[[Thaylen\|Thaylen]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
->“*...los mercaderes son como los peces. Donde encuentras uno, encuentras a los demás.*”
-\-Yalb a Shallan en Kharbranth mientras buscaba una librería[1]
+>“*Merchants are like fish. Where you find one, you’ll find others.*”
+\-Yalb to Shallan in Kharbranth when looking for a bookstore[1]
 
 
-**Yalb** es un marinero [[Thayle%C3%B1o\|thayleño]] de [[Roshar\|Roshar]]. Es miembro de la tripulación del *[[Placer del Viento\|Placer del Viento]]*.
+**Yalb** is a [[Thaylen\|Thaylen]] sailor on [[Roshar\|Roshar]]. He is a crew member of the *[[Wind's Pleasure\|Wind's Pleasure]]*.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-4 Relaciones. [[#Relaciones]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Shallan]] 
 
 
 5 Trivia. [[#Trivia]] 
-6 Notas. [[#Notas]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Yalb es un joven marinero que suele llevar un chaleco abierto y un pantalón holgado.
-Yalb tiene una alegría perezosa y una sonrisa de satisfacción. Habla con un dialecto rural Thaylen fuerte, tiene una voz afable y habla con la coquetería suave de un marinero.
-Yalb cree en las [[Pasiones\|Pasiones]] hasta cierto punto.
-Yalb se encarga de cuidar a los nuevos marineros, pero disfruta ganando esferas de ellos.
+## Appearance and Personality
+Yalb is a young sailor who usually wears an open-fronted vest and a pair of loose trousers.
+Yalb has a lazy contentedness and a smirk. He speaks with a thick rural Thaylen dialect, has an affable voice and speaks with the gentle flirtation of a sailor.
+Yalb believes in the [[Passions\|Passions]] to some extent.
+Yalb takes it upon himself to look after new sailors, but enjoys winning spheres off of them.
 
-## Atributos y habilidades
-Tiene un talento para hacer trampas al [[Kabers\|kabers]] y lo utiliza para vencer a los agentes de la ley, como los guardias de la ciudad de Kharbranth. También es capaz de detectar barcos en el horizonte a una distancia inusualmente larga.
+## Attributes and Abilities
+He has a talent to cheat at [[Kabers\|kabers]] and uses it to beat lawmen like the city guards of Kharbranth. He is also able to detect ships on the horizon at an unusually long distance.
 
-  Con Shallan
-## Historia
-Viajó en el *[[Placer del Viento\|Placer del Viento]]* con [[Shallan\|Shallan]] y fue seleccionado por el [[Tozbek\|capitán]] para acompañarla al Cónclave de [[Kharbranth\|Kharbranth]], donde se encontraría con [[Jasnah\|Jasnah]] por primera vez. Se gana su confianza, y ella le pide que la espere, dándole un marco de rubí. Cuando sale del Cónclave y le hace saber que Jasnah la ha rechazado, él la convence de que lo intente por tercera vez y la ayuda a encontrar un comerciante de libros. Mientras ella estaba comprando, él entra en la tienda y la ayuda a conseguir un precio mucho mejor por los libros.
-Su tripulación es seleccionada por Jasnah para llevarla a ella y a Shallan a las [[Llanuras Quebradas\|Llanuras Quebradas]]. Yalb ayuda a esta última a sumergirse para ver un [[Santhid\|santhid]], un raro animal marino. El *Placer del Viento* recogió más tarde a un [[Novato\|nuevo miembro]] para la tripulación en [[Amydlatn\|Amydlatn]], que en realidad fue contratado por [[Tyn\|Tyn]] para matar a Jasnah. Durante un ataque llevado a cabo por los asesinos de [[Tyn\|Tyn]], varios marineros murieron y el resto probablemente se ahogó cuando Shallan moldeó el barco en agua para intentar salvarlos. Como resultado, se da por muerto a Yalb. Sin embargo, poco después del hundimiento del *Placer del Viento*, Shallan dibuja a [[Shalash\|Shalash]] destruyendo una estatua suya, a pesar de no tener conocimiento de las acciones de Shalash después del [[Aharietiam\|Aharietiam]]; al mismo tiempo, también hace un boceto que muestra a Yalb y a otros miembros de la tripulación ayudándose a salir del agua cerca de una costa rocosa. Sin embargo, Shallan descarta este boceto como simple producto de una mente preocupada, y, cuando se deprime por su papel en la muerte de [[Grund\|Grund]], piensa que Yalb está muerto.
-Tras el hundimiento del *Placer del Viento*, Yalb sobrevivió junto con otros dos marineros. No pudo navegar con los demás supervivientes, ya que corrió el rumor de que el *Placer del Viento* era un barco fantasma y los marineros se sentían incómodos navegando con ellos. Yalb se encontró trabajando en un barco a las órdenes del Capitán [[Smta\|Smta]] junto a marineros [[Alezkar\|alezi]]. Le dio la tradicional bienvenida marinera, con novatadas, a [[Dok\|Dok]], uno de esos marineros alezi. Mientras convencía a Dok de la existencia de los [[Marinerospren\|marinerospren]], Yalb divisó el *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* sin tripulación. Yalb fue encargado de abordar este barco debido a su experiencia con los barcos fantasma. La búsqueda no dio lugar a nada de valor, pero Yalb cree que el valor de la propia nave en la guerra significa que el capitán le pondrá en ella para llevarla a casa.
+  With Shallan
+## History
+He traveled on the *[[Wind's Pleasure\|Wind's Pleasure]]* with [[Shallan\|Shallan]] and was selected by the [[Tozbek\|captain]] to accompany her to the [[Kharbranth\|Kharbranth]] Conclave where she would meet [[Jasnah\|Jasnah]] for the first time. He earns her trust, and she asks him to wait for her, giving him a ruby mark. When she comes out of the Conclave and lets him know Jasnah rejected her, he convinces her to try a third time and helps her find a book merchant. While she was shopping, he came into the shop and helped her get a much better price for the books.
+His crew is selected by Jasnah for taking her and Shallan to the [[Shattered Plains\|Shattered Plains]]. Yalb helps the latter go underwater to see a [[Santhid\|santhid]], a rare sea animal. The *Wind's Pleasure* later picked up a [[New kid\|new member]] for the crew at [[Amydlatn\|Amydlatn]], who was actually hired by [[Tyn\|Tyn]] to kill Jasnah. During an attack carried out by [[Tyn\|Tyn's]] assassins, a number of sailors were killed and the rest likely drowned when Shallan soulcast the ship into water to try to save them. As a result, Yalb is presumed dead. However, shortly after the sinking of the *Wind's Pleasure*, Shallan sketches [[Shalash\|Shalash]] destroying a statue of herself, despite having no knowledge of Shalash's actions post-[[Aharietiam\|Aharietiam]]; at the same time, she also does a sketch that shows Yalb and a few other crew members helping each other out of the water near a rocky shoreline. Shallan dismisses this sketch as simply the product of a worried mind, however, and, when depressed by her role in the death of [[Grund\|Grund]], thinks of Yalb as dead.
+After the sinking of the *Wind's Pleasure*, Yalb survived along with two other sailors. He was not able to sail with the other survivors as rumors have spread that the *Wind's Pleasure* was a ghost ship and sailors were uncomfortable sailing with them. Yalb found himself working on a ship under Captain [[Smta\|Smta]] alongside [[Alethi\|Alethi]] sailors. He gave a traditional sailor's welcome, complete with hazing, to [[Dok\|Dok]], one such Alethi sailor. As he was convincing Dok of the existence of [[Sailorspren\|sailorspren]], Yalb spotted the crewless *[[First Dreams\|First Dreams]]*.Yalb was tasked to board this ship due to his experience with ghost ships. A search returned with nothing of value but Yalb believes that the value of the ship itself in war means the captain will put him on it to bring it home.
 
-## Relaciones
+## Relationships
 ### Shallan
-Como todos los marineros, tiene una forma de coquetear con Shallan que la hace sonrojar, a pesar de que ella tiene un rango mucho más alto que él.
-Le tradujo la información del conductor de la ciudad y más tarde se enfrentó a él por querer aumentar el precio y dividir las ganancias con él. Ella le trató como a un maestro de sirvientes, y en lugar de ofenderse se rió. Ella le dio un marco de rubí como agradecimiento y le pidió que la esperara.
-Más tarde la convence de que intente una vez más convertirse en la pupila de Jasnah y la ayuda a encontrar una librería y un buen precio para los libros. Ella le paga con un retrato de él con el porteador. Al final parece que se encariñan.
-Ella guardó un boceto de él y su figura fue utilizada por ella al crear el ejército para luchar contra [[Odium\|Odium]]; fue mostrado con una brillante lanza esquirlada.
+Like all sailors, he has a flirting way with Shallan that makes her blush, even though she is of much higher rank than he is.
+He translated the driver’s city information for her and later confronts the driver for wanting to increase the price and split the earnings with him. She treated him as a master servant, and instead of being offended he laughed. She gave him a ruby mark out of gratitude and asked him to wait for her.
+He later convinces her to try one more time to become Jasnah's ward and helped her find a bookstore and a good price for the books. She pays him with a portrait of him with the porter. By the end they do seem to be fond of each other.
+She kept a sketch of him and his figure was used by her when creating the army to fight [[Odium\|Odium]]; he was displayed with a glowing Shardspear.
 
 ## Trivia
-El capítulo 8 de *[[El camino de los reyes\|El camino de los reyes]]* está escrito para hacer brillar a Yalb. En otro tipo de historia, sería uno de los personajes principales.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+Chapter 8 of *[[The Way of Kings\|The Way of Kings]]* is written to make Yalb shine. In another type of story, he'd be one of the main characters.
 
 
-
-https://es.coppermind.net/wiki/Yalb
+https://coppermind.net/wiki/Yalb

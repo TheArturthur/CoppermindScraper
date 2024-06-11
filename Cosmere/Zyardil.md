@@ -1,40 +1,19 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Zyardil**|
 |-|-|
-|**Especie**|[[Insomne\|Insomne]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Esquirla del Amanecer (novella)\| Esquirla del Amanecer]]*|
+|**Species**|[[Sleepless\|Sleepless]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Dawnshard (novella)\|Dawnshard]]*|
 
-**Zyardil** es un [[Insomne\|Insomne]] que vive en [[Roshar\|Roshar]].
+**Zyardil** is a [[Sleepless\|Sleepless]] living on [[Roshar\|Roshar]].
 
-## Atributos y habilidades
-Como otros Insomnes, Zyardil está hecho de un enjambre de pequeñas criaturas llamadas hordinos que comparten una mente colmena, lo que vuelve a su conciencia inmortal. Los hordinos se pueden criar selectivamente para proporcionar al enjambre habilidades mejoradas. Zyardil parece ser uno de los enjambres más antiguos de Roshar y probablemente tenga miles de años. Se comunica con otros enjambres mediante un zumbido agudo y puntuado. Tiene un gran conocimiento tanto del pasado como del presente de Roshar.
+## Attributes and Abilities
+Like other Sleepless, Zyardil is made up of a swarm of small creatures known as hordelings that share a hive mind, making its consciousness effectively immortal. The hordelings can be selectively bred to provide the swarm with enhanced abilities. Zyardil seems to be one of the older swarms on Roshar, and is likely thousands of years old. It communicates with other swarms using a sharp, punctuated buzz. It is extremely knowledgeable about both the past and present of Roshar.
 
-## Historia
-Zyardil es uno de los enjambres que permanecen leales a [[Yelamaiszin\|Yelamaiszin]], el Primer enjambre. Estaba entre los Insomnes que participaron en la protección de [[Akinah\|Akinah]] después de [[La destrucci%C3%B3n de Aimia\|la destrucción de Aimia]] y participó en votaciones celebradas entre los veinte enjambres leales sobre decisiones importantes.
-Durante la [[Expedici%C3%B3n a Akinah\|expedición a Akinah]] del *[[Vela Errante (barco a%C3%B1o 1174)\|Vela Errante]]*, Zyardil estuvo involucrado en una discusión con algunos de los otros enjambres sobre cómo detener a los humanos. Expresó su decepción porque el descubrimiento del *[[Primeros Sue%C3%B1os\|Primeros Sueños]]* había renovado el interés en [[Aimia\|Aimia]]. A diferencia de Yelamaiszin, no creía que [[Dalinar\|Dalinar]] destruiría a los Insomnes porque había tomado el bando de [[Honor\|Honor]]. Zyardil creía que matar a la tripulación del *Vela Errante* era una mala idea ya que estaban en una misión exploratoria; creía que sus muertes darían lugar a más expediciones a las islas. Esto alentó a Yelamaiszin a escuchar a enjambres más jóvenes como [[Nikliasorm\|Nikliasorm]] sobre la mejor manera de tratar con los humanos.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 21:26, 23 February 2023 (UTC)
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## History
+Zyardil was one of the swarms that remained loyal to [[Yelamaiszin\|Yelamaiszin]], the First swarm. It was therefore involved in protecting [[Akinah\|Akinah]] after the [[Scouring of Aimia\|Scouring of Aimia]], and participated in votes held among the twenty loyal swarms regarding important decisions.
+During the *[[Wandersail (1174 ship)\|Wandersail]]*'s [[Expedition to Akinah\|expedition to Akinah]], Zyardil was involved in a discussion with some of the other swarms about how to stop the humans. It expressed disappointment that the discovery of the *[[First Dreams\|First Dreams]]* had renewed interest in [[Aimia\|Aimia]]. Unlike Yelamaiszin, it did not believe that [[Dalinar\|Dalinar]] would destroy the Sleepless because he had made the decision of [[Honor\|Honor]]. Zyardil believed that killing the crew of the *Wandersail* was a bad idea since they were on an exploratory mission; it believed their deaths would result in more expeditions to the islands. It encouraged Yelamaiszin to listen to younger swarms like [[Nikliasorm\|Nikliasorm]] regarding the best way to deal with the humans.
 
 
 
-https://es.coppermind.net/wiki/Zyardil
+https://coppermind.net/wiki/Zyardil

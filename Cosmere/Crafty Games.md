@@ -15,4 +15,4 @@ Tabletop role-playing game publisher
 
 
 
-https://es.coppermind.net/wiki/Crafty_Games
+https://coppermind.net/wiki/Crafty_Games

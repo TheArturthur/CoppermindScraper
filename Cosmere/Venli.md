@@ -1,145 +1,127 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
 |**Venli**|
 |-|-|
 ||
-|**Familia**|
-|**Cónyuge**|[[Demid\|Demid]]|
-|**Padres**|[[Jaxlim\|Jaxlim]]|
-|**Hermanos**|[[Eshonai\|Eshonai]]|
-|**Capacidades**|[[Regio\|Formas de Poder]], [[Orden de los Escultores de Voluntad\|Escultor de Voluntad]]|
-|**Vinculado con**|[[Timbre\|Timbre]]|
-|**Títulos**|Última OyenteVoz de la dama LeshwiVoz de la Dama de los Deseos Voz de Odium La TraidoraLa Hermana Derrumbada|
-|**Especie**|[[Cantor\|Cantor]]|
-|**Nacionalidad**|[[Oyente\|Oyente]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Palabras radiantes\|Palabras radiantes]]*|
+|**Family**|
+|**Spouse**|[[Demid\|Demid]]|
+|**Parents**|[[Jaxlim\|Jaxlim]]|
+|**Siblings**|[[Eshonai\|Eshonai]]|
+|**Abilities**|[[Regal\|Forms of Power]], [[Order of Willshapers\|Willshaper]]|
+|**Bonded With**|[[Timbre\|Timbre]]|
+|**Titles**|The Last ListenerVoice of Lady LeshwiVoice of the Lady of Wishes Voice of Odium The TraitorThe Broken Sister|
+|**Species**|[[Singer\|Singer]]|
+|**Nationality**|[[Listener\|Listener]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Me siento como una reliquia. ya me veo como una ruina abandonada, de una época casi olvidada.*”
+>“*I feel like a relic. Already I seem like a cast-off ruin from a nearly forgotten day.*”
 \-Venli[4]
 
 
-**Venli** es una [[Oyente\|oyente]] erudita de [[Narak\|Narak]] y hermana de [[Eshonai\|Eshonai]]. Durante la [[Verdadera Desolaci%C3%B3n\|Verdadera Desolación]], se vincula a [[Timbre\|Timbre]] y se vuelve [[Potenciador\|potenciadora]] de la [[Orden de los Escultores de Voluntad\|Orden de los Escultores de Voluntad]].
+**Venli** is a [[Listener\|listener]] scholar in [[Narak\|Narak]] and [[Eshonai\|Eshonai's]] sister. During the [[True Desolation\|True Desolation]], she bonds with [[Timbre\|Timbre]] and becomes a [[Surgebinder\|Surgebinder]] of the [[Order of Willshapers\|Order of Willshapers]].
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-2. [[#Formas]] 
-2. [[#Potenciaci.C3.B3n]] 
+2. [[#Forms]] 
+2. [[#Surgebinding]] 
 
 
-3 Historia. [[#Historia]] 
+3 History. [[#History]] 
 
-3. [[#Primeros a.C3.B1os]] 
-3. [[#La guerra de la Venganza]] 
-3. [[#Verdadera Desolaci.C3.B3n]] 
-3. [[#Potenciadora]] 
+3. [[#Early life]] 
+3. [[#War of Reckoning]] 
+3. [[#True Desolation]] 
+3. [[#Surgebinder]] 
 3. [[#Urithiru]] 
 
 
-4 Curiosidades. [[#Curiosidades]] 
-5 Notas. [[#Notas]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-  <<Forma emisaria\|Forma emisaria>>
-Para más imágenes, ver [[Venli/Galer%C3%ADa\|/Galería]].
->“*¿Por qué debería seguir obedeciendo tus órdenes, spren? Tendrías que obedecerme tú a mí.*”
-\-Venli a Ulim[5]
+## Appearance and Personality
+  <<Envoyform\|Envoyform>>
+For more images, see [[Venli/Gallery\|/Gallery]].
+>“*Why should I continue to obey your orders, spren? You should obey me.*”
+\-Venli to Ulim[5]
 
 
-Venli es esbelta, con una cara fina y una piel marmoleada roja y blanca. Lleva el pelo largo, hasta la cintura, y lo ata en tres partes. sus ojos son oscuros y vidriosos como los de todos los [[Cantor\|cantores]], aunque parecen violetas bajo la luz adecuada. Durante la [[Guerra de la Venganza\|guerra de la Venganza]], utiliza su forma diestra como sustituto para la forma erudita no descubierta. Más tarde cambia a la [[Forma tormenta\|forma tormenta]] para la [[Batalla de Narak\|batalla de Narak]], volviéndose más robusta y alta y a menudo sonríe cuando la lleva. Después de la batalla, se transforma en [[Forma emisaria\|forma emisaria]]. En esa forma, tiene pechos visibles y es extremadamente alta, más incluso que los humanos [[Alezi\|alezi]].
-En cualquiera de sus formas, Venli parece tender al pesimismo, viendo las probabilidades de que la guerra acabe o de su propia supervivencia bastante bajas. Aunque desearía el poder para pelear, no se considera habilidosa en este aspecto y estar en un campo de batalla es una angustia para ella. Por otro lado, es altamente ambiciosa, hasta el punto de que no le importe el sufrimiento de su gente mientras consiga lo que quiere -- poder y reconocimiento. Tanto es así que puede ser extremadamente manipulativa y engañosa; sin embargo, cuando estas metas, y el respeto que le proporcionarían, se ven amenazadas, se enfurece. Parece celosa de su hermana y su posición e intenta tomar el control cuando ambas están en forma tormenta. Sigue sin estar claro cuánto de la ambición de Venli viene de tener a Ulim, un vaciospren, dentro de su gema corazón por un largo periodo de tiempo.
-La muerte de Eshonai es un inmenso catalizador del cambio en ella. Con el tiempo, Venli empieza a entender cuán horribles fueron sus actos y su verdadero precio y se arrepiente de ellos profundamente, empezando a preocuparse por otros cantores y su difícil situación. Toma responsabilidad por desencadenar la [[Tormenta eterna\|tormenta eterna]], y admite que fue un acto terrible. Sin embargo, mantiene su orgullo y no aceptará ningún compromiso con humanos.
+Venli is slender, with a thin face and red-and-white marbled skin. She wears her hair long, down to her waist, and ties it in three places. Her eyes are dark and glassy like all [[Singer\|singers]], though they appear violet in the right light. During the [[War of Reckoning\|War of Reckoning]], she utilizes nimbleform as a substitute for the undiscovered scholarform. She later changes into [[Stormform\|stormform]] for the [[Battle of Narak\|Battle of Narak]], making her bulkier and taller, and smiles often while wearing it. Following the battle, she transforms into [[Envoyform\|envoyform]]. In that form, she has visible breasts and is extremely tall, taller even than the [[Alethi\|Alethi]] humans.
+In any form she has, Venli seems to tend towards the fatalistic, putting the odds of things like the war ending or her own survival at rather low. While she wishes she had the power to fight, she does not consider herself to be skilled in this regard, and being on a battlefield distresses her. On the other hand, she's highly ambitious, and by and large does not care about the plight of her people, so long as she gets what she wants -- power and recognition. To that end, she can be extremely manipulative and deceitful; however, when those goals, and the respect they'd give her, are threatened, she grows angry. She seems jealous of her sister and her position, and tries to take over once the two are both in stormform. It remains unclear how much of Venli's ambition came from having Ulim, a Voidspren, inside of her gemheart for a long period of time.
+Eshonai's death is a massive catalyst of change in her. Over time, Venli comes to understand how horrid her actions have been and their true cost, and regrets them deeply, beginning to care about the other singers and their plight. She acknowledges her responsibility for causing the [[Everstorm\|Everstorm]] to be summoned, and admits that this was an awful thing to do. However, she retains her prideful streak, and will not accept any compromise with humans.
 
-## Atributos y habilidades
-  Con su <<Spren\|spren>>
+## Attributes and Abilities
+  With her <<Spren\|spren>>
 >“*Venli's eyes always seemed to have an extra depth of secret knowledge to them.*”
 \-Eshonai[6]
 
 
-Venli es una erudita e investigadora muy capaz; ha conseguido crear un sistema de escritura a partir de marcar con rayas y descubierto, junto con otros, la [[Forma diestra\|forma diestra]], así como la [[Forma tormenta\|forma tormenta]]. Puede pensar sobre la marcha y tomar decisiones rápidas. También tiene cierta habilidad como artesana, habiendo construido y decorado la casa donde ella y su familia vivían en [[Narak\|Narak]]. Sin embargo, no tiene mucha habilidad en lo que a combate se refiere, aunque menciona haber usado un hacha anteriormente no está claro si fue en batalla y no tiene experiencia con espadas.
+Venli is a highly skilled scholar and researcher; she has managed to create a functional writing system from scratch and has discovered, among others, the [[Nimbleform\|nimbleform]], as well as [[Stormform\|stormform]]. She can think on her feet and make snap decisions. She also has some ability as a craftswoman, having constructed and decorated the home where she and her family lived in [[Narak\|Narak]]. She doesn't, however, have much in the way of combat skills; though she mentions having used an axe before, it's unclear whether it was in battle, and she's unfamiliar with swords.
 
-### Formas
-Como [[Cantor\|cantora]], Venli tiene una [[Gema coraz%C3%B3n\|gema corazón]] y puede vincularse con diferentes [[Spren\|spren]] para conseguir distintas formas.
-En [[Forma diestra\|forma diestra]], Venli es ágil y precisa, así como de mente aguda. Asumir la [[Forma tormenta\|forma tormenta]] la hace significativamente más dura y fuerte, casi lo suficiente como para rivalizar con una persona en [[Armadura esquirlada\|armadura esquirlada]]. También le permite lanzar un relámpago rojo desde sus manos. Estas habilidades desaparecen una vez toma la [[Forma emisaria\|forma emisaria]], aunque se vuelve incluso más alta. En lugar de invocar el relámpago, gana la habilidad de entender y hablar cualquier idioma, escritura y signo, tanto humano como cantor, en [[Roshar\|Roshar]]. También menciona y tener otros dones menores, aunque no se especifican.
+### Forms
+As a [[Singer\|singer]], Venli has a [[Gemheart\|gemheart]], and can bond with different [[Spren\|spren]] to attain different forms.
+In [[Nimbleform\|nimbleform]], Venli is agile and precise, as well as keen-minded. Assuming [[Stormform\|stormform]] makes her significantly stronger and tougher, almost enough to rival a person wearing [[Shardplate\|Shardplate]]. It also lets her shoot red lightning from her hands. Those abilities go away once the [[Envoyform\|envoyform]] is thrust upon her, though she grows even taller. Instead of casting lightning, she gains the ability to speak and understand any language, writing and signals, both human and singer, on [[Roshar\|Roshar]]. She also mentions having other, lesser gifts, though those are unspecified.
 
-### Potenciación
-Con la forma emisaria siendo una de las formas de poder, Venli tiene un [[Vaciospren\|vaciospren]] en su gema corazón; sin embargo, también está vinculada a [[Timbre\|Timbre]], un [[Alcanzador\|alcanzador]], lo que la hace [[Orden de los Escultores de Voluntad\|Escultora de Voluntad]].
-Aunque el vaciospren de la gema corazón de Venli permanece allí, Timbre lo tiene atrapado. Esto permite a Venli mantener sus habilidades de forma emisaria y alternar entre ojos rojos y normales a voluntad, permitiéndola mezclarse con las fuerzas de Odium.
+### Surgebinding
+With envoyform being one of the forms of power, Venli has a [[Voidspren\|voidspren]] in her gemheart; however, she's also bonded with [[Timbre\|Timbre]], a [[Reacher\|Reacher]], making her a [[Willshaper\|Willshaper]].
+Though the voidspren within Venli's gemheart remains there, Timbre has it trapped. This allows Venli to retain her envoyform abilities and switch between red and normal eyes at will, letting her blend in with Odium's forces.
 
-## Historia
-### Primeros años
-Venli es la hermana de [[Eshonai\|Eshonai]] y, aunque su edad no está clara, es un año más joven. Cuando las dos eran niñas, Venli a menudpo se quedaba en casa y ayudaba a su madre, [[Jaxlim\|Jaxlim]], mientras que Eshonai viajaba. Ambas hermanas llevaban la [[Forma de trabajo\|forma de trabajo]] en ese tiempo. En algún momento, Venli y [[Demid\|Demid]] se volvieron pareja y, aunque su relación no produjo ningún niño, permanecieron juntos aún tras cambiar a formas diferentes.
-Finalmente, Venli adoptó el papel de erudita. Después de que los oyentes tuvieran el primer contacto con humanos, creó un lenguaje escrito, reconociendo el valor de guardar la información en papel. Venli recibió una gema de [[Axindweth\|Axindweth]] que contenía a [[Ulim\|Ulim]]. Durante los siguientes cinco años, ella y su equipo escribieron todas las canciones e historias de los oyentes para que fuesen conservadas y contrastadas. A través de esto, también descubrieron la forma diestra. Venli la tomó y se sumó a los líderes de los oyentes como su representante.
+## History
+### Early life
+Venli is the sister of [[Eshonai\|Eshonai]], and though her age is unclear, she is younger by a year. When the two were children, Venli would often stay at home and help their mother, [[Jaxlim\|Jaxlim]], while Eshonai travelled. Both sisters wore [[Workform\|workform]] at the time. At some point, Venli and [[Demid\|Demid]] became mates, and though the relationship did not produce any children, they remained together even after changing into different forms.
+Eventually, Venli settled into the role of a scholar. After the listeners first made contact with humans, she created a written script, recognizing the value of recording information on paper. Venli received a gemstone from [[Axindweth\|Axindweth]] which contained [[Ulim\|Ulim]]. Over the next five years, she and her team wrote down all listener song and stories to be preserved and cross-referenced. Through this, they also discovered nimbleform. Venli took it on and joined listener leadership as its representative.
 
-  En <<Forma tormenta\|forma tormenta>>
-### La guerra de la Venganza
->“*Es hija de traidores. Y luego ella misma traicionó a lo suyos.*”
-\-Rabeniel sobre Venli[3]
-
-
-El día del tratado de paz con los [[Alezi\|alezi]] y del [[Asesinato de Gavilar\|asesinato de Gavilar]] Kholin, el reyalezi, Venli y otra de los oyentes, [[Klade\|Klade]], fueron informados por el [[Heraldo\|Heraldo]] [[Nale\|Nale]] de que Gavilar pretendía traicionar a los oyentes; le dio indicaciones para comprar a [[Szeth\|Szeth]], lo que llevó al asesinato. Tras ese evento, Venli y Ulim trabajaron conjuntamente para descubrir nuevas formas. Aunque le aseguró a Eshonai que estaba investigando en la forma mediadora para tratar con los humanos, en realidad, Venli buscaba capturar a un [[Tormentaspren\|tormentaspren]] y desbloquear la asociada [[Forma tormenta\|forma tormenta]].
-Al conseguirlo, Venli pretendía probar la nueva forma en ella misma y se enfureció cuando [[Los Cinco\|Los Cinco]] decidieron permitir a Eshonai hacerlo en su lugar. Aunque lo hicieron por preocupación, temiendo perder a Venli y su talento si la forma resultaba ser deficiente, estaba celosa y pensó que su hermana desconfiaba de ella y estaba intentando robarle su descubrimiento. Después de que los pensamientos de Eshonai se alterasen por la forma tormenta y empezara a poner en marcha un plan para trasnformar a todos los oyentes, Venli también reaccionó negativamente, creyendo que sus estrategias eran demasiado agresivas. Intentó arrebatarle el control a su hermana y sugirió amtar a aquellos oyentes que se negasen a adoptar la nueva forma.
-
-  Venli y <<Dalinar\|Dalinar>> en la visión del último
-### Verdadera Desolación
->“*¿Cuánto tiempo puedes seguir siendo dos personas, Venli? ¿Cuánto tiempo seguirás vacilando?*”
-\-Venli imaginando lo que Eshonai pensaría de ella[4]
+  In <<Stormform\|stormform>>
+### War of Reckoning
+>“*The daughter of traitors. Then a traitor to her own kind.*”
+\-Raboniel about Venli[3]
 
 
-Después de que la [[Tormenta eterna\|tormenta eterna]] fuese creada, Venli, siguiendo a Ulim, trató de encontrar a su hermana, que había desaparecido durante la batalla. Le rompió el corazón encontrar a Eshonai muerta y se quedó paralizada cuando le dijo que él solo buscaba la [[Armadura esquirlada\|armadura esquirlada]] que llevaba al momento de su muerte. El evento de alguna manera desbloqueó en ella la habilidad de sintonizar con los antiguos Ritmos, previos a la forma tormenta. Mientras le quitaba la armadura esquirlada a Eshonai, Venli también vio a un extraño [[Spren\|spren]] escapando de debajo del cuerpo.
-Cuando nueve oyentes fueron elegidos por Ulim para recibir «nuevas formas», Venli y Demid estaban entre ellos. En la tormenta eterna, los [[Fusionado\|Fusionados]] reemplazaron sus almas y poseyeron sus cuerpos, con la sola excepción de Venli. El mismo [[Odium\|Odium]] la protegió y se le entregó la [[Forma emisaria\|forma emisaria]] en su lugar. Después de darse cuenta de que los demás estaban a efectos prácticos muertos, Venli de nuevo vio al [[Timbre\|extraño spren]] y lo escondió de los Fusionados.
-Más tarde, Venli se convirtió en la jefa propagandista de Odium, primero en [[Kholinar\|Kholinar]], luego en [[Marat\|Marat]], contando la trágica historia de los oyentes que, de acuerdo con la nueva narrativa, se sacrificaron para liberar a los [[Parshmenio\|parshmenios]] de su esclavitud privada de mente. Durante ese tiempo, la mantuvieron apartada de otros cantores para mantener su mística; en lugar de contactar con nuevas gentes, empezó a hablar a su spren muda, a la cual apodó [[Timbre\|Timbre]]. Con el empuje de Timbre, finalmente admitió que invocar a los viejos dioses había sido un terrible error y que deseaba poder ser como su hermana.
-Mientras estaba en Marat, [[Dalinar Kholin\|Dalinar Kholin]] la llevó a una de sus visiones e intentó negociar; Venli, sin embargo, rechazó todas las propuestas de paz. La conversación fue cortada de forma temprana con [[Odium\|Odium]] apareciéndose en la visión, con Dalinar consiguiendo sacar a Venli justo antes de su llegada. Tras ese evento, Venli se subió a uno de los barcos que se dirigían a [[Ciudad Thaylen\|Ciudad Thaylen]].
+On the day of the peace treaty with the [[Alethi\|Alethi]] and the [[Assassination of Gavilar\|Assassination of Gavilar]] Kholin, the Alethi king, Venli and another listener, [[Klade\|Klade]], were informed by the [[Herald\|Herald]] [[Nale\|Nale]] that Gavilar intended to betray the listeners; he directed her to purchase [[Szeth\|Szeth]], which led to the killing. Following that event, Venli and Ulim worked together on discovering new forms. Though she claimed to Eshonai that she was researching mediationform to treaty with humans, in reality, Venli sought to capture a [[Stormspren\|stormspren]] and unlock the associated [[Stormform\|stormform]].
+Upon succeeding, Venli intended to test the form herself, and was angry when [[The Five\|The Five]] decided to let Eshonai do it instead. Though they did so out of concern, fearing the loss of Venli and her talent if the form turned out to be defective, she was jealous, and thought that her sister was distrusting her, and trying to steal her discovery. After Eshonai's thoughts got altered by the stormform and she began to enact the plan to transform all listeners, Venli also reacted badly, believing her strategies to be too aggressive. She intended to seize control from her sister, and suggested killing the listeners who refused to adopt the new form.
 
-  En la batalla de la Explanada Thayleña
-### Potenciadora
-Durante la [[Batalla de la Explanada Thayle%C3%B1a\|batalla de la Explanada Thayleña]], Venli permaneció mayormente fuera del conflicto, sirviendo como traductora. Acompañó a Odium a ser testigo de la presunta caída en desgracia de Dalinar. Después de que consiguiera recomponerse e invocar la [[Perpendicularidad de Honor\|Perpendicularidad de Honor]] en su lugar, se escabulló y regresó a los barcos, donde juró el [[Palabras Inmortales\|Primer Ideal]], vinculándose con [[Timbre\|Timbre]] y convirtiéndose en [[Potenciador\|potenciadora]]. Esto permitió a Timbre vivir dentro de su [[Gema coraz%C3%B3n\|gema corazón]] y capturó al [[Vaciospren\|vaciospren]] allí, permitiendo a Venli conservar sus ojos rojos derivados de Odium.
-Tras la batalla, Venli se quedó en los barcos thayleños. Al oír a los antiguos [[Parshmenio\|parshmenios]] decir que no tenían una idea saber quién era su gente, decició contarles la verdadera historia de los [[Oyente\|oyentes]].
+  Venli and <<Dalinar\|Dalinar>> in the latter's vision
+### True Desolation
+>“*How long can you keep being two people, Venli? How long will you vacillate?*”
+\-Venli imagining what Eshonai would think of her[4]
+
+
+After the [[Everstorm\|Everstorm]] was created, Venli, led by Ulim, sought to find her sister, gone missing during the battle. She was heartbroken upon finding Eshonai dead, and stunned when Ulim told her that he only sought the [[Shardplate\|Shardplate]] she'd been wearing at the moment of her death. The event somehow unlocked her ability to attune to the old, pre-stormform Rhythms. While stripping the Shardplate off Eshonai, Venli also spotted a strange [[Spren\|spren]] escaping from underneath the corpse.
+When nine listeners were chosen by Ulim to receive "new forms," Venli and Demid were among them. In the Everstorm, the [[Fused\|Fused]] replaced their souls and possessed their bodies, with the sole exception of Venli. [[Odium\|Odium]] himself protected her, and she was given [[Envoyform\|envoyform]] instead. After realizing that the others were effectively dead, Venli once more spotted [[Timbre\|the strange spren]], and hid it from the Fused.
+Afterwards, Venli became Odium's chief propagandist, first in [[Kholinar\|Kholinar]], then in [[Marat\|Marat]], telling the tragic tale of the listeners who, according to the new narrative, sacrificed themselves to free the [[Parshmen\|Parshmen]] of their mindless slavery. During that time, she was kept apart from other singers to maintain her mystique; in lieu of contact with her people, she began chatting with her spren, whom she nicknamed [[Timbre\|Timbre]]. At Timbre's urging, she finally admitted that summoning the old gods was a horrible mistake, and that she wished she could be like her sister.
+While she was in Marat, [[Dalinar Kholin\|Dalinar Kholin]] pulled her into one of his visions, and attempted to negotiate; Venli, however, refused all overtures of peace. The conversation was cut short by [[Odium\|Odium]] breaking into the vision space, with Dalinar managing to send Venli out just before his arrival. After that event, Venli boarded one of the ships heading to [[Thaylen City\|Thaylen City]].
+
+  At the Battle of Thaylen Field
+### Surgebinder
+During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Venli remained mostly out of the fighting, serving as a translator. She accompanied Odium to witness Dalinar's presumed fall from grace. After he managed to recover and summon [[Honor's Perpendicularity\|Honor's Perpendicularity]] instead, she crept away and returned to the ships, where she swore the [[Immortal Words\|First Ideal]], bonding with [[Timbre\|Timbre]] and becoming a [[Surgebinder\|Surgebinder]]. This allowed Timbre to live inside her [[Gemheart\|gemheart]] and capture the [[Voidspren\|voidspren]] there, letting Venli retain her Odium-derived red eyes.
+Following the battle, Venli remained on the Thaylen ships. Upon hearing the former [[Parshmen\|Parshmen]] note that they have no idea who their people are, she decided to tell them the real story of the [[Listener\|listeners]].
 
 ### Urithiru
-Venli fue llevada junto con [[Rabeniel\|Rabeniel]] y un grupo de exploradores *makay-im* durante la invasión de [[Urithiru\|Urithiru]] para servir como su Voz. Tras el ataque inicial, fuye atacada por un soldado humano y, presa del pánico, lo mató. Después, tanto ella como Timbre armonizaron a [[Ritmo\|lo Perdido]], aunque Rabeniel simplemente la amonestó con llevar un cuchillo encima de ahora en adelante.
-Mientras era la Voz de Rabeniel, Venli regularmente informaba a [[Leshwi\|Leshwi]]. Rabeniel era consciente de esto, y le ofreció hace que alguien se encargase de transmitirle los mensajes para ahorrar tiempo.
-Tras descubrir que los [[Secretospren\|secretospren]] y [[Caospren\|caospren]] no funcionaban, cayó en que podría practicar con sus poderes de Escultora de Voluntad sin ser descubierta y asñi lo hizo en una esquina apartada de la torre.
+Venli was brought along with [[Raboniel\|Raboniel]] and a scouting troop of *makay-im* during the invasion of [[Urithiru\|Urithiru]] to serve as her Voice. Upon the initial seizure, she was attacked by a human soldier, and killed him in a panic. Afterwards, both she and Timbre attuned the [[Rhythm\|Lost]], although Raboniel merely admonished her to carry a knife in the future.
+While she was the Voice of Raboniel, Venli regularly reported to [[Leshwi\|Leshwi]]. Raboniel was aware of this, and offered to have someone deliver the reports for her in order to save time.
+After learning that [[Secretspren\|secretspren]] and [[Chaosspren\|chaosspren]] didn't work, she realized that she could practice her powers as a Willshaper without being caught, and did so in a secluded corner of the tower.
 
->“*No lo pongas más difícil de lo que ya es. No estoy aquí para ayudar a los humanos. Apenas soy capaz de ayudar a los míos.*”
-\-Venli a Timbre[28]
+>“*Don't make this harder than it already is. I'm not here to help the humans. I can barely help my own kind.*”
+\-Venli to Timbre[28]
 
-Tras descubrir que [[Rlain\|Rlain]] seguía vivo, fue a solicitar a Rabeniel su liberación. Antes de que pudiera hacerlo, no obstante, [[Mraize\|Mraize]] entró en la habitación con [[Lift\|Lift]] en una jaula, entregándosela a Rabeniel como regalo a cambio del acceso a las Puertas Juradas. Venli, incómoda por esto, se marchó a buscar a Rlain. En el camino, intentó jurar el Segundo Ideal de los Escultores de Voluntad, jurando procurar la libertad a aquellos que están atados, pero [[Cultivaci%C3%B3n\|Cultivación]] no las aceptó. Tras reflexionar más, se dio cuenta de que no podía jurar sinceramente el Ideal tras haber visto a una niña humana en una jaula.
-Tras escuchar que [[Kaladin\|Kaladin]] estaba libre y en la torre, fue con Leshwi a rogar protección parar [[Lirin\|Lirin]] y [[Hesina\|Hesina]], pues tanto Venli como Leshwi sabían que el [[Perseguidor\|Perseguidor]] no dudaría de usarlos como cebo para atraerlo a pelear. Leshwi le concedió su petición y Venli usó esta oportunidad para llevar a Lirin a atender a los Radiantes inconscientes. Mientras los visitaba con Rlain, [[Dabbid\|Dabbid]] llegó, diciéndoles a los cuatro que Kaladin estaba dormido y no se despertaba. Venli se dio cuenta de que Lift seguramente sería capaz de curarlo y usó Cohesión para liberarla, esperando que los Fusionados asumieran que un Custodio de Piedra humano había sobrevivido. En lugar de decirle a Rlain, Lirin y Hesina que era potenciadora, por el contrario, declaró tener una espada esquirlada.
-Mientras servía de intérprete entre Rabeniel y los [[Regios\|Regios]] que venían a entregar informes, Rabeniel y Venli hablaron de los oyentes. Venli admitió avergonzarse por ser la responsable directa de la caída de su gente, preguntando a Rabeniel por qué no podía haber paz. Rabeniel la encomendó a su servicio y le entregó un salvoconducto y un mapa que mostraba un asentamiento de oyentes en las Llanuras Quebradas. Venli se dio cuenta de que podría ser el grupo que había rechazado la forma tormenta antes de la [[Batalla de Narak\|batalla de Narak]] y cuando Rlain la encontró llorando, le contó la historia completa de lo que había hecho. Rlain armonizó a Traición, una decisión que ella tachó de inteligente, y él dijo que debían intentar liberar a los Radiantes antes de buscar a los otros oyentes. Ella no estuvo de acuerdo, y le dijo a [[Dul\|Dul]] y a [[Mazish\|Mazish]] que era el momento de irse.
-Mientras Venli esperaba con Dul y Mazish a una Puerta Jurada para transferirlos a Kholinar, Timbre expresó su decepción por que Venli estuviera abandonando a los Radiantes. Ignorando esto, Venli caminó hasta el principio de la fila para averiguar por qué se estaba demorando tanto y descubrió que [[Vyre\|Vyre]] se había marchado para reunirse con Rabeniel, llevando consigo la única hoja que tenían los Fusionados capaz de hacer funcionar las Puertas Juradas. Venli movió a todos a su interior y decidió colar a Kaladin y a su familia junto con ella, Dul y Mazish, que acordaron que era buena idea. Se encaminaron hacia el atrio, donde encontraron a Kaladin combatiendo con el Perseguidor. Aunque Kaladin obligó Lezian a retirarse, Vyre tiró el cuerpo de [[Teft\|Teft]] frente a él, y Venli armonizó a lo Perdido Lost mientras Kaladin lloraba. El Perseguidor lo atacó de nuevo y, tras matarlo, Kaladin fue hacia Venli. Esta temió que fuese a por ella, pero, en su lugar, atacó al "shanay-im" que sujetaba a su padre.
+After discovering that [[Rlain\|Rlain]] was still alive, she went to Raboniel to request his freedom. Before she could do so, though, [[Mraize\|Mraize]] entered the room with [[Lift\|Lift]] in a cage, giving her to Raboniel as a gift in exchange for access to the Oathgates. Venli, discomforted by this, left to fetch Rlain. On her way there, she attempted to swear the Second Ideal of the Willshapers, swearing to free those in bondage, but [[Cultivation\|Cultivation]] did not accept them. Upon further reflection, she realized that she couldn't truly swear such an Ideal after having just seen a human child in a cage.
+Upon hearing that [[Kaladin\|Kaladin]] was free and in the tower, she went to Leshwi to plead protection for [[Lirin\|Lirin]] and [[Hesina\|Hesina]], as both Venli and Leshwi knew that the [[Pursuer\|Pursuer]] wouldn't hesitate to use them in a bid to lure him into a fight. Leshwi granted this request, and Venli used this opportunity to bring Lirin to tend to the unconscious Radiants. While visiting them with Rlain, [[Dabbid\|Dabbid]] arrived, telling the four that Kaladin was asleep and wasn't waking up. Venli realized that Lift would likely be able to heal him, and used Cohesion to free her, hoping that the Fused would assume that a human Stoneward had survived. Instead of telling Rlain, Lirin, and Hesina that she was a Surgebinder, though, she claimed to have a Shardblade.
+While serving as an interpreter between Raboniel and [[Regals\|Regals]] coming to deliver reports, Raboniel and Venli discussed the listeners. Venli admitted shame at being the one directly responsible for her people's downfall, asking Raboniel why there couldn't be peace. Raboniel commended her on her service and gave her a writ of authority and a map showing a settlement of listeners on the Shattered Plains. Venli realized that it might be the group that had refused stormform before the [[Battle of Narak\|Battle of Narak]], and when Rlain found her crying, she told him the entire story of what she did. Rlain attuned Betrayal, a decision that she called smart, and he said that they should attempt to save the Radiants before seeking out the other listeners. She disagreed with this, and told [[Dul\|Dul]] and [[Mazish\|Mazish]] that it was time to leave.
+As Venli waited with Dul and Mazish for an Oathgate transfer to Kholinar, Timbre expressed disappointment that Venli was abandoning the Radiants. Ignoring this, Venli walked to the front of the line to find out what was taking so long, and discovered that [[Vyre\|Vyre]] had left to meet with Raboniel, taking with him the only Blade that the Fused had that was capable of working the Oathgates. Venli moved everyone inside and decided to smuggle Kaladin and his family out with herself, Dul, and Mazish, who agreed that it was a good idea. They headed for the atrium, where they found Kaladin fighting the Pursuer. Although Kaladin forced Lezian to retreat, Vyre dropped [[Teft\|Teft's]] corpse on him, and Venli attuned the Lost as he grieved. The Pursuer attacked him again, and after killing him, Kaladin headed toward Venli. She feared that he was coming for her, but instead, he attacked the "shanay-im" holding his father.
 
-  Con su <<Spren\|spren>>
-Venli observó cómo los humanos defendían desesperadamente a los Radiantes contra las tropas del Perseguidor y, con el empuje de Timbre, se reveló como Radiante a Leshwi. Contrariamente a las expectativas de Venli, ella se alegró enormemente y preguntó a Venli si Timbre conocía a una honorspren llamada Riah. Venli devolvió el mensaje de que la mayoría de los antiguos spren murieron en la Traición pero, a pesar de ello, el hecho de que los spren hubieran perdonado a los cantores fue suficiente para convencer a Leshwi de que los Radiantes debían ser protegidos y se unió a los humanos el la lucha con las tropas de Lezian. Durante la pelea, Rlain llegó al atrio, estableciendo un triaje en los estragos de la batalla. Tomó el mando, diciendo al grupo que se dirigiera a la Puerta Jurada al creer que Venli tenía una hoja esquirlada. Ella rápidamente lo corrigió y, mientras él decidía qué hacer, Kaladin, que acababa de jurar el [[/wiki/Caballeros Radiantes#Palabras Inmortales]], llegó ya ctivó la Puerta Jurada a las Llanuras Quebradas para ellos.
-Tras abandonar la torre, Venli localizó el asentamiento oyente del mapa, encontrando que [[Thude\|Thude]] y Jaxlim, entre otros, seguían vivos. A pesar de que el grupo trató a Venli con desconfianza y, en algunos casos, hostilidad directa, le permitieron pasar para ver a su madre, que era la única además de la propia Venli que recordaba las canciones. Habiendo traído un alcanzador con la esperanza de que curaría su mente, Venli empezó a cantar la Canción de las mañanas, la favorita entre las viejas canciones de Jaxlim. Justo cuando Venli iba a perder la esperanza, Jaxlim la reconoció, y Cultivación finalmente aceptó sus palabras.
+  With her <<Spren\|spren>>
+Venli watched as the humans desperately defended the Radiants against the Pursuer's troops, and at Timbre's urging, revealed her status as a Radiant to Leshwi. Contrary to Venli's expectations, she was overjoyed, and asked Venli if Timbre knew of an honorspren named Riah. Venli relayed the message that most of the old spren were killed in the Recreance, but despite this, the fact that the spren had forgiven the singers was enough to convince Leshwi that the Radiants must be protected, and she joined the humans in fighting Lezian's troops. During the fighting, Rlain arrived in the atrium, setting up a triage in the aftermath of the battle. He took command, telling the group that they should head for an Oathgate on the misconception that Venli had a Blade. She quickly disabused him of this notion, and while he was contemplating what to do, Kaladin, having just sworn the [[/wiki/Knights Radiant#Immortal Words]], arrived and activated the Oathgate to the Shattered Plains for them.
+After leaving the tower, Venli located the listener settlement on the map, finding that [[Thude\|Thude]] and Jaxlim, among others, were still alive. Although the group treated Venli with suspicion, and in some cases, outright hostility, they allowed her through to see her mother, who was the only one besides Venli herself who remembered the songs. Having brought a Reacher in the hope that it would heal her mind, Venli began to sing the Song of Mornings, Jaxlim's favorite of the old songs. Just when Venli was about to lose hope, Jaxlim recognized her, and Cultivation finally accepted her Words.
 
-## Curiosidades
-Venli es el personaje central de *[[El ritmo de la guerra\|El ritmo de la guerra]]*, con los flashbacks divididos entre ella y [[Eshonai\|Eshonai]].
-Brandon planeó matar a Eshonai y poner más énfasis en Venli de forma muy temprana en el desarrollo de la historia, habiéndola considerado siempre como la más interesante de las dos hermanas.
-Actualmente, Venli es una de los tres únicos personajes con puntos de vista [[Cantor\|cantor]] en [[El archivo de las tormentas\|El archivo de las tormentas]], junto con su hermana y [[Rlain\|Rlain]].
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] ·  · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+## Trivia
+Venli is the focus character of *[[Rhythm of War\|Rhythm of War]]*, with the flashbacks split between her and [[Eshonai\|Eshonai]].
+Brandon planned to kill off Eshonai and put more emphasis on Venli from very early on in the story's development, having always considered her to be the more interesting of the two sisters.
+At present, Venli is one of only three [[Singer\|singer]] viewpoint characters in the [[Stormlight Archive\|Stormlight Archive]], alongside her sister and [[Rlain\|Rlain]].
 
 
-
-https://es.coppermind.net/wiki/Venli
+https://coppermind.net/wiki/Venli

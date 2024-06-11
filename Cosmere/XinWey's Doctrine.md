@@ -1,6 +1,6 @@
 |**XinWey's Doctrine**|
 |-|-|
-|**Universo de origen**|[[Wode\|Wode]] [[State\|States]]|
+|**Universe**|[[Wode\|Wode]] [[State\|States]]|
 
 >“* The most essential morality of mankind is to create the greatest amount of happiness among the greatest number of people while using the least amount of resources.*”
 \-XinWey's Doctrine[1]
@@ -8,7 +8,7 @@
 
 **XinWey's Doctrine** is the guiding force behind the [[State\|States]]. It is a set of rules, from ancient times, and are believed to have served humankind well.
 
-## Sumario
+## Contents
 
 1 Details. [[#Details]] 
 
@@ -52,16 +52,6 @@ The full extent of the rules of engagement between two Liveborn are not further 
 
 Xinwey's Doctrine promotes that Liveborn have the risk of death. Simple causes, such as falling down a flight of stairs, would not warrant the Liveborn's death, but in attempting an act of heroism, or something of the like, the danger must be real.
 
-## Notes
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 12:52, 3 September 2016 (MST)
-|**[[Perfect State\|Perfect State]]**|
-|-|-|
-|**Personajes**|[[Kairominas\|Kairominas]] · [[Shale\|Shale]] · [[Besk\|Besk]] · [[Melhi\|Melhi]]|
-|**Cultura**|[[Wode\|Wode]] ·  · [[Lancing\|Lancing]] · [[Liveborn\|Liveborn]] · [[Machineborn\|Machineborn]]|
-|**Geografía**|[[Alornia\|Alornia]] · [[Grand Aurora\|Grand Aurora]] · [[Maltese\|Maltese]] · [[State\|States]]|
 
 
-
-https://es.coppermind.net/wiki/XinWey%27s_Doctrine
+https://coppermind.net/wiki/XinWey%27s_Doctrine

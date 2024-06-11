@@ -1,28 +1,15 @@
-
-
 |**Widor**|
 |-|-|
-|**Nación**|[[Fjorden\|Fjorden]]🐱︎|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Nation**|[[Fjorden\|Fjorden]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Widor** es la capital de [[Fjorden\|Fjorden]] en [[Sel\|Sel]] y, por extensión, de todo el [[Imperio Fjordell\|Imperio Fjordell]].
-Contiene el palacio del [[Wyrn (t%C3%ADtulo)\|Wyrn]], [[Zigareth\|Zigareth]]. Se dice que en algún lugar de la ciudad está enclaustrada la mítica espada [[Gretgor\|Gretgor]].
+**Widor** is the capital city of [[Fjorden\|Fjorden]] on [[Sel\|Sel]], and by extension, the entire [[Fjordell Empire\|Fjordell Empire]].
+It contains the [[Wyrn (title)\|Wyrn's]] palace, [[Zigareth\|Zigareth]]. A sword thought to be the mythical [[Gretgor\|Gretgor]] is enshrined somewhere in the city.
 
-## Curiosidades
-*Widor* podría ser el título de una futura [[Secuela de Elantris\|secuela de Elantris]], aunque esto está sujeto a cambios, ya que Brandon aún no ha canonizado el título de ese libro. Debido a que la ciudad podría ser muy importante en la secuela, Brandon ha considerado cambiar el nombre de Widor.
-Widor no aparece en el mapa de Sycla en la edición décimo aniversario de *Elantris*, pero se supone que es la ciudad en el norte de Fjorden etiquetada como «Silla del Wyrn».
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Chaos2651 (talk) 17:18, 25 de diciembre de 2016 (MST)
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+*Widor* could be the title of a future [[Elantris sequel\|Elantris sequel]], however, this is subject to change as Brandon has yet to canonize the name of this book. Because the city may be very prominent in the sequel, Brandon has considered changing the name from Widor.
+Widor is not named on the map of Sycla in the 10th anniversary edition of *Elantris*, but it is presumably the city in northern Fjorden labeled as "Wyrn's Seat".
 
 
-
-https://es.coppermind.net/wiki/Widor
+https://coppermind.net/wiki/Widor

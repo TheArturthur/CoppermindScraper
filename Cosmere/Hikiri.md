@@ -1,33 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Hikiri**|
 |-|-|
-|**Oficio**|Pintor|
-|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎, [[Guardia del Sue%C3%B1o\|Guardia del Sueño]]🐱︎|
-|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
-|**Mundo natal**|[[Komashi\|Komashi]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Profession**|Painter|
+|**Groups**|[[Nightmare Division\|Nightmare Division]], [[Dreamwatch\|Dreamwatch]]|
+|**Nationality**|[[Nagadan\|Nagadan]]|
+|**Homeworld**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-**Hikiri** es un [[Guardia del Sue%C3%B1o\|Guardia del Sueño]] compañero de [[Nagadan\|Nagadan]] bajo el mando de [[Tesuaka Tatomi\|Tesuaka Tatomi]].
+**Hikiri** is a [[Dreamwatch\|Dreamwatch]] companion from [[Nagadan\|Nagadan]] under [[Tesuaka Tatomi\|Tesuaka Tatomi's]] command.
 
-## Apariencia y personalidad
-Hikiri es alto, con una barba impresionante y la cabeza calva. Viste un uniforme formal de pintor, con un abrigo corto por delante y largo por detrás. Hikiri es paciente, aunque firme.
+## Appearance and Personality
+Hikiri is tall, with an impressive beard and a bald head. He wears a formal painter's uniform, with a coat short in front and long in the back. Hikiri is patient, yet assertive.
 
-## Historia
-El equipo de Hikiri fue convocado a [[Kilahito\|Kilahito]] desde [[Jito\|Jito]] después de que [[Tojin\|Tojin]] informase de una [[Pesadilla\|pesadilla]] estable encontrada previamente por [[Nikaro\|Nikaro]]. Tras su llegada, Nikaro intentó advertirles de la invasión de un ejército de pesadillas estables. Hikiri abrió la puerta con un bostezo y llevó a Nikaro dentro para ver a Tesuaka, que pidió a Hikiri que grabase la declaración del pintor. Antes de obligarle a marcharse, sin prestar atención a sus afirmaciones sobre el ejército de pesadillas estables, Hirki explicó a Nikaro que solo los pintores con contactos, sin importar su habilidad, son nombrados para un puesto en la Guardia del Sueño, y animó a Nikaro a contentarse con su trabajo como pintor de pesadillas ordinario. Hikiri se vio obligado a buscar otro empleo tras la disolución de la Guardia del Sueño.
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+## History
+Hikiri's team was summoned to [[Kilahito\|Kilahito]] from [[Jito\|Jito]] after [[Tojin\|Tojin]] reported a stable [[Nightmare\|nightmare]] previously encountered by [[Nikaro\|Nikaro]]. After their arrival, Nikaro attempted to warn them of an incoming army of stable nightmares. Hikiri answered the door with a yawn and took Nikaro inside to see Tesuaka, who asked Hikiri to record the painter's statement. Before forcing him to leave, paying no mind to his claims about the army of stable nightmares, Hirki explained to Nikaro that only painters with connections, no matter their skill, are appointed a position in the Dreamwatch, and he encouraged Nikaro to be content with his job as a regular nightmare painter. Hikiri was forced to seek alternative employment after the Dreamwatch disbanded.
 
 
 
-https://es.coppermind.net/wiki/Hikiri
+https://coppermind.net/wiki/Hikiri

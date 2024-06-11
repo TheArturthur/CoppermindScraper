@@ -1,50 +1,38 @@
-
-
 |**Akane**|
 |-|-|
 ||
-|**Oficio**|Pintor|
-|**Grupo**|[[Divisi%C3%B3n de pesadillas\|División de pesadillas]]🐱︎|
-|**Residencia**|[[Kilahito\|Kilahito]]|
-|**Nacionalidad**|[[De Nagadan\|de Nagadan]]|
-|**Mundo natal**|[[Komashi\|Komashi]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*|
+|**Profession**|Painter|
+|**Groups**|[[Nightmare Division\|Nightmare Division]]|
+|**Residence**|[[Kilahito\|Kilahito]]|
+|**Nationality**|[[Nagadan\|Nagadan]]|
+|**Homeworld**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-**Akane** es una [[Pintor\|pintora]] de [[Pesadilla\|pesadillas]] de [[Kilahito\|Kilahito]] en [[Komashi\|Komashi]]. Vive en un apartamento al otro lado del pasillo de [[Nikaro\|Nikaro]], a quien trata amablemente a pesar de su discusión tras terminar la escuela superior. Cuando [[Yumi\|Yumi]] apareció en Kilahito, Akane se preocupó por ella, por lo que decidió ayudarla y hacerse amiga suya.
+**Akane** is a [[Nightmare\|nightmare]] [[Painter\|painter]] from [[Kilahito\|Kilahito]] on [[Komashi\|Komashi]]. She lives in an apartment across the hallway from [[Nikaro\|Nikaro]] who she treats amiably despite their falling out after upper school. When [[Yumi\|Yumi]] came to Kilahito, Akane took it upon herself to befriend and help her.
 
-## Sumario
+## Contents
 
-1 Apariencia y Personalidad. [[#Apariencia y Personalidad]] 
-2 Historia. [[#Historia]] 
-3 Relaciones. [[#Relaciones]] 
-4 Notas. [[#Notas]] 
-
-
-## Apariencia y Personalidad
-Akane es una mujer atractiva y con el pelo negro y brillante, y tiene aproximadamente veinte años. Le gusta vestir a la moda, generalmente con falda y blusa, y lleva maquillaje cuando está fuera de servicio. Nikaro piensa que sus conjuntos para el trabajo tienden a ser algo informales.
-Akane es una persona amistosa, y es particularmente buena haciendo amigos e integrando a gente diferente. Yumi la describe como tierna y amable por la forma en la que la ayudó eligiendo la ropa que necesitaba. Es una persona con una gran habilidad para unir a gente distinta y ayudarles a sentirse a gusto y conectar entre ellos.
-Su [[Murales\|mural]] es de una inmensa flor.
-
-## Historia
-En la escuela superior, cuando estudiaba para convertirse en pintora de pesadillas, Akane era el centro del grupo de amigos que incluía a Nikaro, [[Tojin\|Tojin]], [[Masaka\|Masaka]] e [[Izzy\|Izzy]]. Akane llegó a creer que Nikaro se uniría a la [[Guardia del Sue%C3%B1o\|Guardia del Sueño]] y que ella sería una de sus compañeros. Aunque su amistad con Nikaro se rompió cuando descubrieron que esto era mentira, ella siguió siendo amable con él. Después de graduarse se convirtió en una pintora, y generalmente trabajaba con Tojin como compañero.
-Cuando Yumi llegó a Kilahito, las dos se encontraron por primera vez en el pasillo compartido de su edificio de apartamentos. Akane primero asumió que Yumi estaba en una relación con Nikaro, probablemente de naturaleza sexual, hasta que esta le mintió diciendo que era su hermana. La conversación terminó abruptamente con una Akane enfadada con las cosas que Pintor le había dicho a Yumi sobre ella. Más tarde, volvieron a encontrarse fuera del edificio, y Akane vio que a Yumi parecía costarle adaptarse a la ciudad, y esta le dijo que había perdido su equipaje. Por esto, Akane se ofreció a llevarla de compras, algo que Yumi le agradeció profundamente. Fueron a un centro comercial en el que Akane la guio entre la abrumadora cantidad de opciones y la ayudó a elegir unos cuantos conjuntos que comprarse. Akane pagó la ropa, diciendo que haría que Nikaro se lo devolviera más tarde. Después de la compra, Akane invitó a Yumi a acompañarla al [[El Pupila del Fideo\|Pupila del Fideo]] con Tojin, Izzy y Masaka. Aunque Akane se los presentó, Yumi pasó la mayor parte del tiempo en el bar con [[Dise%C3%B1o\|Diseño]] y Nikaro. En las semanas siguientes siguió intentando conectar con Yumi, aunque esta dijera que estaba ocupada estudiando para los exámenes. Finalmente, Akane hizo que el grupo «organizara una intervención» y convencieron a Yumi para salir a cenar. Esta pudo conocerlos a todos mejor, ya que Akane se aseguró de que el foco de atención estuviera en los demás y no en Yumi para que no se sintiera atosigada.
-Después, cuando Yumi y Nikaro intentaron ir a cazar a la pesadilla estable, Akane y Tojin encontraron a Yumi. La llevaron al Pupila del Fideo e intentaron convencerla de la peligrosidad de lo que estaba haciendo. También le contaron la verdad del pasado de Nikaro. Cuando Yumi regresó al apartamento de Nikaro, Akane pensó que tendría la suficiente cabeza como para quedarse en casa. Tojin convenció a Akane de que ella debería volver fuera, y Nikaro y Yumi les siguieron discretamente. En el carnaval les perdieron de vista, pero volvieron a encontrarles después de que la [[Liyun\|pesadilla estable]] atacara. Cuando se la encontraron, Tojin se cayó y Akane intentó ayudarle a levantarse para que pudieran huir, pero Nikaro espantó a la pesadilla primero. Después de esto volvieron a llevar a Yumi al Pupila del Fideo, donde Akane se quedó a reconfortarla y ayudarla a recuperarse.
-Antes de volver a su mundo por última vez, Yumi fue a despedirse de Akane y los demás. Les regañó por la forma de tratar a Pintor, y Akane fue la que más se resistió a sus acusaciones. Después se encontró a Nikaro al borde de la [[Mortaja\|mortaja]] y mostró preocupación por lo que le había pasado a Yumi, pero Nikaro salió corriendo. Cuando este volvió pidiendo que le ayudaran a impedir el ataque de una pesadilla, al principio Akane se mostró reacia, pero después de que Tojin aceptara ayudar Akane comenzó a coordinar a otros pintores. Además, convenció a Nikaro de que buscara ayuda si resultaba que lo del ataque era un delirio suyo. Akane luchó en la [[Batalla de Kilahito\|batalla de Kilahito]], y después de esto Nikaro usó su tinta para ayudar a anclar el alma de Yumi.
-
-## Relaciones
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Relationships. [[#Relationships]] 
+4 Notes. [[#Notes]] 
 
 
-## Notas
+## Appearance and Personality
+Akane is an attractive woman with lustrous black hair, and is approximately twenty years old. She likes to dress fashionably, usually in skirts and blouses, and wear makeup when off duty. Nikaro thinks that her work outfits tend to be somewhat dressed down.
+Akane is a friendly person who is particularly good at making friends, and bringing different people together. Yumi describes Akane as tender and helpful, because of the ways she thoughtfully helped Yumi with her clothing needs. She is very skilled at bringing different people together and helping them to make connections and feel comfortable.
+Her [[Capstone painting\|capstone painting]] is of a large flower.
 
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] ·  · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+## History
+In upper school, studying to become a nightmare painter, Akane was the core of a group of friends that included Nikaro, [[Tojin\|Tojin]], [[Masaka\|Masaka]], and [[Izumakamo\|Izzy]]. She came to believe that Nikaro would join the [[Dreamwatch\|Dreamwatch]] and that she would be one of his companions. Though her friendship with Nikaro fell apart after this was found to be a lie, she was still friendly towards him. After graduating, she became a painter and primarily worked as partners with Tojin.
+When Yumi arrived in Kilahito, the two first met in the shared hallway of their apartment building. Akane first assumed that Yumi is sexually involved with Nikaro, until she was given the lie that Yumi is his sister. The conversation ended abruptly, with Akane upset about the things Painter told Yumi about her. Later, they met again outside the apartment building, and Akane observed that Yumi seemed to be having difficulty adjusting to the city, and Yumi shared that her luggage was lost. Akane stopped Yumi from continuing into the building and offered to take her shopping, which Yumi adamantly thanked her for. They proceeded to visit a shopping center where Akane helped Yumi navigate the overwhelming selections and pick several outfits to purchase. Akane paid for the outfits, saying she will make Nikaro repay her later. After the shopping trip, Akane invited Yumi to join her at the [[Noodle Pupil\|Noodle Pupil]] with Tojin, Izzy, and Masaka. She introduced Yumi to each of them, though Yumi spent most of her time there at the bar with [[Design\|Design]] and Nikaro. In the weeks that followed she continued reaching out to Yumi, who claimed she was busy studying for exams. Eventually, Akane had the entire group "stage an intervention" and they convinced Yumi to come eat dinner. Yumi got to know each of them better, with Akane making sure to keep the attention on others besides Yumi for her sake.
+Later, when Yumi and Nikaro attempted to go hunting for the stable nightmare, Akane and Tojin caught Yumi. They brought her to the Noodle Pupil and tried to impress on her the dangers of what she was doing. They also shared with her the truth about Nikaro's past. When Yumi returned home to Nikaro's apartment, Akane believed that she would have enough sense to stay there. Tojin convinced Akane that she might go back out, and so the pair followed her discreetly. They lost track of her in the carnival but found her again after the [[Liyun\|stable nightmare]] attacked. When they encountered the nightmare, Tojin fell and Akane tried to help him up so that they could run, but Nikaro scared off the nightmare first. Afterward they took Yumi back to the Noodle Pupil, where Akane stayed with her to comfort her and help her recover.
+Before returning to her world for the last time, Yumi approached Akane and the others to tell them goodbye. She chastised them for their treatment of Painter, and Akane resisted the strongest to her accusations. Later she encountered Nikaro at the edge of the [[Shroud\|shroud]] and expressed worry over what had happened to Yumi, but Nikaro ran away. When Nikaro came asking for help for support for an impending nightmare attack, Akane was resistant at first, but after Tojin agreed to help Akane began coordinating with other painters. She also convinced Nikaro to seek help if his claims about the attack proved to be a delusion. Akane fought at the [[Battle of Kilahito\|battle of Kilahito]], and afterwards Nikaro used her ink to help anchor Yumi's soul.
+
+## Relationships
 
 
 
-https://es.coppermind.net/wiki/Akane
+
+https://coppermind.net/wiki/Akane

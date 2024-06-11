@@ -1,58 +1,23 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Idashwy**|
 |-|-|
-|**Fallecido**|[[Hemalurgia\|Hemalurgia]]|
-|**Capacidades**|[[/wiki/Acero#Uso feruqu.C3.ADmico]]|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Etnia**|[[De Terris\|de Terris]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
+|**Died**|[[Hemalurgy\|Hemalurgy]]|
+|**Abilities**|[[/wiki/Steel#Feruchemical Use]]|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Ethnicity**|[[Terris\|Terris]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
-**Idashwy** es una [[/wiki/Acero#Uso feruqu.C3.ADmico]] [[Terris\|terrisana]]. [[Sangradora\|Sangradora]] la mata y le roba su habilidad para usar acero [[Feruquimia\|feruquímico]].
-Idashwy creció en [[La Aldea\|la Aldea]], pero solía escabullirse cuando era joven. [[Wax\|Wax]] la recuerda como una chica tímida con el cabello dorado. Se mudó al distrito de Bournton y trabajaba llevándole las cuentas a un joyero cuya tienda se encontraba cerca de su apartamento. Según Vwafendal, desapareció aproximadamente un mes antes de la [[Fiesta de lady ZoBell\|fiesta de lady ZoBell]] y se había estado comportando erráticamente y afirmaba estar recibiendo visitas del espíritu de su difunto hermano. La última vez que se la vio fue una semana antes de la fiesta, y nadie respondió cuando un empleado de la joyería fue enviado a su piso. [[Wax\|Wax]] encontró su cuerpo en la cocina del apartamento e identificó que la herida había sido causada por un clavo [[Hemalurgia\|hemalúrgico]] por la descripción que aparecía en el libro que [[Ojos de Hierro\|Ojos de Hierro]] le había mandado.
+**Idashwy** is a [[Terris\|Terris]] [[/wiki/Steel#Feruchemical Use]]. [[Bleeder\|Bleeder]] kills her and steals her ability to use [[Feruchemy\|Feruchemical]] steel.
+Idashwy grew up in [[The Village\|the Village]] but would often sneak out in her youth. [[Wax\|Wax]] remembers her as a shy girl with golden hair. She moved into the Bournton District and got a job as a bookkeeper for a jeweler near her apartment. According to Vwafendal, she vanished about a month before [[Lady ZoBell's party\|Lady ZoBell's party]] and had been behaving erratically and claiming that she was being visited by her dead brother's spirit. She was last seen at work over a week before the party, and no one answered when her employer sent someone to her flat. [[Wax\|Wax]] found her corpse in the kitchen of her apartment and recognized her wound as one caused by a [[Hemalurgy\|Hemalurgic]] spike from the description in the book [[Ironeyes\|Ironeyes]] had sent him.
 
-## Sumario
-
-1 La especulación de Wayne sobre Idashwy. [[#La especulaci.C3.B3n de Wayne sobre Idashwy]] 
-2 Curiosidades. [[#Curiosidades]] 
-3 Notas del traductor. [[#Notas del traductor]] 
-4 Notas. [[#Notas]] 
-
-
-## La especulación de Wayne sobre Idashwy
->“*Y continuó haciéndolo. Comprensible, si tenemos en cuenta que la Aldea es tan aburrida que dejaría dormido a un escriba. Nuestra damisela al principio procuró mantenerse fiel a su naturaleza conservadora y se colocó de oficinista, una ocupación aceptablemente terrisana. Se convenció de que merecía la pena invertir en un apartamento bonito, donde estaría a salvo de los supuestos horrores de los barrios más humildes. Cosas sencillas. Pero luego algún compañero de la joyería la invitaría a salir, y probó la bebida. Le gustó. Quizá reavivara el recuerdo de los tragos que había tomado a escondidas cuando era joven. Quería más, así que se compró un caótico surtido de mejunjes de alta graduación, con la intención de probarlos todos. Su preferido era el vino dulce, por cierto. Ahora la encontramos vestida de forma cada vez más desenfadada, enseñando más carne y pasando casi todas las noches fuera de casa. Unos cuantos meses más y se habría convertido en la chica perfecta con la que pasar un buen rato.*”
+## Wayne's speculation about Idashwy
+>“*And she left again, on account of the Village being so dull as to bore the sense out of a scribe. Our miss, she tried to remain conservative at first, so she got a job as a clerk, a good Terris occupation. She convinced herself that a nice apartment - where she was safe from the supposed horrors of lesser neighborhoods - was worth the expense. Simple stuff. But then some workers at the jeweler took her out, and she let herself drink. She liked that. Awakened memories of sneaked drinks as a youth. She wanted more, so she bought a whole mess of different kinds of spirits to try them all out. She liked port best, by the way. Now we find her with increasingly liberal dresses, showing more skin, spending most evenings out. Give her a few more months, and she’d have turned into a right proper girl to have a good time with.*”
 \-Wayne[1]
 
 
-## Curiosidades
-Su nombre se pronuncia como la frase, en inglés, "I dash wee!"
-## Notas del traductor
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Her name is pronounced like the phrase "I dash wee!"
 
 
-
-https://es.coppermind.net/wiki/Idashwy
+https://coppermind.net/wiki/Idashwy

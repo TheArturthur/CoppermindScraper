@@ -1,29 +1,15 @@
-
-
 |**Ker'reen**|
 |-|-|
-|**Relacionado con**|[[Kerzta\|Kerzta]]|
-|**Mundo de origen**|[[Taldain\|Taldain]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Arena Blanca\|Arena Blanca]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+|**Related to**|[[Kerzta\|Kerzta]]|
+|**World of Origin**|[[Taldain\|Taldain]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+> [!info] This page or section needs to be updated with new information for *[[White Sand\|White Sand]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Ker'reen** es la religión predominante en [[Kerzta\|Kerzta]].
-La religión pide que se rinda culto al sol, enseñando que es la manifestación del [[Se%C3%B1or de la Arena\|Señor de la Arena]] y la fuente de la autonomía y la independencia. La religión Ker'reen denuncia el uso de la [[Maestr%C3%ADa de la arena\|maestría de la arena]] como una herejía, lo que ha provocado guerras entre Kerzta y [[Lossand\|Lossand]] en el pasado.
-El sacerdote [[DaiKeen\|daiKeen]] supervisa la religión entre los kerztianos. Están dirigidos por el **A'kar**, o sumo sacerdote. Los miembros del sacerdote daiKeen están marcados tradicionalmente por cicatrices de forma cuadrada en la frente, aunque recientemente se ha descubierto que algunos llevan cicatrices en forma de X similares a los tatuajes de los guerreros daiKeen. Los miembros del clero hablan [[Karshad\|karshad]].
-El **KerKor** es el principal texto religioso de la religión Ker'reen.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Arena Blanca\|Arena Blanca]] ([[Taldain\|Taldain]])**|
-|-|-|
-|**Personajes**|[[Kenton\|Kenton]] · [[Khrissalla\|Khrissalla]] · [[Baon\|Baon]] · [[Ais\|Ais]] · [[Drile\|Drile]] · [[Aarik\|Aarik]] · [[Praxton\|Praxton]] · [[Jon Acron\|Jon Acron]] · [[Allstren Cynder\|Allstren Cynder]] · [[Nilto\|Nilto]] · [[Dirin\|Dirin]] · [[Gevalden\|Gevalden]] · [[Heelis\|Heelis]] · [[Delius\|Delius]] · [[Vey\|Vey]] · [[N'Teese\|N'Teese]] · [[Sharezan\|Sharezan]]|
-|**Lugares**|[[Lossand\|Lossand]] · [[Kezare\|Kezare]] · [[Kerzta\|Kerzta]] · [[Elis\|Elis]] · [[Dinast%C3%ADa\|Dinastía]] · [[Lraezare\|Lraezare]] · [[Kerla\|Kerla]]|
-|**Formas de vida**|[[Cavadizo\|Cavadizo]] · [[Parra dorim\|Parra dorim]] · [[Tonk\|Tonk]]|
-|**Grupos**|[[Taishin\|Taishin]] · [[Diem\|Diem]] · [[DaiKeen\|DaiKeen]]|
-|**Magia**|[[Maestr%C3%ADa de la arena\|Maestría de la arena]] · [[Arena (Taldain)\|Arena]]|
-|**Mitología**|[[Autonom%C3%ADa\|Autonomía]] ·  · [[Se%C3%B1or de la Arena\|Señor de la Arena]]|
+**Ker'reen** is the predominant religion of [[Kerzta\|Kerzta]].
+The philosophy calls for worship of the sun, teaching that it is the manifestation of the [[Sand Lord\|Sand Lord]] and the source of autonomy and independence. The Ker'reen philosophy denounces the use of [[Sand mastery\|sand mastery]] as heresy, which has led to war between Kerzta and [[Lossand\|Lossand]] in the past.
+The priest [[DaiKeen\|DaiKeen]] oversees the religion among Kerztians. They are led by the **A'kar**, or high priest. Members of the priest DaiKeen are traditionally marked by square-shaped scars on their foreheads, though some have recently been found to wear X-shaped scars similar to the tattoos of the warrior DaiKeen. Members of the clergy speak [[Karshad\|Karshad]].
+The **KerKor** is the primary religious text of the Ker'reen religion.
 
 
 
-https://es.coppermind.net/wiki/Ker%27reen
+https://coppermind.net/wiki/Ker%27reen

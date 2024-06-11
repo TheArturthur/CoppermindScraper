@@ -1,92 +1,78 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Shu-Korath**|
 |-|-|
-|**Relacionado con**|[[Teod\|Teod]] y [[Arelon\|Arelon]]|
-|**Mundo de origen**|[[Sel\|Sel]]|
-|**Universo de origen**|[[Cosmere\|Cosmere]]|
+|**Related to**|[[Teod\|Teod]] and [[Arelon\|Arelon]]|
+|**World of Origin**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-El **Shu-Korath** es una secta del [[Shu-Keseg\|Shu-Keseg]] centrada en la nación de [[Sel\|Sel]] llamada [[Teod\|Teod]]. Aunque antaño estaba más extendida, ahora sólo la practican oficialmente los habitantes de las naciones de Teod y [[Arelon\|Arelon]]. El Shu-Korath se considera una fe dócil y sin pretensiones, que se practica en capillas diseñadas para que sus fieles se sientan cómodos.
+**Shu-Korath** is a sect of [[Shu-Keseg\|Shu-Keseg]] that is centered in the [[Sel\|Selish]] nation of [[Teod\|Teod]]. While once more widespread, it is now officially practiced only by the people in the nations of Teod and [[Arelon\|Arelon]]. Shu-Korath is regarded as a docile and unassuming faith, practiced in chapels designed to make its patrons feel comfortable.
 
-## Sumario
+## Contents
 
-1 Creencias. [[#Creencias]] 
-2 Textos religiosos e iconografía. [[#Textos religiosos e iconograf.C3.ADa]] 
-3 Organización y jerarquía. [[#Organizaci.C3.B3n y jerarqu.C3.ADa]] 
-4 Orígenes e historia. [[#Or.C3.ADgenes e historia]] 
+1 Beliefs. [[#Beliefs]] 
+2 Religious Texts & Iconography. [[#Religious Texts .26 Iconography]] 
+3 Organization & Hierarchy. [[#Organization .26 Hierarchy]] 
+4 Origins & History. [[#Origins .26 History]] 
 
-4. [[#Escisi.C3.B3n del Shu-Keseg]] 
-4. [[#Establecimiento en Arelon y Teod]] 
-4. [[#Influencia elantrina e intersecciones]] 
-4. [[#Conflicto con el Shu-Dereth]] 
-
-
-5 Miembros destacados. [[#Miembros destacados]] 
-6 Notas. [[#Notas]] 
+4. [[#Split from Shu-Keseg]] 
+4. [[#Establishment in Arelon and Teod]] 
+4. [[#Elantrian Influence .26 Intersections]] 
+4. [[#Conflict with Shu-Dereth]] 
 
 
-## Creencias
-Los korathi adoran a un dios misericordioso y amoroso conocido como Domi, a menudo llamado "Domi Misericordioso". El principio central de la fe es el **poder unificador del amor**.
+5 Notable Members. [[#Notable Members]] 
+6 Notes. [[#Notes]] 
+
+
+## Beliefs
+The Korathi worship a merciful, loving god known as Domi, often referred to as “Merciful Domi.” The central tenet of the faith is the **unifying power of love. **
 
 
 
 
-Todas las personalidades son dones que disfrutar.
-La unidad puede surgir del esfuerzo
-Hay que ayudar a los menos afortunados
-## Textos religiosos e iconografía
-Las escrituras korathi están contenidas en el **Do-Korath**.
-El símbolo oficial de la iglesia korathi es el **[[Aon\|aon]] Omi**, que significa "amor". 
+All people’s personalities are gifts to be enjoyed
+Unity can spring from strife
+Aid should be provided to those who are less fortunate
+## Religious Texts & Iconography
+Korathi scriptures are contained in the **Do-Korath**.
+The official symbol of the Korathi church is **[[Aon\|Aon]] Omi**, which means “love.”
 
-## Organización y jerarquía
-La iglesia korathi está dirigida por el **patriarca**, título que actualmente ostenta [[Seinalan\|Seinalan]]. Las capillas están dirigidas por sacerdotes, con "sacerdotes principales" designados en cada ciudad. Además, un grupo no especificado de líderes se encarga de elegir a un nuevo patriarca cuando es necesario y presumiblemente se encarga de interpretar y salvaguardar la doctrina eclesiástica.
+## Organization & Hierarchy
+The Korathi church is led by the **patriarch**, a title that is currently held by [[Seinalan\|Seinalan]]. Chapels are led by priests, with “head priests” designated in each city. Additionally, an unspecified group of leaders is responsible for electing a new patriarch when necessary and presumably takes charge of interpreting and safeguarding church doctrine.
 
-## Orígenes e historia
-### Escisión del Shu-Keseg
-El Shu-Korath se desarrolló cuando uno de los estudiantes de Keseg, Korath, partió de [[JinDo\|JinDo]] para difundir el principio central del Shu-Keseg de la unidad de toda la humanidad, enseñando que debe lograrse a través del amor. Estas enseñanzas se utilizaron más tarde como base para la nueva facción del Shu-Keseg, llamada Shu-Korath en honor a su fundador.
+## Origins & History
+### Split from Shu-Keseg
+Shu-Korath developed when one of Keseg’s students, Korath, set out from [[JinDo\|JinDo]] to spread Shu-Keseg’s central tenet of unity of all mankind, teaching that it should be achieved through love. These teachings were later used as the basis for the new faction of Shu-Keseg, named Shu-Korath after its founder.
 
-### Establecimiento en Arelon y Teod
-Korath viajó a la nación de Arelon, cuyo pueblo adoraba a los elantrinos, dioses vivientes que residían dentro de sus fronteras. Seguros de su propia divinidad, los elantrinos anteriores al Reod permitían que otras religiones predicaran dentro de su nación, incluso dentro de la propia ciudad de [[Elantris (ciudad)\|Elantris]]. Sin embargo, la religión no obtuvo un número significativo de seguidores en Arelon hasta después del Reod, cuando los arelenos rechazaron la divinidad elantrina basándose en la "enfermedad" o "maldición" que atribuían a los elantrinos.
-Tras la muerte de Korath, su seguidor [[ShanVen\|ShanVen]] trasladó el centro de operaciones de la religión a Teod, cuya monarquía adoptó el Shu-Korath como religión oficial del país.
+### Establishment in Arelon and Teod
+Korath traveled to the nation of Arelon, whose people worshipped the Elantrians, living gods who resided within its borders. Secure in their own divinity, the pre-Reod Elantrians allowed other religions to preach within their nation, even within the city of [[Elantris (city)\|Elantris]] itself. However, the religion didn’t gain a significant following in Arelon until after the Reod, when the Arelene rejected Elantrian divinity based on the Elantrians’ perceived “disease” or “curse.”
+Following Korath’s death, his follower [[ShanVen\|ShanVen]] moved the center of the religion’s operations to Teod, whose monarchy adopted Shu-Korath as the country’s official religion.
 
-### Influencia elantrina e intersecciones
-Antes del Reod, la cultura elantrina influyó en la simbología y las prácticas de la religión que más tarde se conocería como el Shu-Korath.
-
-
+### Elantrian Influence & Intersections
+Prior to the Reod, Elantrian culture influenced the symbology and practices of the religion that later became known as Shu-Korath.
 
 
 
 
 
-### Conflicto con el Shu-Dereth
-Aunque el Shu-Korath y el Shu-Dereth tienen puntos de vista divergentes sobre cómo lograr el objetivo de unidad de su religión madre, el verdadero conflicto no se produjo hasta que Fjorden adoptó el Shu-Dereth como excusa para conquistar las naciones cercanas bajo el pretexto de la unificación divina. Esto redujo el número de países cuya religión oficial es el Shu-Korath, aunque los ciudadanos de esos países pueden seguir practicando el Shu-Korath a pesar de la declaración de su gobierno a favor del Shu-Dereth. 
 
-Para más información, ver [[Shu-Dereth\|Shu-Dereth]].
-## Miembros destacados
-Países
+
+### Conflict with Shu-Dereth
+Though Shu-Korath and Shu-Dereth have differing views on how to achieve their parent religion’s goal of unity, true conflict did not occur until Fjorden adopted Shu-Dereth as an excuse to conquer nearby nations under the guise of divine unification. This reduced the number of countries whose official religion is Shu-Korath, though citizens of those countries may continue to practice Shu-Korath despite its government’s declaration in favor of Shu-Dereth. 
+
+For more information, see [[Shu-Dereth\|Shu-Dereth]].
+## Notable Members
+Countries
 [[Arelon\|Arelon]]
 [[Teod\|Teod]]
-Personas
-[[Eventeo\|Eventeo]] - Rey de Teod, que más tarde se convierte al Shu-Dereth para salvar a Sarene
-[[Iadon\|Iadon]] - Difunto rey de Arelon
-[[Omin\|Padre Omin]] - Sacerdote principal del Shu-Korath en Kae
-[[Raoden\|Raoden]] - Príncipe y más tarde rey de Arelon
-[[Sarene\|Sarene]] - Princesa de Teod, más tarde reina de Arelon
-[[Seinalan\|Seinalan]] - Patriarca del Shu-Korath
-
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] ·  · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+People
+[[Eventeo\|Eventeo]] – King of Teod, who later converts to Shu-Dereth to save Sarene
+[[Iadon\|Iadon]] – Late King of Arelon
+[[Omin\|Father Omin]] – head priest of Shu-Korath in Kae
+[[Raoden\|Raoden]] – Prince and later King of Arelon
+[[Sarene\|Sarene]] – Princess of Teod, later Queen of Arelon
+[[Seinalan\|Seinalan]] – Patriarch of Shu-Korath
 
 
 
-https://es.coppermind.net/wiki/Korathi
+
+https://coppermind.net/wiki/Korathi

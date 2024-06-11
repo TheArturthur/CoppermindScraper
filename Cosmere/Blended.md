@@ -1,94 +1,75 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-|**Mezcla**|
+|**Blended**|
 |-|-|
 ||
-|**Capacidades**|[[Astilla\|Astilla]]|
-|**Especie**|[[Tintaspren\|Tintaspren]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
+|**Abilities**|[[Splinter\|Splinter]]|
+|**Species**|[[Inkspren\|Inkspren]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
->“*Es bueno que haya pasado estas semanas adiestrándote en los conceptos básicos. Esto te preparará para tener la mejor probabilidad de victoria...*”
-\-Entrenando a Adolin[1]
-
-
-**Tinta** es una [[Tintaspren\|tintaspren]] en [[Roshar\|Roshar]]. Es la representante de los tintaspren en [[Integridad Duradera\|Integridad Duradera]] y entrena a [[Adolin Kholin\|Adolin Kholin]] en la ley [[Honorspren\|honorspren]] antes de su juicio, aunque más tarde también testifica contra él.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Vida temprana]] 
-3. [[#Integridad Duradera]] 
-3. [[#El juicio de Adolin]] 
-3. [[#Regreso a la tierra natal de los tintaspren]] 
+>“*It is well I spent these weeks training you in basics. This will prepare you for your best hope of victory...*”
+\-On Adolin's training[1]
 
 
-4 Relaciones. [[#Relaciones]] 
+**Blended** is an [[Inkspren\|inkspren]] on [[Roshar\|Roshar]]. She is the inkspren representative at [[Lasting Integrity\|Lasting Integrity]] and trains [[Adolin Kholin\|Adolin Kholin]] on [[Honorspren\|honorspren]] law before his trial, though she later also testifies against him.
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Early Life]] 
+3. [[#Lasting Integrity]] 
+3. [[#Adolin.27s Trial]] 
+3. [[#Return to inkspren homeland]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Adolin]] 
-4. [[#Humanos]] 
-4. [[#Cantores]] 
+4. [[#Humans]] 
+4. [[#Singers]] 
 
 
-5 Notas. [[#Notas]] 
+5 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Como otros [[Tintaspren\|tintaspren]], todo el cuerpo de Mezcla es negro como el ébano, con un brillo iridiscente con la luz adecuada, similar al aceite en agua. Su vestimenta, una falda larga hasta las rodillas con una blusa y chal similares a los ropajes de una mercader [[Thaylen\|thayleña]], es una parte de su esencia. Mezcla tiene la cara redonda y la nariz pequeña, delineada de forma más clara por ligeras variaciones de color. Lleva su pelo recogido en algo parecido pero que no es exactamente una trenza. Similar a otros tintaspren, habla de manera directa y cortada.
-A través de las interacciones de Mezcla con [[Adolin\|Adolin]], él nota que tiene la costumbre de no mirar a los demás cuando tiene algo difícil que decir.
+## Appearance and Personality
+Like other [[Inkspren\|inkspren]], Blended's entire body is ebony black, with an iridescent sheen in the right light, similar to oil on water. Her clothing, a knee-length skirt with a blouse and shawl similar to attire worn by a [[Thaylen\|Thaylen]] tradeswoman, is part of her essence. Blended has a round face and a small nose, outlined more clearly by faint variations in her color. She wears her hair pinned up in something similar to but not quite a braid. Similar to other inkspren, she speaks in a direct and clipped manner.
+Throughout Blended's interactions with [[Adolin\|Adolin]], he notes that she has a habit of not looking at others when she has something difficult to say.
 
-## Atributos y habilidades
-Como todos los spren sentientes que son afectados de alguna manera, puede sentir la alta tormenta como un tamborileo en el fondo de su cabeza. También es increíblemente conocedora de la ley honorspren.
+## Attributes and Abilities
+As all sapient [[Spren\|spren]] are affected in some manner, she can feel the highstorm like a drumming in the back of her head. She is also incredibly knowledgeable on the practice of [[Honorspren\|honorspren]] law.
 
-## Historia
-### Vida temprana
-Mezcla estaba vida durante el tiempo de la [[Traici%C3%B3n\|Traición]], y vio a muchos de sus amigos y familiares morir.
+## History
+### Early Life
+Blended was alive during the time of the [[Recreance\|Recreance]], and watched many of her friends and family die.
 
-  En <<Integridad Duradera\|Integridad Duradera>>
-### Integridad Duradera
->“*No es sorprendente ya que el sistema lo estableció un puritano puñado de remilgados botones demasiado bruñidos.*”
-\-Mezcla sobre los honorspren y su sistema legal[3]
+  In <<Lasting Integrity\|Lasting Integrity>>
+### Lasting Integrity
+>“*This is unsurprising, as it was devised by a stuck-up bunch of prim, overly polished buttons.*”
+\-Blended on the honorspren and their legal system[3]
 
 
-Mezcla es la emisaria [[Tintaspren\|tintaspren]] en Integridad Duradera. Durante su tiempo allí, Mezcla a menudo recibe miradas de desconfianza de los honorspren. Aunque es la representante de los tintaspren en [[Integridad Duradera\|Integridad Duradera]], y considerada diplomática entre sus compañeros tintaspren, está claro que no hay amor entre ella y los honorspren. A Mezcla no le gustan los honorspren ni su sistema legal.
+Blended is the [[Inkspren\|inkspren]] emissary to [[Lasting Integrity\|Lasting Integrity]]. During her time there, Blended often receives glares and looks of distrust from [[Honorspren\|honorspren]]. Although she is the inkspren representative to Lasting Integrity, and considered to be of the more diplomatic among her fellow inkspren, it is clear there is no love lost between her and honorspren. Blended dislikes the honorspren and their legal system.
 
-### El juicio de Adolin
-en la preparación del juicio de [[Adolin\|Adolin]], ella lo entrena en la legislación honorspren, sin embargo; durante el propio juicio, Mezcla testifica contra Adolin declarando que aunque quiere que el juicio se ajusto, su odio por los humanos «también es.» Tras el juicio de Adolin, admite que fue quien sugirió a la [[Ojomuerto\|ojomuerto]] [[Mayalaran\|Mayalaran]] como testigo final.
+### Adolin's Trial
+In preparation for [[Adolin Kholin\|Adolin Kholin's]] trial, she trained him in the ways of honorspren law, however; during the actual trial, Blended testified against Adolin stating that although she wanted the trial to be fair, her hatred of humans "also is." After Adolin's trial, she admits that she was the one to suggest the [[Deadeye\|deadeye]] [[Mayalaran\|Mayalaran]] as the final witness.
 
-### Regreso a la tierra natal de los tintaspren
-Tras el juicio y la revelación de que Maya y otros ojos muertos eligieran romper sus [[Palabras Inmortales\|juramentos]] junto con sus [[Caballeros Radiantes\|Radiantes]], decide abandonar Integridad Duradera y regresar con su gente para compartir las noticias con ellos.
+### Return to inkspren homeland
+After the trial and the revelation that Maya and the other deadeyes chose to abandon their [[Immortal Words\|Oaths]] with their [[Radiant\|Radiants]], she decides to leave Lasting Integrity and return to her people in order to share the news with them.
 
-## Relaciones
+## Relationships
 ### Adolin
-[[Adolin\|Adolin]] pasa muchas semanas entrenando con Mezcla mientras está en [[Integridad Duradera\|Integridad Duradera]]. Al conocerla, encuentra su nombre peculiar.
+[[Adolin\|Adolin]] spends many weeks training with Blended while in [[Lasting Integrity\|Lasting Integrity]]. Upon meeting her, he finds her name peculiar.
 
-### Humanos
-Mezcla siente que el [[V%C3%ADnculo Nahel\|vínculo Nahel]] con los humanos no es natural, y afirma que si un humano tratara de vincularla, lo atacaría y trataría de matarlo. Cree que los hombres son indignos de confianza, volubles, y que a penas aguantan un solo día sin romper un vínculo. Cree que los [[Spren\|spren]] jamás deberían volver a vincularse con humanos, y que esa es la manera más segura de evitar más muertes spren muertos.
+### Humans
+Blended feels that the [[Nahel bond\|Nahel bond]] with humans is not natural, and states that if a human tried to bond her, she would attack and attempt to kill them. She believes that men are untrustworthy, changeable, and barely go a single day without breaking a bond. She thinks that [[Spren\|spren]] should never again bond with humans, and that this is the surest way to avoid more dead spren.
 
-### Cantores
-Mezcla señala que aunque los [[Cantor\|cantores]] rompieron sus juramentos con los spren, nunca fue a la escala a la que lo hicieron los humanos. También afirma que los cantores son los herederos legítimos de [[Roshar\|Roshar]].
-
-## Notas
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+### Singers
+Blended notes that even though the [[Singers\|singers]] broke their Oaths with spren, it was never on the scale that humans did. She also notes that singers are the rightful heirs of [[Roshar\|Roshar]].
 
 
 
-https://es.coppermind.net/wiki/Blended
+https://coppermind.net/wiki/Blended

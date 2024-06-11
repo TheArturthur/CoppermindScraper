@@ -1,11 +1,11 @@
 |**Earth**|
 |-|-|
 ||
-|**Gobernador**| and |
+|**Ruler**|[[Council of Kings\|Council of Kings]] and [[Librarian\|Librarians]]|
 
-The world of [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]] is split up into two major territories: the Hushlands and the .
+The world of [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]] is split up into two major territories: the Hushlands and the [[Free Kingdoms\|Free Kingdoms]].
 
-## Sumario
+## Contents
 
 1 The Hushlands. [[#The Hushlands]] 
 2 The Free Kingdoms. [[#The Free Kingdoms]] 
@@ -18,8 +18,8 @@ The world of [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the
 
 
 ## The Hushlands
-Para more information, ver .
-The Hushlands or Libraria consists of all the landmasses of the *real* world. They are under control of the  Someone who lives there is called a 'Hushlander'.
+For more information, see .
+The Hushlands or Libraria consists of all the landmasses of the *real* world. They are under control of the [[Librarian\|Librarians]] Someone who lives there is called a 'Hushlander'.
 A notably absent area of land is where France resides, likely a reference to Alcatraz’s repeated references to France (and french things, such as Napoleon) being “fantasy” This does raise the question of where Kaz and the crew ended up during the travel montage in The Scriveners Bones.
 
 ## The Free Kingdoms
@@ -30,17 +30,9 @@ The Atlantic ocean has two major landmasses, one in the northern ocean the other
 ### The Countries in the Free Kingdoms
 
 ## History
-The [[Incarna\|Incarna]] were a people with a large knowledge of . They created the  using some unknown method. They fell due to something related to the Talents. [[Allekatrase\|Alcatraz the First]] broke his people's language to prevent anyone from using the knowledge for destruction.
-The  were created when [[Biblioden\|Biblioden]] taught that the world was too strange and dangerous for most people to know about. This started the mass censorship and alteration of history that continues in the Hushlands. The Librarians control all knowledge in the Hushlands. Any time the Librarians take over a new territory, it is added to the Hushlands. History books are changed so it appears that the new territory was always part of Hushland history. The most recent Librarian acquisition is the continent of Australia.
-
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|
-|-|-|
-|**Personajes**|[[Alcatraz Smedry\|Alcatraz Smedry]] · [[Bastille\|Bastille]] · [[Leavenworth Smedry\|Leavenworth Smedry]] · [[Shasta Smedry\|Shasta Smedry]] · [[Attica Smedry\|Attica Smedry]]|
-|**Magia**|[[Silim%C3%A1tica\|Silimáticas]] · [[Oculantista\|Oculantistas]] · [[Talento Smedry\|Talentos]] · [[Animado\|Animado]] · [[Cr%C3%ADstin\|Crístin]]|
+The [[Incarna\|Incarna]] were a people with a large knowledge of [[Silimatic\|Silimatics]]. They created the [[Smedry Talent\|Smedry Talents]] using some unknown method. They fell due to something related to the Talents. [[Allekatrase\|Alcatraz the First]] broke his people's language to prevent anyone from using the knowledge for destruction.
+The [[Librarian\|Librarians]] were created when [[Biblioden\|Biblioden]] taught that the world was too strange and dangerous for most people to know about. This started the mass censorship and alteration of history that continues in the Hushlands. The Librarians control all knowledge in the Hushlands. Any time the Librarians take over a new territory, it is added to the Hushlands. History books are changed so it appears that the new territory was always part of Hushland history. The most recent Librarian acquisition is the continent of Australia.
 
 
 
-https://es.coppermind.net/wiki/Dino_Land
+https://coppermind.net/wiki/Dino_Land

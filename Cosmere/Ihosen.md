@@ -1,25 +1,13 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Ihosen**|
 |-|-|
-|**Nación**|[[Torio\|Torio]]🐱︎|
-|**Mundo**|[[Komashi\|Komashi]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Nation**|[[Torio\|Torio]]|
+|**World**|[[Komashi\|Komashi]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Ihosen** es una aldea del reino de [[Torio\|Torio]], en [[Komashi\|Komashi]].
-
-## Notas
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] (**[[Komashi\|Komashi]]**)**|
-|-|-|
-|**Personajes**|[[Yumi\|Yumi]] · [[Nikaro\|Nikaro (Pintor)]] · [[Hoid\|Hoid]] · [[Dise%C3%B1o\|Diseño]] · [[Liyun\|Liyun]] · [[Akane\|Akane]] · [[Tojin\|Tojin]] · [[Masaka\|Masaka]] · [[Izzy\|Izzy]]|
-|**Lugares**|[[Kilahito\|Kilahito]] · [[El Pupila del Fideo\|El Pupila del Fideo]] · [[Torio\|Torio]] · [[Pueblo de Gongsha\|Pueblo de Gongsha]] · [[UTol\|UTol]]|
-|**Magia**|[[Virtuosismo\|Virtuosismo]] · [[Haijo\|Haijo]] · [[Yoki-haijo\|Yoki-haijo]] · [[M%C3%A1quina padre\|Máquina padre]] · [[Hion\|Hion]] · [[Mortaja\|Mortaja]] · [[Pesadilla\|Pesadillas]] · [[Pintor\|Pintores]]|
+**Ihosen** is a village in the kingdom of [[Torio\|Torio]] on [[Komashi\|Komashi]].
 
 
 
-https://es.coppermind.net/wiki/Ihosen
+https://coppermind.net/wiki/Ihosen

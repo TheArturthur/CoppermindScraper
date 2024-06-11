@@ -1,82 +1,59 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
-|**Asamblea de Luthadel**|
+|**Luthadel Assembly**|
 |-|-|
-|**Fundador**|[[Elend Venture\|Elend Venture]]|
-|**Líderes**|[[Elend Venture\|Elend Venture]], [[Ferson Penrod\|Ferson Penrod]]|
-|**Cuartel General**|Anterior edificio del [[/wiki/Ministerio del Acero#Cant.C3.B3n de las Finanzas]]|
-|**Tipo**|Consejo|
-|**Era**|Post-[[Colapso\|Colapso]]|
-|**Mundo de origen**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Founder**|[[Elend Venture\|Elend Venture]]|
+|**Leaders**|[[Elend Venture\|Elend Venture]], [[Ferson Penrod\|Ferson Penrod]]|
+|**Headquarters**|Former [[/wiki/Steel Ministry#Canton of Finance]] building|
+|**Type**|Council|
+|**Era**|Post-[[Collapse\|Collapse]]|
+|**World of Origin**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-La **Asamblea de Luthadel** es el consejo gobernante de [[Luthadel\|Luthadel]] que se establece como parte del nuevo gobierno del rey [[Elend Venture\|Elend Venture]] después del [[Colapso\|Colapso]].
+The **Luthadel Assembly** is the ruling council of [[Luthadel\|Luthadel]] that is established as part of King [[Elend Venture\|Elend Venture's]] new government after the [[Collapse\|Collapse]].
 
-## Sumario
+## Contents
 
-1 Estructura y poderes. [[#Estructura y poderes]] 
+1 Structure and Powers. [[#Structure and Powers]] 
 
-1. [[#Miembros de la Asamblea]] 
-
-
-2 Historia. [[#Historia]] 
-
-2. [[#Origen]] 
-2. [[#El asedio de Luthadel]] 
-2. [[#Tras la batalla de Luthadel]] 
+1. [[#Members of the Assembly]] 
 
 
-3 Notas. [[#Notas]] 
+2 History. [[#History]] 
+
+2. [[#Origin]] 
+2. [[#The Siege of Luthadel]] 
+2. [[#After the Battle of Luthadel]] 
 
 
-## Estructura y poderes
-La Asamblea consiste en ocho [[Noble\|nobles]], ocho trabajadores [[Skaa\|skaa]], y ocho mercaderes. Elend estableció esta estructura para que la gente común pudiera superar en votos a los nobles. En la práctica, sin embargo, los comerciantes se mantuvieron aparte y por encima de los demás skaa. El rey del [[/wiki/Dominio#Dominio Central]] preside la Asamblea y ejercita un  cuando la Asamblea está dividida en partes iguales en un asunto. Si el trono está vacante, la Asamblea elige a un canciller por mayoría de votos para llevar a cabo estas responsabilidades en su lugar.
-Elend pretendía que la Asamblea fuera un consejo asesor, cuyos miembros pudiesen expresar preocupaciones al rey y asegurarse de que las voces del pueblo fuesen escuchadas. Elend también quería que la Asamblea pudiese evitar que el rey se convirtiese en un tirano y le otorgó un equilibrio de poder que lo contrarrestase.
-Lo más importante, la Asamblea de Luthadel tiene el poder de deponer al rey, lo que requiere un voto unánime, excepto el del rey. Después de que el rey es depuesto, la Asamblea tiene un mes para elegir un nuevo rey, después de lo cual el trono vuelve al rey anterior, que luego no puede ser depuesto durante otro año. Una vez que el trono está vacante, el canciller realiza las nominaciones para el trono en una reunión de la Asamblea. Todos los miembros pueden nominar a una persona, y la Asamblea debe realizar las nominaciones al menos tres días antes de llevar a cabo la votación final. Un nominado no tiene que ser miembro de la Asamblea e incluso puede ser el rey que acaba de ser depuesto. Se requiere una mayoría de dos tercios para elegir un nuevo rey de la lista de candidatos propuestos. La Asamblea también puede elegir a un nuevo rey si el anterior muere sin heredero, probablemente de una forma similar.
-La Asamblea también puede suspender su propia autoridad para rendir la ciudad, lo que requiere una votación de dos tercios; expulsar a un miembro, lo cual requiere un voto unánime; y también tenía autoridad sobre asuntos más mundanos, como quién estaría a cargo de las reservas de alimentos. Rendir la ciudad a [[Ashweather Cett\|Ashweather Cett]] sin un rey habría requerido un voto unánime.
-
-### Miembros de la Asamblea
->“*La Asamblea solo tenía veinticuatro miembros, pero conseguir que se pusieran de acuerdo en algo era casi más difícil que cualquiera de los problemas a los que se enfrentaban.*”
-\-Pensamientos de Elend[2]
+3 Notes. [[#Notes]] 
 
 
-La siguiente tabla muestra los miembros conocidos de la Asamblea:
+## Structure and Powers
+The Assembly consists of eight [[Noble\|nobles]], eight [[Skaa\|skaa]] workers, and eight merchants. Elend set up this structure so that the common people would be able to outvote the nobles. In practice, however, the merchants held themselves separate from and above the other skaa. The King of the [[/wiki/Dominance#Central Dominance]] presides over the Assembly and exercises a  when the Assembly is evenly divided on a matter. If the throne is vacant, the Assembly elects a chancellor by majority vote to carry out these responsibilities instead.
+Elend intended the Assembly to be an advisory council, whose members could voice concerns to the king and make sure the peoples' voices were heard. He also, however, wanted the Assembly to be able to keep the king from becoming a tyrant, and gave it a fair measure of counterbalancing power.
+Most notably, the Assembly has the power to depose the king, which requires a unanimous vote, except for that of the king. After the king is deposed, the Assembly has one month to choose a new king, after which the throne reverts to the previous king, who then cannot be deposed for another year. Once the throne is vacant, the chancellor will hold nominations for the throne at an Assembly meeting. All members can nominate one person, and the Assembly must hold the nominations at least three days before it conducts the final vote. A nominee does not have to be a member of the Assembly, and can even be the king who was just deposed. A two-thirds majority is required to elect a new king from the list of nominees. The Assembly can also choose a new king if the previous one dies without an heir, likely by a similar method.
+The Assembly can also suspend its own authority to surrender the city, which requires a two-thirds vote; expel a member, which requires a unanimous vote; and also had authority over more mundane matters, such as who would be in control of the food stores. Surrendering the city to [[Ashweather Cett\|Ashweather Cett]] without a king would have required a unanimous vote.
+
+### Members of the Assembly
+>“*The Assembly was only twenty-four men, but getting them to agree on anything was almost more challenging than any of the problems they argued about.*”
+\-Elend's thoughts[2]
+
+
+The following table lists the known members of the Assembly:
 
 |[[Elend Venture\|Elend Venture]][[Ferson Penrod\|Ferson Penrod]][[Dedri Vasting\|Dedri Vasting]]Lord [[Dukaler\|Dukaler]]Lord [[Hue\|Hue]]Lord [[Dridel\|Dridel]]Lord [[Habren\|Habren]]|[[Haws\|Haws]][[Hettel\|Hettel]][[Jasten\|Jasten]][[Thurts\|Thurts]][[Vet (skaa)\|Vet]][[Kinaler\|Kinaler]]|[[Philen Frandeu\|Philen Frandeu]][[Getrue\|Getrue]]|
 |-|-|
 
-## Historia
-### Origen
-Después de la muerte del [[Rashek\|lord legislador]], Elend dio un discurso a los skaa y los convenció de dejar de hacer disturbios y, en su lugar, establecer un nuevo gobierno basado en ideales democráticos. Una vez que los disturbios cesaron, Elend fue nombrado el nuevo rey y lideró las negociaciones y la redacción de una nueva constitución. Como firme creyente de la democracia, Elend creó la Asamblea para que el pueblo pudiera tener cierto control sobre el país, y para que el rey pudiera recibir consejos y tener su poder limitado. La Asamblea se localizó en el edificio que anteriormente había acogido el [[/wiki/Ministerio del Acero#Cant.C3.B3n de las Finanzas]].
+## History
+### Origin
+After the [[Rashek\|Lord Ruler's]] death, Elend gave a speech to the skaa and convinced them to stop rioting and instead set up a new government based on democratic ideals. Once the rioting stopped, Elend was named the new king and led the negotiations and drafting of a new constitution. As a firm believer in democracy, Elend created the Assembly so that the people could have some control over the country, and so that the king could both receive advice and have his power limited. The Assembly met in the building that formerly housed the [[/wiki/Steel Ministry#Canton of Finance]].
 
-### El asedio de Luthadel
-Cuando el rey [[Straff Venture\|Straff Venture]] trajo su ejercito a Luthadel para retomar la ciudad de su hijo, la Asamblea se convirtió en una amenaza para la capacidad de Elend para actuar como rey. Teniendo en cuenta la llegada del invierno, la escasez de alimentos y madera/aceite para calentar las viviendas y, sobre todo, el hecho de que sólo había veinte mil soldados en la ciudad, en su mayoría sin entrenamiento, la Asamblea decidió entregar la ciudad a Straff. Con esfuerzo, Elend logró convencer a la mayoría de la Asamblea de darle tiempo para organizar una reunión con su padre. Luego llegó un segundo ejercito a Luthadel, encabezado por otro rey, [[Ashweather Cett\|Ashweather Cett]], poniendo a la Asamblea aún más nerviosa.
-Cuando finalmente se organizó una reunión con Straff, la Asamblea programó una sesión a la vez en el mismo momento, sabiendo que Elend no podría participar y, en su ausencia, derrocarlo. En una reunión posterior de la Asamblea, la Asamblea tenía que nominar candidatos para ser rey. [[Ferson Penrod\|Ferson Penrod]], Elend, y Cett (quien resultó estar entre los asistentes de la Asamblea) fueron nominados. Al final, Straff Venture sobornó a los miembros de la Asamblea para que aceptaran a Penrod, y a Penrod para que le entregara la ciudad, por lo que Penrod ganó la elección.
+### The Siege of Luthadel
+When King [[Straff Venture\|Straff Venture]] brought his army to Luthadel to retake the city from his son, the Assembly became a threat to Elend's ability to function as king. Taking into consideration the coming winter, the scarcity of food and wood/oil to heat the tenements and, before all, the fact that there were only twenty thousand, mostly untrained, of their soldiers in the city, the Assembly decided to give the city to Straff. With effort, Elend was able to convince the majority of the Assembly to give him time to set up a meeting with his father. Then a second army arrived to Luthadel, headed by another king, [[Ashweather Cett\|Ashweather Cett]], making the Assembly even more nervous.
+When a meeting with Straff was finally arranged, the Assembly scheduled a meeting at the same time, knowing that Elend couldn't participate and—in his absence—deposed him. In a later Assembly meeting, the Assembly was to nominate candidates for being king. [[Ferson Penrod\|Ferson Penrod]], Elend, and Cett—who turned out to be among the meeting's audience—were nominated. In the end, Straff Venture bribed the Assemblymen to accept Penrod, and Penrod to give the city to him, so Penrod won the election.
 
-### Tras la batalla de Luthadel
-Al final de la [[Batalla de Luthadel\|batalla de Luthadel]], [[Vin\|Vin]] forzó al rey [[Ferson Penrod\|Ferson Penrod]] a jurar lealtad a Elend. Elend y Vin reinaron como alto emperador y emperatriz del [[Nuevo Imperio\|Nuevo Imperio]], mientras se le permitió a Penrod mantener su trono, y la Asamblea retuvo su poder, sujeto a un veto imperial. Más tarde, Elend utilizó la Asamblea como modelo para establecer consejos parlamentarios en las otras ciudades que incorporó a su imperio.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### After the Battle of Luthadel
+At the end of the [[Battle of Luthadel\|Battle of Luthadel]], [[Vin\|Vin]] forced King [[Ferson Penrod\|Ferson Penrod]] to swear allegiance to Elend. Elend and Vin reigned as High Emperor and Empress of the [[New Empire\|New Empire]], while Penrod was allowed to keep his throne, and the Assembly retained its power, subject to an imperial veto. Elend later used the Assembly as a model for setting up parliamentary councils in the other cities he brought into his empire.
 
 
 
-https://es.coppermind.net/wiki/Luthadel_Assembly
+https://coppermind.net/wiki/Luthadel_Assembly

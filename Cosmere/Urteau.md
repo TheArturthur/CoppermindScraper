@@ -1,65 +1,43 @@
-
-
 |**Urteau**|
 |-|-|
 ||
-|**Dominio**|[[Dominio Septentrional\|Dominio Septentrional]]🐱︎|
-|**Nación**|[[Imperio Final\|Imperio Final]]🐱︎|
-|**Mundo**|[[Scadrial\|Scadrial]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Dominance**|[[Northern Dominance\|Northern Dominance]]|
+|**Nation**|[[Final Empire\|Final Empire]]|
+|**World**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Urteau** es la capital del [[Dominio Septentrional\|Dominio Septentrional]] durante el [[Imperio Final\|Imperio Final]].
+**Urteau** is the capital city of the [[Northern Dominance\|Northern Dominance]] in the [[Final Empire\|Final Empire]].
 
-## Sumario
+## Contents
 
-1 Geografía. [[#Geograf.C3.ADa]] 
-2 Historia. [[#Historia]] 
-3 Cultura. [[#Cultura]] 
-4 Habitantes destacados. [[#Habitantes destacados]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+1 Geography. [[#Geography]] 
+2 History. [[#History]] 
+3 Culture. [[#Culture]] 
+4 Notable Residents. [[#Notable Residents]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Geografía
-Situada al noreste de [[Luthadel\|Luthadel]], cerca del [[Monte de Ceniza\|Monte de Ceniza]] Kalling, Urteau era la mayor ciudad del Dominio Septentrional y era el hogar hereditario de la [[Casa Venture\|Casa Venture]].
-Entre los rasgos más definitorios de la ciudad se encontraban los «surcos»: amplios canales que habían estado vacíos de agua durante cien años y que dejaban la ciudad atravesada por canaletas llenas de ceniza para que actuaran como carreteras. Los canales habían sido vaciados para almacenar el agua en el lago subterráneo escondido en el depósito de almacenamiento del lord Legislador. El pozo del mercado era el más ancho de estos canales y actuaba como un paseo central ocupado, en gran parte, por comerciantes y mendigos. La mayoría de los edificios estaban construidos en madera en lugar de piedra. Urteau carecía de una muralla debido a la orden del [[Lord Legislador\|lord Legislador]] y tenía guarniciones de [[Koloss\|koloss]] estacionadas a unos días de marcha.
-Bajo el [[Cant%C3%B3n de la Inquisici%C3%B3n\|Cantón de la Inquisición]] del Ministerio se encontraba la tercera [[Caverna de suministros\|caverna de suministros]] que contenía un lago subterráneo.
+## Geography
+Located northeast of [[Luthadel\|Luthadel]] near the Kalling [[Ashmount\|Ashmount]], Urteau was the largest city in the Northern Dominance and was the hereditary home of [[House Venture\|House Venture]].
+Among the most defining features of the city were the “streetslots”: wide canals that had been empty of water for a hundred years leaving the city crossed with ash-filled troughs to act as roads. The canals had been emptied in order to store water in a hidden underground lake in the Lord Ruler's supply cache . The Marketpit was the widest of these canals acting as a central boulevard occupied largely by tradesmen and beggars. Most buildings were constructed of wood, rather than stone. Urteau lacked a city wall due to the [[Lord Ruler\|Lord Ruler]]’s order and had [[Koloss\|Koloss]] garrisons stationed a few days march away.
+Beneath the Ministry [[Canton of Inquisition\|Canton of Inquisition]] laid the third [[Storage cavern\|storage cavern]] containing an underground lake.
 
-## Historia
-Durante el asedio de [[Straff Venture\|Straff Venture]] a Luthadel, los rebeldes [[Skaa\|skaa]] se rebelaron y tomaron el control de Urteau con [[Quellion\|Quellion]], también conocido como el Ciudadano, a la cabeza. Bajo su consejo, los nobles fueron perseguidos y ejecutados. Los rebeldes skaa quemaron las casas de la nobleza, pintaron murales, destrozaron vidrieras y escarbaron los jardines ornamentales. Las acciones extremas contra la nobleza se cometieron en nombre de [[Kelsier\|Kelsier]], al que llamaban "Lord de las Brumas". Creían que Urteau era la única ciudad que había conseguido aquello por lo que luchó y murió el Superviviente, una nación gobernada por los skaa.
-[[Fantasma\|Fantasma]] fue enviado por [[Elend\|Elend]] y [[Vin\|Vin]] para investigar discretamente el nuevo gobierno de Urteau. A través de un mensaje inscrito en acero, informó al emperador de la toma del poder por parte de los skaa y del duro trato a los nobles. Al no poder disponer de tropas para marchar sobre la ciudad, Elend dio instrucciones a [[Sazed\|Sazed]] y a [[Brisa\|Brisa]] para que viajaran a Urteau con unos cientos de soldados para someter la rebelión y asegurar el alijo del norte. Los disturbios estallaron la noche en que Fantasma puso en marcha su plan para desenmascarar al Ciudadano y los incendios se extendieron por toda la ciudad. Se descubrió que Quellion estaba encontrando alomantes para chantajearlos y que trabajaran para él utilizando su habilidad de buscador otorgada por un clavo [[Hemal%C3%BArgico\|hemalúrgico]] de [[Bronce\|bronce]]. Fantasma se abre paso entre los guardias del Ciudadano con brutalidad impulsado por la voz de Kelsier y es detenido por [[Beldre\|Beldre]], la hermana de Quellion, que se revela como una [[Lanzamonedas\|lanzamonedas]]. A pesar de oír la voz de Kelsier que le ordena matar, Fantasma perdona a los hermanos y arranca el clavo del Ciudadano. La voz grita y Fantasma se da cuenta de repente de la punta de la espada clavada en su propio cuerpo y que le había otorgado la fuerza alomántica del [[Peltre\|peltre]]. Se deshace del clavo y casi se derrumba por la debilidad. Sin estar ya bajo la influencia de [[Ruina\|Ruina]], Fantasma corre hacia el edificio del Ministerio atravesando los incendios hasta el mecanismo que construyó Sazed y libera el agua del depósito para inundar los canales. Quellion, también liberado del control de Ruina, organiza brigadas de bomberos con la ayuda de [[Goradel\|Goradel]]. Un tercio de la ciudad se ha quemado y han llegado refugiados de las ciudades cercanas; lo que queda son casas nobles abandonadas, edificios skaa superpoblados y canales por los que vuelve a fluir el agua.
+## History
+During [[Straff Venture\|Straff Venture's]] siege of Luthadel, [[Skaa\|skaa]] rebels revolted and took control of Urteau with [[Quellion\|Quellion]], also known as the Citizen, at their head. Under his advisement, noblemen were hunted and executed. Skaa rebels burned down noblemen houses, painted over murals, shattered stained-glass windows, and dug up ornamental gardens. The extreme actions against the nobility were committed in the name of [[Kelsier\|Kelsier]], whom they called "Lord of the Mists". They believed Urteau was the only city that successfully achieved what the Survivor fought and died for, a skaa-ruled nation.
+[[Spook\|Spook]] was sent by [[Elend\|Elend]] and [[Vin\|Vin]] to subtly investigate the new government of Urteau. Via steel-inscribed message, he informed the emperor of the skaa takeover and harsh treatment of noblemen. Unable to spare the troops to march on the city, Elend instructed [[Sazed\|Sazed]] and [[Breeze\|Breeze]] to travel to Urteau with a few hundred soldiers to subdue the rebellion and secure the northern cache. Riots broke out the night Spook enacted his plan to expose the Citizen and fires spread throughout the city. It was discovered that Quellion was finding Allomancers to blackmail and work for him using his Seeker ability granted by a [[Bronze\|bronze]] [[Hemalurgic\|Hemalurgic]] spike. Spook fights through the Citizen's guards with brutality urged by the voice of Kelsier and is stopped by [[Beldre\|Beldre]], Quellion's sister, who reveals herself to be a [[Coinshot\|Coinshot]]. Despite hearing Kelsier's voice commanding him to kill, Spook spares the siblings and rips out the Citizen's spike. The voice screams and Spook becomes suddenly aware of the sword tip buried in his own body which had granted him the Allomantic strength of [[Pewter\|pewter]]. He rips the spike free nearly collapsing from weakness. No longer under the influence of [[Ruin\|Ruin]], Spook runs for the Ministry building pushing through the fires all the way to the mechanism Sazed built and releases the reservoir's water to flood the canals. Quellion, also released from Ruin's control, organizes fire brigades with the help of [[Goradel\|Goradel]]. A third of the city had burned down and refugees arrived from nearby towns; what remained were abandoned noble houses, overcrowded skaa buildings, and canals running with water once more.
 
-## Cultura
-Bajo el liderazgo del Ciudadano, los habitantes de Urteau se vieron obligados a seguir estrictos mandatos sobre el comercio, la vestimenta e incluso la mendicidad. Los colores aprobados para el atuendo eran el gris para la mayoría skaa, el marrón para los soldados y el rojo para los funcionarios del gobierno. Las ejecuciones públicas y el aumento de los guardias y las patrullas dieron lugar a crímenes más silenciosos y a una población en general deprimida.
-Aunque había seis o siete horas durante el día en las que las brumas no invadían las calles, Urteau mantenía algo de vida nocturna con la creencia y la confianza de que el "Lord de las Brumas" velaría por ellos.
+## Culture
+Under the leadership of the Citizen, Urteau denizens were forced to follow strict mandates regarding trade, clothing, and even begging. Approved colors for attire consisted of gray for the skaa majority, brown for soldiers, and red for government officials. Public executions and an increase in guards and patrols led to quieter crimes and a general downtrodden populace.
+Though there were six or seven hours during the day where the mists weren’t pervading the streets, Urteau maintained something of a night life with the belief and trust that the “Lord of the Mists” would watch over them.
 
-## Habitantes destacados
-Para una lista completa de habitantes ver, ver :Categoría:Habitantes de Urteau.
+## Notable Residents
+For a full list see, see :Category:Residents of Urteau.
 [[Quellion\|Quellion]]
 [[Beldre\|Beldre]]
 [[Durn\|Durn]]
-## Curiosidades
-[[VenDell\|VenDell]] tiene el cráneo de un comerciante de metales de Urteau.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] ·  · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+[[VenDell\|VenDell]] has the skull of a metal merchant from Urteau.
 
 
-
-https://es.coppermind.net/wiki/Urteau
+https://coppermind.net/wiki/Urteau

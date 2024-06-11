@@ -1,71 +1,46 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Winsting Innate**|
 |-|-|
-|**[[Casa Innate\|Casa Innate]]**|
-|**Hermanos**|[[Replar Innate\|Replar Innate]]|
-|**Fallecido**|342 [[Catacendro\|PC]]|
-|**Capacidades**|[[/wiki/Cinc#Uso alom.C3.A1ntico]]|
-|**Oficio**|Político|
-|**Residencia**|[[Elendel\|Elendel]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Sombras de identidad\|Sombras de identidad]]*|
+|**[[House Innate\|House Innate]]**|
+|**Siblings**|[[Replar Innate\|Replar Innate]]|
+|**Died**|342 [[Catacendre\|PC]]|
+|**Abilities**|[[/wiki/Zinc#Allomantic Use]]|
+|**Profession**|Politician|
+|**Residence**|[[Elendel\|Elendel]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
-Lord **Winsting Innate** es un [[Alomante\|alomante]] y miembro del Senado de [[Elendel\|Elendel]] en [[Scadrial\|Scadrial]]. Es el hermano de [[Replar Innate\|Replar Innate]], el gobernador de Elendel.
+Lord **Winsting Innate** is an [[Allomancer\|Allomancer]] and a member of the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]]. He is the brother of [[Replar Innate\|Replar Innate]], the governor of Elendel.
 
-## Sumario
+## Contents
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
 
-3. [[#Subasta y asesinato]] 
-
-
-4 Notas. [[#Notas]] 
+3. [[#Auction and Murder]] 
 
 
-## Apariencia y personalidad
-Está bien vestido, y lleva una camisa blanca almidonada, un pañuelo y gemelos de diamantes. Los diamantes están engastados en madera, presumiblemente para mantener los gemelos alománticamente inertes.
-No tiene escrúpulos, y vendió abiertamente su voto en el senado al mejor postor. Era cínico y materialista, creyendo que los eventos históricos alrededor de la [[Ascensi%C3%B3n Final\|Ascensión Final]] eran "leyendas disparatadas" y que el miedo a las [[Brumas\|brumas]] eran "majaderías supersticiosas". Es una persona precavida, y su mansión cuenta con una habitación de seguridad. A veces utiliza sus habilidades como [[Encendedor\|encendedor]] incluso cuando no es necesario, y emplea a un [[Buscador\|buscador]] llamado [[Blome\|Blome]] para asegurarse de que otras personas no utilizan alomancia su alrededor.
+4 Notes. [[#Notes]] 
 
-## Atributos y habilidades
-Innate es un [[Alomante\|alomante]], un [[Brumoso\|brumoso]] de [[Cinc\|cinc]] conocidos como [[Encendedor\|encendedores]]. Puede manipular las emociones de la gente. Presumiblemente es adinerado, ya que posee una mansión bien equipada en [[Elendel\|Elendel]] que es su residencia principal, y viste ropa cara. Se toma su seguridad muy en serio; emplea múltiples guardaespaldas y a al menos un alomante para su protección.
-Es pintor y cree que está mejorando, aunque todavía no es muy hábil.
-Conoce a varios señores del crimen, y es consciente de que [[Edwarn Ladrian\|Edwarn Ladrian]] utiliza el alias "Señor Conjunto".
 
-## Historia
-Winsting Innate se convirtió en senador cuando su hermano Replar ganó el gobierno. La mayoría de la gente no era consciente de sus habilidades alománticas. Las fuerzas de la ley sabían que era corrupto, pero fue protegido por su hermano y la popularidad general de su familia. En su mayoría había llevado a cabo planes de poca monta, y el capitán [[Aradel\|Aradel]] y otros no pensaban que valiese la pena su tiempo. Replar ayudó a encubrir los crímenes de Winsting, y también puede haberlo asignado a algunas tareas políticamente populares para tratar de aumentar su reputación.
+## Appearance and Personality
+He is well dressed, and wears a stiff white shirt, a cravat, and diamond cufflinks. The diamonds are set in wood, presumably to keep the cufflinks Allomantically inert.
+He is not scrupulous, and openly sold his senate vote to the highest bidder. He was cynical and materialistic, believing that the historical events around the [[Final Ascension\|Final Ascension]] were "fanciful legends" and that a fear of the [[Mist\|mists]] is "superstitious nonsense". He is a careful person, and his mansion contains a saferoom. He sometimes uses his [[Rioter\|Rioting]] abilities even when it is not necessary, and employs a [[Seeker\|Seeker]] named [[Blome\|Blome]] to ensure that other people do not use Allomancy around him.
 
-### Subasta y asesinato
-Para más información, ver [[Subasta de Winsting Innate\|Subasta de Winsting Innate]].
-Durante una [[Subasta de Winsting Innate\|subasta]] en su mansión donde intentó vender su voto a otros líderes de la cámara y figuras de los bajos fondos, el partido fue atacado por [[Paalm\|Paalm]]. Paalm usó [[Acero\|acero]] [[Feruqu%C3%ADmico\|feruquímico]] para moverse por el salón de baile a velocidad sobrehumana mientras disparaba su arma, haciendo que la gente pensase que los disparos venían de asistentes rivales; un gran tiroteo tuvo lugar y todos en el salón de baile fueron asesinados. Winsting huyó a su habitación de seguridad. Uno de sus guardaespaldas, [[Flog\|Flog]], entró, pero era en realidad Paalm disfrazada. Paalm cortó la garganta de Winsting, luego le cortó la lengua, indicando simbólicamente su plan para silenciar las supuestas mentiras de [[Armon%C3%ADa\|Armonía]]. Luego mató al resto de los guardias para cubrir sus huellas.
-La muerte de Winsting fue recogida de una manera bastante sensacionalista por los periódicos de Elendel; los muchos elementos criminales que se revelaron presentes en el partido plantearon preocupaciones sobre la corrupción del gobierno. [[Wax\|Wax]], [[Wayne\|Wayne]], y [[Marasi\|Marasi]] investigaron el asesinato, poniéndolos en un rastro que finalmente los llevó a Paalm.
+## Attributes and Abilities
+Innate is an [[Allomancer\|Allomancer]], a [[Zinc\|zinc]] [[Misting\|Misting]] known as a [[Rioter\|Rioter]]. He can manipulate people's emotions. He is presumably wealthy, as he owns a well-appointed mansion in [[Elendel\|Elendel]] that was his primary residence and he wears expensive clothing. He takes his security very seriously; he employs multiple bodyguards and at least one Allomancer for protection.
+He is a painter, and believes that he is getting better, although he is still not very skilled.
+He knows several crime lords, and is aware that [[Edwarn Ladrian\|Edwarn Ladrian]] uses the alias "Mister Suit".
 
-## Notas
+## History
+Winsting Innate became a senator when his brother Replar won the governorship. Most people were not aware of his Allomantic abilities. The constabulary knew that he was corrupt, but he was afforded protection by his brother and the general popularity of his family. He had mostly pulled off small-time schemes, and Captain [[Aradel\|Aradel]] and others did not think he was worth their time. Replar helped cover up Winsting's crimes, and also may have assigned him to some politically popular tasks to try and boost his reputation.
 
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 16:43, 11 May 2020 (UTC)
-|**[[Nacidos de la bruma Era 2\|Nacidos de la bruma Era 2]]**|
-|-|-|
-|**Personajes**|[[Waxillium Ladrian\|Waxillium Ladrian]] · [[Wayne\|Wayne]] · [[Marasi Colms\|Marasi Colms]] · [[Steris Harms\|Steris Harms]] · [[MeLaan\|MeLaan]] · [[Miles Dagouter\|Miles Dagouter]] · [[Ranette\|Ranette]] · [[Edwarn Ladrian\|Edwarn Ladrian]] · [[Paalm\|Sangradora]] · [[Claude Aradel\|Claude Aradel]] · [[Telsin Ladrian\|Telsin Ladrian]]|
-|**Lugares**|[[Elendel\|Elendel]] · [[Cuenca de Elendel\|Cuenca de Elendel]] · [[Los %C3%81ridos\|Los Áridos]] · [[Nueva Seran\|Nueva Seran]] · [[Bilming\|Bilming]] · [[Consorcio Malwish\|Consorcio Malwish]]|
-|**Cultura**|[[Iglesia del Superviviente\|Supervivencialismo]] · [[El Camino\|El Camino]] · [[Lasquismo\|Lasquismo]] · [[Trell (trellismo)\|Trellismo]]|
-|**Organizaciones**|[[El Grupo\|El Grupo]] · [[Desvanecedores\|Desvanecedores]] · [[Sangre Espectral\|Sangre Espectral]]|
-|**Periódicos**|[[El Diario de Elendel\|El Diario de Elendel]] · [[El Archivo Local\|El Archivo Local]] · [[El Nuevo Ascendiente\|El Nuevo Ascendiente]]|
-|**Otros**|[[Alto Imperial\|Alto Imperial]] · [[Acuerdo Alom%C3%A1ntico del 94\|El Acuerdo Alomántico del 94]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+### Auction and Murder
+For more information, see [[Winsting Innate's auction\|Winsting Innate's auction]].
+During an [[Winsting Innate's auction\|auction]] at his mansion where he attempted to sell his vote to other House leaders and underworld figures, the party was attacked by [[Paalm\|Paalm]]. Paalm used [[Feruchemical\|Feruchemical]] [[Steel\|steel]] to move around the ballroom at superhuman speed while firing her weapon, causing people to think that the shots were coming from rival attendees; a large firefight broke out and everyone in the ballroom was killed. Winsting fled to his saferoom. One of his bodyguards, [[Flog\|Flog]], entered, but it was actually Paalm in disguise. Paalm slit Winsting's throat, then cut out his tongue, symbolically indicating her plan to silence [[Harmony\|Harmony's]] supposed lies. She then killed the rest of the guards to cover her tracks.
+Winsting's death was reported on in a rather sensationalistic manner by the Elendel broadsheets; the many criminal elements revealed to be present at the party raised concerns about government corruption. [[Wax\|Wax]], [[Wayne\|Wayne]], and [[Marasi\|Marasi]] investigated the murder, setting them on a path that eventually led them to Paalm.
 
 
 
-https://es.coppermind.net/wiki/Winsting
+https://coppermind.net/wiki/Winsting

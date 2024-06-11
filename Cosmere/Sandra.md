@@ -1,12 +1,12 @@
 |**Sandra**|
 |-|-|
-|**Capacidades**||
-|**Mundo natal**||
-|**Presentado en**|*Legion: Lies of the Beholder*|
+|**Abilities**|[[Aspect\|Aspects]]|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
+|**Introduced In**|*Legion: Lies of the Beholder*|
 
 **Sandra** is an old acquaintance of [[Stephen Leeds\|Stephen Leeds]].
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -18,26 +18,17 @@
 Sandra is a blond-haired woman with a long face. Her voice is full and husky.
 
 ## Attributes and Abilities
-Sandra is quite possibly the only person to ever fully understand [[Stephen Leeds\|Stephen Leeds]]' , including Stephen himself. Not only is she able to play along with them, but she was able to help him harness them and use them for good. Prior to her intervention, they were merely shadows, much closer to schizophrenic voices than the full-fledged people they are today.
+Sandra is quite possibly the only person to ever fully understand [[Stephen Leeds\|Stephen Leeds']] [[Aspects\|aspects]], including Stephen himself. Not only is she able to play along with them, but she was able to help him harness them and use them for good. Prior to her intervention, they were merely shadows, much closer to schizophrenic voices than the full-fledged people they are today.
 Sandra was able to do this because she has the same condition, that is, she manifests aspects of her own. Some of hers are named ,  and .
 
 ## History
 Sandra met [[Stephen Leeds\|Stephen]] and taught him to control his aspects. The two spent a lot of time together, including many nights conversing in candlelight.
 About ten years prior to the Razon case, Sandra left Stephen, heading to New York.
-Around eight years after leaving Stephen, Sandra's situation with her aspects started to go south. Soon after, all of her  died. She re-manifested a large group, but they all died as well, much quicker than the first group. At some point, she decided to come to [[Wode\|Walters and Ostman Detention Enterprises]] and have them put her in a virtual reality prison that suppressed her ability to manifest aspects.
+Around eight years after leaving Stephen, Sandra's situation with her aspects started to go south. Soon after, all of her [[Aspect\|aspects]] died. She re-manifested a large group, but they all died as well, much quicker than the first group. At some point, she decided to come to [[Wode\|Walters and Ostman Detention Enterprises]] and have them put her in a virtual reality prison that suppressed her ability to manifest aspects.
 Just before Stephen picked up the Razon case, he was shown a picture of Sandra that confirms she left for New York. Previously, he had no leads on where she could have gone. He didn't immediately attempt to track her, however.
 Concurrent with Stephen's manifestation of [[Jenny\|Jenny]], roughly 4 years after her aspects began to disappear, Sandra sent a series of texts to Stephen, one of which included a cipher that led Stephen to a drop point in a carnival. There, she had left a smartphone that she used to contact him. During that conversation, she told him about her decision to live without aspects.
 Stephen broke into WODE's prison facility in an attempt to rescue her, but by the time he got to her he accepted her decision. She kissed him one last time and then he left.
 
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Legi%C3%B3n (saga)\|Legión]]**|
-|-|-|
-|**Personajes**|[[Stephen Leeds\|Stephen Leeds]] · [[Wilson\|Wilson]] · [[Monica\|Monica]] · [[Balubal Razon\|Balubal Razon]] · [[Yol Chay\|Yol Chay]] · [[Zen Rigby\|Zen Rigby]] · [[Dion Maheras\|Dion Maheras]] ·  · [[Barb\|Barb]] · [[Kyle Walters\|Kyle Walters]]|
-|**[[Aspecto\|Aspectos]]**|[[Ivy\|Ivy]] · [[J.C.\|J.C.]] · [[Tobias\|Tobias]] · [[Kalyani\|Kalyani]] · [[Audrey\|Audrey]] · [[Ngozi\|Ngozi]] · [[Jenny\|Jenny]]|
-|**Otros**|[[Laboratorios Azari\|Laboratorios Azari]] · [[Innovaci%C3%B3n e Informaci%C3%B3n Incorporada\|Innovación e Información Incorporada]] · [[Exeltec\|Exeltec]] · [[Wode\|Wode]]|
 
 
-
-https://es.coppermind.net/wiki/Sandra
+https://coppermind.net/wiki/Sandra

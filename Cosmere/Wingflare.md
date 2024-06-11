@@ -1,17 +1,17 @@
 |**Wingflare**|
 |-|-|
-|**Capacidades**|[[%C3%89pico\|Épico]]|
-|**Residencia**||
-|**Mundo natal**|[[Tierra (Reckoners)\|Tierra (Reckoners)]]|
-|**Presentado en**|*[[Lux (book)\|Lux]]*|
+|**Abilities**|[[Epic\|Epic]]|
+|**Residence**|[[Lux (city)\|Lux]]|
+|**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Lux (book)\|Lux]]*|
 
 >“*There is nothing quite so special as to sip from the chalice of death. Sip, not swallow. To taste its sweet licorice on your toungue before releasing it back into the cup. Have you ever tasted something so sweet?*”
 \-Wingflare[1]
 
 
-**Wingflare** is an . She has incredibly strong telekinesis abilities. She is responsible for keeping the flying city of  aloft, as well as her massive compound. Her real name is **Shelly Sanders**.
+**Wingflare** is an [[Epic\|Epic]]. She has incredibly strong telekinesis abilities. She is responsible for keeping the flying city of [[Lux (city)\|Lux]] aloft, as well as her massive compound. Her real name is **Shelly Sanders**.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -67,18 +67,6 @@ Wingflare led him to the old Oval Office, where three platters sat on the table,
 
 ## Trivia
 Wingflare hates potato chips.
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Los Reckoners\|Los Reckoners]]**|
-|-|-|
-|**Personajes**|[[David Charleston\|David Charleston]] · [[Megan Tarash\|Megan Tarash]] · [[Jonathan Phaedrus\|Jonathan Phaedrus]][[Jax (Reckoners)\|Jax]] · [[Paige\|Paige]]|
-|**Lugares**| · [[Babilar\|Babilar]] · [[Ildithia\|Ildithia]][[Lux (ciudad)\|Lux]]|
-|**[[Reckoners\|Reckoners]]**|[[Abraham\|Abraham]] · [[Cody\|Cody]] · [[Exel\|Exel]] · [[Missouri Williams\|Mizzy]] · [[Tia\|Tia]] · [[Valentine\|Valentine]] · [[Sam (Reckoner)\|Sam]][[Abigail Casey\|Abigail]] · [[Briggen\|Briggen]] · [[Hershel Black\|Hershel]] · [[Wade\|Wade]] · [[Zeff\|Zeff]]|
-|**[[%C3%89pico\|Épicos]]**| · [[Conflux\|Conflux]] · [[Faultline\|Faultline]] ·  · [[Fortuity\|Fortuity]] · [[Nightwielder\|Nightwielder]] · [[Obliteration\|Obliteration]] · [[Regalia\|Regalia]] · [[Steelheart (%C3%89pico)\|Steelheart]] · [[Loophole\|Loophole]][[Cloudbreaker\|Cloudbreaker]] · [[Languish\|Languish]] · [[Lifeforce\|Lifeforce]] · [[Lovestruck\|Lovestruck]] · |
-|**Otros**| ·  · [[Deathrise\|Deathrise]]|
 
 
-
-https://es.coppermind.net/wiki/Wingflare
+https://coppermind.net/wiki/Wingflare

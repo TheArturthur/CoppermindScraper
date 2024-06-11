@@ -1,212 +1,187 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
 
 
 |**Taravangian**|
 |-|-|
 ||
-|**Familia**|
-|**Hijos**|[[Savrahalidem\|Savrahalidem]]|
-|**Descendientes**|[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], [[Ruli\|Ruli]], [[Nieta de Taravangian\|nieta]]|
-|**Fallecido**|1175|
-|**Capacidades**|[[Antigua Magia\|Antigua Magia]], [[Esquirla\|Esquirla]] [[Odium\|Odium]]|
-|**Títulos**|Rey de [[Kharbranth\|Kharbranth]] , rey de [[Jah Keved\|Jah Keved]] , Odium|
-|**Apodos**|Vargo|
-|**Grupo**|[[Diagrama (grupo)\|Diagrama]]🐱︎|
-|**Residencia**|[[Kharbranth\|Kharbranth]] (palacio), [[Urithiru\|Urithiru]]🐱︎|
-|**Nacionalidad**|[[De Kharbranth\|de Kharbranth]]|
-|**Mundo natal**|[[Roshar\|Roshar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Family**|
+|**Children**|[[Savrahalidem\|Savrahalidem]]|
+|**Descendants**|[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|granddaughter]]|
+|**Died**|1175|
+|**Abilities**|[[Old Magic\|Old Magic]], [[Shard\|Shard]] of [[Odium\|Odium]]|
+|**Titles**|King of [[Kharbranth\|Kharbranth]] , King of [[Jah Keved\|Jah Keved]] , Odium|
+|**Aliases**|Vargo|
+|**Groups**|[[Diagram (group)\|Diagram]]|
+|**Residence**|[[Kharbranth\|Kharbranth]] (palace), [[Urithiru\|Urithiru]]|
+|**Nationality**|[[Kharbranthian\|Kharbranthian]]|
+|**Homeworld**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[El ritmo de la guerra\|El ritmo de la guerra]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*Soy el monstruo que salvará a este mundo.*”
-\-Taravangian a Szeth[2]
-
-
-**Taravangian** es el rey de [[Kharbranth\|Kharbranth]] y [[Jah Keved\|Jah Keved]]. y el actual Recipiente de la [[Esquirla\|Esquirla]] [[Odium\|Odium]]. Es el líder de la sociedad secreta conocida como «el [[Diagrama (grupo)\|Diagrama]]», que cree que la verdad y el camino hacia la salvación humana se encuentra en el conjunto de predicciones e instrucciones que él desarrolló el día en el que fue un genio.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-
-1. [[#Apariencia]] 
-1. [[#Personalidad]] 
+>“*I am the monster who will save this world.*”
+\-Taravangian to Szeth[2]
 
 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
+**Taravangian** is the king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]], and the current Vessel of the [[Shard\|Shard]] [[Odium\|Odium]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius.
 
-2. [[#Antigua Magia]] 
-2. [[#Recipiente de Odium]] 
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+
+1. [[#Appearance]] 
+1. [[#Personality]] 
 
 
-3 Historia. [[#Historia]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
-3. [[#Antecedentes]] 
-3. [[#La Vigilante Nocturna y la creaci.C3.B3n del Diagrama]] 
+2. [[#Old Magic]] 
+2. [[#Vessel of Odium]] 
+
+
+3 History. [[#History]] 
+
+3. [[#Background]] 
+3. [[#The Nightwatcher and the creation of the Diagram]] 
 3. [[#Kharbranth]] 
-3. [[#Rey de Jah Keved]] 
-3. [[#Coalici.C3.B3n roshariana de Dalinar]] 
-3. [[#Batalla de la Explanada Thayle.C3.B1a y consecuencias]] 
-3. [[#Traici.C3.B3n y encarcelamiento]] 
-3. [[#Recipiente de Odium 2]] 
+3. [[#King of Jah Keved]] 
+3. [[#Dalinar.27s coalition of Roshar]] 
+3. [[#Battle of Thaylen Field and Aftermath]] 
+3. [[#Betrayal and Imprisonment]] 
+3. [[#Vessel of Odium 2]] 
 
 
-4 Relaciones. [[#Relaciones]] 
+4 Relationships. [[#Relationships]] 
 
 4. [[#Adrotagia]] 
 4. [[#Malata]] 
 4. [[#Rayse]] 
-4. [[#Nietos de Taravangian]] 
+4. [[#Taravangian.27s Grandchildren]] 
 
 
-5 Citas. [[#Citas]] 
-6 Curiosidades. [[#Curiosidades]] 
-7 Notas. [[#Notas]] 
+5 Quotes. [[#Quotes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
+## Appearance and Personality
  
-Para más imágenes, ver [[Taravangian/Galer%C3%ADa\|/Galería]].
->“*Alguien debe cargar con la responsabilidad. Alguien debe hundirse con ella, destruirse con ella. Alguien debe mancillar su alma para que otros puedan vivir. La sociedad nos ofrenda para que vadeemos en aguas sucias y así otros puedan estar limpios.*”
-\-Taravangian a Dalinar[5]
+For more images, see [[Taravangian/Gallery\|/Gallery]].
+>“*Someone must bear the responsibility, someone must be dragged down by it, ruined by it. Someone must stain their souls so others may live. Society offers us up to trudge through dirty waters so others may be clean.*”
+\-Taravangian to Dalinar[5]
 
 
-### Apariencia
-Taravangian es un hombre de edad avanzada con una barba rala blanca que se afeita durante la [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]. Tiene ojos de un gris pálido y un rostro abierto y amable. Se le describe con una "cabeza con manchas de la edad".  Vive con dolores corporales crónicos y otros síntomas de su edad. Antes de Ascender como Recipiente de Odium, tenía unos 70 años según el calendario roshariano.
+### Appearance
+Taravangian is an aged man with a wispy white beard, which he shaves during the [[True Desolation\|True Desolation]]. He has pale grey eyes and an open, kindly face. He is described as having a “liver-spotted head.” He lives with perpetual aches in his body and other symptoms of old age. Before he Ascended as Vessel of Odium, he was in his 70s in Rosharan years.
 
-### Personalidad
-Es conocido y apreciado por ofrecer acceso libre a los hospitales de la ciudad, subvencionados gracias a la tasa de admisión al [[Palaneo\|Palaneo]], y suele visitar los hospitales semanalmente. Gobierna sobre Kharbranth con la ayuda de un consejo y ha tenido una vida tranquila y humilde, lo que ha provocado que mucha gente piense que es de pocas luces. Aquellas personas que lo conocen mejor saben que tenía una inteligencia aguda hasta su «enfermedad» cinco años antes de la [[Batalla de la Explanada Thayle%C3%B1a\|Batalla de la Explanada Thayleña]]. La enfermedad es la consecuencia de una visita a la [[Vigilante Nocturna\|Vigilante Nocturna]], quien le concedió una alta inteligencia y una alta compasión, pero lo maldijo de modo que no pudiera tener ambas al mismo tiempo. Como resultado, al filo de la medianoche, es afectado por una fluctuación entre ambas. Algunos días llora y tiene compasión por todos los que lo rodean pero es incapaz de tener conversaciones inteligentes, mientras que en otros es brillante pero habla sin reparos de matar a un grupo de chicos cantores.
-Es un hombre muy manipulador, siempre fingiendo ante el público, especialmente cuando intenta obtener información o demostrar sus teorías. Uno de esos actos es la farsa que ha montado durante toda su vida de una capacidad mental reducida debido a que tuvo el cordón umbilical enrollado en el cuello, a pesar de que dicha capacidad reducida nunca estuvo realmente presente.
-Taravangian es un hombre pragmático que considera su deber hacer lo que sea necesario para conseguir un mundo mejor. Utilitarista hasta el extremo, cuando se plantea un dilema moral, preguntándose qué hacer si tres de cuatro hombres son culpables de asesinato y uno no está seguro de cuál es inocente, dice: "Para evitar que el asesinato se repita... debo ahorcarlos a todos y llorar". Aunque no encuentra placer en sacrificar a otros, simplemente cree que, a veces, tal sacrificio es necesario para la mejora del conjunto. Amplía esta idea, creyendo que la ley es necesaria para el orden, pero que todos los jueces son intrínsecamente defectuosos, por lo que con el tiempo se ejecutaría a inocentes que no lo merecían. Llama a esto la carga que la sociedad debe soportar a cambio del orden.
-Se considera una especie de mártir, que asume su responsabilidad y mancha su alma para que otros no tengan que hacerlo, aunque eso le arruine. Esto es lo que él considera la responsabilidad de un rey.
-Pero a pesar de su voluntad de sacrificar a otros, se niega a permitir que su familia y su pueblo sean dañados si él pudiera evitarlo; intentando llegar a un compromiso con Odium que permita a ambos sobrevivir. Sin embargo, en sus días menos empáticos, a menudo puede ordenar muertes de forma despreocupada y sin importarle lo más mínimo, aunque no proporcione ningún beneficio mensurable a la sociedad.
-Cree que la religión llena lagunas y aporta una sensación de comodidad que impide la comprensión. Sólo confía en el Diagrama, fruto de su inteligencia bruta.
-En sus días más emotivos, puede ser completamente incoherente hasta el punto de que le resulta difícil pensar. Durante esos días, tiende a despreciarse a sí mismo por su propia estupidez autoproclamada, lo suficiente como para echarse a llorar. También tiende a llorar por el bien de los demás.
-Puede ser bastante crítico con otras naciones y culturas, como considerar a los [[Marati\|Marati]] poco más que bárbaros.
+### Personality
+He is popular among many for providing free access to city hospitals funded by an admittance fee to the [[Palanaeum\|Palanaeum]], and he is known to visit the hospitals on a weekly basis. Ruling Kharbranth with the help of a council, he has been quiet and humble for his entire life, leading many people to believe he is slow witted. People who know him better know he had a keen intelligence until his "illness" 5 years before the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. The illness is a consequence of a visit to the [[Nightwatcher\|Nightwatcher]] who granted him great intelligence and great compassion, but cursed him to never have them at the same time. As a result, at the stroke of midnight, he is struck with a fluctuation of both. On some days, he cries and has compassion for everyone around him, while unable to have intelligent conversations, while on others he is brilliant, yet easily speaks of killing singing children.
+He is a very manipulative man, always putting up an act in public, especially when trying to gain information or prove his theories. One such act is him putting on a farce of reduced mental capacity due to a nuchal cord all his life, despite that said reduced capacity was never actually present.
+Taravangian is a pragmatic man who considers it his duty to do whatever it takes to make a better world. Utilitarian to the extreme, when he poses a moral dilemma, asking what to do if three of four men are guilty of murder and one is unsure which is innocent, he says "To prevent murder to happen again … I must hang them all and weep." Though he doesn't find joy in sacrificing others, he simply believes that sometimes, such sacrifice is required for the betterment of the whole. He expands on this idea, believing that the law is necessary for order, but that all judges are inherently flawed, therefore innocents would eventually be executed when they did not deserve it. He calls this the burden that society must carry in exchange for order.
+He considers himself a sort of martyr, who bears responsibility and stains his soul so that others don't have to, even if it ruins him. This is what he feels is the responsibility of a king.
+But despite his willingness to sacrifice others, he refuses to let his family and his people be harmed if he could potentially stop it; trying to come to a compromise with Odium that let both survive. However, on his least empathetic of days, he can often order deaths casually and without a single care, even if it provides no measurable benefit to society.
+He believes religion fills gaps and brings a sense of comfort which prevents understanding. He trusts only the Diagram, which is the result of his raw intelligence.
+On his most emotional of days, he can be completely incoherent to the extent he finds it difficult to think. During these days, he tends to despise himself for his own self-professed stupidity, enough to bring himself to tears. He also tends to cry for the sake of others.
+He can be rather judgmental against other nations and cultures, such as considering the [[Marati\|Marati]] to be little more than barbarians.
 
-## Atributos y habilidades
-Taravangian tiene un conocimiento sorprendente sobre los [[Shin\|Shin]] y el idioma shin, algo raro fuera de [[Shinovar\|Shinovar]]. También sabe usar la [[Escritura femenina\|escritura femenina]] y ha resuelto el [[Fabrisan\|Acertijo de Fabrisan]]. Es el responsable de que Dalinar sepa cómo capturar un spren: dándole lo que quiere. Este conocimiento es clave para que Dalinar gane contra Nergaoul en la batalla de la [[Ciudad Thaylen\|Ciudad Thaylen]].
+## Attributes and Abilities
+Taravangian has surprising knowledge of the [[Shin\|Shin]] and the Shin language, which is rare outside of [[Shinovar\|Shinovar]]. He also knows [[Women's script\|women's script]] and has solved [[Fabrisan\|Fabrisan's Conundrum]]. He is responsible for Dalinar's knowledge of how to capture a spren: giving it what it wants. This knowledge is key for Dalinar's victory over Nergaoul at the battle of [[Thaylen City\|Thaylen City]].
 
-### Antigua Magia
-Taravangian dice que pidió «Capacidad. Capacidad para detener lo que se avecinaba. La capacidad para salvar a la humanidad» a la Vigilante Nocturna. Como resultado, el nivel de inteligencia de Taravangian cambia de un día para otro. Esto le permitió escribir el [[Diagrama (literatura)\|Diagrama]] un día en el que tuvo una inteligencia particularmente notable. Cree que su maldición es un nivel de compasión inversamente proporcional al de su inteligencia; casi no siente compasión en sus días de más inteligencia, mientras que en los días de alta inteligencia tiene mucha compasión para «sentir dolor por lo que había hecho». Algunos días tiene una mente tan lenta como un [[Parshmenio\|parshmenio]] y queda al borde de las lágrimas fácilmente cuando se da cuenta de que sus decisiones llevarán muerte a inocentes, mientras que en otros es más inteligente y tiene más capacidad mental que el mejor erudito, pero ve todo lo que ordena con una lógica fría y tiene una visión más amplia de Roshar en general. El cambio en su inteligencia y compasión aún ocurre si Taravangian está despierto y consciente a medianoche.
-Todas las mañanas resuelve una prueba de inteligencia que se preparó a él mismo durante días inteligencias. La prueba dura casi una hora y está formada por una secuencia de problemas matemáticos. Tres [[Predicetormentas\|predicetormentas]] revisan las respuestas y deciden su inteligencia durante un día. Los predicetormentas y [[Mrall\|Mrall]], el jefe de sus guardaespaldas, también deciden si está en condiciones de gobernar y a qué restricciones deberá someterse. Tanto en sus peores como mejores días está confinado a su cuarto porque en ambos casos tiende a tomar decisiones irracionales.
+### Old Magic
+Taravangian claims to have asked the Nightwatcher for, "Capacity. Capacity to stop what was coming. The capacity to save humankind." As a result, Taravangian's level of intelligence varies from day to day. This enabled him to write the [[Diagram (literature)\|Diagram]] on a day of particularly notable intelligence. He believes that his curse is a level of compassion inversely proportional to his intelligence; he feels little to no compassion on days of high intelligence, contrasted with days of low intelligence and great compassion "to feel pain for what he had done." Some days he is as dull-minded as a [[Parshman\|Parshman]] and brought easily to tears as he realizes decisions he makes may bring death to innocents, while on others he is more intelligent and able-minded than the greatest scholar but regards everything he is ordering done with cold logic and an eye for the bigger picture of Roshar. The change in intelligence and compassion will still happen even if Taravangian is awake and conscious in the middle of the night.
+Every morning he takes an intelligence test that he devised for himself on intelligent days. The test takes the better part of an hour and is made up of mathematical problems. A trio of [[Stormwarden\|stormwardens]] consult regarding his answers and decide his intelligence for the day. The stormwardens as well as [[Mrall\|Mrall]], his head bodyguard, also decide if he is fit to rule and what restrictions he will be subject to. He is restricted to his room on both his worst and best of days because during both he tends to make irrational regulations.
 
-### Recipiente de Odium
->“*En verdad, es la combinación del talento de un recipiente y la Intención del poder lo que más deberíamos temer.*”
-\-Armonía[24]
+### Vessel of Odium
+>“*In truth, it would be a combination of a Vessel’s craftiness and the power’s Intent that we should fear most.*”
+\-Harmony[24]
 
 
-Rayse se asegura de visitar a Taravangian solamente en sus días estúpidos, pero eso no le impide a Taravangian planear y acabar matándolo, con un poco de ayuda de [[Sja-anat\|Sja-anat]] y usando a [[Sangre Nocturna\|Sangre Nocturna]].
-Después de tomar la Esquirla y convertirse en Odium, muestra algo de habilidad para controlar su Intención destructiva, y parece que ver el futuro se le da mejor que a Rayse.
-Tiene una conversación con Cultivación y decide en silencio arreglar el Cosmere y salvarlo de todos sus dioses rotos.
+Rayse is careful to visit Taravangian only on stupid days, but this does not prevent Taravangian from plotting and killing him, with some help from [[Sja-anat\|Sja-anat]], and using [[Nightblood\|Nightblood]].
+Upon taking up the Shard and becoming Odium, he shows some ability to control the Shard's destructive Intent, and he appears better at seeing the future than Rayse was.
+He converses with Cultivation and quietly resolves to fix the Cosmere, to save it from all its broken gods.
 
-## Historia
-### Antecedentes
-Cuando Taravangian nació, el cirujano dijo que tenía el . El cirujano hizo público que Taravangian podría tener una capacidad limitada y recomendó mantenerlo alejado en una casa de campo por el bien de los otros. Aunque la capacidad limitada no se hizo presente, esta reputación lo siguió el resto de su vida. Él y [[Adrotagia\|Adrotagia]] fueron amigos de la infancia y su apodo era Vargo. Taravangian conoció a [[Battar\|Battar]], un Heraldo que se hacía pasar por un [[Fervoroso\|fervoroso]] llamado Dova, que decía que la Auténtica Desolación se acercaba.
+## History
+### Background
+When Taravangian was born, the surgeon said he had a . This surgeon made public that Taravangian might have diminished capacity and the recommendation was to keep him on outer estates in favor of others. Though the diminished capacity was not present, the reputation followed him all his life.
+He was childhood friends with [[Adrotagia\|Adrotagia]] and his nickname was Vargo.
+Taravangian met [[Battar\|Battar]], a Herald posing as an [[Ardent\|ardent]] named Dova, who said that the True Desolation was close.
 
-### La Vigilante Nocturna y la creación del Diagrama
-Taravangian pidió a la [[Vigilante Nocturna\|Vigilante Nocturna]] la «capacidad para salvar a la humanidad». El don que recibió le dio una gran inteligencia y una gran compasión, pero la maldición hizo que nunca pudiera tener ambas al mismo tiempo. Como resultado, cada mañana se despierta con un nivel diferente de ambas. Recibió el don y la maldición de [[Cultivaci%C3%B3n\|Cultivación]] en vez de la Vigilante Nocturna.
-En su día más inteligente, «veinte horas de lúcida locura», cubrió todas las superficies de su dormitorio con jeroglíficos que inventó aquel mismo día. Ofrecieron un camino despiadado para la supervivencia de la humanidad, lo que él interpretó como el intento de la Vigilante Nocturna para salvar a la humanidad.
-[[Adrotagia\|Adrotagia]] y otras escribas transcribieron y anotaron la escritura en un libro. El libro recibió el nombre de [[Diagrama (literatura)\|Diagrama]]. Taravangian creó una sociedad secreta con el mismo nombre para interpretarlo y cumplir estas interpretaciones.
-Una de las primeras cosas que estudia son los [[Susurro de muerte\|susurros de muerte]]. Estos experimentos se realizaron en un hospital secreto escondido en su palacio, que contenía centenares de camas para personas con enfermedades terminales, pobres y que no se echarían de menos. Se les extraía la sangre para matarlos lentamente y los [[Recopiladores Silenciosos\|Recopiladores Silenciosos]] anotaban las frases crípticas pronunciadas en los segundos previos a la muerte. Gracias a los susurros de muerte, Taravangian quería obtener información con la que podría actualizar el Diagrama. Sabía que los causaba [[Moelach\|Moelach]], pero puede que los Recopiladores Silenciosos no.
+### The Nightwatcher and the creation of the Diagram
+Taravangian asked the [[Nightwatcher\|Nightwatcher]] for "the capacity to save humankind." He was granted the boon of great intelligence and great compassion, but the curse of not having them at the same time. As a result, he wakes up every morning with a fluctuation of both. This was granted by [[Cultivation\|Cultivation]] rather than the Nightwatcher.
+On his day of greatest genius, "20 hours of lucid insanity", he covered every surface of his bedroom in hieroglyphics he invented that day. They offered a brutal path for humanity's survival, which he believed to be the Nightwatcher's attempt to save humankind.
+The writing was transcribed and annotated into a book by [[Adrotagia\|Adrotagia]] and other scribes. The book came to be known as the [[Diagram (literature)\|Diagram]]. Taravangian created a secret society with the same name in order to aid in interpreting it, and then to fulfill those interpretations.
+One of the first things he studies are [[Death Rattle\|Death Rattles]]. These experiments were run at a secret hospital hidden in his palace, filled with hundreds of beds for the terminally ill, poor, and forgotten who would not be missed. The patients were slowly killed by draining their blood so the [[Silent Gatherer\|Silent Gatherers]] could record the cryptic sentences spoken in the seconds before death. Through these Death Rattles, Taravangian hoped to gain information with which he can update the Diagram. He was aware that they were caused by [[Moelach\|Moelach]], but the Silent Gatherers may not have been.
 
 ### Kharbranth
-  Con Shallan, Kabsal y Jasnah
-Durante una [[Alta tormenta\|alta tormenta]], la nieta de Taravangian quedó atrapada en una habitación del [[C%C3%B3nclave\|Cónclave]] cuando una gran roca cayó y obstruyó la entrada. El rey pidió la ayuda de [[Jasnah Kholin\|Jasnah Kholin]], que ya estaba en la ciudad, y le ofreció acceso al [[Palaneo\|Palaneo]] a cambio de usar su [[Moldeador de almas\|moldeador de almas]] para eliminar la roca. Hacer tratos con la princesa hereje fue una estrategia política peligrosa para Taravangian, puesto que se arriesgó a hacer enfadar al [[Fervor\|fervor]]. Ostensiblemente, Taravangian hizo el trato porque sus arquitectos no habrían tenido tiempo para cortar la roca antes de la siguiente alta tormenta y porque eliminar la roca con métodos convencionales conllevaba el riesgo de provocar más derrumbes en la zona. En realidad, Taravangian hubiera podido rescatar a su nieta solo, pero quería ver los poderes de Jasnah para confirmar sus sospechas de que era una [[Potenciador\|potenciadora]]. Antes de moldear la roca en humo, Jasnah recomendó que el rey y sus criados se alejaran hasta el final del pasillo para no estar tan cerca; pero Taravangian se negó, diciendo que no quería que su nieta pasara por esa experiencia sola. La princesa alezi procedió a moldear la roca en humo, lo que liberó a la nieta del rey, así como a sus ayas y otros sirvientes del palacio. Taravangian se ofreció para organizar un banquete para dar las gracias a Jasnah; sin embargo, ella lo rechazó y pidió ser llevada directamente al Palaneo para poder empezar su investigación.
-El incidente con la nieta de Taravangian fue planificado deliberadamente por el rey. Sospechaba que Jasnah podía moldear almas sin usar el fabrial que llevaba y diseñó una situación en la que él podría observarla. A pesar de sus motivos ocultos y después de haber puesto a su nieta en una situación peligrosa, estaba preocupado por su bienestar y no quería que le pasara nada.
-Unas semanas más tarde, Taravangian acompañó a [[Shallan\|Shallan]] y Jasnah para almorzar en el [[Palaneo\|Velo]]. Como respuesta a la pregunta de Jasnah, informó que su nieta se había recuperado de esa experiencia, aunque ahora evitaba los pasillos estrechos del Cónclave por si acaso. Curioso, preguntó a la princesa dónde había obtenido su moldeador, a lo que ella respondió que prefería no responder, confirmando aún más la hipótesis de que la moldeadora era ella. Él aceptó su rechazo y cambio de tema para hablar sobre Shallan y sus habilidades artísticas, que le habían dado una reputación notable en el Cónclave y el Palacio. Ella estuvo encantada de aceptar la petición de hacer un retrato del rey, que tenía intención de regalar a su nieta.
+  With Shallan , Kabsal, and Jasnah
+During a [[Highstorm\|highstorm]], Taravangian's granddaughter became trapped within a room in the [[Conclave\|Conclave]] when a large stone fell and obstructed the doorway. The king enlisted the help of [[Jasnah Kholin\|Jasnah Kholin]], who had already been in the city, offering her access to the [[Palanaeum\|Palanaeum]] in exchange for the use of her [[Soulcaster\|Soulcaster]] to remove the rock. Making a deal with the heretical princess was a dangerous political move on Taravangian's part as it risked angering the [[Ardentia\|ardentia]]. Ostensibly, Taravangian made the deal because his architects would not have time to cut through the boulder before the next highstorm arrived and because removing the boulder by conventional means would gave risked further cave-ins in the area. In actuality, Taravangian could have rescued his granddaughter on his own, but wanted to see Jasnah's powers in order to confirm his suspicions that she was a [[Surgebinder\|Surgebinder]]. Before Soulcasting the rock to smoke, Jasnah recommended that the king and his staff move to the end of the hall to be out of range; however, Taravangian refused, ostensibly out of a desire not leave his granddaughter to go through the ordeal alone. The Alethi princess then Soulcast the stone into smoke, freeing the king's granddaughter, along with the child's nursemaids and several palace servants. Taravangian offered to hold a feast as a way of thanking Jasnah; however, she declined instead requesting to be taken directly to the Palanaeum so she could begin her study.
+The incident with Taravangian's granddaughter had been deliberately planned by the king. He suspected Jasnah was using means to soulcast that did not include the use of the fabrial she carried and intentionally engineered a scenario where he could observe her work. Despite his ulterior motives, he was concerned for his granddaughter's well-being and did not want her to be harmed, despite putting her in a dangerous situation.
+Weeks later, Taravangian joined [[Shallan\|Shallan]] and Jasnah for lunch on their balcony in the [[Palanaeum\|Veil]]. In response to Jasnah's inquiry, he reported that his granddaughter had recovered from her ordeal, though now avoided the narrower passageways of the Conclave in case of a repeat incident. Curious, he asked the princess where she had acquired her Soulcaster, further confirming his hypothesis that she "was" the Soulcaster when she declined to answer. He acknowledged her refusal and turned the subject towards Shallan and her artistic skills, which had earned her quite the reputation in the Conclave and Palace. She was all too happy to fulfill the king's request for a portrait, which he intended to give as a gift to his granddaughter.
 
-  Siendo dibujado por <<Shallan\|Shallan>>
-Mientras Shallan dibujaba, el rey entabló otra conversación con Jasnah, esta vez sobre religión y sobre el hecho de que Jasnah no tuviera fe. Le costaba comprender cómo podía diferenciar entre el bien y el mal cuando era el [[Todopoderoso\|Todopoderoso]] quien dictaba el bien. Jasnah argumentó que el bien y el mal no deberían depender de la voluntad de un ser invisible. Para ella, la moralidad y la voluntad humana eran tan independientes de la religión como de las matemáticas. Taravangian terminó por decir que no estaba de acuerdo con la erudita, aunque admiraba la eficiencia de sus argumentos. Jasnah explicó que no tenía intención de intentar convertirlo a sus creencias, a diferencia de los miembros del fervor, que habían intentado convertirla una y otra vez.
-Shallan, que se había quedado absorta por la conversación, se dispuso a terminar su dibujo del rey, pero entonces se dio cuenta de que había añadido varios [[Cr%C3%ADpticos\|crípticos]] en el fondo de su dibujo sin querer. Destruyó el dibujo y prometió a Taravangian que le haría otro antes de que acabara el día. Poco después, Taravangian se excusó porque tenía que visitar uno de los muchos hospitales que había establecido en [[Kharbranth\|Kharbranth]]. Después de que se fuera, Jasnah amonestó a Shallan por llamar al rey aburrido y le dijo que no volviera a referirse a él de tal forma. Admiraba profundamente a ese hombre, puesto que le recordaba a [[Dalinar\|Dalinar]] y encontraba a ambos formales y sinceros.
-Después de que varias personas fueran asesinadas en el distrito del teatro de Kharbranth, Taravangian intervino con la esperanza de que la guardia de la ciudad pudiera hacer algo al respeto. Sus esfuerzos fallaron y pese a las reprimendas, la guardia siguió ignorando la sección de la ciudad que estaba siendo aterrorizada por criminales. Al final, Jasnah decidió eliminar a los criminales; caminó por la ciudad de noche con Shallan y acabó a propósito en una situación en la que serían atacadas. Después de matar a los hombres moldeando sus almas, Jasnah explicó a Shallan que lo había hecho como servicio al rey, puesto que creía que se habían aprovechado de él. Estaba preocupada porque creía que Taravangian no se daba cuenta del peligro que corría al darle la bienvenida a la ciudad, de modo que hacía lo que podía para ayudarlo.
-Unas semanas más tarde, Taravangian visitó a Shallan en el hospital después de su supuesto intento de suicidio. Taravangian visitaba los hospitales de Kharbranth por lo menos una vez por semana, algo que los pacientes agradecían. Durante sus visitas, se sentaba y hablaba con cada paciente, poniéndose al día sobre su progreso y haciendo lo que podía para ayudar. Shallan alabó al rey y la excelencia de los hospitales de Kharbranath, un logro del que el hombre estaba muy orgulloso. Taravangian rechazó la petición de Shallan de conseguir el alta del hospital. Sin embargo, antes de irse, le permitió que recibiera visitas. Fuera de la sala, Taravangian se encontró con Jasnah, que había estado estudiando en la sala de espera. Le explicó que Shallan ya podía recibir visitas y le comunicó las noticias de que había decidido volver con su familia antes de dejar que la visitara.
-[[Szeth\|Szeth]], el [[Asesino de Blanco\|Asesino de Blanco]], viajó a Kharbranth con órdenes de matar al rey después de causar destrucción por [[Jah Keved\|Jah Keved]]. El asesino tenía instrucciones de explícitas sobre cómo matar al rey: tenía que ser silenciosamente, sin ninguna muerte adicional, y el rey solo podía morir después de reconocer las intenciones de Szeth. Taravangian hizo caso omiso de la declaración de Szeth cuando lo confrontó, y le habló sobre el caos y la destrucción que el asesino había causado. Le reveló que él había sido el amo oculto del asesino y estaba en posesión de la [[Piedra Jurada\|Piedra Jurada]]. Taravangian también había puesto su nombre en la lista de Szeth deliberadamente para evitar que cayeran sospechas sobre él. Enseñó su hospital oculto a Szeth, y el presenció las atrocidades que el rey de Khrabranth estaba cometiendo para maximizar su acceso a los . Taravangian admitió libremente sus horribles acciones antes de ordenar a Szeth que se dirigiera a [[Las Llanuras Quebradas\|las Llanuras Quebradas]] para acabar con la vida de Dalinar Kholin.
+  Being drawn by <<Shallan\|Shallan>>
+While Shallan drew, the king struck up conversation again with Jasnah, this time about religion and the Jasnah's lack of faith. He had trouble understanding how she could differentiate between right and wrong when what was right was a dictate of the [[Almighty\|Almighty]]. Right and wrong, Jasnah argued, shouldn't be subject to the will of an unseen being. To her, morality and human will were as independent from religion as mathematics. Taravangian ultimately claimed to disagree with the scholar, though he did admire the efficiency of her arguments. Jasnah explained that she had no intention of trying to convert him to her beliefs, unlike those in the ardentia, who had repeately tried to convert her.
+Shallan, who had been engrossed in the conversation, went to finish her drawing of the king, however, found that she had added several [[Cryptic\|Cryptics]] to the background of her sketch by accident. She destroyed the drawing, promising Taravangian that she would do him another by the end of the day. Shortly after, Taravangian excused himself so he could visit one of the many hospitals that he had established in [[Kharbranth\|Kharbranth]]. After he took his leave, Jasnah chided Shallan for calling the king dull and told her that she was not to refer to him in that manner. She deeply admired the man who reminded her of her uncle [[Dalinar\|Dalinar]] and found them both to be earnest and sincere.
+After several people were killed in the theater district of Kharbranth, Taravangian stepped in, hoping that he could prompt the city watch into action. His efforts failed and despite the reprimands, the watch continued to ignore the section of the city that had been terrorized by criminals. Eventually, Jasnah took it upon herself to remove the criminals, traveling into the city late at night with Shallan and purposely putting them in a situation where they would be attacked. After she killed the men using Soulcasting, Jasnah explained to Shallan that she had done so as a service to the king of whom she felt she had taken advantage. She worried that Taravangian did not realize the danger he had put himself in by welcoming her to his city and did what she could to help him.
+Weeks later, Taravangian visited Shallan in the hospital after her supposed suicide attempt. Taravangian visited the hospitals of Kharbranth at least once a week and was a welcomed sight for those admitted on the ward. During his visits he would sit and talk with each patient, checking on their progress, and doing what he could to help. Shallan complimented the king on the greatness of Kharbranth's hospitals, an accomplishment of which the man was extremely proud. Taravangian denied Shallan's request to be released from the hospital. However, before he left, did grant her wish for visitation rights. Outside the ward, Taravangian ran into Jasnah who had been studying in the waiting room. He explained that Shallan could now receive visitors and passed on the news that she had decided to return to her family's estate before leaving the princess to visit with her student.
+[[Szeth\|Szeth]], the [[Assassin in White\|Assassin in White]], traveled to Kharbranth with orders to kill the king after causing destruction throughout [[Jah Keved\|Jah Keved]]. The assassin had explicit instructions on how the king was to be killed: it was to be done quietly, without any additional deaths and the man was only to die after he acknowledged Szeth's intent. Taravangian ignored Szeth's declaration when confronted, instead speaking to him of the chaos and destruction the assassin had caused. He revealed to Szeth that he had been the assassin's hidden master and was in possession of the man's [[Oathstone\|Oathstone]]. Taravangian had also deliberately put his own name on Szeth's list to deflect suspicion from himself. He took Szeth to his hidden hospital, where Szeth witnessed the atrocities the king of Kharbranth was committing to maximize access to the [[Death Rattle\|Death Rattles]]. Taravangian freely admitted to the monstrous acts he had committed before commanding Szeth to seek out Dalinar Kholin on the [[Shattered Plains\|Shattered Plains]] and end his life.
 
-  Con el <<Diagrama (literatura)\|Diagrama>>
-### Rey de Jah Keved
-El [[Diagrama (literatura)\|Diagrama]] le mostró a Taravangian que tenía que unir [[Roshar\|Roshar]] bajo su reino para salvar a la humanidad. El primer paso fue Jah Keved y según esos escritos tenía que hacerse con la Piedra Jurada de Szeth. Después de conseguirla, ordenó a Szeth matar a una serie de líderes del mundo, incluyendo a [[Hanavanar\|Hanavanar]], el rey de Jah Kever, y a varios altos príncipes de Jah Keved. El vacío de poder en Jah Keved resultó en una guerra de sucesión devastadora que acabó con los altos príncipes que quedaban. Taravangian llegó a la ciudad a tiempo para presenciar la muerte del último alto príncipe veden, [[Valam\|Valam]], quien lo nombró rey de Jah Keved. Taravangian pudo llevar a cabo sus planes sin que nadie sospechara de su intervención. Creyeron que Valam le había dado el título por rencor y aceptaron a Taravangian como rey.
+  With the <<Diagram (literature)\|Diagram>>
+### King of Jah Keved
+The [[Diagram (literature)\|Diagram]] showed that Taravangian needed to unite [[Roshar\|Roshar]] under his rule in order to save mankind. The first path was Jah Keved, and per the scripts he needed to gain possession of Szeth's Oathstone. After he was able to do so, he ordered Szeth to kill a number of world leaders, including [[Hanavanar\|Hanavanar]], the king of Jah Keved, and various other highprinces of Jah Keved. The power vacuum in Jah Keved resulted in a devastating succession war which wiped out all of the remaining highprinces. Taravangian arrived at the city in time for the death of the last Veden Highprince, [[Valam\|Valam]], who named him king of Jah Keved. Taravangian was able to fulfill his plot without anyone suspecting his intervention. They believed he was given the title as an act of spite from Valam and accepted Taravangian as king.
 
-### Coalición roshariana de Dalinar
-Una de las interpretaciones del Diagrama resultó en la petición de matar a Dalinar, y Taravangian envió a Szeth para hacerlo. Durante la [[Batalla de Narak\|Batalla de Narak]], Szeth los persiguió pero fue vencido por [[Kaladin\|Kaladin]]. Poco después, Szeth descubrió que no era [[Sinverdad\|Sinverdad]] y abandonó su [[Piedra Jurada\|Piedra Jurada]], lo que rompió su lealtad hacia Taravangian. Después de este fracaso, Taravangian decidió acercarse a Dalinar y fue el primer rey que se unió a él. Cuando se dio cuenta de que ningún otro rey quería ser parte de la [[Coalici%C3%B3n de monarcas\|coalición]], recomendó recurrir a la invasión. Después de quedar sorprendido al ver la estrategia de negociación de Dalinar, estuvo de acuerdo en seguirlo y al final se trasladó a [[Urithiru\|Urithiru]].
-Aunque fingía colaborar con Dalinar, en realidad quería ganar ventaja política: revitalizó el mercado gracias a las provisiones de Jah Keved, su [[Caballeros Radiantes\|Caballera Radiante]] [[Malata\|Malata]] ayudó a operar la [[Puerta Jurada\|Puerta Jurada]] y envió barcos comerciantes a Ciudad Thaylen con sanadores. Compartió sus conocimientos sobre los [[Fabrial\|fabriales]] con [[Navani\|Navani]] y les enseñó tecnología que les permitirían crear [[Semiesquirla\|semiesquirlas]]. Después de tener un día relativamente brillante, decidió que el mejor plan de acción era tomar del lugar de Dalinar en la coalición y a continuación conseguir que se derrumbara. Creía que eso haría que [[Odium\|Odium]] estuviera de acuerdo con sus tratos para poder «salvar lo que pudiera y abandonar el resto». Aunque no requerían su presencia en los consejos de guerra en los que se planeaban las defensas de Jah Keved, él planeaba cómo encontrar secretos que pudieran destruir a Dalinar. Envió a [[Chispa\|Chispa]], el spren de su Radiante, para que lo espiara y, junto a sus eruditos y otros seguidores del Diagrama, lo consiguió. Durante una reunión con todos los representantes de los otros reinos en la que determinaron que el enemigo atacaría Ciudad Thaylen, atacó el alto príncipe revelando tres hechos:
+### Dalinar's coalition of Roshar
+One of the Diagram's interpretations resulted in the request to kill Dalinar, and Taravangian sent Szeth to kill him. During the [[Battle of Narak\|Battle of Narak]], Szeth went after him but was beaten by [[Kaladin\|Kaladin]]. Shortly after, Szeth discovered he was not [[Truthless\|Truthless]] and forsook his [[Oathstone\|Oathstone]], breaking his allegiance with Taravangian. After this failure, Taravangian decided to move closer to Dalinar. He was the first king to unite with Dalinar. When he found out no other king would be part of the [[Coalition of monarchs\|coalition]], he recommended invasion. After his surprise at Dalinar's negotiation strategy, he agreed to follow him and eventually moved with him to [[Urithiru\|Urithiru]].
+While he pretended to work with Dalinar, he secretly plotted to gain political advantage: he burst the market by sending supplies via Jah Keved; he had his [[Knight Radiant\|Knight Radiant]] [[Malata\|Malata]] working the [[Oathgate\|Oathgate]]; and he sent merchant ships to Thaylen City with healers. He shared their knowledge in [[Fabrial\|fabrials]] with [[Navani\|Navani]], and let them know of technology that will create [[Half-shard\|half-shards]]. After having a relatively brilliant day, he decided that the best action was to take Dalinar's place on the coalition and afterwards push for its collapse. He believed this would make [[Odium\|Odium]] meet his agreements and save "what he can, abandon the rest." Though he was dismissed or not needed in the war councils where the defenses for Jah Keved were being planned, he was plotting to find secrets that would destroy Dalinar. He sent his Radiant's spren, [[Spark\|Spark]], to spy on him, and, along with his scholars and other Diagram followers, was able to succeed. During a meeting with all the other kingdoms' representatives in which they determined the enemy would strike Thaylen City, he struck against the highprince by leaking three facts:
+1) [[Elhokar\|Elhokar]] had sworn to Dalinar as High King, and though this was an Alethi political tactic, some other kingdoms felt threatened that Dalinar would ask the same from them. This eroded Fen's faith in the coalition, though she stayed with Dalinar because she would prefer him to lead than the Voidbringers.
+2) Dalinar had a vision in which Odium threatened to destroy the world. This caused conflict concerning the use of powers that can't be controlled, in this case, Dalinar's. This caused [[Yanagawn\|Yanagawn]] to break off the alliance.
+3) The translation of the [[Dawnchant\|Dawnchant]] proved that the original [[Voidbringers\|Voidbringers]] were humans, putting the war's legitimacy in question and giving Taravangian an excuse to "lose faith" in the war effort.
+These revelations were enough to destroy most of the coalition, with only the [[Fen\|Thaylen queen]] staying with Dalinar.
 
+### Battle of Thaylen Field and Aftermath
+Taravangian was decided to ensure Dalinar's failure at Thaylenah. By the time Odium strikes them, he and his people had already left and had retrieved their ships. He also wrote to the singers and opened the gate to Urithiru to attack there and prevent them from sending help to the Thaylens.
+Much to Taravangian's surprise, Dalinar and his allies win the battle. He comes clean on several points, including his plotting to take the throne of Jah Keved, his usage of Szeth, and knowledge of the Desolation. He however kept to himself the existence of the Diagram and that he brought the singers to Urithiru. Though Dalinar would never again trust him as before, this does clear the air and their relationship is not fully broken.
+Eight days after the battle, on a day of below average intelligence, he received a vision from Odium, who took a tall form reminiscent of the [[Shin\|Shin]] with a scepter in his hand. Taravangian tried to convince Odium that he only wanted to serve him and begs him to visit him another day, but Odium sees through him immediately and orders him not to prostrate himself. He then asked Taravangian why he would be inclined to speak with the king on a day of intelligence, thereby allowing him to negotiate from a position of power, declaring that such an event would never happen.
+Taravangian then offered a deal to Odium, knowing the god couldn't afford to face Dalinar directly again for fear of losing a previously declared contest of champions. The agreement would trade his help by sharing the Diagram's information (though he could not read [[Renarin\|Renarin's]] participation) and giving him the Honorblade in exchange for sparing the people of Kharbranth (the city itself, any humans born into it, and their spouses). Odium accepted, placing Taravangian and the Diagram firmly under the control of Dalinar's enemy.
 
-Estas revelaciones fueron suficientes para destruir la mayor parte de la coalición hasta el punto que solo la [[Fen\|reina thayleña]] se quedó con Dalinar.
+  Being killed by <<Szeth\|Szeth>>
+### Betrayal and Imprisonment
+A year later, Taravangian distanced himself from Kharbranth and his fellow Diagram members in preparation of being contacted by Odium, who commanded him to have his forces betray Dalinar's on their campaign in [[Emul\|Emul]]. As Taravangian expected, the betrayal is swiftly dealt with and Dalinar has him arrested and imprisoned.
+Dalinar, wishing to see the good in Taravangian, did not immediately execute him, instead keeping him prisoner in a well-furnished home where Taravangian's requests were cared for. During this time, Taravangian's mental state deteriorated, and he spent more days in his cognitively impaired, compassionate state. He was visited by Szeth and Renarin, but was too slow to carry on a conversation, and believed that he failed at his plan of manipulating Szeth. Dalinar eventually declared that he was not to be executed, and instead sentenced him to lifelong imprisonment so that he could prove to Taravangian that the [[Coalition of monarchs\|coalition]] was capable of defeating Odium.
+Taravangian, however, realized that he could kill Odium himself, guessing that if Szeth saw the Shard manifesting, he would strike out with Nightblood. He had also figured out that the future of anyone close to Renarin would be obscured to Odium, due to the fact that both of their methods of seeing the future used [[Fortune\|Fortune]]. Consequently, he requested that Dalinar bring him an Oathstone so that Szeth would come to his prison with the intent of killing him. He also asked [[Sja-anat\|Sja-anat]] for a way to ensure that Odium arrived at the same time as the assassin and, knowing that Odium was tracking her corrupted spren, she sent him two gemstones with corrupted windspren.
 
-### Batalla de la Explanada Thayleña y consecuencias
-Taravangian decidió asegurar el fracaso de Dalianr en Thaylenah. Cuando Odium los atacó, él y su gente ya se habían marchado y retirado sus barcos. También escribió a los cantores y abrió la puerta a Urithiru para atacar allí y evitar que los thayleños recibieran ayuda.
-Por sorpresa de Taravangian, Dalinar y sus aliados ganaron la batalla. Confiesa su papel en varios temas, como sus planes para ocupar el trono de Jah Keved, su uso de Szeth y su conocimiento sobre la Desolación. Sin embargo, se guarda la existencia del Diagrama y su papel en la llegada de los cantores a Urithiru. Aunque Dalinar nunca volvería a confiar en él como antes, eso arregla un poco las cosas y su relación no se rompe del todo.
-Ocho días después de la batalla, en un día de inteligencia inferior a la media, recibió una visión de Odium, que tomó una forma alta que recordaba a los [[Shin\|shin]] con un cetro en la mano. Taravangian intentó convencerlo de que él solo quería servirlo y le pidió que lo visitara otro día, pero Odium se dio cuenta de lo que quería inmediatamente y le ordenó que no se postrara. A continuación le preguntó por qué tendría que hablar con él en un día de inteligencia, algo que le permitiría negociar desde una posición de poder, y declaró que algo así nunca ocurriría.
-Entonces Taravangian ofreció un trato a Odium, puesto que sabía que el dios no podía enfrentarse con Dalinar directamente de nuevo por miedo de perder el desafío de campeones declarado previamente. Según el trato, a cambio de su ayuda compartiendo la información del Diagrama (aunque no podía leer la participación de [[Renarin\|Renarin]]) y dándole la Hoja de Honor, la gente de Kharbranth (la ciudad, cualquier humano nacido allí y su cónyuge) se salvaría. Odium aceptó, lo que colocó a Taravangian y el Diagrama bajo el control firme del enemigo de Dalinar.
+  Using <<Nightblood\|Nightblood>> to destroy <<Rayse\|Rayse>>
+Just as Taravangian had plotted, Szeth entered his house, intending to kill him. As Szeth was reaching for his knife, Odium arrived and pulled Taravangian's mind out of the [[Physical Realm\|Physical Realm]]. Still next to Szeth in the Physical Realm, Taravangian reached for the manifestation of [[Nightblood\|Nightblood]] in the vision and used the weapon to attack Odium. Szeth then killed Taravangian, but before he could pass into the [[Beyond\|Beyond]], Nightblood consumed [[Rayse\|Rayse]], the original Vessel of Odium. As Taravangian was having his least intelligent day yet, his emotions ran rampant, giving him an Intent very similar to that of the Shard, allowing him to Ascend to become the new Vessel of Odium.
 
-  Muriendo a manos de <<Szeth\|Szeth>>
-### Traición y encarcelamiento
-Un año después, Taravangian se distanció de Khrabranth y sus compañeros del Diagrama para prepararse para recibir el contacto de Odium, quien le ordenó que sus fuerzas traicionaran a las de Dalinar en su campaña en [[Emul\|Emul]]. Tal como Taravangian esperaba, Dalinar resolvió rápidamente la traición y lo arrestó y encarceló.
-Dalinar, que quería ver la bondad de Taravangian, no lo ejecutó inmediatamente, sino que lo mantuvo prisionero en una casa bien amueblada donde Taravangian tenía todo lo que pedía. Durante este tiempo, el estado mental de Taravangian se deterioró, y pasó más días en su estado mentalmente discapacitado y compasivo. Recibió visitas de Szeth y Renarin, pero estaba demasiado lento para tener una conversación, y pensaba que había fracasado en su plan de manipular a Szeth. Al final, Dalinar declaró que no sería ejecutado, sino que lo sentenciaría a cadena perpetua para poder demostrar a Taravangian que la [[Coalici%C3%B3n de monarcas\|coalición]] podía derrotar a Odium.
-Sin embargo, Taravangian se dio cuenta de que él mismo podía matar a Odium, puesto que pensó que si Szeth veía a la esquirla manifestándose, atacaría con Sangre Nocturna. También había llegado a la conclusión que el futuro de cualquier persona cerca de Renarin estaría oscurecido a ojos de Odium, puesto que los métodos de ambos para ver el futuro usaban [[Fortuna\|Fortuna]]. En consecuencia, pidió a Dalinar que le llevara una Piedra Jurada para que Szeth viniera a su prisión para matarlo. También pidió a  que se asegurara de que Odium llegara al mismo tiempo que el asesino y ella, sabiendo que Odium estaba vigilando a sus spren corrompidos, le mandó dos gemas con vientospren corrompidos.
+### Vessel of Odium
+After his Ascension, Taravangian conversed with [[Cultivation\|Cultivation]], who explained some of the nature of his new power. Taravangian intends to expand Odium's influence throughout the cosmere after his and Dalinar's contest of champions is settled, regardless of the outcome.
 
-  Usando <<Sangre Nocturna\|Sangre Nocturna>> para destruir a <<Rayse\|Rayse>>
-Justo como Taravangian lo había planeado, Szeth entró en la casa con la intención de matarlo. Mientras Szeth se disponía a tomar su cuchillo, Odium llegó y sacó la mente de Taravangian del [[Reino F%C3%ADsico\|Reino Físico]]. Aún al lado de Szeth en el Reino Físico, Taravangian tomó la manifestación de [[Sangre Nocturna\|Sangre Nocturna]] en la visión y usó el arma para atacar a Odium. Entonces, Szeth mató a Taravangian, pero antes de entrar al [[M%C3%A1s All%C3%A1\|Más Allá]], Sangre Nocturna consumió a [[Rayse\|Rayse]], el Recipiente original de Odium. Taravangian estaba en su día menos inteligente hasta el momento, lo que hacía que sus emociones estuvieran desenfrenadas y, por lo tanto, tuviera una Intención muy similar a la de la esquirla. Eso le permitió Ascender y convertirse en el nuevo Recipiente de Odium.
-
-### Recipiente de Odium
-Después de su Ascensión, Taravangian conversó con [[Cultivaci%C3%B3n\|Cultivación]], que le explicó un poco sobre la naturaleza de su nuevo poder. Taravangian quiere expandir la influencia de Odium por todo el Cosmere después de resolver el desafío de campeones entre él y Dalinar, sea cual sea su resultado.
-
-Para los sucesos posteriores, ver [[/wiki/Odium#History]].
-## Relaciones
+For the subsequent events, see [[/wiki/Odium#History]].
+## Relationships
 ### Adrotagia
-[[Adrotagia\|Adrotagia]] es la escriba jefe de Taravangian y su amiga más íntima. Han sido amigos durante 73 años, desde que eran niños. Incluso en sus días geniales es consciente de la inteligencia de ella. Le tiene mucho cariño.
+[[Adrotagia\|Adrotagia]] is Taravangian's head scribe and closest friend. They have been friends for 73 years, since they were children. Even on his days of genius he is aware of her intelligence. He has real fondness for her.
 
 ### Malata
-[[Malata\|Malata]] es una guardaespaldas veden y [[Portador del Polvo\|Portadora del Polvo]]. Trabaja para él y sigue sus instrucciones, pero ha declarado que ella «no es suya» y están allí porque su spren [[Chispa\|Chispa]] había sugerido visitar [[Urithiru\|Urithiru]] ahora que había sido descubierta.
+[[Malata\|Malata]] is a Veden bodyguard and [[Dustbringer\|Dustbringer]]. She works for him and follows his lead, however she had said that she "is not his" and they were there because her spren [[Spark\|Spark]] suggested visiting [[Urithiru\|Urithiru]] now that it has been rediscovered.
 
 ### Rayse
-Taravangian es totalmente consciente del poder de [[Odium\|Odium]]. El día en el que Taravangian creó el Diagrama, esbozó planes para salvar a la humanidad de Odium. Pero ese mismo día, también anticipó su confrontación directa con Odium después de la Batalla de la Explanada Thayleña, y escribió instrucciones para la versión futura y más estúpida de Taravangian. Explicó que después de acordar el desafío de campeones, Odium necesitaría que se hiciera lo que él decía para evitar ser presionado a participar en un desafío que podría perder. Taravangian hace un trato con Odium, intercambiando la ayuda del [[Diagrama (grupo)\|Diagrama]] y la Hoja de Honor con la promesa de salvar a Kharbranth y su gente. Odium se fija en su energía, diciento «Tu Pasión te honra».
+Taravangian is fully aware of [[Odium\|Odium's]] power. On the day Taravangian created the Diagram, he drafted out plans to save humanity from Odium. But on the same day, he also anticipated his direct confrontation with Odium after the Battle of Thaylen Field, and wrote down instructions for the future and dumber version of Taravangian on that day to follow. He explained that after the contest of champions was agreed, Odium would need people to do his bidding lest he get pressed into a duel he may lose. Taravangian makes a deal with Odium, trading the help of the [[Diagram (group)\|Diagram]] and the Honorblade in exchange for sparing the people of Kharbranth. Odium comments on his drive, saying, "Your passion does you credit".
 
-### Nietos de Taravangian
-Taravangian tiene tres nietos que le escriben. No son conscientes de la existencia del Diagrama ni de sus planes. El mayor es [[Gvori\|Gvori]], aceptado en la Escuela de las Tormentas, la mediana es [[Karavaniga\|Karavaniga]], aceptada como pupila, y la pequeña es [[Ruli\|Ruli]]. Tiene otra [[Nieta de Taravangian\|nieta]] que quedó atrapada cuando se derrumbó un pasillo, lo que él tomó como oportunidad para ver como [[Jasnah Kholin\|Jasnah Kholin]] usaba su [[Moldeador de almas\|moldeador de almas]]. A pesar de sus motivos ocultos, estaba preocupado por su bienestar y no quería que saliera herida.
+### Taravangian's Grandchildren
+Taravangian has three grandchildren who write to him. They are oblivious to the Diagram and his plans. The eldest is [[Gvori\|Gvori]], accepted at the school of storms, [[Karavaniga\|Karavaniga]], the middle accepted forwardship and little [[Ruli\|Ruli]]. He has another [[Taravangian's granddaughter\|granddaughter]] who became trapped in a rockslide, which he took as an opportunity to see [[Jasnah Kholin\|Jasnah Kholin]] use her [[Soulcaster\|Soulcaster]]. Despite his ulterior motives, he was concerned for her wellbeing and did not want her to be harmed.
 
-## Citas
->“*Nuestras leyes siguen cobrándose la vida de inocentes, pues los jueces son imperfectos, al igual que nuestro conocimiento. Tarde o temprano, sin remedio, vas a ejecutar a alguien que no lo merezca. Es el peso con que debe cargar la sociedad a cambio del orden.*”
-\-Taravangian a Dalinar sobre la ejecución de tres asesinos y un inocente[17]
-
-
->“*Vigilante Nocturna, la victoria de Odium significará también tu muerte. ¿No podrías haberme concedido el don sin maldecirme?*”
-\-Taravangian reflexionado solo[37]
+## Quotes
+>“*Our law will claim innocent men-for all judges are flawed, as is our knowledge. Eventually, you will execute someone who does not deserve it. This is the burden society must carry in exchange for order.*”
+\-Taravangian to Dalinar on executing three murderers and one innocent[17]
 
 
-## Curiosidades
-Lo que le ocurre a Taravangian aumenta varios tipos de inteligencia, no solamente «velocidad de procesamiento». Si alguien decanta suficiente cinc feruquímico podría conseguir algo similar pero no exactamente igual.
-Taravangian era sordo en el borrador original de *El camino de los reyes Prime*. Brandon eliminó esta parte del personaje porque pensó que lo había hecho mal.
-Taravangian sería peor presidente de los Estados Unidos que [[Rashek\|Rashek]].
-## Notas
-|Antecesor  **Desconocido**|**Rey de[[Kharbranth\|Kharbranth]]** |Sucesor  **[[Savrahalidem\|Savrahalidem]]**|
-|-|-|
-
-|Antecesor  **[[Valam\|Valam]]**|**Rey de [[Jah Keved\|Jah Keved]]** |Sucesor  ****|
-|-|-|
+>“*Nightwatcher, Odium's victory will kill you too. Couldn't you gift me and not curse me?*”
+\-Taravangian reflecting alone[37]
 
 
-|Antecesor  **[[Rayse\|Rayse]]**|**Recipiente de[[Odium\|Odium]]** |Sucesor  ***Titular actual***|
-|-|-|
+## Trivia
+What happens to Taravangian increases multiple types of intelligence, not just raw 'processing power'. Someone tapping enough feruchemical zinc could achieve something similar but not quite the same.
+Taravangian was deaf in the original draft of Way of Kings Prime. Brandon removed this part of Taravangian's character as he thought he had done it poorly.
+Taravangian would make a worse President of the United States than [[Rashek\|Rashek]].
 
 
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
-|-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] ·  · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
-
-
-
-https://es.coppermind.net/wiki/Taravangian
+https://coppermind.net/wiki/Taravangian

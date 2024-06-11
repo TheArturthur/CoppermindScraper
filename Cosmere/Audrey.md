@@ -1,11 +1,11 @@
 |**Audrey**|
 |-|-|
-|**Grupos**|[[Aspecto\|Aspectos]]|
-|**Mundo natal**|[[Tierra (Legi%C3%B3n)\|Tierra (Legión)]]|
+|**Groups**|[[Aspect\|Aspect]]|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
-**Audrey** is one of [[Stephen Leeds\|Stephen Leeds]]' ; an expert on handwriting and cryptography.
+**Audrey** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]]; an expert on handwriting and cryptography.
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -51,16 +51,6 @@ She is not one of Stephen's closest aspects, usually staying home while Stephen,
 \-Audrey to Stephen on wearing a scarf in June.[2]
 
 
-## Notes
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[Legi%C3%B3n (saga)\|Legión]]**|
-|-|-|
-|**Personajes**|[[Stephen Leeds\|Stephen Leeds]] · [[Wilson\|Wilson]] · [[Monica\|Monica]] · [[Balubal Razon\|Balubal Razon]] · [[Yol Chay\|Yol Chay]] · [[Zen Rigby\|Zen Rigby]] · [[Dion Maheras\|Dion Maheras]] · [[Sandra\|Sandra]] · [[Barb\|Barb]] · [[Kyle Walters\|Kyle Walters]]|
-|**[[Aspecto\|Aspectos]]**|[[Ivy\|Ivy]] · [[J.C.\|J.C.]] · [[Tobias\|Tobias]] · [[Kalyani\|Kalyani]] ·  · [[Ngozi\|Ngozi]] · [[Jenny\|Jenny]]|
-|**Otros**|[[Laboratorios Azari\|Laboratorios Azari]] · [[Innovaci%C3%B3n e Informaci%C3%B3n Incorporada\|Innovación e Información Incorporada]] · [[Exeltec\|Exeltec]] · [[Wode\|Wode]]|
 
 
-
-https://es.coppermind.net/wiki/Audrey
+https://coppermind.net/wiki/Audrey

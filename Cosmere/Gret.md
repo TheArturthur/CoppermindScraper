@@ -1,53 +1,37 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gret**|
 |-|-|
-|**Familia**|
-|**Padres**|[[Sor\|Sor]]|
-|**Residencia**|[[Punta de Diggen\|Punta de Diggen]]|
-|**Mundo natal**|[[Lumar\|Lumar]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*|
+|**Family**|
+|**Parents**|[[Sor\|Sor]]|
+|**Residence**|[[Diggen's Point\|Diggen's Point]]|
+|**Homeworld**|[[Lumar\|Lumar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+**Gret** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. She assists [[Tress\|Tress]] escape **The Rock.** 
 
-**Gret** es una ciudadana de [[Punta de Diggen\|Punta de Diggen]] en [[Lumar\|Lumar]]. Ayuda a [[Trenza\|Trenza]] a escapar de **la Roca**. 
+## Contents
 
-## Sumario
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
 
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-
-2. [[#Punta de Diggen y la fuga de Trenza]] 
-2. [[#Regreso de Trenza]] 
+2. [[#Diggen.27s Point and Tress.27 Escape]] 
+2. [[#Tress Return]] 
 
 
-3 Notas. [[#Notas]] 
+3 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-**Gret** es una mujer joven de pelo negro. Es lo bastante delgada y pequeña para caber cómodamente en un barril de cerveza y aún así tener espacio para aislar el interior con plumas.
+## Appearance and Personality
+**Gret** is a young, raven-haired woman. She is slight and small enough to fit comfortably in an ale barrel, and still have room to insulate the inside with feathers.
 
-## Historia
-### Punta de Diggen y la fuga de Trenza
-Gret, como la mayoría de los residentes de [[Punta de Diggen\|Punta de Diggen]], vivió en **la Roca** durante la mayor parte de su vida. Al igual que a los que vivían allí con ella, no se le permitía marcharse.
-Participó en el plan para ayudar a [[Trenza\|Trenza]] a escapar a bordo del *[[Sue%C3%B1o de Oot\|Sueño de Oot]]* escondiéndose en un barril de cerveza lleno de plumas para amortiguar su respiración y ocultarla de la [[Inspectora\|inspectora]]. Fue descubierta por la inspectora y se le dijo que su traición sería comunicada al [[Rey glauco\|rey glauco]]. Sin embargo, ella; junto con [[Ladrillo\|Ladrillo]], [[Gremmy\|Gremmy]] y su padre [[Sor\|Sor]] sabían que esto era una treta, ya que el inspector, era en realidad Trenza disfrazada. Cuando Trenza embarcó en el *Sueño de Oot* y zarpó, se escabulló silenciosamente. Las únicas personas que sabían de su participación eran Trnzas, Gremmy, Ladrillo y su padre.
+## History
+### Diggen's Point and Tress' Escape
+Gret, like most residents of [[Diggen's Point\|Diggen's Point]], lived on **The Rock** for most of her life. Similar to those that lived there with her, she was not allowed to leave.
+She took part in the plan to help [[Tress\|Tress]] escape aboard the *[[Oot's Dream\|Oot's Dream]]* by hiding herself in an ale barrel full of feathers to muffle her breathing, and hide her from the [[Inspector\|Inspector]]. She was discovered by the Inspector and told that her betrayal would be reported to the [[Verdant King\|Verdant King]]. However, she; along with [[Brick\|Brick]], [[Gremmy\|Gremmy]] and her father [[Sor\|Sor]] knew this to be a ruse, for the inspector, was actually Tress in disguise. By the time Tress has board the *Oot's Dream* and sailed off, she has quietly slipped away. The only people to know of her involvement were Tress, Gremmy, Brick and her father.
 
-### Regreso de Trenza
-Trenza regresó a Punta de Diggen, como capitana del *[[Dos tazas\|Dos tazas]]* pero sólo por poco tiempo, lo suficiente para entregar las nuevas instrucciones del rey, junto con varias otras cartas, y recuperar a su familia. Durante su regreso, tuvo especial cuidado en agradecer a Gremmy, Ladrillo, Gret y Sor su ayuda para escapar inicialmente de **la Roca**.
-
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-MrMrDUCK (talk) 06:10, 11 de marzo de 2024 (UTC)
-|**[[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] (**[[Lumar\|Lumar]]**)**|
-|-|-|
-|**Personajes**|[[Trenza\|Trenza]] · [[Charlie\|Charlie]] · [[Cuervo\|Cuervo]] · [[Salay\|Salay]] · [[Fort%C3%ADn\|Fortín]] · [[Ann\|Ann]] · [[Laggart\|Laggart]] · [[Dougs\|Dougs]] · [[Hoid\|Hoid]] · [[Ulaam\|Ulaam]] · [[Riina\|La hechicera]]|
-|**Lugares**|[[Mar Esmeralda\|Mar Esmeralda]] · [[Mar Carmes%C3%AD\|Mar Carmesí]] · [[Mar de Medianoche\|Mar de Medianoche]] · [[Punta de Diggen\|Punta de Diggen]] · [[Isla de la hechicera\|Isla de la hechicera]]|
-|**Magia**|[[%C3%89ter\|Éteres]] · [[Esporas de %C3%A9ter\|Esporas de éter]] · [[Comeesporas\|Comeesporas]] · [[Germinador\|Germinador]] · [[V%C3%ADnculo Luhel\|Vínculo Luhel]]|
-|**Barcos**|[[Canto del cuervo\|Canto del cuervo]] · [[Sue%C3%B1o de Oot\|Sueño de Oot]] · [[Dos tazas\|Dos tazas]] · [[Delator\|Delator]]|
+### Tress Return
+Tress returned to Diggen's Point, as captain of the *[[Two Cups\|Two Cups]]* but only for a short time, long enough to deliver the King's new instructions, along with several other letters, and retrieve her family. During her return, she took special care to thank Gremmy, Brick, Gret, and Sor for their assistance in helping her initially escape **The Rock.**
 
 
 
-https://es.coppermind.net/wiki/Gret
+https://coppermind.net/wiki/Gret

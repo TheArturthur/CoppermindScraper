@@ -1,68 +1,44 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Amaranta**|
 |-|-|
-|**Nacido en**|990s [[Imperio Final\|IF]]|
-|**Fallecido**|1023 [[Imperio Final\|IF]]|
-|**Oficio**|Herborista|
-|**Etnia**|[[Noble\|Noble]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]]*|
+|**Born**|990s [[Final Empire\|FE]]|
+|**Died**|1023 [[Final Empire\|FE]]|
+|**Profession**|Herbalist|
+|**Ethnicity**|[[Noble\|Noble]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
 
->“*Eso es lo que pasa cuando eres adicto a una droga, Straff. Cuando la consigues, te sientes mejor. Cuando no la tienes... mueres.*”
-\-Amaranta a Straff Venture[2]
-
-
-**Amaranta** es una [[Noble\|noble]] herborista durante el [[Imperio Final\|Imperio Final]] en [[Scadrial\|Scadrial]]. Es una de las muchas amantes de [[Straff Venture\|Straff Venture]] y su principal herborista.
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Historia. [[#Historia]] 
-3 Curiosidades. [[#Curiosidades]] 
-4 Notas. [[#Notas]] 
+>“* That's what happens when you're addicted to a drug, Straff. When you get it, you feel better. When you don't get it... you die.*”
+\- Amaranta to Straff Venture[2]
 
 
-## Apariencia y personalidad
-Está al final de la veintena y algunas arrugas empiezan a aparecer en su rostro. Es una mujer atractiva, aunque la preferencia de [[Straff\|Straff]] por amantes muy jóvenes hace que se fije en los efectos que el envejecimiento y el parto han tenido en su cuerpo. Es la madre de algunos de los muchos hijos de Straff.
-Es muy hábil con las hierbas, aunque no está claro cómo se educó en la materia. Ha pasado casi toda su vida adulta como concubina, y sabe cómo parecer dócil y sumisa. Sin embargo, se vuelve taimada y vengativa tras ser abandonada.
+**Amaranta** is a [[Noble\|noble]] herbalist during the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. She is one of [[Straff Venture\|Straff Venture's]] many mistresses and his chief herbalist.
 
-## Historia
-Amaranta se convirtió en una de las amantes de [[Straff\|Straff]] hacia 1013 [[Imperio Final\|IF]], cuando estaba en la última etapa de su adolescencia. Straff señala en varias ocasiones que era hermosa en su juventud, pero que después de tener hijos y llegar a la mitad de la veintena, ya no la encontraba físicamente atractiva. Dejó de tener relaciones sexuales con ella alrededor de 1019 [[Imperio Final\|IF]] y la consideró "vieja". A Amaranta le habían advertido que esto ocurriría, aunque no quería creerlo. Se convirtió en una de las pocas amantes que Straff mantenía cerca por su utilidad, aunque no las invitaba a su cama. Tenía varias herboristas, pero consideraba que Amaranta era la más hábil. Straff temía ser envenenado, y la especialidad de Amaranta era un brebaje que podía curar o identificar una variedad de toxinas comunes.
-Amaranta se sintió despreciada por Straff y comenzó un romance con [[Zane\|Zane]]. Aunque Zane a veces le hacía cortes con un cuchillo, como a menudo se hacía a sí mismo debido a su vacilante cordura, la hizo sentir deseable de nuevo. Sin embargo, Zane se distanció repentinamente de Amaranta; aunque esto se debió, probablemente, a varios factores, ella culpó a Straff.
+## Contents
 
->“*Necio. Él no te envenenó nunca... ni una sola vez. Aunque, a petición mía, te hacía creer que lo había hecho. Y cada vez acudías corriendo a mí. Sospechabas de todo lo que hacía Zane... y, sin embargo, ni una sola vez te paraste a pensar qué había en el «antídoto» que yo te daba.*”
-\-Amaranta a Straff Venture[2]
-
-Entonces ideó un complejo plan para poner a Straff bajo su control. Ella y Zane trabajaron juntos para jugar con la paranoia de Straff de ser envenenado. Straff creía que Zane intentaba matarlo y suponía que el veneno era uno de los métodos que utilizaba. Cada vez que creía que Zane le había envenenado, convocaba a Amaranta y le hacía preparar su antídoto general. En realidad, Amaranta y Zane no estaban intentando envenenar a Straff. En su lugar, estaban jugando con la paranoia de él; en realidad, su preparado de "antídoto" en realidad le dosificaba una droga adictiva, [[Fra%C3%ADn negro\|fraín negro]]. Lo que él creía que eran efectos de venenos como [[Veneno de abedul\|veneno de abedul]] o [[T%C3%B3mfola\|tómfola]] eran en realidad síntomas de abstinencia, y el brebaje de Amaranta simplemente le aliviaba esos síntomas dosificándole más fraín negro.
-A medida que avanzaba el plan de Amaranta, se volvió un poco descuidada al mantener la ilusión de que ignoraba cuándo se producirían los "envenenamientos". Al principio, actuó como si creyera que Straff quería acostarse con ella hasta que él le pidió que hiciera el antídoto. Sin embargo, en una ocasión posterior llegó con una "sorprendente rapidez" e inmediatamente comenzó a preparar su poción. Esto culminó en un gran error después de que Zane desapareciera del campamento de Straff. Straff convocó a Amaranta creyendo que estaba envenenado, pero cuando ella comenzó a elaborar el antídoto pudo darse cuenta de que estaba utilizando ingredientes diferentes, posiblemente en un intento de matarlo. Straff se enfrentó a ella y encontró marcas de corte en su pecho que atribuyó correctamente a Zane. Amaranta estaba disgustada, pero empezó a decirle a Straff que todavía podía controlarlo ya que no sabía a qué droga era adicto. Sin embargo, Straff utilizó lo último de sus fuerzas para estrangularla hasta la muerte. No tenía intención de matarla (ya que al hacerlo ponía su propia vida en peligro), pero la ira y el pánico se apoderaron de él. Entonces preparó al azar un brebaje propio, que finalmente le salvó la vida. Determinó que la droga que utilizaba Amaranta era el fraín negro, y se sintió mucho mejor cuando se desintoxicó de él. 
-
-## Curiosidades
-Amaranta le dijo a Straff que abandonar el fraín negro podría matarlo, pero era una mentira.
-La subtrama de la venganza entre Amaranta, Zane y Straff se añadió tarde en el proceso de revisión para añadir otra dimensión a la relación de Zane y Straff. Brandon no quiso eliminarla cuando su editor le pidió que redujera la longitud de *El pozo de la ascensión*. Aunque no es muy relevante para la historia en general, cree que las escenas funcionan bien y añaden profundidad a los personajes.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Big Smooth (talk) 17:52, 18 May 2022 (UTC)
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
+## Appearance and Personality
+She is in her late twenties, and some wrinkles are beginning to show on her face. She is an attractive woman, although [[Straff\|Straff's]] preference for very young mistresses causes him to focus on the effects that aging and childbirth have had on her body. She is the mother of some of Straff's many children.
+She is highly skilled with herbs, although it is unclear how she became educated in the subject. She has spent nearly her entire adult life as a concubine, and knows how to appear docile and submissive. However, she becomes devious and vengeful after being abandoned.
 
-https://es.coppermind.net/wiki/Amaranta
+## History
+Amaranta became one of [[Straff\|Straff's]] mistresses circa 1013 [[Final Empire\|FE]], when she was in her late teens. Straff notes on several occasions that she was beautiful in her youth, but after she had children and reached her mid-twenties, he no longer found her physically attractive. He stopped having sex with her around 1019 [[Final Empire\|FE]] and considered her to be "old". Amaranta had been warned this would happen, although she did not want to believe it. She became one of a few mistresses that Straff kept around for their usefulness even though he did not invite them to his bed. He had several herbalists, but he considered Amaranta to be the most skilled. Straff feared being poisoned, and Amaranta's specialty was a brewed concoction that could cure or identify a variety of common toxins.
+Amaranta felt spurned by Straff and began an affair with [[Zane\|Zane]]. Although Zane sometimes cut her with a knife, as he often did to himself due to his wavering sanity, he made her feel desirable again. However, Zane suddenly became distant from Amaranta; although this was likely due to several factors, she blamed Straff.
+
+>“*Fool. He never poisoned you—not a single time. Though, at my request, he often made you think that he had. And then, each time you ran to me. You suspected everything Zane did—and yet, you never once paused to think what was in the 'antidote' I gave you.*”
+\-Amaranta to Straff Venture[2]
+
+She then devised a complex plan to bring Straff under her control. She and Zane worked together to play on Straff's paranoia of being poisoned. Straff believed that Zane was trying to kill him, and assumed that poison was one one of the methods that he was using. Any time he believed that Zane had poisoned him, he summoned Amaranta and had her brew her general antidote. In fact, Amaranta and Zane were not actually attempting to poison Straff. Instead, they were playing on his paranoia; her "antidote" concoction actually dosed him with an addictive drug, [[Black Frayn\|Black Frayn]]. What he thought were effects from poisons such as [[Birchbane\|birchbane]] or [[Tompher\|tompher]] were actually withdrawal symptoms, and Amaranta's concoction simply relieved him of those symptoms by dosing him with more Black Frayn.
+As Amaranta's plan progressed, she became slightly sloppy at maintaining the illusion that she was ignorant of when the "poisonings" would occur. Initially, she acted like she believed that Straff wanted to have sex with her until he asked her to make the antidote. However, on a subsequent occasion she arrived with "surprising speed" and immediately began brewing her potion. This culminated in a major mistake after Zane disappeared from Straff's camp. Straff summoned Amaranta believing he was poisoned, but as she began to brew the antidote he could tell that she was using different ingredients, possibly in an attempt to kill him. Straff confronted her and found cut marks on her breast that he correctly attributed to Zane. Amaranta was chagrined, but she began to tell Straff that she could still control him since he did not know which drug he was addicted to. However, Straff used the last of his strength to throttle her to death. He did not intend to kill her (since doing so put his own life in danger), but the anger and panic took over. He then haphazardly brewed a concoction of his own, which ultimately saved his life. He determined that the drug Amaranta was used was Black Frayn, and felt much better as he weaned himself off of it.
+
+## Trivia
+Amaranta told Straff that withdrawal from Black Frayn could kill him, but this was a lie.
+The revenge subplot between Amaranta, Zane, and Straff was added late in the revision process to add another dimension to Zane and Straff's relationship. Brandon did not want to remove this subplot when he was asked to reduce the length of *The Well of Ascension* by his publisher. Although it is not very relevant to the overall story, he thinks the scenes work well and add depth to the characters.
+
+
+https://coppermind.net/wiki/Amaranta

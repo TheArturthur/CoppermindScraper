@@ -1,65 +1,55 @@
-
-
 |**Dhatri**|
 |-|-|
-|**[[Esquirla\|Esquirlas]]**|*Desconocido*|
-|**[[Investidura\|Investiduras]]**|[[%C3%89ter\|Éteres]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**[[Shard\|Shards]]**|*Unknown*|
+|**[[Investiture\|Investitures]]**|[[Aether\|Aethers]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Ahí fuera hay aliados potenciales. El mundo de Luzdeluna, quizá. O la tierra de los éteres. Qué narices, puede que hasta Mythos.*”
-\-Kelsier a Armonía[1]
-
-
-**Dhatri** es un [[/wiki/Cosmere#Planetas]] en el [[Cosmere\|Cosmere]] que es el origen de los [[%C3%89ter\|éteres]]. [[Kelsier\|Kelsier]] mencionó el planeta a [[Armon%C3%ADa\|Armonía]] como un aliado potencial para [[Scadrial\|Scadrial]].
-
-## Sumario
-
-1 Historia. [[#Historia]] 
-2 Cultura. [[#Cultura]] 
-
-2. [[#Religi.C3.B3n]] 
-
-2. [[#Renacimiento]] 
+>“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
+\-Kelsier to Harmony[1]
 
 
+**Dhatri** is a [[/wiki/Cosmere#Planets]] in the [[Cosmere\|cosmere]] that is the origin of the [[Aether\|aethers]]. [[Kelsier\|Kelsier]] mentioned the planet to [[Harmony\|Harmony]] as a potential ally for [[Scadrial\|Scadrial]].
+
+## Contents
+
+1 History. [[#History]] 
+2 Culture. [[#Culture]] 
+
+2. [[#Religion]] 
+
+2. [[#Gods]] 
+2. [[#Rebirth]] 
 
 
-3 Naciones. [[#Naciones]] 
-4 Habitantes. [[#Habitantes]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
 
 
-## Historia
-En un punto desconocido antes de 348 [[Catacendro\|PC]] fue golpeado por una fuerza o entidad conocida como [[%C3%89ter oscuro\|éter oscuro]], dejando el planeta inhóspito para los etervínculos.
+3 Nations. [[#Nations]] 
+4 Inhabitants. [[#Inhabitants]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
-## Cultura
-### Religión
-Se sabe que adoran a los éteres como dioses, que creen que son anteriores no sólo a la [[Fragmentaci%C3%B3n\|Fragmentación]], sino incluso al mismo [[Adonalsium\|Adonalsium]]. Creen que los éteres hicieron a todas las personas, creándolas para que cada una piense de forma diferente a las demás.
 
-#### Renacimiento
-También creen que los éteres han dotado a los humanos con el renacimiento para animar, bendecir y elevar a sus semejantes. Aquellos que siguen a los éteres también sostienen que las personas regresan a los éteres después de su muerte para reflexionar sobre sus elecciones en la vida. Se cree que las personas que han tomado malas decisiones están condenadas a esperar mucho tiempo hasta su próximo renacimiento. Suelen maldecir con frases como "por el primer éter".
+## History
+At an unknown point before 348 [[Catacendre\|PC]], it was struck by a force or entity known as the [[Dark aether\|dark aether]], leaving the planet inhospitable to aetherbound.
 
-## Naciones
-Tiene al menos doce reinos conocidos, cada uno aparentemente asociado con un éter específico. Se desconoce la naturaleza exacta de sus gobiernos, pero tienen un cargo conocido como Raj y un órgano conocido como .
+## Culture
+### Religion
+#### Gods
+They are known to worship the aethers as gods, which they believe predate not only the [[Shattering\|Shattering]], but [[Adonalsium\|Adonalsium]] in its entirety. They believe that aethers made all people, creating them to each think differently from one another.
 
-## Habitantes
+#### Rebirth
+They also believe humans were gifted with rebirth by the aethers to encourage, bless, and uplift their fellow people. Those that follow the aethers also hold that people return to the aethers upon their deaths to reflect upon their choices in life. It is believed that people who have made poor choices are cursed to wait a long time until their next rebirth. They often swear with phrases such as "by the first aether".
+
+## Nations
+It has at least twelve known kingdoms, each one seemingly associated with a specific aether. The exact nature of their governments is unknown, but they have a position known as a Raj, and a body known as the .
+
+## Inhabitants
 [[Sanvith Prasanva Maahik va Sila\|Sanvith Prasanva Maahik va Sila]]
-## Curiosidades
-El planeta es un «mundo basado en el 12» al igual que [[Roshar\|Roshar]] lo es en el 10 y [[Scadrial\|Scadrial]] en el 16.
-El planeta está inspirado en el subcontinente indio.
-Brandon lo considera uno de los «planetas centrales» y está planeando una serie ambientada en este mundo.
-Brandon está siendo asistido en la construcción del mundo de Dhatri por personas llamadas Kelyani y Rahul.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**El [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Esquirla\|Esquirlas]]**|[[Ambici%C3%B3n\|Ambición]] · [[Armon%C3%ADa\|Armonía]] · [[Autonom%C3%ADa\|Autonomía]] · [[Capricho\|Capricho]] · [[Conservaci%C3%B3n\|Conservación]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dotaci%C3%B3n\|Dotación]] · [[Honor\|Honor]] · [[Invenci%C3%B3n\|Invención]] · [[Odium\|Odium]] · [[Piedad\|Piedad]] · [[Ruina\|Ruina]] · [[Valent%C3%ADa\|Valentía]] · [[Virtuosismo\|Virtuosismo]] · *[[Esquirla de Supervivencia\|Esquirla de Supervivencia]]*|
-|**[[Reino F%C3%ADsico\|Planetas]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[C%C3%A1ntico\|Cántico]] ·  · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Primero del Sol\|Primero del Sol]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Treno\|Treno]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Términos**|[[Adonalsium\|Adonalsium]] · [[Fragmentaci%C3%B3n\|Fragmentación]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]] · [[Astilla\|Astilla]] · [[%C3%89ter\|Éter]] · [[Teor%C3%ADa Realm%C3%A1tica\|Teoría Realmática]] · [[Investidura\|Investidura]] · [[Arte Investida\|Arte Investida]] · [[Intenci%C3%B3n\|Intención]] · [[Conexi%C3%B3n\|Conexión]] · [[Identidad\|Identidad]] · [[Fortuna\|Fortuna]] · [[Redesp%C3%ADritu\|Redespíritu]] · [[Eje\|Eje]] · [[Perpendicularidad\|Perpendicularidad]] · Saltamundos · [[Lasca\|Lasca]] · [[Iniciaci%C3%B3n\|Iniciación]] · [[Resonancia\|Resonancia]]|
-|**Otros**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Cartas\|Cartas]] · [[Ire\|Ire]] · [[Sangre Espectral\|Sangre Espectral]] · [[Decimos%C3%A9ptima Esquirla\|Decimoséptima Esquirla]] · [[Luzdeplata\|Luzdeplata]]|
+## Trivia
+The planet is a "12 world" just like [[Roshar\|Roshar]] is a 10-world and [[Scadrial\|Scadrial]] is a 16-world.
+The planet is inspired by the Indian Subcontinent.
+Brandon considers it to be one of the "core planets", and is planning a series set on the world.
+Brandon is being assisted in the world-building for Dhatri by individuals named Kelyani and Rahul.
 
 
-
-https://es.coppermind.net/wiki/Dhatri
+https://coppermind.net/wiki/Dhatri

@@ -1,12 +1,12 @@
 |***The Apocalypse Guard***|
 |-|-|
 ||
-|**Colaboradores**|[[Dan Wells\|Dan Wells]]|
-|**Fecha original**|unknown|
+|**Collaborators**|[[Dan Wells\|Dan Wells]]|
+|**Released**|unknown|
 
-***The Apocalypse Guard*** is a planned YA trilogy. Originally planned to connect to the , it may also connect to the [[Cytoverse\|Cytoverse]], or possibly neither one if it does not make sense to do so. After initial drafts did not work out, it was put on indefinite hold but has subsequently seen additional development by Brandon and coauthor [[Dan Wells\|Dan Wells]].
+***The Apocalypse Guard*** is a planned YA trilogy. Originally planned to connect to the [[Reckoners Multiverse\|Reckoners Multiverse]], it may also connect to the [[Cytoverse\|Cytoverse]], or possibly neither one if it does not make sense to do so. After initial drafts did not work out, it was put on indefinite hold but has subsequently seen additional development by Brandon and coauthor [[Dan Wells\|Dan Wells]].
 
-## Sumario
+## Contents
 
 1 Plot. [[#Plot]] 
 2 Characters. [[#Characters]] 
@@ -31,18 +31,18 @@ Emma is an intern for the Apocalypse Guard, an organization that travels through
 ## Setting
 *The Apocalypse Guard* takes place in a multiverse where only a fraction of all worlds are stable, with the vast majority being mere possibilities. Unfortunately, these stable realities are constantly facing world-ending events. The Apocalypse Guard is an organization of scientists, engineers, and individuals with extraordinary abilities dedicated to creating and enacting plans to avert these events if possible, or evacuating the planet if not.
 Emma lands on a world surrounded by an envelope of water in imminent danger of collapsing and flooding the planet. The idea was inspired by the , the biblical concept of a vast dome separating "the waters above" (in the sky) from "the waters below" on Earth.
-Brandon has indicated that the series may connect elements from the [[Cytoverse\|Cytoverse]] and the , but that getting the book right and allowing it to stand on its own takes precedence.
+Brandon has indicated that the series may connect elements from the [[Cytoverse\|Cytoverse]] and the [[Reckoners Multiverse\|Reckoners Multiverse]], but that getting the book right and allowing it to stand on its own takes precedence.
 
 ## Development
 ### Concept and Postponement
-Brandon first mentioned the series at the release party for *[[Shadows of Self\|Shadows of Self]]*. It was then obliquely referenced in the 2015 [[State of the Sanderson\|State of the Sanderson]] as a "New YA Series". Brandon then officially announced the project in 2016, and revealed concept cover art. After the completion of *[[Oathbringer\|Oathbringer]]* in June 2017, Brandon began the first draft of *The Apocalypse Guard*, planning on writing the full trilogy straight through before the release of the first book, something he had not been able to do since .
+Brandon first mentioned the series at the release party for *[[Shadows of Self\|Shadows of Self]]*. It was then obliquely referenced in the 2015 [[State of the Sanderson\|State of the Sanderson]] as a "New YA Series". Brandon then officially announced the project in 2016, and revealed concept cover art. After the completion of *[[Oathbringer\|Oathbringer]]* in June 2017, Brandon began the first draft of *The Apocalypse Guard*, planning on writing the full trilogy straight through before the release of the first book, something he had not been able to do since [[Mistborn Era 1\|Era 1 of Mistborn]].
 Publishing rights were originally acquired by the Random House imprint Delacorte Press (also the publishers of *The Reckoners*).
 
 >“*The Apocalypse Guard series is set in a world parallel to that of the Reckoners, and an organization of superpowered individuals is at its center. Their collective objective is to save doomed planets, until the day something goes horribly wrong and it is up to one young member of the guard to fix things before time runs out for her and the planet she calls home.*
 \-Publication of the first book in the series is planned for mid 2018.
 
 
-Brandon announced the completion of the first draft of the first book on September 1st, 2017. While working on the second draft, and in conversations with his editor, various issues with the book were found. While Brandon initially attempted to revise the book to fix these issues, he felt that the changes were instead making the book worse, and so he decided to shelve the project as he did not believe he could fix it in the time required for a 2018 release. After Brandon pulled the book, he still needed to complete a project for Delacorte/Random House, which led to him prioritizing work on the .
+Brandon announced the completion of the first draft of the first book on September 1st, 2017. While working on the second draft, and in conversations with his editor, various issues with the book were found. While Brandon initially attempted to revise the book to fix these issues, he felt that the changes were instead making the book worse, and so he decided to shelve the project as he did not believe he could fix it in the time required for a 2018 release. After Brandon pulled the book, he still needed to complete a project for Delacorte/Random House, which led to him prioritizing work on the [[Skyward (series)\|Skyward series]].
 
 ### Revival and Collaboration
 At the release party for *[[Oathbringer\|Oathbringer]]*, Brandon announced that [[Dan Wells\|Dan Wells]]—a close friend and fellow member of [[Writing Excuses\|Writing Excuses]]—would be collaborating with him on *The Apocalypse Guard* going forward. Brandon planned to give Dan time to alter the books as he saw fit before returning to collaborate with him on the final version. One of the structural changes made by Brandon and Dan was the removal of one of the magic systems they had considered "foundational to the story". As the revisions continued, the book "got weirder". By late 2019, Dan had finished a revision that Brandon described as "pretty good", but neither of them was totally satisfied with the result and the project was shelved indefinitely. In December 2019, Brandon said he had no immediate plans to try to make the book work, and that it might be dead.
@@ -77,23 +77,6 @@ Full cast
 
 
 
-## Notes
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
 
 
-
-https://es.coppermind.net/wiki/The_Apocalypse_Guard
+https://coppermind.net/wiki/The_Apocalypse_Guard

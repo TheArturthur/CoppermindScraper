@@ -1,6 +1,6 @@
-|***Desconocido***|
+|***Unknown***|
 |-|-|
-|**Mundo natal**|*Desconocido*|
+|**Homeworld**|*Unknown*|
 
 The **High Emperor** rules the empire in *[[Firstborn\|Firstborn]]*.
 
@@ -9,14 +9,6 @@ The **High Emperor** rules the empire in *[[Firstborn\|Firstborn]]*.
 
 The High Emperor has the responsibility to approve all cloning requests.
 
-## Notes
-
-Este artículo es muy corto. Por favor, ayuda a The Coppermind .
-|**[[Firstborn\|Firstborn]]**|
-|-|-|
-|**Personajes**|[[Dennison Crestmar\|Dennison Crestmar]] · [[Varion Crestmar\|Varion Crestmar]]|
-|**Otros**|[[Reunification War\|Reunification War]]|
 
 
-
-https://es.coppermind.net/wiki/High_Emperor
+https://coppermind.net/wiki/High_Emperor

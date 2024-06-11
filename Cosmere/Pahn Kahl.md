@@ -1,111 +1,100 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Pahn Kahl**|
 |-|-|
-|**Etnia**|Pahn Kahl|
-|**Mundo**|[[Nalthis\|Nalthis]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Ethnicity**|Pahn Kahl|
+|**World**|[[Nalthis\|Nalthis]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Pero todo el mundo sabe que los pahn kahl son prácticamente hallandrenses.*”
-\- Sondeluz sobre los pahn kahl[1]
-
-
-**Pahn Kahl** es un pequeño territorio bajo el control de [[Hallandren\|Hallandren]] en [[Nalthis\|Nalthis]]. Los pahn kahl forman un grupo distinto, pero a menudo ignorado, dentro de la cultura dominante de Hallandren, con una lengua y una religión separadas. Antiguamente eran un país independiente, pero fueron absorbidos por Hallandren tras su derrota en [[La Multiguerra\|la Multiguerra]]. Tres siglos más tarde, muchos de los pahn kahl seguían anhelando la independencia.
-
-## Sumario
-
-1 Geografía y ecología. [[#Geograf.C3.ADa y ecolog.C3.ADa]] 
-2 Cultura. [[#Cultura]] 
-
-2. [[#Gentes e idioma]] 
-2. [[#Papel en la sociedad de Hallandren]] 
-2. [[#Religi.C3.B3n]] 
-2. [[#Cocina]] 
+>“* But everyone knows the Pahn Kahl are practically Hallandren.*”
+\- Lightsong on the Pahn Kahl[1]
 
 
-3 Historia. [[#Historia]] 
+**Pahn Kahl** is a small territory under the control of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]]. The Pahn Kahl form a distinct but often overlooked group within the culturally dominant Hallandren, with a separate language and religion. They were formerly an independent country, but were absorbed into Hallandren after their defeat in the [[Manywar\|Manywar]]. Three centuries later, many of the Pahn Kahl still longed for independence.
 
-3. [[#Reci.C3.A9n llegados]] 
-3. [[#Tensiones y la Multiguerra]] 
-3. [[#Rebeliones fracasadas]] 
+## Contents
 
+1 Geography and Ecology. [[#Geography and Ecology]] 
+2 Culture. [[#Culture]] 
 
-4 Personas destacadas. [[#Personas destacadas]] 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
-
-
-## Geografía y ecología
->“*¿Tal vez puedes imaginar su sorpresa al llegar aquí? ¿Un lugar con playas de fina y suave arena, con abundancia de frutos y extraños bosques?*”
-\-Hoid contando una historia sobre el descubrimiento de las tierras bajas de Hallandren
-
-El pueblo pahn kahl vive en las tierras bajas de Hallandren. Estas tienen un clima tropical, aunque el crecimiento de las plantas en esta región también se ve ayudado en parte por la investidura de la [[Perpendicularidad\|perpendicularidad]] de [[Dotaci%C3%B3n\|Dotación]]. El suelo de este valle es también el único lugar de Nalthis donde crecen las [[L%C3%A1grimas de Edgli\|Lágrimas de Edgli]]. Al este de este valle hay una gran masa de agua sin salida al mar llamada [[Mar Brillante\|mar Brillante]]. Las tierras bajas sufren frecuentes terremotos.
-Se dice que los elefantes y las cebras son criaturas exóticas del "sur". No está claro si esto significa que proceden de la zona en la que viven los pahn kahl o del sur de esta zona. La jungla en la que viven está habitada por panteras, loros, monos y cocodrilos. El mar Brillante también está lleno de vida, incluyendo muchas clases de mejillones, peces y criaturas con tentáculos.{{book ref|wb|53}
-
-## Cultura
-### Gentes e idioma
-Los pahn kahl son racialmente diferentes de la población dominante de Hallandren. Tienen un tono de piel y unos rasgos faciales diferentes. También son más bajos que los hallandrenses. Los pahn kahl también tienen su propia forma de hablar. Sus palabras están llenas de sonidos aireados. A pesar de estas diferencias, a menudo se les confunde con hallandrenses, para su irritación.
-
-### Papel en la sociedad de Hallandren
-Dentro del reino de Hallandren, los pahn kahl eran a menudo ignorados, vistos como ciudadanos de segunda clase y normalmente menos dignos de confianza que los hallandrenses. Por otra parte, muchos que no están familiarizados con los pahn kahl pueden tener dificultades para diferenciarlos de los demás hallandrenses; a menudo no se les ve como un pueblo propio y distinto. Esta confusión les resulta muy molesta. Son marginados y se sienten muy frustrados por ser ignorados y subyugados. Esto es especialmente exasperante para ellos, ya que fueron el primer pueblo de la región, y han sido conquistados por los relativamente recién llegados.
-Muchos llevan una vida difícil, trabajando a las órdenes de duros capataces en los campos de tintes. Algunos han conseguido abrirse camino en trabajos de gran importancia pero poco prestigio, como mayordomos y sirvientes de los sacerdotes y Retornados en la [[Corte de los Dioses\|Corte de los Dioses]]. Esto proporciona una vida mucho mejor que trabajar en los campos de tintes. Sin embargo, este trabajo es inestable, cada vez que se elige un nuevo rey-dios, todos sus trabajadores pierden su empleo. Además de esto, los sirvientes de Pahn Kahl tienen que trabajar más duro para conseguir trabajos dentro de la teocracia, y esos trabajos son a menudo más difíciles que los de los sirvientes de Hallandren. Todos deben vestir túnicas marrones y tienen prohibido hablar o tocar al mismísimo rey-dios. De hecho, ni siquiera se les permite ser sirvientes del rey-dios, aunque pueden ser sirvientes de su esposa. A los pahn kahl tampoco se les permite servir como sacerdotes de los dioses.
-Todas estas cosas han llevado a su espíritu rebelde y a su deseo de venganza y libertad. Consumidos por su ira, así como por su deseo de independencia, los pahn kahl han perdido gran parte de su identidad cultural.
-
-### Religión
-La religión de Pahn Kahl tiene similitudes con la de los [[Tonos iridiscentes\|tonos iridiscentes]], pero es más abstracta y no incluye el culto a los [[Retornado\|Retornados]]. Más bien, implica una especie de culto a la naturaleza donde las tormentas del [[Mar Brillante\|mar Brillante]] son veneradas como manifestaciones de la unidad de sus cinco dioses. Su religión también se centra más en la Voz que llama al Retornado, que en realidad es Dotación. No se sabe cómo relacionan esta Voz con sus cinco dioses.
-En su teología, los [[Retornado\|Retornados]] son aquellos que vivieron una vida justa pero murieron faltos de fe. Se les prohíbe la entrada al cielo, pero no se les envía al infierno. En su lugar, se les da una segunda oportunidad para encontrar la verdadera fe en la vida mediante el Retorno. A muchos de los pahn kahl no les molestan los Retornados y aceptan al rey-dios como monarca. Simplemente ven a los Retornados como descarriados. Puesto que no los ven como divinidades, lo único que los pahn kahl encuentran extraordinario en los retornados es la fuerza de su [[Biocroma\|biocroma]].
-Muchos forasteros consideran que la religión de los pahn kahl es simplista, sobre todo en contraste con la elaborada doctrina de los [[Tonos iridiscentes\|tonos iridiscentes]]. De hecho, mucha gente en Hallandren y más allá no comprende la religión o ni siquiera es consciente de que los pahn kahl tienen su propia religión separada. Por desgracia, algunos aspectos de la religión pahn kahl han sido olvidados incluso por sus seguidores, debido en parte a su firme deseo de independizarse de Hallandren.
-
-### Cocina
-Actualmente sólo se conoce un ejemplo de cocina pahn kahl. Los pasteles dulces llamados [[Tinkfan\|tinkfan]] se consideran un manjar. Incluso los comen los Retornados en la Corte de los Dioses. Los tinkfans se consumen tradicionalmente en pequeños bocados, con un trocito de pan entre bocado y bocado como limpiador del paladar.
-
-## Historia
-### Recién llegados
-Los Pahn Kahl son los nativos de la selva de Hallandren. Durante su historia temprana vivían en un conjunto de aldeas de pescadores a lo largo de la costa. Cuando el pueblo de [[Chedesh\|Chedesh]] comenzó a explorar otras partes de la costa del [[Mar Interior\|mar Interior]], un grupo de sus barcos descubrió este valle lleno de selvas. Uno de los exploradores, [[Vo\|Vo]], murió y se convirtió en el primer [[Retornado\|Retornado]] mientras estaba en uno de los barcos en la bahía. Volvió a morir una semana después. Expulsando a los pahn kahl nativos, sus compañeros de tripulación fundaron un reino en el lugar y lo llamaron Hanald.
-A medida que Hanald crecía, los pahn kahl establecieron su propio reino, reclamando las partes meridionales de las tierras bajas.
-
-### Tensiones y la Multiguerra
-Como el comercio de tintes era una de las principales razones del rápido crecimiento de Hanald, iniciaron un monopolio en el comercio de tintes, y otros reinos, incluyendo Pahn Kahl, pronto empezaron a resentirse por ello, y también empezaron a esperar hacerse con el control de Hallandren y participar en los beneficios de los tintes.
-A medida que Hanald crecía, dirigieron su atención hacia el recién descubierto arte del [[Despertar\|despertar]]. Durante este tiempo se realizaron importantes descubrimientos y desarrollos en el sistema de magia. Muchos de estos descubrimientos fueron hechos por [[Los Cinco Sabios\|los Cinco Sabios]], algunos ejemplos incluyen el Mandato para hacer [[Sinvida\|sinvida]] con un solo aliento y la invención del [[%C3%8Dcoralcohol\|ícoralcohol]]. Estos descubrimientos permitieron a las naciones construir ejércitos mucho más grandes y baratos. Debido a que muchos de estos descubrimientos se hicieron en Hanald las otras naciones se asustaron ya que sólo se quedarían atrás más y más a medida que pasaba el tiempo.
-En algún momento, uno de los [[Retornado\|Retornados]] en Hanald tuvo una visión de guerra. Esto terminó siendo el catalizador de una contienda, ya que impulsó a [[Amadisputas\|Amadisputas]] a atacar preventivamente a las otras naciones.
-Estalló lo que se conocería como [[La Multiguerra\|la Multiguerra]]. En general, en Pahn Kahl sostienen que esta guerra fue culpa de la familia real de Hanald, a la que acusan de buscar nuevas técnicas para despertar y crear sinvidas sin darse cuenta de que éstas podrían volverse contra ellos. En algún momento el reino de Pahn Kahl se unió o creó la [[Unidad Pahn\|Unidad Pahn]] junto con otros múltiples reinos. Esta coalición lucharía contra las fuerzas de Hanalds siendo la famosa batalla de las Cataratas del Crepúsculo es un conocido ejemplo de ello. El líder de la Unidad Pahn murió en esta batalla.
-Cerca del final de la guerra, Pahn Kahl fue conquistada por Hanald, que esclavizó a su pueblo y lo obligó a trabajar. Tras el fin de la Multiguerra y la división de Hanald, Pahn Kahl se convirtió en una provincia al sur de Hallandren. Con el tiempo, este pueblo se asoció fuertemente con sus conquistadores, con pocos fuera de la región entendiendo o preocupándose por la diferencia entre los dos pueblos. La mayoría de los pahn kahl realizan trabajos intensivos en los campos de tinte. Mientras la gente seguía deseando la independencia, Pahn Kahl se ganó la reputación de ser una provincia tranquila y pacífica.
-
-### Rebeliones fracasadas
-*Para más información, véase [[Vahr\|Vahr]], y la [[Rebeli%C3%B3n Pahn Kahl\|rebelión Pahn Kahl]].*
-
->“*Eres de Pahn Kahl, pero todo el mundo da por hecho que tu gente es de Hallandren. Los de Pahn Kahl estuvieron aquí primero, en esta tierra, pero os la arrebataron. Ahora sois solo otra provincia, parte del reino de vuestros conquistadores.*”
-\- Siri a Dedos Azules[5]
+2. [[#People and language]] 
+2. [[#Religion]] 
+2. [[#Economy]] 
+2. [[#Cuisine]] 
 
 
-A pesar de su derrota, los pahn kahl no se conformaron con permanecer subyugados. Aproximadamente trescientos años después de la derrota de la Unidad Pahn, alrededor del año 321, un hombre Pahn Kahl llamado Vahr comenzó a fomentar la rebelión entre los tintoreros  y disidentes pahn kahl. Convenció a muchos de ellos para que le entregaran su [[Aliento\|aliento]] y empezó a reunir un ejército. Sin que Vahr lo supiera, un segundo grupo de pahn kahl, liderado por el mayordomo del rey-dios [[Susebron\|Susebron]], [[Havarseth\|Havarseth]], también estaba planeando una rebelión de forma independiente. Havarseth, también conocido como Dedos Azules, creía que la rebelión de Vahr estaba llamando demasiado la atención sobre el pueblo pahn kahl. Dedos Azules filtró información sobre Vahr en la [[Corte de los Dioses\|Corte de los Dioses]], lo que provocó la captura de Vahr y el fin de su rebelión.
-La rebelión de Dedos Azules fue mucho más sutil que la de Vahr. Como no tenía ejército propio, conspiró para instigar una guerra entre Hallandren e Idris, con la esperanza de que en la lucha Pahn Kahl pudiera declarar su independencia y separarse. Debido a su posición de alto nivel como mayordomo del rey-dios, Dedos Azules estaba en la posición perfecta para manipular los acontecimientos, y sus acciones a menudo se pasaban por alto o se ignoraban debido a su raza.
-Dedos Azules introdujo sigilosamente a despertantes pahn kahl en la Corte a través de túneles para empezar a destruir a los [[Sinvida\|sinvida]] de los ejércitos de Hallandren. Más tarde utilizó a estos sinvida, junto con mercenarios y escribas pahn kahl disfrazados de sacerdotes, para tomar el control del palacio del rey-dios y capturar tanto al rey-dios como a su esposa, [[Sisirinah\|Sisirinah]]. También se hizo con el control del resto de los cuarenta mil soldados sin vida de Hallandren obligando a los dioses Retornados [[Sondeluz\|Sondeluz]] y [[Encendedora\|Encendedora]] a revelar sus Mandatos. Estos sinvidas recibieron el Mandato de marchar hacia Idris para iniciar una nueva guerra.
-Dedos Azules pretendía matar tanto a Encendedora como a Sondeluz y luego plantar sus cadáveres rodeados de cuerpos idrianos, haciendo parecer que los rebeldes idrianos los habían matado en represalia por desplegar a los sinvida contra Idris. También tenía la intención de matar a Siri y Susebron y hacer que pareciera que el rey-dios había sacrificado a su esposa en un altar y había sido asesinado por idrianos vengativos.
-Sin embargo, Sondeluz frustró estos planes curando la lengua mutilada del rey-dios con su [[Aliento Divino\|Aliento Divino]], lo que permitió a Susebron hacer uso finalmente de su [[/wiki/Elevaci%C3%B3n#D.C3.A9cima Elevaci.C3.B3n]] para salvar a Siri y derrotar a los rebeldes de Pahn Kahl. Dalapaz, que había estado intentando evitar este conflicto por su cuenta en la piel de Vasher, dio a Susebron el control de su antiguo ejército de sinvidas, los [[Fantasmas de Kalad\|Fantasmas de Kalad]]. Susebron utilizó este ejército para derrotar a los soldados sinvida que marchaban hacia Idris, evitando la guerra entre los dos reinos y sofocando la rebelión Pahn Kahl.
+3 Within Hallandren. [[#Within Hallandren]] 
+4 History. [[#History]] 
+
+4. [[#Newcomers]] 
+4. [[#Tensions and the Manywar]] 
+4. [[#Failed Rebellions]] 
 
 
-## Personas destacadas
-Para más información, ver :Categoría: Pahn Kahl.
-[[Vahr\|Vahr]]: Un revolucionario fracasado que intentó llevar a los pahn kahl a la libertad mediante la fuerza.
-[[Tonk Fah\|Tonk Fah]]: Un mercenario que trabaja para [[Denth\|Denth]].
-[[Havarseth\|Havarseth]]: También llamado Dedos Azules, sirve de mayordomo al rey-dios mientras trama su propia rebelión.
-## Curiosidades
-Brandon suele añadir una "h" adicional a las palabras pahn kahl para distinguirlas y hacerlas sonar "más aireadas".
-Una de las preocupaciones de Brandon es que hizo a los pahn kahl demasiado olvidables también para el lector, lo que disminuyó el impacto de su rebelión.
-Una de las cosas que se exploraría más a fondo en [[Nightblood (libro)\|la secuela de El aliento de los dioses]], son los pahn kahl y su cultura.
-## Notas
-
-> [!info] ¡Esta página está completa!Esta página contiene todo el conocimiento que tenemos sobre este tema en este momento.
-Windrunner (talk) 02:47, 20 de Diciembre de 2016 (MST)
-|**[[El aliento de los dioses\|El aliento de los dioses]] (**[[Nalthis\|Nalthis]]**)**|
-|-|-|
-|**Personajes**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Sondeluz\|Sondeluz]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Dedos Azules]] · [[Encendedora\|Encendedora]] · [[Sangre Nocturna\|Sangre Nocturna]]|
-|**Lugares**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Corte de los Dioses\|Corte de los Dioses]]|
-|**Magia**|[[Despertar\|Despertar]] · [[Aliento biocrom%C3%A1tico\|Aliento biocromático]] · [[Apagado\|Apagado]] · [[Elevaci%C3%B3n\|Elevación]]· [[%C3%8Dcoralcohol\|Ícoralcohol]] · [[Sinvida\|Sinvida]] · [[Retornado\|Retornado]]|
-|**Mitología**|[[Dotaci%C3%B3n\|Dotación]] · [[Austrismo\|Austrismo]] · [[Los Cinco Sabios\|Los Cinco Sabios]] · [[Tonos iridiscentes\|Tonos iridiscentes]] · [[La Multiguerra\|La Multiguerra]] · [[Fantasmas de Kalad\|Fantasmas de Kalad]]|
+5 Notable People. [[#Notable People]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
+## Geography and Ecology
+>“*Perhaps you can imagine their surprise upon arriving here? A place with beaches of fine, soft sand, with fruits aplenty, and with strange, alien forests?*”
+\-Hoid telling a story about the discovery of the Hallandren lowlands
 
-https://es.coppermind.net/wiki/Pahn_Kahl
+The Pahn Kahl people live in the Hallandren lowlands. These lowlands have a tropical climate, although the growth of plants in this region is also partly helped by investiture from [[Endowment\|Endowment]]’s [[Perpendicularity\|perpendicularity]]. The soil in this valley is also the only place on Nalthis where the [[Tears of Edgli\|Tears of Edgli]] grow. To the east of this valley is a large landlocked body of water called the [[Bright Sea\|Bright Sea]]. The lowlands suffer from frequent earthquakes.
+Elephants and zebras are said to be exotic creatures from "the south.” Whether this means they come from the area in which the Pahn Kahl live or south of this area is unclear. The jungle in which the Pahn Kahl live is inhabited by panthers, parrots, monkeys, and crocodiles. The Bright Sea is also full of life, including many sorts of mussels, fish, and tentacled creatures.
+
+## Culture
+### People and language
+The Pahn Kahl are racially different from the dominantly Hallandren population. They have a different skin tone and facial features than the Hallandren.They are also shorter on average than the Hallandren. Pahn Kahl also have their own language. Its words are full of airy sounds. Despite these differences, they are often mistaken for Hallandren, to their irritation. The Pahn Kahl have no problem with giving away their breath like the Idrians. They have many skilled awakeners. 
+
+### Religion
+The Pahn Kahl religion has similarities with the [[Iridescent Tones\|Iridescent Tones]], but is more abstract and does not include worship of the [[Returned\|Returned]]. Rather, it involves a kind of nature worship where the storms of the [[Bright Sea\|Bright Sea]] are revered as manifestations of the unity of their five gods. Their religion also has more a focus on the Voice that calls the Returned, that is actually Endowment. It is uncertain how they relate this Voice to their five gods.
+In their theology, the [[Returned\|Returned]] are those who lived just lives but died lacking in faith. They are forbidden entrance into heaven but are not sent to hell. Instead, they are given a second chance to find the true faith in life by Returning. Many of the Pahn Kahl do not mind the Returned, and accept the God King as monarch. They simply see the Returned as misguided. Since they do not see them as divinities, the only thing the Pahn Kahl find extraordinary about the Returned is the strength of their [[BioChroma\|BioChroma]].
+Many outsiders consider the Pahn Kahl religion to be simplistic, especially in contrast with the elaborate doctrine of the [[Iridescent Tones\|Iridescent Tones]]. In fact, many people in Hallandren and beyond have no understanding of the religion or are not even aware that the Pahn Kahl have their own separate religion at all. Unfortunately, some aspects of the Pahn Kahl religion have been forgotten even by its followers, due in part to their single-minded desire for independence from Hallandren.
+
+### Economy
+As Pahn Kahl is located in the jungle they have access to many unique resources and products, which they can trade with faraway lands. They also used to, and may still, fish the [[Bright Sea\|Bright Sea]]. Due to their location near [[Endowment\|Endowment]]’s [[Perpendicularity\|perpendicularity]] they might also be able to grow the [[Tears of Edgli\|Tears of Edgli]] in their province. Nonetheless Pahn Kahl are often employed in the dye fields, though their overseers are Hallandren.
+
+### Cuisine
+Only one example of Pahn Kahl cuisine is currently known. The sweet pastries called [[Tinkfan\|tinkfans]] are considered to be a delicacy. They are even eaten by the Returned in the [[Court of Gods\|Court of Gods]]. Tinkfans are traditionally consumed in small bites, with a small piece of bread eaten between each bite as a palate cleanser. 
+
+## Within Hallandren
+Within the kingdom of Hallandren, the Pahn Kahl were often ignored, seen as second class citizens typically less trustworthy than the Hallandren. On the other hand, many not familiar with the Pahn Kahl may struggle to differentiate the Pahn Kahl from the other Hallandren; oftentimes they are not seen as their own distinct people. This confusion is a great annoyance to them. The Pahn Kahl are often marginalized by the Hallandren, and are very frustrated with being ignored and subjugated by them. This is especially infuriating to them as the Pahn Kahl were the first people in the region, and have been conquered by relative newcomers.
+Many of the Pahn Kahl live a difficult life, working under harsh overseers in the dye fields. Some have managed to work their way into high importance but low prestige jobs, such as stewards and servants for the priests and Returned in the [[Court of the Gods\|Court of the Gods]]. This provides a far better life than working in the dye fields. This work is however unstable, anytime a new God King is chosen, all his workers lose their jobs. In addition to this, Pahn Kahl servants have to work harder to gain jobs within the theocracy, and those jobs are often more difficult than the Hallandren servants. They all required to wear brown robes and are forbidden to speak to or touch the God King himself. In fact they are not even permitted to be servants to the God King, although they may be servants to his wife. Pahn Kahl are also not permitted to serve as priests to the gods either.
+All these things have led to their rebellious spirit and their desire for revenge and freedom. Consumed by their anger, as well as their desire for independence, the Pahn Kahl have lost much of their cultural identity..
+
+## History
+### Newcomers
+The Pahn Kahl people are the natives to the Hallandren jungle., during their early history they lived in a collection of fishing villages along the coast. When the people of [[Chedesh\|Chedesh]] began exploring other parts of the [[Inner Sea\|Inner Sea's]] coastline a group of their ships discovered this valley filled with jungles. One of the explorers, [[Vo\|Vo]], died and became the first [[Returned\|Returned]] while on one of the ships in the bay. He then died again a week later. Dismissing the native Pahn Kahl, his crewmates founded a kingdom on the site and named it Hanald.
+As Hanald grew the Pahn Kahl established their own kingdom, claiming the southern parts of the lowlands.
+
+### Tensions and the Manywar
+As the dye trade was one of the main reasons for Hanald’s quick growth, they started a monopoly on the dye trade, and other kingdoms, including Pahn Kahl, quickly grew to resent them because of it, and also started hoping to take control of Hallandren and share in the dye profits.
+As Hanald grew they turned their attention towards the newly discovered art of [[Awakening\|awakening]]. During this time major discoveries and developments were made in awakening. A lot of these discoveries were made by the [[Five Scholars\|Five Scholars]], a few examples include the command to make [[Lifeless\|lifeless]] with a single breath and the invention of [[Ichor-alcohol\|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies. Because many of these discoveries were made in Hanald the other nations grew scared as they would only get behind farther and farther as time passed.
+At some point, one of the [[Returned\|Returned]] in Hanald had a vision of war. This ended up being the catalyst for a war, as it prompted [[Strifelover\|Strifelover]] to strike preemptively against the other nations.
+What was to become known as the [[Manywar\|Manywar]] broke out. The Pahn Kahl generally hold that this war was the fault of Hanald's royal family, who they accuse of seeking new Awakening techniques and Lifeless without realizing these could be turned against them. At some point the kingdom of Pahn Kahl joined or created the [[Pahn Unity\|Pahn Unity]] along with multiple other kingdoms. This coalition would fight against the forces of Hanald the famous battle of The Twilight Falls is a well known example of this. The leader of the Pahn Unity died in this battle.
+Near the end of the war Pahn Kahl was conquered by Hanald, its people being enslaved and made to work. After the [[Manywar\|Manywar]] ended and Hanald split Pahn Kahl became a province in the south of Hallandren. It’s people would eventually become second class citizens, over time the Pahn Kahl people became heavily associated with their conquerors, with few outside of Pahn Kahl understanding or caring about the difference between the two peoples. Most Pahn Kahl work hard labour intensive jobs in the dye fields. While the people kept wishing for independence Pahn Kahl earned a reputation for being a quiet and peaceful province.
+
+### Failed Rebellions
+*For more information see [[Vahr\|Vahr]], and the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].*
+
+>“* You're from Pahn Kahl, yet everyone always just assumes that your people are Hallandren. The Pahn Kahl people were here first, in this land, but it was taken from you. Now you're just another province, part of the kingdom of your conquerors.*”
+\- Siri to Bluefingers[5]
+
+
+Despite their defeat, the Pahn Kahl were not content to remain subjugated. Approximately three hundred years after the defeat of the Pahn Unity, around the year 321, a Pahn Kahl man named Vahr began to foment rebellion among the Pahn Kahl dye workers and dissidents. He convinced many of them to give him their [[Breath\|Breath]] and began to assemble an army. Little to Vahr's knowledge, a second group of Pahn Kahl, led by the God King [[Susebron\|Susebron's]] steward, [[Havarseth\|Havarseth]], were also independently plotting a rebellion. Havarseth, also known as Bluefingers, felt that Vahr's rebellion was drawing too much attention to the Pahn Kahl people. Bluefingers leaked information about Vahr into the [[Court of the Gods\|Court of the Gods]] resulting in Vahr's capture and the end of his rebellion.
+Bluefingers's own rebellion was far more subtle than Vahr's. As he did not have his own army, he instead conspired to instigate a war between Hallandren and Idris, hoping that in the fighting Pahn Kahl could declare independence and break away. Due to his high-level position as the God King's steward, Bluefingers was in the perfect position to manipulate events, and his actions were often overlooked or ignored because of his race.
+Bluefingers sneaked Pahn Kahl Awakeners into the Court through tunnels to begin Breaking the [[Lifeless\|Lifeless]] in Hallandren's armies. He later used these Lifeless, along with mercenaries and Pahn Kahl scribes disguised as priests to take control of the God King's palace and capture both the God King and his wife, [[Sisirinah\|Sisirinah]]. He also gained control of the rest of Hallandren's forty thousand Lifeless soldiers by forcing the Returned gods [[Lightsong\|Lightsong]] and [[Blushweaver\|Blushweaver]] to reveal their Commands. These Lifeless were then Commanded to march on Idris to start a new war.
+Bluefingers intended to kill both Blushweaver and Lightsong then plant their corpses surrounded by Idrian bodies, making it appear as if Idrian rebels had killed them in retaliation for deploying the Lifeless against Idris. He also intended to kill both Siri and Susebron and make it appear as if the God King had his wife sacrificed on an altar and had been killed by vengeful Idrian assassins.
+However, Lightsong thwarted these plans by healing the God King's maimed tongue with his [[Divine Breath\|divine Breath]], allowing Susebron to finally make use of his [[/wiki/Heightening#Tenth Heightening]] to save Siri, and defeat the Pahn Kahl rebels. Peacegiver, who had been attempting to prevent this conflict on his own in the guise of Vasher, gave Susebron control of his ancient army of Lifeless, [[Kalad's Phantoms\|Kalad's Phantoms]]. Susebron used this army to defeat the Lifeless soldiers that were marching on Idris, preventing the war between the two kingdoms and quashing the Pahn Kahl rebellion.
+
+## Notable People
+For more information, see :Category: Pahn Kahl.
+[[Vahr\|Vahr]]: A failed revolutionary who tried to lead the Pahn Kahl to freedom through force.
+[[Tonk Fah\|Tonk Fah]]: A mercenary working for [[Denth\|Denth]].
+[[Havarseth\|Havarseth]]: Also called Bluefingers, serves as steward to the God King while plotting his own rebellion.
+## Trivia
+Brandon often adds an additional "h" to Pahn Kahl words in order to distinguish them and make them sound "airier".
+One of Brandon's concerns is that he made the Pahn Kahl too forgettable to the reader as well, lessening the impact of their rebellion.
+One of the things that would be explored further in [[Nightblood (book)\|Nightblood]], the sequel to [[Warbreaker\|Warbreaker]] is the Pahn Kahl and their culture.
+
+
+https://coppermind.net/wiki/Pahn_Kahl

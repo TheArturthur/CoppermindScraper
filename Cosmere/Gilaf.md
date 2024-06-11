@@ -1,33 +1,20 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Gilaf**|
 |-|-|
-|**Familia**|
-|**Hermanos**|[[Alanik\|Alanik]]|
-|**Especie**|[[UrDail\|UrDail]]|
-|**Mundo natal**|[[ReAlba (planeta)\|ReAlba]]|
-|**Universo**|[[Citoverso\|Citoverso]]|
-|**Presentado en**|*[[ReAlba (novella)\|ReAlba]]*|
+|**Family**|
+|**Siblings**|[[Alanik\|Alanik]]|
+|**Species**|[[UrDail\|UrDail]]|
+|**Homeworld**|[[ReDawn (planet)\|ReDawn]]|
+|**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[ReDawn (novella)\|ReDawn]]*|
 
-> [!info] Parece que esta página necesita actualizarse con nueva información de *[[ReAlba (novella)\|ReAlba]]* y *[[Perpetua\|Perpetua]]*!¡Ten cuidado! Es posible que en su estado, no contenga toda la información adicional todavía.
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]* and *[[Evershore (novella)\|Evershore]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Gilaf** es un piloto [[UrDail\|UrDail]] de [[ReAlba (planeta)\|ReAlba]]. Es hermano de [[Alanik\|Alanik]] y miembro de la facción Independencia.
+**Gilaf** is an [[UrDail\|UrDail]] pilot from [[ReDawn (planet)\|ReDawn]]. He is the brother of [[Alanik\|Alanik]], and a member of the Independence faction.
 
-## Historia
-Gilaf fue destinado a Hueco, y él y sus compañeros de escuadrón ayudaron a supervisar el trabajo maderero allí. Él, junto con muchos otros miembros de la facción Independencia, fueron capturados por Unidad y la Supremacía. Alanik y el [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] lo rescataron a él y a sus compañeros, y todos ellos se subieron a sus cazas para ayudar a luchar contra la fuerza que Unidad envió contra ellos. Lucharon bien y resistieron, pero pronto llegaron refuerzos de Unidad y se vieron obligados a retirarse.
-Alanik decidió que debían retirarse a [[Hoja Errante\|Hoja Errante]], aunque Gilaf expresó sus dudas ante la idea. Los miembros del Escuadrón Cielo utilizaron sus [[Taynix\|taynix]] para teletransportarse a sí mismos y a los pilotos de Independencia cerca de Hoja Errante y por debajo de sus torretas, realizando varios viajes. Gilaf y los demás entraron en el interior de la plataforma, y pronto se les unió Alanik. Aunque se alarmó un poco ante la presencia de los pilotos humanos, pronto se le pasó.
-
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Escuadr%C3%B3n (saga)\|Escuadrón]] ([[Citoverso\|Citoverso]])**|
-|-|-|
-|**Personajes**|[[Spensa Nightshade\|Spensa]] · [[M-Bot\|M-Bot]] · [[Babosa Letal\|Babosa Letal]] · [[Jorgen Weight\|Jorgen]] · [[Cobb\|Cobb]] · [[Kimmalyn\|Kimmalyn]] · [[Freya Marten\|FM]] · [[Rodge McCaffrey\|Rig]] · [[Hudiya\|Hurl]] · [[Nedd Strong\|Nedd]] · [[Arturo M%C3%A9ndez\|Arturo]] · [[Judy Ivans\|Ironsides]] · [[Morriumur\|Morriumur]] · [[Vapor\|Vapor]] · [[Hesho\|Hesho]] · [[Brade Shimabukuro\|Brade]] · [[Cuna\|Cuna]] · [[Ohz Burtim Winzik\|Winzik]] · [[Jason Write\|Jason Write]] · [[Alanik\|Alanik]] · [[Chet\|Chet]] · [[Palo (Escuadr%C3%B3n)\|Palo]] · [[Becca Nightshade\|Becca Nightshade]]|
-|**Grupos**|[[Varvax\|Varvax]] · [[Quimera (Escuadr%C3%B3n)\|Quimera]] · [[Kitsen\|Kitsen]] · [[Dione\|Dione]] · [[Taynix\|Taynix]] · [[Zapador\|Zapadores]] · [[Escuadr%C3%B3n Cielo\|Escuadrón Cielo]] · [[Liga Desafiante\|Liga Desafiante]] · [[Fuerza de Defensa Desafiante\|Fuerza de Defensa Desafiante]] · [[Supremac%C3%ADa\|Supremacía]] · [[KRELL\|KRELL]]|
-|**Lugares**|[[Detritus\|Detritus]] · [[Caverna %C3%8Dgnea\|Caverna Ígnea]] · [[Base Alta\|Base Alta]] · [[Escuela de vuelo\|Escuela de vuelo]] · [[Estelar (estaci%C3%B3n)\|Estelar]] · [[Plataforma Primaria\|Plataforma Primaria]] · [[Ninguna-parte\|Ninguna-parte]] · [[Tierra (Escuadr%C3%B3n)\|Tierra]] · [[ReAlba (planeta)\|ReAlba]] · [[Orilla Perpetua\|Orilla Perpetua]] · [[V%C3%ADsperas\|Vísperas]]|
-|**Otros**|[[Cit%C3%B3nica (habilidad)\|Citónica]] · [[Aniquiladora\|Aniquiladora]] · [[Guerras humanas\|Guerras humanas]] · [[Batalla de Alta\|Batalla de Alta]] · [[Segunda Batalla de Alta\|Segunda Batalla de Alta]] · [[Compa%C3%B1%C3%ADa Telef%C3%B3nica\|Compañía Telefónica]] · [[Citoverso\|Citoverso]]|
+## History
+Gilaf was stationed at Hollow, and he and his flightmates helped supervise the lumberwork there. He, along with many other members of the Independence faction, were captured by Unity and the Superiority. Alanik and [[Skyward Flight\|Skyward Flight]] rescued him and his companions, and he and his fellow pilots got into their fighters to help fight the force that Unity sent against them. He and the others fought well against the Unity pilots and held their own, but soon Unity reinforcements arrived and they were forced to retreat.
+Alanik decided that they should retreat to [[Wandering Leaf\|Wandering Leaf]], though Gilaf expressed doubt at the idea. The members of Skyward Flight used their [[Taynix\|taynix]] to teleport themselves and the Independence pilots close to Wandering Leaf and underneath its turrets, taking several trips. Gilaf and the others entered inside the platform, and were soon joined by Alanik. Though he was slightly alarmed at the presence of the human pilots, he soon got over it.
 
 
 
-https://es.coppermind.net/wiki/Gilaf
+https://coppermind.net/wiki/Gilaf

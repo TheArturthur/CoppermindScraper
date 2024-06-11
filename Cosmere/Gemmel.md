@@ -1,98 +1,73 @@
-
-
 |**Gemmel**|
 |-|-|
 ||
-|**Capacidades**|[[Alomancia\|Nacido de la bruma]]|
-|**Mundo natal**|[[Scadrial\|Scadrial]]|
-|**Universo**|[[Cosmere\|Cosmere]]|
-|**Presentado en**|*[[El und%C3%A9cimo metal\|El undécimo metal]]*|
+|**Abilities**|[[Allomancy\|Mistborn]]|
+|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Eleventh Metal\|The Eleventh Metal]]*|
 
->“*Estoy aquí para enseñarte a luchar, no a hablar.*”
-\-Gemmel sobre su entrenamiento a Kelsier[1]
-
-
-**Gemmel** es el [[Alomancia\|nacido de la bruma]] que formó a [[Kelsier\|Kelsier]] en la [[Alomancia\|alomancia]].
-
-## Sumario
-
-1 Apariencia y personalidad. [[#Apariencia y personalidad]] 
-2 Atributos y habilidades. [[#Atributos y habilidades]] 
-3 Historia. [[#Historia]] 
-
-3. [[#Fortaleza Shezler]] 
+>“*I'm here to teach you how to fight. Not how to talk.*”
+\-Gemmel about his teaching to Kelsier[1]
 
 
-4 Relaciones. [[#Relaciones]] 
+**Gemmel** is the [[Mistborn\|Mistborn]] who trained [[Kelsier\|Kelsier]] in [[Allomancy\|Allomancy]].
+
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
+3 History. [[#History]] 
+
+3. [[#Keep Shezler]] 
+
+
+4 Relationships. [[#Relationships]] 
 
 4. [[#Kelsier]] 
-4. [[#Ruina]] 
+4. [[#Ruin]] 
 
 
-5 Curiosidades. [[#Curiosidades]] 
-6 Notas. [[#Notas]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
-## Apariencia y personalidad
-Gemmel es escuálido y tiene una barba gris raída y el pelo desordenado. Como la mayoría de los [[Nacido de la bruma\|nacidos de la bruma]], lleva una [[Capa de brumas\|capa de brumas]] en sus escapadas nocturnas. 
-El anciano no está completamente cuerdo, murmura para sí mismo y a veces parece más bestia que hombre. Gemmel cree que las sonrisas forzadas de [[Kelsier\|Kelsier]] parecen espeluznantes, y a menudo deja de hablar en medio de una discusión. Según Kelsier, Gemmel no entiende el humor, ni le gusta que su pupilo intente tomar el control.
-Es probable que sea un [[Skaa\|skaa]] mestizo.
+## Appearance and Personality
+Gemmel is scrawny, and has a ragged gray beard and unkempt hair. Like most [[Mistborn\|Mistborn]], he wears a [[Mistcloak\|mistcloak]] on nightly escapades.
+The aging man isn't completely sane, mutters to himself, and sometimes seems more beast than man. Gemmel thinks that [[Kelsier\|Kelsier's]] forced smiles look creepy, and often stops talking in the middle of an argument. According to Kelsier, Gemmel doesn't understand humor, nor likes it when his pupil tries to take control.
+He likely is a [[Skaa\|skaa]] halfblood.
 
-## Atributos y habilidades
-Gemmel es un [[Nacido de la bruma\|nacido de la bruma]] con una habilidad decente que prefiere utilizar empujones de [[Acero\|acero]] y otros ataques físicos [[Alomancia\|alománticos]]. No le gusta tanto utilizar otros metales, como el [[Cinc\|cinc]] y el [[Lat%C3%B3n\|latón]].
+## Attributes and Abilities
+Gemmel is a decently skilled [[Mistborn\|Mistborn]], who prefers to use [[Steel\|steel]] Pushes and other physical [[Allomantic\|Allomantic]] attacks. He dislikes using other metals as much, such as [[Zinc\|zinc]] and [[Brass\|brass]].
 
-## Historia
-### Fortaleza Shezler
-Sólo tres meses después de que [[Kelsier\|Kelsier]] escapara de los [[Pozos de Hathsin\|Pozos de Hathsin]], él y Gemmel visitan [[Mantiz\|Mantiz]] para infiltrarse en la [[Fortaleza Shezler\|fortaleza Shezler]]. En su camino hacia allí hablan un poco sobre el pasado de Kelsier, y todo el tiempo Gemmel sigue formando a su alumno, lo que incluye atacarlo.
-Al llegar a la fortaleza, Gemmel sube al tejado para tener una mejor vista, matando a algunos guardias por el camino. Cuando ha echado un buen vistazo a los alrededores y Kelsier le ha alcanzado, Gemmel lanza a su pupilo desde el tejado. Una vez abajo de nuevo, atraviesan los terrenos de la fortaleza hasta llegar a un edificio que parece un cobertizo para el mantenimiento de los terrenos, y Gemmel vuelve a matar a un par de guardias, sin importarle que esto pueda revelarlos a los dos. En el cobertizo, encuentran una escalera para bajar, y Gemmel le hace señas a Kelsier para que vaya primero.
-En el sótano, Kelsier comienza a moverse sigilosamente por la habitación, pero Gemmel entra sin ningún intento de pasar desapercibido. En la siguiente habitación, encuentran media docena de [[Skaa\|skaa]] atados y Kelsier comienza a atenderlos, pero es interrumpido cuando [[Antillius Shezler\|Antillius Shezler]], el [[Noble\|noble]] de la fortaleza y también un [[Nacido de la bruma\|nacido de la bruma]], grita y le dispara una moneda. Kelsier consigue matar a Shezler sin ayuda de Gemmel, que ve esto como una oportunidad de entrenamiento. Cuando Kelsier vuelve con los [[Skaa\|skaa]] cautivos, Gemmel está hojeando uno de los cuadernos de Shezler que contiene teorías y supersticiones sobre un [[Malatium\|Undécimo Metal]]. Kelsier coge este libro antes de marcharse, y Gemmel se embolsa un tenedor.
+## History
+### Keep Shezler
+Only three months after [[Kelsier\|Kelsier]] escaped from the [[Pits of Hathsin\|Pits of Hathsin]], he and Gemmel visit [[Mantiz\|Mantiz]] to infiltrate [[Keep Shezler\|Keep Shezler]]. Along their way to the keep, they talk a little about Kelsier’s past, and all the while Gemmel keeps training his student, which includes attacking him.
+Upon reaching the keep, Gemmel goes up the roof to have a better view, killing some guards along the way. When he has taken a good look around and Kelsier has caught up to him, Gemmel throws his pupil off the roof. Once down again, they walk across the keep's grounds to a building that looks like a groundskeeping shed, and Gemmel again kills a pair of guards, not caring that it might reveal the two of them. In the shed, they find a stairway down, and Gemmel waves Kelsier to go first.
+In the basement, Kelsier starts sneaking through the room, but Gemmel comes in without any attempt at stealth. In the next room, they find half a dozen bound up [[Skaa\|skaa]] and Kelsier begins tending to them, but is interrupted when [[Antillius Shezler\|Antillius Shezler]], the keep’s [[Noble\|nobleman]] and also a [[Mistborn\|Mistborn]], shouts and shoots a coin at him. Kelsier manages to kill Shezler without any help from Gemmel, who sees this as a training opportunity. When Kelsier returns to the [[Skaa\|skaa]] captives, Gemmel is leafing through one of Shezler’s notebooks containing theories and superstitions about an [[Malatium\|Eleventh Metal]]. Kelsier takes this book before leaving, and Gemmel pockets a fork.
 
-## Relaciones
+## Relationships
 ### Kelsier
->“*Me pregunto qué he lanzado al mundo al enseñarte alomancia. Aunque mi maestro dijo lo mismo de mí.*”
-\-Kelsier a Vin[3]
+>“*I wonder what I’ve unleashed upon the world by teaching you Allomancy. Of course, my trainer said the same thing about me.*”
+\-Kelsier to Vin[3]
 
-Gemmel es el mentor de [[Kelsier\|Kelsier]] en las artes alománticas. Su formación se centra principalmente en los metales de empuje y tirón, [[Acero\|acero]] y [[Hierro\|hierro]] respectivamente, pero también ayuda a Kelsier a pensar como un alomante, por ejemplo presionándole para que los ocho metales básicos ardan constantemente. Con frecuencia pone a su pupilo en escenarios de vida o muerte, como empujarlo desde la muralla de la ciudad. Aunque a menudo refunfuña, Kelsier le gusta más que sus tres aprendices anteriores, y a veces incluso muestra alguna señal de respeto hacia él.
+Gemmel is [[Kelsier\|Kelsier's]] mentor in the Allomantic arts. His training primarily focuses on the Pushing and Pulling metals, [[Steel\|steel]] and [[Iron\|iron]] respectively, but he also helps Kelsier to think like an Allomancer, for example by pressing him to have all eight basic metals burning constantly. He frequently places his pupil in life or death scenarios, like pushing him off a city wall. Although he often grumbles at Kelsier, Gemmel likes him more than his previous three apprentices, sometimes even showing some sign of respect for him.
 
-### Ruina
-Gemmel está "tocado por" Ruina, y es muy probable que Gemmel posea algún clavo [[Hemal%C3%BArgico\|hemalúrgico]]. Las dos razones principales para suponer que tiene un clavo son que Gemmel oye una voz que nadie más oye y que parece decirle que mate a todo el que se encuentre (la voz de [[Ruina\|Ruina]]), y que las [[Brumas\|brumas]] no se sienten atraídas por él como lo están por la mayoría de los alomantes.
-A través de Ruina, Gemmel conoció cosas que probablemente no podría haber averiguado por sí mismo, como ciertos aspectos sobre el pasado de Kelsier o dónde encontrar el [[Malatium\|Undécimo Metal]]. La influencia de Ruina también afecta a la personalidad de Gemmel. A primera vista, sólo parece un loco, pero mucho de lo que le dice a Kelsier es muy similar a los dichos de Ruina. Esto se aplica especialmente a su respuesta sobre la pregunta sarcástica de Kelsier sobre el sentido de la vida.
+### Ruin
+Gemmel is "touched by" [[Ruin\|Ruin]] and likely [[Hemalurgy\|Hemalurgically]] spiked. The two main reasons to assume that he's spiked are that Gemmel hears a voice no one else hears that seems to tell him to kill everyone he meets (Ruin's voice), and that the [[Mist\|mists]] aren't attracted to him like they are drawn to most Allomancers.
+Through Ruin, Gemmel knew things he probably couldn't have figured out by himself, like certain aspects about Kelsier's past or where to find the [[Malatium\|Eleventh Metal]]. Ruin's influence also affects Gemmel's personality. At first sight, he just seems a madman, but a lot of what he says to Kelsier is very similar to Ruin's sayings. This applies especially to his answer on Kelsier's sarcastic question about the meaning of life.
 
->“*No lo conozco. Creo que está para que podamos morir.*”
-\-Visión de Gemmel sobre el sentido de la vida[1]
-
-
->“*El único sentido de crear algo es verlo morir.*”
-\-Ruina[7]
+>“*Don't know it. I think it's so we can die.*”
+\-Gemmel's vision on the meaning of life[1]
 
 
-## Curiosidades
-Gemmel se encontró con [[Zane Venture\|Zane Venture]] una vez, pero ese encuentro no fue necesariamente relevante.
-Gemmel fue orientado a encontrar a Kelsier, probablemente por Ruina.
-Luchar contra Kelsier hasta la muerte como última parte del entrenamiento parece algo que Gemmel haría.
-## Notas
+>“*The only point in creating something is to watch it die.*”
+\-Ruin[8]
 
 
-
-> [!info] ¡Esta página está probablemente completa!Esta página contiene casi todo el conocimiento que tenemos sobre este tema en este momento.
-El contenido no ha sido revisado todavía.
-|**[[/wiki/Nacidos de la bruma#Era 1]]**|
-|-|-|
-|**Personajes**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Fantasma\|Fantasma]] · [[Edgard Ladrian\|Brisa]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|El lord Legislador]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
-|**Lugares**|[[Imperio Final (in-world)\| Imperio Final]] · [[Dominio (Imperio Final)\|Dominios]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pozos de Hathsin\|Pozos de Hathsin]] · [[Tierra Natal kandra\|Tierra Natal kandra]] · [[Urteau\|Urteau]] · [[Ciudad Fadrex\|Ciudad Fadrex]] · [[Tathingdwen\|Tathingdwen]]|
-|**Etnias y especies**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrisanos]] · [[Inquisidor de acero\|Inquisidores]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Espectro de la bruma\|Espectros de la bruma]] · [[Scadriano del sur\|Scadrianos del sur]]|
-|**Organizaciones**|[[Revuelta skaa\|Revuelta skaa]] · [[Ministerio del Acero\|Ministerio del Acero]] · [[Guardador\|Guardadores]] ([[S%C3%ADnodo\|Sínodo]]) · [[Forjamundos\|Forjamundos]]|
-|**Mitología**|[[La Profundidad\|La Profundidad]] · [[Profec%C3%ADas de Terris\|Profecías de Terris]] · [[Pozo de la Ascensi%C3%B3n (in-world)\|El Pozo de la Ascensión]]|
-
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]] ([[Scadrial\|Scadrial]])**|
-|-|-|
-|**Libros [[/wiki/Nacidos de la bruma#Era 1]]**|[[El Imperio Final (libro)\| El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\| El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] |
-|**Libros [[/wiki/Nacidos de la bruma#Era 2]]**|[[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\| Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]  |
-|**[[Esquirla\|Esquirlas]]**|[[Conservaci%C3%B3n\|Conservación]] · [[Ruina\|Ruina]] · [[Armon%C3%ADa\|Armonía]]|
-|**Historia**|[[Scadrial cl%C3%A1sico\|Scadrial clásico]] · [[El Imperio Final (in-world)\| El Imperio Final]] · [[Catacendro\|Catacendro]] · [[Elendel\|Elendel]] · [[Scadriano del sur\|Scadriano del sur]]|
-|**Magia**|[[Artes met%C3%A1licas\|Artes metálicas]] ([[Alomancia\|Alomancia]], [[Feruquimia\|Feruquimia]], [[Hemalurgia\|Hemalurgia]]) · [[Nacido del metal\|Nacido del metal]] · [[/wiki/Alomancia#Nacido de la bruma]] · [[Brumoso\|Brumoso]] · [[Sabio\|Sabio]] · [[Ferrin\|Ferrin]] · [[Nacidoble\|Nacidoble]] · [[Composici%C3%B3n\|Composición]] · [[Atium\|Atium]] · [[Lerasium\|Lerasium]] · [[Armonium\|Armonium]] · [[Trellium\|Trellium]]|
-|**Multimedia**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Pel%C3%ADcula de Nacidos de la bruma\|Película de Nacidos de la bruma]] · Mistborn: House War|
+## Trivia
+Gemmel met [[Zane Venture\|Zane Venture]] once, but that meeting wasn't necessarily relevant.
+Gemmel was directed to find Kelsier, likely by Ruin.
+Fighting Kelsier to the death as a final piece of training seems like something Gemmel would do.
 
 
-
-https://es.coppermind.net/wiki/Gemmel
+https://coppermind.net/wiki/Gemmel

@@ -1,34 +1,19 @@
-**Este artículo está en proceso de traducción. Por favor, sigan circulando.**
-
-
 |**Teoras**|
 |-|-|
-|**Nación**|[[Teod\|Teod]]🐱︎|
-|**Mundo**|[[Sel\|Sel]]🐱︎|
-|**Universo**|[[Cosmere\|Cosmere]]|
+|**Nation**|[[Teod\|Teod]]|
+|**World**|[[Sel\|Sel]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-**Teoras** es la capital de [[Teod\|Teod]] en [[Sel\|Sel]]. Está rodeada de bosques y alberga un gran puerto marítimo.
-Teoras era conocida por albergar el mayor templo [[Korathi\|korathi]] de Teod. Sin embargo, cuando [[Sarene\|Sarene]] entró en [[Elantris (ciudad)\|Elantris]] con [[Raoden\|Raoden]] (bajo la apariencia de Espíritu), se quedó boquiabierta ante la capilla korathi que había allí y su belleza, diciendo que sus relieves en las paredes eran más intrincados incluso que los del templo de Teoras, lo que implica que tal vez el templo de Teoras sólo estaba a la par de los templos korathi elantrinos. Por lo tanto, durante el tiempo después del [[Reod\|Reod]] y antes de la restauración de Elantris, el templo de Teoras habría sido el templo korathi más grande del mundo.
+>“*Spirit laughed again, leading her into a large, stately building. Sarene gasped in wonder at its beauty. It was lined with delicate, spiraled arches, and the floor was crafted of pale white marble. The wall reliefs were even more intricate than those on the Korathi temple in Teoras.*”
+\-Sarene on entering the Elantrian chapel.[1]
 
->“*Espíritu volvió a reírse y la condujo a un edificio grande y solemne. Sarene se quedó boquiabierta ante su belleza. Estaba flanqueado por delicados arcos en espiral y el suelo era de mármol blanco. Los bajorrelieves de las paredes eran aún más trabajados que los del templo korathi de Teoras.*”
-\-Sarene al entrar en la capilla elantrina.[3]
+**Teoras** is the capital city of [[Teod\|Teod]] on [[Sel\|Sel]]. It is surrounded by forest and hosted a large sea-port. The roads are made of cobblestone, and there is a main road leading to the docks. At least some of the buildings have brick walls.
+Teoras was best known for housing the largest [[Korathi\|Korathi]] temple in Teod. However, when [[Sarene\|Sarene]] entered [[Elantris (city)\|Elantris]] with [[Raoden\|Raoden]] (under the guise of Spirit), she gasped at the Korathi chapel there and its beauty, saying its wall reliefs were more intricate than even Teoras's temple, which implies that perhaps Teoras's temple was only matched by the Elantrian Korathi temples. So, during the time after the [[Reod\|Reod]] and before the restoration of Elantris, Teoras's temple would have been the largest Korathi temple in the world.
+When [[Sarene\|Sarene]] was eleven a troop of players passed through Teoras and Sarene declared she wished to be an actress rather than a princess.
+Under [[Dilaf\|Dilaf]], the [[Dakhor\|Dakhor]] attacked Teoras in the [[Battle of Teoras\|Battle of Teoras]].
 
-
-Cuando [[Sarene\|Sarene]] tenía once años, una compañía de comicos pasó por Teoras y Sarene declaró que deseaba ser actriz en lugar de princesa.
-Bajo las órdenes de [[Dilaf\|Dilaf]], los [[Dakhor\|dakhor]] atacaron Teoras en la [[Batalla de Teoras\|batalla de Teoras]].
-
-## Curiosidades
-En la edición original de Elantris, la capital de Teod se llamaba Teoin, y Teoras era una ciudad situada al este. En la edición décimo aniversario, las referencias a Teoin se cambiaron por Teoras.
-## Notas
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Elantris (libro)\|Elantris]] (**[[Sel\|Sel]]**)**|
-|-|-|
-|**Personajes**|[[Raoden\|Raoden]] · [[Sarene\|Sarene]] · [[Hrathen\|Hrathen]] · [[Dilaf\|Dilaf]] · [[Galladon\|Galladon]] · [[Eventeo\|Eventeo]] · [[Kiin\|Kiin]] · [[Iadon\|Iadon]] · [[Roial\|Roial]]|
-|**Lugares**|[[Opelon\|Opelon]] · [[Arelon\|Arelon]] · [[Elantris (ciudad)\|Ciudad de Elantris]] · [[Duladel\|Duladel]] · [[Fjorden\|Fjorden]] · [[Teod\|Teod]] · [[JinDo\|JinDo]] · [[Svorden\|Svorden]]|
-|**Magia**|[[AonDor\|AonDor]] · [[Aon\|Aones]] · [[Dakhor\|Dakhor]] · [[ChayShan\|ChayShan]] · [[Seon\|Seones]] · [[Skaze\|Skazes]] · [[Shaod\|La Shaod]] · [[Falsificaci%C3%B3n\|Falsificación]] · [[Perpendicularidad de Devoci%C3%B3n\|El Lago]]|
-|**Mitología**|[[Devoci%C3%B3n\|Devoción]] · [[Dominio\|Dominio]] · [[Dor\|El Dor]] · [[Reod\|El Reod]] · [[Shu-Korath\|Shu-Korath]] · [[Shu-Dereth\|Shu-Dereth]] · [[Shu-Keseg\|Shu-Keseg]]|
+## Trivia
+In the original edition of Elantris, the capital of Teod was called Teoin, with Teoras being a city to its east. This was changed in the anniversary edition with references to Teoin all changed to Teoras.
 
 
-
-https://es.coppermind.net/wiki/Teoras
+https://coppermind.net/wiki/Teoras

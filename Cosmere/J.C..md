@@ -1,16 +1,16 @@
 |**J.C.**|
 |-|-|
-|**Habilidades**|Military training|
-|**Grupos**|[[Aspecto\|Aspectos]]|
-|**Mundo natal**|[[Tierra (Legi%C3%B3n)\|Tierra (Legión)]]|
+|**Skills**|Military training|
+|**Groups**|[[Aspect\|Aspect]]|
+|**Homeworld**|[[Earth (Legion)\|Earth (Legion)]]|
 
 >“*Life is much simpler when you can just assume that everyone is trying to kill you.*”
 \-J.C.[1]
 
 
-**J.C.** is one of [[Stephen Leeds\|Stephen Leeds]]' .
+**J.C.** is one of [[Stephen Leeds\|Stephen Leeds']] [[Aspect\|aspects]].
 
-## Sumario
+## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
@@ -47,11 +47,11 @@ On two occasions, he has also been able to physically move Stephen to protect hi
 ## History
 ### Search for Razon's Camera
 J.C. was shooting a picture of  when Stephen asked him to stop. He continued shooting for a while but eventually stopped and checked in on Stephen while he and a few other aspects were entertaining a petitioner who turned out to be a grad student looking for research, but stayed outside the room. He checked in again when they opened the letter containing the picture of the .
-Later, when [[Monica\|Monica]] showed up, he advised Stephen to wear a gun, just in case. During the conversation when Monica hires Stephen, he endured being the butt of several jokes. Stephen brought him along to [[Balubal Razon\|Razon's]] house, where he identified both the gun kept by Razon and the one carried by Monica, raising questions about both. Stephen took him along to . On the plane ride there, he made fun of [[Kalyani\|Kalyani]], a new linguist aspect. While in Jerusalem, J.C. carried a duffel with an  in it, claiming he has contacts in Jerusalem able to supply him with such. He got carried away in an argument with [[Ivy\|Ivy]] and ended up making out with her in a secluded alcove of the . Upon discovery by Stephen, he rejoined the other aspects. When Stephen was knocked out, Stephen imagined that his captors took all of his aspects hostage alongside him, so J.C. ended up together with Stephen and all the aspects present in custody of the . He untied the other aspects but feigned inability to untie Stephen and Monica so he didn't have to admit that he isn't real. He accompanied Stephen while Stephen failed to fix . When Monica's escape provoked a shooting match, he helped Stephen to shoot all of the terrorists with one of their own guns. A barely-alive terrorist pulled the pin on a grenade, injuring Stephen. Back at , J.C. continued to argue with Ivy.
+Later, when [[Monica\|Monica]] showed up, he advised Stephen to wear a gun, just in case. During the conversation when Monica hires Stephen, he endured being the butt of several jokes. Stephen brought him along to [[Balubal Razon\|Razon's]] house, where he identified both the gun kept by Razon and the one carried by Monica, raising questions about both. Stephen took him along to . On the plane ride there, he made fun of [[Kalyani\|Kalyani]], a new linguist aspect. While in Jerusalem, J.C. carried a duffel with an  in it, claiming he has contacts in Jerusalem able to supply him with such. He got carried away in an argument with [[Ivy\|Ivy]] and ended up making out with her in a secluded alcove of the . Upon discovery by Stephen, he rejoined the other aspects. When Stephen was knocked out, Stephen imagined that his captors took all of his aspects hostage alongside him, so J.C. ended up together with Stephen and all the aspects present in custody of the . He untied the other aspects but feigned inability to untie Stephen and Monica so he didn't have to admit that he isn't real. He accompanied Stephen while Stephen failed to fix [[Razon's camera\|Razon's camera]]. When Monica's escape provoked a shooting match, he helped Stephen to shoot all of the terrorists with one of their own guns. A barely-alive terrorist pulled the pin on a grenade, injuring Stephen. Back at [[Stephen Leeds' mansion\|Stephen's mansion]], J.C. continued to argue with Ivy.
 
 ### The I3 incident
 J.C. showed up to Stephen's date with [[Sylvia\|Sylvia]], despite not having been invited. This disobedience concerned Ivy. He did, however manage to identify [[Zen Rigby\|Zen Rigby]], an assassin who was suspiciously dining at the same place Stephen was. As they met with [[Yol Chay\|Yol Chay]], Yol donated to the  in J.C.'s name, which annoyed him. Yol hired Stephen to find the body of [[Panos Maheras\|Panos Maheras]]. Stephen and the aspects next proceeded to [[I3\|I3]] headquarters, where J.C. noted that the inviting atmosphere undermined the security measures. As they left I3, J.C. used his cell phone to tell the other aspects to organize in the White Room.
-In the White Room, he fired a gun at the ceiling to quiet the room. His contribution was a suggestion that Stephen should confirm independently that the feds are involved as Yol claimed. He also suggested that Stephen change clothes to insure he wasn't bugged by Zen. While in transit to the coroner's office to search for clues, J.C. identified that they were being tailed. Fearing Zen, J.C. helps Stephen exit the car while its moving to confront the tail. Unfortunately, the tail was [[Dion Maheras\|Dion Maheras]], Panos' younger brother, not Zen. J.C. correctly deduced that they actually had *two* tails, Zen and Dion. While at [[Liza\|Liza]]'s office, J.C. helped Stephen realize that security is actually quite good. He also called Kaylani to videochat with [[Ngozi\|Ngozi]] to do some forensic investigation. After Stephen got the security tapes, he was confronted by Zen. J.C. helped him to navigate the confrontation, telling him what kind of gun Zen carried and telling him to do as she asked. The aspects and Stephen next go to ' house.
+In the White Room, he fired a gun at the ceiling to quiet the room. His contribution was a suggestion that Stephen should confirm independently that the feds are involved as Yol claimed. He also suggested that Stephen change clothes to insure he wasn't bugged by Zen. While in transit to the coroner's office to search for clues, J.C. identified that they were being tailed. Fearing Zen, J.C. helps Stephen exit the car while its moving to confront the tail. Unfortunately, the tail was [[Dion Maheras\|Dion Maheras]], Panos' younger brother, not Zen. J.C. correctly deduced that they actually had *two* tails, Zen and Dion. While at [[Liza\|Liza's]] office, J.C. helped Stephen realize that security is actually quite good. He also called Kaylani to videochat with [[Ngozi\|Ngozi]] to do some forensic investigation. After Stephen got the security tapes, he was confronted by Zen. J.C. helped him to navigate the confrontation, telling him what kind of gun Zen carried and telling him to do as she asked. The aspects and Stephen next go to [[Mrs. Maheras\|Mrs. Maheras']] house.
 Just as they left Mrs. Maheras' house, Stephen said he wanted to break in to [[Exeltec\|Exeltec]], an I3 rival that hired Zen. Shortly afterwards, J.C. realized that Zen bugged Stephen during the tussle outside the coroner's office. Stephen then ditched his previous plan and went to Denny's instead. J.C. ordered and ate some food. After Denny's, Zen came up to the car and had Stephen get all of his aspects out of the car, including J.C. She prevented Stephen from leaving, however, and forced Dion to drive off with only Stephen, Zen, and (unbeknownst to Zen) Audrey in the car. J.C. attempted to run after the car, but he ran out of breath when Stephen noticed the car was going too fast for J.C. to possibly keep up. After Stephen escaped from Zen, J.C. accompanied him to Mrs. Maheras' house once more to turn the body over to the feds.
 
 ### Chasing Sandra
@@ -71,17 +71,8 @@ J.C. bickers constantly with Ivy, although the two have a love-hate relationship
 J.C. is one of Stephen's older aspects and they have a mutual respect, although Stephen (and the other aspects) occasionally jest about J.C.'s usefulness. J.C. calls him Skinny, presumably referring to his smaller build when compared to J.C. Stephen usually takes J.C. along for most things, along with Ivy and Tobias.
 
 ## Trivia
-J.C. was [[Brandon\|Brandon]]'s favorite aspect to write.
+J.C. was [[Brandon\|Brandon's]] favorite aspect to write.
 All of the aspects, except Kalyani, were loosely based on famous actors. J.C. was based on  from .
-## Notes
-
-A este artículo le falta información. Por favor, ayuda a The Coppermind .
-|**[[Legi%C3%B3n (saga)\|Legión]]**|
-|-|-|
-|**Personajes**|[[Stephen Leeds\|Stephen Leeds]] · [[Wilson\|Wilson]] · [[Monica\|Monica]] · [[Balubal Razon\|Balubal Razon]] · [[Yol Chay\|Yol Chay]] · [[Zen Rigby\|Zen Rigby]] · [[Dion Maheras\|Dion Maheras]] · [[Sandra\|Sandra]] · [[Barb\|Barb]] · [[Kyle Walters\|Kyle Walters]]|
-|**[[Aspecto\|Aspectos]]**|[[Ivy\|Ivy]] ·  · [[Tobias\|Tobias]] · [[Kalyani\|Kalyani]] · [[Audrey\|Audrey]] · [[Ngozi\|Ngozi]] · [[Jenny\|Jenny]]|
-|**Otros**|[[Laboratorios Azari\|Laboratorios Azari]] · [[Innovaci%C3%B3n e Informaci%C3%B3n Incorporada\|Innovación e Información Incorporada]] · [[Exeltec\|Exeltec]] · [[Wode\|Wode]]|
 
 
-
-https://es.coppermind.net/wiki/J.C.
+https://coppermind.net/wiki/J.C.
