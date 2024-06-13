@@ -6,7 +6,7 @@
 |**Aliases**|Ishi, Tashi, Tezim, Ishu-son-God|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 

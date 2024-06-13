@@ -6,6 +6,7 @@
 |**Aliases**|Chana, Chanaranach, Chan-a-rach|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*Chana help the man or woman who stood between [[Navani\|Navani]] and one of her own.*”
 \-Dalinar[3]

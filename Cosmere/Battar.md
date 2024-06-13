@@ -7,6 +7,7 @@
 |**Groups**|[[Diagram (group)\|Diagram]]|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Sweet wisdom of Battar.*”
 \-A Rosharan saying[1]

@@ -14,7 +14,7 @@
 \-Jezrien on the Oathpact[5]
 
 
-**Jezrien**, also known as **Jezerezeh'Elin**, **Yaezir** and **Yaysi**, is one of the ten [[Herald\|Heralds]] of [[The Almighty\|the Almighty]] and the Patron of the [[Order of Windrunners\|Order of Windrunners]]. Jezrien fought in multiple [[Desolation\|Desolations]], defending mankind from the [[Voidbringer\|Voidbringers]] and returning to [[Damnation\|Damnation]] between Desolations to be tortured. After centuries of combat, Jezrien abandoned the [[Oathpact\|Oathpact]] with eight of the other Heralds, pretending the Voidbringers had been defeated once and for all. He went into hiding, gradually losing his mind, while the rest of the world revere his memory and he becomes a figure of legend over the following millennia.
+**Jezrien**, also known as **Jezerezeh'Elin**, **Yaezir** and **Yaysi**, is one of the ten [[Herald\|Heralds]] of [[The Almighty\|the Almighty]] and the Patron of the [[Order of Windrunners\|Order of Windrunners]]. Jezrien fights in multiple [[Desolation\|Desolations]], defending mankind from the [[Voidbringer\|Voidbringers]] and returning to [[Damnation\|Damnation]] between Desolations to be tortured. After centuries of combat, Jezrien abandons the [[Oathpact\|Oathpact]] with eight of the other Heralds, pretending the Voidbringers have been defeated once and for all. He goes into hiding, gradually losing his mind, while the rest of the world revere his memory and he becomes a figure of legend over the following millennia.
 
 ## Contents
 

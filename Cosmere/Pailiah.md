@@ -6,6 +6,7 @@
 |**Aliases**|Pali|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Pailiah**, nicknamed **Pali**, is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]]. She is the patron of the [[Order of Truthwatchers\|Order of Truthwatchers]].
 

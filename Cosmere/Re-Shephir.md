@@ -7,7 +7,7 @@
 |**Species**|[[Spren\|Spren]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 

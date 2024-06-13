@@ -6,6 +6,7 @@
 |**Aliases**|Vedeledev, Vev|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Way of Kings\|Way of Kings]]*|
 
 **Vedel**, also known as **Vedeledev** in [[Vorinism\|Vorinism]], is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]], and the patron Herald of the [[Order of Edgedancers\|Order of Edgedancers]]. Like the other Heralds, Vedel protected mankind during the Cycle of [[Desolation\|Desolations]] before abandoning them at [[Aharietiam\|Aharietiam]].
 

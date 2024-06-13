@@ -5,7 +5,7 @@
 |**Species**|[[Kandra\|Kandra]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
