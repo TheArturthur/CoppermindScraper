@@ -7,7 +7,7 @@
 |**Released**|December 6th, 2024|
 |**Publisher**||
 
-***Wind and Truth*** is the planned title of the fifth book of *[[The Stormlight Archive\|The Stormlight Archive]]*, which is the planned ending to the front half of the series. It is currently planned to be released on December 6th, 2024, coinciding with the 2024 [[Dragonsteel Entertainment\|Dragonsteel]] convention. The book was previously known as *Knights of Wind and Truth*. The titles of the first arc of the series thus parallels the [[Ketek\|Ketek]] structure (**TWoK,WoR,O,RoW,KoW**(a)**T**), but is not a true Ketek.
+***Wind and Truth*** is the fifth book of *[[The Stormlight Archive\|The Stormlight Archive]]*, which is the planned ending to the front half of the series. It is currently planned to be released on December 6th, 2024, coinciding with the 2024 [[Dragonsteel Entertainment\|Dragonsteel]] convention. The book was previously known as *Knights of Wind and Truth*. The titles of the first arc of the series thus parallels the [[Ketek\|Ketek]] structure (**TWoK,WoR,O,RoW,KoW**(a)**T**), but is not a true Ketek.
 
 ## Contents
 

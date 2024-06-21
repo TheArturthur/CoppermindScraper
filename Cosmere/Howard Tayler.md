@@ -3,7 +3,6 @@ American cartoonist
 |-|-|
 ||
 |**Born**| (1968-02-29) February 29, 1968 (age 56)[[Florida\|Florida]], United States|
-|**Nationality**|American|
 |**Area(s)**|Cartoonist, author|
 |**Notable works**|*[[Schlock Mercenary\|Schlock Mercenary]]*|
 |**Awards**|[[Hugo Award\|Hugo Award]] (2013)[[Web Cartoonists' Choice Awards\|WCCA]] Best Cameo Award (2001)WCCA Outstanding Science Fiction Comic (2004)|
