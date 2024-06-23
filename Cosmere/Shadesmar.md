@@ -126,7 +126,7 @@ The **Rosharan subastral** is a section of the [[Cognitive Realm\|Cognitive Real
 
 ## Locations
 For more images, see [[Rosharan subastral/Gallery\|/Gallery]].
-The Rosharan subastral is part of a single infinite plane that connects to the other subastrals in the [[Cosmere\|cosmere]] by regions that are locally known as *Expanses*. Moving far enough in the direction of an Expanse, will take you to another world in the cosmere. The four Expanses at the edge of the Rosharan subastral are;
+The Rosharan subastral is part of a single infinite plane that connects to the other subastrals in the [[Cosmere\|cosmere]] by regions that are locally known as *Expanses*. Moving far enough in the direction of an Expanse, will take you to another world in the cosmere. The four Expanses at the edge of the Rosharan subastral are:
 
   Shadesmar Map
 
@@ -135,7 +135,7 @@ The Rosharan subastral is part of a single infinite plane that connects to the o
 [[Expanse of Vibrance\|Expanse of Vibrance]]: - possibly leads to Nalthis
 [[Expanse of the Broken Sky\|Expanse of the Broken Sky]] - Unknown
 
-Other locations in Shadesmar include;
+Other locations in Shadesmar include:
 
 
 [[Nexus of Imagination\|Nexus of Imagination]]
@@ -149,7 +149,7 @@ Other locations in Shadesmar include;
 It is possible to cross between diametrical points on [[Roshar\|Roshar]] by utilizing the Cognitive Realm, however, it would be difficult.
 
 ### Notable Locations
-True [[Spren\|spren]] live in a number of cities and other settlements in Shadesmar. Some of these cities are inhabited and ruled by a single type of spren, however, not all [[/wiki/Spren#True Spren]] have their own kingdom. [[Cryptic\|Cryptics]] are known to rule one of the greater cities in Shadesmar, and the [[Honorspren\|honorspren]] have control of multiple locations. [[Cultivationspren\|Cultivationspren]], however, rule no cities in the realm. A clan of [[Horneater\|Horneaters]] live permanently in Shadesmar, presumably nearby to [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]].
+True [[Spren\|spren]] live in a number of cities and other settlements in Shadesmar. Some of these cities are inhabited and ruled by a single type of spren, however, not all [[/wiki/Spren#True Spren]] have their own kingdom. [[Cryptic\|Cryptics]] are known to rule one of the greater cities in Shadesmar, and the [[Honorspren\|honorspren]] have control of multiple locations. [[Cultivationspren\|Cultivationspren]], however, rule no cities in the realm. A clan of [[Horneater\|Horneaters]] live permanently in Shadesmar, presumably nearby to [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. Known settlements in Shadesmar include:
 
 
 [[Celebrant\|Celebrant]] - a prominent trading port that can be found in the [[Sea of Lost Lights\|Sea of Lost Lights]]

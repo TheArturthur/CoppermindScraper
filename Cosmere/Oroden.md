@@ -13,7 +13,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Oroden** is an [[Alethi\|Alethi]] toddler on [[Roshar\|Roshar]]. He is the youngest child of [[Lirin\|Lirin]] and [[Hesina\|Hesina]] and [[Kaladin\|Kaladin's]] baby brother.
+**Oroden** is an [[Alethi\|Alethi]] toddler on [[Roshar\|Roshar]]. He is the youngest child of [[Lirin\|Lirin]] and [[Hesina\|Hesina]] and is [[Kaladin\|Kaladin's]] baby brother.
 
 ## Contents
 
@@ -28,17 +28,18 @@
 
 
 ## Appearance and Personality
+  With <<Kaladin\|Kaladin>>
+For more images, see [[Oroden/Gallery\|/Gallery]].
 Oroden seems to be a happy child. He takes quickly to both Kaladin and Rlain, and enjoys playing with toys.
 
-For more images, see [[Oroden/Gallery\|/Gallery]].
 ## History
 ### Hearthstone
 Oroden was born in Hearthstone in late 1172 or early 1173, around three years after his older brothers Kaladin and [[Tien\|Tien]] left home to serve in the [[Alethi\|Alethi]] armies. Hesina was around forty years old when she gave birth to Oroden. His name means 'child of peace'.
 Kaladin had very little contact with his parents after leaving home; by the time Oroden was born, they thought Kaladin was dead. He learned of Oroden's existence when he returned to Hearthstone in early 1175. Although he was somewhat shocked by his aging parents having another child, Kaladin wept upon meeting his brother, who was around a year old at the time.
 Oroden, along with the rest of the people of [[Hearthstone\|Hearthstone]], sheltered in [[Roshone\|Roshone's]] manor when the [[Everstorm\|Everstorm]] hit Hearthstone during the [[True Desolation\|True Desolation]].
 
-  Having his height measured by <<Hesina\|Hesina>>
 ### Urithiru
+  Having his height measured by <<Hesina\|Hesina>>
 Oroden remained in Hearthstone as it was occupied by [[Singer\|singer]] forces, but he and the rest of the town were soon evacuated to [[Urithiru\|Urithiru]] on the *[[Fourth Bridge\|Fourth Bridge]]*. In Urithiru, he lived on the sixth floor with his parents. His crib was in a small room that was more like a closet. He and Kaladin started to become closer, and they sometimes played together. [[Sylphrena\|Sylphrena]] always made herself visible to Oroden, and would entertain him by shapeshifting into different animals. [[Laral\|Laral]] and her governess sometimes watched Oroden alongside Laral's children.
 When Urithiru was assaulted by [[Odium\|Odium's]] forces, Oroden was initially taken care of by a 'village girl', presumably from Hearthstone. Oroden was present when soldiers came to take fallen [[Knights Radiant\|Radiants]] from Lirin's care into custody. After Kaladin killed a [[Regal\|Regal]] in protection of [[Teft\|Teft]], Oroden was heard crying, likely because the nearby commotion disturbed his sleep.
 Lirin, Hesina, and Oroden were subsequently imprisoned in the clinic, held by [[Lezian\|Lezian's]] guards, and later by [[Leshwi\|Leshwi's]] after [[Venli\|Venli]] intervened. [[Rlain\|Rlain]] made sure to ask after Oroden when he learned of Venli's actions. Venli was able to get Rlain assigned to the clinic, and he quickly developed a rapport with the family, including Oroden. The family stayed together when Lirin and Hesina began looking after the fallen Radiants.

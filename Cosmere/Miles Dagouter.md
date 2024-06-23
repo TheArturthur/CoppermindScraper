@@ -22,8 +22,8 @@
 
 1 Appearance & Personality. [[#Appearance .26 Personality]] 
 
-1. [[#Personality]] 
 1. [[#Appearance]] 
+1. [[#Personality]] 
 1. [[#Religious Beliefs]] 
 
 
@@ -58,6 +58,11 @@
 
 
 ## Appearance & Personality
+ 
+### Appearance
+Miles has a hawk-like, but narrow face, with prominent eyebrows and short, black hair. He is an athletic man, with a powerful chest. As a lawman of the Roughs, he normally wears a white duster over regular rugged clothing of the Roughs. He never wears a hat and instead greases his hair back. He also wears tinted spectacles to shade his eyes against the sun. After moving to Elendel and taking up with the Vanishers, Miles' style of dress changes noticeably. He begins to wear the clothes of a city worker, frayed trousers held with suspenders over a buttoned shirt. He also develops a slouch. When Miles prepares to confront Wax for the final time, he wears his old lawman's uniform, one more time. Whatever the clothes, Miles wears boots. Miles wears his goldminds on his lower arms, and likely elsewhere in his body, piercing his skin like bolts to prevent them from being Pushed or Pulled on. He has around thirty goldminds on his person at all times.
+Miles carries a silver lighter with the insignia of the lawkeepers of True Madil etched on its surface. He also smokes [[Citizen Magistrates\|Citizen Magistrates]], an expensive brand of cigar, which he often has on his person. Many times there is a stick or two of dynamite concealed inside the cigar box Miles carries a big-bore revolver, preferring firepower to accuracy, as well as a knife in the back of his boot. Later, after joining the Set, Miles' weapons and rounds are often made of an [[Aluminum\|aluminum]] alloy to prevent Pushing and Pulling. When committing crimes as the leader of the Vanishers, he wears a mask to hide his identity, as he is a rather well-known man in some circles.
+
 ### Personality
 >“*I do what needs to be done, Wax. Isn't that the code of the lawkeeper? I haven't stopped being one; you never stop being a lawkeeper. It gets in you. You do what nobody else will. You stand up for the downtrodden, make things better, stop the criminals. Well, I've just decided to set my sights on a more powerful brand of criminal.*”
 \-Miles to Wax[4]
@@ -76,11 +81,6 @@ Miles is a complex man, but his personality is dominated by one desire, vengeanc
 
 Even while working outside the law, Miles still sees himself as a lawman in many ways. Miles still acts like a lawman rather than a criminal, hunting down those who try to interfere with his plans, rather than going to ground. He believes that he serves the spirit of the law, if not the letter, and that he can now mete out real justice. He believes that the true criminals are the lords and ladies of Elendel, and to ever create lasting change in reducing crime in the Roughs, he has to destroy the place that crime comes from, which he believes to be the City. Miles thinks that a man can only help the poor or serve the nobility, but not both. He also feels that the elite do nothing to actually help the poor and needy in the Roughs and in the City. His desire to overthrow the establishment and destroy the City is not only to help the poor, he takes some small satisfaction in the idea of seeing the corrupt nobles punished for their uselessness. Even with his new convictions, Miles still often questions himself and his decisions, as he has all his life. Despite this uncertainty, Miles displays an imperious and confident attitude.
 Despite his strong beliefs, Miles is still heavily impacted by how people see him. As a former hero of the Roughs, Miles hid his face when going on Vanisher raids for fear of being recognized and branded a criminal. He was hurt when people in the Roughs hated him even while he did his job, but now as the leader of the Vanishers people love him, despite their fear. However, Miles eventually comes to realize that he is an outlaw now and proud of it, and stops covering his face when committing a robbery.
-
- 
-### Appearance
-Miles has a hawk-like, but narrow face, with prominent eyebrows and short, black hair. He is an athletic man, with a powerful chest. As a lawman of the Roughs, he normally wears a white duster over regular rugged clothing of the Roughs. He never wears a hat and instead greases his hair back. He also wears tinted spectacles to shade his eyes against the sun. After moving to Elendel and taking up with the Vanishers, Miles' style of dress changes noticeably. He begins to wear the clothes of a city worker, frayed trousers held with suspenders over a buttoned shirt. He also develops a slouch. When Miles prepares to confront Wax for the final time, he wears his old lawman's uniform, one more time. Whatever the clothes, Miles wears boots. Miles wears his goldminds on his lower arms, and likely elsewhere in his body, piercing his skin like bolts to prevent them from being Pushed or Pulled on. He has around thirty goldminds on his person at all times.
-Miles carries a silver lighter with the insignia of the lawkeepers of True Madil etched on its surface. He also smokes [[Citizen Magistrates\|Citizen Magistrates]], an expensive brand of cigar, which he often has on his person. Many times there is a stick or two of dynamite concealed inside the cigar box Miles carries a big-bore revolver, preferring firepower to accuracy, as well as a knife in the back of his boot. Later, after joining the Set, Miles' weapons and rounds are often made of an [[Aluminum\|aluminum]] alloy to prevent Pushing and Pulling. When committing crimes as the leader of the Vanishers, he wears a mask to hide his identity, as he is a rather well-known man in some circles.
 
 ### Religious Beliefs
 
@@ -154,7 +154,7 @@ This murder and attempted kidnapping incited Wax and Wayne into action. They ret
 As the Vanishers set up the new hideout, Miles met with Edwarn Ladrian to discuss his failure at the wedding dinner. Edwarn rebuked Miles for losing his temper during the raid and questioned his actions regarding Waxillium. Edwarn wondered if Miles and Wax have some sort of grudge or if Miles was unable to kill Wax. Miles assured Ladrian that he was quite capable of taking care of Waxillium and agreed to kill him later that same day. Edwarn also revealed to Miles that the Set have made preparations to steal a final shipment of aluminum from the [[Breaknaught\|Breaknaught]], the new unrobbable freight car belonging to [[House Tekiel\|House Tekiel]].
 
 >“*Is there any doubt that I have been chosen for something great? Why else would I have this power, Waxillium? Why else would we be what we are? And yet, we let others rule. Let them make a mess of our world while we do nothing but chase petty criminals.*”
-\-Miles on his powers[7]
+\-Miles on his powers[5]
 
 Miles confronted Wax as Wax returned from investigating the scene of one of the Vanishers's train robberies with Wayne and Marasi. Miles waited for Wax to leave his train car, and then jammed the locks on the car, trapping Wayne and Marasi before attacking Waxillium. Wax had already come to the conclusion that Miles was the leader of the Vanishers and was expecting an attack. Miles followed Waxillium to the roof of the train, where he had fled to get civilians out of the line of fire. They engaged in a gunfight, but Miles was disarmed when Wax shot his guns out of his hands. Miles spoke to Wax and attempted to explain the reason he had turned his back on the city, but Wax saw him as a simple traitor. Miles managed to get close and throw Wax off of the train, but Wax caught himself with a Steelpush and returned to the train. Miles was surprised by Waxillium and was Pushed off the train by Wax and left behind outside of Elendel.
 Defeated, Miles returned to the foundry beneath the Ironspine to meet with Edwarn Ladrian. Ladrian expressed his disappointment in Miles and informed Miles, to his chagrin, that their hit on the Breaknaught would be the last raid for six months. Miles was ordered to carry out the robbery, leave the foundry, and spend the coming months focusing on recruitment. Miles informed him that Wax was likely to interfere in the robbery and Edwarn ordered him to kill Wax that night. Edwarn gave Miles two Allomancers to use as resource, [[Push\|Push]] and [[Pull\|Pull]], and left the city, as Waxillium was drawing close to the Vanisher headquarters.
@@ -185,13 +185,13 @@ The most enduring component of Miles Dagouter's legacy is a Set that has gained 
 Miles Dagouter and Waxillium Ladrian are perhaps more similar than they are different. They share an odd sort of mutual respect for one another, especially in each other's lawkeeping abilities. Miles is the only man other than Wayne that Wax trusted to watch over Weathering in his absence. Wax was aware of some of Miles' hatred for the City though, and hoped that he would never act on his feelings. His own similarity to Miles scares Wax. Miles for his part had huge respect for Wax, particularly for his skill as a Metalborn.
 
 >“*I know Miles. I know how he thinks. He's like me.*”
-\-Waxillium Ladrian[8]
+\-Waxillium Ladrian[6]
 
 Miles thinks that Wax is incredibly dangerous, but one of the finest men in the world, but that in returning to Elendel to associate with the nobility, he has abandoned any right he has to protection. Miles also believed that Wax was too soft though, he always wondered if he would one day have to hunt down Wax for letting someone go that he should not have. This mutual respect did not extend to actual friendship though, neither man felt particularly close to the other.
 Miles and Wax's minds work in the same way as well. Miles deduced that Waxillium's strategy for catching the Vanishers would be to hide in the train car that they were stealing simply because he knew Wax so well. Miles is disappointed in Wax for becoming one of the men that, in his mind, are the cause of all of the problems in the Roughs.
 
 >“*Wax is not a friend. We were never friends—no more than two rival kings could ever be friends. We respect each other, we did similar jobs, and we worked together. It ends there.*”
-\-Miles on his relationship with Waxillium[8]
+\-Miles on his relationship with Waxillium[6]
 
 He also feels that Wax wasted his potential, afraid to seize the true power that is his birthright as a Metalborn. When fighting against Wax, Miles often becomes reckless, throwing aside his normally cautious nature in his attempts to prove that his actions are justified.
 In many ways, Miles and Wax are the same man that made a different decision, whether they were willing to work outside the law or not. Both of them struggle with upholding the law at times, and feel a certain amount of anger and jealousy that others are permitted to break the law, while they are forced to enforce it. Miles' frustrations however lead him to work outside the law, rejecting the established government. Miles mixes enforcement of an ideal law with vigilante justice carried out by himself and his men. Wax refuses to take matters into his own hands in this way. This ideological disagreement leads them into a conflict that cannot be avoided. Miles believes that since their paths have crossed,there is no way for it to end but in a final confrontation, which Miles welcomes.
@@ -209,7 +209,7 @@ Despite their disdain for one another, Miles and Wayne have a certain respect fo
 ### Tarson and The Vanishers
 
 >“*Of [[Vanishers\|them all]], only Tarson—dear, brutal Tarson—had anything resembling true loyalty.*”
-\-Miles on Tarson[8]
+\-Miles on Tarson[6]
 
 
 Miles and Tarson's relationship was less like a friendship between equals, and more like that between a master and a servant. Tarson was the Vanisher most loyal to Miles, following Miles out of respect, instead of simply for money. Tarson's loyalty makes Miles more fond of him than most of his men. Despite Tarson's rank as second in command of the Vanishers, he did not take much of independent initiative in his leadership role within the Vanishers. Miles kept him in an enforcement role, keeping him around to take hostages and hit whatever Miles wanted him to hit. He also reported findings from the other Vanishers, as well as their general morale to Miles. Tarson assisted Miles personally during Vanisher robberies. When Waxillium and his allies confronted Miles in the foundry below the Ironspine, Tarson was the last of Miles' allies to die, shot by Wax while holding Marasi at gunpoint.
@@ -224,7 +224,7 @@ Miles did not know the Set particularly well. The Set does not like Miles; Edwar
 For a list of quotes from Miles, see [[Miles Dagouter/Quotes\|Miles Dagouter/Quotes]].
 ## Development
 >“*Can't you see? Can't you see what important work we could be doing? Can't you see that we're meant to be doing it, perhaps even ruling. It's almost like like we, with the powers we have, are divine*”
-\-Miles to Wax[7]
+\-Miles to Wax[5]
 
 
 Miles was created to explore a different look at a character like Kelsier. In the original Mistborn trilogy, Kell is one of the heroes of the tale. A brave revolutionary, he commits whatever crime is necessary to overthrow the corrupt regime of the Final Empire, removing those in charge and starting a new era of peace. Miles on the other hand, wants all of those same things, but he is painted as a villain, because our heroes this time are on the side of the establishment. Kell and Miles have similar methods, personalities, and goals, yet one is hero and one is a villain. These are the sort of ideas Brandon wanted to play with in the development of the character of Miles.

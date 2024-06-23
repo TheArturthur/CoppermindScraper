@@ -61,6 +61,7 @@ Afterward, she was married in a grand ceremony to Raoden, and became the Queen o
 ### Raoden
 [[Raoden\|Raoden]] is Sarene's husband. He is taken by the Shaod after Sarene begins her voyage to Arelon, and is proclaimed dead. Later, Sarene meets him while delivering food to Elantris, but doesn’t recognize him, as he was going by the name Spirit. She meets him again, but he is disguised as a Dula named Kaloo. She suspects Kaloo to be hiding something, and he reveals himself to be Raoden to Sarene before he does it publicly after Roial’s death. When Sarene is teleported to Teoras, Raoden uses Aon Tia to teleport to Teod, rushing to save his wife from Dilaf. At some point after the Dakhor monk’s invasion, Sarene becomes pregnant with Raoden’s child.
 
+  Teaching fencing to the women
 ### Arelish Nobles
 [[Roial\|Roial]]
 Sarene sees Roial as a grandfatherly figure. She believes him to be wise and stern, and when she first meets him she feels desperate to gain his respect.

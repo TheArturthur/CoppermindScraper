@@ -9,6 +9,10 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
 
+>“*Feruchemy, it should be noted, is the power of balance. Of the three powers, only it was known to men before the conflict between Preservation and Ruin came to a head. In Feruchemy, power is stored up, then later drawn upon. There is no loss of energy—just a changing of the time and rate of its use.*”
+\-Sazed describing Feruchemy in the Words of Founding[1]
+
+
 **Feruchemy** is one of the three prime manifestations of [[Investiture\|Investiture]] on [[Scadrial\|Scadrial]]. The natives of that world consider it one of the three [[Metallic Arts\|Metallic Arts]].
 
 ## Contents

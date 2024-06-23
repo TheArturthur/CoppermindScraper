@@ -11,7 +11,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*!Be aware that in its current state, it may not include all additional content yet.
 
 > [!info] This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
-The **Siege of [[Kholinar\|Kholinar]]**, and the ensuing battle inside [[Kholinar Palace\|Kholinar Palace]], is a major event that occurs during the [[True Desolation\|True Desolation]]. The battle resulted in a [[Voidbringer\|Voidbringer]] victory and occupation of the city, the death of King [[Elhokar\|Elhokar]], and several of the modern [[Knights Radiant\|Knights Radiant]] being transported to the [[Cognitive Realm\|Cognitive Realm]].
+The **Siege of Kholinar**, and the ensuing battle inside [[Kholinar Palace\|Kholinar Palace]], is a major event that occurs during the [[True Desolation\|True Desolation]] in the [[Alethi\|Alethi]] city of [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]]. The battle resulted in a [[Voidbringer\|Voidbringer]] victory and occupation of the city, the death of King [[Elhokar\|Elhokar]], and several of the modern [[Knights Radiant\|Knights Radiant]] being transported to the [[Cognitive Realm\|Cognitive Realm]].
 
 ## Contents
 
@@ -32,8 +32,8 @@ The **Siege of [[Kholinar\|Kholinar]]**, and the ensuing battle inside [[Kholina
 
 
 ## Background
-Facing very little opposition from the Alethi military which was occupied in the [[Shattered Plains\|Shattered Plains]], a large parshman army gathered outside of Kholinar, taking control of nearby villages and forcing the local populace into slavery while waiting for the rest of their hosts to arrive.
-In the lead-up to the assault, [[Dalinar Kholin\|Dalinar Kholin]] proposed relieving the city by moving his soldiers through the [[Oathgate\|Oathgate]] in [[Kholinar\|Kholinar]]. He sent a small task force led by [[Elhokar\|Elhokar]] which included [[Kaladin\|Kaladin]], [[Skar\|Skar]], [[Drehy\|Drehy]], [[Adolin\|Adolin]], and [[Shallan\|Shallan]], and her espionage group (which included [[Ishnah\|Ishnah]], [[Vathah\|Vathah]] and [[Red (Roshar)\|Red]]) to activate the Oathgate.
+Facing very little opposition from the Alethi military which was occupied in the [[Shattered Plains\|Shattered Plains]], a large [[Singer\|singer]] army gathered outside of Kholinar, taking control of nearby villages and forcing the local populace into slavery while waiting for the rest of their people to arrive.
+In the lead-up to the assault, [[Dalinar Kholin\|Dalinar Kholin]] proposed reclaiming the city by moving his soldiers through the [[Oathgate\|Oathgate]] in [[Kholinar\|Kholinar]]. He sent a small task force led by [[Elhokar\|Elhokar]] which included [[Kaladin\|Kaladin]], [[Skar\|Skar]], [[Drehy\|Drehy]], [[Adolin\|Adolin]], [[Shallan\|Shallan]], and Shallan's espionage group (which included [[Ishnah\|Ishnah]], [[Vathah\|Vathah]], and [[Red (Roshar)\|Red]]) to activate the Oathgate.
 
 ### Siege
   <<Kaladin\|Kaladin>> killing one of the <<Fused\|Fused>> attacking the city.

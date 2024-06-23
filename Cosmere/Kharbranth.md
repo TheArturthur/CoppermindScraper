@@ -212,7 +212,7 @@ King Taravangian was known to show deference to foreign nationals, which likely 
 Queen Savra's relationship with her council and the people of Kharbranth are unknown. Upon becoming queen, she has broken her father’s alliances with all parties of the war and claimed neutral ground, deciding to focus on Kharbranth’s history and strength in providing medical aid where it is needed. Taravangian deliberately did not involve his daughter in the Diagram as he knew he would likely have to sacrifice himself to save the city, and did not want her to be implicated by his actions.
 
 ### Military
-Kharbranth has only a small standing army so as to not affect its cultivated image of being unassuming and unthreatening. Kharbranth rarely engages in war, and offers medical aid to both sides of conflicts. The city-state does not have a true navy, however, has a number of merchant ships that can be commandeered in times of need. Kharbranthian soldiers wear burnt orange livery.
+Kharbranth has only a small standing army so as to not affect its cultivated image of being unassuming and unthreatening. Kharbranth rarely engages in war, and offers medical aid to both sides of conflicts. Its soldiers often provide security for these humanitarian missions. The city-state does not have a true navy, however, has a number of merchant ships that can be commandeered in times of need. Kharbranthian soldiers wear burnt orange and white livery.
 
 ### Foreign Relations
   Taravangian with the Diagram
