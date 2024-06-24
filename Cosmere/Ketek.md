@@ -5,7 +5,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 A **ketek** is a form of holy [[Vorin\|Vorin]] poetry which reads the same forward and backward (allowing for changes in verb form), and is also divisible into five sections, each of which also expresses a complete thought. The full poem should be grammatically correct and have a poignant meaning. [[Vorin\|Vorin]] poets tend to weight the middle word and build the poem around it. [[Singer\|Singer]] poets, the only currently known one being [[El\|El]], weight the poem differently. El intentionally made the last line longer than the rest.
-Keteks are a part of multiple Vorin ceremonies. Keteks are written by the female loved ones of the deceased for funerals. Other keteks are traditionally used in funerals. Both kinds of keteks are spoken aloud before being burned by [[Ardent\|Ardents]] as prayers. Keteks are also given to a bride on her wedding day after her makeup is finished.
+Keteks are a part of multiple Vorin ceremonies. Keteks are written by the female loved ones of the deceased for funerals. Other keteks are traditionally used in funerals. Both kinds of keteks are spoken aloud before being burned by [[Ardent\|ardents]] as prayers. Keteks are also given to a bride on her wedding day after her makeup is finished.
 
 ## Examples
 >“*Above silence, the illuminating storms—dying storms—illuminate the silence above.*”

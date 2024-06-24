@@ -77,12 +77,12 @@ Renarin is on the , which is reflected in the aforementioned behaviors, and also
 Despite his subdued personality, Renarin has courage and wants to be useful, even in situations where he does not have experience or extensive training. Renarin values the lives of his family over his own, and is willing to put himself in great danger if it might help the people he loves.
 Renarin has an inquisitive streak, especially in regards to [[Fabrial\|fabrials]]. He often inspects fabrials around him and asks questions about their functions. Despite this, he is not interested in joining the [[Ardent\|ardentia]] to become an [[Artifabrian\|engineer]]. He enjoys being knowledgeable upon specific subjects, and will speak about them if asked. He is well versed in the different [[/wiki/Roshar#Wines]] of Roshar. His desire to learn and further look into his passions even lead him to learn how to read and write, despite what society says about men and literacy. This shows that, while he is hurt by societal ostraication for being different, he is willing to oust off traditional gender roles for the sake of his passions.
 He tends to be deeply effected by the mockery of others, but due to his non-confrontational nature he finds it difficult to stand up for himself. This can be seen in the mockery he faces for not being traditionally masculine (according to Vorin ideals), due to his "feminine" passions, such as Fabrials and literacy. He hates his nature as an Enlightened Truthwatcher, and wishes that he could be like the other ordinary Radiants. He keeps his true abilities secret from others because he believes that, due to the cultural bias against seeing the future, he would be cast out and distrusted if people knew what he is able to do. This shows that he cares deeply about the way that others think of him, and feels that he can't truly be himself without facing ostracization by society. This manifests as a general discomfort and anxiety in society that follows him around, and it is what led him to develop such a close relationship with Bridge Four and feel as safe as he does with them, as it is one of the only places he feels he can be himself. But even then, it took a long time for him to finally feel that he belonged, as he initially felt as if he didn't belong due to being too different from the rest of the crew.
-Renarin could be gay,. He seems to get offended at and embarrassed over the prospect of him having sex with a woman, being quick to dismiss Wit's claims that he has as lies.
+Renarin is gay, though tends to hide this from others. He seems to get offended at and embarrassed over the prospect of him having sex with a woman, being quick to dismiss Wit's claims that he has as lies.
 
   Renarin using <<Illumination\|Illumination>>
 ## Attributes and Abilities
 >“*I don't think I’m a Radiant, Jasnah. I don’t know what I am.*”
-\-Renarin[28]
+\-Renarin[26]
 
 
 Renarin has a "blood weakness" (epilepsy), which prevents him participating in activities of great physical stress, including combat. The weakness affects him in episodes, during which he grows pale and his limbs go weak, to the point of trembling or possible collapse. Kaladin believes that these are symptoms of . After becoming Radiant his abilities cure his epilepsy and he no longer has ordinary seizures. However, his bond causes him to have a different type of fit, the visions of the future, instead.
@@ -93,7 +93,7 @@ After giving his [[Shardblade\|Shardblade]] to [[Torol Sadeas\|Torol Sadeas]] in
   Renarin with <<Glys\|Glys>>
 ### Surgebinding
 >“*Renarin couldn't do that. He could only summon lights, and they did strange, unnatural things sometimes.…*”
-\-Navani on Renarin's Illumination[32]
+\-Navani on Renarin's Illumination[30]
 
 
 Renarin is a [[Surgebinder\|Surgebinder]] and member of the [[Knights Radiant\|Knights Radiant]]. He claims to be a [[Truthwatcher\|Truthwatcher]], bonded to a corrupted [[Mistspren\|mistspren]] named [[Glys\|Glys]], but is not a true member of that order due to the corruption of his spren. Renarin bonded Glys at some point before Adolin's final, disadvantaged, duel. Due to the corrupted nature of Glys, Renarin's oaths are different than the standard Truthwatcher oaths.
@@ -106,7 +106,7 @@ He is able to use a surge of Stormlight to banish the life and animating force o
   Renarin seeing the future
 #### Future Sight
 >“*What's wrong with me? Why do I see these things? I thought I was doing something right, with Glys but somehow, it’s all wrong.*”
-\-Renarin to Jasnah[44]
+\-Renarin to Jasnah[42]
 
 
 The most notable of these special powers is his ability to see visions of the future. This ability is what causes him to write [[Glyph\|glyph]] messages and numbers counting down to the arrival of the [[Everstorm\|Everstorm]]. Because he is seeing the future, an action explicitly forbidden by the Vorin church for ties with the Voidbringers, Renarin initially believes himself to be cursed by the Almighty.
@@ -141,13 +141,13 @@ He rode with Adolin to [[Elhokar\|Elhokar's]] [[Chasmfiend\|chasmfiend]] hunt an
 Dalinar asked Sadeas if he meant what he had said. He told Sadeas that if he had truly called his son useless, he would be forced to summon his Shardblade and kill him for the insult. He said that this would break the Vengeance Pact and that he hoped he had misheard what Sadeas had been saying. Sadeas hesitated and said that indeed Dalinar had misheard what he had said. Later on that night, when Wit was insulting Sadeas, Renarin surprised Wit with a clever response to one of his taunts. Wit said that if Sadeas gave in to his temptation and killed him, Renarin could be the King's Wit in his place. Later, Dalinar told Renarin that he should not have put himself in harm's way before the chasmfiend. Renarin tried to tell him that he was not a soldier and could not fight due to his epilepsy, but Dalinar misinterpreted what he was saying. He reassured Renarin, telling him that he could be a warrior even with his sickness. He promised him that the next time he won a suit of Shardplate and a Shardblade he would give them to Renarin. He told Renarin that the strength of the Plate would be enough to overcome his weakness.
 
 >“*You see the past, Father, that is not forbidden. And if the Almighty sends them, then how could men question?*”
-\-Renarin[54]
+\-Renarin[52]
 
 Renarin was with Dalinar during many of his visions that he experienced during the highstorms. After Navani used the visions to translate the [[Dawnchant\|Dawnchant]] she wanted to share the visions with the other scholars, but Dalinar was hesitant, saying that the visions were too close to seeing the future, which was forbidden. Renarin told Dalinar this was not a problem since he was seeing visions of the past and not the future.
 During the [[Battle of the Tower\|Battle of the Tower]] Sadeas betrayed Dalinar, leaving him and his men stranded on the [[Tower (Roshar)\|Tower]] while he and his army returned to camp unscathed. Renarin, seeking news of his father's fate, followed Navani to Sadeas's warcamp where she was interrogating the highprince. After Navani burned her [[/wiki/Glyphs/Index#Thath]] [[Glyph\|glyph]] Renarin thanked her for the prayer. When Dalinar and Adolin returned safely Renarin embraced them, the first time Dalinar had seen true joy within him in a while. After Dalinar gave his Shardblade, [[Oathbringer (Shardblade)\|Oathbringer]], to Sadeas in exchange for [[Kaladin\|Kaladin]] and the [[Bridgemen\|bridgemen]], Dalinar gave his Plate to Renarin, fulfilling half of his promise.
 
 >“*He'll surprise you, I gave him the whole ‘I’m your master and you do what I say’ talk, and he actually listened. [...] I thought a nineteen-year-old like him would be insufferable.*”
-\-Zahel to Kaladin[60]
+\-Zahel to Kaladin[58]
 
 Shortly after receiving his Shardplate Renarin began writing numbers on the wall during highstorms counting down to the coming of the [[Everstorm\|Everstorm]]. This was due to the visions of the future that [[Glys\|Glys]], whom he had bonded a while earlier, was granting him.
 After Adolin defeated [[Salinor Eved\|Salinor Eved]] in a duel he gave his newly acquired Shardblade to Renarin. The next day [[Zahel\|Zahel]] began training Renarin how to use his Shards. Zahel was impressed by Renarin's obedience and had him repeatedly jump off of the roof of the dueling grounds in his Shardplate to make him confident in the armor's protection.
@@ -160,12 +160,12 @@ During Adolin's duel with the four Shardbearers Renarin, without his Plate, join
 By the time Kaladin was released from prison Renarin was fully integrated into Bridge Four and he began learning to carry their bridge with [[Lopen\|Lopen's]] cousins and the other new recruits. He did his first full bridge carry during Shallan's expedition to explore the Plains.
 
 >“*Prince Renarin, would you kindly slay this rock for me?*”
-\-Shallan to Renarin[68]
+\-Shallan to Renarin[66]
 
 Renarin went with Dalinar, Adolin, Shallan, and the rest of the Kholin, Sebarial, Roion, and Aladar warcamps on the expedition to the center of the Shattered Plains to look for [[Urithiru\|Urithiru]]. During the [[Battle of Narak\|Battle of Narak]] when Shallan determined the location of the [[Oathgate\|Oathgate]] Renarin gathered a group of soldiers and escorted her and her group of scholars to the plateau. When Shallan located the Oathgate's control building Renarin, ignoring the screams, used his Shardblade to cut an opening into the chamber within. Shallan tried using Renarin's Shardblade to unlock the portal, but since it was a [[Deadeye\|deadeye]], it did not work.
 
 >“*It's come, it’s come, it’s come, it’s come. We’re dead. We’re dead. We’re dead. . . .*”
-\-Renarin's mantra[45]
+\-Renarin's mantra[43]
 
 As Shallan and the scholars tried to figure out how to operate the Oathgate Renarin crouched on the floor of the building writing zeros all over the floor as he mumbled repeatedly about how he had seen the Everstorm coming and that they were doomed. Shallan threatened to gag him if he would not quiet down and he listened to her.
 After Dalinar bonded with the [[Stormfather\|Stormfather]] he met with Kaladin and Shallan, a meeting of Radiants. Renarin walked in and joined them, revealing that he too was a Knight Radiant. He told them that he was a [[Truthwatcher\|Truthwatcher]] and that his ability was that he saw the truth of things. Dalinar realized that this was why he had stopped wearing his eyeglasses, and that the reason he froze every time he summoned his Shardblade was because of the screams he was hearing.
@@ -175,7 +175,7 @@ After Dalinar bonded with the [[Stormfather\|Stormfather]] he met with Kaladin a
 After Sadeas's body was found lying in the hallways of Urithiru when Dalinar was giving orders to his generals and the other highprinces he told Renarin and Shallan to train and master their powers so they could be leaders and teachers for the coming Radiants. Renarin came to Adolin while he was their father's [[Ryshadium\|Ryshadium]], [[Gallant\|Gallant]], in one of the tower's stables. Renarin told Adolin that he had to return the Shardblade he had been given since the screams made it unusable for him. Adolin protested that it would leave him defenseless and after some prodding Renarin summoned Glys as a Blade to show him. While they were talking afterwards Renarin used his Surge of [[Progression\|Progression]] to heal Adolin's hand.
 
 >“*There's something down there, something … ancient. You’ve felt it, haven’t you? This place is weird; this whole tower is weird. You’ve noticed it too, right?*”
-\-Renarin[74]
+\-Renarin[72]
 
 When Shallan discovered [[Re-Shephir\|Re-Shephir]] in the lower levels of the tower, Renarin came with Adolin and the rest of [[Bridge Four\|Bridge Four]] in his Shardplate to help her fight off the [[Unmade\|Unmade]]. He was the one who discovered the slow-moving blackness of the Unmade, although it was [[Lyn\|Lyn]] who announced it. He was extremely unsettled by the sight, and did not respond when Adolin tried to pull him back to the rest of the group. Only when [[Teft\|Teft]] called him into formation like a superior officer did he respond and move. During the fight he healed Bridge Four as they were injured. He covered Adolin's back when they charged into the room with the gemstone pillar and he held his own while Shallan confronted Re-Shephir.
 After Kaladin returned from his trip through Alethkar Renarin went with the other members of Bridge Four back to the Shattered Plains for a training session. Rock invited Renarin to help him bake the bread for the rest of the squad. As they worked together, they discussed Renarin's role in Bridge Four now that most of the members were becoming [[Windrunner\|Windrunner]] [[Squire\|squires]]. Later, caravan carrying Rock's family was being attacked by Fused and the bridgemen raced to defend it. Renarin went and brought Adolin and two companies of troops to the scene. While the soldiers he brought arrived too late to help, Renarin's healing saved several men's lives.
@@ -202,7 +202,7 @@ Jasnah took Renarin's hand and pulled him through the city in a mad rush, jumpin
 When Renarin saw that Adolin, who had just emerged from the perpendicularity, had been injured he rushed over to him and healed his wounds. As Renarin made his way to the Oathgate he was slowed down by the crowds of people clogging the streets and Adolin went to help him. By the time Renarin had reached the Thunderclast Adolin and [[Hrdalm\|Hrdalm]] had begun fighting the monster. Renarin healed his brother and told them that he could take care of the Thunderclast on his own and that they should leave and go somewhere safer. As Renarin charged towards the monstrosity it slammed one of its fists on top of him, but Renarin was not fazed by this and simply used his Shardblade to cut the hand off at the wrist as his Stormlight healed his body. Renarin worked with Hrdalm to cut off the Thunderclast's limbs and then, at Glys's instruction, used Stormlight to drive the life out of its body. Renarin then instructed Hrdalm to go help with the fighting elsewhere and went to unlock the Oathgate. Renarin was surprised by this victory as his visions had predicted that he would die while fighting it.
 
 >“*I think I used up all my Radianting for the day. Um, I'll work the Oathgate and get more troops here. Maybe you two could go down and help on the city wall, pull wounded out of the front lines?*”
-\-Renarin after Bridge Four arrived in Thaylen City[42]
+\-Renarin after Bridge Four arrived in Thaylen City[40]
 
 As he approached the platform, he saw that there were twelve Fused hovering above it, guarding the Oathgate. A child motioned Renarin to go into a small building on the side where he found [[Teshav\|Teshav]] and several scribes. They told him that there had been an attack by the singers on Urithiru and they were unable to contact [[Malata\|Malata]] to have her open the portal. Renarin then went outside, summoned his Shardblade, and continued toward the Oathgate. As he neared the ramp onto the platform the Fused descended towards him. As four of the Fused saluted him Renarin had a vision predicting that [[Teft\|Teft]] would become Radiant and activate the Oathgate from Urithiru. He smiled at the Fused standing at attention before him, confusing them, and moments later this occurred as the Oathgate exploded with Light and an entire division of Kholin troops, led by Teft holding a glowing Shardspear, emerged from the Oathgate.
 When the Fused saw this they flew away and Renarin told Lopen and the other members of Bridge Four not to chase them away from the Oathgate, but rather they should stay near it and protect it from further attacks. [[Lyn\|Lyn]] tried asking him for commands, but Renarin told her that he was not in command but suggested that she and Rock could help with the wounded near the city's wall. He told them that was done being Radiant for the day and needed a break from all of the action. Before he flew off Rock surprised Renarin with a warm hug, and Renarin thanked him again for coming before sitting and resting. After the battle Renarin used his Stormlight to heal the wounded who were in most dire need of his help.
@@ -251,7 +251,7 @@ Renarin is very friendly with [[Rlain\|Rlain]] and often goes out of his way to 
 
 
 >“*Kid, you're the expert on what’s weird. We’ll trust your word.*”
-\-Teft on Renarin[74]
+\-Teft on Renarin[72]
 
 
 ## Trivia
