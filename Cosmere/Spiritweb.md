@@ -94,7 +94,7 @@ In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and 
 A [[Surgebinder\|Surgebinder's]] [[Nahel bond\|Nahel bond]] involves a [[Spren\|spren]] attaching themselves to a person's spiritweb, merging more fully as the [[Surgebinder\|Surgebinder]] progresses in their [[Immortal Words\|Oaths]].
 
 #### Bondsmithing
-A [[Bondsmith\|Bondsmith]] that is bonded to the [[Stormfather\|Stormfather]] is able to read a person's spiritweb. The person's spiritweb appears to the Bondsmith as faintly glowing lines of varying thickness. It is currently unknown if others share this ability.
+A [[Bondsmith\|Bondsmith]] that is bonded to the [[Stormfather\|Stormfather]] is able to read a person's spiritweb. The person's spiritweb appears to the Bondsmith as faintly glowing lines of varying thickness depending on the strength of the connection. It is currently unknown if other Bondsmiths share this ability.
 
 #### Soulcasting
 Although it does not directly alter the spiritweb, [[Soulcasting\|Soulcasting]] can alter a spiritweb if the Cognitive aspect stays altered for long enough.
@@ -103,7 +103,7 @@ Although it does not directly alter the spiritweb, [[Soulcasting\|Soulcasting]] 
 [[Regrowth\|Regrowth]] allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal. Regrowth can even go so far as to reattach the soul of one recently deceased.
 
 ### Shardblades
-A [[Shardblade\|Shardblade]] can be stolen with Hemalurgy, because it is Connected to a person's spiritweb. When a Shardblade cuts through living matter, its edge fuzzes, leaving the physical body uninjured, whilst cutting the being's Cognitive self - not their spiritweb.
+A [[Shardblade\|Shardblade]] can be stolen with Hemalurgy, because it is Connected to a person's spiritweb. When a Shardblade cuts through living matter, its edge fuzzes, leaving the physical body uninjured.
 
 ### Fabrials
 There are fabrials, that are capable of accurately [[Aura fabrial\|reading a person's spiritweb]]. However, these devices tend to go haywire if the person being read is heavily Invested, such as a [[Returned\|Returned]], [[Elantrian\|Elantrian]], or [[Yoki-hijo\|yoki-hijo]].

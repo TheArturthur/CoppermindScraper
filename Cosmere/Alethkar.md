@@ -261,11 +261,11 @@ It has numerous rivers crossing it, the two major ones being [[Windrunner River\
 
 ### Climate
 Due to how far east it is, Alethkar is buffeted by particularly heavy highstorms. This forces settlements to primarily be built on the leeward sides of laits. These leeward sides are also far more lush with plant life, due to the protection the liats provide from powerful highstorm winds.
-Like the rest of Roshar, Alethkar does not experience true seasons, with them instead being defined by current temperature, climate, and storms, unrelated to irradiance. The Alethi utilise stormwardens to predict the coming of seasons.
+Like the rest of Roshar, Alethkar does not experience true seasons, with them instead being defined by current temperature, climate, and storms, unrelated to irradiance. The Alethi utilise stormwardens to predict the coming of seasons. The shattered plains experience a moister climate than the rest of Alethkar. Clouds are also less frequent in this region.
 
 ### Ecology
 #### Flora
-Despite the fact that Alethkar is far more exposed to the [[Highstorm\|highstorms]] than any country further West, large swathes of it are lush with animals and vegetation. The flora one finds depends heavily on the region of Alethkar. In the northwest, common flora includes thickets of [[Snarlbrush\|snarlbrush]], stout [[Markel\|markel]] trees and [[Stumpweight\|stumpweight]] trees. Some forests are made up of purely [[Vivim\|vivim]] trees, which bind their branches together to ensure that the forest is almost impenetrable. In some areas of Alethkar rockbuds can grow nearly to the size of a barrel, with vines as thick as a human wrist; Alethkar also contains many fragile types of flora, such as vines and weeds, these species usually only grow in laits.
+Despite the fact that Alethkar is far more exposed to the [[Highstorm\|highstorms]] than any country further West, large swathes of it are lush with animals and vegetation. The flora one finds depends heavily on the region of Alethkar. In the northwest, common flora includes thickets of [[Snarlbrush\|snarlbrush]], stout [[Markel\|markel]] trees and [[Stumpweight\|stumpweight]] trees. Some forests are made up of purely [[Vivim\|vivim]] trees, which bind their branches together to ensure that the forest is almost impenetrable. In some areas of Alethkar rockbuds can grow nearly to the size of a barrel, with vines as thick as a human wrist; Alethkar also contains many fragile types of flora, such as vines and weeds, these species usually only grow in laits. Due to the moister climate of the shattered plains, plants here have a tendency not to pull into their shells as swiftly after a storm as in the rest of Alethkar.
 The Alethi also cultivate many plants. Foremost among these plants, a staple in the diet of any Alethi, is [[Lavis\|Lavis]]. There are many different strains of Lavis, some are capable of withstanding even the strongest highstorms while others are extremely nutritious. They also cultivate [[Tallew\|Tallew]], among many other types rockbuds, and tubers. The Alethi also grow a wide variety of fruits, typically in large orchards. Some species of trees are cultivated to be much taller and leafier than usual in order to provide more shade. A large number of grown plants are for their purposes then eating, such as clothing, medicine and more.
 
 #### Fauna
@@ -439,7 +439,7 @@ In Chach 1175, an attempt was mounted by the coalition to evacuate the city of H
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[103]
+\-Lopen[104]
 
 
 ### People
@@ -580,7 +580,7 @@ One popular game in Alethi culture is [[Breakneck\|Breakneck]], particularly amo
 
 ## Politics
 >“*Dalinar had been around Alethi politicians so much that he found honesty an obscure thing, like a language he no longer spoke.*”
-\-Dalinar[59]
+\-Dalinar[60]
 
 
 ### Monarch
@@ -704,7 +704,7 @@ They retained political recognition by other states despite their exile.
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[131]
+\-Taravangian[132]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -798,7 +798,7 @@ The Alethi employ a wide range of tactics. One popular tactic that is often used
 The Alethi infantry is usually employed in large block like formations, these blocks can get very large, with some of them being five thousand men strong. These standard spearmen blocks engage enemies as much as to position them as to do harm. The Alethi infantry blocks are also extremely mobile, far more so then infantry blocks from other militaries. The Alethi infantry uses their shields, forming a canopy of sorts, to protect from arrows and throwing spears. In these spearmen blocks, the front row of soldiers rotates to the back every ten minutes. This means that for every minute you're fighting, you also have a minute to rest. For most of Alethi history, due to lack of horses, light infantry was used to harry enemy armies.
 
 >“*All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
-\-The Sunmaker, who shaped modern Alethi militarism[50]
+\-The Sunmaker, who shaped modern Alethi militarism[51]
 
 Cavalry has never played a large role in Alethi warfare, at least, until recent times. Warfare has started to include more and more cavalry. Cavalry has historically been used to fight shardbearers, and has more recently begun being used to break lines. Cavalry was used extensively during the [[War of Reckoning\|War of Reckoning]], mainly to break ‘Parshendi’ lines and establish a beachhead for the rest of the army to exploit.
 While the soldiers are trained to fight in formations, some battles, the ones fought between largely unprofessional armies, immediately start with a charge, the lines and formations disintegrating. These battles are extremely chaotic, the armies often mingle indistinguishably and squads split up to fight other small groups.
@@ -845,7 +845,7 @@ The way soldiers are trained depends on the princedom they’re from. In at leas
 Soldiers are trained in a specific order. Firstly, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves.
 
 >“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
-\-a quotation from The Arguments[50]
+\-a quotation from The Arguments[51]
 
 #### Drills
 The Alethi have a large number of drills to practice certain formations, movements and fighting in general.

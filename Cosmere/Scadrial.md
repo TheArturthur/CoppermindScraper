@@ -15,7 +15,7 @@
 \-From Khriss's essay on the Scadrian system[3]
 
 
-**Scadrial** is a planet in the [[Cosmere\|cosmere]] and the most well-known planet in the [[Scadrian system\|Scadrian system]]. Scadrial has no moon, but there is an [[Scar\|extremely bright patch of stars visible in the night sky]]. People from Scadrial are called Scadrians. The planet is the home of several metal-related manifestations of [[Investiture\|Investiture]], namely [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]; certain individuals known as [[Mistborn\|Mistborn]] have had a significant impact on the planet and the greater cosmere.
+**Scadrial** is a planet in the [[Cosmere\|cosmere]] and the most well-known planet in the [[Scadrian system\|Scadrian system]]. Scadrial has no moon, but there is an [[Scar\|extremely bright patch of stars visible in the night sky]]. People from Scadrial are called Scadrians. The planet is the home of several metal-related manifestations of [[Investiture\|Investiture]], namely [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]; certain individuals known as [[Allomancy\|Mistborn]] have had a significant impact on the planet and the greater cosmere.
 
 ## Contents
 

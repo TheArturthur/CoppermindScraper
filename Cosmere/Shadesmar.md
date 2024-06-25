@@ -241,7 +241,7 @@ One type of weather energizes the true spren, who become chattier and visibly mo
 \-Kaladin riding the Highstorm after touching Riino's globe[40]
 
 
-The Highstorm appears as ripples and vibrant colors in the sky, with shimmering clouds that are an ethereal luminescence. There is a pulse to the Highstorm, that may be similar in nature to the beat heard by true spren during other weather events. Spheres do not get infused with Stormlight whlie in the Cognitive Realm.
+The Highstorm appears as ripples and vibrant colors in the sky, with shimmering clouds that are an ethereal luminescence. There is a pulse to the Highstorm, that may be similar in nature to the beat heard by true spren during other weather events. Spheres do not get infused with Stormlight while in the Cognitive Realm.
 The three realms blend together within the Highstorm, and an Invested person can briefly see into the Spiritual Realm if they are able to access the storm via Shadesmar. However, it does not appear possible to access the Physical Realm using this method. The Stormfather is able to sense someone accessing the realms through the Highstorm in the Cognitive Realm, however, this is not a common occurrence. This connection is not two ways, however, and the person in the storm cannot sense the Stormfather.
 
 ### Perpendicularity
