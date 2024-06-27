@@ -118,7 +118,7 @@ The Allomantic effects of metals are most similar to the effects of [[Fabrial\|f
 |**God Metals**|
 |-|-|
 |**Metal**|**Shard**|**Effect**|
-|**[[Atium\|Atium]]**|[[Ruin\|Ruin]]|Reveals other's future|
+|**[[Atium\|Atium]]**|[[Ruin\|Ruin]]|Reveals others' future|
 |**[[Atium\|Pure Atium]]**|[[Ruin\|Ruin]]|Gives an expanded vision of the future|
 |**[[Malatium\|Malatium]]**|[[Ruin\|Ruin]]|See into another person's past|
 |**[[Atium\|Atium Alloys]]**|[[Ruin\|Ruin]]|Various expanded mental and temporal effects|

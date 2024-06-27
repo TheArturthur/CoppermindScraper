@@ -35,7 +35,6 @@
 
 2. [[#Allomancy]] 
 2. [[#Feruchemy]] 
-2. [[#Compounding]] 
 2. [[#Hemalurgy]] 
 
 
@@ -112,18 +111,16 @@ Waxillium is a Crasher; a [[Steel\|Coinshot]] and [[Iron\|Skimmer]] Twinborn. Th
 #### Allomancy
 Waxillium is an extremely skilled Coinshot. Perhaps the biggest mark of his mastery is his ability to regulate the strength of his Steelpushes. Generally, Allomancers find it too hard to maintain a fine control over their Steelpushes, so instead most opt to regulate the length of the time of them. Levitating without bobbing up and down, for example, requires extreme discipline that few Allomancers can achieve; most use short bursts of Steelpushes, fall down, then Push again. Waxillium is able to apply enough pressure on a small metal rod to make it stick to the side of a table without moving the table itself with ease.
 Wax also uses his ability to form a defensive bubble around himself that doesn't affect his own metal items but Pushes bullets coming at him off course slightly; to enhance the velocity of his bullets, Pushing them after being shot to force them through an opponents cover; and to travel in the air, in combination with his Skimmer ability to regulate his mass. Wax doesn't appear to use the most obvious ability of a Coinshot very often, as he had to be reminded that he could launch a bullet without a gun, although he always uses steel for his third vest button as an extra metal reserve or to use as a weapon in emergencies.
-While experimenting on [[Trellium\|trellium]], Wax burned a small amount of [[Lerasium\|lerasium]], making him a Mistborn, therefore allowing him to burn all allomantically viable metals.
+While experimenting on [[Trellium\|trellium]], Wax inhaled and burned a small amount of [[Lerasium\|lerasium]], making him a Mistborn, therefore allowing him to burn all Allomantically viable metals.
 
 #### Feruchemy
 As a Skimmer, using iron metalminds, Wax can store his weight at the cost of being lighter than normal, and tap the storage to become heavier. Wax constantly stores his weight to make him about three-quarters of his normal weight, making him lighter on his feet. He also uses this ability to navigate vertically in combination with [[/wiki/Steel#Allomantic Use]] and a shotgun. Wax doesn't tap into his weight very often, preferring to store it to be lighter, as a result, the sheer amount of weight he can tap in to allows him to quite easily fall straight through a floor with no effort. He uses this power to his advantage many times. He eventually embedded his ironminds deep into his skin to protect them from Allomancers.
-
-#### Compounding
-Having inhaled and burned lerasium, thus granting all allomantic abilities, Wax possesses the ability to Compound Feruchemical iron by ingesting an ironmind and burning it with Allomantic iron to amplify the stored weight. Though never explicitly shown or used by Wax, the ability is nevertheless available to the lawman.
+Having become a Mistborn, Wax also possesses the ability to [[Compound\|Compound]] Feruchemical iron by ingesting an ironmind and burning it with Allomantic iron to amplify the stored weight.
 
  
 #### Hemalurgy
 Waxillium has an [[Wax's earring\|earring]] with a slight [[Hemalurgy\|Hemalurgic]] charge. It is unknown what type of charge it is. The earring is a feature of [[Pathism\|Pathism]], adherents to the religion often wear metal earrings while praying. This enables [[Harmony\|Harmony]] to communicate directly with him. It was given to him by the [[Kandra\|kandra]] [[MeLaan\|MeLaan]].
-While trying to stop the Set in Bilming, Wax gave himself an [[Electrum\|Electrum]] spike in his lower chest, granting him Allomantic [[Duralumin\|duralumin]]. He also extensively studied Spook's notes about Hemalurgy, and created charts of all of the points on the body where spikes could be placed, and a detailed list of the ways the spikes worked.
+While trying to stop the Set in Bilming, Wax gave himself an [[Electrum\|electrum]] spike in his lower chest, granting him Allomantic [[Duralumin\|duralumin]]. He also extensively studied Spook's notes about Hemalurgy, and created charts of all of the points on the body where spikes could be placed, and a detailed list of the ways the spikes worked.
 
 ### Law Enforcement
 Wax spent twenty years as a lawman in the [[Roughs\|Roughs]]. His exploits are a matter of public record, kept at the university in Elendel where they are studied by students of law and criminology.
@@ -169,7 +166,7 @@ Throwing himself into the much more mundane effort of saving his house's financi
 Against his better judgement, and under the disapproving eye of his butler, [[Tillaume\|Tillaume]], Wax began to piece together the history of the Vanishers, hoping to discover the reason for their unorthodox targets as well as the secret behind the way they commit their crimes. Realizing the distraction this had created for his house duties, Waxillium endeavored to put away this new obsession and attended the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]] with Steris, marking their public debut as a couple.
 
 >“*It was so hard not to recall the sight of him breaking through the line of tables, gun in hand as he expertly felled two of the men trying to haul her out into the night. Or the sight of him soaring through the air—gunshots exploding up from beneath, the chandeliers shattering and crystal spraying light around him—as he shot a man from midair and dropped to rescue his friend. She was talking to a legend.*”
-\-Marasi calls on Waxillium in his study[36]
+\-Marasi calls on Waxillium in his study[37]
 
 After the wedding was interrupted by the arrival of bandits from the Vanishers gang, who proceeded to rob the lords and ladies in attendance at gunpoint, Wax initially refused Wayne's insistence that he take up a pistol--having convinced himself that the Elendel constabulary would be able to handle the disturbance with far less bloodshed. When the gang went too far, killing a man and taking Steris as a hostage, Wax admitted that he could not stand idly by, and attacked the gang with his backup pistols and the full fury of his Steelpushing. In the ensuing gunfight, Wax, Wayne, and Steris' cousin [[Marasi\|Marasi]] worked together to subdue the majority of the attackers, while successfully minimizing civilian casualties. When Marasi was suddenly held at gunpoint by one of the gang, in the same fashion as Lessie a year ago, Wax nearly froze up again. Marasi struggled, successfully stunning the Vanisher holding her, momentarily opening up the shot for Wax--forcing him to make a choice to overcome his fear to pull the trigger and save her. As the robbers retreated, Waxillium was surprised to discover the identity of the Vanishers' leader, [[Miles Dagouter\|Miles "Hundredlives" Dagouter]]--another former lawman from the Roughs.
 With Steris kidnapped, Wax re-doubled his efforts into his previous investigation. Having obtained one of the Vanishers' aluminum guns, Wax poured himself into researching its makeup and possible origin as well as uncovering the mystery of the Vanishers' ultimate goal.
@@ -299,7 +296,7 @@ He has always had a rather antagonistic relationship with his sister, which was 
 
 
 >“*I have known you for an entire year now, Lord Waxillium. I can accept you for who you are, but I am under no illusions. Something will happen at our wedding. A villain will burst in, guns firing. Or we'll discover explosives in the altar. Or Father Bin will inexplicably turn out to be an old enemy and attempt to murder you instead of performing the ceremony. It will happen.*”
-\-Steris[46]
+\-Steris[47]
 
 
 >“*You're wrong about me... I'm not Harmony's hands. I'm His sword.*”
@@ -311,7 +308,7 @@ He has always had a rather antagonistic relationship with his sister, which was 
 
 
 >“*I have done something to help. I sent you.*”
-\-Harmony speaks to Wax[42]
+\-Harmony speaks to Wax[43]
 
 
 ## Trivia

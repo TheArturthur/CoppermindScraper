@@ -2,11 +2,13 @@
 |-|-|
 |**Died**|342 [[Catacendre\|PC]]|
 |**Profession**|Priest|
+|**Religion**|[[Pathism\|Pathism]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
-**Larskpur** was a [[Pathism\|Pathian]] missionary from [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. He was killed by [[Paalm\|Paalm]] so that she could impersonate him and implicate him in the killing of [[Father Bin\|Father Bin]], a [[Survivorism\|Survivorist]] priest.
+**Larskpur** is a [[Pathian\|Pathian]] missionary from [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. He is killed by [[Paalm\|Paalm]] so that she could impersonate him and implicate him in the killing of [[Father Bin\|Father Bin]], a [[Survivorist\|Survivorist]] priest.
 
 ## Contents
 

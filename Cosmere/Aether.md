@@ -10,7 +10,7 @@
 \-Moonlight to Marasi[1]
 
 
-Aethers are an ancient variety of [[Investiture\|Invested]] entities present in the [[Cosmere\|cosmere]]. They originate on an unrevealed planet where the twelve primal aethers reside, although the aethers have since spread to other worlds of the cosmere. Those who are [[Luhel bond\|bonded]] to one of the twelve primal aethers and are able to manifest that aether are known as **aetherbound**. Aethers have existed since prior to the Shattering of Adonalsium, and some believe that they predate Adonalsium itself or are totally independent from its creations.
+Aethers are an ancient variety of [[Investiture\|Invested]] entities present in the [[Cosmere\|cosmere]]. They originate on [[Dhatri\|Dhatri]], where the twelve primal aethers reside, although the aethers have since spread to other worlds of the cosmere. Those who are [[Luhel bond\|bonded]] to one of the twelve primal aethers and are able to manifest that aether are known as **aetherbound**. Aethers have existed since prior to the Shattering of Adonalsium, and some believe that they predate Adonalsium itself or are totally independent from its creations.
 All forms of aether seem to be killed by silver and salt, turning grey and losing their reactivity when they touch it. The substance they produce upon expanding also grows grey and dies when coming into contact with silver.
 On [[Lumar\|Lumar]] the associated substance can continue growing if more moisture is added, until it maxes out. It is unknown if that property applies to aetherbound manifested substances. While growing in such a manner, a sprouter is able to shape it by using [[Iron\|iron]] to pull the material closer, and [[Steel\|steel]] to push it away.
 

@@ -246,8 +246,8 @@ After Renarin joins [[Bridge Four\|Bridge Four]], the other members, especially 
 Renarin is very friendly with [[Rlain\|Rlain]] and often goes out of his way to speak with him. He has romantic feelings towards [[Rlain\|Rlain]], though he has not yet told anyone else about it. Renarin is the one that recommends to [[Sja-anat\|Sja-anat]] that she send [[Tumi\|Tumi]] to bond with Rlain.
 
 ## Quotes
->“*What of you, young Prince Renarin? Your father wishes me to leave you alone. Can you speak, yet say nothing ridiculous?“Nothing ridiculous,” Renarin said slowly.*”
-\-Wit and Renarin[17]
+>“*What of you, young Prince Renarin? Your father wishes me to leave you alone. Can you speak, yet say nothing ridiculous?*
+\-“Nothing ridiculous,” Renarin said slowly.
 
 
 >“*Kid, you're the expert on what’s weird. We’ll trust your word.*”

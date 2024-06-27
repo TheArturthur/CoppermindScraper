@@ -3,7 +3,7 @@
 |**Sigzil**|
 |-|-|
 ||
-|**Abilities**|[[Order of Windrunners\|Windrunner]] , [[Shardbearer\|Shardbearer]], [[Order of Skybreakers\|Skybreaker]], [[Dawnshard\|Dawnshard]] , [[Worldhopper\|Worldhopper]]|
+|**Abilities**|[[Order of Windrunners\|Windrunner]] , [[Shardbearer\|Shardbearer]], [[Order of Skybreakers\|Skybreaker]] , [[Dawnshard\|Dawnshard]] , [[Worldhopper\|Worldhopper]]|
 |**Bonded With**|[[Auxiliary\|Auxiliary]], *Unnamed Honorspren* |
 |**Titles**|Sunlit Man, Sess Nassith Tor|
 |**Aliases**|Nomad, Zellion, Sunlit, Sig|
@@ -79,8 +79,8 @@ For more images, see [[Sigzil/Gallery\|/Gallery]].
 
 
 ### Appearance
-Sigzil is clean-shaven with dark brown skin and thick, curly black hair. He is considered short in his homeland of Azir, although he is considered to be very tall when compared to people from other planets. He has a [[Bridge Four\|Bridge Four]] tattoo on his forehead covering the place where he used to be branded with a slave mark.
-During his arrival on Canticle his hair was burned away by the sunlight, and he spent the first bit of his time on Canticle bald. Due to his invested nature it quickly grew back to its full length, but it was later burned away again.
+Sigzil is clean-shaven with dark brown skin and thick, curly black hair. He is considered short in his homeland of Azir, whose people are in turn considered small when compared to some other Rosharan peoples, but he is considered to be very tall when compared to people from other planets. He has a [[Bridge Four\|Bridge Four]] tattoo on his forehead covering the place where he used to be branded with a slave mark.
+Due to Sigzil’s invested nature his appearance is set into stone, any time he holds investiture his appearance changes back to how it was when he first picked up the Dawnshard. This is, for example, seen in how his hair was burned away during his arrival on Canticle; it quickly grew back to its full length.
 
 ### Personality
 Sigzil tends to be quiet and close-mouthed, though when he embraces his role as a [[Worldsinger\|Worldsinger]], he displays deep knowledge of a variety of cultures and speaks openly and volubly. He seems to enjoy deep conversations, especially when conducted one-on-one, and has a formal way of speaking. He also has a judgmental streak, particularly around disorderly people or when faced with other cultures' less organized and bureaucratic methods. He is not very accepting of homosexuality, shaped by Azish views on the subject. Though he doesn't necessarily mistreat [[Drehy\|Drehy]] despite his views. Taking [[Hoid\|Hoid's]] teachings to heart, however, he does attempt to be more open-minded.
@@ -170,7 +170,7 @@ Sigzil and four other Windrunners flew with Dalinar and [[Szeth\|Szeth]] to Tuka
 Shortly after, Ishar fled through another perpendicularity into [[Shadesmar\|Shadesmar]]. Sigzil and the others waited in the sky above the camp, then descended again when it seemed obvious that Ishar was not immediately coming back. They poked through the Herald's tent among several odd corpses covered in sheets, and Sigzil found a ledger detailing his experiments: records recounting how long each [[Spren\|spren]] had lived in the body the Herald had created for it in the [[Physical Realm\|Physical Realm]]. Appalled, the group fled back to their camp in Emul.
 
 ### Skybreaker
-At some point after the True Desolation, Sigzil had his bond with his honorspren broken. Some time after this, he became a Skybreaker, bonding to a [[Highspren\|highspren]] named [[Auxiliary\|Auxiliary]]. He managed to swear up to the Fourth Ideal.
+At some point after the True Desolation, Sigzil had his bond with his honorspren broken. Some time after this, he became a Skybreaker, bonding a [[Highspren\|highspren]] named [[Auxiliary\|Auxiliary]]. He managed to swear up to the Fourth Ideal.
 
 ### Dawnshard and the Night Brigade
 At an unknown point, Hoid offered Sigzil a Dawnshard for the sake of protecting the cosmere, which he accepted. This put him on the radar of the [[Night Brigade\|Night Brigade]], who began to hunt him down across the cosmere. The process also left him with what he described as a "torment": any attempt to hurt another person would cause his muscles to lock up, leaving him temporarily helpless.

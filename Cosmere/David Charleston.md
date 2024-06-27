@@ -8,7 +8,6 @@
 |**Residence**|[[Newcago\|Newcago]]|
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Steelheart\|Steelheart]]*|
-> [!info] This page needs urgent attention!It has serious flaws, such as lack of clarity; contains placeholders; or is otherwise critically incomplete.
 
 >“*I've seen Steelheart bleed. And I **will** see him bleed again.*”
 \-David Charleston[2]
