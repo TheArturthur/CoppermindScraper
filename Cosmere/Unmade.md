@@ -100,14 +100,14 @@ The Unmade feature heavily in the songs of the [[Listener\|listeners]], who also
 ## Members of the Unmade
 ### Ashertmarn
 >“*Ashertmarn, the Heart of the Revel, is the final of the three great Mindless Unmade. His gift to men is not prophecy or battle focus, but a lust for indulgence.*”
-\-From Hessi's Mythica, page 224[12]
+\-From Hessi's Mythica, page 203[66]
 
 
 **[[Ashertmarn\|Ashertmarn]]** is a mindless Unmade that is also known as the **Heart of the Revel**. He takes the form of an enormous, black, inhuman heart that grows veins into the ground. Those who fall under Ashertmarn's influence are driven to debauchery and excess, in extreme cases to the point of total mindless indulgence. Ashertmarn was most recently seen in [[Kholinar\|Kholinar]], grown over the [[Oathgate\|Oathgate]] there, where he managed to influence many of the Alethi elite to abandon their lives and responsibilities in favor of the revel. His location is unknown after he left the Oathgate platform.
 
 ### Ba-Ado-Mishram
 >“*I find Ba-Ado-Mishram to be the most interesting of the Unmade. She is said to have been keen of mind, a highprincess among the enemy forces, their commander during some of the Desolations. I do not know how this relates to the ancient god of the enemy, named Odium.*”
-\-From Hessi's Mythica, page 203[12]
+\-From Hessi's Mythica, page 244[12]
 
 
 **[[Ba-Ado-Mishram\|Ba-Ado-Mishram]]** is one of the most intelligent Unmade. She is crafty and conniving. She served as one of Odium's commanders during the [[Desolation\|Desolations]]. About 2,500 years after Aharietiam, she [[Connection\|Connected]] with the vast majority of [[Singer\|singers]] instigating the [[False Desolation\|False Desolation]]. She was able to grant them forms of power and provide [[Voidlight\|Voidlight]]. A [[Knights Radiant\|Knights Radiant]] strike team captured Ba-Ado-Mishram in a perfect gemstone at the end of the [[False Desolation\|False Desolation]], which cut off her Connection to the singers, stealing their minds, and touched the souls of all who belong to [[Roshar\|Roshar]]. The current location of her gemstone prison is unknown. [[Kalak\|Kalak]] and [[Nale\|Nale]] were present during the capture, so they may have clues to its location. Kalak believes Ba-Ado-Mishram should be found and released. Ba-Ado-Mishram is also being sought by the [[Ghostbloods\|Ghostbloods]] for unknown purposes, possibly to aid their mission of transporting [[Stormlight\|Stormlight]] off [[Roshar\|Roshar]].
@@ -132,14 +132,14 @@ According to [[Hessi\|Hessi]], she is not one of the three great mindless Unmade
 
 ### Nergaoul
 >“*Nergaoul was known for driving forces into a battle rage, lending them great ferocity. Curiously, he did this to both sides of a conflict, Voidbringer and human. This seems common of the less self-aware spren.*”
-\-From Hessi's Mythica, page 121[75]
+\-From Hessi's Mythica, page 121[76]
 
 
 **[[Nergaoul\|Nergaoul]]** is a mindless Unmade that is closely associated with battle rage. Nergaoul is not very intelligent, taking an animalistic joy in death and killing. He takes the form of an enormous red mist roiling with the forms of men fighting and dying. Nergaoul causes the effect known as the [[Thrill\|Thrill]], which drives men to fight far beyond when they should have given up and makes them enjoy the killing. During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], he was captured within the [[King's Drop\|King's Drop]] ruby by Dalinar. Afterwards, this perfect gemstone was sunk to the bottom of the ocean.
 
 ### Re-Shephir
 >“*Re-Shephir, the Midnight Mother, giving birth to abominations with her essence so dark, so terrible, so consuming. She is here! She watches me die!*”
-\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[78]
+\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[79]
 
 
 **[[Re-Shephir\|Re-Shephir]]** is also known as the **Midnight Mother**, and **The Spawning Mother**. She takes the form of a mass of black tarry substance that is capable of flowing over various surfaces and appears to have screaming faces bubbling to the surface. Her primary ability is to spawn the [[Midnight Essence\|Midnight Essence]], a type of spren that takes the form of creatures and people they see around them and try to understand humankind by mimicking them. She is a creature of instinct that is drawn to violence and pain. Before the [[Recreance\|Recreance]], she infiltrated Urithiru and was captured by a [[Order of Lightweavers\|Lightweaver]]. After the Recreance, she escaped imprisonment and inhabited [[Urithiru\|Urithiru]] for centuries, until fleeing the tower as a result of a confrontation with [[Shallan\|Shallan]]. Her current location is unknown, but at some point she reported to the [[Fused\|Fused]], incorrectly, that the [[Sibling\|Sibling]] was dead.

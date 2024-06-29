@@ -97,6 +97,7 @@ For a complete list of seons, see Category:Seons.
 [[Dio\|Dio]]
 [[Ala\|Ala]]
 [[Dao\|Dao]]
+[[Opa\|Opa]]
 ## Trivia
 Seons were inspired by a series of paintings by Michael Whelan called *Passage*. Brandon saw the paintings in high school and wrote a story involving balls of light, which later became the seons. The paintings can be seen on Michael Whelan's .
 In an earlier draft of *Elantris*, seons possessed the ability to 'complete' their Aons a single time, creating the effect that their Aon represents in AonDor while killing the seon. Ien targeted this ability on Dilaf, 'healing' him; since Ien's Aon was still incomplete, this turned Dilaf into a fallen Elantrian. Brandon used some elements of this mechanism in *[[Warbreaker\|Warbreaker]]* with the [[Returned\|Returned's]] ability to sacrifice their [[Divine Breath\|divine Breath]].

@@ -1,6 +1,6 @@
 |**Spiritweb**|
 |-|-|
-|**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
+|**Related to**|[[Realmatic Theory\|Realmatic Theory]], [[Spiritual Realm\|Spiritual Realm]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
@@ -32,7 +32,12 @@ The **spiritweb** is the network of [[Connection\|Connections]] and [[Investitur
 2. [[#Forgery]] 
 
 
+2. [[#Canticle]] 
+
 2. [[#Heat Sharing]] 
+2. [[#Cinderhearts]] 
+
+
 2. [[#The Metallic Arts]] 
 
 2. [[#Allomancy]] 
@@ -77,8 +82,12 @@ The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual 
 #### Forgery
 [[Forgery\|Forgery]] works by overlaying an object’s or person’s history and spiritweb with an alternative one. This may indicate that it is possible to remove the effects of a [[Soulstamp\|soulstamp]], though it is currently unknown.
 
-### Heat Sharing
+### Canticle
+#### Heat Sharing
 People from the planet [[Canticle\|Canticle]] are able to exchange portions of their spirtweb similar to breath. Unlike breath, heat can only be exchanged with people of Canticle (including by invitation). It is unclear how this would interact with Allomancy, as the strength of Allomantic power is generally proportional to the amount of [[Preservation\|Preservation's]] investiture an Allomancer contains.
+
+#### Cinderhearts
+When a [[Cinderheart\|cinderheart]] is inserted deadly into a persons chest it consumes the connections and identity in a person's spirtweb, and connects them to other people who host a cinderheart. People who have a cinderheart placed more shallowly become connected to other people who host a cinder heart, but still maintain their original connections and identity.
 
 ### The Metallic Arts
 #### Allomancy

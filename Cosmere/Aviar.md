@@ -76,7 +76,7 @@ Aviar talents have some parallels to other manifestations of [[Investiture\|Inve
 
 ## Ecology
   Aviar flying over the <<Pantheon\|Pantheon>>
-Many species of birds in the Pantheon can become Aviar; neither trappers nor scholars are immediately familiar with every species. Each species is typically found on a specific island. They can be sent to live in the [[Homeisles\|homeisles]] or the [[Mainland\|mainland]] without issue, but wild Aviar are only found in the Pantheon.
+There are two types of Aviar, greater and lesser Aviar, though it is unclear what makes one greater or lesser. Many species of birds in the Pantheon can become Aviar; neither trappers nor scholars are immediately familiar with every species. Each species is typically found on a specific island. They can be sent to live in the [[Homeisles\|homeisles]] or the [[Mainland\|mainland]] without issue, but wild Aviar are only found in the Pantheon.
 
 ## Domestication
 >“*An Aviar raised around humans never quite fit back in among their own kind. The same could be said of a man raised around Aviar.*”
