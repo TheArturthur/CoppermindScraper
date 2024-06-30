@@ -84,7 +84,7 @@ Av's father received a heap of good cloth, which he sold to keep his family from
 There is a rumor about a man who made every person he touched fall upwards ever since he visited the Old Magic.
 
 ## Development
-Brandon built the Old Magic into [[The Stormlight Archive\|The Stormlight Archive]] because he felt that at a certain point he wanted there to be a contrast to rule-based magic systems. He wanted there to be a primal magic that didn't really adhere to the rules, one that couldn't be anticipated. Brandon felt that it was vital to include so that he didn't overexplain everything in the books. Characters, in some ways, can be given wish fulfillment, but even that can turn on its head because of the Old Magic as it doesn't give people what they think should have gotten.
+Brandon built the Old Magic into *[[The Stormlight Archive\|The Stormlight Archive]]* because he felt that at a certain point he wanted there to be a contrast to rule-based magic systems. He wanted there to be a primal magic that didn't really adhere to the rules, one that couldn't be anticipated. Brandon felt that it was vital to include so that he didn't overexplain everything in the books. Characters, in some ways, can be given wish fulfillment, but even that can turn on its head because of the Old Magic as it doesn't give people what they think should have gotten.
 
 ## Trivia
 It has been confirmed that Dalinar, Lift, and Taravangian all received their boons and curses directly from Cultivation, rather than from the Nightwatcher as is the norm. Brandon has also stated that this is of particular note, but has yet to say how.
