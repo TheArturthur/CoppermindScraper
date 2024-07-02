@@ -637,7 +637,7 @@ This system has seen a resurgence as of late 1173, starting with the election of
 **[[Highprince of Commerce\|Highprince of Commerce]]:** This position held authority over all merchants and his troops would patrol the roads across all ten princedoms.
 **[[Highprince of Information\|Highprince of Information]]:** This position had authority over criminal investigations and policing across the entire kingdom and appointed judges and magistrates. Of particular interest to the Highprince of Information were criminal investigations where the Crown's interest was at stake.
 **[[Highprince of War\|Highprince of War]]:** This position had control over the kingdom's combined military forces, likely only during a time of war.
-**[[Highprince of Works\|Highprince of Works]]:** This position had management of the kingdoms infrastructure, such as sewage disposal, civil services, and potentially [[Stormlight\|Stormlight]] management; with the increase in uses for Stormlight since the [[Battle of Narak\|Battle of Narak]].
+**[[Highprince of Works\|Highprince of Works]]:** This position had management of the kingdom’s infrastructure, such as sewage disposal, civil services, and potentially [[Stormlight\|Stormlight]] management; with the increase in uses for Stormlight since the [[Battle of Narak\|Battle of Narak]].
 #### Inter-Princedom Conflict
 Despite unification under one banner, it is common for princedoms to engage in violent border conflicts with one another. This continued even long into the War of Reckoning.
 
