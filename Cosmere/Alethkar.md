@@ -80,15 +80,21 @@ Prior to the [[True Desolation\|True Desolation]], the Alethi were engaged in th
 3. [[#Battle of the Side Carry .28Kakahach 1173.29]] 
 3. [[#The Fall of Kholinar .281173.29]] 
 3. [[#Battle of the Tower .28Tanatashev 1173.29]] 
-3. [[#Battle of Narak and Failed Assassination of Elhokar Kholin .28Ishishach 1173.29]] 
+3. [[#Unrest and politics]] 
+3. [[#Assassins]] 
+3. [[#The expedition]] 
 
 
-3. [[#The True Desolation .281173 - .29]] 
+3. [[#The True Desolation]] 
 
-3. [[#Siege of Kholinar .281173.29]] 
-3. [[#Battle of Thaylen Field .28Nanishah 1174.29]] 
-3. [[#Fused Occupation .281174 - .29]] 
-3. [[#Evacuation of Hearthstone .281175.29]] 
+3. [[#The Everstorm]] 
+3. [[#Invasion of Alethkar]] 
+3. [[#The Coalition and Kholinar]] 
+3. [[#Thaylen field and a new Monarch]] 
+3. [[#Evacuation of Hearthstone]] 
+3. [[#The War drags on]] 
+3. [[#Expedition to Emul .281175.29]] 
+3. [[#Contest of Champions]] 
 
 
 
@@ -389,8 +395,7 @@ They sent [[Szeth\|Szeth]] to kill him, and Gavilar fought back in a desperate a
 ### The War of Reckoning (1167 - 1173)
 For more information, see [[War of Reckoning\|War of Reckoning]].
 When Gavilar was assassinated by [[Szeth\|Szeth]] under the orders of the [[Parshendi\|Parshendi]] in 1167, his son, [[Elhokar Kholin\|Elhokar Kholin]], became king and declared war on the killers. Each of the highprinces joined the [[Vengeance Pact\|Vengeance Pact]] and they set out into the [[Shattered Plains\|Shattered Plains]] to besiege the Parshendi in the [[War of Reckoning\|War of Reckoning]].
-During the war, the highprince Dalinar Kholin began to have visions of the past, and warnings of the future. These visions caused other highprinces and his soldiers to start doubting his sanity. However, over time, his talking during these visions led to the decipherment of the [[Dawnchant\|Dawnchant]]. These translations began to spread amongst scholars, leading to an immense increase in Rosharan understanding of their own history as they learned how to translate various ancient texts.
-The siege took much longer than was expected, and was still active by 1173.
+During the war, the highprince Dalinar Kholin began to have visions of the past, and warnings of the future. These visions caused other highprinces and his soldiers to start doubting his sanity. However, over time, his talking during these visions led to the decipherment of the [[Dawnchant\|Dawnchant]]. These translations began to spread amongst scholars, leading to an immense increase in Rosharan understanding of their own history as they learned how to translate various ancient texts. The siege took much longer than was expected, and was still going on by 1173.
 Despite the Highprinces all joining together in the War of Reckoning, fighting for territory between Princedoms continued without abeyance. Such as one skirmish between the Sadeas Princedom and [[Vamah princedom\|Vamah]] or [[Aladar princedom\|Aladar princedom]].
 
 #### Sadeas Princedom Border Conflict (c.Tanat 1172)
@@ -410,36 +415,47 @@ For more information, see [[Battle of the Tower\|Battle of the Tower]].
 On Tanatashev 1173, Highprince Sadeas set up a battle on the [[Tower (Roshar)\|Tower]] as a trap to murder Dalinar Kholin. The motivation for this was a part of his desire to protect Elhokar from Dalinar's ideals.
 The battle led to the decimation of Dalinar Kholin's army, he arrived at the battle with 8000 men, but returned with only 2,653 men, coming out at 5347 fatalities. It also led to Dalinar successfully attempting to gain the title of Highprince of War in order to insure more authority to manage the war directly, in response to Sadeas' betrayal.
 
-#### Battle of Narak and Failed Assassination of Elhokar Kholin (Ishishach 1173)
-For more information, see [[Battle of Narak\|Battle of Narak]].
-The Battle of Narak occured on Ishishach 1173, and marked the summoning of the Everstorm and the start of the True Desolation.
+#### Unrest and politics
+Dalinar, with the king’s authority, released a proclamation, first in private to the highprinces and then to the public, stating that all gemhearts won in battle now belonged to the king and the wealth will be apportioned at the Crown's discretion. This proclamation was made to refocus the Highprinces' attention on the war and not on gaining wealth. Hatham was the only highprince to comment on this proclamation publicly, denouncing Elhokar's decision.
 
-### The True Desolation (1173 - )
-For more information, see [[True Desolation\|True Desolation]].
-It eventually ended when the Parshendi summoned the [[Everstorm\|Everstorm]], beginning the [[True Desolation\|True Desolation]] during the [[Battle of Narak\|Battle of Narak]]. Afterwards, some of the Highprinces -- [[Dalinar\|Dalinar]], [[Aladar\|Aladar]] and [[Sebarial\|Sebarial]] -- along with their remaining forces, took refuge in [[Urithiru\|Urithiru]], while others remained on the [[Shattered Plains\|Shattered Plains]], slowly taking over the abandoned warcamps of those who left and consolidating their power base there.
-Shortly following the start of the True Desolation, Torol Sadeas was murdered by Adolin Kholin. Following his murder, rulership of the Sadeas Princedom was passed to Meridas Amaram by [[Ialai Sadeas\|Ialai Sadeas]], as the heir to the position was too young to fill it.
+#### Assassins
+Some time later king Elhokar suffers an assassination attempt in the form of a sabotaged railing, luckily his guards managed to pull him up before he fell. Another while later the [[Szeth\|assassin in white]] returns, he ostensibly attempts to assassinate Elhokar, although he actually means to kill the king’s uncle, Dalinar. This attempt is thwarted however, and the king calls a meeting of Alethkar’s elite. [[Shallan Davar\|Shallan Davar]], betrothed of Adolin Kholin, brings news to this meeting, telling the members of [[House Kholin\|house Kholin]] about Jasnah Kholin’s death. A couple of weeks later Adolin meets with [[Eshonai\|Eshonai]], the listener general, to discuss a listener surrender. She is cold to him however, and denies his every attempt at making peace.
 
-#### Siege of Kholinar (1173)
-For more information, see [[Siege of Kholinar\|Siege of Kholinar]].
-Meanwhile, the Alethkar homelands were besieged by the newly awakened [[Singer\|singer]] forces led by the [[Fused\|Fused]], culminating in the [[Siege of Kholinar\|siege]] and eventual fall of [[Kholinar\|Kholinar]].
-After Elhokar was killed by [[Moash\|Moash]] during the siege, and [[Adolin Kholin\|Adolin Kholin]] refused to take the throne after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Jasnah Kholin\|Jasnah Kholin]] became Queen. The current heir to the throne is Elhokar's son, [[Gavinor\|Gavinor]] -- however, he's still a child and a regency in his name was deemed too unstable and dangerous during the time of the [[True Desolation\|True Desolation]].
+#### The expedition
+Troubled by the [[Glyph\|glyphs]] scratched on his walls and wanting to end the War of Reckoning Dalinar Kholin soon began to gather allies for an expedition onto the Plains. Weeks, and much preparation, later he sets off, taking his entire army with him. Three of the highprinces join him, [[Roion\|Roion]], [[Sebarial\|Sebarial]] and [[Aladar\|Aladar]].
+As the four armies neared the center of the Shattered Plains they discovered that the listeners had changed forms. Close to the center they held a war council and decided to assault the listener forces. This battle, called the Battle of Narak, occured on Ishishach 1173 and saw the deaths of many Alethi, including highprince [[Roion\|Roion]]. The Alethi forces were victorious, but ultimately unable to prevent the summoning of the Everstorm. During this same time there was an assassination attempt on the life of king Elhokar by the [[Diagram\|diagram]], but this plan was foiled when [[Kaladin\|Kaladin]] swore the third . The Everstorm caused the start of the True Desolation.
 
-#### Battle of Thaylen Field (Nanishah 1174)
-For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
-On Nanishah 1174, the Alethi and Thaylen armies defended [[Thaylen City\|Thaylen City]] against the incursion of the [[Fused\|Fused]] army. This battle was motivated by the Alethi wishing to protect their Thaylen allies, and in order to secure the Thaylen [[Oathgate\|Oathgate]]; They wished to secure the Oathgate due to the strategic advantage it granted them.
-During this battle, the Unmade Nergaoul was successfully sealed away into the [[King's Drop\|King's Drop]], thus ending its control over people across Roshar.
+### The True Desolation
+#### The Everstorm
+The Everstorm caused the Parshmen to become whole again, and Parshmen across the world, including those in Alethkar, broke free, fleeing from their owners. These Parshmen, now singers, along with the unexpected Everstorm, wreaked havoc among the Alethi. Many buildings were damaged or destroyed by the storm, although the singers generally left their towns peacefully. The Alethi armies weathered the storm and the singers well, be it in Urithiru or the warcamps.
+A short time after the first Everstorm Dalinar issued a command, all highprinces were to abandon the warcamps and move to Urithiru, although many highprinces disobeyed this order, staying in the warcamps. After highprince Torol Sadeas arrived at the tower he was murdered by Adolin Kholin. Following his murder, rulership of the Sadeas Princedom was passed to Meridas Amaram by [[Ialai Sadeas\|Ialai Sadeas]], as the heir to the position was too young to fill it. At the same time Dalinar appointed highprince Aladar as highprince of Information and [[Roion's son\|Roion's son]] as the new Roion Highprince.
 
-#### Fused Occupation (1174 - )
-By the time of the Battle of Thaylen Field, most of Alethkar was under Fused hegemony. One of the major military centers in the occupation was the capital city of the [[Vamah princedom\|Vamah princedom]], [[Revolar\|Revolar]]. Between 40,000 and 50,000 Singers were stationed there.
-A year after the Battle of Thaylen Field, Dalinar had managed to retake the southwestern corner of Alethkar which touches the Tarat Sea. Dalinar considered launching a major offensive into Alethkar but was convinced by the [[Dieno\|Mink]] that it would be wiser to attempt to retake Emul.
+#### Invasion of Alethkar
+The Singers, commanded by the [[Fused\|Fused]], slowly took control of Alethkar. After the storm they immediately gathered at human settlements, ready to train and fight. Some Alethi armies fought the singers, lead by men such as [[Relis Ruthar\|Relis Ruthar]] and [[Sheler\|Sheler]], but with the bulk of the Alethi armies remaining at the Plains or Urithiru they stood little chance. These armies were soon after forced into Herdaz. Relis Ruthar, after he saw the number of singers, attempted to rally the rest of the troops in the country. Thousands of singers from all over the nation, though mainly the ones who had gathered at [[Revolar\|Revolar]], set off to [[Kholinar\|Kholinar]], beginning the [[Siege of Kholinar\|Siege of Kholinar]].
 
-#### Evacuation of Hearthstone (1175)
-In Chach 1175, an attempt was mounted by the coalition to evacuate the city of Hearthstone. After a battle with Fused occupiers, most notably [[Lezian\|Lezian]], all but fifteen occupants of Hearthstone were successfully evacuated via the *[[Fourth Bridge\|Fourth Bridge]]*, and brought to Urithiru. During the battle, Brightlord Roshone was killed by [[Vyre\|Vyre]], leading to the position of citylady eventually being passed on to Laral.
+#### The Coalition and Kholinar
+At the same time multiple nations, including Alethkar, banded together to form a  to collectively fight their enemy. The king, Elhokar, also swore an oath to [[Dalinar Kholin\|Dalinar Kholin]], elevating Dalinar as high king of Urithiru and Alethkar. The king later thought up a plan to relieve the capital, as it had an oathgate. He flew to Kholinar with a small team of Radiants, planning to open the oathgate and allow the Alethi armies through. This plan failed however, and the Voidbringers attacked the city while the Radiants couldn’t figure out how to open the Oathgate. In the ensuing battle the king was killed, although his [[Gavinor Kholin\|heir]] made it out safely.
+
+#### Thaylen field and a new Monarch
+The Coalition forces, suspecting the Voidbringers to soon invade Thaylenah, moved to [[Thaylen City\|Thaylen City]], where they made preparations for the battle. On Nanishah 1174 the Voidbringers eventually arrived, and managed to bond [[Nergaoul\|Nergaoul]] to some of the Alethi soldiers, causing them to switch sides. The ensuing battle still saw a Coalition victory however. A short while later the Alethi, with the heir to their throne being too young and regency deemed too unstable, made the decision to crown Jasnah Kholin in his place. This happened in a grand ceremony. A week later Adolin Kholin and Shallan Davar were married.
+In the months thereafter Ialai Sadeas began posturing herself as a patriot who wanted to rescue Gavinor from the Blackthorn and the boy's aunt. She planned to become Queen of Alethkar herself, with the boy as her heir. However, Shallan Davar kills her before she can start a rebellion.
+
+#### Evacuation of Hearthstone
+In Chach 1175, an attempt was mounted by the coalition to evacuate the town of Hearthstone. After a battle with Fused occupiers, most notably [[Lezian\|Lezian]], all but fifteen occupants of Hearthstone were successfully evacuated via the *[[Fourth Bridge\|Fourth Bridge]]*, and brought to Urithiru. During the battle, citylord Roshone was killed by [[Vyre\|Vyre]], leading to the position of citylady eventually being passed on to Laral.
+
+#### The War drags on
+A year after the Battle of Thaylen Field, Alethi forces had managed to retake the southwestern corner of Alethkar, which lies on the Tarat Sea. House Kholin considered launching a major offensive into Alethkar but was convinced by the [[Dieno\|Mink]] that it would be wiser to attempt to retake Emul. When [[Taravangian\|Taravangian]] betrayed the coalition, the Alethi in southern Alethkar successfully regrouped at the city with minimal casualties.
+
+#### Expedition to Emul (1175)
+At the Coalition’s behest, Highprince Aladar and some of his scribes helped to advise the Emuli on fortifying their remaining lands to ensure no further loss of territory. The following year had the war effort in Emul reach a stand still with multiple skirmishes and attacks by the [[Skybreakers\|Skybreakers]] against coalition forces. The position of the coalition later changed in 1175, when it was agreed unanimously to push into and defeat the singer forces in Emul. Many of the Coalition forces during this campaign were made up of Alethi, and the Queen, along with a single highprince, resided in Emul as well. Dalinar Kholin and Jasnah Kholin also chose a new Sadeas highprince during this time. Queen Jasnah participated in the war planning sessions, to the frustration of Highprince [[Ruthar\|Ruthar]]. At one particular session Ruthar snapped, insulting the Queen and challenging the [[Hoid\|Queen’s Wit]] to a trial by sword. The Wit appointed Jasnah as his champion, and after she defeated Ruthar, the highprince was stripped of all titles and lands, and his oldest son was made highprince. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar. The push into Emul was ultimately successful.
+
+#### Contest of Champions
+After the liberation of Urithiru, [[Odium\|Odium]] appeared to Dalinar. He wished to set terms for a contest of champions, which would end the True Desolation one way or another. If the Coalition wins, Alethkar, along with Herdaz, is given back to the Coalition and Odium will vow to cease hostilities and maintain the peace. If Odium wins the contest however, he keeps everything and gets Dalinar’s soul, along with peace.
 
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[104]
+\-Lopen[123]
 
 
 ### People
@@ -469,10 +485,9 @@ In late 1167, Alethi men preferred dark colours, to contrast with the brighter f
   The Vorin Havah
 #### Feminine Fashion
 The Vorin Havah is a very common form of clothing amongst Lighteyed women in Alethkar. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary.
-Havah often have elaborate embroidery, often taking the form of multifarious designs, hatchings, and stylized glyphs.
-Lighteyed women often arrange their hair high in a complex series of braids secured by four steel spikes. These hair-spikes are considered to be traditional in Alethi culture. Some women deign to use different metals, such as gold, to construct these spikes; some even choose to wear a different number of spikes in their hair, such as six. Sometimes hair-spikes are designed to resemble Shardblades.
-Darkeyed women tend to wear simpler clothing, and tend to wear gloves on their safehand rather than large sleeves. This is done so that they are able to more easily perform household duties. Wearing a glove on the safehand in this manner is seen as immodest and an inherent sign of lower class, and therefore is not typically practiced by lighteyes.
-It is common for prostitutes to dress with their safehand uncovered.
+An ancient style of clothing, now only used in weddings, has a very loose fit, and drooping sleeves, as well as a graceful drape. Havah often have elaborate embroidery, sometimes taking the form of multifarious designs, hatchings, and stylized glyphs. The colors on a piece of clothing also have meaning, on at least some occasions, and the color red stands for luck.
+Lighteyed women often arrange their hair high in a complex series of braids secured by four steel spikes. These hair-spikes are considered to be traditional in Alethi culture. Some women deign to use different metals, such as gold, to construct these spikes; some even choose to wear a different number of spikes in their hair, such as six. Sometimes hair-spikes are designed to resemble Shardblades. Some women also wear intricate headdresses, which are generally woven into their braids. These headdresses might be for special occasions however.
+Darkeyed women tend to wear simpler clothing, and tend to wear gloves on their safehand rather than large sleeves. This is done so that they are able to more easily perform household duties. Wearing a glove on the safehand in this manner is seen as immodest and an inherent sign of lower class, and therefore is not typically practiced by lighteyes. Some darkeyed women also cut their fingers out of the glove. It is common for prostitutes to dress with their safehand uncovered.
 
 ### Cuisine
 Like other Vorin nations, they practice a gendered division in cuisine between genders. Masculine food is often heavily spiced. Feminine food is made up of fruit and is often very sweet. However, as always, ardents are immune to these gender norms and can eat whatever they wish.
@@ -526,7 +541,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[165]
+\-Shallan[184]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -704,7 +719,7 @@ They retained political recognition by other states despite their exile.
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[132]
+\-Taravangian[151]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -833,7 +848,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficulty to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains a control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[178]
+\-Highmarshal Halad[197]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.

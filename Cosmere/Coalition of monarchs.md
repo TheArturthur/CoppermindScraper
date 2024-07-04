@@ -11,7 +11,7 @@
 \-Navani Kholin[1]
 
 
-The **coalition of monarchs** is a coalition of several nations on [[Roshar\|Roshar]] dedicated to opposing [[Odium\|Odium's]] forces in the [[True Desolation\|True Desolation]]. Founded by [[Dalinar Kholin\|Dalinar Kholin]] after the [[Battle of Narak\|Battle of Narak]], it currently consists of [[Urithiru\|Urithiru]], [[Alethkar\|Alethkar]], [[Thaylenah\|Thaylenah]], [[Azir\|Azir]] and its member states, and [[Herdaz\|Herdaz]], though Alethkar and Herdaz are occupied by the [[Fused\|Fused]]. Prior to [[Taravangian\|Taravangian's]] betrayal, it also includes [[Jah Keved\|Jah Keved]] and [[Kharbranth\|Kharbranth]].
+The **coalition of monarchs** is a coalition of several nations on [[Roshar\|Roshar]] dedicated to opposing [[Odium\|Odium's]] forces in the [[True Desolation\|True Desolation]]. Founded by [[Dalinar Kholin\|Dalinar Kholin]] after the [[Battle of Narak\|Battle of Narak]], it currently consists of [[Urithiru\|Urithiru]], [[Alethkar\|Alethkar]], [[Thaylenah\|Thaylenah]], [[Azir\|Azir]] and its member states, and [[Herdaz\|Herdaz]], though Alethkar and Herdaz are occupied by the [[Fused\|Fused]]. Prior to [[Taravangian\|Taravangian's]] betrayal, it also includes [[Jah Keved\|Jah Keved]] and [[Kharbranth\|Kharbranth]]. The Azish choose a pattern of blue and maroon to symbolize the coalition.
 The coalition's major military conflicts include the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and an offensive in which they regain [[Emul\|Emul]] from Odium's army. Their navy successfully controls the southern seas of Roshar. The coalition also sanctions a diplomatic mission to [[Lasting Integrity\|Lasting Integrity]] to treat with the [[Honorspren\|honorspren]] and successfully retakes Urithiru after its occupation by the [[Fused\|Fused]]. Dalinar makes a binding agreement on behalf of the coalition to settle the conflict with Odium by means of a contest of champions to take place at Urithiru on the tenth day of the month Palah, 1175.
 
 ## Contents
@@ -62,7 +62,7 @@ The coalition's major military conflicts include the [[Battle of Thaylen Field\|
 ## History
 ### Founding (1174)
 >“*It's just so big, son. How can I unite all of Roshar when I've never even **visited** many of these kingdoms?*”
-\-Dalinar to Renarin[9]
+\-Dalinar to Renarin[10]
 
 
 [[Dalinar Kholin\|Dalinar Kholin]] was inspired to create the coalition of monarchs after the [[Battle of Narak\|Battle of Narak]] when reviewing one of [[Honor\|Honor's]] [[Dalinar's visions\|visions]] with the [[Stormfather\|Stormfather]]. After seeing a vision of [[Odium\|Odium's]] champion, a massive figure bathed in golden light with nine shadows, Dalinar was imbued with a sense of urgency to unite the nations of [[Roshar\|Roshar]]. From his new home in [[Urithiru\|Urithiru]], Dalinar discussed with his family how to begin approaching the other nations. He and [[Shallan\|Shallan]] formed a three dimensional map out of [[Stormlight\|Stormlight]] for the first time, which gave Dalinar the leap in inspiration he needed to decide to focus on the kingdoms and cities with [[Oathgate\|Oathgates]] first.
@@ -73,7 +73,7 @@ With this decided, Dalinar assembled a small team to help him: [[Aladar\|Aladar]
 Aside from those rulers, Dalinar's group reached out to several others. Neither [[Marabethia\|Marabethia]] nor [[Rira (country)\|Rira]] responded; [[Babatharnam\|Babatharnam]] was evasive; the other Makabaki states were waiting for Azir to decide; [[Shinovar\|Shinovar]] sent congratulations but no real answer; and the [[Reshi Isles\|Reshi Isles]] and other small states didn't really have a leader to contact. The [[Herdaz\|Herdazians]] didn't trust Dalinar, and the [[Tukar\|Tukari]] scribes delayed in bringing his message to their god-king, [[Tezim\|Tezim]]. [[New Natanan\|New Natanan]] was evasive at first as well but then began to warm up.
 
 >“*Bah! Fools, idiots! Storming lighteyes and **Damnation's** own politics!*”
-\-A frustrated Dalinar[11]
+\-A frustrated Dalinar[12]
 
 Taravangian and his retinue were the first to visit Urithiru. When Dalinar was forced to admit that he had so far failed to recruit any other nations, Taravangian assumed that Dalinar then meant to conquer the others by force. He was prepared to assist, despite Dalinar's explanations that he meant to use diplomacy. With Taravangian's presence in the tower, Dalinar called for a meeting to discuss expanding the coalition, focusing on Thaylenah and Azir as the most important allies. Dalinar deduced from what they knew of the enemy's movements that they were indeed trying to capture the Oathgates and predicted that they would attack Azir or Jah Keved next. After the meeting was interrupted, the group received Azir's decisive answer: a resolution to seal off and destroy their Oathgate. Teshav contacted Queen Fen again at Dalinar's request, but the queen also made one more refusal to join.
 
@@ -95,7 +95,7 @@ Fen also gave Dalinar some advice on how to approach the Azish. At her suggestio
 
 ### War Efforts (1174 - 1175)
 >“*I know of no other conference like this in the history of Roshar. Perhaps they were common in the days of the Knights Radiant, but certainly nothing like it has occurred since the Recreance.*”
-\-Navani beginning the first meeting[26]
+\-Navani beginning the first meeting[27]
 
 
 #### First Meeting of Monarchs
@@ -104,7 +104,7 @@ Dalinar had asked Navani to lead the meeting, so she attempted to moderate the d
 
 #### Dissolution
 >“*I've done it. I've united them, Stormfather. I've kept my oath, and have brought men together, instead of dividing them.*”
-\-Dalinar[27]
+\-Dalinar[28]
 
 Dalinar himself went to [[Vedenar\|Vedenar]] to take stock of the situation before sending troops to the area, but he suffered a personal crisis during the visit that drove him to seclude himself another few days. During this time, the coalition held several more meetings. On the day the coalition gathered to discuss tactics regarding sending troops to Jah Keved, the other members told Taravangian he was not needed at the meeting. He met up with Dalinar, and together they arrived late to the meeting in the [[/wiki/Urithiru#The Gallery of Maps]]. [[Aladar\|Aladar]], who was leading the meeting, explained the plans they had made so far. Dalinar realized that they were making a mistake to think that Odium's forces would move against Jah Keved. He persuaded the others that the true target was Thaylen City. Aside from sending infantry via the Oathgate, they hatched a plan to man extra Veden ships with Tashikki sailors augmented by the best Alethi troops.
 The next meeting convened in the temple of Talenelat in Thaylen City itself. The group spoke of the status of their fleet of ships and of their other defenses in the city. About an hour into the meeting, a messenger delivered papers to Jasnah, and everyone's spanreeds started blinking as they all received news of an unexpected, more violent than usual, [[Everstorm\|Everstorm]]. Dalinar called for a break, but soon each group spoke up about some troubling news they had received. There were three pieces of information that had been carefully leaked to the nations by Taravangian and the [[Diagram (group)\|Diagram]], each incriminating Dalinar or his mission in forming the coalition in a way that specifically attacked each group's latent suspicions:
@@ -153,7 +153,7 @@ During the course of Urithiru's occupation, [[Navani Kholin\|Navani Kholin]] ele
 While the conflicts in Emul and Urithiru were going on, the diplomatic mission to [[Lasting Integrity\|Lasting Integrity]] saw its own share of setbacks. [[Adolin\|Adolin]], [[Shallan\|Shallan]], [[Pattern\|Pattern]], and [[Mayalaran\|Mayalaran]] were the only ones granted entry to the fortress, where Adolin agreed to stand trial before the [[Honorspren\|honorspren]] to prove to them that modern humans were worthy of bonding. The highprince uncovered a rift in the society of honorspren, proving that not all of them were opposed to aiding the humans. In the end, Maya's revelation that the [[Deadeye\|deadeyes]] had chosen alongside their Radiants to abandon their oaths disproved the spren's claim that humans were murderers and traitors. Though this argument did not win over the entire population, there was a new group willing to travel back to Urithiru to look for new humans among the coalition to bond.
 
 >“*It is time for a true accommodation. A true ending. Do you not agree?*”
-\-Odium[8]
+\-Odium[9]
 
 Odium was sufficiently frightened both by the coalition's victory in Urithiru and Dalinar's trip to visit Ishar that he approached Dalinar to set the terms for a contest of champions. The [[Shard\|Shard]] read the contract [[Hoid\|Hoid]] had prepared and left with Dalinar, but he reacted angrily when he detected Hoid's hand in it. Explaining that he was literally unable to comply with certain terms, Odium proposed a variation in which he would be freed from the Rosharan system if he won. Dalinar decided to trust Hoid and so declined the agreement; urgent to settle the matter, Odium acceded the point and agreed to stay in the system so long as Dalinar became a Fused in the event of his loss. Realizing he was making a commitment to bind the entire coalition but unable to run it by anyone else, Dalinar agreed to the terms and set the date for the tenth day of the next month. Because he planned to be his own champion, he decided to send a group to Shinovar to meet Ishar and help him recover his mind so he could aid Dalinar. In the intervening time, the coalition would need to defend their lands until the borders were settled by the fulfillment of the contract.
 
@@ -170,7 +170,7 @@ Headed by [[Navani Kholin\|Navani Kholin]], the coalition's scholars and enginee
 ## Politics
 ### Internal Politics
 >“*I suspect that each monarch in this room would prefer to know that state secrets are allowed to remain their own. This is an alliance, not a wedding.*”
-\-Jasnah to Ialai Sadeas[29]
+\-Jasnah to Ialai Sadeas[30]
 
 
 Though most of the nations of Roshar are agreed that they need to fight [[Odium\|Odium's]] forces of [[Singer\|singers]] and [[Fused\|Fused]], many initially resist forming a coalition out of distrust of the [[Alethi\|Alethi]] and because of Dalinar's personal [[/wiki/Dalinar Kholin#The Blackthorn]]. These suspicions are smoothed over for a time, but they resurface when Taravangian uses targeted information leaks to disband the coalition just before the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
@@ -179,7 +179,7 @@ The nations' different methods of rule also raise some contention among them. Da
 
 #### The Diagram's Propaganda War
 >“*Dalinar would be the first to tell you that when your opponent is getting back up, you must act quickly to crush his knees. Then he will bow, and present to you his skull.*”
-\-Taravangian[29]
+\-Taravangian[30]
 
 Following the guidance of the [[Diagram (literature)\|Diagram]], which he believes to be instructing him to take Dalinar's place at the head of the coalition, Taravangian takes action when it becomes clear that Dalinar will recover from his personal struggles inflicted by his returning memories. His [[Diagram (group)\|group]] industriously collects historical research and present day secrets, turning them into incriminating evidence against Dalinar. They use the cultural and personal biases of each member nation to put together a collection of information designed to undermine their trust in Dalinar and the purpose of the coalition, then release the information so that it reaches each respective nation at the same time during the coalition's meeting in [[Thaylen City\|Thaylen City]].
 [[Elhokar\|Elhokar]] approaches Dalinar early on in his efforts to reach out to other nations and swears an oath to him that he will regard Dalinar as his highking. Dalinar is reluctant, but he does accept. He has Elhokar formalize the deal before leaving to unlock the [[Kholinar\|Kholinar]] Oathgate but decides to wait to announce it until he has news of Elhokar and Adolin again following the failure of their mission. This delay gives Taravangian the opportunity to expose his knowledge of the incident as leverage against Dalinar. Though Dalinar insists it is an "internal Alethi matter," the news rings alarm bells for Queen Fen, whose primary fear in joining the coalition has been that it is a cover for the Alethi's plot to create a worldwide empire.

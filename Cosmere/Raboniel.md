@@ -5,6 +5,7 @@
 |**Died**|1175|
 |**Abilities**|[[Fused\|Fused]] |
 |**Titles**|Lady of Wishes, Lady of Pains|
+|**Groups**|[[Nine\|The Nine]] |
 |**Species**|[[Singer\|Singer]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
