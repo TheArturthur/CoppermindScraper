@@ -5,7 +5,6 @@
 |**Groups**|[[Five Scholars\|Five Scholars]]|
 |**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 **Yesteel** is one of the [[Five Scholars\|Five Scholars]] on [[Nalthis\|Nalthis]], and a master of [[Lifeless\|Lifeless]] [[/wiki/Awakening#Awakening Commands]]. He is [[Arsteel\|Arsteel's]] brother. His most well-known achievement is his discovery of [[Ichor-alcohol\|ichor-alcohol]].
 
@@ -29,8 +28,8 @@
 
 
 ## Attributes and Abilities
->“*You're not any better at this than Vasher is. You people can't sneak at all! Yesteel would be so disappointed in you.*”
-\-Nightblood to Vivenna[3]
+>“*You're not any better at this than Vasher is. You people can’t sneak at all! Yesteel would be so disappointed in you.*”
+\-Nightblood on Vivenna.[3]
 
 
 As a Returned, Yesteel can have the Fifth Heightening whenever he desires, and all the effects that implies, such as agelessness. Like Vasher and Denth, Yesteel probably is well aware how to hide his divine Breath and appear as he wishes.
@@ -45,7 +44,7 @@ Like all of the Five Scholars, Yesteel was a [[Returned\|Returned]]. It's unclea
 He joined the Five Scholars, and there was a golden age in discovering [[Awakening\|Awakening]] Commands for several years. Among them, Yesteel was considered a master of Lifeless Commands. Unfortunately, these discoveries were part of the reason for the [[Manywar\|Manywar]], such as [[Shashara\|Shashara's]] discovery of a Command that could create a Lifeless with a single [[Breath\|Breath]].
 
 ### Involvement in the Manywar
->“*Shashara had been spurred on by the knowledge that she'd been shown up by Yesteel and the development of ichor-alcohol. She had studied, experimented, practiced. And she'd done it. She'd learned to forge the Breath of a thousand people into a piece of steel, Awaken it to sentience, and give it a Command.*”
+>“*Shashara had been spurred on by the knowledge that she’d been shown up by Yesteel and the development of ichor-alcohol. She had studied, experimented, practiced. And she’d done it. She’d learned to forge the Breath of a thousand people into a piece of steel, Awaken it to sentience, and give it a Command.*”
 \-Vasher on what drove Shashara to make Nightblood[12]
 
 During the Manywar, The Five Scholars split, joining different sides. [[Vasher\|Vasher]] persuaded [[Denth\|Denth]] to join his side of [[Hanald\|Hanald]], and it seems likely that Shashara also joined Vasher. It is likely that Yesteel and Arsteel went to different kingdoms and opposed Hanald, but it's unknown which kingdoms they went to. They could have gone to [[Kuth\|Kuth]] and [[Huth\|Huth]], Hanald's primary enemy in the Manywar, or one of the many nations in the [[Pahn Unity\|Pahn Unity]], who also opposed Hanald.
@@ -64,6 +63,17 @@ Little is known about Yesteel and his brother's relationship. It seems likely th
 
 ### Shashara
 It seems as though Shashara and Yesteel had a competitive relationship when it came to their scholarship. Shashara came up with the first Command for creating Lifeless with a single Breath, but since Yesteel is referred to as a master of Lifeless Commands he was likely spurred forward to do more with Lifeless. He eventually created ichor-alcohol, and the creation of the substance made Shashara want to show up Yesteel. She did this by researching and creating Awakened swords, resulting in Nightblood.
+
+## Notes
+
+> [!info] This page is probably complete!This page contains most of the knowledge we have on the subject at this time.
+It has yet to be reviewed.
+|**[[Warbreaker\|Warbreaker]] (**[[Nalthis\|Nalthis]]**)**|
+|-|-|
+|**Characters**|[[Vasher\|Vasher]] · [[Vivenna\|Vivenna]] · [[Sisirinah\|Siri]] · [[Lightsong\|Lightsong]] · [[Denth\|Denth]] · [[Susebron\|Susebron]] · [[Llarimar\|Llarimar]] · [[Havarseth\|Bluefingers]] · [[Blushweaver\|Blushweaver]] · [[Nightblood\|Nightblood]]|
+|**Places**|[[Hallandren\|Hallandren]] · [[T'Telir\|T'Telir]] · [[Idris\|Idris]] · [[Kuth\|Kuth]] · [[Huth\|Huth]] · [[Tedradel\|Tedradel]] · [[Court of Gods\|Court of Gods]]|
+|**Magic**|[[Awakening\|Awakening]] · [[BioChromatic Breath\|BioChromatic Breath]] · [[Drab\|Drab]] · [[Heightening\|Heightening]]· [[Ichor-alcohol\|Ichor-alcohol]] · [[Lifeless\|Lifeless]] · [[Returned\|Returned]]|
+|**Mythology and Lore**|[[Endowment\|Endowment]] · [[Austrism\|Austrism]] · [[Five Scholars\|Five Scholars]] · [[Iridescent Tones\|Iridescent Tones]] · [[Manywar\|Manywar]] · [[Kalad's Phantoms\|Kalad's Phantoms]]|
 
 
 

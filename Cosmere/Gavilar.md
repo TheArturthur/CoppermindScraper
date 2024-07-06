@@ -84,7 +84,7 @@
 
 For more images, see [[Gavilar Kholin/Gallery\|/Gallery]].
 ### Appearance
-Gavilar looks regal with his beard combed, glowing gemstones on the fingers and uniform of newer styles. He has strong features, a square chin, a black beard with a hint of white, and pale green eyes. He has a set of bright blue Shardplate, which he often lends to others in favor of wearing a modern suit, and wears a black iron circlet as crown.
+Gavilar looks like a true Alethi. He’s tall and has tan skin. He also has strong features, a square chin, a black beard with a hint of white, and pale green eyes. He used to be handsome, but he once broke his nose and suffered a scar on his chin. He is regal with his beard combed, glowing gemstones on the fingers and uniform of newer styles. He has a set of bright blue Shardplate, which he often lends to others in favor of wearing a modern suit, and wears a black iron circlet as crown.
 
 ### Personality
 He's an ambitious man who is obsessed with the rise of House Kholin and overshadowing the Sunmaker and his legacy. He wants to lead a sustainable kingdom and doesn't overlook responsibility. He is very knowledgeable of history; he has theories on why Sunmaker’s kingdom did not stand as well as knowledge on the history of some blades including Oathbringer that would eventually be Dalinar's. He is known for his political skill for making alliances and is more inclined to trick his enemies into turning against each other, though he doesn’t feel guilty if his strategy included pillaging or brutal killing, as his best friend and trusted adviser Torol Sadeas would push for. He had a tendency to use those around him, even if he cared for them.
@@ -114,7 +114,7 @@ Towards the end of the war, Gavilar started talking of the [[Alethi Codes of War
 
 ### Ruling Alethkar
 >“*He is exactly what we need ... Hard enough to lead a war; soft enough to be beloved during peace. He has foresight and wisdom.*”
-\-Sadeas on Gavilar[25]
+\-Sadeas on Gavilar[26]
 
 After winning the war, Gavilar took the throne as King of [[Alethkar\|Alethkar]]. Gavilar did prove to be a proficient leader; he made sure the vision was towards a unified kingdom, and politics were the main tool for doing so. He wanted to ensure Elhokar would be able to hold it together without need of "putting out fires."
 He was not soft, but approached things differently, using propaganda, talking to heirs of the highprinces on civic projects, censuring Dalinar and Sadeas on losing the Rift, and even the initial approach towards rebels, trying to scare them by fighting on the borders. Some highprinces considered this softness or weakness, yet he could be hard; some examples are his disappointment on knowing Dalinar had spared the heir of [[Tanalan\|Tanalan]] or the way he talked of attacking [[Herdaz\|Herdaz]] or [[Jah Keved\|Jah Keved]].
@@ -179,7 +179,7 @@ Jasnah takes great interest in the changes near the end of his life.
 
 ### Sadees the Sunmaker
 >“*Hopefully my accomplishments won’t be as ephemeral as his.*”
-\-Gavilar to Toh in reference to the Sunmaker.[7]
+\-Gavilar to Toh in reference to the Sunmaker.[8]
 
 
 During his conquests and reign, Gavilar looked towards the [[Sunmaker\|Sunmaker]] for guidance. Although the Sunmaker is revered by most in Alethkar for creating a united empire, Gavilar had a more negative view of him. Gavilar blamed the destruction of the Sunmaker's empire on his greed and inability to be satisfied with what he conquered. He hoped that he'll be able to create a longer-lasting empire and overshadow the Sunmaker in the hearts and minds of the people.

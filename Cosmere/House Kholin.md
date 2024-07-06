@@ -187,7 +187,7 @@ General Khal's Shardplate
 Kaladin's Shardplate
 ## Iconography
 The Kholins are distinguished by the colors white and a deep shade of blue, often referred to as "Kholin blue." These are the official colors of the Kholin household which they use for their uniforms.
-Dalinar Kholin's crest takes the form of the words *khokh* and *linil* formed into the shape of a tower and a crown, respectively. This crest is emblazoned upon the armor, clothing, and banners of Dalinar's army and servants.
+Dalinar Kholin's crest takes the form of the words *khokh* and *linil* formed into the shape of a tower and a crown, respectively. This crest is emblazoned upon the armor, clothing, and banners of Dalinar's army and servants. The design was originally created by Dalinar’s mother.
 Elhokar Kholin's crest uses the same words as Dalinar's, but they are shaped into a sword and crown, instead of a tower and crown.
 
 

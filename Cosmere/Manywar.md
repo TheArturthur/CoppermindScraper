@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 >“* What some are calling a 'simple quelling of rebel factions' could easily spin into another Manywar. Do you want that? Thousands upon thousands dead? Kingdoms falling to never rise again?*”
-\- Bebid, a priest of Brightvision[1]
+\- Bebid, a priest of Brightvison[1]
 
 
 The **Manywar** was a global conflict on [[Nalthis\|Nalthis]] that involved the nations of [[Hanald\|Hanald]] (the original name of [[Hallandren\|Hallandren]]), [[Kuth\|Kuth]], [[Huth\|Huth]], [[Pahn Kahl\|Pahn Kahl]], [[Tedradel\|Tedradel]], and [[Gys\|Gys]]. It occurred about three hundred years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].

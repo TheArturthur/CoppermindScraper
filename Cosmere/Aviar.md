@@ -9,7 +9,7 @@
 \-Vathi[1]
 
 
-**Aviar** are birds that have gained magical powers, or "talents", on the island of [[Patji (island)\|Patji]] on [[First of the Sun\|First of the Sun]]. They are capable of sharing their powers with humans. Aviar were long thought to be exclusively native to the [[Pantheon\|Pantheon]] archipelago, but other birds can become Aviar if they visit the island and ingest the fruit of [[Patji's Finger\|Patji's Fingers]].
+**Aviar** are birds that have gained magical powers, or "talents", on the island of [[Patji (island)\|Patji]] on [[First of the Sun\|First of the Sun]]. They are capable of sharing their powers with humans. Aviar were long thought to be exclusively native to the [[Pantheon\|Pantheon]] archipelago, but other birds can become Aviar if they visit Patji and ingest the fruit of [[Patji's Finger\|Patji's Fingers]].
 
 ## Contents
 
@@ -37,7 +37,6 @@
 
 
 ## Appearance and Anatomy
-  <<Gereh\|Gereh>> with his <<Gereh's Aviar\|Aviar>>
 Most Aviar are relatively large birds, approximately three fists tall. Some species may be smaller or larger. Their appearance varies between species, with colors including red, green, black, blue, and white, sometimes in combination. Some Aviar have sharp raptor-like talons and beaks. Juvenile Aviar are barely able to fly, but healthy adults are typically good fliers unless their wings are clipped.
 
 ## Behavior
@@ -57,6 +56,7 @@ A human cannot eat the worms or an Aviar in order to gain powers, as the symbios
 ### Abilities
 The power obtained by Aviar is different for each species of bird. Many Aviar have abilities related to the [[Cognitive Realm\|Cognitive Realm]], but [[Spiritual Realm\|Spiritual]] and even [[Physical Realm\|Physical]] powers also exist. Some abilities work passively, while others must be intentionally activated by the Aviar, sometimes at the request of a bonded person. At least one unknown Aviar ability could assist with "navigation". Aviar abilities are usually very reliable, although they were disrupted by an unusual device that was given to the [[Northern Interests Trading Company\|Northern Interests Trading Company]] by the [[Ones Above\|Ones Above]].
 
+  <<Gereh\|Gereh>> with his <<Gereh's Aviar\|Aviar>>
 #### Bonds
 Aviar are able to share their powers with humans through a Spiritual [[Connection\|Connection]] similar to the [[Nahel bond\|Nahel bond]]. This bond is not as powerful as the Nahel bond, but because of that it can be shifted between people at its owner's will. The bond includes a mental connection; Dusk refers to Sak "sending" him her visions. Aviar are also able to sense the location of the person they have bonded with. The nature of the bond allows some Aviar to share their talents with people other than their usual master. Most people bond a single Aviar, but some [[Trapper\|trappers]] have bonded at least three Aviar at the same time.
 
@@ -76,7 +76,7 @@ Aviar talents have some parallels to other manifestations of [[Investiture\|Inve
 
 ## Ecology
   Aviar flying over the <<Pantheon\|Pantheon>>
-There are two types of Aviar, greater and lesser Aviar, though it is unclear what makes one greater or lesser. Many species of birds in the Pantheon can become Aviar; neither trappers nor scholars are immediately familiar with every species. Each species is typically found on a specific island. They can be sent to live in the [[Homeisles\|homeisles]] or the [[Mainland\|mainland]] without issue, but wild Aviar are only found in the Pantheon.
+Many species of birds in the Pantheon can become Aviar; neither trappers nor scholars are immediately familiar with every species. Each species is typically found on a specific island. They can be sent to live in the [[Homeisles\|homeisles]] or the [[Mainland\|mainland]] without issue, but wild Aviar are only found in the Pantheon. Some Aviar are referred to as "lesser" Aviar, although it is unclear if the term refers to their physical size, the nature of their abilities, or both.
 
 ## Domestication
 >“*An Aviar raised around humans never quite fit back in among their own kind. The same could be said of a man raised around Aviar.*”
