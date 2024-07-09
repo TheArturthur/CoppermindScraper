@@ -3,6 +3,8 @@
 ||
 |**Released**|March 29, 2024|
 |**Publisher**|[[Dragonsteel Entertainment\|Dragonsteel Entertainment]]|
+|**Page Count**|642|
+|**Word Count**||
 
 ***Dragonsteel* Prime** was [[Brandon Sanderson\|Brandon Sanderson's]] seventh novel and was written as part of his Masters Thesis when working towards a Master's Degree in Creative Writing. Five copies are currently held in the Harold B Lee Library at Brigham Young University, four of which are available for circulation. After positive response to his release of *[[The Way of Kings Prime\|The Way of Kings Prime]]*, Brandon considered a possible release of this draft as part of a "Sanderson Curiosities" series, and ultimately, it was released during the *[[Words of Radiance\|Words of Radiance]]* Leatherbound campaign on . The book can be downloaded .
 Brandon has stated that it was not his best work. He plans to rewrite and publish the series after the completion of *[[The Stormlight Archive\|The Stormlight Archive]]*. Sections of the book, including locations such as the [[Shattered Plains\|Shattered Plains]], were later re-purposed in *[[The Way of Kings\|The Way of Kings]]*, but Brandon considers some of the other events to be canon. Specifically, Brandon has stated that he considers most of the worldbuilding in the book to be canon, but not the characters. He had some trepidation over removing the Shattered Plains because, though it was not as essential to the story, he felt it was the part of the book that worked best.
@@ -16,7 +18,8 @@ In 2007, Brandon began work on a rewrite of the Dragonsteel series. He began wit
 
 
 2 Characters. [[#Characters]] 
-3 Notes. [[#Notes]] 
+3 Statistical Analysis. [[#Statistical Analysis]] 
+4 Notes. [[#Notes]] 
 
 
 ## Plot Summary
@@ -40,6 +43,16 @@ Ryalla
 Strafen
 Torell
 Yoharn
+
+## Statistical Analysis
+For a full statistical analysis, see .
+*Dragonsteel Prime* consists of one prologue, fifty-three chapters, and one epilogue, reaching a total 210,103 word count.
+
+|**Word Count**|236,997||
+|-|-|
+|**Page Count**|642|Free PDF|
+|**Chapter Count**|55|Including prologue and epilogue.|
+|**PoV Characters**|||
 
 
 

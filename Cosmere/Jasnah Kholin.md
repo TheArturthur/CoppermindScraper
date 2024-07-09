@@ -104,6 +104,8 @@ Jasnah is a reserved and statuesque woman. She is widely praised for her beauty,
 
 
 Jasnah is generally a stern and serious person, although she occasionally shows a wry sense of humor, and allows familiarity among those she is close with. She sometimes acts in a brusque manner, and can be exceptionally rude when someone gets on her bad side. She is determined, confident, and often stubborn. She can be extremely tough and ruthless, as she showed when she killed four footpads that attacked her and Shallan. She harbors a deep hatred towards men like them, possibly because of something that has been done to her in the past.
+She is known to get herself into dangerous situations. Navani claims Jasnah "plays with danger as a child plays with a cremling."
+
 She can be temperamental and prone to aggressive verbal outbursts when under stress, even when such a reaction isn't warranted or appropriate. When she calms down, and feels that her response was unwarranted, she feels guilty and apologizes to the target of her outburst. She recognizes this temper as one of her flaws.
 She has a brilliant mind and shows wisdom and care in her studies. She is very passionate about scholarship and wants others to share in her passion as well. She often encourages her ward, Shallan, to come up with answers on her own, rather than simply giving them to her. She also deeply appreciates when people pursue knowledge out of desire to learn and expand their knowledge, rather than for any ulterior motive. Furthermore, she respects and encourages persistence in others. She considers history to be the most important literary sub art, as she believes that the present can only be fully understood by understanding the past in a factual and unbiased manner.
 She is prejudiced against the visual arts, going so far as to call them frivolities, although having Shallan as her ward may have changed her opinions on the subject.
@@ -178,7 +180,7 @@ Despite Jasnah's instructions, Shallan came to her alcove and guessed that the S
 ### Shipwreck and Apparent Death (1173)
   Talking with <<Shallan\|Shallan>> aboard the *[[Wind's Pleasure\|Wind's Pleasure]]*
 During their days sailing, Shallan occasionally asked Jasnah about the Ghostbloods, but Jasnah claimed to know very little of them beyond the fact that they wanted her research and were willing to kill for it. While on the ship, Jasnah began making arrangements to help Shallan's family: she contacted Navani via spanreed to ask whether Shallan's Soulcaster could be fixed; in the same conversation, arranged a tentative causal betrothal -- an unofficial agreement, unwitnessed by ardents -- between [[Adolin Kholin\|Adolin]] and Shallan; and arranged for a relatively small amount of money to be sent to the [[House Davar\|Davar family]]. It was on the ship that she explained the nature of Shadesmar and the spren to Shallan at length, showing a good understanding of the [[Realmatic Theory\|Realmatic Theory]]. She claimed that the meeting was not an accident, that the spren had guided Shallan to her, and that the old ways were returning because spren sensed an impending danger and were trying to preserve themselves. Jasnah also explained about the perception of power.
-Jasnah was murdered by mercenaries associated with [[Tyn\|Tyn]] who were trying to get into the Ghostbloods. Though she was stabbed through the heart, she was able to escape to Shadesmar using the [[/wiki/Surgebinding#Transportation]], then heal herself with Stormlight. Jasnah reappeared in the [[Physical Realm\|Physical Realm]] after the summoning of the [[Everstorm\|Everstorm]], having learned about the original [[Knights Radiant\|Knights Radiant]] in her time away. Jasnah met [[Hoid\|Wit]] on her way and threatened him with a Shardblade, presumably her spren [[Ivory\|Ivory]].
+Jasnah was murdered by mercenaries associated with [[Tyn\|Tyn]] who were trying to get into the Ghostbloods. Though she was stabbed through the heart, she was able to escape to Shadesmar using the [[/wiki/Surgebinding#Transportation]], then heal herself with Stormlight. At least once before this attack, another supposed disaster known by Navani struck Jasnah. Jasnah reappeared in the [[Physical Realm\|Physical Realm]] after the summoning of the [[Everstorm\|Everstorm]], having learned about the original [[Knights Radiant\|Knights Radiant]] in her time away. Jasnah met [[Hoid\|Wit]] on her way and threatened him with a Shardblade, presumably her spren [[Ivory\|Ivory]].
 
 ### Return to the Physical Realm (1173—)
 After her travel through the Cognitive Realm, Jasnah headed to [[Urithiru\|Urithiru]] to resume her fight against the [[Voidbringers\|Voidbringers]]. She observed many of Dalinar's visions, searching for hints about locations and time periods in which they took place to try to glean more information about pre-[[Aharietiam\|Aharietiam]] Roshar and the ancient Knights Radiant. She was unable to identify distinguishing landmarks, either because the landscape had changed over time or because they were in uncharted territory, but she did identify [[Jezrien\|Jezerezeh, king of the Heralds]], in the vision of Aharietiam.
@@ -211,7 +213,7 @@ Jasnah had direct involvement in monitoring the [[Expedition to Akinah\|expediti
  
 ### In Emul
 >“*No. I want to know the real feeling of war, or as close to it as I can allow myself, in Plate with Blade.*”
-\-Jasnah to Ivory[63]
+\-Jasnah to Ivory[64]
 
 
 Jasnah went with [[Dalinar\|Dalinar]] on the military expedition into [[Emul\|Emul]], where she wanted to prove herself to be a good military leader and tactician. Highprince [[Ruthar\|Ruthar]] challenged her position, saying it was a disgrace to have a woman leading and making military decisions. Jasnah directed [[Wit\|Wit]] to insult him until Ruthar snapped and demanded a trial by combat. Acting according to Jasnah’s prearranged plan, Wit elected Jasnah as his champion to fight for him, letting her use his sword. Ruthar scoffed and said that fighting a woman would be demeaning, but Jasnah lunged forward and stabbed him through the throat. Jasnah had [[Renarin\|Renarin]] heal him, then pronounced that all Ruthar’s lands and titles are forfeit, and are now passed to his son, [[Relis\|Relis]]. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar.
@@ -221,7 +223,7 @@ During the military expedition in Emul, Jasnah and Wit worked on creating a docu
 ## Relationships
 ### Hoid
 >“*She found the way he spoke fascinating. After all this time - and all her worries - here was one who was her intellectual equal. Perhaps her * superior*.*”
-\-Jasnah[65]
+\-Jasnah[66]
 
 
 Sometime after Jasnah’s return from Shadesmar, she and [[Hoid\|Hoid]] grow close. Jasnah likes him because he is never bothered by her frequent questions, even if he dodges them sometimes. Jasnah cares more for mental stimulation than the physical, which makes interacting with Hoid invigorating to her.

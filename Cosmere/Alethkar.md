@@ -107,7 +107,7 @@ Prior to the [[True Desolation\|True Desolation]], the Alethi were engaged in th
 4. [[#Engagements and weddings]] 
 
 
-4. [[#Music]] 
+4. [[#Music and Art]] 
 4. [[#Fashion]] 
 
 4. [[#Masculine Fashion]] 
@@ -367,8 +367,8 @@ The conquest was ultimately successful, placing Rathalas under Kholin hegemony, 
 This battle was notable for laying the foundations of the Burning of Rathalas, and with the Kholin family obtaining the Shardblade Oathbringer.
 
 #### Conquest of Kalanor's Territory (1145)
-Gavilar and Kalanor were major enemies during the Unification War, with Kalanor acting as one of the major stonewalls in Gavilar's quest towards the complete unification of Alethkar. They have both been politically maneuvering around one another for two years before the start of the conquest. Gavilar believed that he needed to fall at all costs.
-In 1145, the Kholin army attacked myriad small cities in Kalanor's region in an attempt to undermine his authority and pull him out of hiding, provoking him into a large scale battle in which they could secure a decisive victory. This strategy was successful, leading to the two armies into a large-scale battle on a large, open plain. This was the largest battle the Kholin army engaged in during the Unification War, and ended in a decisive Kholin victory and the death of Kalanor.
+Highprince [[Kalanor\|Kalanor]], though he referred to himself as king Kalanor, rose to power sometime before 1143. Though the specifics of his rise to power aren’t known, it wasn’t peaceful. [[Kalanor\|Kalanor]] and Gavilar Kholin were major enemies during the Unification War, with Kalanor acting as one of the major stonewalls in Gavilar's quest towards the complete unification of Alethkar. They had both been politically maneuvering around one another for two years before the start of the conquest. Due to his power and influence, Gavilar believed that he needed to fall at all costs.
+In 1145, the Kholin army attacked myriad small cities in Kalanor's region in an attempt to undermine his authority and pull him out of hiding, provoking him into a large scale battle in which they could secure a decisive victory. This strategy was successful, leading to the two armies into a large-scale battle on a large, open plain. This was the largest battle the Kholin army engaged in during the Unification War, and ended in a decisive Kholin victory and the death of Kalanor at the hands of the [[Blackthorn\|Blackthorn]].
 Kalanor's shards were given to Gavilar by Dalinar, and Kalanor's territory was given to [[Loradar Vamah\|Loradar Vamah]], thus it was officially named the [[Vamah princedom\|Vamah princedom]]. This battle marked the official end of the Alethi war of unification, however battles and skirmishes would continue for decades afterward.
 
 #### Alethi-Herdazian Border Conflict (1150 - 1154)
@@ -484,12 +484,10 @@ Before a couple can be married they have to be engaged. A woman who is engaged t
 Alethkar has many traditions surrounding weddings. A traditional lighteyed Alethi wedding is very extravagant. Firstly, the bride and groom are put in different chambers, where they are prepared for the wedding. This preparation includes dressing and make-up, but they also receive gifts from the other women in their life, gifts can range from a rug to a box of incense and much more for women, while men receive mostly weapons. After that the ardents say their blessings, and pray for the couple. Afterwards the bride is left in a room to paint a last prayer and meditate, while it is unknown what the groom does, it is likely that he has a prayer painted for him, and also meditates. It is only after this that the actual wedding begins, the couple say their oaths and a large feast begins.
 Brides often wear clothing of an ancient style, with a graceful drape, drooping sleeves, a golden vest over one’s shoulder and an intricate headdress, known as the bridal crown, woven into their braids. Their dress is typically red, which symbolises luck.
 
-### Music
-Music is seen as a feminine art, and is thus primarily only pursued by women and ardents. Alethi music makes a heavy use of flutes and string instruments made of a fine wood, and tend to dislike percussion. Battle hymns make use of brass-like instruments.
-They make use of bows to play stringed instruments. Their flutes are played vertically, not horizontally.
-The Alethi may practice a sort of throat-singing. They are known to often sing various forms of Vorin hymns.
-Drums are popular amongst the lower-class, darkeyed population. Due to this, lighteyes typically associate drums exclusively with darkeyes, and therefore interpret them as base instruments.
-It is common for music to be played at lighteyed feasts.
+### Music and Art
+Music and the creation of art are seen as feminine arts, and is thus primarily only pursued by women and ardents. Alethi music makes a heavy use of flutes and string instruments made of a fine wood, and tend to dislike percussion. Battle hymns make use of brass-like instruments.
+They also make use of bows to play stringed instruments. Their flutes are played vertically, not horizontally. The Alethi may practice a sort of throat-singing. They are known to sing various forms of Vorin hymns. Drums are popular amongst the lower-class, darkeyed population. Due to this, lighteyes typically associate drums exclusively with darkeyes, and therefore interpret them as base instruments. It is common for music to be played at lighteyed feasts.
+Alethi women also practice painting and drawing. Artists often have large sketchbooks with them. A well known, and old, artistic style is surrealism. Hardly anyone bothers with it anymore, except some students
 
 ### Fashion
 Alethi fashion varies greatly between the lighteyes and darkeyes, enforced by the division between the castes. As of 1173, Alethkar was going through a trend of bright colors and ornate frills. They also have a tendency towards solid colours.
@@ -503,7 +501,7 @@ The Alethi, like any other culture, have specific views on when someone is hands
 
   The Vorin Havah
 #### Feminine Fashion
-The Vorin Havah is a very common form of clothing amongst Lighteyed women in Alethkar. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary. Alethi women also wear skirts and blouses.
+The Vorin Havah is a very common form of clothing amongst Lighteyed women in Alethkar. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary. Alethi women also wear skirts and blouses. Some southern Alethi wear their skirts and blouses after a certain Southern style, it is currently unknown what this style entails however.
 An ancient style of clothing, now only used in weddings, has a very loose fit, and drooping sleeves, as well as a graceful drape. Alethi women also wear a lot of make-up. The Monarch, and the people in his family, have access to the royal make-up artists. Havah often have elaborate embroidery, sometimes taking the form of multifarious designs, hatchings, and stylized glyphs. The colors on a piece of clothing also have meaning, on at least some occasions, and the color red stands for luck. Alethi consider a slender neck and a large mouth to be unattractive.
 Lighteyed women often have their hair woven in intricate braids, which are secured on top of their heads by four steel spikes. Their braids are either arranged in intricate patterns or in a loose pile. The hair-spikes pinning the braids together are considered to be traditional in Alethi culture. Some women deign to use different metals, such as gold, to construct these spikes; some even choose to wear a different number of spikes in their hair, such as six. Sometimes hair-spikes are designed to resemble Shardblades. Some women also have ribbons or intricate headdresses woven into their braids. These headdresses might only be for special occasions however.
 Darkeyed women tend to wear simpler clothing, such as blouses and skirts or trousers. They also tend to wear gloves on their safehand rather than large sleeves. This is done so that they are able to more easily perform household duties. Wearing a glove on the safehand in this manner is seen as immodest and an inherent sign of lower class, and therefore is not typically practiced by lighteyes. Some darkeyed women also cut their fingers out of the glove. It is common for prostitutes to dress with their safehand uncovered.
@@ -559,7 +557,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[192]
+\-Shallan[193]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -656,7 +654,7 @@ It is legal for a Highprince to murder a Wit, though doing so would lead to them
 
 ### Princedoms
   Alethi Princedoms
-Though it is ruled by a single king, Alethkar is divided into ten princedoms, each ruled by a [[Lighteyes\|lighteyed]] [[Highprince\|highprince]]. Each princedom is named after the family controlling it, and each has its own military, independent of one another - a remnant of the times prior to the reunification. While the highprinces do work together, the king has limited control over them, maintained less through tradition, and more through sheer military power and access to amenities like [[Soulcaster\|Soulcasters]], which are heavily taxed. In addition, the ruling [[House Kholin\|House Kholin]] controls the largest territory, as apart from their own princedom, they also hold an underpopulated stretch of land called the [[Eastern Crownlands\|Eastern Crownlands]].
+Though it is ruled by a single king, Alethkar is divided into ten princedoms, or highprincedoms as they are sometimes called, each ruled by a [[Lighteyes\|lighteyed]] [[Highprince\|highprince]]. Each princedom is named after the family controlling it, and each has its own military, independent of one another - a remnant of the times prior to the reunification. While the highprinces do work together, the king has limited control over them, maintained less through tradition, and more through sheer military power and access to amenities like [[Soulcaster\|Soulcasters]], which are heavily taxed. In addition, the ruling [[House Kholin\|House Kholin]] controls the largest territory, as apart from their own princedom, they also hold an underpopulated stretch of land called the [[Eastern Crownlands\|Eastern Crownlands]].
 Borders between Princedoms were largely, but not exclusively, defined by natural borders created by the Windrunner and Deathbend rivers, the Sunmaker mountains, and the Sea of Spears.
 It is unclear what princedom [[Akak\|Akak]] is a part of.
 
@@ -757,7 +755,7 @@ They retained political recognition by other states despite their exile.
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[161]
+\-Taravangian[160]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -886,7 +884,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficulty to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains a control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[206]
+\-Highmarshal Halad[207]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
@@ -895,7 +893,7 @@ Some warcamps have a building called a ‘warcenter’. This building, often mad
 
 ### Training
 The way soldiers are trained depends on the princedom they’re from. In at least some princedoms it is seen as the squadleader’s or sergeant’s task to train new recruits. In the [[Sadeas princedom\|Sadeas princedom]], squadleaders are given six weeks to train a new cohort of recruits. The Alethi are excellent soldiers, each individual is far better at single combat then any given Azish or Veden soldier. Besides their skill in combat, soldiers are usually trained in one or two additional skills, e.g. horse grooms. Soldiers are also trained to give a proper salute, which includes moving a hand to your breast.
-Soldiers are trained in a specific order. Firstly, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves.
+Soldiers are trained in a specific order. Firstly, men are trained to march properly.. Afterwards, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves.
 
 >“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
 \-a quotation from The Arguments[51]
