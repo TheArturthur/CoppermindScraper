@@ -98,7 +98,7 @@ Words of Radiance #1 NY Times best-seller
 For a full statistical analysis, see [[The Stormlight Archive/Statistical analysis\|/Statistical analysis]].
 The Stormlight Archive currently consists of four full novels and two novellas.
 
-|**Word Count**|1,792,008||
+|**Word Count**|1,789,876||
 |-|-|
 |**Page Count**|4,820|Tor hardbacks|
 |**Chapter Count**|476|Including prelude, 4 prologues, 49 interludes, and 4 epilogues.|
