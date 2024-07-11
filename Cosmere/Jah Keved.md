@@ -124,7 +124,7 @@
 ## Geography and Ecology
   Jah Keved on the world map
 Located in eastern Roshar, Jah Keved is the second largest state on the planet, claiming around 5,553,000 Km. It shares its eastern border with [[Alethkar\|Alethkar]] and [[Herdaz\|Herdaz]] on three rivers, while in the west, it is bordered by [[Tu Bayla\|Tu Bayla]] and [[Triax\|Triax]]. North to south, the country stretches across the entire continent, between the [[Reshi Sea\| Reshi]] and [[Tarat Sea\|Tarat]] Seas.
-Though verdant, Jah Keved doesn't possess many major rivers. The country's most notable geographical feature are the [[Horneater Peaks\|Horneater Peaks]] in the east, which form an important strategic barrier against the Alethi.
+Though verdant, Jah Keved doesn't possess many major rivers. The country's most notable geographical feature are the [[Horneater Peaks\|Horneater Peaks]] in the east, which form an important strategic barrier against the Alethi. The Horneater Peaks function as a barrier from clouds going east to west, and due to this, the land directly west of the Peaks barely gets any rain, with almost all of it coming from highstorms.
 
 #### Flora and Fauna
 Jah Keved contains a wide variety of animals and plants. Common species include [[Axehound\|axehounds]] and [[Chull\|chulls]], both of which are domesticated. There are also many species of [[Cremling\|cremlings]] and small [[Sarpenthyn\|sarpenthyn]]. There are even animals that are able to change colors. Aside from that, there is a relatively large number of horses in Jah Keved, although these are extremely expensive. Land with a high elevation is often overgrown, especially with vines, so much so that it is hard to walk without tripping. Going into a wooded area often requires a machete. There are also many rockbuds, a number of which have blossoms and vibrant green vines. The [[Jella\|jella]] tree is a common species, and [[Shalebark\|shalebark]] grows on nearly everything.
@@ -232,7 +232,7 @@ Despite this, the relationship between the nations is quite well. The nations ha
 
 ## Military
 >“* We talk of Jah Keved's weakness, but that’s relative. They still have a huge standing army, strong fortifications. If the enemy wades into Jah Keved now, while solidifying their own power, it will drain their resources and stall their conquest.*”
-\- Dalinar Kholin on the Veden military[48]
+\- Dalinar Kholin on the Veden military[49]
 
 
 For most of Jah Keved’s history each highprince maintained their own military. However, it appears that following Taravangian's crowning, the surviving units have all been folded under his command. The civil war was catastrophic for the Veden military - many units suffered over 50% casualties - yet even with those losses the Veden military boasts an enormous number of soldiers.
@@ -253,7 +253,7 @@ Jah Keved is composed of at least four distinct ethnic groups - Veden, [[Silnase
 
 #### Veden
 >“*While your food sits well in my stomach, the amount of bowing and scraping you show ardents made me uncomfortable.*”
-\-Kabsal on the people of Jah Keved[56]
+\-Kabsal on the people of Jah Keved[57]
 
 
 The Veden people are typically associated with pale skin and violet eyes. Although many Vedens, particularly in the south, look more like the Alethi people. These are generally tan with dark, typically black hair. Some Vedens are even darker skinned then the Alethi. Vedens are not a subtle people, brimming with passion and vice.

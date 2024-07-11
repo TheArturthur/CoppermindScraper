@@ -31,7 +31,7 @@ Rocks in the peaks are gray and darker in color than other rocks on Roshar, as t
 
 ### Climate
 The top of each mountain is collapsed inward, forming a crater, which is filled with a lake of warm water. The heat from each lake is enough to create a pocket of livable land, despite the altitude. The [[Unkalaki\|Unkalaki]] call these bodies of water "[[Horneater Oceans\|Oceans]]". The warmth of the Oceans is so great that it is often warmer on the peaks than it is on the rest of the continent. Their warmth only extends to a point, after which the mountains are covered by ice fields left by highstorms. [[Lunamor\|Lunamor]] refers to his homeland as a "place of extremes" due to the juxtaposition of ice and snow with heat and humidity.
-In the Unkalaki settlements, the air is noticeably thinner than it is at sea level; [[Rock\|Rock]] regularly refers to other Rosharan people as "airsick lowlanders".
+In the Unkalaki settlements, the air is noticeably thinner than it is at sea level; [[Rock\|Rock]] regularly refers to other Rosharan people as "airsick lowlanders". The Horneater Peaks function as a barrier from clouds going east to west, and due to this, the land directly west of the Peaks barely gets any rain, with almost all of it coming from highstorms.
 
 ### Flora
 Plants such as grass and fruit trees that would not normally be seen at high elevation are able to grow near the Oceans. The Unkalaki are able to cultivate crops, as they are known for their distinctive food and drink (such as "[[Horneater white\|Horneater white]]" alcohol).
@@ -41,7 +41,7 @@ Plants such as grass and fruit trees that would not normally be seen at high ele
 Geese can be found in the peaks; unlike other Rosharan languages, the Unkalaki language has unique words for different types of birds.
 
 ### Settlements
-The tops of the peaks have an unknown number of Unkalaki villages. The [[Jokasha Monastery\|Jokasha Monastery]] is located on the western slopes of the peaks.
+The tops of the peaks have an unknown number of Unkalaki villages. The [[Jokasha Monastery\|Jokasha Monastery]] is located on the western slopes of the peaks. The Horneater Peaks also contain a single spanreed message station, although it is often more then a week’s travel from a village.
 
 ### Notable Features
 For more information, see [[Horneater Oceans\|Horneater Oceans]].

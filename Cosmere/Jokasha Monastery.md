@@ -16,7 +16,7 @@
 
 
 ## Location
-The monastery is in [[Jah Keved\|Jah Keved]], on the western slopes of the [[Horneater Peaks\|Horneater Peaks]]. It lies in a forest and has protection from the violence of the [[Highstorm\|highstorms]]. The relatively weak storms make the area lush, but humid.
+The monastery is in [[Jah Keved\|Jah Keved]], on the western slopes of the [[Horneater Peaks\|Horneater Peaks]]. It lies in a forest and has protection from the violence of the [[Highstorm\|highstorms]]. The relatively weak storms make the area lush, but humid. Despite it's humidity, the western slope of the Horneater Peaks only receives rain at the passing of a highstorm.
 
 ## Structure
 The Jokasha Monastery is made up of a lower building and a higher building connected by a tree-lined pathway. The buildings are adjacent to the forest and ardents are free to study outside. The upper building contains a library attached to a long hallway open to the outdoors. There are open windows and reading desks to work at.
