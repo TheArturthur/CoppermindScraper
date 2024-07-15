@@ -61,7 +61,8 @@
 
 
 5 Culture. [[#Culture]] 
-6 Notes. [[#Notes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -204,6 +205,8 @@ Nale and [[Ulim\|Ulim]] are familiar with each other, and have interacted in the
 As a [[Herald\|Herald]], Nale is significant in a number of Rosharan cultures. In [[Vorinism\|Vorinism]], he's called **Nalan**, and is associated with the number 2 (or Nan), the [[Ten Essences\|Essence]] of Vapor, and the attributes Just and Confident. People often swear by Nalan's hand, or say "Nalan send..." to express hope. More crudely, an expression "Nale's nuts" is sometimes used. On the whole, however, he does not feature in [[Vorin\|Vorin]] sayings particularly often; certainly less so than [[Kalak\|Kalak]].
 In [[Shinovar\|Shinovar]], he's revered as **Nin-son-God**, and believed to be a founder of humanity. The [[Azish\|Azish]] know him as **Nakku the Judge**. He's also ascribed the title of the Illuminator, and is said to wield the [[Sword of Retribution\|Sword of Retribution]]. He is mentioned as having a hundred other names across the world, among them the Herald of Justice.
 
+## Trivia
+Nale's portrait used in the chapter arches is called the Judge by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
 
 
 https://coppermind.net/wiki/Nalan

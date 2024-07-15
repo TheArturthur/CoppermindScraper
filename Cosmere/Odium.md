@@ -173,7 +173,7 @@ On [[Threnody\|Threnody]], Odium's battle with [[Ambition\|Ambition]] had vast r
 On [[Roshar\|Roshar]], Odium's influence is felt most acutely through the numerous [[Desolation\|Desolations]] he caused, as well as the murder and subsequent splintering of [[Honor\|Honor]], which made the [[Stormfather\|Stormfather]] what he is today. He is known obliquely in the various religions of the world as the leader of the [[Voidspren\|voidspren]] and the force behind the [[Voidbringers\|Voidbringers]]. In the present, the [[Everstorm\|Everstorm]] and the [[True Desolation\|True Desolation]] are his doing.
 
 ## Trivia
-Odium is only of the only five characters who have spoken in small-caps, the other four are: [[Sylphrena\|Sylphrena]], [[Cultivation\|Cultivation]], [[Dalinar\|Dalinar]], and the [[Stormfather\|Stormfather]].
+Odium is one of the only five characters who have spoken in small-caps, the other four are: [[Sylphrena\|Sylphrena]], [[Cultivation\|Cultivation]], [[Dalinar\|Dalinar]], and the [[Stormfather\|Stormfather]].
 Odium's original name was Hatred; Brandon changed it because, in his words, it was "too on-the-nose", while the name Odium brought the Shard a step closer to Passion.
 The mere mention of the word Odium makes [[Syl\|Syl]] hiss.
 Odium is very scared of [[Harmony\|Harmony]].

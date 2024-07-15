@@ -30,7 +30,7 @@
 
 ## Appearance and Personality
 Little of the Sunmaker's personality is known. He is an ambitious man, constantly going above and beyond on tasks others thought impossible. He is a lover of battle and considers it to be a great game. There is a streak of cruelty to his conquests, with Sadees killing thousands to achieve his dream of a unified Roshar. He is insane and has a tendency to kill even ordinary citizens in his conquest, such as in the genocide he instituted against the Azish people.
-He has little tolerance for other cultures, claiming that the Azish were uncivilized since they did not use [[Lighteyes\|eye color]] as a basis for their social hierarchy.
+He has little tolerance for other cultures, claiming that the Azish were uncivilized since they did not use [[Lighteyes\|eye color]] as a basis for their social hierarchy. The Sunmaker famously used an entire company of horsemen, which were incredibly rare at the time, to crush his enemies.
 Nothing is known of the Sunmaker's physical appearance, beyond the fact that he refused to wear a crown. The man wielded a hooked [[Shardblade\|Shardblade]] known as [[Oathbringer (Shardblade)\| Oathbringer]].
 
 ## History
