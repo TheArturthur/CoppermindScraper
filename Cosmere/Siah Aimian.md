@@ -35,6 +35,7 @@ Axies refers to his bad luck that is a result of the "Curse of Kind", but it is 
 ### Humans
 At some point in history, Siah Aimians and humans created hybrid offspring, possibly reflected in the blue skin of the people of [[Natanatan\|Natanatan]] or the prominent blue veins of the women of [[Babatharnam\|Babatharnam]]. Human-Siah hybrids have shadows that are unusual in some way.
 Most cultures on Roshar remain aware of Siah Aimians through legends and limited interaction, but the reaction to them varies from curiosity and unease to outright disgust. Rysn believes that Aimians are bad luck, [[Kylrm\|Kylrm]] believes they bring curses onto people, and [[Nlent\|Nlent]] believes they can remove their limbs and skin because they are evil in human form.
+According to a report from [[Jasnah Kholin\|Jasnah Kholin]] to [[Vstim\|Vstim]], there are a few Aimians of the variety that Rysn saw moving among the people of Roshar.
 
 ### Sleepless
 The past and present relationship between the two races of Aimians is unclear. Both races are functionally immortal; although the timeline of Aimia is not well-defined, it is likely that most individuals coexisted on Aimia for many thousands of years before the scouring. A Sleepless named [[Arclo\|Arclo]] refers to his ability to imitate humans almost as well as a Siah and mentions Axies in a familiar manner. After the scouring, some of the Sleepless continue to protect secrets in the Aimian capital of [[Akinah\|Akinah]], but it is not known if Siah Aimians are involved.

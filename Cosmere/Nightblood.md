@@ -115,7 +115,7 @@ Vasher was in possession of Nightblood during the [[Pahn Kahl rebellion\|Pahn Ka
 
 ### Roshar
 >“*I think you did a great job, Szeth. You didn't destroy many of them, yes, but you just need some more practice!*”
-\-Nightblood after the Battle of Thaylen Field[73]
+\-Nightblood after the Battle of Thaylen Field[74]
 
 
 Some time later, Vasher traveled to Roshar but was eventually separated from Nightblood after some kind of falling out a few generations after the Pahn Khal Rebellion. Some time before this, Nightblood was brought to one or more planets other than Nalthis or Roshar, but when or to what planets is unknown.

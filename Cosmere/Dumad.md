@@ -13,7 +13,7 @@
 **Dumad** is a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]].
 
 ## Attributes and Abilities
-Dumad is a [[Hemalurgy\|Hemalurgist]] with at least four spikes, which grant [[Allomancy\|Allomantic]] [[Steel\|steel]] and [[Duralumin\|duralumin]]. Additionally, he possesses Allomantic [[Pewter\|pewter]], [[Chromium\|chromium]] and [[Bronze\|bronze]]. He is skilled in Allomantic steel, with [[Waxillium Ladrian\|Waxillium]] suspecting that he may be a natural Coinshot, as well as Allomantic bronze, being capable of detecting [[Feruchemy\|Feruchemy]].
+Dumad is a [[Hemalurgy\|Hemalurgist]] with at least four spikes, which grant [[Allomancy\|Allomantic]] [[Steel\|steel]] and [[Duralumin\|duralumin]]. Additionally, he possesses Allomantic [[Pewter\|pewter]], [[Chromium\|chromium]] and [[Bronze\|bronze]]. He is skilled in Allomantic steel with [[Waxillium Ladrian\|Waxillium]] suspecting that he may be a natural Coinshot. He is capable of detecting [[Feruchemy\|Feruchemy]] which suggests he is also highly skilled with Allomantic bronze.
 
 ## History
 Dumad habitually used [[Duralumin\|duralumin]]-enhanced Steelpushes, using the incredible strength added by burning duralumin to compensate for the relative newness of his powers, compared to Wax's skill acquired from a lifetime of use. Instead of metal vials traditionally used by other Allomancers, which could be affected by Coinshots and [[Lurcher\|Lurchers]], he replenished his metals after each usage of duralumin by drinking from an aluminum flask - which even Wax thought was a good idea.

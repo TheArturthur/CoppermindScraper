@@ -53,7 +53,7 @@ The **Unmade** are a group of nine ancient and twisted [[Spren\|spren]] on [[Ros
 \-The Sibling[14]
 
 
-The specific process of how [[Odium\|Odium]] created the Unmade is unknown, but they were Unmade by his hand.
+The specific process of how [[Odium\|Odium]] created the Unmade is unknown, but they were unmade by his hand.
 One process of unmaking is documented with [[Raboniel\|Raboniel's]] attempt to unmake the [[Sibling\|Sibling]]. While [[Investiture\|Invested]] with [[Voidlight\|Voidlight]], Raboniel placed her hands on the Sibling's pillar. The Sibling reacted by glowing with [[Towerlight\|Towerlight]]. The Voidlight moved from Raboniel into the pillar's embedded garnets, starting the process of corruption. If she had been able to continue, the Sibling says she would infuse the entire pillar with Voidlight in the proper order and utilize the [[/wiki/Surgebinding#Transformation]].
 The [[Sibling\|Sibling]] considers being unmade into something else as equivalent to death.
 [[Sja-anat\|Sja-anat]] believes Odium could unmake the Unmade again. This would steal their memories and rip them to pieces. She also fears he will unmake her children, both true spren and lesser spren, to the same effect.
