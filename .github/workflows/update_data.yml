@@ -32,3 +32,20 @@ jobs:
           git config --global user.email 'arturo.vidal.96@gmail.com'
           git commit -am "Recreated pages and nodes"
           git push
+
+      # - name: Execute scripts
+      #   working-directory: ./dist
+      #   run: |
+      #     git config --global user.name "github-actions"
+      #     git config --global user.email "github-actions@github.com"
+      #     git init
+      #     git add -A
+      #     git commit -m "deploy"
+          
+      - name: Force push to gh-pages branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          force: true
+          directory: ./NodeGraphCoppermind
