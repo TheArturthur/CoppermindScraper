@@ -4,6 +4,7 @@
 name: Publish GH Pages
 
 on:
+  workflow_dispatch:
   push:
     branches: [ "gh-pages" ]
 
