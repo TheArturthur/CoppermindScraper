@@ -11,13 +11,15 @@ on:
 jobs:
   build:
 
-    runs-on: ubuntu-latesT
+    runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - name: Use Node.js 
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v4
       with:
+        node-version: 20
         cache: 'npm'
-    # - run: npm ci
+        cache-dependency-path: './package-lock.json'
+    - run: npm ci
     - run: npm install --save gh-pages
     - run: npm run deploy
