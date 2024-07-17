@@ -1,4 +1,4 @@
-name: Update Obsidian pages
+name: Update Nodes for webpage
 
 on: 
   workflow_dispatch:
