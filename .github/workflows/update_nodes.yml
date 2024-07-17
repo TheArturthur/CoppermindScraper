@@ -1,0 +1,48 @@
+name: Update Obsidian pages
+
+on: 
+  workflow_dispatch:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Use Python 3.10
+        uses: actions/setup-python@v5.1.0
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run python to update Wiki Nodes
+        run: python WikiToNodes.py
+
+      - name: Push changed files to main
+        run: |
+          git config --global user.name 'Arturo Vidal'
+          git config --global user.email 'arturo.vidal.96@gmail.com'
+          git commit -am "Recreated pages and nodes"
+          git push
+
+      - name: Execute scripts
+        working-directory: ./NodeGraphCoppermind
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git init
+          git add -A
+          git commit -m "deploy"
+          
+      - name: Force push to gh-pages branch
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          force: true
+          directory: ./NodeGraphCoppermind
