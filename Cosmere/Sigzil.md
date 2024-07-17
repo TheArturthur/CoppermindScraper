@@ -4,7 +4,7 @@
 |-|-|
 ||
 |**Abilities**|[[Order of Windrunners\|Windrunner]] , [[Shardbearer\|Shardbearer]], [[Order of Skybreakers\|Skybreaker]] , [[Dawnshard\|Dawnshard]] , [[Worldhopper\|Worldhopper]]|
-|**Bonded With**|[[Auxiliary\|Auxiliary]], *Unnamed Honorspren* |
+|**Bonded With**|[[Auxiliary\|Auxiliary]], *Unnamed female Honorspren* |
 |**Titles**|Sunlit Man, Sess Nassith Tor|
 |**Aliases**|Nomad, Zellion, Sunlit, Sig|
 |**Groups**|[[Knights Radiant\|Knights Radiant]]  [[Bridge Four\|Bridge Four]], [[Worldsingers\|Worldsingers]], Sadeas army , Kholin army |
