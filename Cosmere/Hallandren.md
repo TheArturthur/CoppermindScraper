@@ -306,6 +306,7 @@ Priests control much of the trade in the city. Being wealthy individuals with no
 
 ### Currency
 Coins in Hallandren are called marks, with a smaller variety called bits. Five thousand marks is considered to be a fortune, while a single bit would not buy more than a mouthful of food.
+Hallandren coins, likely marks, look like small metal discs about an inch wide, coated with a colored enamel. One side is engraved with the picture of a divine figure in robes, likely a [[Returned\|Returned]], while the other side has that same figure in battle gear. Both sides have writing on them.
 
 ### Agriculture and Animal Husbandry
 Hallandren is an agricultural society, with slash and burn techniques. There are a number of Hallandren who clear these forests and then rent them to growers.
