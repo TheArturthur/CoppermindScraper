@@ -27,7 +27,7 @@ Babatharnam has an area of around 1,107,000 km.
 ## History
 During the [[Heraldic Epochs\|Heraldic Epochs]] Babatharnam was part of the [[Silver kingdoms\|Silver Kingdom]] [[Sela Tales\|Sela Tales]]. All the Silver Kingdoms had a specific purpose during peacetime, teaching the others their art during a desolation so the Babath, among others, were experts in an art. After Sela Tales collapsed Babatharnam was founded.
 Around the year 1120 The Monavakah dynasty was established and began assassinating rivals to stay in power. This caused a great deal of unrest in the country.
-During the initial months of the [[True Desolation\|True Desolation]], the Most Ancient of Babatharnam refused to cooperate with [[Dalinar Kholin\|Dalinar Kholin]]. The nation was conquered by [[Singer\|singer]] forces shortly after the defection of [[Iri\|Iri]].
+During the initial months of the [[True Desolation\|True Desolation]], the Most Ancient of Babatharnam refused to cooperate with [[Dalinar Kholin\|Dalinar Kholin]]. The nation was conquered by [[Singer\|singer]] and [[Iriali\|Iriali]] forces shortly after the defection of [[Iri\|Iri]].
 
 ## Politics
 Babatharnam is a gerontocracy, meaning the older one is, the more authority one has. Everyone has an opportunity to rule, if they live long enough. Anyone can become the **Most Ancient**--the Babath king.

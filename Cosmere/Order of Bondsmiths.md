@@ -40,7 +40,8 @@ The Bondsmiths are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] o
 
 5 Known Bondsmiths. [[#Known Bondsmiths]] 
 6 Quotes. [[#Quotes]] 
-7 Notes. [[#Notes]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Philosophy
@@ -169,6 +170,8 @@ Dalinar remained the only bonded Bondsmith for the following year. This changed 
 \-Words of Radiance, chapter 30, page 18[85]
 
 
+## Trivia
+Getting a 100% Bondsmith score on the  requires a set of answers detailed . The quiz also artificially lowers your odds of being a Bondsmith by multiplying your affinity value (which, ironically, gets higher as your affinity for the Order gets lower) by 1.3, but it's still possible to get a 100%.
 
 
 https://coppermind.net/wiki/Order_of_Bondsmiths

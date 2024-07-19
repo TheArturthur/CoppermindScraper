@@ -110,7 +110,7 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |[[Kaladin Stormblessed\|Kaladin Stormblessed]]|[[Windrunner\|Windrunner]]|Blue and emblazoned with the Bridge Four glyph.|Formed of windspren, which had been noted to gather around Kaladin prior to the Fourth Oath.||
 |[[Sigzil\|Zellion]]|[[Skybreaker\|Skybreaker]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
 |[[Sigzil\|Zellion]]|[[Windrunner\|Windrunner]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
-|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|-|-||
+|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|-|Formed of logicspren.||
 
 ### Dead Shardplates
 |**Shardbearer**|**Previous Holder**|**Order**|**Description**|**Notes**|**References**|
@@ -122,7 +122,7 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |[[Elhokar Kholin\|Elhokar Kholin]]|[[Kalanor\|Kalanor]]|*Unknown*|Currently painted gold, Kalanor decorated his plate with steel or silver leaf, giving it a silvery coloring.|Presumably looted by the singers in Urithiru.||
 |[[Relis Ruthar\|Relis Ruthar]]|[[Gallam\|Gallam]]|*Unknown*|Painted black.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
 |[[Jakamav\|Jakamav]]|-|*Unknown*|Painted green.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
-|[[Teleb\|Teleb]]|[[Eranniv\|Eranniv]]|"Unknown"|Erraniv kept his Plate slate grey, except for the breastplate, which he painted a deep black. This was presumably changed when Adolin won it.|Won by Adolin in a duel with Eranniv, then given to Teleb.||
+|[[Teleb\|Teleb]]|[[Eranniv\|Eranniv]]|*Unknown*|Erraniv kept his Plate slate grey, except for the breastplate, which he painted a deep black. This was presumably changed when Adolin won it.|Won by Adolin in a duel with Eranniv, then given to Teleb.||
 |[[Moash\|Moash]]|[[Abrobadar\|Abrobadar]]|*Unknown*|Originally painted orange. Moash repainted it blue, with red accents along the joints.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, then given to Kaladin, who refused and passed it to Moash. Moash in turn gave it up for his life to the singers.||
 |[[Eshonai\|Eshonai]]|[[Sharefel\|Sharefel]]|*Unknown*|Painted silver.|Recovered by the singers.||
 |[[Hrdalm\|Hrdalm]]|-|*Unknown*|Painted gloss black, with Thaylen eyebrows.|Named [[Cvaderln\|Cvaderln]]. It belongs to the kingdom Hrdalm serves.||

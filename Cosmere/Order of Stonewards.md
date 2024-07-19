@@ -33,7 +33,8 @@ The Stonewards were [[Surgebinder\|Surgebinders]] who used the [[Surge\|Surges]]
 4 History. [[#History]] 
 5 Notable Stonewards. [[#Notable Stonewards]] 
 6 Quotes. [[#Quotes]] 
-7 Notes. [[#Notes]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Philosophy
@@ -84,6 +85,8 @@ In battle, they served as the frontline troops. In times of peace, on the other 
 \-Oathbringer, Chapter 58, Epigraph[16]
 
 
+## Trivia
+Getting a 100% Stoneward score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Stonewards

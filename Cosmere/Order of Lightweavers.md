@@ -38,7 +38,8 @@ The Lightweavers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]]
 
 4 History. [[#History]] 
 5 Known Lightweavers. [[#Known Lightweavers]] 
-6 Notes. [[#Notes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## Philosophy
@@ -103,6 +104,8 @@ Lightweavers can be introspective, outgoing, or anything in between, but they ar
 [[Gaz\|Gaz]] (bonded to an unknown Cryptic)
 [[Red (Roshar)\|Red]] (bonded to an unknown Cryptic)
 [[Elhokar\|Elhokar]] (initiated a Nahel bond with [[Design\|Design]], but didn't finish saying the First Ideal)
+## Trivia
+Getting a 100% Lightweaver score on the .
 
 
 https://coppermind.net/wiki/Order_of_Lightweavers

@@ -281,6 +281,7 @@ Several religions exist in Post-Catecendric Scadrial.
 ### Post-Catacendric Era
 Throughout much of the Post-Catecendric era there was only one nation in the north, that being Elendel Basin. Though they essentially acted as several city-states held together by an economic hegemony in Elendel. In the south, there were five (or six) nations. Some of these are the Malwish, the Hunters, and the Fallen. The map of the Southern Continent also labels a group known as the [[/wiki/Southern Scadrian#The Maskless]] in the far southeast, it is not known if these are truly one nation, a conflation of multiple nations\tribes, or something else entirely.
 As of 348 PC there exists two primary nation states on Scadrial, the [[Malwish Consortium\|Malwish Consortium]] and the Elendel Basin. Though many people in the Roughs share sentiments for secession from the fragile union. There is also the Maskless, little is known about them, but they did not become a member of the Malwish Consortium.
+The [[TimeTellers\|TimeTellers]] were a group likely founded sometime after 348 PC. Their primary goal is to seek knowledge of the [[Cosmere\|Cosmere]]. Twine of them live in the [[Scadrian research facility\|Scadrian research facility]] on [[Canticle\|Canticle]].
 
 ### Invested Technology
 After the Catacendre the [[Southern Scadrians\|Southern Scadrians]] were saved by the [[Sovereign\|Sovereign]]. He granted them Unsealed Metalminds harnessing brass (heat). Afterwards the Southern Scadrians reverse engineered them and began developing all kinds of invested technology.

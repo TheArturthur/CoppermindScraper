@@ -33,7 +33,8 @@ The Truthwatchers are [[Surgebinder\|Surgebinders]] who used the [[Surge\|Surges
 4 History. [[#History]] 
 5 Notable Truthwatchers. [[#Notable Truthwatchers]] 
 6 Quotes. [[#Quotes]] 
-7 Notes. [[#Notes]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Philosophy
@@ -81,6 +82,8 @@ Modern Truthwatchers are few and far between, scattered around the world rather 
 >“*Now, as the Truthwatchers were esoteric in nature, their order being formed entirely of those who never spoke or wrote of what they did, in this lies frustration for those who would see their exceeding secrecy from the outside; they were not naturally inclined to explanation; and in the case of Corberon's disagreements, their silence was not a sign of exceeding abundance of disdain, but rather an exceeding abundance of tact.*”
 \-Words of Radiance, chapter 11, page 6[27]
 
+## Trivia
+Getting a 100% Windrunner score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Truthwatchers

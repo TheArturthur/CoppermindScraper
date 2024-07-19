@@ -41,8 +41,9 @@ The Windrunners are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] 
 
 5 Known Windrunners. [[#Known Windrunners]] 
 6 Quotes. [[#Quotes]] 
-7 Notes. [[#Notes]] 
-8 References. [[#References]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
+9 References. [[#References]] 
 
 
 ## Philosophy
@@ -142,6 +143,8 @@ A significant number of original [[Bridge Four\|Bridge Four]] and Bridge Thirtee
 \- Words of Radiance, chapter 28, page 3[2]
 
 
+## Trivia
+Getting a 100% Windrunner score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Windrunners

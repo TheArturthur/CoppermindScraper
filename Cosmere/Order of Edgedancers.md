@@ -88,6 +88,7 @@ The Edgedancers were generally the most religious of the Radiants.
 ## Trivia
 If he had joined the [[Knights Radiant\|Knights Radiant]], [[Wayne\|Wayne]] would most likely have been in the Order of Edgedancers. Most of the orders would look very strangely upon Wayne.
 If she had joined the [[Knights Radiant\|Knights Radiant]], [[Wan ShaiLu\|Wan ShaiLu]] would most likely have been in the Order of Edgedancers.
+Getting a 100% Edgedancer score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Edgedancers

@@ -106,7 +106,7 @@ While most planets have at most one Shard, [[Sel\|Sel]] and [[Scadrial\|Scadrial
 |[[Mercy\|Mercy]]|*Unknown*|*Unknown*|*Unknown*||
 |[[Valor\|Valor]]|*Unknown*|*Unknown*|*Unknown*||
 |[[Whimsy\|Whimsy]]|*Unknown*|*Unknown*|*Unknown*||
-|[[Virtuosity\|Virtuosity]]|*Unknown* |[[Komashi\|Komashi]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
+|[[Virtuosity\|Virtuosity]]|*Unknown*|[[Komashi\|Komashi]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
 |*Unknown*|*Unknown*|*Unknown*|*Unknown*|
 
 ### Hybrid Shards
