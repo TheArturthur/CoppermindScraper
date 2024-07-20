@@ -32,7 +32,7 @@
 
 
 ## Personality and Appearance
-General Khal has yellow eyes and stands with a straight back. He is bald and appears limber. Khal is a cautious man and has his doubts about the strength of the Alethi throne. As a veteran of combat, he has an understanding of how conflict and terrible situations can unite men. Also a seasoned commander, Khal is experienced in matters of war and advises Dalinar on a variety of other issues as well. General Khal's [[Dahn\|dahn]] is uncertain at present, but as a [[Shardbearer\|Shardbearer]] he is at least of the fourth dahn.
+General Khal has yellow eyes and stands with a straight back. He is bald and appears limber. Khal is a cautious man and has his doubts about the strength of the Alethi throne. As a veteran of combat, he has an understanding of how conflict and terrible situations can unite men. Also a seasoned commander, Khal is experienced in matters of war and advises Dalinar on a variety of other issues as well. As a general, Khal is of the third [[Dahn\|dahn]], which is the highest a man can achieve without being royalty or related to a highprince.
 
 ## Attributes and Abilities
 General Khal is one of the few Alethi to own both [[Shardplate\|Shardplate]] and a [[Shardblade\|Shardblade]]. As a full Shardbearer, Khal's effectiveness on the battlefield is unmatched by any common soldier, and when using his Shards, he is nigh-unstoppable in combat. While General Khal's skill with a Blade is unmentioned, he is likely a master, as he is chosen to lead the strike team that guards the highprinces during their meeting.

@@ -248,7 +248,7 @@ Buildings in the Western Dominance are distinguished by their fluid, organic sha
 
 ### Calendar
 While the true length of a year changed when the orbit of Scadrial was brought closer to the sun, the measurements and calendar used remained the same. However, the placement of the seasons changed.
-After the [[Catacendre\|Catacendre]], the residents of northern Scadrial use a 12 month calendar, with each of the months being named after a member of [[Kelsier's crew\|Kelsier's crew]]. Known months include Vinuarch (named after [[Vin\|Vin]]), Doxil (named after [[Dockson\|Dockson]]), Hammondar (named after [[Hammond\|Hammond]]), Cladence (named after [[Cladent\|Cladent]]), and Marewill (named after [[Mare\|Mare]]).
+After the [[Catacendre\|Catacendre]], the residents of northern Scadrial use a 12 month calendar, with each of the months being named after a member of [[Kelsier's crew\|Kelsier's crew]]. Known months include Vinuary (named after [[Vin\|Vin]]), Doxil (named after [[Dockson\|Dockson]]), Hammondar (named after [[Hammond\|Hammond]]), Cladence (named after [[Cladent\|Cladent]]), and Marewill (named after [[Mare\|Mare]]).
 There is a day known as Brassday and a day known as Steelday; these are most likely days of the week.
 There are two holidays known as Survivor's Day and Harmontide, implied to be Survivorist and Pathian holidays respectively.
 

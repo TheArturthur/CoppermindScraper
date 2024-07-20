@@ -83,8 +83,7 @@ Dalinar negotiated with Odium, setting the conditions of the Contest of Champion
 
 ## Military
 House Kholin has access to a large and powerful military, during the War of Reckoning and before the Battle of Narak, they were primarily stationed at the Kholin Warcamp at the Shattered Plains. After the battle and the start of the True Desolation, most moved into Urithiru. Furthermore, following the stationing at Urithiru, Dalinar Kholin, in his position of Highprince of War, took full control of the armies of the other highprinces, in order to prevent any additional squabbles, this increased the size of the army under House Kholin to around 100,000.
-With their military might, they were capable of taking over the disunified Alethi provinces, bringing them together into a single unified Alethkar over years of conquest.
-[[General Khal\|General Khal]] is the highest ranking general in the Kholin Army. Dalinar often trusts him to lead his armies when he cannot.
+With their military might, they were capable of taking over the disunified Alethi provinces, bringing them together into a single unified Alethkar over years of conquest. [[General Khal\|General Khal]] is the highest ranking general in the Kholin Army. Dalinar often trusts him to lead his armies when he cannot. During the Invasion of Urithiru at least 18 000 troops wore Kholin colors, though most of them were out in the field.
 
 ### King's Guard
 The King's Guard are made up of soldiers specifically tasked with the protection of the incumbent king of Alethkar. They are administered directly by Dalinar Kholin. Their current state is unknown.

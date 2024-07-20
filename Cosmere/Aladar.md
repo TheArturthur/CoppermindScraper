@@ -81,7 +81,7 @@ Because Dalinar's restored memories of his actions at [[Rathalas\|Rathalas]] wer
 ### Battle of Thaylen Field
 Aladar led the meeting of monarchs in Dalinar's absence on the day Dalinar was recovered enough to attend. They discussed plans preparing for battle at [[Jah Keved\|Jah Keved]] until Dalinar realized that [[Odium\|Odium's]] forces were instead going to attack [[Thaylen City\|Thaylen City]]. The next meeting took place in Thaylen City itself, and Aladar was present to hear the various information leaks, including the translation of the [[Eila Stele\|Eila Stele]], that sought to tear apart the coalition.
 When the [[Battle of Thaylen Field\|Battle of Thaylen Field]] commenced, Aladar was still at Urithiru. He was able to counter the invading force of singers along with Sebarial and Teft, the new [[Windrunner\|Windrunner]]. At the conclusion of the battle, he attended the conference that discussed tactics regarding the future.
-Following the Battle of Thaylen Field, Aladar tries to reinstate Dalinar's trust in him.
+Following the Battle of Thaylen Field, Aladar continues to reinforce Dalinar's trust in him.
 
 ### The Emuli campaign
 During Dalinar's campaign in [[Emul\|Emul]]. Aladar was assigned to oversee the withdrawal in Alethkar.

@@ -30,7 +30,7 @@ Khal is a dependable soldier. [[General Khal\|His father]] trusts him with his s
 
 ## Attributes and Abilities
 Halam is a trained soldier with considerable skill. He is present in most major engagements during the [[War of Reckoning\|War of Reckoning]] and the [[True Desolation\|True Desolation]] and comes out of them essentially unscathed. He's also a trained [[Shardbearer\|Shardbearer]], and though he does not have [[Shardplate\|Plate]] or a [[Shardblade\|Blade]] of his own, he is skilled in using his father's weapons. It's possible, however, that [[General Khal\|General Khal]] ends up bestowing his own Plate on him, as following the [[Battle of Narak\|Battle of Narak]] others refer to Halam as a Shardbearer, and he is seen wearing his father's Plate far more often than his father is.
-As his father's eldest son, Halam is the heir to the Khal lands, if they still exist.
+As his father's eldest son, Halam is the heir to the Khal lands, although they are likely conquered by Voidbringers.
 
 ## History
 Nothing is known of Halam Khal's early life except that he was born to [[General Khal\|General Khal]] and Brightness [[Teshav\|Teshav]]. Like many [[Alethi\|Alethi]] Brightlords, he joined the military, and by 1173 he reached the rank of captain. He was a member of the war party led by [[Dalinar Kholin\|Dalinar Kholin]] out onto the [[Shattered Plains\|Shattered Plains]] to fight the [[Parshendi\|Parshendi]]. He fought in the [[Battle of Narak\|Battle of Narak]] along with the less-skilled armies on [[Highprince\|Highprince]] [[Roion\|Roion's]] front. For this, his father lent him his own [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblade]].
