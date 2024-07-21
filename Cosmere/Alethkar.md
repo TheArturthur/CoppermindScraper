@@ -288,7 +288,7 @@ The Alethi also use a farming technique unknown to most other Rosharans. This te
 
 #### Fauna
 Alethkar also has a large variety of fauna. Large wild Fauna includes [[Whitespine\|Whitespines]], [[Chull\|Chulls]], [[Axehound\|axehounds]] and more. Alethkar is also home to multiple herds of [[Ryshadium\|Ryshadium]], which live mostly in the eastern part of the country. [[Diggerworm\|Diggerworms]] are also common in Alethkar, and much work goes into protecting crops from them. Another common species found across Alethkar is the [[Lurg\|lurg]], a small amphibian. Alethkar isn’t home to any [[Sarpenthyn\|sarpenthyn]], but [[Skyeel\|skyeels]] are common near the coast. Concentrationspren are rare in Alethkar.
-The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Domesticated fauna includes [[Lobberbeast\|lobberbeasts]], a large grazing animal; pigs, which are kept for meat, leather, and milk; [[Gumfrem\|gumfrems]], which are usually kept for their [[Gemheart\|gemhearts]]; and chulls, which are used as beasts of burden. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.
+The Alethi have also domesticated a wide range of animals. While most of them live as farmers, occasionally keeping animals alongside their plants, some Alethi also live as herdsmen. Over time, breeding projects yielded animals with larger and larger gemhearts. Domesticated fauna includes [[Lobberbeast\|lobberbeasts]], a large grazing animal; pigs, which are kept for meat, leather, and milk; [[Gumfrem\|gumfrems]], which are usually kept for their [[Gemheart\|gemhearts]]; and chulls, which are used as beasts of burden. Besides these large pastoral animals the Alethi also keep a number of animals as pets, such as [[Axehound\|axehounds]], some birds, and mink.
 
 ### Notable cities
 For a more complete list, see [[/wiki/Alethkar#Known Princedoms]].
@@ -463,7 +463,7 @@ The Alethi forces in Alethkar proper spent their time reconquering the nation, a
 At the Coalition’s behest, Highprince Aladar and some of his scribes helped to advise the Emuli on fortifying their remaining lands to ensure no further loss of territory. The following year had the war effort in Emul reach a stand still with multiple skirmishes and attacks by the [[Skybreakers\|Skybreakers]] against coalition forces. The position of the coalition later changed in 1175, when it was agreed unanimously to push into and defeat the singer forces in Emul. Many of the Coalition forces during this campaign were made up of Alethi, and the Queen, along with a single highprince, resided in Emul as well. Dalinar Kholin and Jasnah Kholin also chose a new Sadeas highprince during this time. Queen Jasnah participated in the war planning sessions, to the frustration of Highprince [[Ruthar\|Ruthar]]. At one particular session Ruthar snapped, insulting the Queen and challenging the [[Hoid\|Queen’s Wit]] to a trial by sword. The Wit appointed Jasnah as his champion, and after she defeated Ruthar, the highprince was stripped of all titles and lands, and his oldest son was made highprince. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar. The push into Emul was ultimately successful.
 
 >“*I’ve come by order of the Bondsmith, my father, to visit your lands and deliver a message on his behalf. I bring with me Knights Radiant of four different orders, all of whom work in concert against the rising Everstorm. Proof that men and spren once again need their bonds of old.*”
-\-Adolin's offer of alliance to the honorspren[136]
+\-Adolin's offer of alliance to the honorspren[137]
 
 Meanwhile, the Coalition, stunted by the lack of willing [[Honorspren\|honorspren]], sent a delegation to [[Lasting Integrity\|Lasting Integrity]], the honorspren capital. This delegation was made up of the new highprince Adolin Kholin, his wife and a number of Knight’s radiant. Their original plan, made by Queen Jasnah, was to present the honorspren with gifts, and give them written requests to begin relations again. Once arrived however, the honorspren of Lasting Integrity made it clear that they wanted nothing to do with the Coalition, destroying their correspondence and refusing to engage Kholin’s pleas and arguments. With all of his other plans having failed, Adolin surrendered himself into the custody of the honorspren, after giving them the opportunity to trial him for the [[Recreance\|Recreance]]. The Honorspren put Kholin on trial, and after a hard-fought and rocky trial, Kholin won after his Shardblade spren [[Mayalaran\|Mayalaran]] revealed the truth about the [[Recreance\|Recreance]].
 
@@ -473,7 +473,7 @@ After the liberation of Urithiru, [[Odium\|Odium]] appeared to Dalinar. He wishe
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[139]
+\-Lopen[140]
 
 
 ### People
@@ -505,7 +505,7 @@ The Alethi, like any other culture, have specific views on when someone is hands
   The Vorin Havah
 #### Feminine Fashion
 The Vorin Havah is a very common form of clothing amongst Lighteyed women in Alethkar. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt; fitting with Vorin ideals, these Havah have a long left sleeve, hiding their [[Safehand\|safehand]]. These sleeves often have a pouch to store belongings known as a safepouch. Havah are often made of brightly coloured silk, which is thin enough to allow women to easily grip objects with their safehand, when necessary. Alethi women also wear skirts and blouses. Some southern Alethi wear their skirts and blouses after a certain Southern style, it is currently unknown what this style entails however. Women also wear a particular type of hat during the Weeping, this hat is meant to deflect rain.
-An ancient style of clothing, now used mostly in weddings, has a very loose fit, and drooping sleeves, as well as a graceful drape. Some people still wear something similar to this outside of a wedding however, with a flowing dress and voluminous sleeves. Another very old style of clothing, worn during the desolations, features tubular gowns, which are made of layered small rings of cloth with tassels om the bottom, this gives the dress a rippling effect. Alethi women also wear a lot of make-up. The Monarch, and the people in his family, have access to the royal make-up artists. Havah often have elaborate embroidery, sometimes taking the form of multifarious designs, hatchings, and stylized glyphs. Havah of a newer style in 1174 are heavily embroidered along the sides. The colors on a piece of clothing also have meaning, on at least some occasions, and the color red stands for luck. Alethi consider a slender neck and a large mouth to be unattractive.
+An ancient style of clothing, now used mostly in weddings, has a very loose fit, and drooping sleeves, as well as a graceful drape. Some people still wear something similar to this outside of a wedding however, with a flowing dress and voluminous sleeves. Another very old style of clothing, worn during the desolations, features tubular gowns, which are made of layered small rings of cloth with tassels om the bottom, this gives the dress a rippling effect. Clothing worn to bed is usually formless and loose. Alethi women also wear a lot of make-up. The Monarch, and the people in his family, have access to the royal make-up artists. Havah often have elaborate embroidery, sometimes taking the form of multifarious designs, hatchings, and stylized glyphs. Some havah, those of a newer style, in 1174 are heavily embroidered along the sides. Generally, the more embroidery on someone's havah, the more important they are. The colors on a piece of clothing also have meaning, on at least some occasions, and the color red stands for luck. Alethi consider a slender neck and a large mouth to be unattractive.
 Lighteyed women often have their hair woven in intricate braids, which are secured on top of their heads by four steel spikes. Their braids are either arranged in intricate patterns or in a loose pile. The hair-spikes pinning the braids together are considered to be traditional in Alethi culture. Some women deign to use different metals, such as gold, to construct these spikes; some even choose to wear a different number of spikes in their hair, such as six. Sometimes hair-spikes are designed to resemble Shardblades. Some women also have ribbons or intricate headdresses woven into their braids. These headdresses might only be for special occasions however.
 Darkeyed women tend to wear simpler clothing, such as blouses and skirts or trousers. They also tend to wear gloves on their safehand rather than large sleeves. This is done so that they are able to more easily perform household duties. Wearing a glove on the safehand in this manner is seen as immodest and an inherent sign of lower class, and therefore is not typically practiced by lighteyes. Some darkeyed women also cut their fingers out of the glove. It is common for prostitutes to dress with their safehand uncovered. Though the majority of Alethi women wear Alethi clothing, some also choose to wear clothing of a different culture, such as [[Thaylenah\|Thaylen]].
 
@@ -559,7 +559,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[211]
+\-Shallan[214]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -620,7 +620,7 @@ A judge is present to moderate duels, and they have some special authority. Duel
 
 ## Politics
 >“*Dalinar had been around Alethi politicians so much that he found honesty an obscure thing, like a language he no longer spoke.*”
-\-Dalinar[64]
+\-Dalinar[65]
 
 
 ### Monarch
@@ -758,7 +758,7 @@ They retained political recognition by other states despite their exile.
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[176]
+\-Taravangian[177]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -854,7 +854,7 @@ The Alethi employ a wide range of tactics. One popular tactic that is often used
 The Alethi infantry is usually employed in large block like formations, these blocks can get very large, with some of them being five thousand men strong. These standard spearmen blocks engage enemies as much as to position them as to do harm. The Alethi infantry blocks are also extremely mobile, far more so then infantry blocks from other militaries. The Alethi infantry uses their shields, forming a canopy of sorts, to protect from arrows and throwing spears. In these spearmen blocks, the front row of soldiers rotates to the back every ten minutes. This means that for every minute you're fighting, you also have a minute to rest. For most of Alethi history, due to lack of horses, light infantry was used to harry enemy armies.
 
 >“*All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
-\-The Sunmaker, who shaped modern Alethi militarism[54]
+\-The Sunmaker, who shaped modern Alethi militarism[55]
 
 Cavalry has never played a large role in Alethi warfare, at least, until recent times. Warfare has started to include more and more cavalry. Cavalry has historically been used to fight shardbearers, and has more recently begun being used to break lines. Cavalry was used extensively during the [[War of Reckoning\|War of Reckoning]], mainly to break ‘Parshendi’ lines and establish a beachhead for the rest of the army to exploit.
 While the soldiers are trained to fight in formations, some battles, the ones fought between largely unprofessional armies, immediately start with a charge, the lines and formations disintegrating. These battles are extremely chaotic, the armies often mingle indistinguishably and squads split up to fight other small groups.
@@ -889,7 +889,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficulty to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains a control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[228]
+\-Highmarshal Halad[231]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
@@ -898,10 +898,10 @@ Some warcamps have a building called a ‘warcenter’. This building, often mad
 
 ### Training
 The way soldiers are trained depends on the princedom they’re from. In at least some princedoms it is seen as the squadleader’s or sergeant’s task to train new recruits. In the [[Sadeas princedom\|Sadeas princedom]], squadleaders are given six weeks to train a new cohort of recruits. The Alethi are excellent soldiers, each individual is far better at single combat then any given Azish or Veden soldier. Besides their skill in combat, soldiers are usually trained in one or two additional skills, e.g. horse grooms. Soldiers are also trained to give a proper salute, which includes moving a hand to your breast.
-Soldiers are trained in a specific order. Firstly, men are trained to march properly.. Afterwards, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves. Officers also learn a trick to discipline troops by way of conversation. They stay silent for a couple seconds, which makes the soldier nervous and begin explaining himself.
+Soldiers are trained in a specific order. Firstly, men are trained to march properly.. Afterwards, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking.{book ref|sa1|49}} Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves. It is considered to be necessary to know how to catch a spear, so you can yank someone off balance. However, this maneuver is also known to be almost impossible to execute on the battlefield  Officers also learn a trick to discipline troops by way of conversation. They stay silent for a couple seconds, which makes the soldier nervous and begin explaining himself.
 
 >“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
-\-a quotation from The Arguments[54]
+\-a quotation from The Arguments[55]
 
 #### Drills
 The Alethi have a large number of drills to practice certain formations, movements and fighting in general.
