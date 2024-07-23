@@ -1,5 +1,7 @@
 |**Vo**|
 |-|-|
+|**Spouse**|Wife|
+|**Children**|Child|
 |**Descendants**|[[Dedelin\|Dedelin]], [[Denth\|Denth]], [[Shashara\|Shashara]], [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Sisirinah\|Sisirinah]]|
 |**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|First Returned|

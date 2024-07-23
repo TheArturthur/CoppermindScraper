@@ -3,6 +3,8 @@
 |**[[Lunamor's family\|Lunamor's family]]**|
 |**Parents**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
 |**Siblings**|[[Gift\|Gift]] & [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Beautiful Song\|Beautiful Song]]|
+|**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
+|**Ancestors**|Grandfather, Grandmother|
 |**Residence**|[[Horneater Peaks\|The Horneater Peaks]]|
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

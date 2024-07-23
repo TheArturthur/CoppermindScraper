@@ -2,6 +2,7 @@
 |-|-|
 ||
 |**Parents**|[[Praxton\|Praxton]], [[Kenton's mother\|mother]]|
+|**Siblings**|Siblings|
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|[[/wiki/Taishin#The Lord Mastrell]]|
 |**Groups**|[[Diem\|Diem]], [[Taishin\|Taishin]]|

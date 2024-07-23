@@ -1,5 +1,6 @@
 |**Jest**|
 |-|-|
+|**Parents**|Father, Mother|
 |**Siblings**|[[Jost\|Jost]]|
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|

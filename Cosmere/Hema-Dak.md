@@ -1,5 +1,8 @@
 |**Hema-Dak**|
 |-|-|
+|**Family**|
+|**Children**|Children|
+|**Siblings**|Sister|
 |**Nationality**|[[Natan\|Natan]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

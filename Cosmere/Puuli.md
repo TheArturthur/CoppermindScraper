@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Family**|
-|**Relatives**|Puuli's grandfather|
+|**Ancestors**|Grandfather|
 |**Profession**|Lighthouse keeper|
 |**Ethnicity**|[[Natan\|Natan]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

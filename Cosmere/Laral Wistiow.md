@@ -3,6 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Roshone\|Roshone]]|
+|**Children**|Two children|
 |**Parents**|[[Wistiow\|Wistiow]]|
 |**Born**|1155|
 |**Residence**|[[Urithiru\|Urithiru]]|
@@ -12,7 +13,7 @@
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*The Origin is out there. This is the stormlands. Father says we're here to be a windbreak for more timid lands to the west.*”
-\-Laral to Kaladin[2]
+\-Laral to Kaladin[3]
 
 
 **Laral Roshone** is the citylady of [[Hearthstone\|Hearthstone]]. She is the daughter of former citylord [[Wistiow\|Wistiow]] and widow of former citylord [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
@@ -62,7 +63,7 @@ Laral is evacuated via The *[[Fourth Bridge\|Fourth Bridge]]* to Urithiru. Under
 ## Relationships
 ### Kaladin
 >“*Kal, if you go to war and find a Shardblade, then you'd be a lighteyes... I mean... Oh, this is useless.*”
-\-Laral to Kaladin[2]
+\-Laral to Kaladin[3]
 
 
 Laral and Kaladin are friends while growing up together in Hearthstone, though as they grow older, she becomes Kaladin's first crush. Kaladin's parents encourage him to play with her with the hope that one day they would marry. In the meantime, Laral herself encourages Kaladin to become a soldier and win a [[Shardblade\|Shardblade]] so that, as a lighteyes, he could be her equal in a marriage. When she moves on from him and becomes romantically involved with the Roshones, Kaladin has a difficult time accepting that she is doing so of her own choice.

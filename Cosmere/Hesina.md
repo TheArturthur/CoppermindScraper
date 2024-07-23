@@ -4,7 +4,9 @@
 |**Family**|
 |**Spouse**|[[Lirin\|Lirin]]|
 |**Children**|[[Kaladin\|Kaladin]], [[Tien\|Tien]], [[Oroden\|Oroden]]|
+|**Parents**|Parents|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
+|**Ancestors**|Grandfather|
 |**Born**|1133|
 |**Residence**|[[Hearthstone\|Hearthstone]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
@@ -52,7 +54,7 @@ Hesina is quick witted and sharp tongued. She is open minded and wishes for her 
 
 ### Beliefs
 >“*Spren appear when something changes—when fear appears, or when it begins to rain. They are the heart of change, and therefore the heart of all things.*”
-\-Hesina[11]
+\-Hesina[12]
 
 
 Hesina follows the [[Vorin\|Vorin]] religion and is more religious that her husband. She has faith in the power of [[Glyphward\|glyphwards]], often burning them for her family or giving them to her sons. She has a preference for simple and straightforward glyphs.

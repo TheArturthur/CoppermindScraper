@@ -1,5 +1,7 @@
 |**Yezriar**|
 |-|-|
+|**Family**|
+|**Parents**|Father|
 |**Died**|1140|
 |**Titles**|Crown prince|
 |**Nationality**|[[Alethi\|Alethi]]|

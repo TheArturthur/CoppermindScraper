@@ -4,10 +4,10 @@
 |**[[House Kholin\|House Kholin]]**|
 |**Spouse**|[[Navani\|Navani]]|
 |**Children**|[[Elhokar\|Elhokar]], [[Jasnah\|Jasnah]]|
-|**Parents**|[[Dalinar's father\|Dalinar's father]]|
+|**Parents**|[[Dalinar's father\|Dalinar's father]], Mother|
 |**Siblings**|[[Dalinar\|Dalinar]]|
 |**Relatives**|[[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Kaves\|Kaves]]|
-|**Ancestors**|[[Sadees\|Sadees]]|
+|**Ancestors**|[[Sadees\|Sadees]], Grandparents|
 |**Descendants**|[[Gavinor\|Gavinor]]|
 |**Died**|Tanat ? 1167, killed by Szeth|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
@@ -21,7 +21,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*My people need to be united, and I need an empire that won't simply turn to infighting once I am gone.*”
-\-Gavilar to Eshonai[3]
+\-Gavilar to Eshonai[5]
 
 
 **Gavilar Kholin** is the King of [[Alethkar\|Alethkar]], a nation on [[Roshar\|Roshar]], until his [[Assassination of Gavilar\|assassination]] by [[Szeth\|Szeth]] under the orders of the [[Parshendi\|Parshendi]]. He is the brother of [[Dalinar Kholin\|Dalinar Kholin]] and married to [[Navani Kholin\|Navani Kholin]], with whom he has two children, [[Elhokar\|Elhokar]] and [[Jasnah\|Jasnah]].
@@ -79,7 +79,7 @@
 ## Appearance and Personality
  
 >“*My husband was an excellent king, (...) but he didn't have a single scholarly finger on his left hand. (...) He was a man built after the classical masculine ideal.*”
-\-From Navani's biography of Gavilar[6]
+\-From Navani's biography of Gavilar[8]
 
 
 For more images, see [[Gavilar Kholin/Gallery\|/Gallery]].
@@ -114,7 +114,7 @@ Towards the end of the war, Gavilar started talking of the [[Alethi Codes of War
 
 ### Ruling Alethkar
 >“*He is exactly what we need ... Hard enough to lead a war; soft enough to be beloved during peace. He has foresight and wisdom.*”
-\-Sadeas on Gavilar[26]
+\-Sadeas on Gavilar[28]
 
 After winning the war, Gavilar took the throne as King of [[Alethkar\|Alethkar]]. Gavilar did prove to be a proficient leader; he made sure the vision was towards a unified kingdom, and politics were the main tool for doing so. He wanted to ensure Elhokar would be able to hold it together without need of "putting out fires."
 He was not soft, but approached things differently, using propaganda, talking to heirs of the highprinces on civic projects, censuring Dalinar and Sadeas on losing the Rift, and even the initial approach towards rebels, trying to scare them by fighting on the borders. Some highprinces considered this softness or weakness, yet he could be hard; some examples are his disappointment on knowing Dalinar had spared the heir of [[Tanalan\|Tanalan]] or the way he talked of attacking [[Herdaz\|Herdaz]] or [[Jah Keved\|Jah Keved]].
@@ -122,7 +122,7 @@ It was during this time that he was most committed to the Codes of War. He talke
 
 ### Gavilar and the Listeners (1165 - 1167)
 >“*We live without honor, for your gods once brought ours. Without them, we have no **power.** This world is trapped, Eshonai! Stuck in a dull, lifeless state of transition. Unite them. I need a threat. Only danger will unite them.*”
-\-Gavilar to Eshonai[3]
+\-Gavilar to Eshonai[5]
 
 
 In approximately 1165, Gavilar and Dalinar made an expedition to the south of the [[Shattered Plains\|Shattered Plains]] where they discovered the [[Listener\|listeners]], referred to by the humans as Parshendi. Dalinar, while scouting at a campsite, was the first to meet them. Although the other members of the expedition initially did not believe tales of intelligent parshmen, [[Eshonai\|Eshonai's]] group came to the camp the next day. At first they couldn't believe parshmen could live on their own, but they found that these parshmen were friendly, curious and learned the Alethi language quite easily. Gavilar's [[Stormwarden\|stormwardens]] began calling them Parshendi. Although Gavilar had never before been scholarly, he grew more and more fascinated by the Parshendi. Despite Dalinar's attempts to return to Alethkar, Gavilar wanted to stay on the Shattered Plains to learn more about the Parshendi. Gavilar's officers thought the Parshendi were savages, but Gavilar thought the Parshendi were "an enclave of memories. A window into the past."
@@ -135,7 +135,7 @@ The night of his assassination, Gavilar was attending a feast celebrating a trea
 At some point during the feast, Gavilar slipped into the hallway to speak privately with Amaram. It is not known what they discussed. His daughter, Jasnah, found them talking. He rebuked her for her contempt for the party and expressed an interest that she and Amaram become closer acquainted. When Amaram left, Gavilar refused to tell Jasnah what they were discussing and went back into the party.
 
 >“*Tell…tell my brother…he must find the most important words a man can say….*”
-\-Gavilar's last words[1]
+\-Gavilar's last words[3]
 
 When Gavilar learned that [[Szeth\|Szeth]] was in the palace to assassinate him, he put on his [[Shardplate\|shardplate]] and prepared to act as a bodyguard while Sadeas prepared to act as the fleeing king. Szeth initially fell for it, fighting him and leaving to pursue Sadeas after he temporarily incapacitates Gavilar. When Gavilar does not follow Szeth, however, Szeth realizes the ruse. He returns and continues fighting Gavilar. Gavilar's helm was shattered and his plate was damaged, but he managed to injure Szeth by punching his face. In order to finish the fight, Szeth lured Gavilar onto the balcony and broke it using [[Lashing\|lashings]].
 
@@ -145,7 +145,7 @@ At the end of his life, he believed he was being watched. Gavilar expected an at
 
 ### Legacy
 >“*Gavilar the Majestic, first king of Alethkar in the new Kholin Dynasty, thirty-second highprince of the Kholin princedom, heir of the Sunmaker and blessed of the Almighty. His accomplishments will be lauded by all, and his dominion extends to the hereafter.*”
-\-Spoken at Gavilar's holy interment[5]
+\-Spoken at Gavilar's holy interment[7]
 
 
 At Gavilar's holy interment, he was lauded by the presiding ardent. His body was Soulcast into a stone sculpture. At the interment, the Alethi highprinces swore the [[Vengeance Pact\|Vengeance Pact]] and would go on to fight the [[War of Reckoning\|War of Reckoning]] to avenge his death.
@@ -166,7 +166,7 @@ Elhokar himself remembered Gavilar as a perfect king he would never live up to, 
 
 #### Navani Kholin
 >“*You have no fame, accomplishment, or capacity of your own. Everything distinctive about you came from someone else.*”
-\-Gavilar to Navani[4]
+\-Gavilar to Navani[6]
 
 
 Although he and his wife Navani were once close and plotted the conquest of Alethkar together, when Navani spoke with passion on her spren research, Gavilar simply ignored her. Later in life as Gavilar developed larger goals, he stopped including Navani in his plans. He left her to handle the public-facing duties of the monarchy alone and repeatedly told her she is worthless, and was very dismissive of her passions and her intelligence.
@@ -179,7 +179,7 @@ Jasnah takes great interest in the changes near the end of his life.
 
 ### Sadees the Sunmaker
 >“*Hopefully my accomplishments won’t be as ephemeral as his.*”
-\-Gavilar to Toh in reference to the Sunmaker.[8]
+\-Gavilar to Toh in reference to the Sunmaker.[10]
 
 
 During his conquests and reign, Gavilar looked towards the [[Sunmaker\|Sunmaker]] for guidance. Although the Sunmaker is revered by most in Alethkar for creating a united empire, Gavilar had a more negative view of him. Gavilar blamed the destruction of the Sunmaker's empire on his greed and inability to be satisfied with what he conquered. He hoped that he'll be able to create a longer-lasting empire and overshadow the Sunmaker in the hearts and minds of the people.

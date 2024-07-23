@@ -3,6 +3,7 @@
 |**Family**|
 |**Spouse**|[[Tanalan's mother\|Wife]]|
 |**Children**|[[Tanalan\|Tanalan]]|
+|**Descendants**|Grandchildren|
 |**Died**|? 1141|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Residence**|[[Rathalas\|Rathalas]]|

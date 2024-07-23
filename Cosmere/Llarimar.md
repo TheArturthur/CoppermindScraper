@@ -3,6 +3,7 @@
 ||
 |**Family**|
 |**Children**|[[Tatara\|Tatara]]|
+|**Parents**|Father|
 |**Siblings**|[[Lightsong\|Lightsong]]|
 |**Aliases**|Scoot|
 |**Residence**|[[T'Telir\|T'Telir]]|
@@ -12,7 +13,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*You *are* a god. To me, at least. It doesn't matter how easily you can be killed, how much breath you have, or how you look. It has to do with who you are and what you mean*”
-\-Llarimar to Lightsong[1]
+\-Llarimar to Lightsong[2]
 
 
 **Llarimar** is the high priest of [[Lightsong\|Lightsong the Bold]] in [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
@@ -29,7 +30,7 @@
 
 ## Appearance and Personality
 >“*If you do nothing, then the problems are as much your fault as if you had instigated them.*”
-\-Llarimar to Lightsong, regarding involvement in politics[2]
+\-Llarimar to Lightsong, regarding involvement in politics[3]
 
 
 Llarimar is a tall, portly man with spectacles and a calm demeanor.
@@ -49,11 +50,11 @@ His interactions with other people are limited, but he is kind to Siri on the ra
 
 ## Quotes
 >“*You can't get drunk, your Grace.*”
-\-Llarimar to Lightsong[10]
+\-Llarimar to Lightsong[11]
 
 
 >“*You offer hope, Your Grace. A last, unlikely hope. Hope is part of faith—part of the knowledge that someday, one of your followers will receive a miracle.*”
-\-Llarimar to Lightsong[11]
+\-Llarimar to Lightsong[12]
 
 
 ## Trivia

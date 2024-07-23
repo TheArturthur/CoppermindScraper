@@ -2,6 +2,7 @@
 |-|-|
 ||
 |**Parents**|[[Ral-na\|Ral-na]]|
+|**Siblings**|Brother|
 |**Residence**|[[Relu-na\|Relu-na]]|
 |**Nationality**|[[Reshi\|Reshi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

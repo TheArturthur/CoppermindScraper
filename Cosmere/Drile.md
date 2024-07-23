@@ -3,6 +3,7 @@
 ||
 |**Family**|
 |**Parents**|[[Reenst Rile\|Reenst Rile]]|
+|**Siblings**|Sister|
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|Undermastrell, Diemfen , Mastrell |
 |**Groups**|[[Diem\|Diem]]|
@@ -64,7 +65,7 @@ Following the attack, he made his way to [[Kezare\|Kezare]] and tried to petitio
 Later, when Kenton arrived back at the Diem he found Drile distributing rooms in the Diem to his most loyal followers. Kenton confronted him, saying that he did not have the right to make a decision like this. Drile snarled that Kenton had no power over him, and used his sand to propel himself up to the mastrells' chambers. Kenton, to the astonishment of the watching crowd of sand masters, used his own sand to follow Drile. Kenton tried to kick Drile out of his father's chambers, Drile refused, and instead accused Kenton of betraying the Diem to the Kerztians. Drile pushed Kenton off the ledge, but Kenton used his sand to catch himself and come back up. He then attacked and overpowered Drile. He commanded Drile to stay out of his father's rooms, and to take off the golden mastrell's sash he had been wearing, threatening to report him to the Taishin if he disobeyed. The next day, he and a few of his followers returned to the Diem wearing black belts over their sashes.
 
 >“*What will we do? Where will we go? Who will protect us? I've made plans for us already. I have promises--promises of wealth and protection!*”
-\-Drile ranting in front of the Diem.[3]
+\-Drile ranting in front of the Diem.[4]
 
 When Kenton returned to the Diem from his trip to the deep sands, he found Drile ranting in front of the Diem about his plans to take the sand masters elsewhere and profit from their powers. Kenton commanded him to stop spreading his paranoia through the Diem, but Drile refused to obey him. Kenton challenged Drile to a duel in the dueling pit, to take place right after the Taishin make their final vote on the fate of the Diem. Drile accepted his challenge on condition that their fight would take place before the vote and not after, and Kenton agreed. Kenton explained his rationale to [[Aarik\|Aarik]], that even if he dies and Drile becomes Lord Mastrell, at which he would do a horrible job, other better leaders will follow after him, and even Drile will not be able to change the Diem's charter after Kenton changed it to give the Diem a more sustainable future.
 Drile came to taunt Kenton when he was showing [[Khriss\|Khriss]] the dueling pit where their fight was to take place, but Kenton brushes him off. Kenton, while traveling to [[Lraezare\|Lraezare]], tried [[Overmastery\|overmastering]] to increase the power of his mastery in order to increase his chances in his upcoming fight with Drile, and succeeds, becoming able to control five ribbons of sand, not just three.

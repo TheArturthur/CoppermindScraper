@@ -1,7 +1,7 @@
 |**Kef'ha**|
 |-|-|
 |**Family**|
-|**Relatives**|[[Lunamor\|Lunamor]]|
+|**Relatives**|[[Lunamor\|Lunamor]], [[Gift\|Gift]], [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
 |**Died**|Duel with [[Torol Sadeas\|Torol Sadeas]]|
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

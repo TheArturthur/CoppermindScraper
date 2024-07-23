@@ -3,8 +3,9 @@
 ||
 |**Family**|
 |**Spouse**|[[Demid\|Demid]]|
-|**Parents**|[[Jaxlim\|Jaxlim]]|
+|**Parents**|[[Jaxlim\|Jaxlim]], Father|
 |**Siblings**|[[Eshonai\|Eshonai]]|
+|**Ancestors**|Grandparents|
 |**Abilities**|[[Regal\|Forms of Power]], [[Order of Willshapers\|Willshaper]]|
 |**Bonded With**|[[Timbre\|Timbre]]|
 |**Titles**|The Last ListenerVoice of Lady LeshwiVoice of the Lady of Wishes Voice of Odium The TraitorThe Broken Sister|
@@ -17,7 +18,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I feel like a relic. Already I seem like a cast-off ruin from a nearly forgotten day.*”
-\-Venli[4]
+\-Venli[6]
 
 
 **Venli** is a [[Listener\|listener]] scholar in [[Narak\|Narak]] and [[Eshonai\|Eshonai's]] sister. During the [[True Desolation\|True Desolation]], she bonds with [[Timbre\|Timbre]] and becomes a [[Surgebinder\|Surgebinder]] of the [[Order of Willshapers\|Order of Willshapers]].
@@ -48,7 +49,7 @@
   <<Envoyform\|Envoyform>>
 For more images, see [[Venli/Gallery\|/Gallery]].
 >“*Why should I continue to obey your orders, spren? You should obey me.*”
-\-Venli to Ulim[5]
+\-Venli to Ulim[7]
 
 
 Venli is slender, with a thin face and red-and-white marbled skin. She wears her hair long, down to her waist, and ties it in three places. Her eyes are dark and glassy like all [[Singer\|singers]], though they appear violet in the right light. During the [[War of Reckoning\|War of Reckoning]], she utilizes nimbleform as a substitute for the undiscovered scholarform. She later changes into [[Stormform\|stormform]] for the [[Battle of Narak\|Battle of Narak]], making her bulkier and taller, and smiles often while wearing it. Following the battle, she transforms into [[Envoyform\|envoyform]]. In that form, she has visible breasts and is extremely tall, taller even than the [[Alethi\|Alethi]] humans.
@@ -58,7 +59,7 @@ Eshonai's death is a massive catalyst of change in her. Over time, Venli comes t
 ## Attributes and Abilities
   With her <<Spren\|spren>>
 >“*Venli's eyes always seemed to have an extra depth of secret knowledge to them.*”
-\-Eshonai[6]
+\-Eshonai[8]
 
 
 Venli is a highly skilled scholar and researcher; she has managed to create a functional writing system from scratch and has discovered, among others, the [[Nimbleform\|nimbleform]], as well as [[Stormform\|stormform]]. She can think on her feet and make snap decisions. She also has some ability as a craftswoman, having constructed and decorated the home where she and her family lived in [[Narak\|Narak]]. She doesn't, however, have much in the way of combat skills; though she mentions having used an axe before, it's unclear whether it was in battle, and she's unfamiliar with swords.
@@ -79,7 +80,7 @@ Eventually, Venli settled into the role of a scholar. After the listeners first 
   In <<Stormform\|stormform>>
 ### War of Reckoning
 >“*The daughter of traitors. Then a traitor to her own kind.*”
-\-Raboniel about Venli[3]
+\-Raboniel about Venli[5]
 
 
 On the day of the peace treaty with the [[Alethi\|Alethi]] and the [[Assassination of Gavilar\|Assassination of Gavilar]] Kholin, the Alethi king, Venli and another listener, [[Klade\|Klade]], were informed by the [[Herald\|Herald]] [[Nale\|Nale]] that Gavilar intended to betray the listeners; he directed her to purchase [[Szeth\|Szeth]], which led to the killing. Following that event, Venli and Ulim worked together on discovering new forms. Though she claimed to Eshonai that she was researching mediationform to treaty with humans, in reality, Venli sought to capture a [[Stormspren\|stormspren]] and unlock the associated [[Stormform\|stormform]].
@@ -88,7 +89,7 @@ Upon succeeding, Venli intended to test the form herself, and was angry when [[T
   Venli and <<Dalinar\|Dalinar>> in the latter's vision
 ### True Desolation
 >“*How long can you keep being two people, Venli? How long will you vacillate?*”
-\-Venli imagining what Eshonai would think of her[4]
+\-Venli imagining what Eshonai would think of her[6]
 
 
 After the [[Everstorm\|Everstorm]] was created, Venli, led by Ulim, sought to find her sister, gone missing during the battle. She was heartbroken upon finding Eshonai dead, and stunned when Ulim told her that he only sought the [[Shardplate\|Shardplate]] she'd been wearing at the moment of her death. The event somehow unlocked her ability to attune to the old, pre-stormform Rhythms. While stripping the Shardplate off Eshonai, Venli also spotted a strange [[Spren\|spren]] escaping from underneath the corpse.
@@ -107,7 +108,7 @@ While she was the Voice of Raboniel, Venli regularly reported to [[Leshwi\|Leshw
 After learning that [[Secretspren\|secretspren]] and [[Chaosspren\|chaosspren]] didn't work, she realized that she could practice her powers as a Willshaper without being caught, and did so in a secluded corner of the tower.
 
 >“*Don't make this harder than it already is. I'm not here to help the humans. I can barely help my own kind.*”
-\-Venli to Timbre[28]
+\-Venli to Timbre[29]
 
 After discovering that [[Rlain\|Rlain]] was still alive, she went to Raboniel to request his freedom. Before she could do so, though, [[Mraize\|Mraize]] entered the room with [[Lift\|Lift]] in a cage, giving her to Raboniel as a gift in exchange for access to the Oathgates. Venli, discomforted by this, left to fetch Rlain. On her way there, she attempted to swear the Second Ideal of the Willshapers, swearing to free those in bondage, but [[Cultivation\|Cultivation]] did not accept them. Upon further reflection, she realized that she couldn't truly swear such an Ideal after having just seen a human child in a cage.
 Upon hearing that [[Kaladin\|Kaladin]] was free and in the tower, she went to Leshwi to plead protection for [[Lirin\|Lirin]] and [[Hesina\|Hesina]], as both Venli and Leshwi knew that the [[Pursuer\|Pursuer]] wouldn't hesitate to use them in a bid to lure him into a fight. Leshwi granted this request, and Venli used this opportunity to bring Lirin to tend to the unconscious Radiants. While visiting them with Rlain, [[Dabbid\|Dabbid]] arrived, telling the four that Kaladin was asleep and wasn't waking up. Venli realized that Lift would likely be able to heal him, and used Cohesion to free her, hoping that the Fused would assume that a human Stoneward had survived. Instead of telling Rlain, Lirin, and Hesina that she was a Surgebinder, though, she claimed to have a Shardblade.

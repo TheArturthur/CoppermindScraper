@@ -1,6 +1,8 @@
 |**Fedren Aime**|
 |-|-|
-|**Family**|[[House Aime\|House Aime]]|
+|**[[House Aime\|House Aime]]**|
+|**Parents**|Father|
+|**Siblings**|Brother|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

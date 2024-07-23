@@ -2,6 +2,7 @@
 |-|-|
 ||
 |**[[House Yomen\|House Yomen]]**|
+|**Parents**|Parent|
 |**Descendants**|[[Joshin Yomen\|Joshin Yomen]]|
 |**Abilities**|[[/wiki/Atium#Allomantic Use]]|
 |**Titles**|King of [[Fadrex City\|Fadrex City]], [[/wiki/Preservers#Members]]|

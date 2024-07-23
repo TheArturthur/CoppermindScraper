@@ -1,5 +1,7 @@
 |**Miliv**|
 |-|-|
+|**Family**|
+|**Spouse**|Wife|
 |**Died**||
 |**Profession**|Head Steward|
 |**Residence**|[[Hearthstone\|Hearthstone]]|

@@ -1,8 +1,9 @@
 |**Molinar**|
 |-|-|
 |**Family**|
-|**Parents**|[[Wzmal\|Wzmal]]|
+|**Parents**|[[Wzmal\|Wzmal]], Mother|
 |**Siblings**|[[Kmakra\|Kmakra]]|
+|**Ancestors**|Grandmother|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

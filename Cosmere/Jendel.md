@@ -1,5 +1,7 @@
 |**Jendel**|
 |-|-|
+|**Family**|
+|**Children**|Sons|
 |**Died**|c. 319 [[Catacendre\|PC]]|
 |**Profession**|Laborer|
 |**Residence**|[[Elendel\|Elendel]]|

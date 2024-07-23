@@ -3,6 +3,9 @@
 ||
 |**Family**|
 |**Spouse**|[[Mardra\|Mardra]]|
+|**Children**|Two children|
+|**Parents**|Parents|
+|**Ancestors**|Grandfather|
 |**Abilities**|[[/wiki/Pewter#Allomantic Use]]|
 |**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army|
 |**Residence**|[[Luthadel\|Luthadel]]|
@@ -12,7 +15,7 @@
 |**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*Well then, I've got quite a number of philosophical puzzles you might enjoy. . . .*”
-\-Ham[1]
+\-Ham[2]
 
 
 **Hammond** is a [[Skaa\|skaa]] [[Pewter\|pewter]] [[Misting\|Misting]] (aka a [[Pewterarm\|Pewterarm]]) on [[Scadrial\|Scadrial]]. He is a member of [[Kelsier\|Kelsier's]] crew who helped organize the [[Skaa rebellion\|rebellion's army of skaa]].
@@ -56,13 +59,13 @@ As a General he might have been a bit of an anarchist at heart, but he could be 
 Ham grew up in the streets of Luthadel. Son of two skaa parents and a noble grandparent. When he grew up he ran general security for jobs, providing his crewleader with manpower and warriors, assuming such are necessary.
 
 >“*You know I’ll join your crew no matter what the job. This sounds crazy, but so do most of your plans. Just...just tell me. Are you serious about overthrowing the Lord Ruler?*”
-\-Ham to Kelsier and the crew on joining the skaa rebellion[2]
+\-Ham to Kelsier and the crew on joining the skaa rebellion[3]
 
 He joined Kelsier on his skaa rebellion, initially working for Yeden because of the promise of payment, including the Lord Ruler’s atium. His role was training the skaa army. He did so on secure caves away from Luthadel becoming General Hammond. He would leave the crew for months to train and inspect them, and made good progress with their skills.
 He was later replaced in the training camps by Yeden and sent back to Luthadel to work closer with Kelsier.
 
 >“*We may be friends, but when it comes to fighting, none of us would hesitate to kill the others.”*”
-\-Ham to Vin on the Garrison[5]
+\-Ham to Vin on the Garrison[6]
 
 He also trained [[Vin\|Vin]] in using Pewter. Through doing this he gained a friendship with Vin, who accompanied him when travelling to meet the Garrison in [[Luthadel\|Luthadel]] where they found that their army was exposed and they were marching to fight them. Ham was asked by the Garrison to join them, and Kelsier asked him to do so and be the inside guy, though Ham decided he would not betray them from the inside.
 After most the army was lost to the Garrison killing Yeden in battle and scattering the rest, the crew was ready to quit, but with the Lord Ruler executing random skaa in reprisal for the army creation, Kelsier rallied the team to push further and used the fact that the Garrison was out to strike directly into Luthadel.

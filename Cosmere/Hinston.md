@@ -1,7 +1,7 @@
 |**Hinston Ladrian**|
 |-|-|
 |**[[House Ladrian\|House Ladrian]]**|
-|**Parents**|[[Edwarn Ladrian\|Edwarn Ladrian]]|
+|**Parents**|[[Edwarn Ladrian\|Edwarn Ladrian]], Mother|
 |**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Breeze\|Breeze]], [[Allrianne\|Allrianne]]|
 |**Born**|317 [[Catacendre\|PC]]|
 |**Died**|Disease|

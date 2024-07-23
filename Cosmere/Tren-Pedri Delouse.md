@@ -1,5 +1,7 @@
 |**Tren-Pedri Delouse**|
 |-|-|
+|**Family**|
+|**Parents**|Father|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

@@ -4,6 +4,8 @@
 |**[[Lunamor's family\|Lunamor's family]]**|
 |**Spouse**|[[Tuaka\|Tuaka]]|
 |**Children**|[[Gift\|Gift]], [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]]|
+|**Parents**|Father, Mother|
+|**Siblings**|Brothers|
 |**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
 |**Abilities**|[[/wiki/Knights Radiant#Squires]] for [[Order of Windrunners\|Order of Windrunners]], [[Sighted\|Sighted]]|
 |**Titles**|Fal'ala'liki'nor|
@@ -18,7 +20,7 @@
 
 "Rock" redirects here. For the location on Lumar, see [[Diggen's Point\|Diggen's Point]].
 >“*Airsick lowlanders.*”
-\-Rock[2]
+\-Rock[4]
 
 
 **Numuhukumakiaki'aialunamor**, shortened to **Lunamor** or simply **Rock**, is an [[Unkalaki\|Unkalaki]] on [[Roshar\|Roshar]]. He was the fourth born son in his family and received combat training per Unkalaki customs; however, one of his brothers died, making him the third son and a craftsman instead of a warrior. He calls himself Rock because he doesn't believe others can pronounce his real name, which is actually a poem about a very special rock his father discovered the day before Rock's birth. The poem roughly translates to "I saw a beautiful wet stone that no one is paying attention to, but it was really cool because of the water pattern on it".
@@ -145,7 +147,7 @@ After Kaladin fought alongside Adolin in the duel for Shards and his subsequent 
 ### Urithiru
 #### Becoming a Windrunner Squire
 >“*We take to the skies, Stormblessed.*”
-\-Rock[4]
+\-Rock[2]
 
 
 After the [[Battle of Narak\|Battle of Narak]], the members of Bridge Four gained the ability to Invest Stormlight, with Teft noticing several bridgemen glowing and Lopen fully regrew his missing arm. Following Kaladin's departure to [[Hearthstone\|Hearthstone]], however, this ability was lost.

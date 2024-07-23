@@ -3,7 +3,7 @@
 ||
 |**[[House Venture\|House Venture]]**|
 |**Parents**|[[Straff\|Straff]]|
-|**Siblings**|[[Elend\|Elend]]|
+|**Siblings**|[[Elend\|Elend]], Multiple half-siblings|
 |**Died**|1023 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]], [[Hemalurgy\|Hemalurgist]]|
 |**Aliases**|The Watcher|
@@ -52,14 +52,14 @@ Zane visited Vin one last time to try and persuade Vin to leave with him, promis
 ## Relationships
 ### Vin
 >“*I thought, maybe, if you could fight and see just how powerful you were, you’d shake yourself free of Elend’s grip.*”
-\-Zane[12]
+\-Zane[13]
 
 
 Zane is intrigued by Vin from the start, as she is the only one the voice in his head doesn’t tell him to kill. This leads him to think that she's supposed to save him, although it was actually because Ruin didn't want to risk Zane actually listening to him and killing the [[Shard\|Shard's]] most instrumental pawn. He watches Vin from afar, and helps her slightly during a fight with a group of Allomancer assassins. Though they are on different sides of the conflict, Zane and Vin often duel in the mists together, engaging in chases and other games. Though they fight, they don’t actually try to kill each other. During these outings, Zane routinely tells Vin how she’s being used by Elend. When he tries to get Vin to run away with him, she refuses. Zane attacks her, seriously this time, and Vin kills him despite his atium.
 
 ### Straff
 >“*A man shouldn't kill his own father.*”
-\-Zane[16]
+\-Zane[17]
 
 
 Zane's relationship with his father is somewhat antagonistic. Although Zane completes missions that Straff sends him on, he also commonly cuts himself in front of the man to make him uncomfortable--but he also does it in order to block out Ruin's telling him to kill Straff, as he believes that a man shouldn't kill his father. Furthermore, he believes Ruin's voice to be an indicator of his own insanity, and therefore wouldn't trust himself to be in Straff's place. Despite this, he doesn't stop one of Straff's serving girls from attempting to poison the man, and he lets him assume that Zane poisoned him whenever Straff experiences the withdrawal symptoms of [[Black Frayn\|Black Frayn]].

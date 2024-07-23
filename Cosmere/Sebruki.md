@@ -1,8 +1,8 @@
 |**Sebruki**|
 |-|-|
 |**[[Forescout\|Forescout]]**|
-|**Parents**|[[Silence Montane\|Silence Montane]] |
-|**Siblings**|[[William Ann\|William Ann]] |
+|**Parents**|[[Silence Montane\|Silence Montane]], Mother, Father|
+|**Siblings**|[[William Ann\|William Ann]]|
 |**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*|

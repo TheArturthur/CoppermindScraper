@@ -3,7 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Mare\|Mare]]|
-|**Parents**|[[Kelsier's mother\|Mother]]|
+|**Parents**|[[Kelsier's mother\|Mother]], Father|
 |**Siblings**|[[Marsh\|Marsh]]|
 |**Born**|c. 984 [[Final Empire\|FE]]|
 |**Died**|1022 [[Final Empire\|FE]]|
@@ -72,7 +72,7 @@
  
 For more images, see [[Kelsier/Gallery\|/Gallery]].
 >“*They called you their god, and you were casual with their faith! The hearts of men are NOT YOUR TOYS.*”
-\-Preservation to Kelsier[8]
+\-Preservation to Kelsier[9]
 
 
 Kelsier is tall and hawk-faced and has light-blonde hair and hazel eyes; he has a multitude of scars crossing both arms from his time in the [[Pits of Hathsin\|Pits of Hathsin]]. He usually wears a nobleman's suit (a colored vest with dark trousers and a coat), and during the night he wears his [[Mistcloak\|mistcloak]].
@@ -120,7 +120,7 @@ In the following months, Kelsier himself took on many roles to further the plan,
   Fighting Inquisitors
 ### Death
 >“*But you can't kill me, Lord Tyrant. I represent that one thing you've never been able to kill, no matter how hard you try. I am hope.*”
-\-Kelsier to the Lord Ruler, last words before death[2]
+\-Kelsier to the Lord Ruler, last words before death[3]
 
 
 When several skaa from the rebellion were about to be executed, Kelsier attempts to save them. He is confronted by a Steel Inquisitor, which he eventually manages to defeat by beheading him with the Inquisitor's own obsidian axe. However, Kelsier is then confronted by the Lord Ruler, who backhands him across the face and then stabs him in the chest with a spear, killing him. Kelsier later reveals in his letter to Vin that he had intended to use the Eleventh Metal to destroy the Lord Ruler but could not discover how to use it in his fight. After his death, [[OreSeur\|OreSeur]] takes his bones and appears before several groups of skaa, making them believe that Kelsier survived somehow. This results in the skaa considering him a god, leading to the founding of the Church of the Survivor, which refers to Kelsier as "Lord of the Mists". Vin also became a major religious figure in the wake of his death, as the Survivorists consider her Kelsier's heir. [[TenSoon\|TenSoon]] learned the location of his bones from OreSeur, and used them to convince the people of Luthadel to hide in the caverns after King [[Ferson Penrod\|Penrod]] was corrupted by Ruin.
@@ -134,7 +134,7 @@ During his journey to find the Ire, he runs into Ruin and has a discussion about
 When he returned to Scadrial he found that Preservation's power was significantly weakened. He also ran into Vin and was shocked to see how far she had come in the time he was away. He stayed with her for a while after that but ultimately had to leave.
 
 >“*From the Well of Ascension, of course. It's the same power, after all. Solid in the metal you fed to Elend. The liquid in the pool you burned. And vapor in the air, confined to night. Hiding you. Protecting you.Giving you power!*”
-\-Kelsier speaks to Vin before she Ascends.[52][19]
+\-Kelsier speaks to Vin before she Ascends.[52][20]
 
 When Leras died and Ruin began to [[Splinter\|Splinter]] the Shard of Preservation, Kelsier used the [[Ire's orb\|Ire's orb]] to Connect with Preservation and Ascend, allowing him to protect the power and hold it until Vin could take it. Despite Preservation not usually being able to speak into the minds of other, due to some combination of [[Spook\|Spook]] being near death, having a broken soul, and believing Kelsier was a god, he was able to talk to Spook. He used this opportunity to tell Spook to send a message to Vin, warning her that any spiked person could potentially be under Ruin's control. Secretly, however, he knew that Ruin would send Marsh to intercept the message, and was hoping that reading the message would give Marsh the information he needed to remove [[Vin's earring\|Vin's earring]], which was also a Hemalurgic spike that was keeping her from taking up Preservation's power. When Marsh caught Vin in [[Luthadel\|Luthadel]], he attacked Ruin with Preservation's power, weakening Ruin's control over Marsh just enough for Marsh to rip out Vin's earring. With the spike removed, Kelsier encouraged her to take up the power, relinquishing it so that she can do so. After she and Elend are killed, Kelsier spoke with them before they moved on to the Beyond.
 After Sazed's Ascension and Spook's rise to political power, Kelsier began to speak with Spook about finding a way to bring himself back to the Physical Realm. As a Cognitive Shadow tied to Scadrial, it is difficult for him to travel to other planets via Shadesmar. He does not yet know the secret to overcome this limitation. His bones survived the Ascension of [[Harmony\|Harmony]], and may have helped him regain physical form.
@@ -186,7 +186,7 @@ Marsh is aware of Kelsier’s current activities as a [[Cognitive Shadow\|Cognit
 
 ### Vin
 >“*I don't want to be responsible for something happening to you, Vin. Not again.*”
-\-Kelsier[7]
+\-Kelsier[8]
 
 
 Kelsier is Vin’s mentor and teaches her to use her Allomantic abilities. Though [[Vin\|Vin]] initially is wary and suspicious of him, she eventually learns to trust him, and he becomes somewhat of a father figure to her. He tries to teach Vin to smile and occasionally look on the bright side of things. They go on several outings together, including fighting [[Inquisitors\|Inquisitors]]; this leads to Vin almost dying, however, and that leads Kelsier to change how he runs the crew. Though he is killed by the Lord Ruler, he watches over Vin as a Cognitive Shadow. He feels guilty for abandoning her but does his best to help her. He eventually plays an important role in freeing her from Ruin’s influence.
@@ -197,7 +197,7 @@ Seeing his powers, Gemmel wondered what he unleashed upon the world in teaching 
 
 ### Hoid
 >“* Deal with your own stupid planet, you idiot. Don't make me come over there and slap you around again.*”
-\- Hoid to Kelsier through Shallan[3]
+\- Hoid to Kelsier through Shallan[4]
 
 
 He and Hoid have a very antagonistic relationship one with one another, stretching back to when they first met and got into a violent fight. Merely interacting with Hoid for a brief amount of time was enough to send Kelsier into a murderous rage.
@@ -217,7 +217,7 @@ Ati manipulated Kelsier for many years, grooming him in order to bring about his
 
 ### Leras
 >“*They called you their god, and you were casual with their faith! The hearts of men are NOT YOUR TOYS.*”
-\-Leras to Kelsier[8]
+\-Leras to Kelsier[9]
 
 
 Kelsier at first hated Leras for claiming to be God, enough to instantly punch him. For a period, he did not fully respect or believe Leras's divinity, but over time he came to respect him more. He nicknamed him Fuzz, due to his unraveled appearance.

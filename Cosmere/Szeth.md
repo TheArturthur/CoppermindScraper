@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|[[Neturo\|Neturo]]|
+|**Parents**|[[Neturo\|Neturo]], Mother|
 |**Siblings**|Sister|
 |**Ancestors**|Vallano|
 |**Born**|1138|
@@ -22,7 +22,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I was Truthless. I simply followed orders. Tell me. Do you think that absolves a man?*”
-\-Szeth to Taravangian[3]
+\-Szeth to Taravangian[4]
 
 
 **Szeth-son-Honor**, formerly **Szeth-son-son-Vallano** or **Szeth-son-Neturo**, [[Truthless\|Truthless]] of [[Shinovar\|Shinovar]], is a [[Shin\|Shin]] man from [[Roshar\|Roshar]]. He is the infamous **Assassin in White** and is responsible for the death of [[Gavilar Kholin\|Gavilar Kholin]], which starts the [[War of Reckoning\|War of Reckoning]]. As the Assassin, he wields [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]]; eventually, he loses it and is gifted [[Nightblood\|Nightblood]].
@@ -99,7 +99,7 @@ As the Assassin, Szeth always wears white. While this originally stemmed from [[
 
 ### Personality
 >“*I am not good at being a person. It is … a failing of mine.*”
-\-Szeth[14]
+\-Szeth[15]
 
 
 Szeth is bound unwaveringly to honor, and loyal to the extent that he will do anything asked by his master, including self-mutilation. However, as a Truthless he's forbidden to take his own life or to give up his Blade. While accomplished at assassination, he's not a willing killer, always facing inner turmoil when taking a life. He hears the screams of his victims when he closes his eyes; his self-loathing eventually sends him spiraling into madness. His resurrection did nothing to help him; he continues to hear the whispers of those he'd killed, which [[Nale\|Nale]] believes to be trembles from the [[Spiritual Realm\|Spiritual Realm]], serving as a constant reminder of his crimes.
@@ -113,7 +113,7 @@ Szeth is an exceptionally skilled combatant; when ordered to fight, he becomes a
   Drawing <<Nightblood\|Nightblood>>
 ### Surgebinding
 >“*Szeth of the Skybreakers had, fortunately, trained with all ten Surges.*”
-\-Szeth[14]
+\-Szeth[15]
 
 
 Szeth knows how to use all of the [[Surge\|Surges]], having practiced them with the Shin's eight [[Honorblade\|Honorblades]]. As his family was given to the Honorblades, he was the bearer of [[Jezrien\|Jezrien's]] Honorblade. It grants him the powers of a [[Windrunner\|Windrunner]] and thus the Surges of [[Gravitation\|Gravitation]] and [[Adhesion\|Adhesion]]. Over the years, he has become a master of it, easily controlling all three [[Lashing\|Lashings]]. However, he is unaccustomed to fighting other Windrunners, leveling the playing field somewhat when his opponent can also take to the skies.
@@ -128,7 +128,7 @@ Unlike Shardblades, Nightblood is capable of erasing [[Fused\|Fused]] from exist
 ## History
 ### Early Life (1138 - 1166)
 >“*I knew a voice like yours once, sword-nimi. ... A single one, in my mind, when I was young. I hope things go better this time.*”
-\-Szeth to Nightblood[23]
+\-Szeth to Nightblood[24]
 
 
 Szeth was born in the year 1138 in the [[Valley of Truth\|Valley of Truth]] in Shinovar to [[Neturo-son-Vallano\|Neturo-son-Vallano]] and an unknown mother.
@@ -138,7 +138,7 @@ After being made a slave and given an Oathstone, Szeth was traded to the Thaylen
 ### Assassin in White (1166 - 1173)
   Facing off against <<Gavilar Kholin\|Gavilar Kholin>>
 >“*I am Truthless. I do as my master requires and I require no explanation.*”
-\-Szeth, regarding his oath.[29]
+\-Szeth, regarding his oath.[30]
 
 #### Killing King Gavilar
 For more information, see [[Assassination of Gavilar\|Assassination of Gavilar]].
@@ -161,7 +161,7 @@ After his confrontation with Kaladin, Szeth retreated to the top of Urithiru, sh
 
 #### Death and Resurrection
 >“*What I am owed will come to me eventually! Every bit of it. I will drown in it, stonewalker!*”
-\-Szeth to Dalinar[18]
+\-Szeth to Dalinar[19]
 
 
 Szeth attacked Dalinar during the climax of the [[Battle of Narak\|Battle of Narak]] on Ishishach 1173. Dalinar was able to temporarily hold his own before being lashed to the sky, to eventually fall to his death after the Stormlight sustaining the lashing ran out. However, before that could happen, Kaladin, having recently sworn the Third Ideal of the Windrunners, swooped in and caught him, then safely returned him to the ground. Kaladin and Szeth then battled above the colliding [[Highstorm\|highstorm]] and [[Everstorm\|Everstorm]]. During the battle Szeth came to the realization that Kaladin was truly a Radiant, and so Szeth himself was never Truthless. Unable to accept his actions, Szeth unbonded his Honorblade and fell through the highstorm to his death.
@@ -179,7 +179,7 @@ After swearing the First Ideal, Szeth was taken to the [[Purelake\|Purelake]] al
 He was able to find and fight one. He found that the convict had a knife, but was thin, dirty and emaciated. Upon questioning him, Szeth also learned that the prison fort had only one guard. Once back, he saw other convicts, confirming that they had all been poorly fed and under a strict regime, leading him to the realization that the prison itself was improperly run. When he confirmed with Ki that the prison administrator was also on the list of the guilty, Szeth drew Nightblood and killed the man. This allowed him to swear the Second Ideal, letting him draw Stormlight. Impressed, Ki chose him as her squire.
 
 >“*I swear to seek justice, to let it guide me, until I find a more perfect Ideal.*”
-\-The Second Ideal of the Skybreakers, as sworn by Szeth[23]
+\-The Second Ideal of the Skybreakers, as sworn by Szeth[24]
 
 
 #### Learning the Truth
@@ -198,11 +198,11 @@ Together, the two managed to trick the Fused carrying it into letting it go and 
 After the battle, Szeth met with Nale, who warned him about following a man instead of a law, but supported the decision overall. The Herald made to depart, promising to return later and teach Szeth about the Surge of Division. Before he left, Szeth swore his Third Oath. He also made it clear that for his Fourth, the Ideal of Crusade, he intended to travel to [[Shinovar\|Shinovar]] and cleanse it of the false leaders who made him the Truthless in the first place.
 
 >“*I swear to follow the will of Dalinar Kholin. This is my oath.*”
-\-The Third Ideal of the Skybreakers, as sworn by Szeth[6]
+\-The Third Ideal of the Skybreakers, as sworn by Szeth[7]
 
 
 >“*I will cleanse the Shin of their false leaders, so long as Dalinar Kholin agrees.*”
-\-The Fourth Ideal of the Skybreakers, as sworn by Szeth[6]
+\-The Fourth Ideal of the Skybreakers, as sworn by Szeth[7]
 
 
 Afterwards, Szeth became Dalinar’s bodyguard, despite the apprehension of other Alethi.
@@ -212,7 +212,7 @@ Szeth only served as Dalinar's bodyguard for a short time, due to his unstable n
 
 #### Guarding Dalinar on the Emuli Front
 >“*I decide now. I **finally** decide. Me. No one else compelling me. Taravangian, know that in killing you, I make it **my choice**.*”
-\-Szeth, immediately before attempting to kill Taravangian[3]
+\-Szeth, immediately before attempting to kill Taravangian[4]
 
 When Dalinar went to Emul, Szeth and Nightblood accompanied him, wearing Lightwoven disguises. He accompanied Dalinar on and off the battlefield, with the exception of when Dalinar went to speak with [[Renarin Kholin\|Renarin]].
 
@@ -226,7 +226,7 @@ He intended to next travel to Shinovar to complete his Fourth Ideal.
 ## Relationships
 ### Dalinar Kholin
 >“*I swear to follow the will of Dalinar Kholin. This is my oath.*”
-\-The Third Ideal of the Skybreakers, as sworn by Szeth[6]
+\-The Third Ideal of the Skybreakers, as sworn by Szeth[7]
 
 
 At first, Dalinar was nothing but a target to him, as Taravangian ordered him to assassinate him.
@@ -234,7 +234,7 @@ Since the Battle of Thaylen Field, he has completely devoted himself to followin
 
 ### Nale
 >“*I watched you destroy yourself in the name of order, watched you obey your personal code when others would have fled or crumbled. Szeth-son-Neturo, I watched you keep your word with perfection. This is a thing lost to most people--it is the only genuine beauty in the world. I doubt I have ever found a man more worthy of the Skybreakers than you.*”
-\-Nale to Szeth[5]
+\-Nale to Szeth[6]
 
 
 Nale was his master during his time in the Order of Skybreakers, and was the man who resurrected him and gave him Nightblood after he died in the Battle of Narak. At first, he was outraged at Nale for bringing him back to life after he intentionally let himself die. During his time following him, he continuously tried to convince him of the coming of the True Desolation, but was unable to get it through to him. He respected him enough that even upon Nightblood's urging that he was evil and must be killed, he refused to draw his blade on him. He followed him due to the fact that he thought that he had too, but began questioning it after Nale declared his intentions to join on the side of the Fused. Questioning his loyalty, he turned to Nightblood again, who convinced him he always had a choice; this led him to swearing loyalty to Dalinar Kholin, turning against his previous master.
@@ -249,7 +249,7 @@ While separated for close to a decade, he still loved him, and was deeply shaken
 
 ### Nightblood
 >“*I'm sure you can spot [evil]. You seem smart. If increasingly kind of boring.*”
-\-Nightblood to Szeth[23]
+\-Nightblood to Szeth[24]
 
 
 Szeth acquires [[Nightblood\|Nightblood]] from Nale after his death and resurrection. He does not react with either bloodlust or nausea, as his desire to only do what he is told align's with Nightblood's [[Intent\|Intent]] perfectly. He does not know Nightblood's name, referring to it with the honorific "sword-nimi" instead. Nightblood is sentient and can communicate with Szeth telepathically. The two often have conversations, and throughout them, Nightblood has learned a fair deal about Szeth's past, including what might've been an attempt at bonding a [[Spren\|spren]]. In turn, the sword has no sense of time and casually speaks of his creators and wielders, such as [[Vivenna\|Vivenna]], [[Shashara\|Shashara]], and [[Vasher\|Vasher]], even though Szeth has no idea who they are. However, Szeth often finds Nightblood's words to be helpful and profound, and when the [[Battle of Thaylen Field\|Battle of Thaylen Field]] comes, it's Nightblood that helps him decide which side to take.

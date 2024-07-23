@@ -1,6 +1,8 @@
 |**Ellista**|
 |-|-|
 ||
+|**Family**|
+|**Parents**|Parents|
 |**Profession**|[[Ardent\|Ardent]] in the Devotary of the Mind|
 |**Residence**|[[Jokasha Monastery\|Jokasha Monastery]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

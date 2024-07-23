@@ -5,7 +5,7 @@
 |**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
 |**Siblings**|[[Elhokar\|Elhokar]]|
 |**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
-|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
+|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]], Grandmother, Grandmother|
 |**Born**|1139|
 |**Abilities**|[[Order of Elsecallers\|Elsecaller]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Ivory\|Ivory]]|
@@ -21,7 +21,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It strikes me that religion—in its essence—seeks to take natural events and ascribe supernatural causes to them. I, however, seek to take supernatural events and find the natural meanings behind them. Perhaps that is the final dividing line between science and religion. Opposite sides of a card.*”
-\-Jasnah on why she researches Voidbringers[3]
+\-Jasnah on why she researches Voidbringers[5]
 
 
 **Jasnah Kholin** is the queen of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. She is a [[Surgebinder\|Surgebinder]] and [[Elsecaller\|Elsecaller]], with access to the [[Surge\|Surges]] of [[Transformation\|Transformation]] and [[Transportation\|Transportation]], sometimes called "Elsecalling." She is the sister of the late King [[Elhokar Kholin\|Elhokar]], daughter of the late King [[Gavilar Kholin\|Gavilar]] and [[Navani Kholin\|Navani]], niece of Highprince [[Dalinar Kholin\|Dalinar]], aunt of royal heir [[Gavinor\|Gavinor]], and cousin to [[Adolin\|Adolin]] and [[Renarin\|Renarin]]. She is known widely as a brilliant scholar and for her denunciation of [[Vorinism\|Vorinism]]. She is a member of the [[Veristitalian\|Veristitalians]], an order of historians dedicated to reconstructing unbiased and factual accounts of the past in order to better understand the present. She was training [[Shallan Davar\|Shallan Davar]] as her [[Ward\|ward]], but has since finished prior to the [[/wiki/Urithiru#Capture of Urithiru]].
@@ -100,7 +100,7 @@ Jasnah is a reserved and statuesque woman. She is widely praised for her beauty,
 
 ### Personality
 >“*You two are a pair of nails in the same doorframe. Stern, hard, and storming annoying to pull free.*”
-\-Navani about Dalinar and Jasnah[6]
+\-Navani about Dalinar and Jasnah[1]
 
 
 Jasnah is generally a stern and serious person, although she occasionally shows a wry sense of humor, and allows familiarity among those she is close with. She sometimes acts in a brusque manner, and can be exceptionally rude when someone gets on her bad side. She is determined, confident, and often stubborn. She can be extremely tough and ruthless, as she showed when she killed four footpads that attacked her and Shallan. She harbors a deep hatred towards men like them, possibly because of something that has been done to her in the past.
@@ -213,7 +213,7 @@ Jasnah had direct involvement in monitoring the [[Expedition to Akinah\|expediti
  
 ### In Emul
 >“*No. I want to know the real feeling of war, or as close to it as I can allow myself, in Plate with Blade.*”
-\-Jasnah to Ivory[64]
+\-Jasnah to Ivory[65]
 
 
 Jasnah went with [[Dalinar\|Dalinar]] on the military expedition into [[Emul\|Emul]], where she wanted to prove herself to be a good military leader and tactician. Highprince [[Ruthar\|Ruthar]] challenged her position, saying it was a disgrace to have a woman leading and making military decisions. Jasnah directed [[Wit\|Wit]] to insult him until Ruthar snapped and demanded a trial by combat. Acting according to Jasnah’s prearranged plan, Wit elected Jasnah as his champion to fight for him, letting her use his sword. Ruthar scoffed and said that fighting a woman would be demeaning, but Jasnah lunged forward and stabbed him through the throat. Jasnah had [[Renarin\|Renarin]] heal him, then pronounced that all Ruthar’s lands and titles are forfeit, and are now passed to his son, [[Relis\|Relis]]. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar.
@@ -223,7 +223,7 @@ During the military expedition in Emul, Jasnah and Wit worked on creating a docu
 ## Relationships
 ### Hoid
 >“*She found the way he spoke fascinating. After all this time - and all her worries - here was one who was her intellectual equal. Perhaps her * superior*.*”
-\-Jasnah[66]
+\-Jasnah[67]
 
 
 Sometime after Jasnah’s return from Shadesmar, she and [[Hoid\|Hoid]] grow close. Jasnah likes him because he is never bothered by her frequent questions, even if he dodges them sometimes. Jasnah cares more for mental stimulation than the physical, which makes interacting with Hoid invigorating to her.

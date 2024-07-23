@@ -1,6 +1,6 @@
 |**Mastrell Rile**|
 |-|-|
-|**Children**|[[Drile\|Drile]]|
+|**Children**|[[Drile\|Drile]], Daughters|
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|Mastrell|
 |**Groups**|[[Diem\|Diem]]|

@@ -1,6 +1,7 @@
 |**Sadees**|
 |-|-|
 |**Family**|
+|**Children**|Sons|
 |**Descendants**|[[Alethi\|Alethi]] [[Highprince\|highprinces]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|King of Alethkar, The Sunmaker|
@@ -9,7 +10,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 >“* All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
-\- The Sunmaker[1]
+\- The Sunmaker[2]
 
 
 **Sadees**, also known as the **Sunmaker**, is an ancient king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] who reigned about five hundred years before the [[True Desolation\|True Desolation]], and was the first to unify the kingdom after the fall of [[Alethela\|Alethela]].

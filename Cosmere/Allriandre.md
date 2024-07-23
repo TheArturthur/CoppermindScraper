@@ -2,7 +2,8 @@
 |-|-|
 |**Family**|
 |**Children**|[[Ruri\|Ruri]]|
-|**Parents**|[[Durkel\|Durkel]]|
+|**Parents**|[[Durkel\|Durkel]], Mother|
+|**Siblings**|Sisters|
 |**Born**|c. 323 [[Catacendre\|PC]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

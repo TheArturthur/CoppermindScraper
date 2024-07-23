@@ -1,6 +1,6 @@
 |**Tifi**|
 |-|-|
-|**Relatives**|[[Kef'ha\|Kef'ha]], [[Lunamor\|Lunamor]], [[Sinaku'a\|Sinaku'a]]|
+|**Relatives**|[[Lunamor\|Lunamor]], [[Gift\|Gift]], [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]], [[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]]|
 |**Died**|?|
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

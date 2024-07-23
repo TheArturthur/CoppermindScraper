@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|[[Wayne's mother\|Wayne's mother]]|
+|**Parents**|[[Wayne's mother\|Wayne's mother]], Father|
 |**Relatives**|[[Gregr\|Gregr]]|
 |**Born**|308 [[Catacendre\|PC]]|
 |**Died**|Killed in an explosion in 348 [[Catacendre\|PC]]|
@@ -18,7 +18,7 @@
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You're meant to be helping people.*”
-\-Wayne[7]
+\-Wayne[8]
 
 
 **Wayne** is a [[Twinborn\|Twinborn]] on [[Scadrial\|Scadrial]]; a [[Bendalloy\|bendalloy]] [[Misting\|Misting]] (aka a [[/wiki/Bendalloy#Allomantic Use]]) as well as a [[Gold\|gold]] [[Ferring\|Ferring]] (aka a [[Bloodmaker\|Bloodmaker]]). He is a friend and colleague of [[Waxillium Ladrian\|Waxillium Ladrian]], and the duo worked together to solve crimes in the [[Roughs\|Roughs]]. Later, Wayne joined the [[Elendel\|Elendel]] constabulary as a detective. When the [[Set\|Set]] tried to blow up [[Elendel\|Elendel]] with a bomb, Wayne sacrificed himself to stop the bomb and save the city. Wayne is extremely talented at disguises and uses one frequently. He is also often inappropriately joking or "trading" belongings without permission.
@@ -76,7 +76,7 @@
 ## Appearance and Personality
  
 >“*Wax was a right good fellow, but there were a lot of things he didn't understand. Women for one. Hats for another.*”
-\-Wayne[9]
+\-Wayne[10]
 
 
 For more images, see [[Wayne/Gallery\|/Gallery]].
@@ -85,7 +85,7 @@ He has an easygoing personality and is often seen manipulating his accent and st
 Wayne has little to no concept of boundaries and an almost pathological need to prove that he's not a bad person. He is deeply troubled and has , and did not cope well with the isolation he faced in the Roughs. Wayne also has a problem with . This is seen in his multiple episodes of "trading" items of different value and then making up convoluted reasons for why this "trade" is acceptable. Wayne often has trouble taking things seriously and often makes inappropriate jokes, especially around [[Marasi\|Marasi]]. However, he is sometimes capable of having a serious and helpful conversation.
 
 >“*Maybe I can’t ever do enough good to balance the bad I done. Maybe I’ll always be worthless.*”
-\-Wayne talking to Wax[22]
+\-Wayne talking to Wax[23]
 
 Wayne struggles with self-loathing, and sometimes thinks that he does more harm than he does good. He deeply regrets his mistakes in the past, and thinks himself to be beyond forgiveness.
 
@@ -95,7 +95,7 @@ Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[
 
 #### Feruchemy
 >“*Not that the pain went completely away, mind you. But he and pain were old friends what shared a handshake and a beer now and then. Didn’t much like each other, but they had a working relationship.*”
-\-Wayne[23]
+\-Wayne[24]
 
 
 As a [[Bloodmaker\|Bloodmaker]], Wayne can store health in his goldminds at the price of being unwell. He can tap into his stores later to heal wounds. As long as Wayne has an adequate storage of health, he can recover from any wounds that aren't immediately lethal, such as curing poison, regrowing fingers, and surviving bullet wounds. He prefers to fill his metalminds all at once by spending weeks sick in bed instead of traveling around while slightly sick. He often stores health whenever he has a hangover as he is going to have a horrible time of it anyway. He sometimes uses his ability as a Bloodmaker strategically, by pretending that a bullet has actually killed him or incapacitated him, in order to make enemies dismiss him as a threat in a fight. However, many who know of his abilities aren’t fooled by this trick. He eventually embeds his goldminds deep into his thigh to protect them from Allomancers.
@@ -132,14 +132,14 @@ He is known to be a method actor often thinking like the person he is disguised 
  
 ### Tinweight Settlement
 >“*You are whatever you want to be, Wayne. You're the wind. You're the stars. You are all endless things.*”
-\-Wayne's mother reciting a poem to Wayne[1]
+\-Wayne's mother reciting a poem to Wayne[2]
 
 
 Wayne's father worked at [[Tinweight Settlement\|Tinweight Settlement]] during Wayne's childhood and [[Wayne's mother\|his mother]] did laundry back at home.  When Wayne's father died in a mining accident, Wayne's uncle [[Gregr\|Gregr]] moved in with them and built a variety of furniture for them to save money. They lived next to the mine. When Gregr also died in a mining accident Wayne's mother had to go and work at the mine herself and Wayne had to take up doing the laundry to make additional money. Wayne got into the habit of taking things from people and planned to earn a good living playing cards. His mother died in another collapse at the mine. 
 
 ### Time in the Roughs
 >“*Some mistakes though, you can’t fix by being sorry. Can’t fix them no matter what you do.*”
-\-Wayne[24]
+\-Wayne[1]
 
 
 Wayne's father was a [[Feruchemist\|Feruchemist]], and Wayne was aware of his abilities by the time he was sixteen, but never had access to any [[Bendalloy\|bendalloy]] or [[Gold\|gold]]. Wayne had a natural talent for grabbing things without meaning to, and with encouragement from some friends he starting pick pocketing, and eventually robbed [[Durkel\|a man]] at gunpoint. He accidentally killed the man, and was easily caught by the local lawman [[Jon Deadfinger\|Jon Deadfinger]]. At the trial he found out that the man he killed had been a bookkeeper, charity worker, and father of three. Wax saved Wayne from being hanged, though the details of how are unknown. Ever since the two worked together almost like a sheriff and deputy, becoming famous enough to be taught about in University. As a reaction to the death of the bookkeeper, Wayne became unable to hold a gun without his hands shaking, preferring to use dueling canes instead. He also began sending half of the money he made to the man's widow to help pay for her kids, one of whom was able to go to university. He visited [[Allriandre\|Allriandre]], the eldest child, at the University on the first day of every month to give her "blood money," but she did not forgive him.
@@ -147,7 +147,7 @@ Wayne spent much of his early adulthood as Wax’s partner, initially performing
 
 ### Investigating the Vanishers
 >“*Kidnapping people… well, there’s something goin' on here. I’m gonna find out what it is. With or without you.*”
-\-Wayne to Wax about the Vanishers[7]
+\-Wayne to Wax about the Vanishers[8]
 
 
 With Wax's return to the city, Wayne was left in charge of [[Weathering\|Weathering]], a small town out in the Roughs, appearing now on the trail of the Vanishers; an infamous gang of thieves renowned for their bizarre theatrics and efficiency.
@@ -170,14 +170,14 @@ Towards the end of the fighting Tarson took Marasi hostage, Wayne threw up a spe
 
 ### Chasing the Marksman
 >“*Look, Wax. We've got to go! The Marksman has made his move!*”
-\-Wayne arriving at Wax's manor[11]
+\-Wayne arriving at Wax's manor[12]
 
 
 Some time after Miles' capture, Wayne found Wax and told him the Marksman was on the move. They got in a motorcar with Marasi, and Wax then chased after the Marksman using Steelpushes. Wayne followed behind with Marasi, and the Marksman subsequently escaped into the slums. While Marasi and Wax went to go interrogate people, Wayne used his acting skill to join in with a group of men living in the slums. He followed one of the men to where Marks was hiding. He attacked the building and apprehended Marks. They were attacked as they left the slums, and Marks was shot and killed.
 
 ### Chasing Bleeder
 >“*I killed your daddy. I mugged him in an alley for his pocketbook. I shot a better man than me, and because of that, I don't deserve to be alive.*”
-\-Wayne to Alliandre[16]
+\-Wayne to Alliandre[17]
 
 
 Wax investigated a series of bodies at [[Winsting Innate\|Lord Winsting's]] manor, where a series of people were killed by a Steelrunner. Knowing that he’d likely need it soon, Wayne began storing up health. Wax wanted Wayne to got to [[The Village\|The Village]], but Wayne had to preform a special task he always did on the first of the month. He went to [[Elendel University\|Elendel University]], sneaking in to meet with [[Allriandre\|Allriandre]], the daughter of the man he killed. He offered her the usual monthly stipend that he gives her, and she showed him the picture of her father, forcing him to once again recite his crimes. She once again told him that he isn't forgiven, and Wayne left. Wayne and Wax visited the home of [[Idashwy\|Idashwy]], a known Terris Steelrunner. They found her dead with a hole in her chest. Wax and Wayne determined that the killer used Hemalurgy to steal Idashwy's Steelrunner abilities.
@@ -219,7 +219,7 @@ Wayne, along with Wax, Marasi, Steris, and MeLaan, traveled to New Seran. Wayne 
 The group arrived in New Seran, and they went to their hotel. Between Steris’s list of possible disasters, Wayne’s trading of objects, and MeLaan’s strangeness, [[Aunt Gin\|the hotel owner]] was quite alarmed. Since Wax doubted Wayne’s usefulness at [[Kelesina Shores's party\|Kelesina Shores's party]], Marasi borrowed Wayne to go dig through graves for ReLuur’s spike.
 
 >“*Why, what happens when we have to thump some people, then run off with their ledgers? They’re gonna know it was us, and Wax’ll have to pay a big heap of compensatory fines.*”
-\-Wayne to Marasi[12]
+\-Wayne to Marasi[13]
 
 Wayne and Marasi went to a bank, Wayne planning for them to pose as a rich lord and his niece. Marasi however, shocked Wayne by using her status as a constable to let them talk to the bank’s owner. Wayne swapped a rats tail with the man’s silver letter opener, and Marasi discovered than all of the city’s graveyard workers are crooked. They went to a graveyard, and there Wayne disguised himself and Marasi, then talked to [[Dechamp\|Dechamp]], the night gravekeeper. Wayne bribed the man into digging up ReLuur’s grave. DeChamp however, sent his young assistant to alert members of the Set. A group of gunmen arrived, and opened fire immediately, accidentally killing Dechamp. Wayne and Marasi took cover in the freshly dug grave. Marasi supposed that the gunmen were so scared of Wayne's reputation that they had not waited for Dechamp to get clear preferring to kill Wayne without any chance for him to fight back; Wayne was immensely pleased at the thought that he was so feared by the criminals. Wayne and Marasi fought back against the gunmen, defeating several and causing the rest to retreat. Afterward, he went to the graveyard building, and found both Dechamp’s ledger and his stash of booze.
 Both Wayne and Marasi worked together to trick [[Templeton Fig\|Templeton Fig]], Dechamp’s boss. They caused him to think that he was being visited by [[Marsh\|Death]], who was actually Wayne in disguise. Wayne learned from him that ReLuur’s spike had been sent to the small town of [[Dulsing\|Dulsing]]. Wax returned from the party, giving Wayne an unkeyed metalmind with a lot of healing stored in it.
@@ -254,7 +254,7 @@ Shortly after, MeLaan met with Wayne, and broke up with him. She wanted to say g
 Marasi planned a raid on a Set warehouse in Bilming, and Wayne, [[VenDell\|VenDell]], and a force of constables went with her. Wayne and VenDell impersonated members of the Set upon their arrival, and things went smoothly. However, the plan was ruined when the Bilming constabulary attacked the warehouse in a raid. As chaos broke out and the fighting began, Wayne fought a Set member named [[Getruda\|Getruda]], who was made to be a rough copy of him in both powers and mannerisms. Wax arrived and the fighting ended soon after, though Getruda escaped. The group was taken into custody, but was allowed to operate in the city if accompanied by a Bilming constable. The "constable" was [[Moonlight\|Moonlight]], who Marasi knew but Wayne didn't. The three investigated [[Tobal Copper\|Tobal Copper]], a man they knew to be involved with the Set's attempts to split harmonium to make a bomb. They went to Tobal's apartment, where Wayne analyzed the room. He deduced that the Set killed Tobal to keep him quiet, but cleaned up the mess well. He concluded that they all should go to a disreputable broadsheet office whom he might've told about the Set's actions. They found the broadsheet office that Tobal went to, and discovered that he told the proprietor, [[Maraga Dulcet\|Maraga Dulcet]], everything. They learned that the Set was trying to make a self propelled rocket to deliver a bomb to Elendel. Telsin arrived, and Wax distracted her while everyone slipped away. Afterwards, Wax and Wayne went to search Entrone's office, with Wayne providing a distraction. They explored an underground passage under Entrone's manor, and ran into [[Dumad\|Dumad]] and Getruda, the two Set agents. Wayne and Wax managed to defeat them, though Wayne lost a lot of his stored healing in the process.
 
 >“*So I guess I'm beginnin' to wonder: Maybe I can't ever do enough good to balance the bad I done. Maybe I'll always be worthless.*”
-\-Wayne to Wax[22]
+\-Wayne to Wax[23]
 
 They arrived at the Set's laboratory too late as a convoy of trucks left. Wax chased them, but they destroyed most their important documents by the time Wax caught up with them. Wax found some old-fashioned Roughs beer, and him and Wayne took some time to drink and relax atop a billboard. They talked about Wayne's past, and Wax tried to convince Wayne that he's a good person.
 
@@ -267,7 +267,7 @@ Wax figured out that the Set would be launching the bomb soon from the highest b
 Wayne and Wax recovered hemalurgic spikes from the corpses of Dumad and Getruda and spiked themselves with them, giving Wayne the powers of a Coinshot, and allowing Wax to use duralumin and steel to fly them out to the ship where the bomb was. They cleared out the ship of enemies, but discovered that they couldn't disarm the bomb without it going off. Wayne figured out a way to lessen the explosion using bendalloy and steel. Harmony spoke to him, and told him it could work. Knowing his plan wouldn't need Wax, Wayne used a Steelpush to send Wax flying off the ship. Wayne ingested a small bit of lerasium, originally given to Wax by Harmony, and goes down into the ship's hold to where the bomb is, which was composed of three barrel devices with explosives.
 
 >“*Hold on to your robes, my dear friend. This is going to be unlike anything you have ever seen before, I think.*”
-\-Wayne to Harmony[6]
+\-Wayne to Harmony[7]
 
 Harmony told Wayne that messing with one barrel would cause the others to immediately go off. Before forming his speed bubble, Wayne pulled out and consumed every bit of bendalloy he had on his person - a total of *seventeen* pouches; an amount which astounded even Harmony. At Harmony's command, Wayne created a perfect speed bubble.
 
@@ -276,7 +276,7 @@ He enclosed all three barrel devices, but excluded the device that coordinated t
 
 ### After His Death
 >“*Me, I saved the whole damn world. I... I'm probably the best constable who ever rusting lived!*”
-\-Wayne to Harmony[4]
+\-Wayne to Harmony[5]
 
 
 After his death, Wayne briefly spoke with Harmony before passing into the [[Beyond\|Beyond]]. He rejoiced in his victory, happy to have saved the world. After asking Harmony if MeLaan was telling the truth with her parting complement, Wayne asked Harmony if he made the biggest explosion that a person ever made, which Harmony confirms as correct. Satisfied, Wayne passed into the Beyond. Wayne had various things put in his will, which were carried out after his death. He granted a large sum of money to both Ranette and Allriandre, left his lucky hat to Marasi, and arranged for a variety of random objects to be discreetly delivered to Wax over time (one example of this is a stuffed frog being delivered to Wax two years after Wayne’s death). Two years after his death, a bronze statue was made of him and placed in the Field of Rebirth to honor his memory.
@@ -299,7 +299,7 @@ Wayne has a very close relationship with [[MeLaan\|MeLaan]], and is attracted to
 
 ### Marasi Colms
 >“*You’re important. You help out a lot! Plus, you smell nice, and not all bloody n’ stuff.*”
-\-Wayne[21]
+\-Wayne[22]
 
 
 At first, Wayne has no understanding of personal boundaries around [[Marasi\|Marasi]]. He often harasses her, and makes rude or inappropriate comments about her in her presence. Marasi is embarrassed easily by any romantic or sexual topic, which encourages Wayne, who makes her the target of several jokes. After a time, Wayne eventually becomes a better friend to Marasi, and their relationship improves. Despite his joking manner, he is still able to have several meaningful conversations with Marasi, and offers encouragement to Marasi amidst her self-doubt. Marasi occasionally confides in Wayne, such as asking about being in Wax’s shadow. Even so, Marasi occasionally has to reign Wayne in a little when they work together, often acting as the voice of reason.

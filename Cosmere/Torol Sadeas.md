@@ -3,6 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Ialai Sadeas\|Ialai]]|
+|**Relatives**|[[Lalai\|Lalai]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
 |**Born**|1123|
 |**Died**|Jesesach 1174|
@@ -15,7 +16,7 @@
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*We’re two old whitespines who both want a kingdom. It's him or me. We’ve been pointed that way since Gavilar died.*”
-\-Sadeas about Dalinar[4]
+\-Sadeas about Dalinar[5]
 
 
 **Torol Sadeas** is an [[Alethi\|Alethi]] [[Highprince\|Highprince]] on [[Roshar\|Roshar]]. Through a number of successful battles fought alongside [[Gavilar\|Gavilar]] and [[Dalinar\|Dalinar]] Kholin, he became one of the most powerful men in the Kingdom. Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife [[Ialai Sadeas\|Ialai]], they eliminate people they consider inconvenient. He commands one of the two most significant armies on the [[Shattered Plains\|Shattered Plains]], the other being the army of Dalinar Kholin.
@@ -78,7 +79,7 @@ Sadeas has always been very proficient at politics. He would speak persuasively 
 
 ### The Rift
 >“*I have no interest in being king—it’s a job with little praise and even less amusement. I mean for this kingdom to stand for centuries.*”
-\-Sadeas to Dalinar[13]
+\-Sadeas to Dalinar[14]
 
 
 During times of a unified Alethkar, Sadeas enjoyed doing politics, especially with the power he had under Gavilar. He helped plot tactics to keep power and stability, maintaining war and fear as his most important weapons, while Gavilar moved to a more political type of leadership. This difference was key to the decisions leading to the destruction of the Rift.
@@ -97,7 +98,7 @@ Dalinar investigated the cut girth strap on the king's saddle, but at one partic
 
 ### Highprince of Information
 >“*Bah. Nobody would **really** believe that you tried to kill the king. They’d gossip, but they wouldn’t believe it.*”
-\-Sadeas to Dalinar[15]
+\-Sadeas to Dalinar[16]
 
 In his new position, Sadeas investigated the cut girth strap. Dalinar was insistent that Sadeas reveal the results of the investigation at another of Elhokar's feasts, though Adolin was convinced Sadeas would use the opportunity to incriminate Dalinar and turn the other Brightlords against him. This conviction was punctuated by Sadeas beginning by saying to Dalinar, “You demanded this, old friend.”
 Even Dalinar himself was tense at Sadeas' proclamation, given for all in attendance to hear. He had the strap sent to three different leather-workers, all of whom concluded the strap had been cut – the leather was relatively new, as shown by its lack of flaking and cracking, and the tear too even. To answer when it was cut, Sadeas interviewed many on the hunt and they all reported the same oddity: Dalinar and Elhokar storming off to the rock formation alone. This presented a problem, a problem that Sadeas discovered in the king's Plate: eight of the ten sapphires used to infuse the king's plate had been damaged. When Adolin (who still thought Sadeas suspected Dalinar) protested, Sadeas noted how highly improbable this would be, since a simple fall from horseback wearing full Plate would not cause sufficient strain; even after a battle, only two or three sapphires usually needed replacing. Someone, therefore, must have sabotaged the Plate.
@@ -106,7 +107,7 @@ Next, Sadeas brought out one of the grooms in the king's employ, asking him to r
   Riding away from <<Tower (Roshar)\|the Tower>>
 ### Betrayal
 >“*That honor of yours is going to get you killed, Dalinar.*”
-\-Sadeas[16]
+\-Sadeas[17]
 
 
 Right after being vindicated, Dalinar proposed that he and Sadeas try a joint plateau assault to combine the speed of Sadeas' army with the strength of Dalinar's. Sadeas agreed only after they agreed on the division of spoils, ceding any Blades which might be won to Sadeas while Dalinar would keep any Plate. They tested the tactics successfully in several battles, though the Parshendi sent a second army straight at Sadeas' banner during one of the battles and forced Dalinar to rush to his aid.
@@ -121,7 +122,7 @@ Before leaving, Dalinar asked Sadeas to give him the members of [[Bridge Four\|B
 
 ### After the Battle of the Tower
 >“*I'm not meant for this, love. This stupid game on the plateaus. It sated me at first, but I’m growing to loathe it. I want **war**, Ialai.*”
-\-Sadeas[2]
+\-Sadeas[3]
 
 After the [[Battle of the Tower\|Battle of the Tower]], Sadeas was despondent about obtaining Oathbringer and bemoaned how it didn't quench his thirst for bloodshed. At one point, he stuck it into a table point-first, staring at it in awe. When Ialai came into the room and complained about the table, he told her how he intended to force the Alethi soldiers back into a full-out war instead of a prolonged game of chasing down gemhearts. He began plotting with her, instructing her to send more spies into Dalinar's warcamp and to prepare for any other steps which might be required, including assassinating him.
 After a failed plateau assault on the Shattered Plains, Adolin spoke to [[Jakamav\|Jakamav]] about his attempts at winning Shardblades and Shardplate through duels and his frustration at how no one would rise to his challenge. Jakamav told him that Sadeas, in order to stop Dalinar's plans, had been making offers and promises to Shardbearers in return for them turning down Adolin's challenges; he suggested [[Eranniv\|Eranniv]] as one who might be more interested in fame than Sadeas' offers.
@@ -134,7 +135,7 @@ On the last day before the [[Weeping\|weeping]], Sadeas and his wife took a ride
   Sadeas being killed by <<Adolin Kholin\|Adolin Kholin>>
 ### Death and Aftermath
 >“*I will take this from him. This city, these discoveries. It’s just a setback.*”
-\-Sadeas' last words[4]
+\-Sadeas' last words[5]
 
 
 Surprisingly, Dalinar's call to the [[/wiki/Shattered Plains#Warcamps]] was answered by Sadeas as quickly as it was by [[Aladar\|Aladar]] and [[Roion\|Roion]]. Sadeas personally made his way to Urithiru with his wife.

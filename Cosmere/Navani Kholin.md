@@ -2,8 +2,10 @@
 |-|-|
 ||
 |**[[House Kholin\|House Kholin]]**|
-|**Spouse**|[[Gavilar\|Gavilar]] (deceased), [[Dalinar\|Dalinar]]|
+|**Spouse**|[[Gavilar\|Gavilar]], [[Dalinar\|Dalinar]]|
 |**Children**|[[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]]|
+|**Parents**|Mother|
+|**Relatives**|[[Adolin\|Adolin]], [[Renarin\|Renarin]]|
 |**Descendants**|[[Gavinor\|Gavinor]]|
 |**Born**|c. ? 1120|
 |**Abilities**|[[Order of Bondsmiths\|Bondsmith]]|
@@ -82,7 +84,7 @@ Navani has a stately bearing and, in some ways, is the picture of a perfect Vori
 
 ### Personality
 >“*Order from chaos. Find the structure here and start building upon it.*”
-\-Navani[12]
+\-Navani[1]
 
 
 As the dowager queen, Navani often challenges [[Alethi\|Alethi]] protocol. She is known for her ability to learn everything of significance through gossip, no matter where she travels. She is not overly judgmental, but is not above pointing out the obvious. She is known for her confidence, to the point that she is not afraid to match words with [[Hoid\|Wit]]. She believes in being blunt, especially when working with scholars. Despite this, Navani is also known for her discretion. A scholar at heart, she keeps exacting notes and is well organized.
@@ -123,7 +125,7 @@ She eventually excused herself to find Gavilar, whom she discovered in her study
 Following the end of the feast, Navani heard that the Parshendi had assassinated Gavilar. Although Navani didn't believe what happened, the truth sank in when she saw Gavilar's broken body. She felt a pang of guilt over the glyphward. However, she soon realized she pitied Gavilar instead of grieving for him. Navani vowed to herself that she would stay silent and let Gavilar have his legacy.
 
 ### Aftermath of the Assassination
-After Gavilar's death at the hands of [[Szeth\|Szeth]], Navani was left without a defined position in Alethi society as her son assumed the throne. In retaliation for Gavilar's death, the Alethi started a war against the [[Parshendi\|Parshendi]], who claimed responsibility for the assassination. Much of Alethi society moved to the [[Shattered Plains\|Shattered Plains]] to fight them. Initially, she stayed in Kholinar to aid Elhokar's wife, [[Aesudan Kholin\|Aesudan]], in ruling the kingdom. After some years, she moved to the Shattered Plains, realizing that the seat of power had transferred there as the [[War of Reckoning\|War of Reckoning]] continued.
+After Gavilar's death at the hands of [[Szeth\|Szeth]], Navani was left without a defined position in Alethi society as her son assumed the throne. In retaliation for Gavilar's death, the Alethi started a war against the [[Parshendi\|Parshendi]], who claimed responsibility for the assassination. Much of Alethi society moved to the [[Shattered Plains\|Shattered Plains]] to fight them. She spent much of the war guiding Elhokar, although she at some point returned to Kholinar to aid Elhokar's wife, [[Aesudan Kholin\|Aesudan]], in ruling the kingdom. After some time, near the end of the war, she moved back to the Shattered Plains, realizing that the seat of power had transferred there as the [[War of Reckoning\|War of Reckoning]] continued.
 
   Burning a <<Glyphward\|glyphward>> during the <<Battle of the Tower\|Battle of the Tower>>
 ### Returning to the Shattered Plains
@@ -226,7 +228,7 @@ A day later she is visited by Moash, who has every intention of killing her but 
 ## Relationships
 ### Gavilar
 >“*My husband was an excellent king -- an inspiring leader, an unparalleled duelist, and a genius of battlefield tactics. But he didn't have a single scholarly finger on his left hand. He never showed an interest in the accounting of highstorms, was bored by talk of science, and ignored fabrials unless they had an obvious use in battle. He was a man built after the classical masculine ideal.*”
-\-Extract from Navani on her book.[76]
+\-Extract from Navani on her book.[77]
 
 
 During the Unification of Alethkar, Navani was a good partner to Gavilar, helping him with the strategy and creating/executing plots that would help their cause.
@@ -259,7 +261,7 @@ To Shallan, Navani looks like a version of Jasnah twenty years older; still pret
 After learning of her daughter's death from Shallan, Navani refuses to see her, or have anything to do with her. She even accused her of dooming her when she burned the ship with her "unconscious".
 
 >“* Shallan was apparently no longer an outsider, but one of Navani’s clutch - and Chana help the man or woman who stood between Navani and one of her own.*”
-\-Dalinar after Shallan emerged from the chasms[39]
+\-Dalinar after Shallan emerged from the chasms[40]
 
 
 Their relationship changed dramatically after she survived the fall to the chasms. Upon her return, Navani became motherly and protective of her. She became one of her own.
@@ -283,11 +285,11 @@ Navani attempts to kill Raboniel, but it is a very difficult decision for her. W
 
 
 >“*You loathe their excess, and you are close to applying that emotion to them as well. They live the lives they have known, the lives that society has taught them are proper. You won’t change them with contempt. You aren’t Wit; it isn’t your job to scorn them. Your job is to enfold them, encourage them. Lead them, Dalinar.*”
-\-Navani to Dalinar on the Highprinces of Alethkar[88]
+\-Navani to Dalinar on the Highprinces of Alethkar[89]
 
 
 >“*Journey before destination, you bastard!*”
-\-Navani to Moash[89]
+\-Navani to Moash[90]
 
 
 ## Trivia

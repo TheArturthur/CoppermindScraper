@@ -1,7 +1,8 @@
 |**Durkel**|
 |-|-|
 |**Family**|
-|**Children**|[[Allriandre\|Allriandre]]|
+|**Spouse**|Wife|
+|**Children**|[[Allriandre\|Allriandre]], Daughters|
 |**Descendants**|[[Ruri\|Ruri]]|
 |**Died**|Shot by [[Wayne\|Wayne]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

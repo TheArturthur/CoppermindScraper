@@ -1,5 +1,8 @@
 |**Lalai**|
 |-|-|
+|**Family**|
+|**Parents**|Parents|
+|**Relatives**|[[Torol Sadeas\|Torol Sadeas]]|
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

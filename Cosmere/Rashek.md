@@ -1,6 +1,7 @@
 |**Rashek**|
 |-|-|
 ||
+|**Children**|Multiple children|
 |**Relatives**|[[Kwaan\|Kwaan]]|
 |**Born**|[[Classical Scadrial\|Classical Scadrial]]|
 |**Died**|1022 [[Final Empire\|FE]]|
@@ -12,7 +13,7 @@
 |**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*I did not make a mistake. I have never made a mistake. However, it is time for a change.*”
-\-Rashek's words after Lord Prelan Tevidian Tekiel's death.[6]
+\-Rashek's words after Lord Prelan Tevidian Tekiel's death.[8]
 
 
 **Rashek** is a [[Terrisman\|Terrisman]] from [[Scadrial\|Scadrial]]. Known as the **Lord Ruler**, the **Sliver of Infinity** and the **Father**, he has access to the full range of abilities of both a [[Feruchemist\|Feruchemist]] and an [[Allomancer\|Allomancer]], and has [[Hemalurgic\|Hemalurgic]] spikes in his body. As a result, he is an extremely powerful [[Compounding\|Compounder]], and he was able to unify much of the world into an empire that lasted for around one thousand years.
@@ -81,19 +82,19 @@ A Sliver of Preservation due to his time holding the power of the Well, Rashek d
 ## Quotes
   The Lord Ruler
 >“*Let the executions begin.*”
-\-Rashek, after killing Kelsier.[7]
+\-Rashek, after killing Kelsier.[9]
 
 
 >“*My lord, look outside your window! Do we not have better things to discuss? The entire city is in rebellion! Skaa torches light up the night, and they dare go out into the mists. They blaspheme in riots, attacking the keeps of the nobility!*”
-\-Tevidian arguing against Rashek about the skaa rebels[6]
+\-Tevidian arguing against Rashek about the skaa rebels[8]
 
 
 >“***God** cannot be killed. **God** cannot be overthrown. Your rebellion—you think I haven't seen its like before? You think I haven't destroyed entire armies on my own? What will it take before you people stop questioning? How many centuries must I prove myself before you **idiot** skaa see the truth? How many of you must I kill!*”
-\- Rashek[3]
+\- Rashek[5]
 
 
 >“*You don't know what I do for mankind. I **was** your god, even if you couldn't see it. By killing me, you have doomed yourselves...*”
-\-Rashek's final words[3]
+\-Rashek's final words[5]
 
 
 >“*He suffered much beneath Ruin's hand, but he was a good man, who ultimately had honorable intentions.*”

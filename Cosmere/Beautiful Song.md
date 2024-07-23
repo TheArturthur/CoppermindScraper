@@ -3,6 +3,8 @@
 |**[[Lunamor's family\|Lunamor's family]]**|
 |**Parents**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
 |**Siblings**|[[Gift\|Gift]], [[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]]|
+|**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
+|**Ancestors**|Grandfather, Grandmother|
 |**Born**|1170|
 |**Aliases**|Little Song|
 |**Residence**|[[Horneater Peaks\|The Horneater Peaks]]|

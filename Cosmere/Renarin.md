@@ -2,10 +2,10 @@
 |-|-|
 ||
 |**[[House Kholin\|House Kholin]]**|
-|**Parents**|[[Dalinar\|Dalinar]], [[Evi\|Evi]], [[Navani Kholin\|Navani Kholin]] (Step-mother)|
-|**Siblings**|[[Adolin\|Adolin]], [[Shallan\|Shallan]] (Sister-in-law)|
-|**Relatives**|[[Gavilar\|Gavilar]], [[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Toh\|Toh]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]], [[House Davar\|House Davar]]|
-|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
+|**Parents**|[[Dalinar\|Dalinar]], [[Evi\|Evi]]|
+|**Siblings**|[[Adolin\|Adolin]]|
+|**Relatives**|[[Gavilar\|Gavilar]], [[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Navani\|Navani]], [[Toh\|Toh]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
+|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]], Grandmother|
 |**Born**|1154|
 |**Abilities**|[[Order of Truthwatchers\|Truthwatcher]], [[Voidbinding\|Voidbinder]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Glys\|Glys]]|
@@ -18,7 +18,7 @@
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I am not the first hero’s son to be born without any talent for warfare. The others all got along. So shall I.*”
-\-Renarin Kholin[4]
+\-Renarin Kholin[5]
 
 
 **Renarin Kholin** is a [[Lighteyes\|lighteyed]] prince of the [[Alethkar\|Alethi]] [[House Kholin\|House Kholin]] on [[Roshar\|Roshar]]. He is ostensibly a [[Truthwatcher\|Truthwatcher]], and is bonded to the corrupted [[Mistspren\|mistspren]], [[Glys\|Glys]]. He is the first corrupted/enlightened Truthwatcher. He is the second son of [[Dalinar\|Dalinar]] and [[Evi\|Evi]], and the younger brother of [[Adolin\|Adolin]]. This makes him the nephew to [[Gavilar\|Gavilar]] and [[Navani\|Navani]] and cousin to [[Elhokar\|Elhokar]] and [[Jasnah\|Jasnah]]. Since Dalinar's abdication, he is first in line to succeed Adolin as [[Highprince\|highprince]] of the [[Kholin princedom\|Kholin princedom]].
@@ -82,7 +82,7 @@ Renarin is gay, though tends to hide this from others. He seems to get offended 
   Renarin using <<Illumination\|Illumination>>
 ## Attributes and Abilities
 >“*I don't think I’m a Radiant, Jasnah. I don’t know what I am.*”
-\-Renarin[26]
+\-Renarin[27]
 
 
 Renarin has a "blood weakness" (epilepsy), which prevents him participating in activities of great physical stress, including combat. The weakness affects him in episodes, during which he grows pale and his limbs go weak, to the point of trembling or possible collapse. Kaladin believes that these are symptoms of . After becoming Radiant his abilities cure his epilepsy and he no longer has ordinary seizures. However, his bond causes him to have a different type of fit, the visions of the future, instead.
@@ -93,7 +93,7 @@ After giving his [[Shardblade\|Shardblade]] to [[Torol Sadeas\|Torol Sadeas]] in
   Renarin with <<Glys\|Glys>>
 ### Surgebinding
 >“*Renarin couldn't do that. He could only summon lights, and they did strange, unnatural things sometimes.…*”
-\-Navani on Renarin's Illumination[30]
+\-Navani on Renarin's Illumination[31]
 
 
 Renarin is a [[Surgebinder\|Surgebinder]] and member of the [[Knights Radiant\|Knights Radiant]]. He claims to be a [[Truthwatcher\|Truthwatcher]], bonded to a corrupted [[Mistspren\|mistspren]] named [[Glys\|Glys]], but is not a true member of that order due to the corruption of his spren. Renarin bonded Glys at some point before Adolin's final, disadvantaged, duel. Due to the corrupted nature of Glys, Renarin's oaths are different than the standard Truthwatcher oaths.
@@ -106,7 +106,7 @@ He is able to use a surge of Stormlight to banish the life and animating force o
   Renarin seeing the future
 #### Future Sight
 >“*What's wrong with me? Why do I see these things? I thought I was doing something right, with Glys but somehow, it’s all wrong.*”
-\-Renarin to Jasnah[42]
+\-Renarin to Jasnah[43]
 
 
 The most notable of these special powers is his ability to see visions of the future. This ability is what causes him to write [[Glyph\|glyph]] messages and numbers counting down to the arrival of the [[Everstorm\|Everstorm]]. Because he is seeing the future, an action explicitly forbidden by the Vorin church for ties with the Voidbringers, Renarin initially believes himself to be cursed by the Almighty.
@@ -114,7 +114,7 @@ The visions are the result of [[Glys\|Glys's]] corruption by [[Sja-anat\|Sja-ana
 Renarin's visions manifest as fits that come upon him against his will. While the fits strike Renarin involuntarily, Glys is able to capture and record a vision as it comes upon him, allowing him to re-summon it whenever he wants. Maintaining the reconstructed vision requires Stormlight and effort from Glys. This limits the amount of time the vision can be summoned for, since Glys will become fatigued.
 
 >“*What I see interferes with Odium’s ability. Because I can see possibilities of the future, my knowledge changes what I will do. Therefore, his ability to see my future is obscured. Anyone close to me is difficult for him to read."*”
-\-Renarin to Dalinar[14]
+\-Renarin to Dalinar[15]
 
 The visions begin with dark glass covering the ground beneath his feet. A phantom light shines from behind the glass and if Renarin steps upon the glass it causes a red light to pulse through. After spreading across the ground the glass cracks into the shape of what is being depicted, and afterwards changes colors to match. This final state is comparable to a stained-glass window. Sometimes the images are underlined with numbers and words. Other people are not able to see this glass.
 These visions can show both past and future events, even of situations where Renarin would not be present at the time the event depicted happens. However, the images of the future are merely showing possible future outcomes, and therefore they are not always accurate, and what actually happens can diverge from what Renarin sees. According to Glys the visions are not coming specifically from Odium, but since their powers come from him it is possible that his desires influence what the visions will show.
@@ -131,23 +131,23 @@ After Evi's death Renarin would often burn incense in his rooms. This smell remi
 After the [[Assassination of Gavilar\|Assassination of Gavilar]] Renarin went to the [[Shattered Plains\|Shattered Plains]] with Dalinar and Adolin to fulfill the [[Vengeance Pact\|Vengeance Pact]].
 
 >“*Those who 'deserve’ my mockery are those who can benefit from it, Brightlord Dalinar. That one is less fragile than you think him.*”
-\-Wit about Renarin[1]
+\-Wit about Renarin[2]
 
 He rode with Adolin to [[Elhokar\|Elhokar's]] [[Chasmfiend\|chasmfiend]] hunt and tried to calm Adolin down when he was upset by [[Torol Sadeas\|Sadeas's]] treatment of their father. As they waited on the plateau for the chasmfiend to arrive [[Wit\|Wit]] joined them and tried to tease Renarin but Dalinar told him to go find someone deserving his mockery instead. Wit told Dalinar that Renarin was someone who deserved it as he could benefit from it. When the chasmfiend emerged from the chasm and Dalinar, Adolin, and Elhokar were fighting the beast Renarin rode his horse onto the plateau to help them but Dalinar became angry with him and shouted at him to go back to safety. At a feast later that night Renarin held back Adolin from attacking Sadeas, who had been insulting their father, and seeing what he was doing Sadeas insulted him, calling him incompetent and ridiculing what he had done during the fight earlier in the day.
 
 >“*The firebrand I can understand, [...] but the other one? You saw how he ran out onto the field today. He even forgot to draw his sword or bow! He's useless!*”
-\-Sadeas insulting Renarin[17]
+\-Sadeas insulting Renarin[18]
 
 Dalinar asked Sadeas if he meant what he had said. He told Sadeas that if he had truly called his son useless, he would be forced to summon his Shardblade and kill him for the insult. He said that this would break the Vengeance Pact and that he hoped he had misheard what Sadeas had been saying. Sadeas hesitated and said that indeed Dalinar had misheard what he had said. Later on that night, when Wit was insulting Sadeas, Renarin surprised Wit with a clever response to one of his taunts. Wit said that if Sadeas gave in to his temptation and killed him, Renarin could be the King's Wit in his place. Later, Dalinar told Renarin that he should not have put himself in harm's way before the chasmfiend. Renarin tried to tell him that he was not a soldier and could not fight due to his epilepsy, but Dalinar misinterpreted what he was saying. He reassured Renarin, telling him that he could be a warrior even with his sickness. He promised him that the next time he won a suit of Shardplate and a Shardblade he would give them to Renarin. He told Renarin that the strength of the Plate would be enough to overcome his weakness.
 
 >“*You see the past, Father, that is not forbidden. And if the Almighty sends them, then how could men question?*”
-\-Renarin[52]
+\-Renarin[53]
 
 Renarin was with Dalinar during many of his visions that he experienced during the highstorms. After Navani used the visions to translate the [[Dawnchant\|Dawnchant]] she wanted to share the visions with the other scholars, but Dalinar was hesitant, saying that the visions were too close to seeing the future, which was forbidden. Renarin told Dalinar this was not a problem since he was seeing visions of the past and not the future.
 During the [[Battle of the Tower\|Battle of the Tower]] Sadeas betrayed Dalinar, leaving him and his men stranded on the [[Tower (Roshar)\|Tower]] while he and his army returned to camp unscathed. Renarin, seeking news of his father's fate, followed Navani to Sadeas's warcamp where she was interrogating the highprince. After Navani burned her [[/wiki/Glyphs/Index#Thath]] [[Glyph\|glyph]] Renarin thanked her for the prayer. When Dalinar and Adolin returned safely Renarin embraced them, the first time Dalinar had seen true joy within him in a while. After Dalinar gave his Shardblade, [[Oathbringer (Shardblade)\|Oathbringer]], to Sadeas in exchange for [[Kaladin\|Kaladin]] and the [[Bridgemen\|bridgemen]], Dalinar gave his Plate to Renarin, fulfilling half of his promise.
 
 >“*He'll surprise you, I gave him the whole ‘I’m your master and you do what I say’ talk, and he actually listened. [...] I thought a nineteen-year-old like him would be insufferable.*”
-\-Zahel to Kaladin[58]
+\-Zahel to Kaladin[59]
 
 Shortly after receiving his Shardplate Renarin began writing numbers on the wall during highstorms counting down to the coming of the [[Everstorm\|Everstorm]]. This was due to the visions of the future that [[Glys\|Glys]], whom he had bonded a while earlier, was granting him.
 After Adolin defeated [[Salinor Eved\|Salinor Eved]] in a duel he gave his newly acquired Shardblade to Renarin. The next day [[Zahel\|Zahel]] began training Renarin how to use his Shards. Zahel was impressed by Renarin's obedience and had him repeatedly jump off of the roof of the dueling grounds in his Shardplate to make him confident in the armor's protection.
@@ -160,12 +160,12 @@ During Adolin's duel with the four Shardbearers Renarin, without his Plate, join
 By the time Kaladin was released from prison Renarin was fully integrated into Bridge Four and he began learning to carry their bridge with [[Lopen\|Lopen's]] cousins and the other new recruits. He did his first full bridge carry during Shallan's expedition to explore the Plains.
 
 >“*Prince Renarin, would you kindly slay this rock for me?*”
-\-Shallan to Renarin[66]
+\-Shallan to Renarin[67]
 
 Renarin went with Dalinar, Adolin, Shallan, and the rest of the Kholin, Sebarial, Roion, and Aladar warcamps on the expedition to the center of the Shattered Plains to look for [[Urithiru\|Urithiru]]. During the [[Battle of Narak\|Battle of Narak]] when Shallan determined the location of the [[Oathgate\|Oathgate]] Renarin gathered a group of soldiers and escorted her and her group of scholars to the plateau. When Shallan located the Oathgate's control building Renarin, ignoring the screams, used his Shardblade to cut an opening into the chamber within. Shallan tried using Renarin's Shardblade to unlock the portal, but since it was a [[Deadeye\|deadeye]], it did not work.
 
 >“*It's come, it’s come, it’s come, it’s come. We’re dead. We’re dead. We’re dead. . . .*”
-\-Renarin's mantra[43]
+\-Renarin's mantra[44]
 
 As Shallan and the scholars tried to figure out how to operate the Oathgate Renarin crouched on the floor of the building writing zeros all over the floor as he mumbled repeatedly about how he had seen the Everstorm coming and that they were doomed. Shallan threatened to gag him if he would not quiet down and he listened to her.
 After Dalinar bonded with the [[Stormfather\|Stormfather]] he met with Kaladin and Shallan, a meeting of Radiants. Renarin walked in and joined them, revealing that he too was a Knight Radiant. He told them that he was a [[Truthwatcher\|Truthwatcher]] and that his ability was that he saw the truth of things. Dalinar realized that this was why he had stopped wearing his eyeglasses, and that the reason he froze every time he summoned his Shardblade was because of the screams he was hearing.
@@ -175,7 +175,7 @@ After Dalinar bonded with the [[Stormfather\|Stormfather]] he met with Kaladin a
 After Sadeas's body was found lying in the hallways of Urithiru when Dalinar was giving orders to his generals and the other highprinces he told Renarin and Shallan to train and master their powers so they could be leaders and teachers for the coming Radiants. Renarin came to Adolin while he was their father's [[Ryshadium\|Ryshadium]], [[Gallant\|Gallant]], in one of the tower's stables. Renarin told Adolin that he had to return the Shardblade he had been given since the screams made it unusable for him. Adolin protested that it would leave him defenseless and after some prodding Renarin summoned Glys as a Blade to show him. While they were talking afterwards Renarin used his Surge of [[Progression\|Progression]] to heal Adolin's hand.
 
 >“*There's something down there, something … ancient. You’ve felt it, haven’t you? This place is weird; this whole tower is weird. You’ve noticed it too, right?*”
-\-Renarin[72]
+\-Renarin[73]
 
 When Shallan discovered [[Re-Shephir\|Re-Shephir]] in the lower levels of the tower, Renarin came with Adolin and the rest of [[Bridge Four\|Bridge Four]] in his Shardplate to help her fight off the [[Unmade\|Unmade]]. He was the one who discovered the slow-moving blackness of the Unmade, although it was [[Lyn\|Lyn]] who announced it. He was extremely unsettled by the sight, and did not respond when Adolin tried to pull him back to the rest of the group. Only when [[Teft\|Teft]] called him into formation like a superior officer did he respond and move. During the fight he healed Bridge Four as they were injured. He covered Adolin's back when they charged into the room with the gemstone pillar and he held his own while Shallan confronted Re-Shephir.
 After Kaladin returned from his trip through Alethkar Renarin went with the other members of Bridge Four back to the Shattered Plains for a training session. Rock invited Renarin to help him bake the bread for the rest of the squad. As they worked together, they discussed Renarin's role in Bridge Four now that most of the members were becoming [[Windrunner\|Windrunner]] [[Squire\|squires]]. Later, caravan carrying Rock's family was being attacked by Fused and the bridgemen raced to defend it. Renarin went and brought Adolin and two companies of troops to the scene. While the soldiers he brought arrived too late to help, Renarin's healing saved several men's lives.
@@ -202,7 +202,7 @@ Jasnah took Renarin's hand and pulled him through the city in a mad rush, jumpin
 When Renarin saw that Adolin, who had just emerged from the perpendicularity, had been injured he rushed over to him and healed his wounds. As Renarin made his way to the Oathgate he was slowed down by the crowds of people clogging the streets and Adolin went to help him. By the time Renarin had reached the Thunderclast Adolin and [[Hrdalm\|Hrdalm]] had begun fighting the monster. Renarin healed his brother and told them that he could take care of the Thunderclast on his own and that they should leave and go somewhere safer. As Renarin charged towards the monstrosity it slammed one of its fists on top of him, but Renarin was not fazed by this and simply used his Shardblade to cut the hand off at the wrist as his Stormlight healed his body. Renarin worked with Hrdalm to cut off the Thunderclast's limbs and then, at Glys's instruction, used Stormlight to drive the life out of its body. Renarin then instructed Hrdalm to go help with the fighting elsewhere and went to unlock the Oathgate. Renarin was surprised by this victory as his visions had predicted that he would die while fighting it.
 
 >“*I think I used up all my Radianting for the day. Um, I'll work the Oathgate and get more troops here. Maybe you two could go down and help on the city wall, pull wounded out of the front lines?*”
-\-Renarin after Bridge Four arrived in Thaylen City[40]
+\-Renarin after Bridge Four arrived in Thaylen City[41]
 
 As he approached the platform, he saw that there were twelve Fused hovering above it, guarding the Oathgate. A child motioned Renarin to go into a small building on the side where he found [[Teshav\|Teshav]] and several scribes. They told him that there had been an attack by the singers on Urithiru and they were unable to contact [[Malata\|Malata]] to have her open the portal. Renarin then went outside, summoned his Shardblade, and continued toward the Oathgate. As he neared the ramp onto the platform the Fused descended towards him. As four of the Fused saluted him Renarin had a vision predicting that [[Teft\|Teft]] would become Radiant and activate the Oathgate from Urithiru. He smiled at the Fused standing at attention before him, confusing them, and moments later this occurred as the Oathgate exploded with Light and an entire division of Kholin troops, led by Teft holding a glowing Shardspear, emerged from the Oathgate.
 When the Fused saw this they flew away and Renarin told Lopen and the other members of Bridge Four not to chase them away from the Oathgate, but rather they should stay near it and protect it from further attacks. [[Lyn\|Lyn]] tried asking him for commands, but Renarin told her that he was not in command but suggested that she and Rock could help with the wounded near the city's wall. He told them that was done being Radiant for the day and needed a break from all of the action. Before he flew off Rock surprised Renarin with a warm hug, and Renarin thanked him again for coming before sitting and resting. After the battle Renarin used his Stormlight to heal the wounded who were in most dire need of his help.
@@ -213,7 +213,7 @@ The [[Coalition of monarchs\|coalition]] decided to send the [[Stump\|Stump]] wi
 Renarin was part of Jasnah's plot to remove [[Ruthar\|Ruthar]] from his position as highprince. She had him wait outside of the tent they were in and called for him to come inside and heal Ruthar after she stabbed him through the throat. Afterwards, Renarin apologized to Dalinar for not telling him about the plan. Renarin also told Dalinar that he had had another vision, and they agreed to meet the next day to discuss it.
 
 >“*Does it strike you as cruel of fate, Father? My blood sickness gets healed, so I can finally be a soldier like I always wanted. But that same healing has given me another kind of fit. More dangerous than the other by far.*”
-\-Renarin to Dalinar[14]
+\-Renarin to Dalinar[15]
 
 The next night, while Renarin was eating the nightly stew with the [[Windrunner\|Windrunners]] listening to [[Sigzil\|Sigzil]] tell a story, Dalinar arrived to discuss his vision. Renarin told him that he was reconsidering whether or not it was wise to share what he had seen with anyone else, since he suspected that Odium could influence what he saw. Dalinar told him that even if Odium was influencing the visions, it would still be worth knowing what was shown in the vision. Renarin relented and they left the circle of Windrunners to discuss.
 When they had reached a quieter area outside the [[Laqqi\|village]], Renarin resummoned the vision so he could describe what he had seen with greater accuracy. He told Dalinar that he appeared in the vision in stark white Shardplate and was pierced by a black arrow, facing away from the image of Odium, who was depicted as a yellow and white light spreading to eternity. Renarin told Dalinar that he thought the vision was saying that Dalinar would keep on fighting small battles and never be given the chance to have an actual confrontation with Odium. He said that Odium had no reason to ever commit to an actual contest of champions, and would instead delay their confrontation indefinitely. Dalinar told Renarin that Odium had agreed to have the contest, but Renarin replied that since they had not agreed to a definite date and terms Odium would be able to push it off for as long as he wanted to. They then discussed how Odium's future sight was similar to Renarin's, in that they both only saw possibilities, not definite outcomes.
@@ -222,7 +222,7 @@ When they had reached a quieter area outside the [[Laqqi\|village]], Renarin res
 Dalinar asked him if he could see anything else in the vision, and Renarin told him that there was a blackness between Dalinar and Odium. Renarin told him that this represented himself. He explained that since his future sight affected what he will do, it made it difficult for Odium to see his future and the futures of the people around him. Dalinar thanked Renarin for this information and told him that he did not need to hide his abilities from others. Renarin thanked him for the vote of confidence, but inside he knew that since the Vorin and [[Azish\|Azish]] peoples had been told for thousands of years that seeing the future was evil they would never accept him if they knew what he could do.
 
 >“*If I'm a blessing, Father, how can we reject the others? How can we condemn the one who made them? Sja-anat isn’t human, and doesn’t think like one, but I believe she is trying to find a path toward peace between singers and humans. In her own way.*”
-\-Renarin to Dalinar[14]
+\-Renarin to Dalinar[15]
 
 At Glys's prompting Renarin asked Dalinar what he thought about additional Radiants bonding corrupted spren, since that would increase their access to future sight. Dalinar told him that he would have to consider it since he was not comfortable yet with the idea of Sja-anat corrupting more spren. Dalinar told Renarin that he should talk to him if he has any more visions, since he also had some experience with seeing visions. Glys asked Renarin who would be good fit for another spren like himself, and Renarin recommended Rlain.
 Later Renarin had a vision concerning Taravangian and visited him to ask him about it. He told Taravangian that something had changed about him and asked why, but Taravangian gave no answer. Renarin told him that in his vision he was shrouded in darkness, with small point of light breaking through. He said that this meant that there was a way to redeem him, if he chose to do so. Before he left, Renarin told Taravangian that he would let him know if he found a way to help him come to a decision. Sometime in the following weeks, Renarin gave Taravangian a note saying the words "I'm sorry" alongside two gemstones containing corrupted [[Windspren\|windspren]], allowing Taravangian to summon Rayse to his house so he would able to use [[Nightblood\|Nightblood]] to kill him and take up his [[Shard\|Shard]]. It is unclear of how much of the plot Renarin was aware.
@@ -251,7 +251,7 @@ Renarin is very friendly with [[Rlain\|Rlain]] and often goes out of his way to 
 
 
 >“*Kid, you're the expert on what’s weird. We’ll trust your word.*”
-\-Teft on Renarin[72]
+\-Teft on Renarin[73]
 
 
 ## Trivia

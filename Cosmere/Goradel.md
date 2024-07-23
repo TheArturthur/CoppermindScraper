@@ -1,6 +1,7 @@
 |**Goradel**|
 |-|-|
 |**Family**|
+|**Parents**|Parents|
 |**Descendants**|[[Claude Aradel\|Claude Aradel]]|
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Groups**|Venture army|
@@ -55,7 +56,7 @@ Somewhere on his way to Vin, the latter being on her way to [[Luthadel\|Luthadel
 
 ## Quotes
 >“*I don’t feel very expendable.*”
-\-Goradel to Sazed on being captured in Urteau[9]
+\-Goradel to Sazed on being captured in Urteau[10]
 
 
 ## Trivia

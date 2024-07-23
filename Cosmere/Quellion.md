@@ -1,5 +1,6 @@
 |**Quellion**|
 |-|-|
+|**Parents**|Mother|
 |**Siblings**|[[Beldre\|Beldre]]|
 |**Abilities**|[[Hemalurgy\|Hemalurgist]] |
 |**Aliases**|The Citizen|

@@ -1,6 +1,8 @@
 |**Adrotagia**|
 |-|-|
 ||
+|**Family**|
+|**Spouse**|Husband|
 |**Aliases**|Adro|
 |**Profession**|Scholar|
 |**Groups**|[[Diagram (group)\|Diagram]]|

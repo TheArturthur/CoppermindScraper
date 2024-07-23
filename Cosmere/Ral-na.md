@@ -3,7 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|King's consort|
-|**Children**|[[Talik\|Talik]]|
+|**Children**|[[Talik\|Talik]], Son|
 |**Abilities**|[[Order of Dustbringers\|Dustbringer]]|
 |**Residence**|[[Relu-na\|Relu-na]]|
 |**Nationality**|[[Reshi\|Reshi]]|

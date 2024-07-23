@@ -1,6 +1,6 @@
 |**Baxil**|
 |-|-|
-|**Relatives**|[[Av\|Av]] |
+|**Relatives**|[[Av\|Av]]|
 |**Profession**|Thief|
 |**Nationality**|[[Emuli\|Emuli]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

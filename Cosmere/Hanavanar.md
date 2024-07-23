@@ -1,5 +1,7 @@
 |**Hanavanar**|
 |-|-|
+|**Family**|
+|**Children**|Son|
 |**Died**|Tanatesev 1173|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|King of [[Jah Keved\|Jah Keved]]|

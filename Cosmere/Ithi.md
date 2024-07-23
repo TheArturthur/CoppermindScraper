@@ -1,6 +1,6 @@
 |**Ithi**|
 |-|-|
-|**Siblings**|Unnamed sister|
+|**Siblings**|Sister|
 |**Abilities**|[[Soulcaster\|Soulcaster]] |
 |**Profession**|[[Ardent\|Ardent]]|
 |**Religion**|[[Vorinism\|Vorinism]]|

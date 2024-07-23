@@ -5,6 +5,7 @@
 ||
 |**Family**|
 |**Children**|[[Savrahalidem\|Savrahalidem]]|
+|**Parents**|Mother|
 |**Descendants**|[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|granddaughter]]|
 |**Died**|1175|
 |**Abilities**|[[Old Magic\|Old Magic]], [[Shard\|Shard]] of [[Odium\|Odium]]|
@@ -20,7 +21,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am the monster who will save this world.*”
-\-Taravangian to Szeth[2]
+\-Taravangian to Szeth[3]
 
 
 **Taravangian** is the king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]], and the current Vessel of the [[Shard\|Shard]] [[Odium\|Odium]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius.
@@ -68,7 +69,7 @@
  
 For more images, see [[Taravangian/Gallery\|/Gallery]].
 >“*Someone must bear the responsibility, someone must be dragged down by it, ruined by it. Someone must stain their souls so others may live. Society offers us up to trudge through dirty waters so others may be clean.*”
-\-Taravangian to Dalinar[5]
+\-Taravangian to Dalinar[6]
 
 
 ### Appearance
@@ -171,7 +172,7 @@ Taravangian has three grandchildren who write to him. They are oblivious to the 
 
 ## Quotes
 >“*Our law will claim innocent men-for all judges are flawed, as is our knowledge. Eventually, you will execute someone who does not deserve it. This is the burden society must carry in exchange for order.*”
-\-Taravangian to Dalinar on executing three murderers and one innocent[17]
+\-Taravangian to Dalinar on executing three murderers and one innocent[18]
 
 
 >“*Nightwatcher, Odium's victory will kill you too. Couldn't you gift me and not curse me?*”

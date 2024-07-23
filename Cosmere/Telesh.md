@@ -1,5 +1,7 @@
 |**Telesh**|
 |-|-|
+|**Family**|
+|**Parents**|Father|
 |**Profession**|Maid|
 |**Residence**|[[Warcamp\|The Alethi warcamps]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

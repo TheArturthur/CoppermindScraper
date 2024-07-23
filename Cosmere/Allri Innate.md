@@ -2,6 +2,7 @@
 |-|-|
 |**[[House Innate\|House Innate]]**|
 |**Spouse**|[[Replar Innate\|Replar Innate]]|
+|**Children**|Children|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

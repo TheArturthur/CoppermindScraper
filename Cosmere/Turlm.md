@@ -1,5 +1,7 @@
 |**Turlm**|
 |-|-|
+|**Family**|
+|**Children**|Six daughters|
 |**Profession**|Sailor|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|

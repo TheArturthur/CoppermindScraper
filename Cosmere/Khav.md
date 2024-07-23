@@ -1,5 +1,7 @@
 |**Khav**|
 |-|-|
+|**Family**|
+|**Parents**|Father|
 |**Born**|~1150s|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|

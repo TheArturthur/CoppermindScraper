@@ -1,7 +1,9 @@
 |**Wzmal**|
 |-|-|
 |**Family**|
+|**Spouse**|Wife|
 |**Children**|[[Kmakra\|Kmakra]], [[Molinar\|Molinar]]|
+|**Parents**|Mother|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

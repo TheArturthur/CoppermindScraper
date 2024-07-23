@@ -2,8 +2,8 @@
 |-|-|
 ||
 |**Family**|
-|**Spouse**|Unnamed wife (deceased)|
-|**Children**|Unnamed son (deceased)|
+|**Spouse**|Wife|
+|**Children**|Son|
 |**Aliases**|The Mink|
 |**Profession**|Soldier|
 |**Nationality**|[[Herdazian\|Herdazian]]|

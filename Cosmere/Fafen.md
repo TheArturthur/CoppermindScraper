@@ -4,7 +4,7 @@
 |**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
 |**Siblings**|[[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Siri\|Siri]]|
 |**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestors**|[[Vo\|Vo]]|
+|**Ancestors**|Grandfather|
 |**Abilities**|[[Royal Locks\|Royal Locks]]|
 |**Titles**|Princess of [[Idris\|Idris]]|
 |**Profession**|Monk|
@@ -16,7 +16,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*The treaty," Vivenna said. "It protects our people.""Austre protects our people.*”
-\-Fafen and Vivenna discussing Siri's departure from Idris.[2]
+\-Fafen and Vivenna discussing Siri's departure from Idris.[3]
 
 
 **Fafen** is a princess of [[Idris\|Idris]], the third child of King [[Dedelin\|Dedelin]], with elder siblings being [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], and her younger sister being [[Sisirinah\|Sisirinah]]. Of the three sisters, Fafen is the middle sister in almost every way. She is midway in height between Vivenna and Siri, and less proper than Vivenna, though not as careless as Siri.

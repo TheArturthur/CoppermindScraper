@@ -1,5 +1,7 @@
 |**Maraga Dulcet**|
 |-|-|
+|**Family**|
+|**Siblings**|Sister|
 |**Profession**|Editor-in-chief|
 |**Residence**|[[Bilming\|Bilming]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
@@ -23,7 +25,7 @@ She is excited to meet [[Wax\|Wax]] because of his supposed friendship with [[Ja
 
 ## History
 >“*This... was a story. A **real** story. Not a whimsical tale about bug men or the dangers of electricity. This... this could get people killed.*”
-\-Maraga[1]
+\-Maraga[2]
 
 Maraga completed her journeymanship in the news business at the *Times* in Bilming, and at some later date she became the editor-in-chief of the *Sentinel of Truth*. Around 344 [[Catacendre\|PC]], [[Tobal Copper\|Tobal Copper]] approached Maraga with claims that his employers were building a bomb. Though she was skeptical at first, Tobal began to bring her more and more evidence until she was convinced he was telling the truth. By 348 [[Catacendre\|PC]], Tobal and Maraga met nightly in the basement of the offices for the *Sentinel of Truth*. Together, they pieced together evidence of the [[Set\|Set's]] work in creating underground bunkers, a rocket, and high powered bombs. They recorded their findings by scratching them into metal sheets. Tobal told Maraga that he suspected one night he simply wouldn't show up to their daily conversations; when that day came, Maraga became paranoid and hid out in the office building. Two weeks later, [[Waxillium\|Waxillium]], [[Wayne\|Wayne]], [[Marasi\|Marasi]], and [[Moonlight\|Moonlight]] found the address to the office in Tobal's rooms and confronted Maraga. She showed the group all of the evidence collected in the basement.
 When their meeting was interrupted by [[Telsin\|Telsin's]] arrival, Wax advised Maraga to flee to the countryside to live with family there. However, as she didn't have any family in the countryside, Marasi arranged with Moonlight for Maraga to seek asylum with the [[Ghostbloods\|Ghostbloods]] at their location in the Knightbridge district of Bilming.

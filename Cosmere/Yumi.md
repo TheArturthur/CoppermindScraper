@@ -1,6 +1,8 @@
 |**Yumi**|
 |-|-|
 ||
+|**Family**|
+|**Parents**|Parents|
 |**Abilities**|[[Yoki-hijo\|Yoki-hijo]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|Chosen, Honored One, Girl of commanding primal spirits|
 |**Profession**|Yoki-hijo|

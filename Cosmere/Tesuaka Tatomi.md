@@ -1,5 +1,7 @@
 |**Tesuaka Tatomi**|
 |-|-|
+|**Family**|
+|**Parents**|Parents|
 |**Profession**|Painter|
 |**Groups**|[[Nightmare Division\|Nightmare Division]], [[Dreamwatch\|Dreamwatch]]|
 |**Nationality**|[[Nagadan\|Nagadan]]|

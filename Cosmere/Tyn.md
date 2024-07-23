@@ -1,6 +1,8 @@
 |**Tyn**|
 |-|-|
 ||
+|**Family**|
+|**Parents**|Parents|
 |**Died**|Killed in self-defence by [[Shallan\|Shallan]], Ishanah 1173|
 |**Profession**|Con artist|
 |**Birthplace**|[[Tu Bayla\|Tu Bayla]]|
@@ -9,7 +11,7 @@
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*War means desperation, and desperation is our mother’s milk, kid.*”
-\-Tyn to Shallan[2]
+\-Tyn to Shallan[3]
 
 
 **Tyn** is a con artist and an associate of the [[Ghostbloods\|Ghostbloods]]. She is the head of the guards for [[Macob\|Macob's]] caravan.
@@ -40,7 +42,7 @@ Tyn likes having an acolyte, someone to nurture, under her wing. Shallan suspect
 
 ## Attributes and Abilities
 >“*The art of the con, of course. The grand act of pretending to be someone you aren't, then running off with the goods.*”
-\-Tyn[3]
+\-Tyn[1]
 
 
 Tyn doesn’t have any magical abilities, nor any particular strength. She is generally resourceful and talented in ways that make her a good con artist. Her spanreed connection to the Ghostbloods gives her access to important information, like Shallan’s background and the news on Jah Keved.

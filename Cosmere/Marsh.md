@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|[[Kelsier's mother\|Mother]]|
+|**Parents**|[[Kelsier's mother\|Mother]], Father|
 |**Siblings**|[[Kelsier\|Kelsier]]|
 |**Born**|c. 980 FE|
 |**Abilities**|[[/wiki/Bronze#Allomantic Use]], [[Hemalurgy\|Hemalurgist]]|
@@ -18,7 +18,7 @@
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Death is not a religion. It is a fact.*”
-\-Marsh[6]
+\-Marsh[7]
 
 
 **Marsh** is a half-[[Skaa\|skaa]] [[Bronze\|bronze]] [[Misting\|Misting]] (aka a [[Seeker\|Seeker]]) from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]], and an [[Inquisitor\|Inquisitor]] that carries out the will of [[Harmony\|Harmony]]. He is seen as the personification of death throughout [[Elendel Basin\|Elendel Basin]], and eventually even on other planets, such as [[Lumar\|Lumar]].

@@ -4,7 +4,7 @@
 |**Family**|
 |**Spouse**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
 |**Children**|[[Maxillium Ladrian\| Maxillium]], [[Tindwyl Ladrian\| Tindwyl]]|
-|**Parents**|[[Jackstom Harms\|Jackstom Harms]]|
+|**Parents**|[[Jackstom Harms\|Jackstom Harms]], Mother|
 |**Siblings**|[[Marasi Colms\|Marasi Colms]]|
 |**Relatives**|[[Armal\|Armal]]|
 |**Ancestors**|[[Spook\|Spook]]|
@@ -17,7 +17,7 @@
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*As I have said many times before, I am aware of my reputation. I must embrace my nature.*”
-\-Steris[2]
+\-Steris[3]
 
 
 **Steris Harms** is the daughter of Lord [[Jackstom Harms\|Jackstom Harms]] and the half-sister of [[Marasi Colms\|Marasi Colms]], as well as the fiancee and eventual wife of High Lord [[Waxillium Ladrian\|Waxillium Ladrian]]. Steris often states that she does not fit in well with other people, and she makes up for this by relentlessly memorizing social norms and relevant facts about [[Scadrian\|Scadrian]] society and by creating exhaustive lists of contingencies for any and every possible occasion. This led to being appointed as the Disaster Preparations Officer by the governor. She is autistic.
@@ -49,7 +49,7 @@
 ## Appearance and Personality
  
 >“*I’ve learned to fake being normal, but lists of prepared comments and jokes can only take me so far. People can sense that I’m not being authentic - that I don’t like the things they like or think the way they do.*”
-\-Steris to Wax[5]
+\-Steris to Wax[6]
 
 
 For more images, see [[Steris Harms/Gallery\|/Gallery]].
@@ -65,7 +65,7 @@ Steris was raised in Lord Harms household, with Lord and Lady Harms. Steris’s 
 
 ### Engagement to Wax and Capture by the Vanishers
 >“*I did not make these rules. Nor do I approve of them; many are inconvenient. But it is the society in which we live. Therefore I make of myself something that can survive in this environment.*”
-\-Steris to Wax[7]
+\-Steris to Wax[1]
 
 
 Steris makes a visit to the Ladrian mansion to discuss arranging an engagement between herself and Wax. This was the first time Steris and Wax had met in person, although they had been exchanging letters regarding a house union for several months. Steris presented Wax with a “thorough” document of at least 20 pages that outlined each stage of their courtship and engagement, as well as the terms of their eventual marriage, an arrangement that Wax agreed to. It was here that Steris also met [[Wayne\|Wayne]], in the guise of Wax’s fictional Uncle Maskil.

@@ -1,5 +1,7 @@
 |**Idren Seeris**|
 |-|-|
+|**[[House Elariel\|House Elariel]]**|
+|**Relatives**|[[Shan Elariel\|Shan Elariel]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

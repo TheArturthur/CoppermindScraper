@@ -1,5 +1,8 @@
 |**Graves**|
 |-|-|
+|**Family**|
+|**Spouse**|Wife|
+|**Children**|Son|
 |**Died**|Jes 1174|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Groups**|[[Diagram (group)\|Diagram]]|
@@ -9,7 +12,7 @@
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*We are patriots, as I said before. Patriots of Alethkar. The Alethkar that *could* be.*”
-\-Graves[2]
+\-Graves[1]
 
 
 **Graves** is an [[Alethi\|Alethi]] [[Shardbearer\|Shardbearer]] and member of the [[Diagram (group)\|Diagram]], who orchestrated several assassination attempts against King [[Elhokar Kholin\|Elhokar Kholin]].
@@ -41,7 +44,7 @@ On the [[Shattered Plains\|Shattered Plains]] Graves began working with [[Danlan
 The first plot involved weakening the balcony railing in the king's chambers and allowing the king to "accidentally" fall to his death. The railing was cut with a [[Shardblade\|Shardblade]], presumably by Graves himself, shortly after a [[Highstorm\|highstorm]], when Moash had an opportunity to discretely allow the saboteur through. Elhokar was able to hold on to the railing after it gave way, however, and was rescued by his guards. [[Kaladin\|Kaladin]] assesses this plan as both cowardly and stupid because it failed to directly confront the king and could as easily have hurt someone else.
 
 >“*We didn’t want the actual blood of the king on our hands, wanted to make this seem an accident, but I have realized this is cowardly. I will do the deed myself. All I want is an opening, and Alethkar’s suffering will be over.*”
-\-Graves asking for Kaladin's help[2]
+\-Graves asking for Kaladin's help[1]
 
 After this failure, Moash introduced Graves to Kaladin one evening at the [[Ornery Chull\|Ornery Chull]], hoping to earn the captain's support. Graves attempted to recruit Kaladin to their cause by appealing to Kaladin's experience as a surgeon. Though hesitant at first, Kaladin eventually agreed to aid in Graves' conspiracy. Graves developed a second plan in which Kaladin would lead Elhokar to a predetermined location where Graves himself would shoot the king with an arrow.
 

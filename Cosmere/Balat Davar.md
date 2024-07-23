@@ -5,6 +5,7 @@
 |**Spouse**|[[Eylita\|Eylita]]|
 |**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|mother]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
+|**Ancestors**|Grandfather|
 |**Born**|1150|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Veden\|Veden]]|
@@ -15,7 +16,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Am I a coward, Scrak?*”
-\-Balat to his axehound[2]
+\-Balat to his axehound[3]
 
 
 **Balat Davar** is a [[Lighteyed\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]]. He is the second oldest child of [[Lin Davar\|Lin Davar]] and his [[Shallan's mother\|mother]] and one of [[Shallan Davar\|Shallan Davar's]] older brothers. As the second heir in the line of [[House Davar\|House Davar]], he is originally known as **Tet Balat Davar**. He becomes known as **Nan Balat Davar** after his father disowns his older brother [[Helaran Davar\|Helaran]] and strips him of his position as first son and heir. He is married to [[Eylita Tavinar\|Eylita Tavinar]]. He is a guardsman in [[Urithiru\|Urithiru]]. He is friends with [[Mraize\|Mraize]], though only knows him as a guardsman named Gobby.

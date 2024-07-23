@@ -3,6 +3,7 @@
 |**Family**|
 |**Parents**|[[Taravangian\|Taravangian]]|
 |**Relatives**|[[Karavaniga\|Karavaniga]], [[Gvori\|Gvori]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Taravangian's granddaughter]]|
+|**Ancestors**|Grandmother|
 |**Titles**|Queen of [[Kharbranth\|Kharbranth]]|
 |**Aliases**|Savri|
 |**Residence**|[[Kharbranth\|Kharbranth]]|

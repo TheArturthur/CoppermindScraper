@@ -1,7 +1,7 @@
 |**Salay**|
 |-|-|
 ||
-|**Parents**|[[Salay's father\|Salay's father]]|
+|**Parents**|[[Salay's father\|Father]], Mother|
 |**Profession**|Pirate|
 |**Birthplace**|[[Islands of Lobu\|Islands of Lobu]]|
 |**Homeworld**|[[Lumar\|Lumar]]|
@@ -11,7 +11,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Guiding the ship is a privilege, and the helmsperson is an officer tasked with a serious duty.*”
-\-Hoid about Salay[1]
+\-Hoid about Salay[2]
 
 
 **Salay** is the helmswoman of the *[[Crow's Song\|Crow's Song]]* on [[Lumar\|Lumar]].
@@ -35,7 +35,7 @@ Like [[Tress\|Tress]], she had set out in search of someone she had lost: her [[
  Salay is a short, dark skinned woman with black, tightly-curled hair and delicate features. Her naval outfit as helmswoman of the *Crow's Song* is a coat and stiff trousers. She can have a short temper, but is very loyal to her friends and the crew of her ship; she takes the loss of members of her crew very personally and feels responsible for their wellbeing. [[Ann\|Ann]] claims Salay is bad at judging people. Salay is also quite courageous, being willing to stand up to Captain [[Crow\|Crow]] and to sail the [[Crimson Sea\|Crimson]] and [[Midnight Sea\|Midnight Seas]].
 ## Attributes and Abilities
 >“*It’s the helmswoman’s job to protect the ship. Keep a steady hand, steer clear of danger. Out of storms, away from spore explosions. Keep them safe somehow . . .*”
-\-Salay[1]
+\-Salay[2]
 
 
 Salay is an expert helmswoman. Her duties include sailing the ship on the spore seas, charting the distances traveled and avoiding storms as well as possible. The helmswoman also traditionally engages the captain of a captured ship. Salay also feels responsible for the welfare of her crewmates in her role as helmswoman. As helmswoman, Salay safely navigates the *Crow's Song* through battles on the [[Emerald Sea\|Emerald Sea]],, storms on the Crimson Sea, and through the maze of rocks surrounding the [[Sorceress's island\|Sorceress's island]] in the Midnight Sea.

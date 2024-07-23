@@ -2,6 +2,7 @@
 |-|-|
 ||
 |**Family**|
+|**Parents**|Mother, Father|
 |**Siblings**|[[Quellion\|Quellion]]|
 |**Abilities**|[[/wiki/Steel#Allomantic Use]]|
 |**Birthplace**|[[Urteau\|Urteau]]|

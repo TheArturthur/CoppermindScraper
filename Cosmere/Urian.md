@@ -1,5 +1,7 @@
 |**Urian**|
 |-|-|
+|**Family**|
+|**Siblings**|Brother|
 |**Titles**|[[Highprince\|Highprince]] of [[Jah Keved\|Jah Keved]]|
 |**Residence**|[[Vedenar\|Vedenar]]|
 |**Nationality**|[[Veden\|Veden]]|

@@ -1,6 +1,6 @@
 |**Adin**|
 |-|-|
-|**Parents**|[[Alalan\|Alalan]]|
+|**Parents**|[[Alalan\|Alalan]], Mother|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

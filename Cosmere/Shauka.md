@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Parents**|Hasweth|
-|**Siblings**|Ali|
+|**Siblings**|[[Ali-daughter-Hasweth\|Ali]]|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

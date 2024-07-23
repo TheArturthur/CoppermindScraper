@@ -1,5 +1,6 @@
 |**Alalan**|
 |-|-|
+|**Spouse**|Wife|
 |**Children**|[[Adin\|Adin]]|
 |**Profession**|Potter|
 |**Residence**|[[Urithiru\|Urithiru]]|

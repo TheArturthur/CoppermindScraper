@@ -7,7 +7,7 @@
 |**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
 |**Siblings**|[[Jasnah\|Jasnah]]|
 |**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Kaves\|Kaves]]|
-|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
+|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]], Grandmother, Grandmother|
 |**Born**|1147|
 |**Died**|[[Siege of Kholinar\|Siege of Kholinar]] 1174, killed by [[Moash\|Moash]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]], [[Order of Lightweavers\|Lightweaver]]|
@@ -22,7 +22,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Perhaps the liar here is me—lying to tell myself I could do this, that I could be a fraction of the man my father was.*”
-\-Elhokar[4]
+\-Elhokar[6]
 
 
 **Elhokar Kholin** is the king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] from 1167 to his death in 1174. He's the son of King [[Gavilar\|Gavilar]]
@@ -68,7 +68,7 @@
 ## Appearance and Personality
  
 >“*I **will** figure this out. I will be a king to be remembered.*”
-\-Elhokar[6]
+\-Elhokar[8]
 
 
 For more images, see [[Elhokar Kholin/Gallery\|/Gallery]].
@@ -78,7 +78,7 @@ While Elhokar is by no means an exceptional leader, he does have some potential,
 
 ## Attributes and Abilities
 >“*I see their faces in mirrors. Symbols, twisted, inhuman.*”
-\-Elhokar Kholin[8]
+\-Elhokar Kholin[10]
 
 
 By the time of his death, Elhokar is a budding [[Surgebinder\|Surgebinder]] of the [[Order of Lightweavers\|Order of Lightweavers]], although he passes away before he can finish stating the First Ideal. In the months or years leading up to his death, he's been seeing [[Cryptic\|Cryptics]], in their [[Shadesmar\|Shadesmar]] form, in mirrors. He seems to have also spotted a [[Physical Realm\|Physical]] form of a Cryptic at some point -- possibly [[Design\|Design]], the spren that began a proto-bond with him. If Elhokar had lived long enough to speak his first [[/wiki/Order of Lightweavers#Ideals of the Lightweavers]], it would be to admit that he was a bad king. Pretending he was a good king for years was also the lie that drew the Cryptics to him.
@@ -117,7 +117,7 @@ After the storm, Elhokar went outside on his balcony. The part of the railing he
 
 #### Return of the Assassin in White
 >“*He's come for me. I always knew he would. Like he came for Father...*”
-\-Elhokar whimpered when being towed away by his guards on Szeth's arrival[31]
+\-Elhokar whimpered when being towed away by his guards on Szeth's arrival[33]
 
 
 In the next storm, the king was sheltering in his palace again. Kaladin had dozed off for a second. When he woke up he insisted something was wrong and they needed to get the king to safety. The king disagreed as did Adolin. A moment later Dalinar woke from his vision, and agreed to follow Kal's instincts and leave. They quickly organized a retreat through the kitchens. Suddenly the corridor ahead was dark and they noticed a hole in the wall and a body on the ground. In the corridor stood the [[Assassin in White\|Assassin in White]]. Dalinar ordered Renarin to protect the king and take him back out while Dalinar, Adolin and Kaladin confronted the Assassin in White. During the fight the assassin said he did not come for Elhokar but for Dalinar. It ended when Kaladin pushed himself and the assassin out of the hole in the wall, plummeting into the air.
@@ -165,13 +165,13 @@ The day before the assault, Elhokar revealed himself to some of the lighteyes an
 When Kaladin and Azure led an army from the Wall Guard to the tailor, Elhokar rushed outside to greet them. Azure informed Elhokar that the voidbringers had arrived and could start their attack at any moment. In turn, Elhokar commended her for her work with the Wall Guard. When everyone gathered, Elhokar gave the last instructions, including tasking Kaladin with getting the queen and the heir to safety. Right then drums had begun sounding in the distance, the wall was under attack. Azure made the case to attack right away, and Elhokar ordered to march on the palace. Elhokar quietly gave a spanreed to the ardent from the wall guards, with instructions to alert Urithiru at all costs.
 
 >“*Elhokar, be a hero to the one you can save*”
-\-Kaladin to Elhokar, who met his eyes, then nodded [11]
+\-Kaladin to Elhokar, who met his eyes, then nodded [13]
 
 Together with Adolin and Azure, Elhokar led the assault on the steps of the palace. Each made for their own doorway and created an opening into the palace. They quickly took the entrance hall. The corridor to the Eastern Gallery was heavily guarded with a shield wall, but Elhokar commanded Azure to assault and clear the way. When the gallery was cleared and Kaladin and his men had secured the Sunwalk, Elhokar eyed the stairways. Elhokar and Kaladin led a group up the stairs to find the queen and heir. Near the top, Kal and the king went first to clear the landing with their Blades. Elhokar tried to appeal to the loyalty of the palace guards, to no avail. The cross the corridors and eventually Elhokar heard Aesudan's voice. Elhokar talked to Aesudan and asked about his son, who was playing with his 'friends'. The king questioned the queen who was clearly not thinking straight. In the mean time Kaladin found Gavinor surrounded by red glowing spren and freed him. The queen started boasting about her grand plans, but when the king heard his son scream he rushed over and took his son. Kal questioned the motives of the being behind the queen, but Aesudan answered that [[Yelig-nar\|Yelig-nar]] served her. Kal ordered the retreat.
 When they charged down the stairs, they heard sounds of fighting from below. Below it was parshman troops joining the fight, which caused Kaladin to freeze when he recognized them. Elhokar stood in the center of the room holding is son, amid some soldiers. It became a chaotic melee, which Kaladin tried to stop but couldn't. The guards around Elhokar fell and he got hit in his arm. The king fell to his knees holding  his son in one arm and Shallan's sketch of him in the other. He then started to stutter, while slowly starting to glow:
 
 >“*Life... life before death..., Strength... before weakness.... Journey.  Journey before...*”
-\-Elhokar stutteringly trying to speak the First Ideal[11]
+\-Elhokar stutteringly trying to speak the First Ideal[13]
 
 
 Before he could finish the last phrase, a tall, lean man emerged from the battle. [[Moash\|Moash]] ran Elhokar through the chest with his spear. He then pinned the king to the ground and stabbed him through the eye until the king was dead.

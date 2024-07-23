@@ -1,6 +1,8 @@
 |**Av**|
 |-|-|
-|**Relatives**|[[Baxil\|Baxil]] |
+|**Parents**|Mother, Father|
+|**Siblings**|Brothers|
+|**Relatives**|[[Baxil\|Baxil]]|
 |**Profession**|Thief|
 |**Nationality**|[[Emuli\|Emuli]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

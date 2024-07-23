@@ -1,6 +1,7 @@
 |**Valette Entrone**|
 |-|-|
 |**[[House Entrone\|House Entrone]]**|
+|**Spouse**|Husband|
 |**Relatives**|[[Gave Entrone\|Gave Entrone]]|
 |**Ancestors**|[[Charrs Entrone\|Charrs Entrone]]|
 |**Residence**|[[Elendel\|Elendel]]|

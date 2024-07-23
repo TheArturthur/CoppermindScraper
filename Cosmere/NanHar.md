@@ -1,7 +1,7 @@
 |**NanHar**|
 |-|-|
 |**Family**|
-|**Siblings**|NanKhet|
+|**Siblings**|[[NanKhet\|NanKhet]], Sister |
 |**Died**||
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

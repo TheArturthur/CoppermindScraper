@@ -1,6 +1,7 @@
 |**Rebeke Salvage**|
 |-|-|
 ||
+|**Parents**|Mother|
 |**Siblings**|[[Elegy\|Elegy]], [[Divinity\|Divinity]]|
 |**Abilities**|[[Charred\|Charred]]|
 |**Titles**|Sunlit One|

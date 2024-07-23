@@ -1,5 +1,7 @@
 |**Naget**|
 |-|-|
+|**Family**|
+|**Parents**|Father|
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|
 |**Nationality**|[[Alethi\|Alethi]]|

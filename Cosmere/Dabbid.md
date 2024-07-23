@@ -1,6 +1,8 @@
 |**Dabbid**|
 |-|-|
 ||
+|**Family**|
+|**Parents**|Mother|
 |**Aliases**|Moolie|
 |**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|

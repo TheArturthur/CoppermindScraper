@@ -1,5 +1,7 @@
 |**Cenn**|
 |-|-|
+|**Family**|
+|**Parents**|Father, Mother|
 |**Born**|1157|
 |**Died**|Ishi 1172|
 |**Profession**|[[Chull\|Chull]] farmer, Spearman in Amaram's army|

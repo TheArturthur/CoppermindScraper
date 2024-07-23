@@ -1,8 +1,9 @@
 |**Kmakra**|
 |-|-|
 |**Family**|
-|**Parents**|[[Wzmal\|Wzmal]]|
+|**Parents**|[[Wzmal\|Wzmal]], Mother|
 |**Siblings**|[[Molinar\|Molinar]]|
+|**Ancestors**|Grandmother|
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

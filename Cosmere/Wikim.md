@@ -4,6 +4,7 @@
 |**[[House Davar\|House Davar]]**|
 |**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
+|**Ancestors**|Grandfather|
 |**Born**|c. 1154|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Veden\|Veden]]|

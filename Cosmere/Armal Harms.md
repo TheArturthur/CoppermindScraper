@@ -1,6 +1,8 @@
 |**Armal**|
 |-|-|
 |**[[House Harms\|House Harms]]**|
+|**Spouse**|Husband|
+|**Children**|Children|
 |**Relatives**|[[Steris Harms\|Steris Harms]], [[Marasi Colms\|Marasi Colms]], [[Jackstom Harms\|Jackstom Harms]], [[Maxillium Ladrian\|Maxillium Ladrian]], [[Tindwyl Ladrian\|Tindwyl Ladrian]]|
 |**Ancestors**|[[Spook\|Spook]]|
 |**Abilities**|[[/wiki/Zinc#Allomantic Use]]|

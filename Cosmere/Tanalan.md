@@ -1,6 +1,7 @@
 |**Tanalan**|
 |-|-|
 ||
+|**Children**|Children|
 |**Parents**|[[Tanalan's father\|Father]], [[Tanalan's mother\|mother]]|
 |**Born**|1135|
 |**Died**|1163|
@@ -28,7 +29,7 @@ For the previous lord of [[Rathalas\|Rathalas]], see [[Tanalan's father\|Tanalan
 ## History
 ### Childhood
 >“*You can't have my daddy. Daddy said... we fight monsters. And with faith, we will win...*”
-\-Child Tanalan[1]
+\-Child Tanalan[2]
 
 
 At the age of seven Tanalan witnessed his [[Tanalan's father\|father]] die at the hands of [[Dalinar\|Dalinar]] Kholin. At the arrival of [[Gavilar\|Gavilar]] Kholin's and [[Torol Sadeas\|Torol Sadeas']] armies, Tanalan and his [[Tanalan's mother\|mother]] were sent to hide within a secret room, set within the rock and hidden behind a [[Crem\|crem]]-covered door. After Tanalan's father was gravely injured during battle with Dalinar, his guards attempted to hide him within the same hidden chamber; however, they were pursued by the Blackthorn. When Dalinar arrived, he found Tanalan's father dead and Tanalan attempting to defend his parents using the [[Shardblade\|Shardblade]] [[Oathbringer (Shardblade)\|Oathbringer]]. Despite orders to kill Tanalan, Dalinar allowed him and his mother to escape.

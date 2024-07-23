@@ -2,6 +2,7 @@
 |-|-|
 |**[[House Innate\|House Innate]]**|
 |**Spouse**|[[Allri Innate\|Allri Innate]]|
+|**Children**|Children|
 |**Siblings**|[[Winsting Innate\|Winsting Innate]]|
 |**Died**|342 [[Catacendre\|PC]]|
 |**Titles**|Governor|

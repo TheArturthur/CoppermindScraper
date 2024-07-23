@@ -190,6 +190,7 @@ For a full list, see, see :Category: Surgebinders.
 [[Szeth\|Szeth]] (bonded to an [[Szeth's highspren\|unnamed highspren]])
 [[Malata\|Malata]] (bonded to [[Spark\|Spark]])
 [[Lift\|Lift]] (bonded to [[Wyndle\|Wyndle]])
+[[Godeke\|Godeke]] (bonded to [[Archinal\|Archinal]])
 [[Stump\|Arshqqam]] (bonded to [[Dreaming-though-Awake\|Dreaming-though-Awake]])
 [[Renarin Kholin\|Renarin Kholin]] (bonded to [[Glys\|Glys]])
 [[Rlain\|Rlain]] (bonded to [[Tumi\|Tumi]])

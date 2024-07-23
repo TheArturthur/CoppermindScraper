@@ -2,8 +2,10 @@
 |-|-|
 ||
 |**Family**|
+|**Children**|At least thirteen children|
 |**Parents**|[[Jedal\|Jedal]], [[Margel\|Margel]]|
 |**Relatives**|[[Cladent\|Cladent]]|
+|**Ancestors**|Grandfather|
 |**Descendants**|[[Elendel\|Elendel]] noble houses|
 |**Born**|1007|
 |**Abilities**|[[/wiki/Tin#Allomantic Use]] , [[Allomancy\|Mistborn]], [[Hemalurgy\|Hemalurgist]]|
@@ -59,7 +61,7 @@ His confidence was not constant, and he had a feeling of inferiority, of being i
 ## Attributes and Abilities
  
 >“*Tin burning ... Notting about the seeing. Wasing about the not seeing.*”
-\-Spook giving advice on burning tin to Vin[11]
+\-Spook giving advice on burning tin to Vin[13]
 
 
 Spook's grandfather had noble blood; it is likely this was his maternal grandfather as [[Cladent\|his mother's brother]] was also an [[Allomancer\|Allomancer]]. As a result, Spook is a [[Tineye\|Tineye]]. He is the best one on Kelsier's crew, and so usually gets the most important watches. After Clubs' death, he begins constantly flaring his tin because he thinks it will make him more useful, turning himself into a tin [[Savant\|savant]]. As a result of this, he can feel disturbances in the air, sense tremors in the floor, and could know where people were simply by how close their heartbeats sounded. However, it also leaves him very vulnerable to sudden and strong stimuli, and he often keeps his ears partially plugged and his eyes covered.
@@ -96,7 +98,7 @@ He convinced Sazed to reverse engineer the lake built by the Lord Ruler so he co
 Because he liked Beldre, he went to see her again, asked her to join him, but she refused and started screaming. Later, she went to their hiding place and spoke on her brother’s behalf. Under Ruin’s influence with Kelsier’s voice, Spook took her captive spreading the rumor she had escaped her brother. He expected Quellion to attack. Spook and Beldre had another conversation later, where she confirmed her brother used to be a good man corrupted by power and Spook is bothered by the conversation, still with the encouragement of Ruin, he accepted the title of Survivor of the Flames and was happy with the attention.
 
 >“*We won’t abandon the city, Sazed.*”
-\-Spook to Sazed in the battle of Urteau[15]
+\-Spook to Sazed in the battle of Urteau[16]
 
 The city was ready for a revolt, Quellion was about to do a hate speech against Spook. The latter killed the Citizen’s guards and fought him, looking for him to shoot coins and prove himself an Allomancer to complete the city’s hatred. Beldre got there and shoots Spook to save her brother. The City riots as they understood what she is and that their ruler had killed their noble blood family but not his sister. Spook felt betrayed and Kelsier’s voice pushed him to kill her and use her spike to get her power. The hate speech from Kelsier and the spike information helped him understand it was the spike at the first fire that had caused all this. Looking at Quellion, he correctly guessed he was being affected too. He took out Quellion's spike first and then his. He lost Pewter and was almost out of breath. He saw the city in flames and waited for the water to flood the city. Beldre confirmed she had killed the soldiers to escape and there was no one to flood the city. They went back along with Sazed and find the building in flames, they were about to return defeated when he heard Kelsier’s real voice, who said he had chosen him as his friend. Spook went into the burning building and as he had no more strength, he just threw his weight to the machine to get it moving and collapsed.
 After Spook saved the city from destruction, while he was in a coma, Kelsier was able to communicate with him. He gave encouragement and praise, but mostly explained Vin had a spike and was hearing Ruin. Spook then wrote [[Spook's note\|a message]] on a metal sheet saying "Don't trust anyone pierced by metal. Even the smallest bit can taint a man." [[Goradel\|Goradel]] offered to take it to Vin, but was intercepted and killed by [[Marsh\|Marsh]], who was under Ruin's control. However, just as Kelsier had intended all along, the note allowed Marsh to figure out that [[Vin's earring\|Vin's earring]] was a spike and resist Ruin's control for long enough to rip the earring out.
@@ -106,7 +108,7 @@ After the [[Final Ascension\|Final Ascension]], Spook woke to the new world crea
 Shortly after the Catacendre, Spook began receiving instruction on how to be a king from Breeze and combat training with Ham. The other survivors insisted he have a nicer log house with two stories, which he thought of as a mansion and made him uncomfortable since everyone else has so little. Beldre also lived in that house with him. Spook was also something of a "stud" after the Final Ascension having over a dozen children.
 
 >“*And you? What do you get from this?*”
-\-Spook to Kelsier on working together to better understand the Metallic Arts[18]
+\-Spook to Kelsier on working together to better understand the Metallic Arts[19]
 
 Kelsier found a way to contact Spook in a dream and told him to forge an old Inquisitor spike into an earring. Spook managed to find a smith willing to do so and, against his better judgment, placed it on his ear. After that, he was able to see Kelsier because, between his broken mind and the Hemalurgic spike, he was able to see far enough into the [[Cognitive Realm\|Cognitive Realm]]. Kelsier then convinced him that their ignorance of the [[Cosmere\|cosmere]] has almost resulted in the destruction of Scadrial and that they needed to work together to learn about the principles of the cosmere. Kelsier also implied that they could try to find a way to give Spook [[Feruchemy\|Feruchemy]], and thus the same powers the Lord Ruler had through [[Compounding\|Compounding]], and that he wanted to find a way to return to the [[Physical Realm\|Physical Realm]]. Likely as a result of these investigations, Spook wrote a book on [[Hemalurgy\|Hemalurgy]] and was later known for having asked whether [[Harmony\|Harmony]] had a God Metal.
 According to [[Steris\|Steris]], Spook ruled as an emperor for a century before stepping down from power, after which [[Elendel\|Elendel]] was no longer supposed to exercise direct authority over the rest of the [[Elendel Basin\|Elendel Basin]]. As a ruler, he built buildings for the poor trying to avoid the development of slums and enacted laws to give power to the common people like Elend wanted. He also exerted a personal influence on society; his Eastern street slang became known as [[High Imperial\|High Imperial]] and was used for official documents. It appears he did not enjoy all of the duties associated with kingship, as he had Breeze write most of his speeches for him. In the book he wrote about Hemalurgy, he advised that creating Hemalurgic constructs is more trouble than it's worth, and argued that the old and sickly Metalborn should be used to create spikes to pass down the Metallic Arts. By 341 [[Catacendre\|PC]], his abilities as a Mistborn had transformed him into a near-mythological figure and he was known as the "Lord Mistborn." It is uncertain whether he ended up dying after his reign, as he almost certainly used [[Atium\|atium]] [[Compounding\|Compounding]] to extend his life past that of a normal human, being at least 115 years old when he stepped down.

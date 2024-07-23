@@ -4,6 +4,8 @@
 |**[[Lunamor's family\|Lunamor's family]]**|
 |**Parents**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
 |**Siblings**|[[Gift\|Gift]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]]|
+|**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
+|**Ancestors**|Grandfather, Grandmother|
 |**Abilities**|[[Sighted\|Sighted]], [[Shardbearer\|Shardbearer]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
@@ -12,7 +14,7 @@
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I realized that I liked ... being able to prove that I could survive frightening things.*”
-\-Cord to Rysn[2]
+\-Cord to Rysn[4]
 
 
 **Hualinam’lunanaki’akilu**, also known as **Cord**, is an [[Unkalaki\|Unkalaki]] on [[Roshar\|Roshar]]. The name Hualinam’lunanaki’akilu is a poem about a wedding band. She is [[Lunamor\|Lunamor]] and [[Tuaka\|Tuaka's]] eldest daughter and the twin sister of [[Gift\|Gift]].
@@ -56,14 +58,14 @@ After [[Huio\|Huio]] delivered a letter to her, Cord mentioned to him and Lopen 
 When the crew of the *Wandersail* went ashore following the encounter with [[Sleepless\|Sleepless]] in the form of a dead [[Santhid\|santhid]], Cord made a stew for the crew. She brought Rysn a bowl and, after discovering that they both spoke [[Veden\|Veden]], told her the stories she knew of the [[Sleepless\|Gods Who Sleep Not]], the Unkalaki name for the Sleepless.
 
 >“*There are gods that you call spren. There are gods that are like people. But some gods ... some gods are neither.*”
-\-Cord to Rysn[9]
+\-Cord to Rysn[10]
 
 As a final attempt to make the *Wandersail* turn away from its task, [[Nikli\|Nikli]] attempted to frame Cord by making it appear that she had [[Blackbane\|poisoned]] the ship's pet, [[Screech\|Screech]]. However, Rysn saw through his deceit. Cord later thanked Rysn for believing that she was "good". The ship continued on to [[Aimia\|Aimia]], and Cord took shelter from the storm as they sailed through it. As soon as they cleared the tempest, Lopen sent for her to scout for [[Spren\|spren]].
 Cord remained on board the ship while a landing party went to look at [[Akinah\|Akinah]]. As she waited with Rysn, they watched as [[Chiri-Chiri\|Chiri-Chiri]] made an unexpected dive off the ship, following some [[Luckspren\|luckspren]] into the sea. Despite hearing from the landing party that the island seemed safe, Cord elected to stay back with Rysn. She revealed to the [[Thaylen\|Thaylen]] that her primary motivator for joining the expedition was to acquire [[Shardplate\|Shardplate]] and [[Shardblade\|Shardblades]] for her people. She feared that when the rest of [[Roshar\|Roshar]] discovered the existence of Cultivation's Perpendicularity, they would attempt to claim the Horneater Peaks. The two of them agreed that something seemed off about the treasure lying around on the beach.
 When Nikli and the other Sleepless boarded the *Wandersail*, Cord revealed that she did not know the Sleepless could take human form, that they could not be fought, and that [[Lunu'anaki\|Lunu'anaki]] had warned of the danger the Sleepless presented during her grandmother's time. Nikli told Cord that he did not expect the presence of a Sighted on the expedition, and that the Sleepless did not kill Sighted lightly. Cord then shouted something at Nikli in the Horneater language as a distraction, grabbed Rysn, and dove into the water.
 
 >“*I am of the Peaks. Guardians of the pool. You know I can be trusted.*”
-\-Cord to Nikli[17]
+\-Cord to Nikli[18]
 
 In the water, luckspren guided the pair to a hidden set of caverns. The cavern contained a set of Shardplate, eight [[Soulcaster\|Soulcasters]], and a mural depicting the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Cord claimed this Shardplate for herself, thereby becoming a Shardbearer. She borrowed the [[/wiki/Polestone#Ruby]] from Rysn's chair to power part of the Plate, then went off in search of more gems. Cord only managed to get half of the Plate on when she was summoned back to the main chamber by Nikli's arrival. She and Rysn attempted to negotiate with him, but he became enraged when he discovered that Rysn had taken the [[Dawnshard\|Dawnshard]]. Chiri-Chiri's arrival forestalled Nikli's attempt to kill Rysn and Cord, and Cord also noticed the arrival of a large number of luckspren. Rysn resumed her bargaining, and Nikli told Cord that if she were to take the Shardplate, she would be binding herself to the position of a guardian of the Dawnshard. She refused to take the position right away, saying that she would first learn to use the Plate and then would think about what the position would mean. When Nikli told them the background of the Dawnshard, Cord realized that her people had songs telling of the time when that particular [[Command\|Command]] had come through the Perpendicularity. She became the only other human to know the full details of the deal between Rysn and the Sleepless, being sworn to secrecy in the process. A year later Rysn tells her [[Babsk\|babsk]] [[Vstim\|Vstim]] as well.
 
@@ -75,7 +77,7 @@ When the coalition launched their offensive in [[Emul\|Emul]], Cord joined herse
 ## Relationships
 ### Lunamor
 >“*I will fight the Void, as my father refuses to do.*”
-\-Cord[17]
+\-Cord[18]
 
 
 As [[Lunamor\|Lunamor's]] daughter, Cord loves him very much. She shares with him the trait of being able to see [[Spren\|spren]] and also has learned from him to enjoy cooking. However, she disagrees with his choice to be a pacifist and resolves to fight alongside the [[Coalition of monarchs\|coalition]] in opposition to [[Odium\|Odium]]. She feels that her father is clinging to tradition during a time when they need to change in order to save their people. Cord understands her father's outlook and does not try to change his mind in seeking judgement over his killing of [[Amaram\|Amaram]]; however, she sees that in returning to the [[Horneater Peaks\|Horneater Peaks]] for that purpose she will need to step in and fill the role he had previously had in [[Urithiru\|Urithiru]].

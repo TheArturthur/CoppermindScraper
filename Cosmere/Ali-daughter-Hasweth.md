@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Parents**|Hasweth|
-|**Siblings**|Shauka|
+|**Siblings**|[[Shauka-daughter-Hasweth\|Shauka]]|
 |**Profession**|Scholar|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

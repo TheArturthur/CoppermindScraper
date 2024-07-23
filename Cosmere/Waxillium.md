@@ -2,8 +2,9 @@
 |-|-|
 ||
 |**[[House Ladrian\|House Ladrian]]**|
-|**Spouse**|[[Paalm\|Paalm]] , [[Steris Harms\|Steris Harms]] |
+|**Spouse**|[[Paalm\|Paalm]], [[Steris Harms\|Steris Harms]]|
 |**Children**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
+|**Parents**|Mother, Father|
 |**Siblings**|[[Telsin Ladrian\|Telsin]]|
 |**Relatives**|[[Edwarn Ladrian\|Edwarn]], [[Hinston\|Hinston]]|
 |**Ancestors**|[[Edgard Ladrian\|Edgard Ladrian]], [[Allrianne Cett\|Allrianne Cett]], [[Ashweather Cett\|Ashweather Cett]], [[Allrianne's mother\|Allrianne's mother]], [[Vwafendal\|Vwafendal]]|
@@ -21,7 +22,7 @@
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The definition of a lawman, Uncle, is easy... He's the man who takes the bullet so nobody else has to.*”
-\-Wax[3]
+\-Wax[4]
 
 
 **Waxillium Ladrian**, or **Wax** for short, is a [[Twinborn\|Twinborn]] and Sixteenth High Lord of [[House Ladrian\|House Ladrian]] on [[Scadrial\|Scadrial]]. Among the [[Terris\|Terris]], Wax is known as **Asinthew**. He grew up in [[Elendel\|Elendel]], but left the city to escape its politics, eventually living as a lawman in the [[Roughs\|Roughs]] for twenty years. He returned to Elendel in 341 [[Catacendre\|PC]], after receiving word of [[Edwarn Ladrian\|his uncle's]] death, to become High Lord of his House, though he continues to investigate notable criminals, particularly those connected with the [[Set\|Set]]. Wax is a Crasher, a Twinborn combination of [[Steel\|steel]] [[Misting\|Misting]] (aka a [[Coinshot\|Coinshot]]) and an [[Iron\|iron]] [[Ferring\|Ferring]] (aka a Skimmer).
@@ -90,13 +91,13 @@
  
 For more images, see [[Waxillium Ladrian/Gallery\|/Gallery]].
 >“*That's the part that doesn't make sense. Everyone knows I'm irreparably handsome.*”
-\-Wax[8]
+\-Wax[9]
 
 
 Wax is tall with tan skin , an intense face, and eyes that are sometimes described to be as cold as icicles. Though the twenty years he spent living in the Roughs have taken their toll on his appearance' leaving his hands calloused and his dark hair streaked with gray, he still maintains the lean, muscular body of his youth. Accustomed to regularly sitting for a shave, Wax still believes he could use a nice scar on his face, in good Roughs fashion.
 
 >“*His clothing was terribly dusty, but well tailored: a fine suit, a silver cravat at the neck, twinkling cuff links on the sleeves of his fine white shirt. He had cultivated a look that appeared out of place, as if he were planning to attend a fine ball back in Elendel rather than scrambling through a dead town in the Roughs hunting a murderer.*”
-\-Wax tracking an outlaw[14]
+\-Wax tracking an outlaw[15]
 
 In addition to his metalminds, a pair of [[Iron\|iron]] bracers he wears on his upper arms typically hidden by the cuffs of his sleeves, Wax favors wearing an [[Aluminum\|aluminum]]-lined, Roughs-style hat, as well as a long, mistcloak duster over his fine city suit, vest, and cravat. Wax tends to be unnaturally light on his feet, due to his habit of nearly constantly filling his metalminds with a small percentage of his weight.
 When on patrol, Wax adds a shotgun to the pocket of his tasseled mistcloak and straps on a gunbelt fully stocked with spent bullet casings and whiskey-filled metal vials, to compliment the dual pistols holstered on his hips.
@@ -304,7 +305,7 @@ He has always had a rather antagonistic relationship with his sister, which was 
 
 
 >“*Steris, I think we're all like that. Shuffled from place to place by duty, or society, or God Himself. It seems like we're just along for the ride, even in our own lives. But once in a while, we do face a choice. A real one. We may not be able to choose what happens to us, or where we'll stop, but we point ourselves in a direction.*”
-\-Wax[11]
+\-Wax[12]
 
 
 >“*I have done something to help. I sent you.*”

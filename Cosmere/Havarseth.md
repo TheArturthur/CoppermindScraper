@@ -1,6 +1,8 @@
 |**Havarseth**|
 |-|-|
 ||
+|**Family**|
+|**Children**|Daughters|
 |**Aliases**|Bluefingers|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Pahn Kahl\|Pahn Kahl]]|
@@ -9,7 +11,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*You should watch yourself, child. Not all here in the palace is as it seems.*”
-\-Bluefingers to Siri.[1]
+\-Bluefingers to Siri.[2]
 
 
 **Havarseth**, better known as **Bluefingers**, is a [[Pahn Kahl\|Pahn Kahl]] servant to the [[God King\|God King's]] palace on [[Nalthis\|Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
@@ -34,15 +36,15 @@ Eventually it is revealed that he betrayed Siri, hoping to help secure independe
 
 ## Quotes
 >“*My name is Havarseth, but everyone just calls me Bluefingers. I am head scribe and steward to His Excellent Grace Susebron, God King of Hallandren. In simpler terms, I manage the palace attendants and oversee all servants in the Court of Gods.*”
-\-Bluefingers introducing himself to Siri[2]
+\-Bluefingers introducing himself to Siri[3]
 
 
 >“*All apologies, Vessel, but I'm not a follower of the Returned.*”
-\-Bluefingers to Siri on his faith.[3]
+\-Bluefingers to Siri on his faith.[4]
 
 
 >“*As close as any servant considered unholy. I'm not allowed to touch him or speak to him. But, Princess, I've served him all my life. He's not my god, but he's something better. I think these priests look upon their gods as placeholders. It doesn't really matter to them who is holding the station. Me, I've served His Majesty for my entire life. I was hired by the palace as a lad and I remember Susebron's childhood. I cleaned his quarters. He's not my god, but he is my liege. And now these priests are planning to kill him.*”
-\-Bluefinger to Siri on serving Susebron.[5]
+\-Bluefinger to Siri on serving Susebron.[1]
 
 
 ## Trivia

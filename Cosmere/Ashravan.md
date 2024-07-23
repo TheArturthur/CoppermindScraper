@@ -3,6 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Kurshina\|Kurshina]]|
+|**Siblings**|Brother|
 |**Titles**|Emperor of the [[Rose Empire\|Rose Empire]]|
 |**Groups**|[[Heritage Faction\|Heritage Faction]]|
 |**Birthplace**|[[Ukurgi\|Ukurgi]]|

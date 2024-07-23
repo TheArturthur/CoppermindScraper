@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|[[Charlie's father\|Charlie's father]]|
+|**Parents**|[[Charlie's father\|Father]], Mother|
 |**Relatives**|[[Dirk\|Dirk]]|
 |**Aliases**|Huck|
 |**Profession**|Pirate, ducal heir |
@@ -14,7 +14,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It might be said that [Charlie] had a way with words. In that words often got away from him.*”
-\-Hoid[1]
+\-Hoid[2]
 
 
 **Charlie** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]], and son of the island's [[Duke\|duke]].

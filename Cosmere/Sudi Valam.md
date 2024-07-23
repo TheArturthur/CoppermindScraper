@@ -1,6 +1,7 @@
 |**Sudi Valam**|
 |-|-|
 |**Family**|
+|**Spouse**|Husband|
 |**Parents**|[[Valam\|Valam]]|
 |**Siblings**|[[Redin\|Redin]]|
 |**Born**|c. 1117|

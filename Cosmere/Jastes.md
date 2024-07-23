@@ -1,6 +1,8 @@
 |**Jastes Lekal**|
 |-|-|
 |**[[House Lekal\|House Lekal]]**|
+|**Parents**|Parents|
+|**Siblings**|Sister|
 |**Relatives**|[[Audil Lekal\|Audil Lekal]]|
 |**Died**|Killed by [[Elend\|Elend]]|
 |**Birthplace**|[[Luthadel\|Luthadel]]|

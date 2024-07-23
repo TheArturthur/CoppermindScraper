@@ -1,7 +1,7 @@
 |**Neturo-son-Vallano**|
 |-|-|
 |**Family**|
-|**Children**|[[Szeth\|Szeth]], daughter|
+|**Children**|[[Szeth\|Szeth]], Daughter|
 |**Parents**|Vallano|
 |**Died**|c. Vev 1175, encounter with [[Ishar\|Ishar]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|

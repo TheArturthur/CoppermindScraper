@@ -3,7 +3,7 @@
 ||
 |**[[Teo Royal Family\|Teo Royal Family]]**|
 |**Spouse**|[[Jalla\|Jalla]]|
-|**Parents**|[[Daora\|Daora]], [[Kiin\|Kiin]]|
+|**Parents**|[[Daora\|Daora]], [[Kiin\|Kiin]], Father|
 |**Siblings**|[[Adien\|Adien]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
 |**Nationality**|[[Arelene\|Arelene]]|
 |**Homeworld**|[[Sel\|Sel]]|

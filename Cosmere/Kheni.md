@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Cob (Stormlight)\|Cob]]|
-|**Children**|unnamed child|
+|**Children**|Daughter|
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

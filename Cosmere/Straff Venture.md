@@ -3,7 +3,7 @@
 ||
 |**[[House Venture\|House Venture]]**|
 |**Spouse**|[[Elend's mother\|Wife]]|
-|**Children**|[[Elend\|Elend]], [[Zane\|Zane]]|
+|**Children**|[[Elend\|Elend]], [[Zane\|Zane]], Multiple children|
 |**Died**|1023 [[Final Empire\|FE]]|
 |**Abilities**|[[/wiki/Tin#Allomantic Use]]|
 |**Titles**|King of the [[Northern Dominance\|Northern Dominance]]|

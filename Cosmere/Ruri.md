@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Parents**|[[Allriandre\|Allriandre]]|
-|**Ancestors**|[[Durkel\|Durkel]]|
+|**Ancestors**|[[Durkel\|Durkel]], Grandmother|
 |**Born**|345 [[Catacendre\|PC]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
@@ -10,7 +10,7 @@
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 >“*The two of them painted with toothpaste on the wall until the girl was laughing again. Until Ruri understood that mistakes could sometimes turn into amazing, wonderful, cherished things. With the right perspective.*”
-\-Allriandre[1]
+\-Allriandre[2]
 
 
 **Ruri** is the daughter of [[Allriandre\|Allriandre]] in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]]. She is small for her age. She gets nervous around strangers but feels comfortable with her mother.

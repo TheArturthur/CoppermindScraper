@@ -3,7 +3,7 @@
 ||
 |**Family**|
 |**Parents**|[[Silence Montane\|Silence Montane]], [[William Montane\|William Montane]]|
-|**Siblings**|[[Sebruki\|Sebruki]] |
+|**Siblings**|[[Sebruki\|Sebruki]]|
 |**Ancestors**|[[Silence's grandmother\|Silence's grandmother]], [[Silence's grandfather\|Silence's grandfather]]|
 |**Residence**|[[Forests of Hell\|The Forests of Hell]]|
 |**Homeworld**|[[Threnody\|Threnody]]|

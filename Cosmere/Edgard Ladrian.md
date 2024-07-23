@@ -3,6 +3,7 @@
 ||
 |**[[House Ladrian\|House Ladrian]]**|
 |**Spouse**|[[Allrianne Cett\|Allrianne Cett]]|
+|**Siblings**|Brothers|
 |**Descendants**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Abilities**|[[/wiki/Brass#Allomantic Use]]|
 |**Aliases**|Breeze, Counselor of Gods|
@@ -14,7 +15,7 @@
 |**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*My dear friend, the entire point of life is to find ways to get other people to do your work for you. Don't you know anything about basic economics?*”
-\-Breeze to Hammond.[1]
+\-Breeze to Hammond.[2]
 
 
 **Edgard Ladrian**, better known as **Breeze**, is a member of [[Kelsier's crew\|Kelsier's crew]] on [[Scadrial\|Scadrial]]. He is a [[Brass\|brass]] [[Misting\|Misting]] (aka a [[Soother\|Soother]]).
@@ -76,14 +77,14 @@ At some point after his death, [[VenDell\|VenDell]] took his hands, and still ha
 ## Relationships
 ### Clubs
 >“*Do you know what it’s like, Clubs...Being a Soother?*”
-\-Breeze to Clubs during a drinking session[24]
+\-Breeze to Clubs during a drinking session[25]
 
 
 Clubs and Breeze have a special relationship, that originally started out strained, as Clubs did not trust Breeze due to his Soothing and manipulation skills. However, their relationship grows into a solid friendship, to the point where they end up drinking together every night. During the Battle of Luthadel, Clubs saves Breeze from death by pushing him out of the way of a Koloss' sword, which resulted in Clubs nearly being cut in-two.
 
 ### Ham
 >“*Honestly, Hammond. I think your jokes are getting worse as you age. One too many hits on the head while sparring, I suspect.*”
-\-Breeze to Hammond after his long time in Fadrex City.[11]
+\-Breeze to Hammond after his long time in Fadrex City.[12]
 
 
 Breeze has an interesting relationship with Ham. The two often spend much of their time talking and traveling to and from meetings together. While Breeze can be, at times, annoyed with Ham's warrior philosophy mentality; he enjoys the majority of their time together. They are overall, good friends and colleagues.

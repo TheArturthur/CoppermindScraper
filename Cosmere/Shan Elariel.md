@@ -1,7 +1,8 @@
 |**Shan Elariel**|
 |-|-|
 ||
-|**Family**|[[House Elariel\|House Elariel]]|
+|**[[House Elariel\|House Elariel]]**|
+|**Relatives**|[[Idren Seeris\|Idren Seeris]]|
 |**Died**|c. 1022 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
