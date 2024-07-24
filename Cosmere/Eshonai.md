@@ -2,9 +2,8 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|[[Jaxlim\|Jaxlim]], Father|
+|**Parents**|[[Jaxlim\|Jaxlim]]|
 |**Siblings**|[[Venli\|Venli]]|
-|**Ancestors**|Grandparents|
 |**Died**|[[Battle of Narak\|Battle of Narak]], Ishishach 1173|
 |**Abilities**|[[Regal\|Forms of Power]], [[Shardbearer\|Shardbearer]], [[Order of Willshapers\|Willshaper]]|
 |**Bonded With**|[[Timbre\|Timbre]]|
@@ -19,7 +18,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Progress is learning to control your world. Put up walls to stop the storms, choose when to become a mate.*”
-\-Eshonai[6]
+\-Eshonai[4]
 
 
 **Eshonai** is a [[Listener\|listener]] [[Shardbearer\|Shardbearer]] who lives in [[Narak\|Narak]] on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]]. She was one of the first Parshendi to come in contact with [[Gavilar Kholin\|Gavilar Kholin's]] soldiers in the [[Unclaimed Hills\|Unclaimed Hills]].
@@ -65,7 +64,7 @@
  
 For more images, see [[Eshonai/Gallery\|/Gallery]].
 >“*Our people are crumbling. (...) We're being weathered away.*”
-\-Eshonai about the listeners[6]
+\-Eshonai about the listeners[4]
 
 
 ### Appearance
@@ -106,7 +105,7 @@ During the battle, Eshonai dueled [[Dalinar Kholin\|Dalinar Kholin]] as the army
 #### The Everstorm
   Eshonai bonding with a stormspren during a <<Highstorm\|highstorm>>
 >“*With enough of us bearing this form together, we could bring it. We could **bend** the storms to our will, and could bring bring them down upon our enemies.*”
-\-Eshonai in stormform[10]
+\-Eshonai in stormform[8]
 
 
 Eshonai was the first to adopt [[/wiki/Singer#Forms]] after it was rediscovered by her sister [[Venli\|Venli]], although she did so reluctantly. The new form caused Eshonai to become more warlike and destructive, leading her to switch from seeking peace with the Alethi, to desiring their extermination. Her new aggressive personality made her more willing to kill disobedient listeners, including her comrades, friends, and family. Any who refused to obey her orders were rounded up by Eshonai, whose intent was to have them all killed.

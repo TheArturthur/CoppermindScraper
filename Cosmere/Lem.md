@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Ulba\|Ulba]]|
-|**Children**|[[Tress\|Tress]], Son|
+|**Children**|[[Tress\|Tress]]|
 |**Profession**|Miner |
 |**Residence**|[[Diggen's Point\|Diggen's Point]]|
 |**Homeworld**|[[Lumar\|Lumar]]|
@@ -10,7 +10,7 @@
 |**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
 >“*Lem was the human equivalent of a deep, pure well, always full of water when you needed it. He'd offer what you needed and ask nothing in return.*”
-\-Hoid[2]
+\-Hoid[1]
 
 
 **Lem** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. He is married to [[Ulba\|Ulba]] and has two children, including [[Tress\|Tress]].

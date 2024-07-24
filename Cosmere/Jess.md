@@ -1,6 +1,5 @@
 |**Jess**|
 |-|-|
-|**Children**|Daughter|
 |**Residence**|[[Tresting plantation\|Tresting plantation]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

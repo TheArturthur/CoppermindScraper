@@ -1,7 +1,5 @@
 |**Aunt Gin**|
 |-|-|
-|**Family**|
-|**Children**|Children|
 |**Profession**|Hotel owner|
 |**Residence**|[[New Seran\|New Seran]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

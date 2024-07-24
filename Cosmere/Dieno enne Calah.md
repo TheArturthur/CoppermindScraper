@@ -1,9 +1,6 @@
 |**Dieno**|
 |-|-|
 ||
-|**Family**|
-|**Spouse**|Wife|
-|**Children**|Son|
 |**Aliases**|The Mink|
 |**Profession**|Soldier|
 |**Nationality**|[[Herdazian\|Herdazian]]|
@@ -15,7 +12,7 @@
 
 For the [[Mokia\|Mokian]] advisor, see [[Mink (Alcatraz)\|Mink (Alcatraz)]].
 >“*You... don't know our gancho, Brightlord. This is **exactly** how he treats dangerous situations.*”
-\-One of the Mink's bodyguards, on his habit of disappearing randomly[2]
+\-One of the Mink's bodyguards, on his habit of disappearing randomly[1]
 
 
 **Dieno enne Calah** (Old Herdazian for "Dieno the Mink," with "enne" being an honorific implying greatness), often known as **the Mink**, is a general in command of a group of soldiers and refugees at the [[Alethkar\|Alethi]]-[[Herdaz\|Herdazian]] border after the initial [[Singer\|singer]] occupation of Alethkar.
@@ -31,7 +28,7 @@ For the [[Mokia\|Mokian]] advisor, see [[Mink (Alcatraz)\|Mink (Alcatraz)]].
 
 ## Appearance and Personality
 >“*Many a locked room reveals a hidden path to escape, after all.*”
-\-The Mink[4]
+\-The Mink[3]
 
 
 The general is a middle-aged, [[Darkeyed\|darkeyed]] Herdazian man. He has brown skin and a touch of grey in his thin mustache. He is described (albeit in unflattering terms and by an adversary) as having a too-wide smile, a flat nose, and a missing tooth. He has a lean build but possesses a power to it. He has scars around his wrist that results from manacles.
@@ -39,7 +36,7 @@ He talks in a straightforward manner, not afraid of pointing out truths. But he 
 
 ## Attributes and Abilities
 >“*You don't survive like the Mink has without learning to wiggle out of situations others could never escape.*”
-\-A Herdazian soldier discussing Dieno enne Calah's evasiveness[2]
+\-A Herdazian soldier discussing Dieno enne Calah's evasiveness[1]
 
 
 He is an excellent battlefield general. He defended Herdaz for one year against the singers' invasion, despite the lack of allies and resources. He takes over most of the actual field commanding from [[Dalinar\|Dalinar]] after joining the coalition, and successfully reclaimed [[Emul\|Emul]].

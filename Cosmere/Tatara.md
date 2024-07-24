@@ -3,7 +3,6 @@
 |**Family**|
 |**Parents**|[[Llarimar\|Llarimar]]|
 |**Relatives**|[[Lightsong\|Lightsong]]|
-|**Ancestors**|Grandfather|
 |**Nationality**|[[Hallandren\|Hallandren]]|
 |**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

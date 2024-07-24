@@ -1,7 +1,5 @@
 |**Melali**|
 |-|-|
-|**Family**|
-|**Siblings**|Sister|
 |**Religion**|[[Vorinism\|Vorinism]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

@@ -1,7 +1,5 @@
 |**Gevalden**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Titles**|Prince of [[Elis\|Elis]], Lord Beggar|
 |**Aliases**|Gevin, [[Nilto\|Nilto]]|
 |**Groups**|[[Taishin\|Taishin]] (unofficial)|
@@ -13,7 +11,7 @@
 |**Introduced In**|*[[White Sand\|White Sand]]*|
 
 >“*My prince sought a weapon, Loaten. If you know how he died or what he found then I need to know.*”
-\-Khriss[3]
+\-Khriss[2]
 
 
 **Gevalden**, nicknamed **Gevin**, is a prince of the Kingdom of [[Elis\|Elis]] on the Darkside of [[Taldain\|Taldain]] and the former fiancé of [[Khrissalla\|Khrissalla]]. He is currently known as the Lord Beggar **Nilto**, the unofficial [[Taisha\|Taisha]] of the beggars of [[Lossand\|Lossand]].

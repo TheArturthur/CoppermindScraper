@@ -1,7 +1,6 @@
 |**Rillir Roshone**|
 |-|-|
 |**Parents**|[[Toralin Roshone\|Toralin Roshone]]|
-|**Siblings**|Two half-siblings|
 |**Born**|c. 1151-1152|
 |**Died**|? 1168|
 |**Titles**|Cityheir of Hearthstone|
@@ -12,7 +11,7 @@
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I'm cityheir. My duty is to lead—to see that jobs get done and that people are occupied in productive work. And as such, I give important tasks to idling darkeyes to make them useful.*”
-\-Rillir to Kaladin[2]
+\-Rillir to Kaladin[1]
 
 
 **Rillir Roshone** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] on [[Roshar\|Roshar]] and the son of Brightlord [[Toralin Roshone\|Toralin Roshone]]. He comes to [[Hearthstone\|Hearthstone]] after his father's exile from [[Kholinar\|Kholinar]] due to a political scandal. He courts [[Laral Wistiow\|Laral Wistiow]] prior to his death.
@@ -38,7 +37,7 @@ Rillir was presumably raised in [[Kholinar\|Kholinar]], where his father [[Toral
 When [[Lirin\|Lirin]] and [[Kaladin\|Kaladin]] went to Roshone's manor to dine with him and discuss the [[Spheres\|spheres]] left to them by Wistiow, Kaladin saw Laral with Rillir in another room, telling her about how he intended to take his father out on a hunt to brighten his spirits. Although he was only about two years older than Kaladin, Rillir treated him like a serving boy and mentioned his beliefs that as a lighteyes, it was his place in life to be served and dictate to darkeyes how to serve him. He humiliated Kaladin until Laral redirected his attention.
 
 >“*I would save him if I could, I promise you. But I cannot.*”
-\-Lirin to Roshone[3]
+\-Lirin to Roshone[2]
 
 Rillir suffered grevious wounds during a [[Whitespine\|whitespine]] hunt. His abdomen was speared through with a whitespine tusk, his lower right leg was crushed and badly mangled, and the right side of his face was mauled, with most of the skin scraped off. He and his father were brought to Lirin and Kaladin for surgery. Lirin judged Rillir to be beyond recovery and made the decision to let him die on the surgery table, despite Toralin's demands that he continue treatment. Kaladin used [[Dazewater\|dazewater]] to put Rillir at peace as he died.
 Toralin narrowly survived his injuries, although he became reclusive and lost a great deal of weight while mourning his son. He held a grudge against Lirin due to Rillir's death, and sent [[Tien\|Tien]] into [[Meridas Amaram\|Amaram's army]] in revenge. Toralin went on to marry Laral himself since he could not afford to overlook the political opportunity.
@@ -46,7 +45,7 @@ Toralin narrowly survived his injuries, although he became reclusive and lost a 
 ## Relationships
 ### Laral
 >“*You're as provincial as my father sometimes, dear.*”
-\-Rillir to Laral[2]
+\-Rillir to Laral[1]
 
 
 Rillir began courting Laral upon his arrival in Hearthstone; this was presumably encouraged by his father and Torol Sadeas due to the political connections it would give to Roshone. She and Rillir seemed to get along fairly well, although Kaladin noticed a change in Laral's personality and bearing during her relationship with Rillir. She adopted Rillir's haughty attitude towards darkeyes, although she still maintained a modicum of empathy towards Kaladin. Laral seemed to genuinely care for Rillir; when he was grievously wounded by a whitespine, Laral was in hysterics, screaming at Kaladin and Lirin to treat him.

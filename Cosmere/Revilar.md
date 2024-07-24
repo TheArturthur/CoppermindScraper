@@ -1,7 +1,5 @@
 |**Revilar**|
 |-|-|
-|**Family**|
-|**Children**|Son|
 |**Residence**|[[Valam princedom\|Valam princedom]]|
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

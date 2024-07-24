@@ -1,7 +1,5 @@
 |**Dakhnah**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Profession**|Scribe|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|Parents|
 |**Ancestors**|[[Ana\|Ana]], [[Da\|Da]]|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|Vyre (He Who Quiets), Lord Silencer|
@@ -17,7 +16,7 @@
 
 "Vyre" redirects here. For the previous holder of that title, see [[El\|El]].
 >“*He couldn't be blamed. He was a product of his culture.*”
-\-Moash about himself[3]
+\-Moash about himself[2]
 
 
 **Moash**, also known as **Vyre**, is an [[Alethi\|Alethi]] man on [[Roshar\|Roshar]]. Originally a [[Bridgeman\|bridgeman]] in [[Bridge Four\|Bridge Four]], he becomes a soldier and bodyguard under [[Kaladin\|Kaladin]]; eventually, he leaves Bridge Four and switches sides to the [[Diagram (group)\|Diagram]], then the [[Fused\|Fused]], serving them as a slave and warrior. He's the current holder of [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]].
@@ -68,7 +67,7 @@ Both of Moash's parents died when he was a child. He was raised by his aging gra
 While he was working on a caravan for a few months, his grandparents became victims in the [[/wiki/Roshone#Kholinar and the Roshone Affair]] that led to them dying while incarcerated in the palace dungeons. Moash ultimately blamed [[Elhokar Kholin\|Elhokar Kholin]], who was then a royal prince but would later become the king of Alethkar, for their deaths. Ana and Da had been dead for two months by the time Moash returned, and was told of their passing by a neighbor after returning to an empty home.
 
 >“*You doubt that sending a seventy-five-year-old couple to the palace dungeons is a death sentence?*”
-\-Moash to Kaladin[1]
+\-Moash to Kaladin[22]
 
 
 ### Bridge Four

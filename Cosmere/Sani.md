@@ -1,7 +1,5 @@
 |**Sani**|
 |-|-|
-|**Family**|
-|**Parents**|Parents|
 |**Born**|c. 1148|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|

@@ -5,7 +5,6 @@
 |**Parents**|[[Lirin\|Lirin]], [[Hesina\|Hesina]]|
 |**Siblings**|[[Kaladin\|Kaladin]], [[Oroden\|Oroden]]|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
-|**Ancestors**|Grandparents|
 |**Born**|1155|
 |**Died**|1169|
 |**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
@@ -20,7 +19,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It’s not as bad as it seems, Kaladin... Things are never as bad as they seem. You’ll see.*”
-\-Tien to Kaladin[3]
+\-Tien to Kaladin[2]
 
 
 **Tien** is the second son of [[Lirin\|Lirin]] and [[Hesina\|Hesina]] and brother to [[Kaladin\|Kaladin]] and [[Oroden\|Oroden]]. Tien is two years Kaladin’s junior and eighteen years older than Oroden. He is pressed into Highmarshal [[Amaram\|Amaram]]’s army, where he is killed during battle.
@@ -49,7 +48,7 @@
 ## Appearance and Personality
  
 >“*It's just hard to be gloomy when he’s around.*”
-\-Kaladin about Tien[6]
+\-Kaladin about Tien[5]
 
 
 For more images, see [[Tien/Gallery\|/Gallery]].
@@ -65,7 +64,7 @@ The [[Skybreakers\|Skybreakers]] knew Tien was bonded to a Cryptic while he serv
 ### Childhood
   Young Kaladin and Tien
 >“*Tien smiled, then set a rock on the ground... Tien had a habit of finding those and thinking they were incredibly precious.*”
-\-Kaladin about Tien's rock collection.[6]
+\-Kaladin about Tien's rock collection.[5]
 
 
 As a young boy, Tien often spent time with his brother [[Kaladin\|Kaladin]]. The pair were friends with [[Laral\|Laral]], the daughter of Brightlord [[Wistiow\|Wistiow]], and also spent time around the other children in the town; when he was eight, he and his brother hung out with [[Jam (Hearthstone)\|Jam]], one of the other boys in the town. Jam’s father had been teaching him how to use a quarterstaff and the other children of the town were intrigued to find out what he had learnt. Tien’s father, [[Lirin\|Lirin]], did not approve of his sons spending time with the older children in the town, particularly if it interfered with Kaladin’s duties as surgeon’s assistant.
@@ -89,7 +88,7 @@ The thought of joining the army terrified Tien. Unable to let the matter lie, Ka
 ### The Army
   Tien on a battlefield
 >“*Gotta do what you can to stay alive, son. Turn a liability into an advantage whenever you can. Remember that, if you live.*”
-\-Varth talking to Kaladin about Tien[8]
+\-Varth talking to Kaladin about Tien[7]
 
 
 Tien and Kaladin were separated after being drafted, despite Kaladin's belief that they were meant to be assigned to the same squad. Kaladin searched for his brother after their separation, enlisting the help of his squad leader [[Tukks\|Tukks]], who eventually located Tien in squad seven. While in squad seven, Tien was given rudimentary training with a spear, and then shifted into a deep reserve unit. Tien hoped that he would be able to travel to the [[Shattered Plains\|Shattered Plains]] to join the King's army.
@@ -100,7 +99,7 @@ Kaladin, who had been looking for his brother during the battle, arrived moments
   Kaladin cradling Tien's corpse
 ### Kaladin
 >“*How is it you can always smile?... It’s dreadful outside, your master treats you like crem, and your family is slowly being strangled by the citylord. And yet you smile. How, Tien? And why is it that you make me want to smile too?*”
-\-Kaladin about Tien[3]
+\-Kaladin about Tien[2]
 
 
 Tien is almost always able to lift his brother's mood and helps [[Kaladin\|Kaladin]] during his bouts of depression. He often gifts Kaladin rocks, as a way to try and help him feel better, but is also a good judge of when Kaladin needs company rather than support. Despite Kaladin’s request of his brother, Tien always called him by his full name instead of his childhood nickname of Kal.

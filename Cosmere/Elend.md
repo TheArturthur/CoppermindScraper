@@ -4,7 +4,7 @@
 |**[[House Venture\|House Venture]]**|
 |**Spouse**|[[Vin\|Vin]]|
 |**Parents**|[[Straff\|Straff]], [[Elend's mother\|Mother]]|
-|**Siblings**|[[Zane\|Zane]], Multiple Half-Siblings|
+|**Siblings**|[[Zane\|Zane]]|
 |**Born**|1000 [[Final Empire\|FE]]|
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
@@ -72,7 +72,7 @@ Elend has curly brown hair. Before becoming king, Elend usually kept his hair di
 
 ### Personality
 >“*That’s what I am. An idealist. A melodramatic idealist who, despite his books and learning, never did make a very good nobleman.*”
-\-Elend before the vote for king.[12]
+\-Elend before the vote for king.[10]
 
 
  
@@ -98,7 +98,7 @@ When the [[Renoux\|Renoux]] household is riding for execution, Elend sees them a
 
 ### The Collapse
 >“*But... the things he said, Mistress... his dreams of a new government, his condemnation of bloodshed and chaos... Well, Mistress, I fear that I cannot repeat it. I wish I’d had my metalminds, so that I could have memorized his exact words.*”
-\-Sazed to Vin[38]
+\-Sazed to Vin[36]
 
 
 After the skaa riots started, Straff Venture decided to leave the city. Elend, predicting the skaa rebellion would result in a mass bloodshed, decided to stay to try to quell the skaa, to prevent mass slaughter. His father let Elend stay, hoping he would be killed by the rebellion or by the Lord Ruler. Elend sent the Venture guards and servants to [[Keep Lekal\|Keep Lekal]], not caring about political differences, to join forces to defend against the skaa upheaval. With five soldiers, he turned himself in, and told [[Dockson\|Dockson]] not to attack the noble houses. Elend explained to him that the nobles wouldn't attack, they would just keep to the safety of their houses. After learning that Vin had been captured by the Ministry, he and his soldiers, as well as [[Goradel\|Goradel]], attacked [[Kredik Shaw\|Kredik Shaw]], buying time for Vin to find a metal vial and saving her life.
@@ -130,7 +130,7 @@ After the foundation of the [[New Empire\|New Empire]], Vin and Elend set out to
   Dancing with <<Vin\|Vin>>
 #### The Siege of Fadrex City
 >“*Arguing philosophy will not remove the fact that you have an army camped outside my city, nor change the fact that I find you a hypocrite*”
-\-Yomen to Elend[20]
+\-Yomen to Elend[18]
 
 
 After discovering the cache's location, Elend marched on Fadrex City with forty thousand soldiers, twenty thousand [[Koloss\|koloss]], and a contingent of Allomancers. Because of the city's fortifications, and of a reluctance to loose the koloss upon people, he decided to lay siege to the city, and try to negotiate with Yomen. So, Elend and Vin went to a ball in [[Keep Orielle\|Keep Orielle]], inside the city, to talk with the obligator. Elend discussed about philosophy with Yomen, and was impressed by the man's arguments, that called him a hypocrite for taking the throne by force. After that, Elend and Vin danced, though he teased her by picking up a copy of [[Trials of Monument\|Trials of Monument]]--the book he was reading when the two first met--and starting to read it.
@@ -144,7 +144,7 @@ Despite from what Leras told Elend, the emperor decided to launch a surprise att
  
 #### The Battle of Hathsin
 >“*Lost? We've won, Marsh.*”
-\-Elend to Marsh.[74]
+\-Elend to Marsh.[73]
 
 
 In Luthadel, Elend found Penrod's corpse, with a note saying that Elend's people went to the Terris Dominance. After hearing a whisper from Vin, he realized Ruin must have changed the text, and deduces that they might have gone to the Terris people instead. Arriving at the [[Pits of Hathsin\|Pits of Hathsin]], he saw [[Demoux\|Demoux]] with a few soldiers he had sent back to help Penrod. Elend discovered that the people who stayed sick for longer were Seers, atium mistings, and gathered them to fight the koloss army, using the atium cache at the Pits. They fought the koloss for hours, until the atium in the atium cache began to run out. Then, Marsh appeared in front of Elend.
@@ -157,7 +157,7 @@ After the [[Catacendre\|Catacendre]], Elend became known as the **Last Emperor**
  
 ### Vin
 >“*She'd never trusted anyone this much. Not Kelsier, not [[Sazed\|Sazed]], not [[Reen\|Reen]]. That knowledge made her tremble inside. If she lost him, she would lose herself.*”
-\-Vin during the trip towards Terris.[55]
+\-Vin during the trip towards Terris.[54]
 
 
 [[Vin\|Vin]] and Elend's first encounter was pure happenstance on the part of Vin, but as Elend had grown up in the Luthadel Noble Society, he saw everything as being plots within plots, so a hitherto unknown scion of the Renoux house just so happening to come to his alcove left him baffled. He became interested in her early on when he saw that Vin was entirely forthright in her opinions and actions though still oblivious that she loved him, he did develop love for her when he realised what she had been doing to protect him and she had been captured by the Lord Ruler.
@@ -169,7 +169,7 @@ After their death's and the ascension of Sazed as [[Harmony\|Harmony]], both Ele
 
 ### Kelsier
 >“*Early in my career, I always compared myself to him. By the time I heard of Kelsier, he was already becoming a legend. It was unfair to force myself to try and be him, but I worried regardless.*”
-\-Elend talking to the crew about Kelsier[31]
+\-Elend talking to the crew about Kelsier[29]
 
 
 In the battle before [[Kelsier\|Kelsier's]] death, despite his hate of noblemen, he saved Elend's life because he knew Vin loved the nobleman. But when he found out that Elend was king, he was angry for days. However, when Elend came to him in the Well, he wasn't angry, because he considered not Elend's fault that he became king, considering him "too oblivious to be dangerous".
@@ -177,7 +177,7 @@ While king, Elend compared himself to Kelsier on numerous occasions, even though
 
 ### Tindwyl
 >“*You have good ideas, Elend Venture. Regal ideas. However, you are not a king. A man can only lead when others accept him as their leader, and he has only as much authority as his subjects give to him. All of the brilliant ideas in the world cannot save your kingdom if no one will listen to them.*”
-\-Tindwyl to Elend[84]
+\-Tindwyl to Elend[83]
 
 
 [[Tindwyl\|Tindwyl]] came to [[Luthadel\|Luthadel]] to instruct Elend on how to be a king. She thinks that he is slovenly and needs to be more forceful--that as a king, he should impose his will on others and impose respect on his subjects. She believes he should be more self-confident--feel that his actions are the best for the kingdom. She is mean and harsh to him, because she believes that after growing up as a pampered son of a lord, he needs some harsh truth.
@@ -185,7 +185,7 @@ Tindwyl says that love is not easy for kings, and that Elend's love of Vin may c
 
 ### Straff Venture
 >“*That’s what his books had done to him--they had changed him from rebellious fop into would-be philosopher. Unfortunately, he’d been a fool for so long. Was it any wonder that Straff hadn’t noticed the change in his son?*”
-\-Elend to Straff[23]
+\-Elend to Straff[21]
 
 
 In his youth, Elend rebelled against his father, [[Straff Venture\|Straff]], and acted to distinguish himself from the man. However, he only did it in small ways, that didn't matter much, such as wearing his clothes dishevelled and reading during balls. He ended up earning a reputation for being eccentric and arrogant. However, his books changed him; he stopped acting against his father's wishes to annoy him, and started doing it because they were unethical. His father didn't notice the change, and kept treating Elend like a rebellious child. Straff thinks Elend is childish and weak, and believes Vin didn't kill the Lord Ruler because he thinks it implausible that Elend has earned the trust of someone so powerful. Straff thinks he can control Elend, and that he can make Elend give him control of the city. Elend knows Straff well, and is confident he can manipulate his father.

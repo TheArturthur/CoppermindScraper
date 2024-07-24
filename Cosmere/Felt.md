@@ -1,8 +1,6 @@
 |**Felt**|
 |-|-|
 |**Spouse**|[[Malli\|Malli]]|
-|**Parents**|Parent|
-|**Siblings**|Brothers|
 |**Abilities**|[[Worldhopper\|Worldhopper]]|
 |**Profession**|Spy, military scout|
 |**Ethnicity**|[[Noble\|Noble]]|

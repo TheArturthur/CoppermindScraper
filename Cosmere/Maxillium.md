@@ -4,7 +4,7 @@
 |**Parents**|[[Steris\|Steris]], [[Waxillium\|Waxillium]]|
 |**Siblings**|[[Tindwyl Ladrian\|Tindwyl]]|
 |**Relatives**|[[Marasi Colms\|Marasi Colms]], [[Edwarn\|Edwarn]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Armal\|Armal]]|
-|**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Spook\|Spook]], Grandmother, Grandfather|
+|**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Jackstom Harms\|Jackstom]], [[Vwafendal\|Vwafendal]], [[Spook\|Spook]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Ethnicity**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

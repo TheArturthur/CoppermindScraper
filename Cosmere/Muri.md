@@ -1,7 +1,5 @@
 |**Muri**|
 |-|-|
-|**Family**|
-|**Children**|Three daughters|
 |**Profession**|Seamstress|
 |**Residence**|[[Revolar\|Revolar]] [[Kholinar\|Kholinar]]|
 |**Nationality**|[[Alethi\|Alethi]]|
@@ -10,7 +8,7 @@
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*Poor kid. Better you than he.*”
-\-Muri to Shallan after Grund's death[2]
+\-Muri to Shallan after Grund's death[1]
 
 
 **Muri** is a [[Darkeyed\|darkeyed]] seamstress of the second [[Nahn\|nahn]] in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].

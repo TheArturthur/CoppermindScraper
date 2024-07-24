@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**Family**|
-|**Children**|Daughter|
 |**Parents**|[[Ico's father\|Father]]|
 |**Abilities**|[[Splinter\|Splinter]]|
 |**Profession**|Ship's captain|

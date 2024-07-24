@@ -4,7 +4,6 @@
 |**[[House Kholin\|House Kholin]]**|
 |**Spouse**|[[Gavilar\|Gavilar]], [[Dalinar\|Dalinar]]|
 |**Children**|[[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]]|
-|**Parents**|Mother|
 |**Relatives**|[[Adolin\|Adolin]], [[Renarin\|Renarin]]|
 |**Descendants**|[[Gavinor\|Gavinor]]|
 |**Born**|c. ? 1120|
@@ -84,7 +83,7 @@ Navani has a stately bearing and, in some ways, is the picture of a perfect Vori
 
 ### Personality
 >“*Order from chaos. Find the structure here and start building upon it.*”
-\-Navani[1]
+\-Navani[12]
 
 
 As the dowager queen, Navani often challenges [[Alethi\|Alethi]] protocol. She is known for her ability to learn everything of significance through gossip, no matter where she travels. She is not overly judgmental, but is not above pointing out the obvious. She is known for her confidence, to the point that she is not afraid to match words with [[Hoid\|Wit]]. She believes in being blunt, especially when working with scholars. Despite this, Navani is also known for her discretion. A scholar at heart, she keeps exacting notes and is well organized.

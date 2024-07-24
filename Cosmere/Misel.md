@@ -1,8 +1,7 @@
 |**Misel**|
 |-|-|
 |**Family**|
-|**Parents**|[[Nanrovah\|Nanrovah]], Mother|
-|**Siblings**|Siblings|
+|**Parents**|[[Nanrovah\|Nanrovah]]|
 |**Residence**|[[T'Telir\|T'Telir]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
 |**Homeworld**|[[Nalthis\|Nalthis]]|

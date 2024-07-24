@@ -1,8 +1,6 @@
 |**Nikaro**|
 |-|-|
 ||
-|**Family**|
-|**Parents**|Parents|
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]] |
 |**Aliases**|Painter|
 |**Profession**|Painter|

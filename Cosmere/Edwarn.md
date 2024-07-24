@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**[[House Ladrian\|House Ladrian]]**|
-|**Spouse**|Wife|
 |**Children**|[[Hinston\|Hinston]]|
 |**Relatives**|[[Waxillium Ladrian\|Waxillium Ladrian]], [[Telsin Ladrian\|Telsin Ladrian]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Breeze\|Breeze]], [[Allrianne\|Allrianne]]|
@@ -70,11 +69,11 @@ Edwarn is [[Telsin\|Telsin's]] uncle, and they both faked their death in the sam
 
 ## Quotes
 >“*Money is meaningless; Only expectation has value as currency*”
-\-Edwarn to Wax on how to run business[20]
+\-Edwarn to Wax on how to run business[19]
 
 
 >“*The day of mighty men to be worshiped has gone, and with its passing goes the right of Allomancers to power*”
-\-Edwarn to Wax before the latter dies[9]
+\-Edwarn to Wax before the latter dies[8]
 
 
 ## Trivia

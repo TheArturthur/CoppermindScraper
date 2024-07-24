@@ -1,7 +1,5 @@
 |**Shar**|
 |-|-|
-|**Family**|
-|**Parents**|Parent|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

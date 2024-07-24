@@ -1,6 +1,5 @@
 |**Jost**|
 |-|-|
-|**Parents**|Father, Mother|
 |**Siblings**|[[Jest\|Jest]]|
 |**Born**|1152|
 |**Groups**|Amaram's army|

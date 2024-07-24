@@ -1,7 +1,6 @@
 |**Mardra**|
 |-|-|
 |**Spouse**|[[Hammond\|Hammond]]|
-|**Children**|Two children|
 |**Profession**|Seamstress|
 |**Residence**|Unnamed [[Luthadel\|Luthadel]] satellite city|
 |**Ethnicity**|[[Skaa\|Skaa]]|

@@ -5,7 +5,7 @@
 |**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
 |**Siblings**|[[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
 |**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestors**|Grandfather|
+|**Ancestors**|[[Vo\|Vo]]|
 |**Abilities**|[[Royal Locks\|Royal Locks]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|Princess of [[Idris\|Idris]], Highmarshal, Commander of the [[Kholinar Wall Guard\|Kholinar Wall Guard]]|
 |**Aliases**|Azure|
@@ -18,7 +18,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Everything I’ve been—everything I was trained to do—has been a lie wrapped in hatred. I don’t want to go back to it. I’m not that person. I don’t want to be.*”
-\-Vivenna[3]
+\-Vivenna[2]
 
 
 **Vivenna** is an [[Awakener\|Awakener]] and eldest princess of [[Idris\|Idris]] on [[Nalthis\|Nalthis]]. She visits [[Roshar\|Roshar]] searching for [[Vasher\|Vasher]] and infiltrates [[Kholinar\|Kholinar]] as Highmarshal **Azure**, commander of the Wall Guard.

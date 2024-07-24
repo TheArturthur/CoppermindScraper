@@ -1,7 +1,5 @@
 |**Mord**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Born**|c. 1153|
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Ethnicity**|[[Alethi\|Alethi]]|

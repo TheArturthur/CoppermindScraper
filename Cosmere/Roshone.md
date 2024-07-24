@@ -3,7 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Laral Roshone\|Laral Roshone]]|
-|**Children**|[[Rillir Roshone\|Rillir Roshone]], Two children|
+|**Children**|[[Rillir Roshone\|Rillir Roshone]]|
 |**Died**|Early 1175Killed by [[Moash\|Moash]]|
 |**Profession**|Citylord of Hearthstone|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
@@ -54,7 +54,7 @@ Roshone owned several silversmith shops in [[Kholinar\|Kholinar]], and used his 
 
 ### Citylord of Hearthstone
 >“*You hid behind the law, sneering at me, surgeon. Well, now it turns against you. Keep those spheres! The look on your face at this moment is worth the price of every one of them!*”
-\-Roshone to Lirin upon nominating Tien to serve in the army[5]
+\-Roshone to Lirin upon nominating Tien to serve in the army[4]
 
 Roshone was shipped to Hearthstone as punishment for the deaths of Moash's grandparents in late 1166. He became the new citylord of the town, where the previous citylord, [[Wistiow\|Wistiow]], had died. From the very beginning, he suspected that [[Lirin\|Lirin]] stole spheres from Citylord Wistiow. He treated Lirin and his family badly, and, under threat of Roshone's bad graces, the rest of the townspeople followed suit. Amid the social and financial pressure placed on Lirin, Roshone invited the man to dine in his manor one evening, in hopes of cutting a deal to recover the stolen spheres. Though there was a debate between Roshone and Lirin, it didn't bring him a satisfying result.
 Eventually Roshone and his son Rillir were both badly injured on a [[Whitespine\|whitespine]] hunt. Lirin, Hearthstone's surgeon, saved Roshone's life but could not help Rillir. After the loss of his son and leg, Roshone became a recluse and his dislike for Lirin grew. With no heir of his own, he made plans to marry the daughter of former Citylord Wistiow, Laral, himself. When [[Brightlord\|Brightlord]] [[Amaram\|Amaram]], a distant cousin of Roshone, came through the town to recruit during the [[Weeping\|Weeping]] of 1168, Roshone took his revenge by deciding that [[Tien\|Tien]] would join the army.
@@ -78,7 +78,7 @@ By the time of the True Desolation, Laral and Roshone had been married for sever
 
 ### Lirin
 >“*You're the one who let old Wistiow die. In a way, it's your fault I'm in this pitiful, miserable quarter of the kingdom.*”
-\-Roshone to Lirin when they meet in Hearthstone[4]
+\-Roshone to Lirin when they meet in Hearthstone[3]
 
 
 Roshone and Lirin have had a complicated relationship since they met. When Lirin welcomed their new brightlord, Roshone's reply was to blame him for letting Wistiow die. Their relationship worsened when he found that Lirin had a goblet full of spheres, claiming that it was a gift from Wistiow before his death. Roshone made it public that he believed Lirin had stolen them. This changed the relationship between Lirin and the town, and the townspeople simply stopped their donations, all at a word from Roshone. Further pressure from Roshone to recover the spheres was unsuccessful, though Roshone believed that he would eventually win.

@@ -1,7 +1,6 @@
 |**Troalin**|
 |-|-|
 |**Family**|
-|**Parents**|Mother|
 |**Siblings**|[[Aledin\|Aledin]]|
 |**Relatives**|[[Slowswift\|Slowswift]]|
 |**Residence**|[[Fadrex City\|Fadrex City]]|

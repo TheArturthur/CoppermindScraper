@@ -1,8 +1,5 @@
 |**Donal**|
 |-|-|
-|**Family**|
-|**Children**|Son|
-|**Siblings**|Brother|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

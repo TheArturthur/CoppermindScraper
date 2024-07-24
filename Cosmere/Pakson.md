@@ -1,7 +1,5 @@
 |**Pakson**|
 |-|-|
-|**Family**|
-|**Siblings**|Sister|
 |**Died**|Impaled by [[/wiki/Aether spores#Crimson]]|
 |**Profession**|Pirate|
 |**Homeworld**|[[Lumar\|Lumar]]|

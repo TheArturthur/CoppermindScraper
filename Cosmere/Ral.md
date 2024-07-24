@@ -1,14 +1,12 @@
 |**Ral**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 >“* Master Ral likes things you can use. Things to sit on, things to put clothes in. But I think I can make a good chair tomorrow, something that will make him proud.*”
-\- Tien[2]
+\- Tien[1]
 
 
 **Ral** is a [[Darkeyed\|darkeyed]] carpenter from [[Hearthstone\|Hearthstone]] in [[Alethkar\|Alethkar]]. He has a shop in the town and employs several apprentices.

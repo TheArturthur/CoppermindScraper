@@ -1,7 +1,5 @@
 |**Mik**|
 |-|-|
-|**Family**|
-|**Parents**|Mother|
 |**Born**|c. 1163|
 |**Residence**|[[Yeddaw\|Yeddaw]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

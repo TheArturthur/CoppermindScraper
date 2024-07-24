@@ -1,8 +1,6 @@
 |**Adawathwyn**|
 |-|-|
 ||
-|**Family**|
-|**Siblings**|Sister|
 |**Abilities**|[[/wiki/Zinc#Feruchemical Use]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Ethnicity**|[[Terris\|Terris]]|

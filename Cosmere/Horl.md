@@ -1,7 +1,6 @@
 |**Harl**|
 |-|-|
 |**Family**|
-|**Spouse**|Wife|
 |**Children**|[[Miasal\|Miasal]]|
 |**Groups**|Amaram's army|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
@@ -11,7 +10,7 @@
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*What are you doing to my daughter? You [[Cremling\|cremling]], you storm's leavings! Don’t touch [[Miasal\|Miasal]]! Don't—*”
-\-Harl, to Kaladin[2]
+\-Harl, to Kaladin[1]
 
 
 **Harl** is a thick-shouldered [[Darkeyes\|darkeyed]] man from [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].

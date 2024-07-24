@@ -1,7 +1,8 @@
 |**Hinston Ladrian**|
 |-|-|
 |**[[House Ladrian\|House Ladrian]]**|
-|**Parents**|[[Edwarn Ladrian\|Edwarn Ladrian]], Mother|
+|**Parents**|[[Edwarn Ladrian\|Edwarn Ladrian]]|
+|**Relatives**|[[Waxillium Ladrian\|Waxillium Ladrian]], [[Telsin Ladrian\|Telsin Ladrian]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Breeze\|Breeze]], [[Allrianne\|Allrianne]]|
 |**Born**|317 [[Catacendre\|PC]]|
 |**Died**|Disease|

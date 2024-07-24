@@ -1,7 +1,5 @@
 |**Rian**|
 |-|-|
-|**Family**|
-|**Children**|Daugher|
 |**Profession**|Guardsman|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

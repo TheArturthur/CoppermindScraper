@@ -2,9 +2,8 @@
 |-|-|
 ||
 |**Family**|
-|**Spouse**|[[Vivenna's mother\|Vivenna's mother]]|
+|**Spouse**|[[Vivenna's mother\|Wife]]|
 |**Children**|[[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
-|**Parents**|Father|
 |**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
 |**Ancestors**|[[Vo\|Vo]]|
 |**Abilities**|[[Royal Locks\|Royal Locks]]|
@@ -16,7 +15,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*My friend, I must admit a weakness in myself. I will never be able to send Vivenna to be a hostage in that dragon’s nest of a city.*”
-\-Dedelin's confession to Lemex via letter[3]
+\-Dedelin's confession to Lemex via letter[2]
 
 
 **Dedelin** is the King of [[Idris\|Idris]] on [[Nalthis\|Nalthis]].
@@ -46,7 +45,7 @@ He is an astute ruler and capable of putting the good of his kingdom before his 
 
 ## History
 >“*If we send her, Yarda, we send her to her death.*”
-\-Dedelin speaking with Yarda, one of his generals[1]
+\-Dedelin speaking with Yarda, one of his generals[3]
 
 
 More than twenty years before the events of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Dedelin made a treaty with the [[Hallandren\|Hallandren]] [[Court of Gods\|Court of Gods]] to keep it from invading [[Idris\|Idris]]. This treaty said that he must send his daughter to marry the [[God King\|God King]] of Hallandren when his eldest daughter, [[Vivenna\|Vivenna]], reached her twenty-second birthday. But although she was raised, educated, and trained for this purpose, he could not bring himself to let her go and decided to send his youngest daughter [[Sisirinah\|Sisirinah]] instead.

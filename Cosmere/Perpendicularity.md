@@ -26,7 +26,7 @@ Some perpendicularities can be forcibly closed by having people utilize the mass
 
 ## Mechanics
 Perpendicularities are formed at locations with a large concentration of Investiture. The concentration of Investiture brings the three realms closer together and allows travel between them. Perpendicularities will not transport people between realms unless they want it to happen. They can be used to see into the Spiritual Realm. The proximity of the realms also makes [[Soulcasting\|Soulcasting]] easier.
-[[Aluminum\|Aluminum]] can be used to take liquid from a perpendicularity, and it will stay Invested. Some perpendicularities are more Invested than others. The enormous concentration of Investiture in a perpendicularity makes it possible to become a Cognitive Shadow by entering one. In at least some circumstances, a perpendicularity's liquid Investiture may be unkeyed.
+[[Aluminum\|Aluminum]] can be used to take liquid from a perpendicularity, and it will stay Invested. Some perpendicularities are more Invested than others. The enormous concentration of Investiture in a perpendicularity makes it possible to become a Cognitive Shadow by entering one. In at least some circumstances, a perpendicularity's liquid Investiture may be unkeyed. Devices can be made to point towards a perpendicularity.
 
 ## Known Perpendicularities
 

@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**Family**|
-|**Parents**|Father|
 |**Siblings**|[[Llarimar\|Llarimar]]|
 |**Relatives**|[[Tatara\|Tatara]]|
 |**Died**|Sacrificed his [[Divine Breath\|divine Breath]] to heal [[Susebron\|Susebron]]|
@@ -16,7 +15,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*All of this, because I couldn't figure out how to die.*”
-\-Lightsong[4]
+\-Lightsong[3]
 
 
 **Lightsong the Bold**, or **Stennimar**, is a [[Returned\|Returned]] revered as the God of Bravery by the people of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
@@ -47,7 +46,7 @@
 ## Appearance and Personality
  
 >“*I need to give something back. Even if it's something useless.*”
-\-Lightsong, to himself[4]
+\-Lightsong, to himself[3]
 
 
 For more images, see [[Lightsong/Gallery\|/Gallery]].
@@ -75,7 +74,7 @@ Before being Returned, Lightsong was an accountant named **Stennimar** who was o
 ### After Returning
   taking his weekly <<Breath\|Breath>> from a child in order to continue living.
 >“*I've spent most of my Returned life just lounging about, but then the moment someone is killed, I leap out of bed and can't resist poking around. Doesn't that sound suspicious to you?*”
-\-Lightsong[12]
+\-Lightsong[11]
 
 
 Lightsong's attitude at the time of his returning was one of indolence. After meeting Calmseer and starting a relationship of mutual respect turned physical with her, he gains a drive to become the god everyone expected him to be and gives up his lazy ways. This backfires when he fails miserably, leaving his followers dissatisfied and the other gods mocking him for being a hypocrite. He blames his failure on the other gods who would not take his new attitude seriously, and reverts back to his languorous ways with a newly sharpened wit which he let loose with as much vengeance as he could muster. Nobody was offended by his verbal jabs, and instead took it as natural that he act in such a way; and so he perpetuated this attitude.
@@ -87,7 +86,7 @@ As Lightsong attempted to distract himself from his visions, a murder of one of 
 When Blushweaver managed to obtain control of [[Hopefinder\|Hopefinder's]] and Mercystar's Lifeless warriors, Lightsong gave his own security phrase to [[Allmother\|Allmother]], in the hopes that she would oppose Blushweaver's call to war. Allmother surprised him by giving him the security phrase to her Lifeless. Unable to shirk his responsibility any longer, Lightsong took command of Allmother's Lifeless, giving himself control of half of Hallandren's army. When the vote was called to go to war with Idris, Lightsong walked away without casting his vote.
 
 >“*You were a scribe, and you were one of the best men I'd ever known. You were my brother.*”
-\-Llarimar to Lightsong[11]
+\-Llarimar to Lightsong[10]
 
 On the night of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Lightsong and Llarimar entered the tunnel complex under Mercystar's palace, where he stumbled upon Blushweaver being held captive by Pahn Kahl scribes disguised as priests. Convinced that he was previously an investigator and a skilled swordsman, Lightsong attacked the Pahn Kahl, only to discover that he did not know how to fight. After being captured and thrown into cages, Llarimar finally lost his patience with Lightsong, shouting at him and telling him that he had actually been an accountant, not a detective. The Pahn Kahl demanded his security phrase, and slit Blushweaver's throat when he refused. Horrified, Lightsong gave them his phrase when they threatened to do the same to Llarimar.
 When the Pahn Kahl prepared to execute [[Susebron\|Susebron]], Lightsong remembered the moment of his death, and the vision of the future he had been granted. Realizing that this is what he had been sent back for, Lightsong sacrificed his life to heal Susebron, restoring his tongue. Susebron, now able to Awaken, overpowered his captors and was able to prevent the war from taking place.
@@ -109,27 +108,27 @@ After realizing that [[Siri\|Siri]] is a naive young woman and not a cunning spy
 ## Quotes
  
 >“*Not a god, but a scribe. A silly little scribe who was allowed to play god for a few years! A coward.*”
-\-Lightsong about himself[11]
+\-Lightsong about himself[10]
 
 
 >“*You are a god. To me, at least. It doesn’t matter how easily you can be killed, how much Breath you have, or how you look. It has to do with who you are and what you mean.*”
-\-Llarimar to Lightsong[11]
+\-Llarimar to Lightsong[10]
 
 
 >“*So far this day I have discovered several disturbing and redefining elements of my soul which are slowly restructuring the very nature of my existence. Other than that, it was uneventful. You?*”
-\-Lightsong to Siri[5]
+\-Lightsong to Siri[4]
 
 
 >“*I've tried for years to corrupt him. Never seems to work. I can't even get him to acknowledge the theological paradox it causes when I try to tempt him to do evil.*”
-\-Lightsong, talking about Llarimar[5]
+\-Lightsong, talking about Llarimar[4]
 
 
 >“*You're the one that makes us laugh, even while you insult us. Can't you see what that does? Can't you see how you've inadvertently set yourself above everyone else? You didn't do it intentionally, Lightsong, and that's what makes it work so well. In a city of frivolity, you're the only one who's shown any measure of wisdom.*”
-\-Blushweaver[8]
+\-Blushweaver[7]
 
 
 >“*By the Colors... I **am** a god.*”
-\-Lightsong just before healing Susebron[2]
+\-Lightsong just before healing Susebron[1]
 
 
 ## Trivia

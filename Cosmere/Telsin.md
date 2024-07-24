@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**[[House Ladrian\|House Ladrian]]**|
-|**Parents**|Mother, Father|
 |**Siblings**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
 |**Relatives**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|

@@ -83,7 +83,7 @@ Modern Truthwatchers are few and far between, scattered around the world rather 
 \-Words of Radiance, chapter 11, page 6[27]
 
 ## Trivia
-Getting a 100% Windrunner score on the  requires a set of answers detailed .
+Getting a 100% Truthwatcher score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Truthwatchers

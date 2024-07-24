@@ -1,7 +1,5 @@
 |**Sakin**|
 |-|-|
-|**Family**|
-|**Spouse**|Husbands|
 |**Nationality**|[[Natan\|Natan]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

@@ -1,8 +1,6 @@
 |**Tindwyl**|
 |-|-|
 ||
-|**Family**|
-|**Children**|At least twenty children|
 |**Died**|c 1024 [[Final Empire\|FE]]|
 |**Abilities**|[[Feruchemy\|Feruchemist]]|
 |**Aliases**|Mother of Terris, Miss Imposing|
@@ -90,7 +88,7 @@ A few days later, she was caught by [[Demoux\|Demoux]], apparently listening in 
 She circled Elend, studying him, then began correcting his posture and manner of speaking, telling him to be more commanding. Elend, bewildered, demanded to know what was going on, which finally met her approval. She introduced herself to him as a Keeper of Terris, and harshly commented upon his slovenly appearance and indirect manner of speaking. Elend tried to excuse himself, until she remarked that his people thought he was a fool, what with how the Assembly ignored his authority, how the [[Skaa\|skaa]] didn't have faith in him and how his friends assumed he would have nothing to add to discussions. He had good ideas, but lacked leadership skills.
 
 >“*I have studied the lives of generals, kings, and emperors whose names you have never heard. Understanding theories of politics and leadership, Elend Venture, is not the same as understanding the lives of men who lived such principles.*”
-\-Tindwyl on her area of expertise[12]
+\-Tindwyl on her area of expertise[11]
 
 Elend countered that he spent the last year studying as much as he could on leadership and governance, to which Tindwyl responded that he should have spent that time being seen by his people and learning to be a ruler.
 She then offered to teach him to be a better ruler, revealing that her area of expertise as a [[Keeper\|Keeper]] was in the biographies of great men of the past. Elend accepted her instruction. Vin then arrived, and demanded to know what Tindwyl was doing there. Tindwyl remarked on her directness, in contrast to how long it took Elend to ask her that same question. She made to leave, and Elend asked whether there was anything he should start practicing. Tindwyl told him to stop saying 'um'. Ham reentered the room, and Elend asked him to see that Tindwyl was given accommodations in the palace.
@@ -100,7 +98,7 @@ Some days later, Tindwyl arrived at the city wall and ordered [[Clubs\|Clubs]] t
 Tindwyl informed him they had only just begun, and that he was still a fool. She told him that he needed to work on the way he walked, his speech patterns, and how to fight, pointing out his reliance on Vin to handle all fighting for him. She intended on having him train in private with a dueling master. She concluded by telling him that he could perhaps learn to be a king, but until then would have to fake it.
 
 >“*A good king is one who is trusted by his people — and one who deserves that trust.*”
-\-Tindwyl on kings[9]
+\-Tindwyl on kings[8]
 
 [[Demoux\|Demoux]] then interrupted them, bringing news of a messenger from [[Straff Venture\|Straff Venture]]. He told Elend he liked the new uniform, before leaving. Tindwyl was pleased by this. They began to discuss what made a good king, to which Tindwyl
 responded that trust did.
@@ -109,7 +107,7 @@ Elend protested, and they went on to discuss the way kings should lead, with Tin
 They then went on to discuss leadership, and the responsibility Elend bore as king. Tindwyl advised him not to feel guilty when things went wrong, but simply try his best to make things better. When he asked what he should do if he could never make things better, Tindwyl responded that he should then remove himself from the position, preferably by suicide. When Elend asked if he should just kill himself, Tindwyl clarified that she was trying to get him to take pride in himself. Exasperated, he pointed out how she constantly disparaged his leadership abilities, and voiced his insecurities about how Kelsier would have made a better king. Tindwyl put a stop to this immediately, encouraged him to accept his place as king and his strengths, and concluded the topic by advising him to not question himself.
 
 >“*We must make allowances for the occasional exception.*”
-\-Tindwyl on love[6]
+\-Tindwyl on love[5]
 
 Tindwyl then shifted the topic to Vin — specifically, why Elend had not married her yet. The skaa, valuing monogamy, wanted the match to be official. Elend admitted that while he wanted to marry Vin, she had refused. Tindwyl suggested that perhaps Vin wasn't the right sort of woman for him, which immediately drew his ire and he jumped to her defense. Tindwyl was pleased by this, admitting that she had been testing him to see whether he truly loved Vin. She acknowledged that his affection for Vin could cause trouble in the future, but that it wasn't a reason to give her up, surprising Elend.
 They began discussing Elend's dueling lessons, but were interrupted by Demoux, bearing news of [[Allrianne\|Allrianne's]] arrival.
@@ -137,7 +135,7 @@ Tindwyl was among Elend’s entourage at the Assembly meeting following his remo
 [[Ashweather Cett\|Ashweather Cett]]’s arrival in the city and his subsequent election as a candidate for the throne sparked Elend’s desire to find information on the man, as well as possible ways of preventing his appointment as king. Later, in Elend’s study, Tindwyl observed him, [[Noorden\|Noorden]], Ham and Sazed as they combed through various texts. However, participating in the research seemed to be too much in the territory of politics for her. As they discussed Cett and his potential reign, Elend commented that they should have just gone along with the crew’s initial plan of handing the city over to Cett, rather than his own idea of playing Cett and Straff against each other, as it seemed the people wanted Cett as king. Sazed, however, said that it was not Elend’s duty to do as the people wanted. Elend noted that he sounded like Tindwyl. Sazed observed that Tindwyl was one of the wisest people he knew. As they continued their study of the law, Sazed sighed that he could find no loopholes, pointing out that he or another of the crew would have made a note of them if they had seen any when Elend had given them the laws to proofread. This caught Tindwyl’s attention, and she asks Sazed whether he had read the law before it had been formalized. Sazed seems embarrassed by this, and Elend responds for him, confirming that he had. Tindwyl is displeased by this. Elend, annoyed by this, told Tindwyl that he would not stand for her insulting Sazed, even indirectly. She apologized to Elend, but he argues that she should apologize not to him but to Sazed, or she should leave. She chose the latter, leaving the room wordlessly.
 
 >“*A man can only stumble for so long before he either falls or stands up straight.*”
-\-Tindwyl about Elend[10]
+\-Tindwyl about Elend[9]
 
 Tindwyl went to see Vin before she and Elend departed for their dinner with Cett a week later. She complimented her gown, telling her she looked beautiful. Vin hesitantly accepted the compliment, but pointed out that she had no jewelry anymore. Tindwyl brushed this aside, telling Vin she had no need of it. Vin brought up the topic of Elend, observing that Tindwyl’s lessons with him were growing less frequent. Tindwyl told her that Elend was close to no longer needing her instruction, although when Vin asked if this meant he was close to being like the men from Tindwyl’s biographies, Tindwyl laughed and disagreed, clarifying that in the future Elend would have to learn on his own, as much of good leadership came from experience. When Vin quietly remarked on how changed he was, Tindwyl agreed with her — but also, that she thought Elend was already on this path, and likely would have turned out this way even without her instruction. Vin, gazing at her reflection at the pretty gown, said that this was what she had to become, for Elend. Tindwyl agreed, but added that it was also for Vin herself, remarking that this was where Vin had been headed before her attention had been drawn by other things. Vin turned to Tindwyl, asking whether she would be accompanying them; Tindwyl said no, then pushed Vin to go and join Elend.
 
@@ -150,12 +148,12 @@ They returned to his rooms, and spent the whole night studying the rubbing of [[
 This exasperated Tindwyl; she questioned why he never defended himself. When he answered that he had no defense, Tindwyl argued that this could not be the case. She talked about how he always apologized for his behavior and sought forgiveness, and yet never changed. She noted that had he been more vocal and offered defenses for his actions, he could have been leading the Synod. She called him ‘the most contrite rebel’ she had ever known. When Sazed still offered no defense, she went on, pointing out that he had been right about the Lord Ruler — if he had tried to convince the Synod, they may have agreed. Sazed, however, disagreed, telling her that he was not like the men from her biographies — or even really a man. Tindwyl refuted that he was a better man, though she had never been able to understand why.
 
 >“*Sometimes, people only seem determined upon one course because they have been offered no other options.*”
-\-Tindwyl to Sazed[11]
+\-Tindwyl to Sazed[10]
 
 After a moment of silence, she told him that she would be leaving that day — she would offer knowledge to the armies besieging Luthadel, as she had to Elend, though she doubted that they would listen to her as Elend had. When Sazed offered no objection to her leaving, she noted that he again refused to argue. Sazed asked what the point would be, for she had made up her mind already. Tindwyl implied that she would be amenable to staying; Sazed, confused, asked about her duties as a Keeper. Tindwyl admitted that while her duties were important, ‘occasional exceptions’ could be allowed — a direct reflection of what she had told Elend before, about love. She went on to say his rubbing could perhaps benefit from further study. The deeper meaning to her words — that she wanted to be with Sazed — was made apparent to him, and he ruefully told her that he could not be what she wished, for he thought himself to not be a man. Tindwyl brushed this aside, telling him that she had had enough of men, and childbearing. She admitted that she partially resented the Terris people for what they had put her through in the breeding program, and wished for some distance from them. She went on further, confessing that she had often been frustrated at the Synod’s lack of initiative and passiveness. Only he, Sazed, had pushed for change.
 
 >“*I only ever saw one man pushing the Synod toward active measures. While they planned how to keep themselves hidden, one man wanted to attack. While they decided the best ways to foil the Breeders, one man wanted to plot the downfall of the Final Empire. When I rejoined my people, I found that man still fighting. Alone. Condemned for fraternizing with thieves and rebels, he quietly accepted his punishment. [...] That man went on to free us all.*”
-\-Tindwyl, about Sazed[11]
+\-Tindwyl, about Sazed[10]
 
 
 Taking his hand, Tindwyl explained that the men she had read about in her biographies were men who brought about change rather than planned how to hide — men like Sazed. Anxious and apprehensive, she quietly asked him to give her an excuse to remain in Luthadel with him. Sazed asked her to stay. She agreed, and they resumed their study.
@@ -165,7 +163,7 @@ During their time studying the rubbing, they discussed its key points as well as
 Tindwyl feared that Luthadel’s fall would be more brutal than the crew anticipated; Sazed conceded that they were optimists. Tindwyl, however, told him that this would be worse than the revolution which had led to the Collapse, for she had studied these things and knew how they played out. Sazed agreed with her, and they returned to their work.
 
 >“*You lost the throne because you wouldn't command your armies to secure the city, because you insisted on giving the Assembly too much freedom, and because you don't employ assassins or other forms of pressure. In short, Elend Venture, you lost the throne because you are a good man.*”
-\-Tindwyl to Elend[8]
+\-Tindwyl to Elend[7]
 
 Shortly after, Elend called upon them. Tindwyl asked him why he was disturbing them, harshly bringing up his incompetence as a means of testing to see whether he had reverted to his old self upon losing the crown, for she had heard reports of his moping. Elend, seeing her ploy, assured her that he had not lost his self-respect; she was satisfied by this. He then took a seat, asking for advice. When Tindwyl noted that she had already perhaps given him too much of her aid, for as he was a political figure it made her seem as though she were taking sides, Elend pointed out that he was no longer king. Content with this, Tindwyl allowed him to ask his question.
 Elend explained what had been on his mind: that during the vote for king, he had had an opportunity to lie, which would have secured his place on the throne. Instead he had told the truth, and lost the throne to [[Penrod\|Penrod]]. Tindwyl was unsurprised by this, as Elend had expected. He went on to ask whether what he had done was foolish. Tindwyl found it so, but argued that it wasn’t specifically that which lead to his losing the throne; rather, it was because he refused to do anything dishonorable to secure his place. Elend asked whether it was possible to both follow his conscience and be a good king, to which neither Tindwyl nor Sazed had an answer. Elend posed his question to Sazed about whether he should have lied; Sazed disagreed, saying that Elend had been true to himself. Tindwyl liked Elend’s ideals, but worried that his losing the throne could end badly for Luthadel’s people. However, Sazed maintained Elend had done the right thing and believed the rest was up to providence — or rather, God. Elend, skeptical, expressed his view on God being simply a tool of the [[/wiki/Steel Ministry#Obligators]]. As they discussed religion further, Elend noted the inconsistency of all the different religions Sazed preached and how they couldn’t all possibly be real. Tindwyl, returning to the original topic, told Elend that while she didn’t agree with his decisions, he had done what he thought was right, which was commendable. When Elend asked Tindwyl what he should do next, however, she had no answer.He then asked what the men in her biographies would have done. She again had no answer as according to her they would not have found themselves in his situation to begin with. Elend debated about whether a title was all there was to being king, before seeming to realize something and abruptly leaving. Slightly confused, Tindwyl allowed Sazed to guide her attention back to their studies.
@@ -191,7 +189,7 @@ Dockson entreated Sazed to help them, knowing Sazed did not like fighting. Tindw
 Then, he asked to speak privately with Tindwyl. Once they stepped away, Tindwyl noted that he was storing a lot of attributes. She asked whether he didn’t have metalminds he had stored previously, to which he responded that he had none besides strength, weight, and an array of [[Tin\|tinminds]]. He asked her why she had stayed in Luthadel, saying there was no place for her in the city. She countered that there was no place for him, either. Sazed refused to abandon his friends, to which she asked why he had made their leaders leave in that case. When Sazed explained he wanted them to live, Tindwyl told him that as leaders, they had to accept responsibility for their power and that the people of Luthadel would die feeling betrayed. Sazed tried to protest, but she angrily told him that even the crew expected to be saved — saved by Vin — despite the odds. Sazed repeated his sentiment that he had wanted them to live, rather than wasting their lives in a hopeless battle. Tindwyl angrily disagreed, telling him it was hope, not stubbornness, that kept her alive while she was with the Breeders.
 
 >“*Hope is never wasted.*”
-\-Tindwyl[13]
+\-Tindwyl[12]
 
 Sazed asked her if it was hope or stubbornness that kept her in Luthadel now, to which she responded that it was neither. They embraced, and Tindwyl asked Sazed whether he knew why she loved him. When he responded that he didn’t, she told him: she loved his strength of will, his willingness to appease others and yet his firmness in the face of what he knew to be right. She spoke in past-tense, though, as she told him she didn’t think his friends understood his goodness. He confessed that he was afraid he hadn’t done enough to save them. She responded that it was enough to save Vin, Elend and Spook. She still thought he was wrong to have sent them away, but that he was right, too. Still in each other’s arms, the warning drums from the city walls began to beat.
 Tindwyl made her way to the walltop, Sazed behind her, to meet the rest of the crew. Clubs told them that the alarm was raised by one of his scouts, because the Koloss were working themselves into a blood frenzy and were fighting each other. Sazed, hopeful, wondered if this meant they would fight and kill each other instead of attacking. Tindwyl, however, told him that this was how they prepared for battle.
@@ -204,7 +202,7 @@ In Northern [[Scadrial\|Scadrial]], Tindwyl is remembered as one of the [[Preser
   Studying with <<Sazed\|Sazed>>
 ### Sazed
 >“*Do you know why I love you, Sazed? [...] Because you never give in. Other men are strong like bricks — firm, unyielding, but if you pound on them long enough, they crack. You. . .you're strong like the wind. Always there, so willing to bend, but never apologetic for the times when you must be firm. I don't think any of your friends understand what a power they had in you.*”
-\-Tindwyl to Sazed[13]
+\-Tindwyl to Sazed[12]
 
 
 Tindwyl and Sazed have known each other for years. He was the one to present her with the knowledge of the Keepers, a process involving hours spent in each other's company for months on end, with Sazed reciting things to her while she memorized them. It is likely that Sazed began developing feelings for her during this time. She has conflicting feelings towards Sazed, both admiring him and growing frustrated by his rebellious actions. Despite this, after the Collapse she heeds his message and comes to Luthadel, ostensibly to train Elend -- though she also both wished and dreaded to find Sazed there. However, upon his arrival in the city she is disappointed in him for not obeying the Synod's orders.
@@ -213,14 +211,14 @@ Their relationship ends with Tindwyl's death during the battle. Sazed searches f
 
 ### Elend
 >“*Your king is a humble scholar and thinker, but he has the will of a warrior. He is a man who has the nerve to fight, and I think—perhaps—you have yet to see the best of him.*”
-\-Tindwyl about Elend[2]
+\-Tindwyl about Elend[1]
 
 
 Tindwyl comes to Luthadel to mentor Elend, and the two spend a lot of time together as she teaches him. While her behavior toward him can be harsh, she has a high opinion of him, calling him a 'fine man'. After he is deposed, she refuses to accept that he is no longer king and still calls him by his honorific, 'Your Majesty'. She helps him as he tries to get his throne back, and when he is unable to, continues to offer him counsel when asked. Despite their closeness, however, their final parting ends on a bitter note as Tindwyl is upset with him for leaving Luthadel and its people, and she dies shortly after.
 
 ### Vin
 >“*You are so much more than you are willing to accept, child. Why look at only one side of yourself, when your Elend sees so much more?*”
-\-Tindwyl to Vin[2]
+\-Tindwyl to Vin[1]
 
 
 Tindwyl expresses an interest in Vin from their first meeting. During their trip to the dressmaker’s shop, she is able to speak privately with her and in doing so comes to understand Vin better. She takes it upon herself to try and help her, as Vin struggles with balancing the skaa and noble parts of herself. While she finds her to be somewhat unstable, Tindwyl does come to care for her. She agrees with her theory about the [[Deepness\|Deepness]] being the mists — however, she does not believe that Vin is the [[Hero of Ages\|Hero of Ages]]. Their parting is not on the best of terms — Tindwyl thinks she is foolish for believing herself to be the Hero and leaving Luthadel right before the battle, and by time Vin returns Tindwyl has been killed.
@@ -233,15 +231,15 @@ Tindwyl came about from Brandon's desire to have another 'strong female characte
 
 ## Quotes
 >“*A man can only lead when others accept him as their leader, and he has only as much authority as his subjects give to him. All of the brilliant ideas in the world cannot save your kingdom if no one will listen to them.*”
-\-Tindwyl to Elend during their first meeting[12]
+\-Tindwyl to Elend during their first meeting[11]
 
 
 >“*The men I read about, Sazed, [...] these were not men who sat and planned the best ways to hide. They fought; they sought victory. Sometimes, they were reckless—and other men called them fools. Yet, when the dice were cast and the bodies counted, they were men who changed things.*”
-\-Tindwyl to Sazed[11]
+\-Tindwyl to Sazed[10]
 
 
 >“*If you perpetuate the dreams of the past, then you stifle your own dreams of the future.*”
-\-Tindwyl[3]
+\-Tindwyl[2]
 
 
 ## Trivia

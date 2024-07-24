@@ -1,8 +1,6 @@
 |**Deborah-James**|
 |-|-|
 ||
-|**Family**|
-|**Parents**|Mother|
 |**Residence**|[[Beacon\|Beacon]]|
 |**Ethnicity**|[[Threnodite\|Threnodite]]|
 |**Homeworld**|[[Canticle\|Canticle]]|

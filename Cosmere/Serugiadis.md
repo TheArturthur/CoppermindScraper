@@ -1,7 +1,5 @@
 |**Serugiadis**|
 |-|-|
-|**Family**|
-|**Siblings**|Sister|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Groups**|Kholin army|
 |**Nationality**|[[Alethi\|Alethi]]|

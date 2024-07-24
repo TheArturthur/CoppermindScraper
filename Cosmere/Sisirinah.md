@@ -6,7 +6,7 @@
 |**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
 |**Siblings**|[[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]]|
 |**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestors**|Grandfather|
+|**Ancestors**|[[Vo\|Vo]]|
 |**Abilities**|[[Royal Locks\|Royal Locks]]|
 |**Titles**|Princess of [[Idris\|Idris]], Queen of [[Hallandren\|Hallandren]], Vessel|
 |**Aliases**|Siri|
@@ -17,7 +17,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*But surely we can bend the rules a little bit?*”
-\-Siri to Treledees[3]
+\-Siri to Treledees[2]
 
 
 **Sisirinah** or **Siri** is a princess of [[Idris\|Idris]] and the queen of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]].
@@ -61,7 +61,7 @@ As a member of the Royal family of Idris she has the Royal Locks. This means she
   In Idrian garb
 ### Childhood
 >“*There were great advantages to being unimportant*”
-\-Siri thinking about herself[1]
+\-Siri thinking about herself[3]
 
 
 Siri is the youngest child of the Idrian royal family, and spent most of her youth feeling and being largely redundant. Her oldest sister, Vivenna, was being raised to marry the Hallandren [[God King\|God King]], her only brother [[Ridger\|Ridger]] was set to become the next king of Idris, and the second-youngest daughter, [[Fafen\|Fafen]], had joined the [[Austrism\|Austrian Monasteries]], as one child from each family of Idrian nobility was expected to do. Siri had no particular expectations on her, and so whiled away her days ignoring her tutors and pushing Austrism's conservative limits. She refused to control her Royal Locks, instead letting her hair always reflect her emotions; she picked colorful flowers and gave them to the children of [[Bevalis\|Bevalis]]. Her father typically ordered Siri to work in the royal kitchen when he bothered to address her misbehavior at all. Unbeknownst to him Siri was friends with the cook, [[Mab\|Mab]], and enjoyed the work.

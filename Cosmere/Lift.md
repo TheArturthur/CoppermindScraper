@@ -1,8 +1,6 @@
 |**Lift**|
 |-|-|
 ||
-|**Family**|
-|**Parents**|Mother|
 |**Born**|1160|
 |**Abilities**|[[Order of Edgedancers\|Edgedancer]], [[Shardbearer\|Shardbearer]], [[Old Magic\|Old Magic]]|
 |**Bonded With**|[[Wyndle\|Wyndle]], [[Gereh's Aviar\|Aviar]]|
@@ -17,7 +15,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Someone has to care. Too few people care these days.*”
-\-Lift[2]
+\-Lift[1]
 
 
 **Lift** is a [[Reshi\|Reshi]] thief who works in the city of [[Azimir\|Azimir]] in [[Azir\|Azir]] on [[Roshar\|Roshar]]. She's a [[Surgebinder\|Surgebinder]] of the [[Order of Edgedancers\|Order of Edgedancers]], bonded to [[Wyndle\|Wyndle]].
@@ -75,7 +73,7 @@
  
 For more images, see [[Lift/Gallery\|/Gallery]].
 >“*I'm pure. I'm a child and stuff. I'm so storming pure I practically belch rainbows.*”
-\-Lift to Wyndle[2]
+\-Lift to Wyndle[1]
 
 
 Lift is thirteen years old when the [[True Desolation\|True Desolation]] begins. She has long, straight black hair that she wears down to her waist. Her skin is tan and she has the rounded features of the [[Reshi\|Reshi]]. Her eyes were originally brown, but by the time Dalinar meets her in Azimir, her eyes are a pale, clear color, likely the result of her being an Edgedancer. Lift always keeps a [[Spheres\|diamond mark]] in her pocket, which she considers lucky.
@@ -106,7 +104,7 @@ As a Knight Radiant who has access to two Surges, Lift also has a [[Resonance\|r
 ### Old Magic
   Lift eating
 >“*This is a creation specifically meant to defy my will!*”
-\-The Stormfather about Lift's abilities[14]
+\-The Stormfather about Lift's abilities[13]
 
 
 Lift's visit to the Nightwatcher leaves her with a rather unique trait, one that is not among the typical power set of the Edgedancers. She exists partially in the Cognitive realm, which grants her some special abilities. The first is that she can touch spren, something that is supposed to be impossible, as they exist mostly in the Cognitive realm. This ability greatly helps Lift with her thievery, as Wyndle takes the form of a vine. He can make handholds or increase the width of ledges for Lift by growing where she needs to go, but no one else is able to see or touch him. She is also one of the few people who can always see [[Syl\|Syl]], regardless on whether she wants to be seen.
@@ -122,7 +120,7 @@ During the battle of Urithiru, Lift saw a fight between two chickens. She healed
 Despite Lift's race, she was not born in the [[Reshi Isles\|Reshi Isles]]. The only reason that she knows that she is Reshi is because her mother told her so. She never lived there or knew her people. Lift grew up in the city of Rall Elorim, the City of Shadows, in [[Iri\|Iri]]. Lift had a difficult childhood there. It appears she grew up on the streets there, learning to move through crowds with ease. It is possible that Lift learned her thieving skills in Rall Elorim. She eventually left Rall Elorim for unknown reasons, possibly due to her difficult life. It also seems likely that this was the time in her life when Lift attempted to stop caring.
 
 >“*When everything else is going wrong, I want to be the same. I want to stay me. Not become someone else.*”
-\-Lift's request of Cultivation[15]
+\-Lift's request of Cultivation[14]
 
 Lift visited the [[Valley\|Valley]] to see the [[Nightwatcher\|Nightwatcher]] and ask a boon of her, though she saw [[Cultivation\|Cultivation]] instead. It is unknown what Lift's boon or curse are, but her request was to not change. Her boon does not appear to have stopped her from aging, but it is possible she is incapable of growing up. Wyndle believes that Cultivation altered her to exist partially in the [[Cognitive Realm\|Cognitive Realm]]. Due to this incredible power bestowed upon Lift by their mother, the [[Ring\|Ring]] decided that Wyndle should be sent to bond with her, so he could mold her while she was still young. This granted Lift her Surgebinding abilities.
 Lift spent some time in [[Marabethia\|Marabethia]], where she was hunted by Darkness, because he believed that her Surgebinding could bring another [[Desolation\|Desolation]] to Roshar. She fled Marabethia and went to the capital of Azir, Azimir. There, Lift fell in with a crew of thieves. The crew was made up of [[Tigzikk\|Tigzikk]], who Lift called Tig, [[Huqin\|Huqin]], his nephew Gawx, [[Maxin\|Maxin]], and two unnamed brothers who were quick with knives. Tigzikk was the only one Lift knew well. An informant told him which night would be good for robbing the [[Bronze Palace\|Bronze Palace]], while the vizerate was busy choosing a new [[Prime Aqasix\|Prime Aqasix]], following the death of the last two at the hands of [[Szeth\|Szeth]]. Lift could have robbed the palace on her own, but she felt like she owed it to Tigzikk to help him, and she wanted to make sure that he would be safe.
@@ -131,14 +129,14 @@ Sometime between visiting the Nightwatcher and the events of the [[Bronze Palace
   Lift in the Bronze Palace
 ### Bronze Palace Heist
 >“*What's the point of sneaking into a palace if not to get in trouble?*”
-\-Lift[2]
+\-Lift[1]
 
 
 When the crew entered the grounds of Bronze Palace, Lift spotted Darkness in the streets near the palace and quickly climbed the wall to escape. She used Wyndle to gain access to a room which the thieving crew began ransacking for clothes and shoes. Lift was supposed to keep watch in the room with Gawx, but she left in search of food, and he followed. They disagreed about where to go; she wanted to go to the Prime's quarters where she could find food, but Gawx wanted to go to the Vizers' quarters, which he thought would be mostly empty. They each went their separate ways.
 Lift managed to successfully sneak into the Prime's quarters because of the commotion caused when Gawx was caught. However, before she could eat much food, Darkness arrived, along with two associates, bearing forms that gave him the authority to arrest and execute her. Lift was briefly captured and managed to escape, but during the process one of Darkness's men cut Gawx's throat. Despite the fact that she was safely away, Lift decided to return to try to heal Gawx from his wound.
 
 >“*I will remember those who have been forgotten.*”
-\-The Second Ideal of the Edgedancers[2]
+\-The Second Ideal of the Edgedancers[1]
 
 
 Lift stated the [[Immortal Words\|second ideal]] of the Edgedancers and performed [[Regrowth\|Regrowth]] for the first time to heal him. Consequently Darkness captured her and dragged her away to execute her. However, the viziers thought that Gawx healed himself, and believed that it was a sign from the Heralds that Gawx was to be their new Prime Aqasix. They thought it meant that he could survive future attacks from the [[Szeth\| Assassin in White]]. Gawx hurriedly pardoned Lift for her crimes, and Darkness was forced to release her.
@@ -163,7 +161,7 @@ Outside Lift found that instead of the old man being the one harmed, it was in f
 She arrived at the orphanage to find that Darkness had beaten her there. They fought and he ultimately trapped her with his knife until the Stump came back down from the roof of the orphanage. The Stump struck Darkness with a wood board, which allowed Lift to free herself. Darkness stabbed the Stump and left her to bleed out while he chased Lift. Wyndle encouraged Lift to "Say the Words". Lift said that she'd spoken them in her heart, but wondered how they could help. They ended up on the roof, where Wyndle formed a shard weapon to block Darkness' Shardblade. As Nale taunted her, Lift spoke aloud the [[Immortal Words\|third ideal]] of the Edgedancers. She urged Nale to view the raging Everstorm and parshmen transformed into Stormform Listeners which convinced him that the Voidbringers were back, and that there was no point in killing Surgebinders.
 
 >“*I will listen to those who have been ignored.*”
-\-The Third Ideal of the Edgedancers[7]
+\-The Third Ideal of the Edgedancers[6]
 
 
 Lift was able to help Stump heal, and explained to her some of the abilities she has, like the ability to heal herself and those around her. Lift then left to head back to Azimir.
@@ -200,7 +198,7 @@ Lift was bound up and laid next to Kaladin's parents. She was brought to the inf
   Lift and <<Wyndle\|Wyndle>>
 ### Wyndle
 >“*You're my pet [[Voidbringer\|Voidbringer]], and no lies are going to change that. I got you captured. No stealing souls, now.*”
-\-Lift to Wyndle[2]
+\-Lift to Wyndle[1]
 
 
 [[Wyndle\|Wyndle]] was assigned to Lift by the [[Ring\|Ring]], the ruling body of the [[Cultivationspren\|Cultivationspren]]. The two start off on the wrong foot, as Wyndle doesn't appreciate Lift's particular train of thought, while Lift considers him - perhaps half-jokingly - to be a [[Voidbringer\|voidbringer]]. She enjoys teasing him and making fun of him, and he admits that he'd much rather pick someone calmer to bond, if it was up to him. Though Wyndle knows a lot about [[Realmatic Theory\| Realmatics]] and the mechanisms of Radiance, Lift isn't interested in listening to him, and will sometimes withhold information from him in turn.
@@ -213,7 +211,7 @@ By the time [[Dalinar\|Dalinar]] begins to curry favour with the Azish, Yanagawn
 ### Dalinar
   <<Dalinar\|Dalinar>> and Lift sharing snacks in the <<Bronze Palace\|Bronze Palace>> waiting room
 >“*Your butt is too nice. Old guys shouldn’t have nice butts. It means they spend way too much time swinging a sword or punching people. You should have an old flabby butt. Then I’d trust you.*”
-\-Lift to Dalinar[14]
+\-Lift to Dalinar[13]
 
 
 When Lift first sees [[Dalinar\|Dalinar]], she is highly mistrustful of him, both because of his past as the Blackthorn and because he is unlike other government official she's familiar with (in her words, "his butt is too nice"). She is more open to listening to him after seeing his first confrontation with [[Odium\|Odium]]. She steals his food when he's waiting for the officials' decision in [[Azimir\|Azimir]]. That he does not begrudge her for it seems to earn him some points with her, and she even agrees to share some of the stolen food back.

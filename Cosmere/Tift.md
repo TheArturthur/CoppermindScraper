@@ -1,7 +1,5 @@
 |**Tift**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

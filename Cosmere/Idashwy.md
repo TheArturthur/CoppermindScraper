@@ -1,7 +1,5 @@
 |**Idashwy**|
 |-|-|
-|**Family**|
-|**Siblings**|Brother|
 |**Died**|[[Hemalurgy\|Hemalurgy]]|
 |**Abilities**|[[/wiki/Steel#Feruchemical Use]]|
 |**Residence**|[[Elendel\|Elendel]]|
@@ -15,7 +13,7 @@ Idashwy grew up in [[The Village\|the Village]] but would often sneak out in her
 
 ## Wayne's speculation about Idashwy
 >“*And she left again, on account of the Village being so dull as to bore the sense out of a scribe. Our miss, she tried to remain conservative at first, so she got a job as a clerk, a good Terris occupation. She convinced herself that a nice apartment - where she was safe from the supposed horrors of lesser neighborhoods - was worth the expense. Simple stuff. But then some workers at the jeweler took her out, and she let herself drink. She liked that. Awakened memories of sneaked drinks as a youth. She wanted more, so she bought a whole mess of different kinds of spirits to try them all out. She liked port best, by the way. Now we find her with increasingly liberal dresses, showing more skin, spending most evenings out. Give her a few more months, and she’d have turned into a right proper girl to have a good time with.*”
-\-Wayne[2]
+\-Wayne[1]
 
 
 ## Trivia

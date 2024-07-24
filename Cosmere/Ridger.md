@@ -4,7 +4,7 @@
 |**Parents**|[[Dedelin\|Dedelin]], [[Vivenna's mother\|Mother]]|
 |**Siblings**|[[Vivenna\|Vivenna]], [[Fafen\|Fafen]], [[Siri\|Siri]]|
 |**Relatives**|[[Denth\|Denth]], [[Shashara\|Shashara]]|
-|**Ancestors**|Grandfather|
+|**Ancestors**|[[Vo\|Vo]]|
 |**Abilities**|[[Royal Locks\|Royal Locks]]|
 |**Titles**|Heir to the throne of [[Idris\|Idris]]|
 |**Residence**|[[Bevalis\|Bevalis]]|

@@ -2,9 +2,8 @@
 |-|-|
 ||
 |**[[House Davar\|House Davar]]**|
-|**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|mother]]|
+|**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|Mother]]|
 |**Siblings**|[[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
-|**Ancestors**|Grandfather|
 |**Died**|Ishi ? 1172|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Groups**|[[Order of Skybreakers\|Order of Skybreakers]]|
@@ -35,7 +34,7 @@
   With <<Shallan\|Shallan>>
 For more images, see [[Helaran Davar/Gallery\|/Gallery]].
 >“*Helaran's grin was so wide, it practically glowed. It was hard to frown in a room where he was smiling.*”
-\-Shallan's thoughts on her brother.[4]
+\-Shallan's thoughts on her brother.[3]
 
 
 Helaran is tall, muscular, and square-chinned, although his father is taller than he is.
@@ -69,7 +68,7 @@ When Helaran leaves the house for the first time he doesn't think [[Balat\|Balat
 
 ### Lin Davar
 >“*There are more important things in this world, more important even than you and your crimes.*”
-\-Helaran to his father before leaving house Davar [4]
+\-Helaran to his father before leaving house Davar [3]
 
 
 Helaran is sure [[Lin\|his father]] killed [[Shallan's mother\|his mother]] and her lover. He confronts him as he leaves his house. Even though they don't see each other again, they grow further apart; Helaran sends him a message stating that he has eyes nearby, and is watching, causing himself to be disinherited and to lose his title of Nan. Later, Lin Davar finds that Helaran talked to Balat and sends a guard to kill him.

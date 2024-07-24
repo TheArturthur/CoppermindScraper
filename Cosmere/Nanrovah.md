@@ -1,16 +1,14 @@
 |**Nanrovah**|
 |-|-|
 |**Family**|
-|**Spouse**|Wife|
-|**Children**|[[Misel\|Misel]], Children|
-|**Parents**|Father|
+|**Children**|[[Misel\|Misel]]|
 |**Nationality**|[[Hallandren\|Hallandren]]|
 |**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*…still say that we cannot possibly justify military action against Idris!*”
-\-Nanrovah[2]
+\-Nanrovah[1]
 
 
 **Nanrovah** is a priest in the [[Hallandren\|Hallandren]] [[Court of Gods\|Court of Gods]] prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].

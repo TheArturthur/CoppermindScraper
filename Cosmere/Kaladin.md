@@ -5,7 +5,6 @@
 |**Parents**|[[Lirin\|Lirin]], [[Hesina\|Hesina]]|
 |**Siblings**|[[Tien\|Tien]], [[Oroden\|Oroden]]|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
-|**Ancestors**|Grandparents|
 |**Born**|Late 1153|
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Sylphrena\|Sylphrena]]|
@@ -23,7 +22,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I don't know what I am either. A bridgeman? A surgeon? A soldier? A slave? Those are all just labels. Inside, I'm me. A very different me than I was a year ago, but I can't worry about that, so I just keep moving and hope my feet take me where I need to go.*”
-\-Kaladin to Sylphrena[6]
+\-Kaladin to Sylphrena[5]
 
 
 **Kaladin**, nicknamed **Kal**, renowned as **Kaladin Stormblessed**, is a [[Order of Windrunners\|Windrunner]] of the [[Knights Radiant\|Knights Radiant]] from [[Alethkar\|Alethkar]]. Despite being trained as a surgeon from an early age by [[Lirin\|his father]], his chosen profession is that of a soldier. He is famed as the captain of [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin's]] personal guard, a unit known as [[Bridge Four\|Bridge Four]], commander of the [[Bridge crew\|bridgemen]] battalion and Highmarshal of the Order of Windrunners.
@@ -184,7 +183,7 @@ Kaladin is a very tall man, even tall by Alethi standards, standing approximatel
 
 ### Personality
 >“*Authority doesn't come from a rank. [It comes] from the men who give it to you. That's the only way to get it.*”
-\-Kaladin[6]
+\-Kaladin[5]
 
 
 Kaladin is a natural leader who inspires belief and confidence in his men. His squad members in [[Amaram\|Amaram's]] army call him lucky and believe that being in his squad grants them supernatural protection. Kaladin also transforms [[Bridge Four\|Bridge Four]] from a dejected and despondent group with the worst reputation into a highly-motivated and effective fighting force. [[Dalinar Kholin\|Dalinar Kholin]] remarks that his men are remarkably loyal and think very highly of him.
@@ -243,7 +242,7 @@ Two months later, thirteen-year-old Kal attempted to treat a five-year-old girl 
 
   Young Kal and Tien
 >“*You have to learn when to care, son. And when to let go.*”
-\-Lirin to Kal after Miasal's death[67]
+\-Lirin to Kal after Miasal's death[66]
 
 Near the end of 1166, Kal was walking through the city of [[Hearthstone\|Hearthstone]] when he overheard two women claiming that his father stole the spheres from Citylord [[Wistiow\|Wistiow]] upon his death. Gritting his teeth and knowing that was his father, Kal stepped out of the alleyway and gave one of the women a sharp look, causing both to flee inside the bakery. His satisfaction was short-lived as he didn’t understand why people said such things about his father. He was still stewing when he turned a few corners, walking to where his mother stood on a stepladder. When [[Hesina\|Hesina]] asked about his lessons, he blurted out that everyone hated his father and that they believed he stole the spheres from Wistiow. He also lamented that he didn’t have friends and asked what would happen if he wanted to become something other than a surgeon. Hesina reminded him that he had [[Tien\|Tien]] and that he shouldn’t be so quick to discard his studies because he wanted to be like the others. She also told him not to hate the townspeople as they were just repeating what they had heard. Seeing her glance to the citylord’s manor, Kal debated whether or not he should try to see [[Laral\|Laral]] again. Each time he had tried, he’d been turned away by her nurse. He wondered what it would be like marrying Laral and if he did, would he always feel inferior to her. He was still considering this fact and debating whether or not to be a surgeon or a soldier when [[Lirin\|Lirin]] ran in declaring the new citylord had arrived.
 
@@ -268,7 +267,7 @@ In the [[Weeping\|Weeping]] of 1168, Kaladin found himself increasingly hoping f
 However, it was short-lived as Kaladin admitted his concerns about their father having to spend the spheres to not only [[Tien\|Tien]], but also his mother. [[Hesina\|Hesina]] promised him that there would be enough spheres for him to go to [[Kharbranth\|Kharbranth]] in two months. Kaladin suggested that perhaps the entire family should come with him, not wanting to leave them behind, especially with Roshone “strangling” them. Hesina informed Kaladin that they only spent the spheres to make [[Roshone\|Roshone]] think he was winning, not because they needed to. Once Kaladin left, the spheres would be safe in the hands of the ardents while he studied to become a surgeon. However, Hesina reminded him that that his life was his own and that he didn’t have to become a surgeon to make them proud. They sat for awhile, Kaladin considering her words and what Tien could possibly like about the rain, when Lirin came with news that there was a gathering in the square.
 
 >“*In four years, I will bring him home safely. I promise it by the storms and the Almighty's tenth name itself. I will bring him back.*”
-\-Kaladin's promise to his parents[19]
+\-Kaladin's promise to his parents[18]
 
 [[Roshone\|Roshone]] assembled the townsfolk as [[Meridas Amaram\|Meridas Amaram]], a general for [[Highprince\|Highprince]] [[Torol Sadeas\|Sadeas]], had arrived in [[Hearthstone\|Hearthstone]] to recruit soldiers for the army. There, Kaladin and his family were shocked to learn that [[Laral\|Laral]] was now engaged to Roshone himself after [[Rillir\|Rillir]]’s death. Meanwhile, since only six men had volunteered, Amaram asked Roshone to announce the list of conscripts. As citylord, Roshone was barred from placing [[Lirin\|Lirin]] or Kaladin on the conscription list because they served a vital function to the town. However, Roshone placed [[Tien\|Tien]]’s name on the list instead. When Kaladin tried to take his brother’s place, he was denied because the law gave the choice to Roshone alone. Left with no other option, Kaladin enlisted in the army in order to protect Tien and promised his devastated parents that he would bring Tien back safely in four years. Amaram also promised Lirin that he would make Tien a messenger boy for a while.
 
@@ -277,13 +276,13 @@ However, it was short-lived as Kaladin admitted his concerns about their father 
 Kaladin received his initial training under [[Tukks\|Tukks]], who taught him the importance of controlled passion—to be passionate and to care without losing control of his emotions—a lesson that he did not initially understand. During his training, Kaladin demonstrated a natural aptitude for being a soldier, learning the spear faster than anyone else in his cohort, barely even needing instruction, much to Tukks’ surprise. After freezing on the battle field the first time, Kaladin was assigned cleaning duty by Tukks. Not to punish him, but to help him fit in more. Tukks explained about how many soldiers struggle with the need to hurt the enemy. However, Kaladin didn't believe he froze because he was afraid to hurt someone, but because he realized he could kill, if needed.
 
 >“*It’s good to care when you fight, so long as you don’t let it consume you. Don’t try to stop yourself from feeling. You’ll hate who you become.*”
-\-Tukks to Kaladin on his first day of training[48]
+\-Tukks to Kaladin on his first day of training[47]
 
 
   Kaladin holding Tien's dead body
 #### Tien's Death
 >“*Don't worry. I'll bring you home. I'll protect you, Tien. I'll bring you back...*”
-\-Kaladin weeping over Tien's body[41]
+\-Kaladin weeping over Tien's body[40]
 
 Despite [[Amaram\|Amaram]]’s promise to [[Lirin\|Lirin]], the older messenger boys, including [[Tien\|Tien]], were soon organized into several squads of reserve units to make up for a shortfall in recruitment. [[Dalar\|Dalar]] assured Kaladin that these squads would not see combat unless the army was in serious danger. Less than four months after his enlistment, Kaladin took part in his third real battle. Amaram’s army was attempting to hold a hilltop, but as the battle deteriorated, messenger boys were assigned to [[Sheler\|Sheler's]] company. Hearing that the messenger squad was sent to the front, Kaladin ran recklessly through the battlefield in an attempt to reach his brother. On the southeast side of the hill, Squadleader [[Varth\|Varth]] placed Tien and two other boys in the front lines, successfully using them as bait. Kaladin, killing a man for the first time during his run, reached Tien only after he had been killed. Weeping and bleeding from wounds taken during his run, he hugged Tien’s dead body until long past the end of the battle.
 
@@ -299,7 +298,7 @@ Immediately after, an unknown enemy, a full Shardbearer, later revealed to be [[
 #### Betrayal
   Kaladin's branding
 >“*It’s not about Alethkar! It’s about you! Storm it, you’re supposed to be better than the others!*”
-\-Kaladin to Amaram.[55]
+\-Kaladin to Amaram.[54]
 
 
 A few hours later, Kaladin was called to [[Amaram\|Amaram]]’s warcenter, where he met Amaram and a group of his men along with the four surviving members of his squad. After a short conversation, Amaram and his men ambushed Kaladin, killing the surviving members of Kaladin’s squad while Kaladin himself was restrained. Amaram apologized but said this was the only way to ensure secrecy. He informed Kaladin that he had thought it over for hours before finally being convinced by [[Restares\|Restares]] that the best interests of Alethkar would served if he wielded the Shards himself. As an act of mercy and gratitude, Amaram spared Kaladin’s life and branded him with the “[[/wiki/Glyphs/Index#Sas]] [[/wiki/Glyphs/Index#Nahn]]” [[Glyphpair\|glyphpair]] to mark him as a slave to be sold.
@@ -425,7 +424,7 @@ After accepting Zahel's offer to train, Kaladin, Teft, Moash, and [[Yake\|Yake]]
 Kaladin surveyed some of the bridge crews one night, before Syl convinced him to relax a litle and get some stew. He made his way back to Bridge Four's barracks, and was met with two Herdazians: Lopen's "cousins." Kaladin found [[Shen\|Shen]] stacking bags of grain in the storage room, and Kaladin apologized for being hesitant to arm Shen. He handed a spear to Shen, before being called out by Moash. Upon Moash's prompting, Kaladin agreed to get drinks with some of the bridgemen. When they arrived, [[Peet\|Peet]] got them a table and Rock told the story of his people. Eventually, Moash took Kaladin aside, and they met with [[Graves\|Graves]] and some others, including [[Danlan\|Danlan]], a women Adolin had previously courted. Graves asked Kaladin to consider assisting them on their mission to assassinate Elhokar, and Kaladin hesitantly agreed, to Syl's dismay. As they left the room, Kaladin forbid Moash from talking or meeting with Graves and the others again.
 
 >“*How long had it been since he felt this good, this triumphant, this alive?*”
-\-Kaladin reflecting on his flight[30]
+\-Kaladin reflecting on his flight[29]
 
 One night, Kaladin strolled along the Shattered Plains, looking for the place at which he met Wit, months before. Upon reaching the desired location, Kaladin stepped off the edge, plummeting into the chasm. After sucking in Stormlight to assist with the landing, he took off in a jog and practiced Lashing himself to the walls of the chasm. After some time, he was able to do so without stumbling, and was soon able to repeatadly Lash himself quicker and more accurately. He threw caution aside and Lashed himself upward, towards the sky, and experienced true freedom and triumph for the first time after Tien's death. Soon, he was hurtling past chasms and plataues at incredible speeds. Kaladin Lashed himself higher and higher, before reluctantly returning to the ground, fearing he would run out of Stormlight. He conversed with Syl for a moment, before he retured to the warcamps. But rather than returning to Dalinar's camp, he traveled to Sadeas', realizing he could kill Amaram right then and there. Syl pleaded for him not to and reminded Kaladin of the experience he just had. Intent on not tainting the memory, Kaladin returned to Dalinar's camp. Upon returning, he encountered Shen, who said he needed to leave, and gave Kaladin his real name: Rlain. He then departed.
 Adolin was guarded under Kaladin on the day he was supposed to meet with Shallan. As the pair made their way to the carriage, Kaladin realized the driver was none other than Wit. As the carriage moved along, Kaladin spoke with Wit, who revealed he knew about Kaladin's abilities. When they arrived at Sebarial's camp, Shallan hugged Wit, to everyone's surprise. Kaladin accompanied the couple to a menagerie in the Outer Market. On the way there, he rode in the carriage with Adolin and Shallan, as he was suspicious of her. Upon their arrival at the menagerie, Kaladin realized Wit was gone, replaced with one of Adolin's servants. Kaladin talked with Syl and walked with Adolin and Shallan as they observed the animals. Soon, Dalinar arrived, accompanied by Amaram, who was wearing a strange cloak. Dalinar then announced that the Knights Radiant had been reestablished, with Amaram at their head.
@@ -685,7 +684,7 @@ Merin's name was up for change for a while at this point, as it sounded too much
 
 
 >“*Tradition is the blind witness they use to condemn us, Teft. It's the pretty box they use to wrap up their lies. It makes us serve them.*”
-\-Kaladin about lighteyes[54]
+\-Kaladin about lighteyes[53]
 
 
 >“*Soon you'll hardly be a spren at all. You'll be a little translucent philosopher. We'll have to send you off to a monastery to spend your time in deep, important thoughts.*”
@@ -697,7 +696,7 @@ Merin's name was up for change for a while at this point, as it sounded too much
 
 
 >“*I've been here before! What happened last time? I've learned! I won't be a fool again! I owe you nothing, Kholin.*”
-\-Kaladin yelling before helping Dalinar's army[41]
+\-Kaladin yelling before helping Dalinar's army[40]
 
 
 >“*Honor is dead. But I'll see what I can do.*”
@@ -705,7 +704,7 @@ Merin's name was up for change for a while at this point, as it sounded too much
 
 
 >“*One future daughter-in-law, delivered safe and sound. Sorry about the damage to the packaging.*”
-\-Kaladin to Dalinar about Shallan after they fell into the chasms[18]
+\-Kaladin to Dalinar about Shallan after they fell into the chasms[17]
 
 
 ## Trivia

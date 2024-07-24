@@ -1,7 +1,5 @@
 |**Isabi**|
 |-|-|
-|**Family**|
-|**Parents**|Parent|
 |**Profession**|Scholar|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

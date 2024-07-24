@@ -1,8 +1,6 @@
 |**Elizandra Dramali**|
 |-|-|
 ||
-|**Family**|
-|**Parents**|Mother|
 |**Ethnicity**|[[Koloss\|Koloss]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

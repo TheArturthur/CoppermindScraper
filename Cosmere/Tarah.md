@@ -1,8 +1,6 @@
 |**Tarah**|
 |-|-|
 ||
-|**Family**|
-|**Parents**|Father|
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

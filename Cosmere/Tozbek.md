@@ -2,7 +2,6 @@
 |-|-|
 ||
 |**Spouse**|[[Ashlv\|Ashlv]]|
-|**Siblings**|Brother|
 |**Profession**|Sailor|
 |**Nationality**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

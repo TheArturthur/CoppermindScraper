@@ -2,9 +2,8 @@
 |-|-|
 ||
 |**[[House Davar\|House Davar]]**|
-|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|mother]]|
+|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|Mother]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
-|**Ancestors**|Grandfather|
 |**Born**|c. 1154|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Veden\|Veden]]|
@@ -50,7 +49,7 @@ He has some understanding of the political machinations among [[Veden\|Veden]] [
 ## History
   With his parents and siblings
 >“*He loved Helaran, and none of us are him, so we don’t matter. Helaran is never here! He betrayed Father, almost killed him. And still, he’s the only one who matters....*”
-\-Jushu, on his father's favoritism of Helaran[7]
+\-Jushu, on his father's favoritism of Helaran[6]
 
 
 ### Early Life
@@ -65,7 +64,7 @@ After the incident with Mill, Balat assumed that Jushu's addiction caused him to
 
 ### Lin's Death
 >“*Does it feel odd to anyone else to be this rich? How many deposits of valuable stone are there on our lands?*”
-\-Jushu[8]
+\-Jushu[7]
 
 
 After [[Luesh\|Luesh]] became the Davar house steward around 1172, the Davar family's financial situation quickly turned around, as Luesh was secretly a [[Soulcaster\|Soulcaster]] and member of the [[Ghostbloods\|Ghostbloods]]. Jushu enjoyed the newfound wealth, although it may have enabled him to start using [[Firemoss\|firemoss]]. He was, however, the only sibling who questioned the origin of the suddenly plentiful ore deposits found on their lands.

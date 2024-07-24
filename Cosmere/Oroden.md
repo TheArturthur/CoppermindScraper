@@ -5,7 +5,6 @@
 |**Parents**|[[Lirin\|Lirin]], [[Hesina\|Hesina]]|
 |**Siblings**|[[Kaladin\|Kaladin]], [[Tien\|Tien]]|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
-|**Ancestors**|Grandparents|
 |**Born**|1172 or 1173|
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Residence**|[[Hearthstone\|Hearthstone]] , [[Urithiru\|Urithiru]]|

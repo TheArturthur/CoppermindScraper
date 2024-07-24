@@ -1,7 +1,6 @@
 |**Punio**|
 |-|-|
 |**[[Lopen's family\|Lopen's family]]**|
-|**Spouse**|Wife|
 |**Relatives**|[[Lopen\|Lopen]]|
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] Roion army , [[Bridge Four\|Bridge Four]], Kholin army|

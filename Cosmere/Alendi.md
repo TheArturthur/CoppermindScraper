@@ -1,9 +1,6 @@
 |**Alendi**|
 |-|-|
 ||
-|**Family**|
-|**Spouse**|Wife|
-|**Parents**|Father|
 |**Died**|0 [[Final Empire\|FE]], killed by [[Rashek\|Rashek]]|
 |**Abilities**|[[/wiki/Bronze#Allomantic Use]]|
 |**Titles**|Alendi the Conqueror, Hero of Ages, King of Khlennium|

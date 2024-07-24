@@ -1,7 +1,5 @@
 |**Johnst**|
 |-|-|
-|**Family**|
-|**Children**|Children|
 |**Died**|Killed and replaced by [[Bleeder\|Bleeder]].|
 |**Profession**|Farmer|
 |**Residence**|[[Elendel Basin\|Elendel Basin]]|

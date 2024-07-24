@@ -1,7 +1,5 @@
 |**Ka**|
 |-|-|
-|**Family**|
-|**Siblings**|Sister|
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Profession**|Barmaid, Scribe|
 |**Residence**|[[Urithiru\|Urithiru]]|

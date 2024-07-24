@@ -3,7 +3,6 @@
 ||
 |**[[House Ladrian\|House Ladrian]]**|
 |**Spouse**|[[Allrianne Cett\|Allrianne Cett]]|
-|**Siblings**|Brothers|
 |**Descendants**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Abilities**|[[/wiki/Brass#Allomantic Use]]|
 |**Aliases**|Breeze, Counselor of Gods|
@@ -15,7 +14,7 @@
 |**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*My dear friend, the entire point of life is to find ways to get other people to do your work for you. Don't you know anything about basic economics?*”
-\-Breeze to Hammond.[2]
+\-Breeze to Hammond.[1]
 
 
 **Edgard Ladrian**, better known as **Breeze**, is a member of [[Kelsier's crew\|Kelsier's crew]] on [[Scadrial\|Scadrial]]. He is a [[Brass\|brass]] [[Misting\|Misting]] (aka a [[Soother\|Soother]]).
@@ -54,6 +53,7 @@ He is a [[Soother\|Soother]], who subtly Soothes everyone he comes across. This 
 ## History
 ### Early Life
 Breeze's age is never explicitly stated, but can be estimated. He claims that "[[Allrianne\|Allrianne]] is half his age" and that he has spent 30 years in the underground. This implies a birth date between 980 [[Final Empire\|FE]] (assuming he joined the underground at the age of 14) and 988 [[Final Empire\|FE]] (a literal double of Allrianne's age). As a full blooded nobleman, it is fairly safe to assume he did not join the underground before the age of 10 and that 30 years in the underground can mean no less than 26 years, even if he is rounding by decades rather than the more usual 5 years. This puts the very latest date at 988 [[Final Empire\|FE]], but it is probably more around 984 [[Final Empire\|FE]]. However, during the [[Siege of Luthadel\|Siege of Luthadel]] Vin notes that Breeze's hair is not turning gray despite him being in his mid-forties.
+At some point, his family fell on hard times, and his brother turned on the family by betraying them to a rival house. Breeze escaped and went into hiding, joining a thieving crew while posing as a half-skaa. After impressing them with his ability to imitate noblemen, he eventually joined Kelsier's crew.
 
 ### Kelsier's Crew
 Breeze was invited by Dockson to attend Kelsier's meeting in Camon's old lair. He and Ham arrived around the same time and met [[Vin\|Vin]]. She got angry when she realized he was Soothing her. When Kelsier explained his plan, Breeze joined his crew.
@@ -84,7 +84,7 @@ Clubs and Breeze have a special relationship, that originally started out strain
 
 ### Ham
 >“*Honestly, Hammond. I think your jokes are getting worse as you age. One too many hits on the head while sparring, I suspect.*”
-\-Breeze to Hammond after his long time in Fadrex City.[12]
+\-Breeze to Hammond after his long time in Fadrex City.[11]
 
 
 Breeze has an interesting relationship with Ham. The two often spend much of their time talking and traveling to and from meetings together. While Breeze can be, at times, annoyed with Ham's warrior philosophy mentality; he enjoys the majority of their time together. They are overall, good friends and colleagues.

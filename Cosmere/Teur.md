@@ -1,7 +1,5 @@
 |**Teur**|
 |-|-|
-|**Family**|
-|**Spouse**|Wife|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|

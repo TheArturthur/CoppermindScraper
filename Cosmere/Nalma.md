@@ -1,7 +1,5 @@
 |**Nalma**|
 |-|-|
-|**Family**|
-|**Spouse**|Husband|
 |**Died**|c. 1173|
 |**Profession**|Slave|
 |**Homeworld**|[[Roshar\|Roshar]]|

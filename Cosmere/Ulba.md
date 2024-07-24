@@ -2,14 +2,14 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Lem\|Lem]]|
-|**Children**|[[Tress\|Tress]], Son|
+|**Children**|[[Tress\|Tress]]|
 |**Residence**|[[Diggen's Point\|Diggen's Point]]|
 |**Homeworld**|[[Lumar\|Lumar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
 >“*Everything is extraordinary about you, Tress. That's why nothing in particular stands out.*”
-\-Ulba[2]
+\-Ulba[1]
 
 
 **Ulba** is a citizen of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]]. She is [[Tress\|Tress']] mother. Ulba is kind, practical and supportive.

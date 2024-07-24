@@ -1,7 +1,5 @@
 |**Rittle**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Profession**|Guard|
 |**Religion**|[[Survivorism\|Survivorism]]|
 |**Groups**|[[Yeden\|Yeden's]] army Venture army|

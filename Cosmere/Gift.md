@@ -4,7 +4,6 @@
 |**Parents**|[[Lunamor\|Lunamor]], [[Tuaka\|Tuaka]]|
 |**Siblings**|[[Cord\|Cord]], [[Rock (junior)\|Rock]], [[Star\|Star]], [[Kuma'tiki\|Kuma'tiki]], [[Beautiful Song\|Beautiful Song]]|
 |**Relatives**|[[Kef'ha\|Kef'ha]], [[Sinaku'a\|Sinaku'a]], [[Tifi\|Tifi]]|
-|**Ancestors**|Grandfather, Grandmother|
 |**Religion**|[[Vorinism\|Vorinism]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
@@ -13,7 +12,7 @@
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*Ha! When I left, Gift was short like Skar. Now he is nearly my height!*”
-\-Lunamor[2]
+\-Lunamor[1]
 
 
 **Gift** is an [[Unkalaki\|Unkalaki]] on [[Roshar\|Roshar]]. He is [[Lunamor\|Lunamor]] and [[Tuaka\|Tuaka's]] eldest son, and a twin brother to [[Cord\|Cord]]. The young boy is very tall and pale-skinned. He is [[Vorin\|Vorin]], and wears a [[Glyphward\|glyphward]] tied to his arm.. Per his culture's traditions, he has the honor of gathering food as his occupation.

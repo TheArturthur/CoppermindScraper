@@ -3,7 +3,7 @@
 ||
 |**Family**|
 |**Spouse**|[[Sisirinah\|Sisirinah]]|
-|**Parents**|[[Susebron's mother\|Mother]], Father|
+|**Parents**|[[Susebron's mother\|Mother]]|
 |**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|[[God King\|God King]] of [[Hallandren\|Hallandren]], Susebron the Grand, Immortal Majesty, His Excellent Grace|
 |**Residence**|[[T'Telir\|T'Telir]]|
@@ -13,7 +13,7 @@
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
 >“*When others look at something—a person—one may sometimes seem more beautiful than another. This is not so for me. I see only the colors. The rich, wondrous colors that make up all things and give them life.*”
-\-Susebron to Siri[3]
+\-Susebron to Siri[2]
 
 
 **Susebron**, also known as **Susebron the Fifth**, is the God King of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive. He is the fifth God King in the three hundred years since the Manywar.
@@ -43,7 +43,7 @@
  
 For more images, see [[Susebron/Gallery\|/Gallery]].
 >“*All of those stories are just tales told by people who lived lives before ours. What they say about humankind is true. I have watched and seen how people act. It is strange, for me, to interpret these things, for I do not see as normal men do. I am the God King. Everything, to my eyes, has the same beauty.*”
-\-Susebron on his perception of beauty[3]
+\-Susebron on his perception of beauty[2]
 
 
 As a Returned, Susebron looks about twenty, much younger than his fifty years. He is described as having dark hair, black eyes, and pale skin, though it is revealed later that he can learn to change his appearance at will.
@@ -81,7 +81,7 @@ Throughout most of his life, Susebron resided mostly alone in the black palace o
 ### Marriage to Siri
   <<Siri\|Siri>> kneeling before Susebron
 >“*I don't think God Kings are supposed to be "sweet."*”
-\-Susebron showing his lack of knowledge on metaphorical terms[3]
+\-Susebron showing his lack of knowledge on metaphorical terms[2]
 
 
 To forestall a war between [[Idris\|Idris]] and Hallandren, Susebron was promised the hand of king [[Dedelin\|Dedelin's]] daughter, [[Vivenna\|Vivenna]]. At the last moment, however, she was swapped for her sister, [[Sisirinah\|Sisirinah]], and Susebron ended up marrying Siri. For a long time, Susebron and Siri met only at night, as the priests wanted them to make a child, but neither acted, as Siri was awaiting Susebron's first move while Susebron had no idea what was expected of him. Initially, he did not understand Siri, uncertain as to why she spent her nights waiting, naked, on his floor. After a nearly a week of this routine, Siri approached him and berated him for doing nothing but watch throughout all the previous week. When Susebron approaches, it is revealed that he has no tongue. Siri, to convince his priests that they were trying for a baby, began moaning and bouncing on the bed every day, mimicking what she thought sex sounded like. After she began to perform her moaning and screaming routine for the priests, he approached her with a book, hoping to start some communication.
@@ -97,7 +97,7 @@ Soon after the rebellion was quenched, Susebron was approached by [[Vasher\|Vash
   With <<Siri\|Siri>>
 ### Siri
 >“*There is nothing so wonderful as you, even in my entire court. The mountains must be special indeed, to produce such beauty.*”
-\-Susebron to Siri[3]
+\-Susebron to Siri[2]
 
 
 Siri and Susebron are married. Though the purpose of their marriage is to solidify political alliances and to fulfill the agreement between [[Hallandren\|Hallandren]] and [[Idris\|Idris]] set up two decades previously, they come to love each other deeply. Siri is not initially meant to be Susebron's wife through the agreement; instead, her older sister [[Vivenna\|Vivenna]] is groomed her whole life to marry the God King. However, when Vivenna turns twenty-two and the time comes that she must travel to Hallandren to wed Susebron, her father, King [[Dedelin\|Dedelin]], decides to send Siri in her place. Despite Siri's initial terror at the prospect her marriage to Susebron, the two strike up a friendship which turns quickly to love.

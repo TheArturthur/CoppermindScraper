@@ -4,7 +4,6 @@
 |**Family**|
 |**Spouse**|[[Atara\|Atara]]|
 |**Children**|[[Shaor\|Shaor]]|
-|**Siblings**|Brother|
 |**Died**|Killed by [[Eondel\|Eondel]]|
 |**Titles**|Duke, King of [[Arelon\|Arelon]]|
 |**Nationality**|[[Arelene\|Arelene]]|

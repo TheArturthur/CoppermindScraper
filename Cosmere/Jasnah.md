@@ -5,7 +5,7 @@
 |**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
 |**Siblings**|[[Elhokar\|Elhokar]]|
 |**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
-|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]]|
+|**Ancestors**|[[Dalinar's father\|Grandfather]], [[Sadees\|Sadees]]|
 |**Born**|1139|
 |**Abilities**|[[Order of Elsecallers\|Elsecaller]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Ivory\|Ivory]]|

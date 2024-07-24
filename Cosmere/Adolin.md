@@ -6,7 +6,7 @@
 |**Parents**|[[Dalinar\|Dalinar]], [[Evi\|Evi]]|
 |**Siblings**|[[Renarin\|Renarin]]|
 |**Relatives**|[[Gavilar\|Gavilar]], [[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Navani\|Navani]], [[Toh\|Toh]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
-|**Ancestors**|[[Dalinar's father\|Dalinar's father]], [[Sadees\|Sadees]], Grandmother|
+|**Ancestors**|[[Dalinar's father\|Grandfather]], [[Sadees\|Sadees]]|
 |**Born**|Chachakach 1150|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|Prince of [[House Kholin\|House Kholin]] , [[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
@@ -20,7 +20,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*My father thinks I'm a better man than he is. Unfortunately for you, he's wrong.*”
-\-Adolin to Sadeas[4]
+\-Adolin to Sadeas[3]
 
 
 **Adolin Kholin** is a [[Lighteyed\|lighteyed]] [[Alethi\|Alethi]] prince and third in line to the throne of Alethkar. He is considered to be one of the best swordsmen in all of Alethkar. Adolin is the son of [[Dalinar Kholin\|Dalinar Kholin]], the elder brother of [[Renarin Kholin\|Renarin Kholin]] and husband of [[Shallan Davar\|Shallan Davar]] who are members of the [[Knights Radiant\|Knights Radiant]]. He is the current [[Highprince\|Highprince]] of the [[Kholin princedom\|Kholin princedom]].

@@ -1,8 +1,6 @@
 |**Timbre**|
 |-|-|
 ||
-|**Family**|
-|**Ancestors**|Grandfather|
 |**Abilities**|[[Nahel bond\|Nahel bond]], [[Order of Willshapers\|Willshaper]] magic, [[Splinter\|Splinter]]|
 |**Bonded With**|[[Venli\|Venli]], [[Eshonai\|Eshonai]] |
 |**Species**|[[Reacher\|Reacher]]|
@@ -91,7 +89,7 @@ As Odium's forces established rule in Urithiru, Venli discussed [[Navani\|Navani
 Venli and her group continued to plot their escape from under the thumb of the Fused. She talked with [[Dul\|Dul]] about Shumin's indiscreet advertisement of their plans, and Timbre pulsed morosely in sympathy when Dul brought up the way he had been treated in the past by his human masters. Venli put up a confident front for Dul's sake, but Timbre was aware of her doubts; she tried to console her by coming up with some ideas to keep their group safe. Prompted by Venli's statement that Timbre didn't really know who she had been, Timbre convinced Venli to tell her about the time [[Axindweth\|Axindweth]] approached her and gave her the gemstone containing [[Ulim\|Ulim]].
 
 >“*"I **am** a false Radiant. You know this.""Perhaps. But today was a step in the right direction."*”
-\-Venli and Timbre[3]
+\-Venli and Timbre[2]
 
 Part of Venli's duty was to review reports from recent activity in the tower; Timbre was appalled that Raboniel had actually executed those Radiants that had been hidden among the people, but Venli was not surprised. Timbre grew worried when they heard that news of an escaped Radiant had been reported to the Pursuer. She was increasingly anxious as they learned that the surgeon's - Kaladin's - family was in custody and awaiting questioning by Lezian. At the news, Timbre somehow blocked Venli's ability to hear the rhythms until the singer had enough privacy to address her spren. They discussed the situation, Timbre convincing Venli that they had to act. They approached Leshwi with the news, and Timbre nudged Venli to tell the Fused that she was a Radiant. Venli refused, instead going on to tell her about Kaladin's family. They waited nervously as Leshwi left, and when she came back, Venli's concern for the family caused her to slip and use the Rhythm of Pleading, an old rhythm she could only still hear because of Timbre. Venli still didn't think she was real Radiant after that incident, but Timbre was encouraged by the day's accomplishment.
 Venli also watched over the unconscious Radiants in the infirmary. As she contemplated how the Fused seemed constantly surprised by the abilities the modern Radiants showed, Timbre added that perhaps it was to their advantage that they didn't have any old Radiants to confine their training to only what those Radiants knew - or perhaps it was the younger, more enthusiastic spren who made the difference against the worn Fused. Later, when Venli was providing translation for a group of Fused, they overheard the Fused say that [[Secretspren\|secretspren]] were useless in the tower; Timbre grew excited at the implication that they could use their Radiant powers without drawing their notice. She comforted Venli, who was feeling apprehensive about trying something so new. Venli tried to withhold a suggestion as to where the ancient Radiants might have placed the tower's nodes, but the Fused figured it out anyway, much to Timbre's sorrow and disappointment.

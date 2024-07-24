@@ -1,7 +1,5 @@
 |**Arshqqam**|
 |-|-|
-|**Family**|
-|**Parents**|Father|
 |**Abilities**|[[Order of Truthwatchers\|Truthwatcher]]|
 |**Bonded With**|[[Dreaming-though-Awake\|Dreaming-though-Awake]]|
 |**Aliases**|The Stump|

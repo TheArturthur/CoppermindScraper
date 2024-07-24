@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Spouse**|[[Kenton's mother\|Kenton's mother]]|
-|**Children**|[[Kenton\|Kenton]], Children|
+|**Children**|[[Kenton\|Kenton]]|
 |**Died**||
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Titles**|[[Lord Mastrell\|Lord Mastrell]]|
@@ -45,11 +45,11 @@ During Kenton's duel with Drile, he remembered his fights with Praxton, and it i
 
 ## Quotes
 >“*Being my son won't change anything, you know? I won't make a mastrell, Kenton. You're not good enough. Even if you find all five spheres, I won't do it.*”
-\-Praxton.[1]
+\-Praxton.[3]
 
 
 >“*You wanted it, son, despite everything I told you. Learn what happens to those who defy--*”
-\-Praxton, granting Kenton the rank of mastrell.[2]
+\-Praxton, granting Kenton the rank of mastrell.[1]
 
 
 ## Trivia

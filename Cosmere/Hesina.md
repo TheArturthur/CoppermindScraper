@@ -4,7 +4,6 @@
 |**Family**|
 |**Spouse**|[[Lirin\|Lirin]]|
 |**Children**|[[Kaladin\|Kaladin]], [[Tien\|Tien]], [[Oroden\|Oroden]]|
-|**Parents**|Parents|
 |**Relatives**|[[Aesudan\|Aesudan]], [[Gavinor\|Gavinor]]|
 |**Ancestors**|Grandfather|
 |**Born**|1133|
