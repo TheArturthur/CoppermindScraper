@@ -97,6 +97,7 @@ For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/
 |**Polski**|*Droga królów*|
 |**Čeština**|*Cesta králů *|
 |**Türkçe**|*Krallarin Yolu*|
+|**Українська**|*Шлях королів*|
 |**فارسی**|*طریق شاهان*|
 |**עִבְֿרִית**|*דרך המלכים*|
 |**日本語**|白き暗殺者 (The White Assassin)|
