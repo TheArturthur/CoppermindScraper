@@ -60,6 +60,12 @@ Images of Frost
 
 
 
+
+
+ With Hoid
+
+
+
 ## Attributes and Abilities
   Frost With Hoid
 Like all dragons, Frost is functionally immortal, meaning that he does not age, but he can be killed. He is the oldest known character in the cosmere, even older than Hoid. He has gained a second form of immortality on top of his natural dragon immortality through unknown means.

@@ -55,7 +55,7 @@ Elendel is also the central power in the Basin and is home to many noble houses.
 ## Structure
 
 The city is divided into eight octants, each functioning as an administrative district of the city, with a dedicated constabulary.
-Bordering each octant is a canal flowing from the center of the city out into the basin, facilitating transport of goods into and out of the city.
+Bordering each octant is a canal which flows from the basin into the center of the city, facilitating transport of goods into and out of the city.
 At the center of the city is the Hub, a ring of canals surrounding the [[Field of Rebirth\|Field of Rebirth]], a large public park.
 There seems to be a port west of Seventh Octant, and a large rail terminal west of Sixth Octant.
 
