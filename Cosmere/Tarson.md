@@ -11,7 +11,7 @@
 **Tarson** is a [[Koloss\|koloss-blooded]] [[Pewter\|pewter]] [[Misting\|Misting]] (aka a [[Pewterarm\|Pewterarm]]) on [[Scadrial\|Scadrial]]. He is a [[Pewter\|pewter]] [[Savant\|savant]].
 
 ## Appearance and Personality
-Tarson is the child of a full-blooded koloss and a human Allomancer. He has a mottled, grey complexion, a thick neck and a solid build. He is easily identifiable as koloss-blooded. Tarson is shorter than average, but will continue to grow taller throughout his life due to his koloss blood. He is in his twenties and has a faint Roughs accent.
+Tarson is the child of a full koloss-blooded and a human Allomancer. He has a mottled, grey complexion, a thick neck and a solid build. He is easily identifiable as koloss-blooded. Tarson is shorter than average, but will continue to grow taller throughout his life due to his koloss blood. He is in his twenties and has a faint Roughs accent.
 During the fight at the wedding Tarson carries both a shotgun and one of the aluminum pistols. He also wears an aluminum foil cover under his hat.
 
 >“* Of them all, only Tarson-dear, brutal Tarson-had anything resembling true loyalty.*”
