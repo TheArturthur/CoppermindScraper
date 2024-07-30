@@ -5,7 +5,7 @@
 |**ISBN**|978-1-938570-46-9|
 |**Word Count**|10,047|
 
-***Long Chills & Case Dough*** is a noir detective science fiction novelette by Brandon Sanderson. The story is told from the first-person perspective of Jack Darrens, an eccentric private detective who speaks and narrates in 1900s noir slang despite living in the twenty-second century.
+***Long Chills & Case Dough*** is a noir detective science fiction novelette by Brandon Sanderson. The story is told from the first-person perspective of Jack Derrins, an eccentric private detective who speaks and narrates in 1900s noir slang despite living in the twenty-second century.
 
 ## Summary
 In 2151, Jack gets a call from Camilla Ball, claiming she was framed for a mass shooting. She requests Jack's help, he accepts, and he and his secretary Alici Smith begin investigating.

@@ -2,11 +2,11 @@
 |-|-|
 ||
 |**[[House Kholin\|House Kholin]]**|
-|**Spouse**|[[Evi\|Evi]], [[Navani\|Navani]]|
-|**Children**|[[Adolin\|Adolin]], [[Renarin\|Renarin]]|
-|**Parents**|[[Dalinar's father\|Father]]|
+|**Spouse**|[[Evi\|Evi]] , [[Navani\|Navani]]|
+|**Children**|[[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Shallan Davar\|Shallan Davar]] (Daughter-in-law)|
+|**Parents**|[[Dalinar's father\|Dalinar's father]]|
 |**Siblings**|[[Gavilar\|Gavilar]]|
-|**Relatives**|[[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
+|**Relatives**|[[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]], [[House Davar\|House Davar]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
 |**Born**|ca. ? 1120|
 |**Abilities**|[[Order of Bondsmiths\|Bondsmith]], [[Old Magic\|Old Magic]], [[Shardbearer\|Shardbearer]] |

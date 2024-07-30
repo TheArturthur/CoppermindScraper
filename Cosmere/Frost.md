@@ -26,6 +26,8 @@
 
 
 ## Appearance and Personality
+  With <<Hoid\|Hoid>>
+For more images, see [[Frost/Gallery\|/Gallery]].
 >“*Please, hearken to my plea. Leave that place and join me in my oath of nonintervention. The cosmere itself may depend upon our restraint.*”
 \-Frost's letter to Hoid[5][6]
 
@@ -33,45 +35,12 @@
 The specific details of Frost's appearance are unknown. He presumably has the powerful shapeshifting abilities common to his race, giving him the power to significantly alter his appearance. His usual appearance is presumably reptilian in nature.
 Frost has lived through significant events in the cosmere and has adopted a non-interference policy. He's sarcastic and insulting towards Hoid, although it is clear that their personal relationship is complicated.
 
-
-Images of Frost
-
-
-
- With [[Hoid\|Hoid]], on [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] sticker
-
-
-
-
-
- With Hoid
-
-
-
-
-
- With Hoid
-
-
-
-
-
- With Hoid
-
-
-
-
-
- With Hoid
-
-
-
 ## Attributes and Abilities
-  Frost With Hoid
 Like all dragons, Frost is functionally immortal, meaning that he does not age, but he can be killed. He is the oldest known character in the cosmere, even older than Hoid. He has gained a second form of immortality on top of his natural dragon immortality through unknown means.
 Dragons are also known to have the abilities of flight and shapeshifting, including the ability to appear human.
 While not a [[Worldhopper\|worldhopper]], he is still highly knowledgeable about the cosmere. He is associated with the [[Seventeenth Shard\|Seventeenth Shard]], a group that shares his nonintervention policy. He is able to keep track of current events in the cosmere through the Seventeenth Shard, correspondence, or other means. Among other facts, he knows that Hoid possesses a bead of [[Lerasium\|lerasium]] from [[Scadrial\|Scadrial]], that [[Odium\|Odium]] is trapped in the [[Rosharan system\|Rosharan system]], and that a gemstone of Hoid's (presumably the [[First Gem\|First Gem]]) is "dead". Despite the existence of the [[Silverlight Mercantile\|Silverlight Mercantile]] interplanetary postal service, this was not the method Hoid and Frost used to exchange letters, meaning that they had some other means of contacting one another.
 
+  Frost With Hoid
 ### Immortality
 Frost's current mortality status is ambiguous. As a dragon, he is naturally ageless; immortal in the weak sense that he could live forever absent outside intervention. However, Hoid says "as you are **now** essentially immortal", he must be immortal in *some* sense stronger than that. But contravening that, he still can be killed. Frost is both sufficiently difficult to kill that Hoid would consider him "essentially immortal", but still possible to kill. What this means is not clear.
 

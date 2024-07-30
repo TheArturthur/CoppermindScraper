@@ -9,7 +9,7 @@
 |**Relatives**|[[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Kaves\|Kaves]]|
 |**Ancestors**|[[Sadees\|Sadees]]|
 |**Descendants**|[[Gavinor\|Gavinor]]|
-|**Died**|Tanat ? 1167, killed by Szeth|
+|**Died**|Ishi ? 1167, killed by Szeth|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Titles**|King of [[Alethkar\|Alethkar]], Gavilar the Majestic|
 |**Groups**|[[Sons of Honor\|Sons of Honor]]|

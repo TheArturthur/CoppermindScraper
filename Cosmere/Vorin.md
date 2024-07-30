@@ -115,7 +115,7 @@ On Roshar, the Knights Radiant were left behind, although they ultimately betray
 
 ### Morality
 #### Calling
-All Vorins are expected to choose a **Calling**, their greatest talent, and practice it until death. However, it seems acceptable for one to choice to change their Calling.
+All Vorins are expected to choose a **Calling**, their greatest talent, and practice it until death. However, it seems acceptable for one to choose to change their Calling.
 In the Alethi variety of Vorinism, fighting is considered the most important Calling, as the Almighty depends on Alethi to join the Heralds' army in their afterlife and win back the Tranquiline Halls. The ardents are supposed to help someone follow their Calling, helping them to set goals for them to achieve in furtherance of it. When one furthers their Calling enough, they **Elevate**, one goes through multiple Elevations in the pursuance of their Calling.
 
 #### Glory
@@ -148,7 +148,7 @@ As mentioned previously, premarital sex and adultery are frowned upon, alongside
 
 ### Life After Death
 Those who grow to be the very best at their Calling are chosen to join the Heralds in the fight to regain the Tranquiline Halls when they die. Their particular afterlife differs depending on the Calling -- those who were the very best at farming become farmers for the Heralds, those who are the greatest at battle are chosen to fight beside the Heralds, etc. Depending on what your calling was in life, you would receive powers in the afterlife. A farmer would be able to cause whole fields of crops to grow with a single gesture, a spearman could create thunder with his shield and lightning from his spear.
-The Heraldic Forces were a believed to be the army of the [[Herald\|Heralds]] that fought the [[Voidbringer\|Voidbringers]] for the [[Tranquiline Halls\|Tranquiline Halls]] in what was called the War for Heaven. It was said that the sound of a horn would call the Heraldic Forces to the field of battle. Joining the Heraldic forces was the considered to be highest Calling of men.
+The Heraldic Forces were believed to be the army of the [[Herald\|Heralds]] that fought the [[Voidbringer\|Voidbringers]] for the [[Tranquiline Halls\|Tranquiline Halls]] in what was called the War for Heaven. It was said that the sound of a horn would call the Heraldic Forces to the field of battle. Joining the Heraldic forces was the considered to be highest Calling of men.
 Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation. Damnation is believed to be a cold place where the dead are punished for their sins.
 They appear to have some awareness of the Spiritual Realm, but conflate it with the afterlife.
 
