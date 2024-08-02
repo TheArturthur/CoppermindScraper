@@ -37,6 +37,7 @@
 
 
 ## Appearance and Personality
+For more images, see [[Glys/Gallery\|/Gallery]].
   Glys in the Cognitive realm
 >“*My sorrow, Renarin. I will give you my sorrow.*”
 \-Glys[2]
@@ -56,7 +57,7 @@ Due to Sja-anat’s influence, the bond with Glys also gives Renarin the ability
 Glys has the ability to hide himself, even from the [[Sighted\|Sighted]] (such as [[Rock\|Rock]]).
 
 ## History
-  Glys, as he might appear in ShadesmarFor more images, see [[Glys/Gallery\|/Gallery]].
+  Glys, as he might appear in Shadesmar
 ### Enlightening
 Glys was corrupted by [[Sja-anat\|Sja-anat]] before bonding Renarin, though he does not remember this event very well. Sja-anat has referred to this process as **Enlightening**.
 

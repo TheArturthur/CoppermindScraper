@@ -221,7 +221,7 @@ Ati manipulated Kelsier for many years, grooming him in order to bring about his
 
 
 Kelsier at first hated Leras for claiming to be God, enough to instantly punch him. For a period, he did not fully respect or believe Leras's divinity, but over time he came to respect him more. He nicknamed him Fuzz, due to his unraveled appearance.
-Leras is fascinated by Kelsier due to him being the first to punch him after death, and being the first to attempt to recruit him to their schemes. Thus he decides to go along with him out of curiosity. Despite being mostly cordial with Kelsier, he does disapprove of him to an extent due to how he manipulated peoples faiths during his life, playing with their hearts and treating their faith casually. He also is frustrated how much Kelsier goes against his Intent, bringing about massive societal change in how he brought about the death of the Lord Ruler, who was perfectly preserved, and played into Ruin's plans.
+Leras is fascinated by Kelsier due to him being the first to punch him after death, and being the first to attempt to recruit him to their schemes. Thus he decides to go along with him out of curiosity. Despite being mostly cordial with Kelsier, he does disapprove of him to an extent due to how he manipulated peoples faiths during his life, playing with their hearts and treating their faith casually. He also is frustrated with how much Kelsier goes against his Intent, bringing about massive societal change in how he brought about the death of the Lord Ruler, who was perfectly preserved, and played into Ruin's plans.
 
 ## Quotes
 For a list of quotes from Kelsier, see [[Kelsier/Quotes\|/Quotes]].

@@ -138,6 +138,7 @@ A hordeling disguising itself as a pen to listen in on Hoid and Jasnah.
 ### Unconfirmed Sightings
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
+Kaladin notices a [[Legger\|legger]] with a deep purple carapace after a highstorm while in the slave wagons.
 Shallan sketches a cremling in the gardens at her family manor.
 [[Mraize\|Mraize]] shoots a cremling on a tree while meeting with Shallan.
 Kaladin and [[Syl\|Syl]] see a brightly colored cremling in a jail cell.

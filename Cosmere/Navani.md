@@ -80,10 +80,11 @@
 ### Appearance
 For more images, see [[Navani Kholin/Gallery\|/Gallery]].
 Navani has a stately bearing and, in some ways, is the picture of a perfect Vorin woman: lush lips, light violet eyes, silvering black hair in perfect braids, curves accentuated by the tight silk havah. She has a warm, feminine voice. She prefers perfume with a less floral scent than most Alethi women. Navani often paints her lips red and wears a red dress with rubies in her hair. Like her daughter, she is known as one of the most beautiful women in Alethkar.
+Her face a sultry tan, her hair Alethi jet black, her red-lipped smile so knowing and clever. And a figure…a figure to make a man weep for desire. 
 
 ### Personality
 >“*Order from chaos. Find the structure here and start building upon it.*”
-\-Navani[12]
+\-Navani[13]
 
 
 As the dowager queen, Navani often challenges [[Alethi\|Alethi]] protocol. She is known for her ability to learn everything of significance through gossip, no matter where she travels. She is not overly judgmental, but is not above pointing out the obvious. She is known for her confidence, to the point that she is not afraid to match words with [[Hoid\|Wit]]. She believes in being blunt, especially when working with scholars. Despite this, Navani is also known for her discretion. A scholar at heart, she keeps exacting notes and is well organized.
@@ -93,7 +94,7 @@ Despite her talent at politics, Navani's true love is found in her scholarly pur
 ## Attributes and Abilities
   Navani with fabrial watch, <<Spanreed\|spanreed>> and the <<Emotion bracelet\|emotion bracelet>>
 >“*She always claimed that she wasn't a scholar, but a patron of scholars. (...) Anyone who saw the light in her eyes as she took out another sheet and sketched her idea further knew she was being too modest.*”
-\-Dalinar[20]
+\-Dalinar[21]
 
 
 Navani is a renowned artifabrian. She engineers the creation of fabrials that her team of artisan [[Ardent\|ardents]] create through fabrial science. She led the research to develop the [[Grandbow\|grandbows]]. She also had a hand in the construction of a new [[Painrial\|painrial]], and of it, she's particularly proud, though it's only an early model. She thinks it has a lot of potential. Many of her inventions, such as the [[Painrial\|painrial]], are used in the war against the [[Parshendi\|Parshendi]], making her incredibly valuable to the Alethi.
@@ -280,7 +281,7 @@ Navani attempts to kill Raboniel, but it is a very difficult decision for her. W
 
 ## Quotes
 >“*You two are a pair of nails in the same doorframe. Stern, hard, and storming annoying to pull free.*”
-\-Navani to Dalinar on him and Jasnah[13]
+\-Navani to Dalinar on him and Jasnah[14]
 
 
 >“*You loathe their excess, and you are close to applying that emotion to them as well. They live the lives they have known, the lives that society has taught them are proper. You won’t change them with contempt. You aren’t Wit; it isn’t your job to scorn them. Your job is to enfold them, encourage them. Lead them, Dalinar.*”

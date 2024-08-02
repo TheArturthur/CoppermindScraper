@@ -32,8 +32,9 @@ The Era of Solitude began after the [[Last Desolation\|Last Desolation]] known a
 **The [[False Desolation\|False Desolation]]** - War with [[Singer\|Singers]] not led by the [[Fused\|Fused]].
 **The [[Day of Recreance\|Day of Recreance]]** - Knights Radiant broke oaths and abandoned [[Shard\|Shards]].
 **The Collapse of the [[Silver Kingdoms\|Silver Kingdoms]]** - While the precise timeline is unknown, the [[Silver Kingdoms\|Silver Kingdoms]] are presumed to have broken down after losing the protection of the Knights Radiant and transportation capabilities of [[Urithiru\|Urithiru]].
-**The Death of [[Honor\|Honor]]** - Honor was killed and the power he held was Splintered by [[Odium\|Odium]].
+**The Death of [[Honor\|Honor]]** - Tanavast, the Vessel of Honor, was killed and the Shard he held was Splintered by [[Odium\|Odium]].
 **Dynastic Collapse in Bayala** - A dynasty collapses in [[Bayala\|Bayala]] due to the influence of [[Ashertmarn\|Ashertmarn]] in 480
+**Shin invasions** - The Shin tried multiple times to conquer all of Roshar, although they never succeeded.
 **The [[Hierocracy\|Hierocracy]]** - Classical [[Vorinism\|Vorinism]] attempted to control the world, much of history was sanitized during this time.
 **The Sunmaker Conquests** - [[Sadees\|Sadees the Sunmaker]] overthrew the Hierocracy and reunited Alethkar, before attempting to conquer the world, with lasting effects upon many countries.
 **The [[Scouring of Aimia\|Scouring of Aimia]]** - [[Aimia\|Aimia]] suffered a cataclysm of some kind.

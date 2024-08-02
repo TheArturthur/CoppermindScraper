@@ -1,6 +1,6 @@
 |**Tisark**|
 |-|-|
-|**Homeworld**|[[Roshar\|Roshar]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 The **Tisark** seems to be a group of [[Odium\|Odium's]] followers sent to secure the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]] during the [[Battle of Thaylen Field\|Battle of Thaylen Field]] on [[Roshar\|Roshar]].
