@@ -171,6 +171,10 @@ After the re-founding of the Knights Radiant, Kaladin helped the expansion of th
 
 5 Development. [[#Development]] 
 6 Quotes. [[#Quotes]] 
+
+6. [[#Kaladin.27s Radiant Ideals]] 
+
+
 7 Trivia. [[#Trivia]] 
 8 Notes. [[#Notes]] 
 
@@ -706,6 +710,16 @@ Merin's name was up for change for a while at this point, as it sounded too much
 >“*One future daughter-in-law, delivered safe and sound. Sorry about the damage to the packaging.*”
 \-Kaladin to Dalinar about Shallan after they fell into the chasms[17]
 
+
+### Kaladin's Radiant Ideals
+>“*I will protect those who cannot protect themselves.*”
+\-Kaladin swearing his Second Ideal[40]
+
+>“*I will protect even those I hate, so long as it is right.*”
+\-Kaladin swearing his Third Ideal[202]
+
+>“*I accept that there will be those I cannot protect!*”
+\- Kaladin swearing his Fourth Ideal[195]
 
 ## Trivia
 Kaladin is currently immune to the [[Thrill\|Thrill]], although he may have felt it in the past.

@@ -94,7 +94,7 @@ In his youth, he had a habit of summoning and dismissing his Blade when getting 
 
 ## Attributes and Abilities
 ### Shardwielding
-Gavilar's [[Shardblade\|Shardblade]], [[Firestorm\|Firestorm]], was six feet long with a design along the blade that resembled burning flames that "almost seem to glow." Gavilar's plate is painted blue with gold bands around the edge of each plate. The helm has three waves of wings, which are small and almost horn-like. People who see his plate consider it beautiful. Gavilar's skill in using the blade and plate can be matched by very few people. Gavilar's Shards are now used for training purposes.
+Gavilar's [[Shardblade\|Shardblade]], [[Firestorm\|Firestorm]], was six feet long with a design along the Blade that resembled burning flames that seems to glow. Gavilar's Plate is painted blue with gold bands around the edge of each plate. The helm has three waves of wings, which are small and almost horn-like. People who see his Plate consider it beautiful. Gavilar's skill in using the Blade and Plate can be matched by very few people. Gavilar's Shards are now used for training purposes.
 
 ### Visions
 For more information, see [[Dalinar's visions\|Dalinar's visions]].

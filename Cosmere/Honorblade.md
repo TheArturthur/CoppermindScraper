@@ -82,7 +82,6 @@ At some point very recently, Ishar killed Neturo-son-Vallano and took back his B
 
 ## Trivia
 In *[[The Way of Kings Prime\|The Way of Kings Prime]]*, Honorblades allowed their wielders to locate other Honorblades. This has since been removed.
-Honorblades are somewhat self aware, though they lack a spren manifestation and have never been noted to talk to people.
 
 
 https://coppermind.net/wiki/Honorblade

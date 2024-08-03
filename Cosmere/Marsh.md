@@ -144,6 +144,7 @@ He acts as an agent of Harmony, following his orders and greatly respecting him.
 Marsh is capable of worldhopping.
 Marsh is a dog person, but neutral towards cats.
 Marsh was originally going to be the team's Smoker, with [[Clubs\|Clubs]] being the team's Seeker. They were swapped before Brandon started writing The Final Empire.
+Marsh has made a grilled cheese before, although would call it a croquette.
 
 
 https://coppermind.net/wiki/Marsh
