@@ -136,6 +136,7 @@ For a complete list of Feruchemists, see Category:Feruchemists.
 [[Rashek\|Rashek]]
 [[Miles Dagouter\|Miles Dagouter]]
 [[Handerwym\|Handerwym]]
+[[Kwaan\|Kwaan]]
 
 ## Development
 The earliest inspiration for Feruchemy dates to when Brandon was a teenager and had insomnia. He would lie awake at night and be really tired during the day, so he wished that he could store up his sleepiness so that he could be sleepy when he wanted to be sleepy.

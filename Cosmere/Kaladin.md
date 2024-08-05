@@ -8,7 +8,7 @@
 |**Born**|Late 1153|
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
 |**Bonded With**|[[Sylphrena\|Sylphrena]]|
-|**Titles**|Highmarshall, Captain of the [[Bridgemen\|Bridgemen]], Son of Tanavast, The Windrunner, The Captain, The Fallen Soldier, Head of the Cobalt Guard|
+|**Titles**|Highmarshall, Captain of the [[Bridgemen\|Bridgemen]], Son of Tanavast, The Windrunner, The Captain, The Fallen Soldier, Head of the Cobalt Guard |
 |**Aliases**|Kaladin Stormblessed, Bridgeboy, Kal|
 |**Profession**|Soldier, bridgeman , bodyguard , apprentice surgeon |
 |**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army, Amaram's army , Sadeas army , Kaladin's squad , [[Takers\|Takers]] , [[Cobalt Guard\|Cobalt Guard]], [[Kholinar Wall Guard\|Kholinar Wall Guard]] |

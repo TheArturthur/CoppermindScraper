@@ -171,7 +171,7 @@ Also called the Surge of Strong Axial Interconnection, the Surge of Cohesion can
 
 
 
-**Stoneshaping**: This ability manipulates the forces that bind [[Axi\|axi]] together. It is considered a cousin to [[Microkinesis\|microkinesis]], an Invested Art from [[Yolen\|Yolen]] that also manipulated axi, though Honor placed strict limits on Stoneshaping to prevent it from enabling the level of destruction possible with microkinesis. While in use, a Surgebinder can mold stone (or other materials) as if it were clay without the use of heat. Stone is able to sense the Intent of the Surgebinder and their past, and even show out or explain events from the past via Stoneshaping. Though stone tends to be the most difficult to Soulcast, it will easily obey through Cohesion.
+**Stoneshaping**: This ability manipulates the forces that bind [[Axi\|axi]] together. It is considered a cousin to [[Microkinesis\|microkinesis]], an Invested Art from [[Yolen\|Yolen]] that also manipulated axi, though Honor placed strict limits on Stoneshaping to prevent it from enabling the level of destruction possible with microkinesis. While in use, a Surgebinder can mold stone (or other materials) as if it were clay without the use of heat. Stone is able to sense the Intent of the Surgebinder and their past, and even show or explain events from the past via Stoneshaping. Though stone tends to be the most difficult to Soulcast, it will easily obey through Cohesion.
 ***Makay-im***: The Fused with this ability, while not shown to be able to mold stone, have instead used it to phase through stone. They can move through other materials, as long as they are solid.
 ### Tension
 
