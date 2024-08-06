@@ -49,8 +49,8 @@ A ketek by [[Jasnah\|Jasnah]] written in the [[Women's script\|women's script]]
 
 
 ## Trivia
-The Part titles for books in [[The Stormlight Archive\|The Stormlight Archive]] form keteks.
-The abbreviated titles of the Stormlight Era 1 books form a ketek like structure but are not a ketek, with the exception of book 5, where the ketek-like structure was sacrificed for the sake of a better name (Simplified to "Wind and Truth", rather than "Knights of Wind and Truth"): "TWoK, WoR, O, RoW, (Ko)WT"
+The part titles for novels in [[The Stormlight Archive\|The Stormlight Archive]] form keteks.
+The abbreviated titles of the in-world books that the first five novels in The Stormlight Archive are named after form a ketek-like structure: "TWoK/WoR/O/RoW/KoWT." The novels themselves deviate from this pattern slightly, as the fifth one is titled *Wind and Truth* despite the in-world book being titled *Knights of Wind and Truth*.
 
 
 https://coppermind.net/wiki/Ketek

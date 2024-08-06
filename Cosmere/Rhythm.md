@@ -127,7 +127,7 @@ Rhythm of Executions - rare; expresses killing intent
 Rhythm of Exultation
 Rhythm of Fury
 Rhythm of Indifference
-Rhythm of Panic - a pained, choppy beat with unfinished measures
+Rhythm of Panic - a pained, choppy beat with unfinished measures; counterpart to the Terrors
 Rhythm of Relief
 Rhythm of Ridicule - similar to Amusement
 Rhythm of Satisfaction
