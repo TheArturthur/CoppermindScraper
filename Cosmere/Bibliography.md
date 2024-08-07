@@ -87,6 +87,7 @@ For related information, see:
 |*[[Hyperthief\|Hyperthief]]*|[[Skyward (series)\|Skyward]] #3.2|Short Story|Co-written with [[Janci Patterson\|Janci Patterson]].||
 |*[[Long Chills %26 Case Dough\|Long Chills & Case Dough]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novelette|Released in the final box of the [[Year of Sanderson\|Year of Sanderson]] campaign.||
 |**2024**|*[[Dragonsteel Prime\|Dragonsteel Prime]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novel|Ebook released in 2024 on the final day of the *Words of Radiance* Leatherbound Backerkit campaign.||
+|*[[The Most Boring Book Ever\|The Most Boring Book Ever]]*||Picture Book|Illustrated by .||
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
 
 

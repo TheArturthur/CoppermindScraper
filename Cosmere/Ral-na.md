@@ -50,6 +50,7 @@ Ral-na holds court at the top of Relu-na's shell near its head, hundreds of feet
 Ral-na has formed a [[Nahel bond\|Nahel bond]] with an unknown ashspren, which grants him the ability to [[Surgebind\|Surgebind]]. When he formed the bond, his body healed to match his gender identity. Although he is not known to have formally joined the [[Knights Radiant\|Knights Radiant]] organization, his powers are those of the [[Order of Dustbringers\|Order of Dustbringers]], with the ability to manipulate the [[Surge\|Surges]] of [[Division\|Division]] and [[Abrasion\|Abrasion]]. Members of this order are relatively rare among the refounded Radiants.
 
 ## History
+ 
 Ral-na recalled [[Vstim\|Vstim]] visiting Relu-na in his youth. In order to earn the people's respect so that they would trade with him, he slayed a [[Coracot\|coracot]], an incredible feat for a foreigner. Vstim later served as Talik's [[Babsk\|babsk]] when Ral-na and his partner sent the young Reshi to train in [[Thaylenah\|Thaylenah]].
 
 ### Trade with Rysn

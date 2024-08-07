@@ -69,13 +69,13 @@ Her favorite True Body is emerald.
 Notably, her personality is much more free spirited than most kandra, and she gets along very well with Wayne, engaging in belching contests on occasion. She is also more lax about following the First Contract than other kandra, and is willing to kill humans if she has to.
 
 ## Attributes and Abilities
+  Showing her <<True Body\|True Body>>
 As a Kandra, she possesses the ability to shapeshift into various different forms around her True Body. She is also an immortal being, able to live for centuries, and survive wounds that would be fatal to most biological entities, she is also capable of turning off her pain receptors. She is capable of reforming her body to unlock simple locks. And like all Kandra she can make her flesh go transparent in order to reveal her True Body.
 She has various True Bodies made out of various materials, such as emerald and [[Aluminum\|aluminum]]. She sometimes uses ones with hidden weapons, such as swords in her arms. She can also store guns in her body, which she can pull out at will. Unlike most kandra, she doesn't necessarily follow the First Contract, and thus has little qualms about killing.
 As a kandra, she has unknown hemalurgic blessings which grant her powers, form, and sapience. If these spikes are removed, she reverts back to her mistwraith state, returning these to her would return her back to her kandra state.
 She is a [[Worldhopper\|Worldhopper]], and thus knows how to use Shadesmar to pass between worlds.
 
 ## History
-  Showing her <<True Body\|True Body>>
 >“*Life then was like life now, only you have better street food.*”
 \-MeLaan[16]
 
@@ -87,6 +87,7 @@ When TenSoon refused to rebel against the First and Second Generations, she accu
 After [[KanPaar\|KanPaar]] revolted against the first generation and imprisoned [[Sazed\|Sazed]], [[TenSoon\|TenSoon]] returned to the [[Kandra Homeland\|Kandra Homeland]]. He found that [[Sazed\|Sazed]] had been taken prisoner with the help of MeLaan. MeLaan then fetched the keys and released the first generation, as well as securing bones for them to inhabit.
 
 ### Post Catacendre
+  MeLaan dodging bullets during a gunfight
 Following the Catacendre, her loyalty shifted to Harmony, as she began to follow his orders and act as his hands in the world. It is not known what she did over the majority of the over three centuries between the Catacendre and her interactions with Wax and Wayne.
 MeLaan was the kandra who gave [[Waxillium Ladrian\|Waxillium Ladrian]] his earring; a hemalurgic spike to let Harmony communicate with him, so that he could eventually come to act as Harmony's Sword.
 
@@ -97,8 +98,8 @@ Later, she met Wax, [[Wayne\|Wayne]], and [[Marasi\|Marasi]] at a tavern. She we
 With Bleeder unmasked and on the run, MeLaan attempted to impersonate Governor Innate in her stead with the intent of placating the angry crowed. While the crowd believed the ruse, MeLaan's natural inclinations to mimicry moved her away from the speech that Marasi planed and she ended up inflaming the crowd instead of calming the people down. Before a riot could break out, [[Aradel\|Aradel]] intervened. He arrested MeLaan and gained the support of the gathered citizenry by promising them justice.
 MeLaan did not know about the true identity of Bleeder and was told only afterward. However she firmly believed that Harmony had done the right thing in not informing Wax of the true identity of his antagonist. After the defeat of Bleeder she continued to impersonate Governor Innate, "hanging" herself in her cell so that she did not have to falsely testify in a court of law.
 
-  MeLaan dodging bullets during a gunfight
 #### Search for ReLuur
+  Pulling a gun from her thigh
 MeLaan agreed to accompany Wax, Marasi, Wayne and [[Steris\|Steris]] on their mission to [[New Seran\|New Seran]] in the hope of curing [[ReLuur\|ReLuur's]] insanity by restoring his spike. ReLuur was injured looking into myths about [[The Bands of Mourning\|The Bands of Mourning]]. Wax couldn’t find MeLaan during the fight, and later found her topless with Wayne in a compartment.
 When the group arrived in the city MeLaan shocked several of them by turning into a man, indicating that she was comfortable as either sex. MeLaan aided Wax and Steris at [[Kelesina Shores\|Kelesina Shores's]] ball, helping Wax escape from the scene after he was framed for Kelesina's murder.
 After escaping, she traveled with the party to the crashed *[[Brunstell\|Brunstell]]*, where she and Marasi found ReLuur's spike and liberated [[Allik Neverfar\|Allik Neverfar]]. Together the three of them reconvened with Wax and Wayne and escape on one of the *Brunstell'*s ships called *[[Wilg\|Wilg]]*. After Marasi was injured in the escape, MeLaan was able to graft a piece of Marasi's own flesh onto the wound to heal her.

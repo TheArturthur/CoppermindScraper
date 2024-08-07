@@ -1,5 +1,6 @@
 |**Jaxy**|
 |-|-|
+||
 |**Family**|
 |**Spouse**|[[Ranette\|Ranette]]|
 |**Residence**|[[Elendel\|Elendel]]|
