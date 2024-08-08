@@ -47,6 +47,7 @@ His [[Perpendicularity\|perpendicularity]] is in an uncertain location in the fa
 
 
 ## Intent
+  The dual aspects of Harmony and Discord
 ### Harmony
 >“*The point is Harmony, creating a way for as many as possible to make their own choices.*”
 \-Harmony's stated interest[6]

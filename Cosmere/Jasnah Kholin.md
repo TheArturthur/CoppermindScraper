@@ -221,6 +221,7 @@ During a large infantry confrontation at [[Drunmu Basin\|Drunmu Basin]], Jasnah 
 During the military expedition in Emul, Jasnah and Wit worked on creating a document that outlined terms for the Contest of Champions. With Jasnah’s help, the [[Coalition of monarchs\|coalition]] eventually completed their conquest of Emul, securing their victory there. At [[Dalinar\|Dalinar]]’s request, Jasnah took on the task of writing the undertext of his book, [[Oathbringer (in-world)\|Oathbringer]].
 
 ## Relationships
+ 
 ### Hoid
 >“*She found the way he spoke fascinating. After all this time - and all her worries - here was one who was her intellectual equal. Perhaps her * superior*.*”
 \-Jasnah[66]

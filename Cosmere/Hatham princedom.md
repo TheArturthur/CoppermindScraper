@@ -1,5 +1,6 @@
 |**Hatham princedom**|
 |-|-|
+||
 |**Ruler**|Highprince [[Hatham\|Hatham]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

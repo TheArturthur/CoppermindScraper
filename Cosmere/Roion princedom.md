@@ -1,5 +1,6 @@
 |**Roion princedom**|
 |-|-|
+||
 |**Ruler**|[[Roion's son\|Roion's son]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

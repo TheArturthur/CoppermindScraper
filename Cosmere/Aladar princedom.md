@@ -1,5 +1,6 @@
 |**Aladar princedom**|
 |-|-|
+||
 |**Ruler**|Highprince [[Aladar\|Aladar]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

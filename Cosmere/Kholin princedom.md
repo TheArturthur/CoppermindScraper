@@ -1,5 +1,6 @@
 |**Kholin princedom**|
 |-|-|
+||
 |**Capital**|[[Kholinar\|Kholinar]]|
 |**Ruler**|Highprince [[Adolin Kholin\|Adolin Kholin]]|
 |**Nation**|[[Alethkar\|Alethkar]]|

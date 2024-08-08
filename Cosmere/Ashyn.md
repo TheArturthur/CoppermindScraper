@@ -31,6 +31,7 @@
 
 
 ## Geography and Ecology
+  From the perspective of an upside-down floating city
 In the past, Ashyn was largely Earth-like, with animals such as birds and horses, and plants like grapes. Although it is not known what the ecology of Ashyn was precisely like, it likely closely resembled the [[Shinovar\|Shinovar]] region on [[Roshar\|Roshar]], as the plants and animals there are ones brought by the original refugees. On Roshar, weather patterns are referred to as "seasons", despite not matching seasons in length, cause, or pattern. This presumably indicates that "season" is a linguistic holdover from Ashyn and therefore that Ashyn has seasons, and, by extension, axial tilt.
 An ecological catastrophe in the past has destroyed most of the planet, annihilating its biosphere. In the present day, the planet is mostly barren, with a few fertile patches. There are some reptiles on it. The planet is called "the burning planet" but it is unknown what this means for its geography. The [[Listener Song of Histories\|Listener Song of Histories]] describes Ashyn as "warm", though it is unknown whether this is describing the planet before or after the disaster.
 Due to being closer to the sun than Roshar, it would experience shorter years than it (1.1 times the cosmere standard).

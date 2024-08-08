@@ -606,7 +606,7 @@ Their conception of gender roles is deeply rooted in *[[Arts and Majesty\|Arts a
 ### Games, Sports, and Entertainment
 #### Festivals
 Alethkar practices various fairs and festivals to celebrate special occasions.
-One such festival practiced in Alethkar is the [[Middlefest Fair\|Middlefest Fair]], which celebrates the coming of the [[Midpeace\|Midpeace]].
+One such festival practiced in Alethkar is the [[Middlefest Fair\|Middlefest Fair]], which celebrates the coming of the [[Midpeace\|Midpeace]]. Before the Unification of Alethkar, the highprinces would often attend 'gala's of might and renown'. These gala's are essentially tournaments, and served as a way for the highprinces to show off to each other.
 
 #### Games and performances
 Due to Vorin precepts against predicting the future, Alethi culture has a distaste for gambling and games involving random chance. Thus their games tend to revolve around skill rather than chance.

@@ -129,7 +129,7 @@ In addition to those, there is a number of unique spren who are far more powerfu
 
 ### Ecology
 For a list of Rosharan flora and fauna, see :Category:Rosharan lifeforms.
-The shape and form of Rosharan ecology is influenced by four major factors: lower gravity, higher oxygen content, highstorms, and spren. The higher oxygen content and the lower gravity permit the existence of megafauna comparable only to the largest [[Sandling\|sandlings]] on [[Taldain\|Taldain]], while several species of animals are capable of forming spren bonds, further augmenting their capabilities. However, the most visually notable feature of Rosharan ecology is the way vast majority of them adapted to highstorms. Multiple species of both flora and fauna have developed shells to protect themselves from extreme weather, withdrawing into them whenever any danger approaches.
+The shape and form of Rosharan ecology is influenced by four major factors: low gravity, high oxygen content, highstorms, and spren. The high oxygen content and the low gravity permit the existence of megafauna comparable only to the largest [[Sandling\|sandlings]] on [[Taldain\|Taldain]], while several species of animals are capable of forming spren bonds, further augmenting their capabilities. However, the most visually notable feature of Rosharan ecology is the way vast majority of them adapted to highstorms. Multiple species of both flora and fauna have developed shells to protect themselves from extreme weather, withdrawing into them whenever any danger approaches.
 Several species are noted as having body parts made of stone, such as the bark of [[Dalewillow\|dalewillow]] or hooves of [[Ryshadium\|Ryshadiums]]. As stone doesn't grow naturally, three possibilities must be considered:
 
 The substance is actually stone, somehow either grown or gathered by the creatures,
@@ -143,7 +143,7 @@ The largest family of plants on Roshar are the [[Rockbud\|rockbuds]]. They are c
 Further to the east, where the highstorms are the strongest, even such measures are not enough. There, plants grow mostly in sheltered areas, such as the [[Shattered Plains\|chasms]] and [[Lait\|laits]], while remaining sparse in the open air. More fragile flora, such as vines and weeds, grow and flourish in such terrain, though some, like [[Knobweed\|knobweed]], seem to prefer flatlands, utilizing highstorms deliberately to spread.
 Contrarily, in the west where highstorms are weakened by the mountain ranges, plants are much less sensitive to stimulation and retract their leaves more slowly.
 Roshar does have larger flora. Some trees, including the aforementioned [[Dalewillow\|dalewillow]], have trunks made of stone while others, such as the [[Jella\|jella]], augment their wooden bark by accumulating crem. Like rockbuds, they withdraw their fronds into the trunks when sensing danger. There are also species such as [[Makam\|makam]] and [[Cobwood\|cobwood]], which appear to be sturdy enough to sustain highstorms without added protection.
-Rosharan grass is known to move away from disruptions or vibrations, often fully retracting to protect itself. It is type of shallowly burrowed seed pod that has enough room to hold moisture and contain the coiled up leaf. They at most grow to around three feet tall. Seeds emerge from the leaf tip to either be consumed and redeposited as faeces, or carried and redesposited by the wind.
+Rosharan grass is known to move away from disruptions or vibrations, often fully retracting to protect itself. It is type of shallowly burrowed seed pod that has enough room to hold moisture and contain the coiled up leaf. They at most grow to around three feet tall. Seeds emerge from the leaf tip to either be consumed and redeposited as faeces, or carried and redesposited by the wind. Some reeds produce flowers that entice cremlings, who then feast on the flower petals. During their feasting, these cremlings rub themselves with spores, which are released elsewhere and grow into the next generation of reeds.
 
 
 Some species of native Rosharan flora are edible for humans. This includes a number of fruits as well as a rice-like plant called [[Tallew\|tallew]], and [[Lavis\|lavis]], a type of rockbud that produces grain. Tallew, lavis, and longroot appear to be the major ingredients of Rosharan diet, with massive farmlands devoted to them throughout the continent. In the West, the same niche appears to be filled by [[Clema\|clema]].
@@ -191,7 +191,7 @@ Around ten-thousand Rosharan years (11000 standard years) before the [[True Deso
 #### The Expulsion and Early Interactions
 
 >“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging*”
-\-From the Eila Stele[90]
+\-From the Eila Stele[91]
 
 
 Humans fled to Roshar from [[Ashyn\|Ashyn]], another planet in the [[Rosharan system\|Rosharan system]], around seven-thousand years before the True Desolation. They had destroyed the planet using what Honor implied to be the [[Dawnshard\|Dawnshards]], after Odium tricked [[Ishar\|Ishar]] into experimenting with Surges. Honor and Cultivation commanded the singers to take the humans in despite the forbidden powers they had relating to [[Spren\|spren]] and [[Surge\|Surges]], and they were given [[Shinovar\|Shinovar]] to live in since Shinovar could support the plants and animals they brought. With the humans came [[Odium\|Odium]]. The humans, possibly with Odium's influence, grew dissatisfied with what they were given. The conflict between the invading humans and the singers living on Roshar became the [[First Desolation\|First Desolation]].
@@ -214,20 +214,20 @@ At some point during the Desolations, a group of singers known as the [[Last Leg
 
   The Last Desolation
 >“*A...a decision has been made. It is time for the Oathpact to end.*”
-\-Jezrien's words to Kalak[103]
+\-Jezrien's words to Kalak[104]
 
 
 At the end of the [[Last Desolation\|Last Desolation]], around 4500 before the True Desolation, nine of the ten Heralds had survived the fighting. As usual, they were supposed to return to [[Braize\|Braize]] to hold back the [[Fused\|Fused]]. However, knowing they could not face more torture, they came up with an alternative plan. [[Taln\|Taln]], the only Herald never to have broken during the millennia of Desolations and the only Herald who had died that time, would remain on Braize by himself. They had been warned that lingering on Roshar could lead to the start of another Desolation, but [[Ishar\|Ishar]] claimed that Taln by himself would be enough to hold back the Desolations and maintain the Oathpact. Rather than tell mankind the truth, the Heralds proclaimed that they had finally won the war against the Voidbringers. This deception lasted for around 4500 years, until Taln finally returned from Braize to Roshar by mechanics which are as yet unclear.
 
 ### The Era of Solitude
 >“*The Voidbringers were cast back into the Tranquiline Halls. The Heralds followed to force them out of heaven as well, and Roshar's Heraldic Epochs ended. Mankind entered the Era of Solitude. The modern era.*”
-\-Kabsal to Shallan[67]
+\-Kabsal to Shallan[68]
 
 
 #### The False Desolation
 
 >“*Something must be done about the remnants of Odium’s forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
-\-Drawer 30-20, first emerald[106]
+\-Drawer 30-20, first emerald[107]
 
 The [[False Desolation\|False Desolation]] began around 2500 years after the Last Desolation, when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them [[Regal\|forms of power]] and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
 Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because she had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.

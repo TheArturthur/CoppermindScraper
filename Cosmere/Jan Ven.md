@@ -1,5 +1,6 @@
 |**Jan Ven**|
 |-|-|
+||
 |**Species**|[[Sho Del\|Sho Del]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

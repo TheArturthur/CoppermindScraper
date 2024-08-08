@@ -1,5 +1,6 @@
 |**Sadeas princedom**|
 |-|-|
+||
 |**Ruler**|[[Torol Sadeas\|Torol Sadeas]] , [[Meridas Amaram\|Meridas Amaram]] [[Ialai Sadeas\|Ialai Sadeas]] |
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

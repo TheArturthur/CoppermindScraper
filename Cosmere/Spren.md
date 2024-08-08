@@ -252,6 +252,7 @@ Spren known to facilitate Nahel Bonds include:
 ## Known Subtypes
 ### Lesser Spren
 #### Agonyspren
+  Agonyspren
 >“*Agonyspren, like upside-down faces carved from stone, twisted and faded in and out.*”
 \-Kaladin[107]
 
@@ -268,6 +269,7 @@ A rare type of spren that appear only in [[Iri\|Iri]]. They are occasionally see
 Axies theorized their existence, but was only able to observe them once, leading him to doubt whether they're real. As there are other stories of people seeing them, their existence is likely.
 
 #### Angerspren
+  Angerspren in Shadesmar
 >“*Vamah was watching them stand there, and his expression was as thunderous as a highstorm, angerspren boiling up from the ground around him like small pools of bubbling blood.*”
 \-Adolin Kholin[108]
 
@@ -277,14 +279,15 @@ Among the listeners, angerspren have the appearance of bolts of lightning that r
 In Shadesmar, they have an unspecified appearance but make a loud screeching noise similar to sheets of steel grinding against each other when attracted. Angerspren are said to be "nasty" and very dangerous even to other spren. The pools of boiling blood seen in the Physical Realm are actually saliva drooling from their mouths.
 
 #### Anguishspren
+  Anguishspren
 >“*Certainly there were painspren appearing in droves in the room, even a few rare anguishspren, like teeth growing from the walls.*”
 \-Navani Kholin[112]
 
 
 A rare type of spren drawn by anguish and extreme loss. They appear similar to human teeth.
 
-  Anticipationspren in <<Shadesmar\|Shadesmar>>
 #### Anticipationspren
+  Anticipationspren in <<Shadesmar\|Shadesmar>>
 >“*A few anticipationspren—like red streamers, growing from the ground and whipping in the wind—began to sprout from the rock and wave among the soldiers.*”
 \-The Way of Kings: Chapter Six[42]
 
@@ -469,8 +472,8 @@ They are known as chasmspren to the listeners.
 
 A type of spren that appear around musical performances. They have the appearance of spinning, translucent ribbons that whirl around the playing instrument. A single, pure note is enough to draw at least one musicspren, if only for a short time. They also seem attracted to [[Ryshadium\|Ryshadiums]], suggesting that they might be the spren the horses bond with.
 
-  A corrupted and uncorrupted painspren
 #### Painspren
+  A corrupted and uncorrupted painspren
 >“*Painspren swarmed the ground, like small orange hands or bits of sinew, reaching up from the ground amid the blood of the fallen.*”
 \-The Way of Kings: Chapter Forty-Seven[175]
 
@@ -478,6 +481,7 @@ A type of spren that appear around musical performances. They have the appearanc
 A common type of spren that appear around those experiencing pain. They have the appearance of sinewy, orange hands. They crawl out of the ground and swarm the pained, latching on to the wounded areas. Singers bond with them to enter warform.
 
 #### Passionspren
+  Passionspren in Shadesmar
 >“*Passionspren, like tiny flakes of crystalline snow, floated down in the air around them.*”
 \-The Way of Kings: Chapter Sixty-One[178]
 
@@ -539,13 +543,14 @@ Sailorspren are a fake spren. These spren are described as large and yellow with
 Spren attracted to feelings of shame or embarrassment. They look like red and white flower petals floating down to the ground.
 
 #### Shockspren
+  Shockspren
 A rare type of spren that appear around people experiencing fearful shock (as opposed to awespren, associated with pleasant surprises). The look like pale yellow triangles breaking and reforming around the person who attracted them.
 
 #### Snowspren
 A type of spren that appear in the few snowy places on Roshar, such as the [[Horneater Peaks\|Horneater Peaks]].
 
-  <<Shallan\|Shallan>> and <<Adolin\|Adolin>> watching a starspren
 #### Starspren
+  <<Shallan\|Shallan>> and <<Adolin\|Adolin>> watching a starspren
 >“*It was the time between moons, and so he was lit mostly by the firelight; there was a spray of stars in the sky above. Several of those moved about, the tiny pinpricks of light chasing after one another, zipping around like distant, glowing insects.*”
 \-The Way of Kings: Chapter Forty[193]
 

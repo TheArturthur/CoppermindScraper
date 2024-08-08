@@ -1,5 +1,6 @@
 |**Sebarial princedom**|
 |-|-|
+||
 |**Ruler**|Highprince [[Sebarial\|Sebarial]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|
