@@ -54,11 +54,11 @@ His [[Perpendicularity\|perpendicularity]] is in an uncertain location in the fa
 
 
 What this means in terms of exact intent is unknown, but as Harmony holds both Ruin and Preservation, his intent is certainly a blending of the intents of both. At one point he seems to indicate that his natural inclination as a former human being towards Preservation is somehow separate from his need as Harmony to balance the two forces. If Sazed had been unable to balance the two powers, the Shard's name would be different. In his response to one of [[Hoid\|Hoid's]] [[Letters\|letters]] he states that the Shards he holds are in such conflict that even simple actions are difficult. [[Odium\|Odium]] is scared of Harmony, as he represents the possibility that two Shards can merge and, by being in harmony, become more powerful.
-Although Harmony allows free will, he is not beyond causing or allowing interference, as evident from having [[Ironeyes\|Ironeyes]] act as his agent, and communicating to [[Waxillium\|Waxillium]] through an earring. He also controls the [[Kandra\|kandra]], which act as his agents.
+Although Harmony allows free will, he is not beyond causing or allowing interference, as evident from having [[Ironeyes\|Ironeyes]] act as his agent, and communicating to [[Waxillium\|Waxillium]] through an earring. He also controls the [[Kandra\|kandra]], which act as his agents, until he releases them at an unknown point.
 
 ### Discord
 >“*His name shall be Discord, yet they shall love him for it.*”
-\-Excerpt from the Terris Prophecies of the Hero of Ages[10]
+\-Excerpt from the Terris Prophecies of the Hero of Ages[11]
 
 
 If Sazed was less in control of the conflict between the two halves of Harmony, the Shard's Intent could shift from Harmony to Discord. The difference between these two Intents is related to the rhythms and pure tones of Ruin and Preservation and how they respond to each other; in Harmony, they are working together, but in Discord they would not be doing so. By 348 [[Catacendre\|PC]], a dark and shadowy double sometimes appears behind Harmony, which [[Kelsier\|Kelsier]] calls "a representation of his other self." Kelsier also stated that Ruin had always been more powerful, indicating that Ruin would be more in control than Preservation in Discord. [[Telsin Ladrian\|Telsin Ladrian]], an avatar of [[Autonomy\|Autonomy]], believes that part of the reason Harmony pushed to make [[Waxillium Ladrian\|Waxillium Ladrian]] his sword was because Harmony knew he would become Discord soon.
@@ -95,7 +95,7 @@ For the history of Ruin prior to its merging with Preservation, see [[/wiki/Ruin
 ### Catacendre
   Harmony
 >“*By the forgotten Gods!*”
-\-Sazed's reaction upon realizing the Terris prophecies referred to him[30]
+\-Sazed's reaction upon realizing the Terris prophecies referred to him[31]
 
 
 After taking up the powers of both Ruin and Preservation at Final Ascension, Sazed proceeded to repair the damage wrought upon [[Scadrial\|Scadrial]] by Ruin, and the clumsy efforts of [[Vin\|Vin]] and [[Rashek\|Rashek]] to repair the world. He accomplished this by using the information stored in his [[Coppermind\|copperminds]], which contained references to what [[Classical Scadrial\|Classical Scadrial]] was like. Unhindered by another [[Shard\|Shard]] opposing his every action and limiting what he could do, he was able to restore Scadrial to the planet that existed prior to Rashek's ascension. Using the power of the Shards, he was also able to change the [[Koloss\|koloss]] into a true breeding race.

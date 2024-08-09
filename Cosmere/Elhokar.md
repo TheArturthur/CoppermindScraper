@@ -25,7 +25,7 @@
 \-Elhokar[4]
 
 
-**Elhokar Kholin** is the king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] from 1167 to his death in 1174. He's the son of King [[Gavilar\|Gavilar]]
+**Elhokar Kholin** is the king of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] from 1167 to his death in 1174. He is the son of King [[Gavilar Kholin\|Gavilar Kholin]].
 
 ## Contents
 

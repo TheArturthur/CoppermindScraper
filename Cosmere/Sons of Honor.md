@@ -40,9 +40,9 @@ The [[Diagram (group)\|Diagram]] likely knows about the Sons of Honor, as [[Tara
 ## Notable Members
 For a full list, see :Category: Sons of Honor.
 
-[[Amaram\|Amaram]]
+[[Meridas Amaram\|Meridas Amaram]]
 [[Restares\|Restares]]
-[[Gavilar\|Gavilar]]
+[[Gavilar Kholin\|Gavilar Kholin]]
 [[Ialai Sadeas\|Ialai Sadeas]]
 [[Thanadal\|Thanadal]]
 [[Vamah\|Vamah]]

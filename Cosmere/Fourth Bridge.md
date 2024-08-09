@@ -11,7 +11,7 @@
 \-Kmakl[1]
 
 
-The ***Fourth Bridge*** is [[Roshar\|Roshar's]] first airship, which uses hundreds of conjoiner [[Fabrial\|fabrials]] to move through the air. Named after [[Bridge Four\|Bridge Four]], it was built in the first year of the [[True Desolation\|True Desolations]] by a team of [[Ardent\|ardents]] and engineers led by [[Navani Kholin\|Navani Kholin]].
+The ***Fourth Bridge*** is [[Roshar\|Roshar's]] first airship, which uses hundreds of conjoiner [[Fabrial\|fabrials]] to move through the air. Named after [[Bridge Four\|Bridge Four]], it was built in the first year of the [[True Desolation\|True Desolation]] by a team of [[Ardent\|ardents]] and engineers led by [[Navani Kholin\|Navani Kholin]].
 
 ## Contents
 
