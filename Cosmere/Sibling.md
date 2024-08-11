@@ -7,12 +7,12 @@
 |**Species**|[[Spren\|Spren]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There is ... a third sibling. They are not with us.*”
-\-The Stormfather[2]
+\-The Stormfather[3]
 
 
 The **Sibling** is a notable [[Spren\|spren]] on [[Roshar\|Roshar]]. They are of the same power level as the [[Stormfather\|Stormfather]] and the [[Nightwatcher\|Nightwatcher]], and is the third spren historically associated with the [[Order of Bondsmiths\|Order of Bondsmiths]]. The Sibling manifests physically as many fabrials within the tower of [[Urithiru\|Urithiru]] and has control over them, with the crystal pillar being the heart. They are currently bonded to [[Navani Kholin\|Navani Kholin]].
@@ -62,7 +62,7 @@ In order to bond with the Sibling, a person must be touching their crystal pilla
 
 ### Urithiru
 >“*She saw the tower now as an entity, with lines of garnet very like veins and arteries. And she inhabited that entity. It became her body. She saw thousands of closed doors the scouts had missed in mapping the tower. She saw brilliant mechanisms for controlling pressure, heat — No, stay focused.*”
-\-Navani Kholin[6]
+\-Navani Kholin[7]
 
 
 The Sibling is essentially the Tower of [[Urithiru\|Urithiru]] and by extension the complicated fabrial within. They are capable of manifesting in the [[Physical Realm\|Physical Realm]] as both metal and as [[Polestone\|Polestones]]. The Sibling can also fully power and control the various mechanisms of the fabrial that makes up the tower. The temperature becomes warmer since heating fabrials become more potent, for example. ​The Sibling is able to see everything within the tower. Their Bondsmith is also able to do so, as well as comprehend the mechanisms of Urithiru and speak through the veins of garnet in the tower as the Sibling does.
@@ -92,7 +92,7 @@ Fabrials will stop working while inside the range of the suppressor fabrial. Fab
 
 ## History
 >“*My research into the cognitive reflections of the spren at the tower has been deeply illustrative. Some thought that the Sibling had withdrawn from men by intent—but I find counter to that theory.*”
-\-The third zircon in drawer 1-1 of the Urithiru gem archive[30]
+\-The third zircon in drawer 1-1 of the Urithiru gem archive[2]
 
 
 ### Heraldic Epochs and Era of Solitude
