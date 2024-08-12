@@ -614,7 +614,7 @@ Rather than the Stormfather, it was Dalinar who accepted Kaladin's words. Around
 
 #### Teft's Funeral
 Kaladin attended Teft's funeral after the Fused were fully exiled from Urithiru. He left the gathering early to try to speak with Dalinar, who attempted to apologize for forcing him to retire from military duty. Kaladin stopped him, affirming that it was the right choice, and requested that he be allowed to continue furthering his pursuit in the burgeoning field of mental health. Dalinar accepted this request and also returned his Trailman's flute, which was thought to be lost until Lift found in the Breakaway market.
-After their conversation, Kaladin and Syl went to the Breakaway market to look through the merchant's bins where Lift found the flute. He found a carved wooden horse that Tien had given him just before they entered the army. He was shocked to see it in Urithiru, as he had lost it in Alethkar. Remembering Tien through it, Kaladin decided to buy the horse off the merchant. Following this, he went to the tavern to attend a group therapy session, like he had promised Teft.
+After their conversation, Kaladin and Syl went to the Breakaway market to look through the merchant's bins where Lift found the flute. He found a carved wooden horse that Tien had given him just before they entered the army. He was shocked to see it in Urithiru, as he had lost it in Alethkar when he became a slave. Remembering Tien through it, Kaladin decided to buy the horse off the merchant. Following this, he went to the tavern to attend a group therapy session, like he had promised Teft.
 
 ## Relationships
 ### Adolin Kholin
