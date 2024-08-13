@@ -44,7 +44,7 @@ At [[Aharietiam\|Aharietiam]], the Last Desolation, Chanarach, like the rest, ab
  
 In [[Vorinism\|Vorinism]], Chanarach is known under the symmetrical name **Chanaranach**, though the diminutive Chana is also used. **Chan-a-rach** is a far rarer spelling, only seen used in a song. She is associated with the number 3 (chach), the [[Ten Essences\|Essence]] Spark, and the divine attributes of Brave and Obedient. Her body focus is the soul. Phrases such as "Chana knows..." and "Chana help (somebody)" are common, and typically related to threat or protectiveness. The name [[Chanada\|Chanada]] is likely derived from Chana. And the name [[Chanasha\|Chanasha]] definitely is.
 As with the other Heralds, there is a temple to her in every modern city. This tradition appears to go back to the [[Desolation\|Desolations]], as there was once a temple of Chanaranach in [[Stormseat\|Stormseat]].
-She is thought of as the Herald of the Common Man. and is believed to be "fine and reputable".
+She is thought of as the Herald of the Common Man and is believed to be "fine and reputable".
 
 ## Trivia
 Chanarach's portrait used in the chapter arches is called the Guard by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.

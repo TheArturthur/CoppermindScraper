@@ -61,6 +61,7 @@ At least one ancient text alludes to delicacies that come from Aimia, possibly f
 At some unknown point in the distant past, a Dawnshard was taken or came to Aimia and was trapped in the [[Akinah Dawnshard mural\|Akinah Dawnshard mural]]. This Dawnshard was protected by the lanceryn.
 
 ### Silver Kingdom
+  Location of the Silver Kingdom of Aimia
 Aimia was one of the Silver Kingdoms during the Heraldic Epochs. It contained an [[Oathgate\|Oathgate]] connecting it to [[Urithiru\|Urithiru]]. As one of the ten kingdoms and a holder of an Oathgate, it likely held one of the ten thrones in Urithiru. Akinah was the capital of the kingdom, and it was once a grand city built on a natural rock formation with tenfold symmetry. It was also known as the location to obtain [[Soulcaster\|Soulcasters]]. Siah Aimians were integrated into larger Rosharan society to the point that they are partial ancestors of some ethnic groups on the main continent. At least some of the Aimians were close allies of the Knights Radiant.
 
 ### Scouring of Aimia

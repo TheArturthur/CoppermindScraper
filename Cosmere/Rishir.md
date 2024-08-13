@@ -1,5 +1,6 @@
 |**Rishir**|
 |-|-|
+||
 |**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

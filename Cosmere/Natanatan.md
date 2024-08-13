@@ -1,5 +1,6 @@
 |**Natanatan**|
 |-|-|
+||
 |**Ethnicity**|Natan|
 |**Capital**|[[Stormseat\|Stormseat]]|
 |**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
