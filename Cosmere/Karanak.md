@@ -1,5 +1,6 @@
 |**Karanak**|
 |-|-|
+||
 |**Princedom**|[[Bethab princedom\|Bethab princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

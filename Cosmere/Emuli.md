@@ -47,7 +47,7 @@ Emul has an area of around 596,000 km.
 
 ## History
 ### Founding
-During the [[Silver Kingdoms\|Silver Kingdoms]] Era, Emul was a part of the kingdom Makabakam. Some time after the collapse of Makabakam, Emul formed its own kingdom with the [[Dawncity\|Dawncity]] of [[Sesemalex Dar\|Sesemalex Dar]] as its capital. It remained technically subject to the [[Azir\|Azish]] Empire but in reality often acted independently.
+During the [[Silver Kingdoms\|Silver Kingdoms]] Era, Emul was a part of the kingdom of Makabakam. Some time after the collapse of Makabakam, Emul formed its own kingdom with the [[Dawncity\|Dawncity]] of [[Sesemalex Dar\|Sesemalex Dar]] as its capital. It remained technically subject to the [[Azir\|Azish]] Empire but in reality often acted independently.
 
 ### War and Famine (~1153-1174)
 A few decades before 1173, Emul was struck by a [[Lurnip\|lurnip]] famine, and widespread starvation ensued. [[Ashno\|Ashno of Sages]] served for a time as one of the greatest Emuli Primes but was replaced by [[Vexil\|Vexil the Wise]]. Emul and Tukar had a longstanding feud over the city of Sesemalex Dar, the Emuli capital. The religious significance of the city, as well as its status as an excellent port, made Sesemalex Dar a valuable prize. Since 1167, the two kingdoms have been embroiled in the [[Eighty's War\|Eighty's War]], the most recent iteration of a religious conflict over control of the city. The Emuli remained in control, but as the war pressed on the fighting went increasingly poorly for the Emuli, with refugees fleeing into the neighboring Tukar.

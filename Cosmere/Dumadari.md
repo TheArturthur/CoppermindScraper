@@ -1,5 +1,6 @@
 |**Dumadari**|
 |-|-|
+||
 |**Region**|Border between [[Jah Keved\|Jah Keved]] & [[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

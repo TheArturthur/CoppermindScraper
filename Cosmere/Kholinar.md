@@ -1,6 +1,7 @@
 |**Kholinar**|
 |-|-|
 ||
+||
 |**Princedom**|[[Kholin princedom\|Kholin princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

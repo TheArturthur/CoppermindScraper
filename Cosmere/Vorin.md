@@ -8,6 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
+  **Vorin nations**. In dark red the nations where Vorinism plays a more prevalent role.
 **Vorinism** is one of the primary religions of [[Roshar\|Roshar]]. It is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west. The religion worships the [[Almighty\|Almighty]], a deity based on [[Honor\|Honor]], and the ten [[Herald\|Heralds]].
 
 ## Contents

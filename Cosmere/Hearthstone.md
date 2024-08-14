@@ -1,6 +1,7 @@
 |**Hearthstone**|
 |-|-|
 ||
+||
 |**Princedom**|[[Sadeas princedom\|Sadeas princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

@@ -1,5 +1,6 @@
 |**Kelathar**|
 |-|-|
+||
 |**Princedom**|[[Ruthar princedom\|Ruthar princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

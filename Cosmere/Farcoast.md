@@ -1,5 +1,6 @@
 |**Farcoast**|
 |-|-|
+||
 |**Princedom**|[[Vamah princedom\|Vamah princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

@@ -68,7 +68,7 @@ Ral-na considers Vstim wise and trustworthy. Vstim has a long history of trading
 Ral-na has a partner known as the king's consort, who is also one of Talik's parents. The king's consort may perform certain duties of the king, especially if the king is absent. Talik regularly serves as Ral-na's interpreter. Talik seems to be comfortable with Ral-na's gender identity; he used the title of king without hesitation before Ral-na transitioned and became annoyed when Rysn questioned it, stating that "gender is irrelevant". He later mentions that Ral-na's physical transition was considered a positive development.
 
 ## Trivia
-Brandon has noted that Ral-na's transition helps represent the fact that there would be many transgender Knights Radiant due to the self-discovery that occurs while progressing in the Radiant oaths; during the [[Heraldic Epochs\|Heraldic Epochs]], they would have had a progressive view of gender identity compared to the rest of society.
+Brandon has noted that Ral-na's transition helps represent the fact that there would be many transgender Knights Radiant due to the self-discovery they go though in their lives.
 
 
 https://coppermind.net/wiki/Ral-na
