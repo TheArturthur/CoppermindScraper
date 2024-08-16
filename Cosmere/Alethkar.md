@@ -773,7 +773,7 @@ They retained political recognition by other states despite their exile.
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
-After a change in dynasties in Herdaz around 1150 led to them rallying their forces and pushing against Alethi borders for around four years of combat. These skirmishes shaped the modern Alethi-Herdaz border, and incited a degree of ethnic stife between the two peoples, with the Herdazians becoming the target to stereotypes and discrimination. Due to their history, the Herdazian government was distrusting of Alethkar when they approached them with offers to join the Coalition of monarchs.
+After a change in dynasties in Herdaz around 1150 led to them rallying their forces and pushing against Alethi borders for around four years of combat. These skirmishes shaped the modern Alethi-Herdaz border, and incited a degree of ethnic strife between the two peoples, with the Herdazians becoming the target to stereotypes and discrimination. Due to their history, the Herdazian government was distrusting of Alethkar when they approached them with offers to join the Coalition of monarchs.
 Although they are currently allied in their fight against Fused forces, distrust and tension still exist between the two armies, as the people haven't forgotten the atrocities committed against their people by the Alethi during the 1150-1154 border conflicts, and other such conflicts. They are very quick to slate Alethi generals for execution when they commit crimes against their people.
 
 #### Jah Keved
