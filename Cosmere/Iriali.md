@@ -12,6 +12,7 @@ The **Iriali** are an ethnicity of people in the [[Cosmere\|cosmere]].
 1 Appearance and Anatomy. [[#Appearance and Anatomy]] 
 2 Culture. [[#Culture]] 
 
+2. [[#Clothing]] 
 2. [[#Religion]] 
 2. [[#Language]] 
 
@@ -26,11 +27,15 @@ The Iriali have metallic golden-blond skin and hair that breeds true. They mostl
 
 ## Culture
   <<Nomad\|Nomad>> wearing an improvised Iriali wrap made from an old sack
-The Iriali, while on Roshar, are particular about chastity laws, and dislike public nudity. The men often wear only waist wraps on warmer days. They are also known to paint their skin with colors and patterns. They tend to be less quarrelsome and prudish than the [[Vorin\|Vorin]] nations.
+The Iriali, while on Roshar, are particular about chastity laws, and dislike public nudity. They tend to be less quarrelsome and prudish than the [[Vorin\|Vorin]] nations.
+
+### Clothing
+Iriali men often wear only waist wraps on warmer days. Iriali people are known to paint their skin with colors and patterns.
 
 ### Religion
-The Iriali worship a god they call "One". According to this belief, the One knew everything but had experienced nothing. And so the One became Many in order to experience all things. As each experience is different, it brings completeness to the One. Eventually, all will be gathered back in when the seventh land is attained and they will once again become One. Every person is a different mind of a single being experiencing different lives. As Many, they need ignorance. Each fragment of the One’s mind has its own body with different passions and inclinations. They exist in variety to experience all kinds of thought. That means some people must know and others must not. Just like some people must be rich and others poor. The more religious segments of the Iriali on Roshar would approve of homosexuality, because they believe life is about new experiences.
+The Iriali worship a god they call "One". According to this belief, the One knew everything but had experienced nothing. And so the One became Many in order to experience all things. As each experience is different, it brings completeness to the One. Eventually, all will be gathered back in when the seventh land is attained and they will once again become One. Every person is a different mind of a single being experiencing different lives. As Many, they need ignorance. Each fragment of the One’s mind has its own body with different passions and inclinations. They exist in variety to experience all kinds of thought. That means some people must know and others must not. Just like some people must be rich and others poor. The more religious segments of the Iriali on Roshar would approve of homosexuality, because they believe life is about new experiences. The general view of the Iriali on it, however, is currently unknown.
 This religion and its philosophy of one becoming many may be slightly influenced by the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]]. The philosophy behind the One is that the [[Spiritual Realm\|Spiritual Realm]] and the [[Beyond\|Beyond]] are the same thing and that, when a person dies, their soul goes with their [[Investiture\|Investiture]] to the Spiritual Realm. Most [[Cosmere\|cosmere]] philosophers disagree with this belief.
+Some Iriali in [[Kasitor\|Kasitor]] have come to see [[Cusicesh\|Cusicesh]] as a god, though most only see it as a natural part of the city, and use it as a system of timekeeping.
 
 ### Language
 They speak a language related to the Riran and Reshi languages.
