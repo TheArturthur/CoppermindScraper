@@ -17,11 +17,13 @@
 1. [[#Concept art]] 
 
 
-2 Notes. [[#Notes]] 
+2 Trivia. [[#Trivia]] 
+3 Notes. [[#Notes]] 
 
 
 ## Development
 The  was published on Reddit on September 6th, 2022, when the first draft was about 15% complete. The  was published on Reddit on March 13th, 2023, when the first draft was roughly 33% complete. The first draft was finished sometime between December 21 and 26, 2023 and the second and third drafts have been completed. This was made easier because Brandon made revisions while working on the first draft. According to , the fourth and last revision is completed as of June 4 2024.
+*Wind and Truth* has been reported to be around 491k words and 1364 pages.
 
 ### Pre-Publication Content
 In March 2022, Brandon did a reading of the first draft of the prologue on his YouTube channel. It can be read and listened to .
@@ -58,6 +60,8 @@ by Petar Penev
 
 
 
+## Trivia
+It was originally referred to as *Stones Unhallowed*, before being changed to *Knights of Wind and Truth*, before finally being changed to *Wind and Truth*, which stands as the official name.
 
 
 https://coppermind.net/wiki/Wind_and_Truth

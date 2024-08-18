@@ -186,7 +186,7 @@ The stereotype of the Azish is that they are peaceful, prefer education to war, 
 \-Dalinar on the Azish language.[5]
 
 
-The people of Azir speak Azish, the most widespread of the Makabaki languages, though it is possible that other languages from this family are also present. Azish or Azish-adjacent words can often be recognized by the letters "x" (Kadasix, [[Snoxil\|Snoxil]]) and "q" ([[Prime Aqasix\|Prime Aqasix]], [[Unoqua\|Unoqua]]), which are far rarer outside of [[Makabak\|Makabak]]. These can represent the voiceless uvular, stop, or affricate, or sometimes a uvular ejective.
+The people of Azir speak Azish, the most widespread of the Makabaki languages, though it is possible that other languages from this family are also present. Azish or Azish-adjacent words can often be recognized by the letters "x" (Kadasix, [[Snoxil\|Snoxil]]) and "q" ([[Prime Aqasix\|Prime Aqasix]], [[Unoqua\|Unoqua]]), which are far rarer outside of [[Makabak\|Makabak]]. These can represent a voiceless uvular sound, either a stop or an affricate, and sometimes a uvular ejective.
 The Azish have their own system of writing, separate from the various [[Vorin\|Vorin]] scripts. It is described as looking like little markings that resemble [[Cremling\|cremling]] tracks to non-speakers. Additionally, the various patterns that the Azish put on their furniture, decorations, and clothing all have distinct meanings, which can be read and understood by a trained scribe.
 
 ### Religion

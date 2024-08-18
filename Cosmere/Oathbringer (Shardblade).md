@@ -34,7 +34,7 @@ Unlike most other dead Shardblades, Oathbringer appears to have some degree of a
 \-Gavilar to Dalinar[11]
 
 
-Prior to the [[Day of Recreance\|Day of Recreance]], Oathbringer belonged to a [[Knight Radiant\|Knight Radiant]] of the [[Order of Stonewards\|Order of Stonewards]].
+Prior to the [[Day of Recreance\|Day of Recreance]], Oathbringer was a [[Peakspren\|peakspren]] who was bonded to a [[Knight Radiant\|Knight Radiant]] of the [[Order of Stonewards\|Order of Stonewards]].
 Oathbringer was the Shardblade of the infamous [[Alethi\|Alethi]] king [[Sadees\|Sadees]]. After his death, it was passed down through various owners until eventually ending in the hands of the elder [[Tanalan's father\|Highprince Tanalan]]. Brightlord [[Dalinar Kholin\|Dalinar Kholin]], aged twenty at the time, defeated the [[Highprince\|Highprince]] at the [[Rift\|Rift]]; the younger [[Tanalan\|Tanalan]], who was only seven years old at the time, briefly attempted to defend his father with Oathbringer before Dalinar took for himself and bonded it.
 
   Dalinar giving up Oathbringer

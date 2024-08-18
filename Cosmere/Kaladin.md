@@ -728,7 +728,6 @@ At some points Brandon wanted to have a second flashback book for Kaladin, but t
 Kaladin's name comes from the combining of the name [[Kalak\|Kalak]] and the Alethi suffix 'din'. His name means 'born unto eternity'.
 Kaladin and ex-queen [[Aesudan Kholin\|Aesudan Kholin]] are distantly related, through Hesina.
 Kaladin's physical appearance is modelled off someone with mixed Japanese and Pacific Islander heritage, although Kaladin could also be mistaken as someone who has mixed Japanese/Middle Eastern ancestry.
-Kaladin is most likely a Hufflepuff.
 Kaladin is referred to as "Child of [[Tanavast\|Tanavast]]" and "The Son of Tanavast" by the Stormfather, while many other characters are called "Child of Honor". There is a reason for this.
 During the events of *Rhythm of War*, Kaladin was as close as it was humanly possible to be to the fourth Ideal, without having sworn it. This, along with how much he exemplified Windrunner-hood, allowed him to resist the effects of the partially corrupted Sibling's influence.
 
