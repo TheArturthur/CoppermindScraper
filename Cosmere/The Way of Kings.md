@@ -101,8 +101,8 @@ For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/
 |**فارسی**|*طریق شاهان*|
 |**עִבְֿרִית**|*דרך המלכים*|
 |**日本語**|白き暗殺者 (The White Assassin)|
-|死を呼ぶ嵐 (To Call the Storm of Death)|
-|自由への懸け橋 (Bridge of Freedom)|
+|死を呼ぶ嵐 (The Storm that Summons Death)|
+|自由への懸け橋 (Bridge to Freedom)|
 |****|
 
 ## See Also

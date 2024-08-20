@@ -31,7 +31,7 @@
 ## Geography
 The city of Bilming is located on a peninsula on the [[Sea of Yomend\|Sea of Yomend]]. A railway connects it to Elendel but not to others of the outer cities; its port alone allows it to circumvent this rail monopoly. At a contrast to the docks in Elendel which are relatively sheltered from large waves, Bilming is located such that it experiences rougher seas right up to its docks.
 
->“*Here on the promontory that Bilming occupied, the waters chopped and churned, crashing against the docks. No wonder the Bilming navy was made up of such hulking metal monstrosities.*”
+>“*Here on the promontory that Bilming occupied, the waters chopped and churned, crashing against the docks.*”
 \-Waxillium[8]
 
 ## Landmarks

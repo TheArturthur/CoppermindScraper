@@ -66,7 +66,7 @@ As a member of the Ghostbloods, Mraize is seeking a way to get [[Investiture\|In
 He refers to the Parshendi as the Listeners, one of few in the warcamps to do so.
 
 ## Attributes and Abilities
-Mraize is a worldhopper. His power resides in his knowledge and possessions. Among his possessions he has a "green chicken" which is known to be an [[Aviar\|Aviar]]. He has a [[Seon\|seon]] from [[Sel\|Sel]]. He also has [[Sand (Taldain)\|white sand]] from [[Taldain\|Taldain]], a Yolish branch with weird scripts, a silver knife, and an [[Aether\|aether]] he cannot use. He is also believed to have Tears of Edgli. Many of these possessions and knowledge were gained outside of Roshar.
+Mraize is a worldhopper. His power resides in his knowledge and possessions. Among his possessions he has a "green chicken" which is known to be an [[Aviar\|Aviar]]. He has a [[Seon\|seon]] from [[Sel\|Sel]]. He also has [[Sand (Taldain)\|white sand]] from [[Taldain\|Taldain]], a Yolish branch with weird scripts, a silver knife, and an [[Aether\|aether]] he cannot use. He is also believed to have [[Tears of Edgli\|Tears of Edgli]]. Many of these possessions and knowledge were gained outside of Roshar.
 Mraize has an [[Mraize's Aviar\|Aviar]] with an unknown ability.
 Mraize also seems to have an uncanny ability to sense the presence of others. Whether this is due to his having enough [[BioChromatic Breath\|Breath]] to have reached the [[/wiki/Heightening#Fourth Heightening]] or to some other, more mundane means is unclear. Mraize always watches doors.
 His knowledge gives him the capacity to blackmail, persuade and manipulate, which is what makes him, as a high-ranking member of the Ghostbloods, so dangerous. He is not as great at assuming a character as [[Shallan\|Shallan]].
