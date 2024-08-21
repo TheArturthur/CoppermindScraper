@@ -212,7 +212,7 @@ The [[Ire\|Ire]] have a device capable of detecting [[Cognitive shadows\|cogniti
 ## Trivia
 Fabrials originated in the uncompleted book *[[Mythwalker\|Mythwalker]]*.
 It is possible to create an analog computer using fabrials.
-The term "fabrial" will, eventually, come to be used for all magic-based mechanical devices in the [[Cosmere\|cosmere]], such as the mechanism that picks [[Elantrian\|Elantrians]].
+The term "fabrial" will, eventually, come to be used for all magic-based devices in the [[Cosmere\|cosmere]], such as the mechanism that picks [[Elantrian\|Elantrians]].
 
 
 https://coppermind.net/wiki/Fabrial

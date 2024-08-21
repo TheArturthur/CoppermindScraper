@@ -10,7 +10,15 @@
 \-The phrase 'To be human is to want that which we cannot have' in the Dawnchant[1]
 
 
-The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsingers\|Dawnsingers]] - ancient ancestors to the modern day [[Singers\|singers]]. The language is in the root of the Dawnate language family, consisting of the [[Shin\|Shin]], [[Parshendi\|Parshendi]], and [[Horneater\|Horneater]] languages. While the vocabulary of these languages varies greatly, they share similar grammar.
+The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsingers\|Dawnsingers]] - ancient ancestors to the modern day [[Singers\|singers]]. The language is the root of the Dawnate language family, consisting of the [[Shin\|Shin]], [[Listener\|Listener]], and [[Unkalaki\|Unkalaki]] languages. While the vocabulary of these languages varies greatly, they share similar grammar.
+
+## Contents
+
+1 History. [[#History]] 
+2 Known Texts. [[#Known Texts]] 
+3 Vocabulary. [[#Vocabulary]] 
+4 Notes. [[#Notes]] 
+
 
 ## History
 Modern lore claims that the Dawnchant was the language spoken by the [[Herald\|Heralds]], but its actual Dawnsinger origin likely means that the humans adopted it, at least in its written form, after their exodus from [[Ashyn\|Ashyn]] and arrival on [[Roshar\|Roshar]]. At some point in history the Dawnchant became a shared written language for all humankind on Roshar, even as separate peoples had their own languages. As the [[Desolation\|Desolations]] buffeted human civilization, the different human cultures adapted the original Dawnchant script to fit their own languages and developed their own scripts. This process began with simple phonetic substitution, in which humans used the Dawnsingers' script to transcribe their own languages, but it eventually led to the emergence of the proto-Thaylo-Vorin glyphic radicals, which the modern Vorin and Thaylen glyphs come from.
@@ -37,6 +45,20 @@ One of the oldest documents in written history, the Eila Stele was written by th
 \-Eila Stele[9]
 
 
+## Vocabulary
+*anak* - Meaning unknown
+*del* - Meaning unknown
+*habin* - Meaning unknown
+*-im* - A person that does an action indicated by or associated with the root
+*kaf* - Meaning unknown
+*makay* - Deep, Deepest
+*makian* - Meaning unknown
+*malah* - Meaning unknown
+*mavset* - Mask, Masked
+*nex* - Husk, Husked
+*shanay* - Heaven, Heavenly
+*shetel* - Flow, Flowing
+*yah* - Meaning unknown
 
 
 https://coppermind.net/wiki/Dawnchant

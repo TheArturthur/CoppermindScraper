@@ -1,11 +1,10 @@
 |**Yu-nerig**|
 |-|-|
 |**Type**|Greatshell|
-|**Native to**|[[Marabethia\|Marabethia]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Yu-nerig** are a species of marine [[Greatshell\|greatshell]] native to the seas near [[Marabethia\|Marabethia]] on [[Roshar\|Roshar]]. They are known for their succulent flavor.
+**Yu-nerig** are a species of marine [[Greatshell\|greatshell]] found in the seas near [[Marabethia\|Marabethia]] on [[Roshar\|Roshar]]. They are known for their succulent flavor.
 
 ## Contents
 

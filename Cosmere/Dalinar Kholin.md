@@ -12,7 +12,7 @@
 |**Abilities**|[[Order of Bondsmiths\|Bondsmith]], [[Old Magic\|Old Magic]], [[Shardbearer\|Shardbearer]] |
 |**Bonded With**|the [[Stormfather\|Stormfather]]|
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]] , [[Highprince of War\|Highprince of War]] ,King of [[Urithiru\|Urithiru]]|
-|**Aliases**|The Blackthorn|
+|**Aliases**|The Blackthorn, tight-butt (by Lift)|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] , Kholin army|
 |**Residence**|[[Kholinar\|Kholinar]] , [[/wiki/Shattered Plains#Warcamps]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|
