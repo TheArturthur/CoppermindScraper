@@ -128,7 +128,7 @@ Their metabolism is geared towards metabolizing shells, which their jaw structur
 Singers can drink crem without getting sick.
 
 ### Ocular Structure
-They have two eyes set in orbital cavities. They are divergent from the eyes of *homo sapiens* - with black sclerae and no visible iris, giving them an all-black appearance.
+They have two eyes set in orbital cavities. They are divergent from the eyes of humans - with black sclerae and no visible iris, giving them an all-black appearance.
 
 ### Sexes and reproduction
 Singers possess four distinct sexes; male and female, which are capable of reproduction, and their neutered variants, **malen** and **femalen**. Singers' sex will change from between male and malen, or female and femalen, as they change forms; the vast majority of forms are either malen or femalen. As such, most singers are asexual the vast majority of the time. Singers usually identify as one of those four genders as well, though some identify with a non-quaternary gender and singer culture recognizes at least one non-quaternary gender.
