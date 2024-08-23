@@ -38,6 +38,7 @@ Dalinar will play a larger role than in *Rhythm of War*.
 Szeth will be the focus character.
 More of Roshar's queer characters will be canonized in the book, including Renarin and Rlain.
 The planned ending was based upon the ending he planned out for an RPG in 1999, and has been in the outline from the start. Brandon hopes that it will land right with people and recontextualize many important moments in the series.
+The old Vorin philosophy of body focus will be relevant for a small thing happening in this book.
 It is likely that [[Michael Whelan\|Michael Whelan]] will create the cover art, similar to the previous books in the series.
 
 ### Concept art

@@ -31,25 +31,26 @@ One of the smaller islands is home to the [[Ardent\|ardents]] [[Geranid\|Geranid
 
 
 4 Politics. [[#Politics]] 
-5 History. [[#History]] 
+5 Economy. [[#Economy]] 
+6 History. [[#History]] 
 
-5. [[#The Silver Kingdoms]] 
-5. [[#Era of Solitude]] 
+6. [[#The Silver Kingdoms]] 
+6. [[#Era of Solitude]] 
 
-5. [[#Saving the Larkin]] 
-5. [[#Conquest of the Akak Reshi]] 
-5. [[#The Wastescum Skirmishes]] 
-
-
-5. [[#The True Desolation]] 
-
-5. [[#The Coalition]] 
+6. [[#Saving the Larkin]] 
+6. [[#Conquest of the Akak Reshi]] 
+6. [[#The Wastescum Skirmishes]] 
 
 
+6. [[#The True Desolation]] 
+
+6. [[#The Coalition]] 
 
 
-6 Notable Characters. [[#Notable Characters]] 
-7 Notes. [[#Notes]] 
+
+
+7 Notable Characters. [[#Notable Characters]] 
+8 Notes. [[#Notes]] 
 
 
 ## Geography
@@ -83,6 +84,7 @@ They appear to observe taboos regarding discussion of the spren that inhabit Tai
 
 ### Clothing
 Reshi standard clothing includes colorful wraps leaving the shoulders bare as well as tassels. Some Reshi also wear their hair in two long braids. Reshi are also known to wear hair ornaments such as ribbons. Swimmers like to walk about unclothed. In parts of the Reshi Isles, some women don't even wear tops due to the hot weather. The king of an island is dressed in full bright voluminous robes.
+Clothing makes some use of carapace, particularly on armor.
 
 ### Live Stock
 The Reshi paint their chulls' shells. One can identify what island a Reshi chull handler is from by the colors and patterns on their chulls' shells.
@@ -95,7 +97,7 @@ Reshi furniture is flat and long. They do not use chairs, instead sitting on cus
 >“*Soldiers lined the path, armed with spears bearing colorful tassels. Their breastplates and armguards were of carapace carved wickedly with points, and though they wore only wraps for clothing, they stood as stiff backed as any [[Alethi\|Alethi]] soldier, with stern expressions to match.*”
 \-Rysn observing Reshi guards.[6]
 
-Though many Reshi are relaxed and carefree, there are those who prefer fighting to lounging. These soldiers wear armour made from carapace, their armguards are carved into wicked points.  They also carry spears with tassels on them. They do not have any Shards and are not known to have any soulcasters.
+Though many Reshi are relaxed and carefree, there are those who prefer fighting to lounging. These soldiers wear armor made from carapace, their armguards are carved into wicked points. They also carry spears with colourful tassels on them. They do not have any Shards and are not known to have any soulcasters.
 In large parts of the Reshi isles the fighting is ritualistic, with more posturing and yelling then actual killing, The eastern Reshi are known for their raids against the Alethi however, so its safe to assume these Reshi fight more like warriors from the mainland. Reshi wars are often short, only a single battle long.
 When two Tai-na go to war the people of the islands get into boats and exchange insults and boasts, each starting with their weakest insults first. This would progress into a kind of verbal duel ending with the strongest insults. Afterwards arrows and spears would be exchanged, although this wouldn’t be to violently, with more yelling then actual cutting.
 
@@ -104,6 +106,9 @@ The Reshi travel the [[Reshi Sea\|Reshi Sea]] using catamarans. They also travel
 
 ## Politics
 The Reshi isles are not united by a single government, instead each island has its own king.
+
+## Economy
+The Reshi Isles are not in any major trade networks, nor due they have trade agreements with any mainland states. They instead trade with individuals that they trust, and typically only do so during trading season.
 
 ## History
 ### The Silver Kingdoms
