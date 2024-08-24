@@ -6,23 +6,29 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Makabak** is a region in southwestern [[Roshar\|Roshar]] occupied by numerous nations that share a common ethnicity and culture. It is named for the former [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]] and includes most of that kingdom's territory.
+**Makabak** is a region in southwestern [[Roshar\|Roshar]] occupied by numerous nations that share a similar ethnicity and culture. It is named for the former [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]] and includes most of that kingdom's territory.
 
 ## Contents
 
 1 Geography. [[#Geography]] 
 2 Culture. [[#Culture]] 
-3 Politics. [[#Politics]] 
-4 Notes. [[#Notes]] 
+3 People. [[#People]] 
+4 Politics. [[#Politics]] 
+5 Notes. [[#Notes]] 
 
 
 ## Geography
 The region covers the southern center of the Rosharan continent. It is framed by mountain ranges to the north, east, and west, and has a long coastline on the [[Southern Depths\|Southern Depths]]. The region includes the nations of [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Greater Hexi\|Greater Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]], and about half of [[Triax\|Triax]]. The Azish Empire includes many of these nations, although it does not encompass the entirety of Makabak. Makabak has a single [[Oathgate\|Oathgate]], in the Azish capital of [[Azimir\|Azimir]].
 
 ## Culture
-Makabaki people generally have dark brown skin, black hair, and dark eyes. The region borders [[Shinovar\|Shinovar]], but the Makabaki do not have the round eyes of the Shin. There are approximately thirty Makabaki languages, most of which branched off from Azish. Many of the nations are rich in culture and have thriving trade. The area has higher population density than the nations to the east and Azimir is larger than [[Kholinar\|Kholinar]].
+There are approximately thirty Makabaki languages, most of which branched off from Azish. Many of the nations are rich in culture and have thriving trade. The area has higher population density than the nations to the east and Azimir is larger than [[Kholinar\|Kholinar]].
+While the Makabaki nations have various similarities, there is a large amount of variation in their culture, and in their social and governmental structures.
 Residents of several Makabaki nations are thought to avoid offending others as much as possible, and would rather dodge a request than deny it, especially if it comes from a foreigner. Azish people are considered verbose and sometimes intentionally vague in order to conceal their true intentions. The Azish Empire has many skilled clerks and scribes, and is thought of as highly lawful, bureaucratic, and organized.
-The Makabaki worship the [[Heralds\|Heralds]] not the Almighty.
+Several Makabaki nations worship the [[Heralds\|Heralds]] not the Almighty.
+
+## People
+Makabaki people generally have dark brown skin, black hair, and dark eyes. The region borders [[Shinovar\|Shinovar]], but the Makabaki people typically possess epicanthic folds, unlike the Shin.
+They appear to be split into several different peoples, including the [[Askarki\|Askarki]] people. How genetically and culturally related these peoples are to each other is currently unknown.
 
 ## Politics
 Azir is the largest nation in the region, and its [[Prime Aqasix\|Prime Aqasix]] traditionally claims authority as emperor of Makabak; in practice, the Prime only rules Azir. Other member states of the Azish Empire recognize the monarchy and still follow certain traditions in regards to the Prime Aqasix, but they are actually governed with a high degree of autonomy. Even though Azir does not actually rule the entire region, it is still highly influential. Feuds between nations are thought to be common, although the true nature of the feuds is disputed. Emul and Tukar are currently at war. The leaders of each nation are sometimes addressed by the name of their nation rather than their proper name.

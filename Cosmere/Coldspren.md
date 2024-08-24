@@ -537,7 +537,7 @@ Unlike most spren, which most Rosharans believe are only attracted to their name
 \-Yalb[187]
 
 
-Sailorspren are a fake spren. These spren are described as large and yellow with tentacles and a bright red stripe on its back. New sailors are tricked into thinking that they exist and they eventually bet a lot of money, against other sailors, on the existence of sailorspren. They would then learn that sailorspren are not real.
+Sailorspren are a fake spren, used as part of a hazing ritual for new sailors. These spren are described as large and yellow with tentacles and a bright red stripe on its back. New sailors are mislead into believing in their existence, and eventually convinced to bet a large sum on successfully capturing one against the other sailors. They would then learn that sailorspren are not real and lose the bet.
 
 #### Shamespren
 Spren attracted to feelings of shame or embarrassment. They look like red and white flower petals floating down to the ground.

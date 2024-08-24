@@ -64,7 +64,7 @@ Tukar has an area of around 702,000 km.
 During the [[Silver Kingdoms\|Silver Kingdoms]] era, Tukar was part of [[Makabakam\|Makabakam]]. At some point, Makabakam splintered into smaller states, with Tukar being one of them.
 
 ### The Era of Solitude
-When the [[Azir\|Azish Empire]] began to form, Tukar might've joined them, although their status within the coalition, if it even is part of the coalition, is confusing.
+When the [[Azir\|Azish Empire]] began to form, Tukar might have joined them, although their status within the coalition, if it even is part of the coalition, is complex.
 The nations of Tukar and Emul have been in the state of on-and-off conflict for centuries, with the main point of contention being the city of [[Sesemalex Dar\|Sesemalex Dar]]. This was done due to a combination of the religious value ascribed to Sesemalex Dar by both sides, and due to its effectiveness and value as a port city.
 
 #### Rise of Tezim and the Eighty's War
@@ -82,18 +82,18 @@ They played a major role in the Emuli Offensive in 1175, fighting against Alethi
 
 ## Politics and Culture
   <<Tezim\|Tezim>>, the god-priest of Tukar
-The people of Tukar are typically brown-skinned and have black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in the south east of Makabak.
-The Tukari wear colored bracelets, Dalinar thinks they have religious significance, although he’s uncertain. At least some of these bracelets are made from cloth, they may also have writing on them.
-The Tukari are renowned across Roshar for their mercenaries, their perfumes and their jewellery. There are many herdsmen in Tukar.
+The people of Tukar are typically brown-skinned and have black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
+The Tukari wear colored bracelets, Dalinar believes they have religious significance, although he is uncertain. At least some of these bracelets are made from cloth, they may also have writing on them.
+The Tukari are renowned across Roshar for their mercenaries, their perfumes and their jewelry. There are many herdsmen in Tukar.
 
 ### Government and Religion
 Tukar is a theocracy, with their current spiritual and political leader, Tezim, being alternately titled the god-priest, god-king, and priest-king. The Tukari people also live in clans.
-Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the [[Almighty\|Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]], making those titles somewhat justified. Though the average Tukari likely don't know his true identity, there are numerous rumors swirling about him outside of the country.
+Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the [[Almighty\|Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]]. Though the average Tukari likely do not know of his true identity, there are numerous rumors concerning him outside of the country.
 
 ### Military
 The Tukari are highly militaristic. Tukar itself has numerous [[Soulcaster\|Soulcasters]], which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.
 The Tukari Soldiers in Tezim’s army don’t wear proper uniforms, they are seen wearing hogshide battle leathers with hardened cuirasses painted a dark blue. Most of them are armed with spears, though some of them have steel swords.
-The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon perpendicularities and hop in and out of Shadesmar.
+The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon [[Perpendicularity\|perpendicularities]], enabling him and his armies to enter and exit [[Shadesmar\|Shadesmar]].
 
 ### International relations
 >“*I'd rather have the Emuli anyway. Their soldiers might be less capable, but they’re also… well, **not crazy**.*”

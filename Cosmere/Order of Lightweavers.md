@@ -105,7 +105,7 @@ Lightweavers can be introspective, outgoing, or anything in between, but they ar
 [[Red (Roshar)\|Red]] (bonded to an unknown Cryptic)
 [[Elhokar\|Elhokar]] (initiated a Nahel bond with [[Design\|Design]], but didn't finish saying the First Ideal)
 ## Trivia
-Getting a 100% Lightweaver score on the [{ Knights Radiant Quiz requires a set of answers detailed .
+Getting a 100% Lightweaver score on the  requires a set of answers detailed .
 
 
 https://coppermind.net/wiki/Order_of_Lightweavers

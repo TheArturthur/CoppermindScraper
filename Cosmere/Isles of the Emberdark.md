@@ -27,11 +27,12 @@ In the draft read at the *Rhythm of War* release party, the story takes place ab
 In the second narrative, Starling, a Yolish Dragon, is exiled from Yolen twelve years before the events of the story, and eventually becomes lieutenant of a ship that flies in the [[Cognitive Realm\|Cognitive Realm]], which is owned by [[Xisis\|Xisis]].
 
 ## Synopsis
-*All his life, Sixth of the Dusk has been a traditional trapper of Aviar—the supernatural birds his people bond with—on the deadly island of Patji. Then one fateful night he propels his people into a race to modernize before they can be conquered by the Ones Above, invaders from the stars who want to exploit the Aviar.*
-*But it’s a race they’re losing, and Dusk fears his people will lose themselves in the effort. When a chance comes to sail into the expanse of the emberdark beyond a mystical portal, Dusk sets off to find his people’s salvation with only a canoe, his birds, and all the grit and canniness of a Patji trapper.*
-*Elsewhere in the emberdark is a young dragon chained in human form: Starling of the starship *Dynamic*. She and her ragtag crew of exiles are deep in debt and on the brink of losing their freedom. So when she finds an ancient map to a hidden portal between the emberdark and the physical realm, she seizes the chance at a lucrative discovery.*
-*These unlikely allies might just be the solution to each other’s crisis. In their search for independence, Dusk and Starling face perilous bargains, poisonous politics, and the destructive echo of a dead god.*
-*Sanderson expands his thrilling novella “Sixth of the Dusk” into a mythic novel of legends, lore, and warring galactic superpowers.*
+>“
+\-All his life, Sixth of the Dusk has been a traditional trapper of Aviarthe supernatural birds his people bond withon the deadly island of Patji. Then one fateful night he propels his people into a race to modernize before they can be conquered by the Ones Above, invaders from the stars who want to exploit the Aviar.
+But it’s a race they’re losing, and Dusk fears his people will lose themselves in the effort. When a chance comes to sail into the expanse of the emberdark beyond a mystical portal, Dusk sets off to find his people’s salvation with only a canoe, his birds, and all the grit and canniness of a Patji trapper.
+Elsewhere in the emberdark is a young dragon chained in human form: Starling of the starship Dynamic. She and her ragtag crew of exiles are deep in debt and on the brink of losing their freedom. So when she finds an ancient map to a hidden portal between the emberdark and the physical realm, she seizes the chance at a lucrative discovery.
+These unlikely allies might just be the solution to each other’s crisis. In their search for independence, Dusk and Starling face perilous bargains, poisonous politics, and the destructive echo of a dead god.
+Sanderson expands his thrilling novella “Sixth of the Dusk” into a mythic novel of legends, lore, and warring galactic superpowers.
 
 
 
