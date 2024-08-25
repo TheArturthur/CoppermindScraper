@@ -60,7 +60,7 @@ During the [[True Desolation\|True Desolation]], one of the first moves of the [
 [[Nale\|Nale]] brought [[Szeth\|Szeth]] and the other [[Skybreakers\|Skybreakers]] there to tell them the truth of the [[First Desolation\|First Desolation]].
 
 ## Politics
-Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
+Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population compared to other countries. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
 
 ### International Relationships
 #### Alethkar

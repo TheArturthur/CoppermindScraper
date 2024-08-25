@@ -24,10 +24,11 @@
 
 
 3 Culture. [[#Culture]] 
-4 Magic. [[#Magic]] 
-5 Development. [[#Development]] 
-6 Trivia. [[#Trivia]] 
-7 Notes. [[#Notes]] 
+4 People. [[#People]] 
+5 Magic. [[#Magic]] 
+6 Development. [[#Development]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Geography and Ecology
@@ -54,6 +55,10 @@ At some point after the [[True Desolation\|True Desolation]], [[Nomad\|Nomad]] a
 ## Culture
 Following the devastation on Ashyn the majority of its population fled to Roshar, the nearest hospitable planet, for refuge. The remainders live on the few habitable pieces of land left on the worlds surface, which includes its famous floating cities.
 The destruction of Ashyn has had a major impact on Rosharan culture being remembered as the [[Tranquiline Halls\|Tranquiline Halls]] and gaining religious significance in [[Vorinism\|Vorinism]]. Ashyn itself has also remained aware of Roshar's existence however the impact this has had on their culture is unknown. Little can be ascertained as to how Ashyn culture functions, however it is known that due to the way Investiture manifests upon the world, disease is an important aspect of it. In particular the floating cities are held afloat by individuals infected with a disease that causes hearing loss making them essential to the cities continued existence.
+
+## People
+Ashyn is known to have had a large amount of genetic variety, seen in the phenotypic variety observed between the ten Heralds, who lived on Ashyn before their exodus.
+Various ethnic groups on Ashyn are said to look similar to Rosharan ethnic groups, albeit with some differences that would make them look mixed to various peoples. For example, Shalash is described as looking like someone of Makabaki and Shin descent.
 
 ## Magic
 Ashyn currently has no [[Shard\|Shard]], but [[Cultivation\|Cultivation]] spent some time there. [[Odium\|Odium]] also possibly spent some time there, as he followed the Ashynites to Roshar. Like most of the Rosharan system, the planet is 10-centric.

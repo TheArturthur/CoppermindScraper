@@ -1,7 +1,7 @@
 |**Vorinism**|
 |-|-|
 ||
-|**Related to**|[[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]], [[Thaylenah\|Thaylenah]]|
+|**Related to**|[[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]], [[Thaylenah\|Thaylenah]], [[Herdaz\|Herdaz]]|
 |**Type**|Religion|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -9,13 +9,18 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
   **Vorin nations**. In dark red the nations where Vorinism plays a more prevalent role.
-**Vorinism** is one of the primary religions of [[Roshar\|Roshar]]. It is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west. The religion worships the [[Almighty\|Almighty]], a deity based on [[Honor\|Honor]], and the ten [[Herald\|Heralds]].
+**Vorinism** is a monotheistic that it practiced primarily in Eastern [[Roshar\|Roshar]], it is one of the primary religions of Roshar. Vorinism is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west.
+Vorinism is based on belief in one god, known as the [[Almighty\|Almighty]], who created the world and mankind within it, and the Ten [[Herald\|Heralds]] whom he anointed as his emissaries and protectors of mankind.
 
 ## Contents
 
 1 Beliefs. [[#Beliefs]] 
 
 1. [[#The Almighty]] 
+
+1. [[#Euhemerism]] 
+
+
 1. [[#The Heralds]] 
 1. [[#List of Heralds]] 
 1. [[#Creation Myth]] 
@@ -44,51 +49,65 @@
 1. [[#Prayer]] 
 1. [[#Oathgates]] 
 1. [[#Scripture]] 
+1. [[#Sacred Numerology]] 
 
 
-2 Culture. [[#Culture]] 
+2 Branches and Varieties. [[#Branches and Varieties]] 
 
-2. [[#Law]] 
-
-2. [[#The Right of Travel]] 
-2. [[#The Right to Learn]] 
-2. [[#The Right of Challenge]] 
+2. [[#Herdazian Vorinism]] 
 
 
+3 Culture. [[#Culture]] 
+
+3. [[#Law]] 
+
+3. [[#The Right of Travel]] 
+3. [[#The Right to Learn]] 
+3. [[#The Right of Challenge]] 
 
 
-3 Priesthood. [[#Priesthood]] 
-
-3. [[#Slavery]] 
-3. [[#Spiritual Guidance]] 
-3. [[#Soulcasting]] 
-3. [[#Devotaries]] 
 
 
-4 History. [[#History]] 
+4 Priesthood. [[#Priesthood]] 
 
-4. [[#Origins and Old Vorinism]] 
-4.2 Hierocracy: Rise
-4.3 Hierocracy: Fall and Aftermath
-4. [[#Present and Future]] 
-
-
-5 Notable Members. [[#Notable Members]] 
-
-5. [[#The Ardentia]] 
-5. [[#Lay members]] 
+4. [[#Slavery]] 
+4. [[#Spiritual Guidance]] 
+4. [[#Soulcasting]] 
+4. [[#Devotaries]] 
 
 
-6 Trivia. [[#Trivia]] 
-7 Notes. [[#Notes]] 
+5 History. [[#History]] 
+
+5. [[#Origins and Old Vorinism]] 
+5.2 Hierocracy: Rise
+5.3 Hierocracy: Fall and Aftermath
+5. [[#Present and Future]] 
+
+
+6 Notable Members. [[#Notable Members]] 
+
+6. [[#The Ardentia]] 
+6. [[#Lay members]] 
+
+
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Beliefs
 ### The Almighty
-In Vorin religion, people believe in the [[Almighty\|Almighty]], the force of good and creator of mankind, along with animals and plantlife and Roshar itself. The glory of Almighty is such that anyone looking upon him would immediately burn to ash. As such, he is typically represented by the divine prism with ten facets, one for each of the Heralds.
+For more on The Almighty, see [[/wiki/Honor#Influence]].
+In Vorin religion, people believe in the [[Almighty\|Almighty]], the force of good and creator of mankind, along with animals and plantlife and Roshar itself. The Almighty is held to be all-powerful, all-knowing, immortal, and all-benevolent. The glory of Almighty is such that anyone looking upon him would immediately burn to ash. As such, he is typically represented by the divine prism with ten facets, one for each of the Heralds. He is also represented with the Double Eye of the Almighty, which represents him and the world itself. These appears to be a manifestation of .
 The Almighty is believed to have ten holy names; including his tenth name, Elithanathile or *He who Transforms*; which is allowed only to be spoken by members of the Ardentia.
 It is believed that the Almighty exists within all people.
-The Almighty is ultimately based on the Shard Honor. Some Ardents have tried to reconceptualize their faith after learning of Honor's death, interpreting Honor as merely being an aspect of the Almighty through which He revealed himself.
+Adherents of Vorinism believe that the Almighty is also responsible for sorting out the dead and deciding on their afterlife. To achieve the results one desires, one has to pick a Calling - a purpose in life - and a Glory, an aspect of the Almighty that one strives to emulate. It is believed these talents are granted to one by the Almighty himself. He is believed to accept the excellence of all men and women, regardless of what they do.
+He is associated with positive change and transformation, ideas held to be sacred in the Vorin religion. It is believed he used the power of change to create the world, and that he gifted mankind their ability to change and grow on a physical, spiritual, and psychological level.
+Authority is believed to be rooted in connection and closeness to the Almighty, thus, lighteyed individuals claim that they are closer to the Almighty than the darkeyed, and thus are holier than them and have the authority to rule over them.
+The Almighty is prayed to via burned Glyphwards. It is believed that, by burning the prayer, they send its soul to the Almighty so that it may be heard and acted upon.
+The Almighty, like many things in Vorinism, is associated with the number ten, as seen in his ten holy names, the ten Heralds he anointed as his emissaries, and the ten faceted crystal used in his aniconic representations.
+
+#### Euhemerism
+The Almighty is ultimately based on the Shard Honor. Some Ardents have tried to reconceptualize their faith after learning of Honor's death, interpreting Honor as merely being an aspect of the Almighty through which He revealed himself, although this position remains heterodox and heretical to more orthodox Vorinism.
 
   Artistic representation of a Desolation.
 ### The Heralds
@@ -116,7 +135,7 @@ On Roshar, the Knights Radiant were left behind, although they ultimately betray
 
 ### Morality
 #### Calling
-All Vorins are expected to choose a **Calling**, their greatest talent, and practice it until death. However, it seems acceptable for one to choose to change their Calling.
+All Vorins are expected to choose a **Calling**, their greatest talent, granted to them by the Almighty, and practice it until death. However, it seems acceptable for one to choose to change their Calling.
 In the Alethi variety of Vorinism, fighting is considered the most important Calling, as the Almighty depends on Alethi to join the Heralds' army in their afterlife and win back the Tranquiline Halls. The ardents are supposed to help someone follow their Calling, helping them to set goals for them to achieve in furtherance of it. When one furthers their Calling enough, they **Elevate**, one goes through multiple Elevations in the pursuance of their Calling.
 
 #### Glory
@@ -176,6 +195,32 @@ The original purpose of the [[Oathgate\|Oathgates]] has been lost to time, thoug
 ### Scripture
 Vorin doctrine holds [[The Arguments\|The Arguments]] as their holy scripture, which acts as a basis of much of their mythology and moral framework.
 
+### Sacred Numerology
+Ten, and multiples thereof, are highly sacred in Vorin theology, appearing in many places in their teachings, scriptures, and practices.
+Some examples of ten appearing in Vorin theology include:
+
+
+The Ten-Faced Crystal used to represent the Almighty
+The Ten Essences
+The Ten Heralds
+The Ten Fools
+The Ten Holy Names of the Almighty
+The Ten Silver Kingdoms
+The One-Hundred Desolations 
+The ten-foot height of traditional Vorin Temples
+The ten months in a Vorin year
+The ten weeks in a Vorin month
+The one-hundred weeks in a Vorin year
+The twenty Divine Attributes
+The ten [[Polestone\|Polestones]]
+The ten Body Focuses
+
+## Branches and Varieties
+Vorinism is known to have at least two branches, the orthodox variety practiced by Alethkar and Jah Keved, and the more heterodox variety practiced by adherents in Herdaz.
+
+### Herdazian Vorinism
+Herdazian Vorinism is a heterodox variety of Vorinism which varies from the more orthodox variety. Little is known about Herdazian Vorinism, except that their doctrine, contrary to the orthodox, permits male literacy.
+
 ## Culture
   Vorin woman, with covered safehand on display.
 The Vorin religion is closely interwoven with the culture of the Vorin kingdoms, to the point where the same word is applied to both the faith and the culture. Its modern form appears to be based on the book *[[Arts and Majesty\|Arts and Majesty]]*, outlining what is proper for men and women. Women are expected to completely cover their left hand (called [[Safehand\|Safehand]] in Vorin vernacular) from the age of roughly eleven or twelve, as it is generally considered obscene. They are, however, permitted to learn how to read and write, and expected to manage a household and business. Feminine arts include painting, reading, writing, and music. Flutes are a commonly chosen instrument, however, it is rare for side-blown flutes to be found on Roshar. More confrontational positions, such as politics and military, are considered masculine -- however, men are forbidden (or at least discouraged) from learning the alphabet and a man who is literate is considered unseemly. Additionally, Vorinism differentiates between feminine and masculine foods (sweet and spicy). Those division between genders do not apply to ardents, who are considered genderless from cultural standpoint, and thus permitted to engage in both feminine and masculine activities. By tradition, every person can learn a trade at a Vorin temple, including those of the opposite gender.
@@ -189,7 +234,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[51]
+\-Nale[53]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
@@ -272,7 +317,7 @@ For a list of all known ardents, see :Category: Ardentia.
 [[Dalinar Kholin\|Dalinar Kholin]] - [[Bondsmith\|Bondsmith]] and [[Alethkar\|Alethi]] [[Highprince\|highprince]]. Member of the Devotary of Talenet and the head of the Alethi church until his excommunication.
 [[Shallan Davar\|Shallan Davar]] - [[Jah Keved\|Veden]] [[Order of Lightweavers\|Lightweaver]]. A somewhat devout member of the Devotary of Purity.
 ## Trivia
-In the English language, the word "ardent" is an adjective meaning eager, zealous or passionate.
+In the English language, the word "ardent" is an adjective meaning eager, zealous or passionate. Etymologically, it derives from the Latin *ardentem*, which is the accusative form of *ardēns*, the present participle of *ardeō* meaning “I burn." This may be an intentional choice, referring to the burning of prayers and glyphwards.
 Though "ardent" shares some similarity with [[Arteth\|arteth]], the name of [[Shu-Dereth\|Shu-Dereth]] priests from [[Sel\|Sel]], ardents and arteths are not connected.
 Though ardents are around in *[[The Way of Kings Prime\|The Way of Kings Prime]]*, there, they are simply called monks.
 

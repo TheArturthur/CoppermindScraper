@@ -8,7 +8,8 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Herdaz** is a kingdom in north-eastern [[Roshar\|Roshar]]. The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
+**Herdaz** is a country in the north-eastern portion of Roshar. Covering 1,155,000 Km, it is Roshar's 7th largest country by area. Herdaz is organized as a monarchy, ruled over by a hereditary monarch.
+The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
 
 ## Contents
 
@@ -30,6 +31,7 @@
 
 4. [[#Cuisine]] 
 4. [[#People]] 
+4. [[#Religion]] 
 4. [[#Language]] 
 
 4. [[#Terms]] 
@@ -49,7 +51,7 @@ Most of the country is a series of long and narrow peninsulas jutting out into t
 
 ## History
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[4]
+\-Taravangian[5]
 
 
 The area that would come to be known as Herdaz was once inhabited by [[Singer\|Singers]] before the arrival of humanity from [[Ashyn\|Ashyn]]. Shortly after humanity's arrival from Ashyn and colonization of the land that would come to be known as Shinovar, they began to violently expand and colonize land across Roshar, which included this land. Some Singers, in an attempt to fight back the invasion, turned to [[Odium\|Odium]] and became the [[Fused\|Fused]], whilst others refused Odium's power and remained simply Singers.
@@ -84,8 +86,11 @@ Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread.
 
 ### People
   <<Lopen\|Lopen>> with a <<Sparkflicker\|sparkflicker>>
-Herdazians are a people of Ashynite and Singer descent. They are brown-skinned, darker than the [[Alethi\|Alethi]], but paler than the [[Makabak\|Makabaki]], and brown-haired. They are most similar in appearance to the [[Reshi\|Reshi]], to the point where they can be mistaken for them. However, they are also one of several races on Roshar with [[Singer\|singer]] blood in their ancestry, though it's not quite as apparent as it is among the [[Unkalaki\|Unkalaki]]. The most visible sign of their heritage are their crystalline, slate-colored fingernails, which are strong enough to start a fire with a proper tool, and are sometimes described as reminiscent of carapace. Apart from that, they have a higher tendency to be asexual than other races without singer ancestors.
-Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in. The majority of them seem to be [[Vorin\|Vorin]], though they practice their own variety of the faith, one that permits men to write.
+Herdazians are a people of Ashynite and Singer descent, although which Ashynite ethnic group or groups they descend from is currently unknown. They are brown-skinned, darker than the [[Alethi\|Alethi]], but paler than the [[Makabak\|Makabaki]], and brown-haired. They are most similar in appearance to the [[Reshi\|Reshi]], to the point where they can be mistaken for them. However, they are also one of several races on Roshar with [[Singer\|singer]] blood in their ancestry, though it's not quite as apparent as it is among the [[Unkalaki\|Unkalaki]]. The most visible sign of their heritage are their crystalline, slate-colored fingernails, which are strong enough to start a fire with a proper tool, and are sometimes described as reminiscent of carapace. Apart from that, they have a higher tendency to be asexual than other races without singer ancestors.
+Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in.
+
+### Religion
+The majority of Herdazians appear to be adherents of [[Vorinism\|Vorinism]], though they practice their own variety of the faith. Herdazian Vorinism has various differences from orthodox Vorinism, for example, their doctrine permits male literacy.
 
 ### Language
 The Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
@@ -111,10 +116,11 @@ The Herdazian language belongs to the Vorin family, much like Alethi and Veden. 
 \- Lopen[11]
 
 
-The Herdazian people are spread across a wide disaspora covering much of western Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin. The reason for this diaspora is currently unknown.
+The Herdazian people are spread across a wide disaspora covering much of western Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation.
+The Push-pull factors that motivate Herdazian migration are currently unknown.
 When a large group of Herdazians come together, they often form their own districts, such as [[Little Herdaz\|Little Herdaz]] in [[Highprince\|highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. Members of this diaspora population often retain their cultural practices and identity - among others, [[Chouta\|chouta]] is a Herdazian street food that gained much popularity in the warcamps, and can even be bought in [[Kholinar\|Kholinar]].
 There are numerous stereotypes about Herdazians. Many Alethi believe they all wear [[Sparkflicker\|sparkflickers]], and more malicious ones claim they're all stupid, though both are repeatedly proven wrong. Across western Roshar, they are considered extremely boastful, and the women are said to be tough and difficult to impress, even in the opinion of their kinsmen. Herdazians are mentioned, by Alethi, as looking very similar to one another to non-Herdazians, to the point where they often cannot be told apart.
-It is currently unclear if the wider Herdazian diaspora includes countries or areas other than Alethkar, Jah Keved, and the Elendel Basin in demographically significant numbers. It is also unclear if the diaspora formed from one or multiple large-scale migrations in the past, or if it is a continuous process.
+It is currently unclear if the wider Herdazian diaspora includes countries or areas other than Alethkar, Jah Keved, and the Elendel Basin in demographically significant numbers.
 
 ## Notable Herdazians
 For more Herdazians, see :Category: Herdazians.
