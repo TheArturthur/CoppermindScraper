@@ -1,14 +1,14 @@
 |**Kara**|
 |-|-|
 |**Abilities**|[[/wiki/Knights Radiant#Squires]] for [[Order of Windrunners\|Order of Windrunners]]|
-|**Profession**|Scribe |
+|**Profession**|Scout |
 |**Groups**|[[Bridge Four\|Bridge Four]], Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Kara** is a former scribe on [[Roshar\|Roshar]] who joins [[Bridge Four\|Bridge Four]] and becomes a [[Windrunner\|Windrunner]] [[Squire\|squire]].
+**Kara** is a former scout on [[Roshar\|Roshar]] who joins [[Bridge Four\|Bridge Four]] and becomes a [[Windrunner\|Windrunner]] [[Squire\|squire]].
 
 ## Contents
 
@@ -20,18 +20,19 @@
 
 
 ## Appearance and Personality
-Kara stood out among the scribes even prior to joining Bridge Four, as [[Lyn\|Lyn]] was familiar with her. She seems to fit in well with the other Windrunners, displaying a sense of humor in her relationship with [[Lunamor\|Lunamor]].
+No information is given about Kara's appearance, though her experience as a scout suggests an athletic build. She serves in the Alethi military, but her racial background is unspecified.
+She seems to hold little regard for Vorin restrictions on gendered activities, and she has the courage to break barriers: she secretly learns the spear at an early age, she is among the first five women to join the Windrunners, and she fights alongside Bridge Four, including at the Battle of Thaylen Field and the evacuation of Hearthstone.
+Kara seems to fit in well with the other members of Bridge Four, displaying an affectionately teasing sense of humor in her friendship with [[Lunamor\|Lunamor]].
 
 ## Attributes and Abilities
-Kara is surprisingly skilled with a spear. She has practiced with one since childhood, although she kept this ability secret when she was employed as a scribe.
-She becomes a squire to an unknown Windrunner in Bridge Four at some point after the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. She proves to be a quick learner and becomes one of the more proficient Windrunner squires. Even as a squire, her skill with both the spear and the [[/wiki/Surgebinding#Gravitation]] allow her to hold her own in battles with the [[Heavenly Ones\|Heavenly Ones]]. [[Kaladin\|Kaladin]] remarks that she is ready to advance to the [[Immortal Words\|Third Ideal]], but no [[Honorspren\|honorspren]] partners are available. It is unclear if an honorspren later becomes available for her to bond.
-As a trained scribe, she is able to write in the [[Women's script\|women's script]] and use a [[Spanreed\|spanreed]]. She takes her own notes during scouting missions.
+Kara is skilled with a spear and knows how to fight and fly in formation. From her time as a scout, she is likely also trained in the knife.
+As a Windrunner squire, she relies on proximity to a full Knight to have access to her powers: the surges of [[/wiki/Surgebinding#Gravitation]] and [[/wiki/Surgebinding#Adhesion]] and the ability to heal herself. However, even as a squire, her skill with the spear and her deftness in flight allow her to hold her own in battles with the [[Heavenly Ones\|Heavenly Ones]]. [[Kaladin\|Kaladin]] remarks that she is ready to advance to the [[Immortal Words\|Third Ideal]], but no [[Honorspren\|honorspren]] partners are available.
+She can write in the [[Women's script\|women's script]], and she takes her own notes during scouting missions.
 
 ## History
-Little is known of Kara's history. Since she served as a scribe for [[Dalinar\|Dalinar's]] forces under [[Teshav Khal\|Teshav Khal]] she is likely [[Alethi\|Alethi]], but this is not confirmed.
-During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Teshav's scribe station was used as a field command post. The forces of the [[Coalition of monarchs\|coalition of monarchs]] were stretched thin and every available soldier was needed. [[Lyn\|Lyn]] confided in [[Rock\|Rock]] and [[Renarin\|Renarin]] that Kara was willing and able to fight since she had been training with a spear from a young age, facetiously referring to her childhood practice as "cheating".
-Kara soon became a [[Windrunner\|Windrunner]] squire and was one of the many squires present during the evacuation mission to [[Hearthstone\|Hearthstone]] on the *[[Fourth Bridge\|Fourth Bridge]]* in 1175. She was one of the few squires who were allowed to directly duel the [[Fused\|Fused]] and was seen scoring a hit on one of them with her spear. She engaged in some banter with Rock after Bridge Four returned to [[Urithiru\|Urithiru]].
-She also participated in scouting missions to [[Singer\|singer]]-occupied Alethkar, taking notes on the general condition of cities and their inhabitants as well as singer troop placements. Notably, she reported on the city of [[Tomat\|Tomat]] where [[Hesina\|Hesina's]] father lived.
+As a child, Kara was secretly trained in the spear, and she continued to practice into adulthood. As an adult, she spent an unknown length of time as a scout and a messenger, where she served in Dalinar's army on a scouting squad with [[Lyn\|Lyn]], [[Laran\|Laran]], [[Mela\|Mela]], and an unnamed fifth member. Together, they became the first five women to try out for and subsequently join Bridge Four in their initial recruitment effort. She and the others of her cohort learned to use Stormlight at some point within the span of five days. She gained additional spear training from Peet and other members of Bridge Four, and she learned to fight and fly in formation. She fought alongside the men of Bridge Four at the Battle of Thaylen Field.
+During the year between Thaylen Field and the evacuation of Hearthstone, one can infer she continued to fight alongside her fellow Windrunners, but she also participated in scouting missions to [[Singer\|singer]]-occupied Alethkar, taking notes on the general condition of cities and their inhabitants as well as singer troop placements. Notably, she reported on the city of [[Tomat\|Tomat]] where [[Hesina\|Hesina's]] father lived. It's unknown if she was the female Windrunner scout who discovered the encampment of surviving [[Listeners\|listeners]] on the [[Shattered Plains\|Shattered Plains]].
+At the evacuation of Hearthstone, she was one of the few squires permitted to engage the [[Heavenly Ones\|Heavenly Ones]] in aerial combat, where she scored a hit on one with her spear. Afterward, she engaged in comfortable, teasing banter with Lunamor after Bridge Four returned to [[Urithiru\|Urithiru]]. She later joined the majority of Bridge Four on the campaign to Emul.
 
 ## Trivia
 Many Bridge Four members are cameos of Brandon's friends, and she may be a cameo of [[Kara Stewart\|Kara Stewart]].

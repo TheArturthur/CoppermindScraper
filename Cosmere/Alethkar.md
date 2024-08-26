@@ -188,6 +188,11 @@ Prior to the [[True Desolation\|True Desolation]], the Alethi were engaged in th
 
 5. [[#Government-in-Exile]] 
 5. [[#Demographics]] 
+
+5. [[#Ethnicity]] 
+5. [[#Religion 2]] 
+
+
 5. [[#Foreign Policy and International Relationships]] 
 
 5. [[#Azir]] 
@@ -576,6 +581,8 @@ For more information, see [[Vorinism\|Vorinism]].
 Alethkar is one of the five great [[Vorin\|Vorin]] Kingdoms, with the vast majority of their populace worshipping the [[Almighty\|Almighty]]. The worship is mostly carried out by the priests, called the [[Ardent\|ardents]]. The ardents, while influential, are not free -- rather, they are slaves to various [[Lighteyes\|lighteyes]]. Unlike most other professions, ardentia is open to both men and women, and to people from all social castes. Ardents are considered genderless from a social standpoint, and as such, many of the Vorin taboos regarding gender and gender roles do not apply to them. They are also the only people permitted to use [[Soulcaster\|Soulcasters]].
 Unlike Vorinism in other nations, the Alethi are not required to be personally devout, or to perform religious ceremonies. While each citizen is supposed to pick their [[Calling\|Calling]] and Glory -- their goal in life, and the aspect of the Almighty they wish to emulate -- the actual religious part of the religion is handled by the ardents, who perform the requisite rituals and prayers for their masters, so as to reassure them of their righteousness. The Alethi themselves rarely interact with the Almighty, save for an occassional glyphward or prayer. The regular Alethi darkeyes are taught of Vorinism by their parents and by travelling Ardents.
 After the start of the True Desolation many Vorin Alethi stopped worshipping the Almighty, this was likely due to Kholin’s [[Dalinar's visions\|Visions]] and the reality of the desolations, the Heralds and more. Many still remained Vorin though, and some others changed their views of Vorinism entirely. These people believed that Honor, who had died, was only an aspect of the Almighty which was tasked with protecting men, and that the Heralds were, though glorious, simply men.
+The majority of Alethi Vorins follow an orthodox strain also practiced in Jah Keved, though a sizable population, mostly made up of Herdazians, follow more heterodox branches, such as Herdazian Vorinism.
+A small but notable population of individuals chose to actively reject any religion, but these individuals tend to be shunned by society and deemed as heretics.
 
 ### Language and Writing
 For more information on the Women's Script, see [[Women's script\|Women's script]].
@@ -767,11 +774,17 @@ Following the start of the True Desolation and the invasion and occupation of Al
 They retained political recognition by other states despite their exile.
 
 ### Demographics
-Alethkar has a variety of people in their demographics. The largest known ethnic groups in Alethkar are the Alethi, Herdazians, singers, and Makabaki peoples.
+#### Ethnicity
+Alethkar has a variety of people in their ethnic demographics. The largest known ethnic groups in Alethkar are the Alethi, Herdazians, singers, and Makabaki peoples.
 Alethkar's largest ethnic group is the Alethi people, who make up the majority of Alethkar's population and are the most prevalent ethnic group in seats of government or positions of authority. They are a highly mixed people due to their history of conquest.
 Herdazians are another major ethnic group in Alethkar, with a significant amount of Herdazians immigrating from Herdaz. They are known to retain their cultural identity and gather together with other Herdazians to form cultural communities, such as [[Little Herdaz\|Little Herdaz]]. They are subjected to various prejudices and stereotypes by the Alethi population, and are primarily Darkeyed, and thus typically possess less rights and freedoms than Lighteyed Alethi.
-Enslaved singers, referred to as parshmen by the Alethi, made up a notable portion of the population. They were treated harshly and had minimal rights, being bought and sold as property amongst wealthy Lighteyes. Following the True Desolation, the singers had their minds returned to them and were able to gain their freedom from the Alethi. After they gained their freedom, they took up various cultural aspects from Alethi culture, syncretized with their own ancestral culture.
+Enslaved singers, referred to as parshmen by the Alethi, made up a notable portion of the population. They were treated harshly and had minimal rights, being bought and sold as property amongst wealthy Lighteyes. Following the True Desolation, the singers had their minds returned to them and were able to gain their freedom from the Alethi. After they gained their freedom during the True Desolation starting in late 1173, they took up various aspects from Alethi culture, syncretized with their own ancestral culture.
 There is a sizable population of immigrants from various Makabaki countries.
+
+#### Religion
+For more on religion in Alethkar, see [[/wiki/Alethkar#Religion]].
+The majority of citizens of Alethkar are adherents of Vorinism, which was the dominant religion in the country for several centuries. The majority of these followers are adherents of an orthodox strain of Vorinism also practiced in Jah Keved; though a sizable population, mainly made up of Herdazians, follow more heterodox varieties, such as Herdazian Vorinism. Following the True Desolation, and the revelation of Honor's death, various peoples turned away from Vorinism or adopted more heterodox views to reconcile their beliefs with this revelation. Despite the demographical changes following the True Desolation, orthodox Vorinism remained the dominant religion in Alethkar.
+Atheism is uncommon but not unheard of, with a small population of individuals choosing to reject religion altogether. These individuals are deemed as heretics by most of Alethi society.
 
 ### Foreign Policy and International Relationships
 #### Azir

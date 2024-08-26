@@ -84,10 +84,10 @@ The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual 
 
 ### Canticle
 #### Heat Sharing
-People from the planet [[Canticle\|Canticle]] are able to exchange portions of their spirtweb similar to breath. Unlike breath, heat can only be exchanged with people of Canticle (including by invitation). It is unclear how this would interact with Allomancy, as the strength of Allomantic power is generally proportional to the amount of [[Preservation\|Preservation's]] investiture an Allomancer contains.
+People from the planet [[Canticle\|Canticle]] are able to exchange portions of their spiritweb similar to breath. Unlike breath, heat can only be exchanged with people of Canticle (including by invitation). It is unclear how this would interact with Allomancy, as the strength of Allomantic power is generally proportional to the amount of [[Preservation\|Preservation's]] investiture an Allomancer contains.
 
 #### Cinderhearts
-When a [[Cinderheart\|cinderheart]] is inserted deadly into a persons chest it consumes the connections and identity in a person's spirtweb, and connects them to other people who host a cinderheart. People who have a cinderheart placed more shallowly become connected to other people who host a cinder heart, but still maintain their original connections and identity.
+When a [[Cinderheart\|cinderheart]] is inserted deadly into a persons chest it consumes the connections and identity in a person's spiritweb, and connects them to other people who host a cinderheart. People who have a cinderheart placed more shallowly become connected to other people who host a cinder heart, but still maintain their original connections and identity.
 
 ### The Metallic Arts
 #### Allomancy

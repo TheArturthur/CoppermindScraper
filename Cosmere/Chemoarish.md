@@ -17,7 +17,7 @@
 Little is known about Chemoarish, and she isn't known to be active since [[Aharietiam\|Aharietiam]]. She is culturally remembered during the [[Era of Solitude\|Era of Solitude]], but a variety of myths and stories have grown up around her, obscuring the truth. She is often referred to as the **Dustmother** in modern times, and is sometimes mistakenly conflated with the [[Nightwatcher\|Nightwatcher]], a spren of [[Cultivation\|Cultivation]]. The people of [[Bavland\|Bavland]] swear by the Dustmother's name.
 
 ## Trivia
-The name Chemoarish is most likely derived from , an ancient Middle-Eastern god.
+The name Chemoarish is possibly derived from , an ancient Middle-Eastern god. It could also be derived from , a mythical bird from Persian Mythology.
 
 
 https://coppermind.net/wiki/Chemoarish
