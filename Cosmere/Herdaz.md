@@ -48,6 +48,7 @@ The people from Herdaz are called Herdazians, and can be found in many surroundi
 ## Geography
 Herdaz is a coastal nation in the north-east of Roshar, covering approximately one million square kilometres of land. Most of its jagged coastline lies on the [[Reshi Sea\|Reshi Sea]], while a small part of it faces [[Steamwater Ocean\|Steamwater Ocean]] and the [[Bay of Elibath\|Bay of Elibath]]. From the south, Herdaz borders [[Jah Keved\|Jah Keved]] on two rivers and [[Alethkar\|Alethkar]] on land. Across the sea, it is close to a number of [[Reshi Isles\|Reshi Isles]]. It lies around the same lattitude as Iri and Rira.
 Most of the country is a series of long and narrow peninsulas jutting out into the sea, and a single larger one separating the island of [[Akak\|Akak]] from the rest of the Reshi archipelago. Their territory also includes a singular island of unknown name, situated north of Akak. The Herdazian interior appears to be rather flat, with a single major river dividing the western and eastern halves of the country, and a number of smaller, shorter coastal rivers. Though there are cities there, none of them are considered to be of global importance.
+It appears to be a verdant and grassy area.
 
 ## History
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”

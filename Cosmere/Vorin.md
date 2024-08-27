@@ -52,6 +52,7 @@ Vorinism is based on belief in one god, known as the [[Almighty\|Almighty]], who
 
 
 1. [[#Life After Death]] 
+1. [[#The Soul]] 
 1. [[#Belief in Symmetry]] 
 
 1. [[#Importance of Opposites]] 
@@ -151,11 +152,12 @@ On Roshar, the Knights Radiant were left behind, although they ultimately betray
 
 ### Three-world cosmology
 The Vorin cosmology proposes a division between the upper world, the Tranquille Hills; a central world, Roshar; and the lower world, Damnation. These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
+Alongside these three worlds, they also believe in the Cognitive Realm, though it is unclear where it fits in their cosmology.
 
 #### Tranquiline Halls
 For more on the Vorin concept of the Tranquiline Halls, see [[Tranquiline Halls\|Tranquiline Halls]].
 A paradisiacal realm close to the Almighty, and the original homeland of humanity before their were cast out of it during the Expulsion. It is believed to be where virtuous humans return to after death, in order to assist in the efforts to expel the Voidbringers from the Tranquiline Halls and cast them back down to Damnation. Those that live a virtuous life but don't reach their potential in their Calling are brought to the Halls, but left in a long and dreamless sleep until the War for Heaven is won.
-The Tranquiline Halls are often conflated with the [[Spiritual Realm\|Spiritual Realm]].
+The Tranquiline Halls are often conflated with the [[Spiritual Realm\|Spiritual Realm]], and it is considered a realm of pure truth.
 
 #### Roshar
 For more on Roshar, see [[Roshar\|Roshar]].
@@ -163,6 +165,7 @@ For more on the Physical Realm, see [[Physical Realm\|Physical Realm]].
 The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. It correlates with the [[Physical Realm\|Physical Realm]].
 Roshar, and all of the plants and animals upon it, are seen as creations of the Almighty.
 The nature of Roshar is modeled and described through the Ten Essences.
+It is possible that they see the Cognitive Realm as another aspect of Roshar. They see it as more fluid than the Spiritual Realm, and believe that it can be visited.
 
 #### Damnation
 For more on the Vorin concept of Damnation, see [[Damnation\|Damnation]].
@@ -171,7 +174,8 @@ A realm of eternal fire that is home to Voidbringers and the souls of the sinful
 ### Morality
 #### Good and Evil
 Good and Evil, within Vorin Theology, are said to be objective aspects that one possesses. With the Almighty being considered to only possess good, and the Voidbringers being considered to only possess evil. This possession of moral attributes shapes how they act and can act. But humanity has a dual-attribute, meaning they possess both good and evil, and thus can commit both good and evil deeds.
-How sinful or virtuous one is can be measured by the Almighty and used to determine whether one goes to the Tranquiline Halls or Damnation.
+To live a good life, Vorins are expected to emulate the Attributes of the Heralds and the Almighty.
+How sinful or virtuous one is can be measured by the Almighty and used to determine whether one goes to the Tranquiline Halls or to Damnation.
 
 #### Calling
 All Vorins are expected to choose a **Calling**, their greatest talent, granted to them by the Almighty, and practice it until death. However, it seems acceptable for one to choose to change their Calling.
@@ -211,6 +215,13 @@ The Heraldic Forces were believed to be the army of the [[Herald\|Heralds]] that
 Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation.
 They appear to have some awareness of the Spiritual Realm, but conflate it with the afterlife.
 
+### The Soul
+Vorinism appears to teach about a single unified soul which passes into either the Tranquline Halls or Damnation after death, guided by a mythical horn. The soul is seen as the essence of a person or thing. It appears that the mind and soul are often differentiated, but are ultimately treated as a unified idea. Everything has a soul, even inanimate objects. It is believed that the soul can be corrupted by evil thoughts and deeds, and thus ardents exist to save and guide them, to protect people from Damnation.
+The soul is the animating force of the body, and when severed by a Shardblade, one loses the ability to move their body past the point of severance. If certain points of the soul are severed, such as the neck, the body dies and the soul is released. However, they believe that Shardblades do not truly destroy the soul, even when it severs it, and thus those killed by Shardblades can still pass into the afterlife.
+The soul is what is believed to be what one improves and transforms through virtuous actions, and through following their Glory and Calling.
+When a prayer is burned, it is believed its soul is taken to the Almighty for him to hear and respond to.
+Vorinism teaches of something called the Soul's March, though little is known about what this describes.
+
 ### Belief in Symmetry
 Symmetry is considered holy in Vorinism. Among others, [[Glyph\|glyphs]] are shaped symmetrically, [[Silver Kingdoms\|Silver Kingdoms]] have perfectly symmetrical names, the heralds have symmetric names, and many people's names are close to symmetrical. However, people who have names that are actually symmetric are looked down on as "too holy" and therefore blasphemous. Even the Double Eye of the Almighty, which represents the Almighty and the world itself, is designed with two-fold symmetry.
 
@@ -240,6 +251,7 @@ During the days of Old Vorinism, *[[The Way of Kings (in-world)\|The Way of King
 
 ### Sacred Numerology
 Ten, and multiples thereof, are highly sacred in Vorin theology, appearing in many places in their teachings, scriptures, and practices.
+Numerology was historically far more important to Vorin adherents, and they would look for numerological significance in their scriptures. This became an "obsession" and such numerological analysis was eventually banned.
 Some examples of ten appearing in Vorin theology include:
 
 
@@ -279,7 +291,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[56]
+\-Nale[70]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
@@ -364,6 +376,7 @@ For a list of all known ardents, see :Category: Ardentia.
 ## Trivia
 In the English language, the word "ardent" is an adjective meaning eager, zealous or passionate. Etymologically, it derives from the Latin *ardentem*, which is the accusative form of *ardēns*, the present participle of *ardeō* meaning “I burn." This may be an intentional choice, referring to the burning of prayers and glyphwards.
 Though "ardent" shares some similarity with [[Arteth\|arteth]], the name of [[Shu-Dereth\|Shu-Dereth]] priests from [[Sel\|Sel]], ardents and arteths are not connected.
+Vorinism is inspired by many things, including but not limited to , , ,  and .
 Though ardents are around in *[[The Way of Kings Prime\|The Way of Kings Prime]]*, there, they are simply called monks.
 
 

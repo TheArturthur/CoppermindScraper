@@ -102,6 +102,7 @@ Honor is also worshiped in [[Azir\|Azir]] and the surrounding countries, though 
 
 ## Trivia
 According to Brandon Sanderson, in ** colors, Honor would be mono-white.
+The forbiddance on speaking the Tenth Name of the Almighty might be based around practices concerning the . This is held to be the most holy  in . Historically it is not allowed to be spoken except by priests within the temple, but currently it is not allowed to be spoken by anyone. It is taught that, when read in scripture, the name itself is not to be pronounced, but instead replaced with another name of God.
 
 
 https://coppermind.net/wiki/Honor

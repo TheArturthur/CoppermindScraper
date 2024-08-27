@@ -160,7 +160,7 @@ Soon afterwards, Wax accessed a [[Coppermind\|coppermind]] contained in a coin-l
 
 
 ### Resistance against Trell
-At some point, Kelsier had the Ghostbloods on Scadrial work in order to resist the oncoming threat of [[Trell (Trellism)\|Trell]]. He worked out of a safehouse in [[Bilming\|Bilming]], alongside [[Wan ShaiLu\|Moonlight]], [[Prasanva\|TwinSoul]], [[Codenames\|Kaise]], and [[Dao\|Dao]]. He was hours away near Southern Scadrian when [[Telsin\|Telsin]] planned to send a bomb on Elendel, and tasked Moonlight, TwinSoul, and [[Marasi\|Marasi]] to take care of it. He also had Codenames send messages to [[Steris\|Steris]] and the Ghostblood agents in the Elendel Basin, telling them to prepare for an evacuation of Elendel.
+At some point, Kelsier had the Ghostbloods on Scadrial work in order to resist the oncoming threat of [[Trell (Trellism)\|Trell]]. He worked out of a safehouse in [[Bilming\|Bilming]], alongside [[Wan ShaiLu\|Moonlight]], [[Prasanva\|TwinSoul]], [[Kaise\|Codenames]], and [[Dao\|Dao]]. He was hours away near Southern Scadrian when [[Telsin\|Telsin]] planned to send a bomb on Elendel, and tasked Moonlight, TwinSoul, and [[Marasi\|Marasi]] to take care of it. He also had Codenames send messages to [[Steris\|Steris]] and the Ghostblood agents in the Elendel Basin, telling them to prepare for an evacuation of Elendel.
 After Elendel was saved, Kelsier talked with Harmony, asking him to lead Scadrial into a new technological and Metalborn age so they may be better prepared for future threats and [[Autonomy\|Autonomy's]] return.
 
 ## Titles

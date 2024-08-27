@@ -23,12 +23,14 @@
 
 4 Politics. [[#Politics]] 
 
+4. [[#Leadership]] 
 4. [[#Ties to Azir]] 
 4. [[#Military]] 
 4. [[#Information trading]] 
 4. [[#Foreign Policy and International Relationships]] 
 
 4. [[#Alm]] 
+4. [[#Desh]] 
 4. [[#Alethkar]] 
 4. [[#Azir]] 
 
@@ -73,8 +75,11 @@ Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm
 [[Taravangian\|Taravangian]] later used Tashikk to spread the information about the [[Eila Stele\|Eila Stele]] and break up the alliance. While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier\|Yezier]] and [[Emul\|Emul]], remained.
 
 ## Politics
+### Leadership
+Tashikk is led by a prince, who has authority over the nation. The name of this prince is currently unknown, though he is known to defer to the [[Prime Aqasix\|Prime Aqasix]], leader of Azir and the Azish Empire, of which Tashikk is a member of.
+
 ### Ties to Azir
-Though ruled by an unnamed prince, Tashikk is part of the Azish Empire, a union of states led by the king of Azir, the [[Prime Aqasix\|Prime Aqasix]]. Historically, it's considered to be the state closest to the Azish throne, alongside [[Yezier\|Yezier]]. Among others, this gives Tashikk access to the [[/wiki/Azir#Fabrials and Shards]], which they can rent out from Azir for their own purposes. The Tashikki maintain an ambassador in [[Azimir\|Azimir]] for diplomatic purposes, with the current one being the prince's brother.
+Though ruled by an prince, Tashikk is part of the Azish Empire, a union of states led by the king of Azir, the [[Prime Aqasix\|Prime Aqasix]]. Historically, it's considered to be the state closest to the Azish throne, alongside [[Yezier\|Yezier]]. Among others, this gives Tashikk access to the [[/wiki/Azir#Fabrials and Shards]], which they can rent out from Azir for their own purposes. The Tashikki maintain an ambassador in [[Azimir\|Azimir]] for diplomatic purposes, with the current one being the prince's brother.
 
 ### Military
 The Tashikki fleet possesses numerous ships, including troop carriers and scouts. In times of peace, their duty is to patrol the grand waterway, though which body of water this refers to is unclear. Additionally, the fleet is closely tied to Azir. The ships are partially staffed by battalions of Azish troops, and in times of war, the Prime can use them for their own purposes.
@@ -85,13 +90,16 @@ Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]
 
 ### Foreign Policy and International Relationships
 #### Alm
-They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble.
+They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
+
+#### Desh
+Much like with Alm, they have a good relationship with [[Desh\|Desh]], and the Desh people are allowed to enter Tashikk without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
 
 #### Alethkar
 They are a member of the Coalition of Monarchs with Alethkar. They also grant their spanreed services to Alethkar, which makes effective use of these services.
 
 #### Azir
-They are under the control of the Azish Empire, and are thus subservient to Azir.
+They are under the control of the Azish Empire, and are thus subservient to Azir. The Tashikki maintain an ambassador in [[Azimir\|Azimir]] for diplomatic purposes. They are considered to be particularly close to the Azish throne, compared to other member states of the Azish Empire.
 
 ## Culture
 ### People

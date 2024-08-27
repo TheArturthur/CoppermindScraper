@@ -50,6 +50,7 @@ commerce
 horseback riding and the care of horses
 knitting
 singing
+carving
 ## Trivia
 The idea of the safehand and the division between one-handed and two-handed arts arose from [[Brandon\|Brandon's]] fascination with different taboos across real-life cultures.
 Brandon acknowledges that it is relatively easy to find examples wherein maintaining the one-handed limitation of the feminine arts would be illogical for everyday life; however, he notes that real-life cultural norms can also be impractical.

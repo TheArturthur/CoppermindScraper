@@ -15,7 +15,7 @@
 
 
 ## History
-Silnasen has an indigenous population that is distinct from the other Veden.
+Silnasen has an indigenous population that is distinct from the other Veden and are considered their own ethnic group.
 According to [[Natata Ved\|Natata Ved]], ancient Silnasen was ruled by a king named [[NanKhet\|NanKhet]]. NanKhet took over the throne after his brother, King [[NanHar\|NanHar]], died while campaigning with his army in modern-day [[Triax\|Triax]]. NanKhet survived six assassination attempts from his own family members in three months. Weary of defending his life, he executed hundreds of people at a feast, then choked to death when no one was left to help him. The Siln dynasty was founded after his death.
 At some points in its history, Silnasen has been governed as an independent city-state. Their monarchs have generally declined to claim the first [[Dahn\|dahn]] in order to avoid provoking the Veden and [[Alethi\|Alethi]].
 

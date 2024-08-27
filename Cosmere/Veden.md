@@ -292,7 +292,7 @@ Darkeyed women tend to wear simpler clothing, and tend to wear gloves on their s
 
 ### Languages
 For the Unkalaki language, see [[/wiki/Unkalaki#Language]].
-Jah keved is home to multiple languages, including Veden and Unkalaki. These two languages are very different. The Bav also have their own language, although it is unknown how much this languages differs from Veden and Unkalaki.
+Jah keved is home to multiple languages, including Veden and Unkalaki. These two languages are very different. The Bav also have their own language, although it is unknown how much this languages differs from Veden.
 The Veden language belongs to the Vorin language family, and is close enough to that of the [[Alethkar\|Alethi]] to be mutually intelligible for both sides. Many Vedens learn Alethi in their youth. The Unkalaki language is a part of the Dawnate language family, which means that although the vocabulary is distinctive, it shares similar grammar with the other Dawnate languages. When speaking Veden, or other Vorin languages like Alethi, the Unkalaki have a distinct accent. One feature of this Unkalaki 'accent' is a tendency to use gendered pronouns (e.g. "he") in places where a non-gendered pronoun ("it") would be more appropriate.
 
 ### Games, Sports, and Entertainment
