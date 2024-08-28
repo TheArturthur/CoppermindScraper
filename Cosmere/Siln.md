@@ -22,6 +22,7 @@ At some points in its history, Silnasen has been governed as an independent city
 ## Culture
 In the present day, the Siln are thought of as a less modernized society than the rest of Jah Keved. [[Shallan Davar\|Shallan Davar]] compares the Siln to other indigenous people in [[Iri\|Iri]] and the [[Reshi Isles\|Reshi Isles]]. Their disputes tend to result in posturing rather than actual combat because they live a lifestyle in which hunting skill is too valuable to risk in battle. They are not known to commit assassinations.
 At least some of the Siln people follow [[Vorinism\|Vorinism]]; a Siln [[Ardent\|ardent]] named [[Urv\|Urv]] studies at the [[Jokasha Monastery\|Jokasha Monastery]].
+There is some degree of racism towards the Siln people by Vedens. How widespread or systematized it is, is currently unknown.
 
 ## Trivia
 In [[The Way of Kings Prime\|The Way of Kings Prime]], Silnasen was the historical name of [[Shinovar\|Shinovar]], and was one of the Epoch Kingdoms.

@@ -1,6 +1,7 @@
 |**Rathalas**|
 |-|-|
 ||
+||
 |**Region**|[[Eastern Crownlands\|Eastern Crownlands]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

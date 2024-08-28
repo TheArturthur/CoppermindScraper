@@ -1,5 +1,6 @@
 |**Savalashi**|
 |-|-|
+||
 |**Princedom**|[[Thanadal princedom\|Thanadal princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

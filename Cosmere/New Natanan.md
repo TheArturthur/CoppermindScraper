@@ -40,7 +40,7 @@ Though Dalinar invited New Natanan into his coalition, they were initially coy, 
 
 ## Culture
 ### People
-The Natan people have pale blue skin and wooly white hair. A local myth claims that this is the result of an ancient Natan queen, [[Tsa\|Tsa]], having children with the blue moon, [[Nomon\|Nomon]]. In reality, their odd skin tone comes from the Natan being part-humans and part-[[Siah Aimian\|Siah Aimians]]. This mixed ancestry gives them a some other benefits, although what they are is uncertain.
+The Natan people have pale blue skin, wooly white hair, and wide noses. A local myth claims that this is the result of an ancient Natan queen, [[Tsa\|Tsa]], having children with the blue moon, [[Nomon\|Nomon]]. In reality, their odd skin tone comes from the Natan being part-humans and part-[[Siah Aimian\|Siah Aimians]]. This mixed ancestry gives them a some other benefits, although what they are is uncertain.
 Some Natan dye their hair, though only a few locks of it, in vivid colours, such as dark red, possibly to denote some kind of rank or social status. Their names have several forms, including the common one and a high one - for example, a high form of the name [[Au-nak\|Au-nak]] is Nak-ali.
 
 ### Vorinism

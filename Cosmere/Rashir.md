@@ -1,5 +1,6 @@
 |**Rashir**|
 |-|-|
+||
 |**Princedom**|[[Sebarial princedom\|Sebarial princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

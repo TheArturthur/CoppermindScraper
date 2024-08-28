@@ -3,6 +3,7 @@
 ||
 |**Ethnicity**|[[Makabaki\|Makabaki]]|
 |**Ruled by**|Princess of Yezier|
+|**Region**|[[Makabak\|Makabak]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -10,13 +11,17 @@
 
 ## Contents
 
-1 Geography. [[#Geography]] 
-2 History. [[#History]] 
-3 Politics and Culture. [[#Politics and Culture]] 
-4 Notable citizens. [[#Notable citizens]] 
-5 Trivia. [[#Trivia]] 
-6 Notes. [[#Notes]] 
+1 Etymology. [[#Etymology]] 
+2 Geography. [[#Geography]] 
+3 History. [[#History]] 
+4 Politics and Culture. [[#Politics and Culture]] 
+5 Notable citizens. [[#Notable citizens]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
+
+## Etymology
+Yezier might be derived from *Yaezir*, the name used for [[Jezrien\|Jezrien]] across [[Makabak\|Makabak]].
 
 ## Geography
 Yezier lays in the western part of the geographical region known as [[Makabak\|Makabak]], in the south-west of [[Roshar\|Roshar]]. It's bordered by [[Desh\|Desh]] to the North, [[Azir\|Azir]] to the East, and [[Tashikk\|Tashikk]] and [[Liafor\|Liafor]] to the South. Its western border sits on an unnamed river, which it shares with [[Alm\|Alm]], while in north-east, it reaches the [[Misted Mountains\|Misted Mountains]] separating it from [[Shinovar\|Shinovar]]. It claims about 396 thousand square kilometers of land, making it the fifth largest state in the Azish Empire, and the seventeenth largest country on Roshar as a whole.
@@ -32,7 +37,6 @@ Yezier is a member of the [[Azir\|Azish Empire]], and as such subject to the rul
 Yezier is traditionally very close to Azish throne, and the princess is noted to live in [[Azimir\|Azimir]] for half of every year.
 The country has no [[Oathgate\|Oathgates]]. It's unknown whether they possess any [[Shardwielding\|Shards]], though ordinarily they, like any other member state, can borrow the Imperial [[Shardblade\|Shardblades]] of Azir. Whether that still holds true during the [[True Desolation\|True Desolation]] is unknown.
 They are known for their [[Stormwarden\|stormwardens]] and timekeepers. Along with the neighboring country of [[Liafor\|Liafor]], they are one of the centres of fashion on Roshar, and have been for decades. Their likely speak one or more of the Makabaki languages.
-Their name might be derived from Yaezir, the name used for [[Jezrien\|Jezrien]] across [[Makabak\|Makabak]].
 
 ## Notable citizens
 The princess - the ruler of Yezier. Comes to [[Urithiru\|Urithiru]] personally to plead for help against a possible [[Iri\|Iri]] invasion.

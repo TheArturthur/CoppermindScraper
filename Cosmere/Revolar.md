@@ -1,5 +1,6 @@
 |**Revolar**|
 |-|-|
+||
 |**Princedom**|[[Vamah princedom\|Vamah princedom]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

@@ -1,5 +1,6 @@
 |**Prime Aqasix**|
 |-|-|
+||
 |**Related to**|[[Azir\|Azir]]|
 |**Type**|National leader|
 |**World of Origin**|[[Roshar\|Roshar]]|
@@ -7,7 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Prime Aqasix** is the title of the elected ruler of [[Azir\|Azir]].
+The **Prime Aqasix**, also known simply as the **Prime**, is the title of the elected ruler of [[Azir\|Azir]].
 
 ## Contents
 
@@ -37,7 +38,7 @@ On special occasions, a person can be said to have applied not through their ess
 
 ## Rights and Duties
 The symbol of office for a Prime Aqasix is a hat with sweeping sides called the [[Yuanazixin\| Imperial Yuanazixin]].
-The Prime is the leader of the [[Azir\| Azish Empire]], and as such is responsible for their international politics, diplomatic relations and other matters of state. However, they are not an absolute ruler, and are obliged to listen to their advisors, most importantly the viziers. Together, the viziers have sufficient pull to force their own opinion on the Prime. In addition, whenever a Prime makes a public decree, all citizens have a month to comply, and may protest the new law in the meantime through both formal and informal means.
+The Prime is the leader of the [[Azir\| Azish Empire]], and as such is responsible for their international politics, diplomatic relations and other matters of state. They have absolute power, but are not supposed to use their power in its entirety, and are obliged to listen to their advisors, most importantly the viziers. Together, the viziers have sufficient pull to force their own opinion on the Prime. In addition, whenever a Prime makes a public decree, all citizens have a month to comply, and may protest the new law in the meantime through both formal and informal means.
 The Prime is considered a public asset, owned by the people. As such, there are lotteries for the chance to watch the Prime sleep or eat, and the onlookers are free to collect items such as hair or nail clippings. In fact, a Prime appears to be a quasi-religious figure for the Azish, as pieces of ancient Primes are sometimes preserved as relics.
 The Prime's permission is required for the leaders of the Azish Empire's member states to marry.
 

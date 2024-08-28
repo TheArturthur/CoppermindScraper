@@ -44,6 +44,7 @@
 ## Geography and Ecology
 Marat borders the [[Southern Depths\|Southern Depths]] to the south, [[Tukar\|Tukar]] to the west, [[Emul\|Emul]] to the northwest, and [[Greater Hexi\|Greater Hexi]] to the east. The northernmost part of Marat includes the southernmost part of mountain range in the center of the continent. A river separates the border between Marat and Tukar. A grain similar to wheat that pulls down into burrows grows in Marat. Disc-like creatures with claws eat the grain then leave droppings with seeds to the east. The seeds grow into polyps, then blow back west to grow into grain.
 Despite its low population, Marat has a few notable settlements. Along the Southern Depths is the city of [[Rossen Dar\|Rossen Dar]] and the towns of [[Jabom\|Jabom]] and [[Ja Dran\|Ja Dran]]. Near Tukar's border, there is the town of [[Khrishji\|Khrishji]], and close to Hexi there is the town of [[Mikhan\|Mikhan]].
+Southern Marat has a notably low population, even compared to the rest of the area.
 It has an area of around 524,000km.
 
 ## History
@@ -60,7 +61,7 @@ During the [[True Desolation\|True Desolation]], one of the first moves of the [
 [[Nale\|Nale]] brought [[Szeth\|Szeth]] and the other [[Skybreakers\|Skybreakers]] there to tell them the truth of the [[First Desolation\|First Desolation]].
 
 ## Politics
-Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population compared to other countries. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
+Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population compared to other countries, especially it its southern reaches. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
 
 ### International Relationships
 #### Alethkar
@@ -71,7 +72,7 @@ They appear to have a tense relationship with Tukar, with [[Szeth\|Szeth]] specu
 
 ## Culture
 ### Peoples
-West of Marat, women's hands are not covered for modesty. The people who live in Marat, as in [[Tukar\|Tukar]] and the [[Reshi Isles\|Reshi Isles]], tend to have brown skin tones and black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
+West of Marat, women's hands are not covered for modesty. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
 The Marati are described as a rather proud people, like you would find in any other nation across Roshar.
 Marati people are typically brown-skinned with black hair, much like the nearby Tukari.
 

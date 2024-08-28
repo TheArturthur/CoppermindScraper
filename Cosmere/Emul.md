@@ -4,6 +4,7 @@
 |**Ethnicity**|Emuli|
 |**Capital**|[[Sesemalex Dar\|Sesemalex Dar]]|
 |**Ruled by**|Prime [[Vexil\|Vexil the Wise]]|
+|**Region**|[[Makabak\|Makabak]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -47,7 +48,7 @@ Emul has an area of around 596,000 km.
 
 ## History
 ### Founding
-During the [[Silver Kingdoms\|Silver Kingdoms]] Era, Emul was a part of the kingdom of Makabakam. Some time after the collapse of Makabakam, Emul formed its own kingdom with the [[Dawncity\|Dawncity]] of [[Sesemalex Dar\|Sesemalex Dar]] as its capital. It remained technically subject to the [[Azir\|Azish]] Empire but in reality often acted independently.
+During the [[Silver Kingdoms\|Silver Kingdoms]] Era, Emul was a part of the kingdom of Makabakam. Some time after the collapse of Makabakam, Emul formed its own kingdom with the [[Dawncity\|Dawncity]] of [[Sesemalex Dar\|Sesemalex Dar]] as its capital. They were largely made up of a tribe of Askarki people. It remained technically subject to the [[Azir\|Azish]] Empire but in reality often acted independently.
 
 ### War and Famine (~1153-1174)
 A few decades before 1173, Emul was struck by a [[Lurnip\|lurnip]] famine, and widespread starvation ensued. [[Ashno\|Ashno of Sages]] served for a time as one of the greatest Emuli Primes but was replaced by [[Vexil\|Vexil the Wise]]. Emul and Tukar had a longstanding feud over the city of Sesemalex Dar, the Emuli capital. The religious significance of the city, as well as its status as an excellent port, made Sesemalex Dar a valuable prize. Since 1167, the two kingdoms have been embroiled in the [[Eighty's War\|Eighty's War]], the most recent iteration of a religious conflict over control of the city. The Emuli remained in control, but as the war pressed on the fighting went increasingly poorly for the Emuli, with refugees fleeing into the neighboring Tukar.
@@ -65,17 +66,21 @@ The following year had the war effort in Emul reach a stand still with multiple 
 ## Politics
 ### Government
 Similar to the culturally dominant [[Azish\|Azish]], Emul is lead by a leader known as a Prime. As of 1174, the Prime of Emul was [[Vexil\|Vexil the Wise]]. It is unknown how the title of Prime is passed, it may be inherited or chosen from among the people, such as done with the Azish Prime Aqasix. The Emuli Prime is often referred to as simply Emul.
-Despite the fact that Emul is mostly an autonomous kingdom, they still owe some level of deference to the Azish. For instance the Prime of Emul cannot marry the head monarch of another Makabaki kingdom without the permission of the Prime Aqasix. Emul is traditionally rather independent of Azir compared to the other Makabaki kingdoms, making agreements with other nations on their own, but they have become increasingly weakened as their war with the Tukari drags on. They still often follow Azish lead in matters of global import, such as joining Dalinar's coalition. Emul's legal system shows much leniency towards foreigners, although they lack rights such as the ability to own property or a shop in Emul. Emul controls at least a few [[Soulcaster\|Soulcasters]].
+Despite the fact that Emul is mostly an autonomous kingdom, they still owe some level of deference to the Azish. For instance the Prime of Emul cannot marry the head monarch of another Makabaki kingdom without the permission of the Prime Aqasix. Emul is traditionally rather independent of Azir compared to the other Makabaki kingdoms, making agreements with other nations on their own, but they have become increasingly weakened as their war with the Tukari drags on. They still often follow Azish lead in matters of global import, such as joining Dalinar's coalition.
+Emul's legal system shows much leniency towards foreigners, although they lack rights such as the ability to own property or a shop in Emul.
+Emul controls at least a few [[Soulcaster\|Soulcasters]].
 
 ### Military
-Emul does have a military, but they are not particularly skilled, and are considered to be less capable than Tukari soldiers, one potential reason the Emuli have been losing their war. At least some portion of the Emuli army is made up of men who are normally farmers instead of career soldiers. The Emuli view warfare in a unique way; they consider it crass to directly strike another warrior, preferring to do damage from a distance. Accordingly, the bow and arrow is the favored weapon of leaders, then spears, halberds, and finally swords, which are the typical weapons of regular soldiers. Highprince [[Aladar\|Aladar]] has begun advising the princedom on defensive tactics, which may help the army improve. Certain leaders of the Emuli army are involved in the command of the campaign when the [[Coalition of monarchs\|coalition of monarchs]] launches a mission to retake the Emuli homeland.
+Emul does have a military, but they are not particularly skilled, and are considered to be less capable than Tukari soldiers, one potential reason the Emuli have been losing their war. At least some portion of the Emuli army is made up of men who are normally farmers instead of career soldiers.
+The Emuli view warfare in a unique way; they consider it crass to directly strike another warrior, preferring to do damage from a distance. Accordingly, the bow and arrow is the favored weapon of leaders, then spears, halberds, and finally swords, which are the typical weapons of regular soldiers. Highprince [[Aladar\|Aladar]] has begun advising the princedom on defensive tactics, which may help the army improve.
+Certain leaders of the Emuli army are involved in the command of the campaign when the [[Coalition of monarchs\|coalition of monarchs]] launches a mission to retake the Emuli homeland.
 
 ## Culture
 >“*Their legal system is very lenient toward foreigners. A man who is not of their nationality cannot own a home or shop, but when you visit, you are treated as a 'relative who has traveled from afar, to be shown all kindness and leniency.' A foreigner can take dinner at any residence he calls upon, assuming he is respectful and offers a gift of fruit. The people are most interested in exotic fruits. They worship Jezrien, though they don’t accept him as a figure from the Vorin religion. They name him the only god.*”
 \-Sigzil
 
 ### Peoples
-The Emuli people are technically a tribe of the [[Askarki\|Askarki]] people, and are ethnically [[Makabaki\|Makabaki]] with dark brown skin and black hair, and possess epicanthic folds like most Rosharan peoples. Their specific language is unknown, but it is likely a part of the Makabaki language family, and they speak with a smooth accent.
+The Emuli people are technically a tribe of the Askarki people, and are ethnically [[Makabaki\|Makabaki]] with dark brown skin and black hair, and possess epicanthic folds like most Rosharan peoples. Their specific language is unknown, but it is likely a part of the Makabaki language family, and they speak with a smooth accent.
 They are very accommodating and kindly towards foreigners, treating them as relatives that are visiting from afar. They often host foreign strangers for dinner, in exchange for a gift of fruit, particularly those of exotic variety. They are also very reluctant to give offense to others, even for a Makabaki kingdom.
 The Emuli have a specific style of dress as well. Men typically wear robes, while women prefer flowing gowns and head-wraps.
 The Emuli traditionally greet old friends by holding their left forefinger to their forehead and bowing respectfully.

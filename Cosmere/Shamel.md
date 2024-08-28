@@ -1,5 +1,6 @@
 |**Shamel**|
 |-|-|
+||
 |**Princedom**|[[Hatham princedom\|Hatham princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

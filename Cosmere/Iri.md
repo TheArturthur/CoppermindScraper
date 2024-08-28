@@ -37,6 +37,7 @@ This article is about the nation on Roshar. For the people across the cosmere, 
 
 ## Geography and Ecology
 The largest city in Iri is [[Rall Elorim\|Rall Elorim]], City of Shadows, followed closely by [[Kasitor\|Kasitor]]. Many people in Kasitor worship [[Cusicesh the Protector\|Cusicesh the Protector]], a giant [[Spren\|spren]], as a deity. Iri also contains the city of [[Eila\|Eila]]. Due to its northwestern position on Roshar, Iri is warmer than most other nations.
+They are known to have plains, simply referred to as the Iri plains.
 
 ## History
 The Iriali are not native to [[Roshar\|Roshar]]. They believe that they are part of something they call the "Long Trail," a series of seven Lands which all must be "attained" before they will become One again. Of these, the Fourth Land is Roshar, which they migrated to from somewhere besides [[Ashyn\|Ashyn]], separately from the rest of humanity. They have had what most would consider to be inhuman ancestry in their past, depending on what is considered human.
@@ -48,19 +49,23 @@ By the time just after the [[Battle of Thaylen Field\|Battle of Thaylen Field]],
 At some point following the True Desolation, the Iriali left Roshar. The exact moment when they left, and what happened to Iri following their exodus, is currently unknown.
 
 ## Politics
-The Iriali are ruled by a triumvirate of rulers. The gender of the ruler is apparently unimportant, though currently they are ruled by two kings and a queen. The Queen currently has responsibilities over foreign policy.
+The Iriali are ruled by a triumvirate of rulers, referred to as the Iriali Triumvirate. The gender of the ruler is apparently unimportant, though currently they are ruled by two kings and a queen. The Queen currently has responsibilities over foreign policy.
 
 ## Foreign Policy
+Foreign policy in Iri is overseen and controlled by the Iri queen.
+
 ### Rira
-The nation of Iri claims authority over their "sister nation" of Rira, but Rira disputes that claim. Despite this, Iri does ultimately hold sway over Rira. The Iriali desire to strike eastward and take over Iri.
+The nation of Iri claims authority over their "sister nation" of Rira, but Rira disputes that claim. Despite this, Iri does ultimately hold sway over Rira. The Iriali desire to strike eastward and take over Iri, and eventually do so, occupying it.
 
 ## Culture
 The [[Iriali\|Iriali]] have metallic golden-blond skin and hair that breeds true. Many [[Alethi\|Alethi]] consider a lock of the golden hair of the Iriali to be good luck. The Iriali are particular about chastity laws, and dislike public nudity. The men often wear only waist wraps on warmer days. The Iriali also paint their skin with colors and patterns. The Iriali tend to be less quarrelsome and prudish than the [[Vorin\|Vorin]] nations. They mostly have yellow eyes.
 Iri has no [[Soulcaster\|Soulcasters]].
+There is a group of people in Iri known as *runners* who inhabit the inhabit the Iri plains. They are said to have minimal wars, and even when wars occur, they tend to be less violent than wars in other cultures. They are considered the indigenous population of Iri, and thus potentially are a separate ethnic group from the Iriali.
 
 ### Religion
-The Iriali worship a god they call "The One". According to this belief, the One knew everything but had experienced nothing. And so the One became Many in order to experience all things. As each experience is different, it brings completeness to the One. Eventually, all will be gathered back in when the sum of land is attained and they will once again become One. Every person is a different mind of a single being experiencing different lives. As Many, they need ignorance. Each fragment of the One’s mind has its own body with different passions and inclinations. They exist in variety to experience all kinds of thought. That means some people must know and others must not. Just like some people must be rich and others poor.
+The Iriali worship a force or entity they call "The One", though they do not consider The One to be a god. According to this belief, the One knew everything but had experienced nothing. And so the One became Many in order to experience all things. As each experience is different, it brings completeness to the One. Eventually, all will be gathered back in when the sum of land is attained and they will once again become One. Every person is a different mind of a single being experiencing different lives. As Many, they need ignorance. Each fragment of the One’s mind has its own body with different passions and inclinations. They exist in variety to experience all kinds of thought. That means some people must know and others must not. Just like some people must be rich and others poor.
 It is likely that this belief is the same one spread by [[Arclo\|Arclo]].
+They do not believe in priests or preaching, seeing both as foreign ideas.
 The religion is at least somewhat related to the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]] with its philosophy of one becoming many.
 The Iriali religion involves somehow reading portents of the future in the waves of the ocean. Tidereaders look at the waves and use what they see to make pronouncements about the future. The Iriali queen has a tidereader in her court.
 The philosophy behind the One is that the [[Spiritual Realm\|Spiritual Realm]] and the [[Beyond\|Beyond]] are the same thing. When a person dies, their soul rejoins the [[Investiture\|Investiture]] of the Spiritual Realm. Most [[Cosmere\|cosmere]] philosophers disagree with this belief.

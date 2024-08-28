@@ -277,7 +277,7 @@ The Alethi are called the *Tagarut* by the [[Azish\|Azish]], this term means "Br
   Map of Alethkar. Alethi territories (barring the <<Shattered Plains\|Shattered Plains>>) are marked in purple.
 ### Territories and Features
 #### Territories
-Alethkar lies in eastern [[Roshar\|Roshar]], stretching across the entire continent, from the [[Steamwater Ocean\|Steamwater Ocean]] in the North to the [[Tarat Sea\|Tarat Sea]] in the South-West. To the East, it leans on the [[Unclaimed Hills\|Unclaimed Hills]], while to the South, it reaches the nationless [[Frostlands\|Frostlands]] and the [[Shattered Plains\|Shattered Plains]], the latter of which it has recently claimed for itself. To the West, Alethkar has a long and long-disputed border with [[Jah Keved\|Jah Keved]], which currently follows two rivers and the bend of the [[Sunmaker Mountains\|Sunmaker Mountains]]. To the North-West, Alethkar borders [[Herdaz\|Herdaz]] across a stretch of land decided through many years of border conflicts.
+Alethkar lies in eastern [[Roshar\|Roshar]], stretching across the entire continent, from the [[Steamwater Ocean\|Steamwater Ocean]] in the North to the [[Tarat Sea\|Tarat Sea]] in the South-West. To the East, it leans on the [[Unclaimed Hills\|Unclaimed Hills]], while to the South, it reaches the nationless [[Frostlands\|Frostlands]] and the [[Shattered Plains\|Shattered Plains]], the latter of which it has recently claimed for itself. To the West, Alethkar has a long and long-disputed border with [[Jah Keved\|Jah Keved]], which currently follows two rivers and the bend of the [[Sunmaker Mountains\|Sunmaker Mountains]]. To the North-West, Alethkar borders [[Herdaz\|Herdaz]] across a stretch of land decided through many years of border conflicts. Its northern extent is 5.4° S including Akak, or 7.2° S for the mainland.
 At the tail end of the [[Era of Solitude\|Era of Solitude]], Alethkar is the largest state on Roshar, covering an area around 7,134,000 km.
 Besides the mainland, the Alethi have a number of territories off the coast. On the [[Steamwater Ocean\|Steamwater Ocean]], Alethkar has [[Akak\|Akak]] and a number of surrounding islands, giving it complete control over the [[Bay of Elibath\|Bay of Elibath]]. On the [[Tarat Sea\|Tarat Sea]] - more specifically, a region of it called [[Mevan Bay\|Mevan Bay]] - it controls a number of small islands in the delta of [[Deathbend River\|Deathbend River]], near the city of [[Karanak\|Karanak]].
 
@@ -471,7 +471,7 @@ The Alethi forces in Alethkar proper spent their time reconquering the nation, a
 At the Coalition’s behest, Highprince Aladar and some of his scribes helped to advise the Emuli on fortifying their remaining lands to ensure no further loss of territory. The following year had the war effort in Emul reach a stand still with multiple skirmishes and attacks by the [[Skybreakers\|Skybreakers]] against coalition forces. The position of the coalition later changed in 1175, when it was agreed unanimously to push into and defeat the singer forces in Emul. Many of the Coalition forces during this campaign were made up of Alethi, and the Queen, along with a single highprince, resided in Emul as well. Dalinar Kholin and Jasnah Kholin also chose a new Sadeas highprince during this time. Queen Jasnah participated in the war planning sessions, to the frustration of Highprince [[Ruthar\|Ruthar]]. At one particular session Ruthar snapped, insulting the Queen and challenging the [[Hoid\|Queen’s Wit]] to a trial by sword. The Wit appointed Jasnah as his champion, and after she defeated Ruthar, the highprince was stripped of all titles and lands, and his oldest son was made highprince. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar. The push into Emul was ultimately successful.
 
 >“*I’ve come by order of the Bondsmith, my father, to visit your lands and deliver a message on his behalf. I bring with me Knights Radiant of four different orders, all of whom work in concert against the rising Everstorm. Proof that men and spren once again need their bonds of old.*”
-\-Adolin's offer of alliance to the honorspren[140]
+\-Adolin's offer of alliance to the honorspren[141]
 
 Meanwhile, the Coalition, stunted by the lack of willing [[Honorspren\|honorspren]], sent a delegation to [[Lasting Integrity\|Lasting Integrity]], the honorspren capital. This delegation was made up of the new highprince Adolin Kholin, his wife and a number of Knight’s radiant. Their original plan, made by Queen Jasnah, was to present the honorspren with gifts, and give them written requests to begin relations again. Once arrived however, the honorspren of Lasting Integrity made it clear that they wanted nothing to do with the Coalition, destroying their correspondence and refusing to engage Kholin’s pleas and arguments. With all of his other plans having failed, Adolin surrendered himself into the custody of the honorspren, after giving them the opportunity to trial him for the [[Recreance\|Recreance]]. The Honorspren put Kholin on trial, and after a hard-fought and rocky trial, Kholin won after his Shardblade spren [[Mayalaran\|Mayalaran]] revealed the truth about the [[Recreance\|Recreance]].
 
@@ -481,7 +481,7 @@ After the liberation of Urithiru, [[Odium\|Odium]] appeared to Dalinar. He wishe
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[143]
+\-Lopen[144]
 
 
 ### People
@@ -574,7 +574,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[217]
+\-Shallan[218]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -613,6 +613,7 @@ As a Vorin nation, they believe that people go to assist the Heralds in accordan
 Vorin culture is strictly oppossed to extra-marital sexuality, though this doesn't stop prostitution from being popular at Warcamps and cities, and in Urithiru. Though even those that make use of their services tend to look down on them for their occupation, and often physically abuse them.
 They are accepting of homosexuality, and allow same-sex marriage, as long as the same oaths are spoken. This is due to the fact that their perception of marriage is rooted in the oaths itself, which a pair of any gender would be able to make without any issues. However, some see it as unbecoming of one's gender, but this seems to be an uncommon perception. Despite Alethi prudeness, some men own cards with pictures of women in compromising positions on them.
 Incest is strictly looked down on, this includes the marriage of one's sibling's widow(er).
+Some Alethi people, despite or perhaps because of their racist outlook, appear to sexualize western women, and Reshi women, due to their "exoticism."
 
 ### Gender Roles
 The Alethi have very strict gender roles that permeate nigh every aspect of their culture. With most aspects of life, from art, to occupation, to cuisine, is defined by a strict masculine-feminine dichotomy. Ardents, however, are essentially considered genderless and can persue both masculine and feminine activities.
@@ -637,7 +638,7 @@ A judge is present to moderate duels, and they have some special authority. Duel
 
 ## Politics
 >“*Dalinar had been around Alethi politicians so much that he found honesty an obscure thing, like a language he no longer spoke.*”
-\-Dalinar[65]
+\-Dalinar[66]
 
 
 ### Monarch
@@ -792,7 +793,7 @@ Atheism is uncommon but not unheard of, with a small population of individuals c
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[180]
+\-Taravangian[181]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -888,7 +889,7 @@ The Alethi employ a wide range of tactics. One popular tactic that is often used
 The Alethi infantry is usually employed in large block like formations, these blocks can get very large, with some of them being five thousand men strong. These standard spearmen blocks engage enemies as much as to position them as to do harm. The Alethi infantry blocks are also extremely mobile, far more so then infantry blocks from other militaries. The Alethi infantry uses their shields, forming a canopy of sorts, to protect from arrows and throwing spears. In these spearmen blocks, the front row of soldiers rotates to the back every ten minutes. This means that for every minute you're fighting, you also have a minute to rest. For most of Alethi history, due to lack of horses, light infantry was used to harry enemy armies.
 
 >“*All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
-\-The Sunmaker, who shaped modern Alethi militarism[55]
+\-The Sunmaker, who shaped modern Alethi militarism[56]
 
 Cavalry has never played a large role in Alethi warfare, at least, until recent times. Warfare has started to include more and more cavalry. Cavalry has historically been used to fight shardbearers, and has more recently begun being used to break lines. Cavalry was used extensively during the [[War of Reckoning\|War of Reckoning]], mainly to break ‘Parshendi’ lines and establish a beachhead for the rest of the army to exploit.
 While the soldiers are trained to fight in formations, some battles, the ones fought between largely unprofessional armies, immediately start with a charge, the lines and formations disintegrating. These battles are extremely chaotic, the armies often mingle indistinguishably and squads split up to fight other small groups.
@@ -923,7 +924,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficult to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[234]
+\-Highmarshal Halad[235]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
@@ -935,7 +936,7 @@ The way soldiers are trained depends on the princedom they’re from. In at leas
 Soldiers are trained in a specific order. Firstly, men are trained to march properly.. Afterwards, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking. Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves. It is considered to be necessary to know how to catch a spear, so you can yank someone off balance. However, this maneuver is also known to be almost impossible to execute on the battlefield. Officers also learn a trick to discipline troops by way of conversation. They stay silent for a couple seconds, which makes the soldier nervous and begin explaining himself.
 
 >“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
-\-a quotation from The Arguments[55]
+\-a quotation from The Arguments[56]
 
 #### Drills
 The Alethi have a large number of drills to practice certain formations, movements and fighting in general.

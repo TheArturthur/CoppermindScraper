@@ -33,7 +33,7 @@ Rira is located in northwest Roshar, a warm area of the continent. Rira primaril
 Rira contains an area known as the "sunken forests". It also controls the island that contains the city of [[Kurth\|Kurth]]. [[Rianal\|Rianal]], [[Drehy\|Drehy's]] birthplace, is in the west; based on Drehy's blond hair, it may be located in Rira, but it does not appear on available maps.
 
 ## History
-In the [[Silver Kingdoms\|Silver Kingdoms]] era, almost all of Rira's territory was a part of [[Iri\|Iri]]. At some point, the Riran people that occupied the eastern portion of Iri formed their own nation. Rira also took control of a small island near its coast that contained the city of Kurth, previously held by the Silver Kingdom of [[Rishir\|Rishir]].
+In the [[Silver Kingdoms\|Silver Kingdoms]] era, almost all of Rira's territory was a part of [[Iri\|Iri]], with the southern extents being part of [[Sela Tales\|Sela Tales]]. At some point, the Riran people that occupied the eastern portion of Iri formed their own nation. Rira also took control of a small island near its coast that contained the city of Kurth, previously held by the Silver Kingdom of [[Rishir\|Rishir]]. At some point they expanded from Heraldic Epoch Iri territory, to take land that was previously part of northwestern Sela Tales.
 Iri continued to claim Rira as a vassal state, but this claim was disputed, and Rira was recognized as a sovereign kingdom by other nations.
 
 >“*Soulcasters. We have not these things in Rira or Iri. Fascinating, fascinating ... And so many Shards here. Perhaps half the world's wealth of Blades and Plates, all contained in Vorin kingdoms. The Heralds themselves favor you.*”
@@ -58,7 +58,7 @@ Riran people superficially share some physical traits with the Iriali. They are 
 
 ### Religion
 Rira seems to be ideologically and religiously distinct from both the Iriali and the [[Vorin\|Vorin]] nations to the east. Some Rirans have a belief system that incorporates parts of each of these religions, while others feel that neither doctrine applies to their people.
-Evi believes in the Iri concept of the [[One\|One]] but also seems to worship the [[Herald\|Heralds]]. However, she uses unique names for the Heralds such as [[Yaysi\|Yaysi]] and [[Kellai\|Kellai]], and she does not pray to the [[Almighty\|Almighty]]. She burns [[Glyphward\|glyphwards]], but she is careful to use fragrant paper that also serves as incense. She also refers to an unknown entity named [[Shishi (Roshar)\|Shishi]].
+Evi believes in the Iri concept of the [[One\|One]] but also seems to worship the [[Herald\|Heralds]]. The Riran faith refers to the Heralds of [[Jezrien\|Jezrien]] and [[Kalak\|Kalak]] as [[Yaysi\|Yaysi]] and [[Kellai\|Kellai]], and she does not pray to the [[Almighty\|Almighty]]. She burns [[Glyphward\|glyphwards]], but she is careful to use fragrant paper that also serves as incense. She also refers to an unknown entity named [[Shishi (Roshar)\|Shishi]].
 Rirans have superstitions surrounding bad memories being stored in their skin, requiring one to rub them off with a stone once a month.
 
 ### Language

@@ -70,7 +70,7 @@ The summers tend to be sweltering, especially at the beaches, where the sand is 
 An unknown species of minnow.
 An unknown species of [[Greatshell\|greatshell]] living on [[Kadrix\|Kadrix]].
 ## People
-The Reshi are described as having straight black hair, tan skin and rounded features. They are said to look similar to Herdazians. They speak Reshi. They are a relaxed people, living a simple life, though not every Reshi is carefree and prefers lounging to fighting.
+The Reshi are described as having straight black hair, tan skin and rounded features. They are said to look similar to Herdazians, and to the Marati and Tukari. They speak Reshi. They are a relaxed people, living a simple life, though not every Reshi is carefree and prefers lounging to fighting.
 They know much of foreigners, but are not aware of the current economic situation on the mainland, so they only trade with people they trust and respect during the trading season. With outsiders seeking out the place and trying to exploit them, they grow tired of those who bring goods of low quality. Despite this, they are capable of sending messages to distant locations, as [[Talik\|Talik]] was able to tell [[Vstim\|Vstim]] in advance that he should bring goods to trade for a larkin corpse.
 The relatively relaxed culture of the Reshi Isles attracts foreigners to the isles as permanent residents. According to [[Vstim\|Vstim]], relocating to the Tai-na called Relu-Na requires giving all you own to their king. It is unclear if this is standard practice for all of the Reshi Isles, or just for this one.
 As indigenous populations, most Reshi have no real concept of assassination and war. To them, battle is more about yelling and posturing than actual killing. However the eastern Reshi often raid Alethkar. When trading, a Reshi judges the other trader as they would judge a rival in battle.
@@ -81,10 +81,12 @@ When a foreigner is nearby, the Reshi tend to jump into the water from greater h
 The Reshi worship Tai-na as their gods. They believe that the Tai-na approve of boldness and respect and interpret the movements of the Tai-na as divine will. They also believe that everything in life serves the same purpose of pleasing the [[Tai-na\|Tai-na]].
 They use bundles of fruit as offerings.
 They appear to observe taboos regarding discussion of the spren that inhabit Tai-na.
+Vorin people describe them as being "pagans among pagans", due to their separation from the Vorin faith.
 
 ### Clothing
 Reshi standard clothing includes colorful wraps leaving the shoulders bare as well as tassels. Some Reshi also wear their hair in two long braids. Reshi are also known to wear hair ornaments such as ribbons. Swimmers like to walk about unclothed. In parts of the Reshi Isles, some women don't even wear tops due to the hot weather. The king of an island is dressed in full bright voluminous robes.
 Clothing makes some use of carapace, particularly on armor.
+It is common for men and women to wear their hair in one or more braids.
 
 ### Live Stock
 The Reshi paint their chulls' shells. One can identify what island a Reshi chull handler is from by the colors and patterns on their chulls' shells.

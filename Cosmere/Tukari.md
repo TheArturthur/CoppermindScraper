@@ -89,6 +89,7 @@ The Tukari are renowned across Roshar for their mercenaries, their perfumes and 
 ### Government and Religion
 Tukar is a theocracy, with their current spiritual and political leader, Tezim, being alternately titled the god-priest, god-king, and priest-king. The Tukari people also live in clans.
 Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the [[Almighty\|Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]]. Though the average Tukari likely do not know of his true identity, there are numerous rumors concerning him outside of the country.
+It is unknown why the Tukari accepted him as their God-King so quickly, and why they accepted a foreigner into that position, but there is a reason that they did so.
 
 ### Military
 The Tukari are highly militaristic. Tukar itself has numerous [[Soulcaster\|Soulcasters]], which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.

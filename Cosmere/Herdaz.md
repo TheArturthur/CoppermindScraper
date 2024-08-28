@@ -25,6 +25,7 @@ The people from Herdaz are called Herdazians, and can be found in many surroundi
 
 
 3. [[#Military]] 
+3. [[#Economy]] 
 
 
 4 People and Culture. [[#People and Culture]] 
@@ -57,15 +58,15 @@ It appears to be a verdant and grassy area.
 
 The area that would come to be known as Herdaz was once inhabited by [[Singer\|Singers]] before the arrival of humanity from [[Ashyn\|Ashyn]]. Shortly after humanity's arrival from Ashyn and colonization of the land that would come to be known as Shinovar, they began to violently expand and colonize land across Roshar, which included this land. Some Singers, in an attempt to fight back the invasion, turned to [[Odium\|Odium]] and became the [[Fused\|Fused]], whilst others refused Odium's power and remained simply Singers.
 During the [[Silver Kingdoms\|Silver Kingdoms]] era, what would come to be Herdaz was part of the kingdom of [[Rishir\|Rishir]], which additionally encompassed modern [[Reshi Isles\|Reshi Isles]] as well as northern [[Jah Keved\|Jah Keved]], [[Alethkar\|Alethkar]] and [[Tu Bayla\|Tu Bayla]].
-At some point, the people living in this particular region of Rishir intermingled with the remaining singer population, birthing people with a mixed Rishir and Singer heritage. Modern Herdazians still show signs of their ancient Singer heritage in their carapace nails and higher rate of asexuality compared to other ethnicities. It is uncertain when Herdaz became its own country.
+At some point, the people living in this particular region of Rishir intermingled with the remaining singer population, birthing people with a mixed Rishir and Singer heritage. Modern Herdazians still show signs of their ancient Singer heritage in their carapace nails and higher rate of asexuality compared to other ethnicities. It is uncertain when Herdaz became its own country, though it is considered relatively new, and is said to have occurred after the [[Scouring of Aimia\|scouring of Aimia]].
 Herdaz has a long history of conflict with the Alethi. It was one of the first conquests of the warlord [[Sadees\|Sadees]], though like many others, it did not remain within his sons' grasp after his death. Following this event, various other conflicts have occurred, with Herdaz becoming known as a traditional first step in Alethi aggression.
-Much later, following [[Gavilar Kholin\|Gavilar Kholin's]] unification of Alethkar, a change of dynasties occured in Herdaz, and the new monarch began threatening the Alethi borders in an attempt to test them. The Alethi responded by sending armies led by the king's brother, [[Dalinar Kholin\|Dalinar Kholin]], who spent about four years campaigning in the borderlands, shaping the modern Alethkar-Herdaz border.
+Much later, following [[Gavilar Kholin\|Gavilar Kholin's]] unification of Alethkar, a change of dynasties occurred in Herdaz after a Reshi house rose to power, and the new monarch began threatening the Alethi borders in an attempt to test them. The Alethi responded by sending armies led by the king's brother, [[Dalinar Kholin\|Dalinar Kholin]], who spent about four years campaigning in the borderlands, shaping the modern Alethkar-Herdaz border.
 Prior to the [[True Desolation\|True Desolation]], it seems the country wasn't doing very well, as numerous Herdazians elected to leave it, with some only coming back from time to time while others never returned. However, it appears to have weathered the [[Everstorm\|Everstorm]] without much destruction, as the [[Voidbringer\|Voidbringers]] focused on bringing down their neighboring states. When Dalinar contacted them to get their support for his coalition, they initially believed that he was trying to trick them into letting him invade them.
-Following the fall of Alethkar, a number of Alethi forces withdrew to Herdaz in an attempt to mount an organized resistance, among them forces led by [[Sheler\|Sheler]] and [[Relis Ruthar\|Relis Ruthar]]. While most refugees have been folded under the command of the Herdazian general [[Dieno enne Calah\|Dieno enne Calah]], the cooperation between the two armies could get heated at times, as brightlord Sheler was captured and put up for execution after assaulting the local women.
+Following the fall of Alethkar, a number of Alethi forces withdrew to Herdaz in an attempt to mount an organized resistance, among them forces led by [[Sheler\|Sheler]] and [[Relis Ruthar\|Relis Ruthar]]. While most refugees have been folded under the command of the Herdazian general [[Dieno enne Calah\|Dieno enne Calah]], the cooperation between the two armies could get heated at times, as brightlord Sheler was captured and put up for execution after assaulting the local women. During the invasion of Herdaz by the [[Fused\|Fused]] armies, there was a refugee crisis of people fleeing from the war.
 
 ## Government and Politics
 ### Government
-Herdaz is ruled by an unnamed king from a new dynasty that has only come into power sometime before the year 1150. Little is known about him and his family, other than that he has no daughters. The kingdom has a single set of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]] that are passed down through the royal line.
+Herdaz is ruled by an unnamed king from a new dynasty that has only come into power sometime before the year 1150. Little is known about him and his family, other than that he has no daughters, and that he is from a powerful Reshi house. The kingdom has a single set of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]] that are passed down through the royal line.
 Herdaz might have at least one [[Soulcaster\|Soulcaster]], though the source on that is unreliable. It is certain, however, that there are no [[Oathgate\|Oathgates]] there.
 
 ### International Relations and Diaspora
@@ -79,7 +80,10 @@ A large number of Herdazians live in Alethkar as part of a wider Herdazan diaspo
 Following the True Desolation, some Herdazians seem to have migrated to [[Scadrial\|Scadrial]], with some known to have lived in [[Bilming\|Bilming]] selling chouta as of 348 [[Catacendre\|PC]]. How they are treated or thought about by wider society or by the government is currently unknown.
 
 ### Military
-Little is currently known about the Herdazian military, however, it is known that they are strong enough to resist Alethi incursion and defend their territory. Furthermore, it is notable enough for Alethkar to quickly approach them with offers to join the Coalition of Monarchs after the start of the True Desolation. Though they are not considered to be of true strategic value.
+Little is currently known about the Herdazian military, however, it is known that they are strong enough to resist Alethi and Fused incursions and defend their territory, they only fell to the Singer incursion after many months of fighting. Furthermore, it is notable enough for Alethkar to quickly approach them with offers to join the Coalition of Monarchs after the start of the True Desolation. Though they are not considered to be of true strategic value.
+
+### Economy
+They have prominent trade routes with Jah Keved, and Azir, formed during the time of Sadees.
 
 ## People and Culture
 ### Cuisine
@@ -114,7 +118,7 @@ The Herdazian language belongs to the Vorin family, much like Alethi and Veden. 
 *velo* - unknown meaning, used by Lopen to refer to [[Talik\|Talik]]
 ### Diaspora
 >“* Gon, I haven't been to Herdaz since I was a baby. There are as many Herdazians in Alethkar and Jah Keved these days as there are in our homeland.*”
-\- Lopen[11]
+\- Lopen[12]
 
 
 The Herdazian people are spread across a wide disaspora covering much of western Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation.
