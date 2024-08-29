@@ -53,7 +53,7 @@ Rira becomes a strategically significant location during the [[True Desolation\|
 \-Adolin's thoughts on Zu's appearance[17]
 
 
-Riran people superficially share some physical traits with the Iriali. They are tall, and have light skin and blond hair. However, Rirans do not have the Iriali trait of a metallic tinge to their skin and hair. Rirans have a mixed ancestry and there are genetic differences between the two peoples. Adolin and [[Renarin\|Renarin]], who are half Riran, have different amounts of blond hair mixed in with the black hair from their Alethi father.
+Riran people superficially share some physical traits with the Iriali. They are tall, and have light skin and blond hair. However, Rirans do not have the Iriali trait of a metallic tinge to their skin and hair. Rirans have a mixed ancestry, likely with the Iriali, though there are genetic differences between the two peoples. Adolin and [[Renarin\|Renarin]], who are half Riran, have different amounts of blond hair mixed in with the black hair from their Alethi father.
 [[Ialai Sadeas\|Ialai Sadeas]] claimed that Rirans and Iriali wear very little clothing, similar to the [[Reshi\|Reshi]], although she may have been exaggerating in order to tempt Dalinar. Evi does wear a "filmy" dress when she first meets the Alethi, and is not used to covering her [[Safehand\|safehand]]. Their attitude towards sex and affection is less conservative than the Vorin nations of the east; some Alethi blame Adolin's flirtatious nature on his Riran heritage.
 
 ### Religion

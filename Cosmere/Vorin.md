@@ -69,6 +69,7 @@ Vorinism is based on belief in one god, known as the [[Almighty\|Almighty]], who
 2 Branches and Varieties. [[#Branches and Varieties]] 
 
 2. [[#Herdazian Vorinism]] 
+2. [[#Natan Vorinism]] 
 
 
 3 Culture. [[#Culture]] 
@@ -273,10 +274,13 @@ The ten Body Focuses
 The Ten Surges
 
 ## Branches and Varieties
-Vorinism is known to have at least two branches, the orthodox variety practiced by Alethkar and Jah Keved, and the more heterodox variety practiced by adherents in Herdaz.
+Vorinism is known to have at least three branches, the orthodox variety practiced by Alethkar, Jah Keved, and Kharbranth; and the more heterodox varieties practiced by adherents in Herdaz and New Natanatan. Vorinism has also been syncretized with other religions, such as in the Riran faith, which incorporates Vorin and Iriali teachings.
 
 ### Herdazian Vorinism
 Herdazian Vorinism is a heterodox variety of Vorinism which varies from the more orthodox variety. Little is known about Herdazian Vorinism, except that their doctrine, contrary to the orthodox, permits male literacy.
+
+### Natan Vorinism
+Vorinism practiced by the Natan people also varies from the orthodoxy. Alongside the Almighty and the Heralds, they also worship the moons, with [[Nomon\|Nomon]] as the most important. They believe that these moons are sentient and are able to take human form. A myth in their faith speaks of how their people were born when an ancient queen named [[Tsa\|Tsa]] had children with the anthropomorphization of Nomon, thus granting them their blue skin. Many Vorin people consider them to be "almost pagan," and question their true devotion.
 
 ## Culture
   Vorin woman, with covered safehand on display.
@@ -291,7 +295,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[70]
+\-Nale[73]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
