@@ -14,14 +14,19 @@
 ## Contents
 
 1 Geography and Ecology. [[#Geography and Ecology]] 
-2 Politics. [[#Politics]] 
-3 People. [[#People]] 
-4 Culture. [[#Culture]] 
-5 Notes. [[#Notes]] 
+2 History. [[#History]] 
+3 Politics. [[#Politics]] 
+4 People. [[#People]] 
+5 Culture. [[#Culture]] 
+6 Notes. [[#Notes]] 
 
 
 ## Geography and Ecology
 It borders [[Tashikk\|Tashikk]] to the east, [[Yezier\|Yezier]] and [[Alm\|Alm]] to the north, the [[Aimian Sea\|Aimian Sea]] to the northwest, [[Steen\|Steen]] to the southwest, and an unnamed body of water to the south. The city [[Berizhet\|Berizhet]] lies in northeastern Liafor, close to Tashikk. A major river runs west through Liafor, starting near Berizhet and ending in the Aimian Sea. During the [[Silver Kingdoms\|Silver Kingdoms]] era, it was part of [[Makabakam\|Makabakam]].
+
+## History
+During the Silver Kingdoms period, it was part of Makabakam. Eventually, Makabakam collapsed and Liafor eventually formed from its remains.
+During the Era of Solitude, Liafor became a member state of the Azish Empire, it became famous across Roshar for its fashion.
 
 ## Politics
 Liafor is headed by a monarchy run by a prince and other rulers. The prince's cousin, [[Kaza\|Kaza]], was trained from a young age in the use of their [[Soulcaster\|soulcaster]], which is always kept in the royal family. Whoever is the soulcaster is locked up yet given comforts in an attempt to placate them. Their soulcaster only has the ability to turn objects into smoke. The soulcaster was lost on the island of [[Akinah\|Akinah]] when Kaza ran off seeking a cure for her [[Savant\|condition]]. Liafor tends to eagerly join whatever councils Azir is in, though they prefer to cater meetings themselves. At the start of the [[True Desolation\|True Desolation]], they and Yezier were the only two Makabaki countries [[Dalinar\|Dalinar]] thought in a stable enough position to approach about the coalition.

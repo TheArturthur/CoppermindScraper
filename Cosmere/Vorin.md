@@ -9,110 +9,123 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
   **Vorin nations**. In dark red the nations where Vorinism plays a more prevalent role.
-**Vorinism** is a monotheistic that it practiced primarily in Eastern [[Roshar\|Roshar]], it is one of the primary religions of Roshar. Vorinism is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west.
+**Vorinism** is a monotheistic religion that is practiced primarily in Eastern [[Roshar\|Roshar]], it is one of the primary religions of Roshar. Vorinism is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], collectively known as the Vorin kingdoms, and becomes less common further west.
 Vorinism is based on belief in one god, known as the [[Almighty\|Almighty]], who created the world and mankind within it, and the Ten [[Herald\|Heralds]] whom he anointed as his emissaries and protectors of mankind.
+Vorinism remains culturally and doctrinally diverse concerning many aspects of their faith, with different nations and ethnic groups forming their own religious branches. The creeds of various Vorin denominations generally hold in common the belief in the Almighty and the Heralds.
+Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 
 ## Contents
 
-1 Beliefs. [[#Beliefs]] 
+1 Etymology. [[#Etymology]] 
+2 Beliefs. [[#Beliefs]] 
 
-1. [[#The Almighty]] 
+2. [[#The Almighty]] 
 
-1. [[#Euhemerism]] 
-
-
-1. [[#The Heralds]] 
-1. [[#List of Heralds]] 
-1. [[#Myths]] 
-
-1. [[#Creation Myth and the Expulsion]] 
-1. [[#The Desolations and the Recreance]] 
+2. [[#Euhemerism]] 
 
 
-1. [[#Three-world cosmology]] 
+2. [[#The Heralds]] 
 
-1. [[#Tranquiline Halls]] 
-1. [[#Roshar]] 
-1. [[#Damnation]] 
+2. [[#List of Heralds]] 
 
 
-1. [[#Morality]] 
+2. [[#The Voidbringers]] 
+2. [[#Dawnsingers]] 
+2. [[#Myths]] 
 
-1. [[#Good and Evil]] 
-1. [[#Calling]] 
-1. [[#Glory]] 
-
-1. [[#Known Glories]] 
-
-
-1. [[#Telling the Future]] 
-1. [[#Transformation and Change]] 
-1. [[#Oaths and Marriage]] 
-1. [[#Sex and Sexuality]] 
+2. [[#Creation Myth and the Expulsion]] 
+2. [[#The Desolations and the Recreance]] 
 
 
-1. [[#Life After Death]] 
-1. [[#The Soul]] 
-1. [[#Belief in Symmetry]] 
+2. [[#Three-world cosmology]] 
 
-1. [[#Importance of Opposites]] 
-
-
-1. [[#Temples]] 
-1. [[#Ten Essences and Surges]] 
-1. [[#Prayer]] 
-1. [[#Oathgates]] 
-1. [[#Scripture]] 
-1. [[#Sacred Numerology]] 
+2. [[#Tranquiline Halls]] 
+2. [[#Roshar]] 
+2. [[#Damnation]] 
 
 
-2 Branches and Varieties. [[#Branches and Varieties]] 
+2. [[#Morality]] 
 
-2. [[#Herdazian Vorinism]] 
-2. [[#Natan Vorinism]] 
+2. [[#Good and Evil]] 
+2. [[#Calling]] 
+2. [[#Glory]] 
 
-
-3 Culture. [[#Culture]] 
-
-3. [[#Law]] 
-
-3. [[#The Right of Travel]] 
-3. [[#The Right to Learn]] 
-3. [[#The Right of Challenge]] 
+2. [[#Known Glories]] 
 
 
+2. [[#Telling the Future]] 
+2. [[#Transformation and Change]] 
+2. [[#Oaths and Marriage]] 
+2. [[#Sex and Sexuality]] 
 
 
-4 Priesthood. [[#Priesthood]] 
+2. [[#Life After Death]] 
+2. [[#The Soul]] 
+2. [[#Belief in Symmetry]] 
 
-4. [[#Slavery]] 
-4. [[#Spiritual Guidance]] 
-4. [[#Soulcasting]] 
-4. [[#Devotaries]] 
-
-
-5 History. [[#History]] 
-
-5. [[#Origins and Old Vorinism]] 
-5.2 Hierocracy: Rise
-5.3 Hierocracy: Fall and Aftermath
-5. [[#Present and Future]] 
+2. [[#Importance of Opposites]] 
 
 
-6 Notable Members. [[#Notable Members]] 
+2. [[#Temples]] 
+2. [[#Ten Essences and Surges]] 
+2. [[#Prayer]] 
+2. [[#Oathgates]] 
+2. [[#Scripture]] 
+2. [[#Sacred Numerology]] 
 
-6. [[#The Ardentia]] 
-6. [[#Lay members]] 
+
+3 Branches and Varieties. [[#Branches and Varieties]] 
+
+3. [[#Herdazian Vorinism]] 
+3. [[#Natan Vorinism]] 
+3. [[#Thaylen Vorinism]] 
 
 
-7 Trivia. [[#Trivia]] 
-8 Notes. [[#Notes]] 
+4 Culture. [[#Culture]] 
 
+4. [[#Law]] 
+
+4. [[#The Right of Travel]] 
+4. [[#The Right to Learn]] 
+4. [[#The Right of Challenge]] 
+
+
+
+
+5 Priesthood. [[#Priesthood]] 
+
+5. [[#Slavery]] 
+5. [[#Spiritual Guidance]] 
+5. [[#Soulcasting]] 
+5. [[#Devotaries]] 
+
+
+6 History. [[#History]] 
+
+6. [[#Origins and Old Vorinism]] 
+6.2 Hierocracy: Rise
+6.3 Hierocracy: Fall and Aftermath
+6. [[#Present and Future]] 
+
+
+7 Notable Members. [[#Notable Members]] 
+
+7. [[#The Ardentia]] 
+7. [[#Lay members]] 
+
+
+8 Trivia. [[#Trivia]] 
+9 Notes. [[#Notes]] 
+
+
+## Etymology
+Vorinism is named after an important figure in the history of the faith known for putting together the various tenets and writings of the faith into an organized religion.
 
 ## Beliefs
 ### The Almighty
 For more on The Almighty, see [[/wiki/Honor#Influence]].
 In Vorin religion, people believe in the [[Almighty\|Almighty]], the force of good and creator of mankind and the Dawnsingers, along with animals and plantlife and Roshar itself. The Almighty is held to be all-powerful, all-knowing, immortal, and all-benevolent. The glory of Almighty is such that anyone looking upon him would immediately burn to ash. As such, he is typically represented by the divine prism with ten facets, one for each of the Heralds. He is also represented with the Double Eye of the Almighty, which represents him and the world itself. These appear to be a manifestation of .
+Some people are known to conflate the Stormfather with the Almighty, though this is not universally accepted doctrine.
 The Almighty is believed to have ten holy names; including his tenth name, Elithanathile or *He who Transforms*; which is allowed only to be spoken by members of the Ardentia.
 It is believed that the Almighty exists within all people.
 Adherents of Vorinism believe that the Almighty is also responsible for sorting out the dead and deciding on their afterlife. To achieve the results one desires, one has to pick a Calling - a purpose in life - and a Glory, an aspect of the Almighty that one strives to emulate. It is believed these talents are granted to one by the Almighty himself. He is believed to accept the excellence of all men and women, regardless of what they do.
@@ -129,7 +142,7 @@ The Almighty is ultimately based on the Shard Honor. Some Ardents have tried to 
 The Heralds were believed to be forces of good which fought against the Voidbringers in one-hundred Desolations. After the hundredth Desolation, the Last Desolation or Aharietiam, they cast away the Voidbringers from Roshar forever. But they continue to fight against them in the Tranquiline Halls, in order to liberate the Halls from them.
 Each Herald is an emissary of the Almighty, wielding potent magical powers, as well as the ability to respond to prayers and patronage over a specific part of human experience. Vorinism typically places [[Jezrien\|Jezrien]] and [[Kalak\|Kalak]] as the highest among the Heralds, with others beneath them. Occasionally, either of them are conflated with the [[Stormfather\|Stormfather]], who in turn is commonly equated with the Almighty himself, although this depends on the particular Vorin country.
 
-### List of Heralds
+#### List of Heralds
 
 Jezerezeh'Elin
 Nalan'Elin
@@ -141,6 +154,16 @@ Battah'Elin
 Kelek'Elin
 Talenelat'Elin
 Ishi'Elin
+
+### The Voidbringers
+The [[Voidbringers\|Voidbringers]] are taught to be the polar opposite of the Almighty, forged in Damnation by the cosmere itself, to act as a balancing force of evil to his goodness. They are said to have cast humanity out of the Tranquiline Halls and to Roshar, and they tried to cast humanity even out of Roshar. They are claimed to still live in the Tranquiline Halls, where the Heralds lead the souls of the fallen against them in the War for Heaven. The Voidbringer incursions onto Roshar are known as the Desolations.
+They are taught to be beings of pure evil.
+Voidbringers appear not only in theology, but are also prevalent in folklore. Some folk tales teach of them as being mischievous beings who steal from the unlucky and punish the foolish; whilst others teach of them disguising themselves as wary travelers, and killing whoever takes them into their home. Vorinism, however, disagrees with this notion and asserts that the Voidbringers no longer exist on Roshar.
+They are said to be led by the [[Unmade\|Unmade]]. Who are able to watch humanity, and effect their lives. Therefore Vorin people have formed superstitions about what they believe brings the eyes of the Unmade upon them.
+
+### Dawnsingers
+The [[Dawnsingers\|Dawnsingers]] are an ancient race said to have been created by the Almighty and sent to Roshar has healers, to care for mankind after the Expulsion. They are thought of as a type of spren. Ardents reject the idea that the Dawnsingers created the Dawncities or the Veil, though such theories are popular amongst more lay members of the faith.
+It is taught that both glyphs and letters are from the Dawnsingers.
 
 ### Myths
 #### Creation Myth and the Expulsion
@@ -158,14 +181,15 @@ Alongside these three worlds, they also believe in the Cognitive Realm, though i
 #### Tranquiline Halls
 For more on the Vorin concept of the Tranquiline Halls, see [[Tranquiline Halls\|Tranquiline Halls]].
 A paradisiacal realm close to the Almighty, and the original homeland of humanity before their were cast out of it during the Expulsion. It is believed to be where virtuous humans return to after death, in order to assist in the efforts to expel the Voidbringers from the Tranquiline Halls and cast them back down to Damnation. Those that live a virtuous life but don't reach their potential in their Calling are brought to the Halls, but left in a long and dreamless sleep until the War for Heaven is won.
+Life in the Tranquline Halls, before the Expulsion, is thought to be without conflict.
 The Tranquiline Halls are often conflated with the [[Spiritual Realm\|Spiritual Realm]], and it is considered a realm of pure truth.
 
 #### Roshar
 For more on Roshar, see [[Roshar\|Roshar]].
 For more on the Physical Realm, see [[Physical Realm\|Physical Realm]].
-The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. It correlates with the [[Physical Realm\|Physical Realm]].
+The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. Life on Roshar is taught to be one of conflict. It correlates with the [[Physical Realm\|Physical Realm]].
 Roshar, and all of the plants and animals upon it, are seen as creations of the Almighty.
-The nature of Roshar is modeled and described through the Ten Essences.
+The nature of Roshar is modeled and described through the Ten Essences and Ten Surges.
 It is possible that they see the Cognitive Realm as another aspect of Roshar. They see it as more fluid than the Spiritual Realm, and believe that it can be visited.
 
 #### Damnation
@@ -175,7 +199,8 @@ A realm of eternal fire that is home to Voidbringers and the souls of the sinful
 ### Morality
 #### Good and Evil
 Good and Evil, within Vorin Theology, are said to be objective aspects that one possesses. With the Almighty being considered to only possess good, and the Voidbringers being considered to only possess evil. This possession of moral attributes shapes how they act and can act. But humanity has a dual-attribute, meaning they possess both good and evil, and thus can commit both good and evil deeds.
-To live a good life, Vorins are expected to emulate the Attributes of the Heralds and the Almighty.
+In Vorinism, it is believed that the cosmere requires balance. Good beings, such as the Almighty, must be balanced by their opposites, which is why the Voidbringers were created to do evil. Vorinism holds that only humanity, with their dual-nature, can add good to the world, raising the amount of good in the world past the amount of evil.
+To live a good life, Vorins are expected to emulate the Attributes of the Heralds and the Almighty. The Ten Human Failings appear to refer to shortcomings of mankind, these might be identical to or associated with the Ten Foolish Attributes.
 How sinful or virtuous one is can be measured by the Almighty and used to determine whether one goes to the Tranquiline Halls or to Damnation.
 
 #### Calling
@@ -245,6 +270,7 @@ In higher classes of [[Alethkar\|Alethkar]], much of the religious observation f
 
 ### Oathgates
 The original purpose of the [[Oathgate\|Oathgates]] has been lost to time, though they are still considered sacred. In the present day, it's believed that the eleven lamps stand for the ten [[Silver kingdoms\|Epoch Kingdoms]] and the [[Tranquiline Halls\|Tranquiline Halls]], while the huge keyhole is "the need for ardents to ignore borders, and look only at the hearts of men".
+Thaylen Vorinism describes the Oathgates as "portals of worlds", which only the Passionate could use.
 
 ### Scripture
 Vorin doctrine holds [[The Arguments\|The Arguments]] as their holy scripture, which acts as a basis of much of their mythology and moral framework. Other texts are held to be of deep religious and cultural importance as well, even if not described as a form of scripture, such as *[[Arts and Majesty\|Arts and Majesty]]*.
@@ -260,6 +286,7 @@ The Ten-Faced Crystal used to represent the Almighty
 The Ten Essences
 The Ten Heralds
 The Ten Fools
+The Ten Foolish Attributes
 The Ten Holy Names of the Almighty
 The Ten Silver Kingdoms
 The One-Hundred Desolations 
@@ -274,13 +301,19 @@ The ten Body Focuses
 The Ten Surges
 
 ## Branches and Varieties
-Vorinism is known to have at least three branches, the orthodox variety practiced by Alethkar, Jah Keved, and Kharbranth; and the more heterodox varieties practiced by adherents in Herdaz and New Natanatan. Vorinism has also been syncretized with other religions, such as in the Riran faith, which incorporates Vorin and Iriali teachings.
+Vorinism is known to have at least four branches, the orthodox variety practiced by Alethkar, Jah Keved, and Kharbranth; and the more heterodox varieties practiced by adherents in Herdaz, New Natanan, and Thaylenah. Vorinism has also been syncretized with other religions, such as in the Riran faith, which incorporates Vorin and Iriali teachings.
+While culturally and doctrinally diverse, the various denominations and branches have several core similarities, such as a belief in the Almighty and the Heralds.
 
 ### Herdazian Vorinism
 Herdazian Vorinism is a heterodox variety of Vorinism which varies from the more orthodox variety. Little is known about Herdazian Vorinism, except that their doctrine, contrary to the orthodox, permits male literacy.
 
 ### Natan Vorinism
 Vorinism practiced by the Natan people also varies from the orthodoxy. Alongside the Almighty and the Heralds, they also worship the moons, with [[Nomon\|Nomon]] as the most important. They believe that these moons are sentient and are able to take human form. A myth in their faith speaks of how their people were born when an ancient queen named [[Tsa\|Tsa]] had children with the anthropomorphization of Nomon, thus granting them their blue skin. Many Vorin people consider them to be "almost pagan," and question their true devotion.
+
+### Thaylen Vorinism
+Thaylen Vorinism is a heterodox form of Vorinism heavily mixed with various local beliefs, such as the [[Passions\|Passions]]. They are considered half-pagan by much of the Vorin world, and Thaylen ardents struggle to prove their piety to orthodox church authorities. Men are permitted to read, and most women use gloves to cover their safehand. Some younger women don't cover the safehand altogether, although this is frowned upon by the more traditional segment of the Thaylen society.
+Their branch of Vorinism is heavily mixed with the Passions. Which teaches that wanting something will draw it to you, conflating Passion with Action.
+They have their own ideas on what the Oathgates were, describing them as "portals of worlds", which only the Passionate could use.
 
 ## Culture
   Vorin woman, with covered safehand on display.
@@ -295,7 +328,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[73]
+\-Nale[85]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
@@ -320,7 +353,7 @@ They believe that the limitations put upon them, and their state of slavery to h
 ### Spiritual Guidance
 Ardents are forbidden from participating in politics or holding social offices. However, their word and opinions are still highly valued, and they hold authority in spiritual matters.
 Ardents are responsible for the spiritual well-beings of their masters, and often tend to various rites and rituals in their stead, so as to allow the [[Lighteyes\|lighteyes]] to go on with their lives unburdened. For the [[Darkeyes\|darkeyes]], ardents provide advice in pursuing their Calling, as well as education -- the Right to Learn means that any person who asks for it must be taught by the ardents. For this reason, most major temples have ardents specializing in most common skills, from fighting to writing. This also means that they are allowed to wield [[Shardblade\|Shardblades]], as they must be capable of teaching the lighteyes how to use them.
-They are the only people allowed to speak Almighty's tenth name, *Elithanathile*, or He Who Transforms. However, it seems that this isn't considered to be too important of a rule, as [[Navani Kholin\|Navani Kholin]], a devout Vorin, commonly uses it as an exclamation of shock or awe.
+They are the only people allowed to speak Almighty's tenth name, *Elithanathile*, or He Who Transforms.
 
 ### Soulcasting
 In [[Alethkar\|Alethkar]], ardents are the only people allowed to use [[Soulcaster\|Soulcasters]]. They surround the practice with mystery, carrying out Soulcasting at night and under heavy guard to prevent the general public from seeing. They are not, however, allowed to use Soulcasters on people. Those among the ardentia who use Soulcasters are often worked until they die of [[Savant\|savanthood]] as their bodies become more and more like the things they Soulcast.

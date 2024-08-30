@@ -51,6 +51,11 @@ He is often very brooding, and is not usually in the best of moods. He greatly d
 After the relocation to [[Urithiru\|Urithiru]] Vathah does not have much do to for a few weeks, and so he starts to take his job less seriously. He slouches and yawns while guarding Shallan because she doesn't seem to even want him there. Despite this, he does not think of Shallan as a bad employer. She has only done right by him, in his book. When in the middle of doing something for Shallan, he acts nicer and friendlier towards people. Vathah wants people to think him a ruthless person who only cares about getting the job done and getting paid, but he is not naturally that person. Vathah does not want any of his men to get into trouble again, and ensures that they don't do what they did before meeting Shallan, such as making sure that [[Gaz\|Gaz]] does not get in debt again. When learning how to do espionage from [[Ishnah\|Ishnah]] Vathah becomes very interested, and does not participate in the rest of the guards' friendly banter. He has a lot of enthusiasm for the training, and possesses quite a bit of natural talent. He takes things in stride when they are part of his job, or tries to seem like he does. If he gets surprised he doesn't let it slow him down.
 During the [[Siege of Kholinar\|siege of Kholinar]] he becomes a squire to Shallan. This is probably related to his skill in espionage, as that is a Lightweaver trait. He is the member of the [[Unseen Court\|Unseen Court]] that Shallan trusts the most.
 Vathah was part of the group that captured [[Ialai\|Ialai]] and the [[Sons of Honor\|Sons of Honor]] in the warcamps. He identified the poison used on Ialai as [[Blackbane\|Blackbane]]. He recounted a story about an officer in Sadeas' army that used it to commit suicide.
+
+>“*“I’ve seen someone die like that before, Brightness,” he explained. “Back in Sadeas’s army, an officer was smuggling and selling supplies. When he finally got found out, he poisoned himself rather than be taken.”*”
+\- Vathah[6]
+
+
 Vathah was selected by [[Shallan\|Shallan]] for the mission to [[Lasting Integrity\|Lasting Integrity]]. She suspected him as a spy for the [[Ghostbloods\|Ghostbloods]] but eventually ruled him out. This group sailed from Nohadon's Stairway to [[Nameless\|Nameless]], then caravanned to [[Lasting Integrity\|Lasting Integrity]].
 
 

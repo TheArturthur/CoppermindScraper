@@ -45,7 +45,6 @@ Cord is very brave and adventurous, and she likes proving to herself that she ca
 Cord is fluent in [[Veden\|Veden]] and is slowly learning [[Alethi\|Alethi]]. Like her father, Cord is capable of seeing all [[Spren\|spren]], even when they are not visible to others in the [[Physical Realm\|Physical Realm]]. The Unkalaki refer to those with her ability as alaii'iku; the [[Sleepless\|Sleepless]] refer to them as [[Sighted\|Sighted]]. Also like her father, Cord is noted as being a very capable cook. Cord is a [[Shardbearer\|Shardbearer]], but not in full, as she only possesses [[Shardplate\|Shardplate]]. She also currently possesses [[Highprince\|Highprince]] [[Meridas Amaram\|Meridas Amaram's]] [[Shardbow\|Shardbow]].
 
 ## History
- 
 ### Arrival at Urithiru (1174)
 Cord arrived at the [[Shattered Plains\|Shattered Plains]] with her family in Jes 1174 after traveling for months to meet with [[Lunamor\|Lunamor]], who sent them a message shortly after his arrival. Cord's caravan was attacked by [[Voidbringer\|Voidbringers]], and her family defended themselves behind a pile of furniture. During the attack, a member of her family shot a Voidbringer with an [[Unkalaki\|Unkalaki]] arrow. They were found by [[Bridge Four\|Bridge Four]] during a patrol and escorted to [[Urithiru\|Urithiru]]. After settling in in Urithiru, Cord helped her father serve food and drink to Bridge Four and began taking on some responsibilities regarding cooking for the group.
 

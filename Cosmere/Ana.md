@@ -25,6 +25,7 @@
 
 
 ## Attributes and Abilities
+  Da and Ana with baby Moash
 Ana and her husband [[Da\|Da]] were of the second [[Nahn\|nahn]], a high ranking in the caste systems of [[Darkeyes\|darkeyes]]. They ran their own silversmith shop in Kholinar, and were considered important among darkeyes. It is unclear if Ana was her given name or a nickname used by Moash.
 
 ## History

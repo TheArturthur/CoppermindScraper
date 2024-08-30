@@ -61,7 +61,7 @@ For the full list of endnote keteks, see [[The Stormlight Archive/Keteks\|/Ketek
 The titles of the five parts of each book form a [[Ketek\|ketek]] which is revealed with context in the endnote of every book. The abbreviations of the first five books also form a palindrome of five parts, being similar in structure to a ketek: (t)WoK - WoR - O - RoW - KoW(t).
 
 ## Cover Galleries
-*[[The Way of Kings/Covers\|The Way of Kings]]* · *[[Words of Radiance/Covers\|Words of Radiance]]* · (*[[Edgedancer (novella)/Covers\|Edgedancer]]*) · *[[Oathbringer/Covers\|Oathbringer]]* · (*[[Dawnshard (novella)/Covers\|Dawnshard]]*) · *[[Rhythm of War/Covers\|Rhythm of War]]*
+*[[The Way of Kings/Covers\|The Way of Kings]]* · *[[Words of Radiance/Covers\|Words of Radiance]]* · (*[[Edgedancer (novella)/Covers\|Edgedancer]]*) · *[[Oathbringer/Covers\|Oathbringer]]* · (*[[Dawnshard (novella)/Covers\|Dawnshard]]*) · *[[Rhythm of War/Covers\|Rhythm of War]]* · *[[Wind and Truth/Covers\|Wind and Truth]]*
 ## Publication
 
 US/Canadian rights (#1-4) with Tor

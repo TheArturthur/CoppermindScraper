@@ -26,7 +26,8 @@
 
 
 ## Appearance and Personality
-  In human formWhile in its human form, Nikli takes on the appearance of a [[Makabaki\|Makabaki]] man with white tattoos on its face and arms to cover the spaces between its hordelings.
+While in its human form, Nikli takes on the appearance of a [[Makabaki\|Makabaki]] man with white tattoos on its face and arms to cover the spaces between its hordelings.
+
 ## Attributes and Abilities
 Nikli is known among all the Sleepless swarms as being the most skilled at impersonating humans. It is one of the few Sleepless that has eye hordelings that are actually functional. This allows it to more realistically imitate humans than other Sleepless, who use prop eyes, since its sight lines actually line up with its eyes.
 
