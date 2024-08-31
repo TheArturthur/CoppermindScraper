@@ -59,8 +59,14 @@ Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 2. [[#Sex and Sexuality]] 
 
 
+2. [[#Gender]] 
 2. [[#Life After Death]] 
+2. [[#Aspects of Being]] 
+
+2. [[#The Body]] 
 2. [[#The Soul]] 
+
+
 2. [[#Belief in Symmetry]] 
 
 2. [[#Importance of Opposites]] 
@@ -234,16 +240,31 @@ Ardents are permitted to marry, but only within the ardentia.
 
 #### Sex and Sexuality
 As mentioned previously, premarital sex and adultery are frowned upon, alongside the institution of prostitution. Hand-holding, particularly with the safehand of a woman, is considered very intimate.
+Despite their strict adherence to gender roles, they are accepting of homosexual relationships, valuing them as equal to heterosexual relationships.
+
+### Gender
+They believe that men and women have specific stations in life, and must follow a strict set of gender norms.
+Ardents are considered effectively genderless from a social perspective, and thus they can engage in the norms of either recognized gender. Though they ultimately tend to be societally pushed to follow their assigned gender.
+It is unclear how essential they believe gender to be.
 
 ### Life After Death
 Those who grow to be the very best at their Calling are chosen to join the Heralds in the fight to regain the Tranquiline Halls when they die. Their particular afterlife differs depending on the Calling -- those who were the very best at farming become farmers for the Heralds, those who are the greatest at battle are chosen to fight beside the Heralds, etc. Depending on what your calling was in life, you would receive powers in the afterlife. A farmer would be able to cause whole fields of crops to grow with a single gesture, a spearman could create thunder with his shield and lightning from his spear.
 The Heraldic Forces were believed to be the army of the [[Herald\|Heralds]] that fought the [[Voidbringer\|Voidbringers]] for the [[Tranquiline Halls\|Tranquiline Halls]] in what was called the War for Heaven. It was said that the sound of a horn would call the Heraldic Forces to the field of battle. Joining the Heraldic forces was the considered to be highest Calling of men.
 Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation.
+What passes into the afterlife is said to be the mind, with the spirit returning to the divine essence from which it was formed. The mind, spirit, and body are taught to be the three aspects of a being, which are separated upon death.
 They appear to have some awareness of the Spiritual Realm, but conflate it with the afterlife.
 
-### The Soul
-Vorinism appears to teach about a single unified soul which passes into either the Tranquline Halls or Damnation after death, guided by a mythical horn. The soul is seen as the essence of a person or thing. It appears that the mind and soul are often differentiated, but are ultimately treated as a unified idea. Everything has a soul, even inanimate objects. It is believed that the soul can be corrupted by evil thoughts and deeds, and thus ardents exist to save and guide them, to protect people from Damnation.
+### Aspects of Being
+Vorinism teaches of a tripartite structure of the self. It is said to be made up of the body, mind, and spirit. The mind and spirit appear to be conflated and referred to as the soul.
+
+#### The Body
+The body is the vehicle through which the mind and spirit are able to interact with the physical world. It is said to be left behind after death, in order to be reused.
+The body appears to be animated by the soul, and can be impacted by damage to the soul.
+
+#### The Soul
+Vorinism appears to teach about a bipartite soul which passes into either the Tranquline Halls or Damnation after death, guided by a mythical horn. It is made up of the mind and spirit. The soul is seen as the essence of a person or thing. Everything has a soul, even inanimate objects. It is believed that the soul can be corrupted by evil thoughts and deeds, and thus ardents exist to save and guide them, to protect people from Damnation.
 The soul is the animating force of the body, and when severed by a Shardblade, one loses the ability to move their body past the point of severance. If certain points of the soul are severed, such as the neck, the body dies and the soul is released. However, they believe that Shardblades do not truly destroy the soul, even when it severs it, and thus those killed by Shardblades can still pass into the afterlife.
+The soul is apparently split into mind and spirit. The spirit is said to be made up of divine essence, and to rejoin this pool upon death; while mind goes to be judged by the Almighty, to pass into the Tranquiline Halls or Damnation. Their individual properties, or the manner in which these aspects interact, is not currently known. Though they are known to be able to exist separately from one another.
 The soul is what is believed to be what one improves and transforms through virtuous actions, and through following their Glory and Calling.
 When a prayer is burned, it is believed its soul is taken to the Almighty for him to hear and respond to.
 Vorinism teaches of something called the Soul's March, though little is known about what this describes.

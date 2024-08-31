@@ -38,7 +38,7 @@
 
 4. [[#Family]] 
 4. [[#Susebron]] 
-4. [[#Returned]] 
+4. [[#Lightsong]] 
 4. [[#Priests]] 
 
 
@@ -103,7 +103,7 @@ She is the daughter of King [[Dedelin\|Dedelin]] of Idris, and the wife of the G
 Siri's marriage was arranged by her father, who sent her, instead of Vivenna to fulfill the treaty. At first, Susebron was a stranger to her, this person who just sat there in the darkness at night. Eventually, Susebron approaches her, showing her a storybook. This is the start of their relationship in more than an official sense, as she teaches him how to read. They grow closer through Siri's lessons, and they start communicating through writing. They share parts of their cultures with each other, and Siri even comments that he knows her better than anyone back at home.They grow to truly love each other.  When Bluefingers and the Pahn Khal try to take over they are both captured, and Bluefingers intends to kill them. Thanks to [[Lightsong\|Lightsong]], Susebron manages to save her. When Siri and Vivenna reunite, Susebron talks with Vivenna, who remarks in her thoughts that she can tell just how much Susebron and Siri love and understand each other.
 
  
-### Returned
+### Lightsong
 Siri initially find's Lightsong's playful banter to be an insult, but quickly realizes that he means no harm and warms up to him after he helps her navigate the politics of the [[Court of Gods\|Court of Gods]]. She believes that he is a good man, albeit a strange one.
 
 ### Priests

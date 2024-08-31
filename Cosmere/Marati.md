@@ -2,6 +2,7 @@
 |-|-|
 ||
 |**Occupied by**|[[Singer\|Singers]]|
+|**Region**|[[Makabak\|Makabak]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

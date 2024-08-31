@@ -126,6 +126,7 @@ Though Moash's name is similar to [[Moshe Feder\|Moshe Feder]] (Brandon's editor
 Moash's eye color is initially (and erroneously) written as dark green in *The Way of Kings*. In *Words of Radiance*, his eyes are said to be brown. Peter Ahlstrom has confirmed that Moash's eyes are brown and that the first book is incorrect.
 The name Moash was originally a singer name.
 Had he not begun killing for Odium, Moash could have become a Windrunner of at least the Third Ideal.
+Initial concept art of Moash's black Bridge Four uniform included a Bridge Four patch that was distorted and upside down, however, it was deemed too dramatic even for Moash.
 
 
 https://coppermind.net/wiki/Moash
