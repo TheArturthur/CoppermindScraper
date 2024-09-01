@@ -26,6 +26,7 @@
 
 3. [[#Government]] 
 3. [[#Military]] 
+3. [[#Foreign Policy]] 
 
 
 4 Culture. [[#Culture]] 
@@ -74,6 +75,9 @@ Emul controls at least a few [[Soulcaster\|Soulcasters]].
 Emul does have a military, but they are not particularly skilled, and are considered to be less capable than Tukari soldiers, one potential reason the Emuli have been losing their war. At least some portion of the Emuli army is made up of men who are normally farmers instead of career soldiers.
 The Emuli view warfare in a unique way; they consider it crass to directly strike another warrior, preferring to do damage from a distance. Accordingly, the bow and arrow is the favored weapon of leaders, then spears, halberds, and finally swords, which are the typical weapons of regular soldiers. Highprince [[Aladar\|Aladar]] has begun advising the princedom on defensive tactics, which may help the army improve.
 Certain leaders of the Emuli army are involved in the command of the campaign when the [[Coalition of monarchs\|coalition of monarchs]] launches a mission to retake the Emuli homeland.
+
+### Foreign Policy
+There are rules and regulations about passing the border into Emul, and people who pass the border illegally are subject to legal punishment.
 
 ## Culture
 >“*Their legal system is very lenient toward foreigners. A man who is not of their nationality cannot own a home or shop, but when you visit, you are treated as a 'relative who has traveled from afar, to be shown all kindness and leniency.' A foreigner can take dinner at any residence he calls upon, assuming he is respectful and offers a gift of fruit. The people are most interested in exotic fruits. They worship Jezrien, though they don’t accept him as a figure from the Vorin religion. They name him the only god.*”

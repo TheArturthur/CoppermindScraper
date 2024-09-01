@@ -1,5 +1,6 @@
 |**Ten Essences**|
 |-|-|
+||
 |**Related to**|[[Soulcasting\|Soulcasting]], [[Vorinism\|Vorinism]], [[Essential Theology\|Essential Theology]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -24,7 +25,7 @@ The **Ten Essences** is the traditional [[Vorin\|Vorin]] term referring to the t
 Each Essence is connected to a particular [[Polestone\|gemstone]]. In order to [[Soulcast\|Soulcast]] (via [[Fabrial\|fabrial]]) an object into a new material, a Soulcaster must use the gemstone that corresponds to the new material's Essence.
 
 ## Vorinism
-Modern [[Vorin\|Vorin]] teachings consider the Ten Essences as the collection of the ten classical elements that make up and describe the world; they connect each Essence with a [[Herald\|Herald]] and that Herald's divine attributes, along with many other ideas and substances.
+Modern [[Vorin\|Vorin]] teachings consider the Ten Essences as the collection of the ten classical elements that make up and describe the world; they connect each Essence with a [[Herald\|Herald]] and that Herald's divine attributes, along with many other ideas and substances. There is an association between various forces and Essences, reflected in the Double Eye of the Almighty. The exact nature of these connections is currently unknown.
 Ancient Vorinism also correlated them with the Orders of Radiants, although these correlations were not completely accurate. Each [[Stances\|stance]] used in Vorin combat is associated with an Essence.
 
 ### Body Focus

@@ -37,6 +37,7 @@ Tukar is ruled by god-priest Tezim, who is actually the [[Herald\|Herald]] [[Ish
 4 Politics and Culture. [[#Politics and Culture]] 
 
 4. [[#Government and Religion]] 
+4. [[#Economy]] 
 4. [[#Military]] 
 4. [[#International relations]] 
 4. [[#Calendar]] 
@@ -91,10 +92,14 @@ Tukar is a theocracy, with their current spiritual and political leader, Tezim, 
 Unlike other Makabaki states, which consider [[Herald\|Heralds]] to be gods, the Tukari worship the [[Almighty\|Almighty]], much like the eastern nations. Tezim is likewise revered as a semi-divine figure, and considered an aspect of god. Other titles ascribed to him are "first and last man", "Herald of Heralds" and "bearer of the [[Oathpact\|Oathpact]]". In reality, Tezim is the half-mad Herald [[Ishar\|Ishar]]. Though the average Tukari likely do not know of his true identity, there are numerous rumors concerning him outside of the country.
 It is unknown why the Tukari accepted him as their God-King so quickly, and why they accepted a foreigner into that position, but there is a reason that they did so.
 
+### Economy
+It is a major nation in regards to access to the Southern Sea, giving it major economic and military advantages over other nations.
+
 ### Military
 The Tukari are highly militaristic. Tukar itself has numerous [[Soulcaster\|Soulcasters]], which it has put to good use in Eighty's War. It is not known if they have any [[Shardblade\|Shardblades]] or [[Shardplate\|Shardplate]], though their military is considered highly capable.
 The Tukari Soldiers in Tezim’s army don’t wear proper uniforms, they are seen wearing hogshide battle leathers with hardened cuirasses painted a dark blue. Most of them are armed with spears, though some of them have steel swords.
 The Tukari Military is highly mobile with [[Ishar\|Ishar]] being able summon [[Perpendicularity\|perpendicularities]], enabling him and his armies to enter and exit [[Shadesmar\|Shadesmar]].
+Their access to the Southern Sea grants them a major military advantage over other nations.
 
 ### International relations
 >“*I'd rather have the Emuli anyway. Their soldiers might be less capable, but they’re also… well, **not crazy**.*”

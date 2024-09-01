@@ -16,8 +16,9 @@ The **Dawnchant** was the language of the original inhabitants of Roshar, the [[
 
 1 History. [[#History]] 
 2 Known Texts. [[#Known Texts]] 
-3 Vocabulary. [[#Vocabulary]] 
-4 Notes. [[#Notes]] 
+3 Grammar. [[#Grammar]] 
+4 Vocabulary. [[#Vocabulary]] 
+5 Notes. [[#Notes]] 
 
 
 ## History
@@ -45,19 +46,26 @@ One of the oldest documents in written history, the Eila Stele was written by th
 \-Eila Stele[9]
 
 
+## Grammar
+The grammar of the Dawnchant is currently largely unknown. However, various aspects of the language can be interpreted from the currently known linguistic corpus.
+
+It makes use of suffixes.
+It does not appear to mark the plural form of nouns.
 ## Vocabulary
 *anak* - Meaning unknown
 *del* - Meaning unknown
+*fannahn* - Altered, Alteration
 *habin* - Meaning unknown
 *-im* - A person that does an action indicated by or associated with the root
 *kaf* - Meaning unknown
-*makay* - Deep, Deepest
+*makay* - Deepest, Depths
 *makian* - Meaning unknown
 *malah* - Meaning unknown
 *mavset* - Mask, Masked
 *nex* - Husk, Husked
 *shanay* - Heaven, Heavenly
 *shetel* - Flow, Flowing
+*Ur* - Original
 *yah* - Meaning unknown
 
 

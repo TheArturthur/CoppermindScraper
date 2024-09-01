@@ -96,6 +96,7 @@ Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]
 
 ### Foreign Policy and International Relationships
 There is a large amount of immigration into Tashikk from around Roshar. They are known to deal with immigration in a systemized, governmental manner, with a position known as the "deputy scribe of immigration." This is not an individual, but multiple people whose duty alternates daily. [[Nissiqqan\|Nissiqqan]] is one such scribe.
+Instead of sending their leader for discussions on forming a coalition with other nations, they send an ambassador as his representative.
 
 #### Alm
 They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].

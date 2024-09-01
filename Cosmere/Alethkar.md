@@ -338,7 +338,7 @@ After the Last Desolation, Desolations ceased to ravage the nation. Due to this,
 #### After Aharietiam
 At some point before the [[Hierocracy\|Hierocracy]], and likely before the [[Recreance\|Recreance]], the ancestors of the [[Oldblood\|Oldbloods]] acted as the monarchs of what would become Alethkar. Little is known about them, but they are known to have been a dynasty, implying that they had ruled for a long time. It is not known how, when, or why, but they eventually lost their authority, but it would be remembered by their descendants for many generations.
 Many Alethi rulers, be they highprinces or kings, ravaged the rest of Roshar with their armies during this period. This was possible, in part, due to their wealth of emerald soulcasters, preventing the need for long supply lines. During this time, scholars were more like gurus, sitting in shrines and pontificating the nature of storms and the souls of men. At some point following Aharietiam, the kingdom splintered apart into many different smaller nations, and would not reunify for centuries following the splintering.
-They are said to have invaded [[Azir\|Azir]], under the [[Ulutu Dynasty\|Ulutu Dynasty]], at least five times during this period; with legends stating that they attempted to climb the mountains to gather gemstones and weapons from the sun itself, which bleached their eyes and left them defeated by its majesty. This tale is a complex mixture of truth and legend, that historians struggle to untangle.
+They are said to have invaded [[Azir\|Azir]], under the [[Ulutu Dynasty\|Ulutu Dynasty]], at least five times during this period; with legends stating that they attempted to climb the mountains to gather gemstones and weapons from the sun itself, which bleached their eyes and left them defeated by its majesty. This tale is a complex mixture of truth and legend, that historians struggle to untangle. Throughout the Era of Solitude the Alethi would sometimes war with the Reshi. These wars were in part because of the fertile fishing in the north, causing the sea there to be coveted by both parties.
 
 ### The Hierocracy and Sadees the Sunmaker (??? - c.673)
 #### The Hierocracy
@@ -471,7 +471,7 @@ The Alethi forces in Alethkar proper spent their time reconquering the nation, a
 At the Coalition’s behest, Highprince Aladar and some of his scribes helped to advise the Emuli on fortifying their remaining lands to ensure no further loss of territory. The following year had the war effort in Emul reach a stand still with multiple skirmishes and attacks by the [[Skybreakers\|Skybreakers]] against coalition forces. The position of the coalition later changed in 1175, when it was agreed unanimously to push into and defeat the singer forces in Emul. Many of the Coalition forces during this campaign were made up of Alethi, and the Queen, along with a single highprince, resided in Emul as well. Dalinar Kholin and Jasnah Kholin also chose a new Sadeas highprince during this time. Queen Jasnah participated in the war planning sessions, to the frustration of Highprince [[Ruthar\|Ruthar]]. At one particular session Ruthar snapped, insulting the Queen and challenging the [[Hoid\|Queen’s Wit]] to a trial by sword. The Wit appointed Jasnah as his champion, and after she defeated Ruthar, the highprince was stripped of all titles and lands, and his oldest son was made highprince. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar. The push into Emul was ultimately successful.
 
 >“*I’ve come by order of the Bondsmith, my father, to visit your lands and deliver a message on his behalf. I bring with me Knights Radiant of four different orders, all of whom work in concert against the rising Everstorm. Proof that men and spren once again need their bonds of old.*”
-\-Adolin's offer of alliance to the honorspren[141]
+\-Adolin's offer of alliance to the honorspren[142]
 
 Meanwhile, the Coalition, stunted by the lack of willing [[Honorspren\|honorspren]], sent a delegation to [[Lasting Integrity\|Lasting Integrity]], the honorspren capital. This delegation was made up of the new highprince Adolin Kholin, his wife and a number of Knight’s radiant. Their original plan, made by Queen Jasnah, was to present the honorspren with gifts, and give them written requests to begin relations again. Once arrived however, the honorspren of Lasting Integrity made it clear that they wanted nothing to do with the Coalition, destroying their correspondence and refusing to engage Kholin’s pleas and arguments. With all of his other plans having failed, Adolin surrendered himself into the custody of the honorspren, after giving them the opportunity to trial him for the [[Recreance\|Recreance]]. The Honorspren put Kholin on trial, and after a hard-fought and rocky trial, Kholin won after his Shardblade spren [[Mayalaran\|Mayalaran]] revealed the truth about the [[Recreance\|Recreance]].
 
@@ -481,7 +481,7 @@ After the liberation of Urithiru, [[Odium\|Odium]] appeared to Dalinar. He wishe
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[144]
+\-Lopen[145]
 
 
 ### People
@@ -574,7 +574,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[218]
+\-Shallan[219]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -638,7 +638,7 @@ A judge is present to moderate duels, and they have some special authority. Duel
 
 ## Politics
 >“*Dalinar had been around Alethi politicians so much that he found honesty an obscure thing, like a language he no longer spoke.*”
-\-Dalinar[66]
+\-Dalinar[67]
 
 
 ### Monarch
@@ -677,7 +677,7 @@ It is legal for a Highprince to murder a Wit, though doing so would lead to them
   Alethi Princedoms
 Though it is ruled by a single king, Alethkar is divided into ten princedoms, or highprincedoms as they are sometimes called, each ruled by a [[Lighteyes\|lighteyed]] [[Highprince\|highprince]]. Each princedom is named after the family controlling it, and each has its own military, independent of one another - a remnant of the times prior to the reunification. While the highprinces do work together, the king has limited control over them, maintained less through tradition, and more through sheer military power and access to amenities like [[Soulcaster\|Soulcasters]], which are heavily taxed. In addition, the ruling [[House Kholin\|House Kholin]] controls the largest territory, as apart from their own princedom, they also hold an underpopulated stretch of land called the [[Eastern Crownlands\|Eastern Crownlands]].
 Borders between Princedoms were largely, but not exclusively, defined by natural borders created by the Windrunner and Deathbend rivers, the Sunmaker mountains, and the Sea of Spears.
-It is unclear what princedom [[Akak\|Akak]] is a part of.
+It is unclear what princedom [[Akak\|Akak]] is a part of. At some points in history, the Alethi viewed [[Herdaz\|Herdaz]] as an Alethi province.
 
 #### Highprinces
 A highprince is the ruler of one of the ten princedoms that make up Alethkar. They essentially function as the leaders of sovereign nations, rather than simply as heads of administrative districts. At their ascension to highprince, each man must swear an oath to protect the people of Alethkar. After the invasion and occupation of Alethkar by the Voidbringers, Dalinar Kholin gifted the highprinces a tenth of Urithiru each, to rule as they wish.
@@ -793,7 +793,7 @@ Atheism is uncommon but not unheard of, with a small population of individuals c
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[181]
+\-Taravangian[182]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
@@ -924,7 +924,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food making soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficult to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[235]
+\-Highmarshal Halad[236]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Most warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
