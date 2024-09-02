@@ -5,7 +5,7 @@
 ||
 |**Died**|1175, killed by [[Taravangian\|Taravangian]] using [[Nightblood\|Nightblood]]|
 |**Abilities**|[[Shard\|Shard]] of [[Odium\|Odium]]|
-|**Titles**|[[Odium\|Odium]], King of gods, God|
+|**Titles**|[[Odium\|Odium]], King of gods, God Great God|
 |**Aliases**|Nun Raylisi, Rasan|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -14,7 +14,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I know pain. I am the only god who does. The only one who cares.*”
-\-Rayse[6]
+\-Rayse[7]
 
 
 **Rayse** was the first Vessel of the Shard [[Odium\|Odium]]. After Ascending, he went on a series of killings of various Shards in an attempt to become the sole god of the cosmere. He was bound to the Rosharan System for around seven-thousand-seven-hundred standard years. He died at some point during Vev 1175, slain by [[Taravangian\|Taravangian]] with [[Nightblood\|Nightblood]].
@@ -58,7 +58,7 @@ When [[Dalinar\|Dalinar]] claims to have seen Odium, Rayse shows him an enormous
 
 ### Personality
 >“*Rayse... was among the most loathsome, crafty, and dangerous individuals I had ever met.*”
-\-Hoid[14]
+\-Hoid[15]
 
 
 #### Mortal
@@ -86,7 +86,7 @@ If it means achieving his goals, he would attempt something even if he doesn't f
 He presents himself as a regal king, donning a golden crown and staff, reflective of his desires and how he views himself. He even uses his regal staff when presenting himself to the Singers, likely as a display of authority.
 
 >“*No. No, we killed you. WE KILLED YOU !*”
-\-Odium upon seeing Honor's Perpendicularity[21]
+\-Odium upon seeing Honor's Perpendicularity[22]
 
 As a Vessel of a Shard of Adonalsium, and a deeply arrogant man, Rayse fears very little. But one thing he does fear is [[Szeth\|Szeth]] and [[Nightblood\|Nightblood]], for Nightblood is one of the only things that could truly kill him. He also came to fear Dalinar when he opened the Perpendicularity. He also fears Harmony, both due to his power and the concept he represents. Lastly, he fears the concept of losing himself, particularly by taking up other Shards and having his mind and self warped by them, thus he attempts to Splinter Shards rather than absorbing them into himself.
 When truly terrified, such as upon Dalinar opening the Perpendicularity, he tends to completely lose his composure and begin screaming violently. Ordering his followers to dispatch of the threat in a panic, even if they likely couldn't stop it.
@@ -109,7 +109,7 @@ He was working with [[Autonomy\|Autonomy]] to an unclear extent. Had he not been
   Dalinar facing off with Rayse
 ### Dalinar
 >“*Don't blame yourself. I made you kill her, Dalinar. I caused all of this. Do you remember?*”
-\-Rayse to Dalinar[20]
+\-Rayse to Dalinar[21]
 
 
 Rayse has been grooming [[Dalinar\|Dalinar]] to be his champion from a young age. During the war of [[Alethi\|Alethi]] unification, Odium provided him with the [[Thrill\|Thrill]], and he claims to be the influence behind Dalinar's most gruesome atrocities, including the burning of the [[Rift\|Rift]]. His goal is to make Dalinar feel such overwhelming guilt that he would give Rayse his pain, willingly joining his cause. When [[Cultivation\|Cultivation]] wiped Dalinar's memories, Rayse's plan became to return them all to Dalinar at once, for the greatest possible impact.
@@ -138,7 +138,7 @@ Taravangian himself hates Rayse, enough so that he was led to murder the Vessel.
 
 ### Tanavast
 >“*Tell me you've never found yourself in conflict with someone you respect. Tell me you’ve never killed a man because you had to, even if—in a better world—he shouldn’t deserve it?*”
-\-Rayse on killing Tanavast[13]
+\-Rayse on killing Tanavast[14]
 
 
 The relation between Rayse and [[Tanavast\|Tanavast]] is difficult to determine, moreso for the fact that Rayse is the only source of information on it. On one hand, Rayse claims to sincerely respect him as a person, and claims that in a better world, Tanavast needn't have died. On the other hand, he also claims that Tanavast was heartless, caring for bonds and oaths more than the people behind them. Tanavast's opinion of Rayse is unknown, but he was clearly wary, as he deliberately constructed their confrontation in a way that would allow him to bind Rayse to [[Braize\|Braize]].

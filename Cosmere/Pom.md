@@ -116,13 +116,13 @@ She has met [[Hoid\|Hoid]], and knows him well enough to be able to recognize hi
 
 
 In [[Vorinism\|Vorinism]], Shalash is known as **Shalash'Elin**, the Herald of Beauty, though the nickname Ash is also used. Tradition associates her with the number 6 (shash), the [[Ten Essences\|Essence]] of Blood, and the divine attributes of Creative and Honest. Like all other Heralds, she has temples to herself in all major cities. There are numerous pieces of artwork devoted to her, and depictions of her can be found decorating even utilitarian items like braziers.
-"Ash's eyes" and "Ash's mask" are extremely common phrases, often used to express shock or surprise. "Scholarship temperament" is an idiom with uncertain meaning, though it may refer to being honest or impulsive. The name [[Shallan\|Shallan]] is derived from Shalash. "Ash's brush of endless paint" is a phrase likely said by artists when they see something beautiful and astonishing.
+"Ash's eyes" and "Ash's mask" are extremely common phrases, often used to express shock or surprise. "Shalashian temperament" is an idiom with uncertain meaning, though it may refer to being honest or impulsive. The name [[Shallan\|Shallan]] is derived from Shalash. "Ash's brush of endless paint" is a phrase likely said by artists when they see something beautiful and astonishing.
 Further west, in [[Emul\|Emul]] and, likely, other [[Makabak\|Makabaki]] countries, Shalash is known as **Epan** and titled the **Lady of Dreams**. In [[Shinovar\|Shinovar]], she is called **Shush-daughter-God**.
 
 ## Trivia
   Ash's chapter icon
   Shalash's <<Glyph\|glyph>>
-Shalash will be the flashback character in the seventh book of the Stormlight Archive.
+Shalash will be the flashback character in the eighth book of the Stormlight Archive.
 She's one of only three Heralds, alongside [[Kalak\|Kalak]] and [[Pailiah\|Pailiah]], whose names are naturally symmetric under [[Vorin\|Vorin]] rules. 
 "Shalash" bears a certain resemblance to [[Aon\|Aons]] Shao (Transformation), Ala (Beauty), and Ashe (Light). While this isn't coincidental, Shalash herself may be unaware of the linguistics of her name.
 Her name and [[Shashara\|Shashara's]] are similar, but this isn't significant.

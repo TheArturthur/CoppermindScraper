@@ -13,7 +13,8 @@
 \-Collected on Palaheses 1172, 15 seconds pre-death. Subject was a darkeyed youth of unknown origin.[1]
 
 
-The **True Desolation** follows the [[Era of Solitude\|Era of Solitude]] on [[Roshar\|Roshar]]. [[Odium\|Odium]] and his servants wage war against the rest of Roshar, hoping to eventually allow the [[Shard\|Shard]] to break free of the ties bonding him to the [[Rosharan system\|Rosharan system]]. The term **[[Night of Sorrows\|Night of Sorrows]]** is often used as an apparent synonym for the True Desolation, although there may be some nuance between the two terms.
+The **True Desolation** is a global conflict on Roshar between two major factions, the humans and the [[Singers\|Singers]]. Nearly all of the world's countries participated in some capacity. [[Odium\|Odium]] and his servants wage war against the rest of Roshar, hoping to eventually allow the [[Shard\|Shard]] to break free of the ties bonding him to the [[Rosharan system\|Rosharan system]]. The term **[[Night of Sorrows\|Night of Sorrows]]** is often used as an apparent synonym for the True Desolation, although there may be some nuance between the two terms.
+The causes of the True Desolation are complex and rooted in events that occurred many millennia before the conflict. Such as long standing racial and ethnic tensions between humans and the Fused rooted in the human colonization of Roshar, and the sealing away of Odium in the Rosharan system to halt his crusade against the [[Shard\|Shards of Adonalsium]].
 
 ## Contents
 
@@ -24,12 +25,19 @@ The **True Desolation** follows the [[Era of Solitude\|Era of Solitude]] on [[Ro
 
 
 3 Forging the Coalition. [[#Forging the Coalition]] 
-4 Trivia. [[#Trivia]] 
-5 Notes. [[#Notes]] 
+4 Battle of Thaylen Field. [[#Battle of Thaylen Field]] 
+
+4. [[#Lead-up 2]] 
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
 ## Lead-up
-After the [[Last Desolation\|Last Desolation]], nine of the ten [[Herald\|Heralds]] could no longer bear to return to [[Braize\|Braize]] to be tortured by the [[Fused\|Fused]], and instead gave up the [[Oathpact\|Oathpact]]. One Herald, [[Talenel\|Talenel]], had been killed in the final battle and had automatically returned to Braize; with him there, the Oathpact remained intact and the Fused were sealed away. They also left behind the [[Knights Radiant\|Knights Radiant]] to continue to protect the people of Roshar.
+The causes of the True Desolation can be traced back to Odiums crusade across the cosmere, attempting to kill every Vessel he could in order to become the sole god of the cosmere. Eventually, in his attempt to kill Honor and Cultivation, he settled on Ashyn, wherein he convinced humanity to experiment with the Dawnshard and Surges, leading to the destruction of the planet. Due to the destruction of Ashyn, mankind fled to Roshar, where they were accepted by the native Singers and given the land that would come to be [[Shinovar\|Shinovar]] as their territory. Within a generation, mankind became dissatisfied with what territory they were given, and violently expanded and colonized Roshar, bringing about the First Desolation.
+At some point during the First Desolation, Odium sided with the Singers as Honor and Cultivation came to side with humanity. Furthermore, Odium was sealed away in the Rosharan System by Honor. Furthermore, Honor chose the Heralds and granted them great strength, while Odium turned a large population of Singers into the Fused. Eventually, humanity won and sealed the Fused away on [[Braize\|Braize]], along with themselves as part of the spell sealing them upon the planet. Whenever a Herald broke from the torture, the Fused would rush back to Roshar, starting another Desolation. This happened several times over the seven-thousand year history of humanity's existence on Roshar.
+After the [[Last Desolation\|Last Desolation]], nine of the ten Heralds could no longer bear to return to Braize to be tortured by the [[Fused\|Fused]], and instead gave up the [[Oathpact\|Oathpact]]. One Herald, [[Talenel\|Talenel]], had been killed in the final battle and had automatically returned to Braize; with him there, the Oathpact remained intact and the Fused were sealed away. They also left behind the [[Knights Radiant\|Knights Radiant]] to continue to protect the people of Roshar.
 Around the time of the [[False Desolation\|False Desolation]], the newest generation of Radiants learned that humans were not native to Roshar and had essentially been taking the [[Singer\|singers']] land for millennia. Around this time, something—possibly [[Melishi\|Melishi]] trapping the [[Unmade\|Unmade]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]—caused the singers to be stripped of their [[Connection\|Connection]] and [[Identity\|Identity]], leaving them mostly unable to act for themselves. [[Honor\|Honor]] did not support the Radiants through these events, instead raving about how they would destroy Roshar. As a result, all of the Knights Radiant except the [[Order of Skybreakers\|Order of Skybreakers]] broke their [[Immortal Words\|oaths]], killing their [[Spren\|spren]] in an event known as the [[Recreance\|Recreance]]. Some time after this, Odium finally [[Splinter\|Splintered]] Honor, though not before Honor was able to make some arrangements to guide the people of Roshar through the coming fight with Odium.
 
 >“*Unite them. The sun approaches the horizon. The Everstorm comes. The True Desolation. The Night of Sorrows.*”
@@ -57,6 +65,15 @@ Following the Battle of Narak and the human occupation of Urithiru, some time in
 The first leader Dalinar and his scribes reached out to was [[Yanagawn\|Yanagawn]] of Azir, however, they rebuked his advances due to a distrust of him and Alethkar as a whole. They completely broke off communications after he became desperate and begun to speak to them more forcefully. This distrust was ultimately sourced in the genocide perpetrated against the Azish people by Sadees the Sunmaker, and by Dalinar's own history of brutality and conquest.
 Following their failure to ally with the Makabaki, they reached out to [[Fen Rnamdi\|Fen Rnamdi]] of Thaylenah. However, she too distrusted the Alethi, with her flatly refusing to meet with that at Urithiru, or allow them to send troops to [[Thaylen City\|Thaylen City]] to help repair it after the destruction wrought by the Everstorm. He tried to convince her several times, but each time was met with rejection.
 They also contacted [[Yezier\|Yezier]] and [[Tashikk\|Tashikk]], but were rejected by them as well; however, [[Taravangian\|Taravangian]] accepted his invitation and informed Dalinar that he would be arriving with one of his radiants via the Oathgate in Jah Keved.
+
+
+## Battle of Thaylen Field
+For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+### Lead-up
+Leading up to the Battle of Thaylen Field, the Fused occupied Marat, cutting through and conquering Emul on the way. They wished to use Marat's access to the Southern Depths to give them a military advantage against various coastal nations, such as Thaylenah, along with giving them an easy avenue of attack towards Jah Keved.
+Shortly before the confrontation, [[Taravangian\|Taravangian]], who was working for Odium, manipulated the government in order to motivate them to send off a large portion of the city's defense force, greatly reducing their military prowess and defensive capabilities. This left them reliant upon military aide from the Alethi in order to protect themselves from the naval attack by the Fused offensive.
+Thousands of Singers arrived at Thaylenah masked by the Everstorm, which was spawned by Odium. This allowed them to catch the human defenders off guard. At the same time, ten-thousand Singers gathered around the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]] in [[Shadesmar\|Shadesmar]], using the passing of the Everstorm to pass into the Physical Realm. [[Nergaoul\|Nergaoul]] also gathered at Thaylenah.
+
 
 
 ## Trivia

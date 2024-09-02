@@ -1,6 +1,7 @@
 |**Greater Hexi**|
 |-|-|
 ||
+|**Region**|[[Makabak\|Makabak]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -18,7 +19,7 @@
 ## Geography
 Greater Hexi lies in the south-central part of the [[Roshar\|Rosharan]] continent, between the [[Tarat Sea\|Tarat Sea]] and the mountains where [[Urithiru\|Urithiru]] is located. It shares borders with [[Marat\|Marat]] and [[Tu Fallia\|Tu Fallia]] to its south-west and north-east respectively, though there are no apparent geographical features that dictate those borders. The island on the Tarat Sea that lies just off the coast can be assumed to also belong to Greater Hexi.
 The country has few geographical features, being composed mostly of desolate, windswept flatlands. They are largely devoid of [[Rockbud\|rockbuds]], but rather covered in small gashes, about one to three inches deep, giving it an appearance of wrinkles or ripples. Those "wrinkles" are covered with lichen on the stormward side, and flattened grass on the opposite one. Trees are sparse and scrawny, bending leeward so far as to nearly touch the ground. The mountaintops are similarly bare, scoured raw by the [[Highstorm\|highstorms]].
-The only known settlement in Greater Hexi is [[Lexili\|Lexili]], near the border of Marat. Another notable location is the [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]], in the mountains that form the country's north-western border.
+Due to their nomadic nature, there are very few settlements in Hexi, and one can walk for days without finding a settlement. The only known settlement in Greater Hexi is [[Lexili\|Lexili]], near the border of Marat. Another notable location is the [[Valley\|Valley]] of the [[Nightwatcher\|Nightwatcher]], in the mountains that form the country's north-western border.
 It has an area around 454,000 km.
 
 ## Politics and Culture
@@ -28,6 +29,7 @@ The Hexi religion involves the keeping of sacred animals, and priests take oaths
 At this time, it is unknown if there is a "Lesser Hexi", or some equivalent. However, the state is usually referred to as simply "Hexi", making the existence of other Hexis unlikely.
 
 ## History
+Greater Hexi was a part of the Silver Kingdom of Makabakam during the Heraldic Epochs.
 In the year 1168, [[Dalinar\|Dalinar]] takes a small contingent of soldiers into Hexi when he visits the [[Nightwatcher\|Nightwatcher]]. They travel with a caravan until they're close to the [[Valley\|Valley]].
 
 ## Trivia
