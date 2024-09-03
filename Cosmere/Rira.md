@@ -1,8 +1,8 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-El nombre Rira tiene varios significados dentro del [[Cosmere\|Cosmere]].
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+The name Rira has multiple meanings in the [[Cosmere\|cosmere]].
 
-[[Rira (personaje)\|Rira]] era el nombre de un señor de los barrios bajos en [[Nalthis\|Nalthis]].
-[[Rira (pa%C3%ADs)\|Rira]] fue una nación en [[Roshar\|Roshar]] durante la [[Era de la Soledad\|Era de la Soledad]].
+[[Rira (character)\|Rira]] was the name of a slumlord on [[Nalthis\|Nalthis]].
+[[Rira (country)\|Rira]] was a nation on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
 
-https://es.coppermind.net/wiki/Rira
+https://coppermind.net/wiki/Rira

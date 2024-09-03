@@ -9,7 +9,7 @@
 \-The Words of Founding[1]
 
 
-**Adonalsium**, sometimes called just **Ado**, is a mysterious being or force in the [[Cosmere\|cosmere]] from which all [[Investiture\|Investiture]] is derived. It is unknown whether the term Adonalsium is a name or title. Adonalsium is generally regarded as a God, responsible for the creation of the cosmere, and it is sometimes referred to as the "power of creation." In a pivotal moment in the history of the cosmere, an event known as the [[Shattering\|Shattering]], a group of individuals conspired against and killed Adonalsium. Upon its death the power was broken into sixteen [[Shards\|Shards]], each of which was seized by an individual present. These Shards each bear an aspect of Adonalsium's nature.
+**Adonalsium**, sometimes called just **Ado** or **God**, is a mysterious being or force in the [[Cosmere\|cosmere]] from which all [[Investiture\|Investiture]] is derived. It is unknown whether the term Adonalsium is a name or title. Adonalsium is generally regarded as a God, responsible for the creation of the cosmere, and it is sometimes referred to as the "power of creation." In a pivotal moment in the history of the cosmere, an event known as the [[Shattering\|Shattering]], a group of individuals conspired against and killed Adonalsium. Upon its death the power was broken into sixteen [[Shards\|Shards]], each of which was seized by an individual present. These Shards each bear an aspect of Adonalsium's nature.
 
 ## Contents
 
@@ -21,8 +21,9 @@
 2. [[#Legacy]] 
 
 
-3 Trivia. [[#Trivia]] 
-4 Notes. [[#Notes]] 
+3 Culture. [[#Culture]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Nature
@@ -60,13 +61,17 @@ The weapon intended to kill Adonalsium no longer exists in its original form, ha
 The Shattering was accomplished through the use of the four [[Dawnshard\|Dawnshards]], a process which required both [[Intention\|Intent]] and [[Command\|Command]].
 
 ### Legacy
-The Shattering occurred roughly 10,000 years before the [[True Desolation\|True Desolation]]. In the centuries that followed, the Shards settled on other worlds and began using their new power to shape the cosmere. New magic systems were developed, and manifestations of Investiture which previously existed were changed in small ways. Adonalsium's name was eventually forgotten in much of the cosmere, though [[Worldhopper\|worldhoppers]] remember at least some of its history and [[Shalash\|Shalash]] appears to revere it still as divinity.
+The Shattering occurred roughly 10,000 years before the [[True Desolation\|True Desolation]]. In the centuries that followed, the Shards settled on other worlds and began using their new power to shape the cosmere. New Invested Arts were developed, and manifestations of Investiture which previously existed were changed in small ways. Adonalsium's name was eventually forgotten in much of the cosmere, though [[Worldhopper\|worldhoppers]] remember at least some of its history and [[Shalash\|Shalash]] appears to revere it still as divinity.
 
 >“*Adonalsium... Have you ever heard the term, Dalinar?*”
 \-Hoid questioning Dalinar[63]
 
 With access to future sight, Adonalsium may have actually anticipated the Shattering. While it apparently took no successful measures to prevent the attack, it may have laid certain plans in place which are still in effect. It is also possible that a [[Cognitive shadow\|cognitive shadow]] of Adonalsium was left in its place following the Shattering.
 Scholars disagree as to whether Adonalsium could be reformed by reuniting the sixteen Shards of its power. Though some theorize this may be possible, others argue that it would not restore that which was "killed." Some think that uniting all sixteen Shards would prove impossible, or that any being attempting to do so would be destroyed. Regardless of the possibility, some believe that this should not be attempted for one reason or another.
+
+## Culture
+Adonalsium is worshiped by the people of [[Canticle\|Canticle]]. They believe in its death during the Shattering, but believe that it has plans for the entire cosmere and that everything works in accordance with those plans, and that they could still pray to it for events to happen as they desire. They believe that it blesses people upon death and grants them with heat. They interpret it as a masculine figure.
+The people of [[Dhatri\|Dhatri]] know of Adonalsium, but do not worship it. They believe that the Aethers predate it and exist outside of its power. Much like the people of Canticle, they conceptualize Adonalsium as a masculine figure.
 
 ## Trivia
 Events on Yolen, including the Shattering of Adonalsium, will be addressed in the [[Dragonsteel (series)\|Dragonsteel series]]. *Dragonsteel* is currently planned as a trilogy to be written after [[The Stormlight Archive\|The Stormlight Archive]] is complete.

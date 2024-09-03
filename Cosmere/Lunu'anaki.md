@@ -137,6 +137,8 @@ He feels that art and aesthetic beauty is not some eternal idea outside of human
 He believes that all great art is necessarily hated by some due to the variety in human tastes. To make it so nobody would hate a work of art, one must remove everything that makes it special, therefore making it so that it is loved by nobody. Being hated is not proof that art is great, but not being hated is proof that it is not. He believes that art is about emotion, examination and going places people have never gone before to discover and investigate new things; it is from this definition of art, and his recognition of the subjective nature of aesthetic taste, that he argues that all great art is necessarily hated by somebody. When questioning himself on how many people need to love a work of art to outweigh the hate it inevitably inspires, and balance out the risk. Thus, if even one person loves a work, no matter how many people hate it, it is worthwhile.
 He believes that stories don't live until they are imagined in someone's mind, and that everyone's experience of the story is individual and unique. He believes that the meaning of a story is up to the audience themselves to decide; that it is not meant to tell them how to think, but instead to give them questions to think upon. He thinks that the interpretations people have of stories are based upon what they themselves are looking for, as are the answers they find in them. His belief in how stories take on life in the minds of an audience is likely a reason for his feeling of obligation to tell the stories that he learns to whoever will listen.
 
+He sees purpose as the spiritual conjunction that glues together human existence and volition. Thus, he sees it as a deeply important part of one's existence as a sapient being.
+
 ## Attributes and Abilities
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
@@ -252,7 +254,7 @@ Hoid traveled to [[Taldain\|Taldain]], though for what reasons are unknown. He w
 
 ### The Restoration of Elantris and Theft of the Moon Scepter
 >“*There is beauty in every disaster, friend, if you are clever enough to find it.*”
-\-Hoid to a skaze[76]
+\-Hoid to a skaze[77]
 
 
 Hoid traveled to [[Sel\|Sel]], likely making use of [[Devotion's Perpendicularity\|Devotion's Perpendicularity]] in [[Arelon\|Arelon]]. Hoid spoke to the [[Skaze\|skaze]], and seems to have made some sort of agreement with them hinging on his desire to become an Elantrian with the restoration of [[Elantris (city)\|Elantris]]. Hoid disguised himself as a beggar, wrapped in bandages. He helped [[Sarene\|Sarene]] smuggle weapons into Elantris. Following the restoration of the city by Raoden, Hoid traveled to the Pool to meet a skaze. He removed his bandages, hoping to find himself transformed into an Elantrian, but the transformation had not occurred. The skaze ridiculed Hoid for his failure, but Hoid expressed his joy that secrets still remained unknown to him and then entered the Perpendicularity and transitioned to the [[Cognitive Realm\|Cognitive Realm]].
@@ -344,7 +346,7 @@ Due to him being more receptive towards his advances, he contacted Harmony again
 
 ### Post-Catacendric Scadrial
 >“*Oh, my lord, I know it, I do. I own the place, technically. Now, regarding those coins for old Hoid, my good lord...*”
-\-Hoid to Wax[196]
+\-Hoid to Wax[197]
 
 
 In 342 [[Catacendre\|PC]], following his actions on Roshar, Hoid returned to Scadrial to attend the [[Yomen-Ostlin wedding dinner\|wedding]] of Lord [[Joshin Yomen\|Joshin Yomen]] and Lady [[Mi'chelle Ostlin\|Mi'chelle Ostlin]], two friends of his that he had made at some unknown point in the past. He did so via finding some way to bypass the strong Connection binding him to Roshar after becoming a Surgebinder
@@ -353,7 +355,7 @@ Hoid's actions after this point are unclear. Hoid somehow obtained a coin-like [
 When Waxillium Ladrian walked up the path to Kelesina's mansion to attend a [[Kelesina Shores' party\|party]] with [[Steris Harms\|Steris Harms]], Hoid climbed out of the bushes, startling Wax, although Wax did not recognise Hoid as his carriage driver through his disguise. Wanting to reveal Kelsier's resurrection and identity as the Sovereign, Hoid looked for an opportunity to pass on the unsealed metalmind. He asked Wax for a few clips. Steris noticed Hoid's cologne and asked him if he was wearing cologne. Hoid was startled by her observation and claimed that he had been drinking perfume, as it had quite a kick. Steris told him that that was unhealthy and Wax advised Hoid that he should leave the private grounds. Hoid agreed but claimed that it was his property and again asked for coins. Wax gave him a banknote and told him again to leave the grounds. Hoid claimed it was far too much and that he wished to give Waxillium change. As Wax walked away, Hoid threw the coin at Wax's head, who caught it in midair. A groundsman then noticed Hoid and tried to chase him off. Hoid laughed and escaped back into the bushes again.
 
 >“*Carriage for you, sir?*”
-\-Hoid to Wax in the middle of the ocean[214]
+\-Hoid to Wax in the middle of the ocean[215]
 
 
 Hoid later became involved in the sting operation that Marasi ran in [[Bilming\|Bilming]] in 348 [[Catacendre\|PC]]. He had a silent interaction with [[Wan ShaiLu\|Moonlight]] from different trucks. Moonlight commented that she couldn't tell whether she was watching Hoid or if Hoid was watching her, but then resolved that they were both just keeping an eye on the same third parties. After Wax arrived in Bilming, and gave chase to [[Dumad\|Dumad]] he casually appeared in a sleek black car to give Wax a ride. In Bilming, he traded his harmonica with Wayne for a rat named [[Sir Squeekins\|Sir Squeekins]]. Since this event, he has been taking good care of Sir Squeekins. He also showed up to rescue Wax from the ocean in a small boat after the explosion of the [[Pewternaut\|Pewternaut]] A16.
@@ -410,7 +412,7 @@ Hoid's relationships with the various [[Vessel\|Vessels]] are varied, to say the
 
 
 >“*Hoid has too many issues to count. I wouldn’t trouble yourself with his situation. He’s nearly as deft at untying knots as he is at creating them.*”
-\-Ulaam to Tress on Hoid[224]
+\-Ulaam to Tress on Hoid[225]
 
 
 

@@ -19,6 +19,7 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 
 1. [[#Space and Time]] 
 1. [[#Spiritwebs]] 
+1. [[#Observation]] 
 1. [[#Properties]] 
 
 1. [[#Connection]] 
@@ -67,6 +68,9 @@ For more information, see [[Spiritweb\|spiritweb]].
 A person’s spiritweb, closely related to Spiritual DNA, makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do. Spiritual DNA can be passed from parent to child like regular DNA. Identical twins can have different Spiritual DNA, however. A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
 This spiritual aspect would exist for all thinking beings, including true artificial intelligence, as they would Spiritually and Cognitively operate the same as an organic sapient being.
 
+### Observation
+Due to its incomprehensible properties, when it is directly observed, it is filtered through a Cognitive framework in order to be more fully understood. This is how visions, like those granted by Honor, operate.
+
 ### Properties
 #### Connection
 For more information, see [[Connection\|Connection]].
@@ -82,7 +86,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[43]
+\-Hoid's warning to Shallan[46]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.
@@ -151,6 +155,7 @@ The Southern Scadrians likely learned what they know of Realmatic Theory from [[
 The [[MaiPon\|MaiPon]] learned about the Spiritual Realm in order to understand how [[Forgery\|Forgery]] works and are aware that it contains a thing's Identity and Connection, though they may not use those words.
 
 ## Trivia
+The Spiritual Realm is heavily based on the Realm of Forms from Plato's , which is a realm where perfect Ideals exist, which physical objects merely engage within or imitate.
 Originally, the [[Shadowblaze\|shadowblazes]] from *[[The Rithmatist\|The Rithmatist]]* were creatures from the Spiritual Realm.
 
 

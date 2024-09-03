@@ -59,7 +59,7 @@ The **Stormfather** is a powerful and unique [[Spren\|spren]] on [[Roshar\|Rosha
 
 
 For more images, see [[Stormfather/Gallery\|/Gallery]].
-The vast majority of the time, the Stormfather is simply a disembodied presence in the skies, or an overpowering voice within the highstorm itself. On the occasions that he does show himself, he takes the form of an enormous, imperious face made out of the clouds, that seems to stretch from horizon to horizon into infinity.
+The vast majority of the time, the Stormfather is simply a disembodied presence in the skies, or an overpowering voice within the highstorm itself. On the occasions that he does show himself, he takes the form of an enormous, imperious face made out of the clouds, that seems to stretch from horizon to horizon into infinity. His eyes are described as being full of stars.
 
 >“*Of course, if the Stormfather was listening, he'd correct Dalinar’s mistakes. The Stormfather hated to be misquoted.*”
 \-Dalinar on the Stormfather[8]
@@ -109,7 +109,7 @@ Today, many honorspren treat him as an honored ancestor and obey his wishes, wit
 ## History
 ### Origins and the Recreance
 >“*During these days, Honor still lived. I was not yet fully myself. More of a storm. Less interested in men.*”
-\-About his origins[13]
+\-About his origins[15]
 
 The Stormfather is likely to be one of the oldest entities in the [[Cosmere\|cosmere]], as the [[Highstorm\|highstorms]] he commands predate even the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. During the early millennia of his existence, he was not particularly cognizant or self-aware, but rather simply the uncaring storm. Even back then, however, he was capable of bonding with humans.
 Shortly before the [[Recreance\|Recreance]], around 2000 years before the [[True Desolation\|True Desolation]], [[Honor\|Honor]] altered the Stormfather in a frantic preparation for his own death. Among other changes, he gave him the capacity to create [[Honorspren\|honorspren]], as well as bestowed him with a set of visions to be sent to a person who would benefit from them, in the event of a new [[Desolation\|Desolation]]. Back then, the Stormfather had only childlike intelligence, although it grew over time. When the Recreance came, grieving for the lost honorspren -- which he believed included [[Sylphrena\|Sylphrena]] -- he refused to make new ones for centuries. Eventually, he created ten, who would then create children of their own, until the honorspren became a nation again.
@@ -134,7 +134,7 @@ Initially, the plan went reasonably well, with [[Dalinar\|Dalinar]] conversing w
 
 ### The Downward Spiral
 >“*This is the lot I have chosen. It is you or oblivion.*”
-\-The Stormfather to Dalinar.[16]
+\-The Stormfather to Dalinar.[18]
 
 
 The free exploration of the visions ended when [[Odium\|Odium]] invaded one of the visions, with the Stormfather powerless to stop him. Though the great spren quickly recovered his poise, there was no doubt that he was terrified of the Shard, and for the time being, further visions were suspended. Eventually, Dalinar began inquiring about the current fate of the Heralds, and the Stormfather informed him that he could see [[Ishar\|Ishar]], and that the old Binder of Gods cursed his name at night.
@@ -144,7 +144,7 @@ When Dalinar traveled to [[Vedenar\|Vedenar]], he felt the return of the [[Thril
   Accompanying Dalinar at Thaylen Field
 ### Eila Stele and Thaylen Field
 >“*I was bonded to men before. This never happened then.*”
-\-The Stormfather about Honor's Perpendicularity.[20]
+\-The Stormfather about Honor's Perpendicularity.[22]
 
 
 The revelations of [[Eila Stele\|Eila Stele]] came soon afterwards. In the aftermath, the Stormfather explained to Dalinar the Recreance and the role Honor played in preventing it in the ages past, as well as Honor's decay shortly before his death.
@@ -163,14 +163,14 @@ In return, the Stormfather gains increased empathy and understanding of human na
 
 ### Honor
 >“*Of course Honor's suggestion would work. He spoke it.*”
-\-The Stormfather.[41]
+\-The Stormfather.[42]
 
 
 While he has no choice in obeying [[Honor\|Honor's]] wishes, the Stormfather greatly respects him in many ways. He trusts him implicitly, and has many good things to say about him. He seems to treat him as something of a father figure, likely due to Honor's transformation of him shortly before [[Tanavast\|Tanavast's]] death. The Stormfather is also Honor's [[Cognitive Shadow\|Cognitive Shadow]] to an extent. What this means is uncertain, as while the Stormfather seems to think the same way about [[Cultivation\|Cultivation]] Honor used to, he also seems to consider himself a separate entity.
 
 ### Sylphrena
 >“*You have taken her from me. My beloved one.*”
-\-The Stormfather to Kaladin.[62]
+\-The Stormfather to Kaladin.[63]
 
 [[Syl\|Syl]] is one of the original [[Honorspren\|honorspren]] created by the Stormfather prior to the [[Recreance\|Recreance]]. Perhaps because of this, he seems to adore her above all his other children, and takes care that she's not harmed. While she calls him her father, she's also clearly frustrated with how overprotective he can be, and will argue with him over what she is and isn't allowed to do.
 

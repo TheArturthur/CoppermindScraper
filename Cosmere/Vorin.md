@@ -229,7 +229,7 @@ The original purpose of the [[Oathgate\|Oathgates]] has been lost to time, thoug
 Thaylen Vorinism describes the Oathgates as "portals of worlds", which only the Passionate could use.
 
 ### Social Hierarchy
-Social Hierarchy in Vorin nations is seen to be rooted in connection and closeness to the Almighty. Lighteyes are seen as being the chosen of the Almighty, and thus are closer to him than the darkeyed population, and thus are held to be holier than them and are taught to have inherent authority over them. Following from this, kings are thought to have their authority rooted in a divine mandate from the Almighty. It is seen as inappropriate for a darkeyed individual to have authority or wealth above that of any lighteyed individuals. Furthermore, they teach that great wealth is only to be conferred upon one by the Almighty.
+Social Hierarchy in Vorin nations is seen to be rooted in connection and closeness to the Almighty. Lighteyes are seen as being the chosen of the Almighty, and thus are closer to him than the darkeyed population, and thus are held to be holier than them and are taught to have inherent authority over them. Following from this, kings and rulers are thought to have their authority rooted in a divine mandate from the Almighty. It is seen as inappropriate for a darkeyed individual to have authority or wealth above that of any lighteyed individuals. Furthermore, they teach that great wealth is only to be conferred upon one by the Almighty.
 Due to their position above darkeyes, it is seen as unthinkable for a darkeyed person to question the orders and desires of a ligheyed person. Thinking or acting outside of one's position, seen as given by the Almighty, is treated as a punishable offence.
 This idea, rooted in the Vorin faith, is the foundation behind the strict caste systems in place in various Vorin nations, such as Alethkar and Jah Keved. This caste system, in adherence to these teachings, places darkeyed peoples lower than lighteyed peoples. It has also deeply influenced their worldview, leading them to believe that such caste systems are part of the natural order enforced by the Almighty himself.
 
@@ -262,7 +262,8 @@ The Ten Surges
 ## Cosmology and Spiritualism
 ### Three-world cosmology
 The Vorin cosmology proposes a division between the upper world, the Tranquille Hills; a central world, Roshar; and the lower world, Damnation. These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
-Alongside these three worlds, they also believe in the Cognitive Realm, though it is unclear where it fits in their cosmology. Furthermore, they believe in a pool of divine essence from which souls are formed. It is unclear where it fits into their cosmology, or if it is the Almighty himself.
+Alongside these three worlds, they also believe in the Cognitive Realm, though it is unclear where it fits in their cosmology. They see it as more fluid than the Spiritual Realm, and believe that it can be visited. They also believe in a pool of divine essence from which souls are formed. It is unclear where it fits into their cosmology, or if it is the Almighty himself.
+Within this framework, the Almighty exists within and people and all things, and is made up of an indestructible substance.
 
 #### Tranquiline Halls
 For more on the Vorin concept of the Tranquiline Halls, see [[Tranquiline Halls\|Tranquiline Halls]].
@@ -276,7 +277,6 @@ For more on the Physical Realm, see [[Physical Realm\|Physical Realm]].
 The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. Life on Roshar is taught to be one of conflict. It correlates with the [[Physical Realm\|Physical Realm]].
 Roshar, and all of the plants and animals upon it, are seen as creations of the Almighty.
 The nature of Roshar is modeled and described through the Ten Essences and Ten Surges.
-It is possible that they see the Cognitive Realm as another aspect of Roshar. They see it as more fluid than the Spiritual Realm, and believe that it can be visited.
 
 #### Damnation
 For more on the Vorin concept of Damnation, see [[Damnation\|Damnation]].
@@ -319,7 +319,6 @@ The soul is what is believed to be what one improves and transforms through virt
 When a prayer is burned, it is believed its soul is taken to the Almighty for him to hear and respond to.
 Vorinism teaches of something called the Soul's March, though little is known about what this describes.
 
-
 ## Religious texts
 Vorinism has a wide variety of sacred texts which guide their interpretation of the Almighty, his decrees, and human history. It holds *[[The Arguments\|The Arguments]]* as one of their central holy scriptures, which acts as a basis of much of their mythology and moral framework. In Jah Keved, Vorin women are expected to memorize passages from *The Arguements*.
 Other texts are held to be of deep religious and cultural importance as well, even if not described as a form of scripture, such as *[[Arts and Majesty\|Arts and Majesty]]*.
@@ -332,7 +331,7 @@ Historically, ardents believed that the revealed scriptures consistent not only 
 ## Moral Teachings
 ### Good and Evil
 Good and Evil, within Vorin Theology, are said to be objective aspects that one possesses. With the Almighty being considered to only possess good, and the Voidbringers being considered to only possess evil. This possession of moral attributes shapes how they act and can act. But humanity has a dual-attribute, meaning they possess both good and evil, and thus can commit both good and evil deeds.
-In Vorinism, it is believed that the cosmere requires balance. Good beings, such as the Almighty, must be balanced by their opposites, which is why the Voidbringers were created to do evil. Vorinism holds that only humanity, with their dual-nature, can add good to the world, allowing the amount of good in the world to outweigh the evil.
+In Vorinism, it is believed that the cosmere requires balance. Good beings, such as the Almighty, must be balanced by their opposites, which is why the Voidbringers were created to do evil. Vorinism holds that only humanity, with their dual-nature, can add good to the world, allowing the amount of good in the world to outweigh the evil. This dual-nature allows humanity to commit both good and evil acts, and have an innate feeling about good and evil. This is seen as a defining attribute of humanity.
 To live a good life, Vorins are expected to emulate the Attributes of the Heralds and the Almighty. Thus, what is morally right and wrong is based upon following the decrees of and the example set by the Almighty. Thus, the Vorin moral framework in inherently tied to what they believe to be the decrees of the Almighty, and cannot exist separately from him. How one chooses to live is seen as far more important than their accomplishments in life. The Ten Human Failings appear to refer to shortcomings of mankind, these might be identical to or associated with the Ten Foolish Attributes.
 It is taught that the ligheyes of society were chosen by the Almighty, and inherently have greater Glory and closeness to the Almighty than darkeyes. Furthermore, they are taught to be more honorable, noble, and just than those not as blessed as themselves.
 How sinful or virtuous one is can be measured by the Almighty and used to determine whether one goes to the Tranquiline Halls or to Damnation.

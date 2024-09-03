@@ -37,7 +37,7 @@ Cryptics are the personification of the underlying mathematical truths that gove
 
 ## Appearance
 ### Physical Realm
-In the [[Physical Realm\|Physical Realm]], Cryptics manifest as complex fractal patterns that are constantly shifting, slightly raised off a surface or object. On occasion, they can also manifest as a floating three-dimensional mass of twisting lines. Their voice has a buzzing quality, and they vibrate when they speak. They also tend to hum a lot.
+In the [[Physical Realm\|Physical Realm]], Cryptics manifest as complex fractal patterns that are constantly shifting, slightly raised off a surface or object. On occasion, they can also manifest as a floating three-dimensional mass of twisting lines. Their voice has a buzzing quality, and they vibrate when they speak. They also frequently hum.
 When their cognitive bodies are forced into the Physical Realm and they die, Cryptics appear as elongated bodies with a black shell, with their heads looking like a soggy mess of black flesh, similar to intestines. However, there is a way to make them take on a physical form in the Physical Realm, by using a complex Lightweaving wireframe attached to their Cognitive aspect as they take form in the Physical Realm. This allows them to essentially take on any form the Lightweaver desires, though it is essentially only an imitative shell.
 
 ### Cognitive Realm

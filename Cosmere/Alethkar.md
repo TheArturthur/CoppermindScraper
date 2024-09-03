@@ -616,8 +616,9 @@ Incest is strictly looked down on, this includes the marriage of one's sibling's
 Some Alethi people, despite or perhaps because of their racist outlook, appear to sexualize western women, and Reshi women, due to their "exoticism."
 
 ### Gender Roles
-The Alethi have very strict gender roles that permeate nigh every aspect of their culture. With most aspects of life, from art, to occupation, to cuisine, is defined by a strict masculine-feminine dichotomy. Ardents, however, are essentially considered genderless and can persue both masculine and feminine activities.
+The Alethi have very strict gender roles that permeate nigh every aspect of their culture. With most aspects of life, from art, to occupation, to cuisine, is defined by a strict masculine-feminine dichotomy. Ardents, however, are essentially considered genderless and can pursue both masculine and feminine activities.
 Going against these prescribed roles is often seen as unnatural or downright blasphameous.
+Systemized misogyny exists within Alethi society, with men discussing what the role of women in society should be, and finding their strength in their ability to fulfil preordained roles. Some Alethi people have argued against this system, stating that the strength of women is their ability to choose their own role, but this view seems to be in the minority.
 Their conception of gender roles is deeply rooted in *[[Arts and Majesty\|Arts and Majesty]]*, an ancient work of Rosharan literature that defines certain topics and practices as feminine or masculine.
 
 ### Games, Sports, and Entertainment
@@ -998,6 +999,7 @@ For a full list, see :Category: Alethi.
 
 ## Trivia
 Alethi are modeled on half Asian and half Hawaiian people, and according to Brandon, picturing Alethi as looking east-Indian works very well.
+Alethkar is partially inspired by  China.
 At 7,134,000 km, it is a little smaller than the total area of .
 
 
