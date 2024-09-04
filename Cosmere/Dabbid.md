@@ -24,7 +24,8 @@
 2. [[#Occupation of Urithiru]] 
 
 
-3 Notes. [[#Notes]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -50,6 +51,8 @@ Despite being the unofficial mascot of Bridge Four, Dabbid was still unable to d
 At some point while living in Urithiru, the [[Sibling\|Sibling]] reached out to establish a connection to Dabbid. The Sibling asked Dabbid to switch a spanreed gem to communicate with [[Navani\|Navani]]. Dabbid gets caught making the switch. During interrogation, one of Navani's guards identifies him as a member of Bridge 4. When the Singer invasion begins, Dabbid shows Navani which strata to touch to talk to the Sibling directly.
 As the occupations continues Dabbid becomes the go between for Navani and Kaladin. The Sibling is able to guide Dabbid to Kaladin's hiding spot in the higher floors to deliver broth. He also delivers the elevator gauntlet fabrial and infused gemstones from Navani. As Kaladin goes to skirmish with [[Lezian\|Lezian]] at the well, Dabbid says his first words since the disastrous bridge run: "Life before Death". After the skirmish Dabbid is able to meet up with [[Rlain\|Rlain]] to wake Kaladin up from his comatose state.
 
+## Trivia
+Dabbid's inspiration came from two sources: Reading books & stories of people who have lived life such as Dabbid, and the fact that all 3 of Brandon's children had complications at birth (including one having the chord wrapped around their neck as well).
 
 
 https://coppermind.net/wiki/Dabbid

@@ -82,6 +82,7 @@ Adonalsium is an anagram of "a mind, a soul." This may or may not be intentional
 While some might refer to Adonalsium with he/him pronouns, this is not a canonization of what Adonalsium actually is or how it should accurately be referred to.
 In the original publication of *[[The Hero of Ages\|The Hero of Ages]]*, Adonalsium was misspelled as "Adonasium".
 Brandon has once stated it is not far off to consider Adonalsium a sort of .
+Brandon has not confirmed or denied if a "Devil" sort of Anti-Adonalsium exists or existed.
 
 
 https://coppermind.net/wiki/Adonalsium

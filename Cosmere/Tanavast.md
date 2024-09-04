@@ -43,7 +43,7 @@ For more images, see [[Tanavast/Gallery\|/Gallery]].
 
 
 ### Appearance
-In one of [[Dalinar Kholin\|Dalinar Kholin's]] visions, he appeared as a tall muscular man with dark skin and pure white hair, wearing billowing trousers and a waist-length coat, both of which seemed to be made of gold. Dalinar considered this clothing strange, which may indicate that it was from [[Yolen\|Yolen]]—or it may simply be a reflection of how style had changed since Tanavast recorded the visions.
+In one of [[Dalinar Kholin\|Dalinar Kholin's]] visions, he appeared as a tall muscular man, thick of chest with dark skin and pure white hair; wearing billowing trousers and a waist-length coat, both of which seemed to be made of gold. Dalinar considered this clothing strange, which may indicate that it was from [[Yolen\|Yolen]]—or it may simply be a reflection of how style had changed since Tanavast recorded the visions.
 
 ### Personality
 Little is known about Tanavast as a person, but the people who met him have an excellent opinion of him. He seems to be the only original Vessel with whom [[Hoid\|Hoid]] has a good relationship, and is, aside from [[Ati\|Ati]], the only one Hoid ever praises, calling him a decent person. The [[Stormfather\|Stormfather]] insists that Tanavast did love mankind, even dying to defend them. Tanavast himself seems to have been highly dedicated to his role as a deity and protective of humanity, even apologizing in visions for getting himself killed.
@@ -59,10 +59,10 @@ As a Vessel, Tanavast originally held as much power as his peers. At some point,
 ## History
 ### Before the Shattering
 Tanavast was born and spent his early life on Yolen over ten-thousand years before the death of the [[Cinder King\|Cinder King]]. He was a regular mortal before he Ascended.
-At some point in the past, likely prior to the [[Shattering\|Shattering]], Tanavast met [[Hoid\|Hoid]], and left a good impression on him.
+At some point in the past, likely prior to the [[Shattering\|Shattering]], Tanavast met [[Hoid\|Hoid]], and left a good impression on him. He also met and began a relationship with the [[Dragon (cosmere)\|dragon]] [[Koravellium Avast\|Koravellium Avast]].
 
 ### The Shattering
-Tanavast was one of the seventeen people who shattered [[Adonalsium\|Adonalsium]], after which he Ascended as the Shard of Honor. After the Shattering, Tanavast and his lover, [[Koravellium Avast\|Koravellium Avast]], moved to [[Roshar\|Roshar]], and both Shards Invested equally in the planet.
+Tanavast was one of the seventeen people who shattered [[Adonalsium\|Adonalsium]], after which he Ascended as the Shard of Honor. After the Shattering, Tanavast and his lover, Koravellium Avast, moved to [[Roshar\|Roshar]], and both Shards Invested equally in the planet.
 
 For subsequent events, see [[/wiki/Honor#History]].
 
