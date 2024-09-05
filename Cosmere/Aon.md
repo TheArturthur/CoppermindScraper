@@ -868,6 +868,7 @@ Aon Ela appears on the cover of the 10th Anniversary leather-bound edition of *E
 In [[Tress of the Emerald Sea\|Tress of the Emerald Sea]], one of the paintings by [[Howard Lyon\|Howard Lyon]] shows [[Hoid\|Hoid]] casting [[/wiki/Aon#Edo]], using [[/wiki/Aon#Daa]] as a modifier in order to block an Aon being cast by [[Riina\|Riina]]. [[Riina\|Riina]] is seen casting [[/wiki/Aon#Shao]], which is about transformation and illusion magic. The use of these specific Aons is not stated in the text itself.
 There are most likely undiscovered Aons.
 Anything possible in the [[Cosmere\|Cosmere]] can be replicated using [[AonDor\|AonDor]], with the right Aons, though certain injections of [[Investiture\|Investiture]] may be required. 
+At least some of the Sel constellations are named after major Aons, such as [[/wiki/Aon#Rao]] and [[/wiki/Aon#Ene]].
 
 
 https://coppermind.net/wiki/Aon

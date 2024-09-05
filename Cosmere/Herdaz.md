@@ -95,7 +95,8 @@ Herdazians are a people of Ashynite and Singer descent, although which Ashynite 
 Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in.
 
 ### Religion
-The majority of Herdazians appear to be adherents of [[Vorinism\|Vorinism]], though they practice their own variety of the faith. Herdazian Vorinism has various differences from orthodox Vorinism, for example, their doctrine permits male literacy.
+In ancient times, Herdazians followed a non-Vorin polytheistic religion. They retain some memory of this religion, and occasionally pray to the old gods. Exact details about this religion are currently unknown.
+As of 1175, the majority of Herdazians appear to be adherents of [[Vorinism\|Vorinism]], though they practice their own variety of the faith. Herdazian Vorinism has various differences from orthodox Vorinism, for example, their doctrine permits male literacy.
 
 ### Language
 The Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
@@ -117,6 +118,7 @@ The Herdazian language belongs to the Vorin family, much like Alethi and Veden. 
 *penhito* - an insult
 *velo* - unknown meaning, used by Lopen to refer to [[Talik\|Talik]]
 ### Diaspora
+  Map of the known Herdazian diaspora around Roshar
 >“* Gon, I haven't been to Herdaz since I was a baby. There are as many Herdazians in Alethkar and Jah Keved these days as there are in our homeland.*”
 \- Lopen[12]
 

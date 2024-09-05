@@ -16,7 +16,7 @@
 \-Honor to Dalinar[3]
 
 
-**Honor** is one of the sixteen [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]], and one of the three, alongside [[Cultivation\|Cultivation]] and [[Odium\|Odium]], present in the [[Rosharan system\|Rosharan system]]. The original Vessel of Honor was called [[Tanavast\|Tanavast]]. Following his death at the hands of Odium, Honor was [[Splinter\|Splintered]]. Honor’s [[Investiture\|Investiture]] is typically associated with the color blue-white.
+**Honor** is one of the sixteen [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]], and one of the three, alongside [[Cultivation\|Cultivation]] and [[Odium\|Odium]], present in the [[Rosharan system\|Rosharan system]]. The original Vessel of Honor was called [[Tanavast\|Tanavast]]. Following his death at the hands of Odium, Honor was [[Splinter\|Splintered]]. Honor’s [[Investiture\|Investiture]] is typically associated with a blue-white coloration.
 
 ## Contents
 

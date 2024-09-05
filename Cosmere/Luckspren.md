@@ -544,7 +544,7 @@ Spren attracted to feelings of shame or embarrassment. They look like red and wh
 
 #### Shockspren
   Shockspren
-A rare type of spren that appear around people experiencing fearful shock (as opposed to awespren, associated with pleasant surprises). The look like pale yellow triangles breaking and reforming around the person who attracted them.
+A rare type of spren that appear around people experiencing fearful shock (as opposed to awespren, associated with pleasant surprises). They look like pale yellow triangles breaking and reforming around the person who attracted them.
 
 #### Snowspren
 A type of spren that appear in the few snowy places on Roshar, such as the [[Horneater Peaks\|Horneater Peaks]].
