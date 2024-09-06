@@ -1,5 +1,6 @@
 |**Deathbend River**|
 |-|-|
+||
 |**Type**|River|
 |**Region**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

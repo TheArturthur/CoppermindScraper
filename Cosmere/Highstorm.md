@@ -8,7 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-A **highstorm** (Alethi: , romanization: *Kezeras*) is a massively [[Investiture\|Invested]] hurricane on the planet of [[Roshar\|Roshar]]. They occur once every few days, or at the command of [[Stormfather\|Stormfather]], and move from stormward to leeward (East to West), starting at the [[Origin\|Origin]]. East of Roshar, the highstorms are incredibly destructive. They progress across the continent, though they weaken gradually as they cross, and are mostly broken by the mountains east of [[Shinovar\|Shinovar]]. This weakness is caused by a combination of being over land instead of water, and infusing spheres with [[Stormlight\|Stormlight]].
+A **highstorm** (Alethi: , romanization: *Kezeras*) is a massively [[Investiture\|Invested]] hurricane on the planet of [[Roshar\|Roshar]]. It occurs once every few days, or at the command of [[Stormfather\|Stormfather]], and moves from stormward to leeward (East to West), starting at the [[Origin\|Origin]]. East of Roshar, the highstorms are incredibly destructive. They progress across the continent, though they weaken gradually as they cross, and are mostly broken by the mountains east of [[Shinovar\|Shinovar]]. This weakness is caused by a combination of being over land instead of water, and infusing spheres with [[Stormlight\|Stormlight]].
 
 ## Contents
 

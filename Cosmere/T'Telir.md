@@ -25,7 +25,7 @@
 
 3 Appearance. [[#Appearance]] 
 
-3. [[#Colour]] 
+3. [[#Color]] 
 3. [[#Wealthy Areas]] 
 3. [[#Slums]] 
 
@@ -82,16 +82,16 @@ The wealthier shopping districts do not contain merchants raising tents to shade
 
 ## Appearance
   Vivenna and Parlin's arrival in T'Telir
-### Colour
-T’Telir, like the rest of Hallandren, is extremely colourful. Buildings are painted in a wide array of, often very bright, colours. The same goes for the people, most of whom wear brightly coloured clothing and even dye their hair. Even furniture and other objects are painted. Due to this there are very few dull things in the city, and most of them are located in the slums, which contain objects and buildings with faded colours. The T'Telirites love greenery and as such the city is designed with many gardens and open spaces that show off its greenery and have palm trees and other flora growing along the streets.
+### Color
+T’Telir, like the rest of Hallandren, is extremely colorful. Buildings are painted in a wide array of, often very bright, colors. The same goes for the people, most of whom wear brightly colored clothing and even dye their hair. Even furniture and other objects are painted. Due to this there are very few dull things in the city, and most of them are located in the slums, which contain objects and buildings with faded colors. The T'Telirites love greenery and as such the city is designed with many gardens and open spaces that show off its greenery and have palm trees and other flora growing along the streets.
 
 ### Wealthy Areas
 The wealthy areas of the city are very diverse, ranging from huge mansions to regular sized houses. These residential areas tend to have less people walking around. Since Hallandren has no nobility these houses are likely owned by merchants. The flora in these districts is described as being incredibly diverse. Dozens of different species of palms, ferns, grasses, and potted flowers, including the [[Tears of Edgli\|Tears of Edgli]], can be found in the gardens of the houses and on the streets. Like in most of the city there are many [[D'Denir\|D'Denir]] statues located in these districts.
 Almost none of the roads in the city are made of anything other then dirt, although most roads have slate sidewalks for people to walk upon, and the streets are lined with lanterns. The people tend to stay on the sidewalks because carriages are common. The wealthier shopping districts do not contain merchants raising tents to shade themselves as they sell wares. Instead, there are many high quality, colorful shops with more expensive goods. While performers are present in these commercial areas, there are fewer than in the average shopping district.
 
 ### Slums
-T'Telir is home to many slums. While there are different varieties of slums, they generally have a couple characteristics. Like the rest of T'Telir most of the slums are colourful, even though the colors are a little faded. The slums also contain parks like the rest of the city, although these are very dirty, like the slums themselves. The D’Denir statues that decorate much of T'Telir are in various states of disrepair in the slums. There are soup kitchens which provide very cheap meals, with food being available for only two bits.
-The best known slum in T'Telir is the Highlands, the [[Idris\|Idrian]] quarter in the city. The Highlands are located in the north of the city, and most Idrians live here. The Highlands are less colourful then the rest of T’Telir, although there are still many colors. This slum is ruled by three slumlords, [[Paxen\|Paxen]], [[Ashu\|Ashu]] and [[Rira (character)\|Rira]]. Furthermore there are many brothels, most only a short distance away from the edge of the Highlands. [[Vivenna\|Vivenna]] describes the place as unwelcome.
+T'Telir is home to many slums. While there are different varieties of slums, they generally have a couple characteristics. Like the rest of T'Telir most of the slums are colorful, even though the colors are a little faded. The slums also contain parks like the rest of the city, although these are very dirty, like the slums themselves. The D’Denir statues that decorate much of T'Telir are in various states of disrepair in the slums. There are soup kitchens which provide very cheap meals, with food being available for only two bits.
+The best known slum in T'Telir is the Highlands, the [[Idris\|Idrian]] quarter in the city. The Highlands are located in the north of the city, and most Idrians live here. The Highlands are less colorful then the rest of T’Telir, although there are still many colors. This slum is ruled by three slumlords, [[Paxen\|Paxen]], [[Ashu\|Ashu]] and [[Rira (character)\|Rira]]. Furthermore there are many brothels, most only a short distance away from the edge of the Highlands. [[Vivenna\|Vivenna]] describes the place as unwelcome.
 
 ## Culture
 ### People

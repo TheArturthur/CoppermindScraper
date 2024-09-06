@@ -51,10 +51,10 @@ For more images, see [[Spook/Gallery\|/Gallery]].
 \-Street slang for "I’ve been abandoned."
 
 
-In early 1021 [[Final Empire\|FE]], as Kelsier's plan to overthrow the [[Final Empire\|Final Empire]] was getting started, he was fifteen. Spook was initially very shy after joining [[Kelsier's crew\|Kelsier's crew]], as he still spoke in Eastern street slang, which made it hard for the rest of the crew to fully understand him.
+In early 1021 [[Final Empire\|FE]], as [[Kelsier\|Kelsier's]] plan to overthrow the [[Final Empire\|Final Empire]] was getting started, he was fifteen. Spook was initially very shy after joining [[Kelsier's crew\|Kelsier's crew]], as he still spoke in Eastern street slang, which made it hard for the rest of the crew to fully understand him.
 After the [[Collapse\|Collapse]], he was much more confident. He stopped using his street cant and grew to over six feet tall, barely resembling the gangly boy he was before. On at least one occasion, he wore a beard as a disguise.
 Around this time he started to show his like for women, almost any type. He didn't get much response, but he liked to flirt a lot.
-His confidence was not constant, and he had a feeling of inferiority, of being invisible, dismissible and ignored. Clubs' death added to his a sense of guilt for leaving the crew and trying to escape Luthadel while taking Vin and Elend. The greatest consequence for him was his insistence on flaring Tin for several months, turning him into a Tin Savant. This enhanced his senses to an unmanageable degree, forcing him to wear a blindfold at all times. He had a huge desire to feel useful and being recognized for it.
+His confidence was not constant, and he had a feeling of inferiority, of being invisible, dismissible and ignored. [[Clubs\|Clubs']] death added to his a sense of guilt for leaving the crew and trying to escape [[Luthadel\|Luthadel]] while taking [[Vin\|Vin]] and [[Elend Venture\|Elend]]. The greatest consequence for him was his insistence on flaring [[Tin\|Tin]] for several months, turning him into a Tin [[Savant\|Savant]]. This enhanced his senses to an unmanageable degree, forcing him to wear a blindfold at all times. He had a huge desire to feel useful and being recognized for it.
 
 ## Attributes and Abilities
  
