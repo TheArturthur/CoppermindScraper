@@ -67,6 +67,8 @@
 4. [[#Final Empire People]] 
 4. [[#Terrispeople]] 
 4. [[#Southern People]] 
+4. [[#Herdazians]] 
+4. [[#.22Golden Haired People.22]] 
 
 
 5 Cosmere. [[#Cosmere]] 
@@ -296,18 +298,26 @@ After the Catacendre the [[Southern Scadrians\|Southern Scadrians]] were saved b
 At some point they developed air ships, which work by steelpushing fans to generate thrust and reducing the weight of the ship. These airships have apparently been around for a long time as [[Daal\|Daal]] mentions that airships have existed for multiple ‘Eras’.
 
 ## People
-Scadrial has a large amount of genetic and phenotypical diversity, though they are only separated into three primary groups. The people of the Final Empire, the Terris, and the South Scadrians. Due to the history of empires, most notably the Final Empire, ethnic groups have come to be more defined by shared culture and nationality, rather than in shared genetics and heritage.
+Scadrial has a large amount of genetic and phenotypical diversity, though they are only separated into three primary native groups. The people of the Final Empire, the Terris, and the South Scadrians. Due to the history of empires, most notably the Final Empire, ethnic groups have come to be more defined by shared culture and nationality, rather than in shared genetics and heritage.
 All people from Scadrial are descended from the first Scadrians created by Ruin and Preservation at some point after the creation of the planet.
 
 ### Final Empire People
 The people of the Final Empire display a large amount of genetic diversity, especially between Dominances. The people of the Central Dominance tend towards lighter skin, while people of the various southern Dominances tended towards darker skin. The people of the Central Dominance have a notable lack of genetic diversity. Their identity as an ethnic group is defined largely by national allegiance, during the time of the Final Empire, and the allegiance of their ancestors for the post-Catacendre people. Most survivors from the age of ash were light of skin, as people from the Central Dominance.
 
 ### Terrispeople
+For more information, see [[Terris\|Terris]].
 The Terris people are an ethnic group that was oppressed by the Final Empire for centuries, and even longer by Classical states such as Khlennium. While many associate them with dark skin, they have a great variety of skin tones, and are defined more by a shared cultural identity than anything else.
 Following the Catacendre, many of the surviving Terris people were darker in tone, and they became a very endogamous people, in order to retain their culture and identity.
 
 ### Southern People
 The southern peoples were taken by the Lord Ruler and taken to the south pole as remnants of old humanity before he changed their biology. They developed very poor thermoregulation over their millennium of separation from the rest of humanity, likely as a way to deal with the heat of the poles.
+
+### Herdazians
+For more information, see [[Herdaz\|Herdaz]].
+There is a group of [[Herdaz\|Herdazians]] from Roshar which inhabited Scadrial some time before 348 PC. How prevalent or widespread they are, or how they are seen by the people or the government, is unclear. Part of their population, however, is known to have settled in Bilming.
+
+### "Golden Haired People"
+An unnamed group of golden haired people have settled on Scadrial some time before 348 PC.
 
 ## Cosmere
 Scadrial is home to two Shards, [[Ruin\|Ruin]], and [[Preservation\|Preservation]]. The physical forms of Preservation could be found in the beads of [[Lerasium\|lerasium]], and the white mists. Ruin's physical forms were the beads of [[Atium\|atium]], which formed in crystals in the [[Pits of Hathsin\|Pits of Hathsin]] and the black mists.

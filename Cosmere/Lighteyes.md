@@ -125,6 +125,7 @@ Highprince [[Relis Ruthar\|Relis Ruthar]].
 [[Urian\|Urian]]
 ### Third dahn
 [[Jakamav\|Jakamav]], landlord and [[Shardbearer\|Shardbearer]] under Highprince Roion.
+[[Amaram\|Amaram]]
 ### Fourth dahn
 [[Moash\|Moash]], Lieutenant of the bridgemen and Shardbearer under Highprince Dalinar.
 [[Lin Davar\|Lin Davar]], Head of [[House Davar\|House Davar]] and Shallan's father.

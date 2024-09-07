@@ -11,7 +11,7 @@ This page contains information for the Shards of Adonalsium. For information reg
 \-Khriss[1]
 
 
-The **Shards of [[Adonalsium\|Adonalsium]]**, or **Shards** for short, are sixteen pieces of the power of creation. They are each named after a specific characteristic or ideal that represents the Shard's primary purpose or motivation. A person who has taken up the power of a Shard is the **Vessel** of that Shard.
+The **Shards of [[Adonalsium\|Adonalsium]]**, or **Shards** for short, are sixteen pieces of the power of creation. formed during the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. They are each named after a specific characteristic or ideal that represents the Shard's primary purpose or motivation. A person who has taken up the power of a Shard is the **Vessel** of that Shard.
 The Shards are the most powerful known entities in the [[Cosmere\|cosmere]], and for all intents and purposes, serve as the gods of the cosmere. Most if not all Invested Arts are related to them.
 
 ## Contents
@@ -27,6 +27,7 @@ The Shards are the most powerful known entities in the [[Cosmere\|cosmere]], and
 
 1. [[#Vessel]] 
 
+1. [[#Suitability]] 
 1. [[#Immortality]] 
 1. [[#Difference between the Shard and the Vessel]] 
 
@@ -80,9 +81,9 @@ The Shards are the most powerful known entities in the [[Cosmere\|cosmere]], and
 
 
 ### Power
-Each Shard is a piece of the power of creation with a specific motivation or Intent, such as to destroy or to preserve. They are made up of an immense amount of Investiture which permeates the Realms, which functions as their body. As with all Investiture, this substance cannot be destroyed, it can merely change state and cycle through the Realms. These fragments each began their existence with equal level of power; however, over time many have diminished, whether through conflict or by the act of Investing a world -- imbuing it with [[Investiture\|Investiture]]. Each Shard has its own Investiture; while a Shard can co-opt the Investiture of another Shard, that Investiture can become noticeably red.
-The Investiture of a Shard permeates all three Realms; Physical, Cognitive, and Spiritual; but the majority of the Shard is contained within the Spiritual Realm, and is thus not bound by the ordinary laws and limitations of time and space, and where all places are compounded into one. Due to this, the power of a Shard is omnipresent, and presses against reality.
-Investing in a world will produce numerous effects, most notably the creation of an Invested Art tied to the Shard. While a Shard doesn't have complete control over how the Invested Art functions or what it does, it can manipulate its mechanics to an extent. Moreover, the presence of a Shard leads to the formation of a [[Perpendicularity\|Perpendicularity]], a well of the Shard's Investiture that pierces all three [[Realmatic Theory\|Realms]], allowing for [[Worldhopping\|worldhopping]]. The Shard's Investiture can also manifest directly in the world in other ways; examples of such manifestations are [[Atium\|atium]] and [[Lerasium\|lerasium]] on [[Scadrial\|Scadrial]], the [[Tears of Edgli\|Tears of Edgli]] on [[Nalthis\|Nalthis]], or the many [[Spren\|spren]] of [[Roshar\|Roshar]].
+Each Shard is a piece of the power of creation with a specific motivation or Intent, such as to destroy or to preserve. They are made up of an immense amount of Investiture which permeates the Realms, which functions as their body. As with all Investiture, this substance cannot be destroyed, it can merely change state and cycle through the Realms. These fragments each began their existence with equal level of power; however, over time many have diminished, whether through conflict or by the act of Investing a world -- imbuing it with [[Investiture\|Investiture]]. Each Shard has its own Investiture, keyed to their Intent, Identity, and Tone; while a Shard can co-opt the Investiture of another Shard, that Investiture can become noticeably red. As the Shard that Investiture is associated with is keyed to various aspects, it is possibly through various methods to remove any aspects and leave pure Investiture, or to change the properties and associations of the Investiture.
+The Investiture of a Shard permeates all three Realms; Physical, Cognitive, and Spiritual; but the majority of the Shard is contained within the Spiritual Realm, and is thus not bound by the ordinary laws and limitations of time and space, and where all places are compounded into one. Due to this, the power of a Shard is omnipresent, and presses against, and is immanent through, reality. That is to say, all things; mind, soul, and body alike; are of one substance, and that substance is the body of Shards.
+Investing in a world will produce numerous effects, most notably the creation of an Invested Art tied to the Shard. While a Shard doesn't have complete control over how the Invested Art functions or what it does, it can manipulate its mechanics to an extent. Moreover, the presence of a Shard leads to the formation of a [[Perpendicularity\|Perpendicularity]], a well of the Shard's Investiture that pierces all three [[Realmatic Theory\|Realms]], allowing for Realmatic transfer and [[Worldhopping\|worldhopping]]. The Shard's Investiture can also manifest directly in the world in other ways; examples of such manifestations are [[Atium\|atium]] and [[Lerasium\|lerasium]] on [[Scadrial\|Scadrial]], the [[Tears of Edgli\|Tears of Edgli]] on [[Nalthis\|Nalthis]], or the many [[Spren\|spren]] of [[Roshar\|Roshar]].
 The core of being through which the power flows, that is, the Vessel, is described as a mere focus or hub for the omnipresent power of the Shard.
 Shards can be combined and intermingled with one another, which changes the Intent and effects how the Shard influences the world and the Vessel holding it. One can theoretically combine every Shard in one Vessel in order to recreate Adonalsium. But other theories posit that doing so would destroy the Vessel.
 
@@ -90,14 +91,16 @@ Shards can be combined and intermingled with one another, which changes the Inte
 >“*If Light is Investiture, and all Investiture is deity, and deity has Intent, then Light must have Intent.*”
 \- Navani Kholin[5]
 
-The Investiture of each Shard, and the Shard themselves, have an Intent that shapes how they act and what they are capable of doing. This Intent has a deep influence on the properties of their Investiture, and upon the mind and actions of their Vessel. The Intent warps the mind over time, with the influence growing greater and more controlling over time. It is difficult for a Vessel to fight against the Intent of their Shard, but if they do so for long enough, it possible to modify the way an Intent manifests, but they cannot change it outright. Therefore, shardic Intent is not immutable, but it is also not overwritable. Furthermore, this means that the mind and Intent influence one another, until they eventually come to a balance.
+The Investiture of each Shard, and the Shard themselves, have an Intent that shapes how they act and what they are capable of doing, which reflects and embodies aspects of Adonalsium's nature. This Intent has a deep influence on the properties of their Investiture, and upon the mind and actions of their Vessel. The Intent warps the mind over time, with the influence growing greater and more controlling over time. It is difficult for a Vessel to fight against the Intent of their Shard, but if they do so for long enough, it possible to modify the way an Intent manifests, but they cannot change it outright. Therefore, shardic Intent is not immutable, but it is also not overwritable. Furthermore, this means that the mind and Intent influence one another, until they eventually come to a balance.
 Intent does not only effect how a Shard and its Vessel act, but also what they are capable and incapable of doing. For example, Preservation is incapable of doing harm or initiating change.
 It is possible for a Shard to be broken down into multiple smaller Shards with different Intents. It is currently unknown whether this has ever happened before, or how it would be accomplished. Conversely, it is possible for multiple Shards to be held by one Vessel, which intermingles them and modifies the Intent depending on if the Intents and Tones are working together in harmony or discord.
 Having opposing Intents between the Shards one holds, such as Ruin and Preservation, can lead one to have difficulty acting. If the Shard is dropped, it would drop as one unified Shard rather than splitting back into the constituent parts.
+Many Intents have both a psychological and phenomenal interpretation. Such as Honor being oaths, agreements, and laws as they relate to sapient beings, but many argue it is also a cosmic sense of justice and the natural laws of physics.
 
 #### Pure Tone and Rhythms
 Each Shard is associated with a Pure Tone and a Rhythm, borne from the interaction of the inherent nature of the Shard with the world they chose to Invest. The Pure Tone is the sound itself, whilst the Rhythm is the beat to which the Tone fluctuates. This is sometimes referred to as a Shard's "song."
 Some individuals argue that Investiture responds to Tones as they remind it of the voice of the Shard commanding it to obey.
+It is possible to create Anti-Investiture via dampening the natural frequency of a Shard's Investiture, and then forcing it to resonate with the Anti-Rhythm of the Shard. This produces Investiture that is inherently destructive to the Shard in question, converting their Investiture directly into energy.
 
 #### Shardic Memory
 Shards remember their history, outside of the Vessel itself. When one ascends to godhood, they gain all the memories engraved into the Shard. This does not, however, grant the Vessel experience in using the power, it merely grants them knowledge of how to use it and how it was used in the past.
@@ -115,6 +118,9 @@ A mentally ill Vessel can affect the Shard's intent.
 It is possible for multiple Shards to be held by one Vessel, which modifies the Intent depending on if they are working together in harmony or discord. The only known case of this currently is Harmony, held by Sazed.
 When an individual becomes the Vessel of a Shard, their spiritweb is permanently stretched and warped. This warping's effects continue even if they later release the power. Such beings that took up the power, or even took up a large portion without becoming the Vessel, and later released it, are known as Slivers.
 
+#### Suitability
+What becoming a Vessel requires above all is [[Connection\|Connection]] to the Shard in question, whether forged artificially or driven by a natural inclination towards the Shard's intent. Not anyone can choose to take up a Shard, with this Connection or alignment with the Intent being a requirement for becoming the Vessel of a Shard. This rule, however, was less strict immediately after the Shattering, allowing greater flexibility. Nonetheless, the rule did exist and not any individual could have taken up any of the Shards.
+
 #### Immortality
 Vessels are inherently immortal and ageless beings, due to the power that they possess and become. This is due to the fact that Vessels are, essentially, a hub or nexus for the power of the Shard. Therefore, they are a sentient bundle of Investiture.
 While unable to die from disease or old age, Vessels can be killed in specific circumstances. Such as when killed or Splintered by another Vessel, or when struck by Nightblood. They can also be killed if they break an oath, which leaves holes in them that can be exploited to kill them.
@@ -127,7 +133,7 @@ Various knowledgeable figure debate on the difference between the Vessel and pow
 ## History
 
 >“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
-\-Sazed[87]
+\-Sazed[94]
 
 
 It is unknown what precisely [[Adonalsium\|Adonalsium]] was, though it has been referred to numerous times as the power of creation, suggesting it to be the progenitor god of the [[Cosmere\|cosmere]]. At some point in the distant past, on the planet of [[Yolen\|Yolen]], sixteen people conspired to kill it, and succeeded in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Some of those people were romantically involved; others were related to each other. All of them were mortal at some point.
@@ -171,7 +177,7 @@ Several of the known Shards are dead in the current time, with [[Ambition\|Ambit
 
 ### Unnamed Shard
 >“*Some men, as they age, grow wiser. I am not one of those, for wisdom and I have always been at cross-purposes, and I have yet to learn the tongue in which she speaks.*”
-\-Hoid possibly implying the existence of another Shard[127][128]
+\-Hoid possibly implying the existence of another Shard[133][134]
 
 
 There remains one Shard that has not been named, but it has an Intent similar to Wisdom or Prudence. [[Hoid\|Hoid]] and this Shard may be antagonistic towards each other, though this appears to be something of a common thread in his relations with the original Vessels. There is a Shard that "[[Survival Shard\|just wants to hide and survive]]," though it has realized over time that that may not be the most desirable course of action; this may be the "wisdom" Shard.
@@ -179,7 +185,7 @@ At one point, there was an unknown Shard that does not inhabit a planet, which l
 
 ## Powers and Abilities
 >“*The power of ancient Adonalsium permeates him. And controls him. [[Odium\|Odium]] is a force like pressure, gravitation, or the movement of time. These things cannot break their own rules. Nor can he.*”
-\-Stormfather[29]
+\-Stormfather[33]
 
 
 Shards possess incredible power -- a single Shard can easily move entire planets and alter people down to the genetic level. They exist in all three Realms, but unlike other living beings, the vast majority of their power is concentrated in the [[Cognitive Realm\|Cognitive]] and [[Spiritual Realm\|Spiritual]]. Shards do not appear in the Cognitive Realm like other entities (such as a bead on Roshar). Time matters little to Shards, and they can bend and stretch it as they wish.
@@ -197,6 +203,7 @@ They are capable of manifesting in multiple locations simultaneously, but not to
 
 #### Communication
 Shards have several ways of communicating with people. Some Shards can speak directly into the minds of others, while others can listen. A Shard can also communicate with a person directly through dreams or visions, and even take on a physical form -- a puppet of sorts, serving as a Physical outlet for communication. While the use of visions and speaking directly into a mind are limited to a single person, a puppet can be seen by many people.
+Shards are capable of inserting not just words, but images and ideas into the minds of people. Furthermore, they are capable of granting people brief glimpses into the Spiritual Realm.
 A Shard can also communicate directly with [[Cognitive Shadow\|Cognitive Shadows]].
 
 #### Physical Manifestation
@@ -208,7 +215,7 @@ These physical manifestations can be created in multiplicity, existing in multip
 #### Mental Capacity
 Upon Ascension, the [[Vessel\|Vessel's]] mind will be greatly expanded, allowing a far greater capacity to think than a mortal could. A Shard is capable of multilocation -- being present in several places at once -- within its sphere of influence, and each manifestation is able to act independently. As moments can pass like years to a Shard, they can also appear to think far faster than normal minds. Fundamental understanding of the cosmere, to the point of [[Axi\|axi]] and anti-axi, also comes as a result. They are capable of even seeing the axi that make up the world. Their mental capacity has expanded enough that they can interpret the immense amount of information that they receive when looking into the future, and to be able to understand and interpret the world as they see all of the axi that make up matter.
 They seem to possess flawless memory, with no obvious upper limit, as [[Sazed\|Sazed]] is able to absorb the tremendous amount of knowledge in his [[Metalmind\|metalminds]].
-However, contrary to what many believe, Vessels are neither omniscient nor omnipresent. They can only appear at limited places at once, and can be distracted, deceived or surprised. It is also possible to block a Shard's senses away from a certain area. They are incapable of breaking a formal contract, at least not without seriously wounding themselves.
+However, contrary to what many believe, Vessels are neither omniscient nor omnipresent. They can only appear at limited places at once, and can only divide their attention so much; furthermore, they can be distracted, deceived or surprised. It is also possible to block a Shard's senses away from a certain area. They are incapable of breaking a formal contract, at least not without seriously wounding themselves.
 
 #### Creating Sapience
 Shards can use their power to create complex **constructs**, capable of continuing their function past the Shard's death. Examples of such constructs are the snapping mists of [[Preservation\|Preservation]], and the vision journal of [[Honor\|Honor]]. Shards can also create sapient beings from their power -- this is most commonly seen on [[Roshar\|Roshar]], with its overabundance of [[Spren\|spren]]. Many of them, like the [[Stormfather\|Stormfather]], [[Nightwatcher\|Nightwatcher]], and [[Honorspren\|honorspren]] were created by local Shards.
@@ -232,7 +239,7 @@ Vessels do not see the world as other beings do, with their vision greatly enhan
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
-\-Honor[74]
+\-Honor[81]
 
 
 Shards can perceive the future, although it can be difficult for them. Some are better at it than others, with [[Cultivation\|Cultivation]] and [[Preservation\|Preservation]] being noted as particularly excelling. Like all seers, Shards can be wrong about both what they see and how they interpret it, although as a general rule they see further than non-Shards. Shardic power can also be utilized by others to perceive the future as they do: examples of this are [[Atium\|atium]], as well as the visions of the [[Returned\|Returned]].
@@ -243,7 +250,7 @@ Vessels are capable of displaying their future sight to other people. This can e
 ## Forms and Subdivisions
   <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
 >“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
-\-Syl[84]
+\-Syl[91]
 
 
 The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture is metallic, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.

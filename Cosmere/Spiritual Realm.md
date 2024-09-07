@@ -10,7 +10,7 @@
 \-Shai's description of the Spiritual Realm[1]
 
 
-The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent.
+The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent. It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things.
 Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based. Among sentient creatures, this soul is sometimes described as a [[Spiritweb\|spiritweb]]. Several manifestations of [[Investiture\|Investiture]] such as [[/wiki/Gold#Feruchemical Use]] and [[Regrowth\|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
 
 ## Contents
@@ -56,7 +56,7 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 ## Nature
 ### Space and Time
 >“*He thrust his right hand to the other side, touching something vast, something that wasn’t a place—it was all places in one.*”
-\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[2]
+\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[3]
 
 
 The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [[Investiture\|Investiture]] in the form of [[Spiritweb\|spiritwebs]] and the [[Connection\|Connections]] between them. As such, time and space are "irrelevant" or "compounded into one" in the Spiritual Realm. This timelessness means that the Spiritual Realm breaks causality, but in a controlled way. [[Design\|Design]] remarked that time dilation was easier in the Spiritual Realm because time "flows like water into whatever container you provide".
@@ -86,7 +86,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[46]
+\-Hoid's warning to Shallan[47]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.

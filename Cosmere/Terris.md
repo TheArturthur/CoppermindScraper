@@ -26,8 +26,17 @@
 4 Culture. [[#Culture]] 
 
 4. [[#Clothing]] 
+
+4. [[#Jewelry]] 
+
+
 4. [[#Language]] 
 4. [[#Religion]] 
+
+4. [[#Post-Catacendre Religion]] 
+
+
+4. [[#Feruchemy]] 
 4. [[#Food]] 
 4. [[#Terris Fundamentalists]] 
 
@@ -38,7 +47,7 @@
 
 
 ## Etymology
-Terris appears to be derived from the Terris infinitive verb *Terr* meaning *To Preserve*, referencing their veneration of Preservation and the importance of it to their culture.
+Terris appears to be derived from the Terris infinitive verb *Terr* meaning *To Preserve*, which is also the ancient name for Preservation, referencing their veneration of Preservation and the importance of it to their culture.
 
 ## History
 The Terris people have a long and varied history reaching across multiple eras of Scadrial. Their ancestors were created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]] at some point after the creation of Scadrial, who came to populate the planet. It is not known exactly when Terris ethnogenesis occurred, however, but they are known to be a long established group by the time of the First Ascension.
@@ -65,18 +74,23 @@ However, many Terris still maintained an endogamous culture of their own distinc
 They came to be desirable on staff, and especially amongst political cabinets. This is due to the fact that many people believe that it looks good for them to have diversity in their staff, using them for public image alone. Some Terris people have pointed out how this is merely using them as a medal.
 
 ## People
-The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to this factors, it is difficult to tell a Terris person by their skin tone alone.
+The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to these factors, it is difficult to tell a Terris person by their skin tone alone. However, in the Post-Catacendre era, due to a mixture of their endogamy, and the fact that most dark skinned people who survived the Catacendre were Terris, they became more associated with darker skin. At least some Terris people are black haired.
 They are also, notably, a rather tall people. Terris people often have a willowy build. Ancient paintings, during the post-Catacendre era, show Terris people with exaggerated elongated features.
 [[Feruchemy\|Feruchemy]] is passed down through Terris bloodlines.
 
 
 ## Culture
-Many Terris people wish to stay isolated in order to maintain their cultural heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people.
-They are known to be a rather reserved people, with a strong emphasis on order and stability. They value respectful dignity, meekness, ubmission, and being candid. Various Terris people see their culture as inherent to the Terris people, and see those who adopt the Imperial culture to be denying who they are.
+Many Terris people wish to stay isolated in order to maintain their cultural and genetic heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people.
+They are known to be a rather reserved people, with a strong emphasis on order and stability. They value respectful dignity, meekness, ubmission, and being candid. Following from this, their speech patterns try to avoid offence, and often indicate uncertainty. Various Terris people see their culture as inherent to the Terris people, and see those who adopt the Imperial culture to be denying who they are.
+Some believe that Old Terris still remains in the world, left by Harmony as a promised land for them to discover.
 
 ### Clothing
 The [[Tinningdar\|tinningdar]] is a common robe worn by the Terris people distinguished by a colorful overlapping V pattern down the front. This pattern is often embroidered. The tinningdar is often worn alongside a belt, and has long sleeves. New versions of the Tinningdar, created around the year 342 [[Catacendre\|PC]], are more daring. During the Final Empire, these were often known as "steward's robes." During this era, the colors of the robe represent the colors of the House the steward serves. The Tinningdar is only worn by adults and old youths, younger children tend to wear simple white smocks.
-Other Terris forms of clothing are also known to be colorful, and often incorporate the traditonal V-pattern.
+Other Terris forms of clothing are also known to be colorful, and often incorporate the traditonal V-pattern. It is also common to wear colorful caps.
+Khlenni fashion became popular in late Classical Scadrial, brought into Old Terris via trade between the two nations.
+
+#### Jewelry
+They tend to wear a large amount of jewelry such as rings, earrings, and other pieces of jewelry. During the Pre-Catacendre era, it was common to practice ear stretching, to accommodate for more or larger earrings.
 
 ### Language
 The Terris language died out due to the assimilation efforts of the Lord Ruler, though records and knowledge of it remained amongst Keepers. Following the Catacendre, many were taught the language in their youth, allowing for it to, over time, be revived.
@@ -96,6 +110,16 @@ Much of what was known about Terris religion was lost upon the Ascension of the 
 They believed in a set of texts known as the Terris Prophecies, passed down from their god, Preservation, in order to stop Ruin and protect the world. The central idea behind the prophecies is that, eventually, a savior known as the Hero of Ages would arrive and use the power sealed in the [[Well of Ascension\|Well of Ascension]] to save the world. This legend was also present to some degree in Khlennium, where the called this prophesized saviour the Rabzeen.
 [[Realmatic theory\|Realmatic theory]] was part of the ancient Terris religion.
 The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to preserve" in their language.
+
+#### Post-Catacendre Religion
+>“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
+\- Tellingdwar giving the evening recitation[27]
+
+Post-Catacendre religious practices changed from the pre-First Ascension practices. Though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
+[[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
+
+### Feruchemy
+Terris culture treats Feruchemy with great reverence, leading to traditionalists refusing to use their powers for pay. This has led to for-hire Feruchemists being rare.
 
 ### Food
 Little is known about Terris food, but it is likely similar to Mediterranean food and probably involves noodles.

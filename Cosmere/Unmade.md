@@ -58,6 +58,7 @@ One process of unmaking is documented with [[Raboniel\|Raboniel's]] attempt to u
 The [[Sibling\|Sibling]] considers being unmade into something else as equivalent to death.
 [[Sja-anat\|Sja-anat]] believes Odium could unmake the Unmade again. This would steal their memories and rip them to pieces. She also fears he will unmake her children, both true spren and lesser spren, to the same effect.
 It is uncertain what the Unmade were before becoming corrupted. Upon her confrontation with [[Re-Shephir\|Re-Shephir]], [[Shallan\|Shallan]] believes her to have originally been a [[Creationspren\|creationspren]], but later thinks it might in fact have been *human*.
+The Unmade inherently make those in their proximity feel a strong sense of unease and wrongness. The sensation grows stronger the closer on gets to the Unmade itself.
 
 ### Functioning
 In creating Unmade, Odium trapped them in a halfway existence, many not fully belonging to the Physical or Cognitive Realms. Sja-anat experiences a shadowy version of both Shadesmar and the Physical Realm at the same time, feeling the distance between the two dilate as she moves.
@@ -100,7 +101,7 @@ The Unmade feature heavily in the songs of the [[Listener\|listeners]], who also
 ## Members of the Unmade
 ### Ashertmarn
 >“*Ashertmarn, the Heart of the Revel, is the final of the three great Mindless Unmade. His gift to men is not prophecy or battle focus, but a lust for indulgence.*”
-\-From Hessi's Mythica, page 203[66]
+\-From Hessi's Mythica, page 203[69]
 
 
 **[[Ashertmarn\|Ashertmarn]]** is a mindless Unmade that is also known as the **Heart of the Revel**. He takes the form of an enormous, black, inhuman heart that grows veins into the ground. Those who fall under Ashertmarn's influence are driven to debauchery and excess, in extreme cases to the point of total mindless indulgence. Ashertmarn was most recently seen in [[Kholinar\|Kholinar]], grown over the [[Oathgate\|Oathgate]] there, where he managed to influence many of the Alethi elite to abandon their lives and responsibilities in favor of the revel. His location is unknown after he left the Oathgate platform.
@@ -118,28 +119,28 @@ According to [[Hessi\|Hessi]], she is not one of the three great mindless Unmade
 
 ### Dai-Gonarthis
 >“*Let me no longer hurt! Let me no longer weep! Dai-Gonarthis! The Black Fisher holds my sorrow and consumes it!*”
-\-Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarity to sample 1172-89.[71]
+\-Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarity to sample 1172-89.[74]
 
 
 **[[Dai-Gonarthis\|Dai-Gonarthis]]**, also known as the **Black Fisher** is an Unmade of median intelligence. They have not been recorded as active on Roshar recently, but may have been involved in the [[Scouring of Aimia\|Scouring of Aimia]]. There is some uncertainty in the mythology as to whether Dai-Gonarthis is one of the Unmade, but some scholars are convinced.
 
 ### Moelach
 >“*Moelach is close. I can hear his wheezing, his scratching, his scraping at time like a rat breaking through walls.*”
-\-Jezrien on Moelach[74]
+\-Jezrien on Moelach[77]
 
 
 **[[Moelach\|Moelach]]** is an Unmade associated with precognition and visions of the future. His presence allows for the [[Death Rattle\|Death Rattles]] that King [[Taravangian\|Taravangian]] used to modify the [[Diagram (literature)\|Diagram]]. Moelach's appearance is unknown. In the year 1166 Moelach was somewhere near Kholinar, then he took up residence in Kharbranth in the year 1167, then relocated for unknown reasons seven years later to the [[Horneater Peaks\|Horneater Peaks]].
 
 ### Nergaoul
 >“*Nergaoul was known for driving forces into a battle rage, lending them great ferocity. Curiously, he did this to both sides of a conflict, Voidbringer and human. This seems common of the less self-aware spren.*”
-\-From Hessi's Mythica, page 121[76]
+\-From Hessi's Mythica, page 121[79]
 
 
 **[[Nergaoul\|Nergaoul]]** is a mindless Unmade that is closely associated with battle rage. Nergaoul is not very intelligent, taking an animalistic joy in death and killing. He takes the form of an enormous red mist roiling with the forms of men fighting and dying. Nergaoul causes the effect known as the [[Thrill\|Thrill]], which drives men to fight far beyond when they should have given up and makes them enjoy the killing. During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], he was captured within the [[King's Drop\|King's Drop]] ruby by Dalinar. Afterwards, this perfect gemstone was sunk to the bottom of the ocean.
 
 ### Re-Shephir
 >“*Re-Shephir, the Midnight Mother, giving birth to abominations with her essence so dark, so terrible, so consuming. She is here! She watches me die!*”
-\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[79]
+\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[82]
 
 
 **[[Re-Shephir\|Re-Shephir]]** is also known as the **Midnight Mother**, and **The Spawning Mother**. She takes the form of a mass of black tarry substance that is capable of flowing over various surfaces and appears to have screaming faces bubbling to the surface. Her primary ability is to spawn the [[Midnight Essence\|Midnight Essence]], a type of spren that takes the form of creatures and people they see around them and try to understand humankind by mimicking them. She is a creature of instinct that is drawn to violence and pain. Before the [[Recreance\|Recreance]], she infiltrated Urithiru and was captured by a [[Order of Lightweavers\|Lightweaver]]. After the Recreance, she escaped imprisonment and inhabited [[Urithiru\|Urithiru]] for centuries, until fleeing the tower as a result of a confrontation with [[Shallan\|Shallan]]. Her current location is unknown, but at some point she reported to the [[Fused\|Fused]], incorrectly, that the [[Sibling\|Sibling]] was dead.

@@ -36,6 +36,7 @@
 1. [[#Mortal 2]] 
 1. [[#Vessel of Harmony]] 
 
+1. [[#Gender]] 
 1. [[#Support of Free Will]] 
 1. [[#Manipulations and Utilitarianism]] 
 
@@ -101,8 +102,13 @@ He professes to find the idea of forced breeding to create perfect people, that 
 Despite his ability to manifest however he wishes, he still manifests as a Terrisman in Terris garb, displaying a lingering connection to his old body. He also appears to still consider himself Terris.
 He believes in an afterlife in the [[Beyond\|Beyond]]. Though professes a lack of objective knowledge on whether or not an afterlife truly exists, he also openly admits that he is not truly omniscient. As such does not attempt to put up pretenses of omniscience or omnipotence, admitting to his limitations. He even admits his own naïveté. As a man open to sharing his limitations, he is even willing to admit his growing difficulty in taking action. Much like other aspects of his personality, this can be seen rooted in his humility.
 He finds great discomfort in his inability to take action due to his nature as Harmony. He considers himself to be one with Ruin and Preservation, as they make him up, and thus he finds it difficult to separate his mind from the power he holds. He also considers the choice to not take up a Shard to be a wise one. He considers himself to be new to the role of a Shard, despite his centuries holding on to it.
+He fears that he made life too easy for humanity, and thus delayed their potential development as they had no reason to strive for advancement. This shows how he believes that struggle and need is an important factor in motivating technological advancement.
 
 
+Over time, his view of his gender changed, as he became less attached to his masculinity and more accepting of gender-neutral terms for himself. Though it is not clear to what extent his self-identification changed. Some individuals view him as simultaneously male and female, conceptualizing him as a divine hermaphrodite, though it is unclear how much he personally identifies with this description.
+
+
+His interpretation of his Intent is that which gives sapient beings to freely make their own choices. This belief is to the extent that he believes that even the ability to commit evil deeds, such as murder, is necessary. Not due to the fact that he supports it or believes that it must be committed, but because he believes that the ability to do so is needed for free will to exist.
 He holds to the belief that humanity should discover new technologies and advancements by their own power, arguing that there are subtle consequences to helping them along too much. Alongside this, he believes that humanity should find their own path through the cosmere. He also believes that if he intervenes too much, mankind could become overly reliant upon him, he trusts mankind to be able to solve their problems on their own, as he believes in humanity. Furthermore, he believes that people shouldn't have their lives controlled or moved by others, and interprets his Intent as creating a way for as many people as possible to make their own choices. This is all a part of his belief in free will and self-actualization, both on an individual and societal level.
 His belief in free will of all people can be seen in his aforementioned religious tolerance, and support of people forming their own moral compass based on their own thoughts and research.
 
@@ -110,6 +116,7 @@ His belief in free will of all people can be seen in his aforementioned religiou
 Due to his inability to more directly act and effect the world, as mentioned above, he is willing to manipulate people in order to groom them for the good of Scadrial. However, he does not take pleasure in it, he feels sorrow for their pain and what he made them do, but he does not feel sorrow for making them do what he felt had to be done. He does this despite fundamentally believing in human freedom, this contradiction has been observed to cause him internal conflict and guilt.
 For example, he manipulated Wax into his Sword, so that he could fight for the good of Scadrial, by sending the kandra [[Paalm\|Paalm]] in order to effectively groom him into said Sword. He made Wax commit many painful actions in the furtherance of his plans for the future of Scadrial. He respected Wax's hatred of him, and even when put in peril by the encroaching threat of [[Trell\|Trell]], he continued to try and stop it through other methods. This was until he began to feel that Wax was his last choice, in which he came begging. In the end, he informed Wax that nobody controls his life, and that he is deeply sorry for making him believe otherwise.
 This shows a degree of utilitarianism in his personality, as he is willing to go against his own moral compass, which advocates for free will for all people, and manipulate individuals against their will, for the greater good of all of Scadrial. This does not, however, mean that he feels no pain at having to do this; it also does not mean that he finds any means justified by the good it could potentially do for Scadrial.
+Some individuals, such as Paalm and Wax, have pointed out the hypocrisy in him preaching about free will whilst controlling and manipulating people to fulfil his own desires.
 
 ## Attributes and Abilities
 >“*… When the Steel Ministry no longer holds sway—men will wish to return to the beliefs of their fathers. On that day they will look to the Keepers, and on that day we shall return to mankind his forgotten truths.*”
@@ -204,7 +211,7 @@ Sazed married him to Vin just before the fight for Luthadel.
 
 ### Tindwyl
 >“*You…you’re strong like the wind. Always there, so willing to bend, but never apologetic for the times when you must be firm.*”
-\-Tindwyl to Sazed on why she loves him[51]
+\-Tindwyl to Sazed on why she loves him[54]
 
 
 Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
@@ -216,7 +223,7 @@ He refers to Hoid as his friend.
 
 ### Wax
 >“*I’ve heard distressing things, Waxillium Ladrian, that you’ve been worrying about. I would like to promise you something. With all the essence and axi of my being, I declare this.No one else moves you.Your life is yours.And you have my deepest apologies that I had a hand in teaching you otherwise.*”
-\-Harmony to Wax[28]
+\-Harmony to Wax[31]
 
 
 He has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.

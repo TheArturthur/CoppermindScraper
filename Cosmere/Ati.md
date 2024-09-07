@@ -56,6 +56,7 @@ Little is known about Ati's appearance; he has flame-red hair, and a welcoming, 
 #### Mortal
 As a mortal, Ati was known for being kind and generous. After taking up Ruin, he fought against the destructive impulses it brought about for many years. Over time, however, Ruin won out, and adapted this kindness to its own intent. This fundamentally warped his personality, leaving him nearly unrecognizable from his original self.
 During his mortal life, he was driven to kill Adonalsium, either due to desire for power or a belief in the necessity of the action. Displaying the willingness to kill, either for a cause he believed in, or to gain power.
+According to Leras, he always believed that nothing is eternal and that everything eventually passes. This is possibly what made him a suitable Vessel for Ruin, and was possibly what led to Ruin becoming filtered from destruction to entropy and inevitable decay.
 After dying and losing his Connection to Ruin, he quickly accepted his death and passed into the [[Beyond\|Beyond]]. If he continued to exist in the Physical or Cognitive Realms instead of passing away into the Beyond, his personality would have returned to his original one, though his soul would forever carry scars from his time as a Vessel, likely keeping his personality from truly returning to normal.
 
 #### Vessel

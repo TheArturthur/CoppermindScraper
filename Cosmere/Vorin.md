@@ -185,7 +185,7 @@ Ishi'Elin
 ### The Voidbringers
 The **[[Voidbringers\|Voidbringers]]** are taught to be the polar opposite of the Almighty, forged in Damnation by the cosmere itself, to act as a balancing force of evil to his goodness. They are said to have cast humanity out of the Tranquiline Halls and to Roshar, and they tried to cast humanity even out of Roshar. They are claimed to still live in the Tranquiline Halls, where the Heralds lead the souls of the fallen against them in the War for Heaven. The Voidbringer incursions onto Roshar are known as the Desolations.
 While it is taught that the Voidbringers left Damnation and inhabit the Tranquiline Hills, it is also taught that they exist within Damnation to torture the souls of the damned. Some Vorins have pointed out the contradiction inherent in these teachings.
-They are said to be led by the [[Unmade\|Unmade]]. Who are able to watch humanity, and effect their lives. Therefore Vorin people have formed superstitions about what they believe brings the eyes of the Unmade upon them.
+They are said to be led by the [[Unmade\|Unmade]]. Who are able to watch humanity, and effect their lives. Therefore Vorin people have formed superstitions about what they believe brings the eyes of the Unmade upon them. It is disagreed upon how many Unmade exist, some stories speak of ten, others of nine, but they are often fused into a singular entity within Vorinism.
 
 #### Folklore
 Voidbringers appear not only in theology, but are also prevalent in folklore. Some folk tales in rural areas teach of them as being mischievous beings who steal from the unlucky and punish the foolish; whilst others teach of them disguising themselves as wary travelers, and killing whoever takes them into their home. People in more urban areas speak of them invading the hearts of men and forcing them to do terrible things. They are sometimes conflated with the Lost Radiants. Orthodox Vorinism, however, disagrees with these notions and asserts that the Voidbringers no longer exist on Roshar.
@@ -410,7 +410,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[107]
+\-Nale[108]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
