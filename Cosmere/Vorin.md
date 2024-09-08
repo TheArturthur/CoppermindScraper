@@ -36,6 +36,7 @@ Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 
 2. [[#Knights Radiant]] 
 2. [[#Dawnsingers]] 
+2. [[#Dawnshards]] 
 2. [[#Gender]] 
 2. [[#Life After Death]] 
 2. [[#Belief in Symmetry]] 
@@ -168,6 +169,7 @@ The Almighty is ultimately based on the Shard [[Honor\|Honor]]. Some ardents hav
 The **Heralds** were believed to be forces of good which fought against the Voidbringers in one-hundred Desolations, and helped to teach and protect mankind after the Expulsion. After the hundredth Desolation, the Last Desolation or Aharietiam, they cast away the Voidbringers from Roshar forever. But they continue to fight against them in the Tranquiline Halls, in order to liberate the Halls from them.
 Each Herald is an emissary of the Almighty, wielding potent magical powers, as well as the ability to respond to prayers and patronage over a specific part of human experience. Vorinism typically places [[Jezrien\|Jezrien]] and [[Kalak\|Kalak]] as the highest among the Heralds, with others beneath them. Occasionally, either of them are conflated with the [[Stormfather\|Stormfather]], who in turn is commonly equated with the Almighty himself, although this depends on the particular Vorin country.
 Each Herald is taught to hold immense power granted to them by the Almighty, and held Honorblades instead of Shardblades. They are also thought to have conferred teachings and wisdom to mankind, and are considered to be wise beyond human measure. They led the Knights Radiant before the Knights betrayed mankind during the Recreance.
+The Honorblades are held to be sacred treasures in Vorinism, spoken of alongside the [[Dawnshard\|Dawnshards]].
 
 #### List of Heralds
 
@@ -197,6 +199,10 @@ Shardblades are said to be taken from the Lost Radiants after they abandoned the
 ### Dawnsingers
 The **[[Dawnsingers\|Dawnsingers]]** are an ancient race said to have been created by the Almighty and sent to Roshar has healers, to care for mankind after the Expulsion. They are thought of as a type of spren. Ardents reject the idea that the Dawnsingers created the Dawncities or the Veil, though such theories are popular amongst more lay members of the faith.
 It is taught that both glyphs and letters are from the Dawnsingers.
+
+### Dawnshards
+For more information on the Dawnshards, see [[Dawnshards\|Dawnshards]].
+The **[[Dawnshard\|Dawnshards]]** make up a part of Vorin faith and mythology, with them being described as a mythological treasure comparable to the Honorblades. They do not appear to give much elaboration upon what they believe the Dawnshards to be, with no modern sources being discovered relating to their nature. They appear to have been significantly more important to the faith during its earlier eras.
 
 ### Gender
 They believe that men and women have specific stations in life, and must follow a strict set of gender norms.
@@ -410,7 +416,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[108]
+\-Nale[109]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.

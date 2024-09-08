@@ -128,7 +128,7 @@ Their metabolism is geared towards metabolizing shells, which their jaw structur
 Singers can drink crem without getting sick.
 
 ### Ocular Structure
-They have two eyes set in orbital cavities. They are divergent from the eyes of humans - with black sclerae and no visible iris, giving them an all-black appearance.
+They have two eyes set in orbital cavities. They are divergent from the eyes of humans - with black sclerae and no visible iris, giving them an all-black appearance. They are capable of crying during period of heightened emotion.
 
 ### Sexes and reproduction
 Singers possess four distinct sexes; male and female, which are capable of reproduction, and their neutered variants, **malen** and **femalen**. Singers' sex will change from between male and malen, or female and femalen, as they change forms; the vast majority of forms are either malen or femalen. As such, most singers are asexual the vast majority of the time. Singers usually identify as one of those four genders as well, though some identify with a non-quaternary gender and singer culture recognizes at least one non-quaternary gender.
@@ -159,7 +159,7 @@ These forms are mentioned in the listener [[Song of Listing\|Song of Listing]]. 
 #### Dullform
  
 >“* Dullform dread, with the mind most lost.The lowest, and one not bright.To find this form, one needs banish cost.It finds you and brings you to blight.*”
-\- final stanza of the Song of Listing[63]
+\- final stanza of the Song of Listing[65]
 
 
 Dullform occurs when a singer bonds an incorrect [[Spren\|spren]], or a spren that does not grant any other form. It's physically similar to the "slaveform" of the parshmen, to the point where a dullform singer can easily pass for one. It is also mentally limiting; those in dullform find thinking difficult, as if they were half-asleep, and have a harder time hearing the [[Rhythm\|rhythms]].
@@ -170,7 +170,7 @@ Singer children are born in dullform, though for them, it is more vibrant and le
 #### Mateform
  
 >“* Mateform meek, for love to share,Given to life, it brings us joy.To find this form, one must care.True empathy, one must employ.*”
-\- 5th stanza of the Song of Listing[64]
+\- 5th stanza of the Song of Listing[66]
 
 
 Mateform is used by singers to reproduce; though the other forms are capable of having children, mateform is the one most specialized for the purpose. In female singers, entering mateform increases the size of their breasts; it's unknown what physical effect it has on male singers. Mentally, mateform causes a singer to behave irresponsibly and become distracted in favour of the form's primary purpose; mateforms will sometimes ignore their assigned task, or do things that are expressly forbidden, without realizing the issue with that. Some singers are, however, capable of keeping themselves together while in mateform, though this requires strong mental discipline. Singers in mateform are bonded with [[/wiki/Spren#Lifespren]].
@@ -180,7 +180,7 @@ It was one of the original forms the [[Last Legion\|Last Legion]] had after aban
 #### Warform
  
 >“* Warform is worn for battle and reign,Claimed by the gods, given to kill.Unknown, unseen, but vital to gain.It comes to those with the will.*”
-\- 15th stanza of the Song of Listing[65]
+\- 15th stanza of the Song of Listing[67]
 
 
 Warform gives listeners an armor-like carapace, and makes them taller and bulkier than other forms. The carapace armor is designed to trap air and push it up underneath to cool the singer. It grants them vastly increased strength; a singer in warform can leap over a chasm of the [[Shattered Plains\|Shattered Plains]] with a running start. Stamina is greatly increased, allowing singers to run for hours without strain. It also deepens their voice. Out of all the forms known to the listeners, warform requires the most food, but is also the most durable, and a warform singer heals faster than they would in any other form. Mentally, the warform has less impact than most others; it makes one more pragmatic and slightly more inclined towards violence. It also severely hampers artistic ability, and is not well-equipped to handle abstractions. Singers in warform are bonded with [[/wiki/Spren#Painspren]].
@@ -190,7 +190,7 @@ The first listeners to enter warform heard the pure tone of Honor.
 #### Workform
  
 >“* Workform worn for strength and care.Whispering spren breathe at your ear.Seek first this form, its mysteries to bear.Found here is freedom from fear.*”
-\- 19th stanza of the Song of Listing[67]
+\- 19th stanza of the Song of Listing[69]
 
 
 Workform endows increased strength, though it lacks the armor; rather, singers in workform are limber and rugged. It's better suited for labor, and most workers use it; however, it is also sometimes used when fighting. Singers in workform have carapace in ridges along the backs of their hands, and no carapace on the rest of their body. They are also fairly resistant to cold weather. While in workform, singers are more obedient, and have greater difficulty committing violence, forcing one to find peaceful solutions to various problems. It's also considered more flexible than warform. Singers in workform are bonded with [[/wiki/Spren#Gravitationspren]].
@@ -200,7 +200,7 @@ The first listeners to bond workform heard the pure tone of Cultivation.
 #### Nimbleform
  
 >“* Nimbleform has a delicate touch.Gave the gods this form to many,Tho' once defied, by the gods they were crushed.This form craves precision and plenty.*”
-\- 27th stanza of the Song of Listing[70]
+\- 27th stanza of the Song of Listing[72]
 
 
 Nimbleform is a general form without any singular, apparent function; rather, it's useful for all work that requires dexterity and care. For this reason, listeners use it for tasks such as research, art, and raising children. It has no carapace, and less endurance than other forms; singers in nimbleform are physically weaker, grow longer hair, and have thinner, more slender facial features. It does not impede the mind, and in fact encourages greater focus.
@@ -209,25 +209,25 @@ This form was rediscovered by the singers during the [[War of Reckoning\|War of 
 
 #### Mediationform
 >“* Mediationform made for peace, it's said.Form of teaching and consolation.When used by the gods, it became insteadForm of lies and desolation.*”
-\- 33rd stanza of the Song of Listing[72]
+\- 33rd stanza of the Song of Listing[74]
 
 
 Little is known about mediationform; it appears to bestow improved speech capabilities, or better ability to convince or bestow information upon others. Singers in mediationform have smooth, beautiful carapace, and open faces. The head researcher of the listeners, [[Venli\|Venli]], claimed that she was looking for it throughout the [[War of Reckoning\|War of Reckoning]], but in reality, she never truly attempted to rediscover mediationform in the first place, instead searching for stormform.
 
 #### Scholarform
 >“* Scholarform shown for patience and thought.Beware its ambitions innate.Though study and diligence bring the reward,Loss of innocence may be one's fate.*”
-\- 69th stanza of the Song of Listing[74]
+\- 69th stanza of the Song of Listing[76]
 
 
 Though present in the [[Song of Listing\|Song of Listing]], scholarform has only been reclaimed during the [[True Desolation\|True Desolation]]; during the [[War of Reckoning\|War of Reckoning]], listeners used nimbleform as a substitute. It appears to increase one's mental faculty and patience. Physically, it produces long hairstrands and angular features.
 
 #### Artform
 >“* Artform applied for beauty and hue.One yearns for the songs it creates.Most misunderstood by the artist it's true,Come the spren to foundation's fates.*”
-\-90th stanza of the Song of Listing[75]
+\-90th stanza of the Song of Listing[77]
 
 
 >“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract creationspren;These songs suffice 'til we learn.*”
-\-279th stanza of the Song of Revision[76]
+\-279th stanza of the Song of Revision[78]
 
 
 Artform is formed by bonding [[Creationspren\|creationspren]]; as its name implies, it specializes in artistic expression, such as painting or music. Venli claimed to be researching this form to other listeners, though that was most likely a lie. It has not been discovered during the [[War of Reckoning\|War of Reckoning]], but rather returned to the singers through the [[Everstorm\|Everstorm]].
@@ -235,7 +235,7 @@ Artform is formed by bonding [[Creationspren\|creationspren]]; as its name impli
 ### Forms of Power
   A singer in <<Stormform\|stormform>>
 >“*Qualify yourselves for greater service, and you will be elevated to the place of a Regal, given a form of power.*”
-\-Fused propaganda[68]
+\-Fused propaganda[70]
 
 
 Forms of power are attained by bonding a [[Voidspren\|voidspren]] rather than an ordinary spren. Within Odium's army, such singers are referred to as [[Regal\|Regals]]. In contrast to common forms, forms of power bestow explicitly supernatural abilities, such as being able to shoot lightning from one's fingers or speak any language in the world. They can drastically alter one's ways of thinking, such as making people more selfish and callous, and can feel intoxicating. They allow singers to hear and use new rhythms, but make hearing the old ones extremely difficult.
@@ -249,8 +249,9 @@ Forms of power include, among others, [[Stormform\|stormform]], [[Nightform\|nig
 
 
 The term **slaveform** is how listeners describe singers with no [[Spren\|spren]] bond, no form, and vastly limited mental capacity; humans refer to such singers as the **parshmen**. It looks visually similar to dullform, enough so that humans can confuse the two. Slaveform did not exist until after the [[False Desolation\|False Desolation]]. It was created when [[Melishi\|Melishi]] led a strike team to capture [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], who was providing the singers with [[Regal\|Regal]] forms. Though successful, it had an unintended side effect of robbing singers of [[Connection\|Connection]] and [[Identity\|Identity]], and thus creating slaveform.
-Physically, slaveform singers are strong enough to perform physical labor. However, they lack [[Identity\|Identity]] and [[Connection\|Connection]], rendering them mentally stunted. Though seemingly capable of feeling and understanding their situation, they cannot fully comprehend it. Their awareness is dreamlike and they have no capacity to understand fully or act on their feelings. They are capable of processing and understanding orders, and will obey without question. When left on their own, they sit around, not doing anything.
-Despite this, slaveform singers do retain some mental faculty. They can speak, though rarely do so. They care about and are protective of their dead, usually objecting to anyone tending to them. They also care for their young, though they have little capacity to object if separated. The passing of the [[Everstorm\|Everstorm]] has healed the parshmen by restoring their [[Connection\|Connection]] and [[Identity\|Identity]]. As such, this form no longer exists during the [[True Desolation\|True Desolation]].
+Physically, slaveform singers are strong enough to perform physical labor. However, they lack [[Identity\|Identity]] and [[Connection\|Connection]], rendering them mentally stunted. Though seemingly capable of feeling and understanding their situation, they cannot fully comprehend it. Their awareness is dreamlike and they have no capacity to understand fully or act on their feelings. It is described as living in a fog, confused about the world around them. They are capable of processing and understanding orders, and will obey without question. When left on their own, they sit around, not doing anything.
+Despite this, slaveform singers do retain some mental faculty. They can speak, though rarely do so. They care about and are protective of their dead, usually objecting to anyone tending to them. They also care for and love their young, though they have little capacity to object if separated. The passing of the [[Everstorm\|Everstorm]] has healed the parshmen by restoring their [[Connection\|Connection]] and [[Identity\|Identity]]. As such, this form no longer exists during the [[True Desolation\|True Desolation]].
+Many former slaveform singers remember their experiences as slaves, and the limitations that slaveform forced upon them.
 
 ### Exploitation
 Prior to the arrival of the [[Everstorm\|Everstorm]], parshmen are used as slave labor across the entirety of [[Roshar\|Roshar]]. Parshmen slaves are typically more expensive than human ones, due to being naturally obedient and extremely unlikely to attempt an escape. Singers who can successfully birth healthy children are purposefully bred, and often sold off on this basis, even if this requires splitting up families.
@@ -298,7 +299,7 @@ After six years of constant warfare, the listeners, manipulated by one of the [[
 
 ### The new singers
 >“*Can't we simply enjoy being able to **think**? Being able to **exist**?*”
-\-Vldgen[101]
+\-Vldgen[103]
 
 
 The newly restored singers assumed seemingly random forms. Their attitudes were similar to those of the humans they spent their entire lives around -- the [[Alethi\|Alethi]] singers were angry and warlike, the [[Azish\|Azish]] singers wished to negotiate with the government, and the [[Thaylen\|Thaylen]] singers stole ships and sailed away. Most of them, however, were quickly swept up by the [[Fused\|Fused]], who had returned and sought to create new armies with which to conquer Roshar.

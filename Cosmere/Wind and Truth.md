@@ -11,15 +11,23 @@
 
 ## Contents
 
-1 Development. [[#Development]] 
+1 Blurb. [[#Blurb]] 
+2 Development. [[#Development]] 
 
-1. [[#Pre-Publication Content]] 
-1. [[#Concept art]] 
+2. [[#Pre-Publication Content]] 
+2. [[#Concept art]] 
 
 
-2 Cover Gallery. [[#Cover Gallery]] 
-3 Trivia. [[#Trivia]] 
-4 Notes. [[#Notes]] 
+3 Cover Gallery. [[#Cover Gallery]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
+
+
+## Blurb
+>“
+\-Dalinar Kholin challenged the evil god Odium to a contest of champions with the future of Roshar on the line. The Knights Radiant have only ten days to prepare―and the sudden ascension of the crafty and ruthless Taravangian to take Odium’s place has thrown everything into disarray.
+Desperate fighting continues simultaneously worldwide―Adolin in Azimir, Sigzil and Venli at the Shattered Plains, and Jasnah at Thaylen City. The former assassin, Szeth, must cleanse his homeland of Shinovar from the dark influence of the Unmade. He is accompanied by Kaladin, who faces a new battle helping Szeth fight his own demons . . . and who must do the same for the insane Herald of the Almighty, Ishar.
+At the same time, Shallan, Renarin, and Rlain work to unravel the mystery behind the Unmade Ba-Ado-Mishram and her involvement in the enslavement of the singer race and in the ancient Knights Radiants killing their spren. And Dalinar and Navani seek an edge against Odium’s champion that can be found only in the Spiritual Realm, where memory and possibility combine in chaos. The fate of the entire Cosmere hangs in the balance.
 
 
 ## Development

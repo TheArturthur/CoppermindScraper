@@ -44,7 +44,7 @@
 ## Geography
 ### Territories and Features
 #### Territories and borders
-Thalath lies in the south-eastern part of [[Roshar\|Roshar]]. To the north, it borders [[Alethela\|Alethela]] while to the east, it borders [[Natanatan\|Natanatan]]. It also borders the [[Southern Depths\|Southern Depths]] to the south and contains an island close to [[Valhav\|Valhav]] and [[Makabakam\|Makabakam]]. It also borders the [[Tarat Sea\|Tarat Sea]] and contains . The capital, Thaylen city, is located on a large island in the south of the nation.
+Thalath lies in the south-eastern part of [[Roshar\|Roshar]]. To the north, it borders [[Alethela\|Alethela]] while to the east, it borders [[Natanatan\|Natanatan]]. It also borders the [[Southern Depths\|Southern Depths]] to the south and contains an island close to [[Valhav\|Valhav]] and [[Makabakam\|Makabakam]]. It also borders the [[Tarat Sea\|Tarat Sea]] and contains [[Longbrow's Straits\|Longbrow's Straits]]. The capital, Thaylen city, is located on a large island in the south of the nation.
 
 #### Geographic Features
 Most of Thalath lies near the sea, mainly the Tarat sea, the Longbrow's straits and the Southern Depths. Much of Thalath consists of Islands, although the majority is part of the mainland. Thalath has almost no large rivers running through it. The kingdom has a single mountain ranges of note, that being the inner region of the Thaylenah island.
@@ -67,7 +67,7 @@ Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashy
 ### The Establishment of Thalath
   Map of the Silver Kingdoms
 Thalath was founded in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch. Due to the Desolations, the people of Thalath were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]]. Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Thalath.
-Very early in the nation's history  was created and made into its capital. Thaylen city was eventually made into the home of the Thalath Oathgate.
+Very early in the nation's history [[Thaylen City\|Thaylen City]] was created and made into its capital. Thaylen city was eventually made into the home of the Thalath Oathgate.
 
 #### Further Desolations
 The Sixth Epoch lasted at least thirty-one years, and likely significantly longer, before its Desolation arrived.

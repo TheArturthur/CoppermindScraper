@@ -79,11 +79,14 @@ The changes in the koloss and their breeding subsequently allowed some koloss-bl
 Since the koloss are no longer required to fight for anybody, they are able to live longer lives. This allows for the development of koloss ancients, who have little to no skin at all. They are enormous, have no noses or lips, and their eyes appear to bulge. They survive only by wrapping themselves in leather to keep in their blood. While their intelligence is still at the level of the average koloss, they are looked after by the tribe and given respect similar to that of a tribal elder.
 
 ## Culture
+>“*If you want to know a man, dig in his firepit*”
+\-A saying from the Roughs, probably koloss in origin[28]
+
 Because of their diminished intelligence, the Final Empire-era koloss live in barbaric tribes. Usually, social standing is determined by age, because as the koloss age, they get larger and more powerful.
 Koloss are said to have two emotional states: boredom and rage. Because of this, their day to day lives are filled with milling about and fighting. When there is nothing else to fight near them, the koloss turn to in-fighting. Their blades can be used as a means of population control, as well as weaponry. If a koloss doesn't have a sword it feels is of adequate size, it will have to kill another koloss and take its sword. If there are extra swords, the koloss will expect their handlers to make more koloss to take up those swords, and if there are not enough swords, the koloss will kill each other for them until there are.
 Most of the killing within a tribe is done solely on a whim, usually to get something the other koloss owns, or because some random glance or act has enraged one of the koloss.
 After the [[Lord Ruler\|Lord Ruler's]] death, [[Jastes Lekal\|Jastes Lekal]] created some fake wooden coins and by "paying" with the coins, he recruited an army of koloss. The koloss carry the coins in a small sack and would kill each other for them. This is probably caused by the reusing of the spikes which increases their intelligence to the point that they can understand economy values.
-After the Catacendre, some Koloss clans have vowed to not harm [[Terris\|Terris]].
+After the Catacendre, some Koloss clans have vowed to not harm [[Terris\|Terris]]. During this time some of the koloss are ruled by warlords.
 A semi-offensive term for koloss-blooded is "**kig**".
 
 ## Notable Koloss

@@ -10,13 +10,14 @@
 \-Shai's description of the Spiritual Realm[1]
 
 
-The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent. It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things.
+The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent. It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things. Within the Spiritual Realm, Investiture takes on its truest form, and comprises everything within the Realm.
 Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based. Among sentient creatures, this soul is sometimes described as a [[Spiritweb\|spiritweb]]. Several manifestations of [[Investiture\|Investiture]] such as [[/wiki/Gold#Feruchemical Use]] and [[Regrowth\|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
 
 ## Contents
 
 1 Nature. [[#Nature]] 
 
+1. [[#Shards]] 
 1. [[#Space and Time]] 
 1. [[#Spiritwebs]] 
 1. [[#Observation]] 
@@ -38,7 +39,7 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 
 3 Inhabitants. [[#Inhabitants]] 
 
-3. [[#Shards]] 
+3. [[#Shards 2]] 
 3. [[#Potential Other Inhabitants]] 
 
 
@@ -54,13 +55,16 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 
 
 ## Nature
+### Shards
+The Spiritual Realm, including all of the Connections and souls within it, is made up entirely of Investiture, and all of the Investiture which makes it up is part of the body of one of the sixteen Shards. Thus, the Spiritual Realm is made up from and one with the Shards.
+
 ### Space and Time
 >“*He thrust his right hand to the other side, touching something vast, something that wasn’t a place—it was all places in one.*”
-\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[3]
+\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[5]
 
 
 The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [[Investiture\|Investiture]] in the form of [[Spiritweb\|spiritwebs]] and the [[Connection\|Connections]] between them. As such, time and space are "irrelevant" or "compounded into one" in the Spiritual Realm. This timelessness means that the Spiritual Realm breaks causality, but in a controlled way. [[Design\|Design]] remarked that time dilation was easier in the Spiritual Realm because time "flows like water into whatever container you provide".
-Because time is irrelevant, an object's Connection to its past as well as its future can be observed from the Spiritual Realm. Some beings, like [[/wiki/Atium#Allomantic Use]], [[Moelach\|Moelach]], [[Sak\|Sak the Aviar]], and [[Shard\|Shards]] can peer into the Spiritual Realm to gain insight into the future, though some methods are more likely to be successful than others and even some Shards have difficulty seeing the future. It is also possible to see into the past of others via similar means.
+Because time is irrelevant, an object's Connection to its past as well as its future can be observed from the Spiritual Realm. Some beings, like [[/wiki/Atium#Allomantic Use]], [[Moelach\|Moelach]], [[Sak\|Sak the Aviar]], and [[Shard\|Shards]] can peer into the Spiritual Realm to gain insight into the future, though some methods are more likely to be successful than others and even some Shards have difficulty seeing the future. It is also possible to see into the past of others via similar means. Connection is said by some to connect to even time and reality itself.
 Space being compounded means that, unlike the Physical and the Cognitive Realms, the Spiritual Realm has no distinct locations. As a result, "all things are one" in the Spiritual Realm and those with access to the Spiritual Realm, like Shards, can see what is happening on other worlds and can move around the cosmere more easily.
 
 ### Spiritwebs
@@ -74,7 +78,7 @@ Due to its incomprehensible properties, when it is directly observed, it is filt
 ### Properties
 #### Connection
 For more information, see [[Connection\|Connection]].
-Connection is a Spiritual property that describes the relationships between people, objects, and even more abstract concepts. If a person can gain Connection to a region, that Connection will allow them to speak that region's language. Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it. Connection also includes information about bonds between one person and another, such as the [[Nahel bond\|Nahel bond]]. Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation\|False Desolation]] is part of what trapped the [[Singer\|singers]] in [[Slaveform\|slaveform]]. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
+Connection is a Spiritual property that describes the relationships between people, objects, locations, and even more abstract concepts such as time, reality, language, and the Intents of Shards. If a person can gain Connection to a region, that Connection will allow them to speak that region's language. Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it. Connection also includes information about bonds between one person and another, such as the [[Nahel bond\|Nahel bond]]. Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation\|False Desolation]] is part of what trapped the [[Singer\|singers]] in [[Slaveform\|slaveform]]. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
 
 #### Identity
 For more information, see [[Identity\|Identity]].
@@ -86,7 +90,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[47]
+\-Hoid's warning to Shallan[50]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.
