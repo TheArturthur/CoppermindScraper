@@ -1,6 +1,7 @@
 |**Cecil G. Bagsworth III**|
 |-|-|
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]] and [[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[Alcatraz Versus the Evil Librarians\|Alcatraz Versus the Evil Librarians]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Bastille Versus the Evil Librarians\|Bastille Versus the Evil Librarians]]* and *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 

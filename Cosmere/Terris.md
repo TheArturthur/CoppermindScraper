@@ -74,8 +74,9 @@ However, many Terris still maintained an endogamous culture of their own distinc
 They came to be desirable on staff, and especially amongst political cabinets. This is due to the fact that many people believe that it looks good for them to have diversity in their staff, using them for public image alone. Some Terris people have pointed out how this is merely using them as a medal.
 
 ## People
-The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to these factors, it is difficult to tell a Terris person by their skin tone alone. However, in the Post-Catacendre era, due to a mixture of their endogamy, and the fact that most dark skinned people who survived the Catacendre were Terris, they became more associated with darker skin. At least some Terris people are black haired.
-They are also, notably, a rather tall people. Terris people often have a willowy build. Ancient paintings, during the post-Catacendre era, show Terris people with exaggerated elongated features.
+The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to these factors, it is difficult to tell a Terris person by their skin tone alone. However, in the Post-Catacendre era, due to a mixture of their endogamy, and the fact that most dark skinned people who survived the Catacendre were Terris, they became more associated with darker skin.
+At least some Terris people are black haired.
+They are also, notably, a rather tall people. Terris people often have a willowy build. Ancient paintings, during the post-Catacendre era, show Terris people with exaggerated elongated features. Some Terris women wear their hair in a braid, and some men keep their head shaved.
 [[Feruchemy\|Feruchemy]] is passed down through Terris bloodlines.
 
 
@@ -113,7 +114,7 @@ The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to pr
 
 #### Post-Catacendre Religion
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
-\- Tellingdwar giving the evening recitation[27]
+\- Tellingdwar giving the evening recitation[28]
 
 Post-Catacendre religious practices changed from the pre-First Ascension practices. Though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.

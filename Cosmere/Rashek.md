@@ -15,11 +15,16 @@
 \-Rashek's words after Lord Prelan Tevidian Tekiel's death.[6]
 
 
-**Rashek** is a [[Terrisman\|Terrisman]] from [[Scadrial\|Scadrial]]. Known as the **Lord Ruler**, the **Sliver of Infinity** and the **Father**, he has access to the full range of abilities of both a [[Feruchemist\|Feruchemist]] and an [[Allomancer\|Allomancer]], and has [[Hemalurgic\|Hemalurgic]] spikes in his body. As a result, he is an extremely powerful [[Compounding\|Compounder]], and he was able to unify much of the world into an empire that lasted for around one thousand years.
+**Rashek** is a [[Terrisman\|Terrisman]] from [[Scadrial\|Scadrial]]. Known as the **Lord Ruler**, the **Sliver of Infinity** and the **Father**, he has access to the full range of abilities of both a [[Feruchemist\|Feruchemist]] and an [[Allomancer\|Allomancer]], and has [[Hemalurgic\|Hemalurgic]] spikes in his body. As a result, he is an extremely powerful [[Compounding\|Compounder]], and he was able to unify much of the world into an empire that lasted for over a millennium.
 
 ## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
+
+1. [[#Appearance]] 
+1. [[#Personality]] 
+
+
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 
@@ -36,10 +41,19 @@
 
 ## Appearance and Personality
  
+>“*I am God, *God* cannot be killed, *God* cannot be overthrown. Your rebellion—you think I haven’t seen its like before? You think I haven’t destroyed entire armies on my own? What will it take before you people stop questioning? How many centuries must I prove myself before you *idiot* skaa see the truth? How many of you must I kill!*”
+\- Rashek[3]
+
+### Appearance
 For more images, see [[Rashek/Gallery\|/Gallery]].
-Rashek is tall, handsome and charismatic, with pale skin and black hair. He wears black and white clothing that resembles an exaggerated nobleman's suit, with a coat that runs down to his feet and trails behind him and a black vest accented with white markings. He also wears several rings, both as show of his wealth and as [[Feruchemical\|Feruchemical]] storage.
+Rashek is tall, handsome and charismatic, with pale skin and black hair. He wears black and white clothing that resembles an exaggerated nobleman's suit, with a coat that runs down to his feet and trails behind him and a black vest accented with white markings. He also wears several rings, both as show of his wealth and as [[Feruchemical\|Feruchemical]] storage. Before his Ascension, his handsomeness was described as being of a rugged sort by Alendi.
+After the Catacendre, he is often depicted as having long hair, and wearing a cloak that extends behind him into eternity. He is also depicted wearing intricate bracers in a fanciful pattern, the [[Bands of Mourning\|Bands of Mourning]].
+
+### Personality
 He enjoys playing and listening to music and keeps a small wooden flute among his [[Terris\|Terris]] relics.
-Prior to his Ascension, he disliked the people of [[Khlennium\|Khlennium]], and was hostile and angry towards them, despite never having been to the state, because of their oppression of the Terris people. Though he hated them, he also envied several aspects of their culture, later incorporating them into the culture of the [[Final Empire\|Final Empire]].
+Prior to his Ascension, he disliked the people of [[Khlennium\|Khlennium]], and was hostile and angry towards them, because of their oppression of the Terris people. His hatred was furthered when Alendi, a Khlenni man, was chosen as the Hero. For he could not stand one of his oppressors becoming the hero of Rashek's own people's prophecy. Though he hated them, he also envied several aspects of their culture, later incorporating them into the culture of the [[Final Empire\|Final Empire]].
+Before his Ascension, he wished to save the world from the Deepness, and this motivated his actions during his Ascended state. He continued to want to save the world, waiting for the Well to refill so he could reverse his prior mistakes. Despite this desire to save the world from its state during the Age of Ash, Rashek came to see the world as undeserving of salvation. While wishing to undo his actions and their effect on the world and its people, he does not think of them as a mistake. Furthermore, he claims that he has never made a mistake.
+Following his brief Ascension, he has come to truly see himself as God, and formed an imperial religion around his worship. He believes himself to be immortal and undefeatable, and deems any who stand before him to be idiots who don't realize the truth. He believes that he gave great things to the world and mankind, and thus he becomes infuriated when those that serve him betray him, seeing it as deep ungratefulness.
 Towards the end of his life he grew extremely weary of the world and appeared resigned in almost every interaction he had with others, likely due to his immense age rendering every experience trivial and taxing. Rashek treated those who stood against him with disdain and was unconcerned when a rebellion was approaching his palace, instead finding it annoying that he would have to go through the trouble of killing hundreds of skaa personally.
 
 ## Attributes and Abilities
@@ -73,7 +87,7 @@ Only a couple of years before the Well of Ascension was due to refill, [[Vin\|Vi
 
 ### Time In the Cognitive Realm
 >“*Only a year left. So close. I would have again ransomed this undeserving planet.*”
-\-Rashek to Kelsier and Leras[60]
+\-Rashek to Kelsier and Leras[17]
 
 
 A Sliver of Preservation due to his time holding the power of the Well, Rashek did not immediately pass on to the [[Beyond\|Beyond]] after his death. Once his spirit manifested in the [[Cognitive Realm\|Cognitive Realm]], he went to the location of the Well where he found [[Kelsier\|Kelsier]] and the remnants of [[Leras\|Leras]]. He spoke briefly to Kelsier, dismissing him and Leras as impotent annoyances. Rashek was annoyed that he had been killed before he had been able to collect the power of the Well a second time. Kelsier attempted to confront him about the source of his powers, while Rashek touched the power emanating from the Well, examining it before disdainfully stating that he would not remain behind in their company and departing for the Beyond.
@@ -88,16 +102,8 @@ A Sliver of Preservation due to his time holding the power of the Well, Rashek d
 \-Tevidian arguing against Rashek about the skaa rebels[6]
 
 
->“***God** cannot be killed. **God** cannot be overthrown. Your rebellion—you think I haven't seen its like before? You think I haven't destroyed entire armies on my own? What will it take before you people stop questioning? How many centuries must I prove myself before you **idiot** skaa see the truth? How many of you must I kill!*”
-\- Rashek[3]
-
-
 >“*You don't know what I do for mankind. I **was** your god, even if you couldn't see it. By killing me, you have doomed yourselves...*”
 \-Rashek's final words[3]
-
-
->“*He suffered much beneath Ruin's hand, but he was a good man, who ultimately had honorable intentions.*”
-\-Sazed on Rashek's corruption by Ruin. A note on the reverse of the flower picture in a book written by Sazed after his ascension.[61]
 
 
 ## Trivia

@@ -79,6 +79,7 @@ Due to its incomprehensible properties, when it is directly observed, it is filt
 #### Connection
 For more information, see [[Connection\|Connection]].
 Connection is a Spiritual property that describes the relationships between people, objects, locations, and even more abstract concepts such as time, reality, language, and the Intents of Shards. If a person can gain Connection to a region, that Connection will allow them to speak that region's language. Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it. Connection also includes information about bonds between one person and another, such as the [[Nahel bond\|Nahel bond]]. Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation\|False Desolation]] is part of what trapped the [[Singer\|singers]] in [[Slaveform\|slaveform]]. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
+Due to the timeless qualities of the Spiritual Realm, Connection is capable of Connecting one to both the past and the future.
 
 #### Identity
 For more information, see [[Identity\|Identity]].
@@ -90,7 +91,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[50]
+\-Hoid's warning to Shallan[52]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.

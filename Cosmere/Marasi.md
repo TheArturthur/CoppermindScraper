@@ -21,7 +21,7 @@
 \-Marasi[2]
 
 
-**Marasi Colms** is a [[Pulser\|Pulser]] on [[Scadrial\|Scadrial]]. Marasi is a constable in the [[Elendel\|Elendel]] constabulary under Constable-General [[Reddi\|Reddi]]. Marasi previously studied law and is a friend of [[Wax\|Wax]], [[Wayne\|Wayne]], and [[MeLaan\|MeLaan]], among other important cultural figures of the time.
+**Marasi Colms** is a [[Pulser\|Pulser]] on [[Scadrial\|Scadrial]]. Marasi is a constable in the [[Elendel\|Elendel]] constabulary under Constable-General [[Reddi\|Reddi]]. Marasi previously studied law and is a friend of [[Wax\|Wax]], [[Wayne\|Wayne]], and [[MeLaan\|MeLaan]], among other important cultural figures of the time. She is sometimes called **Mara** by Wayne.
 
 ## Contents
 
@@ -47,7 +47,7 @@
 ## Appearance and Personality
  
 >“*To be of use in even a single burst of flame and sound is worth more than a lifetime of achieving nothing.*”
-\-Marasi[5]
+\-Marasi[6]
 
 
 For more images, see [[Marasi Colms/Gallery\|/Gallery]].
@@ -65,7 +65,7 @@ She can speak some ancient [[Terris\|Terris]] and understands [[High Imperial\|H
  
 ### Early Life
 >“*I have spent most of my life being politely told I was useless. Useless to my father because of my birth; useless as an Allomancer; useless to Steris, as I was an embarrassment.*”
-\-Marasi[5]
+\-Marasi[6]
 
 
 Marasi Colms was born as the illegitimate child of [[Jackstom Harms\|Jackstom Harms]], making her a half sister to [[Steris\|Steris]]. Throughout her childhood, she was constantly reminded that she was useless to her family, useless as an heir due to her illegitimacy, and useless as an Allomancer due to the few uses for slowing down time. As a result, she developed a strong desire to be important and accomplished in the world. Marasi also came to be fascinated by criminals and lawkeepers, based on an interest in how a person from a normal background could grow up to be so much more or less moral than the people around them, and was inspired by stories about Wax's exploits in the [[Roughs\|Roughs]]. These two desires culminated in her deciding to study at a university in Elendel, so she moved to the city with the support of her father. She, Steris, and Lord Harms hid her illegitimacy by pretending that she was Steris's cousin from the [[Outer Estates\|Outer Estates]].

@@ -47,6 +47,7 @@ Dalinar will play a larger role than in *Rhythm of War*.
 Szeth will be the focus character.
 More of Roshar's queer characters will be canonized in the book, including Renarin and Rlain.
 The planned ending was based upon the ending he planned out for an RPG in 1999, and has been in the outline from the start. Brandon hopes that it will land right with people and recontextualize many important moments in the series.
+The Intent of the last shard will be revealed in the book.
 The old Vorin philosophy of body focus will be relevant for a small thing happening in this book.
 ### Concept art
 A couple of pieces of concept art were commissioned by Dragonsteel for the book.

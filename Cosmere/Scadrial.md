@@ -21,8 +21,12 @@
 
 1 Geography & Ecology. [[#Geography .26 Ecology]] 
 
-1. [[#Astronomy]] 
+1. [[#Astronomy and Geology]] 
 1. [[#Classical Scadrial]] 
+
+1. [[#Nations]] 
+
+
 1. [[#The World of Ash]] 
 1. [[#Post-Catacendre Scadrial]] 
 
@@ -76,14 +80,31 @@
 
 
 ## Geography & Ecology
-### Astronomy
+### Astronomy and Geology
 Scadrial has a radius of 1 cosmere standard, and gravity of 1 cosmere standard. Its semi-major axis and orbital period differs depending on the era, with Classical and Post-Catacendre Scadrial having a greater semi-major axis and orbital period than Anteverdant Scadrial.
 Scadrial has no major moons.
 Scadrial, and the Scadrian system, are part of The Giver constellation.
 
 ### Classical Scadrial
-Before the Lord Ruler took the power at the [[Well of Ascension\|Well of Ascension]], Scadrial had a blue sky, clouds, a yellow sun, flowers, green plants, and animals such as horses.
+Before the Lord Ruler took the power at the [[Well of Ascension\|Well of Ascension]], Scadrial had a blue sky, clouds, a yellow sun, flowers, green plants, and animals such as horses. During this era of Scadrial, the magnetic and geographic poles were in the same location.
 Classical Scadrial technology was at an early industrial era.
+
+#### Nations
+During this era of Scadrial, the land was separated into many diverse cultures and nations, not all of which are currently known.
+
+
+Ancient [[Terris\|Terris]]
+The [[Astalsi\|Astalsi]]
+The [[Canzi\|Canzi]]
+The [[Khlenni\|Khlenni]]
+The [[Urtan\|Urtan]]
+The [[Hallant\|Hallant]]
+The [[Bennet\|Bennet]]
+The [[Cazzi\|Cazzi]]
+The [[Larstaism\|Larsta]]
+[[Darrelnai\|Darrelnai]]
+The ‘fiery empire of the West’
+The 'isles in the south'
 
 ### The World of Ash
   Scadrial during the Final Empire
@@ -145,7 +166,7 @@ The people to the south are highly advanced. This is mentioned by [[Harmony\|Har
 ## History & Mythology
 ### Creation of Scadrial
 >“*This, then, was their bargain. Preservation got mankind, the only creations that had more Preservation than Ruin in them, rather than a balance. Independent life that could think and feel. In exchange, Ruin was given a promise—and proof—that he could bring an end to all they had created together. It was the pact.*”
-\-Sazed's explanation of the creation of mankind on Scadrial[19]
+\-Sazed's explanation of the creation of mankind on Scadrial[30]
 
 Millennia ago, the [[Shard\|Shards]] [[Ruin\|Ruin]] and [[Preservation\|Preservation]] arrived in the [[Scadrian system\|Scadrian system]], deliberately choosing a star with no relevant planets, and created Scadrial. Since they were paired Shards with opposite intents, nothing could be created or destroyed, as they wished it could be. They were locked in an eternal conflict. But then a pact was struck. Preservation offered Ruin a bargain. If Ruin would help him create life on Scadrial, to make plants and animals, Preservation would eventually allow him to destroy the whole planet. In addition to his word, Preservation offered him proof that Ruin could destroy everything. Preservation's greatest wish was to create sentient life, humans patterned after the other humans [[Ati\|Ati]] and [[Leras\|Leras]] had once known on [[Yolen\|Yolen]]. All of life on Scadrial was modeled after the non-fain parts of Yolen. In order to create humans with a spark of intelligence, it would require a small amount more of Preservation's power than Ruin's. This made Preservation slightly weaker, meaning Ruin would eventually overcome his opposite, and destroy Scadrial. However, Preservation decided to break the agreement, in order to save the world. He couldn't overcome Ruin with his power, he was too weak. So Preservation decided to trap Ruin's mind in a prison, where Ruin would be practically powerless. In order to trap Ruin's mind Preservation used his own mind to forge the prison, sacrificing his cognition for the greater good.
 The first humans on Scadrial were created without parents, and, in a way, Preservation and Ruin can be considered their parents.
@@ -161,7 +182,7 @@ Kwaan, the man who first brought Alendi before the Conclave of Worldbringers, no
 However, Alendi had still failed to stop the Deepness, and there was only one hope, the [[Well of Ascension\|Well of Ascension]]. As the power returned to the Well, Alendi could hear the pulses because he was a Seeker. He hoped that giving up the power would stop the Deepness. Kwaan knew that Alendi mustn't be allowed to reach the Well, for he knew that giving up the power was just what Ruin wanted. Kwaan's only hope to stop Alendi was his nephew [[Rashek\|Rashek]], a Feruchemist who hated Alendi, and the nation of Khlennium from which he hailed. Kwaan commanded his nephew to become Alendi's pack man, and to attempt to mislead on his way to the Well. If Rashek failed at that, Kwaan asked him to kill Alendi. The last remnant of Leras' mind, in the form of the mist spirit, was also doing its best to stop Alendi. [[Ruin\|Ruin]], however, made Alendi distrust the spirit by impersonating it and stabbing Alendi's companion [[Fedik\|Fedik]] when he became too interested in [[Ruin's Perpendicularity\|Ruin's Perpendicularity]]. Ultimately, Rashek failed to lead Alendi astray and killed him. At that point, Rashek himself took the power at the Well of Ascension and refused to give it up, denying Ruin his chance at freedom.
 
 >“*The subtlety displayed in the ash-eating microbes and enhanced plants shows that Rashek got better and better at using the power. It burned out in a matter of minutes—but to a god, minutes can pass like hours. During that time, Rashek began as an ignorant child who shoved a planet too close to the sun, grew into an adult who could create ashmounts to cool the air, then finally became a mature artisan who could develop plants and creatures for specific purposes.*”
-\-Sazed's reflections on Rashek's use of the Well of Ascension[41]
+\-Sazed's reflections on Rashek's use of the Well of Ascension[50]
 
 While holding the power, Rashek's mind was expanded, but he wasn't accustomed to such great power and had no experience with using it. Rashek attempted to destroy the Deepness by moving Scadrial closer to its star, in order to burn away the mists. Unfortunately Scadrial's new location was too hot for life, so Rashek moved it further away from its parent star, which left the planet too cold. Rashek then moved it closer to the star again, but it was still too hot. Having no point of reference for where the planet should go, Rashek elected to leave it too close to the star. He began working retroactively to fix problems he had created himself, because the intent of Preservation, whose power made up the Well, was affecting him. To counter the increased heat, he made the Ashmounts, volcanoes which pumped gas and ferromagnetic ash into the air. These shaded the land near the north pole, which was one of two relatively cool places remaining on Scadrial, the other being the south pole. Gas from the Ashmounts also made the atmosphere thicker, which raised temperatures in the rest of the world, turning it even hotter. This resulted in a massive desert called the Burnlands covering most of the planet. Rashek realized that the ash from the Ashmounts would eventually bury the whole land. He thus created plants and microbes that broke down the ash. When Rashek altered the humans of the north pole to make them able to survive in a world so full of ash, he worried that the changes he made to their physiology would kill them. He left some of the humans on Scadrial unaltered, as a control, and moved them to the relatively cool area near the south pole. He gave them an unknown method to survive there. Rashek also wished to disguise the location of the Well, so he flattened the Terris mountains, moved them south from the pole, and raised new mountains in the north to disguise what had happened.
 Rashek also was granted an understanding of the Metallic Arts. Ruin whispered to Rashek the secrets of how to make koloss and Inquisitors, servants that Ruin hoped to take control of himself later on. Rashek realized that the Feruchemists of his homeland would be difficult to control because of the knowledge of their copperminds. They wouldn't accept him as their leader because he had murdered their Hero, Alendi. So Rashek offered a bargain to his fellow pack men and his uncle Kwaan. He would grant them immortality, in exchange for their Feruchemy and humanity. Rashek's packmen accepted his proposal, but Kwaan refused saying it was a betrayal of who the Terris were as a people. Using the power of Preservation, Rashek changed his friends and every other living Feruchemist into a mistwraith, but he attempted to destroy Kwaan, which he couldn't do with the power of Preservation, so Kwaan remained the same. Using the secrets of Hemalurgy, Rashek returned his companions to sentience, using spikes to change them from mistwraiths into kandra. After this, the last of Rashek's power faded, and he returned to his regular state of existence, although he was now a Sliver of Preservation. Rashek made himself a [[Allomancy\|Mistborn]], which allowed him to live forever by [[Compounding\|Compounding]] [[Atium\|atium]]. He planned to survive until Preservation's power returned to the Well of Ascension, so that he could take it up again and prevent Ruin from escaping. Rashek began calling himself the Lord Ruler, and began his quest to reconquer what was left of Scadrial.
@@ -212,7 +233,7 @@ Vin eventually caught onto Ruin's ploys, and would not find the atium for him. B
 
 ### The Battle of Hathsin
 >“*Preservation could never destroy you! He could only protect. That's why he needed to create humankind. All along, Ruin, this was part of his plan!*”
-\-Vin to Ruin[69]
+\-Vin to Ruin[78]
 
 
 Upon Vin's ascension, she tried to oppose Ruin, but learned that she could not do much, for Ruin would oppose her. Ruin finds out where his atium is being hidden and attempts to recover it, as without it he is weaker than normal. All koloss under Ruin's control flock to the site of the [[Battle of Hathsin\|Battle of Hathsin]] and attack those taking refuge there. On the ground, Elend and Sazed discovered the atium, and realize that those who were taken by the mists who were sick for the longest period of time are [[Seer\|Seers]], or atium Mistings. Ruin immediately sent his forces to destroy them, but the Seers use their newfound powers to fend off the koloss as well as weaken Ruin. Ruin, through Marsh, killed Elend, and Vin realized Preservation's plan. Preservation needed someone who could preserve, but also destroy, and Preservation was too touched by his Shard to destroy Ruin. Vin knew she had little left to live for without Elend, and so, directly attacked Ruin with her power. She pressed in, not shying back, and in the assault, killed Ruin and herself in the process.

@@ -61,8 +61,10 @@
 \-Harmony[1]
 
 
-Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. For her followers, she seeks those who are capable of surviving on their own and defying the odds. Her philosophy is very much focused on the survival of the fittest. Under Autonomy's world order, one must earn their right to keep existing.
-However, this doesn't stop Autonomy from meddling in affairs of others. On the micro scale, she dictates how exactly people are allowed to express their individualism, requiring that each of them fit in her major plan in the way she, rather than they, have decided. On the macro scale, she often intervenes with her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
+Autonomy is ultimately an Intent about individualism, self-actualization, and creative self-expression. It also promotes survival of the fittest and the competitive exclusion principle, likely as the natural manifestation of its Intent.
+Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. Due to this, she is driven to divide off from the other Shards. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. For her followers, she seeks those who are capable of surviving on their own and defying the odds. Her philosophy is focused on the survival of the fittest. Under Autonomy's world order, one must earn their right to keep existing. Due to her belief in Autonomy, she rewards even those that go against her, if they are successful.
+However, this doesn't stop Autonomy from meddling in affairs of others. She often intervenes with her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
+It is unknown if her heteronomous inclinations are an aspect that arises purely from her Intent, or if it arises from how she personally manifests the Intent.
 
 ## Associated Magics
   <<Kenton\|Kenton>> using sand mastery
@@ -83,7 +85,7 @@ Aviar are a type of birds on the planet of [[First of the Sun\|First of the Sun]
 ### Avatars
   <<Pantheon\|Pantheon>>, home of the <<Aviar\|aviars>> and the avatar <<Patji (being)\|Patji>>
 >“*Autonomy is trying to outcompete the others by filling the cosmere with versions of herself. Crowd out the competition, so to speak.*”
-\-Moonlight[8]
+\-Moonlight[7]
 
 
 Like all Shards, Autonomy is able to create avatars—semi-autonomous entities that wield a portion of Autonomy's power without being wholly separate from Autonomy herself. Autonomy creates two types of avatars. One type are pieces of Autonomy that have been allowed to gain their own sentience, becoming effectively alternate identities of herself. The other are Physical beings that have been granted the use of a portion of Autonomy's power, and becoming a [[Sliver\|Sliver]] of her. Physical avatars benefit from becoming Invested, granting them immortality, as well as incredible healing and resilience. However, they require a [[Connection\|Connection]] to Autonomy herself in order to benefit from their status as an avatar; interrupting and cutting off that Connection leads them to lose the power. While they are connected and begin to become a sliver, they also begin to take on Autonomy's intent, similar to full [[Shard\|Shard]] wielders.
@@ -102,14 +104,14 @@ When trellium is brought into contact with superheated harmonium, it causes a ma
 
 ### Faceless Immortals
 >“*They didn't understand, couldn’t understand. The Set had Faceless Immortals of its own.*”
-\-Edwarn Ladrian[33]
+\-Edwarn Ladrian[34]
 
 
 Autonomy appears to have the ability to take control of living bodies, even as far as on [[Scadrial\|Scadrial]]. It is unclear what her limitations are, or if there is any requirement the person must fulfill before Autonomy can use them; it is likely that it requires [[Connection\|Connection]] to Autonomy, and possibly the presence of trellium. When people are under Autonomy's control, she can make them move to their wish and speak what she wants; they can be recognized as hers by red glow in their eyes. The [[Set\|Set]] calls them their "Faceless Immortals"; they do not appear aware of the Immortals' true nature. It's unclear if Autonomy can return the body under the control of its original owner, or if the person is still aware of themselves while Autonomy is in control.
 
 ### Perpendicularity Control
 >“*There are planets where Autonomy has created such portals unexpectedly, and against all understood mechanics.*”
-\-Moonlight[34]
+\-Moonlight[35]
 
 
 Autonomy seems to have mastered control over [[Perpendicularity\|perpendicularities]]. She has barred access to [[Taldain\|Taldain]] through the [[Cognitive Realm\|Cognitive Realm]], locking any native worldhoppers out of their own homeland. On other worlds, she has shown the ability to create artificial, temporary perpendicularities; the methods by which she does so are unknown to cosmere scholars and appear to break the known laws of [[Realmatic Theory\|Realmatic Theory]].
@@ -134,7 +136,7 @@ Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with O
 ### Trell
 #### The Set
 >“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
-\-Miles Hundredlives[44]
+\-Miles Hundredlives[45]
 
 
 At some point following the [[Catacendre\|Catacendre]], Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals. Autonomy's initial plan for dealing with this was the creation of [[Set\|Set]], a secret society that resurrected the long-dead religion of [[Trelagism\|Trelagism]] as [[Trellism\|Trellism]]. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals".
@@ -162,7 +164,7 @@ Autonomy will often seed these religions on various planets—including those al
 
 ### Technological and Cultural Control
 >“*She claims she wants everyone to be individual. Gives them each a little house that is distinctive from the others, but only in a way that fits her plan, her desires. It's fake individualism. A corporate uniqueness. Like an advertisement telling people to go their own way, be their own person—by buying this product like everyone else.*”
-\-Moonlight[8]
+\-Moonlight[7]
 
 
 Autonomy has consistently shared her Shardic knowledge of advanced physics and technology with her people. This has led to [[Taldain\|Taldain]] becoming one of cosmere's most technologically-advanced worlds, and the fastest to advance. However, Autonomy has at the same time insisted on stopping Taldain from developing further than she desires, and has meddled in the planet's cultural and political development from ancient times, including manipulating specific individuals in an attempt to divide faith in the Sand Lord and destroy the [[Diem\|Diem]] should they prove unworthy to survive.
@@ -170,7 +172,7 @@ Presently, Autonomy has effectively isolated Taldain from the rest of the cosmer
 
 ### Interplanetary Conflicts
 >“*Autonomy has access to … some very specialized troops. Hard to control. Dangerous to unleash.*”
-\-TwinSoul[34]
+\-TwinSoul[35]
 
 
 Autonomy herself interferes directly in a number of cosmere's worlds. She might have aided Odium in killing and splintering [[Devotion\|Devotion]] and [[Dominion\|Dominion]] among other [[Shards\|Shards]]. She has been taking over multiple worlds through her avatars, with [[First of the Sun\|First of the Sun]], [[Obrodai\|Obrodai]] and [[Scadrial\|Scadrial]] being known to host her avatars at one point or another. On Scadrial in particular, through her persona of Trell, Autonomy can outright blind [[Harmony\|Harmony]] and attempt to bring destruction to the planet as part of her plan to prevent the rise of Scadrial as an interstellar power. She appears to be influencing Roshar to an unknown degree.

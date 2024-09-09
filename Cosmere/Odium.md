@@ -63,11 +63,12 @@
 \-Rayse[2]
 
 
-The Shard of Odium is even harder to control than [[Ruin\|Ruin]]. The word "odium" means the state or fact of being subjected to hatred and contempt as a result of a despicable act. However, interpretation of the Shard's intent is not as simple. [[Frost\|Frost]] claims a straightforward definition: that it is God's own divine hatred. Rayse himself, however, claims that he's Passion, a Shard of emotions, in particular excessive emotions. Upon Ascension, Taravangian grappled with the vicious urge to destroy and burn. Many of his [[Splinter\|splinters]], the [[Unmade\|Unmade]] compel people to give in to powerful sensations - [[Ashertmarn\|Ashertmarn]] compels people to revel mindlessly, and [[Nergaoul\|Nergaoul]] inspires exultation in battle. On the other hand, the overwhelming amount of emotions inspired by Odium are hateful, among them the aforementioned [[Thrill\|Thrill]] and the [[/wiki/Singer#Rhythms]] of Odium-derived [[Singer\|singer]] forms. Moreover, Odium's influence sometimes promotes apathy rather than passion, as his followers are encouraged to give up their pain and sense of guilt.
+The Shard of Odium is even harder to control than [[Ruin\|Ruin]]. Odium is considered the Shard of hatred. However, interpretation of the Shard's intent is not as simple. [[Frost\|Frost]] claims a straightforward definition: that it is God's own divine hatred. Rayse himself, however, claims that he's Passion, a Shard of emotions, in particular excessive emotions. Upon Ascension, Taravangian grappled with the vicious urge to destroy and burn. Many of his [[Splinter\|splinters]], the [[Unmade\|Unmade]] compel people to give in to powerful sensations - [[Ashertmarn\|Ashertmarn]] compels people to revel mindlessly, and [[Nergaoul\|Nergaoul]] inspires exultation in battle. On the other hand, the overwhelming amount of emotions inspired by Odium are hateful, among them the aforementioned [[Thrill\|Thrill]] and the [[/wiki/Singer#Rhythms]] of Odium-derived [[Singer\|singer]] forms. Moreover, Odium's influence sometimes promotes apathy rather than passion, as his followers are encouraged to give up their pain and sense of guilt.
+When the Shard was viewed by Dalinar, it was described as being the lives and emotions of all men compounded into one. Furthermore, [[Taravangian\|Taravangian]] experienced a strong Connection to Odium when he was in a state of heighted emotions.
 Odium likes questions and arguments, which conflicts with Rayse's own hatred of being questioned.
 
 >“*He hates Honor. Well, I guess he hates everything. It’s kind of in the name....*”
-\-Adolin to Shallan[21]
+\-Adolin to Shallan[20]
 
 [[Rayse\|Rayse]] has a tendency towards self-deception, and apart from him, everyone understands Odium as being the Shard of hatred. While it's possible for a Vessel to influence a Shard to an extent, Odium's declaration of being Passion should not be taken at face value. It has been noted that while Odium claims to be Passion, that passions other than hatred, such as love, are absent from the emotions inspired in his followers.
 Apart from the issue of the Shard's nature, Rayse desired to become the sole god of the [[Cosmere\|cosmere]]. Whether this is due to the Vessel or the Shard is unknown.
@@ -101,7 +102,7 @@ The Fused can use Voidlight to heal themselves, as well to fuel their use of [[S
 
 ### Passions
 >“*I DO NOT THINK THAT IS TRUE, VYRE, THOUGH I UNDERSTAND WHY YOU THINK IT SO. I FEEL YOUR PASSIONS, AS THEY ARE MINE. I UNDERSTAND YOU.*”
-\-Odium speaking to Moash[43]
+\-Odium speaking to Moash[42]
 
 
 By Connecting with someone, Odium is able to take away their negative emotions and passions, including fear, anger, pain, and insecurities. When negative emotions arise, they are quickly sucked away by Odium, leaving the person feeling nothing. This Connection can be disrupted, allowing the person to feel their pain in full.
@@ -120,7 +121,7 @@ Although Odium was successful in these initial conflicts, he was weakened and se
 Next, over seven-thousand Rosharan years before the True Desolation, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. It can be assumed that Odium was crucial in the breakdown of the relations between the two species. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
 
 >“*I am … I was … God. The one you call the Almighty, the creator of mankind. And now I am dead. Odium has killed me. I am sorry.*”
-\-Honor[62]
+\-Honor[61]
 
 Honor fought Odium with assistance from Cultivation, and the two bound him to one of the system's planets, [[Braize\|Braize]], and somehow also prevented him from acting directly against most individuals on Roshar. Honor additionally crafted the [[Oathpact\|Oathpact]], which would use the Heralds to imprison Odium's forces on Braize along with their master. However, Odium was a much better fighter, and [[Honor\|Honor]] was killed, though he inflicted a deep wound on Odium.
 
@@ -140,7 +141,7 @@ Dalinar and Odium spoke once more in a different vision, after Dalinar attempted
 #### Battle of Thaylen Field
 For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 >“*No. No, we killed you. WE KILLED YOU !*”
-\-Odium upon seeing Honor's Perpendicularity[76]
+\-Odium upon seeing Honor's Perpendicularity[75]
 
 
 Odium decided to lead his forces on [[Thaylen City\|Thaylen City]] personally, although he didn't intend to use the plain [[Singer\|singers]] in battle. He first sent a pair of [[Thunderclast\|thunderclasts]], one to destroy the city walls, and the other to get to the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], along with [[Fused\|Fused]] to ensure that the [[King's Drop\|King's Drop]] wouldn't fall into the wrong hands. Then, Odium used [[Nergaoul\|Nergaoul]] and the Alethi dependence on the [[Thrill\|Thrill]] to possess the [[Sadeas princedom\|Sadeas princedom]] forces in the city and make them turn against their own allies.

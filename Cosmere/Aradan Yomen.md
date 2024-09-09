@@ -13,7 +13,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
-**Aradan Yomen** is an [[Obligator\|obligator]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. He is an [[Atium\|atium]] [[Misting\|Misting]] (aka a [[Seer\|Seer]]).
+**Aradan Yomen** is an [[Obligator\|obligator]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. After the Catacendre, he is often called the **Last Obligator**. He is an [[Atium\|atium]] [[Misting\|Misting]] (aka a [[Seer\|Seer]]).
 
 ## Contents
 

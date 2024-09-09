@@ -36,6 +36,7 @@
 2. [[#Allomancy]] 
 2. [[#Steel Inquisitor]] 
 2. [[#Agent of Harmony]] 
+2. [[#Mythological powers]] 
 
 
 3 History. [[#History]] 
@@ -91,6 +92,9 @@ Marsh has some way to walk around without being noticed by people, he claims it 
 
 ### Agent of Harmony
 Occasionally, [[Harmony\|Harmony]] Invests him with His power, so he could help guide souls off into the [[Beyond\|Beyond]]. It is unknown if he was ever Invested enough to become a [[Sliver\|Sliver]].
+
+### Mythological powers
+Marsh, as god of death, is believed to be able to awaken corpses from the dead.
 
 ## History
 ### Pre Catacendre

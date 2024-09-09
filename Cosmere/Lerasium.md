@@ -43,7 +43,7 @@ When used as a Hemalurgic spike, lerasium steals all abilities, such as strength
 ## History
 Lerasium was created by Leras. [[Rashek\|Rashek]] collected the beads, after taking the power of Preservation at the [[Well of Ascension\|Well of Ascension]], and used them to entice foreign kings to become his allies. He left two beads near the Well, for reasons unknown.
 However, neither of these beads were used prior to the fall of the Final Empire. One bead was fed to [[Elend\|Elend]] to save his life after being attacked by Leras, whose hand was directed by [[Kelsier\|Kelsier]], in an attempt to prevent Vin from releasing Ruin from the Well. The other was stolen and consumed by [[Hoid\|Hoid]], after he used the Well to transition from the Cognitive Realm to the Physical.
-[[Waxillium Ladrian\|Wax]] was later able to split ettmetal using [[Trellium\|trellium]] to create more lerasium, which was later used by Wax and [[Wayne\|Wayne]], creating the first known Mistborns since the [[Spook\|Lord Mistborn]] right after the [[Catacendre\|Catacendre]]. [[Kelsier\|Kelsier]] wishes to use it to create an army of Mistborn to fight against the armies of [[Autonomy\|Autonomy]], though Harmony rejects these plans.
+[[Waxillium Ladrian\|Wax]] was later able to split ettmetal using [[Trellium\|trellium]] to create more lerasium, which was later used by Wax and [[Wayne\|Wayne]], creating the first known Mistborn since the [[Spook\|Lord Mistborn]] right after the [[Catacendre\|Catacendre]]. [[Kelsier\|Kelsier]] wishes to use it to create an army of Mistborn to fight against the armies of [[Autonomy\|Autonomy]], though Harmony rejects these plans.
 
 ## Trivia
 If [[Harmony\|Harmony]] wanted to, he could produce more lerasium.

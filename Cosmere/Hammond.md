@@ -81,7 +81,7 @@ He was responsible for making Elend decide not to release the [[Koloss\|Koloss]]
 Ham fought in [[Fadrex City\|Fadrex City]] and tried to follow to fight in Luthadel until the [[Catacendre\|Catacendre]] which he survived, and finally reunited with his family.
 
 ### Legacy
-The details of Ham's life after the Catacendre are unknown. He is the only member of the [[Preservers\|Preservers]] without a known honorific title, but his legacy is visible in the names of [[Hammondar Bay\|Hammondar Bay]] and the Hammond Promenade in [[Elendel\|Elendel's]] 2nd Octant. Furthermore, a month of the Scadrian calendar is named Hammondar, presumably in his honor.
+The details of Ham's life after the Catacendre are unknown. He is the only member of the [[Preservers\|Preservers]] without a known honorific title, but his legacy is visible in the names of [[Hammondar Bay\|Hammondar Bay]] and the Hammond Promenade in [[Elendel\|Elendel's]] 2nd Octant. Furthermore, a month of the Scadrian calendar is named Hammondar, presumably in his honor. Ham also wrote a book, called the "Testimony of Hammond".
 A "Hammondess scion" was appointed to a judge's seat by Governor [[Replar Innate\|Replar Innate]], likely due to corruption. This may indicate a noble house of Elendel which descends from Hammond.
 
 ## Relationships

@@ -84,7 +84,7 @@ Tall and long-limbed, Sazed has the build of a scholar. His arms and legs are a 
 
 #### Vessel
 His description varies as a Vessel. At times he is described as wearing a Terris garb, with a cloak of timelessness trailing behind him, made of storms and winds, clouds and rain, deserts and forests. His robe was the Terris V pattern, where each V reflected an entire age, akin to a strata of time. Other times, he is described as being at the centre of two wings, one white and one black, mixing together in the middle with their edges reaching out to infinity.
-Around 348 [[Catacendre\|PC]], he is described by being trailed by a shadowy reflection of himself.
+Around 348 [[Catacendre\|PC]], he is described as being trailed by a shadowy reflection of himself.
 
 ### Personality
 #### Mortal
@@ -92,6 +92,7 @@ When feeling confident, Sazed is a person who—without raising his voice, witho
 Sazed is kindly, peaceful, and respectful, but with a smart tongue, which is unusual for a steward. As a [[Keeper\|Keeper]], he has many earrings, bracelets, and bands that act as his [[Feruchemical\|Feruchemical]] [[Metalmind\|metalminds]]. However, for a time after the death of the [[Lord Ruler\|Lord Ruler]], he has to stop wearing much of the jewelry to avoid tempting bandits. As a Keeper, he is also necessarily secretive, for the Lord Ruler has hunted them practically since the Day of Ascension itself.
 He at first believes in all religions, embracing their contradictions but respecting what he considers the truth behind them all. This changes after the loss of [[Tindwyl\|Tindwyl]], when he loses all his faith and decides to read each religion in detail in search of the true one and discard them if they have any contradiction. This leaves him hopeless, as he finds contradictions in each one. Again, this changes after his last battle in [[Urteau\|Urteau]] where, with the help of Spook, he finds his way back to faith. This rediscovered peace stays with him until he becomes [[Harmony\|Harmony]].
 Sazed enjoys researching and working on texts or engineering, and he keeps his workspace orderly and structured. As a Terrisman, he has specific speech patterns that are also recognizable in the sentence constructions of Tindwyl, [[Kwaan\|Kwaan]], and the Lord Ruler.
+He believes that those born with mental or physical deficiencies deserve compassion, and finds treating them poorly for their disabilities to be distasteful.
 
 #### Vessel of Harmony
   Sazed manifesting as both Harmony and Discord
@@ -176,7 +177,7 @@ He was found by Elend and Demoux. Sazed, a full believer and confident now in Vi
 
 ### The Final Ascension
 >“*I am, unfortunately, the Hero of Ages*”
-\-Sazed’s first words as Harmony in the book left after the final Ascension[19]
+\-Sazed’s first words as Harmony in the book left after the final Ascension[20]
 
 
   Harmony Ascending
@@ -211,7 +212,7 @@ Sazed married him to Vin just before the fight for Luthadel.
 
 ### Tindwyl
 >“*You…you’re strong like the wind. Always there, so willing to bend, but never apologetic for the times when you must be firm.*”
-\-Tindwyl to Sazed on why she loves him[54]
+\-Tindwyl to Sazed on why she loves him[55]
 
 
 Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
@@ -223,7 +224,7 @@ He refers to Hoid as his friend.
 
 ### Wax
 >“*I’ve heard distressing things, Waxillium Ladrian, that you’ve been worrying about. I would like to promise you something. With all the essence and axi of my being, I declare this.No one else moves you.Your life is yours.And you have my deepest apologies that I had a hand in teaching you otherwise.*”
-\-Harmony to Wax[31]
+\-Harmony to Wax[32]
 
 
 He has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.

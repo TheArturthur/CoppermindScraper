@@ -63,21 +63,21 @@ In the crew, Breeze was often used by Kelsier to interact with nobles, and he ha
 
  
 ### Elend's Crew
-During the [[Siege of Luthadel\|Siege of Luthadel]], Breeze acted as an advisor to Elend and bolstered his confidence during public appearances, routinely helping control the mood of the crowd during them. This backfired, however, when [[Ashweather Cett\|Cett]] pointed out that Elend had soothers in the crowd following his speech at the start of the election for king. During the [[Battle of Luthadel\|Battle of Luthadel]], Breeze placed his soothers in various squads to bolster the garrison, doing the same himself until he eventually broke when Clubs was killed by a koloss in the fighting, causing him to become catatonic until Ham managed to find him and bring him to safety. He remained unresponsive for the rest of the book.
+During the [[Siege of Luthadel\|Siege of Luthadel]], Breeze acted as an advisor to Elend and bolstered his confidence during public appearances, routinely helping control the mood of the crowd during them. This backfired, however, when [[Ashweather Cett\|Cett]] pointed out that Elend had soothers in the crowd following his speech at the start of the election for king. During the [[Battle of Luthadel\|Battle of Luthadel]], Breeze placed his soothers in various squads to bolster the garrison, doing the same himself until he eventually broke when Clubs was killed by a koloss in the fighting, causing him to become catatonic until Ham managed to find him and bring him to safety.
 
 ### The Siege of Urteau
 Breeze arrived in Urteau with [[Sazed\|Sazed]] and [[Allrianne\|Allrianne]] to continue the task of taking over the city from the [[Citizen\|Citizen]]. Upon arriving Breeze noticed that Spook had done a great deal on the city, and was much more confident in himself. Breeze spent his time in Urteau going to secret taverns with the crew in order to Sooth those gathered there, but also to learn as much information as possible.
-During a Noble execution, Breeze notices that he feels the urge to rise up an rebel, but he recognizes the touch on his emotions as Allrianne Rioting him and many others. Breeze tells her that 'now is not the time', but then works with her to Sooth their fears, while she Riots their sense to calm the crowds when the fires start to get our of hand.
+During a Noble execution, Breeze notices that he feels the urge to rise up as a rebel, but he recognizes the touch on his emotions as Allrianne Rioting him and many others. Breeze tells her that 'now is not the time', but then works with her to Sooth their fears, while she Riots their sense to calm the crowds when the fires start to get our of hand.
 After the fires and while Spook is recovering from his burns wounds, Breeze spends his days making proclamations and listening to disputes. Breeze rules in Urteau, though [[Quellion\|Quellion]] is still in authority.
 
 ### Post Catacendre
-After the Catacendre, Breeze becomes the **Counselor of Gods** to the Lord Mistborn. He establishes the Ladrian House and continues his life with Allrianne.
+After the Catacendre, Breeze becomes the **Counselor of Gods** to the Lord Mistborn. He establishes the Ladrian House and continues his life with Allrianne. Breeze wrote most of Spook’s speeches. He also wrote seven volumes on political treatises.
 At some point after his death, [[VenDell\|VenDell]] took his hands, and still has them by 342 PC.
 
 ## Relationships
 ### Clubs
 >“*Do you know what it’s like, Clubs...Being a Soother?*”
-\-Breeze to Clubs during a drinking session[25]
+\-Breeze to Clubs during a drinking session[26]
 
 
 Clubs and Breeze have a special relationship, that originally started out strained, as Clubs did not trust Breeze due to his Soothing and manipulation skills. However, their relationship grows into a solid friendship, to the point where they end up drinking together every night. During the Battle of Luthadel, Clubs saves Breeze from death by pushing him out of the way of a Koloss' sword, which resulted in Clubs nearly being cut in-two.

@@ -7,7 +7,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Connection** is a Spiritual attribute that represents spiritual connections and relationships between different entities -- living being, locations, items and so on. Like other Spiritual attributes in the [[Cosmere\|cosmere]], Connection is quantifiable and can affect or be affected by different [[Investiture\|Invested Arts]].
+**Connection** is a [[Spiritual Realm\|Spiritual]] attribute that represents spiritual connections and relationships between different entities -- living being, locations, items and so on. Like other Spiritual attributes in the [[Cosmere\|cosmere]], Connection is quantifiable and can affect or be affected by different [[Investiture\|Invested Arts]].
 
 ## Contents
 
@@ -35,6 +35,7 @@
 
 ## The Nature of Connection
 Connection uses [[Spiritweb\|spiritwebs]], and connects them in the [[Spiritual Realm\|Spiritual Realm]]. Connection is thought to be part of the Spiritual aspect of a being. Additionally, it is possible to alter Connection through artificial means, though the particulars of how this is accomplished are unknown. Connection can be inherited. People are generally Connected to other people or certain locations, and can be Connected to more than one place at a time. 
+As a Spiritual attribute, Connection is not bound by ordinary laws of time, and is thus capable of Connecting one to the past and future. One's Connection to the past allows the soul to know when the body it was associated with was born, and thus be aware of its "age."
 Despite the Spiritual properties of Connection, [[Cognitive Shadow\|Cognitive Shadows]], [[Splinter\|splinters]], and in certain instances [[Shard\|Shards]], can get tied to an area, [[/wiki/Cosmere#Planets]], or individual in the cosmere due to their Connection to it. Forcibly separating such beings or objects can, in some cases, separate their spiritual component from their body. As one gets further from that which they have such a Connection to, they begin to feel a pulling sensation that gets stronger the further they travel.
 Connection is not directly composed of anything, existing as something more akin to a spiritual force that binds things together.
 When made visible in any Realm, Connection appears as glowing cords of light connecting things together; be it in a complex web, or a single string with the ends vanishing into nothing. The cords are considered difficult to read or understand.
@@ -57,6 +58,7 @@ Blanking [[Identity\|Identity]] and tapping Connection can cause someone to gain
 **Hoid**: [[Hoid\|Hoid]] has access to some manifestation of Investiture that allows him to manipulate the Spiritual attribute of Connection. The full extent of this ability is unknown, but its primary known use is to help Hoid speak the various languages of the worlds of the cosmere that he visits. The ability allows him to Connect to whatever land he is in, temporarily altering his Spiritual aspect to believe that he was raised in that place, allowing him to speak as a native.
 ### Other Uses
 **Lightweaving**: In order to [[/wiki/Surgebinding#Illumination]] properly, a strong spiritual component requiring a certain measure of Connection and a full mental picture of the desired illusion is necessary.
+**Stoneshaping**: Stoneshapers are able to trace Connection within stone through the generations, allowing them to create images of the past with the stone; displaying events, feelings, emotions, and ideas.
 **Allomantic Malatium**: Flaring [[Malatium\|malatium]] allows an [[Allomancer\|Allomancer]] to see not just a malatium shadow of a person, but seems to give them a glimpse into the Spiritual Realm, allowing them to see a vision of a past event in another person's life by seeing their Connection and their past. Given the only circumstance in which this effect is seen, it may be a result of flaring malatium at the moment of death and transition to the [[Cognitive Realm\|Cognitive Realm]], rather than a result of simply flaring the metal in and of itself.
 **Allomantic Lerasium**: For normal people, burning [[Lerasium\|lerasium]] forges a permanent Connection between them and [[Preservation\|Preservation]], turning them into a very powerful [[Allomancy\|Mistborn]] by rewriting their spiritual DNA. For people who are already Mistborn, the same effect increases their power.
 **Selish Magic**: All magic on [[Sel\|Sel]] (including [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]]) requires a Connection to certain lands to function properly. The magics will decrease in power the farther from the land the user is, and will not normally work outside of Sel.
