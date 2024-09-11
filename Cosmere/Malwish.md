@@ -81,8 +81,12 @@ The Southern Scadrians were divided into five different nations, however followi
 #### Malwish
 The **Malwish** wear red masks that change according to their profession or their mood. By the 350s PC the Malwish view lifting their mask as a way to emphasise something. It’s not necessarily wrong to let people see under the mask, though they pretend it’s taboo, which it might have once been. Allik Neverfar and Jordis are Malwish. Dancing is very important to them, so much so that they have been known to give harsh (although friendly) punishment just for getting the steps to a dance wrong.
 Following the discovery of the Northern Continent, the Malwish took over diplomatic relations with the Basin, and the majority of Southerners who visited the North were from there. They were the only tribe who sent an ambassador up. It is under their banner that the Southern Nations united.
-Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized language.
+Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized language. Known Malwish words include:
 
+*Fotenstall* — Allomancer.
+*Hanner konge* — A question of unknown meaning.
+*Foralate men* — Something along the lines of ‘flee’.
+*Forsalvin* — Something along the lines of ‘flee’.
 #### The Hunters
 The people known as the **Hunters** receive one mask at birth, which is replaced by a second mask upon reaching adulthood. This second mask eventually grows into the skin. The Hunters were warriors before the Ice Death, but now they search for the cause of the cataclysm that ruined their society. They took an airship to find the Bands of Mourning, intending to destroy them.
 [[Iyatil\|Iyatil]], a Silverlight born woman with Southern Scadrian ancestry, wears a mask reminiscent of those worn by the Hunters nation.

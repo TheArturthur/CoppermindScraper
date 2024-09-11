@@ -52,7 +52,7 @@
  
 ### Appearance
 For more images, see [[Rayse/Gallery\|/Gallery]].
-While Odium’s true essence is too powerful to be seen, Rayse generally presents himself as an old man with a wide, furrowed face and bone-white hair sweeping back from his head, and thick mustaches with a hint of black in them blended into a short white beard. His skin and eyes look [[Shin\|Shin]], that is to say, he has pale skin and lacks epicanthic folds, and he wears a golden crown in his powdery hair.
+While Odium’s true essence is too powerful to be seen, Rayse generally presents himself as an old man with a wide, furrowed face and bone-white hair sweeping back from his head, and thick mustaches with a hint of black in them blended into a short white beard. His features look [[Shin\|Shin]], that is to say, he has pale skin and lacks epicanthic folds, and he wears a golden crown in his powdery hair.
 To the [[Singers\|singers]], on the other hand, he appears as an ancient singer with gold and white marbled skin. He carries a golden sceptre in both of these forms.
 When [[Dalinar\|Dalinar]] claims to have seen Odium, Rayse shows him an enormous, all-encompassing white-and-red flame emanating human emotion, chiefly hatred and anger.
 

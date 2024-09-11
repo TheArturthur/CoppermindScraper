@@ -61,7 +61,7 @@
 \-Harmony[1]
 
 
-Autonomy is ultimately an Intent about individualism, self-actualization, and creative self-expression. It also promotes survival of the fittest and the competitive exclusion principle, likely as the natural manifestation of its Intent.
+Autonomy is ultimately an Intent about individualism, self-actualization, and creative self-expression. Furthermore, she promotes survival of the fittest and the competitive exclusion principle; she also supports the application of these ideas not just to nature, but to the social structures of sapient beings. As a believer in survival of the fittest, she believes that it is through struggle and defying the odds that a person, or a people, reach their full potential.
 Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. Due to this, she is driven to divide off from the other Shards. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. For her followers, she seeks those who are capable of surviving on their own and defying the odds. Her philosophy is focused on the survival of the fittest. Under Autonomy's world order, one must earn their right to keep existing. Due to her belief in Autonomy, she rewards even those that go against her, if they are successful.
 However, this doesn't stop Autonomy from meddling in affairs of others. She often intervenes with her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
 It is unknown if her heteronomous inclinations are an aspect that arises purely from her Intent, or if it arises from how she personally manifests the Intent.

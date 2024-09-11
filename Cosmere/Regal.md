@@ -11,7 +11,7 @@
 \-Jaxlim[1]
 
 
-**Regals** are [[Singer\|singers]] who bond with [[Voidspren\|Voidspren]], granting them a transformation called a **form of power**. In the [[Voidbringer\|Voidbringer]] hierarchy, they are ranked above common singers, and below the [[Fused\|Fused]]. Singers sometimes formally refer to Regals as **Chosen**.
+**Regals** are [[Singer\|singers]] who bond with lesser [[Voidspren\|Voidspren]], granting them a transformation called a **form of power**. In the [[Voidbringer\|Voidbringer]] hierarchy, they are ranked above common singers, and below the [[Fused\|Fused]]. Singers sometimes formally refer to Regals as **Chosen**.
 
 ## Contents
 
@@ -39,7 +39,7 @@
 
 ## Mechanics
 ### Formation and Appearance
-To become a Regal, a singer has to bond a [[Voidspren\|Voidspren]]; a non-sapient variety is used for this purpose. The form is assumed much like any other, by stepping into the storm with the mindset to bond an appropriate spren. Unlike a Fused possession, a form of power can be taken on both in [[Highstorm\|highstorm]] and the [[Everstorm\|Everstorm]]. In some cases, [[Odium\|Odium]] may force a Regal form upon a singer personally while the latter is in the Everstorm.
+To become a Regal, a singer has to bond a [[Voidspren\|Voidspren]]; a non-sapient variety is used for this purpose. The form is assumed much like any other, by stepping into the storm with the mindset to bond an appropriate spren. Unlike a Fused possession, a form of power can be taken on both in a [[Highstorm\|highstorm]] and the [[Everstorm\|Everstorm]]. In some cases, [[Odium\|Odium]] may force a Regal form upon a singer personally while the latter is in the Everstorm.
 During the [[False Desolation\|False Desolation]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] was able to Connect to all singers on Roshar and grant a large portion of them forms of power as well as Voidlight. This is no longer possible since that Unmade is now imprisoned in a gemstone.
 The forms of power come in many different shapes; their precise number is unknown, though higher than ten. Regardless, they can always be recognized by having red eyes, as opposed to typical [[Singer\|singer]] black. Historically, they were associated with [[Voidlight\|Voidlight]] and [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], though neither is necessary for their functioning.
 
@@ -56,7 +56,7 @@ Most forms of power are only known through [[Listener\|listener]] songs; several
 \- fourth stanza of the Song of Winds[21]
 
 
-A singer bonded to a stormspren is granted stormform, a form of power that is commonly used for frontline soldiers and a fearsome foe on the battlefield. This form was the first used by the listeners, allowing them to call the Everstorm into the Physical Realm and freeing the other singers from their captivity. With the return of the Everstorms, stormforms are often used as elite troops, capable of reinforcing standard soldiers or serving in special units that carry out important tasks, such as the company that seized the Sibling's crystal pillar in Urithiru.
+A singer bonded to a stormspren is granted stormform, a form of power that is commonly used for frontline soldiers and a fearsome foe on the battlefield. This form was the first used by the listeners, allowing them to call the Everstorm into the Physical Realm and freeing the other singers from their captivity. With the coming of the Everstorm, stormforms are often used as elite troops, capable of reinforcing standard soldiers or serving in special units that carry out important tasks, such as the company that seized the Sibling's crystal pillar in Urithiru.
 **Appearance**
 Instead of the bulky external carapace armor granted by warform, a singer in stormform is protected by a more subtle armor that is nearly as effective. The singer's skin is covered in rows of durable protective ridges that poke out through the skin, which stretches tightly in some places. Stormforms also have hairstrands are often absent in more martial forms, more prominent physical differences between the sexes than other forms, and barbed carapace on the backs of their hands. Their face is protected by a carapace mask beneath the stormform's skin with ridges on the nose and cheeks, capable of deflecting a blade away from the face without causing too much damage. The ridged carapace breaks the skin above the cheeks and along the sides of the head, with a carapace gorget at the neck. The spiking armor plates present under their skin elsewhere on their bodies makes grappling with them difficult, jabbing attackers and preventing them from getting a decent hold. A stormform often has flashes of energy appear around them, such as sometimes flashing across their eyes or tiny nearly invisible lines of lighting flaring from their hands when they form a fist quickly. When they are preparing to summon their lightning their skin begins to crackle with energy. As they fight they cause flashes of light,  sometimes emanating from their weapons when they connect with enemies.
 **Abilities and Weaknesses**

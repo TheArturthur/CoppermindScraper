@@ -90,6 +90,7 @@ Living beings reflect in the Cognitive Realm in some manner. If someone is to di
 
 ## Trivia
 Although Brandon plans for Shadesmar to be used in reference to the whole cosmere and not just the Rosharan subastral, this may shift to the more scientific term ‘Cognitive Realm’ once Brandon reaches Era 4.
+The Cognitive Realm is, at least in part, inspired by .
 
 
 https://coppermind.net/wiki/Subastral

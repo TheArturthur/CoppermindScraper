@@ -52,7 +52,7 @@ Despite Triax's strategic importance, it seemingly became a relatively obscure c
 During the [[True Desolation\|True Desolation]], the [[Voidbringer\|Voidbringers]] gathered in [[Marat\|Marat]] and then quickly struck at the strip of land bordering the Tarat Sea, including Triax. Contact with the country, including its [[Spanreed\|spanreeds]], was lost mere weeks after the arrival of the [[Everstorm\|Everstorm]], implying that it was one of the first states that fell to the enemy. Following the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Triax remained under control of [[Odium\|Odium's]] forces. However, after a decisive victory by Queen [[Fen\|Fen]], Dalinar and his coalition maintained naval superiority in the south of the continent, allowing them to use [[Thaylen\|Thaylen]] ships to provide supplies to their troops in [[Emul\|Emul]] without needing to travel through Triax.
 
 ## Trivia
-At around 336,000 km, it is a little smaller than the total area of Finland.
+At around 336,000 km, it is a little smaller than the total area of Finland. 
 
 
 https://coppermind.net/wiki/Triax

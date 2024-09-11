@@ -11,7 +11,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-Brightlord **Tanalan** is is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
+Brightlord **Tanalan** is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
 ## Contents
 

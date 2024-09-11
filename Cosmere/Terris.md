@@ -62,7 +62,7 @@ In the Final Empire, the remaining Terris population became subject to intense o
 The Terris people tried to retain their culture despite their oppression, and to preserve the memory of the cultures and religions that were destroyed by Rashek in his conquests and assimilation efforts.
 
 ### After the Collapse
-After the fall of the [[Lord Ruler\|Lord Ruler]], the [[Synod\|Synod]] revealed themselves and started leading their people back into the ways before the Final Empire.
+After the fall of the [[Lord Ruler\|Lord Ruler]], the [[Synod\|Synod]] revealed themselves and started leading their people back into the ways before the Final Empire. The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers. Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.
 
 ### Genocide
 After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|Steel Inquisitors]] and the [[Koloss\|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists. The remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.

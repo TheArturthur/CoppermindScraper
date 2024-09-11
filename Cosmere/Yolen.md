@@ -10,7 +10,7 @@
 \-Khriss[3]
 
 
-**Yolen** is a planet in the [[Cosmere\|cosmere]] where the [[Shattering of Adonalsium\|Shattering of Adonalsium]] happened. It's the homeworld of all the original [[Vessel\|Vessels]], along with [[Hoid\|Hoid]] and [[Frost\|Frost]]. The inhabitants of Yolen are called the Yolish.
+**Yolen** is a planet in the [[Cosmere\|cosmere]] where humans first appeared, and where the [[Shattering of Adonalsium\|Shattering of Adonalsium]] happened. It's the homeworld of all the original [[Vessel\|Vessels]], along with [[Hoid\|Hoid]] and [[Frost\|Frost]]. The inhabitants of Yolen are called the Yolish.
 
 
 ## Contents
@@ -34,24 +34,25 @@
 
 
 ## Geography and Ecology
-Very little is known about Yolish geography, other than that it has some unusual features. Its gravity and other measurements are considered the **cosmere standard** by [[Cosmere\|cosmere]]-aware scholars like [[Khriss\|Khriss]]. Its ecology is divided into two distinct parts. Parts of it are similar to post-[[Catacendre\|Catacendre]] [[Scadrial\|Scadrial]], with similar flora and fauna. These parts are called **trune**. Other parts are covered in **fainlife**, a poorly-understood, parasitic ecosystem hostile to humans. Although fain has the shape of ordinary flora, the plants and land overtaken by it are bone-white. There is something similar to a [[Perpendicularity\|perpendicularity]] on Yolen, despite the lack of a Shard.
+Very little is known about Yolish geography, other than that it has some unusual features. Its gravity and other measurements are considered the **cosmere standard** by [[Cosmere\|cosmere]]-aware scholars like [[Khriss\|Khriss]]. Its ecology is divided into two distinct parts. Parts of it are similar to post-[[Catacendre\|Catacendre]] [[Scadrial\|Scadrial]], with similar flora and fauna. Other parts are covered in **fainlife**, an invasive ecosystem. Although fain has the shape of ordinary flora, the plants and land overtaken by it are bone-white. There is something similar to a [[Perpendicularity\|perpendicularity]] on Yolen, despite the lack of a Shard.
 One form of known fainlife are Tamu Keks, which are similar to singer gemhearts, and can be used for inter-Realmatic communication.
 Yolen is home to three sapient races: humans, [[Dragon (cosmere)\|dragons]] and [[Sho Del\|Sho Del]]. By [[Roshar\|Rosharan]] year 1174, [[Frost\|Frost]] is the only known inhabitant, and though there are more people living there, the Yolish population is rather small. While not all humans originated from Yolen, it was the first world on which they've appeared. Many languages currently in use across the [[Cosmere\|cosmere]] are derived from Yolish ones.
 Trees on Yolen, presumably in fain areas, are bone-white.
 Yolen has a strange astronomy that would be impossible under ordinary laws of physics.
-Yolen has something like a [[Perpendicularity\|perpendicularity]].
 
 ## Culture
-On Yolen, Dragons were seen and worshipped as gods. Before the Shards started getting involved with other planets, Yolen was one of the most technologically advanced planets in the cosmere, having reached the Bronze Age.
+On Yolen, Dragons were seen and worshipped as gods. Before the Shards started getting involved with other planets, Yolen was one of the most technologically advanced planets in the cosmere, having reached the Bronze Age. They were not aware of what the stars were, and many philosophers would debate at length on the subject. What philosophical outlooks were present is unclear, but it is known that they possessed an understanding of philosophy and often had debates on the matter.
+At least some cultures on the planet had a form of economy and knew how to make alcohol. However, the form the economy or currency took is currently unclear.
+Little is known about Yolish ethnic groups or cultures, except that it had a wide diversity of skin tones and features. Various peoples from Yolen are seen to not possess epicanthic folds. Yolen is also known to have at least one major language, which is the ancestor to various languages across the cosmere.
 
 ## History
-Yolen is one of the oldest inhabited worlds in the cosmere, and the first on which humans have appeared. It's also the world of [[Adonalsium\|Adonalsium]], the entity believed to be the cosmere's creator deity. At some point, fain either appeared or traveled there, and began spreading, overtaking the original landscape. After some time, the original inhabitants learned how to deal with it and keep it back.
-Eventually, Yolish society advanced to the Bronze Age, making it the most advanced planet in the cosmere during this period.
+Yolen is one of the oldest inhabited worlds in the cosmere, and the first on which humans have appeared. It's also the world of [[Adonalsium\|Adonalsium]], the entity believed to be the cosmere's creator deity. Yolen had gods other than Adonalsium, the nature of these gods is unknown, however, at least some of them are known to have died.
+For some reason or another, various groups of humans decided to leave Yolen and travel across the cosmere, settling and forming societies across Yolen and on various planets. Though these human exclaves, for some reason or another, developed far slower than those that remained on Yolen, being left stuck using stone tools while Yolen advanced to making use of bronze and other metals.
 At several points in Yolen's history, [[Microkinesis\|Microkinesis]] was misused to explosive effect and resulting in disastrous consequences that are not fully understood.
 People worldhopped to other planets on rare occasions over Yolen's history.
 
 >“*I learned it many, many years ago from a man who didn't know who he was, Your Majesty. It was a distant place where two lands meet and gods have died. But that is unimportant.*”
-\-Hoid referencing Yolen while explaining his style of storytelling to Siri.[27]
+\-Hoid referencing Yolen while explaining his style of storytelling to Siri.[29]
 
 ### The Shattering of Adonalsium
 At some point, sixteen Yolish people, not all of whom were human, came together to kill Adonalsium for various reasons. The [[Shattering of Adonalsium\|Shattering of Adonalsium]], as it came to be known, dramatically altered the entire cosmere. All [[Investiture\|Investiture]] that once belonged to Adonalsium was divided between the [[Shard\|Shards]] created by its death, and the preexisting magic systems were altered in how they functioned.
@@ -67,7 +68,8 @@ The Shattering appears to have changed something in Lightweaving, as the origina
 
 ### Microkinesis
 For more information, see [[Microkinesis\|Microkinesis]].
-Prior to the Shattering, Yolen was host to some form of magic related to the manipulation of atomic particles, known as **[[Axi\|axi]]**. The power allows its users to observe atoms and interact with them directly, although they are incapable of creating nuclear fission. Axi can also be used to refer to the smallest theoretical division of matter.
+Microkinesis is a form of magic related to the manipulation of atomic particles, known as **[[Axi\|axi]]**, The power allows its users to observe atoms and interact with them directly. Axi can also be used to refer to the smallest theoretical division of matter.
+It can be used to set off atomic explosions, and this has happened several times in the past. Some Invested Arts, such as Stoneshaping, are based on Microkinesis, albiet with limitations placed upon them by the resident Shard.
 
 ## Notable Yolish
 
@@ -99,6 +101,7 @@ There is a saying on Yolen: "May two worlds become one to you." This is not refe
 While gods existed and died on Yolen prior to the Shattering, these gods were not Shards. Current information suggests these gods were dragons.
 Yolen is the setting of the unpublished novels *[[The Liar of Partinel\|The Liar of Partinel]]*, *[[The Lightweaver of Rens\|The Lightweaver of Rens]]* and *[[Dragonsteel Prime\|Dragonsteel Prime]]*. *[[Dragonsteel (series)\|Dragonsteel]]* proper, the prequel to the cosmere as a whole, will be set there.
 Yolen has Earth-like physical parameters, that is to say, its gravity and radius are comparable to Earth.
+In non-canon, trunked works the non-fain ecosystem was referred to as trunelife. This name has not yet been canonized.
 
 
 https://coppermind.net/wiki/Yolen

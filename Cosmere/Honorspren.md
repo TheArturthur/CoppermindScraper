@@ -101,6 +101,7 @@ A particular type of trial that is available under honorspren law is **trial by 
 [[Caelinora\|Caelinora]] (bonded to [[Huio\|Huio]])
 [[Riah\|Riah]]
 [[Sekeir\|Sekeir]]
+[[Yunfah\|Yunfah]]
 ## Trivia
 Several honorspren have names derived from wind-related myths and legends -- for example, Sylphrena is named after , wind spirits, while Notum and Borea's names come from  and , the Greek gods of South and North wind respectively. Vaiu seems similarly named after , a Hindu deity of winds.
 Brandon developed honorspren from windspren. Originally, there were only four windspren that could bond people, each corresponding to one of the four cardinal directions (for example, Syl was initially called the East Wind). Over time, as the spren developed, honorspren were created and made distinctive from windspren.

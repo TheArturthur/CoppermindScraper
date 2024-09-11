@@ -12,6 +12,10 @@
 ## Contents
 
 1 The Nature of Connection. [[#The Nature of Connection]] 
+
+1. [[#Forming Connection]] 
+
+
 2 Uses of Connection. [[#Uses of Connection]] 
 
 2. [[#Accessing Investiture]] 
@@ -30,15 +34,20 @@
 5. [[#Ascension]] 
 
 
-6 Notes. [[#Notes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## The Nature of Connection
-Connection uses [[Spiritweb\|spiritwebs]], and connects them in the [[Spiritual Realm\|Spiritual Realm]]. Connection is thought to be part of the Spiritual aspect of a being. Additionally, it is possible to alter Connection through artificial means, though the particulars of how this is accomplished are unknown. Connection can be inherited. People are generally Connected to other people or certain locations, and can be Connected to more than one place at a time. 
+Connection uses [[Spiritweb\|spiritwebs]], and connects them in the [[Spiritual Realm\|Spiritual Realm]]. Connection is thought to be part of the Spiritual aspect of a being. People are generally Connected to other people or certain locations, and can be Connected to more than one place at a time. 
 As a Spiritual attribute, Connection is not bound by ordinary laws of time, and is thus capable of Connecting one to the past and future. One's Connection to the past allows the soul to know when the body it was associated with was born, and thus be aware of its "age."
 Despite the Spiritual properties of Connection, [[Cognitive Shadow\|Cognitive Shadows]], [[Splinter\|splinters]], and in certain instances [[Shard\|Shards]], can get tied to an area, [[/wiki/Cosmere#Planets]], or individual in the cosmere due to their Connection to it. Forcibly separating such beings or objects can, in some cases, separate their spiritual component from their body. As one gets further from that which they have such a Connection to, they begin to feel a pulling sensation that gets stronger the further they travel.
 Connection is not directly composed of anything, existing as something more akin to a spiritual force that binds things together.
 When made visible in any Realm, Connection appears as glowing cords of light connecting things together; be it in a complex web, or a single string with the ends vanishing into nothing. The cords are considered difficult to read or understand.
+
+### Forming Connection
+Connection is primarily formed through social relations, and other such relations, between various social actors; it can also be done through various other forms of relation between actors. With actors including not just sapient beings, but all things with a Spiritual Aspect to be Connected to. Connection can be affected by various forms of Invested Art, including [[Surgebinding\|Surgebinding]] and [[Feruchemy\|Feruchemy]]. Additionally, it is possible to alter Connection through artificial means, though the particulars of how this is accomplished are unknown.
+Connection is capable of being inherited.
 
 ## Uses of Connection
 ### Accessing Investiture
@@ -109,6 +118,8 @@ Since Shards are Connected to their magic, a Shard is able to directly interact 
 ### Ascension
 Connection has an influence on who can or cannot Ascend as the holder of a certain Shard, and Connection to a Shard is required to Ascend. Improper Connection decreases the vessel's ability to control the powers and weakens the vessel's power. Connection to an opposing Shard makes it more difficult to maintain Ascension. Proper Ascension can happen either forged artificially or driven by a natural inclination towards the Shard's intent.
 
+## Trivia
+Connection is vaguely inspired by the Jungian idea of the , in which all minds are ultimately connected together in a great Collective unconscious, which underpins and surrounds the unconscious mind. Ideas and archetypes exist within this unconscious mind, and can filter into the conscious mind. Brandon Sanderson used this as inspiration, with beings being Connected by an unconscious "force" manifested through social relations and other such relations.
 
 
 https://coppermind.net/wiki/Connection

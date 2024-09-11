@@ -52,7 +52,7 @@
 \-Ruin[7]
 
 
-Ruin is the embodiment of entropy and decay; it seeks change, so that all may age and pass. It is not inherently evil, as without change there can be no life, but its destructive actions are often contrary to life existing peacefully. This approach to Ruin as simply inevitable decay is largely due to [[Ati\|Ati's]] original kind nature, as he deliberately channeled Ruin towards a more peacable state. In other hands, the Shard would've been a far more destructive force.
+Ruin is the embodiment of entropy and decay; it seeks change, so that all may age and pass. It is not inherently evil, as without change there can be no life, but its destructive actions are often contrary to life existing peacefully. This approach to Ruin as simply inevitable decay is largely due to [[Ati\|Ati's]] original kind nature, as he deliberately channeled Ruin towards a more peacable state. In other hands, the Shard would've been a far more destructive force. Ruin is not just about the entropy and decay of the world, but also operates on a psychological level.
 It is the polar opposite of [[Preservation\|Preservation]] -- a relation most other Shards don't have. Since the [[Final Ascension\|Final Ascension]], Preservation has tempered Ruin's intent, which also makes it difficult for anyone holding [[Harmony\|Harmony]] to take direct action heavily favoring one side or the other.
 
 ## Associated magic
@@ -88,7 +88,7 @@ However, Preservation broke the terms of the deal by sacrificing his mind to cre
   <<Vin\|Vin>> sinking into the <<Well of Ascension\|Well of Ascension>>, freeing Ruin
 ### Plotting Escape
 >“*'Giving the power up’ is a stand-in for giving the power to [Ruin]. The powers would interpret that as me releasing him. My power, accepting his touch back into the world, directly.*”
-\-Leras[39]
+\-Leras[40]
 
 
 #### Alendi
@@ -103,7 +103,7 @@ Eventually, the Well filled again, and Vin entered its chamber. [[Kelsier\|Kelsi
 ### Destruction upon Scadrial
   Ruin in the <<Cognitive Realm\|Cognitive Realm>>
 >“*I have come to claim what was promised me. The only point in creating something is to watch it die.*”
-\-Ruin[29]
+\-Ruin[30]
 
 
 Once free, Ruin immediately set out on his plan to destroy [[Scadrial\|Scadrial]]; however, his power locked in [[Atium\|atium]] still diminished him enough to equal him with Preservation, and so he could not simply make it vanish in an instant. He tried to amend it by sending people out to find the missing atium stash. At the same time, he began killing all Scadrians. [[Ashmounts\|Ashmounts]] would erupt much more frequently, causing the omnipresent ash to fall more heavily and lava flows to endanger several towns. Earthquakes also became much more common, and started appearing in more places; while they used to be practically unheard of in the [[Dominance\|Inner Dominances]], they began to appear there frequently.
@@ -113,7 +113,7 @@ Prompted by [[Ati\|Ati's]] inherent need to gloat, Ruin began appearing to both 
 ### Achieving Harmony
 For the history of Sazed prior to becoming Ruin, see [[/wiki/Sazed#History]].
 >“*You think this was your plan? It was [Preservation]'s. His all along. You created the thing that can kill you, Ruin.*”
-\-Vin[52]
+\-Vin[53]
 
 
 Seeking to fight Ruin, Kelsier, now the temporary vessel of [[Preservation\|Preservation]], sought a way to pass the power onto Vin, whom Leras pointed out as its intended recipient. After freeing Spook from Ruin's influence, he told him to send a message to her written in metal, telling her about what was going on. Ruin, knowing what Kelsier was planning, sent [[Marsh\|Marsh]], one of his Inquisitors, to kill the messanger and read the text out-loud, thus letting Ruin know what had been written. However, that was part of Kelsier's plan -- as Marsh found out what was going on, he managed, in a moment of lucidity, to tear the earring out of Vin's ear, letting Kelsier bestow Preservation upon her.
@@ -125,7 +125,7 @@ For the subsequent events, see [[/wiki/Harmony#History]].
 ## Influence
   <<Preservation\|Preservation>>, <<Harmony\|Harmony>> and Ruin
 >“*You make our religion all about you. They hardly remember the truth any longer.*”
-\-Leras to Ruin[57]
+\-Leras to Ruin[58]
 
 
 Ruin's influence is omnipresent on [[Scadrial\|Scadrial]]; he was one of the planet's creators, and all things and living beings upon it are partially of him.. Later, he manipulated its people and texts to arrange for his own freedom. He's also responsible by proxy for the planet's miserable state during [[Rashek\|Rashek's]] reign, as the Lord Ruler's changes were partially prompted by his desire to oppose Ruin. Later, it was Ruin's destruction of the planet that caused [[Sazed\|Sazed]] to pick up the two powers and return Scadrial to its prior state.

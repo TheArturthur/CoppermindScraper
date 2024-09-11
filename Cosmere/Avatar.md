@@ -113,7 +113,7 @@ Shards remember their history, outside of the Vessel itself. When one ascends to
 
 To function properly, a Shard requires a **Vessel** -- a mind to control it, belonging to a sapient creature from the [[Physical Realm\|Physical Realm]], such as a human, [[Dragon (cosmere)\| Dragon]] or [[Sho Del\|Sho Del]]. The Vessel is the core of being through which the power flows, which acts as a focus or hub for the omnipresent power of the Shard. One doesn't need to be able to use Investiture in order to become a Vessel, but the ability does help. What becoming a Vessel requires above all is [[Connection\|Connection]] to the Shard in question, whether forged artificially or driven by a natural inclination towards the Shard's intent. Upon Ascension, a Vessel loses its connection to its former species -- for example, a human who Ascended is no longer considered human. However, it is possible for Vessels to reproduce.
 The act of becoming a Vessel is called **Ascension**, and causes the Vessel's body to vaporize and mind to expand. From then on, the Vessel and the Shard are intertwined; the Vessel gets to set some general course of how the Shard's power is defined, and feeds off the Shard's power to remain alive, but the Shard's power is the driving force between the two. Over centuries, the Vessel's mind begins to change to fit the Shard's intent more perfectly. It is difficult to fight against the Shard's Intent, if a Vessel fights against it, they can be left vulnerable. Some knowledgeable individuals, such as Khriss, argue that the Vessel does not truly control the Shard, but rather they are controlled by it and its Intent. If the Vessel were to give up the Shard, the Shard's influence on their mind would fade over time.
-A Shard can be killed by Splintering it, breaking its power down further into smaller pieces, called [[Splinter\|splinters]]; the easiest way to achieve that is by killing the mind. The actual death of a Vessel, however, can take up to hundreds of years. If the Shard is taken up before the Vessel dies completely, splintering can be prevented; if not, the power will become wild and dangerous. A Shard without a Vessel will eventually gain sentience. When a Vessel dies, the person's original body materializes and falls to the ground as a corpse. However, it does not age rapidly, since Shardic immortality is different from other methods like atium compounding.
+A Shard can be killed by Splintering it, breaking its power down further into smaller pieces, called [[Splinter\|splinters]]; the easiest way to achieve that is by killing the mind. The actual death of a Vessel, however, can take up to hundreds of years. If the Shard is taken up before the Vessel dies completely, splintering can be prevented; if not, the power will become wild and dangerous. A Shard without a Vessel will eventually gain sentience. When a Vessel dies, the person's original body materializes and falls to the ground as a corpse. As the body is evaporated upon Ascension, this is not their original body and matter, but rather a recreation of it out of Investiture and energy. It does not age rapidly, since Shardic immortality is different from other methods like atium compounding.
 It is possible for Vessels to be separated from their Shards without dying or Splintering the Shards they held. If this happens then, after the Vessel's death, it is able to resist the pull into the [[Beyond\|Beyond]].
 While the power a Vessel holds exists everywhere, the Vessel themself can only exist in a limited amount of places or areas at a time. Some Vessels have shown the capacity to manifest in multiple places at once, acting independently, but all as a manifestation of the same mind.
 A mentally ill Vessel can affect the Shard's intent.
@@ -136,7 +136,7 @@ Various knowledgeable figure debate on the difference between the Vessel and pow
 ## History
 
 >“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
-\-Sazed[98]
+\-Sazed[99]
 
 
 It is unknown what precisely [[Adonalsium\|Adonalsium]] was, though it has been referred to numerous times as the power of creation, suggesting it to be the progenitor god of the [[Cosmere\|cosmere]]. At some point in the distant past, on the planet of [[Yolen\|Yolen]], sixteen people conspired to kill it, and succeeded in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Some of those people were romantically involved; others were related to each other. All of them were mortal at some point.
@@ -180,7 +180,7 @@ Several of the known Shards are dead in the current time, with [[Ambition\|Ambit
 
 ### Unnamed Shard
 >“*Some men, as they age, grow wiser. I am not one of those, for wisdom and I have always been at cross-purposes, and I have yet to learn the tongue in which she speaks.*”
-\-Hoid possibly implying the existence of another Shard[137][138]
+\-Hoid possibly implying the existence of another Shard[138][139]
 
 
 There remains one Shard that has not been named, but it has an Intent similar to Wisdom or Prudence. [[Hoid\|Hoid]] and this Shard may be antagonistic towards each other, though this appears to be something of a common thread in his relations with the original Vessels. There is a Shard that "[[Survival Shard\|just wants to hide and survive]]," though it has realized over time that that may not be the most desirable course of action; this may be the "wisdom" Shard.
@@ -232,6 +232,7 @@ Avatars are, in a way, considered to be Shards in their own right. Known ones in
 #### Magic Generation
 When a Shard Invests a world, it will begin to fuel the local Invested Arts. Each Shard can do this differently, though much of the system is dictated by the planet itself. Because of this connection to the magic, a Shard is able to directly interact with its users and provide Investiture when necessary, without the need for intermediaries.
 While not all Invested Arts in the cosmere are directly tied to a Shard, Shardic presence greatly influences the shape a magic system takes. On a planet inhabited by a Shard, magic forms as a result of the interactions between a Shard's power, [[Realmatic\|Realmatics]], the world's natural inclinations and, in some cases, even genetics. For this reason, the exact function magic performs will not always be related to the Shard's nature -- for example, [[Surgebinding\|Surgebinding]], despite being powered by [[Honor\|Honor]], is capable of manipulating [[Division\|Division]], which controls separating things. However, how the magic is *obtained* is tied to the Shard. [[Hemalurgy\|Hemalurgy]] demands that a person be destroyed, in line with the intent of Ruin, while Surgebinding demands forging bonds.
+Shards are capable of putting rules and limitations upon an Invested Art, often times to prevent an Invested Art being used to its theoretical maximum capacity.
 Shards are capable of tampering with Investiture that does not belong to them.
 Most Invested Arts can pull on the Investiture of a Shard from anywhere in the cosmere, due to Shards being omnipresent and focused in the Spiritual Realm.
 
@@ -242,7 +243,7 @@ Vessels do not see the world as other beings do, with their vision greatly enhan
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
-\-Honor[85]
+\-Honor[86]
 
 
 Due to their existence within and connection to the Spiritual Realm, Shards are capable of perceiving the future, although it can be difficult for them. Some are better at it than others, with [[Cultivation\|Cultivation]] and [[Preservation\|Preservation]] being noted as particularly excelling. Like all seers, Shards can be wrong about both what they see and how they interpret it, although as a general rule they see further than non-Shards. Shardic power can also be utilized by others to perceive the future as they do: examples of this are [[Atium\|atium]], as well as the visions of the [[Returned\|Returned]].
@@ -253,7 +254,7 @@ Vessels are capable of displaying their future sight to other people. This can e
 ## Forms and Subdivisions
   <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
 >“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
-\-Syl[95]
+\-Syl[96]
 
 
 The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture is metallic, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.

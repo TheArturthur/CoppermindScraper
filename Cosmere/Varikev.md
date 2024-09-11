@@ -1,5 +1,6 @@
 |**Varikev**|
 |-|-|
+||
 |**Princedom**|[[Roion princedom\|Roion princedom]]|
 |**Nation**|[[Alethkar\|Alethkar]]|
 |**World**|[[Roshar\|Roshar]]|

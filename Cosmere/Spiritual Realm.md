@@ -10,7 +10,7 @@
 \-Shai's description of the Spiritual Realm[1]
 
 
-The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent. It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things. Within the Spiritual Realm, Investiture takes on its truest form, and comprises everything within the Realm.
+The **Spiritual Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains the essence or soul of things. In this Realm, the [[Connection\|interconnection]] between objects, people, and ideals are made apparent. It is said to transcend form, thought, being, and self; it is merely a network of Connections between the truest form of all things. Within the Spiritual Realm, Investiture takes on its most consistent form, and comprises everything within the Realm.
 Everything in the cosmere has a Spiritual aspect, a soul, which represents the idealized form or concept upon which their existence is based. Among sentient creatures, this soul is sometimes described as a [[Spiritweb\|spiritweb]]. Several manifestations of [[Investiture\|Investiture]] such as [[/wiki/Gold#Feruchemical Use]] and [[Regrowth\|Regrowth]] can restore a damaged object or person into the ideal form as dictated by the soul.
 
 ## Contents
@@ -19,6 +19,10 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 
 1. [[#Shards]] 
 1. [[#Space and Time]] 
+
+1. [[#Possibilities]] 
+
+
 1. [[#Spiritwebs]] 
 1. [[#Observation]] 
 1. [[#Properties]] 
@@ -67,6 +71,10 @@ The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [
 Because time is irrelevant, an object's Connection to its past as well as its future can be observed from the Spiritual Realm. Some beings, like [[/wiki/Atium#Allomantic Use]], [[Moelach\|Moelach]], [[Sak\|Sak the Aviar]], and [[Shard\|Shards]] can peer into the Spiritual Realm to gain insight into the future, though some methods are more likely to be successful than others and even some Shards have difficulty seeing the future. It is also possible to see into the past of others via similar means. Connection is said by some to connect to even time and reality itself.
 Space being compounded means that, unlike the Physical and the Cognitive Realms, the Spiritual Realm has no distinct locations. As a result, "all things are one" in the Spiritual Realm and those with access to the Spiritual Realm, like Shards, can see what is happening on other worlds and can move around the cosmere more easily.
 
+#### Possibilities
+The Spiritual Realm contains a vision of each member in a set of all possible worlds. This includes possible worlds which are defined by counterfactual conditionals, that is to say, configurations of how the world *could have* been if something else occurred in the past, as opposed to merely worlds that can possibly arise from the current world-state of the actual world.
+Possible worlds are not actual worlds, that is to say, that these possible worlds do not exist as isolated space-time structures, but as abstract possibilities.
+
 ### Spiritwebs
 For more information, see [[Spiritweb\|spiritweb]].
 A person’s spiritweb, closely related to Spiritual DNA, makes up their presence in the Spiritual Realm. Measuring and quantifying a spiritweb is possible, if difficult, to do. Spiritual DNA can be passed from parent to child like regular DNA. Identical twins can have different Spiritual DNA, however. A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like Hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
@@ -79,7 +87,7 @@ Due to its incomprehensible properties, when it is directly observed, it is filt
 #### Connection
 For more information, see [[Connection\|Connection]].
 Connection is a Spiritual property that describes the relationships between people, objects, locations, and even more abstract concepts such as time, reality, language, and the Intents of Shards. If a person can gain Connection to a region, that Connection will allow them to speak that region's language. Gaining Connection to a region does not cause a person to develop that region’s accent, as accents are tied to a person’s Identity, though a person’s Identity can be suppressed to allow a person to gain a region’s accent by Connecting to it. Connection also includes information about bonds between one person and another, such as the [[Nahel bond\|Nahel bond]]. Like Identity, Connection is a crucial part of a person’s existence; being stripped of their Connection at the end of the [[False Desolation\|False Desolation]] is part of what trapped the [[Singer\|singers]] in [[Slaveform\|slaveform]]. In order to take up a [[Shard\|Shard]] after a Vessel dies, a person must be Connected to that Shard.
-Due to the timeless qualities of the Spiritual Realm, Connection is capable of Connecting one to both the past and the future.
+Due to the timeless qualities of the Spiritual Realm, Connection is capable of Connecting one to both the possible past and the future, including possibilities defined by counterfactual conditionals. The Connection to one's actual past encodes the "age" of the body and spiritweb.
 
 #### Identity
 For more information, see [[Identity\|Identity]].
@@ -91,7 +99,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[52]
+\-Hoid's warning to Shallan[56]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.
@@ -137,6 +145,9 @@ One type of [[Aviar\|Aviar]] allows a person it's bonded with to see visions sho
 
 
 [[Hoid\|Hoid]] has access to an ability that allows him to make use of the Spiritual attribute of [[Fortune\|Fortune]],, which grants him a limited amount of foresight. Hoid's Fortune ability lets him know where and when he needs to be. While this ability may grant him knowledge of what he is to do, usually Hoid does not know why his ability has brought him to a specific place. Hoid's Fortune ability is not infallible; occasionally it directs him to go somewhere, but either nothing notable is happening or he is unable to discover the reason why he has been led there.
+
+
+[[Oathgates\|Oathgates]] are capable of sending one or multiple people through the Spiritual Realm in order to quickly bring them between one place and another, without having to obey relativistic laws.
 
 ## Inhabitants
 ### Shards

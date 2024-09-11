@@ -49,7 +49,7 @@
 \-Ati on Preservation[7]
 
 
-Preservation seeks to provide stability and preserve the world and its inhabitants in their current state. It values the status quo, regardless of whether or not the people living underneath it are happy, and supports those who seek to keep it. It has distinct difficulty acting in a destructive way; it causes the Vessel almost physical pain to wound or kill, even if doing so would likely preserve more than the act itself would destroy.
+Preservation seeks to provide stability and preserve the world and its inhabitants in their current state. It values the status quo, regardless of whether or not the people living underneath it are happy, and supports those who seek to keep it. It has distinct difficulty acting in a destructive way; it causes the Vessel almost physical pain to wound or kill, even if doing so would likely preserve more than the act itself would destroy. Preservation is not just about stability and stasis of the world, but also operates on a psychological level.
 Preservation is the perfect opposite and complimentary Shard of [[Ruin\|Ruin]]. This is rather unique in the [[Cosmere\|cosmere]], as most Shards cannot be paired off in this way.
 
 ## Associated Magics
@@ -76,7 +76,7 @@ The mists can be used by Preservation to manifest as a so-called **mist spirit**
 
 ### Direct intervention
 >“*They say that You come to all people when they die.*”
-\-Wax[26]
+\-Wax[27]
 
 
 Having directly created [[Scadrial\|Scadrial]] along with Ruin, Preservation has vast amount of control over the planet. A person holding the Shard's power can rearrange continents, recreate extinct forms of life, and even move the planet within the solar system, permanently changing its orbit. Additionally, Preservation is Invested in every Scadrian, and can alter the way their bodies function. Direct killing is, however, directly against its Intent and thus extremely difficult bordering on impossible.
@@ -87,7 +87,7 @@ For the history of Leras prior to becoming Preservation, see [[/wiki/Leras#Histo
   <<Ruin\|Ruin>> and Preservation
 ### The deal with Ruin
 >“*I was able to trick Ruin before, lock him away, by fooling him with our agreement.*”
-\-Leras[30]
+\-Leras[31]
 
 
 Following the death of [[Adonalsium\|Adonalsium]], [[Leras\|Leras]] and [[Ati\|Ati]] picked up the Shards Preservation and [[Ruin\|Ruin]]. They departed [[Yolen\|Yolen]] together, before eventually finding their way to a star system empty of inhabitable planets. The two Shards found themselves at a stalemate; both knew they could only create something together, yet with one wishing to preserve, and the other to destroy, they could not easily cooperate. Eventually, Preservation offered a deal -- the two would create a world together, and Ruin would eventually be able to destroy it. Preservation [[Investiture\|Invested]] more of his power into humans, thus guaranteeing for Ruin that he would one day be able to overcome and destroy it. Thus, [[Scadrial\|Scadrial]] was formed.
@@ -108,7 +108,7 @@ Ultimately, Vin and [[Elend\|Elend]] found themselves at the Well of Ascension, 
   The death of Leras
 ### The death of Leras
 >“*Odd. After all these years appearing for others as they died, I never expected . . . that my own passing would be so cold and lonely. . . .*”
-\-Leras[43]
+\-Leras[44]
 
 
 Following Ruin's release, Kelsier was once more able to move freely about Scadrial's Cognitive Realm. Resigned, Preservation led him to [[Khriss\|Khriss]] and [[Nazh\|Nazh]], a pair of worldhoppers with knowledge of the greater [[Cosmere\|cosmere]] mechanics. Though Khriss insisted that they could not help, Nazh pointed Kelsier towards the [[Ire\|Ire]], an [[Elantrian\|Elantrian]] organization aiming to take the power of Preservation for themselves. In their fortress, Kelsier managed to acquire the [[Ire's orb\|Ire's orb]], a sphere filled with a substance that could grant [[Connection\|Connection]] to Preservation.
@@ -117,7 +117,7 @@ At the same time, Leras was rapidly dying. As the mist spirit, he appeared one l
 ### Kelsier
 For the history of Kelsier prior to becoming Preservation, see [[/wiki/Kelsier#History]].
 >“*Do you know why I always won at card tricks, Ruin? It's because I could always. Force. People to choose. The card **I wanted them to.***”
-\-Kelsier[48]
+\-Kelsier[49]
 
 
 Aware of Leras' death, Kelsier broke the orb and used its power to ascend to Preservation himself before the power could be [[Splinter\|Splintered]] by Ruin. However, the power did not obey him fully, as he was not one of the people intended to use it. Kelsier resigned himself to affecting the world around him in minor ways, and eventually formed a plan to get the power to [[Vin\|Vin]], who was held back by the Hemalurgic spike in her ear. He finally managed to contact [[Spook\|Spook]], who sent a message informing Vin about the spike.
@@ -127,7 +127,7 @@ The message was not, however, meant for Vin -- rather, it was meant for [[Marsh\
 ### Vin
 For the history of Vin prior to becoming Preservation, see [[/wiki/Vin#History]].
 >“*You created the thing that can kill you, Ruin.*”
-\-Vin[51]
+\-Vin[52]
 
 
 Initially, Vin was using Preservation's power with little skill, much like Rashek had, and at every turn, her actions were countered by Ruin. At the same time, Elend realized that the people being snapped by the out-of-control mists were in one-sixteenth [[Atium\|atium]] Mistings, who Leras planned on to burn atium, denying Ruin its own power.
@@ -136,7 +136,7 @@ At the [[Battle of Hathsin\|Battle of Hathsin]], as Marsh and Elend fought, Vin 
 ### Sazed
 For the history of Sazed prior to becoming Preservation, see [[/wiki/Sazed#History]].
 >“*I am, unfortunately, the Hero of Ages .*”
-\-Sazed[53]
+\-Sazed[54]
 
 
 As [[Sazed\|Sazed]] observed the battle drawing to a close, he ran out to find Vin, unaware that she was no longer alive. He eventually managed to find her and [[Ati\|Ati's]] corpses. Distraught, he called out to Preservation, raging that despite Ruin's death, the world was still ending. It was then that the two bodies began leaking the powers of Preservation and Ruin. Though initially doubtful that he could hold them, Sazed eventually realized that he was, in fact, the prophesied [[Hero of Ages\|Hero of Ages]], bound to take up both powers and restore the world. Thus, he grabbed both powers and used them to restore Scadrial, merging the two Shards together into [[Harmony\|Harmony]].
