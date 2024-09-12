@@ -1,5 +1,6 @@
 |**Nexus of Truth**|
 |-|-|
+||
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

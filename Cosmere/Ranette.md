@@ -95,7 +95,7 @@ Grappling hook: A portable grappling hook given to Waxillium to field test, allo
 Cords: The third revision of the grappling hook. The cords are three metal balls wrapped in a cord which uncoils to be used as a rope. An Allomancer can push or pull hidden switches within allowing the hooks to engage and disengage at will.
 Hidden shoe compartment: A hidden compartment for Allomantic metals hidden inside a shoe. Allomancer [[Jak\|Jak]] name-drops Ranette when scolding the compartments tendency to come loose.
 Vindication II: A large-caliber gun made entirely of aluminum. It has two extra chambers that hold oversized hazekiller rounds specifically designed to fight Hemalurgists.
-Steel Survivor: An aluminum mid-caliber pistol, which has an elongated barrel to fire precision rounds.
+[[The Steel Survivor\|The Steel Survivor]]: An aluminum mid-caliber pistol, which has an elongated barrel to fire precision rounds.
 Big Gun: A very large gun resembling a stocky single-barrel shotgun. Its barrel is four inches across, and it has a central wheel like a revolver, but much larger. It shoots slugs larger than shot glasses. It is carried in a wooden box in multiple parts that must be assembled.
 ## Quotes
 >“*I need you to stick your head in a bucket of water and slowly count to a thousand!*”

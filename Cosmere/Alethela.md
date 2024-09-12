@@ -67,7 +67,7 @@ Besides the mainland, the Alethelan people govern a number of territories off th
 Alethela has numerous rivers crossing it, the largest one being the [[Windrunner River\|Windrunner]]. The Windrunner River runs East to West, to the Bay of Elibath, which is located in Rishir, and has numerous tributaries across the northern half of the country. Additionally, Alethela also has another large river, distinct from the Windrunner, ending in Rishir and one that goes south to the Tarat Sea. The West of Alethela contains a long, cross-shaped masiff later called the [[Sunmaker Mountains\|Sunmaker Mountains]]. The Eastern part of the country also sees a large and hilly area of land. Alethela also controls the northern half of a large lake called the [[Sea of Spears\|Sea of Spears]].
 
 ### Climate
-Due to how far east it is, Alethela is buffeted by particularly heavy highstorms. This, like in its successor state Alethkar, forces settlements to primarily be built on the leeward sides of laits. These leeward sides are also far more lush with plant life, due to the protection the liats provide from powerful highstorm winds.
+Due to how far east it is, Alethela is buffeted by particularly heavy highstorms. This, like in its successor state Alethkar, forces settlements to primarily be built on the leeward sides of laits. These leeward sides are also far more lush with plant life, due to the protection the laits provide from powerful highstorm winds.
 Like the rest of Roshar, Alethela does not experience true seasons, as they are unrelated to irradiance. The east of the country experiences a moister climate than the west. Clouds are also less frequent in this region.
 
 ### Ecology

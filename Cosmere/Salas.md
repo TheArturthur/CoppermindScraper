@@ -113,6 +113,7 @@ The partial pressure of oxygen in the atmosphere of Roshar is higher than standa
 Roshar does not have plate tectonics. Roshar produces enough of a magnetic field to protect it from its sun, allowing it to be inhabited by life.
 The far south of Roshar gets cold, freezing near the poles.
 The rainwater in highstorms is laced with a sort of slurry called [[Crem\|crem]]. When crem dries, it hardens into rock. Since the highstorms always sweep from east to west, crem builds up on the eastern side of anything that stays still and isn't regularly cleaned. Over time, the continent is very slowly shifting across the planet as the highstorms cause erosion of the western part and a build up on the eastern part. This rainwater is full of nutrients, and plants given it fare better than those given water from other sources, such as lake or river water. Various cremlings search out and eat plants as they lap up the stormwater.
+Spiritually, Roshar is known to have a [[Spiritweb\|Spiritweb]], to which the many spren of Roshar [[Connection\|Connect]].
 
 ### Climate
 With the exception of [[Shinovar\|Shinovar]] and the occasional well-sheltered [[Lait\|lait]], all of Roshar is frequently ravaged by powerful [[Highstorm\|highstorms]], massive hurricanes travelling from east to west. These storms come frequently and, though they do not appear to follow a simple pattern, [[Stormwarden\|stormwardens]] are able to accurately predict their schedule through complex mathematics. As a result, Shinovar is the only place on Roshar that has soil. A highstorm consists of a high altitude, wide-spread , scraping the top of Roshar's troposphere; they can be -like storms bringing heavy rain and strong winds.
@@ -191,7 +192,7 @@ Around ten-thousand Rosharan years (11000 standard years) before the [[True Deso
 #### The Expulsion and Early Interactions
 
 >“*They came from another world, using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging*”
-\-From the Eila Stele[91]
+\-From the Eila Stele[92]
 
 
 Humans fled to Roshar from [[Ashyn\|Ashyn]], another planet in the [[Rosharan system\|Rosharan system]], around seven-thousand years before the True Desolation. They had destroyed the planet using what Honor implied to be the [[Dawnshard\|Dawnshards]], after Odium tricked [[Ishar\|Ishar]] into experimenting with Surges. Honor and Cultivation commanded the singers to take the humans in despite the forbidden powers they had relating to [[Spren\|spren]] and [[Surge\|Surges]], and they were given [[Shinovar\|Shinovar]] to live in since Shinovar could support the plants and animals they brought. With the humans came [[Odium\|Odium]]. The humans, possibly with Odium's influence, grew dissatisfied with what they were given. The conflict between the invading humans and the singers living on Roshar became the [[First Desolation\|First Desolation]].
@@ -214,20 +215,20 @@ At some point during the Desolations, a group of singers known as the [[Last Leg
 
   The Last Desolation
 >“*A...a decision has been made. It is time for the Oathpact to end.*”
-\-Jezrien's words to Kalak[104]
+\-Jezrien's words to Kalak[105]
 
 
 At the end of the [[Last Desolation\|Last Desolation]], around 4500 before the True Desolation, nine of the ten Heralds had survived the fighting. As usual, they were supposed to return to [[Braize\|Braize]] to hold back the [[Fused\|Fused]]. However, knowing they could not face more torture, they came up with an alternative plan. [[Taln\|Taln]], the only Herald never to have broken during the millennia of Desolations and the only Herald who had died that time, would remain on Braize by himself. They had been warned that lingering on Roshar could lead to the start of another Desolation, but [[Ishar\|Ishar]] claimed that Taln by himself would be enough to hold back the Desolations and maintain the Oathpact. Rather than tell mankind the truth, the Heralds proclaimed that they had finally won the war against the Voidbringers. This deception lasted for around 4500 years, until Taln finally returned from Braize to Roshar by mechanics which are as yet unclear.
 
 ### The Era of Solitude
 >“*The Voidbringers were cast back into the Tranquiline Halls. The Heralds followed to force them out of heaven as well, and Roshar's Heraldic Epochs ended. Mankind entered the Era of Solitude. The modern era.*”
-\-Kabsal to Shallan[68]
+\-Kabsal to Shallan[69]
 
 
 #### The False Desolation
 
 >“*Something must be done about the remnants of Odium’s forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
-\-Drawer 30-20, first emerald[107]
+\-Drawer 30-20, first emerald[108]
 
 The [[False Desolation\|False Desolation]] began around 2500 years after the Last Desolation, when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them [[Regal\|forms of power]] and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
 Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because she had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.

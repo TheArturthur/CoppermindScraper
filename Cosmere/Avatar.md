@@ -201,7 +201,8 @@ Each Shard appears particularly predisposed toward acting in line with their int
 ### Individual Powers
   <<Ruin\|Ruin>> commanding a <<Steel Inquisitor\|Steel Inquisitor>>
 #### Movement and Multilocation
-Vessels are capable of appearing in various parts of their own Invested worlds instantaneously. They can also travel to other planets by willing themselves to do so. However, when a Shard Invests its power in a world, it's bound to it and will have difficulty leaving the system it is in. Shards can also trap each other in systems, though the precise mechanics of that are unknown.
+Vessels are capable of appearing in various parts of their own Invested worlds instantaneously. They can also travel to other planets by willing themselves to do so. However, when a Shard Invests its power in a world, it's bound to it and will have difficulty leaving the system it is in.
+Shards can also trap each other in systems, though the precise mechanics of that are unknown. What is known, however, is that when a Shard is trapped or sealed within a space such as a planet or planetary system, it is their Physical and/or Cognitive Aspects which are trapped, not their Spiritual Aspect.
 They are capable of manifesting in multiple locations simultaneously, but not to the point of omnipresence. These are able to act independently from one another, while being product of the same mind.
 
 #### Communication
@@ -213,6 +214,7 @@ A Shard can also communicate directly with [[Cognitive Shadow\|Cognitive Shadows
 They can create a Physical body as a means of communication and interaction with the Physical Realm and the denizens of it. They can appear however they desire, taking on a different form for different people. They are not only able to appear as a sophont, but also produce natural phenomena or display eras of time upon their very form.
 The physical manifestation of a Shard is described as being like an impression, rather than their true being. They are often described as melding with the world around them, with their power and essence stretching into infinity. A reflection of the true scope of the power that they hold.
 Damage to the Shard reflects in damage to the body, such as the damage to Preservation causing his body to have holes, distort, and at times completely disintegrate. The instability between Ruin and Preservation within Harmony has also led to an uncontrollable aspect of his manifestation, forming a dark copy of himself mirroring his movements. Though this does not appear at all times.
+Furthermore, collective perception and beliefs can shape the physical manifestation of a Shard or Vessel, in minor ways, over centuries to millennia.
 These physical manifestations can be created in multiplicity, existing in multiple places at once within a Shard's sphere of influence, each acting independently from one another.
 
 #### Mental Capacity

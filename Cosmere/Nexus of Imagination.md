@@ -1,5 +1,6 @@
 |**Nexus of Imagination**|
 |-|-|
+||
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

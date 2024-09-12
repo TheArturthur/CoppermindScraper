@@ -9,7 +9,7 @@
 \-Khriss[1]
 
 
-The **spiritweb** is the network of [[Connection\|Connections]] and [[Investiture\|Investiture]] which make up the soul of a creature, place, or object. Residing in the [[Spiritual Realm\|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity\|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual Aspect**, and one’s **Spiritual Ideal**.
+The **spiritweb** is the network of [[Connection\|Connections]] and [[Investiture\|Investiture]] which make up the soul of a creature, place, object, or planet. Residing in the [[Spiritual Realm\|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity\|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual Aspect**, and one’s **Spiritual Ideal**. The Spiritweb is Connected to the [[Physical Realm\|Physical]] and [[Cognitive Realm\|Cognitive Aspects]], and contains a Connection between both.
 
 ## Contents
 
@@ -21,6 +21,7 @@ The **spiritweb** is the network of [[Connection\|Connections]] and [[Investitur
 1. [[#Healing the Physical]] 
 
 
+1. [[#Permanency]] 
 
 
 2 Interactions. [[#Interactions]] 
@@ -68,6 +69,9 @@ A person's spiritweb can be damaged either through physical or emotional trauma.
 
 #### Healing the Physical
 Most forms of healing work by using the three aspects of the user's self; their Physical, Cognitive, and Spiritual. Healing typically heals the Physical version by matching it to their Spiritual Ideal, which is filtered through the lens of their minds (the Cognitive aspect). Almost all forms of healing in the [[Cosmere\|cosmere]], even natural healing, are filtered through the perception of the user,  which means that if a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it. An example of this can be found when [[Kaladin\|Kaladin]] was unable to heal his slave brand until he swore the fourth oath and recognized that it wasn't a part of him.
+
+### Permanency
+Even after death, a record of the Spiritweb of a person remains in the Spiritual Realm. It is not known if this can be interacted with by Invested Arts such as Hemalurgy.
 
 ## Interactions
 All forms of Investiture which one can use are related to the spiritweb. Some manifestations of Investiture are built into a person's Spiritual DNA, such as [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]]. Other abilities, such as [[Hemalurgy\|Hemalurgy]] and [[Surgebinding\|Surgebinding]], involve manipulating Spiritual DNA. A few types of Investiture even work by manipulating or overwriting the spiritweb directly, such as [[Forgery\|Forgery]].

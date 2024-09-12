@@ -50,11 +50,11 @@
 Terris appears to be derived from the Terris infinitive verb *Terr* meaning *To Preserve*, which is also the ancient name for Preservation, referencing their veneration of Preservation and the importance of it to their culture.
 
 ## History
-The Terris people have a long and varied history reaching across multiple eras of Scadrial. Their ancestors were created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]] at some point after the creation of Scadrial, who came to populate the planet. It is not known exactly when Terris ethnogenesis occurred, however, but they are known to be a long established group by the time of the First Ascension.
+The Terris people have a long and varied history reaching across multiple eras of Scadrial. Their ancestors were created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]] at some point after the creation of Scadrial, who came to populate the planet. It is not known exactly when Terris ethnogenesis occurred, however, but they are known to be a long established group by the time of the Lord Ruler's Ascension.
 
 ### Classical Scadrial
 During the late Classical Era of Scadrial, the Terris people lived in the Terris mountains and were subject to oppression by many different states and peoples, including [[Khlennium\|Khlennium]]. This has instilled a hatred for the people of these states, particularly amongst the younger generation, who believe their people were made like slaves to foreign powers. However, Khlenni culture still influenced Terris culture, and some Terris people traded with Khlennium and took on Khlenni fashion.
-They gained Feruchemy at least two-hundred years before the First Ascension, though they possibly possessed it for far longer.
+They gained Feruchemy at least two-hundred years before the Ascension of the Lord Ruler, though they possibly possessed it for far longer.
 When [[Alendi\|Alendi]] came to Terris to stop the [[Deepness\|Deepness]] from consuming the world, they took him up into the mountainous regions to seek the [[Well of Ascension\|Well of Ascension]]. When they arrived, [[Rashek\|Rashek]] betrayed and killed Alendi and took the power of the Well for himself. After realizing that his Ascension had ruined the world, he set himself up as the protector of humanity, beginning the time of the [[Final Empire\|Final Empire]].
 
 ### Final Empire
@@ -116,7 +116,7 @@ The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to pr
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
 \- Tellingdwar giving the evening recitation[28]
 
-Post-Catacendre religious practices changed from the pre-First Ascension practices. Though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
+Post-Catacendre religious practices changed from the pre-Final Empire practices. Though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
 
 ### Feruchemy

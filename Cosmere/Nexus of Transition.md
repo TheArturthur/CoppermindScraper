@@ -1,5 +1,6 @@
 |**Nexus of Transition**|
 |-|-|
+||
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

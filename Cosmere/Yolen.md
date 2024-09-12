@@ -38,12 +38,14 @@ Very little is known about Yolish geography, other than that it has some unusual
 One form of known fainlife are Tamu Keks, which are similar to singer gemhearts, and can be used for inter-Realmatic communication.
 Yolen is home to three sapient races: humans, [[Dragon (cosmere)\|dragons]] and [[Sho Del\|Sho Del]]. By [[Roshar\|Rosharan]] year 1174, [[Frost\|Frost]] is the only known inhabitant, and though there are more people living there, the Yolish population is rather small. While not all humans originated from Yolen, it was the first world on which they've appeared. Many languages currently in use across the [[Cosmere\|cosmere]] are derived from Yolish ones.
 Trees on Yolen, presumably in fain areas, are bone-white.
-Yolen has a strange astronomy that would be impossible under ordinary laws of physics.
+Yolen has a strange astronomy that would be impossible under ordinary laws of physics, furthermore, there is a "weirdness" about the planet that makes discussion about location complicated.
+Yolen is somehow hidden and inaccessible by the time of the [[Catacendre\|Catacendre]]; how or for what reason, is currently unknown. Most information concerning Yolen known amongst arcanists and other researchers comes from stories, rather than on-site research.
 
 ## Culture
 On Yolen, Dragons were seen and worshipped as gods. Before the Shards started getting involved with other planets, Yolen was one of the most technologically advanced planets in the cosmere, having reached the Bronze Age. They were not aware of what the stars were, and many philosophers would debate at length on the subject. What philosophical outlooks were present is unclear, but it is known that they possessed an understanding of philosophy and often had debates on the matter.
 At least some cultures on the planet had a form of economy and knew how to make alcohol. However, the form the economy or currency took is currently unclear.
 Little is known about Yolish ethnic groups or cultures, except that it had a wide diversity of skin tones and features. Various peoples from Yolen are seen to not possess epicanthic folds. Yolen is also known to have at least one major language, which is the ancestor to various languages across the cosmere.
+Yolen has fallen behind technologically compared to many other planets in the cosmere. This is due to certain things that they have access to.
 
 ## History
 Yolen is one of the oldest inhabited worlds in the cosmere, and the first on which humans have appeared. It's also the world of [[Adonalsium\|Adonalsium]], the entity believed to be the cosmere's creator deity. Yolen had gods other than Adonalsium, the nature of these gods is unknown, however, at least some of them are known to have died.
@@ -57,6 +59,7 @@ People worldhopped to other planets on rare occasions over Yolen's history.
 ### The Shattering of Adonalsium
 At some point, sixteen Yolish people, not all of whom were human, came together to kill Adonalsium for various reasons. The [[Shattering of Adonalsium\|Shattering of Adonalsium]], as it came to be known, dramatically altered the entire cosmere. All [[Investiture\|Investiture]] that once belonged to Adonalsium was divided between the [[Shard\|Shards]] created by its death, and the preexisting magic systems were altered in how they functioned.
 Following the Shattering, most Shards left Yolen to go their own separate ways. Many humans have also abandoned it, spreading across the cosmere. Over the following millennia, it has become hidden in some way, shrouded from prying eyes, making reaching and researching it extremely difficult. By the time of the [[True Desolation\|True Desolation]] on Roshar, its remaining population is small.
+Due to certain factors, technological advancement on Yolen after the Shattering progressed slowly, with other planets consistently surpassing it in technological advancement.
 
 ## Magic
 Yolen appears to have several magic systems, though only two are known.
