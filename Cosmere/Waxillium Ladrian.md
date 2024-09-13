@@ -110,7 +110,7 @@ Waxillium is a Crasher; a [[Steel\|Coinshot]] and [[Iron\|Skimmer]] Twinborn. Th
 
 #### Allomancy
 Waxillium is an extremely skilled Coinshot. Perhaps the biggest mark of his mastery is his ability to regulate the strength of his Steelpushes. Generally, Allomancers find it too hard to maintain a fine control over their Steelpushes, so instead most opt to regulate the length of the time of them. Levitating without bobbing up and down, for example, requires extreme discipline that few Allomancers can achieve; most use short bursts of Steelpushes, fall down, then Push again. Waxillium is able to apply enough pressure on a small metal rod to make it stick to the side of a table without moving the table itself with ease.
-Wax also uses his ability to form a defensive bubble around himself that doesn't affect his own metal items but Pushes bullets coming at him off course slightly; to enhance the velocity of his bullets, Pushing them after being shot to force them through an opponents cover; and to travel in the air, in combination with his Skimmer ability to regulate his mass. Wax doesn't appear to use the most obvious ability of a Coinshot very often, as he had to be reminded that he could launch a bullet without a gun, although he always uses steel for his third vest button as an extra metal reserve or to use as a weapon in emergencies.
+Wax also uses his ability to form a defensive bubble around himself that doesn't affect his own metal items but Pushes bullets coming at him off course slightly; to enhance the velocity of his bullets, Pushing them after being shot to force them through an opponents cover; and to travel in the air, in combination with his Skimmer ability to regulate his mass. Wax doesn't appear to use the most obvious ability of a Coinshot very often, as he had to be reminded that he could launch a bullet without a gun, although he always uses steel for his third vest button as an extra metal reserve or to use as a weapon in emergencies. Wax trained himself to put out electronic lights by distorting the hidden, often in walls, wires.
 While experimenting on [[Trellium\|trellium]], Wax inhaled and burned a small amount of [[Lerasium\|lerasium]], making him a Mistborn, therefore allowing him to burn all Allomantically viable metals.
 
 #### Feruchemy
@@ -127,7 +127,7 @@ Wax spent twenty years as a lawman in the [[Roughs\|Roughs]]. His exploits are a
 
 
 >“*Reports trickle in. From the Roughs. Most of them get written up by someone. You can find them at the university or at the right bookshop.*”
-\-Marasi on Wax's notable cases[27]
+\-Marasi on Wax's notable cases[28]
 
 
 [[Peret\|Peret the Black]], a rapist and [[Pewterarm\|Pewterarm]]. The first man Wax ever brought in.
@@ -152,12 +152,12 @@ At the age of 15, Wax spent a year living in the [[Village\|Village]], with the 
  
 ### The Roughs
 In his early years in the [[Roughs\|Roughs]], Wax developed an image of himself as a "Gentleman Bounty Hunter"; although initially incompetent and unfamiliar with his Twinborn abilities, he would eventually hone them. At one point, he had a deputy named [[Paclo\|Paclo]]. He pro-actively worked with other law enforcers in the area, eventually working with [[Jon Deadfinger\|Jon Deadfinger]] and finding a 17 year old [[Wayne\|Wayne]] who he would ultimately spare from execution and turn his life around to become a lawman.
-During a bounty claim on Granite Joe, he encountered [[Lessie\|Lessie]]--a woman he would fall in love with and eventually marry.
+During a bounty claim on Granite Joe, he encountered [[Lessie\|Lessie]]--a woman he would fall in love with and eventually marry. In 339 [[Catacendre\|PC]], Wax and Wayne were in [[West's Haven\|West's Haven]], and Wayne burned down a school.
 After the reported death of his uncle, Wax was implored to return to Elendel to begin managing the ledgers of his house. Initially ignoring this request, Wax chose instead to hunt the murderous [[Bloody Tan\|Bloody Tan]] as his final bounty. In a horrifying turn of events, Waxillium mistakenly shot Lessie in the forehead when he attempted to free her from Bloody Tan's clutches. With nothing left for him in the Roughs, Wax returned to his family mansion in Elendel.
 
 ### Return to Elendel
 >“*He always felt stronger in the mists. He felt like someone was watching, when he was out in them.*”
-\-Wax thinks of the mists[35]
+\-Wax thinks of the mists[37]
 
 In his early months in Elendel, Wax earned a reputation for frequently disappearing early from social functions, preferring to steel-push through the mists, in patrol of the city. On one such night, Waxillium paused his patrol and intervened in a shootout. Believing he heard a woman's whimper, which reminded him of Lessie, Wax froze during the gunfight. Coming to the conclusion that he was no longer capable of being a lawman, and with the effectiveness of the city constabulary forcing him to face the irrelevance of vigilante justice in general, Wax hung up his guns for the time being.
 Throwing himself into the much more mundane effort of saving his house's financial future, Waxillium spent half a year working to reverse his late uncle's squandering of the family funds. At some point, he courted lady [[Valette Entrone\|Valette]] [[House Entrone\|Entrone]], albeit without success  Believing there was no other choice, he entered into a marriage agreement with [[Lord Harms\|Lord Harms']] daughter, [[Steris\|Steris]], hopeful that her father's money would help bring House Ladrian back from the brink of destitution. That same day, Wayne, an old partner from his time in the Roughs, re-entered Wax's life--carrying with him an [[Aluminum\|aluminum]] bullet and a tantalizing mystery surrounding a gang of train robbers known as the [[Vanishers\|Vanishers]], which threatened to draw Wax away from his house responsibilities and right back into the life of a lawman.
@@ -166,7 +166,7 @@ Throwing himself into the much more mundane effort of saving his house's financi
 Against his better judgement, and under the disapproving eye of his butler, [[Tillaume\|Tillaume]], Wax began to piece together the history of the Vanishers, hoping to discover the reason for their unorthodox targets as well as the secret behind the way they commit their crimes. Realizing the distraction this had created for his house duties, Waxillium endeavored to put away this new obsession and attended the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]] with Steris, marking their public debut as a couple.
 
 >“*It was so hard not to recall the sight of him breaking through the line of tables, gun in hand as he expertly felled two of the men trying to haul her out into the night. Or the sight of him soaring through the air—gunshots exploding up from beneath, the chandeliers shattering and crystal spraying light around him—as he shot a man from midair and dropped to rescue his friend. She was talking to a legend.*”
-\-Marasi calls on Waxillium in his study[37]
+\-Marasi calls on Waxillium in his study[39]
 
 After the wedding was interrupted by the arrival of bandits from the Vanishers gang, who proceeded to rob the lords and ladies in attendance at gunpoint, Wax initially refused Wayne's insistence that he take up a pistol--having convinced himself that the Elendel constabulary would be able to handle the disturbance with far less bloodshed. When the gang went too far, killing a man and taking Steris as a hostage, Wax admitted that he could not stand idly by, and attacked the gang with his backup pistols and the full fury of his Steelpushing. In the ensuing gunfight, Wax, Wayne, and Steris' cousin [[Marasi\|Marasi]] worked together to subdue the majority of the attackers, while successfully minimizing civilian casualties. When Marasi was suddenly held at gunpoint by one of the gang, in the same fashion as Lessie a year ago, Wax nearly froze up again. Marasi struggled, successfully stunning the Vanisher holding her, momentarily opening up the shot for Wax--forcing him to make a choice to overcome his fear to pull the trigger and save her. As the robbers retreated, Waxillium was surprised to discover the identity of the Vanishers' leader, [[Miles Dagouter\|Miles "Hundredlives" Dagouter]]--another former lawman from the Roughs.
 With Steris kidnapped, Wax re-doubled his efforts into his previous investigation. Having obtained one of the Vanishers' aluminum guns, Wax poured himself into researching its makeup and possible origin as well as uncovering the mystery of the Vanishers' ultimate goal.
@@ -192,7 +192,7 @@ Approached by a number of constables who arrived late on the scene, Wax learned 
 Starting his search in the best place to find word of a rogue Feruchemist, Wax visited the [[Terris\|Terris]] [[Village\|Village]] to obtain the counsel of his grandmother, [[Vwafendal\|Vwafendal]]. Recognizing the name [[Idashwy\|Idashwy]], a Steelrunner from his past who had recently left the Village, Wax continued his investigation elsewhere, enlisting Wayne's help to discover the woman's address in the city. Blindsided by another momentary glimpse of Bloody Tan on the crowded streets, Wax began to doubt his own senses. Shaking off the distraction, Wax joined Wayne in discovering Idashwy's corpse, laying in her kitchen with a large hole bored through her chest. Having spent great amounts of time studying a book gifted to him by [[Ironeyes\|Ironeyes]] himself, Wax recognized the likelihood of Idashwy having been the victim of the creation of a [[Hemalurgic\|Hemalurgic]] spike. Guessing that the killer used the spike to steal her Feruchemical speed, Wax was surprised to find a note written to himself hidden in the victim's pocket. On the note were some of the last words Bloody Tan said to him, back in the Roughs.
 
 >“*Someone else moves us, lawman.*”
-\-Bloody Tan[29]
+\-Bloody Tan[30]
 
 Needing time to think, Wax rode alone in his carriage, driven by [[Hoid\|Hoid]]. Casually musing upon whether his [[Pathian\|Pathian]] earring may have once been a Hermalurgic spike, Wax placed it into his ear. Immediately, Harmony spoke to Wax directly--careful to reassure him that he had not gone insane. Harmony admitted that the earring was a spike, which was the reason they were able to converse. Additionally, Harmony explained that Wax's earlier sightings of Bloody Tan were real and not imagined, though the murderer Wax had been chasing all this time was not a man, but actually a [[Faceless Immortal\|Faceless Immortal]] using Tan's bones, named [[Bleeder\|Bleeder]].
 
@@ -202,7 +202,7 @@ His pursuit of Bleeder waylaid by a dozen armed men, Wax was convinced that she 
 Tracking Bleeder's path, Wax located the carriage she had used to escape the scene of the killing. Inside, Wax found traces of [[Perchwither\|Perchwither]], a substance only found in the [[Kandra Homeland\|Homeland of the Faceless Immortals]]. Puzzled, Wax followed her trail back to the Governor's mansion. Once close enough to her location, Bleeder's voice immediately returned to his mind, keen to convince Wax that Harmony did not care and was only using him. Sowing doubt, Bleeder asked Wax to attempt to explain why Harmony had failed to step in and save Lessie's life. Distracted, Wax was unable to prevent Bleeder from using her stolen Steelrunner abilities to attack Innate's chambers. By the time Wax arrived, Bleeder had already disappeared, though thankfully leaving the governor alive. Looking closer, Wax found another message from Bleeder, this time written in the blood of her latest kill.
 
 >“*I rip out his tongue to stop the lies. I stab out his eyes to hide from his gaze. You will be free.*”
-\-Bleeder[55]
+\-Bleeder[57]
 
 Seeking more information on Bleeder, Wax entered the museum in the [[Field of Rebirth\|Field of Rebirth]]. Locating the secret path through the historical [[Atium\|atium]] mines, Wax entered the cavern leading to the Homeland, and encountered [[TenSoon\|TenSoon]], legendary wolfhound of the [[Ascendant Warrior\|Ascendant Warrior]]. TenSoon told Wax much of Bleeder's history and showed him a torn up and desecrated copy of the [[Words of Founding\|Words of Founding]]--the product of one of her last acts before leaving the Homeland and evidence of her descent into madness. Wax and TenSoon found themselves chased from the Homeland by the sudden appearance of [[Hemalurgic chimera\|Hemalurgic chimeras]]--deformed humans under Bleeder's control--but not before Wax came to realize the full scope of her plan. She didn't want to simply kill the governor; she wanted to incite a city-wide riot. Wax immediately returned to Innate's mansion, intent on saving his life once and for all. After entering the governor's study, Wax noticed a carefully placed gumball, which he recognized to be a sign of trouble, left for him by Wayne. Immediately realizing the truth--that Bleeder had been secretly impersonating the governor the entire time--Wax pulled out his gun. Bleeder opened fire first, killing Innate's guards as she escaped out the window.
 
@@ -214,7 +214,7 @@ In the weeks that followed, Wax bitterly grieved his wife's final death, greatly
 
 ### The Bands of Mourning
 >“*In the back of his noggin, he'll be relieved that I stopped the wedding. He'll figure it was me, deep in his subcontinence, and will pay for the damages—no matter what the assessor says. And he won't say anything, won't even investigate. Watch.*”
-\-Wayne speaks with Marasi[61]
+\-Wayne speaks with Marasi[63]
 
 Six months later, spurred on by a slowly growing bond with Steris and determined not to remain in the same well of despair that had tried to claim him when he lost Lessie the first time, Wax had returned to the pursuit of his constabulary duties with Wayne. When the day of his wedding with Steris arrived, Wax found himself pursued once again by a member of Harmony's kandra; this one claiming to have a matter of great importance to discuss. Rebuffing him, Wax continued on to the Survivorist church where he walked down the aisle with Steris, whose genuine tears moved him in a way he did not expect. Realizing he was still not ready to let go of Lessie's memory, Wax was blessedly spared the need for any further heartbreak when a water tower outside suddenly tipped onto the roof of the church, bathing all those in attendance and postponing the ceremony once again, much to Wax's relief.
 
@@ -222,7 +222,7 @@ Six months later, spurred on by a slowly growing bond with Steris and determined
 Wax unholstered Vindication and downed a new vial of metals as he returned to Ladrian mansion later that day; the telltale clues of intrusion in his own home had quickly brought him to high alert. Discovering that this newest threat turned out to be nothing more than the same kandra as before, now seated in Wax's own study, had done little to encourage him to lower his pistol. The kandra, [[VenDell\|VenDell]], of the sixth generation, had successfully ensnared Marasi and Wayne in his appeal for assistance, but Wax believed that VenDell had done so simply as another way to entangle him into the affair, while ignoring his earlier refusal. Pouncing on Wax's curiosity, VenDell produced an [[Evanoscope\|evanoscope]], which he used to engage him in a presentation on the nature of [[Investiture\|Investiture]] and [[Identity\|Identity]], as well as the myth of the [[Bands of Mourning\|Bands of Mourning]]. Wax's patience wearing thin, VenDell explained that these evanotype images had been taken by another kandra, [[ReLuur\|ReLuur]], who was obsessed with the Bands and convinced they were Identity-less [[Metalmind\|metalminds]] which held the potential to grant anyone Metalborn powers to rival those of the [[Lord Ruler\|Lord Ruler]]. Dismissing the idea outright, Wax was shocked to see another evanotype impressed with an image of his sister, [[Telsin\|Telsin]], who was being dragged somewhere against her will. VenDell informed him that ReLuur had been accosted by the same thugs in [[New Seran\|New Seran]], where one of his spikes had been stolen. Convinced of the danger and worried for his sister, Wax agreed to help.
 
 >“*What is it about you that makes me want to punch you, even when you're saying something helpful?*”
-\-Wax to VenDell[62]
+\-Wax to VenDell[64]
 
 With real proof that his sister was alive for the first time in years, Wax knew he was being manipulated into doing Harmony's bidding again; though this time, he endeavored to step in with his eyes wide open. Wax categorically rejected VenDell's extended gifting of another Pathian earring. He would do this on his own, without Harmony's voice in his ear.
 Joined on the train to New Seran by Steris, who was becoming increasingly familiar and useful company, Wax soon found it difficult to interrupt her intense reading of a book. He needed to mine her keen knowledge of local politics and slake his curiosity after he noticed increased protests of Elendel's tariffs, visible out the windows as they passed through the outer cities. Distracting her further, Wax was delighted to finally catch a glimpse of what had earlier held Steris' attention so doggedly--she had been reading a book on basic human reproduction. Mortified, Steris attempted to change the subject, but the discovery only added to Wax's growing affection for the woman.
@@ -241,7 +241,7 @@ Staying ahead of the local authorities and following up on their only lead from 
 Splitting from Marasi and MeLaan, who went in search of ReLuur's stolen spike, Wax and Wayne entered the warship, determined to locate Edwarn himself. Using a spyglass borrowed from MeLaan, Wax immediately changed their plan when he located the chamber where Telsin was being held. Easily bypassing the workmen and engineers blocking his path, Wax quietly entered the room dead set on saving his sister. Finally reunited, Wax was surprised when Telsin immediately took brutal retribution on one of her captors. The years had really changed her just as, he supposed, they had changed him. Fighting their way out, accompanied by a generous helping of speed bubble assistance from Wayne, Wax joined in a grand escape after [[Allik\|Allik]], a masked man that Marasi had rescued, revealed the existence of a second, smaller ship which could detach from the main vessel and lift into the sky.
 
 >“*You were always the quiet one. The thoughtful one. How did you get here? I... Your face, Waxillium. You're old.*”
-\-Telsin[75]
+\-Telsin[77]
 
 Briefly stopping their ship to pick up Steris, Wax and Marasi pored over a notebook that she stole from Edwarn, which seemed to show the location of a second work site, south of their position. This corroborated Telsin's claims that Edwarn had been obsessively working to find a great weapon in the south that promised to give the Set the ability to dominate the whole of the [[Elendel Basin\|Basin]]. Telsin warned Wax that their uncle had set off to retrieve the weapon not long ago; it was clear that there wasn't much time. Marasi's notebook also included a map showing a temple marked for excavation in the peaks of the southern mountains, which reignited the palpable fear that the Set could be dangerously close to obtaining the fabled Bands of Mourning, just as VenDell had warned back in Elendel.
 Taking advantage of their more efficient form of travel, Wax's group arrived on the mountain peaks soundly before Edwarn and his men could complete their slow climb through the snow. Locating the temple from Marasi's notebook, Wax ventured inside, proceeding with caution after he encountered the scattered remains of treasure hunters who had been there before him. Making grand use of MeLaan's nigh-invincibility, Wax and Allik worked slowly through the temple's ancient security system, safely triggering traps that would have spelled certain death for any other group of trespassers.
@@ -250,7 +250,7 @@ Halted by a door which was inscribed with writing that none of them could deciph
   Speaking with <<Sazed\|Sazed>>
 #### Return
 >“*Wax clenched his jaw, but couldn't force down the trembling that took him. He lived it again, holding her as she died. Knowing he'd killed her. That hatred seethed inside of him. Hatred for Harmony. Hatred for the world. And yes. Hatred for himself.*”
-\-Wax reflects on Lessie's death.[80]
+\-Wax reflects on Lessie's death.[82]
 
 Immediately, Wax found himself in the presence of Harmony. Face to face with the god he had shunned for so long, Wax did not shirk away; instead, Wax laid into Harmony for his inaction that had led to so many people suffering. He chastised him for using Wax all these years with what appeared to be so little regard. He demanded an explanation for what happened to Lessie. This scene is reminiscent of Kelsier's meeting with Preservation in Mistborn: Secret History. Together, Wax and Harmony philosophized on the nature of cause and effect. Harmony patiently explained that his workings were larger in scope than Wax could currently understand. He expanded Wax's worldview-- showing him a representation of the planet and allowing him a small glimpse of the greater conflict in which he was currently embroiled. Allowing Wax to choose, Harmony offered him a chance at "another adventure," which Wax accepted. Wax opened his eyes and screamed, throwing the rubble from his body with the pure strength of steel itself. His body instantaneously healed, Wax focused his view on Marasi who had placed something like an oversized spearhead in his hand: the real Bands of Mourning, an unkeyed metalmind of nearly limitless power.
 Tapping the enormously potent metalmind inside the spearhead, Wax burst through the confines of the temple and out into the open air, trailing mist in his wake. Able to sense and call upon what seemed to be endless trace metals in the surrounding area, Wax knew that he could crush Edwarn and Telsin's fleeing ship with little effort. Bringing himself under control, Wax confronted his uncle for the final time, choosing to subdue him without the use of the spearhead's dangerous power.
@@ -288,19 +288,19 @@ He has always had a rather antagonistic relationship with his sister, which was 
 
 ## Quotes
 >“*I saw it in his eyes, first. That hunger, that fire. And then I found it in myself. He's a flame, Waxillium is, and fire can be shared. When I'm out here, when I'm with him, I burn, Marasi. It's wonderful.*”
-\-Steris[87]
+\-Steris[89]
 
 
 >“*The law is there to keep us from ruining everyone else's ability to explore. Without law, there's no freedom. That's why I am what I am.*”
-\-Wax[64]
+\-Wax[66]
 
 
 >“*I have known you for an entire year now, Lord Waxillium. I can accept you for who you are, but I am under no illusions. Something will happen at our wedding. A villain will burst in, guns firing. Or we'll discover explosives in the altar. Or Father Bin will inexplicably turn out to be an old enemy and attempt to murder you instead of performing the ceremony. It will happen.*”
-\-Steris[48]
+\-Steris[50]
 
 
 >“*You're wrong about me... I'm not Harmony's hands. I'm His sword.*”
-\-Wax confronts Bleeder[45]
+\-Wax confronts Bleeder[47]
 
 
 >“*Steris, I think we're all like that. Shuffled from place to place by duty, or society, or God Himself. It seems like we're just along for the ride, even in our own lives. But once in a while, we do face a choice. A real one. We may not be able to choose what happens to us, or where we'll stop, but we point ourselves in a direction.*”
@@ -308,7 +308,7 @@ He has always had a rather antagonistic relationship with his sister, which was 
 
 
 >“*I have done something to help. I sent you.*”
-\-Harmony speaks to Wax[43]
+\-Harmony speaks to Wax[45]
 
 
 ## Trivia
@@ -316,7 +316,7 @@ Brandon originally intended Wax's instinctive ability to create a steel bubble t
 Wax is one of only three Crashers ever born.
 Wax prefers [[Stagin\|Stagin's]] whiskey in his Allomantic vials, believing that Allomancers who do not do so are missing a golden opportunity. Steris prefers to use cod-liver oil in the vials that she prepares for Wax.
 >“*Whiskey is bad for you, Lord Waxillium. A wife **must** look out for her husband's health.*”
-\-Steris[65]
+\-Steris[67]
 
 
 Wax has drawn upon the mists at some point.

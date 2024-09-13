@@ -1,6 +1,7 @@
 |**Sea of Lost Lights**|
 |-|-|
 ||
+||
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

@@ -86,6 +86,7 @@ The Investiture of a Shard permeates all three Realms; Physical, Cognitive, and 
 Investing in a world will produce numerous effects, most notably the creation of an Invested Art tied to the Shard. While a Shard doesn't have complete control over how the Invested Art functions or what it does, it can manipulate its mechanics to an extent. Moreover, the presence of a Shard leads to the formation of a [[Perpendicularity\|Perpendicularity]], a well of the Shard's Investiture that pierces all three [[Realmatic Theory\|Realms]], allowing for Realmatic transfer and [[Worldhopping\|worldhopping]]. The Shard's Investiture can also manifest directly in the world in other ways; examples of such manifestations are [[Atium\|atium]] and [[Lerasium\|lerasium]] on [[Scadrial\|Scadrial]], the [[Tears of Edgli\|Tears of Edgli]] on [[Nalthis\|Nalthis]], or the many [[Spren\|spren]] of [[Roshar\|Roshar]].
 The core of being through which the power flows, that is, the Vessel, is described as a mere focus or hub for the omnipresent power of the Shard.
 Shards can be combined and intermingled with one another, which changes the Intent and effects how the Shard influences the world and the Vessel holding it. One can theoretically combine every Shard in one Vessel in order to recreate Adonalsium. But other theories posit that doing so would destroy the Vessel, and still others posit that it cannot be done.
+Shards are, as forces of nature, not inherently bound by the moral standards of sapient societies. Therefore, they are not definable as good or evil. This morality inapplicability influences the Vessels.
 The power that makes up a Shard was originally part of Adonalsium, and thus predates the Shattering. Upon the Shattering, all Investiture that made up Adonalsium was split between the sixteen Shards.
 
 #### Intent
@@ -136,7 +137,7 @@ Various knowledgeable figure debate on the difference between the Vessel and pow
 ## History
 
 >“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
-\-Sazed[99]
+\-Sazed[102]
 
 
 It is unknown what precisely [[Adonalsium\|Adonalsium]] was, though it has been referred to numerous times as the power of creation, suggesting it to be the progenitor god of the [[Cosmere\|cosmere]]. At some point in the distant past, on the planet of [[Yolen\|Yolen]], sixteen people conspired to kill it, and succeeded in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Some of those people were romantically involved; others were related to each other. All of them were mortal at some point.
@@ -180,7 +181,7 @@ Several of the known Shards are dead in the current time, with [[Ambition\|Ambit
 
 ### Unnamed Shard
 >“*Some men, as they age, grow wiser. I am not one of those, for wisdom and I have always been at cross-purposes, and I have yet to learn the tongue in which she speaks.*”
-\-Hoid possibly implying the existence of another Shard[138][139]
+\-Hoid possibly implying the existence of another Shard[141][142]
 
 
 There remains one Shard that has not been named, but it has an Intent similar to Wisdom or Prudence. [[Hoid\|Hoid]] and this Shard may be antagonistic towards each other, though this appears to be something of a common thread in his relations with the original Vessels. There is a Shard that "[[Survival Shard\|just wants to hide and survive]]," though it has realized over time that that may not be the most desirable course of action; this may be the "wisdom" Shard.
@@ -188,7 +189,7 @@ At one point, there was an unknown Shard that does not inhabit a planet, which l
 
 ## Powers and Abilities
 >“*The power of ancient Adonalsium permeates him. And controls him. [[Odium\|Odium]] is a force like pressure, gravitation, or the movement of time. These things cannot break their own rules. Nor can he.*”
-\-Stormfather[34]
+\-Stormfather[37]
 
 
 Shards possess incredible power -- a single Shard can easily move entire planets and alter people down to the genetic level. They exist in all three Realms, but unlike other living beings, the vast majority of their power is concentrated in the [[Spiritual Realm\|Spiritual]], in most cases. Shards do not appear in the Cognitive Realm like other entities (such as a bead on Roshar). Time matters little to Shards, and they can bend and stretch it as they wish.
@@ -245,7 +246,7 @@ Vessels do not see the world as other beings do, with their vision greatly enhan
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
-\-Honor[86]
+\-Honor[89]
 
 
 Due to their existence within and connection to the Spiritual Realm, Shards are capable of perceiving the future, although it can be difficult for them. Some are better at it than others, with [[Cultivation\|Cultivation]] and [[Preservation\|Preservation]] being noted as particularly excelling. Like all seers, Shards can be wrong about both what they see and how they interpret it, although as a general rule they see further than non-Shards. Shardic power can also be utilized by others to perceive the future as they do: examples of this are [[Atium\|atium]], as well as the visions of the [[Returned\|Returned]].
@@ -256,7 +257,7 @@ Vessels are capable of displaying their future sight to other people. This can e
 ## Forms and Subdivisions
   <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
 >“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
-\-Syl[96]
+\-Syl[99]
 
 
 The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture is metallic, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.

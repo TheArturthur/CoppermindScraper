@@ -45,7 +45,8 @@ A few of the Surges, such as Illumination, are variations on [[Yolish\|Yolish]] 
 
 3 Notable Surgebinders. [[#Notable Surgebinders]] 
 4 Knights Radiant. [[#Knights Radiant]] 
-5 Notes. [[#Notes]] 
+5 Development. [[#Development]] 
+6 Notes. [[#Notes]] 
 
 
 ## Prerequisites
@@ -211,6 +212,24 @@ For a full list, see, see :Category: Surgebinders.
 ## Knights Radiant
 For more information, see [[Knights Radiant\|Knights Radiant]].
 Knights Radiant are an organization of Surgebinders with the Nahel bond who live by the [[Immortal Words\|Immortal Words]]. They are comprised of ten different orders, with each order consisting of Surgebinders who have access to the same two Surges.
+
+## Development
+The system of Surgebinding, and even the Essences themselves, went through several stages of development since their conceptualization. From the start, Brandon Sanderson conceptualized a system of ten fundamental forces and elements, as opposed to the classical four or five. This laid the foundations for how Surgebinding, and various aspects of Vorin theology, would develop over time. However, at this stage, the Surges were not parts of the magic system, but instead were merely part of the worldview of the Rosharan people. His work on developing the Metallic Arts in Mistborn changed this, and he began to expand it while on tour for [[The Well of Ascension\|The Well of Ascension]]. Here he developed the ideas behind Lashings, which over time expanded into the more complete Surgebinding system seen in the Stormlight Archive.
+In [[The Way of Kings Prime\|The Way of Kings Prime]], the Surges were:
+
+
+Khor (Time)
+Jez (Wind)
+Rosh (Movement)
+Nah (Energy)
+Shan (Decay)
+Ekez (Life)
+Zerem (Thought)
+Ral (Adherence)
+Ish (Awakening)
+Riem (Stasis)
+
+The Surges and Essences went through various changes from this state to the state in the published product, with some changes happening only shortly before publication. One major change, as mentioned, was shifting it into a fully-fledged magic system, rather than merely a philosophical worldview.
 
 
 

@@ -95,6 +95,7 @@ For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/
 |*Der Pfad Der Winde* (The Path of Winds)|
 |**Italiano**|*La Via dei Re*|
 |**Polski**|*Droga królów*|
+|**Português (Brasil)**|*O Caminho dos Reis*|
 |**Čeština**|*Cesta králů *|
 |**Türkçe**|*Krallarin Yolu*|
 |**Українська**|*Шлях королів*|

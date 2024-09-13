@@ -83,7 +83,7 @@ For more information, see [[Aviar\|Aviar]].
 Aviar are a type of birds on the planet of [[First of the Sun\|First of the Sun]]. They are known for their supernatural abilities; every species of Aviar has their own, specific gift. They gain those talents by feeding on fruits of [[Patji's Finger\|Patji's Finger]], a tree native to the island of [[Patji (island)\|Patji]]. This fruit contains worms, which bond with Aviar to grant them their powers. Aviar abilities include hiding one's mind from those capable of perceiving it, and showing others their possible deaths. As the mind of Patji is an avatar of Autonomy, it's highly likely that Aviar make use of Autonomy's Investiture.
 
 ### Avatars
-  <<Pantheon\|Pantheon>>, home of the <<Aviar\|aviars>> and the avatar <<Patji (being)\|Patji>>
+  <<Pantheon\|Pantheon>>, home of the <<Aviar\|aviar>> and the avatar <<Patji (being)\|Patji>>
 >“*Autonomy is trying to outcompete the others by filling the cosmere with versions of herself. Crowd out the competition, so to speak.*”
 \-Moonlight[7]
 
