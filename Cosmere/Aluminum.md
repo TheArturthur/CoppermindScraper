@@ -21,7 +21,7 @@
 **Aluminum** is the internal enhancement pulling metal. An [[Allomancy\|Allomancer]] burning aluminum will make all of their metal reserves vanish. [[Feruchemist\|Feruchemists]] can use aluminum to store [[Identity\|Identity]], and when used as a [[Hemalurgic\|Hemalurgic]] spike, aluminum removes all powers. It is known as **Ralkalest** or **the unForgeable metal** in the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] as well as among [[Singers\|singers]].
 Aluminum metal (and some of its alloys) are "Allomantically inert" -- they cannot be [[Steel\|Pushed]] or [[Iron\|Pulled]], and can shield people from emotional Allomancy. Aluminum generates no [[Atium\|atium shadows]] and can create dead zones within [[/wiki/Cadmium#Allomantic use]] and [[/wiki/Bendalloy#Allomantic Use]] bubbles, where the shielded area is not included within the time bubble. It also interferes with [[/wiki/Gold#Feruchemical Use]], by making it impossible for wounds to heal around the aluminum until it is removed from the body. There is a similar effect on [[/wiki/Pewter#Allomantic Use]].
 Aluminum has been confirmed to have strange effects to all magic systems, is magically inert, and will act as an [[Investiture\|Investiture]] sink.
-A significant percentage of the aluminum in the [[Elendel Basin\|Basin]] is produced by the [[Ghostbloods\|Ghostbloods]]. [[Dean\|Dean]], the Scadrian branch's chemist, believes that the Scadrians would one day discover how to create it via electrolysis, and that the value would plummet to being cheaper than [[Tin\|tin]]. The Ghostbloods have been using their aluminum to fund their operations for the past two decades.
+A significant percentage of the aluminum in the [[Elendel Basin\|Basin]] is produced by the [[Ghostbloods\|Ghostbloods]]. [[Dean\|Dean]], the Scadrian branch's chemist, believes that the Scadrians would one day discover how to create it via electrolysis, and that the value would plummet to being cheaper than [[Tin\|tin]]. The Ghostbloods have been using their aluminum to fund their operations for the past two decades. During 342 [[Catacendre\|PC]] and 348 [[Catacendre\|PC]], due to advances in aluminum production technology and processes, Scadrian aluminum dropped in price, though it still remained expensive and unaffordable to most people.
 The paired alloy of aluminum used in the Metallic Arts is [[Duralumin\|duralumin]].
 
 ## Contents
@@ -89,7 +89,7 @@ Aluminum cannot be [[Awakening\|Awakened]]. It is possible for aluminum to preve
 
 ### Roshar
 >“*There are legends of metal that can block a Shardblade. A metal that falls from the sky. Silver, but somehow lighter.*”
-\-Taravangian on aluminum[32]
+\-Taravangian on aluminum[33]
 
 
 Aluminum can be produced with [[Soulcasting\|Soulcasting]]. However, aluminum resists attempts to Soulcast it into other [[Ten Essences\|Essences]]. [[Shardblade\|Shardblades]] are unable to cut aluminum through magical means but would be able to cut it physically, like a conventional blade, if the aluminum were thin enough. Aluminum can block [[Spanreed\|spanreed]] communication, and can prevent Soulcasting from being detected by others. Aluminum cannot be affected by the [[Surge\|Surges]] [[Adhesion\|Adhesion]] or [[Gravitation\|Gravitation]]. It interferes with most Radiant powers.

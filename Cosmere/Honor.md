@@ -43,7 +43,9 @@
 
 
 ## Intent
-Honor seeks to uphold oaths and agreements, and to bind things together. Many, such as the [[Fused\|Fused]], consider it to extend to a cosmic sense of justice and order, as well as the natural laws of the universe.
+Honor seeks to uphold oaths and agreements, and to bind things together. It is most notably about the *choice* of following laws or a set of ideals, even if one does not have an obligation to follow said rules. Although not centered around it, it supports laws and power, to what some would consider an unhealthy extent.
+Many, such as the [[Fused\|Fused]], consider it to extend to a cosmic sense of justice and order, as well as the natural laws of the universe. They see its power as that which makes Surges into natural law.
+Its Intent manifests in the oaths of the [[Knights Radiant\|Knights Radiant]], the oath-bound nature of [[Honorspren\|Honorspren]] society, the bonding nature of Physical and Spiritual Adhesion, and etcetera.
 
 ## Associated magic
   Creating one of <<Roshar\|Roshar's>> <<Lights\|Lights>>
@@ -59,8 +61,9 @@ Stormlight is crucial to the Rosharan ecosystem. Numerous animals form bonds wit
   In the <<Highstorm\|highstorm>>
 ### Surgebinding
 For more information, see [[Surgebinding\|Surgebinding]].
-Surgebinding is a magic system derived from both Honor and [[Cultivation\|Cultivation]]. To utilize it, a person must bond a higher spren, which allows them to inhale Stormlight and use it to control [[Surge\|Surges]], a set of ten fundamental forces, although a single spren bond allows access to only two of them. Some Surges favor Honor, and others Cultivation, although only [[Adhesion\|Adhesion]] is 'purely' of Honor.
+Surgebinding on Roshar is a magic system derived from both Honor and [[Cultivation\|Cultivation]]. To utilize it, a person must bond a higher spren, which allows them to inhale Stormlight and use it to control [[Surge\|Surges]], a set of ten fundamental forces, although a single spren bond allows access to only two of them. Some Surges favor Honor, and others Cultivation, although only [[Adhesion\|Adhesion]] is 'purely' of Honor.
 Apart from spren bonds, Honor can also grant the use of Surgebinding through the [[Honorblade\|Honorblades]], weapons made out of his Investiture. Like spren, each Honorblade grants access to only one pair of Surges; in fact, Surgebinding came about as spren attempted to imitate the Honorblades.
+According to the Fused, Honor is responsible for making the Surges into natural law.
 
 ### Spren
 For more information, see [[Spren\|Spren]].
@@ -83,7 +86,7 @@ To help the people of Roshar, Honor created the [[Herald\|Heralds]], binding ten
   Honor's death
 ### Death
 >“*I remember at the end Honor was more obsessed with oaths. There were times when the oath itself was more important than the meaning behind it. But he was not a passionless monster. He loved humankind. He died defending you.*”
-\-The Stormfather[35]
+\-The Stormfather[7]
 
 
 Honor's death, however, was a protracted event. Before passing away fully, Honor took some measures to help Rosharans in the future. Chief among them was leaving behind a series of visions to warn of the possibility of the [[True Desolation\|True Desolation]], and to leave behind some information that might be helpful. He prepared the [[Stormfather\|Stormfather]] to be his inheritor, and gave him the task of choosing the possible recipients of the visions. At the very end of his existence, Tanavast was still capable of communicating with humans, but by then he was raving and no longer supported the Knights Radiant.
@@ -92,7 +95,7 @@ He died and his Shard was Splintered shortly after the [[Recreance\|Recreance]],
 ## Influence
   Honor and the <<Stormfather\|Stormfather>>
 >“*The Almighty accepted the excellence of any man or woman, regardless of what they did.*”
-\-Vorin doctrine[46]
+\-Vorin doctrine[51]
 
 
 Honor is well known among the Rosharan people, and worshiped as a god. [[Vorinism\|Vorinism]] calls him the **Almighty** and claims that he's the only deity, considering worship of [[Cultivation\|Cultivation]] to be pagan. He's believed to be the creator of both Roshar and mankind. In the Vorin tradition, he has ten names, the last of which, Elithanathile, is only used by [[Ardent\|ardents]], the Vorin priests. It's said he resides in the hearts of all people. As it's commonly believed that perceiving him directly would cause one to burst into flames from his sheer glory, he's typically represented by a divine prism with ten facets.

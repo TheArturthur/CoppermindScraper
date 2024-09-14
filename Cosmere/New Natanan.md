@@ -28,7 +28,7 @@
 
 
 ## Location and Geography
-New Natanan is the easternmost city of the Rosharan continent. In lies on the shores of the [[Ocean of Origins\|Ocean of Origins]], on a large peninsula jutting out of the [[Frostlands\|Frostlands]], a sparsely-populated and mostly lawless region in the south-east. New Natanan's position makes it the first settlement to be hit by an arriving [[Highstorm\|highstorm]] as it comes on land. The news of a stormwall are sent out to other kingdoms from there via [[Spanreed\|spanreeds]].
+New Natanan is the easternmost city of the Rosharan continent. It lies on the shores of the [[Ocean of Origins\|Ocean of Origins]], on a large peninsula jutting out of the [[Frostlands\|Frostlands]], a sparsely-populated and mostly lawless region in the south-east. New Natanan's position makes it the first settlement to be hit by an arriving [[Highstorm\|highstorm]] as it comes on land. The news of a stormwall are sent out to other kingdoms from there via [[Spanreed\|spanreeds]].
 There have been several attempts in the past to find a river passage between [[Alethkar\|Alethkar]] and New Natanan, one of which resulted in the discovery of the [[Parshendi\|Parshendi]] by Alethi explorers. However, so far it appears that the only way to access the country is either by a land caravan or by sea.
 
 ## History

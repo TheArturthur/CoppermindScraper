@@ -1,5 +1,6 @@
 |**Glasswater Deep**|
 |-|-|
+||
 |**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]|
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

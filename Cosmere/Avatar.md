@@ -130,9 +130,12 @@ Vessels are inherently immortal and ageless beings, due to the power that they p
 While unable to die from disease or old age, Vessels can be killed in specific circumstances. Such as when killed or Splintered by another Vessel, or when struck by Nightblood. They can also be killed if they break an oath, which leaves holes in them that can be exploited to kill them.
 
 #### Difference between the Shard and the Vessel
+>“*You say that the power itself must be treated as separate in our minds from the Vessel who controls it. I find this difficult to do on an intrinsic level, as although I am neither Ruin nor Preservation, they make up me.*”
+\-Sazed[95][96]
+
 The difference between a Shard and the Vessel, and the relationship between them, is complex and difficult for mortal minds to understand, and the line between the two is often blurred. This is due to the fact that the Vessel is made up of the Shard that they hold, the power of the Shard being their body. The power itself cannot tell them difference between itself and its Vessel, though small pieces, like spren, are able to do so. Due to the blurring between the two aspects, the Vessel themself is often referred to as the Shard.
 Despite the line between them being blurred, the mind and power are capable of disagreeing and resisting one another.
-Various knowledgeable figure debate on the difference between the Vessel and power, with some arguing that they are essentially one in the same, with others stating that they should be treated as separate.
+Various knowledgeable figure debate on the difference between the Vessel and power, with some arguing that they are essentially one in the same, with others stating that they should be treated as separate. That is to say, to some, the self and the Shard become intrinsically intertwined, such that they cannot truly be defined as individual entities.
 
 ## History
 
@@ -257,7 +260,7 @@ Vessels are capable of displaying their future sight to other people. This can e
 ## Forms and Subdivisions
   <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
 >“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
-\-Syl[99]
+\-Syl[100]
 
 
 The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture is metallic, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.
