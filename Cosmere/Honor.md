@@ -43,7 +43,7 @@
 
 
 ## Intent
-Honor seeks to uphold oaths and agreements, and to bind things together. It is most notably about the *choice* of following laws or a set of ideals, even if one does not have an obligation to follow said rules. Although not centered around it, it supports laws and power, to what some would consider an unhealthy extent.
+Honor seeks to uphold oaths and agreements, and to bind things together. It is most notably about the *choice* of following laws or a set of ideals, even if one does not have an obligation to follow said rules. Although not centered around it, it supports laws and power, to what some would consider an unhealthy extent. It espouses a morality defined by adherence to oaths. The Intent holds the oath itself as being more important than the meaning behind it.
 Many, such as the [[Fused\|Fused]], consider it to extend to a cosmic sense of justice and order, as well as the natural laws of the universe. They see its power as that which makes Surges into natural law.
 Its Intent manifests in the oaths of the [[Knights Radiant\|Knights Radiant]], the oath-bound nature of [[Honorspren\|Honorspren]] society, the bonding nature of Physical and Spiritual Adhesion, and etcetera.
 
@@ -81,12 +81,14 @@ The Shard of Honor was created, like all others, at the [[Shattering\|Shattering
 ### God of Roshar
 On Roshar, Honor and Cultivation became the gods of the [[Singer\|singers]], a native Rosharan species. They also created intelligent spren around ten-thousand years before the True Desolation.
 Around seven-thousand years before the True Desolation, human refugees arrived from [[Ashyn\|Ashyn]], seeking help after accidentally destroying their own world, and the two permitted them to settle on the planet, likely in the region now called [[Shinovar\|Shinovar]]. Unfortunately, along with them came [[Odium\|Odium]], who by that point had murdered three other Shards -- [[Dominion\|Dominion]], [[Devotion\|Devotion]] and [[Ambition\|Ambition]] -- and was now seeking to attack either Honor, Cultivation, or both. When the relations between humans and singers of Roshar broke down, singers turned to Odium to help them, leading to the creation of the [[Fused\|Fused]], [[Cognitive Shadow\|Cognitive Shadows]] of singers who could be reborn into the bodies of their kinsmen every time they died.
-To help the people of Roshar, Honor created the [[Herald\|Heralds]], binding ten people to himself and giving them similar resurrective ability, although one that did not require taking the bodies of humans. Moreover, he bound Odium to the Rosharan system, making it impossible for him to leave. However, after around three-thousand years, the Heralds abandoned the Oathpact after numerous [[Desolation\|Desolations]] in the event known as the [[Aharietiam\|Aharietiam]]. Sometime afterwards, Odium succeeded at [[Splinter\|Splintering]] him.
+To help the people of Roshar, Honor created the [[Herald\|Heralds]], binding ten people to himself and giving them similar resurrective ability, although one that did not require taking the bodies of humans. Moreover, he bound Odium to the Rosharan system, making it impossible for him to leave.
+At some point, he and Cultivation combined their Lights in order to create the [[Sibling\|Sibling]], who is considered their child. They were created in order to oppose Odium. and became a central figure in mankind's resistance against the Fused, acting as the control centre of Urithiru and as a Bondsmith spren.
+After around three-thousand years, the Heralds abandoned the Oathpact after numerous [[Desolation\|Desolations]] in the event known as the [[Aharietiam\|Aharietiam]]. Sometime afterwards, Odium succeeded at [[Splinter\|Splintering]] him.
 
   Honor's death
 ### Death
 >“*I remember at the end Honor was more obsessed with oaths. There were times when the oath itself was more important than the meaning behind it. But he was not a passionless monster. He loved humankind. He died defending you.*”
-\-The Stormfather[7]
+\-The Stormfather[8]
 
 
 Honor's death, however, was a protracted event. Before passing away fully, Honor took some measures to help Rosharans in the future. Chief among them was leaving behind a series of visions to warn of the possibility of the [[True Desolation\|True Desolation]], and to leave behind some information that might be helpful. He prepared the [[Stormfather\|Stormfather]] to be his inheritor, and gave him the task of choosing the possible recipients of the visions. At the very end of his existence, Tanavast was still capable of communicating with humans, but by then he was raving and no longer supported the Knights Radiant.
@@ -95,7 +97,7 @@ He died and his Shard was Splintered shortly after the [[Recreance\|Recreance]],
 ## Influence
   Honor and the <<Stormfather\|Stormfather>>
 >“*The Almighty accepted the excellence of any man or woman, regardless of what they did.*”
-\-Vorin doctrine[51]
+\-Vorin doctrine[55]
 
 
 Honor is well known among the Rosharan people, and worshiped as a god. [[Vorinism\|Vorinism]] calls him the **Almighty** and claims that he's the only deity, considering worship of [[Cultivation\|Cultivation]] to be pagan. He's believed to be the creator of both Roshar and mankind. In the Vorin tradition, he has ten names, the last of which, Elithanathile, is only used by [[Ardent\|ardents]], the Vorin priests. It's said he resides in the hearts of all people. As it's commonly believed that perceiving him directly would cause one to burst into flames from his sheer glory, he's typically represented by a divine prism with ten facets.

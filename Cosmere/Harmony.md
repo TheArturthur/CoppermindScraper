@@ -18,7 +18,7 @@
 
 
 **Harmony** is the name taken by [[Sazed\|Sazed]] after the [[Final Ascension\|Final Ascension]] and his acquisition of the [[Shard\|Shards]] [[Ruin\|Ruin]] and [[Preservation\|Preservation]] as he felt it fit the Shard. With the opposing forces of Preservation and Ruin both Invested within him, balance and Harmony is achieved. Three hundred years post-[[Catacendre\|Catacendre]] the name is in widespread use by the inhabitants of the [[Elendel Basin\|Elendel Basin]] and the surrounding [[Roughs\|Roughs]].
-His [[Perpendicularity\|perpendicularity]] is in an uncertain location in the far south, it is under careful control, supposedly by the [[Malwish\|Malwish]]. Because Harmony has two Shards, he is considered to be the most [[Invest\|Invested]] being in the [[Cosmere\|cosmere]].
+His [[Perpendicularity\|perpendicularity]] is in an uncertain location in the far south and is under careful control, supposedly by the [[Malwish\|Malwish]]. Because Harmony has two Shards, he is considered to be the most [[Invest\|Invested]] being in the [[Cosmere\|cosmere]].
 
 ## Contents
 
