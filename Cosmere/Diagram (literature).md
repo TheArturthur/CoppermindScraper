@@ -41,6 +41,8 @@ On his day of greatest genius, "20 hours of lucid insanity," he covered every su
 Though the original Diagram was written on various surfaces, it has been compiled into "a thick book bound in hogshide." The words Taravangian wrote on the day of brilliance have been copied over to it "spots, scratches, and all." Taravangian wonders if this bound form has influenced the way the Diagram was interpreted.
 
 ## Excerpts
+> [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
+
 ### Book of the 2nd Ceiling Rotation
 >“*Obviously they are fools The Desolation needs no usher It can and will sit where it wishes and the signs are obvious that the spren anticipate it doing so soon The Ancient of Stones must finally begin to crack It is a wonder that upon his will rested the prosperity and peace of a world for over four millennia*”
 \-Pattern 1[6]

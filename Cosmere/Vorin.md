@@ -267,7 +267,7 @@ The Ten Surges
 
 ## Cosmology and Spiritualism
 ### Three-world cosmology
-The Vorin cosmology proposes a division between the upper world, the Tranquille Hills; a central world, Roshar; and the lower world, Damnation. These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
+The Vorin cosmology proposes a division between the upper world, the Tranquille Halls; a central world, Roshar; and the lower world, Damnation. These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
 Alongside these three worlds, they also believe in the Cognitive Realm, though it is unclear where it fits in their cosmology. They see it as more fluid than the Spiritual Realm, and believe that it can be visited. They also believe in a pool of divine essence from which souls are formed. It is unclear where it fits into their cosmology, or if it is the Almighty himself.
 Within this framework, the Almighty exists within and people and all things, and is made up of an indestructible substance.
 

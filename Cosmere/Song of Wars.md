@@ -1,3 +1,5 @@
+> [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
+
 |**Song of Wars**|
 |-|-|
 |**Related to**|[[Listener\|Listener]]|
