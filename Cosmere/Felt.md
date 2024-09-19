@@ -32,7 +32,7 @@
 
 
 ## Appearance and Personality
-Felt has pale skin, a hawkish face, and a drooping mustache. He is considered a short man even on his native [[Scadrial\|Scadrial]]; on [[Roshar\|Roshar]], where people are naturally taller, he is diminutive. As a Scadrian, Felt's eyes are not shaped like those of eastern Rosharans, and are closer to the round eyes of the [[Shin\|Shin]]. [[Alethi\|Alethi]] people consider him [[Darkeyes\|darkeyed]], and think that he looks "foreign". He inherits a distinctive floppy brown hat when [[Bashin\|Bashin]] retires, and he often wears it as a memento.
+Felt has pale skin, a hawkish face, and a drooping mustache. He is considered a short man even on his native [[Scadrial\|Scadrial]]; on [[Roshar\|Roshar]], where people are naturally taller, he is described as diminutive. As a Scadrian, Felt's eyes are not shaped like those of eastern Rosharans, and are closer to the round eyes of the [[Shin\|Shin]]. This implies the lack of epicanthic folds. [[Alethi\|Alethi]] people consider him [[Darkeyes\|darkeyed]], and think that he looks "foreign". He inherits a distinctive floppy brown hat when [[Bashin\|Bashin]] retires, and he often wears it as a memento.
 He is reliable, logical, and resourceful, and he provides a stable presence during missions. He is also thoughtful and observant, making him a very good spy. His competence and agreeable personality allow him a bit more liberty than other soldiers with regard to some rules and regulations. Unlike many prominent [[Noble\|nobles]], Felt has a solid work ethic. He appears to be loyal to the lords that he serves, and enjoys taking on any tasks that he is assigned.
 
 ## Attributes and Abilities

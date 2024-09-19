@@ -43,7 +43,8 @@ His [[Perpendicularity\|perpendicularity]] is in an uncertain location in the fa
 3. [[#Arrival of Trell]] 
 
 
-4 Notes. [[#Notes]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Intent
@@ -118,6 +119,8 @@ He spoke to and stood by Wayne as he tried to stop the Set's bomb from destroyin
 Three weeks later, he had a meeting with Kelsier concerning Autonomy, technological advancement, and how to create an army of [[Allomancer\|Allomancers]] in order to fight off the Shard's army. Though he vehemently disagreed with his friend's intended methods, and with his wishes for Harmony to give his knowledge to humanity to bring about advancement like have been seen on [[Taldain\|Taldain]].
 At some point long after the flight of Autonomy, he survived and remained as the Vessel of a Shard (albeit whether it is of Harmony or Discord is currently unknown), and he released the kandra and allowed them to wander the cosmere. The exact point at which this happened is unknown.
 
+## Trivia
+The concept of the harmonious  appears in many religions and philosophical systems, with examples including  in alchemy, the ; the Hindu deity , and following from it the union of Purusha and Prakriti; and the unification of consciousness and unconsciousness to produce the  in Jungian psychology. All of these systems include the idea of a unity of opposites in order to reach further completion or a higher state of existence, and deeply ties it to the notion of .
 
 
 https://coppermind.net/wiki/Harmony

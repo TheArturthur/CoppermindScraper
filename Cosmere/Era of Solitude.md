@@ -39,7 +39,7 @@ The Era of Solitude began after the [[Last Desolation\|Last Desolation]] known a
 **The Sunmaker Conquests** - [[Sadees\|Sadees the Sunmaker]] overthrew the Hierocracy and reunited Alethkar, before attempting to conquer the world, with lasting effects upon many countries.
 **The [[Scouring of Aimia\|Scouring of Aimia]]** - [[Aimia\|Aimia]] suffered a cataclysm of some kind.
 **Emuli Lurnip Famine** - Emul goes through a devastating Lurnip famine.
-**Reunification of Alethkar** - The reunification of Aelthkar under the Kholin Banner
+**Reunification of Alethkar** - The reunification of Alethkar under the Kholin Banner
 **The [[Eighty's War\|Eighty's War]]** - A war between [[Tukar\|Tukar]] and [[Emul\|Emul]] over control of [[Sesemalex Dar\|Sesemalex Dar]] broke out in 1167, with Tukar being led by the Herald [[Ishar\|Ishar]]
 **The [[Assassination of Gavilar\|Assassination of Gavilar Kholin]]** - Gavilar Kholin, the king of Alethkar, was assassinated by the Listeners during the treaty celebration on Tanat 1167.
 **The [[War of Reckoning\|War of Reckoning]]** - A war between the Alethi and the Listeners following the assassination of Gavilar Kholin, which led up to the True Desolation.

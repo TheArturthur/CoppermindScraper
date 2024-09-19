@@ -1,10 +1,11 @@
 |**Desh**|
 |-|-|
 ||
+|**Ethnicity**|Deshi|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Desh** is a kingdom in southwestern [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]] and a member state of the [[Azir\|Azish empire]].
+**Desh** is a kingdom in southwestern [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]] and a member state of the [[Azir\|Azish empire]]. The people of Desh are referred to as Deshi.
 
 ## Contents
 

@@ -45,7 +45,7 @@ The tops of the peaks have an unknown number of Unkalaki villages. The [[Jokasha
 
 ### Notable Features
 For more information, see [[Horneater Oceans\|Horneater Oceans]].
-[[Vivenna\|Vivenna]] (as Azure) states that the Horneater Peaks contain [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. Specifically, the lakes or "Oceans" contain the perpendicularity. The Unkalaki revere the Oceans and they have a number of unusual qualities. They give off heat, and are emerald in color. Lunamor maintains that the water is connected to the gods, and that outsiders would be killed if they swam in it. Bathing in the lakes is part of the reason that some Unkalaki are able to see hidden spren.
+The Horneater Peaks are the home of [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]]. Specifically, the lakes or "Oceans" contain the perpendicularity. The Unkalaki revere the Oceans and they have a number of unusual qualities. They give off heat, and are emerald in color. Lunamor maintains that the water is connected to the gods, and that outsiders would be killed if they swam in it. Bathing in the lakes is part of the reason that some Unkalaki are able to see hidden spren.
 The perpendicularity has been the “door” into Roshar for several worldhoppers, including [[Hoid\|Hoid]] and Vivenna.
 
 ## History

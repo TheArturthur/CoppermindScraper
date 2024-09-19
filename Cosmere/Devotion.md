@@ -33,7 +33,11 @@
 
 
 ## Intent
-As Devotion was Splintered far in [[Sel\|Sel's]] prehistory, it's unknown how precisely her intent would manifest. She appears to wish to care for people and provide them safety from pain and harm. Though not as directly hostile to each other as [[Preservation\|Preservation]] and [[Ruin\|Ruin]], Devotion and [[Dominion\|Dominion]] are at some level opposite to each other, yet their powers work together as the [[Dor\|Dor]]. Devotion and [[Odium\|Odium]] can also be argued to be opposite to each other.
+>“*You see rank and distinction; you try to order the world so that everything has a place either above you or beneath you. To a seon, there is no above or beneath, there are only those we love. And we serve those we love.*”
+\- Ien[8]
+
+As Devotion was Splintered far in [[Sel\|Sel's]] prehistory, it's unknown how precisely her intent would manifest. She appears to wish to care for people and provide them safety from pain and harm. Ien, a Splinter of Devotion, speaks of a love and devotion which transcends hierarchy, and a desire to serve those he loves. He also speaks of finding reward not in money, but in the pride and satisfaction of seeing the one he loves grow. This is likely is reflective of the Intent of Devotion.
+Though not as directly hostile to each other as [[Preservation\|Preservation]] and [[Ruin\|Ruin]], Devotion and [[Dominion\|Dominion]] are at some level opposite to each other, yet their powers work together as the [[Dor\|Dor]]. Devotion and [[Odium\|Odium]] can also be argued to be opposite to each other.
 
 ## Associated Magics
   An <<Elantrian\|Elantrian>> using <<Aon\|Aon>> Rao
@@ -72,7 +76,7 @@ Once the [[Vessel\|Vessels]] were dead, the remnants of the two Shards were push
 ## Influence
  
 >“*Merciful Domi!*”
-\-Arelish exclamation[20]
+\-Arelish exclamation[21]
 
 
 Historically, Devotion and Dominion were not directly involved in human civillization on [[Sel\|Sel]]; however, the discovery of their powers drove its development nonetheless. Both were fundamental in early Selish cultures, and many traditions and religions on the planet are derived from the two of them. Among others, multiple languages and writing systems on Sel are based on Devotion and Dominion's power, with the prime example being the [[Aon\|Aons]]. To this day, worship of Devotion is the primary religion of [[Arelon\|Arelon]], where she is known as [[Domi\|Domi]]; some aspects of [[Jaddeth\|Jaddeth]] are likewise inspired by her. The [[Ire\|Ire]], or at least some of its members, also seem to revere her, directly under her Shardic name.

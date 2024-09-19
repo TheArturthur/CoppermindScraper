@@ -102,7 +102,7 @@ Instead of sending their leader for discussions on forming a coalition with othe
 They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
 
 #### Desh
-Much like with Alm, they have a good relationship with [[Desh\|Desh]], and the Desh people are allowed to enter Tashikk without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
+Much like with Alm, they have a good relationship with [[Desh\|Desh]], and the Deshi people are allowed to enter Tashikk without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
 
 #### Alethkar
 They are a member of the Coalition of Monarchs with Alethkar. They also grant their spanreed services to Alethkar, which makes effective use of these services.

@@ -10,7 +10,7 @@
 \-Allik Neverfar[1]
 
 
-The **Jaggenmire** is an entity worshiped in [[Southern Scadrian\|Southern Scadrian]] religion. It consists of two entities that are always both separate and the same. It is made up of **Herr** ([[Ruin\|Ruin]]), and his sister/wife **Frue** ([[Preservation\|Preservation]]). Herr can make things go, and Frue can make things stop. However, neither can create life on their own.
+The **Jaggenmire** is an entity worshiped in [[Southern Scadrian\|Southern Scadrian]] religion. It consists of two entities that are always both separate and the same. It is made up of **Herr** ([[Ruin\|Ruin]]), and his sister/wife **Frue** ([[Preservation\|Preservation]]). Herr is conceptualized a motive force, whilst Frue is seen as a force of stasis. However, neither can create life on their own.
 It is believed by the Southern Scadrians that their former kings, now called the Fallen, offended the Jaggenmire, which caused the event known to Southern Scadrians as the [[Catacendre\|Ice Death]].
 
 

@@ -8,7 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Herdaz** is a country in the north-eastern portion of Roshar. Covering 1,155,000 Km, it is Roshar's 7th largest country by area. Herdaz is organized as a monarchy, ruled over by a hereditary monarch.
+**Herdaz** is a country in the north-eastern portion of Roshar. Covering 1,155,000 Km, it is Roshar's seventh largest country by area. Herdaz is organized as a monarchy, ruled over by a hereditary monarch.
 The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
 
 ## Contents
@@ -123,7 +123,7 @@ The Herdazian language belongs to the Vorin family, much like Alethi and Veden. 
 \- Lopen[12]
 
 
-The Herdazian people are spread across a wide disaspora covering much of western Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation.
+The Herdazian people are spread across a wide disaspora covering much of eastern Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation.
 The Push-pull factors that motivate Herdazian migration are currently unknown. Furthermore, it is unknown if they intentionally migrated for greater opportunity, or if they were in some way displaced from their homeland.
 When a large group of Herdazians come together, they often form their own districts, such as [[Little Herdaz\|Little Herdaz]] in [[Highprince\|highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. Members of this diaspora population often retain their cultural practices and identity - among others, [[Chouta\|chouta]] is a Herdazian street food that gained much popularity in the warcamps, and can even be bought in [[Kholinar\|Kholinar]].
 There are numerous stereotypes about Herdazians. Many Alethi believe they all wear [[Sparkflicker\|sparkflickers]], and more malicious ones claim they're all stupid, though both are repeatedly proven wrong. Across western Roshar, they are considered extremely boastful, and the women are said to be tough and difficult to impress, even in the opinion of their kinsmen. Herdazians are mentioned, by Alethi, as looking very similar to one another, to the point where they often cannot be told apart.

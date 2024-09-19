@@ -18,6 +18,7 @@
 
 
 **Odium** is the [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]] originally held by [[Rayse\|Rayse]], and currently held by [[Taravangian\|Taravangian]]. Unlike most other Shards, which typically pick a single world and settle there, Odium has been traveling freely throughout the [[Cosmere\|cosmere]] for a long time, deliberately refusing to [[Invest\|Invest]] himself anywhere. He is responsible for the deaths of at least four Shards -- [[Ambition\|Ambition]], [[Devotion\|Devotion]], [[Dominion\|Dominion]], and [[Honor\|Honor]]. In the present, he's confined to the planet [[Braize\|Braize]], but his influence can be felt on the entire [[Rosharan system\|Rosharan system]]. Odium’s [[Investiture\|Investiture]] is typically associated with “burning” gold or violet-black colors, though it is also often red, the color that signifies corrupted Investiture. His overall motif is red-gold, although gold is his "real" color.
+Odium is considered by [[Cultivation\|Cultivation]] to be the most dangerous of the Shards.
 
 ## Contents
 
@@ -106,13 +107,13 @@ The Fused can use Voidlight to heal themselves, as well to fuel their use of [[S
 
 
 By Connecting with someone, Odium is able to take away their negative emotions and passions, including fear, anger, pain, and insecurities. When negative emotions arise, they are quickly sucked away by Odium, leaving the person feeling nothing. This Connection can be disrupted, allowing the person to feel their pain in full.
+He is also capable of feeling emotions of others as if they were his own.
 
 ## History
 For the history of Odium's original Vessel prior to his Ascension, see [[/wiki/Rayse#History]].
 ### Ancient History
 #### Creation and initial killings
-Odium was created at the [[Shattering\|Shattering]], around ten-thousand years before the [[True Desolation\|True Desolation]],
- when the creator god, [[Adonalsium\|Adonalsium]], was killed by sixteen people, splitting it into sixteen [[Shards\|Shards]]. One of those killers was [[Rayse\|Rayse]], who chose for himself the Shard of Odium.
+Odium was created at the [[Shattering\|Shattering]], around ten-thousand Rosharan years before the [[True Desolation\|True Desolation]], when the creator god, [[Adonalsium\|Adonalsium]], was killed by sixteen people, splitting it into sixteen [[Shards\|Shards]]. One of those killers was [[Rayse\|Rayse]], who chose for himself the Shard of Odium.
 At some point after Ascending, Odium went after one of his fellow Shards, [[Ambition\|Ambition]], as he felt most threatened by her intent. However, before he could find her, he located two other Shards, [[Devotion\|Devotion]] and [[Dominion\|Dominion]], in the [[Selish system\|Selish system]]. Because they had settled together, Odium attacked them, since he could argue that they were breaking the agreement the Vessels made about not being in the same system as another Shard. Through means unknown, Odium killed and [[Splinter\|Splintered]] them both. To prevent their remaining power from gaining intelligence of its own, he then pulled it out of the [[Spiritual Realm\|Spiritual Realm]] and into the [[Cognitive Realm\|Cognitive]], creating the [[Dor\|Dor]] and causing [[Sel\|Sel's]] magic systems to become location-dependent. He wasn't very experienced at the time, and his countermeasure failed as the Dor did, indeed, begin to gain a measure of sentience.
 After creating the Dor, Odium went on to the [[Threnodite system\|Threnodite system]], where he found and attacked his initial target, Ambition. During the fight, Ambition was dealt a grievous wound, and chunks of her power were flung across the system. Ambition managed to flee the system, but was still Splintered in a fight with Odium. The Shard [[Mercy\|Mercy]] was also involved in at least one battle with Ambition and Odium. These clashes resulted in a wound in the Spiritual Realm and had "disturbing" effects that "twisted" the planet [[Threnody\|Threnody]] and its inhabitants.
 Although Odium was successful in these initial conflicts, he was weakened and severely wounded by them.
@@ -121,7 +122,7 @@ Although Odium was successful in these initial conflicts, he was weakened and se
 Next, over seven-thousand Rosharan years before the True Desolation, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. It can be assumed that Odium was crucial in the breakdown of the relations between the two species. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
 
 >“*I am … I was … God. The one you call the Almighty, the creator of mankind. And now I am dead. Odium has killed me. I am sorry.*”
-\-Honor[61]
+\-Honor[62]
 
 Honor fought Odium with assistance from Cultivation, and the two bound him to one of the system's planets, [[Braize\|Braize]], and somehow also prevented him from acting directly against most individuals on Roshar. Honor additionally crafted the [[Oathpact\|Oathpact]], which would use the Heralds to imprison Odium's forces on Braize along with their master. However, Odium was a much better fighter, and [[Honor\|Honor]] was killed, though he inflicted a deep wound on Odium.
 
