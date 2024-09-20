@@ -33,7 +33,7 @@ Chana was born on [[Ashyn\|Ashyn]], and left it for [[Roshar\|Roshar]] when the 
  
 For the abilities all Heralds share, see [[/wiki/Herald#Abilities]].
 As a [[Herald\|Herald]], Chanaranach is immortal and capable of returning from death, though at the cost of a Desolation. She was a capable fighter, and wielded an [[Honorblade\|Honorblade]] that made her a [[Surgebinder\|Surgebinder]], granting her the use of the [[Surge\|Surges]] of [[Division\|Division]] and [[Abrasion\|Abrasion]]. She has discarded her Blade, however, leaving her without Surgebinding.
-Perhaps due to her power over Abrasion, Chanaranch is known for being incredibly fast, as [[Fleet\|Fleet]] beating her in a foot race is considered a noteworthy achievement.
+Perhaps due to her power over Abrasion, Chanarach is known for being incredibly fast, as [[Fleet\|Fleet]] beating her in a foot race is considered a noteworthy achievement.
 
 ## History
 She would have lived in [[Shinovar\|Shinovar]] for a period, before humanity began to expand outward, inciting a war between the humans and the [[Singers\|singers]].

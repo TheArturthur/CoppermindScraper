@@ -1,7 +1,7 @@
 |**Cognitive Shadow**|
 |-|-|
 |**Related to**|[[Splinter\|Splinter]]|
-|**Type**|Magical Entity|
+|**Type**|Invested Entity|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
@@ -10,12 +10,15 @@
 \-Zahel’s description of a Cognitive Shadow[1]
 
 
-**Cognitive Shadow**, also known as a **Type Two Invested entity**, is a term used to refer to a spirit that has not yet moved into the afterlife. While the manifestations of this kind of entity can vary depending on the [[Shardworld\|world]] it occurs on, Cognitive Shadows can occur on any planet in the [[Cosmere\|cosmere]].
+**Cognitive Shadow**, also known as a **Type Two Invested entity**, is a term used to refer to a spirit that has not yet moved into the [[Beyond\|Beyond]]. While the manifestations of this kind of entity can vary depending on the [[Shardworld\|world]] it occurs on, Cognitive Shadows can occur on any planet in the [[Cosmere\|cosmere]].
+It is a debated point amongst arcanists, theologians, and philosophers on whether a Cognitive Shadow is the person themselves, or a copy of the person made from Investiture. With various figures standing on either side of the debate.
 
 ## Contents
 
 1 Mechanics. [[#Mechanics]] 
 
+1. [[#Creation]] 
+1. [[#Memory and Personality]] 
 1. [[#Destruction]] 
 1. [[#Cognitive Influence]] 
 
@@ -34,13 +37,21 @@
 
 
 ## Mechanics
+The operation of Cognitive Shadows can be described through a system of overarching rules and mechanics.
+It is theoretically possible for a Cognitive Shadow to form a [[Nahel bond\|Nahel bond]] with a human. They are not able to burn [[God Metal\|God Metals]]. They may be able to create objects from Investiture, if they view it as an extension of themselves and are [[Connection\|Connected]] to them.
+Cognitive Shadows look different in the Cognitive Realm, where how they became a Cognitive Shadow will influence how they look. Shards could create a physical body for Cognitive Shadows.
+
+### Creation
 Cognitive Shadows can be created by a variety of processes. Some of them are created when a person has sufficient attachment to something in the [[Physical Realm\|Physical Realm]]. When a [[Vessel\|Vessel]] that has held onto a [[Shard\|Shard]] for a long time dies it becomes a Cognitive Shadow that can continue to act. Depending on how they are made, Cognitive Shadows are sometimes bound to the planetary system they were made on, and are unable to leave it either through the Physical or Cognitive Realm. It is possible to overcome this issue.
 The Cognitive aspect of a recently deceased person can become a Cognitive Shadow by finding a source of Investiture to anchor themselves to the [[Cognitive Realm\|Cognitive Realm]] before passing on to the [[Beyond\|Beyond]]. The Investiture replaces the parts of the soul that connects it to the Three Realms, providing an anchor for it in the Cognitive Realm. Some [[Vessel\|Vessels]] can prepare a Cognitive Shadow at or just prior to their death or [[Splinter\|Splintering]], allowing a portion of their power to continue to function with a small amount of direction; the [[Stormfather\|Stormfather]] is an example of this.
-It is theoretically possible for a Cognitive Shadow to form a [[Nahel bond\|Nahel bond]] with a human. They are not able to burn [[God Metal\|God Metals]]. They may be able to create objects from nothing, if they view it as an extension of themselves and are [[Connection\|Connected]] to them.
-Cognitive Shadows look different in the Cognitive Realm, where how they became a Cognitive Shadow will influence how they look. Shards could create a physical body for Cognitive Shadows.
+
+### Memory and Personality
+Cognitive Shadows typically retain the memory of their life, as memories are engraved into the Cognitive Aspect. However, it is possible for a Shard or other entity to remove memories from a Cognitive Shadow via interfering with their Investiture.
+The personality and mental faculties of a Cognitive Shadow begin to be effected over time, causing them to become more chained to their Intent, and causes them to be more and more like a [[Spren\|spren]]. These effects become more and more pronounced the longer a Cognitive Shadow exists.
 
 ### Destruction
 A Cognitive Shadow can be permanently killed by the use of a [[Raysium\|raysium]] dagger touching a gem of anti-Light of the type of [[Investiture\|Investiture]] associated with the Cognitive Shadow. For instance, a raysium dagger with an [[Anti-Voidlight\|anti-Voidlight]] gem can permanently kill a [[Fused\|Fused]], and a Herald can presumably be similarly killed with anti-Stormlight. Cognitive Shadows will turn into [[Sunheart\|sunhearts]] when exposed to the sun on [[Canticle\|Canticle]].
+A Cognitive Shadow can also be starved of Investiture in order to destroy it. Weaker Cognitive Shadows, if reattached to their body, can be killed by simply killing their Physical aspect once more.
 Additionally, Cognitive Shadows can be killed by negating their Connection to all three Realms, a process which destroys the anchor against the pull of the Beyond. The experience is described as having your soul ripped apart.
 A Cognitive Shadow can also willingly choose to pass into the Beyond.
 
@@ -50,7 +61,7 @@ Cognitive Shadows are influenced by how people view them over time, although thi
 ## Examples
 ### Roshar
 
-When the [[Singers\|singers]] turned to [[Odium\|Odium]] for help in fighting off the humans, he responded by infusing some of them with his power, which turned them into Cognitive Shadows. They reside on [[Braize\|Braize]], but return to [[Roshar\|Roshar]] during every [[Desolation\|Desolation]]. Since they lost their bodies long ago, they must possess the bodies of living singers; in doing so they destroy the mind of the possessed body. This cycle of rebirth strains the minds of the Fused and, eventually, they go crazy.Their status as Cognitive Shadows grants them access to the [[Surge\|Surges]]. Odium could remove the Investiture that maintains a Fused, which would send that Fused to the [[Beyond\|Beyond]].
+When the [[Singers\|singers]] turned to [[Odium\|Odium]] for help in fighting off the humans, he responded by infusing some of them with his power, which turned them into Cognitive Shadows. They reside on [[Braize\|Braize]], but return to [[Roshar\|Roshar]] during every [[Desolation\|Desolation]]. Since they lost their bodies long ago, they must possess the bodies of living singers; in doing so they destroy the mind of the possessed body. This cycle of rebirth strains the minds of the Fused and, eventually, they go insane. Their status as Cognitive Shadows grants them access to the [[Surge\|Surges]]. Odium could remove the Investiture that maintains a Fused, which would send that Fused to the [[Beyond\|Beyond]].
 
 
 When the Heralds of [[The Almighty\|The Almighty]] took up the [[Oathpact\|Oathpact]], they gained a direct connection to [[Honor\|Honor]]. This connection transformed them into Cognitive Shadows. Each time they return to Roshar, a new body is created for them. Unlike the [[Returned\|Returned]], they do not need to consume Investiture to remain in their bodies.
@@ -61,9 +72,10 @@ Prior to Odium's splintering of Honor, the Stormfather was just the [[Spren\|spr
 ### Scadrial
 
 >“*Look at you Kelsier! You haven't form or shape. You're not alive, you're an *idea*. A *memory* of a man holding the power will never be as potent as a real one with ties to all three Realms.*”
-\-Ruin on Kelsier's Ascension[35]
+\-Ruin on Kelsier's Ascension[37]
 
-After his death, Kelsier found the [[Well of Ascension\|Well of Ascension]] in the Cognitive Realm and, with [[Leras\|Leras']] help, merged with it. As a result, he became infused with [[Preservation\|Preservation's]] power and became a , though, since the Well was created as a prison, he was unable to leave. After [[Vin\|Vin]] released [[Ruin\|Ruin]] from the Well he was able to travel the Scadrian Cognitive Realm and influence the [[Physical Realm\|Physical Realm]], though he was unable to actually leave the Cognitve Realm because his "ties to the Physical Realm [had] been severed" by his death. With the help of a device made by the [[Ire\|Ire]], he was able to hold the [[Shard\|Shard]] of Preservation after [[Leras\|Leras]] died, though, according to [[Ruin\|Ruin]], he made for a weaker [[Vessel\|Vessel]] than a normal person. Some time after the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier]] found a way to recreate his physical body using [[Hemalurgy\|Hemalurgy]] and return to the Physical Realm. Upon death, he lost his ability to use [[Allomancy\|Allomancy]] and has not recovered it despite regaining a body.
+After his death, Kelsier found the [[Well of Ascension\|Well of Ascension]] in the Cognitive Realm and, with [[Leras\|Leras']] help, merged with it. As a result, he became infused with [[Preservation\|Preservation's]] power and became a , though, since the Well was created as a prison, he was unable to leave. After [[Vin\|Vin]] released [[Ruin\|Ruin]] from the Well he was able to travel the Scadrian Cognitive Realm and influence the [[Physical Realm\|Physical Realm]], though he was unable to actually leave the Cognitve Realm because his "ties to the Physical Realm [had] been severed" by his death. With the help of a device made by the [[Ire\|Ire]], he was able to hold the [[Shard\|Shard]] of Preservation after [[Leras\|Leras]] died, though, according to [[Ruin\|Ruin]], he made for a weaker [[Vessel\|Vessel]] than a normal person.
+Some time after the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier]] found a way to recreate his physical body using [[Hemalurgy\|Hemalurgy]] and return to the Physical Realm. Upon death, he lost his ability to use [[Allomancy\|Allomancy]] and has not recovered it despite regaining a body.
 
 ### Nalthis
 
