@@ -214,7 +214,7 @@ By the time [[Dalinar\|Dalinar]] begins to curry favour with the Azish, Yanagawn
 \-Lift to Dalinar[13]
 
 
-When Lift first sees [[Dalinar\|Dalinar]], she is highly mistrustful of him, both because of his past as the Blackthorn and because he is unlike other government official she's familiar with (in her words, "his butt is too nice"). She is more open to listening to him after seeing his first confrontation with [[Odium\|Odium]]. She steals his food when he's waiting for the officials' decision in [[Azimir\|Azimir]]. That he does not begrudge her for it seems to earn him some points with her, and she even agrees to share some of the stolen food back.
+When Lift first sees [[Dalinar\|Dalinar]], she is highly mistrustful of him, both because of his past as the Blackthorn and because he is unlike other government officials she's familiar with (in her words, "his butt is too nice"). She is more open to listening to him after seeing his first confrontation with [[Odium\|Odium]]. She steals his food when he's waiting for the officials' decision in [[Azimir\|Azimir]]. That he does not begrudge her for it seems to earn him some points with her, and she even agrees to share some of the stolen food back.
 Following their face-to-face meeting, Lift's opinion of Dalinar is drastically better. She argues for him with Yanagawn after the Azish choose to pull out of the coalition and is ready to face Odium by his side and follow his orders without question. He, in turn, treats her like another soldier rather than a child, and trusts her to do her job, which might be why she takes a shine to him.
 
 ### Szeth and Nightblood

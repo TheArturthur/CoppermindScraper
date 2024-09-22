@@ -34,6 +34,10 @@
 1. [[#Personality]] 
 
 1. [[#Mortal 2]] 
+
+1. [[#Religion and Worldview]] 
+
+
 1. [[#Vessel of Harmony]] 
 
 1. [[#Gender]] 
@@ -90,9 +94,18 @@ Around 348 [[Catacendre\|PC]], he is described as being trailed by a shadowy ref
 #### Mortal
 When feeling confident, Sazed is a person who—without raising his voice, without seeming to make demands—can control a group and get the information he desires. He always claims that he's no leader, but he's actually a fantastic one when he puts his mind to it. His calm sense of purpose puts people at ease and makes them do as he requests.
 Sazed is kindly, peaceful, and respectful, but with a smart tongue, which is unusual for a steward. As a [[Keeper\|Keeper]], he has many earrings, bracelets, and bands that act as his [[Feruchemical\|Feruchemical]] [[Metalmind\|metalminds]]. However, for a time after the death of the [[Lord Ruler\|Lord Ruler]], he has to stop wearing much of the jewelry to avoid tempting bandits. As a Keeper, he is also necessarily secretive, for the Lord Ruler has hunted them practically since the Day of Ascension itself.
-He at first believes in all religions, embracing their contradictions but respecting what he considers the truth behind them all. This changes after the loss of [[Tindwyl\|Tindwyl]], when he loses all his faith and decides to read each religion in detail in search of the true one and discard them if they have any contradiction. This leaves him hopeless, as he finds contradictions in each one. Again, this changes after his last battle in [[Urteau\|Urteau]] where, with the help of Spook, he finds his way back to faith. This rediscovered peace stays with him until he becomes [[Harmony\|Harmony]].
-Sazed enjoys researching and working on texts or engineering, and he keeps his workspace orderly and structured. As a Terrisman, he has specific speech patterns that are also recognizable in the sentence constructions of Tindwyl, [[Kwaan\|Kwaan]], and the Lord Ruler.
+Sazed enjoys researching and working on texts or engineering, and he keeps his workspace orderly and structured. As a Terrisman, he has specific speech patterns that are also recognizable in the sentence constructions of Tindwyl, [[Kwaan\|Kwaan]], and the Lord Ruler. This speech pattern seeks to avoid offence, and often attempts to soften statements and assertions. He also often uses complex compound sentences and hedges questions to indicate uncertainty.
 He believes that those born with mental or physical deficiencies deserve compassion, and finds treating them poorly for their disabilities to be distasteful.
+
+
+He at first believes in all religions, embracing their contradictions but respecting what he considers the truth behind them all. He also opposes religious intolerance and derision of any form, and will openly admonish those that engage in it. This, however, changes after the loss of [[Tindwyl\|Tindwyl]], which leads him to lose all his faith and decide to read each religion in detail in search of the true one and discard them if they have any contradiction. This leaves him hopeless, as he finds contradictions in each one. Again, this changes after his last battle in [[Urteau\|Urteau]] where, with the help of Spook, he finds his way back to faith. This rediscovered peace stays with him until he becomes [[Harmony\|Harmony]].
+He believes that faith and hope are defined by keeping faith even when faced with difficulties and failure. Furthermore, he believes that true faith becomes stronger in times of difficulty.
+
+>“*That is the nature of all life, Mistress... The world must change.*”
+\-Sazed[20]
+
+He believes that one cannot stop the progression of time, that change is an inherent part of life, and that one must enjoy the moments while they last. This is likely one part of his personality that made him resonate with Ruin. However, he also believes in the preservation of past cultures and religions that have long since been destroyed, and he devotes his life to this cultural preservation. This likely is a large factor in what made him resonate with Preservation.
+His belief in the preservation of faith and culture arises from how deeply he values the faith and practices of people, and in how he believes that all religions and worldviews hold some aspect of the truth of the world.
 
 #### Vessel of Harmony
   Sazed manifesting as both Harmony and Discord
@@ -177,7 +190,7 @@ He was found by Elend and Demoux. Sazed, a full believer and confident now in Vi
 
 ### The Final Ascension
 >“*I am, unfortunately, the Hero of Ages*”
-\-Sazed’s first words as Harmony in the book left after the final Ascension[20]
+\-Sazed’s first words as Harmony in the book left after the final Ascension[26]
 
 
   Harmony Ascending
@@ -212,7 +225,7 @@ Sazed married him to Vin just before the fight for Luthadel.
 
 ### Tindwyl
 >“*You…you’re strong like the wind. Always there, so willing to bend, but never apologetic for the times when you must be firm.*”
-\-Tindwyl to Sazed on why she loves him[55]
+\-Tindwyl to Sazed on why she loves him[59]
 
 
 Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
@@ -224,7 +237,7 @@ He refers to Hoid as his friend.
 
 ### Wax
 >“*I’ve heard distressing things, Waxillium Ladrian, that you’ve been worrying about. I would like to promise you something. With all the essence and axi of my being, I declare this.No one else moves you.Your life is yours.And you have my deepest apologies that I had a hand in teaching you otherwise.*”
-\-Harmony to Wax[32]
+\-Harmony to Wax[38]
 
 
 He has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.

@@ -83,7 +83,7 @@ They played a major role in the Emuli Offensive in 1175, fighting against Alethi
 
 ## Politics and Culture
   <<Tezim\|Tezim>>, the god-priest of Tukar
-The people of Tukar are typically brown-skinned and have black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
+The people of Tukar are typically brown-skinned and have black hair. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser than Azish clothing. Their outfits are also more enveloping than Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
 The Tukari wear colored bracelets, Dalinar believes they have religious significance, although he is uncertain. At least some of these bracelets are made from cloth, they may also have writing on them.
 The Tukari are renowned across Roshar for their mercenaries, their perfumes and their jewelry. There are many herdsmen in Tukar.
 

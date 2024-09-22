@@ -10,7 +10,7 @@
 \-Elantris Prologue[1]
 
 
-The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[Opelon\|Opelon]] on [[Sel\|Sel]]. Prior to the [[Reod\|Reod]] and following the [[Invasion of Arelon\|Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae\|Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures. Its name incorporates [[/wiki/Aon#Ela]], which means "center".
+The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[Opelon\|Opelon]] on [[Sel\|Sel]]. Prior to the [[Reod\|Reod]] and following the [[Invasion of Arelon\|Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae\|Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures. Its name incorporates [[/wiki/Aon#Ela]], which means "center" and was incorporated into the city’s layout with it’s streets.
 
 ## Contents
 
