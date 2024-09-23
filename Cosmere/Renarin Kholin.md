@@ -71,7 +71,7 @@ Renarin has sapphire eyes and his slender limbs and fingers give him the appeara
 
 ### Personality
 Renarin is soft-spoken and thoughtful, and tends to pause and consider responses before speaking up. This can occasionally make him seem calculating or unnerving to those with whom he speaks, though those close to him know him to be otherwise.
-He has a tendency to fidgit when nervous, stressed, or anxious as a way to calm himself down. This fidgiting primarily manifests as repeated motor actions with small objects he carries around with him. Most notably, a small box, and a chain inherited from his mother.
+He has a tendency to fidget when nervous, stressed, or anxious as a way to calm himself down. This fidgeting primarily manifests as repeated motor actions with small objects he carries around with him. Most notably, a small box, and a chain inherited from his mother.
 He does not like when people touch him quickly or unexpectedly. Renarin rarely smiles, only doing so when he is relaxed and among friends. He is non-confrontational, and attempts to avoid [[Wit\|Wit's]] mockery through silence. He often attempts to keep Adolin from starting fights. He also tends to avoid eye contact when talking to people.
 Renarin is on the , which is reflected in the aforementioned behaviors, and also suffers from .
 Despite his subdued personality, Renarin has courage and wants to be useful, even in situations where he does not have experience or extensive training. Renarin values the lives of his family over his own, and is willing to put himself in great danger if it might help the people he loves.
