@@ -73,7 +73,7 @@ The modern Windrunners consider those of the Second Ideal to be more than a squi
 >“*I've got to protect people, you know? Even from myself.*”
 \- The Third Ideal of the Windrunners (as spoken by Lopen) [14]
 
-This oath focuses on protecting others despite one's caveats, but the exact wording varies from individual to individual. It must be spoken before a Windrunner can manifest their honorspren as a [[Shardblade\|Shardblade]].
+This oath focuses on protecting others despite one's caveats, but the exact wording varies from individual to individual. It must be spoken before a Windrunner can manifest their honorspren as a [[Shardblade\|Shardblade]]. In addition, the Windrunner gains the ability to take on squires.
 
 ### The Fourth Ideal
 >“*I accept that there will be those I cannot protect!*”

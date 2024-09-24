@@ -58,6 +58,8 @@ The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal 
 \-The Third Ideal of the Edgedancers, as sworn by Lift[9]
 
 
+It must be reached before an Edgedancer can manifest their cultivationspren as a [[Shardblade\|Shardblade]].
+
 ## Abilities
  
 >“*When [[Simol\|Simol]] was informed of the arrival of the Edgedancers, a concealed consternation and terror, as is common in such cases, fell upon him; although they were not the most demanding of orders, their graceful, limber movements hid a deadliness that was, by this time, quite renowned; also, they were the most articulate and refined of the Radiants.*”

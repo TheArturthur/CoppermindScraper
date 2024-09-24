@@ -119,7 +119,7 @@ After creating the Dor, Odium went on to the [[Threnodite system\|Threnodite sys
 Although Odium was successful in these initial conflicts, he was weakened and severely wounded by them.
 
 #### Battle with Honor
-Next, over seven-thousand Rosharan years before the True Desolation, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. It can be assumed that Odium was crucial in the breakdown of the relations between the two species. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
+Next, over seven-thousand Rosharan years before the True Desolation, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both. According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. It can be assumed that Odium was crucial in the breakdown of the relations between the two species. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
 
 >“*I am … I was … God. The one you call the Almighty, the creator of mankind. And now I am dead. Odium has killed me. I am sorry.*”
 \-Honor[62]
