@@ -240,6 +240,7 @@ Despite what he has told the Ghostbloods, Kelsier does not have a real avatar. U
 Kelsier considers guns to be inelegant weapons.
 If he were a Radiant, there are three Orders Kelsier might belong to: [[Order of Edgedancers\|Edgedancer]], [[Dustbringer\|Dustbringer]], or [[Willshaper\|Willshaper]]. The reason he would fit well as an Edgedancer is mainly because of what he picked up from Mare regarding restoring the world to the time of flowers and greenery. Dustbringer also fits because of the theme of self mastery and pushing himself. Willshaper is high on the list as well.
 If he were a Returned, his name would likely be Lifeseeker, or something along those lines.
+Kelsier doesn’t like using tin because it makes his scars hurt.
 
 
 https://coppermind.net/wiki/Kelsier
