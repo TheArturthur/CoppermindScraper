@@ -1,6 +1,7 @@
 |**Kharbranth**|
 |-|-|
 ||
+||
 |**Ethnicity**|Kharbranthian|
 |**Ruled by**|Queen [[Savrahalidem\|Savrahalidem]]|
 |**Region**|[[Frostlands\|Frostlands]]|
