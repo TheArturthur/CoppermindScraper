@@ -150,7 +150,7 @@ For six months after Reen left, Vin continues to work in Camon's crew. Camon, wh
 #### Kelsier's Crew
 Vin joins Kelsier's crew and begins her Mistborn training with him.
 In her first practical lesson with Kelsier, they venture outside the city walls and are picked up in a carriage by [[Sazed\|Sazed]], who takes them to [[Fellise\|Fellise]], where Vin is tutored by him as it is decided that she will infiltrate the noble court on their behalf. She contributes to the plan by supplying a method to infiltrate the Steel Ministry from her old crew: Theron's fake canal convoys.
-During the meeting, Ham interrupts, reporting that the Ministry found Camon's lair, where Milev and his crew had continued to operate. The crew move to investigate the lair, wherein Vin's old crew mates has been butchered by an Inquisitor. Finding the former crewleader hung from a hook in the streets, the crew realize that the Inquisitors must still be on Vin's trail after Camon's last scam.
+During the meeting, Ham interrupts, reporting that the Ministry found Camon's lair, where Milev and his crew had continued to operate. The crew moves to investigate the lair, wherein Vin's old crew mates have been butchered by an Inquisitor. Finding the former crew leader hung from a hook in the streets, the crew realizes that the Inquisitors must still be on Vin's trail after Camon's last scam.
 
   With <<Elend\|Elend>> as Valette
 #### The House War

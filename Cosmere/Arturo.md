@@ -23,6 +23,7 @@ His family is rich and owns three private [[Starfighter\|starfighters]] that are
 3. [[#Experiments with the Taynix]] 
 3. [[#Mission to Sunreach]] 
 3. [[#Mission to ReDawn]] 
+3. [[#Mission to Evershore]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -112,6 +113,8 @@ The next day, Skyward Flight hyperjumped Wandering Leaf just outside the city of
 
 Afterwards, Arturo realized that Alanik was shaking, and discovered that she had killed a pilot earlier in the fight, and it had been her first time doing so. He sympathized with her, telling her it wasn't as easy for him to kill as it used to be. Arturo flew as Alanik's wingmate during the ensuing battle with the Unity and Superiority forces, and went to talk to her after their victory. After the battle, Jorgen called Cobb to report, and discovered that he'd been replaced by a Superiority imposter, just like Rinakin. He also discovered that his [[Jeshua Weight\|mother]] and several members of the National Assembly were walking into a trap aboard a Superiority vessel, and that Gran-Gran and Cobb were being held hostage. Alanik hyperjumped Wandering Leaf outside Detritus to go rescue them, and Jorgen put Arturo in command while he and Alanik boarded the Superiority ship. Arturo was still aboard Wandering Leaf when the ship exploded, killing Jorgen's parents and half of the National Assembly.
 
+### Mission to Evershore
+Over the next two days, Arturo went with Nedd, Kimmalyn, and Alanik to finish solidifying Detritus' alliance with the UrDail. Soon after, Arturo went with the rest of Skyward Flight on the mission to [[Evershore (planet)\|Evershore]]. Upon the flight's arrival at the capital city of [[Dreamspring\|Dreamspring]], the kitsen declared a feast, and Arturo and several others helped with the food preparation. After attempting to help [[Kel\|Kel]] and [[Winnow (Skyward)\|Winnow]] transport Cobb and Gran-Gran, Arturo spotted a Superiority carrier ship, and radioed Jorgen to alert him. Arturo fought in the ensuing battle with Alanik as his wingmate, and helped lead Skyward Flight while Jorgen attempted to use mindblades against the Superiority ships. Several human and UrDail backup flights arrived, and Arturo took command and directed their formations. Arturo spotted a [[Lifebuster\|lifebuster]] ship, and wanted to take it down himself, but Jorgen told him to let Alanik do it. Arturo reluctantly agreed, and Alanik successfully stopped the bomb. After the lifebuster was taken down, however, the Superiority fighters began flying down to the surface of Evershore to attack the civilians, and Arturo led the defense and evacuation of the kitsen cities. The tide of the battle changed, however, when Jorgen managed to hyperjump the entire planet of Detritus to the battle. With the help of Detritus' platforms and the newly awakened kitsen cytonics, the battle quickly shifted. Arturo was struggling to command flights from three different planet, but Jorgen used the commslugs to help coordinate the fight. Soon after, the Superiority forces retreated, and Arturo and the others went back down to Dreamspring. After the battle, Jorgen designated Arturo as Skyward Flight's new flightleader.
 
 ## Relationships
 ### Nedd
