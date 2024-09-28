@@ -62,7 +62,7 @@ It was during the [[/wiki/Sel#Middle Era]] on Sel that Elantris's sphere of infl
   Elantris after the Reod
 ### The Reod
 >“*Every surface—from the walls of the buildings to the numerous cracks in the cobblestones—was coated with a patina of grime. The slick, oily substance had a equalizing effect on Elantris's colors, blending them all into a single, depressing hue—a color that mixed the pessimism of black with polluted greens and browns of sewage.*”
-\-Elantris Chapter One[8]
+\-Elantris Chapter One[9]
 
 
 Ten years prior to the [[Fjordell\|Fjordell]] [[Invasion of Arelon\|invasion of Arelon]], a large earthquake occurred in the south of Arelon, causing a significant crack in the ground, later referred to as the [[Chasm\|Chasm]]. This caused an event that came to be called the Reod from [[/wiki/Aon#Reo]], which means punishment and retribution. The creation of the Chasm was a large enough change in the geography of Arelon that the Aons used across Elantris, such as the massive Aon Rao formed by the Elantrian Metropolitan Area, became incomplete. Elantris, and the Elantrians that called it home, "fell" because of this. The city, which had glowed with an inner light, grew dark and a greasy slime started to cover every surface. The Elantrians themselves were likewise diminished. Their silvery skin turned grey and was covered in dark splotches and their brilliant white hair began to fall out, along with other, less readily apparent, changes, such as their hearts ceasing to beat and their wounds refusing to heal. The strongest and most powerful Elantrians were also placed under extreme pressure from the [[Dor\|Dor]], which ached for release, leaving them effectively immobilized through cyclical "attacks".

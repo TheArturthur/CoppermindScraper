@@ -32,6 +32,9 @@ He is particularly interested in the decomposition cycle of the [[Aether\|Aether
 
 ## Attributes and Abilities
 As a [[Dragon (cosmere)\|dragon]], he possesses an extremely long lifespan, and the ability to shapeshift through a currently unknown method.
+
+ 
+
 Xisis has the ability to cure diseases including that of [[Spore eater\|spore eaters]]. He claims that this is temporary, only lasting a year or two, unless the person remains in his vicinity.
 Xisis is also seemingly a Tenth Heightening [[Awakener\|Awakener]], able to Command Awakened cloth without words.
 Through unknown means he is also able to control and shape the spores of the Crimson Sea to his whim, allowing him to form tunnels to his base of operations at the bottom of the ocean. This base is itself a series of tunnels made out of the crimson spores.

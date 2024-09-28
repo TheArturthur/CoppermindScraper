@@ -71,6 +71,7 @@
 4. [[#Final Empire People]] 
 4. [[#Terrispeople]] 
 4. [[#Southern People]] 
+4. [[#Herdazians]] 
 4. [[#.22Golden Haired People.22]] 
 
 
@@ -331,6 +332,10 @@ Following the Catacendre, many of the surviving Terris people were darker in ton
 
 ### Southern People
 The southern peoples were taken by the Lord Ruler and taken to the south pole as remnants of old humanity before he changed their biology. They developed very poor thermoregulation over their millennium of separation from the rest of humanity, likely as a way to deal with the heat of the poles.
+
+### Herdazians
+For more information, see [[Herdaz\|Herdaz]].
+There is a group of [[Herdaz\|Herdazians]] from Roshar which inhabited Scadrial some time before 348 PC. How prevalent or widespread they are, or how they are seen by the people or the government, is unclear. Part of their population, however, is known to have settled in Bilming.
 
 ### "Golden Haired People"
 An unnamed group of golden haired people have settled on Scadrial some time before 348 PC.

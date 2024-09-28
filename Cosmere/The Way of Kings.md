@@ -101,6 +101,7 @@ For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/
 |**Українська**|*Шлях королів*|
 |**فارسی**|*طریق شاهان*|
 |**עִבְֿרִית**|*דרך המלכים*|
+|**العربية**|*نهج الملوك*|
 |**日本語**|白き暗殺者 (The White Assassin)|
 |死を呼ぶ嵐 (The Storm that Summons Death)|
 |自由への懸け橋 (Bridge to Freedom)|

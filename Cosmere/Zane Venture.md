@@ -37,7 +37,7 @@ Zane has a [[Hemalurgic\|Hemalurgic]] spike he placed himself, presumably under 
 Without Ruin's influence, Zane would have been less crazy but more ruthless, much like his father, and would have been more similar to Kelsier.
 
 ## Attributes and Abilities
-Zane is a powerful Mistborn, the strongest [[Vin\|Vin]] has met since [[Kelsier\|Kelsier]]. This is, in part, thanks to a [[Steel\|steel]] [[Hemalurgic\|Hemalurgic]] spike in his heart, which grants him great precision when using [[Allomantic\|Allomantic]] steel. He was one of the few Mistborn in the [[Final Empire\|Final Empire]] who has access to [[Duralumin\|duralumin]].
+Zane is a powerful Mistborn, the strongest [[Vin\|Vin]] has met since [[Kelsier\|Kelsier]]. This is, in part, thanks to a [[Steel\|steel]] [[Hemalurgic\|Hemalurgic]] spike in his heart, which grants him great strength when using [[Allomantic\|Allomantic]] steel. He is one of the few Mistborn in the [[Final Empire\|Final Empire]] who has had access to [[Duralumin\|duralumin]].
 
 ## History
 At some point after he Snapped, Zane obtained, and stabbed himself with, a Hemalurgic spike.
