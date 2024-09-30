@@ -37,7 +37,7 @@ El has horns. At each rebirth, he removes his carapace and replaces it with meta
 \-El's thoughts on humans[3][4][5][6][7][8][9]
 
 El expresses an admiration for humans. He considers them strong, intense, determined, brilliant, and bright. He studies human art forms, including writing his own [[Ketek\|ketek]]. He looks forward to ruling humans, and sees them as effective weapons that channel their Passion. He at one point believed that humans should not be killed, but rather repurposed to further the goals of the Fused.
-Other [[Fused\|Fused]], even one as powerful and dangerous as [[Lezian\|Lezian]] the Pursuer, are wary of crossing or complaining to him. He is willing to kill his own kind simply as a way to experiment with the effectiveness of [[Voidlight\|Anti-Voidlight]]. He finds joy in being feared, primarily by humans.
+Other [[Fused\|Fused]], even one as powerful and dangerous as [[Lezian\|Lezian]] the Pursuer, are wary of crossing or complaining to him. He is willing to kill his own kind simply as a way to experiment with the effectiveness of [[/wiki/Lights#Anti-Voidlight]]. He finds joy in being feared, primarily by humans.
 
 ## History
 At some point in the past, El suggested that humans should not be killed. He instead wanted to unite all of [[Roshar\|Roshar]] under [[Fused\|Fused]] rule for a future war. As punishment, his [[Rhythm\|Rhythms]] and title were stripped from him. Prior to this point, he had the title Vyre, which translates to He Who Quiets; [[Lezian\|Lezian]] considers it disrespectful that this title was later given to a human, [[Moash\|Moash]], though El himself does not appear to be bothered by it.

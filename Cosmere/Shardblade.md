@@ -277,23 +277,23 @@ This list of known dead Shardblades is organized by current owner or most recent
 |-|-|
 |[[Adolin Kholin\|Adolin Kholin]]|[[Mayalaran\|Mayalaran]]|[[Tinalar\|Tinalar]]|Sinuous cutting edge, crystalline back, former Blade of an Edgedancer|Won in a duel in Adolin's youth||
 |[[Aladar\|Aladar]]|*Unknown*|*Unknown*|*Unknown*|Prefers to lead from rear, often lends Blade to officers||
-|[[Dalinar Kholin\|Dalinar Kholin]] (Unbound)|*Unknown*|[[Talenel\|Talenel]] - Unbound|Wider than average - cleaver-like|Unbound at the request of the Stormfather||
-|[[Elhokar Kholin\|Elhokar Kholin]] (Deceased)|[[Sunraiser\|Sunraiser]]|[[Kalanor\|Kalanor]]|Long, thin - etched with ten fundamental glyphs|Sunraiser's current owner is an unknown singer, who was in the invasion of Urithiru following Elhokar's death.||
+|[[Dalinar Kholin\|Dalinar Kholin]] (Unbound)|*Unknown*|[[Talenel\|Talenel]] (Unbound)|Wider than average -- cleaver-like|Unbound at the request of the Stormfather||
+|[[Elhokar Kholin\|Elhokar Kholin]] (Deceased)|[[Sunraiser\|Sunraiser]]|[[Kalanor\|Kalanor]]|Long, thin -- etched with ten fundamental glyphs|Sunraiser's current owner is an unknown singer, who was in the invasion of Urithiru following Elhokar's death||
 |[[Eshonai\|Eshonai]] (Deceased)|*Unknown*|*Unknown*|Wicked and barbed, flame patterns|Taken by the Fused along with her Plate||
-|[[Fisk\|Fisk]]|[[Loremaker\|Loremaker]]|*Unknown*|*Unknown*|May be one of the unnamed Shardblades won by Adolin.||
+|[[Fisk\|Fisk]]|[[Loremaker\|Loremaker]]|*Unknown*|*Unknown*|May be one of the unnamed Shardblades won by Adolin||
 |[[Gavilar Kholin\|Gavilar Kholin]] (Deceased)|[[Firestorm\|Firestorm]]|*Unknown*|Edged on both sides, flame patterns|Was in possession of Elhokar as King's Blade, presumably went to Jasnah after her coronation||
 |[[Graves\|Graves]] (Deceased)|*Unknown*|*Unknown*|*Unknown*|Stolen by the Fused for purposes unknown||
 |[[Hanavanar\|Hanavanar]] (Deceased)|*Unknown*|*Unknown*|*Unknown*|Kept Blade a secret, two of his murdered men also had Blades, fate of all three unknown||
 |[[General Khal\|General Khal]]|*Unknown*|[[Relis Ruthar\|Relis Ruthar]]|Colored a deep black|Won by Adolin in his duels||
 |[[Liss\|Liss]]|*Unknown*|*Unknown*|*Unknown*|Kept a secret to be used in assassinations||
-|[[Meridas Amaram\|Meridas Amaram]] (Deceased)|*Unknown*|[[Helaran Davar\|Helaran Davar]]|Thick, curved, one edge in shape of flames or ripples, a gem stone set at the pommel. Etchings all along its surface.|Stolen by Amaram from Kaladin, now owned by Rock after he killed Amaram||
-|[[Moash\|Moash]] (Lost)|*Unknown*|[[Abrobadar\|Abrobadar]]|Edged on both sides, twisting vine pattern at center, heliodor pommel|Given up to the Fused in exchange for his life.||
+|[[Meridas Amaram\|Meridas Amaram]] (Deceased)|*Unknown*|[[Helaran Davar\|Helaran Davar]]|Thick, curved, one edge in shape of flames or ripples, a gem stone set at the pommel. Etchings all along its surface.|Stolen by Amaram from Kaladin, now owned by Rock after he killed Amaram; taken with him to the Horneater Peaks||
+|[[Moash\|Moash]] (Lost)|*Unknown*|[[Abrobadar\|Abrobadar]]|Edged on both sides, twisting vine pattern at center, heliodor pommel|Given up to the Fused in exchange for his life||
 |[[Renarin Kholin\|Renarin Kholin]] (Given up)|*Unknown*|[[Salinor Eved\|Salinor Eved]]|*Unknown*|Won by Adolin in his duels, given to ardents after Renarin could manifest his own Blade||
 |[[Resi\|Resi]]|*Unknown*|*Unknown*|*Unknown*|Only full Shardbearer in Thanadals camp, called Royal Defender||
 |[[Ruthar\|Ruthar]]|*Unknown*|*Unknown*|*Unknown*|Only Blade remaining to Ruthar after Adolin's duels||
 |[[Shallan Davar\|Shallan Davar]]|Testament|*None*|*Unknown*|Formerly a living Blade bonded to Shallan, killed when she forswore her Oaths in the aftermath of her mother's death||
 |[[Talanor\|Talanor]]|*Unknown*|*Unknown*|*Unknown*|Only possess a Blade, refused Adolin's duel off||
-|[[Dalinar Kholin\|Dalinar Kholin]] (Not bonded)|[[Oathbringer (Shardblade)\|Oathbringer]]|[[Meridas Amaram\|Meridas Amaram]]|Handspan wide, curvy, hooked tip, edged on one side with wave-like serrations near hilt|Given to Dalinar after Amaram was shot to death with a Grandbow by Rock -- who refuses to take up Amaram's Shards.||
+|[[Dalinar Kholin\|Dalinar Kholin]] (Not bonded)|[[Oathbringer (Shardblade)\|Oathbringer]]|[[Meridas Amaram\|Meridas Amaram]]|Handspan wide, curvy, hooked tip, edged on one side with wave-like serrations near hilt|Given to Dalinar after Amaram was shot to death with a Grandbow by Rock -- who refuses to take up Amaram's Shards||
 |[[Valam\|Valam]] (Deceased)|*Unknown*|*Unknown*|*Unknown*|Left beside body of the king, current owner unknown||
 
 ### Former Shardbearers
@@ -329,7 +329,7 @@ While most Shardblades originate on Roshar and seem to be ultimately derived fro
 
 ## Development
 >“*Can I make a situation where these oversized, over-stylized blades are actually practical? Why in the world would you need a weapon like that? And how do you actually use one?*”
-\-Brandon Sanderson[219]
+\-Brandon Sanderson[220]
 
 
 [[Brandon Sanderson\|Brandon Sanderson's]] inspiration for Shardblades came out of the books, art, and video games in the fantasy genre during the 80s and 90s. He was a big fan of the  games on the , in which there are oversized swords. Impractically large and ornate swords were common in other fantasy art during this time period as well. Brandon began to think about the circumstances in which these swords would be actually be practical and the kinds of enemies that they would be useful in combating. He also began to wonder how he could even make these swords useful, and came to the conclusion that they would have to be summoned. Brandon also felt that lightsabers are the coolest magic sword, but because Star Wars is science fiction, he wanted to come up with a cool magic sword for the fantasy genre.
