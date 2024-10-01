@@ -279,6 +279,7 @@ This list of known dead Shardblades is organized by current owner or most recent
 |[[Aladar\|Aladar]]|*Unknown*|*Unknown*|*Unknown*|Prefers to lead from rear, often lends Blade to officers||
 |[[Dalinar Kholin\|Dalinar Kholin]] (Unbound)|*Unknown*|[[Talenel\|Talenel]] (Unbound)|Wider than average -- cleaver-like|Unbound at the request of the Stormfather||
 |[[Elhokar Kholin\|Elhokar Kholin]] (Deceased)|[[Sunraiser\|Sunraiser]]|[[Kalanor\|Kalanor]]|Long, thin -- etched with ten fundamental glyphs|Sunraiser's current owner is an unknown singer, who was in the invasion of Urithiru following Elhokar's death||
+|[[Elhokar Kholin\|Elhokar Kholin]] (Deceased)|*Unknown*|*Unknown*|*Unknown*|Current owner is unknown. [[Dalinar\|Dalinar]] won a shardblade (and plate) from a Parshendi during the first year of the [[War of Reckoning\|War of Reckoning]]. Gifted to [[Elhokar\|Elhokar]] to bestow upon a useful warrior.||
 |[[Eshonai\|Eshonai]] (Deceased)|*Unknown*|*Unknown*|Wicked and barbed, flame patterns|Taken by the Fused along with her Plate||
 |[[Fisk\|Fisk]]|[[Loremaker\|Loremaker]]|*Unknown*|*Unknown*|May be one of the unnamed Shardblades won by Adolin||
 |[[Gavilar Kholin\|Gavilar Kholin]] (Deceased)|[[Firestorm\|Firestorm]]|*Unknown*|Edged on both sides, flame patterns|Was in possession of Elhokar as King's Blade, presumably went to Jasnah after her coronation||

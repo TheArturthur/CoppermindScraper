@@ -168,7 +168,7 @@ Known as the Herald of Luck, and, earlier, the Binder of Gods. Associated with t
 
 
 ## Official depictions
-Unlike most other characters, the Heralds (except for Battar) have official depictions of them in the [[Stormlight Archive\|Stormlight Archive]]. Those are said to be in-universe artwork, and as such, they're not entirely accurate. Four of them can be found at the beginning and end of *[[Oathbringer\|Oathbringer]]*, while four more are present in *[[Rhythm of War\|Rhythm of War]]*.
+Unlike most other characters, the Heralds have official depictions of them in the [[Stormlight Archive\|Stormlight Archive]]. Those are said to be in-universe artwork, and as such, they're not entirely accurate. Four of them can be found at the beginning and end of *[[Oathbringer\|Oathbringer]]*, four more are present in *[[Rhythm of War\|Rhythm of War]]*, with the final two being present in *[[Wind and Truth\|Wind and Truth]]*.
 
 
 Illustrations
@@ -206,6 +206,12 @@ Illustrations
 
 
  [[Shalash\|Shalash]]
+
+
+
+
+
+ [[Battar\|Battar]]
 
 
 

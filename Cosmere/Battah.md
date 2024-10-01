@@ -49,7 +49,6 @@ There is a temple to her in several major Vorin cities. The temple of Battah in 
 
 ## Trivia
 Battar's portrait used in the chapter arches is called the Counselor by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
-Battar is the only [[Herald\|Herald]] to not yet have an official depiction.
 
 
 https://coppermind.net/wiki/Battah

@@ -85,6 +85,7 @@ Although Cultivation assisted Honor in fighting Odium, Honor still perished. Fol
 Cultivation also briefly spent time on [[Ashyn\|Ashyn]].
 
 ### Era of Solitude
+  Cultivation and the <<Nightwatcher\|Nightwatcher>>
 In the late [[Era of Solitude\|Era of Solitude]], Cultivation used the [[Old Magic\|Old Magic]] at least thrice. She granted [[Taravangian\|Taravangian]] fluctuating amounts of compassion and intelligence, ultimately grooming him to take up the [[Shard\|Shard]] of [[Odium\|Odium]], which required compassion, and to master its [[Shard\|Intent]], which required the intelligence. She altered [[Lift\|Lift's]] Surgebinding so it was powered by Lifelight, rather than Stormlight, though Lift's boon and curse are not known. She also intervened when [[Dalinar Kholin\|Dalinar Kholin]] came to see the Nightwatcher and begged for forgiveness. Instead of this, she erased all memories of [[Evi\|his wife]], which served as both a boon and a curse.
 Unlike with all other boons and curses, Dalinar's memories gradually returned after the arrival of the [[Everstorm\|Everstorm]]. This was deliberately engineered by Cultivation to give him time to come to terms with his past before [[Odium\|Odium]] would try to use it to turn Dalinar into his champion.
 

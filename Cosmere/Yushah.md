@@ -1,6 +1,6 @@
 |**Yushah**|
 |-|-|
-|**Died**|[[Battle of Thaylen Field\|Battle of Thaylen Field]], Nanishi 1174|
+|**Died**|[[Battle of Thaylen Field\|Battle of Thaylen Field]], Nanishah 1174|
 |**Species**|[[Thunderclast\|Thunderclast]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
