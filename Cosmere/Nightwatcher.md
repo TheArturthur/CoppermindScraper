@@ -36,6 +36,7 @@ The Nightwatcher manifests in the Physical Realm as a dark green mist shaped vag
 She is sometimes mistakenly conflated with the [[Chemoarish\|Chemoarish]], an [[Unmade\|Unmade]].
 
 ## Origin
+  The Nightwatcher and <<Cultivation\|Cultivation>>
 Called "child" by [[Cultivation\|Cultivation]], it is likely that the Nightwatcher was created by [[Cultivation\|Cultivation]] for a specific purpose from a different spren much like the [[Stormfather\|Stormfather]] was by [[Honor\|Honor]]. The Nightwatcher is implied to be one of three [[Spren\|spren]] on [[Roshar\|Roshar]] that are [[Cognitive Shadow\|shadows of a god]].
 The Nightwatcher was deliberately created by Cultivation to be un-Connected to humans and is unaffected by the way they think about her. This was done so she could grow more organically.
 

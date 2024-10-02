@@ -49,6 +49,7 @@ There is a temple to her in several major Vorin cities. The temple of Battah in 
 
 ## Trivia
 Battar's portrait used in the chapter arches is called the Counselor by the [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] staff.
+Battar is featured as one of the *[[Wind and Truth\|Wind and Truth]]* endpapers.
 
 
 https://coppermind.net/wiki/Battah

@@ -22,7 +22,7 @@ According to a 348 [[Catacendre\|PC]] issue of *[[The Two Seasons\|The Two Seaso
 ## Trivia
 Elariel seems to be a house well accustomed to intrigue. Its ballroom, full of secret alcoves and muted lighting, is well suited for discussing secret alliances and schemes while at balls. Once Elend discovers that Shan Elariel is a Mistborn, he suspects that House Elariel's intention was to have him killed as soon as an Elariel grandson was born.
 Certain houses are mentioned as being "cousins" of House Elariel (including [[Patresen\|Patresen]], [[Habren\|Habren]], and [[Seeris\|Seeris]]). This could indicate that Elariel was once part of a larger family that split apart, that Elariel often recruits allies through marriage, or some combination of the two.
-On the night of the [[Collapse\|Collapse]], House Elariel was the second most powerful house in the city. Because [[Straff Venture\|Straff Venture]] fled the city, and Elend defected to the rebellion, when Elariel was defeated by the skaa rebellion, it arguably had become the most powerful remaining Great House, a notable achievement.
+On the night of the [[Collapse\|Collapse]], House Elariel was the second most powerful house in the city. Because [[Straff Venture\|Straff Venture]] fled the city, and Elend defected to the rebellion, shortly before House Elariel was defeated by the skaa rebellion, it arguably had become the most powerful remaining Great House, a notable achievement.
 
 
 https://coppermind.net/wiki/House_Elariel

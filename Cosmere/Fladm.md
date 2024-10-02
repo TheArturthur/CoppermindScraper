@@ -1,6 +1,6 @@
 |**Fladm**|
 |-|-|
-|**Died**|Nanishi 1174|
+|**Died**|Nanishah 1174|
 |**Profession**|Security guard|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
