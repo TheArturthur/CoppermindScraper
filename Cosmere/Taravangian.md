@@ -23,7 +23,7 @@
 \-Taravangian to Szeth[2]
 
 
-**Taravangian** is the king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]], and the current Vessel of the [[Shard\|Shard]] [[Odium\|Odium]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius.
+**Taravangian** was the king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]], and the current Vessel of the [[Shard\|Shard]] [[Odium\|Odium]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius.
 
 ## Contents
 

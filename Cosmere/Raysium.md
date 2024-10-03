@@ -4,7 +4,9 @@
 |**Properties**|Conducts [[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Raysium** is the [[God Metal\|God Metal]] associated with the Shard of [[Odium\|Odium]]. Its name is presumably derived from [[Rayse\|Rayse]], the original [[Vessel\|Vessel]] of Odium. It is rare and available only to a select few amongst Odium's forces.
+> [!warning] This page or section contains spoilers for *[[Rhythm of War\|Rhythm of War]]*!This information has the ability to potentially ruin elements of the plot for the reader. Proceed with caution if you have not read this book.
+
+**Raysium** is the [[God Metal\|God Metal]] associated with the Shard of [[Odium\|Odium]]. Its name is presumably derived from [[Rayse\|Rayse]], the original [[Vessel\|Vessel]] of Odium. It is rare and available only to a select few amongst Odium's forces. Its name may change to Taravangium due to the death of [[Rayse\|Rayse]] and the Ascension of [[Taravangian\|Taravangian]].
 
 ## Contents
 

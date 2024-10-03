@@ -4,7 +4,7 @@
 |**Relatives**|[[Kwaan\|Kwaan]]|
 |**Born**|[[Classical Scadrial\|Classical Scadrial]]|
 |**Died**|1022 [[Final Empire\|FE]]|
-|**Abilities**|[[Feruchemy\|Feruchemist]], [[Sliver\|Sliver]], [[Allomancy\|Mistborn]], [[Twinborn\|twinborn]], [[Hemalurgy\|Hemalurgist]], [[Savant\|Savant]]|
+|**Abilities**|[[Feruchemy\|Feruchemist]], [[Sliver\|Sliver]], [[Allomancy\|Mistborn]], [[Twinborn\|Twinborn]], [[Hemalurgy\|Hemalurgist]], [[Savant\|Savant]]|
 |**Titles**|Lord Ruler, Sliver of Infinity, the Father, the Conqueror, First Emperor|
 |**Nationality**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

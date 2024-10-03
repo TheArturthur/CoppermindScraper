@@ -50,7 +50,7 @@ Yolen has fallen behind technologically compared to many other planets in the co
 ## History
 Yolen is one of the oldest inhabited worlds in the cosmere, and the first on which humans have appeared. It's also the world of [[Adonalsium\|Adonalsium]], the entity believed to be the cosmere's creator deity. Yolen had gods other than Adonalsium, the nature of these gods is unknown, however, at least some of them are known to have died.
 For some reason or another, various groups of humans decided to leave Yolen and travel across the cosmere, settling and forming societies across Yolen and on various planets. Though these human exclaves, for some reason or another, developed far slower than those that remained on Yolen, being left stuck using stone tools while Yolen advanced to making use of bronze and other metals.
-At several points in Yolen's history, [[Microkinesis\|Microkinesis]] was misused to explosive effect and resulting in disastrous consequences that are not fully understood.
+At several points in Yolen's history, [[Microkinesis\|Microkinesis]] was misused to explosive effect and resulting in disastrous consequences that are not fully understood, but likely caused massive devastation of the Yolish population due to atomic explosions set off by [[Microkinesis\|Microkinesis]].
 People worldhopped to other planets on rare occasions over Yolen's history.
 
 >“*I learned it many, many years ago from a man who didn't know who he was, Your Majesty. It was a distant place where two lands meet and gods have died. But that is unimportant.*”

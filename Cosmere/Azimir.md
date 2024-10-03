@@ -4,6 +4,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page is part of the October 2024 objectives!It is currently unclaimed, add  between  and  if you have claimed the article.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Azimir** is the capital city of [[Azir\|Azir]], and the seat of the [[Prime Aqasix\|Prime Aqasix]], the leader of the Azish Empire.

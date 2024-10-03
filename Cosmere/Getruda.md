@@ -8,6 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
+> [!info] This page is part of the October 2024 objectives!It has been claimed by User: Milk, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Getruda** is a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]] and the partner of [[Dumad\|Dumad]]. She is a [[Bloodmaker\|Bloodmaker]] and [[Slider\|Slider]] with a notable obsession with [[Wayne\|Wayne]].

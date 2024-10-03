@@ -153,6 +153,7 @@ It is theoretically possible for Nightblood to bond a [[Spren\|spren]], but the 
 Nightblood has some similarities to Tzai blows, a technique in the non-canonical work *[[Dragonsteel Prime\|Dragonsteel Prime]]* that can directly attack something in the [[Spiritual Realm\|Spiritual Realm]].
 If Nightblood was a ** card, it would be equipment, with the text: "When equipped creature does combat damage, destroy all other creatures. During your upkeep, pay WUBRG or you lose the game."
 Different forms of Investiture taste different to Nightblood. However, since he eats Investiture while unsheathed, he doesn't pay attention to the taste and doesn't remember it afterwards.
+Nightblood is no longer made of normal metal, or even the same metal as Azure's Blade.
 
 
 https://coppermind.net/wiki/Nightblood

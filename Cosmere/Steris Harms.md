@@ -14,6 +14,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
+> [!info] This page is part of the October 2024 objectives!It is currently unclaimed, add  between  and  if you have claimed the article.
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*As I have said many times before, I am aware of my reputation. I must embrace my nature.*”

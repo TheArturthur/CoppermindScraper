@@ -7,6 +7,8 @@
 |**Effects**|Ongoing|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+
+> [!info] This page is part of the October 2024 objectives!It has been claimed by User: VitamAnteMortem, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Edgedancer (novella)\|Edgedancer]]*, *[[Oathbringer\|Oathbringer]]*, *[[Dawnshard (novella)\|Dawnshard]]*, and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I have seen the end, and have heard it named. The Night of Sorrows, the True Desolation. The Everstorm.*”

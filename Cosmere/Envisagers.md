@@ -3,6 +3,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page is part of the October 2024 objectives!It is currently unclaimed, add  between  and  if you have claimed the article.
 The **Envisagers** were a group of people who secretly bore the remembrance of the [[Knights Radiant\|Knights Radiant]] and awaited their return. Currently there are no living Envisagers known, although they could potentially still exist in [[Yulay\|Yulay]], as [[Sigzil\|Sigzil]] speaks of a group there with similar goals.
 They are probably a splinter group of the [[Sons of Honor\|Sons of Honor]].
 

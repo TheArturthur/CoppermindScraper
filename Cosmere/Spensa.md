@@ -13,6 +13,7 @@
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Skyward\|Skyward]]*|
 
+> [!info] This page is part of the October 2024 objectives!It is currently unclaimed, add  between  and  if you have claimed the article.
 > [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*When this is done, Jerkface, I will hold your tarnished and melted pin up as my trophy as your smoldering ship marks your pyre, and the final resting place of your crushed and broken corpse!*”

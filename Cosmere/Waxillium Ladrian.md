@@ -18,6 +18,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
+> [!info] This page is part of the October 2024 objectives!It has been claimed by User: Nightstar The Bright, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The definition of a lawman, Uncle, is easy... He's the man who takes the bullet so nobody else has to.*”

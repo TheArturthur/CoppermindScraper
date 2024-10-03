@@ -273,6 +273,7 @@ On Ishishach 1173, during the [[Battle of Narak\|Battle of Narak]], the [[Everst
 
 #### Battle of Thaylen Field
 For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+  Map of the conflict situation after the Battle of Thaylen Field
 
 At the end of the battle, the Unmade Nergaoul was sealed away in the [[King's Drop\|King's Drop]]. The Unmade was studied for a period following his being sealed away, but he was eventually locked in an aluminum box and hidden away at the bottom of the ocean to keep him out of enemy hands.
 
@@ -287,6 +288,8 @@ During the Occupation, Navani and Raboniel worked together to discover [[Anti-Vo
 
 #### Expedition to Emul and Ascension of Taravangian
 
+
+  Map of the conflict situation after the Liberation of Urithiru
 Taravangian was assassinated by Szeth while being met by Odium. On his transition to the Cognitive Realm, he managed to kill Odium's Vessel with the Cognitive Aspect of Nightblood, and took the Shard for himself. Thus, he ascended as the new Vessel of Odium.
 
 #### Contest of Champions

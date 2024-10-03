@@ -98,7 +98,7 @@ Leras seems to remember [[Hoid\|Hoid]] fondly.
 \-Leras[3]
 
 
-Leras is familiar with an unknown person or being named [[Senna\|Senna]]. It's unclear who or what they were; however, Leras invokes them during his breakdown when seeing Ruin destroy [[Scadrial\|Scadrial]] around him, suggesting it was someone highly important to him.
+Leras is familiar with an unknown person or being named [[Senna\|Senna]]. It's unclear who or what they were; however, Leras invokes them during his breakdown when seeing Ruin destroy [[Scadrial\|Scadrial]] around him, suggesting it was someone highly important to him, possibly a dead Yolish god.
 
 ## Trivia
 He is familiar with [[Vax\|Vax]], and would recognize the name of the planet if he was still around when [[Ati\|Ati]] mentioned it.
