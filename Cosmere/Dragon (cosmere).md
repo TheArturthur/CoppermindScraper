@@ -16,8 +16,12 @@
 
 1 Characteristics. [[#Characteristics]] 
 
+1. [[#Greater Dragons]] 
+
 1. [[#Biology]] 
-1. [[#Behaviour]] 
+1. [[#Behavior]] 
+
+
 1. [[#Lesser Dragons]] 
 
 
@@ -34,19 +38,21 @@
 
 
 ## Characteristics
+### Greater Dragons
+#### Biology
   <<Hoid\|Hoid>> with <<Frost\|Frost>>
-### Biology
 >“*She had another shape as well. Many of them, but one deeper and truer than the others.*”
 \-Taravangian, on Koravellium Avast[8]
 
 
 Most dragons in the cosmere are [[Fain\|fain]] creatures, and as such they are hexapedal, with four legs and two wings. They are inherently ageless, and therefore they stop aging after a certain point, but they are not unkillable. In their true forms, they are not necessarily large; some are smaller than [[Sandling\|sandlings]], while others can be as large as [[Chasmfiend\|chasmfiends]]. Their skin is covered with pearlescent scales, as well as silvery streaks of [[Dragonsteel (metal)\|dragonsteel]] that run along the body, mostly the limbs, up towards their horns, which are made entirely of dragonsteel. Even in this nonhuman form, they are still able to speak with a human-sounding voice. Despite being reptilian, they are able to grow hair across the head, and under the neck and chin as a beard. At least some of them are carnivorous.
 Dragons have the inherent ability to shapeshift. The scope of their shapeshifting powers may vary by individual, but shapeshifting is a core aspect of their life cycle. Dragons are born in humanoid form, then transition into their draconic form upon hitting puberty, and eventually gain the ability to switch between those two forms at will. It is also likely that assuming a humanoid form is required for them to bear children. When in their humanoid form, dragons do not display any identifiable nonhuman characteristics. Their shapeshifting method is different to that of the [[Kandra\|kandra]], even if the result is similar.
-Dragons appear to possess some form of intrinsic connection to [[Tamu Kek\|Tamu Keks]]; using a Tamu Kek, one may speak to a dragon, and the dragon can, in turn, respond and influence the speaker's emotions in some manner.
+Dragons appear to possess some form of intrinsic connection to [[Tamu Kek\|Tamu Keks]]; using a Tamu Kek, one may speak to a dragon, and the dragon can, in turn, respond and influence the speaker's emotions in some manner similar to a [[Brass\|Soothing]] or [[Zinc\|Rioting]].
+Due to their highly Invested nature, dragons would struggle to use most [[Invested Art\|Invested Arts]].
 
-### Behaviour
+#### Behavior
 >“*The deal has been struck. I must pay you, however little I think the trade was worth.*”
-\-Xisisrefliel[21]
+\-Xisisrefliel[22]
 
 
 Dragons are fond of bargains; in some cases, this can take the form of magical interactions that involve the dragon granting the petitioner a boon of some sort. They are likewise fond of collecting useful assets, which includes people, in form of slaves, followers or even corporate employees. They will frequently make themselves known throughout the [[Cosmere\|cosmere]], so as to plant knowledge of themselves that they can use later.
@@ -55,7 +61,8 @@ Most dragons have at least two names -- a full, long name and then a shorter nic
 It is considered dangerous to disturb a sleeping dragon.
 
 ### Lesser Dragons
-Aside from the so-called "greater dragons", the cosmere is also home to lesser dragons. Lesser dragons have some notable differences to greater dragons; they do not share the amphibian-like lifecycle of greater dragons, and are incapable of transformation into humanoid form. An unnamed planet is home to a variety of non-hexapedal lesser dragons known as **drakelings**. Nothing else is known about the biology or abilities of lesser dragons, and their relationship (if any) to greater dragons is unclear.
+Aside from the so-called "greater dragons", the cosmere is also home to lesser dragons. Lesser dragons have some notable differences to greater dragons; they do not share the amphibian-like lifecycle of greater dragons, and are incapable of transformation into humanoid form. An unnamed planet is home to a variety of non-hexapedal lesser dragons known as **drakelings**. Lesser dragons have a much easier time using Invested Arts.
+Nothing else is known about the biology or abilities of lesser dragons, and their relationship (if any) to greater dragons is unclear.
 
 ## Presence in the Cosmere
   <<Koravellium Avast\|Koravellium Avast>>, also known as the <<Shard\|Shard>> <<Cultivation\|Cultivation>>

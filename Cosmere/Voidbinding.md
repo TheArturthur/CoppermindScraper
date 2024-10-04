@@ -20,6 +20,7 @@
 3 Abilities. [[#Abilities]] 
 
 3. [[#Voidish Surges]] 
+3. [[#Voidish Essences]] 
 3. [[#Regals]] 
 
 
@@ -44,6 +45,9 @@ While details on the ability are sparse, Renarin's future sight is shown to be i
 ### Voidish Surges
 There are glyphs on the Voidbinding chart that share position with and are variations of the Surge glyphs on the [[Surgebinding\|Surgebinding]] chart. Instead of the axial symmetry of the Surge glyphs, the glyphs on the Voidbinding chart exhibit rotational symmetry. It may be that these glyphs represent either alternatives to, or variant expressions of, the Surges in Surgebinding.
 As Renarin Kholin is apparently unable to use the Surge of [[Illumination\|Illumination]] in the manner normal [[Order of Truthwatchers\|Truthwatchers]] do, it is possible that his visions of the future come from this hypothetical "Voidish" expression of the Surge of Illumination.
+
+### Voidish Essences
+The glyphs in the Voidbinding chart whose location correspond to the Ten Essences chart are polar transformation of standard glyphs, some of which are similar to glyphs for the ten fundamental surges . Whether or not this is significant is unclear.
 
 ### Regals
 [[/wiki/Regal#Nightform]], one of the [[Regal\|Regal]] forms of power, was said to allow for foreseeing the future. This suggests a possible relation to Voidbinding, and may have implications about the other forms of power.

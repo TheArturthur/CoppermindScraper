@@ -101,6 +101,7 @@ The Yoki-hijo reformed after being killed by the father machine due to how heavi
 
 ## Trivia
 The mist spirit that Vin sees during [[The Well of Ascension\|The Well of Ascension]] is not a Cognitive Shadow. Depending on the scene, it was an actual manifestation of Preservation or Ruin's imitation of that manifestation.
+Szeth, Wax, and Taravangian are not Cognitive Shadows.
 
 
 https://coppermind.net/wiki/Cognitive_Shadow

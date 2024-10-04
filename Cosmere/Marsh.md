@@ -145,6 +145,7 @@ Marsh is capable of worldhopping.
 Marsh is a dog person, but neutral towards cats.
 Marsh was originally going to be the team's Smoker, with [[Clubs\|Clubs]] being the team's Seeker. They were swapped before Brandon started writing The Final Empire.
 Marsh has made a grilled cheese before, although would call it a croquette.
+If Marsh wanted to bond a spren, he could without too much trouble. He could also fit into several orders, "depending on how things go with him".
 
 
 https://coppermind.net/wiki/Marsh

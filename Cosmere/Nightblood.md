@@ -60,12 +60,12 @@ This page is about the sword. For the eventual sequel to [[Warbreaker\|Warbreak
   <<Szeth\|Szeth>> wielding Nightblood
 ### Appearance
 For more images, see [[Nightblood/Gallery\|/Gallery]].
-Nightblood is completely black, both blade and hilt. The blade is thin, long, and straight, with cutting edges on both sides. The cross guard is referred to as being hooked. The hilt has a pommel. Its overall size is noted as large; most likely, Nightblood was made to fit the proportions of a [[Returned\|Returned]]. It is surprisingly heavy when sheathed. Nightblood was originally made of steel before being Awakened. It has an aluminum scabbard with a clasp on it to prevent easy release of Nightblood. The scabbard was not directly involved in Nightblood's Awakening and it has not been revealed when it was created, or by whom.
+Nightblood is completely black, both blade and hilt. The blade is thin, long, and straight, with cutting edges on both sides. The cross guard is referred to as being hooked. The hilt has a pommel. Its overall size is noted as large; most likely, Nightblood was made to fit the proportions of a [[Returned\|Returned]]. It is surprisingly heavy when sheathed. Nightblood was originally made of steel before being Awakened, and is no longer made of normal metal. It has an aluminum scabbard with a clasp on it to prevent easy release of Nightblood. The scabbard was not directly involved in Nightblood's Awakening and it has not been revealed when it was created, or by whom.
 Based on Vasher and Vivenna's statements, Nightblood could be around fifty-three all the way to sixty inches (135 cm - 152 cm) long overall, with a blade length somewhere between forty-three to forty-six inches.
 
 ### Personality
 >“*I'm not bloodthirsty. I just want to be useful.*”
-\-Nightblood[10]
+\-Nightblood[11]
 
 
 Nightblood is sentient but lacks a human context for its intelligence (sapience). Time has no meaning for it, nor can it understand the dynamic aspect of human personalities. The first hours of its life are imprinted into its memory, and it cannot overwrite the initial experiences, such as [[Denth\|Denth]] being fond of it and Shashara being alive. It is, however, very capable in some ways, able to grow and learn. Vasher tends to underestimate its capacity to change.
@@ -76,7 +76,7 @@ Nightblood has no sense of gender assigned to itself. Vasher is responsible for 
 ## Attributes and Abilities
 ### Effect on Others
 >“*You cannot tempt the hearts of men who are pure, Nightblood.*”
-\-Vasher[20]
+\-Vasher[21]
 
 
 Those that the sword defines as "evil" feel drawn to possess it; once an "evil" person picks Nightblood up, the sword amplifies the wielder's bloodlust causing him or her to slaughter anyone nearby and then commit suicide with the blade. Nightblood in effect "wields" the person holding the sword and the result is often suicide with Nightblood plunged through their chest. A strong-willed person or someone who has previous history with Nightblood can resist this bloodlust.
@@ -115,7 +115,7 @@ Vasher was in possession of Nightblood during the [[Pahn Kahl rebellion\|Pahn Ka
 
 ### Roshar
 >“*I think you did a great job, Szeth. You didn't destroy many of them, yes, but you just need some more practice!*”
-\-Nightblood after the Battle of Thaylen Field[74]
+\-Nightblood after the Battle of Thaylen Field[75]
 
 
 Some time later, Vasher traveled to Roshar but was eventually separated from Nightblood after some kind of falling out a few generations after the Pahn Khal Rebellion. Some time before this, Nightblood was brought to one or more planets other than Nalthis or Roshar, but when or to what planets is unknown.
@@ -153,7 +153,7 @@ It is theoretically possible for Nightblood to bond a [[Spren\|spren]], but the 
 Nightblood has some similarities to Tzai blows, a technique in the non-canonical work *[[Dragonsteel Prime\|Dragonsteel Prime]]* that can directly attack something in the [[Spiritual Realm\|Spiritual Realm]].
 If Nightblood was a ** card, it would be equipment, with the text: "When equipped creature does combat damage, destroy all other creatures. During your upkeep, pay WUBRG or you lose the game."
 Different forms of Investiture taste different to Nightblood. However, since he eats Investiture while unsheathed, he doesn't pay attention to the taste and doesn't remember it afterwards.
-Nightblood is no longer made of normal metal, or even the same metal as Azure's Blade.
+Nightblood is no longer made of normal metal, or even the same metal as Azure's Blade. He is also not made of [[Dragonsteel (metal)\|dragonsteel]].
 
 
 https://coppermind.net/wiki/Nightblood
