@@ -62,7 +62,7 @@ The land that would become known as Thalath was created at an unknown point befo
 
 ### Pre-Human Arrival
 Before humanity arrived on Roshar from Ashyn, the land that would come to be known as Thalath was inhabited by [[Singers\|Singers]].
-Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish\|Shin Kak Nish]]. After less than a generation, they headed an invasion, slaughtering some of the Singers and expelling them from their land, claiming it as their own, this included the land that would come to be known as Rishir. This history was lost to man until the discovery of the [[Eila Stele\|Eila Stele]].
+Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashyn and were granted the land that would become [[Shin Kak Nish\|Shin Kak Nish]]. After less than a generation, they headed an invasion, slaughtering some of the Singers and expelling them from their land, claiming it as their own, this included the land that would come to be known as Thalath. This history was lost to man until the discovery of the [[Eila Stele\|Eila Stele]].
 
 ### The Establishment of Thalath
   Map of the Silver Kingdoms

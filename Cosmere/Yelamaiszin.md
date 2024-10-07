@@ -3,7 +3,7 @@
 |**Titles**|First|
 |**Species**|[[Sleepless\|Sleepless]]|
 |**Nationality**|[[Aimian\|Aimian]]|
-|**Homeworld**|[[Roshar\|Roshar]]|
+|**Homeworld**|Unknown|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Dawnshard (novella)\| Dawnshard]]*|
 

@@ -38,7 +38,7 @@ During the [[Silver Kingdoms\|Silver Kingdoms]] era, Alm was part of [[Makabakam
 
 ### Era of Solitude
 During the [[Era of Solitude\|Era of Solitude]], it joined other Makabaki nations to form the Azish Empire.
-At some point after the [[Recreance\|Recreance]] and the subsequent [[Scouring of Aimia\|Scouring of Aimia]], Alm experienced an influx of refugees from Aimia, although it is not certain when exactly this occurred and at what rate. It is also unclear how many refugees immigrated to Alm and what impact this might have had on the local culture and population.
+At some point after the [[Recreance\|Recreance]] and the subsequent [[Scouring of Aimia\|scouring of Aimia]], Alm experienced an influx of refugees from Aimia, although it is not certain when exactly this occurred and at what rate. It is also unclear how many refugees immigrated to Alm and what impact this might have had on the local culture and population.
 [[Lift\|Lift]] once visited Alm and enjoyed her time there, since relatively few people attempted to murder her.
 
 ### The True Desolation

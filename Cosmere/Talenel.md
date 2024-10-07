@@ -74,7 +74,7 @@ The Honorblade granted Taln access to the [[Surge\|Surges]] of [[/wiki/Surgebind
 In the present day, what precisely has happened to Taln's Honorblade is unclear. The weapon he arrived with in [[Kholinar\|Kholinar]] was shaped like an enormous spike, long, narrow, and straight. The weapon he arrived with on the Shattered Plains was wide and cleaver-like, and screams when touched by a Radiant, marking it as a dead Shardblade. As such, it's clear that somewhere on his journey from Kholinar to the Shattered Plains, someone swapped his Blade, but it is unknown who stole it and for what purpose. The Stormfather confirms the Shardblade Taln had when he reached the Shattered Plains was not an Honorblade, but does not know what happened to it.
 
 ## History
- 
+  Being tortured on <<Braize\|Braize>>
 ### Early Life
 Talenel was born on [[Ashyn\|Ashyn]] over seven-thousand years before the True Desolation, and was a soldier and bodyguard.
 At some point during his life, Ashyn was scoured by uncontrolled Surgebinding, leaving most of the planet uninhabitable, and forcing him, along with much of the Ashynite population, to flee to Roshar. Where they were accepted by the Singers and given the land that would come to be Shinovar.
