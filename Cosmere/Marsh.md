@@ -7,7 +7,7 @@
 |**Born**|c. 980 FE|
 |**Abilities**|[[/wiki/Bronze#Allomantic Use]], [[Hemalurgy\|Hemalurgist]]|
 |**Aliases**|Ironeyes, Death|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], [[Skaa rebellion\|Skaa rebellion]] |
 |**Species**|[[Steel Inquisitor\|Steel Inquisitor]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Skaa\|Skaa]]|

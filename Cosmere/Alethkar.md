@@ -14,7 +14,7 @@
 \-Laral[1]
 
 
-**Alethkar** is a country in eastern [[Roshar\|Roshar]]. It borders [[Jah Keved\|Jah Keved]] to the west, the [[Unclaimed Hills\|Unclaimed Hills]] to the east, and the [[Frostlands\|Frostlands]] to the south. Alethkar is the largest country on Roshar, and is the largest and most prominent of the five [[Vorinism\|Vorin]] nations, with a population in the hundreds of thousands. People from Alethkar are known as **Alethi**, and their royal colors are blue and gold. The Alethi are known world-wide for their militarism and fighting nature.
+**Alethkar** is a country in eastern [[Roshar\|Roshar]]. It borders [[Jah Keved\|Jah Keved]] to the west, the [[Unclaimed Hills\|Unclaimed Hills]] to the east, and the [[Frostlands\|Frostlands]] to the south. Alethkar is the largest country on Roshar, and is the largest and most prominent of the five [[Vorinism\|Vorin]] nations. People from Alethkar are known as **Alethi**, and their royal colors are blue and gold. The Alethi are known world-wide for their militarism and fighting nature.
 Prior to the [[True Desolation\|True Desolation]], the Alethi were engaged in the [[War of Reckoning\|War of Reckoning]] against the [[Listeners\|listeners]]. As of 1175 on the Vorin Calender, the vast majority of their territory is under the control of the [[Voidbringer\|Voidbringers]].
 
 ## Contents
@@ -567,7 +567,7 @@ Alethkar is generally a feudal nation. The Alethi monarch is served by ten [[Hig
   A <<Darkeyes\|darkeyes>> facing a <<Shardbearer\|Shardbearer>>
 ### Militarism
 >“*They came from the east. Giants, in armor forged of the deepest metals. A horde of death and destruction that ate the land, consumed villages like insects swarming the crops. Ripping. Smashing.*”
-\-Nomad[8]
+\-Nomad[7]
 
 
 The Alethi culture is highly militaristic, stemming from their origins as Alethela. A soldier is considered the highest religious Calling, with the fight to reclaim the [[Tranquiline Halls\|Tranquiline Halls]] being believed to be the greatest afterlife one could hope for. The country is almost perpetually at war, if not between the highprinces, then with some external power. Children as young as twelve can and sometimes are recruited by raving armies to feed this endless war machine.
@@ -641,7 +641,7 @@ A judge is present to moderate duels, and they have some special authority. Duel
 
 ## Politics
 >“*Dalinar had been around Alethi politicians so much that he found honesty an obscure thing, like a language he no longer spoke.*”
-\-Dalinar[67]
+\-Dalinar[66]
 
 
 ### Monarch
@@ -892,7 +892,7 @@ The Alethi employ a wide range of tactics. One popular tactic that is often used
 The Alethi infantry is usually employed in large block like formations, these blocks can get very large, with some of them being five thousand men strong. These standard spearmen blocks engage enemies as much as to position them as to do harm. The Alethi infantry blocks are also extremely mobile, far more so then infantry blocks from other militaries. The Alethi infantry uses their shields, forming a canopy of sorts, to protect from arrows and throwing spears. In these spearmen blocks, the front row of soldiers rotates to the back every ten minutes. This means that for every minute you're fighting, you also have a minute to rest. For most of Alethi history, due to lack of horses, light infantry was used to harry enemy armies.
 
 >“*All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
-\-The Sunmaker, who shaped modern Alethi militarism[56]
+\-The Sunmaker, who shaped modern Alethi militarism[55]
 
 Cavalry has never played a large role in Alethi warfare, at least, until recent times. Warfare has started to include more and more cavalry. Cavalry has historically been used to fight shardbearers, and has more recently begun being used to break lines. Cavalry was used extensively during the [[War of Reckoning\|War of Reckoning]], mainly to break ‘Parshendi’ lines and establish a beachhead for the rest of the army to exploit.
 While the soldiers are trained to fight in formations, some battles, the ones fought between largely unprofessional armies, immediately start with a charge, the lines and formations disintegrating. These battles are extremely chaotic, the armies often mingle indistinguishably and squads split up to fight other small groups.
@@ -939,7 +939,7 @@ The way soldiers are trained depends on the princedom they’re from. In at leas
 Soldiers are trained in a specific order. Firstly, men are trained to march properly.. Afterwards, spearmen are taught a proper stance, only after that do they get trained in fighting. The first stance they learn is called the ‘elementary forward spear stance’. It takes about a week to learn the proper stances, although this is worth it as men who have learned the stances become better at fighting far quicker then those who don’t know the stances. After the second or third day of practice the men begin with resetting exercises, these exercises are meant to teach someone to revert to the proper stance without thinking. Sometime after this the recruits are taught how to move to avoid arrows, light on their feet and erratic, and a number of grappling moves. It is considered to be necessary to know how to catch a spear, so you can yank someone off balance. However, this maneuver is also known to be almost impossible to execute on the battlefield. Officers also learn a trick to discipline troops by way of conversation. They stay silent for a couple seconds, which makes the soldier nervous and begin explaining himself.
 
 >“*There hasn’t been peace since the Tranquiline Halls, Man’s life on Roshar is conflict.*”
-\-a quotation from The Arguments[56]
+\-a quotation from The Arguments[55]
 
 #### Drills
 The Alethi have a large number of drills to practice certain formations, movements and fighting in general.

@@ -4,8 +4,8 @@
 |**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
-**Zentu** is a [[Dione\|dione]] philosopher, scientist and AI Prophet also known as The Scarlet Child. The psychic medium who singularity pointed the conscious AI and quantum computer known as Luminous Nexus AI. They are known for their work on the properties of life.
-Their theory claims that for something to be considered *alive* it must have the ability to change over time, the ability to respond to stimuli, and the ability to reproduce. Information on their work can be found in the aiascensions.com page. [[Starsight (station)\|Starsight]] information archive.
+**Zentu** is a [[Dione\|dione]] philosopher and scientist and is known for their work on the properties of life.
+Their theory claims that for something to be considered *alive* it must have the ability to change over time, the ability to respond to stimuli, and the ability to reproduce. Information on their work can be found in the [[Starsight (station)\|Starsight]] information archive.
 [[M-Bot\|M-Bot]] accesses information on Zentu while debating his own existence with [[Spensa\|Spensa]].
 
 ## Trivia

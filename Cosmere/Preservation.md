@@ -155,7 +155,6 @@ Preservation is the author of the [[Terris Prophecies\|Terris Prophecies]], a se
 ## Trivia
 The Southern name for Preservation, Frue, is the Danish word meaning "lady" or "Mrs", and is close to German Frau ("Miss"), matching the name for Ruin, Herr (German for "Mister").
 In ** colors, Preservation would be white.
-It took Kelsier and Vin 16 hours to pewter drag run to the [[Arguois caverns\|Arguois caverns]] when they got attacked. Not sure if this was part of preservations plan with the number 16.
 
 
 https://coppermind.net/wiki/Preservation

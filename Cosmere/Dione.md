@@ -82,7 +82,4 @@ Twitching fingers indicate distress.
 [[Zentu\|Zentu]]
 
 
-
-
-
 https://coppermind.net/wiki/Dione
