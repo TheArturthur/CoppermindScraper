@@ -45,7 +45,7 @@ If someone were able to burn the amount of tin needed to become an Allomantic [[
 
 ## Feruchemical Use
 A tin [[Ferring\|Ferring]] is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense. Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available. While storing senses, those senses become weaker. For example, [[Sazed\|Sazed]] wore glasses while storing eyesight.
-Tapping sight causes the edge of the Windwhisperer's vision to blur, and sacrifices immediate field of vision in favor of a more distant, binocular view. Tapping too much sight can induce nausea. Storing sense of smell dilutes a Windwhisperer's sense of taste.
+Tapping sight causes the edge of the Windwhisperer's vision to blur, and sacrifices immediate field of vision in favor of a more distant, binocular view. Tapping too much sight can induce nausea. Storing sense of smell decreases a Windwhisperer's perception of flavor, since much of the flavor of most foods comes from their scent.
 It is possible for a Windwhisperer to store more than the five traditional senses in a tinmind. An example of this would be the ability to feel pain. It might be possible to store Allomantically granted senses like [[Bronze\|bronze]] sense.
 Creatures with other senses can create tinminds for those senses as well as the standard five. For instance, a platypus Feruchemist could create an electric field sense tinmind.
 

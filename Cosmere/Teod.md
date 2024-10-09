@@ -5,7 +5,7 @@
 |**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Teod** is a peninsula state on the world of [[Sel\|Sel]]. The people from Teod are called the Teo. Despite not being located on Opelon, Teod is in it’s cultural sphere of influence.
+**Teod** is a peninsula state on the world of [[Sel\|Sel]]. The people from Teod are called the Teo. Despite not being located on Opelon, Teod is in its cultural sphere of influence.
 
 ## Contents
 

@@ -53,7 +53,7 @@
 
 
 ## Appearance and Personality
-  Pulling a gun from her thigh
+ 
 >“*Thy snoring is rather loud. It doth be like unto a hundred angry koloss in the middle of a rockslide. Lo, and it doth come near to waking the dead.*”
 \-MeLaan to Claude Aradel[3]
 

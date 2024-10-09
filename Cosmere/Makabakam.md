@@ -44,7 +44,7 @@
 ## Geography
 ### Territories and Features
 #### Territories
-Makabakam lies in the southwest and middle of [[Roshar\|Roshar]], stretching across a large valley, later known as Makabak. Makabak is surrounded by the [[Mountains of Ur\|mountains of Ur]], and it claims them as it’s territory. To the east, it borders [[Valhav\|Valhav]] while to the north and north-west, it shares a border with the Silver kingdom of [[Sela Tales\|Sela Tales]]. Additionally, Makabakam’s west sees sees a short border with [[Shin Kak Nish\|Shin Kak Nish]].
+Makabakam lies in the southwest and middle of [[Roshar\|Roshar]], stretching across a large valley, later known as Makabak. Makabak is surrounded by the [[Mountains of Ur\|mountains of Ur]], and it claims them as its territory. To the east, it borders [[Valhav\|Valhav]] while to the north and north-west, it shares a border with the Silver kingdom of [[Sela Tales\|Sela Tales]]. Additionally, Makabakam’s west sees sees a short border with [[Shin Kak Nish\|Shin Kak Nish]].
 Besides the mainland, the Makabaki people governed a number of territories off the coast. Almost all of these are located on the [[Southern Depths\|Southern Depths]], where a small island chain is under Makabaki control. The Makabaki also govern a large island near the [[Tarat Sea\|Tarat Sea]]. [[Aimia\|Aimia]] also owns islands close to these islands, and therefore it could be said that they border as well. Makabakam also contains the [[Valley\|Valley]], and the lands surrounding Urithiru.
 
 #### Geographic Features
@@ -64,8 +64,8 @@ Circa -5825 in the Vorin calendar, humanity arrived on Roshar after fleeing Ashy
 
 ### The Establishment of Makabakam
   Map of the Silver Kingdoms
- was founded in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch. Due to the Desolations, the Makabaki were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]]. Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Makabakam.
-Very early in the nation's history, the city of [[Azimir\|Azimir]] was created and made into its capital. Azimir was eventually made into the home of the Makabaki Oathgate. Despite the wish by many that Urithiru be built in Alethela, for a reason obvious to many others at the time, it could not be, instead being built in the mountains of Ur, inside ’s borders.
+Makabakam was founded in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch. Due to the Desolations, the Makabaki were constantly returned back to early technological levels, often to the point of having to make use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]]. Old manuscripts and texts dating back to these times mention quick-spreading diseases in the east that killed tens of thousands, and it is likely that at least some of these diseases spread to Makabakam.
+Very early in the nation's history, the city of [[Azimir\|Azimir]] was created and made into its capital. Azimir was eventually made into the home of the Makabaki Oathgate. Despite the wish by many that Urithiru be built in Alethela, for a reason obvious to many others at the time, it could not be, instead being built in the mountains of Ur, inside Makabakam’s borders.
 Makabakam went to war with Alethela because of a dispute concerning trade routes, the full effects this had on both kingdoms are unknown.
 
 #### Further Desolations
