@@ -1,5 +1,6 @@
 |**Antillius Shezler**|
 |-|-|
+|**Died**||
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Profession**|Scholar|
 |**Residence**|[[Mantiz\|Mantiz]] ([[Keep Shezler\|Keep Shezler]])|

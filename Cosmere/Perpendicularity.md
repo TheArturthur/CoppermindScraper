@@ -33,7 +33,7 @@ Perpendicularities are formed at locations with a large concentration of Investi
 **Ruin**: the pool below the [[Pits of Hathsin\|Pits of Hathsin]] was [[Ruin\|Ruin's]] perpendicularity; it was the main path used by inter-world traders before it was destroyed by [[Kelsier\|Kelsier]].
 **Preservation**: [[Preservation\|Preservation's]] perpendicularity was the [[Well of Ascension\|Well of Ascension]]. It served as [[Ruin\|Ruin's]] prison, making it extremely dangerous.
 **Harmony**: [[Harmony\|Harmony]] has a perpendicularity somewhere in the south, it is known to be under careful watch by the Malwish. An article in *[[The House Record\|The House Record]]* mentions a woman coming across a perfectly blue pool somewhere in the mountains in the Southern [[Roughs\|Roughs]], and a sudden appearance of a strange figure by the pool. It's possible, though not confirmed, that this could be Harmony's perpendicularity.
-**Autonomy**: Autonomy briefly had a perpendicularity on in [[Bilming\|Bilming]], that was since destroyed by [[Marasi Colms\|Marasi Colms]], [[Armal\|Armal]], and several other Allomancers.
+**Autonomy**: Autonomy briefly had a perpendicularity in [[Bilming\|Bilming]], that was since destroyed by [[Marasi Colms\|Marasi Colms]], [[Armal\|Armal]], and several other Allomancers.
 
 **Devotion**: [[Devotion's Perpendicularity\|The Pool]] near [[Elantris (city)\|Elantris]] is [[Devotion\|Devotion's]] perpendicularity.
 **Dominion**: There is a second perpendicularity on [[Sel\|Sel]], presumably of [[Dominion\|Dominion]].

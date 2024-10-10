@@ -1,5 +1,6 @@
 |**New Natanan**|
 |-|-|
+||
 |**Region**|[[Frostlands\|Frostlands]]|
 |**Nation**|New Natanan |
 |**World**|[[Roshar\|Roshar]]|
