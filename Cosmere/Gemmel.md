@@ -34,7 +34,7 @@
 ## Appearance and Personality
 Gemmel is scrawny, and has a ragged gray beard and unkempt hair. Like most [[Mistborn\|Mistborn]], he wears a [[Mistcloak\|mistcloak]] on nightly escapades.
 The aging man isn't completely sane, mutters to himself, and sometimes seems more beast than man. Gemmel thinks that [[Kelsier\|Kelsier's]] forced smiles look creepy, and often stops talking in the middle of an argument. According to Kelsier, Gemmel doesn't understand humor, nor likes it when his pupil tries to take control.
-He likely is a [[Skaa\|skaa]] halfblood.
+He is likely a [[Skaa\|skaa]] halfblood.
 
 ## Attributes and Abilities
 Gemmel is a decently skilled [[Mistborn\|Mistborn]], who prefers to use [[Steel\|steel]] Pushes and other physical [[Allomantic\|Allomantic]] attacks. He dislikes using other metals as much, such as [[Zinc\|zinc]] and [[Brass\|brass]].
