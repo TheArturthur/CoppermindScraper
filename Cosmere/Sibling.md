@@ -46,7 +46,7 @@ The **Sibling** is a notable [[Spren\|spren]] on [[Roshar\|Roshar]]. They are of
 ### Personality
 The Sibling does not trust humanity due to trauma stemming from feeling betrayal at the Recreance. Due to this, they do not want to bond with any human.
 They despise fabrials due to how they require that spren be imprisoned. They use this as further evidence of mankind's inherent wickedness.
-They do not identify with any gender, and does not understand why any spren identify with human genders.
+They do not identify with any gender, and do not understand why any spren identify with human genders.
 Despite living thousands of years, they remain somewhat naïve.
 
 ## Attributes and Abilities
