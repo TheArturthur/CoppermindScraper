@@ -82,9 +82,8 @@
 4. [[#Telsin]] 
 
 
-5 Quotes. [[#Quotes]] 
-6 Trivia. [[#Trivia]] 
-7 Notes. [[#Notes]] 
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -286,31 +285,6 @@ Bavadin loves Wax, seeing him as a masterpiece that perfectly reflects her ideal
 
 ### Telsin
 He has always had a rather antagonistic relationship with his sister, which was only exacerbated by his discovery that she was in the Set.
-
-## Quotes
->“*I saw it in his eyes, first. That hunger, that fire. And then I found it in myself. He's a flame, Waxillium is, and fire can be shared. When I'm out here, when I'm with him, I burn, Marasi. It's wonderful.*”
-\-Steris[90]
-
-
->“*The law is there to keep us from ruining everyone else's ability to explore. Without law, there's no freedom. That's why I am what I am.*”
-\-Wax[67]
-
-
->“*I have known you for an entire year now, Lord Waxillium. I can accept you for who you are, but I am under no illusions. Something will happen at our wedding. A villain will burst in, guns firing. Or we'll discover explosives in the altar. Or Father Bin will inexplicably turn out to be an old enemy and attempt to murder you instead of performing the ceremony. It will happen.*”
-\-Steris[51]
-
-
->“*You're wrong about me... I'm not Harmony's hands. I'm His sword.*”
-\-Wax confronts Bleeder[48]
-
-
->“*Steris, I think we're all like that. Shuffled from place to place by duty, or society, or God Himself. It seems like we're just along for the ride, even in our own lives. But once in a while, we do face a choice. A real one. We may not be able to choose what happens to us, or where we'll stop, but we point ourselves in a direction.*”
-\-Wax[11]
-
-
->“*I have done something to help. I sent you.*”
-\-Harmony speaks to Wax[46]
-
 
 ## Trivia
 Brandon originally intended Wax's instinctive ability to create a steel bubble to be a result of him being a [[Savant\|savant]] in the combination of his Allomantic and Feruchemical powers. He has since backed up on that, as he realized Wax wasn't showing any savant-like consequences.
