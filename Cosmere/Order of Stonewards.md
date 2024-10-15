@@ -5,7 +5,7 @@
 |**[[Herald\|Herald]]**|[[Talenel\|Talenel]]|
 |**[[Spren\|Spren]]**|[[Peakspren\|Peakspren]]|
 |**[[Surge\|Surges]]**|[[Cohesion\|Cohesion]] & [[Tension\|Tension]]|
-|**[[Shardplate\|Plate]] spren**|*Unknown*|
+|**[[Shardplate\|Plate]] spren**|[[Bindspren\|Bindspren]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 

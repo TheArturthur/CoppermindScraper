@@ -11,7 +11,7 @@
 \- Notum[1]
 
 
-The **Nahel bond** is a bond between a [[Spren\|spren]] and a being from the Physical Realm. It's a symbiotic relationship, granting the spren the ability to manifest into the [[Physical Realm\|Physical Realm]] without losing their mind. In the case of a sapient individual in the Physical Realm, it grants the person the power of [[Surgebinding\|Surgebinding]] as well. It's also a bond formed by, for example, greatshells and Ryshadium.
+The **Nahel bond** is a bond between a [[Spren\|spren]] and a being from the Physical Realm. It's a symbiotic relationship, granting the spren the ability to manifest into the [[Physical Realm\|Physical Realm]] without losing their mind. In the case of a sapient individual in the Physical Realm, it grants the person the power of [[Surgebinding\|Surgebinding]] as well. It's also a bond formed by, for example, [[Greatshell\|greatshells]] and [[Ryshadium\|Ryshadium]].
 Originally, the Nahel bond granted power to individuals with no affiliation with one another. Eventually, the [[Knights Radiant\|Knights Radiant]] were formed and the Surgebinders were gathered into ten different Orders of Knights, each Order's members bonded to the same type of spren.
 
 ## Contents

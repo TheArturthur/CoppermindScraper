@@ -30,29 +30,10 @@
 ## Appearance and Personality
 Drehy is lanky, long-limbed, and muscled. He has blond hair, although he is balding. He speaks with a faint accent.. Shallan referred to Drehy as "handsome". He is gay, and is currently seeing a man named [[Dru\|Dru]].
 
-
-Images of Drehy
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## History
 Drehy was on Bridge Four when [[Kaladin\|Kaladin]] began trying to save the men. He was among the first to defend Kaladin, even while the others taunted him. While the crew was in the chasms scavenging, Kaladin talks with [[Rock\|Rock]], [[Teft\|Teft]], and [[Dunny\|Dunny]], and with prompting, Drehy talks a little as well. When they were being taught to wield the spear by Kaladin, Drehy, along with [[Skar\|Skar]], learned almost as quickly as [[Moash\|Moash]] did. He was also among the first bridgemen that Kaladin trained in first aid, along with Rock and Skar.
+
+ 
 After seeing [[Torol Sadeas\|Sadeas]] abandon [[Dalinar\|Dalinar]] in the [[Battle of the Tower\|Battle of the Tower]], Drehy remarks that it makes him sick. When shocked by Kaladin's display of his abilities, Drehy swears by the Brightcaller's rays and a little later speculates that Kaladin is a [[Spren\|spren]] rather than a man.
 Drehy joins the guard of Dalinar and takes turns guarding the Kholins along with the rest of the former members of Bridge Four, under Kaladin's leadership. He helps train the bridgemen from other crews as well.
 Kaladin sends a message to Teft requesting more men in the training arena because Drehy and Moash had been working too many hours. During dinner in the Bridge Four barracks one night, Drehy flips a chunk of stewed [[Longroot\|longroot]] at [[Lopen\|Lopen]] after the [[Herdazian\|Herdazian]] claimed he was ready for anything.
@@ -61,6 +42,8 @@ Drehy is selected by among the best of Bridge Four by [[Teft\|Teft]] to assist A
 During a meeting between [[Sigzil\|Sigzil]] and Kaladin, Sigzil informs Kaladin that Drehy has been courting a man named [[Dru\|Dru]] from the market district and asks if Drehy needs to fill out forms for social reassignment. Kaladin tells Sigzil that no such form exists for the Alethi. 
 When [[Rock\|Rock]] sets out with other members of Bridge Four to see what has become of Rock's family that was traveling to Urithiru by way of the [[Shattered Plains\|Shattered Plains]], they discover the caravan was attacked and Drehy notes that it was the work of the [[Voidbringers\|Voidbringers]].
 Drehy was chosen, along with Skar, by Kaladin to be part of the group that traveled to [[Kholinar\|Kholinar]] to get an update on the city. This choice by Kaladin shows that with the absence of Moash, Drehy was regarded as one of the better fighters among Bridge Four. During the trip to Kholinar, Drehy flew using [[Lashing\|Lashings]], meaning that he has the powers of a Windrunner squire. 
+
+ 
 During the infiltration and subsequent [[Battle of Kholinar\|Battle of Kholinar]], Drehy played a vital role. As one of the better warriors of the group, Drehy helped guard Shallan and Adolin throughout their time in Kholinar and also helped Kaladin during the battle of the palace to push back the enemy. When Shallan began her way to the [[Oathgate\|Oathgate]] to battle the Unmade, Drehy was sent by Kaladin to assist her and keep the palace guard and the [[Fused\|Fused]] away from her while she focused on the Unmade. Drehy was not of the members of the group to travel to the [[Shadesmar\|Shadesmar]], instead remaining in Kholinar with Skar to attempt to continue the battle.
 Working on information gained by [[Spanreed\|spanreed]], Kaladin traveled to a cave on the coast of [[Alethkar\|Alethkar]]. Entering the cave Kaladin discovers that Drehy and Skar survived and escaped Kholinar with [[Gavinor Kholin\|Gavinor Kholin]]. They had smeared ash on their foreheads to hide their tattoos, and both looked weak and exhausted from their travels. Showing Gavinor to Kaladin, Drehy quotes the Second Ideal of the Windrunners.
 

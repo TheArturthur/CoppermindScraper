@@ -7,7 +7,7 @@
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
 **Jastes Lekal** was a [[Noble\|noble]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
 He was a friend and compatriot of Elend Venture and [[Telden Hasting\|Telden Hasting]]. The three often met at balls and discussed contemporary, even rebellious politics. He and Elend planned to become political allies upon the inheritance of their respective noble houses. His uncle was King [[Audil Lekal\|Audil Lekal]].

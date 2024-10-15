@@ -232,7 +232,7 @@ On Roshar, the chasms echoed the music allowing him to speak and play, without t
 \-Hoid on his age[42]
 
 The individual who would later become known as Hoid was born on [[Yolen\|Yolen]] sometime prior to the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. He was born naturally and his parents were married. From an early age he developed a fascination with the topic of whether life existed on other planets and often listened to local philosophers debate the topic.
-During this period before the Shattering, Hoid learned [[Yolish Lightweaving\|Yolish Lightweaving]], which sometimes got him into trouble. Some of his oldest aliases, one of which likely came from a former master of his, also date back to this period; among these are Hoid, which he says he stole from someone he should have loved, and Cepandrius Maxtori.
+During this period before the Shattering, Hoid learned [[Yolish Lightweaving\|Yolish Lightweaving]], which sometimes got him into trouble. Some of his oldest aliases, one of which likely came from a former master of his, also date back to this period; among these are Hoid, which he says he stole from someone he should have loved, and Cephandrius Maxtori.
 Eventually, Hoid met the [[Dragon (cosmere)\|dragon]] [[Frost\|Frost]], who is his elder by a small amount, though Hoid may have already started aging strangely by that time. Shortly thereafter, Hoid also met the people who would become the sixteen original Vessels. His early relationships with the future Vessels seem to have been amicable; he went out for drinks with [[Tanavast\|Tanavast]] at least once, considered [[Ati\|Ati]] to be a kind and generous man, and became friends with [[Rayse\|Rayse]].
 
   A depiction of the <<Shattering of Adonalsium\|Shattering of Adonalsium>>

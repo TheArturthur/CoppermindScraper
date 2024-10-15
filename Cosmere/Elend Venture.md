@@ -8,7 +8,7 @@
 |**Born**|1000 [[Final Empire\|FE]]|
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
-|**Titles**|King of the [[/wiki/Dominance#Central Dominance]] High Emperor of the [[New Empire\|New Empire]]Last Emperor|
+|**Titles**|King of the [[/wiki/Dominance#Central Dominance]] , High Emperor of the [[New Empire\|New Empire]], Last Emperor|
 |**Religion**|[[Survivorism\|Survivorism]]|
 |**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army, [[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
