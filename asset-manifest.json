@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CoppermindScraper/static/css/main.22e40be3.css",
+    "main.js": "/CoppermindScraper/static/js/main.fab541a6.js",
+    "static/js/488.4afe271d.chunk.js": "/CoppermindScraper/static/js/488.4afe271d.chunk.js",
+    "index.html": "/CoppermindScraper/index.html",
+    "main.22e40be3.css.map": "/CoppermindScraper/static/css/main.22e40be3.css.map",
+    "main.fab541a6.js.map": "/CoppermindScraper/static/js/main.fab541a6.js.map",
+    "488.4afe271d.chunk.js.map": "/CoppermindScraper/static/js/488.4afe271d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22e40be3.css",
+    "static/js/main.fab541a6.js"
+  ]
+}
