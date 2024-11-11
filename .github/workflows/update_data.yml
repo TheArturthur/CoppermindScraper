@@ -31,7 +31,13 @@ jobs:
           git config --global user.name 'Arturo Vidal'
           git config --global user.email 'arturo.vidal.96@gmail.com'
           git commit -am "Recreated pages and nodes"
-          git push
+          if [[ `git status --porcelain` ]]; then
+            echo "OK: Changes detected."
+            git push
+          else
+            echo "WARNING: No changes were detected. Not pushing."
+          fi
+        shell: bash
 
       - name: Execute scripts
         working-directory: ./NodeGraphCoppermind
