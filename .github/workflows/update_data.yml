@@ -28,11 +28,11 @@ jobs:
 
       - name: Push changed files to main
         run: |
-          git config --global user.name 'Arturo Vidal'
-          git config --global user.email 'arturo.vidal.96@gmail.com'
-          git commit -am "Recreated pages and nodes"
           if [[ `git status --porcelain` ]]; then
             echo "OK: Changes detected."
+            git config --global user.name 'Arturo Vidal'
+            git config --global user.email 'arturo.vidal.96@gmail.com'
+            git commit -am "Recreated pages and nodes"
             git push
           else
             echo "WARNING: No changes were detected. Not pushing."
