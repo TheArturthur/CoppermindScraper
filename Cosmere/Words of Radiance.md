@@ -11,7 +11,7 @@
 |**Page Count**|1,088|
 |**Word Count**|[[Words of Radiance/Statistical analysis\|398,238]]|
 This article refers to the novel written by [[Brandon Sanderson\|Brandon Sanderson]]. For the in-universe work, see [[Words of Radiance (in-world)\|Words of Radiance (in-world)]].
-***Words of Radiance*** is the title for the second book in [[The Stormlight Archive\|The Stormlight Archive]]. It was released on March 4th, 2014.
+***Words of Radiance*** is the title for the second book in [[The Stormlight Archive\|The Stormlight Archive]].  It was released on March 4th, 2014.
 
 ## Contents
 
@@ -31,20 +31,21 @@ This article refers to the novel written by [[Brandon Sanderson\|Brandon Sanders
 ## Synopsis
 *The [[Knights Radiant\|Knights Radiant]] must stand again.*
 *The [[Immortal Words\|ancient oaths]] have at last been spoken; the [[Spren\|spren]] return. Men seek that which was lost. I fear the struggle will destroy them.*
-*It is the nature of the magic. A broken soul has cracks into which something else can be fit. [[Surgebinding\|Surgebindings]], the powers of creation themselves. They can brace a broken soul; but they can also widen its fissures.*
-***[[Kaladin\|The Windrunner]]**, lost in a [[Shattered Plains\|shattered land]], balanced upon the boundary between vengeance and honor. **[[Shallan Davar\|The Lightweaver]]**, slowly being consumed by her past, searching for the lie that she must become. **[[Dalinar Kholin\|The Bondsmith]]**, born in blood and death, striving to rebuild what was destroyed. **[[Eshonai\|The Explorer]]**, straddling the fates of two peoples, forced to choose between slow death and a terrible betrayal of all she believes.*
+*It is the nature of the magic. A broken soul has cracks into which something else can be fit.  [[Surgebinding\|Surgebindings]], the powers of creation themselves.  They can brace a broken soul; but they can also widen its fissures.*
+***[[Kaladin\|The Windrunner]]**, lost in a [[Shattered Plains\|shattered land]], balanced upon the boundary between  vengeance and honor. **[[Shallan Davar\|The Lightweaver]]**, slowly being consumed by her past, searching for the lie that she must become. **[[Dalinar Kholin\|The Bondsmith]]**, born in blood and death, striving to rebuild what was destroyed. **[[Eshonai\|The Explorer]]**, straddling the fates of two peoples, forced to  choose between slow death and a terrible betrayal of all she believes.*
 *It is past time for them to awaken, for the [[Everstorm\|Everstorm]] looms.*
 *And **[[Szeth\|the Assassin]]** has arrived.*
 
 ## Cover Flap
 Six years ago, the Assassin in White, a hireling of the inscrutable [[Parshendi\|Parshendi]], assassinated the [[Gavilar\|Alethi king]] on the very night a treaty between men and Parshendi was being celebrated. So began the Vengeance Pact among the highprinces of [[Alethkar\|Alethkar]] and the [[War of Reckoning\|War of Reckoning]] against the Parshendi.
 Now the Assassin is active again, murdering rulers all over the world, using his baffling powers to thwart every bodyguard and elude all pursuers. Among his prime targets is Highprince Dalinar, widely considered the power behind the Alethi throne. His leading role in the war would seem reason enough, but the Assassin’s master has much deeper motives.
-Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status darkeyes. Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his [[Honorspren\|honorspren]], [[Syl\|Syl]].
+Expected by his enemies to die the miserable death of a military slave, Kaladin survived to be given command of the royal bodyguards, a controversial first for a low-status darkeyes.  Now he must protect the king and Dalinar from every common peril as well as the distinctly uncommon threat of the Assassin, all while secretly struggling to master remarkable new powers that are somehow linked to his [[Honorspren\|honorspren]], [[Syl\|Syl]].
 Brilliant but troubled Shallan strives along a parallel path. Despite being broken in ways she refuses to acknowledge, she bears a terrible burden: to somehow prevent the return of the legendary [[Voidbringers\|Voidbringers]] and their civilization-ending Desolation. The secrets she needs can be found at the Shattered Plains, but even arriving there proves more difficult than she imagined.
 Meanwhile, at the heart of the [[Shattered Plains\|Shattered Plains]], the Parshendi are making an epochal decision. Hard pressed by years of Alethi attacks, their numbers ever shrinking, they are convinced by their war leader, Eshonai, to risk everything on an desperate gamble with the very supernatural forces they once fled. The consequences for Parshendi and humans alike—indeed, for [[Roshar\|Roshar]] itself—are as dangerous as they are incalculable.
 
 ## Summary
 For a chapter by chapter summary, see [[Words of Radiance/Summary\|/Summary]].
+For an index of chapter breaks in various editions, see [[Words of Radiance/Chapter index\|/Chapter index]].
 Shallan is the flashback character in this volume. The flashback scenes describe the gradual destruction of her family and reveal the details of the murders of her two murderous and/or abusive parents.
 The Interludes introduce [[Lift\|Lift]] and follow [[Eshonai\|Eshonai]] as she, at first, reluctantly changes to stormform and then stages a coup, taking complete control of the Parshendi.
 **Prologue: To Question**
@@ -85,20 +86,23 @@ For a gallery of the book's interior art, see [[Words of Radiance/Interior art\|
 |-|-|
 |**Language**|**Title**|**Publisher**|**Publication Date**|
 |**Čeština**|*Slova paprsků *|Talpress|2015|
-|**Deutsch**|*Die Worte der Lichts*|Heyne|20142015|
+|**Deutsch**|*Die Worte des Lichts*|Heyne|20142015|
 |*Die Stürme des Zorns* (The Storms of Wrath)|
 |**Español**|*Palabras radiantes*|España por Nova|2015|
-|**Français**|*Le Livre de Radieux* (The Book of Radiance)|Le Livre de Poche|2017|
+|**Français**|*Le Livre des Radieux* (The Book of Radiants)|Le Livre de Poche|2017|
 |**Italiano**|*Parole di luce*|Fanucci|2014|
 |**Limba Română**|*Câmpiile Sfârâmate* (Shattered Plains)|Paladin|2019|
 |*Poarta Jurâmântului* (Oathgate)|
 |**Magyar**|*Tündöklo Szavak*|Delta Vision|2020|
 |**Polski**|*Słowa Światłości*|MAG|2014|
+|**Português - Portugal**|*Palavras de Radiância*|Kathartika|2024|
+|**Português - Brasil**|*Palavras de Radiância*|Trama|2023|
 |**Türkçe**|*Pralayan Sözler*|Akılçelen Kitaplar|2019|
 |**русский язык**|*Слова Сияния*||2016|
 |**українська мова**|*Cлова променистого орденy*|Клуб Сімейного Дозвілля|2023|
 |**עִבְֿרִית**|*רסיסים של אור* (Shards of Light)|אופוס|2016|
-|**臺語**|*燦軍箴言*|奇幻基地|2016|
+|**繁體中文**|燦軍箴言|奇幻基地|2016|
+|**简体中文**|光辉真言|重庆出版社|2019|
 
 ## See Also
 [[Words of Radiance/Timeline\|Words of Radiance/Timeline]]

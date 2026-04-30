@@ -66,7 +66,7 @@ Aimia was one of the Silver Kingdoms during the Heraldic Epochs. It contained an
 
 ### Scouring of Aimia
 For more information, see [[Scouring of Aimia\|Scouring of Aimia]].
-At some point, a scouring occurred at Aimia, however, what exactly occurred, and why, is unknown. While the exact time is uncertain, it occurred after the [[Recreance\|Recreance]] but longer than four hundred years before the [[Everstorm\|Everstorm's]] arrival. Axies the Collector recalls it being fairly recent, while [[Nikli\|Nikli]] -- in its human guise -- describes it as having occurred many generations ago. Nikli believes that Aimia's fall was due to its extreme riches being too tempting to the rest of the world.
+At some point, a scouring occurred at Aimia, however, what exactly occurred, and why, is unknown. While the exact time is uncertain, it occurred after the [[Recreance\|Recreance]] but at least four hundred years before the [[Everstorm\|Everstorm's]] arrival. Axies the Collector recalls it being fairly recent, while [[Nikli\|Nikli]] -- in its human guise -- describes it as having occurred many generations ago. Nikli believes that Aimia's fall was due to its extreme riches being too tempting to the rest of the world.
 
 >“*They assumed their secrets would protect them, but then their allies fell. And secrets can't hold swords.*”
 \-Nikli to Rysn on the Scouring

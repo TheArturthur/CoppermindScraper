@@ -4,9 +4,8 @@
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Maraya** is a member of the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]].
+She is one of the senators [[Waxillium Ladrian\|Waxillium Ladrian]] attempted to persuade to vote against the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]].
 
 
 

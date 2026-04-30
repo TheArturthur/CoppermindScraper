@@ -16,7 +16,7 @@
 Liganor is a nice older man. He is short, bald, and somewhat tubby with a short neck. He is brave enough to keep his shop open during the tower's occupation, but he is too fearful to make an open stand supporting the [[Knights Radiant\|Knights Radiant]] when he realizes things are brewing for a fight in the atrium.
 
 ## History
-Master Liganor at some point moved to [[Urithiru\|Urithiru]] and opened a pottery shop in the market that consisted of a workroom and a showroom down below with his personal rooms upstairs. He used to do all of the glaze work on the pottery himself, but after employing [[Gub\|Gub]] and [[Alalan\|Alalan]] he delegated that particular task to Gub. Liganor kept his shop open for business during [[Raboniel\|Raboniel's]] occupation of the tower. The day of [[Kaladin\|Kaladin's]] final confrontation with [[Lezian\|Lezian]], he came in from the atrium and discussed the situation with Alalan, looking to him for approval in closing the shop. After locking the door, he retreated upstairs.
+Master Liganor at some point moved to [[Urithiru\|Urithiru]] and opened a pottery shop in the market that consisted of a workroom and a showroom down below, with his personal rooms upstairs. He used to do all of the glaze work on the pottery himself, but after employing [[Gub\|Gub]] and [[Alalan\|Alalan]] he delegated that particular task to Gub. Liganor kept his shop open for business during [[Raboniel\|Raboniel's]] occupation of the tower. The day of [[Kaladin\|Kaladin's]] final confrontation with [[Lezian\|Lezian]], he came in from the atrium and discussed the situation with Alalan, looking to him for approval in closing the shop. After locking the door, he retreated upstairs.
 
 
 

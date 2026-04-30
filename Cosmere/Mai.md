@@ -6,10 +6,11 @@
 |**Species**|[[Seon\|Seon]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 For the JinDo dish, see [[RaiDomo Mai\|RaiDomo Mai]].
-**Mai** is a seon paired with [[Riika\|Riika]].
-He always reads Riika a story at bedtime, or she cannot sleep. He is also taken to [[Teod\|Teod]] with [[Sarene\|Sarene]] during the [[Invasion of Arelon\|Invasion of Arelon]]. He also communicates with [[Ashe\|Ashe]] and tells him that Sarene is surrounded by [[Dakhor\|Dakhor]] monks at the docks.
+**Mai** is a [[Seon\|seon]] bonded with [[Riika\|Riika]]. His name, which comes from the [[Aon\|Aon]] [[/wiki/Aon#Mai]], means "honor."
+Mai always read Riika a story at bedtime, or she could not sleep. He was taken to [[Teod\|Teod]] with [[Sarene\|Sarene]] during the [[Invasion of Arelon\|Invasion of Arelon]], from where he communicated with [[Ashe\|Ashe]] and told him that Sarene was surrounded by [[Dakhor\|Dakhor]] monks at the docks.
 
 
 

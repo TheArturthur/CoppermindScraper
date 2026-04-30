@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*"I'm a fraud, Timbre. A fake Radiant. I don’t know what I’m doing."*
 \-"I do."
 
@@ -78,7 +80,7 @@ The following day, Venli had to fulfill her role as Voice for Lady Leshwi at a c
 
 ### Infiltration of Urithiru
 Timbre and Venli accompanied the force that traveled to Urithiru. As they hiked through the mountains towards the tower, they observed the [[/wiki/Fused#Cohesion]] with curiosity, thinking about their own stone shaping ability. Raboniel noticed Venli's curiosity, frightening the two of them into thinking they had acted suspiciously. They grew even more worried when Raboniel made it clear that she knew Venli was spying for Leshwi. When the conversation led to Raboniel explaining about the Surge of [[Cohesion\|Cohesion]], though, Timbre pulsed to Caution to restrain Venli's excitement at finally receiving answers.
-Venli was unexpectedly thrust into the middle of the fight when the group ambushed humans in the tunnels below Urithiru, and she had to kill a human in self-defense. Timbre pulsed to the Rhythm of the Lost as Venli knelt over her first ever kill. As Venli struggled with her emotions and admitted inwardly that she had been selfish and ambitious before, she held to the truth of that thought and refused to accept Timbre's comforting pulses.
+Venli was unexpectedly thrust into the middle of the fight when the group ambushed humans in the tunnels below Urithiru, and she had to kill a human in self-defense. Timbre pulsed to the Rhythm of the Lost as Venli knelt over her first ever kill. As Venli struggled with her emotions and admitted inwardly that she had been selfish and ambitious before, she held to the truth of that thought and  refused to accept Timbre's comforting pulses.
 After the singer force captured the tower, Raboniel ordered the capture of all Radiants but granted the [[Pursuer\|Pursuer]] leave to kill [[Kaladin\|Kaladin]]. Venli called after him, asking if he would really murder a helpless man, and the Pursuer's reply caused Timbre to pulse uncertainly, sure that the Fused was mad. Venli compared Lezian to a spren, but Timbre protested that she did more than existing, and Venli apologized for the comparison. They followed Raboniel into a chamber filled with scholars and [[Ardent\|ardents]], and Venli pondered how little humans could be trusted without forms or rhythms to show their true natures. Timbre reminded her that Venli lived a similar lie and was pleased when Venli acknowledged that she did truly follow Timbre instead of her Voidspren. Later, they watched the humans attempt a desperate assault on the room with the pillar as Raboniel tried to complete her corruption of the [[Sibling\|Sibling]]; Timbre pulsed to the Rhythm of Hope and Venli was strongly reminded of the tenacity of her own people as they silently rooted for the doomed humans.
 
 >“*I wish I could believe, Timbre. I really wish I could. But you don't know what you’re working with in me. You don’t understand.*”

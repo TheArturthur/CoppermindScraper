@@ -5,7 +5,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Cobalt Guard** is the honor guard of some members of House Kholin in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
@@ -35,9 +35,12 @@ Even with the added numbers from the leftover members of the original Cobalt Gua
 The Cobalt Guard defended [[Dalinar\|Dalinar]] during the battle in [[Emul\|Emul]]. This group, along with [[Cord\|Cord]] fended off an attack from [[Nale\|Nale]] and the [[Skybreakers\|Skybreakers]]. They were later used to create a perimeter around [[Dalinar\|Dalinar's]] tent after the duel between [[Jasnah\|Jasnah]] and [[Ruthar\|Ruthar]].
 
 ## Notable Members
-Head of Cobalt Guard (Former) [[Niter\|Niter]]
-Head of Cobalt Guard (Former) [[Kaladin Stormblessed\|Kaladin Stormblessed]]
-Head of Cobalt Guard (Current) [[Fisk\|Fisk]] 
+For a full list of members, see Category:Cobalt Guard.
+[[Niter\|Niter]]: Head of Cobalt Guard (Former)
+[[Kaladin Stormblessed\|Kaladin Stormblessed]]: Head of Cobalt Guard (Former)
+[[Fisk\|Fisk]]: Head of Cobalt Guard (Current)
+[[Colot\|Colot]]: Second-in-command
+[[Notum\|Notum]]: Captain
 [[Tibon\|Tibon]]
 [[Marks (Roshar)\|Marks]]
 [[Malan\|Malan]]

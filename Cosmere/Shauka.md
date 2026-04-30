@@ -1,7 +1,6 @@
 |**Shauka-daughter-Hasweth**|
 |-|-|
 |**Family**|
-|**Parents**|Hasweth|
 |**Siblings**|[[Ali-daughter-Hasweth\|Ali]]|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

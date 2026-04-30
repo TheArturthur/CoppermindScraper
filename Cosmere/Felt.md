@@ -1,12 +1,15 @@
 |**Felt**|
 |-|-|
 |**Spouse**|[[Malli\|Malli]]|
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Abilities**|[[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]]|
 |**Profession**|Spy, military scout|
+|**Groups**|Venture army, [[Originators\|Originators]], [[Ghostbloods\|Ghostbloods]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Felt** is a [[Scadrian\|Scadrian]] [[Worldhopper\|worldhopper]]. He is on Scadrial during the end of the [[Final Empire\|Final Empire]], and on [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]] and the [[True Desolation\|True Desolation]].
 
@@ -36,7 +39,7 @@ Felt has pale skin, a hawkish face, and a drooping mustache. He is considered a 
 He is reliable, logical, and resourceful, and he provides a stable presence during missions. He is also thoughtful and observant, making him a very good spy. His competence and agreeable personality allow him a bit more liberty than other soldiers with regard to some rules and regulations. Unlike many prominent [[Noble\|nobles]], Felt has a solid work ethic. He appears to be loyal to the lords that he serves, and enjoys taking on any tasks that he is assigned.
 
 ## Attributes and Abilities
-Felt is a worldhopper, and has been a member of various groups over the years. His motivations and allegiances have shifted at different points of his life, and he has sometimes been a "rogue agent" in the [[Cosmere\|cosmere]]. He has been cosmere-aware since his time on [[Scadrial\|Scadrial]], and was aware of interplanetary trade that occurred in the [[Pits of Hathsin\|Pits of Hathsin]], though he was not necessarily directly involved. He is not known to have revealed his abilities or cosmere knowledge to anyone on either Scadrial or [[Roshar\|Roshar]].
+Felt is an [[Awakener\|Awakener]] and worldhopper, and has been a member of various groups over the years. His motivations and allegiances have shifted at different points of his life, and he has sometimes been a "rogue agent" in the [[Cosmere\|cosmere]]. He has been cosmere-aware since his time on [[Scadrial\|Scadrial]], and was aware of interplanetary trade that occurred in the [[Pits of Hathsin\|Pits of Hathsin]], though he was not necessarily directly involved.
 He is noticeably lithe and nimble. By the time of the [[True Desolation\|True Desolation]], he is an older man; he is not quite as spry as he was in his youth, although he retains enough agility to climb outcroppings and perform other scouting duties without issue. He is also trained as a military scout; he is capable of surviving outdoors and leading groups of soldiers. His skills and his experiences as a worldhopper likely contribute to his uncanny knack for traveling through unknown places.
 
 ## History
@@ -44,13 +47,14 @@ He is noticeably lithe and nimble. By the time of the [[True Desolation\|True De
 Felt was born the third son of a minor nobleman during the [[Final Empire\|Final Empire]] not long before its fall, and was used to working for a living.
 He was one of the main spies for [[House Venture\|House Venture]]. He worked for [[Straff Venture\|Straff Venture]] before the latter fled [[Luthadel\|Luthadel]], and he subsequently worked for his son, [[Elend Venture\|Elend Venture]]. He spied on [[Kelsier's crew\|Kelsier's crew's]] hideout and reported to Elend that they were a well-funded, competent [[Skaa\|skaa]] thieving crew. His information caused Elend to realize that [[Valette Renoux\|Valette Renoux]] was not what she seemed.
 During the [[Siege of Luthadel\|Siege of Luthadel]], Felt was tasked with figuring out how the city was being infiltrated by someone who was poisoning food. He interrogated the refugees entering the city and the people running the [[Luthadel\|Luthadel]] passwalls, but did not get very far. On a hunch, he had his men search the river and determined that someone had pried some drain grates free to create their own entrance into the city. Elend was pleased with Felt's competence and noticed that he took pleasure in his work. He resolved to utilize Felt's skills more often, including a possible assignment to find a [[Kandra\|kandra]] spy.
-Elend later noted that Felt was assigned to watch the [[Lord Ruler\|Lord Ruler's]] [[Storage cavern\|storage cavern]] in the east during the [[Siege of Fadrex City\|Siege of Fadrex City]].
+Elend later noted that Felt was assigned to watch the [[Lord Ruler\|Lord Ruler's]] [[Storage cavern\|storage cavern]] in [[Statlin City\|Statlin City]] while Vin and Elend claimed the other caverns.
 
 ### On Roshar
   Felt leading <<Dalinar\|Dalinar>> to the <<Valley\|Valley>>
 Felt was with Highprince [[Dalinar Kholin\|Dalinar Kholin]] when he visited the [[Nightwatcher\|Nightwatcher]] not long after the [[Assassination of Gavilar\|assassination of Gavilar]]. Dalinar trusted him, as Felt was one of only a few people that knew of the visit. Felt seemed to have some insight into the effects of the Nightwatcher, and cautioned Dalinar about visiting her. Felt had visited the Nightwatcher prior to his trip with Dalinar, but she did not show herself; he believed that this was because she did not like foreigners, especially someone as "foreign" as he was. He also chuckled at Dalinar's lack of knowledge regarding birds (or "chickens", as Dalinar called them). Felt was the first person to say [[Evi\|Evi's]] name to Dalinar after [[Cultivation\|Cultivation's]] [[Old Magic\|Old Magic]] took effect.
 He took part in the [[War of Reckoning\|War of Reckoning]], acting as an [[Alethi\|Alethi]] scout on the [[Shattered Plains\|Shattered Plains]] who reported to [[Lyn\|Lyn]] during the [[Battle of Narak\|Battle of Narak]]. He and [[Shim\|Shim]] were sent to scout the plateaus surrounding [[Narak\|Narak]] prior to the battle.
 Felt remained loyal to [[House Kholin\|House Kholin]] during the [[True Desolation\|True Desolation]], and was chosen to accompany Highprince [[Adolin Kholin\|Adolin Kholin]] and [[Shallan Davar\|Shallan Davar]] on their journey through [[Shadesmar\|Shadesmar]] to [[Lasting Integrity\|Lasting Integrity]]. Adolin considered Felt's even temperament and scouting skills invaluable. Felt monitored the movements of a group of [[Tukar\|Tukari]] that were following the expedition, reporting on them to Adolin. He was surprised to see the intelligence exhibited by [[Gallant\|Gallant]] when Adolin needed assistance. When Adolin was put on trial, Felt did not return to [[Urithiru\|Urithiru]], instead staying in a camp near Lasting Integrity as part of Adolin's small support team.
+Felt was sent by the [[Ghostbloods\|Ghostbloods]] to capture and interrogate [[Kalak\|Kalak]] after [[Shallan\|Shallan]] set him free. He also was sent to recuperate the [[Seon\|seon]] Shallan had been unknowingly using. He informs Mraize of his capture of Kalak, which is when Shallan is undercover infiltrating the Ghostblood hideout, so she discovers he is a Ghostblood. After the [[Night of Sorrows\|Night of Sorrows]], Felt makes his way to [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]], and Shallan confronts him, asking to see [[Thaidakar\|Thaidakar]]. After she speaks with Thaidakar, she receives the seon, [[Ala\|Ala]], and Felt remarks that with Dalinar and [[Mraize\|Mraize]] dead, he and his wife [[Malli\|Malli]] will have to serve someone else.
 
 ## Relationships
 ### Malli

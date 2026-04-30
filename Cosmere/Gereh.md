@@ -32,7 +32,7 @@
 By the time he worked as the house steward in [[Kholinar\|Kholinar]], Gereh is white-bearded and frail. He wears multiple rings on his fingers, presumably serving as his [[Metalmind\|metalminds]]. He occasionally fidgets nervously with these rings. He also alters his appearance slightly in an unknown way, making himself seem as if he had the epicanthic folds common in many humans on [[Roshar\|Roshar]].
 
 ## Attributes & Abilities
-Gereh is a [[Feruchemist\|Feruchemist]] with an unknown skillset. He could also effectively hide some of his physical features that made him stand out as a person of non-[[Roshar\|Rosharan]] descent. Gereh also had come into possession of a red [[Gereh's Aviar\|Aviar]]. The powers granted by the Aviar are unknown mind abilities, and the intelligent bird is very loyal to the man and able to feel Gereh's location from a distance.
+Gereh is a [[Feruchemist\|Feruchemist]] with an unknown skillset.  He could also effectively hide some of his physical features that made him stand out as a person of non-[[Roshar\|Rosharan]] descent. Gereh also had come into possession of a red [[Gereh's Aviar\|Aviar]]. The powers granted by the Aviar are unknown mind abilities, and the intelligent bird is very loyal to the man and able to feel Gereh's location from a distance.
 
 ## History
 ### Kholinar Steward

@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Talik** is a [[Reshi\|Reshi]] trademaster who lives on [[Relu-na\|Relu-na]]. He is the son of the king of the island, [[Ral-na\|Ral-na]].
 
 ## Contents

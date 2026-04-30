@@ -1,4 +1,4 @@
->“*It took hours to decide, but Restares is right--this is what must be done. For the good of Alethkar.*”
+>“*It took hours to decide, but Restares is right—this is what must be done. For the good of Alethkar.*”
 \-Amaram to Kaladin, on deciding to take the Shards for himself[1]
 
 

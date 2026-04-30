@@ -1,7 +1,7 @@
 |**Jella**|
 |-|-|
 ||
-|**Type**|Tree|
+|**Type**|Plant, Tree|
 |**Native to**|[[Jah Keved\|Jah Keved]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

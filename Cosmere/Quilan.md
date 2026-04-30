@@ -32,7 +32,7 @@ Quilan: "We welcome your cooperation.
 "
 
 
-Quilan is a few seasons older than Alanik, making him the UrDail cytonic closest to Alanik's age. He cloaks his words and demands in diplomacy and tends to speak calmly, but is willing to use physical force to achieve his goals. Fearing the Superiority's power, he is willing to devote a large number of Unity forces to capturing rebels and turning them over to the Superiority.
+Quilan is a few seasons older than Alanik, making him the UrDail cytonic closest to Alanik's age. He cloaks his words and demands in diplomacy and tends to speak calmly, but is willing to use physical force to achieve his goals. Fearing the Superiority's power, he is willing to devote a large number of Unity forces to capturing rebels and turning them over to the Superiority. 
 
 ## Attributes and Abilities
 Quilan's cytonic abilities include telepathy, [[Mindblade\|mindblades]] and concussion bolts, although he cannot teleport.

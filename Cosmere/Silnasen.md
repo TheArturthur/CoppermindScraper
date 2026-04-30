@@ -1,5 +1,6 @@
 |**Silnasen**|
 |-|-|
+||
 |**Nation**|[[Jah Keved\|Jah Keved]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -20,7 +21,7 @@ According to [[Natata Ved\|Natata Ved]], ancient Silnasen was ruled by a king na
 At some points in its history, Silnasen has been governed as an independent city-state. Their monarchs have generally declined to claim the first [[Dahn\|dahn]] in order to avoid provoking the Veden and [[Alethi\|Alethi]].
 
 ## Culture
-In the present day, the Siln are thought of as a less modernized society than the rest of Jah Keved. [[Shallan Davar\|Shallan Davar]] compares the Siln to other indigenous people in [[Iri\|Iri]] and the [[Reshi Isles\|Reshi Isles]]. Their disputes tend to result in posturing rather than actual combat because they live a lifestyle in which hunting skill is too valuable to risk in battle. They are not known to commit assassinations.
+The Siln speak the Siln language. Siln people typically have tan skin and medium-to-dark hair, they are also known to live a hunter-gatherer lifestyle. In the present day, the Siln are thought of as a less modernized society than the rest of Jah Keved. [[Shallan Davar\|Shallan Davar]] compares the Siln to other indigenous people in [[Iri\|Iri]] and the [[Reshi Isles\|Reshi Isles]]. Their disputes tend to result in posturing rather than actual combat because they live a lifestyle in which hunting skill is too valuable to risk in battle. They are not known to commit assassinations.
 At least some of the Siln people follow [[Vorinism\|Vorinism]]; a Siln [[Ardent\|ardent]] named [[Urv\|Urv]] studies at the [[Jokasha Monastery\|Jokasha Monastery]].
 There is some degree of racism towards the Siln people by Vedens. How widespread or systematized it is, is currently unknown.
 

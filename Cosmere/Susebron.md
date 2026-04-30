@@ -16,7 +16,7 @@
 \-Susebron to Siri[2]
 
 
-**Susebron**, also known as **Susebron the Fifth**, is the God King of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive. He is the fifth God King in the three hundred years since the Manywar.
+**Susebron**, also known as **Susebron the Fifth**, is the God King of [[Hallandren\|Hallandren]] on [[Nalthis\|Nalthis]] around 300 years after the [[Manywar\|Manywar]]. He is a [[Returned\|Returned]] and is given two or more [[Breath\|Breaths]] every week by his subjects in order to keep him alive.  He is the fifth God King in the three hundred years since the Manywar.
 
 ## Contents
 
@@ -69,7 +69,7 @@ Color Distortion - Wherever Susebron goes, white objects in his vicinity break u
 Perfect Invocation - when Awakening he drains objects to white instead of grey.
 Mental Command - this ability, which is difficult to learn, allows him to give Commands and Awaken mentally. Susebron would have been able to Awaken through this ability before having his tongue healed, but was never taught how to do so.
 There are rumors of other powers granted by the Tenth Heightening which are not understood or have not been made known by the God Kings, who have been the only ones to achieve it.
-The Peacegiver's Treasure makes Susebron effectively immortal, and even if he were to suddenly be cut off from his weekly supply, he could still live for over nine hundred years feeding off it. This amount of Breath might also make him immune to emotional [[Allomancy\|Allomancy]]. In addition, as the God-King, he's capable of using his divine Breath to heal multiple people instead of just one. Whether this is because he was Returned young or some side-effect of holding Peacegiver's Treasure is uncertain.
+The Peacegiver's Treasure makes Susebron effectively immortal, and even if he were to suddenly be cut off from his weekly supply, he could still live for over nine hundred years feeding off it. This amount of Breath might also make him immune to emotional [[Allomancy\|Allomancy]]. In addition, as the God-King, he's said to be capable of using his divine Breath to heal multiple people instead of just one. Whether this is because he was Returned young or some side-effect of holding Peacegiver's Treasure is uncertain.
 Though little has been shown of Susebron's Awakening abilities, he is naturally extremely powerful by the virtue of the sheer number of Breaths he possesses. Shortly after regaining his tongue, he was capable of controlling hundreds of individual Awakened objects simultaneously.
 Though he is a king, it's uncertain how much in the way of political skill he has, as until very recently, he's been little more than a figurehead of the priesthood.
 

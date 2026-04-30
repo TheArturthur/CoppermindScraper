@@ -1,13 +1,15 @@
 |**Physical Realm**|
 |-|-|
+||
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
-The **Physical Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains what is perceivable to the physical senses. Of the three [[Realmatic Theory\|Realms]], it is the most readily understood.
-The cosmere is a small star cluster within a dwarf galaxy.
-This article lists all the known celestial bodies in the cosmere as they appear in the Physical Realm, including planets, stars and moons.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
+
+The **Physical Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains what is perceivable to the physical senses. Of the three [[Realmatic Theory\|Realms]], it is the most readily understood. It is made out of a large number of [[Axi\|axi]].
+The cosmere is a large star cluster within a dwarf galaxy, or potentially a galaxy in of itself, or the universe. Galaxies are organized into galactic clusters, which are themselves organized into galactic superclusters. This article lists all the known celestial bodies in the cosmere as they appear in the Physical Realm, including planets, stars and moons.
 
 ## Contents
 
@@ -77,6 +79,7 @@ This article lists all the known celestial bodies in the cosmere as they appear 
 
 9. [[#Bjendal]] 
 9. [[#Canticle]] 
+9. [[#Grand Apparatus]] 
 9. [[#Lumar]] 
 9. [[#Mythos]] 
 9. [[#Obrodai]] 
@@ -97,7 +100,7 @@ This article lists all the known celestial bodies in the cosmere as they appear 
 
 ## The Selish System
 
-The Selish system orbits a yellow star named [[Mashe\|Mashe]]. There are five planets in this system: two within the habitable zone, then two gas giants named Ky and Ralen, and finally an unnamed dwarf planet.
+The Selish system orbits a yellow star named [[Mashe\|Mashe]]. There are five planets in this system: two within the habitable zone, then two gas giants named Ky and Ralen, and finally an unnamed dwarf planet. 
 
 ### Donne
 Donne is the closest planet to the sun. While it is in a habitable region, it is barren and suffers from terrible dust storms.
@@ -123,7 +126,7 @@ The Taldain system is a binary system. The two stars in it are a weak white dwar
 
 ### Taldain
 
-Taldain is a tidally locked planet. It is the only planet in this system. It is kept in an unstable orbit around AisDa by the gravitational pull of Ridos, and by some other, unknown force, presumably Autonomy. This astronomically unstable orbit is known as "Wombear's Saddle".
+Taldain is a tidally locked planet. It is the only planet in this system. It is kept in an unstable orbit around AisDa by the gravitational pull of Ridos, and  by some other, unknown force, presumably Autonomy. This astronomically unstable orbit is known as "Wombear's Saddle".
 It is orbited by a single moon known as **Nizh Da**.
 
 ### AisDa
@@ -139,7 +142,7 @@ This planetary system has four planets. The habitable zone has three planets nam
 
 ### Threnody
 
-Threnody, the third planet in the Threnodite system, contains the [[Forests of Hell\|Forests of Hell]]. It is the setting for the story [[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]. It has many features that are similar to Earth, including forests, mountains and oceans. Silver seems to be a fairly common resource on the planet, but because of its importance to survival, it is still finite and valuable. It has no moon.
+Threnody, the third planet in the Threnodite system, contains the [[Forests of Hell\|Forests of Hell]]. It is the setting for the story [[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]. It has many features that are similar to Earth, including forests, mountains and oceans. [[Silver\|Silver]] seems to be a fairly common resource on the planet, but because of its importance to survival, it is still finite and valuable. It has no moon.
 
 ## The Drominad System
 
@@ -160,7 +163,7 @@ Greater Roshar is a planetary system containing thirteen planets. Some have life
 
 Ashyn is the first planet from the system's sun. It has sentient life.
 The book [[The Silence Divine\|The Silence Divine]] is set here. The magic system involves people who gain magical powers from diseases.
-Ashyn is mostly barren, with a few fertile patches. It currently has no [[Shard\|shard]].
+Ashyn is mostly barren, with a few fertile patches.  It currently has no [[Shard\|shard]].
 
 ### Roshar
 
@@ -191,7 +194,7 @@ The UTol System orbits a red-orange star. There are two planets in the system: [
 
 ### UTol
 
-UTol is one of the only two known planets that are known to inhabited by [[Sho Del\|Sho Del]], alongside [[Yolen\|Yolen]]. It is covered primarily by oceans with relatively small land masses.
+UTol is one of the only two known planets that are known to  be inhabited by [[Sho Del\|Sho Del]], alongside [[Yolen\|Yolen]]. It is covered primarily by oceans with relatively small land masses.
 
 ### Komashi
 
@@ -205,6 +208,10 @@ Little is known of Bjendal, and nothing is known of its peoples, or any [[Shard\
 ### Canticle
 
 Canticle is a very small planet, estimated at only 322km in diameter, but with gravity within the ranges that would be expected for larger planets, caused by its highly Invested iron core. The surface is blasted every day by intense sunlight capable of melting the land.
+
+### Grand Apparatus
+
+The Grand Apparatus is a planetary megastructure comprising cities made of thousands of communal moving rooms controlled by a giant centralized [[Investiture\|Invested]] mechanism. It is controlled by the [[Sleepless\|Sleepless]], who experiment on its peoples.
 
 ### Lumar
 
@@ -227,7 +234,6 @@ Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be locat
 Yolen is home to three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
 
 ## Stars and Constellations
- 
 ### Starbelt
 The [[Starbelt\|Starbelt]] is an unusually bright patch of stars in the sky of [[Threnody\|Threnody]]. It is useful for navigation in the [[Forests of Hell\|Forests of Hell]] during the night; the light usually filtered through the trees fairly well.
 The Starbelt is the same patch of unusually bright stars that is visible from [[Scadrial\|Scadrial]]. It is visible from other worlds in the cosmere as well.
@@ -236,7 +242,7 @@ The Starbelt is the same patch of unusually bright stars that is visible from [[
 [[Taln's Scar\|Taln's Scar]] is a great swath of red stars that stand out against the white ones.
 
 ### The Tear
-The [[Tear\|Tear]] is a particularly bright star in the Rosharan sky. It's name comes from the single tear shed by [[Reya\|Reya]] in Rosharan Mythology.
+The [[Tear\|Tear]] is a particularly bright star in the Rosharan sky. Its name comes from the single tear shed by [[Reya\|Reya]] in Rosharan Mythology.
 
 ### Mashe
 [[Mashe\|Mashe]] is the star around which [[Sel\|Sel]] and several other planets orbit.

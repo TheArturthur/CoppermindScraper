@@ -9,7 +9,7 @@
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Defending Elysium\|Defending Elysium]]*|
 
-**Denise Carlson** was a laboratory assistant for the [[Phone Company\|Phone Company]] who worked in their research facility on [[Evensong\|Evensong]].
+**Denise Carlson** was a laboratory assistant for the [[Phone Company\|Phone Company]] who worked in their research facility on  [[Evensong\|Evensong]].
 
 ## Contents
 

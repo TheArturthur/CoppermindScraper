@@ -11,7 +11,7 @@
 \-Tonk Fah[1]
 
 
-**Grable** is a restaurateur and infamous thief lord in [[T'Telir\|T'Telir]] on [[Nalthis\|Nalthis]].
+**Grable** is a restaurateur and infamous thief lord in [[T'Telir\|T'Telir]] on [[Nalthis\|Nalthis]]. 
 
 ## Contents
 

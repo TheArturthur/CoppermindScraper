@@ -4,7 +4,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Polestones** are the ten varieties of gemstone that naturally hold [[Light\|Light]]. They also serve as the basis of [[Spheres\|spheres]], the basic Rosharan money system.
 
@@ -53,63 +53,54 @@ If a Polestone is set in the pommel of a deceased [[Shardblade\|Shardblade]] it 
 
 ## The Ten Polestones
 ### Sapphire
-**Sapphire** is associated with the Essence of Zephyr. They are used to Soulcast translucent gases, like air.
+**Sapphire** is associated with the Essence of Zephyr and the [[Order of Windrunners\|Order of Windrunners]]. They are used to Soulcast translucent gases, like air. The gemhearts of [[Mawli\|mawli]] are sapphire, a major export of [[Azir\|Azir]].
 Sapphire spheres are given the "sky-" prefix.
-It is associated with the [[Order of Windrunners\|Order of Windrunners]]
 
 ### Smokestone
-**Smokestone** is associated with the Essence of Vapor. They are used to Soulcast opaque gases, like smoke and fog.
+**Smokestone** is associated with the Essence of Vapor and the [[Order of Skybreakers\|Order of Skybreakers]]. They are used to Soulcast opaque gases, like smoke and fog.
 Smokestones are used in a type of fabrial clock.
-It is associated with the [[Order of Skybreakers\|Order of Skybreakers]].
-Smokestone is a chemically impure version of quartz.
 
 ### Ruby
-**Ruby** is associated with the Essence of Spark. They are used to Soulcast fire.
+**Ruby** is associated with the Essence of Spark and the [[Order of Dustbringers\|Order of Dustbringers]]. They are used to Soulcast fire.
 Rubies are used in the production of [[/wiki/Fabrial#Pairing fabrials]], where a single infused ruby is split in two. Once activated the two halves will mirror each others movements, lift one and the other will also rise. [[Spanreed\|Spanreeds]] are a common application of this phenomenon.
 Rubies are also used in a kind of heat producing fabrial. They are also used in the construction of a [[Painrial\|painrial]], a pain reducing fabrial, designed by [[Longshadow\|Longshadow]] and adapted by [[Navani Kholin\|Navani Kholin]]. A ruby was also part of the [[Oathgate\|Oathgate]] at the center of the [[Shattered Plains\|Shattered Plains]].
 Ruby spheres are given the "fire-" prefix.
-It is associated with the [[Order of Dustbringers\|Order of Dustbringers]]
+The [[King's Drop\|King's Drop]], a large perfect gemstone that was possibly part of the [[Stone of Ten Dawns\|Stone of Ten Dawns]] and used to imprison the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]], is a ruby.
 
 ### Diamond
-**Diamond** is associated with the Essence of Lucentia. They are used to Soulcast crystals, like quartz and glass.
+**Diamond** is associated with the Essence of Lucentia and the [[Order of Edgedancers\|Order of Edgedancers]]. They are used to Soulcast crystals, like quartz and glass.
 Diamonds are used in a kind of light producing fabrial.
 Diamond spheres are given the "clear-" prefix.
-It is associated with the [[Order of Edgedancers\|Order of Edgedancers]]
 
 ### Emerald
-**Emerald** is associated with the Essence of Pulp. They are used to Soulcast plant material, like wood, moss, and grain.
-Emeralds can be used to capture flamespren. They can be found in [[Chasmfiend\|chasmfiends]].
-It is associated with the [[Order of Truthwatchers\|Order of Truthwatchers]]
+**Emerald** is associated with the Essence of Pulp  and the [[Order of Truthwatchers\|Order of Truthwatchers]]. They are used to Soulcast plant material, like wood, moss, and grain. The gemhearts of [[Chasmfiend\|chasmfiends]] are emerald.
+Emeralds can be used to capture flamespren.
 
 ### Garnet
-**Garnet** is associated with the Essence of Blood. They are used to Soulcast the eight types of blood and all other non-oil liquids.
-Garnets are used in a type of water attracting fabrial.
+**Garnet** is associated with the Essence of Blood and the [[Order of Lightweavers\|Order of Lightweavers]]. They are used to Soulcast the eight types of blood and all other non-oil liquids.
+Garnets are used in a type of water attracting fabrial. They are also used in ancient [[Suppression fabrial\|suppression fabrials]].
 Garnet spheres are given the "blood-" prefix.
-It is associated with the [[Order of Lightweavers\|Order of Lightweavers]]
 
 ### Zircon
-**Zircon** is associated with the Essence of Tallow. They are used to Soulcast oils.
-It is associated with the [[Order of Elsecallers\|Order of Elsecallers]]
+**Zircon** is associated with the Essence of Tallow and the [[Order of Elsecallers\|Order of Elsecallers]]. They are used to Soulcast oils. The gemhearts of [[Yu-nerig\|yu-nerigs]] are zircon.
 
 ### Amethyst
-**Amethyst** is associated with the Essence of Foil. They are used to Soulcast metals.
+**Amethyst** is associated with the Essence of Foil and the [[Order of Willshapers\|Order of Willshapers]]. They are used to Soulcast metals.
 Amethysts are used in the production of [[/wiki/Fabrial#Pairing fabrials]], where a single infused amethyst is split in two. Once activated the two halves will inversely mirror each other's movements, lift one and the other will be lowered.
-It is associated with the [[Order of Willshapers\|Order of Willshapers]]
+While in the [[Physical Realm\|Physical Realm]], the Unmade [[Yelig-nar\|Yelig-nar]] inhabits a amethyst gem.
 
 ### Topaz
-**Topaz** is associated with the Essence of Talus. They are used to Soulcast rock and stone.
+**Topaz** is associated with the Essence of Talus and the [[Order of Stonewards\|Order of Stonewards]]. They are used to Soulcast rock and stone.
 A topaz was observed as part of a fabrial replicating Regrowth, an application of the [[/wiki/Surgebinding#Progression]].
-It is associated with the [[Order of Stonewards\|Order of Stonewards]]
 
 ### Heliodor
-**Heliodor** is associated with the Essence of Sinew. They are used to Soulcast animal material, like meat and flesh.
+**Heliodor** is associated with the Essence of Sinew and the [[Order of Bondsmiths\|Order of Bondsmiths]]. They are used to Soulcast animal material, like meat and flesh. The gemheart of [[Gumfrem\|gumfrems]] are heliodor.
 Heliodors are used in the production of [[/wiki/Fabrial#Warning fabrials]]. These fabrials can be used to detect a variety of stimuli, such as people and emotions, and give notice to its user. The larger the heliodor, and as a result the more Stormlight that can be infused in it, the wider the fabrial's range is.
 A heliodor was observed as part of a fabrial replicating Regrowth, an application of the [[/wiki/Surgebinding#Progression]].
-It is associated with the [[Order of Bondsmiths\|Order of Bondsmiths]]
-They can be found in [[Gumfrem\|gumfrems]].
+A perfect heliodor was used to imprison the Unmade [[Ba-Ado-Mishram\|Ba-Ado-Mishram]].
 
 ## Obtaining
-While Polestones are produced via mining, a significant source of them on Roshar is the harvesting of the [[Gemheart\|gemhearts]] that grow inside [[Greatshell\|greatshells]]. Larger species of greatshell, like [[Chasmfiend\|chasmfiends]], produce gemhearts of great size, which are incredibly useful in Soulcasting as a larger stone is less likely to break from the strain. This trait however has led to many species of greatshells, such as the [[Lanceryn\|lanceryn]], to go extinct. The exact method by which gemhearts are grown is not understood, though it is known to be caused by a leak from the [[Spiritual Realm\|Spiritual Realm]] into the [[Physical Realm\|Physical]], and is analogous, though not identical, to the production of [[Atium\|atium]] in the [[Pits of Hathsin\|Pits of Hathsin]] on [[Scadrial\|Scadrial]]. Although they may have flaws, gemheart Polestones have virtually no impurities, unlike their conventionally mined counterparts.
+While Polestones are produced via mining, a significant source of them on Roshar is the harvesting of the [[Gemheart\|gemhearts]] that grow inside [[Greatshell\|greatshells]]. Larger species of greatshell, like [[Chasmfiend\|chasmfiends]], produce gemhearts of great size, which are incredibly useful in Soulcasting as a larger stone is less likely to break from the strain. This trait however has led to many species of greatshells, such as the [[Lanceryn\|lanceryn]], to go extinct. The exact method by which gemhearts are grown is not understood, though it is known to be caused by a leak from the [[Spiritual Realm\|Spiritual Realm]] into the [[Physical Realm\|Physical]], and is analogous, though not identical, to the production of [[Atium\|atium]] in the [[Pits of Hathsin\|Pits of Hathsin]] on [[Scadrial\|Scadrial]].  Although they may have flaws, gemheart Polestones have virtually no impurities, unlike their conventionally mined counterparts.
 
 ## Perfect Gemstones
 **Perfect gemstones** occur when one of the Polestones forms without any flaws or imperfections which allows them to hold light indefinitely. The money exchangers living in major cities of [[Shadesmar\|Shadesmar]] use perfect stones to store the Stormlight they use for currency. The [[King's Drop\|King's Drop]] is a perfect gemstone that has been held in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] for over two hundred years without being renewed or losing Stormlight. In addition to not leaking, a perfect gemstone can hold far more Stormlight than a normal gemstone of the same size could. The [[Elsecallers\|Elsecallers]] were tasked with protecting perfect gems, including a ruby named [[Honor's Drop\|Honor's Drop]]. The [[Honorspren\|honorspren]] have gathered many perfect gemstones in their stronghold [[Lasting Integrity\|Lasting Integrity]]. [[Jasnah Kholin\|Jasnah Kholin]] believes that there are far fewer perfect gemstones around in the Physical Realm than there should be, suggesting that someone may have been gathering them up before their value was more widely known; possibly the [[Ghostbloods\|Ghostbloods]] as they are experimenting with transporting Stormlight off-world.
@@ -122,7 +113,7 @@ Surgebinders are also able to infuse Polestones regardless of the type, and can 
 ## Roshar Economy
 For more information, see [[Spheres\|Spheres]].
 Gemstones form the basis for the Roshar economy. Gemstone weight is measured in kivs. When used as currency, the gems are encased in glass [[Spheres\|spheres]]. Although the spheres are of uniform size, the gemstones inside are of three sizes. In descending order of size (and value), these gem sizes are broam, mark, and chip.
-In addition, the value of the “sphere” is determined by the type of gemstone, which have different values as determined by their utility rather than their rarity.. Their relative value in descending order is as follows: emerald, sapphire, ruby, diamond, and garnet. In addition, amethyst is one of the more valuable gemstones; topaz and zircon are amongst the least valuable.
+In addition, the value of the “sphere” is determined by the type of gemstone, which have different values as determined by their utility rather than their rarity.. Their relative value in descending order is as follows: emerald; amethyst and sapphire; ruby, smokestone, and zircon; garnet, heliodor, and topaz; and diamond.
 
 
 

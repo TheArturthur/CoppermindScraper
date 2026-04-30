@@ -11,6 +11,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*You know a lot about war, dear man. Of course, that’s what you’re paid for, isn't it!*”
 \-Cynder to Baon.[3]
 
@@ -23,8 +25,8 @@
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 
-3. [[#On Taldain]] 
-3. [[#On Roshar]] 
+3. [[#Crisis in the Diem]] 
+3. [[#Search for Hoid]] 
 
 
 4 Trivia. [[#Trivia]] 
@@ -41,19 +43,19 @@ Images of Baon
 
 
  Portrait
-
+			
 
 
 
 
  On the *[[White Sand\|White Sand Volume 1]]* cover
-
+			
 
 
 
 
  On the *[[White Sand\|White Sand Volume 2]]* cover
-
+			
 
 
 ## Attributes and Abilities
@@ -62,7 +64,7 @@ He is a skilled soldier and marksman, and usually carries firearms. Fearing that
 He has been trained in many disciplines and is a gifted sailor.
 
 ## History
-### On Taldain
+### Crisis in the Diem
 Baon was sent by [[Skathan\|Skathan]] to [[Dayside\|Dayside]] to investigate whether the [[Diem\|sand masters]] posed a threat to the Dynasty. Duchess [[Khrissalla\|Khrissalla]] hired Baon to guard her on her trip to Dayside to find the [[Sand mastery\|Sand Mages]] that Prince [[Gevalden\|Gevalden]] was looking for. Baon went on the journey to Dayside with both of these purposes equally in mind and did not consider them mutually exclusive.
 When Captain [[Deral\|Deral]] and his lieutenant attempted to sell their party to a [[Dynastic\|Dynastic]] border patrol, Baon killed both of them to ensure that they escaped and neither mission was jeopardized. He took Deral's pistols for himself thinking that no one would notice them for what they were.
 Before docking at [[Dosha-Har'Ken\|Dosha-Har'Ken]], Baon noticed the unprofessional conduct of Khrissalla's military escort, [[Flennid\|Flennid]] and [[Torth\|Torth]], and warns Khriss that they will cause problems. While in Dosha-Har'Ken, he covers their party's retreat from an angered [[A'kar\|A'kar]] when Professor [[Cynder\|Cynder]] tries using the [[Kerztian\|Kerztian]] holy language to ask for information. While passing the outskirts of [[Esh'Ker'Losh\|Esh'Ker'Losh]], he accurately identifies a [[Zinkall\|zinkall]] as a pneumatic dart gun based on observation.
@@ -91,9 +93,9 @@ Baon traveled with Khriss and Kenton to [[Lraezare\|Lraezare]] when they were ch
 The group went to the [[Tower (Taldain)\|Tower]] to search for the missing [[Lord General\|Lord General]], [[Raagent\|Raagent]]. They found Raagent's corpse in the Tower's cellar, where he had been tortured to death by [[Sharezan\|Sharezan]]. On the way back to the Diem Baon theorized to Kenton that it was suspicious that one of his strongest supporters was murdered the day before the Taishin were to vote on the fate of the Diem. Kenton responded that he didn't think the Kerztians would do such a thing; but Baon maintained that if whoever was sending the assassins was really trying to disband the Diem, then killing a Taisha or one of Kenton's protectors would accomplish their goal as well. The next day he, together with Khriss, watched Kenton's duel with [[Drile\|Drile]] at the Diem. When Khriss was distraught about how Kenton was being dominated by Drile, Baon told her that she must not interfere as Kenton chose this fight with bravery and she must not rob him of his sacrifice for his people. Baon was also present for the Taishin vote on reversing the descision to disband the Diem, since it was held immediately after the duel.
 Two weeks later Baon, Khriss, and Cynder set sail for Elis, taking a few sand masters and three barrels of [[Investiture\|Invested]] sand with them. During the journey, at Khriss' prodding, an unnamed [[/wiki/Khrissalla%27s Journal#Sand Masters]] administers the test for sand mastery to Baon. To everybody's surprise, he succeeds with a massive release of power.
 
-### On Roshar
-**Blunt** was the nickname [[Ishikk\|Ishikk]] assigned to Baon when he was hunting for [[Hoid\|Hoid]] at the [[Purelake\|Purelake]] on [[Roshar\|Roshar]] with other members of [[Seventeenth Shard\|The Seventeenth Shard]]. He was described as tall and broad-shouldered, but lean and muscled, with hair that was short and dark. Ishikk believed that the name he provided, **Vao**, was a false name. Baon was accompanied by [[Galladon\|Galladon]] and [[Demoux\|Demoux]]. Baon joined [[Seventeenth Shard\|The Seventeenth Shard]] sometime after the events of [[White Sand\|White Sand]].
-Baon wondered if there was something to the abilities that the Purelakers ascribed to their fish, but Galladon thought he had a tendency to believe in superstition. Baon also spoke [[Selan\|Selan]] well. Two years later, the group had given up on finding Hoid and left Roshar.
+### Search for Hoid
+Baon joined the [[Seventeenth Shard\|Seventeenth Shard]] sometime after the preceding events. **Blunt** was the nickname [[Ishikk\|Ishikk]] assigned him when he was hunting for [[Hoid\|Hoid]] at the [[Purelake\|Purelake]] on [[Roshar\|Roshar]] with other members of the Seventeenth Shard. He was described as tall and broad-shouldered, but lean and muscled, with hair that was short and dark. Ishikk believed that the name he provided, **Vao**, was a false name. Baon was accompanied by [[Galladon\|Galladon]] and [[Demoux\|Demoux]]. Baon wondered if there was something to the abilities that the Purelakers ascribed to their fish, but Galladon thought he had a tendency to believe in superstition. Baon also spoke [[Selan\|Selan]] well.
+By 1175, the group had given up on finding Hoid and had left Roshar. Within the same year, the three returned to Roshar and traveled to [[Iri\|Iri]] shortly before the Fifth Journey. They collected a letter from Hoid, and the three decided to leave the planet again.
 
 ## Trivia
 Long before the concept of the [[Cosmere\|cosmere]] was developed, Baon appeared as *Doram* in the first story Brandon ever wrote.

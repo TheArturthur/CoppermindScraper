@@ -17,7 +17,7 @@
 
 ## Appearance and Personality
 Maps is flat-faced and balding, and has thick eyebrows and a bushy beard. Although he is initially apathetic like most bridgemen, he becomes gregarious and well-liked, and is able to put other people at ease.
-"Maps" is a nickname that comes from a birthmark on his chest that he swears is an exact map of [[Alethkar\|Alethkar]], although Kaladin does not see the resemblance. His real name is unknown.
+"Maps" is a nickname that comes from a birthmark on his chest that he swears is an exact map of [[Alethkar\|Alethkar]], although Kaladin does not see the resemblance. His real name is unknown. 
 
 ## History
   Showing off his birthmark to <<Kaladin\|Kaladin>>, <<Rock\|Rock>>, and <<Sigzil\|Sigzil>>

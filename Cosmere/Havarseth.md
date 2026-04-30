@@ -12,7 +12,7 @@
 \-Bluefingers to Siri.[1]
 
 
-**Havarseth**, better known as **Bluefingers**, is a [[Pahn Kahl\|Pahn Kahl]] servant to the [[God King\|God King's]] palace on [[Nalthis\|Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
+**Havarseth**, better known as **Bluefingers**, is a [[Pahn Kahl\|Pahn Kahl]] servant to the [[God King\|God King's]] palace on [[Nalthis\|Nalthis]]. He is an instrumental player in the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. 
 
 ## Contents
 

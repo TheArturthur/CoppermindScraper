@@ -10,8 +10,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
->“*He saw a chance to pull out, letting the Parshendi destroy us. So he did it. A very Alethi thing to do. Ruthless, yet still allowing him to feign a sense of honor or morality.*”
-\-Dalinar's description of Sadeas's betrayal[1]
+>“*He saw a chance to pull out, letting the Parshendi destroy us. So he did it. A very Alethi thing to do. Ruthless, yet still allowing him to feign a sense of honor or morality. *”
+\-Dalinar's description of Sadeas's betrayal[2]
 
 
 The **Battle of the Tower** is a major engagement during the [[War of Reckoning\|War of Reckoning]] fought by the combined armies of the [[Alethi\|Alethi]] [[Highprince\|Highprinces]] [[Dalinar Kholin\|Dalinar Kholin]] and [[Torol Sadeas\|Torol Sadeas]] against the [[Parshendi\|Parshendi]] forces led by [[Eshonai\|Eshonai]]. The engagement takes place on a plateau of the [[Shattered Plains\|Shattered Plains]] called the [[Tower (Roshar)\|Tower]], the largest and most coveted of the plateaus.
@@ -58,12 +58,13 @@ Dalinar landed his Bridge crews on the plateau once Sadeas secured it enough tha
 
   <<Kaladin\|Kaladin>> leaping onto the Tower to save Dalinar and his men
 ### The Betrayal
+ 
 >“*I told you, old friend. I said that honor of yours would get you killed someday.*”
-\-Sadeas's words as he abandoned Dalinar's army[5]
+\-Sadeas's words as he abandoned Dalinar's army[9]
 
 
-A second army of Parhsendi warriors approached the plateau from the south an hour after the battle began. This left Dalinar's army surrounded on three sides with no warning. Realizing that his or Sadeas's scouts should have warned him of the approach, Dalinar found a lookout on the platea and watched Sadeas's army retreat. This retreat included the bridge crews that Sadeas had lent Dalinar for the assault, leaving the Kholin army stranded with no means of retreat. Dalinar ordered his army to retreat, but it was too late. Sadeas kept his army mobile and ready to disengage and retreat quickly. If his plan was successful, Sadeas would have claimed that the Parshendi overwhelmed the armies and he had no choice but to abandon Dalinar to save himself. Left with no choice, he and his men resolve to die and prepare to make a last stand.
-Kaladin initially believed that Sadeas must be severely injured or dead when he witnessed Sadeas's abandonment of the Kholin army. He realized the true situation when he saw Sadeas's proud expression and uninjured body. Because of his wounded men, Bridge Four lagged behind the rest of the army. Kaladin convinced [[Matal\|Matal]] to let them rest at a chasm and follow the rest of the army when they are able to with their bridge. Kaladin planned to use this as an opportunity to escape without being followed, as the army would assume they got killed by Parshendi. Kaladin has his men loot the dead members of Sadeas's army for weapons and armor to aid the escape Syl, however, feels great discomfort at the thought of leaving Dalinar's men behind to die. This gives Kaladin the push he needs to charge the Tower and give Dalinar's men a chance at escape.
+A second army of Parshendi warriors approached the plateau from the south an hour after the battle began. This left Dalinar's army surrounded on three sides with no warning. Realizing that his or Sadeas's scouts should have warned him of the approach, Dalinar found a lookout on the platea and watched Sadeas's army retreat. This retreat included the bridge crews that Sadeas had lent Dalinar for the assault, leaving the Kholin army stranded with no means of retreat. Dalinar ordered his army to retreat, but it was too late. Sadeas kept his army mobile and ready to disengage and retreat quickly. If his plan was successful, Sadeas would have claimed that the Parshendi overwhelmed the armies and he had no choice but to abandon Dalinar to save himself. Left with no choice, he and his men resolve to die and prepare to make a last stand.
+Kaladin initially believed that Sadeas must be severely injured or dead when he witnessed Sadeas's abandonment of the Kholin army. He realized the true situation when he saw Sadeas's proud expression and uninjured body. Because of his wounded men, Bridge Four lagged behind the rest of the army. Kaladin convinced [[Avarak Matal\|Matal]] to let them rest at a chasm and follow the rest of the army when they are able to with their bridge. Kaladin planned to use this as an opportunity to escape without being followed, as the army would assume they got killed by Parshendi. Kaladin has his men loot the dead members of Sadeas's army for weapons and armor to aid the escape. Syl, however, feels great discomfort at the thought of leaving Dalinar's men behind to die. This gives Kaladin the push he needs to charge the Tower and give Dalinar's men a chance at escape.
 
 ### The Rescue
 As Dalinar and his army reaches the bridge, [[Eshonai\|Eshonai]], a Shardbearer and the Parshendi commander, appears and draws Dalinar away, engaging him in battle. While Dalinar is engaged, Kaladin organizes a retreat for most of Dalinar's men, including Adolin and the [[Cobalt Guard\|Cobalt Guard]]. Finally, Kaladin goes to rescue Dalinar, incapacitating Eshonai in the process. With Dalinar safe, Bridge Four and Dalinar's army retreats back to the warcamps.
@@ -71,11 +72,11 @@ As Dalinar and his army reaches the bridge, [[Eshonai\|Eshonai]], a Shardbearer 
 ## Aftermath
   Sadeas riding away from the battle
 >“*Well, you've shown me something today, Sadeas – shown it to me by the very act of trying to remove me. . . You've shown me that I'm still a threat.*”
-\-Dalinar to Sadeas after the Battle of the Tower[1]
+\-Dalinar to Sadeas after the Battle of the Tower[2]
 
 
 Dalinar Kholin's army is decimated; of the eight thousand men that he brings with him, approximately six thousand are killed, leaving behind only 2,653 men.
-As a result of [[Bridge Four\|Bridge Four]] saving Dalinar's men, Dalinar offers to buy all the [[Bridge crew\|bridge crew]] from Sadeas's army with 60 emarald [[Broam\|broams]] each. After being rejected, he gave up his [[Shardblade\|Shardblade]] [[Oathbringer (Shardblade)\|Oathbringer]] as price. Although some take an offer of money and freedom, most join Dalinar's army under the command of [[Kaladin\|Kaladin]], instantly creating a thousand-man battalion for Dalinar's army. Bridge Four becomes the Kholin family's personal guard, as well as the headquarters unit for this new battalion.
+As a result of [[Bridge Four\|Bridge Four]] saving Dalinar's men, Dalinar offers to buy all the [[Bridge crew\|bridge crew]] from Sadeas's army with 60 emerald [[Broam\|broams]] each. After being rejected, he gave up his [[Shardblade\|Shardblade]] [[Oathbringer (Shardblade)\|Oathbringer]] as price. Although some take an offer of money and freedom, most join Dalinar's army under the command of [[Kaladin\|Kaladin]], instantly creating a thousand-man battalion for Dalinar's army. Bridge Four becomes the Kholin family's personal guard, as well as the headquarters unit for this new battalion.
 Kaladin rises to unheard-of heights for a [[Darkeyes\|darkeyes]], becoming an officer at the rank of captain, in addition to commander of a [[Lighteyes\|lighteyes']] personal guard. Additionally, Kaladin advances his [[Surgebinding\|Surgebinding]] powers and path to becoming a member of the [[Knights Radiant\|Knights Radiant]] by swearing the [[Immortal Words\|Second Ideal of the Immortal Words]] during the battle.
 Dalinar, as a direct result of Sadeas's betrayal, insists on becoming the Highprince of War to manage the war directly.
 

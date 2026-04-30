@@ -2,7 +2,7 @@
 |-|-|
 |**Type**|Spacecraft|
 
-This article is for the Stormwind in Firstborn. For the Epic, see [[Stormwind (Epic)\|Stormwind (Epic)]].
+This article is for the Stormwind in Firstborn. For  the Epic, see [[Stormwind (Epic)\|Stormwind (Epic)]].
 The ***Stormwind*** was a flagship in the imperial navy.
 
 ## Appearance

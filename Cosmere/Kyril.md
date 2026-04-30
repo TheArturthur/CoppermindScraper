@@ -24,7 +24,7 @@
 He has the marbled skin of a [[Singer\|singer]]. He is stern and overbearing, and has a very short temper. Like many Fused, he may not be completely sane.
 
 ## Attributes and Abilities
-Kyril's brand of Fused is not clear, but he is capable of flying, implying that he may be a *[[Shanay-im\|shanay-im]]*.
+Kyril's brand of Fused is not clear, but he is capable of flying, implying that he may be a *[[Shanay-im\|shanay-im]]*. 
 
 ## History
 Kyril was among the Fused that was freed from [[Braize\|Braize]] towards the beginning of the [[True Desolation\|True Desolation]]. He and another Fused, who was noted to be insane, were assigned to regularly visit Celebrant to inspect ships and ensure that local [[Spren\|spren]] officials were continuing to obey the [[Voidbringer\|Voidbringers]] properly.

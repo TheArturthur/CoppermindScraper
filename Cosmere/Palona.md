@@ -1,13 +1,16 @@
 |**Palona**|
 |-|-|
 ||
+|**Spouse**|[[Turinad Sebarial\|Turinad Sebarial]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Nationality**|[[Herdazian\|Herdazian]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-**Palona** is a [[Herdazian\|Herdazian]] on [[Roshar\|Roshar]]. As the longtime mistress of [[Highprince\|Highprince]] [[Turinad Sebarial\|Turinad Sebarial]], she is effectively a member of the nobility of [[Alethkar\|Alethkar]].
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+**Palona** is a [[Herdazian\|Herdazian]] on [[Roshar\|Roshar]]. As the wife of [[Highprince\|Highprince]] [[Turinad Sebarial\|Turinad Sebarial]], she is a member of the nobility of [[Alethkar\|Alethkar]].
 
 ## Contents
 

@@ -13,7 +13,7 @@
 \-Sindren on Miles Dagouter's ideology.[1]
 
 Sindren is a short young man with big ears and wide eyes. He has an accent of a man from the Inner Seventh Octant, with a touch of millworker to it. He is nervous and a touch jumpy, and has a voice that gets squeaky when he's nervous or under pressure.
-Sindren is not a hardened criminal, nor is he particularly competent at it. Sindren was only a member of the Vanishers for a couple weeks, and so is still mostly a normal young man instead of a professional thug. In fact, he is a touch gullible. With nothing more than a disguise and a simple change of accent, Wayne was able to trick him into revealing the Vanisher's home base and the name of the man who recruited them.
+Sindren is not a hardened criminal, nor is he particularly competent at it. Sindren was only a member of the Vanishers for a couple weeks, and so is still mostly a normal young man instead of a professional thug. In fact, he is a touch gullible. With nothing more than a disguise and a simple change of accent, Wayne was able to trick him into revealing the Vanisher's home base and the name of the man who recruited them. 
 Sindren only joined the Vanishers for a bit of money, he does not care much about [[Miles Dagouter\|Miles Dagouter's]] idealogy, or getting payback from the city. He is resigned to the fact that life is unfair for the poor and lower classes.
 
 ## History

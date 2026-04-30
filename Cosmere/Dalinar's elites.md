@@ -5,6 +5,8 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“* They weren't an honor guard. Dalinar didn’t need **guards**. These were simply the men he considered competent enough not to embarrass him.*”
 \- Younger Dalinar on his elites[1]
 

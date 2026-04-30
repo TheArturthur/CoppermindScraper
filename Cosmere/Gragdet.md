@@ -44,7 +44,7 @@ Fjordell is Jaddeth's chosen tongue, and therefore is holy, and all others are t
 Only one man – the Wyrn – serves Jaddeth directly. All others serve through a chain of command (see [[/wiki/Shu-Dereth#Organization .26 Hierarchy]] for more information).
 ## Religious texts and places of worship
 Derethi scriptures are contained in the **Do-Dereth**, though they also study the text of their parent religion, the Do-Kando of [[Shu-Keseg\|Shu-Keseg]].
-The Derethi worship in chapels. These chapels are often made of stone, they are also tall and have towering spires. It is untraditional to mill about, laughing and joking, in a chapel.
+The Derethi worship in chapels. These chapels are often made of stone, they are also tall and have towering spires. It is untraditional to  mill about, laughing and joking, in a chapel.
 
 ## Organization & Hierarchy
 The religion of Shu-Dereth is very regimented, and its structure has been compared to that of a feudal government system. Followers are expected to obey the commands of their superiors, and priests are expected to give orders rather than shepherd others on the path to faith.

@@ -26,7 +26,7 @@
 
 
 ## Geography
->“*A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures.*”
+>“*A dark strip of obsidian broke the sea ahead, with quiet lights shimmering above. Not souls, but actual candles in the windows of small structures. *”
 \-A view of Nameless from the ocean[2]
 
 
@@ -39,7 +39,7 @@ The small buildings of the town are made out of [[/wiki/Shadesmar#Trade]] materi
 Spren in the town wear a mixture of different [[Physical Realm\|Physical Realm]] fashion styles that likely would not be seen in any of the human nations of [[Roshar\|Roshar]].
 
 ### Marketplace
->“*Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.*”
+>“*Traders from another land perhaps? Oh, it does happen, and more and more these days. People come in caravans seeking to trade.  *”
 \-Archinal commenting on the influx of traders into Shadesmar while in Nameless[2]
 
 
@@ -58,7 +58,7 @@ Although the town appears to be predominantly run by spren, it is not uncommon t
 At some point after his demotion as captain, Notum began to visit Nameless as part of his patrol through the area.
 In 1175, [[Adolin\|Adolin]] and the [[Urithiru\|Urithiru]] delegation stopped in Nameless on their way to [[Lasting Integrity\|Lasting Integrity]]. [[Ua'pam\|Ua'pam]] and [[Zu (Roshar)\|Zu]] arranged a campsite for the group to set up in until they were ready to continue their journey.
 The group explored the town, trading their remaining [[Stormlight\|Stormlight]] for the supplies they would need, both for their journey to Lasting Integrity, and also their return to Urithiru. While exploring the marketplace, Adolin and [[Maya\|Maya]] encountered [[Testament\|Testament]] and learned of her death at the hands of an unknown [[Shallan\|Radiant]] ten years prior.
-After their encounter, Adolin and [[Godeke\|Godeke]] attempted to approach the [[Tukari caravaneers\|Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to , Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.
+After their encounter, Adolin and [[Godeke\|Godeke]] attempted to approach the [[Tukari caravaneers\|Tukari caravaneers]] who had set up camp outside of the town. The group were antagonistic and turned the pair away. Returning to [[Unativi\|Unativi's]] barge, Adolin found Notum talking with the boat’s captain. Adolin explained his plan to Notum of how he planned to approach the honorspren, however, Notum shut down his idea, strongly believing that the honorspren would never consider his request.
 Adolin and his cohort left Nameless shortly after Notum, with the Tukari caravaneers following them out of the town.
 
 

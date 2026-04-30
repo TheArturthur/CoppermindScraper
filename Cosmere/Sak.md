@@ -1,12 +1,16 @@
 |**Sak**|
 |-|-|
 ||
-|**Abilities**|Precognition|
+|**Abilities**|Precognition, [[Worldhopper\|Worldhopper]]|
 |**Bonded With**|[[Sixth of the Dusk (character)\|Sixth of the Dusk]]|
 |**Species**|[[Aviar\|Aviar]]|
 |**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Sixth of the Dusk\|Sixth of the Dusk]]*|
+|**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
+
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Sak** is a bird that lives on the planet [[First of the Sun\|First of the Sun]] and is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]]. She is not a member of any the species known to the [[Eelakin\|Eelakin]] as [[Aviar\|Aviar]], but she becomes an Aviar after coming to [[Patji (island)\|Patji]] and gaining a magical talent.
 
@@ -28,7 +32,7 @@ Sak seems to have some understanding of verbal commands, as Dusk tells her to sh
 
 ## History
   Sak, on Dusk's right shoulder, with Kokerlii and Vathi
-Sak's species is native to the [[Mainland\|mainland]]. However, she was taken to the island of Patji by Sixth of the Dusk as a chick, likely due to her injured wing. At some point, Dusk brought Sak to [[Patji's Eye\|Patji's Eye]], where young Aviar eat parasites that live in the fruit of [[Patji's Finger\|Patji's Finger]] trees and gain various magical powers. Sak eats the parasites and becomes the first known example of a mainland bird gaining a talent. Dusk learns that Sak has a previously unknown talent that grants limited precognition; he sees his own corpse anywhere that there is impending danger (such as a trap, sinkhole, or a poisonous insect). This makes Sak invaluable since the islands of the Pantheon are incredibly dangerous. Dusk almost always has both Sak and Kokerlii with him in order to survive.
+Sak's species is native to the [[Mainland\|mainland]]. However, she was taken to the island of Patji by Sixth of the Dusk as a chick, likely due to her injured wing. At some point, Dusk brought Sak to [[Patji's Eye\|Patji's Eye]], where young Aviar eat parasites that live in the fruit of [[Cakoban's finger\|Cakoban's fingers]] and gain various magical powers. Sak eats the parasites and becomes the first known example of a mainland bird gaining a talent. Dusk learns that Sak has a previously unknown talent that grants limited precognition; he sees his own corpse anywhere that there is impending danger (such as a trap, sinkhole, or a poisonous insect). This makes Sak invaluable since the islands of the Pantheon are incredibly dangerous. Dusk almost always has both Sak and Kokerlii with him in order to survive.
 Dusk keeps Sak secret for many years, even leaving her behind when he traveled away from Patji in order to avoid questions. When he encounters [[Vathi\|Vathi]], she identifies Sak as a mainland species; she is confused as to why Dusk carries her, as she assumes that Sak is not an Aviar. Vathi later discovers that trappers often have multiple Aviar, and Dusk reveals Sak's talent and her history. Vathi is shocked and excited to learn that any bird can gain a talent, and notes that no new Aviar species or talents have been discovered in centuries.
 When the [[Northern Interests Trading Company\|Northern Interests Trading Company]] opens an Aviar detection machine given to them by the [[Ones Above\|Ones Above]], all of the Aviar on the island are disturbed, but Sak appears more affected than the others; she seems to sense the direction of the disturbance and takes longer to recover. Her precognition abilities are temporarily overwhelmed, and Dusk realizes she is seeing the death of the entire island. After some time, Sak is able to filter out some of the visions and resume showing Dusk only immediate danger. She and Kokerlii accompany Dusk and Vathi on a perilous nighttime journey through the jungle to the Company's fortress. Sak appears to take a liking to Vathi, and flies to her after Vathi recognizes the danger of the Ones Above.
 

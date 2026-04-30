@@ -6,6 +6,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 The **Bronze Palace** is the seat of the government of [[Azir\|Azir]] and the home of the Azish emperor, the [[Prime Aqasix\|Prime Aqasix]].
 
 ## Location and Appearance

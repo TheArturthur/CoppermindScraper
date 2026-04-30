@@ -61,6 +61,7 @@ Stonestance is a form that relies on raw power. The stance involves holding the 
 
 ### Other stances
 There are three more stances, corresponding to the [[Ten Essences\| Essences]] of Tallow, Lucentia and Sinew; however, they have not as of yet been featured in the books. In addition, [[Singer\|Singers]] may use stances unfamiliar to humans.
+There are stances dedicated to use with hammers, such as Mountainstance. It is not known whether these form part of the ten stances, or whether there are another set of stances for hammers. It is not known if it is just swords and hammers, which are the two most prominently used weapons with Shardplate, or if there are stances for many other types of weapons.
 
 
 

@@ -40,7 +40,7 @@ Besk accompanied Kai to investigate the first Border State that appeared. He aid
 Once Kai is in [[Maltese\|Maltese]], Besk communicates with the [[Liveborn\|Liveborn]] telepathically. Through this communication method, Besk is able to help Kai understand the Communal State better, thanks in part to research he had done beforehand.
 
 ## Appearance and Personality
-Besk's appearance and personality are heavily influenced by his [[Concept\|Concept]]. His looks are described as being troll-like; his limbs seem too long, robes too stiff, and his face is expressionless. He also has painted on eyebrows.
+Besk's appearance and personality are heavily influenced by his [[Concept\|Concept]]. His looks are described as being troll-like; his limbs seem too long, robes too stiff, and his face is expressionless. He also has painted on eyebrows. 
 Besk is a very intelligent man, and is willing to disobey Kai when necessary, something Kai feels no one else in the State would do. He's also incredibly clever, capable of turning even the most unlikely conversations into topics proving his point. He seems to enjoy mental math, and attempts to use logic to solve conflicts when possible.
 
 ## Quotes

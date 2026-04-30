@@ -14,7 +14,7 @@ Dawnslight causes very sturdy roots to grow around the bases of the buildings. E
 When he is not dreaming, he is aware of the world around him, but he sometimes has trouble distinguishing when he's dreaming or not.
 
 ## History
-While Dawnslight was very young, and before obtaining his powers, he fell into a life-long coma. He turned Babilar into a fanciful paradise, turning his childhood dreams into reality. He was treated by a doctor in the same room as [[Regalia\|Regalia]].
+While Dawnslight was very young, and before obtaining his powers, he fell into a life-long coma. He turned Babilar into a fanciful paradise, turning his childhood dreams into reality. He was treated by a doctor in the same room as [[Regalia\|Regalia]]. 
 Dawnslight briefly made contact with David when he's in Babilar, and later helped him escape from Regalia by turning off all the lights in the area. When Regalia caught up to David and attacked him with tendrils of water, Dawnslight used plant roots to soak up the water and stop her attacks.
 
 

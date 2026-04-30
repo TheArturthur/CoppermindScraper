@@ -27,7 +27,7 @@ A group of varvax were ordered to capture and secure the surrender of the [[Defi
 Varvax are actually small creatures that float in a nutrient bath. They are surrounded by a large, inorganic exoskeleton that contains quartz and granite. When speaking, they create clicks and snaps with their claws and use many hand gestures. They are described as wearing bright colors, having red eyes, and looking like crabs. They seem to have a living apparatus with open plates of the "head" portion for them to see out of as a kind of armor.
 
 ## Culture
-Outwardly, the varvax are incredibly peaceful, going so far as to shrug off one of the apparent murder of one of their ambassadors. Not all varvax agree, however, and any dissenters are imprisoned and their cytonic abilities suppressed so as to enforce the peace of the galaxy.
+Outwardly, the varvax are incredibly peaceful, going so far as to shrug off the apparent murder of one of their ambassadors. Not all varvax agree, however, and dissenters are imprisoned. The varvax also suppress their cytonic abilities so as to enforce the peace of the galaxy.
 
 ## History
 ### Before the Human Wars

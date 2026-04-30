@@ -12,7 +12,7 @@
 \-Alabet, after Kaladin fells the unnamed Shardbearer.[2]
 
 
-**Alabet** is a darkeyed soldier in [[Amaram\|Amaram's]] army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] He is one of the four survivors of [[Kaladin\|Kaladin's]] squad--along with [[Hab\|Hab]], [[Reesh\|Reesh]], and [[Coreb\|Coreb]]--after the attack of [[Helaran Davar\|Helaran Davar]]. Kaladin kills the Shardbearer, but refuses the Shards.
+**Alabet** is a darkeyed soldier in [[Amaram\|Amaram's]] army in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]] He is one of the four survivors of [[Kaladin\|Kaladin's]] squad--along with [[Hab\|Hab]], [[Reesh\|Reesh]], and [[Coreb\|Coreb]]--after the attack of [[Helaran Davar\|Helaran Davar]]. Kaladin kills the Shardbearer, but refuses the Shards. 
 Later, Amaram betrays Kaladin, and Alabet and Hab have their knives out, but one of Amaram's guards slays Hab and two cut down Alabet.
 
 

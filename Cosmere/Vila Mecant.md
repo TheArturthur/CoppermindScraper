@@ -4,10 +4,10 @@
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Vila Mecant** is a [[Coinshot\|Coinshot]] from Scadrial and an antagonist of [[Nicki Savage\|Nicki Savage]].
-She wanted the 'Compass of Spirits' for herself and so stole it from Nicki and her companions but forgot the key in the process. Nicki came up with a plan to catch up to Vila in time and correctly deduced that Vila was planning to find them again in order to retrieve the key, the pair fought while clinging onto the wings of an ornisaur. Nicki leeched Villa's steel reserves and won the battle, managing to catch Vila before she fell. In response, Vila punched Nicki in the face, causing her to instinctively let go of Vila, which caused her to plummet.
+
+## History
+During or shortly before the year 348 PC, upon hearing of the [[Compass of Spirits\|Compass of Spirits]], Vila chased Nicki Savage. During their confrontation, Vila managed to pocket the item and throw herself off of a stone outcropping, escaping into the night’s mist. However, she still missed the [[Aluminum\|aluminum]] key to activate the device. Deciding that her best chance to get the key was to ambush Nicelle, Vila waited for Nicki, who had mounted an Ornisaur created by her two Kandra companions, to enter the mists. As soon as she did, Vila emerged and collided with her in mid-air, the pair fought until Nicki clocked Vila across the face, managing to leech her steel reserves. Shocked that she had no way to escape, or rather any attempt to escape ending with a fall and certain death, Vila forgot to hold on to the Ornisaur. She almost fell, but Nicki managed to catch her. In response, Vila punched Nicki in the face, causing her to instinctively let go of Vila, which caused her to plummet. During her fall, she also lost the compass. It is unknown whether or not she survived the fall.
 
 
 

@@ -5,7 +5,7 @@
 |**Abilities**|[[Shard\|Shard]] of [[Preservation\|Preservation]]|
 |**Titles**|[[Preservation\|Preservation]]|
 |**Aliases**|Mist Spirit, Fuzz, Terr, Frue|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], [[Preservers\|Preservers]]|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
@@ -24,7 +24,7 @@
 1. [[#Personality]] 
 
 
-2 Attributes and Ability. [[#Attributes and Ability]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 4 Relationships. [[#Relationships]] 
 
@@ -42,8 +42,8 @@
  
 ### Appearance
 For more images, see [[Leras/Gallery\|/Gallery]].
-Leras is a short man, by Scadrian standards, with black hair and a prominent nose. In [[Cognitive Realm\|Cognitive Realm]], he appears wearing a thin wool coat that reaches almost to his feet, as well as a laced tunic with a conical skirt at the bottom, tied by a belt holding a [[Leras' knife\|knife]] with a handle of bone. As his final death approaches, his form begins to unravel, and parts of him begin to fall apart into mist. At a certain point, half of his face is missing, replaced by fading white smoke, with holes in other parts of his body and clothing. This does not impact his ability to speak or perceive his environment. Occasionally, his silhouette will fully unfold, revealing a skeleton beneath. Looking into this form's eyes while holding any power allows one to perceive the full nature of Preservation -- an expanse of infinity, frozen still in a single moment.
-When appearing in the physical realm, Leras takes the form of the [[Mist\|mist]] spirit; a silhouette outlined in [[Scadrial\|Scadrial's]] omnipresent mists. Though roughly humanoid, he is difficult to distinguish from the fog, at least until he starts moving. He cannot speak in this form, but he can move around and point, as well as interact with objects in a limited capacity.
+Leras is a short man, by Scadrian standards, with black hair and a prominent nose. In the [[Cognitive Realm\|Cognitive Realm]], he appears wearing a thin wool coat that reaches almost to his feet, as well as a laced tunic with a conical skirt at the bottom, tied by a belt holding [[Leras's knife\|a knife]] with a handle of bone. As his final death approaches, his form begins to unravel, and parts of him begin to fall apart into mist. At a certain point, half of his face is missing, replaced by fading white smoke, with holes in other parts of his body and clothing. This does not impact his ability to speak or perceive his environment. Occasionally, his silhouette will fully unfold, revealing a skeleton beneath. Looking into this form's eyes while holding any power allows one to perceive the full nature of Preservation -- an expanse of infinity, frozen still in a single moment.
+When appearing in the physical realm, Leras takes the form of the [[Mist\|mist]] spirit, a silhouette outlined in [[Scadrial\|Scadrial's]] omnipresent [[Mist\|mists]]. Though roughly humanoid, he is difficult to distinguish from the fog, at least until he starts moving. He cannot speak in this form, but he can move around and point, as well as interact with objects in a limited capacity.
 
 ### Personality
  
@@ -52,19 +52,21 @@ When appearing in the physical realm, Leras takes the form of the [[Mist\|mist]]
 
 
 When he is cognizant, Leras is often sarcastic and sardonic. He gets easily excited over things he adores, like the [[Lord Ruler\|Lord Ruler]], and will often pace when thinking, full of energy. He likes people who accomplish the impossible, especially when it involves their own survival. He was once able to be cunning, and even deceitful, when needed, but seems to have lost this capacity over time.
-Leras has a strong sense of duty towards Scadrial and its people, and continues to maintain his appointed tasks, such as welcoming the recently-deceased, even as he is dying. He treats his divinity seriously, and attempts to impart this seriousness upon others. The same means he dislikes being mocked, and is highly offended when suggested to act in a way opposing to his Intent. He can also get incensed when people do not follow their roles, and gets angry when his function as Scadrial's god is questioned or usurped.
+Leras has a strong sense of duty towards Scadrial and its people, and continues to maintain his appointed tasks, such as welcoming the recently deceased, even as he is dying. He treats his divinity seriously, and attempts to impart this seriousness upon others. The same means he dislikes being mocked, and is highly offended when suggested to act in a way opposing to his Intent. He can also get incensed when people do not follow their roles, and gets angry when his function as Scadrial's god is questioned or usurped.
 As he is dying, Leras is often unfocused and has difficulties thinking and remembering, or even participating in an ongoing conversation. His abilities in this regard increase somewhat when he starts regularly interacting with [[Kelsier\|Kelsier]], and by his death, he is able to communicate coherently, though it's uncertain if his memories ever fully returned to him before his passing.
-He appreciates permeance and lack of change, to the extent that he supported Rashek and the [[Final Empire\|Final Empire]], despite the fact it engaged in slavery, genocide, and eugenics. Not due to the fact that he agrees with what they do, but rather due to the fact that it preserved for a thousand years.
+He appreciates permanence and lack of change, to the extent that he supported Rashek and the [[Final Empire\|Final Empire]], despite the fact it engaged in slavery, genocide, and eugenics. Not due to the fact that he agrees with what they do, but rather due to the fact that it was preserved for a thousand years.
 
-## Attributes and Ability
+## Attributes and Abilities
 >“*Yes, there was a plan. I . . . remember I had a plan. When I was smarter . . .*”
 \-Leras[11]
 
 
   Leras's death
-Leras is a [[Vessel\|Vessel]] of a [[Shard\|Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm\|Physical Realm]]. During the events immediately before the [[Catacendre\|Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time. He has trouble keeping a humanoid appearance even in the [[Cognitive Realm\|Cognitive Realm]], and parts of him can only appear as tendrils of mist. He's also technically a [[Cognitive Shadow\|Cognitive Shadow]]; a fading imprint of mind and memory on the power of [[Preservation\|Preservation]].
+  The death of Leras
+
+Leras is a [[Vessel\|Vessel]] of a [[Shard\|Shard]]; as such, he is unaging, nigh-omniscient within his sphere of influence, and lacking a distinct form in the [[Physical Realm\|Physical Realm]]. During the events immediately before the [[Catacendre\|Catacendre]] he is, however, functionally dead, having been mortally wounded and dying for millennia. As such, he is slowly unraveling. He lacks significant fragments of his memories, has trouble focusing, and is only lucid for short periods of time. He has trouble keeping a humanoid appearance even in the [[Cognitive Realm\|Cognitive Realm]], and parts of him can only appear as tendrils of mist. He's also technically a [[Cognitive Shadow\|Cognitive Shadow]], a fading imprint of mind and memory on the power of [[Preservation\|Preservation]].
 As the Vessel of Preservation, Leras processed some of the best future sight in the [[Cosmere\|cosmere]]. He was able to accurately predict events for thousands of years in the future, even with interference from [[Ruin\|Ruin]]. This allowed him to make long-term, large-scale plans and trust them to work out properly, even if he himself forgets what the plan was in the first place.
-The form he takes in the Cognitive Realm carries on it a [[Leras' knife\|knife with bone handle]]. He refers to it as his old friend, and his first instinct when threatened is to reach for it, suggesting he was once at least moderately capable with it. However, by the time of the [[Final Empire\|Final Empire]] he finds harming other beings almost impossible.
+The form he takes in the Cognitive Realm carries on it a knife. He refers to it as his old friend, and his first instinct when threatened is to reach for it, suggesting he was once at least moderately capable with it. However, by the time of the [[Final Empire\|Final Empire]] he finds harming other beings almost impossible.
 
 ## History
  

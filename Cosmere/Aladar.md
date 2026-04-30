@@ -12,6 +12,9 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+This page contains information for Highprince Aladar. For information regarding the princedom in Alethkar, see [[Aladar princedom\|Aladar princedom]].
 **Aladar** is a [[Highprince\|highprince]] of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. His [[Aladar princedom\|princedom]] is one of the northernmost in Alethkar, the symbol of which takes the shape of a chull. His colors are black and maroon, and he commands one of the largest armies on the [[Shattered Plains\|Shattered Plains]]. His personal guard are called the [[Blackcaps\|Blackcaps]].
 
 ## Contents
@@ -24,10 +27,16 @@
 2. [[#Urithiru]] 
 2. [[#Battle of Thaylen Field]] 
 2. [[#The Emuli campaign]] 
+2. [[#Azimir]] 
 
 
-3 Trivia. [[#Trivia]] 
-4 Notes. [[#Notes]] 
+3 Relationships. [[#Relationships]] 
+
+3. [[#May Aladar]] 
+
+
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -84,7 +93,14 @@ When the [[Battle of Thaylen Field\|Battle of Thaylen Field]] commenced, Aladar 
 Following the Battle of Thaylen Field, Aladar continues to reinforce Dalinar's trust in him.
 
 ### The Emuli campaign
-During Dalinar's campaign in [[Emul\|Emul]]. Aladar was assigned to oversee the withdrawal in Alethkar.
+During Dalinar's campaign in [[Emul\|Emul]], Aladar was assigned to oversee the withdrawal in Alethkar.
+
+### Azimir
+Adolin requested scribes from Highprince Aladar to fill in for Shallan during the [[Battle of Azimir\|Battle of Azimir]], so Aladar sent his best, including his daughter, May. Aladar himself shows up for a brief time with his daughter, and before leaving, he has a conversation with Adolin. Aladar expresses gratitude at what the Kholin family has established, stating he was nothing but selfish during the time at the Shattered Plains.
+
+## Relationships
+### May Aladar
+Aladar used to find it embarrassing his daughter participated in archery as it made her seem unladylike, however he has opened up to allowing it, although he is still concerned about her practicing with her House's Plate and Blade.
 
 ## Trivia
 In *[[Words of Radiance\|Words of Radiance]]*, Aladar's colors are described once as being "white and dark green"; this is likely a mistake, as those colors are otherwise associated with [[Torol Sadeas\|Torol Sadeas']] army, and Aladar's are otherwise consistently described as black and maroon.

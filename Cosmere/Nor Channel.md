@@ -4,7 +4,7 @@
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Nor Channel** is a location in the [[Sea of Lost Lights\|Sea of Lost Lights]]. It is north of [[Emberdark\|Emberdark]].
+**Nor Channel** is a location in the [[Sea of Lost Lights\|Sea of Lost Lights]]. It is north of [[Emberdark (settlement)\|Emberdark]].
 In the [[Physical Realm\|Physical Realm]], the Nor Channel appears to lie on a river that [[Rashir\|Rashir]] lies on.
 
 

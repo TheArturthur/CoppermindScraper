@@ -5,6 +5,8 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Siah Aimians** are a non-human race of beings that originated in the [[Silver Kingdoms\|Silver Kingdom]] of [[Aimia\|Aimia]] on [[Roshar\|Roshar]].
 
 ## Contents
@@ -29,7 +31,7 @@ Likely due to their long life, Siah appear to be able to speak multiple language
 ## History
 Siah Aimians and the [[Sleepless\|Sleepless]] (also known as Dysian Aimians) both lived in Aimia prior to the [[Scouring of Aimia\|scouring of Aimia]], which has been characterized by [[Hessi\|Hessi]] as "total destruction". The two races are not related. Although Axies thinks it has not been long since the scouring, he later considers "a few centuries" to be a relatively short amount of time. Little is known about the current state of Aimia.
 The etymology of "Siah" and "Dysian" is not known. Both races of Aimians still reside on Roshar and have been seen in various parts of the continent.
-Axies refers to his bad luck that is a result of the "Curse of Kind", but it is not clear what the curse is or whether it affects all Siah.
+Axies refers to his bad luck that is a result of the "[[Curse of Kind\|Curse of Kind]]", but it is not clear what the curse is or whether it affects all Siah.
 
 ## Relationships with Other Races
 ### Humans

@@ -38,7 +38,7 @@ Images of Jakamav
 
 
  Jakamav maintaining his appearance
-
+			
 
 
 
@@ -50,7 +50,7 @@ Images of Jakamav
 
 
  Jakamav enjoying wine after a plateau battle
-
+			
 
 
 ## History

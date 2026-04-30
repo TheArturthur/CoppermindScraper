@@ -1,7 +1,5 @@
 |**Zen-daughter-Vath**|
 |-|-|
-|**Family**|
-|**Parents**|Vath|
 |**Profession**|Scholar|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|

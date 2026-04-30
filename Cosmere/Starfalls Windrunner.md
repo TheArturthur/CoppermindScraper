@@ -28,7 +28,7 @@ The **Starfalls Windrunner** was a [[Knights Radiant\|Knight Radiant]] who appea
 He wears Plate that glows with blue light and has glyphs etched into the metal which trails blue vapor, presumably indicating that he is from the Order of [[Windrunner\|Windrunners]]. He has dark brown skin and short black hair. His eyes are of a bright blue, almost white.
 
 ## Attributes and Abilities
-The Starfalls Windrunner could fly. When Dalinar first got sight of him, he only saw a bright blue light falling from the sky, unfolding itself and becoming the Starfalls Windrunner who immediately got attacked by the Midnight Essences. After the fight, Dalinar found him without his helmet, not knowing when he might have put it off or where it had gone. When Heb and his family were safe, he turned toward the nearest village, feeling his help was needed there too, and then launched into the air heading for this village.
+The Starfalls Windrunner could fly. When Dalinar first got sight of him, he only saw a bright blue light falling from the sky, unfolding itself and becoming the Starfalls Windrunner who immediately got attacked by the Midnight Essences. After the fight, Dalinar found him without his helmet, not knowing when he might have put it off or where it had gone. When Heb and his family were safe, he turned toward the nearest village, feeling his help was needed there too, and then launched into the air heading for this village. 
 
 ## History
 He and his female companion rescued Dalinar's embodiment [[Heb\|Heb]] and his family from the attacking [[Midnight Essence\|Midnight Essences]]. After the fight, the Windrunner was impressed by Heb's (Dalinar's) fighting abilities, though he found them strange. He invited Dalinar to come to [[Urithiru\|Urithiru]] to further his abilities and probably become a Knight Radiant.
@@ -42,7 +42,7 @@ He and his female companion rescued Dalinar's embodiment [[Heb\|Heb]] and his fa
 \-Starfalls Windrunner
 
 
-The female Knight repeated this announcement, too.
+The female Knight repeated this announcement, too. 
 
 >“*[[Harkaylain\|Harkaylain]] says the Desolation is close, and he is not often wrong.*”
 \-The female Knight

@@ -6,9 +6,9 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*They were destruction made manifest, Brightlord. Each one was so profoundly devastating that humankind was left broken. Populations ruined, society crippled, scholars dead. Humankind was forced to spend generations rebuilding after each one.*”
+>“*They were destruction made manifest, Brightlord. Each one was so profoundly devastating that humankind was left broken. Populations ruined, society crippled, scholars dead. Humankind was forced to spend generations rebuilding after each one. *”
 \-Kalami describing a Desolation[1]
 
 
@@ -70,7 +70,9 @@ Some of the singers that were killed by the invading humans were infused with po
 
 ### Historical Desolations
   An in-world artist's depiction of a Desolation by <<Greg Call\|Greg Call>>
-The coming of a Desolation was announced by the appearance of the Ten Heralds. The appearance of [[Midnight Essence\|Midnight Essence]] was also a sign of an upcoming Desolation. A Desolation began when the Fused returned to Roshar, known as the **Return**. Each Return, Fused needed to find singers willing to give the Fused their bodies. One of the Desolations lasted eleven years. There were not many more than fifteen Desolations total. A Desolation ended with the Heralds leaving Roshar and returning to Braize. The Heralds had a fixed period of time they could remain on Roshar. If they exceeded it, a new Desolation would start.
+The coming of a Desolation was announced by the appearance of the Ten Heralds. The appearance of [[Midnight Essence\|Midnight Essence]] was also a sign of an upcoming Desolation. A Desolation began when the Fused and Heralds returned to Roshar, known as the **Return**. Each Return, Fused needed to find singers willing to give the Fused their bodies. One of the Desolations lasted eleven years. There were not many more than fifteen Desolations total.
+A Desolation ended with the Heralds leaving Roshar and returning to Braize. This would begin the process of sealing away the Fused, known as an Isolation.
+The Heralds had a fixed period of time they could remain on Roshar. If they exceeded it, a new Desolation would start.
 
 ### Between Desolations
 >“*In the aftermath of each one, mankind was broken. Great cities in ashes, industry smashed. Each time, knowledge and growth were reduced to an almost prehistoric state.*”
@@ -87,10 +89,10 @@ At the end of what is called the [[Last Desolation\|Last Desolation]], nine of t
 ### The False Desolation
 
 >“*Something must be done about the remnants of Odium’s forces. The parsh, as they are now called, continue their war with zeal, even without their masters from Damnation.*”
-\-Drawer 30-20, first emerald[27]
+\-Drawer 30-20, first emerald[28]
 
-Unlike previous Desolations, the [[False Desolation\|False Desolation]] did not involve the Heralds or Fused. The False Desolation began when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them  and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
-Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because Ba-Ado-Mishram had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.
+Unlike previous Desolations, the [[False Desolation\|False Desolation]] did not involve the Heralds or Fused. The False Desolation began when [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] learned how to [[Connection\|Connect]] with the majority of the singers, giving them [[/wiki/Regal#Known Forms of Power]] and access to [[Voidlight\|Voidlight]]. The Radiants, unaware of how she did this, sought a way to end the fighting for good, as the Heralds had promised them. The fighting became particularly intense at this time, as the singers made a push towards [[Feverstone Keep\|Feverstone Keep]], possibly as part of a plan to capture [[Rall Elorim\|Rall Elorim]].
+Working together, the scholars among the Radiants theorized that an [[Unmade\|Unmade]] could be imprisoned like a regular [[Spren\|spren]]. That devised a plan to trap Ba-Ado-Mishram and prevent her from Connecting  with the singers and providing them with Voidlight. This plan would require [[Melishi\|Melishi]], the only [[Bondsmith\|Bondsmith]] of his generation, and a special prison, likely a [[Perfect gemstone\|perfect gemstone]]. Although Melishi was confident the plan would succeed in destroying the Voidbringers, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] warned of unintended side effects. Although the plan seems to have succeeded, as Ba-Ado-Mishram has not been seen in modern times unlike other Unmade, Naze-daughter-Kuzodo's warning was correct. Because Ba-Ado-Mishram had been Connected to all the singers, their Connection and [[Identity\|Identity]] was torn out of them, creating slaveform or parshmen. The Radiants' horror for what happened likely contributed to the Recreance.
 
 ### The True Desolation
 
@@ -100,7 +102,7 @@ The True Desolation began approximately two thousand years after the False Desol
 ### Fabrials
 
 >“*All this time we’ve been assuming that we lost great technology in the Desolations, but it seems we are far, far more advanced than the ancients ever were.*”
-\-Jasnah Kholin about fabrials[39]
+\-Jasnah Kholin about fabrials[40]
 
 
 During the ancient Desolations, mankind did not have access to the modern [[Fabrial\|fabrials]] and fabrial knowledge that is currently known on [[Roshar\|Roshar]]. The only fabrials they had access to were ancient fabrials. These fabrials seem to work through a mutual agreement with a sentient spren rather than trapping a spren in a gemstone. The vast majority of fabrials seem to replicate Surges and were used in a support position rather than actual combat. The [[Oathgate\|Oathgates]] utilizes the Surge of Transportation to allow instantaneous travel across the continent. Healing fabrials use the Surge of Progression to heal wounds and seem to have been carried often by Radiants on patrol. Although it is not currently known how these fabrials were created, [[Aimia\|Aimia]] could have been involved as that is where [[Soulcasting\|Soulcasting]] fabrials originated. [[Urithiru\|Urithiru]] is a giant fabrial powered by the [[Sibling\|Sibling]].

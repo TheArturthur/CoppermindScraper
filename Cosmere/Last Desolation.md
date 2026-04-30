@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The stories are wrong, aren’t they? We didn’t defeat the enemy for good, as the Heralds claimed. They **lied**.*”
 \-Dalinar to the Stormfather[1]

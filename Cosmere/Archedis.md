@@ -21,7 +21,7 @@
 
 
 ## History
-Archedis, [[Draulin\|Draulin]] and an elderly bearded Crystin granted [[Bastille\|Bastille]] her knighthood and gave her her first assignment six months before the events of [[The Knights of Crystallia\|The Knights of Crystallia]]. After her sword was broken by Alcatraz and she ended up handling her mother's sword during the adventure in the [[Library of Alexandria\|Library of Alexandria]], she was put on trial. During the trial he is skeptical of Alcatraz's claim that he broke Bastille's sword, but wary enough not to hand his over. When it is time for the three to pass judgement, he decides on the following:
+Archedis, [[Draulin\|Draulin]] and an elderly bearded Crystin granted [[Bastille\|Bastille]] her knighthood and gave her her first assignment six months before the events of [[The Knights of Crystallia\|The Knights of Crystallia]].  After her sword was broken by Alcatraz and she ended up handling her mother's sword during the adventure in the [[Library of Alexandria\|Library of Alexandria]], she was put on trial. During the trial he is skeptical of Alcatraz's claim that he broke Bastille's sword, but wary enough not to hand his over.  When it is time for the three to pass judgement, he decides on the following:
 
 >“*The young Smedry's speech has moved me. Perhaps we have been hasty. I vote to suspend knighthood, but not remove it. Bastille's taint of another's sword must be cleansed, but I believe one week to be too harsh. One day [severed from the [[Mindstone\|Mindstone]]] should suffice.*”
 \-Archedis[1]

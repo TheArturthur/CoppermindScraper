@@ -5,7 +5,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 > [!info] This page needs urgent attention!It has serious flaws, such as lack of clarity; contains placeholders; or is otherwise critically incomplete.
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Identity** is a [[Spiritual Realm\|Spiritual]] attribute within the [[Cosmere\|cosmere]] that demarcates one being from another for the purposes of [[Investiture\|Investiture]]. It acts as a sort of spiritual DNA, and it functions together with [[Connection\|Connection]] in order to form a link to various forms of Investiture.
 
@@ -28,7 +28,8 @@
 
 
 ## Mechanics and interactions
-Across the cosmere, use of magic is tied to the user's Identity, and power stored by one person is hard to access by a different person (though it is possible, albeit *extremely* unlikely, for two people to have matching Identity by chance). This restriction is the reason, for example, that [[BioChromatic Breath\|Breaths]] stored or [[Metalmind\|metalminds]] charged by one person cannot be used by anyone else. However, if someone "blanks" their Identity and stores power, it becomes easier for others to use that power (especially other blanked people, but potentially also non-blanked people, depending on the magic system).
+Across the cosmere, use of arcana is tied to the user's Identity, and power stored by one person is hard to access by a different person. This restriction is the reason, for example, that [[BioChromatic Breath\|Breaths]] stored or [[Metalmind\|metalminds]] charged by one person cannot be used by anyone else. However, if someone "blanks" their Identity and stores power, it becomes easier for others to use that power (especially other blanked people, but potentially also non-blanked people, depending on the magic system).
+Investiture itself has Identity, and it can be blanked of this Identity.
 
 ### Feruchemy
 In [[Feruchemy\|Feruchemy]], Identity is stored in [[Aluminum\|aluminum]]. To effectively use aluminum, one must have Feruchemical access to at least one metal besides aluminum. By storing Identity in aluminum and then filling another metalmind, they create an "unkeyed" metalmind that can be used by any Feruchemist. One example is in [[The Bands of Mourning\|The Bands of Mourning]]: [[Wax\|Wax]] finds a gold bracelet filled with healing power that [[Wayne\|Wayne]], a gold Ferring, can access, Wax cannot. Through a method that has not yet been fully revealed, but which builds on unkeyed metalminds, it is also possible to create an [[Unsealed metalminds\|"unsealed" metalmind]] of [[Investiture\|Investiture]], which *anyone* can use to access Feruchemical power; the [[Southern Scadrial\|Southern Scadrial]] medallions are an example.
@@ -46,7 +47,8 @@ Like with Feruchemy, Breaths that have been put into an object are keyed to the 
 Storing Identity makes one more susceptible to being affected by many things in the cosmere, including [[Forgery\|Forgery]]. When a human is soulstamped, the transformation lasts a relatively short period of time, and the best crafted stamps last approximately a day. This is due to the fact that the Identity of a person, as opposed to an object, is constantly growing, changing and shifting.
 
 ### Shallan
-There is a "pretty tenuous" link between Identity and the different parts of Shallan.
+Shallan is able to absorb other Radiant's Surgebinding, such as absorbing the Stormlight Lashing her in place by the Windrunner [[Drehy\|Drehy]]. She appears to be doing this by mimicking his Identity.
+There is a "pretty tenuous" link between Identity and the different aspects of Shallan.
 
 ### Singer forms
 Identity and Connection are involved with the [[Singer\|singers']] ability to [[/wiki/Singers#Forms]]. If a singer's Identity and Connection is stolen, they will change into slaveform.

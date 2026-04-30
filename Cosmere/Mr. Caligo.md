@@ -6,4 +6,7 @@ The following link contains major spoilers for the *[[Dark One Book 1\|Dark One 
 [[Malmahan\|SPOILERS AHEAD]]
 
 
+
+
+
 https://coppermind.net/wiki/Mr._Caligo

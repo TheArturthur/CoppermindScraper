@@ -6,8 +6,6 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 The **Elendel Basin** is a lush, fertile basin created by [[Harmony\|Harmony]] when he reshaped [[Scadrial\|Scadrial]] as part of the [[Catacendre\|Catacendre]]. It was purposefully designed to allow civilization to build itself back up over just a couple of generations. It is named after [[Elend\|Elend]].
 
 ## Contents
@@ -21,29 +19,35 @@ The **Elendel Basin** is a lush, fertile basin created by [[Harmony\|Harmony]] w
 
 
 2 Politics. [[#Politics]] 
-3 People. [[#People]] 
-4 Footnotes. [[#Footnotes]] 
-5 Notes. [[#Notes]] 
+3 Economy. [[#Economy]] 
+
+3. [[#Currency]] 
+
+
+4 People. [[#People]] 
+5 Footnotes. [[#Footnotes]] 
+6 Notes. [[#Notes]] 
 
 
 ## Geography and Ecology
 ### Geography
-The land of the Basin is almost perfectly circular, with the exception of the western coastline on the [[Sea of Yomend\|Sea of Yomend]] and the [[Sea of Lennes\|Sea of Lennes]]. Several mountain ranges define the outer edge of the Basin: the [[Channerel Range\|Channerel Range]] to the northwest, the [[Faleast Range\|Faleast Range]] to the northeast, and the [[Seran Range\|Seran Range]] to the southeast. There are passes leading through these mountains out into the rugged frontier lands known as the [[Roughs\|Roughs]]. The topography of the basin is generally flat and open, although some forested areas exist.
+The land of the Basin is almost perfectly circular, with the exception of the western coastline on the [[Sea of Yomend\|Sea of Yomend]] and the [[Sea of Lennes\|Sea of Lennes]]. Several mountain ranges define the outer edge of the Basin: the [[Channerel Range\|Channerel Range]] to the northwest, the [[Faleast Range\|Faleast Range]] to the northeast, and the [[Seran Range\|Seran Range]] to the southeast. There are passes leading through these mountains out into the rugged frontier lands known as the [[Roughs\|Roughs]]. The topography of the Basin is generally flat and open, although some forested areas exist. The eastern part of the Basin, at least, is flat enough to have flooded before upon the sabotage of the [[Corbeau\|Corbeau]] Dam. That area also produces much of the Basin's grain.
 The Basin's coastline matches up with the coastline in known maps of the [[Final Empire\|Final Empire]]. The peninsula that contains [[Bilming\|Bilming]] can be seen on Final Empire maps, just west of the [[Ashmount\|Ashmount]] Doriel.
-It is situated somewhat north of the equator.
+The Basin is situated somewhat north of the equator.
 
 ### Elendel
 The Basin largely revolves around the city of [[Elendel\|Elendel]]. The city is located near the center of the Basin and serves as a major port on the Sea of Yomend. The Basin's rivers, including the large [[Irongate River\|Irongate River]], are laid out like spokes on a wheel such that they each run through Elendel. Similarly, railway lines loosely mirror the paths of the rivers and almost every line runs through the capital. Elendel itself is roughly circular and divided into octants by large canals, with suburbs that lie outside of the urban core that blend into an agricultural area known as the [[Outer Estates\|Outer Estates]].
 Elendel defines the prime meridian.
 
 ### Outer Cities
-Other cities in the Basin are collectively referred to as the "outer cities". Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents.
+The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement. Cities in the Basin outside of Elendel are collectively referred to as the "outer cities."  Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents.
 Notable outer cities labeled on known maps include the following:
 
 
 [[Alendel\|Alendel]]
 [[Bilming\|Bilming]]
 [[Dazarlomue\|Dazarlomue]]
+[[Demoux\|Demoux]]
 [[Doxonar\|Doxonar]]
 [[Doriel (city)\|Doriel]]
 [[Dryport\|Dryport]]
@@ -68,10 +72,18 @@ Common domesticated animals include horses, cats, and dogs. Cows, pigs, and chic
 ## Politics
 The Basin functions as a de facto nation; Elendel's economic hegemony has allowed it to influence policy throughout the Basin, largely through taxation. The Basin itself was created by Harmony with canals and rivers running towards Elendel like the spokes of a wheel. New cities cropped up along the canals, but the canals only run to and from Elendel. When the first railways were laid, they followed the paths of the canals. Therefore, any city that wishes to trade goods with any city other than along its own spoke has to trade through Elendel, which places tariffs on many of these goods.
 Since Elendel remains the only city wealthy enough to create and maintain railways, the outer cities lack the resources to make themselves independent. Although Elendel is considered the capital of the Basin, each city is administered locally and is not directly governed by Elendel. However, the city governments still feel constrained by their economic dependence on the capital. They have requested new railways to connect the main lines, but have been repeatedly denied by the seat of power in Elendel. These cities therefore believe they are being taxed twice to transport their goods: they pay levies to maintain the railways and canals, and then pay nearly unavoidable tariffs to ship their goods using these methods.
-Additionally, many citizens of Elendel remain ignorant of life in the outer cities, in some cases openly mocking their innovations. The taxation and disrespect has led to extreme animosity from the outer cities, and talk of possible civil war that could lead to a fracture nation of city-states.
+Additionally, many citizens of Elendel remain ignorant of life in the outer cities, in some cases openly mocking their innovations. The taxation and disrespect has led to extreme animosity from the outer cities, and talk of possible civil war that could lead to a fracture nation of city-states. By the third century, a number of new towns have sprung up in the south of the Basin. However, between the years 348 [[Catacendre\|PC]] and 350 [[Catacendre\|PC]], the Basin united, with a National Assembly to represent all cities equally.
+
+## Economy
+### Currency
+The people of the Basin (and the Roughs) retain the same currency used during the Final Empire, that being boxings and clips. There are one hundred clips in a boxing. "Notes," presumably printed banknotes, are also used, though it is unknown what their relationship is to the aforementioned currency denominations.
+It is unknown whether boxings are still officially known as Imperials.
+One of the denominations of coin has a picture of the [[Spook\|Lord Mistborn]] with his left arm pointing to the Basin on the obverse, with a picture of the [[First Central Bank\|First Central Bank]] on the reverse. Rare mis-struck versions of this coin with an error in one of the bank's pillars are worth "as much as a small house" around the time [[Waxillium Ladrian\|Wax]] is twelve.
 
 ## People
-The residents of the Basin are the direct descendants of the people who survived the Catacendre, known as the [[Originators\|Originators]]. Around one fifth of the Originators were Terris, with the rest being either [[Skaa\|skaa]] or [[Noble\|noble]]. During the Catacendre, Harmony restored human genetics to the same state it had been prior to the [[Lord Ruler\|Lord Ruler]], but people were still aware of their ancestry, with many noble houses persisting after society was rebuilt. The residents generally have light skin, with the exception being the Terris, who naturally tend to have more skin color and largely marry within their own ethnicity. People in the east of the Basin sometimes have thick accents.
+The residents of the Basin are the direct descendants of the people who survived the Catacendre, known as the [[Originators\|Originators]]. Around one-fifth of the Originators were Terris, with the rest being either [[Skaa\|skaa]] or [[Noble\|noble]]. During the Catacendre, Harmony restored human genetics to the same state it had been prior to the [[Lord Ruler\|Lord Ruler]], but people are still aware of their ancestry, with many noble houses persisting after society was rebuilt. The residents generally have light skin, with the exception being the Terris, who naturally tend to have more skin color and largely marry within their own ethnicity. People in the east of the Basin sometimes have thick accents.
+The northwestern mountains have Terris fundamentalists living in them.
+
 Relatively few people live outside of the Basin in northern Scadrial. There are a few towns in the Roughs, but they have small populations. The residents of the Basin were not aware of the [[Southern Scadrian\|Southern Scadrians]] until the *[[Brunstell\|Brunstell]]* crashed in Dulsing.
 
 ## Footnotes

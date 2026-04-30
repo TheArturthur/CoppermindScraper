@@ -1,22 +1,23 @@
-|**Becca Nightshade**|
+|**Rebecca Nightshade**|
 |-|-|
 |**Family**|
 |**Children**|[[Zeen Nightshade\|Zeen Nightshade]]|
 |**Parents**|[[Spensa's great-grandmother\|Spensa's great-grandmother]] & [[Spensa's great-grandfather\|Spensa's great-grandfather]]|
 |**Descendants**|[[Spensa Nightshade\|Spensa Nightshade]]|
+|**Died**|[[Battle of Evensong\|Battle of Evensong]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Aliases**|Gran-Gran|
-|**Homeworld**|[[Detritus\|Detritus]]|
+|**Homeworld**|Unknown|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Skyward\|Skyward]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*We *must not* cower in the dark because we are afraid of the spark within us.*”
-\-Becca on cytonic abilities[1]
+\-Becca on cytonic abilities[2]
 
 
-**Becca Nightshade**, more commonly known as **Gran-Gran**, is [[Spensa\|Spensa]] Nightshade’s grandmother who was a member of the crew of the *[[Defiant (starship)\|Defiant]]* and is now a resident of [[Igneous Cavern\|Igneous Cavern]]. She has [[Cytonics\|cytonic]] abilities.
+**Rebecca Nightshade**, more commonly known as **Gran-Gran** or **Becca Nightshade**, is [[Spensa\|Spensa]] Nightshade’s grandmother who was a member of the crew of the *[[Defiant (starship)\|Defiant]]* and is now a resident of [[Detritus\|Detritus]]. She has [[Cytonics\|cytonic]] abilities.
 
 ## Contents
 
@@ -44,7 +45,7 @@
 Becca is mostly blind and has milky white eyes, having lost her vision a few years ago. She has sticklike arms. Based on the amount of time since the crash of the *Defiant*, she is at least eighty years old, likely near or over ninety.
 
 >“*Detritus is not our home… but these are my people. I won’t abandon them.*”
-\-Becca to Alanik on hiding her from the Superiority.[4]
+\-Becca to Alanik on hiding her from the Superiority.[5]
 
 
 She is a fierce defender of cytonics and believes the [[DDF\|DDF]] falsified the account of [[Zeen Nightshade\|her son's]] betrayal during the [[Battle of Alta\|Battle of Alta]] because they were afraid of his cytonic abilities. She is stubborn and it’s difficult to talk her out of something once she has made up her mind.
@@ -72,7 +73,7 @@ As part of Becca's plan, the entire crew of the *Defiant* except for her evacuat
 ## Relationships
 ### Spensa
 >“*A hero does not choose her trials, Spensa. She steps into the darkness [and] then she faces what comes next*”
-\-Becca to Spensa about being a hero[10]
+\-Becca to Spensa about being a hero[11]
 
 
 Spensa is very close to her grandmother. She enjoys all of Becca's stories about the warriors of Old Earth and frequently looks to them for inspiration and courage; Becca specifically told her those stories because she felt Spensa needed to hear them. Spensa also considers those stories to have been her shield when she was young and being called names. After Spensa began to find out the truth of her father's cytonic abilities and his actions during the Battle of Alta, she sought out Becca for answers, though they are not entirely to her liking. Ultimately, however, Spensa choose her grandmother's tales of heroism over the DDF's fears of the "defect" and both flies and travels to space during the Battle of Alta Second. When Spensa is feeling overwhelmed by her mission to [[Starsight (station)\|Starsight]], Becca is able to contact her cytonically and reassure her. She was also able to sense her and Jorgen from the nowhere. She was later able to remember the stories but forgot her voice. When she came back from the nowhere, they connected and Becca was happy to hear back from her.
@@ -88,7 +89,7 @@ Becca teaches Jorgen to use his cytonic abilities to sense the world around him 
 
 ### Alanik
 >“*A warrior fights. She does not yield, and she does not abandon her people.*”
-\-Becca to Alanik on hiding her from the Superiority.[4]
+\-Becca to Alanik on hiding her from the Superiority.[5]
 
 
 When the alien [[Alanik\|Alanik]] crashed on Detritus, she entered a coma. During that time, Becca was able to listen to her. Because of this, when Alanik reached out letting her know her government was considering a deal to turn in their cytonics over to the Superiority, she was familiar with her and they were able to communicate with a certain level of trust.
@@ -96,7 +97,7 @@ The more they know each other, the more they both like each other. Becca even te
 
 ## Knowledge of Old Earth
 >“*Even [when we had] computers and libraries and all kinds of reminders, we found it easy to forget where we came from*”
-\-Becca Nightshade on how easily the crew of the Defiant forgot about Old Earth[1]
+\-Becca Nightshade on how easily the crew of the Defiant forgot about Old Earth[2]
 
 
 Even when the people of [[Detritus\|Detritus]] were still on the *Defiant*, most had little knowledge of Old Earth, and that knowledge has only diminished in the years since the *Defiant* crashed. Among them, Becca stands out as one of the few who still remember the stories humans used to tell. The following is a list of all the people from Old Earth that Becca has mentioned or who others have recalled her mentioning:

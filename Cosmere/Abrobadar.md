@@ -7,7 +7,7 @@
 
 **Abrobadar** is a [[Shardbearer\|Shardbearer]] in [[Shattered Plains\|Aladar's warcamp]] on the Shattered Plains. He is one of the more skilled duelists in the warcamps.
 He is present during the meeting when [[Shallan\|Shallan]] arrives on the Plains. He is amongst the task force standing guard in case [[Szeth\|Szeth]] attacks, along with [[General Khal\|General Khal]], [[Jakamav\|Jakamav]], [[Resi\|Resi]], and [[Relis\|Relis]].
-He is also one of the four opponents against [[Adolin\|Adolin]], and later [[Renarin\|Renarin]].
+He is also one of the four opponents against [[Adolin\|Adolin]], and later [[Renarin\|Renarin]]. He distracts Renarin when he is distracted for a while and is distracted for a time by [[Pattern\|Pattern]]. He rejoined the main fight after [[Kaladin\|Kaladin]] begins to turn the tide of the duel. He is defeated by Adolin while Kaladin is fighting [[Jakamav\|Jakamav]] and [[Relis\|Relis]].
 His plate is orange, and is later given to [[Moash\|Moash]] by Adolin at the request of [[Kaladin\|Kaladin]].
 
 

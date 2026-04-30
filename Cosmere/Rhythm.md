@@ -34,14 +34,14 @@
 
 ## Behavior
 Rhythms are ever-present, though most beings in the cosmere cannot hear them. Every rhythm changes, albeit in regular ways; a rhythm can be divided into movements, which are stable enough to measure time by. They're tied to emotions; a person capable of hearing the rhythms will naturally attune to one matching their mood, or try to start feeling in a specific way by attuning to a specific mood. Some rhythms seem to be tied to other aspects of the world, however; the Rhythm of Winds, for example, can be used to predict [[Highstorm\|highstorms]].
-It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs". [[Roshar\|Roshar]] seems to have particularly strong or powerful rhythms; a [[Bronze\|bronze]] [[Allomancer\|Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. Other rhythms may be tied to a [[Shard\|Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium\|Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
+It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs". [[Roshar\|Roshar]] seems to have particularly strong or powerful rhythms; a [[Bronze\|bronze]] [[Allomancer\|Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. A Shard changing Vessels will slightly alter the Rhythm of a Shard. Other rhythms may be tied to a [[Shard\|Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium\|Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
 Hearing the rhythms is tied to the phenomenon of [[Connection\|Connection]]; whatever the precise nature of the rhythms, they can be Connected to, which is how any being is able to hear them. A creature capable of hearing the rhythms can pick up what another person's attuned to from just a few spoken words, which is something an unconnected person wouldn't be able to do, even though the rhythms can be written down as sheet music. Each rhythm carries with it an innate understanding of its meaning.
 
 ## Users
   <<Singer\|Singers>> are <<Connection\|Connected>> to each other by the rhythms
 ### Singers
 >“*They could feel the rhythm, hear it. All were in tune, all were in rhythm with one another. Perfection.*”
-\-Eshonai[13]
+\-Eshonai[15]
 
 
 [[Singer\|Singers]] speak to rhythms to express their feelings or to assign their words specific meaning. When not paying attention, singers will attune to the rhythm that corresponds to their mood, but they can attune to another rhythm in order to fit with their message. Not all [[/wiki/Singer#Forms]] can hear the rhythms equally; dullforms hear them only partially, while singers in slaveform cannot hear them at all. The rhythms Connect the singers, and the various singer songs are sung to different rhythms.
@@ -87,11 +87,12 @@ Rhythm of Hope
 Rhythm of Irritation
 Rhythm of Joy
 Rhythm of Longing
-Rhythm of the Lost - soft, slow, but violent, with sharp, separated notes; used for remembering the fallen
+Rhythm of the Lost - soft, slow, but violent, with sharp, separated notes; used for remembering the fallen. A stately and unnerving rhythm used to sing the song of the chasmfiends.
+Rhythm of Love
 Rhythm of Memories - used for singing about history
 Rhythm of Mourning
 Rhythm of Pain
-Rhythm of Peace - calm, soft, soothing beats; used by [[Listener\|listeners]] to measure time. While attuning it in [[Stormform\|stormform]], Eshonai heard her own voice screaming like a [[Deadeye\|deadeye]], possibly due to her [[Nahel bond\|Nahel bond]] with [[Timbre\|Timbre]].
+Rhythm of Peace - calm, soft, soothing beats; used by [[Listener\|listeners]] to measure time. The first cycle is tied to the pure tones of Roshar, the second with the [[Weeping\|Lull]], and the third with the position of the three [[/wiki/Roshar#Moons]]. While attuning it in [[Stormform\|stormform]], Eshonai heard her own voice screaming like a [[Deadeye\|deadeye]], possibly due to her [[Nahel bond\|Nahel bond]] with [[Timbre\|Timbre]].
 Rhythm of Pleading - rarely-used
 Rhythm of Praise - used both to show appreciation of others and to express true satisfaction
 Rhythm of Reconciliation
@@ -110,50 +111,50 @@ Rhythm of Wisdom - possibly metaphorical
 
 ### Odium's Rhythms
 >“*That song! That **song**. It is death.*”
-\-Rlain[39]
+\-Rlain[44]
 
 
-These are the rhythms that those with [[Connection\|Connection]] to [[Odium\|Odium]], such as the [[Fused\|Fused]] and Regals, can attune to. In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions. In many cases, though, they express similar things, albeit in a more violent and hostile manner.
+These are the rhythms that those with [[Connection\|Connection]] to [[Odium\|Odium]], such as the [[Fused\|Fused]], Regals, and [[Enlightened\|Enlightened]] [[Knights Radiant\|Radiants]] can attune to. In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions. In many cases, though, they express similar things, albeit in a more violent and hostile manner.
 
 
 Rhythm of Abashment
 Rhythm of Agony - counterpart to Anxiety
 Rhythm of Command - a more powerful version of Appreciation
-Rhythm of Conceit
+Rhythm of Conceit - counterpart to Abashment
 Rhythm of Craving - a more violent version of Anticipation used to indicate confusion or a question 
-Rhythm of Derision
-Rhythm of Destruction
-Rhythm of Executions - rare; expresses killing intent
-Rhythm of Exultation
-Rhythm of Fury
-Rhythm of Indifference
+Rhythm of Derision - counterpart to Reprimand
+Rhythm of Destruction - counterpart to Resolve
+Rhythm of Executions - rare; expresses killing intent; counterpart to Tension
+Rhythm of Exultation - counterpart to Joy
+Rhythm of Fury - counterpart to Excitement
+Rhythm of Indifference - counterpart to Despair
 Rhythm of Panic - a pained, choppy beat with unfinished measures; counterpart to the Terrors
-Rhythm of Relief
+Rhythm of Relief - counterpart to Hope
 Rhythm of Ridicule - similar to Amusement
-Rhythm of Satisfaction
-Rhythm of Spite
-Rhythm of Subservience
-Rhythm of Thoughtfulness
+Rhythm of Satisfaction - counterpart to Victory
+Rhythm of Spite - counterpart to Irritation
+Rhythm of Subservience - counterpart to Pain
+Rhythm of Thoughtfulness - counterpart to Consideration
 Rhythm of Tribute
-Rhythm of Withdrawal - one of the few calm Odium rhythms
+Rhythm of Withdrawal - one of the few calm Odium rhythms; counterpart to Resignation
 Song of Prayer - a rhythm used to draw [[Voidlight\|Voidlight]] into the [[Physical Realm\|Physical Realm]]
 
 ### The Pure Tones and Shardic Rhythms
 Each of the [[Shard\|Shards]] Invested in Roshar has its own note, called a pure tone, which can be heard and sung by any [[Singer\|singer]], and even humans, if taught to do so. The [[Light\|Light]] corresponding to each of these Shards both react to and produce the corresponding pure tone, and closer hearing reveals a faint rhythm unique to each Light. A slight alteration of the pure tone combined with precise alignment of the Rhythms allows for harmonization between pairs of tone and rhythms. This harmonization is essential in creation of hybrid [[Lights\|Lights]].
 
-Rhythm of [[Honor\|Honor]] – a vibrant beat, stately and controlled
-Rhythm of [[Cultivation\|Cultivation]] – stark and staccato, building up
-Rhythm of [[Odium\|Odium]] – violent, chaotic rhythm that becomes more logical over time
-Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse
-Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure
-A mix of Odium and Cultivation's rhythms; attuned once by [[Venli\|Venli]] but as of yet unnamed
+Rhythm of [[Honor\|Honor]] – a vibrant beat, stately and controlled.
+Rhythm of [[Cultivation\|Cultivation]] – stark and staccato, building up. When used in the presence of plants, lifespren will transfer Stormlight from gems into the growing plants.
+Rhythm of [[Odium\|Odium]] – violent, chaotic rhythm that becomes more logical over time.
+Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse. Following the formation of [[Retribution\|Retribution]], the [[Well of Control\|Well of Control]] vibrates with this rhythm.
+Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure.
+A mix of Odium and Cultivation's rhythms; attuned once by [[Venli\|Venli]] but as of yet unnamed.
 The pulsing which comes from the [[Well of Ascension\|Well of Ascension]] is a pure tone of [[Scadrial\|Scadrial]].
 ## Trivia
 The rhythms, and the connections they afford to the singers, were based on the works of .
 Brandon based his mental image of speaking to rhythms on Hindu chants.
 Striking a chime or bell made of a [[God Metal\|God Metal]] would not necessarily produce a similar note to that God Metal's corresponding Rhythm.
 Brandon once joked that if a singer were to attune the rhythm of , they'd immediately enter [[Mateform\|mateform]].
-In her last moments as a [[Cognitive Shadow\|Cognitive Shadow]], [[Eshonai\|Eshonai]] believed that nobody could understand the Rhythms without seeing the entire continent first.
+In her last moments before passing to the Beyond, [[Eshonai\|Eshonai]] believed that nobody could understand the Rhythms without seeing the entire continent first.
 
 
 https://coppermind.net/wiki/Rhythm

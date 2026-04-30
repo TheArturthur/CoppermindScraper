@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 **Shorsebroon** is a small town in [[Sadeas princedom\|Sadeas princedom]]. It is the nearest city to [[Hearthstone\|Hearthstone]] that was more than a village.
-[[Vathe\|Vathe]], the person who trained [[Lirin\|Lirin]] in surgery, lived there.
+[[Vathe\|Vathe]], the person who trained [[Lirin\|Lirin]] in surgery, lived there. 
 
 
 

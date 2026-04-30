@@ -23,7 +23,7 @@
 
 
 ## Appearance and Personality
-It is uncertain how he normally dresses, but Chesterton and his men disguise themselves as merchants, wearing black coats with lace at the front and tall, wide-brimmed hats. His physical appearance is not described.
+It is uncertain how he normally dresses, but Chesterton and his men disguise themselves as merchants, wearing  black coats with lace at the front and tall, wide-brimmed hats. His physical appearance is not described.
 Chesterton is a vicious monster, likened to a rabid dog. He is responsible for many cruel acts, in particular larceny, murder, and rape. He has been shown to do whatever it takes to get what he wants, be it bribery, threats, killing, or other distasteful methods. He is not without cunning though; traveling as a merchant is a clever ruse that allows him freedom of movement and access to information.
 
 ## History

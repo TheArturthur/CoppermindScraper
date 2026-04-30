@@ -10,7 +10,7 @@
 When [[Navani\|Navani's]] scholars found a room in [[Urithiru\|Urithiru]] with no doors but a large exterior window, Badali used his powers to create an entrance and then guarded the location at least until Navani arrived.
 
 ## Trivia
-Badali's name is a reference to , which makes licensed cosmere jewelry, in addition to other fantasy properties.
+Badali's name is a reference to , which makes licensed cosmere jewelry, in addition to other fantasy properties. 
 
 
 

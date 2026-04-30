@@ -48,7 +48,7 @@ As First Citizen he became an instructor for new pilots; a job he excels at not 
 As commander of his flight, he chooses tactics based on the danger his crew would be exposed to. Because of this, his class is considered the safest one.
 
 ## History
-He was the wing mate of [[Zeen Nightshade\|Zeen Nightshade]] (callsign: **Chaser**), [[Spensa\|Spensa's]] father, and fought with him in the Battle of Alta. After Chaser returned from the sky and shot down friendly ships, Cobb shot him down on [[Judy Ivans\|Ironside's]] orders.
+He was the wing mate of [[Zeen Nightshade\|Zeen Nightshade]] (callsign: **Chaser**), [[Spensa\|Spensa's]] father, and fought with him in the Battle of Alta. After Chaser returned from the sky and shot down friendly ships, Cobb shot him down on [[Judy Ivans\|Ironside's]] orders. 
 Cobb reviewed Spensa's pilot exam and, after talking to her, gave her a First Citizen pin to help her get into flight school. He used his status and political power to enroll her.
 
 >“*That was somehow the most embarrassing and inspiring display I’ve ever seen out of cadets! You should be ashamed. And proud.*”

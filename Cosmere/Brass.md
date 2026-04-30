@@ -46,13 +46,14 @@ After the [[Catacendre\|Catacendre]], it is unlawful for a business to use emoti
 Savanthood is less debilitating for Soothers compared to other metals.
 
 ## Feruchemical Use
-A brass [[Ferring\|Ferring]] is known as a **Firesoul**. Brass is used to store warmth. While filling a brassmind, a Firesoul will be cool. A Firesoul's body, not unlike a [[Iron\|Skimmer's]], is able to resist the higher temperatures of their Feruchemy, but are not immune to intense heat in general. By cooling the body by filling a brassmind, however, one could resist higher temperatures; heat would flow to the colder region of their body and then get stored in the brassmind, allowing one to become immune to fire and other sources of intense heat by carefully regulating the rate at which one filled their metalmind.
+A brass [[Ferring\|Ferring]] is known as a **Firesoul**. Brass is used to store warmth. While filling a brassmind, a Firesoul will be cool. A Firesoul's body, not unlike a [[Iron\|Skimmer's]], is able to resist the higher temperatures of their Feruchemy, but are not immune to intense heat in general.
+By cooling the body by filling a brassmind, however, one could resist higher temperatures; heat would flow to the colder region of their body and then get stored in the brassmind, allowing one to become immune to fire and other sources of intense heat by carefully regulating the rate at which one filled their metalmind. Removing warmth too quickly can cause the Firesoul to pass out.
 
 ### Compounding
 It is difficult, but possible, for a brass [[Compounding\|Compounder]] to create so much warmth that they can hurt themselves in the process.
 
 ## Hemalurgic Use
-When used as a [[Hemalurgic\|Hemalurgic]] spike, brass steals Cognitive Feruchemical powers ([[Zinc\|zinc]], brass, [[Copper\|copper]], and [[Bronze\|bronze]]).
+When used as a [[Hemalurgic\|Hemalurgic]] spike, brass steals Cognitive [[Feruchemical\|Feruchemical]] powers ([[Zinc\|zinc]], brass, [[Copper\|copper]], and [[Bronze\|bronze]]).
 
 ## Fabrial Use
 A [[Fabrial\|fabrial]] with a brass cage will reduce the strength of the fabrial's function.

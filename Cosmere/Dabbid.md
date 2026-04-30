@@ -9,7 +9,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Dabbid** is an [[Alethi\|Alethi]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 
@@ -22,6 +22,7 @@
 2. [[#Bridge Four]] 
 2. [[#Dalinar.27s Forces]] 
 2. [[#Occupation of Urithiru]] 
+2. [[#The Final Ten Days]] 
 
 
 3 Trivia. [[#Trivia]] 
@@ -30,7 +31,7 @@
 
 ## Appearance and Personality
 Dabbid is a wiry, youthful-looking man, younger than Kaladin. His features are Alethi, but his skin is on the paler side.
-He feigned being a mute to avoid Bridge Four recognizing his mental deficiency. He is nevertheless, still traumatized by the events of the bridge runs.
+He feigned being a mute to avoid Bridge Four recognizing his mental deficiency. He is, nevertheless, still traumatized by the events of the bridge runs.
 
 ## History
 ### Early Life
@@ -43,7 +44,7 @@ Bridge Four was later sentenced to regularly scavenge the chasms as punishment f
 On Dabbid's final bridgerun, Sadeas abandoned [[Dalinar\|Dalinar's]] army mid-battle and left them to die. While Bridge Four had the opportunity to escape, they instead decided to help the Kholin army retreat. After Kaladin used a large amount of [[Stormlight\|stormlight]] to protect his men from a volley of arrows and went into shock, Dabbid joined the rest of the bridgecrew to complete the approach. Bridge Four was able to rescue Dalinar and in return he bought their freedom by giving Sadeas his [[Shardblade\|shardblade]].
 
 ### Dalinar's Forces
-After being recruited by [[Dalinar Kholin\|Dalinar Kholin]], Kaladin assigned Dabbid and Shen to help Lopen assist Rock in feeding other bridgemen.
+After being recruited by [[Dalinar Kholin\|Dalinar Kholin]], Kaladin assigned Dabbid and Shen to help Lopen assist Rock in feeding other bridgemen. He was one of the most capable members of Bridge Four to help Rock when cooking.
 During the [[Battle of Narak\|Battle of Narak]], Dabbid is left behind at the warcamp alongside Lopen, [[Hobber\|Hobber]], and [[Moash\|Moash]], to look after the barracks and assist Kaladin in his recovery. After the battle, [[Bridge Four\|Bridge Four]] relocated to [[Urithiru\|Urithiru]] where Dabbid helped Rock in the kitchen. While Dabbid still doesn’t talk, he made up for it with stirring and running waterskins. He had actually become sort of an unofficial mascot for Bridge Four with the others saluting him when they pass. Upon seeing the smoke to the west after Hobber’s miracle, Bridge Four charged with their bridge towards it. Once the bridge was in place and they ran across, Dabbid and Lopen unhooked the shields and spears and tossed one to each of the bridgemen.
 Despite being the unofficial mascot of Bridge Four, Dabbid was still unable to draw in [[Stormlight\|Stormlight]], something he shared with [[Rlain\|Rlain]]. While the others never spoke it, Rlain saw the truth in the reactions of the other bridgemen, that it was probably best that him and Dabbid remain without Stormlight.
 
@@ -51,8 +52,11 @@ Despite being the unofficial mascot of Bridge Four, Dabbid was still unable to d
 At some point while living in Urithiru, the [[Sibling\|Sibling]] reached out to establish a connection to Dabbid. The Sibling asked Dabbid to switch a spanreed gem to communicate with [[Navani\|Navani]]. Dabbid gets caught making the switch. During interrogation, one of Navani's guards identifies him as a member of Bridge 4. When the Singer invasion begins, Dabbid shows Navani which strata to touch to talk to the Sibling directly.
 As the occupations continues Dabbid becomes the go between for Navani and Kaladin. The Sibling is able to guide Dabbid to Kaladin's hiding spot in the higher floors to deliver broth. He also delivers the elevator gauntlet fabrial and infused gemstones from Navani. As Kaladin goes to skirmish with [[Lezian\|Lezian]] at the well, Dabbid says his first words since the disastrous bridge run: "Life before Death". After the skirmish Dabbid is able to meet up with [[Rlain\|Rlain]] to wake Kaladin up from his comatose state.
 
+### The Final Ten Days
+When Kaladin is preparing to leave for the conquest of Shinovar, he sees Dabbid with an honorspren trailing him. [[Leyten\|Leyten]] mentions it must have something to do with [[Adolin\|Adolin's]] trip, meaning she is one of the new honorspren recruits. [[Syl\|Syl]] pops up and mentions the new honorspren's name is [[Lusintia\|Lusintia]], and calls her a bore. Later, Skar asks Kaladin what he thinks will happen to Dabbid's ailment, and Kaladin says that whatever happens, Dabbid will have a say. It is unknown what his actions through the rest of the ten days and beyond the [[Night of Sorrows\|Night of Sorrows]] were, or if he has bonded the honorspren Lusintia yet.
+
 ## Trivia
-Dabbid's inspiration came from two sources: Reading books & stories of people who have lived life such as Dabbid, and the fact that all 3 of Brandon's children had complications at birth (including one having the chord wrapped around their neck as well).
+Dabbid's inspiration came from two sources: reading books and stories of people who have lived a life like Dabbid's, and the fact that all three of Brandon's children had complications at birth (including one having the cord wrapped around his neck as well).
 
 
 https://coppermind.net/wiki/Dabbid

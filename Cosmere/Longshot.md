@@ -33,7 +33,7 @@ As a poltergeist, Longshot must possess the body of a living person in order to 
 
 ## History
 At some point, Longshot was a living woman. She died at an unknown point and under unknown circumstances and became a poltergeist.
-Longshot met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]], [[Icer\|Icer]], [[Rabies\|Rabies]], and [[TheGannon\|TheGannon]], who all love to play games. As a group, they got together often to play games by possessing the living and using their bodies disposably, as if they were players inhabiting the persona of a video game character.
+Longshot met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]], [[Icer\|Icer]], [[Rabies\|Rabies]], and [[TheGannon\|TheGannon]], who all love to play games. As a group, they got together often to play games by possessing the living and using their bodies disposably, as if they were players inhabiting the persona of a video game character. 
 
 >“*Look. We won't be able to use Manhattan for months.*”
 \-Longshot to Phi, referencing the multiple dead bodies and damage they caused

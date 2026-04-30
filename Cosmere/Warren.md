@@ -8,7 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Warren** is an [[Azish\|Azish]] master [[Skybreaker\|Skybreaker]] wearing the garb of a [[Marabethian\|Marabethian]] lawkeeper, with his chest bare and a patterned short cloak . He is formally referred to as **Master Warren**. He announced the start and end of the pole fight test in the [[Purelake\|Purelake]].
+**Warren** is an [[Azish\|Azish]] master [[Skybreaker\|Skybreaker]] wearing the garb of a [[Marabethian\|Marabethian]] lawkeeper, with his chest bare and a patterned short cloak . He is formally referred to as **Master Warren**.  He announced the start and end of the pole fight test in the [[Purelake\|Purelake]].
 
 ## Attributes and Abilities
 As a master Skybreaker, Warren has access to the [[Surge\|Surges]] of Gravitation and Division. This allows him the ability to make use of the Basic and Reverse Lashings, as well as the ability to degrade objects. He also has the ability to take in [[Stormlight\|Stormlight]], allowing him to recover from all but the most severe of injuries.

@@ -35,6 +35,7 @@
 
 ## Summary
 For a chapter by chapter summary, see [[The Emperor's Soul/Summary\|/Summary]].
+  Shai attempts to recreate the soul
 The story follows [[Shai\|Shai]], an imprisoned [[Forger\|Forger]]. She attempts to recreate the soul of Emperor [[Ashravan\|Ashravan]] with the help of his councillor [[Gaotona\|Gaotona]].
 
 >“*It tells the story of a woman named Shai, a thief and a Forger - a person capable of rewriting the pasts of objects in order to change their present.She starts off in prison, but instead of being executed, she is offered an opportunity. The emperor has been wounded in the head by assassins, and has become a vegetable. His attendants have hidden this from the empire and will trade Shai her life in exchange for creating a Forgery of the emperor's soul, hopefully making it seem like the attack on his life never happened.*”

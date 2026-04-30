@@ -35,7 +35,7 @@ Brandon has indicated that the series may connect elements from the [[Cytoverse\
 
 ## Development
 ### Concept and Postponement
-Brandon first mentioned the series at the release party for *[[Shadows of Self\|Shadows of Self]]*. It was then obliquely referenced in the 2015 [[State of the Sanderson\|State of the Sanderson]] as a "New YA Series". Brandon then officially announced the project in 2016, and revealed concept cover art. After the completion of *[[Oathbringer\|Oathbringer]]* in June 2017, Brandon began the first draft of *The Apocalypse Guard*, planning on writing the full trilogy straight through before the release of the first book, something he had not been able to do since [[Mistborn Era 1\|Era 1 of Mistborn]].
+Brandon first mentioned the series at the release party for *[[Shadows of Self\|Shadows of Self]]*. It was then obliquely referenced in the 2015 [[State of the Sanderson\|State of the Sanderson]] as a "New YA Series". Brandon then officially announced the project in 2016, and revealed concept cover art.  After the completion of *[[Oathbringer\|Oathbringer]]* in June 2017, Brandon began the first draft of *The Apocalypse Guard*, planning on writing the full trilogy straight through before the release of the first book, something he had not been able to do since [[Mistborn Era 1\|Era 1 of Mistborn]].
 Publishing rights were originally acquired by the Random House imprint Delacorte Press (also the publishers of *The Reckoners*).
 
 >“*The Apocalypse Guard series is set in a world parallel to that of the Reckoners, and an organization of superpowered individuals is at its center. Their collective objective is to save doomed planets, until the day something goes horribly wrong and it is up to one young member of the guard to fix things before time runs out for her and the planet she calls home.*
@@ -56,25 +56,25 @@ Concept Art
 
 
 Zoba
-
+			
 
 
 
 
 Oracle
-
+			
 
 
 
 
 Emma
-
+			
 
 
 
 
 Full cast
-
+			
 
 
 

@@ -10,7 +10,7 @@
 \-Elantris Prologue[1]
 
 
-The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[Opelon\|Opelon]] on [[Sel\|Sel]]. Prior to the [[Reod\|Reod]] and following the [[Invasion of Arelon\|Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae\|Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures. Its name incorporates [[/wiki/Aon#Ela]], which means "center" and was incorporated into the city’s layout with it’s streets.
+The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[Opelon\|Opelon]] on [[Sel\|Sel]]. Prior to the [[Reod\|Reod]] and following the [[Invasion of Arelon\|Invasion of Arelon]], it served as the capital of Arelon. It is surrounded by four smaller cities in each of the cardinal directions, including [[Kae\|Kae]]. It is accounted as one of the most beautiful cities on Sel, particularly by sculptors, who heaped countless praises on the city's sculptures. Its name incorporates [[/wiki/Aon#Ela]], which means "center".
 
 ## Contents
 
@@ -50,8 +50,9 @@ The **City of Elantris** is a city in [[Arelon\|Arelon]] on the continent of [[O
 
 ## History
   Elantris
+  Elantris Gates
 ### Construction
-The actual origins of the city are unknown. It was constructed "hundreds of years if not over a thousand years" before the [[Reod\|Reod]], likely before the [[Splinter\|Splintering]] of [[Devotion\|Devotion]] and [[Dominion\|Dominion]]. The people who built it possessed a keen understanding of [[AonDor\|AonDor]], as the Elantrian Metropolitan Area, comprising Elantris and its four outer cities, forms a massive [[/wiki/Aon#Rao]], which acts as a power amplifier for the Elantrians. Its builders were themselves Elantrians, as only they would have been able to make the Aons formed by the city work.
+The actual origins of the city are unknown. It was constructed "hundreds of years if not over a thousand years" before the [[Reod\|Reod]], likely before the [[Splinter\|Splintering]] of [[Devotion\|Devotion]] and [[Dominion\|Dominion]]. The people who built it possessed a keen understanding of [[AonDor\|AonDor]], as the Elantrian metropolitan area, comprising Elantris and its four outer cities, forms a massive [[/wiki/Aon#Rao]], which acts as a power amplifier for the Elantrians. Additionally, the streets of the city are laid out to form [[/wiki/Aon#Ela]], though it is unclear whether this Aon has any magical affects or if it was just chosen for aesthetic reasons. Its builders were themselves Elantrians, as only they would have been able to make the Aons formed by the city work.
 
 ### Discovery
 When the [[Aonic\|Aonic]] peoples migrated to Arelon, they found Elantris empty and abandoned. Initially, the city was viewed with superstition; people believed it was haunted. King Rhashm, who renamed himself [[Raoshem\|Raoshem]], strove to overcome the fears of his people and settled Elantris as the center of his kingdom. Several decades later, people started being taken by the [[Shaod\|Shaod]], becoming Elantrians.

@@ -3,7 +3,7 @@
 |**[[House Cett\|House Cett]]**|
 |**Parents**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|mother]]|
 |**Siblings**|[[Allrianne\|Allrianne]]|
-|**Groups**|Venture army|
+|**Groups**|Venture army, [[Originators\|Originators]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

@@ -52,7 +52,7 @@ At this point Dreamer was out of bodies to use in the game, but Phi had one rema
 
 ## Relationships
 ### Phi
-Dreamer is Phi's younger brother. While he plays games and continues to interact with Phi, Dreamer considers him to be self-satisfied and stubborn.
+Dreamer is Phi's younger brother. While he plays games and continues to interact with Phi, Dreamer considers him to be self-satisfied and stubborn. 
 
 
 

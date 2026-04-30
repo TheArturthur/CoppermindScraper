@@ -36,6 +36,7 @@ Kaz initially dislikes his nephew Alcatraz due to a social faux pas Alcatraz mak
 
 ## Trivia
 His name is a reference to a defunct Russian  in .
+[[Brandon\|Brandon]] originally created a version of Kaz for *[[Star's End\|Star's End]]*, an early sci-fi novel that was never published.
 
 
 https://coppermind.net/wiki/Kazan_Smedry

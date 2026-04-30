@@ -12,7 +12,7 @@
 \-Bloody Tan, to Waxillium Ladrian[1]
 
 
-**"Bloody Tan"** is a criminal living in the [[Roughs\|Roughs]] on [[Scadrial\|Scadrial]] who was pursued by [[Waxillium Ladrian\|Waxillium Ladrian]].
+**Bloody Tan** is a criminal living in the [[Roughs\|Roughs]] on [[Scadrial\|Scadrial]] who was pursued by [[Waxillium Ladrian\|Waxillium Ladrian]].
 
 ## Contents
 

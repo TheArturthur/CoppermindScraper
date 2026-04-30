@@ -51,7 +51,7 @@ Sela Tales is home to the [[Purelake\|Purelake]], a shallow lake that extends fo
 
 ## Culture
 #### Ethnicity and People
-The people of Sela Tales are called Selay. The Selay people have distinctive ripple patterns on their skin. They, like most other Rosharans, also have epicanthic folds. After the kingdom’s collapse, some of the Selay were ruled by gerontarchs which is likely a cultural remnant of Sela Tales, although this does not mean that the Selay king was also a gerontarch.
+The people of Sela Tales are called Selay. The Selay people have bronze skin and dark hair, and they are also known for their distinctive ripple patterns on their skin. They, like most other Rosharans, also have epicanthic folds. After the kingdom’s collapse, some of the Selay were ruled by gerontarchs which is likely a cultural remnant of Sela Tales, although this does not mean that the Selay king was also a gerontarch.
 
 #### Writing and language
 The Selay spoke an ancient form of the Selay language. This language belongs to the The [[Iri\|Iri]] language family, which, alongside Selay, also contains the languages of the Iriali, [[Riran\|Rirans]] and the [[Reshi\|Reshi]]. The various [[Purelake\|Purelake]] dialects, and some other surrounding languages, were also part of this language family. The people of Sela Tales wrote in the [[Dawnchant\|Dawnchant]].

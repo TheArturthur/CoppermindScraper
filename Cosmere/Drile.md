@@ -37,19 +37,19 @@ Images of Drile
 
 
  Portrait
-
+			
 
 
 
 
  On *White Sand Volume 2* cover
-
+			
 
 
 
 
  On *White Sand Volume 3* cover
-
+			
 
 
 ## Attributes and Abilities

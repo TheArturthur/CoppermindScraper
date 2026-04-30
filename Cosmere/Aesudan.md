@@ -13,7 +13,9 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-**Aesudan Kholin** is the queen regent of [[Alethkar\|Alethkar]] during the reign of her husband, King [[Elhokar Kholin\|Elhokar Kholin]]. She manages the kingdom in her husband's absence, while he fights the [[Parshendi\|Parshendi]] on the [[Shattered Plains\|Shattered Plains]] during the [[War of Reckoning\|War of Reckoning]].
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+**Aesudan Kholin** is the queen of [[Alethkar\|Alethkar]] during the reign of her husband, King [[Elhokar Kholin\|Elhokar Kholin]]. She manages the kingdom in her husband's absence, while he fights the [[Parshendi\|Parshendi]] on the [[Shattered Plains\|Shattered Plains]] during the [[War of Reckoning\|War of Reckoning]].
 
 ## Contents
 
@@ -27,8 +29,10 @@
 
 3 Relationships. [[#Relationships]] 
 
+3. [[#Elhokar Kholin]] 
 3. [[#Navani Kholin]] 
 3. [[#Jasnah Kholin]] 
+3. [[#Gavinor Kholin]] 
 
 
 4 Trivia. [[#Trivia]] 
@@ -55,12 +59,16 @@ At some point, Aesudan also gave birth to a son, [[Gavinor\|Gavinor]], around 11
 ### War of Reckoning
 When Elhokar ascended to the throne of Alethkar, he was immediately forced to leave [[Kholinar\|Kholinar]] to fulfill the terms of the [[Vengeance Pact\|Vengeance Pact]] in what became known as the [[War of Reckoning\|War of Reckoning]]. This left Aesudan ruling as regent on the throne of Alethkar. The king's mother, [[Navani Kholin\|Navani Kholin]], remained behind to advise Aesudan in her duties. However, Navani made the judgement that Aesudan is sufficiently skilled to rule on her own, and left her for the [[Shattered Plains\|Shattered Plains]].
 However, either Navani made a crucial misjudgment or the [[Unmade\|Unmade]] corrupted Aesudan after Navani's departure, because Aesudan inadvertently began to turn the populace against herself. She threw lavish feasts, reveling in excess, and allowed food sent in by starving farmers for the soldiers on the Shattered Plains to simply rot away. She also canceled the [[Beggar's Feast\|Beggar's Feasts]]. This was perhaps due in part to her sycophantic [[Ardent\|ardents]] who simply told her that she was always on the right path. However, one of the ardents assigned to her retinue, a young woman named [[Pai\|Pai]], refused to look past the queen's flaws and performed an act of civil disobedience. She went before the Common Throne of the [[People's Hall\|People's Hall]] and inked the [[Glyphs\|glyphs]] of the [[Ten fools\|ten foolish attributes]] before the Throne, as well as a paragraph beside each glyph, explaining how Aesudan exemplified each of these traits, denouncing not only the queen but the government itself. Pai was executed, but [[Kholinar\|Kholinar]] erupted in riots the next day.
+According to Gavinor, Aesudan was visited more than once by the Herald [[Battar\|Battar]], using the moniker of the ardent Dova, like in [[Kharbranth\|Kharbranth]]. He recognizes [[Battar\|Battar]] as 'Aunt Dova' while in the [[Spiritual Realm\|Spiritual Realm]] with Dalinar and Navani. It is likely that this was taking place shortly prior to the Siege of Kholinar, as, due to his young age (five at the time of the vision), he would not retain memories from much earlier.
 
 ### The Siege on Kholinar
-Following the summoning of the [[Everstorm\|Everstorm]] and the rallying of a [[Voidbringer\|Voidbringer]] army, Kholinar was surrounded by [[Fused\|Fused]] and [[Singers\|singers]], who used [[/wiki/Secretspren#Voidspren]] to locate and punish any use of [[Fabrial\|fabrials]], preventing communication via [[Spanreed\|spanreed]]. Elhokar, [[Kaladin\|Kaladin]], [[Adolin Kholin\|Adolin Kholin]] and [[Shallan Davar\|Shallan Davar]], alongside their [[Spren\|spren]], were sent by [[Dalinar Kholin\|Dalinar Kholin]] to infiltrate the city and save Aesudan and Gavinor Kholin. They talked with Adolin's tailor [[Yokska\|Yokska]], who explained what happened in the city in the intervening time. Aesudan had the [[Palace Guard\|Palace Guard]] retreat into the palace and the City watch to barricade into their barracks. At some point during the riots, the queen send out proclamations declaring all parshmen to be Voidbringers and ordered their execution. When a group of [[Lighteyes\|lighteyes]], including [[Kaves Kholin\|Kaves Kholin]], went to the palace to challenge the queen, they never came back.
-When Elhokar finally got into the Palace and spoke with her, she claimed that Pai the ardent tried to overthrow her, that her [[Queen's Guard\|Queen's Guard]] were all [[Knights Radiant\|Knights Radiant]], and that she had figured out how to bond spren. They learned that she was under the influence of the [[Unmade\|Unmade]] [[Yelig-nar\|Yelig-nar]] and [[Ashertmarn\|Ashertmarn]]. It is unclear if Aesudan survived consuming Yelig-nar, although, the Unmade later found its way to [[Thaylen City\|Thaylen City]] and was used by Highlord [[Meridas Amaram\|Meridas Amaram]].
+Following the summoning of the [[Everstorm\|Everstorm]] and the rallying of a [[Voidbringer\|Voidbringer]] army, Kholinar was surrounded by [[Fused\|Fused]] and [[Singers\|singers]], who used [[/wiki/Secretspren#Voidspren]] to locate and punish any use of [[Fabrial\|fabrials]], preventing communication via [[Spanreed\|spanreed]]. Elhokar,  [[Kaladin\|Kaladin]], [[Adolin Kholin\|Adolin Kholin]] and [[Shallan Davar\|Shallan Davar]], alongside their [[Spren\|spren]], were sent by [[Dalinar Kholin\|Dalinar Kholin]] to infiltrate the city and save Aesudan and Gavinor Kholin. They talked with Adolin's tailor [[Yokska\|Yokska]], who explained what happened in the city in the intervening time.  Aesudan had the [[Palace Guard\|Palace Guard]] retreat into the palace and the City watch to barricade into their barracks. At some point during the riots, the queen send out proclamations declaring all parshmen to be Voidbringers and ordered their execution. When a group of [[Lighteyes\|lighteyes]], including [[Kaves Kholin\|Kaves Kholin]], went to the palace to challenge the queen, they never came back.
+When Elhokar finally got into the Palace and spoke with her, she claimed that Pai the ardent tried to overthrow her, that her [[Queen's Guard\|Queen's Guard]] were all [[Knights Radiant\|Knights Radiant]], and that she had figured out how to bond spren. They learned that she was under the influence of the [[Unmade\|Unmade]] [[Yelig-nar\|Yelig-nar]] and [[Ashertmarn\|Ashertmarn]]. It is unclear if Aesudan survived consuming Yelig-nar, although, the Unmade later found its way to [[Thaylen City\|Thaylen City]] and was used by Highlord [[Meridas Amaram\|Meridas Amaram]]. It is mentioned that she was consumed by Yelig-nar.
 
 ## Relationships
+### Elhokar Kholin
+
+
 ### Navani Kholin
 [[Navani\|Navani]] views Aesudan as talented in politics but pretty much nothing else. And blames Aesudan for what happened at [[Kholinar\|Kholinar]] and especially what she did to [[Gavinor\|Gavinor's]] mental and physical health, but also puts part of the blame on her own shoulders for leaving the capital in the first place.
 Aesudan is generally sour against Navani. Though the later tries to consider it as not a personal affront but as the prerogative of every woman to feel threatened by her mother-in-law.
@@ -68,6 +76,9 @@ Aesudan is generally sour against Navani. Though the later tries to consider it 
 ### Jasnah Kholin
 [[Jasnah\|Jasnah]] spoke against [[Elhokar\|Elhokar's]] marriage to Aesudan, and viewed her as power-hungry. But the then-prince saw he needed her strength.
 For unknown reasons, Jasnah hires [[Liss\|an assassin]] to observe Aesudan and report back on her actions, and to not assassinate Aesudan unless ordered, which she decided against later.
+
+### Gavinor Kholin
+
 
 ## Trivia
 If Dalinar had chosen to abdicate his title of highprince, he would have returned to Alethkar to aid Aesudan by leading the fighting against [[Reshi\|Reshi]] and [[Veden\|Veden]] border incursions.

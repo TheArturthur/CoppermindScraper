@@ -5,8 +5,6 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
-
 >“* Every pasture needs three things. Flocks to grow, herdsmen to tend, and watchers at the rim. We of Alethela are those watchers--the warriors who protect and fight. We maintain the terrible arts of killing, then pass them on to others when the [[Desolation\|Desolation]] comes.*”
 \- An unnamed female Radiant[1]
 

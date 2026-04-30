@@ -4,7 +4,7 @@
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]], [[Shard\|Shards]], [[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*At these points, Physical matter, Cognitive thought, and Spiritual essence become one--and a being can slide between Realms.*”
 \-From Khriss's essay on the Drominad system[1]
@@ -21,11 +21,14 @@ A **perpendicularity** is a junction between the [[Physical Realm\|Physical]], [
 
 
 ## Creation
-Perpendicularities occur naturally when a [[Shard\|Shard]] spends lots of time on a world. Generally, leaving a planet would cause the Shard's perpendicularity to disappear. As a result, their presence is often used to indicate the presence of a Shard. Special circumstances, however, can prevent the perpendicularity from disappearing, and there is at least one Shard that fits these circumstances. [[Autonomy\|Autonomy]] is capable of creating perpendicularities unexpectedly across multiple planets in a way that goes against the laws of [[Realmatic Theory\|Realmatic Theory]] as it is currently understood by arcanists. It requires specific conditions.
-Some perpendicularities can be forcibly closed by having people utilize the massive amount of Investiture coming from it. [[Nightblood\|Nightblood]] is able to collapse a perpendicularity.
+Perpendicularities occur naturally when a [[Shard\|Shard]] spends a prolonged length of time Invested in a planet. Not all perpendicularities are created by the Shards however. Perpendicularities tend to begin as small pools, about ten feet in diameter. They can be expanded. They also tend to appear in shadowed or cavernous regions. Shards have a great deal of control over the location of their perpendicularity.
+Generally, leaving a planet would cause the Shard's perpendicularity to disappear. As a result, their presence is often used to indicate the occupancy of a Shard. Special circumstances, however, can prevent the perpendicularity from disappearing, and there is at least one Shard that fits these circumstances. [[Autonomy\|Autonomy]] is capable of creating perpendicularities unexpectedly across multiple planets in a way that goes against the laws of [[Realmatic Theory\|Realmatic Theory]] as it is currently understood by arcanists. This requires specific conditions though.
+Perpendicularities can be created with Intent through various forms of Invested Art. It is more difficult to create a perpendicularity in the Spiritual Realm, than it is in the Cognitive or Physical Realms. However, it is not impossible to do so for some entities.
+Some perpendicularities can be forcibly closed by having people utilize the massive amount of Investiture coming from it. [[Nightblood\|Nightblood]] is able to collapse a perpendicularity. [[Anti-Investiture\|Anti-Investiture]] of the perpendicularity's Shard touching the perpendicularity will cause it to collapse. Anyone who enters the perpendicularity while this is happening will be transitioned to the Spiritual Realm.
 
 ## Mechanics
-Perpendicularities are formed at locations with a large concentration of Investiture. The concentration of Investiture brings the three realms closer together and allows travel between them. Perpendicularities will not transport people between realms unless they want it to happen. They can be used to see into the Spiritual Realm. The proximity of the realms also makes [[Soulcasting\|Soulcasting]] easier.
+Perpendicularities are formed at locations with a large concentration of Investiture. The concentration of Investiture brings the three realms closer together and allows travel between them. Perpendicularities will not transport people between realms unless they travel through it with Intent. They can be used to see, and travel to, both the Cognitive and the Spiritual Realms. However, to transport oneself to the Spiritual Realm, one must push through it with their mind alone, lest they would travel to Shadesmar. Perpendicularities typically act as stabilizing points between the Physical and Cognitive Realms, allowing their location to be an exact overlap.
+The proximity of the realms around and in a perpendicularity also makes [[Soulcasting\|Soulcasting]] easier.
 [[Aluminum\|Aluminum]] can be used to take liquid from a perpendicularity, and it will stay Invested. Some perpendicularities are more Invested than others. The enormous concentration of Investiture in a perpendicularity makes it possible to become a Cognitive Shadow by entering one. In at least some circumstances, a perpendicularity's liquid Investiture may be unkeyed. Devices can be made to point towards a perpendicularity.
 
 ## Known Perpendicularities
@@ -40,18 +43,25 @@ Perpendicularities are formed at locations with a large concentration of Investi
 
 [[Threnody\|Threnody]] does not have a stable perpendicularity, but rather a number of unstable, unpredictable ones of a morbid origin. They may possibly have something to do with the creation of [[Shade\|Shades]], although the fact that the Shard of [[Ambition\|Ambition]] has died near the system has far greater influence on their creation. It is more of a circumstance than a location.
 
-[[First of the Sun\|First of the Sun]] is notable for having a perpendicularity, presumably [[Patji's Eye\|Patji's Eye]], without a Shard in residence. However, [[Patji (being)\|Patji]] is an avatar of [[Autonomy\|Autonomy]], which is likely the cause of the perpendicularity.
+[[First of the Sun\|First of the Sun]] is notable for having a perpendicularity, [[Patji's Eye\|Patji's Eye]], without a Shard in residence. However, [[Patji (being)\|Patji]] is an avatar of [[Autonomy\|Autonomy]], which is likely the cause of the perpendicularity.
 
-**Cultivation**: [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] is located in the [[Horneater Peaks\|Horneater Peaks]], under the surface of one of the [[Horneater Oceans\|Horneater Oceans]]. For [[Worldhopper\|worldhoppers]] of Roshar, it's the main method of travelling between Roshar and its subastral, [[Shadesmar\|Shadesmar]]. Most recently, it has been besieged by the [[Fused\|Fused]].
+**Cultivation**: [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] was located in the [[Horneater Peaks\|Horneater Peaks]], under the surface of one of the [[Horneater Oceans\|Horneater Oceans]]. For [[Worldhopper\|worldhoppers]] of Roshar, it's the main method of travelling between Roshar and its subastral, [[Shadesmar\|Shadesmar]]. It vanished after Cultivation fled the planet.
 **Honor**: [[Honor's Perpendicularity\|Honor's Perpendicularity]] is well-known among worldhoppers and [[Spren\|spren]] to be unstable and dangerous. The exact pattern of its appearance is uncertain, although [[Bondsmith\|Bondsmiths]] are able to open it. The perpendicularity closes on its own within a few minutes.
-The [[Surge\|Surge]] of [[Transportation\|Transportation]] temporarily creates a miniature perpendicularity, allowing an [[Elsecaller\|Elsecaller]] or [[Willshaper\|Willshaper]] to travel into Shadesmar from anywhere. However, returning back to the [[Physical Realm\|Physical Realm]] presents a far greater challenge, and can only be performed in some places. It is unclear if this allows travel to the Spiritual Realm.
+**Odium** and **Retribution**: [[Odium\|Odium's]], and later [[Retribution\|Retribution's]], perpendicularity is the [[Well of Control\|Well of Control]]. It is located underneath the [[Shattered Plains\|Shattered Plains]]. Odium is also capable of temporarily creating a miniature perpendicularity.
+**Transportation:** The [[Surge\|Surge]] of [[Transportation\|Transportation]] temporarily creates a miniature perpendicularity, allowing an [[Elsecaller\|Elsecaller]] or [[Willshaper\|Willshaper]] to travel into Shadesmar from anywhere. However, returning back to the [[Physical Realm\|Physical Realm]] presents a far greater challenge, and can only be performed in some places. It is unclear if this allows travel to the Spiritual Realm.
+**Knights Radiants**: Whenever a [[Knights Radiant\|Radiant]] swears an Ideal, they create a miniature perpendicularity allowing them to take in an influx of Investiture from the [[Spiritual Realm\|Spiritual Realm]].
+**Oathgates:** Oathgates make use of perpendicularities in order to transport individuals between Realms and to different Oathgates across the planet.
 
-**Endowment**: The location of [[Endowment\|Endowment's]] perpendicularity is unspecified. It is, however, located somewhere in the jungles of [[Hallandren\|Hallandren]]. The [[Tears of Edgli\|Tears of Edgli]] owe their existence and their unusual properties as dye material to soaking up the [[Investiture\|Investiture]] flowing up from the perpendicularity. There are enough cosmere-aware people on Nalthis for there to be customs at this perpendicularity, and it is used for trade.
+**Endowment**: The location of [[Endowment\|Endowment's]] perpendicularity is unspecified. It is, however, located somewhere in the jungles of [[Hallandren\|Hallandren]], in a shadowed, cavernous region. The [[Tears of Edgli\|Tears of Edgli]] owe their existence and their unusual properties as dye material to soaking up the [[Investiture\|Investiture]] flowing up from the perpendicularity. There are enough cosmere-aware people on Nalthis for there to be customs at this perpendicularity, and it is used for trade.
 
-There is something similar to a perpendicularity on [[Yolen\|Yolen]], despite the lack of a Shard.
+**Unknown Shard**: There is a perpendicularity on [[Bjendal\|Bjendal]]. By 348 [[Catacendre\|PC]], events on Bjendal made travel to the planet through the perpendicularity extremely dangerous.
+
+[[Dhatri\|Dhatri]] had a perpendicularity in the past.
+
+Yolen is one of the three places in the Physical Realm that the  leads to. It is located within the upper atmosphere of the planet.
 
 **Autonomy**: Autonomy has an ability to create and collapse perpendicularities in a way that goes against the understanding of Arcanists. These have specific constraints and conditions in order to be produced. Despite the specific conditions, she is known to have created perpendicularities across multiple worlds across the cosmere.
-**Silverlight**: [[Silverlight\|Silverlight]] has a perpendicularity known as the Silverlight Nexus.
+**Silverlight**: [[Silverlight\|Silverlight]] has a perpendicularity known as the . The perpendicularity leads to three different places in the Physical Realm, one of which is Yolen. The perpendicularity causes time dilation around Silverlight, making each day in the city equal to ten days outside of it.
 
 
 https://coppermind.net/wiki/Perpendicularity

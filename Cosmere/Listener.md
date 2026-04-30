@@ -11,18 +11,11 @@
 \-Venli to Shumin[1]
 
 
-The **listeners**, called the **Parshendi** by the [[Alethi\|Alethi]], are a [[Singer\|singer]] ethnic group on [[Roshar\|Roshar]]. By the end of the [[War of Reckoning\|War of Reckoning]] in the Vorin year 1174, they had a population of around thirty-seven thousand individuals.
-Prior to the [[True Desolation\|True Desolation]], they live in eastern Roshar near the [[Shattered Plains\|Shattered Plains]]. During the War of Reckoning, they inhabit the city of [[Narak\|Narak]], but after the arrival of the [[Everstorm\|Everstorm]] and the start of the [[True Desolation\|True Desolation]], the remaining listeners leave Narak and begin roaming around on the Shattered Plains.
+The **listeners**, called the **Parshendi** by the [[Alethi\|Alethi]], are a [[Singer\|singer]] ethnic group on [[Roshar\|Roshar]]. By the end of the [[War of Reckoning\|War of Reckoning]] in the Vorin year 1173, they had a population of around thirty-seven thousand individuals, while at the beginning of the [[Night of Sorrows\|Night of Sorrows]], during the year 1175, their population had dropped to about seventeen-hundred listeners. After the [[Second Battle of Narak\|Second Battle of Narak]], their numbers grew quickly as a number of singers joined them.
 
 ## Contents
 
-1 Geography and Agriculture. [[#Geography and Agriculture]] 
-
-1. [[#Geography]] 
-1. [[#Agriculture and Foraging]] 
-1. [[#Animal Husbandry and Hunting]] 
-
-
+1 Geography. [[#Geography]] 
 2 Government. [[#Government]] 
 
 2. [[#The Five]] 
@@ -34,6 +27,7 @@ Prior to the [[True Desolation\|True Desolation]], they live in eastern Roshar n
 2. [[#Foreign Policy and International Relationships]] 
 
 2. [[#Alethkar]] 
+2. [[#Retribution.E2.80.99s empire]] 
 
 
 2. [[#Military]] 
@@ -50,13 +44,27 @@ Prior to the [[True Desolation\|True Desolation]], they live in eastern Roshar n
 3. [[#People]] 
 
 3. [[#Fashion]] 
+3. [[#Courting]] 
 3. [[#Relation to Freedom]] 
 3. [[#Funerary Practices]] 
+
+
+3. [[#Religion]] 
+
+3. [[#Gods]] 
+3. [[#Retribution]] 
+3. [[#Chasmfiend]] 
 
 
 3. [[#Families]] 
 3. [[#Songs]] 
 3. [[#Architecture]] 
+3. [[#Agriculture]] 
+
+3. [[#Crop cultivation and Foraging]] 
+3. [[#Animal Husbandry and Hunting]] 
+
+
 3. [[#Crafts]] 
 
 3. [[#Paper]] 
@@ -73,62 +81,53 @@ Prior to the [[True Desolation\|True Desolation]], they live in eastern Roshar n
 4. [[#War of Reckoning]] 
 4. [[#The True Desolation]] 
 
-
-5 Notable Listeners. [[#Notable Listeners]] 
-6 Footnotes. [[#Footnotes]] 
-7 Notes. [[#Notes]] 
+4. [[#Returning to Narak]] 
 
 
-## Geography and Agriculture
-#### Geography
-The listeners used to live in the [[Unclaimed Hills\|Unclaimed Hills]], very close to the [[Shattered Plains\|Shattered Plains]]. Some listener [[/wiki/Listener#Families]] occupied the circular craters near the western edge of the plains, while others spent their lives living in the wilderness around these craters. Many listeners believe that the wilderness should remain uncharted, left to [[Greatshell\|greatshells]] and [[Spren\|spren]], although others strongly disagree with this. It is likely because of this attitude that the listeners know very little about the world and the wilderness beyond their cities.
+4. [[#Night of Sorrows]] 
 
+
+5 Notable listeners. [[#Notable listeners]] 
+6 Notes. [[#Notes]] 
+
+
+## Geography
   <<Narak\|Narak>>, the home of the listeners during the <<War of Reckoning\|War of Reckoning>>
-After the assassination of King [[Gavilar Kholin\|Gavilar Kholin]], the listeners fled to the Shattered Plains and inhabited the city of [[Stormseat\|Narak]]. After the end of the [[War of Reckoning\|war]] and the [[Battle of Narak\|Battle of Narak]], the remaining listeners roamed around the Shattered Plains for a while.
-
-#### Agriculture and Foraging
-The listeners cultivate multiple plant species. They grow and eat grain from a certain type of [[Rockbud\|rockbud]]. They also use the dried pulp from a species of rockbud to make paper. The listeners also grow and prune [[Shalebark\|shalebark]], although they mostly do this for decoration. They also eat mushrooms, which they gather in the forests near the Shattered Plains.
-The listeners also use a technique unknown to other Rosharans to make their crops grow faster. This technique involves Stormlight, music (specifically one of the [[Rhythm\|Rhythms]]), and [[Lifespren\|lifespren]]. This technique also drains Stormlight from the used gemstones, and can even crack them in a way very similar to a that of a [[Fabrial\|fabrial]].
-
-#### Animal Husbandry and Hunting
-They also practice animal husbandry and hunting. They are known to have domesticated [[Chull\|chulls]]. They also keep hogs, which are herded around by groups of listeners; because of this, they have access to hogsmeat and hogshide leather.
-The listeners also hunt [[Chasmfiend\|chasmfiends]], although they only do this during certain seasons. The listeners are willing to share the chasmfiends with the Alethi, believing that anyone who goes through the trouble of killing the beast is entitled to its corpse. During a [[Greatshell\|greatshell]] hunt, multiple families band together and use their [[Shardwielding\|Shards]] to kill the animal. The listeners then share the corpse and [[Gemheart\|gemheart]] with each other, and a feast ensues.
+The listeners live in eastern Roshar. For most of their time on Roshar, the listeners lived in the greater [[Unclaimed Hills\|Unclaimed Hills]]. However, after a while they relocated to the area near the [[Shattered Plains\|Shattered Plains]]. For most of this time, they lived on the edge of these Plains, with many [[/wiki/Listener#Families]] inhabiting the circular craters near the western edge of the plains. However, during the War of Reckoning, most of the listeners moved to the center of the Plains, abandoning their former homes and creating the city of Narak. A small group led by [[Tlaxam\|Tlaxam]] fled, unbeknownst to the other listeners, into the chasms however. After the end of this war, the remaining listeners roamed around the Shattered Plains, never staying in one place for too long. After the Second Battle of Narak, the listeners made a treaty with [[Alethkar\|Alethkar]]. This treaty saw the Alethi cede their territories in the vicinity of Narak to the listeners. Thus, an internationally recognized listener nation was created, encompassing both the Plains and the wilderness near it.
+Throughout most of their history, the listeners were isolationists, with many listeners believing that the wilderness should remain uncharted, left to [[Greatshell\|greatshells]] and [[Spren\|spren]]. Not all listeners agreed with this attitude however. It is likely because of this attitude that the listeners knew very little about the world and the wilderness beyond their cities. Some of this attitude remained even after the founding of the listener nation, although it was widely agreed upon that their period of isolationism was over. Similarly, some listeners don’t like technological advances, as it makes them leave their old ways behind.
 
 ## Government
 ### The Five
+For a full list of those in the group, see Category: Council of Five.
 #### Use and Function
-The listeners are ruled by five individuals, collectively known as the Council of Five, or simply the Five. Before the listener families unified, each family had their own Five, but after their unification the listeners accepted the rule of a single Five. It is unknown how these five listeners are chosen. The Five seem to have absolute authority over the listeners, although any decision needs at least a majority among the Five before it can be put into action. The duties of the Five are very diverse, from approving ideas to planning attacks on other families. At least some professions have leaders whose authorities exist outside of that of the Five. One such listener is [[Denshil\|Denshil]], who serves as the listener head of farming.
+The listeners are ruled by five individuals, collectively known as the Council of Five, or simply the Five. Before the listener families unified, each family had their own Five, but after their unification the listeners accepted the rule of a single Five. It is unknown how these five listeners are chosen. The Five seem to have absolute authority over the listeners, although any decision needs at least a majority among the Five before it can be put into action. The duties of the Five are very diverse, from approving ideas to planning attacks on other families. At least some professions have leaders whose authorities exist outside of that of the Five. One such listener is [[Denshil\|Denshil]], who serves as the listener head of farming. Before going onto a dangerous mission, the Five may appoint people to take their places, should they not return.
 
 #### Composition
-The composition of the Five has changed over time as more [[/wiki/Singer#Common forms]] were discovered. At first, the Five were all in [[Dullform\|dullform]], and later, after the discovery of [[Workform\|workform]], the members of the council were all in workform. When [[Nimbleform\|nimbleform]] was discovered, the Council changed to being made up of one member of each form.
-During the War of Reckoning the composition Five was as follows:
-
-For a full list of those in the group, see Category: Council of Five.
-|**Form**|**Name**|
-|-|-|
-|Dullform|[[Zuln\|Zuln]]|
-|Mateform|[[Abronai\|Abronai]]|
-|Nimbleform|[[Chivi\|Chivi]]|
-|Warform|[[Eshonai\|Eshonai]]|
-|Workform|[[Davim\|Davim]]|
+The composition of the Five has changed over time as more [[/wiki/Singer#Common forms]] were discovered. At first, the Five were all in [[Dullform\|dullform]], and later, after the discovery of [[Workform\|workform]], the members of the council were all in workform. When [[Nimbleform\|nimbleform]] was discovered, the Council changed to being made up of one member of each form. However, after the [[Battle of Narak\|Battle of Narak]], the Five went back to holding whichever form they wanted, as it had proven impractical for them to each hold a different form.
 
 ### Foreign Policy and International Relationships
 #### Alethkar
-The listeners have a hostile relationship with the [[Alethkar\|Alethi]], though their relationship was originally more amicable. The Alethi were the first humans to be discovered by the listeners. After a couple of expeditions, the Alethi wished to formalize their relationship. The listeners agreed, and a treaty was signed. This treaty contained clauses to simplify trade between the peoples and for mutual border crossing. The treaty also prevented the listeners from trading their Shards to other kingdoms without first coming to Alethkar. Besides these clauses, the treaty also allowed for one party to legally attack the other party.
-After the Alethi king [[Gavilar\|Gavilar]] revealed to [[Eshonai\|Eshonai]] that he was going to return their gods, the listeners decided to assassinate him. The assassination attempt was successful, and the Alethi highprinces [[Vengeance Pact\|swore]] to destroy the listeners. This started the [[War of Reckoning\|War of Reckoning]], a war between the Alethi and the listeners which went on for six years and eventually ended in the [[Battle of Narak\|Battle of Narak]].
+The listeners have had a very rocky relationship with the [[Alethkar\|Alethi]]. Their relationship was originally amicable. The Alethi were the first humans to be discovered by the listeners. After a couple of expeditions, the Alethi wished to formalize their relationship. The listeners agreed, and a treaty was signed. This treaty contained clauses to simplify trade between the peoples and for mutual border crossing. The treaty also prevented the listeners from trading their Shards to other kingdoms without first coming to Alethkar. Besides these clauses, the treaty also allowed for one party to legally attack the other party.
+After the Alethi king [[Gavilar\|Gavilar]] revealed to [[Eshonai\|Eshonai]] that he was going to return their gods, the listeners decided to assassinate him. The assassination attempt was successful, and the Alethi highprinces [[Vengeance Pact\|swore]] to destroy the listeners. This started the [[War of Reckoning\|War of Reckoning]], a war between the Alethi and the listeners which went on for six years and eventually ended after the [[Battle of Narak\|Battle of Narak]].
+Even when relations were amicable, the Alethi claimed that the Listeners were a "savage," "barbaric," "uncultured," and "unintelligent" people. Due to this conception of the listeners, many wondered why King Gavilar even wanted to form a treaty with them, as their land and resources could have been exploited without any such treaty. The widespread Alethi discrimination of the listeners was also used to justify the violence during the [[War of Reckoning\|War of Reckoning]]. They saw it not only as justified to kill listeners, but morally right.
+Some Alethi feared that the listener ways would influence their Parshman slaves to revolt, which would threaten the social, political, and economic systems on which Alethkar is built. This fear likely arose due to the idea present in their society that the listeners, whom they called the *Parshendi* or "Parshmen who can think", were indeed Parshmen. As the [[Coalition of monarchs\|Coalition]] forces were close to being defeated in the Second Battle of Narak, the Alethi made one last effort to prevent the Shattered Plains from falling into Odium’s hands. Inspired by ideas from both sides, one of the listeners, Venli, proposed a treaty to Queen [[Jasnah Kholin\|Jasnah Kholin]]. This treaty gave the listeners full control of the Alethi territories near Narak, preventing them from being conquered by Odium’s forces and establishing a recognized listener nation, while renting some land out to the Alethi, mainly for their lumberyards and farms. Additionally, the listeners earn tariffs on any use of the Narak [[Oathgate\|Oathgate]].
+
+#### Retribution’s empire
+The listeners don’t have a great relationship with Retribution’s empire. This is mostly due to how they have been treated by some of its leaders, and Retribution’s place as ruler, having previously been Odium. The listeners dislike Odium due to how he tricked them into unleashing the Everstorm and killing thousands of their kind.
+After being spotted by singer forces at Narak, the Five went to meet Odium’s commander. He threatened them, stating that, after conquering Narak, Odium would destroy the listeners. He also gave them a way out however, aid him in conquering Narak, and he would make sure the listeners wouldn’t be harmed. While the listeners decided to take his offer, they did not like the way it was presented, or having to work for Odium again. During the aftermath of the Second Battle of Narak, the Five showed their treaty with the Alethi to [[El\|El]], commander of Odium and later Retribution’s forces at Narak, telling him that the Shattered Plains were theirs. After considering his options, the Fused commander recognized the treaty, and by extension the newly formed listener nation, stating that the empire would send ambassadors. Some of Retribution’s people, both singer and Fused, also left him to join the listeners. Additionally, the listeners have control over Retribution’s [[Perpendicularity\|perpendicularity]], which is a very important asset to his empire.
 
 ### Military
 #### Armament
-Listener soldiers use warform, which grants them strong carapace armor as well as increased strength. Though not as strong or resilient as someone with Shardplate, warform listeners are a real threat to regular human soldiers. Their strength allows them to use heavy weapons like battleaxes, hammers, spears, and sometimes clubs or swords. They are also capable of jumping far enough to cross the chasms on the [[Shattered Plains\|Shattered Plains]].
-Most of the steel weapons owned by the listeners are either of [[Alethkar\|Alethi]] origin or have been passed down from parent to child starting at the abandonment of the old gods. The listeners are also fond of two-handed slings and bows made from horn, although bows are viewed as too deadly to wield against other listeners. Some listeners carry large shields called [[Stormshield\|stormshields]] when going out into a highstorm; however, it is unknown if this type of shield is also used in combat. It is considered the duty of each warrior to care for his ancient weapon and make his own arrows. These arrows are fletched with painted [[Scragglebark\|scragglebark]]. The listeners also use blowguns to hunt small game; these blowguns are deadly enough to hurt humans.
-At one point the listeners have eight sets of [[Shardplate\|Shardplate]] and eight [[Shardblade\|Shardblades]], although they gradually lose all of these during the [[War of Reckoning\|War of Reckoning]]. As it is considered forbidden for these Shards to be wielded against other listeners, they are originally used only for [[Greatshell\|greatshell]] hunts. Later, they are also used to fight the Alethi during the War of Reckoning. Before this war it was tradition that when one of the proper eight listener cities was conquered the defeated family would relinquish their Shards to the victors.
-Regular soldiers often wear simple garments that are tailored around their warform carapace. Some of them also wear long coats, although these aren't worn into battle. The listener general wears a cap on their skullplate and a tight red cloth as a cape. The listeners dress their soldiers in white, believing that a man should be able to see his own death coming. White also signals to other listeners that a battle is coming, instead of a different interaction such as trade. Because of this, they also dress assassins in white. This changes during the War of Reckoning, although it is unknown why.
+Listener soldiers use warform, which grants them strong carapace armor as well as increased strength. Though not as strong or resilient as someone with Shardplate, warform listeners are a real threat to regular human soldiers. Their strength allows them to use heavy weapons like battleaxes, hammers, spears, and sometimes clubs or swords. They are also capable of jumping far enough to cross the chasms on the [[Shattered Plains\|Shattered Plains]]. In addition to soldiers, the listeners have many scouts, who take nimbleform.
+Most of the steel weapons owned by the listeners are either of [[Alethkar\|Alethi]] origin or have been passed down from parent to child starting at the abandonment of the old gods. The listeners are also fond of two-handed slings and bows made from horn, although bows are viewed as too deadly to wield against other listeners. Some listeners carry large shields called [[Stormshield\|stormshields]] when going out into a highstorm; however, it is unknown if this type of shield is also used in combat. It is considered the duty of each warrior to care for his ancient weapon and make his own arrows. These arrows are fletched with painted [[Scragglebark\|scragglebark]]. The listeners also use blowguns to hunt small game; these blowguns are effective enough to seriously injure humans.
+At one point the listeners had eight sets of [[Shardplate\|Shardplate]] and eight [[Shardblade\|Shardblades]], although they gradually lost all of these during the [[War of Reckoning\|War of Reckoning]]. As it is considered forbidden for Shards to be wielded against other listeners, they were originally used only for [[Greatshell\|greatshell]] hunts. Later, they were also used to fight the Alethi during the War of Reckoning. Before this war it was tradition that when one of the proper eight listener cities was conquered the defeated family would relinquish their Shards to the victors.
+Regular soldiers often wear simple garments that are tailored around their warform carapace. Some of them also wear long coats, although these aren't worn into battle. The listener general wears a cap on their skullplate and a tight red cloth as a cape. The listeners used to dress their soldiers in white, believing that a man should be able to see his own death coming. White also signals to other listeners that a battle is coming, instead of a different interaction such as trade. Because of their beliefs, they also dress assassins in white. They stopped dressing their soldiers in white during the War of Reckoning, although it is unknown why.
 
 #### Tactics
-The listeners' warfare used to be highly ritualistic, with little to no actual combat and deaths. They would only fight to capture one of the cities on the western edge of the Shattered Plains; any family that attacks for a different reason would immediately be shunned by the other families. There were different times when traditions were broken and battles turned into horrible massacres. Their tactics changed significantly during the [[War of Reckoning\|War of Reckoning]], although some aspects of their original tactics remained. These changes were likely made by the listener general, [[Eshonai\|Eshonai]].
-The listeners would often attack shortly before or after a storm came. They used drums to warn allies and enemies of an upcoming battle. The preparations for a battle would mostly be made up of where to put which warriors and what boasts to yell. These battles often started with the participants yelling boasts, insults, and challenges at each other. After that, both families would take turns throwing spears at each other. When someone was hit, their family might withdraw, but if they didn't, both sides would move on to close combat.
-A notable aspect of the listeners' new combat strategy is their use of **warpairs**, pairs of warriors who fight side by side as partners. These listener warpairs move around the battlefield in coordinated maneuvers and attack enemy troops with heavy weapons from multiple directions. Each warpair also carries different weapons. A warpair is generally made up of a malen and a femalen listener. The listeners also use shortbows to harry and weaken their enemies. The listeners have at times executed raids during a highstorm.
-After six years of war the listeners also became very adept at dealing with the [[Alethkar\|Alethi]] Shardbearers. They would use two-handed slings to hurl head-sized rocks at Shardbearers; these rocks were capable quickly damage Shardplate, with a single blow being enough to make cracks in an unharmed section of Plate.
+The listeners' warfare used to be highly ritualistic, with little to no actual combat and deaths. They would only fight to capture one of the cities on the western edge of the Shattered Plains; any family that attacks for a different reason would immediately be shunned by the other families. There were different times when traditions were broken and battles turned into horrible massacres. Their tactics changed significantly during the [[War of Reckoning\|War of Reckoning]], although some aspects of their original tactics remained. These changes were likely made by the then listener general, [[Eshonai\|Eshonai]].
+The listeners would often attack shortly before or after a storm came. They used drums to warn allies and enemies of an upcoming battle. The preparations for a battle would mostly be made up of where to put which warriors and what boasts to yell. These battles often started with the participants yelling boasts, insults, and challenges at each other. After that, both families would take turns throwing spears at each other. When someone was hit, their family might withdraw, but if they didn't, both sides would move on to close combat. Before they were united, the various listener families would also send assassins into eachothers cities.
+A notable aspect of the listeners' new combat strategy is their increased use of **warpairs**, pairs of warriors who fight side by side as partners. These listener warpairs move around the battlefield in coordinated maneuvers and attack enemy troops with heavy weapons from multiple directions. Each warpair also carries different weapons. A warpair is generally made up of a malen and a femalen listener. The use of warpairs is older then the listeners themselves, dating back to at least the [[False Desolation\|False Desolation]]. The listeners also use shortbows to harry and weaken their enemies. The listeners have at times executed raids during a highstorm. While marching to war, they have also been known to sing a [[Song of Destruction\|song]] intended to bolster themselves and scare off their enemies.
+After six years of war the listeners also became very adept at dealing with the [[Alethkar\|Alethi]] Shardbearers. They would use two-handed slings to hurl head-sized rocks at Shardbearers; these rocks were capable of quickly damaging Shardplate, with a single blow being enough to make cracks in an unharmed section of Plate. After having made peace with the [[Chasmfiend\|chasmfiends]], the listeners would at times use them in war, riding on their backs. It is said that truly controlling the chasmfiends is not possible, rather, the listeners make mental suggestions to them. After the True Desolation, the listeners were joined by a number of Fused. Similarly, a good number of listeners bonded to lightspren, becoming Knights Radiant of the [[Order of Willshapers\|Order of Willshapers]]. After the formation of Retribution, he promised to the listeners that they could use his light to Surgebind.
 
 #### Organization and Hierarchy
 The listener army is divided into multiple divisions, each one hundred and twenty-eight in number. These divisions have their own name, and may sometimes be made up of of different forms entirely. An example of this is the Storm Division, a division made up entirely of Stormforms. Some of these divisions may join into a single army called a warband. During wartime the listeners also have many warpair scouts, usually from a single division, roaming around, searching for any sign of their enemies. Near the end of the War of Reckoning the entire army was around seventeen thousand listeners, or roughly one hundred and thirty-three divisions, strong.
@@ -137,20 +136,36 @@ The listener military is commanded by a general, also called a warleader, who is
 ## Culture
 ### People
 #### Fashion
-Listeners wear a wide variety of clothing. They are often seen wearing robes, shirts, skirts, and coats. When listeners go out into a highstorm to adopt a new form, they often wear loose robes. This is likely so that their clothes don't get ripped apart during the transformation of their body. Their clothes are all made from woven [[Narbin\|narbin]] cloth. Listener men weave bits of uncut gemstones from the [[Gemheart\|gemhearts]] of [[Chasmfiend\|chasmfiends]] in their beard. Members of each family all wear different gemstones, so a listener can recognize what family someone belongs to just by looking at the gemstones in their beard. They also wear bands on their braids, and members of different families have differently colored bands.
+Listeners wear a wide variety of clothing. They are often seen wearing robes, shirts, skirts, and coats. When listeners go out into a highstorm to adopt a new form, they often wear loose robes. This is likely so that their clothes don't get ripped apart during the transformation of their body. Their clothes are all made from woven [[Narbin\|narbin]] cloth. They are also often seen wearing either boots or shoes. Listener men weave bits of uncut gemstones from the [[Gemheart\|gemhearts]] of [[Chasmfiend\|chasmfiends]] in their beard. Members of each family all wear different gemstones, so a listener can recognize what family someone belongs to just by looking at the gemstones in their beard. They also wear bands on their braids, and members of different families have differently colored bands.
+
+#### Courting
+Listeners also court eachother, and their practices and traditions are very different from those of humans. They generally bond for life, and the couple are referred to as mates. They usually spend only a short time in mateform however, for example, most couples, wishing for a child, take mateform and essentially sequester themselves away for a year. Then, after the child’s birth, they leave the form as fast as possible. Being in mateform with another creates a strong bond. Afterwards, they are referred to as once-mates. There is also evidence of listeners engaging in trios.
 
 #### Relation to Freedom
+>“*This is what it is to be a listener. To reject their conflict. We belong to no god save Roshar itself.*”
+\-Jaxlim[13]
+
 Due to their history, the listeners greatly value their freedom. Because of their fear of the gods, and their ancestors' sacrifice, the listeners decide to assassinate King Gavilar of Alethkar. However, during the resulting war many listeners stop caring about their origins. It is also important to the listeners that everyone can choose their own form, and the [[Council of Five\|Five]] cannot command people to choose a form. Some listeners hate trapping spren and instead prefer to go out into the highstorms themselves and attract the proper spren.
 
 #### Funerary Practices
 The listeners revere their dead, even going so far as to endanger the living to preserve the corpses of the fallen. For example, they take roundabout paths of attack to avoid their fallen while fighting on a battlefield. They find it horrible to touch their dead and will fervently attack anyone who does so. Listeners also consider their gemhearts sacred and personal.
-Listeners are buried in a ritual called a sky burial, although it is not completely clear what this entails.
+Listeners are usually buried in a ritual called a sky burial, it is unknown what exactly this entails, but the body is gone after a while, similar to what happens while burning a body. Instead of a sky burial, some listeners may be left in a cavern, where their bodies dry out and essentially become mummies.
+
+### Religion
+#### Gods
+The listeners have a large number of nameless gods, however, oddly enough, they don’t worship these gods. Instead they fear and hate them. These gods are actually the Fused and the [[Unmade\|Unmade]]. The listeners’ [[Last Legion\|ancestors]] left their gods, along with their forms and civilisation, to gain freedom, and the listeners were terrified that one day, their gods would return to them. However, the War of Reckoning changed many listener minds, making them believe that they needed the forms associated with their gods to defeat the Alethi and save themselves from destruction. This ultimately led to them bringing their gods back onto Roshar, and most of the listeners being killed.
+
+#### Retribution
+The listeners don’t see Retribution as their god, and he has he in turn promised that he doesn’t view of them as his subjects. However, he has granted them use of his light for their surgebinding and agriculture. To get his light, he makes them go out at night, with their gemstones, and ask him to bless them.
+
+#### Chasmfiend
+Due to a mistake in early communication between the Alethi and the listeners, the Alethi, for a short period of time, believed that the listeners worshipped Chasmfiends. They used this to increase the view of listeners as savages and barbarians.
 
 ### Families
 Prior to the [[War of Reckoning\|War of Reckoning]], the listeners were organized in tribe-like families that would vie for control of the ten cities along the western border of the Shattered Plains. There were roughly a dozen families. Some notable listener families include:
 
 
-The family of [[Eshonai\|Eshonai]], [[Venli\|Venli]], [[Thude\|Thude]], [[Bila\|Bila]], and likely also [[Rlain\|Rlain]]. They were thousands strong around the time Eshonai first met with King [[Gavilar\|Gavilar's]] expedition and boasted a noble heritage, though it had been many years since they had controlled one of the ten cities.
+The family of [[Eshonai\|Eshonai]], [[Venli\|Venli]], [[Thude\|Thude]], and [[Bila\|Bila]].  They were thousands strong around the time Eshonai first met with King [[Gavilar\|Gavilar's]] expedition and boasted a noble heritage, though it had been many years since they had controlled one of the ten cities.
 
 
 The second family approached by the First-Rhythm family after the discovery of warform in their attempt at unification of the listener tribes.
@@ -162,29 +177,40 @@ Known to have raided the Fourth-Movement family out in the wilderness, away from
 Once raided by the Pure-Song family in an attempt to seize their weapons.
 
 ### Songs
-
-In order to remember their history and important skills the listeners remember them via songs, each to the beat of a different Rhythm of Roshar. The listeners also have songs about human [[Surgebinding\|Surgebinders]]. These songs were practiced and preserved by a Keeper of Songs. The known songs are as follows:
+In order to remember their history and important skills the listeners have created various songs. Each of these songs is sung to the beat of one of the Rhythms of Roshar. Some of their songs are actually more like chants then real songs. The listeners also have songs about human [[Surgebinding\|Surgebinders]]. The songs were practiced and preserved by a [[Keeper of songs\|keeper of songs]]. This profession was considered to be among the most important, and the keeper of songs had much respect and power inside their family. Each keeper also has at least one or more apprentice keepers. There are over a hundred songs, and new ones continue being written. The known songs are as follows:
 
 
 The [[First Song\|First Song]]
+[[Song of Destruction\|Song of Destruction]]
 [[Song of Histories\|Song of Histories]]
 [[Song of Listing\|Song of Listing]]
 [[Song of Making Paper\|Song of Making Paper]]
 [[Song of Mornings\|Song of Mornings]]
+[[Song of Renunciation\|Song of Renunciation]]
 [[Song of Revision\|Song of Revision]]
 [[Song of Secrets\|Song of Secrets]]
 [[Song of Spren\|Song of Spren]]
+[[Song of the Beasts\|Song of the Beasts]]
 [[Song of the Fallen\|Song of the Fallen]]
 [[Song of Wars\|Song of Wars]]
 [[Song of Winds\|Song of Winds]]
 
 ### Architecture
-Prior to the [[True Desolation\|True Desolation]] the listeners are technologically behind the rest of [[Roshar\|Roshar]]. They live in huts made from hardened [[Crem\|crem]] over frames of shell, which are huddled on the leeward side of lumps of stone to protect them from [[Highstorm\|highstorms]]. These buildings are fragile and would often be destroyed by highstorms, although the listeners would simply rebuild them. The listeners also live in hogshide tents. The Shattered Plains contain a large number of listener bridges, which are flimsy and made of wood and rope. These bridges were likely destroyed during the War of Reckoning. They furnish their houses with woven mats and painted banners.
-When a highstorm is close, the people prepare their homes, an action which includes stuffing rags under their doors, shoving bracing boards into position, and pounding large wooden blocks into their open windows. Before the start of the War of Reckoning, some of the listener families occupy the ten circular craters near the western edge of the plains; they are eventually forced to move to the center of the Shattered Plains.
+Prior to the [[True Desolation\|True Desolation]] the listeners are technologically behind the rest of [[Roshar\|Roshar]]. They live in huts made from hardened [[Crem\|crem]] over frames of shell, which are huddled on the leeward side of lumps of stone to protect them from [[Highstorm\|highstorms]]. These buildings are fragile and would often be destroyed by highstorms, after which the listeners would simply rebuild them. The listeners also live in hogshide tents. The Shattered Plains contain a large number of listener bridges, which are flimsy and made of wood and rope. These bridges were likely destroyed during the War of Reckoning. They furnish their houses with woven mats and painted banners.
+When a highstorm is close, the people prepare their homes, an action which includes stuffing rags under their doors, shoving bracing boards into position, and pounding large wooden blocks into their open windows. Before the start of the War of Reckoning, some of the listener families occupied the ten circular craters near the western edge of the plains; they were eventually forced to move to the center of the Shattered Plains, where a large ruined city stood. After the Battle of Narak, they were again forced to flee their homes, resorting to living out on the Plains. After the Second Battle of Narak though, the listeners could settle wherever they wanted, as the whole region belonged to them.
+
+### Agriculture
+#### Crop cultivation and Foraging
+The listeners cultivate multiple plant species. They grow and eat grain from a certain type of [[Rockbud\|rockbud]], likely to be Lavis. They also use the dried pulp from a species of rockbud to make paper. The listeners also grow and prune [[Shalebark\|shalebark]], although they mostly do this for decoration. They also eat mushrooms, which they gather in the forests near the Shattered Plains, and various tubers. They have their own strains of Lavis and tubers, which are capable of growing on the Shattered Plains themselves. The listeners also use various herbs native to the Shattered Plains to make tea. Instead of using spheres as a currency, they barter with goods and services, reserving a portion of each family’s resources to support children and those who can’t work.
+The listeners also use a technique unknown to other Rosharans to make their crops grow faster. This technique involves either Stormlight or Warlight, the [[Rhythm\|Rhythm]] of Cultivation and [[Lifespren\|lifespren]]. This technique also drains light from the used gemstones, and can even crack them in a way very similar to that of a [[Fabrial\|fabrial]]. By drumming the Rhythm of Cultivation in the presence of crops, listeners prompt lifespren to transfer Stormlight from infused gems into growing plants.
+
+#### Animal Husbandry and Hunting
+They also practice animal husbandry and hunting. They are known to have domesticated [[Chull\|chulls]]. They also keep hogs, which are herded around by groups of listeners; because of this, they have access to hogsmeat and hogshide leather. They also hunt creatures known as [[Zumble\|Zumble]].
+The listeners used to hunt [[Chasmfiend\|chasmfiends]], although they only did this during certain seasons. The listeners were willing to share the chasmfiends with the Alethi, believing that anyone who goes through the trouble of killing the beast is entitled to its corpse. During a [[Greatshell\|greatshell]] hunt, multiple families would band together and use their [[Shardwielding\|Shards]] to kill the animal. The listeners would then share the corpse and [[Gemheart\|gemheart]] with each other, and a feast would ensue. After being rescued by a Chasmfiend during the start of the True Desolation however, the listeners made peace with them, ceased their hunting and the two species made a sort of alliance. The chasmfiends are even content to share some of their food with the listeners.
 
 ### Crafts
 #### Paper
-The listeners have their own unique way of making paper. They make the paper from dried [[Rockbud\|rockbud]] pulp following a harvest. These rockbuds are native to the Unclaimed Hills and Shattered Plains. Their paper is much rougher then human paper and varies in color. Their paper is also textured and full instead of neat and sterile. They have a [[Song of Making Paper\|song]] describing the process, which ensures that the listeners never forget how to make it.
+The listeners have their own unique way of making paper. They make the paper from dried [[Rockbud\|rockbud]] pulp following a harvest. These rockbuds are native to the Unclaimed Hills and Shattered Plains. Their paper is much rougher then human paper and varies in color. Their paper is also textured and full instead of neat and sterile. Paper is also rare enough that they can’t afford to use it to practice painting, instead using shells. They have a [[Song of Making Paper\|song]] describing the process, which ensures that the listeners never forget how to make it.
 
 #### Drums
 The listeners make music using drums. These drums are considered crude by the Alethi, made of hogshide leather and wood. The sides of these drums are stamped with hand prints. The listeners often play their drums in a quick rhythm. It is likely that the listeners beat the drums to one of the [[Rhythm\|Rhythms]].
@@ -208,46 +234,59 @@ See
 ## History
 ### The Last Legion and Abandoning of the Gods
 >“*The Last Legion, that was our name then. Warriors who had been set to fight in the farthest plains, this place that had once been a nation and was now rubble. Dead was the freedom of most people. The forms, unknown, were forced upon us. Forms of power, yes, but also forms of obedience. The gods commanded, and we did obey, always. Always.*”
-\-Jaxlim to Eshonai[7]
+\-Jaxlim to Eshonai[12]
 
 
   A Listener army
-The listeners were originally called the **Last Legion**, and like other [[Singer\|singers]] in the [[Voidbringer\|Voidbringer]] army, they followed the commands of the [[Fused\|Fused]], who were the listeners' gods. The listeners lived in somewhere called the **dark home** (but this might have been metaphorical for being under [[Odium\|Odium's]] influence, and not an actual place). The Last Legion was sent to fight in the farthest plains, probably the plains of [[Natanatan\|Natanatan]] and the [[Shattered Plains\|Shattered Plains]].
-One day the Last Legion, or at least some members of the Last Legion, four hundred strong, fled, leaving the forms of power for dullform. Despite being thus crippled, it led to freedom from their gods. These listeners composed many songs to remember their history and forms, such as the [[Song of Listing\|Song of Listing]], [[Song of Secrets\|Song of Secrets]], and [[Song of Histories\|Song of Histories]] because they risked forgetting everything. They had only known how to transform into forms other than dullform and mateform with the help of gods. Modern-day listeners called this period "the long sleep."
-Later, near the time of the [[Recreance\|Recreance]] and the [[False Desolation\|False Desolation]], the [[Unmade\|Unmade]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] Connected to most singers, providing the singers with [[Regal\|forms of power]] and [[Voidlight\|Voidlight]]. The [[Knights Radiant\|Knights Radiant]] sought to stop this threat by imprisoning Ba-Ado-Mishram. They succeeded but, in doing so, stole part of singers' souls, turning them into slaveform. The listeners were spared from this event, and so it seems that they were not involved with the False Desolation. Due to this, they became the only singers on Roshar with their minds still intact. The listeners inhabited the broken kingdom of Natanatan and the Unclaimed Hills in eastern Roshar for long time, unknown to most humans. During this time they also acquired eight sets of [[Shardplate\|Shardplate]] and eight [[Shardblade\|Shardblades]]. For much of this time, they knew only dullform and mateform, but eventually rediscovered more forms.
+The listeners were originally called the **Last Legion** and were part of the [[Voidbringer\|Voidbringer]] army like many other [[Singer\|singers]]. They followed the commands of their gods, which included the [[Fused\|Fused]] and the [[Unmade\|Unmade]]. They remember this time as living in the ‘dark home’, a metaphor for living under Voidbringer rule. During the [[False Desolation\|False Desolation]], a number of the men who would become the listeners joined [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]’s armies, and they fought somewhere near [[Natanatan\|Natanatan]], later referred to as the ‘farthest plains’ in their songs.
+After successfully defeating a host of human soldiers, one of the men, a singer named [[Toathan\|Toathan]], left the army, slowly walking away. A number of other soldiers, tired of war and feeling a certain wrongness in the Rhythms, joined him and also left the army. Toathan sent them to gather their families and together they would leave, enter the next storm and abandon their forms. Unlike what later generations of listeners envisioned, Mishram let them go peacefully. These four hundred singers would also compose a number of songs to remember their history and forms, such as the [[Song of Listing\|Song of Listing]], [[Song of Secrets\|Song of Secrets]], and [[Song of Histories\|Song of Histories]] because they risked forgetting everything while in dullform. They had only known how to transform into forms other than dullform and mateform with the help of their gods. Modern-day listeners called this period "the long sleep."
+Their departure had a large effect on Mishram, who would begin seeking ways to make peace with humanity. This eventually led to her capture by the [[Order of Bondsmiths\|Bondsmith]] [[Melishi\|Melishi]], which in turn led to almost all singers on Roshar losing a part of their soul, turning them into slaveform. The listeners, due to having rejected Mishram, were the only singers on Roshar to escape this fate. They made their way to the Shattered Plains, where they would spend the next two thousand years. At some point after their arrival here, they carved a membership record of the Last Legion into the crem of Stormseat’s central tower. During this time they also acquired eight sets of [[Shardplate\|Shardplate]] and eight [[Shardblade\|Shardblades]]. For much of this time, they knew only dullform and mateform, but eventually they rediscovered some forms.
 
   A listener archer
 ### Alethi Discovery
 To modern humans, the listeners were originally discovered by the Alethi King [[Gavilar\|Gavilar's]] brother [[Dalinar Kholin\|Dalinar Kholin]] during a hunting trip in 1166. Dalinar was scouting in a forest that wasn't on any maps, in a valley south of the [[Shattered Plains\|Shattered Plains]] and about two weeks' march from the [[Drying Sea\|Drying Sea]]. There, he found Eshonai, exploring. She led the humans to her family's camp. In that same day, [[Venli\|Venli]] had discovered that [[Painspren\|painspren]] may be the key to discovering warform, but her discovery was overshadowed by her sister's.
 At first, the Council of Five only let a few listeners come to meet the Alethi, afraid of frightening them. Slowly, some of the listeners, including Eshonai, began to learn the Alethi language. The Alethi were very interested in the listener's ancient weapons and in the chasmfiends. Due to a mistake in translation, the Alethi started believing that the listeners worshipped the chasmfiends. The listeners were very intrigued by the Alethi's parshmen, believing they had no souls. The Alethi called the listeners the "Parshendi," or *parshmen who can think*. They gave many steel weapons to Eshonai's family, wanting them to take one of the cities at the edge of the Plains.
-In the next human visit, Eshonai and Venli's family had already taken one of the cities at the border of the Shattered Plains. Venli had made no more progress in discovering warform. One of the Alethi, [[Axindweth\|Axindweth]], gave a gemstone to Venli with [[Ulim\|Ulim]] trapped inside, saying it might help her cure her mother, [[Jaxlim\|Jaxlim]]. Venli broke the gemstone and started talking with Ulim. Ulim helped Venli cut a gemstone so that it glowed more brightly and trap a painspren in it. She made about two dozen gemstones with painspren, and gave them to listeners to adopt warform. One of those was Jaxlim, but since Jaxlim didn't adopt the proper mindset for the form, Eshonai, who was acompanying her, took the form instead.
+In the next human visit, Eshonai and Venli's family had already taken one of the cities at the border of the Shattered Plains. Venli had made no more progress in discovering warform. One of the Alethi, [[Axindweth\|Axindweth]], gave a gemstone to Venli with [[Ulim\|Ulim]] trapped inside, saying it might help her cure her mother, [[Jaxlim\|Jaxlim]]. Venli broke the gemstone and started talking with Ulim. Ulim helped Venli cut a gemstone so that it glowed more brightly and trap a painspren in it. She made about two dozen gemstones with painspren, and gave them to listeners to adopt warform. One of those was Jaxlim, but since Jaxlim didn't adopt the proper mindset for the form, Eshonai, who was acompanying her, took the form instead. 
 After the storm in which they adopted warform, another family attacked them. The warform listeners and the family's Shardbearer went out and told them to unite with their family, in order to show the humans an united nation when they next came to the Shattered Plains. They went to dozens of families with their proposal of unity, and they all gathered in the First-Rhythm family's city. Venli told Ulim to have his contacts among the humans make Gavilar bring listeners to the human cities, hoping to intimidate the other listeners and convince them to take forms of power.
-However, upon visiting the human cities, the listeners weren't intimidated; they liked the city and enjoyed themselves there. They signed a treaty with the humans in Tanat 1167, and there was a party to celebrate it. That day, [[Nale\|Nale]] approached Venli, saying that Gavilar was going to betray the listeners and that Venli had to assassinate the king to stop him. That gave Ulim the idea of killing the king to drive the humans to attack the listeners, to intimidate them. At the same time, Gavilar indicated to Eshonai that he wanted to bring back the listener gods. Since the Council of Five feared their gods' return, they voted and decided to kill the king to stop him. Ulim had guided [[Klade\|Klade]] to buy [[Szeth\|Szeth]], so they sent Szeth and he killed Gavilar. The assassination led to the formation of the Alethi [[Vengeance Pact\|Vengeance Pact]] and caused the [[War of Reckoning\|War of Reckoning]], a prolonged war between the listeners and the Alethi on the Shattered Plains.
+However, upon visiting the human cities, the listeners weren't intimidated; they liked the city and enjoyed themselves there. They signed a treaty with the humans in Tanat 1167, and there was a party to celebrate it. That day, [[Nale\|Nale]] approached Venli, saying that Gavilar was going to betray the listeners and that Venli had to assassinate the king to stop him. That gave Ulim the idea of killing the king to drive the humans to attack the listeners, to intimidate them. At the same time, Gavilar indicated to Eshonai that he wanted to bring back the listener gods. Since the Council of Five feared their gods' return, they voted and decided to kill the king to stop him. Ulim had guided [[Klade\|Klade]] to buy [[Szeth\|Szeth]], so they sent Szeth to assassinate Gavilar. The assassination led to the formation of the Alethi [[Vengeance Pact\|Vengeance Pact]] and caused the [[War of Reckoning\|War of Reckoning]], a prolonged war between the listeners and the Alethi on the Shattered Plains.
 
   Listeners after a battle with the <<Alethi\|Alethi>>
 ### War of Reckoning
-During the war, the listeners moved their population to the city at the center of the Shattered Plains. They named the city [[Narak\|Narak]], meaning exile, because they were trapped there after the humans moved to the cities at the edge of the Plains. With help from Ulim, Venli discovered nimbleform, though it still took her several tries to do it. The war of attrition lasted for six years, and the listener population slowly dwindled.
-In the meantime, Venli worked to discover stormform. When cutting gemhearts to make them brighter, her scholars secretly saved pieces of the gemstones to store spren. The main problem Venli was trying to solve was how to draw the stormspren to the [[Physical Realm\|Physical Realm]]. She eventually discovered that lightning pulls the spren through, and managed to trap the spren. Venli brought the form to the Five, and they agreed to a test, though Eshonai insisted she should be the one to try the form, because Venli was too valuable with her knowledge of the forms.
+At the beginning of the war, most of the listeners moved to the city at the center of the Shattered Plains. They named the city [[Narak\|Narak]], meaning exile, because they were trapped there after the humans moved to the cities at the edge of the Plains. a sizeable number of listeners stayed behind however. They, led by a keeper of songs named [[Tlaxam\|Tlaxam]], maintained a tenuous presence in the western chasms. While they were wary of the Alethi, they were also skeptical of the need for war. They traveled the Plains as nomads, seeking shelter in whatever safe hollows they can find in the chasms.
+With help from Ulim, Venli discovered nimbleform, though it still took her several attempts to do so. The war of attrition lasted for six years, and the listener population slowly dwindled. In the meantime, Venli worked to discover stormform. When cutting gemhearts to make them brighter, her scholars secretly saved pieces of the gemstones to store spren. The main problem Venli was trying to solve was how to draw the stormspren to the [[Physical Realm\|Physical Realm]]. She eventually discovered that lightning pulls the spren through, and managed to trap the spren. Venli brought the form to the Five, and they agreed to a test, though Eshonai insisted she should be the one to try the form, because Venli was too valuable with her knowledge of the forms.
+
+  <<Eshonai\|Eshonai>> walking to The Tower of <<Narak\|Narak>>.
 Eshonai took the form, and when she returned to the Five, she proposed to transform every listener to stormform, to summon a storm against the Alethi. However, [[Zuln\|Zuln]] didn't agree, and she convinced [[Abronai\|Abronai]] to disagree as well. So, Eshonai went to the listeners and proclaimed that the Five could not forbid someone from taking a form if they wished to, and that she would take everyone who wished and transform them into stormform. She gathered the people that refused to transform, and put Thude to guard them. They fled into the chasms, and Eshonai let them, believing that they would be killed in the next highstorm.
 At the [[Battle of Narak\|Battle of Narak]] on Ishishach 1173, the final confrontation between the listeners and the Alethi Highprinces, the listeners in stormform sung a terrible song. It formed the [[Everstorm\|Everstorm]] and with it, the [[True Desolation\|True Desolation]] began.
 
 ### The True Desolation
-Shortly after the [[Battle of Narak\|Battle of Narak]], the [[Fused\|Fused]] began to take listener bodies. It seemed that they transformed every single listener into a Fused, except for Venli, who was chosen by Odium to remain alive, taking envoyform; however, it was later discovered that others survived, specifically [[Rlain\|Rlain]], [[Thude\|Thude]], [[Jaxlim\|Jaxlim]], and a couple thousand others who resisted the change to stormform.
-Odium used Venli to tell the story of the listeners to the new singers to inspire them and show them that the people who summoned the Everstorm were singers like them, not beings of legend. Instructed by Odium, she painted the listeners as an heroic group, sacrificing themselves to free the enslaved singers, to be the foundation myth of Odium's growing empire. However, Odium also feared the listeners, as the people who had rebelled against him, so he stopped allowing Venli to answer questions and instructed her to tell her story in a specific way.
+Shortly after the [[Battle of Narak\|Battle of Narak]], the [[Fused\|Fused]] began to take listener bodies. They transformed every single Stormform listener into a Fused, except for Venli, who was chosen by Odium to remain alive, taking envoyform. The others, who were originally believed to have died in the chasms, were surprised by a group of about fifty chasmfiends. These animals came to the listeners and offered their version of a truce. With the help of the chasmfiends, this group of about seventeen hundred Listeners survived the highstorm and fled towards the open Plains. The alliance between the chasmfiends and listeners led to the creation of the Song of Beasts. These listeners also elected a new Council of Five.
+Odium used Venli to tell the story of the listeners to the new singers to inspire them and show them that the people who summoned the Everstorm were singers like them, not beings of legend. Instructed by Odium, she painted the listeners as a heroic group, sacrificing themselves to free the enslaved singers, to be the foundation myth of Odium's growing empire. However, Odium also feared the listeners, as the people who had rebelled against him, so he stopped allowing Venli to answer questions and instructed her to tell her story in a specific way. Later, Venli made her way to Urithiru, where she began realising that allowing the ‘old gods’ to return had been a terrible mistake. She also began gathering singers who weren’t happy with the Fused.
+After Venli, who had recently become a Knight Radiant, heard of a group of surviving listeners, she left Urithiru and made her way to the Plains. With her, she brought a number of singers who had rejected Odium, five Fused of the Shanay-Im brand who had rebelled against Odium and a number of [[Reachers\|Reachers]]. These lightspren began bonding some of the listeners, such as [[Jaxlim\|Jaxlim]], their last remaining full keeper of songs. Some of the listeners were afraid that Odium would seek to destroy the listeners because of their betrayal and because they had taken in a few Fused dissidents. One listener even suggested that the listeners should join humanity in its war. This was rejected by the Five though.
 
-## Notable Listeners
+#### Returning to Narak
+Later, during a highstorm, the [[Stone\|Stone]] spoke to three separate listeners, telling them that they should go to Narak, where a current battle was being fought. They decided to go, and a number of listeners, among which the Five, and a few chasmfiends traveled to the center of the Plains, drawn by an unknown song. Nearing their destination, the listeners decided to leave some of their group, along with the Fused and chasmfiends, behind. After arriving at their destination, the listeners realised that the song they had been following came from underground. As a Willshaper, one of them created a tunnel towards the sound, and they discovered that at the end of their tunnel was a large pool of golden liquid, which they understood to be Odium’s perpendicularity. After spending only a short period of time underground however, one of their scouts returned to tell them that the group they had left behind had been spotted. They quickly returned to the surface and sealed off the tunnel before being taken to the Singer general, [[El\|El]]. During the following conversation, El told them that Odium would be sure to destroy the listeners after the war was over. However, he also insinuated that if they and their chasmfiends aided him in taking Narak, Odium would spare them.
+The listeners came up with a cunning plan however, and during the night, they sent Venli to treat with the human forces. Venli crafted a treaty with Queen Jasnah Kholin of the Alethi, giving the listeners the Alethi territories near the Shattered Plains, while giving the Alethi the right to rent land for their farms and lumberyards. Afterwards, Venli returned and the listeners took El’s offer, making quite a spectacle of pretending to fight the humans. In truth however, this was mostly acting, with (almost) no humans dying. After the Coalition retreat from Narak, the listeners waited until the [[Contest of champions\|contest of champions]] had begun, and then, with all borders frozen, showed El their treaty, insisting that he and his forces leave their newly-formed nation. El recognized that Odium was bound by the treaty, and marched his forces home. Some singers, including a few Fused, stayed and joined the listeners.
+
+### Night of Sorrows
+>“*We make a nation, a strong one, for any singer who wants to join us. Anyone who seeks to listen, and hear, the peaceful rhythm in the stillness of the storm’s heart.*”
+\-Venli to the rest of the listeners about their future[4]
+
+The following day, as the Everstorm covered most of Roshar, including the Shattered Plains, Retribution sent a messenger to the listeners. The messenger explained that the listeners could use Retribution’s new light, called Warlight, for their Surgebinding powers and for growing crops, as the listeners had previously done with Stormlight. He explained that if they took their spheres outside at midnight and asked for him to bless them, he would grant them the light. He also assured them that he didn’t see himself as their god, but rather as an interested third party, and told them he would be in touch. 
+At the same time, the perpendicularity they had found had emptied of Odium’s investiture, and had later filled again with Warlight. Retribution’s empire later sent ambassadors to the new listener nation. It is unknown whether or not Tlaxam’s listeners, who weren’t known to exist to the other surviving listeners, joined their nation.
+
+## Notable listeners
 For a full list of listeners, see Category: Listeners.
 
 [[Eshonai\|Eshonai]]
 [[Klade\|Klade]]
 [[Thude\|Thude]]
-[[Devi\|Devi]]
-[[Varanis\|Varanis]]
+[[Jaxlim\|Jaxlim]]
+[[Bila\|Bila]]
 [[Venli\|Venli]]
+[[Tlaxam\|Tlaxam]]
 [[Demid\|Demid]]
 [[Rlain\|Rlain]]
-
-## Footnotes
 
 
 

@@ -6,7 +6,7 @@
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
->“*Celebrant is a prominent city. In it, we could find passage wherever we wish to go.*”
+>“*Celebrant is a prominent city. In it, we could find passage wherever we wish to go. *”
 \-Pattern remarking on Celebrant[1]
 
 
@@ -36,12 +36,12 @@ Celebrant is located on the western side of the island counterpart to the [[Sea 
 >“*At Celebrant, the moneychangers have perfect gemstones that can hold the light indefinitely... They use devices to transfer it from smaller gemstones to their perfect ones. Then they give you credit to spend in the city.*”
 \-Ico describing Celebrant to Kaladin[6]
 
-Celebrant is organized in a similar fashion to that of a human city, though not as densely populated, with a market and docks. There are towers in the center of the city used to tell the time by a set of fires that burn in vertical holes. The buildings are each constructed of a variety of materials, like differently colored bricks or different types of stone. These materials may be manifested from physical objects.
-The city keeps a store of sand that can be used to put out fires when required. Due to Shadesmar's lack of water, this may be the main purpose of such a store.
+Celebrant is organized in a similar fashion to that of a human city, though not as densely populated, with a market and docks. These docks are longer then the city itself. There are towers in the center of the city used to tell the time by a set of fires that burn in vertical holes. The buildings are each constructed of a variety of materials, like differently colored bricks or different types of stone. These materials may be manifested from physical objects.
+The city keeps a store of sand that can be used to put out fires when required.  Due to Shadesmar's lack of water, this may be the main purpose of such a store.
 
 ### Docks
 The docks are longer than the city itself, to accommodate for its status as a trading hub. Ships are made to berth along stone piers, where braces beneath the sea of spheres support the vessels after their [[Mandras\|mandras]] have been taken away. Rows of long warehouses mark the shore along the docks, obscuring a view of the city.
-The dock registrar, housed in a blue-painted building, is run by a cultivationspren who manages inspections as well as keeping record of docked ships and their travel arrangements. Although they keep track of which ships take passengers, they do not record which ships are friendly to humans and will offer them travel. Humans looking for sea passage must speak to ships individually to enquire whether they have suitable accomodations. Ship inspections are performed at first hour everyday and normally only take thirteen minutes.
+The dock register, housed in a blue-painted building, is run by a cultivationspren who manages inspections as well as keeping record of docked ships and their travel arrangements. Although they keep track of which ships take passengers, they do not record which ships are friendly to humans and will offer them travel. Humans looking for sea passage must speak to ships individually to enquire whether they have suitable accomodations. Ship inspections are performed at first hour everyday and normally only take thirteen minutes.
 Adjacent moneychanger, [[Stormlight\|Stormlight]] can be traded for notes of exchange.
 
 ### Market

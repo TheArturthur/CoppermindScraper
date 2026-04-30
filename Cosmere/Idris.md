@@ -45,7 +45,7 @@
 
 4. [[#People]] 
 4. [[#Fashion and beauty]] 
-4. [[#Biochroma]] 
+4. [[#BioChroma]] 
 
 4. [[#Breath]] 
 4. [[#Returned]] 
@@ -78,8 +78,8 @@
 \-Siri telling Susebron about the mountains of her homeland[2]
 
 
-Idris lies in a large mountain range. The Idrian mountains experience cold weather, with it being warm for only a short time in the summers. Due to this cold climate agriculture is hard, and crops sometimes fail. For at least part of the year it snows, which is an important factor is the nation’s defense.
-The northern mountains have vegetation that buds out in spring, There are fields and meadows with grasses and wild flowers. The air here is crisp and chilly due to the elevation. A known type of flower is the Vanavel, the flower and the roots from this plant are eatable. Some valuable roots grow high up in the mountains. There are also berry bushes in the highlands.
+Idris lies in a large mountain range. The Idrian mountains experience cold weather, with it being warm for only a short time in the summers. Due to this cold climate agriculture is hard, and crops sometimes fail. For at least part of the year it snows, which is an important factor is the nation’s defense. 
+The northern mountains have vegetation that buds out in spring, There are fields and meadows with grasses and wild flowers. The air here is crisp and chilly due to the elevation. A known type of flower is the [[Vanavel\|Vanavel]], the flower and the roots from this plant are edible. Some valuable roots grow high up in the mountains. There are also berry bushes in the highlands.
 
 ## Government
 ### Monarchy
@@ -132,7 +132,7 @@ Those of the royal family who either rule or are potential heirs have the [[Roya
 >“*Your people are in a state of rebellion against the rest of the kingdom.*”
 \-Treledees to Siri[8]
 
-Hallandren and  have bad relations with each other. This is due to a number of reasons.
+Hallandren and  have bad relations with each other. This is due to a number of reasons. 
 Idris and Hallandren used to be the same country, although at the conclusion of the [[Manywar\|Manywar]] they split. The Idrians view this event as the Hallandren rebelling against them, turning into pagans by worshipping the [[Returned\|Returned]]. In turn the Hallandren view the Idrians as rebels. Due to this Hallandren claims the Idrian mountains as their own territory, further provoking hostilities.
 The Idrian religion of [[Austrism\|Austrism]] teaches against many things done or used in Hallandren such as ostentation, [[Lifeless\|lifeless]] and [[Awakening\|awakening]]. This makes the Idrians believe that the Hallandren are terrible, as they do everything their religions preaches against. The Idrians also view the Iridescent Tones as heresy, thinking of the Hallandren as pagans. This further provokes hostilities.
 The Idrians have many false views of Hallandren, this is because of, among others, false stories told by ramblemen.
@@ -172,7 +172,7 @@ Idrians tend to dress in a way that avoides attention, in line with their [[Aust
 Clothing is drab, bleached grey or white. Some clothes are also brown, although this borders on being to colorful.
 Clothing is typically very covering. Most women wear clothing that covers even the neck. Trousers are not found to be modest. These clothes are often made out of wool. The Idrians don’t use silk for clothing. Some Idrians wear gloves when they are working.
 
-### Biochroma
+### BioChroma
 #### Breath
 The Idrians consider their breath to be intimately linked to their soul. For that reason they are afraid of losing their Breath, and consider holding the [[Breath\|Breaths]] of others to be sinful. Using them to [[Awakening\|Awaken]] is considered to be an even greater sin.
 
@@ -184,20 +184,20 @@ Idris is drab and relatively devoid of color, reflecting the Idrian people's ave
 Most buildings are single-storied and are squat. Idrian homes are fairly small, with a normal Hallandren home being considered a mansion. The Idrians also use thatch for their roofs.
 
 ### Cuisine
-The Idrian people enjoy a wide variety of foods. Known vegetables include cucumbers, onions and something that looks like grass. They also eat flowers and berries, a known type of eatable flower is the Vanavel.
+The Idrian people enjoy a wide variety of foods. Known vegetables include cucumbers, onions and something that looks like grass. They also eat flowers and berries, a known type of edible flower is the Vanavel.
 Idrians also eat meat, although they primarily subsist on vegetables. They don’t eat fish, and many Idrians find it distasteful.
 
 ## Economics
 ### Trade
-Idris has few exports of note. The kingdom gains most of its income from tariffs on four main trade passes that it controls. These trade passes are extremely important to [[Hallandren\|Hallandren]], as they are the kingdom's only reliable method of passage to the north. Idris must be careful with the tariffs it charges on goods that pass through these trade routes, as raising them too high would upset the countries that use their routes and could be cause for war.
+Idris has few exports of note. The kingdom gains most of its income from tariffs on four main trade passes that it controls. These trade passes are extremely important to [[Hallandren\|Hallandren]], as they are the kingdom's only reliable method of passage to the north.  Idris must be careful with the tariffs it charges on goods that pass through these trade routes, as raising them too high would upset the countries that use their routes and could be cause for war.
 
 >“*It’s hard, sometimes, living up in those mountains. Crops fail, and what do you have? The king owns your land, so you can’t sell...*”
 \-Thame explaining to Vivenna why thousands of Idrians work in Hallandren[3]
 
-Commerce in Idris is not particularly robust at the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]]. Due to this, many struggling Idrians find themselves traveling south to Hallandren for work to support their families. Farming is difficult in the snowy mountain range of Idris and farmland is owned and levied by the kingdom, not by the farmers themselves. Thus, struggling farmers cannot rent or sell land if their crop yield is low, forcing them to find work elsewhere.
+Commerce in Idris is not particularly robust at the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].  Due to this, many struggling Idrians find themselves traveling south to Hallandren for work to support their families. Farming is difficult in the snowy mountain range of Idris and farmland is owned and levied by the kingdom, not by the farmers themselves.  Thus, struggling farmers cannot rent or sell land if their crop yield is low, forcing them to find work elsewhere.
 
 ### Disaster relief funds
-Idris has disaster relief funds, and one can petition the king in the case of disaster. A major flaw with this program is that it requires travel to Bevalis, which can take several weeks. Thus it is more practical to seek work in Hallandren, which is not far from lower farms in southern Idris. This is often a better alternative to taking a long trek through snowy mountains, likely with minimal supplies due to the disaster, to petition the king for assistance.
+Idris has disaster relief funds, and one can petition the king in the case of disaster.  A major flaw with this program is that it requires travel to Bevalis, which can take several weeks.  Thus it is more practical to seek work in Hallandren, which is not far from lower farms in southern Idris.  This is often a better alternative to taking a long trek through snowy mountains, likely with minimal supplies due to the disaster, to petition the king for assistance.
 
 ## History
 >“*The royal family of Idris, who can apparently trace their line back to [[Vo\|the first Returned]]. Another heritage of divinity, a challenger for rightful rule in Hallandren.*”

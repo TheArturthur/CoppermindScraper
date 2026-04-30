@@ -5,16 +5,16 @@
 ||
 |**Died**|1175, killed by [[Taravangian\|Taravangian]] using [[Nightblood\|Nightblood]]|
 |**Abilities**|[[Shard\|Shard]] of [[Odium\|Odium]]|
-|**Titles**|[[Odium\|Odium]], King of gods, God Great God|
+|**Titles**|[[Odium\|Odium]], Passion, King of gods, God Great God|
 |**Aliases**|Nun Raylisi, Rasan|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I know pain. I am the only god who does. The only one who cares.*”
-\-Rayse[7]
+\-Rayse[8]
 
 
 **Rayse** was the first Vessel of the Shard [[Odium\|Odium]]. After Ascending, he went on a series of killings of various Shards in an attempt to become the sole god of the cosmere. He was bound to the Rosharan System for around seven-thousand-seven-hundred standard years. He died at some point during Vev 1175, slain by [[Taravangian\|Taravangian]] with [[Nightblood\|Nightblood]].
@@ -33,7 +33,36 @@
 
 
 2 Abilities. [[#Abilities]] 
+
+2. [[#Passions]] 
+2. [[#Prison]] 
+
+
 3 History. [[#History]] 
+
+3. [[#Before the Shattering]] 
+3. [[#Shattering of Adonalsium]] 
+3. [[#Odium.27s Crusade]] 
+3. [[#Alaswha and the First Desolation]] 
+
+3. [[#Intervention on Alaswha]] 
+3. [[#Intervention on Roshar]] 
+3. [[#The First Desolation]] 
+
+
+3. [[#The Last Desolation]] 
+3. [[#The False Desolation]] 
+3. [[#The Recreance and the Death of Honor]] 
+3. [[#Leadup to the True Desolation]] 
+
+3. [[#Battle of Thaylen Field]] 
+3. [[#Deal with Taravangian]] 
+3. [[#Deciding on the Contest of Champions]] 
+
+
+3. [[#Death]] 
+
+
 4 Relationships. [[#Relationships]] 
 
 4. [[#Autonomy]] 
@@ -52,13 +81,13 @@
  
 ### Appearance
 For more images, see [[Rayse/Gallery\|/Gallery]].
-While Odium’s true essence is too powerful to be seen, Rayse generally presents himself as an old man with a wide, furrowed face and bone-white hair sweeping back from his head, and thick mustaches with a hint of black in them blended into a short white beard. His features look [[Shin\|Shin]], that is to say, he has pale skin and lacks epicanthic folds, and he wears a golden crown in his powdery hair.
+While Odium’s true essence is too powerful to be seen, Rayse generally presents himself to humans as an old man with a wide, furrowed face and bone-white hair sweeping back from his head, and thick mustaches with a hint of black in them blended into a short white beard. His features look [[Shin\|Shin]], that is to say, he has pale skin and lacks epicanthic folds, and he wears a golden crown in his powdery hair.
 To the [[Singers\|singers]], on the other hand, he appears as an ancient singer with gold and white marbled skin. He carries a golden sceptre in both of these forms.
 When [[Dalinar\|Dalinar]] claims to have seen Odium, Rayse shows him an enormous, all-encompassing white-and-red flame emanating human emotion, chiefly hatred and anger.
 
 ### Personality
 >“*Rayse... was among the most loathsome, crafty, and dangerous individuals I had ever met.*”
-\-Hoid[15]
+\-Hoid[16]
 
 
 #### Mortal
@@ -75,7 +104,7 @@ He is willing to grant people liberty from an oppressive master if it means that
 
  
 >“*I DO NOT THINK THAT IS TRUE, VYRE, THOUGH I UNDERSTAND WHY YOU THINK IT SO. I FEEL YOUR PASSIONS, AS THEY ARE MINE. I UNDERSTAND YOU.*”
-\-Odium speaking to Vyre[32]
+\-Odium speaking to Vyre[33]
 
 Following from his beliefs regarding passion and emotions, he believes a world without such things as not being worth living in. He also believes himself the only Vessel to truly understand pain and emotion, and the only one to truly care about mankind. He attempts to comfort people through insuring them that he understands them and their feelings, and that he truly cares about them. He wants to take away the pain of sapient beings, to take away their guilt for their actions. To allow them to fully indulge in their emotions and passions without having to feel the weight of pain or guilt. He offers to take away the pain as one of his primary methods of getting people to turn to him, as he preys on their pain, guilt, and insecurities. Despite his claims to love mankind, he considers the lives of humans and singers of inherently lesser value than his own, and looks down upon them. He does, however, see his singers as more valuable soldiers than mankind, and is willing to use the blood of mankind to preserve and strengthen them.
 He is a man deeply driven by hatred and contempt, despite his kindly facade, and is prone to bouts of anger.
@@ -86,20 +115,98 @@ If it means achieving his goals, he would attempt something even if he doesn't f
 He presents himself as a regal king, donning a golden crown and staff, reflective of his desires and how he views himself. He even uses his regal staff when presenting himself to the Singers, likely as a display of authority.
 
 >“*No. No, we killed you. WE KILLED YOU !*”
-\-Odium upon seeing Honor's Perpendicularity[22]
+\-Odium upon seeing Honor's Perpendicularity[23]
 
 As a Vessel of a Shard of Adonalsium, and a deeply arrogant man, Rayse fears very little. But one thing he does fear is [[Szeth\|Szeth]] and [[Nightblood\|Nightblood]], for Nightblood is one of the only things that could truly kill him. He also came to fear Dalinar when he opened the Perpendicularity. He also fears Harmony, both due to his power and the concept he represents. Lastly, he fears the concept of losing himself, particularly by taking up other Shards and having his mind and self warped by them, thus he attempts to Splinter Shards rather than absorbing them into himself.
 When truly terrified, such as upon Dalinar opening the Perpendicularity, he tends to completely lose his composure and begin screaming violently. Ordering his followers to dispatch of the threat in a panic, even if they likely couldn't stop it.
 
+>“*That... Did not go as planned, perhaps we went too far... Too far though. This *was* too far...*”
+\-Odium when looking upon Ashyn following its Scouring[46]
+
+While violent and willing to play with mortal lives like pawns, he is not completely lacking in care for his followers and does have standards in the destruction he brings about. He was upset about the destruction that his and Honor's actions brought about on Ashyn, and admitted that they went too far and crossed a line. The Scouring did not appear to have an especially strong emotional impact on him, but he did exhibit some degree of remorse and self-reflection at what had happened.
+
 ## Abilities
-Rayse is a Vessel of a [[Shard\|Shard]], with all the abilities this entails, including the power to create a magic system by [[Invest\|Investing]] into a world, and is functionally immortal.
-Apart from the magic systems his Shard fuels, Rayse is capable of perceiving the future. How good he is at it is uncertain; while his abilities exceed that of [[Honor\|Honor]] or [[Taravangian\|Taravangian's]] [[Diagram (literature)\|Diagram]], he still has blind spots, mostly pertaining to other seers, and he can be wrong. He's also able to corrupt and subvert the [[Investiture\|Investiture]] of others, and force a connection to himself, though the latter requires a proper mental state in the recipient.
-Unlike [[Ati\|Ati]], Rayse is unable to use Odium to alter text documents. This is because unlike [[Scadrial\|Scadrial]], which was created partly with [[Ruin\|Ruin's]] own power, Roshar was not suffused with Odium's [[Investiture\|Investiture]].
-Rayse knows how to kill and splinter other Shards without getting killed or splintered himself. It is unclear whether Odium has some unique skill or attribute enhancing his ability to do this or whether all Shards are capable of these actions, given the right motivation.
-Rayse is capable of removing the negative emotions, such as pain and guilt, of his followers, so long as they are Connected to him. When the Connection is held, any negative emotions are drained out of an individual when the feelings arise, leaving them feeling nothing. This can be temporarily undone by disrupting the Connection between him and a given follower.
+For More on Rayse's powers and abilities, see [[/wiki/Shard#Powers and Abilities]].
+Rayse is a Vessel of a [[Shard\|Shard]], with all the abilities this entails, including the power to create a system of Invested Arts by [[Invest\|Investing]] into a world, and is functionally immortal.
+Apart from the Invested Arts his Shard fuels, Rayse is capable of perceiving the future. How good he is at it is uncertain; while his abilities exceed that of [[Honor\|Honor]] or [[Taravangian\|Taravangian's]] [[Diagram (literature)\|Diagram]], he still has blind spots, mostly pertaining to other seers, and he can be wrong. He's also able to corrupt and subvert the [[Investiture\|Investiture]] of others, and force a [[Connection\|Connection]] to himself, though the latter requires a proper mental state in the recipient.
+As a Vessel of a Shard, he has the power to destroy entire planets, even unintentionally, in the mere wake of combat with other Shards.
+Unlike [[Ati\|Ati]], Rayse is unable to use Odium to alter text documents.
+Rayse knows how to kill and splinter other Shards without getting killed or splintered himself. He was, however, permanently wounded in his battles with other Shards.
+
+### Passions
+Rayse, as Odium, is capable of removing the negative emotions, such as pain and guilt, of his followers, so long as they are Connected to him. When the Connection is held, any negative emotions are drained out of an individual when the feelings arise, leaving them feeling nothing. This can be temporarily undone by disrupting the Connection between him and a given follower.
+He is also capable of feeling emotions of others as if they were his own, he feels emotions and pain all across the cosmere. This was initially overwhelming to Taravangian upon becoming the Vessel of Odium, though Rayse himself appears to have become accustomed to it. This does not appear to be able to be ignored or deactivated, as it is an inherent aspect of the power the Vessel holds.
+
+### Prison
+Rayse is imprisoned in the Rosharan system due to the oaths he made with Honor and Cultivation, which bound him and his Shard to the system.
 
 ## History
-Rayse had once been a human from the planet [[Yolen\|Yolen]]. He participated in the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]] along with fifteen other people, and chose the Shard of Odium for himself. Afterwards, much like the other Shards, he departed the planet. While his Shard was interpreted as Odium from the very beginning, it's uncertain if the series of killings he would subsequently go on was his plan from the start.
+### Before the Shattering
+Rayse had once been a human from the planet [[Yolen\|Yolen]]. He and [[Tanavast\|Tanavast]] had always been rivals, even before their Ascensions.
+
+### Shattering of Adonalsium
+He participated in the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]] along with fifteen other people, and chose the Shard of Odium for himself. Afterwards, much like the other Shards, he departed the planet. While his Shard was interpreted as Odium from the very beginning, it's uncertain if the series of killings he would subsequently go on was his plan from the start.
+
+### Odium's Crusade
+At some point after Ascending, Odium went after one of his fellow Shards, [[Ambition\|Ambition]], as he felt most threatened by her Intent. However, before he could find her, he located two other Shards, [[Devotion\|Devotion]] and [[Dominion\|Dominion]], in the [[Selish system\|Selish system]]. Because they had settled together, Odium attacked them, since he could argue that they were breaking the agreement the Vessels made about not being in the same system as another Shard. Through means unknown, Odium killed and [[Splinter\|Splintered]] them both. To prevent their remaining power from gaining intelligence of its own, he then pulled it out of the [[Spiritual Realm\|Spiritual Realm]] and into the [[Cognitive Realm\|Cognitive]], creating the [[Dor\|Dor]] and causing [[Sel\|Sel's]] magic systems to become location-dependent. He wasn't very experienced at the time, and his countermeasure failed as the Dor did, indeed, begin to gain a measure of sentience.
+After creating the Dor, Odium went on to the [[Threnodite system\|Threnodite system]], where he found and attacked his initial target, Ambition. During the fight, Ambition was dealt a grievous wound, and chunks of her power were flung across the system. Ambition managed to flee the system, but was still Splintered in a fight with Odium. The Shard [[Mercy\|Mercy]] was also involved in at least one battle with Ambition and Odium. These clashes resulted in a wound in the Spiritual Realm and had "disturbing" effects that "twisted" the planet [[Threnody\|Threnody]] and its inhabitants.
+Although Odium was successful in these initial conflicts, he was weakened and severely wounded by them.
+
+### Alaswha and the First Desolation
+#### Intervention on Alaswha
+Odium intervened with human development on the planet of Alaswha in the Rosharan System around eight thousand years before the [[Night of Sorrows\|Night of Sorrows]]. According to [[Ishar\|Ishar]], [[Hoid\|Hoid]] was in same way responsible for the humans of Ashyn gaining contact with Odium. Odium granted powerful Surges to [[Odium's empire\|one of the many city-states]] dotting the planet, and backed it in its hegemonic expansion into an immense empire.
+He introduced himself to the people of Alaswha as Passion, not Odium.
+Honor soon intervened, and gave his own Surges to a resistance faction against the growing empire, led by [[Makibak\|Makibak]]. This would lead to escalation in the conflict, which eventually, around nine hundred years later, led to the destruction of Alaswha's surface. This desolation led to the human exodus from Ashyn, as Alaswha was renamed after its destruction, to the nearby planet of [[Roshar\|Roshar]]. Odium travelled alongside them, and began to interfere with the planet of Roshar as well.
+
+#### Intervention on Roshar
+Odium followed mankind to Roshar, though he quickly turned against them and began to introduce himself as a god to the Singer people of Roshar. Motivated by their feelings of betrayal and abandonment towards Honor, who had left them for nine hundred years as he dealt with his proxy wars on Ashyn.
+Around fifty years later, Odium was almost drawn into conflict with Honor and [[Cultivation\|Cultivation]], but he dissuaded them by showing them the future destruction such a battle could bring about. In response, they began to debate on a contract that they could all be held to, in order to prevent the same destruction that occurred on Ashyn, which included binding all three Shards to the [[Rosharan system\|Rosharan system]]. Under threat of the other Shards being called against him for his actions, he accepted the oath, and became bound by it, and thus bound to the Rosharan system itself. Shortly following this binding, Roshar began to adopt Odium as it did Honor and Cultivation before him.
+
+#### The First Desolation
+Soon afterwards, war broke out between Odium's Fused and the humans.
+Forty-three years into the First Desolation, Honor decided to make his [[Herald\|Heralds]] in order to seal away the Fused on Braize, as to grant mankind periods of peace from Odium's wrath. This began the system of Desolation, Isolation, and interbellum which would come to define Rosharan history. The [[Oathpact\|Oathpact]] that Honor created at this moment took advantage of the strong shared [[Connection\|Connection]] that the Heralds and Fused had with Odium, in order to simultaneously seal both groups away on Braize.
+At some point, either during or after the First Desolation, Odium created the [[Unmade\|Unmade]] in response to Honor's Heralds as part of a growing arms race between the two Shards.
+
+### The Last Desolation
+During the years leading up to the Last Desolation, around four thousand five hundred and fifty years before the Night of Sorrows, Odium and Honor clashed above Natanatan, wounding each other and shattering the landscape that came to be known as the [[Shattered Plains\|Shattered Plains]].
+
+### The False Desolation
+Around two thousand years before the Night of Sorrows, Odium's perpendicularity was absorbed by one of his Unmade, [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], who used its power to Connect to the Singers and initiate a new Desolation, without the Fused. Ba-Ado-Mishram also used the power to protect herself and her people from Odium's touch, which left him in great ire and desperation.
+Odium came to Honor and threatened to kill him, infuriated by his long imprisonment, however, his desperation to stop Ba-Ado-Mishram led him to agree to a [[Contest of champions\|contest of champions]] with Honor. This contest was agreed to under the conditions that Honor work to imprison or otherwise stop Ba-Ado-Mishram. The oath also forbade Odium directly attacking Honor without first being attacked. Both parties agreed to these terms.
+
+### The Recreance and the Death of Honor
+Honor had greatly weakened himself and angered his Shard by betraying Ba-Ado-Mishram. This weakness quickly lead to the Shard completely abandoning its Vessel, leaving Tanavast weak and defenseless, and thus open to attack from Odium. And thus, Odium was able to kill Tanavast in revenge for millennia of imprisonment. However, the death of Tanavast did not free Odium of his binding, and thus he was forced to wait and prepare for the [[True Desolation\|True Desolation]].
+
+
+### Leadup to the True Desolation
+As the True Desolation began and the [[Fused\|Fused]] started taking over human territory, Odium focused on [[Dalinar Kholin\|Dalinar Kholin]] while maneuvering his forces towards [[Thaylen City\|Thaylen City]], where the confrontation between the two sides would occur. He penetrated one of [[Dalinar's visions\|Dalinar's visions]] and let him believe that Odium was the Almighty for a short while before revealing himself. Although Dalinar refused to release him, Odium was certain that Dalinar would eventually do so, and showed him his true form when Dalinar began to get too comfortable. He did not, however, agree to the contest of champions Dalinar suggested.
+Odium also interacted with [[Venli\|Venli]]. He stopped the Fused from taking her body and granted her [[Envoyform\|envoyform]] instead to spread his propaganda among the newly awakened singers. When she didn't work hard enough to his satisfaction, he tortured and threatened her, causing Venli to reconsider her current allegiance further.
+Dalinar and Odium spoke once more in a different vision, after Dalinar attempted to negotiate with Venli. Odium initially attempted to tear the vision apart, although Dalinar managed to send Venli out of it before that could happen. Odium then appeared to Dalinar and scolded him for thinking that any sort of accord between the two races was possible, before reassuring Dalinar that peace would, indeed, happen -- after Roshar was destroyed.
+
+  Odium watching <<Dalinar\|Dalinar>> opening <<Honor's Perpendicularity\|Honor's Perpendicularity>>
+#### Battle of Thaylen Field
+For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+>“*No. No, we killed you. WE KILLED YOU !*”
+\-Odium upon seeing Honor's Perpendicularity[23]
+
+
+Odium decided to lead his forces on [[Thaylen City\|Thaylen City]] personally, although he didn't intend to use the plain [[Singer\|singers]] in battle. He first sent a pair of [[Thunderclast\|thunderclasts]], one to destroy the city walls, and the other to get to the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], along with [[Fused\|Fused]] to ensure that the [[King's Drop\|King's Drop]] wouldn't fall into the wrong hands. Then, Odium used [[Nergaoul\|Nergaoul]] and the Alethi dependence on the [[Thrill\|Thrill]] to possess the [[Sadeas princedom\|Sadeas princedom]] forces in the city and make them turn against their own allies.
+Odium then went, taking with him Venli and several other Fused, to confront Dalinar in front of the city. Dalinar once more repeated his demand for the contest of champions, and this time, Odium agreed, before revealing that his champion would be Dalinar himself. By reminding Dalinar of his past crimes, chief among them the murder of his wife, [[Evi\|Evi]], Odium attempted to persuade Dalinar to surrender his guilt and accept that it was all Odium's fault. However, though Dalinar was initially horrified, he refused to give in. Odium could only watch, speechless, as Dalinar's newfound resolve allowed him to swear the Third Ideal of the [[Bondsmiths\|Bondsmiths]] and open [[Honor's Perpendicularity\|Honor's Perpendicularity]].
+This development horrified Odium, especially when he recognized whatever Dalinar became at this moment. Realizing that he lost his trump card -- and that Dalinar could now push him into a *real* contest of champions -- Odium swiftly retreated from the field, leaving his armies to lose the battle.
+
+#### Deal with Taravangian
+King [[Taravangian\|Taravangian]] of [[Kharbranth\|Kharbranth]] had been planning to strike a deal with Odium for some time, as neither he nor his [[Diagram (literature)\|Diagram]] believed that defeating a god would be plausible. As such, he found a way to communicate with the Shard, both by writing and through actions such as opening the [[Kholinar\|Kholinar]] [[Oathgate\|Oathgate]] to let the [[Voidbringers\|Voidbringers]] invade [[Urithiru\|Urithiru]].
+Some time after the Battle of Thaylen Field, Odium obliged him, visiting him in Urithiru after Taravangian let him in by opening a window. Odium revealed that he knew perfectly well that Taravangian had both brilliant and less intelligent days, and deliberately visited on one of the latter, to make sure that Taravangian knew he had nothing to negotiate with. Though Odium praised the Diagram, he used it to show how much further his own future sight reached. This inadvertently let Taravangian know that Odium was unable to perceive anything involving [[Renarin Kholin\|Renarin Kholin]].
+By reading the Diagram, Taravangian eventually managed to negotiate with Odium, though his initial offering of sparing anyone Taravangian ruled was discarded, with Odium pointing out that Taravangian sought to become the king of the whole of Roshar. Eventually, the two settled on sparing the citizens of Kharbranth and their spouses.
+
+#### Deciding on the Contest of Champions
+A year later, Odium brought Dalinar into a vision and agreed to set the terms of their contest. Although Odium's most important point was being able to leave Roshar--a restriction that Dalinar *could* have lifted, as the largest remnant of Honor's Investiture--Dalinar refused, deciding that since Honor had died to keep Odium in the system, that point would need to remain. At this point, Odium came very close to incinerating Dalinar, almost losing control of his Intent, but managed to keep his temper in check. 
+
+  <<Taravangian\|Taravangian>> killing Rayse and Ascending to Odium
+Eventually, they agreed that on the tenth day of the new month, they would each appoint a willing champion, who would be allowed to the top of Urithiru—unharmed by either side—to fight to the death. If Dalinar's champion won, Odium would return Alethkar and Herdaz to the coalition, fulfilling Dalinar's oath to [[Dieno\|the Mink]]. If Odium's champion won, he would keep those two nations and Dalinar would serve his interests in the wider cosmere as a Fused. In either case, Odium would remain bound to the Rosharan system, but would keep the other lands he had won and be able to send agents to the wider Cosmere, and both leaders would be required to enforce the peace to the best of their ability. Additionally, at least some of the protections specified for Hoid in Dalinar's initial proposal seem to be in effect.
+
+### Death
+Later that day, Taravangian managed to manipulate Szeth and Rayse to come to him at the same time. When Rayse pulled him into a vision, Taravangian grabbed [[Nightblood\|Nightblood's]] Cognitive aspect and stabbed Rayse with it, killing him. Right before this happened, Szeth had stabbed Taravangian with his belt knife, but just as he died, Taravangian Ascended to become Odium. Rayse's body appeared in the place of Taravangian's, although it was so damaged by Nightblood that Szeth was unable to tell the difference. 
 
 For the subsequent events, see [[/wiki/Odium#History]].
 ## Relationships
@@ -109,7 +216,7 @@ He was working with [[Autonomy\|Autonomy]] to an unclear extent. Had he not been
   Dalinar facing off with Rayse
 ### Dalinar
 >“*Don't blame yourself. I made you kill her, Dalinar. I caused all of this. Do you remember?*”
-\-Rayse to Dalinar[21]
+\-Rayse to Dalinar[22]
 
 
 Rayse has been grooming [[Dalinar\|Dalinar]] to be his champion from a young age. During the war of [[Alethi\|Alethi]] unification, Odium provided him with the [[Thrill\|Thrill]], and he claims to be the influence behind Dalinar's most gruesome atrocities, including the burning of the [[Rift\|Rift]]. His goal is to make Dalinar feel such overwhelming guilt that he would give Rayse his pain, willingly joining his cause. When [[Cultivation\|Cultivation]] wiped Dalinar's memories, Rayse's plan became to return them all to Dalinar at once, for the greatest possible impact.
@@ -122,7 +229,7 @@ Harmony, on the other hand, considers Odium a great threat, even while bound to 
 
 ### Hoid
 >“*Cephandrius. Ever the rat. No matter where I go, there he is, scratching in the wall. Burrowing into my strongholds. He could have been a god, yet he insists on living in the dirt.*”
-\-Rayse on Hoid[25]
+\-Rayse on Hoid[26]
 
 
 Rayse and [[Hoid\|Hoid]] were friends, once. However, at some point the relationship between the two of them soured significantly, leaving Hoid with a deep grudge that would last for thousands of years. Hoid seems to have a long history of conspiring and working against Rayse, and they bear deep hatred towards each other. Presently, Rayse is one of the few people in the cosmere Hoid is terrified of, and though he initially came to Roshar chasing after Rayse, he now wants to avoid him as best as he can. Moreover, he's attempting to muster support among other Shards, as well as [[Frost\|Frost]], to help deal with Odium. His efforts have not yielded much success.
@@ -130,7 +237,7 @@ Rayse seems to be aware of Hoid's presence on Roshar; at the very least, he know
 
 ### Taravangian
 >“* So honest, this version of you... I much prefer it, yes. There is a straightforwardness to your Passion.*”
-\- Rayse to Taravangian[26]
+\- Rayse to Taravangian[27]
 
 
 He respects the straightforwardness of Taravangian's passion, and was willing to barter with him over the lives of the people of Roshar, ultimately coming to a deal to spare the people of [[Kharbranth\|Kharbranth]]. Despite this, he ultimately considers Taravangian to be nothing, and openly admonishes him when he isn't complimenting him.
@@ -138,7 +245,7 @@ Taravangian himself hates Rayse, enough so that he was led to murder the Vessel.
 
 ### Tanavast
 >“*Tell me you've never found yourself in conflict with someone you respect. Tell me you’ve never killed a man because you had to, even if—in a better world—he shouldn’t deserve it?*”
-\-Rayse on killing Tanavast[14]
+\-Rayse on killing Tanavast[15]
 
 
 The relation between Rayse and [[Tanavast\|Tanavast]] is difficult to determine, moreso for the fact that Rayse is the only source of information on it. On one hand, Rayse claims to sincerely respect him as a person, and claims that in a better world, Tanavast needn't have died. On the other hand, he also claims that Tanavast was heartless, caring for bonds and oaths more than the people behind them. Tanavast's opinion of Rayse is unknown, but he was clearly wary, as he deliberately constructed their confrontation in a way that would allow him to bind Rayse to [[Braize\|Braize]].

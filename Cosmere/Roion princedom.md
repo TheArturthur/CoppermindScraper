@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Roion princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. Their house colors are green & gold.
+**Roion princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. Their house colors are yellow on green.
 
 ## Contents
 

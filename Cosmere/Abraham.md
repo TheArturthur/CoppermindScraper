@@ -100,7 +100,7 @@ In the fight with Sourcefield, the plan immediately starts to go wrong. Prof was
 When David shows Abraham the petals from Sourcefield's pocket, he recognizes them from [[Babilar\|Babilar]], the same place [[Mitosis (Epic)\|Mitosis]] came from. Abraham and David head back to the secret base where they share the information with Prof and Tia. However, Prof and Tia retreat to another room to discuss their plans. Abraham warned David when he looked at his notes on Tia's desk, and when he interrupted Tia and Prof while they were talking. Of course, that does not hold David back. When Prof decides to take David with him to Babilar, Abraham takes David's old gun (which was broken), and replaces it with a modern German Gottschalk. David isn't sure about this, but takes it anyways. As a final gift, Abraham gives David his Faithful necklace. He and Cody were left at Newcago, to protect it.
 
 #### Abraham's Mobile
-Megan revealed that she can still hear whenever someone called Abraham's mobile, because he never changed his. After Prof turned evil, they didn't contact Abraham on his mobile, but instead used the radio to contact him. This is probably because they were afraid Prof might be able to track the mobiles.
+Megan revealed that she can still hear whenever someone called Abraham's mobile, because he never changed his. After Prof turned evil, they didn't contact Abraham on his mobile, but instead used the radio to contact him. This is probably because they were afraid Prof might be able to track the mobiles. 
 
 ### Going After Prof
 #### Attack on Knighthawk Foundry
@@ -113,7 +113,7 @@ As they were nearing Ildithia, Abraham revealed what he knew about Ildithia to t
 
 #### New Base
 While the Reckoners set up their new base, Abraham revealed to David that he had brought an imager, along with Steelheart's steel skull. The imager still had much of Prof's notes on it from when they had fought Steelheart. When Abraham suggested that David get the team together in one of the rooms to talk about their plan, David agreed, but said that they would take a walk instead.
-Because the base was less secure than the Reckoner's other bases, Abraham took all the important items with him in a bag, with gravatonics. He also painted David's gun, to make it stand out less.
+Because the base was less secure than the Reckoner's other bases, Abraham took all the important items with him in a bag, with gravatonics. He also painted David's gun, to make it stand out less. 
 
 #### Tracking Tia
 David placed his broken mobile in a crate, and told Abraham to place the crate with the others from the UTC shipment. Abraham did not understand what David was up to until he spotted the hidden mobile inside.

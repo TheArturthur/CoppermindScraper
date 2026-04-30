@@ -11,7 +11,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
-Brightlord **Tanalan** is the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
+Brightlord **Tanalan** was the citylord of [[Rathalas\|Rathalas]], also known as the Rift, in southern [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
 ## Contents
 
@@ -22,11 +22,11 @@ Brightlord **Tanalan** is the citylord of [[Rathalas\|Rathalas]], also known as 
 
 
 ## Appearance and Personality
-He has a nasal accent that is common among Rifters. He wears simple steel armor in battle and carries his massive [[Shardblade\|Shardblade]], [[Oathbringer (Shardblade)\|Oathbringer]]. Tanalan is close to [[Tanalan\|his son]], who shares his name.
-Although he shares the independent streak of most Rifters, Dalinar considered him to be a fine enough fellow. Tanalan does not recognize [[Gavilar\|Gavilar's]] claim to the throne of [[Alethkar\|Alethkar]]. He is stubborn and fearless.
+He had a nasal accent that is common among Rifters. He wore simple steel armor in battle and carried his massive [[Shardblade\|Shardblade]], [[Oathbringer (Shardblade)\|Oathbringer]]. Tanalan was close to [[Tanalan\|his son]], who shared his name.
+Although he shared the independent streak of most Rifters, Dalinar considered him to be a fine enough fellow. Tanalan did not recognize [[Gavilar\|Gavilar's]] claim to the throne of [[Alethkar\|Alethkar]]. He was stubborn and fearless.
 
 ## Attributes and Abilities
-Tanalan holds the rank of highlord, placing him in the third [[Dahn\|dahn]]. As citylord, he leads the city of Rathalas, which has a population that numbers in the tens of thousands. He is able to competently wield a Shardblade, although he does not have Shardplate.
+Tanalan held the rank of highlord, placing him in the third [[Dahn\|dahn]]. As citylord, he lead the city of Rathalas, which had a population that numbered in the tens of thousands. He was able to competently wield a Shardblade, although he did not have Shardplate.
 
 ## History
 Tanalan and Dalinar were acquainted prior to Gavilar's war of unification. After losing a game of [[Pawns\|pawns]] to Dalinar, Tanalan cheekily paid off his bet with small bits of ruby dropped into a hundred bottles of wine, to Dalinar's amusement.

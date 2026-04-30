@@ -6,6 +6,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“* [Au-nak] represented a dead kingdom that had been reduced to a single city-state on the eastern coast of Roshar with a few other cities as protectorates.*”
 \- Navani on Au-nak and New Natanan[1]
 
@@ -42,7 +44,7 @@ Though Dalinar invited New Natanan into his coalition, they were initially coy, 
 ## Culture
 ### People
 The Natan people have pale blue skin, wooly white hair, and wide noses. A local myth claims that this is the result of an ancient Natan queen, [[Tsa\|Tsa]], having children with the blue moon, [[Nomon\|Nomon]]. In reality, their odd skin tone comes from the Natan being part-humans and part-[[Siah Aimian\|Siah Aimians]]. This mixed ancestry gives them a some other benefits, although what they are is uncertain.
-Some Natan dye their hair, though only a few locks of it, in vivid colours, such as dark red, possibly to denote some kind of rank or social status. Their names have several forms, including the common one and a high one - for example, a high form of the name [[Au-nak\|Au-nak]] is Nak-ali.
+Some Natan dye their hair, though only a few locks of it, in vivid colors, such as dark red, possibly to denote some kind of rank or social status. Their names have several forms, including the common one and a high one - for example, a high form of the name [[Au-nak\|Au-nak]] is Nak-ali.
 
 ### Vorinism
 The Natan are largely [[Vorin\|Vorin]], although their particular variety of Vorinism differs from what is practiced elsewhere. In addition to worshipping the [[Almighty\|Almighty]] and the [[Herald\|Heralds]], the Natan appear to revere the moons, with Nomon as the most important. Some [[Alethi\|Alethi]] [[Ardent\|ardents]] consider the Natan to be almost pagan, and sometimes question how devout they really are when out of the sight of "proper" Vorins. Nonetheless, New Natanan is considered one of the important Vorin states by the high-ranking church officials, and their religious leaders are included in any discussion regarding the doctrine.

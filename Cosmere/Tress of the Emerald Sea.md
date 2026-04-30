@@ -7,7 +7,7 @@
 |**Page Count**|479|
 |**Word Count**|[[Tress of the Emerald Sea/Statistical analysis\|107,227]]|
 
-***Tress of the Emerald Sea*** is a stand alone cosmere novel, told as an in-world story by [[Hoid\|Hoid]]. It chronicles the journey of [[Tress\|Tress]] as she travels the world of [[Lumar\|Lumar]] to rescue her beloved, [[Charlie\|Charlie]], after he is kidnapped by the [[Sorceress\|Sorceress]]. Unlike other Hoid stories which tend towards more fanciful, Tress' adventures reflect real-world cosmere events that occurred, though the tale still includes artistic liberties added by Hoid as part of his storytelling style.
+***Tress of the Emerald Sea*** is a young adult stand alone cosmere novel, told as an in-world story by [[Hoid\|Hoid]]. It chronicles the journey of [[Tress\|Tress]] as she travels the world of [[Lumar\|Lumar]] to rescue her beloved, [[Charlie\|Charlie]], after he is kidnapped by the [[Sorceress\|Sorceress]]. Unlike other Hoid stories which tend towards more fanciful, Tress' adventures reflect real-world cosmere events that occurred, though the tale still includes artistic liberties added by Hoid as part of his storytelling style.
 *Tress of the Emerald Sea* was the first of the secret projects released in 2023. It was released in January of that year as part of a . This was followed by a standard publishing release on April 4, 2023. It is a cosmere novel set on a new world, with the "craziest worldbuilding" of the four secret projects.
 On March 3, 2022, Brandon released the first five chapters along with some brief commentary, which can be read  and listened to . He also did a full spoiler Q&A about these preview chapters, which can be listened to .
 

@@ -25,7 +25,7 @@
 
 
 ## Appearance and Personality
->“*I'm building a philosophy, one meaningful enough to span ages.*”
+>“*I'm building a philosophy, one meaningful enough to span ages. *”
 \-Arclo to Lift in Yeddaw[2]
 
 
@@ -36,11 +36,11 @@ Over many years Arclo has bred its hordelings to allow it to change its appearan
 
 ## History
  
->“*Your war is my war, and has been for millennia. Ancient Radiants named me friend and ally before everything went wrong. What wonderful days those were, before the Last Desolation. Days of...honor. Now gone, long gone.*”
+>“*Your war is my war, and has been for millennia. Ancient Radiants named me friend and ally before everything went wrong. What wonderful days those were, before the Last Desolation. Days of...honor. Now gone, long gone. *”
 \-Arclo to Lift[2]
 
 
-Aclomedarian was Seperated over four-thousand-five-hundred years before the [[True Desolation\|True Desolation]], before the [[Last Desolation\|Last Desolation]]. At some point, it ceased protecting the [[Dawnshard\|Dawnshard]] in [[Akinah\|Akinah]] and left the island. Due to this, amongst some other meddling, it was eventually cut off from communications with the other swarms.
+Arclomedarian was Seperated over four-thousand-five-hundred years before the [[True Desolation\|True Desolation]], before the [[Last Desolation\|Last Desolation]]. At some point, it ceased protecting the [[Dawnshard\|Dawnshard]] in [[Akinah\|Akinah]] and left the island. Due to this, amongst some other meddling, it was eventually cut off from communications with the other swarms.
 It was a friend and ally of the [[Knights Radiant\|Knights Radiant]] before the Last Desolation and the [[Recreance\|Recreance]]. It considers these days to have been wonderful, and reminisces upon them.
 Arclo was known to sit on the porch of the orphanage in [[Yeddaw\|Yeddaw]] as of early Jes 1174, and it met with Lift there several times. During their conversations, it asked her about which body part she felt she was, which she brushed off as a dumb question. Lift later sought Arclo out when [[Szeth\|Szeth]] told her that it was the other [[Knights Radiant\|Radiant]] in Tashikk that [[Nale\|Nale]] was searching for. She found it in an alley with the corpses of two of Nale's trainees. Arclo revealed its true form to her and guided her towards the [[Stump\|person]] she was actually looking for.
 

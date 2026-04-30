@@ -6,7 +6,7 @@
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Firefight\|Firefight]]*|
 
-**Knoxx** is a thug turned [[Epic\|Epic]] in [[Babilar\|Babilar]], and a known member of [[Newton\|Newton]]’s gang.
+**Knoxx** is a thug turned [[Epic\|Epic]] in [[Babilar\|Babilar]], and a known member of [[Newton\|Newton's]] gang.
 
 ## Contents
 

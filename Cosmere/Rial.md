@@ -29,7 +29,7 @@ He has a habit of rolling a [[Sphere\|sphere]] across his knuckles; he also form
 Rial was a member of Bridge Thirteen when they became [[Teft\|Teft's]] [[Windrunner\|Windrunner]] [[Squire\|squires]]. Rial and the rest of the crew presumably gained limited [[Surgebinding\|Surgebinding]] abilities when they are within thirty miles of Teft, including healing powers and flight through the use of [[Basic Lashing\|Basic Lashings]].
 
 ## History
-Rial's past is unknown, including the reason that he was part of a bridge crew.
+Rial's past is unknown, including the reason that he was part of a bridge crew. 
 Some time after the [[Battle of Narak\|Battle of Narak]], Rial and the rest of Bridge Thirteen were assigned to be bodyguards for the leadership in [[Urithiru\|Urithiru]] after the members of [[Bridge Four\|Bridge Four]] became [[Kaladin\|Kaladin's]] [[Squire\|squires]]. He quickly became friendly with Dalinar and at one point spiked his canteen with alcohol. He guarded Dalinar on his first trip to [[Thaylen City\|Thaylen City]] and was present during Dalinar's duel with [[Kdralk\|Kdralk]]. He later offered Dalinar some alcohol just prior to him being branded a heretic by the [[Curates\|curates]] of the [[Holy Enclave\|Holy Enclave]].
 Rial was aware that [[Navani\|Navani]] sent Dalinar a special timekeeping [[/wiki/Navani%27s notebook#Vambrace]] even before Dalinar opened the package.
 Rial was not available to guard Dalinar during the [[Battle of Thaylen Field\|Battle of Thaylen Field]] after [[Teft\|Teft]] became a [[Knights Radiant\|Knight Radiant]] and the members of Bridge Thirteen become his squires.

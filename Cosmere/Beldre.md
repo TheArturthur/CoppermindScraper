@@ -4,6 +4,7 @@
 |**Family**|
 |**Siblings**|[[Quellion\|Quellion]]|
 |**Abilities**|[[/wiki/Steel#Allomantic Use]]|
+|**Groups**|[[Originators\|Originators]], [[Preservers\|Preservers]]|
 |**Birthplace**|[[Urteau\|Urteau]]|
 |**Residence**|[[Urteau\|Urteau]]|
 |**Ethnicity**|[[Skaa\|Skaa]] and [[Noble\|Noble]]|

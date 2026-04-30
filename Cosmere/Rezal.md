@@ -47,7 +47,7 @@ Multiple species of sandlings have been seen in *White Sand*:
 
 **Keldar** (pl. Keldarin)
 **A'keldar** (pl. A'keldarin) a great sand wolf and cousin to Keldarin.
-**Tonk** (pl. Tonks) a domesticated form of sandling used as a beast of burden on Dayside.
+**Tonk**  (pl. Tonks) a domesticated form of sandling used as a beast of burden on Dayside.
 **Rezal** (pl. Rezalin)
 **Terha** (pl. Terhan)
 **DelRak** (pl. DelRaiken) also known as **DelRak Naisha** - It is not aggressive, but it functions as a trap, hiding in the sand with only its triangle-shaped head showing; when anything touches it, it devours it.

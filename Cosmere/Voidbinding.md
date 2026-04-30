@@ -24,13 +24,12 @@
 3. [[#Regals]] 
 
 
-4 Known and Likely Voidbinders. [[#Known and Likely Voidbinders]] 
-5 Notes. [[#Notes]] 
+4 Notes. [[#Notes]] 
 
 
 ## Prerequisites
 Not much is known about how one becomes a Voidbinder under normal circumstances. It has been said that Voidbinding usually, though not always, originates with the Unmade. Parts of Voidbinding have been looked into in the past, but it likely has not been fully explored.
-A possible example of a method of becoming a Voidbinder is by bonding with a [[/wiki/Spren#Corrupted Spren]] [[Nahel bond\|Nahel spren]]. [[Renarin Kholin\|Renarin Kholin's]] ability to see the future seems to be connected to Voidbinding, and it is likely he gained it through his bond to the corrupted spren [[Glys\|Glys]]. How much Renarin's abilities relate to Voidbinding is currently unclear.
+A possible example of a method of becoming a Voidbinder is by bonding with a [[/wiki/Spren#Corrupted Spren]] [[Nahel bond\|Nahel spren]]. [[Renarin Kholin\|Renarin Kholin's]] ability to see the future seems to be connected to Voidbinding, and it is likely he gained it through his bond to the corrupted spren [[Glys\|Glys]]. How much Renarin's abilities relate to Voidbinding is currently unclear. Another method of gaining access to a Voidbinding ability is through taking a [[Regal\|Regal]] form, especially [[Nightform\|Nightform]]. This form is known to give the ability of future-sight as well. The surges granted by Odium are sometimes referred to as Voidbinding.
 It is "theoretically possible" for a [[Fabrial\|fabrial]] to imitate at least some parts of Voidbinding.
 
 ## Mythology
@@ -50,12 +49,8 @@ As Renarin Kholin is apparently unable to use the Surge of [[Illumination\|Illum
 The glyphs in the Voidbinding chart whose location correspond to the Ten Essences chart are polar transformation of standard glyphs, some of which are similar to glyphs for the ten fundamental surges . Whether or not this is significant is unclear.
 
 ### Regals
-[[/wiki/Regal#Nightform]], one of the [[Regal\|Regal]] forms of power, was said to allow for foreseeing the future. This suggests a possible relation to Voidbinding, and may have implications about the other forms of power.
+[[/wiki/Regal#Nightform]], one of the [[Regal\|Regal]] forms of power, is known to have the Voidbinding power of future-sight.
 
-## Known and Likely Voidbinders
-For more information, see :Category: Voidbinders.
-[[Renarin Kholin\|Renarin Kholin]] (bonded to [[Glys\|Glys]])
-[[Rlain\|Rlain]] (bonded to [[Tumi\|Tumi]])
 
 
 https://coppermind.net/wiki/Voidbinding

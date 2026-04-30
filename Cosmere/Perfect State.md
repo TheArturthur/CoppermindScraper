@@ -30,7 +30,7 @@ For a chapter by chapter summary, see [[Perfect State/Summary\|/Summary]].
 
 ## Development
 Brandon wrote the original draft of *Perfect State* in the summer of 2011. It went through his writing group during the late fall of 2012. Brandon then sat on it because there was something wrong with it but he could not tell what it was. In December 2014 he revisited the story, revising it and expanding it over the course of a week.
-*Perfect State* will be bundled together with *[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]* in a hardcover edition for the 2015 Con Exclusive.
+*Perfect State* has been bundled together with *[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]* in a hardcover edition for the 2015 Con Exclusive.
 
 ## Cover Gallery
 For a cover gallery of Perfect State, see [[Perfect State/Covers\|/Covers]].

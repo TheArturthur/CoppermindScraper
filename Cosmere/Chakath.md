@@ -9,7 +9,7 @@
 \- Vin about her false identity as Valette.[1]
 
 
-**Chakath** is a city in the [[Western Dominance\|Western Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. Its major export is wool.
+**Chakath** is a city in the [[Western Dominance\|Western Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. Its major export is wool. 
 In [[Vin\|Vin's]] assumed identity of Valette Renoux, she claims to be from Chakath. Valette's family work in trading dyes. One such dye, [[Blushdip red\|blushdip red]], is made from snails that were common in Chakath.
 
 

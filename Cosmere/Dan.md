@@ -6,12 +6,12 @@
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Lux (book)\|Lux]]*|
 
->“*Sorry Jax. Older brother’s entitlement. The oldest brother at the table always gets the soggiest piece of bacon. It’s pretty much the law.*”
-\-Dan after stealing Jax’s piece of bacon.[1]
+>“*Sorry Jax. Older brother's entitlement. The oldest brother at the table always gets the soggiest piece of bacon. It's pretty much the law.*”
+\-Dan after stealing Jax's piece of bacon.[1]
 
 
 **Dan** is a college student and the older brother of [[Jax (Reckoners)\|Jax]].
-He’s a history major, and goes to Boston University. He has a fascination with the American Civil War, and owns parts from antique muskets as well as a [[Shiloh\|model sword]]. He wears a silver class ring which Jax retrieves after his death. He is killed by [[Lovestruck\|Lovestruck]] when she reverses the flow of the blood throughout his body, overloading his heart.
+He's a history major, and goes to Boston University. He has a fascination with the American Civil War, and owns parts from antique muskets as well as a [[Shiloh\|model sword]]. He wears a silver class ring which Jax retrieves after his death. He is killed by [[Lovestruck\|Lovestruck]] when she reverses the flow of the blood throughout his body, overloading his heart.
 
 ## Relationships
 ### Jax

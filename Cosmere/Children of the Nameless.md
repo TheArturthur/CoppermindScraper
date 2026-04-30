@@ -5,7 +5,7 @@
 |**Released**|December 12, 2018|
 |**Publisher**||
 
-***Children of the Nameless*** is a novella written by [[Brandon Sanderson\|Brandon Sanderson]] set in the extended universe of the card game **. The novella was released for free on the website of , the publishers of *Magic*, through an arrangement that allowed Brandon increased creative control of the story. It is set on the plane of Innistrad several years after the events of *Eldritch Moon*. It introduces the original characters Tacenda Verlasen and Davriel Cane and follows their story as they seek to uncover the mystery of Tacenda's entire village being taken by geists.
+***Children of the Nameless*** is a novella written by [[Brandon Sanderson\|Brandon Sanderson]] set in the extended universe of the card game **. The novella was released for free on the website of , the publishers of *Magic*, through an arrangement that allowed Brandon increased creative control of the story.  It is set on the plane of Innistrad several years after the events of *Eldritch Moon*. It introduces the original characters Tacenda Verlasen and Davriel Cane and follows their story as they seek to uncover the mystery of Tacenda's entire village being taken by geists.
 
 ## Contents
 
@@ -18,7 +18,7 @@
 
 
 ## Synopsis
->“* Since the day she was born, Tacenda has been both blessed and cursed. Blessed by a powerful protection spell of unknown origin, she has warded her family and friends against any number of horrors over her 15 years. Cursed because the horrors which visit her small Kessig village are both numerous and frequent. Then, one night, for no reason she can fathom, her sacred song of protection fails. Seeking revenge on the man she believes responsible for the failure and the consequent destruction of everything she loves, she breaks into the manor of the local lord, a known consorter with demons. There she discovers the beginnings of an even greater mystery… starting with the fact the Lord of the Manor is anything but local…*”
+>“* Since the day she was born, Tacenda has been both blessed and cursed. Blessed by a powerful protection spell of unknown origin, she has warded her family and friends against any number of horrors over her 15 years. Cursed because the horrors which visit her small Kessig village are both numerous and frequent. Then, one night, for no reason she can fathom, her sacred song of protection fails. Seeking revenge on the man she believes responsible for the failure and the consequent destruction of everything she loves, she breaks into the manor of the local lord, a known consorter with demons. There she discovers the beginnings of an even greater mystery… starting with the fact the Lord of the Manor is anything but local… *”
 \- From io9's exclusive[2]
 
 

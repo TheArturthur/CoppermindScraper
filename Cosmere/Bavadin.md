@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*It is only in the struggle to survive that a person—a people—achieves their potential.*”
 \-Bavadin[1]
 
@@ -42,11 +44,11 @@
 ## Appearance and Personality
  
 ### Appearance
-Bavadin has a habit of taking on multiple forms and appearances. She has several male and female personas, and ones that are neither; she will often present herself as different people to the same culture; although she is usually referred to with feminine pronouns, gender, as well as race and other qualities, are fluid where she is concerned. Bavadin seems fond of changing her appearance, and she does so daily. Even her original species is unclear; she is not a dragon, but it's unknown whether she's human or [[Sho Del\|Sho Del]]. In artwork, she is sometimes depicted as a feminine figure with long, vividly red hair; it is unclear, however, if this is an accurate depiction of her, let alone her "true" appearance, if she even has one.
+Bavadin has a habit of taking on multiple forms and appearances. She has several male and female personas, and ones that are neither; she will often present herself as different people to the same culture; although she is usually referred to with feminine pronouns, gender, as well as race and other qualities, are fluid where she is concerned. Bavadin seems fond of changing her appearance, and she does so daily. Even her original species is unclear beyond being a member of one of the races on Yolen (human, [[Sho Del\|Sho Del]], or [[Dragon (cosmere)\|dragon]]). In artwork, she is sometimes depicted as a feminine figure with long, vividly red hair; it is unclear, however, if this is an accurate depiction of her, let alone her "true" appearance, if she even has one.
 
 ### Personality
 >“*Trell demands that her servants prove themselves. Against adversity. Against society. Against the roles we take. And when there are several who fit the same slot in life … well, only the strongest can survive and be rewarded.*”
-\-Dumad[16]
+\-Dumad[15]
 
 
 Bavadin is a strong believer in strength through struggle; to her, only those who can overcome great adversity can be truly worthy, while those who cannot keep up do not deserve to survive in her world. She admires tenacity and individualism, and appreciates people who are bold and willing to do whatever it takes to achieve their goals. She does not care for those who try to fake their drive and passion, however, preferring those truly dedicated to their causes rather than those who try to appease her. While she typically acts through her avatars, she will occasionally talk directly with those who truly impress her. In person, she is haughty and self-assured, goading her opponents into acting against her and wanting them to present strong opposition; at the same time, she does not like being denied her goals. She is, however, strategic; she knows when to withdraw and regroup, and has back-up plans in case of failure.
@@ -62,22 +64,23 @@ When acting on other worlds, she is cunning and scheming, using fake personas an
 She has little regard for human life, such that she is willing to commit genocide on a planetary scale, if the planet and its people in question are seen as a threat in her eyes. She considers her own plans to be of more importance than the lives of many, and thus is willing to sacrifice them for the sake of it. Though she will also accept letting such a planet continue to exist, as long as it and its people are kept under her strict control.
 Some people have criticized her hypocrisy, holding a policy of strict isolationism whilst simultaneously interfering with worlds all across the cosmere.
 It is unclear how much of her personality arises from herself, and how much arises from the Intent of the Shard she holds.
+Even prior to her Ascension, she was described as shrewd and capable.
 
 ## Abilities and Attributes
   Bavadin and her avatars
 ### Shard of Adonalsium
 For abilities granted by [[Autonomy\|Autonomy]], see [[/wiki/Autonomy#Associated Magics]].
-Bavadin is a Vessel of a [[Shard\|Shard]], making her ageless, incorporeal and incredibly powerful. Whether Autonomy grants her any unique strengths or abilities is unknown; however, Bavadin is highly skilled in using her Shardic powers.
+Bavadin is a Vessel of a [[Shard\|Shard]], making her ageless, incorporeal and incredibly powerful. Whether Autonomy grants her any unique strengths or abilities is unknown; however, Bavadin is highly skilled in using her Shardic powers. 
 Bavadin's main area of expertise is the creation of avatars, sapient, semi-autonomous entities wielding a portion of her power. Through her avatars, Bavadin can take on a myriad appearances, often multiple at once; she is a keen actress, assuming dozens of made up-personas. Her primary focus on using those avatars is creating and maintaining religions. There are entire pantheons of gods where every deity is actually Bavadin in a different disguise.
 Aside from her avatars, Bavadin seems to have some measure of skill in combating other Shards. She successfully manages to infiltrate and Invest [[Scadrial\|Scadrial]] without [[Harmony\|Harmony]] being able to act on it until it is too late. When acting directly, Bavadin knows how to bind another Shard, blinding them and effectively restricting their access to future-sight. She can do so without endangering herself; like all Shards, Bavadin is unwilling to use her full power and thus expose herself to retaliation, preferring to act through intermediaries instead.
 
 ### Followers
 Through her propensity for creating avatars and faiths focused on those avatars, Bavadin has gathered no small amount of religious influence throughout the cosmere. She has been known to leverage it for her own purposes at times -- such as manifesting her [[Sand Lord\|Sand Lord]] persona to [[Elorin\|Elorin]] to facilitate the destruction of the [[Sand mastery\|sand masters]].
-Outside of [[Taldain\|Taldain]], Bavadin has more people to draw on. The best-known of them is the group called the [[Set\|Set]] from [[Scadrial\|Scadrial]]. Worshippers of Bavadin's [[Trell\|Trell]] persona, the Set have been activated by her at some point after the [[Catacendre\|Catacendre]] with the purpose of taking control over [[Elendel Basin\|Elendel Basin]] and through it, the whole of the planet. Vast majority of the Set appear unaware of Trell's true nature, with only their last leader, [[Telsin Ladrian\|Telsin Ladrian]], knowing Bavadin's full intentions for the planet; nevertheless, the group is closely tied to Autonomy, enough so for her to Invest Telsin as her avatar.
+Outside of [[Taldain\|Taldain]], Bavadin has more people to draw on. The best-known of them is the group called the [[Set\|Set]] from [[Scadrial\|Scadrial]]. Worshippers of Bavadin's [[Trell (Trellism)\|Trell]] persona, the Set have been activated by her at some point after the [[Catacendre\|Catacendre]] with the purpose of taking control over [[Elendel Basin\|Elendel Basin]] and through it, the whole of the planet. Vast majority of the Set appear unaware of Trell's true nature, with only their last leader, [[Telsin Ladrian\|Telsin Ladrian]], knowing Bavadin's full intentions for the planet; nevertheless, the group is closely tied to Autonomy, enough so for her to Invest Telsin as her avatar.
 When religious or subtle methods prove insufficient, Bavadin controls a more brutal group known as the [[Men of gold and red\|men of gold and red]]. Those inhuman, advanced warriors serve as Bavadin's army of destroyers, to be brought through by [[Cognitive Realm\|Cognitive Realm]] and lay waste to a land when other methods have failed. However, the men of gold and red are apparently difficult to control once let loose; it's unclear how well Bavadin can command them once she gives the order to attack.
 
 ## History
-Like all original Vessels, Bavadin came from [[Yolen\|Yolen]]. She and a number of others killed the creator-god, [[Adonalsium\|Adonalsium]], and split up his power into sixteen pieces. Bavadin herself picked up the piece which became Autonomy and departed Yolen, eventually winding up in [[Taldain\|Taldain]], where she [[Investiture\|Invested]] herself in the local sun.
+Like all original Vessels, Bavadin came from [[Yolen\|Yolen]]. She and a number of others killed the creator-god, [[Adonalsium\|Adonalsium]], and split up his power into sixteen pieces. Bavadin herself picked up the piece which became Autonomy and departed Yolen, eventually winding up in [[Taldain\|Taldain]], where she [[Investiture\|Invested]] the local sun.
 
 For subsequent events, see [[/wiki/Autonomy#History]].
 ## Relationships
@@ -88,6 +91,7 @@ For subsequent events, see [[/wiki/Autonomy#History]].
 
 Bavadin seems to have had some alliance with [[Rayse\|Rayse]], the prior Vessel of [[Odium\|Odium]], although whether this alliance still stands with [[Taravangian\|Taravangian]] is unclear. She assisted Rayse in splintering the shards of [[Devotion\|Devotion]] and [[Dominion\|Dominion]], though the extent and nature of this assistance is uncertain. [[Hoid\|Hoid]] holds a deep grudge against both Bavadin and Rayse, for unknown, but related reasons. Bavadin herself doesn't seem to be overly fond of Hoid either, though they two have had a prior relationship of some nature. In the present, her avatars deeply dislike Hoid, and at least one of them -- the [[Obrodai\|Obrodai]] avatar -- has been instilled with deep dislike of him as a precaution.
 By contrast, Bavadin appears to feel threatened by [[Harmony\|Harmony]], or perhaps Scadrial and what its technological development may mean to her own isolationist policies. She does not respect Harmony's hold on his world and infiltrates it, both through her followers and with her own Investiture. While she intially approaches Harmony with an offer of a peaceful resolution to their conflict, seemingly willing to let the Shard live (at least for now), when Harmony rejects it, Bavadin doesn't hesitate to blind him. It is unclear what her plans are for dealing with Harmony after she would wipe out Scadrial.
+Tanavast considered her to be capable, yet shrewd.
 
 ### Wax and Telsin Ladrian
 >“*Such drive. Such individualism. A shame that Harmony got you first.*”

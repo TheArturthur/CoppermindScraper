@@ -35,7 +35,7 @@ She is a fan of risqué [[Alethi\|Alethi]] epics.
 Ellista moved to the [[Jokasha Monastery\|Jokasha Monastery]] at some point before [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] began receiving visions during 1173. She considers herself lucky to have a place in Jokasha, as it is a desirable location for many [[Ardent\|ardents]]. Before becoming an ardent, she thought that scholars did not bicker, but has since realized that was a misconception.
 
 ### Working on the Dawnchant
->“*Look, there’s easy proof here that the same writing system was once used all across Roshar... Not a diaspora of texts, but real evidence they wrote naturally in the Dawnchant.*”
+>“*Look, there’s easy proof here that the same writing system was once used all across Roshar...  Not a diaspora of texts, but real evidence they wrote naturally in the Dawnchant.*”
 \-Ellista to Urv on the historical use of the Dawnchant[1]
 
 

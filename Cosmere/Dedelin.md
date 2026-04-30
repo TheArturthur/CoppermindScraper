@@ -52,7 +52,7 @@ More than twenty years before the events of the [[Pahn Kahl rebellion\|Pahn Kahl
 A few weeks before he sent Siri to [[T'Telir\|T'Telir]], Dedelin sent [[Lemex\|Lemex]] there as his spymaster. He agreed to send Lemex funds to purchase Breath in order to further his role as an information source, since Lemex would need sufficient amounts of Breath to gain access to the Court of Gods. However, Dedelin was unaware that Lemex was already embezzling money from him.
 
 ## Relationships
-Dedelin's children are [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], and [[Sisirinah\|Sisirinah]]. His chief friend and trusted military adviser is General [[Yarda\|Yarda]]. [[Vivenna's mother\||His wife]] has been dead for over a decade, a result of a riding accident.
+Dedelin's children are [[Vivenna\|Vivenna]], [[Ridger\|Ridger]], [[Fafen\|Fafen]], and [[Sisirinah\|Sisirinah]]. His chief friend and trusted military adviser is General [[Yarda\|Yarda]]. [[Vivenna's mother\|His wife]] has been dead for over a decade, a result of a riding accident.
 
 ### Vivenna
 Dedelin hesitates to send Vivenna to [[Hallandren\|Hallandren]], and though he thinks that he is doing the best thing for [[Idris\|Idris]], he still is biased and does love Vivenna more, partially because Vivenna reminds him of his wife. Early on, he remarks that Vivenna is twice as devout as he is and has far more control over her hair than he does. This is a clear example of the way Dedelin treats Vivenna differently than Siri, which in turn affects both his and Vivenna's relationship with the youngest royal.

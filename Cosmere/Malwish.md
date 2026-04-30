@@ -9,7 +9,7 @@
 \-Allik Neverfar describing the events that nearly destroyed his people[1]
 
 
-The **Southern Scadrians** are a collection of nations and cultures on [[Scadrial\|Scadrial]]. They were placed at the south pole by [[The Lord Ruler\|The Lord Ruler]] during his [[Ascension of the Lord Ruler\|Ascension]]. When he moved the planet closer to the sun, he altered the physiology of the [[Skaa\|skaa]], nobles, and [[Terris\|Terris]] to enable them to survive the ash and the warmer temperatures. However, he also placed an unaltered group of Scadrians at the south pole to act as a control group for his genetic experiments. The Southern Scadrians lived there without any interaction with the [[Final Empire\|Final Empire]] for over a thousand years until the [[Catacendre\|Catacendre]]. When [[Harmony\|Harmony]] moved the planet back to its original orbit and orientation, it caused a change in climate that the Southern Scadrians failed to adapt to. The Southern Scadrians were at the brink of extinction until they were rescued by the [[Sovereign\|Sovereign]].
+The **Southern Scadrians**, also called the **Southlanders**, are a collection of nations and cultures on [[Scadrial\|Scadrial]]. They were placed at the south pole by [[The Lord Ruler\|The Lord Ruler]] during his [[Ascension of the Lord Ruler\|Ascension]]. When he moved the planet closer to the sun, he altered the physiology of the [[Skaa\|skaa]], nobles, and [[Terris\|Terris]] to enable them to survive the ash and the warmer temperatures. However, he also placed an unaltered group of Scadrians at the south pole to act as a control group for his genetic experiments. The Southern Scadrians lived there without any interaction with the [[Final Empire\|Final Empire]] for over a thousand years until the [[Catacendre\|Catacendre]]. When [[Harmony\|Harmony]] moved the planet back to its original orbit and orientation, it caused a change in climate that the Southern Scadrians failed to adapt to. The Southern Scadrians were at the brink of extinction until they were rescued by the [[Sovereign\|Sovereign]].
 
 ## Contents
 
@@ -47,12 +47,12 @@ The **Southern Scadrians** are a collection of nations and cultures on [[Scadria
 ## History
 ### Before the Ascension
 The ancestors of the South Scadrians were humans created by Ruin and Preservation on Scadrial after the creation of the planet following the [[Shattering\|Shattering]].
-Before the Ascension of the Lord Ruler, the South Scadrians lived somewhere away from the poles on Scadrial. Their language, culture, and states at this time are unknown, and is likely lost.
+Before the Ascension of the Lord Ruler, the South Scadrians lived somewhere away from the poles on Scadrial. Their language, culture, and states at this time are unknown, and is likely lost.  
 
 ### Relocation to the South Pole (pre [[Final Empire\|Final Empire]], circa 1025 [[Anteverdant\|anteverdant]])
-During his Ascension, the Lord Ruler moved Scadrial out of its original orbit, putting it closer to the sun in order to burn off the [[Deepness\|Deepness]]. The planet's surface became too hot, forcing the Lord Ruler to move inhabited lands to the north and south poles. In the north, a combination of the planet's magnetic field and ferromagnetic ash from the [[Ashmounts\|Ashmounts]] shielded the land from the heat of the sun. The Final Empire was at the northern magnetic pole of the planet, which moved from its physical location with the relocation of the Well of Ascension to a middle latitude. The genetic alterations made to the skaa allowed them to adapt to the constant ashfalls.
+During his Ascension, the Lord Ruler moved Scadrial out of its original orbit, putting it closer to the sun in order to burn off the [[Deepness\|Deepness]]. The planet's surface became too hot, forcing the Lord Ruler to move inhabited lands to the north and south poles. In the north, a combination of the planet's magnetic field and ferromagnetic ash from the [[Ashmounts\|Ashmounts]] shielded the land from the heat of the sun. The Final Empire was at the northern magnetic pole of the planet, which moved from its physical location with the relocation of the Well of Ascension to a middle latitude. The genetic alterations made to the skaa allowed them to adapt to the constant ashfalls. 
 However, the Lord Ruler also placed an unaltered group of people at the physical south pole. These people were placed there by the Lord Ruler as a reserve in case his genetic modifications of humanity failed. The Lord Ruler managed to find a way other than genetic modifications or Ashmounts to help them survive in the world he created.
-The southern peoples had the seeds of the [[Metallic Arts\|Metallic Arts]], though since none of them had ingested [[Lerasium\|lerasium]], [[Allomancer\|Allomancers]] were extremely rare and [[/wiki/Allomancy#Mistborn]] completely unheard of. Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way."
+The southern peoples had the seeds of the [[Metallic Arts\|Metallic Arts]], though since none of them had ingested [[Lerasium\|lerasium]], [[Allomancer\|Allomancers]] were extremely rare and [[/wiki/Allomancy#Mistborn]] completely unheard of.  Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way."
 
 ### The Age of Ash
 Over time, the South Scadrians began to mutate and develop far less effective thermoregulation, making it so that they couldn't survive in even mildly cold weather. Likely as a method of surviving at the hot pole. Furthermore, they developed into several nations and ethnic groups. One of which that eventually formed were the Fallen. The Fallen, over time, developed significant authority over the other southern peoples, enough so to be considered their kings by the time of the Ice Death.
@@ -66,7 +66,7 @@ Years had gone by and the Ice Death did not end. The Southern peoples failed to 
 ### The Sovereign (12 years Post-Catacendre)
 Eventually, [[Kelsier\|Kelsier]] appeared among the Southern Scadrians offering them help. He gave them devices called the [[Excisor\|Excisors]], which allowed them to create medallions that granted the power of Feruchemical [[/wiki/Brass#Feruchemical Use]]. This new technology enabled them to survive the cold.
 Kelsier became known as the **[[Sovereign\|Sovereign]]**, ruling over his Southern Scadrian followers. He started the tradition of the **Firemothers** and **Firefathers**, people who live only to fill the medallions with heat. After a period of time, the Sovereign took the [[Bands of Mourning\|Bands of Mourning]] and hid them in [[Sovereign's temple\|a temple in the mountains]] of Northern Scadrial. His priests travelled with him, then returned to the southern continent to pass on the legend of the Bands.
-Although the Sovereign has been rumored to be the Lord Ruler himself, he was in actuality Kelsier, another man from northern Scadrial.
+Although the Sovereign had been rumored to be the Lord Ruler himself, he was in actuality Kelsier, another man from northern Scadrial.
 
 ### Looking for the Bands (336-337 years Post-Catacendre)
 As the Southern Scadrians began scouting farther and farther north using their airships, they eventually discovered the lands of the [[Elendel Basin\|Elendel Basin]]. The Hunters sent a large expedition to the north, looking for the temple where the Sovereign left the Bands of Mourning. They intended to use an [[Ettmetal\|ettmetal]] bomb to destroy the Bands. Though most of the expedition perished, supposedly in a blizzard, one skimmer managed to return to the southern continent and tell their story. However, [[Waxillium Ladrian\|Waxillium Ladrian]] believes that some of the crew, desiring the power of the Bands, betrayed the others and attempted to take the Bands for themselves. This attempt was unsuccessful due to the traps at the temple.
@@ -77,21 +77,21 @@ The two cultures fully intersected once [[Jordis\|Jordis]] took a second airship
 The Set and Wax's group raced to find the temple, each hoping to be the first to claim the Bands. Ultimately, Wax and his friends found the Bands first and defeated The Set, freeing the remaining Southern Scadrians from captivity. [[Steris Harms\|Steris Harms]] negotiated a trade agreement between the north and the south, establishing the first official relationship between the two peoples.
 
 ### Tensions with the North and Formation of the Malwish Consortium
-During the next six years the Northern and Southern peoples began interacting more and more. Trade between the Northerners and the Malwish saw the Basin getting a number of skimmers and medallions and the Malwish getting access to the Northern Allomancers. Sometime during this period the Malwish sent an [[Jonnes\|ambassador]] and a [[Allik\|‘junior goodwill ambassador’]] to the north. These six years also led to major changes in the political landscape of the South. Once-tempestuous rivalries stilled and alliances were forged. After these six years, which saw an increase in Malwish power, the southern peoples united under the Malwish banner, forming the [[Malwish Consortium\|Malwish Consortium]].
+During the next six years the Northern and Southern peoples began interacting more and more. Trade between the Northerners and the Malwish saw the Basin getting a number of skimmers and medallions and the Malwish getting access to the Northern Allomancers. Sometime during this period the Malwish sent an [[Jonnes\|ambassador]] and a [[Allik\|‘junior goodwill ambassador’]] to the north. These six years also led to major changes in the political landscape of the South. Once-tempestuous rivalries stilled and alliances were forged. After these six years, which saw an increase in Malwish power, the southern peoples united under the Malwish banner, forming the [[Malwish Consortium\|Malwish Consortium]]. Despite this Consortium, the nations still had their own leaders. Additionally, there was a single main faction in control of the unification. They talked about how Northern disasters had caused them so much hardship over the centuries, and warned that the Basin’s new trellium bombs were only the beginning of new hardship. They also saw the north as chaotic and unpredictable, and by 350 [[Catacendre\|PC]] they had forbidden most forms of trade and closed their borders to Northerners.
 
 ## Culture
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-The Southern Scadrians have a tradition of wearing masks, with each of the five peoples of the continent having its own mask-wearing rules and customs. They have natural low body temperatures, which is related to their cold intolerance. There is also a group called the [[Deniers of Masks\|Deniers of Masks]] that the other Southern Scadrians oppose, but nothing is known about them other than the fact that they are very dangerous.
+The Southern Scadrians have a tradition of wearing masks, with each of the five peoples of the continent having its own mask-wearing rules and customs. They have natural low body temperatures,  which is related to their cold intolerance. There is also a group called the [[Deniers of Masks\|Deniers of Masks]] that the other Southern Scadrians oppose, but nothing is known about them other than the fact that they are very dangerous.
 The Sovereign had priests accompanying him who did not belong to any of the current Southern peoples living. Not much is known about them.
 
 ### Nations
 The Southern Scadrians were divided into five different nations, however following the discovery of the Northern Scadrians their politics changed until they united under the banner of single nation, the [[Malwish Consortium\|Malwish Consortium]]. So far, the names of three of these previous nations have been revealed:
 
 #### Malwish
-The **Malwish** wear red masks that change according to their profession or their mood. By the 350s PC the Malwish view lifting their mask as a way to emphasise something. It’s not necessarily wrong to let people see under the mask, though they pretend it’s taboo, which it might have once been. Allik Neverfar and Jordis are Malwish. Dancing is very important to them, so much so that they have been known to give harsh (although friendly) punishment just for getting the steps to a dance wrong.
-Following the discovery of the Northern Continent, the Malwish took over diplomatic relations with the Basin, and the majority of Southerners who visited the North were from there. They were the only tribe who sent an ambassador up. It is under their banner that the Southern Nations united.
-Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized language. Known Malwish words include:
+The **Malwish** wear red masks that change according to their profession or their mood. By the 342 [[Catacendre\|PC]] the Malwish view lifting their mask as a way to emphasise something. It’s not necessarily wrong to let people see under the mask, though they pretend it’s taboo, which it might have once been. Dancing is very important to them, so much so that they have been known to give harsh (although friendly) punishment just for getting the steps to a dance wrong.
+Following the discovery of the Northern Continent, the Malwish took over diplomatic relations with the Basin, and the majority of Southerners who visited the North were from there. They were the only nation who sent an ambassador up. It is under their banner that the southern nations united.
+Some of the Scadrian researchers on [[Canticle\|Canticle]] view Malwish as a civilized language. Known Malwish words include:
 
 *Fotenstall* — Allomancer.
 *Hanner konge* — A question of unknown meaning.
@@ -99,7 +99,6 @@ Some of the researchers on [[Canticle\|Canticle]] view Malwish as a civilized la
 *Forsalvin* — Something along the lines of ‘flee’.
 #### The Hunters
 The people known as the **Hunters** receive one mask at birth, which is replaced by a second mask upon reaching adulthood. This second mask eventually grows into the skin. The Hunters were warriors before the Ice Death, but now they search for the cause of the cataclysm that ruined their society. They took an airship to find the Bands of Mourning, intending to destroy them.
-[[Iyatil\|Iyatil]], a Silverlight born woman with Southern Scadrian ancestry, wears a mask reminiscent of those worn by the Hunters nation.
 
 #### The Fallen
 The former rulers of the Southern Scadrians became known as the **Fallen** after they lost their authority due to the Ice Death, which is seen as their divine punishment. A member of the Fallen wears a plain, unpainted mask until he earns the right to wear an ornate one through some great achievement. The Fallen were the kings before the Ice Death, and their simple masks are a punishment for having offended the Jaggenmire.
@@ -125,11 +124,14 @@ They have access to [[Ettmetal\|ettmetal]], also known as Harmonium. Among other
 For a complete list of Southern Scadrians, see :Category: Southern Scadrians.
 
 [[Allik Neverfar\|Allik Neverfar]]
-[[Jordis\|Jordis]]
+[[Daal\|Daal]]
 [[Iyatil\|Iyatil]] (heritage)
+[[Jonnes\|Jonnes]]
+[[Jordis\|Jordis]]
 
 ## Trivia
 They are mysteriously referred to in [[The Hero of Ages\|The Hero of Ages]] annotations, suggesting that something is perhaps there. Later, Brandon confirmed that there is life on the southern pole of Scadrial.
+Penguins are confirmed to live here after being restored by Harmony during the Catacendre.
 
 
 https://coppermind.net/wiki/Malwish

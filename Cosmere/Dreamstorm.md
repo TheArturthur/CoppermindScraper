@@ -16,7 +16,7 @@ Despite Jenet's warnings that Dreamstorm was not good with riders, Kaladin chose
 At the end of this incident, Dalinar advised Kaladin not to take Dreamstorm out on patrols.
 
 ## Appearance and Personality
-Dreamstorm is a strong, large, and lean horse. As younger horse, she still is rather wild and spirited. Most recently Dreamstorm is kept picketed by herself so she can run for short bursts in a circle. Dreamstorm wears a saddle even not when being ridden to help her grow accustomed to it. She is unwilling to accept any rider. Dreamstorm does her best to buck off anyone that even tries to mount her.
+Dreamstorm is a strong, large,  and lean horse. As younger horse, she still is rather wild and spirited. Most recently Dreamstorm is kept picketed by herself so she can run for short bursts in a circle. Dreamstorm wears a saddle even not when being ridden to help her grow accustomed to it. She is unwilling to accept any rider. Dreamstorm does her best to buck off anyone that even tries to mount her.
 
 
 

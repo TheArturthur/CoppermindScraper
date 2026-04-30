@@ -21,10 +21,10 @@ The **United Isles of America** are a coalition of sixty islands.
 As a whole, the islands are vaguely shaped like the USA, part of Canada and Mexico. A few islands are roughly outlined like the states, as in the case of Idaho or Texas, but most bear no resemblance to their namesakes.
 
 ## Infrastructure
-Aside from streets there were [[Springrail\|springrails]] for movement over greater distances. Even different islands are connected with springrail routes.
+Aside from streets there were [[Springrail\|springrails]] for movement over greater distances. Even different islands are connected with springrail routes. 
 
 ## History
-There's not much known about the ancient history of the United Isles. When the [[JoSeun\|JoSeun]] conquered [[Britannia\|Britannia]], many refugees, including King [[Gregory III\|Gregory III]], fled to the United Isles.
+There's not much known about the ancient history of the United Isles. When the [[JoSeun\|JoSeun]] conquered [[Britannia\|Britannia]], many refugees, including King [[Gregory III\|Gregory III]], fled to the United Isles. 
 
 ## Culture
 Little culture is referenced or explained, but the people of the United Isles seem to be focused and content. There seems to be much class division between the rich and the poor. The people seem to be kept uninformed about what is going on in some of the other islands, most notably Nebrask.

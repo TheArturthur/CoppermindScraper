@@ -2,6 +2,7 @@
 |-|-|
 |**Spouse**|[[Hammond\|Hammond]]|
 |**Profession**|Seamstress|
+|**Groups**|[[Originators\|Originators]]|
 |**Residence**|Unnamed [[Luthadel\|Luthadel]] satellite city|
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

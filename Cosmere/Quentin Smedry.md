@@ -30,11 +30,11 @@ Quentin looks to be about 30 years old, has dark brown hair, pale hair, and frec
 ## Abilities
 ### Smedry Talent
 Quentin's [[Smedry Talent\|Talent]] is to say things that make no sense whatsoever. The talent manifests itself several times during the Downtown Library infiltration from [[Alcatraz Versus the Evil Librarians (book)\|Alcatraz vs. the Evil Librarians]], where Quentin sometimes makes seemingly nonsensical remarks. In addition to making occasional gibberish comments, Quentin is also able to intentionally engage his Talent, causing him to speak in gibberish for 24 hours.
-Like most Smedry Talents, Quentin's is more powerful than it appears on the surface. Not only is the gibberish he says understandable with [[Translator's Lenses\|Translator's Lenses]]., it also appears to carry the power of prophecy. When Quentin responds to a question by Grandpa Smedry with "Cantaloupe, fluttering paper makes a duck", he - unbeknownst even to himself - is foreshadowing the attack of the Alivened later that day; Alivened, made of fluttering paper, bursting through a wall marked with a cantaloupe-shaped lantern, that cause [[Sing Sing Smedry\|Sing]] to trip and Alcatraz and Bastille to duck after him. In another instance, Quentin's Talent prompts him to speaks the words "Rutabaga, fire over the inheritance!" This ends up foreshadowing the confrontation against [[Radrian Blackburn\|Blackburn]] - confrontation over Alcatraz's inheritance, taking place near a rutabaga-shaped lamp, and involving a Firebringer's Lens.
+Like most Smedry Talents, Quentin's is more powerful than it appears on the surface. Not only is the gibberish he says understandable with [[Translator's Lenses\|Translator's Lenses]]., it also appears to carry the power of prophecy. When Quentin responds to a question by Grandpa Smedry with "Cantaloupe, fluttering paper makes a duck", he - unbeknownst even to himself - is foreshadowing the attack of the Alivened later that day; Alivened, made of fluttering paper, bursting through a wall marked with a cantaloupe-shaped lantern, that causes [[Sing Sing Smedry\|Sing]] to trip and Alcatraz and Bastille to duck after him. In another instance, Quentin's Talent prompts him to speaks the words "Rutabaga, fire over the inheritance!" This ends up foreshadowing the confrontation against [[Radrian Blackburn\|Blackburn]] - confrontation over Alcatraz's inheritance, taking place near a rutabaga-shaped lamp, and involving a Firebringer's Lens. 
 
 ## Relationships
 For more information, see [[House Smedry\|House Smedry]].
-[[Folsom Smedry\|Folsom Smedry]] is Quentin's brother.
+[[Folsom Smedry\|Folsom Smedry]] is Quentin's brother. 
 Quentin's cousins include [[Alcatraz Smedry\|Alcatraz Smedry]] and [[Sing Sing Smedry\|Sing Sing Smedry]]. His grandfather is [[Leavenworth Smedry\|Leavenworth Smedry]]
 
 ## Quotes
@@ -56,7 +56,7 @@ Quentin's cousins include [[Alcatraz Smedry\|Alcatraz Smedry]] and [[Sing Sing S
 
 ## Trivia
 His name is a reference to the .
-He is also able to access the past, saying "wasing not of wasing is" in a nod to [[Spook\|Spook's]] having existed in the Alcatraz universe.
+He is also able to access the past, saying "wasing not of wasing is" in a nod to [[Spook\|Spook]] having existed in the Alcatraz universe.
 
 
 https://coppermind.net/wiki/Quentin_Smedry

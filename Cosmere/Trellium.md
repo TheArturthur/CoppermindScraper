@@ -37,7 +37,7 @@ The hardness of the metal is just above a nine, as it is scratched by diamond, b
 
 ### Interactions with Harmonium
 When an electric current is passed through [[Harmonium\|harmonium]], the metal softens and its Investiture begins to polarize, becoming more atium-like on one end and more lerasium-like on the other. If trellium is inserted between the two poles, a violent reaction occurs, as some of the harmonium's Investiture or matter is converted into pure energy. While this technique fails to divide the harmonium, the resultant blast is extremely powerful; converting less than half a gram of harmonium into energy is capable of destroying a thick safe and the fortified room around it. This interaction can be used to create powerful bombs; however, as these weapons rely upon a novel energy release mechanism, not even Autonomy or [[Harmony\|Harmony]] fully understand their true destructive potential.
-A separate interaction, detonating harmonium against trellium, produces small amounts of [[Lerasium\|lerasium]] and [[Atium\|atium]]. Harmony uses this effect to manufacture atium.
+A separate interaction, detonating harmonium against trellium, produces small amounts of [[Lerasium\|lerasium]] and [[Atium\|atium]]. Harmony uses this effect to primarily manufacture atium.
 
 ## Allomantic Use
 When burned by an Allomancer, trellium has unknown properties.

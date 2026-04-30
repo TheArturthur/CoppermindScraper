@@ -1,37 +1,42 @@
 |**Makabak**|
 |-|-|
+||
 |**Ethnicity**|[[Makabaki\|Makabaki]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Makabak** is a region in southwestern [[Roshar\|Roshar]] occupied by numerous nations that share a similar ethnicity and culture. It is named for the former [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]] and includes most of that kingdom's territory.
 
 ## Contents
 
-1 Geography. [[#Geography]] 
-2 Culture. [[#Culture]] 
-3 People. [[#People]] 
-4 Politics. [[#Politics]] 
-5 Notes. [[#Notes]] 
+1 Etymology. [[#Etymology]] 
+2 Geography. [[#Geography]] 
+3 Culture. [[#Culture]] 
+4 People. [[#People]] 
+5 Politics. [[#Politics]] 
+6 Notes. [[#Notes]] 
 
+
+## Etymology
+The name of Makabak comes from the Silver Kingdom of Makabakam. Makabakam itself is derived from the name of [[Makibak\|Makibak]], one of the major leaders of the people in the early days of humanity on Roshar.
 
 ## Geography
 The region covers the southern center of the Rosharan continent. It is framed by mountain ranges to the north, east, and west, and has a long coastline on the [[Southern Depths\|Southern Depths]]. The region includes the nations of [[Alm\|Alm]], [[Azir\|Azir]], [[Desh\|Desh]], [[Emul\|Emul]], [[Greater Hexi\|Greater Hexi]], [[Liafor\|Liafor]], [[Marat\|Marat]], [[Steen\|Steen]], [[Tashikk\|Tashikk]], [[Tu Fallia\|Tu Fallia]], [[Tukar\|Tukar]], [[Yezier\|Yezier]], and about half of [[Triax\|Triax]]. The Azish Empire includes many of these nations, although it does not encompass the entirety of Makabak. Makabak has a single [[Oathgate\|Oathgate]], in the Azish capital of [[Azimir\|Azimir]].
 
 ## Culture
-There are approximately thirty Makabaki languages, most of which branched off from Azish. Many of the nations are rich in culture and have thriving trade. The area has higher population density than the nations to the east and the city of Azimir is larger than [[Kholinar\|Kholinar]].
+There are approximately thirty Makabaki languages, most of which branched off from Azish. Azish is still the most common and widely understood within the region. Deaf citizens of the empire favor Azish Sign Language, which is also practiced by ambassadors and translators. Many of the nations are rich in culture and have thriving trade. The area has higher population density than the nations to the east and the city of Azimir is larger than [[Kholinar\|Kholinar]].
 Residents of several Makabaki nations are thought to avoid offending others as much as possible, and would rather dodge a request than deny it, especially if it comes from a foreigner. Azish people are considered verbose and sometimes intentionally vague in order to conceal their true intentions. The Azish Empire has many skilled clerks and scribes, and is thought of as highly lawful, bureaucratic, and organized.
 While the Makabaki nations have some similarities, there is variation in the specific cultures of different nations and peoples, including their social and governmental structures. Citizens who travel to other countries within the Azish Empire can often be identified by the distinct clothing of their homeland.
-Several Makabaki nations worship the [[Heralds\|Heralds]] and not the [[Almighty\|Almighty]].
+Most cultures within Makabaki nations share a love for hospitality. Most Makabaki religions center around one of the Heralds as a singular god, and the others as demigods under their guidance; the specific Herald worshipped varies by region.
 
 ## People
 >“*The Emuli are a certain tribe of the Askarki people, and they're ethnically Makabaki—dark-skinned, like myself.*”
-\-Sigzil[13]
+\-Sigzil[15]
 
 
-Makabaki people generally have dark brown skin, black hair, and dark eyes. The region borders [[Shinovar\|Shinovar]], but the Makabaki people typically possess epicanthic folds, unlike the Shin.
+Makabaki people generally have dark brown skin, black hair, and dark eyes. The region borders [[Shinovar\|Shinovar]], but the Makabaki people typically possess epicanthic folds, unlike the Shin. They appear to be descended from [[Makibak\|Makibak]] and his people.
 They appear to be split into several different peoples, including the [[Askarki\|Askarki]] people, and can sometimes be further divided into tribes. The nature of any genetic and cultural links between these peoples is currently unknown.
 
 ## Politics

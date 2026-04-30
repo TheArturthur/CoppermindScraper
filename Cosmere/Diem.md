@@ -49,7 +49,7 @@ The sand masters maintain a strict hierarchy of ranks. All sand masters wear a c
 |Lord Mastrell|Gold|Election|
 
 ## The Diem's Future
->“*The Diem is not well liked here. It is in debt and, from what I have seen, you will have a difficult time bringing the other sand masters to heel.*”
+>“*The Diem is not well liked here. It is in debt and, from what I have seen, you will have a difficult time bringing the other sand masters to heel. *”
 \-Lady Heelis to Kenton[5]
 
 

@@ -27,7 +27,7 @@
 \-Exton to Florence[4]
 
 Exton is a portly man, and is always quite fashionably dressed. He orders his clothes from the Californian Archipelago, and usually wears a vest and trousers, suspenders, and a bow tie.
-Exton often makes sarcastic remarks, and often when someone interrupts his work. However, he has a soft spot for both Florence and Joel. He is often quite focused on his work, and is prone to carrying on conversations without looking up from whatever he's working on. He harbors a bitterness against Rithmatists in general, despite being one himself.
+Exton often makes sarcastic remarks, and often  when someone interrupts his work. However, he has a soft spot for both Florence and Joel. He is often quite focused on his work, and is prone to carrying on conversations without looking up from whatever he's working on. He harbors a bitterness against Rithmatists in general, despite being one himself.
 
 ## Attributes and Abilities
 Though Exton is a Rithmatist, he is not a very skilled one. He can't draw Rithmatic lines very well, even basic Lines of Forbiddance. He is particularly bad with chalklings, and can't control them properly.

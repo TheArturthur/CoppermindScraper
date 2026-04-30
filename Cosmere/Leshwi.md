@@ -7,11 +7,13 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*What is your passionate fury, Moash, the man with an ancient singer's name?*”
 \-Leshwi to Moash[1]
 
 
-Lady **Leshwi** is a [[Singer\|singer]] and high ranking member of the *[[Shanay-im\|shanay-im]]*, a type of [[Fused\|Fused]]. She is instrumental in bringing [[Moash\|Moash]] to [[Odium\|Odium's]] side.
+Lady **Leshwi** is a [[Singer\|singer]] and high-ranking member of the *[[Shanay-im\|shanay-im]]*, a type of [[Fused\|Fused]], on [[Roshar\|Roshar]]. She is instrumental in bringing [[Moash\|Moash]] to [[Odium\|Odium's]] side.
 
 ## Contents
 
@@ -41,11 +43,11 @@ For more images, see [[Leshwi/Gallery\|/Gallery]].
 Leshwi has the seemingly rare physical trait of black, white, and red marbling on her face. Her eyes are ruby like and colored deep red.
 Little more can be said about her appearance since she, like all [[Fused\|Fused]], possesses another [[Singer\|singer's]] body. While flying, Leshwi wears a long red robe.
 She is a field commander, and one of the leaders of the singers during the [[Siege of Kholinar\|Siege of Kholinar]]. In her view, this is because she is one of the few Fused that are still sane. Leshwi chooses her station carefully. She's a Fused of high enough station that the leaders defer to her but not high enough that she is required to stay out of fights.
-Passion is an important virtue to Leshwi. This likely is related to the fact that Odium believes 'Passion' to be his intent. Leshwi requires those who serve her to have Passion and will not hire those who do not demonstrate it. She is not afraid to speak her mind, even in the presence of people ranked more highly than her and even if it goes against social conventions. She is also more open-minded than some of the other Fused.
+Passion is an important virtue to Leshwi. This likely is related to the fact that Odium believes 'Passion' to be his Intent. Leshwi requires those who serve her to have Passion and will not hire those who do not demonstrate it. She is not afraid to speak her mind, even in the presence of people ranked more highly than her and even if it goes against social conventions. She is also more open-minded than some of the other Fused.
 During the Last Desolation, she was reincarnated into a malen body, but has her beard shaved by a barber, and keeps her hair long. She actively hates the whiskers that grow upon her, even when soft and faint. It is not known if she feels general dysphoria at her malen body, or if it is specific to her facial hair.
 
 ## Abilities and Attributes
-Leshwi is one of the Shanay-im. This allows her to use the [[Surge\|Surge]] of [[Gravitation\|Gravitation]]. She is good enough at lashing that she considers it a rarity to find a human who can compete with her. Like all Fused she can also breathe in [[Voidlight\|Voidlight]], this allows her to heal from most wounds, as long as she has Voidlight.
+Leshwi is one of the Shanay-im. This allows her to use the [[Surge\|Surge]] of [[Gravitation\|Gravitation]]. She is good enough at lashing that she considers it a rarity to find a human who can compete with her. Like all Fused she can also breathe in [[Voidlight\|Voidlight]], this allows her to  heal from most wounds, as long as she has Voidlight.
 Leshwi is also extremely skilled at fighting. She prefers the spear, fighting ground and flying soldiers with it, but she also uses a long, curved [[Parshendi\|Parshendi]] sword. She is considered to be one of the better fighters among the Fused.
 
 ## History

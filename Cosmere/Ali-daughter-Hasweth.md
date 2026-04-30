@@ -1,7 +1,6 @@
 |**Ali-daughter-Hasweth**|
 |-|-|
 |**Family**|
-|**Parents**|Hasweth|
 |**Siblings**|[[Shauka-daughter-Hasweth\|Shauka]]|
 |**Profession**|Scholar|
 |**Ethnicity**|[[Shin\|Shin]]|

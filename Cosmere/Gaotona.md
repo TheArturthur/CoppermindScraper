@@ -36,7 +36,7 @@
 
 
 ## Appearance and Personality
->“*I value truth, young woman. Not Forgery.*”
+>“*I value truth, young woman. Not Forgery. *”
 \-Gaotona to Shai[4]
 
 
@@ -77,7 +77,7 @@ Initially, Gaotona has a strong dislike towards Shai because of her status as a 
 Frava and Gaotona have an extremely antagonistic relationship. While they work together as arbiters of the Heritage Faction, they almost never agree on any course of action to take. Frava views him as an obstacle because he is the only arbiter willing to go against her, and she wants to remove him from his station for it. Frava misunderstands Gaotona's sincerity, instead believing it to be naiveté. She tries to use his perceived foolishness to her political advantage whenever possible.
 
 ## Trivia
-Gaotona seems to be named after the concept of  from the Zoroastrian faith. A mystical fruit that can give healing and immortality to those that eat it. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
+Gaotona seems to be named after the , a mystical fruit that can give healing and immortality to those that eat it, from the Zoroastrian faith. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.
 
 
 https://coppermind.net/wiki/Gaotona

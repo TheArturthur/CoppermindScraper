@@ -5,6 +5,9 @@
 |**Children**|[[Thunor\|Thunor]]|
 |**Siblings**|[[Logna\|Logna]]|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Woden** is a deity worshiped by the [[Weswarans\|Weswarans]] and [[Hordamen\|Hordamen]]. He is said to be the father of [[Thunor\|Thunor]], the husband of [[Friag\|Friag]], and the brother of [[Logna\|Logna]]. [[John West\|John West]] recognizes the name as equivalent to Odin.
 The birthmarks of a [[Skop\|skop]] are said to be a sign of being chosen by Woden.
@@ -12,14 +15,14 @@ Wodensday is the local equivalent of Wednesday.
 
 ## Contents
 
-1 Personality. [[#Personality]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
 3 Trivia. [[#Trivia]] 
 4 Notes. [[#Notes]] 
 
 
-## Personality
-[[Sefawynn\|Sefawynn]] says that Woden demands sacrifice, and [[Ealstan\|Ealstan]] says he rewards blood offerings, but Logna says that this is wrong and Woden only ever cared about victory. According to Logna, Woden hates losing and fears pain and the thought that he will someday die.
+## Appearance and Personality
+[[Sefawynn\|Sefawynn]] says that Woden demands sacrifice, and [[Ealstan\|Ealstan]] says he rewards blood offerings, but Logna says that this is wrong and Woden only ever cared about victory. According to Logna, Woden hates losing and fears pain and the thought that he will someday die. 
 Ealstan says that Woden does not care about being worshipped so long as he is obeyed and feared.
 
 ## History

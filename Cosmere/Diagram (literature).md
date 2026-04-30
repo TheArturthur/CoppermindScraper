@@ -121,6 +121,8 @@ This is a sequence of dates corresponding to the last ten highstorms leading up 
 \-Paragraph 1[21]
 
 
+Debatably refers either to Taravangian's goal of becoming king of Roshar, or to his possible ambition to supplant [[Rayse\|Rayse]] as the shard of [[Odium\|Odium]] (as suggested by the capitalization of "Everything")
+
 ### West Wall Psalm of Wonders
 >“*But who is the wanderer, the wild piece, the one who makes no sense? I glimpse at his implications, and the world opens to me. I shy back. Impossible. Is it?*”
 \-Paragraph 8[22]
@@ -133,7 +135,7 @@ A note by [[Adrotagia\|Adrotagia]] accompanies this excerpt asking whether it re
 \-Paragraph 4[23]
 
 
-This is Adrotagia's third translation from the original hieroglyphics. However, this section of the Diagram has gone extremely off, with the fact that both assassination attempts on Dalinar were stopped by Kaladin.
+This is Adrotagia's third translation from the original hieroglyphics. This section of the Diagram had seemed to go extremely off, with the fact that both assassination attempts on Dalinar were stopped by Kaladin.
 
 ## Predictions
 Several predictions of the Diagram are mentioned in the text, but not necessarily tied to specific fragments in the epigraphs.
@@ -170,6 +172,9 @@ This article is still missing information. Please help The Coppermind by .
 |**Culture**|[[Lighteyes\|Lighteyes]] · [[Darkeyes\|Darkeyes]] · [[Vorinism\|Vorinism]] · [[Ardent\|Ardents]] · [[Spheres\|Spheres]] · [[Glyphs\|Glyphs]] · [[Women's script\|Women's script]] · [[Dawnchant\|Dawnchant]]|
 |**Groups**|[[Bridge Four\|Bridge Four]] · [[Listener\|Listeners]] · [[Herald\|Heralds]] · [[Highprince\|Highprinces]] · [[Ghostbloods\|Ghostbloods]] · [[Diagram (group)\|The Diagram]] · [[Sons of Honor\|Sons of Honor]]|
 |**History**|[[Expulsion\|Expulsion]] · [[Desolation\|Desolations]] · [[Oathpact\|Oathpact]] · [[Last Desolation\|Last Desolation]] · [[False Desolation\|False Desolation]] · [[Day of Recreance\|Day of Recreance]] · [[Hierocracy\|Hierocracy]] · [[War of Reckoning\|War of Reckoning]] · [[True Desolation\|True Desolation]]|
+
+
+
 
 
 

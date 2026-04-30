@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**[[House Davar\|House Davar]]**|
-|**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|Mother]]|
+|**Parents**|[[Lin Davar\|Lin]]|
 |**Siblings**|[[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
 |**Died**|Ishi ? 1172|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|
@@ -12,7 +12,9 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Helaran Davar** is a [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] on [[Roshar\|Roshar]]. Helaran is the oldest child of [[House Davar\|House Davar]], with four younger siblings: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], and [[Shallan\|Shallan]]. Originally known as **Nan Helaran Davar**, identifying him as the first son and heir of his House, until he is stripped of the title Nan when [[Lin\|his father]] disowns him.
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+**Helaran Davar** is a [[Veden\|Veden]] [[Shardbearer\|Shardbearer]] on [[Roshar\|Roshar]]. Helaran is the oldest child of [[Lin Davar\|Lin Davar]]. Unbeknownst to most of [[House Davar\|House Davar]], he is likely a bastard, making him the half-brother of the four children his father has with the [[Herald\|Herald]] [[Chanarach\|Chanarach]]: [[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], and [[Shallan\|Shallan]]. Originally known as **Nan Helaran Davar**, identifying him as the first son and heir of his House, until he is stripped of the title Nan when his father disowns him.
 
 ## Contents
 
@@ -38,11 +40,11 @@ For more images, see [[Helaran Davar/Gallery\|/Gallery]].
 
 
 Helaran is tall, muscular, and square-chinned, although his father is taller than he is.
-Of all the Davar children, he is considered to be the most responsible and the only true adult, even after his younger brother [[Balat\|Balat]] comes of age. He and [[Shallan\|Shallan]] are [[Lin\|his father's]] favorite children.
-Helaran is resentful and angry at his father, who he believes murdered [[Shallan's mother\|his mother]] and her lover in cold blood.
+Of all the Davar children, he is considered to be the most responsible and the only true adult, even after his younger brother [[Balat\|Balat]] comes of age. He and [[Shallan\|Shallan]] are his father's favorite children.
+Helaran is resentful and angry at his father, who he believes murdered his step-mother and her lover in cold blood.
 
 ## Attributes and Abilities
-[[Shallan's mother\|His mother]] had intimate contact with a [[Skybreaker\|Skybreaker]] acolyte and it is possible [[Nale\|Nale]] knew a member of the house was close to bonding a [[Spren\|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.
+His step-mother had intimate contact with a [[Skybreaker\|Skybreaker]] acolyte and it is possible [[Nale\|Nale]] knew a member of the house was close to bonding a [[Spren\|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.
 
 ## History
   Helaran on the Alethi battlefield, moments prior to being killed by Kaladin
@@ -71,7 +73,7 @@ When Helaran leaves the house for the first time he doesn't think [[Balat\|Balat
 \-Helaran to his father before leaving house Davar [3]
 
 
-Helaran is sure [[Lin\|his father]] killed [[Shallan's mother\|his mother]] and her lover. He confronts him as he leaves his house. Even though they don't see each other again, they grow further apart; Helaran sends him a message stating that he has eyes nearby, and is watching, causing himself to be disinherited and to lose his title of Nan. Later, Lin Davar finds that Helaran talked to Balat and sends a guard to kill him.
+Helaran is sure his father killed his step-mother and her lover. He confronts him as he leaves his house. Even though they don't see each other again, they grow further apart; Helaran sends him a message stating that he has eyes nearby, and is watching, causing himself to be disinherited and to lose his title of Nan. Later, Lin Davar finds that Helaran talked to Balat and sends a guard to kill him.
 
 ## Trivia
 The reason behind Helaran's attempt on [[Amaram\|Amaram's]] life is unknown; however, [[Mraize\|Mraize]] of the [[Ghostbloods\|Ghostbloods]] believed the attack was a strike against the [[Sons of Honor\|Sons of Honor]].

@@ -1,12 +1,13 @@
 |**Graeo**|
 |-|-|
 |**Titles**|Count|
+|**Residence**|[[Teoras\|Teoras]]|
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Nationality**|[[Teo\|Teo]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-Count **Graeo** is a young member of the [[Teo\|Teo]] court, and the former fiance of [[Sarene\|Sarene]].
+Count **Graeo** is a young member of the [[Teo\|Teo]] court on [[Sel\|Sel]]. He is a former fiancé of [[Sarene\|Sarene]].
 
 ## Contents
 
@@ -17,14 +18,13 @@ Count **Graeo** is a young member of the [[Teo\|Teo]] court, and the former fian
 
 
 ## Appearance and Personality
-Graeo was not a terribly bright man, and although he was an adult, he acted rather simply, almost child-like. He was earnest though, and always did his best to succeed in the world, even though he was not as intelligent as those around him.
-Graeo was brave enough to court Sarene, even though she had so often humiliated the men of the court. After she broke off their engagement, Graeo became a recluse due to his shame and embarrassment.
+Graeo was not a terribly bright man, and although he was an adult, he seemed more like a child. However, he was earnest and always tried to do the right thing, hoping to succeed in the world even though he was not as intelligent as those around him. His name is based off of [[/wiki/Aon#Aeo]], meaning bravery.
 
 ## History
-When [[Sarene\|Sarene]] began making attempts to become more approachable to the men of the court, Graeo began courting her. Despite the fact that none of his friends thought that she had seriously changed, Graeo and Sarene eventually became engaged to one another. However, Sarene did not love him, and she believed that her presence would be stifling to Graeo, so she ended their engagement. Graeo, believing that Sarene had been making a fool out of him, left the Teo court and retreated to his estate, which he did not leave for three years.
+Sarene went through a period where she tried to rein in her personality and shed her reputation as an abrasive troublemaker. Graeo was brave enough to court Sarene, even though she had often humiliated the men of the court and most people did not believe that she had seriously changed. Sarene liked Graeo despite his dim wit, and they eventually became engaged to one another. However, Sarene did not love Graeo. She realized that she should not enter into a marriage under false pretenses, especially since her true personality would end up stifling him. After she broke off their engagement, Graeo left the Teo court, retreated to his estate, and became a recluse for three years due to his shame and embarrassment. Sarene's reputation was damaged even further as rumors spread that she had intentionally made a fool of Graeo, and she entered into diplomatic service to escape the court.
 
 ## Trivia
-Graeo's name is based off of [[/wiki/Aon#Aeo]], meaning bravery.
+Brandon was not entirely happy with the expository nature of Sarene's narrative about Graeo, but he left in the book since it helps fill in some gaps about her past.
 
 
 https://coppermind.net/wiki/Graeo

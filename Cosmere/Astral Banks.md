@@ -1,5 +1,6 @@
 |**Astral Banks**|
 |-|-|
+||
 |**Region**|[[Sea of Souls\|Sea of Souls]]|
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

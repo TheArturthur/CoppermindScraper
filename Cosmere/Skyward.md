@@ -8,6 +8,7 @@
 |**Publisher**||
 |**ISBN**|978-0399555770|
 |**Page Count**|510|
+|**Word Count**|[[Skyward/Statistical analysis\|135,366]]|
 
 This page is about the book. For the series, see [[Skyward (series)\|Skyward (series)]]. For the [[DDF\|DDF]] flight, see [[Skyward Flight\|Skyward Flight]].
 ***Skyward*** is a young adult science fiction novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first book in the four volume [[Skyward (series)\|Skyward series]] and the second work set in the [[Cytoverse\|Cytoverse]], with the plot taking place centuries after the short story *[[Defending Elysium\|Defending Elysium]]*.
@@ -21,8 +22,9 @@ The book was released on November 6, 2018.
 4 Setting. [[#Setting]] 
 5 Development. [[#Development]] 
 6 Cover Gallery. [[#Cover Gallery]] 
-7 Interior Art. [[#Interior Art]] 
-8 Notes. [[#Notes]] 
+7 Statistical Analysis. [[#Statistical Analysis]] 
+8 Interior Art. [[#Interior Art]] 
+9 Notes. [[#Notes]] 
 
 
 ## Synopsis
@@ -31,7 +33,7 @@ The book was released on November 6, 2018.
 
 ## Summary
 For a complete chapter by chapter summary, see Summary:Skyward.
-[[Spensa\|Spensa]] has dreamed of being a pilot since she was a child. Inspired by her father, then fueled with outrage by the [[DDF\|DDF's]] accusations of cowardice following his death, Spensa spends the next decade preparing for the [[Flight school\|flight school]] entrance exam. Gaining entrance to the program with the help of her new instructor [[Cobb\|Cobb]], Spensa teams up with nine fellow trainees to form [[Skyward Flight\|Skyward Flight]] and battle the [[KRELL\|Krell]], an alien force trying to destroy the [[Defiant League\|Defiant]] colony. Aided by the mysterious stealth fighter [[M-Bot\|M-Bot]], whom she finds abandoned in a cave, Spensa must navigate the pitfalls of flight school, uncover the truth about her father's death, and try not to die at the hands of an enemy starfighter.
+[[Spensa\|Spensa]] has dreamed of being a pilot since she was a child. Inspired by her father, then fueled with outrage by the [[DDF\|DDF's]] accusations of cowardice following his death, Spensa spends the next decade preparing for the [[Flight school\|flight school]] entrance exam. Gaining entrance to the program with the help of her new instructor [[Cobb\|Cobb]], Spensa teams up with nine fellow trainees to form [[Skyward Flight\|Skyward Flight]] and battle the [[KRELL\|Krell]], an alien force trying to destroy the [[Defiant League\|Defiant]] colony. Aided by the mysterious stealth fighter [[M-Bot\|M-Bot]], whom she finds abandoned in a cave, Spensa must navigate the pitfalls of flight school, uncover the truth about her father's death, and try not to die at the hands of an enemy starfighter. 
 
 ## Main Characters
 
@@ -44,6 +46,10 @@ Brandon's premise for the story was "How to Train Your Dragon but instead it's a
 
 ## Cover Gallery
 For a cover gallery of *Skyward*, see [[Skyward/Covers\|/Covers]].
+## Statistical Analysis
+For a full statistical analysis, see [[Skyward/Statistical analysis\|/Statistical analysis]].
+*Skyward* consists of one prologue, fifty-five chapters, three interludes and one epilogue, reaching a total 135,366 word count. There are two different unique point-of-view characters in a total of 65 POVs.
+
 ## Interior Art
 For a gallery of the book's interior art, see [[Skyward/Interior art\|/Interior art]].
 

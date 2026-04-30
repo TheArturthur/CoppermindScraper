@@ -7,7 +7,7 @@
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Steelheart\|Steelheart]]*|
 
->“*Slontze. His danger sense is weakened if he's attracted to you. So unless he finds you a **whole** lot prettier than I do, it’s **not** going to help.*”
+>“*Slontze. His danger sense is weakened if he's attracted to you. So unless he finds you a **whole** lot prettier than I do, it's **not** going to help.*”
 \-Megan to David[2]
 
 

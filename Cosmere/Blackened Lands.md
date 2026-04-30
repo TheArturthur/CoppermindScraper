@@ -13,7 +13,7 @@ Packs of [[Evermouth\|Evermouths]] roam the land, hunting anyone foolish enough 
 The cities in the Blackened Lands are primarily made out of stone and bricks, most of which have fallen into disrepair over the years from all the battles that have occurred against the Kingdoms of Light.
 
 ## Politics
->“*The Dark One rules the drull, the Blackened Lands, and the war machines of old.*”
+>“*The Dark One rules the drull, the Blackened Lands, and the war machines of old. *”
 \-Rastik describing the Dark One[3]
 
 

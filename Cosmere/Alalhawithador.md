@@ -6,6 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Dawnshard (novella)\| Dawnshard]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*This is a mess. It should not have gone this far.*”
 \-Alalhawithador[1]
 
@@ -36,6 +38,7 @@ Alalhawithador was the third Sleepless to [[/wiki/Sleepless#Reproduction]] from 
 When the *[[Wandersail (1174 ship)\|Wandersail]]* [[Expedition to Akinah\|sailed for Akinah]], Alalhawithador went along with Nikli's initial plan to simply warn the humans off with manufactured omens. However, after Nikli's first and second attempts failed, it lost patience and began to push for killing all humans on board. When the swarms got sidetracked into discussing humans at large, Alalhawithador pulled them back on track, and pointed out that *[[First Dreams\|First Dreams]]*, the ship whose recovery prompted the expedition, was likely deliberately placed so that someone would find it (presumably by [[Arclomedarian\|Arclomedarian]]).
 Alalhawithador's plans for the crew of the *Wandersail* involved letting them attempt to breach the storm surrounding Akinah; if they managed to survive and land on the beach, it believed the Sleepless could easily kill them all. Other Sleepless agreed with this plan, but Nikli was eventually given one more try to dissuade the crew.
 As a loyal follower of Yelamaiszin, Alalhawithador presumably honored the treaty that was reached with [[Rysn\|Rysn]] and [[Cord\|Cord]] after the discovery of Akinah's secrets.
+Sometime before the final ten days, Alalhawithador had come to respect Rysn.
 
 
 

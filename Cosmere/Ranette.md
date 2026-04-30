@@ -5,6 +5,7 @@
 |**Spouse**|[[Jaxy\|Jaxy]]|
 |**Abilities**|[[/wiki/Iron#Allomantic Use]]|
 |**Profession**|Gunsmith|
+|**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
@@ -49,7 +50,7 @@ Ranette is quick to threaten to shoot people who annoy her -- as well as Wax and
 Ranette is a lesbian, and has been out for two decades. She was previously romantically involved with [[Misra\|Misra]], but is now with [[Jaxy\|Jaxy]], whom she affectionately nicknames "Jax."
 
 ## Attributes & Abilities
-Ranette is a [[Iron\|iron]] [[Misting\|Misting]] (aka a [[Lurcher\|Lurcher]]). She seems to only use her abilities for simple convenience (i.e., pulling items out of reach toward her, et cetera) and to use devices of her own creation that only a Lurcher can use.
+Ranette is a [[Iron\|iron]] [[Misting\|Misting]] (aka a [[Lurcher\|Lurcher]]). She seems to only use her abilities for simple convenience (i.e., pulling items out of reach toward her, et cetera) and to use devices of her own creation that only a Lurcher can use. 
 As a gunsmith, Ranette is highly skilled and is responsible for the creation of numerous guns as well as various other contraptions and innovations. She has a symbol that can be used to identify her work. She can competently identify a gun's creator.
 
 ## History

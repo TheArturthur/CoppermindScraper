@@ -5,13 +5,13 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Shardplate wasn't merely armor. It was so much more.*”
 \-Dalinar[1]
 
 
-**Shardplate** is an ancient and magical type of full-body armor found on [[Roshar\|Roshar]]. Shardplates used by Radiants are [[/wiki/Spren#Lesser Spren]] who have taken a physical form, and as such are [[Splinter\|Splinters]] of [[Shard\|Shards]] [[Honor\|Honor]] and [[Cultivation\|Cultivation]]. They are usually used with [[Shardblade\|Shardblades]], Invested swords that also exist on Roshar, as Shardblades are so large that they are unwieldy on their own. Those who are bound to a Shardplate are referred to as Shardbearers.
+**Shardplate** is an ancient and magical type of full-body armor found on [[Roshar\|Roshar]]. Shardplates used by Radiants are [[/wiki/Spren#Lesser Spren]] who have taken a physical form, and as such are [[Splinter\|Splinters]] of [[Shard\|Shards]] [[Honor\|Honor]] and [[Cultivation\|Cultivation]]. They are usually used with [[Shardblade\|Shardblades]], Invested swords that also exist on Roshar, as Shardblades are so large that they are unwieldy on their own. Those who are bound to a Shardplate are referred to as Shardbearers, and those who also have a Shardblade are referred to as Full Shardbearers.
 
 ## Contents
 
@@ -26,6 +26,7 @@
 
 2. [[#Radiant Shardplates]] 
 2. [[#Dead Shardplates]] 
+2. [[#Unoathed Shardplates]] 
 
 
 3 Acquiring and Donning. [[#Acquiring and Donning]] 
@@ -49,7 +50,7 @@
 For more images of Shardplate, see [[Shardplate/Gallery\|/Gallery]].
   A section of scroll, collected by <<Nazh\|Nazh>>, depicts a Shardbearer successfully using [[/wiki/Stances#Ironstance]].
 >“*A single man with Plate and Blade was almost an army unto himself.*”
-\-Dalinar[7]
+\-Dalinar[8]
 
 
 A set of Shardplate is constructed of individual pieces that, when assembled, protect the entire body. There are no gaps between sections of the armor, only increasingly small overlapping Plates. Shardplate helms have visors with eye slits that may be lifted up to expose the face. Although similar in appearance, each individual suit of Shardplate has a unique look, and because it conforms to the shape of its wearer, the same suit may appear unique on different individuals. Suits of Shardplate can weigh over 100 stoneweights.
@@ -73,30 +74,43 @@ Massive, blunt projectiles can also be used against Shardplate. At the [[Battle 
 Bladed or pointed weapons (arrows, spears, swords) typically don't carry enough force to damage Plate, but if Plate is already cracked and an edge catches it, the blow can widen the crack. It's conceivable that a Shardbearer, used to ignoring spear strikes that would normally barely scratch their paint, might be unprepared to respond to an effective use of this weakness.
 
 ## Types
-There were two main types of Shardplates used on Roshar during the [[Era of Solitude\|Era of Solitude]]. They were the Shardplates of the typical Radiants, and the dead Shardplates of the Radiants who abandoned their oaths at the [[Recreance\|Recreance]].
+There were three main types of Shardplates used on Roshar as of the [[Night of Sorrows\|Night of Sorrows]]. They were the Shardplates of the typical Radiants, and the dead Shardplates of the Radiants who abandoned their oaths at the [[Recreance\|Recreance]], and the Unoathed Shardplates.
 
 ### Radiant Shardplates
 >“*I’ll assume none of you have seen Shardplate in action before. Stand back and enjoy this next part.*”
-\-Zellion[23]
+\-Zellion[24]
 
 
-Radiant Shardplates are granted to people who are on the path to becoming a full Radiant and have sworn a particular oath of the [[Immortal Words\|Immortal Words]]. Most Orders acquired Shardplate after swearing the Fourth Ideal. At that point, the Radiant will gain the ability to pull [[/wiki/Spren#Lesser Spren]] into the Physical Realm to create the Shardplate. Each Order has its own lesser spren, which are associated with their Nahel Spren, for example [[Windspren\|windspren]] for [[Honorspren\|honorspren]] or [[Logicspren\|logicspren]] for [[Inkspren\|inkspren]]. The lesser spren will perpetually accompany the Radiant, though invisible, and manifest when called on. Radiants are able to hear their lesser spren howl in pain or annoyance when attacked.
-A Radiant cannot summon their Shardplate for the first time if they are not on [[Roshar\|Roshar]], but can summon it off-world if they have done so before. Plate will automatically feed off their Surgebinder's Stormlight to power and heal itself. It seems that Radiants are able to Surgebind while wearing their own plate, although the plate still protects them from others using the surges.
-It shines brightly with glow of Stormlight and gleaming glyphs, although the Radiant can will it to appear as "dead" Plate. In semi-dismissed state, the Plate is only visible as a faint outline, and can't be felt by touch. From the inside, the helmet is as transparent as glass and the eye slit is not necessary and can be sealed. Radiants can control their Shardplate with precision -- for example, will only part of it to appear or disappear or change in shape to some degree. Moreover, [[Windrunner\|Windrunners]] are able to form their Plate around others at least temporarily.
+Radiant Shardplates are granted to people who are on the path to becoming a full Radiant and have sworn a particular oath of the [[Immortal Words\|Immortal Words]]. Most Orders acquired Shardplate after swearing the Fourth Ideal. At that point, the Radiant will gain the ability to pull [[/wiki/Spren#Lesser Spren]] into the Physical Realm to create the Shardplate. Each Order has its own lesser spren, which are associated with their Nahel Spren, for example [[Windspren\|windspren]] for [[Honorspren\|honorspren]] or [[Logicspren\|logicspren]] for [[Inkspren\|inkspren]]. Bondsmiths may be able to manifest a suit of Shardplate, but this is unclear. Dalinar Kholin was told by the [[Stormfather\|Stormfather]] that he would be a Knight Radiant without Shards (which would include Shardplate), but whether this extends to other Bondsmiths, or if it was just a specific condition of their particular bond, is also unknown. The lesser spren will perpetually accompany the Radiant, though invisible, and manifest when called on. The Plate can manifest on others as well. Radiants are able to hear their lesser spren howl in pain or annoyance when attacked, and some Orders are able to communicate feelings or ideas to their armor spren, and vice versa.
+A Radiant cannot summon their Shardplate for the first time if they are not on [[Roshar\|Roshar]], but can summon it off-world if they have done so before. They cannot summon their Shardplate in the [[Cognitive Realm\|Cognitive]] or [[Spiritual Realm\|Spiritual Realm]]. If a Radiant is in the Cognitive Realm, the spren that make up their armor might appear around them (depending on the spren type and their connection to the Cognitive Realm). Plate will automatically feed off their Surgebinder's Connection to the Spiritual Realm instead of gemstones. It seems that Radiants are able to Surgebind while wearing their own plate, although the plate still protects them from others using the surges.
+It shines brightly with glow of Stormlight and gleaming glyphs, although the Radiant can will it to appear as "dead" Plate. From the inside, the helmet is as transparent as glass and the eye slit is not necessary and can be sealed. Radiants can control their Shardplate with precision -- for example, will only part of it to appear or disappear or change in shape to some degree.
+
+|**Armor Spren**|
+|-|-|
+|**Radiant Order**|**[[Windrunner\|Windrunner]]**|**[[Skybreaker\|Skybreaker]]**|**[[Dustbringer\|Dustbringer]]**|**[[Order of Edgedancers\|Edgedancer]]**|**[[Truthwatcher\|Truthwatcher]]**|**[[Order of Lightweavers\|Lightweaver]]**|**[[Elsecaller\|Elsecaller]]**|**[[Willshaper\|Willshaper]]**|**[[Stoneward\|Stoneward]]**|
+|**Lesser Spren**|[[Windspren\|Windspren]]|[[Luckspren\|Luckspren]]|[[Flamespren\|Flamespren]]|[[Lifespren\|Lifespren]]|[[Concentrationspren\|Concentrationspren]]|[[Creationspren\|Creationspren]]|[[Logicspren\|Logicspren]]|[[Joyspren\|Joyspren]]|[[Bindspren\|Bindspren]]|
+|**Image**| | | | | | | | | |
 
 ### Dead Shardplates
-Dead Shardplates are Plates that were once owned by members of the Knights Radiant. If a Radiant that has a Shardplate betrays their oaths, their lesser spren are killed and their bodies are trapped in the shape of the Plate. Dead Shardplates lose some of the functionality that they once had. Contrary to dead Blades, which scream upon being touched by a Radiant, dead Plate emits a feeling of contentment and doesn't feel as wrong as dead Blades.
-There is some manner of bond between Shardplate and its wearer that will cease if the owner of the Plate is to die, thus causing the Plate to begin to fall off. The augmented abilities of Shardplate are fueled by Stormlight from gemstones attached to the inside of the armor. Cracking sections of the armor causes Stormlight to leak out; eventually, the Stormlight can be depleted entirely, rendering the armor useless and the wearer immobile. In situations of extreme stress, the gemstones may crack. Ten gemstones, larger than broams, power every set of Plate. Five are beneath the breastplate, and one is in each sabaton.
-Dead Shardplate has the ability to use Stormlight to regenerate itself when damaged. If sections of a suit of armor are destroyed or abandoned, they can be regenerated later by using Stormlight from the suit's gemstones. Once the Shardplate regenerates an abandoned piece, the previous piece will crumble to dust. If someone got a small piece of a shardplate, they can feed it stormlight and try to grow the whole plate back, but the original owner with bigger portions of the plate could feed it more stormlight and would usually win in the growing competition. Repairing a heavily-damaged set of Shardplate can be costly, as it commonly cracks the gemstones used during the process. Through some unknown method, common spheres may also be used to recharge and reinforce drained Plate.
-The natural color of dead Shardplate is slate-grey, similar to unfinished steel. In current times, however, it is extremely common to change the appearance of one's Shardplate by painting it or adorning it with decorative details or even gemstones. From the inside, the helmet's face shield
-becomes translucent to the wearer, but not totally clear, similar to dirty glass. The eye slit is therefore still needed for full vision, but even the partial translucence is very useful.
+Dead Shardplates are Plates that were once owned by members of the Knights Radiant. If a Radiant that has a Shardplate betrays their oaths, their lesser spren are killed and their bodies are trapped in the shape of the Plate. Dead Shardplates lose some of the functionality that they once had. Contrary to dead Blades, which scream upon being touched by a Radiant, dead Plate emits a feeling of contentment and doesn't feel as wrong as dead Blades. Dead armor spren, if unbonded in the Physical Realm, may stay with the deadeye that their previous Radiant was bonded with in the Cognitive Realm.
+There is some manner of bond between Shardplate and its wearer that will cease if the owner of the Plate is to die, thus causing the Plate to begin to fall off. At times, the Shardbearer may be able to feel the emotions or hear the voice of the armor spren.
+The natural color of dead Shardplate is slate-grey, similar to unfinished steel. In current times, however, it is extremely common to change the appearance of one's Shardplate by painting it or adorning it with decorative details or even gemstones. From the inside, the helmet's face shield becomes translucent to the wearer, but not totally clear, similar to dirty glass. The eye slit is therefore still needed for full vision, but even the partial translucence is very useful.
+The augmented abilities of Shardplate are fueled by Stormlight from gemstones attached to the inside of the armor. Cracking sections of the armor causes Stormlight to leak out; eventually, the Stormlight can be depleted entirely, rendering the armor useless and the wearer immobile. In situations of extreme stress, the gemstones may crack. Ten gemstones, larger than broams, power every set of Plate. Five are beneath the breastplate, and one is in each sabaton. Dead Shardplate has the ability to use Stormlight to regenerate itself when damaged. If sections of a suit of armor are destroyed or abandoned, they can be regenerated later by using Stormlight from the suit's gemstones. Once the Shardplate regenerates an abandoned piece, the previous piece will crumble to dust. If someone got a small piece of a shardplate, they can feed it stormlight and try to grow the whole plate back, but the original owner with bigger portions of the plate could feed it more stormlight and would usually win in the growing competition. Repairing a heavily-damaged set of Shardplate can be costly, as it commonly cracks the gemstones used during the process. Through some unknown method, common spheres may also be used to recharge and reinforce drained Plate. Over time, the humans have developed several techniques to make the regrowth of Shardplate occur faster. Shardplate can also be regrown by depleting Stormlight from other Plate.
 Since the power of Shardplate is provided by a continuous infusion of Stormlight from gemstones attached to the armor's interior, many modern Rosharans believed that Shardplate may be some sort of [[Fabrial\|fabrial]]. Gemstones began being added around the same time as they were added to Shardblades.
 
+### Unoathed Shardplates
+>“*Radiants could still summon Blades and Plate too, but Adolin’s Unoathed could do it without Surges or oaths. They were something new.*”
+\-Adolin[69]
+
+
+The [[Unoathed\|Unoathed]] Shardplate were created when [[Maya\|Maya]] led a group of deadeyes to the aid of [[Adolin Kholin\|Adolin Kholin]] in his defense of [[Azimir\|Azimir]] and he asked them to provide him with nine sets of Plate and Blades. There are no symbols on the Plate, but it does glow. The Plate works without the use of Stormlight.
+Unoathed Shardplate have some restored functionality, with their helm being able to be fully transparent. They can also morph their structuring as well. Unoathed Plate can also be summoned on demand. The armor spren are able to give updates to the Unoathed on which sections of the Plate is cracked.
+
 ## Acquiring and Donning
-As the knowledge of creating Shardplate has only resurfaced with the return of the Knights Radiant, a limited number of suits exist. The only way to acquire a set of Shardplate aside from swearing Radiant oaths is from another person. This can be done through battlefield combat, by dueling, by borrowing it from the owner or by inheritance. It is common for Shardbearers to loan their Plate to others. Even the King's own Shardplate can be borrowed at a heavy price.
+As the knowledge of creating Shardplate has only resurfaced with the return of the Knights Radiant, a limited number of suits exist. The only way to acquire a set of Shardplate aside from swearing Radiant oaths is from another person. This can be done through battlefield combat, by dueling, by borrowing it from the owner or by inheritance. It is common for Shardbearers to loan their Plate to others. Even the Alethi Ruler's own Shardplate can be borrowed at a heavy price.
 Because of its weight, dead Shardplate cannot be donned without assistance. The Shardbearer often has a team of armorers to assist with putting the armor on. The armor must be applied from the ground up, starting with the sabatons, or the wearer would be unable to support its weight. Regular clothing, boots, and additional padding are worn underneath the Plate. When applied, each individual piece of Shardplate tightens to fit itself to the contours of the wearer.
 Removal of Shardplate is done in pieces; the wearer can mentally command each section to release and fall away. Damaged sections can be shed during battle. In order to eliminate the need to remove one's entire set of Shardplate during extended battle, other soldiers provide assistance with the toileting needs of the warrior in Plate. Sometimes, however, such assistance is not available, and Shardbearers have been known to relieve themselves inside their armor.
-Although most suits of Shardplate known to exist are possessed by the human inhabitants of Roshar, [[Parshendi\|Parshendi]] used to own Shards, though they have lost most of them in battle with the Alethi.
+Although most suits of Shardplate known to exist are possessed by the human inhabitants of Roshar, [[Listeners\|Listeners]] used to own Shards, though they have lost most of them in battle with the Alethi.
 The old Knights Radiant associated acquiring Shardplate with swearing the Fourth Ideal.
 
 ## Cosmere
@@ -108,19 +122,20 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |**Radiant Name**|**Order**|**Description**|**Notes**|**References**|
 |-|-|
 |[[Kaladin Stormblessed\|Kaladin Stormblessed]]|[[Windrunner\|Windrunner]]|Blue and emblazoned with the Bridge Four glyph.|Formed of windspren, which had been noted to gather around Kaladin prior to the Fourth Oath.||
-|[[Sigzil\|Zellion]]|[[Skybreaker\|Skybreaker]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
-|[[Sigzil\|Zellion]]|[[Windrunner\|Windrunner]]|Burns with red-orange light, and trails smoke.|Its current workings are unknown.||
-|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|-|Formed of logicspren.||
+|[[Sigzil\|Zellion]]|[[Skybreaker\|Skybreaker]]|Burns with red-orange light, and trails smoke.|Formed of luckspren and windspren.||
+|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|First Shardplate to have been made after the Recreance.|Formed of logicspren.||
+|[[Shallan Davar\|Shallan Davar]]|[[Order of Lightweavers\|Lightweaver]]|A metallic red color with the Lightweaver order symbol on the breastplate. It has swirls of color like ribbons of wet paint, poured together. It's sleeker then other Shardplates, like it can be worn underneath a coat.|Formed of creationspren.| |
+|[[Dami\|Dami]]|[[Stoneward\|Stoneward]]|Glows a golden orange and has a symbol. Large and bulky, making Dami stand taller than any other Shardbearer.|Formed of bindspren||
 
 ### Dead Shardplates
 |**Shardbearer**|**Previous Holder**|**Order**|**Description**|**Notes**|**References**|
 |-|-|
-|[[Renarin Kholin\|Renarin Kholin]]|[[Dalinar Kholin\|Dalinar Kholin]]|*Unknown*|Unpainted.|
+|[[Renarin Kholin\|Renarin Kholin]]|[[Dalinar Kholin\|Dalinar Kholin]]|*Unknown*|Unpainted.|Likely given to someone else after Renarin revealed himself as a Radiant|
 |[[Gavilar Kholin\|Gavilar Kholin]]|-|*Unknown*|The plate is painted blue with gold bands around the edge of each plate. The helm has three waves of wings which are small and almost horn-like. The color changed from blue to slate grey when it became the king's Plate.|Currently used for training purposes by the Alethi.||
 |[[Adolin Kholin\|Adolin Kholin]]|[[Toh\|Toh]]|*Unknown*|Currently painted Kholin blue, formerly orange. It also has a few ornamentations welded onto the helm and pauldrons to give an extra look of danger.|Brought by Evi and Toh as a bargaining chip to secure Evi's marriage to Dalinar. The Iriali would like it back.||
-|[[Torol Sadeas\|Torol Sadeas]]|-|*Unknown*|Currently painted crimson red, used to be painted yellow-gold. His helm is ornamented with a metallic pattern, which he changes every so often, and many frivolous tassels. One such metallic pattern was shaped like a stylised sunburst.|Currently unknown who wears it.||
-|[[Elhokar Kholin\|Elhokar Kholin]]|[[Kalanor\|Kalanor]]|*Unknown*|Currently painted gold, Kalanor decorated his plate with steel or silver leaf, giving it a silvery coloring.|Presumably looted by the singers in Urithiru.||
-|[[Elhokar Kholin\|Elhokar Kholin]]|*Unknown*|*Unknown*|*Unknown*|Current owner is unknown. [[Dalinar\|Dalinar]] won a Shardplate (and blade) from a Parshendi during the first year of the [[War of Reckoning\|War of Reckoning]]. Gifted to [[Elhokar\|Elhokar]] to bestow upon a useful warrior.||
+|[[Torol Sadeas\|Torol Sadeas]]|-|*Unknown*|Currently painted crimson red, used to be painted yellow-gold. His helm is ornamented with a metallic pattern, which he changes every so often, and many frivolous tassels. One such metallic pattern was shaped like a stylized sunburst.|Currently unknown who wears it.||
+|[[Elhokar Kholin\|Elhokar Kholin]]|[[Kalanor\|Kalanor]]|*Unknown*|Currently painted gold, Kalanor decorated his plate with steel or silver leaf, giving it a silvery coloring.|Presumably taken by Odium's forces after Elhokar's death.||
+|[[Elhokar Kholin\|Elhokar Kholin]]|-|*Unknown*|*Unknown*|Current owner is unknown. [[Dalinar\|Dalinar]] won a Shardplate (and Blade) from a Parshendi during the first year of the [[War of Reckoning\|War of Reckoning]] and gifted them to [[Elhokar\|Elhokar]] to bestow upon a worthy warrior.||
 |[[Relis Ruthar\|Relis Ruthar]]|[[Gallam\|Gallam]]|*Unknown*|Painted black.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
 |[[Jakamav\|Jakamav]]|-|*Unknown*|Painted green.|Won by Adolin in a duel with Relis, [[Elit Ruthar\|Elit Ruthar]], Jakamav, and Abrobadar, current wearer unknown.||
 |[[Teleb\|Teleb]]|[[Eranniv\|Eranniv]]|*Unknown*|Erraniv kept his Plate slate grey, except for the breastplate, which he painted a deep black. This was presumably changed when Adolin won it.|Won by Adolin in a duel with Eranniv, then given to Teleb.||
@@ -128,10 +143,13 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |[[Eshonai\|Eshonai]]|[[Sharefel\|Sharefel]]|*Unknown*|Painted silver.|Recovered by the singers.||
 |[[Hrdalm\|Hrdalm]]|-|*Unknown*|Painted gloss black, with Thaylen eyebrows.|Named [[Cvaderln\|Cvaderln]]. It belongs to the kingdom Hrdalm serves.||
 |[[Cord\|Cord]]|-|*Unknown*|Unknown color.|Found in the [[/wiki/Akinah#Caverns]] of [[Akinah\|Akinah]], which is said to be reserved for guardians of the [[Dawnshard\|Dawnshard]].||
-|[[Amaram\|Amaram]]|[[Helaran Davar\|Helaran Davar]]|*Unknown*|When in Helaran's possession it was painted gold-yellow.|Taken from Kaladin who took it from Helaran Davar.||
+|[[Amaram\|Amaram]]|[[Helaran Davar\|Helaran Davar]]|*Unknown*|When in Helaran's possession it was painted gold-yellow.|Taken from Kaladin who took it from Helaran Davar.|
+|[[Tshadr\|Tshadr]]|-|*Unknown*|Unknown color.|The only Shardplate in Urithiru when it was [[Occupation of Urithiru\|occupied by Odium's forces]]; likely taken with them before or during their retreat.||
+|[[Neziham\|Neziham]]|-|*Unknown*|Unknown color.|Plate belongs to the Azish imperial Crown and is given to distinguished soldiers to use. This set of Plate was smashed into tiny pieces during the [[Battle of Azimir\|Battle of Azimir]], and it is unknown if it was ever regrown.||
 
 ## Trivia
-They were originally planned to have circular eye holes instead of visors, however, this was specifically rejected in the end. There is a specific reason for the choice of visors in the end.
+Some options among the original designs for Shardplate helmets had circular eye holes instead of slot visors; however, this was rejected in the end. There is a specific reason for the choice of the visors.
+If Lego Shardplate for Minifigures would be made, instead of just painting it onto the Minifigures, [[Brandon\|Brandon]] would prefer that it be similar to how the Hulkbuster armor was done.
 
 
 https://coppermind.net/wiki/Shardplate

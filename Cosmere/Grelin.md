@@ -9,13 +9,13 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[White Sand\|White Sand]]*|
 
-**Grelin** is the Lord Merchant [[Vey\|Vey's]] secretary.
+**Grelin** is a member of the [[Guild\|Guild]] in [[Lossand\|Lossand]] on [[Taldain\|Taldain]]. He is Lord Merchant [[Vey\|Vey's]] secretary.
 
 ## Appearance and Personality
-Grelin has shoulder length blond hair and a blond goatee. He is seen wearing a white jacket over a purple shirt and is wearing a white top hat with a purple band.
+Grelin has shoulder length blond hair and a blond goatee. He is seen wearing a white jacket over a purple shirt and a white top hat with a purple band.
 
 ## History
-When [[Kenton\|Kenton]] comes to speak with Vey five days before the final vote on the [[Diem\|Diem]] Grelin tells him that he will see that Vey gets his message. When Kenton realizes that Grelin doesn't intend to let him in, he bluffs his way into a meeting with Vey, loudly implying that he knows the secret that causes Vey to continue paying tribute to the Diem, and when Vey hears this he invites Kenton in for a private conversation.
+When [[Kenton\|Kenton]] came to speak with Vey five days before the final vote on the dissolution of the [[Diem\|Diem]], Grelin was not intimidated by his status as [[Lord Mastrell\|Lord Mastrell]] and essentially dismissed him. When Kenton realized that Grelin did not intend to let him in, he bluffed his way into a meeting with Vey, loudly implying that he knew the secret that caused Vey to continue paying tribute to the Diem. Vey heard this from within his office and told Grelin that Kenton could be invited in for a private conversation.
 
 
 

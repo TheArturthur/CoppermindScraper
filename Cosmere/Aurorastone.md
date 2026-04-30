@@ -10,7 +10,7 @@
 
 
 **Aurorastones** are magical stones found in [[Alornia\|Alornia]] that are used to power various mechanisms. The stones are capable of being charged via [[Lancing\|Lancing]], and are used to maintain Lancing feats without [[Kairominas\|Kairominas]] needing to be around. It is implied that the power of an Aurorastone diminishes over time, and that Kai must then recharge them with Lancing.
-The known uses for Aurorastone include weather control, automated carriages resembling cars within Alornia cities, and enchanted swords.
+The known uses for Aurorastone include weather control, automated carriages resembling cars within Alornia cities, and enchanted swords. 
 
 
 

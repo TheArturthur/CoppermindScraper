@@ -7,6 +7,8 @@
 |**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **AonDor** is a manifestation of [[Investiture\|Investiture]] located on the [[/wiki/Cosmere#Planets]] [[Sel\|Sel]] that is used by the [[Elantrian\|Elantrians]]. It involves the use of variously shaped [[Aon\|Aons]], which draw energy from the [[Dor\|Dor]] and must be fine-tuned to the landscape.
@@ -43,7 +45,7 @@ Only an [[Elantrian\|Elantrian]] can use the [[Aon\|Aons]] to draw power from th
 It is also possible to form this Connection by being invited into specific groups (presumably Elantrian groups, such as the [[Ire\|Ire]]), though the exact mechanics of this are not yet known. Someone can also [[Forgery\|stamp]] themselves to become an Elantrian.
 
 ## Drawing Aons
-In order to draw a functional Aon, the Elantrian drawing it must intend to do so, or else the glowing lines used to draw the Aon won’t appear. Elantrians can use their fingers to draw Aons, with each finger giving the lines different widths. Other objects like a quill or stick can also be used to draw Aons. Aons can also be crafted out of other materials by Elantrians, like stone or wire. In this way they can make amulets and the like, that have an actual magical effect. Leaving an Aon alone for a short time without completing it will cause it to disappear with no effects.
+In order to draw a functional Aon, the Elantrian drawing it must intend to do so, or else the glowing lines used to draw the Aon won’t appear. Elantrians can use their fingers to draw Aons, with each finger giving the lines different widths. Other objects like a quill or stick can also be used to draw Aons. Aons can also be crafted out of other materials by Elantrians, like stone, wire, or [[Light\|Light]]. In this way they can make amulets and the like, that have an actual magical effect. It seems like some technology similar to this, Aonic in origin, has made its way into the Space Age of the cosmere. Leaving an Aon alone for a short time without completing it will cause it to disappear with no effects.
 Each Aon has a unique effect, which is determined by its shape. The Aon "Aon" is the starting point for every other Aon. It appears that the energy can only get to the [[Physical Realm\|Physical Realm]] in certain pulse lengths and frequencies, so an Aon’s shape only allows for a certain frequency to escape, which has a specific effect. If an Aon is the wrong shape, it may do nothing, and the Aon will flash once and fade away. An Aon drawn incorrectly with an omission of basic lines would begin the process of the Aon, but stop in the middle of the process due to not having enough energy from the Dor. Sometimes if it is targeted at a person or group of people, it could cause them to appear like a Reod Elantrian. The size of an Aon can affect its power. Aons can also be combined together. Aons can be given more control or strength when the width of the lines match the proper locations that correspond with [[Arelon\|Arelon]].
 Aons can only be destroyed by an Elantrian. Unless destroyed by an Elantrian an Aon will continue to function even if it is scuffed or erased. It is possible for AonDor to negate effects granted by [[Dakhor\|Dakhor]].
 
@@ -56,7 +58,8 @@ Setting off different chains of Aons.
 Modifying power levels of Aon effects.
 Modifying the range of Aons.
 ## Aon Equations
-In extremely advanced uses of AonDor, multiple Aons can be used in conjunction to modify each other in Aon equations. These are used to channel the Dor in the most specific ways allowed by AonDor. With it, Elantrians could fabricate any object out of nothing, although the sheer skill and practice required makes Elantrians who can do this extremely rare. In addition to its regular effect, it appears that each Aon has a secondary effect that can be used in the Aon equations. Almost any effect in the cosmere can be replicated with the right equation.
+  <<Hoid\|Hoid>> and <<Riina\|Riina>> drawing Aon Equations
+In extremely advanced uses of AonDor, multiple Aons can be used in conjunction to modify each other in Aon equations. These are used to channel the Dor in the most specific ways allowed by AonDor. With it, Elantrians could fabricate any object out of nothing, although the sheer skill and practice required makes Elantrians who can do this extremely rare. In addition to its regular effect, it appears that each Aon has a secondary effect that can be used in the Aon equations. Almost any effect in the cosmere can be replicated with the right equation, though AonDor struggles to fully imitate the effects of persistent bonds or [[Anti-Investiture\|Anti-Investiture]].
 
 ### Curses
 It is possible through complex Aon Equations to lay complex curses upon people with specific effects and conditions, even to the point of transforming someone into a completely different species. They can also completely change one's personality, limit their intelligence, and forbid one from being able to speak of their curse or how to break it.

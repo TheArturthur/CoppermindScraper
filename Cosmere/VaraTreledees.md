@@ -41,12 +41,12 @@ VaraTreledees redirects here. For [[Susebron\|Susebron's]] high priest, see [[T
 ## Appearance and Personality
  
 For more images, see [[Denth/Gallery\|/Gallery]].
-As a Returned Denth can change his appearance by will.
+As a Returned Denth can change his appearance by will. 
 During the Pahn Kahl rebellion Denth appears as man in his thirties. He dresses in nondescript brown leather, but he keeps some color, such as his red vest. He has a long face and styled hair pulled back into a neat short ponytail. He keeps himself well groomed and is clean-shaven.
 His overall outlook is cynical, likely colored by his own frustration that he finds himself having to do things he feels bad about. 
 
 ## Attributes and Abilities
-As a [[Returned\|Returned]] Denth is faster and stronger than other people. He is also immune to most toxins and cannot die of old age.
+As a [[Returned\|Returned]] Denth is faster and stronger than other people. He is also immune to most toxins and cannot die of old age. 
 Denth is a superb swordsman. He is so quick he can kill most people, even trained warriors, before they can react. Even accomplished fighters such as Vasher are clearly outmatched by him.
 Denth understands [[Awakening\|Awakening]] on an advanced level, as one of the Five Scholars. He is also a very skilled awakener.
 Denth is a consummate actor and manipulator, able to deceive [[Vivenna\|Vivenna]] and the other Idrians for months into setting up a war for him.
@@ -74,6 +74,7 @@ Denth was one of the Five Scholars. He was the brother of Shashara and sworn ene
 He is the leader of a mercenary band including [[Tonk Fah\|Tonk Fah]], [[Jewels\|Jewels]], and [[Clod\|Clod]].
 He temporarily pretends to be employed by and allied with Vivenna.
 He's actually in the employ of [[Bluefingers\|Bluefingers]].
+He hates [[Vasher\|Vasher]] intensely for his past crimes, such as instigating the Manywar and killing [[Shashara\|Shashara]] and [[Arsteel\|Arsteel]], even though they were once friends.
 ## Trivia
 Brandon considers Denth to be "the anti-[[Kelsier\|Kelsier]]", as they are both "glib, smart, and hired to do impossible tasks"; however, Denth, unlike Kelsier, is the antagonist.
 

@@ -31,7 +31,7 @@ Yeddaw is a relatively new city, having been created only 100 years prior to the
 Around the time of the Everstorm, [[Lift\|Lift]] visits Yeddaw whilst following [[Nale\|Nale]].
 
 ## Politics
-The city is locally controlled by a prince. While not much is known currently, the prince has enough authority to issue special operatives and empower the local [[Skybreakers\|Skybreakers]] to react to crimes however they see fit, as well as declare a state of emergency immediately followed by all inhabitants. He was also capable of turning out the [[Parshman\|Parshman]] slaves into the coming [[Everstorm\|Everstorm]].
+The city is locally controlled by a prince. While not much is known currently, the prince has enough authority to issue special operatives and empower the local [[Skybreakers\|Skybreakers]] to react to crimes however they see fit, as well as declare a state of emergency immediately followed by all inhabitants. He was also capable of turning out the [[Parshmen\|parshmen]] slaves into the coming [[Everstorm\|Everstorm]].
 
 ## Culture
 Yeddaw is known for pancakes that are eaten during the [[Weeping\|Weeping]]. The pancakes are called "Sun Day" cakes for unknown reasons, and they are eaten everywhere in the city, from shanties in alleyways to the Grand Indicium. There are said to be ten varieties of pancakes, although one of them is not physically made but is simply thought about in dedication to [[Tashi\|Tashi]].

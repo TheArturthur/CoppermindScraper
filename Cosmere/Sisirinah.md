@@ -50,7 +50,7 @@
 For more images, see [[Sisirinah/Gallery\|/Gallery]].
 Siri is an attractive young woman. She has the [[Royal Locks\|Royal Locks]] and has poor control over them, allowing them to follow her moods naturally. This leads her to often have blonde hair: the color of joy and excitement.
 Siri is a hasty and impulsive youth. Though she also has an inner steel, as proven by her ability to survive in the [[Court of Gods\|Court of Gods]] and learning to control her hair in tense situations such as her confrontations with [[Treledees\|Treledees]]. This is also emphasized by her stubbornness which she uses to strengthen her in difficult situations.
-She struggles with some feelings of inferiority especially when compared with her 'perfect' sister [[Vivenna\|Vivenna]]. She recognizes that this is part of why she was always defiant as a child: partly to gain attention (something forbidden by the teachings of [[Austrism\|Austrism]]) and partly because she knew she could never live up to Vivenna's example. She likes being spontaneous and colorful, unlike her elder sister. This makes her feel a failure in [[Idris\|Idris]], but helps her excel in [[T'Telir\|T'Telir]]. Siri is drawn to the ostentatious and the mysterious. Where many traditional Idrians, such as Vivenna, are disgusted by the displays of wealth and talent in Hallandren, Siri must force herself to not be distracted by them.
+She struggles with some feelings of inferiority especially when compared with her 'perfect' sister [[Vivenna\|Vivenna]]. She recognizes that this is part of why she was always defiant as a child: partly to gain attention (something forbidden by the teachings of [[Austrism\|Austrism]]) and partly because she knew she could never live up to Vivenna's example. She likes being spontaneous and colorful, unlike her elder sister. This makes her feel a failure in [[Idris\|Idris]], but helps her excel in [[T'Telir\|T'Telir]].  Siri is drawn to the ostentatious and the mysterious.  Where many traditional Idrians, such as Vivenna, are disgusted by the displays of wealth and talent in Hallandren, Siri must force herself to not be distracted by them.
 
 
 ## Attributes and Abilities
@@ -104,7 +104,7 @@ Siri's marriage was arranged by her father, who sent her, instead of Vivenna to 
 
  
 ### Lightsong
-Siri initially find's Lightsong's playful banter to be an insult, but quickly realizes that he means no harm and warms up to him after he helps her navigate the politics of the [[Court of Gods\|Court of Gods]]. She believes that he is a good man, albeit a strange one.
+Siri initially find's Lightsong's playful banter to be an insult, but quickly realizes that he means no harm and warms up to him after he helps her navigate the politics of the [[Court of Gods\|Court of Gods]].  She believes that he is a good man, albeit a strange one.
 
 ### Priests
 Siri enjoys Llarimar's helpfulness, contrasted by the discourteous attitude she's experienced from the priests in her own court.

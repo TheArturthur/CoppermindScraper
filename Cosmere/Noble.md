@@ -33,10 +33,10 @@ Each house has different levels of power, a social hierarchy. They use [[Steel M
 >“*Interspersed throughout the city were a dozen or so monolithic keeps. Intricate, with rows of spearlike spires or deep archways, these were the homes of the high nobility. In fact, they were the mark of a high noble family: Any family who could afford to build a keep and maintain a high-profile presence in Luthadel was considered to be a Great House.*”
 \--The Final Empire[5] 
 
-The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel. This is made difficult by the Lord Ruler's keep tax. There is nothing more embarassing to the aristocracy than a Great House that is unable to maintain itself.
+The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel.  This is made difficult by the Lord Ruler's keep tax. There is nothing more embarassing to the aristocracy than a Great House that is unable to maintain itself.
 The Great Houses control imperial trade and enslave the greatest majority of the skaa. Country nobility resent the Great Houses for their control of the canal systems.
-The Great Houses get to buy a monthly stipend of atium, one of the main ways that the Lord Ruler controls them. Nearly all Mistborn are members of the Great Houses. The Great Houses take Mistborn attacks very seriously, and have an unspoken agreement not to use Mistborn to assassinate each other.
-A major house war between the Great Houses tends to happen every couple of centuries or so. House Wars are primarily political. The last House War was devastating.
+The Great Houses get to buy a monthly stipend of atium, one of the main ways that the Lord Ruler controls them.  Nearly all Mistborn are members of the Great Houses. The Great Houses take Mistborn attacks very seriously, and have an unspoken agreement not to use Mistborn to assassinate each other.
+A major house war between the Great Houses tends to happen every couple of centuries or so. House Wars are primarily political.  The last House War was devastating.
 When Vin starts infiltrating the nobility, the ten Great Houses, in order of power, are: [[House Venture\|House Venture]], [[House Hasting\|House Hasting]], [[House Elariel\|House Elariel]], [[House Tekiel\|House Tekiel]], [[House Lekal\|House Lekal]], [[House Erikeller\|House Erikeller]], [[House Erikell\|House Erikell]], [[House Haught\|House Haught]], [[House Urbain\|House Urbain]], and [[House Buvidas\|House Buvidas]]. Breeze describes the current high noblemen to be "a careful discriminating group."
 
 ### Keeps
@@ -51,13 +51,14 @@ Her first ball is at [[Keep Venture\|Keep Venture]], where she meets [[Elend Ven
 About a month later, [[Keep Elariel\|Keep Elariel]] holds a ball at which Valette danced for the first time.
 
 ### Minor Noble Houses
-Outside of the ten Great Houses, there are countless minor houses, some of which eventually became major players during the Collapse.
+Outside of the ten Great Houses, there are countless minor houses, some of which eventually became major players during the Collapse. 
 
 [[House Cett\|House Cett]]
 [[House Aime\|House Aime]]
 [[House Conrad\|House Conrad]]
 [[House Geffenry\|House Geffenry]]
 [[House Teniert\|House Teniert]]
+[[House Izenry\|House Izenry]]
 
 
 https://coppermind.net/wiki/Noble

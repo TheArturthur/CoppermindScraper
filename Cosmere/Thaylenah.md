@@ -7,13 +7,13 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*We are going to need to administrate trade through the Oathgates. I wonder, who has excellent expertise in shipping, caravans, and trade in general…?*”
 \-Navani on Thaylenah[1]
 
 
-**Thaylenah** is an island kingdom in the South of [[Roshar\|Roshar]], with capital in [[Thaylen City\|Thaylen City]]. The people and language of Thaylenah are called the Thaylen.
+**Thaylenah** is an island kingdom in the South of [[Roshar\|Roshar]], with its capital in [[Thaylen City\|Thaylen City]]. The people and language of Thaylenah are called the Thaylen.
 
 ## Contents
 
@@ -55,7 +55,7 @@
   Thaylenah on the world map
 Thaylenah encompasses a trio of islands, as well as a small number of islets, in the South-East of Roshar, on the ocean known as the [[Southern Depths\|Southern Depths]]. Together, they cover roughly 414,000 km, putting Thaylenah in the middle of all Rosharan states, area-wise.
 The largest of the three islands is several times bigger than the other two, and appears to be the country's population center. It's mostly mountainous, with a tall range rising in the middle. The mountains reach all the way to the shore, with towering cliffs making up the northern coast. The climate is cold and frigid, although the locals find it pleasantly chill.
-To the north, Thaylenah is separated from the [[Frostlands\|Frostlands]] by the [[Longbrow's Straits\|Longbrow's Straits]]. The nearest countries to it are the city-states of [[Kharbranth\|Kharbranth]] to the north and [[Shallow Crypts\|Shallow Crypts]] to the east. Within Thaylenah itself, there are only two known major cities -- the capital, [[Thaylen City\|Thaylen]], in a large [[Lait\|lait]] on the northwestern coast, and [[Klna City\|Klna]], a shipbuilding centre further east. The port city of [[Amydlatn\|Amydlatn]] may belong to Thaylenah, although this is uncertain.
+To the north, Thaylenah is separated from the [[Frostlands\|Frostlands]] by the [[Longbrow's Straits\|Longbrow's Straits]]. The nearest countries to it are the city-states of [[Kharbranth\|Kharbranth]] to the north and [[Shallow Crypts\|Shallow Crypts]] to the east. Within Thaylenah itself, there are only two known major cities -- the capital, [[Thaylen City\|Thaylen]], in a large [[Lait\|lait]] on the northwestern coast, and [[Klna City\|Klna]], a shipbuilding center further east. The port city of [[Amydlatn\|Amydlatn]] may belong to Thaylenah, although this is uncertain.
 In [[Shadesmar\|Shadesmar]], Thaylenah's largest island manifests as a vast lake known locally as the [[Thaylen Sea\|Thaylen Sea]], south of the [[Sea of Lost Lights\|Sea of Lost Lights]]. The shores of Thaylen Sea are unoccupied, with the nearest [[Spren\|spren]] settlement being [[Salumon\|Salumon]] in the foothills of the mountains to the east.
 
 ### Settlements
@@ -67,15 +67,16 @@ During the [[Heraldic Epochs\|Heraldic Epochs]], the islands that now compose Th
 In the [[Era of Solitude\|Era of Solitude]], Thaylenah became a titan of commerce, with their ships and caravans trading goods around the world. The country was largely peaceful, with no conflict or war within the past generation. In the last few decades, [[Fen Rnamdi\|Fen Rnamdi]] was elected Queen.
 This age of prosperity ended with the coming of the [[True Desolation\|True Desolation]]. The [[Everstorm\|Everstorm]] dealt massive damage to the country's economy as Thaylen City was devastated, first by the storm itself, and then by the local [[Parshmen\|Parshmen]] stealing the ships and leaving. Having no other choice, the Thaylen allied with [[Urithiru\|Urithiru]], remaining even after the alliance with other countries broke up.
 Most recently, the country was the site of one of the [[True Desolation\|True Desolation's]] first major engagements, the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+Thaylenah was seemingly a target for [[Odium\|Odium]] in the leadup to the [[Night of Sorrows\|Night of Sorrows]], with a hefty navy seemingly having been sent to Thaylenah City. However, as discovered by [[Jasnah\|Jasnah]], it was a ruse to get the Coalition to divert forces. After this was discovered, Odium himself appeared and debated Jasnah and [[Queen Fen\|Queen Fen]], resulting in Jasnah's loss and Queen Fen signing Thaylenah to Odium without the need for an invasion.
 
 ## Politics
 >“*Queen Fen is not an absolute authority. (...) The councils of merchants and naval officers pick the new monarch, after all.*”
-\-Dalinar[15]
+\-Dalinar[22]
 
 
 ### Government
-Thaylenah is an elective monarchy. Following the death of a king or queen, an assembly of merchant councils and high-ranking naval officers elects the new ruler, with the current one being queen [[Fen Rnamdi\|Fen Rnamdi]]. The ruler is said to represent the guilds of Thaylenah.
-While the kingdom follows the [[Vorin\|Vorin]] division between [[Lighteyes\|lighteyes]] and [[Darkeyes\|darkeyes]], there doesn't appear to exist a formalized noble caste analogous to [[Alethi\|Alethi]] or [[Veden\|Veden]] [[Highprince\|highprinces]] and highlords. Rather than [[Nahn\|nahns]] and [[Dahn\|dahns]], the Thaylen utilize their own system of ranks. The Thaylen monarch, however, still claims the first dahn.
+Thaylenah is an elective monarchy. Following the death of a king or queen, an assembly of merchant councils and high-ranking naval officers elects the new ruler, with the current one being queen [[Fen Rnamdi\|Fen Rnamdi]]. The selected monarch has authority over the decisions and direction of the nation, but they’re generally thought of as the representative of the merchant guilds, rather than as an absolute ruler.
+While the kingdom follows the [[Vorin\|Vorin]] division between [[Lighteyes\|lighteyes]] and [[Darkeyes\|darkeyes]], there doesn't appear to exist a formalized noble caste analogous to [[Alethi\|Alethi]] or [[Veden\|Veden]] [[Highprince\|highprinces]] and highlords. Rather than [[Nahn\|nahns]] and [[Dahn\|dahns]], the Thaylen utilize their own system of ranks. The Thaylen monarch, however, still claims the first dahn. Whioe Thaylenah is smaller than its northern neighbors, the nation’s impact on Roshar is much larger.
 
 ### Military and Fabrials
 Thaylenah appears to have little in the way of a land army, but they do have a long-standing naval tradition famous the world over. Thaylen officers are trained in naval tactics and strategy to a far greater extent than their counterparts elsewhere, and their country boasts a large fleet. Unfortunately, many of their ships have been stolen by former [[Parshmen\|Parshmen]] following the first [[Everstorm\|Everstorm]], crippling their capabilities in this regard.
@@ -90,12 +91,12 @@ A notable gem in the Thaylen Reserve is the [[King's Drop\|King's Drop]], a [[Pe
   A Thaylen woman, with the characteristic long eyebrows and a glove instead of a full <<Safehand\|safehand>> sleeve.
 ### People
 >“*They're mostly tradesmen and merchants. Every one I’ve met has tried to swindle me, but that’s hardly the same thing as invading.*”
-\-Lirin[27]
+\-Lirin[34]
 
 
-The Thaylen people are tanned, thought not as dark as the [[Reshi\|Reshi]], and, like most Rosharans, have . They are typically short, although some can grow as tall as the [[Alethi\|Alethi]]. Their most recognizable, distinguishing feature are their long white eyebrows, which they sometimes tuck behind their ears. There seems to be no upper limit on how long they can grow, other than sheer practicality. The Thaylen men additionally have white beards, regardless of their age or the color of their hair.
-The eyebrows are often styled in various ways, such as spikes, bangs or ringlets. To keep them in the desired shape, they are either waxed or starched. Some people shave them altogether, although this is rare. The eyebrows seem to be of great cultural importance to the Thaylens. Even one of their suits of [[Shardplate\|Shardplate]], [[Cvaderln\|Cvaderln]], is decorated with them. The eyebrows of a child of a Thaylen and non-Thaylen wouldn't be this long, although they would have streaks of white in them.
-Thaylens can be found not only in their native country but also elsewhere in the world. While many of them are travelling merchants, some Thaylen settle in other countries, such as [[Reshi Isles\|Reshi Isles]] or [[Alethkar\|Alethkar]], permanently. Thaylen businesses, like tailors and banks, can also be found across the continent. The people have a reputation for swindling, but they are not considered particularly warlike. Thaylen locks are known to be of high quality.
+The Thaylen people are tanned, though not as dark as the [[Reshi\|Reshi]], and, like most Rosharans, have . They are typically short, although some can grow as tall as the [[Alethi\|Alethi]]. Their most recognizable, distinguishing feature are their long white eyebrows, which they sometimes tuck behind their ears. There seems to be no upper limit on how long they can grow, other than sheer practicality. The Thaylen men additionally have white beards, regardless of their age or the color of their hair.
+The eyebrows are often styled in various ways, such as spikes, bangs or ringlets. During, and likely shortly before, the True Desolation it became popular with the affluent youth to style one’s eyebrows like Stormlight wafting off the face. To keep them in the desired shape, they are either waxed or starched. Some people shave them altogether, although this is rare. The eyebrows seem to be of great cultural importance to the Thaylens. Even one of their suits of [[Shardplate\|Shardplate]], [[Cvaderln\|Cvaderln]], is decorated with them. The eyebrows of a child of a Thaylen and non-Thaylen wouldn't be this long, although they would have streaks of white in them.
+Thaylens can be found not only in their native country but also elsewhere in the world. While many of them are travelling merchants, some Thaylen settle in other countries, such as [[Reshi Isles\|Reshi Isles]] or [[Alethkar\|Alethkar]], permanently. Some Rosharan peoples nickname Thaylen sailors ‘skyeels’. Thaylen businesses, like tailors and banks, can also be found across the continent. The people have a reputation for swindling, but they are not considered particularly warlike. Curiosity is a defining attribute of the Thaylen people. Thaylen locks are known to be of high quality.
 
   <<Rysn\|Rysn>> and <<Yalb\|Yalb>> in traditional Thaylen dress
 ### Clothes and accessories
@@ -120,16 +121,15 @@ Known full phrases in Thaylen include the thank you quoted above and *Mkai bade 
 *tyvnk* - sullen. Also the name of [[Rysn\|Rysn's]] pot of Shin [[Tyvnk\|grass]].
 #### Writing
 For more information, see [[Thaylen script\|Thaylen script]].
-Thaylen's writing system is an  -- it contains no vowels. In contrast to most other Vorin countries, Thaylen men seem to be permitted to learn how to read or write the script, although it is not a skill shown off publicly.
-The letters are known to interlock with each other.
+Thaylen's writing system is an  -- it contains no vowels. In contrast to most other Vorin countries, Thaylen men seem to be permitted to learn how to read or write the script, although it is not a skill shown off publicly. The letters are known to interlock with each other. The Thaylen people also draw closed eyes on their stormshutters, believing it to be a form of protection against the highstorm.
 
 ### Religion
 >“*Great Honor in you, Prince Adolin. Great Passion in me at this aid.*”
 \-Hrdalm[12]
 
 
-The dominant cultural tradition in Thaylenah is [[Alethi\|Alethi]] [[Vorinism\|Vorinism]], albeit mixed heavily with local culture and native beliefs. Despite discouragement from the [[Ardentia\|ardentia]], it's common for the Thaylen to believe in the [[Passions\|Passions]], a philosophy suggesting that wanting something strongly will draw it to you. Even beyond that, the Thaylen stray from the Vorin doctrine. Men are permitted to learn to read, and women eschew the traditional full-sleeve [[Safehand\|safehand]], instead covering their left hands with long gloves. Some younger women don't wear the safehand altogether, although this is frowned upon by the more traditional segment of the Thaylen society.
-Although this makes them half-pagan in the eyes of other Vorin countries, the Thaylen are nonetheless considered one of the five Vorin Kingdoms, and their religious authorities are taken into account when the ardentia as a whole debates. However, there has always been some friction between the Thaylens and the church authorities, with the Thaylen monarchs often having to go the extra mile to reassure the ardents of their piety. In the present, this has led to some voices in Thaylenah to call for breaking ties with Vorinism altogether.
+The dominant cultural tradition in Thaylenah is [[Alethi\|Alethi]] [[Vorinism\|Vorinism]], albeit mixed heavily with local culture and native beliefs. Despite discouragement from the [[Ardentia\|ardentia]], it's common for the Thaylen to believe in the [[Passions\|Passions]], a philosophy suggesting that wanting something strongly will draw it to you. Even beyond that, the Thaylen stray from the Vorin doctrine. Men are permitted to learn to read and write, and women eschew the traditional full-sleeve [[Safehand\|safehand]], instead covering their left hands with long gloves. Some younger women don't wear the safehand altogether, although this is frowned upon by the more traditional segment of the Thaylen society.
+Although this makes them half-pagan in the eyes of other Vorin countries, the Thaylen are nonetheless considered one of the five Vorin Kingdoms, and their religious authorities are taken into account when the ardentia as a whole debates. However, there has always been some friction between the Thaylens and the church authorities, with the Thaylen monarchs often having to go the extra mile to reassure the ardents of their piety. In the present, this has led to some voices in Thaylenah to call for breaking ties with Vorinism altogether. The Thaylen people also don’t have an extensive noble caste like those in the other Vorin kingdoms; social mobility is driven more by success in commerce.
 Local lore connects [[Oathgate\|Oathgates]] to the Passions, calling them "portals of worlds" and claiming that only the most Passionate will be able to reopen them. The legend seems to suggest that only women would be capable of such a feat, possibly because of the Vorin division between masculine and feminine arts.
 
 ### Trade
@@ -139,15 +139,15 @@ Local lore connects [[Oathgate\|Oathgates]] to the Passions, calling them "porta
 
 
 Thaylenah is well known for its merchants. Thaylen traders can be found across the entire continent, as far West as [[Shinovar\|Shinovar]] and as far North as the [[Reshi Isles\|Reshi Isles]]. On land, they typically travel in caravans of wagons, while on sea, they have their own ships. The goods they carry range from [[Soulcast\|Soulcast]] metals to slaves.
-Merchants in Thaylenah are ranked, from apprentice to master merchant. The position is equally open to both men and women, and even to non-Thaylens. One can become a merchant by being taken in as an apprentice by a master, whereupon the latter becomes their legal parent, or *[[Babsk\|babsk]]*. Traditional clothing, consisting of a flat-topped conical hat and starched robes, identifies master merchant from their servants and guards. In the present day, the merchants will often wear caps and vests instead.
+Merchants in Thaylenah are ranked, from apprentice to master merchant. The position is equally open to both men and women, and even to non-Thaylens. One can become a merchant by being taken in as an apprentice by a master, whereupon the latter becomes their legal parent, or *[[Babsk\|babsk]]*. Traditional clothing, consisting of a flat-topped conical hat and starched robes, identifies master merchant from their servants and guards. In the present day, the merchants will often wear caps and vests instead. Thaylen merchants often use a flag with two crossing windspren on it.
 Ship captains -- who are often merchants themselves -- can be additionally identified by an item known as the **captain's cord**. The cord is a twenty-feet-long white rope, which the captain wraps in their own colors and strings on the ship's rigging to mark their ownership. Traders without ships can rent barges to ferry them a short distance to and from Thaylenah, connecting them to the mainland.
-Trade forms the backbone of Thaylen economy, leading to merchant councils holding significant power over the reigning monarch, including participating in the election alongside the navy officers. The position of a master merchant can serve as a path to a high rank in the Thaylen government.
+Trade forms the backbone of Thaylen economy, leading to merchant councils holding significant power over the reigning monarch, including participating in the election alongside the navy officers. The position of a master merchant can serve as a path to a high rank in the Thaylen government. Thaylenah also participates in the slave trade, including the trade of enslaved singers; thousands of singers were shipped across the entire world from Thaylenah. Many singers also worked in the shipyards, assigned the grueling task of shaping Thaylen lumber into seaworthy vessels.
 
 ### Food
 Little is known about Thaylen food, although it follows the [[Vorin\|Vorin]] tradition of gender separation, with spicy dishes for men and sweet dishes for women. One product of Thaylen cuisine known beyond its borders is the bread, notable for being puffy like cake and dark, with a characteristic long and rounded shape, and is made with grain from [[Shinovar\|Shinovar]] as well as yeast. Thaylen also have their own type of beer, made from [[Lavis\|lavis]].
 
 ### Science
-Thaylenah is a scientifically advanced nation. Many highly-skilled artifabrians are Thaylen, forming guilds such as the [[Vriztl Guild\|Vriztl Guild]] that hold closely-guarded secrets. Thaylenah also produces high-quality scientific instruments such as  from the Royal Insitute of Barometric Studies, and telescope lenses.
+Thaylenah is a scientifically advanced nation. Many highly-skilled artifabrians are Thaylen, forming guilds such as the [[Vriztl Guild\|Vriztl Guild]] that hold closely-guarded secrets. Thaylenah also produces high-quality scientific instruments such as  from the [[Royal Institute of Barometric Studies\|Royal Institute of Barometric Studies]], and telescope lenses.
 
 ## Notable Thaylen
 For a list of all Thaylen characters, see :Category: Thaylen.

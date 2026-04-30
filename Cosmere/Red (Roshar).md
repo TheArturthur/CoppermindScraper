@@ -1,12 +1,15 @@
 |**Red**|
 |-|-|
 |**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
+|**Bonded With**|[[Array\|Array]]|
 |**Profession**|Soldier|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]], Sadeas army |
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For other characters with this name, see [[Red\|Red]].
 **Red** is a [[Order of Lightweavers\|Lightweaver]] and a member of the [[Unseen Court\|Unseen Court]] on [[Roshar\|Roshar]].
@@ -37,7 +40,7 @@ Red likes to laugh, and gets a lot of Shallan's jokes. He enjoys doing his work 
 Red makes an attempt at flirting with Veil, though he gives up after not much time. Red is definitely a nice person, one that likes talking to people and making friends in general, going out drinking and gambling, though he does not like [[/wiki/Roshar#Wines]], as most sane Alethi don't. He is very cheerful, and even after he accepts Veil as a friend offers to let her have one of the drinks on his ration. He likes Shallan the best out of the group, as he is the most friendly of them, being more friendly than [[Vathah\|Vathah]], [[Gaz\|Gaz]], or [[Shob\|Shob]]. When [[/wiki/Shallan Davar#Veil]] is talking about how annoying and strange Shallan is, Red does not join in on the conversation, while others do. When Gaz is talking about his past as a bridge sergeant, Red encourages him, saying that Gaz was the perfect sergeant. It is hard to tell if he is joking or not, but he seems to be, because he is smiling as he says this.
 
 ## Attributes and Abilities
-As a [[Order of Lightweavers\|Lightweaver]], Red can use the Surges of **Illumination** and **Transformation**.
+As a [[Order of Lightweavers\|Lightweaver]], Red can use the Surges of **Illumination** and **Transformation**. His spren is named [[Array\|Array]].
 
 ### Soulcasting
 The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].

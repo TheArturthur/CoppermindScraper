@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
->“*All’s Alley. Keep away from there. Someone got stabbed behind one of the taverns just last night there.*”
+>“*All’s Alley. Keep away from there. Someone got stabbed behind one of the taverns just last night there. *”
 \-Jor's warning Shallan away from All's Alley.[1]
 
 
@@ -24,7 +24,7 @@ The murders that occurred near the bar do not seem to have affected overall turn
 
 ## History
 It is unknown whether All's Alley had existed in the warcamps before they were evacuated by a large majority of the [[Alethi\|Alethi]] army. After moving to Urithiru following the [[Everstorm\|Everstorm]], Sullik set up All's Alley in the Breakaway. Not long after doing so [[Ned\|Ned]], a drunk from Sadeas's camp, strangled his wife [[Rem\|Rem]] just outside the bar. The next day one of the barmaids was also killed in the same way. Ur one of the hired protectors of All's Alley dropped [[Ned\|Ned]] off the plateau for the death of the barmaid.
-Shallan learned of the murder while visiting bars in the Breakaway, trying to find out information that may relate to the death of Sadeas. Sullik refused to tell Shallan details of the murders, however, pointed her towards his hired thugs, who were drinking in another part of the bar. After speaking with the thugs, and injuring Ur, Shallan learned of Rem's death, as well as the second murder. It is during this encounter that Shallan first meets [[Ishnah\|Ishnah]], who trails Shallan later in an attempt to join the [[Ghostbloods\|Ghostbloods]]. Shallan later realized that the barmaid had been killed by the [[Unmade\|Unmade]] [[Re-Shephir\|Re-Shephir]], who had copied the initial murder of Rem.
+Shallan learned of the murder while visiting bars in the Breakaway, trying to find out information that may relate to the death of Sadeas. Sullik  refused to tell Shallan details of the murders, however, pointed her towards his hired thugs, who were drinking in another part of the bar. After speaking with the thugs, and injuring Ur, Shallan learned of Rem's death, as well as the second murder. It is during this encounter that Shallan first meets [[Ishnah\|Ishnah]], who trails Shallan later in an attempt to join the [[Ghostbloods\|Ghostbloods]]. Shallan later realized that the barmaid had been killed by the [[Unmade\|Unmade]] [[Re-Shephir\|Re-Shephir]], who had copied the initial murder of Rem.
 Later, [[Rock\|Rock]] was attacked by Re-Shephir, who mimicked Veil's attack on Ur, several streets away from the bar.
 
 

@@ -1,12 +1,12 @@
 |**Melishi**|
 |-|-|
 |**Abilities**|[[Order of Bondsmiths\|Bondsmith]]|
-|**Bonded With**|the [[Sibling\|Sibling]]|
+|**Bonded With**|The [[Sibling\|Sibling]]|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] |
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Melishi** is a historical [[Knight Radiant\|Knight Radiant]] of the [[Order of Bondsmiths\|Order of Bondsmiths]] on [[Roshar\|Roshar]].
 
@@ -24,7 +24,7 @@ Melishi is thought to have lived several thousand years ago, and was likely the 
 The [[Urithiru gem archive\|Urithiru gem archive]] held some additional details about Melishi's plan. Melishi and other scholar Radiants of the time believed that the [[Unmade\|Unmade]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] had [[Connection\|Connected]] to the [[Parsh\|parsh]] and was supplying them with [[Voidlight\|Voidlight]], facilitating their [[/wiki/Regal#Forms of Power]]. The Radiants intended to capture Ba-Ado-Mishram using Melishi's abilities and a [[Perfect gemstone\|perfect gemstone]], denying them Voidlight and thus bringing the war to an end. However, [[Naze-daughter-Kuzodo\|Naze-daughter-Kuzodo]] was concerned about the unintended side effects of Melishi's actions. The specific outcome of Melishi's plan is not known, but the events surrounding this conflict are believed to be the basis of the legendary [[False Desolation\|False Desolation]]. [[Sylphrena\|Sylphrena]] comments to [[Kaladin\|Kaladin]] that when the parsh were "conquered", their Connection and [[Identity\|Identity]] were damaged, creating what was known as "[[Slaveform\|slaveform]]" for several millennia.
 
 >“*I hate humans. Humans twist what is said and always make themselves out to be right. How long until you demand that I bond a human, give up my freedom, and risk my life? I'm sure you’ll have wonderful explanations as to why I should absolutely do that.*”
-\-The Sibling, to Navani[14]
+\-The Sibling, to Navani[15]
 
 
 Melishi is also the creator of the barrier surrounding the [[Sibling\|Sibling's]] pillar at the heart of [[Urithiru\|Urithiru]], which is powered by four gemstone nodes throughout the tower. The Stormfather refers to the Sibling being hurt by humanity in the past and the Sibling expresses significant bitterness towards Melishi, blaming him for their loss of freedom and risking their life. The Sibling also had an aversion to fabrials since they involved imprisoning spren. However, at least some of Melishi's actions proved necessary to protect the Sibling and Urithiru from invasion. The Sibling somehow knew to end their bond with Melishi voluntarily before the [[Recreance\|Recreance]] so they would not become a [[Deadeye\|deadeye]], and they swore to never bond another human, only reluctantly bonding [[Navani\|Navani]] out of necessity.

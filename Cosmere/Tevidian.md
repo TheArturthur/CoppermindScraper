@@ -3,7 +3,7 @@
 |**[[House Tekiel\|House Tekiel]]**|
 |**Children**|[[Vin\|Vin]], [[Vin's sister\|Vin's sister]]|
 |**Relatives**|[[Salmen Tekiel\|Salmen Tekiel]], [[Kale Tekiel\|Kale Tekiel]]|
-|**Died**|1022 [[Final Empire\|FE]], killed by [[Kar\|Kar]]|
+|**Died**|1022 [[Final Empire\|FE]], killed by six [[Steel Inquisitors\|Steel Inquisitors]]|
 |**Profession**|[[/wiki/Obligator#Lord Prelan]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

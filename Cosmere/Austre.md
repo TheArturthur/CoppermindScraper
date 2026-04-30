@@ -5,7 +5,7 @@
 |**World of Origin**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Austrism** is a monotheistic religion centered around a god named **Austre**, practiced by the [[Idris\|Idrian]] people on [[Nalthis\|Nalthis]]. Austre is often called "God of Colors".
+**Austrism** is a monotheistic religion centered around a god named **Austre**, practiced by the [[Idris\|Idrian]] people on [[Nalthis\|Nalthis]].  Austre is often called "God of Colors".
 Austre is not [[Endowment\|Endowment]], and his true identity (if any) is unknown. Before the [[Manywar\|Manywar]] and the exile of the royal family, he was also worshipped in [[Hallandren\|Hallandren]].
 
 ## Contents
@@ -40,10 +40,10 @@ Terminating pregnancies is seen as a sin.
 \-Siri explaining the concept of Austre to Susebron[10]
 
 
-Austre is the only god of the monotheistic religion of Austrism. He is often referred to as the "God of Colors." Austre is not [[Endowment\|Endowment]]; it is unknown if he is a real being or not.
-While male pronouns are used to reference Austre, he is not seen as a person, but instead, as an invisible karmic force that watches over all people. Despite being viewed as a force, he is often given human descriptions, such as colorful eyes. He is said to have emotion and to be able to be pleased or displeased with someone's actions. Followers of Austrism believe he regards all humans, regardless of their societal status, as equals.
-He is believed to make all living things, and to put them in their proper place better than any human could. He is also said to give people their personalities and their talents. Austrism holds that he sends the [[Returned\|Returned]] back to Nalthis as his prophets, and gave Vo the Five Visions.
-The [[Idris\|Idrians]] believe that Austre watches over them and protects them. They call themselves sons and daughters of Austre.
+Austre is the only god of the monotheistic religion of Austrism.  He is often referred to as the "God of Colors." Austre is not [[Endowment\|Endowment]]; it is unknown if he is a real being or not.
+While male pronouns are used to reference Austre, he is not seen as a person, but instead, as an invisible karmic force that watches over all people.  Despite being viewed as a force, he is often given human descriptions, such as colorful eyes.  He is said to have emotion and to be able to be pleased or displeased with someone's actions. Followers of Austrism believe he regards all humans, regardless of their societal status, as equals.
+He is believed to make all living things, and to put them in their proper place better than any human could. He is also said to give people their personalities and their talents.  Austrism holds that he sends the [[Returned\|Returned]] back to Nalthis as his prophets, and gave Vo the Five Visions.
+The [[Idris\|Idrians]] believe that Austre watches over them and protects them.  They call themselves sons and daughters of Austre.
 
 ## Members of Austrism
 

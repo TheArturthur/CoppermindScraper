@@ -9,7 +9,7 @@
 
 
 **Thanasmia** is a place or entity related to [[Lumar\|Lumar]] in the [[Cosmere\|cosmere]].
-[[Flik\|Flik]] refers to sailing under "Thanasmia's own moon" when telling [[Tress\|Tress]] that [[Charlie\|Charlie]] was forced to travel the [[Midnight Sea\|Midnight Sea]]. He is the only person to use the term, and does not elaborate. It is therefore unclear who or what Thanasmia is.
+[[Flik\|Flik]] refers to sailing under "Thanasmia's own moon" when telling [[Tress\|Tress]] that [[Charlie\|Charlie]]  was forced to travel the [[Midnight Sea\|Midnight Sea]]. He is the only person to use the term, and does not elaborate. It is therefore unclear who or what Thanasmia is. 
 
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 

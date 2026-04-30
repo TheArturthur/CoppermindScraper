@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Vstim** is a [[Thaylen\|Thaylen]] merchant on [[Roshar\|Roshar]]. He is currently employed as the Minister of Trade for [[Queen Fen\|Queen Fen]], the highest civil position in the Thaylen government. He was "babsk" to [[Rysn\|Rysn]], a position consisting of a master to an apprentice, and also her legal father until he pronounced her a merchant in her own right.
 
 ## Contents
@@ -26,11 +28,11 @@
 
 
 ## Appearance and Personality
-Vstim is in his 70's and described by [[Rysn\|Rysn]] as "spry for his years." He prefers to wear [[Thaylen\|Thaylen]] merchant's clothing consisting of stiffly starched robes and a conical hat. He is very wealthy and follows the [[Passions\|Passions]].
+Vstim is in his 70's and described by [[Rysn\|Rysn]] as "spry for his years." He prefers to wear [[Thaylen\|Thaylen]] merchant's clothing consisting of stiffly starched robes and a conical hat. He is very wealthy and follows the [[Passions\|Passions]]. 
 
 ## History
 ### Shinovar
-Vstim traveled to [[Shinovar\|Shinovar]] with his apprentice [[Rysn\|Rysn]] to trade with [[Thresh-son-Esan\|Thresh-son-Esan]]. He brought [[Soulcast\|Soulcast]] metal and traded in exchange for [[Chicken\|chicken]]. It is revealed that seven years before on another trade he received [[Szeth\|Szeth]], whom he describes as the "best servant I ever had." Every time he comes back to Shinovar he asks Thresh to trade him another Shin soldier, which is denied by Thresh because Szeth had been [[Truthless\|Truthless]].
+Vstim traveled to [[Shinovar\|Shinovar]] with his apprentice [[Rysn\|Rysn]] to trade with [[Thresh-son-Esan\|Thresh-son-Esan]]. He brought [[Soulcast\|Soulcast]] metal and traded in exchange for [[Chicken\|chicken]]. It is revealed  that seven years before, in another trade he received [[Szeth\|Szeth]], whom he describes as the "best servant I ever had." Every time he comes back to Shinovar he asks Thresh to trade him another Shin soldier, which is denied by Thresh because Szeth had been [[Truthless\|Truthless]].
 
 ### Reshi Isles
 A year later Vstim and Rysn traveled to the [[Reshi Isles\|Reshi Isles]]. He feigned sickness in order to allow her to take charge of the trade for herself. Rysn met [[Talik\|Talik]] and in attempting to prove her boldness to the natives, ended up falling off the top of the [[Tai-na\|Tai-na]] and into the water below. The fall shattered her legs. Afterward Vstim reappeared and revealed he had feigned sickness in order to give her a chance to lead as trademaster to see how she would do. Rysn figured out that Vstim was previously Talik's babsk. It was also revealed by the [[Ral-na\|Reshi king]] that Vstim had gained the islanders' respect a long time ago by hunting down a [[Coracot\|coracot]].

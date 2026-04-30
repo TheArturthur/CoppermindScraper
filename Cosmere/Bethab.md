@@ -26,7 +26,7 @@
 
 
 ## Appearance and Personality
-Little is known of Bethab's appearance, other than the fact that he is [[Lighteyes\|lighteyed]]. His house colors are unknown.
+Little is known of Bethab's appearance, other than the fact that he is [[Lighteyes\|lighteyed]]. His house colors are crimson on orange.
 [[Jasnah\|Jasnah]] considers him to be a dullard. In fact, one of his smartest moves was marrying [[Mishinah Bethab\|Mishinah]] for her political acumen. He lets his wife handle most important matters, rather than dealing with them himself. Bethab and Mishinah have a somewhat devious streak, as they have tried on several occasions to sneak language into contracts with the king that would give them favored claim in a succession. However, they know better than to try any trickery when [[Navani\|Navani]] is around.
 
 ## Attributes and Abilities

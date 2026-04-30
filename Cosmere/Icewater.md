@@ -3,8 +3,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Icewater** is a city on an island in the [[Southern Depths\|Southern Depths]] along the southern edge of [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
-Icewater is a port city on the north side of the island. It is unknown if it is autonomous or if it is under the control of [[Tukar\|Tukar]] or some other nation.
+**Icewater** is a port city on the north side of an island in the [[Southern Depths\|Southern Depths]] along the southern edge of [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 [[Rysn\|Rysn]] once travelled with [[Vstim\|Vstim]] to Icewater and bargained with pirates.
 
 

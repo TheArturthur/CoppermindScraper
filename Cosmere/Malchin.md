@@ -14,7 +14,7 @@
 Malchin is said to have been a skilled warrior who wished to become a Lightweaver. Malchin wanted his [[Knights Radiant\|Radiant]] oaths, the [[Immortal Words\|Immortal Words]], to be straightforward. However, the [[Spren\|spren]] of the Lightweavers (known as [[Cryptic\|Cryptics]]) required their bonded Radiants to speak personal "truths" in order to progress beyond the First Ideal, and Malchin did not have enough self-awareness to do so. It is not clear whether the Cryptics declined to bond with him at all or if he bonded a Cryptic and then failed to progress, but he did not become a Lightweaver.
 
 ## Significance
-Malchin is only known from *[[Words of Radiance (in-world)\|Words of Radiance]]*, which was written at least hundreds of years after his lifetime, so the historicity of his story is not known. If it is accurate, he likely lived near the beginning of the Heraldic Epochs when the nature of the [[Nahel bond\|Nahel bond]] with Cryptics was not well-understood. Malchin's story illustrates the fact that not every individual would be suited to join a given Order of the Knights Radiant.
+Malchin is only known from *[[Words of Radiance (in-world)\|Words of Radiance]]*, which was written at least hundreds of years after his lifetime, so the historicity of his story is not known. If it is accurate, he likely lived near the beginning of the Heraldic Epochs when the nature of the [[Nahel bond\|Nahel bond]] with Cryptics was not well-understood. Malchin's story illustrates the fact that not every individual would be suited to join a given Order of the Knights Radiant. 
 
 
 

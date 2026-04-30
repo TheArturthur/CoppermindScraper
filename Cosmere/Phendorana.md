@@ -36,7 +36,7 @@
 
 
 ## Appearance and Personality
-In the [[Physical Realm\|Physical Realm]], Phendorana takes the form of a human-sized older woman with long hair. This is noticeably larger than other honorspren such as [[Rua\|Rua]] and [[Sylphrena\|Sylphrena]], who usually appear to be about a handspan tall. Her clothing initially looks like an elegant gown, but after bonding a [[Windrunner\|Windrunner]] she is seen in a practical [[Thaylen\|Thaylen]]-style skirt and blouse. Her hair moves as if blown by a phantom wind, and curls and disappears into mist. Although she is not seen in the [[Cognitive Realm\|Cognitive Realm]], she presumably has a similar appearance there.
+In the [[Physical Realm\|Physical Realm]], Phendorana takes the form of a human-sized older woman with long hair. This is noticeably larger than other honorspren such as [[Rua\|Rua]] and [[Sylphrena\|Sylphrena]], who usually appears to be about a handspan tall. Her clothing initially looks like an elegant gown, but after bonding a [[Windrunner\|Windrunner]] she is seen in a practical [[Thaylen\|Thaylen]]-style skirt and blouse. Her hair moves as if blown by a phantom wind, and curls and disappears into mist. Although she is not seen in the [[Cognitive Realm\|Cognitive Realm]], she presumably has a similar appearance there.
 [[Teft\|Teft]] describes Phendorana as tenacious and a bit cantankerous, although she also has a warm side. Syl vaguely recalls Phendorana reprimanding her when she was searching for [[Kaladin\|Kaladin]], implying that Phendorana has a leadership role among the honorspren. [[Lopen\|Lopen]] says that Phendorana sometimes lectures her fellow honorspren.
 
 ## Attributes and Abilities
@@ -69,7 +69,7 @@ A sculpture of Phendorana was commissioned after her death so that it could be p
 
 ## Relationships
 ### Teft
-Teft struggled with firemoss addiction for years, and felt that he did not deserve a spren bond even as his fellow bridgemen gained powers. After Phendorana bonded Teft, they had conversations about his childhood trauma and history with the [[Envisagers\|Envisagers]]. Phendorana understands Teft's tendency towards self-loathing like no one else, and her "crusty" personality matches his very well. She does not suffer excuses and is able to push him when he needs it, but she can also offer support, encouragement, and affirmations of his worth. The two also share lighter moments, and Teft thinks she looks like a little child when she grins.
+Teft struggled with firemoss addiction for years and felt that he did not deserve a spren bond even as his fellow bridgemen gained powers. After Phendorana bonded Teft, they had conversations about his childhood trauma and history with the [[Envisagers\|Envisagers]]. Phendorana understands Teft's tendency towards self-loathing like no one else, and her "crusty" personality matches his very well. She does not suffer excuses and is able to push him when he needs it, but she can also offer support, encouragement, and affirmations of his worth. The two also share lighter moments, and Teft thinks she looks like a little child when she grins.
 
 
 

@@ -1,6 +1,5 @@
 |**Liafor**|
 |-|-|
-||
 |**Ethnicity**|Liaforan|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -9,7 +8,7 @@
 \-Torol Sadeas to Adolin on fashion[1]
 
 
-**Liafor** is a kingdom on a peninsula in south-west [[Roshar\|Roshar]]. It is known as a center of fashion on Roshar.
+**Liafor** is a Makabaki kingdom on a peninsula in south-west [[Roshar\|Roshar]]. It is known as a center of fashion on Roshar.
 
 ## Contents
 
@@ -26,7 +25,7 @@ It borders [[Tashikk\|Tashikk]] to the east, [[Yezier\|Yezier]] and [[Alm\|Alm]]
 
 ## History
 During the Silver Kingdoms period, it was part of Makabakam. Eventually, Makabakam collapsed and Liafor eventually formed from its remains.
-During the Era of Solitude, Liafor became a member state of the Azish Empire, it became famous across Roshar for its fashion.
+During the Era of Solitude, Liafor remained a free nation, rather then becoming a member state of the Azish Empire. However, they often follow the Azish in foreign policy regardless. At some point it became famous across Roshar for its fashion.
 
 ## Politics
 Liafor is headed by a monarchy run by a prince and other rulers. The prince's cousin, [[Kaza\|Kaza]], was trained from a young age in the use of their [[Soulcaster\|soulcaster]], which is always kept in the royal family. Whoever is the soulcaster is locked up yet given comforts in an attempt to placate them. Their soulcaster only has the ability to turn objects into smoke. The soulcaster was lost on the island of [[Akinah\|Akinah]] when Kaza ran off seeking a cure for her [[Savant\|condition]]. Liafor tends to eagerly join whatever councils Azir is in, though they prefer to cater meetings themselves. At the start of the [[True Desolation\|True Desolation]], they and Yezier were the only two Makabaki countries [[Dalinar\|Dalinar]] thought in a stable enough position to approach about the coalition.

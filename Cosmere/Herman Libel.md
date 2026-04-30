@@ -5,7 +5,7 @@
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 
 **Herman Libel** is a [[Rithmatics\|Rithmatics]] student at [[Armedius Academy\|Armedius Academy]].
-He is one of the victims of the [[Scribbler\|Scribbler]]. He was once a student of Professor [[Fitch\|Fitch]].
+He is one of the victims of the [[Scribbler\|Scribbler]]. He was once a student of Professor [[Fitch\|Fitch]]. 
 
 
 

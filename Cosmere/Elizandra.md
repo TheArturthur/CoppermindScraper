@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|
 
-**Elizandra Dramali** is the [[Koloss\|Koloss]]-blooded girlfriend of [[Allomancer\|Allomancer]] [[Jak\|Jak]].
+**Elizandra Dramali** is the [[Koloss\|Koloss]]-blooded girlfriend of [[Jak\| Allomancer Jak]].
 
 ## Appearance and Personality
 For more images, see [[Elizandra Dramali/Gallery\|/Gallery]].

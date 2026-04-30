@@ -72,7 +72,7 @@ Duladel’s capital is a city called [[Fellavoo\|Fellavoo]]. Fellavoo is located
 
 ## Government
 ### Republic
-Before it’s violent revolution and eventual occupation by the [[Fjorden\|Fjordell Empire]] Duladel was a republic. This republic was ruled by a group of citizens known as the Republican class. The members of the Republican class were elected by the Dula people. The people who belonged to the Republican class carried the title ‘Citizen’. After the revolution the Republican class was killed in its entirety, with only a handful of survivors. This revolution was also the end of the republic.
+Before its violent revolution and eventual occupation by the [[Fjorden\|Fjordell Empire]] Duladel was a republic. This republic was ruled by a group of citizens known as the Republican class. The members of the Republican class were elected by the Dula people. The people who belonged to the Republican class carried the title ‘Citizen’. After the revolution the Republican class was killed in its entirety, with only a handful of survivors. This revolution was also the end of the republic.
 
 ### Monarchy
 After the collapse of the republic a contingent of Derethi priests, led by the gyorn [[Hrathen\|Hrathen]], fomented a revolution. After this revolution ended a Derethi monarchy was established. This allowed the Fjordell priests to convert the Dula population on a far larger scale them previously possible. The monarchs, as Derethi, bow to the whims of [[Wyrn (title)\|Wyrn]]. This essentially makes Duladel a Fjordell puppet.

@@ -40,8 +40,8 @@
 ## Appearance and Personality
  
 For more images, see [[Sarene/Gallery\|/Gallery]].
-Sarene, princess of [[Teod\|Teod]] and queen of [[Arelon\|Arelon]], is politically-minded, bold, and strategic. She is described as a tall and thin woman with fair hair and silver-grey eyes. She is a natural leader, as evidenced by her immediate take over of Raoden's revolutionary group, despite strong personalities such as [[Roial\|Roial]] and [[Ahan\|Ahan]]. She is never satisfied with an unsolved mystery and can detect quite well when she is being lied to.
-She is also known for being brusque, occasionally sarcastic, and patronizing to those who underestimate or try to manipulate her. This is shown by how she acts dimwitted in order to manipulate [[Iadon\|King Iadon]], using his sexist views against him.
+Sarene, princess of [[Teod\|Teod]] and queen of [[Arelon\|Arelon]], is politically-minded, bold, and strategic. She is described as a tall and thin woman with fair hair and silver-grey eyes. She is a natural leader, as evidenced by her immediate take over of Raoden's revolutionary group, despite strong personalities such as [[Roial\|Roial]] and [[Ahan\|Ahan]]. She is never satisfied with an unsolved mystery and can detect quite well when she is being lied to. 
+She is also known for being brusque, occasionally sarcastic, and patronizing to those who underestimate or try to manipulate her. This is shown by how she acts dimwitted in order to manipulate [[Iadon\|King Iadon]], using his sexist views against him. 
 She seeks to better the lives of others, man or woman, rich or poor.
 
 ## Attributes and Abilities
@@ -83,7 +83,7 @@ Sarene sees Iadon as a quick-tempered, easily frustrated man. He sees Sarene as 
 Eventeo is Sarene’s father, always trying to make her happy. However, he didn’t understand how Sarene was often shunned and mocked until she enlightened him through seon. Eventeo converted to Shu-Derith after promising Hrathren he would do so if Sarene was healed of her curse
 
 [[Kiin\|Kiin]]
-As a child, Sarene would call her uncle Kiin “Hunkey Kay” which is how she first addresses him after she meets him in Arelon. He is a robust man, looking out for Sarene’s best interests. After moving to Arelon, he married Daora. Sarene questions him several times about why he left Teod, but he never gives a full answer. During the Derethi invasion, Kiin reveals himself as the pirate Dreaok Crushthroat.
+As a child, Sarene would call her uncle Kiin “Hunkey Kay” which is how she first addresses him after she meets him in Arelon. He is a robust man, looking out for Sarene’s best interests. After moving to Arelon, he married  Daora. Sarene questions him several times about why he left Teod, but he never gives a full answer. During the Derethi invasion, Kiin reveals himself as the pirate Dreaok Crushthroat.
 
 [[Lukel\|Lukel]]
 Lukel is Kiin’s stepson and Sarene’s cousin. He is a successful merchant with his wife, Jalla, and is part of the group of nobles working to overthrow the king.

@@ -6,7 +6,7 @@ A list of those works that have been published can be found in the [[Bibliograph
 1 Forthcoming Works. [[#Forthcoming Works]] 
 
 1. [[#Cosmere Works]] 
-1. [[#Non-cosmere Works]] 
+1. [[#Non-Cosmere Works]] 
 
 
 2 Potential Works. [[#Potential Works]] 
@@ -26,8 +26,7 @@ A list of those works that have been published can be found in the [[Bibliograph
 
 
 
-### Non-cosmere Works
-
+### Non-Cosmere Works
 
 
 ## Potential Works
@@ -38,6 +37,7 @@ These are projects that Brandon has mentioned as possibilities but there are no 
 
 
 ### Non-Cosmere Works
+
 
 
 ## "Trunked" Works

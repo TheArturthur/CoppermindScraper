@@ -1,24 +1,31 @@
 |**Nazrilof**|
 |-|-|
 ||
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Abilities**|[[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Aliases**|Nazh, the Haunted Man|
+|**Species**|[[Shade\|Shade]]|
 |**Homeworld**|[[Threnody\|Threnody]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Politeness. That's not how I work.*”
 \-Nazh[1]
 
 
-**Nazrilof**, who goes by the nickname **Nazh**, is a mysterious [[Worldhopper\|worldhopper]] from [[Threnody\|Threnody]] who gathers documents and creates sketches from different [[/wiki/Cosmere#Planets]] in the [[Cosmere\|cosmere]] on behalf of [[Khriss\|Khriss]]. He is also the man from *[[The New Ascendancy\|The New Ascendancy]]* broadsheet whose gun appears to shoot [[Shade\|shades]]. Nazrilof is his surname; his given name is yet to be revealed.
+**Nazrilof**, who goes by the nickname **Nazh**, is a mysterious [[Worldhopper\|worldhopper]] and a [[Shade\|shade]] from [[Threnody\|Threnody]] who gathers documents and creates sketches from different [[/wiki/Cosmere#Planets]] in the [[Cosmere\|cosmere]] on behalf of [[Khriss\|Khriss]]. He is also the man from *[[The New Ascendancy\|The New Ascendancy]]* broadsheet whose gun appears to shoot [[Shade\|shades]]. Nazrilof is his surname; his given name is yet to be revealed.
 
 ## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
+
+2. [[#Nazh.27s maps and notes]] 
+
+
 3 History. [[#History]] 
 
 3. [[#Early Worldhopping]] 
@@ -30,6 +37,7 @@
 3. [[#The Compass of Spirits]] 
 
 
+3. [[#The Dynamic]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -61,6 +69,244 @@ Nazh is a skilled artist, able to read and draw Rosharan [[Glyph\|glyphs]] from 
 Like many [[Worldhopper\|worldhoppers]], Nazh has some way to slow down or halt his aging. He seems to have some other powers as well, being able to dive to the bottom of the ocean to recover a bunch of drawings. He might have some sort of ability to either heal himself or withstand superhuman amounts of damage, as he's not afraid of jumping down over a hundred feet. He has some skills that make him a natural fit for the scouting and thievery he does for Khriss, but what those are and whether any of them are magical or supernatural are unknown.
 He's seen with two weapons. Around the time of [[Preservation\|Preservation's]] death, he possesses a knife, long enough to almost be called a sword; he is not particularly attached to it, and gives it to Kelsier to aid him with his mission. Three hundred years later, he's seen using a gun that appears to be capable of firing [[Shade\|shades]] as projectiles, causing anything it hits to wither and crumble away.
 
+### Nazh's maps and notes
+
+Maps
+
+
+
+[[Oathgate\|Oathgates]]
+
+
+
+
+
+
+Status of occupied [[Alethkar\|Alethkar]] in 1175.
+
+
+
+
+
+
+[[Shattered Plains\|Shattered Plains]]
+
+
+
+
+
+
+Defensive plans for [[Narak\|Narak]]
+
+
+
+
+
+
+[[Frostlands\|Frostlands]]
+
+
+
+
+
+
+The war in [[Emul\|Emul]]
+
+
+
+
+
+
+[[Azimir\|Azimir]]
+
+
+
+
+
+
+[[Shin\|Shin]] [[Monastery of Truth\|Monastery of Truth]] map
+
+
+
+
+
+
+[[Sea of Souls\|Sea of Souls]]
+
+
+
+
+
+
+[[Sea of Lost Lights\|Sea of Lost Lights]]
+
+
+
+
+
+
+[[Luthadel\|Luthadel]]
+
+
+
+
+
+
+Annotated [[Elendel\|Elendel]] map
+
+
+
+
+
+
+Updated annotated Elendel Map
+
+
+
+
+
+
+[[New Seran\|New Seran]]
+
+
+
+
+
+
+[[Sycla\|Sycla]]
+
+
+
+
+
+Notes
+
+
+
+[[Shallan's sketchbook\|Shallan's sketchbook]] page
+
+
+
+
+
+
+[[Vorin\|Vorin]] male fashion folio
+
+
+
+
+
+
+[[Vorin\|Vorin]] female fashion folio
+
+
+
+
+
+
+[[Takama\|Takama]] fashion folio
+
+
+
+
+
+
+ fashion folio
+
+
+
+
+
+
+[[Azish\|Azish]] male fashion folio
+
+
+
+
+
+
+[[Thaylen\|Thaylen]] female fashion folio
+
+
+
+
+
+
+[[Singer\|Singer]] fashion folio
+
+
+
+
+
+
+[[Regal\|Regal]] fashion folio
+
+
+
+
+
+
+[[Stormseat\|Stormseat]] mosaic
+
+
+
+
+
+
+Wine types
+
+
+
+
+
+
+[[Thunderclast\|Thunderclasts]]
+
+
+
+
+
+
+Scroll of [[Stance\|Stances]]
+
+
+
+
+
+
+[[Bridge Four\|Bridge Four]] [[Glyph\|glyphs]]
+
+
+
+
+
+
+[[Glyph\|Glyphs]], page 1
+
+
+
+
+
+
+Glyphs, page 2
+
+
+
+
+
+
+[[Navani\|Navani's]] [[Ketek\|ketek]]
+
+
+
+
+
+
+[[Jasnah\|Jasnah's]] [[Ketek\|ketek]]
+
+
+
+
 ## History
 ### Early Worldhopping
 Nazh is a native [[Threnodite\|Threnodite]]. The respect with which he speaks of [[Shade\|shades]] suggests he might've lived there prior to [[Evil\|Evil's]] coming to the [[Homeland\|Homeland]], but it is unknown when he left, and what prompted him to start worldhopping. His home town was named Cianalis.
@@ -88,6 +334,7 @@ He or Khriss seemed to have some interest in [[Shallan\|Shallan]] and her journe
 While in the camps, he snatched [[Shallan\|Shallan's]] symmetrical map of the Plains, though he refused to provide Khriss with a detailed one showing every plateau, as he'd have to create it himself. He also gained access to [[Navani's journal\|Navani's journal]] and reproduced the [[Ketek\|ketek]] on its cover. He might've been present at [[Shallan\|Shallan]] and [[Adolin\|Adolin's]] wedding, as he also learned the ketek that [[Jasnah\|Jasnah]] had composed for the occasion.
 Nazh also travelled throughout the [[Sea of Souls\|Sea of Souls]], visiting locations including [[Perpetual Sobriety\|Perpetual Sobriety]], [[Ageless Beauty\|Ageless Beauty]], and [[Abiding Light\|Abiding Light]]. He again seemed to take an interest in Shallan, and marked the path of her and [[Adolin\|Adolin's]] voyage from [[Nohadon's Stairways\|Nohadon's Stairways]] to [[Nameless\|Nameless]].
 Nazh was sent to embed himself among the [[Stonewards\|Stonewards]], and found ways to look at the nature of [[Intent\|Intent]] as it relates to [[Stoneshaping\|Stoneshaping]].
+Nazh obtained three maps related to the final ten days before the [[Night of Sorrows\|Night of Sorrows]]. He stole a map of the [[Shinovar\|Shin]] [[Monastery of Truth\|Monasteries]], and obtained a map of the Shattered Plains detailing the [[Coalition of monarchs\|Coalition of monarchs]] battle against [[Odium\|Odium's]] forces. He also stole a map of the city of [[Azimir\|Azimir]], detailing the path [[Terushal\|Terushal]] took during the battle of Azimir. He was caught with the map and made to sign paperwork and pay a fine before being allowed to steal it.
 
 ### Time on Scadrial
 #### The Ghastly Gondola incident
@@ -97,12 +344,18 @@ Nazh was sent to embed himself among the [[Stonewards\|Stonewards]], and found w
 
   fighting <<Nicki Savage\|Nicelle>> on the gondola
 Some three and a half hundred years after the [[Catacendre\|Catacendre]], and a few years after his trip to Roshar, Nazh returned to [[Scadrial\|Scadrial]], now equipped with a gun seemingly capable of firing [[Shade\|shades]] and using them as weapons. He obtained and annotated a map of [[Elendel\|Elendel]] made by the [[Canton of Cartography\|Canton of Cartography]], and passed it to Khriss. This time, both of them visited Scadrial's Physical Realm together for at least a short time, and put out an advertisement in *[[The New Ascendancy\|The New Ascendancy]]* newspaper asking that people hearing talking tools report it to "K and N".
-Khriss either remained in or travelled to [[New Seran\|New Seran]], eventually meeting [[Wax\|Wax]] at a ball and questioning him about his abilities. Nazh, meanwhile, attempted to retrieve a map of [[New Seran\|New Seran]] inherited by [[Nicelle Sauvage\|Nicelle Sauvage]]. For this particular job, he dressed up in a [[Mistcloak\|mistcloak]] for unknown reasons. Nazh managed to acquire the map, but Nicelle pursued him onto a gondola of a cable train riding above the city. In return, Nazh opened fire from his shade gun, trying to make it seem as though he wanted to kill her so that she'd leave him alone.
+Khriss either remained in or travelled to [[New Seran\|New Seran]], eventually meeting [[Wax\|Wax]] at a ball and questioning him about his abilities. Nazh, meanwhile, attempted to retrieve a map of [[New Seran\|New Seran]] inherited by [[Nicelle Sauvage\|Nicelle Sauvage]]. [[Nicelle Sauvage\|Nicelle Sauvage]] later published her encounter with Nazh on a broadsheet, possibly with exaggeration for dramatic effects. For this particular job, he dressed up in a [[Mistcloak\|mistcloak]] for unknown reasons. Nazh managed to acquire the map, but Nicelle pursued him onto a gondola of a cable train riding above the city. In return, Nazh opened fire from his shade gun, trying to make it seem as though he wanted to kill her so that she'd leave him alone.
 Nicelle, however, managed to use her [[Leecher\|leecher]] abilities to disarm the gun, to Nazh's shock. He managed to reactivate it in a few moments, but Nicelle quickly kicked it out of the gondola altogether and went for the map. The two struggled for it, with Nazh yelling at Nicelle in frustration to let go and Nicelle insisting that one, the map was her inheritance, and two, Nazh could've been much more polite about trying to acquire it. Nazh eventually resolved the situation by slicing the map in half and jumping off the gondola. He himself retained the part showing the city, while Nicelle had the half with a hidden pocket. It's unknown which was of greater interest to Nazh, and whether he was even aware of the hidden pocket's existence.
 
 #### The Compass of Spirits
-Over the following six years Nicelle's and Nazh's paths crossed many time until eventually Nicki began to count him as one of her adventuring companions. During this time they each made a promise to the other that they would explore the Cosmere together as their relationship took on a romantic tension.
-During one adventure they were on a quest to find an item Nicelle called 'The Compass of Spirits' which she claimed sent the bearer to the 'ghostly dimension', supposedly Shadesmar, Nicelle seemed convinced that the fate of Scadrial depended on their quest's success. Eventually the pair managed to collect the Compass of Spirits along with the key needed to open it up only for [[Vila Mecant\|Vila Mecant]] to steal the compass off them, panicked Nicelle told Nazh to run away with the key before Vila could take it as well whilst she went to retrieve the Compass. Nicelle ultimately proved successful in her task and reunited with Nazh, then Nazh moved as if to kiss her but instead pickpocketed the Compass and used it to escape to the ghostly dimension himself, apologizing whilst doing so. Nicelle was devastated with this development and considered her mission failed until the two Kandra alongside her informed her that there existed another means to enter the ghostly dimension.
+Over the following six years Nicelle's and Nazh's paths crossed many time until eventually Nicki began to count him as one of her adventuring companions. During this time they each made a promise to the other that they would explore the cosmere together as their relationship took on a romantic tension.
+During one adventure they were on a quest to find an item Nicelle called 'The Compass of Spirits' which she claimed sent the bearer to the 'ghostly dimension', supposedly Shadesmar, Nicelle seemed convinced that the fate of Scadrial depended on their quest's success. Eventually the pair managed to collect the Compass of Spirits along with the key needed to open it up only for [[Vila Mecant\|Vila Mecant]] to steal the compass off them, panicked Nicelle told Nazh to run away with the key before Vila could take it as well whilst she went to retrieve the Compass. Nicelle ultimately proved successful in her task and reunited with Nazh, then Nazh moved as if to kiss her but instead pickpocketed the Compass and used it to escape to the ghostly dimension himself, apologizing whilst doing so. Nicelle was devastated with this development and considered her mission failed until the two [[Kandra\|kandra]] alongside her informed her that there existed another means to enter the ghostly dimension.
+
+### The Dynamic
+At some point, Nazh died and became a [[Shade\|Shade]], and started traveling with [[Starling\|Starling]] and the crew of the [[Dynamic\|Dynamic]]. He worked as the ship security officer. He backed Starling when she led a mutiny against Captain [[Crow\|Crow]], and help distract the captain while the others saved an [[Iriali\|Iriali]] family from a [[Evil\|type 1-6 Threnodite entity]].
+The crew later followed a map given to them from the Iriali family to an [[Dakwara's island\|island]] in the [[/wiki/Cognitive Realm#Emberdark]], where they were taken prisoner by [[Malwish Empire\|Malwish]] Scadrians. The Malwish threatened to execute [[Leonore\|Leonore]], and Nazh tried to defend her, but was imprisoned in a shade prison. The Malwish let Leonore go, as the entire point of the threat was to trick and capture Nazh.
+After Starling used the [[Intensifier\|Intensifier]] to create a power cut, [[Ed\|Ed]] and [[Aditil\|Aditil]] freed Nazh from the shade prison. He then destroyed the control panels to the Malwish's [[MW-232\|spacecrafts]], allowing the Dynamic to safely flee. He also assisted Starling in saving [[Chrysalis\|Chrysalis]].
+[[Dusk\|Dusk]] led the crew of the Dynamic to [[Patji's Eye\|Patji's Eye]], the perpendicularity on [[First of the Sun\|First of the Sun]]. They spent six months of shore leave there, and left the planet after the inaugural voyage of the [[Navigator\|Navigators]]. Nazh and the others promised Starling that they would find a way to free her from her manacles and return her draconic powers to her. The crew decided to travel to the [[Grand Apparatus\|Grand Apparatus]] in order to achieve this.
 
 ## Relationships
   Nazh carrying <<Khriss\|Khriss's>> things
@@ -117,17 +370,17 @@ Though Nazh follows Khriss' commands, he is not blindly obedient; the two get in
 
 Nazh and [[Nicelle Sauvage\|Nicelle Sauvage]], known better under the pen name Nicki Savage, meet when the former tries to steal a map of [[New Seran\|New Seran]] that Nicelle has inherited. The map contains a hidden pocket with information from Nicelle's father, which is why she pursues Nazh and the two end up fighting over it (though, Nazh seems to be under the impression that this is just a regular, if very good map). Though angry with him for his theft and mystified by his odd weapon, Nicelle seems to find Nazh very attractive; she calls the timbre of his voice very enjoyable, and has apparently memorized his exact appearance.
 
->“*You silly man. You'll never get rid of me that easily, it's you and me exploring the Cosmere together forever. Just like we promised.*”
+>“*You silly man. You'll never get rid of me that easily, it's you and me exploring the cosmere together forever. Just like we promised.*”
 \-Nicki talking to Nazh.[3]
 
-Nicelle later dramatizes the story for publishing it in *[[The New Ascendancy\|The New Ascendancy]]*, a [[New Seran\|New Seran]] broadsheet. Over the following six years Nicki and Nazh's paths crossed many times until Nicki began to consider him a companion in her group and they made a promise to each other that they would explore the Cosmere together. Over time their dynamic took on a romantic tension. Ultimately however Nazh was forced to betray Nicki and steal the 'Compass of Spirits' for himself by tricking her into thinking they were about to kiss.
+Nicelle later dramatizes the story for publishing it in *[[The New Ascendancy\|The New Ascendancy]]*, a [[New Seran\|New Seran]] broadsheet. Over the following six years Nicki and Nazh's paths crossed many times until Nicki began to consider him a companion in her group and they made a promise to each other that they would explore the cosmere together. Over time their dynamic took on a romantic tension. Ultimately however Nazh was forced to betray Nicki and steal the 'Compass of Spirits' for himself by tricking her into thinking they were about to kiss.
 
 ## Development
 >“*Maybe [Khriss] has somebody who goes and gets the maps and labels them for her with pertinent information. (...) That allowed us to develop a character around that. Brandon said, “Why don’t we have Nazh do this?” to which I agreed, and Brandon said, “Isaac, welcome to the Cosmere.”*”
-\-Isaac Stewart[40]
+\-Isaac Stewart[51]
 
 
-Nazh was created by [[Isaac Stewart\|Isaac Stewart]]; as such, he owns the rights to the character. He came about accidentally during the writing of *[[The Rithmatist\|The Rithmatist]]*. When discussing the book, Isaac kept mispronouncing [[Nalizar\|Nalizar]] as "Nazrilof". Brandon joked that the two were separate characters, with the latter being an alter-ego for Isaac himself, which became an inside joke in the writing group for a while. When the time came to create a map of [[Elendel\|Elendel]] for *[[The Alloy of Law\|The Alloy of Law]]*, however, Brandon and Isaac returned to the idea seriously, and decided to make Nazh Khriss' map-collecting sidekick.
+Brandon credits [[Isaac Stewart\|Isaac Stewart]] as source and inspiration for Nazh. He came about accidentally during the writing of *[[The Rithmatist\|The Rithmatist]]*. When discussing the book, Isaac kept mispronouncing [[Nalizar\|Nalizar]] as "Nazrilof". Brandon joked that the two were separate characters, with the latter being an alter-ego for Isaac himself, which became an inside joke in the writing group for a while. When the time came to create a map of [[Elendel\|Elendel]] for *[[The Alloy of Law\|The Alloy of Law]]*, however, Brandon and Isaac returned to the idea seriously, and decided to make Nazh Khriss' map-collecting sidekick.
 There are some plans to create more stories featuring Nazh, including a telling his backstory; so far, the only known detail is that his home town is called Cianalis, or some variation on the spelling thereof. When Khriss and Nazh met, and when Nazh left Threnody, has so far been left ambiguous so that Brandon has more liberty with plotting out the potential Threnody sequel tentatively titled *[[The Night Brigade\|The Night Brigade]]*. On the other hand, the how of [[Khriss\|Khriss]] and Nazh meeting will be partially revealed in the sequel to *[[White Sand\|White Sand]]*, if it's ever created. Isaac has also expressed the desire to write a novella focusing on [[Nicelle Sauvage\|Nicelle Sauvage]], featuring Nazh as a major character.
 
 ## Trivia
@@ -136,16 +389,6 @@ Brandon has compared Nazh to a "grumpy ". Isaac, meanwhile, says he's "basically
 Nazh's accent is meant to sound Scottish.
 Nazh is Isaac's second favorite character in the [[Cosmere\|cosmere]], after [[Dalinar\|Dalinar]].
 He likes fried  since they remind him of a similar vegetable from Threnody.
-## Notes
-
-This article is still missing information. Please help The Coppermind by .
-|**The [[Cosmere\|Cosmere]]**|
-|-|-|
-|**[[Shard\|Shards]]**|[[Ambition\|Ambition]] · [[Autonomy\|Autonomy]] · [[Cultivation\|Cultivation]] · [[Devotion\|Devotion]] · [[Dominion\|Dominion]] · [[Endowment\|Endowment]] · [[Harmony\|Harmony]] · [[Honor\|Honor]] · [[Invention\|Invention]] · [[Mercy\|Mercy]] · [[Odium\|Odium]] · [[Preservation\|Preservation]] · [[Ruin\|Ruin]] · [[Valor\|Valor]] · [[Virtuosity\|Virtuosity]] · [[Whimsy\|Whimsy]] · *[[Survival Shard\|Survival Shard]]*|
-|**[[Physical Realm\|Planets]]**|[[Ashyn\|Ashyn]] · [[Bjendal\|Bjendal]] · [[Braize\|Braize]] · [[Canticle\|Canticle]] · [[Dhatri\|Dhatri]] · [[First of the Sun\|First of the Sun]] · [[Komashi\|Komashi]] · [[Lumar\|Lumar]] · [[Mythos\|Mythos]] · [[Nalthis\|Nalthis]] · [[Obrodai\|Obrodai]] · [[Roshar\|Roshar]] · [[Scadrial\|Scadrial]] · [[Sel\|Sel]] · [[Taldain\|Taldain]] · [[Threnody\|Threnody]] · [[UTol\|UTol]] · [[Vax\|Vax]] · [[Yolen\|Yolen]]|
-|**Terms**|[[Adonalsium\|Adonalsium]] · [[Shattering\|Shattering]] · [[Dawnshard\|Dawnshard]] · [[Splinter\|Splinter]] · [[Aether\|Aether]] · [[Realmatic Theory\|Realmatic Theory]] · [[Investiture\|Investiture]] · [[Invested Art\|Invested Art]] · [[Intent\|Intent]] · [[Connection\|Connection]] · [[Identity\|Identity]] · [[Fortune\|Fortune]] · [[Spiritweb\|Spiritweb]] · [[Axon\|Axon]] · [[Perpendicularity\|Perpendicularity]] · Worldhopper · [[Sliver\|Sliver]] · [[Initiation\|Initiation]] · [[Resonance\|Resonance]]|
-|**Other**|[[Hoid\|Hoid]] · [[Khrissalla\|Khriss]] · [[Letters\|Letters]] · [[Ire\|Ire]] · [[Ghostbloods\|Ghostbloods]] · [[Seventeenth Shard\|Seventeenth Shard]] · [[Silverlight\|Silverlight]]|
-
 
 
 https://coppermind.net/wiki/Nazh

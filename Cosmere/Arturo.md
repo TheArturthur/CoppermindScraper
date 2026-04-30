@@ -12,7 +12,7 @@
 
 **Arturo Mendez** (callsign **Amphisbaena**) is a member of the [[DDF\|DDF]] and a member of [[Skyward Flight\|Skyward Flight]]. Both of his parents are pilots, one of which is [[Valda Mendez\|Valda Mendez]]. He is an assistant flight leader to [[Jorgen\|Jorgen]], along with [[Nedd\|Nedd]].
 His callsign, Amphisbaena, comes from the mythological  that goes by the same name. His flightmates and other DDF staff have difficulty pronouncing his callsign, leading to it being shortened to Amphi. [[Cobb\|Cobb]] appears to be the only person who can pronounce Arturo's callsign, however also calls him by the shortened nickname.
-His family is rich and owns three private [[Starfighter\|starfighters]] that are used as escorts during trading operations. These ships are not accessible to the DDF during times of need as they are primarily reserved to evacuate the Mendez family if they are in danger. His family has a private radio frequency, 1250, as well as a private radio that is able to unscramble pilot frequencies.
+His family is rich and owns three private [[Starfighter\|starfighters]] that are used as escorts during trading operations.  These ships are not accessible to the DDF during times of need as they are primarily reserved to evacuate the Mendez family if they are in danger. His family has a private radio frequency, 1250, as well as a private radio that is able to unscramble pilot frequencies.
 
 ## Contents
 

@@ -10,7 +10,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Gaz** is a [[Order of Lightweavers\|Lightweaver]] and a member of the [[Unseen Court\|Unseen Court]] on [[Roshar\|Roshar]].
 He was the sergeant in charge of the [[Bridge crew\|bridge crews]] in [[Shattered Plains\|Sadeas's warcamp]].
@@ -26,10 +26,11 @@ He was the sergeant in charge of the [[Bridge crew\|bridge crews]] in [[Shattere
 
 3 History. [[#History]] 
 
-3. [[#The Bridge runs at the War of Reckoning]] 
+3. [[#Bridge Sergeant]] 
 3. [[#Shallan.27s Bodyguard]] 
-3. [[#Urithiru]] 
+3. [[#Becoming a Spy]] 
 3. [[#Knight Radiant]] 
+3. [[#Ghostblood Infiltration]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -57,32 +58,36 @@ As a Lightweaver, Gaz can use the Surges of **Illumination** and **Transformatio
 The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].
 
 ### Lightweaving
-[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
+[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion. 
+
+>“*It’s not the gambling itself that got me. It’s that I built up how it would feel to win, only to come crashing down each time, leaving me feeling like I’d missed out on something I was owed. That made me dull to everything else. Till I was a man without a heart, sending boys off to die each day on those bridge runs.”*”
+\-Gaz[11]
 
 ## History
- 
-### The Bridge runs at the War of Reckoning
-Gaz was a bridge sergeant responsible for the bridgemen at the Sadeas warcamp. He takes new recruits to fill the different bridge teams due to constant loss. He is also responsible for making sure they do their duties, leading them to their bridge runs and showing them the way. He had to make sure order was kept and that the rules are followed.
-The rules for bridge crews were primarily made to keep them down and in despair, but also included some simple encouragements like rotation of the bridge positions to keep them from becoming too angry. One of those was looking down on the bridge group with the worst "luck", which was Bridge Four. When Kaladin joined and began leading the crew like a real team, he changed the balance between bridge crews and caused resentment among the others. Kaladin convinced Gaz that to avoid being hated by others, he could change their duties to a harder task (stone gathering). Gaz accepted but was convinced he had been tricked (which he had) and then increased the "punishment" to chasm duty.
-Lamaril was Gaz's immediate superior and a low-ranked lighteyes who was blackmailing him. Though Gaz had used Kaladin's bribes to stay ahead of payment, Lamaril threatened to make him a bridgeman if he did not stop Kaladin and the changes in spirit of Bridge Four. Gaz agreed to bring Kaladin down without making him a martyr.
+### Bridge Sergeant
+Gaz was a bridge sergeant responsible for the bridgemen at the Sadeas warcamp. He was assigned to the position after falling into deep gambling debts.
+It was his responsibility to select new recruits to fill the different bridge teams due to their constant losses. He was also responsible for making sure they did their duties, leading them to their bridge runs and showing them the way. He had to make sure order was kept and that the rules were followed.
+The rules for bridge crews were primarily made to keep them down and in despair but also included some simple encouragements like rotation of the bridge positions to keep them from becoming too angry. One of those was looking down on the bridge group with the worst "luck", which was Bridge Four. When Kaladin joined and began leading the crew like a real team, he changed the balance between bridge crews and caused resentment among the others. Kaladin convinced Gaz that to avoid being hated by others, he could change their duties to a harder task (stone gathering). Gaz accepted but was convinced he had been tricked (which he had) and then increased the "punishment" to chasm duty.
+[[Lamaril\|Lamaril]] was Gaz's immediate superior and a low-ranked lighteyes who was blackmailing him. Though Gaz had used Kaladin's bribes to stay ahead of payment, Lamaril threatened to make him a bridgeman if he did not stop Kaladin and the changes in spirit of Bridge Four. Gaz agreed to bring Kaladin down without making him a martyr.
 He found the opportunity when he saw Kaladin practicing the side carry with Bridge Four. He knew disaster would come as a result of the tactic and encouraged Kaladin to use it. When Bridge Four used it in battle, they did survive, but they disrupted Sadeas's overall strategy and caused the Alethi to lose the battle. Lamaril and Gaz nearly killed Kaladin immediately, but Kaladin convinced them that he had more value to them alive; Lamiril ordered his soldiers to beat up Kaladin instead.
-The consequences of the battle were bad for everyone. Not only did the Alethi lose the battle, but also over 200 bridgemen died, Lamaril was executed, and Kaladin was punished by being strung up during a [[Highstorm\|highstorm]].
-Brightlord Matal took over Lamaril's duty and his wife Hashal took command and became Gaz's immediate superior. He was treated even worse, taking command and duties from him.
-One day Gaz stopped showing up in the warcamps, and no one in the camps seemed to know where he was.
+The consequences of the battle were bad for everyone. Not only did the Alethi lose the battle, but also over 200 bridgemen died, Lamaril was executed, and Kaladin was punished by being strung up during a [[Highstorm\|highstorm]]. Brightlord Matal took over Lamaril's duty and his wife Hashal took command and became Gaz's immediate superior. He was treated even worse, taking command and duties from him. One day Gaz stopped showing up in the warcamps, and no one in the camps seemed to know where he was.
 
   Sitting next to a wagon after deserting
 ### Shallan's Bodyguard
-[[Shallan\|Shallan]] encounters Gaz with a group of deserters in the [[Frostlands\|Frostlands]]. He had fled the warcamps due to unspecified debts to debtmongers. She urges them to become better men and start over by helping the people in the caravan she was traveling with, who were being attacked by bandits. Gaz is the first one to join her, wanting to have a fresh start and become a better man.
+[[Shallan\|Shallan]] encountered Gaz with a group of deserters in the [[Frostlands\|Frostlands]]. He had fled the warcamps due to unspecified debts to debtmongers. She urges them to become better men and start over by helping the people in the caravan she was traveling with, who were being attacked by bandits. Gaz is the first one to join her, wanting to have a fresh start and become a better man.
 After the battle ended, they stayed with her under the promise of protection and a fresh start. Gaz looked genuinely happy and became very servile towards Shallan, even working on a window for her wagon. When confronted with the possibility of her not being able to protect him, he decided it was better than life as a deserter.
 When they got to the Shattered Plains, Shallan got them a writ of pardon sealed by the king himself. He joined her and the rest of her crew to Sebarial's camp. He continued being loyal to her and did simple tasks like visiting libraries searching for books or accompanying her on her travels.
 
-### Urithiru
+### Becoming a Spy
 During their stay in Urithiru, Shallan did not pay much attention to her guards and crew. They lost the spark and became lazy. It was Adolin who started giving them duties to help them feel useful. Unfortunately, Shallan didn't buy into it and kept ignoring them. The crew went down to 12. Gaz was among the ones who stayed, but he just spent his time playing cards.
 When Shallan finally realized she could use them and they needed the tasks, she asked them to help her to spy. Without telling them her identity, she accompanied them as Veil. Though tasks didn't last long, she continued to visit them. It was clear Gaz still liked gambling and would have gone broke again if his crew was not controlling him. Later Veil used [[Ishnah\|Ishnah]] to train Gaz, [[Red (Roshar)\|Red]] and [[Vathah\|Vathah]] in spying. This group eventually became the [[Unseen Court\|Unseen Court]].
 
 ### Knight Radiant
 Gaz and the [[Unseen Court\|Unseen Court]] embedded themselves in [[Ialai Sadeas\|Ialai Sadeas's]] warcamp. After they captured [[Ialai\|Ialai]], Gaz and Red searched her bed chamber and uncovered handwritten notebooks and letters.
 Gaz was present in [[Urithiru\|Urithiru]] during the [[Singer\|singer]] invasion.
+
+### Ghostblood Infiltration
+Gaz was one of the Lightweavers who helped Shallan infiltrate the Ghostblood meeting at Narak. By this time his eye had healed and he had spoken at least the first ideal and bonded a cryptic . By disguising themselves as crem scrapers, Gaz and the other lightweavers are able to watch the Ghostblood hideout prior to the meeting . When the ghostbloods get suspicious of them and tells them to move on, Gaz pretends to be a foreman and gets so angry he actually draws angerspren. After trapping the ghostblood guard in Shallan’s armor Gaz executes a chokehold and knocks her out. 
 
 ## Relationships
  
@@ -95,10 +100,11 @@ Though he needed the bribes, he was forced by his immediate superior Lamaril to 
 Shallan was able to get the best out of Gaz. She inspired him to become a better man. He became truly loyal to her and felt pride on getting things done for her. When Gaz saw the portrait she made of him, he shed a tear.
 
 >“*She tidied up his uniform, smoothing out his paunch, taking liberties with his chin. Most of the difference, however, had to do with the expression. Looking up, into the distance. With the right expression, that eye patch became noble, that scarred face became wise, that uniform became a mark of pride. She filled it in with some light background details reminiscent of that night beside the fires, when the people of the caravan had thanked Gaz and the others for their rescue.*”
-\-Shallan's actions and thoughts when making his portrait.[29]
+\-Shallan's actions and thoughts when making his portrait.[33]
 
 
 ## Quotes
+ 
 >“*What a sorry lot.*”
 \-Gaz every time he got new recruits.[4]
 
@@ -109,6 +115,12 @@ Shallan was able to get the best out of Gaz. She inspired him to become a better
 
 >“*I liked being useful. Reminded me of back when I first joined up. You tell her, Veil. Tell her to give us something to do other than gambling and drinking. Because to be honest, I ain't very good at either one.*”
 \-Gaz to Veil on asking Shallan to give them tasks.[10]
+
+
+>“* Everyone should be grateful to me. If I hadn’t shown those bridgemen tough love, they would never have grown up to be such nauseating paragons of self-righteousness.*”
+\- Gaz talking to the Lightweavers about the Windrunners. [27]
+
+
 
 
 ## Trivia

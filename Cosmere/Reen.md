@@ -21,7 +21,8 @@
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
 3 Quotes. [[#Quotes]] 
-4 Notes. [[#Notes]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -34,6 +35,8 @@ Throughout her life Vin was plagued by Reen's voice, which advised her against t
 
 ## Quotes
 For more quotes, see [[Reen/Quotes\|/Quotes]].
+## Trivia
+A character named Reen featured in chapter 11 of the unpublished prose version of *[[White Sand (prose)\|White Sand]]*.
 
 
 https://coppermind.net/wiki/Reen

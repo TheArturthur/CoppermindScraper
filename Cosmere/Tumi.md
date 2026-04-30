@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*I must find my own way, my own bond.*”
 \-Tumi[1]
 
@@ -42,7 +44,7 @@ He's not hostile to [[Singer\|singers]] the way other [[Spren\|spren]] are, and 
 
 ## Abilities and Attributes
   Tumi, as he might appear in Shadesmar
-Tumi can hide from sight of others by entering gemhearts of cremlings; he seems to have some control over the creatures this way, guiding them on a specific path. This allows him to stay hidden from [[Voidspren\|Voidspren]] and [[Fused\|Fused]] alike, even those designed to detect [[Radiant\|Radiant]] activity. At times, his speech pattern is somewhat similar to that of the [[Inkspren\|inkspren]], using phrases like "salvation will be".
+Tumi can hide from sight of others by entering gemhearts of cremlings; he seems to have some control over the creatures this way, guiding them on a specific path. This allows him to stay hidden from [[Voidspren\|Voidspren]] and [[Fused\|Fused]] alike, even those designed to detect [[Knights Radiant\|Radiant]] activity. At times, his speech pattern is somewhat similar to that of the [[Inkspren\|inkspren]], using phrases like "salvation will be".
 
 ### Nahel bond
 Tumi is a [[Mistspren\|mistspren]], and as such grants Rlain the abilities of the [[Order of Truthwatchers\|Order of Truthwatchers]]. However, he was corrupted by [[Sja-anat\|Sja-anat]], changing the properties of the bond. While he should still grant Rlain the [[Surge\|Surge]] of [[Progression\|Progression]], letting him heal others and grow plants, it's likely Rlain's [[Illumination\|Illumination]] will not function as it would for ordinary Truthwatchers. Most notably, he grants Rlain the ability to see visions of the future, and seems able to induce them, or at least encourage them to appear. Like with Glys, the visions take form of images made out of what looks like stained glass.

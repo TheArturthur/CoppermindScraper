@@ -49,10 +49,11 @@ Nestled in the mountains high above the storms, in the tower city of Urithiru, S
 
 ## Summary
 For a chapter by chapter summary, see [[Oathbringer/Summary\|/Summary]].
+For an index of chapter breaks in various editions, see [[Oathbringer/Chapter index\|/Chapter index]].
 ## Development
 ### Writing Process
 Brandon wrote a few "exploratory scenes" for Stormlight 3 during the summer of 2014, however, he didn't start in earnest on the book until June 2015.
-The original outline called for the flashback sequence to focus on [[Szeth-son-son-Vallano\|Szeth-son-son-Vallano]], however, Brandon later changed his mind. He planned on writing parts of the flashbacks for Szeth as well as [[Eshonai\|Eshonai]] and [[Dalinar Kholin\|Dalinar Kholin]], to help him decide who can best get across the information he needs to.. After working on Dalinar's flashbacks, however, was pleased enough with how they were going that he decided not to go forward with the other two sequences. In late September 2016 he indicated that he would be spending part of October writing Szeth's flashback sequence, in order to solidify certain backstory pieces relevant to other scenes he was writing, and that there was a real but unlikely chance that he would change the book back to focus on Szeth.
+The original outline called for the flashback sequence to focus on [[Szeth-son-son-Vallano\|Szeth-son-son-Vallano]], however, Brandon later changed his mind. He planned on writing parts of the flashbacks for Szeth as well as [[Eshonai\|Eshonai]] and [[Dalinar Kholin\|Dalinar Kholin]], to help him decide who can best get across the information he needs to.. After working on Dalinar's flashbacks, however, was pleased enough with how they were going that he decided not to go forward with the other two sequences. In late September 2016 he indicated that he would be spending part of October writing Szeth's flashback sequence, in order to solidify certain backstory pieces relevant to other scenes he was writing, and that there was  a real but unlikely chance that he would change the book back to focus on Szeth.
 On July 16, 2015, Brandon announced that he had finished Dalinar's flashback chapters. There are 15 in total, with a sum word count of around 55,000 words.. On July 22, 2016, Brandon announced that there would also be several flashback scenes from other characters, including 3 from Kaladin. On December 8, 2016, Brandon announced that he had finished his first draft, totaling 461,223 words. As of March 15, 2017, Brandon had completed the third of five planned drafts, which totaled 514,000 words. On June 15, 2017, Brandon announced the completion of his final draft, which he managed to cut to 450,000 words. The book contains 122 chapters, with 14 interludes, plus a prologue, epilogue, and ketek.
 While working on the novel Brandon posted a series of updates in the Stormlight Archive subreddit:
 
@@ -67,11 +68,11 @@ While working on the novel Brandon posted a series of updates in the Stormlight 
 
 
 ### Name Changes
-The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for The Stormlight Archive this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali\|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed". "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss' "Doors of Stone" if they were released in close proximity.
+The original tentative title, when Szeth was still the focus character, was "Stones Unhallowed". Like all planned titles for The Stormlight Archive this would have been the title of an in-world book, likely in dealing with Urithiru which [[Ali\|Ali-daughter-Hasweth]] mentions was at times the Shin's only connection to the outside world due to its "stones unhallowed". "Skybreakers" was also mentioned by Brandon as a working title, as Brandon felt "Stones Unhallowed" would possibly be too similar to Patrick Rothfuss's "Doors of Stone" if they were released in close proximity.
 "The Highprince of War" was the working title for the fifth book in The Stormlight Archive, which is where Dalinar's flashbacks were originally scheduled to appear. In February 2013 though, Brandon said it was "almost certain" to change. During the process of writing Stormlight 3, especially after shifting the focus to Dalinar, Brandon began referring to it as "Oathbringer" which eventually became its official title.
 
 ## Publication History
-On November 14th, 2017, the novel was released.
+On November 14th, 2017, the novel was released. 
 
 ### Pre-Release Material
 The first Kaladin chapter was Brandon's reading during the Summer 2014 UK tour. It was later released on Tor.com on September 30, 2014.

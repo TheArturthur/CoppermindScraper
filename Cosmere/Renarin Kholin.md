@@ -4,7 +4,7 @@
 |**[[House Kholin\|House Kholin]]**|
 |**Parents**|[[Dalinar\|Dalinar]], [[Evi\|Evi]]|
 |**Siblings**|[[Adolin\|Adolin]]|
-|**Relatives**|[[Gavilar\|Gavilar]], [[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Navani\|Navani]], [[Toh\|Toh]], [[Gavinor\|Gavinor]], [[Kaves\|Kaves]]|
+|**Relatives**|[[Gavilar\|Gavilar]], [[Jasnah\|Jasnah]], [[Elhokar\|Elhokar]], [[Navani\|Navani]], [[Toh\|Toh]], [[Gavinor\|Gavinor]]|
 |**Ancestors**|[[Dalinar's father\|Grandfather]], [[Sadees\|Sadees]]|
 |**Born**|1154|
 |**Abilities**|[[Order of Truthwatchers\|Truthwatcher]], [[Shardbearer\|Shardbearer]]|
@@ -16,6 +16,9 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
+
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: CosmereClover, please contact them before doing edits.
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am not the first hero’s son to be born without any talent for warfare. The others all got along. So shall I.*”
 \-Renarin Kholin[3]
@@ -46,7 +49,27 @@
 
 3. [[#Early Life .281154-1167.29]] 
 3. [[#War of Reckoning .281167-1174.29]] 
-3. [[#True Desolation .281174-.29]] 
+
+3. [[#Kholin and Sadeas]] 
+3. [[#Radiant]] 
+
+
+3. [[#Urithiru and Thaylen City .281174.29]] 
+
+3. [[#The Midnight Mother]] 
+3. [[#Scholar]] 
+3. [[#Thaylen City]] 
+3. [[#Battle of Thaylen Field]] 
+
+
+3. [[#The War Continues .281175.29]] 
+
+3. [[#Evacuating Hearthstone]] 
+3. [[#War in Emul]] 
+
+
+3. [[#Spiritual Realm .281175.29]] 
+3. [[#Night of Sorrows .281175-.29]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -70,7 +93,7 @@ For more images, see [[Renarin Kholin/Gallery\|/Gallery]].
 Renarin has sapphire eyes and his slender limbs and fingers give him the appearance of someone who has never done manual labor or fought in battle. He has mostly black hair with some blond hair mixed in. He is also distinct in that he wears spectacles, though he eventually stops wearing them after [[Stormlight\|Stormlight]] heals his eyesight. Like all officers in the Kholin army, Renarin wears his uniform while out in public, though because of his physical weakness, it has never seen battle. After he joins [[Bridge Four\|Bridge Four]] he usually wears a Bridge Four uniform instead.
 
 ### Personality
-Renarin is soft-spoken and thoughtful, and tends to pause and consider responses before speaking up. This can occasionally make him seem calculating or unnerving to those with whom he speaks, though those close to him know him to be otherwise.
+Renarin is soft-spoken and thoughtful, and tends to pause and consider responses before speaking up. This can occasionally make him seem calculating or unnerving to those with whom he speaks, though those close to him know him to be otherwise.  
 He has a tendency to fidget when nervous, stressed, or anxious as a way to calm himself down. This fidgeting primarily manifests as repeated motor actions with small objects he carries around with him. Most notably, a small box, and a chain inherited from his mother.
 He does not like when people touch him quickly or unexpectedly. Renarin rarely smiles, only doing so when he is relaxed and among friends. He is non-confrontational, and attempts to avoid [[Wit\|Wit's]] mockery through silence. He often attempts to keep Adolin from starting fights. He also tends to avoid eye contact when talking to people.
 Renarin is on the , which is reflected in the aforementioned behaviors, and also suffers from .
@@ -123,7 +146,7 @@ Renarin's future sight causes him to be a black spot in Odium's future sight. Th
 ## History
   Young Renarin trying to help his drunken <<Dalinar\|father>>
 ### Early Life (1154-1167)
-Renarin grew up with his family in [[Kholinar\|Kholinar]] as the second son of the highprince. He was born while his father, Dalinar, was away on a military campaign against the [[Veden\|Vedens]]. [[Evi\|Evi]] asked Dalinar via [[Spanreed\|spanreed]] request for a name, but received no reply, and so she named her son herself. *Renarin* was a combination of the Riran name Re, and the Alethi words *Nar* ("like unto," final syllable in "Dalinar") and *In* ("to be born unto"), which she intended to mean "Re, born unto Dalinar." When Dalinar learned of this, he disliked the name, interpreting it as *Like one who was born unto himself*. Curiously, Evi's translation proved similar to Sja-anat's later title for him, "Son of Thorns."
+Renarin grew up with his family in [[Kholinar\|Kholinar]] as the second son of the highprince. He was born while his father, Dalinar, was away on a military campaign against the [[Veden\|Vedens]]. [[Evi\|Evi]] asked Dalinar via [[Spanreed\|spanreed]] request for a name, but received no reply, and so she named her son herself. *Renarin* was a combination of the Riran name Re, and the Alethi words *Nar* ("like unto," final syllable in "Dalinar") and *In* ("to be born unto"), which she intended to mean "Re, born unto Dalinar." When Dalinar learned of this, he disliked the name, interpreting it as *Like one who was born unto himself*.  Curiously, Evi's translation proved similar to Sja-anat's later title for him, "Son of Thorns."
 Renarin is slightly on the autistic spectrum, and developed a "blood weakness", epilepsy, as a child. His epilepsy made him unfit for combat, unlike his brother who had been undergoing sword training from the age of six. His mother told him the [[Myth of Parasaphi and Nadris\|myth of Parasaphi and Nadris]] when he was young.
 After Evi's death Renarin would often burn incense in his rooms. This smell reminded Dalinar of Evi and would often drive him further into his addiction. When Dalinar was in the depths of his alcoholism Renarin used the [[Spheres\|spheres]] Gavilar gave him to buy bottles of wine for his father. Renarin was bullied as a child, which often angered Adolin.
 
@@ -133,6 +156,7 @@ After the [[Assassination of Gavilar\|Assassination of Gavilar]] Renarin went to
 >“*Those who 'deserve’ my mockery are those who can benefit from it, Brightlord Dalinar. That one is less fragile than you think him.*”
 \-Wit about Renarin[1]
 
+#### Kholin and Sadeas
 He rode with Adolin to [[Elhokar\|Elhokar's]] [[Chasmfiend\|chasmfiend]] hunt and tried to calm Adolin down when he was upset by [[Torol Sadeas\|Sadeas's]] treatment of their father. As they waited on the plateau for the chasmfiend to arrive [[Wit\|Wit]] joined them and tried to tease Renarin but Dalinar told him to go find someone deserving his mockery instead. Wit told Dalinar that Renarin was someone who deserved it as he could benefit from it. When the chasmfiend emerged from the chasm and Dalinar, Adolin, and Elhokar were fighting the beast Renarin rode his horse onto the plateau to help them but Dalinar became angry with him and shouted at him to go back to safety. At a feast later that night Renarin held back Adolin from attacking Sadeas, who had been insulting their father, and seeing what he was doing Sadeas insulted him, calling him incompetent and ridiculing what he had done during the fight earlier in the day.
 
 >“*The firebrand I can understand, [...] but the other one? You saw how he ran out onto the field today. He even forgot to draw his sword or bow! He's useless!*”
@@ -149,6 +173,7 @@ During the [[Battle of the Tower\|Battle of the Tower]] Sadeas betrayed Dalinar,
 >“*He'll surprise you, I gave him the whole ‘I’m your master and you do what I say’ talk, and he actually listened. [...] I thought a nineteen-year-old like him would be insufferable.*”
 \-Zahel to Kaladin[58]
 
+#### Radiant
 Shortly after receiving his Shardplate Renarin began writing numbers on the wall during highstorms counting down to the coming of the [[Everstorm\|Everstorm]]. This was due to the visions of the future that [[Glys\|Glys]], whom he had bonded a while earlier, was granting him.
 After Adolin defeated [[Salinor Eved\|Salinor Eved]] in a duel he gave his newly acquired Shardblade to Renarin. The next day [[Zahel\|Zahel]] began training Renarin how to use his Shards. Zahel was impressed by Renarin's obedience and had him repeatedly jump off of the roof of the dueling grounds in his Shardplate to make him confident in the armor's protection.
 During his joint plateau assault with [[Jakamav\|Jakamav]] Dalinar had Renarin brought to the battle surrounded by an honor guard with orders not to allow him to fight in order that he would see what battle was like. During the battle Renarin wanted to help defend one of the bridges, but when he summoned his blade, he heard the voice of its spren screeching in his mind and froze up. After the battle Renarin told Adolin that he needed to be ready for what was coming. Adolin assumed he was referring to the numbers that had been appearing in the walls during highstorms counting down to a new storm that was coming. However, Renarin, who had been the one writing those numbers, was thinking of the visions his bond with [[Glys\|Glys]] had given him that predicted the coming of the [[Everstorm\|Everstorm]]. Around this time Renarin stopped wearing his spectacles since his eyes had been healed by his Stormlight.
@@ -171,17 +196,22 @@ As Shallan and the scholars tried to figure out how to operate the Oathgate Rena
 After Dalinar bonded with the [[Stormfather\|Stormfather]] he met with Kaladin and Shallan, a meeting of Radiants. Renarin walked in and joined them, revealing that he too was a Knight Radiant. He told them that he was a [[Truthwatcher\|Truthwatcher]] and that his ability was that he saw the truth of things. Dalinar realized that this was why he had stopped wearing his eyeglasses, and that the reason he froze every time he summoned his Shardblade was because of the screams he was hearing.
 
   Fighting Re-Shephir with Shallan and Adolin.
-### True Desolation (1174-)
+### Urithiru and Thaylen City (1174)
+#### The Midnight Mother
 After Sadeas's body was found lying in the hallways of Urithiru when Dalinar was giving orders to his generals and the other highprinces he told Renarin and Shallan to train and master their powers so they could be leaders and teachers for the coming Radiants. Renarin came to Adolin while he was their father's [[Ryshadium\|Ryshadium]], [[Gallant\|Gallant]], in one of the tower's stables. Renarin told Adolin that he had to return the Shardblade he had been given since the screams made it unusable for him. Adolin protested that it would leave him defenseless and after some prodding Renarin summoned Glys as a Blade to show him. While they were talking afterwards Renarin used his Surge of [[Progression\|Progression]] to heal Adolin's hand.
 
 >“*There's something down there, something … ancient. You’ve felt it, haven’t you? This place is weird; this whole tower is weird. You’ve noticed it too, right?*”
 \-Renarin[72]
 
 When Shallan discovered [[Re-Shephir\|Re-Shephir]] in the lower levels of the tower, Renarin came with Adolin and the rest of [[Bridge Four\|Bridge Four]] in his Shardplate to help her fight off the [[Unmade\|Unmade]]. He was the one who discovered the slow-moving blackness of the Unmade, although it was [[Lyn\|Lyn]] who announced it. He was extremely unsettled by the sight, and did not respond when Adolin tried to pull him back to the rest of the group. Only when [[Teft\|Teft]] called him into formation like a superior officer did he respond and move. During the fight he healed Bridge Four as they were injured. He covered Adolin's back when they charged into the room with the gemstone pillar and he held his own while Shallan confronted Re-Shephir.
+
+#### Scholar
 After Kaladin returned from his trip through Alethkar Renarin went with the other members of Bridge Four back to the Shattered Plains for a training session. Rock invited Renarin to help him bake the bread for the rest of the squad. As they worked together, they discussed Renarin's role in Bridge Four now that most of the members were becoming [[Windrunner\|Windrunner]] [[Squire\|squires]]. Later, caravan carrying Rock's family was being attacked by Fused and the bridgemen raced to defend it. Renarin went and brought Adolin and two companies of troops to the scene. While the soldiers he brought arrived too late to help, Renarin's healing saved several men's lives.
 
   Discovering the <<Urithiru gem archive\|Gem Archive>>
 After Jasnah's return, Renarin attended a meeting of scholars, [[Stormwarden\|stormwardens]], and artifabrians talking about the function of Urithiru and how the gemstone pillar might work. He shared the idea that the city might be one big fabrial rather than several, and was insulted by [[Janala\|Janala]], who called him feminine. Navani started to come to his defense, but Shallan, already vexed by Janala, jumped in instead to defend him. Renarin later thanked Shallan and had a conversation with her about Jasnah, in which he gave her the idea to go to Kholinar as part of the strike team as a spy. When the meeting resumed, Dalinar arrived and sat down to observe the proceedings. This gave Renarin the confidence to actively watch the rest of the proceedings. At a later meeting with the scholars Renarin, with the help of his visions, discovered and opened the [[Urithiru gem archive\|Gem Archive]] revealing hundreds of gemstones containing recordings from the Knights Radiant of the past.
+
+#### Thaylen City
 When Dalinar went to [[Thaylen City\|Thaylen City]] and saw the hospitals full of people wounded by the Everstorm he sent for Renarin who came and healed many of the injured. When the Thaylens he healed tried thanking him, he directed them to Dalinar, who he gave credit for the healing. He also tried to heal [[Rysn\|Rysn's]] legs, but was unable to do so since too much time had passed since her accident.
 Renarin continued to attend meetings with the other scholars. He tried to find a pattern in the way the stones in the gem archive were stored but he was unsuccessful. Jasnah wanted him to stay with the scholars for longer, but Navani noticed how happy he was with the other bridgemen and encouraged him to spend more time with his fellow squad members instead. Navani had Renarin try to push Stormlight into the heart of the tower in an attempt at restoring the tower's full functions, but he was not able to make it stick.
 Renarin went with Dalinar, Jasnah, and Navani to Thaylen City for a meeting of all the members of the coalition. On their way to the meeting room Renarin asked [[Kdralk\|Kdralk]] if the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] contained any large gemstones. This was likely due to Glys showing him a vision about how [[Perfect gem\|perfect gems]] would be important in the coming battle, but he did not tell Kdralk why he wanted to know. During the meeting Kdralk made a point of sitting next to Renarin and talking with him. Soon before the news of the translation of the [[Eila Stele\|Eila Stele]] arrived Renarin excused himself from the meeting and left the room.
@@ -192,6 +222,7 @@ Renarin went with Dalinar, Jasnah, and Navani to Thaylen City for a meeting of a
 Jasnah shook her head.
 
 
+#### Battle of Thaylen Field
 During the [[Battle of Thaylen Field\|Battle of Thaylen Field]] Renarin sat in the temple of [[Pailiah\|Pailiah]] seeing visions of the future, which manifested as panes of stained glass combining and melting together. Jasnah realized that something was not right with him and came to the temple intending to kill him and end the threat he, as a corrupted Radiant, posed to the rest of mankind. When she saw Glys floating in the air above Renarin's back she compared it to the sketch [[Jochi\|Jochi]] had given her and concluded that Renarin was not an actual Truthwatcher. She summoned [[Ivory\|Ivory]] as a Shardblade and prepared herself to do what she thought was necessary.
 
   Renarin running towards <<Dalinar\|Dalinar>> with <<Jasnah\|Jasnah>>.
@@ -208,8 +239,12 @@ As he approached the platform, he saw that there were twelve Fused hovering abov
 When the Fused saw this they flew away and Renarin told Lopen and the other members of Bridge Four not to chase them away from the Oathgate, but rather they should stay near it and protect it from further attacks. [[Lyn\|Lyn]] tried asking him for commands, but Renarin told her that he was not in command but suggested that she and Rock could help with the wounded near the city's wall. He told them that was done being Radiant for the day and needed a break from all of the action. Before he flew off Rock surprised Renarin with a warm hug, and Renarin thanked him again for coming before sitting and resting. After the battle Renarin used his Stormlight to heal the wounded who were in most dire need of his help.
 
   Renarin confronting <<Moash\|Moash>>
+### The War Continues (1175)
+#### Evacuating Hearthstone
 When the *[[Fourth Bridge\|Fourth Bridge]]* was evacuating the people of [[Hearthstone\|Hearthstone]] Renarin used his Illumination to create a ball of light which he used to calm down some frightened children as they were boarding the airship. During the evacuation Renarin worked with [[Dabbid\|Dabbid]] to bring food and water to the townspeople. When [[Moash\|Moash]] was taunting Kaladin in [[Roshone\|Roshone's]] house, causing Kaladin to freeze up, Renarin came and saved him. He used his powers to summon an image of an alternate, Radiant, version of Moash which frightened him and caused him to run away. Afterwards Renarin helped Kaladin walk back to the Fourth Bridge, and told Teft and the other members of Bridge Four what he had seen.
 The [[Coalition of monarchs\|coalition]] decided to send the [[Stump\|Stump]] with Shallan and Adolin on their trip through [[Shadesmar\|Shadesmar]] to [[Lasting Integrity\|Lasting Integrity]] instead of Renarin because they were worried about what the [[Honorspren\|honorspren]] would think of Glys's corruption.
+
+#### War in Emul
 Renarin was part of Jasnah's plot to remove [[Ruthar\|Ruthar]] from his position as highprince. She had him wait outside of the tent they were in and called for him to come inside and heal Ruthar after she stabbed him through the throat. Afterwards, Renarin apologized to Dalinar for not telling him about the plan. Renarin also told Dalinar that he had had another vision, and they agreed to meet the next day to discuss it.
 
 >“*Does it strike you as cruel of fate, Father? My blood sickness gets healed, so I can finally be a soldier like I always wanted. But that same healing has given me another kind of fit. More dangerous than the other by far.*”
@@ -227,6 +262,12 @@ Dalinar asked him if he could see anything else in the vision, and Renarin told 
 At Glys's prompting Renarin asked Dalinar what he thought about additional Radiants bonding corrupted spren, since that would increase their access to future sight. Dalinar told him that he would have to consider it since he was not comfortable yet with the idea of Sja-anat corrupting more spren. Dalinar told Renarin that he should talk to him if he has any more visions, since he also had some experience with seeing visions. Glys asked Renarin who would be good fit for another spren like himself, and Renarin recommended Rlain.
 Later Renarin had a vision concerning Taravangian and visited him to ask him about it. He told Taravangian that something had changed about him and asked why, but Taravangian gave no answer. Renarin told him that in his vision he was shrouded in darkness, with small point of light breaking through. He said that this meant that there was a way to redeem him, if he chose to do so. Before he left, Renarin told Taravangian that he would let him know if he found a way to help him come to a decision. Sometime in the following weeks, Renarin gave Taravangian a note saying the words "I'm sorry" alongside two gemstones containing corrupted [[Windspren\|windspren]], allowing Taravangian to summon Rayse to his house so he would able to use [[Nightblood\|Nightblood]] to kill him and take up his [[Shard\|Shard]]. It is unclear of how much of the plot Renarin was aware.
 
+### Spiritual Realm (1175)
+
+
+### Night of Sorrows (1175-)
+
+
 ## Relationships
   Renarin with <<Adolin\|Adolin>>
 ### Adolin
@@ -236,7 +277,7 @@ Renarin is very close to [[Adolin\|Adolin]], and respects him greatly almost to 
 Renarin has a very strong relationship with his father, [[Dalinar\|Dalinar]], and he wishes to be a son whom Dalinar can be proud of. He is highly respectful towards his father and tries to do what he asks of him. Renarin is a legitimate child of Dalinar and Evi. Dalinar is not as strict with Renarin as he is with his older brother. Dalinar is very supportive of Renarin and tries to encourage him to fulfill his potential. He will often reassure him that he is more skilled than he thinks, occasionally to the point of exaggeration. When Renarin goes to the meetings of the scholars in Urithiru, Dalinar sometimes joins the meetings to show support for his son and to dispel the notion that he is acting unmasculine. Dalinar and Renarin share a bond over the fact that both of them experience visions against their will. After he learns about what happened to his mother Renarin chooses to blame Odium for her death instead of Dalinar so he would not lose him as well.
 
 ### Evi
-Renarin is very close with his mother, [[Evi\|Evi]]. She tells him myths and stories about Roshar when he is a young boy. She also tells him what a great man his father is, making him believe that Dalinar is the perfect Alethi officer. After her death, he burns incense, likely to remember her scent or carry on her Riran religious tradition. He and Adolin keep a piece of her jewelry--a length of chain--as a good luck token, and Renarin sometimes uses it as a stim.
+Renarin is very close with his mother, [[Evi\|Evi]]. She told him myths and stories about Roshar when he was a young boy. She also tells him what a great man his father is, making him believe that Dalinar is the perfect Alethi officer.  After her death, he burns incense, likely to remember her scent or carry on her Riran religious tradition.  He and Adolin keep a piece of her jewelry--a length of chain--as a good luck token, and Renarin sometimes uses it as a stim.
 
   Renarin with <<Rlain\|Rlain>>
 ### Bridge Four

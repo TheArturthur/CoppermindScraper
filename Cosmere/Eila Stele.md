@@ -3,6 +3,9 @@
 |**Language**|[[Dawnchant\|Dawnchant]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+
+> [!warning] This page or section contains spoilers for *[[Wind and Truth\|Wind and Truth]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 > [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
 For the city in [[Iri\|Iri]], see [[Eila\|Eila]].
@@ -26,7 +29,8 @@ After the Eila Stele was translated, it was revealed that the author was not a H
 The Eila Stele indicated that humans destroyed [[Ashyn\|their own world]]. Most of the humans fled to Roshar and were taken in out of pity by the Dawnsingers and their gods. The humans were given land known as current-day [[Shinovar\|Shinovar]], explaining that region's unique flora and fauna. They later used their Surgebinding powers to conquer most of Roshar.
 
 ## Cosmere Significance
-The Eila Stele was the key to the refounded [[Knights Radiant\|Knights Radiant]] learning of the abandonment of the planet [[Ashyn\|Ashyn]]. Ashyn neighbors Roshar in its solar system, and it was almost destroyed through mankind's use of the [[Dawnshard\|Dawnshards]] and [[Surgebinding\|Surgebinding]]. The Heralds were among the humans who abandoned Ashyn. The [[Stormfather\|Stormfather]] tells Dalinar that during the [[False Desolation\|False Desolation]], the original Knights Radiant learned of Ashyn's fate, leading them to question the use of Surgebinding powers. They were urged on by [[Honor\|Honor]], but after [[Aharietiam\|Aharietiam]], Honor was dying and no longer cogent, which led to the events of the [[Day of Recreance\|Day of Recreance]].
+The Eila Stele was the key to the refounded [[Knights Radiant\|Knights Radiant]] learning of the abandonment of the planet [[Ashyn\|Ashyn]]. Ashyn neighbors Roshar in its solar system, and it was almost destroyed through mankind's use of [[Surgebinding\|Surgebinding]] granted by [[Odium\|Odium]] and [[Honor\|Honor]]. The Heralds, sans Talenel, who was later born on Roshar, were among the humans who abandoned Ashyn.
+The [[Stormfather\|Stormfather]] tells Dalinar that during the [[False Desolation\|False Desolation]], the original Knights Radiant learned of Ashyn's fate, leading them to question the use of Surgebinding powers. They were urged on by [[Honor\|Honor]], but after [[Aharietiam\|Aharietiam]], Honor was dying and no longer cogent, which led to the events of the [[Day of Recreance\|Day of Recreance]].
 The information in the stele directly refutes several aspects of Vorin doctrine regarding the history of humanity. Further interaction with the Heralds and [[Fused\|Fused]] have led both humans and singers to gain a better understanding of the [[Rosharan system\|Rosharan system]] and the relationship between Roshar, Ashyn, and [[Braize\|Braize]]. Some Rosharans have had to reexamine their belief system in light of this information, as Vorin concepts such as the Expulsion, Voidbringers, [[Damnation\|Damnation]], and the Tranquiline Halls have proven to be incorrect or only loosely based in fact.
 
 ## Known text

@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
->“*The only things Kharbranth has to sell are fish, bells, and information. The first two are hardly unique to us. But the third … well, the Palanaeum has the finest collection of tomes and scrolls on Roshar.*”
+>“*The only things Kharbranth has to sell are fish, bells, and information. The first two are hardly unique to us. But the third … well, the Palanaeum has the finest collection of tomes and scrolls on Roshar. *”
 \-A master-servant explaining access to the Palanaeum to Shallan Davar[1]
 
 

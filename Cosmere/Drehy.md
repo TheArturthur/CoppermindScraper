@@ -1,16 +1,21 @@
 |**Drehy**|
 |-|-|
 ||
+|**Family**|
+|**Spouse**|[[Dru\|Dru]]|
 |**Abilities**|[[Order of Windrunners\|Windrunner]], [[Shardbearer\|Shardbearer]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
+|**Bonded With**|[[Talla\|Talla]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Birthplace**|[[Rianal\|Rianal]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*We protect those who cannot protect themselves.*”
-\-Drehy to Kaladin upon showing him the rescued prince Gavinor[1]
+\-Drehy to Kaladin upon showing him the rescued prince Gavinor[2]
 
 
 **Drehy** is a member of [[Bridge Four\|Bridge Four]] and a [[Order of Windrunners\|Windrunner]] on [[Roshar\|Roshar]].

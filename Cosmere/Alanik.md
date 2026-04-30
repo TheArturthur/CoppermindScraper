@@ -11,7 +11,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Alanik**, callsign **Angel**, is an [[UrDail\|UrDail]] [[Cytonics\|cytonic]] from the planet [[ReDawn (planet)\|ReDawn]].
+**Alanik**, callsign **Angel**, is an [[UrDail\|UrDail]] [[Cytonics\|cytonic]] from the planet [[ReDawn (planet)\|ReDawn]]. 
 
 ## Contents
 
@@ -86,7 +86,7 @@ Alanik seemed to be connecting with FM, but their diplomatic efforts were put to
 
 Alanik attended a sporting event at the Stadium Tree, the match between the Unity and Independece faction. At the match she talked with Rinakin, and witnessed a thinly veiled message from [[Nanalis\|Nanalis]] saying that the divisive Independence faction must be silenced. They left the match partway through, and were summoned by Quilan and the other Unity cytonics to come meet him at the Council tree. She refused, flying to Spindle instead. They were intercepted by Quilan there. She landed, and Quilan struck Rinakin with a concussion bolt. Two of his men apprehended Rinakin, and Alanik got away. She cytonically communicated with Jorgen, saying that Detritus has an inhibitor and she needs the key. Their minds connected and she received the key, and she hyperjumped to Detritus.
 Alanik met with Jorgen and FM, and discovered that the taynix are the hyperdrives, and learned more about them. She reluctantly agreed to meet with Jeshua and Cobb, after Jorgen tells her that he doesn’t have the authority to help her. She met with Detritus’ leaders, plus Minister [[Cuna\|Cuna]] Alanik asked for them to form an alliance with the Independence faction and send a force to ReDawn to help resist the Unity faction. In return she offered to help train their cytonics. Cobb and Jeshua argued over wether the National Assembly or the DDF should make the descision, and Alanik was given quarters where she could wait. She met with the rest of Skyward Flight, who were friendly towards her.
-Cobb arrived and told them that Alanik’s request had been denied, and that his hands were tied. He told them that he couldn’t officially order them to go, but heavily hinted that he wanted them to anyway. Alanik and Skyward Flight hurried to the hangar, and Alanik found that her ship had been taken apart to be studied. The maintenance crews tried to stop them, but Jorgen said they had been given emergency orders to scramble. They went to their fighters, FM showing Alanik the basic controls of the unfamiliar fighter.
+Cobb arrived and told them that Alanik’s request had been denied, and that his hands were tied. He told them that he couldn’t officially order them to go, but heavily hinted that he wanted them to anyway. Alanik and Skyward Flight hurried to the hangar, and Alanik found that her ship had been taken apart to be studied. The maintenance crews tried to stop them, but Jorgen said they had been given emergency orders to scramble. They went to their fighters, FM showing Alanik the basic controls of the unfamiliar fighter. 
 
 >“*I can handle two ships. Just because I don’t have combat experience doesn’t mean I don’t know what I’m doing.*”
 \-Alanik to Jorgen during a dogfight[21]
@@ -138,7 +138,7 @@ Deciding to wait and come back to them later, Alanik and the others attended a f
 While the kitsen [[Juno\|Juno]] went with Jorgen to try and help him gain better control of his mindblades, Alanik went to visit the unconscious Cobb and Gran-Gran. But when she and the med techs tried to move Cobb and Gran-Gran to their medical transport, their condition started deteriorating rapidly. Alanik cytonically told Jorgen to come see, and she explained the situation. Deciding to keep them where they were for the time being, Alanik and Jorgen discussed the possibilities of what was happening. At Jorgen's request, Juno took them to the library, where Gran-Gran and Cobb had first appeared. They found a nowhere portal, but before they have much time to discuss it, Arturo radioed them to tell them that the Superiority was attacking.
 
 ### Battle for Evershore
-Alanik and Jorgen hyperjumped to their ships, and released everyone's taynix from their boxes. They both got into the air first, and helped cover their flightmates as they got to their fighters.
+Alanik and Jorgen hyperjumped to their ships, and released everyone's taynix from their boxes. They both got into the air first, and helped cover their flightmates as they got to their fighters. 
 
 >“*This rodent keeps talking to me about birds. There are no birds living in my mind, Jorgen, and I don't know what he means about waves either.*”
 \-Alanik expressing her frustration about Juno's teaching[43]

@@ -12,10 +12,11 @@
 
 
 **Maksim** is a human member of the [[Broadsiders\|Broadsiders]] pirate faction in the belt of the [[Nowhere\|nowhere]]. He serves on the ground crew for [[Cutlass Flight\|Cutlass Flight]] alongside [[Nuluba\|Nuluba]].
+His family was originally from Ukraine.
 
 ## Appearance and Personality
 >“*He looked a lot less like a warrior than he did like a guy who'd been lost wandering the caverns.*”
-\-Spensa on Maksim's appearance[3]
+\-Spensa on Maksim's appearance[4]
 
 
 Maksim is in his early thirties, with a long scraggly beard. He has a loose appearance, and often lounges about. He has a goofy smile and a ready, welcoming manner. He is generally quite relaxed, and will sometimes just sit around and chat instead of working. He likes to talk, often freely giving away information.

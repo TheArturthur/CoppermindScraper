@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Rysn Ftori bah-Vstim** is a young woman from [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]]. She is a tradesmaster and the [[Rebsk\|rebsk]] of the *[[Wandersail (1174 ship)\|Wandersail]]*. Previously she was an apprentice merchant under her *[[Babsk\|babsk]]* [[Vstim\|Vstim]]. During her apprenticeship, she lost the use of her legs in an accident on the [[Reshi Isles\|Reshi Isles]]. Afterwards, she worked in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] for some time, managing [[Queen Fen\|Queen Fen's]] personal finances, before becoming a merchant in her own right. Rysn has a pet [[Larkin\|larkin]], which she calls [[Chiri-Chiri\|Chiri-Chiri]]. She is a [[Dawnshard\|Dawnshard]].
 
 ## Contents
@@ -20,7 +22,7 @@
 3. [[#Reshi Isles]] 
 3. [[#Thaylen Gemstone Reserve]] 
 3. [[#Expedition to Aimia]] 
-3. [[#Post-expedition]] 
+3. [[#Post-Expedition]] 
 
 
 4 Trivia. [[#Trivia]] 
@@ -34,8 +36,8 @@ Rysn has the long, white eyebrows typical of [[Thaylen\|Thaylens]] that she tuck
 
 ## Attributes and Abilities
 Rysn was trained as a merchant by her [[Babsk\|babsk]] [[Vstim\|Vstim]]. She is a good observer of character and determined when she bargains. Her biggest fault, as defined by Vstim, is her prejudice against other nations and cultures. She is seen making great strides in addressing this fault during her time in the [[Reshi Isles\|Reshi Isles]] and [[Aimia\|Aimia]].
-Following an accident during a trade in the Reshi Isles, Rysn no longer has the use of her legs. She furnished her office with long benches on which she can slide as a mobility aid. In public, she moves by wheelchair, porter, or palanquin and, later, by a fabrial-enhanced levitating chair designed by the [[Ardent\|Ardent]] [[Rushu\|Rushu]] with assistance from [[Huio\|Huio]].
-Rysn gains certain abilities after becoming a [[Dawnshard\|Dawnshard]], but the exact extent of these abilities is not yet known. She begins to hear a voice in her head that appears to provide information and suggestions directly to her (presumably the Dawnshard itself). She also appears to become more attuned to color and musical tone in the world around her, similar to someone who holds many [[Breath\|Breaths]]. It is expected that these passive effects will grow over time if Rysn remains the Dawnshard, although she is incapable of actively using the Dawnshard.
+Following an accident during a trade in the Reshi Isles, Rysn no longer has the use of her legs. She furnished her office with long benches on which she can slide as a mobility aid. In public, she moves by wheelchair, porter, or palanquin and, later, by a fabrial-enhanced levitating chair, called a [[/wiki/Fabrial#Freechairs]], designed by the [[Ardent\|Ardent]] [[Rushu\|Rushu]] with assistance from [[Huio\|Huio]].
+Rysn gains certain abilities after becoming a [[Dawnshard\|Dawnshard]], but the exact extent of these abilities is not yet known. She begins to hear a voice in her head that appears to provide information and suggestions directly to her (presumably the Dawnshard itself). She can sense life and is more attuned to color and musical tone in the world around her, similar to someone who holds many [[Breath\|Breaths]]. It is expected that these passive effects will grow over time if Rysn remains the Dawnshard, although she is incapable of actively using the Dawnshard.
 
 ## History
   Rysn and <<Tyvnk\|her pot of grass>>
@@ -71,9 +73,9 @@ Rysn woke up back on a longboat, where Vstim told her Relu-na had slowed her fal
 ### Thaylen Gemstone Reserve
   Rysn with Chiri-Chiri
 >“*This is my consequence—payment for a contract I entered into willingly the moment I climbed down the side of that greatshell.*”
-\-Rysn to Vstim[12]
+\-Rysn to Vstim[14]
 
-Rysn, embarrassed about her shattered legs and thinking her freedom and career as a trader was over, took the job Vstim offered her at the  once she graduated from his tutelage. She'd taken down most of the relics from her travels because they reminded her too much of what she'd lost. However, she still kept the pot of Shin grass from her first expedition and looked after [[Chiri-Chiri\|Chiri-Chiri]] the larkin, which was now slightly longer than Rysn’s palm. Rysn was preparing for a visit from an important auditor when Vstim, who turned out to be the man she was waiting for, was brought into her office by a guard. He offered her the captain's cord to an expensive ship called *[[Wandersail\|Wandersail]]*. Rysn mentioned that she had approached a [[Radiant\|Radiant]] and was going to ask him to heal her legs, but by the time she'd gotten to him, it had been too long and they had become a part of her identity.
+Rysn, embarrassed about her shattered legs and thinking her freedom and career as a trader was over, took the job Vstim offered her at the Thaylen Gemstone Reserve once she graduated from his tutelage. She'd taken down most of the relics from her travels because they reminded her too much of what she'd lost. However, she still kept the pot of Shin grass from her first expedition and looked after [[Chiri-Chiri\|Chiri-Chiri]] the larkin, which was now slightly longer than Rysn’s palm. Rysn was preparing for a visit from an important auditor when Vstim, who turned out to be the man she was waiting for, was brought into her office by a guard. He offered her the captain's cord to an expensive ship called *[[Wandersail\|Wandersail]]*. Rysn mentioned that she had approached a [[Knights Radiant\|Radiant]] and was going to ask him to heal her legs, but by the time she'd gotten to him, it had been too long and they had become a part of her identity.
 After Rysn opened the Gemstone vault for Vstim, she had the guards carry her to Vault Thirteen, which held the [[King's Drop\|King's Drop]], but the guard holding her chair was killed by a queen’s guard. Rysn pulled herself along the floor, tying the King's Drop to her leg using the captain's cord after the traitor dropped it fighting with other guards. Rysn made her way toward the door, grabbing the crossbow of a fallen guard as she went. She then realized that she couldn't cock it as long as she couldn't stand, so she tied the crossbow to her chair using the captain's cord in a makeshift pulley. She watched as Chiri-Chiri fed on the [[Voidlight\|Voidlight]] the traitor was holding, then shot the [[Singer\|singer]] through the chin. Rysn was later found lying next to Vstim's injured body by [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] after the Gemstone Reserve had come under further attack. She informed Dalinar that the enemy had stolen the King's Drop.
 
 ### Expedition to Aimia
@@ -82,7 +84,7 @@ After Rysn opened the Gemstone vault for Vstim, she had the guards carry her to 
 \-Nikli to Rysn at the conclusion of the negotiations at Akinah.[4]
 
 
-A few months after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Rysn was visited by [[Talik\|Talik]], whose assistance she had requested due to [[Chiri-Chiri\|Chiri-Chiri's]] apparent illness. He counseled Rysn that the larkin must return to its home in [[Aimia\|Aimia]] (specifically the lost city of [[Akinah\|Akinah]]) in order for its condition to improve. Concurrently, Queen [[Navani Kholin\|Navani Kholin]] has put out a call for a ship to mount an expedition to Aimia, following the return of the *[[First Dreams\|First Dreams]]* without its crew. Rysn traveled to [[Urithiru\|Urithiru]] with her new porter [[Nikli\|Nikli]] to discuss the terms under which she would commit the *[[Wandersail (1174 ship)\|Wandersail]]* and her crew to such a dangerous mission. An agreement was reached with Navani sending [[Windrunner\|Windrunners]] [[Lopen\|Lopen]] and [[Huio\|Huio]] for protection; the [[Ardent\|Ardent]] [[Rushu\|Rushu]] to discuss the possibility of a fabrial mobility device for Rysn; and having [[Queen Fen\|Queen Fen]] provide a royal mandate to motivate the Thaylen crew.
+A few months after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Rysn was visited by [[Talik\|Talik]], whose assistance she had requested due to [[Chiri-Chiri\|Chiri-Chiri's]] apparent illness. He counseled Rysn that the larkin must return to its home in [[Aimia\|Aimia]] (specifically the lost city of [[Akinah\|Akinah]]) in order for its condition to improve. Concurrently, Queen [[Navani Kholin\|Navani Kholin]] has put out a call for a ship to mount an expedition to Aimia, following the return of the *[[First Dreams\|First Dreams]]* without its crew. Rysn traveled to [[Urithiru\|Urithiru]] with her new porter [[Nikli\|Nikli]]  to discuss the terms under which she would commit the *[[Wandersail (1174 ship)\|Wandersail]]* and her crew to such a dangerous mission. An agreement was reached with Navani sending [[Windrunner\|Windrunners]] [[Lopen\|Lopen]] and [[Huio\|Huio]] for protection; the [[Ardent\|Ardent]] [[Rushu\|Rushu]] to discuss the possibility of a fabrial mobility device for Rysn; and having [[Queen Fen\|Queen Fen]] provide a royal mandate to motivate the Thaylen crew.
 At sea, Rysn struggled with her relationship to the crew - realizing that the captain [[Drlwan\|Drlwan]] and her crew resented that Vstim chose Rysn as the [[Rebsk\|rebsk]] rather than Drlwan herself. She recommended that [[Nikli\|Nikli]] entice the sailors to begin a playful hazing ritual in order to earn their favor; while bonding with Lopen over shared experience with disability and Rushu over interest in fabrial motion devices.
 Rysn began to gain respect by handling successive 'omens' which appeared and troubled her crew. First, when the ship's grain was found to be infested, she consulted her notes from Vstim and directed the captain to trade with nearby [[Hexi\|Hexi]] nomads. They accepted the bad grain in exchange for jerky, saving the expedition's food stores. Later, when a [[Santhid\|santhid]] corpse washed up to the ship, she spun the arrival as a good omen and offered the crew a chance to rest ashore to pay respects to the greatshell. During the rest stop, Rushu experimented with Rysn's chair and aluminum-modified fabrials discovered by Huio, leading to the creation of a prototype levitating chair. Rysn also received a spanreed communication from Vstim explaining that the Windrunners and Rushu had been instructed in secret to find the [[Oathgate\|Oathgate]] at Akinah.
 
@@ -92,19 +94,19 @@ In the water, [[Luckspren\|luckspren]] led the pair into a set of caverns beneat
 At the conclusion of the negotiations, the crew of the *Wandersail* was permitted safe return with information about Akinah in addition to the Shardplate and Soulcasters found in the cavern. In return for their safety, Rysn had vowed to be the protector of the Dawnshard so that it was not in Akinah when [[Cosmere\|cosmere]] forces eventually came in search of it. The Sleepless agreed to this plan under the condition that they be permitted to follow Rysn permanently. A two-layer cover story was created: it would be said publicly that the return of a [[Larkin\|larkin]], [[Chiri-Chiri\|Chiri-Chiri]], had convinced the Sleepless to let the ship go; while the rulers of [[Roshar\|Roshar]], particularly [[Navani Kholin\|Navani Kholin]] and [[Fen Rnamdi\|Fen Rnamdi]], would be told that the exchange included Sleepless remaining with Rysn as training on impersonating humanity.
 As the *Wandersail* was pulling away from Aimia, Drlwan acknowledged that Rysn had put the crew before her own safety, and requested that she take the helm on their next voyage. Rysn also noticed that she saw colors better and thought that Drlwan's voice sounded more musical.
 
-### Post-expedition
+### Post-Expedition
   Rysn sitting in front of the <<Dawnshard\|Dawnshard's>> mural in <<Akinah\|Akinah>>
-
-
 >“*But. . . Babsk. . . I had to tell *someone*. I need your wisdom, now more than ever.*”
-\-Rysn to Vstim after returning from the Aimia expedition.[20]
+\-Rysn to Vstim after returning from the Aimia expedition.[22]
 
 
 Following her expedition to Aimia, Rysn met with Vstim and recounted her interactions with the Sleepless to Vstim. She referenced his lessons and how she used them in her negotiations with Nikli. Despite her non-disclosure agreement with the Sleepless, she told Vstim she had to confide in someone about the truth. Vstim promised Rysn that he'd keep her secrets and bear them honorably. After he left, a tired Rysn told Chiri-Chiri that she needed something to eat. Chiri-Chiri then proceeded to say a few words in the human tongue, beginning with Rysn's name. Though Rysn believed her exhaustion was causing her to hallucinate, she dropped her cup of tea and gasped when she realized that Chiri-Chiri was speaking.
+Sometime later, she convinced the members of the coalition to accept Thaylen patent law requirements. During a meeting with representatives of the Thaylen Patent Office and the administrators of Urithiru's science programs to discuss the implementation of the patent owned by herself and her business partner Huio, [[Hoid\|Hoid]] entered the room disguised as Dalinar. After everyone except for [[Hoid\|Hoid]], [[Nikli\|Nikli]], [[Alalhawithador\|Alalhawithador]], [[Chiri-Chiri\|Chiri-Chiri]], and herself had left the room, Hoid dropped his lightweaving, and they discussed their powers. She was able to tell that Hoid was a [[Dawnshard\|Dawnshard]] like her, despite Nikli saying that Hoid had given it up centuries before. The two Dawnshards began to react violently with one another, vibrating strongly and pulling Rysn and Hoid toward each other. Hoid stopped the effect and left, promising that they would never meet again. Rysn quickly made a plan for how to go into hiding, and her [[Sleepless\|Sleepless]] companions agreed to it.
 
 ## Trivia
 The writing process of Rysn's interlude in *[[Words of Radiance\|Words of Radiance]]* was recorded and released as a series of YouTube videos.
 [[Brandon Sanderson\|Brandon]] wants to have an interlude with Rysn every book, though each book can only have so many interludes and there may not always be enough slots for her.
+Rysn's fellow Dawnshard [[Zellion\|Zellion]] has a special healing factor that consistently transforms him into the appearance he had at the time he received his Dawnshard. This implies that if Rysn were to find a means to heal her spine, the Dawnshard would shortly revert her into the state of health which she had when she collected it.
 
 
 https://coppermind.net/wiki/Rysn_Ftori

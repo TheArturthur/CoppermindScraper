@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*I want to help! I want to do something other than stand around, waiting for the enemy to come to us!*”
 \-Lyn on why she wants to become a Windrunner[2]
 
@@ -36,7 +38,7 @@
 
 ## Appearance and Personality
  
-Lyn is a short, "solid-looking" [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] woman with long black hair, which she wears in a ponytail or a braid. She's usually dressed in the blue [[House Kholin\|Kholin]] uniform.
+Lyn is a short, "solid-looking" [[Darkeyes\|darkeyed]] [[Alethi\|Alethi]] woman with long black hair, which she wears in a ponytail or a braid.  She's usually dressed in the blue [[House Kholin\|Kholin]] uniform.
 She's interested in pursuing the masculine arts, and dislikes being treated as incapable of fighting just because she's a woman. She's disappointed when [[Shallan\|Shallan]] informs her that a [[Knights Radiant\|Radiant]] can be feminine, and when Kaladin suggests that Lyn can serve as a secretary, she's furious with him. She's impatient and eager, and wants to take the fight to the enemy rather than wait for it to come to her. She's also good at making friends, sliding into the [[Bridge Four\|Bridge Four]] group without any problems, and appreciates good art. She can keep a cool head in stressful situations, and take charge when necessary.
 
 ## Attributes and Abilities
@@ -63,7 +65,7 @@ Lyn was on one of the missions initially sent to [[Akinah\|Akinah]] to scout pri
 She swore her third ideal and is now a full Windrunner. 
 She was part of the team that went back to Hearthstone and rescue its people including Kaladin’s family.
 Lyn left with Dalinar to fight the [[Emul\|Emul]] campaign. There she led scouting to [[Urithiru\|Urithiru]]. She talked to the soldier that was sent by the Fused pretending to be from the queen, who used the correct passwords and had the correct language. Urithiru’s soldiers had to hike for hours to meet them and the scouts were only able to see through spyglasses and saw what they thought were Windrunners flying over the tower trying to ask for patience.
-She did try to approach the tower herself, but due to Urithiru’s barrier she fell unconscious. The tower’s soldier dragged back her to the others.
+She did try to approach the tower herself, but due to Urithiru’s barrier she fell unconscious. The tower’s soldier dragged her back to the others.
 Lyn is one of the most trusted Windrunners, this is proven by the fact that she was given the responsibility of lashing Dalinar to meet the Herald [[Ishar\|Ishar]]. Later, she was part of the five windunners that fought the Herald who easily disabled them by only defending himself.
 Lyn also participated on the scouting team that came back after [[Ishar\|Ishar]] and his army left to the cognitive realm. There she found a killed cultivationspren, along with the other killed spren found by the other members of team.
 
@@ -71,14 +73,14 @@ Lyn also participated on the scouting team that came back after [[Ishar\|Ishar]]
 ### Kaladin
 Kaladin was able to understand that Lyn had been running messages to Bridge Four because she wanted to be part of the team, however he assumed she would be a scribe and offered her that role. She spoke her mind and was then invited by him to join the tryouts.
 
->“*Their relationship hadn’t been right. He knew that as well as she did, and the pain he felt wasn’t for the end of that. Not specifically.*”
+>“*Their relationship hadn’t been right. He knew that as well as she did, and the pain he felt wasn’t for the end of that. Not specifically. *”
 \-Kaladin to himself on breaking up with Lyn.[16]
 
 
 Adolin and Syl conspired on getting Kaladin to date Lyn. Though the relationship hadn’t worked out, they’d both grown because of it. They went together to Skar’s wedding shortly before they broke up. She still cared about him and showed she had genuine concern.
 
 ## Trivia
-Lyn was named after , who made a post in a Reddit thread asking what fictional world people would want to live in, replying with *[[The Way of Kings\|The Way of Kings]]*. Brandon asked her to send him her information so he could insert her as a character in the next book, *[[Words of Radiance\|Words of Radiance]]*. She was also chosen to be a beta reader.
+Lyn was named after , who made a post in a Reddit thread asking what fictional world people would want to live in, replying with *[[The Way of Kings\|The Way of Kings]]*.  Brandon asked her to send him her information so he could insert her as a character in the next book, *[[Words of Radiance\|Words of Radiance]]*. She was also chosen to be a beta reader.
 
 
 https://coppermind.net/wiki/Lyn

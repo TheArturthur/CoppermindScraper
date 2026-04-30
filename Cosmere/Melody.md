@@ -1,21 +1,21 @@
 |**Melody Muns**|
 |-|-|
 ||
-|**Siblings**|[[William Muns\|William]], 3 others|
+|**Siblings**|[[William Muns\|William]], 2 others?|
 |**Abilities**|[[Rithmatics\|Rithmatics]]|
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 |**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
->“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while?*”
+>“*Rithmatic this, Rithmatic that! Protect the kingdom, keep the wild chalklings at bay. Why does everything have to do with Rithmatics? Can't a girl spend some time thinking about something else for a while? *”
 \-Melody to Joel[1]
 
 
 **Melody** is a student at [[Armedius Academy\|Armedius Academy]] at the same time as [[Joel Saxon\|Joel Saxon]].
 She is a [[Rithmatics\|Rithmatist]], but is not very good at drawing circles and other defensive formations. However, she is gifted at drawing [[Chalkling\|chalklings]], especially . Joel once took a look at her notebook and found it full of castles and unicorns.
-Melody is [[William Muns\|William's]] sister. They are from the Floridian Atolls where their parents still live. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the [[Melee\|Melee]] happens.
-Both parents as well as William's and Melody's siblings are Rithmatists, a fact that seems to be nearly impossible.
+Melody is [[William Muns\|William's]] sister. They are from the Floridian Atolls where their parents still live. Both of Melody's parents and all of her siblings are Rithmatists. Due to the great distance between their home and the Academy, they only come visit Melody once a year, when the [[Melee\|Melee]] happens. 
+Both parents as well as William's and Melody's siblings are Rithmatists, (unless that Melody has non-Rithmatist siblings that she did not tell Joel about which is unlikely but possible.) a fact that seems to be nearly impossible.
 
 ## Contents
 

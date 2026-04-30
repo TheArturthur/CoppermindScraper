@@ -25,18 +25,18 @@
 
 
 ## Appearance and Personality
-  With <<Rysn\|Rysn>>
+ 
 For more images, see [[Chiri-Chiri/Gallery\|/Gallery]].
 When [[Rysn\|Rysn]] first received her, Chiri-Chiri was about the size of the palm of her hand. Since then, she has grown considerably, to more than two feet long. Chiri-Chiri's general appearance is that of a large [[Cremling\|cremling]] with membranous wings. Her sleek head is reminiscent of an [[Axehound\|axehound]], but with solid silver eyes. Typically, Chiri-Chiri's carapace is a brown-violet color, but when she requires a [[Mandra\|mandra]] to continue growing, her shell whitens to a chalky color.
 Since Chiri-Chiri eats [[Stormlight\|Stormlight]], Rysn has to keep a close eye on her or she will sneakily eat the [[Light\|Light]] from the spheres Rysn uses to light the room or the Light powering her [[Fabrial\|fabrials]]. Recently, Rysn has had some success in training Chiri-Chiri to not eat Light unless offered, although Chiri-Chiri still disobeys occasionally. When she's not eating, she likes to nap in [[Tyvnk\|Rysn's pot of grass]] or to perch on the lintel above the door. However, if the need arises, she is also protective of Rysn. Chiri-Chiri makes a variety of clicking noises with her jaw to communicate. Chiri-Chiri is able to sense Rysn's tone and respond accordingly. When Chiri-Chiri needs to bond a mandra to continue growing, she curls up and becomes much less energetic, often refusing to feed on spheres. Her normal energy is restored quickly upon bonding.
 
+  Eating the <<Fused\|Fused's>> disguise
 ## Attributes and Abilities
 Chiri-Chiri eats [[Stormlight\|Stormlight]] by perching on or hovering over an infused [[Sphere\|sphere]] and sucking the [[Light\|Light]] out in a stream. She can also eat [[Voidlight\|Voidlight]]. In addition to eating Light from spheres, Chiri-Chiri can suck Light, of both types, from people holding it, such as [[Fused\|Fused]] or [[Surgebinder\|Surgebinders]]. She may even be able to feed on [[Breath\|Breath]], including a [[Divine Breath\|divine Breath]].
 This eating of [[Investiture\|Investiture]] powers Chiri-Chiri's rapid growth. Like all larkin, Chiri-Chiri must occasionally bond mandras from [[Akinah\|Akinah]] to sustain this growth and retain her flight. Since the enormous, [[Greatshell\|greatshell]]-sized skulls in the undersea caverns of [[Aimia\|Aimia]] are likely [[Lancer\|lancer]] or larkin skulls, it is probable that Chiri-Chiri can eventually reach a similar size.
 Chiri-Chiri is a sapient being, fully capable of thought and decision-making. She is even able to understand and mimic human speech.
 
 ## History
-  Eating the <<Fused\|Fused's>> disguise
 ### First Meeting with Rysn
 Chiri-Chiri was given to [[Rysn\|Rysn]] by the island [[Relu-na\|Relu-na]] after Rysn fell from its head.
 

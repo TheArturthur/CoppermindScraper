@@ -6,6 +6,7 @@
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
 |**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
+For the person who used Kim as an alias on [[Scadrial\|Scadrial]], see [[Moonlight\|Moonlight]].
 **Kim** is a professor of history at [[Armedius Academy\|Armedius Academy]].
 He is of Asian descent; his parents emigrated from [[JoSeun\|JoSeun]] after he was born. His employment at the academy was contentious as some parents believed he would skew their children's perception of history.
 [[Joel\|Joel]] purposefully flunked Kim's final and got sent to the [[Thomas York\|Principal]], but then got sent back and completed it properly before the end of the lesson.

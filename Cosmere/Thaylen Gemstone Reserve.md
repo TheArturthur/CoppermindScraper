@@ -25,7 +25,7 @@ The Reserve has several vaults each with greater and greater levels of security.
 Notable gemstones include the [[King's Drop\|King's Drop]], a large ruby that has stayed infused with [[Stormlight\|Stormlight]] for centuries, as well as the [[Benval Diamond\|Benval Diamond]], once owned by [[Vstim\|Vstim]].
 
 ## Battle of Thaylen Field
-Before the battle began the reserve was attacked by a single [[Fused\|Fused]] using the [[Surge\|Surge]] of Illumination. The Fused having taken the form of one of the guards joined the inspection of the vaults and upon finding the [[King's Drop\|King's Drop]] attacked and attempted to steal the gem. After the Failed theft Odium sent a [[Thunderclast\|Thunderclast]] into the city and it destroyed the Gemstone reserve in an attempt to locate the [[King's Drop\|King's Drop]], scattering the contents of the reserve across the city.
+Before the battle began, the reserve was attacked by a single [[Fused\|Fused]] using the [[Surge\|Surge]] of Illumination. The Fused, having taken the form of one of the guards, joined the inspection of the vaults, and upon finding the [[King's Drop\|King's Drop]], attacked and attempted to steal the gem. After the failed theft, Odium sent a [[Thunderclast\|Thunderclast]] into the city and it destroyed the Gemstone reserve in an attempt to locate the [[King's Drop\|King's Drop]], scattering the contents of the reserve across the city. The Thaylen started reconstructing and repairing the building shortly after the battle.
 
 
 

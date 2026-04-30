@@ -6,7 +6,7 @@
 |**Children**|[[Gavinor\|Gavinor]]|
 |**Parents**|[[Gavilar\|Gavilar]], [[Navani\|Navani]]|
 |**Siblings**|[[Jasnah\|Jasnah]]|
-|**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]], [[Kaves\|Kaves]]|
+|**Relatives**|[[Dalinar\|Dalinar]], [[Adolin\|Adolin]], [[Renarin\|Renarin]]|
 |**Ancestors**|[[Dalinar's father\|Grandfather]], [[Sadees\|Sadees]]|
 |**Born**|1147|
 |**Died**|[[Siege of Kholinar\|Siege of Kholinar]] 1174, killed by [[Moash\|Moash]]|
@@ -19,7 +19,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Perhaps the liar here is me—lying to tell myself I could do this, that I could be a fraction of the man my father was.*”
 \-Elhokar[4]
@@ -61,8 +61,16 @@
 
 
 
-4 Development. [[#Development]] 
-5 Notes. [[#Notes]] 
+4 Relationships. [[#Relationships]] 
+
+4. [[#Dalinar]] 
+4. [[#Kaladin]] 
+4. [[#Gavilar]] 
+4. [[#Navani]] 
+
+
+5 Development. [[#Development]] 
+6 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -128,14 +136,14 @@ Elhokar and Dalinar talk with [[Bordin\|Bordin]] who had brought a madman from K
 
 #### Persuading the Highprinces
 After the attack, the king held a council with all highprinces and their wives. Many feared another attack and brought their shards. During a break in the meeting, Shallan Davar arrived. The Highprinces argued over the assassin. The king insisted they had to follow his commands, which many found ludicrous. Dalinar made the case for an expedition to defeat the Parshendi once and for all. This ended the meeting. Shallan went to inform Elhokar of the death of his sister Jasnah. The king also sealed pardons for her retinue.
-Elhokar accompanied Dalinar, Navani and Amaram to watch Adolin's latest duel against two opponents. He liked the plan the Kholins had made. Everyone was surprised when four opponents appeared where two were expected. Dalinar wanted to have Adolin pull out of the context. Elhokar questioned that, as the Dalinar would forfeit all six of his family's shards. Adolin started off well, but could not keep up against four assailants. Dalinar wanted to get help for Adolin and asked the king for his blade. Elhokar refused, as without plate Dalinar would be defenseless. Dalinar insisted, but Elhokar counseled caution and warned of a trap. Then Renarin joined the battle, followed shortly after by Captain Kaladin. Together with Adolin, they managed to defeat the four opponents in an impressive display. Elhokar then announced that he was greatly pleased by their accomplishment. He offered Adolin a boon, who demanded the Right of Challenge to duel Sadeas. Then Kaladin demanded the right of challenge as well against Amaram. The king instantly ordered Kaladin's arrest.
+Elhokar accompanied Dalinar, Navani and Amaram to watch Adolin's latest duel against two opponents. He liked the plan the Kholins had made. Everyone was surprised when four opponents appeared where two were expected. Dalinar wanted to have Adolin pull out of the contest. Elhokar questioned that, as the Dalinar would forfeit all six of his family's shards. Adolin started off well, but could not keep up against four assailants. Dalinar wanted to get help for Adolin and asked the king for his blade. Elhokar refused, as without plate Dalinar would be defenseless. Dalinar insisted, but Elhokar counseled caution and warned of a trap. Then Renarin joined the battle, followed shortly after by Captain Kaladin. Together with Adolin, they managed to defeat the four opponents in an impressive display. Elhokar then announced that he was greatly pleased by their accomplishment. He offered Adolin a boon, who demanded the Right of Challenge to duel Sadeas. Then Kaladin demanded the right of challenge as well against Amaram. The king instantly ordered Kaladin's arrest.
 
   Elhokar asking <<Kaladin\|Kaladin>> to teach him
 Afterwards in Dalinar's warcamp, Dalinar and Elhokar argued over Kaladin's fate, while the latter was chained to a seat. Elhokar was furious that Kal had dared to insult someone so much above his station, while Dalinar tried to defend him. When Kaladin tried to speak, the king shouted at him to stay silent as he had ruined everything. The king wants to have him executed, which Dalinar finds ridiculous. Elhokar then asked Dalinar if he would stop him. Dalinar evaded the question, leading Elhokar to challenge Dalinar on Dalinar's respect for the throne. In answer, Dalinar said executing Kaladin would make Dalinar an enemy to Elhokar. Finally, Elhokar relented and agreed to send Kaladin to prison until further notice.
 When Dalinar, Shallan and Adolin lead the expedition onto the Shattered plains during the weeping, Elhokar stayed behind. He went to the barrack of Bridge Four to meet Kaladin, who was recovering from his ordeal in the chasms. He chastised Kal for having made excuses for not coming to the king when requested. After sending away the guards, Elhokar asked Kaladin about being a hero and how to know what to do. He asks directly if Kaladin finds him a bad king, to which the reply was "yes". Elhokar then admitted that he had ruined the plan after the duel, and not Kaladin.
 
 #### Assassination attempt by the Diagram
-During the night, Kaladin came to the palace with the intend to warn the king about the assassination plans from [[Graves\|Graves]] and his group. He noticed the guards were Graves's man and took them out. He then found the king laying drunkenly on a couch. He tried to evacuate the king, who was barely able to walk. One of the 'guards' managed to plunge his knife into Elhokar's side. Kaladin quickly bandaged the wound, and they continued their escape. In the hallway, the king slumped to the ground and then [[Moash\|Moash]] and Graves arrived, both with blade and plate. Kaladin fought them, and swore the third ideal of the [[Windrunners\|Windrunners]] in the process.
+During the night, Kaladin came to the palace with the intend to warn the king about the assassination plans from [[Graves\|Graves]] and his group. He noticed the guards were Graves's men and took them out. He then found the king laying drunkenly on a couch. He tried to evacuate the king, who was barely able to walk. One of the 'guards' managed to plunge his knife into Elhokar's side. Kaladin quickly bandaged the wound, and they continued their escape. In the hallway, the king slumped to the ground and then [[Moash\|Moash]] and Graves arrived, both with blade and plate. Kaladin fought them, and swore the third ideal of the [[Windrunners\|Windrunners]] in the process.
 After Kaladin had saved him, Elhokar went into hiding and was given shelter by [[Lopen\|Lopen]] and his family. Lopen's mother forced the king to eat more as he looked too pale. The [[Herdazian\|Herdazians]] later escorted Elhokar to the Oathgate and [[Urithiru\|Urithiru]].
 
 ### The True Desolation (1174)
@@ -177,11 +185,24 @@ When they charged down the stairs, they heard sounds of fighting from below. Bel
 Before he could finish the last phrase, a tall, lean man emerged from the battle. [[Moash\|Moash]] ran Elhokar through the chest with his spear. He then pinned the king to the ground and stabbed him through the eye until the king was dead.
 
 
-[[Hoid\|Hoid]] rescued a [[Cryptic\|Cryptic]] hiding near the scene of his death. His body was eventually burned with honors.
+[[Hoid\|Hoid]] rescued a [[Cryptic\|Cryptic]] hiding near the scene of his death. Elhokar's body was eventually burned with honors.
 The king's son, [[Gavinor\|Gavinor]], survived and remained in Kholinar with [[Drehy\|Drehy]] and [[Skar\|Skar]] while the others were transported to Shadesmar. The former three, along with [[Vathah\|Vathah]], [[Red (Roshar)\|Red]], [[Ishnah\|Ishnah]], and a local merchant managed to escape and send for help via [[Spanreed\|spanreed]]. They were rescued by Kaladin after a scribe sent by Dalinar informed him of their location.
 
+## Relationships
+### Dalinar
+After Gavilar's death, Elhokar relies on Dalinar's help to rule. He resents the power Dalinar has over him and feels that Dalinar does not take his concerns about assassination seriously, which leads to him faking an assassination attempt. 
+
+### Kaladin
+When Kaladin becomes responsible for protecting Elhokar, Elhokar is impressed by his thoroughness. He is angry when Kaladin demands to challenge Amaram and wants to have him executed. Later, Elhokar seeks out Kaladin and asks him for advice about becoming a better man. Elhokar admires Kaladin's heroism and aspires to be like him. 
+
+### Gavilar
+Elhokar remembers Gavilar as a king he could never live up to.  He starts the War of Reckoning to avenge Gavilar's death. . Gavilar saw Elhokar as an inadequate successor to his throne. 
+
+### Navani
+Elhokar values his mother's happiness, as he gives her and Dalinar his blessing for their wedding despite disapproving of it. 
+
 ## Development
-As a character, Elhokar is almost as old as [[Dalinar\|Dalinar]], and the two had always been nephew and uncle. In the earliest story featuring him, Elhokar, along with proto-Jasnah, is kidnapped when the proto-Gavilar is killed, leaving Jared (the early version of Dalinar) to take the reins of the kingdom. After the prince and the princess are rescued, Jared retains control, taking the time to teach Elhokar how to be a proper ruler.
+As a character, Elhokar was in development for almost as long as [[Dalinar\|Dalinar]], and the two had always been nephew and uncle. In the earliest story featuring him, Elhokar, along with proto-Jasnah, is kidnapped when the proto-Gavilar is killed, leaving Jared (the early version of Dalinar) to take the reins of the kingdom. After the prince and the princess are rescued, Jared retains control, taking the time to teach Elhokar how to be a proper ruler.
 The next known incarnation of Elhokar appears in [[The Way of Kings Prime\|The Way of Kings Prime]], the first draft of what would become *[[The Stormlight Archive\|The Stormlight Archive]]*. There, Elhokar participates in the same battle as Merin (proto-[[Kaladin\|Kaladin]]). Sheneras, the eldest of Dalinar's three sons (since written out) dies to protect him, and when that is not enough, Merin steps in and saves his life, winning Shards in the process. This version of Elhokar is already established as a bad king (and a significantly worse person overall); at the end of *The Way of Kings* Prime, Dalinar is forced to kill him. Brandon, however, decided to leave him alive for a short while, deciding that the interplay between the two would be more interesting.
 Nonetheless, Elhokar had always been intended to die, even if the circumstances around his death changed. In the final version of the story, Brandon killed him off in order to showcase [[Moash\|Moash's]] descent into villainy.
 

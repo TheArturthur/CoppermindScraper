@@ -8,4 +8,7 @@ The following link contains major spoilers for the *[[White Sand\|White Sand]]* 
 
 
 
+
+
+
 https://coppermind.net/wiki/Sharezan

@@ -5,12 +5,17 @@
 |**[[Sliver\|Slivers]]**|*None*|
 |**[[Splinter\|Splinters]]**|None|
 |**Status**|Whole|
-|**Magics**|[[Sand mastery\|Sand mastery]], [[Starmarks\|Starmarks]]|
+|**[[Perpendicularity\|Perpendicularity]]**|[[Patji's Eye\|Patji's Eye]]|
+|**Magics**|[[Sand mastery\|Sand mastery]], [[Starmarks\|Starmarks]], [[Navigator\|Navigation]]|
 |**Residence**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*It is when the soul is pushed to the limit that true exceptionalism manifests. And so, there must be a consequence—as final and terrible as death—for failure.*”
-\-Autonomy[2]
+\-Autonomy[4]
 
 
 **Autonomy** is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], currently held by [[Bavadin\|Bavadin]]. It's presently located on [[Taldain\|Taldain]], Invested in at least one of the local suns, [[AisDa\|AisDa]], though it possesses a number of [[Avatar\|avatars]] in other worlds throughout the [[Cosmere\|cosmere]].
@@ -22,6 +27,7 @@
 
 2. [[#Sand mastery]] 
 2. [[#Starmarks]] 
+2. [[#Navigation]] 
 2. [[#Aviar]] 
 2. [[#Avatars]] 
 
@@ -57,20 +63,21 @@
 
 
 ## Intent
+ 
 >“*Autonomy is driven to divide off from the rest of us, go her own way. She pushes her followers to prove themselves, and she rewards those who are bold, who survive against the odds. She respects big plans and big accomplishments.*”
 \-Harmony[1]
 
 
 Autonomy is ultimately an Intent about individualism, self-actualization, and creative self-expression. Furthermore, she promotes survival of the fittest and the competitive exclusion principle; she also supports the application of these ideas not just to nature, but to the social structures of sapient beings. As a believer in survival of the fittest, she believes that it is through struggle and defying the odds that a person, or a people, reach their full potential.
-Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. Due to this, she is driven to divide off from the other Shards. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. For her followers, she seeks those who are capable of surviving on their own and defying the odds. Her philosophy is focused on the survival of the fittest. Under Autonomy's world order, one must earn their right to keep existing. Due to her belief in Autonomy, she rewards even those that go against her, if they are successful.
-However, this doesn't stop Autonomy from meddling in affairs of others. She often intervenes with her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
+Autonomy wants to remain alone; she does not wish to be corrupted by other Shards and thinks that all Shards are better off on their own. Due to this, she is driven to divide off from the other Shards. She strives to become the most powerful, most untouchable Shard; to achieve this, she spreads her influence throughout the cosmere. Under Autonomy's world order, one must earn their right to keep existing. Her followers are those who are capable of surviving on their own and defying the odds. Due to her Intent, she rewards even those that go against her, if they are successful.
+However, this doesn't stop Autonomy from meddling in affairs of others. She prefers individuality and distinctiveness to be centrally coordinated so that they nicely fit together in a greater plan. She also seeks to extend her influence across the cosmere and often intervenes in the affairs of her fellow Shards, up to and including indirectly attacking them and plotting invasions of their worlds.
 It is unknown if her heteronomous inclinations are an aspect that arises purely from her Intent, or if it arises from how she personally manifests the Intent.
 
 ## Associated Magics
   <<Kenton\|Kenton>> using sand mastery
 ### Sand mastery
 For more information, see [[Sand mastery\|Sand mastery]].
-Sand mastery is the magic system of the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. Autonomy's [[Investiture\|Investiture]] travels through the atmosphere there and is absorbed by a small lichen living on the local sand; this has the effect of turning the sand white. Sand masters can use this to command the sand, making it move around. Sand is controlled in ribbons; the strength of a sand master is defined by how many ribbons they are capable of calling forth. They do so at the cost of their internal stores of water.
+Sand mastery is the magic system of the [[Dayside\|Dayside]] of [[Taldain\|Taldain]]. Autonomy's [[Investiture\|Investiture]] travels through the atmosphere there and is absorbed by a small lichen living on the local sand; this has the effect of turning the sand white. Sand masters can use this to command the sand, making it move around. Sand is controlled in ribbons; the strength of a sand master is defined by how many ribbons they are capable of calling forth. They do so at the cost of their internal stores of water, an aspect of the magic which is implied to be intentional mimicry of [[Aether\|Aether]] magic.
 It's unclear what the conditions for becoming a sand master are. The ability seems to be a combination of nature and nurture, and must be encouraged to appear in a person by another Sand master; it can take weeks of training before one can control sand. At the same time, it appears to be in-born to at least some extent, as different people have different strength, and in some, the power will not appear at all.
 The same [[Investiture\|Investiture]] used in sand mastery can be also utilized by people in other star systems, if Taldain's sun is visible from their location. [[Surgebinder\|Surgebinders]] could draw Investiture from the sun's light.
 
@@ -78,17 +85,21 @@ The same [[Investiture\|Investiture]] used in sand mastery can be also utilized 
 For more information, see [[Starmarks\|Starmarks]].
 **Starmarks** are a form of Invested Art on Darkside, charged by weekly pulses from [[Taldain system\|Ridos]]. Those who use this art are called **Starcarved**. There are many similarities between starmarks and sand mastery.
 
+### Navigation
+For more information, see [[Navigator\|Navigator]].
+**Navigation** is a form of Invested Art on [[First of the Sun\|First of the Sun]], granted to those who have survived working on the Pantheon and spent time near [[Patji's Eye\|Patji's Eye]].. It is given by Autonomy's avatar, [[Patji (being)\|Patji]]. Those who use this art are called **Navigators**. Navigators are able to sense pulses in the [[Cognitive Realm\|Cognitive Realm]] from the [[Grand Knell\|Grand Knell]], and can feel disturbances from when things get in its way. Unlike a [[Seeker\|Seeker]], who can only get a bearing to the Grand Knell, a Navigator can sense subastral obstructions to the Current, allowing them to chart a more accurate course through the Emberdark.
+
 ### Aviar
 For more information, see [[Aviar\|Aviar]].
-Aviar are a type of birds on the planet of [[First of the Sun\|First of the Sun]]. They are known for their supernatural abilities; every species of Aviar has their own, specific gift. They gain those talents by feeding on fruits of [[Patji's Finger\|Patji's Finger]], a tree native to the island of [[Patji (island)\|Patji]]. This fruit contains worms, which bond with Aviar to grant them their powers. Aviar abilities include hiding one's mind from those capable of perceiving it, and showing others their possible deaths. As the mind of Patji is an avatar of Autonomy, it's highly likely that Aviar make use of Autonomy's Investiture.
+Aviar are a type of birds on the planet of [[First of the Sun\|First of the Sun]]. They are known for their supernatural abilities; every species of Aviar has their own, specific gift. They gain those talents by feeding on fruits of [[Cakoban's finger\|Cakoban's fingers]], a tree native to the island of [[Patji (island)\|Patji]]. This fruit contains worms, which bond with Aviar to grant them their powers. Aviar abilities include hiding one's mind from those capable of perceiving it, and showing others their possible deaths. As the mind of Patji is an avatar of Autonomy, it's highly likely that Aviar make use of Autonomy's Investiture.
 
 ### Avatars
   <<Pantheon\|Pantheon>>, home of the <<Aviar\|aviar>> and the avatar <<Patji (being)\|Patji>>
 >“*Autonomy is trying to outcompete the others by filling the cosmere with versions of herself. Crowd out the competition, so to speak.*”
-\-Moonlight[7]
+\-Moonlight[9]
 
 
-Like all Shards, Autonomy is able to create avatars—semi-autonomous entities that wield a portion of Autonomy's power without being wholly separate from Autonomy herself. Autonomy creates two types of avatars. One type are pieces of Autonomy that have been allowed to gain their own sentience, becoming effectively alternate identities of herself. The other are Physical beings that have been granted the use of a portion of Autonomy's power, and becoming a [[Sliver\|Sliver]] of her. Physical avatars benefit from becoming Invested, granting them immortality, as well as incredible healing and resilience. However, they require a [[Connection\|Connection]] to Autonomy herself in order to benefit from their status as an avatar; interrupting and cutting off that Connection leads them to lose the power. While they are connected and begin to become a sliver, they also begin to take on Autonomy's intent, similar to full [[Shard\|Shard]] wielders.
+Like all Shards, Autonomy is able to create avatars—semi-autonomous entities that wield a portion of Autonomy's power without being wholly separate from Autonomy herself. Autonomy creates two types of avatars. One type are pieces of Autonomy that have been allowed to gain their own sentience, becoming effectively alternate identities of herself. The other are Physical beings that have been granted the use of a portion of Autonomy's power, and becoming a [[Sliver\|Sliver]] of her. Physical avatars benefit from becoming Invested, granting them immortality, as well as incredible healing and resilience. However, they require a [[Connection\|Connection]] to Autonomy herself in order to benefit from their status as an avatar; interrupting and cutting off that Connection leads them to lose the power. While they are connected and begin to become a sliver, they also begin to take on Autonomy's Intent, similar to full [[Vessel\|Vessels]].
 Avatars, both made and Invested, can be of any gender, race and species, including fully inhuman ones. They are considered to be Shards of Adonalsium, in a way. Autonomy can create avatars on different [[/wiki/Cosmere#Planets]] in the cosmere without physically visiting them. Avatars can also form without a direct and conscious decision on Autonomy's part, but she will always be aware of this happening.
 Through this process, Autonomy has created several personas, both male and female; she has more female personas than male ones, though the latter are also quite popular. She prefers to make her avatars rather than herself the center of attention.
 
@@ -104,14 +115,14 @@ When trellium is brought into contact with superheated harmonium, it causes a ma
 
 ### Faceless Immortals
 >“*They didn't understand, couldn’t understand. The Set had Faceless Immortals of its own.*”
-\-Edwarn Ladrian[34]
+\-Edwarn Ladrian[41]
 
 
 Autonomy appears to have the ability to take control of living bodies, even as far as on [[Scadrial\|Scadrial]]. It is unclear what her limitations are, or if there is any requirement the person must fulfill before Autonomy can use them; it is likely that it requires [[Connection\|Connection]] to Autonomy, and possibly the presence of trellium. When people are under Autonomy's control, she can make them move to their wish and speak what she wants; they can be recognized as hers by red glow in their eyes. The [[Set\|Set]] calls them their "Faceless Immortals"; they do not appear aware of the Immortals' true nature. It's unclear if Autonomy can return the body under the control of its original owner, or if the person is still aware of themselves while Autonomy is in control.
 
 ### Perpendicularity Control
 >“*There are planets where Autonomy has created such portals unexpectedly, and against all understood mechanics.*”
-\-Moonlight[35]
+\-Moonlight[42]
 
 
 Autonomy seems to have mastered control over [[Perpendicularity\|perpendicularities]]. She has barred access to [[Taldain\|Taldain]] through the [[Cognitive Realm\|Cognitive Realm]], locking any native worldhoppers out of their own homeland. On other worlds, she has shown the ability to create artificial, temporary perpendicularities; the methods by which she does so are unknown to cosmere scholars and appear to break the known laws of [[Realmatic Theory\|Realmatic Theory]].
@@ -122,7 +133,7 @@ However, unlike natural perpendicularities, the portals created by Autonomy have
 For the history of Bavadin prior to taking up the Shard, see [[/wiki/Bavadin#History]].
 ### Early History and Isolation of Taldain
 >“*Autonomy's policy of isolationism in recent times (in direct contrast to her interference with other planets, I might add) has prevented travel to and from Taldain for many, many years.*”
-\-Khriss[4]
+\-Khriss[6]
 
 
 Autonomy was created in the aftermath of the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and taken up by [[Bavadin\|Bavadin]], who carried it away from [[Yolen\|Yolen]]. Eventually, she settled in [[Taldain system\|Taldain system]]. Someone altered the system into its current, unnatural shape, though whether this was Autonomy or some other force is unknown.
@@ -136,7 +147,7 @@ Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with O
 ### Trell
 #### The Set
 >“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
-\-Miles Hundredlives[45]
+\-Miles Hundredlives[52]
 
 
 At some point following the [[Catacendre\|Catacendre]], Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals. Autonomy's initial plan for dealing with this was the creation of [[Set\|Set]], a secret society that resurrected the long-dead religion of [[Trelagism\|Trelagism]] as [[Trellism\|Trellism]]. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals".
@@ -148,7 +159,7 @@ At some point during this time, Autonomy's actions came under attention of the [
   <<Telsin Ladrian\|Telsin Ladrian>>, avatar of Autonomy
 #### Bilming
 >“*It is not the bomb you should worry about. It is the destruction I have sent if that bomb fails.*”
-\-Autonomy[2]
+\-Autonomy[4]
 
 
 Over the six years following the death of Edwarn Ladrian, the Set fully took control of the city of [[Bilming\|Bilming]] on behalf of Autonomy, up to developing it with accordance to Autonomy's philosophy and using Taldain architecture, particularly the  style. At the same time, they conducted underground tests in order to create a [[Trellium\|trellium]]-[[Harmonium\|harmonium]] bomb. The key part of the plan—and the part of it meant to impress Autonomy—was the delivery device: a self-propelled rocket, something that Autonomy herself was yet to figure out.
@@ -164,7 +175,7 @@ Autonomy will often seed these religions on various planets—including those al
 
 ### Technological and Cultural Control
 >“*She claims she wants everyone to be individual. Gives them each a little house that is distinctive from the others, but only in a way that fits her plan, her desires. It's fake individualism. A corporate uniqueness. Like an advertisement telling people to go their own way, be their own person—by buying this product like everyone else.*”
-\-Moonlight[7]
+\-Moonlight[9]
 
 
 Autonomy has consistently shared her Shardic knowledge of advanced physics and technology with her people. This has led to [[Taldain\|Taldain]] becoming one of cosmere's most technologically-advanced worlds, and the fastest to advance. However, Autonomy has at the same time insisted on stopping Taldain from developing further than she desires, and has meddled in the planet's cultural and political development from ancient times, including manipulating specific individuals in an attempt to divide faith in the Sand Lord and destroy the [[Diem\|Diem]] should they prove unworthy to survive.
@@ -172,7 +183,7 @@ Presently, Autonomy has effectively isolated Taldain from the rest of the cosmer
 
 ### Interplanetary Conflicts
 >“*Autonomy has access to … some very specialized troops. Hard to control. Dangerous to unleash.*”
-\-TwinSoul[35]
+\-TwinSoul[42]
 
 
 Autonomy herself interferes directly in a number of cosmere's worlds. She might have aided Odium in killing and splintering [[Devotion\|Devotion]] and [[Dominion\|Dominion]] among other [[Shards\|Shards]]. She has been taking over multiple worlds through her avatars, with [[First of the Sun\|First of the Sun]], [[Obrodai\|Obrodai]] and [[Scadrial\|Scadrial]] being known to host her avatars at one point or another. On Scadrial in particular, through her persona of Trell, Autonomy can outright blind [[Harmony\|Harmony]] and attempt to bring destruction to the planet as part of her plan to prevent the rise of Scadrial as an interstellar power. She appears to be influencing Roshar to an unknown degree.

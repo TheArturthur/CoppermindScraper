@@ -2,13 +2,13 @@
 |-|-|
 ||
 |**Type**|Spren, [[Aether\|Aether]]|
-|**Abilities**|[[Splinter\|Splinter]], Shapeshifting|
+|**Abilities**|Shapeshifting|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 > [!info] This page or section needs to be updated with new information for *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Midnight Essence** is a substance that appears throughout the cosmere, most notably connected to [[Aether\|midnight aether]] and [[Re-Shephir\|Re-Shephir]]. Midnight Essence has not been shown to exist without some degree of sentience or possession through a [[Luhel bond\|Luhel bond]], and therefore can be considered both a substance and a creature. However, whether or not it is truly sentient is questioned.
-It is associated with Re-Shephir, as the substance she uses to make her creatures. The ancient [[Knights Radiant\|Radiants]] considered them one of the [[Ten Deaths\|Ten Deaths]]. [[Dalinar Kholin\|Dalinar Kholin]] experienced them in one of his visions, while [[Shallan Davar\|Shallan Davar]], [[Adolin Kholin\|Adolin Kholin]], and members of [[Bridge Four\|Bridge Four]] had to deal with them while fighting Re-Shephir in Urithiru.
+On Roshar, it is associated with Re-Shephir, as the substance she uses to make her creatures. The ancient [[Knights Radiant\|Radiants]] considered them one of the [[Ten Deaths\|Ten Deaths]]. [[Dalinar Kholin\|Dalinar Kholin]] experienced them in one of his visions, while [[Shallan Davar\|Shallan Davar]], [[Adolin Kholin\|Adolin Kholin]], and members of [[Bridge Four\|Bridge Four]] had to deal with them while fighting Re-Shephir in [[Urithiru\|Urithiru]].
 On [[Lumar\|Lumar]], Midnight Essence is used by a variety of characters, and is more widely available, with the commonly accessible method of synthesis involving placing water onto midnight spores.
 
 ## Contents

@@ -4,9 +4,7 @@
 |**World**|[[Komashi\|Komashi]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
-
-**Ihosen** is a village in the kingdom of [[Torio\|Torio]] on [[Komashi\|Komashi]].
+**Ihosen** is a village in the kingdom of [[Torio\|Torio]] on [[Komashi\|Komashi]]. This the town that [[Yumi\|Yumi]] spent most of the seventeen hundred years after the [[Father machine\|Father machine]] until the [[Hijo\|spirit]] connected her and [[Nikaro\|Nikaro]] when they were moved to [[Gongsha Town\|Gongsha Town]].
 
 
 

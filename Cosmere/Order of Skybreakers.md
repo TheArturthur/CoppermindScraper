@@ -5,11 +5,13 @@
 |**[[Herald\|Herald]]**|[[Nale\|Nale]]|
 |**[[Spren\|Spren]]**|[[Highspren\|Highspren]]|
 |**[[Surge\|Surges]]**|[[Gravitation\|Gravitation]] & [[Division\|Division]]|
-|**[[Shardplate\|Plate]] spren**|[[Gravitationspren\|Gravitationspren]]|
+|**[[Shardplate\|Armor]] spren**|[[Luckspren\|Luckspren]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I watched you destroy yourself in the name of order, watched you obey your personal code when others would have fled or crumbled. Szeth-son-Neturo, I watched you keep your word with perfection. This is a thing lost to most people--it is the only genuine beauty in the world. I doubt I have ever found a man more worthy of the Skybreakers than you.*”
 \-Nale to Szeth[2]
@@ -34,6 +36,7 @@ The Skybreakers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] 
 
 3. [[#Gravitation]] 
 3. [[#Division]] 
+3. [[#Nahel Bond Abilities]] 
 3. [[#Shardplate Abilities]] 
 
 
@@ -57,11 +60,12 @@ The individuals who join the Skybreakers generally believe in following a strong
 Before the Recreance, the Skybreakers were merciful and understood that the law is not perfect. They viewed the law as an ideal to strive towards. Highspren would accept their Radiants following codes that may endorse illegal activity. For example, a Skybreaker could follow the code of a criminal organization. Since the Recreance, the Skybreakers have gotten far more strict and merciless in their behavior. The group largely seems to follow Nale's opinion on what codes and laws to follow. This may be related to the fact that Nale has lost his ability to feel emotions under the torturing in [[Damnation\|Damnation]]. While they still follow the law to the letter, they are not above getting the law changed or instituting the most strict punishments possible to suit their needs. Exploiting loopholes in codes is also encouraged among them.
 
 ## Ideals of the Skybreakers
-The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order. The Ideals of the Order of Skybreakers all focus on fighting for justice, upholding codes, and protecting civilization. Their Ideals and interpretations would be compatible with the philosophy that the ends justifies the means. Skybreakers tell their recruits all five Ideals when they swear the first one.
+The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.
+The Ideals of the Order of Skybreakers all focus on fighting for justice, upholding codes, and protecting civilization. Their Ideals and interpretations would be compatible with the philosophy that the ends justifies the means. Skybreakers tell their recruits all five Ideals when they swear the first one.
 
 ### The First Ideal
 >“*Life before death, strength before weakness, journey before destination.*”
-\-The First Ideal of the Knights Radiant[13]
+\-The First Ideal of the Knights Radiant[15]
 
 
 The First Ideal is also known to the Skybreakers as the Ideal of Radiance. Before swearing this Ideal, hopefuls travel with the Skybreakers on a mission. They must prove their dedication and solemnity on that mission to a full Skybreaker before they are deemed worthy of saying the Words. The Ideal of Radiance does not give powers or the ability to draw Stormlight, but it does qualify them for further tests among the Skybreakers so that they can become squires. The Skybreakers pardon any past misdeeds when someone swears this Ideal, using the proper local authorities and paperwork.
@@ -69,36 +73,37 @@ The First Ideal is also known to the Skybreakers as the Ideal of Radiance. Befor
 ### The Second Ideal
   <<Szeth\|Szeth>> training with other Skybreakers
 >“*I swear to seek justice, to let it guide me, until I find a more perfect Ideal.*”
-\-The Second Ideal of the Skybreakers, as chosen by Szeth[15]
+\-The Second Ideal of the Skybreakers, as chosen by Szeth[17]
 
 
-Also called the Ideal of Justice, this is a specific oath to seek and administer justice. Once a master chooses to accept someone as a squire, they may swear this Ideal. This Ideal gives the squire the ability to breathe in Stormlight and use the Surge of Gravitation.
+Also called the Ideal of Justice, this is a specific oath to seek and administer justice. It represents the process of learning which laws serve the people and swearing obedience to the written code of law. Once a master chooses to accept someone as a squire, they may swear this Ideal. This Ideal gives the squire the ability to breathe in Stormlight and use the Surge of Gravitation.
 
 ### The Third Ideal
 >“*I swear to follow the will of Dalinar Kholin. This is my oath.*”
-\-The Third Ideal of the Skybreakers, as sworn by Szeth[16]
+\-The Third Ideal of the Skybreakers, as sworn by Szeth[18]
 
 
-Also called the Ideal of Dedication, this is a specific oath to dedicate oneself to a greater truth, either a code or, sometimes, a person. A Skybreaker squire must first bond their [[Highspren\|Highspren]] before taking this oath, and it is the minimum oath required before the Surge of Division can be used. Swearing this Ideal makes someone a full Skybreaker. This oath is the furthest that most Skybreakers ever swear. If the code they swear to follow changes after they swear to it, they must follow the changes. Nale warned that following people as an Ideal may result in some issues since people are easily subject to change. Nonetheless, some Skybreakers choose to follow Nale as their third Ideal.
+Also called the Ideal of Dedication, this is a specific oath to dedicate oneself to a greater truth, either a code or, sometimes, a person. If the code they swear to follow changes after they swear to it, they must follow the changes. Nale warned that following people as an Ideal may result in some issues since people are easily subject to change. Nonetheless, some Skybreakers choose to follow Nale as their third Ideal. Sometimes, a Skybreaker can change their guide and still remain true to their oath.
+A Skybreaker squire must first bond their [[Highspren\|Highspren]] before taking this oath, and it is the minimum oath required before the Surge of Division can be used. It must be spoken before a Skybreaker can manifest their highspren as a [[Shardblade\|Shardblade]]. Swearing this Ideal makes someone a full Skybreaker. This oath is the furthest that most Skybreakers ever swear.
 
 ### The Fourth Ideal
 >“*I will cleanse the Shin of their false leaders, so long as Dalinar Kholin agrees.*”
-\-The Fourth Ideal of the Skybreakers, as spoken by Szeth.[16]
+\-A mission to reach the Fourth Ideal, as spoken by Szeth.[18]
 
 
-This Ideal is also called the Ideal of Crusade, and requires that a Skybreaker undertake a personal quest and complete it to the satisfaction of their highspren. Once completed, the Skybreaker is elevated to the rank of master. Masters are able to accept squires. Most Skybreakers never make it to this Ideal, and the ones that do can spend decades at the Third Ideal before completing their quest.
+This Ideal is also called the Ideal of Crusade, and requires that a Skybreaker undertake a personal quest and complete it to the satisfaction of their highspren. A Third Ideal Skybreaker chooses their quest, and reaches the Fourth Ideal only when the quest is completed. In addition, the Skybreaker is elevated to the rank of master upon completion of their quest, and becomes able to accept squires. Most Skybreakers never make it to this Ideal, and the ones that do can spend decades at the Third Ideal before completing their quest. Upon achieving this Ideal, a Skybreaker gains their [[Shardplate\|Shardplate]], which is formed of [[Luckspren\|luckspren]]. In addition to this, Skybreakers can take squires after they complete the Fourth Ideal and become masters.
 
 ### The Fifth Ideal
->“*If you progress as a Skybreaker, you will need to become the law. To reach your ultimate potential, you must know the truth yourself, rather than relying on the crutch presented by the Third Ideal. Be aware of this.*”
-\-Szeth's highspren on the Fifth Ideal[18]
+>“*I am my own agent. I make my own choices. I. Am. THE LAW!*”
+\-The Fifth Ideal of the Skybreakers, as sworn by Szeth[24]
 
 
-Called the Ideal of Law, this Ideal requires the Skybreaker to swear an oath that they will become a personification of law and truth. Nale is likely the only current Skybreaker to have achieved it, as it has been centuries since anyone mastered the Fifth Ideal. There is a disagreement among the order on whether this means that the Skybreaker swearing this oath can do anything, as they are an embodiment of the law, or if they need to not break any law to keep their oaths. Depending on the Skybreaker's perception of the Ideal, either interpretation could be valid. After swearing the Fifth Ideal, a Skybreaker is no longer required to follow the Third Ideal they swore to.
+Called the Ideal of Law, this Ideal requires the Skybreaker to swear an oath that they will become a personification of law and truth. Nale and Szeth are likely the only Skybreakers to have achieved it, as it has been centuries since anyone else mastered the Fifth Ideal. There is a disagreement among the order on whether this means that the Skybreaker swearing this oath can do anything, as they are an embodiment of the law, or if they need to not break any law to keep their oaths. Depending on the Skybreaker's perception of the Ideal, either interpretation could be valid. After swearing the Fifth Ideal, a Skybreaker is no longer required to follow the Third Ideal they swore to.
 
 ## Abilities
   Flying Skybreakers
 >“*The considerable abilities of the Skybreakers for making such amounted to an almost divine skill, for which no specific Surge or spren grants capacity, but however the order came to such an aptitude, the fact of it was real and acknowledged even by their rivals.*”
-\-Words of Radiance, chapter 28, page 3[20]
+\-Words of Radiance, chapter 28, page 3[27]
 
 
 The Skybreakers are able use the Surges of **Gravitation** and **Division**. The full extent of their powers are so far unknown. Like most Knights Radiant, the Skybreakers have squires, though only those of the Fourth Ideal or above can accept them. They reportedly had the ability (unrelated to their Surges) to divide the innocent from the guilty that was by some even considered to be an almost divine skill. However, they do not have any supernatural abilities in determining a person's guilt, so this appears to be some combination of mundane experience and exaggerations in folklore.
@@ -110,10 +115,13 @@ The Skybreakers are able use the Surges of **Gravitation** and **Division**. The
 The Basic Lashing allows a Surgebinder to bind people or objects to different surfaces or in different directions, effectively changing the direction that gravity pulls them.
 
 ### Division
-[[/wiki/Surgebinding#Division]] allows them to destroy or degrade things around them. Skybreakers do not have access to the Surge of Division until after the Third Ideal. Restricting access to Surges based on oaths is rare among the orders and few do it. 
+[[/wiki/Surgebinding#Division]] allows them to destroy or degrade things around them. Most Skybreakers do not have access to the Surge of Division until after the Third Ideal. Restricting access to Surges based on oaths is rare among the orders and few do it.
+
+### Nahel Bond Abilities
+Highspren seem to have some kind of empathic connection to their Skybreaker that other spren lack, as they can let the Radiant know their feelings without speaking, even when not in [[Shardblade\|Shardblade]] form. With a powerful enough bond, Skybreakers and their highspren are able to sense each others emotions, as well as communicate with their minds.
 
 ### Shardplate Abilities
-Skybreakers' [[Shardplate\|Shardplate]] is formed of [[Gravitationspren\|gravitationspren]], and glows a blue color.
+Skybreakers' [[Shardplate\|Shardplate]] is formed of [[Luckspren\|luckspren]], and glows a smoky grey color.
 
 ## History
 ### Ancient Skybreakers
@@ -125,7 +133,7 @@ The group that would become the Skybreakers began when the highspren, trying to 
 They were concerned that the other Radiants would think themselves above the law and use their power to become tyrants, oppressing those without the power to resist. As a result, they functioned as a military police among the Radiants, and took that duty very seriously, though it was often a thankless task. This role required separating innocent and guilty parties. They were extremely skilled at doing so, a fact that even those who didn't like them acknowledged. Despite being described as an almost divine skill, there was no magical cause for this ability. Despite this, the pre-Recreance Skybreakers could be merciful and understood that the law is not perfect, but rather represents an ideal to strive for. The Skybreakers also took responsibility for keeping some of the dangerous or dark forces of Roshar contained.
 
 >“*There came also sixteen of the order of Windrunners, and with them a considerable number of squires, and finding in that place the Skybreakers dividing the innocent from the guilty, there ensued a great debate.*”
-\-Words of Radiance, chapter 28, page 3[31]
+\-Words of Radiance, chapter 28, page 3[39]
 
 The ancient Skybreakers seem to have been involved in conflicts with other orders frequently, especially the two orders they share Surges with. The Skybreakers considered the Dustbringers to be on the edge morally and did not get along with them. They also reportedly had some issues with the [[Windrunners\|Windrunners]]. [[Highspren\|Highspren]] and, through them, the Skybreakers judge and dispense justice according to the letter of the law and what may make logical sense to them, while the Windrunners will disregard these laws or logic at their letter to do what is considered right. Debates ensued when Windrunners and Skybreakers tried to decide the fate of the guilty. These conflicts got significantly worse as the time of the Recreance approached. Some believed these and other conflicts caused the [[Sibling\|Sibling]] to retreat, but it was unrelated to the true cause.
 At some point before the [[Recreance\|Recreance]], Nale secretly retrieved his [[Honorblade\|honorblade]] from [[Shinovar\|Shinovar]] and bonded his own highspren, officially joining the Skybreakers. He is the only known Herald to have joined their order.
@@ -133,31 +141,33 @@ At some point before the [[Recreance\|Recreance]], Nale secretly retrieved his [
   <<Nale\|Nale>>
 ### In Hiding
 >“*Led by the ancient Herald Nalan'Elin—often simply called Nale—the Skybreakers are the only order of Radiants that did not betray its oaths during the Recreance. They have maintained a continuous clandestine line from ancient days.*”
-\-Mraize's letter to Shallan[6]
+\-Mraize's letter to Shallan[7]
 
 
 The Skybreakers were also the only order that did not partake in the [[Recreance\|Recreance]] and remained active in the following two millennia. Over those years, Nale increasingly put his imprint on the order, and the Skybreakers of the modern era are much more rigid than their pre-Recreance predecessors. Nale seems to have some control over which of his recruits obtain spren bonds, and he is exacting in testing them before they are found worthy. In the centuries leading up to 1173, Nale was the only Skybreaker to swear the Ideal of Law.
 The order has a small fortress in [[Marabethia\|Marabethia]] that overlooks the [[Purelake\|Purelake]]. Hopefuls are brought to the fortress for testing, and squires and Masters reside there while training (unless they are away on a mission). Skybreakers usually wear the uniforms of local law enforcement wherever they travel, regardless of their own race or nationality. The Skybreakers have power and Shards that they use to awe new recruits.
-In approximately 1153. Nale began his crusade to stop other orders from bonding spren and returning. [[Ishar\|Ishar]] had told him that the other orders returning would hasten the return of the [[Voidbringers\|Voidbringers]]. The prospective Radiants would either be killed or, if they fit well with the Skybreakers, recruited. Nale's mission led a Skybreaker acolyte to get involved with [[Shallan's mother\|Shallan's mother]]. The two learned that [[Shallan\|Shallan]] had bonded a spren and attempted to kill her. Shallan killed them both instead. He did not relay to his fellow Skybreakers which Davar was a Radiant, so Nale believed [[Helaran\|Helaran]] may be the Radiant. According to Mraize, Nale recruited Helaran, who then died attempting to kill [[Amaram\|Amaram]] using a set of dead Shards. Whether he did this on Nale's orders or as an independent attempt to impress him is unknown.
+In approximately 1153. Nale began his crusade to stop other orders from bonding spren and returning. [[Ishar\|Ishar]] had told him that the other orders returning would hasten the return of the [[Voidbringers\|Voidbringers]]. The prospective Radiants would either be killed or, if they fit well with the Skybreakers, recruited. Nale's mission led a Skybreaker [[Dreder\|acolyte]] to get involved with [[Shallan's mother\|Shallan's mother]]. The two learned that [[Shallan\|Shallan]] had bonded a spren and attempted to kill her. Shallan killed them both instead. He did not relay to his fellow Skybreakers which Davar was a Radiant, so Nale believed [[Helaran\|Helaran]] may be the Radiant. According to Mraize, Nale recruited Helaran, who then died attempting to kill [[Amaram\|Amaram]] using a set of dead Shards. Whether he did this on Nale's orders or as an independent attempt to impress him is unknown.
 
 ### True Desolation
   Skybreakers dealing justice at the Purelake
 Right at the onset of the [[True Desolation\|True Desolation]], Nale recruited [[Szeth\|Szeth]] to join the Skybreakers. Despite the [[Everstorm\|Everstorm's]] arrival, he remained in denial about the failure of his order's mission for weeks until a confrontation with [[Lift\|Lift]] showed him the truth. Nale left the Skybreakers to train as normal. They continued to remain uncertain about the True Desolation's arrival in his absence, though they trained as if it were true. The training included initiates hunting down criminals that had escaped from a prison on the [[Purelake\|Purelake]]. The highspren were incredibly impressed by Szeth's performance in this test, allowing him to swear the oaths quickly. The squires practiced their combat and Gravitation abilities with an exercise that involved flying around and attempting to hit their fellow squires with bags of colored powder.
-When Nale returned, he told the Skybreakers the truth of the Recreance and gave them a choice. As the original owners of the land, Nale claimed that the law of the land was that of the [[Singer\|singers]]. He and most of his order decided to follow [[Odium\|Odium]] and the singers' with their return to Roshar. The transition was easiest for those of the order who had sworn to follow Nale directly. [[Szeth\|Szeth]] is currently the only known Skybreaker to not serve Odium. He instead swore to follow [[Dalinar Kholin\|Dalinar Kholin]], who acknowledged him as the Skybreaker present when the Radiants assembled following the summoning of [[Honor's Perpendicularity\|Honor's Perpendicularity]].
+When Nale returned, he told the Skybreakers the truth of the Recreance and gave them a choice. As the original owners of the land, Nale claimed that the law of the land was that of the [[Singer\|singers]]. He and most of his order decided to follow [[Odium\|Odium]] and the singers' with their return to Roshar. The transition was easiest for those of the order who had sworn to follow Nale directly. [[Szeth\|Szeth]] was one of the few known Skybreakers to not serve Odium. He instead swore to follow [[Dalinar Kholin\|Dalinar Kholin]], who acknowledged him as the Skybreaker present when the Radiants assembled following the summoning of [[Honor's Perpendicularity\|Honor's Perpendicularity]].
 
 ## Notable Skybreakers
 
-[[Nale\|Nale]]
-[[Szeth\|Szeth]] (bonded to [[Szeth's highspren\|unnamed highspren]])
+[[Nale\|Nale]] (bonded to [[121\|121]])
+[[Szeth\|Szeth]] (previously bonded to [[Szeth's highspren\|12124]])
 [[Ki\|Ki]] (bonded to [[Winnow (Roshar)\|Winnow]])
-[[Sigzil\|Sigzil]] (bonded to [[Auxiliary\|Auxiliary]])
+[[Sigzil\|Zellion]] (bonded to [[Auxiliary\|Auxiliary]])
 [[Warren\|Warren]]
+[[Dreder\|Dreder]]
 [[Joret\|Joret]] (Squire)
 [[Cali\|Cali]] (Squire)
 [[Zedzil\|Zedzil]] (Squire)
 [[Ty\|Ty]] (Squire)
 [[Fari\|Fari]] (Squire)
 [[Helaran\|Helaran]] (Unbonded initiate)
+[[Kaylor Vosian\|Kaylor Vosian]]
 
 ## Trivia
 If [[Rashek\|Rashek]] were to have joined the Knights Radiant he would have made an okay, though not great, Skybreaker.

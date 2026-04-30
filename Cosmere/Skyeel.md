@@ -29,23 +29,23 @@ When they fly, small arrow-headed [[/wiki/Spren#Luckspren]] often appear and dar
 Skyeels have pale bellies so that they camouflage with the sky from below and dappled skin on their back that lets them blend in with the water they fly over from above.
 
 
-## Behavior
  
+## Behavior
 Skyeels are graceful as they undulate through the air, but somewhat awkward on land.
-Their diet consists of fish, small rodents (such as rats and minks) and crabs. When a skyeel spots prey, they go into a sharp dive and coil around it as they snatch it up. It can take an hour or two for a skyeel to refill its gas pouches after diving. During this time, they usually find somewhere to hide. Skyeels are known to fight over their prey.
-Skyeels nest and watch carefully over their young, and they have a reputation for being vicious and repellant.
+Their diet consists of fish, small rodents (such as rats and minks) and crabs.  When a skyeel spots prey, they go into a sharp dive and coil around it as they snatch it up. It can take an hour or two for a skyeel to refill its gas pouches after diving. During this time, they usually find somewhere to hide. Skyeels are known to fight over their prey.
+Skyeels nest and watch carefully over their young, and they have a reputation for being vicious and repellant. However, the crew of the *[[Wandersail (1174 ship)\|Wandersail]]* keep a female skyeel on board as their ship's pet to catch rats, and most of the crew likes her.
 
 ## Cultural References
-[[Sebarial\|Sebarial's]] banner has its glyphs stylized to look like a skyeel.
+ [[Sebarial\|Sebarial's]] banner has its glyphs stylized to look like a skyeel.
 The  of a ship is referred to as the eel's nest.
 
 ### Idioms
 >“*Hundreds of arrows split the sky, dimming the sun. They arced and fell, dropping like skyeels upon their prey.*”
-\-[9]
+\-[10]
 
 
 >“*...Szeth moved among them, graceful as a skyeel,...*”
-\-[10]
+\-[11]
 
 
 >“*Jasnah's words fought in her mind, like skyeels with only one rat between them.*”
@@ -57,19 +57,19 @@ The  of a ship is referred to as the eel's nest.
 
 
 >“*Nearby, Wyndle grew up around one of the bedposts, coiled like a skyeel.*”
-\-[11]
-
-
->“*In the strange manner of Shardplate, the armor constricted on its own, like a skyeel curling around its rat, pulling to a comfortable tightness around his wrists.*”
 \-[12]
 
 
->“*[Re-Shephir] remembered men—an innate understanding, much as newborn mink kits innately knew to fear the skyeel.*”
+>“*In the strange manner of Shardplate, the armor constricted on its own, like a skyeel curling around its rat, pulling to a comfortable tightness around his wrists.*”
 \-[13]
 
 
->“*Help how? Summon Shardblades and swing them wildly in the air, like a farmer chasing skyeels?*”
+>“*[Re-Shephir] remembered men—an innate understanding, much as newborn mink kits innately knew to fear the skyeel.*”
 \-[14]
+
+
+>“*Help how? Summon Shardblades and swing them wildly in the air, like a farmer chasing skyeels?*”
+\-[15]
 
 
 

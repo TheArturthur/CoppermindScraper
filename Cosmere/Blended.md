@@ -55,10 +55,10 @@ Blended was alive during the time of the [[Recreance\|Recreance]], and watched m
 Blended is the [[Inkspren\|inkspren]] emissary to [[Lasting Integrity\|Lasting Integrity]]. During her time there, Blended often receives glares and looks of distrust from [[Honorspren\|honorspren]]. Although she is the inkspren representative to Lasting Integrity, and considered to be of the more diplomatic among her fellow inkspren, it is clear there is no love lost between her and honorspren. Blended dislikes the honorspren and their legal system.
 
 ### Adolin's Trial
-In preparation for [[Adolin Kholin\|Adolin Kholin's]] trial, she trained him in the ways of honorspren law, however; during the actual trial, Blended testified against Adolin stating that although she wanted the trial to be fair, her hatred of humans "also is." After Adolin's trial, she admits that she was the one to suggest the [[Deadeye\|deadeye]] [[Mayalaran\|Mayalaran]] as the final witness.
+In preparation for [[Adolin Kholin\|Adolin Kholin's]] trial, she trained him in the ways of honorspren law, however; during the actual trial, Blended testified against Adolin stating that although she wanted the trial to be fair, her hatred of humans "also is."  After Adolin's trial, she admits that she was the one to suggest the [[Deadeye\|deadeye]] [[Mayalaran\|Mayalaran]] as the final witness.
 
 ### Return to inkspren homeland
-After the trial and the revelation that Maya and the other deadeyes chose to abandon their [[Immortal Words\|Oaths]] with their [[Radiant\|Radiants]], she decides to leave Lasting Integrity and return to her people in order to share the news with them.
+After the trial and the revelation that Maya and the other deadeyes chose to abandon their [[Immortal Words\|Oaths]] with their [[Knights Radiant\|Radiants]], she decides to leave Lasting Integrity and return to her people in order to share the news with them.
 
 ## Relationships
 ### Adolin

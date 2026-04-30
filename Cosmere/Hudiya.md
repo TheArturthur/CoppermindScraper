@@ -14,7 +14,7 @@
 
 
 **Hudiya**, Callsign: **Hurl**, is a cadet in the [[DDF\|DDF]] [[Flight school\|flight school]]. She is a part of [[Skyward Flight\|Skyward Flight]] and [[Spensa\|Spensa's]] wingmate, prior to her death.
-Her callsign, Hurl, comes from a joke Hudiya made during the cadet's first lesson in the [[Starfighter\|starfighter]] simulators, where most of the cadet's crashed their [[Poco\|Pocos]] instead of flying them. Hurl is from [[Igneous Cavern\|Igneous Cavern]].
+Her callsign, Hurl, comes from a joke Hudiya made during the cadets' first lesson in the [[Starfighter\|starfighter]] simulators, where most of the cadets crashed their [[Poco\|Pocos]] instead of flying them. Hurl is from [[Igneous Cavern\|Igneous Cavern]].
 
 ## Contents
 
@@ -33,12 +33,12 @@ Her callsign, Hurl, comes from a joke Hudiya made during the cadet's first lesso
 
 
 ## Appearance and Personality
->“*A little fear, a little history, those things don’t mean anything. Only what we do means anything.*”
+>“*A little fear, a little history, those things don’t mean anything. Only what we do means anything. *”
 \-[4]
 
 
  
-Hurl has a lean, athletic build, and blonde hair that long enough to wear in a ponytail. She can be rather messy and is not in the habit of making her bed. She is also known to snore quite loudly. Outside of class, Hurl spends a lot of her spare time training, either in the centrifuge, lifting weights, or swimming (of which she is less fond). She is disappointed that she has yet to throw up in the centrifuge.
+Hurl has a lean, athletic build, and blonde hair that is long enough to wear in a ponytail. She can be rather messy and is not in the habit of making her bed. She is also known to snore quite loudly. Outside of class, Hurl spends a lot of her spare time training, either in the centrifuge, lifting weights, or swimming (of which she is less fond). She is disappointed that she has yet to throw up in the centrifuge.
 Hurl is an emotionally open person and wears her heart on her sleeve. She is a confident, eager, and fun-loving. She is rather competitive and often plays games or makes bets with her flightmates. She has a very carefree personality and sees life as a game and a joke. Hurl becomes more solemn following the deaths of [[Bim\|Bim]] and [[Morningtide\|Morningtide]], and struggles to find fun in flying.
 Hurl will make it known if she is upset with someone, and will become hostile and cold towards them. As well as this, Hurl will become aggressive and challenge someone trying to assert authority over her if she does not believe they are justified in giving her orders. She can be quite blunt and brash with her remarks, yet she is also self-reflective of her treatment of others and will admit and apologize when she has unfairly treated someone harshly.
 Hurl is an impulsive person who does not have qualms with taking risks and does not always acknowledge the seriousness of her situation. Her impatience and higher tolerance for risk during training and battle has led to several moments where Hurl has been in either simulated or real danger. She thinks highly of her own flying abilities and does not like sitting on the sidelines of a fight. Her stubbornness and overconfidence has led her to actively ignore warnings from her comrades during battle, leading to disastrous results.
@@ -49,7 +49,7 @@ Hurl is an impulsive person who does not have qualms with taking risks and does 
 
 
 As someone who passed the flight school entrance exam, Hurl is highly knowledgeable about piloting and [[Starfighter\|starfighters]]. She does not seem to have any prior practical experience in starfighters from before flight school. Ultimately she trains to pilot a [[Poco\|Poco]], perform aerial maneuvers, and use its weaponry. Hurl is aware of flight school traditions prior to starting her training as a cadet and believed the rumor that cadets were expelled if they ejected from their aircraft was to weed out cowards from the [[DDF\|DDF]].
-She is an excellent flier, skilled at using a [[Light-lance\|light-lance]], and hunting down [[Varvax\|Krell]] during battle, however, her enthusiasm can cross into over-eagerness and recklessness. She does not like flying in loops, and keeps trying to name flight moves after herself.
+She is an excellent flier, skilled at using a [[Light-lance\|light-lance]], and hunting down [[Varvax\|Krell]] during battle; however, her enthusiasm can cross into over-eagerness and recklessness. She does not like flying in loops, and keeps trying to name flight moves after herself.
 Prior to joining flight school, Hurl was in the student [[Digball\|digball]] team, in the position of carrier. She was highly talented and known as one of the best in the league. She finds flying gives her a similar, though larger, adrenaline rush than sports. Although she enjoyed athletics, she finds that she misses her team more than she misses the game itself.
 
 ## History
@@ -60,7 +60,7 @@ Like many of the other members of Skyward Flight, Hurl crashed her hologram [[Po
 \-Hurl after crashing into FM during simulation training[10]
 
 Hurl enjoyed the [[Light-lance\|light-lance]] ring game, and in her eagerness took the course at a higher speed than was necessary. Although she did well on the first round, she crashed on the second. She did not care much that she had lost, instead having just enjoying the game they got to play.
-A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. Hurl survived the battle, however, lost two of her other flightmates: [[Bim\|Bim]] and [[Morningtide\|Morningtide]].
+A few days later, Skyward Flight was once again sent into battle against the Krell, this time fighting alongside full pilots. Hurl survived the battle; however, she lost two of her flightmates: [[Bim\|Bim]] and [[Morningtide\|Morningtide]].
 When Spensa tried to talk to Hurl during [[IMP\|IMP]] training, Hurl quickly extracted herself from the conversation to avoid talking with her fellow cadet. Hurl was paired with [[Kimmalyn\|Kimmalyn]] during the training, however, during their run Kimmalyn got caught within the radius of Hurl's IMP causing herself to crash. Later, when the flight was given extra drills, Hurl blamed Spensa, due to the other cadet showing off. When Spensa almost came to blows with Jorgen, Hurl watched on in interest.
 
 >“*Hurl keeps trying to name new moves after herself, but we figure the ‘Hurl maneuver’ really ought to have several loops in it or something.*”
@@ -72,13 +72,13 @@ After witnessing Spensa bravely follow [[Nedd\|Nedd]] into the shipyard to try a
 >“*I’m sorry for how I treated you. It was just a…shock, when I found out. But you’re not him, and I’m not either, regardless of what I feel sometimes.*”
 \-Hurl's apology to Spensa for treating her harshly[4]
 
-Several weeks later, during simulation practice, Hurl explained [[Digball\|digball]] to Spensa while they practiced then asked Spensa about what she did before joining the [[DDF\|DDF]]. Hurl was impressed by how Spensa would help provide food for her mother's business, complimenting her and remarking that she found Spensa to be a baddass. After the class, Hurl subtly invited Spensa to join the female Skyward cadets in their room again, however, Spensa declines, not wanting to cause them trouble.
+Several weeks later, during simulation practice, Hurl explained [[Digball\|digball]] to Spensa while they practiced then asked Spensa about what she did before joining the [[DDF\|DDF]]. Hurl was impressed by how Spensa would help provide food for her mother's business, complimenting her and remarking that she found Spensa to be badass. After the class, Hurl subtly invited Spensa to join the female Skyward cadets in their room again, however, Spensa declines, not wanting to cause them trouble.
 Not long after the end of class, Skyward Flight were called to battle and ordered to take up position near one of the AA guns. While the squad waited, Hurl and Spensa discussed how many Krell they would try and kill and Hurl aired her frustration at being excluded from the main fight. When the cadets were given the green light to join the battle, Hurl and Spensa began chasing down a Krell ship before breaking away to assist Kimmalyn, who had picked up several tails. After helping Kimmalyn escape, Hurl and Spensa chased a Krell ship away from the battle and managed to successfully destroy it. When Kimmalyn called for help once more, the pair split up so that Hurl had time to reignite her ship's shields. Hurl began chasing another Krell, however, picked up several tails of her own. Ignoring the advice given to her by her teammates, Hurl continued after the Krell, despite taking several hits to her shields, and successfully destroyed the enemy ship. To try and escape the two ships still tailing her, Hurl flew upwards to try and get in range of the AA guns so they could shoot down the ships chasing her, losing her shield in the process. Despite Kimmalyn's attempt to destroy Hurl's tails, the Krell successfully hit Hurl's ship, destroying the wing and causing it to plummet towards the ground. Refusing to eject, Hurl tried to land her [[Starfighter\|starfighter]], and despite almost succeeding, crashed into the planet's surface.
 
 >“*Return to the stars, sail them well, warrior.*”
 \-Part of an elegy, spoken by Jorgen at Hurl's funeral[12]
 
-Scouts that went to investigate the crash site discovered that the [[Acclivity ring\|acclivity ring]] of Hurl's starfighter had been destroyed beyond repair and nothing salvageable remained in the wreckage. Spensa, who was later joined by Jorgen, set out to find Hurl's body after discovering that the lack of salvage would mean her flightmate's body would not be recovered for several weeks. The pair found her crashed starfighter quite easily and discovered that Hurl likely died on impact. Spensa retrieved Hurl's pilots pin to take back for her family, then Jorgen and Spensa built a pyre in the wreckage and set it alight. Spensa returned the pin to Cobb to be passed on to Hurl's family.
+Scouts that went to investigate the crash site discovered that the [[Acclivity ring\|acclivity ring]] of Hurl's starfighter had been destroyed beyond repair and nothing salvageable remained in the wreckage. Spensa, who was later joined by Jorgen, set out to find Hurl's body after discovering that the lack of salvage would mean her flightmate's body would not be recovered for several weeks. The pair found her crashed starfighter quite easily and discovered that Hurl likely died on impact. Spensa retrieved Hurl's pilot's pin to take back for her family, then Jorgen and Spensa built a pyre in the wreckage and set it alight. Spensa returned the pin to Cobb to be passed on to Hurl's family.
 Following her death, Cobb writes to Hurl's parents to explain how she died. Although the Admiral of the DDF was usually tasked with this duty, Cobb did not trust what [[Ironsides\|Ironsides]] would say to the grieving parents and decided to take on the responsibility himself.
 
 ## Relationships
@@ -106,7 +106,7 @@ Spensa views Hurl as a hero who died bravely and has a low tolerance for anyone 
 ### Other Relationships
 [[Nedd\|Nedd]] and [[Arturo\|Arturo]]: Hurl often jokes around with Nedd and Arturo. During their free time they plays games such as wall-ball together, with Hurl often beating Nedd.
 [[FM\|FM]]: Hurl and FM have a friendly and teasing relationship. During their time rooming together, FM, Kimmalyn, and Hurl would brainstorm new flight maneuvers and note them in Hurl's notebook.
-[[Kimmalyn\|Kimmalyn]]: During their time rooming together, Kimmalyn, FM, and Hurl would brainstorm new flight maneuvers and note them in Hurl's notebook. Kimmalyn feels intense guilt over Hurl's death and blames herself for the tragedy, having been unsuccessful in trying to destroy the Krell that had ultimately shot the other women down.
+[[Kimmalyn\|Kimmalyn]]: During their time rooming together, Kimmalyn, FM, and Hurl would brainstorm new flight maneuvers and note them in Hurl's notebook. Kimmalyn feels intense guilt over Hurl's death and blames herself for the tragedy, having been unsuccessful in trying to destroy the Krell that had ultimately shot the other woman down.
 ## Trivia
 Hurl's characterization serves as a contrast to Spensa, to show a path that Spensa could have taken.
 Brandon always planned for Hurl to die.

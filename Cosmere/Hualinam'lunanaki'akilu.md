@@ -38,6 +38,7 @@
 
 
 ## Appearance and Personality
+ 
 Cord appears to be in her late teens or early twenties. She is tall and has a bronze skin tone and beautiful rusty hair that she wears long. [[Syl\|Syl]] describes Cord as "more solid" than the Alethi.
 Cord is very brave and adventurous, and she likes proving to herself that she can do things even though they are strange, new, and frightening. Although her twin [[Gift\|brother]] follows [[Vorinism\|Vorinism]], she does not.
 

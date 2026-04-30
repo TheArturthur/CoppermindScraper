@@ -8,6 +8,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*The Almighty cannot die. People can die. Heralds can die. Even Honor can die. But Honor, people, and Heralds will all live again- transformed, Soulcast through His Power. I'm still learning. We all are. The Book of Endless Pages cannot be filled ... though your father made a very nice addition to the text."*”
 \-Godeke to Adolin Kholin[1]
 
@@ -42,7 +44,7 @@ He's a scholarly and curious man, packing books with him for the trip to [[Shade
 Godeke is an Edgedancer and as such has access to the surges of Abrasion and Progression.
 
 ## History
-Godeke used to be an ardent before his bond was formed and he joined the [[Knights Radiant\|Radiant]] forces in [[Urithiru\|Urithiru]]. He states he used to be "deformed" all his life, and his [[Nahel bond\|Nahel bond]] allowed him to heal and become as he has always seen himself. His reference to [[The Book of Endless Pages\|The Book of Endless Pages]] could possibly indicate he belonged to the [[Devotary of Sincerity\|Devotary of Sincerity]]. His bonded a [[Cultivationspren\|Cultivationspren]] named [[Archinal\|Archinal]], who presents in the [[Cognitive Realm\|Cognitive Realm]] as a short woman in robes, made entirely of vines and crystal. He claims to have had some experience in matters of diplomacy. He speaks [[Thaylen\|Thaylen]] as well as [[Alethi\|Alethi]].
+Godeke used to be an ardent before his bond was formed and he joined the [[Knights Radiant\|Radiant]] forces in [[Urithiru\|Urithiru]]. He states he used to be "deformed" all his life, and his [[Nahel bond\|Nahel bond]] allowed him to heal and become as he has always seen himself. His reference to [[The Book of Endless Pages\|The Book of Endless Pages]] could possibly indicate he belonged to the [[Devotary of Sincerity\|Devotary of Sincerity]]. He is bonded to a [[Cultivationspren\|Cultivationspren]] named [[Archinal\|Archinal]], who presents in the [[Cognitive Realm\|Cognitive Realm]] as a short woman in robes, made entirely of vines and crystal. He claims to have had some experience in matters of diplomacy. He speaks [[Thaylen\|Thaylen]] as well as [[Alethi\|Alethi]].
 
 ### The Evacuation of Hearthstone
 Godeke was one of the Edgedancers brought with the *[[Fourth Bridge\|Fourth Bridge]]* to help evacuate the civilians and heal the battling Radiants in [[Hearthstone\|Hearthstone]]. He was guiding a group of refuges to the airship when [[Leshwi\|Leshwi]] flew by closely being followed by [[Kaladin\|Kaladin]]. The shardblade of the Edgedancer almost hit her but only sliced her robes.

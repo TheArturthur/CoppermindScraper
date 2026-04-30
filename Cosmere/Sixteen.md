@@ -30,7 +30,7 @@ When [[Shallan Davar\|Shallan Davar]] came to Lasting Integrity hunting [[Restar
 ## Trivia
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-Given Sixteen's origins on Scadrial and the fact that he does not seem to eat or drink, fans have speculated that he is a magical being of some kind (such as a [[Cognitive Shadow\|Cognitive Shadow]] or a [[Kandra\|kandra]]) or that he can somehow subsist solely on [[Investiture\|Investiture]]. However, Brandon has provided very limited information when asked about him.
+Given Sixteen's origins on Scadrial and the fact that he does not seem to eat or drink, fans have speculated that he is an [[Investiture\|Invested]] being of some kind (such as a [[Cognitive Shadow\|Cognitive Shadow]] or a [[Kandra\|kandra]]) or that he can otherwise somehow subsist solely on Investiture. However, Brandon has provided very limited information when asked about him.
 
 
 https://coppermind.net/wiki/Sixteen

@@ -2,14 +2,13 @@
 |-|-|
 ||
 |**Ethnicity**|Herdazian|
-|**Ruled by**|King of Herdaz|
+|**Ruled by**|[[King of Herdaz\|King of Herdaz]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Herdaz** is a country in the north-eastern portion of Roshar. Covering 1,155,000 Km, it is Roshar's seventh largest country by area. Herdaz is organized as a monarchy, ruled over by a hereditary monarch.
-The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
+**Herdaz** is a country in the north-eastern portion of Roshar. The people from Herdaz are called Herdazians, and can be found in many surrounding countries.
 
 ## Contents
 
@@ -28,10 +27,14 @@ The people from Herdaz are called Herdazians, and can be found in many surroundi
 3. [[#Economy]] 
 
 
-4 People and Culture. [[#People and Culture]] 
+4 Culture. [[#Culture]] 
+
+4. [[#People]] 
+
+4. [[#Land disputes]] 
+
 
 4. [[#Cuisine]] 
-4. [[#People]] 
 4. [[#Religion]] 
 4. [[#Language]] 
 
@@ -48,86 +51,97 @@ The people from Herdaz are called Herdazians, and can be found in many surroundi
 
 ## Geography
 Herdaz is a coastal nation in the north-east of Roshar, covering approximately one million square kilometres of land. Most of its jagged coastline lies on the [[Reshi Sea\|Reshi Sea]], while a small part of it faces [[Steamwater Ocean\|Steamwater Ocean]] and the [[Bay of Elibath\|Bay of Elibath]]. From the south, Herdaz borders [[Jah Keved\|Jah Keved]] on two rivers and [[Alethkar\|Alethkar]] on land. Across the sea, it is close to a number of [[Reshi Isles\|Reshi Isles]]. It lies around the same lattitude as Iri and Rira.
-Most of the country is a series of long and narrow peninsulas jutting out into the sea, and a single larger one separating the island of [[Akak\|Akak]] from the rest of the Reshi archipelago. Their territory also includes a singular island of unknown name, situated north of Akak. The Herdazian interior appears to be rather flat, with a single major river dividing the western and eastern halves of the country, and a number of smaller, shorter coastal rivers. Though there are cities there, none of them are considered to be of global importance.
-It appears to be a verdant and grassy area.
+Most of the country is a series of long and narrow peninsulas jutting out into the sea, and a single larger one separating the island of [[Akak\|Akak]] from the rest of the Reshi archipelago. Their territory also includes a singular island of unknown name, situated north of Akak. The Herdazian interior appears to be rather flat, with a single major river dividing the western and eastern halves of the country, and a number of smaller, shorter coastal rivers. Though there are cities there, none of them are considered to be of global importance. Covering 1,155,000 Km, it is Roshar's seventh largest country by area.
+Due to its humid and temperate climate, Herdaz is especially lush and verdant compared to surrounding nations, though not as green as Shinovar in the far west of Roshar. This is also the reason for their largely agrarian based lifestyle and economy. Along the northern coast, massive crab-like greatshells called [[Yu-nerig\|Yu-nerig]] roam the beaches. These creatures prefer to inhabit the tips of the Herdazian peninsulas.
 
 ## History
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[5]
+\-Taravangian[6]
 
 
-The area that would come to be known as Herdaz was once inhabited by [[Singer\|Singers]] before the arrival of humanity from [[Ashyn\|Ashyn]]. Shortly after humanity's arrival from Ashyn and colonization of the land that would come to be known as Shinovar, they began to violently expand and colonize land across Roshar, which included this land. Some Singers, in an attempt to fight back the invasion, turned to [[Odium\|Odium]] and became the [[Fused\|Fused]], whilst others refused Odium's power and remained simply Singers.
+The area that would come to be known as Herdaz was once inhabited by [[Singer\|Singers]] before the arrival of humanity from [[Ashyn\|Ashyn]]. Shortly after humanity's arrival from Ashyn and colonization of the land that would come to be known as Shinovar, they began to violently expand and colonize land across Roshar, which included this land.  Some Singers, in an attempt to fight back the invasion, turned to [[Odium\|Odium]] and became the [[Fused\|Fused]], whilst others refused Odium's power and remained simply Singers.
 During the [[Silver Kingdoms\|Silver Kingdoms]] era, what would come to be Herdaz was part of the kingdom of [[Rishir\|Rishir]], which additionally encompassed modern [[Reshi Isles\|Reshi Isles]] as well as northern [[Jah Keved\|Jah Keved]], [[Alethkar\|Alethkar]] and [[Tu Bayla\|Tu Bayla]].
 At some point, the people living in this particular region of Rishir intermingled with the remaining singer population, birthing people with a mixed Rishir and Singer heritage. Modern Herdazians still show signs of their ancient Singer heritage in their carapace nails and higher rate of asexuality compared to other ethnicities. It is uncertain when Herdaz became its own country, though it is considered relatively new, and is said to have occurred after the [[Scouring of Aimia\|scouring of Aimia]].
 Herdaz has a long history of conflict with the Alethi. It was one of the first conquests of the warlord [[Sadees\|Sadees]], though like many others, it did not remain within his sons' grasp after his death. Following this event, various other conflicts have occurred, with Herdaz becoming known as a traditional first step in Alethi aggression.
 Much later, following [[Gavilar Kholin\|Gavilar Kholin's]] unification of Alethkar, a change of dynasties occurred in Herdaz after a Reshi house rose to power, and the new monarch began threatening the Alethi borders in an attempt to test them. The Alethi responded by sending armies led by the king's brother, [[Dalinar Kholin\|Dalinar Kholin]], who spent about four years campaigning in the borderlands, shaping the modern Alethkar-Herdaz border.
-Prior to the [[True Desolation\|True Desolation]], it seems the country wasn't doing very well, as numerous Herdazians elected to leave it, with some only coming back from time to time while others never returned. However, it appears to have weathered the [[Everstorm\|Everstorm]] without much destruction, as the [[Voidbringer\|Voidbringers]] focused on bringing down their neighboring states. When Dalinar contacted them to get their support for his coalition, they initially believed that he was trying to trick them into letting him invade them.
-Following the fall of Alethkar, a number of Alethi forces withdrew to Herdaz in an attempt to mount an organized resistance, among them forces led by [[Sheler\|Sheler]] and [[Relis Ruthar\|Relis Ruthar]]. While most refugees have been folded under the command of the Herdazian general [[Dieno enne Calah\|Dieno enne Calah]], the cooperation between the two armies could get heated at times, as brightlord Sheler was captured and put up for execution after assaulting the local women. During the invasion of Herdaz by the [[Fused\|Fused]] armies, there was a refugee crisis of people fleeing from the war.
+Prior to the [[True Desolation\|True Desolation]], it seems the country wasn't doing very well, as numerous Herdazians elected to leave it, with some only coming back from time to time while others never returned. However, it appears to have weathered the [[Everstorm\|Everstorm]] without much destruction, as the [[Voidbringer\|Voidbringers]] focused on bringing down their neighboring states. When Dalinar contacted them to get their support for his coalition, they initially believed that he was trying to trick them into letting him invade them. After the arrival of the [[Everstorm\|Everstorm]], the Herdazian military was augmented by some of the singers previously enslaved by the Herdazians. These singers joined the war because they were promised emancipation in exchange for their service.
+Following the fall of Alethkar, a number of Alethi forces withdrew to Herdaz in an attempt to mount an organized resistance, among them forces led by [[Sheler\|Sheler]] and [[Relis Ruthar\|Relis Ruthar]]. While most refugees have been folded under the command of the Herdazian general [[Dieno enne Calah\|Dieno enne Calah]], the cooperation between the two armies could get heated at times, as brightlord Sheler was captured and put up for execution after assaulting the local women. During the invasion of Herdaz by the [[Fused\|Fused]] armies, there was a refugee crisis of people fleeing from the war. After the Fused captured Herdaz, they moved most of their military away from the country.
+Despite a rebellion attempt led by Dieno, Herdaz remains under [[Retribution\|Retribution's]] control following the conclusion of the contest of champions.
 
 ## Government and Politics
 ### Government
-Herdaz is ruled by an unnamed king from a new dynasty that has only come into power sometime before the year 1150. Little is known about him and his family, other than that he has no daughters, and that he is from a powerful Reshi house. The kingdom has a single set of [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]] that are passed down through the royal line.
-Herdaz might have at least one [[Soulcaster\|Soulcaster]], though the source on that is unreliable. It is certain, however, that there are no [[Oathgate\|Oathgates]] there.
+Herdaz is ruled by an [[King of Herdaz\|unnamed king]] from a new dynasty that has only come into power sometime before the year 1150. The monarchy is loved by the people. The Herdazian government has outlawed human slavery. The monarchy is known to refuse to get involved in land disputes, appointing magistrates to oversee regions.
+The kingdom is divided into 203 officially recognised family ranches. Each of these ranches has its own glyph chimney. Once per year, the king invites commoner representatives from each ranch to attend their designated chimney, releasing synchronized trails of smoke to represent unity. The kingdom has a [[Shardblade\|Shardblade]] and a single set of [[Shardplate\|Shardplate]] that are passed down through the royal line. Herdaz might have at least one [[Soulcaster\|Soulcaster]], though the source on that is unreliable.
 
 ### International Relations and Diaspora
 #### Alethkar
 Herdaz was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations.
-Their current border is shaped from centuries of aggression, particularly from the border conflicts occuring between 1150 and 1154, brought about by a change in dynasties in Herdaz. This, along with previous conflicts, brought about tensions even in times of peace between them, leading to them initially distrusting Alethkar when they approached them with offers to join the [[Coalition of monarchs\|Coalition of monarchs]] after the start of the [[True Desolation\|True Desolation]].
-At some point after their initial contact, Herdaz and Alethkar became allied in the war against [[Odium\|Odium's]] forces. However, tensions still exist between the two nations and people due to their history of conflict, and military and governmental authorities in Herdaz are quick to punish Alethi generals for crimes committed against their people.
-A large number of Herdazians live in Alethkar as part of a wider Herdazan diaspora. However, due to tensions between their nations and general feelings of Alethi supremacy, they are victims of stereotypes and discrimination.
+Their current border is shaped from centuries of aggression, particularly from the border conflicts occuring between 1150 and 1154, brought about by a change in dynasties in Herdaz. This, along with previous conflicts, brought about tensions even in times of peace between them, leading to them initially distrusting Alethkar when they approached them with offers to join the [[Coalition of monarchs\|Coalition of monarchs]] after the start of the [[True Desolation\|True Desolation]]. Herdazians are careful to avoid outright offending the military power sharing their southern border, yet they intentionally diverge in culturally significant ways.
+At some point after their initial contact, Herdaz and Alethkar became allied in the war against [[Odium\|Odium's]] forces. However, tensions still exist between the two nations and people due to their history of conflict, and military and governmental authorities in Herdaz are quick to punish Alethi generals for crimes committed against their people. A large number of Herdazians live in Alethkar as part of a wider Herdazan diaspora. However, due to tensions between their nations and general feelings of Alethi supremacy, they are victims of stereotypes and discrimination.
 
 #### Elendel Basin
-Following the True Desolation, some Herdazians seem to have migrated to [[Scadrial\|Scadrial]], with some known to have lived in [[Bilming\|Bilming]] selling chouta as of 348 [[Catacendre\|PC]]. How they are treated or thought about by wider society or by the government is currently unknown.
+Following the True Desolation, some Herdazians may have migrated to [[Scadrial\|Scadrial]], with some known to have lived in [[Bilming\|Bilming]] selling chouta as of 348 [[Catacendre\|PC]]. How they are treated or thought about by wider society or by the government is currently unknown.
 
 ### Military
-Little is currently known about the Herdazian military, however, it is known that they are strong enough to resist Alethi and Fused incursions and defend their territory, they only fell to the Singer incursion after many months of fighting. Furthermore, it is notable enough for Alethkar to quickly approach them with offers to join the Coalition of Monarchs after the start of the True Desolation. Though they are not considered to be of true strategic value.
+Herdaz has prioritized a military that relies more on cleverness, comradery, and hope. Promotions to higher ranks are usually given with term limits, designed to incentivize hard work and leadership, as well as to encourage humility and the ability to step down gracefully once one has passed their fighting prime. When a soldier exhibits legendary merit, they are awarded an honorific—enne—after their name and are no longer beholden to term limits. Dieno enne Calah, also known as the Mink, is one such legend.
+The Herdazian military is strong enough to resist both Alethi and Fused incursions and defend their territory; they only fell to the Singer incursion after many months of fighting. Furthermore, it is notable enough for Alethkar to quickly approach them with offers to join the Coalition of Monarchs after the start of the True Desolation. Though Herdaz isn’t considered to be of true strategic value. After the arrival of the [[Everstorm\|Everstorm]], the Herdazian military was augmented by some of the singers previously enslaved by the Herdazians. These singers joined the war because they were promised emancipation in exchange for their service.
 
 ### Economy
-They have prominent trade routes with Jah Keved, and Azir, formed during the time of Sadees.
+Herdaz is an agrarian society, and their main exports are crops and hogs’ hide. The nation”s agricultural output is higher per capita than larger neighbors like Alethkar and Jah Keved.
+They also have prominent trade routes with Jah Keved and Azir, formed during the time of Sadees. Hog ranching is a common occupation in Herdaz. Meat is sold freshly butchered or preserved as heavily salted jerky, then shipped off promptly for sale in neighboring nations, lest it become spoiled from humidity. Herdazian hog leather is used for clothing, armor, saddles, tools, and furniture, and it’s famous for its smooth grain and durability. They farm both melons and [[Longroot\|longroots]].
+Herdazians seldom hunt [[Yu-nerig\|Yu-nerig]] due to the significant danger the creatures pose. The greatshells prefer to inhabit the tips of the Herdazian peninsulas, while the lower regions of the peninsulas can typically be used for fishing and catching smaller crustaceans. Fishing is seen as a job for the poor and landless. As sticking to well-established fishing spots doesn’t even guarantee safety, fisherfolk generally take turns keeping watch, ready to abandon their day’s catch at a moment’s notice in the event of a greatshell sighting. Herdazians also hand weave cloaks, which are sold for about a hundred marks each.
 
-## People and Culture
-### Cuisine
-Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread. [[Chull\|Chull]] head is considered a delicacy. The most famous Herdazian dish is [[Chouta\|chouta]], fried [[Soulcasting\|Soulcast]] meat wrapped tightly in flatbread and topped with sauce, though sometimes the meat is replaced with shellfood.
-
+## Culture
 ### People
   <<Lopen\|Lopen>> with a <<Sparkflicker\|sparkflicker>>
-Herdazians are a people of Ashynite and Singer descent, although which Ashynite ethnic group or groups they descend from is currently unknown. They are brown-skinned, darker than the [[Alethi\|Alethi]], but paler than the [[Makabak\|Makabaki]], and brown-haired. They are most similar in appearance to the [[Reshi\|Reshi]], to the point where they can be mistaken for them. However, they are also one of several races on Roshar with [[Singer\|singer]] blood in their ancestry, though it's not quite as apparent as it is among the [[Unkalaki\|Unkalaki]]. The most visible sign of their heritage are their crystalline, slate-colored fingernails, which are strong enough to start a fire with a proper tool, and are sometimes described as reminiscent of carapace. Apart from that, they have a higher tendency to be asexual than other races without singer ancestors.
-Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in.
+Herdazians are a people of Ashynite and Singer descent, although which Ashynite ethnic group or groups they descend from is currently unknown. They are brown-skinned, darker than the [[Alethi\|Alethi]], but paler than the [[Makabak\|Makabaki]], and brown-haired. They are most similar in appearance to the [[Reshi\|Reshi]], to the point where they can be mistaken for them.
+However, they are also one of several races on Roshar with [[Singer\|singer]] blood in their ancestry, though it's not quite as apparent as it is among the [[Unkalaki\|Unkalaki]]. The most visible sign of their heritage are their crystalline, slate-colored fingernails (tinted towards the cuticle), which are strong enough to start a fire with a proper tool, and are sometimes described as reminiscent of carapace. Apart from that, they have a higher tendency to be asexual than other races without singer ancestors, and they have an innate resistance to Rosharan poisons, including [[Firemoss\|firemoss]] and other harmful substances used recreationally, so higher doses of toxins are needed for them to feel the same effects.
+Herdazians are rather tight-knit people. They have large families - a single person can easily be related to half the country - and will stick together, the bonds between them stronger than whatever country they happen to find themselves in. There are numerous stereotypes about Herdazians. Many Alethi believe they all wear [[Sparkflicker\|sparkflickers]], and more malicious ones claim they're all stupid, though both are repeatedly proven wrong. Across western Roshar, they are considered extremely boastful, and the women are said to be tough and difficult to impress, even in the opinion of their kinsmen.
+Herdazians are mentioned, by Alethi, as looking very similar to one another, to the point where they often cannot be told apart. Receiving a sparkflicker from one’s parents is an important coming-of-age experience for the children of ranchers, as the gift signifies they can be trusted with starting fires. Herdazians also hold fast to the belief that every person is valuable to society, no matter their role. For example, asexual Herdazians don’t face social pressure to procreate and are instead celebrated for their accomplishments.
+
+#### Land disputes
+Disputes over land ownership are common in Herdaz. While most Herdazians who emigrate elsewhere seldom return, it can be treacherous when they do so to reclaim their ancestral farms. The monarchy refuses to get involved, leaving the messy task of determining ownership to appointed land magistrates. To reclaim land, a Herdazian must not only prove that their bloodline is more closely tied to the land’s first recorded owners, but also prove greater fitness to care for the land than its current owners. These disputes can stretch on for decades without resolution, and most result in the two families agreeing to merge or duel each other for the land.
+
+### Cuisine
+Herdazian cuisine uses mostly a wide variety of shellfood, as well as flatbread. [[Chull\|Chull]] head is considered a delicacy. The most famous Herdazian dish is [[Chouta\|chouta]], fried [[Soulcasting\|Soulcast]] meat wrapped tightly in flatbread and topped with sauce, though sometimes the meat is replaced with shellfood. The Herdazians also eat hog meat, and [[Tsupales\|Tsupales]]. They enjoy eating [[Ornachala\|Ornachala]] as breakfast.
 
 ### Religion
-In ancient times, Herdazians followed a non-Vorin polytheistic religion. They retain some memory of this religion, and occasionally pray to the old gods. Exact details about this religion are currently unknown.
-As of 1175, the majority of Herdazians appear to be adherents of [[Vorinism\|Vorinism]], though they practice their own variety of the faith. Herdazian Vorinism has various differences from orthodox Vorinism, for example, their doctrine permits male literacy.
+In ancient times, Herdazians followed a non-Vorin polytheistic religion. They retain some memory of this religion, and occasionally pray to the old gods. However, as of 1175, the majority of Herdazians appear to be adherents of [[Vorinism\|Vorinism]]. Though they practice their own variety of the faith. Herdazians care less about the formal establishment of the Vorin church. Instead, they prioritize their individual connections to the deity the church venerates. Herdazian women cover their safehands with gloves or long sleeves, following the tradition of limiting use of their left hands, but doing so in a slightly more practical manner.
+Most Herdazian homes have, besides the large chimney for warmth, a smaller ornamental chimney to carry smoke from burning glyphwards during personal worship. Some Herdazians carry sparkflickers engraved with religious symbols, though it’s considered tacky to flaunt them. Herdaziam Vorinism also permits male literacy.
 
 ### Language
-The Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning.
+Herdaz’s primary language is called Herdazian. The Herdazian language belongs to the Vorin family, much like Alethi and Veden. The language has, according to [[Lopen\|Lopen]], names for all the kinds of cousins. There are numerous words in Herdazian to refer to a person without using their name, all of which have slightly different meaning. It is likely however, that other languages, such as Reshi in the north and Alethi or Veden near the border, are also spoken.
 
 #### Terms
-*calah* - An old Herdazian term for .
-*chorlano* - unknown meaning, used by Lopen to refer to [[Huio\|Huio]]
-*chortana* - a woman, possibly an intimidating or powerful one
+*calah* - an old Herdazian term for .
+*chalispo* - old friend
+*chorlano* - someone who always causes trouble by trying to make things better
+*chortana* - an intimidating or powerful woman
+*chouta*- a type of street food popular among the Herdazian people
 *enne* - an old Herdazian honorific, roughly meaning "great."
 *gancho/a* - a casual way to refer a male or female superior
-*gon* - appears to be a generic term
-*hooch* - Lopen uses this one for [[Sigzil\|Sigzil]], and refuses to explain its meaning
-*hregos* - unknown meaning, used by Lopen to refer to [[Thaylen\|Thaylen]] sailors
-*mancha* - [[Lopen\|Lopen]] sometimes uses this term when addressing [[Lunamor\|Lunamor]] and, on one occasion, uses it to refer to himself in his own thoughts
-*misra* - unknown meaning, used by Lopen to refer to [[Cord\|Cord]]
-*moolie* - A term for someone mute or quiet
-*naco* - seems to be used for someone younger, like a child
+*gon* - abbreviation for gancho
+*hooch* - someone who takes life too serious
+*hregos* - skyeel
+*mancha* - Cousin, or someone who is like a cousin
+*misra* - Someone who is full of energy and zest for life
+*moolie* - a term for someone mute or quiet
+*naco* - child
+*nanna* - mother, often used as “ma’am”
 *ornachala* - unknown meaning, possibly some sort of Herdazian food
-*penhito* - an insult
-*velo* - unknown meaning, used by Lopen to refer to [[Talik\|Talik]]
+*palidmah* - formal coming-of-age dress
+*penhito* - a grouchy elderly man
+*puelo arandan* - blasphemous
+*tsupales* - dumplings
+*velo* - an islander
 ### Diaspora
   Map of the known Herdazian diaspora around Roshar
 >“* Gon, I haven't been to Herdaz since I was a baby. There are as many Herdazians in Alethkar and Jah Keved these days as there are in our homeland.*”
-\- Lopen[12]
+\- Lopen[16]
 
 
-The Herdazian people are spread across a wide disaspora covering much of eastern Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation.
-The Push-pull factors that motivate Herdazian migration are currently unknown. Furthermore, it is unknown if they intentionally migrated for greater opportunity, or if they were in some way displaced from their homeland.
-When a large group of Herdazians come together, they often form their own districts, such as [[Little Herdaz\|Little Herdaz]] in [[Highprince\|highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. Members of this diaspora population often retain their cultural practices and identity - among others, [[Chouta\|chouta]] is a Herdazian street food that gained much popularity in the warcamps, and can even be bought in [[Kholinar\|Kholinar]].
-There are numerous stereotypes about Herdazians. Many Alethi believe they all wear [[Sparkflicker\|sparkflickers]], and more malicious ones claim they're all stupid, though both are repeatedly proven wrong. Across western Roshar, they are considered extremely boastful, and the women are said to be tough and difficult to impress, even in the opinion of their kinsmen. Herdazians are mentioned, by Alethi, as looking very similar to one another, to the point where they often cannot be told apart.
-It is currently unclear if the wider Herdazian diaspora includes countries or areas other than Alethkar, Jah Keved, and the Elendel Basin in demographically significant numbers.
+The Herdazian people are spread across a wide disaspora covering much of eastern Roshar. According to some reports, almost half of all Herdazians on [[Roshar\|Roshar]] don't actually live in Herdaz, but rather in the surrounding countries, particularly Alethkar and Jah Keved. As of 348 [[Catacendre\|PC]], part of the diaspora lives on Scadrial within the Elendel Basin, likely motivated by the dangerous situation on Roshar during the True Desolation. The factors on either side that motivate Herdazian migration are currently unknown. Furthermore, it is unknown if they intentionally migrate for greater opportunity, or if they are in some way displaced from their homeland. 
+When a large group of Herdazians come together, they often form their own districts, such as [[Little Herdaz\|Little Herdaz]] in [[Highprince\|highprince]] [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. Members of this diaspora population often retain their cultural practices and identity - among others, [[Chouta\|chouta]] is a Herdazian street food that gained much popularity in the warcamps, and can even be bought in [[Kholinar\|Kholinar]]. It is currently unclear if the wider Herdazian diaspora includes countries or areas other than Alethkar, Jah Keved, and the Elendel Basin in demographically significant numbers.
 
 ## Notable Herdazians
 For more Herdazians, see :Category: Herdazians.

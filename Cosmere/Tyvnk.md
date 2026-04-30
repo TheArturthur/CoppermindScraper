@@ -13,7 +13,7 @@
 **Tyvnk** is [[Rysn\|Rysn's]] 'pet' [[Shin\|Shin]] grass on [[Roshar\|Roshar]].
 
 ## History
-Five months into her apprenticeship under her *[[Babsk\|babsk]]*, [[Vstim\|Vstim]], Rysn accompanied him on a trip to Shinovar. She noted several features of the local flora that seemed odd to her, particularly the grass. She considered it too thick and messy-looking, and she also thought it was dull because it was not "smart" enough to retract due to movement or [[Highstorm\|highstorms]]. Vstim noticed that Shinovar seemed to discomfort Rysn, and he talked to her about the distinction between "odd" and simply different. He gave her a small pot and ordered her to take a cutting of the grass and care for it in order to help her make her a better merchant.
+Five months into her apprenticeship under her *[[Babsk\|babsk]]*, [[Vstim\|Vstim]], Rysn accompanied him on a trip to Shinovar. She noted several features of the local flora that seemed odd to her, particularly the grass. She considered it too thick and messy-looking, and she also thought it was dull because it was not "smart" enough to retract due to  movement or [[Highstorm\|highstorms]]. Vstim noticed that Shinovar seemed to discomfort Rysn, and he talked to her about the distinction between "odd" and simply different. He gave her a small pot and ordered her to take a cutting of the grass and care for it in order to help her make her a better merchant.
 
 >“*You're going to learn to care for that plant. I want you to keep it with you until you stop thinking of it as odd.*”
 \-Vstim, to Rysn[2]

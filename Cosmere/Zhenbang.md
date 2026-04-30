@@ -30,8 +30,8 @@ The Atlantic ocean has two major landmasses, one in the northern ocean the other
 ### The Countries in the Free Kingdoms
 
 ## History
-The [[Incarna\|Incarna]] were a people with a large knowledge of [[Silimatic\|Silimatics]]. They created the [[Smedry Talent\|Smedry Talents]] using some unknown method. They fell due to something related to the Talents. [[Allekatrase\|Alcatraz the First]] broke his people's language to prevent anyone from using the knowledge for destruction.
-The [[Librarian\|Librarians]] were created when [[Biblioden\|Biblioden]] taught that the world was too strange and dangerous for most people to know about. This started the mass censorship and alteration of history that continues in the Hushlands. The Librarians control all knowledge in the Hushlands. Any time the Librarians take over a new territory, it is added to the Hushlands. History books are changed so it appears that the new territory was always part of Hushland history. The most recent Librarian acquisition is the continent of Australia.
+The [[Incarna\|Incarna]] were a people with a large knowledge of [[Silimatic\|Silimatics]]. They created the [[Smedry Talent\|Smedry Talents]] using some unknown method. They fell due to something related to the Talents. [[Allekatrase\|Alcatraz the First]] broke his people's language to prevent anyone from using the knowledge for destruction. 
+The [[Librarian\|Librarians]] were created when [[Biblioden\|Biblioden]] taught that the world was too strange and dangerous for most people to know about. This started the mass censorship and alteration of history that continues in the Hushlands. The Librarians control all knowledge in the Hushlands.  Any time the Librarians take over a new territory, it is added to the Hushlands. History books are changed so it appears that the new territory was always part of Hushland history. The most recent Librarian acquisition is the continent of Australia.
 
 
 

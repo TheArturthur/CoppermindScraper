@@ -11,7 +11,7 @@
 
 
 **Blain Charleston** is [[David Charleston\|David Charleston's]] father. [[Steelheart (Epic)\|Steelheart]] kills him after Blain accidentally shoots and wounds him. He is one of the [[Faithful\|Faithful]].
-In the alternate reality with Firefight, Blain has the powers of Steelheart but is a hero to the people, fighting against other evil [[Epic\|Epics]].
+In the alternate reality with Firefight, Blain has the powers of Steelheart but is a hero to the people, fighting against other evil [[Epic\|Epics]]. 
 
 ## Contents
 

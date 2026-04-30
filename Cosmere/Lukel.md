@@ -32,7 +32,7 @@
 
 ## Appearance and Personality
   With his half-siblings
-Lukel is of average Arelene height with a lean build and a strikingly handsome hawkish face. His hair is parted in the center and flopped down on either side of his face. He likes to wear customarily fashionable outfits, like a gold-embroidered blue vest and tan trousers.
+Lukel is of average Arelene height with a lean build and a strikingly handsome hawkish face. His hair is parted in the center and flopped down on either side of his face.  He likes to wear customarily fashionable outfits, like a gold-embroidered blue vest and tan trousers.
 He has a good and loving relationship with his family. Lukel likes to quip and constantly teases his family and friends.
 Lukel is a very good merchant; when he closes a good deal, he becomes proud, jovial and makes even more jokes.
 
@@ -65,7 +65,7 @@ He was one of the first to explain politics in [[Arelon\|Arelon]] to [[Sarene\|S
 
 ### Jalla
 He met his Svordish wife [[Jalla\|Jalla]] at school and married her a month before Sarene’s arrival to Arelon.
-She is a fierce bargainer and helps Lukel with his trades. He does acknowledge her as brilliant and beautiful.
+She is a  fierce bargainer and helps Lukel with his trades. He does acknowledge her as brilliant and beautiful.
 He asked her to bargain when they were sent to Elantris claiming her Svordish blood, but she refused to leave them behind.
 
 ## Quotes

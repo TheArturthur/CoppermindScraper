@@ -1,12 +1,16 @@
 |**Leyten**|
 |-|-|
 ||
+|**Died**|Palahanan 1175|
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
-|**Groups**|[[Knights Radiant\|Knights Radiant]] [[Bridge Four\|Bridge Four]], Kholin army, Sadeas army |
+|**Bonded With**|[[Ethenia\|Ethenia]]|
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army, Sadeas army |
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Leyten** is a [[Windrunner\|Windrunner]] and member of [[Bridge Four\|Bridge Four]] on the planet [[Roshar\|Roshar]]. He is the quartermaster of the Windrunners under [[Kaladin Stormblessed\|Kaladin Stormblessed]], and as such is responsible for keeping them supplied with uniforms and other items.
 
@@ -16,7 +20,9 @@
 2 History. [[#History]] 
 
 2. [[#Bridge Four]] 
-2. [[#Dalinar.27s Army .281173.E2.80.94.29]] 
+2. [[#Kholin Army .281173.29]] 
+2. [[#The Windrunners .281174.29]] 
+2. [[#Second Battle of Narak]] 
 
 
 3 Trivia. [[#Trivia]] 
@@ -24,7 +30,7 @@
 
 
 ## Appearance and Personality
-Leyten is thick-bodied and has an oval-shaped face. He is tall, stout, and has light, short curly hair. He has an affable nature, finding it easy to talk to people no matter their rank.
+Leyten is thick-bodied and has an oval-shaped face. He is tall, stout, and has light, short curly hair. He has an affable nature, finding it easy to talk to people no matter their rank. A defining part of him is his neatness, his way of doing things in a tidy way, which is why he is the quartermaster for Bridge Four. For example, he packed Kaladin's travel rucksack for the Conquest of Shinovar, and Kaladin notes that no one packs like Leyten. He likes it when work is boring, and would rather be sorting things, packing, etc, than killing.
 
 ## History
 ### Bridge Four
@@ -33,15 +39,24 @@ On the first bridge run after [[Kaladin\|Kaladin's]] promotion to bridgeleader, 
 Leyten’s wounds soon became infected, causing Kaladin to enlist Rock and Teft to help collect [[Knobweed\|knobweed]] sap for its antiseptic qualities. The knobweed sap worked, and soon Leyten was up and about, though he initially had a lot of trouble walking due to his crushed leg.
 Leyten’s condition continued to improve, even joining the rest of [[Bridge Four\|Bridge Four]] in the chasms for spear training and harvesting. After the success of using the [[Parshendi\|Parshendi]] carapace armor, Leyten was tasked with crafting additional sets for every man in Bridge Four. He expertly crafted it to fit on their current leather jerkins and caps, along with arm and shin guards to match. Leyten insisted on ornamenting the helms with ridges and cuts, as well as cutting the breastplates and guards in toothlike patterns.
 
-### Dalinar's Army (1173—)
+### Kholin Army (1173)
 After the [[Battle of the Tower\|Battle of the Tower]], Leyten joined [[Dalinar\|Dalinar]]’s army along with the rest of the bridgemen. He continued working on armor, fixing issues as gear arrived from the quartermaster. He also assisted in guarding the various members of [[House Kholin\|House Kholin]]. In the mornings, Leyten trained with [[Natam\|Natam]] and a few others. When Kaladin gave [[Shen\|Shen]] a spear, he encouraged the parshmen to train with Leyten and Natam, who were willing to teach him. When [[Renarin\|Renarin]] joined [[Bridge Four\|Bridge Four]], Leyten helped teach him how to carry a bridge.
 Leyten was one of the bridgemen who was guarding Dalinar when [[Rlain\|Rlain]] surrendered himself to the [[Alethi\|Alethi]]. He survived the [[Everstorm\|Everstorm]] and the [[Battle of Narak\|preceding battle]]. At [[Urithiru\|Urithiru]], he was among the members of Bridge Four who accompanied [[Shallan Davar\|Shallan Davar]] when she confronted [[Re-Shephir\|Re-Shephir]]. He was shaken by the event and had nightmares about it for some time.
+
+### The Windrunners (1174)
 He became a [[Squire\|squire]] to [[Kaladin Stormblessed\|Kaladin Stormblessed]] at some point during their training, and so he participated in the running competition that [[Sigzil\|Sigzil]] held to test the benefits of [[Stormlight\|Stormlight]]. He was one of the slowest due to stopping for food during the run. Alongside his training, he kept on handling the supply, but as organization of the [[Bridge crew\|bridge crews]] was a mess, he couldn't deal with all the requisition orders.
 Leyten presumably fought in the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and the preceding battle in defense of Urithiru along with the rest of Bridge Four present.
-Following the battle at Thaylen City, Leyten bonded a spren of his own. He later went on a mission to [[Akinah\|Akinah]] with several other Windrunners. He reported a strange weather pattern around the island as well as swarms of strange small shadows (later discovered to be [[Sleepless\|hordelings]] that had bred with [[Larkin\|larkin]]) hovering in the clouds, but was unsure if they were alive or were spren. One came from behind and drained him of his Stormlight. He subsequently fell in the ocean and had to be rescued by [[Lyn\|Lyn]] and [[Sigzil\|Sigzil]].
-He also accompanies the *[[Fourth Bridge\|Fourth Bridge]]* on its expedition to [[Hearthstone\|Hearthstone]], defending the airship against the [[Fused\|Fused]] assault along with a dozen other Windrunners.
+Following the battle at Thaylen City, Leyten bonded a spren of his own, named Ethenia. He later went on a mission to [[Akinah\|Akinah]] with several other Windrunners. He reported a strange weather pattern around the island as well as swarms of strange small shadows (later discovered to be [[Sleepless\|hordelings]] that had bred with [[Larkin\|larkin]]) hovering in the clouds, but was unsure if they were alive or were spren. One came from behind and drained him of his Stormlight. He subsequently fell in the ocean and had to be rescued by [[Lyn\|Lyn]] and [[Sigzil\|Sigzil]].
+He also accompanies the *[[Fourth Bridge\|Fourth Bridge]]* on its expedition to [[Hearthstone\|Hearthstone]], defending the airship against the [[Fused\|Fused]] assault along with a dozen other Windrunners. 
 Following Kaladin's retirement, Leyten gathers around fifty Windrunners to show respect to their former highmarshal. He and a majority of the Bridge Four Windrunners join [[Dalinar Kholin\|Dalinar Kholin's]] forces on the battlefield in [[Emul\|Emul]].
 Later, he goes with Dalinar on his trip to find [[Ishar\|Ishar]], and finds that he and the other four Windrunners are no match for Ishar's power as Ishar tethers all five to the stone with a "glowing rope that drained the Stormlight out." After Ishar flees, Dalinar has Leyten and the other Windrunners search the Herald's camp, finding unnatural corpses of spren within the [[Physical Realm\|Physical Realm]]. The group then returns to Emul, unnerved by their experience. Leyten later reunited with Bridge Four to participate in Teft's funeral.
+
+### Second Battle of Narak
+>“*... Sig, I *like* it when the work is boring. Sometimes I even think I'd rather be back in the chasms, tinkering with my improvised armor, instead of out here having to kill. Does that make me a bad soldier?*”
+\-Leyten to Sigzil[10]
+
+
+Leyten is sent with [[Sigzil\|Sigzil]] and other members of Bridge Four to defend the four [[Narak\|Narak]] Plateaus from the Fused army to prevent them from taking the Shattered Plains. He fights alongside the rest of the Radiants in various skirmishes and acts as Sigzil's right-hand man in battle. Leyten wishes he could be doing boring work rather than killing, to which Sigzil agrees. Upon the discovery of Moash among the enemy forces, Leyten swears there will be a reckoning when he is discovered. During a battle, Leyten finds Moash, and despite Sigzil's warnings, moves to go fight him alone. After Sigzil arrives, Moash and Sizgil talk before Leyten's spren, Ethenia, is killed with an [[Anti-Light\|anti-Light]] knife, and Leyten is killed with the same knife while shocked by Ethenia's death. Leyten's death rattle foreshadows Sigzil and his spren [[Vienta\|Vienta's]] death at the hands of Moash. Sigzil mourns Leyten, and Vienta is concerned that what happened to Ethenia will just as easily happen to her.
 
 ## Trivia
 Leyten is based on a friend in Brandon's writing group named Alan.

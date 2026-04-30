@@ -4,6 +4,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Yes, it is the capital of the kingdom of Emul, and is one of the most ancient cities in the world.*”
 \-Sigzil
 

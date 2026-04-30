@@ -1,3 +1,5 @@
+> [!info] It has been suggested that this page be moved to .Please discuss the proposed move on the article's talk page.
+
 |**Sarpenthyn**|
 |-|-|
 ||
@@ -31,7 +33,7 @@ Sarpenthyn are generally found in central or western Roshar. Although they are a
 While traveling as the [[Highstorm\|highstorm]] to investigate the status of [[Urithiru\|Urithiru]], [[Dalinar Kholin\|Dalinar Kholin]] saw a group of creatures that look like sarpenthyn squeezing through holes in the underbrush to hide from the highstorm somewhere in [[Triax\|Triax]] or [[Tu Fallia\|Tu Fallia]]. He did not recognize them, however, and when he tried to take time to look at one in detail the [[Stormfather\|Stormfather]] told him that they had to keep moving.
 
 ## Trivia
-The singular form of "sarpenthyn" is not known.
+The singular form of "sarpenthyn" is "sarpenth".
 
 
 https://coppermind.net/wiki/Sarpenthyn

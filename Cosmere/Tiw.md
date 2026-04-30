@@ -1,16 +1,24 @@
 |**Tiw**|
 |-|-|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
+|**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
+>“*What, in Tiw's holy name, is *that*?*”
+\-Sefawynn[1]
 
-Tiw is a deity worshiped by the [[Weswarans\|Weswarans]].
-Tiw is called "the warrior".
-According to [[Sefawynn\|Sefawynn]], he once bound the wolf [[Fenris\|Fenris]] and was fated to eventually be killed by him. However, when the [[Black Bear\|Black Bear]] freed Fenris, Fenris consumed the goddess [[Friag\|Friag]] instead, and Tiw escaped his fate.
-Sefawynn swears by "Tiw's holy name"..
+**Tiw**, the warrior, is a god in the [[Earth (Frugal Wizard)\|alternate medieval dimension]].
+
+## History
+>“*The gods don't fight because they fear the monsters, and the end. They know it should have been Tiw who died.*”
+\-Ealstan[2]
+
+Many years ago, the great wolf, [[Fenris\|Fenris]], took off Tiw's hand and tasted his blood. Tiw then bound Fenris to the land, but was fated to eventually be killed by the wolf. Later, during the [[Battle of Badon\|battle of Badon]], the [[Black Bear\|Black Bear]] freed Fenris. The wolf was in possession of the implements of [[Metodgodas\|metodgodas]], which would bring about the end of gods. Tiw and the other gods retreated from the battle, not wanting to risk the end of the world. However, [[Friag\|Friag]] returned to the battle when she heard the men crying out in pain, death, and desperation. After pushing back the Black Bear with the finest boasts, and binding him to the land as if he were a [[Wight\|wight]], Friag was weakened. The wolf still remained unbound, and under the Black Bear's orders, Fenris took the opportunity to consume the weakened god, and he killed her instead of Tiw. Because of Friag's sacrifice, Tiw escaped his fate.
+People in the alternate medieval dimension, such as [[Sefawynn\|Sefawynn]], sometimes swear by Tiw's holy name.
 
 ## Trivia
-In the real world's mythology, Tiw is the Old English name of the deity equivalent to the better-known Norse god Tyr. The modern English word Tuesday comes from this name ("Tiw's day").
+It is likely that Tiw is the alternate medieval dimension's version of the real-world Norse god, Týr, as "Tiw" is Old English for "Týr".
+In real-world Norse mythology, the monstrous wolf Fenrir bit off Týr's right hand after realising that the gods had bound him.
+In modern English, the word "Tuesday" is said to be named after Týr ("Týr's day").
 
 
 https://coppermind.net/wiki/Tiw

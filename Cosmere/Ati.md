@@ -34,6 +34,7 @@ This article is about the [[Vessel\|Vessel]]. For the Aon, see [[/wiki/Aon#Ati]
 4 Relationships. [[#Relationships]] 
 
 4. [[#Leras]] 
+4. [[#Tanavast]] 
 4. [[#Vin]] 
 4. [[#Kelsier]] 
 
@@ -50,13 +51,13 @@ For more images, see [[Ati/Gallery\|/Gallery]].
 
 
 ### Appearance
-Little is known about Ati's appearance; he has flame-red hair, and a welcoming, friendly smile. When taking on human form, he wears a robe, and has shadows moving beneath his skin, akin to spines or spider legs. They push against his form, making it pucker outwards erratically. How intense this effect is varies; it's sometimes less pronounced, and sometimes more. When speaking to Vin, Ati uses [[Reen\|Reen's]] voice, though he sounds more aged and fatherly.
+Little is known about Ati's appearance; he has flame-red hair, and a welcoming, friendly smile. When taking on human form, he wears a robe, and has shadows moving beneath his skin, akin to spines or spider legs. They push against his form, making it pucker outwards erratically. How intense this effect is varied; it's sometimes less pronounced, and sometimes more. When speaking to Vin, Ati uses [[Reen\|Reen's]] voice, though he sounds more aged and fatherly.
 
 ### Personality
 #### Mortal
-As a mortal, Ati was known for being kind and generous. After taking up Ruin, he fought against the destructive impulses it brought about for many years. Over time, however, Ruin won out, and adapted this kindness to its own intent. This fundamentally warped his personality, leaving him nearly unrecognizable from his original self.
+As a mortal, Ati was known for being kind and generous. After taking up Ruin, he fought against the destructive impulses it brought about for many years. Over time, however, Ruin won out, and adapted this kindness to its own Intent. This fundamentally warped his personality, leaving him nearly unrecognizable from his original self.
 During his mortal life, he was driven to kill Adonalsium, either due to desire for power or a belief in the necessity of the action. Displaying the willingness to kill, either for a cause he believed in, or to gain power.
-According to Leras, he always believed that nothing is eternal and that everything eventually passes. This is possibly what made him a suitable Vessel for Ruin, and was possibly what led to Ruin becoming filtered from destruction to entropy and inevitable decay.
+According to Leras, he always believed that nothing is eternal and that everything eventually passes. This is possibly what made him a suitable Vessel for Ruin, and was possibly what led to Ruin becoming filtered from destruction to entropy and inevitable decay. [[Tanavast\|Tanavast]] sought his help against Odium due to his kindness and his bold decision to take up Ruin, but Ati refused.
 After dying and losing his Connection to Ruin, he quickly accepted his death and passed into the [[Beyond\|Beyond]]. If he continued to exist in the Physical or Cognitive Realms instead of passing away into the Beyond, his personality would have returned to his original one, though his soul would forever carry scars from his time as a Vessel, likely keeping his personality from truly returning to normal.
 
 #### Vessel
@@ -73,11 +74,12 @@ He believes that he was never a normal man, but rather was always a Vessel await
 \-Ati[2]
 
 
-Ati is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making him one of the most powerful entities in the [[Cosmere\|cosmere]]. He is immortal, unaging, and incorporeal; he fuels the magics of [[Hemalurgy\|Hemalurgy]] and, in part, [[Feruchemy\|Feruchemy]]. Thanks to being heavily Invested in [[Scadrial\|Scadrial]], he can alter any text other than what is written in metal, changing it to suit his needs. He can also speak to any person wearing a hemalurgic spike. This all comes at a cost of a drastic personality change, as his mind was forced to adapt to [[Ruin\|Ruin's]] intent.
+Ati is a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making him one of the most powerful entities in the [[Cosmere\|cosmere]]. He is immortal, unaging, and incorporeal; he fuels the magics of [[Hemalurgy\|Hemalurgy]] and, in part, [[Feruchemy\|Feruchemy]]. Thanks to being heavily Invested in [[Scadrial\|Scadrial]], he can alter any text other than what is written in metal, changing it to suit his needs. He can also speak to any person wearing a hemalurgic spike. This all comes at a cost of a drastic personality change, as his mind was forced to adapt to [[Ruin\|Ruin's]] Intent.
 Apart from his supernatural abilities, Ati has proven to be adept at deception, when he wishes to be. His alterations are subtle enough to trick the unaware into thinking they are still reading the original text. When appearing in person, he can easily play a role of another; most notably, he was speaking in [[Reen\|Reen's]] voice in [[Vin\|Vin's]] head for years without tipping her off to the fact that she wasn't hearing her own thoughts, and he mimicked [[Kelsier\|Kelsier's]] voice to [[Spook\|Spook]] to drive him to serve Ruin's purposes. Despite his destructive, megalomaniacal tendencies, he is easily able to play someone kind and affable.
 
 ## History
-Nothing is known about Ati's origins and life prior to the [[Shattering\|Shattering]], other than that he came from [[Yolen\|Yolen]]. For unknown reason, ten-thousand years before the True Desolation, he and a group of others broke cosmere's creator deity, Adonalsium, into sixteen pieces. Of those sixteen, he took up [[Ruin\|Ruin]], and departed alongside [[Preservation\|Preservation]] for an empty star system that would eventually become [[Scadrial\|Scadrial]].
+Nothing is known about Ati's origins and life prior to the [[Shattering\|Shattering]], other than that he came from [[Yolen\|Yolen]]. He and Leras were considered by [[Tanavast\|Tanavast]] to be heroes, though the reasons for this moniker, or if others would deem them as such, is currently unknown.
+For unknown reason, ten-thousand years before the True Desolation, he and a group of others broke cosmere's creator deity, Adonalsium, into sixteen pieces. Of those sixteen, he took up [[Ruin\|Ruin]], and departed alongside [[Preservation\|Preservation]] for an empty star system that would eventually become [[Scadrial\|Scadrial]].
 
 For Ati's actions as Ruin, see [[/wiki/Ruin#History]].
 Following his death at the hands of [[Vin\|Vin]], Ati's body reappeared at the site where the two clashed. His [[Cognitive Shadow\|Cognitive Shadow]] briefly manifested in Scadrial's [[Cognitive Realm\|Cognitive Realm]], where he was initially confused, wondering if he'd found himself on [[Vax\|Vax]]. Unfortunately for him, he manifested near [[Kelsier\|Kelsier]], who promptly decked him in the face as retaliation. With glum acceptance, Ati faded away into the [[Beyond\|Beyond]].
@@ -89,7 +91,14 @@ Following his death at the hands of [[Vin\|Vin]], Ati's body reappeared at the s
 
 
 It's unknown what, if any, relationship there was between Ati and Leras prior to the [[Shattering\|Shattering]]. The two left [[Yolen\|Yolen]] together, though it's unclear whether this was due to personal attachment or simply because they realized the need for their Shards to balance each other out. However, Leras tricked Ati; first convincing him to create Scadrial together, under the pretense that he'd be allowed to destroy it later, then sacrificing himself to trap Ruin's mind within the [[Well of Ascension\|Well of Ascension]].
-By the time of Ruin's release, the two are extremely hostile to each other. Ati is dismissive of Leras, mocking his weakness and the limitations placed on him by his intent. Leras hates how Ati used his power to twist and change their religion to worship only himself, and bemoans the change in Ati's personality brought about by the Shard. Neither Vessel is afraid of the other; Ati, because he doesn't believe Preservation is capable of opposing him, and Leras, because he's already dead and thus out of Ati's reach.
+By the time of Ruin's release, the two are extremely hostile to each other. Ati is dismissive of Leras, mocking his weakness and the limitations placed on him by his Intent. Leras hates how Ati used his power to twist and change their religion to worship only himself, and bemoans the change in Ati's personality brought about by the Shard. Neither Vessel is afraid of the other; Ati, because he doesn't believe Preservation is capable of opposing him, and Leras, because he's already dead and thus out of Ati's reach.
+
+### Tanavast
+>“* I reached out to the others for help. The strong ones, the ones smarter than I. The heroes. Leras, known as Preservation, who had always had such a strong nature. Ati, perhaps kindliest among us, who had boldly taken up Ruin*”
+\- Tanavast[8]
+
+
+Tanavast considered Ati to be a very kind and strong man, and to be one smarter than himself. Furthermore, he labels him as a hero. Due to this, Tanavast sought help from Ati to deal with the rising threat of Rayse, though Ati ultimately refused his pleas.
 
 ### Vin
   <<Vin\|Vin>> and Ruin

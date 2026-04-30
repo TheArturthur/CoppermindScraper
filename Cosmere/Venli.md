@@ -7,14 +7,12 @@
 |**Siblings**|[[Eshonai\|Eshonai]]|
 |**Abilities**|[[Regal\|Forms of Power]], [[Order of Willshapers\|Willshaper]]|
 |**Bonded With**|[[Timbre\|Timbre]]|
-|**Titles**|The Last ListenerVoice of Lady LeshwiVoice of the Lady of Wishes Voice of Odium The TraitorThe Broken Sister|
+|**Titles**|The Last Listener, Voice of Lady Leshwi, Voice of the Lady of Wishes , Voice of Odium , The Traitor, The Broken Sister|
 |**Species**|[[Singer\|Singer]]|
 |**Nationality**|[[Listener\|Listener]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
-
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I feel like a relic. Already I seem like a cast-off ruin from a nearly forgotten day.*”
 \-Venli[4]
@@ -38,10 +36,23 @@
 3. [[#True Desolation]] 
 3. [[#Surgebinder]] 
 3. [[#Urithiru]] 
+3. [[#Return to the Listeners]] 
+3. [[#Night of Sorrows]] 
 
 
-4 Trivia. [[#Trivia]] 
-5 Notes. [[#Notes]] 
+4 Relationships. [[#Relationships]] 
+
+4. [[#Jaxlim]] 
+4. [[#Eshonai]] 
+4. [[#Demid]] 
+4. [[#Rlain]] 
+4. [[#Ulim]] 
+4. [[#Timbre]] 
+4. [[#Leshwi]] 
+
+
+5 Trivia. [[#Trivia]] 
+6 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -100,9 +111,10 @@ While she was in Marat, [[Dalinar Kholin\|Dalinar Kholin]] pulled her into one o
 ### Surgebinder
 During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Venli remained mostly out of the fighting, serving as a translator. She accompanied Odium to witness Dalinar's presumed fall from grace. After he managed to recover and summon [[Honor's Perpendicularity\|Honor's Perpendicularity]] instead, she crept away and returned to the ships, where she swore the [[Immortal Words\|First Ideal]], bonding with [[Timbre\|Timbre]] and becoming a [[Surgebinder\|Surgebinder]]. This allowed Timbre to live inside her [[Gemheart\|gemheart]] and capture the [[Voidspren\|voidspren]] there, letting Venli retain her Odium-derived red eyes.
 Following the battle, Venli remained on the Thaylen ships. Upon hearing the former [[Parshmen\|Parshmen]] note that they have no idea who their people are, she decided to tell them the real story of the [[Listener\|listeners]].
+At some point, Venli comes into the employ of the Fused [[Leshwi\|Leshwi]], serving as her Voice. She also begins recruiting a small group of singers who plan to escape from the war, from both Odium's forces and the coalition. As an apology for refuting her desire to invade Urithiru, Leshwi offers Raboniel Venli to serve as her voice, an offer which Raboniel accepts.
 
 ### Urithiru
-Venli was brought along with [[Raboniel\|Raboniel]] and a scouting troop of *makay-im* during the invasion of [[Urithiru\|Urithiru]] to serve as her Voice. Upon the initial seizure, she was attacked by a human soldier, and killed him in a panic. Afterwards, both she and Timbre attuned the [[Rhythm\|Lost]], although Raboniel merely admonished her to carry a knife in the future.
+Venli was brought along with [[Raboniel\|Raboniel]] and a scouting troop of *makay-im* during the invasion of [[Urithiru\|Urithiru]]. Upon the initial seizure, she was attacked by a human soldier, and killed him in a panic. Afterwards, both she and Timbre attuned the [[Rhythm\|Lost]], although Raboniel merely admonished her to carry a knife in the future.
 While she was the Voice of Raboniel, Venli regularly reported to [[Leshwi\|Leshwi]]. Raboniel was aware of this, and offered to have someone deliver the reports for her in order to save time.
 After learning that [[Secretspren\|secretspren]] and [[Chaosspren\|chaosspren]] didn't work, she realized that she could practice her powers as a Willshaper without being caught, and did so in a secluded corner of the tower.
 
@@ -116,12 +128,50 @@ As Venli waited with Dul and Mazish for an Oathgate transfer to Kholinar, Timbre
 
   With her <<Spren\|spren>>
 Venli watched as the humans desperately defended the Radiants against the Pursuer's troops, and at Timbre's urging, revealed her status as a Radiant to Leshwi. Contrary to Venli's expectations, she was overjoyed, and asked Venli if Timbre knew of an honorspren named Riah. Venli relayed the message that most of the old spren were killed in the Recreance, but despite this, the fact that the spren had forgiven the singers was enough to convince Leshwi that the Radiants must be protected, and she joined the humans in fighting Lezian's troops. During the fighting, Rlain arrived in the atrium, setting up a triage in the aftermath of the battle. He took command, telling the group that they should head for an Oathgate on the misconception that Venli had a Blade. She quickly disabused him of this notion, and while he was contemplating what to do, Kaladin, having just sworn the [[/wiki/Knights Radiant#Immortal Words]], arrived and activated the Oathgate to the Shattered Plains for them.
+
+### Return to the Listeners
 After leaving the tower, Venli located the listener settlement on the map, finding that [[Thude\|Thude]] and Jaxlim, among others, were still alive. Although the group treated Venli with suspicion, and in some cases, outright hostility, they allowed her through to see her mother, who was the only one besides Venli herself who remembered the songs. Having brought a Reacher in the hope that it would heal her mind, Venli began to sing the Song of Mornings, Jaxlim's favorite of the old songs. Just when Venli was about to lose hope, Jaxlim recognized her, and Cultivation finally accepted her Words.
+Venli reconnects with her mother, who has now bonded a Reacher, along with several other Listeners and she and the Fused integrate into the life of the Listeners, and she learns about the Listeners' new peace with the chasmfiends. Thude sings her the Song of the Chasmfiends, and Venli realizes that there must be something about the Shattered Plains that leads the chasmfiends to have to pupate there. The chasmfiends shelter the Listener settlement from the last highstorm, and the stones tell Venli to seek Narak and the fallen fourth moon of Roshar. Venli, along with the Five, Leshwi and her followers, and several chasmfiends begin the journey.
+Venli speaks with Leshwi, and helps her seek a new place among the Listeners, free from Odium. The group locate a tunnel going under the central plateau of Narak and find at the end of it Odium's Perpendicularity. [[El\|El]] and several other Fused find Venli's group of Listeners, who seek the aid of the chasmfiends to help win the [[Second Battle of Narak\|Second Battle of Narak]]. Venli secretly goes to meet with [[Sigzil\|Sigzil]], the leader of the Coalition's forces in the battle, and the two work out a deal in which [[Jasnah Kholin\|Jasnah Kholin]], as Queen of Alethkar, signs a treaty with the Listeners, giving them dominion over the Shattered Plains and thus keeping them from Odium. The Listeners join the battle on the side of Odium's forces, who take Narak. When the [[Contest of champions\|contest of champions]] begins, Venli reveals the treaty to El, who withdraws Odium's forces from the plains.
+
+### Night of Sorrows
+>“**This may not be redemption,* Venli thought. *Not yet. Maybe just…atonement. The redemption comes later, after we see if I can keep improving.**”
+\-Venli considering what she has done for the Listeners[49]
+
+
+After [[Odium\|Odium]] ascends to [[Retribution\|Retribution]], he sends a messenger to Venli's group in Narak, and they learn how to receive [[Warlight\|Warlight]] from the everstorm. She creates a passage down to what is now Retribution's Perpendicularity using her Stoneshaping, and thinks about the powerful duty that her people now have.
+
+## Relationships
+### Jaxlim
+Jaxlim is Venli's mother. Venli spends hours learning the Listener's songs from Jaxlim. Venli is annoyed by her mother on occasion but does respect her.
+The deterioration of Jaxlim's memory is a driving factor in why Venli wants to discover new forms. Initially, she wishes to discover forms of power to help heal her mother.
+Venli later helps her mother bond with a Reacher to heal her.
+
+### Eshonai
+Eshonai is Venli's older sister. Venli feels jealous of Eshonai and resents how Eshonai explores while she stays home and learns the Listener songs from Jaxlim. When Venli discovers Stormform, Eshonai is chosen to test it, which brings up emotions of jealousy for Venli again. Their relationship is somewhat fraught by Venli feeling threatened by Eshonai.
+Eshonai's death has a profound impact on Venli. When she realizes that Ulim only wants to recover Eshonai's body to have access to her shardplate, Venli is able to hear the old Rhythms again. She later forms a Nahel bond with Timbre, the Reacher that was initially going to bond Eshonai. Even after Eshonai's death, Venli feels inferior to her. She wishes that Eshonai was in her place, and tells Timbre that she has the wrong sister because she cannot resist Odium.
+
+### Demid
+Venli and Demid are once-mates and have no children together. They remain close after leaving mateform and become research partners. She watches as one of the Fused takes over his body and is shocked by the transformation. She blames herself for his death.
+
+### Rlain
+Rlain is the first living Listener that Venli discovers after the rest become Fused. She feels guilty upon speaking with him because he does not initially know the role she played in the destruction of the Listeners. Venli works with Rlain and Dabbid to free Lift to heal Kaladin and reveals her powers to him.
+
+### Ulim
+Ulim helps Venli discover Stormform. Ulim often withholds information from her and lies to her about Odium's intentions. Their relationship can be antagonistic, as he mocks her sadness over Eshonai's death.
+
+### Timbre
+Timbre is the Reacher that Venli has bonded. Timbre generally resides in Venli's gemheart, which allows Venli to attune to either the old or new Rhythms. 
+Venli first sees Timbre when she discovers Eshonai's corpse and shoos her away. The second time Timbre appears to her, Venli hides Timbre from the Fused. Timbre encourages Venli to resist Odium. She eventually helps Venli swear the First Ideal during the Battle of Thaylen City. Timbre wants Venli to work with the other Radiants, encouraging her to free Lift and to help Kaladin. Timbre consoles Venli while she grapples with her past actions and encourages her to tell Lady Leshwi about their bond. At first, Venli resists this idea. However, she eventually reveals her bond with Timbre.
+Timbre does not speak but communicates with Venli using the Rhythms.
+
+### Leshwi
+Venli serves Lady Leshwi as her Voice, speaking for her in meetings between the Fused. Leshwi tasks Venli with spying on Raboniel for her. Venli reveals her bond with Timbre to Leshwi.  This revelation causes Leshwi to fight against the Pursuer and eventually join with the Listeners in abandoning Odium.
 
 ## Trivia
 Venli is the focus character of *[[Rhythm of War\|Rhythm of War]]*, with the flashbacks split between her and [[Eshonai\|Eshonai]].
 Brandon planned to kill off Eshonai and put more emphasis on Venli from very early on in the story's development, having always considered her to be the more interesting of the two sisters.
-At present, Venli is one of only three [[Singer\|singer]] viewpoint characters in the [[Stormlight Archive\|Stormlight Archive]], alongside her sister and [[Rlain\|Rlain]].
+At present, Venli is one of only four [[Singer\|singer]] viewpoint characters in the [[Stormlight Archive\|Stormlight Archive]], alongside her sister, [[Rlain\|Rlain]], and [[El\|El]].
 
 
 https://coppermind.net/wiki/Venli

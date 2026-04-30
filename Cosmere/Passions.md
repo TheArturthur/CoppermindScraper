@@ -3,7 +3,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Don't know much blustering math...But I do know the Passions. You win when you need it most, you see.*”
 \-Yalb[1]
@@ -25,17 +25,18 @@ The **Passions** are a philosophy or religion from [[Thaylenah\|Thaylenah]] on [
 
 
 ## Philosophy
-The primary tenet of the Passions is that wanting something changes fate to draw it to you. If you need money very badly, you will win when you gamble, or if you strongly desire to visit a particular destination, you will get there even without a map. In a sense, passionate people make their own [[Fortune\|luck]]. The Passions do not have a formal theology, yet some people treat them as a religion instead of a philosophy. Belief in the Passions is reinforced by the existence of [[Spren\|spren]] on Roshar, which often appear in response to emotions.
+The primary tenet of the Passions is that wanting something changes fate to draw it to you. If you need money very badly, you will win when you gamble, or if you strongly desire to visit a particular destination, you will get there even without a map. In a sense, passionate people make their own [[Fortune\|luck]]. The Passions do not have a formal theology, yet some people treat them as a religion instead of a philosophy. The Passions also have their own temples. Belief in the Passions is reinforced by the existence of [[Spren\|spren]] on Roshar, which often appear in response to emotions. Some Thaylens even revere spren because of this.
 
 >“*The men dream terrible dreams full of premonitions, and their dread Passion creates omens.*”
-\-Kstled[6]
+\-Kstled[8]
 
 Followers of the Passions often perceive unusual events as either good or bad omens, and these omens can have an enormous effect on the morale of Thaylen sailors. An encounter with a [[Santhid\|santhid]] at sea is considered the best omen one could have, whereas the death of a ship's pet or food that goes rotten too quickly might be seen as bad omens. Omens are believed to manifest as a result of the emotions of those who witness them. Someone feeling a dread Passion may have bad dreams full of premonitions at night, and witness omens during the day. The traditional way to disperse a bad omen is to derive a good turn from it, thus proving that fate is on your side. If you can win the internal struggle to be optimistic instead of gloomy, it will reflect in the world around you.
 Although Thaylens may speak of "Dark [[Soulcasting\|Soulcasting]]" and lore holds that the most Passionate among them could reopen the "portal of worlds", the Passions do not actually have any inherent magical component.
 Followers of the Passions associate Aimians with [[Voidbringers\|Voidbringers]].
+The founding idea of the Passions, that wanting something enough draws it to you, implies the inherent corollary that those that are destitute or experience misfortune simply didn't want money or good fortune enough. Due to this, some individuals criticize it for being a victim-blaming philosophy.
 
 ### Relationship to Shards
-The Passions have their basis in traditions that were influenced by the [[Shard\|Shard]] [[Odium\|Odium]]. Odium refers to himself as an incarnation of "Passion" and many of his followers (such as the [[Fused\|Fused]] and [[Moash\|Moash]]) commonly speak of Passion that comes from or honors Odium. Although the Thaylen Passions are not directly linked to Odium, indirect connections through tradition and inspiration do exist.
+The Passions have their basis in traditions that were influenced by the [[Shard\|Shard]] [[Odium\|Odium]]. Odium refers to himself as an incarnation of "Passion" and many of his followers (such as the [[Fused\|Fused]] and [[Moash\|Moash]]) commonly speak of Passion that comes from or honors Odium.
 Another Shard named [[Ruin\|Ruin]] that formerly inhabited [[Scadrial\|Scadrial]] also spoke pointedly about passion. This may have some significance in the [[Cosmere\|cosmere]], as not all of the Shards share Ruin and Odium's regard for passion.
 
 ## Practitioners
@@ -44,12 +45,13 @@ The crew of the *[[Wandersail (1174 ship)\|Wandersail]]* maintained a strong bel
 The Passions seem to be culturally ingrained in most Thaylens. Queen [[Fen\|Fen]] and her husband [[Kmakl\|Kmakl]] both make reference to the Passions despite the pressure for Thaylen leadership to practice Vorinism. [[Rysn\|Rysn]] also maintains a belief in the Passions, despite sometimes feeling skepticism about the philosophy.
 
 ## Perception
->“*But wishing and expecting is of the Passions. A heresy. A good Vorin worries about transforming themselves.*”
-\-Elhokar Kholin[26]
+>“*The wrong people get far too much mileage out of things that sound nice. Take it from a guy who is all too capable with a lie: **nothing** is easier to sell someone than the story they want to hear. The Passions are deeply insulting if you spare even a moment to consider. I once spoon-fed broth to a trembling child in a kingdom that no longer exists... You think that kid who starved didn't **want** to eat? You think her parents didn’t want to escape the ravages of war **badly enough**? You think if they’d had more **Passion**, the cosmere would have saved them? How convenient to believe that people are poor because they didn’t **care** enough about being rich. That they just didn’t pray hard enough. So convenient to make suffering their own fault, rather than life being unfair and birth mattering more than aptitude. Or storming Passion."*”
+\-Hoid on the Passions[5]
 
 
 The Passions are generally dismissed by people from Vorin strongholds such as [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]]. [[Elhokar Kholin\|Elhokar Kholin]] calls them heretical, while [[Shallan Davar\|Shallan Davar]] and [[Navani Kholin\|Navani Kholin]] see them as a pagan pseudo-religion or set of superstitions. [[Jasnah Kholin\|Jasnah Kholin]] believes that all religions, including the Passions, are equally impossible to verify.
 Fen tells [[Dalinar Kholin\|Dalinar Kholin]] that as a result of his heresy, some of her people are calling for Thaylenah to abandon Vorinism altogether in favor of the Passions. However, the return of the [[Voidbringers\|Voidbringers]], whose culture and practice bear similarity to the Passions, has resulted in its falling further out of favor.
+[[Hoid\|Hoid]] harshly criticized the Passions for how he claims they blame the victims of suffering for simply not having enough Passion to avoid it. He also claims that it assumes a world that is far more just than reality, ignoring how life is unfair, with this unfairness only furthered by corrupt systems, such as class systems. This infuriates him and causes him to completely dismiss the Passions.
 
 ## Trivia
 A [[Fabrial\|fabrial]] such as the [[Emotion bracelet\|emotion bracelet]] may have effects that correspond to the Passions.

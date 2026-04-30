@@ -6,6 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*I wonder if they eat in the Cognitive Realm. Is a food there what it sees itself as being? I’ll have to read and see if anyone has ever eaten while visiting [[Shadesmar\|Shadesmar]].*”
 \-Geranid on cooking[1]
 
@@ -13,7 +15,7 @@
 
 ## Appearance and Personality
 Ashir is an older portly man, with a shaved head and a gray beard that he keeps neatly squared off. He speaks with a soft and kindly voice and enjoys talking, even when Geranid is trying to think.
-Ashir is an affable man, with a calm demeanor. His [[Calling\|Calling]] is cooking, but his interest is in chemistry, which he practices through his cooking because it allows him to eat the results. Instead of trying to create delicious meals, Ashir enjoys cooking highly experimental dishes. He tries new dishes and cooking methods which he shares with his companion Geranid. Ashir is less concerned with how a dish tastes in the end than he is with how interesting he finds the results. Although his chemistry comes in the form of cooking, he still records the results of his experimental meals. Ashir cooks many of his dishes on a hotplate powered by a fabrial.
+Ashir is an affable man, with a calm demeanor. His [[Calling\|Calling]] is cooking, but his interest is in chemistry, which he practices through his cooking because it allows him to eat the results.  Instead of trying to create delicious meals, Ashir enjoys cooking highly experimental dishes. He tries new dishes and cooking methods which he shares with his companion Geranid. Ashir is less concerned with how a dish tastes in the end than he is with how interesting he finds the results. Although his chemistry comes in the form of cooking, he still records the results of his experimental meals. Ashir cooks many of his dishes on a hotplate powered by a fabrial.
 Despite his love of cooking, Ashir wonders if he should change Callings. He has less of a passion for cooking than he once did, and does not see how his cooking will one day serve the [[Herald\|Heralds]] in their fight to reclaim the [[Tranquiline Halls\|Tranquiline Halls]]. Ashir does not believe that they will need to eat food, and has little interest in only being able to cook ideal dishes once he dies and passes to the Spiritual Realm. He has something of a sweet tooth, and enjoys food that is traditionally reserved for women. Ashir is far more practiced in scientific theory than he is in mathematics, but Geranid is the opposite. Ashir is also something of a philosopher, posing theoretical questions that cannot readily be proved or disproved.
 Ashir and Geranid have come to love one another over their years spent together. Despite their love, they remain simple companions because they have dedicated the majority of their lives to serving the [[Almighty\|Almighty]] and do not wish to make a mistake at the very end.
 

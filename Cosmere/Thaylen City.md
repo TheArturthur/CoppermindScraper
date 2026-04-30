@@ -1,6 +1,7 @@
 |**Thaylen City**|
 |-|-|
 ||
+||
 |**Ruled by**|Queen [[Fen Rnamdi\|Fen Rnamdi]]|
 |**Nation**|[[Thaylenah\|Thaylenah]]|
 |**World**|[[Roshar\|Roshar]]|
@@ -12,7 +13,7 @@
 \-Dalinar explaining why the Voidbringers would attack Thaylen City next[1]
 
 
-**Thaylen City** is the capital of [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]], and the site of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+**Thaylen City** is the capital of [[Thaylenah\|Thaylenah]] on [[Roshar\|Roshar]], and the site of the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. The flag of Thaylen City contains a large seasnake like creature with a crown above its head, with three [[Mandra\|Mandras]] to its right.
 
 ## Contents
 
@@ -22,9 +23,11 @@
 2. [[#Landmarks]] 
 
 2. [[#The Oathgate]] 
+2. [[#Seven lifts]] 
 2. [[#Docks]] 
 2. [[#Temples]] 
 2. [[#Gemstone Reserve]] 
+2. [[#Clocktower of the merchant guild]] 
 2. [[#Court Square]] 
 
 
@@ -67,6 +70,9 @@ In the past, the city had a developed system of aqueducts, cisterns and sewers; 
 The ancient [[Thalath\|Thalath]] Oathgate is located on the northern-eastern edge of Thaylen City, next to the Royal Ward. Back in the [[Silver Kingdoms\|Silver Kingdoms]] Epoch, it would've been beyond the city limits, in contrast to how other major settlement of the era, like [[Kholinar\|Kholinar]] and [[Stormseat\|Stormseat]], were arranged. Presently, it has been turned into a sculpture garden, and provides an excellent view of the city. It's eventually unlocked by [[Kaladin\|Kaladin]] and [[Shallan\|Shallan]], who fly there after Queen [[Fen Rnamdi\|Fen]] agrees to ally with [[Dalinar\|Dalinar]].
 While the Oathgate was locked along with all the others, the Thaylens retained some memory of the platform's original purpose. The local folklore refers to it as a "portal of worlds", claiming that only the most [[Passions\|Passionate]] would be able to reopen it. While the story is particularly popular among young girls, the Oathgate holds great religious significance for all the Thaylens.
 
+#### Seven lifts
+Thaylen City contains the Seven Lifts, one of the world’s greatest technological marvels. Two of the seven lifts were destroyed during the True Desolation, and they were later replaced by lifts being powered by fabrials. Only Thaylen City’s most daring people use these two lifts.
+
 #### Docks
 The Thaylen docks had been one of the city's greatest points of pride before the Everstorm swept them away. They lay outside the fortifications, on the southern part of the shore, taking advantage of a natural bay there. They were constructed primarily of wood, which is why they were so easily destroyed.
 The area surrounding the docks had developed over time into a market and warehouse district. A notable feature there was the grand bazaar, a marketplace famous even in [[Alethkar\|Alethkar]]. Unfortunately, as the area was entirely constructed from wood, the Evestorm all but flattened it. This part of the city was eventually renamed to **Thaylen Field**.
@@ -76,13 +82,16 @@ Like most largest cities, Thaylenah has ten major temples, each dedicated to one
 The most notable temples are:
 
 **The Temple of [[Battah\|Battah]]** - located in the northwestern part of the Royal Ward, it's the second-oldest temple in the city. It's particularly notable for the [[Simulacrum of Paralet\|Simulacrum of Paralet]], a massive statue that once adorned the plaza in front of it. The Simulacrum was knocked over by the [[Everstorm\|Everstorm]], sending large chunks of it into the Loft Wards; Dalinar rebuilds it with his [[Bondsmith\|Bondsmith]] powers upon his first visit to the city.
-**The Temple of [[Ishi\|Ishi]]** - the oldest temple in the city. It sits in the southern portion of the Royal Ward.
+**The Temple of [[Ishar\|Ishi]]** - the oldest temple in the city. It sits in the southern portion of the Royal Ward.
 **The Temple of [[Talenelat\|Talenelat]]** - located in the central part of the Royal Ward, in a stone plaza dedicated to the Herald. A set of steps leads up to an arched enterance, and both the outer and inner walls are covered in mosaics showing Taln standing fast against the [[Voidbringers\|Voidbringers]]. The temple fared poorly against the [[Everstorm\|Everstorm]], with the entire roof having collapsed from a lightning strike, possibly because [[Odium\|Odium]] targeted it deliberately out of vengeance. It's in the temple of Talenelat that Dalinar discovers his ability to mend buildings; as such, it's the first he fixes.
 **The Temple of [[Pailiah\|Pailiah]]** - located in the north-eastern part of the Royal Ward. It's open, allowing wind to flow through it. [[Renarin\|Renarin]] goes there to pray when he begins seeing visions of the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 #### Gemstone Reserve
 For more information, see [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
 The Gemstone Reserve is a national bank of [[Thaylenah\|Thaylenah]]. It's located in the Low Ward, near one of the entrances to the Ancient Ward. The structure is build like a fortress, to protect its contents. It has no windows. Within are numerous vaults storing various gemstones, including some of the largest and most unique ones, like the [[King's Drop\|King's Drop]]. People can sell and buy their writs of ownership, allowing them to trade large sums easily.
-During the Battle of Thaylen Field, the building is destroyed by a [[Thunderclast\|thunderclast]] on orders of Odium, who wants to prevent the Radiants from acquiring the King's Drop, a [[Perfect gemstone\|perfect gemstone]].
+During the Battle of Thaylen Field, the building is destroyed by a [[Thunderclast\|thunderclast]] on orders of Odium, who wants to prevent the Radiants from acquiring the King's Drop, a [[Perfect gemstone\|perfect gemstone]]. The Thaylen people started reconstruction of the building not long after the battle.
+
+#### Clocktower of the merchant guild
+While the merchant guild has more buildings in Thaylen City, the clocktower is its main building. The large clock not only displays the time of day or night, but also the amount of time until the next highstorm hits.
 
 #### Court Square
 The Court Square is a plaza somewhere in the city; its exact location is unknown, though the name suggests it might be near the Royal Palace. During the Battle of Thaylen Field, it's assaulted by the possessed Amaram soldiers. Initially, it's protected by the highguards [[Hrdalm\|Hrdalm]] and [[Tshadr\|Tshadr]], both in [[Shardplate\|Shardplate]]; eventually, Hdralm departs to combat one of the [[Thunderclast\|thunderclasts]] attacking the city while Tshadr remains to hold the Square.
@@ -92,6 +101,7 @@ The Court Square is a plaza somewhere in the city; its exact location is unknown
   The ancient Thaylen City; in the present, this part is known as the Ancient Ward
 Thaylen City is one of the oldest settlements on [[Roshar\|Roshar]], though its exact origins are uncertain. The modern history dates it as about four thousand years old; however, the existence of the [[Oathgate\|Oathgate]] and the [[Cymatics\|cymatic]] pattern of its appearance suggest that it's much older than that. During the [[Heraldic Epochs\|Heraldic Epochs]], it was located in the [[Silver Kingdoms\|Silver Kingdom]] of [[Thalath\|Thalath]]. Its proximity to the Thalath Oathgate indicates that it might've been the capital even back then. At the time, it was a far smaller city, consisting only of the district now known as the Ancient Ward.
 The ultimate fate of Thalath and how it became [[Thaylenah\|Thaylenah]] is unknown. Thaylen City, however, retained its high status, and in the [[Era of Solitude\|Era of Solitude]] it remained the capital of the newer kingdom, as well as a major shipping and banking hub. It grew far beyond its original constraints, becoming one of the greatest metropoleis of [[Roshar\|Roshar]] alongside cities such as [[Vedenar\|Vedenar]] and [[Kharbranth\|Kharbranth]]. In the closing years of that age, it came to the attention of people researching [[Dawncities\|Dawncities]], who investigated it due to the cymatic pattern of the Ancient Ward. Among others, [[Kabsal\|Kabsal]] used its perfectly symmetrical shape as a proof of the existence of the [[Almighty\|Almighty]].
+Thaylen City was seemingly a target for [[Odium\|Odium]] in the leadup to the [[Night of Sorrows\|Night of Sorrows]], with a hefty navy seemingly having been sent there. However, as discovered by [[Jasnah\|Jasnah]], it was a ruse to get the Coalition to divert forces. After this was discovered, Odium himself appeared and debated Jasnah and [[Queen Fen\|Queen Fen]], resulting in Jasnah's loss and Queen Fen signing Thaylen City and Theylenah to Odium without the need for an invasion.
 
 ### The Everstorm
 >“*We tried to prepare, but a nation cannot upend four millennia worth of tradition at a snap of the fingers. Thaylen City is a shambles, Kholin.*”

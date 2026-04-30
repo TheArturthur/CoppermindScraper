@@ -21,7 +21,7 @@ The [[Singer\|singer]] body that Turash uses during the [[Battle of Thaylen Fiel
 Venli notes that Turash is sane and relatively reasonable, unlike many of the Fused; Odium also mentions that his mind has held firm. He is calm but very intense, and speaks often of Passion. He addresses modern singers who do not have combat training in the Rhythm of Derision, indicating that he holds firm to ancient traditions. Although he serves Odium, he may have some reservations about his directives.
 
 ## Attributes and Abilities
-Like other Fused, Turash can heal using [[Voidlight\|Voidlight]] and he cannot be killed by conventional means, as his consciousness can simply move to a new [[Singer\|singer]] body. His brand of [[Fused\|Fused]] is unknown, but the description of his large size and impressive carapace could signify that he is one of the [[Magnified Ones\|Magnified Ones]].
+Like other Fused, Turash can heal using [[Voidlight\|Voidlight]] and he cannot be killed by conventional means, as his consciousness can simply move to a new [[Singer\|singer]] body. His brand of [[Fused\|Fused]] is unknown, but the description of his large size and impressive carapace could signify that he is one of the [[Magnified One\|Magnified Ones]].
 He has some knowledge of military strategy, as he and Odium discuss the value of invading [[Thaylen City\|Thaylen City]].
 
 ## History

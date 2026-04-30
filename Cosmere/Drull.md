@@ -13,7 +13,7 @@ Typically drull are attired in earthly colored clothes, quite often being a long
 Drull are grown from the soil of Mirandus, and are not born like humans. Drull have parent figures, but they are referred to as [[Kretchsires\|kretchsires]] and tend to the child from their sprouting. The [[Dark One (title)\|Dark One]] is able to bind a human soul to the soil of Mirandus to raise more drull.
 
 ## Culture
-Drull are native to Mirandus, mainly inhabiting the Blackened Lands. They live in great cities they built under the guidance of the [[Dark One\|Dark Ones]] of the past; however, a lot of these were partially destroyed in previous battles. The main threat to drull are the patrols and armies of the [[Kingdoms of Light\|Kingdoms of Light]], who will go out of their way to kill drull, as the drull follow the Dark One.
+Drull are native to Mirandus, mainly inhabiting the Blackened Lands. They live in great cities they built under the guidance of the [[Dark One (title)\|Dark Ones]] of the past; however, a lot of these were partially destroyed in previous battles. The main threat to drull are the patrols and armies of the [[Kingdoms of Light\|Kingdoms of Light]], who will go out of their way to kill drull, as the drull follow the Dark One.
 The drull are so dedicated to the Dark One that they will die for them, thankful when they die, be it at the hands of others or by the hands of the Dark One. Drull will freely offer their lives for the Dark One to use to fuel the Dark One's power, crying tears of joy while it happens.
 
 

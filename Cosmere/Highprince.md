@@ -4,7 +4,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For a full list of highprinces, see Category: Highprinces.
 **** is the highest title of nobility in the [[Vorin\|Vorin]] kingdoms of [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]], being directly subordinate to their respective monarchs. Highprinces and their heirs are of the second [[Dahn\|dahn]], while their other children are of the third dahn.

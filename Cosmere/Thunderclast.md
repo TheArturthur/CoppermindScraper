@@ -1,56 +1,69 @@
 |**Thunderclast**|
 |-|-|
 ||
-|**Type**|Animated stone|
+|**Type**|[[Cognitive Shadow\|Cognitive Shadow]]|
 |**Sapient**|Yes|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Those aren’t stones. They’re creatures.*”
-\-Dalinar[1]
+\-Dalinar[2]
 
 
-**Thunderclasts** are giant stone monsters from [[Roshar\|Roshar]] that serve [[Odium\|Odium]] during the [[Desolation\|Desolations]].
+**Thunderclasts** are three giant stone monsters from [[Roshar\|Roshar]] that serve [[Odium\|Odium]] during the [[Desolation\|Desolations]].
 
 ## Contents
 
 1 Appearance and Nature. [[#Appearance and Nature]] 
 2 Abilities and Attributes. [[#Abilities and Attributes]] 
 3 History. [[#History]] 
-4 Known thunderclasts. [[#Known thunderclasts]] 
+
+3. [[#Azimir and Narak]] 
+
+
+4 Thunderclasts. [[#Thunderclasts]] 
 5 Notes. [[#Notes]] 
 
 
 ## Appearance and Nature
-  <<Renarin\|Renarin>> confronting a thunderclast at the <<Battle of Thaylen Field\|Battle of Thaylen Field>>.
+  <<Renarin\|Renarin>> confronting a thunderclast at the <<Battle of Thaylen Field\|Battle of Thaylen Field>>
 For more images, see [[Thunderclast/Gallery\|/Gallery]].
 >“*Even after all these centuries, seeing a thunderclast up close made Kalak shiver.*”
-\-Kalak[2]
+\-Kalak[3]
 
 
-Thunderclasts are enormous stone beasts, easily five or six times larger than a person, with their hands alone being six feet long. They take a skeletal, humanoid form, with long limbs that end with spiky, clawed fingers. On their chests, they have rib-like protrusions, and there are ridges running along their backs. Their heads are narrow and arrow-like, with glowing red eyes.
-The thunderclast proper, however, is a [[Cognitive Realm\|Cognitive]] entity of some kind, significantly larger and more twisted than a [[Fused\|Fused]] soul. When seeing one in a vision, Dalinar assumes that it is a spren, but during the Battle of Thaylen Field [[Venli\|Venli]] assumes it to be a [[Fused\|Fused]] soul. She was not entirely correct, as thunderclasts are different from Fused. When they desire to take on a physical form, they sink into the stone and animate it, ripping themselves out in the humanoid form and leaving behind them a wierdly shape hole hollow in the stone. As such, they retain some qualities of the material they take on, like the color or a covering of moss or fungus.
+Thunderclasts are enormous stone beasts, easily five or six times larger than a person, approximately 30 feet tall, with their hands alone being six feet long. They take a skeletal, humanoid form, with long limbs that end with spiky, clawed fingers. On their chests, they have rib-like protrusions, and there are ridges running along their backs. Their heads are narrow and arrow-like, with glowing red eyes.
+The thunderclast proper, however, is a [[Cognitive Shadow\|Cognitive Shadow]], significantly larger and more twisted than a [[Fused\|Fused]] soul. They appear as a large shadow with red eyes. When they desire to take on a physical form, they sink into the stone and animate it, ripping themselves out in the humanoid form and leaving behind them a weirdly shaped hollow in the stone. As such, they retain some qualities of the material they take on, like the color or a covering of moss or fungus.
 
 ## Abilities and Attributes
 >“*Thunderclast! Hammers! Ready hammers!*”
-\-Soldiers hunting thunderclasts on the Purelake[4]
+\-Soldiers hunting thunderclasts on the Purelake[6]
 
 
+Thunderclasts are able to sink into the stone and animate it, ripping themselves out in the humanoid form and leaving behind them a weirdly shaped hollow in the stone. They have trouble forming from worked or covered stone.
 Despite their enormous size, thunderclasts have no problems staying upright, and can swing their body around with incredible force, easily toppling regular fortifications. Though brute force is their greatest strength, they're also capable of precise actions such as throwing boulders, or carrying regular [[Fused\|Fused]] in their hands without crushing them.
+Despite being made of the same material as their targets, they do not crack, and it seems they cannot be destroyed by ordinary means, although hammers are given as a viable option for combating them. Another viable way to deal with them is to cut them up with [[Shardblade\|Shardblades]] to the point where they're no longer mobile, although this carries significant risk to both people and their surroundings. Indeed, [[Adolin\|Adolin]] theorizes that killing thunderclasts was in fact the original purpose of Shardblades, an idea mirrored by Szeth's thoughts on them.
+Thunderclast can be sent back to the Cognitive Realm by severing their spine where the neck meets the head. It can take them weeks of healing before they can reenter the Physical Realm. If they willingly leave their stone body, they can make another one in just a few days. [[Nightblood\|Nightblood]] can kill them for good.
 Although warped and twisted, thunderclasts seem to retain some level of personality, enough so to answer to names and have a concrete sense of their gender. While they can obey commands, however, they do not seem capable of communicating themselves. They are capable of making earth-shaking roars and trumpeting sounds to express their emotions, though.
-Despite being made of the same material as their targets, they do not crack, and it seems they cannot be destroyed by ordinary means, although hammers are given as a viable option for combating them. Another viable way to deal with them is to cut them up with [[Shardblade\|Shardblades]] to the point where they're no longer mobile, although this carries significant risk to both people and their surroundings. Indeed, [[Adolin\|Adolin]] theorizes that killing thunderclasts was in fact the original purpose of Shardblades, an idea mirrored by Szeth's thoughts on them. [[Nightblood\|Nightblood]] can kill them for good.
 
 ## History
   <<Szeth\|Szeth>> attacking a 
-While it's unknown for how long they've been in [[Odium\|Odium's]] service, thunderclasts date back to the [[Desolation\|Desolations]] of old, even back to [[Nohadon\|Nohadon's]] times. People back then knew to look out for them, and sent out hunting parties, although only [[Knights Radiant\|Knights Radiant]] were capable of fighting them. They were powerful enough to pose dangers even to the [[Herald\|Heralds]], with [[Kelek\|Kelek]] in particular dying to them several times. After the [[Aharietiam\|Aharietiam]], however, thunderclasts passed on into myths. By the [[Era of Solitude\|Era of Solitude]], there were numerous stories about [[Voidbringer\|Voidbringers]] with bodies of stone, likely as a cultural memory of the thunderclasts.
+The thunderclasts were created by Odium thousands of years before the True Desolation, and date back to at least [[Nohadon\|Nohadon's]] times. They were created from the souls of ancient singers.
+People back then knew to look out for them, and sent out hunting parties, although only [[Knights Radiant\|Knights Radiant]] were capable of fighting them. They were powerful enough to pose dangers even to the [[Herald\|Heralds]], with [[Kelek\|Kelek]] in particular dying to them several times. After the [[Aharietiam\|Aharietiam]], however, thunderclasts passed on into myths. By the [[Era of Solitude\|Era of Solitude]], there were numerous stories about [[Voidbringer\|Voidbringers]] with bodies of stone, likely as a cultural memory of the thunderclasts.
 Thunderclasts appeared a few times in [[Dalinar's visions\|Dalinar's visions]]. When he met [[Nohadon\|Nohadon]], he saw numerous corpses of them littering the battlefield and, in a separate vision in which he participated in a hunt for a corrupted spren on the [[Purelake\|Purelake]], he witnessed one rip itself out of the ground. However, they didn't make their proper debut in the modern era until the [[Siege of Kholinar\|Siege of Kholinar]], when at least one thunderclast participated in the main attack, easily breaking down the city wall and decimating numerous buildings in its wake.
-In the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Odium called two [[Cognitive Shadow\| Cognitive Shadows]] -- [[Kai-garnis\|Kai-garnis]] and [[Yushah\|Yushah]] -- to create thunderclasts. After Yushah broke through the wall, he sent her after the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] while Kai-garnis went to assist the [[Fused\|Fused]] in taking the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]]. Both were eventually defeated; Yushah was destroyed permanently by [[Szeth\|Szeth]] with [[Nightblood\|Nightblood]], while Kai-garnis was immobilized by [[Renarin\|Renarin]] and fled her stone body.
+In the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Odium summoned two thunderclasts -- [[Kai-garnis\|Kai-garnis]] and [[Yushah\|Yushah]]. After Yushah broke through the wall, he sent her after the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] while Kai-garnis went to assist the [[Fused\|Fused]] in taking the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]]. Both were eventually defeated; Yushah was destroyed permanently by [[Szeth\|Szeth]] with [[Nightblood\|Nightblood]], while Kai-garnis was immobilized by [[Renarin\|Renarin]] and fled her stone body.
 
-## Known thunderclasts
+### Azimir and Narak
+In the lead-up to the contest of champions, Odium deploys both remaining thunderclasts, Kai-garnis and [[Terushal\|Terushal]]. The former participated in the initial assault in the Second Battle of Narak, while the latter was sent through Shadesmar to attack Azimir.
+Kai-garnis was used by the Fused army to get through the walls defending Narak Four. While [[Sigzil\|Sigzil]] and the Stonewards eventually defeated her, the damage was done, with the thunderclast punching a massive hole through the wall and the corpse forming a bridge through the wall for the armies to get through.
+Terushal was deployed at Azimir on the same day the Fused forces broke through and took the city. Adolin and his Honor Guard made a valiant attempt to stop the thunderclast, but they were all but decimated, with [[Neziham\|Neziham]] being crushed. Adolin attempted to trip the thunderclast but was stopped, his chain snapped in half. Adolin got on his horse despite his injuries and went over to the thunderclast, defeating it. However, in the process his leg was crushed, becoming a stump after it was healed by [[Rahel\|Rahel]], who didn't have the experience to heal the full foot.
+
+## Thunderclasts
 [[Kai-garnis\|Kai-garnis]]
-[[Yushah\|Yushah]]
+[[Terushal\|Terushal]]
+[[Yushah\|Yushah]] (Permanently destroyed)
 
 
 https://coppermind.net/wiki/Thunderclast

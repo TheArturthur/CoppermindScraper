@@ -1,9 +1,9 @@
 |**Junmi**|
 |-|-|
-|**Homeworld**|[[Detritus\|Detritus]]|
+|**Homeworld**|Unknown|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
->“*The warrior cannot choose her bed; she must bless the stars if she can choose her battlefield.*”
+>“*The warrior cannot choose her bed; she must bless the stars if she can choose her battlefield. *”
 \-A quote from Junmi’s, The Conquest of Space.[1]
 
 

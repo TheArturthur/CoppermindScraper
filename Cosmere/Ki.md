@@ -4,6 +4,7 @@
 |**Bonded With**|[[Winnow (Roshar)\|Winnow]]|
 |**Titles**|Master Skybreaker|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] |
+|**Nationality**|[[Iriali\|Iriali]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
@@ -37,7 +38,7 @@ As a Skybreaker of the Fourth Ideal, Ki has access to the [[Surge\|Surges]] of G
 
 ## History
 ### Early Life
-At some point in her life, Ki was recruited to the [[Skybreakers\|Skybreakers]]. She eventually bonded the [[Highspren\|highspren]] [[Winnow (Roshar)\|Winnow]]. After years of training and the completion of some sort of personal quest, Ki swore the first four [[Immortal Words\|Ideals]] of the Skybreakers, reaching the rank of master. She operated out of the Skybreaker fortress near the [[Purelake\|Purelake]] and seems to have primarily worked as a trainer to nascent Skybreakers.
+Ki grew up in [[Rall Elorim\|Rall Elorim]]. At some point in her life, Ki was recruited to the [[Skybreakers\|Skybreakers]]. She eventually bonded the [[Highspren\|highspren]] [[Winnow (Roshar)\|Winnow]]. After years of training and the completion of some sort of personal quest, Ki swore the first four [[Immortal Words\|Ideals]] of the Skybreakers, reaching the rank of master. She operated out of the Skybreaker fortress near the [[Purelake\|Purelake]] and seems to have primarily worked as a trainer to nascent Skybreakers.
 
 ### Training Hopefuls
 In 1174, one evening after [[Szeth\|Szeth]] arrived at the Skybreakers' fortress, Winnow proclaimed to Ki during her prayers that the highspren were already watching him.

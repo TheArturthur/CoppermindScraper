@@ -1,14 +1,14 @@
 |**Stormseat**|
 |-|-|
 ||
-|**Ruled by**|[[Council of Five\|Council of Five]] |
-|**Occupied by**|[[Listeners\|Listeners]] , [[Alethi\|Alethi]]|
+|**Ruled by**|[[Council of Five\|Council of Five]]|
+|**Occupied by**|[[Listeners\|Listeners]], [[Alethi\|Alethi]] |
 |**Region**|[[Shattered Plains\|The Shattered Plains]]|
 |**Nation**|[[Natanatan\|Natanatan]] |
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*They blame our peopleFor the loss of that land.The city that once covered it Did range the eastern strand.*”
 \-Song of Wars, 55th Stanza[1]
@@ -27,6 +27,7 @@
 2. [[#The tower]] 
 2. [[#The Hall of Art]] 
 2. [[#The watering square]] 
+2. [[#Temple of Vedeledev]] 
 
 
 
@@ -60,9 +61,9 @@ In reality, the city sits in the very center of the Plains, surrounded by numero
 
   A mosaic showing a stylized map of Stormseat in its prime.
 Little is known of the appearance of ancient Stormseat. Although the [[Song of Wars\|Song of Wars]] claims that the city "covered" the [[Shattered Plains\|Shattered Plains]], the surviving images of it paint it as rather small, though it likely had numerous outbuildings and satelite towns. Within the city itself, several landmarks could be distinguished, among them a tall tower in the very centre and the dais housing the city's [[Oathgate\|Oathgate]] to the south-west of it. It's known that Stormseat had a temple dedicated to the [[Herald\|Herald]] [[Chana\|Chana]], with a large mosaic on its leeward side. If Stormseat was similar to other major cities of its era, like [[Kholinar\|Kholinar]] and [[Thaylen City\|Thaylen]], it's possible every Herald had a temple of their own within its walls.
-In the present day, the city is split between numerous plateaus, the largest of which is home to the [[Listeners\|listeners]]. It encompasses the plaza that houses the ancient tower, as well as the buildings surrounding it. Of its stuctures, the tower is by far the best-preserved, as centuries of highstorms have toppled most of the city and covered it in [[Crem\|crem]]. While the original purpose of some buildings can still be guessed at, oftentimes the ancient houses and halls are utterly unrecognizable as works of people. Though numerous structures have been completely filled in with crem and rocks, just as many remain empty within, hiding what remains of Stormseat's once-great past — remnants of its inhabitants, rotten furniture and even rusted door hinges. The air within is humid, and musty with age.
+In the present day, the city is split between numerous plateaus, the largest of which is home to the [[Listeners\|listeners]]. It encompasses the plaza that houses the ancient tower, as well as the buildings surrounding it. Of its structures, the tower is by far the best-preserved, as centuries of highstorms have toppled most of the city and covered it in [[Crem\|crem]]. While the original purpose of some buildings can still be guessed at, oftentimes the ancient houses and halls are utterly unrecognizable as works of people. Though numerous structures have been completely filled in with crem and rocks, just as many remain empty within, hiding what remains of Stormseat's once-great past — remnants of its inhabitants, rotten furniture and even rusted door hinges. The air within is humid, and musty with age. Some other ruins have fallen into crevices protected from the worst of the storm waters, while yet others are revealed only after catastrophic storms damage the chasm walls.
 Rather than excavating Stormseat, the listeners constructed their own settlement atop the city's bones. The rocky shelves have been transformed into barracks and homes, while carapaces of [[Greatshell\|greatshells]] form ramshackle houses. Inside, crem is used to create divisions and make separate rooms, with additional layer on the outer walls to provide insulation and stability. Mounds of former buildings serve as [[Rockbud\|rockbud]] farms, while many houses grow [[Shalebark\|shalebark]] on the outside. Both the homes and the farms are built in the shadows of the older structures, to protect them from highstorms. This does not make them completely protected, however. As the highstorm arrives, the listeners stuff rags under the doors, set up support beams to prop up the walls, and close up the windows, hammering in large blocks of wood to secure them.
-Following the [[Battle of Narak\|Battle of Narak]], the city has been taken over by humans, who turn it into a fortress to protect the Oathgate to [[Urithiru\|Urithiru]] and the route between it and the warcamps. The tower is repurposed into a lookout, and the buildings become barracks. The surrounding plateaus serve as training grounds for the [[Windrunner\|Windrunner]] squires and assembly points.. They are connected to each other and Narak by old bridges from [[Gemheart\|gemheart]] hunts, though plans are made to replace those with permanent structures.
+Following the [[Battle of Narak\|Battle of Narak]], the city has been taken over by humans, who turn it into a fortress to protect the Oathgate to [[Urithiru\|Urithiru]] and the route between it and the warcamps. The tower is repurposed into a lookout, and the buildings become barracks. The surrounding plateaus serve as training grounds for the [[Windrunner\|Windrunner]] squires and assembly points. They are connected to each other and Narak by old bridges from [[Gemheart\|gemheart]] hunts, though plans are made to replace those with permanent structures.
 
 ### Notable Landmarks
 #### The Oathgate
@@ -70,8 +71,9 @@ The [[Natanatan\|Natanatan]] [[Oathgate\|Oathgate]] is located in Stormseat. The
 When [[Listeners\|listeners]] live in Narak, the plateau is used as practice ground by their soldiers. Afterwards, it's restored to its former function, and a ramp is constructed to allow wagons and [[Chull\|chulls]] to climb onto it. One of the [[Knights Radiant\|Knights Radiant]] is on standby either there or at the matching Oathgate in [[Urithiru\|Urithiru]] most of the time to operate it.
 
 #### The tower
+  <<Eshonai\|Eshonai>> walking to The Tower of <<Narak\|Narak>>.
 The tower is one of the few structures that can be found both in ancient Stormseat and modern Narak, although its appearance has changed during that time. Over the centuries, it has turned into a spire akin to a stalagmite, with the space inside clogged up by dried-up [[Crem\|crem]]. Nonetheless, it remains standing despite being exposed to the elements for centuries.
-To return the tower to a semblance of its prior functionality, the [[Listeners\|listeners]] carved steps into its outer side and added a railing to prevent people from falling off. The very top of it has been flattened, and became the meeting spot for the [[Council of Five\|Council of Five]] that rules the listeners. Despite this accomodation, the climb is noted as difficult for listeners with physically-weaker forms.
+To return the tower to a semblance of its prior functionality, the [[Listeners\|listeners]] carved steps into its outer side and added a railing to prevent people from falling off. The very top of it has been flattened, and became the meeting spot for the [[Council of Five\|Council of Five]] that rules the listeners. Despite this accommodation, the climb is noted as difficult for listeners with physically-weaker forms. Near the base of the tower, crem has buried a stone-carved membership record of the Last Legion.
 After humans reclaim Stormseat, the top of the tower becomes a watchpost to warn about approaching [[Voidbringer\|Voidbringer]] attacks.
 
 #### The Hall of Art
@@ -81,10 +83,13 @@ After humans begin to repurpose Narak into a fortress, they find the Hall of Art
 #### The watering square
 Outside the Hall of Art sits a watering square. There, a pool has been sculpted out of clay by [[Nimbleform\|nimbleforms]] to collect highstorm water for drinking. Despite the fact that it's the main source of water for the whole city, the [[Mateform\|mateforms]] sometimes bathe there, although that is heavily discouraged. It's likely the square still serves its former purpose now that Stormseat is controlled by humans.
 
+#### Temple of Vedeledev
+Within a chasm overhang in the north of the city stood a temple of Vedeledev. This temple long ago became a favorite place for [[Chasmfiend\|chasmfiends]] to come to die. Thanks to the natural protective wall created by their empty shells, much of the temple has survived to the present day.
+
 ## History
 ### Ancient Stormseat
 As with many of [[Roshar\|Roshar's]] oldest settlements, it's uncertain when Stormseat was built. During the [[Heraldic Epochs\|Heraldic Epochs]], it served as the capital of [[Natanatan\|Natanatan]], and one of the ten cities with an [[Oathgate\|Oathgate]] that connected it to the [[Knights Radiant\|Knights Radiant]] headquarters, [[Urithiru\|Urithiru]]. The area around it was densely occupied, with numerous outbuildings and settlements surrounding the city.
-At some point, Stormseat was destroyed by the same event that transformed the Natan interior into the [[Shattered Plains\|Shattered Plains]]. There is some disagreement as to when this happened. Human sources place the destruction of Stormseat at [[Aharietiam\|Aharietiam]], the last of the old [[Desolation\|Desolations]]. [[Listeners\|Listeners]], however, put it significantly earlier, as according to their stories, by the time the [[Last Legion\|Last Legion]] was sent into the area, the [[Shattered Plains\|Shattered Plains]] already existed. Whichever is the case, humans blamed the destruction on the listener gods (either the [[Fused\|Fused]] or the [[Unmade\|Unmade]]), though the [[Song of Wars\|Song of Wars]] is confident that this wasn't their doing.
+At some point, Stormseat was destroyed by the same event that transformed the Natan interior into the [[Shattered Plains\|Shattered Plains]]. There is some disagreement as to when this happened. Human sources place the destruction of Stormseat at [[Aharietiam\|Aharietiam]], the last of the old [[Desolation\|Desolations]]. [[Listeners\|Listeners]], however, put it significantly earlier, as according to their stories, by the time the [[Last Legion\|Last Legion]] was sent into the area, the [[Shattered Plains\|Shattered Plains]] already existed. Whichever is the case, humans blamed the destruction on the listener gods (either the [[Fused\|Fused]] or the [[Unmade\|Unmade]]), though the [[Song of Wars\|Song of Wars]] is confident that this wasn't their doing. In truth, the plains were Shattered by a brief clash between [[Honor\|Honor]] and [[Odium\|Odium]].
 The listeners point to Stormseat as the place where they broke their ties to [[Odium\|Odium]]. The name Narak, meaning "exile" in their language, refers partially to this event.
 Following the destruction, Stormseat wasn't rebuilt, but rather left to crumble. Over time, the nation of [[Natanatan\|Natanatan]] fell apart, until only a single coastal city, [[New Natanan\|New Natanan]], claims descendancy from it. It is perhaps for this reason that when Urithiru was abandoned prior to the [[Recreance\|Recreance]] and all the other [[Oathgate\|Oathgates]] were locked from both sides, the one in Stormseat remained accessible.
 

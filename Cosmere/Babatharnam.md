@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Babatharnam** is a kingdom in western [[Roshar\|Roshar]]. Its capital, [[Panatham\|Panatham]], contains an [[Oathgate\|Oathgate]], and people from Babatharnam are called Babath.
+**Babatharnam** is a kingdom in western [[Roshar\|Roshar]]. Its capital, [[Panatham\|Panatham]], contains an [[Oathgate\|Oathgate]], and people from Babatharnam are called Babath. 
 
 ## Contents
 
@@ -29,20 +29,20 @@ Babatharnam has peculiar trees which, when a [[Highstorm\|highstorm]] approaches
 Babatharnam has an area of around 1,107,000 km.
 
 ## History
-During the [[Heraldic Epochs\|Heraldic Epochs]] Babatharnam was part of the [[Silver kingdoms\|Silver Kingdom]] [[Sela Tales\|Sela Tales]]. All the Silver Kingdoms had a specific purpose during peacetime, teaching the others their art during a desolation so the Babath, among others, were experts in an art. After Sela Tales collapsed Babatharnam was founded.
+During the [[Heraldic Epochs\|Heraldic Epochs]] Babatharnam was part of the [[Silver kingdoms\|Silver Kingdom]] [[Sela Tales\|Sela Tales]]. All the Silver Kingdoms had a specific purpose during peacetime, teaching the others their art during a desolation so the Babath, among others, were experts in an art. At some point following Aharietiam, Sela Tales broke into a large amount of smaller states, one or more of which eventually became what is present-day Babatharnam.
 Around the year 1120, the Monavakah dynasty was established and began assassinating rivals to stay in power. This caused a great deal of unrest in the country.
-During the initial months of the [[True Desolation\|True Desolation]], the Most Ancient of Babatharnam refused to cooperate with [[Dalinar Kholin\|Dalinar Kholin]]. The nation was conquered by [[Singer\|singer]] and [[Iriali\|Iriali]] forces shortly after the defection of [[Iri\|Iri]].
+During the initial months of the [[True Desolation\|True Desolation]], the Most Ancient of Babatharnam refused to cooperate with [[Dalinar Kholin\|Dalinar Kholin]]. Once [[Iri\|Iri]] surrendered to [[Odium\|Odium]]’s forces, the nation moved to conquer much of the Purelake and its environs. The [[Fused\|Fused]] have stationed a few of their Regals in the area, though they are more concerned with their advancing troops than with the territory itself.
 
 ## Politics
-Babatharnam is a gerontocracy, meaning the older one is, the more authority one has. Everyone has an opportunity to rule, if they live long enough. Anyone can become the **Most Ancient**--the Babath king.
+Babatharnam is a gerontocracy, meaning the older one is, the more authority one has. Every man gets an opportunity to rule, if they live long enough. Anyone can become the **Most Ancient**--the Babath king. 
 However, in practicality, during the present day, Babatharnam is ruled by the **Monavakah Dynasty**, which executes or exiles any person old enough to challenge them. This has ensured that the Monavakahs have remained in power for fifty years. [[Sigzil\|Sigzil]] has visited Babatharnam, and recalled that the nation has a great deal of unrest from the Monavakah Dynasty's assassinations.
 
 ## People
-As the Babath are ethnically [[Sela Tales\|Selay]] they probably have the Selay ripple patterns on their skin. The women are known to possess a complex pattern of veins sitting shallowly beneath their skin, which many foreigners find unnerving.
+As the Babath are ethnically [[Sela Tales\|Selay]] they probably have the Selay ripple patterns on their skin. The people here also have bronze skin and dark hair. They speak a mix of Selay and local tribal languages. The women are known to possess a complex pattern of veins sitting shallowly beneath their skin, which many foreigners find unnerving.
 The Babath are human-[[Aimian\|Aimian]] hybrids, and thus are one of many ethnicities on Roshar known to have non-human ancestry.
 
 ### Culture
-The Babath are very particular to how one speaks and can be offended easily. Sigzil has managed to be imprisoned three times in Babatharnam, though he suspects the Babath use any excuse to imprison a foreigner, as his [[Hoid\|master]] had a good deal of money.
+Its people place great value on thoughtful and precise communication. This sometimes leads to misunderstandings and offense from careless outsiders. Sigzil has managed to be imprisoned three times in Babatharnam, though he suspects the Babath use any excuse to imprison a foreigner, as his [[Hoid\|master]] had a good deal of money.
 The Babath probably have shards, as the Selay are known to have multiple sets.
 The Babath people are known to eat snails.
 

@@ -18,10 +18,11 @@
 
 
 ## Abilities and Attributes
-Skai was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is a fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
+Skai was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is her and Aona's Shards pushed into the Cognitive Realm by Odium; it fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
 
 ## History
 Nothing is known about Skai's origins and life prior to the [[Shattering\|Shattering]], other than that she came from [[Yolen\|Yolen]]. For unknown reason, she and a group of others broke the [[Cosmere\|cosmere's]] creator deity, [[Adonalsium\|Adonalsium]], into sixteen pieces. Of those sixteen, she took up [[Dominion\|Dominion]], and departed alongside [[Devotion\|Devotion]] for [[Sel\|Sel]].
+Odium manipulated her into conflict with Aona and finished her off while she was weakened from it.
 
 For subsequent events, see [[/wiki/Dominion#History]].
 ## Trivia

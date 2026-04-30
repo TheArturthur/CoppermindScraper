@@ -2,8 +2,6 @@
 |-|-|
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
-
 The **Coop** is a training center for the [[Reckoners\|Reckoners]]. It is located in , north of .
 It is essentially a warehouse with aluminum siding. It is partitioned into sections with walls made of pine boards and plywood, which appear to change locations frequently. It is also equipped with weapons of all kinds, including guns, melee weapons, vehicles, artillery cannons, complete with an . There are many training areas in the Coop, including a sword fighting arena and a shooting range. The housing portion of the Coop is slightly better furnished, with walls made of painted sheetrock. Rooms in the Coop are spartan, with only a bed, toilet, sink, and single ceiling light.
 There are no watches, clocks, or mobiles in the Coop, which makes the days blur together.

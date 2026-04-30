@@ -10,7 +10,7 @@
 \-Kai to Sophie[1]
 
 
-**Kairominas** is the [[Liveborn\|Liveborn]] ruler of [[Alornia\|Alornia]], his home [[State\|State]]. Having united all of Alornia on his 300th birthday, Kai's youth was exciting and adventure filled. The fifty years following the unification of Alornia threatened to bore Kai, though he developed a nemesis in a neighboring Liveborn called [[Melhi\|Melhi]]. Melhi and Kai have since skirmished in [[/wiki/State#Border States]] between their two States, as well as within Alornia.
+**Kairominas** is the [[Liveborn\|Liveborn]] ruler of [[Alornia\|Alornia]], his home [[State\|State]]. Having united all of Alornia on his 300th birthday, Kai's youth was exciting and adventure filled. The fifty years following the unification of Alornia threatened to bore Kai, though he developed a nemesis in a neighboring Liveborn called [[Melhi\|Melhi]]. Melhi and Kai have since skirmished in [[/wiki/State#Border States]] between their two States, as well as within Alornia. 
 Around his 350th birthday, Kai is contacted by the [[Wode\|Wode]], asking him to travel to a [[/wiki/State#Communal States]], meet with a woman, and procreate. While in the Communal State Kai partakes in an insightful discussion with his date, [[Sophie (Perfect State)\|Sophie]], and manages to defeat a giant robot sent by Melhi. Kai also learns that Sophie is one of Melhi's robots as well, and returns to Alornia with a longing to learn about other Liveborn rather than continuing to follow the preplanned path for his home State.
 
 ## Contents
@@ -37,7 +37,7 @@ Around his 350th birthday, Kai is contacted by the [[Wode\|Wode]], asking him to
 
 ## Appearance and Personality
 Kai is described as having strong features. His hair curls down to his shoulders, and he keeps his beard neat, squared, and about as long as a finger.
-Kai is a very good leader, loved by his subjects. He is very honorable, and puts the lives of others, even other Machineborn, above his own. He has a very scientific mind, and has devoted many years to the study of his magic, Lancing. He views his position as Ruler of Alornia with great respect and takes it very seriously, even though he knows it is all essentially a game.
+Kai is a very good leader, loved by his subjects. He is very honorable, and puts the lives of others, even other Machineborn, above his own. He has a very scientific mind, and has devoted many years to the study of his magic, Lancing. He views his position as Ruler of Alornia with great respect and takes it very seriously, even though he knows it is all essentially a game. 
 
 ## Attributes and Abilities
 ### Lancing

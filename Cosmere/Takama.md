@@ -5,6 +5,8 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Takamas** are traditional warrior garments from [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]].
 
   <<Sebarial\|Sebarial>> wearing a takama
@@ -17,7 +19,7 @@ During the [[Heraldic Epochs\|Heraldic Epochs]], takamas were worn with wide gir
 Takamas are ancient in origin, dating to at least the [[Heraldic Epochs\|Heraldic Epochs]]; Dalinar observed people wearing takamas of an older style during one of his [[Dalinar's visions\|visions]] of the time of [[Nohadon\|Nohadon]].
 Takamas were popular as warriors garb as recently as a generation prior to the [[War of Reckoning\|War of Reckoning]], but were rarely worn in modern Roshar. Kaladin, who grew up in rural Alethkar, first saw a takama when he was twelve or thirteen years old and was surprised at its resemblance to a woman's skirt.
 Dalinar often wore a takama in his youth and told [[Kadash\|Kadash]] a story about one of his swordmasters, [[Harth\|Harth]], teaching him to tie a takama in the "traditional" way, with the belt tied three times. He noticed that everyone else tied the belt twice, leaving the ends long and drooping. Dalinar sought out Harth's master to ask him about it, and realized that the master tied his belt three times not because of tradition, but because he was extremely short in stature and the long ends made him trip. Perhaps because of this embarrassment, Dalinar never liked wearing a takama, although he did wear them during his time as the Blackthorn.
-Most of the people seen wearing a takama in modern Roshar are members of the nobility or the military. They include [[Roshone\|Roshone]], [[Sebarial\|Sebarial]], and [[Elhokar\|Elhokar]]. [[Amaram\|Amaram]], a noted traditionalist, required his soldiers to wear a takama as part of their uniform. [[Aladar\|Aladar]] took to wearing a shorter, modern-cut uniform jacket over his takama and the style caught on with his officers.
+Most of the people seen wearing a takama in modern Roshar are members of the nobility or the military. They include [[Roshone\|Roshone]], [[Sebarial\|Sebarial]], and [[Elhokar\|Elhokar]]. [[Amaram\|Amaram]], a noted traditionalist, required his soldiers to wear a takama as part of their uniform. [[Aladar\|Aladar]] took to wearing a shorter, modern-cut uniform jacket over his takama and the style caught on with his officers. Some Alethi singers also took to wearing a Takama.
 
 
 

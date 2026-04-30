@@ -6,7 +6,9 @@
 |**System**|[[Nalthian system\|Nalthian system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Nalthis** is a planet in the [[Nalthian system\|Nalthian system]] of the [[Cosmere\|cosmere]]. The [[Shard\|Shard]] [[Endowment\|Endowment]] resides there. It is inhabited by humans and has a number of states, including [[Idris\|Idris]] and [[Hallandren\|Hallandren]]. A person from Nalthis is called a Nalthian.
 A single moon named **Rrendos** orbits the planet.
@@ -64,7 +66,6 @@ A single moon named **Rrendos** orbits the planet.
 [[Tedradel\|Tedradel]]
 [[Xaka\|Xaka]]
 Unnamed country that uses Awakened machines
-
 
 The known world contains dozens of kingdoms.
 
@@ -128,7 +129,7 @@ Fearing this rebellion would draw too much attention to his own efforts, Bluefin
 #### Bluefingers' Manipulation
 By this time VaraTreledees had renamed himself Denth and began working for Bluefingers to help cause the war. He corrupted [[Lemex\|Lemex]], an Idrian spy, and went to meet Vivenna, who went to [[T'Telir\|T'Telir]] after her sister, in his place. He and his [[Denth's crew\|crew]] managed to gain her trust. Convincing her that he was on his side, Denth managed to kidnap her without her realizing it.
 
->“*You should watch yourself, child.*
+>“*You should watch yourself, child. *
 \-Not all here in the palace is as it seems.
 
 
@@ -151,7 +152,7 @@ Over many years, their mastery over Awakening and technology advanced significan
 
 ## Cosmere
 The [[Shard\|Shard]] [[Endowment\|Endowment]] has been confirmed to be present on Nalthis. This has had the effect that every human born on Nalthis is born with one [[Breath\|Breath]], the source of energy for [[Awakening\|Awakening]] and Returning. Endowment is related to the [[Tears of Edgli\|flowers]] which grow around T'Telir, the capital city of Hallandren. Endowment has been known to revive recently deceased people, awarding them a single [[Divine Breath\|divine Breath]] under the requirement that they consume a normal Breath once a week to stay alive. It is believed, and confirmed for at least three [[Returned\|Returned]], that all Returned come back to fulfill some divine goal. It is unknown what Endowment's purpose is, or how long she has been doing this.
-Nalthians are aware of perpendicularities and wish for them to be used for trading purposes.
+Endowment also has a [[Perpendicularity\|perpendicularity]] on Nalthis, which at least some Nalthians are aware of. These people are trying to use their perpendicularity for commerce with other planets, although they are often considered to be fools because of this by other Cosmere-aware peoples. The Nalthian perpendicularity is found in a cavernous region, somewhere in Hallandren.
 Nalthian Awakened technology has spread across the Cosmere to some degree, and can be seen on other planets, such as [[Lumar\|Lumar]]. The trading of Breaths are looked down upon by others in the cosmere.
 
 ## Trivia

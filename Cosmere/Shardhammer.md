@@ -7,7 +7,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This article is about the non-magical weapon. For information related to living Shardblades in the shape of a hammer, see [[/wiki/Shardblade#Radiant Shardblades]].
-A **shardhammer**, also known as a **warhammer** is an enormous battle hammer that can only be wielded by someone in [[Shardplate\|Shardplate]]. Contrary to what it's name might suggest, it is not an ancient magical weapon like Shardplate or a [[Shardblade\|Shardblade]], but rather, a more modern creation. Dalinar's warhammer is described as having a haft as "thick as a man's wrist" with the front of the head being larger than a man's fist. It could barely be lifted by two men and was carried on a cart. A Shardbearer's hammer is a common weapon for someone who owns a set of plate, but no Shardblade.
+A **shardhammer**, also known as a **warhammer** is an enormous battle hammer that can only be wielded by someone in [[Shardplate\|Shardplate]]. Contrary to what its name might suggest, it is not an ancient magical weapon like Shardplate or a [[Shardblade\|Shardblade]], but rather, a more modern creation. Dalinar's warhammer is described as having a haft as "thick as a man's wrist" with the front of the head being larger than a man's fist. It could barely be lifted by two men and was carried on a cart. A Shardbearer's hammer is a common weapon for someone who owns a set of plate, but no Shardblade.
 
 ## Notable Mentions
 Dalinar used his warhammer to dig a latrine ditch as he contemplated stepping down as Highprince. 

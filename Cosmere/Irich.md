@@ -8,12 +8,24 @@
 
 **Professor Irich** is a scientist and a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]]. Within the Set, he holds the rank of Array. He is a [[Chromium\|chromium]] [[Misting\|Misting]] (aka a [[Leecher\|Leecher]]).
 
-## Appearance and Personality
-Irich is thin, approximately six feet tall, and has a narrow face and dark hair. He has a degenerative disease that weakens his muscles and makes breathing difficult. His physician has told him that the disease will eventually kill him, and he can tell that his condition is worsening daily. He carries a cane to assist his walking, and his gait has been changing every few months due to the rapid degeneration of his muscles. The cane and his stooped posture can make him appear to be older than he is.
+## Contents
 
-## Activities with The Set
-He was involved in the attack on the train that carried [[Waxillium Ladrian\|Waxillium Ladrian]] and his companions to [[New Seran\|New Seran]]. He dropped the metal cube that [[Marasi Colms\|Marasi Colms]] recovered and eventually discovered could be used as an [[Allomancy\|allomantic]] grenade.
-He is in charge of studying the wrecked [[Southern Scadrian\|Southern Scadrian]] vessel-- the *[[Brunstell\|Brunstell]]* --recovered by the Set in [[Dulsing\|Dulsing]]. He is intrigued by its many mysteries but is focused on creating a weapon for [[Telsin\|Sequence]] and [[Mister Suit\|Mister Suit]].
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+
+2. [[#Activities with The Set]] 
+
+
+3 Notes. [[#Notes]] 
+
+
+## Appearance and Personality
+Irich is thin, approximately six feet tall, and has a narrow face and dark hair. He has a degenerative disease that weakens his muscles and makes breathing difficult. His physician has told him that the disease will eventually kill him, and he can tell that his condition is worsening daily. He carries a cane to assist his walking, and his gait has been changing every few months due to the rapid degeneration of his muscles. The cane and his stooped posture can make him appear to be older than he is. Irich doesn't care about the power and authority he holds as an Array, as neither can prolong his life.
+
+## History
+### Activities with The Set
+He was involved in the attack on the train that carried [[Waxillium Ladrian\|Waxillium Ladrian]] and his companions to [[New Seran\|New Seran]]. Upon encountering [[Marasi Colms\|Marasi Colms]], Irich fled. In his haste, he dropped the [[Primer cube\|primer cube]] he was carrying, which [[Marasi Colms\|Marasi Colms]] recovered and eventually discovered could be used as an [[Allomancy\|allomantic]] grenade.
+He is in charge of studying the wrecked [[Southern Scadrian\|Southern Scadrian]] vessel-- the *[[Brunstell\|Brunstell]]* --recovered by the Set in [[Dulsing\|Dulsing]]. He is intrigued by its many mysteries but is focused on creating a weapon for the [[Telsin\|Sequence]] and [[Mister Suit\|Mister Suit]].
 
 
 

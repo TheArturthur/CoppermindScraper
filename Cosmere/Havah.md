@@ -6,7 +6,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 A **havah** is a traditional [[Vorin\|Vorin]] dress on [[Roshar\|Roshar]]. It is formfitting through the bust, shoulders, and waist, and has a flowing skirt. It is buttoned up the sides, and the left sleeve is longer than the other in order to fully cover the [[Safehand\|safehand]]. Said sleeve can also contain a pouch, known as a safepouch, that can be used for storing valuable [[Spheres\|spheres]] or other small personal items. They are often made of silk in bright colors. 
 
@@ -41,25 +41,25 @@ Images of Havahs
 
 
  Jasnah, Shallan, and Navani wearing havahs
-
+			
 
 
 
 
  Shallan wearing a havah
-
+			
 
 
 
 
  Navani wearing a havah
-
+			
 
 
 
 
  Havah displaying safehand sleeve
-
+			
 
 
 
@@ -71,7 +71,7 @@ Images of Havahs
 
 
 Havah designs
-
+			
 
 
 
@@ -86,16 +86,16 @@ Havah designs
 
 
 The Vorin wedding gown is a variation of a havah. It is likely an older version of what is now accepted as the traditional havah design. Two Vorin wedding gowns have been described:
-The red light from the rubies' [[Stormlight\|Stormlight]] brings the "red for luck" to Shallan's gown. Using blue for Shallan's wedding gown indicates that Vorin brides are allowed more than one color option in a traditional wedding dress.
+The red light from the rubies' [[Stormlight\|Stormlight]] brings the "red for luck" to Shallan's gown. Using blue for Shallan's wedding gown indicates that Vorin brides are allowed more than one color option in a traditional wedding dress. 
 
 >“*Red, for luck, it was embroidered with gold and shaped much looser style than the havah, with wide sleeves and a graceful drape.*”
 \-Navani Kholin's bridal gown[8]
 
-A bridal crown typically accompanies the wedding gown, and is worn by the bride as a headpiece for the wedding ceremonies in the Vorin tradition. Hair is worn braided for the occasion. The pieces are secured to the hair. Currently only two descriptions are available:
+A bridal crown typically accompanies the wedding gown, and is worn by the bride as a headpiece for the wedding ceremonies in the Vorin tradition. Hair is worn braided for the occasion. The pieces are secured to the hair. Currently only two descriptions are available:  
 
 
 
-Neither jade nor turquoise is associated with [[Soulcasting\|Soulcasting]]. They are not [[Polestone\|polestones]], which are capable of naturally holding [[Stormlight\|Stormlight]].
+Neither jade nor turquoise is associated with [[Soulcasting\|Soulcasting]]. They are not [[Polestone\|polestones]], which are capable of naturally holding [[Stormlight\|Stormlight]].  
 
 ## Trivia
 The Vorin bridal dress is likely inspired by traditional Chinese wedding gowns, which are often much looser in cut than a qipao or  – the more fitted traditional dresses. The wedding gowns are often covered in gold embroidery with designs that are meant to represent luck and other blessings for the couple.

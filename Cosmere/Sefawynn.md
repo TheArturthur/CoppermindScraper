@@ -4,8 +4,9 @@
 |**Family**|
 |**Spouse**|[[John West\|John West]]|
 |**Siblings**|[[Wyrm\|Wyrm]]|
-|**Abilities**|[[Skop\|Skop]]|
-|**Nationality**|Weswaran|
+|**Abilities**|[[Night Marks\|Night Marks]]|
+|**Profession**|[[Skop\|Skop]]|
+|**Nationality**|[[Weswara\|Weswaran]]|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
 |**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 

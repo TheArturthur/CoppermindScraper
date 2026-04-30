@@ -25,7 +25,7 @@ A dragon then comes, Johnston hides, and Skip gets into his role. The dragon ins
 
 ### Extended
 In this version, we get some additional descriptions and details about the world, like that it is a cube. Skip's abilities are called knacks, and most people on his side of the cube have some kind of knack. But the actual plot begins mostly the same as the original version.
-After the dragon is dead, Skip reflects on his own mortality. A sorceress takes Johnston's sword and opens the dragons stomach. It is filled with riches, but the sorceress does not find what she was searching for. She tells Johnston to move the hunters into the more-dangerous mountains with larger draconic beasts.
+After the dragon is dead, Skip reflects on his own mortality. A sorceress takes Johnston's sword and opens the dragon’s stomach. It is filled with riches, but the sorceress does not find what she was searching for. She tells Johnston to move the hunters into the more-dangerous mountains with larger draconic beasts.
 The sorceress then talks to Skip and tries to dissuade him from quitting his role as bait. Skip explains that he does not get paid, and that he wishes to invent a dictionary. The sorceress promises to help him with his dream of writing a dictionary if Skip continues to be bait for a few more weeks. Skip never agrees, but the sorceress seems to think he does. Their conversation ends, a couple hours pass, and Skip finds himself alone and cornered by another dragon.
 
 

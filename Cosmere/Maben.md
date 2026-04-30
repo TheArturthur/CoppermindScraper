@@ -19,7 +19,8 @@
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Duties. [[#Duties]] 
 3 History. [[#History]] 
-4 Notes. [[#Notes]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -34,6 +35,8 @@ She was present in [[Urithiru\|Urithiru]] with Taravangian and was charged with 
 She continued to attend to Taravangian in Urithiru. Other members of the Diagram such as [[Adrotagia\|Adrotagia]], [[Malata\|Malata]], and [[Dukar\|Dukar]] usually ignored her presence at their meetings.
 At the last meeting before the Diagram was disbanded, Maben gave Taravangian a gift containing some of his favorite jams from [[Shinovar\|Shinovar]]. He acknowledged the work that she had done for him, saying that the Diagram could not have succeeded without people like Maben.
 
+## Trivia
+The name 'Maben' was first used for a character in *[[Elantris (book)\|Elantris]]* that was later renamed [[Adien\|Adien]].
 
 
 https://coppermind.net/wiki/Maben

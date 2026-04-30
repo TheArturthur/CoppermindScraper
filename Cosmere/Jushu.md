@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**[[House Davar\|House Davar]]**|
-|**Parents**|[[Lin Davar\|Lin Davar]], [[Shallan's mother\|Mother]]|
+|**Parents**|[[Lin Davar\|Lin Davar]], [[Chanarach\|Chanarach]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
 |**Born**|c. 1154|
 |**Residence**|[[Urithiru\|Urithiru]]|
@@ -10,6 +10,8 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Asha Jushu Davar** is a [[Lighteyes\|lighteyed]] [[Veden\|Veden]] on [[Roshar\|Roshar]]. He is the fourth son of [[Shallan's mother\|Brightness Davar]] and [[Lin Davar\|Lin Davar]]. His siblings are [[Helaran\|Helaran]], [[Balat\|Balat]], his older twin [[Wikim\|Wikim]], and [[Shallan\|Shallan]].
 

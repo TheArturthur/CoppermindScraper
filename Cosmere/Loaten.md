@@ -10,7 +10,7 @@
 \- Khrissalla to Loaten.[1]
 
 
-**Loaten** is a [[Darksider\|Darksider]] currently living in Lonzare, the Darksider quarter of [[Kezare\|Kezare]].
+**Loaten** is a [[Darksider\|Darksider]] currently living in Lonzare, the Darksider quarter of [[Kezare\|Kezare]]. 
 
 ## Appearance and Personality
 Loaten is a portly dark skinned man. He has a thin goatee and long thick sideburns but is otherwise bald. He has a distinctive scar on his neck. He wears a pin striped gray robe over a blue shirt, and wears a ring on every one of his fingers.

@@ -16,7 +16,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Edwarn Ladrian** also known as **Mister Suit**, is the uncle of [[Waxillium Ladrian\|Waxillium Ladrian]], a member of high society in [[Elendel\|Elendel]] and a high ranked member of the [[Set\|Set]].
+**Edwarn Ladrian** also known as **Mister Suit**, is the uncle of  [[Waxillium Ladrian\|Waxillium Ladrian]], a member of high society in [[Elendel\|Elendel]] and a high ranked member of the [[Set\|Set]]. 
 
 ## Contents
 
@@ -38,7 +38,7 @@
  
 Edwarn Ladrian is a round-faced, stocky man distinguished by a short, precisely trimmed beard, a beautifully tailored suit, and a cravat so narrow and thin, it lay flat like a bowtie loosened at the end of a long night.
 He is usually wearing an extremely stylish and expensive suit of black silk with a turquoise vest. He also uses a whale-ivory cane. He doesn’t like the smell of cigars. Edwarn was very invested on the fortune of his house and had kept very good track of what his competitor houses had been shipping, still he ended up spending it to fund the Set.
-He is a follower of [[Trellism\|Trellism]], a claim is made that he will deliver information to [[Wax\|Wax]] in relation to these beliefs, after which [[Ironeyes\|Ironeyes]] delivers a book for [[Wax\|Wax]]. When the red eyed [[Kandra\|Faceless Immortal]] comes to him he makes a claim stating that he will follow Trell.
+He is a follower of [[Trellism\|Trellism]], a claim is made that he will deliver information to [[Wax\|Wax]] in relation to these beliefs, after which [[Ironeyes\|Ironeyes]] delivers a book for [[Wax\|Wax]]. When the red eyed [[Kandra\|Faceless Immortal]] comes to him he makes a claim stating that he will follow Trell. 
 
 ## Attributes and Abilities
 He is a [[Hemalurgy\|Hemalurgist]] with three spikes, granting him the power of a [[Coinshot\|Coinshot]], a [[Bloodmaker\|Bloodmaker]], and a [[Leecher\|Leecher]] respectively, due to the fact that having four or more Hemalurgic spikes would make one susceptible to Harmony's complete control.
@@ -60,7 +60,7 @@ Later, a [[Kandra\|Faceless Immortal]] with glowing red eyes visited him in pris
 
 ## Relationships
 ### Waxillium Ladrian
-As Wax's uncle, Edwarn understands his nephew very much to the point of nearly predicting his every movements. He had overseen Wax´s education, grooming him specifically as heir to the house.
+As Wax's uncle, Edwarn understands his nephew very much to the point of nearly predicting his every movements. He had overseen Wax´s education, grooming him specifically as heir to the house. 
 Because Hinston dies, he searches for Wax to take over his fortune and estate after his death, hoping he has overcome his sense of morality.
 This is not the case, and though he resisted killing him in the beginning he later asked his butler [[Tillaume\|Tillaume]] kill Wax. He survives and understood that for someone who had been loyal to the family for so long, the only reason he could be so eager to kill him was that he was following his former master. This is how Wax finds out his uncle is still alive.
 

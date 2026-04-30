@@ -1,7 +1,5 @@
 |**Malad-son-Zent**|
 |-|-|
-|**Family**|
-|**Parents**|Zent|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

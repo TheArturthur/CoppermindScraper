@@ -7,6 +7,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*My eyes are not those of some petty noble, to be clouded by a false nose and some dirt on the cheeks.*”
 \-Edgli[1]
 
@@ -40,7 +42,7 @@ Like all original [[Vessel\|Vessels]], Edgli is a native of [[Yolen\|Yolen]]. Sh
 
 For subsequent events, see [[/wiki/Endowment#History]].
 ## Trivia
-Edgli is the author of the first of the [[Letters\|letters]] in *[[Oathbringer\|Oathbringer]]* epigraphs.
+Edgli is the author of the first of the [[Letters\|letters]] in *[[Oathbringer\|Oathbringer]]* epigraphs, and of the letter in *[[Wind and Truth\|Wind and Truth]]*
 The "E" in her name is pronounced as "eh", like in the word "echo".
 Brandon has repeatedly avoided stating whether or not Edgli is a [[Dragon (cosmere)\|dragon]], although elsewhere he has confirmed that only one of the current Vessels is a dragon and later he confirmed that [[Koravellium Avast\|Koravellium Avast]], the [[Vessel\|Vessel]] of [[Cultivation\|Cultivation]], is one. This makes it unlikely that Edgli is a dragon as well.
 

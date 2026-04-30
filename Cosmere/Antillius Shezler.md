@@ -1,6 +1,6 @@
 |**Antillius Shezler**|
 |-|-|
-|**Died**||
+|**Died**|Killed by [[Kelsier\|Kelsier]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Profession**|Scholar|
 |**Residence**|[[Mantiz\|Mantiz]] ([[Keep Shezler\|Keep Shezler]])|

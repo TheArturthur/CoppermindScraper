@@ -1,20 +1,24 @@
 |**Neturo-son-Vallano**|
 |-|-|
 |**Family**|
-|**Children**|[[Szeth\|Szeth]]|
-|**Parents**|Vallano|
-|**Died**|c. Vev 1175, encounter with [[Ishar\|Ishar]]|
-|**Abilities**|[[Shardbearer\|Shardbearer]]|
+|**Spouse**|[[Zeenid-daughter-Beth\|Zeenid]]|
+|**Children**|[[Szeth\|Szeth]], [[Elid-daughter-Zeenid\|Elid]]|
+|**Died**|c. Vev 1175, encounter with [[Ishar\|Ishar]]Palahanah 1175, freed by [[Szeth\|Szeth]] using [[Nightblood\|Nightblood]]|
+|**Abilities**|[[Shardbearer\|Shardbearer]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Religion**|[[Stone Shamanism\|Stone Shamanism]]|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
+
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Rynon2112, please contact them before doing edits.
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The best and truest duty of a person is to add to the world. To create, and not destroy.*”
-\-Neturo-son-Vallano, as remembered by Szeth[2]
+\-Neturo-son-Vallano, as remembered by Szeth[3]
 
 
-**Neturo-son-Vallano** is a [[Shin\|Shin]] man on [[Roshar\|Roshar]] and the father of [[Szeth\|Szeth]]. He was the bearer of [[Ishar\|Ishar's]] [[Honorblade\|Honorblade]] until his death.
+**Neturo-son-Vallano** is a [[Shin\|Shin]] man on [[Roshar\|Roshar]], the father of [[Szeth\|Szeth]], and a holder of [[Ishar\|Ishar's]] [[Honorblade\|Honorblade]] until his death. After this, he becomes one of Ishar's Fused. He was married to [[Zeenid-daughter-Beth\|Zeenid-daughter-Beth]] and is also the father of [[Elid-daughter-Zeenid\|Elid-daughter-Zeenid]].
 
 ## Contents
 
@@ -24,6 +28,10 @@
 4 Relationships. [[#Relationships]] 
 
 4. [[#Szeth]] 
+4. [[#Elid]] 
+4. [[#Zeenid]] 
+4. [[#Sivi]] 
+4. [[#Ishar]] 
 
 
 5 Trivia. [[#Trivia]] 
@@ -31,23 +39,42 @@
 
 
 ## Appearance and Personality
-Neturo-son-Vallano is ethnically Shin, meaning he is likely lighter-skinned and shorter than other Rosharans and that his eyes lack an . As an assigned guardian of an Honorblade, he is presumably a follower of [[Stone Shamanism\|Stone Shamanism]]. He believes the greatest service a man can perform is to create, to add to the universe, and therefore was unhappy with being forced to kill, to subtract.
+Neturo-son-Vallano is ethnically Shin, meaning that he is likely lighter-skinned and shorter than other Rosharans and his eyes lack an . He is a calm man with a long beard he likes to keep tied up at the bottom with a green ribbon, matching the other two he ties on his arms. He wears a reed hat to give him shade.
+He is a follower of [[Stone Shamanism\|Stone Shamanism]], but doesn't follow it blindly and is flexible with what is right and wrong according to his religion. He believes the greatest service a man can perform is to create, or to add to the universe, and therefore is unhappy with being forced to kill. However, he is still willing to do it if it means being able to follow Szeth.
 
 ## Attributes and Abilities
-Neturo-son-Vallano has likely trained with all of the Surges granted by the Honorblades in Shinovar's possession. While bearing Ishar's Honorblade, he presumably had access to the [[Surges\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]] and was an expert in using them. These are the same Surges used by the [[Knights Radiant\|Radiant]] [[Order of Bondsmiths\|Order of Bondsmiths]], but the Surgebinding granted by Honorblades typically differs from Surgebinding granted by a [[Nahel bond\|Nahel bond]]. However, Szeth specifically refers to Neturo's sword as the "Bondsmith Honorblade" and the [[Stormfather\|Stormfather]] implies that Ishar's recovery of the Honorblade was related to his apparent ability to use Bondsmith powers. It is not known if Ishar's Blade can grant other users such as Neturo access to the more esoteric, Bondsmith-specific uses of the Surges.
+Neturo is the Bondsmith Honorbearer. However, like Szeth, it seems Neturo was trained in the use of all the different blades, possibly during his time accompanying Szeth during his pilgrimage.
+While bearing Ishar's Honorblade, he has access to the [[Surges\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]]. These are the same Surges used by the [[Knights Radiant\|Radiant]] [[Order of Bondsmiths\|Order of Bondsmiths]], but the Surgebinding granted by Honorblades typically differs from Surgebinding granted by a [[Nahel bond\|Nahel bond]].
 
 ## History
-Neturo-son-Vallano worked as a shepherd on the coast of Shinovar during Szeth's youth. There were white cliffs near their home. At some point, their family was given to the Honorblades through unknown circumstances. Neturo became the bearer of Ishar's Honorblade, and was forced to learn how to kill. Szeth trained with the Honorblades in his youth and eventually wielded [[Jezrien\|Jezrien's]] Blade, but it is unclear when he received his Blade as compared to Neturo.
+Neturo-son-Vallano worked as a shepherd on the coast of Shinovar during Szeth's youth. One day, Szeth was attacked by a soldier that was patrolling the area around their homestead, and while defending himself, he killed the man. From that moment on, Szeth was recognized as one who subtracts, and was forced to join the [[Stoneward monastery\|Stoneward monastery]] to train as a soldier. Neturo stepped up and decided to join his son in his training to keep his family together, so Zeenid and Elid also joined him.
+As time passed, he was placed in charge of the organization of the military camp, which gave him a position of honor. This remained so until Szeth sank two ships defending the coast of Shinovar from a raid of Stonewalkers, an act that was deemed deserving of punishment for taking excessive measures.
+During this incident, the Honorbearers discovered that Szeth was being spoken to by [[Ishar\|The Voice]], and that made him part of a higher plan, so he was pardoned and made to join the [[Elsecaller monastery\|Elsecaller monastery]] as an acolyte. This meant that Szeth had to move away, once again leaving everything behind. Neturo, once again, decided to follow his son, leaving his position behind to become the administrator of Mokdown, the city outside of the Elsecaller monastery. This time, though, only Elid decided to follow him; Zeenid disagreed with what Neturo was doing by following their son and decided to go back to live with her sisters.
+While they lived in Mokdown, Neturo once again excelled at his job as an administrator. At some point during his stay there, he began a relationship with [[Sivi\|Sivi]], the Willshaper Honorbearer.
 
 >“*Your father was barely a man when I found him. The Shin had accepted the Unmade. Tried to make gods of them. I saved them. And your father did give me this Blade. He thanked me for letting him die.*”
 \-Ishar, to Szeth[1]
 
-During the [[True Desolation\|True Desolation]], Ishar took over [[Tukar\|Tukar]] and other parts of southern Roshar and waged war against the [[Coalition of monarchs\|coalition of monarchs]]. [[Dalinar\|Dalinar]] attempted to track Ishar down to parley, eventually finding him at a small camp near the coast. Ishar revealed that he had reclaimed his Honorblade from Shinovar, stating that the Shin served the [[Herald\|Heralds]] and had simply been holding the sword for him. Szeth told Ishar that Neturo-son-Vallano and the other Shin kept secrets for the Heralds, but had no plans to return the Honorblades to them. Ishar discounted this idea and told Szeth that the Shin had accepted the [[Unmade\|Unmade]] as their gods before he saved them. He said that he did not kill Szeth's father; rather, Neturo willingly gave up his Blade and welcomed the chance to die. Ishar's insanity casts doubt on his version of events, but Neturo did in fact lose possession of the Honorblade. Szeth did not want to believe Ishar, and was deeply shaken. Upon recovering, he drew [[Nightblood\|Nightblood]] for the first time in a year to strike at Ishar.
-Prior to the encounter with Ishar, [[Taravangian\|Taravangian]] mentioned Neturo-son-Vallano's death to Szeth, who did not take him seriously since he knew the old king was trying to manipulate him. When Szeth saw Ishar with the Blade, it seemingly confirmed his father's fate. Enraged, Szeth found Taravangian and demanded that he reveal how he had known that Neturo was dead. However, on that day Taravangian was too stupid to answer before Szeth killed him; it remains unclear how or when Taravangian actually learned of Neturo's death.
+After a time passed, it was decided that Szeth was to begin a pilgrimage to become the successor to the previous holder of [[Jezrien\|Jezrien's]] Honorblade, [[Tuko-son-Tuko\|Tuko-son-Tuko]]. Szeth tried to sneak away without having anyone accompany him, but just as he was leaving the town, he found Neturo, who followed him once more.
+After Szeth met the Voice and believed it to be an [[Unmade\|Unmade]], he left Neturo behind and began his rebellion. During this time, Neturo completed his training and ascended to the position of Bondsmith Honorbearer. He confronted Szeth, who was now leading a sizeable rebellion, and convinced him to stand down. After his son was deemed Truthless and exiled, Neturo kept on working with the rest of the Honorbearers at Ishar’s orders. Around Vev 1175, Ishar killed him and made him into one of his [[Fused\|Fused]].
+Neturo was finally laid to rest in Palahanah 1175 after a fight with Szeth in which his son ended his life using [[Nightblood\|Nightblood]].
 
 ## Relationships
 ### Szeth
-Szeth greatly respected his father and considered him a gentle, wise man. When Szeth became [[Truthless\|Truthless]], he stopped thinking of himself as "Szeth-son-Neturo" to avoid besmirching his father's name, instead using his grandfather's name; he even tried to stop thinking about Neturo entirely. Neturo also had a partner and a daughter, but nothing is known about them.
+Szeth greatly respects his father and considers him a gentle, wise man. When Szeth became [[Truthless\|Truthless]], he stopped thinking of himself as "Szeth-son-Neturo" to avoid besmirching his father's name, instead using his grandfather's name; he even tried to stop thinking about Neturo entirely.
+
+### Elid
+Elid is Neturo's daughter and Szeth's older sister. Elid loves her father very much; when he decided to follow Szeth during his journeys she accompanied him even after Zeenid decided to stay behind. She helped Neturo deal with the grief after his wife left him and confronted Szeth about his dependency on his father.
+
+### Zeenid
+Zeenid is Neturo’s wife and mother to Szeth and Elid. When they first meet, Neturo convinces her to question the orthodoxy of Stone Shamanism. So convinced, she moves with him to the outskirts of Shinovar. She grows distant to him during their stay in the soldier's camp, as it is an uncomfortable place for her to live and she blames Neturo for making her move there. They stop sleeping together and Zeenid actually begins actively avoiding Neturo. This distresses him, and he tries to do everything he can to make the soldier's camp a place she can feel good about living in. When Neturo decides to follow Szeth a second time, she chooses to stay behind and go back to living with her sisters. This breaks Neturo's heart, and he spends many nights crying.
+
+### Sivi
+[[Sivi\|Sivi]] was the Willshaper Honorbearer. During Neturo’s stay at Mokdown, she started visiting him and began a relationship with him. This continued even after Neturo decided to follow Szeth on his pilgrimage and it isn’t clear if it ever ended.
+
+### Ishar
+Ishar was the identity behind the Voice and at some point, began to talk to Neturo and guided him to become the Bondsmith Honorbearer. Once Ishar decided to reveal his true identity to the Honorbearers, he reclaimed his Honorblade from Neturo and killed him, turning him into a [[Cognitive Shadow\|Cognitive Shadow]].
+
 
 ## Trivia
 An early concept of the character that became Neturo is briefly mentioned in *[[The Way of Kings Prime\|The Way of Kings Prime]]* when Jek (the prototype for Szeth) notes that he is skilled in the art of stealth killing due to extensive training with his father.

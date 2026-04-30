@@ -21,10 +21,16 @@ The **Prime Aqasix**, also known simply as the **Prime**, is the title of the el
 
 
 ## Titles
-The full title of the current Prime Aqasix is as follows:
+The full title of the current Prime Aqasix is as follows: 
 
 >“* His Imperial Majesty Ch.V.D. [[Yanagawn\|Yanagawn]] the First, Emperor of [[Makabak\|Makabak]], King of [[Azir\|Azir]], Lord of the [[Bronze Palace\|Bronze Palace]], Prime Aqasix, grand minister and emissary of [[Jezrien\|Yaezir]]*”
 \- From a message sent to Urithiru[1]
+
+
+The full title of the Prime Aqasix as listed on a map detailing the city of Azimir:
+
+>“* the Prime Aqasix, our Grand Minister and Emissary of Yaezir, the Emperor of Makabak, the King of Azir, the Lord of the Bronze Palace*”
+\- From the Plan of the City of Azimir
 
 
 ## Election process

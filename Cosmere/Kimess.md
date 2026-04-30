@@ -6,7 +6,7 @@
 |**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Arelon** was the northwestern-most nation on the continent of [[Opelon\|Opelon]] on the planet [[Sel\|Sel]].
+**Arelon** is the northwesternmost nation on the continent of [[Opelon\|Opelon]] on the planet [[Sel\|Sel]].
 
 ## Contents
 

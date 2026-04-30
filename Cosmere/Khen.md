@@ -28,6 +28,7 @@
 
 
 ## Appearance and Personality
+ 
 Khen is a large, muscular singer with red and white marbled skin; she speaks with a deep voice in a clear Alethi accent. Her only carapace runs along her forearms and juts out at her temples. In workform, she wears a slave smock tied at her waist by a belt and leather sandals on her feet. [[Warform\|Warform]] suits her.
 She is passionate about her freedom to the extent that at first she is very willing to defend it by killing others. However, she gets frustrated with being given orders and being continuously oppressed by humans and [[Fused\|Fused]] alike. She is outspoken about these beliefs. Eventually this prompts her to leave [[Kholinar\|Kholinar]] to pursue her own life without being part of the singer army.
 

@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-**Narm** is a member of [[Bridge Four\|Bridge Four]].
+**Narm** is a member of [[Bridge Four\|Bridge Four]]. 
 
 ## Appearance and Personality
 He is skinnier than most of the other bridgemen. Narm is also one of the loudest complainers about [[Kaladin\|Kaladin]]’s leadership, alongside [[Moash\|Moash]] and [[Sigzil\|Sigzil]].

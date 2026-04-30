@@ -9,7 +9,7 @@
 Barm is a [[Darkeyed\|darkeyed]] chef who works in the kitchen of the citylord's mansion in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 
 ## Appearance and Personality
-Barm is a tall, slender, [[Darkeyed\|darkeyed]] man. He also has dark hair that he wears braided.
+Barm is a tall, slender, [[Darkeyed\|darkeyed]] man. He also has dark hair that he wears braided. 
 While managing his kitchen Barm often walks down the line of the kitchen counter, banging the long metal spoon he carries on a pot or pan every time he gives an order to his subchefs. Barm is an experienced chef and is used to preparing separate food for children in the kitchens.
 
 ## History

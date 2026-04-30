@@ -74,7 +74,7 @@ Fjorden and its client states encompass the vast majority of the continent of [[
 
 ### Fjorden
 Though Fjorden lies along the shore of the [[Sea of Fjorden\|Sea of Fjorden]], the nation doesn't seem to control many large islands. To the west, Fjorden is bordered by the [[Dathreki Mountains\|Dathreki Mountains]] (or Atad, as they are known to the Arelenes). At least two large rivers run through Fjorden. Fjorden has a cold climate. It sometimes gets so cold in the winter that trees freeze and explode.
-The [[Aberteen\|Aberteen]] is a flower found and favoured in Fjorden. The [[Sea of Fjorden\|Sea of Fjorden]], which lies next to the nation, contains many species of fish. One such species is the [[Kike\|kike]].
+The [[Aberteen\|Aberteen]] is a flower found and favoured in Fjorden. The [[Sea of Fjorden\|Sea of Fjorden]], which lies next to the nation, contains many species of fish. One such species is the [[Trike\|Trike]].
 
 ### Fjordell Empire
 The Fjordell Empire has very diverse geography. [[Hraggen\|Hraggen]] contains a large mountain range, while [[Hrovell\|Hrovell]] is bordered to the south by mountains. All the southern nations in the Fjordell empire are bordered by a large desert. Svorden has control over a large group of islands to the west of the peninsula.
@@ -158,7 +158,7 @@ The Fjordell also spar using dueling blades. For these sparring matches, they us
 The Fjordell have a very strict social structure. The people are expected to obey the commands of their superiors, who obey others and so forth, until the chain reaches Wyrn, who is the only man allowed to serve Jaddeth directly. Fjordell will do anything to rise in ranks—ambition is the one emotion Jaddeth would accept as readily as devotion.
 
 #### Foods and drinks
-The Fjordell drink Garha, a caffeine-rich drink. They may eat [[Kike\|kike]], as it is found in the [[Sea of Fjorden\|Sea of Fjorden]].
+The Fjordell drink Garha, a caffeine-rich drink. They may eat [[Trike\|trike]], as it is found in the [[Sea of Fjorden\|Sea of Fjorden]].
 
 ### Language
 Their language is called Fjordell; according to their doctrine, it's Jaddeth's own chosen tongue and thus holy, while other languages are considered profane. The native Fjordell accent is thick and melodic.

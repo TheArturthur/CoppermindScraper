@@ -4,8 +4,9 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 The **fain** or **fainlife** is a class of lifeforms on [[Yolen\|Yolen]]. Fain creatures generally have six limbs.
-Two of the three sapient species from Yolen, the [[Sho Del\|Sho Del]] and [[Dragon (cosmere)\|dragons]], are fain; the Sho Del fill the same niche in the fain ecosystem that humans fill in the normal one. Another form of fainlife is [[Tamu Kek\|Tamu Keks]], bones that are somehow similar to [[Singer\|singer]] [[Gemheart\|gemhearts]] and can be used for inter-[[Realmatic Theory\|Realm]] communication in some way. Fain flora is bone-white.
+Two of the three sapient species from Yolen, the [[Sho Del\|Sho Del]] and [[Dragon (cosmere)\|dragons]], are fain; the Sho Del fill the same niche in the fain ecosystem that humans fill in the normal one. Another form of fainlife is [[Tamukek\|tamukeks]], bones that are somehow similar to [[Singer\|singer]] [[Gemheart\|gemhearts]] and can be used for inter-[[Realmatic Theory\|Realm]] communication in some way. Fain flora is bone-white and [[Tanavast\|Tanavast]] describes fain animals as likely to be timid upon encountering a significant amount of color for the first time. The dragon [[Frost\|Frost]] has a throne made of fain wood, which he sits on while taking prayers.
 Though it originated on Yolen, the fain ecosystem has spread beyond that planet in significant ways. Knowledge of its existence is not uncommon among [[Cosmere\|cosmere]]-aware people after the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; when discussing how [[Ruin\|Ruin]] and [[Preservation\|Preservation]] used the Yolish ecosystem as a model for [[Scadrial\|Scadrial]], [[Khriss\|Khriss]] is able to mention without further explanation that "of course" this means the non-fain parts.
+At some point in history, there were rivalry between the fain and the unfain. 
 
 ## Unpublished Works
 > [!info] This page or section contains details from the unpublished works *[[The Liar of Partinel\|The Liar of Partinel]]* and [[Dragonsteel Prime\|Dragonsteel Prime]]!This information has the potential to ruin plot elements of both published works and upcoming book releases for the reader. It should also be considered uncanonical and could completely change in the future.
@@ -15,8 +16,8 @@ In [[Dragonsteel Prime\|Dragonsteel Prime]], the Yolish version of the [[Shatter
 In the non-canonical work *The Traveler*, fainlife is described as looking like ordinary flora, though the plants and land overtaken by it are bone-white.
 
 ## Trivia
-The Sho Del, dragons, and Tamu Keks are some of the few things from *Dragonsteel* Prime that are still part of the cosmere.
-When writing *[[Rhythm of War\|Rhythm of War]]*, Brandon debated whether to have the communication box that [[Mraize\|Mraize]] gave to [[Shallan\|Shallan]] contain a [[Seon\|seon]] or a Tamu Kek, but eventually settled on making it a seon because they have personalities whereas Tamu Keks are just bones.
+The Sho Del, dragons, and tamukeks are some of the few things from *Dragonsteel* Prime that are still part of the cosmere.
+When writing *[[Rhythm of War\|Rhythm of War]]*, Brandon debated whether to have the communication box that [[Mraize\|Mraize]] gave to [[Shallan\|Shallan]] contain a [[Seon\|seon]] or a tamukek, but eventually settled on making it a seon because they have personalities whereas tamukeks are just bones.
 The fainlife ecosystem was built from Brandon thinking about what sort of ecology would likely give rise to dragons and about what other evolutionary strains would exist in such an ecology.
 
 

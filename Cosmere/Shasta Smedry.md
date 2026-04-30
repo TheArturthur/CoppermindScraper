@@ -20,7 +20,7 @@
 
 
 ## Appearance and Personality
-Shasta has a tendency to wear simple, plain clothes. She has long blond hair, which she wears in a bun. Like many Librarians, she wears a pair of horn-rimmed glasses.
+Shasta has a tendency to wear simple, plain clothes. She has long blond hair, which she wears in a bun. Like many Librarians, she  wears a pair of horn-rimmed glasses.
 While working undercover as Ms. Fletcher, Alcatraz's caseworker, she acted quite unpleasantly toward him, often criticizing Alcatraz. However, she is shown to care about her son when Alcatraz uses his Truthfinder's Lens on her, and during the events of Siege of Mokia, they have a discussion like two equals. While interacting with other Librarians, she is curt and businesslike. She is serious most of the time, but on occasion displays a very sarcastic sense of humor.
 Shasta appears to be ashamed that she doesn't have full control over her Smedry Talent. However, she typically keeps an unflappable demeanor and is able to brush off most criticisms.
 

@@ -50,7 +50,7 @@
 Terris appears to be derived from the Terris infinitive verb *Terr* meaning *To Preserve*, which is also the ancient name for Preservation, referencing their veneration of Preservation and the importance of it to their culture.
 
 ## History
-The Terris people have a long and varied history reaching across multiple eras of Scadrial. Their ancestors were created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]] at some point after the creation of Scadrial, who came to populate the planet. It is not known exactly when Terris ethnogenesis occurred, however, but they are known to be a long established group by the time of the Lord Ruler's Ascension.
+The Terris people have a long and varied history reaching across multiple eras of Scadrial. Their ancestors were created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]] at some point after the creation of Scadrial, who came to populate the planet. It is not known exactly when Terris ethnogenesis occurred, however, but they are known to be a long established group by the time of the Lord Ruler's Ascension. 
 
 ### Classical Scadrial
 During the late Classical Era of Scadrial, the Terris people lived in the Terris mountains and were subject to oppression by many different states and peoples, including [[Khlennium\|Khlennium]]. This has instilled a hatred for the people of these states, particularly amongst the younger generation, who believe their people were made like slaves to foreign powers. However, Khlenni culture still influenced Terris culture, and some Terris people traded with Khlennium and took on Khlenni fashion.
@@ -69,7 +69,7 @@ After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|S
 
 ### Post-Catacendre
 Around one-fifth of the [[Originators\|Originators]], those who survived the war against Ruin and the Catacendre, were Terris. Many of the Originators taught their children the Terris language, and over time the language was revived from its dead state.
-With the Lord Ruler's Terris breeding program and laws against intermarriage ended, the Terris were no longer an entirely isolated population in post-[[Catacendre\|Catacendre]] Scadrial. Feruchemical and Allomantic genes combined to allow for [[Twinborn\|Twinborn]] who have both [[Allomancy\|Allomancy]] and Feruchemy.
+With the Lord Ruler's Terris breeding program and laws against intermarriage ended, the Terris were no longer an entirely isolated population in post-[[Catacendre\|Catacendre]] Scadrial. Feruchemical and Allomantic genes combined to allow for [[Twinborn\|Twinborn]] who have both [[Allomancy\|Allomancy]] and Feruchemy. 
 However, many Terris still maintained an endogamous culture of their own distinct from the majority of the society of the Basin. [[The Village\|The Village]] is a major Terris enclave in Elendel. A Terris Synod existed in the Village; this Synod had no official control over other Terris enclaves, and would claim to have more authority than it actually possessed. Due to their endogamy, mixed race people remained rare, despite the legalization of such relationships.
 They came to be desirable on staff, and especially amongst political cabinets. This is due to the fact that many people believe that it looks good for them to have diversity in their staff, using them for public image alone. Some Terris people have pointed out how this is merely using them as a medal.
 
@@ -77,11 +77,11 @@ They came to be desirable on staff, and especially amongst political cabinets. T
 The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to these factors, it is difficult to tell a Terris person by their skin tone alone. However, in the Post-Catacendre era, due to a mixture of their endogamy, and the fact that most dark skinned people who survived the Catacendre were Terris, they became more associated with darker skin.
 At least some Terris people are black haired.
 They are also, notably, a rather tall people. Terris people often have a willowy build. Ancient paintings, during the post-Catacendre era, show Terris people with exaggerated elongated features. Some Terris women wear their hair in a braid, and some men keep their head shaved.
-[[Feruchemy\|Feruchemy]] is passed down through Terris bloodlines.
+[[Feruchemy\|Feruchemy]] is passed down through Terris bloodlines. 
 
 
 ## Culture
-Many Terris people wish to stay isolated in order to maintain their cultural and genetic heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people.
+Many Terris people wish to stay isolated in order to maintain their cultural and genetic heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people. After the Catecendre, many Terris people do not adopt surnames, instead using Terrisborn when a surname is needed. 
 They are known to be a rather reserved people, with a strong emphasis on order and stability. They value respectful dignity, meekness, ubmission, and being candid. Following from this, their speech patterns try to avoid offence, and often indicate uncertainty. Various Terris people see their culture as inherent to the Terris people, and see those who adopt the Imperial culture to be denying who they are.
 Some believe that Old Terris still remains in the world, left by Harmony as a promised land for them to discover.
 
@@ -116,7 +116,7 @@ The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to pr
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
 \- Tellingdwar giving the evening recitation[28]
 
-Post-Catacendre religious practices changed from the pre-Final Empire practices. Though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
+Post-Catacendre religious practices changed from the pre-Final Empire practices, though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
 
 ### Feruchemy

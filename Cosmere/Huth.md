@@ -60,7 +60,7 @@ Huth was established at an unknown date before the [[Manywar\|Manywar]].
 ### Tensions with Hanald
 Approximately three hundred years before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], a short time before the Manywar, tensions with [[Hanald\|Hanald]] were at an all time high. This was because of two main reasons.
 The first reason was [[Hanald\|Hanald]]’s monopoly on the dye trade. Other kingdoms wished to profit in this trade as well, but Hanald wouldn’t allow them.
-Hanald’s Royals also turned its attention to the relatively new art of [[Awakening\|Awakening]]. During this time they gained powerful awakeners and [[Lifeless\|Lifeless]], which other kingdoms didn’t have. Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol\|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies, and become far more powerful, raising tensions even higher.
+Hanald’s Royals also turned its attention to the relatively new art of [[Awakening\|Awakening]]. During this time they gained powerful awakeners and [[Lifeless\|Lifeless]], which other kingdoms didn’t have. Many different discoveries were made during this time, including the command to make Lifeless with a single breath and [[Ichor-alcohol\|Ichor-alcohol]]. These discoveries allowed nations to build far larger and cheaper armies, and become far more powerful, raising tensions even higher. 
 At some point, one of the [[Returned\|Returned]] in Hanald had a vision of war. This ended up being the catalyst for a war, as it prompted [[Strifelover\|Strifelover]] to strike preemptively against Huth and the other nations.
 
 ### The Manywar and Destruction

@@ -2,19 +2,17 @@
 |-|-|
 ||
 |**[[House Cett\|House Cett]]**|
-|**Spouse**|[[Edgard Ladrian\|Edgard]]|
+|**Spouse**|[[Edgard Ladrian\|Edgard Ladrian]]|
 |**Parents**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Mother]]|
 |**Siblings**|[[Gneorndin Cett\|Gneorndin]]|
 |**Descendants**|[[Edwarn\|Edwarn]], [[Waxillium\|Waxillium]], [[Telsin\|Telsin]], [[Hinston\|Hinston]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Born**|~1006 [[Final Empire\|FE]]|
 |**Abilities**|[[/wiki/Zinc#Allomantic Use]]|
-|**Groups**|Venture army|
+|**Groups**|Venture army, [[Preservers\|Preservers]], [[Originators\|Originators]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
-
-> [!info] It has been suggested that this page be moved to [[Allrianne Ladrian\|Allrianne Ladrian]].Please discuss the proposed move on the article's talk page.
 
 **Allrianne Cett** is a noblewoman from the [[Western Dominance\|Western Dominance]] and a [[Zinc\|zinc]] [[Misting\|Misting]] (aka a [[Rioter\|Rioter]]) on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]] and subsequent [[Collapse\|Collapse]]. She is the daughter of [[Ashweather Cett\|Ashweather Cett]] and is married to [[Breeze\|Breeze]].
 
@@ -31,11 +29,11 @@
 ## Appearance and Personality
 Allrianne is described as youthful, cute and a bit plump. She has golden hair that is long and bouncy, owing to both her Western roots and her continued use of Final Empire styles. She is graceful like most noblewomen, but she also drops her dignified air to express high energy. She is first seen in a red dress after the current styles popular with the nobility, and is rarely seen out of such clothing.  While in Urteau, she is forced to wear plain brown skaa dresses, but continues to wear fancy ones within the safety of the city's storage cavern. She is disgruntled about the restriction but follows the law. 
 Allrianne is perceived by many as a young, naive girl. She uses this perception to manipulate others at the same amount and level as her romantic interest Breeze, as seen by Sazed and as a Rioter rather than a [[Soother\|Soother]]. She is confident and demanding in both Allomancy and personality. From the moment she arrives in Luthadel for the first time, she expects to be taken care of at the level of living she is used to. Vin witnesses her listing off favorite foods to servants and arranging a bath the moment she knows she will be staying. Despite this need for comfort, she is repeatedly willing to go outside her comfort zone in order to protect or help those she loves. Not only does she bring her father back to Luthadel in order to assist Breeze, she also travels to Urteau despite knowing the city's political climate and hatred for nobles. She was in the most immediate danger by going there as a full blooded noble.
-While Allrianne admits that her father cares little about the [[Skaa\|skaa]], there are repeated mentions of Allrianne's own lack of indifference towards them. When she goes shopping with Vin, she admits that she knows Breeze is half-skaa. She feels pity for them, and more specifically for Vin, at the time, but still treats Vin as a friend. Later, when she witnesses Quellion's executions, she begins crying and riots the crowd's emotions. This is no passive grief. She, intentionally or not, almost begins a riot as a result of her hatred for what Quellion is doing. Her feelings come through in her very active interactions with those around her.
+While Allrianne admits that her father cares little about the [[Skaa\|skaa]], there are repeated mentions of Allrianne's own lack of indifference towards them. When she goes shopping with Vin, she admits that she knows Breeze is half-skaa. She feels pity for them, and more specifically for Vin, at the time, but still treats Vin as a friend. Later, when she witnesses Quellion's executions, she begins crying and riots the crowd's emotions. This is no passive grief. She, intentionally or not, almost begins a riot as a result of her hatred for what Quellion is doing. Her feelings come through in her very active interactions with those around her. 
 Breeze seems to have some compunctions about influencing people in his love life, but Allrianne has no such worries. Cett informs Elend in their meeting that he is certain Allrianne has seduced Breeze, rather than the other way around.  Vin witnesses her doing so when she spies on Breeze and Clubs, and later she muses on the difficulty of getting Breeze to love her. Even when thinking about the seduction, she has no worries about its morality or the truth of their relationship, only finding it to have been a fun challenge. 
 
 ## Attributes and Abilities
-Allrianne is a very skilled [[Rioter\|Rioter]], and is able to influence hundreds of people at once. She can easily manipulate people to help her or act the way Though it is unclear whether her seduction of Breeze was a result of that, or just her natural charm.
+Allrianne is a very skilled [[Rioter\|Rioter]], and is able to influence hundreds of people at once. She can easily manipulate people to help her or act the way she wants. Though it is unclear whether her seduction of Breeze was a result of that, or just her natural charm.
 She also rides with an easy mastery, capable of staying on the back of a galloping horse even in a frivolous dress.
 
 ## History
@@ -50,6 +48,7 @@ Breeze finally openly admitted to having a relationship with Allrianne, though h
 During the founding of [[Elendel\|Elendel]] and the time after the [[Final Ascension\|Final Ascension]], Allrianne gave speeches on workplace equality and feminist themes, which codified a culture in which women were expected to be able to remain feminine while working. Allrianne was referred to as one of the [[Originators\|Originators]].
 
 ## Relationships
+  *Charm*
 She cares very much about Breeze, enough to ride out and convince her father to turn back and help [[Luthadel\|Luthadel]], and therefore Breeze, survive.
 
 ## Quotes

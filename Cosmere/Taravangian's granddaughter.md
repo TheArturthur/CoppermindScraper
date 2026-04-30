@@ -1,7 +1,7 @@
 |***Unknown***|
 |-|-|
 |**Family**|
-|**Relatives**|[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], [[Ruli\|Ruli]], [[Savrahalidem\|Savrahalidem]]|
+|**Relatives**|[[Gvori\|Gvori]], [[Karavangia\|Karavangia]], [[Ruli\|Ruli]], [[Savrahalidem\|Savrahalidem]]|
 |**Ancestors**|[[Taravangian\|Taravangian]]|
 |**Residence**|[[Kharbranth\|Kharbranth]]|
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
@@ -34,7 +34,7 @@ Later during the year, she was gifted a portrait of the king by her grandfather,
 In the hopes that he could witness Jasnah using her Soulcaster, Taravangian deliberately had his granddaughter trapped via a cave-in following the highstorm. Despite his ulterior motives, he was concerned for his granddaughter's wellbeing and did not want her to be harmed, even though he put her in a dangerous situation.
 
 ## Trivia
-[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], and [[Ruli\|Ruli]] are different grandchildren to the one who Taravangian had trapped by the rockfall.
+[[Gvori\|Gvori]], [[Karavangia\|Karavangia]], and [[Ruli\|Ruli]] are different grandchildren to the one who Taravangian had trapped by the rockfall.
 It is unknown if this grandchild is a sibling or cousin of Taravangian's other grandchildren.
 
 

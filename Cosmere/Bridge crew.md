@@ -34,7 +34,7 @@ The unique geography of the Shattered Plains required the armies to cross many c
 The bridgemen were split into 40 bridge crews, each carrying one bridge. Each bridge crew was comprised of approximately 35-40 men. The most notable crew was [[Bridge Four\|Bridge Four]]: initially known for being the worst crew with the highest casualty rate, they are later noted for their excellence and innovation to bridge warfare while under the command of Kaladin.
 
 ### Organization
-[[Gaz\|Gaz]] was the bridge sergeant, reporting directly to Brightlord [[Lamaril\|Lamaril]]. After Lamaril is executed, Brightlord [[Matal\|Matal]] takes nominal command of the unit, although his wife Brightness [[Hashal\|Hashal]] is the one who is actually commanding the unit. Within each bridge crew, the men appointed their own bridge leader, but they lacked an overall command structure or allegiance to anything except their own self-preservation.
+[[Gaz\|Gaz]] was the bridge sergeant, reporting directly to Brightlord [[Lamaril\|Lamaril]]. After Lamaril is executed, Brightlord [[Avarak Matal\|Matal]] takes nominal command of the unit, although his wife Brightness [[Hashal\|Hashal]] is the one who is actually commanding the unit. Within each bridge crew, the men appointed their own bridge leader, but they lacked an overall command structure or allegiance to anything except their own self-preservation.
 
 ### Functions
 For bridge crews' tactical use, see [[/wiki/War of Reckoning#The Use of Bridges Between Plateaus]].
@@ -52,7 +52,7 @@ Bridge Four, Kaladin's original bridge crew, becomes their premier unit as well 
 
 ### Innovations
 Under Captain Kaladin's command, the bridge crews have implemented a number of innovations to warfare.
-Due to Kaladin's background in medicine, he has trained some members of the bridge crews in battlefield medicine, leading to the first deployment of combat medics on the battlefield.
+Due to Kaladin's background in medicine, he has trained some members of the bridge crews in battlefield medicine, leading to the first deployment of combat medics on the battlefield. 
 Kaladin also creates a modernized command structure for the bridge crews. A typical Alethi army is organized around a very small number of lighteyed officers with a moderate amount of "citizen officers," the Alethi term for a non-commissioned officer. Since the bridge crews have no lighteyes, and also because Kaladin believes this command structure to be lacking, he creates the position of lieutenant between himself and the sergeants who lead platoons. Additionally, he is considering expanding the size of his non-commissioned officer corps by adding the additional rank of "master sergeant."
 
 ## Bridges

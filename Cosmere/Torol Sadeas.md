@@ -19,7 +19,7 @@
 \-Sadeas about Dalinar[5]
 
 
-**Torol Sadeas** is an [[Alethi\|Alethi]] [[Highprince\|Highprince]] on [[Roshar\|Roshar]]. Through a number of successful battles fought alongside [[Gavilar\|Gavilar]] and [[Dalinar\|Dalinar]] Kholin, he became one of the most powerful men in the Kingdom. Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife [[Ialai Sadeas\|Ialai]], they eliminate people they consider inconvenient. He commands one of the two most significant armies on the [[Shattered Plains\|Shattered Plains]], the other being the army of Dalinar Kholin.
+**Torol Sadeas** is an [[Alethi\|Alethi]] [[Highprince\|Highprince]] on [[Roshar\|Roshar]]. Through a number of successful battles fought alongside [[Gavilar\|Gavilar]] and [[Dalinar\|Dalinar]] Kholin, he became one of the most powerful men in the kingdom.  Known for his cruelty and brutality, Sadeas is a proficient political master; along with his wife [[Ialai Sadeas\|Ialai]], they eliminate people they consider inconvenient. He commands one of the two most significant armies on the [[Shattered Plains\|Shattered Plains]], the other being the army of Dalinar Kholin.
 As Highprince of Information, he was able to manipulate the king and the other Highprinces. He was still able to outmaneuver Dalinar, even after he was openly found guilty of treason. He possesses both a set of [[Shardplate\|Shardplate]] and a [[Shardblade\|Shardblade]], which is called [[Oathbringer (Shardblade)\|Oathbringer]].
 He is murdered by [[Adolin Kholin\|Adolin Kholin]] a short time after his arrival in [[Urithiru\|Urithiru]].
 
@@ -48,6 +48,7 @@ He is murdered by [[Adolin Kholin\|Adolin Kholin]] a short time after his arriva
 3. [[#Adolin Kholin]] 
 3. [[#Dalinar Kholin]] 
 3. [[#Gavilar Kholin]] 
+3. [[#Ialai Sadeas]] 
 
 
 4 Trivia. [[#Trivia]] 
@@ -117,7 +118,7 @@ The plan worked well for a time. Sadeas managed to get his forces across the bri
 
   Receiving <<Oathbringer (Shardblade)\|Oathbringer>> from <<Dalinar\|Dalinar>>
 Upon Sadeas' return to camp, he was met by [[Navani\|Navani]]. Acting regretful, he told her he had to be the harbinger of grave news; he offered his condolences and claimed he did all he could to save Dalinar but was himself ultimately overwhelmed by the Parshendi and forced back. Sadeas declared that Dalinar was both a friend and an ally, asserting that he would seek vengeance for Dalinar's death. He watched Navani ink and burn a large *thath* [[Glyph\|glyph]] shortly before a runner quietly announced Dalinar's approach.
-Sadeas attempted to reconcile with Dalinar, offering an apology that Dalinar accepted publicly. However, the two moved close so no one could overhear them and Dalinar asked for an explanation. Sadeas claimed he was upholding his oath: “Protect Elhokar. Protect this kingdom.” He thought Elhokar was being influenced by Dalinar's insistence on the Codes, worrying that the king talked of retreating from the Plains, as Dalinar had wanted. Sadeas saw Dalinar as a threat to the kingdom and, despite their old friendship, admitted that he just wanted Dalinar gone.
+Sadeas attempted to reconcile with Dalinar, offering an apology that Dalinar accepted publicly. However, the two moved close so no one could overhear them and Dalinar asked for an explanation. Sadeas claimed he was upholding his oath: “Protect Elhokar. Protect this kingdom.” He thought Elhokar was being influenced by Dalinar's insistence on the Codes,  worrying that the king talked of retreating from the Plains, as Dalinar had wanted. Sadeas saw Dalinar as a threat to the kingdom and, despite their old friendship, admitted that he just wanted Dalinar gone.
 Before leaving, Dalinar asked Sadeas to give him the members of [[Bridge Four\|Bridge Four]] to fulfill a promise he had made to [[Kaladin\|Kaladin]]. Sadeas refused the initial offers, asserting that he would not give up the bridgemen for a thousand [[Spheres\|broams]] each. Dalinar then summoned his Shardblade and drove it point-first in the earth before Sadeas, offering his Blade in exchange for every bridgeman in Sadeas' camp. Sadeas, shocked, nevertheless agreed and gained the Blade he had always desired.
 
 ### After the Battle of the Tower
@@ -154,6 +155,9 @@ Before Gavilar's assassination, Sadeas and Dalinar were very close friends. They
 
 ### Gavilar Kholin
 He deeply respected Gavilar Kholin, and wanted to keep him in the position of king of Alethkar. His respect was enough that he helped to unify Alethkar under Gavilar during the Alethi War of Unification.
+
+### Ialai Sadeas
+Ialai Sadeas is Torol Sadeas' wife. He is attracted to her "dangerous" personality, and the two of them often work on political schemes together.
 
 ## Trivia
 His name's similarity to the word "sadist" was not a coincidence, but it was more of a subconscious choice by Brandon than one that he was aware of.

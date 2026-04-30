@@ -4,7 +4,9 @@
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The Spiritual Realm contains an object's soul—its essence—as well as the ways it is connected to the things and people around it.*”
 \-Shai's description of the Spiritual Realm[1]
@@ -44,6 +46,7 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 3 Inhabitants. [[#Inhabitants]] 
 
 3. [[#Shards 2]] 
+3. [[#Spirit Shores]] 
 3. [[#Potential Other Inhabitants]] 
 
 
@@ -63,8 +66,8 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 The Spiritual Realm, including all of the Connections and souls within it, is made up entirely of Investiture, and all of the Investiture which makes it up is part of the body of one of the sixteen Shards. Thus, the Spiritual Realm is made up from and one with the Shards.
 
 ### Space and Time
->“*He thrust his right hand to the other side, touching something vast, something that wasn’t a place—it was all places in one.*”
-\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[5]
+>“*He thrust his right hand to the other side, touching something vast, something that wasn’t a place—it was all places in one. *”
+\-Dalinar grabbing the Spiritual Realm to create Honor's Perpendicularity[7]
 
 
 The Spiritual Realm is not a place. The Spiritual Realm is made up entirely of [[Investiture\|Investiture]] in the form of [[Spiritweb\|spiritwebs]] and the [[Connection\|Connections]] between them. As such, time and space are "irrelevant" or "compounded into one" in the Spiritual Realm. This timelessness means that the Spiritual Realm breaks causality, but in a controlled way. [[Design\|Design]] remarked that time dilation was easier in the Spiritual Realm because time "flows like water into whatever container you provide".
@@ -72,8 +75,8 @@ Because time is irrelevant, an object's Connection to its past as well as its fu
 Space being compounded means that, unlike the Physical and the Cognitive Realms, the Spiritual Realm has no distinct locations. As a result, "all things are one" in the Spiritual Realm and those with access to the Spiritual Realm, like Shards, can see what is happening on other worlds and can move around the cosmere more easily.
 
 #### Possibilities
-The Spiritual Realm contains a vision of each member in a set of all possible worlds. This includes possible worlds which are defined by counterfactual conditionals, that is to say, configurations of how the world *could have* been if something else occurred in the past, as opposed to merely worlds that can possibly arise from the current world-state of the actual world.
-Possible worlds are not actual worlds, that is to say, that these possible worlds do not exist as isolated space-time structures, but as abstract possibilities.
+The Spiritual Realm contains a vision of every possible world. This includes possible worlds which are defined by how the world *could have* been if something else occurred in the past, as opposed to merely worlds that can possibly arise from the current actual world.
+Possible worlds are not actual worlds, that is to say, that these possible worlds do not exist as alternate universes, but as abstract possibilities.
 
 ### Spiritwebs
 For more information, see [[Spiritweb\|spiritweb]].
@@ -99,7 +102,7 @@ For more information, see [[Fortune\|Fortune]].
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”
-\-Hoid's warning to Shallan[56]
+\-Hoid's warning to Shallan[58]
 
 
 Future sight always draws upon the Spiritual Realm to work. Any time someone sees the future, it will have ripples against someone else's ability to do the same. Future sight can be used to gain knowledge of where and when the user needs to be somewhere, and what they need to do. This ability is not perfect, and can sometimes tell a user where they are supposed to be without the why. Future sight can also alert a user to the presence of certain objects. In general, it's been said to be a highly dangerous ability.
@@ -141,7 +144,7 @@ Occasionally, when a person dies, [[Endowment\|Endowment]] grants them a glimpse
 [[Wulfden the Fourth\|Wulfden the Fourth]] uses some form of magical foresight. The source and extent of his powers are unknown, though it appears to be related to [[Dominion\|Dominion]]. The mechanics of his ability are unknown, but parallel to similar skills in the cosmere.
 
 
-One type of [[Aviar\|Aviar]] allows a person it's bonded with to see visions showing their possible deaths in near future (roughly a minute). These visions manifest in the form of an image of the individual's corpse in the area where a death could happen. The Aviar has control over when they share this ability, and with whom, and can see every vision it shares.
+One type of [[Aviar\|Aviar]], a raven, allows a person it's bonded with to see visions showing their possible deaths in near future (roughly a minute). These visions manifest in the form of an image of the individual's corpse in the area where a death could happen. The Aviar has control over when they share this ability, and with whom, and can see every vision it shares.
 
 
 [[Hoid\|Hoid]] has access to an ability that allows him to make use of the Spiritual attribute of [[Fortune\|Fortune]],, which grants him a limited amount of foresight. Hoid's Fortune ability lets him know where and when he needs to be. While this ability may grant him knowledge of what he is to do, usually Hoid does not know why his ability has brought him to a specific place. Hoid's Fortune ability is not infallible; occasionally it directs him to go somewhere, but either nothing notable is happening or he is unable to discover the reason why he has been led there.
@@ -154,6 +157,13 @@ One type of [[Aviar\|Aviar]] allows a person it's bonded with to see visions sho
 For more information, see [[Shard\|Shard]].
 Ordinarily, most of a Shard’s power exists in the Spiritual Realm, which means they are less constrained by space and time and remain connected to all of the Investiture, even if it is spread out in the Physical Realm. Devotion and Dominion are the main exceptions to this, as their Investiture was forcibly pushed from the Spiritual Realm to the Cognitive Realm. If a planet has a Shard in residence, the Shard’s Investiture will naturally seep through to the Physical Realm; Shards can accelerate this process by actively doing things. While Shards can generally move freely, since location has no meaning in the Spiritual Realm, once a Shard’s Investiture is tied to a planet, it is harder for the Shard to do so.
 When a new Vessel Ascends, they gain some innate understanding of the Spiritual Realm. Because even a Vessel’s mind is not infinite, however, they do not have a perfect view of the Spiritual Realm. Because the Shards exist primarily in the Spiritual Realm, they can see possible futures, though the further they look into the future, the harder it becomes to interpret those possibilities. Some Shards are better at this than others. For example, Preservation, who was able to make prophecies about events thousands of years in advance, appears to be one of the better ones, Cultivation is better than Honor, and Ruin has little skill in this area.
+
+
+### Spirit Shores
+For Dragon, see [[Dragon (cosmere)\|Dragon (cosmere)]].
+  <<Hoid\|Hoid>> and <<Starling\|Starling>> walking along the Spirit Shores.
+The Spirit Shores is a region of the Spiritual Realm where [[Dragon (cosmere)\|dragons]] commune. It appears as the shoreline of a vast ancestral ocean reminiscent of those on [[Yolen\|Yolen]]. Dragons who have died reside there waiting for their Investiture to dissipate before moving into the [[Beyond\|Beyond]]. Living dragons and others such as [[Hoid\|Hoid]] can access the region through meditation or dreams to speak with each other or those that have died.
+The manacles placed on exiled dragons makes it extremely difficult to access the Spirit Shores.
 
 ### Potential Other Inhabitants
 Very few beings exist solely in the Spiritual Realm. It is possible for physical beings to travel to the Spiritual Realm, but the results are weird. [[Elend Venture\|Elend Venture]], burning both atium and duralumin, managed to travel mostly to the Spiritual Realm. While there, Elend saw “a mind-numbing wealth of information,” including Leras’s plan for Ati’s death. Flaring one of the temporal metals at the moment of one’s death can also provide a glimpse of the Spiritual Realm. Shards can also give people a glimpse of the Spiritual Realm, generally via eye contact with the Vessel; Leras shows Kelsier the Connection between everything and the possible futures and Odium shows Dalinar the complete nature of his Shard. Visions, such as the ones Honor left for potential Bondsmiths, almost always involved being pulled partially into the Spiritual Realm, with an additional "Cognitive framework" that allows people to understand them. Traveling to the Spiritual Realm can be extremely dangerous for people, as it has the potential to break their brain.

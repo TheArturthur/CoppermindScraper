@@ -22,6 +22,11 @@ Duralumin is the alloy paired with [[Aluminum\|aluminum]] in the Metallic Arts.
 
 1 Alloy Composition. [[#Alloy Composition]] 
 2 Allomantic Use. [[#Allomantic Use]] 
+
+2. [[#Allomantic Interactions]] 
+2. [[#Other Invested Arts Interactions]] 
+
+
 3 Feruchemical Use. [[#Feruchemical Use]] 
 
 3. [[#Compounding]] 
@@ -37,10 +42,19 @@ Duralumin is the alloy paired with [[Aluminum\|aluminum]] in the Metallic Arts.
 The duralumin used in the Metallic Arts is ninety-six percent aluminum, four percent [[Copper\|copper]].
 
 ## Allomantic Use
-A duralumin [[Misting\|Misting]] is known as a **Duralumin Gnat**. An Allomancer burning duralumin instantly uses up any metals being burned simultaneously, releasing an enormous burst of power from those metals. Due to this, the more metal they have on them upon burning duralumin, the greater the burst of power. Duralumin itself is not completely consumed like metals it is burned in concert with, but it still continues to burn away at a steady rate. A Duralumin Gnat gains nothing from their powers.
-The use of duralumin could seriously hurt a [[/wiki/Allomancy#Types of Allomancers]]. While burning [[Tin\|tin]], the Mistborn risks being shocked by the sensory overload and becoming temporarily numb, blind, and deaf. A [[Steel\|Push]] or [[Iron\|Pull]] could become so strong it can feel like the Mistborn is being torn apart. When using duralumin, Mistborn usually burn pewter along with tin/iron/steel to avoid injuries.
-When combined with emotional Allomancy, duralumin allows Allomancers to "break into" and gain control of Hemalurgic constructs such as kandra and koloss, even if they would not normally have enough raw power to do so.
-Duralumin could potentially be used to gain a burst of power from other forms of [[Investiture\|Investiture]] as well, such as [[Surgebinding\|Surgebinding]]. Burning duralumin while also [[Compounding\|Compounding]] any other metal does not gain anything other than time, and is quite dangerous due to the swift effects of the duralumin.
+A duralumin [[Misting\|Misting]] is known as a **Duralumin Gnat**. An [[Allomancy\|Allomancer]] burning duralumin instantly uses up any metals being burned simultaneously, releasing an enormous burst of power from those metals. Due to this, the more metal they have on them upon burning duralumin, the greater the burst of power. Duralumin itself is not completely consumed like metals it is burned in concert with, but it still continues to burn away at a steady rate. A Duralumin Gnat gains nothing from their powers. The use of duralumin could seriously hurt a Allomancer due to the explosion of power.
+Burning duralumin while also [[Compounding\|Compounding]] any other metal does not gain anything other than time, and is quite dangerous due to the swift effects of the duralumin.
+
+### Allomantic Interactions
+[[Iron\|Iron]]/[[Steel\|Steel]]: While Pulling or Pushing with duralumin, an Allomancer gains an explosion of power, but grants them a far greater base strength, allowing them to Pull or Push on objects far heavier or [[Investiture\|Invested]] than normal. These Pulls/Pushes could become so strong it can feel like the Allomancer is being torn apart. When using duralumin, Allomancers usually burn pewter along with iron/steel to avoid injuries. A Coinshot could also launch incredibly far with a single Push.
+[[Tin\|Tin]]: While burning tin, a Tineye risks being shocked by the sensory overload and becoming temporarily numb, blind, and deaf.
+[[Pewter\|Pewter]]: While burning pewter, a Thug can withstand or deal damage far greater than normal. A Thug could also briefly resist the effects of drugs, but this does not remove the effects of the drugs long term.
+[[Zinc\|Zinc]]/[[Brass\|Brass]]: Pulling or Pushing on emotions while burning duralumin causes the targets to feel an intense Rioting or Soothing of their emotions. Those Soothed feel a flattening of emotions, making them feel empty and devoid of all feelings. Those Rioted feel an intense flare of emotions, making them to be more likely to act. Duralumin also allows an Allomancer to Riot/Soothe the emotions of a Smoker through a [[Copper\|coppercloud]] momentarily. When combined with emotional Allomancy, duralumin also allows Allomancers to "break into" and gain control of [[Hemalurgy\|Hemalurgic]] constructs such as [[Kandra\|kandra]] and [[Koloss\|koloss]], even if they would not normally have enough raw power to do so.
+[[Bronze\|Bronze]]: While burning bronze, a Seeker feels Allomantic pulses much louder and more acutely than normal. With duralumin, Seekers can also feel Allomantic pulses through a coppercloud momentarily, although not as effective as being able to pierce the coppercloud naturally. This combination also allows emotional Allomancy to work on Smokers.
+[[Cadmium\|Cadmium]]/[[Bendalloy\|Bendalloy]]: While creating a speed bubble with duralumin, an Allomancer can condense or expand the time that the bubble is affecting. For bendalloy, this makes the time inside the bubble compressed, and from inside, time outside the bubble slows to a complete halt. For cadmium, it is likely the opposite effect, expanding the time outside the bubble and being able to skip time at a much faster pace. Cadmium's effect specifically is important for FTL space travel.
+[[Atium\|Atium]]: While burning atium, an Allomancer is able to see farther into the future, by allowing them to peer into the [[Spiritual Realm\|Spiritual Realm]].
+### Other Invested Arts Interactions
+Burning duralumin could potentially be used to gain a burst of power from other forms of Investiture, such as [[Surgebinding\|Surgebinding]] or [[Feruchemy\|Feruchemy]].
 
 ## Feruchemical Use
 A duralumin [[Ferring\|Ferring]] is known as a **Connector**. Duralumin is used to store Spiritual [[Connection\|Connection]]. Filling a duraluminmind can be used to reduce other people's awareness of and friendship with the Connector, as these Spiritual Connections become stored away. Tapping it would strengthen Connections or allow the Connector to form relationships faster.

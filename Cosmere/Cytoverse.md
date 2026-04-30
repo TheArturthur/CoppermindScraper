@@ -46,7 +46,7 @@ The Cytoverse is a setting possessing highly advanced technology, from laser wea
 
 ### Nowhere
 For more information, see [[Nowhere\|Nowhere]].
-The universe is comprised of two connected realities -- our own (sometimes referred to as "the somewhere") and nowhere, an interdimensional "world" with, at least in the lightburst, no concept of distance and space. The Nowhere looks like a bright white "sun"(the lightburst) and surrounding that, a belt of floating chunks of acclivity stone. A variety of ifferent fauna and flora exist on the chunks. While initially a solid white plain, the acclivity stone, as you move away from the lightburst, breaks down into free floating chunks, similar to an asteroid field It is home to a type of beings called [[Delver\|delvers]], as well as a mineral called the [[Acclivity stone\|acclivity stone]]. Regular rules of physics do not apply there completely, and everything to come from nowhere possesses extraordinary properties. The best-known among them is acclivity stone, which is used to counteract gravity and thus provide lift to all spaceships and space stations.
+The universe is comprised of two connected realities -- our own (sometimes referred to as "the somewhere") and nowhere, an interdimensional "world" with, at least in the lightburst, no concept of distance and space. The Nowhere looks like a bright white "sun"(the lightburst) and surrounding that, a belt of floating chunks of acclivity stone. A variety of different fauna and flora exist on the chunks. While initially a solid white plain, the acclivity stone, as you move away from the lightburst, breaks down into free floating chunks, similar to an asteroid field  It is home to a type of beings called [[Delver\|delvers]], as well as a mineral called the [[Acclivity stone\|acclivity stone]]. Regular rules of physics do not apply there completely, and everything to come from nowhere possesses extraordinary properties. The best-known among them is acclivity stone, which is used to counteract gravity and thus provide lift to all spaceships and space stations.
 The easiest way for most people to enter nowhere is through a nowhere portal, a stable wormhole leading to it and back. Such portals can be found on many worlds, and though the markings on them indicate that they were made rather than arising naturally, it's unknown who created them. The portals let both people and equipment be taken through, which allows for mining [[Acclivity stone\|acclivity stone]].
 
 ### Cytonics
@@ -136,7 +136,7 @@ While so far, the future of Cytoverse includes only the final book in the Skywar
 ## Bibliography of the Cytoverse
 |**Year**|**Book**|**Series**|**Length**|**Notes**|**Refs**|
 |-|-|
-|**2009**|[[Defending Elysium\|Defending Elysium]]|Standalone|Novella|
+|**2008**|[[Defending Elysium\|Defending Elysium]]|Standalone|Novella|
 |**2018**|[[Skyward\|Skyward]]|[[Skyward (series)\|Skyward]] #1|Novel|
 |**2019**|[[Starsight\|Starsight]]|[[Skyward (series)\|Skyward]] #2|Novel|
 |**2021**|[[Sunreach\|Sunreach]]|[[Skyward (series)\|Skyward]] #2.1|Novella|Co-written with [[Janci Patterson\|Janci Patterson]]|
@@ -149,7 +149,7 @@ While so far, the future of Cytoverse includes only the final book in the Skywar
 ### Forthcoming works
 The following are confirmed upcoming works set in the Cytoverse:
 
-*[[Skyward Legacy\|Skyward Legacy]]* - the sequel trilogy to *Skyward*.
+*[[Riftwake\|Riftwake]]* - the sequel trilogy to *Skyward*.
 
 
 https://coppermind.net/wiki/Cytoverse

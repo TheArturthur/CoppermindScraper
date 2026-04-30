@@ -33,7 +33,7 @@ The nobility of Kerzta are known as the **Klin**. The Kli title is hereditary, p
 The current A'kar's popularity has increased dramatically in recent times, leading many to believe he will be elected king in the upcoming Choosing. He claims to have earned the [[Sand Lord\|Sand Lord's]] favor by seeing the [[Sand mastery\|sand masters]] destroyed.
 
 ## Culture
-Kerztian social structure is shaped by the [[DaiKeen\|DaiKeenin]], which determine ones profession and class.
+Kerztian social structure is shaped by the [[DaiKeen\|DaiKeenin]], which determine ones profession and class. 
 Most people in Kerzta follow [[Ker'reen\|Ker'reen]], which calls for worship of the Sand Lord and vehemently denounces sand mastery.
 
 

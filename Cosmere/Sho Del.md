@@ -26,7 +26,7 @@ At some point, the planet [[UTol\|UTol]] was settled by Sho Del. These people we
 [[Jan Ven\|Jan Ven]], a [[Shadesmar\|Shadesmar]] guide
 ## Trivia
 The Sho Del are one of the few elements of *[[Dragonsteel Prime\|Dragonsteel Prime]]* that are still part of the canon of the [[Cosmere\|cosmere]].
-In *Dragonsteel Prime*, the Sho Del used silver sheaths for their swords; Brandon wrote that "intentionally" and it will probably still be a thing when he writes the [[Dragonsteel (series)\|Dragonsteel series]].
+In *Dragonsteel Prime*, the Sho Del used silver sheaths for their swords; Brandon wrote that "intentionally" and it will *probably* still be a thing when he writes the [[Dragonsteel (series)\|Dragonsteel series]].
 
 
 https://coppermind.net/wiki/Sho_Del

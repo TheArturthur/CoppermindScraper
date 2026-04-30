@@ -7,6 +7,9 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Edgedancer (novella)\|Edgedancer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+> [!info] This page is part of the December 2026 objectives!It has been claimed by User: Osome55, please contact them before doing edits.
 >“*The thing that **separates** us from the monarchies of the east—and the chaos they suffer—is that our emperor is held in check.*”
 \-Noura to Yanagawn[1]
 
@@ -43,7 +46,7 @@ Noura is educated and logical, and she places a high value on laws and bureaucra
 >“*This is a work of **art**.*”
 \-Speaking of Verdict[2]
 
-Noura is intelligent. She is literate in Azish and is able to write poetry; even Lift has noted the elegance of her handwriting. She is able to speak the Alethi language. She is familiar with the writings of Jasnah Kholin and is extremely impressed by the writing style of her essay *[[Verdict\|Verdict]]*, although it is not clear if she can read [[Women's script\|women's script]].
+Noura is intelligent. She is literate in Azish and is able to write poetry; even Lift has noted the elegance of her handwriting. She is able to speak the Alethi language. She is familiar with the writings of Jasnah Kholin and is extremely impressed by the writing style of her essay *[[Verdict\|Verdict]]*, although it is not clear if she can read [[Women's script\|women's script]]. 
 She is versed in Rosharan history and politics. She is also well-informed regarding Azir's current economic climate as well as military positioning and strategy.
 
 ## History

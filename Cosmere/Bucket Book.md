@@ -5,7 +5,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Lux (book)\|Lux]]*!Be aware that in its current state, it may not include all additional content yet.
 
->“*After all, the Bucket Book was sacred. A ledger of true excellence. A list of impossible feats that saluted both Hershel and me in notarized record.*”
+>“*After all, the Bucket Book was sacred. A ledger of true excellence. A list of impossible feats that saluted both Hershel and me in notarized record. *”
 \-Jax[1]
 
 

@@ -36,7 +36,7 @@ Xinwey's Doctrine promotes utilitarianism, the concept of maximizing utility bei
 \- Besk to Kai about Xinwey's Doctrine[1]
 
 
-Though the reasons behind this requirement are never fully elaborated on, it is clear that Xinwey's Doctrine feels it is important for a Liveborn to meet another Liveborn, of the opposite sex, in an intimate setting.
+Though the reasons behind this requirement are never fully elaborated on, it is clear that Xinwey's Doctrine feels it is important for a Liveborn to meet another Liveborn, of the opposite sex, in an intimate setting. 
 
 ### Rules of Engagement
 >“* Melhi, you snake! How did you hack my palace? You're violating the precepts of engagement.*”
@@ -50,7 +50,7 @@ The full extent of the rules of engagement between two Liveborn are not further 
 \- Kairominas about Xinwey's Doctrine[3]
 
 
-Xinwey's Doctrine promotes that Liveborn have the risk of death. Simple causes, such as falling down a flight of stairs, would not warrant the Liveborn's death, but in attempting an act of heroism, or something of the like, the danger must be real.
+Xinwey's Doctrine promotes that Liveborn have the risk of death. Simple causes, such as falling down a flight of stairs, would not warrant the Liveborn's death, but in attempting an act of heroism, or something of the like, the danger must be real. 
 
 
 

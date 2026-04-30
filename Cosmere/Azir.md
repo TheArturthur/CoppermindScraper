@@ -7,13 +7,13 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You underestimate your importance. Azir's Oathgate will be vital, and you are the strongest kingdom of the west. With Azir at our side, many other countries will join with us.*”
 \-Dalinar to Yanagawn[1]
 
 
-**Azir** is a kingdom in southwest [[Roshar\|Roshar]]. Its capital is [[Azimir\|Azimir]]. The people and language of Azir are both referred to as Azish.
+**Azir** is a kingdom in southwest [[Roshar\|Roshar]]. Its capital is [[Azimir\|Azimir]]. Azir is the largest and most powerful nation in the empire, maintaining its leadership through shared resources and military strength. The people and language of Azir are both referred to as Azish.
 
 ## Contents
 
@@ -28,40 +28,56 @@
 2. [[#Post-Occupation Azir]] 
 
 
-2. [[#True Desolation]] 
+2. [[#Lead-up to the True Desolation]] 
+
+2. [[#Battle of Azimir]] 
 
 
-3 Politics. [[#Politics]] 
-
-3. [[#Member states]] 
-3. [[#Government]] 
-3. [[#The Prime Aqasix]] 
+2. [[#The True Desolation]] 
 
 
-4 Military. [[#Military]] 
+3 Culture. [[#Culture]] 
 
-4. [[#Armaments]] 
-4. [[#Navy]] 
-4. [[#Organization and Hierarchy]] 
+3. [[#People]] 
 
-4. [[#General]] 
+3. [[#Courting and marriage]] 
 
 
-4. [[#Armour and Uniforms]] 
+3. [[#Social Order]] 
+3. [[#Language and Writing]] 
+3. [[#Religion]] 
+3. [[#Fashion]] 
+3. [[#Cuisine]] 
 
 
-5 Fabrials and Shards. [[#Fabrials and Shards]] 
-6 Culture. [[#Culture]] 
+4 Politics. [[#Politics]] 
 
-6. [[#Social Order]] 
-6. [[#People]] 
-6. [[#Language and Writing]] 
-6. [[#Religion]] 
-6. [[#Morality]] 
-6. [[#Clothing]] 
-6. [[#Food]] 
+4. [[#Member states]] 
+4. [[#Government]] 
+4. [[#The Prime Aqasix]] 
+4. [[#Economy]] 
 
 
+5 Military. [[#Military]] 
+
+5. [[#Equipment]] 
+
+5. [[#Weaponry]] 
+5. [[#Armor and Uniforms]] 
+5. [[#Non-combat equipment]] 
+
+
+5. [[#Navy]] 
+5. [[#Organization and Hierarchy]] 
+
+5. [[#Organisation]] 
+5. [[#Recruitment]] 
+5. [[#Generals]] 
+
+
+
+
+6 Fabrials and Shards. [[#Fabrials and Shards]] 
 7 Notable Azish. [[#Notable Azish]] 
 8 Trivia. [[#Trivia]] 
 9 Notes. [[#Notes]] 
@@ -75,12 +91,12 @@ Like most of Makabak, Azir is rather dry and warm compared to the rest of the co
 
 
 [[Azimir\|Azimir]] - the capital city of Azir. The [[Makabakam\|Makabakam]] [[Oathgate\|Oathgate]] is located there.
-[[Bronze Palace\|Bronze Palace]] - the seat of Azish government and home of the [[Prime Aqasix\|Prime Aqasix]], in Azimir.
+[[Bronze Palace\|Bronze Palace]]  - the seat of Azish government and home of the [[Prime Aqasix\|Prime Aqasix]], in Azimir.
 [[Zawfix\|Zawfix]] - a large city on the northern border, known for having shanty towns inside old mines.
 [[Zodruf\|Zodruf]] - a town upriver from Azimir.
 [[Owd\|Owd]] - a town near the Emuli border.
 [[Mazzu\|Mazzu]] - a town in northwestern Azir.
-It is unclear whether the towns [[Benru\|Benru]] and [[Berqq\|Berqq]], which lie at the border of Azir and Yulay, are under Azir's authority or Yulay's.
+The towns of [[Benru\|Benru]] and [[Berqq\|Berqq]], which lie at the border of Azir and Yulay, are under Yulay’s authority.
 
 ## History
 ### Pre-Human Arrival
@@ -97,10 +113,11 @@ At some point following the collapse of the Silver Kingdoms, Makabakam splintere
 ### Era of Solitude
 Throughout history, the Alethi attempted to conquer Azir many times, and came to be known to them as the Tagarut. Each time, they were able to fend them off. These invasions exist recorded in the form of legend, as it is from an era were historical record is slim and ambiguous.
 Legends exist which refer to a dynasty known as the [[Ulutu Dynasty\|Ulutu Dynasty]], which lasted for at least fifteen emperors. It is unclear if this was an actual historical entity, or if it exists only in legend.
+At an unknown point before the [[Night of Sorrows\|Night of Sorrows]], an Azish leader known as [[Kasaakam\|Kasaakam the Magnanimous]] outlawed slavery by imperial decree.
 
 #### Sadees's Occupation
 >“*They say that when the Sunmaker rode out of the passes and into Azir, he had one unexpected problem. He conquered my people too quickly, and didn't know what to do with all of his captives.*”
-\-Yanagawn[17]
+\-Yanagawn[20]
 
 
 [[Sadees\|Sadees]] the Sunmaker, the infamous [[Alethkar\|Alethi]] warrior, conquered Azir as part of his bid to take over the entire continent during the reign of [[Prime Aqasix\|Prime Aqasix]] [[Snoxil\|Snoxil]] in the seventh-century of the Vorin calander. The occupation was extremely violent: up to ten percent of the country's population died, many of them due to Sadees seemingly seeking to eradicate the Azish. In some areas, Sadees ordered a certain number of executions a day. In others, he declared all men with hair at a certain length to be killed. Sadees rationalized this by claiming that the Azish were uncivilized since they did not use [[Lighteyes\|eye color]] as a basis for their social hierarchy.
@@ -108,27 +125,79 @@ Following Sadees's passing, his kingdom was split between his sons. Without a tr
 
 #### Post-Occupation Azir
 In the centuries since Sadees's conquest, Azir rose to the position of the cultural and political center of [[Makabak\|Makabak]]. Many of the surrounding Makabaki nations became client states to it, leading to the formation of the Azish Empire — a semi-formal name for the group of states led by the [[Prime Aqasix\|Prime Aqasix]] in all international matters.
+Over three-hundred years before the [[Night of Sorrows\|Night of Sorrows]] a dynasty known as the  formed, and ruled over the empire for an unknown length of time. Around 875, the Dusqqa Dynasty collapsed, leaving the nation in chaos over the power vacuum the collapse created. One family tried to set up a new imperial seat in a different city, however, imperial judges declared that the family that held the throne room was the true ruler of the state. It is possible, but not confirmed, that this was the instance known as the fifth dynasty troubles.
 The peace of the empire was broken in the final year of the [[Era of Solitude\|Era of Solitude]], as the [[Assassin in White\|Assassin in White]] killed two Primes in a row, leaving the country in a succession crisis as all prospective candidates attempted to avoid the position. This ended the night that a group of thieves, including [[Lift\|Lift]] and [[Gawx\|Gawx]], attempted to rob the [[Bronze Palace\|Bronze Palace]]. After Gawx was seemingly killed, Lift revived him using her nascent [[Surgebinding\|Surgebinding]] power of [[Regrowth\|Regrowth]]. To the assembled courtiers, unaware of Lift's involvement, this was a miracle that proved that Gawx was the Prime they were looking for. Thus, he was crowned as [[Yanagawn\|Yanagawn]] the First.
 
-### True Desolation
+### Lead-up to the True Desolation
 As in the rest of Roshar, the Azish [[Parshmen\|Parshmen]] awoke from [[Slaveform\|slaveform]] following the arrival of the [[Everstorm\|Everstorm]] on Ishishach 1173. Initially, they followed the example of their bureaucratic former masters—instead of going to war with the government, they sued it for back pay. The Azish began negotiations, although they had no intention of giving in—rather, they sought to buy enough time to fortify their cities.
 At the same time, Azimir was exchanging messages with [[Dalinar Kholin\|Dalinar Kholin's]] budding coalition in [[Urithiru\|Urithiru]]. With [[Sadees\|Sadees's]] conquests still a sore memory, the Azish were initially unwilling to unlock their [[Oathgate\|Oathgate]] or allow the Alethi armies into their city. However, after the talks with the [[Singer\|singers]] fell through, they finally agreed, and ended up joining the coalition. The failure with the singers might have been influenced by the arrival of the [[Fused\|Fused]], who organized them into an army and took them south to [[Marat\|Marat]] in preparation for the attack on [[Thaylen City\|Thaylen City]].
 When the coalition leaders assumed that the [[Voidbringer\|Voidbringers]] would attack [[Jah Keved\|Jah Keved]], the Azish agreed to send five battalions of their troops there to aid in repelling the attack. Later, when Thaylen City was pinpointed as the true battle site, they moved their fleet to the nearby shores to intercept the Voidbringer forces. However, following the translation of the [[Eila Stele\|Eila Stele]] and the revelations that it spurred, the Azish backed out, along with their ships. Their resolve to abandon the others was strengthened when they saw Alethi attacking the Thaylens, as they were not aware that the Alethi forces in question were [[Amaram\|Amaram's]] forces under the influence of [[Nergaoul\|Nergaoul]].
 After the [[Battle of Thaylen Field\|Battle of Thaylen Field]], in Nan 1174, Dalinar explained to them via [[Spanreed\|spanreed]] what truly happened. The Azish were willing to renegotiate their participation in the alliance on the condition that Dalinar was able to prove that he could control his troops.
 A year after the Battle of Thaylen Field, Azish armies, with the help of Alethi strategists, had recaptured some ground in northern Emul. After Dalinar's decision to launch a major offensive in Emul several battalions of Alethi troops and some number of the troops of [[Jah Keved\|Jah Keved]] traveled to Azir via [[Oathgate\|Oathgate]] accompanied by the [[Windrunners\|Windrunners]] and the Alethi high command. After the defection to Odium by the troops of Jah Keved, Dalinar's army augmented by the troops of the Azish fought and eventually defeated the Veden forces.
 
+#### Battle of Azimir
+For more information, see [[Battle of Azimir\|Battle of Azimir]].
+The Fused laid a siege on Azimir starting on Palahesach 1175, to which the Azish peoples fought back to protect the city.
+
+### The True Desolation
+With the start of the True Desolation and the Night of Sorrows on Palahanah 1175, Azir was shrouded under an eternal Everstorm and unceasing rainfall.
+Azir was kept under the darkness of the Night of Sorrows for around a month, before Retribution followed through with his promises and parted the storm over the country. It seems that sometime later, during the Space Age, Azir was still a separate entity.
+
+## Culture
+### People
+  A folio page of Azish male public servant fashion from <<Liafor\|Liafor>>
+>“*Alethi liked to joke about them—insult one of their soldiers, it was said, and he'd submit a form requesting an opportunity to swear at you.*”
+\-Dalinar on the Alethi stereotypes of the Azish[6]
+
+
+Azish people belong to the Makabaki ethnic group, members of which can be found across the entire [[Makabak\|Makabak]] region. They are described as being short and having dark skin — deep brown, but not true black like some [[Parshmen\|parshmen]]. They have a smooth accent, like the [[Emuli\|Emuli]]. Very few are light-eyed. Among the Heralds, [[Shalash\|Shalash]] looks like an Azish woman.
+The stereotype of the Azish is that they are peaceful, prefer education to war, and adore their bureaucracy and paperwork. The Azish themselves consider the latter a point of pride, as the structure of their government has for many centuries prevented any major internal crisis. They are, however, focused on being respectful and polite. In Azir, one should not raise their voice when talking, and should always remain calm, even when angry. Particular care is taken never to offend a guest, though this does not mean the Azish can be pushed around. As a result, they are known for talking around the matter a lot when disagreeing with something, and never saying "no" outright.
+The people of Azir are generally well-versed in the law, and they often find the presentation of an argument to be more convincing than the argument itself. The people of Azir generally strive for order, compliance, and courtesy. Disagreements are encouraged in their culture, so long as the argument is presented with an agreeable attitude (on the surface) and are conducted through prescribed channels. Government officials are considered the top tier of human society in Azir, and the Azish celebrate the concept of social advancement. In addition to official laws, the Azish are expected to follow their nation’s social customs. This can be harmful when certain social customs are poorly informed or flawed. The [[Azish\|Azish]] are dismissive of the [[Purelake\|Purelake]], believing that there is nothing of consequence on the lake, and are baffled why anyone would want to visit the area.
+
+#### Courting and marriage
+Couples of all genders court openly and can marry, but some Azish people expect married couples to model the roles of one man and one woman, regardless of their gender identities. This means that one member is expected to apply for "social reassignment", and should thereafter behave — and be treated as — a member of the opposite gender. Couples who aren’t heterosexual must fill out different paperwork to be legally married.
+
+### Social Order
+The Azish do not divide their population into [[Lighteyes\|lighteyes]] and [[Darkeyes\|darkeyes]]. In the [[Vorin\|Vorin]] countries, it is speculated that this is because there aren't enough pale-eyed Azish to form a self-sustainable social caste. Rather, the Azish social hierarchy is based on education and elevation through the bureaucratic governmental system. Viziers and scribes are among the highest-ranking members of society. Scribes are stratified by level and then circle, with the person's particular rank being indicated by patterns on their clothing. Regular citizens who are not members of the government are known as **discrete**.
+Azir formerly practiced slavery, until [[Kasaakam\|Kasaakam the Magnanimous]] declared emancipation through imperial decree sometime prior to the [[Night of Sorrows\|Night of Sorrows]].
+Order in the country is kept by travelling lawkeepers called **constables**. Constables typically wear black uniforms with a double row of silver buttons in the front, and thick gloves with long collars. They seem to have the authority to capture, try, and even execute criminals. However, they cannot act against the viziers, and are not allowed to requisition the Imperial Shardblades. Instead of holding regional assignments, constables are dispatched from one area to the next on a regular basis. This is designed to encourage impartiality, better allocate personnel, and allow for extensive continuing-education seminars between transfers.
+
+### Language and Writing
+>“*Azish, a funny language made of little markings that looked like cremling tracks.*”
+\-Dalinar on the Azish language.[6]
+
+
+The people of Azir speak Azish, although it is possible that other languages from the Makabaki language family are also spoken. Azish or Azish-adjacent words can often be recognized by the letters "x" (Kadasix, [[Snoxil\|Snoxil]]) and "q" ([[Prime Aqasix\|Prime Aqasix]], [[Unoqua\|Unoqua]]), which are far rarer outside of [[Makabak\|Makabak]]. These can represent a voiceless uvular sound, either a stop or an affricate, and sometimes a uvular ejective. Azish is the most common and understood language within the entirety of Makabak. Deaf citizens of the empire favor Azish Sign Language, which is also practiced by ambassadors and translators. Due to the language’s robust vocabulary and contextual precision, its use has spread to other nations of Roshar.
+The Azish have their own system of writing, separate from the various [[Vorin\|Vorin]] scripts. It is described as looking like little markings that resemble [[Cremling\|cremling]] tracks to non-speakers. Additionally, the various patterns that the Azish put on their furniture, decorations, and clothing all have distinct meanings, which can be read and understood by a trained scribe.
+
+### Religion
+The Azish religion focuses on the worship of the [[Herald\|Heralds]], known there as the **Kadasixes**. Chief among them is [[Jezrien\|Jezrien]] — Yaezir in local parlance — who bears the title of the Kadasix of Kings. He is the patron of the Azish government, and the [[Prime Aqasix\|Prime Aqasix]] is considered his emissary to the world. The Primes themselves have some religious significance: per the Azish doctrine, a person is born a Prime, and the election process serves merely to find who the current Prime is and give them their rightful place.
+The Azish priests, called **scions**, are government officials. Both men and women can become one. Their main duty appears to be taking care of the spiritual side of the bureaucracy's day-to-day workings — they are seen blessing formal meetings and interpreting omens and events to discern the will of the Kadasixes. They also serve as clerks and scribes. Scions can be found in all ranks of the bureaucracy, with the most influential ones serving as the members of the Prime's circle of advisors along with the [[Vizier\|viziers]].
+Due to this, religion, the monarchy, and certain levels of bureaucracy are deeply intertwined and inseparable. Unlike [[Vorin\|Vorin]] [[Ardent\|ardents]], scions are free men and women. In fact, becoming a high-ranking scion, or a priest-minister, is considered to be one of the highest honors for the Azish.
+Scions typically travel across the country, blessing settlements and towns. For this reason, a scion cannot become the Prime Aqasix, although they are intimately involved in the selection process. During the holy conclave that chooses a new Prime, they are called upon to ensure the spiritual purity of the selection, provide theological viewpoint on the process, and assist the viziers in picking the best candidate.
+
+### Fashion
+The Azish are known for wearing vibrant, colorful clothing. They are usually seen in robes or wraps, and wear large hats, making them seem over-encumbered. Each article of clothing has traditional large patterns on it, called hokra. Every pattern has a meaning of its own, and a trained scribe can read a person's clothes like a language. The complex patterns woven into the clothing of government officials reflect both their specific rank within the government structure and their family heritage. Their fashion is heavily influenced by civil servant outfits. Azish people may also wear traditional knives as a fashion statement.
+Despite their garish appearance, Azish fabrics seem to be quite popular even in the East. Among others, [[Dalinar Kholin\|Dalinar Kholin's]] childhood home was decorated with Azish rugs, and [[Alethkar\|Alethi]] fashion folios feature Azish designs. A distinctive type of mineral dye from Azir is used to color their clothing, and is known in other nations.
+
+### Cuisine
+The best-known Azish produce is [[Truthberry\|truthberry]], which can be made into jam. According to a local legend, those who consume the berries speak only the truth until the next sunset. The fruits themselves are harmless, but the leaves and stalks of truthberry plants can be burned, which makes people intoxicated and euphoric. [[Shallan Davar\|Shallan Davar]] implies that there is also an aphrodisiac effect, mentioning that they could have been called "birthberries" instead.
+The versatile grain crop [[Tallew\|tallew]] is grown in Azir. They also grow [[Clema\|clema]].
+
 ## Politics
 >“*Traditionally, the Azish Prime claimed to be emperor of all Makabak—a region that included over a half-dozen kingdoms and princedoms. In reality, he was king over only Azir, but Azir did cast a long, long shadow.*”
-\-Dalinar Kholin's thoughts on Azir[19]
+\-Dalinar Kholin's thoughts on Azir[22]
 
 
 ### Member states
-The Azish Empire, despite its name, is closer in nature to a confederacy of states. It is composed of ten member countries: [[Marat\|Marat]], [[Tukar\|Tukar]], [[Emul\|Emul]], [[Tashikk\|Tashikk]], [[Liafor\|Liafor]], [[Steen\|Steen]], [[Yezier\|Yezier]], [[Alm\|Alm]], [[Desh\|Desh]], and Azir itself. While all of those nations consider the Prime Aqasix to be their emperor, other than Azir, they are subject in name only. However, leaders of nations within the Empire do follow certain traditional customs; for example, they cannot marry without the Prime's permission. In practice, the states typically follow Azir's lead when dealing with international politics. Historically, Tashikk and Yezier are the closest to the Azish throne.
+The Azish Empire, despite its name, is closer in nature to a confederacy of states. It is composed of nine member countries: [[Marat\|Marat]], [[Tukar\|Tukar]], [[Emul\|Emul]], [[Tashikk\|Tashikk]], [[Steen\|Steen]], [[Yezier\|Yezier]], [[Alm\|Alm]], [[Desh\|Desh]], and Azir itself. While all of those nations consider the Prime Aqasix to be their emperor, other than Azir, they are subject in name only. However, leaders of nations within the Empire do follow certain traditional customs; for example, they cannot marry without the Prime's permission. In practice, the states typically follow Azir's lead when dealing with international politics. Historically, Tashikk and Yezier have been the closest to the Azish throne, although Yezier hasn’t always followed the Azish throne as closely as other nations.
+In the days leading up to the True Desolation, various member states of the Azish Empire formally seceded from the union and joined Odium.
 
 ### Government
 The Azish government is a bureaucracy, composed of several levels of scribes. One may join the public servant caste by passing a written exam. Though the test is nominally open to all citizens, it's difficult and usually requires expensive formal education; most government officials are therefore people whose social status was already high.
 The highest-ranking members of the government, other than the Prime Aqasix, are the . They serve as advisors to the Prime, with enough political pull to force their decisions on them, and are responsible for selecting a new Prime following the death of the previous through an application review process. Their high status and broad knowledge means that each Prime will often be a former vizier, as they can make their applications the most convincing.
-In Azir, religion, the monarchy, and certain levels of bureaucracy are deeply intertwined, to the extent that their priests are offical government officials. They are tasked with taking care of the spiritual side of the bureaucracy's day-to-day workings — they are seen blessing formal meetings and interpreting omens and events to discern the will of the Kadasixes. They also serve as clerks and scribes for the government. Scions can be found in all ranks of the bureaucracy, with the most influential ones serving as the members of the Prime's circle of advisors along with the [[Vizier\|viziers]].
+In Azir, religion, the monarchy, and certain levels of bureaucracy are deeply intertwined, to the extent that their priests are official government officials. They are tasked with taking care of the spiritual side of the bureaucracy's day-to-day workings — they are seen blessing formal meetings and interpreting omens and events to discern the will of the Kadasixes. They also serve as clerks and scribes for the government. Scions can be found in all ranks of the bureaucracy, with the most influential ones serving as the members of the Prime's circle of advisors along with the viziers.
+They possess a bill of rights for the citizenry; and limits, known as the **, on imperial power and reach. Scribes keep the population informed of recent changes in official policy by periodically releasing publications on the topic. Couples who aren’t heterosexual must fill out different paperwork to be legally married. Azir sends subsidies to Desh in order to fund its military.
 
   <<Yanagawn\|Yanagawn>> the First, the current <<Prime Aqasix\|Prime Aqasix>>
 ### The Prime Aqasix
@@ -138,82 +207,53 @@ The Azish believe that they are never without a Prime. When a Prime dies, the el
 The Prime is considered to belong to the public. Citizens can enter a lottery to watch the Prime sleep, eat, and perform other daily tasks. They can also collect and keep relics from the Prime, such as a nail clipping or a strand of hair.
 When the Prime issues a mandate to the public, citizens have one month to make their grievances known before being forced to comply. These grievances are often displayed as logical arguments and protests.
 
-## Military
-The Azish Empire has access to foot soldiers, cavalry and fleet. Their army, though smaller than that of [[Alethkar\|Alethkar]] or [[Jah Keved\|Jah Keved]], is still fairly impressive, and their fortifications are noted as difficult to breach.
-The Azish soldiers have excellent discipline, but their individual soldiers do not fight as well as Alethi. Although their pike blocks are less mobile than Alethi, they are extremely well coordinated.
-The Azish decorate their tents with lots of furniture and tapestries, they also bring many servants with them on campaign.
-Their army fights well against the singers and their disciplined infantry is a complementary addition to the Alethi's flexibility and tactics.
+### Economy
+Major exports out of Azir include grains such as [[Clema\|clema]] and [[Tallew\|tallew]], textile products, books, and sapphire gemstones, which are the gemhearts of [[Mawli\|mawli]]. They also have a reliance upon the breeding and ranching of [[Numul\|numul]], which they harvest gemhearts from. These gemhearts are employed in the Soulcasting of bronze. Azir’s farming industry is extremely dependent on singer labor, allocating nearly all enslaved singers to agriculture during planting and harvesting seasons.
+Benru and Berqq serve as the hub of Azir’s trade with Yulay. The people of Yulay were once concerned that Azir would try to invade them to gain access to the Purelake, but they’ve since become confident the Azish Empire has no interest in doing so.
 
-### Armaments
-Azish soldiers are equipped with bows, spears or poleaxes, and greatshields.
+## Military
+The Azish Empire has access to foot soldiers, cavalry and a navy. Their army, though smaller than that of [[Alethkar\|Alethkar]] or [[Jah Keved\|Jah Keved]], is still fairly impressive, and their fortifications are noted as difficult to breach. The Azish soldiers have excellent discipline, but their individual soldiers do not fight as well as Alethi. Their army fights well against the singers and their disciplined infantry is considered a complementary addition to the Alethi's flexibility and tactics.
+
+### Equipment
+#### Weaponry
+The Azish infantry makes use of a wide variety of weaponry, among which spears, poleaxes and glaives seem to be the most common. They also wield triangular blades known as [[Kattari\|kattari]], which are efficient in close confines, and larger slightly curved swords. Depending on the situation and soldier, the Azish may equip themselves with round shields, or greatshields, such as tower shields. These shields are often painted bright colours and intricate patterns. The Azish also have many archers. These archers mostly use short, isri-style bows. These bows are powerful, but lack the range of an [[Oldblood\|Oldblood]] longbow. Others use crossbows, which are vey effective against Singer troops, or hurl stones.
+
+  Several examples of Azish soldiers
+#### Armor and Uniforms
+The Azish are also well armoured. Azish soldiers wear plated mail and have tall, generally colorful, domed helmets. The amount of protection a soldier has is largely reliant on their duty and role in the military, but a few pieces are shared by most ranks and duties, such as pauldrons.
+The Azish wear intricately decorated uniforms, which play a role in identifying the soldier’s position and battalion. They also wear a sash over their shoulders and shield. This sash is covered by a pattern to indicate the soldier’s battalion. Their helms are also marked with patterns, although each soldier’s pattern is a little different. These patterns likely indicate some akin to either family affiliations or skill. The Azish also make use of exquisite equine outfits. Azish generals wear robes and typical Western hats. Cavalrylords wear uniforms with vivid red trousers.
+
+#### Non-combat equipment
+Not everything a soldier owns is used in combat. The Azish decorate their tents with lots of furniture and tapestries, they also bring many servants with them on campaign. The Azish also make use of binoculars.
 
 ### Navy
 The Azish do not maintain a fleet of ships, as they are a land-locked country. However, [[Tashikk\|Tashikk]] has a number of ships that are staffed partially by Azish troops and thus serve the Empire as a whole. There seem to be no battalions dedicated wholly to ship-side service; rather, select battalions rotate some of their soldiers in and out of the navy.
 In times of peace, the fleet's duty is to patrol "the grand waterway" — an unspecified body of water that may correspond to the river between Azir and [[Emul\|Emul]] — but they are capable of further excursions, all the way to [[Thaylenah\|Thaylenah]]. The fleet possesses both smaller outriders, called scouts, and bigger warships, among them troop carriers. The [[Prime Aqasix\|Prime Aqasix]] has his own dedicated vessel, smaller than the navy units.
 
 ### Organization and Hierarchy
-Their army is divided into battalions, which have both numbers and name designations, such as Red and Gold for the Thirteenth Battalion. A single battalion is comprised of about one thousand soldiers.
-Little is known about their cavalry. Units are led by officers called cavalrylords.
+#### Organisation
+The Azish military is divided into battalions, which have both numbers and name designations, such as Red and Gold for the Thirteenth Battalion. A single battalion is comprised of about one thousand soldiers. Standing apart from the regular battalions is a force known as the . This force is made up of elite soldiers and dedicated to protecting the city of Azimir, as well as the Prime Aqasix.
+Each battalion is further divided into phalanxes, each of which is typically made up of one hundred men and one commander. Although these pike blocks are less mobile than the Alethi equivalent, they are extremely well coordinated. The Azish use horns and trumpets to coordinate their troops. Little is known about the Azish cavalry, but these units are led by officers called cavalrylords.
 
-#### General
-The position of general requires passing a number of tests, and [[Dalinar\|Dalinar]] theorizes that the officers with practical expertise tend to fail them on purpose so that they may retain field command. Azish military leaders have a poor reputation in [[Alethkar\|Alethkar]] and are considered little more than military historians and theorists. However, the generals are actually highly practical people, and their advice is usually astute.
+#### Recruitment
+The Azish military is strict about who can and can’t serve. They have many rules about recruitment, and even require entrance exams. These entrance exams aren’t to test intelligence but rather to weed out people not fit for the military, people who are for example too violent or undisciplined. The resulting military is tight, disciplined and well paid, though it isn’t well equipped for a draft. The military is also considered to be a great career. Most Azish soldiers are either men or masculine-presenting.
 
-### Armour and Uniforms
-Azish soldiers are armored with plated mail and colorful caps.
-Azish generals wear robes and typical Western hats.
-Cavalrylords wear uniforms with vivid red trousers.
+#### Generals
+The position of general requires passing a number of tests, and [[Dalinar Kholin\|Dalinar Kholin]] theorizes that the officers with practical expertise tend to fail them on purpose so that they may retain field command. Azish military leaders have a poor reputation in [[Alethkar\|Alethkar]] and are considered little more than military historians and theorists. However, the generals are actually highly practical people, and their advice is usually astute. Many Azish generals also play a game called [[Towers\|Towers]].
 
 ## Fabrials and Shards
-Azir is known to have very few [[Soulcaster\|Soulcasters]], the most famous of which has the ability to Soulcast bronze. Many buildings in [[Azimir\|Azimir]] have bronze domes, and the Prime's palace even has decorative Soulcast bronze trees. The country also has several [[Shardblade\|Shardblades]], known as the Imperial Shardblades. It is unknown how many of them are there or who wields them, but they can be loaned out to the Empire's member states for various services. The city of [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] was created using Imperial Shardblades. Though it can be presumed that the Empire also possesses [[Shardplate\|Shardplate]], it is unknown how many sets of it are in their hands.
-Azimir is the site of ancient [[Makabakam\|Makabakam's]] [[Oathgate\|Oathgate]]. Presently, the gate's platform serves as the city's Grand Market, though it has been reopened by [[Lift\|Lift]] during [[Dalinar Kholin\|Dalinar Kholin's]] visit and returned to its prior function.
-
-## Culture
-### Social Order
-The Azish do not divide their population into [[Lighteyes\|lighteyes]] and [[Darkeyes\|darkeyes]]. In the [[Vorin\|Vorin]] countries, it is speculated that this is because there aren't enough pale-eyed Azish to form a self-sustainable social caste. Rather, the Azish social hierarchy is based on education and elevation through the bureaucratic governmental system. Viziers and scribes are among the highest-ranking members of society. Scribes are stratified by level and then circle, with the person's particular rank being indicated by patterns on their clothing. Regular citizens who are not members of the government are known as **discrete**.
-Order in the country is kept by travelling lawkeepers called **constables**. Constables typically wear black uniforms with a double row of silver buttons in the front, and thick gloves with long collars. They seem to have the authority to capture, try, and even execute criminals. However, they cannot act against the viziers, and are not allowed to requisition the Imperial Shardblades.
-
-### People
-  A folio page of Azish male public servant fashion from <<Liafor\|Liafor>>
->“*Alethi liked to joke about them—insult one of their soldiers, it was said, and he'd submit a form requesting an opportunity to swear at you.*”
-\-Dalinar on the Alethi stereotypes of the Azish[5]
-
-
-Azish people belong to the Makabaki ethnic group, members of which can be found across the entire [[Makabak\|Makabak]] region. They are described as being short and having dark skin — deep brown, but not true black like some [[Parshmen\|parshmen]]. They have a smooth accent, like the [[Emuli\|Emuli]]. Very few are light-eyed. Among the Heralds, [[Shalash\|Shalash]] looks like an Azish woman.
-The stereotype of the Azish is that they are peaceful, prefer education to war, and adore their bureaucracy and paperwork. The Azish themselves consider the latter a point of pride, as the structure of their government has for many centuries prevented any major internal crisis. They are, however, focused on being respectful and polite. In Azir, one should not raise their voice when talking, and should always remain calm, even when angry. Particular care is taken never to offend a guest, though this does not mean the Azish can be pushed around. As a result, they are known for talking around the matter a lot when disagreeing with something, and never saying "no" outright.
-
-### Language and Writing
->“*Azish, a funny language made of little markings that looked like cremling tracks.*”
-\-Dalinar on the Azish language.[5]
-
-
-The people of Azir speak Azish, the most widespread of the Makabaki languages, though it is possible that other languages from this family are also present. Azish or Azish-adjacent words can often be recognized by the letters "x" (Kadasix, [[Snoxil\|Snoxil]]) and "q" ([[Prime Aqasix\|Prime Aqasix]], [[Unoqua\|Unoqua]]), which are far rarer outside of [[Makabak\|Makabak]]. These can represent a voiceless uvular sound, either a stop or an affricate, and sometimes a uvular ejective.
-The Azish have their own system of writing, separate from the various [[Vorin\|Vorin]] scripts. It is described as looking like little markings that resemble [[Cremling\|cremling]] tracks to non-speakers. Additionally, the various patterns that the Azish put on their furniture, decorations, and clothing all have distinct meanings, which can be read and understood by a trained scribe.
-
-### Religion
-The Azish religion focuses on the worship of the [[Herald\|Heralds]], known there as the **Kadasixes**. Chief among them is [[Jezrien\|Jezrien]] — Yaezir in local parlance — who bears the title of the Kadasix of Kings. He is the patron of the Azish government, and the [[Prime Aqasix\|Prime Aqasix]] is considered his emissary to the world. The Primes themselves have some religious significance: per the Azish doctrine, a person is born a Prime, and the election process serves merely to find who the current Prime is and give them their rightful place.
-The Azish priests, called **scions**, are government officials. Both men and women can become one. Their main duty appears to be taking care of the spiritual side of the bureaucracy's day-to-day workings — they are seen blessing formal meetings and interpreting omens and events to discern the will of the Kadasixes. They also serve as clerks and scribes. Scions can be found in all ranks of the bureaucracy, with the most influential ones serving as the members of the Prime's circle of advisors along with the [[Vizier\|viziers]].
-Due to this, religion, the monarchy, and certain levels of bureaucracy are deeply intertwined and inseparable.
-Unlike [[Vorin\|Vorin]] [[Ardent\|ardents]], scions are free men and women. In fact, becoming a high-ranking scion, or a priest-minister, is one of the highest honors for the Azish.
-Scions typically travel across the country, blessing settlements and towns. For this reason, a scion cannot become the Prime Aqasix, although they are intimately involved in the selection process. During the holy conclave that chooses a new Prime, they are called upon to ensure the spiritual purity of the selection, provide theological viewpoint on the process, and assist the viziers in picking the best candidate.
-
-### Morality
-In contrast to the Vorin countries of the East, the Azish do not seem to practice a notable division between sexes. Women do not have [[Safehand\|safehands]], and both men and women are seen holding high-level military and political positions with no indication that this is unusual. However, also in contrast to Vorin states, the Azish have a stricter views on relationships. In a homosexual couple, one member is expected to apply for "social reassignment", and should thereafter behave — and be treated as — a member of the opposite gender.
-
-### Clothing
-The Azish are known for wearing vibrant, colorful clothing. They are usually seen in robes or wraps, and wear large hats, making them seem over-encumbered. Each article of clothing has traditional large patterns on it. Every pattern has a meaning of its own, and a trained scribe can read a person's clothes like a language. Their fashion is heavily influenced by civil servant outfits.
-Despite their garish appearance, Azish fabrics seem to be quite popular even in the East. Among others, [[Dalinar Kholin\|Dalinar Kholin's]] childhood home was decorated with Azish rugs, and [[Alethkar\|Alethi]] fashion folios feature Azish designs. A distinctive type of mineral dye from Azir is used to color their clothing, and is known in other nations.
-
-### Food
-The best-known Azish produce is [[Truthberry\|truthberry]], which can be made into jam. According to a local legend, those who consume the berries speak only the truth until the next sunset. The fruits themselves are harmless, but the leaves and stalks of truthberry plants can be burned, which makes people intoxicated and euphoric. [[Shallan Davar\|Shallan Davar]] implies that there is also an aphrodisiac effect, mentioning that they could have been called "birthberries" instead.
-The versatile grain crop [[Tallew\|tallew]] is grown in Azir. They may also grow [[Clema\|clema]], which is common in nearby [[Tashikk\|Tashikk]].
+Azir is known to have very few [[Soulcaster\|Soulcasters]], the most famous of which has the ability to Soulcast bronze. Many buildings in [[Azimir\|Azimir]] have bronze domes, and the Prime's palace even has decorative Soulcast bronze trees. This bronze is soulcast using the small gemhearts harvested from [[Numul\|numul]], who they breed and ranch in large numbers.
+The country also has several [[Shardblade\|Shardblades]], known as the Imperial Shardblades. It is unknown how many of them are there or who wields them, but they can be loaned out to the Empire's member states for various services. Since most member countries don’t have Shardblades, this method of sharing access for specialized work and mercenary jobs incentivizes the nine nations to remain unified. People who wield Imperial Shardblades are highly esteemed throughout the empire, and they take pride in what they do. In exchange for using these Blades, their wielders send part of their earnings back to the Bronze Palace. Regulations ensure Imperial Shardblades are utilized responsibly.
+The city of [[Yeddaw\|Yeddaw]] in [[Tashikk\|Tashikk]] was created using Imperial Shardblades. Though it can be presumed that the Empire also possesses [[Shardplate\|Shardplate]], it is unknown how many sets of it are in their hands. Azimir is the site of ancient [[Makabakam\|Makabakam's]] [[Oathgate\|Oathgate]]. Presently, the gate's platform serves as the city's Grand Market, though it has been reopened by [[Lift\|Lift]] during [[Dalinar Kholin\|Dalinar Kholin's]] visit and returned to its prior function.
 
 ## Notable Azish
 For more Azish citizens, see :Category: Azish.
 [[Yanagawn\|Prime Aqasix Yanagawn]] - the ruler of Azir and the Azish Empire.
+[[Kasaakam\|Kasaakam the Magnanimous]] - an Azish ruler who freed slaves by imperial decree.
 [[Noura\|Noura]] - senior vizier in Yanagawn's court.
 [[Ethid\|Ethid]] - a scion, [[Veristitalian\|Veristitalian]], and friend of [[Jasnah Kholin\|Jasnah Kholin]], who studies the lives of powerful men and, later, the [[Knights Radiant\|Knights Radiant]]. She participates in the Prime selection process, and gives the opening blessings to the meeting that results in [[Yanagawn\|Yanagawn's]] crowning.
 [[Unoqua\|Unoqua]] - the religious leader of Yanagawn's court. Along with other scions and viziers, he advises against continued alliance with [[Urithiru\|Urithiru]].
-[[Sigzil\|Sigzil]] - a [[Worldsinger\|Worldsinger]] serving in [[Bridge Four\|Bridge Four]], and one of [[Kaladin\|Kaladin's]] [[Squire\|squires]].
+[[Sigzil\|Sigzil]] - a [[Worldsinger\|Worldsinger]] and [[Windrunner\|Windrunner]] serving in [[Bridge Four\|Bridge Four]].
 [[Warren\|Warren]] - master [[Skybreaker\|Skybreaker]] under [[Nale\|Nale]].
 The [[Herald\|Heralds]] [[Nale\|Nale]] and [[Shalash\|Shalash]] are both noted as looking distinctly Azish, although they far predate the country's founding.
 

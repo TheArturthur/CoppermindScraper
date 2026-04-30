@@ -1,6 +1,7 @@
 |**Brade Shimabukuro**|
 |-|-|
 ||
+|**Died**|[[Battle of Evensong\|Battle of Evensong]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
@@ -9,7 +10,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]* and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It seethed inside me for years, a molten pit, burning like destructor fire. That's when I realized the Superiority was right. I **was** dangerous. Very, **very** dangerous.*”
-\-Brade on how she felt after being taken from her biological parents.[1]
+\-Brade on how she felt after being taken from her biological parents.[2]
 
 
 **Brade Shimabukuro** is a human woman licensed to [[Winzik\|Winzik]], the head of the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]].
@@ -44,7 +45,7 @@ Brade was taken from her parents at the age of seven and her upbringing was over
 Brade is a human woman in her early twenties, is a couple of centimeters taller than [[Spensa\|Spensa]], muscled, and wears her hair in a buzz cut. Brade has a lean face, severe beyond her age, and walks with a certain power in her step. Brade's last name, Shimabukuro, means "island bag" in Japanese and may suggest Japanese heritage, specifically from the island of . Brade has [[Varvax\|varvax]] mannerisms and uses their hand gestures due to her upbringing under Winzik. She is also known to use [[Dione\|dione]] hand gestures.
 
 >“*What, and give up the fight? Admit it. You've been wondering all along, haven't you? Which of us is better? Well, let's find out.*”
-\-Brade, to Spensa, exhibiting her ultra competitive spirit.[7]
+\-Brade, to Spensa, exhibiting her ultra competitive spirit.[8]
 
 Brade has a forceful and domineering personality, constantly pushing hers and Winzik's views on people she hasn't even met.
 She is extremely aggressive, at times for little reason, such as when she [[/wiki/Starfighter#Light-Lance]] [[Morriumur\|Morriumur]] into an asteroid during the [[Superiority\|Superiority's]] Delver Resistance Program tryouts. Whether she meant to slingshot Morriumur into an asteroid and condemn them to be destroyed by the drones, or rather she was just using them to accomplish the means of making an extremely sharp turn, is unclear. Her aggression is easily triggered, evident at the party aboard the [[Weights and Measures\|Weights and Measures]] when she throws her drink against the wall after being annoyed by government officials.
@@ -57,7 +58,7 @@ Although she was raised by varvax, Brade still feels connected to humans, as she
 Brade is an extremely talented pilot, considered by [[Spensa\|Spensa]] to be superior to her. Brade flies a Krell interceptor, and is adept at using the [[/wiki/Starfighter#Light-Lance]], the destructors, and maneuvering in tight spaces. She is able to handle the stress of flying in the compact space of the delver maze while taking on dozens of embers at a time exceptionally well. She is also well accomplished in dogfighting, being able to outmaneuver and stay ahead of an enemy at extreme speeds in the vacuum of space.
 
 ### Cytonics
-Brade is a trained cytonic. Her training of these abilities allows her to sense other cytonics, hyperjump, perform mental prods, picture cytonic coordinates and destinations in her mind, and more. She has not demonstrated the ability to use [[/wiki/Cytonics#Mindblades]], but may already possess this ability.
+Brade is a trained cytonic. Her training of these abilities allows her to sense other cytonics, hyperjump, perform mental prods, picture cytonic coordinates and destinations in her mind, and more. She has not demonstrated the ability to use [[/wiki/Cytonics#Mindblades]], but may already possess this ability. 
 Perhaps most frightening of all, Brade has displayed the ability to summon a [[Delver\|delver]] from the [[Nowhere\|nowhere]] by projecting a cytonic scream within her mind into the nowhere, thus attracting the baleful attention of the beings.
 [[Winzik\|Winzik]] took Brade from her parents at an early age, probably recognizing her cytonic abilities, to use her to form the secret core of the Delver Resistance Program. On its surface, the program espoused defense of the [[Superiority\|Superiority]] by fielding a fleet of pilots to navigate a delver maze, reach its heart, and detonate a weapon that feeds the delver the cytonic coordinates of the human preserve on [[Detritus\|Detritus]]. The true purpose of this program, however, was to provide Winzik with a core of powerful cytonics, such as Brade, with which he could summon delvers at will and direct them to wipe out rebellious groups.
 
@@ -68,7 +69,7 @@ During her time with Winzik, the Department of Protective Services studied her m
 Brade accompanied Winzik to inspect the UrDail embassy and intimidate Alanik into agreeing to not use her cytonic abilities on [[Starsight (station)\|Starsight]].
 
 >“*Of course I knew. Winzik's scientists used my mind to develop the weapon. We've always known there was a connection between cytonics and the delvers. We cause them pain, Alanik. They hate us, maybe even fear us. We tried for years to exploit this, and came to the logical conclusion. If we can't destroy the delvers, we can at least divert them.*”
-\-Brade, explaining to Spensa her role in developing the cytonic coordinates weapon.[6]
+\-Brade, explaining to Spensa her role in developing the cytonic coordinates weapon.[7]
 
 Brade attended the Delver Resistance Program tryout, though for what reason, as Winzik knew she was an excellent pilot, is uncertain. She flew a black Krell interceptor, and pursued an aggressive, every man for himself strategy, flying through the battle, sowing confusion, and even light-lancing Morriumur into an asteroid. When Spensa tried to contact her over a private comm line and ask her to join her and Hesho's flight, Brade took a sharp right turn and blocked the line. Brade survived the tryout and went with Winzik while her ship was returned to its hangar.
 Brade accompanied Winzik to a room near the mining facility's cafeteria, where he met with other Department of Protective Services officials, like Tizmar, and discussed the ethics of using live destructor fire on civilian pilots without military training. Brade sensed Spensa eavesdropping, and stood straight up, alert, and told Winzik, who went to check the cafeteria for Alanik.
@@ -79,7 +80,7 @@ A week later, Brade was wingmates with Spensa and the two flew like pilots who h
 Brade and Spensa went on a run of the delver maze together and quickly got through the first few rooms and tunnels. They eventually reached an area that their starfighters' instruments told them has an artificial nitrogen oxygen atmosphere. Brade got out of her starfighter, and landed on the heart. She went over to what Spensa identified as the membrane, and told Spensa she's done training in the delver maze, as rooms will start to repeat and they will grow complacent, and then headed back to her ship. She activated the delver coordinate feeder weapon, and likely had the cytonic coordinates of [[Detritus\|Detritus]] burned into her mind. 
 
 >“*I'm not going to let it destroy my home. This wasn't supposed to happen. It was supposed to go after **you**.*”
-\-Brade, to Spensa, before confronting the delver outside Starsight.[18]
+\-Brade, to Spensa, before confronting the delver outside Starsight.[19]
 
 Brade and Spensa headed back to the Weights and Measures to attend a party hosted by Winzik to promote his defensive force. After being ogled over by various Superiority officials, Brade threw her drink against a wall and stormed off, back toward the jump room.
 After the klaxons on the Weights and Measures went off, Brade remained in the jump room as Spensa and the kitsen ran off. 
@@ -92,7 +93,7 @@ After the delver disappeared, Winzik enacted his coup, in fear of the truth ge
 ## Relationships
 ### Winzik
 >“*Winzik is brilliant. He knows exactly what he's doing. Obviously, he understood our limits better than we did.*”
-\-Brade, defending Winzik from Spensa's verbal assault.[1]
+\-Brade, defending Winzik from Spensa's verbal assault.[2]
 
 
 Brade is loyal to Winzik to a fault, due to his oversight of her upbringing. He has brainwashed her into believing that he is a genius and cannot make mistakes, and that humans are vile and despicable creatures, and that he alone can save her from their savagery she would have fallen too had she stayed with her parents. Sometimes Winzik uses her to intimidate people because she is a human being, and they collaborated to develop the cytonic coordinates planting weapon that was to be used on the delver. Brade was also a conspirator in Winzik's planned coup, but believed that Winzik was getting rid of a valuable asset in Spensa by trying to have her killed.
@@ -100,7 +101,7 @@ After Spensa and Brade duel around [[Evensong\|Evensong]], Winzik and his guards
 
 ### Spensa
 >“**Our* people? What are they to me? You seem so hung up on the idea that I should owe those humans on Detritus something, just because we share a distant heritage. My opportunities are here. Winzik wants you dead. He rightly sees you as a threat. Your only hope is to come with me, and let me persuade him you can still be of use.*”
-\-Brade, to Spensa, after Brade shoots down the military ship to save Spensa's life.[5]
+\-Brade, to Spensa, after Brade shoots down the military ship to save Spensa's life.[6]
 
 
 Brade is suspicious of Spensa because she is a project of the [[Department of Species Integration\|Department of Species Integration]], and its minister, Cuna, is a powerful enemy of Winzik. Brade grows more suspicious of her, thinking she is a cytonic, as Spensa grows frightened whenever the [[Weights and Measures\|Weights and Measures]] hyperjumps, indicating she is seeing the delvers in the nowhere during the jump. She also feels Spensa eavesdropping on her Winzik, and [[Tizmar\|Tizmar's]] conversation outside the cafeteria and grows even more suspicious.
@@ -111,7 +112,7 @@ Brade's final confrontation with Spensa at Starsight comes when she saves Spensa
 
 ### Flowers of Night's Last Kiss Flight
 >“*Hey, nice work today, I think this group is finally getting it.*”
-\-Brade, to Spensa, complimenting Spensa's work to improve the flight.[23]
+\-Brade, to Spensa, complimenting Spensa's work to improve the flight.[24]
 
 
 Brade enters the Delver Resistance Program with a poor opinion of flying with a flight, preferring to fly on her own and take on all of her enemies at once - a product of her arrogance and competitiveness. Brade is aloof while with her flight, not conversing with the rest of them in the jump room while waiting for the Weights and Measures to hyperjump, or on their general comm line while training at the delver maze. Gradually, she begins to see the value of being part of a flight, with structured leadership and flightmates who have different skill sets that cover her weaknesses.

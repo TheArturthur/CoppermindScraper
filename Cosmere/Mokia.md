@@ -28,7 +28,7 @@ The Mokian people are similar to the [[Hushlands\|Hushlands]]  people.
 
 
 ## History
-They have been besieged by [[Librarian\|Librarians]] for years. [[Alcatraz Smedry\|Alcatraz Smedry]] ended it by transferring his power to the Mokians and having them use his [[Smedry Talent\|Talent]] to break all of the Librarian weapons.
+They had been besieged by [[Librarian\|Librarians]] for years. Of all the kingdoms within the Free Kingdoms, this was the one that the Librarians were targeting the most. The Librarians' plans were to then re-write history and say that Mokia, which would doubtlessly be given a separate name, was always part of the world. The Shattered Lens was the faction that the Librarians had sent to conquer [[Tuki Tuki\|Tuki Tuki]], the capital. Mokia was almost given away to the Librarians through a treaty brought by [[Kangchenjunga Sarekgjakka\|Swcbn]] to the Council of Kings. This motion ultimately failed once [[Alcatraz Smedry\|Alcatraz Smedry]] discovered the Librarians' plot to abduct [[Rikers Dartmoor\|the Prince of Nalhalla]]. During the siege of [[Tuki Tuki\|Tuki Tuki]], King [[Talakimallo\|Talakimallo]] and Queen [[Angola Dartmoor\|Angola]] were paralyzed by Librarian weapons. This resulted in [[Alcatraz Smedry\|Alcatraz Smedry]] becoming acting King of Mokia. The war was then fought, being ended by Alcatraz when he transferred his power to the Mokians, allowing them to use his [[Smedry Talent\|Talent]] to break all of the Librarian weapons. In the process, Alcatraz broke the Smedry Talents.
 
 ## See Also
 List of places in Mokia

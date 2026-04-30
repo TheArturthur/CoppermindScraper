@@ -4,7 +4,7 @@
 |**Region**||
 |**World**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 
-**Babylon Restored**, often referred to as **Babilar** (a simplification of "Babyl-R"), is the name given to New York City after its streets were flooded by the [[Epic\|Epic]] [[Regalia\|Regalia]]. Regalia ruled tyrannically over the city for years, before she stopped and decided to clean the place up. It is unknown what came of the city after Calamity was defeated.
+**Babylon Restored**, often referred to as **Babilar** (a simplification of "Babyl-R"), is the name given to New York City after its streets were flooded by the [[Epic\|Epic]] [[Regalia\|Regalia]]. Regalia ruled tyrannically over the city for years, before she stopped and decided to clean the place up. It is unknown what came of the city after Calamity was defeated. 
 
 ## Contents
 
@@ -25,7 +25,7 @@ The citizens of Babilar led fairly normal lives. They would live a carefree life
 
 ## Regalia
 Regalia ruled Babilar for quite some time as a tyrant. She killed thousands of people, and let gangs terrorize the city. However, she soon changed and became a benevolent ruler. Unlike [[Steelheart (Epic)\|Steelheart]], Regalia does not rely on oppression and fear to rule her populace anymore. Regalia has the power to move, see out of, and create projections from water. She is terminally ill with cancer and uses her projections to rule the city. As she can not be present among the city, she appointed [[Newton\|Newton]], a lesser Epic, as her right hand woman. Newton heads the only gang in Babilar, which patrols throughout Babilar, but usually does not resort to violence.
-Regalia sent [[Mitosis\|Mitosis]], [[Instabam\|Instabam]], and [[Sourcefield\|Sourcefield]] to try and lure [[Prof\|Prof]] to Babilar. She also brought [[Obliteration\|Obliteration]] to Babilar, and promised that he would be able to destroy the city if he served her for some time. Regalia ended up making a motivator from Obliteration that was about to destroy the city before Prof interfered.
+Regalia sent [[Mitosis (Epic)\|Mitosis]], [[Instabam\|Instabam]], and [[Sourcefield\|Sourcefield]] to try and lure [[Prof\|Prof]] to Babilar. She also brought [[Obliteration\|Obliteration]] to Babilar, and promised that he would be able to destroy the city if he served her for some time. Regalia ended up making a motivator from Obliteration that was about to destroy the city before Prof interfered.
 
 ## Notable Residents
 For all residents, see here.

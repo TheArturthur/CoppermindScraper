@@ -56,7 +56,7 @@ True spren live in a number of cities and other settlements within Shadesmar. Th
 
 [[Celebrant\|Celebrant]]
 [[Candlemore\|Candlemore]]
-[[Emberdark\|Emberdark]]
+[[Emberdark (settlement)\|Emberdark]]
 [[Burning Gardens\|Burning Gardens]]
 [[Ravizadth\|Ravizadth]]
 [[Riino's lighthouse\|Riino's lighthouse]]

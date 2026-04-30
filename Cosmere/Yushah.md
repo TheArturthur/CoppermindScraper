@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Yushah** is a [[Thunderclast\|thunderclast]] that participates in the [[Battle of Thaylen Field\|Battle of Thaylen Field]] on [[Roshar\|Roshar]] in 1174.
+**Yushah** is a [[Thunderclast\|thunderclast]] on [[Roshar\|Roshar]]. She was formerly a singer, but was turned into a thunderclast by [[Odium\|Odium]] after she died.
 
 ## Contents
 

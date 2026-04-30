@@ -1,17 +1,18 @@
 |**Everstorm**|
 |-|-|
 ||
-|**Related to**|[[Odium\|Odium]]|
+|**Related to**|[[Odium\|Odium]], [[Retribution\|Retribution]]|
 |**Type**|Invested weather phenomenon|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|Cosmere|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“* They call for a storm. My opposite. Deadly. *”
 \-The Stormfather to Dalinar during the Battle of Narak.[1]
 
-The **Everstorm** (Alethi:   romanization: *Kalazeras*, lit. *Eternal Storm*) is a powerful weather pattern on [[Roshar\|Roshar]] similar to a [[Highstorm\|highstorm]], but one that circles the world in the opposite direction. It was summoned by [[Stormform\|stormform]] [[Listener\|listeners]] during the [[Battle of Narak\|Battle of Narak]] at the end of the [[War of Reckoning\|War of Reckoning]]. The period in which it passes over a given area is sometimes referred to as the **Evernight**.
+The **Everstorm** (Alethi:    romanization: *Kalazeras*, lit. *Eternal Storm*) is a powerful weather pattern on [[Roshar\|Roshar]] similar to a [[Highstorm\|highstorm]], but one that circles the world in the opposite direction. It was summoned by [[Stormform\|stormform]] [[Listener\|listeners]] during the [[Battle of Narak\|Battle of Narak]] at the end of the [[War of Reckoning\|War of Reckoning]]. The period in which it passes over a given area is sometimes referred to as the **Evernight**.
+Following the birth of Retribution, the Everstorm was expanded to cover all of Roshar, and to continue without abating. This event is known as the **[[Night of Sorrows\|Night of Sorrows]]**. Due to the storm, the planet experienced constant rainfall and lightning, and light from the sun was blocked out, leaving the planet in an eternal night-like state. The only places free from the storm are [[Azir\|Azir]] and [[Urithiru\|Urithiru]], as per Dalinar's agreements with Odium. However, Azir was left within the storm for a period of around a month before it was freed.
 
 ## Contents
 
@@ -26,6 +27,7 @@ The **Everstorm** (Alethi:   romanization: *Kalazeras*, lit. *Eternal Storm*) is
 3. [[#Predictions]] 
 3. [[#Summoning]] 
 3. [[#True Desolation]] 
+3. [[#The Night of Sorrows]] 
 
 
 4 See Also. [[#See Also]] 
@@ -33,14 +35,15 @@ The **Everstorm** (Alethi:   romanization: *Kalazeras*, lit. *Eternal Storm*) is
 
 
 ## Description
-Where regular [[Highstorm\|highstorms]] are commanded by the [[Stormfather\|Stormfather]] and carry with them [[Honor\|Honor's]] [[Investiture\|Investiture]], the Everstorm is of [[Odium\|Odium]]. It travels from west to east, opposite the direction of traditional highstorms. The Everstorm's clouds are black, and it strikes with red lightning. It lacks a stormwall at the front, and carries neither debris nor [[Crem\|crem]], only billowing smoke and darkness. Much like the highstorm, the Everstorm doesn't reach high enough to threaten [[Urithiru\|Urithiru]], though even up there, its passing is accompanied by a wave of unnatural cold.
-The inside of the Everstorm is completely dark, filled with ash carried by violent winds. This being said, even within a single passing, the conditions within vary greatly. Sometimes, there is no wind, only lightning; other times, it rains, and yet other, burning embers fall from the skies instead. Where the Everstorm's lightning hits appears to be under either Odium's or some other entity's control, as it's capable of targeting individual buildings.
+Where regular [[Highstorm\|highstorms]] are commanded by the [[Stormfather\|Stormfather]] and carry with them [[Honor\|Honor's]] [[Investiture\|Investiture]], the Everstorm is of [[Odium\|Odium]], and later of [[Retribution\|Retribution]]. It travels from west to east, opposite the direction of traditional highstorms. The Everstorm's clouds are black, and it strikes with red lightning. It lacks a stormwall at the front, and carries neither debris nor [[Crem\|crem]], only billowing smoke and darkness. It rains far less than the highstorm, and it often comes in short bursts. Much like the highstorm, the Everstorm doesn't reach high enough to threaten [[Urithiru\|Urithiru]], though even up there, its passing is accompanied by a wave of unnatural cold.
+The inside of the Everstorm is completely dark, filled with ash carried by violent winds. This being said, even within a single passing, the conditions within vary greatly. Sometimes, there is no wind, only lightning; other times, it rains, and yet other, burning embers fall from the skies instead. Where the Everstorm's lightning hits appears to be under either Odium's or some other entity's control, as it's capable of targeting individual buildings. The Everstorm is capable of building power while stationary.
 Just what commands the Everstorm is uncertain. [[Pattern\|Pattern]] suggests it's a spren of some kind serving Odium. Odium himself can exercise a level of control, stopping the storm at will. Whether there is some separate entity commanding the Everstorm is left ambiguous, and if such a spren exists, it has yet to make itself known.
 
 ### Frequency
 For more details and supporting calculations, see [[Everstorm/Timeline\|/Timeline]].
 The Everstorm travels at roughly 120 miles per hour, about a third the speed of a [[Highstorm\|Highstorm]]. It takes roughly nine days to circle the entire globe, three of which it spends crossing the Rosharan continent. Its time of arrival does fluctuate slightly, and precise predictions can be inaccurate. Fortunately, its high visibility and lower speed give the people of Roshar plenty of time to seek shelter. It is not yet clear whether the Everstorm's frequency is affected by the time of the year or other variables.
 Odium is capable of altering the Everstorm's speed as he desires. He can accelerate it, pushing it to go around the planet in as little as five days. He can also bring it to a full stop and hold it stationary for hours. The one time the Everstorm was stopped like this, it eventually dissipated, but later returned to round the planet in its usual pattern.
+Following the formation of Retribution, on Palahanah 1175, the Everstorm was expanded to cover the entire planet simultaneously. Furthermore, it was made eternal, therefore keeping the world within an eternal, global-scale storm.
 
 ## Influence and Magic
   A <<Fused\|Fused>> in the Everstorm
@@ -54,7 +57,7 @@ Finally, the Everstorm releases any [[Parshmen\|parshmen]] who come into contact
 \-The Stormfather[3]
 
 ### Predictions
-The Everstorm did not exist prior to the [[True Desolation\|True Desolation]], although the underlying mechanisms were already in place. Its arrival was, however, predicted multiple times by the end of the [[Era of Solitude\|Era of Solitude]], both in numerous [[Death Rattle\|Death Rattles]] and in [[Dalinar's visions\|Dalinar's visions]]. On most occasions, it was listed alongside with the True Desolation and the Night of Sorrows. [[Renarin\|Renarin]] likewise had numerous visions about the Everstorm's arrival, though without its name, complete with a precise countdown to its coming.
+The Everstorm did not exist prior to the [[True Desolation\|True Desolation]], although the underlying mechanisms were already in place. Its arrival was, however, predicted multiple times by the end of the [[Era of Solitude\|Era of Solitude]], both in numerous [[Death Rattle\|Death Rattles]] and by [[Honor\|Honor]] in [[Dalinar's visions\|Dalinar's visions]]. On most occasions, it was listed alongside with the True Desolation and the Night of Sorrows. [[Renarin\|Renarin]] likewise had numerous visions about the Everstorm's arrival, though without its name, complete with a precise countdown to its coming.
 The storm first took shape in [[Shadesmar\|Shadesmar]] centuries before its arrival in the Physical Realm, and its appearance was partly what drove some spren to begin searching out bonds to refound the [[Knights Radiant\|Knights Radiant]].
 
 ### Summoning
@@ -68,6 +71,10 @@ The resulting Everstorm arrived from the west and clashed with the highstorm ove
 For more information, see [[True Desolation\|True Desolation]].
 The Everstorm then became a new regular fixture of Roshar's weather system, coming in regular nine-day intervals. In its first passing, it devastated numerous cities in its wake, with particular focus on [[Thaylen City\|Thaylen City]], which Odium was preparing for an upcoming battle. It also restored [[Connection\|Connection]] and [[Identity\|Identity]] to the [[Parshmen\|parshmen]], ending [[Slaveform\|slaveform]]. In subsequent passings, the Everstorm allowed the [[Fused\|Fused]] to enter the [[Physical Realm\|Physical Realm]].
 Odium brought the Everstorm with him to the [[Battle of Thaylen Field\|Battle of Thaylen Field]], using it to bring his fleet closer to the Thaylen shore before stopping it just outside of the city. Following the battle, the Everstorm dissipated, although it later returned back to its regular cycle.
+
+### The Night of Sorrows
+For more information, see [[Night of Sorrows\|Night of Sorrows]].
+On Palahanah 1175, Odium and Honor were fused into [[Retribution\|Retribution]], and the Everstorm was extended over all of Roshar, transitioning from a local to a global phenomenon. This left the planet under a ceaseless rainfall, and blocked out the sun's light, leaving its inhabitants under an eternal night. This event is known as the [[Night of Sorrows\|Night of Sorrows]]. Some time after the Contest of Champions, the Everstorm let up in [[Azir\|Azir]], moving exactly to the borders of the country and allowing light to shine on the country once again. This was due to it's capital city [[Azimir\|Azimir's]] status as the only place other than [[Urithiru\|Urithiru]] the Coalition was able to keep because to the actions of the [[Unoathed\|Unoathed]].
 
 ## See Also
 **Subpages**

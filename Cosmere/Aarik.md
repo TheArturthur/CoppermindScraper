@@ -28,7 +28,7 @@
 
 
 ## Personality and Appearance
->“*I'm a strong proponent of humiliating trackts and others in authority, but killing them is a bit extreme.*”
+>“*I'm a strong proponent of humiliating trackts and others in authority, but killing them is a bit extreme. *”
 \-Aarik to Lokmlen, defending Ais.[2]
 
 
@@ -53,8 +53,8 @@ Aarik went with Kenton to many of the Taishin when Kenton was petitioning for th
 
 After helping Kenton search the Diem for the missing [[Lak\|lak]] and learning of the assassination attempt in [[Lonzare\|Lonzare]], he realized how dire the situation had become and considered leaving Kenton to his fate. Ultimately, he chose to stay on account of their friendship and because Kenton's cause was just and Kenton was willing to sacrifice himself fighting Drile to save the Diem.
 After the second meeting with [[Lord Merchant\|Lord Merchant]] [[Vey\|Vey]], while they are dining in the restaurant, assassins again attack Kenton. Aarik continued eating, and claimed that Kenton can take care of himself; then he caught a stray zinkall bolt coming toward the table where he and Duchess [[Khrissalla\|Khrissalla]] were eating. Aarik then noticed an assassin disguised as the waitstaff and subdued him to the table.
-During the next assassination attempt on the boat returning thier party to Kezare from [[Lraezare\|Lraezare]], Aarik realized that because Kenton had overmastered he would not be able to defend himself without access to mastered sand. Aarik was forced to choose between letting Kenton die or picking up a weapon and actively fighting to defend him. After a brief internal struggle, Aarik chose to fight to defend Kenton, killing six Kerztian assassins. After the fight, Aarik's personality seemed to change radically; he goes from jovial and outgoing to cold and formal. Kenton says that Aarik was raised in a very strict home, and he beleived his carefree attitude had been him rebelling against that upbringing.
-After Ais discovers the body of Raagent in the wine cellar of the Tower, Kenton asked Aarik to take the title of Lord General to insure his vote in maintaining the Diem; Aarik agreed reluctantly but became even colder and more withdrawn, causing Kenton to fear he had caused Aarik permanent mental harm.
+During the next assassination attempt on the boat returning their party to Kezare from [[Lraezare\|Lraezare]], Aarik realized that because Kenton had overmastered he would not be able to defend himself without access to mastered sand. Aarik was forced to choose between letting Kenton die or picking up a weapon and actively fighting to defend him. After a brief internal struggle, Aarik chose to fight to defend Kenton, killing six Kerztian assassins. After the fight, Aarik's personality seemed to change radically; he goes from jovial and outgoing to cold and formal. Kenton says that Aarik was raised in a very strict home, and he believed his carefree attitude had been him rebelling against that upbringing.
+After Ais discovers the body of Raagent in the wine cellar of the Tower, Kenton asked Aarik to take the title of Lord General to ensure his vote in maintaining the Diem; Aarik agreed reluctantly but became even colder and more withdrawn, causing Kenton to fear he had caused Aarik permanent mental harm.
 Aarik attended the duel between Kenton and Drile at the Diem. When the Taishin voted, Lord General Aarik voted in favor of the Diem.
 
 ## Quotes
@@ -66,7 +66,7 @@ Aarik attended the duel between Kenton and Drile at the Diem. When the Taishin v
 \-Aarik's response to the poisoning of the sand masters.[2]
 
 
->“***Khriss**: Your father? Who are you?*
+>“***Khriss**: Your father? Who are you? *
 \-Aarik: Someone of no import, and determined to stay that way.
 
 

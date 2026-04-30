@@ -38,7 +38,7 @@ The re-emergence of female [[Knights Radiant\|Knights Radiant]] who capably wiel
 reading and writing
 painting and drawing
 science (e.g., zoology, botany, and natural history)
-logic
+logic, mathematics 
 playing musical instruments
 ### Masculine
 combat

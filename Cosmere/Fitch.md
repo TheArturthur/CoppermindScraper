@@ -37,7 +37,7 @@
 
 
 ## Appearance and Personality
-Fitch typically dresses in a white vest, shirt, and trousers with the red coat with a militaristic feel, the coat of a full Rithmatic professor. After he swaps places with Nalizar he wears the grey coat of tutoring professor. Fitch is distraught by this, and he cries himself to sleep that night. He loves teaching and doesn't mind interruptions by students unless they bother him early in the morning or late at night. Fitch is uncomfortable about dueling, and confrontation in general. As such, it is hard for Fitch to focus and create his defenses properly while dueling.
+Fitch typically dresses in a white vest, shirt, and trousers with the red coat with a militaristic feel, the coat of a full Rithmatic professor. After he swaps places with Nalizar he  wears the grey coat of tutoring professor. Fitch is distraught by this, and he cries himself to sleep that night. He loves teaching and doesn't mind interruptions by students unless they bother him early  in the morning or late at night. Fitch is uncomfortable about dueling, and confrontation in general. As such, it is hard for Fitch to focus and create his defenses properly while dueling.
 
 ## Attributes and Abilities
 ### Rithmatics

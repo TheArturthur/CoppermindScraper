@@ -10,6 +10,7 @@
 |**Nationality**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*My name is Kwaan. Philosopher, scholar, traitor. I am the one who discovered Alendi, and I am the one who first proclaimed him to be the Hero of Ages. I am the one who started this all.*”
 \-From Kwaan's inscription[3]

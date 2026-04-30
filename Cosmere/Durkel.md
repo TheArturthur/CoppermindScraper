@@ -7,9 +7,7 @@
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
-**Durkel** is the father of [[Allriandre\|Allriandre]] on [[Scadrial\|Scadrial]]. Durkel is his surname. He was killed by a sixteen year old [[Wayne\|Wayne]] during a robbery.
+**Durkel** is the father of [[Allriandre\|Allriandre]] and her sisters on [[Scadrial\|Scadrial]]. Durkel is his surname. He worked as an accountant in the [[Roughs\|Roughs]] and would scribe letters for the miners and other workers. He was killed by a sixteen year old [[Wayne\|Wayne]] during a robbery.
 
 
 

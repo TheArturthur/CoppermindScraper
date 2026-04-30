@@ -8,11 +8,11 @@
 |**Released**|November 17, 2020|
 |**Publisher**||
 |**ISBN**|978-0-7653-2638-6|
-|**Page Count**|1,232|
+|**Page Count**|1,230|
 |**Word Count**|[[Rhythm of War/Statistical analysis\|455,891]]|
 
 This article deals with the fourth [[Stormlight Archive\|Stormlight Archive]] novel. For the in universe work, see [[Rhythm of War (in-world)\|Rhythm of War (in-world)]].
-***Rhythm of War*** is the fourth book in the *[[The Stormlight Archive\|The Stormlight Archive]]*. It was released on November 17, 2020.
+***Rhythm of War*** is the fourth book in *[[The Stormlight Archive\|The Stormlight Archive]]*. It was released on November 17, 2020.
 
 ## Contents
 
@@ -26,7 +26,7 @@ This article deals with the fourth [[Stormlight Archive\|Stormlight Archive]] no
 
 5 Cover Gallery. [[#Cover Gallery]] 
 6 Interior Art. [[#Interior Art]] 
-7 See also. [[#See also]] 
+7 See Also. [[#See Also]] 
 8 Trivia. [[#Trivia]] 
 9 Statistical Analysis. [[#Statistical Analysis]] 
 10 Notes. [[#Notes]] 
@@ -47,7 +47,8 @@ This article deals with the fourth [[Stormlight Archive\|Stormlight Archive]] no
 
 ## Summary
 For a chapter by chapter summary, see [[Rhythm of War/Summary\|/Summary]].
-The book is set on [[Roshar\|Roshar]] one year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and follows the stories of [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], [[Venli\|Venli]], and [[Navani Kholin\|Navani Kholin]]. There are also several other characters who receive viewpoints; [[Adolin Kholin\|Adolin Kholin]], [[Lirin\|Lirin]], [[Dalinar Kholin\|Dalinar Kholin]], [[Renarin Kholin\|Renarin Kholin]], [[Jasnah Kholin\|Jasnah Kholin]], [[Rlain\|Rlain]], [[Dabbid\|Dabbid]], [[Teft\|Teft]], [[Moash\|Moash]], [[Adin\|Adin]], [[Taravangian\|Taravangian]], [[Lezian\|Lezian]], and [[Hoid\|Wit]] in the main text, Venli and [[Eshonai\|Eshonai]] in flashbacks, and several others in the Interludes.
+For an index of chapter breaks in various editions, see [[Rhythm of War/Chapter index\|/Chapter index]].
+The book is set on [[Roshar\|Roshar]] one year after the [[Battle of Thaylen Field\|Battle of Thaylen Field]] and follows the stories of [[Shallan Davar\|Shallan Davar]], [[Kaladin\|Kaladin]], [[Venli\|Venli]], and [[Navani Kholin\|Navani Kholin]]. There are also several other characters who receive viewpoints; [[Adolin Kholin\|Adolin Kholin]], [[Lirin\|Lirin]], [[Dalinar Kholin\|Dalinar Kholin]], [[Renarin Kholin\|Renarin Kholin]], [[Jasnah Kholin\|Jasnah Kholin]], [[Rlain\|Rlain]], [[Dabbid\|Dabbid]], [[Teft\|Teft]], [[Moash\|Moash]], [[Adin\|Adin]], [[Taravangian\|Taravangian]], [[Lezian\|Lezian]], and [[Hoid\|Wit]] in the main text, Venli and [[Eshonai\|Eshonai]] in flashbacks, and Taravangian as the focus of the Interludes along with several others.
 
 ## Development
 Brandon began writing Stormlight Archive 4 in January 2019, with publication planned for 2020. The original working title was *The Song of Changes*, which Brandon said was never meant to be the final title, and he later said the tentative title was *The Rhythm of War*. Eventually, it was announced that the book would be released on November 17th, 2020, although the final title was still unknown at that time. *Rhythm of War* was finally made the official title in February 2020, and the writing process ended in July 2020.
@@ -71,21 +72,21 @@ Additionally, Tor.com publicly released full part 1 of the book, including the p
 For a cover gallery of Rhythm of War, see [[Rhythm of War/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[Rhythm of War/Interior art\|/Interior art]].
-## See also
+## See Also
 [[Rhythm of War/Epigraphs\|Rhythm of War/Epigraphs]]
 [[Rhythm of War/Headings\|Rhythm of War/Headings]]
 [[Rhythm of War/Covers\|Rhythm of War/Covers]]
 [[Rhythm of War/Interior art\|Rhythm of War/Interior art]]
 ## Trivia
 *Rhythm of War* includes pictures of all the [[/wiki/Spren#True Spren]] who form [[Nahel bond\|Nahel bonds]], save for the [[Bondsmith\|Bondsmith]] spren.
-As with *[[Oathbringer\|Oathbringer]]*, *Rhythm of War* includes four new illustrations of the [[Herald\|Heralds]], specifically [[Nale\|Nale]], [[Chanarach\|Chanarach]], [[Pailiah\|Pailiah]], and [[Kalak\|Kalak]].
+As with *[[Oathbringer\|Oathbringer]]*, *Rhythm of War* includes four new illustrations of the [[Herald\|Heralds]], specifically [[Nale\|Nale]], [[Chanarach\|Chanarach]], [[Pralla\|Pralla]], and [[Kalak\|Kalak]].
 ## Statistical Analysis
 For a full statistical analysis, see [[Rhythm of War/Statistical analysis\|/Statistical analysis]].
 *Rhythm of War* consists of one prologue, one hundred and seventeen chapters, twelve of which are reserved for flashbacks of the focus character of the book, twelve interludes and one epilogue, reaching a total 455,891 word count. There are twenty-four different unique point-of-view characters in a total of 226 POVs.
 
 |**Word Count**|455,891||
 |-|-|
-|**Page Count**|1,232|Tor hardback|
+|**Page Count**|1,230|Tor hardback|
 |**Chapter Count**|131|Including prologue, 12 interludes, and epilogue.|
 |**PoV Characters**|24||
 |**PoV Count**|226||

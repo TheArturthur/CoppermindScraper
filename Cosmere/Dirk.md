@@ -40,7 +40,7 @@ The duke had long been disappointed that his son did not fit the mold of a proto
 
 After a year of this had passed, the town received word that the duke was returning to Diggen's Point with his heir and new daughter-in-law. The townspeople were surprised when Dirk was introduced as the new heir, and the [[Princess of Dormancy\|princess of Dormancy]] as his wife. The duke had eventually figured out Charlie's deception; with the king's approval, the duke forced Charlie to try and marry the [[Sorceress\|Sorceress]]. This would either gain the Verdant kingdom an alliance with the Sorceress, or get rid of a problematic heir.
 Within hours of learning that Charlie's ship had vanished in the dangerous [[Midnight Sea\|Midnight Sea]], the king declared Charlie officially dead; the duke adopted Dirk and instated him as his heir. Dirk was exactly the type of heir that the duke had always wanted, and he was soon married to the princess in order to solidify a political alliance. The duke threw a large party to celebrate Dirk upon their return. The townspeople were confused, but were quickly convinced to toast Dirk's marriage when the duke provided free food and drinks. The nobles were very happy with Dirk as the new heir, and after a few days none of the common people seemed to care.
-After Tress successfully rescued Charlie, the king claimed that he had believed in Charlie all along. Charlie likely regained his status as the rightful heir to the duchy; the status of Dirk and the princess is unclear.
+After Tress successfully rescued Charlie, the king claimed that he had believed in Charlie all along. The status of Dirk and the princess after this is unclear.
 
 
 

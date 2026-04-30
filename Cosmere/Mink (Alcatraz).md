@@ -16,7 +16,7 @@ For the [[Herdazian\|Herdazian]] general, see [[Dieno enne Calah\|Dieno enne Cal
 Mink is short and compact, with her arms pulled in at her side and her chin nestled down level with her shoulders. Alcatraz likens her appearance to a can of soda.
 
 ## History
-During the battle, she gives Alcatraz information on the Mokian defenses such as the dome, and how long they’ll hold. At Alcatraz’ orders, Mink and the other counselors went to fetch him some backpacks full of explosive teddy bears, six of their fastest warriors, and a pair of very long stilts. They hesitated briefly, but did as asked.
+During the battle, she gives Alcatraz information on the Mokian defenses such as the dome, and how long they’ll hold. At Alcatraz’ orders, Mink and the other counselors went to fetch him some backpacks full of explosive teddy bears, six of  their fastest warriors, and a pair of very long stilts. They hesitated briefly, but did as asked.
 
 
 

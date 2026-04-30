@@ -1,13 +1,20 @@
 |**Ym**|
 |-|-|
 ||
+|**Family**|
+|**Children**|[[Dyel's mother\|Daughter]]|
+|**Descendants**|[[Dyel\|Dyel]]|
 |**Died**|Killed by [[Nale\|Nale]], 1173|
 |**Abilities**|[[Order of Truthwatchers\|Truthwatcher]]|
+|**Bonded With**|[[Uma\|Uma]]|
 |**Profession**|Cobbler|
+|**Religion**|[[/wiki/Iriali#Religion]]|
 |**Nationality**|[[Iriali\|Iriali]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You are an interesting experience, my friend, one in which I’m honored to participate.*”
 \-Ym to his spren[1]
@@ -36,7 +43,7 @@ Ym is a [[Surgebinder\|Surgebinder]] and has bonded a [[Mistspren\|mistspren]]. 
 
 ## History
 In his youth, he lived on the streets although he was apparently born to a family of means. He unwittingly killed a woman. He was told to deliver a bottle of wine to a woman and that the vintage was a message she would recognize. The wine, however, was poisoned and the woman died. Regretful of his actions, Ym went on to live a life free of crime. Eventually, he opened up a cobbler shop where he would often make shoes for the street urchins.
-He was killed by [[Nale\|Nale]] in his attempt of stopping the [[True Desolation\|True Desolation]] by killing new [[Radiant\|Radiants]].
+He was killed by [[Nale\|Nale]] in his attempt of stopping the [[True Desolation\|True Desolation]] by killing new [[Knights Radiant\|Radiants]].
 
 
 

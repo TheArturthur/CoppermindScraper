@@ -15,7 +15,7 @@
 \-Laral to Kaladin[2]
 
 
-**Laral Roshone** is the citylady of [[Hearthstone\|Hearthstone]]. She is the daughter of former citylord [[Wistiow\|Wistiow]] and widow of former citylord [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
+**Laral Roshone** is the citylady of [[Hearthstone\|Hearthstone]].  She is the daughter of former citylord [[Wistiow\|Wistiow]] and widow of former citylord [[Roshone\|Roshone]] in [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 
 ## Contents
 
@@ -50,7 +50,7 @@ Laral was a childhood friend of [[Kaladin\|Kaladin's]] while they grew up togeth
 >“*You take after your father. Always feeling like you need to save everyone, even those who would rather you mind your own business.*”
 \-Laral to Kaladin[6]
 
-For several months after her father's death, Laral was confined to the mansion. With the coming of Brightlord [[Roshone\|Roshone]], she turned to courting his son and heir, [[Rillir\|Rillir]]. She began dressing as a true Alethi lighteyed woman in an effort to capture Rillir's attention, going so far as to treat Kaladin like an errand boy when the she and Rillir encountered him in the mansion's kitchen.
+For several months after her father's death, Laral was confined to the mansion. With the coming of Brightlord [[Roshone\|Roshone]], she turned to courting his son and heir, [[Rillir\|Rillir]]. She began dressing as a true Alethi lighteyed woman in an effort to capture Rillir's attention, going so far as to treat Kaladin like an errand boy when she and Rillir encountered him in the mansion's kitchen.
 Laral was at Lirin's surgery room with Rillir after he was gored by a [[Whitespine\|whitespine]], panicking and yelling before her guards took her away. After Rillir's death from his wounds, she eventually became betrothed to Brightlord Roshone himself. She wore a bride's prayer [[Glyph\|glyph]] on her sleeve the day that Highprince [[Amaram\|Amaram]] arrived and took Tien and Kaladin into his army, though they did not formally announce their engagement at the time.
 At some point during the years 1168 to 1174, Laral married [[Roshone\|Roshone]].
 When Kaladin returned to Hearthstone in 1174, Laral berated him for damaging her floor with his [[Shardblade\|Shardblade]] and, more importantly, for thinking that she needed "saving" from her marriage to Roshone. She expressed willingness to help the citizens of Hearthstone weather the new [[Everstorm\|everstorms]] and the lack of [[Parshmen\|Parshmen]], then operated a [[Spanreed\|spanreed]] for Kaladin so he could speak with [[Dalinar\|Dalinar]] before heading back to [[Urithiru\|Urithiru]].

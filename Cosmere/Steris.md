@@ -3,22 +3,22 @@
 ||
 |**Family**|
 |**Spouse**|[[Waxillium Ladrian\|Waxillium Ladrian]]|
-|**Children**|[[Maxillium Ladrian\| Maxillium]], [[Tindwyl Ladrian\| Tindwyl]]|
+|**Children**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Parents**|[[Jackstom Harms\|Jackstom Harms]]|
 |**Siblings**|[[Marasi Colms\|Marasi Colms]]|
 |**Relatives**|[[Armal\|Armal]]|
 |**Ancestors**|[[Spook\|Spook]]|
+|**Born**|c. 313 [[Catacendre\|PC]]|
 |**Religion**|[[Survivorism\|Survivorism]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
-> [!info] This page is part of the October 2024 objectives!It has been claimed by User: S3lkier, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]* and *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*As I have said many times before, I am aware of my reputation. I must embrace my nature.*”
-\-Steris[2]
+\-Steris[3]
 
 
 **Steris Harms** is the daughter of Lord [[Jackstom Harms\|Jackstom Harms]] and the half-sister of [[Marasi Colms\|Marasi Colms]], as well as the fiancee and eventual wife of High Lord [[Waxillium Ladrian\|Waxillium Ladrian]]. Steris often states that she does not fit in well with other people, and she makes up for this by relentlessly memorizing social norms and relevant facts about [[Scadrian\|Scadrian]] society and by creating exhaustive lists of contingencies for any and every possible occasion. This led to being appointed as the Disaster Preparations Officer by the governor. She is autistic.
@@ -50,12 +50,12 @@
 ## Appearance and Personality
  
 >“*I’ve learned to fake being normal, but lists of prepared comments and jokes can only take me so far. People can sense that I’m not being authentic - that I don’t like the things they like or think the way they do.*”
-\-Steris to Wax[5]
+\-Steris to Wax[6]
 
 
 For more images, see [[Steris Harms/Gallery\|/Gallery]].
-Steris has blond hair, which is usually pulled up into a bun. She often wears a stern or cool expression. Steris carefully crafts her outfits so that she keeps up with the current fashions, neither ahead of or behind the curve.
-Because she is autistic, Steris often feels disconnected from those around her. She often describes herself as boring, and mentions several times that others find it difficult to spend much time with her. As a member of Wax’s close circle, Steris often feels as though she has nothing to contribute to their heroics. During the hunt for the [[Bands of Mourning\|Bands of Mourning]], Steris gives herself a 7/100 usefulness rating.
+Steris has blonde hair, which is usually pulled up into a bun. She often wears a stern or cool expression. Steris carefully crafts her outfits so that she keeps up with the current fashions, neither ahead of or behind the curve.
+Because she is autistic, Steris often feels disconnected from those around her. She often describes herself as boring, and mentions several times that others find it difficult to spend much time with her. As a member of Wax’s close circle, Steris often feels as though she has nothing to contribute to their heroics. During the hunt for the [[Bands of Mourning\|Bands of Mourning]], Steris gives herself a 7/100 usefulness rating. Steris doesn’t often stay up late.
 Steris copes with her disconnection by being as prepared and thorough as humanly possible. She always carries at least one notebook, in which she keeps multiple lists. Steris has compiled lists of witty comments to use during conversation, unsavory people to invite to her wedding, and on one occasion a twenty-seven page list of things to bring on a spontaneous trip. Steris is known to prepare exhaustive plans and backup plans, and backup backup plans, and to pack in accordance with those plans, bringing extra steel or guns for Wax to use and on one occasion gouging a hiding place for a brass medallion out of her notebook.
 Steris is very intelligent and dedicated to what she views as her duties. She puts an enormous amount of effort into learning everything she can about the players and moving parts of [[Elendel\|Elendel]] society, and takes her responsibilities as a head of House Ladrian very seriously, even to the point of reviewing the house finances in an effort to recover three missing clips. Her dedication to and interest in what Wax views as meaningless and boring tasks inspires him to greater dedication to his own responsibilities as High Lord Ladrian.
 Steris is given to moments of deep reflection and poetic expression, as well as moments of surprising honesty. She speaks formally most of the time, except with Wayne, whom she does not respect at all. Steris likes soda water.
@@ -66,7 +66,7 @@ Steris was raised in Lord Harms household, with Lord and Lady Harms. Steris’s 
 
 ### Engagement to Wax and Capture by the Vanishers
 >“*I did not make these rules. Nor do I approve of them; many are inconvenient. But it is the society in which we live. Therefore I make of myself something that can survive in this environment.*”
-\-Steris to Wax[7]
+\-Steris to Wax[8]
 
 
 Steris makes a visit to the Ladrian mansion to discuss arranging an engagement between herself and Wax. This was the first time Steris and Wax had met in person, although they had been exchanging letters regarding a house union for several months. Steris presented Wax with a “thorough” document of at least 20 pages that outlined each stage of their courtship and engagement, as well as the terms of their eventual marriage, an arrangement that Wax agreed to. It was here that Steris also met [[Wayne\|Wayne]], in the guise of Wax’s fictional Uncle Maskil.
@@ -75,7 +75,7 @@ Wax felt intensely guilty about failing to save Steris, and thus undertook an in
 
 ### During Paalm's Attack
 >“*This is how it’s going to be, with him, isn’t it? Always being left behind in the middle of something? Always half feeling as if I’m part of his life?*”
-\-Steris to Wayne, about Wax[20]
+\-Steris to Wayne, about Wax[21]
 
 
   Steris consoles Wax after Lessie's death
@@ -97,7 +97,7 @@ Steris expected Wax and the others to come back on foot, but instead, Wax brough
 When they approached the temple, Steris pointed out that someone had to watch for Suit's men and keep a lookout. So Steris, Marasi, and Wayne stayed behind. While on lookout, Steris showed Marasi a chart of how useful everyone was on the hunt, with the max score being one hundred. Wax and MeLaan both had a score of one hundred. Wayne was a seventy-five. Marasi was an eighty-three. Steris had given herself a score of seven (originally a four). Steris then told Marasi how she felt about Wax.
 
 >“*When I'm with him, Marasi, I burn. It's wonderful.*”
-\-Steris on Wax.
+\-Steris on Wax
 
 Steris at first refused to admit that she loved Wax, then admits that she does love him and thinks it's foolish.
 A little after Suit and some of his minions entered the temple, Steris watched Marasi fly away, using the Bands of Mourning, and found it very unexpected because it hadn't made the list or appendix. Shortly afterward, Steris goes with [[Allik Neverfar\|Allik]] to his old crew, and gives them heat medallions as well as rifles, and they attack Suit's men. The Set was defeated shortly afterward.
@@ -108,10 +108,10 @@ After Wax and Steris got off of the airship, they were greeted by Governor Arade
   Wax and Steris flying in the mists
 ### Waxillium Ladrian
 >“*8:17. Way into the building blocked by traffic. Lord Waxillium carries us up to the top floor by Allomancy, which is completely inappropriate and at the same time breathtaking.*”
-\-Steris' planner[15]
+\-Steris' planner[16]
 
 
-Steris began her relationship with Wax with a touch of desperation, as her efforts to secure a future for herself and her house had come to a stalemate. However, after Wax rescues her from her captivity by the Vanishers, she evidences some affection for him. By the time Wax goes to search for the Bands of Mourning, Steris has fallen deeply in love with him, even though she regards the emotion as foolish.
+Steris began her relationship with Wax with a touch of desperation, as her efforts to secure a future for herself and her house had come to a stalemate. However, after Wax rescues her from her captivity by the Vanishers, she evidences some affection for him. By the time Wax goes to search for the Bands of Mourning, Steris has fallen deeply in love with him, even though she regards the emotion as foolish. 
 At the beginning of their relationship, Wax regards Steris as an inconvenient necessity, and even enjoys needling her until she loses her temper. As their relationship progresses, however, Wax finds himself becoming protective of Steris’s feelings as well as her person. Eventually Wax realizes that he not only cares for Steris, but that he loves her. Since their first wedding was ruined by Wayne, Wax surprises Steris with a private wedding after their return from the Seran Mountain Range, delighting her with the one thing she had never expected - a marriage marked more by love than by duty.
 
 ### Children

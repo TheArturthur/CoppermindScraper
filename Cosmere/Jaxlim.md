@@ -2,12 +2,15 @@
 |-|-|
 ||
 |**Children**|[[Eshonai\|Eshonai]], [[Venli\|Venli]]|
+|**Abilities**|[[Order of Willshapers\|Willshaper]]|
 |**Species**|[[Singer\|Singer]]|
 |**Residence**|[[Narak\|Narak]]|
 |**Nationality**|[[Listener\|Listener]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*We need to remember what we passed through to get here. We need to take care not to forget ourselves.*”
 \-Jaxlim to Venli on learning all stanzas to perfection[1]
@@ -21,6 +24,7 @@
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
 2. [[#Songs]] 
+2. [[#Willshaper]] 
 
 
 3 History. [[#History]] 
@@ -28,6 +32,7 @@
 3. [[#Narak]] 
 3. [[#War of Reckoning .281167 - 1174.29]] 
 3. [[#After the Battle of Narak]] 
+3. [[#Venli.27s Return]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -53,6 +58,9 @@ Jaxlim's people are the First-Rhythm family, who have a noble heritage. Jaxlim i
 
 The old songs recounted by Jaxlim include information about the [[Listener\|listeners]] that is not widely known. According to her songs, the listeners, then known as the [[Last Legion\|Last Legion]], were warriors who were sent to fight in a shattered nation. The people were not free, because the [[Regals\|Forms of Power]] had been forced upon them, bending them to the will of their gods. During a storm, the Last Legion decided to abandon the dark home and adopt a form that would allow them to escape the influence of the gods. They knew this form would cause them to lose most of their mental faculties, so they composed songs to try and preserve their history. They decided to spread out into small tribes to avoid conflict.
 
+### Willshaper
+Jaxlim is a [[Willshaper\|Willshaper]] granting her access to the surges of [[Cohesion\|cohesion]] and [[Transportation\|transportation]]. How practiced she is with her abilities remains to be seen.
+
 ## History
 ### Narak
 Jaxlim was a Keeper of Songs, possibly the most important job in the family. She was not required to have any other job but learn and pass the knowledge, but she always sought to keep busy. She said working her hands kept her body strong, while going over songs worked her mind. She had trained both her daughters the songs, but [[Eshonai\|Eshonai]] had given up and so she focused on [[Venli\|Venli]]. Jaxlim was the one taking to [[The Five\|the Five]] the option of finding [[Warform\|warform]] and spoke on behalf of her daughter to support the research.
@@ -63,7 +71,10 @@ Eshonai was the one who accompanied Jaxlim into the storm to try the form. Jaxli
 Jaxlim could be seen in her shack on the outskirts of [[Narak\|Narak]] tending to her [[Shalebark\|shalebark]] gardens. She appeared to be senile, as she did not always recognize her daughter and sometimes seemed to hallucinate. Eshonai said that she had not heard wise words from her mother in years. Jaxlim could sometimes remember some of the old songs. Eshonai asked her about the listeners leaving the "dark home", and her mother sang a song to a [[/wiki/Singer#Rhythms]] that revealed tidbits of listener history. She had saved some maps of the former kingdom of [[Natanatan\|Natanatan]] that Eshonai made in her youth, and she gave them to Eshonai. Jaxlim was rounded up with the rest of the listeners who refused to adopt [[/wiki/Singer#Forms of Power]] when Eshonai began to take control of Narak. She escaped into the chasms with [[Thude\|Thude]] and the rest of the dissenters.
 
 ### After the Battle of Narak
-After the [[Battle of Narak\|Battle of Narak]], the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[Chasmfiend\|chasmfiend]]. When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, Venli held out hope that a [[Nahel bond\|Nahel bond]] could still heal her mother's mental afflictions.
+After the [[Battle of Narak\|Battle of Narak]], the listeners with whom Jaxlim had escaped did manage to survive with the help of a [[Chasmfiend\|chasmfiend]].
+
+### Venli's Return
+When Venli returned to the remnants of the listeners, Jaxlim had lost all ability to recognize her daughter. However, after bonding one of the lightspren that Venli had brought with her, Jaxlim's mind fully recovered, restoring her memories. After her recovery, she tried to persuade [[Leshwi\|Leshwi]] to turn her back on [[Odium\|Odium]] completely.
 
 ## Relationships
 ### Venli
@@ -72,7 +83,8 @@ After the [[Battle of Narak\|Battle of Narak]], the listeners with whom Jaxlim h
 
 
 Jaxlim spends many hours helping [[Venli\|Venli]] to learn all the stanzas of the listeners' songs to perfection. Venli gets annoyed at being corrected, but does respect her mother. Jaxlim also supports her daughter in finding new forms and pushes her when she thinks she is too afraid of failure. Jaxlim also suggests that Venli learn the human language.
-Venli is with her throughout all the progression of her sickness, and even wearing her new forms, it breaks her heart. She is there by her mother's side right until her transformation to stormform. When they reunite, Venli feels joy and hope with the thought of her becoming a [[Radiant\|Radiant]] and healing her mind. It is this bond and selflessness that helps Venli reach her next Radiant Ideal.
+Venli is with her throughout the progression of her sickness and even wearing her new forms, it breaks her heart. She is there by her mother's side right until her transformation to stormform. When they reunite, Venli feels joy and hope with the thought of her becoming a [[Knights Radiant\|Radiant]] and healing her mind. It is this bond and selflessness that helps Venli reach her next Radiant Ideal.
+Following Jaxlim's recovery, she admits she feels partially responsible for what happened to Venli because she was the one who taught her about the forms of powers she would eventually seek out.
 
 ### Eshonai
 >“*Eshonai has a bold heart. She merely needs to learn that her family is more important than counting the number of hills outside the camp.*”

@@ -36,6 +36,7 @@ When used as a [[Hemalurgic\|Hemalurgic]] spike, malatium steals some unknown tr
 
 ## History
 While learning [[Allomancy\|Allomancy]] from [[Gemmel\|Gemmel]], [[Kelsier\|Kelsier]] infiltrates [[Keep Shezler\|Keep Shezler]] and, after defeating the Mistborn [[Antillius Shezler\|Antillius Shezler]], comes across Shezler's notes theorizing about a possible eleventh Allomantic metal. Even after becoming [[Harmony\|Harmony]], [[Sazed\|Sazed]] could not find any prior legends about an eleventh metal and concluded that the legends were likely fabricated by [[Ruin\|Ruin]] to help drive Kelsier's plan to kill the [[Lord Ruler\|Lord Ruler]]. Between Shezler's apparent mental instability, which might have allowed Ruin to speak to him, and Ruin's ability to manipulate text, it is entirely plausible that Ruin could have been behind the creation of Shezler's notes. Furthermore, Gemmel, the person who directed Kelsier to Keep Shezler and drew his attention to Shezler's notes in the first place, showed signs of being manipulated by Ruin, suggesting that Ruin was indeed intentionally leading Kelsier to the notes. Ruin later claimed that he was in fact responsible for manipulating Kelsier into "discovering" the metal.
+From the period between Leras imprisoning Ati until Sazed's Ascension, and only for that period, it was possible to be born as a malatium Misting, though any such people are unknown; given it was even more rare than atium, it is unlikely that any such Misting was aware of their abilities.
 
 
 

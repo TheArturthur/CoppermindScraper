@@ -28,8 +28,8 @@
 
 
 ## Appearance and Personality
-Yalb is a young sailor who usually wears an open-fronted vest and a pair of loose trousers.
-Yalb has a lazy contentedness and a smirk. He speaks with a thick rural Thaylen dialect, has an affable voice and speaks with the gentle flirtation of a sailor.
+Yalb is a young sailor who usually wears an open-fronted vest and a pair of loose trousers.  
+Yalb has a lazy contentedness and a smirk. He speaks with a thick rural Thaylen dialect, has an affable voice and speaks with the gentle flirtation of a sailor. 
 Yalb believes in the [[Passions\|Passions]] to some extent.
 Yalb takes it upon himself to look after new sailors, but enjoys winning spheres off of them.
 
@@ -44,7 +44,7 @@ After the sinking of the *Wind's Pleasure*, Yalb survived along with two other s
 
 ## Relationships
 ### Shallan
-Like all sailors, he has a flirting way with Shallan that makes her blush, even though she is of much higher rank than he is.
+Like many sailors, he has a flirting way with Shallan that makes her blush, even though she is of much higher rank than he is.
 He translated the driver’s city information for her and later confronts the driver for wanting to increase the price and split the earnings with him. She treated him as a master servant, and instead of being offended he laughed. She gave him a ruby mark out of gratitude and asked him to wait for her.
 He later convinces her to try one more time to become Jasnah's ward and helped her find a bookstore and a good price for the books. She pays him with a portrait of him with the porter. By the end they do seem to be fond of each other.
 She kept a sketch of him and his figure was used by her when creating the army to fight [[Odium\|Odium]]; he was displayed with a glowing Shardspear.

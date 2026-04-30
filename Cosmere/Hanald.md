@@ -35,7 +35,7 @@ Hanald encompassed large parts of the lowlands of modern day [[Hallandren\|Halla
  
 The valley has a moderate climate that is never too cold and rarely experiences harsh weather. While the mountains experience cold weather, and few warm summers. The climate in the valley allows food to be grown without difficulty, while agriculture is harder in the mountains due to the cold. Powerful earthquakes are a frequent occurrence in the valley. The growth of plants in this region is partly helped by [[Investiture\|Investiture]], much like the [[Elendel Basin\|Elendel Basin]].
 The lowlands are inhabited by panthers, parrots, monkeys, and crocodiles. The Bright Sea is full of life, including many sorts of mussels, fish, and tentacled creatures. Elephants and zebras are said to be exotic creatures from "the south." While this is said during the age of [[Hallandren\|Hallandren]], these two kingdoms are in roughly the same place, so it can be assumed this is still valid. However it is unclear whether this means they come from southern Hanald or south of Hanald.
-The northern mountains have vegetation that buds out in spring, though it only gets warm for a brief period each year. Some valuable roots grow high up in the mountains. There are fields and meadows with grasses and wild flowers. The air is crisp and chilly due to the elevation. A known type of flower is the Vanavel, the flower and the roots from this plant are eatable. There are also berry bushes in the highlands.
+The northern mountains have vegetation that buds out in spring, though it only gets warm for a brief period each year. Some valuable roots grow high up in the mountains.  There are fields and meadows with grasses and wild flowers. The air is crisp and chilly due to the elevation. A known type of flower is the [[Vanavel\|Vanavel]], the flower and the roots from this plant are edible. There are also berry bushes in the highlands.
 
 ## Culture and Economics
 ### People and Religion
@@ -46,7 +46,7 @@ The predominant religion was [[Austrism\|Austrism]], though back then it was ver
 >“*It controlled a uniquely lucrative region which, through the discovery and maintenance of the northern passes—combined with increasingly skillful navigation—was becoming a jewel coveted by the rest of the world.*”
 \-Hoid describing Hanald
 
-The new kingdom of Hanald flourished quickly, likely because of the dye trade, as Hanald was the only kingdom in which the [[Tears of Edgli\|Tears of Edgli]] grew, and also because of all the other products which can only be found in the jungles and mountains of Hanald.
+The new kingdom of Hanald flourished quickly, likely because of the dye trade, as Hanald was the only kingdom in which the [[Tears of Edgli\|Tears of Edgli]] grew, and also because of all the other products which can only be found in the jungles and mountains of Hanald. 
 Hanald was also situated on the shores of the [[Bright Sea\|Bright Sea]], opening many trade routes to other nations such as [[Tedradel\|Tedradel]]. Hanald’s capital was the prime port of T’Telir, further advancing trade. The mountains of modern day Idris were in its domain as well, and with it access to many minerals, including the only copper mines in the known world. These mountains also opened trade routes to the northern kingdoms, such as Kuth and Huth.
 
 ### Politics and Royals

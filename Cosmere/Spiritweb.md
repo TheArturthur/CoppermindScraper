@@ -9,7 +9,7 @@
 \-Khriss[1]
 
 
-The **spiritweb** is the network of [[Connection\|Connections]] and [[Investiture\|Investiture]] which make up the soul of a creature, place, object, or planet. Residing in the [[Spiritual Realm\|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity\|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual Aspect**, and one’s **Spiritual Ideal**. The Spiritweb is Connected to the [[Physical Realm\|Physical]] and [[Cognitive Realm\|Cognitive Aspects]], and contains a Connection between both.
+The **spiritweb** is the network of [[Connection\|Connections]] and [[Investiture\|Investiture]] which make up the soul of a creature, place, object, or planet. Residing in the [[Spiritual Realm\|Spiritual Realm]], spiritwebs lack any tangible shape or size, with their borders defined by their [[Identity\|Identity]]. Contained within a spiritweb are various pieces, including **Spiritual DNA**, the **Spiritual aspect**, and one’s **Spiritual Ideal**. The Spiritweb is Connected to the [[Physical Realm\|Physical]] and [[Cognitive Realm\|Cognitive aspects]], and contains a Connection between both.
 
 ## Contents
 
@@ -26,7 +26,6 @@ The **spiritweb** is the network of [[Connection\|Connections]] and [[Investitur
 
 2 Interactions. [[#Interactions]] 
 
-2. [[#Awakening]] 
 2. [[#The Dor]] 
 
 2. [[#AonDor]] 
@@ -68,16 +67,13 @@ A person’s spiritweb, closely related to Spiritual DNA, makes up their presenc
 A person's spiritweb can be damaged either through physical or emotional trauma. This creates "cracks" in the soul. It is easier for Shards to [[Invest\|Invest]] in people who are damaged in this way, as Investiture can enter the soul through these "cracks". This is why [[Allomancer\|Allomancers]] need to undergo [[Snapping\|Snapping]] in order to awaken their powers, and is implied to be the reason why [[Surgebinder\|Surgebinders]] tend to have psychological problems. Spiritwebs can be damaged with weapons like hemalurgic spikes and Shardblades. Those wounds can then be healed with a graft of Investiture. The healing process does leave a permanent wound on a person's spiritweb. Investing an object or person for a long period of time will warp and change their spiritweb. In humans, this process leads to [[Savant\|Savantism]].
 
 #### Healing the Physical
-Most forms of healing work by using the three aspects of the user's self; their Physical, Cognitive, and Spiritual. Healing typically heals the Physical version by matching it to their Spiritual Ideal, which is filtered through the lens of their minds (the Cognitive aspect). Almost all forms of healing in the [[Cosmere\|cosmere]], even natural healing, are filtered through the perception of the user,  which means that if a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it. An example of this can be found when [[Kaladin\|Kaladin]] was unable to heal his slave brand until he swore the fourth oath and recognized that it wasn't a part of him.
+Most forms of healing work by using the three aspects of the user's self; their Physical, Cognitive, and Spiritual aspects. Healing typically heals the Physical version by matching it to their Spiritual Ideal, which is filtered through the lens of their minds (the Cognitive aspect). Almost all forms of healing in the [[Cosmere\|cosmere]], even natural healing, are filtered through the perception of the user,  which means that if a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it. An example of this can be found when [[Kaladin\|Kaladin]] was unable to heal his slave brand until he swore the fourth oath and recognized that it wasn't a part of him.
 
 ### Permanency
 Even after death, a record of the Spiritweb of a person remains in the Spiritual Realm. It is not known if this can be interacted with by Invested Arts such as Hemalurgy.
 
 ## Interactions
-All forms of Investiture which one can use are related to the spiritweb. Some manifestations of Investiture are built into a person's Spiritual DNA, such as [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]]. Other abilities, such as [[Hemalurgy\|Hemalurgy]] and [[Surgebinding\|Surgebinding]], involve manipulating Spiritual DNA. A few types of Investiture even work by manipulating or overwriting the spiritweb directly, such as [[Forgery\|Forgery]].
-
-### Awakening
-The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual aspect, is built into a [[Nalthis\|Nalthian's]] Spiritual DNA. The ability to [[Awakening\|Awaken]] is not limited to Nalthians.
+All forms of Investiture which one can use are related to the spiritweb. Some manifestations of Investiture are built into a person's Spiritual DNA, such as [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]]. Other abilities, such as [[Hemalurgy\|Hemalurgy]] and [[Surgebinding\|Surgebinding]], involve manipulating Spiritual DNA. A few types of Investiture even work by manipulating or overwriting the spiritweb directly, such as [[Forgery\|Forgery]]. 
 
 ### The Dor
 #### AonDor
@@ -91,7 +87,7 @@ The ability to give [[Breath\|Breath]], which is a part of a person's Spiritual 
 People from the planet [[Canticle\|Canticle]] are able to exchange portions of their spiritweb similar to breath. Unlike breath, heat can only be exchanged with people of Canticle (including by invitation). It is unclear how this would interact with Allomancy, as the strength of Allomantic power is generally proportional to the amount of [[Preservation\|Preservation's]] investiture an Allomancer contains.
 
 #### Cinderhearts
-When a [[Cinderheart\|cinderheart]] is inserted deadly into a persons chest it consumes the connections and identity in a person's spiritweb, and connects them to other people who host a cinderheart. People who have a cinderheart placed more shallowly become connected to other people who host a cinder heart, but still maintain their original connections and identity.
+When a [[Cinderheart\|cinderheart]] is inserted deeply into a person's chest it consumes the connections and identity in a person's spiritweb, and connects them to other people who host a cinderheart. People who have a cinderheart placed more shallowly become connected to other people who host a cinder heart, but still maintain their original connections and identity.
 
 ### The Metallic Arts
 #### Allomancy
@@ -116,10 +112,10 @@ Although it does not directly alter the spiritweb, [[Soulcasting\|Soulcasting]] 
 [[Regrowth\|Regrowth]] allows for healing both the Physical form of a living thing and its spiritweb, as does a sufficient amount of Stormlight. This likely functions by restoring one’s physical form to the state of their Spiritual Ideal. Regrowth can even go so far as to reattach the soul of one recently deceased.
 
 ### Shardblades
-A [[Shardblade\|Shardblade]] can be stolen with Hemalurgy, because it is Connected to a person's spiritweb. When a Shardblade cuts through living matter, its edge fuzzes, leaving the physical body uninjured.
+A [[Shardblade\|Shardblade]] can be stolen with Hemalurgy because it is Connected to a person's spiritweb. When a Shardblade cuts through living matter its edge fuzzes, leaving the physical body uninjured.
 
 ### Fabrials
-There are fabrials, that are capable of accurately [[Aura fabrial\|reading a person's spiritweb]]. However, these devices tend to go haywire if the person being read is heavily Invested, such as a [[Returned\|Returned]], [[Elantrian\|Elantrian]], or [[Yoki-hijo\|yoki-hijo]].
+There are fabrials that are capable of accurately [[Aura fabrial\|reading a person's spiritweb]]. However, these devices tend to go haywire if the person being read is heavily Invested such as a [[Returned\|Returned]], [[Elantrian\|Elantrian]], or [[Yoki-hijo\|yoki-hijo]].
 
 
 

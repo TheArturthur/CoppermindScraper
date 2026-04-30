@@ -6,6 +6,7 @@
 |**Siblings**|[[Steris Harms\|Steris Harms]]|
 |**Relatives**|[[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]], [[Armal\|Armal]]|
 |**Ancestors**|[[Spook\|Spook]]|
+|**Born**|c. 318 [[Catacendre\|PC]]|
 |**Abilities**|[[/wiki/Cadmium#Allomantic Use]]|
 |**Profession**|Constable|
 |**Religion**|[[Survivorism\|Survivorism]]|
@@ -18,7 +19,7 @@
 
 > [!info] This article or section needs several citationsPlease add references to chapters or other sources which explain these facts
 >“*I have a theory that a gentlewoman should never need to resort to something so barbarous as violence to achieve her goals. Wouldn’t you agree? Yes indeed. A true gentlewoman uses the threat of violence instead. So much more civilized.*”
-\-Marasi[2]
+\-Marasi[4]
 
 
 **Marasi Colms** is a [[Pulser\|Pulser]] on [[Scadrial\|Scadrial]]. Marasi is a constable in the [[Elendel\|Elendel]] constabulary under Constable-General [[Reddi\|Reddi]]. Marasi previously studied law and is a friend of [[Wax\|Wax]], [[Wayne\|Wayne]], and [[MeLaan\|MeLaan]], among other important cultural figures of the time. She is sometimes called **Mara** by Wayne.
@@ -47,7 +48,7 @@
 ## Appearance and Personality
  
 >“*To be of use in even a single burst of flame and sound is worth more than a lifetime of achieving nothing.*”
-\-Marasi[6]
+\-Marasi[8]
 
 
 For more images, see [[Marasi Colms/Gallery\|/Gallery]].
@@ -65,7 +66,7 @@ She can speak some ancient [[Terris\|Terris]] and understands [[High Imperial\|H
  
 ### Early Life
 >“*I have spent most of my life being politely told I was useless. Useless to my father because of my birth; useless as an Allomancer; useless to Steris, as I was an embarrassment.*”
-\-Marasi[6]
+\-Marasi[8]
 
 
 Marasi Colms was born as the illegitimate child of [[Jackstom Harms\|Jackstom Harms]], making her a half sister to [[Steris\|Steris]]. Throughout her childhood, she was constantly reminded that she was useless to her family, useless as an heir due to her illegitimacy, and useless as an Allomancer due to the few uses for slowing down time. As a result, she developed a strong desire to be important and accomplished in the world. Marasi also came to be fascinated by criminals and lawkeepers, based on an interest in how a person from a normal background could grow up to be so much more or less moral than the people around them, and was inspired by stories about Wax's exploits in the [[Roughs\|Roughs]]. These two desires culminated in her deciding to study at a university in Elendel, so she moved to the city with the support of her father. She, Steris, and Lord Harms hid her illegitimacy by pretending that she was Steris's cousin from the [[Outer Estates\|Outer Estates]].
@@ -87,7 +88,7 @@ Upon arriving at the Temple Marasi kept guard at the entrance with Wayne and Ste
 While studying in university, she reads many of the stories surrounding Wax and Wayne, and comes to look up to them as almost legendary heroes. After meeting the pair in person, she is starstruck and becomes eager to prove herself to Wax and find out as much as she can about the real events behind all the stories, though she has many of her idealistic impressions destroyed along the way. She impresses Wax in turn with her knowledge and ability to act cool under pressure. She develops a strong attraction to Wax; he grapples with feelings of his own for her, but he ultimately decides that his personal history and duty to his house mean that he must proceed with his marriage to Steris and distance himself from Marasi.
 
   With <<Steris\|Steris>>
-For a while afterward, Wax is somewhat dismissive of Marasi, thinking that she is still attracted to him and undervaluing her crime-fighting abilities, and she develops a certain resentment toward him as a result. That fades as they work together more, and after Harmony himself chides Wax about it, but she continues to feel overshadowed by him and his accomplishments. Despite her often-complicated feelings regarding Wax, she remains able to respect him and work together well with him.
+For a while afterward, Wax is somewhat dismissive of Marasi, thinking that she is still attracted to him and undervaluing her crime-fighting abilities, and she develops some resentment toward him as a result. That fades as they work together more, and after Harmony himself chides Wax about it, but she continues to feel overshadowed by him and his accomplishments. Despite her often-complicated feelings regarding Wax, she remains able to respect him and work together well with him.
 
 ### Steris Harms
 Marasi is [[Steris Harms\|Steris's]] illegitimate half sister by Lord Harms. Marasi and Steris are not particularly close, having grown up separately -- in fact, Steris doesn't even find out about Marasi until they are teenagers -- but Marasi also doesn't feel any envy for Steris, despite the difference in their upbringings and social status. Like many, she does sometimes find it difficult to resist the urge to provoke Steris into feeling uncomfortable, though she feels guilty after doing so. While at the temple containing the Bands of Mourning, Steris briefly opens up to Marasi about her love for Wax, and they share an emotional moment, causing Marasi to deeply reevaluate how she thinks about Steris in particular and people in general.

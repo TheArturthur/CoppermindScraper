@@ -1,7 +1,7 @@
 |**Relu-na**|
 |-|-|
 ||
-|**Species**|Greatshell|
+|**Species**|[[Tai-na\|Tai-na]]|
 |**Residence**|[[Reshi Sea\|Reshi Sea]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

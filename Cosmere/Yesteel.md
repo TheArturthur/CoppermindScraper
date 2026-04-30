@@ -36,7 +36,7 @@
 As a Returned, Yesteel can have the Fifth Heightening whenever he desires, and all the effects that implies, such as agelessness. Like Vasher and Denth, Yesteel probably is well aware how to hide his divine Breath and appear as he wishes.
 Yesteel is very skilled at sneaking around, a fact which Nightblood knows of and mentions to [[Vivenna\|Vivenna]]. This could mean that Yesteel is especially good at surpressing his divine Breath and shaping himself to whatever he needs. At the very least, he is much better at stealth than Vasher and [[Vivenna\|Vivenna]].
 As one of the Five Scholars, Yesteel is extremely knowledgable about [[Awakening\|Awakening]], and he is an expert in [[Lifeless\|Lifeless]] Commands. Jewels seems to believe that Yesteel could bring back the memories of Arsteel's Lifeless body, which is far beyond Vasher's capabilities of working with Lifeless. He invents [[Ichor-alcohol\|ichor-alcohol]] during the Manywar, and around the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], he has devised a stronger form of the substance. Despite Yesteel's knowledge of Lifeless, he didn't create the original Command to make Lifeless with a single Breath--Shashara did.
-He knows Shashara's secret on how to make Awakened swords. However, it's unclear if he knows how to make swords on the power level of Nightblood, or more on the level of [[Vivenna's Blade\|Vivenna's Blade]].
+He knows Shashara's secret on how to make Awakened swords. However, it's unclear if he knows how to make swords on the power level of Nightblood, or more on the level of [[Vivenna's Blade\|Vivenna's Blade]]. 
 Yesteel's current Heightening is unclear, but if he discovered advanced Lifeless Commands, he had to have at least attained the Sixth Heightening at some point.
 
 ## History
@@ -49,7 +49,7 @@ He joined the Five Scholars, and there was a golden age in discovering [[Awakeni
 \-Vasher on what drove Shashara to make Nightblood[12]
 
 During the Manywar, The Five Scholars split, joining different sides. [[Vasher\|Vasher]] persuaded [[Denth\|Denth]] to join his side of [[Hanald\|Hanald]], and it seems likely that Shashara also joined Vasher. It is likely that Yesteel and Arsteel went to different kingdoms and opposed Hanald, but it's unknown which kingdoms they went to. They could have gone to [[Kuth\|Kuth]] and [[Huth\|Huth]], Hanald's primary enemy in the Manywar, or one of the many nations in the [[Pahn Unity\|Pahn Unity]], who also opposed Hanald.
-During the Manywar, Yesteel developed [[Ichor-alcohol\|ichor-alcohol]] for Lifeless, blood for a Lifeless that meant a Lifeless could stay active longer without requiring additional Breath. It also made it so Awakening them was cheaper. The discovery of ichor-alcohol drove Shashara to research a way to make an Awakened sword--a [[Shardblade\|Shardblade]]--eventually resulting in [[Nightblood\|Nightblood]]. Somehow, Yesteel secretly learned how Shashara and Vasher created Nightblood.
+During the Manywar, Yesteel developed [[Ichor-alcohol\|ichor-alcohol]] for Lifeless, blood for a Lifeless that meant a Lifeless could stay active longer without requiring additional Breath. It also made it so Awakening them was cheaper. The discovery of ichor-alcohol drove Shashara to research a way to make an Awakened sword--a [[Shardblade\|Shardblade]]--eventually resulting in [[Nightblood\|Nightblood]]. Somehow, Yesteel learned how Shashara and Vasher created Nightblood, and was "so upset" about it.
 Nightblood hastened the end of the Manywar, but Yesteel's involvement in the war's finale is unclear.
 
 ### Post-Manywar
@@ -63,7 +63,7 @@ In the aftermath of the Pahn Kahl rebellion, [[Jewels\|Jewels]] sought out Yeste
 Little is known about Yesteel and his brother's relationship. It seems likely that he and Arsteel joined each other during the Manywar. It's unknown how Yesteel feels about Vasher killing his brother, but the murder probably doesn't endear Vasher to Yesteel.
 
 ### Shashara
-It seems as though Shashara and Yesteel had a competitive relationship when it came to their scholarship. Shashara came up with the first Command for creating Lifeless with a single Breath, but since Yesteel is referred to as a master of Lifeless Commands he was likely spurred forward to do more with Lifeless. He eventually created ichor-alcohol, and the creation of the substance made Shashara want to show up Yesteel. She did this by researching and creating Awakened swords, resulting in Nightblood.
+It seems as though Shashara and Yesteel had a competitive relationship when it came to their scholarship. Shashara came up with the first Command for creating Lifeless with a single Breath, but since Yesteel is referred to as a master of Lifeless Commands he was likely spurred forward to do more with Lifeless. He eventually created ichor-alcohol, and the creation of the substance made Shashara want to show up Yesteel. She did this by researching and creating Awakened swords, resulting in [[Nightblood\|Nightblood]], which made Yesteel "so upset".
 
 
 

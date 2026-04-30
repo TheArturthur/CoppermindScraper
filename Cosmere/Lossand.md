@@ -41,7 +41,7 @@
 Lossand is situated on the southern side of Dayside. Its borders form the shape of a wedge, stretching from Mount [[KraeDa\|KraeDa]] in the north to the southern [[Border Ocean\|Border Ocean]] in the south. Lossand is bordered by uninhabited [[Deep sand\|deep sand]] to the east, the [[Kerla\|Kerla]] of the nation of [[Kerzta\|Kerzta]] to the west and north. The [[Ry'Do Ali River\|Ry'DoAli]] River runs directly through the center of the nation. The [[Nor'Tallon River\|Nor'Tallon River]] flows from the eastern mountain range and joins the Ry'DoAli.
 
 ### Climate
-Lossand is considered a desert, despite the water table provided by two rivers, due to a lack of dorim vines. Wells are unreliable, so settlement is confined to islands in the rivers and irrigable land on the river banks. Like all of Dayside, the temperature is hot-and steadily so since the sun is always shining. There is usually a steady breeze to help alleviate the heat. Near Mt. KraeDa, the sun is at the zenith; but at the southern coast, the sun is low enough in the sky that [[Darksider\|Darksiders]] can forgo their sunglasses.
+Lossand is considered a desert, despite the water table provided by two rivers, due to a lack of dorim vines. Wells are unreliable, so settlement is confined to islands in the rivers and irrigable land on the river banks. Like all of Dayside, the temperature is hot-and steadily so since the sun is always shining. There is usually a steady breeze to help alleviate the heat.  Near Mt. KraeDa, the sun is at the zenith;  but at the southern coast, the sun is low enough in the sky that [[Darksider\|Darksiders]] can forgo their sunglasses.
 
 ### Notable Cities
 [[Kezare\|Kezare]], the capital, is located in the northern half of Lossand, where the Ry'DoAli and Nor'Tallon Rivers meet.
@@ -59,7 +59,7 @@ The eight professions are:
 
 ### The Diem of the Sand Masters
 *For more information, see [[Diem\|Diem]]*.
-The **Diem** is the Profession of the [[Sand master\|sand masters]] of Lossand. Its Taisha is the [[/wiki/Taishin#The Lord Mastrell]]. The current Lord Mastrell is [[Kenton\|Kenton]]. The Diem is headquartered in the building of the same name. The Diem has no sub-professions.
+The **Diem** is the Profession of the [[Sand mastery\|sand masters]] of Lossand. Its Taisha is the [[/wiki/Taishin#The Lord Mastrell]]. The current Lord Mastrell is [[Kenton\|Kenton]]. The Diem is headquartered in the building of the same name. The Diem has no sub-professions.
 
 ### The Hall of Judges, Trackts, and Scribes
 The **Hall**, is the Profession of the [[Trackt\|trackts]] and judges of Lossand. Its Taisha is the [[Lady Judge\|Judge]]. The current Lady Judge is Heelis, who is also the current head of the Taishin Council as High Judge. The Profession is headquartered in **The Hall of Judgement**. The Hall includes the sub-profession of scribes.
@@ -77,10 +77,10 @@ The **Company** is the Profession of the construction industry of Lossand. Its T
 The **Field** is the Profession of the farming industry of Lossand. Its Taisha is the [[Lord Farmer\|Farmer]]. The current Lord Farmer is [[Gennel\|Gennel]]. It is headquartered at the **Farmers Congress**. The Field includes those who own the farmland and those who farm the land. It may include the merchants that sell agriculture products, as the Lord Artisan notes that the Diem owes the Field five hundred thousand [[Lak\|lak]] for goods taken without payment.
 
 ### The Draft of Artisans
-The **Draft** is the Profession of the manufactured goods industry of Lossand. Its Taisha is the [[Lord Artisan\|Artisan]]. The current Lord Artisan is [[Rite\|Rite]]. It is headquartered at the **Artisan Central Studio**. The Draft is probably the most disparate profession, including sub-professions of all kinds of artisans and craftpersons, such as carpentry, cobblery, medicine, painting, etc.
+The **Draft** is the Profession of the manufactured goods industry of Lossand. Its Taisha is the [[Lord Artisan\|Artisan]]. The current Lord Artisan is [[Rite\|Rite]]. It is headquartered at the **Artisan Central Studio**. The Draft is probably the most disparate profession, including sub-professions of all kinds of artisans and craftpersons, such as carpentry, cobblery, medicine, painting, etc. 
 
 ### The Helm of Shipowners
-The **Helm** is the Profession of the shipping industry of Lossand. Its Taisha is the [[Lord Admiral\|Admiral]]. The current Lord Admiral is [[Lokkall\|Lokkall]]. The Lord Admiral resides at **Helm's Rest**. The position of Lord Admiral is a figurehead position without any power, other than a vote in the council, and in fact is regarded as more of a punishment than an honor. The true leadership of the Helm belongs to the **Shipowners' Circle**, currently headquartered in [[Lraezare\|Lraezare]].
+The **Helm** is the Profession of the shipping industry of Lossand. Its Taisha is the [[Lord Admiral\|Admiral]]. The current Lord Admiral is [[Lokkall\|Lokkall]]. The Lord Admiral resides at **Helm's Rest**. The position of Lord Admiral is a figurehead position without any power, other than a vote in the council, and in fact is regarded as more of a punishment than an honor. The true leadership of the Helm belongs to the **Shipowners' Circle**, currently headquartered in [[Lraezare\|Lraezare]]. 
 
 ## Culture
 Lossand contains a mix of many cultures, including Kerztian and the [[Rim Kingdoms\|Rim Kingdoms]]. Many citizens of Lossand are ethnically Kerztian, and entire communities of Darksiders can be found. The most unique characteristic of Lossandin culture is the presence of the Diem of sand masters who, in the past, contributed to the nation's defense and infrastructure. While belief in the Sand Lord is not uncommon, there are no dominant organized religions. The Los'seen form of worship for the Sand Lord is often seen as more of a philosophy than a religion, though both faiths show reverence for the sun.

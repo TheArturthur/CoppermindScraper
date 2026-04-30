@@ -10,6 +10,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Please. The world is wrong now. Nothing makes sense. But you . . . your group . . . you know things. I don't want to be blind anymore.*”
 \-Ishnah requesting recruitment into the Ghostbloods[3]
 
@@ -31,7 +33,7 @@
 
 
 ## Appearance & Personality
-Ishnah is a short woman with straight, black hair and dark brown eyes. She usually wears makeup, including red lipstick and penciled eyebrows, and an Alethi [[Havah\|havah]] with a gloved hand instead of a sleeve typical of a high ranking [[Darkeyed\|darkeyed]] woman. Her cryptic, Motif, rides on the ornament at the end of the central hair spike used to keep her braids in place. She is slightly older than [[Shallan\|Shallan]].
+Ishnah is a short woman with straight, black hair and dark brown eyes. She usually wears makeup, including red lipstick and penciled eyebrows, and an Alethi [[Havah\|havah]] with a gloved hand instead of a sleeve typical of a high ranking [[Darkeyed\|darkeyed]] woman. Her cryptic, Motif, rides on the ornament at the end of the central hair spike  used to keep her braids in place. She is slightly older than [[Shallan\|Shallan]].
 Her tenacity and determination are shown in the persistence she uses to earn Shallan's consideration. She exudes a great deal of self-assurance, between her comfort in [[Urithiru\|Urithiru's]] underground and her willingness to take on the difficult task of training Shallan's men in espionage, and she portrays that confidence while keeping calm during high-pressure operations while in Shallan's employ. She suffers little nonsense and is usually fixated on her work.
 She is pragmatic but ambitious. She is always finding opportunities. Because of her past, she is unsure if she "belongs in the light".
 
@@ -48,7 +50,7 @@ As a [[Order of Lightweavers\|Lightweaver]], Ishnah can use the Surges of **Illu
 The [[Soulcaster\|Soulcaster]] enters (or partially enters) the [[Cognitive Realm\|Cognitive Realm]] to convince the sentience of an object to change materials, transforming it into something else if successful. Some transformations are more basic than others, with more complicated transformations requiring a more skilled Surgebinder and more [[Stormlight\|Stormlight]].
 
 ### Lightweaving
-[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion.
+[[/wiki/Surgebinding#Illumination]] deals in illusions. It involves the manipulation of waves of sound or light and has a strong [[Spiritual Realm\|Spiritual]] component requiring a certain measure of [[Connection\|Connection]] and a full mental picture of the desired illusion. 
 
 ## History
 Ishnah worked as an assistant in House Hamaradin's spy network, where she was trained in several useful espionage techniques. Brightlady Hamaradin was eventually assassinated after vexing the [[Ghostbloods\|Ghostbloods]], and when her spies were named suspects Ishnah fled. She eventually came to work for a gang of petty thieves in Urithiru's underground. Her gang used [[Blackbane\|Blackbane]]. She crossed paths with Veil, in a tavern in [[All's Alley\|All's Alley]], where Shallan revealed herself to be a member of the Ghostbloods. With a desire to use her training for something greater, Ishnah sought out Veil in hopes of joining the secret society herself. After being initially turned her away, Ishnah began spying on Veil, hoping to impress the woman with her skills. Shallan eventually caught her spying and the two spoke at greater length of Ishnah's past experience and motivations. Seeing the several uses for the woman, Shallan offered her the opportunity to train her men, and Ishnah accepted.

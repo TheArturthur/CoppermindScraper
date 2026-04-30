@@ -2,16 +2,17 @@
 |-|-|
 ||
 |**Type**|Horse|
+|**Sapient**|Yes|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*They pick their rider, son. We fixate on Shards, but any man -- courageous or coward -- can bond a Blade. Not so here, on this ground. Only the worthy win here . . .*”
 \-Dalinar to Adolin[1]
 
 
-**Ryshadium** are a subspecies or breed of horse on [[Roshar\|Roshar]]. They are genetically distinct from other horses, though they are still capable of mating with them. They are likely descended from horses that were brought to Roshar when humans first arrived. They are often referred to as "the third Shard" in addition to a [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]].
+**Ryshadium** are a subspecies of horse on [[Roshar\|Roshar]]. They are genetically distinct from other horses, though they are still capable of mating with them. They are descended from horses that were brought to Roshar when humans first arrived. They are often referred to as "the third Shard" in addition to a [[Shardblade\|Shardblade]] and [[Shardplate\|Shardplate]].
 
 ## Contents
 
@@ -30,15 +31,16 @@
 
 ## Appearance and Anatomy
  
-Ryshadium are larger than other breeds of horse -- for example, [[Gallant\|Gallant]] is two hands taller than an ordinary mount. They can have various coat colors, including black and white. Additionally, they can have both light or dark eyes, which have rectangular pupils. Unlike ordinary horses, Ryshadium have stone hooves and thus do not require shoes. This is likely an adaptation they have developed for life on Roshar. It is unknown if the hooves are actually stone, or a stone-like material.
-In [[Shadesmar\|Shadesmar]], Ryshadium leave behind a faint glowing afterimage.
+Ryshadium are larger than other breeds of horse-about two hands taller than an ordinary mount. They can have various coat colors, including black and white. Additionally, they can have both light or dark eyes, which have rectangular pupils. Unlike ordinary horses, Ryshadium have stone hooves and thus do not require shoes. This is likely an adaptation they have developed for life on Roshar. It is unknown if the hooves are actually stone, or a stone-like material.
+In [[Shadesmar\|Shadesmar]], Ryshadium leave behind a faint glowing afterimage, which is their bonded musicspren.
 
 ## Ecology
-Ryshadium live wild in herds across Roshar, though they rarely stray into the western part of the continent. It is only after one chooses to bond a human that they allow themselves to be taken out of the wild.
+Ryshadium live wild in herds across Roshar, though they rarely stray into the eastern part of the continent. It is only after one chooses to bond a human that they allow themselves to be taken out of the wild.
 
 ## Behavior
 ### Spren Bond
-Ryshadium have a symbiotic bond with [[Spren\|spren]]. This is a variant of the [[Nahel bond\|Nahel bond]] that turns humans into [[Surgebinder\|Surgebinders]]. The specific type of spren that bonds with them is unclear, although it could be [[Musicspren\|musicspren]] as they have been seen around the Ryshadium even when there is no music playing. The Ryshadium becomes significantly more intelligent—nearly sapient—and somewhat more resilient, while the spren is pulled into the Physical Realm. Ryshadium and humans are among the few non-native species on Roshar to have developed a spren bond. They go to the [[Beyond\|Beyond]] upon dying.
+  Ryshadium and musicspren
+Ryshadium have a symbiotic bond with [[Spren\|spren]]. This is a variant of the [[Nahel bond\|Nahel bond]] that turns humans into [[Surgebinder\|Surgebinders]]. They bond with [[Musicspren\|musicspren]], which may sometimes even manifest as translucent ribbons that trail behind the Ryshadium and accentuate their natural majesty. They are also likely the cause of the after image seen in a Ryshadium's wake while in Shadesmar and resemble horses themselves. The Ryshadium becomes significantly more intelligent—nearly sapient—and somewhat more resilient, while the spren is pulled into the Physical Realm. Ryshadium and humans are among the few non-native species on Roshar to have developed a spren bond. They go to the [[Beyond\|Beyond]] upon dying.
 The spren bond makes them more intelligent than any normal animal. Their intelligence and understanding can be seen in their relationships with their riders. Human riders will often carry on conversations with Ryshadium and the horses will seemingly answer, either through body language or sounds such as snorts.
 In turn, humans take great care not to upset them. They cannot be ridden unless they choose a rider first, and even then they remain difficult to train. A Ryshadium will not be stabled with regular horses, but rather on its own pasture, large enough to run around in. Common grooms typically don't know how to care for a Ryshadium, and once back in its pasture, the horse is sometimes left to fend for itself.
 

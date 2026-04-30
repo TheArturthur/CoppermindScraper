@@ -4,7 +4,7 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
->“*How are the members of each Order different from the members of the others? What kinds of personalities does each Order attract? This is especially interesting in cases where some of the personalities seem to overlap. Why choose one Order over the other? How do you differentiate their similarities?*”
+>“*How are the members of each Order different from the members of the others? What kinds of personalities does each Order attract? This is especially interesting in cases where some of the personalities seem to overlap. Why choose one Order over the other? How do you differentiate their similarities? *”
 \-Senne's first journal entry[1]
 
 
@@ -19,7 +19,7 @@
 
 
 ## Personality
-Senne's journal is written in an informal rather than scholarly manner. She mentions facts about each Order alongside her own opinions and biases, giving some insight to her personality.
+Senne's journal is written in an informal rather than scholarly manner. She mentions facts about each Order alongside her own opinions and biases, giving some insight to her personality. 
 She finds formality and efficiency to be obnoxious, and thus she often finds herself irritated by [[Windrunner\|Windrunners]]. She mentions having caused "destruction" in her past, and thinks that she could have enjoyed being a [[Dustbringer\|Dustbringer]] due to their ability to control themselves and others. She deeply appreciates the [[Order of Edgedancers\|Edgedancers]] for how they bring beauty into the world, and how they assist the poor, sick, and destitute. She believes that it is important to know yourself well, especially if you are an artist. She values people who support and help others, and tries to keep such people close.
 
 ## History

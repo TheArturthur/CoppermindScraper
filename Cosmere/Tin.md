@@ -15,7 +15,7 @@
 |**Type**|Physical|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Tin** is the Internal Physical Pulling metal. An Allomancer burning tin has greatly enhanced senses. Feruchemists can use tin to store enhanced senses, and when used as a Hemalurgic spike, tin steals senses.
+**Tin** is the Internal Physical Pulling metal. An [[Allomancer\|Allomancer]] burning tin has greatly enhanced senses. [[Feruchemist\|Feruchemists]] can use tin to store enhanced senses, and when used as a [[Hemalurgic\|Hemalurgic]] spike, tin steals physical senses.
 The paired alloy of tin used in the Metallic Arts is [[Pewter\|pewter]].
 
 ## Contents
@@ -26,6 +26,10 @@ The paired alloy of tin used in the Metallic Arts is [[Pewter\|pewter]].
 
 
 2 Feruchemical Use. [[#Feruchemical Use]] 
+
+2. [[#Compounding]] 
+
+
 3 Hemalurgic Use. [[#Hemalurgic Use]] 
 
 3. [[#Kandra Blessing]] 
@@ -37,26 +41,30 @@ The paired alloy of tin used in the Metallic Arts is [[Pewter\|pewter]].
 
 
 ## Allomantic Use
-A tin [[Misting\|Misting]] is known as a **Tineye**. Burning tin grants a Tineye increased sensitivity in all five senses. Furthermore, due to Allomancy's origin with [[Preservation\|Preservation]], they are able to see through the [[Mist\|mists]] that cover Scadrial. They may also be able to see through the gaseous Investiture of other Shards, though this is not a native power.
-A Tineye can flare tin, causing a huge burst of sensory input, to clear their head from pain or exhaustion. Tin will allow the Tineye to see in areas of low light, but does not allow the user to see in total darkness. Tineyes cannot see through their own eyelids.
+A tin [[Misting\|Misting]] is known as a **Tineye**. Burning tin grants a Tineye increased sensitivity in all five senses at once. Furthermore, due to Allomancy's origin with [[Preservation\|Preservation]], they are able to see through the [[Mist\|mists]] that cover Scadrial. They may also be able to see through the gaseous Investiture of other Shards, though this is not a native power.
+Flaring tin causes a huge burst of sensory input, which can help Tineyes clear their heads when exhausted or disoriented. Tin will allow the Tineye to see in areas of low light, but does not allow the user to see in total darkness. Tineyes cannot see through their own eyelids. Burning tin has the drawback of possibly increasing senses beyond what is comfortable, and Tineyes cannot choose to only enhance specific senses. A Tineye cannot enhance their vision or hearing without also enhancing environmental cold or heat, hunger, and pain. Walking can be uncomfortable due to the Tineye being able to feel textures as subtle as the grain of wood on their feet, not to mention anything larger like pebbles. Lights and sounds that would normally be comfortable (such as looking directly into a fireplace or a raised voice) can be blinding or deafening, especially if introduced suddenly.
 
 ### Savantism
-If someone were able to burn the amount of tin needed to become an Allomantic [[Savant\|savant]] with the metal, any normal light would become too bright for them. However, their other senses would become so attuned that they can feel and hear well enough to make up for the lack of vision. Since the body grows dependent on the metal, a Tineye savant could stop burning tin and could gain resistant to pain or other senses. Burning tin for long periods puts a lot of strain on the body and mind.
+If someone were able to burn the amount of tin needed to become an Allomantic [[Savant\|savant]] with the metal, any normal light would become too bright for them. However, their other senses would become so attuned that they can feel and hear well enough to make up for the lack of vision. Since the body grows dependent on the metal, a Tineye savant could stop burning tin and could gain resistance to pain or other senses. Burning tin for long periods puts a lot of strain on the body and mind.
+A notable example of a tin savant is [[Spook\|Spook]], who burns the metal so much that he has to go around with a blindfold in the day, gloves on his hands, and earplugs. During the time he is a savant, he is able to use tin almost like [[Atium\|atium]], his senses of hearing and touch allowing him to anticipate attacks.
 
 ## Feruchemical Use
-A tin [[Ferring\|Ferring]] is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense. Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available. While storing senses, those senses become weaker. For example, [[Sazed\|Sazed]] wore glasses while storing eyesight.
+A tin [[Ferring\|Ferring]] is known as a **Windwhisperer**. Tin is used to store sensitivity of senses. One sense may be stored each in a tinmind and a different tinmind must be used for each sense. Unlike an Allomancer burning tin, it does not allow a Windwhisperer to see things that would be otherwise unobservable; instead, it compounds the potency of their senses currently available. While storing senses, those senses become weaker. For example, [[Sazed\|Sazed]] wears glasses while storing eyesight.
 Tapping sight causes the edge of the Windwhisperer's vision to blur, and sacrifices immediate field of vision in favor of a more distant, binocular view. Tapping too much sight can induce nausea. Storing sense of smell decreases a Windwhisperer's perception of flavor, since much of the flavor of most foods comes from their scent.
 It is possible for a Windwhisperer to store more than the five traditional senses in a tinmind. An example of this would be the ability to feel pain. It might be possible to store Allomantically granted senses like [[Bronze\|bronze]] sense.
 Creatures with other senses can create tinminds for those senses as well as the standard five. For instance, a platypus Feruchemist could create an electric field sense tinmind.
 
+### Compounding
+A tin [[Compounding\|Compounder]] would be able to use tin to have a nearly infinite supply of a senses, and therefore would be able to see microscopically, including seeing [[Axi\|axi]].
+
 ## Hemalurgic Use
-When used as a Hemalurgic spike, tin steals senses.
+When used as a [[Hemalurgic\|Hemalurgic]] spike, tin steals senses.
 
 ### Kandra Blessing
 The [[Kandra\|kandra]] can use a pair of these spikes as a [[Blessing\|Blessing]] and call them the **Blessing of Awareness**. Like all kandra Blessings, the Blessing gives the [[Mistwraith\|mistwraiths]] sentience, with the added benefit of heightened senses.
 
 ## Fabrial Use
-A [[Fabrial\|fabrial]] with a tin cage will suppress the element corresponding with the trapped spren, creating a diminisher fabrial. For example, a [[Painrial\|painrial]], which dampens pain in its vicinity.
+A [[Fabrial\|fabrial]] with a tin cage will suppress the element corresponding with the trapped [[Spren\|spren]], creating a diminisher fabrial. For example, a [[Painrial\|painrial]] dampens pain in its vicinity.
 
 ## Trivia
 [[Brandon Sanderson\|Brandon]] originally planned on giving the Allomantic powers of tin to [[Silver\|silver]], falsely assuming that [[Pewter\|pewter]] had a high quantity of silver. After changing it, he was concerned that [[Vin's earring\|Vin's earring]] might be confusing, so it became 'silver coated'.

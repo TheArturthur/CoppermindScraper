@@ -1,5 +1,8 @@
   The cover of *[[Arcanum Unbounded\|Arcanum Unbounded]]*, featuring <<Khriss\|Khriss>>
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, and *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Stargazer, please contact them before doing edits.
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You’ve stumbled into something far, far bigger than you, your politics, or your little planet ... Your questions are dangerous. Once you step behind the curtain and see the actors as the people they are, it becomes harder to pretend the play is real.*”
 \-Khriss to Kelsier[1]
@@ -42,30 +45,29 @@ The shared "creation myth" of the cosmere revolves around [[Adonalsium\|Adonalsi
 2. [[#Other Notable Worlds]] 
 
 
-3 History. [[#History]] 
+3 Worldhoppers. [[#Worldhoppers]] 
 
-3. [[#Before the Shattering]] 
-3. [[#The Shattering of Adonalsium]] 
-3. [[#Odium.27s Quest]] 
-3. [[#The Father Machine and the Shroud]] 
-3. [[#The Ascension of Harmony]] 
-3. [[#Splintering of Honor and the True Desolation]] 
-3. [[#Trell and Scadrial]] 
-3. [[#The Space Age]] 
+3. [[#Hoid]] 
+3. [[#Worldhopping Groups]] 
 
-
-4 Worldhoppers. [[#Worldhoppers]] 
-
-4. [[#Hoid]] 
-4. [[#Worldhopping Groups]] 
-
-4. [[#The Seventeenth Shard]] 
-4. [[#Silverlight]] 
-4. [[#The Ire]] 
-4. [[#The Ghostbloods]] 
+3. [[#The Seventeenth Shard]] 
+3. [[#Silverlight]] 
+3. [[#The Ire]] 
+3. [[#The Ghostbloods]] 
 
 
-4. [[#Other Notable Worldhoppers]] 
+3. [[#Other Notable Worldhoppers]] 
+
+
+4 History. [[#History]] 
+
+4. [[#Before the Shattering]] 
+4. [[#The Shattering of Adonalsium]] 
+4. [[#Odium.27s Quest]] 
+4. [[#The Ascension of Harmony]] 
+4. [[#Death of Tanavast and the Final Desolation]] 
+4. [[#Trell and Scadrial]] 
+4. [[#The Space Age]] 
 
 
 5 Development. [[#Development]] 
@@ -88,7 +90,7 @@ When someone in the cosmere dies, their body remains in the Physical Realm and a
 Time travel to the past, in any of the Realms, is impossible.
 
 #### The Physical Realm
-In the [[Physical Realm\|Physical Realm]], the cosmere is a star cluster of about 50 to 100 stars. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. Currently, there are sixteen known planetary systems in the cosmere, which contain a total of nineteen notable planets. The cosmere is also home to other celestial objects, including several dwarf planets, gas giants, and constellations. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
+In the [[Physical Realm\|Physical Realm]], the cosmere is a large star cluster with an as of yet unknown number of planets, known to be somewhere in the hundreds. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. Currently, there are sixteen known planetary systems in the cosmere, which contain a total of nineteen notable planets. The cosmere is also home to other celestial objects, including several dwarf planets, gas giants, and constellations. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
 
 #### The Cognitive Realm
   A map of <<Shadesmar\|Shadesmar>>, the region of the Cognitive Realm around <<Roshar\|Roshar>>. Regions labelled "Expanse" lead to other planets in the cosmere.
@@ -169,11 +171,12 @@ Some say there are "subtle forces" being manifest in the cosmere, separate from 
 |[[Endowment\|Endowment]]|[[Edgli\|Edgli]]|
 |[[Autonomy\|Autonomy]]|[[Bavadin\|Bavadin]]|
 |[[Ambition\|Ambition]]|[[Uli Da\|Uli Da]]|
-|[[Invention\|Invention]]|*Unknown*|
+|[[Invention\|Invention]]|[[Chan Ko Sar\|Chan Ko Sar]]|
 |[[Mercy\|Mercy]]|*Unknown*|
-|[[Valor\|Valor]]|*Unknown*|
+|[[Valor\|Valor]]|[[Medelantorius\|Medelantorius]]|
 |[[Whimsy\|Whimsy]]|*Unknown*|
 |[[Virtuosity\|Virtuosity]]|*Unknown*|
+|[[Reason\|Reason]]|[[Euridrius\|Euridrius]]|
 
 >“*[Odium] is far greater than I, but the power of ancient Adonalsium permeates him. And controls him. Odium is a force like pressure, gravitation, or the movement of time. These things cannot break their own rules. Nor can he.*”
 \-The Stormfather on Shards of Adonalsium[100]
@@ -181,10 +184,10 @@ Some say there are "subtle forces" being manifest in the cosmere, separate from 
 
 During the [[Shattering of Adonalsium\|Shattering]], Adonalsium split into sixteen pieces, referred to as [[Shard\|Shards]] of Adonalsium. Each of these Shards has an [[Intention\|Intent]] that represents a particular facet of Adonalsium. Sixteen people involved in the Shattering then took up those Shards, becoming the first Vessels and effectively ascending to godhood. There was some sort of force or property of the cosmere that caused Adonalsium to shatter into the sixteen Shards that it did, and the distribution of the Shards to the Vessels was not random. The number sixteen has some significance to the mechanics of the cosmere, though, as Adonalsium could have split into some other number of Shards, it may have only become significant after the Shattering, and indeed may arise more from the beliefs of sapient creatures than a greater underlying property.
 Though the power of a Shard requires a mind to control it, known as a Vessel, the Intent of a Shard will slowly warp the minds of those that hold it, overriding their independence. For example, after [[Leras\|Leras]] Ascended as [[Preservation\|Preservation]], he became unable to cause harm, even to preserve other things. It is unclear whether the original Vessels knew this when they took up their Shards, but, eventually, the Vessels came to be known simply by their Shard's name.
-The Shards have access to infinite power, but the Vessels' minds, even though they are expanded by holding the Shard, are not capable of wielding it all at once. The Shards are also limited by certain rules that restrict how they can act; for example, they must fulfill a formally made oath. Failing to do so can give others an opening to act against the Shard who broke an oath; this has, on at least one occasion, resulted in the death of a Vessel. Shards can also intervene to block another Shard's actions, though not perfectly.
-Despite these restrictions, however, the Shards are generally capable of both subtle and incredible changes. Among other things, they can change the orbit of entire planets, make changes to individuals and entire species on a genetic level, and alter some of the mechanics of an Invested Art resulting from their presence on a planet. Since Shards exist primarily in the Spiritual Realm, they also have some ability to look into the future, though not all Shards are equally good at this and it fragments into more and more possibilities the further they look.
 
   A depiction of <<Adonalsium\|Adonalsium>>, the sixteen <<Shard\|Shards>> it <<Shattering\|Shattered>> into as well as the Shards' original Vessels, and some <<Splinter\|Splinters>> of the Shards
+The Shards have access to infinite power, but the Vessels' minds, even though they are expanded by holding the Shard, are not capable of wielding it all at once. The Shards are also limited by certain rules that restrict how they can act; for example, they must fulfill a formally made oath. Failing to do so can give others an opening to act against the Shard who broke an oath; this has, on at least one occasion, resulted in the death of a Vessel. Shards can also intervene to block another Shard's actions, though not perfectly.
+Despite these restrictions, however, the Shards are generally capable of both subtle and incredible changes. Among other things, they can change the orbit of entire planets, make changes to individuals and entire species on a genetic level, and alter some of the mechanics of an Invested Art resulting from their presence on a planet. Since Shards exist primarily in the Spiritual Realm, they also have some ability to look into the future, though not all Shards are equally good at this and it fragments into more and more possibilities the further they look.
 Shards can also create **avatars**, beings with access to a portion of the Shard's power who can act autonomously from their Shard, but remain part of the Shard and ultimately cannot act against the Shard's instructions. Avatars stand in contrast to [[Splinter\|Splinters]], who are pieces of a Shard's power that have or could develop free will. Avatars often seem to be used when a Shard wants to influence events on a planet other than the one they are primarily Invested in; for example, [[Autonomy\|Autonomy]], who is Invested in [[Taldain\|Taldain]], has avatars on [[First of the Sun\|First of the Sun]] and [[Obrodai\|Obrodai]].
 Since the Shattering, the Shards have been the primary source of magic in the cosmere. The interactions between their Investiture and a planet give rise to Invested Arts that are far more powerful than those formed by people accessing background Investiture.
 Each Shard also has its own **pure tone** and **rhythm**, that can often influence and be heard emanating from their Investiture and can become part of the worlds they Invest in. For example, the [[Lights\|Lights]] of [[Roshar\|Roshar]] pulse softly to their Shard's tone and [[Rhythm\|rhythm]] and will follow a source—vocal or instrumental—generating their Shard's tone and both the [[Well of Ascension\|Well of Ascension]] on [[Scadrial\|Scadrial]] and the pulses a [[Seeker\|Seeker]] can pick up from someone using [[Allomancy\|Allomancy]] are related to Preservation's tone and rhythm. Harmonizing the tones and rhythms of two different Shards is part of the creation of hybrid Investiture, like [[Warlight\|Warlight]] and [[Towerlight\|Towerlight]]. Shards also have an opposite tone, which sounds identical to most people but is unpleasant to those attuned to that Shard's Investiture, and can only be created by Intent. This opposite tone can physically repel its Shard's Investiture and can help create anti-Investiture associated with its Shard.
@@ -196,33 +199,35 @@ For more information, see [[Physical Realm\|Physical Realm]].
 \-Khriss to Kelsier[1]
 
 
-While the cosmere has a wide array of planets, many of them are uninhabited, not significantly Invested, or otherwise not generally relevant to the broader cosmere. Planets in the cosmere have something akin to souls, likely referring to their presence in the Cognitive and/or Spiritual Realms.
+While the cosmere has a wide array of planets, many of them are uninhabited, not significantly Invested, or otherwise not generally relevant to the broader cosmere. By the Space Age, hundreds of inhabited planets have been discovered. Planets in the cosmere have something akin to souls, likely referring to their presence in the Cognitive and/or Spiritual Realms.
+
 
 |**Significant Worlds of the Cosmere**|
 |-|-|
 |**Planetary System**|**Planet**|**Shards**|**Books**|**Reference**|
 |***Unknown***|[[Bjendal\|Bjendal]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
 |***Unknown***|[[Canticle\|Canticle]]|*None*|*[[The Sunlit Man\|The Sunlit Man]]*||
-|***Unknown***|[[Dhatri\|Dhatri]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
-|**[[Drominad system\|Drominad System]]**|[[First of the Sun\|First of the Sun]]|[[Patji (being)\|Patji]] (Avatar of [[Autonomy\|Autonomy]])|*[[Sixth of the Dusk\|Sixth of the Dusk]]*||
+|***Unknown***|[[Dhatri\|Dhatri]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
+|**[[Drominad system\|Drominad System]]**|[[First of the Sun\|First of the Sun]]|[[Patji (being)\|Patji]] (Avatar of [[Autonomy\|Autonomy]])|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||
+|***Unknown***|[[Grand Apparatus\|Grand Apparatus]]|*Unknown*|*None (Referenced in *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
 |***Unknown***|[[Lumar\|Lumar]]|*Unknown*|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||
 |***Unknown***|[[Mythos\|Mythos]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
 |**[[Nalthian system\|Nalthian System]]**|[[Nalthis\|Nalthis]]|[[Endowment\|Endowment]]|*[[Warbreaker\|Warbreaker]]*, *[[Nightblood (book)\|Nightblood]]* (unpublished)||
 |***Unknown***|[[Obrodai\|Obrodai]]|Avatar of [[Autonomy\|Autonomy]], *possibly others*|*None (Referenced in *[[Oathbringer\|Oathbringer]]*)*||
-|**[[Rosharan system\|Rosharan System]]**|[[Ashyn\|Ashyn]]|*None*|*[[The Silence Divine\|The Silence Divine]]* (unpublished)||
-|[[Braize\|Braize]]|[[Odium\|Odium]]|[[The Stormlight Archive\|The Stormlight Archive]]||
-|[[Roshar\|Roshar]]|[[Cultivation\|Cultivation]], [[Honor\|Honor]]|[[The Stormlight Archive\|The Stormlight Archive]]||
+|**[[Rosharan system\|Rosharan System]]**|[[Ashyn\|Ashyn]]|[[Honor\|Honor]], [[Odium\|Odium]] ([[Night of Sorrows\|combined]] as [[Retribution\|Retribution]])[[Cultivation\|Cultivation]] (until the [[Night of Sorrows\|Night of Sorrows]])|[[The Stormlight Archive\|The Stormlight Archive]]||
+|[[Braize\|Braize]]|
+|[[Roshar\|Roshar]]|
 |**[[Scadrian system\|Scadrian System]]**|[[Scadrial\|Scadrial]]|[[Preservation\|Preservation]], [[Ruin\|Ruin]] ([[Final Ascension\|combined]] as [[Harmony\|Harmony]])|[[Mistborn (series)\|Mistborn series]]||
 |**[[Selish system\|Selish System]]**|[[Sel\|Sel]]|[[Devotion\|Devotion]], [[Dominion\|Dominion]]|[[Elantris trilogy\|Elantris trilogy]], *[[The Emperor's Soul\|The Emperor's Soul]]*||
 |**[[Taldain system\|Taldain System]]**|[[Taldain\|Taldain]]|[[Autonomy\|Autonomy]]|*[[White Sand\|White Sand]]*||
 |**[[Threnodite system\|Threnodite System]]**|[[Threnody\|Threnody]]|[[Ambition\|Ambition]]|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*||
 |**[[UTol system\|UTol system]]**|[[Komashi\|Komashi]]|[[Virtuosity\|Virtuosity]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
 |[[UTol\|UTol]]|
-|***Unknown***|[[Vax\|Vax]]|*Unknown*|*None (Referenced in *[[Elantris (book)\|Elantris]]* and *Mistborn: Secret History*)*||
-|***Unknown***|[[Yolen\|Yolen]]|*None*|[[Dragonsteel (series)\|Dragonsteel series]] (unpublished)||
+|***Unknown***|[[Vax\|Vax]]|*Unknown*|*None (Referenced in *[[Elantris (book)\|Elantris]]*, *Mistborn: Secret History* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
+|****|[[Yolen\|Yolen]]|*None*|[[Dragonsteel (series)\|Dragonsteel series]] (unpublished)||
 
 ### Trishardic Systems
-The [[Rosharan system\|Rosharan system]] consists of three planets of note. **[[Ashyn\|Ashyn]]** was nearly destroyed in an apocalypse long ago, though a few cities remain floating in the atmosphere. Certain bacteria on the planet are able to grant magical powers, including the ability to keep the floating cities aloft. **[[Roshar\|Roshar]]** is a planet with a [[Highstorm\|powerful storm]] that frequently blows across the continent and where [[Spren\|spren]] can cross into the Physical Realm. **[[Braize\|Braize]]** is the prison of the [[Fused\|Fused]] where the [[Herald\|Heralds]] are tortured between [[Desolation\|Desolations]]. The system is home to the Shards [[Cultivation\|Cultivation]] and [[Honor\|Honor]], though the latter has been Splintered; additionally, [[Odium\|Odium]] is currently trapped in the system.
+The [[Rosharan system\|Rosharan system]] contains three planets of note. **[[Ashyn\|Ashyn]]** was nearly destroyed in an apocalypse long ago, though a few cities remain floating in the atmosphere. Certain bacteria on the planet are able to grant magical powers, including the ability to keep the floating cities aloft. **[[Roshar\|Roshar]]** is a planet with a [[Highstorm\|powerful storm]] that frequently blows across the continent and where [[Spren\|spren]] can cross into the Physical Realm. **[[Braize\|Braize]]** is a marginally habitable world with a strange metallic core that attracts Investiture; it serves as the prison of the [[Fused\|Fused]] and [[Herald\|Heralds]] between [[Desolation\|Desolations]]. For several thousand years, the system was home to the Shards [[Cultivation\|Cultivation]], [[Honor\|Honor]], and [[Odium\|Odium]], who were all bound to the system by a mutual agreement; this arrangement lasted until the [[Night of Sorrows\|Night of Sorrows]], when Honor and Odium combined into [[Retribution\|Retribution]] and Cultivation fled the system after the agreement was dissolved.
 
 ### Dishardic Systems
 **[[Scadrial\|Scadrial]]** is the most technologically advanced planet and the most similar to [[Yolen\|Yolen]]. Its [[Metallic Arts\|three magic systems]] all use metal to store and access [[Investiture\|Investiture]]. The system is home to the Shards [[Preservation\|Preservation]] and [[Ruin\|Ruin]], who have since combined into [[Harmony\|Harmony]].
@@ -242,77 +247,7 @@ The [[UTol system\|UTol system]] is located near where the Shard [[Virtuosity\|V
 ### Other Notable Worlds
 **[[Dhatri\|Dhatri]]** is the homeworld of the [[Aether\|aethers]], though they have since spread around the cosmere; the world has been made inhospitable due to an entity known as the [[Dark aether\|dark aether]].
 **[[Lumar\|Lumar]]** is a backwater planet that is home to the [[Aether spores\|aether spores]], a compressed form of [[Aether\|aether]] that grows dangerously fast when touched by water, which are produced by a variant strain of the aethers on the twelve moons that hang close to the surface of the planet.
-Little is known about **[[Bjendal\|Bjendal]]**, **[[Mythos\|Mythos]]**, **[[Obrodai\|Obrodai]]**, and **[[Vax\|Vax]]**. Additionally, there is the homeworld of the [[Sleepless\|Sleepless]], which may be one of those four planets.
-
-## History
-### Before the Shattering
->“*It was a distant place where two lands meet and gods have died.*”
-\-Hoid on pre-Shattering Yolen.[177]
-
-
-At some point, the [[Dawnshard\|Dawnshards]] were used to create the cosmere.
-[[Investiture\|Investiture]] still existed at this time, although it had a different form. During this time, Adonalsium created several planets, including the entire [[Rosharan system\|Rosharan system]]; most of the planets in the cosmere existed and were named prior to the Shattering.
-The first humans lived on [[Yolen\|Yolen]] and were created by Adonalsium. Yolen was also home to a divergent and invasive ecology, known as [[Fainlife\|fainlife]]. The two other sapient species on Yolen, [[Sho Del\|Sho Del]] and [[Dragon (cosmere)\|dragons]], are both fain; the Sho Del fill the same niche in the fain ecosystem that humans occupy in the non-fain ecosystem.
-[[#Worldhoppers]] was much less common prior to the Shattering, though some people did live on other planets, either traveling there from Yolen or having been created there. By the time of the Shattering, the people of Yolen had learned to use bronze, while people on other planets were still using stone tools.
-During this time, Yolen had gods other than Adonalsium, at least some of whom died. There was also a plot to destroy Adonalsium before the Shattering that failed. [[Hoid\|Hoid]], the dragon [[Frost\|Frost]], and the original Vessels all lived before the Shattering.
-
-### The Shattering of Adonalsium
-  A depiction of the <<Shattering of Adonalsium\|Shattering of Adonalsium>>
->“*Sixteen people, together, killed Adonalsium, ripping it apart and dividing its essence between them, becoming the first who Ascended. [They were] a diverse group, with equally diverse motives. Some wished for the power; others saw killing Adonalsium as the only good option left to them. Together they murdered a deity, and became divine themselves.*”
-\-Khriss on the original Vessels[1]
-
-
-Eventually, around eleven-thousand years before the [[True Desolation\|True Desolation]], a group of people that opposed Adonalsium came together and plotted its destruction. This group included people of all three sapient species on [[Yolen\|Yolen]]: humans, [[Dragon (cosmere)\|dragons]], and [[Sho Del\|Sho Del]]. To achieve their goal, they created a weapon that utilized the [[Dawnshard\|Dawnshards]]. In an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]], the weapon was used to "undo" Adonalsium, splitting it into the sixteen [[Shard\|Shards]]; the weapon was expended in the process, though remnants of it exist in the Physical Realm and are responsible for Hoid's immortality. As part of the Shattering, sixteen of the people who had opposed Adonalsium took up the new Shards and became the first Vessels. There was some sort of force that caused Adonalsium to shatter into the Shards that it did, and the distribution of the Shards to the Vessels was not random. The Shattering occurred on Yolen, though there is some "weirdness" with regard to Yolen and location, and occurred all at once. As a result of the Shattering, all Investiture in the cosmere became aligned with one of the sixteen Shards.
-Hoid was loosely involved in the plot to Shatter Adonalsium and was present at the Shattering. He also had the opportunity to take a Shard, but turned it down. He and [[Frost\|Frost]] both knew the original Vessels personally.
-After the Shattering, the new Vessels made some sort of agreement to not interfere with each other, though the exact agreement was somewhat ambiguous and the Vessels who suggested it did not make sure to get a formal oath from the others. Regardless, the Shards then went their separate ways. Most settled on a planet, though [[Virtuosity\|Virtuosity]] instead chose to travel around the cosmere before eventually Splintering herself near the [[UTol system\|UTol system]]. Some chose to go off on their own, while others stayed together with other Shards. Around this time, [[Ruin\|Ruin]] and [[Preservation\|Preservation]] created the planet [[Scadrial\|Scadrial]] and its inhabitants, using the non-fain parts of Yolen as a guide, and [[Endowment\|Endowment]] created humans on [[Nalthis\|Nalthis]].
-
-### Odium's Quest
->“*One need only look at the aftermath of his brief visit to Sel to see proof of what I say. In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse.*”
-\-Hoid on Odium in his letter to Frost[212][206]
-
-
-Soon after the Shattering, or possibly even beforehand, the Vessel of Odium, Rayse, decided he wanted to become the strongest being in the cosmere. However, Odium is, by its nature, selfish and Rayse did not want the Intent of an additional Shard to make him into something else, so he instead decided to destroy the other Shards so that there would be no one left to challenge him. To do so, he developed a way to [[Splinter\|Splinter]] a Shard's power, which also results in the death of its Vessel.
-
->“*He bears the weight of God's own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become.*”
-\-Frost on Odium in his reply to Hoid[216]
-
-Odium's first target was [[Ambition\|Ambition]], as he feared that it would be a threat to him. However, while searching for Ambition, over 7700 years before the [[True Desolation\|True Desolation]], he encountered the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] and attacked them, likely because he could argue they had violated the Vessel's pact to not interfere with each other. In the ensuing battle, Odium successfully splintered Devotion and Dominion and killed their Vessels, Aona and Skai. In order to ensure that no one could take up their Shards, he then somehow moved most of their Investiture from the Spiritual Realm into the Cognitive Realm, which made the [[Expanse of the Densities\|Selish Cognitive Realm]] incredibly dangerous and the Selish Invested Arts location-dependent.
-Sometime after he Splintered Devotion and Dominion, Odium finally found Ambition, who had settled in the [[Threnodite system\|Threnodite system]]. Odium attacked and mortally wounded Ambition, though the Shard fled and was ultimately Splintered elsewhere, in a battle with Odium and [[Mercy\|Mercy]]. These clashes resulted in a wound in the Spiritual Realm and left ripped-off chunks of Ambition's power in the Threnodite system, which twisted the people and planet of [[Threnody\|Threnody]].
-
-  <<Odium\|Odium>> and the <<Fused\|Fused>>
-A long time after the Shattering, Odium got permission from [[Honor\|Honor]] and [[Cultivation\|Cultivation]] to join them in the [[Rosharan system\|Rosharan system]]. Odium never intended to Invest himself in a planet, but, at some point, he became Invested in the Rosharan system to the point where he would now have to leave some of his power behind or forcibly tear it out in order to leave.
-Early in his time in the Rosharan system, Odium took an interest in the humans living on [[Ashyn\|Ashyn]] and encouraged them to experiment with [[Surgebinding\|Surgebinding]]. Those experiments, combined with at least one Dawnshard, set the entire planet on fire, leaving it largely uninhabitable outside of a few small pockets, causing most of the population to flee to Roshar.
-At some point while he was in the Rosharan system, Honor and Cultivation used their power to trap him there. As a result, Odium has since been waging a war to free himself from whatever binds him to the system so that he can continue his quest. To that end, he Splintered off pieces of his power to create the [[Fused\|Fused]], the [[Unmade\|Unmade]], and [[Voidspren\|voidspren]], and also Invested in the Rosharan system enough to create and grant access to Invested Art known as [[Voidbinding\|Voidbinding]]. When the Fused first appeared, Honor created the [[Herald\|Heralds]], who could seal the Fused on [[Braize\|Braize]], though the Fused tortured the Heralds into allowing them to return to [[Roshar\|Roshar]]. Every time a Herald broke, a [[Desolation\|Desolation]] would begin and the Heralds and [[Knights Radiant\|Knights Radiant]] would fight the Fused until they could be sealed on Braize again. This situation continued for millennia and the Shards remained at a stalemate, especially after nine of the Heralds abandoned the [[Oathpact\|Oathpact]], leaving it to [[Talenel\|Talenel]] alone, who was better able to withstand the torture on Braize.
-Odium's repeated clashes with other Shards have left him with "scars that do not heal," forcing him to become more careful about the battles he engages in.
-Many of the other Shards are aware of Odium's actions, though most do not seem to consider him a problem, as long as he remains bound to the Rosharan system. [[Endowment\|Endowment]] is currently indifferent to him and thinks he was justified in Splintering the Shards he did; she also believes she could "deal" with him if he becomes an issue. One of [[Autonomy\|Autonomy's]] avatars, [[Patji (being)\|Patji]], also expressed indifference, though he did indicate that a different avatar might be more receptive. There is also a [[Survival Shard\|Shard who just wants to survive]] that is aware of Odium's goals and is "smart enough" to stay away, though they have realized over time that may not be the best course of action. [[Harmony\|Harmony]], who only became aware of the threat around the time of the [[True Desolation\|True Desolation]], is deeply concerned about Odium, but is unable to do much because of the conflicting nature of his powers. In a letter to [[Hoid\|Hoid]], however, he did suggest that [[Valor\|Valor]] might share some of his concern.
-
-### The Father Machine and the Shroud
-At some point, the [[Institute of Mechanical Solutions\|Institute of Mechanical Solutions]] in [[Torio City\|Torio City]] on [[Komashi\|Komashi]] created an Awakened device that was known as the [[Father machine\|Father machine]]. It was made to replace the job of the yoko-hijo, thus allowing them to automate the summoning of [[Hijo\|hijo]], a type of splinter important to their way of life. However, the Commands they gave it caused it to rip out the souls of everyone in a large radius from the machine, and heavily damaged them. This released the [[Shroud\|shroud]] which covered the entire planet and turned most of its inhabitants into barely self-aware Cognitive Shadows known as [[Nightmare\|Nightmares]], who have lost most of their [[Identity\|Identity]].
-This was a formative event in the history of Komashi, as the survivors had to live in the Shroud, creating bubbles of livable space using [[Hion\|hion]], and having a cadre of professionals known as [[Painter\|Painters]] who could stop the nightmares from harming them at night.
-
-### The Ascension of Harmony
-  <<Sazed\|Sazed>> as <<Harmony\|Harmony>>
-Early in the history of [[Scadrial\|Scadrial]], [[Preservation\|Preservation's]] Vessel, [[Leras\|Leras]], sacrificed most of his consciousness to imprison [[Ruin\|Ruin's]] mind in the [[Well of Ascension\|Well of Ascension]], preventing him from destroying the planet. In the process, Preservation also stole a piece of Ruin's power and crafted the [[Pits of Hathsin\|Pits of Hathsin]] to hide it; the concentration of Investiture there formed a perpendicularity, which came to support an extensive system of interplanetary trade until [[Kelsier\|Kelsier]] shattered all of the [[Atium\|atium]] geodes in the Pits in 1022 [[Final Empire\|FE]].
-After the death of the [[Lord Ruler\|Lord Ruler]], Ruin was successfully able to manipulate [[Vin\|Vin]] into taking up the Well's power and then releasing it, which allowed him to be free. Once free, Ruin was unable to immediately Splinter Preservation, but brought his power to bear against what remained of Leras, slowly killing the Vessel. The [[Ire\|Ire]], aware of Leras's impending death, sought to use [[Ire's orb\|a device]] to [[Connection\|Connect]] one of their members to Preservation and Ascend in 1025 [[Final Empire\|FE]]. The device, however, was stolen by Kelsier, who used it after Leras finally died, taking up the portion of Preservation's power that Leras had still been holding and preventing Ruin from Splintering Preservation.
-Kelsier continued to hold that power until Vin, Leras's chosen successor, had her link to Ruin—a [[Hemalurgy\|Hemalurgically]] charged [[Vin's earring\|earring]]—removed, whereupon she began absorbing the [[Mist\|mists]] and Kelsier released the portion of Preservation's power he held, allowing Vin to Ascend and become the Vessel of [[Preservation\|Preservation]]. During the [[Battle of Hathsin\|Battle of Hathsin]], Vin then sacrificed herself in order to kill Ruin's Vessel, [[Ati\|Ati]].
-Leras, when he held Preservation's power, had foreseen all this and planned for both Ruin and Preservation to be left without a Vessel so that [[Sazed\|Sazed]] could take up both Shards and their Intents could moderate each other. As a result of one person holding both Shards, Ruin and Preservation's power began to intermingle, and Sazed became known as [[Harmony\|Harmony]]. It is considered a single Shard, much like a king of two countries is still just one king. This consolidation of two Shards with one Vessel caused some of the other Shards—notably Odium and [[Autonomy\|Autonomy]]—to feel threatened or even scared and to begin making plans for dealing with Harmony.
-
-### Splintering of Honor and the True Desolation
-Sometime after the [[Recreance\|Recreance]], [[Odium\|Odium]] finally managed to [[Splinter\|Splinter]] [[Honor\|Honor]], even though [[Cultivation\|Cultivation]] was assisting Honor in some way. Honor, however, had prepared for this eventuality by, among other things, giving the [[Stormfather\|Stormfather]] the power to create new [[Honorspren\|honorspren]] and recording a [[Dalinar's visions\|series of visions]] for the Stormfather to show to potential [[Order of Bondsmiths\|Bondsmiths]].
-Approximately 4,500 Rosharan years (4,950 standard years) after the [[Last Desolation\|Last Desolation]], [[Odium\|Odium]] and his servants developed the [[Everstorm\|Everstorm]] to allow the [[Fused\|Fused]] to circumvent the Oathpact and return to [[Roshar\|Roshar]] without [[Talenel\|Talenel]] breaking. As Odium's forces grew closer to enacting their plan, Hoid began reaching out to the dragon [[Frost\|Frost]] and several of the Shards, asking them to help in keeping the cosmere safe from Odium. Aside from Harmony, who had not previously been aware of the threat Odium posed, they all rejected Hoid's request as they considered Odium's binding to the [[Rosharan system\|Rosharan system]] sufficient. After years of preparation, Odium's servants successfully guided the [[Listeners\|listeners]] to summoning the Everstorm,
-beginning the [[True Desolation\|True Desolation]].
-With the advent of the Everstorm on Ishishach 1173, [[Dalinar Kholin\|Dalinar Kholin]] founded a [[Coalition of monarchs\|coalition of monarchs]] to oppose Odium's forces and the [[Knights Radiant\|Knights Radiant]] were re-established. Acting on the advice Honor had left in his series of visions, they pushed Odium to agree to a contest of champions so that he could be forced to leave Roshar in peace for some period of time. Odium eventually agreed to such a contest during the [[Battle of Thaylen Field\|Battle of Thaylen Field]], but withdrew before the terms for the contest could be set.
-About a year later, in 1175, Odium returned to set the terms for the contest. Ultimately he and Dalinar agreed that, no matter the outcome of the contest, Odium would remain bound to the Rosharan system and would cease hostilities against the coalition of monarchs, with only the fate of [[Alethkar\|Alethkar]], [[Herdaz\|Herdaz]], and Dalinar's soul depending on the outcome of the contest. The protections specified for [[Hoid\|Hoid]] in Dalinar's initial, written, proposed contract also appear to be in effect. The contest is set for the tenth hour of the [[/wiki/Roshar#Calendar]] at the top of [[Urithiru\|Urithiru]].
-Shortly after Odium came to this agreement with Dalinar, [[Taravangian\|Taravangian]] orchestrated an attack on Odium with [[Nightblood\|Nightblood]], which killed Odium's Vessel, [[Rayse\|Rayse]]. Taravangian then Ascended as the new Vessel of Odium; he remains bound by the agreement Rayse made with Dalinar and plans to beat Dalinar.
-
-### Trell and Scadrial
-  <<Trell (Trellism)\|Trell's>> power manifesting on <<Scadrial\|Scadrial>>
-Sometime after the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier]] founded the [[Ghostbloods\|Ghostbloods]] for the purpose of protecting Scadrial. As a result of the moves he was making, others began reaching out to the rest of the cosmere for power, though they were not fully aware what they were doing. Their calls were answered by the Shard [[Autonomy\|Autonomy]], who began to make good on the ancient religion of [[Trelagism\|Trelagism]] that she had founded in the [[Classical Scadrial\|classical era of Scadrial]] and to create a new avatar of herself on Scadrial, [[Trell (Trellism)\|Trell]]. She backed the [[Set\|Set]] and the [[Kandra\|kandra]] [[Paalm\|Paalm]] in their efforts to break Scadrial from Harmony's influence and bring it under her control, while also preparing to destroy the planet if necessary to prevent it from becoming a threat.
-As Autonomy's plans neared completion in 348 [[Catacendre\|PC]], she trapped Harmony in a shroud that sharply limited his ability to see the future and prepared the leader of the Set, [[Telsin Ladrian\|Telsin Ladrian]] to become the avatar Trell. Both of her plans for Scadrial were ultimately stopped, as [[Waxillium Ladrian\|Waxillium Ladrian]] and [[Wayne\|Wayne]] killed Telsin and prematurely detonated the bomb planned to destroy Elendel while [[Marasi Colms\|Marasi Colms]], with help from the Ghostbloods, drained and collapsed the perpendicularity Autonomy had created for her [[Men of gold and red\|men of gold and red]] to travel through, preventing them from destroying the planet. Autonomy then withdrew from Scadrial, saying that they had proven themselves for the moment, but that they plan to return.
-
-### The Space Age
-At some point, mankind on various planets developed space-faring technology, allowing for interplanetary travel in the physical realm. Many of which made use of zephyr [[Aether\|aether]] for propulsion, whilst others used a hypergolic mixture of a fuel and an oxidizer. Eventually, mankind discovered a method for superluminal travel in the physical realm. This led to growing communication between planets, and the formation of the [[Silverlight Codes of Interplanetary Conduct\|Silverlight Codes of Interplanetary Conduct]]. Waystations were also constructed throughout the cosmere.
-This greater communication led to growing conflicts between planets, and the birth of a growing arms race that consumed most developed planets. Although during this era, many civilizations remained planetbound. Some parties decided to bring technology to less developed planets, such as the [[Ones Above\|Ones Above]] bringing their technology to the people of the [[First of the Sun\|First of the Sun]].
+Little is known about **[[Bjendal\|Bjendal]]**, **[[Mythos\|Mythos]]**, **[[Obrodai\|Obrodai]]**, the **[[Grand Apparatus\|Grand Apparatus]]**, and **[[Vax\|Vax]]**. Additionally, there is the homeworld of the [[Sleepless\|Sleepless]], which may be one of those five planets. There is also a planet with an ocean in the sky, one where men fly upon kites, and a world with strange freezing winds that leave icy sheets over everything. Another world has flowers and people with skin that is a coppery color. These people wear clothing of beautiful colors.
 
 ## Worldhoppers
 Some people who are aware of the broader cosmere have learned how to travel between planets and are known as worldhoppers. Since space in the Cognitive Realm is linked to how people think about that region, most of outer space is extremely compressed in the Cognitive Realm. Therefore, if one could shift from the Physical to the Cognitive Realm, they could quickly travel between planets. The most common method for transfer to the Cognitive Realm is by going through a [[Perpendicularity\|perpendicularity]], though it is also possible with the [[/wiki/Surgebinding#Transportation]].
@@ -323,7 +258,7 @@ In total, the number of people traveling between planets probably numbers somewh
 ### Hoid
   <<Hoid\|Hoid>> with <<Frost\|Frost>>
 >“*For I have never been dedicated to a more important purpose, and the very pillars of the sky will shake with the results of our war here. I ask again. Support me. Do not stand aside and let disaster consume more lives.*”
-\-Hoid on his opposition to Odium[306]
+\-Hoid on his opposition to Odium[208]
 
 
 Hoid is a mysterious worldhopper who has been alive since before the Shattering of Adonalsium and was present for that event. He has collected a variety of Invested items from around the cosmere and gained access to multiple Invested Arts. His long-term goals are unclear, but he is an adamant opponent of Odium's attempts to become the sole god of the cosmere. He has written to [[Frost\|Frost]], [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]], hoping to enlist their help in dealing with Odium, though only Harmony has responded positively. He has some ability to manipulate [[Fortune\|Fortune]], which lets him learn where and when he needs to be to advance his goals, though he often doesn't know why being somewhere is important.
@@ -331,7 +266,7 @@ Hoid is a mysterious worldhopper who has been alive since before the Shattering 
 ### Worldhopping Groups
 #### The Seventeenth Shard
 >“*However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem.*”
-\-Frost to Hoid on his non-intervention policy[311]
+\-Frost to Hoid on his non-intervention policy[214]
 
 
 The [[Seventeenth Shard\|Seventeenth Shard]] is a group of worldhoppers that seeks to research and study the various worlds of the cosmere without interfering in existing cultures. They believe the Shards separated for a reason and want to minimize the risk of conflict between the Shards. Frost may have some influence over them, either formally or informally. They are worried about Hoid, as they fear his actions on planets will exacerbate Shardic conflict and, from at least 1173 to 1175 on the [[/wiki/Roshar#Calendar]], unsuccessfully tried to hunt him down, though they have larger objectives as well.
@@ -354,18 +289,84 @@ The [[Ghostbloods\|Ghostbloods]] is a cosmere-wide secret society created by [[K
 For a complete list of worldhoppers, see Category:Worldhoppers.
 Most, if not all, of the [[Five Scholars\|Five Scholars]] of Nalthis were worldhoppers and are well-regarded by the cosmere-aware scholarly community as pioneers of the study of Investiture and Realmatic Theory. After learning from one of the Scholars, [[Vasher\|Vasher]], [[Vivenna\|Vivenna]] became a worldhopper as well. [[Felt\|Felt]] was involved in trade through the Pits of Hathsin and has been involved in several different worldhopping groups over the years. The [[Dragon (cosmere)\|dragon]] [[Frost\|Frost]] is extremely knowledgeable about the cosmere, but is not actually a worldhopper, as he has not left [[Yolen\|Yolen]]. The [[Sleepless\|Sleepless]] are present on several planets across the cosmere, though most have chosen to settle on Roshar and only the Rosharan ones are capable of imitating humans. Additionally, there are several [[Kandra\|kandra]] from [[Scadrial\|Scadrial]] who have become worldhoppers, though they were released from their contract with Harmony sometime after Autonomy's initial incursion on Scadrial.
 
+## History
+### Before the Shattering
+>“*It was a distant place where two lands meet and gods have died.*”
+\-Hoid on pre-Shattering Yolen.[246]
+
+
+At some point, the [[Dawnshard\|Dawnshards]] were used to create the cosmere.
+[[Investiture\|Investiture]] still existed at this time, although it had a different form. During this time, Adonalsium created several planets, including the entire [[Rosharan system\|Rosharan system]]; most of the planets in the cosmere existed and were named prior to the Shattering.
+The first humans lived on [[Yolen\|Yolen]] and were created by Adonalsium. Yolen was also home to a divergent and invasive ecology, known as [[Fainlife\|fainlife]]. The two other sapient species on Yolen, [[Sho Del\|Sho Del]] and [[Dragon (cosmere)\|dragons]], are both fain; the Sho Del fill the same niche in the fain ecosystem that humans occupy in the non-fain ecosystem.
+[[#Worldhoppers]] was much less common prior to the Shattering, though some people did live on other planets, either traveling there from Yolen or having been created there. By the time of the Shattering, the people of Yolen had learned to use bronze, while people on other planets were still using stone tools.
+During this time, Yolen had gods other than Adonalsium, at least some of whom died. There was also a plot to destroy Adonalsium before the Shattering that failed. [[Hoid\|Hoid]], the dragon [[Frost\|Frost]], and the original Vessels all lived before the Shattering.
+
+### The Shattering of Adonalsium
+  A depiction of the <<Shattering of Adonalsium\|Shattering of Adonalsium>>
+>“*Sixteen people, together, killed Adonalsium, ripping it apart and dividing its essence between them, becoming the first who Ascended. [They were] a diverse group, with equally diverse motives. Some wished for the power; others saw killing Adonalsium as the only good option left to them. Together they murdered a deity, and became divine themselves.*”
+\-Khriss on the original Vessels[1]
+
+
+Eventually, a group of people that opposed Adonalsium came together and plotted its destruction. This group included people of all three sapient species on [[Yolen\|Yolen]]: humans, [[Dragon (cosmere)\|dragons]], and [[Sho Del\|Sho Del]]. To achieve their goal, they created a weapon that utilized the [[Dawnshard\|Dawnshards]]. In an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]], the weapon was used to "undo" Adonalsium, splitting it into the sixteen [[Shard\|Shards]]; the weapon was expended in the process, though remnants of it exist in the Physical Realm and are responsible for Hoid's immortality. As part of the Shattering, sixteen of the people who had opposed Adonalsium took up the new Shards and became the first Vessels. There was some sort of force that caused Adonalsium to shatter into the Shards that it did, and the distribution of the Shards to the Vessels was not random. The Shattering occurred on Yolen, though there is some "weirdness" with regard to Yolen and location, and occurred all at once. As a result of the Shattering, all Investiture in the cosmere became aligned with one of the sixteen Shards.
+Hoid was loosely involved in the plot to Shatter Adonalsium and was present at the Shattering. He also had the opportunity to take a Shard, but turned it down. He and [[Frost\|Frost]] both knew the original Vessels personally.
+After the Shattering, the new Vessels made some sort of agreement to not interfere with each other, though the exact agreement was somewhat ambiguous and the Vessels who suggested it did not make sure to get a formal oath from the others. Regardless, the Shards then went their separate ways. Most settled on a planet, though [[Virtuosity\|Virtuosity]] instead chose to travel around the cosmere before eventually Splintering herself near the [[UTol system\|UTol system]]. Some chose to go off on their own, while others stayed together with other Shards. Around this time, [[Ruin\|Ruin]] and [[Preservation\|Preservation]] created the planet [[Scadrial\|Scadrial]] and its inhabitants, using the non-fain parts of Yolen as a guide, and [[Endowment\|Endowment]] created humans on [[Nalthis\|Nalthis]].
+
+### Odium's Quest
+>“*One need only look at the aftermath of his brief visit to Sel to see proof of what I say. In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse.*”
+\-Hoid on Odium in his letter to Frost[277][271]
+
+
+Soon after the Shattering, or possibly even beforehand, the Vessel of Odium, Rayse, decided he wanted to become the strongest being in the cosmere. However, Odium is, by its nature, selfish and Rayse did not want the Intent of an additional Shard to make him into something else, so he instead decided to destroy the other Shards so that there would be no one left to challenge him. To do so, he developed a way to [[Splinter\|Splinter]] a Shard's power, which also results in the death of its Vessel.
+
+>“*He bears the weight of God's own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become.*”
+\-Frost on Odium in his reply to Hoid[281]
+
+Odium's first target was [[Ambition\|Ambition]], as he feared that it would be a threat to him. However, while searching for Ambition, he encountered the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] and attacked them, likely because he could argue they had violated the Vessel's pact to not interfere with each other. In the ensuing battle, Odium successfully splintered Devotion and Dominion and killed their Vessels, Aona and Skai. In order to ensure that no one could take up their Shards, he then somehow moved most of their Investiture from the Spiritual Realm into the Cognitive Realm, which made the [[Expanse of the Densities\|Selish Cognitive Realm]] incredibly dangerous and the Selish Invested Arts location-dependent.
+Sometime after he Splintered Devotion and Dominion, Odium finally found Ambition, who had settled in the [[Threnodite system\|Threnodite system]]. Odium attacked and mortally wounded Ambition, though the Shard fled and was ultimately Splintered elsewhere, in a battle with Odium and [[Mercy\|Mercy]]. These clashes resulted in a wound in the Spiritual Realm and left ripped-off chunks of Ambition's power in the Threnodite system, which twisted the people and planet of [[Threnody\|Threnody]].
+
+  <<Odium\|Odium>> and the <<Fused\|Fused>>
+A long time after the Shattering, Odium got permission from [[Honor\|Honor]] and [[Cultivation\|Cultivation]] to join them in the [[Rosharan system\|Rosharan system]]. Odium never intended to Invest himself in a planet, but, at some point, he became Invested in the Rosharan system to the point where he would now have to leave some of his power behind or forcibly tear it out in order to leave.
+Early in his time in the Rosharan system, Odium took an interest in the humans living on [[Ashyn\|Ashyn]] and encouraged them to experiment with [[Surgebinding\|Surgebinding]]. Those experiments, combined with at least one Dawnshard, set the entire planet on fire, leaving it largely uninhabitable outside of a few small pockets, causing most of the population to flee to Roshar.
+At some point while he was in the Rosharan system, Honor and Cultivation used their power to trap him there. As a result, Odium has since been waging a war to free himself from whatever binds him to the system so that he can continue his quest. To that end, he Splintered off pieces of his power to create the [[Fused\|Fused]], the [[Unmade\|Unmade]], and [[Voidspren\|Voidspren]], and also Invested in the Rosharan system enough to create and grant access to Invested Art known as [[Voidbinding\|Voidbinding]]. When the Fused first appeared, Honor created the [[Herald\|Heralds]], who could seal the Fused on [[Braize\|Braize]], though the Fused tortured the Heralds into allowing them to return to [[Roshar\|Roshar]]. Every time a Herald broke, a [[Desolation\|Desolation]] would begin and the Heralds and [[Knights Radiant\|Knights Radiant]] would fight the Fused until they could be sealed on Braize again. This situation continued for millennia and the Shards remained at a stalemate, especially after nine of the Heralds abandoned the [[Oathpact\|Oathpact]], leaving it to [[Talenel\|Talenel]] alone, who was better able to withstand the torture on Braize.
+Odium's repeated clashes with other Shards have left him with "scars that do not heal," forcing him to become more careful about the battles he engages in.
+Many of the other Shards are aware of Odium's actions, though most do not seem to consider him a problem, as long as he remains bound to the Rosharan system. [[Endowment\|Endowment]] is currently indifferent to him and thinks he was justified in Splintering the Shards he did; she also believes she could "deal" with him if he becomes an issue. One of [[Autonomy\|Autonomy's]] avatars, [[Patji (being)\|Patji]], also expressed indifference, though he did indicate that a different avatar might be more receptive. There is also a [[Survival Shard\|Shard who just wants to survive]] that is aware of Odium's goals and is "smart enough" to stay away, though they have realized over time that may not be the best course of action. [[Harmony\|Harmony]], who only became aware of the threat around the time of the final [[Desolation\|Desolation]], is deeply concerned about Odium, but is unable to do much because of the conflicting nature of his powers. In a letter to [[Hoid\|Hoid]], however, he did suggest that [[Valor\|Valor]] might share some of his concern.
+
+### The Ascension of Harmony
+  <<Sazed\|Sazed>> as <<Harmony\|Harmony>>
+Early in the history of [[Scadrial\|Scadrial]], [[Preservation\|Preservation's]] Vessel, [[Leras\|Leras]], sacrificed most of his consciousness to imprison [[Ruin\|Ruin's]] mind in the [[Well of Ascension\|Well of Ascension]], preventing him from destroying the planet. In the process, Preservation also stole a piece of Ruin's power and crafted the [[Pits of Hathsin\|Pits of Hathsin]] to hide it; the concentration of Investiture there formed a perpendicularity, which came to support an extensive system of interplanetary trade until [[Kelsier\|Kelsier]] shattered all of the [[Atium\|atium]] geodes in the Pits in 1022 [[Final Empire\|FE]].
+After the death of the [[Lord Ruler\|Lord Ruler]], Ruin was successfully able to manipulate [[Vin\|Vin]] into taking up the Well's power and then releasing it, which allowed him to be free. Once free, Ruin was unable to immediately Splinter Preservation, but brought his power to bear against what remained of Leras, slowly killing the Vessel. The [[Ire\|Ire]], aware of Leras's impending death, sought to use [[Ire's orb\|a device]] to [[Connection\|Connect]] one of their members to Preservation and Ascend in 1025 [[Final Empire\|FE]]. The device, however, was stolen by Kelsier, who used it after Leras finally died, taking up the portion of Preservation's power that Leras had still been holding and preventing Ruin from Splintering Preservation.
+Kelsier continued to hold that power until Vin, Leras's chosen successor, had her link to Ruin—a [[Hemalurgy\|Hemalurgically]] charged [[Vin's earring\|earring]]—removed, whereupon she began absorbing the [[Mist\|mists]] and Kelsier released the portion of Preservation's power he held, allowing Vin to Ascend and become the Vessel of [[Preservation\|Preservation]]. During the [[Battle of Hathsin\|Battle of Hathsin]], Vin then sacrificed herself in order to kill Ruin's Vessel, [[Ati\|Ati]].
+Leras, when he held Preservation's power, had foreseen all this and planned for both Ruin and Preservation to be left without a Vessel so that [[Sazed\|Sazed]] could take up both Shards and their Intents could moderate each other. As a result of one person holding both Shards, Ruin and Preservation's power began to intermingle, and Sazed became known as [[Harmony\|Harmony]]. It is considered a single Shard, much like a king of two countries is still just one king. This consolidation of two Shards with one Vessel caused some of the other Shards—notably Odium and [[Autonomy\|Autonomy]]—to feel threatened or even scared and to begin making plans for dealing with Harmony.
+
+### Death of Tanavast and the Final Desolation
+Shortly after the beginning of the [[False Desolation\|False Desolation]], Odium threatened to fight Honor directly so that he could be released from his imprisonment and continue his quest, despite the risks such a confrontation posed to him and the destruction it would cause on Roshar. Desperate to protect the planet and its people, Honor offered to deal with the rogue [[Unmade\|Unmade]] [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] for Odium and in exchange Odium agreed never to attack Honor and to hold a [[Contest of champions\|contest of champions]] to decide who would rule Roshar if terms could be agreed to in the future. This agreement placed Honor in a precarious position, as he had also previously told Mishram that he would make peace with her if they could do so without Odium intervening.
+When [[Tanavast\|Tanavast]] betrayed [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] by helping imprison her in a [[Perfect gem\|perfect gem]], the Shard of Honor abandoned him. Odium took the opportunity to kill Tanavast, but the Vessel-less Shard took his memories and a piece of his soul and gave them to the [[Stormfather\|Stormfather]]. As Honor was desperate for a Vessel, the Shard and the Stormfather eventually agreed that the Stormfather would work to find someone worthy of the Shard who could defeat Odium through the contest of champions that Odium had agreed to before Tanavast's death.
+Frustrated by the continued resilience of the Herald [[Talenel\|Talenel]] and the damage done to the [[Singer\|singers]] by the imprisonment of Ba-Ado-Mishram, [[Odium\|Odium]] and his servants developed the [[Everstorm\|Everstorm]] to restore the singers and allow the [[Fused\|Fused]] to circumvent the Oathpact and return to [[Roshar\|Roshar]] without [[Talenel\|Talenel]] breaking. In late Ishi 1167, the Herald [[Chanarach\|Chanarach]] was killed and returned to [[Braize\|Braize]]. As Odium's forces grew closer to starting another Desolation, Hoid began reaching out to the dragon [[Frost\|Frost]] and several of the Shards, asking them to help in keeping the cosmere safe from Odium. Aside from Harmony, who had not previously been aware of the threat Odium posed, they all rejected Hoid's request as they considered Odium's binding to the [[Rosharan system\|Rosharan system]] sufficient. In late 1173, Chana broke under torture and Odium's servants successfully guided the [[Listener\|listeners]] to summoning the Everstorm, beginning the new Desolation.
+After the advent of the Everstorm, [[Dalinar Kholin\|Dalinar Kholin]] founded the [[Coalition of monarchs\|coalition of monarchs]] to oppose Odium's forces and the [[Knights Radiant\|Knights Radiant]] were re-established. Acting on the advice Honor had left in [[Dalinar's visions\|his series of visions]], they pushed Odium to agree to terms for the contest of champions. Afraid of the unchained [[Bondsmith\|Bondsmiths]] learning more about their powers, Odium met with Dalinar on Vevishev 1175 to set terms. Ultimately he and Dalinar agreed that, no matter the outcome of the contest, Odium would remain bound to the Rosharan system and would cease hostilities against the coalition of monarchs, with only the fate of [[Alethkar\|Alethkar]], [[Herdaz\|Herdaz]], and Dalinar's soul depending on the outcome of the contest. Later that same day, [[Taravangian\|Taravangian]] orchestrated an attack on Odium with [[Nightblood\|Nightblood]], which killed Odium's Vessel, [[Rayse\|Rayse]]. Taravangian then Ascended as the new Vessel of Odium.
+On Palahanah 1175, [[Dalinar Kholin\|Dalinar Kholin]] Ascended as the Vessel of Honor, but quickly renounced his oaths and the oaths of Honor. This lost his position as the Vessel of Honor, and allowed the Shard to be taken up by Taravangian, thus Honor and Odium were combined to birth [[Retribution\|Retribution]]. The birth of Retribution caused immense time dilation to occur in the area around Roshar, which Thaidakar suggests would last for around seventy to eighty years for those outside of the zone of influence, but only a decade to those on Roshar. This had a major impact on interplanetary trade and communication, which was even further interrupted by the collapse of the perpendicularities on Roshar and the planet-wide loss of Stormlight.
+These events also released Odium, now Retribution, from his prison within the Rosharan system. At the same time, his release led to every other Shard turning their eyes upon him and accepting that he was an active threat, forcing him into a period of hiding.
+
+### Trell and Scadrial
+  <<Trell (Trellism)\|Trell's>> power manifesting on <<Scadrial\|Scadrial>>
+Sometime after the [[Catacendre\|Catacendre]], [[Kelsier\|Kelsier]] founded the [[Ghostbloods\|Ghostbloods]] for the purpose of protecting Scadrial. As a result of the moves he was making, others began reaching out to the rest of the cosmere for power, though they were not fully aware what they were doing. Their calls were answered by the Shard [[Autonomy\|Autonomy]], who began to make good on the ancient religion of [[Trelagism\|Trelagism]] that she had founded in the [[Classical Scadrial\|classical era of Scadrial]] and to create a new avatar of herself on Scadrial, [[Trell (Trellism)\|Trell]]. She backed the [[Set\|Set]] and the [[Kandra\|kandra]] [[Paalm\|Paalm]] in their efforts to break Scadrial from Harmony's influence and bring it under her control, while also preparing to destroy the planet if necessary to prevent it from becoming a threat.
+As Autonomy's plans neared completion in 348 [[Catacendre\|PC]], she trapped Harmony in a shroud that sharply limited his ability to see the future and prepared the leader of the Set, [[Telsin Ladrian\|Telsin Ladrian]] to become the avatar Trell. Both of her plans for Scadrial were ultimately stopped, as [[Waxillium Ladrian\|Waxillium Ladrian]] and [[Wayne\|Wayne]] killed Telsin and prematurely detonated the bomb planned to destroy Elendel while [[Marasi Colms\|Marasi Colms]], with help from the Ghostbloods, drained and collapsed the perpendicularity Autonomy had created for her [[Men of gold and red\|men of gold and red]] to travel through, preventing them from destroying the planet. Autonomy then withdrew from Scadrial, saying that they had proven themselves for the moment, but that she plans to return.
+
+### The Space Age
+At some point, mankind on various planets developed space-faring technology, allowing for interplanetary travel in the physical realm. Many of which made use of zephyr [[Aether\|aether]] for propulsion, whilst others used a hypergolic mixture of a fuel and an oxidizer. The Cognitive Realm would remain the preferred method to travel between planets, even as the distance expanded with humanity's growing understanding of the scale of space. Eventually, mankind discovered a method for superluminal travel in the physical realm. This led to growing communication between planets, and the formation of the [[Silverlight Codes of Interplanetary Conduct\|Silverlight Codes of Interplanetary Conduct]]. Waystations were also constructed throughout the cosmere.
+This greater communication led to growing conflicts between planets, and the birth of a growing arms race that consumed most developed planets. Although during this era, many civilizations remained planetbound. Some parties decided to bring technology to less developed planets, such as the [[Ones Above\|Ones Above]] bringing their technology to the people of the [[First of the Sun\|First of the Sun]].
+
 ## Development
 >“*During my unpublished days I wrote thirteen books, only one of which was a sequel. ... But I wanted to be writing big epics. This is what I always wanted to do; something like the Wheel of Time. So I began plotting a large, massive series where all these books were connected, so I could kind of "stealth" have a large series without the editors knowing I was sending them books from the same series. It was mostly just a thing for me, to help me do the writing I wanted to be doing. And then when publication came I continued to do that, and told the story behind the story.*”
-\-Brandon on the beginnings of the cosmere[342]
+\-Brandon on the beginnings of the cosmere[345]
 
 When Brandon was beginning to write and trying to get published, he loved gigantic epic fantasy series. He knew, however, that starting with a big series might not be the best idea. If he wrote four books in a series, and the first one didn't get published, he couldn't submit his sequels, so he decided instead to focus on standalone stories. However, he still loved the idea of a huge epic series, so he decided to create a "hidden" epic to link his novels together. Brandon had seen other authors who made a single universe for all their books, like Isaac Asimov, but didn't like how Asimov had to retcon and shoehorn things together to connect his books, and so wanted to build the cosmere from the beginning, so it would always be consistent.
 Some ideas that came into the worldbuilding of the cosmere came from Plato's theory of forms, which contributed to the development of [[Realmatic Theory\|Realmatic Theory]]. In this, the distinction of what is perceived as "ideal" and what is the true ideal is important: true ideals have much to do with the Spiritual Realm, while people's perception of ideals deals with the Cognitive Realm. Another influence is Spinoza, with the idea that God is in everything. Brandon also incorporated the idea of a "unifying theory of everything" from physics into the magic in the cosmere. All magics have underlying rules, and are derived from a single unified theory of magic.
 
 >“*I hope that people will stick with me for all these books, because I'll do a lot of them. But they will fit together in some really cool ways once they are all done. I think you'll be very very impressed, but that's a while off.*”
-\-Brandon on the cosmere[346]
+\-Brandon on the cosmere[349]
 
 The cosmere sequence has a clear story that Brandon wants to tell and is fairly firmly outlined as 35 novels, plus a variety of novellas and other works, with the [[Dragonsteel (series)\|Dragonsteel series]], [[Mistborn (series)\|Mistborn series]], and [[The Stormlight Archive\|The Stormlight Archive]] forming the core of that story. *Dragonsteel* will tell [[Hoid\|Hoid's]] backstory and the story of the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; *Mistborn* will have four series, following [[Scadrial\|Scadrial]] from the [[Final Empire\|Final Empire]] to the development of faster-than-light travel and the interaction between the various planets; The Stormlight Archive will be split into two arcs of five books each and is the story of the clash between the people of [[Roshar\|Roshar]] and [[Odium\|Odium]]. Generally, knowledge of the cosmere as a whole will not be necessary until *Dragonsteel* and the final *Mistborn* trilogy, which are the beginning and the conclusion respectively of the cosmere sequence
-Brandon does not feel that the cosmere is restrictive to his writing. Though cosmere novels are intensive, as they require more thorough planning and continuity maintenance, Brandon also has an internal wiki and people like [[Peter Ahlstrom\|Peter]] and Karen Ahlstrom who help him keep the cosmere on track. When Brandon feels like he needs a break from the more stringent requirements of the cosmere, he'll turn to work on a less intensive novel or novella, which are almost always non-cosmere. If there is a concept he really wants to write but doesn't fit in the limitations of the cosmere, he moves it into a non-cosmere book. For example, *[[The Rithmatist\|The Rithmatist]]* started as a cosmere novel, and its magics take many elements from cosmere magics, but Brandon decided that he did not want a version of Earth in the cosmere, and so moved it to its own universe.
+Brandon does not feel that the cosmere is restrictive to his writing. Though cosmere novels are intensive, as they require more thorough planning and continuity maintenance, Brandon also has an internal wiki and people like [[Peter Ahlstrom\|Peter]] and Karen Ahlstrom who help him keep the cosmere on track. When Brandon feels like he needs a break from the more stringent requirements of the cosmere, he'll turn to work on a less intensive novel or novella, which are almost always non-cosmere. If there is a concept he really wants to write but doesn't fit in the limitations of the cosmere, he moves it into a non-cosmere book. For example, *[[The Rithmatist\|The Rithmatist]]* started as a cosmere novel, and its magic takes many elements from cosmere magic, but Brandon decided that he did not want a version of Earth in the cosmere, and so moved it to its own universe.
 Brandon does generally plan out which cosmere hints to give to fans, but sometimes he gives hints on the fly. Usually, fans are able to pry much more than he initially intended to tell.
 
 ## Bibliography of the Cosmere
@@ -384,7 +385,7 @@ Brandon does generally plan out which cosmere hints to give to fans, but sometim
 |**2012**|*[[The Emperor's Soul\|The Emperor's Soul]]*|Standalone Novella|[[Sel\|Sel]]|Novella|
 |**2013**|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*|Standalone Novella|[[Threnody\|Threnody]]|Novella|
 |**2014**|*[[Words of Radiance\|Words of Radiance]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2|[[Roshar\|Roshar]]|Novel|
-|*[[Sixth of the Dusk\|Sixth of the Dusk]]*|Standalone Novella|[[First of the Sun\|First of the Sun]]|Novella|
+|*[[Sixth of the Dusk (novella)\|Sixth of the Dusk]]*|Standalone Novella|[[First of the Sun\|First of the Sun]]|Novella|
 |*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|[[/wiki/Mistborn (series)#Era 2]] #1.5|[[Scadrial\|Scadrial]]|Short Story|
 |**2015**|*[[Shadows of Self\|Shadows of Self]]*|[[/wiki/Mistborn (series)#Era 2]] #2|[[Scadrial\|Scadrial]]|Novel|
 |**2016**|*[[The Bands of Mourning\|The Bands of Mourning]]*|[[/wiki/Mistborn (series)#Era 2]] #3|[[Scadrial\|Scadrial]]|Novel|
@@ -402,15 +403,19 @@ Brandon does generally plan out which cosmere hints to give to fans, but sometim
 |**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|Standalone Novel|[[Lumar\|Lumar]]|Novel|
 |*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|Standalone Novel|[[Komashi\|Komashi]]|Novel|
 |*[[The Sunlit Man\|The Sunlit Man]]*|Standalone Novel|[[Canticle\|Canticle]]|Novel|
+|**2024**|*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|[[Roshar\|Roshar]]|Novel|
+|**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|Standalone Novel|[[First of the Sun\|First of the Sun]]|Novel|
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.1|[[Roshar\|Roshar]]|Short Story|
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.2|[[Roshar\|Roshar]]|Short Story|
 
 ### Forthcoming
 For a complete list of possible future stories Brandon has mentioned, see [[Unpublished works\|Unpublished works]].
 The following are confirmed upcoming cosmere stories:
 
-*[[Wind and Truth\|Wind and Truth]]*, the fifth and last book of the first arc of [[The Stormlight Archive\|The Stormlight Archive]], scheduled for release on December 6, 2024.
-*[[Isles of the Emberdark\|Isles of the Emberdark]]*, a novel set in the far future Cosmere announced as a Secret Project alongside the Backerkit campaign for the *[[Words of Radiance\|Words of Radiance]]* leatherbound. It is scheduled to be released in 2025.
-[[/wiki/Mistborn (series)#Era 3]], the next Mistborn series, set to take place when Scadrial has achieved a technology level similar to that of the 1980s. Brandon plans to start writing the first book in January 2025 and hopes to write all three books before the first one is released, like he did with Era 1.
-[[Elantris sequel\|Elantris 2]] and [[Elantris finale\|Elantris 3]], the sequels to *[[Elantris (book)\|Elantris]]*. Expected to be written after The Stormlight Archive book 5 and *Mistborn* Era 2 are done. "In a perfect world," Brandon would write them around the same time he writes *Mistborn* Era 3, but they may come later than that.
+**, series of illustrated of folktales within the cosmere.
+*[[The Fires of December\|The Fires of December]]*, a standalone novel the features [[Hoid\|Hoid]] trapped in an unpleasant situation.
+[[/wiki/Mistborn (series)#Era 3]], the next Mistborn series, set to take place when Scadrial has achieved a technology level similar to that of the 1980s. Brandon started writing the first book in January 2025 and plans to write all three books before the first one is released, like he did with Era 1.
+[[Elantris sequel\|Elantris 2]] and [[Elantris finale\|Elantris 3]], the sequels to *[[Elantris (book)\|Elantris]]*. Brandon plans to start writing these after he finishes the last book of *Mistborn* Era 3 and to release them in-between the releases of *Mistborn* Era 3 books.
 The second arc of [[The Stormlight Archive\|The Stormlight Archive]], which will consist of books six through ten of the series overall. In-world, book six will pick up about a decade after book five ends. Planned to be written after *Mistborn* Era 3 and possibly also the *Elantris* sequels are done.
 *[[Nightblood (book)\|Nightblood]]*, the sequel to *[[Warbreaker\|Warbreaker]]*. Likely won't be written until the *Elantris* sequels and *Mistborn* Era 3 are written.
 The [[Dragonsteel (series)\|Dragonsteel series]], the origin story of [[Hoid\|Hoid]] and the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]]. Brandon is loosely working on it, but the series will not be written until The Stormlight Archive is finished.
@@ -425,13 +430,14 @@ Brandon has been somewhat evasive about the order of cosmere stories, so that th
 [[Mistborn Era 1\|Mistborn Era 1]]
 *[[Warbreaker\|Warbreaker]]* and *[[Nightblood (book)\|Nightblood]]*
 *[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*
-*[[The Stormlight Archive\|The Stormlight Archive]]* (books 1 through 5)
+*[[The Stormlight Archive\|The Stormlight Archive]]* (first arc)
 [[Mistborn Era 2\|Mistborn Era 2]]
-*[[The Stormlight Archive\|The Stormlight Archive]]* (books 6 through 10)
+*[[The Stormlight Archive\|The Stormlight Archive]]* (second arc)
 [[Mistborn Era 3\|Mistborn Era 3]]
-*[[Sixth of the Dusk\|Sixth of the Dusk]]*
+*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*
 *[[The Sunlit Man\|The Sunlit Man]]*
 *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*
+*[[Isles of the Emberdark\|Isles of the Emberdark]]*
 [[Mistborn Era 4\|Mistborn Era 4]]
 ## Further Reading
 

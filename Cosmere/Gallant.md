@@ -6,6 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Gallant** is [[Dalinar Kholin\|Dalinar Kholin's]] [[Ryshadium\|Ryshadium]] steed on [[Roshar\|Roshar]].
 
 ## Contents
@@ -35,6 +37,7 @@ Gallant moved with Dalinar to [[Urithiru\|Urithiru]] after the [[Battle of Narak
 Dalinar became busy with his duties with the [[Coalition of monarchs\|coalition of monarchs]], and didn’t have much time to spend riding Gallant. Adolin began taking care of Gallant and partially bonding to him, and they formed some trust. Adolin was grateful to Gallant for that, though Gallant still missed Dalinar.
 He even allows Adolin to ride him. Gallant joined the delegation to [[Lasting Integrity\|Lasting Integrity]] with Adolin, carrying much of Adolin’s gear, including a variety of weaponry. He let [[Mayalaran\|Mayalaran]] ride on him, and was extra gentle with her. Adolin was comforted that Maya was with Gallant, trusting the horse to take care of her.
 Gallant seemed to instictively know what Adolin needed from him as without explicit signal he galloped towards a running Adolin to rescue [[Notum\|Notum]]. When Adolin was rescuing Notum, Gallant helped somewhat by distracting the [[Tukar\|Tukari]] soldiers when he charged into the battle, snorting.
+When Adolin volunteered to take charge of defending Azimir, he took Gallant along with him. Adolin didn't ride Gallant much in Azimir because most of the fighting was centered around the Oathgate where Gallant would be impractical and would make adolin more of a target than he was already because of his Shards. But when the enemy decided to change the tactic and split the Shardbeares away from the Oathgate, Adolin used Gallant to pull a massive ralkalest (aluminum) chain to stop a thunderclast. After greasing the ground and failing to use the chain, Adolin told Gallant to run to the stables to be safe. After Gallant retreated, Adolin took the thunderclast down but lost a leg to do so.
 
 
 

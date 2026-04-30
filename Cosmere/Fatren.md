@@ -32,7 +32,7 @@ The people of Vetitan came with Elend's army, and Elend exposed them to the mist
 
 ## Relationships
 ### Elend Venture
->“*Well, this newcomer certainly knows how to command people.*”
+>“*Well, this newcomer certainly knows how to command people. *”
 \-Fatren thinking about Elend.[1]
 
 

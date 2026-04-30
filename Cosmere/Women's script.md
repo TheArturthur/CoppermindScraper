@@ -5,7 +5,9 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-The **women's script** is an alphabetic writing system used in [[Vorin\|Vorin]] nations, such as [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]], on [[Roshar\|Roshar]]. The script is a phonetic alphabet, meaning each symbol, or "grapheme", denotes a particular sound, or "phoneme", and is written left to right starting in the top left hand corner of a page. Each letter is determined by shape and size, and can be modified by the presence of one or two small lines after it. As is indicated by the name, it is almost exclusively used by women, as writing is considered a feminine pursuit. The women's script is distinctly different from [[Glyphs\|glyphs]], which are a more logographic writing system (albeit with a phonetic component), which men are also allowed to learn.
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+The **women's script** is an alphabetic writing system used in [[Vorin\|Vorin]] nations, such as [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]], on [[Roshar\|Roshar]]. The script is a phonetic alphabet, meaning each symbol, or "grapheme", denotes a particular sound, or "phoneme", and is written left to right starting in the top left hand corner of a page. Each letter is determined by shape and size, and can be modified by the presence of one or two small lines after it. As is indicated by the name, it is almost exclusively used by women, as writing is considered a feminine pursuit. The women's script is distinctly different from [[Glyphs\|glyphs]], which are a more logographic writing system (albeit with a phonetic component), which men are also allowed to learn.  
 
 ## Contents
 
@@ -32,6 +34,7 @@ Within each set the characters are defined by height and the addition of shorter
 
 ### Punctuation
 Women's script has only one known character for punctuation. It is a single vertical line with two small, horizontal lines at the top and bottom. It is written at the beginning of a sentence and it defines the maximum character height. Questions are marked by adding “ha” at the end of the last word in the sentence. There is also a question mark present in Navani's sketch in *Oathbringer* on page 447, but judging by the handwriting this was added later by [[Nazh\|Nazh]] and is not part of the women's script. There is also a diacritic mark denoting if a letter in an otherwise symmetrical word is pronounced “h,” but it is currently unknown what this looks like, only that it is present both above and below the letter. It is unknown what other punctuation exists, if any, as no other examples have been observed.
+A word can be emphasized by placing certain diacritical marks above and below the word;
 
 ### Women's Script Characters
 |**Set**|**Starting Punctuation**|**First**|**Second**|**Third**|**Fourth**|**Fifth**|

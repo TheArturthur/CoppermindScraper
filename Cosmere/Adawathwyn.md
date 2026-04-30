@@ -8,10 +8,10 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-**Adawathwyn** is a former vice governor of [[Elendel\|Elendel]] under Governor [[Varlance\|Varlance]]. Adawathwyn is a [[Terris\|Terris]] [[/wiki/Zinc#Feruchemical Use]].
+**Adawathwyn** is a former vice governor of [[Elendel\|Elendel]] under Governor [[Varlance\|Varlance]]. Adawathwyn is a [[Terris\|Terris]] [[/wiki/Zinc#Feruchemical Use]]. 
 
 ## Appearance and Personality
-Adawathwyn has curly brown hair and dark brown eyes. She outwardly appears to be just a token representative for the Terris people, but Varlance is in her pocket for most of his term. He relies on her for almost every action, and she frequently pushes him around on major decisions.
+Adawathwyn has curly brown hair and dark brown eyes. She outwardly appears to be just a token representative for the Terris people, but Varlance is in her pocket for most of his term. He relies on her for almost every action, and she frequently pushes him around on major decisions. 
 
 ## History
 Adawathwyn became the Vice Governor of Elendel under Governor [[Varlance\|Varlance]]. She was involved in almost every policy decision he took.

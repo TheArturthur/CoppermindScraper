@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Mem** is a washwoman in the employ of [[Mraize\|Mraize]].
+**Mem** is a washwoman in the employ of [[Mraize\|Mraize]] on [[Roshar\|Roshar]].
 
 ## Contents
 

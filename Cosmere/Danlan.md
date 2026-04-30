@@ -28,7 +28,7 @@ Brightness **Danlan Morakotha** is an [[Alethi\|Alethi]] woman who courted [[Ado
 
 ## Appearance and Personality
 Danlan is extremely pretty. She has a graceful figure with a long neck, and her hair has more foreign auburn stripes than black Alethi stripes. She wears a sleek dress that covers her [[Safehand\|safehand]] and an ornate braided hairstyle with steel hair spikes. Her voice is soft, with a breathy and husky tone.
-Danlan is an extremely intelligent woman, but she often acts less clever than she really is in an attempt at humility, and is annoyed when Adolin points it out. She is polite and seems well-versed in the traditions of Alethi nobility. Danlan is also quite fond of [[Avramelon\|avramelons]] and enjoys drinking wine, often coordinating her [[/wiki/Roshar#Wines]] with her outfit. She is seen drinking violet wine, the strongest available.
+Danlan is an extremely intelligent woman, but she often acts less clever than she really is in an attempt at humility, and is annoyed when Adolin points it out. She is polite and seems well-versed in the traditions of Alethi nobility.  Danlan is also quite fond of [[Avramelon\|avramelons]] and enjoys drinking wine, often coordinating her [[/wiki/Roshar#Wines]] with her outfit. She is seen drinking violet wine, the strongest available.
 
 ## Attributes and Abilities
 Danlan is presumably of noble birth; she worked with [[Elhokar\|Elhokar's]] scribes in [[Kholinar\|Kholinar]] and Adolin had no misgivings about courting her. She is familiar with the use of a [[Spanreed\|spanreed]] and is able to read and write in [[Women's script\|women's script]].
@@ -45,7 +45,7 @@ Although Adolin did not know Danlan well, he was attracted to her and was commit
 
 ### Graves's Conspiracy
 As a member of the Diagram, she was part of [[Graves\|Graves's]] plot to kill [[Elhokar\|Elhokar]] and replace him with [[Dalinar\|Dalinar]]; she was present when [[Moash\|Moash]] brought [[Kaladin\|Kaladin]] to meet with Graves and several co-conspirators. Her personal experience with Elhokar's lax approach to lawmaking led her to believe that he was incompetent. She fervently believed that Dalinar would be a better king, and wanted to force the issue before Elhokar did further damage to the kingdom.
-Danlan was not with Graves or Moash during the final assassination attempt nor when they fled the Shattered Plains.
+Danlan was not with Graves or Moash during the final assassination attempt nor when they fled the Shattered Plains. She attempted to kill Elhokar while he was hiding with [[Lopen\|Lopen's]] family, but failed.
 
 ### Disbanding of the Diagram
 When [[Taravangian\|Taravangian]] disbanded the Diagram prior to the betrayal of the [[Coalition of monarchs\|coalition of monarchs]] in [[Emul\|Emul]], he recommended that middling members who "knew too much" should not be released back into the general population and should instead be sent on long "secret quests" to distant locations. He specifically recommended that Danlan be assigned such a task.

@@ -1,4 +1,4 @@
-**Ars Arcanum** is a glossary or appendix section at the end of the books that are part of the [[Cosmere\|cosmere]] universe. The information is presented from an in-universe perspective.
+**Ars Arcanum** is a glossary or appendix section at the end of many of the books that are part of the [[Cosmere\|cosmere]]. The information is presented from an in-universe perspective.
 Every Ars Arcanum is written by [[Khriss\|Khriss]]. The annotations on many of the images from the various books are made by her assistant [[Nazh\|Nazh]].
 [[Brandon Sanderson\|Brandon]] initially planned to use the phrase "Ars Magica" for these glossaries, as he felt it was "a cool Latinate take on 'Magical Arts' or 'Magical Skills'." However, there was a role-playing game with that name, so he instead went with "Ars Arcanum," which he ultimately felt had more of a true-Latinate feel.
 
@@ -32,7 +32,7 @@ The books in the [[Mistborn series\|Mistborn series]] each have an Ars Arcanum w
 The Ars Arcanum in *[[Warbreaker\|Warbreaker]]* includes a table showing the abilities granted by the different [[Heightening\|Heightenings]] of [[BioChromatic Breath\|BioChromatic Breath]].
 
 ### The Stormlight Archive
-The Ars Arcanum in [[The Stormlight Archive\|The Stormlight Archive]] gives detailed information about the [[Ten Essences\|Ten Essences]], as well as descriptions of the different [[Surge\|Surges]] and how they are used by [[Surgebinder\|Surgebinders]]. Some information has been added in each book: a [[/wiki/Surgebinding#Illumination]] section appears in *[[Words of Radiance\|Words of Radiance]]* and *[[Oathbringer\|Oathbringer]]* contains an additional section about [[Soulcasting\|Soulcasting]]. *[[Rhythm of War\|Rhythm of War]]* contains an additional section about the [[Surge\|Surge]] of [[Cohesion\|Cohesion]], particularly focusing on its use in shaping stone, and mentioned [[Microkinesis\|microkinesis]].
+The Ars Arcanum in [[The Stormlight Archive\|The Stormlight Archive]] gives detailed information about the [[Ten Essences\|Ten Essences]], as well as descriptions of the different [[Surge\|Surges]] and how they are used by [[Surgebinder\|Surgebinders]]. Some information has been added in each book: a [[/wiki/Surgebinding#Illumination]] section appears in *[[Words of Radiance\|Words of Radiance]]* and *[[Oathbringer\|Oathbringer]]* contains an additional section about [[Soulcasting\|Soulcasting]]. *[[Rhythm of War\|Rhythm of War]]* contains an additional section about the [[Surge\|Surge]] of [[Cohesion\|Cohesion]], particularly focusing on its use in shaping stone, and mentioned [[Microkinesis\|microkinesis]]. *[[Wind and Truth\|Wind and Truth]]* does not have an Ars Arcanum, in order to decrease the book's word count.
 
 
 

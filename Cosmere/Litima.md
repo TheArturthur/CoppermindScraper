@@ -20,7 +20,7 @@ Brightness **Litima** is a [[Lighteyes\|lighteyed]] [[Alethi\|Alethi]] woman and
 She is tall and plump, and wears a violet [[Havah\|havah]] with yellow trim.
 
 ## Attributes and Abilities
-She is a senior scribe and is able to read and write in [[Women's script\|women's script]]. She is also skilled in the use of [[Spanreed\|spanreeds]]. She has a young ward.
+She is a senior scribe and is able to read and write in [[Women's script\|women's script]].  She is also skilled in the use of [[Spanreed\|spanreeds]]. She has a young ward.
 
 ## History
 Dalinar had Litima read him passages from *[[The Way of Kings (in-world)\|The Way of Kings]]* in his living quarters on the [[Shattered Plains\|Shattered Plains]]. She was present when Dalinar received a [[Spanreed\|spanreed]] from [[Jasnah\|Jasnah]] regarding her research in [[Kharbranth\|Kharbranth]], but she deferred to the recently arrived [[Danlan Morakotha\|Danlan Morakotha]] to read and reply to it.

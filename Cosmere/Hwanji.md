@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-**Hwanji** is a young [[Torish\|Torish]] woman who works as an attendant to [[Yoki-hijo\|yoki-hijo]] [[Yumi\|Yumi]].
+**Hwanji** is a young [[Torish\|Torish]] woman who works as an attendant to the [[Yoki-hijo\|yoki-hijo]], [[Yumi\|Yumi]].
 
 ## Appearance and Personality
 Hwanji appears to be in her twenties. She has a short, plump figure and a notably pale complexion. Her face is round, and she wears her hair in a bun.

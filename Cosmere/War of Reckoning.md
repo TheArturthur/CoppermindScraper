@@ -25,6 +25,7 @@ The **War of Reckoning** was a conflict on [[Roshar\|Roshar]] between [[Alethkar
 3. [[#The Battle of the Tower]] 
 3. [[#Stormform and the Failed Peace Talks]] 
 3. [[#The Battle of Narak]] 
+3. [[#Aftermath]] 
 
 
 4 Warfare. [[#Warfare]] 
@@ -84,7 +85,7 @@ Dalinar and the remnants of his army were saved by [[Bridge Four\|Bridge Four]] 
 
 ### Stormform and the Failed Peace Talks
 Seeing the steady decline of her people and becoming war-weary, Eshonai was eager to find a way out of the protracted war. She had been planning to approach Dalinar Kholin and sue for peace. However her sister, the scholar [[Venli\|Venli]], did not believe such a plan would work. Instead, Venli argued that they should use a [[/wiki/Singer#Forms of Power]] in order to defeat the Alethi.
-Secretly guided by the voidspren [[Ulim\|Ulim]], Venli had previously captured a [[Stormspren\|stormspren]], a spren that granted [[Stormform\|stormform]]. This Form of Power was believed to allow the summoning and control of storms. Eshonai initially protested the idea due to the form's connection to [[Fused\|their hated gods]]. However, after the other leaders sided with Venli, Eshonai ended up volunteering to experiment with stormform to see what it does.
+Secretly guided by the voidspren [[Ulim\|Ulim]], Venli had previously captured a [[Stormspren\|stormspren]], a spren that granted [[Stormform\|stormform]]. This form of power was believed to allow the summoning and control of storms. Eshonai initially protested the idea due to the form's connection to [[Fused\|their hated gods]]. However, after the other leaders sided with Venli, Eshonai ended up volunteering to experiment with stormform to see what it does.
 Prior to bonding the stormspren, and with the help of Dalinar's son [[Adolin\|Adolin]] and the listener warrior [[Thude\|Thude]], Eshonai was finally able to arrange a meeting with Dalinar to discuss a possible end to the war. The plan was for the meeting to happen in seven days. Having received confirmation of the arrangement, Eshonai went out to experiment with stormform.
 Stormform gave Eshonai a different kind of armor and the ability to jump chasms more easily. She started attuning to a new set of [[/wiki/Singer#Rhythms]] that were more aggressive. More importantly, the new form changed Eshonai's personality, making her more arrogant and belligerent. She abandoned her plan to negotiate. Instead, she challenged the Alethi to try and destroy her people if they could. She planned to lure the whole Alethi army out far away from their warcamps and destroy them with a summoned highstorm.
 Along with Venli, Eshonai organized the adoption of stormform for all of their people. A few of the listeners did not agree to this plan and managed to escape. [[Rlain\|Rlain]], a listener spy who infiltrated the Alethi army and joined [[Bridge Four\|Bridge Four]], returned from his espionage mission, and discovered the new stormform army. He decided not to join them.
@@ -99,6 +100,9 @@ Having been warned by Rlain that the stormforms' song will bring destruction, Da
 Szeth arrived on the battlefield on a mission from [[Taravangian\|Taravangian]] to assassinate Dalinar, but was thwarted by [[Kaladin\|Kaladin]]. [[Shallan Davar\|Shallan Davar]] managed to find and activate the ancient [[Oathgate\|Oathgate]] within the city, and the surviving Alethi army was safely transported to [[Urithiru\|Urithiru]] before the combined Everstorm and highstorm destroyed the whole city of Narak.
 The surviving remnants of the stormform army eventually ended up as vessels for the [[Fused\|Fused]], the immortal commanders of [[Odium\|Odium's]] army that returned through the Everstorm. The exception was Venli, whom Odium spared for his own purposes.
 The non stormform listeners who escaped into the chasms survived with the help of a chasmfiend.
+
+### Aftermath
+The War of Reckoning brought about the circumstances that forced the Listeners into accepting Odium and bringing about the Everstorm, which would impact people and institutions on a global scale. Thus, it is a major conflict in Rosharan history, which influenced all nations on the planet.
 
 ## Warfare
 Having to battle on the [[Shattered Plains\|Shattered Plains]], with its unique chasm-filled terrain, brought some notable characteristics to the war.

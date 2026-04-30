@@ -2,11 +2,13 @@
 |-|-|
 |**[[Lopen's family\|Lopen's family]]**|
 |**Relatives**|[[Lopen\|Lopen]]|
+|**Nationality**|[[Herdazian\|Herdazian]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-**Chilinko** is one of [[Lopen\|Lopen's]] uncles on [[Roshar\|Roshar]].
-Chilinko lived in Highprince [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. In 1173, he helped Lopen hide King [[Elhokar Kholin\|Elhokar Kholin]] at [[Lopen's mother\|his mother's]] home after the attempt on the king's life. Chilinko reported Sebarial's orders that the warcamp needed to prepare to evacuate. He had heard rumors that something had been discovered out on the Plains, but he was unsure of any details. After Lopen learns he can inhale [[Stormlight\|Stormlight]], he calls for Chilinko to return, so that he can stick him to a wall.
+**Chilinko** is one of [[Lopen\|Lopen's]] uncles on [[Roshar\|Roshar]]. He is very talkative and has an unsightly "broken" toe.
+Chilinko lived in Highprince [[Sebarial\|Sebarial's]] warcamp on the [[Shattered Plains\|Shattered Plains]]. In 1173, he helped Lopen hide King [[Elhokar Kholin\|Elhokar Kholin]] at [[Lopen's mother\|his mother's]] home after the attempt on the king's life. Chilinko reported Sebarial's orders that the warcamp needed to prepare to evacuate. He had heard rumors that something had been discovered out on the Plains, but he was unsure of any details. After Lopen learned he could inhale [[Stormlight\|Stormlight]], he called for Chilinko to return so that he could stick him to a wall. Chilinko was shocked to see Lopen regrowing his arm.
 
 
 

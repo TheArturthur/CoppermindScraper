@@ -40,7 +40,7 @@ Iadon follows the [[Jeskeri Mysteries\|Jeskeri Mysteries]], a fact discovered by
 
 ## Relationships
 ### Eshen
-Iadon married [[Eshen\|Eshen]] for exclusively political reasons. As he does with other women, he considers her stupid, superficial and focused on things like fashion. He speaks with her only when necessary.
+Iadon married [[Eshen\|Eshen]] for exclusively political reasons. As he does with other women, he considers  her stupid, superficial and focused on things like fashion. He speaks with her only when necessary.
 
 
 

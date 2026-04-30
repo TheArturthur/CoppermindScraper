@@ -21,7 +21,7 @@
 
 
 ## Appearance and Personality
-He has tan [[Kerztian\|Kerztian]] skin and long brown hair. He wears the colors of the Guild, purple and white.
+He has tan [[Kerztian\|Kerztian]] skin and long brown hair. He wears the colors of the Guild, purple and white. 
 
 ## History
 In the first vote of the Taishin, Vey voted to dissolve the [[Diem\|Diem]]. His Profession, the Guild, was the only Profession which was continuing to pay tribute to the Diem.

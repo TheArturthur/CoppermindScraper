@@ -76,7 +76,7 @@ The Last Desolation was a large scale Desolation which occurred circa -3332, aro
 After the Last Desolation, Desolations ceased to ravage the nation. Due to this, society was able to advance much further than ever before, giving them the strength to potentially resist any potential Desolation without complete societal collapse. The era heralded by the Last Desolation came to be known as the Era of Solitude.
 
 #### After Aharietiam
-At some unknown point in history, after Aharietiam, Rishir collapsed. 4500 years after the Last Desolation, the area that was ruled by Rishir had fractured into many kingdoms and tribes. Foremost among these kingdoms is the kingdom of [[Herdaz\|Herdaz]], but Kurth, the capital, was taken over by [[Rira\|Rira]] and the Reshi isles declared themselves independent, with each island being ruled over by a different king.
+At some unknown point in history, after Aharietiam, Rishir collapsed. 4500 years after the Last Desolation, the area that was ruled by Rishir had fractured into many kingdoms and tribes. Foremost among these kingdoms is the kingdom of [[Herdaz\|Herdaz]], but Kurth, the capital, was taken over by [[Rira (country)\|Rira]] and the Reshi isles declared themselves independent, with each island being ruled over by a different king.
 
 
 

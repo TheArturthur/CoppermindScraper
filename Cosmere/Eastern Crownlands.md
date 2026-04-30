@@ -29,7 +29,7 @@ Rathalas was once the largest city in the area, although it was reduced to ruins
 ## History
 The Eastern Crownlands were conquered by [[Gavilar Kholin\|Gavilar Kholin]] during his quest to unite Alethkar into a single kingdom. Prior to this, the land was part of a princedom. The Crownlands became the property of the king, providing income to the throne and lands for the king to award to lords.
 The city of Rathalas and its leaders rebelled against Gavilar's rule both before and after the unification of the country. Gavilar believed that the rebellion in Rathalas could lead the entirety of the Crownlands to attempt secession. After attempts to politically quell the situation failed, [[Dalinar Kholin\|Dalinar Kholin]] and [[Torol Sadeas\|Torol Sadeas]] marched on Rathalas and razed the city to set an example for the other highprinces. During this battle, Dalinar's wife, [[Evi Kholin\|Evi Kholin]], was accidentally killed on Dalinar's orders. Her death was blamed on the rebels as a cover-up.
-During the [[True Desolation\|True Desolation]], Dalinar awarded some land in the area to [[Kaladin\|Kaladin]], noting that it may have already been occupied by the [[Singer\|singer]] forces that were invading Alethkar.
+During the [[True Desolation\|True Desolation]], [[Elhokar\|Elhokar]] awarded some land in the area to [[Kaladin\|Kaladin]], and Dalinar noted that it may have already been occupied by the [[Singer\|singer]] forces that were invading Alethkar.
 
 ## Culture
 People of the Eastern Crownlands, particularly those from Rathalas, have a distinctive nasal accent.

@@ -21,7 +21,7 @@
 
 
 ## Appearance and Personality
-Mellis has brown hair and tan skin. He is of average height, with an athletic build. He seems to support Ais in her work as a [[Trackt\|trackt]], but is nervous about the danger it creates for their family. Mellis is Lossandin, unlike his wife Ais, who is [[Kerztian\|Kerztian]].
+Mellis has brown hair and tan skin. He is of average height, with an athletic build. He seems to support Ais in her work as a [[Trackt\|trackt]], but is nervous about the danger it creates for their family. Mellis is Lossandin, unlike his wife Ais,  who is [[Kerztian\|Kerztian]].
 
 ## History
 Mellis lived in Lossand with Ais and Melloni. Due to Ais's long and irregular hours, he would take care of the household, performing tasks such as cooking meals and caring for Melloni.

@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 This article's title is uncanonical and a fan created one, because an official term or name has not been made yet.
->“*The way these people seemed to be constantly wreathed in shadow . . . it was unnerving.*”
+>“*The way these people seemed to be constantly wreathed in shadow . . . it was unnerving. *”
 \-Adolin’s describing the Tukari[1]
 
 

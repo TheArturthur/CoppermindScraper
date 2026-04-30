@@ -45,7 +45,7 @@ When someone dies, or is in danger of dying, their wife or daughters will create
 For personal protection, a person can wear an unburned glyphward around their arm. It's also considered prudent to have a glyphward when being near a person of suspect moral character, such as a [[Stormwarden\|stormwarden]] or a [[Knight Radiant\|Knight Radiant]].
 
 
-Some prayers are specific to particular events in a person's life.
+Some prayers are specific to particular events in a person's life. 
 
 A **bride's prayer** is a glyphward made of a glyphpair that a woman who is to be married sews onto her sleeve. After the engagement is formally announced, such a prayer is then removed and burned.
 During a wedding, the bride will receive multiple glyphwards.

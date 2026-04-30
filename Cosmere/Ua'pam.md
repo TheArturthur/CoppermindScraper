@@ -32,7 +32,7 @@ Ua'pam doesn't speak much, and he has a "grinding" voice. He sometimes audibly r
 
 ## Attributes and Abilities
   With <<Zu (Roshar)\|Zu>>, in Shadesmar
-Ua'pam shares a [[Nahel bond\|Nahel bond]] with Zu, granting him sapience in the [[Physical Realm\|Physical Realm]]. Zu is able to manifest Ua'pam as a [[Shardblade\|Shardblade]]; she prefers a very long, thin, curved Blade, but she actively changes its shape as needed.
+Ua'pam shares a [[Nahel bond\|Nahel bond]] with Zu, granting him sapience in the [[Physical Realm\|Physical Realm]], and Zu the powers of a [[Order of Stonewards\|Stoneward]]. Zu is able to manifest Ua'pam as a [[Shardblade\|Shardblade]]; she prefers a very long, thin, curved Blade, but she actively changes its shape as needed.
 Ua'pam is able to manifest objects in Shadesmar. He has the rare ability to sense the soul of an object, although he can only get a somewhat indistinct perception of its nature. To manifest the object in the [[Cognitive Realm\|Cognitive Realm]], he takes the corresponding bead in Shadesmar and uses inhaled [[Stormlight\|Stormlight]] to make it reflect its physical nature; doing so seems to be physically taxing. When the object appears in the [[Cognitive Realm\|Cognitive Realm]], he can sometimes be surprised by its particular characteristics. Ua'pam is particularly skilled with this process, more so than his cousin [[Unativi\|Unativi]]. His manifestations can last a long time, even without any reinfusion of Stormlight.
 He is also familiar with [[Mandra\|mandra]]-powered transportation in Shadesmar, and knows how to help Unativi prepare his barge for flight. He has a relatively high level of familiarity with the geography of Shadesmar, including some caravan routes.
 

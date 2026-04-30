@@ -19,7 +19,7 @@
 
 
 ## Appearance and Personality
-He is a "stocky, bejowled fellow." Like the rest of the Wall Guard, he is [[Lighteyes\|lighteyed]], presumably of the fourth [[Dahn\|dahn]] due to his rank.
+He is a "stocky, bejowled fellow." Like the rest of the Wall Guard, he is [[Lighteyes\|lighteyed]], presumably of the fourth [[Dahn\|dahn]] due to his rank. 
 
 ## Attributes and Abilities
 It is not known how Hadinar came to serve in the Wall Guard, but he appears to be very knowledgeable regarding Kholinar. He commanded one of the four battalions of the Wall Guard under Azure. He is one of her primary officers, and appears to be the one that she trusts the most. He is aware of several secrets held by Azure, including her gender and the method that she was using to prevent detection of a [[/wiki/Soulcasting#Fabrials]] by the [[Screamers\|screamers]].

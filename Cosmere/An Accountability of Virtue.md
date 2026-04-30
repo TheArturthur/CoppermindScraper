@@ -16,7 +16,7 @@
 
 
 ## Plot
-Wema received the attentions of two Brightlords, Brightlord Sterling, an officer, and Brightlord Vadam, a man given land by the highprince. Initially, Wema only desires Sterling despite Vadam being the more financially prosperous of the two men. Her uncle, however, advocates for her to choose Vadam despite the fact that Vadam locked away her father. This leads her to doubt her choice when Sterling makes his affection for her clear.
+Wema received the attentions of two Brightlords, Brightlord Sterling, an officer, and Brightlord Vadam, a man given land by the highprince. Initially, Wema only desires Sterling despite Vadam being the more financially prosperous of the two men. Her uncle, however, advocates for her to choose Vadam despite the fact that Vadam locked away her father. This leads her to doubt her choice when Sterling makes his affection for her clear. 
 Wema's hesitation in responding to Sterling's affection nearly causes her to lose him for good. He tells her he will leave for the [[Shattered Plains\|Shattered Plains]], and she realizes both the vulnerability and respect in his regard for her. She tells him to wait and rushes to him, choosing Sterling over Vadam in the end.
 
 ## Sequel

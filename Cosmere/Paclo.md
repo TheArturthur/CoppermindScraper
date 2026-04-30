@@ -4,7 +4,7 @@
 |**Residence**|[[Weathering\|Weathering]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Alloy of Law\|Alloy of Law]]*|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 >“*I once saw him stare down six men with guns trained on him, and he didn't break a sweat.*”
 \-Wax on Paclo's bravery[1]

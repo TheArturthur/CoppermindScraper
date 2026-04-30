@@ -16,7 +16,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It’s not as bad as it seems, Kaladin... Things are never as bad as they seem. You’ll see.*”
 \-Tien to Kaladin[2]
@@ -111,6 +111,7 @@ Many years later, when Kaladin is attempting suicide after [[Teft\|Teft's]] deat
 ## Trivia
 There was no specific inspiration for the relationship between Kaladin and Tien; instead it grew naturally out of Kaladin's characterization. Brandon has also said he has a preference away from family relationships that cause isolation, as he finds the dynamics within families interesting and important to readers.
 It is mostly a coincidence that Tien, a surgeon's son, has a name that contains the [[/wiki/Aon#Ien]].
+Brandon noted that Tien would make a good hypothetical ringbearer in Lord of the Rings.
 
 
 https://coppermind.net/wiki/Tien

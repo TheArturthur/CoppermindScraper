@@ -4,7 +4,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 This page refers to the Origin of Storms on Roshar. For the Origin on Scadrial, see [[Catacendre\|Catacendre]].
-The **Origin of Storms**, often referred to as simply the **Origin**, is an area on [[Roshar\|Roshar]] where [[Highstorm\|highstorms]] are thought to be formed. Although it has never been reliably documented, it's believed to exist far to the east of the planet's main landmass, possibly in or across the [[Ocean of Origins\|Ocean of Origins]].
+The **Origin of Storms**, often referred to as simply the **Origin**, is an area on [[Roshar\|Roshar]] where [[Highstorm\|highstorms]] are thought to be formed and where [[Stormlight\|Stormlight]] is most powerful. Although it has never been reliably documented, it's believed to exist far to the east of the planet's main landmass, possibly in or across the [[Ocean of Origins\|Ocean of Origins]]. Due to its lack of reliable documentation, it is thought to be mythical.
 
 ## Significance
 As the presumptive source of highstorms, the Origin is hugely important to Rosharans. The nature of the flora and fauna on Roshar is heavily influenced by local climates that are dominated by the storms, which are strongest in the east where they make landfall. Many buildings, particularly those in eastern Roshar, have features such as doors, balconies, patios, and gardens facing away from the Origin, so as to protect them from storm winds and debris. This arrangement is so common that people may feel uneasy in spaces that face the Origin. However, some humans and [[Singer\|singers]], notably [[Dalinar\|Dalinar]] and [[Eshonai\|Eshonai]], often gaze towards the Origin in contemplation.

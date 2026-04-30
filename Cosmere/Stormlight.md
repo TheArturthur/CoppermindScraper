@@ -6,13 +6,13 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*If you looked deeply into a stone, you could see the Light shifting with the chaotic pattern of a blowing storm. It was not calm inside. Not by a wind or a whisper.*”
 \-Kaladin[1]
 
 
-**Stormlight** (Alethi: *Zeradoreh*) is a form of gaseous [[Investiture\|Investiture]] brought by the [[Highstorm\|highstorms]] of [[Roshar\|Roshar]].
+**Stormlight** (Alethi: *Zeradoreh*) is a form of gaseous [[Investiture\|Investiture]] associated with [[Honor\|Honor]] and brought by the [[Highstorm\|highstorms]] of [[Roshar\|Roshar]] until the [[True Desolation\|True Desolation]]. A form of proto-Stormlight existed prior to the [[Shattering\|Shattering]]. Following the birth of [[Retribution\|Retribution]] and the start of the [[Night of Sorrows\|Night of Sorrows]], Stormlight becomes inaccessible on Roshar.
 
 ## Contents
 
@@ -20,8 +20,8 @@
 2 Appearance and Properties. [[#Appearance and Properties]] 
 3 Uses. [[#Uses]] 
 
-3. [[#Magic fuel]] 
-3. [[#Healing and sustenance]] 
+3. [[#Magic Fuel]] 
+3. [[#Healing and Sustenance]] 
 3. [[#Farming]] 
 3. [[#Currency]] 
 
@@ -33,7 +33,7 @@
 ## Origin
   <<Dalinar\|Dalinar>> bringing the Realms together, summoning Stormlight
 >“*Honor's power, during a storm, is concentrated in one place. It pierces all three realms and brings Physical, Cognitive, and Spiritual together momentarily in one. The gemstones, exposed to the wonder of the Spiritual Realm, are lit by the infinite power there.*”
-\-The Stormfather[3]
+\-The Stormfather[5]
 
 
 Stormlight comes directly from the [[Spiritual Realm\|Spiritual Realm]], leaking into the [[Physical Realm\|Physical]] and the [[Cognitive Realm\|Cognitive]] as the three are brought closer together. This typically happens on Roshar during a [[Highstorm\|highstorm]]. As the storm passes, any spheres exposed to it are infused with Stormlight near its end. At the same time, it arrives in [[Shadesmar\|Shadesmar]] as a wave of light high in the sky. There, [[Spren\|spren]] absorb it directly.
@@ -42,18 +42,18 @@ In the present, it appears that the [[Stormfather\|Stormfather]] -- and, by exte
 
 ## Appearance and Properties
 Stormlight appears as luminescent white vapor with a faint blue tint. When free, it behaves similarly to smoke, dissipating in puffs and leaving trails when its source moves. [[Gemstone\|Gemstones]] left outside during a [[Highstorm\|highstorm]] absorb it, becoming infused, which manifests as the gems glowing. The amount of Stormlight collected is not directly proportional to the strength of the highstorm.
-Absorbed Stormlight, if unused, will eventually begin leaking out through miniscule cracks in the gemstones. The speed at which it leaks varies depending on its current vessel. A person can only hold Stormlight for a few minutes at most, while a gemstone will hold it for several days -- the ones used as currency glow for about a week, while bigger gems last a while longer. [[Perfect gemstone\|Perfect gemstones]], like the [[King's Drop\|King's Drop]], can hold it for centuries, if not forever. When leaking from gems, Stormlight assumes their color. It can be transferred from one gemstone to another through various means, such as using tuning forks that resonate to Honor's pure tone.
-Stormlight is stored in gemstones similar to [[Voidlight\|Voidlight]], but these two types of light cannot be stored in the same gemstone. Stormlight leaks significantly faster than Voidlight. Even when trapped in a sphere or gemstone, Stormlight (and other [[Lights\|Lights]] as well as [[Spren\|Spren]]) is unable to leave the Rosharan system due to its [[Connection\|Connection]]. [[Mraize\|Mraize]] describes the vessel growing heavier and heavier the farther from Roshar it gets, eventually growing immovable. He also hints that he or the [[Ghostbloods\|Ghostbloods]] have circumnavigated this issue. Though he refuses to go into detail. 
+Absorbed Stormlight, if unused, will eventually begin leaking out through miniscule cracks in the gemstones. The speed at which it leaks varies depending on its current vessel. A person can only hold Stormlight for a few minutes at most, while a gemstone will hold it for several days -- the ones used as currency glow for about a week, while bigger gems last a while longer. [[Perfect gemstone\|Perfect gemstones]], like the [[King's Drop\|King's Drop]], can hold it for centuries, if not forever. When leaking from gems, Stormlight assumes their color. It can be transferred from one gemstone to another through various means, such as using tuning forks that resonate to Honor's pure tone. [[Aluminum\|Aluminum]] cannot prevent Stormlight leakage, as it is leaking directly into the Spiritual Realm.
+Stormlight is stored in gemstones similar to [[Voidlight\|Voidlight]], but these two types of light cannot be stored in the same gemstone. Stormlight leaks significantly faster than Voidlight. Even when stored in a sphere or gemstone, Stormlight (and other [[Lights\|Lights]], as well as [[Spren\|spren]]) is unable to leave the Rosharan system due to its [[Connection\|Connection]]. [[Mraize\|Mraize]] describes the vessel growing heavier and heavier the farther from Roshar it gets, eventually growing immovable. This can be circumnavigated by blanking its [[Identity\|Identity]].
 
 ## Uses
   <<Shallan\|Shallan>> using Stormlight for <<Illumination\|Illumination>>
-### Magic fuel
+### Magic Fuel
 For more information, see [[Surgebinding\|Surgebinding]].
-Stormlight is the primary fuel of [[Surgebinding\|Surgebinding]] abilities. To absorb it, a Surgebinder breathes it in from sources such as gemstones or the [[Highstorm\|highstorm]] itself. When inhaled, Stormlight gives the user a sensation of increased energy, restlessness and desire to move, with several people comparing it to a storm raging inside them. While held, it will automatically heal wounds, exhaustion and even conditions such as poisoning or drunkenness. If the Surgebinder is pregnant, then the child can also be healed by Stormlight. Stormlight doesn't give the Surgebinder much additional raw strength. It can also be consumed to power the use of [[Surge\|Surges]].
+Stormlight is the primary fuel of [[Surgebinding\|Surgebinding]] abilities for [[Knights Radiant\|Knights Radiant]] and [[Honorbearers\|Honorbearers]] before the formation of [[Retribution\|Retribution]]. To absorb it, a Surgebinder breathes it in from sources such as gemstones or the [[Highstorm\|highstorm]] itself. When inhaled, Stormlight gives the user a sensation of increased energy, restlessness and desire to move, with several people comparing it to a storm raging inside them. While held, it will automatically heal wounds, exhaustion and even conditions such as poisoning or drunkenness. If the Surgebinder is pregnant, then the child can also be healed by Stormlight. Stormlight doesn't give the Surgebinder much additional raw strength. It can also be consumed to power the use of [[Surge\|Surges]].
 There are other methods of obtaining Stormlight, such as the method used by [[Vasher\|Vasher]], which can be used by others. Stormlight can serve as replacement for other forms of [[Investiture\|Investiture]], most notably [[Breath\|Breath]]. A [[Returned\|Returned]] can survive off consuming it. Likewise, [[Nightblood\|Nightblood]] can be fuelled by Stormlight, and when unsheathed, will begin to absorb it from its environment before going for living beings. It's possible to transform Stormlight into Breath and use it in [[Awakening\|Awakening]], though that is noted as extremely difficult, with neither [[Vasher\|Vasher]], [[Vivenna\|Vivenna]], or [[Hoid\|Hoid]] having figured out how to achieve this so far.
 [[Fabrial\|Fabrials]] will not function unless the gems comprising them are infused with Stormlight.
 
-### Healing and sustenance
+### Healing and Sustenance
 Even for non-Surgebinders, Stormlight has minor healing properties. Rosharans are notably healthier than people from other planets, and fall sick less often because there is generally more Investiture around. Plants can also be encouraged to grow more quickly by placing Stormlight-infused gems nearby.
 Stormlight is also important to Roshar's native beings. Creatures with [[Gemheart\|gemhearts]] require it, presumably to fuel their spren bonds, and large quantities of it are necessary for them to transform. Among others, [[Chasmfiend\|chasmfiends]] pupate in areas that are highly exposed to highstorms, and [[Singer\|singers]] need highstorm levels of Stormlight to change [[/wiki/Singer#Forms]]. In Shadesmar, [[Spren\|spren]] derive sustenance from Stormlight, and tend to become more lively and energetic in its presence.
 

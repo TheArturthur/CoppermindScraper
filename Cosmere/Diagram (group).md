@@ -3,7 +3,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Diagram** is the name of a covert group that is devoted to understanding and carrying out the instructions found in the [[Diagram (literature)\|Diagram]]. The Diagram is led by [[Taravangian\|Taravangian]] and has members in hiding all over Roshar. The group is ruthless, willing to kill directly, or indirectly, as many as necessary to achieve its goals.
 
@@ -42,7 +42,7 @@ The senior members of the Diagram, including Taravangian himself, spend much of 
 Knowing that his fluctuating intelligence and compassion could hinder his decision-making ability, Taravangian set up a system that will legally restrict some of his own rights depending on the result of a written test that he would take daily. This system is enforced by the [[King's Testers\|King's Testers]] headed by [[Dukar\|Dukar]], and often assisted by other stormwardens who are also presumably members of the Diagram. [[Adrotagia\|Adrotagia]] and [[Mrall\|Mrall]] have also observed the king's testing, as well as his room maid [[Maben\|Maben]]. The results of this test determine which activities Taravangian is allowed to perform for the day, like offering binding commentary on the Diagram, interacting with other people without supervision, changing governmental policy, and passing judgement in trials.
 The test consists of an increasingly difficult series of math problems, designed by Taravangian on a day of high intelligence and occasionally expanded upon as needed, with the king's abilities determined by how he performs. His decisions will be restricted for the day if he performs too badly (because he is too unintelligent), but also if he performs too well (because he is too uncompassionate).
 Adrotagia has used the data from Taravangian's test scores to show that his intelligence varies according to a statistical normal curve. From her calculations, she believes that another day of brilliance would be unlikely to occur more than once in two thousand years.
-Unfortunately, Taravangian has been caught cheating on his own test by claiming to be unable to solve a problem, when he was really able to, in order not to be restricted for performing too well. How this affects Adrotagia's calculations and how the Diagram members plan to handle cheating in the future remains to be seen, but the daily tests apparently continued afterwards.
+Unfortunately, Taravangian has been caught cheating on his own test by claiming to be unable to solve a problem, when he was really able to, in order not to be restricted for performing too well. The daily tests apparently continued afterwards.
 
 ### The Silent Gatherers and the Collection of Death Rattles
 
@@ -80,7 +80,7 @@ Through espionage and research, they discovered three secrets:
 That Roshar had originally been inhabited only by the [[Dawnsingers\|Dawnsingers]], who were not humans but parshmen, and that the first [[Desolation\|Desolation]] was caused by humans who came from another world. This called into question what the coalition was fighting for, as the parshmen clearly saw humans as the invaders.
 That King Elhokar had sworn allegiance to Dalinar as *highking*. The Diagram tried to imply that the Alethi had imperial ambitions, although the king merely wanted a way to save face after having to follow his uncle on so many things.
 That Dalinar had visions that involved talking to [[Odium\|Odium]], visions that he hid from the public. Again, they tried to twist a fact into something that would cast Dalinar in a different light. This time, they made it seem like he was fraternizing with the enemy.
-They released all three secrets to the public at the same time, causing the coalition to break apart.
+They released all three secrets to the public at the same time, undermining Dalinar's leadership and the coalition in general.
 
 ### Alliance with Odium
 The Diagram predicted that Taravangian will have a confrontation with Odium. While the [[Battle of Thaylen Field\|Battle of Thaylen Field]] was occurring, Taravangian decided to attract the attention of the god by having [[Malata\|Malata]] open the Veden Oathgate for a [[Singer\|singer]] strike force to enter and attack Urithiru. He also had a Diagram agent steal [[Jezrien\|Jezrien's]] [[Honorblade\|Honorblade]].

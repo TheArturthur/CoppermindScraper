@@ -9,7 +9,7 @@
 \-Kabsal to Shallan[1]
 
 
-The **Era of Solitude** is the name given to the four thousand year period following the [[Heraldic Epochs\|Heraldic Epochs]].
+The **Era of Solitude** is the name given to the four-thousand-year period following the [[Heraldic Epochs\|Heraldic Epochs]].
 
 ## Contents
 
@@ -22,7 +22,7 @@ The **Era of Solitude** is the name given to the four thousand year period follo
 
 
 ## Silver Kingdoms
-The [[Silver Kingdoms\|Silver Kingdoms]] existed from some time prior to [[Aharietiam\|Aharietiam]] until likely just after the [[Day of Recreance\|Day of Recreance]]. The Knights Radiant supported a unified kingdom across the land connecting everyone via [[Urithiru\|Urithiru]], with [[Alethela\|Alethela]] being the center of protection for all of the Kingdoms. After the fall of the Knights, and with [[Urithiru\|Urithiru]] abandoned (leaving each kingdom isolated) they would no longer be able to function as they had.
+The [[Silver Kingdoms\|Silver Kingdoms]] existed from some time prior to [[Aharietiam\|Aharietiam]] until likely just after the [[Day of Recreance\|Day of Recreance]]. The Knights Radiant supported a unified kingdom across the land connecting everyone via [[Urithiru\|Urithiru]], with [[Alethela\|Alethela]] being the center of protection for all of the Kingdoms. After the fall of the Knights, and with [[Urithiru\|Urithiru]] abandoned (leaving each kingdom isolated), they were no longer be able to function as they had.
 
 ## Beginning
 The Era of Solitude began after the [[Last Desolation\|Last Desolation]] known as [[Aharietiam\|Aharietiam]]. After being told that the [[Voidbringer\|Voidbringers]] had been defeated by the remaining [[Herald\|Heralds]], mankind began rebuilding for the first time in years.
@@ -33,19 +33,19 @@ The Era of Solitude began after the [[Last Desolation\|Last Desolation]] known a
 **The [[Day of Recreance\|Day of Recreance]]** - Knights Radiant broke oaths and abandoned [[Shard\|Shards]].
 **The Collapse of the [[Silver Kingdoms\|Silver Kingdoms]]** - While the precise timeline is unknown, the [[Silver Kingdoms\|Silver Kingdoms]] are presumed to have broken down after losing the protection of the Knights Radiant and transportation capabilities of [[Urithiru\|Urithiru]].
 **The Death of [[Honor\|Honor]]** - Tanavast, the Vessel of Honor, was killed and the Shard he held was Splintered by [[Odium\|Odium]].
-**Dynastic Collapse in Bayala** - A dynasty collapses in [[Bayala\|Bayala]] due to the influence of [[Ashertmarn\|Ashertmarn]] in 480
+**Dynastic Collapse in Bayala** - A dynasty collapsed in [[Bayala\|Bayala]] due to the influence of [[Ashertmarn\|Ashertmarn]] in 480.
 **Shin invasions** - The Shin tried multiple times to conquer all of Roshar, although they never succeeded.
-**The [[Hierocracy\|Hierocracy]]** - Classical [[Vorinism\|Vorinism]] attempted to control the world, much of history was sanitized during this time.
+**The [[Hierocracy\|Hierocracy]]** - Classical [[Vorinism\|Vorinism]] attempted to control the world, and much of history was sanitized during this time.
 **The Sunmaker Conquests** - [[Sadees\|Sadees the Sunmaker]] overthrew the Hierocracy and reunited Alethkar, before attempting to conquer the world, with lasting effects upon many countries.
 **The [[Scouring of Aimia\|Scouring of Aimia]]** - [[Aimia\|Aimia]] suffered a cataclysm of some kind.
-**Emuli Lurnip Famine** - Emul goes through a devastating Lurnip famine.
-**Reunification of Alethkar** - The reunification of Alethkar under the Kholin Banner
-**The [[Eighty's War\|Eighty's War]]** - A war between [[Tukar\|Tukar]] and [[Emul\|Emul]] over control of [[Sesemalex Dar\|Sesemalex Dar]] broke out in 1167, with Tukar being led by the Herald [[Ishar\|Ishar]]
+**Emuli Lurnip Famine** - Emul went through a devastating Lurnip famine.
+**Reunification of Alethkar** - Alethkar was reunified under the Kholin banner.
+**The [[Eighty's War\|Eighty's War]]** - A war between [[Tukar\|Tukar]] and [[Emul\|Emul]] over control of [[Sesemalex Dar\|Sesemalex Dar]] broke out in 1167, with Tukar being led by the Herald [[Ishar\|Ishar]].
 **The [[Assassination of Gavilar\|Assassination of Gavilar Kholin]]** - Gavilar Kholin, the king of Alethkar, was assassinated by the Listeners during the treaty celebration on Tanat 1167.
 **The [[War of Reckoning\|War of Reckoning]]** - A war between the Alethi and the Listeners following the assassination of Gavilar Kholin, which led up to the True Desolation.
-**The [[True Desolation\|True Desolation]]** - the coming of the [[Everstorm\|Everstorm]] ended the Era of Solitude.
+**The [[True Desolation\|True Desolation]]** - The coming of the [[Everstorm\|Everstorm]] ended the Era of Solitude.
 ## The End
-The Era of Solitude lasted up until the return of the [[Fused\|Fused]] and [[Odium\|Odium]]. This takes place the day the [[Listener\|Listeners]] created the [[Everstorm\|Everstorm]] the Beginning of the [[True Desolation\|True Desolation]].
+The Era of Solitude lasted up until the return of the [[Fused\|Fused]] and [[Odium\|Odium]]. This takes place the day the [[Listener\|Listeners]] created the [[Everstorm\|Everstorm]], marking the Beginning of the [[True Desolation\|True Desolation]].
 
 ## Time Keeping
 The current [[Vorin\|Vorin]] calendar in the Era of Solitude did not begin at the end of [[Aharietiam\|Aharietiam]], but a date approximately three thousand years afterward. This date that starts the calendar takes place some time after the [[Day of Recreance\|Day of Recreance]] but before the [[Hierocracy\|Hierocracy]].

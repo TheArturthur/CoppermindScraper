@@ -54,6 +54,7 @@ ALCATRAZ VERSUS THE SCRIVENER’S BONES (Scholastic, 2008; Tor, 2016)
 ALCATRAZ VERSUS THE KNIGHTS OF CRYSTALLIA (Scholastic, 2009; Tor, 2016)
 ALCATRAZ VERSUS THE SHATTERED LENS (Scholastic, 2010; Tor, 2016)
 ALCATRAZ VERSUS THE DARK TALENT (Tor, 2016)
+BASTILLE VERSUS THE EVIL LIBRARIANS (Tor, 2022)
 Film rights for series under option to Dreamworks
 Audio rights (entire series) to Recorded Books
 German rights (entire series) to Heyne

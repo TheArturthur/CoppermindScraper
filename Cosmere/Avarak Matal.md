@@ -1,6 +1,7 @@
 |**Avarak Matal**|
 |-|-|
 |**Spouse**|[[Hashal\|Hashal]]|
+|**Relatives**|[[Eliah Matal\|Eliah Matal]]|
 |**Profession**|Army captain|
 |**Groups**|Sadeas army|
 |**Nationality**|[[Alethi\|Alethi]]|
@@ -24,12 +25,12 @@ Brightlord **Avarak Matal** is a [[Lighteyes\|lighteyed]] officer in the [[Sadea
 
 
 ## Appearance and Personality
-He is nearly as tall as [[Kaladin\|Kaladin]], but he is spindly with delicate hands. He wears a sword at his side, but Kaladin believes that it is mostly there for fashion. He and Hashal consider themselves close associates of [[Torol Sadeas\|Torol Sadeas]], and are presumably of a fairly high [[Dahn\|dahn]].
+He is nearly as tall as [[Kaladin\|Kaladin]], but he is spindly with delicate hands. He wears a sword at his side, but Kaladin believes that it is mostly there for fashion. He and Hashal consider themselves close associates of [[Torol Sadeas\|Torol Sadeas]], and are presumably of a fairly high [[Dahn\|dahn]]. [[Eliah Matal\|Eliah]] is his favorite niece.
 
 ## History
   With his <<Hashal\|wife>>, inspecting the <<Bridge crew\|bridge crews>>
 ### Becoming Captain of the Bridge Crews, Kakab 1173
-Matal was made captain of the Sadeas [[Bridge crew\|bridge crews]] after [[Lamaril\|Lamaril's]] execution following the disastrous "side carry" battle. Matal's wife [[Hashal\|Hashal]] claimed that he had asked to be assigned the captaincy of the bridge crews in order to see to it that they were run smoothly and efficiently; Kaladin assumed this was a fabrication since the position was not prestigious.
+After the War of Reckoning began, Avarak, his wife and their favorite niece travelled to the Plains. Here, Avarak was made captain of the Sadeas [[Bridge crew\|bridge crews]] after [[Lamaril\|Lamaril's]] execution following the disastrous "side carry" battle. Avarak’s wife [[Hashal\|Hashal]] claimed that he had asked to be assigned the captaincy of the bridge crews in order to see to it that they were run smoothly and efficiently; Kaladin assumed this was a fabrication since the position was not prestigious.
 Matal rarely addressed the crews directly, instead allowing Hashal to deal with them using his authority. He rarely spoke when Hashal was present, and only took personal command on the battlefield where women were not allowed; for example, he would give the bridge crews orders to form up and run before a plateau assault.
 
 ### Success on the Battlefield, Tanatev 1174

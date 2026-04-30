@@ -33,7 +33,7 @@ The story follows [[Silence Montane\|Silence Montane]], the proprietress of a [[
 
 ## Setting
 The story takes place on one of the two major continents on the planet [[Threnody\|Threnody]], in an area known as the [[Forests of Hell\|Forests of Hell]]. The action centers around [[Silence's waystop\|Silence's waystop]] and the forests nearby.
-Threnody is not considered a "major" [[/wiki/Cosmere#Planets]] in the overall narrative of the cosmere and is not currently inhabited by a Shard, but past events in the Threnodite system still hold direct relevance to current events occurring in the universe. [[Hoid\|Hoid]] does not appear in the story, though other [[Worldhopper\|worldhoppers]] may have.
+Threnody is not considered a "major" [[/wiki/Cosmere#Planets]] in the overall narrative of the cosmere and is not currently inhabited by a Shard, but past events in the Threnodite system still hold direct relevance to current events occurring in the universe. [[Hoid\|Hoid]] was long thought never to appear in the story, but it was later confirmed that he was there.
 
 ## Main Characters
  

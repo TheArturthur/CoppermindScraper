@@ -2,11 +2,12 @@
 |-|-|
 ||
 |**Collaborators**|, |
-|**Released**|September 14, 2020|
+|**Released**|September 14, 2020 (audio)April 15, 2025 (prose)|
 |**Publisher**||
 |**ISBN**|9781980062738|
 
-***The Original*** is an audio original story co-written by [[Brandon Sanderson\|Brandon Sanderson]] and , two of the hosts of the *[[Writing Excuses\|Writing Excuses]]* podcast. It is performed by .
+***The Original*** is an audio original sci-fi story co-written by [[Brandon Sanderson\|Brandon Sanderson]] and , two of the hosts of the *[[Writing Excuses\|Writing Excuses]]* podcast. It is performed by .
+A novella-length prose version of the story was published by [[Dragonsteel Entertainment\|Dragonsteel Entertainment]] in April 2025.
 
 ## Contents
 
@@ -28,7 +29,8 @@ The story is about a world in which the government creates clones of criminals t
 
 ## Development
 Brandon completed the outline in about a week in May 2018 and revisited it later in the year. He decided the story might work as an audio original and decided to bring in a coauthor, although he did not initially reveal who it was. Writing happened throughout 2019. Brandon became concerned after learning that the Will Smith film ** had a premise very similar to that of *The Original*; he hoped to publish the story before the release of the film in fall 2019, but that proved unfeasible. Recording of the audio had begun by December 2019. By mid-2020, the publisher had decided to delay the release to later in the year, for reasons unknown to Brandon.
-The reception of the audio format of *The Original* may influence whether Brandon would use a similar format for future [[Legion (series)\|Legion]] or [[The Reckoners\|The Reckoners]] stories.
+The reception of the audio format of *The Original* may influence whether Brandon would use a similar format for future *[[Legion (series)\|Legion]]* or *[[The Reckoners\|The Reckoners]]* stories.
+For several years, Brandon talked about releasing a prose version of the story, but he and Mary felt that it needed some adjustments to work without narration. It was ultimately published as an ebook in 2025.
 
 ## Cover Gallery
 For a cover gallery of The Original, see [[The Original/Covers\|/Covers]].

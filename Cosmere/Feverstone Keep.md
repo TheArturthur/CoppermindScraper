@@ -3,6 +3,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“* The enemy makes another push toward Feverstone Keep. I wish we knew what it was that had them so interested in that area. Could they be intent on capturing Rall Elorim?*”
 \- Drawer 19-2 of the Urithiru gem archive, third topaz[1]
 

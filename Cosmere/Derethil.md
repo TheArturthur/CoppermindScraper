@@ -3,6 +3,8 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 **Derethil** was a western king on [[Roshar\|Roshar]], who ruled during the [[Desolation\|Desolations]] He had fair skin and light eyes. He fought the [[Voidbringer\|Voidbringers]] alongside the [[Herald\|Heralds]] and [[Knights Radiant\|Knights Radiant]].

@@ -6,7 +6,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*They like to break what is around them. They want to know what is inside.*”
 \-Pattern[1]
@@ -52,11 +52,13 @@ In the Physical Realm they can be unseen and unheard when they wish to be, makin
 Ashspren are one of the few spren capable of forming [[Nahel bond\|Nahel bonds]] with people, turning them into [[Surgebinder\|Surgebinders]] with the powers of [[Division\|Division]] and [[Abrasion\|Abrasion]].
 
 ## Culture
-Ashspren like to break things around them to see what's inside. Hundreds of them have died during the [[Recreance\|Recreance]], and unlike many others, it seems that ashspren never forgave humanity. They remain hostile towards them, blaming people's organized worship of [[Honor\|Honor]] for their kinsmen's many deaths. They seem uninterested in reforming the [[Knights Radiant\|Knights Radiant]], although it's uncertain how prevalent this outlook is. Some, like [[Spark\|Spark]], seem willing to bond with people or cooperate with [[Odium\|Odium's]] forces, while others dislike and avoid the [[Voidbringers\|Voidbringers]].
+Ashspren like to break things around them to see what's inside. Many of their names are related to fire.
+Hundreds of them have died during the [[Recreance\|Recreance]], and unlike many others, ashspren never forgave humanity. They remain hostile towards them, blaming people's organized worship of [[Honor\|Honor]] for their kinsmen's many deaths. They seem uninterested in reforming the [[Knights Radiant\|Knights Radiant]], although it's uncertain how prevalent this outlook is. Some, like [[Spark\|Spark]], seem willing to bond with people or cooperate with [[Odium\|Odium's]] forces, while others dislike and avoid the [[Voidbringers\|Voidbringers]].
 Ashspren seem to sail Shadesmar a lot, although lately, they avoid [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] due to the Voidbringer presence there. They can be found in fairly large numbers in the spren city of [[Celebrant\|Celebrant]], though they speak their own, separate language. Like many other spren, they dislike [[Honorspren\|honorspren]], although unlike many others, they seem to have no problems with [[Cryptic\|Cryptics]].
 
 ## Notable Ashspren
 [[Spark\|Spark]] (bonded to [[Malata\|Malata]])
+[[Ral-na\|Ral-na's]] spren (name currently unknown)
 
 
 https://coppermind.net/wiki/Ashspren

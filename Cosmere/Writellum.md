@@ -6,7 +6,7 @@
 > [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the third book in the Skyward series, see [[Cytonic (book)\|Cytonic (book)]].
->“*Technology is limited. Only the mind is infinite.*”
+>“*Technology is limited. Only the mind is infinite. *”
 \-Varvax proverb[1]
 
 
@@ -112,7 +112,7 @@ Finally, there are **cytoshields**, which can suppress all outgoing cytonic and 
 \-M-Bot[33]
 
 
-Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using minature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, for some reason AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals, leading to a ban on them in the present times.
+Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, for some reason AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals, leading to a ban on them in the present times.
 
 ### Illusions
 >“*If it's looking at you, it doesn’t see you. We are overwriting its vision.*”

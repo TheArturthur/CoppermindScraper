@@ -34,7 +34,7 @@ The lighthouse is not overly furnished and contains only a few bits of furniture
 A second room, built against the base of the lighthouse and accessible from inside the main building, is where Riino performs his readings. It has large windows and in the middle there is a table on which sits a large crystalline globe that is filled with a bright unknown substance. This room is also decorated with paintings, including one of the city of [[Elantris (city)\|Elantris]]. A second painting depicts people kneeling before a bright white mirror, that may represent a perpendicularity.
 
 ### Rii's Oracle
->“*Charlatans like him aren’t uncommon, where I come from. People who claim to be able to see the future, living off people’s hopes. Your society was right to forbid them.*”
+>“*Charlatans like him aren’t uncommon, where I come from. People who claim to be able to see the future, living off people’s hopes. Your society was right to forbid them. *”
 \-Azure remarking to Kaladin about Riino's business[1]
 
 

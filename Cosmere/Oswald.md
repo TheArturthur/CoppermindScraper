@@ -1,14 +1,15 @@
 |**Oswald**|
 |-|-|
-|**Relatives**|[[Ealstan\|Ealstan]]|
+|**Relatives**|[[Ealstan\|Ealstan]], [[Rowena\|Rowena]]|
 |**Died**|Shot by [[Ulric Stromfin\|Ulric Stromfin]]|
 |**Profession**|Guard|
 |**Residence**|[[Stenford\|Stenford]]|
+|**Nationality**|[[Weswara\|Weswaran]]|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
 |**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 
 >“*I am growing old, aelv. I was too slow and weak to protect Oswald or the skop's brother.*”
-\-Ealstan to Runian[1]
+\-Ealstan to Runian[2]
 
 
 **Oswald** is [[Ealstan\|Ealstan's]] nephew and a guard in [[Stenford\|Stenford]]. He is a very good-natured, cheerful, and respectful young man.

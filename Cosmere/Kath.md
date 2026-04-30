@@ -14,7 +14,7 @@ When Wax and [[Steris\|Steris]] went together to the Ladrian Mansion to do exper
 While Wax was trying to stop the bomb and Steris was trying to prepare the city for the coming threat, Steris decided that it's safer to send Max and Tindwyl with Kath to her father's estate to the south of Elendel.
 After Wax goes out of the hospital after the explosion, Kath brings Max and Tindwyl from [[Jackstom Harms\|Jackstom Harms's]] estate.
 Steris wished them to have been late.
-Kath gave Steris the letter the [[Varlance\|Mayor]] sent her, where he asked her to become Elendel's Disaster Preparations Officer.
+Kath gave Steris the letter the [[Varlance\|Governor]] sent her, where he asked her to become Elendel's Disaster Preparations Officer.
 
 
 

@@ -34,7 +34,7 @@ Like most Idrians, he is a follower of [[Austre\|Austre]] and dresses and acts w
 [[Denth\|Denth]] describes Parlin as "quick at adapting to situations" and "trustworthy", making him worth keeping around, though he does admit that Parlin doesn't have the "wit of a scholar."
 
 ## Attributes and Abilities
-Parlin is a good hunter and scout. He is able to blend into his surroundings and is very observant. He quickly picks up on the customs and mannerisms of the street toughs of T'Telir and adopts both to better blend into the city.
+Parlin is a good hunter and scout. He is able to blend into his surroundings and is very observant.  He quickly picks up on the customs and mannerisms of the street toughs of T'Telir and adopts both to better blend into the city.
 
 ## History
 >“*I can’t smell anything but bodies and spices, can’t hear anything but the chatter of people. There’s no wind, no trees, no rivers, just… *people*.*”
@@ -47,7 +47,7 @@ He is tortured to death by the mercenary [[Tonk Fah\|Tonk Fah]] when Denth belie
 
 ## Relationships
 He is the son of General [[Yarda\|Yarda]].
-He is the man King [[Dedelin\|Dedelin]] would have married [[Vivenna\|Vivenna]] to had she not been promised to the [[Susebron\|God King]]. They were close friends throughout childhood.
+He is the man King [[Dedelin\|Dedelin]] would have married [[Vivenna\|Vivenna]] to had she not been promised to the [[Susebron\|God King]]. They were close friends throughout childhood. 
 [[Vivenna\|Vivenna]] is not in love with Parlin, but she does have affection for him. She views him more as a brother.
 He is attracted to [[Jewels\|Jewels]], but she is only amused by him. She is not romantically interested, as she is already involved with [[Arsteel\|Arsteel]].
 

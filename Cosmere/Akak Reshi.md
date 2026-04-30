@@ -5,7 +5,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Reshi Isles** are a collection of islands on the northern edge of [[Roshar\|Roshar]] in the [[Reshi Sea\|Reshi Sea]]. People from the Reshi Isles are called **Reshi**.
 They include the islands of [[Kadrix\|Kadrix]], [[Quili\|Quili]], [[Abri\|Abri]], [[Arak\|Arak]], [[Akak\|Akak]], [[Relu-na\|Relu-na]] and [[Sumi\|Sumi]]. According to [[Dalinar Kholin\|Dalinar's]] memories the people of the **Akak Reshi** were destroyed.
@@ -49,7 +49,7 @@ One of the smaller islands is home to the [[Ardent\|ardents]] [[Geranid\|Geranid
 
 
 
-7 Notable Characters. [[#Notable Characters]] 
+7 Notable People. [[#Notable People]] 
 8 Notes. [[#Notes]] 
 
 
@@ -70,23 +70,22 @@ The summers tend to be sweltering, especially at the beaches, where the sand is 
 An unknown species of minnow.
 An unknown species of [[Greatshell\|greatshell]] living on [[Kadrix\|Kadrix]].
 ## People
-The Reshi are described as having straight black hair, tan skin and rounded features. They are said to look similar to Herdazians, and to the Marati and Tukari. They speak Reshi. They are a relaxed people, living a simple life, though not every Reshi is carefree and prefers lounging to fighting.
+The Reshi are described as having straight black hair, tan skin and rounded features. They are said to look similar to Herdazians, and to the Marati and Tukari. They speak the Reshi language in abrupt, medium- to high-pitched vocalizations. Many islands also supplement their communication with dynamic hand gestures, which Azish scholars believe to be abbreviated derivatives of an ancient sign language lost to time. They are a relaxed people, living a simple life, though not every Reshi is carefree and prefers lounging to fighting.
 They know much of foreigners, but are not aware of the current economic situation on the mainland, so they only trade with people they trust and respect during the trading season. With outsiders seeking out the place and trying to exploit them, they grow tired of those who bring goods of low quality. Despite this, they are capable of sending messages to distant locations, as [[Talik\|Talik]] was able to tell [[Vstim\|Vstim]] in advance that he should bring goods to trade for a larkin corpse.
-The relatively relaxed culture of the Reshi Isles attracts foreigners to the isles as permanent residents. According to [[Vstim\|Vstim]], relocating to the Tai-na called Relu-Na requires giving all you own to their king. It is unclear if this is standard practice for all of the Reshi Isles, or just for this one.
+The relatively relaxed culture of the Reshi Isles attracts foreigners to the isles as permanent residents. According to [[Vstim\|Vstim]], relocating to the Tai-na called Relu-Na requires giving all you own to their king. Every monarch has their own requirements and customs concerning immigration however. Many Reshi people savor the rush of a challenge. Reshi take pride in what they do, balancing ambition, cleverness, and consideration for others. Believing bold behavior is rewarded by their gods, the Reshi strive to be fearless and resolute in all they do.
 As indigenous populations, most Reshi have no real concept of assassination and war. To them, battle is more about yelling and posturing than actual killing. However the eastern Reshi often raid Alethkar. When trading, a Reshi judges the other trader as they would judge a rival in battle.
 When a foreigner is nearby, the Reshi tend to jump into the water from greater heights than they would normally, doing so to impress and shock these foreigners.
 
 ## Culture
 ### Religion
-The Reshi worship Tai-na as their gods. They believe that the Tai-na approve of boldness and respect and interpret the movements of the Tai-na as divine will. They also believe that everything in life serves the same purpose of pleasing the [[Tai-na\|Tai-na]].
+The Reshi worship Tai-na as their gods. They believe that the Tai-na approve of boldness and respect and interpret the movements of the Tai-na as divine will. They also believe that everything in life serves the same purpose of pleasing the [[Tai-na\|Tai-na]]. 
 They use bundles of fruit as offerings.
 They appear to observe taboos regarding discussion of the spren that inhabit Tai-na.
 Vorin people describe them as being "pagans among pagans", due to their separation from the Vorin faith.
 
 ### Clothing
-Reshi standard clothing includes colorful wraps leaving the shoulders bare as well as tassels. Some Reshi also wear their hair in two long braids. Reshi are also known to wear hair ornaments such as ribbons. Swimmers like to walk about unclothed. In parts of the Reshi Isles, some women don't even wear tops due to the hot weather. The king of an island is dressed in full bright voluminous robes.
-Clothing makes some use of carapace, particularly on armor.
-It is common for men and women to wear their hair in one or more braids.
+The hot weather makes excess decorative fabric impractical, so Reshi clothing is generally simple. Citizens tend to favor lightweight clothing woven from grass, simple vests, and colorful tasseled waist wraps. These wraps leave the shoulders bare. Some Reshi also wear their hair in two long braids. Reshi are also known to wear hair ornaments such as ribbons. Swimmers like to walk about unclothed. In parts of the Reshi Isles, some women don't even wear tops due to the hot weather. The king of an island is dressed in full bright voluminous robes.
+Nudity isn’t inherently sexualized in the Reshi Isles. Going topless is acceptable for people of all genders, and anyone can swim in the sea completely naked. Clothing makes some use of carapace, particularly on armor. It is common for men and women to wear their hair in one or more braids. The Reshi also wear mother-of-pearl jewelry.
 
 ### Live Stock
 The Reshi paint their chulls' shells. One can identify what island a Reshi chull handler is from by the colors and patterns on their chulls' shells.
@@ -99,9 +98,9 @@ Reshi furniture is flat and long. They do not use chairs, instead sitting on cus
 >“*Soldiers lined the path, armed with spears bearing colorful tassels. Their breastplates and armguards were of carapace carved wickedly with points, and though they wore only wraps for clothing, they stood as stiff backed as any [[Alethi\|Alethi]] soldier, with stern expressions to match.*”
 \-Rysn observing Reshi guards.[6]
 
-Though many Reshi are relaxed and carefree, there are those who prefer fighting to lounging. These soldiers wear armor made from carapace, their armguards are carved into wicked points. They also carry spears with colourful tassels on them. They do not have any Shards and are not known to have any soulcasters.
+Though many Reshi are relaxed and carefree, there are those who prefer fighting to lounging. These soldiers wear armor made from carapace, their armguards carved into wicked points. They also carry spears with colourful tassels on them. They do not have any Shards and are not known to have any soulcasters.
 In large parts of the Reshi isles the fighting is ritualistic, with more posturing and yelling then actual killing, The eastern Reshi are known for their raids against the Alethi however, so its safe to assume these Reshi fight more like warriors from the mainland. Reshi wars are often short, only a single battle long.
-When two Tai-na go to war the people of the islands get into boats and exchange insults and boasts, each starting with their weakest insults first. This would progress into a kind of verbal duel ending with the strongest insults. Afterwards arrows and spears would be exchanged, although this wouldn’t be to violently, with more yelling then actual cutting.
+When two Tai-na go to war the people of the islands get into boats and exchange insults and boasts, each starting with their weakest insults first. This would progress into a kind of verbal duel ending with the strongest insults. Afterwards arrows and spears would be exchanged, although this wouldn’t be too violently, with more yelling then actual cutting. While these interactions aren’t generally very dangerous, some Reshi find them exceedingly annoying, reason enough, even, for some Reshi to leave the Tai-na.
 
 ### Transportation
 The Reshi travel the [[Reshi Sea\|Reshi Sea]] using catamarans. They also travel on their islands using [[Chull\|Chulls]].
@@ -110,12 +109,12 @@ The Reshi travel the [[Reshi Sea\|Reshi Sea]] using catamarans. They also travel
 The Reshi isles are not united by a single government, instead each island has its own king.
 
 ## Economy
-The Reshi Isles are not in any major trade networks, nor due they have trade agreements with any mainland states. They instead trade with individuals that they trust, and typically only do so during trading season.
+The Reshi Isles are not in any major trade networks, nor due they have trade agreements with any mainland states. They instead trade with individuals that they trust, and typically only do so during trading season. The Reshi don’t have many enslaved singers. They work at some of the major tourist destinations on stationary islands, but there are no singers on any of the Tai-na islands. Reshi like bartering, believing that it makes for fun competition, and it’s considered both an act of commerce and a celebrated social pastime.
 
 ## History
 ### The Silver Kingdoms
   Map of the Silver Kingdoms
-The Reshi Isles were founded as [[Rishir\|Rishir]], one of the [[Silver Kingdoms\|Silver Kingdoms]] on Roshar. It was created during the [[Heraldic Epochs\|Heraldic Epochs]]. The largest area claimed by Rishir consisted of the Reshi isles. The [[Oathgate\|Oathgate]] was established at the city of [[Kurth\|Kurth]], on the border of the [[Reshi Sea\|Reshi Sea]].
+The Reshi Isles were founded as [[Rishir\|Rishir]], one of the [[Silver Kingdoms\|Silver Kingdoms]] on Roshar. It was created during the [[Heraldic Epochs\|Heraldic Epochs]]. The largest area claimed by Rishir consisted of the Reshi isles. The [[Oathgate\|Oathgate]] was established at the city of [[Kurth\|Kurth]], on the border of the [[Reshi Sea\|Reshi Sea]]. 
 Like all of the Silver Kingdoms, they were constantly returned back to primitive technological levels by the Desolations, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
 Eventually at an unknown date the kingdom collapsed and fractured into multiple other nations.
 
@@ -133,8 +132,9 @@ This conflict did not fully dissuade the Reshi from engaging in border skirmishe
 ### The True Desolation
 #### The Coalition
 The Coalition invited the Reshi king Ral-na and his son to [[Urithiru\|Urithiru]] to talk and show them around.
+The enslaved singers lived on the larger islands, primarily working as farmers, gatherers, dock laborers, and porters for visiting tourists. The newly awakened singers left their lives of slavery with relief and a shared dream. Banding together, they quickly took control of a sparsely populated island and turned it into a sanctuary. There, singers can heal and regroup, living quiet, leisurely lives without serving another species. So far, these singers have escaped the notice of the Fused, and the Reshi humans have not pursued them.
 
-## Notable Characters
+## Notable People
 [[Lift\|Lift]] (racially Reshi)
 
 [[Ral-na\|Ral-na]] - Leader of an island

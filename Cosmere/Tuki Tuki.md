@@ -11,7 +11,7 @@
 **Tuki Tuki** is the capital city of [[Mokia\|Mokia]] in the [[Free Kingdoms\|Free Kingdoms]]. It is called the City of Flowers, as everything in the city is covered with flowers. The roads are lined with flower beds, as well as trees, whose branches have more flowers hanging over the roads. The housing is mostly comprised of simplistic reed huts, many of which are generously decorated with flowers. The flowers are all non-allergenic, and were asked to be so by the city’s floralinguists, who can talk to the flowers. Its primary defensive feature is an enormous protective dome made out of [[/wiki/Silimatic#Silimatic Glass]]. It protects the city from enemy attacks, such as launched projectiles.
 
 ## Geography
-It is located on the southern coast of Biggest Island, in northern Mokia.
+Tuki Tuki is located on the southern coast of Biggest Island, in northern Mokia.
 
 ## History
 >“*Mokia stands here. We’ve been beaten down by Librarian forces for decades now; if Tuki Tuki falls, it will spend the end for my people. We will become just another Librarian province, slowly assimilated into the hush lands, our people brainwashed until we forget our past.*”

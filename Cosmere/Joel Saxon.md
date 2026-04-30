@@ -9,7 +9,7 @@
 
 **Joel Saxon** is a student at [[Armedius Academy\|Armedius Academy]].
 He is not a [[Rithmatics\|Rithmatist]], but enjoys studying Rithmatics, and excels at mathematics. He is a fantastic line/circle drawer, even though he does not possess the magic properties needed to be a Rithmatist.
-Joel is believed to be the only non-Rithmatist ever to encounter a [[Shadowblaze\|Shadowblaze]]. with possible exceptions from before [[Gregory III\|Gregory III]] began the current Rithmatics tradition.
+Joel is believed to be the only non-Rithmatist ever to encounter a [[Shadowblaze\|Shadowblaze]], with possible exceptions from before [[Gregory III\|Gregory III]] began the current Rithmatics tradition.
 
 ## Contents
 
@@ -28,11 +28,11 @@ Joel is believed to be the only non-Rithmatist ever to encounter a [[Shadowblaze
 
 ## Appearance and Personality
 Joel is 16 years old and tall for his age.
-He is obsessed with Rithmatics, and is very good in every academic subject, especially geometry. Despite his aptitude in academics, he tends to fail at least one class every year.
+He is obsessed with Rithmatics, and is very good in every academic subject, especially geometry. Despite his aptitude in academics, he tends to fail at least one class every year. This is due to a lack of interest in the subjects and boredom.
 
 ## History
 ### Student at Armedius
-Joel has lived at Armedius Academy his whole life. He grew up there due to his father being the school chalkmaker and his mother a cleaner. He was offered a scholarship by [[Thomas York\|Principal York]] when his father died in a springrail accident when Joel was eight. Joel and his mother then moved from his father's workshop into a small room with one bed and one bathroom. Joel attended Armedius once old enough, and then proceeded to flunk one class every year.
+Joel has lived at Armedius Academy his whole life.  He grew up there due to his father being the school chalkmaker and his mother a cleaner. He was offered a scholarship by [[Thomas York\|Principal York]] when his father died in a springrail accident when Joel was eight. Joel and his mother then moved from his father's workshop into a small room with one bed and one bathroom.  Joel attended Armedius once old enough, and then proceeded to flunk one class every year.
 
 >“*No son, I can’t agree to this. Too unconventional. I have already caused enough trouble. I’m sorry, son.*”
 \-Professor Fitch denying Joel’s request to study under him[7]
@@ -71,7 +71,7 @@ The night before his inception, Joel heard something outside and saw the mysteri
 \-Melody as the Scribbler attacked[24]
 
 
->“*A creature of Nebrask. They lead the wild Chalklings. But… how did one get all the way here? And attached to Harding! I wasn’t aware that was possible. This is dire, Joel.*”
+>“*A creature of Nebrask. They lead the wild Chalklings. But… how did one  get all the way here? And attached to Harding! I wasn’t aware that was possible. This is dire, Joel.*”
 \-Professor Fitch to Joel[25]
 
 That night, Joel and Melody found Harding’s men unconscious. Joel realized that the Scribbler was attacking one off the school buildings, and rushed inside while Melody went for help. Joel found Nalizar inside. Joel splashed him in the face with acid, and Nalziar trapped him in a box of Lines of Forbiddance. Harding appeared, revealing himself as the Scribbler. Harding and Nalizar dueled, but Nalizar lost and was knocked unconscious. Melody and Fitch arrived, Melody freeing Joel. Fitch and Harding dueled furiously, and Fitch eventually won. Joel threw a bucket of acid on Harding, which got rid of the [[Forgotten\|Forgotten]] that was possessing him. The wild chalklings then turned into the missing victims of the Scribbler, both those taken at Nebrask and at Harding’s kidnappings.

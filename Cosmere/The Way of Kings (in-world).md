@@ -3,6 +3,7 @@
 |**Related to**|[[Silver Kingdoms\|Silver Kingdoms]], [[Nohadon\|Nohadon]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+
 > [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
 This is for the in-universe text by [[Nohadon\|Nohadon]]. For the book by Brandon Sanderson, see [[The Way of Kings\|The Way of Kings]].
@@ -17,6 +18,7 @@ It was read by [[Gavilar Kholin\|Gavilar Kholin]] in the years prior to his deat
 4 Excerpts. [[#Excerpts]] 
 
 4. [[#Introduction]] 
+4. [[#The fourth parable]] 
 4. [[#The eighth parable]] 
 4. [[#The man and a stone]] 
 4. [[#Candles]] 
@@ -44,18 +46,18 @@ It's uncertain how many of the events the book describes are real, and how many 
 
 ## Influence
 At around five millennia old, *The Way of Kings* is one of the oldest known texts to have survived to the present day. Unlike most other literature and documents from that era, which were preserved only in [[Dawnchant\|Dawnchant]] and thus, until recently, impossible to read, *The Way of Kings* was continuously translated, ensuring its survival in the public consciousness. A major force behind this were the [[Vanrial\|Vanrial]], an order of artists dedicated to preserving ancient texts and songs.
-Though [[Surgebinding\|Surgebinding]] predates [[Nohadon\|Nohadon]], the ancient [[Knights Radiant\|Knights Radiant]] were heavily influenced by *The Way of Kings*. It's suggested that their [[Immortal Words\|Ideals]] were based off the book. In particular, it appears as though the [[Order of Bondsmiths\|Order of Bondsmiths]] owns much to its teachings, as the very first lines suggest their Third Ideal.
+Though [[Surgebinding\|Surgebinding]] predates [[Nohadon\|Nohadon]], the ancient [[Knights Radiant\|Knights Radiant]] were heavily influenced by *The Way of Kings*. It's suggested that their [[Immortal Words\|Ideals]] were based off the book. In particular, it appears as though the [[Order of Bondsmiths\|Order of Bondsmiths]] owes much to its teachings, as the very first lines suggest their Third Ideal.
 This book had enormous impact on both [[Gavilar Kholin\|Gavilar Kholin]] and, later, [[Dalinar Kholin\|Dalinar Kholin]]. After having it read to them several times, they become more and more honorable, which is a large contrast to typical modern [[Alethi\|Alethi]] behavior. Interestingly, both began to receive [[Almighty\|Almighty's]] visions through the [[Stormfather\|Stormfather]] after they began to listen to *The Way of Kings*.
 In addition, *The Way of Kings* is of great personal importance to Dalinar. Following his brother's death, he began to put himself back together after listening to [[Jasnah Kholin\|Jasnah Kholin]] read it. Over the following years, he re-listened to it multiple times and began to base his own outlook on the world on its teachings. In addition, two of his visions, one of which didn't come from Stormfather, were concerned with [[Nohadon\|Nohadon]] and his work. When the time came to confront [[Odium\|Odium]] at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Dalinar decided to carry the book with him rather than taking any weapon. Odium destroyed this particular copy in an attempt to break Dalinar's spirit; however, by then he had taken its teachings to heart.
 
 ## Excerpts
-Note: apart from the postscript and the eighth parable, none of the excerpts are named or numbered; as such, the names given here are purely informal.
+Note: apart from the postscript and the fourth and eighth parables, none of the excerpts are named or numbered; as such, the names given here are purely informal.
 
 ### Introduction
 [[Jasnah\|Jasnah]] reads the entirety of *The Way of Kings* on the night of [[Gavilar\|Gavilar's]] funeral, but only an early section is quoted, describing how a meeting with a supposed prophet caused Nohadon to set out on his journey, and explaining the structure of the book. It's possible that this is part of a foreword.
 
 >“*You must find the most important words a man can say.*
-\-Those words came to me from one who claimed to have seen the future. 'How is this possible?’ I asked in return. ‘Have you been touched by the void?’
+\-Those words came to me from one who claimed to have seen the future. 'How is this possible?’ I asked in return. ‘Have you been touched by the Void?’ 
 The reply was laughter. 'No, sweet king. The past is the future, and as each man has lived, so must you.’
 ‘So I can but repeat what has been done before?’
 ‘In some things, yes. You will love. You will hurt. You will dream. And you will die. Each man’s past is your future.’
@@ -67,8 +69,21 @@ In truth, by leaving, I was seeking only one thing.
 A journey.
 
 
+### The fourth parable
+The epigraphs for part two of *[[Wind and Truth\|Wind and Truth]]* (14-33) tell the fourth parable of *The Way of Kings*.
+
+>“*As I approached the first crossroads, I met a family seeking a new life. This family did not speak my language, but we could both write glyphs, which proved facilitative in our conversation. As I shared their kindly cookfire, I learned some of their story.*
+\-They had left behind family and hereditary home, something many would find unconscionable. What I learned from their glyphs scribbled in dust trembled my soul: it was because of me, and the stories they’d heard of my teachings, that they had left. They’d gone to seek a land some told them was mythical. A land where the king was a holy man, and was concerned with the plight of the farmer beyond the appropriation of taxes.
+I let them pass with two lies. First, I dared not tell them this dusty traveler with whom they shared a meal was in fact that very king they had heard of. The second was that I did not explain that very king had abdicated his throne and walked away from his kingdom.
+After we parted with affection the next day, I watched their cart roll into the distance, pulled by the father with two children riding in the rear, the mother striding with a pack on her back. Dust blew with them, for dust goes where it wishes, ignoring all borders. Would that men could always do the sameif I could enshrine one law in all further legal codes, it would be this. Let people leave if they wish.
+The Almighty has given us the limbs to move and the minds to decide. Let no monarch take away what was divinely granted. The Heralds also taught that all should have the sacred right of freedom of movement, to escape a bad situation. Or simply to seek a brighter dawn.
+I continued on my way, contemplating dust and the nature of desertion. For I, as king, had walked away from my duties, and it was different for me. Had I not renounced a throne the Almighty had granted, and in so doing, undermined my very own words? Was I abandoning that which was divinely given me?
+I do not have answers, and there will always be some who denounce me for this decision I made. But let me teach a truth here that is often misunderstood: sometimes, it is not weakness, but strength, to stand up and walk away. Those who offer blanket condemnation are fools, for each situation deserves its own consideration, and rarely can you simply apply a sayingeven one of mineto a situation without serious weighing of the context.
+As I fear not the child with a weapon he cannot lift, I will never fear the mind of a man who does not think. So think, my dear reader. As a soldier retreats from a battle he cannot win. As a woman rejects a home that shows her only violence. As a family finds hope in walking away from dying fields during a season of too much rain. As a king leaves a people with the gift of his absence, so that they may grow and solve their own problems, without his hand to always guide them. May you have the courage someday to walk away. And the wisdom to recognize that day when it arrives.
+
+
 ### The eighth parable
-This is the only parable to be presented in its entirety, as quoted by [[Dalinar Kholin\|Dalinar Kholin]]. It elaborates on the principle of "[[/wiki/Immortal Words#The First Ideal]]" through the story of Nohadon's family and friends reacting to his journey both before he sets out and after he arrives in Urithiru.
+The eighth parable elaborates on the principle of "[[/wiki/Immortal Words#The First Ideal]]" through the story of Nohadon's family and friends reacting to his journey both before he sets out and after he arrives in Urithiru.
 
 >“*I walked from Abamabar to Urithiru. In this, the metaphor and experience are one, inseparable to me like my mind and memory. One contains the other, and though I can explain one to you, the other is only for me.*
 \-I strode this insightful distance on my own, and forbade attendants. I had no steed beyond my well-worn sandals, no companion beside a stout staff to offer conversation with its beats against the stone. My mouth was to be my purse; I stuffed it not with gems, but with song. When singing for sustenance failed me, my arms worked well for cleaning a floor or hogpen, and often earned me a satisfactory reward.
@@ -93,9 +108,9 @@ I left my carriage that day and took up the stone, lifting it for the man. I bel
 ### Candles
 Part of yet another, unnumbered parable. It is concerned with responsibilities that come with royal power.
 
->“*I stood in the darkened monastery chamber, its far reaches painted with pools of black where light did not wander. I sat on the floor, thinking of that dark, that Unseen. I could not know, for certain, what was hidden in that night. I suspected there were walls, sturdy and thick, but could I know without seeing? When all was hidden, what could a man rely upon as true?*
+>“*I stood in the darkened monastery chamber, its far reaches painted with pools of black where light did not wander. I sat on the floor, thinking of that dark, that Unseen. I could not know, for certain, what was hidden in that night. I suspected there were walls, sturdy and thick, but could I know without seeing? When all was hidden, what could a man rely upon as True?*
 \-Candle flames. A dozen candles burned themselves to death on the shelf before me. Each of my breaths made them tremble. To them, I was a behemoth, to frighten and destroy. And yet, if I strayed too close, they could destroy me. My invisible breath, the pulses of life that flowed in and out, could end them freely, while my fingers could not do the same without being repaid in pain.
-I understood in a moment of stillness. Those candle flames were like the lives of men. So fragile. So deadly. Left alone, they lit and warmed. Let run rampant, they would destroy the very things they were meant to illuminate. Embryonic bonfires, each bearing a seed of destruction so potent it could tumble cities and dash kings to their knees. In later years, my mind would return to that calm, silent evening, when I had stared at rows of living lights. And I would understand. To be given loyalty is to be infused like a gemstone, to be granted the frightful license to destroy not only one’s self, but all within one’s care.
+I understood in a moment of stillness.  Those candle flames were like the lives of men. So fragile. So deadly. Left alone, they lit and warmed. Let run rampant, they would destroy the very things they were meant to illuminate. Embryonic bonfires, each bearing a seed of destruction so potent it could tumble cities and dash kings to their knees. In later years, my mind would return to that calm, silent evening, when I had stared at rows of living lights. And I would understand. To be given loyalty is to be infused like a gemstone, to be granted the frightful license to destroy not only one’s self, but all within one’s care.
 
 
 ### Stack of stones
@@ -140,31 +155,31 @@ There are also several smaller quotes scattered through the book, such as:
 
 
 >“*A man's emotions are what define him, and control is the hallmark of true strength. To lack feeling is to be dead, but to act on every feeling is to be a child.*”
-\-[15]
+\-[35]
 
 
 >“*A monarch is control. He provides stability. It is his service and his trade good. If he cannot control himself, then how can he control the lives of men? What merchant worth his Stormlight won’t partake of the very fruit he sells?*”
-\-[22]
+\-[42]
 
 
 >“*Never fight other men except when forced to in war.*”
-\-[22]
+\-[42]
 
 
 >“*Let your actions defend you, not your words.*”
-\-[22]
+\-[42]
 
 
 >“*Expect honor from those you meet, and give them the chance to live up to it.*”
-\-[22]
+\-[42]
 
 
 >“*Rule as you would be ruled.*”
-\-[22]
+\-[42]
 
 
 >“*As I fear not a child with a weapon he cannot lift, I will never fear the mind of a man who does not think.*”
-\-[23]
+\-[29]
 
 
 ## Trivia

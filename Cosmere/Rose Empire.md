@@ -4,7 +4,7 @@
 |**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-The **Rose Empire** is a nation on [[Sel\|Sel]]. It is on the same continent as [[Teod\|Teod]], but separated from it by mountains. The Rose Empire is ruled by the Emperor of Eighty Suns, who sits on the Rose Throne. The reigning emperor during the time of [[Wan ShaiLu\|Shai's]] imprisonment was [[Ashravan\|Emperor Ashravan]], the 49th Emperor of the Imperial dynasty. The lifespan of Rose Empire's dynasty is thus estimated to be within the range of 1000 to 3500 years at that point, given the lifespan of a [[Grand\|Grand]].
+The **Rose Empire** is a nation on [[Sel\|Sel]]. It is on the same continent as [[Teod\|Teod]], but separated from it by mountains. The Rose Empire is ruled by the Emperor of Eighty Suns, who sits on the Rose Throne. The reigning emperor during the time of [[Wan ShaiLu\|Shai's]] imprisonment was [[Ashravan\|Emperor Ashravan]], the 49th Emperor of the Imperial dynasty. The lifespan of Rose Empire's dynasty is thus estimated to be within the range of 1000 to 3500 years at that point, given the lifespan of a [[Grand\|Grand]]. 
 The Rose Empire maintains trade with the states of [[Sycla\|Sycla]], but has a more strained relationship with [[Svorden\|Svorden]]. Svorden had sent a table as a gift to Emperor Ashravan's predecessor, but the poor relationship with Svorden caused the emperor to lock it away.
 They know of the concept of mass production, and used it in collusion with [[Forgery\|Remembering]] to create complex works in quantity.
 The empire uses a caste system in which citizens attain ranks known as "reeds" that have certain requirements and privileges.

@@ -16,7 +16,7 @@ She also maintains a master spreadsheet with the entire timeline of the [[Cosmer
 
 ## Personal Life
 Karen was a member of one of Brandon's earliest writing groups named "Here There Be Dragons". She is commonly an alpha reader of Brandon's books and often appears in his acknowledgements; *[[Skyward\|Skyward]]* is dedicated to Karen.
-Karen's tendency to be ultra-prepared inspired a similar character trait in [[Steris Harms\|Steris Harms]]. [[Ka\|Ka]] from [[Roshar\|Roshar]] is named after Karen. She is married to Brandon's longtime friend and assistant, [[Peter Ahlstrom\|Peter Ahlstrom]].
+Karen's tendency to be ultra-prepared inspired a similar character trait in [[Steris Harms\|Steris Harms]]. [[Ka\|Ka]] from [[Roshar\|Roshar]] is named after Karen. She is married to Brandon's longtime friend and assistant, [[Peter Ahlstrom\|Peter Ahlstrom]]. 
 
 
 

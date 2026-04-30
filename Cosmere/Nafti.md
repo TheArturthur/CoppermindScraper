@@ -15,7 +15,7 @@
 
 
 ## Appearance and Personality
-The Uvara are noted as having "long, limber bodies". They wear shells in their hair that are not found elsewhere on Roshar, and monochrome robes.
+The Uvara are noted as having "long, limber bodies". They wear shells in their hair that are not found elsewhere on Roshar and monochrome robes.
 
 ## History
 [[Hoid\|Hoid]] related the story of a ship named the *[[Wandersail\|Wandersail]]*, captained by King [[Derethil\|Derethil]], to [[Kaladin\|Kaladin]]. The ship attempted to sail through a [[Highstorm\|highstorm]] on the open seas and was wrecked on the uncharted islands of the Uvara. The Uvara initially seemed like a peaceful people, but Derethil soon realized that they violently killed each other if they made any kind of mistake, in fear of displeasing their emperor.

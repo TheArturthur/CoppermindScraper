@@ -14,7 +14,7 @@ All of Mainframe's projects to date have had Brandon's involvement, but he has c
 *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, and *[[Evershore (novella)\|Evershore]]*, audio versions of the [[Cytoverse\|Cytoverse]] novellas coauthored with [[Janci Patterson\|Janci Patterson]]
 *Stephen Leeds: Death & Faxes*, a serial podcast-like extension of the *[[Legion (series)\|Legion]]* universe with a writer's room and Max Epstein as "showrunner"
 *Dark One: Forgotten*, an audio drama coauthored with Dan Wells
-A sequel to *Forgotten* titled *Dark One: Prophetic Histories* has been in development for several years
+A sequel to *Forgotten* titled *Dark One: Prophetic Histories* was in development for several years, but was later cancelled
 *[[Dawnshard (novella)\|Dawnshard]]* (audiobook)
 A second audiobook edition of *[[Edgedancer (novella)\|Edgedancer]]* that includes [[Lift\|Lift's]] interlude from *[[Words of Radiance\|Words of Radiance]]* as a prologue
 ## External Links

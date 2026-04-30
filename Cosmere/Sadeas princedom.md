@@ -20,7 +20,7 @@
 2 Highprince. [[#Highprince]] 
 3 History. [[#History]] 
 
-3. [[#Wastescum Skirmishes .28.3F.3F.3F.29]] 
+3. [[#Wastescum Skirmishes .28c. 1145.29]] 
 3. [[#War of Reckoning .281167-1173.29]] 
 
 3. [[#Border Skirmishes .281172.29]] 
@@ -49,11 +49,11 @@ One known region of the princedom is [[Akanny\|Akanny]]. This region is valued f
 After the murder of Highprince [[Torol Sadeas\|Torol Sadeas]], the rulership of the Sadeas princedom was given to [[Meridas Amaram\|Meridas Amaram]] by [[Ialai Sadeas\|Ialai Sadeas]], as her nephew - the heir - was too young. After Amaram's death, [[Ialai Sadeas\|Ialai Sadeas]] was the de facto head of the princedom, though the princedom itself is under the control of the [[Fused\|Fused]]. After Ialai's death in early 1175, Queen [[Jasnah Kholin\|Jasnah Kholin]] appointed a distant scion of Torol Sadeas as the new highprince.
 
 ## History
-Like all Alethi princedoms, Sadeas is a piece of [[Sunmaker\|Sunmaker]]-era Alethkar carved out by one of Sadees' sons. When Gavilar Kholin begun his conquest of Alethkar in the 1130s, Sadeas princedom, under the leadership of Torol Sadeas, was the only one to initially ally with him.
+Like all Alethi princedoms, Sadeas is a piece of [[Sunmaker\|Sunmaker]]-era Alethkar carved out by one of Sadees' sons. When [[Gavilar Kholin\|Gavilar Kholin]] begun his conquest of Alethkar in the 1130s, Sadeas princedom, under the leadership of Torol Sadeas, was the only one to initially ally with him.
 
-### Wastescum Skirmishes (???)
+### Wastescum Skirmishes (c. 1145)
 For more information, see [[Wastescum skirmishes\|Wastescum skirmishes]].
-A collection of skirmishes in the northern section of the Sadeas Princedom which occurred some time before 1166. The skirmishes were against groups of [[Reshi\|Reshi]] raiders who thought they could take advantage at the instability of Alethkar early after the crowning of [[Gavilar Kholin\|Gavilar Kholin]]. It can be reasonably assumed that the attempt to repel the raiders was successful.
+A collection of skirmishes in the northern section of the Sadeas Princedom which occurred shortly after Gavilar became king of Alethkar in 1145. The skirmishes were against groups of [[Reshi\|Reshi]] raiders who thought they could take advantage at the instability of Alethkar early after the crowning of [[Gavilar Kholin\|Gavilar Kholin]]. It can be reasonably assumed that the attempt to repel the raiders was successful.
 Soldiers for the battle were brought in from across the Sadeas Princedom, including various darkeyes in [[Hearthstone\|Hearthstone]]. The Reshi forces notably did not have any Shardblades.
 
 ### War of Reckoning (1167-1173)

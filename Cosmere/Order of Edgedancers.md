@@ -5,11 +5,11 @@
 |**[[Herald\|Herald]]**|[[Vedeledev\|Vedeledev]]|
 |**[[Spren\|Spren]]**|[[Cultivationspren\|Cultivationspren]]|
 |**[[Surge\|Surges]]**|[[Abrasion\|Abrasion]] & [[Progression\|Progression]]|
-|**[[Shardplate\|Plate]] spren**|*Unknown*|
+|**[[Shardplate\|Armor]] spren**|[[Lifespren\|Lifespren]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This article deals with the order of Knights Radiant. For the novella featuring Lift, see [[Edgedancer (novella)\|Edgedancer (novella)]].
 The **Order of Edgedancers** is an order of the [[Knights Radiant\|Knights Radiant]] on Roshar.
@@ -23,70 +23,97 @@ The Edgedancers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] 
 2. [[#The First Ideal]] 
 2. [[#The Second Ideal]] 
 2. [[#The Third Ideal]] 
+2. [[#The Fourth Ideal]] 
 
 
 3 Abilities. [[#Abilities]] 
 
 3. [[#Abrasion]] 
 3. [[#Progression]] 
+3. [[#Shardplate Abilities]] 
 
 
 4 History. [[#History]] 
+
+4. [[#The Ancient Radiants]] 
+4. [[#The Refounded Edgedancers]] 
+
+
 5 Notable Edgedancers. [[#Notable Edgedancers]] 
 6 Trivia. [[#Trivia]] 
 7 Notes. [[#Notes]] 
 
 
 ## Philosophy
-Edgedancers generally subscribe to a philosophy of remembering the ordinary people of the world. The order considers it their solemn duty to remember that the people are the ones they truly serve. They even aspire to remember and hear their enemies, as their stories could provide insight. Edgedancers see it as their duty to care for the common folk and improve their daily lives and are similar to Good Samaritans. They tend to attract religious people and leaders and those who advocate for ordinary people.
+>“*I will remember.*”
+\-The core philosophy of the Edgedancers[4]
+
+Edgedancers generally subscribe to a philosophy of remembering the ordinary people of the world. The order considers it their solemn duty to remember that the people are the ones they truly serve. Edgedancers tend to ignore high society. They even aspire to remember and hear their enemies, as their stories could provide insight.
+Edgedancers see it as their duty to care for the common folk and improve their daily lives and are similar to Good Samaritans. They generally avoid battle to focus on healing, rescuing, and triaging. They will also heal their enemies, as they are also people who others ignore. They tend to attract religious people and leaders and those who advocate for ordinary people.
 
 ## Ideals of the Edgedancers
-The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order. The Ideals of the Order of Edgedancers all focus on remembering and advocating for ordinary people.
+The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order.
+The Ideals of the Order of Edgedancers all focus on remembering and advocating for ordinary people.
 
 ### The First Ideal
 >“*Life before death, strength before weakness, journey before destination.*”
-\-The First Ideal of the Knights Radiant[8]
+\-The First Ideal of the Knights Radiant[10]
 
+
+The Edgedancers share the first ideal with all other orders of Radiants, which serves as the motto of the organization as a whole. The words are broadly interpreted to state the value of life, the importance of strength and service and the importance of the methods by which one accomplishes a task.
 
 ### The Second Ideal
 >“*I will remember those who have been forgotten.*”
-\-The Second Ideal of the Edgedancers, as sworn by Lift[4]
+\-The Second Ideal of the Edgedancers, as sworn by Lift[6]
 
+
+This oath is centered around remembering and bearing witness to people's lives. This applies to both allies and enemies.
 
 ### The Third Ideal
 >“*I will listen to those who have been ignored.*”
-\-The Third Ideal of the Edgedancers, as sworn by Lift[9]
+\-The Third Ideal of the Edgedancers, as sworn by Lift[12]
 
 
-It must be reached before an Edgedancer can manifest their cultivationspren as a [[Shardblade\|Shardblade]].
+This oath is focused on actively looking for people in distress and lending them an ear. It must be reached before an Edgedancer can manifest their cultivationspren as a [[Shardblade\|Shardblade]].
+
+### The Fourth Ideal
+The specific words of this Ideal are individualized, but the overarching theme is advocacy, carrying normal people's concerns to those with power to address them. Upon achieving this Ideal, an Edgedancer gains their [[Shardplate\|Shardplate]], which is formed of [[Lifespren\|lifespren]].
 
 ## Abilities
  
 >“*When [[Simol\|Simol]] was informed of the arrival of the Edgedancers, a concealed consternation and terror, as is common in such cases, fell upon him; although they were not the most demanding of orders, their graceful, limber movements hid a deadliness that was, by this time, quite renowned; also, they were the most articulate and refined of the Radiants.*”
-\-Words of Radiance, chapter 20, page 12[1]
+\-Words of Radiance, chapter 20, page 12[2]
 
 
-The Edgedancers use the Surges of **Abrasion** and **Progression**. [[Lift\|Lift's]] ability to metabolize food into [[/wiki/Lights#Lifelight]] is an unique exception relating to the [[Old Magic\|Old Magic]] and not a standard ability of Edgedancers.
+The Edgedancers use the Surges of **Abrasion** and **Progression**. [[Lift\|Lift's]] ability to metabolize food into [[/wiki/Lights#Lifelight]] is a unique exception relating to the [[Old Magic\|Old Magic]] and not a standard ability of Edgedancers.
 
 ### Abrasion
-[[/wiki/Surgebinding#Abrasion]] grants them the ability to manipulate friction. They can apply this in different ways. In close range combat, this ability can make them hard to be stopped or grabbed. When used to decrease wind friction and friction on feet, they can travel long distances at considerable speeds, though keeping balance without friction requires a lot of practicing. They have been described, poetically, as being able "to ride the thinnest rope at speed, dance across rooftops, and move through a battlefield like a ribbon on the wind."
+[[/wiki/Surgebinding#Abrasion]] grants them the ability to manipulate friction. They can apply this in different ways. In close range combat, this ability can make them hard to be stopped or grabbed. When used to decrease wind friction and friction on feet, they can travel long distances at considerable speeds, though keeping balance without friction requires a lot of practicing. They have been described, poetically, as being able "to ride the thinnest rope at speed, dance across rooftops, and move through a battlefield like a ribbon on the wind." While the most frequently seen use of abrasion focuses on reducing friction to move with increased fluidity and speed, edgedancers can also increase the friction between parts of their body and the environment, allowing them to stick more strongly to surfaces and increase the force with which they push off of surfaces as they slide. Increasing or more subtly manipulating friction may be a more advanced use of the Surge of Abrasion than simply canceling out friction entirely, requiring additional experience or higher level oaths.
 
 ### Progression
 [[/wiki/Surgebinding#Progression]] allows them to make plants or other organic objects grow much faster than normal. They can also heal, and although the extent of this ability is unknown, it seems that the wielder is even able to heal others from wounds suffered from Shardblades.
+
+### Shardplate Abilities
+Edgedancers' [[Shardplate\|Shardplate]] is formed of [[Lifespren\|lifespren]].
 
 ## History
 >“*The Edgedancers are too busy relocating the tower's servants and farmers to send a representative to record their thoughts in these gemstones.*
 \-I'll do it for them, then. They are the ones who will be most displaced by this decision. The Radiants will be taken in by nations, but what of all these people now without homes?
 
 
+### The Ancient Radiants
 The Edgedancers considered it their solemn duty to remember that they were servants of the people, and saw it as their duty to care for the ordinary people of the world. Before the [[Day of Recreance\|Day of Recreance]], the Edgedancers often had permanent assignments to live in towns across Roshar, providing healing with the Surge of Progression and otherwise assisting the community. When the Radiants decided to abandon [[Urithiru\|Urithiru]], the Edgedancers were too busy relocating the city's servants and farmers to send anyone to record a message in the [[Urithiru gem archive\|gem archive]] the other Radiants left behind. Despite their lack of interest in high society, they were often the most graceful and refined of the Radiants. Some felt that the Edgedancers ignored important things too much and considered them small-minded.
 Though they became renowned for their deadliness, when forced into battle, the Edgedancers preferred to function as medics or rescue trapped allies. When they fought, however, they were considered some of the most graceful fighters, and they occasionally functioned as scouts of joined a special forces team with Windrunners and Skybreakers.
 The Edgedancers were generally the most religious of the Radiants.
+
+### The Refounded Edgedancers
+The first known [[Cultivationspren\|cultivationspren]] to initiate a [[Nahel bond\|Nahel bond]] since the Recreance was [[Wyndle\|Wyndle]], who bonded [[Lift\|Lift]]. Since then, many more Edgedancers have been created, and all known Edgedancers serve the Coalition of Monarchs.
 
 ## Notable Edgedancers
 [[Lift\|Lift]] (bonded to [[Wyndle\|Wyndle]])
 [[Godeke\|Godeke]] (bonded to [[Archinal\|Archinal]])
 [[Lorain\|Lorain]] (bonded to an unknown cultivationspren)
+[[Baramaz\|Baramaz]] (bonded to an unknown cultivationspren)
 ## Trivia
 If he had joined the [[Knights Radiant\|Knights Radiant]], [[Wayne\|Wayne]] would most likely have been in the Order of Edgedancers. Most of the orders would look very strangely upon Wayne.
 If she had joined the [[Knights Radiant\|Knights Radiant]], [[Wan ShaiLu\|Wan ShaiLu]] would most likely have been in the Order of Edgedancers.

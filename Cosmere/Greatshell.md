@@ -5,9 +5,9 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Greatshell** is a term used to describe various large crustaceans native to [[Roshar\|Roshar]]. The family includes numerous related species, among them [[Chasmfiend\|chasmfiends]], [[Tai-na\|Tai-na]], [[Yu-nerig\|Yu-nerig]], and the extinct [[Lanceryn\|lanceryns]].
+**Greatshell** is a term used to describe various large crustaceans native to [[Roshar\|Roshar]]. The family includes numerous related species, among them [[Chasmfiend\|chasmfiends]], [[Tai-na\|Tai-na]], [[Yu-nerig\|Yu-nerig]], and the extinct [[Lanceryn\|lanceryn]].
 
 ## Contents
 
@@ -33,6 +33,7 @@ Gemhearts hold great value, and greatshells are often hunted; some species, like
 [[Lanceryn\|Lanceryn]]
 [[Tai-na\|Tai-na]]
 [[Yu-nerig\|Yu-nerig]]
+[[Yu-thorak\|Yu-thorak]]
 [[Santhid\|Santhids]] are known to be in the same family, although they are not explicitly named as greatshells.
 
 

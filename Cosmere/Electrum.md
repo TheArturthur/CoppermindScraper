@@ -23,6 +23,10 @@
 2 Allomantic Use. [[#Allomantic Use]] 
 3 Feruchemical Use. [[#Feruchemical Use]] 
 4 Hemalurgic Use. [[#Hemalurgic Use]] 
+
+4. [[#Bind Points]] 
+
+
 5 History. [[#History]] 
 6 Trivia. [[#Trivia]] 
 7 Notes. [[#Notes]] 
@@ -32,7 +36,7 @@
 The electrum used in the Metallic Arts is forty-five percent gold, fifty-five percent silver.
 
 ## Allomantic Use
-An electrum [[Misting\|Misting]] is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium\|atium]] shadows. One use of electrum is its ability to counter [[Atium\|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [[Elend\|Elend]] called it "poor man's atium".
+An electrum [[Misting\|Misting]] is known as an **Oracle**. Burning electrum will reveal possible futures of the Oracle up to several seconds, by casting shadows of oneself like [[Atium\|atium]] shadows. One use of electrum is its ability to counter [[Atium\|atium]], in this regard and the fact that gold and silver are relatively cheap compared to atium. [[Elend\|Elend]] called it "poor man's atium". 
 While burning electrum the Oracle's future will not be revealed to enemy Allomancers burning atium. Instead, it will cause the Oracle's observed atium shadow to split, preventing the enemy Allomancer from predicting one's actions.
 If burned with [[Duralumin\|duralumin]], it would likely have a similar effect to atium, in that the user would be able to see into the [[Spiritual Realm\|Spiritual Realm]].
 
@@ -42,6 +46,8 @@ An electrum [[Ferring\|Ferring]] is known as a **Pinnacle**. Electrum is used to
 ## Hemalurgic Use
 When used as a Hemalurgic spike, electrum steals Enhancement Allomantic powers ([[Chromium\|chromium]], [[Nicrosil\|nicrosil]], [[Aluminum\|aluminum]], and [[Duralumin\|duralumin]]).
 
+### Bind Points
+Allomantic Duralumin: Allomantic duralumin can be stolen by placing an electrum spike between two ribs.
 ## History
 The [[Lord Ruler\|Lord Ruler]] hid electrum from public knowledge since it would completely destroy the value of atium and the system of atium economy. Vin later found descriptions of this metal on a metal plate in the [[Urteau\|Urteau]] [[Storage cavern\|storage cavern]].
 

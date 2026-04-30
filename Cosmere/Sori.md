@@ -6,7 +6,9 @@
 |**World**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Sori** is a small island in the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]].
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+**Sori** is a small island in the [[Pantheon\|Pantheon]] on [[First of the Sun\|First of the Sun]]. 
 
 ## Contents
 

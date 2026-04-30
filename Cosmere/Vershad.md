@@ -23,7 +23,8 @@
 
 
 2 Quotes. [[#Quotes]] 
-3 Notes. [[#Notes]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
 
 
 ## History
@@ -35,8 +36,8 @@ As a koloss, Human retains much of his intelligence and determination, which mak
 
 ### Human
 Human meets [[Vin\|Vin]] and [[Elend\|Elend]] shortly after they expose villagers to the [[Mist\|mists]] outside of [[Vetitan\|Vetitan]] in order to inoculate them. He diffuses Vin's assumptions that all koloss are alike with his observations and remarks. This continues as they spend more time together, where Vin discerns that he could use fair logic and has somewhat keen observations. However, she is puzzled by Human's insistence that he is human.
-Later, Human again insists that he is human, and expresses the desire for human possessions such as a house. Vin attempts to explain that he can't have those things, because human ways are not the same as koloss ways, stating that humans don't kill someone because they make them feel uncomfortable. Human observes that instead of killing each other, humans just use koloss to kill one another.
-Vin questions Human about the mists, whether he and the other koloss fear them. He responds by saying that mist does not kill, thus it is nothing to fear, just like any other weather. But he continues his line of thought, and stated that he hates the mists, because he can feel their hatred of him, and recognises that Vin feels the same way about the mists. This is due to having [[Hemalurgy\|hemalurgic]] spikes, but neither of the two realized this at the time.
+Later, Human again insists that he is human, and expresses the desire for human possessions such as a house. Vin attempts to explain that he can't have those things, because human ways are not the same as koloss ways, stating that humans don't kill someone because they make them feel uncomfortable. Human observes that instead of killing each other, humans just use koloss to kill one another. 
+Vin questions Human about the mists, whether he and the other koloss fear them. He responds by saying that mist does not kill, thus it is nothing to fear, just like any other weather. But he continues his line of thought, and stated that he hates the mists, because he can feel their hatred of him, and recognizes that Vin feels the same way about the mists. This is due to having [[Hemalurgy\|hemalurgic]] spikes, but neither of the two realized this at the time.
 Shortly after [[Aradan Yomen\|Aradan Yomen's]] raid on Elend's camp, Human surprises Vin with the first known indication of any kind of morality from a koloss, stating that it's not right that he shows her how koloss are made. Vin Pushes Human [[Allomancy\|Allomantically]] to get him to reveal how koloss are created. He screams, proceeding to run into the army's human camp with a dead koloss, immediately attempting to take the hemalurgic spikes from the koloss and place them into a wounded human soldier, but Vin stops him, finally uncovering the secret of how koloss are created. Human once again states that he is human.
 During the final conflict between [[Ruin\|Ruin]] and [[Preservation\|Preservation]], Human leads koloss soldiers inside the underground tunnels of the kandra Homeland while under the influence of Ruin. Human is aware that Ruin is controlling him, and that Ruin is far more powerful than Vin. Ruin forces Human and his soldiers to ignore the humans in order to find the atium cache. He enters the [[Trustwarren\|Trustwarren]], only to find it completely empty.
 When [[Harmony\|Harmony]] takes up the power and begins to restore Scadrial to what it had been before the Lord Ruler reshaped the world using the power at the Well of Ascension over one thousand years earlier, Human and the other koloss soldiers with him are still in the underground tunnels, and survive the restoration of Scadrial as Harmony reshapes the planet again. Harmony alters these surviving koloss to become true-breeding, although it is not known how this was achieved.
@@ -62,6 +63,9 @@ When [[Harmony\|Harmony]] takes up the power and begins to restore Scadrial to w
 \-Human demonstrating koloss values and morality.[4]
 
 
+## Trivia
+After the Catacendre, a [[Human (River)\|river]] in the Roughs was named after Human. It is a little unclear whether or not this river is actually real, or just a story.
+Human is also featured in the Post-Catacendre historical operetta *A Hero for All Ages*. During at least one performance, he is played by the [[Kandra\|Kandra]] [[Tabaar\|Tabaar]].
 
 
 https://coppermind.net/wiki/Vershad

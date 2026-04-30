@@ -28,32 +28,34 @@
 2. [[#Direct intervention]] 
 
 
-3 History. [[#History]] 
+3 Vessels. [[#Vessels]] 
+4 History. [[#History]] 
 
-3. [[#The Deal and Betrayal]] 
-3. [[#Plotting Escape]] 
+4. [[#The Deal and Betrayal]] 
+4. [[#Plotting Escape]] 
 
-3. [[#Alendi]] 
-3. [[#Kelsier and Vin]] 
-
-
-3. [[#Destruction upon Scadrial]] 
-3. [[#Achieving Harmony]] 
+4. [[#Alendi]] 
+4. [[#Kelsier and Vin]] 
 
 
-4 Influence. [[#Influence]] 
-5 Quotes. [[#Quotes]] 
-6 Trivia. [[#Trivia]] 
-7 Notes. [[#Notes]] 
+4. [[#Destruction upon Scadrial]] 
+4. [[#Achieving Harmony]] 
+
+
+5 Influence. [[#Influence]] 
+6 Quotes. [[#Quotes]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Intent
+ 
 >“*Death is necessary. Every clock must wind down, every day must end. Without me there is no life, and never could have been. Life is change, and I represent that change.*”
 \-Ruin[7]
 
 
 Ruin is the embodiment of entropy and decay; it seeks change, so that all may age and pass. It is not inherently evil, as without change there can be no life, but its destructive actions are often contrary to life existing peacefully. This approach to Ruin as simply inevitable decay is largely due to [[Ati\|Ati's]] original kind nature, as he deliberately channeled Ruin towards a more peacable state. In other hands, the Shard would've been a far more destructive force. Ruin is not just about the entropy and decay of the world, but also operates on a psychological level.
-It is the polar opposite of [[Preservation\|Preservation]] -- a relation most other Shards don't have. Since the [[Final Ascension\|Final Ascension]], Preservation has tempered Ruin's intent, which also makes it difficult for anyone holding [[Harmony\|Harmony]] to take direct action heavily favoring one side or the other.
+It is the polar opposite of [[Preservation\|Preservation]] -- a relation most other Shards don't have. Since the [[Final Ascension\|Final Ascension]], Preservation has tempered Ruin's Intent, which also makes it difficult for anyone holding [[Harmony\|Harmony]] to take direct action heavily favoring one side or the other.
 
 ## Associated magic
   <<Steel Inquisitor\|Steel Inquisitor>>, a person altered by <<Hemalurgy\|Hemalurgy>>
@@ -61,6 +63,7 @@ It is the polar opposite of [[Preservation\|Preservation]] -- a relation most ot
 For more information, see [[Hemalurgy\|Hemalurgy]].
 Ruin fuels [[Hemalurgy\|Hemalurgy]] -- one of the three Metallic Arts on [[Scadrial\|Scadrial]], and a unique one among them in that it can be used by anyone anywhere, provided they have the appropriate tools and [[Intention\|Intent]]. It allows for removing a portion of a person's [[Spiritweb\|spiritweb]] and grafting it onto someone else with a metal spike, essentially stealing an attribute or power and giving it to another. Various attributes can be stolen, from physical qualities such as strength or senses to magical powers, like [[Allomancy\|Allomantic]] abilities, and even foreign magic systems like [[Surgebinding\|Surgebinding]]. What attribute is stolen depends on the metal used and the placement of the spike. By transplanting powers and qualities, Hemalurgy can be used to effectively create new species; examples of such creatures are [[Kandra\|kandra]], [[Koloss\|koloss]] and the [[Steel Inquisitor\|Steel Inquisitors]].
 People who are pierced by Hemalurgic spikes can hear Ruin's voice in their head. Moreover, Ruin can also subtly manipulate the emotions of spiked individuals, and slightly alter their perception of certain things without them being aware of it. The more spikes pierce a person, the more holes in their spiritweb, which in turn allows for easier control as well as greater susceptibility to emotional Allomancy. For example, humans with one spike are only subtly affected by Ruin, whereas koloss, which are humans with four spikes, are under direct and absolute control of Ruin. Three spikes or less do not enable complete control of a person.
+A similar system to Hemalurgy has been observed on [[Roshar\|Roshar]], making use of crystalline spikes as opposed to metallic ones. What, if any, connection this has to Ruin is currently unknown.
 
 ### Feruchemy
 For more information, see [[Feruchemy\|Feruchemy]].
@@ -76,19 +79,32 @@ In solid form, Ruin's power appears as the metal [[Atium\|atium]], named after t
 Atium burns incredibly quickly; even a relatively large bead lasts for only about two minutes. Prior to the [[Final Ascension\|Final Ascension]], the metal could only be found in the [[Pits of Hathsin\|Pits of Hathsin]], which surrounded Ruin's [[Perpendicularity\|perpendicularity]]; a lake with black sheen, originally high in the mountains, near the [[Well of Ascension\|Well of Ascension]], though it was moved underground by [[Rashek\|Rashek]] during his reshaping of the planet. Production there ceased when [[Kelsier\|Kelsier]] destroyed the crystals that atium grew from. Post-[[Catacendre\|Catacendre]], atium can no longer be formed, though remnants from before [[Ati\|Ati's]] death still exist.
 
 ### Direct intervention
-Despite its destructive intent, Ruin is capable of, together with Preservation, vast acts of creations; among others, [[Ati\|Ati's]] partially responsible for creating the planet [[Scadrial\|Scadrial]], and has worked together with [[Leras\|Leras]] to fill it with living, thinking creatures. This grants him additional abilities within the world -- he can read and alter any text not written in metal, and even alter the landscape itself, prompting volcanic explosions and earthquakes. Ruin also lets the Vessel take on appearance and voice of different people, and lets him speak into the minds of others, though they must be either mentally unsound or pierced by a [[Hemalurgic\|Hemalurgic]] spike to hear Ruin's voice.
+Despite its destructive Intent, Ruin is capable of, together with Preservation, vast acts of creations; among others, [[Ati\|Ati's]] partially responsible for creating the planet [[Scadrial\|Scadrial]], and has worked together with [[Leras\|Leras]] to fill it with living, thinking creatures. This grants him additional abilities within the world -- he can read and alter any text not written in metal, and even alter the landscape itself, prompting volcanic explosions and earthquakes. Ruin also lets the Vessel take on appearance and voice of different people, and lets him speak into the minds of others, though they must be either mentally unsound or pierced by a [[Hemalurgic\|Hemalurgic]] spike to hear Ruin's voice.
+
+## Vessels
+|**Vessels of Ruin**|
+|-|-|
+|**Name**|**Length of Godhood**|**Citations**|
+|[[Ati\|Ati]]|The [[Shattering\|Shattering]] - 1025 [[Final Empire\|FE]]||
+|[[Sazed\|Sazed]]|1025 [[Final Empire\|FE]] - *Incumbent*||
+
+Ruin had two Vessels over its history, being passed during the Scadrian year 1025 [[Final Empire\|FE]] following the death of its original Vessel. 
+Ruin was originally picked up by Ati shortly following the Shattering of Adonalsium, who held it for around 10,000 to 11,000 years. 
+He was eventually killed during the final battle against Preservation.
+Following the deaths of the previous Vessels of Ruin and Preservation, both Shards were taken up by [[Sazed\|Sazed]], uniting as the Shard of [[Harmony\|Harmony]]. This was the first instance of one Vessel taking up more than one Shard at a time, and it would be the only instance of such an occurrence of this until the formation of Retribution over 300 years following the birth of Harmony.
 
 ## History
 For the history of Ati prior to becoming Ruin, see [[/wiki/Ati#History]].
 ### The Deal and Betrayal
 The [[Shard\|Shard]] of Ruin was created on the planet [[Yolen\|Yolen]] at the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]], along with fifteen others, and taken up by [[Ati\|Ati]]. He, along with [[Preservation\|Preservation's]] Vessel [[Leras\|Leras]], departed the planet, and eventually wound up in an empty star system. Originally, the two Shards were balanced there -- though they could create by working together, neither would be happy with the end result.
+Over seven-thousand years before the [[Night of Sorrows\|Night of Sorrows]], likely before Ruin was sealed away, [[Honor\|Honor]] sought after him to help him deal with the growing threat of [[Odium\|Odium]], remembering his heroic nature as a mortal. However, Ati turned down his requests.
 Eventually, Preservation's desire to make sapient creatures prompted him to offer a deal to Ruin. Together, they could create [[Scadrial\|Scadrial]] and fill it with living beings; by endowing them with sapience, Preservation would give up part of himself. In doing so, he left himself weaker than Ruin, which formed the basis of their agreement that Ruin would be allowed to destroy the world some day.
 However, Preservation broke the terms of the deal by sacrificing his mind to create a prison for Ruin, preventing him from destroying the planet. Furthermore, in an attempt to balance the two Shards, he sequestered away a portion of Ruin's power by condensing it into the metal [[Atium\|atium]].
 
   <<Vin\|Vin>> sinking into the <<Well of Ascension\|Well of Ascension>>, freeing Ruin
 ### Plotting Escape
 >“*'Giving the power up’ is a stand-in for giving the power to [Ruin]. The powers would interpret that as me releasing him. My power, accepting his touch back into the world, directly.*”
-\-Leras[40]
+\-Leras[45]
 
 
 #### Alendi
@@ -103,29 +119,29 @@ Eventually, the Well filled again, and Vin entered its chamber. [[Kelsier\|Kelsi
 ### Destruction upon Scadrial
   Ruin in the <<Cognitive Realm\|Cognitive Realm>>
 >“*I have come to claim what was promised me. The only point in creating something is to watch it die.*”
-\-Ruin[30]
+\-Ruin[31]
 
 
 Once free, Ruin immediately set out on his plan to destroy [[Scadrial\|Scadrial]]; however, his power locked in [[Atium\|atium]] still diminished him enough to equal him with Preservation, and so he could not simply make it vanish in an instant. He tried to amend it by sending people out to find the missing atium stash. At the same time, he began killing all Scadrians. [[Ashmounts\|Ashmounts]] would erupt much more frequently, causing the omnipresent ash to fall more heavily and lava flows to endanger several towns. Earthquakes also became much more common, and started appearing in more places; while they used to be practically unheard of in the [[Dominance\|Inner Dominances]], they began to appear there frequently.
-Prompted by [[Ati\|Ati's]] inherent need to gloat, Ruin began appearing to both [[Vin\|Vin]] and [[Kelsier\|Kelsier]] to boast about his achievements; it was those meetings that allowed the two to realize that Ruin was a person, and not merely a force. However, Ruin was also manipulating people to sow further chaos -- he took control of the [[Steel Inquisitor\|Steel Inquisitors]] and the [[Koloss\|koloss]] to create more of both. He also arranged for [[Penrod\|Penrod]] and [[Spook\|Spook]] to have Hemalurgic spikes to make sure he could use them. This would make [[Luthadel\|Luthadel]] and [[Urteau\|Urteau]] too disorganized to mount a defense, requiring Vin and [[Elend\|Elend's]] attention. Though Ruin's scheme in Luthadel was successful, he ultimately failed in Urteau thanks to both Spook's force of will and the intervention of [[Kelsier\|Kelsier]].
+Prompted by [[Ati\|Ati's]] inherent need to gloat, Ruin began appearing to both [[Vin\|Vin]] and [[Kelsier\|Kelsier]] to boast about his achievements; it was those meetings that allowed the two to realize that Ruin was a person, and not merely a force. However, Ruin was also manipulating people to sow further chaos -- he took control of the [[Steel Inquisitor\|Steel Inquisitors]] and the [[Koloss\|koloss]] to create more of both. He also arranged for [[Penrod\|Penrod]] and [[Spook\|Spook]] to have Hemalurgic spikes to make sure he could use them. This would make [[Luthadel\|Luthadel]] and [[Urteau\|Urteau]] too disorganized to mount a defense, requiring Vin and [[Elend\|Elend's]] attention.  Though Ruin's scheme in Luthadel was successful, he ultimately failed in Urteau thanks to both Spook's force of will and the intervention of [[Kelsier\|Kelsier]].
 
   <<Sazed\|Sazed>> ascending to <<Harmony\|Harmony>>
 ### Achieving Harmony
 For the history of Sazed prior to becoming Ruin, see [[/wiki/Sazed#History]].
 >“*You think this was your plan? It was [Preservation]'s. His all along. You created the thing that can kill you, Ruin.*”
-\-Vin[53]
+\-Vin[38]
 
 
 Seeking to fight Ruin, Kelsier, now the temporary vessel of [[Preservation\|Preservation]], sought a way to pass the power onto Vin, whom Leras pointed out as its intended recipient. After freeing Spook from Ruin's influence, he told him to send a message to her written in metal, telling her about what was going on. Ruin, knowing what Kelsier was planning, sent [[Marsh\|Marsh]], one of his Inquisitors, to kill the messanger and read the text out-loud, thus letting Ruin know what had been written. However, that was part of Kelsier's plan -- as Marsh found out what was going on, he managed, in a moment of lucidity, to tear the earring out of Vin's ear, letting Kelsier bestow Preservation upon her.
 After her Ascension, Vin clashed with Ruin a few times, though she was never able to overpower him, as at the time, the two Shards were far too balanced. The tipping point, however, came during the [[Battle of Hathsin\|Battle of Hathsin]]. There, Ruin, through the [[Koloss\|koloss]] and Inquisitors it controlled, sought to find the atium cache. At the same time, [[Elend\|Elend]] and his armies, their [[Allomancy\|Allomancy]] boosted by Vin, confronted Ruin's forces on the surface. Eventually, the stash turns out to be empty -- Elend had used all the atium with his mistings during the fight. At the same time, [[Marsh\|Marsh]], under Ruin's control, managed to kill Elend, and taunted Vin about it. Mourning, Vin, now free from all ties to the world, attacked Ruin directly. The collision between two equal and perfectly opposing forces killed both Vessels.
-This end of Ruin was Preservation's plan all along. Leras had held Preservation for so long that he was bound by its intent, and could not kill or destroy anything, not even Ruin. And so, he arranged to have the Shard pass on to a new Vessel, who would not be so strongly bound by the Shard's intent and thus would have more freedom to use its power.
+This end of Ruin was Preservation's plan all along. Leras had held Preservation for so long that he was bound by its Intent, and could not kill or destroy anything, not even Ruin. And so, he arranged to have the Shard pass on to a new Vessel, who would not be so strongly bound by the Shard's Intent and thus would have more freedom to use its power.
 However, the planet was still dying, and thus Preservation's plan reached its conclusion. [[Sazed\|Sazed]], present at the battle though not directly participating, saw the two powers and took up both of them, mixing them together into [[Harmony\|Harmony]]. With them, Sazed reconstituted the [[Scadrial\|Scadrial]] that had existed before the Lord Ruler’s Ascension. 
 
 For the subsequent events, see [[/wiki/Harmony#History]].
 ## Influence
   <<Preservation\|Preservation>>, <<Harmony\|Harmony>> and Ruin
 >“*You make our religion all about you. They hardly remember the truth any longer.*”
-\-Leras to Ruin[58]
+\-Leras to Ruin[62]
 
 
 Ruin's influence is omnipresent on [[Scadrial\|Scadrial]]; he was one of the planet's creators, and all things and living beings upon it are partially of him.. Later, he manipulated its people and texts to arrange for his own freedom. He's also responsible by proxy for the planet's miserable state during [[Rashek\|Rashek's]] reign, as the Lord Ruler's changes were partially prompted by his desire to oppose Ruin. Later, it was Ruin's destruction of the planet that caused [[Sazed\|Sazed]] to pick up the two powers and return Scadrial to its prior state.

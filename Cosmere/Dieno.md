@@ -8,14 +8,15 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: BrokenOaths, please contact them before doing edits.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the [[Mokia\|Mokian]] advisor, see [[Mink (Alcatraz)\|Mink (Alcatraz)]].
 >“*You... don't know our gancho, Brightlord. This is **exactly** how he treats dangerous situations.*”
 \-One of the Mink's bodyguards, on his habit of disappearing randomly[1]
 
 
-**Dieno enne Calah** (Old Herdazian for "Dieno the Mink," with "enne" being an honorific implying greatness), often known as **the Mink**, is a general in command of a group of soldiers and refugees at the [[Alethkar\|Alethi]]-[[Herdaz\|Herdazian]] border after the initial [[Singer\|singer]] occupation of Alethkar.
+**Dieno enne Calah** (Old Herdazian for "Dieno the Mink," with "enne" being an honorific implying greatness), often known as **the Mink**, is a general in command of a group of soldiers and refugees at the [[Alethkar\|Alethi]]-[[Herdaz\|Herdazian]] border after the initial [[Singer\|singer]] occupation of Alethkar. 
 
 ## Contents
 

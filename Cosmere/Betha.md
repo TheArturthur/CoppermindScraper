@@ -13,7 +13,7 @@
 
 **Betha** is the leader of the gang of thugs that have been hired by [[Sullik\|Sullik]] to protect [[All's Alley\|All's Alley]] at [[Urithiru\|Urithiru]]. She is a noblewoman with light brown eyes and of an unknown [[Dahn\|dahn]].
 She wears a [[Havah\|havah]] that does not have a [[Safehand\|safehand]] sleeve and a glove that has been cut off at the knuckles.
-She is aware of the [[Ghostbloods\|Ghostbloods]] and recognises their symbol. She wants nothing to do with the group. She is calm when confronted and unfazed by violence, even against those she knows.
+She is aware of the [[Ghostbloods\|Ghostbloods]] and recognizes their symbol. She wants nothing to do with the group. She is calm when confronted and unfazed by violence, even against those she knows.
 
 ## History
 >“*You think assaulting my friends is going to make me more likely to talk?*”

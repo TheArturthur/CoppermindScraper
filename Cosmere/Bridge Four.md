@@ -4,7 +4,8 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: KlikBate77, please contact him before doing edits.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Bridge Four** is the name of a group headed by [[Kaladin Stormblessed\|Kaladin Stormblessed]], an Alethi [[Knight Radiant\|Knight Radiant]] of the [[Order of Windrunners\|Order of Windrunners]]. The group was originally one of the [[Bridge crew\|bridge crews]] of the Sadeas warcamp in the [[Shattered Plains\|Shattered Plains]], hence the name, but its function has evolved over time, becoming both [[Dalinar Kholin\|Dalinar Kholin's]] honor guard as well as a military unit within a battalion of the Kholin army, then later becoming a group largely consisting of Kaladin's [[Squire\|squires]] and [[Knights Radiant\|Knights Radiant]] loyal to him. Despite such drastic changes, the members still refer to themselves by their original bridge crew name, and have even kept their old bridge with them.
 Their insignia, designed by Kaladin, is made up of the glyph *vev* (meaning the number four) suspended above the glyph *gesheh* (meaning bridge), stylized as a bridge spanning a chasm.
@@ -42,7 +43,7 @@ Upon arrival at the bridge yard in Sadeas' warcamp [[Kaladin\|Kaladin]] managed 
 \-Kaladin to Teft on the marching off for the Battle of the Tower[6]
 
 
-Kaladin, still unaware of his latent powers as a [[Windrunner\|Windrunner]], managed to survive the bridge runs even after several weeks, and eventually decided to protect other members of Bridge Four and become their bridgeleader. Using both his medical and military knowledge, he quickly turned the crew around. His efforts in building morale and instilling discipline led to better organization. He found ways to treat wounded crew members, saving many lives. Soon enough Bridge Four was having the fewest casualties among the bridge crews. However due to Kaladin's selfish tactics in one particular battle, every other bridge crew suffered heavy casualties and the battle was lost due to Kaladin instructing his bridgemen to use their bridge as a shield. The other bridges were shot at more by the Parshendi. Kaladin's bridge was one of the only ones that made it to the chasm. Kaladin was punished but Bridge Four remained by his side even upon his near death.
+Kaladin, still unaware of his latent powers as a [[Windrunner\|Windrunner]], managed to survive the bridge runs even after several weeks, and eventually decided to protect other members of Bridge Four and become their bridgeleader. Using both his medical and military knowledge, he quickly turned the crew around. His efforts in building morale and instilling discipline led to better organization. He found ways to treat wounded crew members, saving many lives. Soon enough Bridge Four was having the fewest casualties among the bridge crews. However due to Kaladin's selfish tactics in one particular battle, every other bridge crew suffered heavy casualties and the battle was lost due to Kaladin instructing his bridgemen to use their bridge as a shield. The other bridges were shot at more by the Parshendi. Kaladin's bridge was one of the only ones that made it to the chasm. Kaladin was punished by being left outside in the [[Highstorm\|Highstorm]], but Bridge Four remained by his side even upon his near death. During this time, they were sometimes refered to as the Order of Bone.
 
 ### Escape Plan and Freedom
   Training with Kaladin in the chasms
@@ -81,26 +82,26 @@ Surviving members who've been in Bridge Four since the bridge crew days have [[G
   The portion of the glyph meaning "Bridge Four"
 In Alethi society, slaves are often branded with a mark of slavery on their forehead to make their status apparent to anyone who sees them. A freed slave is given a writ of freedom, but he could also cover his slave brand with a tattoo indicating details of his freedom in order to lessen potential misunderstandings.
 Shortly after moving to Dalinar's warcamp, Kaladin hires a tattooist to give a Freedom tattoo to those Bridge Four members who'd been slaves. The first one to get it, [[Hobber\|Hobber]], insists on having glyphs for "Bridge Four" added to the tattoo as well, as a statement of loyalty and gratitude towards Bridge Four. The rest of the former slaves copy him. As a gesture of solidarity, even those who didn't have the slave brand request for the same tattoo as well, although [[Moash\|Moash]] opts to have the tattoo placed on his left shoulder instead of his forehead.
-Somehow the ink keeps on melting away from Kaladin's forehead when it is his turn to be tattooed. It is believed that this is because of the Spiritual Aspect of Identity. Because Kaladin perceives the scars to be part of his identity the Investiture from the Stormlight reverses the change. After speaking the Fourth Ideal, Kaladin's father notices that his scars are falling off as scabs, leaving clean smooth skin behind.
+Somehow the ink keeps on melting away from Kaladin's forehead when it is his turn to be tattooed. It is believed that this is because of the Spiritual aspect of Identity. Because Kaladin perceives the scars to be part of his identity the Investiture from the Stormlight reverses the change.  After speaking the Fourth Ideal, Kaladin's father notices that his scars are falling off as scabs, leaving clean smooth skin behind.
 
 ## Notable Members
  
 For a full list of members, see Category:Bridge Four.
 
-[[Kaladin\|Kaladin]] (captain)
-[[Lunamor\|Lunamor]] (lieutenant; a.k.a Rock)
-[[Moash\|Moash]] (lieutenant; former—traitor)
-[[Teft\|Teft]] (lieutenant—deceased)
-[[Skar\|Skar]] (lieutenant)
-[[Sigzil\|Sigzil]] (lieutenant)
+[[Kaladin\|Kaladin]]
+[[Rock\|Rock]]
+[[Moash\|Moash]]
+[[Teft\|Teft]]
+[[Skar\|Skar]]
+[[Sigzil\|Sigzil]]
 [[Dabbid\|Dabbid]]
 [[Drehy\|Drehy]]
 [[Hobber\|Hobber]]
 [[Leyten\|Leyten]]
 [[Lopen\|Lopen]]
-[[Rlain\|Rlain]] (a.k.a. Shen)
-[[Lyn\|Lyn]] (post-Sadeas)
-[[Renarin Kholin\|Renarin Kholin]] (post-Sadeas)
+[[Rlain\|Rlain]]
+[[Lyn\|Lyn]]
+[[Renarin\|Renarin]]
 
 
 

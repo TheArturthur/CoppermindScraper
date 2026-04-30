@@ -4,7 +4,7 @@
 |**Family**|
 |**Parents**|[[Algernon Weight\|Algernon]] & [[Jeshua Weight\|Jeshua]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
-|**Titles**|Callsign: Jerkface, Flightleader of Skyward Flight, Vice Admrial|
+|**Titles**|Callsign: Jerkface, Flightleader of Skyward Flight, Vice Admiral|
 |**Profession**|DDF pilots|
 |**Groups**|[[DDF\|DDF]], [[Skyward Flight\|Skyward Flight]], [[Riptide Flight\|Riptide Flight]]|
 |**Homeworld**|[[Detritus\|Detritus]]|
@@ -17,7 +17,7 @@
 \-Jorgen to Spensa on why he didn’t turn her in[2]
 
 
-**Jorgen Weight**, callsign **Jerkface**, is a pilot in the [[Defiant Defense Force\|Defiant Defense Force]] and [[Skyward Flight\|Skyward Flight's]] flight leader. After graduating flight school, he initially joins [[Riptide Flight\|Riptide Flight]] before taking back the flight leader role when Skyward Flight is reformed.
+**Jorgen Weight**, callsign **Jerkface**, is a pilot in the [[Defiant Defense Force\|Defiant Defense Force]] and [[Skyward Flight\|Skyward Flight's]] flight leader. After graduating flight school, he initially joins [[Riptide Flight\|Riptide Flight]] before taking back the flight leader role when Skyward Flight is reformed. 
 
 ## Contents
 
@@ -77,7 +77,7 @@ Jorgen’s family owned three private fighters, and Jorgen had been training on 
 Since the first day, Jorgen took their training very seriously and tried to bully the team around, wanting them to follow his orders. It was not well received by the team and brought [[Spensa\|Spensa]] to a defensive aggressive attitude. She gave him the Callsign of “Jerkface” which gained traction with the rest of the team.
 During his first days and battles, Jorgen led the team with a cool head, however he was very frustrated with the lack of respect he received from his team, especially [[Spensa\|Spensa]], and refused to accept the Callsign of Jerkface. He tried to comfort the team by giving a speech after Bim and Morningtide died, which was not a very good one and taken off a book.
 After the battle, [[Spensa\|Spensa]] found him going over and over through the simulation of that battle, where he tried several times to find a way he could’ve saved Morningtide. He continued to give advice to all his flight, even if they didn’t always take it the right way.
-In a later flight, Spensa's wingmate, [[Hurl\|Hurl]], dies. She crashes because she was unwilling to eject. Spensa announced she would give her a proper pilot’s burial and is followed by Jorgen who takes her in his hover-car. He brought the materials for a funeral pyre. They recovered Hurl's pin to give to her parents and burned Hurl's body. Jorgen also helped [[Spensa\|Spensa]] with taking the booster for her ship. [[Spin\|Spin]] told the rest of the crew about what they did for Hurl and Jorgen was better respected after that.
+In a later flight, Spensa's wingmate, [[Hurl\|Hurl]], dies. She crashes because she was unwilling to eject. Spensa announced she would give her a proper pilot’s burial and is followed by Jorgen who takes her in his hover-car.  He brought the materials for a funeral pyre. They recovered Hurl's pin to give to her parents and burned Hurl's body. Jorgen also helped [[Spensa\|Spensa]] with taking the booster for her ship. [[Spin\|Spin]] told the rest of the crew about what they did for Hurl and Jorgen was better respected after that.
 As their flight numbers lowered, with the departure of [[Arturo Mendez\|Arturo]], [[Nedd Strong\|Nedd]] and [[Kimmalyn\|Kimmalyn]], they were asked to join with other flights. This was the first time he had to use his callsign of Jerkface. After the other crews tried to call him out for being “smug”, he received the support from both [[FM\|FM]] and [[Spin\|Spin]] who called him a great flightleader.
 Only Jorgen and FM from Skyward flight graduated. After a very short graduation, they were sent with the rest of the pilots to secure a falling shipyard which, if rescued, could give enough parts to build a winning fleet. This however was a trap and not only were they outnumbered in battle, but the city of [[Alta\|Alta]] and [[Igneous Cavern\|Igneous Cavern]] were unprotected, targeted for destruction.
 He tried to return on time to save [[Spensa\|Spensa]] but he was too far away. He managed to survive the fight and became a full pilot of the DDF.
@@ -102,7 +102,7 @@ They arrived back at Detritus, and were greeted by a very surprised Cobb. Afterw
 >“*Good, I really think we can all benefit from working together. I could use some coaching in cytonics, if you haven’t noticed.*”
 \-Jorgen to Alanik[33]
 
-When Alanik reached out to him cytonically, Jorgen’s and her mind connected, giving Alanik the cytonic key and letting her hyperjump to Detritus. Jorgen and FM met with her, inadvertently revealing to her that the taynix are hyperdrives. Jorgen convinced Alanik that she needed to meet with Jeshua and Cobb, since Jorgen didn’t have the authority to help her properly. Once in the meeting room, Cobb and Jeshua couldn’t agree on who had command over an alliance with Alanik and her political faction. Jorgen was grateful when Alanik pretended she already knew about the taynix, instead of learning about them from him.. When Alanik was given quarters to await the decision, Jorgen and other members of
+When Alanik reached out to him cytonically, Jorgen’s and her mind connected, giving Alanik the cytonic key and letting her hyperjump to Detritus. Jorgen and FM met with her, inadvertently revealing to her that the taynix are hyperdrives. Jorgen convinced Alanik that she needed to meet with Jeshua and Cobb, since Jorgen didn’t have the authority to help her properly. Once in the meeting room, Cobb and Jeshua couldn’t agree on who had command over an alliance with Alanik and her political faction. Jorgen was grateful when Alanik pretended she already knew about the taynix, instead of learning about them from him.. When Alanik was given quarters to await the decision, Jorgen and other members of 
 Skyward Flight came to visit her. They chatted amiably, and Cobb came in to tell them that Alanik’s request had been denied. He said that his hands were tied. He told them that he couldn’t officially order them to leave, but heavily hinted that he wanted them to anyway. Jorgen didn’t immediately catch on, frustrating Cobb. They went to the hangar, Jorgen getting them past the maintenance who tried to stop them. They scrambled their fighters and flew out into the sky. Jeshua radioed them that they would be considered deserters if they left, but they left anyway, Alanik hyperjumping them to [[ReDawn (planet)\|ReDawn]].
 
 ### ReDawn
@@ -146,7 +146,7 @@ Jorgen and Skyward Flight went down to Platform Prime, and Jorgen goes up to mee
 \-Kauri upon greeting Skyward Flight[50]
 
 
-When they arrived, they were greeted by Kauri and her crew, along with a more aggressive kitsen named Goro who demanded that the humans leave and cease their invasion. Jorgen tried to be diplomatic, but allowed FM to do most of the talking. Kauri took them to the kitsen city of [[Dreamspring\|Dreamspring]], where Jorgen and Alanik inspected Gran-Gran and Cobb. Neither Jorgen or Alanik could feel any cytonic signal from Gran-Gran, but neither knew why. While having a feast with the kitsen, Jorgen met [[Juno\|Juno]], a kitsen lorekeeper who had studied cytonics extensively, though there haven’t been kitsen cytonics for a long time. FM tried to talk to Jorgen several times about what happened with his parents, but Jorgen refused to discuss it.
+When they arrived, they were greeted by Kauri and her crew, along with a more aggressive kitsen named Goro who demanded that the humans leave and cease their invasion. Jorgen tried to be diplomatic, but allowed FM to do most of the talking. Kauri took them to the kitsen city of [[Dreamspring\|Dreamspring]], where Jorgen and Alanik inspected Gran-Gran and Cobb. Neither Jorgen or Alanik could feel any cytonic signal from Gran-Gran, but neither knew why. While having a feast with the kitsen, Jorgen met [[Juno\|Juno]], a kitsen lorekeeper who had studied cytonics extensively, though there haven’t been kitsen cytonics for a long time. FM tried to talk to Jorgen several times about what happened with his parents, but Jorgen refused to discuss it. 
 The kitsen held a senate meeting to decide what to do with the humans’ proposal of an alliance, with Kauri arguing on Jorgen’s behalf. Jorgen asserted that he is sincere, and has no interest in fighting with the kitsen. As the members debated, Jorgen sat in silence, emotions becoming wound up inside of him.
 
 >“*We’re not here to hurt you. We only want you to understand that we have tools to fight the Superiority. It is possible for us to beat them, but only if we work together.*”
@@ -165,7 +165,7 @@ Jorgen went back to Rig on Detritus. Rig showed Jorgen the hundreds of empty tay
 >“*I breathed in rhythm with the vibrations. I wasn’t relaxed, but I was calm. I was at peace.*”
 \-Jorgen focusing on trying to open the portal[55]
 
-Jorgen went back to Evershore, inspecting the nowhere portal in the kitsen library where the medtechs had moved Cobb and Gran-Gran. After talking with Gran-Gran cytonically through the portal, Jorgen figured out a way to unlock it. Several ancient kitsen cytonics emerged from the portal, and Cobb and Gran-Gran began to stir. The kitsen cytonics had been sucked into the portal years ago, and Gran-Gran and Cobb had gotten stuck when they followed the kitsens’ voices.
+Jorgen went back to Evershore, inspecting the nowhere portal in the kitsen library where the medtechs had moved Cobb and Gran-Gran. After talking with Gran-Gran cytonically through the portal, Jorgen figured out a way to unlock it. Several ancient kitsen cytonics emerged from the portal, and Cobb and Gran-Gran began to stir. The kitsen cytonics had been sucked into the portal years ago, and Gran-Gran and Cobb had gotten stuck when they followed the kitsens’ voices. 
 More Superiority ships arrived, including a lifebuster, and Jorgen ordered the evacuation of the kitsen senate members. After Alanik dealt with the lifebuster, Jorgen saw the Superiorty changing their tactics, and targeting many kitsen cities at once in a spread-out attack.
 
 >“*We brought company. All of it.*”
@@ -184,7 +184,7 @@ Afterward, Jorgen and FM met with Cobb and Stoff, and FM revealed how Stoff had 
 ### Spensa
  
 Jorgen was so eager to get the respect from his crew that he bullied the team around on the first days. [[Spensa\|Spensa]] on the other hand resented him for having it “easy”. As a result, there was constant rivalry between them in the beginning. Spensa was responsible for Jorgen’s callsign, Jerkface.
-During a “game” ran by Cobb in the simulation, Jorgen’s better flying techniques and strategy was about to earn him a win; however Spensa, who was up in the mark at that moment, crashed herself into him winning the game. He was so frustrated with her, he revealed to Skyward Flight that Spensa was the daughter of [[Chaser\|Chaser]]; this alienated her from other members and provoked Spensa to steal the power source of Jorgen's hovercar.
+During a “game” ran by Cobb in the simulation, Jorgen’s better flying techniques and strategy was about to earn him a win; however Spensa, who was up in the mark at that moment, crashed herself into him, thereby winning the game. He was so frustrated with her, he revealed to Skyward Flight that Spensa was the daughter of [[Chaser\|Chaser]]; this alienated her from other members and provoked Spensa to steal the power source of Jorgen's hovercar.
 Spensa continues to challenge Jorgen’s authority and disobeys a direct order of formation. He calls in again on her father’s heritage and she assaults him badly; though he complains about her insubordination again, he doesn’t attack her. Convinced that he would call on her, she goes to the Admiral’s office requesting disciplinary actions from her. Jorgen was there and prevented it from happening, letting her know his flight needed every pilot. After that she becomes more sensible and even ashamed of the treatment he was getting as she knew it was partially her fault.
 After Hurl’s death, they give her a proper funeral together and started being friendly to each other. He even helped her with taking the booster to where she asked. He figured out she was building her Poco and encouraged her to be free and defiant.
 When [[Spensa\|Spensa]] finds out about what really happened in the battle of Alta, the only person she opens to is Jorgen. She asks him not to fix but listen. He is able to comfort her.

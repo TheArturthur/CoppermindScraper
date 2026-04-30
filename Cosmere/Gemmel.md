@@ -4,13 +4,13 @@
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[The Eleventh Metal\|The Eleventh Metal]]*|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
 >“*I'm here to teach you how to fight. Not how to talk.*”
 \-Gemmel about his teaching to Kelsier[1]
 
 
-**Gemmel** is the [[Mistborn\|Mistborn]] who trained [[Kelsier\|Kelsier]] in [[Allomancy\|Allomancy]].
+**Gemmel** is the [[/wiki/Allomancy#Types of Allomancers]] who trained [[Kelsier\|Kelsier]] in [[Allomancy\|Allomancy]].
 
 ## Contents
 
@@ -32,18 +32,18 @@
 
 
 ## Appearance and Personality
-Gemmel is scrawny, and has a ragged gray beard and unkempt hair. Like most [[Mistborn\|Mistborn]], he wears a [[Mistcloak\|mistcloak]] on nightly escapades.
-The aging man isn't completely sane, mutters to himself, and sometimes seems more beast than man. Gemmel thinks that [[Kelsier\|Kelsier's]] forced smiles look creepy, and often stops talking in the middle of an argument. According to Kelsier, Gemmel doesn't understand humor, nor likes it when his pupil tries to take control.
+Gemmel is scrawny, and has a ragged gray beard and unkempt hair. Like most Mistborn, he wears a [[Mistcloak\|mistcloak]] on nightly escapades.
+The aging man isn't completely sane, mutters to himself, and sometimes seems more beast than man. He is also presumed to have a hemalurgic spike. Gemmel thinks that [[Kelsier\|Kelsier's]] forced smiles look creepy, and often stops talking in the middle of an argument. According to Kelsier, Gemmel doesn't understand humor, nor like it when his pupil tries to take control.
 He is likely a [[Skaa\|skaa]] halfblood.
 
 ## Attributes and Abilities
-Gemmel is a decently skilled [[Mistborn\|Mistborn]], who prefers to use [[Steel\|steel]] Pushes and other physical [[Allomantic\|Allomantic]] attacks. He dislikes using other metals as much, such as [[Zinc\|zinc]] and [[Brass\|brass]].
+Gemmel is a decently skilled Mistborn, who prefers to use [[Steel\|Steelpushes]] and other physical [[Allomantic\|Allomantic]] attacks. He dislikes using other metals as much, such as [[Zinc\|zinc]] and [[Brass\|brass]].
 
 ## History
 ### Keep Shezler
 Only three months after [[Kelsier\|Kelsier]] escaped from the [[Pits of Hathsin\|Pits of Hathsin]], he and Gemmel visit [[Mantiz\|Mantiz]] to infiltrate [[Keep Shezler\|Keep Shezler]]. Along their way to the keep, they talk a little about Kelsier’s past, and all the while Gemmel keeps training his student, which includes attacking him.
 Upon reaching the keep, Gemmel goes up the roof to have a better view, killing some guards along the way. When he has taken a good look around and Kelsier has caught up to him, Gemmel throws his pupil off the roof. Once down again, they walk across the keep's grounds to a building that looks like a groundskeeping shed, and Gemmel again kills a pair of guards, not caring that it might reveal the two of them. In the shed, they find a stairway down, and Gemmel waves Kelsier to go first.
-In the basement, Kelsier starts sneaking through the room, but Gemmel comes in without any attempt at stealth. In the next room, they find half a dozen bound up [[Skaa\|skaa]] and Kelsier begins tending to them, but is interrupted when [[Antillius Shezler\|Antillius Shezler]], the keep’s [[Noble\|nobleman]] and also a [[Mistborn\|Mistborn]], shouts and shoots a coin at him. Kelsier manages to kill Shezler without any help from Gemmel, who sees this as a training opportunity. When Kelsier returns to the [[Skaa\|skaa]] captives, Gemmel is leafing through one of Shezler’s notebooks containing theories and superstitions about an [[Malatium\|Eleventh Metal]]. Kelsier takes this book before leaving, and Gemmel pockets a fork.
+In the basement, Kelsier starts sneaking through the room, but Gemmel comes in without any attempt at stealth. In the next room, they find half a dozen bound up [[Skaa\|skaa]] and Kelsier begins tending to them, but is interrupted when [[Antillius Shezler\|Antillius Shezler]], the keep’s [[Noble\|nobleman]] and also a Mistborn, shouts and shoots a coin at him. Kelsier manages to kill Shezler without any help from Gemmel, who sees this as a training opportunity. When Kelsier returns to the [[Skaa\|skaa]] captives, Gemmel is leafing through one of Shezler’s notebooks containing theories and superstitions about an [[Malatium\|Eleventh Metal]]. Kelsier takes this book before leaving, and Gemmel pockets a fork.
 
 ## Relationships
 ### Kelsier

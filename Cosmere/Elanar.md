@@ -1,5 +1,6 @@
 |**Elanar**|
 |-|-|
+||
 |**Nation**|[[Jah Keved\|Jah Keved]]|
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

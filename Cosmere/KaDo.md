@@ -24,7 +24,7 @@
 The Kerztians would not have usually attacked such a large groups of sand masters, but the effect of the KaDo left the Diem exceptionally vulnerable; nearly all of their members who fought were massacred or died through overmastery.
 
 ### Drile and Kenton's Duel
-Before Drile's duel with [[Kenton\|Kenton]], Elorin dosed the water bowls for both Kenton and Drile. Kenton notes his eyes were already feeling dehydrated after the first volley of mastered sand. Drile also became dehydrated unusually quickly, and began to [[/wiki/Sand mastery#Overburn]] to win the duel when Kenton began to make a come-back.
+Before Drile's duel with [[Kenton\|Kenton]], Elorin dosed the water bowls for both Kenton and Drile. Kenton notes his eyes were already feeling dehydrated after the first volley of mastered sand.  Drile also became dehydrated unusually quickly, and began to [[/wiki/Sand mastery#Overburn]] to win the duel when Kenton began to make a come-back.
 After the fight, the two mastrells concluded that someone must have poisoned them hoping to ensure that a weak leader would rule the Diem, or that overburning might injure the [[Taishin\|Taishin]] watching the duel and send all of [[Lossand\|Lossand]] into chaos. Drile mentioned that the only other time he had seen similar weakness was during the attack in the Kerla, and recalled that Elorin was the person who gave out water that day.
 Kenton confronted Elorin, who confessed that he was a traitor and explained how he had accomplished the poisonings. Elorin attacked Kenton with his [[Zinkall\|zinkall]] before dying to a ribbon of sand.
 

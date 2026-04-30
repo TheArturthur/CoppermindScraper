@@ -6,7 +6,7 @@
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Calamity\|Calamity]]*|
 
-**Loophole** is an [[Epic\|Epic]] that lives in [[Ildithia\|Ildithia]]. She is lean and has short hair. She throws lavish parties and loves fancy cupcakes. Three pastry chefs were executed by Loophole for producing subpar cupcakes.
+**Loophole**  is an [[Epic\|Epic]] that lives in [[Ildithia\|Ildithia]]. She is lean and has short hair. She throws lavish parties and loves fancy cupcakes. Three pastry chefs were executed by Loophole for producing subpar cupcakes.
 
 ## Contents
 

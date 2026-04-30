@@ -12,6 +12,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Enjoy the moment. Close your eyes and contemplate what the One has given you. Seek the peace of oblivion, and bask in the joy of your own sensation.*”
 \-Evi[3]
 

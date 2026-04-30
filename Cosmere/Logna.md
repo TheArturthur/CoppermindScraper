@@ -1,22 +1,26 @@
 |**Logna**|
 |-|-|
+||
 |**Family**|
 |**Siblings**|[[Woden\|Woden]]|
+|**Relatives**|[[Friag\|Friag]], [[Thunor\|Thunor]]|
 |**Aliases**|Thokk|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
 |**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Logna**, known as **Thokk** in her human alias, is a deity worshiped by the [[Weswarans\|Weswarans]]. She is called "mother of monsters" and "stealer of words". She refers to [[Woden\|Woden]] as her brother, but works against him.
 
 ## Contents
 
-1 Powers and Abilities. [[#Powers and Abilities]] 
+1 Attributes and Abilities. [[#Attributes and Abilities]] 
 2 History. [[#History]] 
 3 Trivia. [[#Trivia]] 
 4 Notes. [[#Notes]] 
 
 
-## Powers and Abilities
+## Attributes and Abilities
 Logna can alter probabilities and manipulate small objects like a wight, though more powerfully than most wights. She can create fire to burn letters into the ground, known as "Logna's Fire"; this is recognized by the [[Weswarans\|Weswarans]] as distinct from [[Thunor\|Thunor's]] fire that burns up writing. She can form a body to interact with people, but too much presence of people or things from "upstream" dimensions prevents this. Destroying a phone prevented her from re-forming a body until the next day, and she is unable to affect [[Ulric Stromfin\|Ulric Stromfin]]. However, she can touch technological objects from upstream to a small degree when embodied; she can use a laptop, though it burns her fingers. She has the power to "steal any word", which allows her to discover passwords.
 
 ## History

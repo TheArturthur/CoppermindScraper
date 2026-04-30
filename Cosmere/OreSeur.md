@@ -5,7 +5,7 @@
 |**Died**|1023 [[Final Empire\|FE]]|
 |**Abilities**|[[Blessing of Potency\|Blessing of Potency]]|
 |**Aliases**|[[Renoux\|Renoux]]|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]]|
+|**Groups**|[[Kelsier's crew\|Kelsier's crew]], [[Preservers\|Preservers]]|
 |**Species**|[[Kandra\|Kandra]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

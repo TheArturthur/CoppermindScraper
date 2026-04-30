@@ -80,7 +80,7 @@ The spyril works by teleporting water into itself using what [[Mizzy\|Mizzy]] ca
 [[Sam (Reckoner)\|Sam]] was the first to use the spyril effectively. After Sam is killed by [[Firefight (Epic)\|Firefight]], the motivator goes missing from the device. Megan later gives the motivator to David, though he lies about where he got it to the rest of the Reckoners. David becomes very skilled with the spyril and uses it extensively when the Reckoners battle [[Regalia\|Regalia]]. Regalia notes that David is naturally skilled at using the spyril and suggests that he might have similar powers if he became an Epic.
 
 ### Crystallix
-**Crystallix** is a motivator made from the Epic [[Crystallix (Epic)\|Crystallix]]. It can form blue crystalline structures in the air that don’t fall. The motivator is unstable, and the crystals dissolve very quickly. Jax integrates the crystalix motivator into a motorcycle. Because the crystal path dissolves quickly, the rider has to drive at high speeds to keep in the air as the crystals disintegrate behind them. The crystalix motorcycle can’t slow down or turn sharply when in the air because of the nature of the crystals.
+**Crystallix** is a motivator made from the Epic [[Crystallix (Epic)\|Crystallix]]. It can form blue crystalline structures in the air that don't fall. The motivator is unstable, and the crystals dissolve very quickly. Jax integrates the crystalix motivator into a motorcycle. Because the crystal path dissolves quickly, the rider has to drive at high speeds to keep in the air as the crystals disintegrate behind them. The crystalix motorcycle can't slow down or turn sharply when in the air because of the nature of the crystals.
 
 ### Other Motivators
 

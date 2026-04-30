@@ -10,8 +10,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Liyun** is the [[Kihomaban\|kihomaban]], or warden, of the [[Yoki-hijo\|yoki-hijo]] [[Yumi\|Yumi]]. She was killed by the [[Father machine\|father machine]], but her soul persists as a [[Nightmare\|nightmare]].
 
 ## Contents

@@ -1,94 +1,58 @@
-
-
-|**[[El ritmo de la guerra\|<]]*Wind and Truth***|
+|**Knights of Wind and Truth**|
 |-|-|
-||
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|
-|**Anterior**|*[[El ritmo de la guerra\|El ritmo de la guerra]]*|
-|**Localización**|[[Roshar\|Roshar]], [[Cosmere\|Cosmere]]|
-|**Fecha original**|6 de diciembre de 2024|
-|**Editorial**||
+|**Author**|[[Masha-daughter-Shaliv\|Masha-daughter-Shaliv]]|
+|**World of Origin**|[[Roshar\|Roshar]]|
+|**Universe**|[[Cosmere\|Cosmere]]|
 
-***Wind and Truth*** es el título previsto para el quinto libro de *El archivo de las tormentas*, que supone el final previsto para la primera mitad de la saga. Actualmente está previsto que salga a la venta el 6 de diciembre de 2024, coincidiendo con la convención [[Dragonsteel Entertainment\|Dragonsteel]] de 2024. El libro se conocía anteriormente como *Knights of Wind and Truth*. Los títulos en inglés del primer arco de la saga recuerda al paralelismo de la estructura de los [[Ketek\|keteks]] (**TWoK,WoR,O,RoW,KoW**(a)**T**), pero no es un verdadero ketek.
+> [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
-## Sumario
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-1 Desarrollo. [[#Desarrollo]] 
-2 Contenido anterior a la publicación. [[#Contenido anterior a la publicaci.C3.B3n]] 
+***Knights of Wind and Truth*** is a book written by the [[Shin\|Shin]] scholar [[Masha-daughter-Shaliv\|Masha-daughter-Shaliv]]. Completed six years after the [[Night of Sorrows\|Night of Sorrows]], it is an account of the cleansing of Shinovar by [[Kaladin\|Kaladin]] and [[Szeth\|Szeth]], the eponymous Knight of Wind and Knight of Truth respectively.
+Masha's main sources for the book are [[Szeth\|Szeth]] and the sword [[Nightblood\|Nightblood]], though she also received information about Kaladin from [[Jasnah Kholin\|Jasnah Kholin]]. Additionally, Masha briefly spoke with the [[Wind\|Wind]] before she vanished. Szeth and Nightblood were not conscious by the time [[Retribution\|Retribution]] was created and the Wind did not explain any of what happened after that point to Masha, so the book does not include the refounding of the [[Oathpact\|Oathpact]] with Kaladin as a [[Herald\|Herald]]. Instead, based on the body Kaladin left behind when he became a Herald, Masha concludes that Kaladin is dead. She is also only able to speculate about how the Wind and the [[Spren\|spren]] were protected from Retribution, suggesting that the Oathpact with only nine Heralds may have been enough or that Kaladin, as champion of the Wind, may have been able to do something on his own before dying.
+The book is part of a larger work that spans multiple volumes and includes contributions from other authors. One of the other volumes, which was not written by Masha, focuses on the events surrounding the [[Contest of champions\|contest of champions]] at [[Urithiru\|Urithiru]], though that volume had not yet been written by the time Masha finished *Knights of Wind and Truth*.
 
-2. [[#Arte conceptual]] 
-
-
-3 Notas. [[#Notas]] 
-
-
-## Desarrollo
-La  se publicó en Reddit el 6 de septiembre de 2022, cuando el primer borrador estaba completado en un 15%. La  se publicó en Reddit el 13 de marzo de 2023, cuando el primer borrador estaba completado en aproximadamente un 33%. El primer borrador se terminó en algún momento entre el 21 y el 26 de diciembre de 2023 y el segundo borrador está terminado. Esto ha resultado una tarea muy sencilla ya que Brandon ha estado haciendo revisiones mientras trabajaba en el primer borrador. De acuerdo con la , la cuarta y última revisión está al 63% a 30 de mayo de 2024.
-
-## Contenido anterior a la publicación
-En marzo de 2022, Brandon hizo una lectura del primer borrador del prólogo en su canal de YouTube. Se puede leer .
-En FanX en 2022, Brandon hizo una lectura de parte del primer capítulo de Kaladin del primer borrador, que puede leerse y escucharse en .
-En la New York Comic Con de 2022, Brandon hizo una lectura del primer borrador de los flashbacks primero y segundo de Szeth, que puede leerse y escucharse en .
-Durante Dragonsteel 2022, Brandon leyó el resto del primer capítulo de Kaladin, así como su segundo capítulo, que puede leerse en .
-Durante Dragonsteel 2022, Brandon también leyó el tercer flashback de Szeth, que puede leerse y escucharse en .
-En la Tampa Bay Comic Con de 2023, Brandon leyó un capítulo de Jasnah, que puede leerse y escucharse en .
-Durante la Dragonsteel 2023, Brandon reyó un interludio, que puedes consultar .
-En la C2E2 de 2024, Brandon leyó los primeros dos capítulos de Shallan, que se pueden leer .
-Dalinar desempeñará un papel importante que en *El ritmo de la guerra*. 
-Szeth será el personaje central.
-Más personajes homosexuales de Roshar serán canonizados en el libro, incluyendo a Renarin y Rlain.{
-El final planeado se basa en el final que planeó para un juego de rol en 1999, y ha estado en el esquema desde el principio. Brandon espera que sea del agrado de la gente y recontextualice muchos momentos importantes de la serie.
-### Arte conceptual
-Dragonsteel encargó un par de obras de arte conceptual para el libro.
-
-
-Arte conceptual
-
-
-
-de Randy Vargas
-
-
-
-
-
-
-de Petar Penev
-
-
-
-
-## Notas
-
-A este meta-artículo todavía le falta información. Por favor, ayuda a The Coppermind .
-|**[[El archivo de las tormentas\|El archivo de las tormentas]] (**[[Roshar\|Roshar]]**)**|
+## Excerpts
+|**Text**|**Page**|
 |-|-|
-|**Personajes Principales**|[[Kaladin\|Kaladin]] · [[Shallan Davar\|Shallan]] · [[Dalinar Kholin\|Dalinar]] · [[Eshonai\|Eshonai]] · [[Venli\|Venli]] · [[Szeth\|Szeth]] · [[Adolin Kholin\|Adolin]] · [[Renarin Kholin\|Renarin]] · [[Jasnah Kholin\|Jasnah]] · [[Navani Kholin\|Navani]] · [[Lift\|Lift]] · [[Moash\|Moash]] · [[Taravangian\|Taravangian]] · [[Talenel\|Taln]]|
-|**[[Spren\|Spren]]**|[[Sylphrena\|Syl]] · [[Patr%C3%B3n\|Patrón]] · [[Wyndle\|Wyndle]] · [[Glys\|Glys]] · [[Marfil\|Marfil]] · [[Timbre\|Timbre]] · [[Mayalaran\|Mayalaran]] · [[Padre Tormenta\|Padre Tormenta]] · [[Vigilante Nocturna\|Vigilante Nocturna]] · [[El Hermano\|El Hermano]] · [[Sja-anat\|Sja-anat]]|
-|**[[Caballeros Radiantes\|Caballeros Radiantes]]**|[[Orden de los Corredores del Viento\|Corredores del Viento]] · [[Orden de los Rompedores del Cielo\|Rompedores del Cielo]] · [[Orden de los Portadores del Polvo\|Portadores del Polvo]] · [[Orden de los Danzantes del Filo\|Danzantes del Filo]] · [[Orden de los Vigilantes de la Verdad\|Vigilantes de la Verdad]] · [[Orden de los Tejedores de Luz\|Tejedores de Luz]] · [[Orden de los Nominadores de lo Otro\|Nominadores de lo Otro]] · [[Orden de los Escultores de Voluntad\|Escultores de Voluntad]] · [[Orden de los Custodios de Piedra\|Custodios de Piedra]] · [[Orden de los Forjadores de V%C3%ADnculos\|Forjadores de Vínculos]]|
-|**[[Portadores del Vac%C3%ADo\|Portadores del Vacío]]**|[[Fusionado\|Fusionados]] · [[Regio\|Regios]] · [[Vac%C3%ADospren\|Vacíospren]] · [[Deshecho\|Deshechos]] · [[Tronador\|Tronadores]]|
-|**[[Esquirla\|Esquirlas]]**|[[Honor\|Honor]] · [[Cultivaci%C3%B3n\|Cultivación]] · [[Odium\|Odium]]|
-|**Magia**|[[Alta tormenta\|Alta tormenta]] · [[Tormenta eterna\|Tormenta eterna]] · [[Luces\|Luces]] ([[Luz tormentosa\|Luz tormentosa]] · [[Luz del vac%C3%ADo\|Luz del vacío]]) · [[Potenciaci%C3%B3n\|Potenciación]] · [[Potenciaci%C3%B3n del Vac%C3%ADo\|Potenciación del Vacío]] · [[Fabrial\|Fabriales]] · [[Hoja esquirlada\|Hojas esquirladas]] · [[Armadura esquirlada\|Armadura esquirlada]] · [[Puerta Jurada\|Puerta Jurada]] · [[Antigua Magia\|Antigua Magia]] · [[Esquirla del Amanecer\|Esquirla del Amanecer]]|
-|**Formas de vida**|[[Cantor\|Cantores]] · [[Insomne\|Insomnes]] · [[Siah aimiano\|Siah aimianos]] · [[Ryshadio\|Ryshadio]] · [[Larkin\|Larkin]] · [[Abismoide\|Abismoides]] · [[Grancaparaz%C3%B3n\|Grancaparazones]]|
-|**Lugares**|[[Aimia\|Aimia]] · [[Alezkar\|Alezkar]] · [[Azir\|Azir]] · [[Emul\|Emul]] · [[Iri\|Iri]] · [[Jah Keved\|Jah Keved]] · [[Kharbranth\|Kharbranth]] · [[Shinovar\|Shinovar]] · [[Thaylenah\|Thaylenah]] · [[Urithiru\|Urithiru]] · [[Picos Comecuernos\|Picos Comecuernos]] · [[Lagopuro\|Lagopuro]] · [[Subastral de Roshar\|Shadesmar]] · [[Llanuras Quebradas\|Llanuras Quebradas]]|
-|**Cultura**|[[Ojos claros\|Ojos claros]] · [[Ojos oscuros\|Ojos oscuros]] · [[Vorinismo\|Vorinismo]] · [[Fervoroso\|Fervorosos]] · [[Esferas\|Esferas]] · [[Glifos\|Glifos]] · [[Escritura femenina\|Escritura femenina]] · [[Canto del alba\|Canto del alba]]|
-|**Grupos**|[[Puente Cuatro\|Puente Cuatro]] · [[Oyente\|Oyentes]] · [[Heraldo\|Heraldos]] · [[Alto pr%C3%ADncipe\|Altos príncipes]] · [[Sangre Espectral\|Sangre Espectral]] · [[Diagrama (grupo)\|El Diagrama]] · [[Hijos de Honor\|Hijos de Honor]]|
-|**Historia**|[[Expulsi%C3%B3n\|Expulsión]] · [[Desolaci%C3%B3n\|Desolaciones]] · [[Juramento\|Juramento]] · [[%C3%9Altima Desolaci%C3%B3n\|Última Desolación]] · [[Falsa Desolaci%C3%B3n\|Falsa Desolación]] · [[D%C3%ADa de la Traici%C3%B3n\|Día de la Traición]] · [[Hierocracia\|Hierocracia]] · [[Guerra de la Venganza\|Guerra de la Venganza]] · [[Aut%C3%A9ntica Desolaci%C3%B3n\|Auténtica Desolación]]|
+|"I should have known I was being watched. All my life, the signs were there."|1|
+|"I first knew the Wind as a child, during days before I knew dreams. What need has a child of dreams or aspirations? They live, and love, the life that is."|3|
+|"The Wind told me, before she vanished, that it was the change in Odium’s vessel that restored her voice. I wonder. Perhaps it is the new storm, making people begin to reconsider that the wind is not their enemy."|3|
+|"I have read that in the ancient days, the Wind often spoke to both human and singer. It would then mean that the Wind stopped talking not because of Odium, but because of people who began to fear her ...Or to worship the Storm instead."|4|
+|"As a historian, I find such nuances relevant. As a philosopher, I find them enticing."|4|
+|"Regardless, the events surrounding the cleansing of Shinovar are of specific relevance, and I am doing my best to record what I can discover of the Wind’s own words regarding them. Though, now that the Wind and Heralds have vanished, I have only two sources who can speak of these events.They are my witnesses."|5|
+|"However, the Wind did not think like a person does. This should not surprise anyone who has familiarity with a spren, though such things are less common now than they once were."|5|
+|"Her memory was keen, but her interpretation and explanation of that memory could be fanciful. Those days, though, I believe that she was deliberate, concerned, and focused.She did not see the future.But she somehow knew it anyway."|5|
+|"All agree the first key moment came when Kaladin Stormblessed listened. Though not an Edgedancer, he did a fine impression of their oaths."|8|
+|"The second moment had happened already, when Szeth himself decided to take upon him this quest. The one that would shape all of our futures."|8|
+|"For while the contest of champions was to happen in the East, a different contest was to happen in Shinovar. And one that the Wind swore was equally vital. Perhaps more so."|8|
+|"I was not with them. I did not know of their quest."|10|
+|"Yet I will do my best to recount their story, and that of the Wind. For they were *her* champions."|11|
+|"The Wind was not there for the contest of champions, the final confrontation between Odium and the mortals who would oppose him. She felt ostracized from that world, where it was Storms—and not Wind—who drew attention."|18|
+|"Much of what I know of the Knight of Wind, I get from Jasnah Kholin. Now head of our order, and a woman who has shown much patience for a simple Shin bookworm who thinks herself worthy of the task of writing this account."|22|
+|"Curiously, the closest I came to the Knight of Wind and the Knight of Truth during their quest happened during the last hours before Stormfall. When they visited my parents' house, while I was asleep, and purchased their wagon."|27|
+|"I find stories of the Knight of Wind to be most intriguing. They call him Stormblessed, but best I can tell, the storm alternately tried to kill him and proclaim him its son. I wonder what it knew that we do not."|34|
+|"I know that to this day, people are confused by how at the end, spren began arriving in the East without the need for bonds. Notum, now among the most famous of honorspren, is an example. The answer is simple, however.As the lands began to think of them, and remember them, they needed less the bond of a single person to give them purchase in the Physical Realm. For the thoughts of an entire people bolstered them."|46|
+|"I will leave one to ponder upon the incredible irony of the Herald of Bonds deciding he needed to teach Szeth, of all people, how to be humble. As if years of slavery weren't a capable instructor."|83|
+|"I often reflect upon how the world changed that day. And how I spent it, completely unaware, working in the family orchard. Picking fruit while the End of All Things itself came upon us."|92|
+|"I record here the notes of the song. The Wind knows it very well. I cannot hear her voice, but sometimes I hear the flute."|117|
+|"Those who were not there, you future readers, understand. Even hundreds of miles away from the event, I heard the thunder.The land trembled at what Dalinar Kholin did."|181|
+|"To this day, I wish I had all the answers. Would that someday, a historian could make a record with all possible information at her fingertips. For example, what was it Ishu did to prepare himself for what he knew the Knights would attempt? It still baffles explanation, as do many Bondsmith arts."|201|
+|"I can say this. I believe the fact that Ishu was bearing some of the pain of each and every Herald is an extremely relevant point in this analysis. For while he gave the darkness, he indeed held it in part.I keep returning to this idea. As I feel it should be explored further."|201|
+|"There were not two heroes that day, but many"|237|
+|"And the existence of those several key people is the one thing that I myself have heard from the Wind. This singular truth, a nugget that I cannot yet explain.'One is not enough. The change must come from many.'"|237|
+|"I can't speak to that. But I can speak to the testimony of one man's experience. That of what it felt like to be in the very depths of despair, and then to have someone stand up and try their best to shield you from it."|237|
+|"For the events surrounding the contest at Urithiru, I must refer you to another volume of this multi-author work. One that has, unfortunately, not yet been written."|238|
+|"The Wind itself accepted his Words."|249|
+|"The curious effect that the Black Sword has on individuals is one that I find poorly recorded. It is true that many feel nausea when picking it up, which is a sign of a heart uncorrupted by greed.Others are, then, corrupted by that greed.Most interesting are those in between. Those who feel neither emotion. Those who can use the sword, but walk a fine line upon its edge."|266|
+|"And now we reach the part of the narrative where I can but speculate, as my witnesses were both unconscious."|271|
+|"On that day, the Knight of Truth did not save us from the evil that had been prophesied. But from the evil brought by the prophesier."|281|
+|"I can only guess what happened, therefore, to the Knight of Wind. That he is dead is demonstrable. That he succeeded, at least in part, is also demonstrable."|289|
+|"But it was not a complete success, as I have not heard the Wind—neither has Szeth—in years. Save that one whisper.Regardless, she lives, so perhaps the Oathpact, as it was, held well enough? Even without Szeth to fill the hole?Or perhaps, as champion of the Wind, Kaladin was able to do something in the end right before he died, which turned Retribution's ire from the spren."|290|
+|"This account will not be without flaws. But it is the best I have been able to create from available information—and from the witness of my husband, Szeth, and the witness of the black sword he bears. For I myself helped him bury the Knight of Wind's body, the day after Stormfall.The day that everything changed."|292|
 
-|**Obras publicadas de [[Brandon Sanderson\|Brandon Sanderson]]**|
-|-|-|
-|**[[El archivo de las tormentas\|El archivo de las tormentas]]**|[[El camino de los reyes\|El camino de los reyes]] · [[Palabras radiantes\|Palabras radiantes]] · [[Juramentada\|Juramentada]] · [[El ritmo de la guerra\|El ritmo de la guerra]] |
-|**[[Nacidos de la bruma (saga)\|Nacidos de la bruma]]**|**[[/wiki/Nacidos de la bruma#Era 1]]:** [[El Imperio Final (libro)\|El Imperio Final]] · [[El Pozo de la Ascensi%C3%B3n (libro)\|El Pozo de la Ascensión]] · [[El H%C3%A9roe de las Eras\|El Héroe de las Eras]] **[[/wiki/Nacidos de la bruma#Era 2]]:** [[Aleaci%C3%B3n de ley\|Aleación de ley]] · [[Sombras de identidad\|Sombras de identidad]] · [[Brazales de Duelo (libro)\|Brazales de Duelo]] · [[El metal perdido\|El metal perdido]]|
-|**Otras obras del [[Cosmere\|Cosmere]]**|[[Arcanum ilimitado\|Arcanum ilimitado]] · [[Arena Blanca\|Arena Blanca]] · [[El aliento de los dioses\|El aliento de los dioses]] · [[Elantris (libro)\|Elantris]] · [[El Hombre Iluminado\|El Hombre Iluminado]] · [[Trenza del mar Esmeralda\|Trenza del mar Esmeralda]] · [[Yumi y el pintor de pesadillas\|Yumi y el pintor de pesadillas]] |
-|**[[Alcatraz contra los bibliotecarios malvados (saga)\|Alcatraz contra los bibliotecarios malvados]]**|[[Alcatraz contra los bibliotecarios malvados (libro)\|Alcatraz contra los bibliotecarios malvados]] · [[Los Huesos del Escriba\|Los Huesos del Escriba]] · [[Los Caballeros de Cristalia\|Los Caballeros de Cristalia]] · [[Las Lentes Fragmentadas\|Las Lentes Fragmentadas]] · [[El Talento Oscuro\|El Talento Oscuro]] · [[Bastille contra los bibliotecarios malvados\|Bastille contra los bibliotecarios malvados]]|
-|**[[Los Reckoners\|Los Reckoners]]**|[[Steelheart\|Steelheart]] · [[Firefight\|Firefight]] · [[Calamity\|Calamity]] · [[Lux (libro)\|Lux]]|
-|**[[Legi%C3%B3n (saga)\|Legión]]**|[[Legi%C3%B3n (libro)\|Legión]] · A flor de piel · Las mentiras del contemplador · Las múltiples vidas de Stephen Leeds · Stephen Leeds: Death & Faxes|
-|**[[Citoverso\|Citoverso]]**|[[Escuadr%C3%B3n\|Escuadrón]] · [[Estelar\|Estelar]] · [[Cit%C3%B3nica (libro)\|Citónica]] · [[Desafiante (libro)\|Desafiante]]|
-|**[[La Rueda del Tiempo\|La Rueda del Tiempo]]**|[[La tormenta\|La tormenta]] · [[Torres de Medianoche\|Torres de Medianoche]] · [[Un recuerdo de luz\|Un recuerdo de luz]] |
-|**[[Dark One (franquicia)\|Dark One]]**|[[Dark One Libro 1\|Dark One Libro 1]] · Forgotten|
-|**[[La espada infinita\|La espada infinita]]**|El despertar · Redención|
-|**Otras historias**|[[Firstborn\|Firstborn]] · [[La gu%C3%ADa del mago frugal para sobrevivir en la Inglaterra del medievo\|La guía del mago frugal para sobrevivir en la Inglaterra del medievo]] · [[I Hate Dragons\|I Hate Dragons]] · [[Heuristic Algorithm and Reasoning Response Engine\|Heuristic Algorithm and Reasoning Response Engine]] · [[El rithmatista\|El rithmatista]] [[Dreamer\|Dreamer]] · [[Perfect State\|Perfect State]] · [[Snapshot\|Snapshot]] · [[Children of the Nameless\|Children of the Nameless]] · [[The Original\|The Original]]|
+## Trivia
+*Knights of Wind and Truth* was a working title for *[[Wind and Truth\|Wind and Truth]]*, which would have made the initialisms of the first five books of [[The Stormlight Archive\|The Stormlight Archive]] symmetrical (TWoK WoR O RoW KoWT). As a result of the title of the real-world book being shortened, *Knights of Wind and Truth* is the only book whose title does not exactly match its corresponding real-world book.
 
 
-
-https://es.coppermind.net/wiki/Knights_of_Wind_and_Truth
+https://coppermind.net/wiki/Knights_of_Wind_and_Truth

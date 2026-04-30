@@ -9,7 +9,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There is ... a third sibling. They are not with us.*”
 \-The Stormfather[3]
@@ -21,6 +21,7 @@ The **Sibling** is a notable [[Spren\|spren]] on [[Roshar\|Roshar]]. They are of
 
 1 Personality and Appearance. [[#Personality and Appearance]] 
 
+1. [[#Appearance]] 
 1. [[#Personality]] 
 
 
@@ -43,31 +44,44 @@ The **Sibling** is a notable [[Spren\|spren]] on [[Roshar\|Roshar]]. They are of
 
 
 ## Personality and Appearance
+### Appearance
+  Urithiru in the Cognitive Realm
+The Sibling is essentially the tower of [[Urithiru\|Urithiru]] and by extension the complicated fabrial within and are able to manifest in the [[Physical Realm\|Physical Realm]] as both metal and as [[Polestone\|Polestones]]. Within the tower, they are capable of appearing as a column of light that appears from a glass disc in the ceiling. Those who can see into the Cognitve Realm are always able to see and hear the column of light when the Sibling's presence is nearby. The Sibling can speak to others via this column of light, or by speaking though the air vents.
+In the [[Cognitive Realm\|Cognitive Realm]], the tower glows with a bright, multicolored, coalesced light. It is made of solid, glowing glass that perfectly replicates itself from its appearance in the Physical Realm.
+
 ### Personality
-The Sibling does not trust humanity due to trauma stemming from feeling betrayal at the Recreance. Due to this, they do not want to bond with any human.
-They despise fabrials due to how they require that spren be imprisoned. They use this as further evidence of mankind's inherent wickedness.
-They do not identify with any gender, and do not understand why any spren identify with human genders.
-Despite living thousands of years, they remain somewhat naïve.
+The Sibling does not trust humanity due to trauma stemming from feeling betrayal at the Recreance. Due to this, they do not want to bond with any human. They despise modern fabrials due to how they require that spren be imprisoned, though they are willing to compromise if the spren are treated well.
+They do not identify with any gender, and do not understand why any spren identify with human genders. Despite living thousands of years, they remain somewhat naïve.
 
 ## Attributes and Abilities
 The Sibling is known to have been alive for at least four and a half millennia and is functionally immortal. [[Oathgate\|Oathgate]] spren follow the orders of the Sibling and refer to the Sibling as a parent.
 
 ### Investiture
-The Sibling is capable of producing their own [[Investiture\|Investiture]] known as [[Towerlight\|Towerlight]], a mixture of [[Lifelight\|Lifelight]] and [[Stormlight\|Stormlight]], which they use to power the [[Fabrial\|fabrials]] in Urithiru. They need to be able to harmonize the rhythms of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] in order to produce Towerlight.
+>“*In talking to Dalinar earlier, she’d learned that a Radiant leaving would lose Towerlight almost immediately. If a person carried it in a gemstone, the Light escaped faster than Stormlight did. Towerlight was a gift, but solely in Urithiru. But while they were here, it was omnipresent.*”
+\-Navani[19]
+
+
+The Sibling is capable of producing their own [[Investiture\|Investiture]] known as [[Towerlight\|Towerlight]], a mixture of [[Lifelight\|Lifelight]] and [[Stormlight\|Stormlight]], which they use to power the [[Fabrial\|fabrials]] in Urithiru. They need to be able to harmonize the rhythms of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] in order to produce Towerlight. Towerlight within Urithru powers Radiant abilities far longer than stormlight and is constantly replenished. When brought outside of Urithiru, Towerlight almost immediately completely leaks away from both gemstones and humans. The Sibling is able to cancel any power being sustained with Towerlight while in Urithiru.
 
 ### Nahel Bond
 For more information, see [[/wiki/Order of Bondsmiths#Sibling Bondsmith Abilities]].
 The Sibling is one of the three great [[Bondsmith\|Bondsmith]] spren. Forming a [[Nahel bond\|Nahel bond]] with them grants one the power over the [[Surge\|Surges]] of [[Tension\|Tension]] and [[Adhesion\|Adhesion]]. While a Bondsmith can use Adhesion the way a [[Windrunner\|Windrunner]] would, they can also apply their powers in different manner, using them more in the [[Spiritual Realm\|Spiritual]]. Using Spiritual Adhesion, a Bondsmith can form a [[Connection\|Connection]] between themselves and another person, allowing them to speak their language. They also seem capable of hearing the spiritual aspects of objects and using this to mend broken things back whole. [[Navani\|Navani]] is able to assist the Sibling in once again making [[Towerlight\|Towerlight]] in large enough quantities to fully restore the functioning of Urithiru.
-In order to bond with the Sibling, a person must be touching their crystal pillar. The Sibling knows how to end the Nahel bond, and has done so in the past. While the [[Nightwatcher\|Nightwatcher]] and the [[Stormfather\|Stormfather]] are known to be connected to [[Cultivation\|Cultivation]] and [[Honor\|Honor]] respectively, the Sibling is the child of both [[Honor\|Honor]] and [[Cultivation\|Cultivation]], created specifically to oppose [[Odium\|Odium]]. The Stormfather considers all three of them to be "siblings", and the fact that they are the only three spren that can bond with Bondsmiths indicates that they share some characteristics.
+In order to bond with the Sibling, a person must be touching their crystal pillar. The Sibling knows how to end the Nahel bond, and has done so in the past. Many of the Sibling’s abilities rely on the Nahel Bond to function fully. The Radiant bonded with the Sibling cannot leave Urithiru for more than a few weeks without weakening their bond. If their Bondsmith is in the Spiritual Realm, this effect is lessened but will still cause issues. The Sibling and their Bondsmith are able to communicate with their minds. They are also able to speak directly into the minds of other Bondsmiths if their own Bondsmith is closeby.
+While the [[Nightwatcher\|Nightwatcher]] and the [[Stormfather\|Stormfather]] are known to be connected to [[Cultivation\|Cultivation]] and [[Honor\|Honor]] respectively, the Sibling is the child of both [[Honor\|Honor]] and [[Cultivation\|Cultivation]], created specifically to oppose [[Odium\|Odium]]. The Stormfather considers all three of them to be "siblings", and the fact that they are the only three spren that can bond with Bondsmiths indicates that they share some characteristics.
 
 ### Urithiru
 >“*She saw the tower now as an entity, with lines of garnet very like veins and arteries. And she inhabited that entity. It became her body. She saw thousands of closed doors the scouts had missed in mapping the tower. She saw brilliant mechanisms for controlling pressure, heat — No, stay focused.*”
 \-Navani Kholin[7]
 
 
-The Sibling is essentially the Tower of [[Urithiru\|Urithiru]] and by extension the complicated fabrial within. They are capable of manifesting in the [[Physical Realm\|Physical Realm]] as both metal and as [[Polestone\|Polestones]]. The Sibling can also fully power and control the various mechanisms of the fabrial that makes up the tower. The temperature becomes warmer since heating fabrials become more potent, for example. ​The Sibling is able to see everything within the tower. Their Bondsmith is also able to do so, as well as comprehend the mechanisms of Urithiru and speak through the veins of garnet in the tower as the Sibling does.
+The Sibling is essentially the Tower of [[Urithiru\|Urithiru]] and by extension the complicated fabrial within. They are capable of manifesting in the [[Physical Realm\|Physical Realm]] as both metal and as [[Polestone\|Polestones]]. The Sibling can also fully power and control the various mechanisms of the fabrial that makes up the tower. The temperature becomes warmer since heating fabrials become more potent, for example. The Sibling is able to see and hear everything within the tower (including in the Cognitive Realm), though they aren't able to pay attention to all of it. Their Bondsmith is also able to do so, as well as comprehend the mechanisms of Urithiru and speak through the veins of garnet in the tower as the Sibling does. The Sibling is able to recreate sounds that they heard in the tower.
 The red garnet vein within the wall strata serves as means of communication. It can light up and, upon being touched, the Sibling will be able to mentally speak with a person or spren, although this can be eavesdropped through unknown methods. This also allows people to communicate with each other if they are both touching the garnet vein. The Sibling can also talk to people in weak mental state. The line of garnet will give off a small amount of light when the Sibling wants it to. This can be moved within the garnet veins to guide people. The Sibling can open, close or lock the fabrial doors in Urithiru. They are even able to key them to certain people.
-The tower is very bright and due to the highly Invested nature of the tower, it glows brightly in the [[Cognitive Realm\|Cognitive Realm]], making it hard for people to see specific spren while there. Its highly Invested nature also makes it near impossible for the detection of kinetic Investiture. [[Voidspren\|Voidspren]] are unable to remain invisible while in the tower, though regular spren can. Previously, the outer halls of the tower were coated in [[Aluminum\|aluminum]].
+The tower is very bright and due to the highly Invested nature of the tower, it glows brightly in the [[Cognitive Realm\|Cognitive Realm]], making it hard for people to see specific spren while there. Its highly Invested nature also makes it near impossible for the detection of kinetic Investiture. [[Voidspren\|Voidspren]] are unable to remain invisible while in the tower, though regular spren can. True spren that normally can't be seen are visible to others while in the tower. Highly Invested spren, such as the Unmade, are unable to hide from the Sibling while inside the tower.
+Previously, the outer halls of the tower were coated in [[Aluminum\|aluminum]]. Lesser spren show up far more frequently in the tower.
+
+
+The Sibling, in conjunction with their Bondsmith, is able to create a defensive crystal around Urithiru. The crystal prevents anyone from entering or leaving the tower in the Physical Realm, and protects those inside. This is powerful enough to protect from the direct intervention of a Shard.
+Doing so puts both the Sibling and their Bondsmith into a coma, with their Bondsmith being trapped in a crystal. This leaves the tower functional, with fabrials still working and Towerlight still available.
 
 
 When [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] was imprisoned, the Sibling lost the [[Rhythm\|rhythm]] of Towerlight, which stopped most of Urithiru from functioning. In this state, the Sibling was only able to see patches of the tower and a small area around people who are Connected to them, mainly the [[Knights Radiant\|Radiants]]. Without hearing the correct rhythms, their Bondsmith would also be unable to produce Towerlight. If the Sibling cannot generate Towerlight, they will be left open to be corrupted by [[Voidlight\|Voidlight]] and [[Odium\|Odium's]] tone.
@@ -81,7 +95,7 @@ The shield is made using the Surge of [[/wiki/Surgebinding#Transformation]]; [[S
 The first node was located close to the pillar and was destroyed by Navani. The second node was built near the second level of the tower, so it can easily absorb Stormlight from [[Highstorm\|highstorms]]. It was destroyed by [[Kaladin\|Kaladin]]. The third node was in the center of the Breakaway market on the first floor. It was hidden in a well near the pump mechanisms and was destroyed by Kaladin. The fourth node was hidden in the infirmary room, inside the model of the tower. It was destroyed by [[Moash\|Moash]]. More nodes were meant to be installed, as well as higher up into the tower, but Melishi did not have time to do so.
 
 ### Suppression Fabrial
-The Sibling has a large [[Suppression fabrial\|suppression fabrial]] built into Urithiru, much more powerful than a normal one. It is built into a construction of garnets and destroying them will remove its effects. It normally incapacitates Fused, [[Regals\|Regals]], and Unmade while inside its range. Some of the Unmade are able to resist the effects, as well as other highly Invested individuals. This fabrial can have varying power levels, from merely stopping some of the Fused from [[Surgebinding\|Surgebinding]] to knocking them unconscious. When in effect, rhythms are disrupted.
+The Sibling has a large [[Suppression fabrial\|suppression fabrial]] built into Urithiru, much more powerful than a normal one. It is built into a construction of garnets and destroying them will remove its effects. It normally incapacitates Fused, [[Regals\|Regals]], and Unmade while inside its range. Some of the Unmade are able to resist the effects, as well as other highly Invested individuals. This fabrial can have varying power levels, from merely stopping some of the Fused from [[Surgebinding\|Surgebinding]] to knocking them unconscious. Regals will also lose their forms. When in effect, rhythms are disrupted, and the rhythm of the Sibling can drive singers mad. Odium is unable to locate people while they are inside the tower.
 
 
 If the Sibling is corrupted, the suppression fabrial can be inverted, instead incapacitating Radiants. While in effect, Radiants inside of the range (roughly hundreds of yards from the tower) will fall unconscious. Their spren will also be pushed back into the Cognitive Realm, put into a deep sleep-like state. Those who have bonded a dead [[Shardblade\|Shardblade]] will be unable to summon it, though an unbonded one will remain unaffected. The suppression fabrial also greatly limits the Stormfather's ability to see the tower and will inhibit his [[Dalinar's visions\|visions]].
@@ -96,6 +110,7 @@ Fabrials will stop working while inside the range of the suppressor fabrial. Fab
 
 
 ### Heraldic Epochs and Era of Solitude
+The Sibling was created using a portion of the essence of [[Stone\|Stone]], mixed with the Investiture of Honor and Cultivation, around six-thousand years before the [[Night of Sorrows\|Night of Sorrows]]. They can, in a sense, be considered to be a child of Honor and Cultivation.
 The Sibling was capable of forming a [[Nahel bond\|Nahel bond]]. There could never be more than three [[Bondsmith\|Bondsmiths]]; there were long periods where only one existed, which might have referred to the Sibling's Bondsmith, as they were vital for Urithiru to properly function. They were very particular with their bond, often spending years evaluating Bondsmith squires.
 The Sibling was the key to certain magical aspects of the tower city of Urithiru that served as the base of the [[Knights Radiant\|Knights Radiant]]. Notably, the Sibling's presence was linked to the climate of the city, allowing the temperature to stay unnaturally warm given Urithiru's elevation. This allowed the Radiants to cultivate crops in the city to sustain the large population there. At some point, the Sibling began to withdraw from the tower. The Sibling's withdrawal caused some—but not all— of the city's magical systems to fail; it soon became uninhabitable, and the Radiants were forced to abandon the city. It is not clear why the Sibling disengaged with mankind; an Elsecaller who left notes in the gem archive argued that the spren's disappearance was neither intentional nor a result of internal strife among the [[Knights Radiant\|Knights Radiant]]. The Sibling was wounded by the imprisonment of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]; this wound resulted in the Sibling losing the rhythm of [[Towerlight\|Towerlight]], which in turn stopped [[Urithiru\|Urithiru]] functioning.
 After the Sibling's departure, they were not hiding but rather "slumbering" in the millennia following the abandonment of Urithiru and the [[Recreance\|Recreance]]. The Stormfather has generally been reticent to discuss the Sibling with [[Dalinar\|Dalinar]] because they were somehow harmed by mankind in the past.

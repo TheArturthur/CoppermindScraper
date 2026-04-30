@@ -57,7 +57,7 @@ Little is known about Bim's childhood, however, as his clan maintained undergrou
 
 ### Flight School
  
->“*Sir, is it true that if we crash a real ship while in training, we won't graduate?*”
+>“*Sir, is it true that if we crash a real ship while in training, we won't graduate? *”
 \-Bim to Cobb regarding cadet status following ejection[4]
 
 

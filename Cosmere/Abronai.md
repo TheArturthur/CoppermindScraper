@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
->“*This is outrageous! The dictates of the Five rule us, not the will of a single person! Can't you see that the form, the new form is overriding her! You've all lost your minds! Or...or worse.*”
+>“*This is outrageous!  The dictates of the Five rule us, not the will of a single person!  Can't you see that the form, the new form is overriding her!  You've all lost your minds!  Or...or worse.*”
 \-Abronai on Eshonai's coup[1]
 
 

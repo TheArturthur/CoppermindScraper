@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 The **Reshi Sea** is a body of water in northern [[Roshar\|Roshar]]. It is the largest known sea on Roshar and it covers a significant portion of the middle of the continent. The southern end of the sea is separated from the [[Purelake\|Purelake]] by [[Marabethia\|Marabethia]], while the [[Reshi Isles\|Reshi Isles]] archipelago lies at the northern end of the sea, adjacent to the [[Steamwater Ocean\|Steamwater Ocean]]. Other countries along the sea's coastline include [[Iri\|Iri]], [[Rira (country)\|Rira]], [[Babatharnam\|Babatharnam]], [[Tu Bayla\|Tu Bayla]], [[Jah Keved\|Jah Keved]], and [[Herdaz\|Herdaz]]. During the [[Heraldic Epochs\|Heraldic Epochs]], the sea was in the territory of [[Rishir\|Rishir]].
-In addition to the various islands in the Reshi Sea, it is also home to massive inhabited [[Greatshell\|greatshells]] known as [[Tai-na\|Tai-na]]. Although the sea is deeper than the Purelake, it is shallow enough to allow the Tai-na to walk along the seafloor.
+In addition to the various islands in the Reshi Sea, it is also home to massive inhabited [[Greatshell\|greatshells]] known as [[Tai-na\|Tai-na]]. Although the sea is deeper than the Purelake, it is shallow enough to allow the Tai-na to walk along the seafloor. At times, the mist on the Reshi Sea grows so dense, it’s becomes difficult to see anything.
 The area has a hot and humid tropical climate, and it does not snow. The waters of the sea are usually quite calm, although the region is presumably in the path of [[Highstorm\|highstorms]]. The seawater is quite warm most of the time.
 
 ## Inhabitants
@@ -20,6 +20,9 @@ Chulls - A species of crustacean useful for labor intensive jobs.
 Coracot - A fearsome creature that is hunted in the Reshi Isles on Roshar.
 I-nah - A type of tree native to the Reshi Sea on Roshar.
 An unknown species of minnow.
+Yu-nerig - A type of greatshell known to live near Herdaz.
+Saltwater cremlings.
+An unknown species of crab.
 
 
 https://coppermind.net/wiki/Reshi_Sea

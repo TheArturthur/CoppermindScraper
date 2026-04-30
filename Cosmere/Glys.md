@@ -1,3 +1,4 @@
+> [!info] This page is part of the December 2026 objectives!It has been claimed by User: Priscellie, please contact her before doing edits.
 |**Glys**|
 |-|-|
 ||
@@ -7,6 +8,8 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*No home. No allies. We will need more. Like you and like me. Together.*”
 \-Glys[1]

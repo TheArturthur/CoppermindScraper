@@ -6,7 +6,6 @@
 |**Ruled by**|God King [[Susebron\|Susebron]]|
 |**World**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-> [!info] This page or section would benefit by the addition of imagesPlease add a gallery of images related to this topic in place of this notice.
 
 >“*This, however, was Hallandren: land of Returned gods, Lifeless servants, BioChromatic research, and—of course—color.*”
 \-Vasher[1]
@@ -65,7 +64,7 @@
 
 
 5. [[#Fashion and Beauty]] 
-5. [[#Biochroma and Awakening]] 
+5. [[#BioChroma and Awakening]] 
 
 5. [[#Breaths and Awakening]] 
 5. [[#The Returned]] 
@@ -80,7 +79,7 @@
 5. [[#Drinks]] 
 
 
-5. [[#Calender]] 
+5. [[#Calendar]] 
 
 
 6 Religions. [[#Religions]] 
@@ -197,7 +196,7 @@ Hallandren trades extensively with the Northern kingdoms.
 ## Military
 ### The Lifeless Army
 Hallandren has a large lifeless army, forty thousand strong. They have been adding to this army for several centuries before the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]].
-The Hallandren Lifeless army is split into four sections of ten thousand troops, each commanded by a different Returned in the Pantheon. The commanders prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] were [[Lightsong\|Lightsong]], [[Hopefinder\|Hopefinder]], [[Allmother\|Allmother]] and [[Mercystar\|Mercystar]]. some of these Returned are bored by their duty, reasoning that they never have to actually do anything.
+The Hallandren Lifeless army is split into four sections of ten thousand troops, each commanded by a different Returned in the Pantheon. The commanders prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] were [[Lightsong\|Lightsong]], [[Hopefinder\|Hopefinder]], [[Allmother\|Allmother]] and [[Mercystar\|Mercystar]]. Some of these Returned are bored by their duty, reasoning that they never have to actually do anything.
 While the bulk of the army is Lifeless, there is quite a large support structure for the army proper which is composed of humans.
 The [[Lifeless\|lifeless]] army resides in the lifeless barracks, located at the bottom of the Court of Gods in T’Telir.. These barracks are heavily fortified, and the lifeless stationed here have orders to kill anyone who attacks the lifeless. The lifeless are kept in the dark.
 
@@ -235,8 +234,8 @@ Hallandren clothing is revealing, with blouses that are open well below the neck
 Hallandren women wear perfumes, either taking perfumed baths or having someone else rub perfume onto the body.  They also have many kinds of make-up, such as lipstick and eyeliner. Some women have a sort of paint on their thighs. Long hair is seen as a sign of beauty.
 Glossy black hair, pale skin and a lusciously curvaceous body are considered by some to be the epitome of female beauty. The Hallandren find both thin and heavy women to be attractive. The epitome of male beauty is large bulging muscles and square jawed features.
 
-### Biochroma and Awakening
-Hallandren is known for it’s research in Biochroma.
+### BioChroma and Awakening
+Hallandren is known for it’s research in BioChroma.
 
 #### Breaths and Awakening
 The Hallandren believes that losing your [[Breath\|Breath]] doesn’t change you much. There is also a very strict breath market. Due to these reasons many people sell their breaths when they need some money. These breaths are often bought by rich people. Most people stop at 50 breaths, at this point they have attained the first heightening, their lifespan is also improved by a good decade or so and their immune system is a lot more effective. They can also do a little bit of [[Awakening\|awakening]] themselves, a useful skill to have. People with more then a thousand breaths are uncommon, but not unheard of.
@@ -264,7 +263,7 @@ The Hallandren enjoy a wide variety of foods, including seafoods and sea fruits 
 #### Drinks
 The Hallandren also drink hot tea. A known variety is citrus tea. They also enjoy a wide variety of juices.
 
-### Calender
+### Calendar
 The Hallandren may have a calendar which views the [[Manywar\|Manywar]] as the year zero, as Hoid mentions that the time before the Manywar was before time itself began.
 
 ## Religions
@@ -281,7 +280,7 @@ The Iridescent Tones were established in Hallandren shortly after the [[Manywar\
 Most of the Idrians living in Hallandren follow Austrism. This is a monotheistic religion centred around the worship of Austre and the Five Visions. Austrism was practised in Hallandren before the Manywar. Idrians who convert to the Iridescent Tones are called ‘scrapes’ by other Idrians. The term is an epithet that refers to a scratch on a person’s arm revealing the colorful blood underneath.
 
 ### The Pahn Kahl Faith
-Most [[Pahn Kahl\|Pahn Kahl]] living in Hallandren follow their own religion. This religion is a kind of nature worship where the storms of the [[Bright Sea\|Bright Sea]] are revered as manifestations of the unity of their five gods. Their religion also focuses more on the Voice that sends back the Returned,
+Most [[Pahn Kahl\|Pahn Kahl]] living in Hallandren follow their own religion. This religion is a kind of nature worship where the storms of the [[Bright Sea\|Bright Sea]] are revered as manifestations of the unity of their five gods. Their religion also focuses more on the Voice that sends back the Returned.
 Many people in Hallandren are unaware of the Pahn Kahl religion, instead assuming them to worship the Returned as well.
 
 ## Economics

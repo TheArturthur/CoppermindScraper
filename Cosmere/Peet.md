@@ -1,6 +1,8 @@
 |**Peet**|
 |-|-|
 ||
+|**Family**|
+|**Spouse**|[[Ka\|Ka]]|
 |**Abilities**|[[Order of Windrunners\|Windrunner]]|
 |**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Residence**|[[Urithiru\|Urithiru]]|

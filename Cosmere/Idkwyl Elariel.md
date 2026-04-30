@@ -12,7 +12,7 @@ In 348 [[Catacendre\|PC]] Idkwyl made multiple [[Terris\|Terris]] inspired desig
 Her designs were advertised in the *[[The Two Seasons\|The Two Seasons]]* broadsheet published on Marewill 19, 348 [[Catacendre\|PC]].
 
 ## Trivia
-Idkwyl's name seems to suggest that she has Terris heritage.
+Idkwyl's name seems to suggest that she has Terris heritage. 
 
 
 

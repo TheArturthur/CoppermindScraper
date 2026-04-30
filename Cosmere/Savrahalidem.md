@@ -2,7 +2,7 @@
 |-|-|
 |**Family**|
 |**Parents**|[[Taravangian\|Taravangian]]|
-|**Relatives**|[[Karavaniga\|Karavaniga]], [[Gvori\|Gvori]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Taravangian's granddaughter]]|
+|**Relatives**|[[Karavangia\|Karavangia]], [[Gvori\|Gvori]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Taravangian's granddaughter]]|
 |**Titles**|Queen of [[Kharbranth\|Kharbranth]]|
 |**Aliases**|Savri|
 |**Residence**|[[Kharbranth\|Kharbranth]]|
@@ -10,6 +10,8 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Savrahalidem**, also known as **Savri** to those close to her, is the queen of Kharbranth. She is [[Taravangian\|Taravangian's]] daughter and has multiple children.
 

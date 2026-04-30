@@ -22,7 +22,7 @@
 ## Attributes and Abilities
 For more information, see [[Returned\|Returned]].
 Vo presumably had all of the abilities of the [[/wiki/Heightening#Fifth Heightening]] granted by a [[Divine Breath\|divine Breath]], including perfect pitch, life sense, and agelessness. Unusually for a Returned, Vo was able to bear children through an unknown method that required specific knowledge.
-Vo is also said to have spoken the [[Five Visions\|five Visions]] that are the founding tenets of [[Austrism\|Austrism]]. Very little is known about Austre other than the fact that he is not Endowment, and it is therefore unclear if he somehow influenced Vo's visions.
+Vo is also said to have spoken the [[Five Visions\|five Visions]] that are the founding tenets of [[Austrism\|Austrism]]. Very little is known about Austre other than the fact that he is not [[Endowment\|Endowment]], and it is therefore unclear if Austre somehow influenced Vo's visions.
 
 ## History
 Vo was a member of the [[Chedesh\|Chedesh]] people that dominated ancient Nalthis. Around three hundred years prior to the [[Manywar\|Manywar]], the Chedesh sent expeditions west across the [[Inner Sea\|Inner Sea]] in search of new lands. Vo was a member of an expedition that discovered a paradise-like valley with numerous unusual properties, including the only known habitat of [[Tears of Edgli\|Tears of Edgli]]. Unbeknown to the Chedesh, the jungles of this valley held [[Endowment\|Endowment's]] [[Perpendicularity\|perpendicularity]]. Vo died under unknown circumstances around the same time the valley was discovered, and was soon reborn in the bay adjacent to modern-day [[T'Telir\|T'Telir]]. Endowment chose to give him a divine Breath hoping that he would fulfill some sort of unknown purpose.

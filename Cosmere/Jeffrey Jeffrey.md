@@ -6,8 +6,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Sunlit Man\|The Sunlit Man]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[The Sunlit Man\|The Sunlit Man]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Jeffrey Jeffrey** is a citizen of the [[Beacon\|Beacon]] and an administrator or steward to the Greater Good.
 
 ## Appearance and Personality

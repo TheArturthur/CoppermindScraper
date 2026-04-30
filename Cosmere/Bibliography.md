@@ -38,7 +38,7 @@ For related information, see:
 |*[[Shadows for Silence in the Forests of Hell\|Shadows for Silencein the Forests of Hell]]*||Novella|Released in the *Dangerous Women* anthology.||
 |**2014**|*[[Words of Radiance\|Words of Radiance]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2|Novel|||
 |*[[Dreamer\|Dreamer]]*||Short Story|Released in the *Games Creatures Play* anthology.||
-|*[[Sixth of the Dusk\|Sixth of the Dusk]]*||Novella|Released in the *Shadows Beneath* anthology as well as a solo ebook.||
+|*[[Sixth of the Dusk (novella)\|Sixth of the Dusk]]*||Novella|Released in the *Shadows Beneath* anthology as well as a solo ebook.||
 |*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jakand the Pits of Eltania]]*|[[Mistborn Era 2\|Mistborn (Era 2)]]|Short Story|Released in the [[Alloy of Law (rule book)\|Alloy of Law supplement]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*.||
 |[[The Way of Kings Prime\|The Way of Kings Prime]]|[[Sanderson Curiosities\|Sanderson Curiosities]]|Excerpt|Released in the *Altered Perceptions* anthology.||
 |*Legion: Skin Deep*|[[Legion (series)\|Legion]] #2|Novella|||
@@ -86,9 +86,18 @@ For related information, see:
 |*[[Defiant (book)\|Defiant]]*|[[Skyward (series)\|Skyward]] #4|Novel|||
 |*[[Hyperthief\|Hyperthief]]*|[[Skyward (series)\|Skyward]] #3.2|Short Story|Co-written with [[Janci Patterson\|Janci Patterson]].||
 |*[[Long Chills %26 Case Dough\|Long Chills & Case Dough]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novelette|Released in the final box of the [[Year of Sanderson\|Year of Sanderson]] campaign.||
-|**2024**|*[[Dragonsteel Prime\|Dragonsteel Prime]]*|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novel|Ebook released in 2024 on the final day of the *Words of Radiance* Leatherbound Backerkit campaign.||
+|**2024**|[[Dragonsteel Prime\|Dragonsteel Prime]]|[[Sanderson Curiosities\|Sanderson Curiosities]]|Novel|Ebook released in 2024 on the final day of the *Words of Radiance* Leatherbound Backerkit campaign.||
 |*[[The Most Boring Book Ever\|The Most Boring Book Ever]]*||Picture Book|Illustrated by .||
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
+|**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||Novel|| |
+|*[[Tailored Realities\|Tailored Realities]]*||Anthology|A collection of stories which include *[[Snapshot\|Snapshot]]*, **, *[[I Hate Dragons\|I Hate Dragons]]*, *[[Dreamer\|Dreamer]]*, *[[Perfect State\|Perfect State]]*, **, *[[Defending Elysium\|Defending Elysium]]*, *[[Firstborn\|Firstborn]]*, *[[Mitosis\|Mitosis]]*, and *[[Moment Zero\|Moment Zero]]*.||
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.| |
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.| |
+|**|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck. Non-canon.| |
+|**2026**|*[[The Fires of December\|The Fires of December]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|Add-on to the  campaign||
+|*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
+|*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
+|*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
 
 
 

@@ -1,15 +1,18 @@
 |**Shob**|
 |-|-|
+|**Abilities**|[[Order of Lightweavers\|Lightweaver]]|
 |**Profession**|Soldier|
 |**Religion**|[[Vorin\|Vorin]]|
-|**Groups**|Sadeas army |
+|**Groups**|[[Knights Radiant\|Knights Radiant]] , [[Unseen Court\|Unseen Court]], Sadeas army |
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*With the way justice plays out in this world, I can guarantee you'll outlive the rest of us.*”
-\-Vathah to Shob[1]
+\-Vathah to Shob[2]
 
 
 **Shob** is a former soldier and deserter on [[Roshar\|Roshar]]. He is a member of [[Vathah\|Vathah's]] group that is loyal to [[Shallan Davar\|Shallan Davar]].

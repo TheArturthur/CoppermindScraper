@@ -37,13 +37,13 @@
 \-Yeden when planning the rebellion.[4]
 
 
-Yeden is short, gangly, and has curly brown hair. He was the leader of the Skaa Rebellion. He does not like skaa thieves, especially ones that work for their own profit. He considers skaa that work on the [[Lord Ruler\|Lord Ruler's]] armies to be traitors to the other skaa. He was originally timid, but later became more confident and civil. He is also earnest, but lacks in presence. Originally, he dressed like a skaa worker, with ash-covered clothes and a soot-stained face. He later dressed more like Kelsier: wearing a suit that didn't have soot on it. Yeden is married, but stays away to protect his family.
+Yeden is short, gangly, and has curly brown hair. He was the leader of the Skaa Rebellion. He does not like skaa thieves, especially ones that work for their own profit. He considers skaa that work on the [[Lord Ruler\|Lord Ruler's]] armies to be traitors to the other skaa. He was originally timid, but later became more confident and civil. He is also earnest, but lacks in presence. Originally, he dressed like a skaa worker, with  ash-covered clothes and a soot-stained face. He later dressed more like Kelsier: wearing a suit that didn't have soot on it. Yeden is married, but stays away to protect his family.
 
 >“*You’re selfish, undisciplined, and you’ve turned your backs on the rest of the skaa. You dress nicely, but on the inside you’re dirty as ash.*”
 \-Yeden to Breeze.[2]
 
 Yeden thinks members of the skaa underground are selfish and undisciplined, but he admits they're effective, and is willing to make use of their skills. He doesn't trust [[Kelsier's crew\|Kelsier's crew]], and when Kelsier lets Clubs go Yeden is worried he will bring [[Obligator\|obligators]] upon them. Yeden is skeptical of Kelsier's plan; he thinks the skaa will never rise up on the government, since the rebellion has been trying to do this for a thousand years without success.
-After a time, Yeden becomes more civil with the crew and trusts Kelsier more. He starts to realize that the rebellion might actually have a chance of succeeding. After Kelsier's demonstration with [[Bilg\|Bilg]] and [[Demoux\|Demoux]], Yeden starts to believe that the army was invincible, that it couldn't fail. He is an earnest man, though he lacks in presence.
+After a time, Yeden becomes more civil with the crew and trusts Kelsier more. He starts to realize that the rebellion might actually have a chance of succeeding. After Kelsier's demonstration with [[Bilg\|Bilg]] and [[Demoux\|Demoux]], Yeden starts to believe that the army was invincible, that it couldn't fail.
 
 ## History
 ### Early life

@@ -1,5 +1,6 @@
 |**Ryan Chu**|
 |-|-|
+|**Profession**|Detective|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
 |**Introduced In**|*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*|
 

@@ -60,10 +60,10 @@ Kmakl joined the coalition's forces in [[Emul\|Emul]] during the planning for th
 
 ## Relationships
 ### Queen Fen
-Fen remarks that Kmakl was partcularly smitten during their first days courting. He is often by the queen's side and sometimes acts as an informal advisor, but he does not interfere with her duties as monarch, ensuring that she has final say on all decisions.
+Fen remarks that Kmakl was particularly smitten during their first days courting. He is often by the queen's side and sometimes acts as an informal advisor, but he does not interfere with her duties as monarch, ensuring that she has final say on all decisions.
 
 ### Dalinar and Navani Kholin
-Both Navani and Dalinar are fond of Kmakl. Dalinar sometimes gets annoyed by the fact that bureaucracy slows Kmakl and Fen's decision making.
+Both Navani and Dalinar are fond of Kmakl. Dalinar sometimes gets annoyed by the fact that bureaucracy slows Kmakl and Fen's decision-making.
 
 
 

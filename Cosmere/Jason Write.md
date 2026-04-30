@@ -44,7 +44,7 @@ From a young age, Jason has been developing his cytonic abilities.
 
 ## History
 ### Early Life
-As a child, Jason began experiencing vision loss. This first began to manifest as . The next symptom he experienced was loss of peripheral vision leading to . Doctors were unable to stop the progression of vision loss. At sixteen, Jason officially became legally blind. Jason, ashamed of his condition, attempted to live his life normally without telling other children what was wrong. They, unknowing that his stumbling was caused by vision loss, laughed at him and called him a fool. Jason experienced total vision loss later in life.
+As a child, Jason began experiencing vision loss. This first began to manifest as . The next symptom he experienced was loss of peripheral vision leading to . Doctors were unable to stop the progression of vision loss. At sixteen, Jason officially became legally blind. Jason, ashamed of his condition, attempted to live his life normally without telling other children what was wrong. They, unknowing that his stumbling was caused by vision loss, laughed at him and called him a fool. Jason experienced total vision loss later in life. 
 Jason ended up working for the [[Phone Company\|Phone Company]]. There he became a powerful cytonic, developing Sense, mind blades, and eventually FTL travel. Due to his importance and mystique, he was tailed by multiple [[UIB\|UIB]] agents, though none succeeded. He also met and married [[Lanna Write\|Lanna Write]].
 
 ### Denise Investigation (2211)

@@ -34,7 +34,7 @@ As a poltergeist, Icer must possess the body of a living person in order to main
 
 ## History
 At some point, Icer was a living woman. She died at an unknown point and under unknown circumstances and became a poltergeist.
-Icer met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]], [[Longshot\|Longshot]], [[Rabies\|Rabies]], and [[TheGannon\|TheGannon]], who all love to play games. As a group, they got together often to play games by possessing the living and using their bodies disposably, as if they were players inhabiting the persona of a video game character.
+Icer met fellow poltergeists [[Dreamer (character)\|Dreamer]], [[Phi\|Phi]], [[Longshot\|Longshot]], [[Rabies\|Rabies]], and [[TheGannon\|TheGannon]], who all love to play games. As a group, they got together often to play games by possessing the living and using their bodies disposably, as if they were players inhabiting the persona of a video game character. 
 During one such game, Icer was playing cops and robbers in Manhattan against Phi, on a team with the other four poltergeists in their group. Icer was assigned to hunt Phi on the streets, along with Dreamer and Rabies. After Dreamer had a skirmish with Phi, Icer decided to get a better vantage point on top of a building. From there, she spotted Phi and moved to intercept him. By the time Dreamer reached their location, Phi had already killed the body Icer was using. This was the third body Icer had used for the game, which meant she was knocked out of the game. At the conclusion of the game, Icer chatted with her fellow players, challenged Phi on his interpretation of the rules, and lamented inviting TheGannon to play with them.
 
 

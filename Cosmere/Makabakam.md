@@ -9,36 +9,40 @@
 
 ## Contents
 
-1 Geography. [[#Geography]] 
+1 Etymology. [[#Etymology]] 
+2 Geography. [[#Geography]] 
 
-1. [[#Territories and Features]] 
+2. [[#Territories and Features]] 
 
-1. [[#Territories]] 
-1. [[#Geographic Features]] 
-
-
-
-
-2 Culture. [[#Culture]] 
-
-2. [[#Ethnicity and People]] 
-
-
-3 History. [[#History]] 
-
-3. [[#Creation of Roshar]] 
-3. [[#Pre-Human Arrival]] 
-3. [[#The Establishment of Makabakam]] 
-
-3. [[#Further Desolations]] 
-3. [[#The Last Desolation .28c.-3332.29]] 
-3. [[#After Aharietiam]] 
+2. [[#Territories]] 
+2. [[#Geographic Features]] 
 
 
 
 
-4 Notes. [[#Notes]] 
+3 Culture. [[#Culture]] 
 
+3. [[#Ethnicity and People]] 
+
+
+4 History. [[#History]] 
+
+4. [[#Creation of Roshar]] 
+4. [[#Pre-Human Arrival]] 
+4. [[#The Establishment of Makabakam]] 
+
+4. [[#Further Desolations]] 
+4. [[#The Last Desolation .28c.-3332.29]] 
+4. [[#After Aharietiam]] 
+
+
+
+
+5 Notes. [[#Notes]] 
+
+
+## Etymology
+Makabakam is most likely named after the historical figure [[Makibak\|Makibak]], and the people of the nation were originally referred to as Makibaki.
 
 ## Geography
 ### Territories and Features

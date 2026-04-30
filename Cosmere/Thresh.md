@@ -1,6 +1,5 @@
 |**Thresh-son-Esan**|
 |-|-|
-|**Parents**|Esan|
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -8,6 +7,7 @@
 
 >“*Winds of Fortune guide you, my friend. He who adds is happy for your safe arrival.*”
 \-Thresh greeting Vstim[1]
+
 
 **Thresh-son-Esan** is a [[Shin\|Shin]] trader in [[Shinovar\|Shinovar]]. He has a longstanding friendship and bond of trust with the [[Thaylen\|Thaylen]] merchant [[Vstim\|Vstim]].
 

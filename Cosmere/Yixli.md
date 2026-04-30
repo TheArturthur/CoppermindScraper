@@ -1,12 +1,12 @@
 |**Yixli**|
 |-|-|
 |**Abilities**|[[Splinter\|Splinter]] of [[Odium\|Odium]]|
-|**Species**|[[Voidspren\|Voidspren]]|
+|**Species**|[[Voidspren\|Guidespren]]|
 |**Homeworld**|[[Braize\|Braize]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-**Yixli** is the [[Voidspren\|Voidspren]] that leads [[Khen\|Khen]], [[Sah\|Sah]], and [[Kaladin\|Kaladin]] to [[Revolar\|Revolar]].
+**Yixli** is the [[Voidspren\|guidespren]] that leads [[Khen\|Khen]], [[Sah\|Sah]], and [[Kaladin\|Kaladin]] to [[Revolar\|Revolar]].
 
 ## Contents
 
@@ -23,7 +23,7 @@ Yixil appears as a tiny woman, glowing yellow-white like the center of a flame, 
 Yixli has a similar level of control over who sees her as an [[Honorspren\|honorspren]] would, though she doesn't appear to need a [[Nahel bond\|Nahel bond]] to maintain her mind while in the [[Physical Realm\|Physical Realm]].
 
 ## History
-Yixli was one of the many yellow-white Voidspren that guided the newly-awakened [[Singer\|singers]] to [[Kholinar\|Kholinar]].
+Yixli was one of the many yellow-white guidespren that guided the newly-awakened [[Singer\|singers]] to [[Kholinar\|Kholinar]].
 
 
 

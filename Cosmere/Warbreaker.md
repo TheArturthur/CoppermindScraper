@@ -32,8 +32,8 @@ For Warbreaker the character, see [[Vasher\| Warbreaker]].
 
 ## Summary
 For a complete chapter by chapter summary, see [[Warbreaker/Summary\|/Summary]].
-Warbreaker tells the story of two sister princesses, [[Vivenna\|Vivenna]] and [[Siri\|Siri]], of the country [[Idris\|Idris]]. Vivenna has been raised her entire life to marry the [[Susebron\|God King]] of the rival nation of [[Hallandren\|Hallandren]], in the hopes that this marriage will forestall Hallandren's invasion of Idris, which they have been threatening for years. For reasons of political expediency, as well as the personal preferences of the King of Idris, Siri is sent, unprepared, in Vivenna's stead. Vivenna, feeling her life to be devoid of purpose after Siri is sent in her place, follows her to Hallandren in hopes of rescuing her. Both Siri and Vivenna then become involved in intrigues intended to cause war between their home nation of Idris and Hallandren, and attempt to prevent the war from happening separately: Siri from within the government and Vivenna by cooperation with the underground.
-At the same time, the novel tells the story of one of the [[Returned\|Returned]] members of the royal court, [[Lightsong\|Lightsong]], and his search for the truth behind the Hallandren religion, as well as that of his own identity. The fourth story that the book follows is that of [[Vasher\|Vasher]], a mysterious character with a talking sword named [[Nightblood\|Nightblood]] and an impressive mastery of [[BioChromatic Breath\|BioChromatic Breaths]].
+Warbreaker tells the story of two sister princesses, [[Vivenna\|Vivenna]] and [[Siri\|Siri]], of the country [[Idris\|Idris]]. Vivenna has been raised her entire life to marry the [[Susebron\|God King]] of the rival nation of [[Hallandren\|Hallandren]], in the hopes that this marriage will forestall Hallandren's invasion of Idris, which they have been threatening for years. For reasons of political expediency, as well as the personal preferences of the King of Idris,  Siri is sent, unprepared, in Vivenna's stead. Vivenna, feeling her life to be devoid of purpose after Siri is sent in her place, follows her to Hallandren in hopes of rescuing her. Both Siri and Vivenna then become involved in intrigues intended to cause war between their home nation of Idris and Hallandren, and attempt to prevent the war from happening separately: Siri from within the government and Vivenna by cooperation with the underground.
+At the same time, the novel tells the story of one of the [[Returned\|Returned]] members of the royal court, [[Lightsong\|Lightsong]], and his search for the truth behind the Hallandren religion, as well as that of his own identity. The fourth story that the book follows is that of [[Vasher\|Vasher]], a mysterious character with a sentient sword named [[Nightblood\|Nightblood]] and an impressive mastery of [[BioChromatic Breath\|BioChromatic Breaths]].
 The book is set in the [[Cosmere\|cosmere]] on the [[/wiki/Cosmere#Planets]] of [[Nalthis\|Nalthis]], home to the [[Shard\|Shard]] [[Endowment\|Endowment]]. It is told from Vasher's, Siri's, Vivenna's, and Lightsong's points of view.
 
 ## Main Characters
@@ -74,6 +74,7 @@ UK rights to Gollancz
 French rights to Calmann-Levy
 Bulgarian rights to Studio of A
 Iranian rights to Houpaa
+Brazilian rights to Trama
 
 ## Cover Gallery
 For a cover gallery of Warbreaker, see [[Warbreaker/Covers\|/Covers]].

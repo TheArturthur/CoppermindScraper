@@ -7,7 +7,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Bethab princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. It has no house colors.
+**Bethab princedom** is one of ten [[Alethi\|Alethi]] princedoms that form [[Alethkar\|Alethkar]]. Its house colors are crimson on orange.
 
 ## Contents
 
@@ -30,7 +30,7 @@ It is located in the southwest of Alethkar, and shares boarders with [[Jah Keved
 [[Karanak\|Karanak]]
 [[Mevan Bay\|Mevan Bay]]
 ## History
-Bethab princedom was one of the ten princedoms reunited into a single country under [[Gavilar Kholin\|Gavilar Kholin]]. It is unknown whether Highprince Bethab fought for Gavilar or against him during the war for unification.
+Bethab princedom was one of the ten princedoms reunited into a single country under [[Gavilar Kholin\|Gavilar Kholin]].  It is unknown whether Highprince Bethab fought for Gavilar or against him during the war for unification.
 [[Dalinar\|Dalinar's]] forces stop in Dumadari on their way to the [[Shattered Plains\|Shattered Plains]] after the formation of the [[Vengeance Pact\|Vengeance Pact]] before sailing on to [[New Natanan\|New Natanan]]. Dalinar used the voyage as a cover to travel to the [[Valley\|Valley]] and seek the [[Nightwatcher\|Nightwatcher]].
 [[Jasnah Kholin\|Jasnah Kholin]] was in residence in Dumadari for an unknown amount of time in 1173. [[Shallan Davar\|Shallan Davar]] travelled to the city to meet with the [[Alethi\|Alethi]] princess, however, by the time she arrived Jasnah had moved on.
 

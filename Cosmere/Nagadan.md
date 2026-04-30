@@ -21,7 +21,7 @@ Nagadan is less than fifty Rosharan miles across, and only a few miles away from
 ## People
 The people of Nagadan look similar to the [[Jah Keved\|Veden]] people, with similar features and the same dark hair, though they have paler skin than an ordinary Veden. The "similar features" mentioned likely refer to the presence of epicanthic folds.
 Beards are rarely seen amongst their people, though it is unclear if this is purely cultural or has a genetic component.
-They are descended from nomads that lived at the edge of [[Torio\|Torio]].
+They are descended from nomads that lived at the edge of [[Torio\|Torio]]. 
 
 ## Cities
 [[Kilahito\|Kilahito]]

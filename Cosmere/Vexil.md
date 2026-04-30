@@ -9,7 +9,7 @@
 \- Vexil to the coalition leaders[1]
 
 
-**Vexil the Wise** is the Prime of the [[Makabaki\|Makabaki]] kingdom of [[Emul\|Emul]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
+**Vexil the Wise** is the Prime of  the [[Makabaki\|Makabaki]] kingdom of [[Emul\|Emul]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 As with many of the Makabaki monarchs, Vexil is often referred to simply as **Emul**.
 
 ## Personality

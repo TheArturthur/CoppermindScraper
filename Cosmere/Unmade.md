@@ -1,3 +1,4 @@
+> [!info] This page is part of the April 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
 |**Unmade**|
 |-|-|
 ||
@@ -6,11 +7,13 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*The Unmade are a deviation, a flair, a conundrum that may not be worth your time. You cannot help but think of them. They are fascinating. Many are mindless. Like the spren of human emotions, only much more nasty. I do believe a few can think, however.*”
 \-From the Diagram, Book of the 2nd Desk Drawer: paragraph 14[1]
 
 
-The **Unmade** are a group of nine ancient and twisted [[Spren\|spren]] on [[Roshar\|Roshar]] comprised of [[Splinter\|Splinters]] of [[Odium\|Odium]]. They are regarded as minions of Odium, but not all of them continue to do his bidding. While they are traditionally depicted as personifications of destruction or forces, some of them are cognizant individuals. Each Unmade is endowed with vast and terrible powers, although the intelligence of the Unmade varies drastically.
+The **Unmade** are a group of nine ancient and twisted [[Spren\|spren]] on [[Roshar\|Roshar]] comprising [[Splinter\|Splinters]] of [[Odium\|Odium]]. They are regarded as minions of Odium, but not all of them continue to do his bidding. While they are traditionally depicted as personifications of destruction or forces, some of them are cognizant individuals. Each Unmade is endowed with vast and terrible powers, although the intelligence of the Unmade varies drastically.
 [[Ba-Ado-Mishram\|Ba-Ado-Mishram]], the most intelligent of the Unmade, has three parts in her compound name, while [[Re-Shephir\|Re-Shephir]], [[Sja-anat\|Sja-anat]], and [[Yelig-nar\|Yelig-nar]] have two parts in a compound name and have displayed a level of awareness. Unmade such as [[Nergaoul\|Nergaoul]] and [[Ashertmarn\|Ashertmarn]], have shown themselves to be mere creatures of instinct.
 
 ## Contents
@@ -53,28 +56,25 @@ The **Unmade** are a group of nine ancient and twisted [[Spren\|spren]] on [[Ros
 \-The Sibling[14]
 
 
-The specific process of how [[Odium\|Odium]] created the Unmade is unknown, but they were unmade by his hand.
+The specific process of how [[Odium\|Odium]] created the Unmade is unknown, but they were unmade by his hand. They were made after the [[Fused\|Fused]], as their more limited nature compared to [[Knights Radiant\|Knights Radiants]] allowed Odium extra strength to give to the Unmade. The [[Sibling\|Sibling]] considers being unmade into something else as equivalent to death. It is uncertain what the Unmade were before becoming corrupted. Upon her confrontation with [[Re-Shephir\|Re-Shephir]], [[Shallan\|Shallan]] believes her to have originally been a [[Creationspren\|creationspren]], but later thinks it might in fact have been *human*.
 One process of unmaking is documented with [[Raboniel\|Raboniel's]] attempt to unmake the [[Sibling\|Sibling]]. While [[Investiture\|Invested]] with [[Voidlight\|Voidlight]], Raboniel placed her hands on the Sibling's pillar. The Sibling reacted by glowing with [[Towerlight\|Towerlight]]. The Voidlight moved from Raboniel into the pillar's embedded garnets, starting the process of corruption. If she had been able to continue, the Sibling says she would infuse the entire pillar with Voidlight in the proper order and utilize the [[/wiki/Surgebinding#Transformation]].
-The [[Sibling\|Sibling]] considers being unmade into something else as equivalent to death.
 [[Sja-anat\|Sja-anat]] believes Odium could unmake the Unmade again. This would steal their memories and rip them to pieces. She also fears he will unmake her children, both true spren and lesser spren, to the same effect.
-It is uncertain what the Unmade were before becoming corrupted. Upon her confrontation with [[Re-Shephir\|Re-Shephir]], [[Shallan\|Shallan]] believes her to have originally been a [[Creationspren\|creationspren]], but later thinks it might in fact have been *human*.
-The Unmade inherently make those in their proximity feel a strong sense of unease and wrongness. The sensation grows stronger the closer on gets to the Unmade itself.
 
 ### Functioning
 In creating Unmade, Odium trapped them in a halfway existence, many not fully belonging to the Physical or Cognitive Realms. Sja-anat experiences a shadowy version of both Shadesmar and the Physical Realm at the same time, feeling the distance between the two dilate as she moves.
 Some of the Unmade manifest various forms in the Physical Realm if they reside too long in the same place or are pulled through by strong emotions.
 Some are practically mindless, more like emotion spren, others are intelligent, crafty and conniving.
 Unmade are [[Investiture\|Invested]] enough that they have been able to push through [[Urithiru\|Urithiru's]] [[Suppression fabrial\|suppression]] effect, depending on the circumstances. Although not as Invested as the Stormfather or Nightblood, they are still more Invested than the Vessel of a Shard (though obviously not the Shard itself).
-Buildings under the influence of an Unmade cannot be drawn by [[Order of Lightweavers\|Lightweavers]].
+Buildings under the influence of an Unmade cannot be drawn by [[Order of Lightweavers\|Lightweavers]]. The Unmade inherently make those in their proximity feel a strong sense of unease and wrongness. The sensation grows stronger the closer one gets to the Unmade itself.
 
 ### Capturing
 >“*You see, it can only be bested by someone who deeply, sincerely, **understands it**.*”
 \-Dalinar Kholin[13]
 
 
-An Unmade may be captured in a [[Polestone\|polestone]] like other spren, but to do so seems to require both someone who deeply understands them and a perfect gemstone. Unmade are able to think while in captivity but can not break free. Unmade do not fade during captivity, unlike [[Heralds\|Heralds]].
+An Unmade may be captured in a [[Polestone\|polestone]] like other spren, but to do so seems to require both a [[Connection\|Connection]] to them and a perfect gemstone. Unmade are able to think while in captivity but can not break free. Unmade do not fade during captivity, unlike [[Heralds\|Heralds]]. If there is a crack in the gemstone, they can speak to others, and if in the Spiritual Realm, may be able to influence the Realm.
 Prior to the [[Day of Recreance\|Recreance]], a [[Order of Lightweavers\|Lightweaver]] managed to trap [[Re-Shephir\|Re-Shephir]], an act previously thought impossible. Re-Shephir then escaped her imprisonment by unknown means centuries before the [[True Desolation\|True Desolation]]. After the [[Alethi\|Alethi]] arrived at [[Urithiru\|Urithiru]], she once again encountered a Lightweaver, [[Shallan Davar\|Shallan Davar]]. Sensing the similarities between Shallan's powers and those of the Lightweaver who had trapped her in the past, Re-Shephir fled rather than risk being imprisoned again.
-The [[Urithiru gem archive\|Urithiru gem archive]] includes a theory that [[Melishi\|Melishi]], a [[Order of Bondsmiths\|Bondsmith]], would be required to trap [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] in a special prison. A [[Knights Radiant\|Knights Radiant]] strike team was successful in capturing Ba-Ado-Mishram in a gemstone at the end of the [[False Desolation\|False Desolation]], which cut off her [[Connection\|Connection]] to the [[Singers\|singers]]. Most of the details of this capture are unknown, other than several Heralds, including [[Nale\|Nale]] and [[Kalak\|Kalak]], being present.
+[[Melishi\|Melishi]], a [[Order of Bondsmiths\|Bondsmith]], was able to trap [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] in a large heliodor under the orders of [[Honor\|Honor]] at the end of the [[False Desolation\|False Desolation]], which cut off her [[Connection\|Connection]] to the [[Singers\|singers]]. Several Heralds, including [[Nale\|Nale]] and [[Kalak\|Kalak]], were also present.
 During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Dalinar Kholin\|Dalinar Kholin]] used his intimate knowledge about the Thrill's nature, and the method of capturing spren through coaxing them into a [[Polestone\|gemstone]], to capture [[Nergaoul\|Nergaoul]] in the [[King's Drop\|King's Drop]]. It is unclear whether or not he utilized the [[Order of Bondsmiths\|Bondsmith]] [[/wiki/Surgebinding#Adhesion]] to aid with his [[Connection\|Connection]] to the Thrill and it is also unknown if this is the same method that the ancient Radiants used.
 It is also theoretically possible to bind an Unmade to the Physical Realm using a Hemalurgic spike.
 
@@ -90,7 +90,7 @@ The arrival of the [[Everstorm\|Everstorm]] in [[Shadesmar\|Shadesmar]] revitali
 [[Nergaoul\|Nergaoul's]] gemstone prison was put in an aluminum box and sunk to the bottom of the ocean.
 [[Re-Shephir\|Re-Shephir]] shared information about the [[Sibling\|Sibling]] with the [[Fused\|Fused]].
 [[Sja-anat\|Sja-anat]] has been using her Enlightened [[Spren\|spren]] children to influence events according to her designs, while trying to convince [[Odium\|Odium]] she isn't actively trying to undermine him. This influence, through the lure of corrupted [[Windspren\|windspren]], allowed [[Taravangian\|Taravangian]] to kill Odium's [[Vessel\|Vessel]], [[Rayse\|Rayse]], and take up the [[Shard\|Shard]] himself. Also, at [[Shallan\|Shallan's]] request, Sja-anat sent [[Tumi\|Tumi]], a corrupted [[Mistspren\|mistspren]], to investigate bonding a member of the [[Ghostbloods\|Ghostbloods]], but [[Tumi\|Tumi]] chose to bond [[Rlain\|Rlain]] instead, at [[Renarin\|Renarin's]] suggestion.
-[[Taravangian\|Taravangian's]] [[Diagram (literature)\|Diagram]] indicates one or more Unmade has set up in [[Shinovar\|Shinovar]]. [[Ishar\|Ishar]] claims that he saved the [[Shin\|Shin]] after they accepted the Unmade and tried to make gods of them.
+[[Taravangian\|Taravangian's]] [[Diagram (literature)\|Diagram]] indicates one or more Unmade has set up in [[Shinovar\|Shinovar]]. [[Ishar\|Ishar]] claims that he saved the [[Shin\|Shin]] after they accepted the Unmade and tried to make gods of them. This is not actually true since there were no unmade in Shinovar. Ishar himself was the only thing corrupting them.
 While negotiating the contest of champions with [[Dalinar\|Dalinar]], [[Odium\|Odium]] claims he can demand the Unmade retreat, but not all currently obey his will.
 
 ## Culture
@@ -101,7 +101,7 @@ The Unmade feature heavily in the songs of the [[Listener\|listeners]], who also
 ## Members of the Unmade
 ### Ashertmarn
 >“*Ashertmarn, the Heart of the Revel, is the final of the three great Mindless Unmade. His gift to men is not prophecy or battle focus, but a lust for indulgence.*”
-\-From Hessi's Mythica, page 203[69]
+\-From Hessi's Mythica, page 203[71]
 
 
 **[[Ashertmarn\|Ashertmarn]]** is a mindless Unmade that is also known as the **Heart of the Revel**. He takes the form of an enormous, black, inhuman heart that grows veins into the ground. Those who fall under Ashertmarn's influence are driven to debauchery and excess, in extreme cases to the point of total mindless indulgence. Ashertmarn was most recently seen in [[Kholinar\|Kholinar]], grown over the [[Oathgate\|Oathgate]] there, where he managed to influence many of the Alethi elite to abandon their lives and responsibilities in favor of the revel. His location is unknown after he left the Oathgate platform.
@@ -111,42 +111,43 @@ The Unmade feature heavily in the songs of the [[Listener\|listeners]], who also
 \-From Hessi's Mythica, page 244[12]
 
 
-**[[Ba-Ado-Mishram\|Ba-Ado-Mishram]]** is one of the most intelligent Unmade. She is crafty and conniving. She served as one of Odium's commanders during the [[Desolation\|Desolations]]. About 2,500 years after Aharietiam, she [[Connection\|Connected]] with the vast majority of [[Singer\|singers]] instigating the [[False Desolation\|False Desolation]]. She was able to grant them forms of power and provide [[Voidlight\|Voidlight]]. A [[Knights Radiant\|Knights Radiant]] strike team captured Ba-Ado-Mishram in a perfect gemstone at the end of the [[False Desolation\|False Desolation]], which cut off her Connection to the singers, stealing their minds, and touched the souls of all who belong to [[Roshar\|Roshar]]. The current location of her gemstone prison is unknown. [[Kalak\|Kalak]] and [[Nale\|Nale]] were present during the capture, so they may have clues to its location. Kalak believes Ba-Ado-Mishram should be found and released. Ba-Ado-Mishram is also being sought by the [[Ghostbloods\|Ghostbloods]] for unknown purposes, possibly to aid their mission of transporting [[Stormlight\|Stormlight]] off [[Roshar\|Roshar]].
+**[[Ba-Ado-Mishram\|Ba-Ado-Mishram]]** is one of the most intelligent Unmade. She is crafty and conniving. She served as one of Odium's commanders during the [[Desolation\|Desolations]]. About 2,500 years after Aharietiam, she [[Connection\|Connected]] with the vast majority of [[Singer\|singers]] instigating the [[False Desolation\|False Desolation]]. She was able to grant them forms of power and provide [[Voidlight\|Voidlight]]. A [[Knights Radiant\|Knights Radiant]] strike team captured Ba-Ado-Mishram in a perfect gemstone at the end of the [[False Desolation\|False Desolation]], which cut off her Connection to the singers, stealing their minds, and touched the souls of all who belong to [[Roshar\|Roshar]]. The Sibling's Bondsmith, Melishi, trapped her, while she had been attending a meeting to make peace between the singers and humans, urged on by [[Honor\|Honor]], when he hesitated. Her gemstone prison had been located in the Spiritual Realm, in a place resembling Melishi's childhood room. She had looked like a miniature Everstorm in the gemstone.Her animosity towards humans was considerably exacerbated due to this perceived betrayal and the long duration of her incarceration. [[Kalak\|Kalak]] and [[Nale\|Nale]] were present during the capture, so they may have clues to its location. Kalak believes Ba-Ado-Mishram should be found and released. Ba-Ado-Mishram is also being sought by the [[Ghostbloods\|Ghostbloods]] for unknown purposes, possibly to aid their mission of transporting [[Stormlight\|Stormlight]] off [[Roshar\|Roshar]]. Her release would also make it possible for her to usurp the position of Vessel for Odium, this internal strife making the composite faction weaker. Rlain and Renarin shattered her gemstone prison and she was released.
 
 ### Chemoarish
-Little is known of the Unmade **[[Chemoarish\|Chemoarish]]**. By the modern [[Era of Solitude\|Era of Solitude]], she is known as the **Dustmother** and often is conflated with the [[Nightwatcher\|Nightwatcher]]. There is a variety of lore associated with her, but all of it is currently unknown. In [[Bavland\|Bavland]], her name is invoked as a curse.
+Little is known of the Unmade **[[Chemoarish\|Chemoarish]]**. By the modern [[Era of Solitude\|Era of Solitude]], she is known as the **Dustmother** and often is conflated with the [[Nightwatcher\|Nightwatcher]]. There is a variety of lore associated with her, but all of it is currently unknown. In [[Bavland\|Bavland]], her name is invoked as a curse by the bav people.. She is presumed to be quite powerful and she is associated with disappearance of the entire cities during desolations.
 According to [[Hessi\|Hessi]], she is not one of the three great mindless Unmade.
 
 ### Dai-Gonarthis
 >“*Let me no longer hurt! Let me no longer weep! Dai-Gonarthis! The Black Fisher holds my sorrow and consumes it!*”
-\-Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarity to sample 1172-89.[74]
+\-Tanatesach 1173, 28 seconds pre-death. A darkeyed female street juggler. Note similarity to sample 1172-89.[77]
 
 
-**[[Dai-Gonarthis\|Dai-Gonarthis]]**, also known as the **Black Fisher** is an Unmade of median intelligence. They have not been recorded as active on Roshar recently, but may have been involved in the [[Scouring of Aimia\|Scouring of Aimia]]. There is some uncertainty in the mythology as to whether Dai-Gonarthis is one of the Unmade, but some scholars are convinced.
+**[[Dai-Gonarthis\|Dai-Gonarthis]]**, also known as the **Black Fisher** is an Unmade of median intelligence. They have not been recorded as active on Roshar recently, but may have been involved in the [[Scouring of Aimia\|Scouring of Aimia]]. Dai-Gonarthis can utilize [[Connection\|Connection]] to create [[/wiki/Surgebinding#Transportation]], though only between two locations that have a high concentration of [[Investiture\|Investiture]]. At least prior to the [[Night of Sorrows\|Night of Sorrows]], most places controlled by the [[Coalition of monarchs\|coalition of monarchs]] were protected from her touch, though the lands of the former [[Silver Kingdom\|Silver Kingdom]] of [[Natanatan\|Natanatan]] were not. Her Elsegates manifest as a circle of violet light that extends into the ground like a pit or tunnel. Those traveling through one of her Elsegates appear to jump out of the exit, often with enough momentum that they need someone to help stabilize them when they land. Using this ability of hers has a cost, though not one that needs to be paid immediately.
+Like many of the Unmade, Dai-Gonarthis also appears to have some ability to cause emotional pain and suffering, as [[Jezrien\|Jezrien]] wonders if she was responsible for the pain [[Dalinar Kholin\|Dalinar Kholin]] felt after he burned [[Rathalas\|Rathalas]] and killed [[Evi Kholin\|Evi Kholin]].. There is some uncertainty in the mythology as to whether Dai-Gonarthis is one of the Unmade, but some scholars are convinced. She is used by [[El\|El]] to bring a second army to the [[Shattered Plains\|Shattered Plains]].
 
 ### Moelach
 >“*Moelach is close. I can hear his wheezing, his scratching, his scraping at time like a rat breaking through walls.*”
-\-Jezrien on Moelach[77]
+\-Jezrien on Moelach[80]
 
 
 **[[Moelach\|Moelach]]** is an Unmade associated with precognition and visions of the future. His presence allows for the [[Death Rattle\|Death Rattles]] that King [[Taravangian\|Taravangian]] used to modify the [[Diagram (literature)\|Diagram]]. Moelach's appearance is unknown. In the year 1166 Moelach was somewhere near Kholinar, then he took up residence in Kharbranth in the year 1167, then relocated for unknown reasons seven years later to the [[Horneater Peaks\|Horneater Peaks]].
 
 ### Nergaoul
 >“*Nergaoul was known for driving forces into a battle rage, lending them great ferocity. Curiously, he did this to both sides of a conflict, Voidbringer and human. This seems common of the less self-aware spren.*”
-\-From Hessi's Mythica, page 121[79]
+\-From Hessi's Mythica, page 121[83]
 
 
 **[[Nergaoul\|Nergaoul]]** is a mindless Unmade that is closely associated with battle rage. Nergaoul is not very intelligent, taking an animalistic joy in death and killing. He takes the form of an enormous red mist roiling with the forms of men fighting and dying. Nergaoul causes the effect known as the [[Thrill\|Thrill]], which drives men to fight far beyond when they should have given up and makes them enjoy the killing. During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], he was captured within the [[King's Drop\|King's Drop]] ruby by Dalinar. Afterwards, this perfect gemstone was sunk to the bottom of the ocean.
 
 ### Re-Shephir
 >“*Re-Shephir, the Midnight Mother, giving birth to abominations with her essence so dark, so terrible, so consuming. She is here! She watches me die!*”
-\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[82]
+\-Dated Shashabev, 1173, 8 seconds pre-death. Subject: a darkeyed dock-worker in his forties, father of three.[86]
 
 
 **[[Re-Shephir\|Re-Shephir]]** is also known as the **Midnight Mother**, and **The Spawning Mother**. She takes the form of a mass of black tarry substance that is capable of flowing over various surfaces and appears to have screaming faces bubbling to the surface. Her primary ability is to spawn the [[Midnight Essence\|Midnight Essence]], a type of spren that takes the form of creatures and people they see around them and try to understand humankind by mimicking them. She is a creature of instinct that is drawn to violence and pain. Before the [[Recreance\|Recreance]], she infiltrated Urithiru and was captured by a [[Order of Lightweavers\|Lightweaver]]. After the Recreance, she escaped imprisonment and inhabited [[Urithiru\|Urithiru]] for centuries, until fleeing the tower as a result of a confrontation with [[Shallan\|Shallan]]. Her current location is unknown, but at some point she reported to the [[Fused\|Fused]], incorrectly, that the [[Sibling\|Sibling]] was dead.
 
 ### Sja-anat
->“*You sacrificed some of your children so others could live. It was a law of nature. Humans didn’t understand it. But she did.*”
+>“*You sacrificed some of your children so others could live. It was a law of nature. Humans didn’t understand it. But she did. *”
 \-Sja-anat[5]
 
 

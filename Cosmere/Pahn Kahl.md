@@ -39,7 +39,7 @@
 \-Hoid telling a story about the discovery of the Hallandren lowlands
 
 The Pahn Kahl people live in the Hallandren lowlands. These lowlands have a tropical climate, although the growth of plants in this region is also partly helped by investiture from [[Endowment\|Endowment]]’s [[Perpendicularity\|perpendicularity]]. The soil in this valley is also the only place on Nalthis where the [[Tears of Edgli\|Tears of Edgli]] grow. To the east of this valley is a large landlocked body of water called the [[Bright Sea\|Bright Sea]]. The lowlands suffer from frequent earthquakes.
-Elephants and zebras are said to be exotic creatures from "the south.” Whether this means they come from the area in which the Pahn Kahl live or south of this area is unclear. The jungle in which the Pahn Kahl live is inhabited by panthers, parrots, monkeys, and crocodiles. The Bright Sea is also full of life, including many sorts of mussels, fish, and tentacled creatures.
+Elephants and zebras are said to be exotic creatures from "the south.” Whether this means they come from the area in which the Pahn Kahl live or south of this area is unclear. The jungle in which the Pahn Kahl live  is inhabited by panthers, parrots, monkeys, and crocodiles. The Bright Sea is also full of life, including many sorts of mussels, fish, and tentacled creatures.
 
 ## Culture
 ### People and language

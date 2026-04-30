@@ -7,9 +7,9 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Tashikk** is a princedom on [[Roshar\|Roshar]] that is a major ally to [[Azir\|Azir]]. The people of Tashikk are called the Tashikki.
+**Tashikk** is a princedom on [[Roshar\|Roshar]] that was a major ally to [[Azir\|Azir]], until they seceded from the empire during the [[True Desolation\|True Desolation]]. The people of Tashikk are called the Tashikki.
 
 ## Contents
 
@@ -65,8 +65,7 @@ Tashikk has only one known major city, [[Yeddaw\|Yeddaw]], likely its capital. S
 ### The Heraldic Epochs (c.-5825 - c.-3333)
   Map of the Silver Kingdoms
 For more information, see [[Makabakam\|Makabakam]].
-During the [[Heraldic Epochs\|Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]]. As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar, before eventually expanding outward and conquering the rest of Roshar.
-It is not known what year during the Heraldic Epochs the area that would come to be Tashikk began to be inhabited by humans.
+During the [[Heraldic Epochs\|Heraldic Epochs]], Tashikk was part of the [[Silver Kingdoms\|Silver Kingdom]] of [[Makabakam\|Makabakam]]. As one of the Silver Kingdoms, it was settled by Ashynite emigrants who arrived on Roshar in Shinovar circa -5825 on the Vorin calendar, before eventually expanding outward and conquering the rest of Roshar. 
 Due to the Desolations, they were constantly returned back to primitive technological levels, often to the point to making use of stone tools. Though they advanced each time with the help of the Heralds whenever they returned, often helping them to enter into the bronze age, often receiving this assistance from [[Kalak\|Kalak]] and his [[Willshapers\|Willshapers]].
 It's uncertain when they split off from Makabakam.
 
@@ -78,11 +77,11 @@ Shortly before the [[True Desolation\|True Desolation]] began, in late 1173 the 
 ### The True Desolation
 Nale's attempts to stop the Desolation ended with the arrival of the [[Everstorm\|Everstorm]] in Yeddaw in Jeses 1174, which led to Nale depart the country, leaving Szeth behind. He would later come back and take him to the [[Purelake\|Purelake]].
 [[Dalinar\|Dalinar]] used the Tashikki relay stations to warn the world about the Everstorm. He later contacted the prince of Tashikk to get him to join his coalition, but the prince refused to commit, waiting for the decision of Azir. When the Azish decided to ally with [[Urithiru\|Urithiru]], Tashikk did as well, and they sent the Tashikki ambassador in [[Azimir\|Azimir]] to the tower-city as their representative.
-[[Taravangian\|Taravangian]] later used Tashikk to spread the information about the [[Eila Stele\|Eila Stele]] and break up the alliance. While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier\|Yezier]] and [[Emul\|Emul]], remained.
+[[Taravangian\|Taravangian]] later used Tashikk to spread the information about the [[Eila Stele\|Eila Stele]] and break up the alliance. While Azir did leave the coalition in the aftermath, whether Tashikk did as well is unknown, as several other member states, such as [[Yezier\|Yezier]] and [[Emul\|Emul]], remained. Later, Taskikk, along with Emul, seceded from Azir to join with Odium's forces.
 
 ## Politics
 ### Leadership
-Tashikk is led by a prince, who has authority over the nation. The name of this prince is currently unknown, though he is known to defer to the [[Prime Aqasix\|Prime Aqasix]], leader of Azir and the Azish Empire, of which Tashikk is a member of.
+Tashikk is led by a prince, who has authority over the nation. The name of this prince is currently unknown, though he is known to defer to the [[Prime Aqasix\|Prime Aqasix]], leader of Azir and the Azish Empire, of which Tashikk is a member of. Despite having a prince, Azish-style bureaucracy thrives here.
 
 ### Ties to Azir
 Though ruled by an prince, Tashikk is part of the Azish Empire, a union of states led by the king of Azir, the [[Prime Aqasix\|Prime Aqasix]]. Historically, it's considered to be the state closest to the Azish throne, alongside [[Yezier\|Yezier]]. Among others, this gives Tashikk access to the [[/wiki/Azir#Fabrials and Shards]], which they can rent out from Azir for their own purposes. The Tashikki maintain an ambassador in [[Azimir\|Azimir]] for diplomatic purposes, with the current one being the prince's brother.
@@ -92,14 +91,14 @@ The Tashikki fleet possesses numerous ships, including troop carriers and scouts
 The Azish military presence in Tashikk is not limited to its ships. The credentials of achievement, issued to soldiers by Azish viziers, are valid in the country, and many Azish soldiers find employment there both as guards and in combat duty.
 
 ### Information trading
-Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar\|Alethkar]]. More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections. They are also well-known for their ability to acquire information from all across Roshar, and sharing it for a high price. Rumours and gossip traveling the world often start in Tashikk.
+Even beyond the Azish Empire, Tashikk is Roshar's greatest [[Spanreed\|spanreed]] hub, and the reeds connected to it are used even as far East as [[Alethkar\|Alethkar]]. More than simply a relay station, Tashikk provides spanreed services to the entire world, distributing them and providing connections. They are also well-known for their ability to acquire information from all across Roshar, and sharing it for a high price. Rumours and gossip traveling the world often start in Tashikk. The calculations and predictions made by the world-class Highstorm scholars in Yezier are delivered to agents in Tashikk via spanreed, where the forecasts are sold and widely distributed.
 
 ### Foreign Policy and International Relationships
 There is a large amount of immigration into Tashikk from around Roshar. They are known to deal with immigration in a systemized, governmental manner, with a position known as the "deputy scribe of immigration." This is not an individual, but multiple people whose duty alternates daily. [[Nissiqqan\|Nissiqqan]] is one such scribe.
 Instead of sending their leader for discussions on forming a coalition with other nations, they send an ambassador as his representative.
 
 #### Alm
-They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].
+They have a good relationship with [[Alm\|Alm]], and the people of Alm are allowed to enter the nation without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]]. 
 
 #### Desh
 Much like with Alm, they have a good relationship with [[Desh\|Desh]], and the Deshi people are allowed to enter Tashikk without much trouble. They are both member states of the Azish Empire, and thus both defer to Azir and the [[Prime Aqasix\|Prime Aqasix]].

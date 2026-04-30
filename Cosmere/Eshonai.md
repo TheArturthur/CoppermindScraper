@@ -15,7 +15,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Words of Radiance\|Words of Radiance]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Progress is learning to control your world. Put up walls to stop the storms, choose when to become a mate.*”
 \-Eshonai[4]
@@ -39,13 +39,23 @@
 
 3 History. [[#History]] 
 
-3. [[#Exploration]] 
-3. [[#Assassination of Gavilar]] 
+3. [[#Early Life .281157-1167.29]] 
+
+3. [[#Explorer]] 
+3. [[#Finding the Humans]] 
+3. [[#Warform]] 
+3. [[#Assassination of Gavilar Kholin]] 
+
+
 3. [[#The War of Reckoning .281167-1173.29]] 
 
-3. [[#Narak]] 
+3. [[#Beginning of the War]] 
 3. [[#The Battle of the Tower]] 
-3. [[#The Everstorm]] 
+3. [[#Stormform]] 
+3. [[#Parley]] 
+3. [[#Seizing Power]] 
+3. [[#Battle of Narak]] 
+3. [[#Seeing Roshar]] 
 
 
 
@@ -54,6 +64,7 @@
 
 4. [[#Jaxlim]] 
 4. [[#Venli]] 
+4. [[#Timbre]] 
 
 
 5 Trivia. [[#Trivia]] 
@@ -71,7 +82,7 @@ For more images, see [[Eshonai/Gallery\|/Gallery]].
 Eshonai is a [[Singer\|Singer]]; her skin, covered partially in carapace, is a marbled red and black, and she is large of stature, standing seven feet tall in Shardplate. Her Plate is silver, and has a red cape attached. She wears [[Warform\|warform]] due to the conflict with Alethkar. When not wearing Shardplate, her uniform consists of a cap and a red cloth that stretches over her warform armor.
 
 ### Personality
-Her preferred form is [[Workform\|workform]] because it is more flexible, limber, rugged, and because the form's aversion to violence forces her to think differently to solve problems. She finds it difficult to tolerate listeners who prefer [[Mateform\|mateform]] , and has trouble understanding why anyone would want to remain in that form for longer than necessary to produce offspring. Her confusion on this subject at one time extended to humans, when she was baffled by the fact that humans have only a single form that is easily distracted by sexual urges.
+Her preferred form is [[Workform\|workform]]  because it is more flexible, limber, rugged, and because the form's aversion to violence forces her to think differently to solve problems. She finds it difficult to tolerate listeners who prefer [[Mateform\|mateform]] , and has trouble understanding why anyone would want to remain in that form for longer than necessary to produce offspring. Her confusion on this subject at one time extended to humans, when she was baffled by the fact that humans have only a single form that is easily distracted by sexual urges.
 Though she accepts her duties as a general for her people, she feels trapped and constrained by the role, and by living on the [[Shattered Plains\|Shattered Plains]]. Even her uniform contributes to her emotional discomfort, and the repetitive tasks of military life numb her mind. She blames her uniform for her personal worries. However she never speaks of her discomfort in her role. She enjoys the feeling of strength she gets from wearing Shardplate, and it gives her something reliable in the world.
 Eshonai's true passion is exploration, and she yearns to be free of her role as general so she can explore; even as a child, it was common for her to wander off in the middle of a task if something caught her attention. She even contemplates exploring human civilizations, though she has a preference for exploring the wilderness. However, she believes these feelings are meaningless in comparison to the importance of protecting her people. She holds that remembering the fallen is important, but of lesser concern than protecting the living. She goes so far as to accompany her strike forces even when wounded, because she was the only Shardbearer left among the listeners.
 She believes that she is personally responsible for the War of Reckoning because she was the first to make contact with the Alethi. Despite being fully aware of the dire predicament of her people, she does not blame the Alethi for their pursuit of vengeance. While she fights the Alethi out of necessity, she would prefer, and she even attempts, to negotiate a peace with them.
@@ -88,28 +99,47 @@ Like all [[Singer\|Singers]], Eshonai can change her form by taking a [[Spren\|s
 Eshonai is a full [[Shardbearer\|Shardbearer]], owning both a set of [[Shardplate\|Shardplate]] and a dead [[Shardblade\|Shardblade]]. It's unknown how she came about having them, though it's possible she only acquired them after the [[War of Reckoning\|War of Reckoning]] began. However that happened, she knows how to use them, and wearing Shardplate feels natural to her. She's highly skilled with the Blade, being able to keep up and even win against [[Adolin Kholin\|Adolin Kholin]], though her fighting style is unlike what he's been taught, with no recognizable stances. However, she can get too focused on combat while ignoring her surroundings, which proves to be her downfall.
 
 ## History
-### Exploration
+### Early Life (1157-1167)
+#### Explorer
 Eshonai was an explorer who often travelled the wilderness of [[Natanatan\|Natanatan]]. She started out exploring alone, creating maps and expanding the listeners' understanding of the world, then began leading expeditions during her teenage years, after her adventures sparked interest amongst her people. Her exploration led to the listeners' first contact with humans in 1165, when she encountered Gavilar's expedition to the south of the Shattered Plains.
 
+#### Finding the Humans
+
+
+#### Warform
+
+
   Eshonai meeting with <<Gavilar\|Gavilar>> on the night of his death
-### Assassination of Gavilar
+#### Assassination of Gavilar Kholin
 On the day of his [[Assassination of Gavilar\|assassination]], [[Gavilar\|Gavilar]] spoke to Eshonai privately. She was the first listener to learn that Gavilar wanted to bring back the listeners' old gods. He gave her a [[Black sphere\|dark gemstone]] and told her to give it to [[The Five\|The Five]]. Taking the gemstone, Eshonai went to the Five and told them of Gavilar's plans, and the group decided to assassinate the Alethi king. Though Eshonai was not yet on the Council of Five, the council gave her a vote and listened to her advice due to her role as an interpreter. She voted in favor of killing Gavilar, in order to keep the listeners free of their gods and to affirm the decision made by their [[Last Legion\|ancestors]] centuries ago.
 
 ### The War of Reckoning (1167-1173)
-#### Narak
+#### Beginning of the War
+   walking to The Tower of <<Narak\|Narak>>.
 Sometime between the assassination of Gavilar and the Battle of the Tower, Eshonai became a member of the Council of Five and was made the general of the listener army. After the death of the king, the listeners relocated to [[Narak\|Narak]] in the hopes that a war of attrition would deter the Alethi from pursuing longterm action. Unfortunately, the presence of chasmfiends on the Shattered Plains allowed the war to continue for many years, with the Alethi and listener forces clashing over the beast's gemhearts. Eshonai would sometimes join her troops in the skirmishes over these gems.
 
 #### The Battle of the Tower
-During the battle, Eshonai dueled [[Dalinar Kholin\|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognised him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [[Kaladin Stormblessed\|Kaladin Stormblessed]], who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [[Tower (Roshar)\|Tower]], she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.
+During the battle, Eshonai dueled [[Dalinar Kholin\|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognized him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [[Kaladin Stormblessed\|Kaladin Stormblessed]], who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [[Tower (Roshar)\|Tower]], she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.
 
-#### The Everstorm
+#### Stormform
+
+
+#### Parley
+
+
+#### Seizing Power
+
+
+#### Battle of Narak
   Eshonai bonding with a stormspren during a <<Highstorm\|highstorm>>
->“*With enough of us bearing this form together, we could bring it. We could **bend** the storms to our will, and could bring bring them down upon our enemies.*”
+>“*With enough of us bearing this form together, we could bring it. We could **bend** the storms to our will, and could bring them down upon our enemies.*”
 \-Eshonai in stormform[8]
 
 
 Eshonai was the first to adopt [[/wiki/Singer#Forms]] after it was rediscovered by her sister [[Venli\|Venli]], although she did so reluctantly. The new form caused Eshonai to become more warlike and destructive, leading her to switch from seeking peace with the Alethi, to desiring their extermination. Her new aggressive personality made her more willing to kill disobedient listeners, including her comrades, friends, and family. Any who refused to obey her orders were rounded up by Eshonai, whose intent was to have them all killed.
 In the [[Battle of Narak\|Battle of Narak]], she led the listener army, who had all taken Stormform, to battle, with the intent to destroy the Alethi forces. After [[Adolin\|Adolin]] pushed her into a chasm, she rammed her Shardblade into the ground, in an attempt to not be swept away by the floodwaters. Because of her efforts, Eshonai did not drown, instead she died shortly after from wounds inflicted during her fight for survival in the chasm.
+
+#### Seeing Roshar
 After her death, the [[Stormfather\|Rider of Storms]] briefly stopped her soul from entering the [[Beyond\|Beyond]] in order to let her ride his winds across all of Roshar as the [[Highstorm\|highstorm]] swept over the continent.
 Later, [[Ulim\|Ulim]] leads Venli and [[Demid\|Demid]] to Eshonai's body to retrieve her Shards.
 
@@ -119,6 +149,9 @@ Eshonai thinks little of [[Jaxlim\|Jaxlim]], her mother, due to her memory loss,
 
 ### Venli
 Eshonai has a difficult relationship with her younger sister and her views.
+
+### Timbre
+Before bonding with Venli, Timbre was beginning the process of bonding with Eshonai. The bond did not progress because Eshonai was in Stormform. She found Timbre annoying.
 
 ## Trivia
 The reason Eshonai was killed off and replaced by [[Venli\|Venli]] as the main [[Singer\|singer]] character was that the series already had overabundance of paragon soldiers trying to do the right thing, making her feel superfluous to Brandon.

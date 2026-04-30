@@ -25,7 +25,7 @@
 \-Grandpa Smedry[2]
 
 
-He presides over the Council of Kings in rich blue and gold robes. He has a full red beard and generally regal bearing.
+He presides over the Council of Kings in rich blue and gold robes. He has a full red beard and generally regal bearing. 
 
 ## History
 About 6 months before the events of [[The Knights of Crystallia\|The Knights of Crystallia]], a delegation from the [[Wardens of the Standard\|Wardens of the Standard]] arrived in [[Nalhalla\|Nalhalla]] and approached King Dartmoor about setting up and embassy and opening peace talks. While suspicious, King Dartmoor agreed. The draw of peace was strong enough that he was ready to give up [[Mokia\|Mokia]] in exchange (and had most of the other members of the council ready to do the same) when [[Grandpa Smedry\|Grandpa Smedry]] returned.

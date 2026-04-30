@@ -4,9 +4,10 @@
 |**Related to**|[[Stormfather\|Stormfather]], [[Honor\|Honor]], [[Order of Bondsmiths\|Order of Bondsmiths]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Dalinar's visions** were short [[Visions\|episodes]] [[Dalinar\|Dalinar]], and previously [[Gavilar\|Gavilar]], experienced during [[Highstorm\|highstorms]].
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+**Dalinar's visions** were short [[Visions\|episodes]] in the [[Spiritual Realm\|Spiritual Realm]] which [[Dalinar\|Dalinar]], and previously [[Gavilar\|Gavilar]], experienced during [[Highstorm\|highstorms]].
 
 ## Contents
 
@@ -39,7 +40,7 @@ After settling in [[Urithiru\|Urithiru]], the [[Stormfather\|Stormfather]] revea
 The Stormfather imagined a place for Dalinar to discuss plans with him. The sky is deep black and the ground endless white stone. Items and even people made of smoke rise from the floor and slowly dissipate. This place represents how the Stormfather imagines cognitive ideas dying when no longer in use by cognitive beings.
 
 ## The visions predicate
-All of the visions shared the challenge given by an unknown voice:
+All of the visions shared the challenge given by an unknown voice: 
 
 >“*You must unite them, the strange, booming words had told him. You must prepare. Build of your people a fortress of strength and peace, a wall to resist the winds. Cease squabbling and unite. The Everstorm comes.*”
 \-Dalinar's memory from one of the visions[10]
@@ -70,7 +71,7 @@ This is the first vision that Dalinar experienced, but he later has trouble reme
 
 ### Taker of Secrets
 For the [[Unmade\|Unmade]] known as "Taker of Secrets", see [[Sja-anat\|Sja-anat]].
-After the Battle of the Tower, Dalinar had a vision in which he saw himself as a soldier, marching with several other soldiers through a shallow body of water that he believed to be the [[Purelake\|Purelake]]. They were heading towards a massive fortress, which was not known to exist in the Purelake in modern times, and looking for a spren acting unusual. They mention that [[Sja-anat\|Sja-anat]] made spren act odd. Dalinar saw a spren with red eyes, followed shortly by another, larger spren which animated a massive piece of stone, which ripped itself free of the lakebed to attack them. The soldiers mentioned that the beast was a [[Thunderclast\|Thunderclast]].
+After the Battle of the Tower, Dalinar had a vision in which he saw himself as a soldier, marching with several other soldiers through a shallow body of water that he believed to be the [[Purelake\|Purelake]].  They were heading towards a massive fortress, which was not known to exist in the Purelake in modern times, and looking for a spren acting unusual. They mention that [[Sja-anat\|Sja-anat]] made spren act odd. Dalinar saw a spren with red eyes, followed shortly by another, larger spren which animated a massive piece of stone, which ripped itself free of the lakebed to attack them. The soldiers mentioned that the beast was a [[Thunderclast\|Thunderclast]].
 
 ### Broken People
 Dalinar first had this vision back when he thought the visions were simple nightmares. After sending Queen [[Fen Rnamdi\|Fen]] into the starfalls vision, Dalinar returns to this vision. He fights a ragged group of enemy soldiers and after the battle ends he meets a [[Stoneward\|Stoneward]] and sees him use the Surge of [[Cohesion\|Cohesion]] before pulling [[Navani\|Navani]] and [[Jasnah\|Jasnah]] into the vision, and the Stormfather confirms that it is a vision of the [[Last Desolation\|Last Desolation]]. Later, on her request, Dalinar sends Queen Fen into this vision alone before she decided whether to visit Urithiru. 

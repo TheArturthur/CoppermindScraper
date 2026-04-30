@@ -1,9 +1,11 @@
 |**Lasting Integrity**|
 |-|-|
 ||
+||
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: LadyLameness, please contact her before doing edits.
 >“*No human city would ever have been built this way; even Urithiru needed fields at its base and windows to keep the people from going mad. But Lasting Integrity didn’t follow normal laws of nature.*”
 \-Adolin describing the oddities of Lasting Integrity[1]
 
@@ -62,9 +64,12 @@ The fortress is located in the southern section of the [[Sea of Souls\|Sea of So
 Lasting Integrity sits on a cliff overlooking a northern bay that is part of the [[Astral Banks\|Astral Banks]], the reflection of the country of [[Tukar\|Tukar]]. A large number of people live in the [[Physical Realm\|Physical Realm]] nearby to Lasting Integrity, with the soul flames being visible from the fortress. South of the fortress is a forest of glass that is filled with [[Lifespren\|lifespren]].
 
 ## Appearance and Layout
-Lasting Integrity is several hundreds of feet tall, rectangular and made of blue stone. The building is hollow in the middle, with no roof, and stands on its smaller side, pointing upwards into the sky. It is in a highly strategic position, and gives the impression that it has been deliberately fortified. Visitors must cross a bridge to reach the entrance and guards stand watch outside of the walls. The [[Honorspren\|honorspren]] do not appreciate people sailing too close to Lasting Integrity.
+ 
+Lasting Integrity is several hundreds of feet tall, rectangular and made of blue stone. The building is hollow in the middle, with no roof, and stands on its smaller side, pointing upwards into the sky.  It is in a highly strategic position, and gives the impression that it has been deliberately fortified. Visitors must cross a bridge to reach the entrance and guards stand watch outside of the walls. The [[Honorspren\|honorspren]] do not appreciate people sailing too close to Lasting Integrity.
 The outside wall is sheer, with no windows or ornamentation. On top of the fortress are battlements, and a guardrail to prevent people from falling. The internal dimensions of the tower are large enough that someone can stand on the battlements and see the bottom of the fortress without the structures on the walls completely impeding their view.
 Gravity works differently within Lasting Integrity, with each internal wall having its own gravitational 'field' that allows people to treat each internal surface as if they were the ground. When someone changes from one plane to another, their sense of gravity will switch to align with the new surface they are on. There is an upper limit to the gravitational bubbles on each wall, approximately fifteen feet, and passing the edge of this barrier will cause objects to plummet towards the bottom of the fortress. The gravitational anomalies of the fortress are thought to be caused by the longstanding presence of the honorspren in the area, and not by [[Surgebinding\|Surgebinding]].
+
+ 
 Buildings are constructed on the different internal walls of Lasting Integrity, with walkways of worked stone connecting these structures together. These walkways also extend to the edge of the plane and will end in a dead end when it hits the next wall. Most of the buildings inside Lasting Integrity are only a single story tall. It is uncommon for buildings in the fortress to have windows, with most houses appearing to be completely enclosed.
 Bells toll exactly on the hour and shouting is uncommon in the fortress. Although the honorspren do not require sleep, nor does [[Shadesmar\|Shadesmar]] have a day and night cycle, Lasting Integrity does have a quiet 'night time' period where there is reduced activity. The spren of the keep will often use this time to catch up with friends and spend time in each other’s homes.
 
@@ -137,7 +142,7 @@ The first day of Adolin’s trial saw the forum packed with honorspren. [[Amuna\
 \-Maya's testimony[9]
 
 The next day, Adolin was due to give his own testimony. Just after starting his speech, he was interrupted by [[Veratorim\|Veratorim]] who tried several times to divert the topic on hand to [[Dalinar\|Dalinar]]’s conduct with the [[Stormfather\|Stormfather]], in what was likely a deliberate attempt to derail the trial and delegitimize Adolin’s testimony. Kalak threatened Veratorim multiple times with expulsion if he was to continue interrupting, and removed another honorspren intent on derailing the trial. Losing his temper, Adolin engaged directly with the audience’s taunts, despite being warned against doing so by Blended prior to the trial. To further delegitimize Adolin, [[Testament\|Testament]] was brought into the forum leading to Kalak having to dismiss Adolin among the resulting chaos.
-The third and final day of Adolin’s trial, saw almost every honorspren attend the forum to witness the verdict. Due to Kalak being detained by the honorspren, Sekeir stepped in as High Judge to oversee the last of the witness statements and started the day by reading a very long winded speech. When Adolin interrupted him, Sekeir threatened to gag the Highprince. Following Sekeir’s speech, Amuna led Maya into the room as the final witness. Sekeir "spoke" on Maya’s behalf, using the chance to tout his own vitriol. Maya grew increasingly distressed by Sekeir and the other honorspren’s treatment of her, and ended up being physically restrained by Amuna and another honorspren so that she could not escape. Adolin, wanting to end the abuse Maya was being subjected to, pleaded for judgement to be given, however, Sekeir refused and instead continued to use the moment as a spectacle to promote his platform. Maya grew more violent in her struggles, thrashing around and wanting to be let go. When Adolin tried to physically help her, he was restrained by several nearby honorspren, who were waiting for him to try and go to the [[Cultivationspren\|cultivationspren]]’s aid.
+The third and final day of Adolin’s trial, saw almost every honorspren attend the forum to witness the verdict. Due to Kalak being detained by the honorspren, Sekeir stepped in as High Judge to oversee the last of the witness statements and started the day by reading a very long winded speech. When Adolin interrupted him, Sekeir threatened to gag the Highprince. Following Sekeir’s speech, Amuna led Maya into the room as the final witness.  Sekeir "spoke" on Maya’s behalf, using the chance to tout his own vitriol. Maya grew increasingly distressed by Sekeir and the other honorspren’s treatment of her, and ended up being physically restrained by Amuna and another honorspren so that she could not escape. Adolin, wanting to end the abuse Maya was being subjected to, pleaded for judgement to be given, however, Sekeir refused and instead continued to use the moment as a spectacle to promote his platform. Maya grew more violent in her struggles, thrashing around and wanting to be let go. When Adolin tried to physically help her, he was restrained by several nearby honorspren, who were waiting for him to try and go to the [[Cultivationspren\|cultivationspren]]’s aid.
 Drawing strength from Adolin, Maya addressed the crowd herself, proclaiming that the deadeyes had willingly chosen to give up their bonds during the Recreance. Shocked, the honorspren left the room in clusters until only Adolin, Maya, and Blended remained. Although never formally determined, it is assumed Adolin’s trial either ruled in his favor or was dismissed.
 
 #### Hunting a Herald and Accepting the Past
@@ -159,13 +164,14 @@ At some point Shallan and Kalak were released, Shallan was introduced to Testame
 ## Culture
   <<Mayalaran\|Mayalaran>> held by the honorspren
 ### Deadeye Refuge
->“*We are left, to wander Shadesmar as dead souls, unable to think or talk. Our bodies are used, screaming, as weapons by the descendants of the ones who killed us.*”
+>“*We are left, to wander Shadesmar as dead souls, unable to think or talk. Our bodies are used, screaming, as weapons by the descendants of the ones who killed us. *”
 \-Notum describing deadeyes[13]
 
 
 Lasting Integrity is dedicated to caring for any [[Deadeye\|deadeyes]] that they find around the fortress or in the area. They only have a limited amount of space, however, and if too many deadeyes make their way to the keep, the [[Honorspren\|honorspren]], reluctantly, have to turn them away. The inhabitants of the fortress do preference taking in deadeye honorspren if they are forced to limit the number of deadeyes they can care for.
-[[Amuna\|Amuna]] is the head carer for the deadeyes, and both she and the other carers take their duty very seriously. The deadeyes are treated well by the honorspren, and are fed [[Stormlight\|Stormlight]] while in the keep. They are not, however, permitted to wander the fortress on their own. Often, the deadeyes will only remain the fortress for a short amount of time, before they are summoned in the [[Physical Realm\|Physical Realm]] and disappear, which limits the amount of care that they can be given.
+[[Amuna\|Amuna]] is the head carer for the deadeyes, and both she and the other carers take their duty very seriously. The deadeyes are treated well by the honorspren, and are fed [[Stormlight\|Stormlight]] while in the keep.  They are not, however, permitted to wander the fortress on their own. Often, the deadeyes will only remain the fortress for a short amount of time, before they are summoned in the [[Physical Realm\|Physical Realm]] and disappear, which limits the amount of care that they can be given.
 
+  Sailing past Lasting Integrity
 ### Foreign Travel
 Lasting Integrity is a waystop for travelers and wanderers, both local and off-world. Not all humans who travel through Lasting Integrity appear to do so for trade. The honorspren find some of the humans that pass through rather amusing due to their oddities and will suffer their presence due to the novelty that the humans present.
 

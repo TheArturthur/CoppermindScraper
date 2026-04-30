@@ -2,6 +2,7 @@
 |-|-|
 |**Profession**|Scholars|
 |**Residence**|[[Silverlight\|Silverlight]]|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 **Guyn** is a scholar and celestial mapmaker from [[Silverlight\|Silverlight]] mentioned by [[Khriss\|Khriss]] in her essays on the cosmere.

@@ -10,6 +10,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Ral-na** is the king of the community that resides on [[Relu-na\|Relu-na]], a [[Greatshell\|greatshell]] island in the [[Reshi Sea\|Reshi Sea]] on [[Roshar\|Roshar]]. He is also a [[Dustbringer\|Dustbringer]] and is bonded to an [[Ashspren\|ashspren]].
 
 ## Contents
@@ -43,7 +45,7 @@ He speaks the Reshi language, and is usually soft-spoken when outsiders are pres
 
 ## Attributes and Abilities
 ### Kingship
-Ral-na is the king of Relu-na, a [[Tai-na\|Tai-na]] the size of an island that slowly moves about in the Reshi Sea. As the king, anyone who wants to join the island permanently has to give everything they own to him. His commands are to be obeyed without question, and he is directly served by various workers and guards. The island's soldiers are well-trained, in contrast to the carefree lifestyle enjoyed by many of the residents. He also negotiates trade deals for the people, but uses his son [[Talik\|Talik]] as an intermediary and an interpreter. Ral-na is well respected by his subjects; they have full respect for his authority. It is not known if Ral-na inherited the title of king or if the Reshi have some other method of succession.
+Ral-na is the king of Relu-na, a [[Tai-na\|Tai-na]] the size of an island that slowly moves about in the Reshi Sea. As the king, anyone who wants to join the island permanently has to give everything they own to him. His commands are to be obeyed without question, and he is directly served by various workers and guards. The island's soldiers are well-trained, in contrast to the carefree lifestyle enjoyed by many of the residents. He also negotiates trade deals for the people, but uses his son [[Talik\|Talik]] as an intermediary and an interpreter. Ral-na is well respected by his subjects; they have full respect for his authority. It is not known if Ral-na inherited the title of king or if the Reshi have some other method of succession. 
 Ral-na holds court at the top of Relu-na's shell near its head, hundreds of feet above the water. He only leaves the island in truly extraordinary circumstances. The king supervises offerings of fruit to Relu-na, who is worshipped as a god by its residents. The Reshi people believe that they can communicate with their Tai-na, and each greatshell's will is the only authority that exceeds that of their kings. The Tai-na also provide the Reshi people with an unusually high level of knowledge regarding [[Aimia\|Aimia]] and [[Larkin\|larkin]].
 
 ### Surgebinding

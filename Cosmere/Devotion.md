@@ -10,11 +10,13 @@
 |**Residence**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Come. I give you release. Come. You can finally give up.*”
 \-The voice in the Lake[3]
 
 
-**Devotion** is a [[Shard\|Shard of Adonalsium]], originally held by [[Aona\|Aona]]. After the [[Shattering\|Shattering]], she traveled to [[Sel\|Sel]] with [[Dominion\|Dominion]], where the two were [[Splinter\|Splintered]] by [[Odium\|Odium]].
+**Devotion** is a [[Shard\|Shard of Adonalsium]], originally held by [[Aona\|Aona]]. After the [[Shattering\|Shattering]], she traveled to [[Sel\|Sel]] with [[Dominion\|Dominion]], where the two were later [[Splinter\|Splintered]] by [[Odium\|Odium]].
 
 ## Contents
 
@@ -26,17 +28,18 @@
 2. [[#Direct intervention]] 
 
 
-3 History. [[#History]] 
-4 Influence. [[#Influence]] 
-5 Trivia. [[#Trivia]] 
-6 Notes. [[#Notes]] 
+3 Vessels. [[#Vessels]] 
+4 History. [[#History]] 
+5 Influence. [[#Influence]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## Intent
 >“*You see rank and distinction; you try to order the world so that everything has a place either above you or beneath you. To a seon, there is no above or beneath, there are only those we love. And we serve those we love.*”
 \- Ien[8]
 
-As Devotion was Splintered far in [[Sel\|Sel's]] prehistory, it's unknown how precisely her intent would manifest. She appears to wish to care for people and provide them safety from pain and harm. Ien, a Splinter of Devotion, speaks of a love and devotion which transcends hierarchy, and a desire to serve those he loves. He also speaks of finding reward not in money, but in the pride and satisfaction of seeing the one he loves grow. This is likely is reflective of the Intent of Devotion.
+As Devotion was Splintered far in [[Sel\|Sel's]] prehistory, it's unknown how precisely her Intent would manifest. She appears to wish to care for people and provide them safety from pain and harm. Ien, a Splinter of Devotion, speaks of a love and devotion which transcends hierarchy, and a desire to serve those he loves. He also speaks of finding reward not in money, but in the pride and satisfaction of seeing the one he loves grow. Furthermore, [[Honor\|Honor]] stated that the Intent of Devotion is that of divine love and compassion.
 Though not as directly hostile to each other as [[Preservation\|Preservation]] and [[Ruin\|Ruin]], Devotion and [[Dominion\|Dominion]] are at some level opposite to each other, yet their powers work together as the [[Dor\|Dor]]. Devotion and [[Odium\|Odium]] can also be argued to be opposite to each other.
 
 ## Associated Magics
@@ -63,20 +66,30 @@ Their equivalents formed from [[Dominion\|Dominion's]] Investiture are the [[Ska
 ### Direct intervention
 As a dead Shard, Devotion can no longer directly intervene into the affairs of Sel; however, something still speaks to the [[Elantrian\|Elantrians]] who go into [[Devotion's Perpendicularity\|Devotion's Perpendicularity]]. It presents Elantrians with a choice to either be dissolved, effectively dying, or carry on living.
 
+## Vessels
+|**Vessels of Devotion**|
+|-|-|
+|**Name**|**Length of Godhood**|**Citations**|
+|[[Aona\|Aona]]|The [[Shattering\|Shattering]] - c. 8,000-10,000 years before the [[Night of Sorrows\|Night of Sorrows]]||
+|*[[Dor\|No Vessel]]*|c. 8,000-10,000 years before the [[Night of Sorrows\|Night of Sorrows]] - *Incumbent*||
+
+Devotion was originally picked up by Aona shortly following the Shattering of Adonalsium. Roughly 8,000-10,000 years before the [[Night of Sorrows\|Night of Sorrows]], Devotion clashed with Dominion, and the two were finished off by Odium while they were weakened.
+Afterwards, Odium pushed the remnants of both Shards into Sel's [[Cognitive Realm\|Cognitive Realm]] to prevent anyone from taking up the power or the powers themselves from achieving sentience. This created a mass of plasma-like substance in the Cognitive Realm, known as the Dor. Over time, the Dor has begun to attain self-awareness of its own, but due to being in the Cognitive Realm it has attained only rudimentary emotions.
+
 ## History
  
 For history of the Vessel prior to becoming a Shard, see [[Aona\|Aona]].
 >“*In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered.*”
-\-Hoid[22]
+\-Hoid[29]
 
 
-Very little is known about Devotion, as she was splintered more than 7700 years before the [[True Desolation\|True Desolation]]. The Shard was created at the [[Shattering of Adonalsium\|Shattering of Adonalsium]], along with fifteen others, and picked by [[Aona\|Aona]]. She and [[Dominion\|Dominion]], for an unknown reason, decided to strike out together to [[Sel\|Sel]], where they passively influenced a number of local cultures, though ultimately decided to take on a more laissez faire approach to human development. At some point early on, [[Odium\|Odium]] came along and, possibly with some assistance from [[Autonomy\|Autonomy]], killed both Shards and [[Splinter\|Splintered]] them.
+Very little is known about Devotion, as she was splintered roughly 8,000-10,000 years before the [[Night of Sorrows\|Night of Sorrows]]. The Shard was created at the [[Shattering of Adonalsium\|Shattering of Adonalsium]], along with fifteen others, and picked by [[Aona\|Aona]]. She and [[Dominion\|Dominion]], for an unknown reason, decided to strike out together to [[Sel\|Sel]], where they passively influenced a number of local cultures, though ultimately decided to take on a more laissez faire approach to human development. At some point early on, [[Odium\|Odium]] came along and, possibly with some assistance from [[Autonomy\|Autonomy]], killed both Shards and [[Splinter\|Splintered]] them.
 Once the [[Vessel\|Vessels]] were dead, the remnants of the two Shards were pushed together into Sel's [[Cognitive Realm\|Cognitive Realm]] to prevent anyone from taking up the power or the powers themselves from achieving sentience; this created the [[Dor\|Dor]]. This plan was not entirely successful, as over time, the Dor has begun to attain self-awareness of its own.
 
 ## Influence
  
 >“*Merciful Domi!*”
-\-Arelish exclamation[21]
+\-Arelish exclamation[22]
 
 
 Historically, Devotion and Dominion were not directly involved in human civillization on [[Sel\|Sel]]; however, the discovery of their powers drove its development nonetheless. Both were fundamental in early Selish cultures, and many traditions and religions on the planet are derived from the two of them. Among others, multiple languages and writing systems on Sel are based on Devotion and Dominion's power, with the prime example being the [[Aon\|Aons]]. To this day, worship of Devotion is the primary religion of [[Arelon\|Arelon]], where she is known as [[Domi\|Domi]]; some aspects of [[Jaddeth\|Jaddeth]] are likewise inspired by her. The [[Ire\|Ire]], or at least some of its members, also seem to revere her, directly under her Shardic name.
@@ -86,6 +99,7 @@ During the [[True Desolation\|True Desolation]] on [[Roshar\|Roshar]], [[Harmony
 ## Trivia
 In ** colors, Devotion would be green/red.
 The pairing of Devotion and [[Dominion\|Dominion]] is somewhat inspired by yin and yang.
+Brandon has used "Love" as a synonym for Devotion's Intent.
 
 
 https://coppermind.net/wiki/Devotion

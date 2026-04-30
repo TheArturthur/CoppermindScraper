@@ -3,6 +3,7 @@
 |**Family**|
 |**Siblings**|[[Troalin\|Troalin]]|
 |**Relatives**|[[Slowswift\|Slowswift]]|
+|**Groups**|[[Originators\|Originators]]|
 |**Residence**|[[Fadrex City\|Fadrex City]]|
 |**Ethnicity**|Skaa, Noble|
 |**Homeworld**|[[Scadrial\|Scadrial]]|

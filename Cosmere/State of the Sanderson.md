@@ -11,6 +11,8 @@ The **State of the Sanderson** is a yearly post on [[Brandon\|Brandon's]] blog d
  
  
  
+ 
+ 
 
 
 https://coppermind.net/wiki/State_of_the_Sanderson

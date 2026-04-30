@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-> [!info] This page is part of the October 2024 objectives!It has been claimed by User: Milk, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Getruda** is a member of the [[Set\|Set]] on [[Scadrial\|Scadrial]] and the partner of [[Dumad\|Dumad]]. She is a [[Bloodmaker\|Bloodmaker]] and [[Slider\|Slider]] with a notable obsession with [[Wayne\|Wayne]].
@@ -28,7 +27,7 @@ Getruda is a short woman who often wears a bowler hat. She has a remarkable obse
 Getruda is a Slider and a Bloodmaker with large quantities of health stored in her metalmind. Her abilities are the result of [[Hemalurgy\|Hemalurgy]] and not natural; it is unknown whether or not she has other spikes in her body. She is remarkably skilled with dueling canes, more than [[Waxillium Ladrian\|Waxillium Ladrian]] and [[Wayne\|Wayne]].
 
 ## History
-Getruda is introduced in The Lost Metal as a direct antagonist to Wayne. She is partnered with Dumad, who plays the same antagonistic, mirror role with Wax. She is first seen during the Bilming Raid when she barges into a speed bubble Wayne had set up so that he and Marasi could confer and plan in the midst of the battle. This is the first time one of Wayne's speed bubbles is infringed upon, and it disturbs both him and Marasi.
+Getruda is introduced in The Lost Metal as a direct antagonist to Wayne. She is partnered with Dumad, who plays the same antagonistic, mirror role with Wax. She is first seen during the Bilming Raid when she barges into a speed bubble Wayne had set up so that he and Marasi could confer and plan in the midst of the battle. This is the first time one of Wayne's speed bubbles is infringed upon, and it disturbs both him and Marasi. 
 Throughout The Lost Metal she antagonizes and annoys Wayne, trying to mimic not only his abilities, but also his personality.
 
 

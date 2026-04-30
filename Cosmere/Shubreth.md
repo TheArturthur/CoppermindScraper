@@ -1,7 +1,5 @@
 |**Shubreth-son-Mashalan**|
 |-|-|
-|**Family**|
-|**Parents**|Mashalan|
 |**Nationality**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

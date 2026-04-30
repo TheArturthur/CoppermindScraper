@@ -19,11 +19,11 @@
 
 
 ## Appearance and Personality
-Frava has a sharp, nasal voice, long fingers, a long face, and moved with grace. She rarely smiled. She maintains a long standing rivalry with Gaotona, and has attempted to remove him from his position in the past. She is confrontational, manipulative, and tends to take the initiative.
+Frava has a sharp, nasal voice, long fingers, a long face, and moved with grace. She rarely smiles. She maintains a long standing rivalry with Gaotona, and has attempted to remove him from his position in the past. She is confrontational, manipulative, and tends to take the initiative.
 
 ## History
 During the illness of [[Ashravan\|Ashravan]], Frava extorts [[Wan ShaiLu\|Wan ShaiLu]] into providing notes on the creation of the [[Soulstamp\|Soulstamp]] for her own Soulforgers to try and replicate. It is possible that Frava has connections with the underworld of the [[Imperial Seat\|Imperial Seat]], and enough influence to put people of her choosing in positions of influence among their ranks. She offered such a position to Shai, though it is suspected she did not intend to honor the deal.
-Frava curates the [[Imperial Gallery\|Imperial Gallery]], and her offices are adjacent to it. She owns several notable pieces of artwork, one of which Shai replaces and destroys as a favour to [[Han ShuXen\|Han ShuXen]].
+Frava curates the [[Imperial Gallery\|Imperial Gallery]], and her offices are adjacent to it. She owns several notable pieces of artwork, one of which Shai replaces and destroys as a favor to [[Han ShuXen\|Han ShuXen]].
 
 ## Trivia
 Frava seems to be named after the concept of  from the Zoroastrian faith. This is backed by Brandon actively being influenced by ancient Zoroastrian words for Rose Empire names.

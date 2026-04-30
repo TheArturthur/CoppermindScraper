@@ -17,30 +17,38 @@ The book follows [[Waxillium Ladrian\|Waxillium Ladrian]]—a descendant of [[Br
 
 ## Contents
 
-1 Summary. [[#Summary]] 
-2 Main Characters. [[#Main Characters]] 
-3 Setting. [[#Setting]] 
+1 Synopsis. [[#Synopsis]] 
+2 Summary. [[#Summary]] 
+3 Main Characters. [[#Main Characters]] 
+4 Setting. [[#Setting]] 
 
-3. [[#Religions]] 
-3. [[#Notable Historical Figures]] 
+4. [[#Religions]] 
+4. [[#Notable Historical Figures]] 
 
 
-4 Trivia. [[#Trivia]] 
-5 Publication History. [[#Publication History]] 
-6 Cover Gallery. [[#Cover Gallery]] 
-7 Interior Art. [[#Interior Art]] 
-8 Statistical Analysis. [[#Statistical Analysis]] 
-9 Notes. [[#Notes]] 
+5 Trivia. [[#Trivia]] 
+6 Publication History. [[#Publication History]] 
+7 Cover Gallery. [[#Cover Gallery]] 
+8 Interior Art. [[#Interior Art]] 
+9 Statistical Analysis. [[#Statistical Analysis]] 
+10 Notes. [[#Notes]] 
+
+
+## Synopsis
+>“
+\-Three hundred years after the events of the Mistborn trilogy, Scadrial is on the verge of modernity, with railroads to supplement the canals, electric lighting in the streets and the homes of the wealthy, and the first steel-framed skyscrapers racing for the clouds.
+Kelsier, Vin, Elend, Sazed, Spook, and the rest are now part of history or religion. Yet even as science and technology are reaching new heights, the old magics of Allomancy and Feruchemy continue to play a role in this reborn world. Out in the frontier lands known as the Roughs, they are crucial tools for the brave men and women attempting to establish order and justice.
+One such is Waxillium Ladrian, a rare Twinborn who can Push on metals with his Allomancy and use Feruchemy to become lighter or heavier at will. After twenty years in the Roughs, Wax has been forced by family tragedy to return to the metropolis of Elendel. Now he must reluctantly put away his guns and assume the duties and dignity incumbent upon the head of a noble house. Or so he thinks, until he learns the hard way that the mansions and elegant tree-lined streets of the city can be even more dangerous than the dusty plains of the Roughs.
 
 
 ## Summary
 For a chapter-by-chapter summary, see [[The Alloy of Law/Summary\|/Summary]].
 [[Waxillium Ladrian\|Waxillium Ladrian]] is a lawman of the [[Roughs\|Roughs]], the harsh outland far from civilized society where it is said honor goes to die. In the wake of his uncle's death, Wax is summoned back to [[Elendel\|Elendel]] to assume his duties as the lord of [[House Ladrian\|House Ladrian]]. Despite trying to acclimatise to the radically different lifestyle and settle down with an arranged marriage - [[Steris Harms\|Steris Harms]], daughter of [[Jackstom Harms\|Jackstom Harms]], a wealthy but stern woman is to be married to Wax to secure a future for the both of their houses - Wax realizes it's not in his nature to simply put down his guns. That's when an [[Wayne\|old friend]] shows up with a proposition.
 Wax and Wayne are old partners, close friends, and are both incredibly powerful Twinborn. With Wax's return to the city, Wayne was left in charge of Weathering, a small town out in the Roughs, appearing now on the trail of the [[Vanishers\|Vanishers]]; an infamous gang of thieves renowned for their bizarre theatrics and efficiency. Wax's desire to investigate the recent robberies itches at him.
-Putting on appearances for the public eye Wax and Steris attend the wedding reception hosted by the Yomens. They meet with Lord Harms and Steris' cousin, [[Marasi\|Marasi]].
-Wayne speaks with Wax while Steris and Lord Harms are not around - Marasi had recognised him through his waiter's disguise, having attended the previous meeting at Wax's house with her cousin and uncle where he impersonated Wax's uncle on his mother's side. They each confirm their suspicions to the link shared by the Vanishers' kidnappings, right before the ballroom is invaded by the Vanishers themselves.
+Putting on appearances for the public eye Wax and Steris attend the wedding reception hosted by the Yomens. They meet with Lord Harms and Steris's cousin, [[Marasi\|Marasi]].
+Wayne speaks with Wax while Steris and Lord Harms are not around - Marasi had recognized him through his waiter's disguise, having attended the previous meeting at Wax's house with her cousin and uncle where he impersonated Wax's uncle on his mother's side. They each confirm their suspicions to the link shared by the Vanishers' kidnappings, right before the ballroom is invaded by the Vanishers themselves.
 Steris is taken hostage while Wax attempts to calm Wayne. Marasi is also kidnapped but in the ensuing gun battle instigated by Wax and Wayne she is able to break free of her captors and provide assistance in the fight. Steris is kidnapped and the trio manage to overcome the staggering number of Vanishers without causing a single casualty amongst the bystanders.
-After the fight, Wax has an argument with the local Octant's constable Captain, [[Brettin\|Brettin]]. Lord Harms then begs for Wax to find Steris, and after Wax agrees, he leaves, seeming to be in shock. Wayne then steals an [[Aluminum\|aluminum]] gun from the evidence pile, giving it to Wax.
+After the fight, Wax has an argument with the local Octant's constable Captain, [[Brettin\|Brettin]]. Lord Harms then begs for Wax to find Steris, and after Wax agrees, he leaves, seeming to be in shock. Wayne then steals an  [[Aluminum\|aluminum]] gun from the evidence pile, giving it to Wax.
 The next day, Marasi visits the Ladrian mansion to find Wax deep in his work with metallurgy, trying to determine the exact alloy of the gun Wayne had given him. Realizing he'd been up all night, Wax shows her what else he'd been working on, pulling out a genealogical tree plotted by himself using information in his uncle's library. Marasi leads him to a startling discovery before Wayne shows up with a report on his own investigation; Wayne had infiltrated the Fourth Octant constabulary to gain knowledge of the Vanishers' hideout from the prisoners.
 [[Tillaume\|Tillaume]] - Wax's butler - brews Wax a tea and Wayne takes it for himself. Going back to make another and Wayne suddenly declares, passively, that the tea is poisoned before collapsing to the floor. Tillaume turns to face Wax, pistol in hand, but Wax gains the upper hand. While Wax is checking on Wayne, who has slightly recovered from the poison thanks to his goldmind, Marasi cries out as she notices Tillaume activating the bomb he'd brought with him.
 Wayne throws up a speed bubble just as the explosion bursts from the basket. Wax increases his weight Feruchemically and breaks through to the floor below with Marasi on top and Wayne following to land on both of them. They escape the explosion but Wayne is left badly burnt and so with little of his goldmind remaining.

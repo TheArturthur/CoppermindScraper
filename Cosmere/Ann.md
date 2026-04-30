@@ -36,7 +36,7 @@
 
 
 ## Appearance and Personality
- Ann is a "gangly" woman with a dart-shaped nose and short hair. She is seen wearing a vest and trousers and carrying three pistols strapped to her in various places. After [[Tress\|Tress]] trades [[Crow\|Crow]] to the [[Dragon\|dragon]] [[Xisisrefliel\|Xisisrefliel]], Ann gains a pair of spectacles. She has a nonchalant personality, and shows a kind side when interacting with Tress.
+ Ann is a "gangly" woman with a dart-shaped nose and short hair. She is seen wearing a vest and trousers and carrying three pistols strapped to her in various places. After [[Tress\|Tress]] trades [[Crow\|Crow]] to the [[Dragon (cosmere)\|dragon]] [[Xisisrefliel\|Xisisrefliel]], Ann gains a pair of spectacles. She has a nonchalant personality, and shows a kind side when interacting with Tress.
 ## Attributes and Abilities
 Ann loves guns and is determined to learn how to shoot, but her micropsia, along with crippling social pressure, hinders her ability to aim (often to a hilarious extent). With the help of both her spectacles and [[Laggart\|Laggart's]] guidance, she is able to overcome her inability and take down [[Riina\|Riina's]] Awakened golems to rescue Tress.
 She is a terrible cook; Fort notes that one of her dishes made the crew sick for three days.

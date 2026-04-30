@@ -45,4 +45,7 @@ This article is still missing information. Please help The Coppermind by .
 
 
 
+
+
+
 https://coppermind.net/wiki/Gallery_of_Maps

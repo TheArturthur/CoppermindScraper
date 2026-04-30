@@ -5,7 +5,7 @@
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
 |**Introduced In**|*[[The Knights of Crystallia\|The Knights of Crystallia]]*|
 
-**Fitzroy** is a Dark [[Oculator\|Oculator]] who accompanies [[Shasta Smedry\|Shasta Smedry]] when she infiltrates the [[Royal Archives (Not a Library!)\|Royal Archives (Not a Library!)]] of [[Nalhalla\|Nalhalla]].
+**Fitzroy** is a Dark [[Oculator\|Oculator]] who accompanies [[Shasta Smedry\|Shasta Smedry]] when she infiltrates the [[Royal Archives (Not a Library!)\|Royal Archives (Not a Library!)]] of [[Nalhalla\|Nalhalla]]. 
 
 ## Contents
 
@@ -21,7 +21,7 @@ He is about twenty years old in [[The Knights of Crystallia\|The Knights of Crys
 At one point he takes Alcatraz's Disguiser's lenses, and uses them to make himself appear as a much more handsome and muscular version of himself.
 
 ## History
-He interviewed scholars before their mission to learn about the Royal Archives. Shasta brings him along to use the [[Translator's Lenses\|Translator's Lenses]] and later tasks him with removing all of [[Alcatraz Smedry\|Alcatraz's]] lenses.
+He interviewed scholars before their mission to learn about the Royal Archives. Shasta brings him along to use the [[Translator's Lenses\|Translator's Lenses]] and later tasks him with removing all of [[Alcatraz Smedry\|Alcatraz's]] lenses. 
 He attempts to personally carry out [[Kangchenjunga Sarekgjakka\|Kangchenjunga Sarekgjakka's]] order to execute [[Himalaya Smedry\|Himalaya]], and seems to enjoy the pain he causes to her friends when he holds a knife to her throat. This backfires on him as he is the first victim of the [[Smedry Talent\|Talent]] Himalaya is granted upon becoming married to [[Folsom Smedry\|Folsom Smedry]], receiving a fist to the face.
 Fitzroy gets brought along when Alcatraz activates the transporter's glass to return the Royal Archives. He is taken prisoner and brought to the meeting of the [[Council of Kings\|Council of Kings]] tied up and escorted by two knights. It is unclear what happens to him in the battle.
 

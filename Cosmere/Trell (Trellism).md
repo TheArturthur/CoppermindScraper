@@ -31,19 +31,19 @@ For other uses of Trell, see [[Trell\|Trell]].
 
 
 ## Nature
-Trell is the avatar of Autonomy. Harmony appears to use a vast, red haze around Scadrial to represent the intrusion of another Shard when meeting with [[Waxillium Ladrian\|Waxillium Ladrian]], and Wax described a sensation of "dread and destruction" choking him upon observing it. The appearance of red suggests that the entity is co-opting or corrupting the [[Investiture\|Investiture]] of another Shard.
+Trell is an avatar of Autonomy. Harmony appears to use a vast, red haze around Scadrial to represent the intrusion of another Shard when meeting with [[Waxillium Ladrian\|Waxillium Ladrian]], and Wax described a sensation of "dread and destruction" choking him upon observing it. The appearance of red suggests that the entity is co-opting or corrupting the [[Investiture\|Investiture]] of another Shard.
 
 ## History
 The name Trell has been used in many ways over the eons. Trell is not native to [[Yolen\|Yolen]].
-The seeds for Trell's personality began to be placed during the Classical Scadrial time period when Autonomy prepped the planet for a potential later incursion. Following the [[Catacendre\|Catacendre]] and the actions of [[Kelsier\|Kelsier]] a group of individuals in the [[Scadrian System\|Scadrian System]] grew more interested in possessing powers that stem from off-world. These individuals began to research about the powers granted by 'ancient deities,' these groups eventually attracted the attention of [[Autonomy\|Autonomy]] who then began using their Trell personna again. The group would later go on to become the [[Set\|Set]].
-Following this the religion of the Set began to morph into a newer form of Trelagism, renamed Trellism. Beyond Trellism, the first overt evidence of Trell's involvement came in the form of a mysterious spike used by [[Paalm\|Paalm]] to hide from Harmony's sight. According to Harmony, Trell had surrounded the planet of Scadrial and was laying siege to Harmony's defenses sometime around 340 [[Catacendre\|PC]].
+The seeds for Trell's personality began to be placed during the Classical Scadrial time period when Autonomy prepped the planet for a potential later incursion. Following the [[Catacendre\|Catacendre]] and the actions of [[Kelsier\|Kelsier]], a group of individuals in the [[Scadrian System\|Scadrian System]] grew more interested in possessing powers that stem from off-world. These individuals began to research about the powers granted by 'ancient deities', such as Trell. These groups eventually attracted the attention of [[Autonomy\|Autonomy]] who then began using their Trell persona again. The group would later go on to become the [[Set\|Set]].
+Following this the religion of the Set began to morph into a newer form of Trelagism, renamed Trellism. Beyond Trellism, the first overt evidence of Trell's involvement came in the form of a mysterious spike used by [[Paalm\|Paalm]] to hide from Harmony's sight.  According to Harmony, Trell had surrounded the planet of Scadrial and was laying siege to Harmony's defenses sometime around 340 [[Catacendre\|PC]].
 
 ## Associated Magic
 A silvery metal with distinctive, dark red spots is associated with Trell. This metal has been utilized as a [[Hemalurgic\|Hemalurgic]] spike in several ways. First and foremost is the strange way that such a spike blinds Harmony to the recipient of the spike. Additionally, the spike may also be used to steal mysterious attributes previously unknown to the [[Kandra\|kandra]]. [[MeLaan\|MeLaan]] theorized that Paalm was able to utilize stolen [[Allomancy\|Allomancy]] and [[Feruchemy\|Feruchemy]] by means of these attributes. Lastly, the use of such a spike in [[Rian\|Rian]] appeared to cause, if nothing else, a level of psychological distress. It is possible that Miles was spiked with this metal as well, before he died.
 There are red-eyed [[Faceless Immortal\|Faceless Immortals]] which appear to act as agents on behalf of Trell. It is unclear who or what these beings are and how similar they are to typical kandra.
 
 ## Religion
->“*You are fools! One day, the [[Men of gold and red\|men of gold and red]], bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait ...*”
+>“*You are fools! One day, the [[Men of gold and red\|men of gold and red]], bearers of the final metal, will come to you.  And you will be ruled by them. Worship. Worship Trell and wait ...*”
 \-Miles Dagouter's last words[17]
 
 

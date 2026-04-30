@@ -5,10 +5,9 @@
 ||
 |**Family**|
 |**Children**|[[Savrahalidem\|Savrahalidem]]|
-|**Descendants**|[[Gvori\|Gvori]], [[Karavaniga\|Karavaniga]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Granddaughter]]|
-|**Died**|1175|
-|**Abilities**|[[Old Magic\|Old Magic]], [[Shard\|Shard]] of [[Odium\|Odium]]|
-|**Titles**|King of [[Kharbranth\|Kharbranth]] , King of [[Jah Keved\|Jah Keved]] , Odium|
+|**Descendants**|[[Gvori\|Gvori]], [[Karavangia\|Karavangia]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Granddaughter]]|
+|**Abilities**|[[Old Magic\|Old Magic]], [[Shard\|Shard]] of [[Odium\|Odium]] , [[Shard\|Shard]] of [[Retribution\|Retribution]]|
+|**Titles**|King of [[Kharbranth\|Kharbranth]] , King of [[Jah Keved\|Jah Keved]] , [[Odium\|Odium]] , The Divided God, God of Passions, [[Retribution\|Retribution]]|
 |**Aliases**|Vargo|
 |**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Kharbranth\|Kharbranth]] (palace), [[Urithiru\|Urithiru]]|
@@ -17,13 +16,15 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page is part of the April 2026 objectives!It has been claimed by User: Firesong, please contact her before doing edits.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am the monster who will save this world.*”
-\-Taravangian to Szeth[2]
+\-Taravangian to Szeth[4]
 
 
-**Taravangian** was the king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]], and the current Vessel of the [[Shard\|Shard]] [[Odium\|Odium]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius.
+**Taravangian** is the former king of [[Kharbranth\|Kharbranth]] and [[Jah Keved\|Jah Keved]] on [[Roshar\|Roshar]], and is the current Vessel of the [[Shard\|Shard]] [[Retribution\|Retribution]]. He is the leader of the secret society known as "the [[Diagram (group)\|Diagram]]" which believes the truth and the path to human salvation lies in the set of predictions and instructions he laid out on the day he was a genius. 
+At the height of his political power, he ruled over or alongside the majority of Roshar, having conquered or made deals with every nation on the continent excepting [[Azir\|Azir]] and [[Urithiru\|Urithiru]].
 
 ## Contents
 
@@ -32,11 +33,17 @@
 1. [[#Appearance]] 
 1. [[#Personality]] 
 
+1. [[#Mortal]] 
+1. [[#Vessel of Odium]] 
+1. [[#Vessel of Retribution]] 
+
+
+
 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
 2. [[#Old Magic]] 
-2. [[#Vessel of Odium]] 
+2. [[#Vessel]] 
 
 
 3 History. [[#History]] 
@@ -49,11 +56,28 @@
 3. [[#Battle of Thaylen Field and Aftermath]] 
 3. [[#Betrayal and Imprisonment]] 
 3. [[#Vessel of Odium 2]] 
+3. [[#The Ten Days]] 
+
+3. [[#Day One .28Palaheses 1175.29]] 
+3. [[#Day Two .28Palahesan 1175.29]] 
+3. [[#Day Three .28Palahesach 1175.29]] 
+3. [[#Day Four .28Palahesev 1175.29]] 
+3. [[#Day Five .28Palahesah 1175.29]] 
+3. [[#Day Six .28Palahanes 1175.29]] 
+3. [[#Day Seven .28Palahanan 1175.29]] 
+3. [[#Day Eight .28Palahanach 1175.29]] 
+3. [[#Day Nine .28Palahanev 1175.29]] 
+3. [[#Day Ten and the creation of Retribution .28Palahanah 1175.29]] 
+
+
+3. [[#Night of Sorrows]] 
 
 
 4 Relationships. [[#Relationships]] 
 
 4. [[#Adrotagia]] 
+4. [[#Dalinar Kholin]] 
+4. [[#Jasnah Kholin]] 
 4. [[#Malata]] 
 4. [[#Rayse]] 
 4. [[#Taravangian.27s Grandchildren]] 
@@ -67,44 +91,93 @@
 ## Appearance and Personality
  
 For more images, see [[Taravangian/Gallery\|/Gallery]].
->“*Someone must bear the responsibility, someone must be dragged down by it, ruined by it. Someone must stain their souls so others may live. Society offers us up to trudge through dirty waters so others may be clean.*”
-\-Taravangian to Dalinar[5]
-
-
 ### Appearance
 Taravangian is an aged man with a wispy white beard, which he shaves during the [[True Desolation\|True Desolation]]. He has pale grey eyes and an open, kindly face. He is described as having a “liver-spotted head.” He lives with perpetual aches in his body and other symptoms of old age. Before he Ascended as Vessel of Odium, he was in his 70s in Rosharan years.
 
 ### Personality
-He is popular among many for providing free access to city hospitals funded by an admittance fee to the [[Palanaeum\|Palanaeum]], and he is known to visit the hospitals on a weekly basis. Ruling Kharbranth with the help of a council, he has been quiet and humble for his entire life, leading many people to believe he is slow witted. People who know him better know he had a keen intelligence until his "illness" 5 years before the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. The illness is a consequence of a visit to the [[Nightwatcher\|Nightwatcher]] who granted him great intelligence and great compassion, but cursed him to never have them at the same time. As a result, at the stroke of midnight, he is struck with a fluctuation of both. On some days, he cries and has compassion for everyone around him, while unable to have intelligent conversations, while on others he is brilliant, yet easily speaks of killing singing children.
+#### Mortal
+>“*Our law will claim innocent men-for all judges are flawed, as is our knowledge. Eventually, you will execute someone who does not deserve it. This is the burden society must carry in exchange for order.*”
+\-Taravangian to Dalinar on executing three murderers and one innocent[11]
+
+
+He is popular among many for providing free access to city hospitals funded by an admittance fee to the [[Palanaeum\|Palanaeum]], and he is known to visit the hospitals on a weekly basis. Ruling Kharbranth with the help of a council. He has been quiet and humble for his entire life, which, when mixed by the claims by the doctor that birthed him that he would have "diminished capacity," led many people to believe he is slow witted. His history of being treated as disabled, and looked down on for it, potentially influenced his egotism and desire to prove his self-perceived superiority.
+People who know him better know he had a keen intelligence until his "illness" five years before the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. The illness is a consequence of a visit to the [[Nightwatcher\|Nightwatcher]] who granted him great intelligence and great compassion, but cursed him to never have them at the same time. As a result, at the stroke of midnight, he is struck with a fluctuation of both. On some days, he cries and has compassion for everyone around him, while unable to have intelligent conversations, while on others he is brilliant, yet easily speaks of killing singing children.
 He is a very manipulative man, always putting up an act in public, especially when trying to gain information or prove his theories. One such act is him putting on a farce of reduced mental capacity due to a nuchal cord all his life, despite that said reduced capacity was never actually present.
-Taravangian is a pragmatic man who considers it his duty to do whatever it takes to make a better world. Utilitarian to the extreme, when he poses a moral dilemma, asking what to do if three of four men are guilty of murder and one is unsure which is innocent, he says "To prevent murder to happen again … I must hang them all and weep." Though he doesn't find joy in sacrificing others, he simply believes that sometimes, such sacrifice is required for the betterment of the whole. He expands on this idea, believing that the law is necessary for order, but that all judges are inherently flawed, therefore innocents would eventually be executed when they did not deserve it. He calls this the burden that society must carry in exchange for order.
-He considers himself a sort of martyr, who bears responsibility and stains his soul so that others don't have to, even if it ruins him. This is what he feels is the responsibility of a king.
-But despite his willingness to sacrifice others, he refuses to let his family and his people be harmed if he could potentially stop it; trying to come to a compromise with Odium that let both survive. However, on his least empathetic of days, he can often order deaths casually and without a single care, even if it provides no measurable benefit to society.
-He believes religion fills gaps and brings a sense of comfort which prevents understanding. He trusts only the Diagram, which is the result of his raw intelligence.
+
+>“*Someone must bear the responsibility, someone must be dragged down by it, ruined by it. Someone must stain their souls so others may live... The burden for the blood of those wronged must rest somewhere. I am the sacrifice. We, Dalinar Kholin, are the sacrifices. Society offers us up to trudge through dirty water so others may be clean. Someone has to fall, that others may stand.*”
+\-Taravangian to Dalinar[20]
+
+Taravangian is a pragmatic man who considers it his duty to do whatever it takes to make a better world. He defines the greatest good, the *summum bonum* of humanity, as that which causes the least amount of aggregate suffering within a population, even if it requires the suffering of an individual within or subset of that aggregate. Thus, the morality of actions is determined by how much they mitigate aggregate suffering. When he is posed a moral dilemma, asking what to do if three of four men are guilty of murder and one is unsure which is innocent, he says "To prevent murder to happen again … I must hang them all and weep," for he believes that such an action could bring about more good and less evil and suffering. He is thus a adherent of consequentialism, more specifically, utilitarianism. However, he doesn't find joy in sacrificing others, still classifying such actions as immoral and wrong, he simply believes that sometimes such sacrifice is required for the betterment of the whole, and is therefore justified. He expands on this idea, believing that the law is necessary for order, but that all judges are inherently flawed, therefore innocents would eventually be executed when they did not deserve it. He confesses that the prosecution of innocents is a negative consequence, and a categorical wrong, but he calls this the burden that society must carry in exchange for order. Therefore he justifies it with the net benefit the system, in his eyes, brings to society, regardless of the individual harms it may incur. He states that humanity, especially his own people, must survive any threat that comes to their survival. He turned this desire for the greatest good for his people into his *raison d'être* to which he devoted himself.
+While he believes in the greatest net aggregate good, he is willing to sacrifice innocents and cause them pain. This is done so long as the pain caused does not meaningfully reduce the net happiness of the aggregate population. Due to this, while he sacrificed people for the potential of Death Rattles, he only chose to sacrifice the terminally ill, or those that would not be missed. Both done as a way to minimize net suffering, for the purposes of the greater happiness he believes it would bring.
+He considers himself a sort of martyr, who bears responsibility and stains his soul so that others don't have to, even if it ruins him. This is what he feels is the responsibility of a king. He accepts that the sins he commits stain him indelibly, but continues his actions regardless, for what he deems as the greater good. He believes that those unable to stain their hands are cowards that don't truly care about justice or goodness. However, fundamentally, his belief that his rule and methods are optimal is based in a want for power and control. Even before becoming Odium and formalizing his desire to become the God of the cosmere, he potentially expressed a desire become the king of everything. Furthermore, he does display a propensity towards egotheism, as he believes that he became a God on his most intelligent day when he made the Diagram, and that even on his less intelligent days, he can act as God's prophet.
+But despite his willingness to sacrifice others, he refuses to let his family and his people be harmed if he could potentially stop it; trying to come to a compromise with Odium that let both survive. However, on his least empathetic of days, he is ruthless and lacks any regard for morality or social consequences for his actions. Due to this, he can often order deaths casually and without a single care, even if it provides no measurable benefit to society.
+He believes religion fills gaps and brings a sense of comfort which prevents deeper understanding and grants false comfort to people. He trusts only the Diagram, which is the result of his raw intelligence. Furthermore, he claims that the Diagram is the only thing that men should worship, though he simultaneously believes that they do not deserve it and would inherently corrupt it with flawed understanding and superstitions. At times, he believes that all but the most intelligent should be banned from learning how to read.
 On his most emotional of days, he can be completely incoherent to the extent he finds it difficult to think. During these days, he tends to despise himself for his own self-professed stupidity, enough to bring himself to tears. He also tends to cry for the sake of others.
-He can be rather judgmental against other nations and cultures, such as considering the [[Marati\|Marati]] to be little more than barbarians.
+He can be rather judgmental against other nations and cultures, especially those that he deems less civilized, such as considering the [[Marati\|Marati]] to be little more than barbarians.
+
+#### Vessel of Odium
+>“*In this one thing, Honor and Odium were aligned. These people deserved more. Odium accepted the burden of not just using them, but caring for them. In this, he was better than he thought himself capable of being—for he legitimately began to care for them, as he had for Kharbranth.There were so many across the cosmere similarly abused. It was the conflux of all Shards to want to help them. He spent an extended moment letting himself revel in the idea.Peace. A lack of pain. A universe united.One God.*Him*. For, if you wanted to see that things turned out correctly, you had to do it yourself.*”
+\- Taravangian on the cosmere[27]
+
+Becoming Odium heavily impacted Taravangian's personality, however, it was not metanoia, with many of his ideals, emotions, and philosophical outlooks remaining after his Ascension.
+As Odium, Taravangian was able to simultaneously feel both his logical and emotional sides, and balance them in a harmonious manner. That is, he allowed his actions to be driven both by apathetic logic, and illogical emotion. This unity of opposites came to shape his behavior and actions. However, before his opposites reached unity, he let himself alternate between these contradicting halves as an attempt to resolve this antinomy within his being.
+
+>“*These people will not get along because they have different forces manipulating them. Honor’s touch lingers, and your own meddling—invisible to most—creates so much tension and strife. It is worse in the greater cosmere. So many gods who are cowards.*”
+\-Taravangian on the Shards and their influence[2]
+
+He came to believe that the cosmere would only know peace and prosperity if it was unified under a singular god, and thus he began to plan for war against all of the cosmere. His desire to conquer the cosmere quickly evolved into an insatiable cacoethes. This belief and desire was further cemented by the fact that he could feel all suffering of all peoples across the cosmere, thus filling him with the belief they needed to be liberated. However, he would only accept a future where he is the one true god of the cosmere. He sincerely believes that such a situation would be best for the cosmere, and for future progress towards a better future. Another aspect for this desire comes from his belief that it is social and governmental systems that bring about suffering, and simply helping those that are disadvantaged or marginalized by such systems would only lead to more suffering in the future as it doesn't tackle the root cause of the problem.
+He sees the major root cause of suffering to be, at a fundamental level, the actions and planetary administration of broken gods, who he viewed as unfit to rule; and due to corrupt systems which further facilitate human suffering. Thus, he sees that the world is only unjust and dangerous due to social and political systems in place within the world, rather than the inherent nature of the world itself, and that there are potential systems which would bring about a more just-world that minimizes suffering. Therefore, he does not inherently oppose such systems in-of-themselves, he simply opposes those currently in place within the cosmere. This desire to become the sole God of the cosmere is potentially rooted in ideals he held before Ascension.
+He briefly entertained the idea of redistributing wealth and reallocating resources to mitigate the wealth gap between classes. However, [[Cultivation\|Cultivation]] talked him out of this idea by convincing him that such a system would stifle human development by stopping the conflict and consequences that, she believes, facilitate social, political, and scientific developments.
+Part of his conscious reasoning on why he had to be the one to conquer the cosmere was in his belief that his way, and the systems he wishes to put into place, are the optimal path for it, and that only he could properly put these plans into action. He also held a deep passion for his people and a genuine desire for what was best for them, and believed that his path was not only optimal, but logical. Furthermore, he came to believe that his family, who he loves deeply, would only be safe when everything was under his control and all threats to them were destroyed.
+
+>“*I understand. Assuming these were fully mine, and I were allowed, it would not be enough. I could wave my hand, heal this boy’s body—but I’d return in several weeks and find him starving again, because the systems that caused this suffering are still in place... So I change the systems...*”
+\-Taravangian on the corruption of societal systems[2]
+
+Taravangian believes that his peace would be free of pain and suffering, that it is the greatest good for the cosmere, and that those that disagree with it being the best way to oppose oppressive systems simply do not see as far as him, and do not understand that it is the monarch's role to enforce his goals upon the world, for their good. He further argues that he is the only one that can see the bigger picture and understand what the greatest good is for all people. Taravangian also believes that such a war against the cosmere is supported not just by his emotion-motivated reasoning, but also by his logical reasoning. Furthermore, he believes that any atrocities committed in the furtherance of his goals are justified as they are done for the greatest good. Thus, due to his perception that his war would bring more peace and good in the long-run than it would bring suffering, he claims the right to war, and that his war is inherently good and justified.
+Following from his belief that all things are justified if it is for the furtherance of peace, he is even willing to psychologically torture a child for decades in order to groom him into a state he believed was the best for the cosmere. As seen in when he psychologically tortured [[Gavinor Kholin\|Gavinor Kholin]] for twenty years in the Spiritual Realm in order to instill within him a deep hatred for Dalinar Kholin that led him to want to kill him, and thus willingly become Taravangian's champion. Thus, he states that sometimes, suffering is necessary for the furtherance of the greater good.
+However, deep within himself, he knew that some day some entity would conquer the cosmere under themself, and he wanted to be the one to do it. It was a desire based not only on his compassion, but also on his want for power and control, and to prove that he was the greatest of all men. He was originally reticent to accept this truth, deceiving himself that he purely wanted power for the good of the cosmere. But he ultimately found it in himself to accept that he also simply wanted greater authority. This self-revelation led him to become more aligned with Odium's Intent. This, however, does not mean he does not still truly believe in the ideals he espoused before this self-revelation, such as a genuine love for humanity.
+He retained his belief that, as king, he had to make morally ambiguous or evil actions for the purposes of protecting a greater amount of people. This belief was used as further justification for his planned conquest of the cosmere, and for all his actions done in furtherance of his goals. Following from his martyr complex, he believes that what is right is inherently difficult and has a cost, and due to this, most people aren't able to do what is truly right. This is not entirely without self-benefit, however, as he wants to be recognized and loved by his people for the actions he takes in their name. Furthermore, he has a desperate desire to be seen as *right*, especially by people he respects, such as [[Jasnah Kholin\|Jasnah]] or [[Dalinar Kholin\|Dalinar Kholin]].
+
+>“*He loved them. Oh, how he loved this city, with its art, and its library, and its many hospitals that took any patient without cost. He even loved the secret portions of those hospitals, where people had died—feeling so many things—at the hands of his surgeons, killed to gather their Death Rattles. Sacrifices made in a terrible, but important quest—for that had once been his sole way to gain insight into the future.His policies ensured the greatest good. In Kharbranth he found justification, for here was a city that—in war—knew peace...Was that enough? He began to weep, for he knew it would not be enough.*”
+\-Taravangian on his love[28]
+
+Despite his willingness to bring about suffering for what he believes is the greatest good, he displays deep sympathy for the people he sees suffer, and a hatred for the people and systems that bring about such suffering. Though he does not desire anarchy, both due to his own desire for power, and due to a belief that freedom and prosperity can only be brought about if he limits free will to an "acceptable degree," enough to allow for choices, but with enough control over them to prevent famine or other forms of harm. This is possibly rooted in his belief that a proper system of law is necessary for order, and for the good of humanity.
+His love for his people, and all people, grew even deeper after becoming the Vessel of Odium. From this growing and expanding love, his desire for the best for humanity grew from applying simply to the people of his own state, but to the cosmere as a whole.
+He views the desire to help sapient beings and to minimize suffering to be the conflux of all Shards.
+Taravangian conceptualizes Odium as the Shard of emotion and passion, stating that he, as Odium, is the very substance of passion itself. He also states that he is the god of Passion, and believes that he should inflame and celebrate passions and emotions in his followers, and that passions are what makes one truly live. He believes that Rayse was a glutton for consuming the passions of his people, and judges him for it.
+He views the best way to operate his Shard to be making decisions based on reason while also feeling emotion. He came to see ruthlessness and the alienation of emotion to be deeply illogical. That intellect is not defined by a rejection of emotion, but rather the ruling of that emotion with reason. The best course of action, in his mind, is that which one comes to through both logical and emotional reasoning. He came to see his ruthlessness and immorality during his intelligent days to be illogical as it lacked any regard for morality or social consequences, this realization troubled Taravangian.
+
+#### Vessel of Retribution
+>“*Retribution would keep *his* promises. Oaths *were* important. And Retribution would *destroy* anyone who believed differently.*”
+\- Taravangian as Retribution[38]
+
+
+As Retribution he came to hold a deep hatred for those that break oaths, and those that did not believe them to be of the utmost importance. He came to experience more doubt about his more ruthless actions, and if they were in line with Honor. However, he tries to reason that his oaths and promises are kept despite such actions. Such as how he never broke his oaths to Gavinor, thus, despite his cruel treatment of him, he believes that his actions were in-line with Honor.
 
 ## Attributes and Abilities
 Taravangian has surprising knowledge of the [[Shin\|Shin]] and the Shin language, which is rare outside of [[Shinovar\|Shinovar]]. He also knows [[Women's script\|women's script]] and has solved [[Fabrisan\|Fabrisan's Conundrum]]. He is responsible for Dalinar's knowledge of how to capture a spren: giving it what it wants. This knowledge is key for Dalinar's victory over Nergaoul at the battle of [[Thaylen City\|Thaylen City]].
 
 ### Old Magic
-Taravangian claims to have asked the Nightwatcher for, "Capacity. Capacity to stop what was coming. The capacity to save humankind." As a result, Taravangian's level of intelligence varies from day to day. This enabled him to write the [[Diagram (literature)\|Diagram]] on a day of particularly notable intelligence. He believes that his curse is a level of compassion inversely proportional to his intelligence; he feels little to no compassion on days of high intelligence, contrasted with days of low intelligence and great compassion "to feel pain for what he had done." Some days he is as dull-minded as a [[Parshman\|Parshman]] and brought easily to tears as he realizes decisions he makes may bring death to innocents, while on others he is more intelligent and able-minded than the greatest scholar but regards everything he is ordering done with cold logic and an eye for the bigger picture of Roshar. The change in intelligence and compassion will still happen even if Taravangian is awake and conscious in the middle of the night.
+Taravangian claims to have asked the Nightwatcher for, "Capacity. Capacity to stop what was coming. The capacity to save humankind." As a result, Taravangian's level of intelligence varies from day to day. This enabled him to write the [[Diagram (literature)\|Diagram]] on a day of particularly notable intelligence. He believes that his curse is a level of compassion inversely proportional to his intelligence; he feels little to no compassion on days of high intelligence, contrasted with days of low intelligence and great compassion "to feel pain for what he had done." Some days he displays diminished intellect, to the extent of experiencing difficulty reading basic messages, and brought easily to tears as he realizes decisions he makes may bring death to innocents; while on others he is more intelligent and able-minded than the greatest scholar, sometimes being beyond human capacity as a whole, but regards everything he is ordering done with cold logic and an eye for the bigger picture of Roshar. The change in intelligence and compassion will still happen even if Taravangian is awake and conscious in the middle of the night. What happens to Taravangian increases multiple types of intelligence, not just raw 'processing power'. Someone tapping enough [[Feruchemy\|feruchemical]] [[Zinc\|zinc]] could achieve something similar but not quite the same.
 Every morning he takes an intelligence test that he devised for himself on intelligent days. The test takes the better part of an hour and is made up of mathematical problems. A trio of [[Stormwarden\|stormwardens]] consult regarding his answers and decide his intelligence for the day. The stormwardens as well as [[Mrall\|Mrall]], his head bodyguard, also decide if he is fit to rule and what restrictions he will be subject to. He is restricted to his room on both his worst and best of days because during both he tends to make irrational regulations.
+It is unknown how or if Taravangian is affected by the Old Magic since becoming a Vessel, though he at first viewed himself as divided between a person who thinks and a person who feels. He spent time letting each side dictate his actions, before merging the two sides into one purpose.
 
-### Vessel of Odium
+### Vessel
 >“*In truth, it would be a combination of a Vessel’s craftiness and the power’s Intent that we should fear most.*”
-\-Harmony[24]
+\-Harmony[45]
 
 
-Rayse is careful to visit Taravangian only on stupid days, but this does not prevent Taravangian from plotting and killing him, with some help from [[Sja-anat\|Sja-anat]], and using [[Nightblood\|Nightblood]].
 Upon taking up the Shard and becoming Odium, he shows some ability to control the Shard's destructive Intent, and he appears better at seeing the future than Rayse was.
-He converses with Cultivation and quietly resolves to fix the Cosmere, to save it from all its broken gods.
+Like all Vessels, he is capable of thinking multiple thoughts simultaneously, and appearing in multiple places at once.
+He has the ability to feel the suffering and the passion of all people in the cosmere, and has the capacity to fully process all of this stimuli. This ability seems to be incapable of being deactivated, as it is an inherent aspect of his connection to Odium. Furthermore, he is able to observe any location within the cosmere, though he is incapable of forming a physical manifestation or affecting the world anywhere outside of the Rosharan system.
+Upon becoming Retribution, he was classified as one of the most powerful and Invested beings in the cosmere. Furthermore, he was freed from his binding to the Rosharan system.
 
 ## History
 ### Background
-When Taravangian was born, the surgeon said he had a . This surgeon made public that Taravangian might have diminished capacity and the recommendation was to keep him on outer estates in favor of others. Though the diminished capacity was not present, the reputation followed him all his life.
+Taravangian was born via caesarean section. When he was born, the surgeon said he had a . This surgeon made public that Taravangian might have diminished capacity and the recommendation was to keep him on outer estates in favor of others. Though the diminished capacity was not present, the reputation followed him all his life.
 He was childhood friends with [[Adrotagia\|Adrotagia]] and his nickname was Vargo.
 Taravangian met [[Battar\|Battar]], a Herald posing as an [[Ardent\|ardent]] named Dova, who said that the True Desolation was close.
+In around 1158, Taravangian's mother died from tumors. He was present when she died, and heard her say a [[Death Rattle\|Death Rattle]], speaking of the [[True Desolation\|True Desolation]] and the [[Night of Sorrows\|Night of Sorrows]].
 
 ### The Nightwatcher and the creation of the Diagram
 At some point after [[Dalinar Kholin\|Dalinar Kholin]] visited the [[Nightwatcher\|Nightwatcher]] in 1168, Taravangian asked her for "the capacity to save humankind." He was granted the boon of great intelligence and great compassion, but the curse of not having them at the same time. As a result, he wakes up every morning with a fluctuation of both. This was granted by [[Cultivation\|Cultivation]] rather than the Nightwatcher.
@@ -140,7 +213,7 @@ These revelations were enough to destroy most of the coalition, with only the [[
 ### Battle of Thaylen Field and Aftermath
 Taravangian was decided to ensure Dalinar's failure at Thaylenah. By the time Odium strikes them, he and his people had already left and had retrieved their ships. He also wrote to the singers and opened the gate to Urithiru to attack there and prevent them from sending help to the Thaylens.
 Much to Taravangian's surprise, Dalinar and his allies win the battle. He comes clean on several points, including his plotting to take the throne of Jah Keved, his usage of Szeth, and knowledge of the Desolation. He however kept to himself the existence of the Diagram and that he brought the singers to Urithiru. Though Dalinar would never again trust him as before, this does clear the air and their relationship is not fully broken.
-Eight days after the battle, on a day of below average intelligence, he received a vision from Odium, who took a tall form reminiscent of the [[Shin\|Shin]] with a scepter in his hand. Taravangian tried to convince Odium that he only wanted to serve him and begs him to visit him another day, but Odium sees through him immediately and orders him not to prostrate himself. He then asked Taravangian why he would be inclined to speak with the king on a day of intelligence, thereby allowing him to negotiate from a position of power, declaring that such an event would never happen.
+Eight days after the battle, on a day of below average intelligence, he received a vision from Odium, who took a tall form reminiscent of the [[Shin\|Shin]] with a scepter in his hand. Taravangian tried to convince Odium that he only wanted to serve him and begs him to visit him another day, but Odium sees through him immediately and orders him not to prostrate himself. He then asked Taravangian why he would be inclined to speak with the king on a day of intelligence, thereby allowing him to negotiate from a position of power, declaring that such an event would never happen. 
 Taravangian then offered a deal to Odium, knowing the god couldn't afford to face Dalinar directly again for fear of losing a previously declared contest of champions. The agreement would trade his help by sharing the Diagram's information (though he could not read [[Renarin\|Renarin's]] participation) and giving him the Honorblade in exchange for sparing the people of Kharbranth (the city itself, any humans born into it, and their spouses). Odium accepted, placing Taravangian and the Diagram firmly under the control of Dalinar's enemy.
 
   Being killed by <<Szeth\|Szeth>>
@@ -153,33 +226,88 @@ Taravangian, however, realized that he could kill Odium himself, guessing that i
 Just as Taravangian had plotted, Szeth entered his house, intending to kill him. As Szeth was reaching for his knife, Odium arrived and pulled Taravangian's mind out of the [[Physical Realm\|Physical Realm]]. Still next to Szeth in the Physical Realm, Taravangian reached for the manifestation of [[Nightblood\|Nightblood]] in the vision and used the weapon to attack Odium. Szeth then killed Taravangian, but before he could pass into the [[Beyond\|Beyond]], Nightblood consumed [[Rayse\|Rayse]], the original Vessel of Odium. As Taravangian was having his least intelligent day yet, his emotions ran rampant, giving him an Intent very similar to that of the Shard, allowing him to Ascend to become the new Vessel of Odium.
 
 ### Vessel of Odium
+For more history on the Shard of Odium, see [[Odium\|Odium]].
 After his Ascension, Taravangian conversed with [[Cultivation\|Cultivation]], who explained some of the nature of his new power. Taravangian intends to expand Odium's influence throughout the cosmere after his and Dalinar's contest of champions is settled, regardless of the outcome.
 
-For the subsequent events, see [[/wiki/Odium#History]].
+### The Ten Days
+#### Day One (Palaheses 1175)
+On Palaheses 1175, Taravangian visted [[Tu Bayla\|Tu Bayla]] and held a dead child in his arms, crying at the state of the world and the systems which brought about that state. He engaged in a debate with Cultivation about what the best course of action was in order to bring about the greatest good for the cosmere.
+
+#### Day Two (Palahesan 1175)
+On Palahesan 1175, Taravangian spoke with [[El\|El]], and he was able to convince him to release [[Dai-Gonarthis\|Dai-Gonarthis]] and use her to help his troops at the Shattered Plains. He also declared El leader of his troops during the invasion. Later, he strode through [[Kholinar\|Kholinar]]. He came to decide to let his logical and emotional sides to alternate, each getting their own chance to influence his actions.
+
+#### Day Three (Palahesach 1175)
+On Palahesach 1175, he put this system of alternation into motion. He spoke with the Herald Battar, and offered her a planet if she were to help him in his attempt to conquer Roshar. He convinced her to give [[Moash\|Moash]] her [[Crystal spike\|crystal spikes]] so that he could once again see, and also sense Investiture. Shortly following his meeting, he travelled to speak with Moash and grant him the spikes.
+
+#### Day Four (Palahesev 1175)
+On Palahesev 1175, Taravangian let his emotion rule, and traveled to Kharbranth.
+
+#### Day Five (Palahesah 1175)
+On Palahesah 1175, Taravangian reconciled his halves and let them rule simulatenously.
+
+#### Day Six (Palahanes 1175)
+On Palahanes 1175, Taravangian travelled to Kharbranth and noticed assassins put in place by Cultivation to kill his family if he didn't comply with her demands. In response, he destroyed Kharbranth with a major tidal wave. In reality, he made a replica of Kharbranth in the [[Spiritual Realm\|Spiritual Realm]] and moved his people into it, therefore saving the occupants. The original, Physical Realm Kharbranth however, was truly destroyed in the event.
+
+#### Day Seven (Palahanan 1175)
+On Palahanan 1175, Taravangian decided that the best way to make Dalinar accept that his way was right was to break him down psychologically.
+
+#### Day Eight (Palahanach 1175)
+On Palahanach 1175, Taravangian noticed Dalinar appear to vanish from the Spiritual Realm, he came to believe this was due to Honor's power hiding him, and contemplated destroying the power.
+
+#### Day Nine (Palahanev 1175)
+On Palahanev 1175, Taravangian continued to think on whether he should destroy Honor, and looked at the permutations of the future to see what the best course of action was.
+He began to torture [[Gavinor Kholin\|Gavinor Kholin]] in the Spiritual Realm in order to groom him into the perfect champion for the upcoming contest. He placed him through a system of visions that engrained in him a deep hatred of Dalinar Kholin, and a love for Taravangian himself, thus leaving him willing to become his champion and attempt to kill Dalinar in the contest of champions. Within the visions themselves, Gavinor experienced twenty years of this grooming, with only a few hours passing in the Physical Realm.
+
+#### Day Ten and the creation of Retribution (Palahanah 1175)
+During the [[Contest of champions\|contest of champions]] between [[Dalinar Kholin\|Dalinar Kholin]] and [[Gavinor Kholin\|Gavinor Kholin]] on Palahanah 1175, Dalinar Ascended to, and then quickly gave up, the Shard of Honor. Taravangian then took it up himself, becoming the Vessel of the hybrid Shard of [[Retribution\|Retribution]].
+His actions led to Dalinar's death, and he attempted to take his Cognitive Shadow and Unmake it. But Dalinar went to the [[Beyond\|Beyond]] before he could do so. In response, he took a version of Dalinar from a vision in the Spiritual Realm, which Dalinar had previously filled with his memories, and turned it into his servant.
+The events that occurred on Palahanah 1175 heavily distorted spacetime in the region around Roshar, leading it to experience extreme time dilation.
+
+### Night of Sorrows
+Shortly after his assimilation of Honor, Retribution informed the [[Listener\|listeners]] and instructed them that they could freely receive his Light if they left their [[Sphere\|spheres]] out at midnight and asked him to bless them. Furthermore, he promised that he was only an interested party offering help, and not the listeners' god.
+After around a month and a half, Retribution withdrew the Everstorm from [[Azir\|Azir]], in recognition of the fact that they had won their independence in the terms of the agreement he made with Dalinar Kholin.
+Following the start of the Night of Sorrows, Retribution went into hiding before the other Shards could move against him, planning to return to Roshar later. He was enraged by this, as it led to his centuries of future plans and manipulations being foiled, as the timeline for the war was greatly moved up. He also decided he needed to set up a regent *pro tempore* for Roshar, to rule over the planet as he hides away from the Shards.
+
+For the subsequent events, see [[/wiki/Retribution#History]].
 ## Relationships
 ### Adrotagia
 [[Adrotagia\|Adrotagia]] is Taravangian's head scribe and closest friend. They have been friends for 73 years, since they were children. Even on his days of genius he is aware of her intelligence. He has real fondness for her.
+
+### Dalinar Kholin
+>“*What is this one death to you? Your government does worse every day. Your non-Radiant Soulcasters? Slowly consumed by their powers to provide food. The darkeyes—the slaves you didn’t want to free—toil, giving their best years to their betters. You let innocent men be hanged so that justice may be applied evenly. You let soldiers die, and children on the other side starve, so your people at home can greet each other with cheerful mornings.This is the **actual** nature of virtue and leadership. And if you aren’t willing to dirty your pristine, godly, oh-so-righteous hands with it... then I name you a coward. The worst kind of hypocrite.*”
+\-Taravangian to Dalinar[29]
+
+Dalinar Kholin and Taravangian have a complex relationship, which intermixes respect, ideological disagreement, and later, hatred.
+Dalinar initially assumed, like many others, that Taravangian was "slow-minded," and thus he looked down upon him. However, this perspective began to change after a philosophical discussion with the king, which led him to develop a respect for him.
+Taravangian deeply respects Dalinar, and partially due to this, he has a desperate desire for Dalinar to admit that he was right in his goals and ideals. Likely due to this, he often tries to preach his ideals to Dalinar. However, despite his respect, he criticizes Dalinar for his perceived hypocrisy and cowardice, due to how Dalinar benefited off of institutions such as slavery and resisted their abolishment, among other actions, yet adamantly denies Taravangian's ideals of a leader having to be corrupt and immoral for the sake of their state and their people.
+Dalinar fundamentally opposes Taravangian's ideology, for on the problem of dirty hands, Taravangian finds any immoral action as justified if for the greatest good of his subjects, whilst Dalinar finds such disregard for moral rules to be reprehensible.
+
+### Jasnah Kholin
+>“*Admit it, Jasnah. You only seek **your** greater good. You protect your kingdom, and your people, above others. Your philosophy is deeply flawed, for you cannot know what is best for all. A mortal cannot think of Roshar at large—let alone the cosmere. Have you imagined how many planets there are, how many people? Would you let Roshar be destroyed to protect them?*”
+\-Taravangian to Jasnah Kholin[33]
+
+Taravangian criticizes Jasnah for being unable to see the bigger picture, and that her actions and ideas are fundamentally based on her inability to see this bigger picture, and thus her inability to truly know the greatest good. He further criticizes her for being willing to sacrifice other worlds in the cosmere for the sake of Roshar, and other countries for her own country, and thus does not truly care for the greatest good as she claims. He claims she only seeks her own greater good, and not that of humanity.
 
 ### Malata
 [[Malata\|Malata]] is a Veden bodyguard and [[Dustbringer\|Dustbringer]]. She works for him and follows his lead, however she had said that she "is not his" and they were there because her spren [[Spark\|Spark]] suggested visiting [[Urithiru\|Urithiru]] now that it has been rediscovered.
 
 ### Rayse
 Taravangian is fully aware of [[Odium\|Odium's]] power. On the day Taravangian created the Diagram, he drafted out plans to save humanity from Odium. But on the same day, he also anticipated his direct confrontation with Odium after the Battle of Thaylen Field, and wrote down instructions for the future and dumber version of Taravangian on that day to follow. He explained that after the contest of champions was agreed, Odium would need people to do his bidding lest he get pressed into a duel he may lose. Taravangian makes a deal with Odium, trading the help of the [[Diagram (group)\|Diagram]] and the Honorblade in exchange for sparing the people of Kharbranth. Odium comments on his drive, saying, "Your passion does you credit".
+Taravangian judges Rayse for how he consumed the passions of his followers, calling him a glutton for it.
 
 ### Taravangian's Grandchildren
-Taravangian has three grandchildren who write to him. They are oblivious to the Diagram and his plans. The eldest is [[Gvori\|Gvori]], accepted at the school of storms, [[Karavaniga\|Karavaniga]], the middle accepted forwardship and little [[Ruli\|Ruli]]. He has another [[Taravangian's granddaughter\|granddaughter]] who became trapped in a rockslide, which he took as an opportunity to see [[Jasnah Kholin\|Jasnah Kholin]] use her [[Soulcaster\|Soulcaster]]. Despite his ulterior motives, he was concerned for her wellbeing and did not want her to be harmed.
+Taravangian has three grandchildren who write to him. They are oblivious to the Diagram and his plans. The eldest is [[Gvori\|Gvori]], accepted at the school of storms, [[Karavangia\|Karavangia]], the middle accepted forwardship and little [[Ruli\|Ruli]]. He has another [[Taravangian's granddaughter\|granddaughter]] who became trapped in a rockslide, which he took as an opportunity to see [[Jasnah Kholin\|Jasnah Kholin]] use her [[Soulcaster\|Soulcaster]]. Despite his ulterior motives, he was concerned for her wellbeing and did not want her to be harmed.
 
 ## Quotes
 >“*Our law will claim innocent men-for all judges are flawed, as is our knowledge. Eventually, you will execute someone who does not deserve it. This is the burden society must carry in exchange for order.*”
-\-Taravangian to Dalinar on executing three murderers and one innocent[17]
+\-Taravangian to Dalinar on executing three murderers and one innocent[11]
 
 
->“*Nightwatcher, Odium's victory will kill you too. Couldn't you gift me and not curse me?*”
-\-Taravangian reflecting alone[38]
+>“*Nightwatcher, Odium's victory will kill you too. Couldn't you gift me and not curse me? *”
+\-Taravangian reflecting alone[64]
 
 
 ## Trivia
-What happens to Taravangian increases multiple types of intelligence, not just raw 'processing power'. Someone tapping enough feruchemical zinc could achieve something similar but not quite the same.
 Taravangian was deaf in the original draft of Way of Kings Prime. Brandon removed this part of Taravangian's character as he thought he had done it poorly.
 Taravangian would make a worse President of the United States than [[Rashek\|Rashek]].
 

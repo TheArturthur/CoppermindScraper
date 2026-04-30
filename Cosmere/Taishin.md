@@ -203,7 +203,7 @@ In the initial vote, the Lady Mason voted to dissolve the Diem.
 In the final vote of the Taishin the Lady Mason voted for the Diem, saying that it has proven that it can be beneficial and flexible. This was largely due to the incident with the construction collapse, where Kenton used his sand to save the lives of several of the Guild's workers.
 
 ## Trivia
-In the [[White Sand (prose)\|prose]] the Taisha of the Mason's guild was male and was named Selcomb. He used representatives to attend the Taishin meetings so that he would not need to leave Nor'Tallon.
+In the [[White Sand (prose)\|prose]] the Taisha of the Mason's guild was male and was named Selcomb. He used representatives to attend the Taishin meetings so that he would not need to leave Nor'Tallon. In this version, Kenton asks Dirin to attempt to become a representative, as his only requirement for these emissaries was that they should be Talloner.
 
 
 https://coppermind.net/wiki/Taishin

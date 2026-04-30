@@ -6,6 +6,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*The Purelake seemed to extend forever, wide as an ocean... Rock outcrops broke the lake near the coast, but inward the Purelake grew placid, more empty.*”
 \-Szeth's description of the Purelake[1]
 
@@ -67,7 +69,7 @@ The Purelake is a large, shallow lake that is hundreds of miles wide. It is sepa
 The waters of the Purelake are warm and crystal-clear, and the surface typically calm and smooth despite the tides. The lake has an average depth of about midcalf, though at some spots it reaches depths of around six feet. These deepest spots likely coincide with the sinkholes in the lake. The lake bottom has small ridges and sharp ledges of rock, which can make walking through the Purelake precarious. Purelakers are skilled at navigating such terrain, knowing to test their footing before putting their weight down.
 It is unknown what type of, if any, mineral deposits can be found around the lake.
 
-  Map of the Purelake
+  Map of the Purelake prior to the <<Night of Sorrows\|Night of Sorrows>>
 ### Locations
 #### Settlements
 Villages that can be found on the Purelake include:
@@ -125,12 +127,13 @@ Later that year, the Purelake experienced the spread of an off-world illness, th
 
 ### The True Desolation
 In 1174, a group of criminals escaped from a jail on the northern edge of the Purelake. The [[Order of Skybreakers\|Skybreakers]] were called in to catch the escapees, who had broken out of the jail and fled. The Skybreaker acolytes were tasked with finding the criminals and bringing them to justice, with the exercise also testing their understanding of the law.
-Following the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Iri\|Iri]], with the help of [[Odium\|Odium's]] forces, captured most of the western kingdoms, which may have included the Purelake.
+Following the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Iri\|Iri]], with the help of [[Odium\|Odium's]] forces, captured most of the western kingdoms, including the Purelake. The Selay people accused the Everstorm of stealing the luck of their magical fish. The Fused have stationed a few of their Regals in the area, though they are more concerned with their advancing troops than with the territory itself.
+After [[Retribution\|Retribution's]] influence caused the Everstorm to spread across the continent, the Purelake's barriers broke and flooded nearby kingdoms.
 
 ## Politics
 During the [[Silver Kingdoms\|Silver Kingdoms]], the Purelake was governed by the king of [[Sela Tales\|Sela Tales]]. After the fall of the [[Epoch Kingdoms\|Epoch Kingdoms]], it appears that the Purelake broke away from the surrounding lands and established sovereignty, with local inhabitants forming autonomous villages. Modern-day Purelakers are more likely to define themselves based on their geography than country borders.
 People who live outside of the Purelake find the inhabitants to be strange, and do not understand the appeal of living within a lake. The [[Azish\|Azish]] are particularly dismissive of the region, believing that there is nothing of consequence on the lake, and are baffled why anyone would want to visit the area.
-Unlike the eastern countries on [[Roshar\|Roshar]], the Purelake is not known to be overly confrontational or involved in internal, or external, fighting.
+Unlike the eastern countries on [[Roshar\|Roshar]], the Purelake is not known to be overly confrontational or involved in internal, or external, fighting. The Purelaker villages do have the ability to raise a militia though.
 The region may now be under the control of [[Odium\|Odium's]] forces, with the surround lands having been captured by [[Iri\|Iri]] and the [[Fused\|Fused]]. Iri may have wished to have control of the Purelake for several generations.
 
 ## Culture
@@ -144,9 +147,9 @@ One of their weekdays is known as warli-day. Soup bowls on the Purelake are desi
 \-Ishikk[3]
 
 
-Purelakers are known for their long limbs, leathery skin, and dark hair. In general, they have happy-go-lucky attitudes and are rarely fazed by misfortune. They have a relaxed way of life and enjoy taking their time. They see no need to rush and will go about their tasks in a slow, leisurely manner, allowing themselves to think more about their actions and enjoy the day.
+Purelakers are known for their long limbs, leathery bronze skin, and dark hair. In general, they have happy-go-lucky attitudes and are rarely fazed by misfortune. They have a relaxed way of life and enjoy taking their time. They see no need to rush and will go about their tasks in a slow, leisurely manner, allowing themselves to think more about their actions and enjoy the day.
 Purelakers are also rather unconcerned with the notion of exact time, and do not understand why foreigners care so much about it. As a whole, they are rather unimpressed by foreigners, believing that they are constantly in a hurry and act oddly due to their avoidance of nature. Purelakers do not understand why anyone would not want to live on the Purelake, but, at the same time, do not want outsiders coming to fill up the area.
-Purelakers typically wear sandals and knee-length pants so they can maximize their exposure to the lake. Men rarely cover their upper body, preferring to leave their shoulders and torsos bare to the sun. Despite Purelakers' preference for sun exposure, it is possible to purchase wide-brimmed hats in the region. The fashion of the Purelake is known for being rather unchanging.
+Purelakers typically wear sandals and knee-length pants so they can maximize their exposure to the lake. Men rarely cover their upper body, preferring to leave their shoulders and torsos bare to the sun. Women wear short skirts and chest wraps. Despite Purelakers' preference for sun exposure, it is possible to purchase wide-brimmed hats in the region. The fashion of the Purelake is known for being rather unchanging.
 Purelakers' feet don't get wrinkled.
 
 #### Skybreakers
@@ -156,7 +159,7 @@ Szeth visits the Purelake at some point before becoming a Skybreaker.
 
 ### Society and Customs
 >“*That bastion of culture and fashion! Are you going shopping in Bavland next?*”
-\-Havar making fun of Bashin's Purelaker hat[26]
+\-Havar making fun of Bashin's Purelaker hat[30]
 
 
 Purelakers speak [[Selay\|Selay]], which is in the same language group as the languages of [[Iri\|Iri]], the [[Reshi\|Reshi]] Islands, and other northwestern parts of Roshar. The Purelake dialect is heavily influenced by the inhabitants' way of life and their religious beliefs, with many sayings relating to the weather, the lake, or their gods.

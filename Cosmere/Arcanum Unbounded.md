@@ -4,7 +4,8 @@
 |**Setting**|[[Cosmere\|Cosmere]]|
 |**Released**|November 22, 2016|
 
-***Arcanum Unbounded*** is a collection of [[Cosmere\|cosmere]] short fiction released on November 22, 2016. In addition to seven previously published pieces of short fiction, this collection includes the all-new novella [[Edgedancer (novella)\|Edgedancer]] set on [[Roshar\|Roshar]]. A leatherbound edition is planned which will contain a [[Nalthis\|Nalthis]] essay.
+***Arcanum Unbounded*** is a collection of [[Cosmere\|cosmere]] short fiction released on November 22, 2016. In addition to seven previously published pieces of short fiction, this collection includes the all-new novella *[[Edgedancer (novella)\|Edgedancer]]* set on [[Roshar\|Roshar]], short essays regarding various planetary systems, and new artwork. 
+A leatherbound edition is planned; it was originally intended to contain an essay about [[Nalthis\|Nalthis]], but the essay could instead be released as a standalone or in a future anthology.
 
 ## Contents
 
@@ -25,8 +26,8 @@
 
 ## Contents
 For summaries of the essays, see [[Arcanum Unbounded/Summary\|/Summary]].
-Arcanum Unbounded includes all the shorter cosmere stories that Brandon has released so far.
-It also includes a star map of the [[Cosmere\|cosmere]], essays by Khriss and planetary charts for each planetary system featured, and new illustrations for each story included.
+*Arcanum Unbounded* includes all the shorter cosmere stories that Brandon has released so far.
+It also includes a star map of the cosmere, essays written by [[Khriss\|Khriss]] and planetary charts for each planetary system featured, and new illustrations for each story included. Although a Nalthis essay has not been released, a chart of the [[Nalthian system\|Nalthian system]] was made public in 2019.
 
 ### The Selish System
 

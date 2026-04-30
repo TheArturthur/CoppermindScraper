@@ -58,6 +58,7 @@ Across the ocean, an untried young woman named Shallan seeks to train under the 
 
 ## Summary
 For a chapter by chapter summary, see [[The Way of Kings/Summary\|/Summary]].
+For an index of chapter breaks in various editions, see [[The Way of Kings/Chapter index\|/Chapter index]].
 The book is set on [[Roshar\|Roshar]] and follows the stories of [[Kaladin\|Kaladin]], [[Dalinar Kholin\|Dalinar Kholin]], and [[Shallan Davar\|Shallan Davar]]. There are also several minor characters who receive viewpoints; [[Szeth\|Szeth]], [[Adolin Kholin\|Adolin Kholin]], [[Wit\|Wit]], and [[Navani Kholin\|Navani Kholin]] in the main text, and several others in the Interludes.
 
 ### Kaladin
@@ -102,6 +103,8 @@ For a gallery of the book's interior art, see [[The Way of Kings/Interior art\|/
 |**فارسی**|*طریق شاهان*|
 |**עִבְֿרִית**|*דרך המלכים*|
 |**العربية**|*نهج الملوك*|
+|**繁體中文**|王者之路|
+|**简体中文**|王者之路|
 |**日本語**|白き暗殺者 (The White Assassin)|
 |死を呼ぶ嵐 (The Storm that Summons Death)|
 |自由への懸け橋 (Bridge to Freedom)|

@@ -82,8 +82,8 @@ This article is still missing information. Please help The Coppermind by .
 |**Arts**|[[Allomancy\|Allomancy]] · [[Feruchemy\|Feruchemy]] · [[Hemalurgy\|Hemalurgy]]|
 |**Concepts**|[[Metalborn\|Metalborn]] · [[Snapping\|Snapping]] · [[Savant\|Savants]] · [[Metalmind\|Metalminds]] · [[Twinborn\|Twinborn]] · [[Compounding\|Compounding]] · [[Blessing\|Blessings]]|
 |**Constructs**|[[Steel Inquisitor\|Steel Inquisitors]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Hemalurgic chimera\|Chimeras]]|
-|**Base Metals**|[[Iron\|Iron]] · [[Steel\|Steel]] · [[Tin\|Tin]] · [[Pewter\|Pewter]] · [[Zinc\|Zinc]] · [[Brass\|Brass]] · [[Copper\|Copper]] · [[Bronze\|Bronze]] · [[Cadmium\|Cadmium]] · [[Bendalloy\|Bendalloy]] · [[Gold\|Gold]] · [[Electrum\|Electrum]] · [[Chromium\|Chromium]] · [[Nicrosil\|Nicrosil]] · [[Aluminum\|Aluminum]] · [[Duralumin\|Duralumin]]|
-|**God Metals**| ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Ettmetal\|Ettmetal]] · [[Trellium\|Trellium]]|
+|**Base Metals**|[[Iron\|Iron]] · [[Steel\|Steel]] · [[Tin\|Tin]] · [[Pewter\|Pewter]] · [[Zinc\|Zinc]] · [[Brass\|Brass]] · [[Copper\|Copper]] · [[Bronze\|Bronze]] ·  [[Cadmium\|Cadmium]] · [[Bendalloy\|Bendalloy]] · [[Gold\|Gold]] · [[Electrum\|Electrum]] · [[Chromium\|Chromium]] · [[Nicrosil\|Nicrosil]] · [[Aluminum\|Aluminum]] · [[Duralumin\|Duralumin]]|
+|**God Metals**| ([[Malatium\|Malatium]]) · [[Lerasium\|Lerasium]] · [[Harmonium\|Harmonium]] · [[Trellium\|Trellium]]|
 
 |**[[Mistborn (series)\|Mistborn]] ([[Scadrial\|Scadrial]])**|
 |-|-|
@@ -92,7 +92,10 @@ This article is still missing information. Please help The Coppermind by .
 |**[[Shard\|Shards]]**|[[Preservation\|Preservation]] · [[Ruin\|Ruin]] · [[Harmony\|Harmony]]|
 |**History**|[[Classical Scadrial\|Classical Scadrial]] · [[Final Empire\|Final Empire]] · [[Catacendre\|Catacendre]] · [[Elendel\|Elendel]] · [[Southern Scadrian\|Southern Scadrian]]|
 |**Magic**|[[Metallic Arts\|Metallic Arts]] ([[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], [[Hemalurgy\|Hemalurgy]]) · [[Metalborn\|Metalborn]] · [[/wiki/Allomancy#Mistborn]] · [[Misting\|Misting]] · [[Savant\|Savant]] · [[Ferring\|Ferring]] · [[Twinborn\|Twinborn]] · [[Compounding\|Compounding]] ·  · [[Lerasium\|Lerasium]] · [[Harmonium\|Harmonium]] · [[Trellium\|Trellium]]|
-|**Other Media**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: Birthright · [[Mistborn film\|Mistborn film]] · Mistborn: House War|
+|**Other Media**|[[Mistborn Adventure Game\|Mistborn Adventure Game‎‎]] · Mistborn: House War · Mistborn: The Deckbuilding Game · Mistborn: Birthright · [[Mistborn film\|Mistborn film]]|
+
+
+
 
 
 

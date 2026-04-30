@@ -6,10 +6,10 @@
 As [[Gavilar Kholin\|Gavilar Kholin]]--a prominent [[Sons of Honor\|Son of Honor]]--lay dying, he told [[Szeth\|Szeth]] to "tell Thaidakar he was too late."
 When [[Kaladin\|Kaladin]] killed [[Helaran Davar\|Helaran Davar]] in [[Meridas Amaram\|Meridas Amaram's]] army, Amaram--another Son of Honor--thought Thaidakar and the [[Ghostbloods\|Ghostbloods]] were behind the attack, saying the Ghostbloods were growing more bold.
 Prior to the [[Battle of Narak\|Battle of Narak]], [[Shallan Davar\|Shallan Davar]] brought [[Mraize\|Mraize]] pages that transcribed text from Amaram's room discussing the [[Voidbringer\|Voidbringers]] and the [[Shattered Plains\|Shattered Plains]]. Then, Shallan overheard Mraize saying that they should bring these pages to Master Thaidakar, and that [[Restares\|Restares']] cronies--the Sons of Honor--were also growing close to the answers of the Shattered Plains.
-[[Ialai\|Ialai's]] notebook mentioned that, like "Mraize", it seemed to be a title rather than a name.
+[[Ialai\|Ialai's]] notebook mentioned that, like "Mraize", Thaidakar seemed to be a title rather than a name.
 
 ## Spoiler Warning
-The following link contains **major spoilers for *[[Rhythm of War\|Rhythm of War]]* and other cosmere works**. Please be very sure you have either read everything or are happy to be spoiled on some major points of the story.
+The following link contains **major spoilers for other cosmere works**. Please be very sure you have either read everything or are happy to be spoiled on some major points of the story.
 
 [[Kelsier\|SPOILERS AHEAD]]
 

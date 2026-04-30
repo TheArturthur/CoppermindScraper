@@ -5,7 +5,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 A **lighteyes** is a person with lightly colored, bright eyes, such as blue, green, yellow, light grey, or violet. In the [[Vorin\|Vorin]] kingdoms of [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], and [[Kharbranth\|Kharbranth]], they form the nobility, ruling over the [[Darkeyes\|darkeyes]]. Lighteyes are ranked in ten different levels, in accordance with the dahn caste system.
 
@@ -41,7 +41,7 @@ A **lighteyes** is a person with lightly colored, bright eyes, such as blue, gre
 
 
 ## Overview
-According to the [[Vorin\|Vorin]] religion, all lighteyes are born to rule and are superior to the [[Darkeyes\|darkeyes]], leading to a class system based on eye color.
+According to the [[Vorin\|Vorin]] religion, all lighteyes are born to rule and are superior to the [[Darkeyes\|darkeyes]], leading to a class system based on eye color. 
 The defining characteristic of a lighteyes is not merely the actual color of their eyes, but that they have a light and distinguishable color. For example, although grey is not normally considered a bright color, having light grey eyes qualifies one as a lighteyes. Conversely, although green is normally seen as a light color, having deep, dark green eyes that look muddled and is hard to distinguish from brown or black in average light would qualify one as a [[Darkeyes\|darkeyes]].
 A male lighteyes of notable rank is addressed by the title Brightlord. Similarly, Brightlady is used to address high-ranking females, although the more common term of address is Brightness. Brightness can be used to address a lighteyed lady of any rank.
 Sometimes when important lighteyes die, their corpses are Soulcast into stone or metal statues. This practice sometimes extends to wealthy [[Darkeyes\|darkeyes]] as well, but darkeyes corpses are typically burned instead. Conversely, the method of final disposition of the corpses of lighteyes of lower dahn is unknown. This practice is observed in both [[Alethkar\|Alethkar]] and [[Jah Keved\|Jah Keved]], despite the rarity of Soulcasters even in nations as powerful as Jah Keved, and likely extends to other Vorin nations.
@@ -78,9 +78,9 @@ Anything italicized is speculated .
 The position of *Citylord*, may span multiple dahn, including fourth, fifth, and sixth. The dahn of the appointed citylord may be based on the size and significance of a settlement.
 
 ### General Dahn Information
-Dahn is the caste system for lighteyes. Its counterpart for [[Darkeyes\|darkeyes]] is the [[Nahn\|nahn]] system.
+Dahn is the caste system for lighteyes. Its counterpart for [[Darkeyes\|darkeyes]] is the [[Nahn\|nahn]] system. 
 Since lighteyes are nobility in the Vorin kingdoms, the dahn system is superior to the nahn system. Holding even the tenth and lowest dahn socially outranks the highest level of [[Nahn\|nahn]]. However, there are situations in which practical reality makes the social standing between two persons less relevant or even reversed. For an extreme example, after [[Kaladin\|Kaladin]], a darkeyes, was promoted to captain, he was socially outranked by many lighteyed soldiers, yet still possessed higher military rank and authority than them. A worker, such as a carriage driver, would treat a wealthy darkeyes as any other master, since their wages would be paid by the darkeyed passenger.
-Within the dahn system itself, there are ten different levels ranging from one to ten, with one being the highest and ten being the lowest. The highest levels of dahn implies immense power and authority while those at the lowest level of dahn are merely ordinary people.
+Within the dahn system itself, there are ten different levels ranging from one to ten, with one being the highest and ten being the lowest. The highest levels of dahn implies immense power and authority while those at the lowest level of dahn are merely ordinary people. 
 The first dahn consists of the king. During the period when Alethkar was a powerful nation but not unified, the ten ruling highprinces were only second dahn. Rulers of smaller nations like Kharbranth, Bavland or Silnasen would accept the role of second dahn to avoid antagonizing the Alethi, though the rulers of Jah Keved and Thaylen had enough clout to consider their rulers to be first dahn, and a nation like Herdaz wouldn't generally care if they upset the Alethi. The second dahn contains the highprinces. The third dahn is made up, at least in part, of the non-heir children of the king, the non-heir children of highprinces, and highlords. The fourth dahn includes lighteyes who hold the position of battalionlord in the army; battalionlords command a full battalion of a thousand men. The seventh dahn includes lower ranking officers in the army who are landless and attached to a more powerful officer's retinue.
 People in the tenth and lowest level of dahn are colloquially known as "tenners" and are looked down upon as being barely above darkeyes. Unlike high dahn lighteyes—who might make a living from their landed estates or by ruling over other men—or even high nahn darkeyes—who might be merchants or master craftsmen—tenners have to actually work for a living.
 
@@ -90,7 +90,7 @@ One can raise his dahn through two other, much more rare, methods. The first is 
 A person can also be demoted in dahn if they perform poorly in a given role. In particular, if an [[Ardent\|ardent]] leaves the ardentia, he will be demoted to the tenth dahn.
 
 ### Inheritance of dahn
-The dahn of a lighteyed child is influenced by the dahn that his parents hold. Generally, the child's dahn will be equivalent to the highest dahn that either of his parents hold. For example, a child from a union of a fifth dahn husband and sixth dahn wife would be fifth dahn.
+The dahn of a lighteyed child is influenced by the dahn that his parents hold. Generally, the child's dahn will be equivalent to the highest dahn that either of his parents hold. For example, a child from a union of a fifth dahn husband and sixth dahn wife would be fifth dahn. 
 However, special rules apply to those of very high dahn or who hold certain special positions. In such a circumstance, the heir apparent will receive the highest parent's dahn and eventually succeed the parent's position while the non-heir children will slip one or two ranks down until they reach a "stable rank." A stable rank is one in which the child will always inherit the rank of their parent; the third dahn is a stable rank, while the first and second are not.
 
 ## Notable lighteyes

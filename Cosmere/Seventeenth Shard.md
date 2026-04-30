@@ -3,6 +3,8 @@
 |**Headquarters**|In [[Silverlight\|Silverlight]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 This page is about the group of worldhoppers. For the official [[Brandon Sanderson\|Brandon Sanderson]] fansite, see [[17thshard.com\|17thshard.com]].
 >“*I am being chased. Your friends of the Seventeenth Shard, I suspect. I believe they're still lost, following a false trail I left for them. They'll be happier that way. I doubt they have any inkling what to do with me should they actually catch me.*”
 \-The Letter[2]
@@ -15,7 +17,7 @@ The **Seventeenth Shard** is a mysterious organization that is speculated to be 
 1 Beliefs and Objectives. [[#Beliefs and Objectives]] 
 2 History. [[#History]] 
 
-2. [[#Roshar]] 
+2. [[#Searching for Hoid on Roshar]] 
 
 
 3 Relationships. [[#Relationships]] 
@@ -28,13 +30,10 @@ The **Seventeenth Shard** is a mysterious organization that is speculated to be 
 Its members have a non-interventionist philosophy, believing that the Shards were split up for a reason and that people shouldn't dabble in mixing them. The organization's name was very deliberately chosen. They watch the planets of the cosmere but do not approve of getting involved with or assimilating into another planet's society. They believe interfering will merely exacerbate the conflicts between the Shards. While they have goals beyond chasing down [[Hoid\|Hoid]], those goals are not yet known.
 
 ## History
-### Roshar
-Despite their non-interventionist policy, members of the Seventeenth Shard accidentally brought the common cold to Roshar.
-In the Rosharan year 1173, [[Ishikk\|Ishikk]] the [[Purelake\|Purelaker]] was acting as a guide and informant to three members of the Seventeenth Shard who were looking for [[Hoid\|Hoid]]. Ishikk does not know they are [[Worldhoppers\|worldhoppers]] or even their names, though he nicknames them *Grump*, *Thinker*, and *Blunt*. By 1175, the group had given up on finding Hoid and had left [[Roshar\|Roshar]].
+### Searching for Hoid on Roshar
+Despite their non-interventionist policy, members of the Seventeenth Shard accidentally brought the common cold to [[Roshar\|Roshar]].
+In the Rosharan year 1173, [[Ishikk\|Ishikk]] the [[Purelake\|Purelaker]] was acting as a guide and informant to three members of the Seventeenth Shard who were looking for [[Hoid\|Hoid]]. Ishikk does not know they are [[Worldhoppers\|worldhoppers]] or even their names, though he nicknames them *[[Galladon\|Grump]]*, *[[Demoux\|Thinker]]*, and *[[Baon\|Blunt]]*. By 1175, the group had given up on finding Hoid and had left Roshar. Within the same year, the three returned to Roshar and traveled to [[Iri\|Iri]] shortly before the Fifth Journey. They collected a letter from Hoid and the three decided to leave the planet again.
 
-Grump has the distinct linguistic pattern of [[Dula\|Dulas]] from [[Sel\|Sel]] and is the [[Elantrian\|Elantrian]] [[Galladon\|Galladon]].
-Thinker has a scar across his scalp and is [[Demoux\|Demoux]] from [[Scadrial\|Scadrial]].
-Blunt is [[Baon\|Baon]] from [[Taldain\|Taldain]].
 ## Relationships
 
 ## Known Members

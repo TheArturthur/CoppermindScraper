@@ -4,7 +4,7 @@
 |**Family**|
 |**Siblings**|[[Llarimar\|Llarimar]]|
 |**Relatives**|[[Tatara\|Tatara]]|
-|**Died**|Sacrificed his [[Divine Breath\|divine Breath]] to heal [[Susebron\|Susebron]]|
+|**Died**|Drowned, Sacrificed his [[Divine Breath\|divine Breath]] to heal [[Susebron\|Susebron]]|
 |**Abilities**|[[Returned\|Returned]], [[Cognitive Shadow\|Cognitive Shadow]]|
 |**Titles**|Lightsong the Bold, Lord of Heroes, Lightsong the Brave, God of Bravery|
 |**Aliases**|Stennimar|
@@ -72,7 +72,7 @@ He is also very skilled at the game of [[Tarachin\|tarachin]], even though he ha
 Before being Returned, Lightsong was an accountant named **Stennimar** who was often employed to discover fraud or embezzlement by looking through ledgers to find discrepancies. Stennimar and his niece [[Tatara\|Tatara]] would often go sailing as it was a hobby of his brother, Llarimar. During one of the excursions, they borrowed the boat *[[Red Panther\|Red Panther]]* and set sail, and encountered a terrible storm. In the chaos, a massive wave swept Tatara overboard and into the raging waters. Stennimar leaped into the ocean and managed to tie her to a rope despite barely knowing how to swim. While he managed to save Tatara's life, Stennimar was unable to save his own life and drowned in the depths. After his death, [[Endowment\|Endowment]] granted Stennimar a vision of war and destruction. He was offered a choice to Return and prevent this from happening, which he took. His Return restored the faith of his older brother, [[Llarimar\|Llarimar]], who became Lightsong's high priest.
 
 ### After Returning
-  taking his weekly <<Breath\|Breath>> from a child in order to continue living.
+  Taking his weekly <<Breath\|Breath>> from a child in order to continue living.
 >“*I've spent most of my Returned life just lounging about, but then the moment someone is killed, I leap out of bed and can't resist poking around. Doesn't that sound suspicious to you?*”
 \-Lightsong[11]
 
@@ -80,6 +80,8 @@ Before being Returned, Lightsong was an accountant named **Stennimar** who was o
 Lightsong's attitude at the time of his returning was one of indolence. After meeting Calmseer and starting a relationship of mutual respect turned physical with her, he gains a drive to become the god everyone expected him to be and gives up his lazy ways. This backfires when he fails miserably, leaving his followers dissatisfied and the other gods mocking him for being a hypocrite. He blames his failure on the other gods who would not take his new attitude seriously, and reverts back to his languorous ways with a newly sharpened wit which he let loose with as much vengeance as he could muster. Nobody was offended by his verbal jabs, and instead took it as natural that he act in such a way; and so he perpetuated this attitude.
 At the time of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]] Lightsong had been Returned for five years, and was one of the younger divinities in the [[Court of Gods\|Court of Gods]]. As the God of Bravery, he held the commands to control ten thousand [[Lifeless\|Lifeless]] warriors in the Hallandren army.
 As the potential war with Idris drew closer, Lightsong found himself to be in a position of responsibility, one that he did not desire. [[Blushweaver\|Blushweaver]] was attempting to consolidate control of Hallandren's Lifeless armies under her command, and was actively trying to recruit Lightsong to her side. Throughout this time, Lightsong was having dreams of destruction and the capital city of T'Telir burning.
+
+  The Prophecy of the Fallen City.
 As Lightsong attempted to distract himself from his visions, a murder of one of [[Mercystar\|Mercystar's]] servants caught his attention. Lightsong was surprised to find himself interested in the murder, and to discover that he was actually good at investigation. Believing himself to be a detective or constable in his previous life, Lightsong made an effort to begin discovering more about himself and his past.
 
  
@@ -94,10 +96,10 @@ When the Pahn Kahl prepared to execute [[Susebron\|Susebron]], Lightsong remembe
 ## Relationships
   With Llarimar
 ### Llarimar
-Lightsong's high priest, Llarimar was also Lightsong's older brother, although Lightsong forgot that fact when he Returned. Llarimar maintains a calm persona, even when confronted with Lightsong's foolish behavior, such as calling him "Scoot." A true believer, Llarimar even educates Lightsong on his own religion and offers encouragement when Lightsong is feeling despondent.
+Lightsong's high priest, Llarimar was also Lightsong's older brother, although Lightsong forgot that fact when he Returned. Llarimar maintains a calm persona, even when confronted with Lightsong's indolent behavior, such as calling him "Scoot." A true believer, Llarimar even educates Lightsong on his own religion and offers encouragement when Lightsong is feeling despondent.
 
 ### Calmseer
-In his early Returned life, Lightsong had a close relationship with [[Calmseer\|Calmseer]], with whom he was rumoured to have slept. Lightsong regards some of the Gods of this period, including Calmseer and [[Brighthue\|Brighthue]], as very honorable; he remembers them with reverence, saying they are far better and greater than the later Gods.
+In his early Returned life, Lightsong had a close relationship with [[Calmseer\|Calmseer]], with whom he had slept with. Lightsong regards some of the Gods of this period, including Calmseer and [[Brighthue\|Brighthue]], as very honorable; he remembers them with reverence, saying they are far better and greater than the later Gods.
 
 ### Blushweaver
 His most notable relationship at the time of the Pahn Kahl rebellion is with [[Blushweaver\|Blushweaver]], who is in love with him. Whilst their conversations are highly flirtatious, their relationship never becomes physical in nature, despite Blushweaver's attempts. Even though Lightsong admires and cares for Blushweaver, he opposes her desire for war with Idris.

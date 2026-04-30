@@ -3,7 +3,7 @@
 ||
 |**[[House Davar\|House Davar]]**|
 |**Spouse**|[[Eylita\|Eylita]]|
-|**Parents**|[[Lin Davar\|Lin]], [[Shallan's mother\|Mother]]|
+|**Parents**|[[Lin Davar\|Lin]], [[Chanarach\|Chanarach]]|
 |**Siblings**|[[Helaran\|Helaran]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
 |**Born**|1150|
 |**Profession**|Guardsman|
@@ -12,6 +12,8 @@
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
+
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Am I a coward, Scrak?*”
 \-Balat to his axehound[2]
@@ -44,7 +46,7 @@
 
 ## Appearance and Personality
  
-Balat is a twenty-four years old man as of 1174. He has a round face, dark hair, and a haunted look. He is the tallest among his surviving siblings. Balat walks with a cane and suffers from pain in his bad leg from an injury caused by his [[Lin Davar\|father]] smashing his leg with a poker.
+Balat is a twenty-four year old man as of 1174. He has a round face, dark hair, and a haunted look. He is the tallest among his surviving siblings. Balat walks with a cane and suffers from pain in his bad leg from an injury caused by his [[Lin Davar\|father]] smashing his leg with a poker.
 It is implied that as a boy, Balat liked starting fires, one of which almost burned down the servants' building. He also had a habit of cruelty towards animals. As an adult, he still likes killing animals, though never people; the pain of whatever he kills seems to lessen his own pain. He does so cruelly, for example ripping the legs off of a [[Cremling\|cremling]] one by one. This interest in death is magically enhanced.
 He is close to and fond of [[Scrak\|Scrak]], his pet axehound. However Scrak is nowhere to be seen with him after he fled [[Jah Keved\|Jah Keved]] with his family.
 Balat believes that [[House Davar\|House Davar]] is deeply damaged and a "family of cripples" as a result of the death of his [[Shallan's mother\|mother]] and the following events. He sees himself as the only one who is normal and unscathed by these events.

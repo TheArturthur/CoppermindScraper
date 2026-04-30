@@ -34,7 +34,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 
 |**[[Mistborn Era 1\|Mistborn Era 1]]**|
 |-|-|
-|**Characters**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Spook\|Spook]] · [[Edgard Ladrian\|Breeze]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|The Lord Ruler]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
+|**Characters**|[[Vin\|Vin]] · [[Kelsier\|Kelsier]] · [[Sazed\|Sazed]] · [[Elend Venture\|Elend Venture]] · [[Marsh\|Marsh]] · [[Spook\|Spook]] ·  [[Edgard Ladrian\|Breeze]] · [[Ham\|Ham]] · [[Clubs\|Clubs]] · [[Dockson\|Dockson]] · [[Straff Venture\|Straff Venture]] · [[Zane Venture\|Zane]] · [[Ashweather Cett\|Ashweather Cett]] · [[Tindwyl\|Tindwyl]] · [[Allrianne Cett\|Allrianne Cett]] · [[TenSoon\|TenSoon]] · [[Aradan Yomen\|Yomen]] · [[Quellion\|Quellion]] · [[Rashek\|The Lord Ruler]] · [[Alendi\|Alendi]] · [[Kwaan\|Kwaan]]|
 |**Places**|[[Final Empire\|Final Empire]] · [[Dominance\|The Dominances]] · [[Luthadel\|Luthadel]] · [[Kredik Shaw\|Kredik Shaw]] · [[Pits of Hathsin\|Pits of Hathsin]] · [[Kandra Homeland\|Kandra Homeland]] · [[Urteau\|Urteau]] · [[Fadrex City\|Fadrex City]] · [[Tathingdwen\|Tathingdwen]]|
 |**Ethnicities and Species**|[[Skaa\|Skaa]] · [[Noble\|Nobles]] · [[Terris\|Terrismen]] · [[Inquisitor\|Inquisitors]] · [[Koloss\|Koloss]] · [[Kandra\|Kandra]] · [[Mistwraith\|Mistwraiths]] · [[Southern Scadrian\|Southern Scadrians]]|
 |**Organizations**|[[Skaa rebellion\|Skaa rebellion]] · [[Steel Ministry\|Steel Ministry]] · [[Keeper\|Keepers]] (the [[Synod\|Synod]]) · [[Worldbringers\|Worldbringers]]|
@@ -53,8 +53,9 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 |**2022**|*[[The Lost Metal\|The Lost Metal]]*|#4|Novel|348 [[Catacendre\|PC]]|||
 |**2014**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|N/A|Short Story|341 [[Catacendre\|PC]]|Released in the [[Alloy of Law (rule book)\|Alloy of Law supplement]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*||
 
-*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
-Brandon has also said that he may do some more stories before the second trilogy, set in a 1940's society.
+*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
+[[Isaac Stewart\|Isaac Stewart]] is writing [[Book of Nails\|Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage\|Nicelle Sauvage's]] sensationalized stories in the Era 2 broadsheets.
+Brandon has also said that he may do some more stories before Era 3, set in a 1940's society.
 
 
 |**[[Mistborn Era 2\|Mistborn Era 2]]**|
@@ -68,16 +69,16 @@ Brandon has also said that he may do some more stories before the second trilogy
 
 
 ## Era 3: Ghostbloods Trilogy
-**Mistborn: Ghostbloods**, the third trilogy, will be set in the early computer age with 1980s technology. The main character is planned as a Terris woman who is a computer programmer and [[Nicrosil\|Nicroburst]]; her brother is also planned to be a character. Peter has described her as a "brown Terris geek girl", though he does point out that this could change by the time the series is actually being written. Brandon backs up this description, and describes it as a sort of "how nerd culture works on Scadrial." Brandon had initially planned for the trilogy to feature an Allomancer SWAT team, with a team of allomancers hired to take out a serial killer, but is now leaning more towards a spy thriller. It will probably be released in the 2020s, after *[[Stormlight 5\|Stormlight 5]]* and the *[[Elantris (book)\|Elantris]]* sequels.
+**Mistborn: Ghostbloods**, the third trilogy, will be set in the early computer age with 1980s technology. The main character is planned as a Terris woman who is a computer programmer and [[Nicrosil\|Nicroburst]]; her brother is also planned to be a character. [[Peter Ahlstrom\|Peter]] has described her as a "brown Terris geek girl", though he does point out that this could change by the time the series is actually being written. Brandon backs up this description, and describes it as a sort of "how nerd culture works on Scadrial." Brandon had initially planned for the trilogy to feature an Allomancer SWAT team, with a team of Allomancers hired to take out a serial killer, but is now leaning more towards a spy thriller. It is planned to be released in the late 2020s.
 He will be writing it in a similar manner to the first trilogy, writing all three books before publishing so that he could properly foreshadow and edit past books. He is greatly looking forward to writing book ten. These will be returning to the length of the Mistborn Era One books.
-It is planned for these books to include a global map of Scadrial. There are short comic books that are planned to be interspersed in them, similar to the broadsheets in Era Two. There are going to be allomancy-involved sports, and various characters are planned to be [[Twinborn\|Twinborn]] with "really neat combinations." It is planned to take place fifty to seventy years after Era Two, by which time the [[Southern Scadrian\|Southern Scadrians]] will be well-known to the rest of Scadrial. It will put more focus upon [[Kelsier\|Kelsier]] and [[Trell (Trellism)\| Trell]]. [[MeLaan\|MeLaan]] is also expected to play a role.
+It is planned for these books to include a global map of Scadrial. There are short comic books that are planned to be interspersed in them, similar to the broadsheets in Era Two. There are going to be Allomancy-involved sports, and various characters are planned to be [[Twinborn\|Twinborn]] with "really neat combinations." It is planned to take place fifty to seventy years after Era Two, by which time the [[Southern Scadrian\|Southern Scadrians]] will be well-known to the rest of Scadrial. It will put more focus upon [[Kelsier\|Kelsier]] and [[Trell (Trellism)\| Trell]]. [[MeLaan\|MeLaan]] is also expected to play a role.
 
 ## Possible Cyberpunk Mistborn Trilogy
 Brandon has interest in writing a "Cyberpunk" Mistborn trilogy between Eras Three and Four. Whether he writes it depends on how Era Three plays out and if he feels he has enough time to write more books before he gets too old. The books would be similar in length to Era Two (around 100,000 words) and be written around the same time as the second half of the Stormlight Archive. This trilogy would become Era Four and push space age Mistborn to Era Five and put Mistborn up to a fitting sixteen books. If a whole trilogy isn’t feasible he wants to at least write a novella. Nothing about the characters or plot are known but Brandon wants to play with unsealed metalminds as cyberpunk-esque “metallurgic wetware”. As of 2024, he feels committed to the idea of writing the trilogy, but doesn't promise it with certainty.
 
 
 ## Era 4: Fourth Mistborn Trilogy
-The fourth trilogy is going to be a space-opera with [[Allomancy\|Allomancy]]-powered faster-than-light technology. [[Hoid\|Hoid]] will be a main character in this trilogy. The [[Sleepless\|Sleepless]], or Dysian Aimians, will also have a major role in this trilogy. The Iriali are also planned to have a major role.
+The fourth trilogy is planned to be a space-opera with [[Allomancy\|Allomancy]]-powered faster-than-light technology. [[Hoid\|Hoid]] is to be a main character in this trilogy. The [[Sleepless\|Sleepless]], or Dysian Aimians, are planned to have a major role in this trilogy. The [[Iriali\|Iriali]] are also planned to have a major role.
 There may be two more currently untitled cosmere series written before this trilogy.
 He plans for each Era 4 book to be around the length of a Stormlight book.
 
@@ -86,6 +87,7 @@ He plans for each Era 4 book to be around the length of a Stormlight book.
 Mistborn: Birthright - cancelled video game
 [[Mistborn film\|Mistborn film]] - various incarnations of a movie deal
 Mistborn: House War - board game by [[Crafty Games\|Crafty Games]]
+Mistborn: The Deckbuilding Game - board game by [[Brotherwise Games\|Brotherwise Games]]
 ## Cover Galleries
 
 *The Final Empire* · *[[The Well of Ascension/Covers\|The Well of Ascension]]* · *[[The Hero of Ages/Covers\|The Hero of Ages]]* · (*Mistborn: Secret History*)

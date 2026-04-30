@@ -1,13 +1,17 @@
 |**Yancey Yaceczko**|
 |-|-|
+|**Profession**|Senator|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
+>“*Good show indeed. It's always a pleasure.*”
+\-Yancey Yaceczko[1]
 
-**Yancey Yaceczko** is a member of the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]].
+
+**Yancey Yaceczko** is a member of the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]]. He is described as good-natured and patient.
+When [[Waxillium Ladrian\|Waxillium Ladrian]], a fellow senator, finishes his speech against the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]], he notes Yancey as one of the senators who'd actually been listening. Yancey then gives positive remarks to Wax, appreciating the show he put on.
 
 
 

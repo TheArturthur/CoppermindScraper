@@ -7,7 +7,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]* and *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **House Kholin** (/ˈχolɪnˈ/) is the ruling family of the kingdom of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. [[Kholin princedom\|Kholin princedom]] is their ancestral home, with [[Kholinar\|Kholinar]] being their capital city.
 
@@ -41,16 +41,16 @@ Like all Alethi princes, the Kholins are descended from the [[Sunmaker\|Sunmaker
 The title of the Kholin Highprince has been held by 34 generations.
 In an unknown year, Dalinar and Gavilar's father was born of a rather poor and insignificant branch of the Kholin family, and wasn't a prime contender for the highprince throne. At some point during his youth, he participated in some war
 In 1120, [[Dalinar Kholin\|Dalinar Kholin]] was born, [[Gavilar Kholin\| Gavilar]] was born to the same parents in an unknown year. Both were born into the 4th Dahn. Due to their father being left incapable of raising them due to head injuries sustained during combat, and their mother dying when they were children, the two brothers had to raise themselves.
-Despite having existed for many generations, the Kholin family did not begun their expansion until around roughly 1139, when Gavilar and Dalinar Kholin led a conquest against the other [[Highprince\|Highprinces]] of Alethkar, eventually consolidating the whole nation into a kingdom in the year 1148.
+Despite having existed for many generations, the Kholin family did not begin their expansion until around roughly 1139, when Gavilar and Dalinar Kholin led a conquest against the other [[Highprince\|Highprinces]] of Alethkar, eventually consolidating the whole nation into a kingdom in the year 1148.
 
 ### Unification War
-In 1141, Gavilar led an attack on Rathalas in order to bring it under their rule. During the siege, Dalinar slew [[Tanalan's father\| Brightlord Tanalan]], successfully conquering the city and bringing the shardblade [[Oathbringer (Shardblade)\| Oathbringer]] under Kholin ownership.
+In 1141, Gavilar led an attack on Rathalas in order to bring it under their rule. During the siege, Dalinar slew [[Tanalan's father\| Brightlord Tanalan]], successfully conquering the city and bringing the shardblade [[Oathbringer (Shardblade)\| Oathbringer]] under Kholin ownership. 
 A year into the war, House Kholin looked for allies, and found them in Toh and Evi, a western Brightlord and his sister. Evi married into the Kholin family in order to secure an alliance, though they would remain merely betrothed into several years later.
 Dalinar led an attack against [[Kalanor\| Brightlord Kalanor]] , one of Gavilar's major enemies, who he had been maneuvering politically with each other for the two years prior to the attack. After a period of attacking smaller cities in his territory in order to weaken his authority, Dalinar managed to defeat Kalanor, claim his shards, and brought his region of western Alethkar under Kholin rule.
 
 ### Rule of Alethkar
 Gavilar Kholin took the Alethi crown, and married [[Navani\|Navani]], siring [[Jasnah\|Jasnah]] in 1139, and [[Elhokar\|Elhokar]] in 1147; while Dalinar, had [[Adolin\|Adolin]] on Chachakach 1150 and [[Renarin\|Renarin]] in 1154 with Evi.
-Around the year 1150, Gavilar sent Dalinar to the borders of Alethkar in order to fight Herdazians and Vedens as a gesture of Kholin strength, and to defend the security of the border. This was further needed due to the increased aggression of Herdaz under their new monarch. This helped him to become one of Gavilar's best generals, and also shaping the modern Alethkar-Herdaz border.
+Around the year 1150, Gavilar sent Dalinar to the borders of Alethkar in order to fight Herdazians and Vedens as a gesture of Kholin strength, and to defend the security of the border. This was further needed due to the increased aggression of Herdaz under their new monarch. This helped him to become one of Gavilar's best generals, and also shaping the modern Alethkar-Herdaz border. 
 Around the year 1155, Dalinar Kholin led an attack against Akak and the Akak Reshi, and claimed the island for Alethkar.
 Starting in an unknown year, Jasnah renounced Vorinism and became an infamous heretic and academic across all of Alethkar. Gavilar attempted to get Jasnah to marry [[Meridas Amaram\|Meridas Amaram]] until his death, although this never came to be.
 Despite the Kholins gaining unquestionable control over Alethkar, the people of Rathalas continued to question their rule and rebel against them. Gavilar attempted to solve the issue diplomatically, but none of his attempts were able to quell the rebellion.
@@ -78,19 +78,21 @@ The [[Siege of Kholinar\|Siege of Kholinar]] claimed the life of Elhokar at the 
 After the [[Battle of Thaylen Field\|Battle of Thaylen Field]] Dalinar asked Adolin to be king, but as he did not believe himself to be capable, Jasnah was crowned queen instead.
 When [[Shallan Davar\|Shallan Davar]] becomes Jasnah's ward, in order to protect Shallan's family from their creditors and political adversaries, Jasnah orchestrates a causal betrothal between her ward and Adolin. This eventually culminated in their marriage after the battle of Thaylen Field, bringing together House Kholin and House Davar.
 Six months after the Battle of Thaylen Field, Jasnah and Dalinar met with Relu-na and his son Talik in order to create an alliance with the Reshi.
-Jasnah, Dalinar, and Renarin went to a military expedition in Emul against Tukar and the Voidbringers, in order to gain Emul as an ally. While Adolin and Shallan went to [[Lasting Integrity\|Lasting Integrity]] as a delegation to convince the Honorspren to once again start bonding to humans to create Windrunners. Upon arriving, they tried Adolin for the crimes of the Recreance.
+Jasnah, Dalinar, and Renarin went to a military expedition in Emul against Tukar and the Voidbringers, in order to gain Emul as an ally. While Adolin and Shallan went to [[Lasting Integrity\|Lasting Integrity]] as a delegation to convince the Honorspren to once again start bonding to humans to create Windrunners. Upon arriving, they tried Adolin for the crimes of the Recreance. 
 Dalinar negotiated with Odium, setting the conditions of the Contest of Champions based upon the document written by Jasnah and Wit, which would decide the fate of Roshar.
+On the day of the contest, [[Odium\|Odium]] revealed that Gavinor was his chosen champion. He had captured Gavinor in the Spiritual Realm and compressed time so that, across the day that he was there, he would experience around twenty years. Odium spent that time teaching him to hate Dalinar.
+During the contest, Dalinar took up Honor, but then renounced it, leaving it for Taravangian to pick up. He was then killed by Taravangian.
 
 ## Military
 House Kholin has access to a large and powerful military, during the War of Reckoning and before the Battle of Narak, they were primarily stationed at the Kholin Warcamp at the Shattered Plains. After the battle and the start of the True Desolation, most moved into Urithiru. Furthermore, following the stationing at Urithiru, Dalinar Kholin, in his position of Highprince of War, took full control of the armies of the other highprinces, in order to prevent any additional squabbles, this increased the size of the army under House Kholin to around 100,000.
 With their military might, they were capable of taking over the disunified Alethi provinces, bringing them together into a single unified Alethkar over years of conquest. [[General Khal\|General Khal]] is the highest ranking general in the Kholin Army. Dalinar often trusts him to lead his armies when he cannot. During the Invasion of Urithiru at least 18 000 troops wore Kholin colors, though most of them were out in the field.
 
 ### King's Guard
-The King's Guard are made up of soldiers specifically tasked with the protection of the incumbent king of Alethkar. They are administered directly by Dalinar Kholin. Their current state is unknown.
+The King's Guard are made up of soldiers specifically tasked with the protection of the incumbent king of Alethkar. They are administered directly by Dalinar Kholin. Their current state is unknown. 
 They wear uniforms of deep blue and gold.
 
 ### Cobalt Guard
-The Cobalt Guard are an honor guard of House Kholin, protecting members of the House.
+The Cobalt Guard are an honor guard of House Kholin, protecting members of the House. 
 
 Head of Cobalt Guard (Former) [[Niter\|Niter]]
 Head of Cobalt Guard (Former) [[Kaladin Stormblessed\|Kaladin Stormblessed]]
@@ -103,7 +105,7 @@ Head of Cobalt Guard (Current) [[Fisk\|Fisk]]
 
 
 ### Bridge Four
-[[Bridge Four\|Bridge Four]] was a former bridge crew that became Dalinar Kholin's honor guard, guarding the highprince and his family, and a military unit in the Kholin army. They are a very powerful and important part of the army, containing a large amount of Knight's Radiant and Squires, and being trusted with important tasks not entrusted to ordinary soldiers.
+[[Bridge Four\|Bridge Four]] was a former bridge crew that became Dalinar Kholin's honor guard, guarding the highprince and his family, and a military unit in the Kholin army. They are a very powerful and important part of the army, containing a large amount of Knight's Radiant and Squires, and being trusted with important tasks not entrusted to ordinary soldiers. 
 
 
 
@@ -146,44 +148,39 @@ Battalionlord [[Hadinar\|Hadinar]]
 
 ## Shards
 The Kholins have access to a very large amount of shardblades between their family and their military, numbering over thirty after the unification of the ten armies, not including the increase in numbers after the revival of the Knights Radiant.
-The Kholins themselves have access to eight known Shardblades, five of which being Dead Shardblades, and three of which are Radiant Shardblades.
+The Kholins themselves have access to nine known Shardblades, five of which being Dead Shardblades, and four of which are Radiant Shardblades.
 
-[[Oathbringer (Shardblade)\| Oathbringer]]
-[[Mayalaran\|Mayalaran]]
-[[Firestorm\|Firestorm]]
-[[Sunraiser\|Sunraiser]]
-[[Glys\|Glys]]
-[[Ivory\|Ivory]]
-[[Pattern\|Pattern]]
-Renarin's Unnamed Shardblade
+[[Oathbringer (Shardblade)\|Oathbringer]] 
+[[Mayalaran\|Mayalaran]] 
+[[Firestorm\|Firestorm]] 
+[[Sunraiser\|Sunraiser]] 
+[[Glys\|Glys]] 
+[[Ivory\|Ivory]] 
+[[Pattern\|Pattern]] 
+[[Testament\|Testament]] 
+Renarin's Unnamed Shardblade 
+In terms of Shardblades in their retinue, but not possessed by a member of the house. 
 
-In terms of Shardblades in their army, but not possessed by a member of the house.
+[[Sylphrena\|Sylphrena]] 
+[[Loremaker\|Loremaker]] 
+[[Nightblood\|Nightblood]] 
+[[General Khal\|General Khal's]] Shardblade 
+[[Teleb\|Teleb's]] Shardblade 
+Several other unnamed Shardblades 
+They also have access to multiple sets of Shardplate, all unnamed. 
 
-[[Sylphrena\|Sylphrena]]
-[[Phendorana\|Phendorana]]
-[[Rua\|Rua]]
-[[Caelinora\|Caelinora]]
-[[Loremaker\|Loremaker]]
-[[Nightblood\|Nightblood]]
-[[Vivenna's Blade\| Azure's Shardblade]]
-[[Laran\|Laran's]] Shardblade
-[[Lyn\|Lyn's]] Shardblade
-[[General Khal\| General Khal's]] Shardblade
-[[Teleb\|Teleb's]] Shardblade
-Several other unnamed Shardblades
-They also have access to multiple sets of Shardplate, all unnamed.
+Dalinar's unpainted set 
+Adolin's Kholin Blue set 
+Elhokar's gold set 
+Jasnah's set 
+Shallan's red set 
+In terms of Shardplate in their retinue, but not possessed by a member of the house.
 
-Dalinar's unpainted set
-Adolin's Kholin Blue set
-Elhokar's Gold Set
-Jasnah's set
-In terms of Shardplate in their army, but not possessed by a member of the house.
-
-Rust Elthal's Shardplate
-Serugiadis' Shardplate
-Teleb's Shardplate
-General Khal's Shardplate
-Kaladin's Shardplate
+Rust Elthal's Shardplate 
+Serugiadis' Shardplate 
+Teleb's Shardplate  
+General Khal's Shardplate 
+Kaladin's Shardplate 
 ## Iconography
 The Kholins are distinguished by the colors white and a deep shade of blue, often referred to as "Kholin blue." These are the official colors of the Kholin household which they use for their uniforms.
 Dalinar Kholin's crest takes the form of the words *khokh* and *linil* formed into the shape of a tower and a crown, respectively. This crest is emblazoned upon the armor, clothing, and banners of Dalinar's army and servants. The design was originally created by Dalinar’s mother.

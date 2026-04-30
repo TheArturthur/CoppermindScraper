@@ -2,7 +2,7 @@
 |-|-|
 |**Spouse**|[[Demoux\|Demoux]]|
 |**Abilities**|[[Worldhopper\|Worldhopper]]|
-|**Groups**|[[Seventeenth Shard\|Seventeenth Shard]]|
+|**Groups**|[[Seventeenth Shard\|Seventeenth Shard]], [[Originators\|Originators]]|
 |**Ethnicity**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -13,7 +13,7 @@ Aslydin fled her home when it was attacked by the [[Inquisitors\|Inquisitors]], 
 Aslydin falls in love with Demoux because of his honor, as well as the respect he earns from helping the Terris people during their time as refugees. [[Elend\|Elend]] notices her gazing fondly at Demoux when she brings the Emperor tea.
 
 ## Trivia
-Aslydin was created out of a promise [[Brandon Sanderson\|Brandon]] made to his friend, Micah DeMoux, that the character named after him would find romance.
+Aslydin was created out of a promise [[Brandon Sanderson\|Brandon]] made to his friend, Micah DeMoux, that the character named after him, [[Demoux\|Demoux]], would find romance.
 
 
 

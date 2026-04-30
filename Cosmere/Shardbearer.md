@@ -7,4 +7,7 @@ A list of all Shardbearers can be found here Category:Shardbearers
 
 
 
+
+
+
 https://coppermind.net/wiki/Shardbearer

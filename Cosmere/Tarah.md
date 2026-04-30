@@ -6,6 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Maybe someday you’ll learn how to be there for the living, not just for the dead.*”
 \-Tarah's last words to Kaladin[1]
 

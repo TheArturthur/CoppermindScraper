@@ -31,11 +31,11 @@ She climbs the wall, and when she reaches the top she finds a better world, lit 
 ## The Tellings
  
 Whilst exploring [[Urithiru\|Urithiru]], [[Shallan\|Shallan]] tells the tale as a play, using [[/wiki/Surgebinding#Illumination]] in an amphitheater to create an image of the scenes in the play and eventually emulating a shadowy crowd watching from the stalls. Shallan's narrative tells of a hopeful tale, with an unfortunate end.
-The story is then repeated by [[Hoid\|Hoid]] to Shallan while she is in [[Kholinar\|Kholinar]], after discovering her attempts at helping the native residents had failed. His version of the story includes details of what happened after the girl passed the wall.
+The story is then repeated by [[Hoid\|Hoid]] to Shallan while she is in [[Kholinar\|Kholinar]], after discovering her attempts at helping the native residents had failed. His version of the story includes details of what happened after the girl passed the wall. 
 
 ## Trivia
 Brandon based the story on the various versions of 
-For a while, Brandon and [[Isaac Stewart\|Isaac Stewart]] were planning on making a picture book based on the story, with Isaac's art. Due to creative differences with the potential publisher, the idea was temporarily shelved, although there are still plans to make a series of picture books based on [[Hoid\|Hoid's]] stories.
+For a while, Brandon and [[Isaac Stewart\|Isaac Stewart]] were planning on making a picture book based on the story, with Isaac's art. Due to creative differences with the potential publisher, the idea was temporarily shelved, although there are still plans to make a series of picture books based on [[Hoid\|Hoid's]] stories. At the 2025 FanX convention, it was announced that a crowdfunding campaign would launch in 2026 for a collection known as **.
 
 
 https://coppermind.net/wiki/The_Girl_Who_Looked_Up

@@ -8,10 +8,8 @@
 |**Properties**|Alter [[Spiritweb\|Spiritual DNA]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Lerasium** is a [[God Metal\|God Metal]]. A normal person burning lerasium becomes a [[Allomancy\|Mistborn]] of undiluted power. A Misting or Mistborn burning lerasium drastically increases their powers. [[Feruchemist\|Feruchemists]] can use lerasium to store an unknown quality, and when used as a [[Hemalurgic\|Hemalurgic]] spike, lerasium steals all abilities.
-Lerasium is notable as it is the condensed power of the [[Shard\|Shard]] [[Preservation\|Preservation]]. The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras\|Leras]], the name of the original holder of the Shard Preservation, just as the name [[Atium\|atium]] is inherited from [[Ati\|Ati]], the original holder of the Shard [[Ruin\|Ruin]]. Lerasium cannot be combined with atium to make [[Harmonium\|harmonium]], nor can harmonium be broken down into lerasium and atium by normal, mechanical means. However, lerasium and atium can be divided from harmonium through supernatural methods.
+Lerasium is notable as it is the condensed power of the [[Shard\|Shard]] [[Preservation\|Preservation]].  The only known source were beads found at the Well of Ascension. Presumably, the name "lerasium" is inherited from [[Leras\|Leras]], the name of the original holder of the Shard Preservation, just as the name [[Atium\|atium]] is inherited from [[Ati\|Ati]], the original holder of the Shard [[Ruin\|Ruin]]. Lerasium cannot be combined with atium to make [[Harmonium\|harmonium]], nor can harmonium be broken down into lerasium and atium by normal, mechanical means. However, lerasium and atium can be divided from harmonium through supernatural methods, such as a reaction with trellium.
 
 ## Contents
 
@@ -28,7 +26,7 @@ Lerasium is notable as it is the condensed power of the [[Shard\|Shard]] [[Prese
 
 
 ## Allomantic Use
-For normal people, burning lerasium forges a permanent [[Connection\|Connection]] between them and Preservation, turning them into very powerful Mistborn by rewriting their [[Spiritweb\|spiritual DNA]]. For people who are already Mistborn, the same effect increases their power. However, turning people into Mistborn is only a side effect of burning lerasium; if someone who knew how to use it correctly were to burn it, it would have a different, as of yet unknown, effect. Someone knowledgeable enough could use the rewrite of their spiritual DNA to achieve a different result than becoming a Mistborn. Burning [[Duralumin\|duralumin]] in conjunction with lerasium does not have any effect on the strength of the Mistborn created, but the size of the bead does affect the strength of the Mistborn created.
+For normal people, burning lerasium forges a permanent [[Connection\|Connection]] between them and Preservation, turning them into Mistborn by rewriting their [[Spiritweb\|spiritual DNA]]. For people who are already Mistborn, the same effect increases their power. However, turning people into Mistborn is only a side effect of burning lerasium; if someone who knew how to use it correctly were to burn it, it would have a different, as of yet unknown, effect. Someone knowledgeable enough could use the rewrite of their spiritual DNA to achieve a different result than becoming a Mistborn. Burning [[Duralumin\|duralumin]] in conjunction with lerasium does not have any effect on the strength of the Mistborn created, but the size of the bead does affect the strength of the Mistborn created.
 Alloys of lerasium have the side effect of turning those who burn them into [[Misting\|Mistings]] of the alloy used. Alloys of lerasium and other God Metals can make those who burn them gain the [[Investiture\|Investiture]] associated with the God Metal. The primary effects of lerasium alloys are also unknown.
 
 ### Savantism

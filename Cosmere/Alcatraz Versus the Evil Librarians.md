@@ -9,7 +9,7 @@
 |**Page Count**|287|
 |**Word Count**|[[Alcatraz Versus the Evil Librarians/Statistical analysis\|58,233]]|
 
-***Alcatraz Versus the Evil Librarians*** is a  novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first volume of the five-part series [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]]. It was originally published by  in October, 2007. After Brandon bought back the rights to the series, it was published by  on February 16, 2016.
+***Alcatraz Versus the Evil Librarians*** is a  novel by [[Brandon Sanderson\|Brandon Sanderson]]. It is the first volume of the five-part series [[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]].  It was originally published by  in October, 2007. After Brandon bought back the rights to the series, it was published by  on February 16, 2016.
 
 ## Contents
 
@@ -46,7 +46,7 @@ Alcatraz creates a distraction and rescues Grandpa, but Blackburn comes back, re
 
 ## Main Characters
  
-The plot of the book revolves around the title character and a small group of freedom fighters operating against the cult of evil Librarians that secretly rule the world. These freedom fighters include Alcatraz's grandfather, Leavenworth, usually just referred to as "Grandpa Smedry"; Bastille, Grandpa's bodyguard and a Crystin Knight; Sing Sing (Sing for short), Alcatraz's [[Mokia\|Mokian]] cousin; and Quentin, another cousin. The Librarians include Shasta Smedry/Ms. Fletcher, Alcatraz's case worker, who turns out to also be Alcatraz's mother, and Radrian Blackburn, a Dark Oculator.
+The plot of the book revolves around the title character and a small group of freedom fighters operating against the cult of evil Librarians that secretly rule the world.  These freedom fighters include Alcatraz's grandfather, Leavenworth, usually just referred to as "Grandpa Smedry"; Bastille, Grandpa's bodyguard and a Crystin Knight; Sing Sing (Sing for short), Alcatraz's [[Mokia\|Mokian]] cousin; and Quentin, another cousin.  The Librarians include Shasta Smedry/Ms. Fletcher, Alcatraz's case worker, who turns out to also be Alcatraz's mother, and Radrian Blackburn, a Dark Oculator.
 
 ## Setting
 ### Smedry Talents

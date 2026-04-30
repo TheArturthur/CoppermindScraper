@@ -8,7 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I find myself in awe of your ingenuity, and your stupidity, both at once.*”
 \-Wyndle to Lift[1]
@@ -44,7 +44,7 @@
 ## Appearance and Personality
  
 For more images, see [[Wyndle/Gallery\|/Gallery]].
->“*I’ll not have you hitting people with me.*”
+>“*I’ll not have you hitting people with me. *”
 \-Wyndle to Lift on Shardblades[5]
 
 

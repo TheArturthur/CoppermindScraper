@@ -1,6 +1,7 @@
 |**Runian**|
 |-|-|
-|**Aliases**|John West, Johnny, Runian Von-Internet of Cascadia|
+||
+|**Aliases**|John West, Johnny, Runian Von-Internet of Cascadia, John of Seattle|
 |**Profession**|Boxer , door guard , [[Skop\|skop's]] husband|
 |**Groups**|[[Fabian Augments\|Fabian Augments]] cartel|
 |**Homeworld**|[[Earth (Frugal Wizard)\|Earth (Frugal Wizard)]]|
@@ -39,9 +40,9 @@ He has artistic skills that are impressive by medieval standards, and he is good
 
 ## History
 ### Early Life
-In his childhood, he would often go fishing with a woman he called Grandmother Dobson, he still looks fondly upon those memories.
+In his childhood, he would often go fishing with a woman he called Grandmother [[Dobson\|Dobson]], he still looks fondly upon those memories.
 He joined art school, but he felt as if he could never compete with anyone else in the school, he dropped out. Following his dropping out, he tried to join the police with [[Ryan Chu\|Ryan Chu]], training as a forensic artist, but was eventually kicked out of that as well because "he didn't have the right attitude", as his teachers told him.
-Washed up and with nowhere to go, he joined Fabian Augments, but ultimately was just used as a door guard after his career as a boxer who played in rigged fights to earn his boss, [[Ulric\|Ulric]], money. During his last fight, his chest and head augments were purposely turned off, and he threw the fight with [[Quinn\|Quinn]], but due to the lack of augments he was damaged far more than usual and had to quit.
+Washed up and with nowhere to go, he joined Fabian Augments, but ultimately was just used as a door guard after his career as a boxer who played in rigged fights to earn his boss, [[Ulric\|Ulric]], money.  During his last fight, his chest and head augments were purposely turned off, and he threw the fight with [[Quinn\|Quinn]], but due to the lack of augments he was damaged far more than usual and had to quit.
 At some point, Jen left for what he thought was Europe, and disappeared. Several months later he called her family to see if she was alright, and had her grandmother inform him, wrongly, that she was dead. Believing that she passed away in an accident, he spiraled further into despair.
 
 ### New Dimension
@@ -50,7 +51,7 @@ After saving the country from Ulric and the [[Hordamen\|Hordamen]], and after le
 
 ## Relationships
 ### Sefawynn
-John first met Sefawynn when he was captured just after his arrival to the dimension. Sefawyn is a [[Weswaran\|Weswaran]] [[Skop\|skop]] and decides that John is not an Aelv but is just a charlatan. After Sefawynn's brother is taken they leave with [[Ealstan\|Ealstan]] the thegn of [[Stenford\|Stenford]]. Throughout the journey John and Sefawynn grow closer together, eventually falling in love. In the end John decides to stay as his interference will protect Sefawynn from the wrath of [[Woden\|Woden]]. Eventually they get married.
+John first met Sefawynn when he was captured just after his arrival to the dimension. Sefawyn is a [[Weswaran\|Weswaran]] [[Skop\|skop]] and decides that John is not an Aelv but is just a charlatan. After Sefawynn's brother is taken they leave with [[Ealstan\|Ealstan]] the [[Thegn\|thegn]] of [[Stenford\|Stenford]]. Throughout the journey John and Sefawynn grow closer together, eventually falling in love. In the end John decides to stay as his interference will protect Sefawynn from the wrath of [[Woden\|Woden]]. Eventually they get married.
 
 
 

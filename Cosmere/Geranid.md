@@ -6,6 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **Geranid** is an [[Ardent\|ardent]], scientist, and philosopher on [[Roshar\|Roshar]].
 She lives with [[Ashir\|Ashir]] on a small [[Reshi\|Reshi]] island.
 She spends her time studying [[Spren\|spren]] and finds that the act of writing down the dimensions of a [[/wiki/Spren#Flamespren]] at any particular time causes the spren to stop altering in shape, a behavior inspired by .

@@ -6,7 +6,7 @@
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
 |**Introduced In**|*[[Steelheart\|Steelheart]]*|
 
-**Nightwielder** is a [[Epic\|High Epic]] that is part of [[Steelheart (Epic)\|Steelheart's]] inner circle. He is the one responsible for [[Newcago\|Newcago's]] constant darkness.
+**Nightwielder**  is a [[Epic\|High Epic]] that is part of [[Steelheart (Epic)\|Steelheart's]] inner circle. He is the one responsible for [[Newcago\|Newcago's]] constant darkness. 
 
 ## Contents
 
@@ -30,10 +30,10 @@ Nightwielder is tall with short hair, and is thought by [[David Charleston\|Davi
 ### Epic Weakness
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-Nightwielder becomes corporeal whenever he has UV light shining on him. This doesn't affect the large-scale darkness. It has been theorized that this is due to him having had skin cancer at some point before he became an Epic.
+Nightwielder becomes corporeal whenever he has UV light shining on him. This doesn't affect the large-scale darkness.  It has been theorized that this is due to him having had skin cancer at some point before he became an Epic.
 
 ## History
-During the unexpected encounter in [[Diamond\|Diamond's]] weapon shop, David confirmed his suspicion that Nightwielder's weakness is UV by pretending to have accidentally activated a UV camera. Uncertain whether this was deliberate or not, Nightwielder chose not to attack. Nightwielder was killed by [[David Charleston\|David Charleston's]] exploitation of his weakness during the [[Reckoners\|Reckoners']] assassination of Steelheart. 
+During the unexpected encounter in [[Diamond\|Diamond's]] weapon shop, David confirmed his suspicion  that Nightwielder's weakness is UV by pretending to have accidentally activated a UV camera. Uncertain whether this was deliberate or not, Nightwielder chose not to attack. Nightwielder was killed by [[David Charleston\|David Charleston's]] exploitation of his weakness during the [[Reckoners\|Reckoners']] assassination of Steelheart. 
 
 
 

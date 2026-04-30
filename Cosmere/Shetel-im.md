@@ -7,7 +7,9 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Asmodeus, please contact him before doing edits.
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*They are the spren of parshmen long dead. They are their kings, their lighteyes, their valiant soldiers from long, long ago. The process is not easy on them. Some of these spren are mere forces now, animalistic, fragments of minds given power by Odium. Others are more… awake. Each rebirth further injures their minds.They are reborn using the bodies of parshmen to become the Fused.*”
 \-The Stormfather[1]
@@ -25,76 +27,198 @@ The **Fused** are the souls of ancient [[Singer\|singers]] that are able to be r
 3 Powers. [[#Powers]] 
 4 Brands. [[#Brands]] 
 
-4. [[#Shanay-im]] 
-4. [[#Shetel-im]] 
-4. [[#Magnified Ones]] 
-4. [[#Mavset-im]] 
-4. [[#Fannahn-im]] 
-4. [[#Nex-im]] 
-4. [[#Makay-im]] 
+4. [[#Heavenly Ones .28Shanay-im.29]] 
+
+4. [[#Abilities]] 
 
 
-5 Notable Fused. [[#Notable Fused]] 
-6 Notes. [[#Notes]] 
+4. [[#Devastating Ones .28Tatak-im.29]] 
+
+4. [[#Abilities 2]] 
+
+
+4. [[#Flowing Ones .28Shetel-im.29]] 
+
+4. [[#Abilities 3]] 
+
+
+4. [[#Magnified Ones .28Yazed-im.29]] 
+
+4. [[#Abilities 4]] 
+
+
+4. [[#Masked Ones .28Mavset-im.29]] 
+
+4. [[#Abilities 5]] 
+
+
+4. [[#Altered Ones .28Fannahn-im.29]] 
+
+4. [[#Abilities 6]] 
+
+
+4. [[#Husked Ones .28Nex-im.29]] 
+
+4. [[#Abilities 7]] 
+
+
+4. [[#Deepest Ones .28Makay-im.29]] 
+
+4. [[#Abilities 8]] 
+
+
+4. [[#Focused Ones .28Metacha-im.29]] 
+
+4. [[#Abilities 9]] 
+
+
+
+
+5 Human Fused. [[#Human Fused]] 
+6 History. [[#History]] 
+7 Notable Fused. [[#Notable Fused]] 
+8 Notes. [[#Notes]] 
 
 
 ## Nature
 These ancient singer [[Cognitive Shadow\|shadows]] exist in a state very similar to [[Spren\|spren]], until they take over a [[Singer\|singer]] body. This process requires a living singer to open themselves up to bonding a new spren during a [[Highstorm\|highstorm]] or the [[Everstorm\|Everstorm]], in the same way as they would to adopt a new form. The Fused then chooses one of these willing, open singers; in a process that causes intense pain to the host, it then takes over the host's body. Fused are able to exert some amount of will upon their forms, such as skin patterns persisting or growing carapace in individual patterns.
-The Fused can be killed by conventional means, but they can use [[Voidlight\|Voidlight]] to heal. However, damaging their gemheart with a Shardblade is instantly fatal. The Fused can be permanently killed by being stabbed with a [[Raysium\|raysium]] dagger connected to a gem of [[Anti-Voidlight\|anti-Voidlight]], provided there is enough anti-Voidlight in the gemstone. If they are wounded by an insufficient amount of anti-Voidlight to destroy them completely, they may still be wounded sufficiently that they will be reborn mad. They can also be permanently killed by [[Nightblood\|Nightblood]]. They can also be trapped in gemstones. Fused are generally trapped in the [[Rosharan system\|Rosharan system]].
-In the past, Fused couldn't be reborn when the [[Herald\|Heralds]] stayed on Braize to uphold the [[Oathpact\|Oathpact]]. They could be reborn many times during each Desolation and were again sealed away when the Heralds returned to Braize. To avoid this process of rebirth, humans fighting in past Desolations once tried to imprison the Fused rather than kill them; this did not work, as the Fused are able to will their spirits out of their bodies and seek a new host. In the [[True Desolation\|True Desolation]], the Fused use the [[Everstorm\|Everstorm]] to great advantage. Not only can they use the Everstorm instead of a highstorm to possess new living singers, but when they do die, they can immediately Return during the next Everstorm if they can find a living singer willing to take on the burden. Fused tend to awaken from their time in-between Desolations in groups.
+The Fused can be killed by conventional means, such as severing their spine, but they can use [[Voidlight\|Voidlight]] to heal. However, damaging their gemheart with a Shardblade is instantly fatal. The Fused can be permanently killed by being stabbed with a [[Raysium\|raysium]] dagger connected to a gem of [[Anti-Voidlight\|anti-Voidlight]], provided there is enough anti-Voidlight in the gemstone. If they are wounded by an insufficient amount of anti-Voidlight to destroy them completely, they may still be wounded sufficiently that they will be reborn mad. They can be permanently killed by [[Nightblood\|Nightblood]]. They can also be trapped in gemstones. Fused are generally trapped in the [[Rosharan system\|Rosharan system]].
 Due to their Invested nature, the ancient ones that become the Fused do not need to bond a spren to attain and maintain full sapience. However, during the seven thousand years of war, many Fused have lost some or all of their sanity, much like the Heralds. They are unable to die, and even the insane Fused continue to be reborn. The rebirth process injures the minds of the Fused. Many Fused who remain sane enough to function also behave erratically in some regards. Examples of this include [[The Pursuer\|The Pursuer]], who is immensely obsessed with vengeance and [[Raboniel\|Raboniel]], who wishes to end the war regardless of the victor. Each brand of Fused has their own particularities.
 
 ## Hierarchy
-The Fused have a complex political and social hierarchy even though their actions are generally governed by Odium. Generally, they have hatred and contempt for humans and place common singers above them in status. Among common singers, those chosen to be elevated are granted forms of power and become [[Regals\|Regals]]. The Fused tend to defer to [[Thunderclast\|thunderclasts]] and [[Unmade\|Unmade]]. However, even within the singers there are delineations of status and authority. There are nine brands of Fused with different powers and specialties. Other factors such as reputation, history, and capacity also matter a great deal, and how well individual Fused have retained their sanity. Many of the important Fused have a **Voice**, an [[Envoyform\|envoyform]] singer who represents their Fused and helps manage their affairs; Voices are generally accorded respect beyond that given to ordinary Regals, especially if the Fused they serve is particularly important.
-No singer has been elevated to a Fused since their initial creation.
+The Fused have a complex political and social hierarchy even though their actions are generally governed by Odium. Generally, they have hatred and contempt for humans and place common singers above them in status. Among common singers, those chosen to be elevated are granted forms of power and become [[Regals\|Regals]]. The Fused tend to defer to [[Thunderclast\|thunderclasts]] and [[Unmade\|Unmade]]. However, even within the singers there are delineations of status and authority. Fused tend to announce their titles and accolades to their opponents.
+There are nine brands of Fused with different powers and specialties. Other factors such as reputation, history, and capacity also matter a great deal, and how well individual Fused have retained their sanity. Many of the important Fused have a **Voice**, an [[Envoyform\|envoyform]] singer who represents their Fused and helps manage their affairs; Voices are generally accorded respect beyond that given to ordinary Regals, especially if the Fused they serve is particularly important.
+No singer has been elevated to a Fused since their initial creation. By the [[Night of Sorrows\|Night of Sorrows]], there were roughly four thousand Fused in existence.
 
   The Nine
 ### The Nine
 "Nine" redirects here. For the group known as Tashi and the Nine, see [[/wiki/Tashikk#Religion]].
-The highest authority among the Fused is the Nine, a council formed by nine Fused. The Nine entomb themselves in stone pillars in an atrium through Soulcasting, and most will leave their head and one arm free. The stone pillars appear organic, as if grown like trees, and make observers feel like the Nine are older than the stones. They hold meetings in the atrium with high-ranked Fused, who each bring their Voice, to announce them before they speak. They would hear field reports and proposals from the Fused. They can accept opinions from other Fused but have the final say for anything. They discuss among themselves through a song sung to a rhythm that is unfamiliar to a Regal. The lyrics are incomprehensible even to an [[Envoyform\|Envoyform]], due to Odium's influence. [[Raboniel\|Raboniel]] was once among the Nine and this position is subject to change. The Nine do not eat, living only on Voidlight.
-It is not yet known whether The Nine have one of each brand, as the [[Listeners\|listeners]] did prior to the [[Everstorm\|Everstorm]] with [[The Five\|The Five]].
+The highest authority among the Fused is the Nine, a council formed by nine Fused. The Nine entomb themselves in stone pillars in an atrium through Soulcasting, and most will leave their head and one arm free. The stone pillars appear organic, as if grown like trees, and make observers feel like the Nine are older than the stones. They hold meetings in the atrium with high-ranked Fused, who each bring their Voice, to announce them before they speak. They would hear field reports and proposals from the Fused. They can accept opinions from other Fused but have the final say for anything. They discuss among themselves through a song sung to a rhythm that is unfamiliar to a Regal. The lyrics are incomprehensible even to an [[Envoyform\|Envoyform]], due to Odium's influence. [[Raboniel\|Raboniel]] was once among the Nine and this position is subject to change. The Nine do not eat, living only on Voidlight. It is not yet known whether The Nine have one of each brand, as the [[Listeners\|listeners]] did prior to the [[Everstorm\|Everstorm]] with [[The Five\|the Five]].
+During the True Desolation, the Nine were charged with the rule of [[Alethkar\|Alethkar]]. After [[Taravangian\|Taravangian's]] Ascension to Odium, he elevated [[El\|El]] above the Nine.
 
 ## Powers
-  A Fused with the power of <<Gravitation\|Gravitation>>
 >“*Is it better to have more abilities, or to have one ability handled expertly? We of the Fused know our Surge with an intimacy a Radiant will never know.*”
 \-Raboniel to Venli[4]
 
 
 The Fused use powers in ways similar to the [[Knights Radiant\|Knights Radiant]], but with a few notable differences. Like all [[Surgebinding\|Surgebinders]], the Fused gain their abilities through manipulation of Roshar's fundamental forces, the [[/wiki/Surgebinding#Surges]], although unlike them, each one of the nine brands of Fused can only access a single Surge. A specific Fused cannot change forms (and thus, powers). The Fused did not always have access to the Surges.
-Unlike the Knights Radiant, who use Stormlight, Fused are powered by Voidlight, and are able to access it by filling gemstones via the [[Song of Prayer\|Song of Prayer]]. Voidlight provides the same healing abilities as Stormlight. However, it is inefficient in that regard and, given the limited amount, the Fused are careful to avoid injury. Fused can use their Voidlight for passive and active effects; with the active use of Voidlight expending it at a rapid rate, putting them at risk of draining their Voidlight completely. [[Vasher\|Vasher]] suspects that they gain their Investiture through their [[Connection\|Connection]] to Odium. They are also able to hold Voidlight indefinitely.
-Despite how long they can hold onto it, Fused have less Investiture than a Fourth Ideal Knight Radiant.
+Unlike the Knights Radiant, who use Stormlight, Fused are powered by Voidlight or Warlight, and are able to access it by filling gemstones via the [[Song of Prayer\|Song of Prayer]]. They are able to hold Voidlight indefinitely; however they have access to less total Investiture than a Fourth Ideal Knight Radiant. If a Fused receives damage to their gemheart, it can affect their ability to hold and use Voidlight.
+One major difference between the Fused and the Knights Radiant is that despite the Fused only having access to one surge, they can channel it much more expertly. Most Fused Brands can use their surges in two major ways - they can channel their surges through their bodies to get passive effects that don't consume Voidlight and last indefinitely, or they can channel their surges actively (often in the same ways as Radiants) to create greater effects, rapidly using up their Voidlight. They can also use Voidlight to heal. However, it is inefficient in that regard and, given the limited amount they can hold, the Fused are careful to avoid injury.
+[[Vasher\|Vasher]] suspects that they gain their Investiture through their [[Connection\|Connection]] to Odium. Odium can limit the ability for a Fused to use their Surge. Fused often have trouble distinguishing between the “lesser” rhythms.
 
 ## Brands
 For images of the Fused, see [[Fused/Gallery\|/Gallery]].
-There are nine Brands of Fused, each possessing access to a single Surge. No brand has access to the [[/wiki/Surge#Adhesion]]. The Brands who have access to the Surges of [[/wiki/Surge#Division]] and [[/wiki/Surge#Tension]] are as yet unknown.
+There are nine Brands of Fused, each possessing access to a single Surge. No brand has access to the [[/wiki/Surge#Adhesion]], though it is now possible with the formation of [[Retribution\|Retribution]].
 
-### Shanay-im
+### Heavenly Ones (Shanay-im)
+
+
+  A Fused with the power of <<Gravitation\|Gravitation>>
 For more information, see [[Shanay-im\|Shanay-im]].
-The *shanay-im*, or Heavenly Ones, are Fused who can manipulate the [[/wiki/Surge#Gravitation]]. These abilities are similar to the Basic Lashing used by the [[Order of Windrunners\|Windrunners]] and [[Order of Skybreakers\|Skybreaker]]. *Shanay-im* are often seen manipulating the gravitation vector of both themselves and other bodies and objects, resulting in abilities such as flight, reduced weight, and sending their enemies flying off into the air. The Fused accelerate more slowly than Radiants when using Gravitation. This is due to them expending less energy and does not have to do with the gravity of [[Braize\|Braize]]. Over a large span, Fused will go faster than Radiants. Fused can only Lash themselves once. These Fused are able to enter space, but cannot travel far, since they would require a large amount of Voidlight to heal due to the lack of air and pressure.
-The *Shanay-im* usually wear extremely long robes, trailing behind them several feet. They utilize long lances suited for aerial combat, with [[Aluminum\|aluminum]] coating to block Shardblades. The lances also incorporate raysium to drain Stormlight from Radiants.
-When fighting Windrunners, they hold an honorable tradition of one-to-one dueling. They raise their weapons to those they wish to duel, and engage upon consent from the Windrunners. The rest of their members float about and do not interfere with the duel. The Windrunners play along with the tradition, as the Windrunners have a smaller number and this prevents them from being ganged up on. This tradition does not extend to normal soldiers.
+The *shanay-im* (rough translation: *Those Ones of the Heavens*), colloquially known as the Heavenly Ones, are the brand of Fused who can use the [[/wiki/Surge#Gravitation]].
+The *Shanay-im* usually wear long robes, trailing behind them several feet. They utilize long lances suited for aerial combat, coated with [[Aluminum\|aluminum]] (to block Shardblades), and inset raysium (to drain Stormlight from Radiants).
+During the True Desolation, many Shanay-im held to an honorable tradition of engaging in one-on-one duels with Windrunners. The Windrunners played along with the tradition, as it neutralized the Shanay-im's numbers advantage. This tradition did not extend to normal soldiers.
 
-### Shetel-im
-The *shetel-im*, or Flowing Ones, are Fused who control the [[/wiki/Surge#Abrasion]]. This gives them the ability to change the force of friction between objects and bodies, similar to [[Order of Edgedancers\|Edgedancers]]. One of the *shetel-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
+#### Abilities
+*Shanay-im* can use the Surge of Gravitation to activate up to a single lashing on themselves, without expending voidlight. They typically use this advantage to almost constantly be flying or hovering, even when idle. Typically, being restricted to a single lashing like this means they accelerate slower than Windrunners and Skybreakers. However the Heavenly Ones are very practiced with the use of their surge, and can use it with incredible effectiveness.
+Aside from this, the Heavenly Ones can also utilize Gravitation to apply Basic Lashings to objects and creatures, in the same way as [[Windrunners\|Windrunners]] or [[Skybreakers\|Skybreakers]] can. However, this requires them to expend their voidlight, so they use Gravitation like this carefully. They can also expend their voidlight to heal.
+These Fused are able to enter space, but cannot travel far, since they would require a large amount of Voidlight to heal due to the lack of air and pressure.
 
-### Magnified Ones
-The Magnified Ones are Fused who interact with the [[/wiki/Surge#Progression]]. They can grow their carapace extremely rapidly and in specific shapes, allowing them to create tools and weapons out of their carapace. This also allows for the creation of extra carapace armor around specific points of their body. They are among the largest and bulkiest of Fused brands.
-They are the only known Fused Brand without a known alias in the [[Dawnchant\|Dawnchant]] ending in -im.
+### Devastating Ones (Tatak-im)
 
-### Mavset-im
-The *mavset-im*, or Masked Ones, are Fused who interact with the [[/wiki/Surge#Illumination]]. Their abilities appear to mimic the [[Order of Lightweavers\|Lightweavers]] ability to change their own appearance by creating illusions. One of the *mavset-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
-Even other Fused are wary of the *mavset-im*.
+The *tatak-im* (rough translation: Those Ones of Devastation), colloquially known as the Devastating Ones, are the brand of Fused who can use the [[/wiki/Surges#Division]].
+Tatak-im have two or more distinctive, nearly always symmetrical carapace horns, beginning just above their eyes, and curving out over their head. These are paired with a smaller spike growing out and back from each cheekbone. They have a moderate amount of spiked carapace growing out of their chest, shins, forearms and shoulders; and they have carapace claws growing out of their fingers which they can use as weapons. They usually grow their hair in wild spikes that extend out from the top and back of their head.
+This brand of Fused is typically used as a chaotic demolition crew, and can leave entire settlements decimated if left unchecked. They enter a euphoric frenzy in anticipation of the pain and havoc they can wreak, and they charge in with reckless abandon, showing little regard for strategy or personal safety. However, they can channel fierce intellect and effective instincts, and can tear through opposition in search of targets to destroy.
+Little is known about their participation in the True Desolation. A Devastating One, [[Lilinum\|Lilinum]], was one of two Fused sent to keep [[Rall Elorim\|Rall Elorim]], the City of Shadows, and to a larger extent the entirety of Iri, as one of the monarchs, in check.
 
-### Fannahn-im
-The *fannahn-im*, or Those Ones of Alteration, are Fused who interact with the [[/wiki/Surge#Transformation]]. This grants them abilities similar to [[Soulcasting\|Soulcasting]], and they are capable of transformations such as turning a sword to dust or breathing out a toxic compound. They may even be able to use their Surge to corrupt or unmake spren, though that ability may have been unique to [[Raboniel\|Raboniel]]. The Ones of Alteration are considered to be great builders among the Fused, responsible for the remodeling of the palace in Kholinar following its capture by the singers. These singers are tall even among the Fused, reaching heights of seven feet, with hairstrands present only on the very tops of their heads where carapace is not present.
+#### Abilities
+*Tatak-im* can willingly disintegrate anything they're actively touching through their skin and carapace. This ability doesn't seem to expend voidlight. Because of this, Devastating Ones can shroud themselves in a constantly trailing cloud of wispy dust, which they use to obscure their forms, making them harder to hit or read.
+Beyond this, Devastating Ones can use the Surge of Division in ways similar to [[Skybreakers\|Skybreakers]] and [[Dustbringers\|Dustbringers]]. They can also expend voidlight to heal.
 
-  Lezian the Pursuer, one of the nex-im
-### Nex-im
-The *nex-im*, or Husked Ones, are Fused who control the [[/wiki/Surge#Transportation]]. This Surge allows them to evacuate their body as a ribbon of red light similar to a spren, leaving behind a hollow husk of carapace to crumple to dust, and recreate their body at the destination point. This ribbon cannot squeeze through small gaps. They only hold enough Voidlight to make four jumps. Thus in battle, they usually use the first three jumps for attacking and the fourth to escape and replenish Voidlight. Forming a fourth husk will leave them trapped, unable to become a ribbon of light. Two ways of killing a Husked One include killing them before they evacuate the body, or forcing them to form a fourth body and kill them. They also cannot take anything with them that is not part of their body. Because of this, at least one of the Fused of this brand, [[Lezian\|Lezian the Pursuer]], has extremely long hair to cover his body like clothing and uses his carapace spurs as weapons. Very few of these Fused exist.
+### Flowing Ones (Shetel-im)
 
-### Makay-im
-The *makay-im*, or Deepest Ones, are Fused who control the [[/wiki/Surge#Cohesion]]. They can manipulate axial connection to phase through solid objects, though they cannot see when doing so, and they cannot take anything that is not part of their body with them. They have sinuous, long-limbed bodies, tall without being as unnaturally willowy as the Fannahn-im. They are hairless and have minimal carapace, with only simple shells over their heads and genitals, although some have long, knifelike carapace fingernails suitable for slitting throats. They also have milky white eyes glowing red from behind.
-Of the group that invades Urithiru, some walk around nude, while others favor open-fronted robes. They prefer to keep their own company, and they enjoy spending their time sunken in rock as much as the Heavenly Ones like to soar.
+The *shetel-im* (rough translation: Those Ones of Flowing), colloquially known as the Flowing Ones, are the brand of Fused who can use the [[/wiki/Surge#Abrasion]]. 
+*Shetel-im* are sleek, lithe and flexible. They have minimal carapace that covers their forehead, upper chest, groin, forearms, and shins; and is heavier on the outside of their limbs. Their hair grows thick from the top, sides, and back of their head, and is typically braided into a tail or several cords. each tipped with a metal spike. This spike serves as both decoration and as an improvised weapon when necessary.
+Flowing Ones serve both, a special forces and the occasional cavalry role, among Odium's forces. They're often equipped with raysium daggers, and use their incredible speed to slip through enemy lines, making them adept at flanking and hitting high value but vulnerable targets like archers or isolated Radiants. The name "Flowing One" comes from their fighting style, which resembles a dance as they slide along the ground with flowing movements and precise strikes.
+During the True Desolation, one of the *shetel-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
+
+#### Abilities
+*Shetel-im* can constantly and freely manipulate their body's friction using the Surge of Abrasion, without expending Voidlight. This makes them adept at "slicking" themselves and becoming nearly impossible to grapple, as well as increasing surface friction and being able to grip and deftly maneuver on slippery or treacherous surfaces. They leverage this in the way they fight, dancing and skating around with flowing movements and delivering precise strikes.
+Beyond this, Flowing Ones can also use the Surge of Abrasion externally in similar ways to the Knight Radiant Orders of [[Edgedancers\|Edgedancers]] and [[Dustbringers\|Dustbringers]], however doing so expends their Voidlight. This gives them the ability to change the force of friction between objects and bodies, allowing them to knock people down or make objects difficult to hold. Like all other Fused, they can also expend their Voidlight to heal.
+
+### Magnified Ones (Yazed-im)
+
+The *Yazed-im* (rough translation: Those Ones of Magnification), colloquially known as the Magnified Ones, are the brand of Fused who can use the [[/wiki/Surge#Progression]].
+*Yazed-im* are large, broad-shouldered, heavily muscled and tall, standing a head taller than even the tallest humans. They are among the largest and bulkiest of Fused brands. They are compared to walking mountains. They also have some of the most extensive carapace among the Fused, covering almost their whole bodies (except the face) and acting almost as full plate armor. Spikes grow out of their carapace on their shoulders, back, and head. They typically don't have hair on their head, but can grow beards.
+Among Odium's forces, Magnified Ones typically serve as heavy infantry. They can also be used as living siege weapons, breaking through lines and battlements with ease. They are, however, tactically adept, and can use their powers to grow their carapace in clever ways, to trap their opponents and counter their equipment.
+
+#### Abilities
+*Yazed-im* can freely channel the Surge of Progression through their own bodies to deliberately and rapidly grow their carapace, without expending their Voidlight. This allows them to form weapons and tools as extensions of their own body. These tools and weapons can be incredibly sharp, and often glow purple with Voidlight. Magnified Ones can also grow their carapace defensively, reinforcing it against attacks or regenerating it, as well as to trap enemies and equipment and then snapping it off to avoid getting bound in turn.
+Uniquely, Magnified Ones cannot channel the Surge of Progression externally in the same ways as [[Edgedancers\|Edgedancers]] or [[Truthwatchers\|Truthwatchers]]. They cannot use it to heal others, and they cannot use it to grow plants. They can, however, expend Voidlight to heal themselves.
+
+### Masked Ones (Mavset-im)
+
+The *mavset-im* (rough translation: *Those Ones of Masks*), colloquially known as the Masked Ones, are the brand of Fused who can use the [[/wiki/Surge#Illumination]].
+*Mavset-im* are the most unsettling Brand of Fused, even to other Fused. Their true form is hairless, has subdermal carapace throughout their body, and is of similar size and shape as humans. However, this form is rarely seen, as they constantly hide behind elaborate and fanciful illusions, limited only by their prodigious creativity. Masked Ones typically use their illusions to unnerve others and keep them on the backfoot, often times by playing with their own marbling, either removing it or making it constantly shift. Their illusory selves also typically garb themselves in flowing garments that slowly billow in a phantom breeze, or wear rounded armor-like carapace in unnatural colors (black or white instead of the usual orange or violet-red).
+The Masked Ones' mastery of illusions and millennia of experience in clandestine activities makes them ideal spies, assassins, and covert operatives - these are typically the roles they fulfill in their service to Odium and his forces. They are rarely seen on the battlefield, but instead sow dissent and chaos among the enemy ranks, by playing with command structures, falsifying information, or sabotaging equipment. In Fused occupied areas, they act as a secret police, monitoring singer and human populations for dissent and compliance.
+During the True Desolation, one of the *mavset-im* participated in the effort to steal the [[King's Drop\|King's Drop]] from the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]].
+
+#### Abilities
+*Mavset-im* can freely channel the Surge of Illumination through their own bodies to create an illusory disguise on themselves. Such disguises require no Voidlight to maintain, and it is rare to see a Mavset-im without one.
+Beyond this, Masked Ones can use the Surge of Illumination in many of the same ways as the Radiant Orders of [[Lightweavers\|Lightweavers]] and [[Truthwatchers\|Truthwatchers]], though doing so outside of their bodies requires them to expend Voidlight. Like other Fused, they can also expend Voidlight to heal.
+
+### Altered Ones (Fannahn-im)
+
+The *fannahn-im* (rough translation: *Those Ones of Alteration*), colloquially known as the Altered Ones, are the brand of Fused who can use the [[/wiki/Surge#Transformation]].
+*Fannahn-im* are tall even among the Fused, reaching heights of seven feet, with a willowy stature and long, thin fingers. They have armor-like carapace growing on their chest, forearms, shins, and in a crown-like shape covering most of their skull, with their hair growing only on the very tops of their heads.
+Altering Ones have spent their long lifetimes becoming experts in the fields of engineering, science and architecture. They are considered to be great builders among the Fused.
+During the True Desolation, *Fannahn-im* were responsible for the remodeling of the palace in Kholinar following its capture by the singers. One specific Altering One - [[Raboniel\|Raboniel]] - organized the capture of Urithiru, began corrupting the Sibling, and was instrumental alongside Queen [[Navani\|Navani]] in the discovery of the Rhythm of War.
+
+#### Abilities
+*Fannahn-im* can use the [[/wiki/Surge#Transformation]] in similar ways to the Orders of [[Lightweavers\|Lightweavers]] and [[Elsecallers\|Elsecallers]]. This gives them access to [[Soulcasting\|Soulcasting]], letting them transform one substance into another. However, due to their millennia of experience, their mastery over the essences is such that they can craft much more complex essences, like toxins and acids. Unlike Radiants, however, Fannahn-im can use Transformation to soulcast any object that is even partially within their own bodies without expending Voidlight. This lets them freely purify their bodies and soulcast away any poisons, as well as soulcast the air in their lungs to breathe out toxic gas offensively. They can also use Transformation like this on any object that pierces partly into their own body, like weapons, turning them into a harmless essence, like smoke.
+Beyond this, Altering Ones can use Transformation outside of their own bodies, though doing so expends their Voidlight. Like other Fused, they can also expend Voidlight to heal. The strongest Altered Ones can corrupt Investiture itself, being able to unmake spren as strong as the [[Sibling\|Sibling]].
+
+  Lezian the Defeated, one of the nex-im
+### Husked Ones (Nex-im)
+
+The *nex-im* (rough translation: *Those Ones of Husks*), colloquially known as the Husked Ones, are the brand of Fused who can use the [[/wiki/Surge#Transportation]].
+*Nex-im* have a hulking figure, with thick muscles and weighty, jagged carapace that grows in fin- and horn-like shapes across their body. Their hair can grow long enough to wrap around their bodies as clothing. Like many Fused brands, aspects of their forms are practical and are meant to work with their surges; with the Nex-im, since their Transportation do not allow them to take any objects with them, their carapace spikes and hair act as improvised weapons and clothing which they carry with them.
+Very few of these Fused exist. Two ways of killing a Husked One include killing them before they evacuate the body, or forcing them to form a fourth body and kill them.
+
+#### Abilities
+*Nex-im* can use the [[/wiki/Surge#Transportation]]. However, somewhat uniquely among the Fused brands, the Nex-im cannot use their Surge of Transportation in the same way as the Radiant Orders of [[Elsecallers\|Elsecallers]] and [[Willshapers\|Willshapers]].
+Instead, their Surge of Transportation allows them to eject their soul from their body's center of mass as a ribbon of red light, resembling a spren; the "husk" of a body they leave behind crumbles away to dust in a few moments. When the Husked Ones use their surge in this way, they cannot take objects or clothing with them. Moreover, they retain mass in ribbon form and cannot squeeze through gaps smaller than an inch in diameter.  They then have to spend their investiture/voidlight to reform their body again, when and where they want to exit ribbon-form. When they reform bodies like this, they typically don't manifest any damage they may have sustained in their previous "husks". Moreoever, they can only hold enough investiture to make three bodies, which typically means they can make four "jumps" in total, before having to replenish their investiture.
+
+### Deepest Ones (Makay-im)
+
+
+"Deepest Ones" redirects here. For the entities on [[Threnody\|Threnody]], see [[Deepest One\|Deepest One]].
+The *makay-im* (rough translation: *Those Ones of the Depths*), colloquially known as the Deepest Ones, are the brand of Fused who can use the [[/wiki/Surge#Cohesion]].
+*Makay-im* have sinuous, long-limbed bodies, tall without being as unnaturally willowy as the Fannahn-im. They are hairless and have minimal carapace, with only simple shells over their heads and genitals, although some have long, knifelike carapace fingernails suitable for slitting throats. They also have milky white eyes glowing red from behind. Of the group that invades Urithiru, some walk around nude, while others favor open-fronted robes. They prefer to keep their own company, and they also enjoy gliding through uncut stone to feel the heart of Roshar through the earth. When idle, they spend their time sunken into the ground with only their faces exposed.
+
+#### Abilities
+In addition to wielding Cohesion like a Radiant, they can manipulate axial connection to phase through solid objects, and they cannot take anything that is not part of their body with them. They cannot see while submerged, but can hear and sing, and are guided through via the pure tones of Roshar. They can move through almost any solid substance, though they can't merge with things that were previously alive, such as wood.
+
+### Focused Ones (Metacha-im)
+
+The *metacha-im*, colloquially known as the Focused Ones, are the brand of Fused who can use the [[/wiki/Surge#Tension]]. 
+Focused Ones are among the tallest, over seven feet, and broadest of the Fused, with stout bodies molded through practiced indulgence. They have no carapace, allowing them full heads of hairstrands, and they utilize skin’s elastic nature to cultivate a thick layer of fat throughout their bodies, obscuring their powerful musculature. When relaxed, they appear obese, with enormous girth and an inhumanly large waistline. Their bulk, however, is not made of flesh, but rather of what appears as a cohesive suit or costume made of hundreds of loose cords or belts. A Focused One can use Tension to compact themself down to the size of a workform, creating armor-like skin that glows purple with Voidlight. In addition to clothing that accommodates both of their sizes, Focused Ones generally wear a long necklace folded several times over their torso. This necklace is made of their own hair bound with aluminum links, and it culminates in a blade. When in close combat, this necklace can serve as both weapon and restraint; the Focused One uses it as a whip that can be wrapped around a target and stiffened with Tension to trap them, or straightened and made rigid for use as a powerful spear.
+During the True Desolation, they were among the slowest to awaken, which, according to Hoid, has to do with their unique body styles. Twenty of these were deployed at the Shattered Plains during the Final Ten Days, in the battle to take Narak. They serve Odium as field commanders and taskmasters. They typically travel on palanquins carried by warform and Regal guards, commanding and coordinating troops or laborers. They’re also sometimes stationed with their retinues at strategic points their enemy is likely to target.
+
+#### Abilities
+In addition to wielding Tension like a Radiant, their powers allow them to begin condensing and pulling their "loose cords" of skin and flesh tighter and tighter, like relaxed springs being wound tight against their bodies. By the time they are fully taut, the Focused Ones transform into tall, sculpted, androgynous figures that project strength. These compact Voidlight-infused layers of skin, fat, and muscle are much harder than carapace, causing most attacks to glance harmlessly off them— even those from powerful weapons like Shardblades. This form also greatly increases a Focused One’s mobility, enabling them to instantaneously decompress parts of their body to lethal effect, creating enough force to launch boulders and crush foes in their grip.
+
+## Human Fused
+Using the powers [[Ishar\|Ishar]] obtained from the [[Well of Control\|Well of Control]], he was able to create his own version of Fused. Like regular Fused, only willing participants can be used. When they die, their bodies turn to black smoke and disappear, and they can be reborn. To be reborn, human Fused take over a body. Without a storm, the process takes days and is far more painful. Human Fused trail a red afterimage behind them that can be seen by anyone with sufficient Investiture. They can be permanently killed by Nightblood.
+Ishar has some degree of control over the human Fused, and can even control their movements. Ishar can choose to kill his Fused whenever he wishes. Human Fused will react to Ishar's emotions, and act as if they are experiencing them. The presence of a human Fused can put a curse on the surrounding area, causing a darkness to be felt around the area. Those living close can turn violent, lose track of time, or live life in a haze.
+Unlike regular Fused, Human Fused do not have the inherent ability to Surgebind, but can make use of the [[Honorblade\|Honorblades]] to do so. They are able to receive stormlight directly from Ishar, and show no signs of running low while Surgebinding. Their Surgebinding is also far more powerful than normal.
+
+## History
+Following the initial skirmishes of the [[First Desolation\|First Desolation]], Odium saw an opportunity to manipulate the singers by invoking their desire for vengeance. He offered them immortality, and those that accepted became the first Fused. After witnessing [[El\|El]] being reborn around this time, Nale concludes that the Fused were actively recruiting the strongest and the most talented singers to join their ranks. And although the Fused did not initially have access to [[Surgebinding\|Surgebinding]], humans couldn't win against an enemy that could keep being reborn - pushing [[Ishar\|Ishar]] and others to search for a solution. They sought [[Honor\|Honor]] and with his support, established the Oathpact, binding the souls of the Fused to [[Braize\|Braize]]. By using its natural soul collecting properties to trap the souls of the Fused there, they effectively stopped the Fused from resurrecting, so long as they themselves remain bound to this Oathpact.
+The Fused were eventually given access to [[Surgebinding\|Surgebinding]], in response to the creation of the Heralds. This was then countered by the appearance of the [[Knights Radiant\|Knights Radiant]].
+The Fused discovered that while the Oathpact bound them to Braize, it was only held in place by the will of the Heralds, and so took to capturing and torturing them. Whenever any of the Heralds broke under torture and agreed to bend their oath, a new Desolation would trigger, which the Fused refer to as Returns. They could be reborn many times during each Desolation/Return, reigniting the war between humanity and the Fused. During such times, the Heralds tried to rally humanity and lead them against the Fused, and when they felt like humanity had gotten to a point where it could win the rest of the war on its own, they returned to Braize, restoring the Oathpact and its binding on the Fused. This would begin the process of sealing away the Fused, triggering a period known to the Fused as an Isolation. The Fused would stop being reborn, but humanity would still have to find the ones already reborn and kill them.
+To avoid this process of rebirth, humans fighting in past Desolations once tried to imprison the Fused rather than kill them; this did not work, as the Fused are able to will their spirits out of their bodies and seek a new host. Fused tend to awaken from their time in-between Desolations in groups. There were not many more than fifteen Desolations total. One of the Desolations lasted eleven years.
+In the [[True Desolation\|True Desolation]], the Fused use the [[Everstorm\|Everstorm]] to great advantage. Not only can they use the Everstorm instead of a highstorm to possess new living singers, but when they do die, they can immediately Return during the next Everstorm if they can find a living singer willing to take on the burden.
 
 ## Notable Fused
 For a full list, see :Category:Fused.
@@ -111,6 +235,8 @@ For a full list, see :Category:Fused.
 [[Lezian\|Lezian]]
 [[El\|El]]
 [[Essu\|Essu]]
+[[Neturo-son-Vallano\|Neturo-son-Vallano]]
+[[Elid-daughter-Zeenid\|Elid-daughter-Zeenid]]
 
 
 

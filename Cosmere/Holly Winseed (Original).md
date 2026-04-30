@@ -3,7 +3,7 @@
 |**Homeworld**||
 |**Introduced In**|*[[The Original\|The Original]]*|
 
-**Holly Winseed** is an orange carver, and is now a [[Checkout\|checkout]]. She is responsible for the murder of [[Jonathan Gentry\|Jonathan]]’s [[Provisional Replica\|Provisional Replica]].
+**Holly Winseed** is an orange carver, and is now a [[Checkout\|checkout]]. She is responsible for the murder of [[Jonathan Gentry\|Jonathan]]’s [[Provisional Replica\|Provisional Replica]]. 
 
 
 ## History

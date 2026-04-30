@@ -9,7 +9,7 @@ The **Misted Mountains** are a mountain range located on the eastern border of [
 
 ## Geography
 The Misted Mountains border several nations during the [[Era of Solitude\|Era of Solitude]], including Shinovar, [[Alm\|Alm]], [[Yezier\|Yezier]], [[Desh\|Desh]], [[Babatharnam\|Babatharnam]], [[Rira (country)\|Rira]], and [[Iri\|Iri]].
-They serve as a windbreak for the whole nation of Shinovar, weakening the [[Highstorm\|highstorms]] enough to protect the country and its inhabitants from the destructive power of the storms. Due to this effect, the flora and fauna of Shinovar are not defined by surviving the highstorms, so they are vastly different from the rest of Roshar.
+They serve as a windbreak for the whole nation of Shinovar, weakening the [[Highstorm\|highstorms]] enough to protect the country and its inhabitants from the destructive power of the storms. Due to this effect, the flora and fauna of Shinovar are not defined by surviving the highstorms, so they are vastly different from the rest of Roshar. The eastern slopes of the Misted mountains are home to a particularly rugged kind of rockbud, with a thicker shell and shorter vines than those common in the east of the continent.
 
 ## Trivia
 The Misted Mountains, much like Robert Jordan's Mountains of Mist, are an homage to J. R. R. Tolkien's Misty Mountains.

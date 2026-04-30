@@ -1,6 +1,8 @@
 |**Kdralk**|
 |-|-|
+|**Family**|
 |**Parents**|[[Fen Rnamdi\|Fen Rnamdi]], [[Kmakl\|Kmakl]]|
+|**Ancestors**|[[Tslamfn\|Tslamfn]]|
 |**Titles**|Captainlord|
 |**Profession**|Soldier|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
@@ -11,7 +13,7 @@
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I regret only that I didn't speak loudly enough for you to hear the insults, despot.*”
-\-Kdralk to Dalinar[1]
+\-Kdralk to Dalinar[2]
 
 
 **Kdralk** is the only known son of Queen [[Fen Rnamdi\|Fen Rnamdi]] of [[Thaylenah\|Thaylenah]] and her prince consort, [[Kmakl\|Kmakl]]. As Thaylenah is an elective monarchy, he's unlikely to inherit the crown.

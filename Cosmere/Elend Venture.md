@@ -10,7 +10,7 @@
 |**Abilities**|[[Allomancy\|Mistborn]]|
 |**Titles**|King of the [[/wiki/Dominance#Central Dominance]] , High Emperor of the [[New Empire\|New Empire]], Last Emperor|
 |**Religion**|[[Survivorism\|Survivorism]]|
-|**Groups**|[[Kelsier's crew\|Kelsier's crew]], Venture army, [[Luthadel Assembly\|Luthadel Assembly]]|
+|**Groups**|[[Preservers\|Preservers]], Venture army, [[Luthadel Assembly\|Luthadel Assembly]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
@@ -87,8 +87,8 @@ Though his roots are in philosophy, Elend has extensive knowledge on many differ
 
 ## History
 ### Early History
-As a child, Elend was beaten to near death to determine whether he was an Allomancer. His mother is presumably dead, since he speaks about her in the past tense, but she had a great influence on him. When he was thirteen, his father forced him to sleep with a skaa woman. He was horrified after discovering that she would be killed afterward. Elend started to intentionally behave in ways that would enrage his father. For example his clothing was always messy and too huge. He blew several engagements with his attitude. In the end however his acts were pointless, and both he and Straff knew it.
-He started a drinking group with [[Jastes Lekal\|Jastes Lekal]], [[Telden Hasting\|Telden Hasting]], [[Kevoux\|Kevoux]], and another young noble, to talk about philosophy and form an alliance to exert pressure on the Lord Ruler. The group was also at least in part formed to annoy Elend's father. While the other young Nobles were only interested in more independence from the Lord Ruler, Elend showed interest in the [[Skaa\|skaa]] and was horrified by the way they were treated. He wanted to use his power to improve their lives.
+As a child, Elend was beaten to near death to determine whether he was an Allomancer. His mother is presumably dead, since he speaks about her in the past tense, but she had a great influence on him. When he was thirteen, his father forced him to sleep with a skaa woman. He was horrified after discovering that she would be killed afterward. Elend started to intentionally behave in ways that would enrage his father. For example his clothing was always messy and too huge. He blew several engagements with his attitude. In the end however his acts were pointless, and both he and Straff knew it. 
+He started a drinking group with [[Jastes Lekal\|Jastes Lekal]], [[Telden Hasting\|Telden Hasting]], [[Kevoux\|Kevoux]], and another young noble, to talk about philosophy and form an alliance to exert pressure on the Lord Ruler. The group was also at least in part formed to annoy Elend's father. While the other young Nobles were only interested in more independence from the Lord Ruler, Elend showed interest in the [[Skaa\|skaa]] and was horrified by the way they were treated. He wanted to use his power to improve their lives. 
 
  
 ### Pre-Collapse
@@ -165,7 +165,7 @@ Due to Vin's nature as a Mistborn and her traits trained into her by Kelsier as 
 Elend he felt he needed her genuine realism to keep him grounded, and thought himself lucky that she needed him; he believed she was ten times as capable as him. He was sometimes frustrated by her idiosyncrasies, but he still loved her. Most of all, he trusted her; he defended her actions even when she attacked Cett, killing hundreds of men, and he trusted her to make the right decisions even when he didn't know what she was deciding. At the [[Well of Ascension\|Well of Ascension]], however, she knew that Elend would want her to sacrifice him to save his people, and she loved him enough to trust his wishes and give up the power instead of saving him.
 During the final years of the World of Ash, Elend's trust and faith in his wife were shown implicitly by considering her on her own being an army, having complete trust in her during the various fights with and command over Koloss armies that they controlled via [[Hemalurgy\|Hemalurgy]]. Coming to a complete understanding during the fight at [[Fadrex City\|Fadrex]] by silently explaining their bluff to divert [[Ruin\|Ruin's]] attention.
 During the Siege of the Pits of Hathsin and Vin's Ascension, she assisted Elend by providing him additional powerful Investiture via contact that remained until the moment he was cut down by [[Marsh\|Marsh]], leading to Vin's sacrifice as she kills Ruin.
-After their death's and the ascension of Sazed as [[Harmony\|Harmony]], both Elend and Vin decline Kelsier's offer to remain in the Cognitive Realm and journey on together into the Beyond.
+After their deaths and the ascension of Sazed as [[Harmony\|Harmony]], both Elend and Vin decline Kelsier's offer to remain in the Cognitive Realm and journey on together into the Beyond.
 
 ### Kelsier
 >“*Early in my career, I always compared myself to him. By the time I heard of Kelsier, he was already becoming a legend. It was unfair to force myself to try and be him, but I worried regardless.*”
@@ -199,7 +199,7 @@ In his youth, Elend rebelled against his father, [[Straff Venture\|Straff]], and
 
 ## Trivia
 Elend means *misery* in German, but this wasn't intentional.
-Elend's character is inspired by Brandon's editor [[Moshe Feder\|Moshe]], and also by 
+Elend's character is inspired by Brandon's editor [[Moshe Feder\|Moshe]], and also by .
 Elend and Vin never gave much thought to the prospect of being a parent.
 Elend's speech in the Collapse was inspired by the .
 Elend's  color alignment would probably be blue/white.

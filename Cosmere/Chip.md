@@ -8,4 +8,7 @@ the smallest denomination of currency on [[Roshar\|Roshar]], see [[Spheres\|Sphe
 
 
 
+
+
+
 https://coppermind.net/wiki/Chip

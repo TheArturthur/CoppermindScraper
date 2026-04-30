@@ -10,7 +10,7 @@
 \- Professor Irich[1]
 
 
-***Brunstell*** is a [[Malwish\|Malwish]] [[Southern Scadrian\|Southern Scadrian]] airship captained by [[Jordis\|Jordis]]. It is constructed of wood and is three stories tall. It has a broad, flat top with crenelated edges, like a castle's battlement. It is similar in appearance to a boat, but with wings. The hallways have intricate designs and decorations on the walls and ceilings. It is likely powered by Southern Scadrian [[Allomancy\|allomantic]] technology. It has an allomancy powered life boat called the *[[Wilg\|Wilg]]*.
+***Brunstell*** is a [[Malwish\|Malwish]] [[Southern Scadrian\|Southern Scadrian]] airship captained by [[Jordis\|Jordis]]. It is constructed of wood and is three stories tall. It has a broad, flat top with crenelated edges, like a castle's battlement. It is similar in appearance to a boat, but with wings. The hallways have intricate designs and decorations on the walls and ceilings. It is likely powered by Southern Scadrian [[Allomancy\|allomantic]] technology. It has an allomancy powered life boat called the *[[Wilg\|Wilg]]*. 
 
 ## History
 The *Brunstell* set off from Southern Scadrial on a mission to find the [[Sovereign's temple\|Sovereign's temple]] and the [[Bands of Mourning\|Bands of Mourning]]. Its crew had around one hundred members who refer to the ship as male. A storm caused it to crash in the [[Elendel Basin\|Elendel Basin]] town of [[Dulsing\|Dulsing]] where its surviving crew were captured by the [[Set\|Set]]. A large walled compound was build around the crashed ship. Professor [[Irich\|Irich]] is studying the vessel in an attempt to understand its technology.

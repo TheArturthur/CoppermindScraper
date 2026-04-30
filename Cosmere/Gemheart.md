@@ -33,10 +33,8 @@ Humans on Roshar, even [[Surgebinder\|Surgebinders]] with spren bonds, do not ha
 In general, the bigger the animal, the bigger the gemheart. Those found in chasmfiends were worth a small fortune. [[Chasmfiend\|Chasmfiends]] and other large [[Chull\|chull-like]] animals called greatshells have enormous gemhearts. [[Dalinar Kholin\|Dalinar Kholin]] stated that the ones found in chasmfiends were the largest gemhearts he had ever seen, although it is likely that the [[Tai-na\|Tai-na]] have even larger ones.
 
 ## Singer Gemhearts
-[[Venli\|Venli]] utilizing [[Envoyform\|Envoyform]], advises new [[Singers\|singers]] that if they don't "want" the new power offered, it won't be able to take place in their gemheart.
-[[Listeners\|Listeners]] consider gemhearts sacred and personal, however a [[Fused\|Fused]] mocks this, saying that gemhearts were just another part of a singer body.
-It is possible for [[Singers\|singers]] to hold more than one [[Spren\|spren]] in their gemhearts simultaneously, including both Radiant and Voidspren.
-Singer gemhearts are cloudy white.
+Singer gemhearts are cloudy white. It is possible for [[Singers\|singers]] to hold more than one [[Spren\|spren]] in their gemhearts simultaneously, including both Radiant and Voidspren.
+[[Venli\|Venli]] utilizing [[Envoyform\|Envoyform]], advises new [[Singers\|singers]] that if they don't "want" the new power offered, it won't be able to take place in their gemheart. [[Listeners\|Listeners]] consider gemhearts sacred and personal, however a [[Fused\|Fused]] mocks this, saying that gemhearts were just another part of a singer body.
 
 ## Gemheart Harvesting
   <<Elhokar\|Elhokar>> extracting the gemheart from a <<Chasmfiend\|chasmfiend>>
@@ -63,6 +61,9 @@ The hunting for chasmfiends to gain gemhearts will harm [[Roshar\|Roshar's]] eco
 [[Axehound\|Axehound]]
 [[Cremling\|Cremling]]
 [[Yu-nerig\|Yu-nerig]]
+[[Numul\|Numul]]
+
+[[Mawli\|Mawli]]
 
 ## Trivia
 Gemheart is used as a term of endearment. [[Dalinar\|Dalinar]] uses it to refer to [[Navani\|Navani]].

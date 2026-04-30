@@ -9,7 +9,7 @@
 
 **Eiliz** was a kingdom on [[Roshar\|Roshar]] during the [[Desolation\|Desolations]] of the [[Heraldic Epochs\|Heraldic Epochs]].
 In one of Highprince [[Dalinar Kholin\|Dalinar Kholin's]] [[Dalinar's visions\|visions]], King [[Nohadon\|Nohadon]] spoke of Eiliz to Dalinar, who had taken the appearance of [[Karm\|Karm]]. Nohadon believed that Eiliz, like [[Tarma\|Tarma]], would likely not survive the aftermath of the Desolation as too many of its people had perished.
-Eiliz was not well known by the [[Era of Solitude\|Era of Solitude]], Dalinar had never heard of the place.
+Eiliz was not well known by the [[Era of Solitude\|Era of Solitude]]; Dalinar had never heard of the place.
 
 
 

@@ -4,13 +4,13 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Anak malah kaf, del makian habin yah.*”
 \-The phrase 'To be human is to want that which we cannot have' in the Dawnchant[1]
 
 
-The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsingers\|Dawnsingers]] - ancient ancestors to the modern day [[Singers\|singers]]. The language is the root of the Dawnate language family, consisting of the [[Shin\|Shin]], [[Listener\|Listener]], and [[Unkalaki\|Unkalaki]] languages. While the vocabulary of these languages varies greatly, they share similar grammar.
+The **Dawnchant** was the language of the original inhabitants of Roshar, the [[Dawnsingers\|Dawnsingers]] - ancient ancestors to the modern day [[Singers\|singers]]. The language is the root of the Dawnate language family, consisting of the [[Shin\|Shin]], [[Listener\|Listener]], and [[Unkalaki\|Unkalaki]] languages. While the vocabulary of these languages varies greatly, they share similar grammar. There are hints that certain terms from Dawnchant are used in wider cosmere, perhaps as an academic language.
 
 ## Contents
 
@@ -43,25 +43,32 @@ Bendthel's collection of Dawnchant transcriptions includes three codices [[Ellis
 One of the oldest documents in written history, the Eila Stele was written by the Dawnsingers in the version of the Dawnchant they spoke. The full text of the stele reads this:
 
 >“* *They came from another world. Using powers that we have been forbidden to touch. Dangerous powers, of spren and Surges. They destroyed their lands and have come to us begging. We took them in, as commanded by our gods. What else could we do? They were a people forlorn, without home. Our pity destroyed us. For their betrayal extended even to our gods: to spren, stone, and wind. Beware the otherworlders. The traitors. Those with tongues of sweetness, but with minds that lust for blood. Do not take them in. Do not give them succor. Well were they named Voidbringers, for they brought the void. The empty pit that sucks in emotion. A new god. Their god. These Voidbringers know no songs. They cannot hear Roshar, and where they go, they bring silence. They look soft, with no shell, but they are hard. They have but one heart, and it cannot ever live.**”
-\-Eila Stele[9]
+\-Eila Stele[10]
 
 
 ## Grammar
-The grammar of the Dawnchant is currently largely unknown. However, various aspects of the language can be interpreted from the currently known linguistic corpus.
+The grammar of the Dawnchant is currently largely unknown. However, various aspects of the language can be interpreted from the currently known linguistic corpus. 
 
 It makes use of suffixes.
 It does not appear to mark the plural form of nouns.
 ## Vocabulary
 *anak* - Meaning unknown
 *del* - Meaning unknown
+*el* - Meaning indicates a bond to something. Possibly has version of 'hel', as in nahel bond and luhel bond.
+*elin* - Means a person who actively forms a bond to something. Often appended to names of Heralds, presumably as an honorific. It is a two-part word consistent of root 'El',  and suffix '-in', which is presumably a phonetic alteration on '-im'. 
 *fannahn* - Altered, Alteration
 *habin* - Meaning unknown
-*-im* - A person that does an action indicated by or associated with the root
+*-im* - A person that does an action indicated by or associated with the root Presumably has phonetic alteration '-in'.
 *kaf* - Meaning unknown
+*lu* - Means aether.
+*luhel* - Means "the bond to aether".
 *makay* - Deepest, Depths
 *makian* - Meaning unknown
 *malah* - Meaning unknown
 *mavset* - Mask, Masked
+*metacha* - Focus, Focused
+*na* - Means divinity or specifically, a Shard of Adonalsium.
+*nahel* - Means "the bond to divinity" (shard). Two part word that consists of root 'na' and suffix 'hel' or 'el'.
 *nex* - Husk, Husked
 *shanay* - Heaven, Heavenly
 *shetel* - Flow, Flowing

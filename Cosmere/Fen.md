@@ -4,6 +4,7 @@
 |**Family**|
 |**Spouse**|[[Kmakl\|Kmakl]]|
 |**Children**|[[Kdralk\|Kdralk]]|
+|**Ancestors**|[[Tslamfn\|Tslamfn]]|
 |**Titles**|Queen of [[Thaylenah\|Thaylenah]]|
 |**Residence**|[[Thaylen City\|Thaylen City]]|
 |**Nationality**|[[Thaylen\|Thaylen]]|
@@ -11,7 +12,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the Selish language, see [[Fen (language)\|Fen (language)]].
 For the sand master rank, see [[/wiki/Diem#Organization]].
@@ -79,7 +80,7 @@ The Everstorm hit Thaylenah several times causing much damage. The storm broke t
 At that time, she was contacted by [[Dalinar\|Dalinar]]. She was not open to going to Urithiru and was even more suspicious of the Oathgates and the radiants. She did not want to be responsible for Thaylenah to fall to the Alethi.
 
 ### Dalinar’s visions
-The first vision Dalinar asked for Fen to receive was the Radiants falling from the sky to fight the midnight essence. He was placed far away and was unable to get to her until the battle had passed. She was able to save the child, though she left the mother to die, and organized the town, pitting them against the enemy. Dalinar joined her, asking her to join his coalition again. When she refused, his temper showed and he shouted. That was when Fen actually started listening again. She explained she wanted honesty and truth. She ended the vision being asked by the Radiant to join them at Urithiru. This seemed to trouble her. She would consider his sincerity, though Dalinar could sense she was concerned he had turned sides.
+The first vision Dalinar asked for Fen to receive was the Radiants falling from the sky to fight the midnight essence. He was placed far away and was unable to get to her until the battle had passed. She was able to save the child, though she left the mother to die, and  organized the town, pitting them against the enemy. Dalinar joined her, asking her to join his coalition again. When she refused, his temper showed and he shouted. That was when Fen actually started listening again. She explained she wanted honesty and truth. She ended the vision being asked by the Radiant to join them at Urithiru. This seemed to trouble her. She would consider his sincerity, though Dalinar could sense she was concerned he had turned sides.
 She was shown different visions, until, in a morning’s highstorm, The queen of Thaylenah had asked that Dalinar send her into the vision of [[Aharietiam\|Aharietiam]], which she knew about from the published accounts of Dalinar’s visions. He’d reluctantly sent her alone, without supervision. Shortly after that, she agreed to receive Dalinar at Thaylen City.
 
 ### Roshar’s Coalition
@@ -99,8 +100,8 @@ After that, they were joined by Adolin and later Jasnah came in to ask them to c
 Her closest personal relation seems to be Kmakl, her consort. He accompanies her everywhere and usually he would only stand behind her and—whenever she said something he thought significant—nod for her scribes to record it in the official histories. He would sometimes give his opinion, like his reading on the battlefield at Thaylenah.
 
 ## Quotes
->“*He acts as if this city is a burial ground. That is not the case. We will rebuild from stone.*”
-\-Queen Fen to Dalinar on Taravangian’s compassion for the destruction of the Everstorm[3]
+>“*He acts as if this city is a burial ground. That is not the case. We will rebuild from stone. *”
+\-Queen Fen to Dalinar on Taravangian’s compassion for the destruction of the Everstorm[4]
 
 
 ## Trivia

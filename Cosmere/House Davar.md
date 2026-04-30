@@ -7,6 +7,8 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 **House Davar** is a small [[Veden\|Veden]] family living in [[Valam princedom\|Valam princedom]] on [[Roshar\|Roshar]].
 It gives Highprince [[Valam\|Valam]] its fealty, but his health was ailing him and he no longer provided the protection for the Davars that he once did.
 

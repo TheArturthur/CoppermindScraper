@@ -1,13 +1,12 @@
-|**Emberdark**|
-|-|-|
-||
-|**Region**|[[Sea of Lost Lights\|Sea of Lost Lights]]|
-|**World**|[[Shadesmar\|Shadesmar]]|
-|**Universe**|[[Cosmere\|Cosmere]]|
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+**Emberdark** may refer to:
 
-This article is about the settlement in Shadesmar. For the unpublished book, see [[Isles of the Emberdark\|Isles of the Emberdark]].
-**Emberdark** is a settlement in the [[Sea of Lost Lights\|Sea of Lost Lights]] in [[Shadesmar\|Shadesmar]], the [[Subastral\|subastral]] of [[Roshar\|Roshar]]. It is south of the [[Nor Channel\|Nor Channel]] and is adjacent to the [[Emberdark Channel\|Emberdark Channel]]. It is along the [[Glasswater Deep\|Glasswater Deep]].
-In the [[Physical Realm\|Physical Realm]], Emberdark seems to lie along the [[Deathbend River\|Deathbend River]].
+*[[Isles of the Emberdark\|Isles of the Emberdark]]*, a cosmere novel
+[[/wiki/Cognitive Realm#Emberdark]], also known as the unsea
+[[Emberdark (settlement)\|Emberdark (settlement)]], a settlement in the Cognitive Realm on Roshar
+[[Emberdark Channel\|Emberdark Channel]], a channel through the Glasswater Deep in the Cognitive Realm on Roshar
+
+
 
 
 

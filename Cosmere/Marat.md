@@ -6,6 +6,8 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
 >“*Szeth knew that Marat was rich in culture, full of people as proud as you’d find in any nation—but of almost no value on the political scale.*”
 \-Szeth thinking about Marat[1]
 
@@ -34,7 +36,7 @@
 
 4 Culture. [[#Culture]] 
 
-4. [[#Peoples]] 
+4. [[#People]] 
 4. [[#Economy]] 
 
 
@@ -51,10 +53,10 @@ It has an area of around 524,000km.
 ## History
 ### Silver Kingdoms Period
 During the Silver Kingdoms period of Roshar, the territory that would come to be known as Marat was part of [[Makabakam\|Makabakam]].
-Eventually, Makabakam collapsed and, at an unknown point, Marat formed within its former territory.
+Eventually, Makabakam collapsed and, at an unknown point, Marat formed within its former territory.  
 
 ### Age of Solitude
-Over the Age of Solitude, Marat became famous for its furniture, rugs, and bazaars. Due to this, they became a centre of lucrative trade and commonly exported their products to nations across Roshar, including Alethkar.
+Over the Age of Solitude, Marat became famous for its furniture, rugs, and bazaars. Due to this, they became a center of lucrative trade and commonly exported their products to nations across Roshar, including Alethkar.
 [[Szeth\|Szeth]] visited the country during his exile.
 
 ### True Desolation
@@ -62,7 +64,7 @@ During the [[True Desolation\|True Desolation]], one of the first moves of the [
 [[Nale\|Nale]] brought [[Szeth\|Szeth]] and the other [[Skybreakers\|Skybreakers]] there to tell them the truth of the [[First Desolation\|First Desolation]].
 
 ## Politics
-Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population compared to other countries, especially it its southern reaches. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
+Marat is a tribal nation. Each city in the country is run by a leader referred to as elder brother, analogous to the [[Highprince\|highprinces]] of eastern nations. Marat's only contribution in global politics is its role as a waystop between [[Vorin\|Vorin]] and [[Makabaki\|Makabaki]] kingdoms. Marat has a low population compared to other countries, especially in its southern reaches. Some people in the east, including [[Taravangian\|Taravangian]], consider the Marati people to be barbarians.
 
 ### International Relationships
 #### Alethkar
@@ -72,13 +74,12 @@ The Marati people have a stable trade relationship with Alethkar, exporting furn
 They appear to have a tense relationship with Tukar, with [[Szeth\|Szeth]] speculating that the Tukari might abandon their war on [[Emul\|Emul]] to attack Marat. The nature of this relationship, beyond the tension within it, is currently unknown.
 
 ## Culture
-### Peoples
+### People
 West of Marat, women's hands are not covered for modesty. Their clothes have colours similar to Azish patterns. The cloth is thicker and coarser then Azish clothing. Their outfits are also more enveloping then Azish clothing and have braided tassels that hang low from the waist. This style is common in southeastern Makabak.
-The Marati are described as a rather proud people, like you would find in any other nation across Roshar.
-Marati people are typically brown-skinned with black hair, much like the nearby Tukari.
+The Marati are described as a rather proud people, like you would find in any other nation across Roshar. Marati people are typically brown-skinned with black hair, much like the nearby Tukari. They have many customs, some of which are tribe- specific, while others are universal.
 
 ### Economy
-Marat has grand bazaars that attract merchants looking for lucrative trade. Some of Marat's exports are fine furniture and rugs. [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] used some to decorate his barracks. [[Queen Fen\|Queen Fen]] gave [[Shallan\|Shallan]] a fine Marati rug as a wedding gift. [[Mraize\|Mraize]] owns rugs from Marat.
+Marat has grand bazaars that attract merchants looking for lucrative trade. Some of Marat's exports are fine textiles fine furniture and rugs. [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] used some to decorate his barracks. [[Queen Fen\|Queen Fen]] gave [[Shallan\|Shallan]] a fine Marati rug as a wedding gift. [[Mraize\|Mraize]] owns rugs from Marat. Families pass down auspicious patterns that become more intricate with each generation. If a family includes rugmakers or carpenters, they integrate their ancestral pattern into each piece they make.
 
 ## Settlements
 [[Rossen Dar\|Rossen Dar]]

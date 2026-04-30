@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Titles**|Your Normalness, Unexalted One Who Is Not King, Unexalted One|
-|**Aliases**|Darkshadow|
+|**Aliases**|Darkshadow, Mask|
 |**Groups**|[[Flowers of Night's Last Kiss Flight\|Flowers of Night's Last Kiss Flight]]|
 |**Species**|[[Kitsen\|Kitsen]]|
 |**Homeworld**|[[Evershore (planet)\|Evershore]]|
@@ -68,7 +68,7 @@ Hesho's kingdom took up over a third of the [[Kitsen homeworld\|kitsen homeworld
 Hesho travels to Starsight with a contingent of around fifty of his former subjects, including his shieldbearer, [[Kauri\|Kauri]], and a senator, [[Aria\|Aria]], to prove that their race is worthy of primary citizenship within the [[Superiority\|Superiority]]. He forms a friendship with Spensa, which eventually morphs into an alliance. This alliance survives past Hesho's death at the hands of [[Brade\|Brade]] during [[Winzik\|Winzik's]] attack on [[Detritus\|Detritus]]. Kauri takes command of the [[Swims Against the Current in a Stream Reflecting the Sun\|Swims Against the Current in a Stream Reflecting the Sun]] following his death, though it is unclear whether she was formally designated as his successor as the kitsen's captain or if she simply temporarily took command until the end of the battle.
 
 ### Rescue from the nowhere
-To Spensa's surprise, he is revealed to have survived in his apparent death and was sucked in the nowhere, where he lost his memory. He became a starfighter for Cannonade, one of the pirate organizations of the nowhere, but later aided Spensa after she told him who he was. He successfully escapes from the nowhere with Spensa and Doomslug to Detritus.
+To Spensa's surprise, he is revealed to have survived in his apparent death and was sucked in the nowhere, where he lost his memory. He became a starfighter for Cannonade, one of the pirate organizations of the nowhere, but later aided Spensa after she told him who he was. He  successfully escapes from the nowhere with Spensa and Doomslug to Detritus.
 
 ## Relationships
 ### Spensa

@@ -1,5 +1,6 @@
 |**Mrall**|
 |-|-|
+|**Died**|Palahanes 1175|
 |**Profession**|Bodyguard & Servant|
 |**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Urithiru\|Urithiru]]|
@@ -45,6 +46,7 @@ When the [[Alethi\|Alethi]] discovered [[Urithiru\|Urithiru]], Mrall accompanied
 
 After [[Dalinar Kholin\|Dalinar Kholin]] did not yield to Odium at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], Mrall questioned the Diagram's accuracy, concerned that it might be flawed. Prior to Taravangian's meeting with Odium, he suggested drafting a change of plan.
 When Taravangian left Urithiru to go with the Coalition’s forces in [[Emul\|Emul]], planning to betray them and be captured, Mrall was greatly saddened. He wept openly as Taravangian prepared to leave, and didn't like that Taravangian was separating himself from the Diagram and disbanding the group. Mrall didn't want to abandon Taravangian to his fate, and felt that Taravangian's life was being thrown away. Taravangian explained his reasoning briefly, and Mrall bid him farewell with a firm handshake and a hug.
+Days before the [[Contest of champions\|Contest of champions]], Mrall was killed by [[Cultivation\|Cultivation's]] agents while protecting Taravangian's family.
 
 ## Relationships
 ### Taravangian

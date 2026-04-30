@@ -1,11 +1,15 @@
 |**Kokerlii**|
 |-|-|
+||
+|**Died**|Aviar plague|
 |**Abilities**|Mental shielding|
-|**Bonded With**|[[Sixth of the Dusk (character)\|Sixth of the Dusk]]|
+|**Bonded With**|[[Sixth of the Dusk\|Sixth of the Dusk]]|
 |**Species**|[[Aviar\|Aviar]]|
 |**Homeworld**|[[First of the Sun\|First of the Sun]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Sixth of the Dusk\|Sixth of the Dusk]]*|
+|**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
+
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 **Kokerlii** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]]. He is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]] and lives with him on the island of [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]].
 
@@ -26,13 +30,13 @@ Images of Kokerlii
 
 
  On *Sixth of the Dusk* cover
-
+			
 
 
 
 
  *Sixth of the Dusk* interior art
-
+			
 
 
 
@@ -50,16 +54,18 @@ Images of Kokerlii
 
 
  On Dusk's arm
-
+			
 
 
 ## Attributes and Abilities
-Dusk has not clipped Kokerlii's wings and he is able to fly. Since Kokerlii serves as one of Dusk's companion Aviar, the two of them share a unique bond comparable to the [[Nahel bond\|Nahel bond]]. Dusk has trained Kokerlii to return to him when he whistles.
+Dusk has not clipped Kokerlii's wings and he is able to fly. Since Kokerlii serves as one of Dusk's companion Aviar, the two of them share a [[Nahel bond\|Nahel bond]]. Dusk has trained Kokerlii to return to him when he whistles.
 As an Aviar, Kokerlii gained a magical "talent" by visiting [[Patji's Eye\|Patji's Eye]] when he was young. He has the ability to conceal all mental activity in his immediate vicinity. This is extremely useful to Dusk because many predators on Patji (such as [[Deepwalker\|deepwalkers]], [[Deathant\|deathants]], [[Nightmaw\|nightmaws]], and [[Tuskrun\|tuskrun]]) can hunt by sensing thoughts. Dusk notes that the power weakens as Kokerlii moves farther away. This ability has similarities to [[Allomancy\|Allomantic]] [[Copper\|copper]] and other powers in the [[Cosmere\|cosmere]], meaning Kokerlii would be able to conceal some types of [[Investiture\|Investiture]].
 
 ## History
-Dusk bred Aviar and it is likely that he raised Kokerlii from birth, although trappers also care for the Aviar of their dead peers. Kokerlii had a nesting box in Dusk's [[Safecamp\|safecamp]], where he kept the rest of his Aviar. Kokerlii's talent was highly desirable to trappers in the Pantheon, and Dusk brought Kokerlii everywhere he went. Kokerlii may have had some understanding of his role, as Dusk noted that he gave an "apologetic chirp" after a nightmaw found and attacked them.
+[[Dusk\|Dusk]] bred [[Aviar\|Aviar]] and it is likely that he raised Kokerlii from birth, although trappers also care for the Aviar of their dead peers. Kokerlii had a nesting box in Dusk's [[Safecamp\|safecamp]], where he kept the rest of his Aviar. Kokerlii's talent was highly desirable to trappers in the Pantheon, and Dusk brought Kokerlii everywhere he went. Kokerlii may have had some understanding of his role, as Dusk noted that he gave an "apologetic chirp" after a nightmaw found and attacked them.
 Kokerlii accompanied Dusk and [[Vathi\|Vathi]] on a dangerous nighttime trip through the jungle. At one point Dusk believed he would have to sacrifice himself to a nightmaw and tried to give Kokerlii to Vathi, but an alternate plan was devised and Kokerlii remained with Dusk.
+Kokerlii died from a plague that affected Aviar three years after the night trip. The plague was later contained, weeks later, by medicine that was given by the [[Ones Above\|Ones Above]].
+Vathi gifted Dusk an Aviar, [[Rokke\|Rokke]], with similar powers as Kokerlii so that she may help him on his expedition in [[Shadesmar\|Shadesmar]].
 
 
 

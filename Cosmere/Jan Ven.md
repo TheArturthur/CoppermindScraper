@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Species**|[[Sho Del\|Sho Del]]|
-|**Homeworld**|[[Scadrial\|Scadrial]]|
+|**Homeworld**|*Unknown*|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 

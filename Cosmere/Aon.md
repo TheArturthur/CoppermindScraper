@@ -61,6 +61,7 @@ All Aons are based on Aon Aon, which itself was based off the shape of Arelon. T
 1. [[#Mea]] 
 1. [[#Nae]] 
 1. [[#Oed]] 
+1. [[#Olo]] 
 1. [[#Omi]] 
 1. [[#Opa]] 
 1. [[#Ope]] 
@@ -99,7 +100,7 @@ All Aons are based on Aon Aon, which itself was based off the shape of Arelon. T
 >“*First, Language*”
 \-Ars Arcanum
 
-This Aon serves as the starting point for all other Aons.
+This Aon serves as the starting point for all other Aons. It's appearance is based off of the geography of the kingdom of Arelon.
 *Examples:* AonDor, Aonic
 
 ### Aan
@@ -165,7 +166,7 @@ This Aon serves as the starting point for all other Aons.
 >“*Beauty, Handsomeness*”
 \-Ars Arcanum
 
-*Examples:* [[Meala\|Meala]], [[Seinalan\|Seinalan]]
+*Examples:* [[Ala\|Ala]], [[Meala\|Meala]], [[Seinalan\|Seinalan]]
 
 ### Aor
 *Examples:* Aor Plantation
@@ -254,7 +255,7 @@ This Aon has the ability to "make a room go completely silent for a short time."
 >“*Power, Energy*”
 \-Ars Arcanum
 
-Aon Daa is the preferred offensive weapon of the Elantrians. When drawn successfully, a burst of light is emitted that warps and twists the air around it. The light then strikes its target with considerable explosive force.
+Aon Daa is the preferred offensive weapon of the Elantrians. When drawn, a burst of light is emitted that warps and twists the air around it. The outputted light strikes its target with considerable explosive force.
 *Examples:* Daa Plantation
 
 ### Dao
@@ -629,6 +630,9 @@ When drawn in AonDor, the circle in the center of the Aon "ripples like water" a
 
 ### Oed
 *Examples:* [[Hoed\|Hoed]]
+
+### Olo
+*Examples:* [[Olo\|Olo]]
 
 ### Omi
 

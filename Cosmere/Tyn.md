@@ -1,7 +1,7 @@
 |**Tyn**|
 |-|-|
 ||
-|**Died**|Killed in self-defence by [[Shallan\|Shallan]], Ishanah 1173|
+|**Died**|Killed in self-defense by [[Shallan\|Shallan]], Ishanah 1173|
 |**Profession**|Con artist|
 |**Birthplace**|[[Tu Bayla\|Tu Bayla]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
@@ -63,7 +63,7 @@ The Ghostbloods initially thought Tyn was either sick or using Veil to avoid con
 
 ## Relationships
 ### Shallan
->“*If you’re going to fool people, you’ll need to learn how to act beneath them as well as above them.*”
+>“*If you’re going to fool people, you’ll need to learn how to act beneath them as well as above them. *”
 \-Tyn on becoming a con artist[16]
 
 

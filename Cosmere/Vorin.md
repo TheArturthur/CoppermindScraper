@@ -6,13 +6,13 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
   **Vorin nations**. In dark red the nations where Vorinism plays a more prevalent role.
-**Vorinism** is a monotheistic religion that is practiced primarily in Eastern [[Roshar\|Roshar]], that comprises the collective spiritual, cultural, and legal traditions of several ethnic groups and states, collectively known as the Vorin Kingdoms. Vorinism is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[Herdaz\|Herdaz]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], and becomes less common further west.
+**Vorinism** is a monotheistic religion that is practiced primarily in Eastern [[Roshar\|Roshar]], that comprises the collective spiritual, cultural, and legal traditions of several ethnic groups and states collectively known as the Vorin Kingdoms. Vorinism is most prevalent in [[Alethkar\|Alethkar]], [[Jah Keved\|Jah Keved]], [[Kharbranth\|Kharbranth]], [[Herdaz\|Herdaz]], [[New Natanan\|New Natanan]] and [[Thaylenah\|Thaylenah]], and becomes less common further west.
 Vorinism is based on belief in one god, known as the [[Almighty\|Almighty]], who created the world and mankind within it, and the Ten [[Herald\|Heralds]] whom he anointed as his emissaries and protectors of mankind, and in their eternal fight against the [[Voidbringers\|Voidbringers]].
-Vorinism remains culturally and doctrinally diverse concerning many aspects of their faith, with different nations and ethnic groups forming their own religious movements and branches. The creeds of various Vorin denominations generally hold in common the belief in the Almighty and the Heralds, though tend to vary in their gender norms and whether or not they believe the Almighty to be the only god, amongst other factors.
-Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
+Vorinism remains culturally and doctrinally diverse concerning many aspects of their faith, with different nations and ethnic groups forming their own religious movements and branches. The creeds of various Vorin denominations generally hold in common the belief in the Almighty and the Heralds, though tend to vary in their gender norms and whether or not they believe the Almighty to be the only god, amongst other factors. 
+Founded by the descendants of the eastern Silver Kingdoms, Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 
 ## Contents
 
@@ -48,6 +48,12 @@ Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 2. [[#Prayer]] 
 2. [[#Oathgates]] 
 2. [[#Social Hierarchy]] 
+
+2. [[#Slavery]] 
+2. [[#Relation to the Economy]] 
+2. [[#Social Mobility]] 
+
+
 2. [[#Sacred Numerology]] 
 
 
@@ -115,7 +121,7 @@ Vorinism flourished in eastern Roshar, becoming the primary faith in the area.
 
 9 Priesthood. [[#Priesthood]] 
 
-9. [[#Slavery]] 
+9. [[#Slavery 2]] 
 9. [[#Spiritual Guidance]] 
 
 9. [[#Proselytization]] 
@@ -150,43 +156,43 @@ Vorinism is named after an important figure in the history of the faith known fo
 ### The Almighty
 For more on The Almighty, see [[/wiki/Honor#Influence]].
 In Vorin religion, people believe in the **[[Almighty\|Almighty]]**, the force of good and creator of mankind and the Dawnsingers, along with animals and plantlife and Roshar itself. All things are said to exist because of him, and his existence is held to be axiomatic.
-The Almighty is thought to be uncreated, all-powerful, omniscient and all-seeing, immortal, omnibenevolent, and all-loving. The glory of Almighty is held to be as such that anyone looking upon him would immediately burn to ash. As such, he is typically represented by the divine prism with ten facets, one for each of the Heralds. He is also represented with the Double Eye of the Almighty, which represents him and the world itself. These appear to be a manifestation of .
+The Almighty is thought to be uncreated, all-powerful, omniscient and all-seeing, immortal,  and omnibenevolent.  The glory of Almighty is held to be as such that anyone looking upon him would immediately burn to ash. As such, he is typically represented by the divine prism with ten facets, one for each of the Heralds. He is also represented with the Double Eye of the Almighty, which represents both him and the world itself. These appear to be a manifestation of .
 The Almighty is believed to be able to see into the future, this is typically seen as deeply immoral and as a manifestation of Voidbinding, but the Almighty is held as the exception to this rule. Thus he is the only being allowed to divine the future.
-The Almighty is believed to have ten holy names; including his tenth name, Elithanathile or *He who Transforms*; which is allowed only to be spoken by members of the Ardentia.
-It is believed that the Almighty exists within all people, and all things. Made up of an indestructible substance. Due to this, some ardents argue that all people are aspects of the Almighty.
+The Almighty is believed to have ten holy names; including his tenth name, Elithanathile or *He who Transforms*; which is only allowed to be spoken by members of the Ardentia.
+It is believed that the Almighty exists within all people and all things, and is made up of an indestructible substance. Due to this, some ardents argue that all people are aspects of the Almighty.
 Adherents of Vorinism believe that the Almighty is also responsible for sorting out the dead and deciding on their afterlife. To achieve the results one desires, one has to pick a Calling - a purpose in life - and a Glory, an aspect of the Almighty that one strives to emulate. It is believed these talents are granted to one by the Almighty himself, and it is taught that capitalizing and progressing in these talents is the most fundamental way to worship him. He is believed to accept the excellence of all men and women, regardless of what they do.
 He is associated with positive change and transformation, ideas held to be sacred in the Vorin religion. It is believed he used the power of change to create the world, and that he gifted mankind their ability to change and grow on a physical, spiritual, and psychological level. He and his decrees are believed to be the determining factor in what is considered good and moral.
 Authority is believed to be rooted in connection and closeness to the Almighty, thus, lighteyed individuals claim that they are closer to the Almighty than the darkeyed, and thus are holier than them and have the authority to rule over them. Kings are also thought to have their authority rooted in a divine mandate from the Almighty.
 The Almighty is prayed to via burned Glyphwards. It is believed that, by burning the prayer, they send its soul to the Almighty so that it may be heard and acted upon.
 The Almighty, like many things in Vorinism, is associated with the number ten, as seen in his ten holy names, the ten Heralds he anointed as his emissaries, and the ten faceted crystal used in his aniconic representations.
-Some people are known to conflate the Stormfather with the Almighty, though this is not universally accepted doctrine.
+Some people are known to conflate the Stormfather with the Almighty, though this is not a universally accepted doctrine.
 
 #### Euhemerism
 The Almighty is ultimately based on the Shard [[Honor\|Honor]]. Some ardents have tried to reconceptualize their faith after learning of Honor's death, interpreting Honor as merely being an aspect of the Almighty through which He revealed himself, although this position remains heterodox and heretical to more orthodox Vorinism.
 
-  Artistic representation of a Desolation.
+ Artistic representation of a Desolation.
 ### The Heralds
-The **Heralds** were believed to be forces of good which fought against the Voidbringers in one-hundred Desolations, and helped to teach and protect mankind after the Expulsion. After the hundredth Desolation, the Last Desolation or Aharietiam, they cast away the Voidbringers from Roshar forever. But they continue to fight against them in the Tranquiline Halls, in order to liberate the Halls from them.
+The **Heralds** were believed to be forces of good which fought against the Voidbringers in one-hundred Desolations, and helped to teach and protect mankind after the Expulsion.  After the hundredth Desolation, the Last Desolation or Aharietiam, they cast away the Voidbringers from Roshar forever. But they continue to fight against them in the Tranquiline Halls, in order to liberate the Halls from them.
 Each Herald is an emissary of the Almighty, wielding potent magical powers, as well as the ability to respond to prayers and patronage over a specific part of human experience. Vorinism typically places [[Jezrien\|Jezrien]] and [[Kalak\|Kalak]] as the highest among the Heralds, with others beneath them. Occasionally, either of them are conflated with the [[Stormfather\|Stormfather]], who in turn is commonly equated with the Almighty himself, although this depends on the particular Vorin country.
 Each Herald is taught to hold immense power granted to them by the Almighty, and held Honorblades instead of Shardblades. They are also thought to have conferred teachings and wisdom to mankind, and are considered to be wise beyond human measure. They led the Knights Radiant before the Knights betrayed mankind during the Recreance.
 The Honorblades are held to be sacred treasures in Vorinism, spoken of alongside the [[Dawnshard\|Dawnshards]].
 
 #### List of Heralds
 
-Jezerezeh'Elin
-Nalan'Elin
-Chanarach'Elin
-Vedeledev'Elin
-Pailiah'Elin
-Shalash'Elin
-Battah'Elin
-Kelek'Elin
-Talenelat'Elin
-Ishi'Elin
+[[Jezrien\|Jezerezeh'Elin]]
+[[Nale\|Nalan'Elin]]
+[[Chanarach\|Chanaranach'Elin]]
+[[Vedel\|Vedeledev'Elin]]
+[[Pralla\|Pailiah'Elin]]
+[[Shalash\|Shalash'Elin]]
+[[Battar\|Battah'Elin]]
+[[Kalak\|Kelek'Elin]]
+[[Talenel\|Talenelat'Elin]]
+[[Ishar\|Ishi'Elin]]
 
 ### The Voidbringers
 The **[[Voidbringers\|Voidbringers]]** are taught to be the polar opposite of the Almighty, forged in Damnation by the cosmere itself, to act as a balancing force of evil to his goodness. They are said to have cast humanity out of the Tranquiline Halls and to Roshar, and they tried to cast humanity even out of Roshar. They are claimed to still live in the Tranquiline Halls, where the Heralds lead the souls of the fallen against them in the War for Heaven. The Voidbringer incursions onto Roshar are known as the Desolations.
-While it is taught that the Voidbringers left Damnation and inhabit the Tranquiline Hills, it is also taught that they exist within Damnation to torture the souls of the damned. Some Vorins have pointed out the contradiction inherent in these teachings.
+While it is taught that the Voidbringers left Damnation and inhabit the Tranquiline Halls, it is also taught that they exist within Damnation to torture the souls of the damned. Some Vorins have pointed out the contradiction inherent in these teachings.
 They are said to be led by the [[Unmade\|Unmade]]. Who are able to watch humanity, and effect their lives. Therefore Vorin people have formed superstitions about what they believe brings the eyes of the Unmade upon them. It is disagreed upon how many Unmade exist, some stories speak of ten, others of nine, but they are often fused into a singular entity within Vorinism.
 
 #### Folklore
@@ -212,7 +218,7 @@ It is unclear how essential they believe gender to be.
 ### Life After Death
 Those who grow to be the very best at their Calling are chosen to join the Heralds in the fight to regain the Tranquiline Halls when they die. Their particular afterlife differs depending on the Calling -- those who were the very best at farming become farmers for the Heralds, those who are the greatest at battle are chosen to fight beside the Heralds, etc. Depending on what your calling was in life, you would receive powers in the afterlife. A farmer would be able to cause whole fields of crops to grow with a single gesture, a spearman could create thunder with his shield and lightning from his spear.
 The Heraldic Forces were believed to be the army of the [[Herald\|Heralds]] that fought the [[Voidbringer\|Voidbringers]] for the [[Tranquiline Halls\|Tranquiline Halls]] in what was called the War for Heaven. It was said that the sound of a horn would call the Heraldic Forces to the field of battle. Joining the Heraldic forces was the considered to be highest Calling of men.
-Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation.
+Those who do not achieve their greatest potential are stuck in a dreamless sleep until the Halls are reconquered, while those who do horrible things are cast into Damnation. 
 What passes into the afterlife is said to be the mind, with the spirit returning to the divine essence from which it was formed. Abition is said to be the separation between the three aspects of being; the mind, spirit, and body.
 They appear to have some awareness of the Spiritual Realm, but conflate it with the afterlife.
 
@@ -235,14 +241,28 @@ The original purpose of the [[Oathgate\|Oathgates]] has been lost to time, thoug
 Thaylen Vorinism describes the Oathgates as "portals of worlds", which only the Passionate could use.
 
 ### Social Hierarchy
+For Nahn, see [[/wiki/Darkeyes#Nahn]].
+For Dahn, see [[/wiki/Lighteyes#Dahn]].
 Social Hierarchy in Vorin nations is seen to be rooted in connection and closeness to the Almighty. Lighteyes are seen as being the chosen of the Almighty, and thus are closer to him than the darkeyed population, and thus are held to be holier than them and are taught to have inherent authority over them. Following from this, kings and rulers are thought to have their authority rooted in a divine mandate from the Almighty. It is seen as inappropriate for a darkeyed individual to have authority or wealth above that of any lighteyed individuals. Furthermore, they teach that great wealth is only to be conferred upon one by the Almighty.
 Due to their position above darkeyes, it is seen as unthinkable for a darkeyed person to question the orders and desires of a ligheyed person. Thinking or acting outside of one's position, seen as given by the Almighty, is treated as a punishable offence.
-This idea, rooted in the Vorin faith, is the foundation behind the strict caste systems in place in various Vorin nations, such as Alethkar and Jah Keved. This caste system, in adherence to these teachings, places darkeyed peoples lower than lighteyed peoples. It has also deeply influenced their worldview, leading them to believe that such caste systems are part of the natural order enforced by the Almighty himself.
+This idea, rooted in the Vorin faith, is the foundation behind the strict and ascriptive caste systems in place in various Vorin nations, such as Alethkar and Jah Keved. This caste system, in adherence to these teachings, places darkeyed peoples lower than lighteyed peoples into superstrata labeled Nahn and Dahn, which are each divided into ten substrata. It has also deeply influenced their worldview, leading them to believe that such caste systems are part of the natural order enforced by the Almighty himself.
+
+#### Slavery
+This system sees slavery as morally permissible. It is morally justified within their moral framework due to the apparent distance of darkeyed slaves and parshmen, the latter of which are disqualified from personhood in its entirety within the Vorin framework, from the Almighty. They also believe it to be a proper punishment for various crimes committed by members of the lower castes. In most circumstances, if one of the higher-classes, typically a lighteyed individual, were to commit the same crime as a darkeyed slave, they would be executed instead of being sold into slavery.
+Ardents are the legal chattel of members of the higher-class, lighteyed population, and hold minimal *de jure* political power. Despite this, the Vorin church as a collective, albeit decentralized, institution holds immense social, political, and cultural power over society. This is both due to the influence of the Vorin faith on culture and politics, but also in many lighteyed lords using their ardents as part of their political schemes.
+
+#### Relation to the Economy
+The darkeyed lower classes, not merely the slaves, are essentially treated as productive assets for landowning lighteyes. They are often made to work farmable land upon the property of a lighteyed landowner, and are heavily taxed for the use of said land. Darkeyes are forced to work for a living, regardless of their stratum within the nahn system.
+Lighteyes, outside of the 10th dahn, do not need to work in order to survive.
+As stated, this system, within the Vorin moral framework, is seen not only as morally permissible, but as the proper state of society, ordained by the Almighty.
+
+#### Social Mobility
+Social mobility, both intragenerational and intergenerational, is heavily restricted, even within the greater social superstrata. As Nahn and Dahn are typically defined by ancestry, it is essentially impossible for the  marginalized darkeyed population to transition from between these superstrata. The only known situation where this could occur, before the Restitution, was by a darkeyed soldier killing a [[Shardbearer\|Shardbearer]] and taking his [[Shardblade\|Shardblade]].
 
 ### Sacred Numerology
-Ten, and multiples thereof, are highly sacred in Vorin theology, appearing in many places in their teachings, scriptures, and practices.
+Ten, and multiples thereof, are highly sacred in Vorin theology, appearing in many places in their teachings, scriptures, and practices. 
 Numerology was historically far more important to Vorin adherents, and they would look for numerological significance in their scriptures. This became an "obsession" and such numerological analysis was eventually banned.
-Some examples of ten appearing in Vorin theology include:
+Some examples of ten appearing in Vorin theology include: 
 
 
 The Ten-Faced Crystal used to represent the Almighty
@@ -267,7 +287,7 @@ The Ten Surges
 
 ## Cosmology and Spiritualism
 ### Three-world cosmology
-The Vorin cosmology proposes a division between the upper world, the Tranquille Halls; a central world, Roshar; and the lower world, Damnation. These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
+The Vorin cosmology proposes a division between the upper world, the Tranquille Halls; a central world, Roshar; and the lower world, Damnation.  These worlds are inhabited by different beings and fulfill different roles in the Vorin cosmological, spiritual, and moral framework.
 Alongside these three worlds, they also believe in the Cognitive Realm, though it is unclear where it fits in their cosmology. They see it as more fluid than the Spiritual Realm, and believe that it can be visited. They also believe in a pool of divine essence from which souls are formed. It is unclear where it fits into their cosmology, or if it is the Almighty himself.
 Within this framework, the Almighty exists within and people and all things, and is made up of an indestructible substance.
 
@@ -280,7 +300,7 @@ The Tranquiline Halls are often conflated with the [[Spiritual Realm\|Spiritual 
 #### Roshar
 For more on Roshar, see [[Roshar\|Roshar]].
 For more on the Physical Realm, see [[Physical Realm\|Physical Realm]].
-The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. Life on Roshar is taught to be one of conflict. It correlates with the [[Physical Realm\|Physical Realm]].
+The material world, made up of the world under mankind's feet and the skies above. This is the world that mankind is born into and lives their life within, with Vorins attempting to live a virtuous life in order to be granted paradise and salvation in the Tranquiline Halls when judged by the Almighty after their death. Life on Roshar is taught to be one of conflict. It correlates with the [[Physical Realm\|Physical Realm]]. 
 Roshar, and all of the plants and animals upon it, are seen as creations of the Almighty.
 The nature of Roshar is modeled and described through the Ten Essences and Ten Surges.
 
@@ -307,7 +327,7 @@ It is said to be home to demons, monsters, and evil spren. All three are often c
 For more information on the Essences, see [[Ten Essences\|Ten Essences]].
 For more information on the Surges, see [[Surgebinding\|Surgebinding]].
 The Ten Essences are a Vorin framework for understanding the nature of reality and of Soulcasting. They are described as classical elements. Each Essence is associated with a [[Polestone\|polestone]], a body focus, its soulcasting properties, a Herald, the attributes associated with that Herald, and a number, amongst other associations. The Ten Essences have their foundation in Soulcasting, and what soulcasted materials are associated with what polestone.
-Each Essence is also associated with a Surge, seen as the fundamental forces of reality in Vorin theology. These forces are Adhesion, Gravitation, Division, Abrasion, Progression, Illumination, Transformation, Transportation, Cohesion, and Tension. There is an association between various forces and Essences, reflected in the Double Eye of the Almighty. The exact nature of these connections is currently unknown.
+Each Essence is also associated with a Surge, seen as the fundamental forces of reality in Vorin theology. These forces are Adhesion, Gravitation, Division, Abrasion, Progression, Illumination, Transformation, Transportation, Cohesion, and Tension. There is an association between various forces and Essences, reflected in the Double Eye of the Almighty. The exact nature of these connections is currently unknown. 
 Essential Theology is likely a collection of precepts and teachings that revolve around the Ten Essences, and is studied by ardents, scribes, and Soulcasters.
 
 ### Aspects of Being
@@ -323,16 +343,16 @@ The soul is the animating force of the body, and when severed by a Shardblade, o
 The soul is apparently split into mind and spirit. The spirit is said to be made up of divine essence, and to rejoin this pool upon death; while mind goes to be judged by the Almighty, to pass into the Tranquiline Halls or Damnation. Their individual properties, or the manner in which these aspects interact, is not currently known. Though they are known to be able to exist separately from one another, with the mind existing without the spirit within the Tranquiline Halls.
 The soul is what is believed to be what one improves and transforms through virtuous actions, and through following their Glory and Calling, striving towards the perfected self. It is also where mankind's dual-nature resides, allowing them to commit both good and evil actions, shaping their self through those actions.
 When a prayer is burned, it is believed its soul is taken to the Almighty for him to hear and respond to.
-Vorinism teaches of something called the Soul's March, though little is known about what this describes.
+Vorinism teaches of something called the [[Soul's March\|Soul's March]], though little is known about what this describes.
 
 ## Religious texts
 Vorinism has a wide variety of sacred texts which guide their interpretation of the Almighty, his decrees, and human history. It holds *[[The Arguments\|The Arguments]]* as one of their central holy scriptures, which acts as a basis of much of their mythology and moral framework. In Jah Keved, Vorin women are expected to memorize passages from *The Arguements*.
 Other texts are held to be of deep religious and cultural importance as well, even if not described as a form of scripture, such as *[[Arts and Majesty\|Arts and Majesty]]*.
 The *[[Book of Endless Pages\|Book of Endless Pages]]* is an important text within the Devotary of Sincerity. It is a book of blank pages which teaches one to search for truth while holding on to one's faith, and that there are always more answers to be found.
-During the days of Old Vorinism, *[[The Way of Kings (in-world)\|The Way of Kings]]* was held as a very important and holy religious text. It, however, fell out of use in Vorinism over time. And is no longer used as a holy text within the faith by the Vorin year 1173.
+During the days of Old Vorinism, *[[The Way of Kings (in-world)\|The Way of Kings]]* was held as a very important and holy religious text. It, however, fell out of use in Vorinism over time and is no longer used as a holy text within the faith by the Vorin year 1173.
 
 ### Hermeneutics
-Historically, ardents believed that the revealed scriptures consistent not only of the written context, but held a more esoteric layer of meaning that could be revealed through mystical hermeneutics and numerology. Thus they would apply a system for interpreting and ascertaining the mystical meaning hidden within the exoteric text. One major method of doing so was by assigning a numerical value to a name, word or phrase by reading it as a number, and using this to divine meaning. This became an "obsession" and such esoteric analysis was eventually banned.
+Historically, ardents believed that the revealed scriptures were consistent not only in the written context, but that they held a more esoteric layer of meaning that could be revealed through mystical hermeneutics and numerology. Thus the ardents would apply a system for interpreting and ascertaining the mystical meaning hidden within the exoteric text. One major method of doing so was by assigning a numerical value to a name, word or phrase by reading it as a number, and using this to divine meaning. This became an "obsession" and such esoteric analysis was eventually banned.
 
 ## Moral Teachings
 ### Good and Evil
@@ -361,20 +381,20 @@ Sincerity
 Honesty
 
 ### Transformation and Change
-Vorinism preaches change and becoming something better. They believe that the ability of mankind to change and grow, making their mind and soul into something better, is one of the Almighty's greatest gifts. This concept forms a core pillar of their doctrine. The power of change and transformation is also held to be holy, and to be one of the greatest powers held by the Almighty. This forms one of the basses of the concept of Callings, Glories, and Elevations; improving oneself through a lifetime of hard work in order to attain one's best self.
+Vorinism preaches change and becoming something better. They believe that the ability of mankind to change and grow, making their mind and soul into something better, is one of the Almighty's greatest gifts. This concept forms a core pillar of their doctrine. The power of change and transformation is also held to be holy, and to be one of the greatest powers held by the Almighty. This forms one of the bases of the concept of Callings, Glories, and Elevations; improving oneself through a lifetime of hard work in order to attain one's best self.
 
 ### Telling the Future
 It is seen that telling the future is an utmost evil, inherently tied to [[Voidbinding\|Voidbinding]].
 Due to this, Vorins look down upon gambling and games of chance, seeing them as immoral, heretical, and dangerous.
 
 ### Oaths and Marriage
-
-When it comes to relationships, Vorinism is focused on making and upholding oaths. Breaking oaths, or acting without proper oaths, such as having sex outside of marriage, is frowned upon. However, Vorinism offers a wide variety of partnership oaths for those who do wish to pursue relationships, including some for same-sex couples. All official Vorin betrothals must be signed and verified by ardents. As a result, people sometimes use a **causal** betrothal, which makes them practically engaged but confers no legal benefits.
+ 
+When it comes to relationships, Vorinism is focused on making and upholding oaths. Breaking oaths, or acting without proper oaths, such as having sex outside of marriage, is frowned upon. However, Vorinism offers a wide variety of partnership oaths for those who do wish to pursue relationships, including some for same-sex couples. All official Vorin betrothals must be signed and verified by ardents. As a result, people sometimes use a **casual** betrothal, which makes them practically engaged but confers no legal benefits.
 Ardents are permitted to marry, but only within the ardentia.
 
 ### Sex and Sexuality
 As mentioned previously, premarital sex and adultery are frowned upon, alongside the institution of prostitution. Hand-holding, particularly with the safehand of a woman, is considered very intimate.
-Despite their strict adherence to gender roles, they are accepting of homosexual relationships, valuing them as equal to heterosexual relationships.
+Despite their strict adherence to strict gender roles, Vorin societies are accepting of homosexual relationships, valuing them as legally equal to heterosexual relationships. The acceptance of same-sex couples does not arise out of social progressivism, but rather from simply the importance the place on oaths regardless of the people involved, and their conceptualization of marriage as an oath. Various people in Vorin societies, despite this, view homosexuality as abnormal or divergent from gender norms, even if they do not see it as sinful or morally wrong.
 
 ## Mythology
 ### Creation Myth and the Expulsion
@@ -387,7 +407,7 @@ On Roshar, the Knights Radiant were left behind, although they ultimately betray
 
 ## Branches and Varieties
 Vorinism is known to have at least four branches, the orthodox variety practiced by Alethkar, Jah Keved, and Kharbranth; and the more heterodox varieties practiced by adherents in Herdaz, New Natanan, and Thaylenah. Vorinism has also been syncretized with other religions, such as in the Riran faith, which incorporates Vorin and Iriali teachings. Scholars consider religions such as the Emuli faith to be a splinter religion of Vorinism, though this is debated.
-While culturally and doctrinally diverse, the various denominations and branches have several core similarities, such as a belief in the Almighty and the Heralds.
+While culturally and doctrinally diverse, the various denominations and branches have several core similarities, such as a belief in the Almighty and the Heralds. 
 
 ### Herdazian Vorinism
 Herdazian Vorinism is a heterodox variety of Vorinism which varies from the more orthodox variety. Little is known about Herdazian Vorinism, except that their doctrine, contrary to the orthodox, permits male literacy. They hold some memory of the polytheistic religion followed by the ancient Herdazians, presumably from before the country was converted to Vorinism. The prevalence and position of these gods in their faith is currently unknown, however, some Herdazians are known to pray to the old gods.
@@ -416,7 +436,7 @@ Apart from cultural and religious aspect, Vorinism has an impact on the legal sy
 
 #### The Right of Travel
 >“*Institute a right of movement, so that a family who feels their lord is unrighteous can leave his area. Then tie a lord's authority to the people who follow him.*”
-\-Nale[109]
+\-Nale[120]
 
 
 The Right of Travel allows every Vorin citizen of sixth [[Nahn\|nahn]] or higher to freely travel between various Vorin lands. Vast majority of darkeyes have this right. Lacking it ties a person to the land they were born in, and usually means that something has gone very badly for their ancestors. However, joining the military automatically forfeits the Right of Travel for the duration of service.
@@ -432,15 +452,16 @@ The Right of Challenge allows a distinguished lighteyed warrior to demand justic
 ## Priesthood
   <<Kadash\|Kadash>>, a Vorin ardent
 The Vorin priests are called **ardents**; the entirety of them is referred to as the **ardentia**. In matters of faith, they are led by a **council of Curates**, operating out of the Holy Enclave in the [[Veden\|Veden]] city of [[Valath\|Valath]]. This council has the authority to excommunicate and declare anathema members of the church, including the leaders of Vorin countries, for heresy -- a right given to them by the Covenants of Theocracy, an unspecified, but centuries-old document. They can be recognized by their blue robes, as well as gem-encrusted staves, far more ornate than is considered proper post-Hierocracy.
-Other types of ardents are likewise differentiated by the colors of their robes -- regular ones wear gray, while the [[Soulcaster\|soulcasters]] wear red. Many ardents have shaved heads, and men often have long beards. Both male and female ardents are considered genderless from the social standpoint: women do not need to cover their [[Safehand\|safehand]], while men are allowed to learn to read and write, and both can eat both sweet and spicy foods. This being said, while they are technically allowed to pursue both masculine and feminine arts, they are often pushed to follow their gender. Ardents are permitted to marry, but only within the ardentia.
+Other types of ardents are likewise differentiated by the colors of their robes -- regular ones wear gray, while the [[Soulcaster\|soulcasters]] wear red. Many ardents have shaved heads, and men often have long beards. Both male and female ardents are considered genderless from the social standpoint: women do not need to cover their [[Safehand\|safehand]], although some still choose to cover their safehands with gloves for a more feminine style, while men are allowed to learn to read and write, and both can eat both sweet and spicy foods. This being said, while they are technically allowed to pursue both masculine and feminine arts, they are often pushed to follow their gender. Ardents are permitted to marry, but only within the ardentia.
 Ardents are representative of the Almighty, and to disrespect an ardent is considered tantamount to disrespecting the Almighty himself.
 During the Hierocracy, ardents were secretive and had immense political power. They left the Vorin faith highly esoteric, mystical, and cabalistic. They claimed that only they, the initiated, could understand religion or the Almighty. Having claimed this, they used it as a reason for them having authority over the rest of the population. Following the end of the Hierocracy, they were forced into being more open about Vorin teachings, and were forbidden from holding political station or property.
 
 ### Slavery
-Ardents are, technically, slaves to [[Lighteyes\|lighteyed]] nobles of [[Vorin\|Vorin]] countries, with some serving specific households while others are beholden to the national ruler. They can neither hold land nor own property -- a safeguard to prevent a second [[Hierocracy\|Hierocracy]]. Like [[Parshmen\|Parshmen]] and other slaves they are not paid for their work, but they are highly respected, even by people above them in the social hierarchy. It seems one cannot be forced to become an ardent; rather, people join willingly, and can also leave if they so choose.
+Ardents are, technically, slaves to [[Lighteyes\|lighteyed]] nobles of [[Vorin\|Vorin]] countries, with some serving specific households while others are beholden to the national ruler. They can neither hold land nor own property -- a safeguard to prevent a second [[Hierocracy\|Hierocracy]]. Like [[Parshmen\|Parshmen]], they are not paid for their work, but they are highly respected, even by people above them in the social hierarchy. It seems one cannot be forced to become an ardent; rather, people join willingly, and can also leave if they so choose, without penalty.
 They believe that the limitations put upon them, and their state of slavery to high ranked political officials, is done by the Almighty as so that they never rise above their stations. They believe that the Highprinces that own them are chosen as the Almighty's guardians of the people.
 
 ### Spiritual Guidance
+  A swordmaster ardent
 Ardents are forbidden from participating in politics or holding social offices. However, their word and opinions are still highly valued, and they hold authority in spiritual matters. They are not religious authorities, but merely spiritual advisors who grant guidance to the people, rather than giving them divine orders and decrees.
 Ardents are responsible for the spiritual well-beings of their masters, and often tend to various rites and rituals in their stead, so as to allow the [[Lighteyes\|lighteyes]] to go on with their lives unburdened. For the [[Darkeyes\|darkeyes]], ardents provide advice in pursuing their Calling, as well as education -- the Right to Learn means that any person who asks for it must be taught by the ardents. For this reason, most major temples have ardents specializing in most common skills, from fighting to writing. This also means that they are allowed to wield [[Shardblade\|Shardblades]], as they must be capable of teaching the lighteyes how to use them.
 They are the only people allowed to speak Almighty's tenth name, *Elithanathile*, or He Who Transforms.
@@ -453,17 +474,17 @@ In [[Alethkar\|Alethkar]], ardents are the only people allowed to use [[Soulcast
 
 ### Devotaries
   <<Ellista\|Ellista>>, a scholar from the Devotary of the Mind
-Ardents are separated into Devotaries, sects devoted to different aspects of Vorinism. Devotaries come in different forms: some, like the Devotary of the Mind, are monastic, sequestered away from civilization to devote themselves, while others permit their members to remain in touch with the rest of the world. This being said, ardents are generally not allowed to marry outside of their orders, though at least some orders allow them to marry each other. Overall, their chief purpose is to aid in nurturing the believers' Callings.
+Ardents are separated into Devotaries, sects devoted to different aspects of Vorinism. Devotaries come in different forms: some, like the Devotary of the Mind, are monastic, sequestered away from civilization to devote themselves, while others permit their members to remain in touch with the rest of the world. This being said, ardents are generally not allowed to marry outside of their orders, though at least some orders allow them to marry each other. Overall, their chief purpose is to aid in nurturing the believers' Callings. 
 Devotaries are dedicated either to a specific Glory, or to a specific Herald.
 Known devotaries include:
 
 **The Devotary of Purity** is dedicated to wholesomeness and honesty. Members of this devotary are expected to keep their thoughts and actions 'pure'. A member's talents are expected to be dedicated to purity as well, such as an artist depicting only religious topics. [[Shallan Davar\|Shallan Davar]] is a member of this devotary, by her father's choice.
 **The Devotary of Sincerity** is dedicated to seeking truth in all things. Members believe that there is always something to learn, and everything is subject to scrutiny, even their own religion. No question is rebuked. It is one of the smallest devotaries. In stark contrast to the rest of Vorinism, [[Jasnah\|Jasnah]] respects this devotary, and suggests that Shallan seek it out once she arrives home.
-**The Devotary of Insight** is not described. Many ardents from the Devotary of Insight are seen exchanging dulled lamps from the Palanaeum and putting infused ones in their place. They have a temple in Kholinar.
+**The Devotary of Insight** is dedicated to the study of Vorin religious texts. Many ardents from the Devotary of Insight are seen exchanging dulled lamps from the Palanaeum and putting infused ones in their place. They have a temple in Kholinar.
 **The Devotary of Denial** seems to emphasize the denial of desires to the point of asceticism.
 **The Devotary of the Mind** is a monastic devotary with its home at the [[Jokasha Monastery\|Jokasha Monastery]] on the western slopes of the [[Horneater Peaks\|Horneater Peaks]]. It is devoted to historical and linguistic study, with the focus on literature.
 **The Devotary of Mercy** is a devotary with a presence in [[Urithiru\|Urithiru]]. Their ardents care for those who have trouble with their minds.
-**The Devotary of Kelek** is a devotary with a presence in [[Urithiru\|Urithiru]]. Their ardents will take commissions for prayers and glyphwards. This devotary is likely related to the attributes ascribed to Kelek by Vorin tradition.
+**The Devotary of Kelek** helps those seeking to make difficult judgments or decisions. The devotary has a presence in [[Urithiru\|Urithiru]]. Their ardents will take commissions for prayers and glyphwards.
 **The Order of Talenelat** is related to the [[Herald\|Herald]] [[Taln\|Taln]] and, likely, the attributes ascribed to him by Vorinism. Those dedicated to this particular devotary are said to have a dislike for theological debates. It is viewed by some as an order for lesser people. The Order of Talenelat maintains a presence in western [[Kholinar\|Kholinar]], adjacent to the temple of Talenelat. [[Dalinar Kholin\|Dalinar Kholin]] was a follower of this devotary prior to his excommunication.
 ## History
 ### Origins and Old Vorinism

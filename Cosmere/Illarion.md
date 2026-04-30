@@ -13,7 +13,7 @@
 \-Illarion to Feotora[2]
 
 
-**Geoffrey Mitchell**, known in [[Mirandus\|Mirandus]] as **Illarion**, is both a named partner at the law firm [[Mitchell and Young\|Mitchell and Young]] in New York City, and also a [[Destined One\|Destined One]] from the cycle prior to [[Malmahan\|Malmahan the Uncalled]]. No Destined One rose to match Malmahan after the previous [[Dark One (title)\|Dark One]], so Illarion went to combat Malmahan personally, becoming the first Destined One to defeat two Dark Ones.
+**Geoffrey Mitchell**, known in [[Mirandus\|Mirandus]] as **Illarion**, is both a named partner at the law firm [[Mitchell and Young\|Mitchell and Young]] in New York City, and also a [[Destined One\|Destined One]] from the cycle prior to [[Malmahan\|Malmahan the Uncalled]]. No Destined One rose to match Malmahan after the previous [[Dark One (title)\|Dark One]], so Illarion went to combat Malmahan personally, becoming the first Destined One to defeat two Dark Ones. 
 
 ## Contents
 

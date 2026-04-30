@@ -9,7 +9,7 @@
 **Nouxil** is a well-known gunsmith in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
 ## Appearance and Personality
-Nouxil is a short balding man who appears somewhat fearful. Whether he was naturally a cowardly man or if he became one after his year-long imprisonment by the [[Vanishers\|Vanishers]] is uncertain.
+Nouxil is a short balding man who appears somewhat fearful. Whether he was naturally a cowardly man or if he became one after his year-long imprisonment by the [[Vanishers\|Vanishers]] is uncertain. 
 However, Nouxil is a clever man as well. [[Ranette\|Ranette]], a notoriously brusque and scathing women, thinks he is a skilled enough gunsmith to keep a correspondence going with him. He also manages to hide a plea for help inside the grips of the [[Aluminum\|aluminum]] guns he forges for the Vanishers.
 Ironically enough for a gunsmith, Nouxil is not a great shot.
 

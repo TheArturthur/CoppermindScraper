@@ -6,9 +6,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Granks** is a Cycle in the [[Set\|Set]] on [[Scadrial\|Scadrial]].
+[[VenDell\|VenDell]] impersonated him in order to get into a Set hideout.
 
 
 

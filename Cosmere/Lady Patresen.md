@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
-Lady **Patresen** was a [[Noble\|noble]] from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. House Patresen was a cousin family to [[House Elariel\|House Elariel]] with a presence in [[Fadrex City\|Fadrex City]].
+Lady **Patresen** was a [[Noble\|noble]] from the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].  House Patresen was a cousin family to [[House Elariel\|House Elariel]] with a presence in [[Fadrex City\|Fadrex City]].
 
 ## Contents
 

@@ -20,7 +20,7 @@
 
 
 ## Geography
-It is located in western Alethkar, just south of the [[Sunmaker Mountains\|Sunmaker Mountains]] and shares a border with [[Jah Keved\|Jah Keved]]. To the south lies [[Bethab princedom\|Bethab princedom]], and it shares a river border wtih [[Sebarial princedom\|Sebarial]] and [[Thanadal princedom\|Thanadal]] princedoms to the east.
+It is located in western Alethkar, just south of the [[Sunmaker Mountains\|Sunmaker Mountains]] and shares a border with [[Jah Keved\|Jah Keved]]. To the south lies [[Bethab princedom\|Bethab princedom]], and it shares a river border wtih [[Sebarial princedom\|Sebarial]] and [[Thanadal princedom\|Thanadal]] princedoms to the east. 
 
 ### Locations
 [[Darkhill\|Darkhill]]
