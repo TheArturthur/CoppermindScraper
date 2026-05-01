@@ -18,7 +18,7 @@
 
 2 History. [[#History]] 
 3 Politics. [[#Politics]] 
-4 Residents. [[#Residents]] 
+4 Notabel Residents. [[#Notabel Residents]] 
 5 Notes. [[#Notes]] 
 
 
@@ -39,9 +39,10 @@ Brightlord [[Bethab\|Bethab]] is the current Highprince of this princedom. He ha
 The Bethab army is made up predominately of mercenary companies.
 It is implied that Dumadari is not well protected from raids via Mevan Bay.
 
-## Residents
+## Notabel Residents
 Highprince [[Bethab\|Bethab]]
 [[Mishinah Bethab\|Mishinah Bethab]]
+[[Jathid\|Jathid]]
 
 
 https://coppermind.net/wiki/Bethab_princedom

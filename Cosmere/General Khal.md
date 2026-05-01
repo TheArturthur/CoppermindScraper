@@ -18,7 +18,7 @@
 
 ## Contents
 
-1 Personality and Appearance. [[#Personality and Appearance]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 
@@ -31,7 +31,7 @@
 4 Notes. [[#Notes]] 
 
 
-## Personality and Appearance
+## Appearance and Personality
 General Khal has yellow eyes and stands with a straight back. He is bald and appears limber. Khal is a cautious man and has his doubts about the strength of the Alethi throne. As a veteran of combat, he has an understanding of how conflict and terrible situations can unite men. Also a seasoned commander, Khal is experienced in matters of war and advises Dalinar on a variety of other issues as well. As a general, Khal is of the third [[Dahn\|dahn]], which is the highest a man can achieve without being royalty or related to a highprince.
 
 ## Attributes and Abilities

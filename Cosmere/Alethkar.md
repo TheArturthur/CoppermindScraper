@@ -475,13 +475,13 @@ The Coalition forces, suspecting the Voidbringers to soon invade Thaylenah, move
 #### Continuation of the war effort and evacuation of Hearthstone
 During the year thereafter the war dragged on, with many clashes between Coalition troops, including Alethi troops and the Voidbringers. One such clash was on the Veden border. Sometime after this clash Ialai Sadeas began posturing herself as a patriot who wanted to rescue Gavinor from the Blackthorn and the boy's aunt. She planned to become queen of Alethkar herself, with the boy as her heir. Meanwhile Thanadal was assassinated, supposedly under Kholin orders, but actually by the [[Ghostbloods\|Ghostbloods]]. Highprince Vamah saw this and immediately fled, though he couldn’t escape the Ghostbloods either. Ialai Sadeas eventually travelled to the warcamps, and on arrival at the warcamps, finding a vacuum of power, she essentially took them over, and began demanding tariffs from arriving trade caravans. Eventually Shallan Davar, spying on Ialai under order of Dalinar Kholin, killed her before she could start a true rebellion. Shortly after this Dalinar Kholin released a report about the mission to the public, and authorised a complete occupation of the warcamps. Highprince Sebarial was sent to the warcamps to bring order to them. Queen Jasnah Kholin also showed a new law to her family, which pushed towards a singular law for lighteyes and darkeyes alike and the abolishment of slavery. Her family reacted negatively however, as this law would cause immense social upheaval. Despite this, she would not long after abolish slavery and free all Alethi slaves. Her law didn’t have the effect she had hoped however, as former slaves were still treated like social outcasts. She also implemented new inheritance laws, which make it possible for a woman to inherit a title or position.
 In Chach 1175, an attempt was mounted by the coalition to evacuate the town of Hearthstone. After a battle with Fused occupiers, most notably [[Lezian\|Lezian]], all but fifteen occupants of Hearthstone were successfully evacuated via the *[[Fourth Bridge\|Fourth Bridge]]*, and brought to Urithiru. During the battle, citylord Roshone was killed by [[Vyre\|Vyre]], leading to the position of citylady eventually being passed on to Laral.
-The Alethi forces in Alethkar proper spent their time reconquering the nation, and at the end of the year they had managed to retake the southwestern corner of Alethkar, which lies on the Tarat Sea. House Kholin considered launching a major offensive into Alethkar but was convinced by the [[Dieno\|Mink]] that it would be wiser to attempt to retake Emul. When [[Taravangian\|Taravangian]] betrayed the coalition, the Alethi in southern Alethkar successfully regrouped at the city with minimal casualties. Alethi troops also attempted to push into the south-east of the nation, but were rebuffed. As the True Desolation wore on, Alethkar became the heart of Odium’s forces.
+The Alethi forces in Alethkar proper spent their time reconquering the nation, and at the end of the year they had managed to retake the southwestern corner of Alethkar, which lies on the Tarat Sea. House Kholin considered launching a major offensive into Alethkar but was convinced by the [[Dieno\|Mink]] that it would be wiser to attempt to retake Emul. When [[Taravangian\|Taravangian]] betrayed the coalition, the Alethi in southern Alethkar successfully regrouped at Karanak with minimal casualties. Alethi troops also attempted to push into the south-east of the nation, but were rebuffed. The coalition forces in the southwest of the country were slowly pushed back into the city of Karanak. Under the command of [[General Jathid\|General Jathid]], the city withstood Odium's armies for months. As the True Desolation wore on, Alethkar became the heart of Odium’s forces.
 
 #### Expedition to Emul and Urithiru emissary delegation (1175)
 At the Coalition’s behest, Highprince Aladar and some of his scribes helped to advise the Emuli on fortifying their remaining lands to ensure no further loss of territory. The following year had the war effort in Emul reach a stand still with multiple skirmishes and attacks by the [[Skybreakers\|Skybreakers]] against coalition forces. The position of the coalition later changed in 1175, when it was agreed unanimously to push into and defeat the singer forces in Emul. Many of the Coalition forces during this campaign were made up of Alethi, and the Queen, along with a single highprince, resided in Emul as well. Dalinar Kholin and Jasnah Kholin also chose a new Sadeas highprince during this time. Queen Jasnah participated in the war planning sessions, to the frustration of Highprince [[Ruthar\|Ruthar]]. At one particular session Ruthar snapped, insulting the Queen and challenging the [[Hoid\|Queen’s Wit]] to a trial by sword. The Wit appointed Jasnah as his champion, and after she defeated Ruthar, the highprince was stripped of all titles and lands, and his oldest son was made highprince. After the duel, Jasnah passed a new law, forbidding trial by sword in Alethkar. The push into Emul was ultimately successful.
 
 >“*I’ve come by order of the Bondsmith, my father, to visit your lands and deliver a message on his behalf. I bring with me Knights Radiant of four different orders, all of whom work in concert against the rising Everstorm. Proof that men and spren once again need their bonds of old.*”
-\-Adolin's offer of alliance to the honorspren[152]
+\-Adolin's offer of alliance to the honorspren[153]
 
 Meanwhile, the Coalition, stunted by the lack of willing [[Honorspren\|honorspren]], sent a delegation to [[Lasting Integrity\|Lasting Integrity]], the honorspren capital. This delegation was made up of the new highprince Adolin Kholin, his wife and a number of Knight’s radiant. Their original plan, made by Queen Jasnah, was to present the honorspren with gifts, and give them written requests to begin relations again. Once arrived however, the honorspren of Lasting Integrity made it clear that they wanted nothing to do with the Coalition, destroying their correspondence and refusing to engage Kholin’s pleas and arguments. With all of his other plans having failed, Adolin surrendered himself into the custody of the honorspren, after giving them the opportunity to trial him for the [[Recreance\|Recreance]]. The Honorspren put Kholin on trial, and after a hard-fought and rocky trial, Kholin won after his Shardblade spren [[Mayalaran\|Mayalaran]] revealed the truth about the [[Recreance\|Recreance]].
 
@@ -491,7 +491,7 @@ After the liberation of Urithiru, [[Odium\|Odium]] appeared to Dalinar. He wishe
 ## Culture
   <<Jasnah Kholin\|Jasnah Kholin>>, the current Queen of Alethkar
 >“*Conquering folks is basically their primary cultural heritage.*”
-\-Lopen[155]
+\-Lopen[156]
 
 
 ### People
@@ -588,7 +588,7 @@ Alongside this culture, the Alethi highly honor the [[Thrill\|Thrill]], a form o
 
 ### Religion
 >“*The Alethi preferred to let the ardents deal with the Almighty, like he was some annoying parlor guest who could be safely distracted by servants offering a particularly tasty tea.*”
-\-Shallan[241]
+\-Shallan[242]
 
 
 For more information, see [[Vorinism\|Vorinism]].
@@ -807,7 +807,7 @@ Atheism is uncommon but not unheard of, with a small population of individuals c
 
 #### Herdaz
 >“*Herdaz? My aides say it is the traditional first step for an Alethi aggression.*”
-\-Taravangian[197]
+\-Taravangian[198]
 
 
 [[Herdaz\|Herdaz]] was conquered by Alethkar during the conquests of Sadees the Sunmaker until the instability following his death. They have been a typical first target in Alethi attempts at expansion throughout history, leading to a deeply bitter relationship between the two nations. Additionally, it appears that Alethkar often forgot/ignored promises it had made to Herdaz.
@@ -945,7 +945,7 @@ After centuries of warfare the Alethi have become adept at effectively moving th
 Alethkar possesses numerous Soulcasters, most of them are capable of creating materials such as grain or stone. In fact, Alethkar has a near monopoly on food-making Soulcasters. The existence of these Soulcasters enables the Alethi to raise and supply large armies that their logistics would not normally allow for, as it can be difficult to travel in Alethkar, and the Alethi have poor supply line infrastructure. Soulcasters are also used to supply the armies with wood, metal, and other necessities. Although despite their access to many Soulcasters, small armies often have only one, to be used in emergencies only, this means that they still need to run supply trains. The king controls most of the Soulcaster ardents; in fact, manipulating the highprinces with his Soulcasters is one of the ways that the king maintains control over them.
 
 >“*Plan every battle as if you will inevitably retreat, but fight every battle like there is no backing down.*”
-\-Highmarshal Halad[259]
+\-Highmarshal Halad[260]
 
 #### Warcamps
 How a warcamp is organised and run depends greatly on the highprince. Some camps are organised and patrolled while others are chaotic and almost lawless. Alethi warcamps are generally circular, with the camp followers in a ring on the outside, the mercenaries, if there are any, in a ring next to them, the citizen soldiers in the middle and the lighteyes in the very center. Inside these rings the barracks, which are placed in rows, are arranged into circular patterns, with a meeting ground and a mess hall at the center of each battalion. Barracks are often painted with the symbols of the platoons using them. Some warcamps have wooden scouting towers, these towers are designed to be portable and mobile. Many warcamps have a market, which is located in the camp followers' part of the camp. Some warcamps also have a number of barracks that allow for families, or married soldiers can rent a place in the market.
