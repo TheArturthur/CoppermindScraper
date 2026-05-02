@@ -90,6 +90,7 @@ The [[Azish\|Azish]] have a few Soulcasters, including one famous for its abilit
 The [[Diagram (group)\|Diagram]] has access to at least one Soulcaster able to make things into smoke, as evidenced by the man who gave Szeth his first orders from the Diagram.
 Ardent [[Rushu\|Rushu]] is given a smoke creating Soulcaster by [[Navani\|Navani]] in preparation for the expedition to [[Aimia\|Aimia]], expecting that their objective would be hidden underground.
 Eight Soulcasters were recovered from Aimia. Five were given to Thaylenah (2 for food, 1 for metal, 1 for smoke, and 1 for wood) and  three of uncertain type were given to Alethkar (it is unclear if the smoke soulcaster is the Liaforan fabrial).
+The ardent [[Tira\|Tira]] uses a Soulcaster to turn stone into food during the siege of [[Karanak\|Karanak]].
 ## Trivia
 Soulcast blood matches someone's DNA.
 An early version of Soulcasting had it available to all orders of Knights Radiant. A Knight could only transform the material corresponding to their Order, but they could transform it into anything. This was eventually changed, as it made Orders feel too similar to one another.
