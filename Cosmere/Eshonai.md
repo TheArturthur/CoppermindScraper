@@ -51,9 +51,6 @@
 
 3. [[#Beginning of the War]] 
 3. [[#The Battle of the Tower]] 
-3. [[#Stormform]] 
-3. [[#Parley]] 
-3. [[#Seizing Power]] 
 3. [[#Battle of Narak]] 
 3. [[#Seeing Roshar]] 
 
@@ -115,20 +112,11 @@ On the day of his [[Assassination of Gavilar\|assassination]], [[Gavilar\|Gavila
 
 ### The War of Reckoning (1167-1173)
 #### Beginning of the War
-   walking to The Tower of <<Narak\|Narak>>.
+  Eshonai walking to the Tower of <<Narak\|Narak>>.
 Sometime between the assassination of Gavilar and the Battle of the Tower, Eshonai became a member of the Council of Five and was made the general of the listener army. After the death of the king, the listeners relocated to [[Narak\|Narak]] in the hopes that a war of attrition would deter the Alethi from pursuing longterm action. Unfortunately, the presence of chasmfiends on the Shattered Plains allowed the war to continue for many years, with the Alethi and listener forces clashing over the beast's gemhearts. Eshonai would sometimes join her troops in the skirmishes over these gems.
 
 #### The Battle of the Tower
 During the battle, Eshonai dueled [[Dalinar Kholin\|Dalinar Kholin]] as the army made its retreat. She defeated him in combat, and recognized him as the Alethi Shardbearer she had been searching for, but was stabbed in the leg by [[Kaladin Stormblessed\|Kaladin Stormblessed]], who made his escape with Dalinar before she had a chance to speak with him. As the army made its retreat from the [[Tower (Roshar)\|Tower]], she saluted Dalinar as a gesture of respect. She allowed the Alethi to escape the battle without attacking them once they cleared the Tower.
-
-#### Stormform
-
-
-#### Parley
-
-
-#### Seizing Power
-
 
 #### Battle of Narak
   Eshonai bonding with a stormspren during a <<Highstorm\|highstorm>>

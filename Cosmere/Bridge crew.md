@@ -43,7 +43,7 @@ In normal times, the bridge crews act as man power and do various unwanted dutie
 
 ## Under Highprince Kholin
 After [[Kaladin\|Kaladin]] saves Highprince [[Dalinar Kholin\|Dalinar Kholin's]] life, Highprince Kholin repays him by securing the release of the entire bridge crew unit from Highprince Sadeas. He does this by giving his [[Shardblade\|Shardblade]], [[Oathbringer (Shardblade)\|Oathbringer]], to Highprince Sadeas in exchange for the bridge crews' freedom.
-Following this, Highprince Kholin offers money and freedom to every member of the bridge crews, along with the opportunity to join Kholin's army as soldiers. Very few bridgemen take Kholin's offer to leave, and Kholin is left with a full thousand-man battalion.
+Following this, Highprince Kholin offers money and freedom to every member of the bridge crews, along with the opportunity to join Kholin's army as soldiers. While a few hundred bridgemen take Kholin's offer to leave, Kholin is still left with a full thousand-man battalion.
 After the bridge crews are freed by Kholin, they all immediately recognize Kaladin as their leader. Highprince Kholin formalizes this by appointing Kaladin as their commander with the rank of captain.
 
 ### Organization
