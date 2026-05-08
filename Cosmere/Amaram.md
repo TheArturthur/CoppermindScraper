@@ -4,7 +4,7 @@
 |**Family**|
 |**Relatives**|[[Sheler\|Sheler]]|
 |**Died**|[[Battle of Thaylen Field\|Battle of Thaylen Field]], killed by [[Lunamor\|Lunamor]], Nanishah 1174|
-|**Abilities**|[[Shardbearer\|Shardbearer]]|
+|**Abilities**|[[Shardbearer\|Shardbearer]], [[Surgebinder\|Surgebinder]]|
 |**Bonded With**|[[Yelig-nar\|Yelig-nar]]|
 |**Titles**|[[Highprince\|Highprince]] of [[Alethkar\|Alethkar]]|
 |**Groups**|[[Sons of Honor\|Sons of Honor]], Amaram's army|
