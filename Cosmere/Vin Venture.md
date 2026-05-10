@@ -205,7 +205,7 @@ Vin was captured and imprisoned by Yomen. While imprisoned, Vin was visited by a
 
 #### The Battle of Hathsin & The Final Ascension
  
-When Vin absorbed the mists in the fight against the Inquisitors her body was eventually vaporized by the power and she took up the [[Shard\|Shard]] Preservation and attempted to right the world in similar ways to the inexperienced [[Rashek\|Rashek]]. She failed in many of the same ways as Rashek, initially, from unforeseen consequences of each action, as well as Ruin's interference. She observed the final fight between Elend and Marsh, fueling Elend's Allomancy with Preservation's power. Marsh beheaded Elend, killing him, and removing the last thing binding Vin to the world. She attacked Ruin directly, killing both [[Ati\|Ati]] and herself, leaving both Shards to be taken up by [[Sazed\|Sazed]].
+After using the Mists in a battle against the Inquisitors, Vin Ascended to become the [[Vessel\|Vessel]] of Preservation. She attempted to right the world in a similar way to [[Rashek\|Rashek]], and failed in many of the same ways as him, both due to the unforseen consequences of her actions as well as Ruin's interference. She observed the final fight between Elend and Marsh, fueling Elend's Allomancy with Preservation's power. Marsh beheaded Elend, killing him, and removing the last thing binding Vin to the world. She attacked Ruin directly, killing both [[Ati\|Ati]] and herself, leaving both Shards to be taken up by [[Sazed\|Sazed]].
 In his [[Sazed's note\|letter]] to [[Spook\|Spook]], Sazed revealed that he had spoken with Vin and she was happy where she was. Sazed also tried to bring her back to life, but found that merely healing a body does not return the soul.
 
 ### Post-Catacendre Myths and Culture

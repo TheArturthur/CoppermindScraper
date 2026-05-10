@@ -54,7 +54,7 @@ After this confrontation with his father he visits the Davar estate sporadically
 Of all the Davar children, he knows the most about his father's secrets and plans and stands up to him the most. He has some connection to [[Wit\|Wit]], whom he asks to deliver the message that "he has eyes nearby and is watching". Upon hearing this, his father declares him disinherited and start referring to Tet Balat as Nan Balat, thereby naming Balat the eldest son.
 Two years later, he returns to [[Jah Keved\|Jah Keved]] and meets with Balat. Helaran warns his brother that this time when he leaves, he might not be coming back for a long time, and asks him to watch over the family. When his father finds out, he sends one of his new guards, [[Rin\|Rin]], to kill him.
 In Ishi 1172, he appears on a battlefield in [[Alethkar\|Alethkar]] with a full set of Shards. Helaran's goal is to kill Highlord [[Meridas Amaram\|Meridas Amaram]], but he is killed by [[Kaladin\|Kaladin]] during the battle.
-Helaran had not yet bonded a [[Highspren\|highspren]] and so his [[Shardblade\|Shardblade]] still had a glowing gemstone. Likely, Helaran was sent to kill [[Kaladin\|Kaladin]] as a test from [[Nale\|Nale]].
+Helaran had not yet bonded a [[Highspren\|highspren]] and so his [[Shardblade\|Shardblade]] still had a glowing gemstone. Likely, Helaran was sent to kill Highlord [[Meridas Amaram\|Meridas Amaram]] as a test—either that or he took it upon himself as a way of proving his worthiness for Knighthood.
 Although it is Kaladin's right to claim Helaran's Shards, Amaram betrays Kaladin, enslaved him, and claims the Shards for himself instead.
 
 
