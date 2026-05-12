@@ -9,7 +9,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Ohz Burtim Winzik** is a [[Varvax\|varvax]] who lives on [[Starsight\|Starsight]] and the head of the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]].
+**Ohz Burtim Winzik** is a [[Varvax\|varvax]] who lives on [[Starsight\|Starsight]], but has often moved around to supervise military work he is also the head of the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]].
 
 ## Contents
 
