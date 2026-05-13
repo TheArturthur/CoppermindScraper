@@ -127,7 +127,7 @@ People on Sel can also form bonds, similar to the [[Nahel bond\|Nahel bond]] on 
 
 ## Cosmere
 For most of the Cosmere’s history, Sel is the most Realmatically knowledgeable of the known planets in the cosmere. It is home to two [[Shard\|Shards]], [[Devotion\|Devotion]] and [[Dominion\|Dominion]], and their powers have influenced many Selish traditions, religions, and languages.
-At some point in Sel's distant past, [[Odium\|Odium]] killed the [[Vessel\|Vessels]] of both Devotion and Dominion and Splintered the two Shards. The collective power of the Splintered Shards became somehow trapped in the [[Cognitive Realm\|Cognitive Realm]], and is now what Selish people call the [[Dor\|Dor]]. Due to the Dor’s size, Sel experiences significant time dilation.
+At some point in Sel's distant past, [[Odium\|Odium]] killed the [[Vessel\|Vessels]] of both Devotion and Dominion and Splintered the two Shards. The collective power of the Splintered Shards became somehow trapped in the [[Cognitive Realm\|Cognitive Realm]], and is now what Selish people call the [[Dor\|Dor]]. Due to the Dor’s size, Sel experiences time dilation.
 While travel to Sel is possible via the Cognitive Realm (for example, one can use a [[Perpendicularity\|Perpendicularity]] that exists in the form of [[Devotion's Perpendicularity\|a pool of sapphire-colored liquid]] near Elantris), the raging uncontrolled power of the Dor makes travel through the Selish Cognitive Realm incredibly dangerous. There is only one reliable way to travel offworld. This way is known by some Selish people, and knowing them is nearly the only way to worldhop from Sel.
 [[Hoid\|Hoid]] has visited both Arelon and the capital of the Rose Empire.
 

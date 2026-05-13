@@ -6,7 +6,7 @@
 |**Siblings**|[[Eventeo\|Eventeo]]|
 |**Relatives**|[[Sarene\|Sarene]], [[Teorn\|Teorn]]|
 |**Titles**|Crown Prince of [[Teod\|Teod]]|
-|**Aliases**|Dreok Crushthroat|
+|**Aliases**|Dreok Crushthroat, Hunky Kay|
 |**Profession**|Pirate, Merchant|
 |**Residence**|[[Kae\|Kae]]|
 |**Nationality**|[[Teo\|Teo]]|
