@@ -75,7 +75,7 @@ Elendel is also the central power in the Basin, and largely in the whole of Nort
 4. [[#Legislative Branch]] 
 
 4. [[#The Senate]] 
-4. [[#Senate Members]] 
+4. [[#Known Senate Members]] 
 4. [[#Known Laws]] 
 4. [[#Taxation]] 
 
@@ -273,7 +273,7 @@ The legislative branch focuses on drafting and revising new laws. This is done b
 The legislative branch of Elendel is bicameral in nature. Both houses, however, are comprised of politicians called Senators. There are mixed methods of appointment, some hereditary and some elected. One house is comprised entirely of Noble Houses. Whoever inherits any given High Noble title also inherits their vote in the Senate, although they can assign a proxy to do the actual voting. The other house is elected by the people, divided by profession via guilds (i.e., there is a seat for Orchard Growers, and one for Seamstresses, etc). Among these elected senators, instead of representing professions, a few seats represent specific historical groups. It is unknown how long the term limits and years of service are. It is also unknown if the guild seats are weighted in some way to reflect number of constituents or importance towards the city, or what allows a group of workers to get a seat in the senate. The senate can also vote on appointing a Select Council to deal with a certain issue or problem. A Select Council is a council of a few senate members, meant to improve the speed and efficiency with which the problem is handled. It is usually used for handling small matters and affairs, such as traffic in the city hub, but can also be used to handle emergencies. A select council is usually formed with a time limit.
 Generally however, the nobles are a little less corrupt then the elected senators. This is because the elected senators often do everything in their power not to lose their seat, compared to the nobles who do not have such a problem, but can vote for whatever they think best. This problem leads the elected senators to not always vote on what they believe is best. There is an orchard-growers seat on the Senate. There are 243 senators as of 348 [[Catacendre\|PC]].
 
-#### Senate Members
+#### Known Senate Members
 [[Darlin Cett\|Darlin Cett]]
 [[Dupon Melstrom\|Dupon Melstrom]]
 [[Inis Julien\|Inis Julien]]
@@ -300,7 +300,7 @@ The executive branch of the Elendel government is headed by the governor of Elen
 As head of the executive branch, the governor is in charge of the entire Elendel Constabulary, with the several Constable-generals directly below him. This means, among other things, that he needs to sign any changes or improvements to the constabulary, like new training programs, before they can be implemented. The constabulary also needs approval from the governor to institute martial law. In addition, the Governor has the ability to veto senate bills.
 
 #### Ministers
-The governor is assisted in his duty as head of the executive branch by a an executive staff. This staff contains a wide range of professions include the sanitation director, minister of trade, secretary of education, minister of public affairs, and minister of science and technology. After 348 [[Catacendre\|PC]], it also had the new position of Disaster Preparations Officer.
+The governor is assisted in his duty as head of the executive branch by an executive staff. This staff contains a wide range of professions include the sanitation director, minister of trade, secretary of education, minister of public affairs, and minister of science and technology. After 348 [[Catacendre\|PC]], it also had the new position of Disaster Preparations Officer.
 
 ### Constabulary and Law Enforcement
 Elendel has a large constabulary, also called the guard. This constabulary is divided into eight precincts, with one located in each of the city's octants. Each of these precincts employs roughly six hundred constables. While the constabulary offers good work, and steady promotions, there is not much prestige and wealth going around, except for the rank of Constable-General. Many of Elendel's poor citizens distrust the constables. There are also proportionally few women in the constabulary. The year 348 [[Catacendre\|PC]] saw reforms by special detective [[Marasi Colms\|Marasi Colms]] about how to police slums and the proper training of constables.

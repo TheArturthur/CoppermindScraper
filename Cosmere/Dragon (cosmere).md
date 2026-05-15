@@ -100,7 +100,7 @@ However, Yolen has fallen behind technologically compared to many other planets 
 
 ## Lesser Dragons
 Aside from the so-called "greater dragons," the cosmere is also home to lesser dragons. Lesser dragons have some notable differences to greater dragons; they do not share the amphibian-like lifecycle of greater dragons, and are incapable of transformation into humanoid form. An unnamed planet is home to a variety of non-hexapedal lesser dragons known as **drakelings**. Lesser dragons have a much easier time using Invested Arts.
-Nothing else is known about the biology or abilities of lesser dragons, and their relationship (if any) to greater dragons is unclear.
+The cosmere is also home to dragons that are not immortal and cannot shape-shift. These dragons have human-level intelligence and have been known to let humans ride on them. It is unclear if these dragons are the same species as the previously mentioned lesser dragons or drakelings. Nothing else is known about the biology or abilities of lesser dragons, and their relationship (if any) to greater dragons is unclear.
 
 ## Presence in the Cosmere
   <<Koravellium Avast\|Koravellium Avast>>, also known as the <<Shard\|Shard>> <<Cultivation\|Cultivation>>
