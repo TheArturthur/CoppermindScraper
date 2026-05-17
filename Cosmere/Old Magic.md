@@ -1,3 +1,6 @@
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+
+
 |**Old Magic**|
 |-|-|
 |**Related to**|[[Adonalsium\|Adonalsium]], [[Stone\|Stone]], [[Wind\|Wind]], [[Night\|Night]], the [[Nightwatcher\|Nightwatcher]]|
@@ -5,8 +8,6 @@
 |**Type**|*Unknown*|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“* When this world was created, long before [[Honor\|Honor]], [[Cultivation\|Cultivation]], or [[Odium\|Odium]] arrived, [[Adonalsium\|Adonalsium]] left something behind on it. Sometimes it’s called the Old Magic.*”
 \-Hoid[1]

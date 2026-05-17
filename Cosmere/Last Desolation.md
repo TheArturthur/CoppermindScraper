@@ -36,7 +36,7 @@ The lie was uncovered 4,500 years later, when Talenel returned to announce the [
 According to Vorin tradition, mankind, led by the [[Herald\|Heralds]] and their chosen [[Knights Radiant\|knights]], fought off the [[Voidbringers\|Voidbringers]] ninety and nine times, until finally, Aharietiam came and the Voidbringers were cast back into the [[Tranquiline Halls\|Tranquiline Halls]]. The Heralds followed to force them out of heaven as well, and Roshar's Heraldic Epochs ended. Songs and paintings depict the final conflict as a grand clash between lines of brave soldiers and giant monsters.
 
 ## Trivia
-The name Aharietiam is based on the hebrew words אחרית הימים (*Acharit Hayamim*) meaning the end of days or the apocalypse.
+The name Aharietiam is based on the Hebrew words אחרית הימים (*Acharit Hayamim*), meaning the end of days or the apocalypse.
 
 
 https://coppermind.net/wiki/Last_Desolation

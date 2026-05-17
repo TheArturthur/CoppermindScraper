@@ -290,7 +290,7 @@ Seeing that Kaladin's mood continues to worsen, Syl tries to talk to him about i
 \-The Stormfather to Syl[14]
 
 
-Syl is one of the first [[Honorspren\|honorspren]] the [[Stormfather\|Stormfather]] created rather than [[Honor\|Honor]]. Because she is the only one to survive the [[Recreance\|Recreance]], he feels very protective of her. The Stormfather commands her return and either approves of or instigates a bounty after Syl sneaks away to bond Kaladin. This changes with time, however, as he both accepts their bond and bonds a human himself. After the Stormfather dies, Syl is distraught, wondering if she ever truly knew him.
+Syl is one of the first [[Honorspren\|honorspren]] that the [[Stormfather\|Stormfather]], rather than [[Honor\|Honor]], created. Because she is the only one to survive the [[Recreance\|Recreance]], he feels very protective of her. The Stormfather commands her return and either approves of or instigates a bounty after Syl sneaks away to bond Kaladin. This changes with time, however, as he both accepts their bond and bonds a human himself. After the Stormfather dies, Syl is distraught, wondering if she ever truly knew him.
 
 ### Relador
 >“*He went to fight, despite his age. He shouldn't have, and when he was killed, it hurt.*”

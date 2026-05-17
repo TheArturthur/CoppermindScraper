@@ -217,7 +217,6 @@ The listeners make music using drums. These drums are considered crude by the Al
 
 ### Language
 
-essai -- human-lover (literally "hairy")
 narak -- exile
 neshua kadal -- Knight Radiant
 ulo mas vara -- monster of the chasms/chasmfiend
