@@ -252,6 +252,7 @@ The relation between Rayse and [[Tanavast\|Tanavast]] is difficult to determine,
 
 ## Trivia
 Rayse would get along well with [[Torol Sadeas\|Torol Sadeas]].
+Rayse hates puppies.
 
 
 https://coppermind.net/wiki/Rayse

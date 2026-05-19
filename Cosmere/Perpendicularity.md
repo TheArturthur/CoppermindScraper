@@ -58,10 +58,10 @@ The proximity of the realms around and in a perpendicularity also makes [[Soulca
 
 [[Dhatri\|Dhatri]] had a perpendicularity in the past.
 
-Yolen is one of the three places in the Physical Realm that the  leads to. It is located within the upper atmosphere of the planet.
+Yolen is one of the three places in the Physical Realm that the [[/wiki/Silverlight#Silverlight Nexus]] leads to. It is located within the upper atmosphere of the planet.
 
 **Autonomy**: Autonomy has an ability to create and collapse perpendicularities in a way that goes against the understanding of Arcanists. These have specific constraints and conditions in order to be produced. Despite the specific conditions, she is known to have created perpendicularities across multiple worlds across the cosmere.
-**Silverlight**: [[Silverlight\|Silverlight]] has a perpendicularity known as the . The perpendicularity leads to three different places in the Physical Realm, one of which is Yolen. The perpendicularity causes time dilation around Silverlight, making each day in the city equal to ten days outside of it.
+**Silverlight**: [[Silverlight\|Silverlight]] has a perpendicularity known as the Silverlight Nexus. The perpendicularity leads to three different places in the Physical Realm, one of which is Yolen. The perpendicularity causes time dilation around Silverlight, making each day in the city equal to ten days outside of it.
 
 
 https://coppermind.net/wiki/Perpendicularity
