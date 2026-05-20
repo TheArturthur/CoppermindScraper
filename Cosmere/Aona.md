@@ -18,8 +18,7 @@
 
 
 ## Abilities and Attributes
-Aona was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is her and Skai's Shards pushed into the Cognitive Realm by Odium; it fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
-
+ Aona was a [[Shard\|Shard]] of [[Adonalsium\|Adonalsium]], making her one of the most powerful entities in the [[Cosmere\|cosmere]]. Prior to being splintered she was immortal, unaging, and incorporeal. The [[Dor\|Dor]] is her and Skai's Shards pushed into the Cognitive Realm by Odium; it fuels the magics [[AonDor\|AonDor]], [[Dakhor\|Dakhor]], [[ChayShan\|ChayShan]], [[Forgery\|Forgery]], and [[Bloodsealing\|Bloodsealing]].
 ## History
 Aona originated from [[Yolen\|Yolen]], and was a healer. Tanavast recalls her as always being kind to him, and being one of the best people among those that participated in the Shattering.
 For an unknown reason, she and a group of others broke [[Cosmere\|cosmere's]] creator deity, [[Adonalsium\|Adonalsium]], into sixteen pieces. Of those sixteen, she took up [[Devotion\|Devotion]], and departed alongside [[Dominion\|Dominion]] for [[Sel\|Sel]].

@@ -102,7 +102,7 @@ A singer in Direform is more obedient to Odium and their Fused commanders, even 
 Direform Regals typically stand over seven feet tall, covered in thick plates of stacked, interlocking carapace resembling a full suit of plate armor. These plates are covered in wicked, curved spikes, especially on the head and shoulders. Direforms have no hairstrands, as their carapace covers most of their head—along with the rest of their body, leaving gaps only at their joints and face.
 
 
-They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are able to stand their own against Shardplate strength. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters.
+They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are stronger than most allies and enemies, but they are no match for Shardplate. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters.
 
 ### Nightform
 >“*Nightform predicting what will be, / The form of shadows, mind to foresee. / As the gods did leave, the nightform whispered. / A new storm will come, someday to break. / A new storm a new world to make. / A new storm a new path to take, the nightform listens.*”

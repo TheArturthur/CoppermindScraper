@@ -57,7 +57,7 @@ Magic systems using the Dor include:
 **[[Forgery\|Forgery]]** - magic usable in the [[Rose Empire\|Rose Empire]], originating from [[MaiPon\|MaiPon]]; accesses Dor through creation of [[Soulstamp\|soulstamps]], which contain a specific shape that is then imparted onto an object, rewriting its [[Spiritual Realm\|Spiritual]] aspect to change its history and, through this, present behavior and appearance.
 **[[Bloodsealing\|Bloodsealing]]** - another Rose Empire magic, originating in [[Dzhamar\|Dzhamar]]; using human blood, Bloodsealers can create wards and animate skeletons of the dead.
 ### Seons
-  A <<Seon\|seon>> with its bonded human
+ 
 For more information, see [[Seon\|Seon]].
 [[Seon\|Seons]] are magical entities somewhat common in the [[Arelish\|Arelish]] region of Sel. They appear as bright spheres of light about the size of a melon, with a shining [[Aon\|Aon]] inside of them; each Seon has its own Aon, and is named after it. Those Aons are [[Splinter\|Splinters]] of Devotion, and have at least some sense that they came from something larger and how they were created, which causes them to consider Devotion as something of a god or parent.
 They are extremely similar to the [[Spren\|spren]] of [[Roshar\|Roshar]], and much like spren, they bond with humans. They offer their masters unconditional love, and will be negatively affected by something happening to their humans, such as the transformation into a [[Reod\|Reod]] Elantrian. Unlike spren, seons do not grant their bonded humans any particular abilities, but they do have magical talents of their own. Most notably, two seons can link together to allow for instant communication between their masters, with each seon taking on the appearance of the person on the other side of the link.

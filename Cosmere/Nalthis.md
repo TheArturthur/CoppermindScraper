@@ -152,8 +152,8 @@ Over many years, their mastery over Awakening and technology advanced significan
 
 ## Cosmere
 The [[Shard\|Shard]] [[Endowment\|Endowment]] has been confirmed to be present on Nalthis. This has had the effect that every human born on Nalthis is born with one [[Breath\|Breath]], the source of energy for [[Awakening\|Awakening]] and Returning. Endowment is related to the [[Tears of Edgli\|flowers]] which grow around T'Telir, the capital city of Hallandren. Endowment has been known to revive recently deceased people, awarding them a single [[Divine Breath\|divine Breath]] under the requirement that they consume a normal Breath once a week to stay alive. It is believed, and confirmed for at least three [[Returned\|Returned]], that all Returned come back to fulfill some divine goal. It is unknown what Endowment's purpose is, or how long she has been doing this.
-Endowment also has a [[Perpendicularity\|perpendicularity]] on Nalthis, which at least some Nalthians are aware of. These people are trying to use their perpendicularity for commerce with other planets, although they are often considered to be fools because of this by other Cosmere-aware peoples. The Nalthian perpendicularity is found in a cavernous region, somewhere in Hallandren.
-Nalthian Awakened technology has spread across the Cosmere to some degree, and can be seen on other planets, such as [[Lumar\|Lumar]]. The trading of Breaths are looked down upon by others in the cosmere.
+Endowment also has a [[Perpendicularity\|perpendicularity]] on Nalthis, which at least some Nalthians are aware of. These people are trying to use their perpendicularity for commerce with other planets, although they are often considered to be fools because of this by other Cosmere-aware peoples. The Nalthian perpendicularity is found in a cavernous region somewhere in Hallandren.
+Nalthian Awakened technology has spread across the Cosmere to some degree, and can be seen on other planets, such as [[Lumar\|Lumar]]. The trading of Breaths is looked down upon by others in the cosmere.
 
 ## Trivia
 Nalthians know what [[Dragon (cosmere)\|dragons]] are.
