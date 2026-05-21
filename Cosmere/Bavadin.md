@@ -84,6 +84,7 @@ Like all original Vessels, Bavadin came from [[Yolen\|Yolen]]. She and a number 
 
 For subsequent events, see [[/wiki/Autonomy#History]].
 ## Relationships
+ 
 ### Immortal Entities
 >“*You must know better than to approach us by relying upon presumption of past relationship.*”
 \-Patji to Hoid[28]

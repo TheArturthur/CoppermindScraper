@@ -145,6 +145,7 @@ It is possible that Autonomy aided [[Odium\|Odium]] in killing [[Devotion\|Devot
 Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with Odium and the ongoing [[True Desolation\|True Desolation]]. The message was intercepted by her avatar on First of the Sun and the request denied, although [[Patji (being)\|Patji]] indicated that other avatars may be more inclined to assist. At the same time, Autonomy was manifesting another avatar on [[Obrodai\|Obrodai]], and Patji demanded that Hoid does not return there.
 
 ### Trell
+ 
 #### The Set
 >“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
 \-Miles Hundredlives[52]
