@@ -9,14 +9,14 @@
 This article is about the non-magical weapon. For information related to living Shardblades in the shape of a hammer, see [[/wiki/Shardblade#Radiant Shardblades]].
 A **shardhammer**, also known as a **warhammer** is an enormous battle hammer that can only be wielded by someone in [[Shardplate\|Shardplate]]. Contrary to what its name might suggest, it is not an ancient magical weapon like Shardplate or a [[Shardblade\|Shardblade]], but rather, a more modern creation. Dalinar's warhammer is described as having a haft as "thick as a man's wrist" with the front of the head being larger than a man's fist. It could barely be lifted by two men and was carried on a cart. A Shardbearer's hammer is a common weapon for someone who owns a set of plate, but no Shardblade.
 
-## Notable Mentions
-Dalinar used his warhammer to dig a latrine ditch as he contemplated stepping down as Highprince. 
+## Notable Mentions and Uses
+Dalinar used his warhammer to dig a latrine ditch as he contemplated stepping down as Highprince, which ended up bending the handle of the hammer beyond repair.
 Sadeas recalls an incident one year after the assassination of Gavilar in which he slaughtered a large number of Parshendi with only his hammer.
-When [[Adolin\|Adolin]] posed as Dalinar to meet with [[Eshonai\|Eshonai]] on the Shattered Plains, [[Teleb\|Teleb]] wore a Shardhammer strapped to his back.
-On a plateau run where Adolin assists other highprinces in a failed attempt to collect a gemheart, [[Jakamav\|Jakamav]] carries a shardhammer as a member of his team.
+When [[Adolin\|Adolin]] posed as Dalinar to meet with [[Eshonai\|Eshonai]] on the Shattered Plains, [[Teleb\|Teleb]] wore a Shardhammer strapped to his back, but it was not used.
+On a plateau run where Adolin assists other highprinces in a failed attempt to collect a gemheart, [[Jakamav\|Jakamav]] carries a shardhammer as a member of his team, using it to fling [[Parshendi\|Parshendi]] off of the plateau.
 During Adolin's duel-gone-bad, [[Elit Ruthar\|Elit]] wears the King's borrowed Shardplate and fights with a Shardbearer's hammer.
-Before either had Shardblades, Dalinar and Sadeas both use warhammers as their primary weapon. Specifically during the battle of [[The Rift\|The Rift]].
-During the [[Battle of Thaylen Field\|Battle of Thaylen Field]] [[Hrdalm\|Hrdalm]] uses a warhammer while battling a [[Thunderclast\|Thunderclast]] with Adolin.
+Before either had Shardblades, Dalinar and Sadeas both use warhammers as their primary weapon, slecifically during the Battle of [[The Rift\|The Rift]].
+During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Hrdalm\|Hrdalm]] uses a warhammer while battling a [[Thunderclast\|Thunderclast]] with Adolin, and while it is mostly ineffective, it proves useful for distracting the Thunderclast.
 
 
 

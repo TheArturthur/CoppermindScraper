@@ -1,5 +1,6 @@
 |**Kazilah**|
 |-|-|
+|**Died**|Executed|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -9,7 +10,7 @@
 \-From Words of Radiance, chapter 32, page 17[1]
 
 
-**Kazilah** is a historical figure and possible member of the [[Knights Radiant\|Knights Radiant]] mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]*. They were found to be guilty of fraternizing with "unwholesome elements," possibly some sort of agent of [[Odium\|Odium]], and executed for it.
+**Kazilah** is a historical figure and possible member of the [[Knights Radiant\|Knights Radiant]] mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]*. They were found to be guilty of fraternizing with "unwholesome elements," possibly some sort of agent of [[Odium\|Odium]], and executed for it. Their condemnation by other Radiants is a part of the reason the Skybreakers give for the growing rift between the Orders which leads to them splitting off before the Recreance.
 
 
 
