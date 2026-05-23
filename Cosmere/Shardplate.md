@@ -146,6 +146,7 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |[[Amaram\|Amaram]]|[[Helaran Davar\|Helaran Davar]]|*Unknown*|When in Helaran's possession it was painted gold-yellow.|Taken from Kaladin who took it from Helaran Davar.|
 |[[Tshadr\|Tshadr]]|-|*Unknown*|Unknown color.|The only Shardplate in Urithiru when it was [[Occupation of Urithiru\|occupied by Odium's forces]]; likely taken with them before or during their retreat.||
 |[[Neziham\|Neziham]]|-|*Unknown*|Unknown color.|Plate belongs to the Azish imperial Crown and is given to distinguished soldiers to use. This set of Plate was smashed into tiny pieces during the [[Battle of Azimir\|Battle of Azimir]], and it is unknown if it was ever regrown.||
+|[[Resi\|Resi]]|-|*Unknown*|Usually painted yellow. Painted black for his ambush on a Kholin caravan, so that he could maintain plausible deniability.|Actually belongs to Highprince [[Thanadal\|Thanadal]], who bestows it upon the person holding the title of [[Royal Defender\|Royal Defender]].||
 
 ## Trivia
 Some options among the original designs for Shardplate helmets had circular eye holes instead of slot visors; however, this was rejected in the end. There is a specific reason for the choice of the visors.

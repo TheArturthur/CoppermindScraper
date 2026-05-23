@@ -75,7 +75,7 @@ For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 Leading up to the Battle of Thaylen Field, the Fused occupied Marat, cutting through and conquering Emul on the way. They wished to use Marat's access to the Southern Depths to give them a military advantage against various coastal nations, such as Thaylenah, along with giving them an easy avenue of attack towards Jah Keved.
 Shortly before the confrontation, [[Taravangian\|Taravangian]], who was working for Odium, manipulated the government in order to motivate them to send off a large portion of the city's defense force, greatly reducing their military prowess and defensive capabilities. This left them reliant upon military aide from the Alethi in order to protect themselves from the naval attack by the Fused offensive.
 Thousands of Singers arrived at Thaylenah masked by the Everstorm, which was spawned by Odium. This allowed them to catch the human defenders off guard. At the same time, ten-thousand Singers gathered around the [[Thaylen City\|Thaylen City]] [[Oathgate\|Oathgate]] in [[Shadesmar\|Shadesmar]], using the passing of the Everstorm to pass into the Physical Realm. [[Nergaoul\|Nergaoul]] also gathered at Thaylenah.
-
+As the battle looms, two Thunderclasts rip themselves free of the ground, one of which goes to attack the Gemstone Reserve. As the defenders watch, helpless, [[Szeth\|Szeth]], wielding [[Nightblood\|Nightblood]], crashes down from the sky, cleaving the second Thunderclast in two, and permanently destroying it, so it shall never rise again.
 
 
 ## Trivia

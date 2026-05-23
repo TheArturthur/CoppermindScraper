@@ -15,7 +15,7 @@ Sadeas recalls an incident one year after the assassination of Gavilar in which 
 When [[Adolin\|Adolin]] posed as Dalinar to meet with [[Eshonai\|Eshonai]] on the Shattered Plains, [[Teleb\|Teleb]] wore a Shardhammer strapped to his back, but it was not used.
 On a plateau run where Adolin assists other highprinces in a failed attempt to collect a gemheart, [[Jakamav\|Jakamav]] carries a shardhammer as a member of his team, using it to fling [[Parshendi\|Parshendi]] off of the plateau.
 During Adolin's duel-gone-bad, [[Elit Ruthar\|Elit]] wears the King's borrowed Shardplate and fights with a Shardbearer's hammer.
-Before either had Shardblades, Dalinar and Sadeas both use warhammers as their primary weapon, slecifically during the Battle of [[The Rift\|The Rift]].
+Before either had Shardblades, Dalinar and Sadeas both use warhammers as their primary weapon, specifically during the Battle of [[The Rift\|The Rift]].
 During the [[Battle of Thaylen Field\|Battle of Thaylen Field]], [[Hrdalm\|Hrdalm]] uses a warhammer while battling a [[Thunderclast\|Thunderclast]] with Adolin, and while it is mostly ineffective, it proves useful for distracting the Thunderclast.
 
 

@@ -72,8 +72,8 @@ Kholinar is one of the [[Dawncities\|Dawncities]], the most ancient sites on all
 
 ### Age of Solitude
 Following the [[Sunmaker\|Sunmaker's]] death, it fell into the hands of one of his sons, the progenitor of [[House Kholin\|House Kholin]].
-During [[Gavilar\|Gavilar]] and [[Dalinar Kholin\|Dalinar Kholin's]] war of Alethi unification, it was conquered by the two brothers and subsequently became the capital city of [[Alethkar\|Alethkar]].
-Near the end of the [[War of Reckoning\|War of Reckoning]], [[Aesudan\|Aesudan's]] negligence and [[Pai\|Pai's]] accusations caused the city to erupt in riots. The [[Kholinar Wall Guard\|Kholinar Wall Guard]] managed to restore order to the city and exiled all parshmen beyond its limits before the first [[Everstorm\|Everstorm]] arrived. 
+During [[Gavilar\|Gavilar]] and [[Dalinar Kholin\|Dalinar Kholin's]] war of Alethi unification, it was conquered by the two brothers and subsequently became the capital city of [[Alethkar\|Alethkar]]. During the [[War of Reckoning\|War of Reckoning]], Brightlord [[Resi\|Resi]] ambushed a caravan from Kholinar as retribution for his loss in the [[Dueling Arena\|Dueling Arena]] at the hands of Adolin Kholin. This was only possible because the caravan’s leader, Brightlady [[Ralanat\|Ralanat]], conspired with him and lead the caravan through a ravine on the eastern border of the [[Thanadal princedom\|Thanadal princedom]].
+Near the end of the War of Reckoning, [[Aesudan\|Aesudan's]] negligence and [[Pai\|Pai's]] accusations caused the city to erupt in riots. The [[Kholinar Wall Guard\|Kholinar Wall Guard]] managed to restore order to the city and exiled all parshmen beyond its limits before the first [[Everstorm\|Everstorm]] arrived.
 
 ### The True Desolation
 #### The Siege
