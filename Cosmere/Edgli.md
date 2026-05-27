@@ -44,6 +44,7 @@ For subsequent events, see [[/wiki/Endowment#History]].
 ## Trivia
 Edgli is the author of the first of the [[Letters\|letters]] in *[[Oathbringer\|Oathbringer]]* epigraphs, and of the letter in *[[Wind and Truth\|Wind and Truth]]*
 The "E" in her name is pronounced as "eh", like in the word "echo".
+Although Edgli's race is not known, it is confirmed she is not a dragon since Sanderson has confirmed there are only two current Vessels that are dragons.  These are [[Medelantorius\|Medelantorius]], the [[Vessel\|Vessel]] of [[Valor\|Valor]] and [[Koravellium Avast\|Koravellium Avast]], the [[Vessel\|Vessel]] of [[Cultivation\|Cultivation]]. 
 
 
 https://coppermind.net/wiki/Edgli

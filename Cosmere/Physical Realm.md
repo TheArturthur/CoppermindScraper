@@ -8,7 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
-The **Physical Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains what is perceivable to the physical senses. Of the three [[Realmatic Theory\|Realms]], it is the most readily understood. It is made out of a large number of [[Axi\|axi]].
+The **Physical Realm** is the realm of existence in the [[Cosmere\|cosmere]] that contains what is perceivable to the physical senses. Of the three [[Realmatic Theory\|Realms]], it is the most readily understood. It is made out of a very large number of [[Axi\|axi]].
 The cosmere is a large star cluster within a dwarf galaxy, or potentially a galaxy in of itself, or the universe. Galaxies are organized into galactic clusters, which are themselves organized into galactic superclusters. This article lists all the known celestial bodies in the cosmere as they appear in the Physical Realm, including planets, stars and moons.
 
 ## Contents
@@ -107,7 +107,7 @@ Donne is the closest planet to the sun. While it is in a habitable region, it is
 
 ### Sel
 
-The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire).
+The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire). Sel is also notable as, in the [[Cognitive Realm\|Cognitive Realm]], the shattered remnants of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] have mingled to form the [[Dor\|Dor]], which results in Sel having a great variety of , which are primarily form-based.
 
 #### Moons
 Sel has a single moon named Oem.
@@ -118,7 +118,7 @@ The Scadrian system has a yellow sun. It has five planets: Scadrial within the s
 
 ### Scadrial
 
-The planet was created by the Shards [[Ruin\|Ruin]] and [[Preservation\|Preservation]]. The orbit of the planet has been changed by people using [[Investiture\|Investiture]]. Its size and gravitation are 1.0 cosmere standard.
+The planet was created by the Shards [[Ruin\|Ruin]] and [[Preservation\|Preservation]]. The orbit of the planet has been changed by people using [[Investiture\|Investiture]]. Its size and gravitation are 1.0 cosmere standard. It is also one of the most technologically advanced planets in the Cosmere, with only Taldain able to rival it. [[Hemalurgy\|Hemalurgy]] also originates here, and has had important effects on the rest of the Cosmere. Scadrial has no moon.
 
 ## The Taldain System
 
@@ -126,7 +126,7 @@ The Taldain system is a binary system. The two stars in it are a weak white dwar
 
 ### Taldain
 
-Taldain is a tidally locked planet. It is the only planet in this system. It is kept in an unstable orbit around AisDa by the gravitational pull of Ridos, and  by some other, unknown force, presumably Autonomy. This astronomically unstable orbit is known as "Wombear's Saddle".
+Taldain is a tidally locked planet. It is the only planet in this system. It is kept in an unstable orbit around [[AisDa\|AisDa]] by the gravitational pull of [[Ridos\|Ridos]], and by some other, unknown force, presumably [[Autonomy\|Autonomy]]. This astronomically unstable orbit is known as "Wombear's Saddle".
 It is orbited by a single moon known as **Nizh Da**.
 
 ### AisDa
@@ -157,7 +157,7 @@ First of the Sun has a single moon named First of the First.
 
 ## The Rosharan System
 
-Greater Roshar is a planetary system containing thirteen planets. Some have life, sentient and not, others are barren. There are three planets in the habitable region and ten gas giants. The gas giants are named after Vorin numerals.
+Greater Roshar is a planetary system containing thirteen planets. Some have life, sentient and not, others are barren. There are three planets in the habitable region and ten gas giants, the two separated by an asteroid belt. The gas giants are named after Vorin numerals.
 
 ### Ashyn
 
@@ -227,7 +227,7 @@ Little is known of Obrodai, but [[Autonomy\|Autonomy]] has claimed it, manifeste
 
 ### Vax
 
-Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be located there. All that is certain is that it has a manifestation of [[Investiture\|Investiture]].
+Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be located there. All that is certain is that it has a manifestation of [[Investiture\|Investiture]], and that it hasn't developed vaccines yet.
 
 ### Yolen
 

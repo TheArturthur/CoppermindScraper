@@ -21,6 +21,7 @@
 1. [[#Singer forms]] 
 1. [[#Nahel Bonds]] 
 1. [[#Healing]] 
+1. [[#Other]] 
 
 
 2 Trivia. [[#Trivia]] 
@@ -58,6 +59,9 @@ Forming a Nahel Bond utilizes Identity and Connection in some manner. Lessening 
 
 ### Healing
 Most healing in the cosmere works by using the three versions of the user's self: the Physical, Cognitive, and Spiritual versions. Healing typically heals the Physical version by matching it to their ideal Spiritual version, which is filtered through the lens of their minds (Cognitive version). Almost all forms of healing in the cosmere are filtered through the perception of the user. If a person hasn't accepted a wound as a part of themselves, they can still heal it regardless of how long they've had it. However, even if a wound is recent, if the person has changed their mindset to see it as a part of themselves, they will not be able to heal from it.
+
+### Other
+When the [[Dor\|Dor]] is blanked of Identity and Connection, it becomes unkeyed, and can be used as an extremely powerful energy source for just about any [[Invested Art\|Invested Art]].
 
 ## Trivia
 Blanking Identity and tapping Connection can cause someone to gain an accent for a particular area.
