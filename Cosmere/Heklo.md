@@ -10,6 +10,9 @@ The **heklo** are a member species of the [[Superiority\|Superiority]] and one o
 ## Appearance
 They appear to be bird-like and have wings.
 
+## History
+When [[Spensa\|Spensa]] first arrives in the [[Nowhere\|Nowhere]], she is apprehended by a group led by a Heklo. They take her [[Doomslug\|Reality Icon]] and try to force her into menial jobs, but [[Chet\|Chet]] shows up and attacks them with a [[Grig\|Grig]].
+
 
 
 https://coppermind.net/wiki/Heklo

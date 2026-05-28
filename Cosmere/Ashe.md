@@ -18,7 +18,7 @@ Ashe is reserved and cautious, and often displays displeasure when he perceives 
 He considers [[Teod\|Teod]] his home, though he moves to [[Arelon\|Arelon]] with Sarene after her marriage to [[Raoden\|Raoden]]. He lived in Arelon for a brief time, long before being bound to Sarene.
 
 ## History
-Ashe plays a key role in Sarene's efforts to thwart [[Hrathen\|Hrathen's]] takeover of Arelon. Among other things, Ashe deduces that Raoden is the one truly in charge of [[Elantris (city)\|Elantris]], saves Sarene from [[Iadon\|Iadon's]] [[Jeskeri Mysteries\|Jesker cultists]] by alerting [[Eondel\|Eondel]] of her whereabouts, acts as a courier between Sarene and [[Kiin\|Kiin]] while she is temporarily sequestered in Elantris, and gives Raoden the exact trajectory necessary for him to teleport to Teod and rescue Sarene from [[Dilaf\|Dilaf]] and his [[Dakhor\|Dakhor]] monks.
+Ashe plays a key role in Sarene's efforts to thwart [[Hrathen\|Hrathen's]] takeover of Arelon. Among other things, Ashe deduces that Raoden is the one truly in charge of [[Elantris (city)\|Elantris]], saves Sarene from [[Iadon\|Iadon's]] [[Jeskeri Mysteries\|Jesker cultists]] by alerting [[Eondel\|Eondel]] of her whereabouts, acts as a courier between Sarene and [[Kiin\|Kiin]] while she is temporarily sequestered in Elantris, and gives Raoden the exact trajectory necessary for him to teleport to Teod and rescue Sarene from [[Dilaf\|Dilaf]] and his [[Dakhor\|Dakhor]] monks. Ashe also saves many Elantrian children by leading them to the secret library, under the direction of [[Matisse\|Matisse]].
 
 
 
