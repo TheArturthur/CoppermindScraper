@@ -52,7 +52,7 @@ The **Unkalaki**, also known as **Horneaters** or **Peakfolk**, are a race of pe
 
 
 ## Appearance and Anatomy
-The Unkalaki are a human race with [[Singer\|singer]] blood in their ancestry. As a result, they have a higher tendency to be asexual than other races without listener ancestors. Furthermore, they seem to be able to faintly hear the [[Rhythm\|rhythms]] of Roshar, although it remains unclear whether they are able to distinguish them or attribute them to certain feelings. The Unkalaki are also fortified with resistance to poisons and toxins native to Roshar, and they have a legendary alcohol tolerance.
+The Unkalaki are a human race with [[Singer\|singer]] blood in their ancestry. As a result, they have a higher tendency to be asexual than other races without singer ancestors. Furthermore, they seem to be able to faintly hear the [[Rhythm\|rhythms]] of Roshar, although it remains unclear whether they are able to distinguish them or attribute them to certain feelings. The Unkalaki are also fortified with resistance to poisons and toxins native to Roshar, and they have a legendary alcohol tolerance.
 Features that are often associated with Horneaters are pale skin, tall stature, and red hair. Their lines mixed with that of the [[Veden\|Vedens]] at some point; by the era of the [[True Desolation\|True Desolation]], traditional Veden coloring includes such features as red hair and freckles, inherited from the Horneaters. Horneaters are also known to have forked beards. Because of their singer heritage, the Unkalaki have extra jaw pieces at the back of their mouths which help them eat shells. This is the reason they are called Horneaters.
 
 ### The Sighted
