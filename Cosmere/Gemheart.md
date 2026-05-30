@@ -39,7 +39,7 @@ Singer gemhearts are cloudy white. It is possible for [[Singers\|singers]] to ho
 ## Gemheart Harvesting
   <<Elhokar\|Elhokar>> extracting the gemheart from a <<Chasmfiend\|chasmfiend>>
 Just as Soulcasters are considered valuable by the people on Roshar, so are the Polestones that enable their function. Because much of the land on the continent has been covered by crem, mining is more difficult compared to other planets, and so most gemstones that people use are from gemhearts, which are harvested from various animals.
-Some species have gemhearts that are of just one gemstone type, while others vary. Species that only have one type of gemheart are considered more ideal for harvesting.
+Some species have gemhearts that are of just one gemstone type, while others vary. Species that only have one type of gemheart are considered more ideal for harvesting. , for example, have gemhearts consistently made of heliodor for the soulcasting of meat.
 [[Gumfrems\|Gumfrems]], small chull-like animals, are raised by some farmers in [[Alethkar\|Alethkar]] for their small heliodor gemhearts that can be harvested and used to [[Soulcast\|Soulcast]] meat.
 Chasmfiends have emerald gemhearts. The ability to Soulcast grain from them, combined with their relatively large size, makes chasmfiend gemhearts extremely valuable. Because chasmfiends are aggressive and extremely dangerous greatshells that cannot be domesticated, humans resort to hunting for their chrysalises on the [[Shattered Plains\|Shattered Plains]] most of the time.
 

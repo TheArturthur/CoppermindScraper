@@ -60,7 +60,7 @@ Inhibitor slugs are blue and green Taynix. FM found this fourth variety of tayni
 Commslugs, which are purple and orange, have the ability to communicate cytonically. This communication can be received by traditional technology, however, as [[Platform Prime\|Platform Prime]] was able to receive [[Cuna\|Cuna's]] cytonic transmission without needing a commslug. They are also capable of sending double signals, Like one named Comfort did to help [[Spensa\|Spensa]] reach [[Jorgen\|Jorgen]] when she was captured by [[Brade\|Brade]] and [[Winzik\|Winzik]] and later got caught and killed for it. They can manage multiple transmissions at once, acting as operator.
 
 ### Rainbow Taynix
-This variety of taynix has spines that faded between different colors of the rainbow. They are able to create illusions, which they use to alter their own appearance, possibly to hide from , if they were ever to come near one of these slugs.
+This variety of taynix has spines that faded between different colors of the rainbow. They are able to create illusions, which they use to alter their own appearance, possibly to hide from [[Delver\|Delvers]], if they were ever to come near one of these slugs.
 
 ### Other Types
 Rig and Jorgen discovered several new types of taynix on Detritus. There are wrinkled grey ones with black and white spines, taynix that are blackish that shine with an iridescent blue sheen, and slugs that are smaller than the others, that are teal colored with pink spines. The abilities of these taynix are all unknown.
