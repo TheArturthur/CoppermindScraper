@@ -9,7 +9,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page is part of the May 2026 objectives!It has been claimed by User: Firesong, please contact her before doing edits.
+> [!info] This page is part of the June 2026 objectives!It has been claimed by User: Firesong, please contact her before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I find Ba-Ado-Mishram to be the most interesting of the Unmade. She is said to have been keen of mind, a highprincess among the enemy forces, their **commander** during some of the Desolations. I do not know how this relates to the ancient god of the enemy, named Odium.*”

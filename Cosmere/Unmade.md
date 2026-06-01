@@ -1,4 +1,4 @@
-> [!info] This page is part of the May 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
+> [!info] This page is part of the June 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
 |**Unmade**|
 |-|-|
 ||

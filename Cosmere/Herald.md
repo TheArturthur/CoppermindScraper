@@ -9,7 +9,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] This page is part of the May 2026 objectives!It has been claimed by User: VioletNebula, please contact them before doing edits.
+> [!info] This page is part of the June 2026 objectives!It has been claimed by User: VioletNebula, please contact them before doing edits.
 >“*The Heralds, they were honorable. Perhaps not as divine, but I may even like them more, to know they were once just normal men and women.*”
 \-Navani[1]
 
