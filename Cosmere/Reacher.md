@@ -44,10 +44,11 @@ Reachers are not known for being overly talkative to others.
 
 ## Abilities
 Reachers have a greater alignment with the [[Rhythm\|rhythms]] of Roshar compared to other spren.
-In the [[Physical Realm\|Physical Realm]], Reachers seem able to move very quickly, as well as hover and fly, although they cannot become invisible. They are capable of overpowering lesser [[Voidspren\|voidspren]], and can live inside the [[Gemheart\|gemheart]] of a [[Singer\|singer]]. They can also pulse to [[Odium\|Odium's]] rhythms, though doing so appears to cause some pain.
+In the [[Physical Realm\|Physical Realm]], Reachers seem able to move very quickly, as well as hover and fly, although they cannot become invisible. They can live inside the [[Gemheart\|gemheart]] of a [[Singer\|singer]]. They can also pulse to [[Odium\|Odium's]] rhythms, though doing so appears to cause some pain.
 
 ### Nahel bond
 Reachers are one of the spren types capable of forming [[Nahel bond\|Nahel bonds]]. Bonding them makes a person a [[Surgebinder\|Surgebinder]] with the Surges of [[Transportation\|Transportation]] and [[Cohesion\|Cohesion]]. Notably, they are the first sapient spren to be shown capable of forming a Nahel bond with a singer rather than a human. While the bond does seem to afford them a higher level of intelligence as it does with other spren, Reachers appear incapable of communication; however, it's uncertain whether this is a consequence of bonding a singer, or if a Reacher bonded to a human would also be mute. Despite this, they are able to communicate with their singer via pulses and Rhythms and are able to read their Knights thoughts. Reachers are able to mute the rhythms of their Surgebinder.
+If their Willshaper is also a [[Regal\|Regal]], the Reacher can keep the [[Voidspren\|voidspren]] within the singer's gemheart trapped, protecting their Willshaper from the voidspren's influence. This allows the Radiant to retain their form's abilities and switch between red and normal eyes at will, letting them blend in with Odium's forces.
 
 ## Culture
   <<Timbre\|Timbre>>, a Reacher, in <<Venli\|Venli's>> hand

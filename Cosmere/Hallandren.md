@@ -341,6 +341,7 @@ Three hundred years after the [[Manywar\|Manywar]], a Pahn Kahl named [[Vahr\|Va
 [[Lightsong\|Lightsong]]
 [[Treledees\|Treledees]]
 [[Jewels\|Jewels]]
+[[Llarimar\|Llarimar]]
 
 
 

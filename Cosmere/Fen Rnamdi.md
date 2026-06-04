@@ -25,9 +25,10 @@ For the sand master rank, see [[/wiki/Diem#Organization]].
 3 History. [[#History]] 
 
 3. [[#After the Everstorm]] 
-3. [[#Dalinar.E2.80.99s visions]] 
-3. [[#Roshar.E2.80.99s Coalition]] 
+3. [[#Dalinar.27s visions]] 
+3. [[#Roshar.27s Coalition]] 
 3. [[#Battle of Thaylen City]] 
+3. [[#The Debate]] 
 
 
 4 Relationships. [[#Relationships]] 
@@ -76,24 +77,27 @@ Fen is a skilled politician who understands strategy and interaction with other 
 
 ## History
 ### After the Everstorm
-The Everstorm hit Thaylenah several times causing much damage. The storm broke their aqueducts and sewer systems and ripped apart the docks. They would have to rebuild the city. The parshmen transformed, stole a grand fleet of royal warships and private trading vessels and used them to flee the city.
-At that time, she was contacted by [[Dalinar\|Dalinar]]. She was not open to going to Urithiru and was even more suspicious of the Oathgates and the radiants. She did not want to be responsible for Thaylenah to fall to the Alethi.
+The Everstorm hit Thaylenah several times, causing much damage. The storm broke the city's aqueducts and sewer systems and ripped apart the docks, requiring an extensive rebuilding. The parshmen transformed, stole a grand fleet of royal warships and private trading vessels and used them to flee the city.
+At that time, Fen was contacted by [[Dalinar\|Dalinar]]. She was not open to going to Urithiru and was even more suspicious of the Oathgates and the Radiants. She did not want to be responsible for Thaylenah to fall to the Alethi.
 
-### Dalinar’s visions
+### Dalinar's visions
 The first vision Dalinar asked for Fen to receive was the Radiants falling from the sky to fight the midnight essence. He was placed far away and was unable to get to her until the battle had passed. She was able to save the child, though she left the mother to die, and  organized the town, pitting them against the enemy. Dalinar joined her, asking her to join his coalition again. When she refused, his temper showed and he shouted. That was when Fen actually started listening again. She explained she wanted honesty and truth. She ended the vision being asked by the Radiant to join them at Urithiru. This seemed to trouble her. She would consider his sincerity, though Dalinar could sense she was concerned he had turned sides.
-She was shown different visions, until, in a morning’s highstorm, The queen of Thaylenah had asked that Dalinar send her into the vision of [[Aharietiam\|Aharietiam]], which she knew about from the published accounts of Dalinar’s visions. He’d reluctantly sent her alone, without supervision. Shortly after that, she agreed to receive Dalinar at Thaylen City.
+She was shown different visions, until, in a morning's highstorm, the queen of Thaylenah had asked that Dalinar send her into the vision of [[Aharietiam\|Aharietiam]], which she knew about from the published accounts of Dalinar's visions. He’d reluctantly sent her alone, without supervision. Shortly after that, she agreed to receive Dalinar at Thaylen City.
 
-### Roshar’s Coalition
+### Roshar's Coalition
   Fen stepping out of her litter to give <<Dalinar\|Dalinar>> and <<Navani\|Navani>> a tour of the city
-Upon Dalinar’s arrival at Thaylen City, Fen gave them the tour of the ten temples. Navani believed it comforted her by doing something familiar. She did not intend to linger on the two oldest temples and when Dalinar went to see them, he found out they had used them to keep the wounded people. She left them some food and went to see to other matters, a political strategy to show she was the one with power there. Dalinar then duels her son, purposefully losing to show his radiant powers of healing himself. Upon review, Dalinar regrets this and calls for Renarin to aid in the healing of Fen's people with [[Surgebinding\|Progression]] while Dalinar used his Surgebinding to repair temples and other structures. After both those events, Fen accepted the invitation to join the coalition, and called it the first real united Vorin coalition the world had seen since the Hierocracy.
+Upon the arrival of Dalinar's party at Thaylen City, Fen gave them the tour of the ten temples. Navani believed it comforted her by doing something familiar. She did not intend to linger on the two oldest temples and when Dalinar went to see them, he found out they had used them to keep the wounded people. She left them some food and went to see to other matters, a political strategy to show she was the one with power there. Dalinar then dueled her son, purposefully losing to show his Radiant powers of healing himself. Upon review, Dalinar regrets this and calls for Renarin to aid in the healing of Fen's people with [[Surgebinding\|Progression]] while Dalinar used his Surgebinding to repair temples and other structures. After both those events, Fen accepted the invitation to join the coalition, and called it the first real united Vorin coalition the world had seen since the Hierocracy.
 She later aided Dalinar on getting the Azish to join as well, not only by providing useful tactics, but with a letter to them, asking them to do so.
-At the meeting, she and her consort committed to the coalition. She asked for free trade and was curious of the fabrials that could lead to shardplate, but settled to agreements after Navani gave her kingdom the task to oversee trade and supplies fairly. By the next meeting, where Dalinar understood that the target would be Thaylen City, Fen understood and helped plot the defense; they agreed to have the next meeting at Thaylenah.
-That meeting started very positive, however, after [[Taravangian\|Taravangian's]] treason and the leakage of Dalinar’s secrets, the coalition broke. Queen Fen was mostly worried that before [[Elhokar\|Elhokar]] went to Alethkar, he swore to Dalinar to accept him as Highking. Her trust in him was compromised by this. Bitter as she was, she acknowledged war was still coming and she could not afford to let him go.
+At the meeting, she and her consort committed to the coalition. She asked for free trade and was curious of the fabrials that could lead to Shardplate, but settled to agreements after Navani gave her kingdom the task to oversee trade and supplies fairly. By the next meeting, where Dalinar understood that the target would be Thaylen City, Fen understood and helped plot the defense; they agreed to have the next meeting at Thaylenah.
+That meeting started very positive; however, after [[Taravangian\|Taravangian's]] treason and the leakage of Dalinar’s secrets, the coalition broke. Queen Fen was mostly worried that before [[Elhokar\|Elhokar]] went to Alethkar, he swore to Dalinar to accept him as Highking. Her trust in him was compromised by this. Bitter as she was, she acknowledged war was still coming and she could not afford to let him go.
 
 ### Battle of Thaylen City
 Just before the battle, Queen Fen, her consort, and Navani were looking at the battlefield from a tower. The odds didn’t look that bad until [[Amaram\|Amaram]]’s army turned sides. During the battle itself, they were attacked by a [[Thunderclast\|thunderclast]] that absently destroyed the tower they were in. Navani and Fen were able to go down the surviving steps.
 Navani, Fen, and her consort Kmakl were then captured by one of Amaram’s troops who still blamed the Kholins for the killing of [[Torol Sadeas\|Torol Sadeas]]. As they were going to execute [[Kmakl\|Kmakl]], Navani pulled out her painrial and knocked their enemies down.
 After that, they were joined by Adolin and later Jasnah came in to ask them to clear the center of the city and save citizens. Once the battle ended, Dalinar accepted a respectful bow from the queen.
+
+### The Debate
+During the days leading up to the contest of champions, the [[Taravangian\|new]] [[Odium\|Odium]] visited both Fen and Jasnah. He announced that he intended to verbally duel Jasnah; Fen would witness the debate, then choose what side Thaylenah would join. During the ensuing debate, Jasnah accidentally painted herself into a corner, and when Odium revealed that Jasnah considered assassinating Fen, along with his subsequent offering of very favorable terms, Fen -- thinking of her people before her world -- agreed to serve Odium.
 
 ## Relationships
 ### Kmakl
