@@ -5,6 +5,7 @@
 |**Residence**|[[Elendel Basin\|Elendel Basin]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **Johnst** is a farmer in the [[Elendel Basin\|Elendel Basin]].
 

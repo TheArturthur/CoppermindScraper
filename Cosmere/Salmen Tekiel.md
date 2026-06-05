@@ -5,6 +5,7 @@
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 **Salmen Tekiel** was a [[Noble\|nobleman]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]], who may or may not have existed.
 Kelsier spread a rumor to [[Hoid\|Hoid]] of a covert relationship between him and [[Shan Elariel\|Shan Elariel]] to try and create controversy. Kelsier may have invented the name.

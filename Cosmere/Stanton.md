@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Lord Stanton** is the lord of a noble house in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

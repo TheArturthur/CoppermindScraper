@@ -5,6 +5,7 @@
 |**Ethnicity**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **Professor Hanlanaze** is a well known mathematician and scientist from [[New Seran\|New Seran]] on [[Scadrial\|Scadrial]].
 He grew up in the outer village of [[Thermoli\|Thermoli]], located west of New Seran at the southern edge of the [[Elendel Basin\|Elendel Basin]], and his accent includes the distinctive "v" sounds common in that village. He has a beard, is fairly heavyset, and is at least part [[Terris\|Terris]].

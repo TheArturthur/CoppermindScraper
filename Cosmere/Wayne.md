@@ -5,7 +5,7 @@
 |**Parents**|[[Wayne's mother\|Mother]]|
 |**Relatives**|[[Gregr\|Gregr]]|
 |**Born**|308 [[Catacendre\|PC]]|
-|**Died**|Killed in an explosion in 348 [[Catacendre\|PC]]|
+|**Died**|Killed in the biggest explosion on Scadrial in 348 [[Catacendre\|PC]]|
 |**Abilities**|[[/wiki/Gold#Feruchemical Use]] & [[/wiki/Bendalloy#Allomantic Use]] [[Twinborn\|twinborn]], [[Hemalurgy\|Hemalurgist]], [[Allomancy\|Mistborn]]|
 |**Aliases**|Maxil, Abrigain|
 |**Profession**|Constable|

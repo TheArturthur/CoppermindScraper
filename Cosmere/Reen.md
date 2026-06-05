@@ -9,6 +9,7 @@
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 >“*When you're alone, no one can betray you.*”
 \-Reen

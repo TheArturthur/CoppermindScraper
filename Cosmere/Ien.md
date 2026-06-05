@@ -36,8 +36,8 @@
 
 ## Appearance and Personality
 Like all seons, Ien is sapient and he appears as a melon-sized ball of light. Seons have some control over the level of their brightness, and they often pulse while speaking or laughing. Ien's namesake Aon glows at his center, although it may be difficult to discern through the light.
-When Raoden is taken by the failed [[Shaod\|Shaod]], Ien's appearance changes. His Aon has new breaks in its lines and patchy colors, displaying some similarities to the blotchy skin of [[Elantrian\|Elantrians]] before the restoration of their powers. Despite this change, Ien was still recognizable to humans and other seons. Ien is seen nearby to Raoden and floats with slow, lurching movements. Attempts to communicate with Ien don't have any affect, similarly to every other seon who's master was taken by the [[Reod\|Reod]]. After Raoden regains access to the power of the [[Dor\|Dor]], Ien reverts to his original appearance and congative function.
 Ien is exceptionally wise and very thoughtful. His voice is described as "indulgent" and "stoic". He cares deeply for Raoden and serves him simply because he loves him.
+When Raoden is taken by the failed [[Shaod\|Shaod]], Ien's appearance changes. His Aon has new breaks in its lines and patchy colors, displaying some similarities to the blotchy skin of [[Elantrian\|Elantrians]] before the restoration of their powers. Despite this change, Ien remains recognizable to humans and other seons. He usually stays near Raoden and floats with slow, lurching movements. Attempts to communicate with Ien don't have any effect, similar to every other seon whose master was taken by the [[Reod\|Reod]]. After Raoden regains access to the power of the [[Dor\|Dor]], Ien reverts to his original appearance and cognitive function.
 
 ## Attributes and Abilities
 For more information, see [[Seon\|Seon]].

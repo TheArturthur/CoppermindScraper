@@ -142,7 +142,7 @@ Jezrien was chosen by the rest to wait and see if [[Kalak\|Kalak]] had survived 
 
 Following the abandonment of his Blade, Jezrien spread the word of their victory to the survivors of the [[Last Desolation\|Last Desolation]]. While Jezrien was never killed and returned to Damnation after Aharietiam, avoiding death for four and a half millennia, he seems to have succumbed to the same madness plaguing the other Heralds. Jezrien became a drunk beggar who lived in a [[Beggars' Porch\|Beggars' Porch]] in the [[Kholinar Palace\|Kholinar Palace]]. He was known as **Ahu** by then, and was occasionally the drinking companion of [[Highprince\|Highprince]] [[Dalinar Kholin\|Dalinar Kholin]] when Dalinar was trying to drink clandestinely or could not find more alcohol.
 Jezrien attended the [[Beggar's Feast\|Beggar's Feast]] on the night that King [[Gavilar Kholin\|Gavilar Kholin]] was [[Assassination of Gavilar\|assassinated]], speaking incoherently to [[Szeth\|Szeth]] before collapsing.
-Six years later, after the capture of [[Kholinar\|Kholinar]] by the Voidbringers, Jezrien was stabbed by [[Moash\|Moash]] with a [[Raysium\|raysium]] knife. Jezrien was initially unfazed by the wound, but quickly realized that he had been mortally wounded, screaming and dying quite suddenly, his soul transferred into the gem. At the moment of Jezrien's sealing, his [[Connection\|Connection]] with the other Heralds was broken and caused them to feel a painful tearing sensation and they all knew that he was dead. While the Fused were initially successful in trapping Jezrien's soul, their plan ultimately failed. With the Oathpact severed and Honor [[Splinter\|Splintered]], Jezrien's soul could not exist long without his body. Within weeks his mind had faded and he was truly gone, destroying the Oathpact in the process.
+Six years later, after the capture of [[Kholinar\|Kholinar]] by the Voidbringers, Jezrien was stabbed by [[Moash\|Moash]] with a [[Raysium\|raysium]] knife. Jezrien was initially unfazed by the wound, but quickly realized that he had been mortally wounded, screaming and dying quite suddenly, his soul transferred into the gem. At the moment of Jezrien's sealing, his [[Connection\|Connection]] with the other Heralds was broken and caused them to feel a painful tearing sensation and they all knew that he was dead. While the Fused were initially successful in trapping Jezrien's soul, their plan ultimately failed. With the Oathpact severed and Honor dead, Jezrien's soul could not exist long without his body. Within weeks his mind had faded and he was truly gone, destroying most of the Oathpact in the process.
 The remainder of his spirit trapped in the gemstone was killed by the injection of [[Anti-Light\|Anti-Light]] into the gemstone by the Fused El in the days leading up to the Night of Sorrows.
 His position would later be taken up by [[Kaladin Stormblessed\|Kaladin Stormblessed]] on Palahanah 1175 with the reforging of the Oathpact.
 
@@ -165,11 +165,11 @@ He has a tense relationship with Shalash.
 \- Dalinar on Jezrien[11]
 
 
-As Ahu, he and Dalinar Kholin were drinking companions. Dalinar describes him as being a "kindly drunk," and spoke about how he shared drinks with him during his dark days. Dalinar refers to him as a "drinking buddy," though he considered him to be strange and insane.
-Jezrien stated that he likes Dalinar, due to the pain he sees in his eyes.
+As Ahu, he and Dalinar Kholin were drinking companions. Dalinar describes him as being a "kindly drunk," and spoke about how he shared drinks with him during his dark days. Dalinar additionally refers to him as a "drinking buddy," though he considered him to be strange and insane.
+Jezrien stated that he likes Dalinar, due to the pain he sees in his eyes, which he can likely empathize with.
 
 ### Elodi
-Elodi was a friend to Jezrien. However, their relationship had tension to it when singers murdered thirty humans in retribution for theft and the murder of a singer. Tension also existed in how Elodi wanted Jezrien and his people to come east, in return for being treated as lower class servants in order to learn their ways. Which Jezrien vehemently rejects.
+Elodi was a friend to Jezrien. However, their relationship had tension to it when singers murdered thirty humans in retribution for theft and the murder of a singer. Tension also existed in how Elodi wanted Jezrien and his people to come east, in return for being treated as lower class servants in order to learn their ways, which Jezrien vehemently rejects.
 
 ### Makibak
 >“*I hope, that you lead them off a cliff, you bastard.*”

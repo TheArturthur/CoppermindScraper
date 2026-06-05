@@ -7,6 +7,7 @@
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 For the resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]], see [[Callins\|Callins]].
 **Callins Geffenry** is a [[Noble\|noble]] of [[House Geffenry\|House Geffenry]] in the [[Final Empire\|Final Empire]].

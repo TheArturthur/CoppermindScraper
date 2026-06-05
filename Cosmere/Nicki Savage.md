@@ -8,6 +8,7 @@
 |**Residence**|[[New Seran\|New Seran]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 

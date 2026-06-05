@@ -6,6 +6,7 @@
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 For similarly-named characters, see [[Red\|Red]].
 **Redd** was a [[Skaa\|skaa]] [[Copper\|copper]] [[Misting\|Misting]] (aka a [[Smoker\|Smoker]]) in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].

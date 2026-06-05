@@ -3,6 +3,7 @@
 |**Species**|[[Kandra\|Kandra]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 **Tabaar** is a [[Kandra\|kandra]] from Scadrial and an ally of [[Nicki Savage\|Nicki Savage]]. He is close to another Kandra, [[KeSun\|KeSun]] and the three of them have shared many adventures together.
 

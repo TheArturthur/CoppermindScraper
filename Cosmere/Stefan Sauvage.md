@@ -6,6 +6,7 @@
 |**Residence**|[[New Seran\|New Seran]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
 **Stefan Sauvage** is a [[Scadrian\|Scadrian]] nobleman and the father of [[Nicelle Sauvage\|Nicelle Sauvage]].
 

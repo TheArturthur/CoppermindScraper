@@ -4,6 +4,7 @@
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 For the pilot in the Cytoverse, see [[Vent (Skyward)\|Vent (Skyward)]].
 >“*The [[Vin\|lass]] is a bit paranoid, but she’s not that bad. I swear, that man was so jumpy that his own heartbeat could startle him.*”

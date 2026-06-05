@@ -6,6 +6,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **Remmingtel Tarcsel** is an inventor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 His daughter, [[Sophi Tarcsel\|Sophi Tarcsel]], claimed that he spent years perfecting the incandescent lightbulb and that his work was stolen by other inventors and scientists, including Professor [[Hanlanaze\|Hanlanaze]]. He died unknown, depressed and destitute. Sophi, who became an inventor herself, did her best to posthumously get him the recognition he deserved. She submitted multiple opinion pieces to the Elendel broadsheets touting her father's accomplishments.

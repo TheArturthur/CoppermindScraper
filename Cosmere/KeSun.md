@@ -3,6 +3,7 @@
 |**Species**|[[Kandra\|Kandra]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 **KeSun** is a [[Kandra\|kandra]] from Scadrial and an ally of [[Nicelle Sauvage\|Nicelle Sauvage]]. She is implied to be close to another Kandra, [[Tabaar\|Tabaar]], and often talk to him with compassion she reserves only for him.
 

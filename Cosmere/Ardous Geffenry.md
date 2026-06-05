@@ -7,6 +7,7 @@
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 **Ardous Geffenry** was a [[Noble\|noble]] of [[House Geffenry\|House Geffenry]] in the [[Final Empire\|Final Empire]].
 He and his brother [[Callins Geffenry\|Callins]] were killed in retaliation to the murder of [[Charrs Entrone\|Charrs Entrone]], although they were both innocent.

@@ -10,6 +10,7 @@
 |**Ethnicity**|[[Skaa\|Skaa]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 **Mare** is a [[Tin\|tin]] [[Misting\|Misting]] (aka a [[Tineye\|Tineye]]) on [[Scadrial\|Scadrial]]. She is [[Kelsier\|Kelsier's]] wife and a member of his crew. She is fascinated by pre-Ascension times, following the pre-Ascension religion of [[Larstaism\|Larstaism]] and collecting artifacts from that era, including a picture of a flower. She is also active in the skaa rebellion. She and Kelsier are captured by the [[Lord Ruler\|Lord Ruler]] when they try to infiltrate [[Kredik Shaw\|Kredik Shaw]], and sent to the [[Pits of Hathsin\|Pits of Hathsin]]. She is later killed there. After her death, Kelsier dedicates his life toward making a world where flowers grow again, the world she had always dreamed of.
 
