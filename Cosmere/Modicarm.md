@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 >“*Obvious visual tells must be assiduously avoided by a practitioner of the law, lest he inadvertently give criminals an insight into his emotional state.*”
 \-Professor Modicarm[1]

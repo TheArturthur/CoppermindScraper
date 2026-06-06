@@ -3,6 +3,7 @@
 |**Profession**|Playwright|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **Buissonommes** is a playwright on [[Scadrial\|Scadrial]]. They cowrote the *[[A Hero for All Ages\|A Hero for All Ages]]* operetta with [[Sablerfils\|Sablerfils]] for [[Clarvonne's Theater\|Clarvonne's Theater]].
 

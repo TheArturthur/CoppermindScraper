@@ -4,6 +4,7 @@
 |**Profession**|Minister of Science and Technology|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
 Dr. **Florin Malin** is a former government official in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]].
 

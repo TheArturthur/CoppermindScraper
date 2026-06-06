@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Daius** is an attorney in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

@@ -4,6 +4,7 @@
 |**Residence**|[[Roughs\|The Roughs]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 >“*He wouldn't take the hand of a [[Metalborn\|Metalborn]] trying to save him from slipping to his death.*”
 \-Waxillium Ladrian[1]

@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
 **Inis Julien** is a senator from [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

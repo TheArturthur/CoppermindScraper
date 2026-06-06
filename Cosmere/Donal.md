@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Donal** is the leader of a gang of outlaws in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]].
 

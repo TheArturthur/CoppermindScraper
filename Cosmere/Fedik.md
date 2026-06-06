@@ -4,6 +4,7 @@
 |**Era**|[[Classical Scadrial\|Classical Scadrial]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 **Fedik** was a [[Scadrian\|Scadrian]] who lived during the [[Classical Scadrial\|classical era]].
 Fedik is known only from [[Alendi's journal\|Alendi's journal]]. He was a member of the party that traveled with [[Alendi\|Alendi]] to the [[Well of Ascension\|Well of Ascension]] shortly before the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]]. He was suspicious of the party's [[Terris\|Terrismen]] guides, fearing that they would abandon the group in the mountains. This implies that Fedik was from [[Khlennium\|Khlennium]] or one of the other nations that supported Alendi's quest.

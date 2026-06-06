@@ -4,8 +4,10 @@
 |**Relatives**|[[Jastes Lekal\|Jastes Lekal]]|
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Titles**|King of [[House Lekal\|House Lekal's]] kingdom|
+|**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Hero of Ages\|The Hero of Ages]]*|
 
 **Audil Lekal** was the second king of the post-[[Collapse\|Collapse]] kingdom of [[House Lekal\|House Lekal]] in the [[Southern Dominance\|Southern Dominance]] of [[Scadrial\|Scadrial]]. He was the uncle of [[Jastes Lekal\|Jastes Lekal]].
 After Jastes was executed for raising an uncontrollable [[Koloss\|koloss]] army, Audil became the ruler of the lands that House Lekal had claimed in the [[Southern Dominance\|Southern Dominance]]. He ruled from [[Lekal City\|Lekal City]], a former country estate that quickly became a shantytown in the turmoil following the [[Lord Ruler\|Lord Ruler's]] death.

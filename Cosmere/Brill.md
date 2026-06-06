@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 For the [[Skaa\|skaa]] who was also referred to as Brill, see [[Bilg\|Bilg]].
 >“*[[Elors Durnsed\|Mr. Durnsed]] should bloody well keep his head clear of these parts if he knows what's what.*”

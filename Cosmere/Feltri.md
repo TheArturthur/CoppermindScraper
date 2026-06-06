@@ -5,6 +5,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 >“* Vote for Passion! Vote for Freedom! Vote for Feltri!*”
 \- An advertisement placed by Canalworkers for Feltri[1]

@@ -4,6 +4,7 @@
 |**Era**|[[Classical Scadrial\|Classical Scadrial]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Final Empire\|The Final Empire]]*|
 
 >“*It is so cold. When this is ﬁnished, I think I should like to live where it is warm all year. Braches has told of such places, islands to the south where great mountains create ﬁre.*”
 \-Alendi's logbook[1]

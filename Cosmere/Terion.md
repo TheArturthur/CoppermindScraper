@@ -3,6 +3,7 @@
 |**Profession**|Metallurgist|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Well of Ascension\|The Well of Ascension]]*|
 
 >“*Lady Vin,*
 \-Here is the next alloy you requested. Aluminum is very difficult to acquire, but when a noble family recently left the city, I was able to buy some of their diningware.

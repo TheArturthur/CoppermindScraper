@@ -3,6 +3,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 Lady **Carmine Feltry** is a resident of [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 She is planning on opening a racing circuit exclusively for motorcars on the old fairgrounds near the [[Irongate River\|Irongate River]].

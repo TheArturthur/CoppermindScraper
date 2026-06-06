@@ -3,6 +3,7 @@
 |**Abilities**|[[/wiki/Steel#Allomantic Use]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 **Vila Mecant** is a [[Coinshot\|Coinshot]] from Scadrial and an antagonist of [[Nicki Savage\|Nicki Savage]].
 

@@ -4,6 +4,7 @@
 |**Profession**|Doctor|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 Doctor **Selvest Vif** is  a doctor on [[Scadrial\|Scadrial]].
 He, along with his brother [[Fronks Vif\|Fronks]], is one of the makers of [[Vif Sparkle Tonic\|Vif Sparkle Tonic]].

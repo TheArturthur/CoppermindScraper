@@ -6,6 +6,7 @@
 |**Residence**|[[Roughs\|The Roughs]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Peret the Black** was a [[Pewter\|pewter]] [[Misting\|Misting]] (aka a [[Pewterarm\|Pewterarm]]) rapist in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]].
 Peret was the first criminal that [[Waxillium Ladrian\|Waxillium Ladrian]] brought in as a lawman in the Roughs, around twenty years prior to his return to [[Elendel\|Elendel]]. As a Thug, Peret was notoriously dangerous and had a large bounty on his head. Wax decided to pursue him, and within a few days, he killed Peret and brought him back to the lawkeeper station draped over his horse.

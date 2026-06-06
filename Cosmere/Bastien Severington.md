@@ -4,6 +4,7 @@
 |**Residence**|[[Bilming\|Bilming]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
 Lord **Bastien Severington** is the mayor of [[Bilming\|Bilming]] in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]] during the year 342 [[Catacendre\|PC]].
 

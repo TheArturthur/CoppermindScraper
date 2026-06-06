@@ -3,6 +3,7 @@
 |**Family**|[[House Tekiel\|House Tekiel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 >“*Lord Evenstrom is excitable, sometimes. I know how it goes; this isn't the first time he’s sent me to help someone who didn’t need it.*”
 \-Wayne to a House Tekiel guard[1]

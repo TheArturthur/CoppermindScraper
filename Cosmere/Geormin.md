@@ -3,6 +3,7 @@
 |**Died**|Killed by [[Bloody Tan\|Bloody Tan]], 341 [[Catacendre\|PC]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Geormin** is a coachman who brought mail from smaller villages into [[Weathering\|Weathering]] on [[Scadrial\|Scadrial]].
 

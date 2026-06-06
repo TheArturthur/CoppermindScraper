@@ -3,6 +3,7 @@
 |**Family**|[[House Tekiel\|House Tekiel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 Lord **Augustin Tekiel** is a prominent member of [[House Tekiel\|House Tekiel]] on [[Scadrial\|Scadrial]].
 Augustin Tekiel began a smuggling operation in order to avoid taxes on [[Aluminum\|aluminum]]. He claimed aluminum was other goods, such as wool, with the help of railway workers. This scam was successful and profitable for around two years. However, [[Miles Dagouter\|Miles Dagouter]] and his crew of thieves, the [[Vanishers\|Vanishers]], somehow discovered Tekiel's fraud, possibly on the advice of the [[Set\|Set]]. Miles and his Vanishers robbed a train carrying one of these fraudulent shipments in order to get enough aluminum for their weapons and to finance themselves.

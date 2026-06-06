@@ -4,6 +4,7 @@
 |**Residence**|[[New Seran\|New Seran]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **B. Sablerfils** is a playwright on [[Scadrial\|Scadrial]].
 

@@ -5,6 +5,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 **Vennis Hasting** is a powerful senator for [[House Hasting\|House Hasting]] in the [[Elendel\|Elendel]] Senate on [[Scadrial\|Scadrial]].
 House Hasting and [[House Erikell\|House Erikell]] were typically opposed to [[Waxillium Ladrian\|Waxillium Ladrian's]] political positions. In 348 [[Catacendre\|PC]], Wax and [[Steris\|Steris]] uncovered a scandal in which Vennis was bribing other senators for their votes. They used multiple handwriting analysts to confirm that incriminating letters were written in Vennis's own handwriting, which had distinctive loops. Despite the scandal, Vennis retained his powerful position.

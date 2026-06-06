@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 For the Final Empire-era soldier also known as Wells, see [[Wellen\|Wellen]].
 **Wells** is a constable of the [[Elendel\|Elendel]] constabulary on [[Scadrial\|Scadrial]].

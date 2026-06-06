@@ -5,6 +5,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 **Mari Hammondess** is a member of [[House Hammondess\|House Hammondess]] on [[Scadrial\|Scadrial]]. It is unknown if she is the head of House Hammondess during 348 [[Catacendre\|PC]], or if she simply acts as the representative of House Hammondess on the Elendel Senate.
 

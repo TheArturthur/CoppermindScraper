@@ -3,6 +3,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 >“*Each vote was the crack of a bullet. Lady Faula and Senator Vindel. How will they break?*”
 \-Waxillium[1]

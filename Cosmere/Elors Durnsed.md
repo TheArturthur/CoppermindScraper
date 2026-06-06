@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Elors Durnsed** is the leader of the [[United Tradeworkers Union\|United Tradeworkers Union]] on [[Scadrial\|Scadrial]].
 In 341 [[Catacendre\|PC]], Durnsed was the leader of the trade union during tense negotiations with the [[Noble Houses Collective\|Noble Houses Collective]]. The talks hit an impasse, but Durnsed abruptly withdrew his opposition to closing the negotiations, allowing the existing contract to continue.

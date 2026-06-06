@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|
 
 >“*I am a guide, but I cannot solve a hero's problems for him. It is not the way of the Survivor, who deems that all men must make their own way.*”
 \-Lyndip[1]

@@ -3,6 +3,7 @@
 |**Profession**|Bandit|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Taraco** was a bandit in the [[Roughs\|Roughs]], considered to be one of the greatest bandits of the age.
 [[Waxillium Ladrian\|Waxillium Ladrian]] captured Taraco because he had robbed a cobbler a few days earlier, and Wax hoped to get a new pair of boots out of it. It was commonly thought that Wax went after Taraco because Taraco had shot a lawkeeper in [[Faradana\|Faradana]] the week before. In truth, Wax did not hear of the lawkeeper's death until he had brought Taraco in to face justice.

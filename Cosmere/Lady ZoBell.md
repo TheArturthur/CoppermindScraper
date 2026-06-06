@@ -3,6 +3,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 **Lady ZoBell** is a noble in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

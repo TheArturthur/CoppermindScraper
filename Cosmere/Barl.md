@@ -4,6 +4,7 @@
 |**Residence**|[[Weathering\|Weathering]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
 **Barl** is one of [[Waxillium Ladrian\|Waxillium Ladrian's]] deputy lawkeepers in the [[Roughs\|Roughs]] on [[Scadrial\|Scadrial]].
 Barl, along with several other men and women, including [[Wayne\|Wayne]] and [[Lessie\|Lessie]] help Wax keep the peace in [[Weathering\|Weathering]] and the surrounding areas, most of the time. Despite his profession, he is something of a miscreant.
