@@ -5,6 +5,7 @@
 |**Nationality**|[[Arelene\|Arelene]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Seala** is a young [[Arelene\|Arelene]] woman from [[Sel\|Sel]] and the former wife of [[Dilaf\|Dilaf]].
 

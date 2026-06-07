@@ -8,6 +8,7 @@
 |**Nationality**|[[Teo\|Teo]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Teorn** is the Crown Prince of [[Teod\|Teod]], and the heir to the Teo throne.
 He is the brother of [[Sarene\|Sarene]] and has multiple children.

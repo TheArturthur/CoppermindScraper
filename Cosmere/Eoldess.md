@@ -5,6 +5,7 @@
 |**Nationality**|[[Arelene\|Arelene]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Eoldess** is the late wife of Duke [[Roial\|Roial]] of [[Arelon\|Arelon]] on [[Sel\|Sel]].
 She died ten years before the [[Reod\|Reod]].

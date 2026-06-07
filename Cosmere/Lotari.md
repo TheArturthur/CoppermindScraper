@@ -3,6 +3,7 @@
 |**Residence**|[[Diggen's Point\|Diggen's Point]]|
 |**Homeworld**|[[Lumar\|Lumar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|
 
 **Lotari** is a resident of [[Diggen's Point\|Diggen's Point]] on [[Lumar\|Lumar]].
 

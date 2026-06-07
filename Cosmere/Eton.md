@@ -9,6 +9,7 @@
 |**Nationality**|[[Arelene\|Arelene]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 This article discusses material removed from the final book
 
 **Eton**, frequently referred to as the **Mad Prince**, is the son of King [[Iadon\|Iadon]] in [[Arelon\|Arelon]] on [[Sel\|Sel]].

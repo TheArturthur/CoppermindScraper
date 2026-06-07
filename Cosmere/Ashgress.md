@@ -4,6 +4,7 @@
 |**Nationality**|[[Fjordell\|Fjordell]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Ashgress** is the Fjordell ambassador to [[Teod\|Teod]] during the [[Late Era\|Late Era]] on [[Sel\|Sel]].
 

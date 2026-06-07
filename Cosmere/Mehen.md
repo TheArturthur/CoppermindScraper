@@ -4,6 +4,7 @@
 |**Ethnicity**|[[Aonic\|Aonic]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Mehen** is a philosopher on [[Sel\|Sel]]. The name, derived from the [[/wiki/Aon#Ehe]], had been one they chose upon reaching maturity as a creator, and to distance themselves from their older works.
 

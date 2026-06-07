@@ -6,6 +6,7 @@
 |**Nationality**|[[Teo\|Teo]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 Count **Graeo** is a young member of the [[Teo\|Teo]] court on [[Sel\|Sel]]. He is a former fiancé of [[Sarene\|Sarene]].
 

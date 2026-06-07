@@ -26,7 +26,7 @@ With most metals, the effects are quite small. [[/wiki/Bronze#Allomantic Use]], 
 If someone were able to burn the amount of [[Lerasium\|lerasium]] needed to become a savant with the metal, they would Ascend and become the Vessel of Preservation, similar to what happens when one consumes the mists. This is due to the nature of the metal as the condensed power of Preservation.
 
 ## Feruchemical savant
-Since Feruchemy doesn't draw from an external power, it is very difficult to become a savant. If the Feruchemist is able to [[Compound\|Compound]] and draw power from an outside source they could become one.
+Since Feruchemy doesn't draw from an external power, it is very difficult to become a savant. If the Feruchemist is able to [[Compound\|Compound]] and draw power from an outside source they could become one. An effect of being a Feuchemical savant is the ability to use Ferumchemy without a metalmind. 
 
 ## Surgebinding savant
 Every [[Surge\|Surge]] can cause a [[Surgebinding\|Surgebinder]] to become a savant.

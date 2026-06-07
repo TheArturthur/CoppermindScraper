@@ -6,6 +6,7 @@
 |**Nationality**|[[Fjordell\|Fjordell]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 'Wulfden' redirects here. For the first Wyrn named Wulfden, see [[Wulfden the First\|Wulfden the First]].
 **[[Wyrn (title)\|Wyrn]] Wulfden the Fourth**, sometimes referred to as "Wulfden" or simply "Wyrn", is the political and religious leader of the [[Fjordell Empire\|Fjordell Empire]] and the [[Shu-Dereth\|Shu-Dereth]] religion on [[Sel\|Sel]].
