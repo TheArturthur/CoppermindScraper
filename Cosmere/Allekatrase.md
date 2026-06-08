@@ -4,6 +4,7 @@
 |**Descendants**|[[House Smedry\|House Smedry]]|
 |**Nationality**|[[Incarnan\|Incarnan]]|
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]]*|
 
 **Allekatrase** the Lens-wielder, **Alcatraz Smedry** the First, was an [[Oculator\|Oculator]] and the first [[Smedry Talent\|Talented]] human. He had the *Dark Talent* for breaking things.
 He eventually broke the language of [[Incarna\|Incarna]], sealing away the knowledge of Talents. He was entombed in a sphere of broken time. The [[Library of Alexandria\|Library of Alexandria]] was re-located around the tomb. He was also the owner of a pair of Truthfinder's Lenses.

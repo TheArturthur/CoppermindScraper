@@ -7,6 +7,7 @@
 |**Titles**|Queen of [[Mokia\|Mokia]]|
 |**Nationality**|[[Nalhallan\|Nalhallan]]|
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]]*|
 
 **Angola Dartmoor** is the queen of [[Mokia\|Mokia]]. When the [[Knights of Crystallia\|Knights of Crystallia]] evacuated her husband King [[Talakimallo\|Talakimallo]] and daughter Princess [[Kamali\|Kamali]], she was left to lead the defense..
 
