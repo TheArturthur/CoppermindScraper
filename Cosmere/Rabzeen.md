@@ -5,12 +5,11 @@
 |**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-"Hero of Ages" redirects here. For the [[Mistborn (series)\|Mistborn (series)]] novel, see [[The Hero of Ages\|The Hero of Ages]].
 >“*The Hero will have the power to save the world. But he will also have the power to destroy it.*”
 \-[1]
 
 
-The **Terris Prophecies** were a set of legends which foretells that the Hero of Ages will save the world. [[Preservation\|Preservation]] created them with incredible foresight as part of his ultimate plan to defeat [[Ruin\|Ruin]].
+The **Terris Prophecies** were a set of legends which foretells that the [[Hero of Ages\|Hero of Ages]] will save the world. [[Preservation\|Preservation]] created them with incredible foresight as part of his ultimate plan to defeat [[Ruin\|Ruin]].
 
 ## Contents
 
