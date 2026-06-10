@@ -151,7 +151,7 @@ His position would later be taken up by [[Kaladin Stormblessed\|Kaladin Stormble
 ### The Heralds
 #### Nale
 >“* He will help. Nale is one of the most honorable men I’ve ever known.*”
-\- Jezrien on Nale[47]
+\- Jezrien on Nale[48]
 
 
 Jezrien and Nale spent centuries on the opposite side of the war on Alaswha. Jezrien was the man who offered to help bring Nale, Makibak, and their people off of Ashyn and to Roshar following the scouring, despite their centuries of conflict. He came to see Nale as an honorable man, considering him the most honorable man he had ever known, and considered the chance to oppose him to be a privilege. Nale respected Jezrien in return, though this respect would decay in the millennia following the Last Desolation, as the king's sanity began to degrade.

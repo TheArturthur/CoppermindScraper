@@ -231,7 +231,7 @@ Sazed married him to Vin just before the fight for Luthadel.
 Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by  Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
 
 ### Hoid
-He appears to have known Hoid to some extent before his Ascension, or at least Hoid knew him.
+Sazed appears to have known Hoid to some extent before his Ascension, or at least Hoid knew him.
 Following his Ascension, he became more aware of Hoid, and knew that he hid from him. He has a benevolent feeling towards the man, and his confused by why, and how, he hides from him, and asks that he come openly. He respects him enough that he actively tried to help him upon request, reaching out to other Shards, and requesting all that would listen to heed his warnings. He also felt comfortable enough with him to open up about his own impotence, as a result of his conflicted natures.
 He refers to Hoid as his friend.
 
@@ -240,12 +240,14 @@ He refers to Hoid as his friend.
 \-Harmony to Wax[38]
 
 
-He has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.
+Sazed has a fragile relationship with Wax, with Wax being a former worshipper of him, that came to despise him and renounce his faith, and lose respect for Harmony, due to Harmony's own actions and manipulations. He also came to hate Harmony for his inaction, and the suffering his inaction has brought about on Scadrial. Even after his hatred for him waned, his desire to have nothing to do with him grew stronger.
 Despite Wax's anger, Harmony continued to love him, and felt terrible for the pain that he caused him, and how his actions led him to feeling as if his life wasn't his own. He also wanted to avoid calling upon Wax again to help fight off Trell; knowing that he was happy, he didn't want to pull him back into the fold. But the fear in what destruction and domination they would bring to Scadrial, he was led to requesting his help again. He also respected his wishes to never again speak into his mind, using Marsh as a medium of communication.
 He no longer will use Wax as his sword, promising that stopping the bombing of Elendel and arrival of Autonomy was his final request.
 
 ### Marsh
-He uses Marsh as his agent in the cosmere, using him for various tasks across Scadrial. Marsh obeys his commands, and appears to hold a deep respect for him.
+Sazed and Marsh shared a friendship while a part of Kelsier's crew. While traveling to the Conventicle of Seran following the Lord Ruler's death, Sazed notes how Marsh's attitude has changed after he became an Inquisitor, suggesting the two were close. 
+When returning to Kredik Shaw at the urging of the mist spirit, Sazed encounters Marsh. Marsh, under the control of Ruin, says that he must kill Sazed who fights back using his Feruchemy. The two seem regretful during the confrontation, yet they both make attempts to kill the other. The fight leaves Marsh with one spike hammered deeper into his skull.
+Following his Ascension, Sazed uses Marsh as his agent in the cosmere, using him for various tasks across Scadrial. Marsh obeys his commands, and appears to hold a deep respect for him.
 
 
 ## Trivia

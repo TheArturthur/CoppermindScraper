@@ -11,7 +11,7 @@
 \-Dalinar[1]
 
 
-**Shardplate** is an ancient and magical type of full-body armor found on [[Roshar\|Roshar]]. Shardplates used by Radiants are [[/wiki/Spren#Lesser Spren]] who have taken a physical form, and as such are [[Splinter\|Splinters]] of [[Shard\|Shards]] [[Honor\|Honor]] and [[Cultivation\|Cultivation]]. They are usually used with [[Shardblade\|Shardblades]], Invested swords that also exist on Roshar, as Shardblades are so large that they are unwieldy on their own. Those who are bound to a Shardplate are referred to as Shardbearers, and those who also have a Shardblade are referred to as Full Shardbearers.
+**Shardplate** is an ancient and magical type of full-body armor found on [[Roshar\|Roshar]]. Shardplates used by Radiants are [[/wiki/Spren#Lesser Spren]] who have taken a physical form, and as such are [[Splinter\|Splinters]] of the [[Shard\|Shards]] [[Honor\|Honor]] and [[Cultivation\|Cultivation]]. They are usually used with [[Shardblade\|Shardblades]], Invested swords that also exist on Roshar, as Shardblades are so large that they are unwieldy on their own. Those who are bound to a Shardplate are referred to as Shardbearers, and those who also have a Shardblade are referred to as Full Shardbearers.
 
 ## Contents
 

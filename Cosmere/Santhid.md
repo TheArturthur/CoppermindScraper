@@ -54,7 +54,7 @@ During the [[Expedition to Akinah\|expedition to Akinah]], the crew of the *[[Wa
 
 
 [[Thaylen\|Thaylen]] sailors consider santhidyn to be very good luck and a good omen, whether alive or when washed on the shore, and respect those they do encounter as if they were sacred. Killing a santhid is considered to be a monstrous act and rumored to attract extremely bad luck, and even the thought of hunting one is enough to make most uncomfortable. They often tell stories about santhid sightings and behavior. Scholars such as Shallan and [[Jasnah\|Jasnah]] are aware of the reverence that sailors hold for santhidyn.
-Santhid shells are sometimes displayed in coastal cities such as [[Amydlatn\|Amydlatn]]  or at the naval academy of Thaylen City. [[Mraize\|Mraize]] also appears to have a part of a santhid skull in his "trophy room".
+Santhid shells are sometimes displayed in coastal cities such as [[Amydlatn\|Amydlatn]] or at the naval academy of Thaylen City. [[Mraize\|Mraize]] also appears to have a part of a santhid skull in his "trophy room".
 Santhids are believed to magnify peace and confidence, and some people consider them to be more spren than animal.
 
 ## Trivia
