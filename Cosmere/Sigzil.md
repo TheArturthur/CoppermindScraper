@@ -78,6 +78,7 @@
 3. [[#Arrival at Beacon]] 
 3. [[#Rebellion against the Cinder King]] 
 3. [[#Scadrian Research Facility]] 
+3. [[#Saving the Beaconites]] 
 
 
 3. [[#UTol]] 
@@ -247,7 +248,6 @@ When Nomad awoke, he found himself manacled to a wall on the outside of a ship. 
 #### Arrival at Beacon
 On Beacon, Hoid appeared to Nomad and apologized for what he did to him.
 
-
 #### Rebellion against the Cinder King
 Eventually, Nomad began to lead a rebellion with the Beaconites in order to overthrow the Cinder King.
 
@@ -257,7 +257,12 @@ Eventually, Nomad began to lead a rebellion with the Beaconites in order to over
 
 Zellion used the Refugee and Lost Expatriate Bill of the [[Silverlight Codes of Interplanetary Conduct\|Silverlight Codes of Interplanetary Conduct]], requesting asylum in order to force the Scadrians to take him into their facility as a refugee. They agreed to allow him to enter and negotiate, under the condition that he only bring three people. He agreed to their terms and entered with Confidence, Contemplation, and Rebeke.
 Upon entering, he quickly noticed that the Scadrians were of the [[TimeTellers\|TimeTellers]] faction. The TimeTellers began to question if he had a Blade and what his role was in interstellar politics, of which he denied any involvement in, and questioned how he made it to Canticle, to which he lied and claimed he came through Shadesmar. He quickly learned that they were providing the Cinder King with technology and knowledge in exchange for sunhearts, to which he responded with great fury. He attempted to tell them that he was a tyrant, to which they responded that they cared not, angering him further, though he didn't speak his objections.
-Confidence, Contemplation, and Rebeke lost all hope of salvation at their rejection of their pleas, and left the facility, kindly telling Zellion to stay with his own kind. Exhausted, Nomad settled at a wall and began to rest.
+Confidence, Contemplation, and Rebeke lost all hope of salvation at their rejection of their pleas, and left the facility, kindly telling Zellion to stay with his own kind. Exhausted, Nomad settled at a wall and began to rest. Awakening after the Beaconites leave, he watched with the Scadrians as they made their last stand before surrendering to the Cinder King. Rage and self-hatred boiled in his mind as he watched the Cinder King's forces round up the Beaconites, berating himself for being the man who runs away. In his emotions, he muttered his Radiant Oaths once again but to no avail. He surmised that the previous breaking of his Oaths have restricted his access to making them again. He curled up into a ball and began to cry before realizing the silence within the room. Standing up again, he witnessed as the Charred that had attacked the Beaconites were retreating with their sunhearts, leaving Beacon and its people to burn in the sun.
+In a moment of carelessness, his discussion with Auxillary is noticed by a female Scadrian who presses him on the issue. Zellion deflected the comment and asked what they were working on in response. The Scadrian scientist revealed that they had found a way to recharge the sunhearts, showing off an overcharged one they were experimenting on. Zellion thought back on his musing about the unique current of the world and realized how: a person can give a sliver of their heat into the sunheart before leaving it out in the sun. The subsequent resistance by the portion of that person's soul causes the sunheart to swell with Investiture, much like an incandecent bulb. A similar process could be done using special Investiture too, which allowed for the creation of the Charred's sunhearts.
+Zellion asked the researcher why they had not revealed this information to the people of Canticle but the researcher responded that they did not wish to give away such useful information. Consumed by his desire to help the Beaconites, fragments of dead spren began to manifest around him. This quickled revealed his deception, but Zellion managed to grab the overcharged sunheart before being Pushed by the Scadrians. The Scadrians quickly realized that he was the man who was wanted by the Night Brigade but before they could go further, Auxillary was manifested into a Shardblade. Using the sword, Zellion threatened the Scadrians into freeing him before he began running towards the Beaconites with less than five minutes until sunrise.
+
+#### Saving the Beaconites
+As he ran, Auxillary notified him that he would not be able to reach the Beaconites before dawn by only running. The timeframe had left only one option, flight. Auxillary told Zellion that he would burn himself to fuel this flight, for he was a Knights Radiant as well and his oaths were never broken. Zellion felt the warmth of his companion's soul swell around him as Auxillary ceased to be, leaving only the dead Shardblade behind. Shardplate formed around Zellion as he flew with the sunrise, flames billowing from behind him in the shape of Bridge Four's symbol.
 
 ### UTol
 Following his overthrow of the Cinder King, Zellion Skipped to another planet, finding himself on the planet [[UTol\|UTol]].
