@@ -4,6 +4,7 @@
 |**Profession**|Professor|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 **Andrew Nalizar** is a professor of [[Rithmatics\|Rithmatics]] at [[Armedius Academy\|Armedius Academy]].
 

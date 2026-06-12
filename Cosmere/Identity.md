@@ -62,6 +62,7 @@ Most healing in the cosmere works by using the three versions of the user's self
 
 ### Other
 When the [[Dor\|Dor]] is blanked of Identity and Connection, it becomes unkeyed, and can be used as an extremely powerful energy source for just about any [[Invested Art\|Invested Art]].
+The Ghostbloods make use of an "Identity lock" on their safehouse in Bilming. 
 
 ## Trivia
 Blanking Identity and tapping Connection can cause someone to gain an accent for a particular area.

@@ -4,6 +4,7 @@
 |**Descendants**|[[Alcatraz Smedry\|Alcatraz]]|
 |**Abilities**|[[Smedry Talent\|Smedry Talent]]|
 |**Homeworld**|[[Earth (Alcatraz)\|Earth (Alcatraz)]]|
+|**Introduced In**|*[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]]*|
 
 >“*She single-handedly ended the drought in Kalbeeze during the fourth-third century - and did so while keeping all their dishes sparking clean!*”
 \-Sing Sing Smedry commenting on Libby's Talent[1]
