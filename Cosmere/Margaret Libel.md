@@ -4,6 +4,7 @@
 |**Spouse**|[[Leland Libel\|Leland]]|
 |**Children**|[[Herman Libel\|Herman]]|
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 **Margaret Libel** is the mother of [[Herman Libel\|Herman Libel]].
 

@@ -90,7 +90,7 @@ When someone in the cosmere dies, their body remains in the Physical Realm and a
 Time travel to the past, in any of the Realms, is impossible.
 
 #### The Physical Realm
-In the [[Physical Realm\|Physical Realm]], the cosmere is a large star cluster with an as of yet unknown number of planets, known to be somewhere in the hundreds. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. Currently, there are sixteen known planetary systems in the cosmere, which contain a total of nineteen notable planets. The cosmere is also home to other celestial objects, including several dwarf planets, gas giants, and constellations. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
+In the [[Physical Realm\|Physical Realm]], the cosmere is a  of about 50 to 100 stars. The Physical Realm is composed of fundamental particles known as [[Axi\|axi]] and follows ordinary laws of physics, except when the other Realms are involved. At least one person has tried to leave the physical bounds of the cosmere, with unknown results.
 
 #### The Cognitive Realm
   A map of <<Shadesmar\|Shadesmar>>, the region of the Cognitive Realm around <<Roshar\|Roshar>>. Regions labelled "Expanse" lead to other planets in the cosmere.
@@ -258,7 +258,7 @@ In total, the number of people traveling between planets probably numbers somewh
 ### Hoid
   <<Hoid\|Hoid>> with <<Frost\|Frost>>
 >“*For I have never been dedicated to a more important purpose, and the very pillars of the sky will shake with the results of our war here. I ask again. Support me. Do not stand aside and let disaster consume more lives.*”
-\-Hoid on his opposition to Odium[208]
+\-Hoid on his opposition to Odium[209]
 
 
 Hoid is a mysterious worldhopper who has been alive since before the Shattering of Adonalsium and was present for that event. He has collected a variety of Invested items from around the cosmere and gained access to multiple Invested Arts. His long-term goals are unclear, but he is an adamant opponent of Odium's attempts to become the sole god of the cosmere. He has written to [[Frost\|Frost]], [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]], hoping to enlist their help in dealing with Odium, though only Harmony has responded positively. He has some ability to manipulate [[Fortune\|Fortune]], which lets him learn where and when he needs to be to advance his goals, though he often doesn't know why being somewhere is important.
@@ -266,7 +266,7 @@ Hoid is a mysterious worldhopper who has been alive since before the Shattering 
 ### Worldhopping Groups
 #### The Seventeenth Shard
 >“*However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem.*”
-\-Frost to Hoid on his non-intervention policy[214]
+\-Frost to Hoid on his non-intervention policy[215]
 
 
 The [[Seventeenth Shard\|Seventeenth Shard]] is a group of worldhoppers that seeks to research and study the various worlds of the cosmere without interfering in existing cultures. They believe the Shards separated for a reason and want to minimize the risk of conflict between the Shards. Frost may have some influence over them, either formally or informally. They are worried about Hoid, as they fear his actions on planets will exacerbate Shardic conflict and, from at least 1173 to 1175 on the [[/wiki/Roshar#Calendar]], unsuccessfully tried to hunt him down, though they have larger objectives as well.
@@ -292,7 +292,7 @@ Most, if not all, of the [[Five Scholars\|Five Scholars]] of Nalthis were worldh
 ## History
 ### Before the Shattering
 >“*It was a distant place where two lands meet and gods have died.*”
-\-Hoid on pre-Shattering Yolen.[246]
+\-Hoid on pre-Shattering Yolen.[247]
 
 
 At some point, the [[Dawnshard\|Dawnshards]] were used to create the cosmere.
@@ -313,13 +313,13 @@ After the Shattering, the new Vessels made some sort of agreement to not interfe
 
 ### Odium's Quest
 >“*One need only look at the aftermath of his brief visit to Sel to see proof of what I say. In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse.*”
-\-Hoid on Odium in his letter to Frost[277][271]
+\-Hoid on Odium in his letter to Frost[278][272]
 
 
 Soon after the Shattering, or possibly even beforehand, the Vessel of Odium, Rayse, decided he wanted to become the strongest being in the cosmere. However, Odium is, by its nature, selfish and Rayse did not want the Intent of an additional Shard to make him into something else, so he instead decided to destroy the other Shards so that there would be no one left to challenge him. To do so, he developed a way to [[Splinter\|Splinter]] a Shard's power, which also results in the death of its Vessel.
 
 >“*He bears the weight of God's own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become.*”
-\-Frost on Odium in his reply to Hoid[281]
+\-Frost on Odium in his reply to Hoid[282]
 
 Odium's first target was [[Ambition\|Ambition]], as he feared that it would be a threat to him. However, while searching for Ambition, he encountered the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] and attacked them, likely because he could argue they had violated the Vessel's pact to not interfere with each other. In the ensuing battle, Odium successfully splintered Devotion and Dominion and killed their Vessels, Aona and Skai. In order to ensure that no one could take up their Shards, he then somehow moved most of their Investiture from the Spiritual Realm into the Cognitive Realm, which made the [[Expanse of the Densities\|Selish Cognitive Realm]] incredibly dangerous and the Selish Invested Arts location-dependent.
 Sometime after he Splintered Devotion and Dominion, Odium finally found Ambition, who had settled in the [[Threnodite system\|Threnodite system]]. Odium attacked and mortally wounded Ambition, though the Shard fled and was ultimately Splintered elsewhere, in a battle with Odium and [[Mercy\|Mercy]]. These clashes resulted in a wound in the Spiritual Realm and left ripped-off chunks of Ambition's power in the Threnodite system, which twisted the people and planet of [[Threnody\|Threnody]].
@@ -357,13 +357,13 @@ This greater communication led to growing conflicts between planets, and the bir
 
 ## Development
 >“*During my unpublished days I wrote thirteen books, only one of which was a sequel. ... But I wanted to be writing big epics. This is what I always wanted to do; something like the Wheel of Time. So I began plotting a large, massive series where all these books were connected, so I could kind of "stealth" have a large series without the editors knowing I was sending them books from the same series. It was mostly just a thing for me, to help me do the writing I wanted to be doing. And then when publication came I continued to do that, and told the story behind the story.*”
-\-Brandon on the beginnings of the cosmere[345]
+\-Brandon on the beginnings of the cosmere[346]
 
 When Brandon was beginning to write and trying to get published, he loved gigantic epic fantasy series. He knew, however, that starting with a big series might not be the best idea. If he wrote four books in a series, and the first one didn't get published, he couldn't submit his sequels, so he decided instead to focus on standalone stories. However, he still loved the idea of a huge epic series, so he decided to create a "hidden" epic to link his novels together. Brandon had seen other authors who made a single universe for all their books, like Isaac Asimov, but didn't like how Asimov had to retcon and shoehorn things together to connect his books, and so wanted to build the cosmere from the beginning, so it would always be consistent.
 Some ideas that came into the worldbuilding of the cosmere came from Plato's theory of forms, which contributed to the development of [[Realmatic Theory\|Realmatic Theory]]. In this, the distinction of what is perceived as "ideal" and what is the true ideal is important: true ideals have much to do with the Spiritual Realm, while people's perception of ideals deals with the Cognitive Realm. Another influence is Spinoza, with the idea that God is in everything. Brandon also incorporated the idea of a "unifying theory of everything" from physics into the magic in the cosmere. All magics have underlying rules, and are derived from a single unified theory of magic.
 
 >“*I hope that people will stick with me for all these books, because I'll do a lot of them. But they will fit together in some really cool ways once they are all done. I think you'll be very very impressed, but that's a while off.*”
-\-Brandon on the cosmere[349]
+\-Brandon on the cosmere[350]
 
 The cosmere sequence has a clear story that Brandon wants to tell and is fairly firmly outlined as 35 novels, plus a variety of novellas and other works, with the [[Dragonsteel (series)\|Dragonsteel series]], [[Mistborn (series)\|Mistborn series]], and [[The Stormlight Archive\|The Stormlight Archive]] forming the core of that story. *Dragonsteel* will tell [[Hoid\|Hoid's]] backstory and the story of the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; *Mistborn* will have four series, following [[Scadrial\|Scadrial]] from the [[Final Empire\|Final Empire]] to the development of faster-than-light travel and the interaction between the various planets; The Stormlight Archive will be split into two arcs of five books each and is the story of the clash between the people of [[Roshar\|Roshar]] and [[Odium\|Odium]]. Generally, knowledge of the cosmere as a whole will not be necessary until *Dragonsteel* and the final *Mistborn* trilogy, which are the beginning and the conclusion respectively of the cosmere sequence
 Brandon does not feel that the cosmere is restrictive to his writing. Though cosmere novels are intensive, as they require more thorough planning and continuity maintenance, Brandon also has an internal wiki and people like [[Peter Ahlstrom\|Peter]] and Karen Ahlstrom who help him keep the cosmere on track. When Brandon feels like he needs a break from the more stringent requirements of the cosmere, he'll turn to work on a less intensive novel or novella, which are almost always non-cosmere. If there is a concept he really wants to write but doesn't fit in the limitations of the cosmere, he moves it into a non-cosmere book. For example, *[[The Rithmatist\|The Rithmatist]]* started as a cosmere novel, and its magic takes many elements from cosmere magic, but Brandon decided that he did not want a version of Earth in the cosmere, and so moved it to its own universe.

@@ -7,6 +7,7 @@
 |**Profession**|Chalkmaker|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 **Trent Saxon** was a chalkmaker employed by the [[Rithmatics\|Rithmatics]] department of [[Armedius Academy\|Armedius Academy]].
 He is described as being "big and burly".

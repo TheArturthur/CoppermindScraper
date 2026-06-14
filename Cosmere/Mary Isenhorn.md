@@ -3,6 +3,7 @@
 |**Profession**|Student|
 |**Residence**|[[Armedius Academy\|Armedius Academy]]|
 |**Homeworld**|[[Earth (Rithmatist)\|Earth (Rithmatist)]]|
+|**Introduced In**|*[[The Rithmatist\|The Rithmatist]]*|
 
 **Mary Isenhorn** is a student of [[Armedius Academy\|Armedius Academy]]. Her father is the owner of a major [[Springwork\|springworks]].
 At one point, [[Michael\|Michael]] flirts with Mary.
