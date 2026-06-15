@@ -1,5 +1,6 @@
 |**Daora**|
 |-|-|
+||
 |**[[Aonic Royal Families\|Aonic Royal Families]]**|
 |**Spouse**|[[Kiin\|Kiin]]|
 |**Children**|[[Lukel\|Lukel]], [[Adien\|Adien]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|

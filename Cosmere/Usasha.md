@@ -7,6 +7,7 @@
 |**Nationality**|[[Nagadan\|Nagadan]]|
 |**Homeworld**|[[Komashi\|Komashi]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|
 
 **Usasha** is a [[Nightmare\|nightmare]] [[Painter\|painter]] who participates in the [[Battle of Kilahito\|battle of Kilahito]], of which she is the sole casualty. Preferring to remain anonymous, [[Nikaro\|Nikaro]] has his friends credit Usasha as the one who mobilized the painters to defend [[Kilahito\|Kilahito]] so that the city would give her the honors.
 

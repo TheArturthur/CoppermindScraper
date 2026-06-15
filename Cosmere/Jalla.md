@@ -1,5 +1,6 @@
 |**Jalla**|
 |-|-|
+||
 |**[[Teo Royal Family\|Teo Royal Family]]**|
 |**Spouse**|[[Lukel\|Lukel]]|
 |**Nationality**|[[Svordish\|Svordish]]|

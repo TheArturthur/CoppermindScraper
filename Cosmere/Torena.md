@@ -1,5 +1,6 @@
 |**Torena**|
 |-|-|
+||
 |**Parents**|[[Ahan\|Ahan]], [[Seaden\|Seaden]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
