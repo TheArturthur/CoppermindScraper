@@ -13,7 +13,7 @@ For the island located on [[First of the Sun\|First of the Sun]], see [[Patji (i
 \-Patji[1]
 
 
-**Patji** is an avatar of [[Autonomy\|Autonomy]] located on the planet [[First of the Sun\|First of the Sun]] in the [[Drominad system\|Drominad system]]. They typically speak with a masculine voice. As an avatar of Autonomy, Patji is strongly aligned with its intent, and believes that people must prove themselves. [[Navigator\|Navigation]] is mentioned to be of Patji, and they can speak to Navigators.
+**Patji** is an avatar of [[Autonomy\|Autonomy]] located on the planet [[First of the Sun\|First of the Sun]] in the [[Drominad system\|Drominad system]]. They typically speak with a masculine voice. As an avatar of Autonomy, Patji is strongly aligned with its [[Intent\|Intent]], and believes that people must prove themselves. [[Navigator\|Navigation]] is mentioned to be of Patji, and they can speak to Navigators.
 
 ## History
 At some point Patji was a being of its own, with unknown amounts and origins of [[Investiture\|Investiture]], somehow related to the [[Shard\|Shard]] Autonomy. Autonomy was not always aware of Patji's existence, but at some point sensed it and was consciously and directly involved in shaping it into an avatar. The relationship between a Shard and avatars is poorly understood, but Patji remains strongly connected to Autonomy.
