@@ -133,7 +133,7 @@ Prophecy fragments and non-verbatim quotations.
 Indirect or uncertain references to the prophecy.
 
 >“*I think I've finally discovered why Rashek resents me so very much. He does not believe that an outsider such as myself - a foreigner - could possibly be the Hero of Ages. He believes that I have somehow tricked the philosophers, that I wear the piercings of the Hero unjustly.*”
-\-A quote from Alendi's logbook.[38] This implies that the prophecy mentions the Hero wearing piercings.
+\-A quote from Alendi's logbook.[38] This implies that the prophecy mentions the Hero wearing piercings.[39]
 
 
 

@@ -7,6 +7,7 @@
 |**Nationality**|[[Khlenni\|Khlenni]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
 **Alendi** is a [[Bronze\|Bronze]] [[Misting\|Misting]] (aka a [[/wiki/Bronze#Allomantic Use]]), the last ruler of [[Khlennium\|Khlennium]] on [[Scadrial\|Scadrial]], and author of [[Alendi's journal\|Alendi's journal]].
 
