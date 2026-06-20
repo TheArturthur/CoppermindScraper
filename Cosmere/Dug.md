@@ -4,6 +4,7 @@
 |**Residence**|[[Tinweight Settlement\|Tinweight Settlement]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Lost Metal\|The Lost Metal]]*|
 
 >“*Dug knows stuff.*”
 \-Wayne[1]

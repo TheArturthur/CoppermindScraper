@@ -4,6 +4,7 @@
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*Mistborn: The Final Empire*|
 
 Lord **Devinshae** is a [[Noble\|nobleman]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. He has a plantation somewhere outside of [[Luthadel\|Luthadel]], and [[Dockson\|Dockson]] and [[Kareien\|Kareien]] were among the [[Skaa\|skaa]] that worked there.
 

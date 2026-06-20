@@ -4,6 +4,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Alloy of Law\|Alloy of Law]]*|
 
 **Arintol** is a solicitor in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 

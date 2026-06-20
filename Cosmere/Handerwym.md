@@ -5,6 +5,7 @@
 |**Ethnicity**|[[Terris\|Terris]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|
 
 >“*I suspect Jak was hallucinating through this entire section, a result of the trauma to his head. Upon doing this edit, I wished several times to be similarly afflicted.*”
 \-Handerwym's annotations[1]

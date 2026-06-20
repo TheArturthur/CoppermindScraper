@@ -9,6 +9,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Alloy of Law\|Alloy of Law]]*|
 
 **Hinston Ladrian** is the son of [[Edwarn Ladrian\|Edwarn Ladrian]] and the heir to [[House Ladrian\|House Ladrian]] on [[Scadrial\|Scadrial]]. He is a cousin to [[Waxillium\|Waxillium]] and [[Telsin Ladrian\|Telsin Ladrian]].
 
