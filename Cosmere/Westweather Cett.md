@@ -5,6 +5,7 @@
 |**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Bands of Mourning\|Bands of Mourning]]*|
 
 Lord **Westweather Cett** is the heir to the Cett fortune in [[Elendel\|Elendel]], circa 342 [[Catacendre\|PC]].
 [[Wax\|Wax]] headbutts him at a party and breaks his nose, after Cett demands to duel him.

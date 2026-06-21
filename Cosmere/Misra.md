@@ -3,6 +3,7 @@
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Shadows of Self\|Shadows of Self]]*|
 
 For the Herdazian term, see [[/wiki/Herdaz#Language]].
 **Misra** is a [[Scadrian\|Scadrian]] woman in [[Elendel\|Elendel]]. She is [[Ranette\|Ranette's]] ex-girlfriend.

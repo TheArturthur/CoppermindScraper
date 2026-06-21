@@ -3,6 +3,7 @@
 |**Died**|Killed by Prof, later revived|
 |**Powers**|[[Epic\|Epic]]|
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Firefight\|Firefight]]*|
 
 **Amala** is an [[Epic\|Epic]] and an acquaintance of [[Jonathan Phaedrus\|Jonathan Phaedrus]] and [[Tia\|Tia]]. Her powers and weakness are unknown.
 

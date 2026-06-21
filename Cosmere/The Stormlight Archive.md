@@ -68,6 +68,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**2026**|**|1174|8|Released via MyMiniFactory|
+|**|1174|TBA|Released via Free RPG Day|
 
 |**Hoid's Storybook Collection (Picture Books)**|
 |-|-|
