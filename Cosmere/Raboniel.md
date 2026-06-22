@@ -15,7 +15,7 @@
 \-Lady Leshwi to Venli[2]
 
 
-**Raboniel** was a highly ranked [[Fused\|Fused]] scholar and one of the [[Fannahn-im\|fannahn-im]]. She organized the operation for the Fused occupation of Urithiru, and with the help of [[Navani Kholin\|Navani Kholin]] developed [[Warlight\|Warlight]], as well the method to create [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]].
+**Raboniel** was a highly ranked [[Fused\|Fused]] scholar and one of the [[Fannahn-im\|fannahn-im]]. She organized the operation for the Fused occupation of Urithiru, and with the help of [[Navani Kholin\|Navani Kholin]] developed [[Warlight\|Warlight]], as well as the method to create [[Anti-Stormlight\|anti-Stormlight]] and [[Anti-Voidlight\|anti-Voidlight]].
 
 ## Contents
 

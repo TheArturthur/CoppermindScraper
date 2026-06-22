@@ -107,7 +107,7 @@ Donne is the closest planet to the sun. While it is in a habitable region, it is
 
 ### Sel
 
-The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire). Sel is also notable as, in the [[Cognitive Realm\|Cognitive Realm]], the shattered remnants of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] have mingled to form the [[Dor\|Dor]], which results in Sel having a great variety of , which are primarily form-based.
+The second planet from the sun, Sel is an Earth-like planet inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. The planet was the location of [[Elantris (book)\|Elantris]]. Sel was dominated by the [[Fjordell Empire\|Fjordell Empire]], with [[Arelon\|Arelon]] and [[Teod\|Teod]] being the only remaining free nations. All these nations (except Teod which is located on a continent to the north) were situated on the continent of Opelon (named Sycla by the Fjordell Empire). Sel is also notable as, in the [[Cognitive Realm\|Cognitive Realm]], the shattered remnants of [[Devotion\|Devotion]] and [[Dominion\|Dominion]] have mingled to form the [[Dor\|Dor]], which results in Sel having a great variety of [[Invested Art\|Invested Arts]], which are primarily form-based.
 
 #### Moons
 Sel has a single moon named Oem.
@@ -122,7 +122,7 @@ The planet was created by the Shards [[Ruin\|Ruin]] and [[Preservation\|Preserva
 
 ## The Taldain System
 
-The Taldain system is a binary system. The two stars in it are a weak white dwarf star surrounded by a particulate ring and a blue-white supergiant.
+The Taldain system is a binary system. The two stars in it are a weak white dwarf star, which is surrounded by a particulate ring, and a blue-white supergiant.
 
 ### Taldain
 
@@ -133,8 +133,8 @@ It is orbited by a single moon known as **Nizh Da**.
 **AisDa** is a blue-white supergiant star which lights the Dayside of Taldain.
 
 ### The Eye of Ridos
-The **Eye of Ridos** is a weak white dwarf star surrounded by a particulate ring. It is the primary source of light and radiation for Darkside.
-Every seven days, it sends out a pulse of Investiture which Invests the [[Starcarved\|Starcarved]].
+The **Eye of Ridos** is a weak white dwarf star surrounded by a particulate ring. It is the primary source of light and radiation for [[Darkside\|Darkside]].
+Every seven days, it sends out a pulse of [[Investiture\|Investiture]] which Invests the [[Starcarved\|Starcarved]].
 
 ## The Threnodite System
 
@@ -142,7 +142,7 @@ This planetary system has four planets. The habitable zone has three planets nam
 
 ### Threnody
 
-Threnody, the third planet in the Threnodite system, contains the [[Forests of Hell\|Forests of Hell]]. It is the setting for the story [[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]. It has many features that are similar to Earth, including forests, mountains and oceans. [[Silver\|Silver]] seems to be a fairly common resource on the planet, but because of its importance to survival, it is still finite and valuable. It has no moon.
+Threnody, the third planet in the Threnodite system, contains the [[Forests of Hell\|Forests of Hell]]. It is the setting for the story [[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]. It has many features that are similar to Earth, including forests, mountains and oceans, but also some supernatural elements, such as the dangerous cognitive shadows, called [[Shade\|Shades]], which roam the Forests of Hell. [[Silver\|Silver]] seems to be a fairly common resource on the planet, but because of its importance in fighting Shades, and therefore to survival, it is still finite and valuable. Threnody has no moon.
 
 ## The Drominad System
 
@@ -150,7 +150,7 @@ The Drominad system has seven planets. There are four planets in the habitable z
 
 ### First of the Sun
 
-First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence.
+First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence. It has developed human life, as well a type of [[Aviar\|bird]] that forms a Nahel Bond.
 
 #### Moons
 First of the Sun has a single moon named First of the First.
@@ -163,14 +163,14 @@ Greater Roshar is a planetary system containing thirteen planets. Some have life
 
 Ashyn is the first planet from the system's sun. It has sentient life.
 The book [[The Silence Divine\|The Silence Divine]] is set here. The magic system involves people who gain magical powers from diseases.
-Ashyn is mostly barren, with a few fertile patches.  It currently has no [[Shard\|shard]].
+Ashyn is mostly barren, due to and ancient disaster, with a few fertile patches.  It currently has no [[Shard\|shard]].
 
 ### Roshar
 
-Roshar is the second planet from the Rosharan system's sun. It has a gravity of 0.7, a year 500 days long, with each year being 1.1 earth years. The planet consists of one large super continent.
+Roshar is the second planet from the Rosharan system's sun. It has a gravity of 0.7 Cosmere Standard, and a year 500 days long, with each year being 1.1 earth years. The planet consists of one large super continent.
 
 #### Moons
-Roshar has three moons. The first moon is Salas. It is violet, and is the smallest moon. The middle moon is Nomon, which is a bright, pale blue. And the final moon is Mishim, which is small and green.
+Roshar has three moons. The first moon is Salas. It is violet, and is the smallest moon. The middle moon is Nomon, which is a bright, pale blue, and the final moon is Mishim, which is small and green.
 
 ### Braize
 
@@ -179,7 +179,7 @@ Braize is known to the [[Vorin\|Vorin]] people as [[Damnation\|Damnation]].
 
 ## The Nalthian System
 
-The Nalthian System orbits a yellow star. There are three planets in the system: [[Nalthis\|Nalthis]], the gas giant Farkeeper the Bright, and the dwarf planet Nightstar the Hidden. Much farther from the star, there is a comet belt. There is also a [[Cognitive Realm\|Cognitive]] Anomaly in Nalthis' orbit.
+The Nalthian System orbits a yellow star. There are three planets in the system: [[Nalthis\|Nalthis]], the gas giant Farkeeper the Bright, and the dwarf planet Nightstar the Hidden. Much farther from the star, there is a comet belt. There is also a [[Cognitive anomaly\|Cognitive anomaly]] in Nalthis' orbit.
 
 ### Nalthis
 
@@ -198,7 +198,7 @@ UTol is one of the only two known planets that are known to  be inhabited by [[S
 
 ### Komashi
 
-Komashi is a planet that's inhabited by humans and [[Hijo\|hijo]]. Humanity has inhabited very little of the planet, with the two largest nations being only fifty Rosharan-miles across.
+Komashi is a planet that's inhabited by humans and [[Hijo\|hijo]]. Humanity has inhabited very little of the planet, with the two largest nations being only fifty Rosharan miles across.
 
 ## Other Planets
 ### Bjendal
@@ -207,7 +207,7 @@ Little is known of Bjendal, and nothing is known of its peoples, or any [[Shard\
 
 ### Canticle
 
-Canticle is a very small planet, estimated at only 322km in diameter, but with gravity within the ranges that would be expected for larger planets, caused by its highly Invested iron core. The surface is blasted every day by intense sunlight capable of melting the land.
+Canticle is a very small planet, estimated at only 322km in diameter, but with gravity within the ranges that would be expected for larger planets, caused by its highly Invested core. The surface is blasted every day by intense sunlight capable of melting the land.
 
 ### Grand Apparatus
 
@@ -219,7 +219,7 @@ Lumar is a planet of islands with twelve moons hanging in equidistant, geostatio
 
 ### Mythos
 
-Nothing is known of Mythos, its peoples, or any [[Shard\|Shards]] that may be located there.
+Nothing is known of Mythos, its peoples, or any [[Shard\|Shards]] that may be located there, only that it exists.
 
 ### Obrodai
 
@@ -231,7 +231,7 @@ Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be locat
 
 ### Yolen
 
-Yolen is home to three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
+Yolen is the original home to three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
 
 ## Stars and Constellations
 ### Starbelt

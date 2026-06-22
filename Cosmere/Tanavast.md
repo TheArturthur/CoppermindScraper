@@ -64,10 +64,10 @@ Nothing is known of how Tanavast really looked back when he was still a mortal, 
 
 ### Personality
 #### Mortal
-Little is known about Tanavast as a person, before he became a Vessel, but the people who met him have an excellent opinion of him. He seems to be the only original Vessel with whom [[Hoid\|Hoid]] has a good relationship, and is, aside from [[Ati\|Ati]], the only one Hoid ever praises, calling him a decent person.
+Little is known about Tanavast as a person before he became a Vessel, but the people who met him have an excellent opinion of him. He seems to be the only original Vessel with whom [[Hoid\|Hoid]] has a good relationship, and is, aside from [[Ati\|Ati]], the only one Hoid ever praises, calling him a decent person.
 Tanavast was fond of dogs, and this love would continue even after his Ascension.
 He was not prejudiced against [[Dragon (cosmere)\|dragons]], taking [[Koravellium Avast\|Koravellium Avast]], a dragon, as his lover following his Ascension.
-He believed that Adonalsium needed to be Shattered for its own good, this belief was strong enough he would eventually join in the conspiracy to Shatter it. In time, Tanavast came to see his, and the other Vessel's, decision to Shatter Adonalsium as a terrible one. His personality was not well aligned with the Shard of Honor, which he would come to take up.
+He believed that Adonalsium needed to be Shattered for its own good, this belief was strong enough he would eventually join in the conspiracy to Shatter it. In time, Tanavast came to see his, and the other Vessels', decision to Shatter Adonalsium as a terrible one. His personality was not well aligned with the Shard of Honor, which he would come to take up.
 
 #### Vessel
 After becoming a Vessel, his personality was strongly in opposition to the Intent of his Shard, though, over time, his personality was warped to come more in alignment with the Intent of Honor, he became more fixated upon honor, oaths, and allegiance. Though it also led him to care less about the meaning of the oaths, but rather simply upon the oath itself. However, he would continue to fight against it even as it warped him, and this would eventually lead to the Shard abandoning him.

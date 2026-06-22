@@ -131,7 +131,7 @@ Marsh is also uncomfortable with Kelsier's eagerness to kill the nobility and th
 Marsh is aware that Kelsier became a [[Cognitive Shadow\|Cognitive Shadow]] after death. He believes that Kelsier's legacy is helping the common people.
 
 ### Vin
-Marsh originally pointed out [[Vin\|Vin]] to Kelsier and suggested that she was a Mistborn, leading to Kelsier recruiting her for the crew. Marsh noticed her instinctive use of Allomancy.
+Marsh originally pointed out [[Vin\|Vin]] to Kelsier (via Dockson) and suggested that she was a Mistborn, leading to Kelsier recruiting her for the crew. Marsh noticed her instinctive use of Allomancy.
 Marsh later taught Vin about [[Bronze\|bronze]] Allomancy.
 
 ### Mare

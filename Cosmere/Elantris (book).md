@@ -118,6 +118,7 @@ Romanian rights to
 Hebrew rights to Silver Stars
 UK rights to Gollancz
 Bulgarian rights to Studio of A 
+Brazilian rights for LeYa in 2012
 
 A tenth anniversary trade paperback edition was published by Tor Books in October 2015 (ISBN 9781429914550). It includes new maps and illustrations, a preface by [[Dan Wells\|Dan Wells]], a new afterword by Brandon, and an updated [[Ars Arcanum\|Ars Arcanum]]. [[Dragonsteel Entertainment\|Dragonsteel]] subsequently published a leatherbound edition in November 2015 (ISBN 9780765388070), with additional artwork and full-color endpapers.
 
