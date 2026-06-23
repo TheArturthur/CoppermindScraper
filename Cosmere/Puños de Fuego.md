@@ -4,6 +4,7 @@
 |**Abilities**|[[Epic\|Epic]]|
 |**Residence**||
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[The Reckoners\|The Reckoners]]*|
 
 For a different Epic used in a squad against Larcener, see [[Fuego\|Fuego]].
 **Puños de Fuego** (Spanish for **Fists of Fire**) is an [[Epic\|Epic]] based in Hermosillo, Mexico.

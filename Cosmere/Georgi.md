@@ -4,6 +4,7 @@
 |**Abilities**|[[Epic\|Epic]]|
 |**Aliases**|Georgi|
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[The Reckoners\|The Reckoners]]*|
 
 **Waterlog** was an [[Epic\|Epic]] with water-manipulation abilities. Prior to becoming an Epic, he was a street thug from Orlando known as **Georgi**.
 

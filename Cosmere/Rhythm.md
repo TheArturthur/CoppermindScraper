@@ -34,14 +34,14 @@
 
 ## Behavior
 Rhythms are ever-present, though most beings in the cosmere cannot hear them. Every rhythm changes, albeit in regular ways; a rhythm can be divided into movements, which are stable enough to measure time by. They're tied to emotions; a person capable of hearing the rhythms will naturally attune to one matching their mood, or try to start feeling in a specific way by attuning to a specific mood. Some rhythms seem to be tied to other aspects of the world, however; the Rhythm of Winds, for example, can be used to predict [[Highstorm\|highstorms]].
-It's unclear where precisely rhythms come from, or what makes them. They appear to be tied to planets, with each world having its own "songs". [[Roshar\|Roshar]] seems to have particularly strong or powerful rhythms; a [[Bronze\|bronze]] [[Allomancer\|Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. A Shard changing Vessels will slightly alter the Rhythm of a Shard. Other rhythms may be tied to a [[Shard\|Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium\|Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
+It's unclear where precisely rhythms come from, or what makes them. However, every creature is known to have their own rhythm. Generally, these rhythms are very quiet compared to that of a Shard, but they can be important in [[Invested Art\|Arts]] such as [[Soulcasting\|Soulcasting]] or [[Forgery\|Forgery]]. Rhythms appear to be tied to planets as well, with each world having its own "songs". [[Roshar\|Roshar]] seems to have particularly strong or powerful rhythms; a [[Bronze\|bronze]] [[Allomancer\|Allomancer]] would be able to hear them there. Each Shard also has its own rhythm and, as they Invest in a planet, their rhythm becomes part of that world. A Shard changing Vessels will slightly alter the Rhythm of a Shard. Other rhythms may be tied to a [[Shard\|Shard]]; there are several rhythms similar to the ones that a singer would normally hear, but with a more passionate or aggressive feeling, that are considered to be of [[Odium\|Odium]]. Odium, at least, also seems to be able to craft or grant rhythms for a specific person.
 Hearing the rhythms is tied to the phenomenon of [[Connection\|Connection]]; whatever the precise nature of the rhythms, they can be Connected to, which is how any being is able to hear them. A creature capable of hearing the rhythms can pick up what another person's attuned to from just a few spoken words, which is something an unconnected person wouldn't be able to do, even though the rhythms can be written down as sheet music. Each rhythm carries with it an innate understanding of its meaning.
 
 ## Users
   <<Singer\|Singers>> are <<Connection\|Connected>> to each other by the rhythms
 ### Singers
 >“*They could feel the rhythm, hear it. All were in tune, all were in rhythm with one another. Perfection.*”
-\-Eshonai[15]
+\-Eshonai[16]
 
 
 [[Singer\|Singers]] speak to rhythms to express their feelings or to assign their words specific meaning. When not paying attention, singers will attune to the rhythm that corresponds to their mood, but they can attune to another rhythm in order to fit with their message. Not all [[/wiki/Singer#Forms]] can hear the rhythms equally; dullforms hear them only partially, while singers in slaveform cannot hear them at all. The rhythms Connect the singers, and the various singer songs are sung to different rhythms.
@@ -111,7 +111,7 @@ Rhythm of Wisdom - possibly metaphorical
 
 ### Odium's Rhythms
 >“*That song! That **song**. It is death.*”
-\-Rlain[44]
+\-Rlain[45]
 
 
 These are the rhythms that those with [[Connection\|Connection]] to [[Odium\|Odium]], such as the [[Fused\|Fused]], Regals, and [[Enlightened\|Enlightened]] [[Knights Radiant\|Radiants]] can attune to. In most cases, being able to hear the new rhythms precludes one from hearing the old ones. These Rhythms of Power sound and feel different to the more well known rhythms of similar emotions. In many cases, though, they express similar things, albeit in a more violent and hostile manner.

@@ -2,6 +2,7 @@
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[The Reckoners\|The Reckoners]]*|
 
 For the different Epic the [[Reckoners\|Reckoners]] killed, see [[Pu%C3%B1os de Fuego\|Puños de Fuego]].
 **Fuego** (Spanish for **Fire**) is an [[Epic\|Epic]] in [[Prof\|Prof's]] squad. Fuego presumably has some variety of fire abilities.

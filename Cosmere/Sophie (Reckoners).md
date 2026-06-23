@@ -4,6 +4,7 @@
 |**Died**|Killed by an Epic|
 |**Residence**||
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[Lux\|Lux]]*|
 
 **Sophie** is [[Abigail Casey\|Abigail's]] young daughter who is killed by an [[Epic\|Epic]] several years prior to the fall of [[Lux (city)\|Lux]].
 

@@ -2,6 +2,7 @@
 |-|-|
 |**Abilities**|[[Epic\|Epic]]|
 |**Homeworld**|[[Earth (Reckoners)\|Earth (Reckoners)]]|
+|**Introduced In**|*[[The Reckoners\|The Reckoners]]*|
 
 >“*They were warped and mutated. Heads all growing out of their bellies and too many arms, and teeth the size of boomerangs.*”
 \-Hershel[1]

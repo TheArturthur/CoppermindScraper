@@ -150,7 +150,7 @@ The Drominad system has seven planets. There are four planets in the habitable z
 
 ### First of the Sun
 
-First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence. It has developed human life, as well a type of [[Aviar\|bird]] that forms a Nahel Bond.
+First of the Sun is a minor world consisting mainly of a large ocean and island systems. It has no Shards in residence. It has developed unique flora and fauna, including a type of [[Aviar\|bird]] that forms a Nahel Bond.
 
 #### Moons
 First of the Sun has a single moon named First of the First.
@@ -163,7 +163,7 @@ Greater Roshar is a planetary system containing thirteen planets. Some have life
 
 Ashyn is the first planet from the system's sun. It has sentient life.
 The book [[The Silence Divine\|The Silence Divine]] is set here. The magic system involves people who gain magical powers from diseases.
-Ashyn is mostly barren, due to and ancient disaster, with a few fertile patches.  It currently has no [[Shard\|shard]].
+Ashyn is mostly barren, due to an ancient disaster, with a few fertile patches.  It currently has no [[Shard\|shard]].
 
 ### Roshar
 
@@ -231,7 +231,7 @@ Nothing is known of Vax, its peoples, or any [[Shard\|Shards]] that may be locat
 
 ### Yolen
 
-Yolen is the original home to three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
+Yolen is the original home of three sentient races and was the origin of all humans in the cosmere. The original sixteen Vessels were from Yolen.
 
 ## Stars and Constellations
 ### Starbelt
