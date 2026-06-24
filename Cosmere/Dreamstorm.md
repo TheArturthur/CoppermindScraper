@@ -8,7 +8,7 @@
 \-Jenet to Kaladin[1]
 
 
-**Dreamstorm** is a young, high-sprited horse under [[Jenet\|Jenet's]] care in Highprince [[Dalinar Kholin\|Dalinar Kholin's]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
+**Dreamstorm** is a young, high-spirited horse under [[Jenet\|Jenet's]] care in Highprince [[Dalinar Kholin\|Dalinar Kholin's]] warcamp on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]].
 
 ## History
 In 1173, Jenet was in the process of getting Dreamstorm used to wearing a saddle when [[Bridge Four\|Bridge Four]] came for their first riding lesson. She was kept tied up off by herself, separated from the other horses. When [[Adolin\|Adolin]] saw that [[Kaladin\|Kaladin]] was riding the more docile [[Spray\|Spray]], he suggested trying Dreamstorm if Kaladin wanted a horse with more spunk.
