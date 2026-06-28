@@ -9,6 +9,7 @@
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*You should know about ... why I am the way I am. My grandparents were the only family I ever knew. Parents died when I was a child. Ana and Da, they raised me. The king ... he killed them.*”
 \-Moash, to Kaladin[1]

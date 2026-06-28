@@ -6,6 +6,7 @@
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Ali-daughter-Hasweth** is a [[Shin\|Shin]] scholar. She may be the sister of another Shin scholar, [[Shauka-daughter-Hasweth\|Shauka-daughter-Hasweth]].
 [[Shallan\|Shallan]] references one of her works on [[Urithiru\|Urithiru]].

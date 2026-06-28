@@ -4,6 +4,7 @@
 |**Abilities**|[[Surgebinder\|Surgebinder]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Our own natures destroy us. Alakavish was a [[Surgebinder\|Surgebinder]]. He should have known better. And yet, the [[Nahel bond\|Nahel bond]] gave him no more wisdom than a regular man.*”
 \-Nohadon on Alakavish and the Nahel bond[1]

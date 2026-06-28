@@ -4,6 +4,7 @@
 |**Nationality**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Beznk** is a [[Thaylen\|Thaylen]] sailor on the *[[Wind's Pleasure\|Wind's Pleasure]]* under Captain [[Tozbek\|Tozbek]] on [[Roshar\|Roshar]].
 

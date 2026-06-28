@@ -3,6 +3,7 @@
 |**Profession**|Scholar|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Way of Kings\|Way of Kings]]*|
 
 >“*Barely worth the time spent scribing them. A popular survey of historical events at best*”
 \-Jasnah's opinion of Topics

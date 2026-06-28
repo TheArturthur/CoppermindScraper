@@ -3,6 +3,7 @@
 |**Profession**|Scholar|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Bavamar** is a scholar on [[Roshar\|Roshar]] who proved mathematically that the existence of the [[Reshi\|Reshi]] [[Greatshell\|greatshells]] defies the laws of physics. Their interactions with [[Luckspren\|luckspren]] seem to keep them from being crushed under their own weight. [[Shallan\|Shallan]] cites Bavamar when she explains to [[Kaladin\|Kaladin]] that [[Chasmfiend\|chasmfiends]] "kind of fly."
 

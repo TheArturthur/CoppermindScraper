@@ -4,6 +4,7 @@
 |**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Avena** is a historical scholar on [[Roshar\|Roshar]]. She presumably lived during the [[Heraldic Epochs\|Heraldic Epochs]]. She is mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]*, and may have been consulted about unusual events that were occurring ahead of the [[Recreance\|Recreance]].
 

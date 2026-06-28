@@ -6,6 +6,7 @@
 |**Nationality**|[[Jah Keved\|Veden]] ([[Bavland\|Bav]])|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Amark** is a [[Bavland\|Bavlander]] and a member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]].
 

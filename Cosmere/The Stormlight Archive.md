@@ -22,7 +22,6 @@ The novels of *The Stormlight Archive* follow a consistent internal structure. E
 Each novel will focus on one specific order of the [[Knights Radiant\|Knights Radiant]] and feature flashbacks from a character tied to that order. Brandon has made clear that a character can have flashback point of views, even if they are already dead, so the characters scheduled to have flashbacks in an upcoming book might still die before their book. The series will be split into two arcs of five books each, with a time gap of about ten years between the two arcs. The second arc will be written after [[Mistborn Era 3\|Mistborn Era 3]]. Brandon has said he also hopes to write novellas in between at least all the remaining arc one novels, though is unsure if he has enough time. These novellas would fill in some details and show parts of the story that wouldn't have otherwise been seen.
 Subject to the assumption that characters stay associated with their current order and assigning the [[Order of Dustbringers\|Order of Dustbringers]] to [[Shalash\|Shalash's]] book by process of elimination, the following table summarizes these relationships and the order of books:
 
-
 |**YearPublished**|**Book Title**|**In-worldYear(s)**|**[[Knights Radiant\|Radiant]]Order**|**FlashbackViewpoint**|**PrologueViewpoint**|**Main InterludeViewpoint**|**Word Count**|
 |-|-|
 |**Arc 1**|
@@ -37,7 +36,6 @@ Subject to the assumption that characters stay associated with their current ord
 |**Unknown**|*Unknown*|*Unknown*|[[Order of Dustbringers\|Dustbringers]]|[[Shalash\|Shalash]]|*Unknown*|*Unknown*|*Unknown*|
 |**Unknown**|*Unknown*|*Unknown*|[[Order of Stonewards\|Stonewards]]|[[Talenel\|Talenel]]|*Unknown*|*Unknown*|*Unknown*|
 |**Unknown**|*Unknown*|*Unknown*|[[Order of Elsecallers\|Elsecallers]]|[[Jasnah Kholin\|Jasnah Kholin]]|*Unknown*|*Unknown*|*Unknown*|
-
 
 |**The Stormlight Archive Novellas**|
 |-|-|
@@ -57,7 +55,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2025**|**|1172|40||
 |**|1173-1174|168||
-|**|1173|46||
+|**|1173|45||
 |**|1174|4|Released in *Chasmfiend* Vol 2.|
 |**|1174|16||
 |**|1174|3|Released in *Stormlight Scenarios*|
@@ -68,7 +66,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**2026**|**|1174|8|Released via MyMiniFactory|
-|**|1174|TBA|Released via Free RPG Day|
+|**|1173/1174|16|Released via Free RPG Day|
 
 |**Hoid's Storybook Collection (Picture Books)**|
 |-|-|

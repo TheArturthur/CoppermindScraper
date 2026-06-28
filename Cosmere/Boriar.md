@@ -5,6 +5,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 Highprince **Boriar** is a [[Highprince\|highprince]] of [[Jah Keved\|Jah Keved]].
 

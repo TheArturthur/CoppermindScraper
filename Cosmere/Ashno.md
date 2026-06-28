@@ -4,6 +4,7 @@
 |**Nationality**|[[Emuli\|Emuli]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Ashno of Sages** is a rich [[Emuli\|Emuli]] holy man and former Prime on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 

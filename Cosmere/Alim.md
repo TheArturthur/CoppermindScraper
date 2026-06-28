@@ -3,6 +3,7 @@
 |**Residence**|[[Hearthstone\|Hearthstone]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Alim** is a resident of [[Hearthstone\|Hearthstone]] on [[Roshar\|Roshar]].
 They are sent to fetch [[Lirin\|Lirin]] when [[Miasal\|Miasal]] breaks her leg.

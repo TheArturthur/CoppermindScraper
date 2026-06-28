@@ -82,7 +82,7 @@ Cultivation appears to have the ability to kill or at least seriously wound [[Od
 For the history of the original Vessel, see [[/wiki/Koravellium Avast#History]].
 ### Shattering and ancient Roshar
 >“*I think there's only one [woman of my age] around these parts, and she and I never did get along.*”
-\-Hoid[40]
+\-Hoid[41]
 
 
 The Shard of Cultivation was created during the Shattering, and was subsequently taken up by [[Koravellium Avast\|Koravellium Avast]]. She and [[Honor\|Honor]], with whom she was romantically involved, departed the site of the Shattering, [[Yolen\|Yolen]], and ended up on Roshar. There, they became the gods of a local sentient species known as the [[Singer\|singers]]. However, following [[Odium\|Odium's]] arrival in the [[Rosharan system\|Rosharan system]], the two Shards ended up siding with human newcomers instead.
@@ -98,7 +98,7 @@ Unlike with all other boons and curses, Dalinar's memories gradually returned af
 ## Influence
  
 >“*Storming Mother of the World and Father of Storms above!*”
-\-Lift[48]
+\-Lift[49]
 
 
 Cultivation has been honored on [[Roshar\|Roshar]] for a long time, at least since the era of the [[Knights Radiant\|Knights Radiant]]. In the present day, however, her worship is limited to the western part of the continent, where she is considered an embodiment of nature and nature [[Spren\|spren]]. There, she is sometimes referred to as **Mother of the World**. Even in the east, people sometimes make references to Mother Cultivation, though typically as a joke. In [[Vorinism\|Vorinism]], belief in her and her cohorts, such as the [[Nightwatcher\|Nightwatcher]], is considered pagan superstition and usually dismissed.

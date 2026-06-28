@@ -3,6 +3,7 @@
 |**Profession**|Merchant|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Avado** is a non-Alethi merchant on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
