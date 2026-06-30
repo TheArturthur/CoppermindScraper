@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“* Now, as the [[Truthwatchers\|Truthwatchers]] were esoteric in nature, their order being formed entirely of those who never spoke or wrote of what they did, in this lies frustration for those who would see their exceeding secrecy from the outside; they were not naturally inclined to explanation; and in the case of Corberon’s disagreements, their silence was not a sign of an exceeding abundance of disdain, but rather an exceeding abundance of tact.*”
 \- Words of Radiance, chapter 11, page 6[1]

@@ -55,7 +55,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2025**|**|1172|40||
 |**|1173-1174|168||
-|**|1173|45||
+|**|1173|45|This story plays out only a few days before the beginning of Stonewalkers.|
 |**|1174|4|Released in *Chasmfiend* Vol 2.|
 |**|1174|16||
 |**|1174|3|Released in *Stormlight Scenarios*|

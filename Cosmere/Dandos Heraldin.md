@@ -4,6 +4,7 @@
 |**Aliases**|Dandos the Oilsworn|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Dandos Heraldin**, also known as **Dandos the Oilsworn**, was a master artist with pencils on [[Roshar\|Roshar]]. He was also knowledgeable about mathematics and created the study of ratios in art.
 [[Shallan Davar\|Shallan Davar]] learned how to draw by reading one of his books, though Dandos himself had died three hundred years previously. In his teachings he advised that aspiring artists should paint self-portraits.

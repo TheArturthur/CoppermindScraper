@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 

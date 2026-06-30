@@ -6,6 +6,7 @@
 |**Species**|[[Spren\|Spren]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“* Chemoarish, the Dustmother, has some of the most varied lore surrounding her. The wealth of it makes sorting lies from truths extremely difficult. I do believe she is not the [[Nightwatcher\|Nightwatcher]], contrary to what some stories claim.*”
 \- From Hessi's Mythica, page 231[1]

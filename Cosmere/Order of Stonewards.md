@@ -110,7 +110,7 @@ During the True Desolation, the Stonewards primarly fought against Odium, joinin
 [[Badali\|Badali]] (bonded to an unknown peakspren)
 [[Erinor\|Erinor]] (bonded to an unknown peakspren) 
 [[Talatin\|Talatin]] was a historic Stoneward from before the [[Recreance\|Recreance]].
- (bonded to )
+[[Taszo-son-Clutio\|Taszo-son-Clutio]] (bonded to )
 ## Quotes
 >“*Now, as each order was thus matched to the nature and temperament of the Herald it named patron, there was none more archetypal of this than the Stonewards, who followed after Talenelat'Elin, Stonesinew, Herald of War: they thought it a point of virtue to exemplify resolve, strength, and dependability. Alas, they took less care for imprudent practice of their stubbornness, even in the face of proven error.*”
 \-Words of Radiance, chapter 13, page 1[2]
