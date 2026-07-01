@@ -4,7 +4,7 @@
 |**Related to**|[[Adonalsium\|Adonalsium]], [[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the June 2026 objectives!It has been claimed by User: Firesong, please contact her before doing edits.
+> [!info] This page is part of the July 2026 objectives!It has been claimed by User: Firesong, please contact her before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This page contains information for the Shards of Adonalsium. For information regarding the armaments used on Roshar, see [[Shardblade\|Shardblade]] or [[Shardplate\|Shardplate]]. For the four primordial powers, see [[Dawnshard\|Dawnshard]].

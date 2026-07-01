@@ -17,7 +17,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the June 2026 objectives!It has been claimed by User: Blackthorn223, please contact him before doing edits.
+> [!info] This page is part of the July 2026 objectives!It has been claimed by User: Blackthorn223, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*My father thinks I'm a better man than he is. Unfortunately for you, he's wrong.*”

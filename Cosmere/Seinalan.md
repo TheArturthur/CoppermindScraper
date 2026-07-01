@@ -1,5 +1,6 @@
 |**Seinalan**|
 |-|-|
+||
 |**Titles**|Patriarch of Shu-Korath|
 |**Nationality**|[[Teo\|Teo]]|
 |**Homeworld**|[[Sel\|Sel]]|

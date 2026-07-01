@@ -6,7 +6,7 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Hatham princedom** is one of ten [[Alethi\|Alethi]] princedom's that form [[Alethkar\|Alethkar]]. Hatham's house colors may be gold and red.
+**Hatham princedom** is one of the ten [[Princedom\|princedoms]] that comprise the nation of [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. Hatham's house colors are gold and red.
 
 ## Contents
 
@@ -20,13 +20,13 @@
 
 
 ## Geography
-It is located in western Alethkar, just south of the [[Sunmaker Mountains\|Sunmaker Mountains]] and shares a border with [[Jah Keved\|Jah Keved]]. To the south lies [[Bethab princedom\|Bethab princedom]], and it shares a river border wtih [[Sebarial princedom\|Sebarial]] and [[Thanadal princedom\|Thanadal]] princedoms to the east. 
+It is located in western Alethkar, with the western [[Sunmaker Mountains\|Sunmaker Mountains]] forming a natural border in the north. It borders [[Jah Keved\|Jah Keved]] to the west, and is the region of Alethkar that is closest to the [[Horneater Peaks\|Horneater Peaks]]. It shares partial river borders with [[Bethab princedom\|Bethab princedom]] to the south and with [[Sebarial princedom\|Sebarial]] and [[Thanadal princedom\|Thanadal]] princedoms to the east. Although Hatham princedom is landlocked, the rivers that make up portions of its borders drain into [[Mevan Bay\|Mevan Bay]].
 
 ### Locations
 [[Darkhill\|Darkhill]]
 [[Shamel\|Shamel]]
 ## History
-Hatham's warcamp had been able to catch the unexpected highstorm during the [[Battle of Narak\|Battle of Narak]], and had become relatively wealthy from the captured Stormlight. Once moved into [[Urithiru\|Urithiru]], Hatham tasked his farmers with cultivating the gardens.
+Hatham's warcamp had been able to catch the unexpected [[Highstorm\|highstorm]] during the [[Battle of Narak\|Battle of Narak]], and had become relatively wealthy from the captured [[Stormlight\|Stormlight]]. Once the Alethi moved into [[Urithiru\|Urithiru]], Hatham tasked his farmers with cultivating the gardens. He was later named [[Highprince of Works\|Highprince of Works]], and his princedom was given responsibility for plumbing and other infrastructure in the tower. During the [[True Desolation\|True Desolation]], western Alethkar offered the last human resistance to the invasion of [[Odium\|Odium's]] forces, but Hatham princedom ultimately fell under the control of the [[Singer\|singers]].
 
 
 
