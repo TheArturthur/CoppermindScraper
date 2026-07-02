@@ -21,7 +21,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the June 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
+> [!info] This page is part of the July 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I see beauty in you, Dalinar Kholin. I see a great man struggling against a terrible one. *”
