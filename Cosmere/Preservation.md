@@ -174,7 +174,7 @@ Preservation is the author of the [[Terris Prophecies\|Terris Prophecies]], a se
 ## Trivia
 The Southern name for Preservation, Frue, is the Danish word meaning "lady" or "Mrs", and is close to German Frau ("Miss"), matching the name for Ruin, Herr (German for "Mister").
 In ** colors, Preservation would be white.
-Out of all of the Shards, Preservation has the highest amount of known of Vessels.
+Out of all of the Shards, Preservation has had the highest amount of known Vessels.
 
 
 https://coppermind.net/wiki/Preservation

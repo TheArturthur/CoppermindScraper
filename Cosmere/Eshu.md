@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“* [He] felt like one of the ten fools. Actually, he felt like all of them. Ten times an idiot. But most specifically Eshu, who spoke of things he did not understand in front of those who did.*”
 \- Kaladin thinking on his actions.[1]

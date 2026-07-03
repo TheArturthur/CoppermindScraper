@@ -4,6 +4,7 @@
 |**Groups**|Amaram's army|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Don't hedge bets with your life, Kaladin. Don't put in a chip when you have a pocket full of marks. Bet them all or leave the table.*”
 \-Durk's advice to Kaladin[1]

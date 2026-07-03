@@ -5,6 +5,7 @@
 |**Nationality**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Estnatil** is a [[Thaylen\|Thaylen]] [[Shardbearer\|Shardbearer]] and a highguard who lived in [[Thaylen City\|Thaylen City]] on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 Estnatil possesses a [[Shardblade\|Shardblade]] and as such is a member of one of the eight Thaylen houses to own Shards. 

@@ -3,6 +3,7 @@
 |**Profession**|Scholar|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Eleseth** is a scholar and artist on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
