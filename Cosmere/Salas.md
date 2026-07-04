@@ -535,18 +535,18 @@ A wide variety of alcoholic drinks can be found on Roshar.
 
 #### Wines
   Types of Rosharan wine
-On Roshar the term Wine refers to a number of alcoholic drinks, only a small subset of which are made of fermented fruit. The use of the term "wine" is the result of linguistic shift, much in the same way that all birds became [[Chicken\|chickens]] and all small crustaceans became [[Cremling\|cremlings]]. The alcohols that fall under the term "wine" are categorized by strength and color, with different colors denoting different alcohol content. Additionally, the stronger "wines" are actually distilled spirits.
+On Roshar, the term "wine" refers to a number of alcoholic drinks, only a small subset of which are made of fermented fruit. The use of the term "wine" is the result of linguistic shift, much in the same way that all birds became [[Chicken\|chickens]] and all small crustaceans became [[Cremling\|cremlings]]. The alcohols that fall under the term "wine" are categorized by strength and color, with different colors denoting different alcohol content. Additionally, the stronger "wines" are actually distilled spirits.
 In order from weakest to strongest, those are:
 
 **Pink**, which typically has a distinct floral taste. It's said to assist alertness. This wine is actually a juice and has no alcoholic content.
 **Orange**, fruity and with notes of ginger, although apparently it's not made of fruit.
 **Yellow**, which has a deep, "bold" taste while being weak enough to drink casually.
-**Auburn**, spicy and with a earthy aroma - this could be closest to red wine, as it's made of fermented fruit.
-**Red**, said to be "flavourful with a pleasant burn".
+**Auburn**, spicy and with a earthy aroma -- this could be closest to red wine, as it's made of fermented fruit.
+**Red**, said to be "flavorful with a pleasant burn."
 **Sapphire**, with a taste of nuts and honey, made of [[Lavis\|lavis]] grain. It's usually infused, and the closest equivalent to whiskey.
 **Blue**, tasting of berry and lemon.
 **Violet**, the strongest, typically with an aroma of sandalwood.
-Within those colors, a number of different wines exist - for example, among the sapphire varieties are **kimik**, **vari** and **Veden saph**. While generally the wine colors are standardized, they gain their color by intentional colored infusions, and are occasionally made without them.
+Within those colors, a number of different wines exist -- for example, among the sapphire varieties are **kimik**, **vari** and **Veden saph**. While generally the wine colors are standardized, they gain their color by intentional colored infusions, and are occasionally made without them.
 
 #### Other Beverages
   Rosharan drinks

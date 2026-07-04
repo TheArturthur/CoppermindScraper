@@ -3,6 +3,7 @@
 |**Abilities**|[[Surgebinder\|Surgebinder]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Karm** was a historical figure on [[Roshar\|Roshar]].
 He was an advisor to [[Nohadon\|Nohadon]] and once led a group of Surgebinders. He was [[Dalinar\|Dalinar's]] host in one of his [[Dalinar's visions\|visions]]. He was a man of letters, though he lost his right arm at some point before the vision. It seemed Nohadon was comfortable with Karm, talking casually with him at the time of the vision.

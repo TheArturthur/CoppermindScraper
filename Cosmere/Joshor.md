@@ -6,6 +6,7 @@
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Joshor** is the head of King [[Taravangian\|Taravangian's]] [[Silent Gatherer\|Silent Gatherers]] on [[Roshar\|Roshar]].
 

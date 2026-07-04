@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Jom** is a cobbler in [[Kholinar\|Kholinar]].
 He broke his arm before the [[Siege of Kholinar\|Siege of Kholinar]].

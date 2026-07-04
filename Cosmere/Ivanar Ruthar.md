@@ -8,6 +8,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Ivanar Ruthar** is the son of the former [[Highprince\|Highprince]] [[Ruthar\|Ruthar]] on [[Roshar\|Roshar]].
 His father was abusive and broke his arm about a month before the [[Coalition of monarchs\|coalition of monarchs]] recaptured [[Emul\|Emul]]. Ivanar confided in [[Wit\|Wit]] about this. Wit later used that information to get Ruthar angry enough to demand trial by combat, enabling [[Jasnah Kholin\|Jasnah Kholin]] to rid her rule of the last opposing highprince.

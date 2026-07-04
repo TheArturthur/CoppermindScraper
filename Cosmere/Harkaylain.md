@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Harkaylain** is a historical figure on [[Roshar\|Roshar]] who lived during the [[Heraldic Epochs\|Heraldic Epochs]].
 

@@ -5,6 +5,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Jal Mala** is a [[Veden\|Veden]] [[Highprince\|Highprince]].
 Jal Mala was killed by [[Szeth\|Szeth]], either in his attack on King [[Hanavanar\|Hanavanar's]] feast or in an independent strike. His death was one of several among the Veden highprinces, which ultimately culminated in the [[Veden civil war\|Veden civil war]].

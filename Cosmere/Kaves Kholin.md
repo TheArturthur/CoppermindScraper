@@ -7,6 +7,7 @@
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 Brightlord **Kaves Kholin** is a distant [[House Kholin\|Kholin]] relative that lives in [[Kholinar\|Kholinar]] during the [[Era of Solitude\|Era of Solitude]].
 During his time as a lesser lord in Kholinar, Kaves wielded only middling power. However, he had greater ambitions and often sought to increase his influence within the city, much to the annoyance of the royal members of his family. As such, there was little love lost between Kaves and the main branch of House Kholin.

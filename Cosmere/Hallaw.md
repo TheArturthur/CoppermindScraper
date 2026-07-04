@@ -4,6 +4,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Hallaw** is a high-ranking [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]] on [[Roshar\|Roshar]]. He is a military commander and titled landowner, presumably in the princedom of either [[Vamah\|Vamah]] or [[Aladar\|Aladar]].
 

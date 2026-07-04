@@ -6,6 +6,7 @@
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*I am a fool. I would blame the air, but I was a fool above too. A fool to ever let Kef'ha leave on this errand of stupidity.*”
 \-Lunamor[2]

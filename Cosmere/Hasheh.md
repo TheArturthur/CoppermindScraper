@@ -4,6 +4,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 Brightness **Hasheh** is a [[Lighteyes\|lighteyed]] scholar and tutor on [[Roshar\|Roshar]].
 Hasheh worked as [[Shallan Davar\|Shallan Davar's]] tutor at the Davar estates in [[Jah Keved\|Jah Keved]] around the year 1170. She was an expert in languages and taught Shallan some [[Azish\|Azish]]. Shallan also noted that Hasheh taught her etiquette, and would chide her for having poor posture.

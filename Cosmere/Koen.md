@@ -5,6 +5,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Koen** is a [[Darkeyes\|darkeyed]] soldier from [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. A former member of the [[Cobalt Guard\|Cobalt Guard]], he joined [[Bridge Four\|Bridge Four]] after the [[Battle of the Tower\|Battle of the Tower]] and was one of the first non-bridgemen to become a [[Windrunner\|Windrunner]] [[Squire\|squire]].
 As a former squire to Kaladin, he bonded an [[Honorspren\|honorspren]] and swore at least the [[Immortal Words\|Second Ideal]] of the Windrunners, assuming that he was alive in early 1175.

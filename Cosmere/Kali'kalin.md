@@ -3,6 +3,7 @@
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*Oh, Kali'kalin's ghost.*”
 \-Lunamor[1]

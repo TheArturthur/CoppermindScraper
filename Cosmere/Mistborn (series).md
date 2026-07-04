@@ -1,6 +1,6 @@
 This article is about [[Brandon Sanderson\|Brandon Sanderson's]] series. For the kind of Allomancer, see [[Allomancy\|Allomancy]].
 **Mistborn** is a fantasy series by [[Brandon Sanderson\|Brandon Sanderson]]. It is a major part of the [[Cosmere\|cosmere]] sequence and is set mostly on the [[/wiki/Cosmere#Planets]] [[Scadrial\|Scadrial]].
-It is most well known as the trilogy of *Mistborn: The Final Empire*, *[[The Well of Ascension\|The Well of Ascension]]* and *[[The Hero of Ages\|The Hero of Ages]]*, but there have been additional installments. Brandon originally planned a "trilogy of trilogies" but this has been expanded into a number of series over various eras in the history of Scadrial.
+It is most well known as the trilogy of *Mistborn: The Final Empire*, *[[The Well of Ascension\|The Well of Ascension]]*, and *[[The Hero of Ages\|The Hero of Ages]]*, but there have been additional installments. Brandon originally planned a "trilogy of trilogies" but this has been expanded into a number of series over various eras in the history of Scadrial.
 
 ## Contents
 

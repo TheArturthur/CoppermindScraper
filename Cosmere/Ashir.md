@@ -9,7 +9,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I wonder if they eat in the Cognitive Realm. Is a food there what it sees itself as being? I’ll have to read and see if anyone has ever eaten while visiting [[Shadesmar\|Shadesmar]].*”
-\-Geranid on cooking[1]
+\-Ashir on cooking[1]
 
 **Ashir** is a chemist and [[Ardent\|ardent]] who lives with [[Geranid\|Geranid]] on a small [[Reshi\|Reshi]] island on [[Roshar\|Roshar]].
 

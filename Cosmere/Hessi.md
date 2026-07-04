@@ -3,6 +3,7 @@
 |**Profession**|Scholar|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Hessi** is a scholar and author on [[Roshar\|Roshar]]. She is the author of *[[Mythica\|Mythica]]*, a work which investigates historical information about the [[Unmade\|Unmade]] and explores their characteristics.
 

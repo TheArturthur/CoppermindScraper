@@ -12,8 +12,6 @@
 
 > [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
-> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
-
 >“*Our interference so far has brought nothing but pain. My path has been chosen very deliberately.*”
 \-Frost's letter to Hoid[4]
 
@@ -81,7 +79,7 @@ Frost and Hoid have known each other for a very long time, and Starling describe
 ## Trivia
 It is likely that there are characters older than Frost in the cosmere, but they have not been canonized.
 Frost first appeared in the unpublished novel *[[Dragonsteel Prime\|Dragonsteel Prime]]*, some of which can be read on Brandon's website. A series of *[[Dragonsteel (series)\|Dragonsteel]]* novels are still in Brandon's long-term plans for the cosmere, and would likely include Frost.
-In the original Dragonsteel Prime, Frost was posing as a human, and Hoid was able to prove he was a dragon by pranking him using a [[Tamu Kek\|Tamu Kek]].
+In the original Dragonsteel Prime, Frost was posing as a human, and Hoid was able to prove he was a dragon by pranking him using a [[Tamukek\|Tamukek]].
 
 
 https://coppermind.net/wiki/Frost
