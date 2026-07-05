@@ -120,7 +120,7 @@ Today, many honorspren treat him as an honored ancestor and obey his wishes, wit
 >“*During these days, Honor still lived. I was not yet fully myself. More of a storm. Less interested in men.*”
 \-About his origins[18]
 
-The Stormfather is likely to be one of the oldest entities in the [[Cosmere\|cosmere]], as the [[Highstorm\|highstorms]] he commands predate even the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. During the early millennia of his existence, he was not particularly cognizant or self-aware, but rather simply the uncaring storm. He was somehow formed from the [[Wind\|Wind]], one of the old gods of Roshar. Even back then, however, he was capable of bonding with humans.
+The Stormfather may have been one of the oldest entities in the [[Cosmere\|cosmere]], as the [[Highstorm\|highstorms]] he commands predate even the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. He also remembers the arrival of the first humans on Roshar, about 7,000 years before the [[True Desolation\|True Desolation]]. However, the [[Sibling\|Sibling]], who was created around 6,000 years before the [[True Desolation\|True Desolation]], believed him to have been created “soon before me,” an inconsistency noted by Jasnah. During the early millennia of his existence, he was not particularly cognizant or self-aware, but rather simply the uncaring storm. He “came from the [[Wind\|Wind]],” one of the old gods of Roshar. Even back then, however, he was capable of bonding with humans.
 
 >“*But the power gave this remnant of me to my avatar in the storm-to the spren I had created as a true part of my soul. I died, yes, yet at the same time I lived on.*”
 \-One of the last memories of Tanavast in the Stormfather[21]

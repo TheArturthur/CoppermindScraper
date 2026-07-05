@@ -5,6 +5,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Lanacin the Surefooted** is a historical figure on [[Roshar\|Roshar]].
 He is said to have killed a [[Shardbearer\|Shardbearer]] and won a [[Shardblade\|Shardblade]]. He was presumably [[Alethi\|Alethi]], as there is a monument to Lanacin in southwest [[Kholinar\|Kholinar]].

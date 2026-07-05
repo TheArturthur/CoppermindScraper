@@ -6,6 +6,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 Brightlord **Lustow** is an [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]] from [[Roshar\|Roshar]]. He is one of [[Dalinar Kholin\|Dalinar Kholin's]] cavalry officers. [[Janala\|Janala]] is his daughter.
 
