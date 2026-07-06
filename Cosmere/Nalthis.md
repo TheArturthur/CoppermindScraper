@@ -6,6 +6,7 @@
 |**System**|[[Nalthian system\|Nalthian system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+  The planetary symbol for Nalthis.
 > [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.

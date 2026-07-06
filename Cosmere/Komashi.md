@@ -5,6 +5,7 @@
 |**System**|[[UTol system\|UTol system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+  The planetary symbol for Komashi.
 **Komashi** is a planet in the [[UTol system\|UTol system]] in the [[Cosmere\|cosmere]]. The [[Shard\|Shard]] [[Virtuosity\|Virtuosity]] [[/wiki/Splinter#Formation]] herself in the vicinity of Komashi, and the entire region is filled with her [[Splinter\|Splinters]]. The planet is the original home of the [[Hijo\|hijo]] which power [[Hion\|hion]] technology, as well as the [[Yoki-hijo\|yoki-hijo]].
 
 ## Contents

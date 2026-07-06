@@ -13,6 +13,7 @@
 \-Khriss[4]
 
 
+  The planetary symbol for Sel.
 **Sel**, also known as **Seol**, is a [[/wiki/Cosmere#Planets]] in the [[Selish System\|Selish System]] of the [[Cosmere\|cosmere]], and is the setting of the books [[Elantris (book)\|Elantris]] and [[The Emperor's Soul\|The Emperor's Soul]], as well as the short story [[The Hope of Elantris\|The Hope of Elantris]].
 Sel is inhabited by humans and artificially created beings called [[Seon\|seons]] and [[Skaze\|skaze]]. It is a relatively large planet, being 1.5 times the size of the [[Yolen\|cosmere standard]], and contains diverse landscapes home to multiple great civilizations including at least three empires.
 People from Sel are called Selish.

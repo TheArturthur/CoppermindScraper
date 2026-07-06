@@ -15,6 +15,7 @@
 \-Khriss[6]
 
 
+  The planetary symbol for Roshar in the future of the Cosmere, simplifying the traditional <<Double Eye of the Almighty\|Double Eye of the Almighty>>.
 **Roshar** is the second planet from the sun in the [[Rosharan system\|Rosharan system]], orbiting between [[Ashyn\|Ashyn]] and [[Braize\|Braize]]. It is also the name of the supercontinent that contains all of the planet's known inhabitants. Roshar possesses three natural satellites, though it possessed four at the point of creation, however, the fourth moon eventually crashed into Roshar.
 The planet was directly created by Adonalsium around twelve to thirteen thousand years before the Night of Sorrows.
 People from Roshar are referred to as Rosharans. The planet is particularly noteworthy due to the activity of several [[Shard\|Shards]] of [[Adonalsium\|Adonalsium]] in the area; the various forms of magic used by its residents, including [[Surgebinding\|Surgebinding]] through the use of [[Stormlight\|Stormlight]]; and the portability of their local form of Investiture.

@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Madasa** is a historical figure on [[Roshar\|Roshar]] from a time prior to the [[Day of Recreance\|Day of Recreance]]. They are mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]* in connection to the [[Order of Bondsmiths\|Order of Bondsmiths]]. It is not clear if Madasa was actually a [[Knight Radiant\|Knight Radiant]] or some other contemporary authority figure.
 

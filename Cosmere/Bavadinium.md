@@ -6,8 +6,6 @@
 |**Properties**|Repels other forms of [[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
-
 **Trellium**, also known as **bavadinium**, is the [[God Metal\|God Metal]] of [[Autonomy\|Autonomy]].
 
 ## Contents

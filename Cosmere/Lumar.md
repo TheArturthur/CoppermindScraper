@@ -11,6 +11,7 @@
 \-Hoid[1]
 
 
+  The planetary symbol for Lumar.
 **Lumar** is a [[/wiki/Cosmere#Planets]] in the [[Cosmere\|cosmere]] whose twelve moons are home to a unique strain of [[Aether\|aethers]]. Only outsiders call it such, though the word  "Lumar" is roughly similar in meaning to names given to the planet by some local cultures.
 
 ## Contents
