@@ -14,6 +14,7 @@ For the planetary system that includes the planet Taldain, see [[Taldain system\
 \-Khriss[2]
 
 
+  The planetary symbol for Taldain.
 **Taldain** is a planet in the [[Cosmere\|cosmere]] located within the [[Taldain system\|Taldain system]] and is the current residence of the [[Shard\|Shard]] [[Autonomy\|Autonomy]]. It is the home world of [[Khriss\|Khriss]]. The demonym of Taldain is Taldain.
 
 ## Contents

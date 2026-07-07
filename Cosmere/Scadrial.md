@@ -9,7 +9,6 @@
 |**System**|[[Scadrian system\|Scadrian system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-  The planetary symbol for Scadrial under Harmony, which is also the Allomantic symbol for harmonium. Under the Final Empire, the Allomantic symbol for steel was used.
 > [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]*, *[[The Lost Metal\|The Lost Metal]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
@@ -18,7 +17,8 @@
 \-From Khriss's essay on the Scadrian system[3]
 
 
-**Scadrial** is a planet in the [[Cosmere\|cosmere]] and the most well-known planet in the [[Scadrian system\|Scadrian system]]. Scadrial has no moon, but there is an [[Scar\|extremely bright patch of stars visible in the night sky]]. People from Scadrial are called Scadrians. The planet is the home of several metal-related manifestations of [[Investiture\|Investiture]], namely [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]. Certain individuals known as [[Allomancy\|Mistborn]] have had a significant impact on the planet and the greater cosmere. Periodically throughout Scadrial’s history, a man or woman gained access to vast amounts of power, with incredible effects. Scadrians have greater access to Investiture then most peoples of the cosmere, save only for those who live on [[Roshar\|Roshar]].
+  The planetary symbol for Scadrial under Harmony, which is also the Allomantic symbol for harmonium. Under the Final Empire, the Allomantic symbol for steel was used.
+**Scadrial** is a planet in the [[Cosmere\|cosmere]] and the most well-known planet in the [[Scadrian system\|Scadrian system]]. Scadrial has no moon, but there is an [[Scar\|extremely bright patch of stars visible in the night sky]]. People from Scadrial are called Scadrians. The planet is the home of several metal-related manifestations of [[Investiture\|Investiture]], namely [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Hemalurgy\|Hemalurgy]]. Certain individuals known as [[Allomancy\|Mistborn]] have had a significant impact on the planet and the greater cosmere. Periodically throughout Scadrial’s history, a man or woman gained access to vast amounts of power, with incredible effects. Scadrians have greater access to Investiture than most peoples of the cosmere, save only for those who live on [[Roshar\|Roshar]].
 
 ## Contents
 
