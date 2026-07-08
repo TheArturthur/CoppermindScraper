@@ -59,7 +59,7 @@ He is murdered by [[Adolin Kholin\|Adolin Kholin]] a short time after his arriva
  
 For more images, see [[Torol Sadeas/Gallery\|/Gallery]].
 ### Appearance
-Torol Sadeas is a bright-eyed man in his early fifties. He has a bulbous head, curly hair, and ruddy face. As a Rosharan, he would be considered tall amongst people from other planets in the cosmere; and as an Alethi man, he would have tan skin and epicanthic folds. His Princedom's colors are green and white, and he reflects this in his clothing.
+Torol Sadeas is a bright-eyed man in his early fifties. He has a bulbous head, curly hair, and ruddy face. As a Rosharan, he would be considered tall amongst people from other planets in the cosmere; and as an Alethi man, he would have tan skin and epicanthic folds. His Princedom's colors are green and white.
 His Shardplate is painted red. It is decorated, including tassels on his helm.
 
 ### Personality
