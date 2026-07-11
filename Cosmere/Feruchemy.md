@@ -81,7 +81,7 @@ Feruchemists who tap their metalminds for extended periods of time may be physio
 Feruchemists are categorized based on if they can fill or tap a single metal, **Ferring**, or if they can utilize all metals, **Full Feruchemist**. Other [[Invested Art\|Invested Arts]], such as Hemalurgy, are the only known way to access a combination of powers that falls outside of this categorization structure. Each type of Ferring has a particular name depending on their ability, such as Skimmer, Steelrunner, or Archivist.
 
 ### Power Dilution
-Throughout the ages, the strength of a Feruchemist has slowly decreased, weakening a bit with each generation. This dilution of power has a limit where it cannot decrease any further. The strength of Feruchemists has reached that point by [[/wiki/Mistborn (series)#Era 3]].
+Throughout the ages, the strength of a Feruchemist has slowly decreased, weakening a bit with each generation. This dilution of power has a limit where it cannot decrease any further. The strength of Feruchemists has reached that point by [[/wiki/Mistborn (series)#Era 3]], where Feruchemists will now lose a slight amount of Investiture in just under a 1:1 ratio of the attribute lost to that attribute stored.
 
 ### Twinborn and Compounders
 After the [[Final Empire\|Final Empire]], Terris and those of noble descent began to interbreed, so it became possible for their descendants to have one Feruchemical ability and one Allomantic ability. People with such powers were called **[[Twinborn\|Twinborn]]**. Like Ferrings, Twinborn were each given a name depending on their specific combination of abilities. The interaction between the two abilities creates a new, secondary effect, known as a [[Resonance\|Resonance]].
