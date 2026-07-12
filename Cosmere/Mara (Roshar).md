@@ -5,6 +5,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Mara** is [[Lirin\|Lirin's]] apprentice in [[Hearthstone\|Hearthstone]].
 When [[Kaladin\|Kaladin]] returns to Hearthstone after the first [[Everstorm\|Everstorm]], Mara has been an apprentice surgeon for a few years.

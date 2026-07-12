@@ -3,6 +3,7 @@
 |**Era**|[[Heraldic Epochs\|Heraldic Epochs]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Malchin** was a warrior on [[Roshar\|Roshar]] during the [[Heraldic Epochs\|Heraldic Epochs]]. He attempted to become a member of the [[Order of Lightweavers\|Order of Lightweavers]], but was unable to do so.
 

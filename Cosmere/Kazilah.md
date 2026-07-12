@@ -5,13 +5,11 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
-
 >“*In short, if any presume Kazilah to be innocent, you must look at the facts and deny them in their entirety; to say that the Radiants were destitute of integrity for this execution of one their own, one who had obviously fraternized with the unwholesome elements, indicates the most slothful of reasoning; for the enemy’s baleful influence demanded vigilance on all occasions, of war and of peace.*”
 \-From Words of Radiance, chapter 32, page 17[1]
 
 
-**Kazilah** is a historical figure and possible member of the [[Knights Radiant\|Knights Radiant]] mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]*. They were found to be guilty of fraternizing with "unwholesome elements," possibly some sort of agent of [[Odium\|Odium]], and executed for it. Their condemnation by other Radiants is a part of the reason the Skybreakers give for the growing rift between the Orders which leads to them splitting off before the Recreance.
+**Kazilah** is a historical figure and possible member of the [[Knights Radiant\|Knights Radiant]] mentioned in *[[Words of Radiance (in-world)\|Words of Radiance]]* on [[Roshar\|Roshar]]. They were found to be guilty of fraternizing with "unwholesome elements," possibly some sort of agent of [[Odium\|Odium]], and executed for it. Their condemnation by other Radiants was a part of the reason the [[Order of Skybreakers\|Skybreakers]] gave for the growing rift between the Orders, which led to them splitting off before the [[Recreance\|Recreance]].
 
 
 
