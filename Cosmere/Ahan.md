@@ -1,5 +1,6 @@
 |**Ahan**|
 |-|-|
+||
 |**Family**|
 |**Spouse**|[[Seaden\|Seaden]]|
 |**Children**|[[Torena\|Torena]]|

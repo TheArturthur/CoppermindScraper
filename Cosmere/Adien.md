@@ -1,5 +1,6 @@
 |**Adien**|
 |-|-|
+||
 |**[[Teo Royal Family\|Teo Royal Family]]**|
 |**Parents**|[[Kiin\|Kiin]], [[Daora\|Daora]]|
 |**Siblings**|[[Lukel\|Lukel]], [[Kaise\|Kaise]], [[Daorn\|Daorn]]|
