@@ -3,7 +3,7 @@ For related information, see:
 
 [[Unpublished works\|Unpublished works]], a list of Brandon's other work (written and unwritten, forthcoming and trunked)
 [[Bibliography/Audiobooks\|/Audiobooks]], a list of all audiobook editions of Brandon's published works, including information about duration and narrators
-*[[Cosmere\|Cosmere]]* works are highlighted in green, [[Cytoverse\|Cytoverse]] works are highlighted in purple, works in the *Reckoners* multiverse are highlighted in blue, others in tan. Unreleased works have their titles highlighted in red. Titles in white are works released in a draft state, referred to as "Sanderson Curiosities".
+*[[Cosmere\|Cosmere]]* works are highlighted in green, [[Cytoverse\|Cytoverse]] works are highlighted in purple, works in the *Reckoners* multiverse are highlighted in blue, others in tan. Unreleased works have their titles highlighted in red. Titles in white are works released in a draft state, referred to as "Sanderson Curiosities", or are otherwise non-canonical.
 
 |**Year**|**Book**|**Series**|**Length**|**Notes**|**Refs**|
 |-|-|
@@ -91,13 +91,14 @@ For related information, see:
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||Novel|| |
 |*[[Tailored Realities\|Tailored Realities]]*||Anthology|A collection of stories which include *[[Snapshot\|Snapshot]]*, **, *[[I Hate Dragons\|I Hate Dragons]]*, *[[Dreamer\|Dreamer]]*, *[[Perfect State\|Perfect State]]*, **, *[[Defending Elysium\|Defending Elysium]]*, *[[Firstborn\|Firstborn]]*, *[[Mitosis\|Mitosis]]*, and *[[Moment Zero\|Moment Zero]]*.||
-|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.| |
-|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck.| |
-|**|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus as part of the Stormlight Lost Tales StoryDeck. Non-canon.| |
-|**2026**|*[[The Fires of December\|The Fires of December]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|Add-on to the  campaign||
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
+|**2026**|*[[Blightfall\|Blightfall]]*|[[Riftwake\|Riftwake]] #1|Novel|Co-written with [[Janci Patterson\|Janci Patterson]]||
+|*[[The Fires of December\|The Fires of December]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|||
 |*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
 |*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
 |*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
+|**|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Non-canon.| |
 
 
 
