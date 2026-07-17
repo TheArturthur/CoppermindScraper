@@ -5,6 +5,7 @@
 |**Siblings**|[[Kmakra\|Kmakra]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“* Kmakra and Molinar, the true gemstones of my life.*”
 \- Excerpt from drawer 12-15, ruby, in the Urithiru gem archive[1]

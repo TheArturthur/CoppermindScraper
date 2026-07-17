@@ -7,6 +7,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 Captainlord **Meleran Khal** is the youngest son of [[General Khal\|General Khal]] and [[Teshav\|Teshav]].
 

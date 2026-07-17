@@ -259,7 +259,7 @@ Lift would be able to steal the [[Lord Ruler\|Lord Ruler's]] lunch.
 Lift would be very good at video games.
 "Lift" is a translation of her name from the original language, which means "to elevate or raise up".
 Lift calls [[Hoid\|Hoid]] "Ol' Whitehair" because, unlike most on Roshar, she has seen past the disguise he uses there and knows his true appearance.
-Lift’s ability to absorb Investiture from food is a Connection to Cultivation’s ability to nourish herself from the Spritual Realm as a dragon, which Brandon made canon after being asked by a fan. It was initially a coincidence. 
+Lift’s ability to absorb Investiture from food is a Connection to Cultivation’s ability to nourish herself from the Spiritual Realm as a dragon, which Brandon made canon after being asked by a fan. It was initially a coincidence. 
 Lift would make a terrible ringbearer.
 
 
