@@ -228,7 +228,7 @@ Sazed married him to Vin just before the fight for Luthadel.
 \-Tindwyl to Sazed on why she loves him[59]
 
 
-Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by  Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.
+Sazed asked [[Tindwyl\|Tindwyl]], a Terris member of the [[Synod\|Synod]], to go to Luthadel to train Elend on being a King. She thought of him as the soul of what it means to be Terris (calm, humble, careful, and respectful), but didn’t like him defying their leaders. She didn’t believe in him at first and wanted him to continue with teaching to fulfill his keeper’s duty. One day on the warehouse, she was soothed by  Breeze into supporting Sazed with his work. This brought them closer and they talked to each other with fondness and eventually fell in love.Also Sazed looked for her body after the fight for luthadel
 
 ### Hoid
 Sazed appears to have known Hoid to some extent before his Ascension, or at least Hoid knew him.
