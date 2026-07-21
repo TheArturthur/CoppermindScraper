@@ -204,8 +204,9 @@ Many of the in-universe allusions to new planets are references to books Brandon
 In the 2022 [[State of the Sanderson\|State of the Sanderson]], a possible series set on Mythos was mentioned as a minor project.
 At one point, Brandon was planning a YA novel to be set on the kite planet. A story here may end up featuring [[Starling\|Starling]].
 The world with an ocean in the sky has been used for worldbuilding of attempted books, both outside the Cosmere in [[The Apocalypse Guard\|The Apocalypse Guard]] and in the Cosmere with a rewrite of [[I Hate Dragons\|I Hate Dragons]].
-Brandon has discussed a world where multiple continents were in free fall, letting inhabitants skydive between them. This "Seven Layer Free Burrito World" has not been referenced in any Cosmere books, but he has referred to it as a Cosmere story in the State of the Sanderson.
+Brandon has discussed a world where multiple continents were in free fall, letting inhabitants skydive between them. This "Seven Layer Free Fall Burrito World" has not been referenced in any Cosmere books, but he has referred to it as a Cosmere story in the State of the Sanderson.
 Caveman Heist is another Cosmere story referenced in the State of the Sanderson, with no information as to the world it would be set on.
+Before Dhatri was canonized, [[Unpublished works\|other attempts]] at Aether stories had different names for the Aether homeworld: Vaeria in Aether of Night, and Lor in Climb the Sky. It is not known if either of those planets are still planned to exist as a part of the Aether planetary network, or if they have been fully replaced by Dhatri. 
 When asked if Obrodai was a name one of the planets of the [[Drominad System\|Drominad System]] used for themselves, Brandon responded with a [[RAFO\|RAFO]]. He has also avoided saying if it is a planet that we have already seen.
 If Vax is inhabited, they have not yet developed vaccines.
 Hoid's tale of "a planet where the only sapient life was a group of pancakelike beings that expressed themselves through flatulence"  is almost certainly a fabrication of Hoid's, and not a real planet or species in the cosmere.
