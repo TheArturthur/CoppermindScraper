@@ -161,6 +161,7 @@ Ialai Sadeas is Torol Sadeas' wife. He is attracted to her "dangerous" personali
 
 ## Trivia
 His name's similarity to the word "sadist" was not a coincidence, but it was more of a subconscious choice by Brandon than one that he was aware of.
+In early versions of *The Way of Kings*, Sadeas's officers in the market scene in chapter 46 are said to wear red uniforms. In later versions of the book, this is corrected to green.
 In a draft of *Words of Radiance*, Adolin did not kill Sadeas. When [[Brandon Sanderson\|Brandon]] decided to have Amaram survive Iyatil's assassination attempt, he decided that Sadeas had to die instead.
 Sadeas would get along well with [[Rayse\|Rayse]].
 If he were in the place of [[Straff Venture\|Straff Venture]], he would make far better use of [[Zane\|Zane]].

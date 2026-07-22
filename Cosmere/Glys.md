@@ -7,12 +7,12 @@
 |**Species**|[[Mistspren\|Mistspren]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*No home. No allies. We will need more. Like you and like me. Together.*”
-\-Glys[1]
+\-Glys[2]
 
 
 **Glys** is a [[Mistspren\|mistspren]] on [[Roshar\|Roshar]]. He appears as a red crystalline structure, and forms a [[Nahel bond\|Nahel bond]] with [[Renarin Kholin\|Renarin Kholin]]. This grants Renarin the ability to use the [[Surge\|Surges]] associated with the [[Order of Truthwatchers\|Order of Truthwatchers]]. Prior to forming the bond, Glys was corrupted by the [[Unmade\|Unmade]] [[Sja-anat\|Sja-anat]].
@@ -43,7 +43,7 @@
 For more images, see [[Glys/Gallery\|/Gallery]].
   Glys in the Cognitive realm
 >“*My sorrow, Renarin. I will give you my sorrow.*”
-\-Glys[2]
+\-Glys[3]
 
 
 Glys takes the form of a bright red crystalline structure, resembling a snowflake, which shimmers and drips light upwards. This is not the form of normal mistspren, who appear as light reflected through crystal on a surface. His altered appearance is the result of Sja-anat’s corruption, and he intentionally tends to stay invisible or hidden within Renarin.
