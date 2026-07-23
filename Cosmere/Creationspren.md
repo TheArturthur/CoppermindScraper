@@ -799,7 +799,6 @@ The Unmade are:
 **[[Sja-anat\|Sja-anat]]** - one of the intelligent Unmade, once called the Taker of Secrets. She can "enlighten" spren, corrupting them with Odium's Investiture. In the present, she appears to be unwilling to continue working with Odium, and is looking for a way to switch sides.
 **[[Yelig-nar\|Yelig-nar]]** - sometimes called the Blightwind. He's capable of bonding with people who swallow a gemstone containing him, granting them the use nine [[Surge\|Surges]]. Was present at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], although the Fused presumably took him back when they withdrew.
 ### Grey Remnant
-For more information, see .
 The Grey Remnant resides underneath [[Rathalas\|Rathalas]], and has slumbered there for thousands of years. [[Vorinism\|Vorin]] priests hid his existence to prevent people from seeking his knowledge, as they considered it to be to close to predicting the future. The Grey Remnant appears as dozens of emaciated hands and he has a low, raspy voice.
 He is related to the Nightwatcher, and refers to her as his mother. Due to being mostly forgotten, he is much weaker and less coherent than he was in the past. To try and counteract this, he will exchange information for a painful truth, which he hopes will [[Connection\|Connect]] him with others.
 
