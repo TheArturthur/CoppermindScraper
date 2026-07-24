@@ -107,7 +107,7 @@ The amount of carapace and where it forms is dependent on the form the singer is
 Singers have orange blood. They possess a heart which pumps blood through their body in a closed circulatory system.
 
 ### Endoskeleton
-Their endoskeletons are made up of red-coloured bones. They are known to possess a sternum, which is fused with their gemheart. Within the bone is a white marrow-like substance.
+Their endoskeletons are made up of red-colored bones. They are known to possess a sternum, which is fused with their gemheart. Within the bone is a white marrow-like substance.
 
 ### Epidermis and Epidermal Marblings
 The most apparent sign of their non-human nature is the epidermis; it is covered in marblings, swirls of various colors - red, black or white. Most singers have dichromatic epidermides, usually red-black or red-white, but other combinations are also a possibility. These marblings can manifest in various ways, both as delicate swirls and large, wind-swept patterns. There are singers whose skin is trichromatic, but they are extremely rare relative to the dichromatic phenotype. The color whitening at the edges is a sign of age and senescence. Their hair can be a shade of black or a combination of colors but is typically orange or red – colors that do not appear to occur naturally in Rosharan humans, outside of those with partial singer genetic admixture. There is a relationship between the color of singer hair and their individual marbling colors. Even singers in forms of power sweat with exertion.
@@ -161,7 +161,7 @@ These forms are mentioned in the listener [[Song of Listing\|Song of Listing]]. 
 #### Dullform
  
 >“* Dullform dread, with the mind most lost.The lowest, and one not bright.To find this form, one needs banish cost.It finds you and brings you to blight.*”
-\- final stanza of the Song of Listing[79]
+\- final stanza of the Song of Listing[83]
 
 
 Dullform occurs when a singer bonds an incorrect [[Spren\|spren]], or a spren that does not grant any other form. It's physically similar to the "slaveform" of the parshmen, to the point where a dullform singer can easily pass for one. There are some slight differences though, as a dullform singer is slightly taller. It is also mentally limiting; those in dullform find thinking difficult, as if they were half-asleep, and have a harder time hearing the [[Rhythm\|rhythms]]. They’re not nearly as mentally limited as singers in slaveform however.
@@ -172,7 +172,7 @@ Singer children are born in dullform, though for them, it is more vibrant and le
 #### Mateform
  
 >“* Mateform meek, for love to share,Given to life, it brings us joy.To find this form, one must care.True empathy, one must employ.*”
-\- 5th stanza of the Song of Listing[80]
+\- 5th stanza of the Song of Listing[84]
 
 
 Mateform is used by singers to reproduce; though most other forms are capable of having children, mateform is the one most specialized for the purpose. In female singers, entering mateform increases the size of their breasts; it's unknown what physical effect it has on male singers. Mateform also directs a body’s energy to hormone production. Mentally, mateform causes a singer to behave irresponsibly and become distracted in favor of the form's primary purpose; mateforms will sometimes ignore their assigned task, or do things that are expressly forbidden, without realizing the issue with that. Some singers are, however, capable of keeping themselves together while in mateform, though this requires strong mental discipline. A singer can take mateform by bonding a lifespren and concentrating on their desire to give and receive emotional intimacy.
@@ -182,7 +182,7 @@ It was one of the original forms the [[Last Legion\|Last Legion]] had after aban
 #### Warform
  
 >“* Warform is worn for battle and reign,Claimed by the gods, given to kill.Unknown, unseen, but vital to gain.It comes to those with the will.*”
-\- 15th stanza of the Song of Listing[82]
+\- 15th stanza of the Song of Listing[86]
 
 
 Warform gives listeners an armor-like carapace, and makes them taller and bulkier than other forms. The carapace armor is designed to trap air and push it up underneath to cool the singer. It grants them vastly increased strength; a singer in warform can leap over a chasm of the [[Shattered Plains\|Shattered Plains]] with a running start. Stamina is greatly increased, allowing singers to run for hours without strain. It also deepens their voice. Out of all the forms known to the listeners, warform requires the most food, but is also the most durable, and a warform singer heals faster than they would in any other form.
@@ -193,7 +193,7 @@ The first listeners to enter warform heard the pure tone of Honor.
 #### Workform
  
 >“* Workform worn for strength and care.Whispering spren breathe at your ear.Seek first this form, its mysteries to bear.Found here is freedom from fear.*”
-\- 19th stanza of the Song of Listing[84]
+\- 19th stanza of the Song of Listing[87]
 
 
 Workform endows increased strength, though it lacks the armor; rather, singers in workform are limber and rugged. It's better suited for labor, and most workers use it; however, it is also sometimes used when fighting. Singers in workform have carapace in ridges along the backs of their hands, and no carapace on the rest of their body. They are also fairly resistant to cold weather. While in workform, singers are more obedient, and have greater difficulty committing violence, forcing one to find peaceful solutions to various problems. It's also considered more flexible than warform. Singers in workform are bonded with [[/wiki/Spren#Gravitationspren]].
@@ -203,7 +203,7 @@ The first listeners to bond workform heard the pure tone of Cultivation.
 #### Nimbleform
  
 >“* Nimbleform has a delicate touch.Gave the gods this form to many,Tho' once defied, by the gods they were crushed.This form craves precision and plenty.*”
-\- 27th stanza of the Song of Listing[87]
+\- 27th stanza of the Song of Listing[90]
 
 
 Nimbleform is a general form without any singular, apparent function; rather, it's useful for all work that requires dexterity and care. For this reason, listeners use it for tasks such as research, art, and raising children. It has no carapace, and less endurance than other forms; singers in nimbleform are physically weaker, grow longer hair, and have thinner, more slender facial features. It directs the body’s energy toward increased brain function and fine motor skills. It also encourages greater focus.
@@ -212,25 +212,25 @@ This form was rediscovered by the singers during the [[War of Reckoning\|War of 
 
 #### Mediationform
 >“* Mediationform made for peace, it's said.Form of teaching and consolation.When used by the gods, it became insteadForm of lies and desolation.*”
-\- 33rd stanza of the Song of Listing[89]
+\- 33rd stanza of the Song of Listing[92]
 
 
 Mediationform enhances a singer’s eloquence and mental clarity. They can also better communicate and resolve disputes. The head researcher of the listeners, [[Venli\|Venli]], claimed that she was looking for it throughout the [[War of Reckoning\|War of Reckoning]], but in reality, she never truly attempted to rediscover mediationform in the first place, instead searching for stormform. Singers bond [[Bindspren\|bindspren]] to enter mediationform.
 
 #### Scholarform
 >“* Scholarform shown for patience and thought.Beware its ambitions innate.Though study and diligence bring the reward,Loss of innocence may be one's fate.*”
-\- 69th stanza of the Song of Listing[92]
+\- 69th stanza of the Song of Listing[95]
 
 
 Though present in the [[Song of Listing\|Song of Listing]], scholarform has only been reclaimed during the [[True Desolation\|True Desolation]]; during the [[War of Reckoning\|War of Reckoning]], listeners used nimbleform as a substitute. In scholarform, a singer’s mental prowess and patience increase, and they can retain large amounts of new information with ease. Their ambition also increases. Physically, it produces long hairstrands and angular features. Singers bond [[Logicspren\|logicspren]] to enter this form.
 
 #### Artform
 >“* Artform applied for beauty and hue.One yearns for the songs it creates.Most misunderstood by the artist it's true,Come the spren to foundation's fates.*”
-\-90th stanza of the Song of Listing[93]
+\-90th stanza of the Song of Listing[96]
 
 
 >“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract creationspren;These songs suffice 'til we learn.*”
-\-279th stanza of the Song of Revision[94]
+\-279th stanza of the Song of Revision[97]
 
 
 Artform is formed by bonding [[Creationspren\|creationspren]]; as its name implies, it specializes in artistic expression, such as painting or music. In artform, a singer’s body is adorned in colorful, cosmetic carapace. A singer’s mind is inclined toward personal and artistic expression, and they become hyperaware of rhythms, colors, and other aspects of the world. Venli claimed to be researching this form to other listeners, though that was most likely a lie. It has not been discovered during the [[War of Reckoning\|War of Reckoning]], but rather returned to the singers through the [[Everstorm\|Everstorm]].
@@ -238,7 +238,7 @@ Artform is formed by bonding [[Creationspren\|creationspren]]; as its name impli
 ### Forms of Power
   A singer in <<Stormform\|stormform>>
 >“*Qualify yourselves for greater service, and you will be elevated to the place of a Regal, given a form of power.*”
-\-Fused propaganda[85]
+\-Fused propaganda[88]
 
 
 Forms of power are attained by bonding a [[Voidspren\|voidspren]] rather than an ordinary spren. Within Odium's army, such singers are referred to as [[Regal\|Regals]]. In contrast to common forms, forms of power bestow explicitly supernatural abilities, such as being able to shoot lightning from one's fingers or speak any language in the world. They can drastically alter one's ways of thinking, such as making people more selfish and callous, and can feel intoxicating. They allow singers to hear and use new rhythms, but make hearing the old ones extremely difficult.
@@ -306,7 +306,7 @@ After six years of constant warfare, the listeners, manipulated by one of the [[
 
 ### The New Singers
 >“*Can't we simply enjoy being able to **think**? Being able to **exist**?*”
-\-Vldgen[129]
+\-Vldgen[132]
 
 
 The newly restored singers assumed seemingly random forms. Their attitudes were similar to those of the humans they spent their entire lives around -- the [[Alethi\|Alethi]] singers were angry and warlike, the [[Azish\|Azish]] singers wished to negotiate with the government, and the [[Thaylen\|Thaylen]] singers stole ships and sailed away. Most of them, however, were quickly swept up by the [[Fused\|Fused]], who had returned and sought to create new armies with which to conquer Roshar.
