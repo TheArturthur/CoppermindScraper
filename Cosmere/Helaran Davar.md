@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**[[House Davar\|House Davar]]**|
-|**Parents**|[[Lin Davar\|Lin]]|
+|**Parents**|[[Lin Davar\|Lin]], [[Chana\|Chana]]|
 |**Siblings**|[[Balat\|Balat]], [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Shallan\|Shallan]]|
 |**Died**|Ishi ? 1172|
 |**Abilities**|[[Shardbearer\|Shardbearer]]|

@@ -3,7 +3,7 @@
 ||
 |**[[House Davar\|House Davar]]**|
 |**Spouse**|[[Lin Davar\|Lin]]|
-|**Children**|[[Balat\|Balat]], [[Jushu\|Jushu]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
+|**Children**|[[Helaran\|Helaran]], [[Balat\|Balat]], [[Jushu\|Jushu]], [[Wikim\|Wikim]], [[Shallan\|Shallan]]|
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Dustbringers\|Dustbringers]], Herald of the Common Man|
 |**Aliases**|Chana, Chanaranach, Chan-a-rach|
