@@ -326,7 +326,7 @@ This list of known dead Shardblades is organized by current owner or most recent
 |[[Talanor\|Talanor]]|*Unknown*|*Unknown*|*Unknown*|Only possess a Blade, refused Adolin's duel off||
 |[[Gavinor Kholin\|Gavinor Kholin]]|[[Oathbringer (Shardblade)\|Oathbringer]]|[[Dalinar Kholin\|Dalinar Kholin]] (unbonded)|Handspan wide, curvy, hooked tip, edged on one side with wave-like serrations near hilt|Given to Gavinor after being stolen by [[Odium\|Odium]] for use in the contest of Champions||
 |[[Valam\|Valam]] (Deceased)|*Unknown*|*Unknown*|*Unknown*|Left beside body of the king, current owner unknown||
-|[[Yanagawn\|Yanagawn]]||[[Abidi\|Abidi]]|*Unknown*|Azish Imperial Shardblade||
+|[[Yanagawn\|Yanagawn]]|[[Blade of Memories\|Blade of Memories]]|[[Abidi\|Abidi]]|*Unknown*|Azish Imperial Shardblade||
 |[[Yanagawn\|Yanagawn]]|[[Xorm\|Xorm]]|*Unknown*|*Unknown*|Unoathed||
 |[[Sigzil\|Sigzil]]|[[Vienta\|Vienta]]|*None*|*Unknown*|Bond broken to protect her from getting killed with [[Anti-Light\|Anti-Light]]||
 |[[Sigzil\|Sigzil]]|[[12124\|12124]]/Auxiliary|[[Szeth\|Szeth]]|A flame-bladed sword with an elaborate guard and ricasso|Consumed by [[Dawnshard\|Dawnshard]]||
