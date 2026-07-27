@@ -3,6 +3,7 @@
 |**Nationality**|[[Uvara\|Uvara]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Nafti** was one of the [[Uvara\|Uvara]], a legendary society on [[Roshar\|Roshar]].
 

@@ -6,6 +6,7 @@
 |**Groups**|[[Knight Radiant\|Knight Radiant]] |
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*I’ve ... been remembering what it was like when Relador, my old knight, died. How it made me sleep for so many years, straight through the Recreance. I keep wondering, will that happen to me again?*”
 \-Sylphrena to Kaladin[1]

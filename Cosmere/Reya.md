@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*The sun hadn't quite set, but in the darkening sky, stars had begun to appear around [[Taln's Scar\|Taln's Scar]]. The Tear hung just above the horizon, a star much brighter than the others, named for the single tear Reya was said to have shed.*”
 \-Kaladin's thoughts on the Rosharan sky[1]

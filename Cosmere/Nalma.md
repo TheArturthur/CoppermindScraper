@@ -4,6 +4,7 @@
 |**Profession**|Slave|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Nalma** is a slave on [[Roshar\|Roshar]].
 

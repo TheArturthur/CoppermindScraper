@@ -5,6 +5,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Natata Ved**, also known as **Natata Oileyes** or simply **Oileyes**, was an ancient [[Jah Keved\|Veden]] scholar on [[Roshar\|Roshar]]. Her nickname was given to her by her contemporaries, but its meaning is unknown.
 Natata lived in [[Jah Keved\|Jah Keved]] two hundred years after the death of King [[NanKhet\|NanKhet]] and the founding of the [[Siln\|Siln]] dynasty. She is best known for writing a dramatized account of NanKhet's life and death, which is the earliest source of information about him to have survived to the present day.

@@ -4,6 +4,7 @@
 |**Titles**|Raninor of the Fields|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Raninor of the Fields** is a historical [[Darkeyes\|darkeyes]] figure on [[Roshar\|Roshar]].
 [[Kaladin\|Kaladin]] thinks of them among other dark-eyed [[Shardbearer\|Shardbearers]], such as [[Evod Markmaker\|Evod Markmaker]] and [[Lanacin\|Lanacin]].

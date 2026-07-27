@@ -3,6 +3,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 This article is about a [[Veden\|Veden]] citizen. For the Rosharan nation, see [[Sur\|Sur]].
 **Sur Kamar** is a [[Veden\|Veden]] on [[Roshar\|Roshar]].

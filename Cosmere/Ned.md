@@ -6,6 +6,7 @@
 |**Residence**|[[Urithiru\|Urithiru]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“*We knew Ned would go too far at some point. Everyone did. I don’t think any of us was surprised when, after she tried to drag him away from the tavern that night, he finally went over the edge.*”
 \-The All's Alley thugs' opinion on Ned's temper.[1]

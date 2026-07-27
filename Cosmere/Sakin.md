@@ -3,6 +3,7 @@
 |**Nationality**|[[Natan\|Natan]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Sakin** is a resident of a small port on the eastern edge of [[Roshar\|Roshar]].
 Sakin's village is located within the former kingdom of [[Natanatan\|Natanatan]], and Sakin is presumably [[Natan\|Natan]] like the other townsfolk, including [[Puuli\|Puuli]].

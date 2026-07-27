@@ -6,6 +6,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **NanHar** was an ancient king of [[Jah Keved\|Jah Keved]].
 He died from an illness while on campaign in what would later become [[Triax\|Triax]], and his brother [[NanKhet\|NanKhet]] inherited his throne.

@@ -4,6 +4,7 @@
 |**Groups**|[[Bridge Four\|Bridge Four]], Sadeas army , Kholin army|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Pedin** is a member of [[Bridge Four\|Bridge Four]].
 He and [[Mart\|Mart]] are killed by [[Szeth\|Szeth]] at the [[Battle of Narak\|Battle of Narak]].

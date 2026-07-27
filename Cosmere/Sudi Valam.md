@@ -8,6 +8,7 @@
 |**Nationality**|[[Veden\|Veden]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Sudi Valam** is a [[Veden\|Veden]] noble on [[Roshar\|Roshar]]. She's the daughter of [[Highprince\|Highprince]] [[Valam\|Valam]].
 

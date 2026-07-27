@@ -6,6 +6,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
 This article contains information about the Alethi highlord. For the [[Fused\|Fused]] with the same given name, see [[Rine\|Rine]]. For the Alethi highprince, see [[Hatham\|Hatham]].
 Highlord **Rine Hatham** is a [[Lighteyes\|lighteyes]] living in [[Alethkar\|Alethkar]] on [[Roshar\|Roshar]]. He is presumably related to Highprince [[Hatham\|Hatham]].

@@ -7,6 +7,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“* All wars are games. The greatest kind, with the pieces lost real lives, the prizes captured making for real wealth! This is the life for which men exist. To fight, to kill, to win.*”
 \- The Sunmaker[1]

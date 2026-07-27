@@ -5,6 +5,7 @@
 |**Species**|[[Honorspren\|Honorspren]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
 >“*Please, ask your spren. Do they know of an honorspren named Riah? She was my friend once. Precious to me.*”
 \-Leshwi to Venli[1]

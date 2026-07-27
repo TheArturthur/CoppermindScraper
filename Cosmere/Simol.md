@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“* When Simol was informed of the arrival of the [[Edgedancers\|Edgedancers]], a concealed consternation and terror, as is common in such cases, fell upon him; although they were not the most demanding of orders, their graceful, limber movements hid a deadliness that was, by this time, quite renowned; also, they were the most articulate and refined of the [[Knights Radiant\|Radiants]].*”
 \- From Words of Radiance, chapter 20, page 12[1]
