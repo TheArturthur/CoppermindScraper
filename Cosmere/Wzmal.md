@@ -5,6 +5,7 @@
 |**Ethnicity**|[[Thaylen\|Thaylen]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“* Wzmal, as good a man as any woman could dream of loving.*”
 \- From drawer 12-15, ruby, in the Urithiru gem archive[1]

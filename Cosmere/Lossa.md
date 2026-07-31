@@ -5,6 +5,7 @@
 |**Abilities**|[[Sand mastery\|Sand master]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 **Lossa** is an ancient historical figure on Taldain. She and her brother [[Kerzt\|Kerzt]] both claimed to have been visited by the [[Sand Lord\|Sand Lord]]. Lossa ended up gaining the powers of [[Sand mastery\|sand mastery]], while Kerzt did not.
 

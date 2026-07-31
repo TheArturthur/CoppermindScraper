@@ -7,6 +7,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Brightlord Wistiow** is a [[Lighteyes\|lighteyed]] [[Alethi\|Alethi]] and the citylord of [[Hearthstone\|Hearthstone]] prior to the [[Vengeance Pact\|Vengeance Pact]]. A friend of [[Lirin\|Lirin's]], Wistiow is a frail man who has one daughter, [[Laral\|Laral]]. Upon his death he leaves no male heir behind, so Citylord [[Roshone\|Roshone]] is appointed to take his place.
 

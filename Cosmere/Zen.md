@@ -4,6 +4,7 @@
 |**Ethnicity**|[[Shin\|Shin]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 For the [[Legion (series)\|Legion]] character, see [[Zen Rigby\|Zen Rigby]].
 **Zen-daughter-Vath** is a [[Shin\|Shin]] scholar.

@@ -4,6 +4,7 @@
 |**Siblings**|[[Lossa\|Lossa]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 **Kerzt** is an ancient historical figure on Taldain. Kerzt and his sister [[Lossa\|Lossa]] both claimed to have been visited by the [[Sand Lord\|Sand Lord]]. Lossa ended up gaining the powers of [[Sand mastery\|sand mastery]], while Kerzt did not.
 

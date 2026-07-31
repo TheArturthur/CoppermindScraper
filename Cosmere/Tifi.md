@@ -5,6 +5,7 @@
 |**Nationality**|[[Unkalaki\|Unkalaki]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Tifi** is an [[Unkalaki\|Unkalaki]] on [[Roshar\|Roshar]] related to [[Kef'ha\|Kef'ha]] and [[Lunamor\|Lunamor]].
 Based on Unkalaki cultural traditions, Tifi was presumably related to his [[Nuatoma\|nuatoma]] [[Kef'ha\|Kef'ha]]. Tifi and Lunamor were both part of a family group that traveled to the [[Shattered Plains\|Shattered Plains]] as part of Kef'ha's quest to win [[Shardplate\|Shardplate]] from [[Torol Sadeas\|Torol Sadeas]]. However, Sadeas murdered Kef'ha without a proper duel. Lunamor stated that Tifi and [[Sinaku'a\|Sinaku'a]] were among those killed after raising weapons in vengeance, likely after Sadeas seized Kef'ha's property and turned his family into servants.

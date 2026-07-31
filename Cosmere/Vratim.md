@@ -6,6 +6,7 @@
 |**Groups**|[[Knight Radiant\|Knight Radiant]] |
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
 **Vratim** is a [[Windrunner\|Windrunner]] on [[Roshar\|Roshar]].
 After Vratim's death during a battle several months before the evacuation of [[Hearthstone\|Hearthstone]], their spren, [[Yunfah\|Yunfah]], was the only [[Honorspren\|honorspren]] left that was willing to bond a [[Knights Radiant\|Radiant]] but did not have a bond yet.

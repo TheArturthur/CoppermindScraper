@@ -6,6 +6,7 @@
 |**Nationality**|[[Kharbranthian\|Kharbranthian]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 **Varas** is the assistant chief of collections in the [[Palanaeum\|Palanaeum]].
 He is a distant cousin of king [[Taravangian\|Taravangian]], and showed the king a drawing of [[Shallan\|Shallan's]].

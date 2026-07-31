@@ -6,6 +6,7 @@
 |**Nationality**|[[Grand\|Grand]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Emperor's Soul\|The Emperor's Soul]]*|
 
 **Kurshina** is the former Empress of the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]].
 

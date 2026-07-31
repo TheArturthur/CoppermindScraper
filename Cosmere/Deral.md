@@ -5,6 +5,7 @@
 |**Nationality**|[[Elisian\|Elisian]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 **Captain Deral** was an [[Elisian\|Elisian]] man who traveled with Duchess [[Khrissalla\|Khrissalla]] and her party to [[Dayside\|Dayside]].
 

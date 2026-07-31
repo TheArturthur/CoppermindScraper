@@ -5,6 +5,7 @@
 |**Groups**|[[Taishin\|Taishin]], [[Guild\|The Guild]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 >“*His name was Hennin. An idiot of a Lord Merchant who acquired the position unearned after two relatives died and left him separate fortunes!*”
 \-Vey[1]

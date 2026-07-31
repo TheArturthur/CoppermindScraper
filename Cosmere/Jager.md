@@ -3,6 +3,7 @@
 |**Profession**|DDF pilots|
 |**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
 Callsign **Jager** is a member of [[Nightmare Flight\|Nightmare Flight]] along with [[Nose\|Nose]], [[Tunestone\|Tunestone]], [[Sushi\|Sushi]], [[Bog\|Bog]], and [[Nord\|Nord]]..
 They graduated [[Flight School\|Flight School]] in the previous class to [[Skyward Flight\|Skyward Flight]].

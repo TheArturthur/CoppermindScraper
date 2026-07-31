@@ -3,6 +3,7 @@
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
 >“*Lie low, M-Bot. Take stock, don’t get into any fights, and wait for me here.*”
 \-Commander Spears' final orders to M-Bot[1]

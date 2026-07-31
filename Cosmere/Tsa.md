@@ -7,6 +7,7 @@
 |**Nationality**|[[Natan\|Natan]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Queen Tsa** was a ruler of the [[Silver Kingdoms\|Silver Kingdom]] of [[Natanatan\|Natanatan]] on [[Roshar\|Roshar]] at some point during the [[Heraldic Epochs\|Heraldic Epochs]]. In addition to being queen, she was an architect and designed great towers in one of her cities. She is known to some modern Rosharans through a folk tale about the Natan people.
 

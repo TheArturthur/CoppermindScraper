@@ -8,6 +8,7 @@
 |**Nationality**|[[Lossandin\|Lossandin]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 **Rile** is the father of [[Drile\|Drile]] and a [[Mastrell\|mastrell]] in the [[Diem\|Diem]]. As [[Kenton\|Kenton]] is the only mastrell who survived the attack of the [[A'kar\|A'kar's]] warrior-priests, Rile presumably died before or during that attack.
 

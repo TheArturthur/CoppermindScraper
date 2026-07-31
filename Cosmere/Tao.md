@@ -4,6 +4,7 @@
 |**Nationality**|[[MaiPon\|MaiPon]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Emperor's Soul\|The Emperor's Soul]]*|
 
 **Tao** is a [[Forger\|Forger]] in the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]].
 He was [[Wan ShaiLu\|Wan ShaiLu's]] first teacher. He taught Shai that each person was a puzzle and that a Forger wasn't a simple scam artist or trickster, but an artist who painted with human perception. He told Shai to respect the people she lied to and if she stole from them enough, she would begin to understand them.

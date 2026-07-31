@@ -3,6 +3,7 @@
 |**Profession**|Scholar|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 >“*[[Yelig-nar\|Yelig-nar]], called Blightwind, was one that could speak like a man, though often his voice was accompanied by the wails of those he consumed.*”
 \-A quote from Traxil's work[1]

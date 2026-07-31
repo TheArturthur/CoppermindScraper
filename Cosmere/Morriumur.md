@@ -7,6 +7,7 @@
 |**Species**|[[Dione\|Dione]]|
 |**Homeworld**|[[Starsight (station)\|Starsight (space station)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Starsight\|Starsight]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]*!Be aware that in its current state, it may not include all additional content yet.
 

@@ -6,6 +6,7 @@
 |**Groups**|Amaram's army|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
 [[Brightlord\|Brightlord]] **Tashlin** was a [[Lighteyes\|lighteyes]] on [[Roshar\|Roshar]].
 Tashlin was a companylord in [[Amaram\|Amaram's]] army, and Kaladin was in his company. Kaladin reported that the entire squad was killed, and a lighteyes responded that it was the third report that Tashlin had fallen.

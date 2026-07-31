@@ -4,6 +4,7 @@
 |**Residence**|[[Kholinar\|Kholinar]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Tai** is one of [[Grund\|Grund's]] friends in [[Kholinar\|Kholinar]] on [[Roshar\|Roshar]].
 

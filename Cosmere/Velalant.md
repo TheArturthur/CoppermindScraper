@@ -4,6 +4,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 >“* She would have applauded Velalant's kindness, save for his soldiers’ blatant incompetence.*”
 \- Veil[1]

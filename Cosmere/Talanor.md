@@ -4,6 +4,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 **Talanor** is an [[Alethi\|Alethi]] [[Shardbearer\|Shardbearer]] who fights on the [[Shattered Plains\|Shattered Plains]] of [[Roshar\|Roshar]] during the [[War of Reckoning\|War of Reckoning]].
 

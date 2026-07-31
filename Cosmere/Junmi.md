@@ -2,6 +2,7 @@
 |-|-|
 |**Homeworld**|Unknown|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Skyward\|Skyward]]*|
 
 >“*The warrior cannot choose her bed; she must bless the stars if she can choose her battlefield. *”
 \-A quote from Junmi’s, The Conquest of Space.[1]

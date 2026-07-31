@@ -4,6 +4,7 @@
 |**Species**|[[Heklo\|Heklo]]|
 |**Homeworld**|*Unknown*|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
+|**Introduced In**|*[[Cytonic\|Cytonic]]*|
 
 **Guntua** is a [[Heklo\|heklo]] pirate in the [[Belt\|belt]] of the [[Nowhere\|nowhere]], and is a pilot in the [[Broadsider Faction\|Broadsiders]].
 

@@ -6,6 +6,7 @@
 |**Ethnicity**|[[Darksider\|Darksider]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[White Sand\|White Sand]]*|
 
 **Skathan** is the emperor of the [[Dynasty\|Dynasty]] on the [[Darkside\|Darkside]] of [[Taldain\|Taldain]].
 

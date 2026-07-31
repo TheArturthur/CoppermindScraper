@@ -5,6 +5,7 @@
 |**Nationality**|[[Alethi\|Alethi]]|
 |**Homeworld**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
 >“*I will have no boon other than Yenev's cowardly heart on the end of my sword, Your Majesty!*”
 \-Highprince Torol Sadeas to Gavilar Kholin according to Ialai's account[1]
