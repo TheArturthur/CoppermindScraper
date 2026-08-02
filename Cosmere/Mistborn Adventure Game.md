@@ -5,7 +5,7 @@
 |**Released**|August 1, 2012|
 |**Publisher**||
 
-**The Mistborn Adventure Game** is a pen-and-paper RPG set on [[Scadrial\|Scadrial]]. It was created by [[Crafty Games\|Crafty Games]]. They have also released a number of supplementary rule books. The PDFs, supplements, and TTRPG support for the game ended in 2025 to put focus on the upcoming Cosmere RPG, making it no longer possible to get new physical copies.
+**The Mistborn Adventure Game** is a pen-and-paper RPG set on [[Scadrial\|Scadrial]]. It was created by [[Crafty Games\|Crafty Games]]. They have also released a number of supplementary rule books. The PDFs, supplements, and TTRPG support for the game ended in 2025 to put focus on the upcoming , making it no longer possible to get new physical copies.
 While Brandon was directly involved in the creation of the core rulebook, he and his team had minimal involvement during the writing of its follow-on supplements. (See Canonicity:Mistborn Adventure Game )
 
 ## Contents
