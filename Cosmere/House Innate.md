@@ -25,7 +25,7 @@ House Innate was one of the most powerful noble houses in Elendel. How the Innat
 Following the [[Catacendre\|Catacendre]] house Innate established itself as one of the major High-Houses of Elendel. They maintained seats within the city's Senate and held significant property and financial assets throughout the city. The house was known for a notorious tendency to exploit loopholes and bribery.
 
 ## Holdings and Estate
-The innates own a mansion located in one of Elendel's wealthier octants, Winsting's mansion was designed almost entirely for secrecy and security. His vault or safe room features steel doors and reinforced lockboxes. It was used to protect the houses illegal activities for discovery.
+House Innate owns a mansion located in one of Elendel's wealthier octants. Winsting's mansion was designed almost entirely for secrecy and security. His vault or safe room features steel doors and reinforced lockboxes. It was used to protect the house's illegal activities from discovery.
 
 ## Realtionships
 The house held a coveted Senate vote which was sold for vast sums of money. The main political rival of House Innate is [[House Lekal\|House Lekal]]. They compete for economic dominance and political control in Elend. The combat each others control over the city with direct  political competition.

@@ -53,7 +53,6 @@ Unlike the rest of [[Rosharan system\|Rosharan system]], Braize is based around 
 
 ## Trivia
 Some people on Roshar believe that Braize is inhabited with people.
-The Iriali never visited Braize.
 
 
 https://coppermind.net/wiki/Braize
