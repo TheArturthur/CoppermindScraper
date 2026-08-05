@@ -4,6 +4,7 @@
 |**Spouse**|[[Molly (Snapshot)\|Molly]] |
 |**Children**|[[Hal Davis\|Hal]]|
 |**Homeworld**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
+|**Introduced In**|*[[Snapshot\|Snapshot]]*|
 
 **Anthony Davis**, known simply as Davis, is a police officer in [[New Clipperton\|New Clipperton]] who focuses on investigating crimes by using [[Snapshot (event)\|Snapshots]]. He has been working in the Snapshots with his partner, [[Chaz\|Chaz]], for a few years but before working in the Snapshot Division he worked on the normal police force for ten years. During a shootout Davis had a guy in his sights but wasn't able to pull the trigger and later Perez, a fellow police officer, was shot and killed by the man who Davis could have killed. As a result, Davis began to have extreme anxiety and was recommended for Snapshot duty. 
 Davis has been divorced for six months from his ex-wife, [[Molly (Snapshot)\| Molly]]. Although the divorce means that Davis isn't allowed to see his son, [[Hal Davis\| Hal]], Davis visits his son as much as he can in the Snapshot. Davis insists on being the one to turn off the Snapshot because he knows turning off the Snapshot kills the Hal who is in the Snapshot.

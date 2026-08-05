@@ -1,6 +1,7 @@
 |***Unknown***|
 |-|-|
 |**Homeworld**|*Unknown*|
+|**Introduced In**|*[[Firstborn\|Firstborn]]*|
 
 The **High Emperor** rules the empire in *[[Firstborn\|Firstborn]]*.
 

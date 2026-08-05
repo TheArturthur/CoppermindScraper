@@ -3,6 +3,7 @@
 |**Profession**|Artist|
 |**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
 **Nenefra** is an artist from [[Nalthis\|Nalthis]] whose paintings are presented to the [[Returned\|Returned]] in the [[Court of Gods\|Court of Gods]]. Once offered, they are burned. One of his paintings somehow found its way to [[Celebrant\|Celebrant]] in [[Shadesmar\|Shadesmar]].
 

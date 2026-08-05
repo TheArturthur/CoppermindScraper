@@ -4,6 +4,7 @@
 |**Spouse**|[[Lin Yang-Tanasin\|Lin Yang-Tanasin]]|
 |**Children**|[[Paul Tanasin\|Paul]], [[Nikka\|Nikka]]|
 |**Homeworld**|[[Earth (Dark One)\|Earth (Dark One)]]|
+|**Introduced In**|*[[Dark One (franchise)\|Dark One]]*|
 
 > [!info] This page or section needs to be updated with new information for *[[Dark One Book 1\|Dark One Book 1]]*!Be aware that in its current state, it may not include all additional content yet.
 

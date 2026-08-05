@@ -3,6 +3,7 @@
 |**Spouse**|[[Kairominas\|Kairominas]]|
 |**Homeworld**|[[Alornia\|Alornia]]|
 |**Universe**|[[Wode\|Wode]] [[State\|States]]|
+|**Introduced In**|*[[Perfect State\|Perfect State]]*|
 
 >“* This is my fault, Kai. If Molly were still alive, they'd never have chosen you. The Wode only picks the unattached.*”
 \-Shale to Kai about Molly[1]

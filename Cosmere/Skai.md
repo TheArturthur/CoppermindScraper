@@ -6,6 +6,7 @@
 |**Titles**|[[Dominion\|Dominion]]|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Skai** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Dominion\|Dominion]]. Sometime after the [[Shattering\|Shattering]], he and [[Aona\|Aona]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear.
 

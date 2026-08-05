@@ -6,6 +6,7 @@
 |**Titles**|[[Devotion\|Devotion]]|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 **Aona** was the original [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Devotion\|Devotion]]. Sometime after the [[Shattering\|Shattering]], she and [[Skai\|Skai]] took up residence on [[Sel\|Sel]]. [[Edgli\|Edgli]] believes that, by doing so, they violated the original Vessels' pact to not settle on the same world as another Shard, though the exact terms of that agreement are somewhat unclear.  They were both [[Splinter\|Splintered]] by [[Odium\|Odium]] and their combined power forms the [[Dor\|Dor]].
 

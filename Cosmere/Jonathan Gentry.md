@@ -1,6 +1,7 @@
 |**Jonathan Gentry**|
 |-|-|
 |**Homeworld**||
+|**Introduced In**|*[[The Original\|The Original]]*|
 
 **Jonathan Gentry** is [[Holly Winseed (Original)\|Holly Winseed]]’s husband. He is a researcher, and does work with nanite and memory technology. He is fascinated with the phycology of checkouts.
 

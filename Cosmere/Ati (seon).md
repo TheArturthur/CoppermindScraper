@@ -6,6 +6,7 @@
 |**Species**|[[Seon\|Seon]]|
 |**Homeworld**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
+|**Introduced In**|*[[Elantris (book)\|Elantris]]*|
 
 For the original Vessel of [[Ruin\|Ruin]], see [[Ati\|Ati]].
 **Ati** is a [[Seon\|seon]] on [[Sel\|Sel]] who is bonded with [[Dashe\|Dashe]]. They are named after [[/wiki/Aon#Ati]], which means hope.

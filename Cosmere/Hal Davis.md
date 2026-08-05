@@ -3,6 +3,7 @@
 |**Family**|
 |**Parents**|[[Anthony Davis\|Anthony]], [[Molly (Snapshot)\|Molly]]|
 |**Homeworld**|[[Earth (Snapshot)\|Earth (Snapshot)]]|
+|**Introduced In**|*[[Snapshot\|Snapshot]]*|
 
 **Hal Davis** is the son of [[Anthony Davis\|Anthony Davis]]. Hal is visited by his dad in the Snapshot at the park on Ingred and Ninth. In real life, Hal hasn't been seen his dad for six months because of Anthony's and [[Molly (Snapshot)\|Molly's]] divorce.
 

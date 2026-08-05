@@ -2,6 +2,7 @@
 |-|-|
 |**Abilities**|[[Dark One (title)\|Dark One]]|
 |**Homeworld**|[[Mirandus\|Mirandus]]|
+|**Introduced In**|*[[Dark One (franchise)\|Dark One]]*|
 
 >“*Karkun's time was without number. Forever and never at all. It set the [[Narrative\|Narrative]] in motion.*”
 \-Rastik to Paul Tanasin[1]
