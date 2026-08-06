@@ -1,12 +1,15 @@
-*Esta página de  enumera artículos que tienen títulos similares.  Si un enlace interno te ha traído hasta aquí, por favor, modifica el enlace para que lleve a la página deseada.*
-El término **dragonsteel** puede hacer referencia a varias cosas:
+*This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
+The term **dragonsteel** may refer to several distinct things:
 
-[[Dragonsteel (saga)\|Dragonsteel (saga)]], una saga no publicada del [[Cosmere\|Cosmere]] sobre la Fragmentación de Adonalsium
-[[Dragonsteel Prime\|Dragonsteel Prime]], un borrador del primero libro de esta saga.
-[[Acero de drag%C3%B3n\|Acero de dragón]], un material que forma parte del cuerpo de los dragones en el Cosmere.
-[[Dragonsteel Entertainment\|Dragonsteel Entertainment]], la empresa de Brandon
-Dragonsteel Nexus (antes Dragonsteel Mini-con, DragonsteelCon, o simplemente Dragonsteel), la convención generalmente celebrada de forma anual en noviembre por Dragonsteel Entertainment como parte del lanzamiento de un libro.
-Dragonsteel, la espada de Brandon que fue encargada por varios amigos cuando se casó.
+[[Dragonsteel (series)\|Dragonsteel (series)]], an unpublished [[Cosmere\|cosmere]] series set around the Shattering of Adonalsium
+[[Dragonsteel Prime\|Dragonsteel Prime]], a trunked draft of the first book in that series
+[[Dragonsteel (metal)\|Dragonsteel (metal)]], a material that is part of the bodies of dragons in the cosmere
+[[Dragonsteel Entertainment\|Dragonsteel Entertainment]], Brandon's company
+Dragonsteel Nexus (formerly Dragonsteel Mini-con, DragonsteelCon, or just Dragonsteel), the convention generally held annually in November by Dragonsteel Entertainment as part of a book release
+Dragonsteel, Brandon's sword out of several he commissioned for friends when he got married
 
 
-https://es.coppermind.net/wiki/Dragonsteel
+
+
+
+https://coppermind.net/wiki/Dragonsteel

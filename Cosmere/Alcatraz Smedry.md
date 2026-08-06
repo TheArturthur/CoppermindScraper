@@ -40,7 +40,8 @@ This article is about the character. For the book series, see [[Alcatraz Versus
 
 4 Family. [[#Family]] 
 5 Quotes. [[#Quotes]] 
-6 Notes. [[#Notes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -193,8 +194,7 @@ His wife, Bastille Smedry, is a knight of Crystallia and a princess of Nalhalla.
 
 ## Quotes
 For a list of quotes from Alcatraz, see [[Alcatraz Smedry/Quotes\|Alcatraz Smedry/Quotes]].
-== Trivia ==libr
-
+## Trivia
 His name is a reference to the .
 Alcatraz has made up many words, such as: crapaflapnasti, stoopid, and stoopiderific
 
