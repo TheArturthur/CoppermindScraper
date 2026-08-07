@@ -129,6 +129,7 @@ She was the one who gave Wax the Hemalurgic spike earring in order to put him in
 ## Trivia
 In the original concept that evolved into *[[The Alloy of Law\|The Alloy of Law]]*, she was planned as the partner of Wayne, acting as his steed.
 She is planned to play a role in Era 3.
+The [[Mistborn Adventure Game\|Mistborn Adventure Game]] supplement Alloy of Law: Masks of the Past lists Melaan's blessing as the blessing of potency. Whether or not this is accurate information has not been confirmed.
 
 
 https://coppermind.net/wiki/MeLaan
