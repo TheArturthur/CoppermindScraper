@@ -288,6 +288,73 @@ Kaladin: "I know. But it bothers Shen. He’s one of us, so let’s keep his irr
 "
 
 
-As Rlain's bridgeleader within Bridge Four, Kaladin readily accepts him into the crew, names him "Shen," and refuses to allow the other bridgemen to mistreat him. However, Kaladin maintains some private reservations, refusing to arm him or train him in the spear. In the desperate days in Sadeas' crews, Kaladin is also forced to prioritize his people's lives over 
+As Rlain's bridgeleader within Bridge Four, Kaladin readily accepts him into the crew, names him "Shen," and refuses to allow the other bridgemen to mistreat him. However, Kaladin maintains some private reservations, refusing to arm him or train him in the spear. In the desperate days in Sadeas' crews, Kaladin is also forced to prioritize his people's lives over Rlain's wellbeing, and he creates armor from listener carapace and bones for himself, and then the entire bridge crew of 27, despite knowing how it will distress Rlain. 
+Rlain continues to serve under Kaladin after the bridge crews are transformed into a military unit for the Kholin army. Kaladin defends Rlain's right to a Bridge Four tattoo and its signifiers of freedom, but he persists in his reluctance to allow him a spear, to Rlain's deep disappointment. This gnaws at Kaladin's conscience, as in his experience, he had not tolerated being a well-treated slave. Weeks later, Kaladin eventually overcomes his reservations and presents a spear to Rlain, and Rlain often describes him as a good man from then on. When Rlain's feelings of isolation and loss are particularly acute, Kaladin is one of the rare people to step up and make a concerted effort to understand what he is going through.
+
+>“*Kaladin was a good man. For all his faults, he tried even more than the rest of them.*”
+\-Rlain appreciating Kaladin's efforts to listen[2]
+
+Though Kaladin still struggles to overcome deep-seated biases, including thinking "Shen" looks like an evil spren from stories when sitting in the shadows and feeling discomfort at seeing warform Rlain giving humans orders as they implement his system to accelerate crop growth, Kaladin makes a concerted effort to listen to him, trust his judgment, and see him for who he is. This determination is put to the test when Odium's forces invaded Urithiru, and Rlain elects to fight the resistance from within, rather than remain hidden at Kaladin's recommendation. However, Kaladin gives Rlain his trust.
+
+### Renarin
+  Rlain and <<Renarin\|Renarin>>
+>“*Rlain sipped his drink and wished Renarin were here; the quiet, lighteyed man usually made a point of speaking with Rlain. The others jabbered excitedly, but didn’t think to include him. Parshmen were invisible to them -- they’d been brought up that way.*”
+\-Rlain's musings while watching the others train[2]
+
+
+Months after Renarin joins Bridge Four, he still feels like an oddity among their number. He voices these insecurities to Rock, who helps him realize that Rlain feels the same way, but to a far greater extent, often isolated within their number due to his nature and history. From then on, Renarin makes a special point of sitting and talking with him frequently, being a friend to him, and making him feel like one of their number in truth. Rlain greatly appreciates this and misses Renarin when he is not around.  In the weeks that follow, Rlain became fiercely defensive of his friend, and when Kaladin encourages the others to be tolerant of Renarin's choice to learn to read, Rlain reiterates to himself his appreciation for Kaladin's attempts at understanding.
+
+>“*She creates in us a faction loved by neither men nor Odium. No home. No allies. She might be destroyed by either. We will need more. Like you and like me. Together.*”
+\-Glys, on the liminal status of enlightened Radiants[57]
+
+Eventually, when [[Sja-anat\|Sja-anat]] asks Renarin for any potential candidates for bonds, Renarin immediately suggests Rlain. With that vote of confidence, the enlightened [[Mistspren\|mistspren]] [[Tumi\|Tumi]], sent to evaluate [[Mraize\|Mraize]] for a bond, also spends several weeks observing Rlain's heroic qualities during the occupation of Urithiru, though he must be careful to avoid coming to Odium's attention. In the chaos of the uprising, in recognition of Rlain enjoining the humans and singers in shared purpose, Tumi names Rlain Bridger of Minds, rejects Mraize, and bonds him, making him the second-ever Enlightened Truthwatcher. Rlain wishes to seek out the surviving listeners with Venli, Leshwi, and their people, but he establishes that he needs to stay, at least until Renarin returns.
+Rlain and Renarin share the capacity for [[/wiki/Shard#Future Sight]] through their sprens' connections with [[Sja-Anat\|Sja-Anat]], and Rlain's abilities are likely to hew close to Renarin's, though there may be some variance due to his species and connection to the Rhythms. 
+[[Renarin\|Renarin]] develops romantic feelings towards Rlain, and it is possible Rlain returns these feelings.
+
+### Other Members of Bridge Four
+  Rlain watches the Windrunner squires training on the plateau
+>“*People in the tower watched him with outright hatred. His friends didn’t, but they sure did like to pat themselves on the back for that fact.*”
+\-Rlain on Bridge Four's inadvertent prejudice[2]
+
+
+When "Shen" is first assigned to Bridge Four, he is met with immediate suspicion and hostility. Most want to send him to the deadliest position in the front of the bridge, with Skar, Teft, and Moash being most firmly in favor. However, Kaladin demands he be given equal treatment, and the other bridgemen eventually fall in line. Gradually, they become accustomed to Rlain's presence, and he comes to be more or less accepted as a member of Bridge Four. Despite his second class status among the bridgemen, Rlain's bond with the crew is so profound that when freed, Rlain makes the commitment to get a forehead tattoo. When the tattooist objects, the others rally behind him, insisting he has been freed like the rest of them and threatening not to pay her if she doesn't comply.
+
+>“*They often seemed surprised to find him there, as if they'd forgotten he was around. But when Teft did notice him, the man's smile was genuine. They were his friends.*”
+\-Rlain[2]
+
+However, Bridge Four's support proves to be inconsistent. Most can be relied upon to defend him from threats outside Bridge Four, but many fall short at making him feel included among themselves, both as "Shen" and as himself. He is rarely noticed, as Rlain rationalizes that the other bridgemen were brought up to consider parshmen invisible.  None voice any objections when someone mounts several sets of carapace armor on the wall of their Kholin warcamp barracks, despite knowing how much they distress Shen, but when his true identity is revealed, Skar, Rock, and others are quick to vouch for him and defend him from nervous Kholin troops.  Bridge Four is so protective of their fellow bridgeman that Dalinar puts Teleb's men in charge of guarding him, for fear they cannot be impartial. Their advocacy helps him earn a pardon from Dalinar.
+
+>“*But for all their faults, they had succeeded in giving him a home. Because they’d been willing to try to see him for himself.*”
+\-Rlain on his Bridge Four family[20]
+
+Further, he is treated very differently from Bridge Four's human members, due to biases they had difficulty shaking. When only he, Skar, and Dabbid are unable to draw in Stormlight after weeks of practice, the other bridgemen encourage Skar to keep trying, but say nothing to Rlain, fearing that use of Stormlight will cause him to become a monster, despite his explanations that he would have to *voluntarily* choose to do so. Some conflate him with the Fused and assume that he can understand the enemy's motivations, forcing Rlain to remind them that the Fused are more the listeners' enemies than theirs. However, despite feeling invisible and something of an outsider to Bridge Four, Rlain still views its members as his family and understands that they mean well.
+
+#### Rock
+As non-combatants, Rock, Dabbid, and Lopen spend the most time with "Shen" as they gather salvage during Chasm Duty under Sadeas, then the team becomes Rock's assistants under Dalinar. Rock is consistently kind to Rlain, from delighting when his assistant musters the nerve to request seconds on stew, to encouraging Renarin to recognize the ways Rlain relates to his experience of being ostracized.
+
+#### Teft
+Rlain’s relationship with Teft is one of great extremes. When Rlain first joins Bridge Four, Teft is not shy about voicing his suspicions that the parshman could spoil or sabotage their plans to escape.  Later, when Rlain tries to stop Kaladin from scavenging from a listener corpse, Teft grabs Rlain in a choke hold to protect his bridge leader, and Kaladin orders Teft and Moash to restrain him while the bodies are looted for valuables. Teft repeatedly advocates putting Shen in the deathline at the front of the bridge to absorb enemy arrows.
+This attitude changes around the time Kaladin wears listener carapace into battle, and Teft sees Rlain's immediate reaction and his very relatable emotional agony. He advises Kaladin that Rlain may not be good for bridge runs any more.  When the bridgemen are liberated from Sadeas' crews, Teft is the first of many to speak up for Shen, defending his right to get his tattoos of freedom like the rest of Bridge Four.
+Like most of the other bridgemen socialized not to notice parshmen, Teft often overlooks Rlain, though he offers him genuine smiles when he acknowledges his presence, and Rlain considers Teft a friend.  Later, when Teft, Kaladin, and Rlain meet at a winehouse after the rest of Bridge Four departs for Emul, Teft is far more attentive to Rlain's needs. He notices the listener's difficulty flagging down a server and orders Rlain's drink for him, then asks Rlain about his experience running bridges against his own people. 
+
+>“*He bowed his head for Teft, then left him there. Let the dead rest. It was their way, and he wished to be able to give the man a proper sky burial. Teft had been a good person. One of the best.*”
+\-Rlain mourns Teft[21]
+
+When Teft is knocked unconscious by Raboniel's inversion of the Sibling's defenses, Rlain is deeply concerned, and assists Kaladin in getting him help. When Teft wakes weeks later, Rlain's joy at seeing Teft restored is a great source of strength for the older man. They plan their next course of action, then part ways to put it into effect, and the next time Rlain encounters Teft, he is dead, murdered by Moash. While only a year and a half before, Teft forcibly prevents Rlain from showing respect to a listener corpse, here Rlain mourns him as a hero, singing the Song of the Fallen, and wishing he could give the man a proper sky burial. He and Dabbid draw anguishspren. In a timely tribute, Rlain channels his best Teft impersonation to unite the humans and the rebellious singers in defense of the Radiants.
+
+#### Dabbid
+Rlain is very protective of Dabbid. During their time as the only two members of Bridge Four who haven't gained Radiant abilities, they are often set to work together. Rlain is greatly relieved to discover Dabbid is safe, and feels hurt when he discovers Dabbid can talk, claiming "Bridge Four doesn't lie to one another." Ironic, given Rlain's months hiding the truth of his identity.
+
+### Dalinar
+>“*Amazingly, he seemed to want to obey -- as if he needed something to lend him strength.*”
+\-Dalinar on Rlain after his return to the Alethi[15]
+
+Dalinar and Rlain do not have a close personal relationship, but Dalinar is the one who makes the choice to allow Rlain to be armed, and Rlain considers Dalinar to be his military commander, since he sees himself very much as part of Bridge Four and, by extension, the Kholin army. When Rlain returns to the Alethi and surrenders himself to Dalinar, he demonstrates full obedience to him and even finds strength in following his orders. In turn, Dalinar, though he remains wary of Rlain and keeps him under guard for some time, vows to help the listeners as much as possible and follows Rlain's advice during the Battle of Narak. Dalinar pardons Rlain after the battle, and Rlain is allowed to move around normally in Urithiru on his duties with Bridge Four, which include guarding Dalinar.
+
+## Trivia
+Rlain is entirely absent from the second half of *[[Oathbringer\|Oathbringer]]*, which may appear to be an error but is in fact intentional and significant.
+Though feeling an outcast, Rlain was considered for four different bonds in Rhythm of War: the honorspren [[Yunfah\|Yunfah]] (encouraged by Kaladin), the Sibling (suggested by Navani), one of Venli's Reachers (though Timbre reports Rlain is "spoken for"), and finally, the enlightened mistspren Tumi (recommended by Renarin).
+In a delightful bit of foreshadowing, the nickname "Shen" makes more sense as a shortening of "Parshendi" (the Listeners, his true identity) than "Parshman" (his disguise).
+
 
 https://coppermind.net/wiki/Shen

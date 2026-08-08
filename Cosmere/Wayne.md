@@ -337,6 +337,7 @@ Wayne collected eighty different kinds of beer bottles at one point.
 Wayne is the best lay MeLaan has ever had.
 Wayne and MeLaan engaged in bondage, wherein Wayne was bound and had a safeword.
 Wayne's finances and investments at the time of his death ended up being worth around one hundred twenty million boxings.
+The [[Mistborn Adventure Game\|Mistborn Adventure Game]] supplement Alloy of Law claims that a twinborn with Wayne’s two powers is called a “Constant.” However, this term has never been used in the actual books.
 
 
 https://coppermind.net/wiki/Wayne

@@ -12,6 +12,8 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Alloy of Law\|The Alloy of Law]]*|
 
+> [!warning] This page or section contains spoilers for *[[Shadows of Self\|Shadows of Self]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 >“*They dress in painted sequins. They drink wine. They laugh, and smile, and play, and dance, and eat, and quietly kill. All part of Harmony's plan. All actors on a stage. That's what you are too, Waxillium Ladrian. It's what all men are.*”
 \-Bleeder speaking in Wax's head for the first time.[2]
 
