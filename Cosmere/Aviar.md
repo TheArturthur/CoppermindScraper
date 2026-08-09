@@ -39,6 +39,10 @@
 4 Domestication. [[#Domestication]] 
 5 Known Varieties. [[#Known Varieties]] 
 6 History. [[#History]] 
+
+6. [[#Mass Production]] 
+
+
 7 Notable Aviar. [[#Notable Aviar]] 
 8 Trivia. [[#Trivia]] 
 9 Notes. [[#Notes]] 
@@ -121,6 +125,9 @@ On First of the Sun, Aviar had always been exported from the Pantheon exclusivel
 
 During the expedition, a scientist and explorer employed by the company named [[Vathi\|Vathi]] befriended a trapper named [[Sixth of the Dusk\|Sixth of the Dusk]] and learned several facts about the islands and Aviar that were previously unknown to the general public. Notably, Dusk told her about the fruit of Cakoban's fingers that gave Aviar their powers; Vathi was able to deduce that [[Sak\|Sak]] became a new type of Aviar despite her origins in the mainland. She was shocked by these revelations, which contradicted centuries of assumptions by the Eelakin people.
 The Company had several devices given to them by the Ones Above, including one that could detect Aviar on the islands. When some of the company opened this device on Patji, all of the Aviar became agitated, and their powers were disrupted. Dusk and Vathi eventually realized that the Ones Above desired the Aviar but were somehow prohibited from taking them from a less civilized culture. They were trying to furtively accelerate the industrial development of First of the Sun in order to skirt these rules. Dusk and Vathi vowed to try and stop them.
+
+### Mass Production
+Due to pressure from the Ones Above, Patji was developed into a settlement for Aviar breeding. Much of the dangerous wildlife was culled, and infrastructure installed for ease of access. Large Aviaries were constructed to mass-produce Aviar.
 
 ## Notable Aviar
 For a full list, see :Category: Aviar.

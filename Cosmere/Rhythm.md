@@ -144,7 +144,7 @@ Each of the [[Shard\|Shards]] Invested in Roshar has its own note, called a pure
 
 Rhythm of [[Honor\|Honor]] – a vibrant beat, stately and controlled.
 Rhythm of [[Cultivation\|Cultivation]] – stark and staccato, building up. When used in the presence of plants, lifespren will transfer Stormlight from gems into the growing plants.
-Rhythm of [[Odium\|Odium]] – violent, chaotic rhythm that becomes more logical over time.
+Rhythm of [[Odium\|Odium]] – violent, chaotic rhythm that becomes more logical over time. It can be used by humans to allow them to draw in [[Voidlight\|Voidlight]] in a similar manner to [[Fused\|Fused]] and [[Regals\|Regals]]
 Rhythm of War – a mix of Honor's and Odium's rhythms; a combination of chaotic notes and steady pulse. Following the formation of [[Retribution\|Retribution]], the [[Well of Control\|Well of Control]] vibrates with this rhythm.
 Rhythm of the Tower – a mix of Honor and Cultivation's rhythms; a mix of boundless energy and structure.
 A mix of Odium and Cultivation's rhythms; attuned once by [[Venli\|Venli]] but as of yet unnamed.
