@@ -12,7 +12,7 @@ Notable members include [[Winsting Innate\|Winsting Innate]] and former Governor
 1 Overview & Political standing. [[#Overview .26 Political standing]] 
 2 History. [[#History]] 
 3 Holdings and Estate. [[#Holdings and Estate]] 
-4 Realtionships. [[#Realtionships]] 
+4 Relationships. [[#Relationships]] 
 5 Legacy & Downfall. [[#Legacy .26 Downfall]] 
 6 Family Tree. [[#Family Tree]] 
 7 Notes. [[#Notes]] 
@@ -27,11 +27,11 @@ Following the [[Catacendre\|Catacendre]] house Innate established itself as one 
 ## Holdings and Estate
 House Innate owns a mansion located in one of Elendel's wealthier octants. Winsting's mansion was designed almost entirely for secrecy and security. His vault or safe room features steel doors and reinforced lockboxes. It was used to protect the house's illegal activities from discovery.
 
-## Realtionships
-The house held a coveted Senate vote which was sold for vast sums of money. The main political rival of House Innate is [[House Lekal\|House Lekal]]. They compete for economic dominance and political control in Elend. The combat each others control over the city with direct  political competition.
+## Relationships
+The house held a coveted Senate vote which was sold for vast sums of money. The main political rival of House Innate is [[House Lekal\|House Lekal]]. They compete for economic dominance and political control in Elend. The combat each others control over the city with direct political competition.
 
 ## Legacy & Downfall
-With Winsting murdered at auction and Replar secretly assassinated by [[Paalm\|Paalm]] the core leadership of the house was effectively wiped out. The public outrage at the exposed corruption punctuated by the arrest if the Governor destroyed what was left of the house's political reputation. Replar's death cleared the way for [[Claude Aradel\|Claude Aradel]] to take the office which shifted Elendel's political structure away from the corruption of nobility.
+With Winsting murdered at auction and Replar secretly assassinated by [[Paalm\|Paalm]], the core leadership of the house was effectively wiped out. The public outrage at the exposed corruption punctuated by the arrest of the Governor destroyed what was left of the house's political reputation. Replar's death cleared the way for [[Claude Aradel\|Claude Aradel]] to take the office which shifted Elendel's political structure away from the corruption of nobility.
 
 ## Family Tree
 House Innate family tree
