@@ -4,6 +4,7 @@
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]]|
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Truthwatchers\|Truthwatchers]]|
 |**Aliases**|Pailiah, Pali, Pala|
+|**Groups**|[[Eyes of Pala\|Eyes of Pala]]|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
@@ -67,7 +68,7 @@ Like the other Heralds, over time, she developed the ability to draw upon the po
  
 Like the other Heralds, except for [[Talenel\|Talenel]], Pralla was born on [[Alaswha\|Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [[Night of Sorrows\|Night of Sorrows]]. She served as a scholar. She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging. It is unknown if she was on the side of [[Odium's empire\|Odium's empire]] or part of the resistance faction led by [[Makibak\|Makibak]]. Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar\|Roshar]] along with a large group of survivors.
 When the [[Desolation\|Desolations]] began, she was one of the ten people made Heralds by [[Honor\|Honor]] and given a [[Honorblade\|Honorblade]]. Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations. Along with all of the Heralds but [[Taln\|Taln]], Pralla abandoned the [[Oathpact\|Oathpact]] at the end of [[Aharietiam\|Aharietiam]].
-After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the , which contains at least one Truthwatcher among its ranks.
+After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the [[Eyes of Pala\|Eyes of Pala]], which contains at least one Truthwatcher among its ranks.
 
 ## Culture
  

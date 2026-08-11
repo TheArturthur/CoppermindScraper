@@ -76,7 +76,7 @@ Rall Elorim is home to the [[Stormfalls\|Stormfalls]], a number of waterfalls cr
 The Trail of Stars is a carefully kept oral tradition spoken among many of Rall Elorim’s shoemakers. Its countless stories teach the importance of taking the correct steps along your unique life’s journey, keeping vigilant for signs along the path, and finding the proper footwear for the next leg of the Trail. Elements of the Trail’s eclectic tales have become embedded throughout the architecture of the city for those who know where to look. Out-of-place prayer statues, glyphs with strange flourishes, and arches adorned in peculiar metals might all belong to the Trail.
 
 #### The Vaults
-Below the Dirgehollow district lies a maze of tunnels and caves. They host hundreds of tombs and mausoleums dating back all the way to the earliest settlement of the city. Though a haven for historians, the tunnels are difficult to navigate and cave-ins are common. Somewhere in the deepest reaches, the Herald [[Pailiah\|Pailiah]] keeps a vault of treasured artifacts, and her  have made their base.
+Below the Dirgehollow district lies a maze of tunnels and caves. They host hundreds of tombs and mausoleums dating back all the way to the earliest settlement of the city. Though a haven for historians, the tunnels are difficult to navigate and cave-ins are common. Somewhere in the deepest reaches, the Herald [[Pailiah\|Pailiah]] keeps a vault of treasured artifacts, and her [[Eyes of Pala\|Eyes]] have made their base.
 
 ## Government
 ### Ruling council
