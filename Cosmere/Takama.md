@@ -1,5 +1,6 @@
 |**Takama**|
 |-|-|
+||
 |**Related to**|[[Vorinism\|Vorinism]]|
 |**Type**|Garment|
 |**World of Origin**|[[Roshar\|Roshar]]|

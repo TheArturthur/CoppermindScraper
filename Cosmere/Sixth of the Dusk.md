@@ -59,7 +59,7 @@ One of the most profitable skills Dusk has acquired is the breeding of [[Aviar\|
 
 ### Navigation
 After ingesting [[Luminist\|Luminist]], Dusk gained the ability to Navigate the [[Cognitive Realm\|Cognitive Realm]] using the [[Grand Knell\|Grand Knell]].  This ability not only allows him to sense the Current from the Grand Knell, but to detect islands and other land masses in the Cognitive Realm. The pulses constructively interfere with land masses they pass through, which Dusk can pick up on using his experience navigating the ocean he learned during his time as a trapper.  Dusk and the other [[Navigator\|Navigators]] sell their abilities to allow people to accurately travel through the Cognitive Realm, something that cannot be replicated by space-age navigation technology.  This ability is unique to Dusk and the other trappers due to their experience in using ocean waves' interactions with islands to navigate on [[First of the Sun\|First of the Sun]]. 
-Dusk can also use this ability to detect creatures like skullsnakes that occupy the [[/wiki/Cognitive Realm#Drominad subastral]] .
+Dusk can also use this ability to detect creatures like skullsnakes that occupy the [[/wiki/Cognitive Realm#Drominad subastral]] . Dusk is also capable of detecting kinetic [[Investiture\|Investiture]] in a similar manner that a [[Seeker\|Seeker]] can .
 
 ## History
   Dusk and <<Vathi\|Vathi>> exploring Patji

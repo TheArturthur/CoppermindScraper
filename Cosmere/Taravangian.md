@@ -258,6 +258,7 @@ On Palahanach 1175, Taravangian noticed Dalinar appear to vanish from the Spirit
 On Palahanev 1175, Taravangian continued to think on whether he should destroy Honor, and looked at the permutations of the future to see what the best course of action was.
 He began to torture [[Gavinor Kholin\|Gavinor Kholin]] in the Spiritual Realm in order to groom him into the perfect champion for the upcoming contest. He placed him through a system of visions that engrained in him a deep hatred of Dalinar Kholin, and a love for Taravangian himself, thus leaving him willing to become his champion and attempt to kill Dalinar in the contest of champions. Within the visions themselves, Gavinor experienced twenty years of this grooming, with only a few hours passing in the Physical Realm.
 
+  Retribution
 #### Day Ten and the creation of Retribution (Palahanah 1175)
 During the [[Contest of champions\|contest of champions]] between [[Dalinar Kholin\|Dalinar Kholin]] and [[Gavinor Kholin\|Gavinor Kholin]] on Palahanah 1175, Dalinar Ascended to, and then quickly gave up, the Shard of Honor. Taravangian then took it up himself, becoming the Vessel of the hybrid Shard of [[Retribution\|Retribution]].
 His actions led to Dalinar's death, and he attempted to take his Cognitive Shadow and Unmake it. But Dalinar went to the [[Beyond\|Beyond]] before he could do so. In response, he took a version of Dalinar from a vision in the Spiritual Realm, which Dalinar had previously filled with his memories, and turned it into his servant.
