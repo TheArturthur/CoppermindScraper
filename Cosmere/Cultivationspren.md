@@ -36,6 +36,7 @@
 ## Appearance
 ### Physical Realm
 In the [[Physical Realm\|Physical Realm]], cultivationspren take the form of a vine that grows rapidly. This vine appears to be speckled with smooth flecks of quartz, but it does not glow with Stormlight. They can form the appearance of a face and hands by curling vines around one another. After a time, the vine trail they leave behind solidifies, becoming like crystal before crumbling into dust.
+When their cognitive bodies are forced into the Physical Realm and they die, cultivationspren appear as pile of vines vaguely shaped like a person.
 
 ### Cognitive Realm
 In the [[Cognitive Realm\|Cognitive Realm]], cultivationspren are, like other sapient spren, humanoid. They appear to be composed mostly of vines, and their faces look as though they are composed of green string. Their hands, eyes, and teeth are made of crystal, though their hands are still as flexible as flesh.
@@ -52,7 +53,7 @@ Cultivationspren can form [[Nahel bond\|Nahel bonds]] with humans. Through this,
 ## Culture
   <<Mayalaran\|Mayalaran>>, a <<Deadeye\|deadeye>> cultivationspren
 >“*Oh, **glorious** day. Glorious! We have waited so long for the honor of men to return!*”
-\-Celebrant dock registrar[5]
+\-Celebrant dock registrar[6]
 
 
 Fittingly, cultivationspren seem to worship Cultivation more than [[Honor\|Honor]], swearing by her name and calling her Mother. They are skittery and often fearful, seeking to avoid bringing danger upon themselves. When push comes to shove, however, they can be relied on regardless of how dangerous a situation is. Many of their names are inspired by natural phenomena, particularly plant life.

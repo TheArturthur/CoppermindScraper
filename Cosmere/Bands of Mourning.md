@@ -20,6 +20,7 @@ The **Bands of Mourning** are the legendary [[Feruchemy\|Feruchemical]] bracers 
 
 
 ## Description
+  <<Marasi\|Marasi>> holding the Bands
 The Bands of Mourning are an oversized, spearhead shaped object made of all of the Allomantic metals. The different metals are interwoven into the Bands of Mourning in wavy patterns, not unlike the folds of a pattern welded blade. When first found, they stored more power than any other [[Metalmind\|metalmind]] ever before seen.
 They are a set of [[/wiki/Feruchemy#Unkeyed Metalminds]] and [[/wiki/Feruchemy#Unsealed Metalminds]] metalminds granting all Feruchemical and Allomantic abilities to their wielder.
 This was possible because [[Nicrosil\|Nicrosil]] can be filled with [[Investiture\|Investiture]], giving the tapper the ability to burn metals and tap or fill other metalminds. The amount of Investiture was such that [[Marasi\|Marasi]] actually saw the [[Mists\|Mists]] emanating from her when she used it, and [[Wax\|Wax]] believes that his abilities are like the strong Allomancy of old while he is using it.
