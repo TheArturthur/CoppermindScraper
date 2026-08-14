@@ -70,6 +70,7 @@
 
 
 ## Appearance and Personality
+ 
 ### Personality
 Ba-Ado-Mishram's personality varies greatly from before and after her imprisonment, as she was affected by the betrayal of humanity and Honor, and from her long period of isolation in the Spiritual Realm.
 

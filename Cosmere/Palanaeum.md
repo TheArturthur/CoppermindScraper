@@ -45,6 +45,7 @@ The organizational system used within the Palanaeum filing system is standard ac
 ### Early History
 At some point, there was a fire within the original Palanaeum.
 
+  <<Shallan\|Shallan>> studying in the Palanaeum
 ### 1173
 [[Jasnah Kholin\|Jasnah Kholin]] traveled to Kharbranth in the year 1173 to continue her research into the [[Voidbringers\|Voidbringers]] and [[Urithiru\|Urithiru]]. She was granted access to the library by King Taravangian after assisting in the rescue of his granddaughter, who had been trapped within the Conclave by a cave-in. During her time in Kharbranth, Jasnah adopted [[Shallan Davar\|Shallan Davar]] as her ward, having her use the Palanaeum to continue her training and study as a scholar.
 During the same year, a team of researchers began working on the translation of the [[Dawnchant\|Dawnchant]], using information gained from Dalinar Kholin's visions. Progress updates were periodically sent from the researchers to [[Kadash\|Kadash]], an ardent of [[Dalinar Kholin\|Dalinar Kholin]] whom was in contact with the [[Vorin\|Vorin]] research team and leader of Vorinism in Kharbranth. Research teams at the [[Holy Enclave\|Holy Enclave]] in [[Jah Keved\|Jah Keved]] and the [[Jokasha Monastery\|Jokasha Monastery]] on the [[Horneater Peaks\|Horneater Peaks]], also worked on the translation of the Dawnchant using the key provided by [[Navani\|Navani]].

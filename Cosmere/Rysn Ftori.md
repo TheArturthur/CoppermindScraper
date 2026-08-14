@@ -95,7 +95,7 @@ At the conclusion of the negotiations, the crew of the *Wandersail* was permitte
 As the *Wandersail* was pulling away from Aimia, Drlwan acknowledged that Rysn had put the crew before her own safety, and requested that she take the helm on their next voyage. Rysn also noticed that she saw colors better and thought that Drlwan's voice sounded more musical.
 
 ### Post-Expedition
-  Rysn sitting in front of the <<Dawnshard\|Dawnshard's>> mural in <<Akinah\|Akinah>>
+  Rysn meeting <<Hoid\|Hoid>>
 >“*But. . . Babsk. . . I had to tell *someone*. I need your wisdom, now more than ever.*”
 \-Rysn to Vstim after returning from the Aimia expedition.[22]
 

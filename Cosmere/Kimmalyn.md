@@ -146,6 +146,7 @@ When FM and Jorgen used a fighter and a hyperslug taynix to experiment with hype
 
 Not long after, Kimmalyn and Skyward Flight went to go rescue Minister [[Cuna\|Cuna]], who was stranded on the research outpost of [[Sunreach (station)\|Sunreach]] and besieged by Superiority forces. Jorgen hyperjumped them to the correct location, and they began to engage the Krell. They discovered that Sunreach was built to study a dangerous [[Mammoth starpod\|mammoth starpod]], which Kimmalyn thought looked pretty. When Jorgen was shot down during the fight and his fighter was destroyed, Kimmalyn correctly believed that Jorgen had gotten out using the taynix. Jorgen used [[Gill\|Gill]] to hyperjump FM inside the station, and Cuna wanted to leave immediately, since the Superiority ships were targeting the station's life support functions. FM refused to abandon her friends, however, and had Jorgen use the taynix to retrieve Kimmalyn and the other members of the flight. Once inside, Jorgen hyperjumped Kimmalyn, the rest of the flight, Cuna, and their assistants back to Detritus.
 
+  With Skyward Flight
 ### Helping Alanik on ReDawn
 >“*Are they feeding you algae strips? They could at least have brought you some dessert.*”
 \-Kimmalyn while visiting Alanik[45]

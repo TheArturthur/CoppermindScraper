@@ -341,6 +341,7 @@ They spent the night in a town controlled by the [[Coalition of monarchs\|Coalit
 #### Bondsmith Monastery
 
 
+  Wielding <<Division\|Division>>
 #### The Fifth Ideal
 
 Szeth refused to put up a fight until he received further details. He finally heard his father, though grimacing seemingly with anger, beseech freedom for himself and the other Honorbearers, who were being pupeteered by [[Ishar\|Ishar]]. Szeth swears his Fifth Oath but fails to bring about any change in [[Ishar\|Ishar]] as the latter had constructed a barrier that prevented any manipulation. Subsequently, he breaks his Nahel bond and separates from his spren, as he feels [[Szeth's highspren\|Szeth's highspren]] to not be suitable for him. When Kaladin swore his Fifth Oath, the burst of power that ensued allowed, to some degree, effective utilization of Nightblood's capabilities by Szeth to release the rest of the Honorbearers. Nightblood, who had been covertly conversing with Honorblades, connected to [[Kaladin\|Kaladin]] and was able to grant Lashings to Szeth. To enforce obedience and unquestioning compliance, [[Ishar\|Ishar]] forged a bond of [[Connection\|Connection]] to Szeth, Kaladin, Sylphrena and Nale to make them able to feel the darkness he perceived he held back.

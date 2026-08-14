@@ -12,6 +12,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“*Justice does not expire.*”
 \-Nale[1]
 
@@ -197,6 +198,7 @@ Nale briefly returned East for the [[Battle of Narak\|Battle of Narak]], where h
 ### True Desolation
 #### Joining the Singers
 Following the appearance of the Everstorm, Nale had a minor breakdown, leaving for parts unknown for several weeks before coming back for Szeth, dropping him off at the Skybreaker training grounds, then leaving again to seek Ishar's guidance. Whatever Ishar had told him worked well to calm Nale down, enough so that he was back to his confident self when he returned.
+At some point before leaving Ishar, he heard reports of a [[Dustbringer\|Dustbringer]] in , who had killed six [[Tukari\|Tukari]] soliders and three civillians. He obtained a signed writ from Ishar to conduct [[Vanzi\|Vanzi's]] trail. After arriving, a group of several strangers with a [[Raysium\|raysium]] knife tried to negotiate with Nale for the Dustbringer's life. It is unknown how the conversation went, or if Nale obtained the raysium knife or if Vanzi survived.
 He took all the Skybreakers with him south, to [[Marat\|Marat]]. There, he told them the truth of Aharietiam and the origins of the Desolations. Afterwards, they went further, to [[Thaylen City\|Thaylen City]], though only Nale and Szeth were present during the [[Battle of Thaylen Field\|Battle of Thaylen Field]] in Nanab ? 1174. As they watched, Nale informed Szeth that he intended for the Skybreakers to follow the singers, as they were the original owners of Roshar. However, he did not participate in the battle.
 Initially, Nale attempted to convince Szeth to do the same. When Szeth chose to follow [[Dalinar Kholin\|Dalinar Kholin]] instead, Nale had no hard feelings about it, and promised to return later to teach Szeth the [[Surge\|Surge]] of [[Division\|Division]]. He then departed, though it's uncertain where to.
 
@@ -221,7 +223,7 @@ When the time came to visit the [[Skybreaker monastery\|Skybreaker monastery]], 
 
 #### Confronting Ishar and the New Oathpact
 >“*I want to be better. I want to be that man, the one who stood against the law to defend those who deserved mercy. That is the only path to true justice.*”
-\-Nale[70]
+\-Nale[74]
 
 
 Following his breakdown at the end of his confrontation with [[Kaladin\|Kaladin]], [[Szeth\|Szeth]], and [[Syl\|Syl]], Nale revealed to them that the force possessing [[Shinovar\|Shinovar]] was [[Ishar\|Ishar]], rather than an [[Unmade\|Unmade]], and promised to assist them in confronting the other mad Herald. As the group travelled to the [[Bondsmith monastery\|Bondsmith monastery]], Nale explained Ishar's connection to the power of [[Odium\|Odium]] and told them that the monastery was located at the site of the [[Aharietiam\|Aharietiam]].
@@ -249,7 +251,7 @@ Though he leaves Taln along with the others at [[Aharietiam\|Aharietiam]], Nale 
 
 #### Ishar
 >“*You are weak, Nale. I will replace you next.*”
-\-Ishar[71]
+\-Ishar[75]
 
 
 Nale greatly respects [[Ishar\|Ishar]] and his opinions, considering the Herald of Luck to be the wisest above them. It was at Ishar's suggestion that Nale began his crusade against [[Surgebinder\|Surgebinders]], and when the [[Everstorm\|Everstorm]] comes, Nale goes to Ishar for comfort and advice. This respect extends somewhat to the [[Bondsmith\|Bondsmiths]] in general, as he has extremely high standards for what makes one worthy of the bond -- standards Ishar meets, but Dalinar doesn't. Even after waking up and realizing how wrong Ishar is, Nale remains respectful towards him.
@@ -283,7 +285,7 @@ After the confrontation at the Skybreaker monastery, Nale refuses to harm Szeth,
   Lift hugging Nale in Yeddaw
 ### Lift
 >“*Something about that child … always outside my reach, taunting me with who I used to be…*”
-\-Nale on Lift[68]
+\-Nale on Lift[72]
 
 
 Nale has been hunting Lift relentlessly for a while by the time she arrives in [[Azimir\|Azimir]] and attempts to rob the [[Bronze Palace\|Bronze Palace]], enough so for her to recognize him right away. She nicknames him Darkness, and is initially terrified of him, though when his plans to kill her fail, he departs easily enough.

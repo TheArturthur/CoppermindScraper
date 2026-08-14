@@ -18,6 +18,7 @@ A **Trailman's flute** is a musical instrument used by storytellers to aid in th
 
 
 ## Characteristics
+  <<Kaladin\|Kaladin>> using the flute
 [[Hoid\|Hoid]] and [[Kaladin\|Kaladin]] are the only people known to play the Trailman's flute. Hoid's flute is made of a very dark wood that is heavier than it looks. It is smooth and has holes along its length. It is played by holding it sideways to the mouth and blowing air over it, unlike other flutes commonly seen in [[Alethkar\|Alethkar]] that are held out downwards in front of the user. The origin of the name "Trailman's flute" is not known.
 Hoid is able to use the flute to make a wide range of sounds, from a soft, melancholy melody to fast, crisp scales or screeching high notes. He is able to use echos to simulate playing a duet with himself, and some of his melodies sound "alien" and from "another place and time".
 During his fight with [[Nale\|Nale]], Kaladin makes a Shardflute, the same design as a Trailman's flute except made of metal and more comfortable for Kaladin's use

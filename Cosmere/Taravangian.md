@@ -7,7 +7,7 @@
 |**Children**|[[Savrahalidem\|Savrahalidem]]|
 |**Descendants**|[[Gvori\|Gvori]], [[Karavangia\|Karavangia]], [[Ruli\|Ruli]], [[Taravangian's granddaughter\|Granddaughter]]|
 |**Abilities**|[[Old Magic\|Old Magic]], [[Shard\|Shard]] of [[Odium\|Odium]] , [[Shard\|Shard]] of [[Retribution\|Retribution]]|
-|**Titles**|King of [[Kharbranth\|Kharbranth]] , King of [[Jah Keved\|Jah Keved]] , [[Odium\|Odium]] , The Divided God, God of Passions, [[Retribution\|Retribution]]|
+|**Titles**|King of [[Kharbranth\|Kharbranth]] , King of [[Jah Keved\|Jah Keved]] , [[Odium\|Odium]] , The Divided One, God of Passions, [[Retribution\|Retribution]]|
 |**Aliases**|Vargo|
 |**Groups**|[[Diagram (group)\|Diagram]]|
 |**Residence**|[[Kharbranth\|Kharbranth]] (palace), [[Urithiru\|Urithiru]]|
@@ -155,6 +155,7 @@ He views the best way to operate his Shard to be making decisions based on reaso
 As Retribution he came to hold a deep hatred for those that break oaths, and those that did not believe them to be of the utmost importance. He came to experience more doubt about his more ruthless actions, and if they were in line with Honor. However, he tries to reason that his oaths and promises are kept despite such actions. Such as how he never broke his oaths to Gavinor, thus, despite his cruel treatment of him, he believes that his actions were in-line with Honor.
 
 ## Attributes and Abilities
+ 
 Taravangian has surprising knowledge of the [[Shin\|Shin]] and the Shin language, which is rare outside of [[Shinovar\|Shinovar]]. He also knows [[Women's script\|women's script]] and has solved [[Fabrisan\|Fabrisan's Conundrum]]. He is responsible for Dalinar's knowledge of how to capture a spren: giving it what it wants. This knowledge is key for Dalinar's victory over Nergaoul at the battle of [[Thaylen City\|Thaylen City]].
 
 ### Old Magic

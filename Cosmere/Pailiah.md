@@ -2,13 +2,14 @@
 |-|-|
 ||
 |**Abilities**|[[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]]|
-|**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Truthwatchers\|Truthwatchers]]|
+|**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Patron of the [[Order of Truthwatchers\|Truthwatchers]], Herald of Knowledge|
 |**Aliases**|Pailiah, Pali, Pala|
 |**Groups**|[[Eyes of Pala\|Eyes of Pala]]|
 |**Homeworld**|[[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Pralla**, known as **Pailiah** in [[Vorinism\|Vorinism]], **Pala** in [[Iriali\|Iriali]], and nicknamed **Pali**, is one of the ten [[Herald\|Heralds]] of the [[Almighty\|Almighty]] on [[Roshar\|Roshar]]. She is the patron of the [[Order of Truthwatchers\|Order of Truthwatchers]].
@@ -39,15 +40,19 @@
 
 
 ## Personality and Appearance
+For more images, see [[Pralla/Gallery\|/Gallery]].
 ### Appearance
-Pralla has tan skin, and is stated to look similar to a Veden woman. She sometimes wears green cloth garments.
+Pralla has tan skin, and is stated to look similar to a Veden woman. She has wavy black hair and jewel-like green eyes. She sometimes wears green cloth garments accented with gold.
 
 ### Personality
+>“*This is a library of sorts. These objects were crafted, held, used, loved, and passed down by those long gone. They come to us from across Roshar and the millennia. They are here so they are not forgotten.*”
+\-Pralla[6]
+
+
 She is stated to be a good person, but to be flawed in her love of secrets. Pralla is also obsessed with archiving the people, places and things she has known inside of a chamber under [[Rall Elorim\|Rall Elorim]]. In line with this obsession, she is known to steal from the people she meets, taking those objects as mementos of their fleeting lives.
 
 ## Attributes and Abilities
  
-For more images, see [[Pralla/Gallery\|/Gallery]].
 For more information about Heraldic powers, see [[/wiki/Herald#Abilities]].
 Before becoming a Herald, Pralla was a scholar.
 
@@ -68,7 +73,8 @@ Like the other Heralds, over time, she developed the ability to draw upon the po
  
 Like the other Heralds, except for [[Talenel\|Talenel]], Pralla was born on [[Alaswha\|Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [[Night of Sorrows\|Night of Sorrows]]. She served as a scholar. She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging. It is unknown if she was on the side of [[Odium's empire\|Odium's empire]] or part of the resistance faction led by [[Makibak\|Makibak]]. Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar\|Roshar]] along with a large group of survivors.
 When the [[Desolation\|Desolations]] began, she was one of the ten people made Heralds by [[Honor\|Honor]] and given a [[Honorblade\|Honorblade]]. Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations. Along with all of the Heralds but [[Taln\|Taln]], Pralla abandoned the [[Oathpact\|Oathpact]] at the end of [[Aharietiam\|Aharietiam]].
-After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the [[Eyes of Pala\|Eyes of Pala]], which contains at least one Truthwatcher among its ranks.
+After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the [[Eyes of Pala\|Eyes of Pala]], which contains at least one Truthwatcher among its ranks. One of its members, , attempted a coup, proclaiming himself the leader of the cult and tried to kill Pralla to take her place. He was killed by the companions of the late [[Taszo-son-Clutio\|Taszo-son-Clutio]], who then tried to convince Pralla to reengage with the outside world. It is unknown how the conversation went.
+
 
 ## Culture
  

@@ -7,6 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Liss**, who goes by the name of the **Weeper**, is one of the most skilled assassins on [[Roshar\|Roshar]]. As a female assassin operating in the area of [[Kholinar\|Kholinar]] in the dominantly [[Vorin\|Vorin]] region of eastern Roshar, her gender is a closely guarded secret. At one point during her career, she was hired by [[Jasnah Kholin\|Jasnah Kholin]] to spy on Jasnah's sister-in-law, [[Aesudan Kholin\|Aesudan]].
@@ -25,6 +26,7 @@
 3. [[#Early Life]] 
 3. [[#In Kholinar]] 
 3. [[#Contract on Aesudan]] 
+3. [[#Contract with the Stone Shamans]] 
 
 
 4 Trivia. [[#Trivia]] 
@@ -60,11 +62,14 @@ At some point, Liss purchased [[Szeth\|Szeth]] to be her servant. Initially she 
 
 
 In late 1167 on the night of King [[Gavilar Kholin\|Gavilar Kholin's]] assassination, Liss and Talak went to a guest room in [[Kholinar Palace\|Kholinar Palace]] to meet with Jasnah. Liss had Talak guard the door and, despite Jasnah's lateness, waited to meet with her. Jasnah had planned to have Liss assassinate Highlady [[Aesudan Kholin\|Aesudan Kholin]], wife of Highlord [[Elhokar Kholin\|Elhokar Kholin]], but had become concerned that her father was growing suspicious of her. Instead, Jasnah hired the Weeper to assume the role of a lady's maid to Aesudan. Jasnah planned to arrange for one of her sister-in-law's maids to be fired in one week's time, after which Liss was to apply for the job using falsified documents and Jasnah would ensure that she was hired. Liss's job was to watch Aesudan and report on her doings to Jasnah, until such a time that Jasnah either cancelled the contract or felt it was necessary to have Aesudan killed. Liss questioned this contract, stating that it was far more expensive to hire her for an extended observation rather than an assassination, but agreed to Jasnah's terms. 
-Immediately after the [[Assassination of Gavilar\|assassination of Gavilar]], Jasnah briefly became suspicious of Liss, but she quickly realized that Liss would never have mentioned owning Szeth if she was behind Gavilar's death.
-It is unclear if Liss remained in [[Kholinar\|Kholinar]] after [[Elhokar\|Elhokar]] became king. She was presumably never ordered to kill Aesudan, as the queen was still alive several years later.
+Immediately after the [[Assassination of Gavilar\|assassination of Gavilar]], Jasnah briefly became suspicious of Liss, but she quickly realized that Liss would never have mentioned owning Szeth if she was behind Gavilar's death. She was presumably never ordered to kill Aesudan, as the queen was still alive several years later.
+
+### Contract with the Stone Shamans
+After learning about the [[Surgebinding\|strange powers]] Szeth displayed on the night of the assassination, Liss sought out answers and eventually met the [[Stone Shaman\|Stone Shamans]] in Jah Keved. She learned about the [[Honorblade\|Honorblades]] and agreed to a contract with the shamans, acting as their eyes and ears in the [[Shattered Plains\|Shattered Plains]].
+In 1173, Liss met with the companions of the late [[Taszo-son-Clutio\|Taszo-son-Clutio]], who had taken up his mission to retrieve [[Taln\|Taln's]] Honorblade. She shared that she didn't know who had stolen the Blade, but advised the group to speak with Taln in the [[Ardent\|ardentia]] monastery, who could sense it through his [[Herald\|Heraldic]] [[Connection\|Connection]]. She didn't join them in infiltrating the monastery, as she wasn't getting paid enough to take the risk.
 
 ## Trivia
-Liss's only "on-screen" appearance to date was in the prologue of *[[Words of Radiance\|Words of Radiance]]*; her mysterious origins and possession of a Shardblade have inspired many fan theories about her true identity. Brandon has consistently responded to questions about Liss with a [[RAFO\|RAFO]].
+Liss's mysterious origins and possession of a Shardblade have inspired many fan theories about her true identity. Brandon has consistently responded to questions about Liss with a [[RAFO\|RAFO]].
 
 
 https://coppermind.net/wiki/Liss

@@ -44,6 +44,7 @@ Ym is a [[Surgebinder\|Surgebinder]] and has bonded a [[Mistspren\|mistspren]]. 
 ## History
 In his youth, he lived on the streets although he was apparently born to a family of means. He unwittingly killed a woman. He was told to deliver a bottle of wine to a woman and that the vintage was a message she would recognize. The wine, however, was poisoned and the woman died. Regretful of his actions, Ym went on to live a life free of crime. Eventually, he opened up a cobbler shop where he would often make shoes for the street urchins.
 He was killed by [[Nale\|Nale]] in his attempt of stopping the [[True Desolation\|True Desolation]] by killing new [[Knights Radiant\|Radiants]].
+He was survived by his [[Dyel's mother\|daughter]] and [[Dyel\|granddaughter]]; they moved into his shop, and his daughter would bond [[Uma\|his mistspren]].
 
 
 

@@ -41,16 +41,18 @@
 
 
 ## Appearance and Personality
+  With <<Starling\|Starling>>
 ### Appearance
 #### Human
 Like all dragons, Xisisrefliel has two main bodies, his draconic one, and his human one. In his human body, he has ebony skin, with a cool and polished sheen to it. He is bald, rightly believing that it matches well with his well tailored business suits. His eyes are silvery, chosen deliberately because of his heritage. Despite being older than the Shattering, and over ten thousand years old during the Space Age, Xisis doesn't appear like an old man.
 
- 
 #### Dragon
 In his draconic form, Xisis has black scales, silvery hair, and [[Dragonsteel (metal)\|dragonsteel]] ridges, claws and horns. He is very large, around the size of four humans standing on top of one another.
 
 ### Personality
 Xisisrefliel is an incredibly old dragon, over ten thousand years old during the Space Age. This has had its effect on him; he's an incredibly cunning dragon, and is accustomed to looking ahead, generally further then anyone else. It has also made him fairly grouchy, although the dragon [[Illistandrista\|Illistandrista]] believes that he acts worse than he actually is. He is considered to be a terrible enemy, willing to chase someone across the entire cosmere for a slight. He also considers making people live in misery far more entertaining than killing them.
+
+ 
 Xisis rejects the 'old school dragons', who spend all their time acting as gods. Rather, he is one of the dragons who wear suits, and run governments. That is not to say that he doesn't like being viewed as a god, he even has at least one whole planet worshipping him. Xisis often makes remarks about eating mortals, but he doesn't actually. He likes that there is a lot of misinformation about dragons.
 As a primary patron of the [[Silverlight\|Silverlight University]], Xisis is very interested in science, and he often goes to listen to the presentations given at the university. He is also somewhat of a researcher himself. Xisis is particularly interested in the decomposition cycle of the [[Aether\|Aethers]] that engender the seethe on Lumar. This led him to travel to the planet, setting up a home base there to do research. While there, he also attempted to master the aethers; something he has likely achieved, as he is able to control the crimson spores that make up the sea in which he made his domain and to temporarily cure people of their [[Spore eater\|spore eater]] affliction.
 As a dragon, Xisis is nearly immortal. There are a few creatures in the cosmere whom he fears however, such as an [[Elantrian\|Elantrian]] named [[Riina\|Riina]]. He also likes drinking ruby wine, and, like many others of his kind, he dislikes [[Hoid\|Hoid]]. Over his lifespan, Xisis has acquired a lot of servants. He does not like putting too much effort into training his servants, and prefers they be well-liked with a good temperament. He is rather honest, feeling no need to lie; however, he is rather imperious, and the exact truth of his statements can be warped by his own self-image. He is rather honest about the way he personally feels he treats his slaves, believing that he treats them well.

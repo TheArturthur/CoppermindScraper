@@ -64,6 +64,7 @@ He spent most of his life preparing to become the monarch of his nation, and tha
 ### King Hesho
 Hesho's kingdom took up over a third of the [[Kitsen homeworld\|kitsen homeworld]]. Three weeks before traveling to [[Starsight (station)\|Starsight]], he stepped away from the throne, becoming instead a member of the kitsen democratic assembly and a ship captain. Hesho's status as former king of his people is somewhat questionable, as he seems to bear the title in all but name, and the new senate tends to unanimously vote against his wishes in an apparent attempt to prove that they are independent. He is determined to convince all around him that he is no longer the monarch of his people.
 
+  With Skyward Flight
 ### Captain Hesho
 Hesho travels to Starsight with a contingent of around fifty of his former subjects, including his shieldbearer, [[Kauri\|Kauri]], and a senator, [[Aria\|Aria]], to prove that their race is worthy of primary citizenship within the [[Superiority\|Superiority]]. He forms a friendship with Spensa, which eventually morphs into an alliance. This alliance survives past Hesho's death at the hands of [[Brade\|Brade]] during [[Winzik\|Winzik's]] attack on [[Detritus\|Detritus]]. Kauri takes command of the [[Swims Against the Current in a Stream Reflecting the Sun\|Swims Against the Current in a Stream Reflecting the Sun]] following his death, though it is unclear whether she was formally designated as his successor as the kitsen's captain or if she simply temporarily took command until the end of the battle.
 

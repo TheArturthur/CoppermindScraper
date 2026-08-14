@@ -95,6 +95,7 @@ Following the battle, Nedd was reinstated as a DDF pilot. He accompanied Jorgen 
 \-"Call you," Nedd said. "And say, ‘Hey Arturo. Where’s the scudding eject lever?’"
 
 
+  With Skyward Flight
 Nedd met [[Arturo\|Arturo]] and [[Jorgen\|Jorgen]] at some point while the three of them were schooled in the [[Deep caverns\|deep caverns]], prior to [[Flight school\|flight school]]. By the time they all are accepted into [[Cobb\|Cobb's]] class, the three are good friends.
 Nedd has a fun natured and bickering type of relationship with Arturo, with the two often throwing friendly insults at each other and arguing over mundane topics. Arturo is used to Nedd's wisecracks and is thrown after Nedd drops out of flight school, still expecting his responses during certain beats of conversation. Nedd's relationship with Jorgen is more one sided in it's playfulness and Nedd often pokes fun at Jorgen, likely to allow the other boy to let off steam.
 Nedd and Arturo deliberately do not invite Jorgen to informal gatherings of [[Skyward Flight\|Skyward Flight]] as they believe he would not want to join the group, thus making the invitation a waste of time. It is unclear if they are correct in this thought. 

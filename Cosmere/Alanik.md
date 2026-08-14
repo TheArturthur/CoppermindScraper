@@ -109,6 +109,8 @@ Alanik, Jorgen, and Rig used a hyperslug to hyperjump Wandering Leaf just outsid
 
 
 Alanik and Arturo discussed callsigns as they approached Rinakin’s quarters, Alanik deciding that her callsign should be Angel. They used Naga to hyperjump into Rinakin’s room, and Alanik rushed in to convince Rinakin to leave with her. Rinakin acted strangely, telling Alanik to come with her, then turned on a cytonic inhibitor. Alanik realized that the person was not Rinakin, but an imposter.
+
+  With Skyward Flight
 Arturo came in and physically attacked the imposter, who turned out to be a Dione using holographic technology stolen from [[M-Bot\|M-Bot]]. The Dione told them that Rinakin was already gone. Alanik and Arturo returned to their ships and chased after the ship that was transporting the real Rinakin, fighting off several Unity pilots. During the battle, Alanik killed an enemy pilot for the first time, which shocked her. She managed to hook the ship with Rinakin with her light hook, then teleported the ship, along with herself and Arturo, back to Wandering Leaf. On the deck of Wandering Leaf, she fought off Rinakin’s guards by hyperjumping them away and abandoning them, then rescued Rinakin from his bonds. She caught him up on events, and Arturo comforted Alanik about killing someone.
 
 ### Defeating the Unity Faction
