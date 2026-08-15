@@ -94,7 +94,7 @@ This ability lets them reshape things other than stone, but not flesh or anythin
 [[/wiki/Surgebinding#Tension]] allows them to alter the stiffness of an object. Stonewards are able to control the hardness of an object, allowing them to harden clothing into weapons or armor and walk on top of liquids. Much like Cohesion, Tension is highly resisted by [[Investiture\|Investiture]].
 
 ### Shardplate Abilities
-Stonewards' [[Shardplate\|Shardplate]] is formed of [[Bindspren\|bindspren]]. The glow of their [[Shardplate\|Shardplate]] is amber.
+Stonewards' [[Shardplate\|Shardplate]] is formed of [[Bindspren\|bindspren]]. The glow of their Shardplate is amber.
 
 ## History
 ### The Ancient Radiants

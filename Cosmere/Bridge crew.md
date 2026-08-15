@@ -31,7 +31,7 @@ The bridge crews are later transferred to the control of [[Highprince\|Highprinc
  
 ### Origins
 The unique geography of the Shattered Plains required the armies to cross many chasms to reach the battlefields. Highprince [[Torol Sadeas\|Torol Sadeas]] employed a large number of bridgemen to transport his army's temporary bridges. The bridgemen were also used as cannon fodder for the [[Parshendi\|Parshendi]] bowmen.
-The bridgemen were split into 40 bridge crews, each carrying one bridge. Each bridge crew was comprised of approximately 35-40 men. The most notable crew was [[Bridge Four\|Bridge Four]]: initially known for being the worst crew with the highest casualty rate, they are later noted for their excellence and innovation to bridge warfare while under the command of Kaladin.
+The bridgemen were split into 40 bridge crews, each carrying one bridge. A bridge was roughly 30 feet long and 8 feet wide. Each bridge crew was comprised of approximately 35-40 men. The most notable crew was [[Bridge Four\|Bridge Four]]: initially known for being the worst crew with the highest casualty rate, they are later noted for their excellence and innovation to bridge warfare while under the command of Kaladin.
 
 ### Organization
 [[Gaz\|Gaz]] was the bridge sergeant, reporting directly to Brightlord [[Lamaril\|Lamaril]]. After Lamaril is executed, Brightlord [[Avarak Matal\|Matal]] takes nominal command of the unit, although his wife Brightness [[Hashal\|Hashal]] is the one who is actually commanding the unit. Within each bridge crew, the men appointed their own bridge leader, but they lacked an overall command structure or allegiance to anything except their own self-preservation.

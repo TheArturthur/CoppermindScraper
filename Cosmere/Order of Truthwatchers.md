@@ -122,7 +122,7 @@ Modern Truthwatchers are few and far between, scattered around the world rather 
 [[Stump\|Stump]], or Arshqqam (bonded to [[Dreaming-though-Awake\|Dreaming-though-Awake]])
 [[Rlain\|Rlain]] (bonded to [[Tumi\|Tumi]])
  (bonded to )
- (bonded to )
+[[Kaiana\|Kaiana]] (bonded to )
 
 ## Quotes
 >“*Now, as the Truthwatchers were esoteric in nature, their order being formed entirely of those who never spoke or wrote of what they did, in this lies frustration for those who would see their exceeding secrecy from the outside; they were not naturally inclined to explanation; and in the case of Corberon's disagreements, their silence was not a sign of exceeding abundance of disdain, but rather an exceeding abundance of tact.*”

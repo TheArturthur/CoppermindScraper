@@ -18,6 +18,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page is part of the March 2025 objectives!It has been claimed by User: kingofredpandalions, please contact them before doing edits.
 **Navani Kholin** is an [[Alethi\|Alethi]] [[Lighteyes\|lighteyes]] living on [[Roshar\|Roshar]]. She is a member of the [[Order of Bondsmiths\|Order of Bondsmiths]] and bonded to the [[Sibling\|Sibling]]. She is the widow of [[Gavilar Kholin\|Gavilar Kholin]] and the mother of [[Jasnah\|Jasnah]] and [[Elhokar Kholin\|Elhokar Kholin]]. She was the sister-in-law to [[Dalinar Kholin\|Dalinar Kholin]] and aunt to [[Adolin\|Adolin]] and [[Renarin Kholin\|Renarin Kholin]] until she married Dalinar. She is also a renowned scholar and [[Artifabrian\|artifabrian]].
 
