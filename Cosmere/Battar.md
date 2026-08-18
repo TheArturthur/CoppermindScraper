@@ -21,6 +21,10 @@
 1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
+
+3. [[#The Diagram]] 
+
+
 4 Culture. [[#Culture]] 
 5 Trivia. [[#Trivia]] 
 6 Notes. [[#Notes]] 
@@ -41,6 +45,8 @@ She seems to be fairly knowledgeable, being ascribed the attribute of Wise, and 
  
 Battar was born on [[Ashyn\|Ashyn]] and made the trip to Roshar during the [[Expulsion\|Expulsion]]. She was someone important in the pre-[[Desolation\|Desolations]] society -- a queen, scholar, or general. Along with the others, she approached [[Honor\|Honor]] and formed the [[Oathpact\|Oathpact]]. Whenever a Desolation ended, she'd travel along with them to [[Braize\|Braize]], where she suffered torture until one of them broke. She broke at least once, starting a new Desolation.
 Eventually, she and the other Heralds grew exhausted with this endless cycle of war and torture. When [[Ishar\|Ishar]] suggested that one person might be enough to hold the [[Oathpact\|Oathpact]], she and the others abandoned [[Taln\|Taln]] to his fate, leaving their [[Honorblade\|Honorblades]] behind. From then on out, they hid among the human populace. Most of her actions in the intervening four and a half millennia are unknown.
+
+### The Diagram
 As Dova, she approached [[Taravangian\|Taravangian]] and warned him of a coming [[Desolation\|Desolation]], which prompted him to seek out [[Szeth\|Szeth]] after King [[Gavilar\|Gavilar's]] assassination. She has since been assisting the [[Diagram (group)\|Diagram]]. Sometime prior to Taravangian seizing the throne of [[Jah Keved\|Jah Keved]], she reported that the frequency of [[Death Rattle\|Death Rattles]] had been declining further, hinting at [[Moelach\|Moelach's]] movement. She was later assigned with writing an anonymous essay revealing [[Dalinar\|Dalinar]] and [[Elhokar\|Elhokar's]] decision to make the former a highking, to undermine Dalinar's authority along with the revelations of the translated [[Eila Stele\|Eila Stele]]. With the fulfillment of the Diagram Taravangian instructed his followers to no longer trust Battar as he feared for her mental state after seeing the other Heralds.
 According to [[Gavinor\|Gavinor]], Battar visited [[Aesudan Kholin\|Aesudan Kholin]] more than once, and he recognizes her as 'Aunt Dova' while in the Spiritual Realm with Dalinar and Navani. It is likely that this was taking place shortly prior to the Siege of Kholinar, as, due to his young age (five at the time of the vision), he would not retain memories from much earlier.
 After Taravangian's ascension to [[Odium\|Odium]], Battar is positioned to rule Kharbranth from the shadows. She seems to have abandoned morality for greed and corruption as demonstrated by her conversation with Odium and the treasures she keeps with her including “Priceless paintings, jeweled vases, [and] bars of aluminum”. Odium recruits her to switch allegiances in return for both her general service and "specifically, the art with [[Crystal spike\|crystal spikes]]" that allows a person to sense investiture. She puts this art to use for him soon after, [[Hemalurgy\|putting spikes through the eyes]] of the blinded [[Moash\|Moash]]; this allows him to see investiture and, specifically, spren.

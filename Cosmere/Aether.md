@@ -87,7 +87,7 @@ Midnight aether manifests as a black—possibly sentient—sludge known as “[[
 Midnight aether’s quasi-sentience and willingness to serve has led to its use in various places throughout the Cosmere. Some people on Lumar use it to spy , and it was used by Riina during her habitation of Lumar as the first line of defense to protect her tower in the Midnight Sea. Midnight essence is known to have been used by the [[Voidbringer\|Voidbringers]] on [[Roshar\|Roshar]] during the [[Desolation\|Desolations]].
 
 ### Crimson
-Crimson aether manifests as giant red spikes, but that is the sum total of what we know about the aether, it is unknown whether these spikes are organic, mineral, or something else entirely; it is unknown if or how it is utilized anywhere in the cosmere, and it is unknown whether it is present on any planets other than Lumar. Its spores are red in color.
+Crimson aether manifests as giant red spikes,, which were later revealed to be coral. It is unknown if or how it is utilized anywhere in the cosmere, and it is unknown whether it is present on any planets other than Lumar. Its spores are red in color.
 
 ### Sunlight
 Sunlight aether manifests as fire (light and heat), and are used in multiple pieces of Lumaren equipment, such as ovens and flare guns.

@@ -46,7 +46,7 @@ Though nowhere as large—in either muscle or fat—as his brother [[Kiin\|Kiin]
 He is not only a traditionalist, but a scholar himself. He is well aware of the ancient meaning of the Aon, and has remarked on occasion that he finds the choice particularly accurate when applied to his daughter.
 
 ## Attributes and Abilities
-He is an honest man, smart and politically saavy, but he was an absolutely horrible businessman; he kept a fleet of accountants to manage the royal finances. He is a better king than his brother would have been. He has a Seon named Dio.
+He is an honest man, smart and politically saavy, but he was an absolutely horrible businessman; he kept a fleet of accountants to manage the royal finances. He is a better king than his brother would have been. He has a [[Seon\|Seon]] named Dio.
 
 ## History
 ### Path towards becoming King of Teod

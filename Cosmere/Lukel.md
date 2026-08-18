@@ -40,7 +40,7 @@ Lukel is a very good merchant; when he closes a good deal, he becomes proud, jov
 He is a remarkably good merchant; one of the most successful ones in the city which grants him open invitation to the court.
 
 ## History
-Lukel is [[Daora\|Daora]]´s son from a previous marriage. He and his full brother [[Adien\|Adien]] were adopted by Kiin who takes full parental responsibility.
+Lukel is [[Daora\|Daora's]] son from a previous marriage. He and his full brother [[Adien\|Adien]] were adopted by Kiin who takes full parental responsibility.
 He studied at [[Svordish University\|Svordish University]], where he met his future wife [[Jalla\|Jalla]].
 He was part of Raoden’s group who opposed the King and his policies. After Raoden’s supposed death, he continued to participate in the meetings, but was disappointed to see a low participation rate . He shared this information with Sarene, who asked to join the meetings. He helped her have a seat in the meetings where he participated and suggested caution. He agreed with moving forward with planning.
 Lukel decided to see [[Sarene\|Sarene]]´s fencing lesson to the women of the court. As always, he teased her, but was an encouraging support for her.
