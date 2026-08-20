@@ -161,7 +161,9 @@ Sent corrupted [[Windspren\|windspren]] to [[Taravangian\|Taravangian]] so that 
 \-Traxil, line 33 - Jasnah's notebook[7]
 
 
-**[[Yelig-nar\|Yelig-nar]]**, also known as **Blightwind**, differs from the other Unmade. Instead of having a specific physical appearance, he is capable of joining with humans or singers who swallow his gemstone, granting them command of the [[Surge\|Surges]]. [[Hessi\|Hessi's]] research indicates this may include all ten Surges, though given the Voidbringers' view of the Surge of [[Adhesion\|Adhesion]], Yelig-Nar may only grant the other nine. Those he possesses have red eyes, grow crystals from their bodies, and appear to be wreathed in a black wind. Those that join with Yelig-nar must control him if they do not wish to be consumed by him.
+**[[Yelig-nar\|Yelig-nar]]**, also known as **Blightwind**, differs from the other Unmade. Instead of having a specific physical appearance, he is capable of joining with humans or singers who swallow his gemstone, granting them command of the [[Surge\|Surges]]. [[Hessi\|Hessi's]] research claims that Yelig-nar grants all surges, but in reality he grants only nine. This could explain why the [[Fused\|Fused]] view the Surge of [[Adhesion\|Adhesion]] as an "untrue surge." Those he possesses have red eyes, grow crystals from their bodies, and appear to be wreathed in a black wind. Those that join with Yelig-nar must control him if they do not wish to be consumed by him.
+Joining with Yelig-nar eventually hollows out the host’s chest and replaces their organs—including their heart— with an enormous gemstone that glows with Odium’s light. If that gem is destroyed, the host is killed and
+Yelig-nar escapes from their body.{{rpg ref|slwg|236}
 
 ## Trivia
 The names of the Unmade are derived from deities of Near Eastern pantheons, and H.P. Lovecraft's ; however, the powers and characteristics of the Unmade do not necessarily match those of their nominal inspirations. Suspected associations are:

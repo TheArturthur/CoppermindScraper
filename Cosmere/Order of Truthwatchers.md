@@ -121,7 +121,7 @@ Modern Truthwatchers are few and far between, scattered around the world rather 
 [[Rahel\|Rahel]] (bonded to an unknown mistspren)
 [[Stump\|Stump]], or Arshqqam (bonded to [[Dreaming-though-Awake\|Dreaming-though-Awake]])
 [[Rlain\|Rlain]] (bonded to [[Tumi\|Tumi]])
- (bonded to )
+[[Ylt\|Ylt]] (bonded to [[Tyche\|Tyche]])
 [[Kaiana\|Kaiana]] (bonded to [[Horizons-Ever-Drifting\|Horizons-Ever-Drifting]])
 
 ## Quotes

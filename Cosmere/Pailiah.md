@@ -58,7 +58,7 @@ Before becoming a Herald, Pralla was a scholar.
 
 ### Surgebinding
 #### Odium Surges
-Before becoming a Herald, she possessed prolonged life and decelerated aging due to the effects of the Surges granted to her by [[Odium\|Odium]].
+Before becoming a Herald, she possessed prolonged life and decelerated aging due to the effects of the Surges granted to her by [[Odium\|Odium]]. Additionally, she was also granted the power of future sight.
 
 #### Honor Surges
 As a wielder of an [[Honorblade\|Honorblade]], a fragment of Honor, she has access to two Surges. Her powers manifest as the Surges of Progression and Illumination.
@@ -71,10 +71,9 @@ Like the other Heralds, over time, she developed the ability to draw upon the po
 
 ## History
  
-Like the other Heralds, except for [[Talenel\|Talenel]], Pralla was born on [[Alaswha\|Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [[Night of Sorrows\|Night of Sorrows]]. She served as a scholar. She was granted Surges, be it by Honor or Odium, which tremendously slowed her aging. It is unknown if she was on the side of [[Odium's empire\|Odium's empire]] or part of the resistance faction led by [[Makibak\|Makibak]]. Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar\|Roshar]] along with a large group of survivors.
+Like the other Heralds, except for [[Talenel\|Talenel]], Pralla was born on [[Alaswha\|Alaswha]] and was likely involved in the territorial wars that ravaged the planet between eight thousand and seven thousand one hundred years before the [[Night of Sorrows\|Night of Sorrows]]. She served as a scholar. She was granted Surges by Odium, which tremendously slowed her aging. On Ashyn, she served "Passion," which was likely Odium. Following the scouring of Alaswha, renamed Ashyn, by the Surges, she made the trip to [[Roshar\|Roshar]] along with a large group of survivors.
 When the [[Desolation\|Desolations]] began, she was one of the ten people made Heralds by [[Honor\|Honor]] and given a [[Honorblade\|Honorblade]]. Sometime during the Desolations, Pralla, along with her Truthwatchers, worked to preserve human knowledge between the Desolations. Along with all of the Heralds but [[Taln\|Taln]], Pralla abandoned the [[Oathpact\|Oathpact]] at the end of [[Aharietiam\|Aharietiam]].
-After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the [[Eyes of Pala\|Eyes of Pala]], which contains at least one Truthwatcher among its ranks. One of its members, , attempted a coup, proclaiming himself the leader of the cult and tried to kill Pralla to take her place. He was killed by the companions of the late [[Taszo-son-Clutio\|Taszo-son-Clutio]], who then tried to convince Pralla to reengage with the outside world. It is unknown how the conversation went.
-
+After Aharietiam, Pralla created a large chamber under Rall Elorim, where she alone began archiving the people and places she had known during her immortal life. Slowly however, her passion fell into obsession. To help her with her goals, she created a secret society, the [[Eyes of Pala\|Eyes of Pala]], which contains at least one Truthwatcher among its ranks. One of its members, [[Ylt\|Ylt]], attempted a coup, proclaiming himself the leader of the cult and tried to kill Pralla to take her place. He was killed by the companions of the late [[Taszo-son-Clutio\|Taszo-son-Clutio]], who then tried to convince Pralla to reengage with the outside world. It is unknown how the conversation went.
 
 ## Culture
  
