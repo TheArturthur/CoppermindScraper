@@ -136,7 +136,7 @@ During the True Desolation, roughly twenty Lightweavers surfaced and joined the 
 [[Gaz\|Gaz]] (bonded to an unknown Cryptic)
 [[Red (Roshar)\|Red]] (bonded to [[Array\|Array]])
 [[Elhokar\|Elhokar]] (initiated a Nahel bond with [[Design\|Design]], but didn't finish saying the First Ideal)
-[[Dulac\|Dulac]] (bonded to )
+[[Dulac\|Dulac]] (bonded to [[Cluster\|Cluster]])
 
 ## Trivia
 Getting a 100% Lightweaver score on the  requires a set of answers detailed .

@@ -149,7 +149,7 @@ Beyond this, Flowing Ones can also use the Surge of Abrasion externally in simil
 ### Magnified Ones (Yazed-im)
 
 The *Yazed-im* (rough translation: Those Ones of Magnification), colloquially known as the Magnified Ones, are the brand of Fused who can use the [[/wiki/Surge#Progression]].
-*Yazed-im* are large, broad-shouldered, heavily muscled and tall, standing a head taller than even the tallest humans. They are among the largest and bulkiest of Fused brands. They are compared to walking mountains. They also have some of the most extensive carapace among the Fused, covering almost their whole bodies (except the face) and acting almost as full plate armor. Spikes grow out of their carapace on their shoulders, back, and head. They typically don't have hair on their head, but can grow beards.
+*Yazed-im* are large, broad-shouldered, heavily muscled and tall, standing a head taller than even the tallest humans. They are among the largest and bulkiest of Fused brands. They are compared to walking mountains. They also have some of the most extensive carapace among the Fused, covering almost their whole bodies (except the face) and acting almost as full plate armor. Spikes grow out of their carapace on their shoulders, back, and head. They typically don't have hair on their head, although some males grow beards.
 Among Odium's forces, Magnified Ones typically serve as heavy infantry. They can also be used as living siege weapons, breaking through lines and battlements with ease. They are, however, tactically adept, and can use their powers to grow their carapace in clever ways, to trap their opponents and counter their equipment.
 
 #### Abilities

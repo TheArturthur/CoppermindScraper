@@ -166,7 +166,7 @@ Spren are far more extensive and numerous than the closest comparable entities, 
 
 
 6. [[#The Unmade]] 
-6. [[#Grey Remnant]] 
+6. [[#Gray Remnant]] 
 
 
 7 Myths and Lore. [[#Myths and Lore]] 
@@ -798,8 +798,9 @@ The Unmade are:
 **[[Re-Shephir\|Re-Shephir]]** - known as the Midnight Mother. She can create [[Midnight Essence\|Midnight Essence]], monsters that mimic the creatures around them. Has been nesting in [[Urithiru\|Urithiru]] until [[Shallan\|Shallan]] banishes her; her current whereabouts are unknown.
 **[[Sja-anat\|Sja-anat]]** - one of the intelligent Unmade, once called the Taker of Secrets. She can "enlighten" spren, corrupting them with Odium's Investiture. In the present, she appears to be unwilling to continue working with Odium, and is looking for a way to switch sides.
 **[[Yelig-nar\|Yelig-nar]]** - sometimes called the Blightwind. He's capable of bonding with people who swallow a gemstone containing him, granting them the use nine [[Surge\|Surges]]. Was present at the [[Battle of Thaylen Field\|Battle of Thaylen Field]], although the Fused presumably took him back when they withdrew.
-### Grey Remnant
-The Grey Remnant resides underneath [[Rathalas\|Rathalas]], and has slumbered there for thousands of years. [[Vorinism\|Vorin]] priests hid his existence to prevent people from seeking his knowledge, as they considered it to be to close to predicting the future. The Grey Remnant appears as dozens of emaciated hands and he has a low, raspy voice.
+### Gray Remnant
+For more information, see [[Gray Remnant\|Gray Remnant]].
+The Gray Remnant resides underneath [[Rathalas\|Rathalas]], and has slumbered there for thousands of years. [[Vorinism\|Vorin]] priests hid his existence to prevent people from seeking his knowledge, as they considered it to be to close to predicting the future. The Gray Remnant appears as dozens of emaciated hands and he has a low, raspy voice.
 He is related to the Nightwatcher, and refers to her as his mother. Due to being mostly forgotten, he is much weaker and less coherent than he was in the past. To try and counteract this, he will exchange information for a painful truth, which he hopes will [[Connection\|Connect]] him with others.
 
 ## Myths and Lore

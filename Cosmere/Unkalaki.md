@@ -70,7 +70,7 @@ They make use of a different calendar than the Vorin calendar, with their first 
 ### Other
 At one point, [[Rock\|Rock]] tells [[Bridge Four\|Bridge Four]] about the Unkalaki dueling system, saying that the two men would drink [[Mudbeer\|mudbeer]] and sing until one of them gives up. The point is that by the end of the duel, no one will recall why they were fighting.
 Unkalaki names are usually entire sentences in the form of poems, which makes them hard to remember for people who are used to [[Alethi\|Alethi]] names. Insults with similar rhyme and structure as the poem name of the insulted party are valued especially highly in conflicts among Horneaters.
-Rock wears a beard style called *humaka'aban*, which he says is the pride of every Unkalaki. Kaladin describes it as long sideburns that curve down to the chin. The chin itself and the area around the lips are cleanly shaven. Rock seems reluctant to the idea that other people besides Horneaters could wear the beard style.
+Rock wears a beard style called *humaka'aban*, which he says is the pride of every Unkalaki. Kaladin describes it as long sideburns that curve down to the chin. The chin itself and the area around the lips are cleanly shaven. Rock seems reluctant to the idea that other people besides Horneaters could wear the beard style. Horneater fashion may be surprising to foreigners, who expect their homeland to be freezing. Due to the Horneater oceans however, their homeland is warm. This is reflected in their fashion, which has an almost tropical flair. They are known to wear kilts.
 Unkalaki engage in trade with inhabitants of [[Shadesmar\|Shadesmar]], and [[Aluminum\|aluminum]] is one of the commodities they have received. In fact, there is a clan of Horneaters that lives in Shadesmar, including a handful that reside in [[Lasting Integrity\|Lasting Integrity]] during the time of the fortress' isolationist policy.
 
 ### Architecture and farming
@@ -81,7 +81,7 @@ Unkalaki villages are generally configured in wedge shapes around the oceans to 
 The Unkalaki received their common name "Horneaters" due to their ability to eat the hard shells of crustaceans. [[Rock\|Rock]] ascribes this ability to their unusually strong teeth, but it is due to the extra jaw pieces at the back of their mouths. Unkalaki cuisine utilizes less spices than [[Alethi\|Alethi]] cuisine. One stew recipe that Rock divulges consists only of "Take everything you have, and put him in pot. Don’t let anyone airsick touch seasonings." Besides soups, Unkalaki also eat root vegetables, roast geese for special occasions and hunt animals such as [[Chull\|chulls]], in addition to providing meat, the chull shells and horns are consumed as a source of supplemental minerals.
 
 >“*Your food here, it has so many spices that you cannot taste anything else. Might as well be eating stones powdered with pepper!*”
-\-Rock to Kaladin and Teft[29]
+\-Rock to Kaladin and Teft[30]
 
 
 #### Drink
@@ -90,7 +90,7 @@ In general, Horneater beverages have a quite sharp and immediately overpowering 
 ## Politics
 ### Government
 >“*The nuatoma, they see our lack of Shards as a great shame. They want these weapons very badly. It is believed that the nuatoma who first obtains a Shardblade would become king, a thing we have not had for many years. No peak would fight another peak where a man held one of the blessed Blades.*”
-\-Rock to Kaladin and Teft[29]
+\-Rock to Kaladin and Teft[30]
 
 The Unkalaki are organized in clan-like social structures. The leaders of these clans are called [[Nuatoma\|Nuatoma]]. The relatives of a Nuatoma serve him and act as his household. Although most Unkalaki clans are patriarchal, a few mountains are governed by nuatomas of other genders. Nuatomas regularly leave the Horneater homeland in attempts to win Shards in duels with [[Shardbearer\|Shardbearers]]. The first Nuatoma to win a Shardblade would become the king of the Unkalaki. It is unclear if Nuatomas are fourth sons or if their position excludes them from the normal profession system.
 Farming and chull hunting are the main industries of the Horneater Peaks. The nation’s economy is largely closed, since transporting large quantities of produce and animal products down steep, icy mountainsides is neither feasible nor lucrative. As a result, liquor is the only major export of the Horneater Peaks. The beverage known as [[Horneater white\|Horneater white]] is famous for having one of the highest alcohol concentrations of all the libations on Roshar.
@@ -150,7 +150,7 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 *Fal’ala’liki’nor* - He who drew the [[Bow of Hours\|Bow of Hours]] at the dawn of the new millennium, heralding the years of change. A title used to refer to Lunamor.
 *holetental* - Likely related to the [[Knights Radiant\|Radiants]] or spren.
 >“*Is not thing to learn. Is of the *holetental*. For him only.*”
-\-Lunamor on Kaladin's Surgebinding[50]
+\-Lunamor on Kaladin's Surgebinding[51]
 
 
 *humaka'aban* - A beard style. Long sideburns that curve down to the chin. The chin itself and the area around the lips are cleanly shaven.
@@ -180,7 +180,7 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 *tuli’iti’na* - it appears this translates to "foolish lowlander talk"
 *tuma'alki* - likely translates to "weak" or "of poor quality".
 >“*Spices they have for us to requisition are *tuma'alki*!*”
-\-Rock[40]
+\-Rock[41]
 
 
 *Ula'makai* - Captain
@@ -193,7 +193,7 @@ Unulukuak'kina'autu'atai - One of [[Shallan\|Shallan's]] aliases, meaning yet un
 *umalakai'ki*
 *umarti'a* - A cousin of someone.
 >“*Umalakai'ki! Kama mohoray namavau—*”
-\-Lunamor's exclamation when Kaladin awakens [52]
+\-Lunamor's exclamation when Kaladin awakens [53]
 
 
 ## Trivia

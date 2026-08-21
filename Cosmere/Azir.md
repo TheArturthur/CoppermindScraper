@@ -177,6 +177,9 @@ Due to this, religion, the monarchy, and certain levels of bureaucracy are deepl
 Scions typically travel across the country, blessing settlements and towns. For this reason, a scion cannot become the Prime Aqasix, although they are intimately involved in the selection process. During the holy conclave that chooses a new Prime, they are called upon to ensure the spiritual purity of the selection, provide theological viewpoint on the process, and assist the viziers in picking the best candidate.
 
 ### Fashion
+>“*When it comes to bold patterns and beautiful layering, Azir's clothiers are second to none.*”
+\-Adolin Kholin[58]
+
 The Azish are known for wearing vibrant, colorful clothing. They are usually seen in robes or wraps, and wear large hats, making them seem over-encumbered. Each article of clothing has traditional large patterns on it, called hokra. Every pattern has a meaning of its own, and a trained scribe can read a person's clothes like a language. The complex patterns woven into the clothing of government officials reflect both their specific rank within the government structure and their family heritage. Their fashion is heavily influenced by civil servant outfits. Azish people may also wear traditional knives as a fashion statement.
 Despite their garish appearance, Azish fabrics seem to be quite popular even in the East. Among others, [[Dalinar Kholin\|Dalinar Kholin's]] childhood home was decorated with Azish rugs, and [[Alethkar\|Alethi]] fashion folios feature Azish designs. A distinctive type of mineral dye from Azir is used to color their clothing, and is known in other nations.
 

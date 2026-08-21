@@ -320,33 +320,5 @@ The Unkalaki have their own religion. Their religion is polytheistic, with a set
 
 ### Architecture
 #### Manors and estates
-Jah Keved has many isolated estates. These estates are generally made up of a manor, the residence for the lighteyed owners, a separate servants’ building, a guardhouse and a large garden. These estates of Jah Keved lack most of the more recent discoveries in architecture and engineering like storm cisterns. Generally, Veden architectural styles are very close to Alethi styles. A typical manor is built after the Veden ideal, tall and imposing. They are often built of square stone blocks and contain small windows, with the walls being dappled by dark lichen. Almost all of the manors have large dining halls for feasts, these halls have numerous tables, with the most important one called the high table.
-
-#### Greenery
-The Vedens love greenery, they decorate their gardens with cultivated vines and rows of shalebark. These plants are often cut and trimmed into shapes. The current architectural fashion includes having a number of rare plants placed in a jumble. Buildings often have plants draping them and falling from windows.
-
-## Economy
-#### Currency
-As with many other nations on Roshar, their economy is based upon [[Spheres\|glass spheres with cut polestones in their center]], known simply as spheres. In the mint, they check sphere weights in order to see if they fell into the proper categories. The value of polestones, and thus the worth of sphere denominations in their economy, is based around the value of the substances a polestone can transmute another substance into.
-
-#### Merchants and trading routes
-The northern city of [[Northgrip\|Northgrip]] is very important to Jah Keved’s economy. Many goods eventually pass through Northgrip. There are a lot of merchants that bring goods from Northgrip to the rest of the country. A lord who wishes to make use of the roads for trade needs to pay for the patrols and maintenance of said roads. This money is given back to the villages where the materials are harvested or made. Like in other Vorin countries, aside from lighteyes, only [[Darkeyes\|darkeyes]] of the first and second [[Nahn\|Nahn]] can become merchants. These merchants often use [[Chull\|Chulls]] for the transport of their goods. The chulls are harnessed and controlled with complex leather bridles. Lighteyes sometimes engage in trade deals with each other, hoping to get favor with lighteyes of a higher Dahn.
-
-#### Foreign Trade
-Many of the goods produced by the Vedens eventually goes abroad. The Vedens also import many things from abroad. Among the exported goods are rare and expensive floral dyes. Jah Keved has trade treaties in place with [[Alethkar\|Alethkar]], which allows the Vedens to trade for cheap. The Veden agricultural industry is fairly robust.
-
-## Notable citizens
-For a full list, see :Category:Veden.
-
-[[Shallan Davar\|Shallan Davar]], the first [[Order of Lightweavers\|Lightweaver]] of the new generation of [[Knights Radiant\|Knights Radiant]]
-The rest of the [[House Davar\|Davar household]], including the father, [[Lin Davar\|Lin]], as well as his four sons [[Wikim\|Wikim]], [[Jushu\|Jushu]], [[Balat\|Balat]] and [[Helaran\|Helaran]]
-[[Malata\|Malata]], a [[Dustbringer\|Dustbringer]] Radiant in service of the [[Diagram (group)\|Diagram]]
-[[Valam\|Valam]], a Veden Highprince-turned-King and the liege lord of the Davars
-[[Hanavanar\|Hanavanar]], a Veden king, whose death caused the Jah Keved civil war
-
-## Trivia
-At 5.5 million square kilometers of land, Jah Keved is a little over half the size of the United States.
-[[Szeth\|Szeth]] hid one of Gavilar's [[Black sphere\|black spheres]] somewhere in Jah Keved.
-
 
 https://coppermind.net/wiki/Veden
