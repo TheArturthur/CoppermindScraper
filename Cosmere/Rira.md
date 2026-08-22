@@ -5,4 +5,7 @@ The name Rira has multiple meanings in the [[Cosmere\|cosmere]].
 [[Rira (country)\|Rira]] was a nation on [[Roshar\|Roshar]] during the [[Era of Solitude\|Era of Solitude]].
 
 
+
+
+
 https://coppermind.net/wiki/Rira

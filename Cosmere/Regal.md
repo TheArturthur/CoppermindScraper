@@ -102,11 +102,11 @@ A singer in Direform is more obedient to Odium and their Fused commanders, even 
 Direform Regals typically stand over seven feet tall, covered in thick plates of stacked, interlocking carapace resembling a full suit of plate armor. These plates are covered in wicked, curved spikes, especially on the head and shoulders. Direforms have no hairstrands, as their carapace covers most of their head—along with the rest of their body, leaving gaps only at their joints and face.
 
 
-They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are stronger than most allies and enemies, but they are no match for Shardplate. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters.
+They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are stronger than most allies and enemies, but they are no match for Shardplate. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters. Many Direform soldiers use [[Rira\|Riran]] [[Spiked shield\|spiked shields]] in combat.
 
 ### Nightform
 >“*Nightform predicting what will be, / The form of shadows, mind to foresee. / As the gods did leave, the nightform whispered. / A new storm will come, someday to break. / A new storm a new world to make. / A new storm a new path to take, the nightform listens.*”
-\-17th stanza of the Song of Secrets[61]
+\-17th stanza of the Song of Secrets[62]
 
 
 A singer becomes a Nightform Regal by bonding with a [[Nightspren\|nightspren]]. Nightform Regals act as battle strategists and guards.
@@ -137,11 +137,11 @@ If a person pierces their heart with the gemheart, the Shadowform Regal will tak
 
 ### Smokeform
 >“*Smokeform for hiding and slipping between men. / A form of power, like human Surges. / Bring it 'round again. / Though crafted of gods, / It was by Unmade hand. / Leaves its force to be but one of foe or friend.*”
-\-127th stanza of the Song of Histories[73]
+\-127th stanza of the Song of Histories[74]
 
 
 >“*Smokeform for hiding and slipping 'tween men. / A form of power—like Surges of spren / Do we dare to wear this form again? It spies. / Crafted of gods, this form we fear. / By Unmade touch its curse to bear, / Formed from shadow—and death is near. It lies.*”
-\-51st stanza of the Song of Secrets[74]
+\-51st stanza of the Song of Secrets[75]
 
 
 Nothing is known of smokeform beyond its mentions in the songs of the listeners, which imply that this form may grant some sort of ability to hide or move nimbly.

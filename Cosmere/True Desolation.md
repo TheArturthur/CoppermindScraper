@@ -60,7 +60,7 @@ Meanwhile, some [[Voidspren\|voidspren]] were laying the groundwork for the Fuse
 ### The Battle of Narak
 For more information, see [[Battle of Narak\|Battle of Narak]].
 During the [[Battle of Narak\|Battle of Narak]], on Ishishach 1173, the stormform singers used its power to summon a new storm of Odium, known as the [[Everstorm\|Everstorm]]. Much like the [[Highstorm\|highstorm]], it continually rounds the planet, though in the opposite direction.
-The Everstorm restored Connection and Identity to the singers and allows the Fused to be reborn in the body of a singer as it passes over a region.
+The Everstorm restored Connection and Identity to the singers and allows the Fused to be reborn in the body of a singer as it passes over a region. As the  began, the [[Fused\|Fused]] assimilated the [[Rira\|Riran]] [[Spiked shield\|spiked shield]] into their military and began [[Soulcasting\|Soulcasting]] them for their new soldiers.
 
 ## Forging the Coalition
 Following the Battle of Narak and the human occupation of Urithiru, some time in Jesnan 1174, Dalinar Kholin forged the [[Coalition of monarchs\|Coalition of monarchs]], he began to contact monarchs from all across Roshar to try and get them to join the offensive against the Fused armies. The primary focus was upon nations that contained Oathgates, due to their strategeic importance. It was also around this point that the war between Emul and Tukar came to a halt as the new, greater threat diverted their focus and brought an end to their fighting.
