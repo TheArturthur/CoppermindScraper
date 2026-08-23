@@ -9,7 +9,7 @@
 \-Vin, thinking of Shan Elariel[1]
 
 
-**House Elariel** is a [[Noble\|Noble]] Great House of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].. At the beginning of the Mistborn series it is the third most powerful Great House. Members include [[Shan Elariel\|Shan Elariel]], a Mistborn from [[Luthadel\|Luthadel]] and [[Idkwyl Elariel\|Idkwyl Elariel]]. Shan was once engaged to [[Elend Venture\|Elend Venture]]. House Elariel also had the services of at least one other Mistborn, who may or may not have been a member of the family.
+**House Elariel** is a [[Noble\|Noble]] Great House of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. At the beginning of the Mistborn series it is the third most powerful Great House. Members include [[Shan Elariel\|Shan Elariel]], a Mistborn from [[Luthadel\|Luthadel]] and [[Idkwyl Elariel\|Idkwyl Elariel]]. Shan was once engaged to [[Elend Venture\|Elend Venture]]. House Elariel also had the services of at least one other Mistborn, who may or may not have been a member of the family.
 
 ## Contents
 

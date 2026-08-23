@@ -51,7 +51,7 @@ The paired alloy of aluminum used in the Metallic Arts is [[Duralumin\|duralumin
 6. [[#Pre Catacendre]] 
 6. [[#Nalthis 2]] 
 6. [[#Roshar 2]] 
-6. [[#Post Catacendre]] 
+6. [[#Post Catacendre Scadrial]] 
 6. [[#Lumar 2]] 
 6. [[#Space Age]] 
 
@@ -132,8 +132,8 @@ During the expedition to Aimia, [[Rushu\|Rushu]] is tasked by [[Navani\|Navani]]
 This experimentation accidentally resulted in a series of modified fabrials in which the mechanism contained bits of aluminum foil that blocked certain functions, but not all. Among these were a spanreed that transferred lateral motion, but not vertical; a lift to permit [[Rysn\|Rysn]] to move between decks of the *[[Wandersail (1174 ship)\|Wandersail]]* and a number of "wheelchair" fabrials which levitated and permitted [[Rysn\|Rysn]] to maneuver while seated using a partially aluminum-blocked counterweight. These are particularly useful due to a known drawback of motion-transferring fabrials caused by a moving frame of reference (e.g. a moving ship at sea communicating by spanreed to shore).
 Odium's forces later lined their weapons in aluminum to protect against Shardblades. Before the True Desolation, during the Alethi [[War of Reckoning\|War of Reckoning]], an aluminum arrowhead was worth about three hundred marks.
 
-### Post Catacendre
-A significant percentage of the aluminum in the [[Elendel Basin\|Basin]] is produced by the [[Ghostbloods\|Ghostbloods]]. [[Dean\|Dean]], the Scadrian branch's chemist, believes that the Scadrians would one day discover how to create it via electrolysis, and that the value would plummet to being cheaper than [[Tin\|tin]]. The Ghostbloods have been using their aluminum to fund their operations for the past two decades. During 342 [[Catacendre\|PC]] and 348 [[Catacendre\|PC]], due to advances in aluminum production technology and processes, Scadrian aluminum dropped in price, though it still remained expensive and unaffordable to most people.
+### Post Catacendre Scadrial
+A significant percentage of the aluminum in the [[Elendel Basin\|Basin]] is produced by the [[Ghostbloods\|Ghostbloods]]. [[Dean\|Dean]], the Scadrian branch's chemist, believes that the Scadrians would one day discover how to create it via electrolysis, and that the value would plummet to being cheaper than [[Tin\|tin]]. The Ghostbloods have been using their aluminum to fund their operations for the past two decades. During 342 [[Catacendre\|PC]] and 348 [[Catacendre\|PC]], due to advances in aluminum production technology and processes, Scadrian aluminum dropped in price, though it still remained expensive and unaffordable to most people. Some people in the Basin believe that aluminum stops harmful electric rays like it does Allomancy.
 
 ### Lumar
 Aluminum lined rooms and boxes are used to protect [[Aether spores\|Aether spores]] from [[Silver\|silver]].
