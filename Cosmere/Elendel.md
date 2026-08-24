@@ -170,9 +170,9 @@ Bourton district
 Tindwyl Promenade
 [[ZoBell Tower\|ZoBell Tower]]
 The [[Drunken Spur\|Drunken Spur]]
-[[Dampmere Park\|Dampmere Park]]
 Feder Way Street
 Seventy-Third Street
+[[Ahlstrom Tower\|Ahlstrom Tower]]
 #### Fifth Octant
 [[Cett mansion\|Cett mansion]]
 [[Longard\|Longard]]
@@ -186,6 +186,8 @@ Demoux Promenade
 Northside sixth
 [[Calour Publications\|Calour Publications]]
 [[Briggs %26 Sons\|Briggs & Sons]]
+[[Gold Button Bar\|Gold Button Bar]]
+[[Shywood Hall\|Shywood Hall]]
 #### Seventh Octant
 Inner seventh
 [[Marksman\|Marksman's]] hideout
@@ -195,7 +197,6 @@ Merchant Docks
 #### Eighth Octant
 The Eight Octant doesn't contain any known notable buildings or locations.
 #### Other Places
-[[Ahlstrom Tower\|Ahlstrom Tower]]
 [[Coolerim Playhouse\|Coolerim Playhouse]]
 [[Counselor's Cup\|Counselor's Cup]]
 [[Feder Tower\|Feder Tower]]
@@ -213,7 +214,7 @@ By 342 [[Catacendre\|PC]], many older noblemen feel that they can say whatever t
 
 #### Cuisine, Sports, Music and Art
 The people of Elend enjoy a wide variety of foods and drinks. One popular drink is called Vif Sparkle Tonic. They also drink coffee. The Malwish cuisine had a large impact on Elendel cuisine, and by 348 [[Catacendre\|PC]] Elendel enjoyed hot chocolate from the Malwish. Popular snacks include [[Pectin-Ade\|Pectin-Ade]]. They also eat Malwish pastries, such as cinnamon puffs. Another common dish is noodles. Some people in the city also enjoy Roughs food, like stew and beans. They also eat chocolate. Hotel food is generally considered to be bad. Elendel is considered by many to have good alcoholic drinks. Elendel's alcohol is often strongly flavoured, smoky and complex. A famous brand of wine, advised by the celebrity [[Jak\|Jak]], is called [[Chamblis Montreau\|Chamblis Montreau]].
-The people of Elendel enjoy a wide variety of songs and types of music. A well known song is called [[The Last Breath\|the Last Breath]]. Street musicians are also common in Elendel. Brass music isn't really a thing in Elendel. The harp is a common instrument. The people also use graffiti. A common sport played in Elendel is called [[Noseball\|Noseball]]. There are also rifle and shooting clubs around the city. Additionally, after the invention and spread of the automobile, young lords and ladies began racing each other in the streets. They also bet on the outcomes of these races, and while the constabulary tries fining them, the young aristocracy often finds ways to dodge the constables, like paying street urchins to lead the constables away from a certain area at a predetermined time. The first official street racing circuit was established in 341 [[Catacendre\|PC]] at the old fairgrounds abutting the Irongate River. Explorers can join the [[Elendel Explorer's League\|Elendel Explorer's League]]. There are a number of stories about travelling to [[Marsh\|Death's]] domain.
+The people of Elendel enjoy a wide variety of songs and types of music. There are a variety of popular orchestras, such as the [[Hot Tin Orchestra\|Hot Tin Orchestra]]. A well known song is called [[The Last Breath\|the Last Breath]]. Street musicians are also common in Elendel. Brass music isn't really a thing in Elendel. Common instruments include: harps, woodwinds, drums, horns and clarinets. Although it is frowned upon, some bands make use of Allomancy to boost their performance to the next level. The people also use graffiti. A common sport played in Elendel is called [[Noseball\|Noseball]]. There are also rifle and shooting clubs around the city. Additionally, after the invention and spread of the automobile, young lords and ladies began racing each other in the streets. They also bet on the outcomes of these races, and while the constabulary tries fining them, the young aristocracy often finds ways to dodge the constables, like paying street urchins to lead the constables away from a certain area at a predetermined time. The first official street racing circuit was established in 341 [[Catacendre\|PC]] at the old fairgrounds abutting the Irongate River. Explorers can join the [[Elendel Explorer's League\|Elendel Explorer's League]]. There are a number of stories about travelling to [[Marsh\|Death's]] domain.
 
 #### Languages and Accents
 Most people speak a language called skaa. This language is likely the same, or related to, the language spoken by the people in the Final Empire. Some Terris people also speak the Terris language, which was revived due to considerable efforts from the Terris Originators. Besides these two spoken languages, another language is used to write important legal documents. This language is called [[High Imperial\|High Imperial]], and it is used as a scholarly and formal language. People from the different octants have their own accents.

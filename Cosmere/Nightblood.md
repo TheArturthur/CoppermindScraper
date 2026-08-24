@@ -112,7 +112,7 @@ When used, its effects are somewhat similar to those of Shardblades, but much mo
 After learning [[Surgebinding\|Surgebinding]] from the [[Honorblade\|Honorblades]], Nightblood is able to use all ten Surges, as well as grant them to their wielder. Using this, Nightblood is able to forge Connections to those beside their wielder, to drain Investiture from them so as not to kill their wielder.
 
 ## History
-  Wielded by Vasher
+  Wielded by <<Shashara\|Shashara>>
 ### Nalthis
 #### Creation
 Nightblood was created in collaboration between [[Vasher\|Vasher]] and [[Shashara\|Shashara]], [[Returned\|Returned]] lovers and two of the [[Five Scholars\|Five Scholars]]. Shashara, a very talented [[Awakener\|Awakener]], has some feelings of envy after [[Yesteel\|Yesteel]] invents [[Ichor-alcohol\|ichor-alcohol]], so she begins experimenting with steel. She eventually discovers a method to Awaken steel and give it sentience, although she and Vasher do not fully understand how this is possible. She reaches the Ninth [[Heightening\|Heightening]] and uses a thousand [[BioChromatic Breath\|Breaths]] and a very difficult visualization to Awaken a sword with the [[Command\|Command]] "Destroy Evil." However, the sword had no concept of evil, and so the Breaths it inherited decided evil was "someone who would try to take the sword and use it for evil purposes; selling it, manipulating, and extorting others, that sort of thing."

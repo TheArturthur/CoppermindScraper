@@ -1,5 +1,6 @@
 |**Shashara**|
 |-|-|
+||
 |**Family**|
 |**Spouse**|[[Vasher\|Vasher]]|
 |**Siblings**|[[Denth\|Denth]]|

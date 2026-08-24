@@ -5,7 +5,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 > [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
-**Raysium** is the [[God Metal\|God Metal]] associated with the Shard of [[Odium\|Odium]]. Its name is presumably derived from [[Rayse\|Rayse]], the original [[Vessel\|Vessel]] of Odium. It is rare and available only to a select few amongst Odium's forces. Its name may change to taravangium due to the death of [[Rayse\|Rayse]] and the Ascension of [[Taravangian\|Taravangian]].
+**Raysium** is the [[God Metal\|God Metal]] associated with the Shard of [[Odium\|Odium]]. Its name is presumably derived from [[Rayse\|Rayse]], the original [[Vessel\|Vessel]] of Odium. It is rare and available only to a select few amongst Odium's forces.
 
 ## Contents
 

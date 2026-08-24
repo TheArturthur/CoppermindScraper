@@ -1,7 +1,7 @@
 |**House Elariel**|
 |-|-|
 |**Type**|Family|
-|**Era**|[[Final Empire\|Final Empire]]|
+|**Era**|[[Final Empire\|Final Empire]], [[Catacendre\|Catacendre]]|
 |**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -9,7 +9,7 @@
 \-Vin, thinking of Shan Elariel[1]
 
 
-**House Elariel** is a [[Noble\|Noble]] Great House of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. At the beginning of the Mistborn series it is the third most powerful Great House. Members include [[Shan Elariel\|Shan Elariel]], a Mistborn from [[Luthadel\|Luthadel]] and [[Idkwyl Elariel\|Idkwyl Elariel]]. Shan was once engaged to [[Elend Venture\|Elend Venture]]. House Elariel also had the services of at least one other Mistborn, who may or may not have been a member of the family.
+**House Elariel** is a [[Noble\|Noble]] Great House of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. At the beginning of the Mistborn series it is the third most powerful Great House. Members include [[Shan Elariel\|Shan Elariel]], [[Idkwyl Elariel\|Idkwyl Elariel]] and [[Kwylliam Elariel\|Kwylliam Elariel]]. Shan was once engaged to [[Elend Venture\|Elend Venture]]. House Elariel also had the services of at least one other Mistborn, who may or may not have been a member of the family.
 
 ## Contents
 
@@ -31,7 +31,7 @@
 
 ## Holdings
 #### Trade and Finances
-House Elariel was an incredibly rich and powerful House during the Lord Ruler’s reign. As a Great House, the Elariels control a large part of imperial trade. The Elariels were also allowed to buy a stipend of Atium from the Lord Ruler. After the Catacendre, House Elariel was a major player in the fashion industry, and they had multiple shops, with their flagship store in [[Elendel\|Elendel]]. House Elariel also hosted the [[Elariel Yearly Spring Salon\|Elariel Yearly Spring Salon]].
+House Elariel was an incredibly rich and powerful House during the Lord Ruler’s reign. As a Great House, the Elariels control a large part of imperial trade. The Elariels were also allowed to buy a stipend of Atium from the Lord Ruler. After the Catacendre, House Elariel was a major player in the fashion industry, and they had multiple shops, with their flagship store in [[Elendel\|Elendel]]. House Elariel also hosted the [[Elariel Yearly Spring Salon\|Elariel Yearly Spring Salon]]. They also owned [[Foundation Chronicle\|Foundation Chronicle]], founded by [[Kwylliam Elariel\|Kwylliam Elariel]].
 
 #### Keep Elariel
 The Elariels also have a large keep. Keep Elariel is smaller than Keep Venture, but it has a separate party ballroom. The ballroom building is squat, and is one of several lower wings extending from the main keep. Guests are required to climb steps in order to enter the ballroom. The ballroom is only a single story high, and all of the stained glass windows are in the ceiling. The circular rose-window skylights shine from above, lit by small lime-lights on the roof. Each table is set with candles, and despite the light from above, there is a reserved darkness around the room. To Vin, it seems private, despite the numerous people attending the ball. The room is obviously designed to accommodate parties. A sunken dancing floor lies at the center of the ballroom, where the lighting is better. There are two tiers of tables circling the dance floor: the first tier is only a few feet above, while the other is farther back and about twice as high. The deep crystalline colors from above project patterns across tables and people, creating an impressive atmosphere, yet making it difficult to distinguish faces.
