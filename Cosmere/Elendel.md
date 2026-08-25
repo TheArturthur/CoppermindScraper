@@ -205,6 +205,7 @@ The Eight Octant doesn't contain any known notable buildings or locations.
 [[Margothian District\|Margothian District]]
 [[Silver Voyager club\|Silver Voyager club]]
 [[Stardial Row\|Stardial Row]]
+[[Monogram\|Monogram]]
 
 ## Culture
 ### People
@@ -254,8 +255,8 @@ Most companies are owned or semi owned by noble houses. Noble houses deal in all
 
 ### Trade
 #### The Basin and the Roughs
-Most of Elendel's trade is done with the rest of the Basin. The goods are generally transported by way of railway or canal. Elendel uses  ships to trade by way of the sea. By 348 [[Catacendre\|PC]], many ships still lacked radios. Elendel is largely reliant on the food, such as grain, produced in the east of the Basin to feed it's population, and although they have warehouses, interruptions in this trade often causes riots and unrest. Additionally, Elendel imports ice from the mountains along the Basin's edges. By 342 [[Catacendre\|PC]], this ice had become cheaper then ever before. A loaf of bread in Elendel costs about five clips.
-Elendel also engages in trade with the [[Roughs\|Roughs]]. Elendel exports food to the Roughs. In turn, the Roughs export metals back to Elendel. The two nations also exchange people, largely by railway.
+Most of Elendel's trade is done with the rest of the Basin. The goods are generally transported by way of railway or canal. Elendel uses  ships to trade by way of the sea. By 348 [[Catacendre\|PC]], many ships still lacked radios. Elendel is largely reliant on the food, such as grain, produced in the east of the Basin to feed its population, and although they have warehouses, interruptions in this trade often cause riots and unrest. Additionally, Elendel imports ice from the mountains along the Basin's edges. By 342 [[Catacendre\|PC]], this ice had become cheaper then ever before. A loaf of bread in Elendel costs about five clips.
+Elendel also engages in trade with the [[Roughs\|Roughs]]. Elendel exports food to the Roughs. In turn, the Roughs export metals back to Elendel. The two nations also exchange people, largely by railway. Elendel imports seafood from [[New Tremredare\|New Tremredare]].
 
 #### The South
 Starting with the discovery of the Southern Scadrians in 342 [[Catacendre\|PC]], Elendel began trading with the South. The Malwish gifted the Elenders three skimmers and a handful of meddallions, while Elendel granted them access to a few Allomancers. In 350 [[Catacendre\|PC]], the Malwish Consortium forbade the trade of most types of goods, including harmonium, to the North. Beside the exchange of goods, the two regions also exchanged culture. The Malwish cuisine had a large impact on Elendel cuisine, and by 348 [[Catacendre\|PC]] Elenders enjoyed hot chocolate from the Malwish. They also imported Malwish pastries, such as cinnamon puffs.

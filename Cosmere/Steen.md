@@ -13,6 +13,10 @@
 
 1 Geography. [[#Geography]] 
 2 Politics. [[#Politics]] 
+
+2. [[#Economy]] 
+
+
 3 Culture. [[#Culture]] 
 4 History. [[#History]] 
 5 Trivia. [[#Trivia]] 
@@ -24,8 +28,12 @@ Steen has an area of around 156,000 km, making it one of the smallest Rosharan n
 It is situated on the southwestern coast of Roshar, and is surrounded on three sides by the [[Aimian Sea\|Aimian Sea]] and the [[Southern Depths\|Southern Depths]]. It shares a border only with [[Liafor\|Liafor]].
 
 ## Politics
-Steen is possibly ruled by a group of merchants known as the 'merchant lords'. They are also known to have a prince. The general attitude of the merchant lords is exemplified by the Steen saying, “If there are two mercenaries at a party, pay both twice.” They believe that if their enemy is equally matched, a battle is better fought with spheres than blades. As a result, quarrels with other Azish Empire states can typically be resolved by adjusting export prices to coax them into cooperation.
+Steen is possibly ruled by a group of merchants known as the 'merchant lords'. They are also known to have a prince.
+In place of a military, the government hires returned mercenaries who have proven themselves abroad. The general attitude of the merchant lords is exemplified by the Steen saying, “If there are two mercenaries at a party, pay both twice.” They believe that if their enemy is equally matched, a battle is better fought with spheres than blades. As a result, quarrels with other Azish Empire states can typically be resolved by adjusting export prices to coax them into cooperation.
 It is a member state of the Azish Empire, so the Steen defer to [[Azir\|Azir]] and the [[Prime Aqasix\|Prime Aqasix]]. Though they are able to act independently in most of their operations. In place of a military, the government hires returned mercenaries who have proven themselves abroad. 
+
+### Economy
+Seasilk farming, textile treatment, and dye production are Steen’s primary industries. The lucrative seasilk trade begins by harvesting that white plant fiber, which grows atop the ocean and resembles moss. Seasilk harvesters travel on wide, shallow boats using an oar to paddle and a blade to cut through seasilk tangles. The finest strands of seasilk are woven into smooth, lustrous fabric for nobility, while the coarser strands are made into a nubby canvas-like material better suited for soldiers and artisans.
 
 ## Culture
 The people from Steen wear their beards wrapped in a cord-like style, like bundled [[Seasilk\|seasilk]] after a harvest. Most people born in Steen never leave, and those who do typically become migrating laborers for hire, such as sailors or mercenaries.

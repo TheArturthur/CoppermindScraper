@@ -1,10 +1,11 @@
+> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+
 |**Physical Realm**|
 |-|-|
 ||
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
-
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 >“*And if you’ll accept a little advice, stay in Shadesmar. The Physical Realm is not a welcoming place these days.*”
 \-Ico[1]
@@ -55,7 +56,7 @@ There are hundreds of inhabited star systems in the cosmere. But even beyond the
 |[[Threnodite system\|Threnodite system]]|**[[Threnody\|Threnody]]**, a world disturbed by the death of [[Ambition\|Ambition]], where the inhabitants persist after death as [[Shade\|shades]].|
 |[[Rosharan system\|Rosharan system]]|**[[Roshar\|Roshar]]**, **[[Braize\|Braize]]**, and **[[Ashyn\|Ashyn]]**; the battlefields between [[Honor\|Honor]], [[Cultivation\|Cultivation]], and [[Odium\|Odium]].|
 |[[UTol system\|UTol system]]|**[[UTol\|UTol]]**, an ocean world populated by [[Sho Del\|Sho Del]].  **[[Komashi\|Komashi]]**, where inhabitants used [[Hion\|hion]] lines to survive the [[Shroud\|Shroud]].|
-|Yolish system|**[[Yolen\|Yolen]]**, the location of the Shattering of Adonalsium, the source of the [[Shards\|Shards]], and the original homeworld of humanity, [[Dragon\|Dragons]], and [[Sho Del\|Sho Del]].|
+|Yolish system|**[[Yolen\|Yolen]]**, the location of the Shattering of Adonalsium, the source of the [[Shards\|Shards]], and the original homeworld of humanity, [[Dragon (cosmere)\|Dragons]], and [[Sho Del\|Sho Del]].|
 
 ### Other Galactic Features
 The **[[Scar\|Scar]]** is a grouping of red stars that go by many names on various planets throughout the cosmere.

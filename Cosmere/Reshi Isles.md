@@ -45,6 +45,7 @@ One of the smaller islands is home to the [[Ardent\|ardents]] [[Geranid\|Geranid
 6. [[#The True Desolation]] 
 
 6. [[#The Coalition]] 
+6. [[#Awakened Singers]] 
 
 
 
@@ -132,6 +133,8 @@ This conflict did not fully dissuade the Reshi from engaging in border skirmishe
 ### The True Desolation
 #### The Coalition
 The Coalition invited the Reshi king Ral-na and his son to [[Urithiru\|Urithiru]] to talk and show them around.
+
+#### Awakened Singers
 The enslaved singers lived on the larger islands, primarily working as farmers, gatherers, dock laborers, and porters for visiting tourists. The newly awakened singers left their lives of slavery with relief and a shared dream. Banding together, they quickly took control of a sparsely populated island and turned it into a sanctuary. There, singers can heal and regroup, living quiet, leisurely lives without serving another species. So far, these singers have escaped the notice of the Fused, and the Reshi humans have not pursued them.
 
 ## Notable People
