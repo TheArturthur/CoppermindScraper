@@ -22,13 +22,29 @@ It is most well known as the trilogy of *Mistborn: The Final Empire*, *[[The Wel
   Artwork for the Brazilian and Spanish releases of the trilogy
 The first Mistborn trilogy chronicles the efforts of a secret group of [[Allomancy\|Allomancers]] who attempt to overthrow a dystopian empire and establish themselves in a world covered by ash.
 
-|**YearPublished**|**Book Title**|**Order**|**Length**|**In-worldYear(s)**|**Notes**|**Refs**|
+|**Mistborn Era 1**|
 |-|-|
-|**2006**|*Mistborn: The Final Empire*|#1|Novel|1022 [[Final Empire\|FE]]|||
-|**2007**|*[[The Well of Ascension\|The Well of Ascension]]*|#2|Novel|1024 [[Final Empire\|FE]]|||
-|**2008**|*[[The Hero of Ages\|The Hero of Ages]]*|#3|Novel|1025 [[Final Empire\|FE]]|||
-|**2011**|*[[The Eleventh Metal\|The Eleventh Metal]]*|#0.5|Short Story|1019 [[Final Empire\|FE]]|Released in the [[Mistborn Adventure Game (rule book)\|core rule book]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*||
-|**2016**|*Mistborn: Secret History*|#3.5|Novella|1022-1025 [[Final Empire\|FE]]|Occurs concurrently with events from the end of *Mistborn: The Final Empire* to the end of *The Hero of Ages*. Should ideally be read after *The Bands of Mourning*.||
+|**Year Published**|**Book Title**|**In-world Year(s)**|**Word Count**|**Notes**|
+|**2006**|*Mistborn: The Final Empire*|1022 [[Final Empire\|FE]]|210,103||
+|**2007**|*[[The Well of Ascension\|The Well of Ascension]]*|1024 [[Final Empire\|FE]]|[[The Well of Ascension/Statistical analysis\|244,371]]||
+|**2008**|*[[The Hero of Ages\|The Hero of Ages]]*|1025 [[Final Empire\|FE]]|[[The Hero of Ages/Statistical analysis\|225,372]]||
+
+|**Mistborn Era 1 Novellas**|
+|-|-|
+|**Year Published**|**Book Title**|**In-world Year(s)**|**Focus Character**|**Word Count**|**Notes**|
+|**2016**|*Mistborn: Secret History*|1022-1025 [[Final Empire\|FE]]|[[Kelsier\|Kelsier]]|44,981|Occurs concurrently with events from the end of *Mistborn: The Final Empire* to the end of *The Hero of Ages*. Should ideally be read after *The Bands of Mourning*.|
+
+|**Mistborn Era 1 Short Stories**|
+|-|-|
+|**Year Published**|**Book Title**|**In-world Year(s)**|**Focus Character**|**Word Count**|**Notes**|
+|**2011**|*[[The Eleventh Metal\|The Eleventh Metal]]*|1019 [[Final Empire\|FE]]|[[Kelsier\|Kelsier]]|6,713|Released in the [[Mistborn Adventure Game (rule book)\|core rule book]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*|
+
+|**Mistborn Era 1 Campaign Setting**|
+|-|-|
+|**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
+|**2026**|**|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
+|**||||
+
 
 
 
@@ -45,13 +61,23 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 ## Era 2: Wax and Wayne Series
 Set about 300 years after Era 1, the Wax and Wayne series is about the exploits of [[Waxillium Ladrian\|Waxillium Ladrian]], a "wild-west Deputy" forced to move into the big city who starts investigating kidnappings and robberies.
 
-|**YearPublished**|**Book Title**|**Order**|**Length**|**In-worldYear(s)**|**Notes**|**Refs**|
+|**Mistborn Era 2**|
 |-|-|
-|**2011**|*[[The Alloy of Law\|The Alloy of Law]]*|#1|Novel|341 [[Catacendre\|PC]]|||
-|**2015**|*[[Shadows of Self\|Shadows of Self]]*|#2|Novel|342 [[Catacendre\|PC]]|||
-|**2016**|*[[The Bands of Mourning\|The Bands of Mourning]]*|#3|Novel|342 [[Catacendre\|PC]]|||
-|**2022**|*[[The Lost Metal\|The Lost Metal]]*|#4|Novel|348 [[Catacendre\|PC]]|||
-|**2014**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|N/A|Short Story|341 [[Catacendre\|PC]]|Released in the [[Alloy of Law (rule book)\|Alloy of Law supplement]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*||
+|**Year Published**|**Book Title**|**In-world Year(s)**|**Word Count**|**Notes**|
+|**2011**|*[[The Alloy of Law\|The Alloy of Law]]*|341 [[Catacendre\|PC]]|[[The Alloy of Law/Statistical analysis\|94,652]]||
+|**2015**|*[[Shadows of Self\|Shadows of Self]]*|342 [[Catacendre\|PC]]|[[Shadows of Self/Statistical analysis\|110,019]]||
+|**2016**|*[[The Bands of Mourning\|The Bands of Mourning]]*|342 [[Catacendre\|PC]]|[[The Bands of Mourning/Statistical analysis\|127,456]]||
+|**2022**|*[[The Lost Metal\|The Lost Metal]]*|348 [[Catacendre\|PC]]|[[The Lost Metal/Statistical analysis\|156,381]]||
+
+|**Mistborn Era 2 Short Stories**|
+|-|-|
+|**Year Published**|**Book Title**|**In-world Year(s)**|**Focus Character**|**Word Count**|**Notes**|
+|**2014**|*[[Allomancer Jak and the Pits of Eltania\|Allomancer Jak and the Pits of Eltania]]*|341 [[Catacendre\|PC]]|[[Jak\|Jak]]|7,047|Released in the [[Alloy of Law (rule book)\|Alloy of Law supplement]] of the *[[Mistborn Adventure Game\|Mistborn Adventure Game]]*, later in *[[Arcanum Unbounded\|Arcanum Unbounded]]*|
+
+|**Mistborn Era 2 Campaign Setting**|
+|-|-|
+|**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
+|**2026**|**||||
 
 *The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
 [[Isaac Stewart\|Isaac Stewart]] is writing [[Book of Nails\|Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage\|Nicelle Sauvage's]] sensationalized stories in the Era 2 broadsheets.

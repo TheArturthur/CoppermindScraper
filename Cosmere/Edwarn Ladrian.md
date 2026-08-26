@@ -5,7 +5,7 @@
 |**Children**|[[Hinston\|Hinston]]|
 |**Relatives**|[[Waxillium Ladrian\|Waxillium Ladrian]], [[Telsin Ladrian\|Telsin Ladrian]], [[Maxillium Ladrian\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Ancestors**|[[Ashweather Cett\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Breeze\|Breeze]], [[Allrianne\|Allrianne]]|
-|**Died**|Murdered|
+|**Died**|Murdered 342 [[Catacendre\|PC]]|
 |**Abilities**|[[Hemalurgy\|Hemalurgist]]|
 |**Aliases**|Mister Suit|
 |**Groups**|[[Set\|Set]]|

@@ -50,7 +50,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**2025**|*[[Elsecaller (short story)\|Elsecaller]]*|2.1(1173-1174)|[[Jasnah Kholin\|Jasnah Kholin]]|8,411|
 |*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|2.2(1173)|[[Lopen\|Lopen]]|8,402|
 
-|**Cosmere RPG (Campaigns)**|
+|**Stormlight Campaign Setting**|
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2025**|**|1172|40||
@@ -67,6 +67,9 @@ Subject to the assumption that characters stay associated with their current ord
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**2026**|**|1174|8|Released via MyMiniFactory|
 |**|1173/1174|16|Released via Free RPG Day|
+|**2027**|**|1174|||
+|**|1174-1175|||
+|**||||
 
 |**Hoid's Storybook Collection (Picture Books)**|
 |-|-|
