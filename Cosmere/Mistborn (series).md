@@ -43,6 +43,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2026**|**|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
+|**|1021 [[Final Empire\|FE]]|||
 |**||||
 
 

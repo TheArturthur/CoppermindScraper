@@ -1,6 +1,10 @@
 |**Bridge Four**|
 |-|-|
 ||
+|**Leader**|[[Kaladin\|Kaladin]] (formerly)|
+|**Headquarters**|Sadeas warcamp (formerly)Kholinar warcamp (formerly)[[Urithiru\|Urithiru]]|
+|**Type**|[[Bridge crew\|bridge crew]] (formerly)honor guard|
+|**Era**|[[Era of Solitude\|Era of Solitude]]|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
