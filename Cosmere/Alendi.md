@@ -40,6 +40,7 @@ Unbeknownst to Alendi, [[Kwaan\|Kwaan]] had instructed [[Rashek\|Rashek]] to do 
 
 ## Legacy
 [[Alendi's logbook\|Alendi's logbook]] was kept by [[Rashek\|Rashek]] and, over a thousand years later, was found by [[Vin\|Vin]] in [[Kredik Shaw\|Kredik Shaw]]. It was translated by [[Sazed\|Sazed]] as part of the efforts of [[Kelsier's crew\|Kelsier's crew]] to discover the Lord Ruler's weaknesses.
+[[Alendel\|Alendel]], a city in the [[Elendel Basin\|Elendel Basin]], is named after Alendi.
 
 
 

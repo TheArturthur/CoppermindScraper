@@ -4,6 +4,7 @@
 |**Family**|
 |**Siblings**|Frost's sister|
 |**Relatives**|[[Illistandrista\|Illistandrista]]|
+|**Abilities**|[[Worldhopper\|Worldhopper]]|
 |**Groups**|[[Seventeenth Shard\|Seventeenth Shard]]|
 |**Species**|[[Dragon (cosmere)\|Dragon (cosmere)]]|
 |**Homeworld**|[[Yolen\|Yolen]]|
