@@ -41,7 +41,7 @@ For more images, see [[Helaran Davar/Gallery\|/Gallery]].
 
 Helaran is tall, muscular, and square-chinned, although his father is taller than he is.
 Of all the Davar children, he is considered to be the most responsible and the only true adult, even after his younger brother [[Balat\|Balat]] comes of age. He and [[Shallan\|Shallan]] are his father's favorite children.
-Helaran is resentful and angry at his father, who he believes murdered his step-mother and her lover in cold blood.
+Helaran is resentful and angry at his father, who he believes murdered his mother and her lover in cold blood.
 
 ## Attributes and Abilities
 His step-mother had intimate contact with a [[Skybreaker\|Skybreaker]] acolyte and it is possible [[Nale\|Nale]] knew a member of the house was close to bonding a [[Spren\|spren]]. It is believed they thought it was Helaran. He was recruited because Nale was impressed with him. They recruited him with displays of great power and Shards.
