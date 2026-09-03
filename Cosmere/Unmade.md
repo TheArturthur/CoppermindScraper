@@ -1,4 +1,3 @@
-> [!info] This page is part of the August 2026 objectives!It has been claimed by User: Lyn, please contact them before doing edits.
 |**Unmade**|
 |-|-|
 ||

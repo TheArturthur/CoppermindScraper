@@ -11,7 +11,9 @@
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You can swear at me all you want, threaten me, whatever. So long as you fly like you did yesterday, protecting the others, I want you on my team.*”
 \-Jorgen to Spensa on why he didn’t turn her in[2]

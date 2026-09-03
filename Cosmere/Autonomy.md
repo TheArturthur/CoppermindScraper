@@ -10,8 +10,6 @@
 |**Residence**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It is when the soul is pushed to the limit that true exceptionalism manifests. And so, there must be a consequence—as final and terrible as death—for failure.*”

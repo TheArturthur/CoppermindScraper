@@ -5,7 +5,6 @@
 |**World**|[[Shadesmar\|Shadesmar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: LadyLameness, please contact her before doing edits.
 >“*No human city would ever have been built this way; even Urithiru needed fields at its base and windows to keep the people from going mad. But Lasting Integrity didn’t follow normal laws of nature.*”
 \-Adolin describing the oddities of Lasting Integrity[1]
 

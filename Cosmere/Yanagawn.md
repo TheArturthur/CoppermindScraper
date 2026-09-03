@@ -11,7 +11,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This page is part of the August 2026 objectives!It has been claimed by User: Antimatter23, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I don’t matter. Sure, Azir does. But I’m only a kid they put on the throne because they were afraid that assassin would come back.*”

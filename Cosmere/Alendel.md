@@ -4,7 +4,7 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Alendel** is a city in the [[Elendel Basin\|Elendel Basin]]. It is northeast of [[Elendel\|Elendel]], and named after [[Alendi\|Alendi]].
+**Alendel** is a city in the [[Elendel Basin\|Elendel Basin]]. It is northeast of [[Elendel\|Elendel]], and is likely named after [[Alendi\|Alendi]].
 
 
 

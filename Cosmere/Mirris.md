@@ -8,8 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 **Mirris** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]] bonded with [[Vathi\|Vathi]].
 
 ## Contents

@@ -5,7 +5,9 @@
 |**World of Origin**|[[Cambri\|Cambri]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **taynix** are a species of slugs with [[Cytonics\|cytonic]] abilities.
 

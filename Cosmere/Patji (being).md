@@ -6,8 +6,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 For the island located on [[First of the Sun\|First of the Sun]], see [[Patji (island)\|Patji (island)]].
 >“*We stand in the sea, pleased with our domains. Leave us alone.*”
 \-Patji[1]

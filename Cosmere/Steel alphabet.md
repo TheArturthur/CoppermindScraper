@@ -5,8 +5,6 @@
 |**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 The **Steel alphabet** was the set of glyphs used on [[Scadrial\|Scadrial]]. It has been shown that the glyphs evolved over time.
 Most of the symbols were also used to represent various metals and numbers. The steel alphabet used a base-16 numbering system with a positional structure similar to —double-number pairs are used to represent the order of magnitude and the number in that position respectively.
 At some point the alphabet diverged such that the symbols used to represent [[Feruchemical\|Feruchemical]] metals were distinct to those used by [[Allomancy\|Allomancy]] and the general alphabet. During the technological advancement after the [[Final Ascension\|Final Ascension]], the symbols used during the [[Final Empire\|Final Empire]] were tweaked to become easier for printing. The Northern Scadrians kept using the script, and many of the vessels manufactured during Scadrial’s Space Age included writing in the Steel alphabet.

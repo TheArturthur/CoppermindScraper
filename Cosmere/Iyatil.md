@@ -10,7 +10,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: kingofredpandalions, please contact them before doing edits.
 >“*I have many times asked myself why those of you here go about so brazenly with features exposed to all who would see them.*”
 \-Iyatil[4]
 

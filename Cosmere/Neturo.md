@@ -11,7 +11,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Rynon2112, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*The best and truest duty of a person is to add to the world. To create, and not destroy.*”

@@ -25,7 +25,8 @@
 
 
 5 Quotes. [[#Quotes]] 
-6 Notes. [[#Notes]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
 
 ## Appearance and Personality
@@ -34,12 +35,12 @@ Tukks often chides his men and Kaladin considers him to be "loud, intolerant, an
 
 ## Attributes and Abilities
 Tukks is highly skilled with a spear, as he trains other soldiers to wield them in battle. He is shocked by Kaladin's natural proficiency with the weapon, and is able to help him refine his abilities. He emphasizes the need to practice, both to build skill and to avoid freezing in combat.
-Tukks is an effective military leader. He was promoted to sergeant at a young age, and has a good understanding of the dynamics of his squad. He tries to address facets of their personalities that could negatively affect them on the battlefield. He will discipline them as necessary by assigning them to menial duties or perhaps using corporal punishment.
+Tukks is an effective military leader. He was promoted to sergeant at a young age, and has a good understanding of the dynamics of his squad. He tries to address facets of their personalities that could negatively affect them on the battlefield. He will discipline them as necessary by assigning them to menial duties or perhaps by using corporal punishment.
 
 ## History
 Tukks joined [[Meridas Amaram\|Meridas Amaram's]] army at some point in his youth. By 1169, he was a sergeant and led a squad known as the [[Takers\|Takers]] that participated in border skirmishes in the [[Sadeas princedom\|Sadeas princedom]]. Kaladin was assigned to this squad when he joined the army. Although Tukks did help improve Kaladin's combat skills, his enduring effect on Kaladin was advising him of the need to feel emotion in the midst of battle and to fight with cause.
 Tukks was also able to locate [[Tien\|Tien]] on Kaladin's behalf, informing Kaladin that his brother was serving in the Seventh Battalion. He offered to try to get Tien transferred to the Takers, but this never came about.
-Tukks died while in Amaram's army, presumably during a battle where Kaladin was present; he is one of the people that Kaladin regrets being unable to protect. It is unclear what happened to the Takers after Tukks died; Kaladin was soon given command of [[Kaladin's squad\|his own squad]] that was not known to use the name.
+Tukks died while serving in Amaram's army, presumably during a battle where Kaladin was present; he is one of the people that Kaladin regrets being unable to protect. It is unclear what happened to the Takers after Tukks died; Kaladin was soon given command of [[Kaladin's squad\|his own squad]] that was not known to use the name.
 
 ## Relationships
 ### Kaladin
@@ -58,6 +59,8 @@ Kaladin looks back on his time with Tukks fondly. The need to feel emotion on th
 \-Kaladin passing on Tukks's lesson to Bridge Four[10]
 
 
+## Trivia
+The description of Tukks's appearance as being somehow "off" is an intentional clue that there is something unusual about him.
 
 
 https://coppermind.net/wiki/Tukks

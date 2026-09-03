@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: I Watch For Truth, please contact him before doing edits.
 >“*I… have seen Ishar. He curses me at night, even as he names himself a god. He seeks death. His own. Perhaps that of every man.*”
 \-The Stormfather[5]
 

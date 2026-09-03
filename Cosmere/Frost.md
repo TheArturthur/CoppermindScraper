@@ -11,8 +11,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 >“*Our interference so far has brought nothing but pain. My path has been chosen very deliberately.*”
 \-Frost's letter to Hoid[4]
 

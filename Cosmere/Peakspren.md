@@ -6,8 +6,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 **Peakspren** are a subset of [[/wiki/Spren#True Spren]] from [[Roshar\|Roshar]]. They are capable of forming a [[Nahel bond\|Nahel bond]], granting people the abilities of the [[Order of Stonewards\|Order of Stonewards]].
 
 ## Contents

@@ -42,6 +42,7 @@ Duralumin is the alloy paired with [[Aluminum\|aluminum]] in the Metallic Arts.
 The duralumin used in the Metallic Arts is ninety-six percent aluminum, four percent [[Copper\|copper]].
 
 ## Allomantic Use
+  <<Vin\|Vin>> using duralumin and <<Brass\|soothing>> to dominate <<Human\|Human>>
 A duralumin [[Misting\|Misting]] is known as a **Duralumin Gnat**. An [[Allomancy\|Allomancer]] burning duralumin instantly uses up any metals being burned simultaneously, releasing an enormous burst of power from those metals. Due to this, the more metal they have on them upon burning duralumin, the greater the burst of power. Duralumin itself is not completely consumed like metals it is burned in concert with, but it still continues to burn away at a steady rate. A Duralumin Gnat gains nothing from their powers. The use of duralumin could seriously hurt a Allomancer due to the explosion of power.
 Burning duralumin while also [[Compounding\|Compounding]] any other metal does not gain anything other than time, and is quite dangerous due to the swift effects of the duralumin.
 

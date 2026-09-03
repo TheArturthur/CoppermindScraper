@@ -9,8 +9,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I watched you destroy yourself in the name of order, watched you obey your personal code when others would have fled or crumbled. Szeth-son-Neturo, I watched you keep your word with perfection. This is a thing lost to most people--it is the only genuine beauty in the world. I doubt I have ever found a man more worthy of the Skybreakers than you.*”
@@ -91,7 +89,7 @@ A Skybreaker squire must first bond their [[Highspren\|Highspren]] before taking
 \-A mission to reach the Fourth Ideal, as spoken by Szeth.[18]
 
 
-This Ideal is also called the Ideal of Crusade, and requires that a Skybreaker undertake a personal quest and complete it to the satisfaction of their highspren. A Third Ideal Skybreaker chooses their quest, and reaches the Fourth Ideal only when the quest is completed. In addition, the Skybreaker is elevated to the rank of master upon completion of their quest, and becomes able to accept squires. Most Skybreakers never make it to this Ideal, and the ones that do can spend decades at the Third Ideal before completing their quest. Upon achieving this Ideal, a Skybreaker gains their [[Shardplate\|Shardplate]], which is formed of [[Luckspren\|luckspren]]. In addition to this, Skybreakers can take squires after they complete the Fourth Ideal and become masters.
+This Ideal is also called the Ideal of Crusade, and requires that a Skybreaker undertake a personal quest and complete it to the satisfaction of their highspren. A Third Ideal Skybreaker chooses their quest, and reaches the Fourth Ideal only when the quest is completed. Most Skybreakers never make it to this Ideal, and the ones that do can spend decades at the Third Ideal before completing their quest. Upon achieving this Ideal, a Skybreaker gains their [[Shardplate\|Shardplate]], which is formed of [[Luckspren\|luckspren]]. In addition to this, Skybreakers can take squires after they complete the Fourth Ideal and become masters.
 
 ### The Fifth Ideal
 >“*I am my own agent. I make my own choices. I. Am. THE LAW!*”

@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Rhythm of War\|Rhythm of War]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: TwinStorm, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Humans are a poem. A song.*”

@@ -4,8 +4,6 @@
 |**World of Origin**|Unknown|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 This page is about the people across the cosmere. For their nation on Roshar, see [[Iri\|Iri]].
 The **Iriali** are an ethnicity of people in the [[Cosmere\|cosmere]].
 

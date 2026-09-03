@@ -7,9 +7,6 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: LadyLameness, please contact her before doing edits.
 This article is about the Cognitive Realm location that coined the term Shadesmar. For use of Shadesmar as a generic term for the entire realm, see [[Cognitive Realm\|Cognitive Realm]].
 >“*You and the others, refer to Shadesmar as the world of the spren, and the Physical Realm as **your** world. Or the **real** world. That is not true. We are not two worlds, but one. And we are not two peoples, but one. Humans. Spren. Two halves. Neither complete.*”
 \-Pattern musing about Shadesmar[1]

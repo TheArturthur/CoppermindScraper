@@ -4,8 +4,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, *[[The Sunlit Man\|The Sunlit Man]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*"I'm not some glorious knight of ancient days. I'm a broken man. Do you hear me, Syl? *I'm broken*."She zipped up to him and whispered, "That’s what they all were, silly"*”

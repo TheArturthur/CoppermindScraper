@@ -3,14 +3,12 @@
 ||
 |**Abilities**|[[Worldhopper\|Worldhopper]], [[Starmarks\|Starmarks]]|
 |**Titles**|Duchess of [[Elis\|Elis]]|
-|**Profession**||
+|**Profession**|[[Arcanist\|Arcanist]]|
 |**Ethnicity**|[[Darksider\|Darksider]]|
 |**Nationality**|[[Elisian\|Elisian]]|
 |**Homeworld**|[[Taldain\|Taldain]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
-
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -77,7 +75,7 @@ When the [[Lord Merchant\|Lord Merchant]] [[Vey\|Vey]] disappeared, she pressure
 Khriss was present at the Diem when Kenton dueled [[Drile\|Drile]], and Baon prevented her from interfering. After the Diem was restored, Khriss returned to Darkside with multiple barrels of white sand and a few sand masters to aid her experiments in making sand mastery work on Darkside.
 
 ### Silverlight
-At an unknown point after the crisis in the Diem, Khriss discovered how to leave Taldain and began to travel the cosmere. Eventually, she came to find [[Silverlight\|Silverlight]], where she was involved in the founding of a university. She eventually became a well known and regarded , possibly also founding her own order. Amongst other projects, Khriss was obsessed with researching [[Shard\|Shardless]] [[Perpendicularity\|perpendicularities]].
+At an unknown point after the crisis in the Diem, Khriss discovered how to leave Taldain and began to travel the cosmere. Eventually, she came to find [[Silverlight\|Silverlight]], where she was involved in the founding of a university. She eventually became a well known and regarded [[Arcanist\|arcanist]], possibly also founding her own order. Amongst other projects, Khriss was obsessed with researching [[Shard\|Shardless]] [[Perpendicularity\|perpendicularities]].
 
 ### The Death of Preservation
 >“*You've stumbled into something far, far bigger than you, your politics, or your little planet.*”

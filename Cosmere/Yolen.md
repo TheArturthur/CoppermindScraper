@@ -7,8 +7,6 @@
 |**Radius**|1 cosmere standard |
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 >“*There is an original, shrouded and hidden somewhere in the cosmere. I've yet to find it, but I **have** found stories.*”
 \-Khriss[4]
 

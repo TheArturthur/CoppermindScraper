@@ -10,7 +10,6 @@
 |**Residence**|[[Roshar\|Roshar]], [[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Larkin, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I control all things that can be grown, nurtured.That includes the thorns.*”

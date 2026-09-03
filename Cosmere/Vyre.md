@@ -12,7 +12,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Ghostfellow, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 "Vyre" redirects here. For the previous holder of that title, see [[El\|El]]. For the ancient singer, see [[Moash (singer)\|Moash (singer)]].

@@ -7,7 +7,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Truthwatch3r, please contact her before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*In another time, a united coalition of Alethi, Veden, Thaylen, and Azish forces would have been the most incredible thing to have happened in generations. Unfortunately, it was only possible in response to greater marvels--and threats.*”

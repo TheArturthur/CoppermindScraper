@@ -7,8 +7,6 @@
 |**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]* and *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **AonDor** is a manifestation of [[Investiture\|Investiture]] located on the [[/wiki/Cosmere#Planets]] [[Sel\|Sel]] that is used by the [[Elantrian\|Elantrians]]. It involves the use of variously shaped [[Aon\|Aons]], which draw energy from the [[Dor\|Dor]] and must be fine-tuned to the landscape.

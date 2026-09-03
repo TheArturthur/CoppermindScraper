@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: BrokenOaths, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the [[Mokia\|Mokian]] advisor, see [[Mink (Alcatraz)\|Mink (Alcatraz)]].

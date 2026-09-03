@@ -7,8 +7,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
   The planetary symbol for Nalthis.
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Nalthis** is a planet in the [[Nalthian system\|Nalthian system]] of the [[Cosmere\|cosmere]]. The [[Shard\|Shard]] [[Endowment\|Endowment]] resides there. It is inhabited by humans and has a number of states, including [[Idris\|Idris]] and [[Hallandren\|Hallandren]]. A person from Nalthis is called a Nalthian.

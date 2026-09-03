@@ -6,14 +6,16 @@
 |**Type**|Police force|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]* and *[[Sunreach\|Sunreach]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Starsight\|Starsight]]*, *[[Sunreach\|Sunreach]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This is one of several articles with this name. For others, see [[Krell\|Krell]].
 >“*They kept us contained not out of spite, but because they were genuinely terrified of humankind.*”
 \-Spensa[1]
 
 
-**Ketos redgor Earthen listro listrins (KRELL)** is a paramilitary force within the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]]. The name translates to "Penitentiary maintenance and containment of Earthlings". It's unknown whether their jurisdiction is limited to [[Detritus\|Detritus]] or if they're responsible for all human preserves.
+**Ketos redgor Earthen listro listrins (KRELL)** is a military force within the [[Superiority\|Superiority's]] [[Department of Protective Services\|Department of Protective Services]]. In English, it is called the **Department of Penitentiary Maintenance and the Containment of Earthlings**, or Department of Containment for short.
 
 ## Contents
 

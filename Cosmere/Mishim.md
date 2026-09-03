@@ -9,8 +9,6 @@
 |**System**|[[Rosharan system\|Rosharan system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 >“*It is difficult not to feel very small, at times, on this domineering, majestic tempest of a planet.*”
 \-Khriss[6]
 

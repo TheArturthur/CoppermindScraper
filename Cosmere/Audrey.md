@@ -40,7 +40,7 @@ Later on, when Leeds was separated from most of his aspects, Audrey remained in 
 
 ## Relationships
 ### Stephen Leeds
-She is not one of Stephen's closest aspects, usually staying home while Stephen, [[Ivy\|Ivy]], [[Tobias\|Tobias]] and [[J.C.\|J.C.]] go out on cases. She seems to prefer this, seeming to assume she'll get shot at.
+She is not one of Stephen's closest aspects, usually staying home while Stephen, [[Ivy (Legion)\|Ivy]], [[Tobias\|Tobias]] and [[J.C.\|J.C.]] go out on cases. She seems to prefer this, seeming to assume she'll get shot at.
 
 ## Quotes
 >“*I could use a new dog. I'll feed it fake food and give it fake water and take it on fake walks. Everything a fake puppy could want.*”

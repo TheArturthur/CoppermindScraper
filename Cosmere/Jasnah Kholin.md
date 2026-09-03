@@ -18,7 +18,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Antimatter23, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*It strikes me that religion—in its essence—seeks to take natural events and ascribe supernatural causes to them. I, however, seek to take supernatural events and find the natural meanings behind them. Perhaps that is the final dividing line between science and religion. Opposite sides of a card.*”

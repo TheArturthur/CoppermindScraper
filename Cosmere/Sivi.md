@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Wind and Truth\|Wind and Truth]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: KlikBate77, please contact him before doing edits.
 >“*I will not bow to him.*”
 \-Sivi’s last words, scratched into the stones of her monastery[1]
 

@@ -9,7 +9,6 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-> [!info] This page is part of the December 2026 objectives!It has been claimed by User: Osome55, please contact them before doing edits.
 >“*The thing that **separates** us from the monarchies of the east—and the chaos they suffer—is that our emperor is held in check.*”
 \-Noura to Yanagawn[1]
 

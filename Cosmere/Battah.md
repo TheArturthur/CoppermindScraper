@@ -9,7 +9,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: SpiderFerg, please contact them before doing edits.
 >“*Sweet wisdom of Battar.*”
 \-A Rosharan saying[4][5]
 

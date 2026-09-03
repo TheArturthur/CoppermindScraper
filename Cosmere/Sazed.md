@@ -25,7 +25,7 @@
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
 
-1. [[#Appearence]] 
+1. [[#Appearance]] 
 
 1. [[#Mortal]] 
 1. [[#Vessel]] 
@@ -82,7 +82,7 @@
 
 
 For more images, see [[Sazed/Gallery\|/Gallery]].
-### Appearence
+### Appearance
 #### Mortal
 Tall and long-limbed, Sazed has the build of a scholar. His arms and legs are a bit too long for his body because of a medical condition caused by his being castrated as a boy. He has a shaven head, his earlobes have been stretched out, and the ears themselves contain studs that run around their perimeter. He wears the lavish, colorful robes of a Terris steward—the garments are made of embroidered, overlapping V shapes, alternating among the three colors of his master’s house. He is soft spoken, with a higher pitch and an almost melodic accent.
 

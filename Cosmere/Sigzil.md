@@ -16,7 +16,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Sunlit Man\|The Sunlit Man]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Sigzil**, later known as **Nomad** or **Zellion**, is an [[Azish\|Azish]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]], a companylord of the [[Knights Radiant\|Radiant]] [[Order of Windrunners\|Order of Windrunners]], and later a [[Skybreaker\|Skybreaker]], [[Dawnshard\|Dawnshard]], and wandering . He was previously apprenticed to [[Hoid\|Hoid]] and is now a full [[Worldsinger\|Worldsinger]].
+**Sigzil**, later known as **Nomad** or **Zellion**, is an [[Azish\|Azish]] member of [[Bridge Four\|Bridge Four]] on [[Roshar\|Roshar]], a companylord of the [[Knights Radiant\|Radiant]] [[Order of Windrunners\|Order of Windrunners]], and later a [[Skybreaker\|Skybreaker]], [[Dawnshard\|Dawnshard]], and wandering [[Arcanist\|arcanist]]. He was previously apprenticed to [[Hoid\|Hoid]] and is now a full [[Worldsinger\|Worldsinger]].
 
 ## Contents
 

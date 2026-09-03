@@ -16,8 +16,6 @@
 |**Properties**|[[Investiture\|Investiture]]-inert|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Lost Metal\|The Lost Metal]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Aluminum** is the internal enhancement pulling metal. An [[Allomancy\|Allomancer]] burning aluminum will make all of their metal reserves vanish. [[Feruchemist\|Feruchemists]] can use aluminum to store [[Identity\|Identity]], and when used as a [[Hemalurgic\|Hemalurgic]] spike, aluminum removes all powers. It is known as **Ralkalest** in the [[Rose Empire\|Rose Empire]] on [[Sel\|Sel]] and among [[Singers\|singers]], as **the unForgeable metal** in the Rose Empire, and historically as **starmetal** in [[Azir\|Azir]].

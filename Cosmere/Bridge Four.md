@@ -8,7 +8,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: KlikBate77, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Bridge Four** is the name of a group headed by [[Kaladin Stormblessed\|Kaladin Stormblessed]], an Alethi [[Knight Radiant\|Knight Radiant]] of the [[Order of Windrunners\|Order of Windrunners]]. The group was originally one of the [[Bridge crew\|bridge crews]] of the Sadeas warcamp in the [[Shattered Plains\|Shattered Plains]], hence the name, but its function has evolved over time, becoming both [[Dalinar Kholin\|Dalinar Kholin's]] honor guard as well as a military unit within a battalion of the Kholin army, then later becoming a group largely consisting of Kaladin's [[Squire\|squires]] and [[Knights Radiant\|Knights Radiant]] loyal to him. Despite such drastic changes, the members still refer to themselves by their original bridge crew name, and have even kept their old bridge with them.

@@ -5,8 +5,6 @@
 |**Type**|Spiritual property|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Connection** is a [[Spiritual Realm\|Spiritual]] attribute that represents spiritual connections and relationships between different entities -- living being, locations, items and so on. Like other Spiritual attributes in the [[Cosmere\|cosmere]], Connection is quantifiable and can affect or be affected by different [[Investiture\|Invested Arts]].

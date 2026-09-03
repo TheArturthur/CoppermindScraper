@@ -102,7 +102,7 @@ Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[
 
 As a [[Bloodmaker\|Bloodmaker]], Wayne can store health in his goldminds at the price of being unwell. He can tap into his stores later to heal wounds. As long as Wayne has an adequate storage of health, he can recover from any wounds that aren't immediately lethal, such as curing poison, regrowing fingers, and surviving bullet wounds. He prefers to fill his metalminds all at once by spending weeks sick in bed instead of traveling around while slightly sick. He often stores health whenever he has a hangover as he is going to have a horrible time of it anyway. He sometimes uses his ability as a Bloodmaker strategically, by pretending that a bullet has actually killed him or incapacitated him, in order to make enemies dismiss him as a threat in a fight. However, many who know of his abilities aren't fooled by this trick. He eventually embeds his goldminds deep into his thigh to protect them from Allomancers.
 
- 
+  Using <<Bendalloy\|bendalloy>> to make a speed bubble
 #### Allomancy
 >“*A large group of Vanishers had set up near the western tunnel, firing out at Wayne—who was in full form, burning through his bendalloy like a madman. He'd appear, draw fire, then vanish into a blur, then appear right next to where he'd been. He called insults as the bullets missed him, then moved again.*”
 \-Wax watching Wayne fight at the Vanisher hideout[31]

@@ -1,5 +1,6 @@
 |**Ashweather Cett**|
 |-|-|
+||
 |**[[House Cett\|House Cett]]**|
 |**Spouse**|[[Allrianne's mother\|Allrianne's mother]]|
 |**Children**|[[Allrianne Cett\|Allrianne]], [[Gneorndin Cett\|Gneorndin]]|

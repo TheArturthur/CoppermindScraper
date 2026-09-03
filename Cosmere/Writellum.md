@@ -3,7 +3,9 @@
 |**Prerequisites**|Being descended from someone with the ability|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
-> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
+t
+
+> [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the third book in the Skyward series, see [[Cytonic (book)\|Cytonic (book)]].
 >“*Technology is limited. Only the mind is infinite. *”

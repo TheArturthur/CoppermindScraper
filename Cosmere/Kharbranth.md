@@ -8,7 +8,6 @@
 |**World**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: LadyLameness, please contact her before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Kharbranth is one of the most sheltered major cities in the world, and the bells are a symbol of that. It’s said they were first erected to warn that a highstorm was blowing, since the winds were so soft that people didn’t always notice.*”

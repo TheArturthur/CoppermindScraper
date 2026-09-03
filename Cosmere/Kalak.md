@@ -10,7 +10,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: kingofredpandalions, please contact them before doing edits.
 For the glyph named after Kalak, see [[/wiki/Glyphs/Index#Kalak]].
 >“*I am a blur. A smear on the page. A gaunt stretch of ink, made all the more insubstantial with each passing day.*”
 \-Kalak[3]

@@ -58,6 +58,7 @@ In contrast to her level-headed approach toward danger, Marasi is easily embarra
 As she continues to follow Wax and Wayne, Marasi begins to have feelings for Wax. While she never openly admits them, Wax gently refuses her. Wax eventually marries her sister, Steris, while Marasi herself gets over the romantic feelings for Wax.
 
 ## Attributes and Abilities
+  Using <<Cadmium\|cadmium>> to detain a criminal
 Marasi is a Pulser, meaning that she has the ability to burn [[Cadmium\|cadmium]] to slow time down in a bubble around herself. She considers this ability to be practically useless, although she admits to having used it to make anticipated events come faster. She is jealous of Wayne's Slider ability as it has far more practical applications than her own. In the final confrontation with [[Miles Dagouter\|Miles Dagouter]], Marasi uses her Pulser ability to slow time down around herself and Miles, thus allowing a large group of constables to surround the place while Miles is fighting with Wax.
 Marasi has also shown that she is a very good shot with a rifle and is part of the ladies' target club at her university.
 She can speak some ancient [[Terris\|Terris]] and understands [[High Imperial\|High Imperial]].

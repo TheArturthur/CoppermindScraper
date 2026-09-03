@@ -16,8 +16,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Bands of Mourning\|The Bands of Mourning]]*|
 
-> [!warning] This page or section contains spoilers for *[[The Lost Metal\|The Lost Metal]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 **Telsin Ladrian** is a member of House Ladrian on [[Scadrial\|Scadrial]] and sister of [[Waxillium\|Waxillium]]. She is a high-ranking member of the [[Set\|Set]] who is referred to by underlings as Lady Sequence, and eventually rose to the position of the Key, the leader of the Set. Eventually, she became an [[Avatar\|avatar]] of [[Autonomy\|Autonomy]].
 
 ## Contents

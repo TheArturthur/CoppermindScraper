@@ -15,7 +15,7 @@
 
 
 ## Appearance and Personality
-He is thin, with black hair he wears slicked back, and a soft Spanish accent. He is a megalomaniac who lives in Stephen's attic, and believes he's the emperor of Mexico. He refers to himself in the third person as "His Majesty". In the past, he has asked [[Ivy\|Ivy]] to marry him and become queen of Mexico and asked Stephen to get his throne back. He does not seem to believe anyone when they tell him that Mexico is not ruled by an emperor anymore. Early on, he wasn't as serious about his megalomania, even going to far as to joke about it with Stephen. As time went on, however, he grew colder, even refusing to come to the white room while on a "hunger strike" and imposing "royal auditory sanctions" on Stephen.
+He is thin, with black hair he wears slicked back, and a soft Spanish accent. He is a megalomaniac who lives in Stephen's attic, and believes he's the emperor of Mexico. He refers to himself in the third person as "His Majesty". In the past, he has asked [[Ivy (Legion)\|Ivy]] to marry him and become queen of Mexico and asked Stephen to get his throne back. He does not seem to believe anyone when they tell him that Mexico is not ruled by an emperor anymore. Early on, he wasn't as serious about his megalomania, even going to far as to joke about it with Stephen. As time went on, however, he grew colder, even refusing to come to the white room while on a "hunger strike" and imposing "royal auditory sanctions" on Stephen.
 
 ## Attributes and Abilities
 Armando is a photography expert. He can use a variety of computer tests as well as his own eye to determine if photos have been doctored.  He keeps a collection of nighttime photographs from around the world in his room.

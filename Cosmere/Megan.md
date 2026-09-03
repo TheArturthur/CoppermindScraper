@@ -5,7 +5,7 @@
 |**Introduced In**|*[[Legion\|Legion]]*|
 For the member of the [[Reckoners\|Reckoners]], see [[Megan Tarash\|Megan Tarash]].
 **Megan** is on the cleaning staff of [[Stephen Leeds\|Stephen Leeds']] mansion.
-[[Ivy\|Ivy]] thinks she will quit soon due to Stephen's strangeness.
+[[Ivy (Legion)\|Ivy]] thinks she will quit soon due to Stephen's strangeness.
 
 
 

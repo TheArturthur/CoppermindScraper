@@ -6,7 +6,7 @@
 **Sylvia** goes on a date with [[Stephen Leeds\|Stephen Leeds]] for a paparazzi journalist.
 
 ## Appearance and Personality
-She wore a tight black dress and had multiple resplendent diamonds on the date.  Stephen found her quite attractive though [[Ivy\|Ivy]] didn't feel the same way. She acts nervous around Stephen and delays eating the meal though she starts eating later into the date.
+She wore a tight black dress and had multiple resplendent diamonds on the date.  Stephen found her quite attractive though [[Ivy (Legion)\|Ivy]] didn't feel the same way. She acts nervous around Stephen and delays eating the meal though she starts eating later into the date.
 
 ## History
 [[Malcom\|Malcom]] sets Stephen and her up on a blind date where they went out for dinner. She begins to ask questions about Stephen and when Stephen talks to his [[Aspect\|aspects]] Sylvia reveals she had read up on Stephen. Stephen then directed the conversation towards her and she told of her family until his aspects interrupt again.

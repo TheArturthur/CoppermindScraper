@@ -9,8 +9,6 @@
 |**System**|[[Scadrian system\|Scadrian system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]*, *[[The Lost Metal\|The Lost Metal]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*From the adaptations (both forced and unforced) of the humans living on her, to the vast transformations of landscape during her different eras, Scadrial remains my favorite planet for scholarly study in the cosmere. The interactions of her magics with natural physics are multitude, varied, and fascinating.*”
@@ -322,6 +320,7 @@ After the Catacendre the [[Southern Scadrians\|Southern Scadrians]] were saved b
 At some point they developed air ships, which work by steelpushing fans to generate thrust and reducing the weight of the ship. These airships have apparently been around for a long time as [[Daal\|Daal]] mentions that airships have existed for multiple ‘Eras’.
 
 ## People
+  People of Scadrial
 Scadrial has a large amount of genetic and phenotypical diversity, though they are only separated into three primary native groups. The people of the Final Empire, the Terris, and the South Scadrians. Due to the history of empires, most notably the Final Empire, ethnic groups have come to be more defined by shared culture and nationality, rather than in shared genetics and heritage.  
 All people from Scadrial are descended from the first Scadrians created by Ruin and Preservation at some point after the creation of the planet.
 

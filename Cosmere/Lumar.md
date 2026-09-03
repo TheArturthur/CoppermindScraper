@@ -5,8 +5,6 @@
 |**[[Investiture\|Investitures]]**|[[Aether\|Aethers]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 >“*I don't think I gave proper attention to just how beautiful Tress’s world was. To me, it was a backwater planet drowning in the dross of the aethers, which are more useful in other incarnations—and far easier to harvest on the moons themselves anyway. And yet, nowhere else in my travels have I witnessed anything like those spores.*”
 \-Hoid[1]
 

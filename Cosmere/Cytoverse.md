@@ -131,7 +131,8 @@ Spensa was conceived as a pilot character from Mistborn Era Four (the space-age 
 ### *The Eyes* and future stories
 It wasn't just the cosmere that Cytoverse borrowed elements from. In 2016, Brandon began writing a novella titled *The Eyes*, based around the concept of answering the . It was never finished, although the first chapter became a Patreon reward for $10 patrons at the time. The story of *The Eyes* was eventually absorbed into the setting wholesale, although in its current form, it's not fully canon-compliant. Nonetheless, some of its characters are still around by the time of *[[Skyward\|Skyward]]*, and one of its alien races made an appearance in *[[Starsight\|Starsight]]*. It's unclear which aliens those would be, though they might be the [[Figment\|figments]] or the [[Dione\|dione]], as both are introduced in that book and feature in it prominently. Considering the title, [[Delver\|delvers]] may also originate from *The Eyes*.
 The name "Cytoverse" itself came about fairly late, almost half a year after the publication of *[[Starsight\|Starsight]]*. Up until then, the name **Skyward Universe** was used, with "cytoverse" making rounds in the fandom until Brandon canonized it at one of his livestreamed signings. Unlike [[Cosmere\|cosmere]], "Cytoverse" is not an in-world term.
-While so far, the future of Cytoverse includes only the final book in the Skyward Series, Brandon does have some ideas for more stories in the setting. In particular, he remains interested in the concept of biological FTL.
+Brandon does have some ideas for more stories in the setting. In particular, he remains interested in the concept of biological FTL.
+A new three-book series named *[[Riftwake\|Riftwake]]* began with the release of *[[Blightfall\|Blightfall]]* in 2026.
 
 ## Bibliography of the Cytoverse
 |**Year**|**Book**|**Series**|**Length**|**Notes**|**Refs**|
@@ -145,11 +146,13 @@ While so far, the future of Cytoverse includes only the final book in the Skywar
 |[[Evershore (novella)\|Evershore]]|[[Skyward (series)\|Skyward]] #3.1|Novella|Co-written with Janci Patterson|
 |**2023**|[[Defiant (book)\|Defiant]]|[[Skyward (series)\|Skyward]] #4|Novel|
 |[[Hyperthief\|Hyperthief]]|[[Skyward (series)\|Skyward]] #3.2|Short Story|Co-written with Janci Patterson|
+|**2026**|[[Blightfall (book)\|Blightfall]]|[[Riftwake\|Riftwake]] #1|Novel|Co-written with Janci Patterson|
 
 ### Forthcoming works
 The following are confirmed upcoming works set in the Cytoverse:
 
-*[[Riftwake\|Riftwake]]* - the sequel trilogy to *Skyward*.
+*[[Songrise\|Songrise]]* - Riftwake #2
+TBD - Riftwake #3
 
 
 https://coppermind.net/wiki/Cytoverse

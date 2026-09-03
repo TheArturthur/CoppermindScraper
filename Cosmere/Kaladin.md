@@ -19,7 +19,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: TwinStorm, please contact him before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I don't know what I am either. A bridgeman? A surgeon? A soldier? A slave? Those are all just labels. Inside, I'm me. A very different me than I was a year ago, but I can't worry about that, so I just keep moving and hope my feet take me where I need to go.*”

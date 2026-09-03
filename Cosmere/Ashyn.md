@@ -6,7 +6,6 @@
 |**System**|[[Rosharan system\|Rosharan system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: MatthewJ, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There is Ashyn, the burning planet, which suffered a cataclysm long ago. *”

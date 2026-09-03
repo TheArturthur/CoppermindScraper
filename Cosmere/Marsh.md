@@ -63,7 +63,7 @@
 
 
 ## Appearance and Personality
- 
+  Marsh through the eras
 ### Appearance
 For more images, see [[Marsh/Gallery\|/Gallery]].
 Before becoming an [[Inquisitor\|Inquisitor]], Marsh is stern and determined, earning him the name "**Ironeyes**" as a result of his piercing gaze. Marsh looks very similar to his brother [[Kelsier\|Kelsier]], even after becoming an Inquisitor. He is over six feet tall. Steel Ministry tattoos and [[Hemalurgy\|spikes]] through his eyes are a prominent feature of his face after being made an [[Inquisitor\|Inquisitor]], scars are said to intermingle with his faded tattoos. One of his eye sockets is deformed from being crushed by Sazed, and has scars and bony ridges under the skin.

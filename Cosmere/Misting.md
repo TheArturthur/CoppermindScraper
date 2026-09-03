@@ -7,8 +7,6 @@
 |**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[The Bands of Mourning\|The Bands of Mourning]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Allomancy is brutal, raw, and powerful.*”
@@ -83,6 +81,7 @@ Burning metals containing [[BioChromatic Breath\|BioChromatic Breath]] has no ef
 Allomancers who flare their metal intensely for extended periods of time may be physiologically altered by the constant influx of Allomantic power. These people are known as Allomantic **[[Savant\|savants]]**. These people experience heightened ability with, and heightened dependence upon, whatever metal they are burning in such a manner. Under most circumstances, this was considered irreversibly damaging.
 
 ## Types of Allomancers
+  Mistborn in action
 >“*Never try to burn a metal that isn't one of the ten. I warned you that impure metals and alloys can make you sick. Well, if you try to burn a metal that isn't Allomantically sound at all, it could be deadly.*”
 \-Kelsier to Vin[26]
 

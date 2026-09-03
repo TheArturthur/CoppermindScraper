@@ -68,6 +68,7 @@ Eventually, [[Kelsier\|Kelsier]] appeared among the Southern Scadrians offering 
 Kelsier became known as the **[[Sovereign\|Sovereign]]**, ruling over his Southern Scadrian followers. He started the tradition of the **Firemothers** and **Firefathers**, people who live only to fill the medallions with heat. After a period of time, the Sovereign took the [[Bands of Mourning\|Bands of Mourning]] and hid them in [[Sovereign's temple\|a temple in the mountains]] of Northern Scadrial. His priests travelled with him, then returned to the southern continent to pass on the legend of the Bands.
 Although the Sovereign had been rumored to be the Lord Ruler himself, he was in actuality Kelsier, another man from northern Scadrial.
 
+  Southern Scadrians with a skimmer
 ### Looking for the Bands (336-337 years Post-Catacendre)
 As the Southern Scadrians began scouting farther and farther north using their airships, they eventually discovered the lands of the [[Elendel Basin\|Elendel Basin]]. The Hunters sent a large expedition to the north, looking for the temple where the Sovereign left the Bands of Mourning. They intended to use an [[Ettmetal\|ettmetal]] bomb to destroy the Bands. Though most of the expedition perished, supposedly in a blizzard, one skimmer managed to return to the southern continent and tell their story. However, [[Waxillium Ladrian\|Waxillium Ladrian]] believes that some of the crew, desiring the power of the Bands, betrayed the others and attempted to take the Bands for themselves. This attempt was unsuccessful due to the traps at the temple.
 

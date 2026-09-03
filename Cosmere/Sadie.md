@@ -1,11 +1,13 @@
-|**Sadie**|
+|**Sadie Chay**|
 |-|-|
 |**Profession**|DDF pilots|
 |**Homeworld**|[[Detritus\|Detritus]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Starsight\|Starsight]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 "Sentry" redirects here. For for the Ferrings known as Sentries, see [[/wiki/Bronze#Feruchemical Use]].
 >“*Maybe soon I’ll be able to be like you, Spin!*”

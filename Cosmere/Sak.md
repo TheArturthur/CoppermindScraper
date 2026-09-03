@@ -8,8 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Sak** is a bird that lives on the planet [[First of the Sun\|First of the Sun]] and is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]]. She is not a member of any the species known to the [[Eelakin\|Eelakin]] as [[Aviar\|Aviar]], but she becomes an Aviar after coming to [[Patji (island)\|Patji]] and gaining a magical talent.

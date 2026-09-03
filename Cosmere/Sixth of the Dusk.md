@@ -8,8 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This article is about the character. For the novella that was superseded by [[Isles of the Emberdark\|Isles of the Emberdark]], see [[Sixth of the Dusk (novella)\|Sixth of the Dusk (novella)]].

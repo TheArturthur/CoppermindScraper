@@ -4,8 +4,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Wind and Truth\|Wind and Truth]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This article contains intellectual property reproduced with permissionPlease do not alter or reproduce without permission from the creator
 
 For the city in [[Iri\|Iri]], see [[Eila\|Eila]].

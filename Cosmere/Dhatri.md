@@ -4,8 +4,6 @@
 |**[[Investiture\|Investitures]]**|[[Aether\|Aethers]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 >“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
 \-Kelsier to Harmony[1]
 

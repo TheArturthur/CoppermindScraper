@@ -6,8 +6,6 @@
 |**System**|[[Taldain system\|Taldain system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 For the planetary system that includes the planet Taldain, see [[Taldain system\|Taldain system]].
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[White Sand\|White Sand]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*Taldain is one of the most bizarre planets in the cosmere, a fact that, in turn, feels bizarre to me.*”

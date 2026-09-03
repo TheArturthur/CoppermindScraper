@@ -8,7 +8,9 @@
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Skyward\|Skyward]]*|
 
-> [!info] This page or section needs to be updated with new information for *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Defiant (book)\|Defiant]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[Sunreach\|Sunreach]]*, *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Arturo Mendez** (callsign **Amphisbaena**) is a member of the [[DDF\|DDF]] and a member of [[Skyward Flight\|Skyward Flight]]. Both of his parents are pilots, one of which is [[Valda Mendez\|Valda Mendez]]. He is an assistant flight leader to [[Jorgen\|Jorgen]], along with [[Nedd\|Nedd]].
 His callsign, Amphisbaena, comes from the mythological  that goes by the same name. His flightmates and other DDF staff have difficulty pronouncing his callsign, leading to it being shortened to Amphi. [[Cobb\|Cobb]] appears to be the only person who can pronounce Arturo's callsign, however also calls him by the shortened nickname.

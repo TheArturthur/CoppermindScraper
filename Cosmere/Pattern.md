@@ -8,7 +8,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Cerulean1397, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Oathbringer\|Oathbringer]]*, *[[Rhythm of War\|Rhythm of War]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I know that you have forgotten much of what once was. Those lies attracted me. But you cannot continue like this; you must admit the truth about me. About what I can do, and what we have done. Mmm... More, you must know yourself. And remember. You wish to help. You wish to prepare for the Everstorm, the spren of the unnatural one. You must become something. I did not come to you merely to teach you tricks of light.*”

@@ -1,7 +1,4 @@
   The cover of *[[Arcanum Unbounded\|Arcanum Unbounded]]*, featuring <<Khriss\|Khriss>>
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Stargazer, please contact them before doing edits.
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You’ve stumbled into something far, far bigger than you, your politics, or your little planet ... Your questions are dangerous. Once you step behind the curtain and see the actors as the people they are, it becomes harder to pretend the play is real.*”

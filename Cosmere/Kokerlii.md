@@ -9,8 +9,6 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|
 
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
-
 **Kokerlii** is an [[Aviar\|Aviar]] on [[First of the Sun\|First of the Sun]]. He is owned by the [[Trapper\|trapper]] [[Sixth of the Dusk (character)\|Sixth of the Dusk]] and lives with him on the island of [[Patji (island)\|Patji]] in the [[Pantheon\|Pantheon]].
 
 ## Contents

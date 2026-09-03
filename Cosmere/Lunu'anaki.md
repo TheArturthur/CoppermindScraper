@@ -11,13 +11,11 @@
 
 > [!info] What did I *tell* you about spoiling the ending of stories!Hoid has made his presence known all across the [[Cosmere\|cosmere]], and so this page contains **extensive spoilers**.
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Windrunner, please contact them before doing edits.
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
-
-> [!warning] This page or section contains spoilers for *[[Isles of the Emberdark\|Isles of the Emberdark]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Sunlit Man\|The Sunlit Man]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
+This article is about the cosmere character. For the Cytoverse character, see [[Hoid (Riftwake)\|Hoid (Riftwake)]].
 >“*And while I am your friend, please understand that our goals do not completely align. You must not trust yourself with me. If I have to watch this world crumble and burn to get what I need, I will do so. With tears, yes, but I would let it happen.*”
 \-Hoid to Dalinar[3]
 

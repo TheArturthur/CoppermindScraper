@@ -10,7 +10,6 @@
 |**Residence**|[[Roshar\|Roshar]], [[Ashyn\|Ashyn]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: SpiderFerg, please contact them before doing edits.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*I am . . . I was . . . God. The one you call the Almighty, the creator of mankind. And now I am dead. [[Odium\|Odium]] has killed me. I am sorry.*”

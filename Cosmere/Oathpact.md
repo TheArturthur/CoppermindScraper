@@ -5,7 +5,6 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page is part of the December 2024 objectives!It has been claimed by User: Kronk, please contact them before doing edits.
 >“*And thus we had an agreement. They swore to me, and I gave them the largest portion of myself that I would ever grant.*”
 \-Honor, explaining the Oathpact to Dalinar.[1]
 
