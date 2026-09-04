@@ -87,7 +87,7 @@ It shines brightly with glow of Stormlight and gleaming glyphs, although the Rad
 
 |**Armor Spren**|
 |-|-|
-|**Radiant Order**|**[[Windrunner\|Windrunner]]**|**[[Skybreaker\|Skybreaker]]**|**[[Dustbringer\|Dustbringer]]**|**[[Order of Edgedancers\|Edgedancer]]**|**[[Truthwatcher\|Truthwatcher]]**|**[[Order of Lightweavers\|Lightweaver]]**|**[[Elsecaller\|Elsecaller]]**|**[[Willshaper\|Willshaper]]**|**[[Stoneward\|Stoneward]]**|
+|**Radiant Order**|**[[Windrunner\|Windrunner]]**|**[[Skybreaker\|Skybreaker]]**|**[[Dustbringer\|Dustbringer]]**|**[[Order of Edgedancers\|Edgedancer]]**|**[[Truthwatcher\|Truthwatcher]]**|**[[Order of Lightweavers\|Lightweaver]]**|**[[Order of Elsecallers\|Elsecaller]]**|**[[Willshaper\|Willshaper]]**|**[[Stoneward\|Stoneward]]**|
 |**Lesser Spren**|[[Windspren\|Windspren]]|[[Luckspren\|Luckspren]]|[[Flamespren\|Flamespren]]|[[Lifespren\|Lifespren]]|[[Concentrationspren\|Concentrationspren]]|[[Creationspren\|Creationspren]]|[[Logicspren\|Logicspren]]|[[Joyspren\|Joyspren]]|[[Bindspren\|Bindspren]]|
 |**Image**| | | | | | | | | |
 
@@ -123,7 +123,7 @@ Shardplates are made out of a mixture of the unnamed [[God Metal\|God Metals]] o
 |-|-|
 |[[Kaladin Stormblessed\|Kaladin Stormblessed]]|[[Windrunner\|Windrunner]]|Blue and emblazoned with the Bridge Four glyph.|Formed of windspren, which had been noted to gather around Kaladin prior to the Fourth Oath.||
 |[[Sigzil\|Zellion]]|[[Skybreaker\|Skybreaker]]|Burns with red-orange light, and trails smoke.|Formed of luckspren and windspren.||
-|[[Jasnah Kholin\|Jasnah Kholin]]|[[Elsecaller\|Elsecaller]]|First Shardplate to have been made after the Recreance.|Formed of logicspren.||
+|[[Jasnah Kholin\|Jasnah Kholin]]|[[Order of Elsecallers\|Elsecaller]]|First Shardplate to have been made after the Recreance.|Formed of logicspren.||
 |[[Shallan Davar\|Shallan Davar]]|[[Order of Lightweavers\|Lightweaver]]|A metallic red color with the Lightweaver order symbol on the breastplate. It has swirls of color like ribbons of wet paint, poured together. It's sleeker then other Shardplates, like it can be worn underneath a coat.|Formed of creationspren.| |
 |[[Dami\|Dami]]|[[Stoneward\|Stoneward]]|Glows a golden orange and has a symbol. Large and bulky, making Dami stand taller than any other Shardbearer.|Formed of bindspren||
 

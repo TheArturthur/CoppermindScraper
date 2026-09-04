@@ -2,8 +2,8 @@
 |-|-|
 ||
 |**Abilities**|[[Shard\|Shard]] of [[Cultivation\|Cultivation]]|
-|**Titles**|[[Cultivation\|Cultivation]], Mother of the World, She Who Brings the Dews at Dawn|
-|**Aliases**|Koravari, Kor  Slammer|
+|**Titles**|[[Cultivation\|Cultivation]], Mother of the World, She Who Brings the Dews at Dawn, Chosen Spirit|
+|**Aliases**|Koravari, Kor  Slammer, Kohreia |
 |**Species**|[[Dragon (cosmere)\|Dragon (cosmere)]]|
 |**Homeworld**|[[Yolen\|Yolen]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
@@ -12,7 +12,7 @@
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*All things must be cultivated.*”
-\-Koravellium Avast[6]
+\-Koravellium Avast[7]
 
 **Koravellium Avast**, also known as **She Who Brings the Dews at Dawn**, **Kor**, and **Koravari**, is the original, and current, [[Vessel\|Vessel]] of the [[Shard\|Shard]] [[Cultivation\|Cultivation]].
 
@@ -42,7 +42,7 @@
  
 For more images, see [[Koravellium Avast/Gallery\|/Gallery]].
 >“*This woman extended into eternity.*”
-\-Dalinar[6]
+\-Dalinar[7]
 
 
 ### Appearance
@@ -68,7 +68,7 @@ For subsequent events, see [[/wiki/Cultivation#History]].
   Koravellium and <<Tanavast\|Tanavast>>
 ### Tanavast
 >“*She doesn't care any longer. Now that He’s gone . . .*”
-\-Wyndle[11]
+\-Wyndle[12]
 
 
 Koravellium and [[Tanavast\|Tanavast]] were once romantically involved, though the specifics of how are unclear. Notably, the two share the last five letters of their names, and though it's unlikely to be accidental, it's unclear what, if anything, it means.
@@ -78,7 +78,7 @@ After leaving the other Shards, Tanavast went to Roshar, and some time after Kor
 
 ### Taravangian
 >“*Oh, you wonderful creature. You have no idea what you have done.*”
-\-Taravangian[8]
+\-Taravangian[9]
 
 
 Koravellium engineers [[Taravangian\|Taravangian's]] Ascent to [[Odium\|Odium]], giving him the boon that alters his intelligence and empathy to prepare him for bearing the power. She hopes that he could carry it more honorably than [[Rayse\|Rayse]], thus putting reins on what she considers to be the most dangerous of the sixteen powers. After Taravangian becomes Odium, she introduces herself to him and offers to teach him how to use his newfound abilities.
@@ -87,14 +87,14 @@ Koravellium claims that she didn't have the full control over her boon to Tarava
   Koravellium and the <<Nightwatcher\|Nightwatcher>>
 ### Nightwatcher
 >“*Mother wanted a daughter whose shape and personality would grow organically.*”
-\-Wyndle[23]
+\-Wyndle[24]
 
 
 Koravellium created the [[Nightwatcher\|Nightwatcher]] directly, aiming to make a creature that would grow without the influence of human perception and thought, which is why Nightwatcher's point of view can be highly alien for those who interact with her, even other [[Spren\|spren]]. Nonetheless, she allows the Nightwatcher to interact with humans in limited capacity—she lets her hold court in the [[Valley\|Valley]], granting petitioners boons and banes through [[Old Magic\|Old Magic]]. Cultivation keeps a close eye on those exchanges, stepping in when she sees that the Nightwatcher is out of her depth, and occasionally granting boons in her stead.
 
 ### Hoid
 >“*She and I never did get along.*”
-\-Hoid about Koravellium[24]
+\-Hoid about Koravellium[25]
 
 
 For reasons unknown, [[Hoid\|Hoid]] and Koravellium are on poor terms. He does not seem to think badly of her, but has his own nickname for her—Slammer. How it came about is likewise unknown.

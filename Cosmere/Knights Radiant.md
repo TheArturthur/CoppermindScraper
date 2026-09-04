@@ -93,6 +93,7 @@ These Surgebinders were later formed into the ten orders of the Knights Radiant 
 In the early era of the Knights Radiant, the Bondsmiths did not bond to the three modern Bondsmith spren, but rather to the [[Wind\|Wind]], [[Stone\|Stone]], and [[Night\|Night]]. Though, as new spren were created from them over time, the Bondsmiths would come to bond to the [[Stormfather\|Stormfather]], the [[Sibling\|Sibling]], and the [[Nightwatcher\|Nightwatcher]].
 This formalized system was in place by at least the Sixth Epoch, Year 31. The founding also occurred after the creation of the Unmade.
 
+  A Radiant fighting <<Voidbringer\|Voidbringers>>
 ### The False Desolation
 For more information, see [[False Desolation\|False Desolation]].
 For a long time, they maintained their duty, fighting against flare-ups from the various Unmade who remained on Roshar, until around two thousands years before the Night of Sorrows, when a group of singers were Connected to [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] and pushed into a war with humanity.

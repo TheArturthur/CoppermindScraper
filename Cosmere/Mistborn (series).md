@@ -43,8 +43,8 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2026**|**|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
+|**|1024 [[Final Empire\|FE]]|265||
 |**|1021 [[Final Empire\|FE]]|||
-|**||||
 
 
 
@@ -60,7 +60,9 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 
 
 ## Era 2: Wax and Wayne Series
-Set about 300 years after Era 1, the Wax and Wayne series is about the exploits of [[Waxillium Ladrian\|Waxillium Ladrian]], a "wild-west Deputy" forced to move into the big city who starts investigating kidnappings and robberies.
+Set about 300 years after Era 1, the Wax and Wayne series is about the exploits of [[Waxillium Ladrian\|Waxillium Ladrian]], a "wild-west Deputy" forced to move into the big city who starts investigating kidnappings and robberies. *The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
+[[Isaac Stewart\|Isaac Stewart]] is writing [[Book of Nails\|Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage\|Nicelle Sauvage's]] sensationalized stories in the Era 2 broadsheets.
+Brandon has also said that he may do some more stories before Era 3, set in a 1940's society.
 
 |**Mistborn Era 2**|
 |-|-|
@@ -78,11 +80,9 @@ Set about 300 years after Era 1, the Wax and Wayne series is about the exploits 
 |**Mistborn Era 2 Campaign Setting**|
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
-|**2026**|**||||
+|**2026**|**|345 [[Catacendre\|PC]]|265||
 
-*The Alloy of Law* was initially conceived as one of several short stories Brandon wanted to set between the first and second main trilogies that eventually grew into a full novel, and then a series. The Wax and Wayne series is a single four-book series; *The Alloy of Law* stands more-or-less alone while the rest are plotted together like a trilogy.
-[[Isaac Stewart\|Isaac Stewart]] is writing [[Book of Nails\|Book of Nails]], a novel detailing the truth behind [[Nicelle Sauvage\|Nicelle Sauvage's]] sensationalized stories in the Era 2 broadsheets.
-Brandon has also said that he may do some more stories before Era 3, set in a 1940's society.
+
 
 
 |**[[Mistborn Era 2\|Mistborn Era 2]]**|

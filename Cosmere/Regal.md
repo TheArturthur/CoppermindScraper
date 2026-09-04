@@ -39,6 +39,7 @@
 
 
 ## Mechanics
+  A Regal with <<Fused\|Fused>>
 ### Formation and Appearance
 To become a Regal, a singer has to bond a [[Voidspren\|Voidspren]]; a non-sapient variety is used for this purpose. The form is assumed much like any other, by stepping into the storm with the mindset to bond an appropriate spren. Unlike a Fused possession, a form of power can be taken on both in a [[Highstorm\|highstorm]] and the [[Everstorm\|Everstorm]]. In some cases, [[Odium\|Odium]] may force a Regal form upon a singer personally while the latter is in the Everstorm.
 During the [[False Desolation\|False Desolation]], [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] was able to Connect to all singers on Roshar and grant a large portion of them forms of power as well as Voidlight. This is no longer possible since that Unmade does not have access to the power of [[Odium\|Odium]].
@@ -102,7 +103,7 @@ A singer in Direform is more obedient to Odium and their Fused commanders, even 
 Direform Regals typically stand over seven feet tall, covered in thick plates of stacked, interlocking carapace resembling a full suit of plate armor. These plates are covered in wicked, curved spikes, especially on the head and shoulders. Direforms have no hairstrands, as their carapace covers most of their head—along with the rest of their body, leaving gaps only at their joints and face.
 
 
-They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are stronger than most allies and enemies, but they are no match for Shardplate. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters. Many Direform soldiers use [[Rira\|Riran]] [[Spiked shield\|spiked shields]] in combat.
+They are stronger, faster, and tougher than humans, with exceptionally strong carapace, and are stronger than most allies and enemies, but they are no match for Shardplate. They can use Voidlight to further increase their strength and speed. They expertly use their carapace spikes to punish foes foolish enough to engage with them in close quarters. Many Direform soldiers use [[Rira (country)\|Riran]] [[Spiked shield\|spiked shields]] in combat.
 
 ### Nightform
 >“*Nightform predicting what will be, / The form of shadows, mind to foresee. / As the gods did leave, the nightform whispered. / A new storm will come, someday to break. / A new storm a new world to make. / A new storm a new path to take, the nightform listens.*”

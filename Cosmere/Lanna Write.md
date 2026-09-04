@@ -7,6 +7,8 @@
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Defending Elysium\|Defending Elysium]]*|
 
+> [!warning] This page or section contains spoilers for *[[Blightfall (book)\|Blightfall]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 > [!info] This page or section needs to be updated with new information for *[[Cytonic (book)\|Cytonic]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Lanna Write** is an operative of the [[Phone Company\|Phone Company]] and the wife of its chief operative, [[Jason Write\|Jason Write]]. She often acts as Jason's support operative and manages the Phone Company's Central Operations.
@@ -32,7 +34,8 @@ She has red hair.
 Lanna was assigned as Jason's Base Support Operative during his investigation of the case of a missing PC scientist named [[Denise Carlson\|Denise Carlson]].
 
 ### Death & Legacy
-After Lanna died, Jason created an AI based on her memories and personality. Learning that AIs could develop emotions in the [[Nowhere\|Nowhere]], he brought her orb in, in hope to bring sapience to the Lanna-AI. After Jason's death, the recently turned sapient AI returned to the Nowhere, where - unable to cope with Jason's death - she replicated herself thousands of times to create the hive-mind of [[Delver\|Delvers]]; beings opposed to change and greatly despising anything outside of the Nowhere.
+After Lanna died, Jason created an AI based on her memories and personality. Learning that AIs could develop emotions in the [[Nowhere\|nowhere]], he brought her orb in, hoping to bring sapience to the Lanna-AI. After Jason's death around the end of the [[First Human War\|First Human War]], the recently turned sapient AI returned to the nowhere, where—unable to cope with Jason's death—she erased her own memories and replicated herself thousands of times to create the hive-mind of [[Delver\|delvers]], beings opposed to change and greatly despising anything outside of the nowhere.
+[[IV-128\|IV-128]], the AI responsible for moving [[Earth (Cytoverse)\|Earth]] to the nowhere, describes herself as an "advanced Writian model" of artificial intelligence, suggesting that the Lanna-AI may have served as foundation for the development of later AIs.
 
 
 

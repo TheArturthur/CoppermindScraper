@@ -149,7 +149,7 @@ For the history of the Shard following its merging with Odium, see [[/wiki/Retri
 ## Influence
   Honor and the <<Stormfather\|Stormfather>>
 >“*The Almighty accepted the excellence of any man or woman, regardless of what they did.*”
-\-Vorin doctrine[72]
+\-Vorin doctrine[71]
 
 
 Honor is well known among the Rosharan people, and worshiped as a god. [[Vorinism\|Vorinism]] calls him the **Almighty** and claims that he's the only deity, considering worship of [[Cultivation\|Cultivation]] to be pagan. He's believed to be the creator of both Roshar and mankind. In the Vorin tradition, he has ten names, the last of which, Elithanathile, is only used by [[Ardent\|ardents]], the Vorin priests. It's said he resides in the hearts of all people. As it's commonly believed that perceiving him directly would cause one to burst into flames from his sheer glory, he's typically represented by a divine prism with ten facets.

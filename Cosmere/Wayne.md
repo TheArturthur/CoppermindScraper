@@ -93,7 +93,7 @@ Wayne has little to no concept of boundaries and an almost pathological need to 
 
 ## Attributes & Abilities
 ### Metallic Arts
-Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[Twinborn\|Twinborn]]. He is both a Bloodmaker and a Slider.
+Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[Twinborn\|Twinborn]]. He is both a Bloodmaker and a Slider. The Mistborn Handbook from the Cosmere RPG has since canonized this combination as a Mirage (though Wayne refers to it as a Skipper).
 
 #### Feruchemy
 >“*Not that the pain went completely away, mind you. But he and pain were old friends what shared a handshake and a beer now and then. Didn't much like each other, but they had a working relationship.*”

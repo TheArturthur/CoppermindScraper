@@ -142,6 +142,7 @@ Venli speaks with Leshwi, and helps her seek a new place among the Listeners, fr
 After [[Odium\|Odium]] ascends to [[Retribution\|Retribution]], he sends a messenger to Venli's group in Narak, and they learn how to receive [[Warlight\|Warlight]] from the everstorm. She creates a passage down to what is now Retribution's Perpendicularity using her Stoneshaping, and thinks about the powerful duty that her people now have.
 
 ## Relationships
+  With the <<Fused\|Fused>>
 ### Jaxlim
 Jaxlim is Venli's mother. Venli spends hours learning the Listener's songs from Jaxlim. Venli is annoyed by her mother on occasion but does respect her.
 The deterioration of Jaxlim's memory is a driving factor in why Venli wants to discover new forms. Initially, she wishes to discover forms of power to help heal her mother.

@@ -99,6 +99,7 @@ For related information, see:
 |*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
 |*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
 |**|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Non-canon.| |
+|*[[Songs of the Dead\|Songs of the Dead]]*|[[The Strata Wars\|The Strata Wars]]|Novel|Co-written with [[Peter Orullian\|Peter Orullian]].||
 
 
 
