@@ -61,7 +61,7 @@ Residents of Bilming hold a deep distrust of [[Malwish\|Malwish]] technology, wh
 \-Marasi Colms[1]
 
 In 343 [[Catacendre\|PC]] the city begins to be characterized by a regular pattern of modern buildings with calculated differences which are erected in the place of older, more individual ones. The overall effect is that of "mass-produced individuality." In fact, the new style taking over the city comes from a  movement on [[Taldain\|Taldain]] which has been brought to [[Scadrial\|Scadrial]] by Autonomy's influence. In her drive to impress Autonomy, [[Telsin\|Telsin]] plans on making the whole world like Bilming in this regard. The Bilming government advertises on billboards all over the city in a bid both to popularize the modernization of the city and to promote ill feelings toward Elendel.
-Bilmingers are characterized by their own distinct accent, and they also have a particular way of dressing.
+Bilmingers are characterized by their own distinct accent, and they also have a particular way of dressing. They are said to be brash, individualistic people.
 
 ## Politics
 >“*Lord mayor of Bilming was an important position—probably the most important one outside of Elendel.*”

@@ -14,7 +14,7 @@
 For more images, see [[Kredik Shaw/Gallery\|/Gallery]].
  
 It is built on top of the [[Well of Ascension\|Well of Ascension]] by [[Rashek\|Rashek]] after he remodels the surrounding geography to hide the well from those seeking it in the mountains of [[Terris\|Terris]].
-It has many peaked spires and sheer towers that rise high into the air, all of varying thickness. Some are large enough to contain large rooms and stairwells, and others are simply nothing more than thin rods of iron. There are no outer defensive walls surrounding the palace.
+It has many peaked spires and sheer towers that rise high into the air, all of varying thickness. Some are large enough to contain large rooms and stairwells, and others are simply nothing more than thin rods of iron. There are no outer defensive walls surrounding the palace. The palace was made with materials and architectural processes known only to the [[Steel Ministry\|Steel Ministry]]. It was so large that even three hundred years after its destruction, people hadn’t built anything taller.
 One part of the palace contains a large, domed room with many murals, including a [[Terris\|mountain]], a large cavern, a [[Well of Ascension\|pool of light]], and [[Ruin\|something very dark]]. At the center of this room is a small, single-story building with a wooden door. Words are carved into the door, probably in the ancient [[Terris\|Terris]] language. The stone of this building is carved with ornate, flowing patterns.
 Being in the area immediately around Kredik Shaw gives one a feeling of immense depression, as if a constant, strong [[Brass\|Soothing]] were taking place. This is caused by the Lord Ruler himself.
 

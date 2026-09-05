@@ -50,7 +50,7 @@ Prior to her Ascension, Koravellium was a [[Dragon (cosmere)\|dragon]]; however,
 As a dragon, she is large and possesses brown scales. Like all dragons, she is lined with silvery [[Dragonsteel (metal)\|Dragonsteel]].
 
 ### Personality
-Koravellium is calculating and cautious, preferring to set things up from the background than taking action directly, likely thanks to having front-row view of what happens to Shards that do fight [[Odium\|Odium]] head-on. She is deeply private and secretive, retreating from people and hiding her plans and thoughts from them. This leads to some thinking that she has given up on humanity at large, while in reality she is hiding and planning. When she does interact with people, she is rather curt and self-assured, leaving no room for discussion or doubts, though she can be considerate when need be.
+Koravellium is calculating and cautious, preferring to set things up from the background than taking action directly, likely due to having directly witnessed how disastrous direct Shardic confrontation could be. She is deeply private and secretive, retreating from people and hiding her plans and thoughts from them. This leads to some thinking that she has given up on humanity at large, while in reality she is hiding and planning. When she does interact with people, she is rather curt and self-assured, leaving no room for discussion or doubts, though she can be considerate when need be.
 She can, however, be kind. She cared deeply for [[Tanavast\|Tanavast]], and mourned his passing. She isn't opposed to teaching other Shards how to use their powers, either. It seems this can be used to fool her, though at the moment, it's unclear how deeply her schemes run. She is mentioned as going through much trouble to keep her schemes a secret, and dislikes that Dalinar Kholin wrote about his visit to the Valley.
 She believes that one god cannot rule the cosmere, as one solution would never be able to work for all people. Thus she believes multiple gods are necessary to properly rule over the cosmere. She describes this as her reason for [[Shattering of Adonalsium\|Shattering]] [[Adonalsium\|Adonalsium]].
 
@@ -68,7 +68,7 @@ For subsequent events, see [[/wiki/Cultivation#History]].
   Koravellium and <<Tanavast\|Tanavast>>
 ### Tanavast
 >“*She doesn't care any longer. Now that He’s gone . . .*”
-\-Wyndle[12]
+\-Wyndle[13]
 
 
 Koravellium and [[Tanavast\|Tanavast]] were once romantically involved, though the specifics of how are unclear. Notably, the two share the last five letters of their names, and though it's unlikely to be accidental, it's unclear what, if anything, it means.
@@ -87,14 +87,14 @@ Koravellium claims that she didn't have the full control over her boon to Tarava
   Koravellium and the <<Nightwatcher\|Nightwatcher>>
 ### Nightwatcher
 >“*Mother wanted a daughter whose shape and personality would grow organically.*”
-\-Wyndle[24]
+\-Wyndle[25]
 
 
 Koravellium created the [[Nightwatcher\|Nightwatcher]] directly, aiming to make a creature that would grow without the influence of human perception and thought, which is why Nightwatcher's point of view can be highly alien for those who interact with her, even other [[Spren\|spren]]. Nonetheless, she allows the Nightwatcher to interact with humans in limited capacity—she lets her hold court in the [[Valley\|Valley]], granting petitioners boons and banes through [[Old Magic\|Old Magic]]. Cultivation keeps a close eye on those exchanges, stepping in when she sees that the Nightwatcher is out of her depth, and occasionally granting boons in her stead.
 
 ### Hoid
 >“*She and I never did get along.*”
-\-Hoid about Koravellium[25]
+\-Hoid about Koravellium[26]
 
 
 For reasons unknown, [[Hoid\|Hoid]] and Koravellium are on poor terms. He does not seem to think badly of her, but has his own nickname for her—Slammer. How it came about is likewise unknown.

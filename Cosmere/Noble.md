@@ -21,7 +21,7 @@ The **nobles** are a race of humans on [[Scadrial\|Scadrial]].
 
 
 ## Origin and Traits
-When [[Rashek\|Rashek]] held the power of the [[Well of Ascension\|Well of Ascension]], he altered the biology of all humans so that they would be able to survive in a world of ash. At the same time, he also divided the population into two groups—the nobles and the [[Skaa\|skaa]]—with different physiological traits. As a result, in the times shortly after the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]], the nobles were less fertile than the skaa, but were also generally taller, stronger, and more intelligent. These changes were slight, however, and had mostly disappeared as a result of interbreeding by the time of the [[Collapse\|Collapse]]. After his Ascension, Rashek also gave beads of [[Lerasium\|lerasium]] to the original nobles, which is why only those with a noble ancestor could become [[Allomancer\|Allomancers]].
+When [[Rashek\|Rashek]] held the power of the [[Well of Ascension\|Well of Ascension]], he altered the biology of all humans so that they would be able to survive in a world of ash. At the same time, he also divided the population into two groups—the nobles and the [[Skaa\|skaa]]—with different physiological traits. As a result, in the times shortly after the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]], the nobles were less fertile than the skaa, but were also generally taller, stronger, and more intelligent. These changes were slight, however, and had mostly disappeared as a result of interbreeding by the time of the [[Collapse\|Collapse]]. Regardless, there are differences in the skin tones of the nobility. Pink and tan shades are most common in the [[Central Dominance\|Central Dominance]], while warm brown complexions are found in some Outer Dominances, and Eastern people more often have pale skin and blond hair. After his Ascension, Rashek also gave beads of [[Lerasium\|lerasium]] to the original nobles, which is why only those with a noble ancestor could become [[Allomancer\|Allomancers]].
 Since the nine original Allomancers were already kings in [[Classical Scadrial\|Classical Scadrial]], it appears that the people Rashek turned into nobles were primarily of high social status even before his Ascension.
 
 ## Culture
@@ -31,7 +31,7 @@ Each house has different levels of power, a social hierarchy. They use [[Steel M
 
 ### Great Houses
 >“*Interspersed throughout the city were a dozen or so monolithic keeps. Intricate, with rows of spearlike spires or deep archways, these were the homes of the high nobility. In fact, they were the mark of a high noble family: Any family who could afford to build a keep and maintain a high-profile presence in Luthadel was considered to be a Great House.*”
-\--The Final Empire[5] 
+\--The Final Empire[6] 
 
 The Great Houses are the most prominent noble families in the Final Empire, notable for their ability to build a keep and maintain a high-profile presence in Luthadel.  This is made difficult by the Lord Ruler's keep tax. There is nothing more embarassing to the aristocracy than a Great House that is unable to maintain itself.
 The Great Houses control imperial trade and enslave the greatest majority of the skaa. Country nobility resent the Great Houses for their control of the canal systems.

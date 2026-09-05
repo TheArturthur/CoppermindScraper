@@ -5,7 +5,7 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Tathingdwen** is the capital of the [[Terris Dominance\|Terris Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
+**Tathingdwen** is the capital of the [[Terris Dominance\|Terris Dominance]] of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. In Tathingdwen, [[Terris\|Terris]] men and women are kept strictly segregated. Terris women selected for the [[Steel Ministry\|Steel Ministry]]’s breeding programs are imprisoned in closely guarded facilities while Terris men are indoctrinated in steward academies. There are several villages outside of Tathingdwen, such as [[Myrshek Village\|Myrshek Village]].
 
 ## History
 It is not clear if Tathingdwen existed prior to the [[Ascension of the Lord Ruler\|Ascension of the Lord Ruler]], but in the Final Empire period, it contained the [[Synod\|Synod]], the ruling council of the [[Keeper\|Keepers]]. [[Sazed\|Sazed]] had been to Tathingdwen, and when he left the city to join [[Kelsier's crew\|Kelsier's crew]], he said he left in disgrace, with the common people cursing him. This indicates that the common people knew of the Keepers.

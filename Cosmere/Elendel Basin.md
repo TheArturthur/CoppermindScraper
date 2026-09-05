@@ -40,7 +40,7 @@ The Basin largely revolves around the city of [[Elendel\|Elendel]]. The city is 
 Elendel defines the prime meridian.
 
 ### Outer Cities
-The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement. Cities in the Basin outside of Elendel are collectively referred to as the "outer cities."  Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents.
+The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement. Cities in the Basin outside of Elendel are collectively referred to as the "outer cities."  Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents. Major cities also have their own enclaves of Terris people.
 Notable outer cities labeled on known maps include the following:
 
 

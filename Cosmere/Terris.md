@@ -70,12 +70,12 @@ After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|S
 ### Post-Catacendre
 Around one-fifth of the [[Originators\|Originators]], those who survived the war against Ruin and the Catacendre, were Terris. Many of the Originators taught their children the Terris language, and over time the language was revived from its dead state.
 With the Lord Ruler's Terris breeding program and laws against intermarriage ended, the Terris were no longer an entirely isolated population in post-[[Catacendre\|Catacendre]] Scadrial. Feruchemical and Allomantic genes combined to allow for [[Twinborn\|Twinborn]] who have both [[Allomancy\|Allomancy]] and Feruchemy. 
-However, many Terris still maintained an endogamous culture of their own distinct from the majority of the society of the Basin. [[The Village\|The Village]] is a major Terris enclave in Elendel. A Terris Synod existed in the Village; this Synod had no official control over other Terris enclaves, and would claim to have more authority than it actually possessed. Due to their endogamy, mixed race people remained rare, despite the legalization of such relationships.
+However, many Terris still maintained an endogamous culture of their own distinct from the majority of the society of the Basin. Most major cities in the Basin have their own Terris enclaves, such as [[The Village\|The Village]] in Elendel. A Terris Synod existed in the Village; this Synod had no official control over other Terris enclaves, and would claim to have more authority than it actually possessed. Due to their endogamy, mixed race people remained rare, despite the legalization of such relationships.
 They came to be desirable on staff, and especially amongst political cabinets. This is due to the fact that many people believe that it looks good for them to have diversity in their staff, using them for public image alone. Some Terris people have pointed out how this is merely using them as a medal.
 
 ## People
 The Terris people are recognized for their darker skin, but it doesn't tend as dark as one would find on [[Roshar\|Roshar]] or [[Taldain\|Taldain]]. Their characterization as being dark-skinned is not accurate, as they vary wildly between shades and tones. They have more diversity in skin tone than those of [[Central Dominance\|Central Dominance]] heritage. Due to these factors, it is difficult to tell a Terris person by their skin tone alone. However, in the Post-Catacendre era, due to a mixture of their endogamy, and the fact that most dark skinned people who survived the Catacendre were Terris, they became more associated with darker skin.
-At least some Terris people are black haired.
+Their hair is usually black or auburn.
 They are also, notably, a rather tall people. Terris people often have a willowy build. Ancient paintings, during the post-Catacendre era, show Terris people with exaggerated elongated features. Some Terris women wear their hair in a braid, and some men keep their head shaved.
 [[Feruchemy\|Feruchemy]] is passed down through Terris bloodlines. 
 
@@ -114,7 +114,7 @@ The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to pr
 
 #### Post-Catacendre Religion
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
-\- Tellingdwar giving the evening recitation[28]
+\- Tellingdwar giving the evening recitation[29]
 
 Post-Catacendre religious practices changed from the pre-Final Empire practices, though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
@@ -129,7 +129,7 @@ Little is known about Terris food, but it is likely similar to Mediterranean foo
 There is a group referred to as Terris Fundamentalists who live in the mountains of post-Catacendre Scadrial. They appear to return even closer to their cultural and ancestral roots than the other Terris enclaves around the Basin.
 
 ## Settlements
-The capital of the Terris Dominance is [[Tathingdwen\|Tathingdwen]], and there are also a lot of small villages across the Dominance.
+The capital of the Terris Dominance is [[Tathingdwen\|Tathingdwen]], and there are also a lot of small villages across the Dominance, such as [[Myrshek Village\|Myrshek Village]].
 By 341 PC, the Terris live throughout the Elendel Basin, and within cities such as Elendel. These settlements, even the enclaves, have a degree of autonomy granted to them by the government, allowing the Terris to police themselves without the interference of the local constabulary. The Terris settlement in Elendel is known as [[The Village\|the Village]].
 
 ## Notable People

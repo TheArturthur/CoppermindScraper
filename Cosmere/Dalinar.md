@@ -739,6 +739,7 @@ This new Shard is the most dangerous being in the cosmere—perhaps even more po
 #### Death
 Once Retribution was formed from the merging of the power of Odium and the power of Honor, Dalinar could feel the eyes of all the shards turn towards Retribution and Roshar. Shortly following this, Dalinar was killed by strong winds and debris. In his final moments, he protected Gavinor, allowing him to survive the attack.
 After his death, Renarin indicated his body would be [[Soulcast\|Soulcast]] to stone by Jasnah.
+In the spiritual realm, Odium used the version of Dalinar at Rathalas which had the real Dalinar's memories to create his champion, creating the spren known as the [[Blackthorn (spren)\|Blackthorn]].
 
 ## Relationships
 ### Evi

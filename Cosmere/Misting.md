@@ -57,7 +57,7 @@ Additionally, consuming a bead of lerasium will hardcode Allomancy into a person
 ### Snapping
 In the [[Final Empire\|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they [[Snap\|Snap]], as Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities.
 According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities on this to other magic systems, such as the [[Knights Radiant\|Knights Radiant]] all being "broken" as indicated by [[Syl\|Syl]].
-It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. It is said that the more powerful the Allomancer, the more intense the trauma has to be to Snap.
+It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. It is said that the more powerful the Allomancer, the more intense the trauma has to be to Snap. However, it is also said that the more concentrated Allomancy is in a person, the easier they Snap. Due to this, Snapping was even more difficult and traumatic during Scadrial’s [[Classical Scadrial\|classical]] age.
 After the [[/wiki/Catacendre#Final Ascension]], [[Harmony\|Harmony]] changed the way Snapping operated, but it is unknown how it was altered. After an Allomancer has Snapped, they will have access to their full power, and do not have to build to reach their full potential such as with Surgebinding.
 
 #### Mist Sickness
@@ -66,7 +66,7 @@ During the time the mists are Snapping people right before the Catacendre, they 
 
 ## Mechanics
 >“*Allomancy, obviously, is of [[Preservation\|Preservation]]. The rational mind will see this. For, in the case of Allomancy, net power is gained. It is provided by an external source -- Preservation's own body.*”
-\-Harmony on Allomancy[18]
+\-Harmony on Allomancy[19]
 
 
   <<Vin\|Vin>> pushing on coins with the Allomantic power of <<Steel\|steel>>
@@ -83,7 +83,7 @@ Allomancers who flare their metal intensely for extended periods of time may be 
 ## Types of Allomancers
   Mistborn in action
 >“*Never try to burn a metal that isn't one of the ten. I warned you that impure metals and alloys can make you sick. Well, if you try to burn a metal that isn't Allomantically sound at all, it could be deadly.*”
-\-Kelsier to Vin[26]
+\-Kelsier to Vin[27]
 
 
 Allomancers are categorized based on if they can burn a single metal, **Misting**, or if they can burn all metals, **Mistborn**. Other [[Invested Art\|Invested Arts]], such as Hemalurgy, is the only known way to access a combination powers that falls outside of this categorization's structure. Each type of Misting is given a particular name depending on their ability, such as Lurcher, Coinshot, or Soother. An Allomancer's lineage does not usually play a factor in which kind of Misting they are.
@@ -109,7 +109,7 @@ The following is the modern Table of Allomantic Metals, from some point after th
 |**ENHANCEMENT**|**Pushing**|**Pulling**|**Pulling**|**Pushing**|**TEMPORAL**|
 
 >“*There are two metals for every power. One Pushes, one Pulls--the second is usually an alloy of the first. For emotions -- the external mental powers -- you Pull with [[Zinc\|zinc]] and Push with [[Brass\|brass]]. You just used pewter to Push your body. That's one of the internal physical powers.*”
-\-Kelsier to Vin.[26]
+\-Kelsier to Vin.[27]
 
 
 For more information, see the individual pages for each metal.
@@ -140,7 +140,7 @@ At some point, [[Preservation\|Preservation]] altered Allomancy to insert [[Ruin
 Prior to the Ascension of the Lord Ruler, Allomancy was rarely found among the general population. The Lord Ruler's Ascension, and his subsequent distribution of the lerasium beads, increased the strength of the Allomantic spiritual DNA in the Final Empire, which had long-lasting effects through the subsequent generations. Rashek and his Steel Ministry also suppressed knowledge of several of the Allomantic metals, so that only the four physical metals and four mental metals, as well as gold and atium, were known of by the general populace. Malatium became known through legend as *The Eleventh Metal*, a rumor that may have been started by Ruin to help facilitate the downfall of the Lord Ruler. Prior to the Final Ascension, atium and malatium were incorrectly classified as temporal metals instead of God Metals by the Lord Ruler and his government. 
 
 >“*The dragons have stagnated. Once, they flew, and mortals walked. Now any child with a coin can soar as they did—and even the gods tremble before what mortals create.*”
-\-Colonel Dajer[65]
+\-Colonel Dajer[66]
 
 Following the Final Ascension, [[Harmony\|Harmony]] altered [[Snapping\|Snapping]] to act differently. The Allomantic Table also changed at this time to remove Ruin's metals, with advances in technology also making [[Cadmium\|cadmium]], [[Bendalloy\|bendalloy]], [[Chromium\|chromium]], and [[Nicrosil\|nicrosil]] more available. During Scadrial’s Cold War, technology that used [[Harmonium\|Harmonium]] to replicate Allomancy’s effects became more and more common, and during the Space Age, the [[Invested Art\|Art]] was integral to much of Scadrial’s technology. The Space Age was also notable because Allomancy became more and more available to the public.
 

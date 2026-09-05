@@ -111,14 +111,14 @@ Allomantic [[Atium\|Atium]]: Objects made out of aluminum generate no Atium shad
 Aluminum is known as ralkalest in the [[Rose Empire\|Rose Empire]]. The cells for Forgers in the [[Rose Palace\|Rose Palace]] have ralkalest grates in their ceilings for entrance and a thin plate of ralkalest behind the stone walls.
 
 ### Pre Catacendre
-The [[Lord Ruler\|Lord Ruler]] kept aluminum and its alloy [[Duralumin\|duralumin]] from public knowledge to give the [[Inquisitors\|Inquisitors]] an advantage. During his rule, aluminum was harvested from the [[Ashmounts\|Ashmounts]].
+The [[Lord Ruler\|Lord Ruler]] kept aluminum and its alloy [[Duralumin\|duralumin]] from public knowledge to give the [[Inquisitors\|Inquisitors]] an advantage. During his rule, aluminum, in the form of bauxite, was harvested from the [[Ashmounts\|Ashmounts]] by the [[Ashwalkers\|Ashwalkers]].
 
 ### Nalthis
 [[Nightblood\|Nightblood's]] sheath is made of aluminum.
 
 ### Roshar
 >“*There are legends of metal that can block a Shardblade. A metal that falls from the sky. Silver, but somehow lighter.*”
-\-Taravangian on aluminum[53]
+\-Taravangian on aluminum[54]
 
 
 The Knights Radiant once lined tunnels deep beneath [[Urithiru\|Urithiru]] with ralkalest, likely to protect against intrusion into the tunnels from the foothills below via Surgebinding. It is unknown whether the term ralkalest is of Selish origin alone, or if Raboniel learned of it from another source. [[Azir\|Azir]] obtained aluminum from stars that fell from space, and historically called it starmetal.

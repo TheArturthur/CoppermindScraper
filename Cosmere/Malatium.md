@@ -4,6 +4,7 @@
 ||
 |**[[Allomancy\|Allomancy]]**|
 |**Power**|See the past or alternate versions of others|
+|**Misting**|Diviner|
 |**Metal type**|God Metal alloy|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
@@ -24,7 +25,7 @@
 
 
 ## Allomantic Use
-Malatium acts as a counterpart to [[Atium\|atium]], in that it allows an Allomancer to see into another person's past.
+Malatium acts as a counterpart to [[Atium\|atium]], in that it allows an Allomancer to see into another person's past. Mistings who can burn malatium are called Diviners.
 Flaring malatium allows an Allomancer to see not just a malatium shadow of a person, but seems to give them a glimpse into the [[Spiritual Realm\|Spiritual Realm]], allowing them to see a vision of a past event in another person's life by seeing their [[Connection\|Connection]] and their past.
 Malatium is different from other Allomantic metals in that, when it is burned, the Allomancer does not draw upon the power of Preservation. Instead, its effects are powered by Ruin's [[Investiture\|Investiture]] in the atium of the alloy.
 
