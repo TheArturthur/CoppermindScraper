@@ -35,7 +35,7 @@ After his Ascension, Rashek, impersonating Alendi, assumed the throne of Khlenni
 
 ## Culture
 The city of Khlennium was regarded as one of “wonder”. It was a cultural hub, with people of many nations, including Terris [[Worldbringers\|Worldbringers]] (such as [[Kwaan\|Kwaan]]).
-It had marvelous architecture — magnificent cathedrals, stained glass windows, broad halls. Their architectural and civil engineering prowess allowed them to build grand structures and cities, and among its monuments was the great Khlenni library. They also had technological innovations, such as pocket watches, as well as their own language — their word for the Hero of Ages was [[Rabzeen\|Rabzeen]].
+It had marvelous architecture — magnificent cathedrals, stained glass windows, broad halls. Their architectural and civil engineering prowess allowed them to build grand structures and cities, and among its monuments was the great Khlenni library. They also had technological innovations, such as pocket watches, as well as their own language — their word for the Hero of Ages was [[Rabzeen\|Rabzeen]]. Khlennium was known for advanced clockwork and steam applications.
 The Khlenni were viewed as oppressors by the Terris. However, many young Terrismen adopted Khlenni fashion, rather than their furs, while in the cities. Men wore tailored gentlemen’s suits; ladies wore gowns.. 
 The Khlenni government included a council, of which [[Helenntion\|Helenntion]] was one of its last survivors.
 

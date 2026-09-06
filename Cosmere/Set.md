@@ -66,7 +66,10 @@ The Key
 Series
 Sequence
 Suit
+Array
 Cycle
+There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
+
 ## Known Members of the set
 For more information, see :Category: Set.
 Though the Set have many accomplices, there appear to be a smaller group of ranked leaders. The members that control the Set are known as the "Series."
@@ -86,8 +89,6 @@ Professor [[Irich\|Irich]] is known as an "Array" and appears to be outranked by
 [[Fed\|Fed]] is a [[Iron\|Skimmer]] [[Ferring\|ferring]] of an unknown rank.
 [[Getruda\|Getruda]] is of an unknown rank, presumably a Sequence like Dumad.
 [[Gave Entrone\|Gave Entrone]] is of an unknown rank but most probably is a "Series".
-There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
-
 
 
 https://coppermind.net/wiki/Set

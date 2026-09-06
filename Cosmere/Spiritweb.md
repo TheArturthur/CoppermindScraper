@@ -97,7 +97,7 @@ Multiple forms of Allomancy relate to the spiritweb. Allomantic [[Zinc\|zinc]] a
 Several of the Feruchemical Attributes are deeply connected to the spiritweb, especially the Spiritual metals such as [[Aluminum\|aluminum]] and [[Duralumin\|duralumin]], which allow for Identity and Connection, respectively, to be stored. Similarly to Allomancy, the ability to use Feruchemy is passed down through Spiritual DNA.
 
 #### Hemalurgy
-In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and grafted onto another person's spiritweb. This causes lasting damage to the spiritweb of the creature in which a Hemalurgic Spike is placed.
+In Hemalurgy, portions of the spiritweb seem to be ripped off of one person and grafted onto another person's spiritweb. This causes lasting damage to the spiritweb of the creature in which a Hemalurgic Spike is placed. Piercing many spiritwebs helps ‘stabilise' a spike. What effect this has is unclear however.
 
 ### Surgebinding
 A [[Surgebinder\|Surgebinder's]] [[Nahel bond\|Nahel bond]] involves a [[Spren\|spren]] attaching themselves to a person's spiritweb, merging more fully as the [[Surgebinder\|Surgebinder]] progresses in their [[Immortal Words\|Oaths]].

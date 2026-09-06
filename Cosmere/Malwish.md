@@ -60,7 +60,7 @@ This period lasted for 1025 years, though most of their history is currently unk
 
 ### The Ice Death ([[Catacendre\|Catacendre]])
 In the north, about three years after the death of the Lord Ruler, [[Sazed\|Sazed]] took up both of the planet's [[Shard\|Shards]] and [[Catacendre\|Ascended]], becoming [[Harmony\|Harmony]]. Harmony tried undoing most of the Lord Ruler's changes, setting the continents back in their original places and moving Scadrial back into its original orbit, removing the need for heat-lessening solutions like the Ashmounts. This event was known to the Northern Scadrians as the [[Catacendre\|Catacendre]] or "end of the ash."
-Because of this, the weather in the Southern continent became colder. The Southern peoples could not adapt to this change, and many died from the cold. Southern Scadrians call this event the **Ice Death**.
+Because of this, the weather in the Southern continent became colder. The Southern peoples could not adapt to this change, and many died from the cold and from famine. Southern Scadrians call this event the **Ice Death**.
 Years had gone by and the Ice Death did not end. The Southern peoples failed to recover from it on their own, leading to the almost complete collapse of their society. The reason for this failure is not known, but expeditions from the south to the north have notably shown that Southern peoples still feel unnaturally cold even in Northern Scadrian weather.
 
 ### The Sovereign (12 years Post-Catacendre)
