@@ -6,16 +6,17 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Luthadel** is the capital city of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]].
+**Luthadel** is the capital city of the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. Raw metals from the [[Central Dominance\|Central Dominance]] are shipped to Luthadel for refinement and processing.
 
 ## Contents
 
 1 Geography. [[#Geography]] 
-2 Organization. [[#Organization]] 
+2 Organization and Architecture. [[#Organization and Architecture]] 
 
 2. [[#Districts]] 
 2. [[#Gates]] 
 2. [[#Other Locations]] 
+2. [[#Architecture]] 
 
 
 3 History. [[#History]] 
@@ -35,7 +36,7 @@ In the front of the city lies the imperial highroad, which likely points in the 
 Luthadel also sits next to a lake bearing the name of [[Lake Luthadel\|Lake Luthadel]].
 
 
-## Organization
+## Organization and Architecture
 
 
   Map of Luthadel
@@ -70,6 +71,10 @@ Tin Gate
 For a full list see, see :Category:Luthadel.
 [[Fourwell Crossroads\|Fourwell Crossroads]]
 [[Kenton Street\|Kenton Street]]
+### Architecture
+The architecture of the city is blocky, with tiled roofs for the wealthy and peaked wooden roofs for
+the rest. The keeps of the ten Great Houses, modeled after the [[Khlenni\|Khlenni]] cathedrals of Classical Scadrial, are interspersed throughout the city. [[Kredik Shaw\|Kredik Shaw]], the Hill of a Thousand Spires, looms over the city like a many-spined insect, dwarfing noble keeps and Ministry headquarters. Most skaa in Luthadel live in crowded tenements owned by their noble employers. The city is also home to many textile factories, forges and refineries.
+
 ## History
   The Pewter Gate
 [[Rashek\|Rashek]] initially conceived of the idea of Luthadel while he held the power of the [[Well of Ascension\|Well of Ascension]].  During those moments of enhanced consciousness, Rashek learned the full extent of the danger posed by Ruin, and learned that he would be unable to truly defeat Ruin using the power of the Well of Ascension.  He therefore devised a plan to control the power of the Well of Ascension, making himself an immortal protector of mankind from the full force of Ruin.  In order to guarantee the security of the well, Rashek significantly changed the geography of the area, and eventually built his palace on top of the only entrance to the cave complex that housed the well.

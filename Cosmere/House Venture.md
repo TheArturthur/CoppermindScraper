@@ -7,10 +7,8 @@
 |**World of Origin**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**House Venture** is a [[Noble\|noble]] house originally from the city of [[Urteau\|Urteau]] in [[Scadrial\|Scadrial]].
-It is the largest house during the fall of the [[Final Empire\|Final Empire]].
-Members include [[Straff Venture\|Straff]], [[Elend\|Elend]] and [[Zane\|Zane]]. The house is tasked by the [[Lord Ruler\|Lord Ruler]] to oversee the mining of [[Atium\|atium]] from the [[Pits of Hathsin\|Pits of Hathsin]] and gains considerable profit with it. 
-[[Douglas Venture\|Douglas Venture]] is a noble in [[Elendel\|Elendel]].
+**House Venture** is a [[Noble\|noble]] house originally from the city of [[Urteau\|Urteau]] in [[Scadrial\|Scadrial]]. It is the largest and wealthiest house during the fall of the [[Final Empire\|Final Empire]]. They hold authority in both the Northern and the Central [[Dominance\|Dominances]]. The house is tasked by the [[Lord Ruler\|Lord Ruler]] to oversee the mining of [[Atium\|atium]] from the [[Pits of Hathsin\|Pits of Hathsin]] and gains considerable profit with it. The house’s political rivals are [[House Hasting\|House Hasting]] and [[House Lekal\|House Lekal]].
+Members include [[Straff Venture\|Straff]], [[Elend\|Elend]] and [[Zane\|Zane]]. [[Douglas Venture\|Douglas Venture]] is a noble in [[Elendel\|Elendel]].
 
 ## Contents
 

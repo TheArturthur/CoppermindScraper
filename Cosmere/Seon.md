@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**Type**|[[Splinter\|Splinter]]s of [[Devotion\|Devotion]]|
-|**Abilities**|Flight, immortality, enhanced senses, instantaneous communication to and through other seons|
+|**Abilities**|Flight, immortality, enhanced senses, instantaneous communication to and through other seons, bonding with humans|
 |**Sapient**|Yes|
 |**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|

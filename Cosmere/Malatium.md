@@ -10,7 +10,7 @@
 
 "Eleventh Metal" redirects here. For the short story, see [[The Eleventh Metal\|The Eleventh Metal]].
 >“*I could never figure out how this blasted metal was supposed to work.*”
-\-Kelsier[1]
+\-Kelsier[2]
 
 
 **Malatium** is an alloy of [[Atium\|atium]] and [[Gold\|gold]]. The exact use is unclear; it allows an [[Allomancer\|Allomancer]] to see either who another person was in the past, or who they could have become if they had made different choices. This metal is referred to in legend as the **Eleventh Metal**. It is described as being silvery white in color, similar to porcelain.

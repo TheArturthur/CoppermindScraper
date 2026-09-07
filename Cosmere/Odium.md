@@ -82,6 +82,7 @@ Odium likes questions and arguments, which conflicts with Rayse's own hatred of 
 Apart from the issue of the Shard's nature, Rayse and Taravangian desired to become the sole god of the [[Cosmere\|cosmere]]. Whether this is due to the Vessel or the Shard is unknown.
 
 ## Associated Magics
+ 
 ### Voidlight
 For more information, see [[Voidlight\|Voidlight]].
 Voidlight is the gaseous form of Odium's [[Investiture\|Investiture]], analogous to [[Honor\|Honor's]] [[Stormlight\|Stormlight]]. Unlike Stormlight, however, Voidlight's applications are far more narrow. It can be utilized by the [[Fused\|Fused]] to provide healing and fuel their use of [[Surge\|Surges]], and it might have some relation to the forms of power used by the [[Regal\|Regals]]. It has applications in fabrial technology created via the process of corrupting spren and then trapping them within an appropriate gemstone housing, similar to normal fabrials.

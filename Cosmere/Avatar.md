@@ -359,6 +359,7 @@ The splintering a Shard is a difficult act that one needs specific knowledge (i.
 It is possible for a Shard to name a "champion" when making a deal with another Shard. Becoming a champion in this way is a formal event and requires some kind of contractual agreement. Honor encourages [[Dalinar Kholin\|Dalinar Kholin]] to try to get Odium to agree to a contest of champions; Odium eventually agrees and attempts to name Dalinar as his champion, though Dalinar declines. Later, Dalinar becomes the champion of Honor, and Odium selects [[Gavinor\|Gavinor]] to be his champion instead. Shards outside of the [[Rosharan system\|Rosharan system]] have also had champions. The Heralds are similar to champions, and the conflicts between [[Marsh\|Marsh]] and [[Elend\|Elend]] and between Marsh and [[Vin\|Vin]] are an echo of this system.
 
 ## History
+  The Shards depicted as stained glass
 
 >“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
 \-Sazed[257]

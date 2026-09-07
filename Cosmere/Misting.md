@@ -22,6 +22,7 @@
 1. [[#Snapping]] 
 
 1. [[#Mist Sickness]] 
+1. [[#Known Snappings]] 
 
 
 
@@ -50,23 +51,31 @@
 
 
 ## Prerequisites
-Allomancy is a [[Spiritweb\|spiritually]] heritable trait, one which does not follow the same principles of dominant and recessive physical genetics. Scadrians with mixed skaa-noble heritage generally must have a noble in the previous five generations in order to be born an Allomancer. The ability lays dormant until an Allomancer undergoes [[Snapping\|Snapping]], which will activate their Allomantic abilities. The abilities can be used instinctively, including while unconscious, once they are awakened, as long as the user ingests the correct type of metal, though training is required to use these powers well. Snapping does not affect the chances of having an Allomancer child. Twins are more likely to have the same metal, especially if they are identical instead of fraternal.
+Allomancy is a [[Spiritweb\|spiritually]] heritable trait, one which does not follow the same principles of dominant and recessive physical genetics. Scadrians with mixed skaa-noble heritage generally must have a noble in the previous five generations in order to be born an Allomancer. The ability lays dormant until an Allomancer undergoes Snapping, which will activate their Allomantic abilities. The abilities can be used instinctively, including while unconscious, once they are awakened, as long as the user ingests the correct type of metal, though training is required to use these powers well. Snapping does not affect the chances of having an Allomancer child. Twins are more likely to have the same metal, especially if they are identical instead of fraternal.
 It is possible to gain Allomancy through the use of Hemalurgic spikes where the spiritual DNA associated with Allomancy is transferred from one soul to another. If an Allomancer attempts to burn a [[Hemalurgic\|Hemalurgic]] spike, the Allomancer's spiritual DNA will be spliced to that of the person's contained in the spike. The consequences of this are as of yet unknown.
 Additionally, consuming a bead of lerasium will hardcode Allomancy into a person's spiritweb and grant them Allomantic abilities. The size of the bead that is consumed is proportional to the strength of their Allomancy.
 
 ### Snapping
-In the [[Final Empire\|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they [[Snap\|Snap]], as Snapping commonly occurs when a Misting or Mistborn undergoes heavy stress and pain, often in a near-death situation, causing them to trigger latent Allomantic abilities.
-According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack on the soul which the power can fit into. There are some similarities on this to other magic systems, such as the [[Knights Radiant\|Knights Radiant]] all being "broken" as indicated by [[Syl\|Syl]].
-It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. It is said that the more powerful the Allomancer, the more intense the trauma has to be to Snap. However, it is also said that the more concentrated Allomancy is in a person, the easier they Snap. Due to this, Snapping was even more difficult and traumatic during Scadrial’s [[Classical Scadrial\|classical]] age.
-After the [[/wiki/Catacendre#Final Ascension]], [[Harmony\|Harmony]] changed the way Snapping operated, but it is unknown how it was altered. After an Allomancer has Snapped, they will have access to their full power, and do not have to build to reach their full potential such as with Surgebinding.
+Prior to the [[Catacendre\|Catacendre]], Snapping required undergoing some intense emotional experience, often a traumatic one. It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack in the soul which the power can fit into.
+It is said that the more concentrated Allomancy is in a person, or in other terms the more powerful they are, the easier they Snap. Due to this, Snapping was even more difficult and traumatic during Scadrial's [[Classical Scadrial\|classical]] age.
+In the [[Final Empire\|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they Snap.
+After the Catacendre, [[Harmony\|Harmony]] changed the way Snapping operated, but it is unknown how it was altered.
 
 #### Mist Sickness
-In the run up to the [[Catacendre\|Catacendre]], however, the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation\|Preservation]], but is manipulated by [[Ruin\|Ruin]] into killing people, thus raising superstitions about the mists being dangerous. The length a person has "mist sickness" relates to their Allomantic powers and abilities. The most powerful [[Atium\|atium]] mistings are sick for the longest time.
+In the run up to the [[Catacendre\|Catacendre]], the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation\|Preservation]], but is manipulated by [[Ruin\|Ruin]] into killing people, thus raising superstitions about the mists being dangerous. The length a person has "mist sickness" relates to their Allomantic powers and abilities. The most powerful [[Atium\|atium]] Mistings are sick for the longest time.
 During the time the mists are Snapping people right before the Catacendre, they also raised the Allomantic potential of the people they Snapped so that exactly 16% are Snapped. The number is a hint left by Preservation for humans to understand.
 
+#### Known Snappings
+[[Alendi\|Alendi]] is Snapped by the [[Mist\|mists]].
+[[Clubs\|Clubs]] Snaps during his time fighting rebels in the southeast.
+[[Marsh\|Marsh]] Snaps after his mother is taken away by [[Obligator\|obligators]].
+[[Vin\|Vin]] Snaps while she is being born, during her mother's "unusually difficult labor".
+[[Spook\|Spook]] Snaps when he is five years old and can barely remember the event as an adult.
+[[Kelsier\|Kelsier]] Snaps after [[Mare\|Mare]] dies, while he is imprisoned in the [[Pits of Hathsin\|Pits of Hathsin]].
+Many soldiers in [[Elend\|Elend's]] army, including [[Demoux\|Demoux]], were Snapped by the [[Mist\|mists]].
 ## Mechanics
 >“*Allomancy, obviously, is of [[Preservation\|Preservation]]. The rational mind will see this. For, in the case of Allomancy, net power is gained. It is provided by an external source -- Preservation's own body.*”
-\-Harmony on Allomancy[19]
+\-Harmony on Allomancy[25]
 
 
   <<Vin\|Vin>> pushing on coins with the Allomantic power of <<Steel\|steel>>
@@ -83,13 +92,13 @@ Allomancers who flare their metal intensely for extended periods of time may be 
 ## Types of Allomancers
   Mistborn in action
 >“*Never try to burn a metal that isn't one of the ten. I warned you that impure metals and alloys can make you sick. Well, if you try to burn a metal that isn't Allomantically sound at all, it could be deadly.*”
-\-Kelsier to Vin[27]
+\-Kelsier to Vin[33]
 
 
-Allomancers are categorized based on if they can burn a single metal, **Misting**, or if they can burn all metals, **Mistborn**. Other [[Invested Art\|Invested Arts]], such as Hemalurgy, is the only known way to access a combination powers that falls outside of this categorization's structure. Each type of Misting is given a particular name depending on their ability, such as Lurcher, Coinshot, or Soother. An Allomancer's lineage does not usually play a factor in which kind of Misting they are.
+Allomancers are categorized based on if they can burn a single metal, **Misting**, or if they can burn all metals, **Mistborn**. Other [[Invested Art\|Invested Arts]], such as Hemalurgy, is the only known way to access a combination powers that falls outside of this categorization's structure. Each type of Misting is given a particular name depending on their ability, such as Lurcher, Coinshot, or Soother. An Allomancer's lineage does not usually play a factor in which kind of Misting they are. There are several potent lineages, such as that of [[House Tekiel\|House Tekiel]], that produce more Allomancers and have a larger chance at being a Mistborn.
 
 ### Power Dilution
-Throughout the ages, the strength of an Allomancer has slowly decreased, weakening a bit with each generation. This dilution of power eventually caps and cannot decrease any further; there was no apparent power dilution between Era 1 and Era 2, and it was confirmed that the dilution has completely capped by [[/wiki/Mistborn (series)#Era 3]]. People who use [[Lerasium\|lerasium]] can gain the strength of ancient, powerful Allomancers.
+Throughout the ages, the strength of an Allomancer has slowly decreased, weakening a bit with each generation. This dilution of power eventually caps and cannot decrease any further; there was no apparent power dilution between Era 1 and Era 2, and it was confirmed that the dilution has completely capped by [[/wiki/Mistborn (series)#Era 3]]. People who use [[Lerasium\|lerasium]] can regain the strength of ancient, powerful Allomancers.
 
 ### Twinborn and Compounders
 After the [[Final Empire\|Final Empire]], Terris and those of noble descent began to interbreed, so it became possible for their descendants to have one Allomantic ability and one [[Feruchemy\|Feruchemical]] ability. People with such powers were called **[[Twinborn\|Twinborn]]**. Like Mistings, Twinborn are each given a name depending on their specific combination of abilities. The interaction between the two abilities creates a new, secondary effect, known as a [[Resonance\|Resonance]].
@@ -109,7 +118,7 @@ The following is the modern Table of Allomantic Metals, from some point after th
 |**ENHANCEMENT**|**Pushing**|**Pulling**|**Pulling**|**Pushing**|**TEMPORAL**|
 
 >“*There are two metals for every power. One Pushes, one Pulls--the second is usually an alloy of the first. For emotions -- the external mental powers -- you Pull with [[Zinc\|zinc]] and Push with [[Brass\|brass]]. You just used pewter to Push your body. That's one of the internal physical powers.*”
-\-Kelsier to Vin.[27]
+\-Kelsier to Vin.[33]
 
 
 For more information, see the individual pages for each metal.
@@ -140,7 +149,7 @@ At some point, [[Preservation\|Preservation]] altered Allomancy to insert [[Ruin
 Prior to the Ascension of the Lord Ruler, Allomancy was rarely found among the general population. The Lord Ruler's Ascension, and his subsequent distribution of the lerasium beads, increased the strength of the Allomantic spiritual DNA in the Final Empire, which had long-lasting effects through the subsequent generations. Rashek and his Steel Ministry also suppressed knowledge of several of the Allomantic metals, so that only the four physical metals and four mental metals, as well as gold and atium, were known of by the general populace. Malatium became known through legend as *The Eleventh Metal*, a rumor that may have been started by Ruin to help facilitate the downfall of the Lord Ruler. Prior to the Final Ascension, atium and malatium were incorrectly classified as temporal metals instead of God Metals by the Lord Ruler and his government. 
 
 >“*The dragons have stagnated. Once, they flew, and mortals walked. Now any child with a coin can soar as they did—and even the gods tremble before what mortals create.*”
-\-Colonel Dajer[66]
+\-Colonel Dajer[72]
 
 Following the Final Ascension, [[Harmony\|Harmony]] altered [[Snapping\|Snapping]] to act differently. The Allomantic Table also changed at this time to remove Ruin's metals, with advances in technology also making [[Cadmium\|cadmium]], [[Bendalloy\|bendalloy]], [[Chromium\|chromium]], and [[Nicrosil\|nicrosil]] more available. During Scadrial’s Cold War, technology that used [[Harmonium\|Harmonium]] to replicate Allomancy’s effects became more and more common, and during the Space Age, the [[Invested Art\|Art]] was integral to much of Scadrial’s technology. The Space Age was also notable because Allomancy became more and more available to the public.
 
