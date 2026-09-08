@@ -6,7 +6,7 @@
 |**Relatives**|[[Gregr\|Gregr]]|
 |**Born**|308 [[Catacendre\|PC]]|
 |**Died**|Killed in the biggest explosion on Scadrial in 348 [[Catacendre\|PC]]|
-|**Abilities**|[[/wiki/Gold#Feruchemical Use]] & [[/wiki/Bendalloy#Allomantic Use]] [[Twinborn\|twinborn]], [[Hemalurgy\|Hemalurgist]], [[Allomancy\|Mistborn]]|
+|**Abilities**|[[/wiki/Gold#Feruchemical Use]] & [[/wiki/Bendalloy#Allomantic Use]] [[Twinborn\|twinborn]] (Mirage/Skipper), [[Hemalurgy\|Hemalurgist]], [[Allomancy\|Mistborn]]|
 |**Aliases**|Maxil, Abrigain|
 |**Profession**|Constable|
 |**Residence**|[[Elendel\|Elendel]]|
@@ -93,11 +93,11 @@ Wayne has little to no concept of boundaries and an almost pathological need to 
 
 ## Attributes & Abilities
 ### Metallic Arts
-Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[Twinborn\|Twinborn]]. He is both a Bloodmaker and a Slider. The Mistborn Handbook from the Cosmere RPG has since canonized this combination as a Mirage (though Wayne refers to it as a Skipper).
+Wayne is both a [[Ferring\|Ferring]] and a [[Misting\|Misting]], making him a [[Twinborn\|Twinborn]]. He is both a Bloodmaker and a Slider. This combination is commonly known as a Mirage (though Wayne refers to it as a Skipper).
 
 #### Feruchemy
 >“*Not that the pain went completely away, mind you. But he and pain were old friends what shared a handshake and a beer now and then. Didn't much like each other, but they had a working relationship.*”
-\-Wayne[28]
+\-Wayne[29]
 
 
 As a [[Bloodmaker\|Bloodmaker]], Wayne can store health in his goldminds at the price of being unwell. He can tap into his stores later to heal wounds. As long as Wayne has an adequate storage of health, he can recover from any wounds that aren't immediately lethal, such as curing poison, regrowing fingers, and surviving bullet wounds. He prefers to fill his metalminds all at once by spending weeks sick in bed instead of traveling around while slightly sick. He often stores health whenever he has a hangover as he is going to have a horrible time of it anyway. He sometimes uses his ability as a Bloodmaker strategically, by pretending that a bullet has actually killed him or incapacitated him, in order to make enemies dismiss him as a threat in a fight. However, many who know of his abilities aren't fooled by this trick. He eventually embeds his goldminds deep into his thigh to protect them from Allomancers.
@@ -105,7 +105,7 @@ As a [[Bloodmaker\|Bloodmaker]], Wayne can store health in his goldminds at the 
   Using <<Bendalloy\|bendalloy>> to make a speed bubble
 #### Allomancy
 >“*A large group of Vanishers had set up near the western tunnel, firing out at Wayne—who was in full form, burning through his bendalloy like a madman. He'd appear, draw fire, then vanish into a blur, then appear right next to where he'd been. He called insults as the bullets missed him, then moved again.*”
-\-Wax watching Wayne fight at the Vanisher hideout[31]
+\-Wax watching Wayne fight at the Vanisher hideout[32]
 
 
 As a [[Slider\|Slider]], Wayne can burn bendalloy to form a "speed bubble" around himself, speeding up time for anyone inside it. Once the bubble is made it cannot be moved, and Wayne can move about freely inside it, but if he leaves it, it will disappear. Anything moving from one side to the other, like a bullet, will be slightly thrown off course by the edge of the bubble. Using one nugget of bendalloy Wayne can compress two minutes of time into approximately fifteen external seconds. Wayne often uses speed bubbles to converse in private, to change into a disguise, or to engage in a fight uninterrupted.
@@ -126,7 +126,7 @@ Wayne's preferred method of fighting is to move in close to one opponent, create
 Wayne is talented at disguising himself using various costumes and voices, and has been able to pose as various races, ages, and either gender. He is a master at picking up accents and considers it the only thing he is allowed to steal. Even when living in the Roughs he makes trips into the city for the purpose of picking up new accents. With the right hat and accent Wayne can easily disguise himself well enough to trick criminals or policemen into thinking he is one of them. He uses his disguises to gain information, sneak into places he otherwise couldn't enter, interrogate criminals, or just for his own amusement.
 
 >“*It's uncanny how you do that. You imitate a person nearly as well as one of my kin.*”
-\-VenDell to Wayne[38]
+\-VenDell to Wayne[39]
 
 He is known to be a method actor often thinking like the person he is disguised as. [[MeLaan\|MeLaan]] says that he is "wasted as a human" when referring to his talent for accents. His skill with impersonation rivals that of even the [[Kandra\|kandra]].
 
@@ -141,7 +141,7 @@ Wayne's father worked at [[Tinweight Settlement\|Tinweight Settlement]] during W
 
 ### Time in the Roughs
 >“*Some mistakes though, you can't fix by being sorry. Can't fix them no matter what you do.*”
-\-Wayne[29]
+\-Wayne[30]
 
 
 Wayne's father was a [[Feruchemist\|Feruchemist]], and Wayne was aware of his abilities by the time he was sixteen, but never had access to any [[Bendalloy\|bendalloy]] or [[Gold\|gold]]. Wayne had a natural talent for grabbing things without meaning to, and with encouragement from some friends he starting pick pocketing, and eventually robbed [[Durkel\|a man]] at gunpoint. He accidentally killed the man, and was easily caught by the local lawman [[Jon Deadfinger\|Jon Deadfinger]]. At the trial he found out that the man he killed had been a bookkeeper, charity worker, and father of three. Wax saved Wayne from being hanged, though the details of how are unknown. Ever since the two worked together almost like a sheriff and deputy, becoming famous enough to be taught about in the University. As a reaction to the death of the bookkeeper, Wayne became unable to hold a gun without his hands shaking, preferring to use dueling canes instead. He also began sending half of the money he made to the man's widow to help pay for her kids, one of whom was able to go to university. He visited [[Allriandre\|Allriandre]], the eldest child, at the University on the first day of every month to give her "blood money," but she did not forgive him.
@@ -157,7 +157,7 @@ Wayne went to Elendel to meet up with Wax again, intruding on a meeting with [[J
 Wax attended the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding dinner]], and Wayne went there disguised as a waiter. The Vanishers attacked, and Wax and Wayne were forced to fight. Together they manage to quell the Vanisher attack, the survivors fleeing, carrying off [[Steris\|Steris]]. In addition, the bandit leader [[Tarson\|Tarson]] took Wayne's lucky hat, infuriating Wayne.
 
 >“*Just gotta talk their language, son. Surprising how many people never figure that out.*”
-\-Wayne to Sindren[36]
+\-Wayne to Sindren[37]
 
 Wayne infiltrated the Fourth Octant Constabulary, disguised as a constable, and interrogated a few of the captured Vanishers, pretending to be a Vanisher himself. Using his skill with accents and acting, he managed to find out the location of one of the Vanisher hideouts. Wayne met with Wax and Marasi at Wax's mansion, and [[Tillaume\|Wax's butler]] tries to assassinate them, using a bomb. Wayne used his abilities as a Slider to give them time to react, and Wax used his Feruchemy to allow them to escape the blast by falling through the floor. Wayne used himself as a human shield, able to heal himself using his own Feruchemy. Using the information that Wayne had gathered, they investigated the Vanisher hideout. Though it was empty, Wayne found a cigar box that pointed them to [[Miles Dagouter\|Miles Dagouter]].
 
@@ -186,12 +186,12 @@ At some point after the this ordeal, Wax and Wayne arrested a group of alleged s
 Wax investigated a series of bodies at [[Winsting Innate\|Lord Winsting's]] manor, where a series of people were killed by a [[/wiki/Steel#Feruchemical Use]]. Knowing that he’d likely need it soon, Wayne began storing up health. Wax wanted Wayne to got to [[The Village\|The Village]], but Wayne had to preform a special task he always did on the first of the month. He went to [[Elendel University\|Elendel University]], sneaking in to meet with [[Allriandre\|Allriandre]], the daughter of the man he killed. He offered her the usual monthly stipend that he gives her, and she showed him the picture of her father, forcing him to once again recite his crimes. She once again told him that he isn't forgiven, and Wayne left. Wayne and Wax visited the home of [[Idashwy\|Idashwy]], a known Terris Steelrunner. They found her dead with a hole in her chest. Wax and Wayne determined that the killer used Hemalurgy to steal Idashwy's Steelrunner abilities.
 
 >“*Our accents are clothing for our thoughts, my dear. Without them, everything we say would be stripped bare, and we might as well be screaming at one another. Oh look. The dessert lady has chocolate pastries again!*”
-\-Wayne to Marasi[32]
+\-Wayne to Marasi[33]
 
 Wayne and Marasi went to [[Lady ZoBell's party\|Lady ZoBell's party]], but were turned away by the bouncer. Wayne used his bendalloy to determine that they were on a list of people to be kept out of the party, a petty move by the governor's bodyguard. Wayne decided to act the part of [[Hanlanaze\|Professor Hanlanaze]], a mathematics professor, to get into the party with Marasi as his assistant. A colleague later recognized him, and he threw up a speed bubble while Marasi figured out how to respond to him. Wayne bluffed the man into a hasty retreat and concentrated on eating again. At the party a young woman came up to him and slapped him, saying that he stole an invention from her now-destitute father. Wax found a suspicious server and chased him, Wayne tackling the man. He escaped, and Wayne stayed behind to protect the governor while Wax chased after him. Wayne conducted an impersonation of the party staff, and concluded that the server Wax chased was not Bleeder, as the choice of impersonating a new waiter that nobody liked was too obvious.
 
 >“*Well hang me. You're that immortal, ain't you?*”
-\-Wayne upon meeting MeLaan[50]
+\-Wayne upon meeting MeLaan[51]
 
 Wayne went to the temple of the Common Man, a location of a very loose religion revolving around [[Breeze\|Breeze]] and heavily involving alcohol. The temple was a bar, and many people in the place were morose or angry. Wayne cheered up everyone there by improving their beverages, and met MeLaan. They got off well, having a belching contest before Wax arrived and interrupted them. MeLaan filled them in on more details about Bleeder, saying that they needed to take out her spike, either manually or with a serum inside of a syringe that MeLaan gave to Wax. While Wax investigated Bleeder's trail of clues, Wayne stayed to guard [[Replar Innate\|Governor Replar Innate]], later joined by MeLaan. Wayne bonded more with MeLaan during their time guarding Innate, coaching her on her accents.
 
@@ -202,7 +202,7 @@ Wax later found him and rescued him before chasing off after Bleeder for the fin
 
 ### Death of Bleeder
 >“*It'll pass, mate. My pa once said to me, 'Son, keep a stiff upper lip.' So if things get bad, you bash your face against a wall till your lip bleeds, and you'll feel better.*”
-\-Wayne trying to console Wax[58]
+\-Wayne trying to console Wax[59]
 
 
 After Wax returned from his chase of Bleeder, having killed her and found out that she had been [[Lessie\|Lessie]] all along, Wayne tried to help his friend with his grief at having killed his wife a second time. He saw the daughter of [[Remmingtel Tarcsel\|Remmingtel Tarcsel]], the girl who slapped him at ZoBell's party when he had pretended to be Hanlanaze. He talked to her, recognizing her father as the true inventor of the incandescent lightbulb, and offered her venture capital to help her fund her and her father's inventions, to her extreme delight.
@@ -210,7 +210,7 @@ After Wax returned from his chase of Bleeder, having killed her and found out th
   On the train
 ### Search for the Bands
 >“*Gonna go get smashed till I can't piss straight. Happy weddings 'n stuff*”
-\-Wayne's note to Wax[59]
+\-Wayne's note to Wax[60]
 
 
 Wax and Steris were scheduled to have their wedding in a Survivorist church, and Wayne sent a note to Wax telling him he wouldn't be there. Wayne had "the lads" sabotage the wedding, telling them to flood the church. They toppled an entire water tower to flood the church, and Wayne didn't expect them to go so far. He faked being a head chef for the wedding feast, ordering around young assistants until Marasi came to reprimand him. They talked, and Wayne decided at the end of the conversation to give up on Ranette and move on.
@@ -229,7 +229,7 @@ Both Wayne and Marasi worked together to trick [[Templeton Fig\|Templeton Fig]],
 
 #### Dulsing
 >“*You can throw your wooden teeth at 'em. Do some cane wagging as well. I'm sure you're cross about stayin' up so late.*”
-\-Wayne making fun of Wax's age[66]
+\-Wayne making fun of Wax's age[67]
 
 
 The group traveled by carriage to the small town of Dulsing, which had been turned into a huge construction site for some huge project. The area was well guarded, and Wayne has Wax Push him by his belt beyond the guarded border. Wayne used his healing to recover, then knocked out the power for the floodlights. Marasi, MeLaan, and Wax snuck in, and Wayne and Wax went to find Mr. Suit and Telsin.
@@ -241,7 +241,7 @@ They flew over Edwarn's expedition, Wayne inadvertently alerting them by kicking
 With Edwarn claiming to know how to open the locked door at the end of the temple and Edwarn having the small group outnumbered, they were at an impasse. Wax brought Edwarn and the others to the door, which Edwarn helped Wax open. Inside there was an empty pedestal, with broken glass but no Bands. Telsin betrayed them, attacking along with Edwarn. They used an allomantic grenade and wiped Wayne and Marasi's allomantic reserves, and Wax was shot badly. With Edwarn and Telsin having allomantic powers granted through [[Hemalurgy\|Hemalurgy]] and the element of surprise, Wayne and the others were outmatched. Wayne escaped the room, though the others were captured.
 
 >“*No. *No.* I can't do this without you.*”
-\-Wayne to Wax as Wax began to die[71]
+\-Wayne to Wax as Wax began to die[72]
 
 Wayne fell into a pit filled with spikes, but healed. He found Wax in a cave, trapped under a huge piece of rock. Wayne fought Edwarn, who fled. Wayne tried to free Wax but couldn't, and wept as Wax died. After Telsin took MeLaan's spikes, turning her into a [[Mistwraith\|mistwraith]], Wayne found Telsin and shot her in the face with Wax's shotgun. He knew her gold metalminds would heal her -- so he had no inhibitions about shooting her. He retrieved both MeLaan's spikes and ReLuur's spike. He then used MeLaan's spikes to restore her to consciousness.
 Wax took the Bands of Mourning from Marasi, who had already drained them slightly, and defeated Edwarn, though Telsin escaped. After negotiating a deal with [[Jordis\|Jordis]] and her people, Wayne rode back to Elendel with the others on the airship. He talked with Wax about shooting Telsin, and they soon arrived back at Elendel.
@@ -251,7 +251,7 @@ In the following years, Wayne honed his skill with bendalloy, granting him more 
 Six years after the recovery of the Bands, Wayne and Marasi attacked and subdued a group of criminals in Elendel, organized by the Set. Having honed his Allomantic skills over the past several years, Wayne was able to take out most of the criminals himself, while Marasi handled their leader.
 
 >“*I'm sorry, Wayne, I need to leave you. Today. It's over. I tried to prepare you for this... but it was probably more painful to string it out, wasn't it?*”
-\-MeLaan breaking up with Wayne[75]
+\-MeLaan breaking up with Wayne[76]
 
 Shortly after, MeLaan met with Wayne, and broke up with him. She wanted to say goodbye before leaving to explore the [[Cosmere\|cosmere]], and complimented him as "the best lay" she'd ever had. Wayne was emotionally crushed afterwards, and tried to drown his sorrows with liquor. He also met with members of [[Call and Son and Daughters Accounting and Estate\|Call and Son and Daughters Accounting and Estate]] to discuss his finances, though he was reluctant to do so. Due to the encouragement of Ranette, Wayne arranged for the bank to handle his future money deliveries to Allriandre.
 Marasi planned a raid on a Set warehouse in Bilming, and Wayne, [[VenDell\|VenDell]], and a force of constables went with her. Wayne and VenDell impersonated members of the Set upon their arrival, and things went smoothly. However, the plan was ruined when the Bilming constabulary attacked the warehouse in a raid. As chaos broke out and the fighting began, Wayne fought a Set member named [[Getruda\|Getruda]], who was made to be a rough copy of him in both powers and mannerisms. Wax arrived and the fighting ended soon after, though Getruda escaped. The group was taken into custody, but was allowed to operate in the city if accompanied by a Bilming constable. The "constable" was [[Moonlight\|Moonlight]], whom Marasi knew but Wayne didn't. The three investigated [[Tobal Copper\|Tobal Copper]], a man they knew to be involved with the Set's attempts to split harmonium to make a bomb. They went to Tobal's apartment, where Wayne analyzed the room. He deduced that the Set killed Tobal to keep him quiet, but cleaned up the mess well. He concluded that they all should go to a disreputable broadsheet office which he might have told about the Set's actions. They found the broadsheet office that Tobal went to, and discovered that he told the proprietor, [[Maraga Dulcet\|Maraga Dulcet]], everything. They learned that the Set was trying to make a self propelled rocket to deliver a bomb to Elendel. Telsin arrived, and Wax distracted her while everyone slipped away. Afterwards, Wax and Wayne went to search Entrone's office, with Wayne providing a distraction. They explored an underground passage under Entrone's manor, and ran into [[Dumad\|Dumad]] and Getruda, the two Set agents. Wayne and Wax managed to defeat them, though Wayne lost a lot of his stored healing in the process.
@@ -263,7 +263,7 @@ They arrived at the Set's laboratory too late as a convoy of trucks left. Wax ch
 
 ### Stopping the Bomb
 >“*You don't hafta do this, mate. To hell with what you said you'd do. To hell with it all. You're in the wrong spot, and you know it. There's a door to your right. I don't know where it goes, but at least it ain't in here.*”
-\-Wayne convincing the guards to flee[83]
+\-Wayne convincing the guards to flee[84]
 
 
 Wax figured out that the Set would be launching the bomb soon from the highest building in Bilming, the [[Independence Tower\|Shaw]] (named for being reminiscent of the spires of [[Kredik Shaw\|Kredik Shaw]]). The two fought their way up the tower, with Wax taking out most of the Set soldiers guarding the bomb. When they got to the top, Wayne convinced the last group of guards to put down their weapons and flee, rather than being killed. He reasoned that they were simply working, frightened, security guards who were unaware of the activities the Set were up to, rather than the committed Set soldiers Wax and he had just wiped out. They came across their doubles, Dumad and Getruda, and fought them one last time. Instead of fighting their own doubles, they decided to fight each other's. Wayne was able to stay close to Dumad by grappling him, and getting Dumad to take them into the sky using a [[Duralumin\|duralumin]]-enhanced Steelpush. He swiped the aluminum flask Dumad used to replenish his metals after using duralumin burned them away, denying Dumad the ability to Steelpush, causing them to fall a great distance and killing Dumad. Despite the satisfaction of defeating Dumad, Wayne was disappointed that they had fallen too fast for Wayne to say the witty remark he had come up with. They discovered that the bomb atop the Shaw was a decoy, and that the real bomb was on a ship, already en route to Elendel.
@@ -288,7 +288,7 @@ After his death, Wayne briefly spoke with Harmony before passing into the [[Beyo
  
 ### Waxillium Ladrian
 >“*You're a bizarre pair, you know.*”
-\-Marasi to Wax[44]
+\-Marasi to Wax[45]
 
 
 [[Wax\|Wax]] is Wayne's best friend and partner. Wayne acts as Wax's deputy. They have an easygoing relationship, and they often engage in banter. Wax was the one who saved Wayne when he was about to be hanged for murder, for which Wayne owes Wax a debt of gratitude. They have gone on countless adventures together, and have formed a strong friendship and trust. Though Wax laughs at most of Wayne's jokes, he also wishes Wayne would not meddle in his personal life, such as disparaging [[Steris\|Steris]]. Wayne and Wax have a cheerful competitiveness to them, sometimes counting how many enemies they each defeated in a fight.
@@ -307,7 +307,7 @@ Wax and Wayne have several maneuvers that they use, each with a code name.
 **Scary Tree:** This is when Wayne imitates Wax by wearing his mistcloak, shooting guns (or throwing bullets into a fire, before Wayne gets over his fear of firearms), and by imitating his voice. While Wayne holds the enemies' attention, Wax is able to sneak by and flank them. The two of them use it when attacking the Shaw.
 ### MeLaan
 >“*Maybe there was actually something there between them. If anything, Wayne didn't seem the least bit put out by being reminded just how alien, and just how old, MeLaan was.*”
-\-Wax[62]
+\-Wax[63]
 
 
 Wayne has a very close relationship with [[MeLaan\|MeLaan]], and is attracted to her easygoing manner and free spirit. MeLaan admires Wayne's skill with accents, and Wayne gives her pointers from time to time. Over time they grow quite close, and Wayne seems not the least bit perturbed about having a romantic relationship with her, despite her immense age and her being a kandra. Their relationship becomes apparent when [[Wax\|Wax]] finds them making out in a luggage compartment. Wayne's romantic inclinations towards MeLaan are what causes him to break off his pursuit of [[Ranette\|Ranette]]. When [[Telsin\|Telsin]] takes MeLaan's spikes, turning her into a [[Mistwraith\|mistwraith]], Wayne manages to shoot Telsin, recover the spikes, and save MeLaan. Several years later, MeLaan breaks up with Wayne, stating that she had a mission from Harmony, and that if she stayed behind it wouldn't be because she wanted to, but because she didn't want to hurt Wayne.
@@ -321,7 +321,7 @@ At first, Wayne has no understanding of personal boundaries around [[Marasi\|Mar
 
 ### Ranette
 >“*Nah. She's just angry. That's how she shows affection.*”
-\-Wayne[44]
+\-Wayne[45]
 
 
 Wayne often flirts with [[Ranette\|Ranette]], but is continually met with hostility or indifference. Wayne doesn't seem to care about how much he annoys Ranette, and often calls her "honey" or "darling". Ranette despises Wayne, and has shot him on four separate occasions. Wayne eventually tells Ranette he is no longer interested in her, a decision largely impacted by a conversation with Marasi and his developing relationship with [[MeLaan\|MeLaan]], and Ranette is grateful and relieved at the news.

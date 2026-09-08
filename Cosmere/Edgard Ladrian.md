@@ -49,7 +49,7 @@ He is commonly described as "portly", though he has lost weight at various point
 
 ## Attributes and Abilities
   *Soother*
-He is a [[Soother\|Soother]], and he subtly Soothes everyone he comes across. This leads him to be mistrusted by many people. They are reluctant to do anything for him, as they are worried he might be Soothing them. He is believed by [[Kelsier\|Kelsier]] and many of his crew to be one of the most skilled Soothers on [[Scadrial\|Scadrial]]. He helps to teach [[Vin\|Vin]] some of the more in-depth aspects of Soothing. He has a refined and intricate control over his Soothing, and is skilled at Soothing people without them noticing. He does this to Vin on a few occasions. He could influence several hundred people at once. His Soothing abilities are second nature to him, and in many cases he Soothes without being able to help it.
+He is a [[Soother\|Soother]], and he subtly Soothes many of the people he comes across. This leads him to be mistrusted by many people, including (at first) [[Clubs\|Clubs]]. People are sometimes reluctant to do anything for him, as they are worried he might be Soothing them. He is believed by [[Kelsier\|Kelsier]] and many of his crew to be one of the most skilled Soothers on [[Scadrial\|Scadrial]]. He helps to teach [[Vin\|Vin]] some of the more in-depth aspects of Soothing. He has a refined and intricate control over his Soothing, and is skilled at Soothing people without them noticing. He does this to Vin on a few occasions. He was able to influence several hundred people at once. His Soothing abilities are second nature to him, and in many cases he Soothes without being able to help it.
 
 ## History
 ### Early Life

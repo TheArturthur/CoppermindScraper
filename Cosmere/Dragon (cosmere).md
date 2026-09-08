@@ -63,7 +63,7 @@ In their true forms, they are not necessarily large; some are smaller than [[San
 \-Frost to Starling.[8]
 
 Dragons have the inherent ability to shapeshift. The scope of their shapeshifting powers may vary by individual, but shapeshifting is a core aspect of their life cycle. When in their humanoid form, dragons do not display any identifiable nonhuman characteristics. Their shapeshifting method is different to that of the [[Kandra\|kandra]], even if the result is similar.
-Dragons can be locked into their human form with silver manacles made from dragons.
+Dragons can be locked into their human form with silver manacles made by dragons.
 
 #### The Transformation
 Dragonets are stuck in their human form until they become thirty years old. Then, on their exact birthday, they will absorb the first light of [[Yolen\|Yolen's]] dawn and transform into their draconic form. It is not entirely clear if they only transform at the first light of Yolen's dawn, or if they would transform on any planet.

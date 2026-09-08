@@ -121,14 +121,14 @@ Navani has a stately bearing and, in some ways, is the picture of a perfect Vori
 \-Navani[13]
 
 
-As the dowager queen, Navani often challenges [[Alethi\|Alethi]] protocol. She is known for her ability to learn everything of significance through gossip, no matter where she travels. She is not overly judgmental, but is not above pointing out the obvious. She is known for her confidence, to the point that she is not afraid to match words with [[Hoid\|Wit]]. She believes in being blunt, especially when working with scholars. Despite this, Navani is also known for her discretion. A scholar at heart, she keeps exacting notes and is well organized. She comforts those she sees in pain or need.
+As the dowager queen, Navani often challenges [[Alethi\|Alethi]] protocol. She is known for her ability to learn everything of significance through gossip, no matter where she travels. She is not overly judgmental, but is not above pointing out the obvious. She is known for her confidence, to the point that she is not afraid to match words with [[Hoid\|Wit]]. She believes in being blunt, especially when working with scholars. Despite this, Navani is also known for her discretion. A scholar at heart, she keeps exacting notes and is well organized. She comforts those she sees in pain or need. Navani is fond of a particular vintage of [[Amosztha\|amosztha]].
 Having lived much of her life as a queen, Navani is a creature of politics. She is deftly able to navigate the Alethi political sphere when she chooses to. In the past, she thought that men lacked the mind for details but has come to see this position as flawed and related to the inability to write. As she has grown older, Navani has also become disillusioned with politics and has begun to chafe at the traditional place for a brightlady. As the dowager queen, she believes that no one cares about her actions and would pass off any extreme actions as eccentricity.
 Despite her talent at politics, Navani's true love is found in her scholarly pursuits. It is part of her belief that a brightlady should have a variety of hobbies. She is a renowned scholar, specializing in the development of new [[Fabrial\|fabrials]]. She pursues her passion with enthusiasm and little to no guile. In addition, she is fond of simple solutions. Navani believes that soul of art is creation. Creation brings order to a blank slate or empty canvas and becomes art. She uses that belief to fuel her scholarly pursuits. Additionally, she believes that asking questions is important to gaining knowledge and will focus on learning from her surroundings when in unfamiliar situations. She likes the warcamps because they are not messy like cities, and because military men and women valued order and rationality. She places a high value on experimentation and repeatable trials. For this reason, she looks down on the work of the [[Stormwarden\|stormwardens]]. She hates leaving tasks unfinished.
 
 ## Attributes and Abilities
   Navani with fabrial watch, <<Spanreed\|spanreed>> and the <<Emotion bracelet\|emotion bracelet>>
 >“*She always claimed that she wasn't a scholar, but a patron of scholars. (...) Anyone who saw the light in her eyes as she took out another sheet and sketched her idea further knew she was being too modest.*”
-\-Dalinar[24]
+\-Dalinar[25]
 
 
 Navani is a renowned artifabrian. She engineers the creation of fabrials that her team of artisan [[Ardent\|ardents]] create through fabrial science. She led the research to develop the [[Grandbow\|grandbows]]. She also had a hand in the construction of a new [[Painrial\|painrial]], and of it she's particularly proud, though it's only an early model. She thinks it has a lot of potential. Many of her inventions, such as the [[Painrial\|painrial]], are used in the war against the [[Parshendi\|Parshendi]], making her incredibly valuable to the Alethi.
@@ -311,7 +311,7 @@ She finds herself in a vision during a parley between singers and humans with Da
 She is shown a vision from her childhood where she is mocked for her appearance and inability to serve as a scribe. Navani recognizes the vision for what it is and commands it to end. Recognizing that she is intentionally being shown humiliating visions, she begins to think about how she can control the visions herself. While in a vision depicting a past argument with Gavilar, Navani tests her control over the vision due to her knowledge of the events. She reasons that Gavinor is being similarly tortured by spren at the [[Siege of Kholinar\|Siege of Kholinar]], so she asks the vision to show her Elhokar dying.
 
 >“*This seed was buried deep, wasn't it? Grew into a weed that snarled and choked me for decades, watered by Gavilar once he recognized it. I've pulled that weed. Its power withered as its roots died. Begone.*”
-\-Navani ending a vision in the Spiritual Realm[38]
+\-Navani ending a vision in the Spiritual Realm[39]
 
 She is transported to a vision of the siege of Kholinar. She hears the fighting in Kholinar, but is able to walk towards Aesudan's chambers. Using the tones of Roshar, she contacts the Sibling and questions them about escaping the Spiritual Realm. She learns there is less than a day until the Contest of Champions and begins to devise a plan to escape the Spiritual Realm using a point of transition. She loses contact with her spren but sees Elhokar and Kaladin in the vision fighting towards her. She asks them to aid her in freeing Gavinor which they successfully do. Odium takes control of vision Elhokar and questions Navani about her plans. Navani attempts to Connect to Dalinar, but is stopped by Odium. Navani agrees to continue the vision, trusting that Dalinar will find a way out on his own. She ignores the cries of her son as she carries her grandson to the Kholinar Oathgate. She commands vision Kaladin to open the Oathgate which momentarily allows her to find the tones of Roshar, allowing the Sibling to pull her and Gavinor back to the Physical Realm.
 
@@ -367,7 +367,7 @@ To Shallan, Navani looks like a version of Jasnah twenty years older; still pret
 After learning of her daughter's death from Shallan, Navani refuses to see her, or have anything to do with her. She even accused her of dooming her when she burned the ship with her "unconscious".
 
 >“* Shallan was apparently no longer an outsider, but one of Navani’s clutch - and Chana help the man or woman who stood between Navani and one of her own.*”
-\-Dalinar after Shallan emerged from the chasms[50]
+\-Dalinar after Shallan emerged from the chasms[51]
 
 
 Their relationship changed dramatically after she survived the fall to the chasms. Upon her return, Navani became motherly and protective of her. She became one of her own. This is further strengthened when Shallan takes the Kholin name and sees Navani and Dalinar as parents.
@@ -403,7 +403,7 @@ The pair disagree about modern fabrial usage and the privacy of occupants of Uri
 
 
 >“*Journey before destination, you bastard!*”
-\-Navani to Moash[34]
+\-Navani to Moash[35]
 
 
 ## Trivia

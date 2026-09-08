@@ -73,10 +73,10 @@ Kandra are known to be unmatched actors. Before assuming the role of a certain p
 In combat, kandra can form powerful muscles and heal most wounds immediately, utilizing their ability to shapeshift. Their True Bodies can have specializations for combat, such as [[Aluminum\|aluminum]] bones and hidden weapons. They can also turn off their nerves that cause pain. Some kandra build bodies for combat purposes; these bodies can be made of metal to be stronger and heavier and can have sharp bones to use as knives.
 
 ### Blessings
-There are four known Blessings available to make a kandra. Each Blessing will grant mistwraiths sentience and convert them into kandra, but they also have additional benefits. The Blessing comes from the effect that the Hemalurgic spike steals. They are typically slender, and less than three inches long.
+There are at least six Blessings available to make a kandra. Each Blessing will grant mistwraiths sentience and convert them into kandra, but they also have additional benefits. The Blessing comes from the effect that the Hemalurgic spike steals. They are typically slender, and less than three inches long.
 
 
-There are likely more Blessings than the four already known. [[ReLuur\|ReLuur]] appears to have used [[Pewter\|pewter]] spikes, to unknown effect. [[Paalm\|Paalm]] gained access to Feruchemy by using a [[Trellium\|trellium]] spike, although it is unclear if it was used like a typical Blessing.
+There are likely more Blessings than these. [[Paalm\|Paalm]] gained access to Feruchemy by using a [[Trellium\|trellium]] spike, although it is unclear if it was used like a typical Blessing.
 Losing one or both of their Blessings leaves holes in a kandra's memories. The longer without their Blessings, the bigger the holes will be, and the power of the Blessing will continually weaken until it is restored to the kandra's body.
 Removing a single spike will cause a kandra to lose their sanity. Kandra with only one spike will refuse a spike from another kandra, and this process can cause radical changes in personality, memory, and temperament. A kandra with one spike cannot be controlled by [[Ruin\|Ruin]] or [[Harmony\|Harmony]]. Kandra missing both spikes revert to a mistwraith, with only a trace of their former consciousness. In both cases, returning their missing spikes will restore their mind.
 
@@ -122,7 +122,7 @@ All Contracts are modelled on the [[First Contract\|First Contract]]. During the
 
 ### Allegiance
 >“*They were of Preservation all along.*”
-\-Harmony on the kandra[72]
+\-Harmony on the kandra[74]
 
 
 The kandra initially believe that they are of [[Preservation\|Preservation]], while the koloss, humans and Inquisitors are of [[Ruin\|Ruin]]. This is despite the fact that, like other Hemalurgically-created races, they have Hemalurgic spikes, which are of Ruin. The Lord Ruler creates the kandra to be his spies, and the noble class believe them to be spies for the new government. They often use the kandra as such, but Rashek's ultimate plan is for them to be double agents against Ruin, with their essence being of him but their [[Intent\|Intent]] being of [[Preservation\|Preservation]]. According to the plan, Ruin would believe that he could take control of the kandra whenever he wanted, as they are planted with Hemalurgic spikes. However, due to a clause in the First Contract, as well as the Trust and the Resolution, instead of being used by Ruin, they would pull their spikes free when and if Ruin were to try to seize control of them. Just prior to the [[Battle of Hathsin\|Battle of Hathsin]], this plan comes to fruition exactly as the Lord Ruler had planned, disrupting Ruin's efforts and ultimately leading to his demise, demonstrating that the kandra's true allegiance has always lain with Preservation.
@@ -143,6 +143,7 @@ For a full list, see :Category: Kandra.
 ## Trivia
 The Blessing of Stability is rarely used because Brandon added it late in the development of *[[The Hero of Ages\|The Hero of Ages]]*, after realizing that the structure of the powers of metals in [[Hemalurgy\|Hemalurgy]] required a second mental Blessing.
 At least one unidentified kandra is a [[Worldhopper\|worldhopper]], and has made an appearance in [[Oathbringer\|Oathbringer]]. They are not an agent of Harmony.
+The Blessing of Fortitude was first revealed in the RPG books, with no details provided except the name and game mechanics. Its effect does not match any known Hemalurgic metal.
 
 
 https://coppermind.net/wiki/Kandra

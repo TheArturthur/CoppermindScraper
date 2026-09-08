@@ -59,6 +59,7 @@ The koloss are physically very large and very powerful. Koloss have blue skin an
 #### Koloss-blooded
 Koloss-blooded resemble normal humans with skin ranging from mottled granite to various shades of blue. Their skin tone seems to be dependent on their human ancestry as well. Like koloss, they continue growing taller throughout their life.
 
+ 
 ### Creation and reproduction
 #### Pre Catacendre
 Similar to [[Steel Inquisitor\|Steel Inquisitors]], the creation of a koloss is very brutal. To create a koloss, four humans are stabbed with individual iron spikes through their heart, and these spikes are then placed strategically on to a fifth person. Once placed, the spikes turn the recipient into a koloss "very quickly". It is possible to create Hemalurgic constructs similar to koloss using animals instead of humans as a base. It is possible to create sapient creatures similar to koloss from other primates.
