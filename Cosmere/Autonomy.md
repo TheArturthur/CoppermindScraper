@@ -178,6 +178,8 @@ Autonomy will often seed these religions on various planets—including those al
 
 
 Autonomy has consistently shared her Shardic knowledge of advanced physics and technology with her people. This has led to [[Taldain\|Taldain]] becoming one of cosmere's most technologically-advanced worlds, and the fastest to advance. However, Autonomy has at the same time insisted on stopping Taldain from developing further than she desires, and has meddled in the planet's cultural and political development from ancient times, including manipulating specific individuals in an attempt to divide faith in the Sand Lord and destroy the [[Diem\|Diem]] should they prove unworthy to survive.
+
+ 
 Presently, Autonomy has effectively isolated Taldain from the rest of the cosmere. As such, off-world travel to and from the planet has all but ceased. This also had the result of cutting Taldain [[Worldhopper\|worldhoppers]] off from their own homeland; people like [[Khriss\|Khriss]] and [[Baon\|Baon]] are virtual exiles. Autonomy is not, however, opposed to exporting Taldain's culture—or rather, the version of it she approves of—to other worlds. Places under Autonomy's control, like [[Bilming\|Bilming]], will eventually come to look similar to cities of Taldain, mimicking aspects such as layout and architectural style.
 
 ### Interplanetary Conflicts

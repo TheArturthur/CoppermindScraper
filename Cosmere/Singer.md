@@ -175,7 +175,7 @@ Singer children are born in dullform, though for them, it is more vibrant and le
 \- 5th stanza of the Song of Listing[84]
 
 
-Mateform is used by singers to reproduce; though most other forms are capable of having children, mateform is the one most specialized for the purpose. In female singers, entering mateform increases the size of their breasts; it's unknown what physical effect it has on male singers. Mateform also directs a body’s energy to hormone production. Mentally, mateform causes a singer to behave irresponsibly and become distracted in favor of the form's primary purpose; mateforms will sometimes ignore their assigned task, or do things that are expressly forbidden, without realizing the issue with that. Some singers are, however, capable of keeping themselves together while in mateform, though this requires strong mental discipline. A singer can take mateform by bonding a lifespren and concentrating on their desire to give and receive emotional intimacy.
+Mateform is used by singers to reproduce; though most other forms are capable of having children, mateform is the one most specialized for the purpose. In female singers, entering mateform increases the size of their breasts; it's unknown what physical effect it has on male singers. Mateform also directs a body’s energy to hormone production. Mentally, mateform causes a singer to behave irresponsibly and become distracted in favor of the form's primary purpose; mateforms will sometimes ignore their assigned task, or do things that are expressly forbidden, without realizing the issue with that. Some singers are, however, capable of keeping themselves together while in mateform, though this requires strong mental discipline. A singer can take mateform by bonding a [[Lifespren\|lifespren]] and concentrating on their desire to give and receive emotional intimacy.
 It was one of the original forms the [[Last Legion\|Last Legion]] had after abandoning the [[Regal\|Regal]] forms, alongside dullform. Presently, most singers assume it only transiently, when they wish to attempt having children, though there are some who keep it on at all times.
 
 
@@ -187,7 +187,7 @@ It was one of the original forms the [[Last Legion\|Last Legion]] had after aban
 
 Warform gives listeners an armor-like carapace, and makes them taller and bulkier than other forms. The carapace armor is designed to trap air and push it up underneath to cool the singer. It grants them vastly increased strength; a singer in warform can leap over a chasm of the [[Shattered Plains\|Shattered Plains]] with a running start. Stamina is greatly increased, allowing singers to run for hours without strain. It also deepens their voice. Out of all the forms known to the listeners, warform requires the most food, but is also the most durable, and a warform singer heals faster than they would in any other form.
 Mentally, the warform has less impact than most others; it makes one more pragmatic and slightly more inclined towards violence and following orders. It encourages pragmatism and decreases the ability to think abstractly. In addition to this, it severely hampers one’s artistic ability. Singers in warform are bonded with [[/wiki/Spren#Painspren]].
-The first listeners to enter warform heard the pure tone of Honor.
+The first listeners to enter warform heard the pure tone of [[Honor\|Honor]].
 
 
 #### Workform
@@ -197,7 +197,7 @@ The first listeners to enter warform heard the pure tone of Honor.
 
 
 Workform endows increased strength, though it lacks the armor; rather, singers in workform are limber and rugged. It's better suited for labor, and most workers use it; however, it is also sometimes used when fighting. Singers in workform have carapace in ridges along the backs of their hands, and no carapace on the rest of their body. They are also fairly resistant to cold weather. While in workform, singers are more obedient, and have greater difficulty committing violence, forcing one to find peaceful solutions to various problems. It's also considered more flexible than warform. Singers in workform are bonded with [[/wiki/Spren#Gravitationspren]].
-The first listeners to bond workform heard the pure tone of Cultivation.
+The first listeners to bond workform heard the pure tone of [[Cultivation\|Cultivation]].
 
 
 #### Nimbleform
@@ -207,7 +207,7 @@ The first listeners to bond workform heard the pure tone of Cultivation.
 
 
 Nimbleform is a general form without any singular, apparent function; rather, it's useful for all work that requires dexterity and care. For this reason, listeners use it for tasks such as research, art, and raising children. It has no carapace, and less endurance than other forms; singers in nimbleform are physically weaker, grow longer hair, and have thinner, more slender facial features. It directs the body’s energy toward increased brain function and fine motor skills. It also encourages greater focus.
-This form was rediscovered by the singers during the [[War of Reckoning\|War of Reckoning]], through research led by [[Venli\|Venli]]. Singers bond with a windspren to enter nimbleform. During the [[True Desolation\|True Desolation]], most liberated singers wore either it or workform.
+This form was rediscovered by the singers during the [[War of Reckoning\|War of Reckoning]], through research led by [[Venli\|Venli]]. Singers bond with a [[Windspren\|windspren]] to enter nimbleform. During the [[True Desolation\|True Desolation]], most liberated singers wore either it or workform.
 
 
 #### Mediationform
@@ -229,7 +229,7 @@ Though present in the [[Song of Listing\|Song of Listing]], scholarform has only
 \-90th stanza of the Song of Listing[96]
 
 
->“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract creationspren;These songs suffice 'til we learn.*”
+>“* Artform for colors beyond our ken;For its grand songs we yearn.We must attract [[Creationspren\|creationspren]];These songs suffice 'til we learn.*”
 \-279th stanza of the Song of Revision[97]
 
 

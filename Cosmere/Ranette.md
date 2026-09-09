@@ -41,6 +41,7 @@ She lived in the [[Roughs\|Roughs]] but moved to the city some time before Wax d
 
 ## Appearance & Personality
  
+For more images, see [[Ranette/Gallery\|/Gallery]].
 >“*People are stupid. I find them annoying, and those are the ones I like.*”
 \-Ranette[5]
 

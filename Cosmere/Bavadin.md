@@ -43,6 +43,7 @@
 
 ## Appearance and Personality
  
+For more images, see [[Bavadin/Gallery\|/Gallery]].
 ### Appearance
 Bavadin has a habit of taking on multiple forms and appearances. She has several male and female personas, and ones that are neither; she will often present herself as different people to the same culture; although she is usually referred to with feminine pronouns, gender, as well as race and other qualities, are fluid where she is concerned. Bavadin seems fond of changing her appearance, and she does so daily. Even her original species is unclear beyond being a member of one of the races on Yolen (human, [[Sho Del\|Sho Del]], or [[Dragon (cosmere)\|dragon]]). In artwork, she is sometimes depicted as a feminine figure with long, vividly red hair; it is unclear, however, if this is an accurate depiction of her, let alone her "true" appearance, if she even has one.
 

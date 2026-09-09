@@ -9,6 +9,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*!Be aware that in its current state, it may not include all additional content yet.
 
+For other characters named John, see [[John\|John]].
 **Runian**, also known as **John West**, is a former member of the [[Fabian Augments\|Fabian Augments]] cartel and [[Sefawynn\|Sefawynn's]] husband.
 
 ## Contents

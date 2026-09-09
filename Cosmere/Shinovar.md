@@ -100,7 +100,7 @@ Around one thousand years before the Night of Sorrows, Ishar absorbed part of th
 He used the people, with their access to the Honorblades, as a way to eventually find replacement [[Herald\|Heralds]]. However, he was unable to find anyone who satisfied his expectations for a replacement.
 
 #### Shin Invasions
-During the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to invade into the rest of Roshar. They used Honorblades, Surges, and cavalry, which was incredibly rare in the rest of the continent. Legends speak of large groups of men on horseback carrying spears. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions.
+Early in the [[Era of Solitude\|Era of Solitude]], the Shin tried multiple times to invade into the rest of Roshar. They used Honorblades, Surges, and cavalry, which was incredibly rare in the rest of the continent. Legends speak of large groups of men on horseback carrying spears. [[Shubreth-son-Mashalan\|Shubreth-son-Mashalan]] was likely a leader during one of the invasions.
 
 #### Lead-up to the Everstorm
 Before the arrival of the Everstorm, the Shin coast was repeatedly attacked by [[Steen\|Steen]] raiders. The raids happened frequently enough that the monastaries built near the coastline were developed for the purposes of defending against coastal incursions.
