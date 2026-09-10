@@ -35,7 +35,7 @@ Most of the people serving in KRELL are [[Varvax\|varvax]]; because of this, hum
 Vast majority of KRELL forces pilot remotely-controlled drones, although they do possess a number of manned vessels, nicknamed "aces" by the [[DDF\|DDF]]. They also have some [[Lifebuster\|lifebusters]], special weapons designed to keep Detritus in check, or wipe its population out if necessary. They can additionally call on a few larger battleships, which are far more formidable than the fighters. The KRELL vehicles can be recognized by the stenciled name of the force on their sides, as well as a black coat of paint.
 
 ## Trivia
-The name "Krell" is an homage to **, one of Brandon's favorite movies. It's also popped up in the [[Cosmere\|cosmere]]; there, [[Krell (cosmere)\|krell]] are herbivorous animals native to [[First of the Sun\|First of the Sun]].
+The name "Krell" is an homage to **, one of Brandon's favorite movies. The term was formerly used in the [[Cosmere\|cosmere]]; a species known as "krell" were herbivorous animals native to [[First of the Sun\|First of the Sun]], but the name was changed to "[[Nell beast\|nell beasts]]" in *[[Isles of the Emberdark\|Isles of the Emberdark]]*.
 
 
 https://coppermind.net/wiki/KRELL

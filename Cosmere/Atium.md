@@ -47,7 +47,8 @@ Atium shadows, while hard to beat, are not impossible. The most common way to fi
 Burning [[Duralumin\|duralumin]] with atium will allow Allomancers to see farther into the future, by allowing them to peer into the [[Spiritual Realm\|Spiritual Realm]]. The same effect can occur if a Hemalurgist has enough spikes enhancing their atium. Aluminum objects do not generate atium shadows. Atium does not enable a person to anticipate emotional Allomancy. A Seer can perceive atium shadows even if they are otherwise blind.
 
 ## Feruchemical Use
-Atium, when used by a Feruchemist, stores youth. When storing youth, the Feruchemist spends time older. When tapping youth, the Feruchemist then spends time younger. While no atium Ferrings have ever been known to exist, they have been given the name **Timewinder** by Terris scholars.
+Atium, when used by a Feruchemist, stores youth. While no atium Ferrings have ever been known to exist, they have been given the name **Timewinder** by Terris scholars. When storing youth, the Feruchemist spends time older. When tapping youth, the Feruchemist then spends time younger. The Timewinder's mental and physical capabilities can be affected by changing their age, but their overall personality, knowledge, and skills remain unaffected.
+It is not possible for a Feruchemist to kill themselves by storing or tapping too much youth, but they can gain insight into their natural lifespan by storing a large amount of youth.
 
 ### Compounding
 An atium [[Compounding\|Compounder]] would be able to use atium to have a nearly infinite supply of youth, allowing for practical immortality.

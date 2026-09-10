@@ -5,7 +5,7 @@
 |**[[Allomancy\|Allomancy]]**|
 |**Power**|Remove Allomantic metal reserves|
 |**Type**|Internal, Pulling, Enhancement|
-|**Misting**|Aluminum Gnat|
+|**Misting**|Aluminum Gnat or Void|
 |**[[Feruchemy\|Feruchemy]]**|
 |**Power**|Store [[Identity\|Identity]]|
 |**Type**|Spiritual|
@@ -59,14 +59,15 @@ The paired alloy of aluminum used in the Metallic Arts is [[Duralumin\|duralumin
 
 
 ## Allomantic Use
-An aluminum [[Misting\|Misting]] is known as an **Aluminum Gnat**. Burning aluminum causes the body to instantly metabolize its metal reserves—including the aluminum itself—without any other effect. As such, an Aluminum Gnat gains no useable powers from their Allomancy, however, it can be used to negate effects of other Investiture, such as the withering effect of [[Shade\|Shades]] on [[Threnody\|Threnody]]. Only Allomantically relevant metals can be burned away. Allomancy does not affect aluminum even though the metal itself is Allomantically viable.
+An aluminum [[Misting\|Misting]] is known as an **Aluminum Gnat** or **Void**. Burning aluminum causes the body to instantly metabolize its metal reserves—including the aluminum itself—without any other effect. As such, an Aluminum Gnat gains no useable powers from their Allomancy. Only Allomantically relevant metals can be burned away. Allomancy does not affect aluminum even though the metal itself is Allomantically viable.
+An Aluminum Gnat can burn aluminum to negate the effects of other Investiture in their body, such as the withering effect of [[Shade\|Shades]], or [[Surgebinding\|Surgebinding]]. Due to this, worldhoppers refer to them as Voids.
 
 ### Savantism
 If someone were able to burn the amount of aluminum needed to become an Allomantic [[Savant\|savant]] with the metal, it may be possible to cleanse their spirit of unwanted effects of Investiture.
 
 ## Feruchemical Use
-An aluminum [[Ferring\|Ferring]] is known as a **Trueself**. Aluminum is used to store "spiritual sense of [[Identity\|Identity]]." This ability is not fully understood, and is rarely discussed outside of Terris communities. A Trueself who fills an aluminummind to the point where they have no Identity and then fills another metalmind is able to produce a metalmind that any Feruchemist with the relevant power can tap. In a similar manner, a Feruchemist may be able to tap another person's metalminds by filling their own aluminummind completely. Trueselfs can heal damage done to them in the [[Cognitive Realm\|Cognitive Realm]] by storing Identity, but it takes a roundabout method. Storing Identity makes the Feruchemist more susceptible to many things, such as [[Forgery\|Forgery]].
-It is unclear why Identity can be stored in and withdrawn from an aluminummind when other Invested Arts cannot affect aluminum.
+An aluminum [[Ferring\|Ferring]] is known as a **Trueself**. Aluminum is used to store "spiritual sense of [[Identity\|Identity]]." This ability is not fully understood, and is rarely discussed outside of Terris communities. Storing Identity makes the Feruchemist more susceptible to many things, such as [[Forgery\|Forgery]] or emotional Allomancy. Tapping Identity makes the Trueself more difficult to influence. It is unclear why Identity can be stored in and withdrawn from an aluminummind when other Invested Arts cannot affect aluminum.
+A Trueself who fills an aluminummind to the point where they have no Identity and then fills another metalmind is able to produce a metalmind that any Feruchemist with the relevant power can tap. In a similar manner, a Feruchemist may be able to tap another person's metalminds by filling their own aluminummind completely. Trueselfs can heal damage done to them in the [[Cognitive Realm\|Cognitive Realm]] by storing Identity, but it takes a roundabout method.
 
 ## Hemalurgic Use
 When used as a Hemalurgic spike, aluminum removes all powers, such as Allomancy or [[Sand mastery\|sand mastery]].
@@ -118,7 +119,7 @@ The [[Lord Ruler\|Lord Ruler]] kept aluminum and its alloy [[Duralumin\|duralumi
 
 ### Roshar
 >“*There are legends of metal that can block a Shardblade. A metal that falls from the sky. Silver, but somehow lighter.*”
-\-Taravangian on aluminum[54]
+\-Taravangian on aluminum[57]
 
 
 The Knights Radiant once lined tunnels deep beneath [[Urithiru\|Urithiru]] with ralkalest, likely to protect against intrusion into the tunnels from the foothills below via Surgebinding. It is unknown whether the term ralkalest is of Selish origin alone, or if Raboniel learned of it from another source. [[Azir\|Azir]] obtained aluminum from stars that fell from space, and historically called it starmetal.

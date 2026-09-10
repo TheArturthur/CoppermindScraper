@@ -254,7 +254,6 @@ Due to the presence of the Shard [[Cultivation\|Cultivation]], the creatures on 
 Separately from this, Roshar is known to have developed two independent sapient species: [[Siah Aimian\|Siah Aimians]] and [[Singer\|Singers]]. Both of them are humanoid, and capable of breeding with humans. Roshar's other sentient species are humans, who immigrated there from [[Ashyn\|Ashyn]]; the Iriali, who have since fully integrated with the population of the planet; and the [[Sleepless\|Sleepless]] (known also as Dysian Aimians), who are not native to the planet.
 
 ## History
-  The major eras of Rosharan history.
 For a list of Rosharan events and eras, see :Category:Rosharan events .
 ### Pre-Desolation Roshar
 #### Creation and Early Inhabitants

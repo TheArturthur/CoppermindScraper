@@ -3,21 +3,25 @@
 |**Related to**|[[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-A **savant** is someone who has used an [[Investiture\|Investiture]]-related ability so much that it has changed their physiology; at least [[Allomancy\|Allomancy]], [[Feruchemy\|Feruchemy]], and [[Surgebinding\|Surgebinding]] can lead to savants. The process involves one's spirit becoming infused with Investiture, causing changes in the [[Physical Realm\|Physical Realm]]. Savantism brings a person closer to the [[Spiritual Realm\|Spiritual Realm]].
+A **savant** is someone who has used an [[Investiture\|Investiture]]-related ability so much that it has changed their physiology. 
 
 ## Contents
 
-1 Allomantic savant. [[#Allomantic savant]] 
-2 Feruchemical savant. [[#Feruchemical savant]] 
-3 Surgebinding savant. [[#Surgebinding savant]] 
+1 Savantism. [[#Savantism]] 
+2 Allomantic savant. [[#Allomantic savant]] 
+3 Feruchemical savant. [[#Feruchemical savant]] 
+4 Surgebinding savant. [[#Surgebinding savant]] 
 
-3. [[#Soulcasting savant]] 
+4. [[#Soulcasting savant]] 
 
 
-4 Notable Savants. [[#Notable Savants]] 
-5 Trivia. [[#Trivia]] 
-6 Notes. [[#Notes]] 
+5 Notable Savants. [[#Notable Savants]] 
+6 Trivia. [[#Trivia]] 
+7 Notes. [[#Notes]] 
 
+
+## Savantism
+If a person has no other [[Invested Art\|Invested Arts]] to dilute their power, their spirit can become infused with Investiture, causing changes in the [[Physical Realm\|Physical Realm]]. This can happen from the sheer frequency and intensity of using the Invested Art. Savants become much more powerful, but often suffer dangerous side effects similar to withdrawal. Savantism brings a person closer to the [[Spiritual Realm\|Spiritual Realm]].
 
 ## Allomantic savant
 An Allomancer who has flared their metal for a long time can become a savant. Generally, savantism gives the Allomancer more blunt power and sometimes grants additional special effects. It is dangerous and harmful to the body. The Allomancer might rely so much on or get so accustomed to the metal that when they extinguish the metal, they experience serious withdrawal effects. 

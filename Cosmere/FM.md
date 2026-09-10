@@ -199,7 +199,7 @@ FM and Rodge used their taynix to meet quietly, because they weren't ready to te
 ### Nedd
 [[Nedd Strong\|Nedd]] had a crush on FM. They have a playful relationship, often exchanging friendly insults and joking comments. Nedd had hoped to celebrate with FM after her graduation and was disappointed that she had immediately been sent on a DDF mission. While they were on leave, he cornered FM and asked her out, but she told him she'd rather just be friends. He took it well, though after that he acted overly friendly in an effort not to make their friendship awkward, though, for FM, it had the opposite effect. This slightly exasperated FM, who tried to avoid that in the first place by not directly confronting Nedd.
 FM seems to perceive Nedd as rather socially oblivious, as he didn't pick up on her hints that she wasn't interested in him.
-Later in ReDawn FM expresses to the whole flight -after they bombard her with questions- that she and Roge are dating. Nedd then becomes speechless and a few moments later says he feels left out since almost everyone in the flight has a girlfriend or boyfriend now. 
+Later, in *ReDawn*, FM expresses to the whole flight -- after they bombard her with questions -- that she and Rodge are dating. Nedd then becomes speechless and a few moments later says he feels left out since almost everyone in the flight has a girlfriend or boyfriend now.
 
 
 

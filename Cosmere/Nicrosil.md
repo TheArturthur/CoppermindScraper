@@ -31,6 +31,10 @@
 
 
 3 Hemalurgic Use. [[#Hemalurgic Use]] 
+
+3. [[#Hemalurgic Constructs]] 
+
+
 4 Trivia. [[#Trivia]] 
 5 Notes. [[#Notes]] 
 
@@ -50,7 +54,8 @@ A nicrosil [[Misting\|Misting]] is known as a **Nicroburst**. A Nicroburst burni
 Burning nicrosil could potentially be used to gain a burst of power from other forms of Investiture, such as [[Surgebinding\|Surgebinding]] or [[Feruchemy\|Feruchemy]].
 
 ## Feruchemical Use
-A nicrosil [[Ferring\|Ferring]] is known as a **Soulbearer**. Nicrosil is used to store [[Investiture\|Investiture]]. This ability is not understood (even by those who utilize it). A Soulbearer storing Investiture stores their ability to use their Investiture. Therefore, a Soulbearer could store their ability to use Feruchemy and another person tapping it would be turned into a temporary Feruchemist who has the ability to fill a metalmind (assuming the nicrosilmind was [[/wiki/Feruchemy#Unkeyed Metalminds]]). Among other things, a nicrosilmind can be used to store the [[Divine Breath\|divine Breath]] of the [[Returned\|Returned]] and the ability to use various [[Surge\|surges]] of the [[Knights Radiant\|Knights Radiant]]. Filling a nicrosilmind as fast as possible hides a person from an [[Awakener\|Awakener's]] life sense.
+A nicrosil [[Ferring\|Ferring]] is known as a **Soulbearer**. Nicrosil is used to store [[Investiture\|Investiture]]. This ability is not well understood in the Terris community (even by those who utilize it). A Soulbearer stores their ability to use their Investiture, making their [[Invested Art\|Invested Art]] weaker. Tapping would increase the potency of the Soulbearer's Invested Art, allowing them to surpass the usual limits. For example, a [[Twinborn\|Twinborn]] who is both a Soulbearer and Soother would be able to take control of a [[Koloss\|Koloss]]. 
+Assuming the nicrosilmind was [[/wiki/Feruchemy#Unkeyed Metalminds]], a Soulbearer could store their ability to use Feruchemy and another person tapping it would be turned into a temporary Feruchemist who has the ability to fill a metalmind. Among other things, a nicrosilmind can be used to store the [[Divine Breath\|divine Breath]] of the [[Returned\|Returned]] and the ability to use various [[Surge\|surges]] of the [[Knights Radiant\|Knights Radiant]]. Filling a nicrosilmind as much as possible can hide a person from an [[Awakener\|Awakener's]] life sense.
 
 ### Compounding
 Next to nothing is known about the possible applications of [[Compounding\|Compounding]] Feruchemical nicrosil, however it is theoretically possible to create a metalmind as Invested as [[Nightblood\|Nightblood]].
@@ -58,6 +63,10 @@ Next to nothing is known about the possible applications of [[Compounding\|Compo
 ## Hemalurgic Use
 When used as a Hemalurgic spike, nicrosil steals [[Investiture\|Investiture]]. This does not steal powers—the ability to use Invested Arts like Allomancy or [[Sand mastery\|sand mastery]]—but rather general Investiture, such as a piece of a person's soul or [[BioChromatic Breath\|BioChromatic Breaths]].
 If a [[Scadrian\|Scadrian]] is stabbed with a spike Invested with stolen Investiture from another Scadrian, they may temporarily gain Allomantic powers.
+
+### Hemalurgic Constructs
+ are created when a living human is implanted in the neck with a nicrosil spike charged with Investiture.
+ are created when a living human is implanted in the chest with a nicrosil spike heavily charged with Investiture, a [[Steel Inquisitor\|Steel Inquisitor]]’s latticework of Allomantic and Feruchemical spikes, and a [[Trellium\|Trellium]] spike charged with an unknown attribute.
 
 ## Trivia
 In the [[Mistborn Adventure Game\|Mistborn Adventure Game]] nicrosil can be used to convert between forms of [[Investiture\|Investiture]]. This allows for a [[Feruchemist\|Feruchemist]] to convert between attributes stored in their [[Metalmind\|metalminds]] (i.e. converting the mental speed in a zincmind into the strength in a pewtermind).
