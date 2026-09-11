@@ -17,6 +17,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“*Death is not a religion. It is a fact.*”
 \-Marsh[6]
 
@@ -67,7 +68,7 @@
 ### Appearance
 For more images, see [[Marsh/Gallery\|/Gallery]].
 Before becoming an [[Inquisitor\|Inquisitor]], Marsh is stern and determined, earning him the name "**Ironeyes**" as a result of his piercing gaze. Marsh looks very similar to his brother [[Kelsier\|Kelsier]], even after becoming an Inquisitor. He is over six feet tall. Steel Ministry tattoos and [[Hemalurgy\|spikes]] through his eyes are a prominent feature of his face after being made an [[Inquisitor\|Inquisitor]], scars are said to intermingle with his faded tattoos. One of his eye sockets is deformed from being crushed by Sazed, and has scars and bony ridges under the skin.
-At least during his dying state in 348 PC, he is said to look thin and skeletal, with ghostly skin and an ill complexion. He ages and grows younger by decades with every breath, fluctuating between the two. His older form has deep wrinkles and sagging jowls. He wears voluminous black robes.
+At least during his dying state in 348 PC, he is said to look thin and skeletal, with ghostly skin and an ill complexion. He ages and grows younger by decades with every breath, fluctuating between the two. His older form has deep wrinkles and sagging jowls. He wears either voluminous black robes or a black trench coat and brimmed hat.
 He appears to retain his old accent from before the Catecendre, with [[Wayne\|Wayne]] noting that his accent is very old.
 
 ### Personality
@@ -84,7 +85,7 @@ He appears to feel a kinship with other spiked individuals, referring to Wax as 
 Marsh was a Seeker, a [[Misting\|Misting]] who could burn bronze. This allowed him to hear Allomantic pulses and find Allomancers. He was highly skilled and taught Vin how to use bronze effectively.
 
 ### Steel Inquisitor
-Upon becoming an Inquisitor, he gained further abilities in Allomancy and [[Feruchemy\|Feruchemy]] through the use of [[Hemalurgic\|Hemalurgic]] spikes. He initially had eleven spikes. Some of the spikes granted Marsh the abilities of Allomantic [[Steel\|steel]], [[Iron\|iron]], [[Pewter\|pewter]], [[Tin\|tin]], [[Brass\|brass]], [[Zinc\|zinc]], [[Copper\|copper]], [[Bronze\|bronze]] and [[Atium\|atium]], as well as granting him the abilities of Feruchemical [[Gold\|gold]]. His spike for Allomantic [[Bronze\|bronze]], coupled with his natural ability as a Seeker, lets him pierce standard copperclouds. After Ruin took control of the Inquisitors he gained ten more spikes, and, adding the spike that grants him Feruchemical [[Atium\|atium]] which he took from another Steel Inquisitor Vin killed, he has twenty-two in total. His new powers included Allomantic [[Duralumin\|duralumin]], and Feruchemical pewter, steel, and atium.
+Upon becoming an Inquisitor, he gained further abilities in Allomancy and [[Feruchemy\|Feruchemy]] through the use of [[Hemalurgic\|Hemalurgic]] spikes. He initially had eleven spikes. Some of the spikes granted Marsh the abilities of Allomantic [[Steel\|steel]], [[Iron\|iron]], [[Pewter\|pewter]], [[Tin\|tin]], [[Brass\|brass]], [[Zinc\|zinc]], [[Copper\|copper]], [[Bronze\|bronze]], and [[Atium\|atium]], as well as granting him the abilities of Feruchemical [[Gold\|gold]]. His spike for Allomantic [[Bronze\|bronze]], coupled with his natural ability as a Seeker, lets him pierce standard copperclouds. After Ruin took control of the Inquisitors he gained ten more spikes, and, adding the spike that grants him Feruchemical [[Atium\|atium]] which he took from another Steel Inquisitor Vin killed, he has twenty-two in total. His new powers included Allomantic [[Duralumin\|duralumin]], and Feruchemical pewter, steel, and atium.
 This amount of spikes takes a great toll on his body.
 His multiple atium abilities allow him to [[Compounding\|extend his life]] as [[Rashek\|Rashek]] had. In addition to this, he kept the bag of atium that [[KanPaar\|KanPaar]] attempted to sell, meaning that he has enough to stay alive for a very long time. As of 348 [[Catacendre\|PC]], he was running low on atium and growing weak, standing at the cusp of death. His mind was also dull in this state. Within three weeks of Wayne’s death, Marsh is no longer running low on atium due to the atium created through the splitting of Harmonium.
 Marsh has some way to walk around without being noticed by people, he claims it is through emotional Allomancy, but [[Wax\|Wax]] believes there is something else going on. This has been theorized to be due to Feruchemical duralumin.
@@ -120,6 +121,7 @@ Marsh and his nickname, "Ironeyes", survived the events of the Catacendre. He ha
   Meeting <<Marasi\|Marasi>>
 At some point he began to run low on his stores of Atium, and age began to catch up with him.
 He delivered a book to [[Wax\|Wax]] through [[Marasi\|Marasi]] that contained information about Hemalurgy, using emotional Allomancy to make her curious enough to follow him. Around this time, he had been investigating the Southern Continent of Scadrial.
+In 345 PC, Marsh approached  companions on behalf of Harmony to encourage the group to protect the . After they killed the , he asked them to hand over the Eternity Spike, though it is unknown if they did.
 In 348 PC, he, desperate to find atium to extend his life, began looking through [[Bilming\|Bilming]] to try and find stores due to the [[Set\|Set's]] attempts to recreate the metal. This desperation was not due to a desire to live, but rather penance for his role in the destruction of the world, and desire to keep living to help the world in an attempt to make up for it.
 At some point after [[Wayne\|Wayne's]] death and [[Autonomy\|Autonomy's]] retreat, he began an unknown treatment which began to improve his health. Two years after the Shard's retreat, Marsh met with Wax, Steris, and Marasi in the [[Field of Rebirth\|Field of Rebirth]], in order to deliver Wax a letter from Harmony, since Wax forbade mental communication.
 At some point, he had a meeting with [[Khriss\|Khriss]], where he explained Hemalurgy, Compounding, and Inquisitors. News of Marsh's nature started spreading to other worlds. Khriss believed it might be spreading via supernatural means, though also suggested it could be mere rumourmongering. At some point, tales of him have even reached Lumar, and become a part of their culture, with them imagining Death with nails in his eyes.

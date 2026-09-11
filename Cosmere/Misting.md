@@ -51,6 +51,7 @@
 
 
 ## Prerequisites
+  A Mistborn in action
 Allomancy is a [[Spiritweb\|spiritually]] heritable trait, one which does not follow the same principles of dominant and recessive physical genetics. Scadrians with mixed skaa-noble heritage generally must have a noble in the previous five generations in order to be born an Allomancer. The ability lays dormant until an Allomancer undergoes Snapping, which will activate their Allomantic abilities. The abilities can be used instinctively, including while unconscious, once they are awakened, as long as the user ingests the correct type of metal, though training is required to use these powers well. Snapping does not affect the chances of having an Allomancer child. Twins are more likely to have the same metal, especially if they are identical instead of fraternal.
 It is possible to gain Allomancy through the use of Hemalurgic spikes where the spiritual DNA associated with Allomancy is transferred from one soul to another. If an Allomancer attempts to burn a [[Hemalurgic\|Hemalurgic]] spike, the Allomancer's spiritual DNA will be spliced to that of the person's contained in the spike. The consequences of this are as of yet unknown.
 Additionally, consuming a bead of lerasium will hardcode Allomancy into a person's spiritweb and grant them Allomantic abilities. The size of the bead that is consumed is proportional to the strength of their Allomancy.

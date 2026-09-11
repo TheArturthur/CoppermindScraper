@@ -1,20 +1,22 @@
 |**Kliss**|
 |-|-|
+|**Family**|[[House Gardre\|House Gardre]]|
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“* A foolish gossip? Why, yes I am. It's fascinating, the kinds of things you can learn when you're known as the court gossip.*”
 \- Lady Kliss to Vin[1]
 
 
-Lady **Kliss** is a [[Noble\|noblewoman]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. She acts as a simple court gossip, using that persona to help her in her role as a political informant.
+Lady **Kliss Gardre** is a [[Noble\|noblewoman]] on [[Scadrial\|Scadrial]] during the [[Final Empire\|Final Empire]]. She acts as a simple court gossip, using that persona to help her in her role as a political informant.
 
 ## Contents
 
-1 Apperance and Personality. [[#Apperance and Personality]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 2 History. [[#History]] 
 
 2. [[#Early Life]] 
@@ -25,7 +27,7 @@ Lady **Kliss** is a [[Noble\|noblewoman]] on [[Scadrial\|Scadrial]] during the [
 3 Notes. [[#Notes]] 
 
 
-## Apperance and Personality
+## Appearance and Personality
 >“* Besides, child, didn't the boy just spurn you? What do you owe him?*”
 \- Kliss to Valette about Elend Venture [1]
 
@@ -47,7 +49,7 @@ At a later ball hosted by [[House Lekal\|House Lekal]], Kliss spoke to Vin again
 A week later, at the final ball held by [[House Venture\|House Venture]], Kliss spoke to Vin after Vin had been rebuffed by Elend. She told Vin that Elend would soon get what he deserved. Kliss asked Vin to offer her services as an informant to Lord Renoux. She also told Vin that she had caught Vin's lie about House Hasting and suspected that House Renoux had been behind the recent attack's on Hasting's barges. Kliss offered her silence in exchange for payment. Vin questioned her about what she had meant about Elend, but Kliss refused to say anything further without payment. In exchange for Vin's necklace Kliss explained that Elend was to be assassinated. Kliss refused to tell Vin any more information without payment, but Vin used emotional [[Allomancy\|Allomancy]] to question Kliss and learn that Elend was to be killed that very night. Kliss called after Vin as she left, wondering why Vin bothered to help. The crew paid later for Kliss's silence about House Renoux.
 
 ### Later Life
-Kliss's fate following the death of the [[Lord Ruler\|Lord Ruler]] and the [[Collapse\|Collapse]] of the Final Empire is unknown, although Vin later reflected on Kliss and how she had made herself appear to be someone that she was not.
+Vin later reflected on Kliss and how she had made herself appear to be someone that she was not. Kliss attended a secret ball in [[Fellise\|Fellise]], where she spoke to  crew.
 
 
 

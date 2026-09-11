@@ -168,6 +168,7 @@ When Rinakin is captured by the Unity faction working with the Superiority, Alan
 Later, Alanik and Arturo talk about why they fight the Superiority, and grow to understand and respect each other's reasons. Arturo volunteers to accompany Alanik on the mission to rescue Rinakin, which annoys Alanik at first, as she thinks he still must not trust her. During the course of the mission she realizes he just wants to help. They engage in friendly conversation, and he helps her choose a callsign.
 When Alanik is panicking over having killed another pilot, Arturo pulls her aside and pushes her to talk. He helps her think through her feelings and calm down, making sure she's alright before they continue fighting.
 After the battle on ReDawn, Alanik and Arturo spend lots of time together. Arturo takes it upon himself to make sure Alanik is well-assimilated to Skyward Flight, though this is somewhat unnecessary, as she is already an excellent pilot and quickly accustoms to flying with them. Of late, he flies with Alanik as a wingmate instead of [[Nedd\|Nedd]], like usual. When [[Jorgen\|Jorgen]] is communicating cytonically with Arturo, he sees that Arturo has feelings for Alanik, though nothing is yet happening between them. It seems likely that Alanik feels the same, although she finds the idea of asking Arturo (in particular) about human mating rituals "disorienting."
+On Blightfall, Alanik and Arturo hold hands, and discuss the ethics of interspecies dating, eventually determining that it was ethical.
 
 
 

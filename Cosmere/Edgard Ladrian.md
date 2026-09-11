@@ -13,6 +13,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“*My dear friend, the entire point of life is to find ways to get other people to do your work for you. Don't you know anything about basic economics?*”
 \-Breeze to Hammond.[1]
 
@@ -64,7 +65,8 @@ In the crew, Breeze was often used by Kelsier to interact with nobles, and he ha
 
  
 ### Elend's Crew
-During the [[Siege of Luthadel\|Siege of Luthadel]], Breeze acted as an advisor to Elend and bolstered his confidence during public appearances, routinely helping control the mood of the crowd during them. This backfired, however, when [[Ashweather Cett\|Cett]] pointed out that Elend had soothers in the crowd following his speech at the start of the election for king. During the [[Battle of Luthadel\|Battle of Luthadel]], Breeze placed his soothers in various squads to bolster the garrison, doing the same himself until he eventually broke when Clubs was killed by a koloss in the fighting, causing him to become catatonic until Ham managed to find him and bring him to safety.
+During the [[Siege of Luthadel\|Siege of Luthadel]], Breeze acted as an advisor to Elend and bolstered his confidence during public appearances, routinely helping control the mood of the crowd during them. This backfired, however, when [[Ashweather Cett\|Cett]] pointed out that Elend had Soothers in the crowd following his speech at the start of the election for king. He also attended a protest at .
+During the [[Battle of Luthadel\|Battle of Luthadel]], Breeze placed his Soothers in various squads to bolster the garrison, doing the same himself until he eventually broke when Clubs was killed by a koloss in the fighting, causing him to become catatonic until Ham managed to find him and bring him to safety.
 
 ### The Siege of Urteau
 Breeze arrived in Urteau with [[Sazed\|Sazed]] and [[Allrianne\|Allrianne]] to continue the task of taking over the city from the [[Citizen\|Citizen]]. Upon arriving Breeze noticed that Spook had done a great deal on the city, and was much more confident in himself. Breeze spent his time in Urteau going to secret taverns with the crew in order to Soothe those gathered there, but also to learn as much information as possible.
@@ -78,7 +80,7 @@ At some point after his death, [[VenDell\|VenDell]] took his hands, and still ha
 ## Relationships
 ### Clubs
 >“*Do you know what it’s like, Clubs...Being a Soother?*”
-\-Breeze to Clubs during a drinking session[26]
+\-Breeze to Clubs during a drinking session[27]
 
 
 Clubs and Breeze have a special relationship, that originally started out strained, as Clubs did not trust Breeze due to his Soothing and manipulation skills. However, their relationship grows into a solid friendship, to the point where they end up drinking together every night. Breeze appreciates the fact that any interaction with Clubs will be genuine due to the coppercloud. During the Battle of Luthadel, Clubs saves Breeze from death by pushing him out of the way of a Koloss' sword, which resulted in Clubs nearly being cut in-two.

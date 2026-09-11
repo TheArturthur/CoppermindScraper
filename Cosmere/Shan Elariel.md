@@ -2,16 +2,18 @@
 |-|-|
 ||
 |**[[House Elariel\|House Elariel]]**|
-|**Relatives**|[[Idren Seeris\|Idren Seeris]]|
+|**Relatives**|[[Idren Seeris\|Idren Seeris]], |
 |**Died**|c. 1022 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|
+|**Groups**||
 |**Residence**|[[Luthadel\|Luthadel]]|
 |**Ethnicity**|[[Noble\|Noble]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
-**Shan Elariel** is a [[Noble\|noble]] of [[House Elariel\|House Elariel]] on [[Scadrial\|Scadrial]]. She is a [[Allomancy\|Mistborn]] and the former fianceé of [[Elend Venture\|Elend Venture]].
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+**Shan Elariel** is a [[Noble\|noble]] of [[House Elariel\|House Elariel]] on [[Scadrial\|Scadrial]]. She is a [[Allomancy\|Mistborn]] and the former fianceé of [[Elend Venture\|Elend Venture]]. She is also a member of the .
 
 ## Contents
 
@@ -19,6 +21,7 @@
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 
+3. [[#Gilded Few]] 
 3. [[#Failed Engagement to Elend]] 
 3. [[#Holding Court]] 
 3. [[#Assassination Plot and Death]] 
@@ -31,7 +34,7 @@
  
 For more images, see [[Shan Elariel/Gallery\|/Gallery]].
 >“*If you think any other important nobleman will ever pay any attention to you, then you are mistaken. Elend likes to shock the court—and so, naturally, he chose to do so with the most homely and lumpish woman he could find. Take this opportunity; you shall not soon find another.*”
-\-Shan, to "Valette"[3]
+\-Shan, to "Valette"[5]
 
 
 Shan is tall and striking, with long, dark auburn hair. She has dark, expressive eyes and an attractive figure. Her appearance is generally immaculate, and she wears fine dresses and jewelry. When she fights as a Mistborn, she pulls her hair back and wears black trousers and a black shirt, along with a [[Mistcloak\|mistcloak]].
@@ -43,6 +46,9 @@ Shan is a Mistborn and is able to burn all of the metals known during the [[Fina
 
 ## History
  
+### Gilded Few
+Shan was a member of the , and was one of several nobles mentored by  to become the next [[Lord Ruler\|Lord Ruler]]. She was his favorite student and his first candidate to receive the .
+
 ### Failed Engagement to Elend
 Shan became engaged to [[Elend Venture\|Elend Venture]] around 1021 [[Final Empire\|FE]]. It was presumably a political engagement between the two houses, as no movement was made towards a marriage for a year. Although they technically never broke off the engagement, Shan became known as Elend's "former fiancée". Elend was flippant about the situation, but Shan seemed to hold some personal bitterness about the fact that he did not seem to care about marrying her.
 Despite this setback, she was a budding master of house politics, and kept an eye on Elend since he was the heir to House Venture, one of the few houses that had more power than her own. Shan's desire to keep tabs on Elend was the reason that she was willing to interact with Vin in her disguise as Valette Renoux, after she was seen talking to Elend. At one point, Shan even sent her [[Shan Elariel's steward\|Terrisman steward]] to covertly look at some books that Elend left on his table to try and learn what he had been reading about, likely because she suspected that he had rebellious leanings.

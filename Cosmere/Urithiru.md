@@ -181,6 +181,7 @@ Following the [[Contest of champions\|Contest of Champions]] and [[Taravangian\|
 Following the start of the Night of Sorrows, Renarin and Jasnah decided to work together to abolish the monarchical system in Urithiru, and replace it with a system of representational government.
 
 ## Culture
+  <<Knights Radiant\|Knights Radiant>> in Urithiru
 >“*Most scholars consider it just a myth. The ardents refuse to speak of it, due to its association with the Radiants, and therefore with the first major failure of Vorinism.*”
 \-Jasnah[3]
 

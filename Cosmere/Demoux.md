@@ -13,6 +13,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
+> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
 This article is about the character. For the city named after him, see [[Demoux (city)\|Demoux (city)]].
 **Demoux** was originally a captain in [[Kelsier\|Kelsier's]] rebellion and a general in [[Elend Venture\|Elend Venture's]] army after the [[Siege of Luthadel\|Siege of Luthadel]]. He is an [[Atium\|atium]] [[Misting\|Misting]] (aka a [[Seer\|Seer]]). He later becomes a worldhopper, travelling to [[Roshar\|Roshar]] in search of [[Hoid\|Hoid]].
 
@@ -48,6 +49,7 @@ When [[Yeden\|Yeden]] decided to attack a fortified position, two thousand troop
 
 ### The Siege of Luthadel
 Demoux is suspect to the investigation of an impostor conducted by [[Vin\|Vin]]. Believing he is a [[Kandra\|kandra]] disguised as Demoux, she followed him through the streets of [[Luthadel\|Luthadel]] when he snuck out of [[Keep Venture\|Keep Venture]]. Demoux was revealed to be a devout preacher for the [[Church of the Survivor\|Church of the Survivor]].
+Demoux was sent by Elend to mediate and seek a fair deal for the workers of .
 
 ### The New Empire
 Demoux was promoted to general under [[Elend\|Elend]] in the [[New Empire\|New Empire]] some time after [[Ruin\|Ruin's]] release from the [[Well of Ascension\|Well of Ascension]].
