@@ -24,6 +24,7 @@ The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|
 4. [[#Plans for Ascension]] 
 4. [[#Kelsier.27s Infiltration]] 
 4. [[#Failed Expedition]] 
+4. [[#Southern Scadrial]] 
 4. [[#Riino in Shadesmar]] 
 4. [[#Eyree in Lasting Integrity]] 
 4. [[#Riina as the Sorceress]] 
@@ -59,7 +60,7 @@ When [[Shallan\|Shallan]] infiltrates the [[Honorspren\|honorspren's]] vault in 
 Little is known about the origin of the Ire, except that the organization and some of its members are incredibly old. The group predates the Reod since they were not on [[Sel\|Sel]] when it occurred, but it seems likely that it was formed long before that time.
 
 ### Recruiting Riino
-[[Riino\|Riino]] was an Elantrian who had become [[Hoed\|Hoed]] after the [[Reod\|Reod]] on Sel. He was able to direct [[Raoden\|Raoden]] and [[Galladon\|Galladon]] to place him into [[Devotion's Perpendicularity\|Devotion's Perpendicularity]], and his body seemed to dissolve. He somehow survived the dangerous conditions in Sel's Cognitive Realm and became a member of the Ire.
+[[Riino\|Riino]] was an Elantrian who had become [[Hoed\|Hoed]] after the [[Reod\|Reod]] on Sel. He was able to direct [[Raoden\|Raoden]] and [[Galladon\|Galladon]] to place him into Devotion's Perpendicularity, and his body seemed to dissolve. He somehow survived the dangerous conditions in Sel's Cognitive Realm and became a member of the Ire.
 
 ### Plans for Ascension
 Alonoe and Elrao implied that the Ire worked on a strategy to take over the power of the Shard Preservation's power for quite some time. Their specific motivation for wanting to take up the power of a Shard is unclear. They actively monitored the failing health of Preservation's [[Vessel\|Vessel]], [[Leras\|Leras]], because they knew that his death would be their window to act. The Connection orb was critical to their scheme, although they did consider other uses for the orb before settling on their plan.
@@ -72,6 +73,9 @@ Kelsier then observed a meeting of the Ire and overheard their plan to seize the
 
 ### Failed Expedition
 About a week later, five members of the Ire and fifteen guards left the fortress on horseback, intending to take control of Preservation. They brought a glowing liquid that seemed to sustain their magical Elantrian aura. Although four of the Ire members carried decoy orbs, Kelsier correctly guessed that Alonoe would not allow the real orb to leave her possession. He began to sow seeds of chaos, pretending to be Ruin and whispering disturbing things into Alonoe's ears. Alonoe was determined to persevere, but Kelsier's antics prevented the group from sleeping, leading to confusion and infighting. When the expedition approached a jungle, Kelsier seized the opportunity to scare the group's horses and isolate Alonoe amidst the vegetation. Using one of Alonoe's robes that he had stolen from the fortress, he tricked the rest of the group into thinking that she had disintegrated, scaring them away. He then doubled back to confront a terrified Alonoe, who believed that he was Ruin and gave up the orb. Alonoe even offered to serve Ruin, but Kelsier dismissed her, forcing her to walk to find her companions. Kelsier went on to successfully use the orb as the Ire had intended.
+
+### Southern Scadrial
+After the [[Catacendre\|Catacendre]], the Ire began trading with the [[Southern Scadrian\|Southern Scadrians]] via [[Harmony\|Harmony]]’s [[Perpendicularity\|Perpendicularity]].
 
 ### Riino in Shadesmar
 Some time after joining the Ire, Riino was seen in [[Shadesmar\|Shadesmar]] on [[Roshar\|Roshar]] working as a lighthouse keeper. He was there for a specific purpose, although it was not related to the overall mission of the Ire. He was in possession of a magical orb that allowed him to see the future; he called himself the "[[/wiki/Aon#Rii]] Oracle." Kaladin met Riino and the orb seemed to transfix him; he touched it and experienced visions. Riino first assumed that Kaladin had [[BioChromatic Breath\|BioChromatic Breath]] since only Invested people could use the orb, but was then shocked when he realized that [[Surgebinding\|Surgebinding]] had returned on Roshar.

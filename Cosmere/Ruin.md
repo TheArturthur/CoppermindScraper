@@ -97,14 +97,14 @@ Following the deaths of the previous Vessels of Ruin and Preservation, both Shar
 For the history of Ati prior to becoming Ruin, see [[/wiki/Ati#History]].
 ### The Deal and Betrayal
 The [[Shard\|Shard]] of Ruin was created on the planet [[Yolen\|Yolen]] at the [[Shattering\|Shattering]] of [[Adonalsium\|Adonalsium]], along with fifteen others, and taken up by [[Ati\|Ati]]. He, along with [[Preservation\|Preservation's]] Vessel [[Leras\|Leras]], departed the planet, and eventually wound up in an empty star system. Originally, the two Shards were balanced there -- though they could create by working together, neither would be happy with the end result.
-Over seven-thousand years before the [[Night of Sorrows\|Night of Sorrows]], likely before Ruin was sealed away, [[Honor\|Honor]] sought after him to help him deal with the growing threat of [[Odium\|Odium]], remembering his heroic nature as a mortal. However, Ati turned down his requests.
+Over seven thousand years before the [[Night of Sorrows\|Night of Sorrows]], likely before Ruin was sealed away, [[Honor\|Honor]] sought after him to help him deal with the growing threat of [[Odium\|Odium]], remembering his heroic nature as a mortal. However, Ati turned down his requests.
 Eventually, Preservation's desire to make sapient creatures prompted him to offer a deal to Ruin. Together, they could create [[Scadrial\|Scadrial]] and fill it with living beings; by endowing them with sapience, Preservation would give up part of himself. In doing so, he left himself weaker than Ruin, which formed the basis of their agreement that Ruin would be allowed to destroy the world some day.
 However, Preservation broke the terms of the deal by sacrificing his mind to create a prison for Ruin, preventing him from destroying the planet. Furthermore, in an attempt to balance the two Shards, he sequestered away a portion of Ruin's power by condensing it into the metal [[Atium\|atium]].
 
   <<Vin\|Vin>> sinking into the <<Well of Ascension\|Well of Ascension>>, freeing Ruin
 ### Plotting Escape
 >“*'Giving the power up’ is a stand-in for giving the power to [Ruin]. The powers would interpret that as me releasing him. My power, accepting his touch back into the world, directly.*”
-\-Leras[45]
+\-Leras[46]
 
 
 #### Alendi
@@ -119,7 +119,7 @@ Eventually, the Well filled again, and Vin entered its chamber. [[Kelsier\|Kelsi
 ### Destruction upon Scadrial
   Ruin in the <<Cognitive Realm\|Cognitive Realm>>
 >“*I have come to claim what was promised me. The only point in creating something is to watch it die.*”
-\-Ruin[31]
+\-Ruin[32]
 
 
 Once free, Ruin immediately set out on his plan to destroy [[Scadrial\|Scadrial]]; however, his power locked in [[Atium\|atium]] still diminished him enough to equal him with Preservation, and so he could not simply make it vanish in an instant. He tried to amend it by sending people out to find the missing atium stash. At the same time, he began killing all Scadrians. [[Ashmounts\|Ashmounts]] would erupt much more frequently, causing the omnipresent ash to fall more heavily and lava flows to endanger several towns. Earthquakes also became much more common, and started appearing in more places; while they used to be practically unheard of in the [[Dominance\|Inner Dominances]], they began to appear there frequently.
@@ -129,7 +129,7 @@ Prompted by [[Ati\|Ati's]] inherent need to gloat, Ruin began appearing to both 
 ### Achieving Harmony
 For the history of Sazed prior to becoming Ruin, see [[/wiki/Sazed#History]].
 >“*You think this was your plan? It was [Preservation]'s. His all along. You created the thing that can kill you, Ruin.*”
-\-Vin[38]
+\-Vin[39]
 
 
 Seeking to fight Ruin, Kelsier, now the temporary vessel of [[Preservation\|Preservation]], sought a way to pass the power onto Vin, whom Leras pointed out as its intended recipient. After freeing Spook from Ruin's influence, he told him to send a message to her written in metal, telling her about what was going on. Ruin, knowing what Kelsier was planning, sent [[Marsh\|Marsh]], one of his Inquisitors, to kill the messanger and read the text out-loud, thus letting Ruin know what had been written. However, that was part of Kelsier's plan -- as Marsh found out what was going on, he managed, in a moment of lucidity, to tear the earring out of Vin's ear, letting Kelsier bestow Preservation upon her.
@@ -141,7 +141,7 @@ For the subsequent events, see [[/wiki/Harmony#History]].
 ## Influence
   <<Preservation\|Preservation>>, <<Harmony\|Harmony>> and Ruin
 >“*You make our religion all about you. They hardly remember the truth any longer.*”
-\-Leras to Ruin[62]
+\-Leras to Ruin[63]
 
 
 Ruin's influence is omnipresent on [[Scadrial\|Scadrial]]; he was one of the planet's creators, and all things and living beings upon it are partially of him.. Later, he manipulated its people and texts to arrange for his own freedom. He's also responsible by proxy for the planet's miserable state during [[Rashek\|Rashek's]] reign, as the Lord Ruler's changes were partially prompted by his desire to oppose Ruin. Later, it was Ruin's destruction of the planet that caused [[Sazed\|Sazed]] to pick up the two powers and return Scadrial to its prior state.

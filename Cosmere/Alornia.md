@@ -21,7 +21,7 @@ Alornia is a High Fantasy State. As such the technology level is around medieval
 Alornia's sky contains the [[Grand Aurora\|Grand Aurora]], a blue-violet light that pierces storms and gives Alornia's ground a faint blue hue.
 
 ## History
-Before Kai unified the State, Alornia featured forty different kingdoms all crammed into a single continent. As a result war was a constant, and the bloodshed only stopped when Kai united the kingdoms 50 years ago. It is possible there was more than one continent involved, too.
+Before Kai unified the State, Alornia featured forty different kingdoms all crammed into a single continent. As a result, war was a constant, and the bloodshed only stopped when Kai united the kingdoms 50 years ago. It is possible there was more than one continent involved, too.
 
 ## Magic
 The main magic system within Alornia is called [[Lancing\|Lancing]], and is only usable by Kai. It allows him to manipulate energy and create force fields, among other things. Other magic also exists in Alornia, however, as Kai has found magical treasure in his adventuring days, including his enchanted sword [[Indelebrean\|Indelebrean]]. There is also a set of items known as [[Aurorastone\|Aurorastones]], which allow various effects and can power foreign technology, and [[Boosts\|Boosts]], which grant the individual enhanced abilities. 

@@ -153,7 +153,7 @@ Odium intervened with human development on the planet of Alaswha in the Rosharan
 Next, over seven-thousand Rosharan years before the True Desolation, Odium set out for [[Rosharan system\|Rosharan system]], seeking to kill either [[Honor\|Honor]], [[Cultivation\|Cultivation]], or both. According to the [[Eila Stele\|Eila Stele]], he was brought by the humans from another world, and the singers considered him a human god. Odium’s influence amplified the singers’ distrust of the offworlders, while fueling the humans’ appetite for expansion. When singers pushed back against these incursions, Odium twisted their justified anger into desperate vengeance. Eventually, for unknown reasons, a swap occurred, whereupon singers came to worship Odium while humans began serving Honor and Cultivation. Both sides created their own immortal armies - Odium, the [[Fused\|Fused]], and Honor, the [[Herald\|Heralds]].
 
 >“*I am … I was … God. The one you call the Almighty, the creator of mankind. And now I am dead. Odium has killed me. I am sorry.*”
-\-Honor[80]
+\-Honor[81]
 
 Honor fought Odium with assistance from Cultivation, and the two bound him to the Rosharan system, whilst also prevented him from acting directly against most individuals on Roshar. As a result of this binding, Roshar adopted Rayse. Honor additionally crafted the [[Oathpact\|Oathpact]], which would use the Heralds to imprison Odium's forces on Braize along with their master. Odium was barred from striking directly against Honor as part of their shared oath. For thousands of years, this agreement between the two gods kept a balance on Roshar, until the [[False Desolation\|False Desolation]] ended with Tanavast losing Honors power by betraying its Intent during the imprisonment of [[Ba-Ado-Mishram\|Ba-Ado-Mishram]]. This had the effect of Honor's supposed 'death', which became well known among Rosharans.
 
@@ -173,7 +173,7 @@ Dalinar and Odium spoke once more in a different vision, after Dalinar attempted
 #### Battle of Thaylen Field
 For more information, see [[Battle of Thaylen Field\|Battle of Thaylen Field]].
 >“*No. No, we killed you. WE KILLED YOU !*”
-\-Odium upon seeing Honor's Perpendicularity[93]
+\-Odium upon seeing Honor's Perpendicularity[94]
 
 
 Odium decided to lead his forces on [[Thaylen City\|Thaylen City]] personally, although he didn't intend to use the plain [[Singer\|singers]] in battle. He first sent a pair of [[Thunderclast\|thunderclasts]], one to destroy the city walls, and the other to get to the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]], along with [[Fused\|Fused]] to ensure that the [[King's Drop\|King's Drop]] wouldn't fall into the wrong hands. Then, Odium used [[Nergaoul\|Nergaoul]] and the Alethi dependence on the [[Thrill\|Thrill]] to possess the [[Sadeas princedom\|Sadeas princedom]] forces in the city and make them turn against their own allies.

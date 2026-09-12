@@ -118,6 +118,7 @@ For a complete list of Koloss, see Category:Koloss.
 
 ## Trivia
 The very first time Koloss appeared in anything [[Brandon Sanderson\|Brandon Sanderson]] made was during a high school DnD campaign, though this interpetation had them be much more demonic in nature than later iterations.
+According to the **, four hemalurgic iron spikes immediately causes a koloss transformation seemingly regardless of bindpoints or specific intent.
 
 
 https://coppermind.net/wiki/Koloss

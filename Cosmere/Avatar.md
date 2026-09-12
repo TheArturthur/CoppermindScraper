@@ -11,7 +11,7 @@ This page contains information for the Shards of Adonalsium. For information reg
 \-Khriss[1]
 
 
-The **Shards of [[Adonalsium\|Adonalsium]]**, or **Shards** for short, are sixteen pieces of the power of creation, formed during the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. They are each named after a specific characteristic or ideal that represents the Shard's primary purpose or motivation. A person who has taken up the power of a Shard is the **Vessel** of that Shard.
+The **Shards of [[Adonalsium\|Adonalsium]]**, or **Shards** for short, are sixteen pieces of the power of creation, formed during the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. They are each named after a specific characteristic or ideal that represents the Shard's primary purpose or motivation. A person who has taken up the power of a Shard is the **Vessel** or controller  of that Shard.
 The Shards are the most powerful known entities in the [[Cosmere\|cosmere]], and for all intents and purposes, serve as the gods of the cosmere. Most if not all Invested Arts are related to them.
 
 ## Contents

@@ -108,19 +108,19 @@ Through this process, Autonomy has created several personas, both male and femal
 **[[Telsin Ladrian\|Telsin Ladrian]]**, the leader of the [[Set\|Set]]. Telsin was Invested by Autonomy in order to facilitate either control or destruction of [[Scadrian\|Scadrian]] society. In this function, both Telsin and Autonomy herself are occassionally referred to as [[Trell (Trellism)\|Trell]].
 ### Trellium
 For more information, see [[Trellium\|Trellium]].
-[[Trellium\|Trellium]], more rarely called **bavadinium**, is the [[God Metal\|God Metal]] of Autonomy. While its [[Allomancy\|Allomantic]] and [[Feruchemy\|Feruchemical]] properties are unknown, when used as a [[Hemalurgic\|Hemalurgic]] spike, trellium can grant other Allomantic or Feruchemical abilities, and hide the bearer of the spike from [[Harmony\|Harmony's]] vision and control. Additionally, trellium repells other forms of [[Investiture\|Investiture]], particularly [[Harmonium\|harmonium]]. 
+[[Trellium\|Trellium]], more rarely called **bavadinium**, is the [[God Metal\|God Metal]] of Autonomy. While its [[Allomancy\|Allomantic]] and [[Feruchemy\|Feruchemical]] properties are unknown, when used as a [[Hemalurgic\|Hemalurgic]] spike, trellium can grant other Allomantic or Feruchemical abilities, and hide the bearer of the spike from [[Harmony\|Harmony's]] vision and control. Additionally, trellium repels other forms of [[Investiture\|Investiture]], particularly [[Harmonium\|harmonium]]. Autonomy is able speak into the minds of people pierced by a Hemalurgic spike, but can't hear them.
 When trellium is brought into contact with superheated harmonium, it causes a massive, exceptionally destructive explosion, capable of levelling entire cities. Moreover, in the aftermath of the blast, small quantities of [[Lerasium\|lerasium]] and [[Atium\|atium]] can be found.
 
 ### Faceless Immortals
 >“*They didn't understand, couldn’t understand. The Set had Faceless Immortals of its own.*”
-\-Edwarn Ladrian[41]
+\-Edwarn Ladrian[42]
 
 
 Autonomy appears to have the ability to take control of living bodies, even as far as on [[Scadrial\|Scadrial]]. It is unclear what her limitations are, or if there is any requirement the person must fulfill before Autonomy can use them; it is likely that it requires [[Connection\|Connection]] to Autonomy, and possibly the presence of trellium. When people are under Autonomy's control, she can make them move to their wish and speak what she wants; they can be recognized as hers by red glow in their eyes. The [[Set\|Set]] calls them their "Faceless Immortals"; they do not appear aware of the Immortals' true nature. It's unclear if Autonomy can return the body under the control of its original owner, or if the person is still aware of themselves while Autonomy is in control.
 
 ### Perpendicularity Control
 >“*There are planets where Autonomy has created such portals unexpectedly, and against all understood mechanics.*”
-\-Moonlight[42]
+\-Moonlight[43]
 
 
 Autonomy seems to have mastered control over [[Perpendicularity\|perpendicularities]]. She has barred access to [[Taldain\|Taldain]] through the [[Cognitive Realm\|Cognitive Realm]], locking any native worldhoppers out of their own homeland. On other worlds, she has shown the ability to create artificial, temporary perpendicularities; the methods by which she does so are unknown to cosmere scholars and appear to break the known laws of [[Realmatic Theory\|Realmatic Theory]].
@@ -146,7 +146,7 @@ Millennia later, [[Hoid\|Hoid]] sent a message to Autonomy asking for aid with O
  
 #### The Set
 >“*One day, the men of gold and red, bearers of the final metal, will come to you. And you will be ruled by them. Worship. Worship Trell and wait…*”
-\-Miles Hundredlives[52]
+\-Miles Hundredlives[53]
 
 
 At some point following the [[Catacendre\|Catacendre]], Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals. Autonomy's initial plan for dealing with this was the creation of [[Set\|Set]], a secret society that resurrected the long-dead religion of [[Trelagism\|Trelagism]] as [[Trellism\|Trellism]]. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals".
@@ -184,7 +184,7 @@ Presently, Autonomy has effectively isolated Taldain from the rest of the cosmer
 
 ### Interplanetary Conflicts
 >“*Autonomy has access to … some very specialized troops. Hard to control. Dangerous to unleash.*”
-\-TwinSoul[42]
+\-TwinSoul[43]
 
 
 Autonomy herself interferes directly in a number of cosmere's worlds. She might have aided Odium in killing and splintering [[Devotion\|Devotion]] and [[Dominion\|Dominion]] among other [[Shards\|Shards]]. She has been taking over multiple worlds through her avatars, with [[First of the Sun\|First of the Sun]], [[Obrodai\|Obrodai]] and [[Scadrial\|Scadrial]] being known to host her avatars at one point or another. On Scadrial in particular, through her persona of Trell, Autonomy can outright blind [[Harmony\|Harmony]] and attempt to bring destruction to the planet as part of her plan to prevent the rise of Scadrial as an interstellar power. She appears to be influencing Roshar to an unknown degree.

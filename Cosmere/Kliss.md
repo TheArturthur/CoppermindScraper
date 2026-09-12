@@ -34,6 +34,7 @@ Lady **Kliss Gardre** is a [[Noble\|noblewoman]] on [[Scadrial\|Scadrial]] durin
 
 Kliss is a short young woman, with blonde hair and an apparent lack of fashion sense, She typically dressed in squat, gaudy gowns. She often wore her hair up in a massive wobbling bun and walks with a sort of waddle.
 Kliss is actually an intelligent and crafty woman, who has carefully cultivated a vapid and obnoxious persona. As a member of the [[Luthadel\|Luthadel]] court, she was believed to be nothing but a courtly gossip. She used that as a cover and source of information for her actual work as an informant-for-hire. When in character, she appears to be over-eager and enthusiastic, with twinkling eyes and a ready smile. Her unfashionable outfits are also a part of her disguise. When she drops the persona, Kliss's attitude changes, her voice takes on an odd tone and she appears more in control of herself. Kliss often makes use of the fact that people come to her to spread lies to discern more about others' motivations. She can also be dismissive, treating those that she is manipulating or extorting like children. Kliss is heavily motivated by money, willing to sell information or keep silent for a price, but her rates are quite expensive and she does not seem to give away much information for free. Kliss is also severe and cold, willing to offer her allegiance to whoever can offer her the most. She is a woman who is out for herself and is not willing to help others if it does not benefit herself.
+Vin later reflected on Kliss and how she had made herself appear to be someone that she was not.
 
 ## History
 ### Early Life
@@ -49,7 +50,7 @@ At a later ball hosted by [[House Lekal\|House Lekal]], Kliss spoke to Vin again
 A week later, at the final ball held by [[House Venture\|House Venture]], Kliss spoke to Vin after Vin had been rebuffed by Elend. She told Vin that Elend would soon get what he deserved. Kliss asked Vin to offer her services as an informant to Lord Renoux. She also told Vin that she had caught Vin's lie about House Hasting and suspected that House Renoux had been behind the recent attack's on Hasting's barges. Kliss offered her silence in exchange for payment. Vin questioned her about what she had meant about Elend, but Kliss refused to say anything further without payment. In exchange for Vin's necklace Kliss explained that Elend was to be assassinated. Kliss refused to tell Vin any more information without payment, but Vin used emotional [[Allomancy\|Allomancy]] to question Kliss and learn that Elend was to be killed that very night. Kliss called after Vin as she left, wondering why Vin bothered to help. The crew paid later for Kliss's silence about House Renoux.
 
 ### Later Life
-Vin later reflected on Kliss and how she had made herself appear to be someone that she was not. Kliss attended a secret ball in [[Fellise\|Fellise]], where she spoke to  crew.
+Kliss attended a secret ball in [[Fellise\|Fellise]], where she spoke to  crew.
 
 
 

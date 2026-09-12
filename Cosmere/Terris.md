@@ -65,7 +65,7 @@ The Terris people tried to retain their culture despite their oppression, and to
 After the fall of the [[Lord Ruler\|Lord Ruler]], the [[Synod\|Synod]] revealed themselves and started leading their people back into the ways before the Final Empire. The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers. Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.
 
 ### Genocide
-After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|Steel Inquisitors]] and the [[Koloss\|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists. The remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.
+After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|Steel Inquisitors]] and the [[Koloss\|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists. Nearly a quarter of all Terris were killed, and the remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.
 
 ### Post-Catacendre
 Around one-fifth of the [[Originators\|Originators]], those who survived the war against Ruin and the Catacendre, were Terris. Many of the Originators taught their children the Terris language, and over time the language was revived from its dead state.
@@ -114,7 +114,7 @@ The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to pr
 
 #### Post-Catacendre Religion
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
-\- Tellingdwar giving the evening recitation[29]
+\- Tellingdwar giving the evening recitation[33]
 
 Post-Catacendre religious practices changed from the pre-Final Empire practices, though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
