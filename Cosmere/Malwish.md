@@ -16,7 +16,7 @@ The **Southern Scadrians**, also called the **Southlanders**, are a collection o
 1 History. [[#History]] 
 
 1. [[#Before the Ascension]] 
-1. [[#Relocation to the South Pole .28pre Final Empire.2C circa 1025 anteverdant.29]] 
+1. [[#Relocation to the South Pole .28pre Final Empire.2C circa 1025 pre-Catacendre.29]] 
 1. [[#The Age of Ash]] 
 1. [[#The Ice Death .28Catacendre.29]] 
 1. [[#The Sovereign .2812 years Post-Catacendre.29]] 
@@ -49,7 +49,7 @@ The **Southern Scadrians**, also called the **Southlanders**, are a collection o
 The ancestors of the South Scadrians were humans created by Ruin and Preservation on Scadrial after the creation of the planet following the [[Shattering\|Shattering]].
 Before the Ascension of the Lord Ruler, the South Scadrians lived somewhere away from the poles on Scadrial. Their language, culture, and states at this time are unknown, and is likely lost.  
 
-### Relocation to the South Pole (pre [[Final Empire\|Final Empire]], circa 1025 [[Anteverdant\|anteverdant]])
+### Relocation to the South Pole (pre [[Final Empire\|Final Empire]], circa 1025 pre-[[Catacendre\|Catacendre]])
 During his Ascension, the Lord Ruler moved Scadrial out of its original orbit, putting it closer to the sun in order to burn off the [[Deepness\|Deepness]]. The planet's surface became too hot, forcing the Lord Ruler to move inhabited lands to the north and south poles. In the north, a combination of the planet's magnetic field and ferromagnetic ash from the [[Ashmounts\|Ashmounts]] shielded the land from the heat of the sun. The Final Empire was at the northern magnetic pole of the planet, which moved from its physical location with the relocation of the Well of Ascension to a middle latitude. The genetic alterations made to the skaa allowed them to adapt to the constant ashfalls. 
 However, the Lord Ruler also placed an unaltered group of people at the physical south pole. These people were placed there by the Lord Ruler as a reserve in case his genetic modifications of humanity failed. The Lord Ruler managed to find a way other than genetic modifications or Ashmounts to help them survive in the world he created.
 The southern peoples had the seeds of the [[Metallic Arts\|Metallic Arts]], though since none of them had ingested [[Lerasium\|lerasium]], [[Allomancer\|Allomancers]] were extremely rare and [[/wiki/Allomancy#Mistborn]] completely unheard of.  Because of this, instead of using the Metallic Arts in a way based on genetics like the people of the Final Empire, the southern peoples use them in a more "mechanical way."

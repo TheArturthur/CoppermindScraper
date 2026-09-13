@@ -53,7 +53,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**Stormlight Campaign Setting**|
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
-|**2025**|**|1172|40||
+|**2025**|*[[Bridge Nine (adventure)\|Bridge Nine]]*|1172|40||
 |**|1173|45|This story plays out only a few days before the beginning of Stonewalkers.|
 |**|1173-1174|168||
 |**|1174|4|Released in *Chasmfiend* Vol 2.|
