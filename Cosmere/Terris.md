@@ -41,9 +41,15 @@
 4. [[#Terris Fundamentalists]] 
 
 
-5 Settlements. [[#Settlements]] 
-6 Notable People. [[#Notable People]] 
-7 Notes. [[#Notes]] 
+5 Steward and breeding programs. [[#Steward and breeding programs]] 
+
+5. [[#Steward program]] 
+5. [[#Breeding program]] 
+
+
+6 Settlements. [[#Settlements]] 
+7 Notable People. [[#Notable People]] 
+8 Notes. [[#Notes]] 
 
 
 ## Etymology
@@ -58,19 +64,19 @@ They gained Feruchemy at least two hundred years before the Ascension of the Lor
 When [[Alendi\|Alendi]] came to Terris to stop the [[Deepness\|Deepness]] from consuming the world, they took him up into the mountainous regions to seek the [[Well of Ascension\|Well of Ascension]]. When they arrived, [[Rashek\|Rashek]] betrayed and killed Alendi and took the power of the Well for himself. After realizing that his Ascension had ruined the world, he set himself up as the protector of humanity, beginning the time of the [[Final Empire\|Final Empire]].
 
 ### Final Empire
-In the Final Empire, the remaining Terris population became subject to intense oppression by the state. They were selectively bred to reduce the Feruchemical abilities. Many being emasculated for the purposes of preventing them from having children. A portion of the eunuch population was trained and employed as stewards. Stewards held an unusual place in the final empire, and were given the title 'Vaht'.
-The Terris people tried to retain their culture despite their oppression, and to preserve the memory of the cultures and religions that were destroyed by Rashek in his conquests and assimilation efforts.
+In the Final Empire, the remaining Terris population became subject to intense oppression by the state. It is unclear how they fared during the Empire’s early history, but during the sixth century [[Final Empire\|FE]] the [[Steel Ministry\|Steel Ministry]] proposed the steward program as a means of population control. After that, the Canton of Inquisition ruled the Terris Dominance, overseeing the genealogies, the breeding program, and the steward program. The Terris were selectively bred to reduce the Feruchemical abilities. Many being emasculated for the purposes of preventing them from having children. A portion of the eunuch population was trained and employed as stewards. Stewards held an unusual place in the final empire, and were given the title 'Vaht'.
+The Keepers, an organisation of Feruchemists who worked to preserve knowledge, were founded during the third century [[Final Empire\|FE]]. The Keepers and their ruling council, the Synod, clandestinely ruled the Terris people, directing them to be patient and resilient. Some Terris were frustrated that their hidden leaders focused on maintaining their conquered state.
 
 ### After the Collapse
-After the fall of the [[Lord Ruler\|Lord Ruler]], the [[Synod\|Synod]] revealed themselves and started leading their people back into the ways before the Final Empire. The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers. Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.
+After the fall of the [[Lord Ruler\|Lord Ruler]], the Canton of Inquisition attempted to set itself up as the government. However, the Synod emerged from hiding and took their place as the leaders of the Terris people. Unprepared for this stolid resistance from the Terris people, the fledgling Ministry government collapsed, and many obligators left the dominance looking for the Inquisitors, who had left after the Collapse. Over the following year, the Synod governed, the Keepers taught openly, and the breeding and steward programs were abolished. The Terris people swore they would never take another master or be citizens of another empire, allowing themselves to engage in self-rule. This was largely motivated by the memories of oppression under the Final Empire, and the breeding programs their people were put through, making them untrustworthy towards external powers. Due to this, many Terris people rejected the New Empire, not trusting it to allow them autonomy and freedom from oppression.
 
 ### Genocide
-After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|Steel Inquisitors]] and the [[Koloss\|Koloss]]. He sent some Inquisitors to the newly free Terris and slaughtered the Feruchemists. Nearly a quarter of all Terris were killed, and the remaining people fled the mountains and headed towards the central dominance, away from the deadly mists. They settled at the Pits of Hathsin.
+After [[Ruin\|Ruin]] was released, he took control of the [[Steel Inquisitors\|Steel Inquisitors]] and the [[Koloss\|Koloss]]. He sent some Inquisitors, along with an army of koloss to the newly free Terris and slaughtered the Feruchemists. Nearly a quarter of all Terris were killed, and the remaining people fled the mountains and headed towards the central dominance, away from the deadly mists and looking for [[Tindwyl\|Tindwyl]], the last known member of the Synod. They settled at the Pits of Hathsin.
 
 ### Post-Catacendre
 Around one-fifth of the [[Originators\|Originators]], those who survived the war against Ruin and the Catacendre, were Terris. Many of the Originators taught their children the Terris language, and over time the language was revived from its dead state.
 With the Lord Ruler's Terris breeding program and laws against intermarriage ended, the Terris were no longer an entirely isolated population in post-[[Catacendre\|Catacendre]] Scadrial. Feruchemical and Allomantic genes combined to allow for [[Twinborn\|Twinborn]] who have both [[Allomancy\|Allomancy]] and Feruchemy. 
-However, many Terris still maintained an endogamous culture of their own distinct from the majority of the society of the Basin. Most major cities in the Basin have their own Terris enclaves, such as [[The Village\|The Village]] in Elendel. A Terris Synod existed in the Village; this Synod had no official control over other Terris enclaves, and would claim to have more authority than it actually possessed. Due to their endogamy, mixed race people remained rare, despite the legalization of such relationships.
+While many Terris fully integrated into Basin culture and society, some Terris still maintained an endogamous culture of their own distinct from the majority of the society of the Basin. Most major cities in the Basin have their own Terris enclaves, such as [[The Village\|The Village]] in Elendel. A Terris Synod existed in the Village; this Synod had no official control over other Terris enclaves, and would claim to have more authority than it actually possessed. Due to their endogamy, mixed race people remained rare, despite the legalization of such relationships.
 They came to be desirable on staff, and especially amongst political cabinets. This is due to the fact that many people believe that it looks good for them to have diversity in their staff, using them for public image alone. Some Terris people have pointed out how this is merely using them as a medal.
 
 ## People
@@ -81,9 +87,9 @@ They are also, notably, a rather tall people. Terris people often have a willowy
 
 
 ## Culture
-Many Terris people wish to stay isolated in order to maintain their cultural and genetic heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people. After the Catecendre, many Terris people do not adopt surnames, instead using Terrisborn when a surname is needed. 
-They are known to be a rather reserved people, with a strong emphasis on order and stability. They value respectful dignity, meekness, ubmission, and being candid. Following from this, their speech patterns try to avoid offence, and often indicate uncertainty. Various Terris people see their culture as inherent to the Terris people, and see those who adopt the Imperial culture to be denying who they are.
-Some believe that Old Terris still remains in the world, left by Harmony as a promised land for them to discover.
+Many Terris people wish to stay isolated in order to maintain their cultural and genetic heritage. In fact, many choose to marry among their own people instead of marrying those of other ethnicities. Some Terris people are exclusionary towards mixed-race people. After the Catecendre, many Terris people do not adopt surnames, instead using Terrisborn when a surname is needed.  The Terris originally lived in eight-sided huts.
+They are known to be a rather reserved people, with a strong emphasis on order and stability. They value respectful dignity, meekness, ubmission, and being candid. The Terris celebrate the inherent value of people, places, and cultures. Most Terris value perfectionism either as an ideal, a survival mechanism, or both. For some, meditation serves as a way to center themselves. Following from this, their speech patterns try to avoid offence, and often indicate uncertainty. Various Terris people see their culture as inherent to the Terris people, and see those who adopt the Imperial culture to be denying who they are. Communal homes often include siblings, twins and triplets tended to be very close, as well as different generations and multiple romantic or platonic partners. Diversity in gender expression, sexuality, and relationship structures is common among the Terris. During the Final Empire, this manifested particularly strong in the non-steward populations, and while the inner villages expressed this openly, the male-only outer villages upheld an appearance of program conformity for the obligators.
+Some believe that Old Terris still remains in the world, left by Harmony as a promised land for them to discover. Terris culture greatly values medical knowledge, and their healers and midwives are as highly respected as Terris elders.
 
 ### Clothing
 The [[Tinningdar\|tinningdar]] is a common robe worn by the Terris people distinguished by a colorful overlapping V pattern down the front. This pattern is often embroidered. The tinningdar is often worn alongside a belt, and has long sleeves. New versions of the Tinningdar, created around the year 342 [[Catacendre\|PC]], are more daring. During the Final Empire, these were often known as "steward's robes." During this era, the colors of the robe represent the colors of the House the steward serves. The Tinningdar is only worn by adults and old youths, younger children tend to wear simple white smocks.
@@ -107,14 +113,14 @@ The Terris *a* is somewhere between harsh and soft.
 Due to their familiarity with iron, they have seven different words to describe it.
 
 ### Religion
-Much of what was known about Terris religion was lost upon the Ascension of the Lord Ruler as he attempted to assimilate everyone to the imperial faith. However, the Terris people continued to try and remember their old practices, and over time managed to uncover more of their ancestral faith.
+Much of what was known about Terris religion was lost upon the Ascension of the Lord Ruler as he attempted to assimilate everyone to the imperial faith. However, the Terris people continued to try and remember their old practices, and over time managed to uncover more of their ancestral faith. Despite losing their religion, they unknowingly maintained its precepts in Terris culture, temperance, faith, and understanding.
 They believed in a set of texts known as the Terris Prophecies, passed down from their god, Preservation, in order to stop Ruin and protect the world. The central idea behind the prophecies is that, eventually, a savior known as the Hero of Ages would arrive and use the power sealed in the [[Well of Ascension\|Well of Ascension]] to save the world. This legend was also present to some degree in Khlennium, where the called this prophesized saviour the Rabzeen.
 [[Realmatic theory\|Realmatic theory]] was part of the ancient Terris religion.
 The Terris term for [[Preservation\|Preservation]] was "Terr" as it meant "to preserve" in their language.
 
 #### Post-Catacendre Religion
 >“*...Metal is your life. Metal is your soul. You preserve us, and so we will be yours.*”
-\- Tellingdwar giving the evening recitation[33]
+\- Tellingdwar giving the evening recitation[35]
 
 Post-Catacendre religious practices changed from the pre-Final Empire practices, though they continue to worship Preservation, who they believe preserves them and their people. They do evening recitations of worship for Preservation.
 [[Fortune\|Fortune]], [[Investiture\|Investiture]], [[Identity\|Identity]], and [[Connection\|Connection]] are major catechisms of both Feruchemy and Terris belief. Though they do not teach what all of these do, holding them to be beyond human understanding, much like God.
@@ -128,8 +134,18 @@ Little is known about Terris food, but it is likely similar to Mediterranean foo
 ### Terris Fundamentalists
 There is a group referred to as Terris Fundamentalists who live in the mountains of post-Catacendre Scadrial. They appear to return even closer to their cultural and ancestral roots than the other Terris enclaves around the Basin.
 
+## Steward and breeding programs
+From the sixth century FE onward, the Terris were forced into two programs designed to manage the Terris people.
+
+### Steward program
+The Steward program was a program designed to, as its name suggests, create docile Terris stewards for the nobility. Most male Terris were castrated soon after birth, and the survivors were raised as stewards. The children in this program were cloistered from other parts of Terris culture until their early teens; during that time, they underwent rigorous schooling in the etiquette and society of the Final Empire. This demanding training required the import of goods to simulate courtly functions, such as food, fine clothing, instruments, instruction manuals, and expensive wines and teas.
+
+### Breeding program
+The Lord Ruler’s breeding program aimed both to eliminate Feruchemy and to create a servile population. No births were permitted outside the breeding program, and obligators monitored the population closely. Children born in the program were sequestered in Ministry buildings and raised under strict surveillance and exacting, segregated curricula. When young Terris reached their early teens, non-steward male teens were exiled to the outer villages while most female teens joined Terris communities in Tathingdwen and the inner villages. The teen stewards also joined the inner villages, continuing their practice and training until they were purchased by a noble house.
+A small minority of young Terris who displayed exceptional docility, elegance, and temperance were selected to be Terris parents. When selecting breeding program “fathers,” the obligators toured the outer villages for candidates with the desired traits. Meanwhile, those assigned to be “Terris mothers” were moved to another Ministry facility and given fertility drugs. The obligators forced them to bear children, often with pregnancies engineered to produce twins or triplets. A Terris mother could bear dozens of children in a lifetime, raising them in Ministry buildings under strict supervision. Keepers infiltrated the Ministry’s steward program and breeding program, seeking budding Feruchemists and teaching them to hide their abilities. The Keepers also worked to undermine the Ministry genealogies and place Feruchemists in the breeding program. Midwives in the breeding program worked to develop and refine medical practices, enabling them to ease suffering and care for Terris mothers.
+
 ## Settlements
-The capital of the Terris Dominance is [[Tathingdwen\|Tathingdwen]], and there are also a lot of small villages across the Dominance, such as [[Myrshek Village\|Myrshek Village]].
+The capital of the Terris Dominance is [[Tathingdwen\|Tathingdwen]], and there are also a lot of small villages across the Dominance, such as [[Myrshek Village\|Myrshek Village]]. Most of their villages are populated by Terris women who weren’t chosen for the breeding program and stewards who weren’t sold to a noble house. The most remote villages are populated exclusively by Terris men.
 By 341 PC, the Terris live throughout the Elendel Basin, and within cities such as Elendel. These settlements, even the enclaves, have a degree of autonomy granted to them by the government, allowing the Terris to police themselves without the interference of the local constabulary. The Terris settlement in Elendel is known as [[The Village\|the Village]].
 
 ## Notable People

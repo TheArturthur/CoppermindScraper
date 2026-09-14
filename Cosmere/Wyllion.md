@@ -4,7 +4,7 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Wyllion** is a city in the northwestern portion of the [[Elendel Basin\|Elendel Basin]]. It is north of the [[Sea of Yomend\|Sea of Yomend]] and southeast of [[Mycondwel\|Mycondwel]].
+**Wyllion** is a city in the northwestern portion of the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]]. It is north of the [[Sea of Yomend\|Sea of Yomend]] and southeast of [[Mycondwel\|Mycondwel]].
 
 
 
