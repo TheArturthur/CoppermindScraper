@@ -6,7 +6,7 @@
 |**Relatives**|[[Edwarn Ladrian\|Edwarn Ladrian]], [[Hinston\|Hinston]], [[Maxillium\|Maxillium]], [[Tindwyl Ladrian\|Tindwyl]]|
 |**Ancestors**|[[Ashweather\|Ashweather]], [[Allrianne's mother\|Allrianne's mother]], [[Edgard Ladrian\|Edgard]], [[Allrianne\|Allrianne]], [[Vwafendal\|Vwafendal]]|
 |**Died**|348 [[Catacendre\|PC]]|
-|**Abilities**|[[/wiki/Tin#Feruchemical Use]], [[Hemalurgy\|Hemalurgist]], Avatar of [[Autonomy\|Autonomy]]|
+|**Abilities**|[[Hemalurgy\|Hemalurgist]], Avatar of [[Autonomy\|Autonomy]]|
 |**Titles**|Sequence, Key|
 |**Aliases**|[[Trell (Trellism)\|Trell]]|
 |**Groups**|[[Set\|Set]]|
@@ -44,8 +44,7 @@
 Telsin is middle-aged and has dark hair in curls and a rugged body. While living in the [[Village\|Village]] as a teen, she showed disdain for following rules. Waxillium describes her as duplicitous and manipulative, being good at hiding her true intentions and always being able to get what she wants. She loved to draw, so her uncle kept an easel with a large pad of paper in [[Ladrian mansion\|Ladrian mansion]] for her use.
 
 ## Attributes and Abilities
-Telsin is a [[Tin\|windwhisperer]] and can store her senses in a metalmind, which she claims makes her immune to torture.
-Telsin is also a [[Hemalurgy\|Hemalurgist]], and originally had three spikes, granting her the power of a [[Steel\|Coinshot]], [[Gold\|Bloodmaker]], and [[Chromium\|Leecher]] respectively, due to the fact that having four or more Hemalurgic spikes would make her susceptible to Harmony's complete control. After the Set learned how to bypass this restriction, she gained another spike, granting her the power of a [[Iron\|Lurcher]].
+Telsin is a [[Hemalurgy\|Hemalurgist]], and originally had three spikes, granting her the power of a [[Steel\|Coinshot]], [[Gold\|Bloodmaker]], and [[Chromium\|Leecher]] respectively, due to the fact that having four or more Hemalurgic spikes would make her susceptible to Harmony's complete control. After the Set learned how to bypass this restriction, she would exchange spikes as required, granting her the power of a [[Iron\|Lurcher]] and [[Tin\|Windwhisperer]].
 As an avatar of Autonomy, she’s able to communicate with her followers and “visualize plans in greater complexity than an ordinary human."
 
 ## History
@@ -54,7 +53,7 @@ Like her brother Wax, she lived in the Village for a time as a youth and was sub
 Telsin and Wax were not close; they were practically strangers. Over the course of twenty years with very little contact between them, they both fell prey to laxity in their attempts to stay in touch.
 
 ### The Set
-[[Edwarn\|Edwarn]] claims that she recruited him into the Set. When Edwarn faked his own death in the carriage accident, he faked hers as well.
+As a young adult, while she was mingling among the influential and powerful of Elendel, she discovered the Set. She joined the Set, recruiting her uncle Edwarn Ladrian to ensure she’d have the funds necessary for her prospects. Upon making contact with Trell, Telsin rapidly rose through the Set’s ranks. When Edwarn faked his own death in the carriage accident, he faked hers as well.
 Initially, she pretended to be a captive of the Set as a means to control her brother. When Wax confronts Edwarn, Edwarn tells Wax that if he kills him, "your sister is as good as dead." Wax promises to address her kidnapping after dealing with [[Bleeder\|Bleeder]].
 
  

@@ -68,7 +68,7 @@ Their desire to find a way to carry Stormlight off-world and to help Kelsier lea
 
 ## Resources
 The Ghostbloods own a tenement building in [[Highprince\|Highprince]] [[Sebarial\|Sebarial's]] [[/wiki/Shattered Plains#warcamps]] on the [[Shattered Plains\|Shattered Plains]] that has a basement. In it was a display of trophies that [[Shallan\|Shallan]] saw, including several enormous [[Gemheart\|gemhearts]], a tusk that was probably from a [[Whitespine\|whitespine]], an eye socket that looked like the structure of a [[Santhid\|santhid]]’s skull, a vial of pale [[Sand (Taldain)\|sand]], a couple of thick hairpins, a lock of golden hair, a [[Yolen\|Yolish]] branch of a [[Fain\|fain]] tree with writing on it, a silver knife, an odd flower preserved in some kind of solution, and a chunk of pale [[Aether\|pink crystal]] that looked like it might be some kind of gemstone. There were also shells that Shallan vaguely recognized. There were no plaques describing any of these mementos. The Ghostbloods also have acquired a number of Verdant [[/wiki/Aether#Spores]].
-On Scadrial, they have a safehouse at house one eighty-seven, near Thirty-Third and Finete in the Knightbridge district of [[Bilming\|Bilming]]. It is protected with [[Identity\|Identity]] locks and contains maps, a [[Seon\|seon]], an armory, and three jars of purified [[Dor\|Dor]] in a safe with an [[Awakening\|Awakened]] lock. They also own a large estate in [[Elendel\|Elendel]].
+On Scadrial, they have a safehouse at house one eighty-seven, near Thirty-Third and Finete in the Knightbridge district of [[Bilming\|Bilming]]. It is protected with [[Identity\|Identity]] locks and contains maps, a [[Seon\|seon]], an armory, and three jars of purified [[Dor\|Dor]] in a safe with an [[Awakening\|Awakened]] lock. They also own a large estate in [[Elendel\|Elendel]]. They learned about electrolysis on other planets and use the process to mass-produce and sell [[Aluminum\|aluminum]], using the proceeds to finance endeavors on Scadrial.
 Though there is no evidence to this, they presumably have at least a couple more safe houses.
 
 ## Structure
@@ -119,7 +119,7 @@ Shallan's identities debated their interest in joining the Ghostbloods. Veil was
 Mraize offered Shallan full membership in the Ghostbloods in return for assassinating [[Restares\|Restares]], leader of the [[Sons of Honor\|Sons of Honor]]. Shallan did not go through with it and broke ties with the group. She threatened Mraize to leave Urithiru and warned him that she would be hunting for Ba-Ado-Mishram. Mraize warned her that she'd moved against the group in the most offensive of ways.
 
 >“*This will not end well for you, Shallan. You make an enemy of the most powerful organization in all the cosmere.*”
-\-Mraize to Shallan[24]
+\-Mraize to Shallan[26]
 
 ### Cleansing Urithiru
 Mraize asked Shallan to investigate the wrongness in Urithiru, which she was already sensing. This led her to find, confront, and expel [[Re-Shephir\|Re-Shephir]].

@@ -8,7 +8,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Constable-General Reddi** is the constable-general of the 4th Octant Constabulary district in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
+**Constable-General Mathieu Reddi** is the constable-general of the 4th Octant Constabulary district in [[Elendel\|Elendel]] on [[Scadrial\|Scadrial]].
 
 ## Appearance and Personality
 Reddi is described as a short and lean man, always being dressed in his Constable's uniform with it looking neat during his duties. He has a large dropping mustache upon his face.
@@ -20,13 +20,13 @@ Reddi reported to Constable-General [[Brettin\|Brettin]] after the [[Vanishers\|
 In the intervening years Brettin retired and [[Aradel\|Aradel]] came to succeed him as Constable-General. Reddi had hoped to become his assistant however Aradel instead chose Marasi, citing his preference to have assistants do more bureaucratic work, secretly her close connection to Wax also influenced his thoughts. Most Constables however viewed the role as a promotion and considered it a slight that Marasi got the role instead of Reddi. This led to a strong animosity between the two, made all the worse as Reddi was Marasi's superior after she joined the force and that his friends shared his opinions towards Colms.
 
 >“*Reddi scowled at her.*”
-\-Reddi reacting to Marasi Colms' suggestions[5]
+\-Reddi reacting to Marasi Colms' suggestions[6]
 
 Reddi lead the investigation against the [[Marksman\|Marksman]] and suspected that after hitting the First Union he would retreat to a hideout of his in the Seventh Octant. This ultimately proved a mistaken assumption of his. Following the death of Innate's brother Reddi was sent to secure the crime scene and immediately went out to find Wax.
 Following the death of the Marksman Reddi's crew dealt with the clean up and informed Wax of the death of the Constable's Brother. After this he took the time to reprimand Marasi and reminded her that her role did not allow her to partake in chases against criminals such as the Marksman. She managed however to persuade him to allow her to speak with Aradel meaning she joined them in their trip to investigate the crime scene.
 
 >“*I usually **hate** you, but all I feel is a mild dislike. Someone is playing with my emotions.*”
-\-Reddi to Marasi when she questions how he feels[10]
+\-Reddi to Marasi when she questions how he feels[11]
 
 Reddi was present for an interrogation and it was suggested for him to "interrogate" the individual. Marasi stopped him by pointing out that this would ruin their case much to Reddi's annoyance, he went to paint Marasi as unloyal to the constables before being reprimanded by Aradel. He expressed exasperation at how flippant Wax was towards the witness. Later Reddi was requested to not lead the questioning at the Church of Survivor and instead allow Marasi to do so, afterwards he was then dismissed by Aradel in order to give warm beverages to the witnesses so Aradel and Marasi could discuss the case in private. Aradel readily admitted this was to aggravate Reddi as he found the man worked better when annoyed and trying to prove his worth.
 Reddi gave Aradel comforting words of encouragement after Aradel was promoted to Lord high Constable. He, with his peers, was put in charge of controlling the crowd during the Governors speech and did a good job of keeping them back. Upon realising that a Soother was within the crowd Marasi found Reddi and warned him. Reddi immediately went to get a squad of Constables in order to apprehend the Soother in question. Together they and his squad went out to subdue the Soother with hand to hand combat, they were quickly overwhelmed by the sheer amount of enemies against them. Marasi seizes the chance to go ahead and hold the Soother and Rioter hostage and force them to ease the crowd. Reddi's interrogation techniques proved useful for this.

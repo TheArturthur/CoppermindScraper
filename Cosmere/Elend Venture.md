@@ -3,8 +3,8 @@
 ||
 |**[[House Venture\|House Venture]]**|
 |**Spouse**|[[Vin\|Vin]]|
-|**Parents**|[[Straff\|Straff]], [[Elend's mother\|Mother]]|
-|**Siblings**|[[Zane\|Zane]]|
+|**Parents**|[[Straff Venture\|Straff Venture]], |
+|**Siblings**|[[Zane Venture\|Zane Venture]]|
 |**Born**|1000 [[Final Empire\|FE]]|
 |**Died**|1025 [[Final Empire\|FE]]|
 |**Abilities**|[[Allomancy\|Mistborn]]|

@@ -4,7 +4,7 @@
 |**Family**|
 |**Parents**|[[TenSoon\|TenSoon]]|
 |**Born**|Seventh Generation|
-|**Abilities**|[[Worldhopper\|Worldhopper]]|
+|**Abilities**|[[Blessing of Stability\|Blessing of Stability]], [[Worldhopper\|Worldhopper]]|
 |**Aliases**|Milan|
 |**Species**|[[Kandra\|Kandra]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
@@ -72,12 +72,12 @@ Notably, her personality is much more free spirited than most kandra, and she ge
   Showing her <<True Body\|True Body>>
 As a Kandra, she possesses the ability to shapeshift into various different forms around her True Body. She is also an immortal being, able to live for centuries, and survive wounds that would be fatal to most biological entities, she is also capable of turning off her pain receptors. She is capable of reforming her body to unlock simple locks. And like all Kandra she can make her flesh go transparent in order to reveal her True Body.
 She has various True Bodies made out of various materials, such as emerald and [[Aluminum\|aluminum]]. She sometimes uses ones with hidden weapons, such as swords in her arms. She can also store guns in her body, which she can pull out at will. Unlike most kandra, she doesn't necessarily follow the First Contract, and thus has little qualms about killing.
-As a kandra, she has unknown hemalurgic blessings which grant her powers, form, and sapience. If these spikes are removed, she reverts back to her mistwraith state, returning these to her would return her back to her kandra state.
+MeLaan has the [[Blessing of Stability\|Blessing of Stability]] which grant her powers, form, and sapience. If these spikes are removed, she reverts back to her mistwraith state, returning these to her would return her back to her kandra state.
 She is a [[Worldhopper\|Worldhopper]], and thus knows how to use Shadesmar to pass between worlds.
 
 ## History
 >“*Life then was like life now, only you have better street food.*”
-\-MeLaan[16]
+\-MeLaan[17]
 
 
 ### The Final Empire

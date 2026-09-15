@@ -2,7 +2,7 @@
 |-|-|
 ||
 |**[[House Venture\|House Venture]]**|
-|**Spouse**|[[Elend's mother\|Wife]]|
+|**Spouse**||
 |**Children**|[[Elend\|Elend]], [[Zane\|Zane]]|
 |**Died**|1024 [[Final Empire\|FE]]|
 |**Abilities**|[[/wiki/Tin#Allomantic Use]]|

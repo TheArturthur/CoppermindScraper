@@ -35,6 +35,7 @@
 ### Physical Realm
 In the [[Physical Realm\|Physical Realm]], peakspren take forms that appear to be made of stone. They can hide inside real rocks if they wish; when they want to reappear, they emerge as if breaking their form out of the rock.
 
+  In Shadesmar with their Radiant
 ### Cognitive Realm
 In the [[Cognitive Realm\|Cognitive Realm]], peakspren inhabit humanoid bodies formed of stone. The population of peakspren is quite varied as to the type of stone, which seems to include every variety found on Roshar. When they touch or rub parts of their body together, it sounds like stone grating together; they also move heavily, and their voices sound rather like grinding rock. The skin of peakspren is etched with cracks that emanate molten light and sometimes seem to form shapes akin to a [[Glyph\|glyph]] or symbol. Despite the molten quality to the fissures' appearance, their skin is only warm to the touch. Peakspren wear human clothing, which is sometimes tailored to their specific form, and tend to be bald, with their heads sporting more cracks than the rest of their bodies.
 

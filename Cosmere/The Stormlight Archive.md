@@ -57,7 +57,7 @@ Subject to the assumption that characters stay associated with their current ord
 |**|1173|45|This story plays out only a few days before the beginning of Stonewalkers.|
 |**|1173-1174|168||
 |*[[The Recruit\|The Recruit]]*|1174|4|Released in *Chasmfiend* Vol 2.|
-|**|1174|16||
+|*[[Speak the Words\|Speak the Words]]*|1174|16||
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**|1174|3|Released in *Stormlight Scenarios*|
 |**|1174|3|Released in *Stormlight Scenarios*|

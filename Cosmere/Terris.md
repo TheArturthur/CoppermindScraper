@@ -146,7 +146,7 @@ A small minority of young Terris who displayed exceptional docility, elegance, a
 
 ## Settlements
 The capital of the Terris Dominance is [[Tathingdwen\|Tathingdwen]], and there are also a lot of small villages across the Dominance, such as [[Myrshek Village\|Myrshek Village]]. Most of their villages are populated by Terris women who weren’t chosen for the breeding program and stewards who weren’t sold to a noble house. The most remote villages are populated exclusively by Terris men.
-By 341 PC, the Terris live throughout the Elendel Basin, and within cities such as Elendel. These settlements, even the enclaves, have a degree of autonomy granted to them by the government, allowing the Terris to police themselves without the interference of the local constabulary. The Terris settlement in Elendel is known as [[The Village\|the Village]].
+By 341 PC, the Terris live throughout the Elendel Basin, and within cities such as Elendel. These settlements, even the enclaves, have a degree of autonomy granted to them by the government, allowing the Terris to police themselves without the interference of the local constabulary. The Terris settlement in Elendel is known as [[The Village\|the Village]]. Other Terris enclaves include [[Tathingdwel\|Tathingdwel]] and [[Mycondwel\|Mycondwel]], Terris-majority cities in the foothills of the [[Channerel Range\|Channerel Range]]; , a progressive enclave and suburb of [[Bilming\|Bilming]]; and the , a trendy neighborhood in [[New Seran\|New Seran]] that lost full enclave status c. end of the 3rd century PC.
 
 ## Notable People
 Notable Terrispeople and people with significant Terris heritage. For a complete list, see Category:Terris.

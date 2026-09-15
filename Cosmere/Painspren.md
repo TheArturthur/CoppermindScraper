@@ -515,7 +515,7 @@ Rarely, lifespren may appear in particularly populated areas. Additionally, life
 
 A rare type of spren that appear around good and well-thought-out arguments. They take the appearance of tiny stormclouds. They seem to be quite rare, although they can often be seen in [[Azir\|Azir]]. They are attracted to the person's emotion and thoughts, and not necessarily the activity.
 They are used to create fabrial clocks, and affect timing, similar to [[Aon\|Aon]] Ene.
-Additionally, logicspren form [[Elsecaller\|Elsecaller]] [[Shardplate\|Plate]]. Singers bond with them to enter scholarform.
+Additionally, logicspren form [[Order of Elsecallers\|Elsecaller]] [[Shardplate\|Plate]]. Singers bond with them to enter scholarform.
 
   Sketch of <<Luckspren\|Luckspren>>
 #### Luckspren

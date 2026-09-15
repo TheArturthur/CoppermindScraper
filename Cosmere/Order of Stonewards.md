@@ -52,6 +52,7 @@ Those who join the Stonewards generally subscribe to a philosophy of team dynami
 The order strives to exemplify resolve, strength, and dependability. They love challenging themselves and work on their social skills to connect with everyone. They tend to attract those who are most interested in warfare, prowess with weapons, or athletics of any sort.
 
 ## Ideals of the Stonewards
+  A Stoneward with their spren in <<Shadesmar\|Shadesmar>>
 The Ideals of the Knights Radiant, also known as the [[Immortal Words\|Immortal Words]], are a set of rules by which the Radiants live. The First Ideal is shared by all of the orders, and is used as a motto for the Knights Radiant as a whole. Each of the orders then have an additional four Ideals that are unique to that order. The Ideals of the Order of Stonewards all focus on working with a team and supporting others, which led them to put others' interests before their own. Of the orders, they were some of the least likely to bend their Ideals.
 
 ### The First Ideal

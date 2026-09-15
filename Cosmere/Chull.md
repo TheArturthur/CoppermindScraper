@@ -92,6 +92,7 @@ Chulls appear to be diurnal creatures, sleeping during the night and spending th
 They are capable of making a wide range of noises, including a gravelly bleating, trumpeting, and snorting.
 
 ## Training
+  A chul pulling a wagon over a bridge
 In order for chulls to learn to how follow human orders, and thus serve as beasts of burden, they must be trained by a professional trainer. Chulls must be trained twice, once as a chull cremling, and once as a mature chull following the memory loss after First Pupation.
 There are several different methods of training a chull.  
 

@@ -14,13 +14,14 @@
 
 1. [[#Origins]] 
 1. [[#The Vanishers]] 
+1. [[#The Community]] 
 1. [[#The Bands of Mourning]] 
 1. [[#Accelerated Timeline]] 
 1. [[#Bilming]] 
 
 
 2 Organization. [[#Organization]] 
-3 Known Members of the set. [[#Known Members of the set]] 
+3 Known Members of the Set. [[#Known Members of the Set]] 
 
 3. [[#The Key]] 
 3. [[#Sequences]] 
@@ -34,11 +35,14 @@
 
 ## History
 ### Origins
-The Set was the result of a domino effect stemming from [[Kelsier\|Kelsier's]] actions. At some point a number of semi-cosmere-aware individuals discovered the existence of [[Shard\|ancient gods]], went looking for them, and ended up finding/being found by Autonomy. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male Trell and interacting with her through Trell's "Faceless Immortals". At some point, Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals.
-[[Telsin Ladrian\|Telsin Ladrian]] eventually discovered the existence of the Set and joined it (in a manner very similar to how the Set found Autonomy), later recruiting [[Edwarn Ladrian\|Edwarn Ladrian]]. They eventually rose to the ranks of Sequence and Suit, respectively.
+The Set's founders were a group of wealthy aristocrats in Elendel, and often met in the Cardinal Club. They took notice of the [[Ghostbloods\|Ghostbloods]]’ covert activities and recognized the opportunity to gain power through the patronage of a supernatural entity. Their original goal was to reclaim the power of ancient [[Allomancy\|Mistings]] and Mistborn. [[Telsin Ladrian\|Telsin Ladrian]] eventually discovered the existence of the Set and joined it, later recruiting [[Edwarn Ladrian\|Edwarn Ladrian]]. They eventually rose to the ranks of Sequence and Suit, respectively. 
+Lacking an awareness of the wider cosmere, the Set sought out ancient deities, and Telsin made contact with [[Autonomy\|Autonomy]]. The leaders of the Set were not aware of Autonomy's true nature and intentions, knowing her as the male [[Trell (Trellism)\|Trell]] and interacting with her through Trell's "Faceless Immortals". At some point, Autonomy decided that [[Scadrial\|Scadrial's]] advancing technological development would be detrimental to her own goals.
 
 ### The Vanishers
-Edwarn Ladrian faked his death to enter the Set. He provided funding for [[Miles Dagouter\|Miles Dagouter]] and the [[Vanishers\|Vanishers]]. The Vanishers were instructed to kidnap female descendants of the [[Spook\|Lord Mistborn]] in order to breed more [[Misting\|Mistings]] for some unknown purpose. The Vanishers did this through a series of elaborate, and seemingly supernatural, train robberies. [[Waxillium Ladrian\|Waxillium Ladrian]] discovered that his uncle lived after capturing Miles. During Wax's encounter with his uncle, Wax stole Edwarn's pocketbook that contained appointments and notes.
+Edwarn Ladrian faked his death to enter the Set. He provided funding for [[Miles Dagouter\|Miles Dagouter]] and the [[Vanishers\|Vanishers]]. The Vanishers were instructed to kidnap descendants of the [[Spook\|Lord Mistborn]] in order to breed more [[Misting\|Mistings]]. The Vanishers did this through a series of elaborate, and seemingly supernatural, train robberies. [[Waxillium Ladrian\|Waxillium Ladrian]] discovered that his uncle lived after capturing Miles. During Wax's encounter with his uncle, Wax stole Edwarn's pocketbook that contained appointments and notes.
+
+### The Community
+The kidnapped people were at first moved between multiple caverns for two years. For the five years after this, they stayed in an underground town named [[Wayfarer\|Wayfarer]], which was located underneath [[Bilming\|Bilming]]. They were told that the world had ended, with the Ashmounts erupting and metal mutants rampaging. The individuals kidnapped were also told that they were chosen to carry on human [[Community\|civilization]] and that their 'rescuers' had to stage a kidnapping to prevent mass panic. Additionally, they were told that there were multiple cavern complexes, such as ones beneath [[Elendel\|Elendel]]. The Set did its best to convince the people, hiring actors to play survivors and even letting a ‘metal mutant’ into the town once.
 
 ### The Bands of Mourning
 Wax was provided with information from the [[Kandra\|kandra]] that the Set was operating in the city of [[New Seran\|New Seran]], and that his sister [[Telsin\|Telsin]] was observed there. While Wax and company traveled to New Seran they were attacked in a Set train robbery. Professor [[Irich\|Irich]] was present. When they arrived in New Seran Wax and [[Steris\|Steris]] attended a ball at the home of a local noble Lady [[Kelesina Shores\|Kelesina Shores]]. Wax learned about Set activities near [[Dulsing\|Dulsing]]. When he confronted Lady Shores she was communicating with Suit through a strange metal box. Lady Shores was killed by a servant and discovered to be wearing a [[Gold\|gold]] [[Metalmind\|metalmind]] that was not keyed to an individual. The goldmind had a large amount of health stored in it and [[Wayne\|Wayne]] was able to tap it.
@@ -48,7 +52,7 @@ The search for the Bands appeared to be lost. The Set was interested in the Band
 
 ### Accelerated Timeline
 >“* The Set had been planning for events a century or more away.*”
-\- Mister Suit[14]
+\- Mister Suit[18]
 
 
 The Set had evidently planned for its goals to be reached a century in the future. With the discovery of the Bands of Mourning, Southern Scadrians, and their technology, the timeline was accelerated. While held in an Elendel jail, Suit was visited by a mysterious creature with red eyes. He told Suit that the Set had decided that allowing civilization on Scadrial to continue was too dangerous and that they decided to "remove life on this sphere instead." The creature then activated an explosive device, killing Suit.
@@ -56,21 +60,19 @@ Before Autonomy could attack Scadrial, Telsin somehow managed to convince Autono
 
 ### Bilming
 Over the six years following the death of Edwarn, the Set fully took control of the city of [[Bilming\|Bilming]] on behalf of Autonomy, up to developing it with accordance to Autonomy's philosophy and using Taldain architecture. At the same time, they conducted underground tests in order to create a [[Trellium\|trellium]]-[[Harmonium\|harmonium]] bomb. The key part of the plan -- and the part of it meant to impress Autonomy -- was the delivery device: a self-propelled rocket, something that Autonomy herself was yet to figure out.
-While in Bilming, Wax and his team, as well as a group of [[Ghostbloods\|Ghostbloods]], began to unravel Set's plan. Later that day, when Wax confronted Telsin, Harmony briefly disrupted Autonomy's link to her, causing Telsin to fall unconscious. When Telsin came to, Autonomy abandoned her willingly, having apparently given up on her and her plans. After Wax and Wayne destroyed the Set's bomb, while Marasi destroyed the perpendicularity intended for the [[Men of gold and red\|men of gold and red]], Autonomy begrudgingly withdrew from Scadrial, acknowledging their victory.
+While in Bilming, Wax and his team, as well as a group of [[Ghostbloods\|Ghostbloods]], began to unravel Set's plan. Marasi confronted [[Gave Entrone\|Gave Entrone]], defeating him with the help of several of the captured people in the Community. Marasi then led them out onto the surface, ending the Community. Wax confronted Telsin, and Harmony briefly disrupted Autonomy's link to her, causing Telsin to fall unconscious. When Telsin came to, Autonomy abandoned her willingly, having apparently given up on her and her plans. After Wax and Wayne destroyed the Set's bomb, while Marasi destroyed the perpendicularity intended for the [[Men of gold and red\|men of gold and red]], Autonomy begrudgingly withdrew from Scadrial, acknowledging their victory.
 
 ## Organization
-The Set is an organization with a strict hierarchy among their ranks, codenames are used to indicate where one is in this hierarchy. The highest rank among them is 'The Key' who serves as the organization's leader. Each rank within the set must immediately report to the rank above them, serving at their direct orders, despite this rigidity however [[Autonomy\|Autonomy]] encourages its members to be bold and thus it is common for those on the bottom rungs to try and climb up the organization. The lowest ranked members, Cycles, are those in charge of local hired muscle, this muscle is granted no rank themselves.
+The Set is an organization with a strict hierarchy among their ranks, codenames are used to indicate where one is in this hierarchy. Each rank within the set must immediately report to the rank above them, serving at their direct orders, despite this rigidity however [[Autonomy\|Autonomy]] encourages its members to be bold and thus it is common for those on the bottom rungs to try and climb up the organization. There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
 The ranks within the set are:
 
-The Key
-Series
-Sequence
-Suit
-Array
-Cycle
-There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
-
-## Known Members of the set
+The Key: The highest rank and the organization's leader.
+Series: There is only a small group of Series.
+Sequence: Provides leadership.
+Suit: Provides leadership.
+Array: Outside the main chain of command and have moderate influence below Suits and Sequences.
+Cycle: The lowest rank and in charge of local hired muscle. This muscle is granted no rank themselves.
+## Known Members of the Set
 For more information, see :Category: Set.
 Though the Set have many accomplices, there appear to be a smaller group of ranked leaders. The members that control the Set are known as the "Series."
 
