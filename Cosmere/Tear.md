@@ -4,6 +4,8 @@
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 >“*And if you’ll accept a little advice, stay in Shadesmar. The Physical Realm is not a welcoming place these days.*”
 \-Ico[1]
 
@@ -24,6 +26,7 @@ For more information, see [[Realmatic Theory\|Realmatic Theory]].
 4 Other Planets. [[#Other Planets]] 
 
 4. [[#Bjendal]] 
+4. [[#Jasper]] 
 4. [[#Mythos]] 
 4. [[#Obrodai]] 
 4. [[#Rellam]] 
@@ -46,13 +49,14 @@ There are hundreds of inhabited star systems in the cosmere. But even beyond the
 |[[Drominad system\|Drominad system]]|**[[First of the Sun\|First of the Sun]]**, an ocean planet filled with deadly tests, the source of the [[Aviar\|Aviar]] and the [[Navigator\|Navigators]].|
 |*unknown*|The **[[Grand Apparatus\|Grand Apparatus]]**, a mechanical world made of constantly moving rooms, ruled by the [[Sleepless\|Sleepless]].|
 |*unknown*|**[[Lumar\|Lumar]]**, where twelve moons deposit [[Aether spores\|Aether spores]] on the planet to create seas.|
+|*unknown*|****, a planet where rivers of blood flow from the corpse of an [[Evil\|Eidolith]].|
 |[[Nalthian System\|Nalthian System]]|**[[Nalthis\|Nalthis]]**, home of [[Endowment\|Endowment]], [[BioChromatic Breath\|BioChromatic Breath]], and [[Awakening\|Awakening]].|
 |[[Scadrian system\|Scadrian system]]|**[[Scadrial\|Scadrial]]**, a world created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]], home of the [[Metallic Arts\|Metallic Arts]].|
 |[[Selish system\|Selish system]]|**[[Sel\|Sel]]**, with three isolated supercontinents and many regional magic systems powered by the remains of [[Dominion\|Dominion]] and [[Devotion\|Devotion]].|
 |[[Taldain system\|Taldain system]]|**[[Taldain\|Taldain]]**, a tidally locked world where [[Autonomy\|Autonomy]] resides, the source of [[Sand (Taldain)\|white sand]].|
 |[[Threnodite system\|Threnodite system]]|**[[Threnody\|Threnody]]**, a world disturbed by the death of [[Ambition\|Ambition]], where the inhabitants persist after death as [[Shade\|shades]].|
 |[[Rosharan system\|Rosharan system]]|**[[Roshar\|Roshar]]**, **[[Braize\|Braize]]**, and **[[Ashyn\|Ashyn]]**; the battlefields between [[Honor\|Honor]], [[Cultivation\|Cultivation]], and [[Odium\|Odium]].|
-|[[UTol system\|UTol system]]|**[[UTol\|UTol]]**, an ocean world populated by [[Sho Del\|Sho Del]].  **[[Komashi\|Komashi]]**, where inhabitants used [[Hion\|hion]] lines to survive the [[Shroud\|Shroud]].|
+|[[UTol system\|UTol system]]|**[[UTol\|UTol]]**, an ocean world populated by [[Sho Del\|Sho Del]].**[[Komashi\|Komashi]]**, where inhabitants used [[Hion\|hion]] lines to survive the [[Shroud\|Shroud]].|
 |Yolish system|**[[Yolen\|Yolen]]**, the location of the Shattering of Adonalsium, the source of the [[Shards\|Shards]], and the original homeworld of humanity, [[Dragon (cosmere)\|Dragons]], and [[Sho Del\|Sho Del]].|
 
 ### Other Galactic Features
@@ -123,30 +127,37 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 
 Bjendal is considered to be a primary system by the [[Ghostbloods\|Ghostbloods]]. In 348 [[Catacendre\|PC]], interplanetary travel to Bjendal through the [[Cognitive Realm\|Cognitive Realm]] was disrupted, likely as a result of something happening to the [[Perpendicularity\|perpendicularity]] on Bjendal.
 
+### Jasper
+>“*I have influenced my share of religions, still really embarrased about that whole fiasco on Jasper.*”
+\-Hoid[40]
+
+
+Jasper is a location referenced by Hoid where he influenced a local religion somehow. Jasper may not be a planet, but the phrasing implies it is some sort of celestial body.
+
 ### Mythos
 >“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
-\-Kelsier to Harmony[40]
+\-Kelsier to Harmony[41]
 
 
 Mythos is an off-world nickname used for this planet. After [[Autonomy\|Autonomy's]] attack on [[Scadrial\|Scadrial]] was repelled in 348 [[Catacendre\|PC]], [[Kelsier\|Kelsier]] mentioned Mythos to [[Harmony\|Harmony]] as a possible source of allies, though he apparently considered it a less likely option than Sel and Dhatri.
 
 ### Obrodai
 >“*You should not return to Obrodai. We have claimed that world, and a new avatar of our being is beginning to manifest there.*”
-\-Patji to Hoid[43]
+\-Patji to Hoid[44]
 
 
 The Shard Autonomy has claimed Obrodai and is beginning to manifest an "avatar of [their] being," an unknown female entity, on the planet. In a [[/wiki/Letters#Second Oathbringer Letter]] to [[Hoid\|Hoid]], [[Patji (being)\|Patji]], an avatar of Autonomy, warned him not to return to Obrodai and that, as a precaution to discourage his return, the avatar there has been instilled with a great dislike of him. Due to Hoid being able to go to the planet, it likely has some form of perpendicularity. 
 
 ### Rellam
 >“*Rellam has no gods. I didn’t know the concept—not even the word—until I traveled the cosmere.*”
-\-Tyvneri to Jasnah[46]
+\-Tyvneri to Jasnah[47]
 
 
 Rellam is a world with no gods, with Investiture that is a curse upon its inhabits. If [[Tyvneri\|Tyvneri]] is representative of its inhabitants, then have green skin and can live for centuries. 
 
 ### Vax
 >“*Ati ran his hand through his red hair, then looked about. “Vax?” he said, sounding confused.*”
-\-Mistborn: Secret History[47]
+\-Mistborn: Secret History[48]
 
 
 Little is known of Vax, its peoples, or any Shards that may or may not be located there. All that is certain is that it is a planet with a manifestation of [[Investiture\|Investiture]] in which people are Initiated differently than on Sel, Scadrial, Nalthis, or Taldain; and that true Vaxilians are presumably from Vax.
@@ -162,7 +173,7 @@ Zidorna is a location in the cosmere with a few [[Iriali\|Iriali]] occupants. [[
 ### Unknown Planets
   <<Hoid\|Hoid>> enjoys recounting stories of the travails he has suffered across the <<Cosmere\|Cosmere>>.
 >“*The truth *is*. Other worlds *are*.*”
-\-Ivory to Jasnah[46]
+\-Ivory to Jasnah[47]
 
 
 As travel through both the Physical Realm and Cognitive Realm increased over the history of the cosmere, stories and rumors of far-off planets began to circulate among the general population on many worlds. 
@@ -177,15 +188,17 @@ A world where “people fly upon kites", also mentioned by Mraize.
 [[Dajer\|Dajer]] shows [[Sixth of the Dusk\|Dusk]] an image of a world where “enormous, ghostly apparitions dominated the skyline.”
 [[Eddlin\|Ed]] tells [[Leonore\|Leonore]] about a world with “strange freezing winds that left icy sheets over everything.”
 The [[Eelakin\|Eelakin]] originally came from a world with "empires, and vast cities, and wars."
+"Three worlds where dragons ruled," which Hoid is searching for on his quest to find Valor.
 There are planets that must exist because of other species seen across the cosmere:
 
 The [[Sleepless\|Sleepless]] homeworld is not any other known world.
 The planet the [[Fay\|Fay]] (a type of Invested being Hoid refers to, similar to [[Seon\|seons]] or [[Hijo\|spirits]]) originate from.
 The homeworld of a reptilian species, a member of which served [[Riina\|Riina]] on Lumar by impersonating [[Charlie\|Charlie]] 
 The homeworld of a species allied with the [[Malwish\|Malwish]] empire, who are accustomed to temperatures high enough to cook a human 
+The planet that Creed Wraiths, a type of [[Cognitive Shadow\|Cognitive Shadow]], originate from.
 There are planets which are the source of mysterious artifacts and Investiture:
 
-The planet where Hoid obtained a "scary" magic system that lets him know where he needs to be.
+The planet where Hoid obtained the , a "scary" magic system that lets him know where he needs to be.
 Planet(s) where systems of as-yet-unrevealed Investiture that would work well with a wizard staff.
 The planet(s) [[Iyatil\|Iyatil]] visited to obtain her collection of artifacts from around the cosmere. Her artifacts of unknown origin are:
 "a silvery horn or claw from some great beast".
@@ -195,7 +208,7 @@ There are Shards who may have Invested in one or more planets:
 
 [[Autonomy\|Autonomy]] had many old dominions.
 [[Invention\|Invention]] created technologically advanced planets.
-[[Valor\|Valor]] created a world with lesser dragons.
+[[Valor\|Valor]] created a world with lesser dragons. She has also visited various worlds over the history of the Cosmere.
 Nothing is known about the planets [[Mercy\|Mercy]],  [[Whimsy\|Whimsy]], and [[Reason\|Reason]] have Invested in, or if they have even Invested at all.
 ## Trivia
 Many of the in-universe allusions to new planets are references to books Brandon has considered writing:

@@ -4,7 +4,7 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Rashekin** is a city in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]]. It is presumably named after [[Rashek\|Rashek]], the man who became the [[Lord Ruler\|Lord Ruler]].
+**Rashekin** is a city in the [[Elendel Basin\|Elendel Basin]] on [[Scadrial\|Scadrial]]. It is presumably named after [[Rashek\|Rashek]], the man who became the [[Lord Ruler\|Lord Ruler]]. It is overseen by either the most powerful local noble family or the most powerful religious body.
 It lies near a small river, on a railway that extends from [[Elendel\|Elendel]] northeast to the [[Faleast Range\|Faleast Range]]. It is considered to be outside of the direct influence of the government in Elendel, and was one of the cities where the [[Set\|Set]] maintained a compound for training new recruits.
 
 

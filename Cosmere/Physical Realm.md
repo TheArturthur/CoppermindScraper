@@ -24,6 +24,7 @@ For more information, see [[Realmatic Theory\|Realmatic Theory]].
 4 Other Planets. [[#Other Planets]] 
 
 4. [[#Bjendal]] 
+4. [[#Jasper]] 
 4. [[#Mythos]] 
 4. [[#Obrodai]] 
 4. [[#Rellam]] 
@@ -123,30 +124,37 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 
 Bjendal is considered to be a primary system by the [[Ghostbloods\|Ghostbloods]]. In 348 [[Catacendre\|PC]], interplanetary travel to Bjendal through the [[Cognitive Realm\|Cognitive Realm]] was disrupted, likely as a result of something happening to the [[Perpendicularity\|perpendicularity]] on Bjendal.
 
+### Jasper
+>“*I have influenced my share of religions, still really embarrased about that whole fiasco on Jasper.*”
+\-The Fires of December[40]
+
+
+Jasper is a location referenced by Hoid where he influenced a local religion somehow. Jasper may not be a planet, but the phrasing implies it is some sort of celestial body.
+
 ### Mythos
 >“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
-\-Kelsier to Harmony[40]
+\-Kelsier to Harmony[41]
 
 
 Mythos is an off-world nickname used for this planet. After [[Autonomy\|Autonomy's]] attack on [[Scadrial\|Scadrial]] was repelled in 348 [[Catacendre\|PC]], [[Kelsier\|Kelsier]] mentioned Mythos to [[Harmony\|Harmony]] as a possible source of allies, though he apparently considered it a less likely option than Sel and Dhatri.
 
 ### Obrodai
 >“*You should not return to Obrodai. We have claimed that world, and a new avatar of our being is beginning to manifest there.*”
-\-Patji to Hoid[43]
+\-Patji to Hoid[44]
 
 
 The Shard Autonomy has claimed Obrodai and is beginning to manifest an "avatar of [their] being," an unknown female entity, on the planet. In a [[/wiki/Letters#Second Oathbringer Letter]] to [[Hoid\|Hoid]], [[Patji (being)\|Patji]], an avatar of Autonomy, warned him not to return to Obrodai and that, as a precaution to discourage his return, the avatar there has been instilled with a great dislike of him. Due to Hoid being able to go to the planet, it likely has some form of perpendicularity. 
 
 ### Rellam
 >“*Rellam has no gods. I didn’t know the concept—not even the word—until I traveled the cosmere.*”
-\-Tyvneri to Jasnah[46]
+\-Tyvneri to Jasnah[47]
 
 
 Rellam is a world with no gods, with Investiture that is a curse upon its inhabits. If [[Tyvneri\|Tyvneri]] is representative of its inhabitants, then have green skin and can live for centuries. 
 
 ### Vax
 >“*Ati ran his hand through his red hair, then looked about. “Vax?” he said, sounding confused.*”
-\-Mistborn: Secret History[47]
+\-Mistborn: Secret History[48]
 
 
 Little is known of Vax, its peoples, or any Shards that may or may not be located there. All that is certain is that it is a planet with a manifestation of [[Investiture\|Investiture]] in which people are Initiated differently than on Sel, Scadrial, Nalthis, or Taldain; and that true Vaxilians are presumably from Vax.
@@ -162,7 +170,7 @@ Zidorna is a location in the cosmere with a few [[Iriali\|Iriali]] occupants. [[
 ### Unknown Planets
   <<Hoid\|Hoid>> enjoys recounting stories of the travails he has suffered across the <<Cosmere\|Cosmere>>.
 >“*The truth *is*. Other worlds *are*.*”
-\-Ivory to Jasnah[46]
+\-Ivory to Jasnah[47]
 
 
 As travel through both the Physical Realm and Cognitive Realm increased over the history of the cosmere, stories and rumors of far-off planets began to circulate among the general population on many worlds. 

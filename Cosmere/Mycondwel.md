@@ -4,7 +4,7 @@
 |**World**|[[Scadrial\|Scadrial]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Mycondwel** is a city in the northwestern edge of the [[Elendel Basin\|Elendel Basin]]. It is along the [[Channerel Range\|Channerel Range]].
+**Mycondwel** is a city in the northwestern edge of the [[Elendel Basin\|Elendel Basin]]. It is along the [[Channerel Range\|Channerel Range]]. Mycondwel is ruled by its own Synod.
 
 
 

@@ -4,7 +4,9 @@
 |**World of Origin**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for the 10th Anniversary Edition of *[[Elantris (book)\|Elantris]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for the 10th Anniversary Edition of *[[Elantris (book)\|Elantris]]* and for *[[The Fires of December\|The Fires of December]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Aons** are a writing system used by the [[Aonic\|Aonic]] peoples of [[Arelon\|Arelon]] and [[Teod\|Teod]] on [[Sel\|Sel]]. They are logographic, meaning they represent words and meanings, as opposed to an alphabet which represents sounds. Instead of being an invented system like most scripts, the Aons already existed and were discovered by an ancient [[Elantrian\|Elantrian]] through trial and error.
 Aons also serve as the focus for the magic system [[AonDor\|AonDor]] used by [[Elantrian\|Elantrians]]. This, presumably, served as the impetus for the discovering of new Aons.
@@ -873,6 +875,7 @@ In [[Tress of the Emerald Sea\|Tress of the Emerald Sea]], one of the paintings 
 There are most likely undiscovered Aons.
 Anything possible in the [[Cosmere\|Cosmere]] can be replicated using [[AonDor\|AonDor]], with the right Aons, though certain injections of [[Investiture\|Investiture]] may be required. 
 At least some of the Sel constellations are named after major Aons, such as [[/wiki/Aon#Rao]] and [[/wiki/Aon#Ene]].
+In [[The Fires of December\|The Fires of December]], one of  paintings shows Aon Reo on the head of the  where it supposedly kept the large spike from being removed from the heart it pierced. This specific Aon is not specified in the text itself.
 
 
 https://coppermind.net/wiki/Aon

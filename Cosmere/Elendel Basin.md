@@ -25,6 +25,10 @@ The **Elendel Basin** is a lush, fertile basin created by [[Harmony\|Harmony]] w
 
 
 4 People. [[#People]] 
+
+4. [[#Religions]] 
+
+
 5 Footnotes. [[#Footnotes]] 
 6 Notes. [[#Notes]] 
 
@@ -40,7 +44,7 @@ The Basin largely revolves around the city of [[Elendel\|Elendel]]. The city is 
 Elendel defines the prime meridian.
 
 ### Outer Cities
-The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement. Cities in the Basin outside of Elendel are collectively referred to as the "outer cities."  Each city has its own unique character, with differing types of industry depending on their location, and in some cases different clothing and accents. Major cities also have their own enclaves of Terris people.
+The lands of the Basin are very populated, and a train cannot go for five minutes without passing a settlement. Cities in the Basin outside of Elendel are collectively referred to as the "outer cities." Each city has its own unique character, with differing types of industry depending on their location, and in many cases fashion that intentionally differed from Elendel. Higher education, art, and science are just as prevalent in the Outer Cities as in Elendel, sometimes even being more advanced thanks to fewer restrictions. Major cities also have their own enclaves of Terris people.
 Notable outer cities labeled on known maps include the following:
 
 
@@ -71,10 +75,13 @@ Common domesticated animals include horses, cats, and dogs. Cows, pigs, and chic
 
 ## Politics
 The Basin functions as a de facto nation; Elendel's economic hegemony has allowed it to influence policy throughout the Basin, largely through taxation. The Basin itself was created by Harmony with canals and rivers running towards Elendel like the spokes of a wheel. New cities cropped up along the canals, but the canals only run to and from Elendel. When the first railways were laid, they followed the paths of the canals. Therefore, any city that wishes to trade goods with any city other than along its own spoke has to trade through Elendel, which places tariffs on many of these goods.
-Since Elendel remains the only city wealthy enough to create and maintain railways, the outer cities lack the resources to make themselves independent. Although Elendel is considered the capital of the Basin, each city is administered locally and is not directly governed by Elendel. However, the city governments still feel constrained by their economic dependence on the capital. They have requested new railways to connect the main lines, but have been repeatedly denied by the seat of power in Elendel. These cities therefore believe they are being taxed twice to transport their goods: they pay levies to maintain the railways and canals, and then pay nearly unavoidable tariffs to ship their goods using these methods.
-Additionally, many citizens of Elendel remain ignorant of life in the outer cities, in some cases openly mocking their innovations. The taxation and disrespect has led to extreme animosity from the outer cities, and talk of possible civil war that could lead to a fracture nation of city-states. By the third century, a number of new towns have sprung up in the south of the Basin. However, between the years 348 [[Catacendre\|PC]] and 350 [[Catacendre\|PC]], the Basin united, with a National Assembly to represent all cities equally.
+Since Elendel remains the only city wealthy enough to create and maintain railways, the Outer Cities lack the resources to make themselves independent. Although Elendel is considered the capital of the Basin, each city is administered locally and is not directly governed by Elendel. However, the city governments still feel constrained by their economic dependence on the capital. They have requested new railways to connect the main lines, but have been repeatedly denied by the seat of power in Elendel. These cities therefore believe they are being taxed twice to transport their goods: they pay levies to maintain the railways and canals, and then pay nearly unavoidable tariffs to ship their goods using these methods. Local nobility maintained the Basin’s railways and stations are generally maintained by the nobility that owns the land. These nobles are most often locals, but some railways are maintained by Elendel’s Great Houses. Once the railways leave the Basin through the mountain passes, they are maintained by businesses operating in the Roughs. Some of those businesses are sponsored by nobles, and others are maintained by venture capitalists.
+The main political powers among the Outer Cities were Bilming and New Seran. The Outer Cities operated under a variety of municipal governments. Many of them have a mayor, including Bilming and New Seran; Bilming also has a council representing their various political parties. Some cities, such as Steinel and Rashekin, are overseen by the most powerful local noble family or religious body. Other cities like Drypost are run by a council of executives from mining and rail companies. Meanwhile, Terris communities such as Tathingdwel and Mycondwel operate under the authority of their respective Synods. Other than Bilming, the Outer Cities and their nobles maintained on,y small military forces to deter attacks from the Roughs and to hunt bandits within the Basin.
+Additionally, many citizens of Elendel remain ignorant of life in the outer cities, in some cases openly mocking their innovations. The taxation and disrespect has led to extreme animosity from the outer cities, and talk of a possible civil war that could lead to a fractured nation of city-states. By the third century, a number of new towns have sprung up in the south of the Basin. However, between the years 348 [[Catacendre\|PC]] and 350 [[Catacendre\|PC]], the Basin united, with a National Assembly to represent all cities equally.
 
 ## Economy
+For centuries, they Outer Cities were limited to producing raw materials, such as food, textiles, ore, stone, and lumber for Elendel. In turn, manufacturers in Elendel processed these resources and shipped goods back to the cities. However, by the fourth century some of the Outer Cities had grown wealthy enough that they could afford to build their own manufacturing and production infrastructure. Afterwards, the goods of the Outer Cities equaled the quality of Elendel’s. Some industries even exceeded Elendel’s, such as the advanced and efficient oil refineries of Bilming. However, between Elendel’s trade restrictions, import taxes, and the lack of direct shipping between most cities, Outer Cities goods often remained more expensive.
+
 ### Currency
 The people of the Basin (and the Roughs) retain the same currency used during the Final Empire, that being boxings and clips. There are one hundred clips in a boxing. "Notes," presumably printed banknotes, are also used, though it is unknown what their relationship is to the aforementioned currency denominations.
 It is unknown whether boxings are still officially known as Imperials.
@@ -82,9 +89,10 @@ One of the denominations of coin has a picture of the [[Spook\|Lord Mistborn]] w
 
 ## People
 The residents of the Basin are the direct descendants of the people who survived the Catacendre, known as the [[Originators\|Originators]]. Around one-fifth of the Originators were Terris, with the rest being either [[Skaa\|skaa]] or [[Noble\|noble]]. During the Catacendre, Harmony restored human genetics to the same state it had been prior to the [[Lord Ruler\|Lord Ruler]], but people are still aware of their ancestry, with many noble houses persisting after society was rebuilt. The residents generally have light skin, with the exception being the Terris, who naturally tend to have more skin color and largely marry within their own ethnicity. People in the east of the Basin sometimes have thick accents.
-The northwestern mountains have Terris fundamentalists living in them.
+The northwestern mountains have Terris fundamentalists living in them. Relatively few people live outside of the Basin in northern Scadrial. There are a few towns in the Roughs, but they have small populations. The residents of the Basin were not aware of the [[Southern Scadrian\|Southern Scadrians]] until the *[[Brunstell\|Brunstell]]* crashed in Dulsing.
 
-Relatively few people live outside of the Basin in northern Scadrial. There are a few towns in the Roughs, but they have small populations. The residents of the Basin were not aware of the [[Southern Scadrian\|Southern Scadrians]] until the *[[Brunstell\|Brunstell]]* crashed in Dulsing.
+### Religions
+The Basin is home to three major religions. The first and largest is [[Survivorism\|Survivorism]], which evolved from the Church of the Survivor. It was established shortly before the [[Final Empire\|Final Empire]] collapsed. The people worship the [[Kelsier\|Survivor]]. Society generally views Survivorists as pious and not too daring. The second religion is [[Sliverism\|Sliverism]]. This religion, worshipping the [[Lord Ruler\|Lord Ruler]], is more divisive; some people see the religion as distasteful, while others find great comfort in it as a legacy of righteousness. The third primary religion of the Basin is the [[Path\|Path]], which worships Harmony. Many practitioners of other religions see it as simple and often baffling.
 
 ## Footnotes
 
