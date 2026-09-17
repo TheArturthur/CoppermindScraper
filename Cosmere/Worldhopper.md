@@ -1,5 +1,7 @@
   The cover of *[[Arcanum Unbounded\|Arcanum Unbounded]]*, featuring <<Khriss\|Khriss>>
-> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[Isles of the Emberdark\|Isles of the Emberdark]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
+> [!info] This page or section needs to be updated with new information for *[[The Lost Metal\|The Lost Metal]]*, *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, *[[Isles of the Emberdark\|Isles of the Emberdark]]*, and *[[The Fires of December\|The Fires of December]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*You’ve stumbled into something far, far bigger than you, your politics, or your little planet ... Your questions are dangerous. Once you step behind the curtain and see the actors as the people they are, it becomes harder to pretend the play is real.*”
 \-Khriss to Kelsier[1]
@@ -202,15 +204,12 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 |**Significant Worlds of the Cosmere**|
 |-|-|
 |**Planetary System**|**Planet**|**Shards**|**Books**|**Reference**|
-|***Unknown***|[[Bjendal\|Bjendal]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
 |***Unknown***|[[Canticle\|Canticle]]|*None*|*[[The Sunlit Man\|The Sunlit Man]]*||
 |***Unknown***|[[Dhatri\|Dhatri]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
 |**[[Drominad system\|Drominad System]]**|[[First of the Sun\|First of the Sun]]|[[Patji (being)\|Patji]] (Avatar of [[Autonomy\|Autonomy]])|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||
-|***Unknown***|[[Grand Apparatus\|Grand Apparatus]]|*Unknown*|*None (Referenced in *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
 |***Unknown***|[[Lumar\|Lumar]]|*Unknown*|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||
-|***Unknown***|[[Mythos\|Mythos]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]*)*||
+|***Unknown***||[[Valor\|Valor]]|*[[The Fires of December\|The Fires of December]]*||
 |**[[Nalthian system\|Nalthian System]]**|[[Nalthis\|Nalthis]]|[[Endowment\|Endowment]]|*[[Warbreaker\|Warbreaker]]*, *[[Nightblood (book)\|Nightblood]]* (unpublished)||
-|***Unknown***|[[Obrodai\|Obrodai]]|Avatar of [[Autonomy\|Autonomy]], *possibly others*|*None (Referenced in *[[Oathbringer\|Oathbringer]]*)*||
 |**[[Rosharan system\|Rosharan System]]**|[[Ashyn\|Ashyn]]|[[Honor\|Honor]], [[Odium\|Odium]] ([[Night of Sorrows\|combined]] as [[Retribution\|Retribution]])[[Cultivation\|Cultivation]] (until the [[Night of Sorrows\|Night of Sorrows]])|[[The Stormlight Archive\|The Stormlight Archive]]||
 |[[Braize\|Braize]]|
 |[[Roshar\|Roshar]]|
@@ -220,7 +219,6 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 |**[[Threnodite system\|Threnodite System]]**|[[Threnody\|Threnody]]|[[Ambition\|Ambition]]|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*||
 |**[[UTol system\|UTol system]]**|[[Komashi\|Komashi]]|[[Virtuosity\|Virtuosity]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
 |[[UTol\|UTol]]|
-|***Unknown***|[[Vax\|Vax]]|*Unknown*|*None (Referenced in *[[Elantris (book)\|Elantris]]*, *Mistborn: Secret History* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
 |****|[[Yolen\|Yolen]]|*None*|[[Dragonsteel (series)\|Dragonsteel series]] (unpublished)||
 
 ### Trishardic Systems
@@ -233,6 +231,7 @@ The [[Rosharan system\|Rosharan system]] contains three planets of note. **[[Ash
 ### Monoshardic Systems
 The planet **[[Taldain\|Taldain]]** is tidally locked between two stars, a blue-white supergiant and a white dwarf. The side of the planet facing the former, [[Dayside\|Dayside]], is a vast desert where Investiture arrives from the light of the star. [[Darkside\|Darkside]] faces the white dwarf, leaving it in perpetual twilight; many things there fluoresce in ultraviolet light. Its [[Shard\|Shard]], [[Autonomy\|Autonomy]], keeps the planet isolated from the rest of the cosmere.
 The [[Drominad system\|Drominad system]] is home to several planets, all of which have water as a dominant feature. Three of them are inhabited by humans, the most of any planetary system in the cosmere at the time Khriss wrote her essay on the system. The innermost planet, **[[First of the Sun\|First of the Sun]]** has a [[Perpendicularity\|perpendicularity]], though the region around it in the Physical Realm is incredibly dangerous, and is home to [[Patji (being)\|Patji]], an avatar of Autonomy.
+**** is one of several planets influenced by the Shard [[Valor\|Valor]]. It is home to several [[Evil\|negative-Investiture entities]] in both the Physical and Cognitive Realms, which the people of Miral sometimes  with.
 **[[Nalthis\|Nalthis]]** is a world of color. Color is needed to fuel its magic system, [[Awakening\|Awakening]], and those with large amounts of [[Breath\|Breath]] will enhance the colors around them and can see perfect shades of colors. When someone dies, [[Endowment\|Endowment]], the resident Shard, occasionally sends their [[Cognitive Shadow\|Cognitive Shadow]] back as a [[Returned\|Returned]] to prevent a tragedy they foresee after their death.
 **[[Threnody\|Threnody]]** is a planet with two principal parts: the [[Fallen World\|Fallen World]], which is under the control of an unknown entity called the [[Evil\|Evil]] that is so dangerous that everyone was forced to leave, and the [[Forests of Hell\|Forests of Hell]], which is home to dangerous [[Cognitive Shadow\|Cognitive Shadows]] known as [[Shade\|Shades]]. The system used to be home to the Shard [[Ambition\|Ambition]], whose Splintering has severely warped planet.
 The [[UTol system\|UTol system]] is located near where the Shard [[Virtuosity\|Virtuosity]] Splintered herself and home to two habitable planets. The eponymous planet of **[[UTol\|UTol]]** is a water-dominated planet inhabited by [[Sho Del\|Sho Del]] that seems to be well-known in the cosmere by the space age. Its sister planet **[[Komashi\|Komashi]]** is home to humans and [[Splinter\|Splinters]] of Virtuosity known as [[Hijo\|hijo]]; before the destruction of the [[Father machine\|father machine]], it was notable for an eternal [[Shroud\|shroud]] of black Investiture covering the planet.
@@ -244,7 +243,6 @@ The [[UTol system\|UTol system]] is located near where the Shard [[Virtuosity\|V
 ### Other Notable Worlds
 **[[Dhatri\|Dhatri]]** is the homeworld of the [[Aether\|aethers]], though they have since spread around the cosmere; the world has been made inhospitable due to an entity known as the [[Dark aether\|dark aether]].
 **[[Lumar\|Lumar]]** is a backwater planet that is home to the [[Aether spores\|aether spores]], a compressed form of [[Aether\|aether]] that grows dangerously fast when touched by water, which are produced by a variant strain of the aethers on the twelve moons that hang close to the surface of the planet.
-Little is known about **[[Bjendal\|Bjendal]]**, **[[Mythos\|Mythos]]**, **[[Obrodai\|Obrodai]]**, the **[[Grand Apparatus\|Grand Apparatus]]**, and **[[Vax\|Vax]]**. Additionally, there is the homeworld of the [[Sleepless\|Sleepless]], which may be one of those five planets. There is also a planet with an ocean in the sky, one where men fly upon kites, and a world with strange freezing winds that leave icy sheets over everything. Another world has flowers and people with skin that is a coppery color. These people wear clothing of beautiful colors.
 
 ## Worldhoppers
 Some people who are aware of the broader cosmere have learned how to travel between planets and are known as worldhoppers. Since space in the Cognitive Realm is linked to how people think about that region, most of outer space is extremely compressed in the Cognitive Realm. Therefore, if one could shift from the Physical to the Cognitive Realm, they could quickly travel between planets. The most common method for transfer to the Cognitive Realm is by going through a [[Perpendicularity\|perpendicularity]], though it is also possible with the [[/wiki/Surgebinding#Transportation]].
@@ -255,7 +253,7 @@ In total, the number of people traveling between planets probably numbers somewh
 ### Hoid
   <<Hoid\|Hoid>> with <<Frost\|Frost>>
 >“*For I have never been dedicated to a more important purpose, and the very pillars of the sky will shake with the results of our war here. I ask again. Support me. Do not stand aside and let disaster consume more lives.*”
-\-Hoid on his opposition to Odium[209]
+\-Hoid on his opposition to Odium[205]
 
 
 Hoid is a mysterious worldhopper who has been alive since before the Shattering of Adonalsium and was present for that event. He has collected a variety of Invested items from around the cosmere and gained access to multiple Invested Arts. His long-term goals are unclear, but he is an adamant opponent of Odium's attempts to become the sole god of the cosmere. He has written to [[Frost\|Frost]], [[Endowment\|Endowment]], [[Autonomy\|Autonomy]], and [[Harmony\|Harmony]], hoping to enlist their help in dealing with Odium, though only Harmony has responded positively. He has some ability to manipulate [[Fortune\|Fortune]], which lets him learn where and when he needs to be to advance his goals, though he often doesn't know why being somewhere is important.
@@ -263,7 +261,7 @@ Hoid is a mysterious worldhopper who has been alive since before the Shattering 
 ### Worldhopping Groups
 #### The Seventeenth Shard
 >“*However, it seems to me that all things have been set up for a purpose, and if we—as infants—stumble through the workshop, we risk exacerbating, not preventing, a problem.*”
-\-Frost to Hoid on his non-intervention policy[215]
+\-Frost to Hoid on his non-intervention policy[211]
 
 
 The [[Seventeenth Shard\|Seventeenth Shard]] is a group of worldhoppers that seeks to research and study the various worlds of the cosmere without interfering in existing cultures. They believe the Shards separated for a reason and want to minimize the risk of conflict between the Shards. Frost may have some influence over them, either formally or informally. They are worried about Hoid, as they fear his actions on planets will exacerbate Shardic conflict and, from at least 1173 to 1175 on the [[/wiki/Roshar#Calendar]], unsuccessfully tried to hunt him down, though they have larger objectives as well.
@@ -289,7 +287,7 @@ Most, if not all, of the [[Five Scholars\|Five Scholars]] of Nalthis were worldh
 ## History
 ### Before the Shattering
 >“*It was a distant place where two lands meet and gods have died.*”
-\-Hoid on pre-Shattering Yolen.[247]
+\-Hoid on pre-Shattering Yolen.[243]
 
 
 At some point, the [[Dawnshard\|Dawnshards]] were used to create the cosmere.
@@ -310,13 +308,13 @@ After the Shattering, the new Vessels made some sort of agreement to not interfe
 
 ### Odium's Quest
 >“*One need only look at the aftermath of his brief visit to Sel to see proof of what I say. In case you have turned a blind eye to that disaster, know that Aona and Skai are both dead, and that which they held has been Splintered. Presumably to prevent anyone from rising up to challenge Rayse.*”
-\-Hoid on Odium in his letter to Frost[278][272]
+\-Hoid on Odium in his letter to Frost[274][268]
 
 
 Soon after the Shattering, or possibly even beforehand, the Vessel of Odium, Rayse, decided he wanted to become the strongest being in the cosmere. However, Odium is, by its nature, selfish and Rayse did not want the Intent of an additional Shard to make him into something else, so he instead decided to destroy the other Shards so that there would be no one left to challenge him. To do so, he developed a way to [[Splinter\|Splinter]] a Shard's power, which also results in the death of its Vessel.
 
 >“*He bears the weight of God's own divine hatred, separated from the virtues that gave it context. He is what we made him to be, old friend. And that is what he, unfortunately, wished to become.*”
-\-Frost on Odium in his reply to Hoid[282]
+\-Frost on Odium in his reply to Hoid[278]
 
 Odium's first target was [[Ambition\|Ambition]], as he feared that it would be a threat to him. However, while searching for Ambition, he encountered the Shards [[Devotion\|Devotion]] and [[Dominion\|Dominion]] on [[Sel\|Sel]] and attacked them, likely because he could argue they had violated the Vessel's pact to not interfere with each other. In the ensuing battle, Odium successfully splintered Devotion and Dominion and killed their Vessels, Aona and Skai. In order to ensure that no one could take up their Shards, he then somehow moved most of their Investiture from the Spiritual Realm into the Cognitive Realm, which made the [[Expanse of the Densities\|Selish Cognitive Realm]] incredibly dangerous and the Selish Invested Arts location-dependent.
 Sometime after he Splintered Devotion and Dominion, Odium finally found Ambition, who had settled in the [[Threnodite system\|Threnodite system]]. Odium attacked and mortally wounded Ambition, though the Shard fled and was ultimately Splintered elsewhere, in a battle with Odium and [[Mercy\|Mercy]]. These clashes resulted in a wound in the Spiritual Realm and left ripped-off chunks of Ambition's power in the Threnodite system, which twisted the people and planet of [[Threnody\|Threnody]].
@@ -354,13 +352,13 @@ This greater communication led to growing conflicts between planets, and the bir
 
 ## Development
 >“*During my unpublished days I wrote thirteen books, only one of which was a sequel. ... But I wanted to be writing big epics. This is what I always wanted to do; something like the Wheel of Time. So I began plotting a large, massive series where all these books were connected, so I could kind of "stealth" have a large series without the editors knowing I was sending them books from the same series. It was mostly just a thing for me, to help me do the writing I wanted to be doing. And then when publication came I continued to do that, and told the story behind the story.*”
-\-Brandon on the beginnings of the cosmere[346]
+\-Brandon on the beginnings of the cosmere[342]
 
 When Brandon was beginning to write and trying to get published, he loved gigantic epic fantasy series. He knew, however, that starting with a big series might not be the best idea. If he wrote four books in a series, and the first one didn't get published, he couldn't submit his sequels, so he decided instead to focus on standalone stories. However, he still loved the idea of a huge epic series, so he decided to create a "hidden" epic to link his novels together. Brandon had seen other authors who made a single universe for all their books, like Isaac Asimov, but didn't like how Asimov had to retcon and shoehorn things together to connect his books, and so wanted to build the cosmere from the beginning, so it would always be consistent.
 Some ideas that came into the worldbuilding of the cosmere came from Plato's theory of forms, which contributed to the development of [[Realmatic Theory\|Realmatic Theory]]. In this, the distinction of what is perceived as "ideal" and what is the true ideal is important: true ideals have much to do with the Spiritual Realm, while people's perception of ideals deals with the Cognitive Realm. Another influence is Spinoza, with the idea that God is in everything. Brandon also incorporated the idea of a "unifying theory of everything" from physics into the magic in the cosmere. All magics have underlying rules, and are derived from a single unified theory of magic.
 
 >“*I hope that people will stick with me for all these books, because I'll do a lot of them. But they will fit together in some really cool ways once they are all done. I think you'll be very very impressed, but that's a while off.*”
-\-Brandon on the cosmere[350]
+\-Brandon on the cosmere[346]
 
 The cosmere sequence has a clear story that Brandon wants to tell and is fairly firmly outlined as 35 novels, plus a variety of novellas and other works, with the [[Dragonsteel (series)\|Dragonsteel series]], [[Mistborn (series)\|Mistborn series]], and [[The Stormlight Archive\|The Stormlight Archive]] forming the core of that story. *Dragonsteel* will tell [[Hoid\|Hoid's]] backstory and the story of the [[Shattering of Adonalsium\|Shattering of Adonalsium]]; *Mistborn* will have four series, following [[Scadrial\|Scadrial]] from the [[Final Empire\|Final Empire]] to the development of faster-than-light travel and the interaction between the various planets; The Stormlight Archive will be split into two arcs of five books each and is the story of the clash between the people of [[Roshar\|Roshar]] and [[Odium\|Odium]]. Generally, knowledge of the cosmere as a whole will not be necessary until *Dragonsteel* and the final *Mistborn* trilogy, which are the beginning and the conclusion respectively of the cosmere sequence
 Brandon does not feel that the cosmere is restrictive to his writing. Though cosmere novels are intensive, as they require more thorough planning and continuity maintenance, Brandon also has an internal wiki and people like [[Peter Ahlstrom\|Peter]] and Karen Ahlstrom who help him keep the cosmere on track. When Brandon feels like he needs a break from the more stringent requirements of the cosmere, he'll turn to work on a less intensive novel or novella, which are almost always non-cosmere. If there is a concept he really wants to write but doesn't fit in the limitations of the cosmere, he moves it into a non-cosmere book. For example, *[[The Rithmatist\|The Rithmatist]]* started as a cosmere novel, and its magic takes many elements from cosmere magic, but Brandon decided that he did not want a version of Earth in the cosmere, and so moved it to its own universe.
@@ -397,20 +395,19 @@ Brandon does generally plan out which cosmere hints to give to fans, but sometim
 |*[[Rhythm of War\|Rhythm of War]]*|[[The Stormlight Archive\|The Stormlight Archive]] #4|[[Roshar\|Roshar]]|Novel|
 |**2022**|*[[The Lost Metal\|The Lost Metal]]*|[[/wiki/Mistborn (series)#Era 2]] #4|[[Scadrial\|Scadrial]]|Novel|
 |*[[White Sand\|White Sand omnibus]]*|Anthology|[[Taldain\|Taldain]]|Graphic Novel|
-|**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|Standalone Novel|[[Lumar\|Lumar]]|Novel|
-|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|Standalone Novel|[[Komashi\|Komashi]]|Novel|
+|**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])|[[Lumar\|Lumar]]|Novel|
+|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])|[[Komashi\|Komashi]]|Novel|
 |*[[The Sunlit Man\|The Sunlit Man]]*|Standalone Novel|[[Canticle\|Canticle]]|Novel|
 |**2024**|*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|[[Roshar\|Roshar]]|Novel|
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|Standalone Novel|[[First of the Sun\|First of the Sun]]|Novel|
 |*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.1|[[Roshar\|Roshar]]|Short Story|
 |*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.2|[[Roshar\|Roshar]]|Short Story|
+|**2026**|*[[The Fires of December\|The Fires of December]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])||Novel|
 
 ### Forthcoming
 For a complete list of possible future stories Brandon has mentioned, see [[Unpublished works\|Unpublished works]].
 The following are confirmed upcoming cosmere stories:
 
-**, series of illustrated of folktales within the cosmere.
-*[[The Fires of December\|The Fires of December]]*, a standalone novel the features [[Hoid\|Hoid]] trapped in an unpleasant situation.
 [[/wiki/Mistborn (series)#Era 3]], the next Mistborn series, set to take place when Scadrial has achieved a technology level similar to that of the 1980s. Brandon started writing the first book in January 2025 and plans to write all three books before the first one is released, like he did with Era 1.
 [[Elantris sequel\|Elantris 2]] and [[Elantris finale\|Elantris 3]], the sequels to *[[Elantris (book)\|Elantris]]*. Brandon plans to start writing these after he finishes the last book of *Mistborn* Era 3 and to release them in-between the releases of *Mistborn* Era 3 books.
 The second arc of [[The Stormlight Archive\|The Stormlight Archive]], which will consist of books six through ten of the series overall. In-world, book six will pick up about a decade after book five ends. Planned to be published after *Mistborn* Era 3 and possibly also the *Elantris* sequels are done.
@@ -429,6 +426,7 @@ Brandon has been somewhat evasive about the order of cosmere stories, so that th
 *[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*
 *[[The Stormlight Archive\|The Stormlight Archive]]* (first arc)
 [[Mistborn Era 2\|Mistborn Era 2]]
+*[[The Fires of December\|The Fires of December]]*
 *[[The Stormlight Archive\|The Stormlight Archive]]* (second arc)
 [[Mistborn Era 3\|Mistborn Era 3]]
 *[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*

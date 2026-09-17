@@ -153,7 +153,7 @@ He sees purpose as the spiritual conjunction that glues together human existence
 Chasmfriends
 [[Tress\|Tress]] of the [[Emerald Sea\|Emerald Sea]]
 [[Yumi\|Yumi]] and the [[Nikaro\|Nightmare Painter]]
-Fires of 
+ of 
 [[Fleet\|Fleet]]
 [[Linji\|Linji]]
 Queen [[Tsa\|Tsa]]
@@ -277,7 +277,7 @@ Hoid traveled to [[Taldain\|Taldain]], though for what reasons are unknown. He w
 
 ### The Restoration of Elantris and Theft of the Moon Scepter
 >“*There is beauty in every disaster, friend, if you are clever enough to find it.*”
-\-Hoid to a skaze[87]
+\-Hoid to a skaze[88]
 
 
 Hoid traveled to [[Sel\|Sel]], likely making use of [[Devotion's Perpendicularity\|Devotion's Perpendicularity]] in [[Arelon\|Arelon]]. Hoid spoke to the [[Skaze\|skaze]], and seems to have made some sort of agreement with them hinging on his desire to become an Elantrian with the restoration of [[Elantris (city)\|Elantris]]. Hoid disguised himself as a beggar, wrapped in bandages. He helped [[Sarene\|Sarene]] smuggle weapons into Elantris. Following the restoration of the city by Raoden, Hoid traveled to the Pool to meet a skaze. He removed his bandages, hoping to find himself transformed into an Elantrian, but the transformation had not occurred. The skaze ridiculed Hoid for his failure, but Hoid expressed his joy that secrets still remained unknown to him and then entered the Perpendicularity and transitioned to the [[Cognitive Realm\|Cognitive Realm]].
@@ -385,7 +385,7 @@ Due to him being more receptive towards his advances, he contacted Harmony again
 
 ### Post-Catacendric Scadrial
 >“*Oh, my lord, I know it, I do. I own the place, technically. Now, regarding those coins for old Hoid, my good lord...*”
-\-Hoid to Wax[221]
+\-Hoid to Wax[222]
 
 
 Hoid re-formed on Scadrial following his vaporization from a large cell culture maintained by [[Ulaam\|Ulaam]], confirming that their plan to pre-select where Hoid would regenerate was a success. Hoid reflected that this was the first time he was able to 'weaponize' the knowledge that his regeneration would always begin from the largest piece of tissue of himself that was still alive. This bypassed the strong Connection binding him to Roshar as a Surgebinder. Anticipating that something like that could happen, he had set up unspecified protections on Design; upon his revival on Scadrial soon after, he confirmed he could still Lightweave, but would be unable to summon Design as a Shardblade. Design was thus left alone on Roshar for some time. [[Ulaam\|Ulaam]] was able to convince him of the need to stay on Scadrial given the region of temporal distortion created around Roshar and the coming threat of Autonomy. Soon after, Hoid was hired as a coachman to the [[House Ladrian\|Ladrian]] estate.
@@ -394,7 +394,7 @@ Hoid's actions after this point are unclear. Hoid somehow obtained a coin-like [
 When Waxillium Ladrian walked up the path to Kelesina's mansion to attend a [[Kelesina Shores' party\|party]] with [[Steris Harms\|Steris Harms]], Hoid climbed out of the bushes, startling Wax, although Wax did not recognise Hoid as his carriage driver through his disguise. Wanting to reveal Kelsier's resurrection and identity as the Sovereign, Hoid looked for an opportunity to pass on the unsealed metalmind. He asked Wax for a few clips. Steris noticed Hoid's cologne and asked him if he was wearing cologne. Hoid was startled by her observation and claimed that he had been drinking perfume, as it had quite a kick. Steris told him that that was unhealthy and Wax advised Hoid that he should leave the private grounds. Hoid agreed but claimed that it was his property and again asked for coins. Wax gave him a banknote and told him again to leave the grounds. Hoid claimed it was far too much and that he wished to give Waxillium change. As Wax walked away, Hoid threw the coin at Wax's head, who caught it in midair. A groundsman then noticed Hoid and tried to chase him off. Hoid laughed and escaped back into the bushes again.
 
 >“*Carriage for you, sir?*”
-\-Hoid to Wax in the middle of the ocean[242]
+\-Hoid to Wax in the middle of the ocean[243]
 
 
 Hoid later became involved in the sting operation that Marasi ran in [[Bilming\|Bilming]] in 348 [[Catacendre\|PC]]. He had a silent interaction with [[Wan ShaiLu\|Moonlight]] from different trucks. Moonlight commented that she couldn't tell whether she was watching Hoid or if Hoid was watching her, but then resolved that they were both just keeping an eye on the same third parties. After Wax arrived in Bilming, and gave chase to [[Dumad\|Dumad]] he casually appeared in a sleek black car to give Wax a ride. In Bilming, he traded his harmonica with Wayne for a rat named [[Sir Squeekins\|Sir Squeekins]]. Since this event, he has been taking good care of Sir Squeekins. He also showed up to rescue Wax from the ocean in a small boat after the explosion of the [[Pewternaut\|Pewternaut]] A16.
@@ -433,7 +433,7 @@ Hoid visited the [[Grand Apparatus\|Grand Apparatus]] prior to his journeys with
 
 ### The Dynamic
 >“*We don't lead by running ahead with weapon raised. We lead from behind. By standing at the back of the wagon, and pushing.*”
-\-Hoid to Starling[57]
+\-Hoid to Starling[58]
 
 
 Hoid spent a number of years travelling the cosmere aboard the [[Dynamic Storyteller's Incredible Conveyance\|Dynamic Storyteller's Incredible Conveyance]], a small spaceship. He was the navigator on the crew. The *Dynamic* was crewed by misfits he had found all across the cosmere. His apprentice, [[Illistandrista\|Illistandrista]], also called Starling, was among these misfits. Notably, Starling is the niece of Frost. Hoid took her on as an apprentice after she challenged draconic authorities, as her sense of justice impressed him. Hoid and Starling got into a lot of tight scrapes together, some of these separate from the crew of the *Dynamic*. At some point, he dropped her into a volcano, although she doesn’t blame him for it. He eventually left the *Dynamic*, as he believed Starling could lead the crew without him. 
@@ -441,7 +441,7 @@ Shortly before the discovery of the [[Patji's Eye\|Drominad perpendicularity]], 
 By this era, Hoid was one of the most famous people in the entire cosmere, and was an outlaw in [[Silverlight\|Silverlight]]. He also owed significant debts to [[Xisisrefliel\|Xisisrefliel]].
 
 ## Relationships
-Due to his nature as a worldhopper, Hoid has met most of the main characters in the cosmere, as well as a large quantity of side characters.
+Due to his nature as a worldhopper, Hoid has interacted with many influential (both cosmerically and locally) individuals.
 
 ### The Shards
 Hoid's relationships with the various [[Vessel\|Vessels]] are varied, to say the least, ranging from hate and terror to respect and camaraderie.
@@ -467,7 +467,7 @@ Hoid's relationships with the various [[Vessel\|Vessels]] are varied, to say the
 
 
 >“*Hoid has too many issues to count. I wouldn’t trouble yourself with his situation. He’s nearly as deft at untying knots as he is at creating them.*”
-\-Ulaam to Tress on Hoid[252]
+\-Ulaam to Tress on Hoid[253]
 
 
 
@@ -511,6 +511,7 @@ Hoed
 The Trickster Aspect
 Mythwalker
 The Grand Jesk
+The Immortal Storyteller
 
 ## Speculation
 ### Worldsingers & Worldbringers

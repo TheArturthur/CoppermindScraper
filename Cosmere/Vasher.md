@@ -2,14 +2,16 @@
 |-|-|
 ||
 |**Spouse**|[[Shashara\|Shashara]]|
-|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Shardbearer\|Shardbearer]] |
-|**Titles**|Strifelover, Peacegiver the Blessed, Warbreaker the Peaceful|
+|**Abilities**|[[Returned\|Returned]], [[Awakener\|Awakener]], [[Worldhopper\|Worldhopper]], [[Cognitive Shadow\|Cognitive Shadow]], [[Hemalurgy\|Hemalurgist]], [[Shardbearer\|Shardbearer]] |
+|**Titles**|Strifelover, Peacegiver the Blessed, Warbreaker the Peaceful, The Prophet|
 |**Aliases**|Zahel, Kalad the Usurper, Talaxin, Tax|
 |**Profession**|Scholar, [[Ardent\|Ardent]], Swordmaster|
 |**Groups**|[[Five Scholars\|Five Scholars]]|
 |**Homeworld**|[[Nalthis\|Nalthis]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Warbreaker\|Warbreaker]]*|
+
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
 
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
@@ -32,6 +34,8 @@
 3 History. [[#History]] 
 
 3. [[#First years and Becoming a Returned]] 
+3. [[#Containing the Megalith]] 
+3. [[#Return to Nalthis]] 
 3. [[#The Manywar and Aftermath]] 
 3. [[#Pahn Kahl Rebellion]] 
 3. [[#Worldhopping to Roshar]] 
@@ -89,7 +93,16 @@ Vasher is a very skilled swordsman, with three hundred years of practice along w
 ## History
 ### First years and Becoming a Returned
 Vasher was born on Nalthis and eventually died and Returned. Like other Returned, he cannot remember anything of his life from before his Return. After he Returned, the [[Cult of the Returned\|Cult of the Returned]] named him Warbreaker the Peaceful and kept him alive by giving him Breath.
-He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]]. Vasher (then known as Talaxin) and [[Shashara\|Shashara]] created Nightblood some time after returning from [[Worldhopping\|Worldhopping]] to [[Roshar\|Roshar]], among other things, while they were both in love. He married Shashara shortly before he slew her with Nightblood. He killed her in order to prevent the knowledge of its creation from being disseminated.
+He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]].
+
+### Containing the Megalith
+Vasher traveled to  and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the .
+Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
+With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the . He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
+Months after arriving on the planet, he left.
+
+### Return to Nalthis
+Vasher (then known as Talaxin) and [[Shashara\|Shashara]] created Nightblood some time after returning from [[Worldhopping\|Worldhopping]] to [[Roshar\|Roshar]], among other things, while they were both in love. He married Shashara shortly before he slew her with Nightblood. He killed her in order to prevent the knowledge of its creation from being disseminated.
 
 ### The Manywar and Aftermath
 After the Five Scholars split, they all joined different sides in the [[Manywar\|Manywar]], each bringing different specialized knowledge to their chosen kingdoms.
@@ -98,16 +111,16 @@ He later had a change of heart, which was so confusing for people that they thou
 Kuth and Huth had already been destroyed, but the other kingdoms agreed to stop the Manywar thanks to Peacegiver's diplomacy.
 Peacegiver left a treasure of over fifty thousand Breaths with the first God King, to be kept safe but not used. He also left the Phantoms Invested with enough Breath to stay together but not move, ready to take action again with a sufficient influx of Breath.
 
-  Vasher, Vivenna and Nightblood
 ### Pahn Kahl Rebellion
+  Vasher, Vivenna and Nightblood
 At some point, Vasher misinterpreted Arsteel's motives in joining with Denth and killed him. Due to this, and Vasher's killing of Shashara, Denth and Vasher became enemies.
 Vasher used a trick to get himself imprisoned in the God King's palace. He escaped his cell and visited a rebel called [[Vahr\|Vahr]]. Vahr gave Vasher his Breath in exchange for a merciful death.
 Vasher found through a priest there was a political Hallandren group pushing for war against Idris, where the exiled royals lived. Looking for more information on the faction involved, he met with [[Bluefingers\|Bluefingers]], who gave him information that led him into the home of Mercystar, a Returned who was known for her involvement in politics, yet not all that influential. He broke into her palace; after disabling some guards and creating a Lifeless squirrel as a distraction, he was able to find a secret trapdoor.
 He found Vivenna was inadvertently working with Denth to create disturbances and vandalize the city, which was making the movement for war stronger. Because of this, he kidnapped Vivenna and took her to one of the slums, where he forced her to take Nightblood to test her heart. As Nightblood cannot tempt the hearts of those who are pure, she felt sick and dropped the sword, thereby passing the test and gaining his protection. She still believed, however, that Denth and his team were on her side and ran back to them, only to find out they were not what they seemed. Vivenna ran from them and ended up on the streets; eventually, Vasher found her and rescued her, using Nightblood to kill thugs who were threatening her.
 Vasher began taking Vivenna to meetings with members of the Idrian community of Hallandren; he had been trying and failing to convince them to stop the riots and avoid the war. Vivenna asked the Idrians to find a way to bring attention to their suffering without bringing hatred as well, and to become heroes to Idris. After that, they continued reaching different groups of people with the same speech in favor of stopping the war.
-Vivenna shared some of [[Denth\|Denth's]] plans with Vasher. This knowledge tipped him into finding the daughter of one of the priests who was kidnapped to turn her father in favor of the war. During this rescue, Vasher lost his temper and killed the thugs.
 
   Running through the God King's palace with <<Nightblood\|Nightblood>>
+Vivenna shared some of [[Denth\|Denth's]] plans with Vasher. This knowledge tipped him into finding the daughter of one of the priests who was kidnapped to turn her father in favor of the war. During this rescue, Vasher lost his temper and killed the thugs.
 Vivenna and Vasher went to the arena to watch the Hallandren vote on war. They found out that Siri was pregnant; at Vivenna's pleading, Vasher agreed to help save her. When he broke into the God King’s palace, he was ambushed by Denth’s mercenaries who captured him. When Vasher woke up, he was tied by his wrists to a hook in the ceiling of a stone room and tortured by Denth.
 Denth also had Nightblood thrown into a bay near T'Telir, but Nightblood was able to get himself retrieved; Vivenna found him and they went to find Vasher. Vivenna freed Vasher from his bonds and gave him a considerable amount of Breath. He began sword fighting Denth; he appeared to be losing, but was confident that he would be able to defeat Denth in the end. However, he ended up being thrown out the window before finishing the fight. Using Awakening, he survived and found Nightblood, which he used to kill a group of Lifeless that were sent to kill him. Nightblood consumed most of his Breath, but he was able to drop Nightblood before dying. Denth came in and asked to finish the duel. Vasher was at a disadvantage, but finished the battle using his secret maneuver: he transferred Breaths to Denth and took advantage of the resulting moment of shock to kill him.
 By the time Vasher found Vivenna again, the Pahn Kahl had already sent Hallandren’s Lifeless to attack Idris. They wanted both kingdoms to fight and be weakened, making it easier for them to gain their own liberty. Although Vasher felt hopeless about being able to stop the army, Vivenna found out Vasher's true identity and convinced him to give [[Susebron\|Susebron]] control of Kalad's Phantoms. Vasher showed himself as Returned and told Susebron how to activate the Phantoms.
@@ -115,14 +128,18 @@ The Lifeless were destroyed, and only a couple of the Phantoms were lost. Vasher
 
 ### Worldhopping to Roshar
   Training <<Adolin\|Adolin>>
-Vasher moved to Roshar, the only planet he had been to besides Nalthis. His main purpose in returning to Roshar was to have easier access to the [[Investiture\|Investiture]], in the form of [[Stormlight\|Stormlight]], that he needed in order to survive. He partially walked and partially took a vehicle to get from Nalthis to Roshar, making use of a caravan running between the two planets. He took on the name **Zahel**; he intentionally chose a name similar to the word "[[Nahel bond\|Nahel]]", which means "connection to the divine" in Alethi, to hint at his Returned nature. Zahel became aware of the [[Purelake\|Purelake]] at some point and told Nightblood about it and its "magic fish", though it is not known whether that happened during this trip or an earlier one. Due to a "falling out," Vasher was separated from Nightblood after arriving at Roshar.
+Vasher moved to Roshar. His main purpose in returning to Roshar was to have easier access to the [[Investiture\|Investiture]], in the form of [[Stormlight\|Stormlight]], that he needed in order to survive. He partially walked and partially took a vehicle to get from Nalthis to Roshar, making use of a caravan running between the two planets. He took on the name **Zahel**; he intentionally chose a name similar to the word "[[Nahel bond\|Nahel]]", which means "connection to the divine" in Alethi, to hint at his Returned nature. Zahel became aware of the [[Purelake\|Purelake]] at some point and told Nightblood about it and its "magic fish", though it is not known whether that happened during this trip or an earlier one. Due to a "falling out," Vasher was separated from Nightblood after arriving at Roshar.
 At some point, [[Gavilar\|Gavilar]] recruited him as a scholar, viewing him as a valued, secret possession. It was Zahel who provided him with the sphere of [[Anti-Voidlight\|anti-Voidlight]] that would pass on to [[Szeth\|Szeth]] after he assassinated the king.
 During the [[War of Reckoning\|War of Reckoning]], he served as ardent and swordmaster in the Kholin warcamp. With encouragement from Adolin, whom he had trained before, he became the swordmaster for Renarin Kholin.
 Zahel appreciated Renarin’s enthusiasm, obedience, and willingness to look foolish for the sake of training. He also offered to train Kaladin in using Shards and defending himself from Shardbearers in order to better protect the Kholins. He tested Kaladin by sparring with him; he recognized Kaladin's skill and tenacity, but still felt that he needed more training to be fully effective. Kaladin didn’t accept the offer at first, but came asking for it after the attempt on the king’s life; he brought three more men from Bridge Four to train with him. Most of the training was given by [[Ivis\|Ivis]], another ardent.
 During the [[Siege of Kholinar\|Siege of Kholinar]], Vivenna (now going by the name of Azure) met both Kaladin and Adolin. Before parting from them, she asked them to warn Zahel that she was looking for him.
 After Kaladin was asked to retire from the front lines, he asked Zahel if he could become a swordsmaster with the ardents. Zahel challenged him to a fight to test his skills, using Awakened cloths to assist him, while grilling Kaladin about his motivations to fight and his religious beliefs. Kaladin recognized his fighting style as being the same as Azure's, and told Zahel that she was looking for him; Zahel was unconcerned, as she'd have to get through [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] first. Zahel didn't let Kaladin join the ardents because he realized that Kaladin still loved the fight. He then showed Kaladin a fossil and explained that he was a [[Cognitive Shadow\|Cognitive Shadow]] like the [[Heralds\|Heralds]] and the [[Fused\|Fused]], and that the only way to kill the Fused would be with a weapon that could unravel their souls. At some point, Vasher also visited Szeth and Nightblood, mostly to see the sword again.
+
+>“*“I did care. Maybe I can again. It’s a skill that a man must relearn.*”
+\-Vasher talking to December[33]
+
 He could not help Kaladin during the occupation of Urithiru, because he had been captured by [[Axindweth\|Axindweth]] so she could take his Breath. She tortured him in a room lined with aluminum to avoid the Sibling detecting it, and he was stripped naked to stop him from using a Command to bring his clothes to life. She eventually offered to trade half of his Breaths, but he refused, so she began using a painrial on him. The Sibling notified [[Lift\|Lift]] that something was happening and she overheard the Aviar inside the room. Lift used Abrasion to trip Axindweth, and freed Zahel. Zahel remarks that she needs a teacher, and after some consideration, Lift agrees.
-At some point, Vasher discovered the existence of Vivenna's Shardblade.
+At some point, Vasher discovered the existence of Vivenna's Shardblade. At some point while experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]] Vasher encountered  who told him of the current crisis on Miral. Vasher promised to try to help despite not being able to leave Roshar. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
 
 ## Relationships
 ### Denth
@@ -140,7 +157,7 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
   With Nightblood
 ### Nightblood
 >“*Sneaking, Vasher? You’re terrible at sneaking.*”
-\-Nightblood to Vasher[41]
+\-Nightblood to Vasher[53]
 
 
 Vasher and Shashara created [[Nightblood\|Nightblood]] during the days when they were in love based on the [[Shardblade\|Shardblades]] they had seen on [[Roshar\|Roshar]]. He renamed the sword to Nightblood after using it to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.

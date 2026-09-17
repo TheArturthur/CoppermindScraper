@@ -99,7 +99,7 @@ For a full list, see :Category: Ghostbloods.
 [[Dean\|Dean]]: A member based in Elendel and an important chemist who assists in the production of the Ghostbloods' aluminum.
 ## History
 ### Formation
-The Ghostbloods were formed by Kelsier on Scadrial at some point between the Scadrian year 1 [[Catacendre\|PC]] and the Rosharan year 1168. During this time, the Ghostbloods entered a period of recruitment and exploration.
+The Ghostbloods were formed by Kelsier on Scadrial at some point between the Scadrian year 1 [[Catacendre\|PC]] and the Rosharan year 1168. During this time, the Ghostbloods entered a period of recruitment and exploration. They also began trying to find ways to create [[Allomancy\|Mistborns]].
 
 ### Dealings with Gavilar
 Kelsier traded information, including information about the heralds, with [[Gavilar\|Gavilar]] in exchange for handing Kalak over to his agents.
