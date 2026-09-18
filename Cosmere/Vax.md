@@ -195,7 +195,7 @@ The [[Sleepless\|Sleepless]] homeworld is not any other known world.
 The planet the [[Fay\|Fay]] (a type of Invested being Hoid refers to, similar to [[Seon\|seons]] or [[Hijo\|spirits]]) originate from.
 The homeworld of a reptilian species, a member of which served [[Riina\|Riina]] on Lumar by impersonating [[Charlie\|Charlie]] 
 The homeworld of a species allied with the [[Malwish\|Malwish]] empire, who are accustomed to temperatures high enough to cook a human 
-The planet that , a type of [[Cognitive Shadow\|Cognitive Shadow]], originate from.
+The planet that [[Creed Wraith\|Creed Wraiths]], a type of [[Cognitive Shadow\|Cognitive Shadow]], originate from.
 There are planets which are the source of mysterious artifacts and Investiture:
 
 The planet where Hoid obtained the , a "scary" magic system that lets him know where he needs to be.

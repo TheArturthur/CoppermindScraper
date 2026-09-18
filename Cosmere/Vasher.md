@@ -96,7 +96,7 @@ Vasher was born on Nalthis and eventually died and Returned. Like other Returned
 He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]].
 
 ### Containing the Megalith
-Vasher traveled to  and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the .
+Vasher traveled to  and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
 Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
 With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the . He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
 Months after arriving on the planet, he left.

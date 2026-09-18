@@ -153,7 +153,7 @@ He sees purpose as the spiritual conjunction that glues together human existence
 Chasmfriends
 [[Tress\|Tress]] of the [[Emerald Sea\|Emerald Sea]]
 [[Yumi\|Yumi]] and the [[Nikaro\|Nightmare Painter]]
- of 
+[[Zuhel bond\|Fires]] of 
 [[Fleet\|Fleet]]
 [[Linji\|Linji]]
 Queen [[Tsa\|Tsa]]

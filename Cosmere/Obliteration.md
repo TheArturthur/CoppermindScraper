@@ -12,6 +12,7 @@
 **Obliteration** is a [[High Epic\|High Epic]] who believes that it is his duty to destroy all of humanity.
 Along with [[Steelheart (Epic)\|Steelheart]] and [[Night's Sorrow\|Night's Sorrow]], he is among the most feared and powerful of Epics, but unlike Steelheart, he is currently not a tyrant. He is, however, a ruthless killer, who has made it his mission to kill *everyone* because he believes that all humans are corrupt and have the seed of the Epic inside of them. Five years after the rise of [[Calamity (Epic)\|Calamity]], he conquered his fear and was thus able to free himself of his corruption, though this did not influence his morals - he remained a ruthless destroyer. While he did rule Houston at one point, he ultimately decided to melt the entire city, killing the entire town's population in the process.
 
+ 
 ## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
