@@ -45,9 +45,10 @@ The Skybreakers are [[Surgebinder\|Surgebinders]] who use the [[Surge\|Surges]] 
 4. [[#True Desolation]] 
 
 
-5 Notable Skybreakers. [[#Notable Skybreakers]] 
-6 Trivia. [[#Trivia]] 
-7 Notes. [[#Notes]] 
+5 Space Age. [[#Space Age]] 
+6 Notable Skybreakers. [[#Notable Skybreakers]] 
+7 Trivia. [[#Trivia]] 
+8 Notes. [[#Notes]] 
 
 
 ## Philosophy
@@ -150,6 +151,9 @@ In approximately 1153. Nale began his crusade to stop other orders from bonding 
   Skybreakers dealing justice at the Purelake
 Right at the onset of the [[True Desolation\|True Desolation]], Nale recruited [[Szeth\|Szeth]] to join the Skybreakers. Despite the [[Everstorm\|Everstorm's]] arrival, he remained in denial about the failure of his order's mission for weeks until a confrontation with [[Lift\|Lift]] showed him the truth. Nale left the Skybreakers to train as normal. They continued to remain uncertain about the True Desolation's arrival in his absence, though they trained as if it were true. The training included initiates hunting down criminals that had escaped from a prison on the [[Purelake\|Purelake]]. The highspren were incredibly impressed by Szeth's performance in this test, allowing him to swear the oaths quickly. The squires practiced their combat and Gravitation abilities with an exercise that involved flying around and attempting to hit their fellow squires with bags of colored powder.
 When Nale returned, he told the Skybreakers the truth of the Recreance and gave them a choice. As the original owners of the land, Nale claimed that the law of the land was that of the [[Singer\|singers]]. He and most of his order decided to follow [[Odium\|Odium]] and the singers' with their return to Roshar. The transition was easiest for those of the order who had sworn to follow Nale directly. [[Szeth\|Szeth]] was one of the few known Skybreakers to not serve Odium. He instead swore to follow [[Dalinar Kholin\|Dalinar Kholin]], who acknowledged him as the Skybreaker present when the Radiants assembled following the summoning of [[Honor's Perpendicularity\|Honor's Perpendicularity]].
+
+## Space Age
+During the space age, a Skybreaker emersary from Roshar came to Drominad to negociate the sale of Avair. He offered terms allowing the people of Drominad to keep one bird out of every one hundred. After one of the counsel members reacted violently the Skybreaker summoned his shardblade in the form of a gun and asked if the local legal codes allowed him to use lethal force in response to a threat on his life. After being informed that it was not, he left, flying away.
 
 ## Notable Skybreakers
 

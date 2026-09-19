@@ -139,7 +139,7 @@ After Kaladin was asked to retire from the front lines, he asked Zahel if he cou
 \-Vasher talking to December[33]
 
 He could not help Kaladin during the occupation of Urithiru, because he had been captured by [[Axindweth\|Axindweth]] so she could take his Breath. She tortured him in a room lined with aluminum to avoid the Sibling detecting it, and he was stripped naked to stop him from using a Command to bring his clothes to life. She eventually offered to trade half of his Breaths, but he refused, so she began using a painrial on him. The Sibling notified [[Lift\|Lift]] that something was happening and she overheard the Aviar inside the room. Lift used Abrasion to trip Axindweth, and freed Zahel. Zahel remarks that she needs a teacher, and after some consideration, Lift agrees.
-At some point, Vasher discovered the existence of Vivenna's Shardblade. At some point while experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]] Vasher encountered  who told him of the current crisis on Miral. Vasher promised to try to help despite not being able to leave Roshar. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
+At some point, Vasher discovered the existence of Vivenna's Shardblade. At some point while experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]] Vasher encountered [[December\|December]] who told him of the current crisis on Miral. Vasher promised to try to help despite not being able to leave Roshar. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
 
 ## Relationships
 ### Denth
