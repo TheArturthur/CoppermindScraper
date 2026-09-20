@@ -49,7 +49,7 @@ There are hundreds of inhabited star systems in the cosmere. But even beyond the
 |[[Drominad system\|Drominad system]]|**[[First of the Sun\|First of the Sun]]**, an ocean planet filled with deadly tests, the source of the [[Aviar\|Aviar]] and the [[Navigator\|Navigators]].|
 |*unknown*|The **[[Grand Apparatus\|Grand Apparatus]]**, a mechanical world made of constantly moving rooms, ruled by the [[Sleepless\|Sleepless]].|
 |*unknown*|**[[Lumar\|Lumar]]**, where twelve moons deposit [[Aether spores\|Aether spores]] on the planet to create seas.|
-|*unknown*|****, a planet where rivers of blood flow from the corpse of an [[Evil\|Eidolith]].|
+|*unknown*|**[[Miral\|Miral]]**, a planet where rivers of blood flow from the corpse of an [[Evil\|Eidolith]].|
 |[[Nalthian System\|Nalthian System]]|**[[Nalthis\|Nalthis]]**, home of [[Endowment\|Endowment]], [[BioChromatic Breath\|BioChromatic Breath]], and [[Awakening\|Awakening]].|
 |[[Scadrian system\|Scadrian system]]|**[[Scadrial\|Scadrial]]**, a world created by [[Ruin\|Ruin]] and [[Preservation\|Preservation]], home of the [[Metallic Arts\|Metallic Arts]].|
 |[[Selish system\|Selish system]]|**[[Sel\|Sel]]**, with three isolated supercontinents and many regional magic systems powered by the remains of [[Dominion\|Dominion]] and [[Devotion\|Devotion]].|

@@ -133,6 +133,7 @@ Reversers are created in a similar manner to conjoiners. The two halves are then
 
 #### Freechairs
 Freechairs are mobility devices that hover by being vertically reverse coupled to a heavy object (an anchor which is allowed to fall a short distance) but remains laterally uncoupled allowing for free motion when pushed. Rushu notes that the chair's rotational motion remains coupled, but believes it would be possible to fix that upon further refinement.
+[[Scadrian\|Scadrians]] have their own variant of the freechair based on [[Malwish\|Malwish]] airships using [[Iron\|ironskimming]] [[Medallion\|medallions]] and [[Steel\|steelpushing]] [[Primer cube\|primer cubes]].
 
 ### Warning fabrials
 Warning fabrials detect things and give notice to the user. Their range depends on the amount of Stormlight infused into its fabrial-gem.

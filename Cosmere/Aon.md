@@ -705,7 +705,7 @@ Aon Rao is also one of the constellations in the Arelene night sky.
 >“*Punishment, Retribution*”
 \-Ars Arcanum
 
-This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]].
+This Aon was known at least as far away as the [[Rose Empire\|Rose Empire]]. It is inscribed on the base of the [[Ever-Slaying Sword\|Ever-Slaying Sword]].
 *Examples:* [[Dreok Crushthroat\|Dreok Crushthroat]], [[Reod\|Reod]]
 
 ### Rii
@@ -806,7 +806,7 @@ Aon Shao can be used to create illusions that are tied to pieces of clothing. To
 
 
  >“*Mathematics*”
-\-[25]
+\-[26]
 
 ### Tae
 
@@ -875,7 +875,7 @@ In [[Tress of the Emerald Sea\|Tress of the Emerald Sea]], one of the paintings 
 There are most likely undiscovered Aons.
 Anything possible in the [[Cosmere\|Cosmere]] can be replicated using [[AonDor\|AonDor]], with the right Aons, though certain injections of [[Investiture\|Investiture]] may be required. 
 At least some of the Sel constellations are named after major Aons, such as [[/wiki/Aon#Rao]] and [[/wiki/Aon#Ene]].
-In [[The Fires of December\|The Fires of December]], one of  paintings shows Aon Reo on the head of the  where it supposedly kept the large spike from being removed from the heart it pierced. This specific Aon is not specified in the text itself.
+In [[The Fires of December\|The Fires of December]], one of  paintings shows Aon Reo on the head of the [[Ever-Slaying Sword\|Ever-Slaying Sword]] where it supposedly kept the large spike from being removed from the heart it pierced. This specific Aon is not specified in the text itself.
 
 
 https://coppermind.net/wiki/Aon

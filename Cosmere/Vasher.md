@@ -29,6 +29,8 @@
 2. [[#Returned]] 
 2. [[#Awakening]] 
 2. [[#Swordsmanship]] 
+2. [[#Connection]] 
+2. [[#Other Invested Arts]] 
 
 
 3 History. [[#History]] 
@@ -90,15 +92,25 @@ He has not figured out how to Awaken using Stormlight.
 
 Vasher is a very skilled swordsman, with three hundred years of practice along with his Returned speed and strength. He could reasonably beat anyone alive in a fair sword fight. Though he has admitted that he is not the best swordsman because his temper gets in the way, his ingenuity in combat gives him an edge. Denth states that Vasher was not a duelist, though this is likely in comparison to the other [[Five Scholars\|Five Scholars]], who are leagues above any mortal in fighting prowess. He is open to using "cheap tricks" in combat, such as transferring Breaths to stun his opponent, to make up for any skill gaps in a duel. A clear indicator of his sword fighting prowess is that on Roshar he is a highly sought-after [[Alethi\|Alethi]] weapons-master, having directly trained both of the Kholin children and [[Kaladin\|Kaladin]] in the use of and defense against [[Shardblade\|Shardblades]]. His familiarity with wielding Shardblades presumably was honed by using Nightblood, who is similar to a very powerful Shardblade.
 
+### Connection
+>“*Why are you in the Spiritual Realm, hating me and invading my dreams with your Connection?”*”
+\-Vasher to December[28]
+
+
+Vasher has the ability to interface with the [[Spiritual Realm\|Spiritual Realm]] while sleeping. There he can communicate with people with enough [[Connection\|Connection]]. This might be one of the reasons he has trouble sleeping.
+
+### Other Invested Arts
+Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor]] and [[Hemalurgy\|Hemalurgy]] to combine those with Awakening in order to craft the [[Ever-Slaying Sword\|Ever-Slaying Sword]].
+
 ## History
 ### First years and Becoming a Returned
 Vasher was born on Nalthis and eventually died and Returned. Like other Returned, he cannot remember anything of his life from before his Return. After he Returned, the [[Cult of the Returned\|Cult of the Returned]] named him Warbreaker the Peaceful and kept him alive by giving him Breath.
 He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]].
 
 ### Containing the Megalith
-Vasher traveled to  and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
+Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
 Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
-With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the . He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
+With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
 Months after arriving on the planet, he left.
 
 ### Return to Nalthis
@@ -136,7 +148,7 @@ During the [[Siege of Kholinar\|Siege of Kholinar]], Vivenna (now going by the n
 After Kaladin was asked to retire from the front lines, he asked Zahel if he could become a swordsmaster with the ardents. Zahel challenged him to a fight to test his skills, using Awakened cloths to assist him, while grilling Kaladin about his motivations to fight and his religious beliefs. Kaladin recognized his fighting style as being the same as Azure's, and told Zahel that she was looking for him; Zahel was unconcerned, as she'd have to get through [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] first. Zahel didn't let Kaladin join the ardents because he realized that Kaladin still loved the fight. He then showed Kaladin a fossil and explained that he was a [[Cognitive Shadow\|Cognitive Shadow]] like the [[Heralds\|Heralds]] and the [[Fused\|Fused]], and that the only way to kill the Fused would be with a weapon that could unravel their souls. At some point, Vasher also visited Szeth and Nightblood, mostly to see the sword again.
 
 >“*“I did care. Maybe I can again. It’s a skill that a man must relearn.*”
-\-Vasher talking to December[33]
+\-Vasher talking to December[28]
 
 He could not help Kaladin during the occupation of Urithiru, because he had been captured by [[Axindweth\|Axindweth]] so she could take his Breath. She tortured him in a room lined with aluminum to avoid the Sibling detecting it, and he was stripped naked to stop him from using a Command to bring his clothes to life. She eventually offered to trade half of his Breaths, but he refused, so she began using a painrial on him. The Sibling notified [[Lift\|Lift]] that something was happening and she overheard the Aviar inside the room. Lift used Abrasion to trip Axindweth, and freed Zahel. Zahel remarks that she needs a teacher, and after some consideration, Lift agrees.
 At some point, Vasher discovered the existence of Vivenna's Shardblade. At some point while experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]] Vasher encountered [[December\|December]] who told him of the current crisis on Miral. Vasher promised to try to help despite not being able to leave Roshar. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
@@ -157,7 +169,7 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
   With Nightblood
 ### Nightblood
 >“*Sneaking, Vasher? You’re terrible at sneaking.*”
-\-Nightblood to Vasher[53]
+\-Nightblood to Vasher[55]
 
 
 Vasher and Shashara created [[Nightblood\|Nightblood]] during the days when they were in love based on the [[Shardblade\|Shardblades]] they had seen on [[Roshar\|Roshar]]. He renamed the sword to Nightblood after using it to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.

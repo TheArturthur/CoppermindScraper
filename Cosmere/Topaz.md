@@ -13,7 +13,7 @@
 
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Sunlit Man\|The Sunlit Man]]*, and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
+> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[The Sunlit Man\|The Sunlit Man]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[The Fires of December\|The Fires of December]]*!Be aware that in its current state, it may not include all additional content yet.
 
 This article is about the cosmere character. For the Cytoverse character, see [[Hoid (Riftwake)\|Hoid (Riftwake)]].
 >“*And while I am your friend, please understand that our goals do not completely align. You must not trust yourself with me. If I have to watch this world crumble and burn to get what I need, I will do so. With tears, yes, but I would let it happen.*”
@@ -94,6 +94,7 @@ This article is about the cosmere character. For the Cytoverse character, see [
 
 
 3. [[#Post-Catacendric Scadrial]] 
+3. [[#Miral]] 
 3. [[#Bet with the Sorceress of Lumar]] 
 3. [[#Meeting with Sigzil on Canticle]] 
 3. [[#Frozen on Komashi]] 
@@ -398,7 +399,10 @@ When Waxillium Ladrian walked up the path to Kelesina's mansion to attend a [[Ke
 
 
 Hoid later became involved in the sting operation that Marasi ran in [[Bilming\|Bilming]] in 348 [[Catacendre\|PC]]. He had a silent interaction with [[Wan ShaiLu\|Moonlight]] from different trucks. Moonlight commented that she couldn't tell whether she was watching Hoid or if Hoid was watching her, but then resolved that they were both just keeping an eye on the same third parties. After Wax arrived in Bilming, and gave chase to [[Dumad\|Dumad]] he casually appeared in a sleek black car to give Wax a ride. In Bilming, he traded his harmonica with Wayne for a rat named [[Sir Squeekins\|Sir Squeekins]]. Since this event, he has been taking good care of Sir Squeekins. He also showed up to rescue Wax from the ocean in a small boat after the explosion of the [[Pewternaut\|Pewternaut]] A16.
-Following his actions on Scadrial, Hoid intended to find [[Valor\|Valor]] in order to assist the people of Roshar to resist Retribution.
+
+  Reduced to a living flame
+### Miral
+Following his actions on Scadrial, Hoid intended to find [[Valor\|Valor]] in order to assist the people of Roshar to resist Retribution. Knowing she had once influenced the world of [[Miral\|Miral]], he traveled there to seek a lead on her whereabouts. He spent a night at the inn of the town of ; he manipulated the [[Spiritual Realm\|Spiritual Realm]] while there, which inadvertently caused [[December\|December]] to experience a realistic vision of a possible lifetime. Unaware of this having happened, he then traveled to the capital of , , where he attempted to infiltrate Valor's temple there, unaware of a trap she had set at its entrance. This set his soul aflame (which Hoid likened to a phenomenon from [[Ashyn\|Ashyn]] known as ), caused his body to burn up, and nearly destroyed him. His healing abilities caused him to exist for a period as a living flame, able to communicate but lacking much of his memory. Some days later, he realized he needed to suppress his abilities briefly to starve the flame and then allow his body to reconstitute. He then properly met December and learned of the vision she experienced that night; he assisted her and her allies, primarily by inducing a second, deliberate, Spiritual vision that allowed her to gain expertise in [[Witchcraft\|Witchcraft]] and the control of demons. This allowed her to bond with her personal demon, , and control the [[Megalith\|Megalith]] in turn. With the situation stable, Hoid attempted to enter the temple a second time (having no memory of the trap) and was immolated again (but rescued himself more easily this time). Trying a different approach, he tricked December's priestess friend  into describing the temple's murals for him; these depicted various worlds that Valor had visited, from which he deduced he needed to search for three worlds where dragons ruled.
 
   In <<Ulaam\|Ulaam's>> lab
 ### Bet with the Sorceress of Lumar
@@ -467,7 +471,7 @@ Hoid's relationships with the various [[Vessel\|Vessels]] are varied, to say the
 
 
 >“*Hoid has too many issues to count. I wouldn’t trouble yourself with his situation. He’s nearly as deft at untying knots as he is at creating them.*”
-\-Ulaam to Tress on Hoid[253]
+\-Ulaam to Tress on Hoid[259]
 
 
 

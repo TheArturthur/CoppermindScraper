@@ -208,7 +208,7 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 |***Unknown***|[[Dhatri\|Dhatri]]|*Unknown*|*None (Referenced in *[[The Lost Metal\|The Lost Metal]]* and *[[Isles of the Emberdark\|Isles of the Emberdark]]*)*||
 |**[[Drominad system\|Drominad System]]**|[[First of the Sun\|First of the Sun]]|[[Patji (being)\|Patji]] (Avatar of [[Autonomy\|Autonomy]])|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||
 |***Unknown***|[[Lumar\|Lumar]]|*Unknown*|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||
-|***Unknown***||[[Valor\|Valor]]|*[[The Fires of December\|The Fires of December]]*||
+|***Unknown***|[[Miral\|Miral]]|[[Valor\|Valor]]|*[[The Fires of December\|The Fires of December]]*||
 |**[[Nalthian system\|Nalthian System]]**|[[Nalthis\|Nalthis]]|[[Endowment\|Endowment]]|*[[Warbreaker\|Warbreaker]]*, *[[Nightblood (book)\|Nightblood]]* (unpublished)||
 |**[[Rosharan system\|Rosharan System]]**|[[Ashyn\|Ashyn]]|[[Honor\|Honor]], [[Odium\|Odium]] ([[Night of Sorrows\|combined]] as [[Retribution\|Retribution]])[[Cultivation\|Cultivation]] (until the [[Night of Sorrows\|Night of Sorrows]])|[[The Stormlight Archive\|The Stormlight Archive]]||
 |[[Braize\|Braize]]|
@@ -231,7 +231,7 @@ The [[Rosharan system\|Rosharan system]] contains three planets of note. **[[Ash
 ### Monoshardic Systems
 The planet **[[Taldain\|Taldain]]** is tidally locked between two stars, a blue-white supergiant and a white dwarf. The side of the planet facing the former, [[Dayside\|Dayside]], is a vast desert where Investiture arrives from the light of the star. [[Darkside\|Darkside]] faces the white dwarf, leaving it in perpetual twilight; many things there fluoresce in ultraviolet light. Its [[Shard\|Shard]], [[Autonomy\|Autonomy]], keeps the planet isolated from the rest of the cosmere.
 The [[Drominad system\|Drominad system]] is home to several planets, all of which have water as a dominant feature. Three of them are inhabited by humans, the most of any planetary system in the cosmere at the time Khriss wrote her essay on the system. The innermost planet, **[[First of the Sun\|First of the Sun]]** has a [[Perpendicularity\|perpendicularity]], though the region around it in the Physical Realm is incredibly dangerous, and is home to [[Patji (being)\|Patji]], an avatar of Autonomy.
-**** is one of several planets influenced by the Shard [[Valor\|Valor]]. It is home to several [[Evil\|negative-Investiture entities]] in both the Physical and Cognitive Realms, which the people of Miral sometimes [[Zuhel bond\|bond]] with.
+**[[Miral\|Miral]]** is one of several planets influenced by the Shard [[Valor\|Valor]]. It is home to several [[Evil\|negative-Investiture entities]] in both the Physical and Cognitive Realms, which the people of Miral sometimes [[Zuhel bond\|bond]] with.
 **[[Nalthis\|Nalthis]]** is a world of color. Color is needed to fuel its magic system, [[Awakening\|Awakening]], and those with large amounts of [[Breath\|Breath]] will enhance the colors around them and can see perfect shades of colors. When someone dies, [[Endowment\|Endowment]], the resident Shard, occasionally sends their [[Cognitive Shadow\|Cognitive Shadow]] back as a [[Returned\|Returned]] to prevent a tragedy they foresee after their death.
 **[[Threnody\|Threnody]]** is a planet with two principal parts: the [[Fallen World\|Fallen World]], which is under the control of an unknown entity called the [[Evil\|Evil]] that is so dangerous that everyone was forced to leave, and the [[Forests of Hell\|Forests of Hell]], which is home to dangerous [[Cognitive Shadow\|Cognitive Shadows]] known as [[Shade\|Shades]]. The system used to be home to the Shard [[Ambition\|Ambition]], whose Splintering has severely warped planet.
 The [[UTol system\|UTol system]] is located near where the Shard [[Virtuosity\|Virtuosity]] Splintered herself and home to two habitable planets. The eponymous planet of **[[UTol\|UTol]]** is a water-dominated planet inhabited by [[Sho Del\|Sho Del]] that seems to be well-known in the cosmere by the space age. Its sister planet **[[Komashi\|Komashi]]** is home to humans and [[Splinter\|Splinters]] of Virtuosity known as [[Hijo\|hijo]]; before the destruction of the [[Father machine\|father machine]], it was notable for an eternal [[Shroud\|shroud]] of black Investiture covering the planet.
@@ -402,7 +402,7 @@ Brandon does generally plan out which cosmere hints to give to fans, but sometim
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|Standalone Novel|[[First of the Sun\|First of the Sun]]|Novel|
 |*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.1|[[Roshar\|Roshar]]|Short Story|
 |*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.2|[[Roshar\|Roshar]]|Short Story|
-|**2026**|*[[The Fires of December\|The Fires of December]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])||Novel|
+|**2026**|*[[The Fires of December\|The Fires of December]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])|[[Miral\|Miral]]|Novel|
 
 ### Forthcoming
 For a complete list of possible future stories Brandon has mentioned, see [[Unpublished works\|Unpublished works]].
