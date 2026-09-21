@@ -19,9 +19,8 @@ On March 3, 2022, Brandon released the first five chapters along with some brief
 4 Development. [[#Development]] 
 5 Cover Gallery. [[#Cover Gallery]] 
 6 Interior Art. [[#Interior Art]] 
-7 Trivia. [[#Trivia]] 
-8 Statistical Analysis. [[#Statistical Analysis]] 
-9 Notes. [[#Notes]] 
+7 Statistical Analysis. [[#Statistical Analysis]] 
+8 Notes. [[#Notes]] 
 
 
 ## Synopsis
@@ -56,13 +55,12 @@ The [[Duke\|duke]]
 Along with the other secret projects, Brandon wrote *Tress of the Emerald Sea* in secret, telling no one except his wife, for whom it was a gift. Since he wasn't doing any touring in 2020, he had more writing time, and so *Tress* was created along with four other books. He surprised his team with them all in late 2021.
 The story was directly inspired by **, more specifically a watch party of it that Brandon had with his wife and kids. During the movie, Emily was dissatisfied with Princess Buttercup's passive attitude, eventually asking why she sat and did nothing when her love was kidnapped by pirates. This gave Brandon the idea of writing a story similar in premise and tone to *Princess Bride*, but one in which the girl does set out to rescue her love.
 The setting of Lumar was a combination of two factors: Brandon's desire to properly introduce aethers into the [[Cosmere\|cosmere]], and his fascination with , the process by which granular matter such as sand -- or, in this case, spores -- begins to behave like a liquid under the right circumstances. The characters of Charlie and Tress, while not direct self-inserts, have some personality traits taken from Brandon and Emily.
+The book was illustrated by [[Howard Lyon\|Howard Lyon]].
 
 ## Cover Gallery
 For a cover gallery of Tress of the Emerald Sea, see [[Tress of the Emerald Sea/Covers\|/Covers]].
 ## Interior Art
 For a gallery of the book's interior art, see [[Tress of the Emerald Sea/Interior art\|/Interior art]].
-## Trivia
-The book is illustrated by [[Howard Lyon\|Howard Lyon]].
 ## Statistical Analysis
 For a full statistical analysis, see [[Tress of the Emerald Sea/Statistical analysis\|/Statistical analysis]].
 *Tress of the Emerald Sea* consists of sixty-four chapters and one epilogue. It has a total word count of 107,227.
