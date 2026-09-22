@@ -19,7 +19,7 @@
 \-Vasher to Vivenna[2]
 
 
-**Vasher**, **Kalad the Usurper**, **Strifelover**, **Peacegiver the Blessed**, **Talaxin**, **Zahel**, or **Warbreaker the Peaceful** is a [[Returned\|Returned]] from [[Nalthis\|Nalthis]]. He helped create the [[Awakening\|Awakened]] sword [[Nightblood\|Nightblood]] and is one of the [[Five Scholars\|Five Scholars]].
+**Vasher**, **Kalad the Usurper**, **Strifelover**, **Peacegiver the Blessed**, **The Prophet**, **Talaxin**, **Zahel**, or **Warbreaker the Peaceful** is a [[Returned\|Returned]] from [[Nalthis\|Nalthis]]. He helped create the [[Awakening\|Awakened]] sword [[Nightblood\|Nightblood]] and is one of the [[Five Scholars\|Five Scholars]].
 
 ## Contents
 
@@ -36,9 +36,9 @@
 3 History. [[#History]] 
 
 3. [[#First years and Becoming a Returned]] 
-3. [[#Containing the Megalith]] 
 3. [[#Return to Nalthis]] 
 3. [[#The Manywar and Aftermath]] 
+3. [[#Containing the Megalith]] 
 3. [[#Pahn Kahl Rebellion]] 
 3. [[#Worldhopping to Roshar]] 
 
@@ -107,21 +107,21 @@ Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor
 Vasher was born on Nalthis and eventually died and Returned. Like other Returned, he cannot remember anything of his life from before his Return. After he Returned, the [[Cult of the Returned\|Cult of the Returned]] named him Warbreaker the Peaceful and kept him alive by giving him Breath.
 He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]].
 
-### Containing the Megalith
-Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
-Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
-With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
-Months after arriving on the planet, he left.
-
 ### Return to Nalthis
 Vasher (then known as Talaxin) and [[Shashara\|Shashara]] created Nightblood some time after returning from [[Worldhopping\|Worldhopping]] to [[Roshar\|Roshar]], among other things, while they were both in love. He married Shashara shortly before he slew her with Nightblood. He killed her in order to prevent the knowledge of its creation from being disseminated.
 
 ### The Manywar and Aftermath
 After the Five Scholars split, they all joined different sides in the [[Manywar\|Manywar]], each bringing different specialized knowledge to their chosen kingdoms.
-By the time war started, Vasher was known as Kalad. The true origin of the war is a topic of debate among scholars, but it is known that Kalad was the man who started the Manywar against the cities of Kuth and Huth. Stories say Kalad used his knowledge of BioChromatic Breath to create a vast army of Lifeless and seize power in Hallandren. He protected the kingdom with his armies, yet shattered the kingdom as well by driving the royals into the highlands.
+By the time war started, Vasher was known as Kalad. The true origin of the war is a topic of debate among scholars, but it is stated that Kalad was the man who started the Manywar against the cities of Kuth and Huth. Stories say Kalad used his knowledge of BioChromatic Breath to create a vast army of Lifeless and seize power in Hallandren. He protected the kingdom with his armies, yet shattered the kingdom as well by driving the royals into the highlands.
 He later had a change of heart, which was so confusing for people that they thought he was a different person. Because of this, he also became known as Peacegiver, who defeated Kalad and sent away the Phantoms.
 Kuth and Huth had already been destroyed, but the other kingdoms agreed to stop the Manywar thanks to Peacegiver's diplomacy.
 Peacegiver left a treasure of over fifty thousand Breaths with the first God King, to be kept safe but not used. He also left the Phantoms Invested with enough Breath to stay together but not move, ready to take action again with a sufficient influx of Breath.
+
+### Containing the Megalith
+Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
+Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
+With the help of a [[Dragon\|dragon]], Vasher launched a [[Hemalurgy\|Hemalurgic]] [[Silver\|silver]] spike into the Megalith's heart, which would later be known as the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He then attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
+Months after arriving on the planet, he left.
 
 ### Pahn Kahl Rebellion
   Vasher, Vivenna and Nightblood
@@ -169,7 +169,7 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
   With Nightblood
 ### Nightblood
 >“*Sneaking, Vasher? You’re terrible at sneaking.*”
-\-Nightblood to Vasher[55]
+\-Nightblood to Vasher[54]
 
 
 Vasher and Shashara created [[Nightblood\|Nightblood]] during the days when they were in love based on the [[Shardblade\|Shardblades]] they had seen on [[Roshar\|Roshar]]. He renamed the sword to Nightblood after using it to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.

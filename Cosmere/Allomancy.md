@@ -57,10 +57,9 @@ It is possible to gain Allomancy through the use of Hemalurgic spikes where the 
 Additionally, consuming a bead of lerasium will hardcode Allomancy into a person's spiritweb and grant them Allomantic abilities. The size of the bead that is consumed is proportional to the strength of their Allomancy.
 
 ### Snapping
-Prior to the [[Catacendre\|Catacendre]], Snapping required undergoing some intense emotional experience, often a traumatic one. It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack in the soul which the power can fit into.
-It is said that the more concentrated Allomancy is in a person, or in other terms the more powerful they are, the easier they Snap. Due to this, Snapping was even more difficult and traumatic during Scadrial's [[Classical Scadrial\|classical]] age.
+Prior to the [[Catacendre\|Catacendre]], Snapping required undergoing some intense emotional experience, often a traumatic one. It is possible for Allomancers to Snap from intense positive emotion, but this is much less common. It is also possible to Snap from false emotions, caused by Soothing and Rioting. According to [[Realmatic Theory\|Realmatic Theory]], this creates a crack in the soul which the power can fit into. It is said that the more concentrated Allomancy is in a person, or in other terms the more powerful they are, the easier they Snap. Due to this, Snapping was even more difficult and traumatic during Scadrial's [[Classical Scadrial\|classical]] age.
 In the [[Final Empire\|Final Empire]], children of confirmed noble bloodlines often undergo a planned beating as a test to see if they Snap.
-After the Catacendre, [[Harmony\|Harmony]] changed the way Snapping operated, but it is unknown how it was altered.
+After the Catacendre, [[Harmony\|Harmony]] changed the way Snapping operated, and it now develops around puberty and does not require a traumatic experience.
 
 #### Mist Sickness
 In the run up to the [[Catacendre\|Catacendre]], the mists cause sickness in people, triggering their own Snapping; this process is started by [[Preservation\|Preservation]], but is manipulated by [[Ruin\|Ruin]] into killing people, thus raising superstitions about the mists being dangerous. The length a person has "mist sickness" relates to their Allomantic powers and abilities. The most powerful [[Atium\|atium]] Mistings are sick for the longest time.
@@ -81,7 +80,7 @@ Many soldiers in [[Elend\|Elend's]] army, including [[Demoux\|Demoux]], were Sna
 
   <<Vin\|Vin>> pushing on coins with the Allomantic power of <<Steel\|steel>>
 Allomancy is an end-positive magic system, which draws on the power of [[Preservation\|Preservation]] that is channeled through a metal when it is burned. This differs to how Feruchemy works, as Allomancy is not being powered by the body of the Allomancer, but instead by an external force. Like the other Metallic Arts, Allomancy as a magic system formed through the natural interactions between the two Shards that inhabit Scadrial, Preservation and Ruin, and the planet itself, instead of being created by a specific Shard. This magic system, however, is generally tailored and fueled by Preservation, although specific cases will involve an Allomancer drawing upon Ruin's essence instead. Like other forms of Investiture, Allomancy does not necessarily reflect the Intent of the Shard which it is associated with.
-Allomantic metals are the focus, but not the source, of Allomancy's power. When an Allomancer burns a metal, that metal's specific molecular structure acts as a conduit to Preservation, and then the Allomancer is granted an ability corresponding to the metal, allowing the metal to "focus" Preservation's power to the user. Each metal is the only way a mortal can access Preservation and the power of creation, after which it is vaporized. However, this is only true for the base sixteen Allomantic metals and not [[God Metal\|God Metals]] or their alloys. 
+Allomantic metals are the focus, but not the source, of Allomancy's power. When an Allomancer burns a metal, that metal's specific molecular structure acts as a conduit to Preservation, and then the Allomancer is granted an ability corresponding to the metal, allowing the metal to "focus" Preservation's power to the user. Each metal is the only way a mortal can access Preservation and the power of creation, after which it is vaporized. However, this is only true for the base sixteen Allomantic metals and not [[God Metal\|God Metals]] or their alloys. Allomancers can also draw directly on the [[Mist\|mists]], but need the blessing of Preservation or Harmony to do so.
 Allomancers feel a reserve of power in their stomach when they have ingested a metal they can burn. The metals are usually ingested by drinking specifically prepared metal vials, which contain metal flakes suspended in an alcohol solution or other such liquid, e.g. cod oil. While swallowing metal is the most common way of getting metal into the body, other ways such as injecting or snorting will also work. When using their powers, many Allomancers describe a warm feeling in the stomach, hence the term "burning metal".  An Allomancer can also burn their metals at an accelerated rate, which is called "flaring." Flaring grants more power, but the reserve of metals depletes much faster, too. Allomancers can burn metals from any [[/wiki/Cosmere#Planets]] in the cosmere. This is due to the presence of Preservation in the Spiritual Realm. 
 Allomancers can suffer side-effects from leaving metal in their bodies for too long, and they normally burn their remaining ingested metals before sleeping to avoid this. Despite this, due to their physiology, Allomancers are generally immune to metal poisoning. They are not immune to metal allergies, however.
 Advanced Allomancy can be combined with Feruchemy to gain faster-than-light travel. It is also possible to use Allomancy in the Cognitive Realm.
@@ -93,7 +92,7 @@ Allomancers who flare their metal intensely for extended periods of time may be 
 ## Types of Allomancers
   Mistborn in action
 >“*Never try to burn a metal that isn't one of the ten. I warned you that impure metals and alloys can make you sick. Well, if you try to burn a metal that isn't Allomantically sound at all, it could be deadly.*”
-\-Kelsier to Vin[33]
+\-Kelsier to Vin[35]
 
 
 Allomancers are categorized based on if they can burn a single metal, **Misting**, or if they can burn all metals, **Mistborn**. Other [[Invested Art\|Invested Arts]], such as Hemalurgy, is the only known way to access a combination powers that falls outside of this categorization's structure. Each type of Misting is given a particular name depending on their ability, such as Lurcher, Coinshot, or Soother. An Allomancer's lineage does not usually play a factor in which kind of Misting they are. There are several potent lineages, such as that of [[House Tekiel\|House Tekiel]], that produce more Allomancers and have a larger chance at being a Mistborn.
@@ -119,7 +118,7 @@ The following is the modern Table of Allomantic Metals, from some point after th
 |**ENHANCEMENT**|**Pushing**|**Pulling**|**Pulling**|**Pushing**|**TEMPORAL**|
 
 >“*There are two metals for every power. One Pushes, one Pulls--the second is usually an alloy of the first. For emotions -- the external mental powers -- you Pull with [[Zinc\|zinc]] and Push with [[Brass\|brass]]. You just used pewter to Push your body. That's one of the internal physical powers.*”
-\-Kelsier to Vin.[33]
+\-Kelsier to Vin.[35]
 
 
 For more information, see the individual pages for each metal.
@@ -134,8 +133,8 @@ God Metals do not fit in the modern Allomantic Table, and Scadrians appear to on
 |**God Metals**|
 |-|-|
 |**Metal**|**Shard**|**Effect**|
-|**[[Atium\|Atium]]**|[[Ruin\|Ruin]]|Reveals others' future|
 |**[[Atium\|Pure Atium]]**|[[Ruin\|Ruin]]|Gives an expanded vision of the future|
+|**[[Atium\|Atium]]**|[[Ruin\|Ruin]]|Reveals others' future|
 |**[[Malatium\|Malatium]]**|[[Ruin\|Ruin]]|See into another person's past|
 |**[[Atium\|Atium Alloys]]**|[[Ruin\|Ruin]]|Various expanded mental and temporal effects|
 |**[[Lerasium\|Lerasium]]**|[[Preservation\|Preservation]]|Turns one into a Mistborn or increases one's Allomantic power|
@@ -150,7 +149,7 @@ At some point, [[Preservation\|Preservation]] altered Allomancy to insert [[Ruin
 Prior to the Ascension of the Lord Ruler, Allomancy was rarely found among the general population. The Lord Ruler's Ascension, and his subsequent distribution of the lerasium beads, increased the strength of the Allomantic spiritual DNA in the Final Empire, which had long-lasting effects through the subsequent generations. Rashek and his Steel Ministry also suppressed knowledge of several of the Allomantic metals, so that only the four physical metals and four mental metals, as well as gold and atium, were known of by the general populace. Malatium became known through legend as *The Eleventh Metal*, a rumor that may have been started by Ruin to help facilitate the downfall of the Lord Ruler. Prior to the Final Ascension, atium and malatium were incorrectly classified as temporal metals instead of God Metals by the Lord Ruler and his government. 
 
 >“*The dragons have stagnated. Once, they flew, and mortals walked. Now any child with a coin can soar as they did—and even the gods tremble before what mortals create.*”
-\-Colonel Dajer[72]
+\-Colonel Dajer[74]
 
 Following the Final Ascension, [[Harmony\|Harmony]] altered [[Snapping\|Snapping]] to act differently. The Allomantic Table also changed at this time to remove Ruin's metals, with advances in technology also making [[Cadmium\|cadmium]], [[Bendalloy\|bendalloy]], [[Chromium\|chromium]], and [[Nicrosil\|nicrosil]] more available. During Scadrial’s Cold War, technology that used [[Harmonium\|Harmonium]] to replicate Allomancy’s effects became more and more common, and during the Space Age, the [[Invested Art\|Art]] was integral to much of Scadrial’s technology. The Space Age was also notable because Allomancy became more and more available to the public.
 

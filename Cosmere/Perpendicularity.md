@@ -4,6 +4,8 @@
 |**Related to**|[[Realmatic Theory\|Realmatic Theory]], [[Shard\|Shards]], [[Investiture\|Investiture]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*At these points, Physical matter, Cognitive thought, and Spiritual essence become one--and a being can slide between Realms.*”
@@ -53,6 +55,8 @@ The proximity of the realms around and in a perpendicularity also makes [[Soulca
 **Oathgates:** Oathgates make use of perpendicularities in order to transport individuals between Realms and to different Oathgates across the planet.
 
 **Endowment**: The location of [[Endowment\|Endowment's]] perpendicularity is unspecified. It is, however, located somewhere in the jungles of [[Hallandren\|Hallandren]], in a shadowed, cavernous region. The [[Tears of Edgli\|Tears of Edgli]] owe their existence and their unusual properties as dye material to soaking up the [[Investiture\|Investiture]] flowing up from the perpendicularity. There are enough cosmere-aware people on Nalthis for there to be customs at this perpendicularity, and it is used for trade.
+
+[[Miral\|Miral]] has an irregular perpendicularity unattuned to any specific Shard.
 
 **Unknown Shard**: There is a perpendicularity on [[Bjendal\|Bjendal]]. By 348 [[Catacendre\|PC]], events on Bjendal made travel to the planet through the perpendicularity extremely dangerous.
 

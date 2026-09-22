@@ -7,6 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
+For ’s mentor and the abbot of the [[Monastery of the Final Word\|Monastery of the Final Word]], see [[Brother Grund\|Brother Grund]].
 >“*As she curled up on the floor, Grund’s death seemed a shadow of everything else, of her good intentions turned arrogant.*”
 \-Shallan[2]
 

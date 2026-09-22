@@ -3,7 +3,7 @@
 |**Spouse**|[[Jason Write\|Jason]]|
 |**Abilities**|[[Cytonics\|Cytonics]]|
 |**Groups**|[[Phone Company\|Phone Company]]|
-|**Homeworld**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**Homeworld**|[[Earth (Cytoverse)\|Earth (Cytoverse)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Defending Elysium\|Defending Elysium]]*|
 

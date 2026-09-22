@@ -16,7 +16,7 @@
 
 
 **Freyja Marten** (callsign **FM**) is a [[DDF\|DDF]] pilot on [[Detritus\|Detritus]]. She is a member of [[Skyward Flight\|Skyward Flight]] and one of the only two members who completed and graduated [[Flight school\|flight school]]. During her training, she was the ninth member of the flight, however, was assigned a new flight number after the [[Battle of Alta Second\|Battle of Alta Second]] when Skyward Flight was reformed.
-She is from the [[Deep caverns\|lower caverns]], has multiple sisters, and was raised to believe and follow [[Defiant League\|Defiant]] ideals. She does not know the old stories from [[Earth (Skyward)\|Earth]].
+She is from the [[Deep caverns\|lower caverns]], has multiple sisters, and was raised to believe and follow [[Defiant League\|Defiant]] ideals. She does not know the old stories from [[Earth (Cytoverse)\|Earth]].
 
 ## Contents
 

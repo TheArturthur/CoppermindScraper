@@ -5,7 +5,7 @@
 |**Profession**|Research scientist|
 |**Groups**|[[Phone Company\|Phone Company]]|
 |**Residence**|[[Evensong\|Evensong]]|
-|**Homeworld**|[[Earth (Skyward)\|Earth (Skyward)]]|
+|**Homeworld**|[[Earth (Cytoverse)\|Earth (Cytoverse)]]|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 |**Introduced In**|*[[Defending Elysium\|Defending Elysium]]*|
 
@@ -33,7 +33,7 @@ She had shown some [[Cytonics\|cytonic]] ability and was in the middle of her tr
 
 ## History
 ### Disappearance
-While living and working on the Phone Company's distant Outer Platform known as Evensong, Denise disappeared under unknown circumstances. The Phone Company's Central Operations on [[Earth (Skyward)\|Earth]] downplayed the incident; the [[United Intelligence Bureau\|United Intelligence Bureau]] assumed it was a simple mugging. However, the PC was actually quite concerned about the disappearance and sent [[Jason Write\|Jason Write]] to investigate. Evensong was several months away from Earth, and by the time Jason arrived, Denise had been found. However, she seemed to have suffered amnesia as well as the loss of her motor skills and had been admitted to a mental hospital.
+While living and working on the Phone Company's distant Outer Platform known as Evensong, Denise disappeared under unknown circumstances. The Phone Company's Central Operations on [[Earth (Cytoverse)\|Earth]] downplayed the incident; the [[United Intelligence Bureau\|United Intelligence Bureau]] assumed it was a simple mugging. However, the PC was actually quite concerned about the disappearance and sent [[Jason Write\|Jason Write]] to investigate. Evensong was several months away from Earth, and by the time Jason arrived, Denise had been found. However, she seemed to have suffered amnesia as well as the loss of her motor skills and had been admitted to a mental hospital.
 
 ### Death and Replacement
 Jason, who had met Denise several times in the past, immediately noticed several strange things about her. She did not exhibit the usual symptoms of someone with amnesia, and could not remember anything at all. Her speaking ability returned very rapidly, but her physical issues defied explanation. Jason was confused by Denise's unfamiliarity with simple human concepts like anger and the taste of salt. After further investigation, he realized that she had an affinity for bright red lights and used unusual hand gestures, both characteristics of a cytonically advanced alien race known as the [[Varvax\|Varvax]].
