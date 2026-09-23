@@ -402,7 +402,7 @@ Hoid later became involved in the sting operation that Marasi ran in [[Bilming\|
 
   Reduced to a living flame
 ### Search for Valor
-Following his actions on Scadrial, Hoid intended to find [[Valor\|Valor]] in order to assist the people of Roshar to resist Retribution. Knowing she had once influenced the world of [[Miral\|Miral]], he traveled there to seek a lead on her whereabouts. He spent a night at the inn of the town of ; he manipulated the [[Spiritual Realm\|Spiritual Realm]] while there, which inadvertently caused [[December\|December]] to experience a realistic vision of a possible lifetime. Unaware of this having happened, he then traveled to the capital of , , where he attempted to infiltrate Valor's temple there, unaware of a trap she had set at its entrance. This set his soul aflame (which Hoid likened to a phenomenon from [[Ashyn\|Ashyn]] known as ), caused his body to burn up, and nearly destroyed him. His healing abilities caused him to exist for a period as a living flame, able to communicate but lacking much of his recent memories.
+Following his actions on Scadrial, Hoid intended to find [[Valor\|Valor]] in order to assist the people of Roshar to resist Retribution. Knowing she had once influenced the world of [[Miral\|Miral]], he traveled there to seek a lead on her whereabouts. He spent a night at the inn of the town of ; he manipulated the [[Spiritual Realm\|Spiritual Realm]] while there, which inadvertently caused [[December\|December]] to experience a realistic vision of a possible lifetime. Unaware of this having happened, he then traveled to the capital of , , where he attempted to infiltrate Valor's temple there, unaware of a trap she had set at its entrance. This set his soul aflame (which Hoid likened to a phenomenon from [[Ashyn\|Ashyn]] known as [[Godsflame\|Godsflame]]), caused his body to burn up, and nearly destroyed him. His healing abilities caused him to exist for a period as a living flame, able to communicate but lacking much of his recent memories.
 Some days later, he realized he needed to suppress his abilities briefly to starve the flame and then allow his body to reconstitute. He then properly met December and learned of the vision she experienced that night; he assisted her and her allies, primarily by inducing a second, deliberate, Spiritual vision that allowed her to gain expertise in [[Witchcraft\|Witchcraft]] and the control of demons. This allowed her to bond with her personal demon, , and control the [[Megalith\|Megalith]] in turn. With the situation stable, Hoid attempted to enter the temple a second time (having no memory of the trap) and was immolated again (but rescued himself more easily this time). Trying a different approach, he tricked December's priestess friend  into describing the temple's murals for him; these depicted various worlds that Valor had visited, from which he deduced he needed to search for three worlds where dragons ruled.
 He would eventually tell the story of December to an unknown audience.
 
@@ -518,6 +518,7 @@ The Trickster Aspect
 Mythwalker
 The Grand Jesk
 The Immortal Storyteller
+The Jester Immortal
 
 ## Speculation
 ### Worldsingers & Worldbringers
