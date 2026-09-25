@@ -128,10 +128,10 @@ In certain circumstances, clashes between Shards can produce anti-Investiture. T
 \- Navani Kholin[5]
 
 The Investiture of each Shard, and the Shard themselves, have an Intent that shapes how they act and what they are capable of doing, which reflects and embodies aspects of Adonalsium's nature. This Intent has a deep influence on the properties of their Investiture, and upon the mind and actions of their Vessel. The Intent warps the mind over time, with the influence growing greater and more controlling over time. It is difficult for a Vessel to fight against the Intent of their Shard, but if they do so for long enough, it is possible to modify the way an Intent manifests, but they cannot change it outright. Therefore, shardic Intent is not immutable, but it is also not overwritable. Furthermore, this means that the mind and Intent influence one another, until they eventually come to a balance.
-Intent does not only affect how a Shard and its Vessel act, but also what they are capable and incapable of doing. For example, Preservation is incapable of doing harm or initiating change.
+Intent does not only affect how a Shard and its Vessel act, but also what they are capable and incapable of doing. For example, Preservation is incapable of doing harm or initiating change. If a Vessel has the essence of another Shard imprinted on their soul and upbringing, they may be able to temporarily overcome their Shard's Intent.
 
 >“*I fear the power, Dalinar, more than Taravangian. I fear Honor as well. These powers were not meant to be held in isolation—each of them is warped or distorted without the others.*”
-\-The Stormfather[62]
+\-The Stormfather[64]
 
 It is possible for a Shard to be broken down into multiple smaller Shards with different Intents. It is currently unknown whether this has ever happened before, or how it would be accomplished. Conversely, it is possible for multiple Shards to be held by one Vessel, which intermingles them and modifies the Intent depending on if the Intents and Tones are working together in harmony or discord.
 Two or more Intents being in harmony does not mean that they are aligned or want the same thing, with [[Harmony\|Harmony]] being described as having misaligned powers, compared to [[Retribution\|Retribution]].
@@ -152,7 +152,7 @@ Shards remember their history, outside of the Vessel itself. When one ascends to
 
 #### Consciousness
 >“*We do not think as humans do. To separate the power from those who are attached to the Physical Realm … that should frighten you. It is not so terrible a thing for part of me to despise you. But for the power of a god to? Dangerous. For all of us.*”
-\-The Sibling[95]
+\-The Sibling[97]
 
 
 Shards hold a rudimentary consciousness largely defined by their Intent. A Shard is capable of having wants and desires in line with its Intent, and is able to resist or rebel against a Vessel which does not fall in line with this Intent and its desires. This rejection of a Vessel, in extreme circumstances, can lead to a Shard completely abandoning its Vessel. However, as stated, this consciousness is greatly limited compared to sapient beings, and is largely defined by the driving force of their Intent, without any other divine aspects to moderate it or give it meaning.
@@ -161,7 +161,7 @@ When left for a prolonged period without a Vessel, due to the nature of Investit
 
 #### Oaths
 >“*For a deity, breaking a promise exposes them to destructive forces from others—and the magnitude of the broken promise often determines the severity of the consequence.*”
-\-Hoid[97]
+\-Hoid[99]
 
 
 When a Vessel makes an oath, this oath becomes engraved into the Shard itself. As these oaths are put on the Shard itself, instead of the Vessel alone, they pass between Vessels when a Shard is passed on. A new Vessel would still be bound to oaths made by the previous Vessels, but would not be shackled by the spirit of the oaths, allowing them to explore loopholes. Lesser promises also have this distinction. Outside of oaths, they are allowed to lie.
@@ -199,7 +199,7 @@ While unable to die from disease or old age, Vessels can be killed in specific c
 
 #### Difference between the Shard and the Vessel
 >“*You say that the power itself must be treated as separate in our minds from the Vessel who controls it. I find this difficult to do on an intrinsic level, as although I am neither Ruin nor Preservation, they make up me.*”
-\-Sazed[145][27]
+\-Sazed[148][27]
 
 The difference between a Shard and the Vessel, and the relationship between them, is complex and difficult for mortal minds to understand, and the line between the two is often blurred. This is due to the fact that the Vessel is made up of the Shard that they hold, the power of the Shard being their body. The power itself cannot tell the difference between itself and its Vessel, though small pieces, like spren, are able to do so. Due to the blurring between the two aspects, the Vessel themself is often referred to as the Shard.
 Despite the line between them being blurred, the mind and power are capable of disagreeing and resisting one another.
@@ -231,7 +231,7 @@ While most planets have at most one Shard, [[Sel\|Sel]], [[Scadrial\|Scadrial]],
 
 ### Hybrid Shards
 >“*[[Retribution\|He]] was more powerful than anything. [[Harmony\|Only one other came close]], but those powers were misaligned, while Honor and Odium wanted nearly the same things. They would work together.*”
-\-Retribution[68]
+\-Retribution[70]
 
 It is possible for two or more Shards to be unified in a single Vessel. In these instances, the two Intents interact with each other, and create a new Intent out of their resonance. These are often classified as constituting a new Shard, however, the original Intents still exist within them and can conflict with one another if they are not aligned.
 The remnants of [[Devotion\|Devotion]] and [[Dominion\|Dominion]], both residing in the [[Cognitive Realm\|Cognitive Realm]], comprise [[The Dor\|the Dor]]. They, however, are not unified within a singular Vessel as of the [[Night of Sorrows\|Night of Sorrows]].
@@ -325,7 +325,7 @@ They are able to replicate objects from the past. They can also show others recr
 > [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
 
 >“*It's as if the future is a shattering window. The further you look, the more pieces that window breaks into. The near future can be anticipated, but the distant future… I can only guess.*”
-\-Honor[139]
+\-Honor[142]
 
 
 Due to their existence within and connection to the Spiritual Realm, Shards are capable of perceiving the future, although it can be difficult for them. Some are better at it than others, with [[Cultivation\|Cultivation]] and [[Preservation\|Preservation]] being noted as particularly excelling. Like all seers, Shards can be wrong about both what they see and how they interpret it, although as a general rule they see further than non-Shards. Shardic power can also be utilized by others to perceive the future as they do: examples of this are [[Atium\|atium]], as well as the visions of the [[Returned\|Returned]].
@@ -336,7 +336,7 @@ Vessels are capable of displaying their future sight to other people. This can e
 ## Forms and Subdivisions
   <<Cultivation\|Cultivation>> with her daughter-<<Spren\|spren>>, the <<Nightwatcher\|Nightwatcher>>
 >“*I'm still a [[Spren\|spren]]. I’m a little piece of God.*”
-\-Syl[149]
+\-Syl[152]
 
 
 The raw Investiture of a Shard can take distinct forms and states. As a solid, the Investiture has most physical characteristics of metals, and is thus sometimes referred to as a **[[God Metal\|God Metal]]**. Examples of God Metals are [[Atium\|atium]], [[Lerasium\|lerasium]], [[Raysium\|raysium]], and the alloy of [[Honor\|Honor]] and [[Cultivation\|Cultivation]] that forms [[Shardblade\|Shardblades]]. God Metals typically have properties within the [[Metallic Arts\|Metallic Arts]], regardless of what Shard they're aligned with.
@@ -362,7 +362,7 @@ It is possible for a Shard to name a "champion" when making a deal with another 
   The Shards depicted as stained glass
 
 >“*I have delved and searched, and have only been able to come up with a single name: Adonalsium. Who, or what, it was, I do not yet know.*”
-\-Sazed[257]
+\-Sazed[260]
 
 
 It is unknown what precisely [[Adonalsium\|Adonalsium]] was, though it has been referred to numerous times as the power of creation, suggesting it to be the progenitor god of the [[Cosmere\|cosmere]]. At some point in the distant past, on the planet of [[Yolen\|Yolen]], at least seventeen beings conspired to kill it, and succeeded in an event known as the [[Shattering of Adonalsium\|Shattering of Adonalsium]]. Some of those people were romantically involved; others were related to each other. All of them were mortal at some point.

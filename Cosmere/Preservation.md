@@ -154,7 +154,7 @@ At the [[Battle of Hathsin\|Battle of Hathsin]], as Marsh and Elend fought, Vin 
 ### Sazed
 For the history of Sazed prior to becoming Preservation, see [[/wiki/Sazed#History]].
 >“*I am, unfortunately, the Hero of Ages .*”
-\-Sazed[64]
+\-Sazed[65]
 
 
 As [[Sazed\|Sazed]] observed the battle drawing to a close, he ran out to find Vin, unaware that she was no longer alive. He eventually managed to find her and [[Ati\|Ati's]] corpses. Distraught, he called out to Preservation, raging that despite Ruin's death, the world was still ending. It was then that the two bodies began leaking the powers of Preservation and Ruin. Though initially doubtful that he could hold them, Sazed eventually realized that he was, in fact, the prophesied [[Hero of Ages\|Hero of Ages]], bound to take up both powers and restore the world. Thus, he grabbed both powers and used them to restore Scadrial, merging the two Shards together into [[Harmony\|Harmony]].
