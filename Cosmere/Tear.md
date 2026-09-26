@@ -210,6 +210,7 @@ There are Shards who may have Invested in one or more planets:
 [[Invention\|Invention]] created technologically advanced planets.
 [[Valor\|Valor]] created a world with lesser dragons. She has also visited various worlds over the history of the Cosmere.
 Nothing is known about the planets [[Mercy\|Mercy]],  [[Whimsy\|Whimsy]], and [[Reason\|Reason]] have Invested in, or if they have even Invested at all.
+Cultivation has a secret world.
 ## Trivia
 Many of the in-universe allusions to new planets are references to books Brandon has considered writing:
 In the 2022 [[State of the Sanderson\|State of the Sanderson]], a possible series set on Mythos was mentioned as a minor project.
