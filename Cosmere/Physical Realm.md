@@ -90,11 +90,12 @@ The [[/wiki/Aether#Primal Aethers]] are twelve deific beings on Dhatri who grant
 There is even more variety in the cosmere, but not much is known about them, including whether they are human offshoots or unrelated species entirely: 
 
 The [[Siah Aimian\|Siah Aimians]] of Roshar.
+The [[Natan\|Natan]] and [[Selay\|Selay]] people are descended from both Siah Aimians and humans.
 Green-skinned humanoids like [[Tyvneri\|Tyvneri]], from Rellam.
 Horned humanoids like [[Lorieta\|Lorieta]].
 A reptilian species.
 A species allied with the Malwish empire who are accustomed to temperatures high enough to cook a human.
-Albinos referenced in the lore of the [[Eelakin\|Eelakin]] people of First of the Sun.
+Albinos referenced in the lore of the [[Eelakin\|Eelakin]] people of First of the Sun. Might be the Sho Del.
 The Physical Realm is not the only inhabited Realm of the Cosmere. The [[Cognitive Realm\|Cognitive Realm]] is also heavily populated by [[Splinter\|Splinters]] in certain subastrals, and there are possibly beings native to the [[Spiritual Realm\|Spiritual Realm]].
 Lastly, the planets themselves have something akin to souls, so they could be considered inhabitants of the Physical Realm themselves.
 

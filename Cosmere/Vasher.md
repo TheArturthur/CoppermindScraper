@@ -169,7 +169,7 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
   With Nightblood
 ### Nightblood
 >“*Sneaking, Vasher? You’re terrible at sneaking.*”
-\-Nightblood to Vasher[54]
+\-Nightblood to Vasher[55]
 
 
 Vasher and Shashara created [[Nightblood\|Nightblood]] during the days when they were in love based on the [[Shardblade\|Shardblades]] they had seen on [[Roshar\|Roshar]]. He renamed the sword to Nightblood after using it to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.

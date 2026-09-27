@@ -91,14 +91,14 @@ For related information, see:
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||Novel|| |
 |*[[Tailored Realities\|Tailored Realities]]*||Anthology|A collection of stories which include *[[Snapshot\|Snapshot]]*, **, *[[I Hate Dragons\|I Hate Dragons]]*, *[[Dreamer\|Dreamer]]*, *[[Perfect State\|Perfect State]]*, **, *[[Defending Elysium\|Defending Elysium]]*, *[[Firstborn\|Firstborn]]*, *[[Mitosis\|Mitosis]]*, and *[[Moment Zero\|Moment Zero]]*.||
-|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
-|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.6/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.7/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
 |**2026**|*[[Blightfall (book)\|Blightfall]]*|[[Riftwake\|Riftwake]] #1|Novel|Co-written with [[Janci Patterson\|Janci Patterson]]||
 |*[[The Fires of December\|The Fires of December]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|||
 |*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
 |*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
 |*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
-|**|[[The Stormlight Archive\|The Stormlight Archive]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Non-canon.| |
+|**|[[Story Deck\|Story Deck]]/|Short Story/Picture Book|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Later rereleased as a picture book. Non-canon.| |
 |*[[Songs of the Dead\|Songs of the Dead]]*|[[The Strata Wars\|The Strata Wars]] #1|Novel|Co-written with [[Peter Orullian\|Peter Orullian]].||
 
 

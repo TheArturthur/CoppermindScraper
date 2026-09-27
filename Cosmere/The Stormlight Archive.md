@@ -47,8 +47,8 @@ Subject to the assumption that characters stay associated with their current ord
 |**Lost Tales (Short Stories)**|
 |-|-|
 |**Year Published**|**Title**|**SeriesChronology**|**Focus Character**|**Word Count**|
-|**2025**|*[[Elsecaller (short story)\|Elsecaller]]*|2.1(1173-1174)|[[Jasnah Kholin\|Jasnah Kholin]]|8,411|
-|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|2.2(1173)|[[Lopen\|Lopen]]|8,402|
+|**2025**|*[[Elsecaller (short story)\|Elsecaller]]*|2.6(1173-1174)|[[Jasnah Kholin\|Jasnah Kholin]]|8,411|
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|2.7(1173)|[[Lopen\|Lopen]]|8,402|
 
 |**Stormlight Campaign Setting**|
 |-|-|

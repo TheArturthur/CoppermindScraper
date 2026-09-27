@@ -20,7 +20,7 @@
 
 
 ## Intent
-Valor's Intent as a Shard is focused on bravery and doing uncomfortable things in the name of achieving good.
+Valor's Intent as a Shard is focused on bravery and doing uncomfortable things in the name of achieving good. It or its Vessel has also seen the merits of maintaining a low profile.
 
 ## History
  

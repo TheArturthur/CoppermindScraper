@@ -400,8 +400,8 @@ Brandon does generally plan out which cosmere hints to give to fans, but sometim
 |*[[The Sunlit Man\|The Sunlit Man]]*|Standalone Novel|[[Canticle\|Canticle]]|Novel|
 |**2024**|*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|[[Roshar\|Roshar]]|Novel|
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*|Standalone Novel|[[First of the Sun\|First of the Sun]]|Novel|
-|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.1|[[Roshar\|Roshar]]|Short Story|
-|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.2|[[Roshar\|Roshar]]|Short Story|
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.6|[[Roshar\|Roshar]]|Short Story|
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.7|[[Roshar\|Roshar]]|Short Story|
 |**2026**|*[[The Fires of December\|The Fires of December]]*|Standalone Novel ([[Hoid's Travails\|Hoid's Travails]])|[[Miral\|Miral]]|Novel|
 
 ### Forthcoming

@@ -116,7 +116,7 @@ Using the Full Lashing, a Surgebinder can pool Stormlight into an area. All obje
 The Basic Lashing allows a Surgebinder to bind people or objects to different surfaces or in different directions, effectively changing the direction that gravity pulls them.
 
 
-By using the Reverse Lashing, a Surgebinder can increase the gravitational pull of an object, allowing the infused object to pull nearby objects toward it. The Surgebinder must maintain contact with the object to Reverse Lash it. Items that are airborne are pulled more strongly towards the infused object.
+By using the Reverse Lashing, a Surgebinder can increase the gravitational pull of an object, allowing the infused object to pull nearby objects toward it. The Surgebinder must maintain contact with the object to Reverse Lash it. Items that are airborne are pulled more strongly towards the infused object. Reverse Lashings combine Adhesion and Gravitation.
 
 ### Resonance
 Due to a combination of their two Surges, Windrunners have new, secondary effects, known as Resonance. The Windrunners' Resonance is strength of squires, which allows them to have many more squires than other orders. Their squires are also more powerful than those of the other Orders. A squire can perform their own Lashings and heal themselves, but only when their Windrunner is nearby. Squires can use Stormlight effectively within thirty miles of their Windrunner, and their maximum distance was fifty miles. Squires will lose access to their powers in an hour or two after the Windrunner leaves.
@@ -126,7 +126,7 @@ Among the honorspren, the bond is considered extremely intimate, as it involves 
 
 ### Shardplate Abilities
 >“*He now felt the weight and power of the Shardplate, a strength he hadn’t fully mastered. Yet he had a certain . . . intrinsic understanding of it. This was *his* Plate, not some castoff from another Radiant. The windspren who formed it were his companions, and had come to his call at the Fourth Ideal.*”
-\-Kaladin[43]
+\-Kaladin[44]
 
 
 Windrunner [[Shardplate\|Shardplate]] is comprised of [[Windspren\|windspren]], and glows a vibrant blue. The windspren stay close to their Radiant, and can be summoned on command. The windspren are always protecting their Windrunner without the Radiant needing to think about it, but are not fully present until danger appears or they are summoned.
@@ -164,7 +164,7 @@ A significant number of original [[Bridge Four\|Bridge Four]] and Bridge Thirtee
 
 ## Quotes
 >“* Now, as the Windrunners were thus engaged, arose the event which has hitherto been referenced: namely, that discovery of some wicked thing of eminence, though whether it be some rogueries among the Radiants' adherents or of some external origin, Avena would not suggest.*”
-\- Words of Radiance, chapter 38, page 6[65]
+\- Words of Radiance, chapter 38, page 6[66]
 
 
 >“* There came also sixteen of the order of Windrunners, and with them a considerable number of squires, and finding in that place the Skybreakers dividing the innocent from the guilty, there ensued a great debate.*”
