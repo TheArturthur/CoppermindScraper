@@ -14,7 +14,8 @@ The short story can also be found in ** (WordFire Press, 2016).
 1. [[#Extended]] 
 
 
-2 Notes. [[#Notes]] 
+2 Cosmere. [[#Cosmere]] 
+3 Notes. [[#Notes]] 
 
 
 ## Summary
@@ -27,6 +28,9 @@ A dragon then comes, Johnston hides, and Skip gets into his role. The dragon ins
 In this version, we get some additional descriptions and details about the world, like that it is a cube. Skip's abilities are called knacks, and most people on his side of the cube have some kind of knack. But the actual plot begins mostly the same as the original version.
 After the dragon is dead, Skip reflects on his own mortality. A sorceress takes Johnston's sword and opens the dragon’s stomach. It is filled with riches, but the sorceress does not find what she was searching for. She tells Johnston to move the hunters into the more-dangerous mountains with larger draconic beasts.
 The sorceress then talks to Skip and tries to dissuade him from quitting his role as bait. Skip explains that he does not get paid, and that he wishes to invent a dictionary. The sorceress promises to help him with his dream of writing a dictionary if Skip continues to be bait for a few more weeks. Skip never agrees, but the sorceress seems to think he does. Their conversation ends, a couple hours pass, and Skip finds himself alone and cornered by another dragon.
+
+## Cosmere
+At FanX 2025 Brandon read an excerpt of an unnamed and unfinished story being narrated by Hoid that included both [[Knack\|knacks]] and [[Dragon\|dragons]]. When questioned on this later he confirmed that the story took place on the same world as *I Hate Dragons*.
 
 
 
