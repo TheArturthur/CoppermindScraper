@@ -215,7 +215,7 @@ Kelsier and Hoid have a very antagonistic relationship, stretching back to when 
 Hoid greatly disapproves of Kelsier's interference with Roshar through the Ghostbloods. He considers Kelsier to be very dangerous, although he thinks little of the Ghostbloods themselves. Hoid has also taken direct action against him, giving Wax an unsealed coppermind containing knowledge that Kelsier would rather keep hidden. At the time of their meeting, he saw Kelsier as a wild card that he didn't want to deal with.
 
 ### Gavilar
-  Kelsier
+  Kelsier and his <<Kelsier's crew\|crew>>
 Kelsier and Gavilar worked against each other to an unknown extent through their respective proxy organizations, the Ghostbloods and the [[Sons of Honor\|Sons of Honor]]. Their relationship was such that Gavilar first suspected that Kelsier was the one to order his murder.
 
 ### Ati

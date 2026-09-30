@@ -64,6 +64,7 @@ The **[[Scar\|Scar]]** is a grouping of red stars that go by many names on vario
 The **Tear** is a particularly bright star seen from Roshar. It is named for the single tear shed by [[Reya\|Reya]]. In early [[/wiki/Roshar#Calendar]], it can be seen around sunset from the [[Shattered Plains\|Shattered Plains]], where it appears just above the horizon.
 Some star systems are known are referred to as **primary systems** by the Ghostbloods. It is unknown what exactly is signified by this identifier. Upon the Ascension of Retribution, Roshar became the fourth primary system that was dangerous to visit, with Bjendal being the only other system identified.
 The **Iriali [[Long Trail\|Long Trail]]** is a group of seven planets the Iriali migrate across according to their religion. The only confirmed planet on the Long Trail is Roshar, the Fourth Land; the Iriali visited many other planets on their journeys, so their presence on a planet does not indicate it is a true part of the Long Trail.
+The **Dhatrian planetary network** includes Dhatri and Lumar, and presumably other star systems that have strains of the aethers on them.
 
 ## Species
 Humans, originating from Yolen, are the most prevalent type of intelligent being in the cosmere, inhabiting the majority of known planets. Notable varieties (beyond mere ethnic differences) of humans include:
@@ -116,7 +117,7 @@ At least one person has tried to leave the physical bounds of the cosmere, with 
 ## Other Planets
   Jasnah learning about the worlds beyond Roshar from Tyvneri.
 >“*"They do exist," he said, turning his head upward toward the darkening sky. Toward the stars. "Up there. Islands in the sky, far distant. Worlds with wonders we can only imagine."*”
-\-Mraize[37]
+\-Mraize[38]
 
 
 While the cosmere has a wide array of planets, many of them are uninhabited, not significantly Invested, or otherwise not generally relevant to the broader cosmere. By the Space Age, hundreds of inhabited planets have been discovered.
@@ -130,35 +131,35 @@ Bjendal is considered to be a primary system by the [[Ghostbloods\|Ghostbloods]]
 
 ### Jasper
 >“*I have influenced my share of religions, still really embarrased about that whole fiasco on Jasper.*”
-\-Hoid[40]
+\-Hoid[41]
 
 
 Jasper is a location referenced by Hoid where he influenced a local religion somehow. Jasper may not be a planet, but the phrasing implies it is some sort of celestial body.
 
 ### Mythos
 >“*There are potential allies out there. Moonlight's world, perhaps. Or the land of the aethers. Hell, maybe even Mythos.*”
-\-Kelsier to Harmony[41]
+\-Kelsier to Harmony[42]
 
 
 Mythos is an off-world nickname used for this planet. After [[Autonomy\|Autonomy's]] attack on [[Scadrial\|Scadrial]] was repelled in 348 [[Catacendre\|PC]], [[Kelsier\|Kelsier]] mentioned Mythos to [[Harmony\|Harmony]] as a possible source of allies, though he apparently considered it a less likely option than Sel and Dhatri.
 
 ### Obrodai
 >“*You should not return to Obrodai. We have claimed that world, and a new avatar of our being is beginning to manifest there.*”
-\-Patji to Hoid[44]
+\-Patji to Hoid[45]
 
 
 The Shard Autonomy has claimed Obrodai and is beginning to manifest an "avatar of [their] being," an unknown female entity, on the planet. In a [[/wiki/Letters#Second Oathbringer Letter]] to [[Hoid\|Hoid]], [[Patji (being)\|Patji]], an avatar of Autonomy, warned him not to return to Obrodai and that, as a precaution to discourage his return, the avatar there has been instilled with a great dislike of him. Due to Hoid being able to go to the planet, it likely has some form of perpendicularity. 
 
 ### Rellam
 >“*Rellam has no gods. I didn’t know the concept—not even the word—until I traveled the cosmere.*”
-\-Tyvneri to Jasnah[47]
+\-Tyvneri to Jasnah[48]
 
 
 Rellam is a world with no gods, with Investiture that is a curse upon its inhabits. If [[Tyvneri\|Tyvneri]] is representative of its inhabitants, then have green skin and can live for centuries. 
 
 ### Vax
 >“*Ati ran his hand through his red hair, then looked about. “Vax?” he said, sounding confused.*”
-\-Mistborn: Secret History[48]
+\-Mistborn: Secret History[49]
 
 
 Little is known of Vax, its peoples, or any Shards that may or may not be located there. All that is certain is that it is a planet with a manifestation of [[Investiture\|Investiture]] in which people are Initiated differently than on Sel, Scadrial, Nalthis, or Taldain; and that true Vaxilians are presumably from Vax.
@@ -174,7 +175,7 @@ Zidorna is a location in the cosmere with a few [[Iriali\|Iriali]] occupants. [[
 ### Unknown Planets
   <<Hoid\|Hoid>> enjoys recounting stories of the travails he has suffered across the <<Cosmere\|Cosmere>>.
 >“*The truth *is*. Other worlds *are*.*”
-\-Ivory to Jasnah[47]
+\-Ivory to Jasnah[48]
 
 
 As travel through both the Physical Realm and Cognitive Realm increased over the history of the cosmere, stories and rumors of far-off planets began to circulate among the general population on many worlds. 
@@ -205,6 +206,7 @@ The planet(s) [[Iyatil\|Iyatil]] visited to obtain her collection of artifacts f
 "a silvery horn or claw from some great beast".
 "a violet stone egg, partly crystalline, with silver swirling around its shell".
 "a fat, succulent leaf that pulsed red and seemed to radiate heat".
+Planets besides Lumar that have strains of aethers disconnected from the Prime Aethers.
 There are Shards who may have Invested in one or more planets:
 
 [[Autonomy\|Autonomy]] had many old dominions.
@@ -219,8 +221,9 @@ At one point, Brandon was planning a YA novel to be set on the kite planet. A st
 The world with an ocean in the sky has been used for worldbuilding of attempted books, both outside the Cosmere in [[The Apocalypse Guard\|The Apocalypse Guard]] and in the Cosmere with a rewrite of [[I Hate Dragons\|I Hate Dragons]].
 Brandon has discussed a world where multiple continents were in free fall, letting inhabitants skydive between them. This "Seven Layer Free Fall Burrito World" has not been referenced in any Cosmere books, but he has referred to it as a Cosmere story in the State of the Sanderson.
 Caveman Heist is another Cosmere story referenced in the State of the Sanderson, with no information as to the world it would be set on.
-Before Dhatri was canonized, [[Unpublished works\|other attempts]] at Aether stories had different names for the Aether homeworld: Vaeria in Aether of Night, and Lor in Climb the Sky. It is not known if either of those planets are still planned to exist as a part of the Aether planetary network, or if they have been fully replaced by Dhatri. 
+Before Dhatri was canonized, [[Unpublished works\|other attempts]] at Aether stories had different names for the Aether homeworld: Vaeria in Aether of Night, and Lor in Climb the Sky. It is not known if either of those planets are still planned to exist as a part of the Dhatrian planetary network, or if they have been fully replaced by Dhatri. 
 An abandoned attempt at an entry in [[Hoid's Travails\|Hoid's Travails]] featured a planet named Zalamen with a thirty-thousand-foot high wall around the equator; it also referenced a place named Gelb where hats were strangely important; and it featured two unknown magics, a magical sword called a Graven Brand, and a character's healing magic.
+Brandon has planned "dragon stories," featuring other types of dragons than the Yolish variety, but he avoided writing them early in his career because of the prevalence of other fantasy novels featuring dragons.
 When asked if Obrodai was a name one of the planets of the [[Drominad System\|Drominad System]] used for themselves, Brandon responded with a [[RAFO\|RAFO]]. He has also avoided saying if it is a planet that we have already seen.
 If Vax is inhabited, they have not yet developed vaccines.
 Hoid's tale of "a planet where the only sapient life was a group of pancakelike beings that expressed themselves through flatulence"  is almost certainly a fabrication of Hoid's, and not a real planet or species in the cosmere.

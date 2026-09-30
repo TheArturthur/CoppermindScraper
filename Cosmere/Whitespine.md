@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 >“*The square face showed sharpened mandibles—like teeth, only somehow more vicious—and a pair of long, toothlike tusks that pointed down from the upper jaw. The stark spikes running from the head along the sinuous back, along with powerful legs, were clues as to what this beast was.*”
-\-Shallan Davar[1]
+\-Kaladin[1]
 
 
 **Whitespines** are apex predators that live on [[Roshar\|Roshar]]. They are large, carapaced animals with sharp tusks, spikes, and mandibles. They are fast and powerful, and have several evolutionary advantages that allow them to employ advanced hunting techniques. Whitespines are capable of killing multiple humans, even if they are armed. They are among the most deadly creatures in the [[Cosmere\|cosmere]].

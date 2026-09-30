@@ -23,7 +23,7 @@
 
 ## Contents
 
-1 Appearance & Personality. [[#Appearance .26 Personality]] 
+1 Appearance and Personality. [[#Appearance and Personality]] 
 2 Attributes and Abilities. [[#Attributes and Abilities]] 
 
 2. [[#Returned]] 
@@ -56,17 +56,17 @@
 6 Notes. [[#Notes]] 
 
 
-## Appearance & Personality
+## Appearance and Personality
  
 >“*I’m old, son, repeating myself makes me eat the wrong flower.*”
 \-Zahel to Renarin after asking him to jump in Shardplate.[3]
 
 
 For more images, see [[Vasher/Gallery\|/Gallery]].
-Vasher is a tall man who has trouble expressing himself. He lets his anger get the better of him, and is rough around the edges. Vasher's memory has a few holes. He is usually grumpy.
-During most of the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], he looks ragged. He wears ragged brown clothing, ripped in places, and wears loose trousers tied at the waist by a simple rope. His facial hair is halfway between a beard and just scruff. His hair is unkempt and comes down to his shoulders.
-As a Returned, he can change his appearance at will. When he wants to show his Returned form to [[Susebron\|Susebron]], for example, he becomes taller, muscular, and clean-shaven; his hair color becomes golden and he displays a color-enhancing aura.
-On [[Roshar\|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard. His hair is a deep chestnut color. He wears loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice. He becomes a swordmaster and joins the [[Ardent\|ardents]], though he knows he is not good at this second job. He uses exclamations and phrases involving colors, which often confuse the Rosharans.
+Vasher usually has trouble expressing himself. He lets his anger get the better of him, and is rough around the edges. Vasher's memory has a few holes. He is usually grumpy. He believes he has changed over time; it is implied that he was once somewhat of an idealist. As he ages, he looks and sounds incredibly exhausted and world-weary.
+As a Returned, he can change his appearance at will. During the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], his usual appearance is that of a tall man wearing ragged brown clothing, ripped in places, with loose trousers tied at the waist by a simple rope. His facial hair is halfway between a beard and scruff. His hair is unkempt and comes down to his shoulders. He is depicted similarly in illustrations from his time on [[Miral\|Miral]].
+On [[Roshar\|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard. He has light skin and his hair is a deep chestnut color. He still favors loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice. He becomes a swordmaster and joins the [[Ardent\|ardents]], though he knows he is not good at this second job. He uses exclamations and phrases involving colors, which often confuse the Rosharans.
+When he shows his Returned form to [[Susebron\|Susebron]], he becomes taller, muscular, and clean-shaven; his hair color becomes golden and he displays a color-enhancing aura.
 
 ## Attributes and Abilities
   Fighting <<Kaladin\|Kaladin>> using <<Awakening\|Awakened>> sheets.
@@ -86,20 +86,20 @@ He has not figured out how to Awaken using Stormlight.
 
 ### Swordsmanship
 >“*You think like Vasher. Do you know Vasher? He teaches swords to people now, which is funny because VaraTreledees always says Vasher isn't any good with the sword.*”
-\-Nightblood to Szeth[23]
+\-Nightblood to Szeth[25]
 
 
 Vasher is a very skilled swordsman, with three hundred years of practice along with his Returned speed and strength. He could reasonably beat anyone alive in a fair sword fight. Though he has admitted that he is not the best swordsman because his temper gets in the way, his ingenuity in combat gives him an edge. Denth states that Vasher was not a duelist, though this is likely in comparison to the other [[Five Scholars\|Five Scholars]], who are leagues above any mortal in fighting prowess. He is open to using "cheap tricks" in combat, such as transferring Breaths to stun his opponent, to make up for any skill gaps in a duel. A clear indicator of his sword fighting prowess is that on Roshar he is a highly sought-after [[Alethi\|Alethi]] weapons-master, having directly trained both of the Kholin children and [[Kaladin\|Kaladin]] in the use of and defense against [[Shardblade\|Shardblades]]. His familiarity with wielding Shardblades presumably was honed by using Nightblood, who is similar to a very powerful Shardblade.
 
 ### Connection
 >“*Why are you in the Spiritual Realm, hating me and invading my dreams with your Connection?*”
-\-Vasher to December[28]
+\-Vasher to December[8]
 
 
 Vasher has the ability to interface with the [[Spiritual Realm\|Spiritual Realm]] while sleeping. There he can communicate with people with enough [[Connection\|Connection]]. This might be one of the reasons he has trouble sleeping.
 
 ### Other Invested Arts
-Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor]] and [[Hemalurgy\|Hemalurgy]] to combine those with Awakening in order to craft the [[Ever-Slaying Sword\|Ever-Slaying Sword]].
+Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor]] and [[Hemalurgy\|Hemalurgy]] to combine those with Awakening in order to craft the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He was also able to heal everyone who was sick.
 
 ## History
 ### First Years and Becoming a Returned
@@ -107,7 +107,7 @@ Vasher was born on Nalthis and eventually died and Returned. Like other Returned
 He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]]. As the Scholars studied the nature of Investiture, he, Shashara, and possibly some of the other Scholars stumbled upon the means of entering the [[Cognitive Realm\|Cognitive Realm]] and began traveling to other planets in the [[Cosmere\|cosmere]]. In particular, Vasher traveled to [[Roshar\|Roshar]] and possibly other planets as well during this time period.
 
 ### Containing the Megalith
-Sometime prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]].
+Sometime prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]]. He also healed many people who were afflicted with diseases.
 Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
 With the help of a [[Dragon (cosmere)\|dragon]], Vasher launched a [[Silver\|silver]] [[Hemalurgy\|Hemalurgic]] spike into the Megalith's heart, which would later be known as the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
 Months after arriving on the planet, he left.
@@ -145,10 +145,10 @@ During the [[Siege of Kholinar\|Siege of Kholinar]], Vivenna (now going by the n
 After Kaladin was asked to retire from the front lines, he asked Zahel if he could become a swordsmaster with the ardents. Zahel challenged him to a fight to test his skills, using Awakened cloths to assist him, while grilling Kaladin about his motivations to fight and his religious beliefs. Kaladin recognized his fighting style as being the same as Azure's, and told Zahel that she was looking for him; Zahel was unconcerned, as she'd have to get through [[Cultivation's Perpendicularity\|Cultivation's Perpendicularity]] first. Zahel didn't let Kaladin join the ardents because he realized that Kaladin still loved the fight. He then showed Kaladin a fossil and explained that he was a [[Cognitive Shadow\|Cognitive Shadow]] like the [[Heralds\|Heralds]] and the [[Fused\|Fused]], and that the only way to kill the Fused would be with a weapon that could unravel their souls. At some point, Vasher also visited Szeth and Nightblood, mostly to see the sword again.
 
 >“*I did care. Maybe I can again. It’s a skill that a man must relearn.*”
-\-Vasher talking to December[28]
+\-Vasher talking to December[8]
 
 He could not help Kaladin during the occupation of Urithiru, because he had been captured by [[Axindweth\|Axindweth]] so she could take his Breath. She tortured him in a room lined with aluminum to avoid the Sibling detecting it, and he was stripped naked to stop him from using a Command to bring his clothes to life. She eventually offered to trade half of his Breaths, but he refused, so she began using a painrial on him. The Sibling notified [[Lift\|Lift]] that something was happening and she overheard the Aviar inside the room. Lift used Abrasion to trip Axindweth, and freed Zahel. Zahel remarks that she needs a teacher, and after some consideration, Lift agrees.
-At some point, Vasher discovered the existence of Vivenna's Shardblade. At some point while experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]] Vasher encountered [[December\|December]] who told him of the current crisis on Miral. Vasher promised to try to help despite not being able to leave Roshar. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
+At some point, Vasher discovered the existence of Vivenna's Shardblade. While experiencing a vision in the [[Spiritual Realm\|Spiritual Realm]], Vasher encountered [[December\|December]], who could see him observing the [[Everstorm\|Everstorm]]. December told him of the current crisis on Miral. Her plea for help sparked something in Vasher, and he promised to try to help. However, he was unable to leave Roshar, alluding to the loss of Honor and Cultivation and their associated Perpendicularities and [[Lights\|Lights]]. He eventually sent a simulacrum of himself that he could control at a distance, though the people of Miral had already solved the problem at that point.
 
 ## Relationships
 ### Denth
@@ -166,7 +166,7 @@ She draws Nightblood at the [[Battle of Twilight Falls\|Battle of Twilight Falls
   With Nightblood
 ### Nightblood
 >“*Sneaking, Vasher? You’re terrible at sneaking.*”
-\-Nightblood to Vasher[54]
+\-Nightblood to Vasher[56]
 
 
 Vasher and Shashara created [[Nightblood\|Nightblood]] during the days when they were in love based on the [[Shardblade\|Shardblades]] they had seen on [[Roshar\|Roshar]]. He renamed the sword to Nightblood after using it to kill his wife. Vasher has something of a blind spot and some bias regarding Nightblood and makes assumptions he wouldn't make for others.
@@ -179,7 +179,7 @@ Vasher trains Kaladin and his men to be better bodyguards to the Kholins. He som
 
 ### Kaladin
 >“*But boy, you’ve got red on your ears like I’ve never seen.*”
-\-Zahel to Kaladin and his men[12]
+\-Zahel to Kaladin and his men[14]
 
 
 Vasher, as Zahel, trains [[Kaladin\|Kaladin]] and is able to understand him, knowing that he is a profound person who asks many questions. Kaladin trusts Vasher enough that he later seeks his advice when he is bothered with the moral decision of letting King [[Elhokar\|Elhokar]] be killed.
