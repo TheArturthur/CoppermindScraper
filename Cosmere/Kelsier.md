@@ -192,6 +192,7 @@ Despite his disapproval of Kelsier’s actions, Marsh is still willing to infilt
 Marsh is aware of Kelsier’s current activities as a [[Cognitive Shadow\|Cognitive Shadow]].
 
 ### Vin
+  Kelsier and Vin
 >“*I don't want to be responsible for something happening to you, Vin. Not again.*”
 \-Kelsier[7]
 

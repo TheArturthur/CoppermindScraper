@@ -10,10 +10,18 @@ Dragonsteel owns the copyright on many of Brandon's books and it has self-publis
 2. [[#The Way of Kings 10th Anniversary Leatherbound Kickstarter .282020.29]] 
 2. [[#Four Secret Novels Kickstarter .282022.29]] 
 2. [[#Words of Radiance 10th Anniversary Leatherbound BackerKit .282024.29]] 
+2. [[#Hoid.27s Storybook Collection BackerKit .282026.29]] 
+2. [[#Other Campaigns]] 
 
 
-3 See Also. [[#See Also]] 
-4 Notes. [[#Notes]] 
+3 Headquarters. [[#Headquarters]] 
+
+3. [[#Future Plans]] 
+
+
+4 Conventions and Events. [[#Conventions and Events]] 
+5 See Also. [[#See Also]] 
+6 Notes. [[#Notes]] 
 
 
 ## Employees
@@ -41,7 +49,23 @@ Brandon released the titles and performed readings from all four novels on his Y
 
 ### *Words of Radiance* 10th Anniversary Leatherbound BackerKit (2024)
 After posting a number of videos about the [[Knights Radiant\|Knights Radiant]] featuring [[Senne Khald\|Senne Khald]], Brandon  the crowdfunding campaign for the 10th anniversary leatherbound edition of *[[Words of Radiance\|Words of Radiance]]* on March 5th, 2024, this time using BackerKit. Within a short time of the project going live, it became the largest BackerKit campaign of all time, despite the website crashing due to heavy traffic. The BackerKit campaign also features a new [[Sanderson Curiosities\|Sanderson Curiosity]], *[[Dragonsteel Prime\|Dragonsteel Prime]]*, a second edition of *[[The Way of Kings Prime\|The Way of Kings Prime]]*, and other tiers and add-ons including merchandise themed to each Radiant Order.
-At the end of the announcement video, Brandon revealed the existence of a new secret project that is part of the campaign: a future-era cosmere novel with "high cosmere connectivity". It will ship in 2025, and the title will be revealed on March 21, 2024.
+At the end of the announcement video, Brandon revealed the existence of a new secret project that is part of the campaign: a future-era cosmere novel with "high cosmere connectivity" to ship in 2025. This was ultimately revealed to be *[[Isles of the Emberdark\|Isles of the Emberdark]]*.
+
+### Hoid's Storybook Collection BackerKit (2026)
+In 2026, Dragonsteel ran a BackerKit campaign for **, a set of four picture books based on three of Hoid's in-world stories and one non-canon adventure. The campaign also included a preorder for a special release edition of another secret project, revealed to be *[[The Fires of December\|The Fires of December]]*. The campaign was funded at almost 12 times its goal.
+
+### Other Campaigns
+Dragonsteel has also participated in other crowdfunding campaigns related to cosmere-based board games and RPGs with its partners Brotherwise Games and Crafty Games.
+
+## Headquarters
+Dragonsteel's headquarters and warehouse are in Pleasant Grove, Utah. The headquarters are not open to the public, but Dragonsteel occasionally offers warehouse tours and other in-person events.
+
+### Future Plans
+In 2022, Dragonsteel first announced plans for a new headquarters referred to as Dragonsteel Village, the DS Construction Project, and eventually **Dragonsteel Plaza**. By 2023, these plans had expanded to be a "destination for fans", including the headquarters, a bookstore, a fan event space, and potentially retail spaces that would be leased to other tenants.
+In late 2023, Dragonsteel purchased land adjacent to the former Evermore Park theme park in Pleasant Grove. Dragonsteel worked with developer and contractor The Will Group to create concept art for the plaza. As of 2026, no official construction timeline has been announced; Brandon and Emily have cautioned that Dragonsteel would not rush to develop the land and it could take many years to complete.
+
+## Conventions and Events
+In November 2021, Dragonsteel held a "Mini-Con" fan convention in Provo, Utah. In 2022, the convention expanded and moved to the Salt Palace in Salt Lake City, Utah. It has been held there since, officially rebranding as **Dragonsteel Nexus** (DSNX) in 2024. It is a three-day event that typically includes a launch party for a new book, panels and presentations that include updates and announcements about Dragonsteel projects, and other activities and social events. Due to significant renovations affecting the Salt Palace, the Nexus convention is expected to move to Denver, Colorado from 2027-2030.
 
 ## See Also
 [[Mainframe\|Mainframe]], another company co-founded by Brandon focused on audio originals and other types of media

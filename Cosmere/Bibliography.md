@@ -98,7 +98,7 @@ For related information, see:
 |*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
 |*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
 |*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
-|**|[[Story Deck\|Story Deck]]/|Short Story/Picture Book|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Later rereleased as a picture book. Non-canon.| |
+|*[[The ChasmFriends Get a Pet!\|The ChasmFriends Get a Pet!]]*|[[Story Deck\|Story Deck]]/|Short Story/Picture Book|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Later rereleased as a picture book. Non-canon.| |
 |*[[Songs of the Dead\|Songs of the Dead]]*|[[The Strata Wars\|The Strata Wars]] #1|Novel|Co-written with [[Peter Orullian\|Peter Orullian]].||
 
 
