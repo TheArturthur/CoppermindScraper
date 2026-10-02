@@ -8,6 +8,14 @@
 
 **Elizandra Dramali** is the [[Koloss\|Koloss]]-blooded girlfriend of [[Jak\| Allomancer Jak]].
 
+## Contents
+
+1 Appearance and Personality. [[#Appearance and Personality]] 
+2 History. [[#History]] 
+3 Trivia. [[#Trivia]] 
+4 Notes. [[#Notes]] 
+
+
 ## Appearance and Personality
 For more images, see [[Elizandra Dramali/Gallery\|/Gallery]].
 She is described in Jak's books as being very gentle and loving. However, she has a harsher side as well. [[Handerwym\|Handerwym]] claims that "any statement that lacks three curses — and a comment about Jak's questionable parentage — cannot truly be attributed to her." She also threatened to shoot Jak in the crotch if he did not include a certain line of hers in his book. Despite her strong words, she is very fond of Jak, much to Handerwym's confusion.
@@ -18,6 +26,8 @@ She is slim, has long hair, and wears glasses and bracelets. Jak himself describ
 ## History
 The reveal of her koloss blooded heritage in the penultimate episode of the Pits of Eltania almost caused riots in the street of Elendel. A special broadsheet containing the finale was released the next day as a result.
 
+## Trivia
+She may be from the [[Dramal\|Dramal]] clan.
 
 
 https://coppermind.net/wiki/Elizandra

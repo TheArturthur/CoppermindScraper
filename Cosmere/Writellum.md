@@ -1,6 +1,6 @@
 |**Cytonics**|
 |-|-|
-|**Prerequisites**|Being descended from someone with the ability|
+|**Prerequisites**|Being descended from someone with the ability or living near a Nowhere portal|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
 t
@@ -114,7 +114,7 @@ Finally, there are **cytoshields**, which can suppress all outgoing cytonic and 
 \-M-Bot[33]
 
 
-Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, for some reason AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals, leading to a ban on them in the present times.
+Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, cytonically enhanced AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals (Likely because the delvers were originally AIs), leading to a ban on them in the present times.
 
 ### Illusions
 >“*If it's looking at you, it doesn’t see you. We are overwriting its vision.*”
@@ -122,7 +122,7 @@ Some advanced processors use cytonic technology to work much faster than normall
 
 
 Cytonics are capable of creating illusions, making others see things that aren't really there. Those illusions can range from complex scenarios to simple audiovisual noise. They aren't really physically present; rather, they exist directly in people's minds. As such, two people travelling together can usually ascertain what is and isn't real.
-Two species have been shown as capable of creating illusions. The [[Varvax\|varvax]] used them to make [[Chaser\|Chaser]] turn against his allies in the [[Battle of Alta\|Battle of Alta]]; the [[Delver\|delvers]] use them as a defense mechanism, creating various illusions in mazes as a way to confound and throw off people trying to reach the heart. Though everyone is susceptible to illusions, people who themselves have cytonic abilities are far more affected.
+Two species have been shown as capable of creating illusions. The [[Varvax\|varvax]] used them to make [[Chaser\|Chaser]] turn against his allies in the [[Battle of Alta\|Battle of Alta]]; the [[Delver\|delvers]] use them as a defense mechanism, creating various illusions in mazes as a way to confound and throw off people trying to reach the heart. Though everyone is susceptible to illusions, people who themselves have cytonic abilities are far more affected, and [[Dione\|dione]] drafts are almost completely immune, as they are, in fact, two people.
 
 ## Notable cytonics users
 For a complete list of people with cytonic abilities, see Category:Cytonics.

@@ -77,7 +77,7 @@ For related information, see:
 |*Stephen Leeds: Death & Faxes*|[[Legion (series)\|Legion]]|Audio Novel|Audio original released in 2022||
 |*[[Bastille Versus the Evil Librarians\|Bastille Versus the Evil Librarians]]*|[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]] #6|Novel|Co-written with [[Janci Patterson\|Janci Patterson]].||
 |*[[The Lost Metal\|The Lost Metal]]*|[[Mistborn Era 2\|Mistborn (Era 2)]] #4|Novel|||
-|*[[White Sand\|White Sand]]* Omnibus|[[White Sand\|White Sand]]|Graphic Novel|Adapted from Brandon's [[White Sand (prose)\|prose draft]], includes a new prologue, art and text fixes and a new ars arcanum.||
+|*[[White Sand\|White Sand]]* Omnibus|[[White Sand\|White Sand]]|Graphic Novel|Adapted from Brandon's [[White Sand (prose)\|prose draft]], includes a new prologue, art and text fixes, and a new ars arcanum.||
 |**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||Novel|| |
 |*Dark One: Forgotten*|[[Dark One (franchise)\|Dark One]] Prequel|Audio Novella|Co-written with [[Dan Wells\|Dan Wells]].||
 |*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*||Novel|| |
@@ -91,15 +91,15 @@ For related information, see:
 |*[[Wind and Truth\|Wind and Truth]]*|[[The Stormlight Archive\|The Stormlight Archive]] #5|Novel|| |
 |**2025**|*[[Isles of the Emberdark\|Isles of the Emberdark]]*||Novel|| |
 |*[[Tailored Realities\|Tailored Realities]]*||Anthology|A collection of stories which include *[[Snapshot\|Snapshot]]*, **, *[[I Hate Dragons\|I Hate Dragons]]*, *[[Dreamer\|Dreamer]]*, *[[Perfect State\|Perfect State]]*, **, *[[Defending Elysium\|Defending Elysium]]*, *[[Firstborn\|Firstborn]]*, *[[Mitosis\|Mitosis]]*, and *[[Moment Zero\|Moment Zero]]*.||
-|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.6/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
-|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.7/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck.| |
-|**2026**|*[[Blightfall (book)\|Blightfall]]*|[[Riftwake\|Riftwake]] #1|Novel|Co-written with [[Janci Patterson\|Janci Patterson]]||
+|*[[Elsecaller (short story)\|Elsecaller]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.6/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as a *Stormlight Lost Tales* Story Deck.| |
+|*[[King Lopen the First of Alethkar\|King Lopen the First of Alethkar]]*|[[The Stormlight Archive\|The Stormlight Archive]] #2.7/[[Story Deck\|Story Deck]]|Short Story|Co-written with [[Isaac Stewart\|Isaac Stewart]]. The story was released at Dragonsteel Nexus 2024 as a *Stormlight Lost Tales* Story Deck.| |
+|**2026**|*[[Songs of the Dead\|Songs of the Dead]]*|[[The Strata Wars\|The Strata Wars]] #1|Novel|Co-written with [[Peter Orullian\|Peter Orullian]]. Brandon will not be involved in future books.||
+|*[[Blightfall (book)\|Blightfall]]*|[[Riftwake\|Riftwake]] #1|Novel|Co-written with [[Janci Patterson\|Janci Patterson]]||
 |*[[The Fires of December\|The Fires of December]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|||
-|*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
 |*Wandersail*||Picture Book|Illustrated and adapted version of the tale presented in *The Way of Kings*||
+|*The Girl Who Looked Up*||Picture Book|Illustrated and adapted version of the tale presented in *Oathbringer*||
 |*The Dog and the Dragon*||Picture Book|Illustrated and adapted version of the tale presented in *Rhythm of War*||
-|*[[The ChasmFriends Get a Pet!\|The ChasmFriends Get a Pet!]]*|[[Story Deck\|Story Deck]]/|Short Story/Picture Book|Co-written with [[Dan Wells\|Dan Wells]]. The story was released at Dragonsteel Nexus 2024 as part of the Stormlight Lost Tales StoryDeck. Later rereleased as a picture book. Non-canon.| |
-|*[[Songs of the Dead\|Songs of the Dead]]*|[[The Strata Wars\|The Strata Wars]] #1|Novel|Co-written with [[Peter Orullian\|Peter Orullian]].||
+|*[[The ChasmFriends Get a Pet!\|The ChasmFriends Get a Pet!]]*|[[Story Deck\|Story Deck]]/|Short Story/Picture Book|Originally released at Dragonsteel Nexus 2024 as a *Stormlight Lost Tales* Story Deck credited to Brandon and [[Dan Wells\|Dan Wells]]. Re-released as a picture book with Dan as the author. Non-canon.| |
 
 
 

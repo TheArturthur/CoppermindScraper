@@ -654,7 +654,6 @@ Throughout their relationship, Adolin notices Kaladin's numerous depressive spir
 ### Bridge Four
 #### Drehy
 Drehy was one of the first friends that Kaladin made on Bridge Four, and one of the first people to stand up for him. He was also one of the first men that Kaladin trained in first-aid.
-While Kaladin does accept his sexuality, he isn't completely bereft of homophobia. He considers Drehy to be unmasculine, and considers Drehy's own beliefs in Vorin gender norms to be funny considering his sexuality. His displays of this prejudice are rare, but when they do occur they clearly make Drehy uncomfortable, and he isn't afraid to speak up about it.
 
 #### Moash
   With <<Moash\|Moash>> in uniform
