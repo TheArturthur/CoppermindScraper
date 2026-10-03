@@ -65,7 +65,8 @@ A few months later, Tress sells the *Crow's Song* and gets the crew pardoned by 
 [[Pakson\|Pakson]]
 
 ### Dougs
-The *Crow's Song* had an additional fifty-two crewmembers, whom [[Hoid\|Hoid]] did not feel were important enough to his telling of the story to name individually, and they are therefore referred to as Dougs. He chose to call them all Doug because the name is extremely common throughout the [[Cosmere\|cosmere]] and because [[Doug\|one of them]] is actually named Doug.
+"Dougs" redirects here. For other uses of the name, see [[Doug\|Doug]].
+The *Crow's Song* had an additional fifty-two crewmembers, whom [[Hoid\|Hoid]] did not feel were important enough to his telling of the story to name individually, and they are therefore referred to as Dougs. He chose to call them all Doug because the name is extremely common throughout the [[Cosmere\|cosmere]] and because [[Doug (Lumar)\|one of them]] is actually named Doug.
 
 
 

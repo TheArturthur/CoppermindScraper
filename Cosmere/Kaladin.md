@@ -153,7 +153,6 @@ After the re-founding of the Knights Radiant, Kaladin helped the expansion of th
 4. [[#Adolin Kholin]] 
 4. [[#Bridge Four 2]] 
 
-4. [[#Drehy]] 
 4. [[#Moash]] 
 4. [[#Teft]] 
 
@@ -652,9 +651,6 @@ This changes when Kaladin, at a suicidal disadvantage, aids Adolin in a battle a
 Throughout their relationship, Adolin notices Kaladin's numerous depressive spirals and helps to break him of them, subtly or not, by forcing Kaladin to spend time around friends and not be alone with his thoughts. Adolin's support of Kaladin is highlighted after Kaladin is relieved of duty as Highmarshal, resulting in Kaladin's depression worsening, and Adolin insists he accompany him to winehouses and various outings.
 
 ### Bridge Four
-#### Drehy
-Drehy was one of the first friends that Kaladin made on Bridge Four, and one of the first people to stand up for him. He was also one of the first men that Kaladin trained in first-aid.
-
 #### Moash
   With <<Moash\|Moash>> in uniform
 >“*Moash … had been his friend. They’d spent hours by the fire, talking about their lives. Kaladin had opened his heart to this man, in ways he hadn’t to most of the others. [...] Kaladin had failed Moash. As soundly as he’d failed Dunny, Mart, and Jaks. And of them all, losing Moash hurt the most. Because in those callous eyes, Kaladin saw himself.*”

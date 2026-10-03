@@ -55,7 +55,7 @@ Hoid considers Frost to be one of the best contract negotiators he knows, and a 
 
   Frost With Hoid
 ### Immortality
-Frost's current mortality status is ambiguous. As a dragon, he is naturally ageless; immortal in the weak sense that he could live forever absent outside intervention. However, Hoid says "as you are **now** essentially immortal", he must be immortal in *some* sense stronger than that. But contravening that, he still can be killed. Frost is both sufficiently difficult to kill that Hoid would consider him "essentially immortal", but still possible to kill. What this means is not clear.
+As a dragon, Frost has a natural lifespan of at least twenty thousand years and can heal from almost all wounds. Beyond that, he has acquired some further form of immortality, which Hoid considers to have made him "essentially immortal," though he can still be killed.
 
 ## History
 Little is known of Frost's history even though he is truly ancient. He is slightly older than Hoid, and both of them are known to have lived on [[Yolen\|Yolen]]. In their correspondence, Frost and Hoid seemed to know each other well, and Frost hinted that they had worked together in the past. They also exhibited a shared personal knowledge of a number of the original sixteen [[Vessel\|Vessels]] who perpetrated the [[Shattering of Adonalsium\|Shattering of Adonalsium]] on Yolen and took up the power of the [[Shard\|Shards]]. Specifically, the letters mentioned [[Rayse\|Rayse]], [[Bavadin\|Bavadin]], [[Aona\|Aona]], [[Skai\|Skai]], [[Ati\|Ati]], and [[Tanavast\|Tanavast]] by name, and Frost referenced "the sixteen". He was present at the [[Shattering\|Shattering]].

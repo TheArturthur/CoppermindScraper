@@ -551,6 +551,7 @@ Hoid does not pay taxes.
 Hoid's favorite color is black.
 Hoid loves bacon.
 Hoid likes milkshakes.
+Hoid does not have a favorite flavor of pie, preferring to be surprised.
 Hoid is interested in having a nose that can't smell cheese.
 Hoid is a fan of ramen, and co-owned a restaurant called the [[Noodle Pupil\|Noodle Pupil]] on [[Komashi\|Komashi]] with [[Design\|Design]] before Design gave it away to [[Yumi\|Yumi]] and [[Nikaro\|Nikaro]].
 Hoid says he has been to a planet full of pancake shaped people who speak using flatulence. Brandon has left it up to readers if he was joking or not.

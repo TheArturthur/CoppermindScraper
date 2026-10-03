@@ -10,7 +10,7 @@
 ## Contents
 
 1 Appearance and Personality. [[#Appearance and Personality]] 
-2 Attributes and Attributes. [[#Attributes and Attributes]] 
+2 Attributes and Abilities. [[#Attributes and Abilities]] 
 3 History. [[#History]] 
 4 Notes. [[#Notes]] 
 
@@ -18,7 +18,7 @@
 ## Appearance and Personality
 He has leathery skin, long limbs, and dark hair. He almost always maintains a relaxed posture. [[Rysn\|Rysn]] assumes that he is a [[Purelake\|Purelaker]], despite the fact that he does not mention [[Vun Makak\|Vun Makak]]. He is very easygoing, and is apathetic towards punctuality and schedules, like most Purelakers.
 
-## Attributes and Attributes
+## Attributes and Abilities
 Gu is able to speak [[Thaylen\|Thaylen]] well. He also speaks at least a small amount of [[Reshi\|Reshi]], which is in the same language family as Purelake dialects. He is able to skillfully navigate the waters of the Reshi Sea without hitting any dangerous underwater trees. He paddles slowly, always on one side of the boat, yet he can keep it moving straight. He believes that the Tai-na are sapient.
 
 ## History
