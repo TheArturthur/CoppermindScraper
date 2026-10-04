@@ -99,7 +99,7 @@ Vasher is a very skilled swordsman, with three hundred years of practice along w
 Vasher has the ability to interface with the [[Spiritual Realm\|Spiritual Realm]] while sleeping. There he can communicate with people with enough [[Connection\|Connection]]. This might be one of the reasons he has trouble sleeping.
 
 ### Other Invested Arts
-Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor]] and [[Hemalurgy\|Hemalurgy]] to combine those with Awakening in order to craft the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He was also able to heal everyone who was sick.
+Prior to arriving on [[Miral\|Miral]], Vasher learned enough of [[AonDor\|AonDor]] and [[Hemalurgy\|Hemalurgy]] to combine those with Awakening in order to craft the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He was allegedly also able to heal everyone who was sick.
 
 ## History
 ### First Years and Becoming a Returned
@@ -107,7 +107,7 @@ Vasher was born on Nalthis and eventually died and Returned. Like other Returned
 He formed the [[Five Scholars\|Five Scholars]], along with the other Returned [[Denth\|Denth]], [[Arsteel\|Arsteel]], [[Shashara\|Shashara]], and [[Yesteel\|Yesteel]]. As the Scholars studied the nature of Investiture, he, Shashara, and possibly some of the other Scholars stumbled upon the means of entering the [[Cognitive Realm\|Cognitive Realm]] and began traveling to other planets in the [[Cosmere\|cosmere]]. In particular, Vasher traveled to [[Roshar\|Roshar]] and possibly other planets as well during this time period.
 
 ### Containing the Megalith
-Sometime prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]]. He also healed many people who were afflicted with diseases.
+Sometime prior to the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], Vasher traveled to [[Miral\|Miral]] and became known as the Prophet. He amassed some disciples while there, and tried to improve the legal rights of the people and warned them about the dangers of the [[Zuhel bond\|Zuhel bond]]. He allegedly also healed many people who were afflicted with diseases.
 Days before he confronted the [[Megalith\|Megalith]], his followers asked him to condense his philosophy into a coherent theology. After some resistance, he wrote down three pieces of advice, which would later be known as the . This would later transform into an entire branch of religious ideology.
 With the help of a [[Dragon (cosmere)\|dragon]], Vasher launched a [[Silver\|silver]] [[Hemalurgy\|Hemalurgic]] spike into the Megalith's heart, which would later be known as the [[Ever-Slaying Sword\|Ever-Slaying Sword]]. He attached an [[Aon\|Aon]] to the spike, using purified Breaths to make it stick. This held back a fragment of the Megalith's essence, with the rest broken into smaller [[Evil\|demons]]. Worried that the imprisonment wouldn't be enough and that the fragments would grow destructive, he left passphrases with the king of  that would let him release the demon.
 Months after arriving on the planet, he left.

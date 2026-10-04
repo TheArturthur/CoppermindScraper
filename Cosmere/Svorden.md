@@ -60,7 +60,7 @@ It is not known if Svorden has a regional [[/wiki/Sel#Invested Arts]] that allow
 As part of the Fjordell Empire, the Svordish people are required to follow the [[Derethi\|Derethi]] religion. The concept of [[Svrakiss\|Svrakiss]] originated in Svorden, implying that they once had their own religion that included a heaven. Svrakiss have been integrated into Shu-Dereth as a representation of pure evil, although it's unclear how closely the Derethi version adheres to the original Svordish beliefs.
 
 ### Language
-Svorden has its own language; because of their rich literary tradition, it is read by educated people in other parts of Sel despite the fact that some people find it difficult to learn. [[Jalla\|Jalla]], who hails from Svorden, speaks the [[Aonic\|Aonic]] language with a thick accent.
+Svorden has its own language, Svordish; because of their rich literary tradition, it is read by educated people in other parts of Sel despite the fact that some people find it difficult to learn. [[Jalla\|Jalla]], who hails from Svorden, speaks the [[Aonic\|Aonic]] language with a thick accent.
 
 ### Economy
 >“*That is why you lack the riches and blessings found in nations like JinDo and Svorden.*”
