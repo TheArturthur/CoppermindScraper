@@ -12,7 +12,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 **Shan Elariel** is a [[Noble\|noble]] of [[House Elariel\|House Elariel]] on [[Scadrial\|Scadrial]]. She is a [[Allomancy\|Mistborn]] and the former fianceé of [[Elend Venture\|Elend Venture]]. She is also a member of the .
 
 ## Contents

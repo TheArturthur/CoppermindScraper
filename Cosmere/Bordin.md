@@ -6,7 +6,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“*In fact, something occurs to me right now. I might have need of you, Bordin.*”
 \-Dalinar hatching a plan to reveal Amaram[2]
 

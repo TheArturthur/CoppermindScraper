@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“* A foolish gossip? Why, yes I am. It's fascinating, the kinds of things you can learn when you're known as the court gossip.*”
 \- Lady Kliss to Vin[1]
 

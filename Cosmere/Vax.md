@@ -70,10 +70,10 @@ The **Dhatrian planetary network** includes Dhatri and Lumar, and presumably oth
 Humans, originating from Yolen, are the most prevalent type of intelligent being in the cosmere, inhabiting the majority of known planets. Notable varieties (beyond mere ethnic differences) of humans include:
 
 Rosharans, who are extremely tall because of the low gravity of their homeworld.
-Scadrial has had several modified versions of humanity:
-The boneless, shapeshifting [[Kandra\|kandra]] .
-The strong, blue-skinned [[Koloss\|koloss]].
-Slightly modified humans among the [[Malwish\|Malwish]] who require higher temperatures.
+Scadrial has had several versions of humanity created separate from the Yolish strain:
+Northern Scadrians who were specifically modified to survive the World of Ash, including the skaa, nobles, and Terris.
+[[Southern Scadrian\|Southern Scadrians]] like the [[Malwish\|Malwish]] who were used as a control group but naturally adapted to living in a higher temperature band.
+[[Hemalurgic\|Hemalurgic]] constructs such as the boneless, shapeshifting [[Kandra\|kandra]]; the strong, blue-skinned [[Koloss\|koloss]]; the heavily spiked [[Steel Inquisitors\|Steel Inquisitors]]; and other [[Hemalurgic chimera\|Hemalurgic chimeras]].
 Humans on Nalthis are born with [[BioChromatic Breath\|BioChromatic Breath]].
 [[Threnodite\|Threnodites]] are humans who can leave behind a [[Shade\|Shade]] after they die.
 The [[Lawnark\|Lawnark]] of the Grand Apparatus have evolved avian characteristics.

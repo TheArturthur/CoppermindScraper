@@ -8,7 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[The Way of Kings\|The Way of Kings]]*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*What a gift you gave them! Time to recover, for once, between Desolations. Time to progress. They never had a chance before. But this time ... yes, maybe they do.*”

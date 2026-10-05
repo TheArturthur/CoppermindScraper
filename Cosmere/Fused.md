@@ -7,7 +7,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*They are the spren of parshmen long dead. They are their kings, their lighteyes, their valiant soldiers from long, long ago. The process is not easy on them. Some of these spren are mere forces now, animalistic, fragments of minds given power by Odium. Others are more… awake. Each rebirth further injures their minds.They are reborn using the bodies of parshmen to become the Fused.*”

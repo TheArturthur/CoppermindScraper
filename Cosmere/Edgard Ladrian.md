@@ -13,7 +13,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*Mistborn: The Final Empire*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 >“*My dear friend, the entire point of life is to find ways to get other people to do your work for you. Don't you know anything about basic economics?*”
 \-Breeze to Hammond.[1]
 

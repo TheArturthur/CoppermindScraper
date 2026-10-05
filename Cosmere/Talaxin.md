@@ -64,9 +64,8 @@
 
 For more images, see [[Vasher/Gallery\|/Gallery]].
 Vasher usually has trouble expressing himself. He lets his anger get the better of him, and is rough around the edges. Vasher's memory has a few holes. He is usually grumpy. He believes he has changed over time; it is implied that he was once somewhat of an idealist. As he ages, he looks and sounds incredibly exhausted and world-weary.
-As a Returned, he can change his appearance at will. During the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], his usual appearance is that of a tall man wearing ragged brown clothing, ripped in places, with loose trousers tied at the waist by a simple rope. His facial hair is halfway between a beard and scruff. His hair is unkempt and comes down to his shoulders. He is depicted similarly in illustrations from his time on [[Miral\|Miral]].
-On [[Roshar\|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard. He has light skin and his hair is a deep chestnut color. He still favors loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice. He becomes a swordmaster and joins the [[Ardent\|ardents]], though he knows he is not good at this second job. He uses exclamations and phrases involving colors, which often confuse the Rosharans.
-When he shows his Returned form to [[Susebron\|Susebron]], he becomes taller, muscular, and clean-shaven; his hair color becomes golden and he displays a color-enhancing aura.
+As a Returned, he can change his appearance at will. During the [[Pahn Kahl rebellion\|Pahn Kahl rebellion]], his usual appearance is that of a tall man wearing ragged brown clothing, ripped in places, with loose trousers tied at the waist by a simple rope. His facial hair is halfway between a beard and scruff. His hair is unkempt and comes down to his shoulders. He is depicted similarly in illustrations from his time on [[Miral\|Miral]]. When he shows his Returned form to [[Susebron\|Susebron]], he becomes taller, muscular, and clean-shaven; his hair color becomes golden and he displays a color-enhancing aura.
+On [[Roshar\|Roshar]] he also appears long-haired, and he wears a short but scruffy black beard. He has light skin and his hair is a deep chestnut color. He still favors loose tan clothing tied with ropes, with a robust build and a scar on his cheek. His eyes "seem old", but his skin doesn't seem wrinkled enough to match them. He has a low, scratchy, grinding voice. He becomes a swordmaster and joins the [[Ardent\|ardents]], though he knows he is not good at this second job. He uses exclamations and phrases involving colors, which often confuse the Rosharans. Vasher also plays a game that might be [[Tarachin\|tarachin]] while among the ardents.
 
 ## Attributes and Abilities
   Fighting <<Kaladin\|Kaladin>> using <<Awakening\|Awakened>> sheets.
@@ -179,7 +178,7 @@ Vasher trains Kaladin and his men to be better bodyguards to the Kholins. He som
 
 ### Kaladin
 >“*But boy, you’ve got red on your ears like I’ve never seen.*”
-\-Zahel to Kaladin and his men[14]
+\-Zahel to Kaladin and his men[15]
 
 
 Vasher, as Zahel, trains [[Kaladin\|Kaladin]] and is able to understand him, knowing that he is a profound person who asks many questions. Kaladin trusts Vasher enough that he later seeks his advice when he is bothered with the moral decision of letting King [[Elhokar\|Elhokar]] be killed.

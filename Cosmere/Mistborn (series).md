@@ -44,7 +44,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2026**|**|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
 |**|1024 [[Final Empire\|FE]]|265||
-|**|1022 [[Final Empire\|FE]]|4|Released in **|
+|**|1022 [[Final Empire\|FE]]|4|Released in *[[Mistborn Scenarios\|Mistborn Scenarios]]*|
 |**|1022 [[Final Empire\|FE]]|4|Released in *Mistborn Scenarios*|
 |**|1022 [[Final Empire\|FE]]|4|Released in *Mistborn Scenarios*|
 |**|1021 [[Final Empire\|FE]]|||
@@ -84,7 +84,7 @@ Brandon has also said that he may do some more stories before Era 3, set in a 19
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
 |**2026**|**|345 [[Catacendre\|PC]]|265||
-|**|345 [[Catacendre\|PC]]|4|Released in **|
+|**|345 [[Catacendre\|PC]]|4|Released in *[[Mistborn Scenarios\|Mistborn Scenarios]]*|
 |**|345 [[Catacendre\|PC]]|4|Released in *Mistborn Scenarios*|
 |**|345 [[Catacendre\|PC]]|4|Released in *Mistborn Scenarios*|
 

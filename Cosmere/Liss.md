@@ -7,7 +7,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Words of Radiance\|Words of Radiance]]*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 **Liss**, who goes by the name of the **Weeper**, is one of the most skilled assassins on [[Roshar\|Roshar]]. As a female assassin operating in the area of [[Kholinar\|Kholinar]] in the dominantly [[Vorin\|Vorin]] region of eastern Roshar, her gender is a closely guarded secret. At one point during her career, she was hired by [[Jasnah Kholin\|Jasnah Kholin]] to spy on Jasnah's sister-in-law, [[Aesudan Kholin\|Aesudan]].

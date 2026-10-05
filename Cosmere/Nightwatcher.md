@@ -8,7 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 |**Introduced In**|*[[Oathbringer\|Oathbringer]]*|
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]* and *[[Wind and Truth\|Wind and Truth]]*!Be aware that in its current state, it may not include all additional content yet.
 
 The **Nightwatcher** is a powerful [[Spren\|spren]] on [[Roshar\|Roshar]]. She is a [[Splinter\|Splinter]] of [[Cultivation\|Cultivation]] and grants boons and curses to mortals through the [[Old Magic\|Old Magic]]. She is one of the three potential [[Bondsmith\|Bondsmith]] spren. She was created directly from the [[Night\|Night]], one of the primeval spren of Roshar, created by [[Adonalsium\|Adonalsium]].

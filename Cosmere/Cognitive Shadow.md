@@ -77,7 +77,7 @@ Prior to Odium's splintering of Honor, the Stormfather was just the [[Spren\|spr
 Thunderclasts are three giant stone monsters from Roshar that serve Odium during the [[Desolation\|Desolations]]. The rock is controlled by the Cognitive Shadow of a singer.
 
 
-> [!info] This article or section contains information from  adventure content.This information is canonical, but may change or shift during actual gameplay.
+> [!info] This article or section contains information from [[Cosmere Roleplaying Game\|Cosmere Roleplaying Game]] adventure content.This information is canonical, but may change or shift during actual gameplay.
 Shadowform Regals were created by [[Ba-Ado-Mishram\|Ba-Ado-Mishram]] during the [[False Desolation\|False Desolation]] in an attempt to create half-corporeal assassins. A singer becomes a Shadowform Regal by bonding with a [[Shadowspren\|shadowspren]]. Singers in Shadowform become Cognitive Shadows, with only their gemhearts remaining solid. If a person pierces their heart with the gemheart, the Shadowform Regal will take over their body.
 
 ### Scadrial
