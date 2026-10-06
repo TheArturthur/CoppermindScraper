@@ -1,6 +1,6 @@
 |**Liss**|
 |-|-|
-|**Abilities**|[[Shardblade\|Shardbearer]]|
+|**Abilities**|[[Shardbearer\|Shardbearer]]|
 |**Aliases**|Weeper|
 |**Profession**|Assassin|
 |**Homeworld**|[[Roshar\|Roshar]]|

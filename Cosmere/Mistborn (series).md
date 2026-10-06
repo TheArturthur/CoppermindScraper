@@ -42,7 +42,7 @@ The first Mistborn trilogy chronicles the efforts of a secret group of [[Alloman
 |**Mistborn Era 1 Campaign Setting**|
 |-|-|
 |**Year Published**|**Title**|**In-world Year(s)**|**Pages**|**Notes**|
-|**2026**|**|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
+|**2026**|*[[The Long Way In\|The Long Way In]]*|1021 [[Final Empire\|FE]]|4|Released in *[[Chasmfiend (magazine)\|Chasmfiend]]* Vol 3.|
 |**|1024 [[Final Empire\|FE]]|265||
 |**|1022 [[Final Empire\|FE]]|4|Released in *[[Mistborn Scenarios\|Mistborn Scenarios]]*|
 |**|1022 [[Final Empire\|FE]]|4|Released in *Mistborn Scenarios*|

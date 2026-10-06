@@ -26,7 +26,7 @@ The **Ire** is a group of exceptionally [[Cosmere\|cosmere]]-aware [[Elantrian\|
 4. [[#Failed Expedition]] 
 4. [[#Southern Scadrial]] 
 4. [[#Riino in Shadesmar]] 
-4. [[#Eyree in Lasting Integrity]] 
+4. [[#Ire in Lasting Integrity]] 
 4. [[#Riina as the Sorceress]] 
 
 
@@ -80,7 +80,7 @@ After the [[Catacendre\|Catacendre]], the Ire began trading with the [[Southern 
 ### Riino in Shadesmar
 Some time after joining the Ire, Riino was seen in [[Shadesmar\|Shadesmar]] on [[Roshar\|Roshar]] working as a lighthouse keeper. He was there for a specific purpose, although it was not related to the overall mission of the Ire. He was in possession of a magical orb that allowed him to see the future; he called himself the "[[/wiki/Aon#Rii]] Oracle." Kaladin met Riino and the orb seemed to transfix him; he touched it and experienced visions. Riino first assumed that Kaladin had [[BioChromatic Breath\|BioChromatic Breath]] since only Invested people could use the orb, but was then shocked when he realized that [[Surgebinding\|Surgebinding]] had returned on Roshar.
 
-### Eyree in Lasting Integrity
+### Ire in Lasting Integrity
 A group of traveling merchants, called the Eyree by Rosharans, sold the honorspren of [[Lasting Integrity\|Lasting Integrity]] Elantrian technology which can contain Stormlight.
 
 ### Riina as the Sorceress
