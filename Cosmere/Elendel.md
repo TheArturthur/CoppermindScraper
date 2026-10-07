@@ -197,7 +197,8 @@ Inner seventh
 [[Metalurgistics Allied\|Metalurgistics Allied]]
 Merchant Docks
 #### Eighth Octant
-The Eight Octant doesn't contain any known notable buildings or locations.
+
+
 #### Other Places
 [[Coolerim Playhouse\|Coolerim Playhouse]]
 [[Counselor's Cup\|Counselor's Cup]]

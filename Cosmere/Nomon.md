@@ -447,6 +447,7 @@ Roshar and Scadrial became the two main superpowers in the space age. They fough
 
 ## Culture and Society
 For a list of Rosharan cultural topics, see :Category:Rosharan culture.
+ 
 Roshar is inhabited by two major sapient species who have developed complex societies, the humans and the singers, and the collective history was shaped by the conflict and relations between one another.
 The total human population of Roshar, as of the [[True Desolation\|True Desolation]], is numbered at many millions of individuals. Roshar is more populated than [[Scadrial\|Scadrial]] and [[Nalthis\|Nalthis]], but less populated than [[Sel\|Sel]].
 
