@@ -3,8 +3,6 @@
 |**Prerequisites**|Being descended from someone with the ability or living near a Nowhere portal|
 |**Universe**|[[Cytoverse\|Cytoverse]]|
 
-t
-
 > [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Cytonic (book)\|Cytonic]]*, *[[Evershore (novella)\|Evershore]]*, *[[Defiant (book)\|Defiant]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
 For the third book in the Skyward series, see [[Cytonic (book)\|Cytonic (book)]].
@@ -27,9 +25,10 @@ For the third book in the Skyward series, see [[Cytonic (book)\|Cytonic (book)]]
 3. [[#Concussion Bolts]] 
 3. [[#FTL Travel]] 
 3. [[#Mind Swap]] 
-3. [[#Cytonic Suppression]] 
+3. [[#Cytonic Inhibiting]] 
 3. [[#Trans-cytonic processing]] 
 3. [[#Illusions]] 
+3. [[#Agelessness]] 
 
 
 4 Notable cytonics users. [[#Notable cytonics users]] 
@@ -101,17 +100,17 @@ FTL travel is an ability that can be augmented by technology to allow the cytoni
 
 Using advanced cytonics, it is possible for a mind to swap bodies, including cross-species. Among others, [[Varvax\|varvax]] dissidents can utilize this to take human bodies, akin to possession. It would, however, take much time to adjust if the bodies are too different.
 
-### Cytonic Suppression
+### Cytonic Inhibiting
 >“*Your cytonic abilities will be muted here on Starsight.*”
 \-Cuna[12]
 
 
-There exist several methods of suppressing cytonic abilities, all likely utilizing the same underlying mechanism. One, used by the [[Varvax\|varvax]], allows them to suppress cytonic abilities of the undesirable members of their populace, keeping them in check, as well as hold cytonics prisoner. Another are shields built into [[M-Bot\|M-Bot]], which protect their pilot from external cytonic influence.
+There exist several methods of suppressing cytonic abilities, all likely utilizing the same underlying mechanism. One, used by the [[Varvax\|varvax]], allows them to suppress cytonic abilities of the undesirable members of their populace, keeping them in check, as well as hold cytonics prisoner. The [[UrDail\|UrDail]] demonstrate another method where four cytonics with the inhibitor affinity work together to create a cytonic inhibitor that prevents hyperjumps to and from a given area, and likely disables all other cytonic abilities as well. Then there are shields built into [[M-Bot\|M-Bot]], which protect their pilot from external cytonic influence.
 Finally, there are **cytoshields**, which can suppress all outgoing cytonic and radio signals, as well as partially smother access to cytonics within them. They were originally designed to protect inhabited areas from [[Delver\|delvers]], although they do not succeed in this regard. They do, however, still manage to prevent long-distance teleportation, particularly in and out of the shield. They are typically built large; the two known examples surround the entireties of [[Detritus\|Detritus]] and [[Starsight (station)\|Starsight]].
 
 ### Trans-cytonic processing
 >“*To create computers that can think as quickly as my mind, you need processors that can communicate faster than normal electric signals facilitate.*”
-\-M-Bot[33]
+\-M-Bot[34]
 
 
 Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, cytonically enhanced AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals (Likely because the delvers were originally AIs), leading to a ban on them in the present times.
@@ -123,6 +122,13 @@ Some advanced processors use cytonic technology to work much faster than normall
 
 Cytonics are capable of creating illusions, making others see things that aren't really there. Those illusions can range from complex scenarios to simple audiovisual noise. They aren't really physically present; rather, they exist directly in people's minds. As such, two people travelling together can usually ascertain what is and isn't real.
 Two species have been shown as capable of creating illusions. The [[Varvax\|varvax]] used them to make [[Chaser\|Chaser]] turn against his allies in the [[Battle of Alta\|Battle of Alta]]; the [[Delver\|delvers]] use them as a defense mechanism, creating various illusions in mazes as a way to confound and throw off people trying to reach the heart. Though everyone is susceptible to illusions, people who themselves have cytonic abilities are far more affected, and [[Dione\|dione]] drafts are almost completely immune, as they are, in fact, two people.
+
+### Agelessness
+>“*[Jason Write] wasn't supposed to die.*”
+\-Chet[10]
+
+
+Cytonics have the potential to harness the timelessness of the nowhere to halt their own biological aging, seemingly indefinitely. The main user of this ability was Jason Write, who had founded and run the Phone Company for well over a century by the time of [[Defending Elysium\|Defending Elysium]]. He further outlived his wife, [[Lanna Write\|Lanna Write]], until he was killed at the end of the [[First Human War\|First Human War]].
 
 ## Notable cytonics users
 For a complete list of people with cytonic abilities, see Category:Cytonics.

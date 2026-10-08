@@ -94,6 +94,7 @@ The most notable feature of Kholinar are the windblades. They are massive rock f
 The wall surrounds the entire city. It incorporates the windblades for much of its length, with man-made structures in the spaces between them. It is sixty feet tall at its highest point and ten feet wide, with guard posts every three hundred feet. Each post is large enough to hold a platoon of soldiers.
 
 ### The Kholinar Palace
+  Kholinar City
 The [[Kholinar Palace\|Kholinar Palace]] consists of the main palace complex, a garden, and the Monastery Dais, which is connected to the main building by a passage known as the Sunwalk. The Palace is situated in the northern portion of the city, on a plateau high above the rest of the building. This caused a set of unloading docks to be built at the bottom, to transport cargo to and from the palace.
 
 ### The Kholinar Oathgate

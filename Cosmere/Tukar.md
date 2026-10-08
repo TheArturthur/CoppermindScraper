@@ -119,6 +119,7 @@ Technically, Tukar appears to be part of the greater [[Azir\|Azish Empire]], and
 Tukari in general are considered volatile and crazy by the outsiders, with the [[Alethi\|Alethi]] relieved at not having to ally with them, and [[Szeth\|Szeth]] speculating that they might suddenly abandon their crusade against Emul and go to war with [[Marat\|Marat]]. The main way of communicating with them diplomatically is through their scribes, with the god-priest himself rarely, if ever, speaking in person.
 
 ### Economy
+  A Tukari mercenary
 It is a major nation in regards to access to the Southern Sea, giving it major economic and military advantages over other nations. Tukar is known for exporting perfume, jewelry, and skilled mercenaries.
 
 ### Military
