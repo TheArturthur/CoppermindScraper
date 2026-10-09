@@ -78,10 +78,10 @@ For related information, see:
 |*[[Bastille Versus the Evil Librarians\|Bastille Versus the Evil Librarians]]*|[[Alcatraz Versus the Evil Librarians (series)\|Alcatraz Versus the Evil Librarians]] #6|Novel|Co-written with [[Janci Patterson\|Janci Patterson]].||
 |*[[The Lost Metal\|The Lost Metal]]*|[[Mistborn Era 2\|Mistborn (Era 2)]] #4|Novel|||
 |*[[White Sand\|White Sand]]* Omnibus|[[White Sand\|White Sand]]|Graphic Novel|Adapted from Brandon's [[White Sand (prose)\|prose draft]], includes a new prologue, art and text fixes, and a new ars arcanum.||
-|**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*||Novel|| |
+|**2023**|*[[Tress of the Emerald Sea\|Tress of the Emerald Sea]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|| |
 |*Dark One: Forgotten*|[[Dark One (franchise)\|Dark One]] Prequel|Audio Novella|Co-written with [[Dan Wells\|Dan Wells]].||
 |*[[The Frugal Wizard's Handbook for Surviving Medieval England\|The Frugal Wizard's Handbook for Surviving Medieval England]]*||Novel|| |
-|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||Novel|| |
+|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*|[[Hoid's Travails\|Hoid's Travails]]|Novel|| |
 |*[[The Sunlit Man\|The Sunlit Man]]*||Novel|| |
 |*[[Defiant (book)\|Defiant]]*|[[Skyward (series)\|Skyward]] #4|Novel|||
 |*[[Hyperthief\|Hyperthief]]*|[[Skyward (series)\|Skyward]] #3.2|Short Story|Co-written with [[Janci Patterson\|Janci Patterson]].||

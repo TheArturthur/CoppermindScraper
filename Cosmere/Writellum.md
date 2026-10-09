@@ -47,6 +47,7 @@ During the Second [[Human War\|Human War]], mankind attempted to augment their m
 Cytonics encompass a number of abilities powered by the living mind. Some of them can be augmented by electronics, and through this shared to populations that don't possess them. In humans, use of cytonics is signified by increased activity in the section of the brain called the **Writellum**. Only a small percentage of the total human populace possesses the capacity for cytonics, although this number is far higher among many alien races, with some implied to all have the ability, similar to [[Taynix\|taynix]]. It's also possible for AI to develop cytonics.
 While any single cytonic can utilize the whole set of psychic abilities, people tend to specialize, leaning more towards specific applications of the power rather than mastering all of them.
 In order to utilize cytonics, the user needs to meditate, focusing on the impression of moving upwards and letting the world around them fade away. While a beginner needs several moments to enter the appropriate mental state, an experienced user of cytonics can do so instantly, allowing them to actively use the ability in combat. The focus allows the cytonics to utilize the [[Nowhere\|nowhere]], a timeless emptiness outside of normal reality. Nowhere figures heavily in several, if not all cytonic abilities, most notably teleportation and FTL communication. It's also home of the [[Delver\|delvers]], making using it highly dangerous.
+Cytonics can also work in concert with one another to magnify their abilities, like when four cytonics work together to create a cytonic inhibitor field or to create a concussion field.
 
 ## Cytonic Abilities
 ### Sense
@@ -68,7 +69,7 @@ A subspecies of [[Taynix\|taynix]] can also be used to create a device known as 
 
 ### Mind Speed Acceleration
 >“*The Krell knew they had to target any of us who flew too well—because they knew about the defect.*”
-\-Spensa[26]
+\-Spensa[28]
 
 
 Cytonic users are able to react at incredible speed, thinking faster than humanly possible, although this does not allow for an increase in physical speed. This mind acceleration allows cytonics to excel in tasks that require quick reaction times, such as flight, making them excellent pilots, as well as use their abilities with little advanced warning, letting them react even to flying bullets.
@@ -82,12 +83,12 @@ Cytonic users are able to react at incredible speed, thinking faster than humanl
 [[/wiki/Taynix#Boomslugs]] are capable of generating mindblades. These taynix can be paired with cytonic technology to amplify their power, which results in a device sometimes known as a **hyperweapon** that can deliver devastating attacks.
 
 ### Concussion Bolts
-**Concussion bolts** are a cytonic attack that target a person's mind. Being hit by the full force of one can leave a person stunned for minutes and give them a headache that lasts for days.
+**Concussion bolts** are a cytonic attack that target a person's mind. Being hit by the full force of one can leave a person stunned for minutes and give them a headache that lasts for days. Five cytonics working together can create a concussion field, which can stun entire crowds.
 
 ### FTL Travel
   <<Taynix\|Taynix>>, a species of slug capable of teleportation
 >“*I did something with my mind. We vanished, leaving a ship-size hole in the expanding blossom of flame and destruction.*”
-\-Spensa[29]
+\-Spensa[31]
 
 
 An ability possessed by all advanced alien races, and developed but kept secret by the Phone Company operatives. It involves Sensing inwards on oneself and removing oneself from normal space, moving through [[Nowhere\|nowhere]] to reappear at a different point in normal space, possibly light-years away, in seconds. When reappearing, the performer pushes aside matter at their destination to create the space for themselves. While in the nowhere, the momentum of an object is lost, so when an object returns to the real world after a jump it will naturally be stationary until it is moved again. There seems to be no upper limit on the distance travelled in a jump; however, the cytonic requires keen awareness of the place they are returning to. This can be achieved with cytonic coordinates, which can be pushed directly into a person's mind and allow even an untrained cytonic to travel. Such coordinates, however, fade within a few minutes. This cytonic teleportation is sometimes referred to as a **hyperjump**.
@@ -105,12 +106,13 @@ Using advanced cytonics, it is possible for a mind to swap bodies, including cro
 \-Cuna[12]
 
 
-There exist several methods of suppressing cytonic abilities, all likely utilizing the same underlying mechanism. One, used by the [[Varvax\|varvax]], allows them to suppress cytonic abilities of the undesirable members of their populace, keeping them in check, as well as hold cytonics prisoner. The [[UrDail\|UrDail]] demonstrate another method where four cytonics with the inhibitor affinity work together to create a cytonic inhibitor that prevents hyperjumps to and from a given area, and likely disables all other cytonic abilities as well. Then there are shields built into [[M-Bot\|M-Bot]], which protect their pilot from external cytonic influence.
+There exist several methods of suppressing cytonic abilities, all likely utilizing the same underlying mechanism. One, used by the [[Varvax\|varvax]], allows them to suppress cytonic abilities of the undesirable members of their populace, keeping them in check, as well as hold cytonics prisoner.
+The [[UrDail\|UrDail]] demonstrate another method where four cytonics with the inhibitor affinity work together to create a cytonic inhibitor field that prevents hyperjumps to and from a given area and disables all other cytonic abilities within it. This inhibitor can also be created by a single [[/wiki/Taynix#Inhibitor slugs]] with technological infrastructure, enabling the addition of a 'mental password' that allows cytonics with it to use their abilities in that area and allow them to hyperjump to and from it freely. Then there are shields built into [[M-Bot\|M-Bot]], which protect their pilot from external cytonic influence.
 Finally, there are **cytoshields**, which can suppress all outgoing cytonic and radio signals, as well as partially smother access to cytonics within them. They were originally designed to protect inhabited areas from [[Delver\|delvers]], although they do not succeed in this regard. They do, however, still manage to prevent long-distance teleportation, particularly in and out of the shield. They are typically built large; the two known examples surround the entireties of [[Detritus\|Detritus]] and [[Starsight (station)\|Starsight]].
 
 ### Trans-cytonic processing
 >“*To create computers that can think as quickly as my mind, you need processors that can communicate faster than normal electric signals facilitate.*”
-\-M-Bot[34]
+\-M-Bot[36]
 
 
 Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, cytonically enhanced AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals (Likely because the delvers were originally AIs), leading to a ban on them in the present times.
@@ -128,7 +130,7 @@ Two species have been shown as capable of creating illusions. The [[Varvax\|varv
 \-Chet[10]
 
 
-Cytonics have the potential to harness the timelessness of the nowhere to halt their own biological aging, seemingly indefinitely. The main user of this ability was Jason Write, who had founded and run the Phone Company for well over a century by the time of [[Defending Elysium\|Defending Elysium]]. He further outlived his wife, [[Lanna Write\|Lanna Write]], until he was killed at the end of the [[First Human War\|First Human War]].
+Cytonics have the potential to harness the timeless nature of the nowhere to halt their own biological aging, seemingly indefinitely. The main user of this ability was Jason Write, who had founded and run the Phone Company for well over a century by the time of [[Defending Elysium\|Defending Elysium]]. He further outlived his wife, [[Lanna Write\|Lanna Write]], until he was killed at the end of the [[First Human War\|First Human War]].
 
 ## Notable cytonics users
 For a complete list of people with cytonic abilities, see Category:Cytonics.

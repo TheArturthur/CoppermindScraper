@@ -78,7 +78,7 @@ Frost and Hoid have known each other for a very long time, and Starling describe
 ## Trivia
 It is likely that there are characters older than Frost in the cosmere, but they have not been canonized.
 Frost first appeared in the unpublished novel *[[Dragonsteel Prime\|Dragonsteel Prime]]*, some of which can be read on Brandon's website. A series of *[[Dragonsteel (series)\|Dragonsteel]]* novels are still in Brandon's long-term plans for the cosmere, and would likely include Frost.
-In the original Dragonsteel Prime, Frost was posing as a human, and Hoid was able to prove he was a dragon by pranking him using a [[Tamukek\|Tamukek]].
+In the original Dragonsteel Prime, Frost was posing as a human, and Hoid was able to prove he was a dragon by contacting him using a [[Tamukek\|Tamu Kek]].
 
 
 https://coppermind.net/wiki/Frost

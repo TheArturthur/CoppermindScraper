@@ -5,9 +5,7 @@
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-> [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*!Be aware that in its current state, it may not include all additional content yet.
-
-The **King's Drop** is a [[Perfect gemstone\|perfect ruby gemstone]] stored in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] on [[Roshar\|Roshar]]. It plays a key role in the [[Battle of Thaylen Field\|Battle of Thaylen Field]].
+The **King's Drop** is a [[Perfect gemstone\|perfect ruby gemstone]] formerly stored in the [[Thaylen Gemstone Reserve\|Thaylen Gemstone Reserve]] on [[Roshar\|Roshar]]. It plays a key role in the [[Battle of Thaylen Field\|Battle of Thaylen Field]]; it is used to trap and bind the [[Unmade\|Unmade]] [[Nergaoul\|Nergaoul]].
 
 ## Contents
 
@@ -16,7 +14,7 @@ The **King's Drop** is a [[Perfect gemstone\|perfect ruby gemstone]] stored in t
 
 2. [[#Storage]] 
 2. [[#Attempted theft]] 
-2. [[#Battle of Thaylen Field]] 
+2. [[#Battle of Thaylen Field and Imprisonment of Nergaoul]] 
 
 
 3 Trivia. [[#Trivia]] 
@@ -37,14 +35,13 @@ After severely injuring herself in the [[Reshi Isles\|Reshi Isles]], Rysn took a
  
 During the scuffle, Rysn's pet [[Larkin\|larkin]], [[Chiri-Chiri\|Chiri-Chiri]], consumed the [[Stormlight\|Stormlight]] from the ruby. The assassin was prevented from escaping when Chiri-Chiri drained what appeared to be [[Voidlight\|Voidlight]] from his body, preventing the use of his powers and enabling Rysn to kill him with a crossbow. Rysn took the now-dun ruby and tried to determine how she could retrieve the wounded Vstim and exit the vault.
 
-### Battle of Thaylen Field
+### Battle of Thaylen Field and Imprisonment of Nergaoul
 When [[Odium\|Odium's]] forces attacked [[Thaylen City\|Thaylen City]], a [[Thunderclast\|thunderclast]] destroyed the Reserve as it searched for the ruby with several [[Fused\|Fused]]. Although Rysn had already managed to flee with Vstim, [[Dalinar\|Dalinar]] saw two more Fused locate their palanquin and steal the ruby. Dalinar realized that the gem must be special, and tasked [[Lift\|Lift]] with retrieving it; [[Szeth\|Szeth]] soon came to help her. After some back-and-forth with the Fused, the duo were able to procure the ruby and Lift delivered it to Dalinar.
 Dalinar was able to "lure" and trap [[Nergaoul\|Nergaoul]], the [[Unmade\|Unmade]] responsible for the [[Thrill\|Thrill]], using the gemstone. The ruby appeared to glow with Voidlight after Nergaoul was imprisoned. After the battle, Dalinar gave the gem to [[Navani\|Navani]] for study. She remarked on the visual similarity to [[Gavilar\|Gavilar's]] [[Black sphere\|black spheres]].
-The gemstone was afterwards secured inside an [[Aluminum\|aluminum]] box, which was then sunk to the bottom of the ocean, to prevent the Unmade from being released again.
+The gemstone was subsequently secured inside an [[Aluminum\|aluminum]] box, which was then sunk to the bottom of the ocean, to prevent the Unmade from being released again. The method used to sequester the gemstone makes Nergaoul's prison quite secure.
 
 ## Trivia
-> [!info] This page or section deals with theories or speculation.Please read carefully and note that this is not necessarily canonical.
-
+Brandon plans to revisit the status of the King's Drop and Nergaoul, but he has not found the right place to reveal new information.
 A ruby nicknamed [[Honor's Drop\|Honor's Drop]] is mentioned in the [[Urithiru gem archive\|Urithiru gem archive]] as one of the perfect gems guarded by the [[Order of Elsecallers\|Order of Elsecallers]] of the [[Knights Radiant\|Knights Radiant]], presumably during the [[Heraldic Epochs\|Heraldic Epochs]]. It has been speculated that the King's Drop is the same ruby in the present day.
 
 
