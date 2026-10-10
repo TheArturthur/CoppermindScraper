@@ -63,6 +63,7 @@ Over the six years following the death of Edwarn, the Set fully took control of 
 While in Bilming, Wax and his team, as well as a group of [[Ghostbloods\|Ghostbloods]], began to unravel Set's plan. Marasi confronted [[Gave Entrone\|Gave Entrone]], defeating him with the help of several of the captured people in the Community. Marasi then led them out onto the surface, ending the Community. Wax confronted Telsin, and Harmony briefly disrupted Autonomy's link to her, causing Telsin to fall unconscious. When Telsin came to, Autonomy abandoned her willingly, having apparently given up on her and her plans. After Wax and Wayne destroyed the Set's bomb, while Marasi destroyed the perpendicularity intended for the [[Men of gold and red\|men of gold and red]], Autonomy begrudgingly withdrew from Scadrial, acknowledging their victory.
 
 ## Organization
+  An agent of the Set
 The Set is an organization with a strict hierarchy among their ranks, codenames are used to indicate where one is in this hierarchy. Each rank within the set must immediately report to the rank above them, serving at their direct orders, despite this rigidity however [[Autonomy\|Autonomy]] encourages its members to be bold and thus it is common for those on the bottom rungs to try and climb up the organization. There is a military wing of the Set known as the [[Hidden Guard\|Hidden Guard]] whose members wear red uniforms.
 The ranks within the set are:
 
