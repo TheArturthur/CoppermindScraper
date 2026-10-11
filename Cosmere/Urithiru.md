@@ -23,10 +23,7 @@ The current [[Jasnah Kholin\|queen]] of Alethkar rules from the tower, though [[
 2. [[#Notable locations]] 
 
 2. [[#The Breakaway]] 
-
 2. [[#The Ten Rings]] 
-
-
 2. [[#Oathgate Platforms]] 
 2. [[#The Theater]] 
 2. [[#The Gem Archive and Re-Shephir.27s Chamber]] 
@@ -120,7 +117,7 @@ Known strata descriptions:
 The Breakaway is a large, cavernous hall as large as a small town within Urithiru's walls. While its previous function is unknown, after the [[Alethkar\|Alethi]] arrive at the tower, it becomes their central market area, with stalls, food stands, and taverns. Many of the establishments are tents or simply roped-off areas, but an increasing number of permanent structures are being built there. Merchants from all ten Alethi princedoms mingle here and all kinds of goods can be purchased, including illicit ones like firemoss.
 The atmosphere is chaotic, busy, and varied. The Breakaway has a large, round well at its center, which, like all wells at Urithiru, never seems to run out of water no matter how much is taken from it. It is unclear where the water comes from. Several groups wield visible influence here, including the , the , and the . The Breakaway is home to many secret passageways. It is also the location of many events, such as the [[Urithiru Grand Showcase\|Urithiru Grand Showcase]].
 
-
+#### The Ten Rings
 The Ten Rings is a section of the Breakaway that was planned by [[Navani Kholin\|Navani Kholin]]. The streets are neat and orderly, with quaint wooden buildings that include both shops and living quarters. Merchants who agree to Navani's oversight receive reduced taxes and frequent guard patrols. The area lacks high-end shops due to wealthier [[Lighteyes\|lighteyes]] refusing to give Navani control, but it also lacks seedier establishments due to the presence of law enforcement. A much frequented winehouse in the Ten Rings is called [[Jez's Duty\|Jez's Duty]]. This winehouse is frequented by men from all different strata of society.
 
 #### Oathgate Platforms

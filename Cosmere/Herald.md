@@ -13,7 +13,7 @@
 \-Navani[1]
 
 
-The **Heralds** are servants of [[The Almighty\|the Almighty]] worshipped across the whole of [[Roshar\|Roshar]]. There are ten of them -- though one has been replaced -- with each associated with one of the [[Ten Essences\|Ten Essences]] and one of the ten orders of the [[Knights Radiant\|Knights Radiant]]. They are known by different names in different cultures -- in [[Azir\|Azir]], they are known as the **Kadasixes**, and in [[Vorin\|Vorin]] countries, the suffix "'Elin" is often appended to their names, presumably as an honorific.
+The **Heralds** are servants of [[The Almighty\|the Almighty]] worshipped across the whole of [[Roshar\|Roshar]]. There are ten of them — though one has been replaced — with each associated with one of the [[Ten Essences\|Ten Essences]] and one of the ten orders of the [[Knights Radiant\|Knights Radiant]]. They are known by different names in different cultures -- in [[Azir\|Azir]], they are known as the **Kadasixes**, and in [[Vorin\|Vorin]] countries, the suffix "'Elin" is often appended to their names, presumably as an honorific.
 
 ## Contents
 

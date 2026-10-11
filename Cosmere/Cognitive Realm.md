@@ -96,7 +96,7 @@ The [[Ire\|Ire]] Fortress -- a stronghold adjacent to Scadrial.
 [[Silverlight\|Silverlight]] -- an ancient city built above the [[/wiki/Silverlight#Perpendicularity]], famous for its universities.
 A world that is an empty wasteland of near-nothingness.
 A place where [[Hoid\|Hoid]] keeps his "home base."
-The [[Vapor%E2%80%93Firmament corridor\|Vapor–Firmament corridor]] -- a route patrolled by the [[Malwish\|Malwish]] that runs relatively near the Drominad subastral
+The [[Vapor-Firmament corridor\|Vapor-Firmament corridor]] -- a route patrolled by the [[Malwish\|Malwish]] that runs relatively near the Drominad subastral
 ## Geography and Ecology
 ### Environments
 The Cognitive Realm looks different on every planet, with its traits partially influenced by perception, and although the composition of each subastral differs, there are certain shared characteristics between the different parts of the realm. The landscape is also not fixed - as it is a reflection of the Physical Realm, changes in that Realm, such as a body of water getting filled in with dirt, will be reflected in the Cognitive Realm, albeit with a delay. The Cognitive Realm is flat, and does not have a curvature; it is unknown which projection it uses.
