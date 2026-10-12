@@ -1,5 +1,5 @@
 *This  page lists articles associated with the same title.  If an internal link led you here, please change the link to point directly to the intended article.*
-A **[[Allomancy\|Mistborn]]** is someone who can use all of the [[Metallic Arts\|Allomantic metals]].
+A **[[/wiki/Allomancy#Mistborn]]** is someone who can use all of the [[Metallic Arts\|Allomantic metals]].
 It may also refer to:
 
 [[Mistborn (series)\|Mistborn (series)]] -- [[Brandon Sanderson\|Brandon Sanderson's]] first published series

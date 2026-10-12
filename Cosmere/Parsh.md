@@ -90,7 +90,6 @@ They were created as an essential part of the Rosharan ecosystem, to what effect
 
 ## Biology and Appearance
   A femalen singer
-  Armor made from singer bones and carapace
 Singers are humanoid, but not entirely similar to *Homo sapiens*, differing in various notable aspects. 
 They are bipedal, and posses a foramen magnum at the base of the skull; they also have a large intracranial space, comparable to *Homo sapiens*. This, alongside a presumably well-developed cerebrum, gives them a high cognitive capacity. It is unclear how prominent of a supraorbital ridge they possess, if any. They have a protruding nasus very similar to that of humans.
 Their resistance to extreme temperatures is greater than humans.
@@ -110,6 +109,7 @@ Singers have orange blood. They possess a heart which pumps blood through their 
 Their endoskeletons are made up of red-colored bones. They are known to possess a sternum, which is fused with their gemheart. Within the bone is a white marrow-like substance.
 
 ### Epidermis and Epidermal Marblings
+  Singer marbling patterns
 The most apparent sign of their non-human nature is the epidermis; it is covered in marblings, swirls of various colors - red, black or white. Most singers have dichromatic epidermides, usually red-black or red-white, but other combinations are also a possibility. These marblings can manifest in various ways, both as delicate swirls and large, wind-swept patterns. There are singers whose skin is trichromatic, but they are extremely rare relative to the dichromatic phenotype. The color whitening at the edges is a sign of age and senescence. Their hair can be a shade of black or a combination of colors but is typically orange or red – colors that do not appear to occur naturally in Rosharan humans, outside of those with partial singer genetic admixture. There is a relationship between the color of singer hair and their individual marbling colors. Even singers in forms of power sweat with exertion.
 
 ### Extremities

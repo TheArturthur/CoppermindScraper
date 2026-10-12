@@ -30,6 +30,7 @@ Everything in the cosmere has a Spiritual aspect, a soul, which represents the i
 1. [[#Connection]] 
 1. [[#Identity]] 
 1. [[#Fortune]] 
+1. [[#Intent]] 
 
 
 
@@ -97,6 +98,10 @@ For more information, see [[Identity\|Identity]].
 #### Fortune
 For more information, see [[Fortune\|Fortune]].
 [[Fortune\|Fortune]] is a Spiritual property. Fortune can be used to learn things you would not know otherwise or to see the future. While there are ways to access the Spiritual Realm that do not involve Fortune, every use of Fortune involves the Spiritual Realm.
+
+#### Intent
+For more information, see [[Intent\|Intent]].
+[[Intent\|Intent]] is a Spiritual concepted related to both the core motivation for a [[Shard\|Shard]] and the necessary desire to employ an [[Invested Art\|Invested Art]]. In regards to Shards, Intent shapes the action a [[Vessel\|Vessel]] can take while remaining aligned with its power. For Invested Arts, many of them need a specific Intent to be used but sometimes the Intent can be provided by an external source than the one doing the action.
 
 ## Access
 >“*Be wary of anyone who claims to be able to see the future, Shallan*”

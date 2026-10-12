@@ -1,5 +1,6 @@
 |**Yu-nerig**|
 |-|-|
+||
 |**Type**|Greatshell|
 |**World of Origin**|[[Roshar\|Roshar]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
