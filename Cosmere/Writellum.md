@@ -56,7 +56,7 @@ Cytonics can also work in concert with one another to magnify their abilities, l
 
 
 The ability to "see" the world with supernatural senses. [[Jason Write\|Jason Write]] uses it to perceive the light as vibrations, black being calm, white light being a roar in his mind. This allows him to get a clear picture of the world despite his blindness, though it takes a certain level of conscious effort.
-Perhaps related to this is the ability some cytonics have to detect each other. When near a fellow cytonics, they feel a sense of electicity coursing through them, or the feeling of being splashed with cold water. When they focus, they seem able to detect cytonic beings from a considerable distance. Others, however, can only detect a cytonic by deliberately probing the mind of a suspected person.
+Perhaps related to this is the ability cytonics have to detect each other. When near a fellow cytonics, they feel a sense of electicity coursing through them, the feeling of being splashed with cold water. When they focus, they are able to detect cytonic beings from a considerable distance. Others, however, can only detect a cytonic by deliberately probing the mind of a suspected person.
 
 ### FTL Communication
 >“*They used that place between heartbeats to talk to one another, to communicate instantly.*”
@@ -65,11 +65,12 @@ Perhaps related to this is the ability some cytonics have to detect each other. 
 
 The original reason cytonics was developed was its ability to connect minds of cytonics users and share verbal information. During the days of the [[Phone Company\|Phone Company]], the advanced FTL communication network that connects all mankind is powered by a single operative with developed cytonic abilities, and is mediated by cybernetic equipment.
 Cytonics can communicate without help of the electronic equipment. The range that they can communicate without technological support is unknown; two cytonics can communicate across star systems, although the communication will be spotty at best. Cytonic communication can be easily overheard by other cytonics at a distance of at least several hundred kilometers. Difference in language or species makes no distinction in FTL communication; however, it seems impossible to encrypt or secure it against eavesdroppers. It is proven that certain technology or matter can block or interfere with it.
+A rare few, highly advanced cytonics have the ability to read and communicate with non-cytonic minds. These rare cytonics feel non-cytonic minds a raised texture or little ridges in the surface of the nowhere, unlike cytonic minds and the taynix which feel like a vibrating energy. Non-cytonic minds are noted to be "quieter" and bigger than taynix minds and feel "hollow, like little vessels waiting to be filled.".
 A subspecies of [[Taynix\|taynix]] can also be used to create a device known as a **hypercomm** that allows for cytonic communication. Communications over hypercomms are sometimes referred to as **hypersignals**.
 
 ### Mind Speed Acceleration
 >“*The Krell knew they had to target any of us who flew too well—because they knew about the defect.*”
-\-Spensa[28]
+\-Spensa[29]
 
 
 Cytonic users are able to react at incredible speed, thinking faster than humanly possible, although this does not allow for an increase in physical speed. This mind acceleration allows cytonics to excel in tasks that require quick reaction times, such as flight, making them excellent pilots, as well as use their abilities with little advanced warning, letting them react even to flying bullets.
@@ -79,16 +80,16 @@ Cytonic users are able to react at incredible speed, thinking faster than humanl
 \-Jason Write[1]
 
 
-**Mindblades** are pure force, formed by the mind of the user. They can be used to cut through any solid objects, but with practice, they can be Sensed and blocked by other mindblades. They are capable of affecting even materials that are resistant to advanced conventional weaponry, such as [[Telanium\|telanium]]. They are considered one of the more advanced cytonic abilities, and difficult to figure out on one's own.
+**Mindblades** are controlled "fragments of nothing" formed by the mind of a cytonic slipping back into reality from the nowhere; the fragments are forced to take form by the nature of the universe. They can be used to cut through any solid objects, but with practice, they can be Sensed and blocked by other mindblades. They are capable of affecting even materials that are resistant to advanced conventional weaponry, such as [[Telanium\|telanium]]. They are considered one of the more advanced cytonic abilities, and difficult to figure out on one's own.
 [[/wiki/Taynix#Boomslugs]] are capable of generating mindblades. These taynix can be paired with cytonic technology to amplify their power, which results in a device sometimes known as a **hyperweapon** that can deliver devastating attacks.
 
 ### Concussion Bolts
-**Concussion bolts** are a cytonic attack that target a person's mind. Being hit by the full force of one can leave a person stunned for minutes and give them a headache that lasts for days. Five cytonics working together can create a concussion field, which can stun entire crowds.
+**Concussion bolts** are a cytonic attack that target a person's mind. Being hit by the full force of one can leave a person stunned for minutes and give them a headache that lasts for days. Five cytonics working together can amplify the ability to create a concussion field, which can stun entire crowds.
 
 ### FTL Travel
-  <<Taynix\|Taynix>>, a species of slug capable of teleportation
+  <<Taynix\|taynix>>, a species of slug capable of teleportation
 >“*I did something with my mind. We vanished, leaving a ship-size hole in the expanding blossom of flame and destruction.*”
-\-Spensa[31]
+\-Spensa[33]
 
 
 An ability possessed by all advanced alien races, and developed but kept secret by the Phone Company operatives. It involves Sensing inwards on oneself and removing oneself from normal space, moving through [[Nowhere\|nowhere]] to reappear at a different point in normal space, possibly light-years away, in seconds. When reappearing, the performer pushes aside matter at their destination to create the space for themselves. While in the nowhere, the momentum of an object is lost, so when an object returns to the real world after a jump it will naturally be stationary until it is moved again. There seems to be no upper limit on the distance travelled in a jump; however, the cytonic requires keen awareness of the place they are returning to. This can be achieved with cytonic coordinates, which can be pushed directly into a person's mind and allow even an untrained cytonic to travel. Such coordinates, however, fade within a few minutes. This cytonic teleportation is sometimes referred to as a **hyperjump**.
@@ -112,7 +113,7 @@ Finally, there are **cytoshields**, which can suppress all outgoing cytonic and 
 
 ### Trans-cytonic processing
 >“*To create computers that can think as quickly as my mind, you need processors that can communicate faster than normal electric signals facilitate.*”
-\-M-Bot[36]
+\-M-Bot[38]
 
 
 Some advanced processors use cytonic technology to work much faster than normally possible. This is most important to artificial intelligences such as [[M-Bot\|M-Bot]]. Using miniature cytonic communicators, parts of AIs can pass signals between each other at speeds faster than light, which facilitates near-human intelligence and superhuman analytics ability. As a side effect, it makes those machines detectable by organic cytonics. However, cytonically enhanced AIs anger [[Delver\|delvers]] much more than other forms of cytonics and radio signals (Likely because the delvers were originally AIs), leading to a ban on them in the present times.
@@ -130,7 +131,7 @@ Two species have been shown as capable of creating illusions. The [[Varvax\|varv
 \-Chet[10]
 
 
-Cytonics have the potential to harness the timeless nature of the nowhere to halt their own biological aging, seemingly indefinitely. The main user of this ability was Jason Write, who had founded and run the Phone Company for well over a century by the time of [[Defending Elysium\|Defending Elysium]]. He further outlived his wife, [[Lanna Write\|Lanna Write]], until he was killed at the end of the [[First Human War\|First Human War]].
+Cytonics have the potential to harness the timeless nature of the nowhere to halt their own biological aging, seemingly indefinitely. The main example of this ability was Jason Write, who had founded and run the Phone Company for well over a century by the time of [[Defending Elysium\|Defending Elysium]]. He further outlived his wife, [[Lanna Write\|Lanna Write]], until he was killed at the end of the [[First Human War\|First Human War]], likely a full century after the events of Defending Elysium. The Kitsen cytonics also discovered how to halt their aging after being stranded in the nowhere. 
 
 ## Notable cytonics users
 For a complete list of people with cytonic abilities, see Category:Cytonics.

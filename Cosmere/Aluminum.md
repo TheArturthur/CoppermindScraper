@@ -119,7 +119,7 @@ The [[Lord Ruler\|Lord Ruler]] kept aluminum and its alloy [[Duralumin\|duralumi
 
 ### Roshar
 >“*There are legends of metal that can block a Shardblade. A metal that falls from the sky. Silver, but somehow lighter.*”
-\-Taravangian on aluminum[57]
+\-Taravangian on aluminum[58]
 
 
 The Knights Radiant once lined tunnels deep beneath [[Urithiru\|Urithiru]] with ralkalest, likely to protect against intrusion into the tunnels from the foothills below via Surgebinding. It is unknown whether the term ralkalest is of Selish origin alone, or if Raboniel learned of it from another source. [[Azir\|Azir]] obtained aluminum from stars that fell from space, and historically called it starmetal.

@@ -1,5 +1,6 @@
 |**Eondel**|
 |-|-|
+||
 |**Died**|In the Attack on [[Telrii\|Telrii]]|
 |**Titles**|Count of [[Eon Plantation\|Eon Plantation]]|
 |**Profession**|Soldier |
