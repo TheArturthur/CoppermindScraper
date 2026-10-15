@@ -227,6 +227,7 @@ Brandon has planned "dragon stories," featuring other types of dragons than the 
 When asked if Obrodai was a name one of the planets of the [[Drominad System\|Drominad System]] used for themselves, Brandon responded with a [[RAFO\|RAFO]]. He has also avoided saying if it is a planet that we have already seen.
 If Vax is inhabited, they have not yet developed vaccines.
 Hoid's tale of "a planet where the only sapient life was a group of pancakelike beings that expressed themselves through flatulence"  is almost certainly a fabrication of Hoid's, and not a real planet or species in the cosmere.
+[[Pewter\|Pewter]] is associated with the Physical Realm.
 
 
 https://coppermind.net/wiki/Tear

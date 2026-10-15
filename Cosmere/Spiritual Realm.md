@@ -186,6 +186,7 @@ The [[MaiPon\|MaiPon]] learned about the Spiritual Realm in order to understand 
 ## Trivia
 The Spiritual Realm is heavily based on the Realm of Forms from Plato's , which is a realm where perfect Ideals exist, which physical objects merely engage within or imitate.
 Originally, the [[Shadowblaze\|shadowblazes]] from *[[The Rithmatist\|The Rithmatist]]* were creatures from the Spiritual Realm.
+[[Chromium\|Chromium]] is associated with the Spiritual Realm.
 
 
 https://coppermind.net/wiki/Spiritual_Realm

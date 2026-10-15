@@ -115,6 +115,7 @@ Living beings reflect in the Cognitive Realm in some manner, with this manifesta
 ## Trivia
 Although Brandon plans for Shadesmar to be used in reference to the whole cosmere and not just the Rosharan subastral, this may shift to the more scientific term ‘Cognitive Realm’ once Brandon reaches Era 4.
 The Cognitive Realm is, at least in part, inspired by .
+[[Copper\|Copper]] is associated with the Cognitive Realm.
 
 
 https://coppermind.net/wiki/Cognitive_Realm

@@ -43,6 +43,7 @@ All Aons are based on Aon Aon, which itself was based off the shape of Arelon. T
 1. [[#Ela]] 
 1. [[#Ena]] 
 1. [[#Ene]] 
+1. [[#Eol]] 
 1. [[#Eno]] 
 1. [[#Eon]] 
 1. [[#Eshe]] 
@@ -409,6 +410,10 @@ When used in AonDor, Aon Ene emits what is commonly referred to as the "Light of
 While traditionally Aon Ene is associated with books and scholarly research, it has also become associated with merchants and bankers, in response to the quote above. The former do not approve of what they see as the appropriation of the symbol they claim for their own by the latter. This conflict is in part responsible for Ene's decline in popularity in naming, though traditionalists do sometimes use it.
 Ene is also one of the major constellations that can be observed in the night sky above Arelon. It includes Sel's pole star.
 *Examples:* [[Sarene\|Sarene]], [[Enefel\|Enefel]]
+
+
+### Eol
+*Examples:* [[Eoldess\|Eoldess]]
 
 ### Eno
 
