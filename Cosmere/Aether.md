@@ -8,7 +8,7 @@
 \-Moonlight to Marasi[1]
 
 
-**Aethers** are an ancient variety of [[Investiture\|Invested]] entities present in the [[Cosmere\|cosmere]]. They originate on [[Dhatri\|Dhatri]], where the twelve primal aethers reside, although the aethers have since spread to other worlds of the cosmere. Those who are [[Luhel bond\|bonded]] to one of the twelve primal aethers and are able to manifest that aether are known as **aetherbound**. Aethers have existed since prior to the Shattering of Adonalsium, and some believe that they predate Adonalsium itself or are totally independent from its creations.
+**Aethers** are an ancient variety of [[Investiture\|Invested]] entities present in the [[Cosmere\|cosmere]]. They originate on [[Dhatri\|Dhatri]], where the twelve primal aethers reside, although the aethers have since spread to other worlds of the cosmere. Those who are [[Luhel bond\|bonded]] to one of the twelve primal aethers and are able to manifest that aether are known as **aetherbound**. Aethers have existed since prior to the [[Shattering of Adonalsium\|Shattering of Adonalsium]], and some believe that they predate [[Adonalsium\|Adonalsium]] itself or are totally independent from its creations.
 
 ## Contents
 

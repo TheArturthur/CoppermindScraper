@@ -10,7 +10,7 @@
 
 > [!info] This page or section needs to be updated with new information for *[[ReDawn (novella)\|ReDawn]]*, *[[Evershore (novella)\|Evershore]]*, and *[[Blightfall (book)\|Blightfall]]*!Be aware that in its current state, it may not include all additional content yet.
 
-**Naga** is a [[Taynix\|taynix]] found on [[Detritus\|Detritus]]. Naga is partners with Arturo.
+**Naga** is a [[Taynix\|taynix]] found on [[Detritus\|Detritus]]. Naga is partners with Arturo. And later is mentioned more in [[Blightfall\|Blightfall]]
 
 
 

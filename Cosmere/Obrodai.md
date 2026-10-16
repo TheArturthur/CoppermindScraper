@@ -108,7 +108,7 @@ Eventually, methods were discovered to cross interstellar distances through the 
 [[Dhatri\|Dhatrian]] starships
 The [[Night Brigade\|Night Brigade's]] warship
 The [[Scadrian research facility\|Scadrian vessel]] on Canticle
-The [[Sorceress's tower\|Riina's starship]] on Lumar
+[[Sorceress's tower\|Riina's starship]] on Lumar
 The Rosharans also have a method to travel faster between star systems in the Physical Realm.
 These FTL methods opened up new worlds and star systems which had been inaccessible via the Cognitive Realm for most of the history of the Cosmere. The specifics of these technologies have not yet been revealed, but the Scadrian method involves the temporal metals from [[Allomancy\|Allomancy]].
 In time, even the vacuum of space is made habitable through the construction of space stations, like the [[Iron Seven Waystation\|Iron Seven Waystation]].
