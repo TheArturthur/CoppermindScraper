@@ -200,7 +200,7 @@ The homeworld of a species allied with the [[Malwish\|Malwish]] empire, who are 
 The planet that [[Creed Wraith\|Creed Wraiths]], a type of [[Cognitive Shadow\|Cognitive Shadow]], originate from.
 There are planets which are the source of mysterious artifacts and Investiture:
 
-The planet where Hoid obtained the , a "scary" magic system that lets him know where he needs to be.
+The planet where Hoid obtained the [[Sixth Word\|Sixth Word]], a "scary" magic system that lets him know where he needs to be.
 Planet(s) where systems of as-yet-unrevealed Investiture that would work well with a wizard staff.
 The planet(s) [[Iyatil\|Iyatil]] visited to obtain her collection of artifacts from around the cosmere. Her artifacts of unknown origin are:
 "a silvery horn or claw from some great beast".

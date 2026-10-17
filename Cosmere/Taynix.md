@@ -86,6 +86,8 @@ For a full list see, see :Category:Taynix.
 [[Twist\|Twist]]
 [[Fine\|Fine]]
 [[Comfort\|Comfort]]
+[[Bob (Skyward)\|Bob]]
+[[Naga\|Naga]]
 
 
 

@@ -32,7 +32,7 @@ The ***Crow's Song*** is a pirate ship on [[Lumar\|Lumar]] originally captained 
 
 
 ## Appearance
-The *Crow's Song* is a fine, expensive merchant ship.  It is four-masted ship; the equivalent of a small galleon. It has four levels: the upper deck, exposed to the sky; the middle deck, which contains the mass, armory, and officers' quarters; the lower deck, a cramped space where most of the crew sleeps; and the hold, which stores any cargo the ship may be carrying. There are several bathrooms on various decks. It has two cannons: one on its aft deck and one on its foredeck. Except for the [[Sprouter\|sprouter's]] quarters, which are lined with aluminum, the entire ship has silver lining the floor.  It is faster than most ships on Lumar. 
+The *Crow's Song* is a fine, expensive merchant ship.  It is four-masted ship; the equivalent of a small galleon. It has four levels: the upper deck, exposed to the sky; the middle deck, which contains the mess, armory, and officers' quarters; the lower deck, a cramped space where most of the crew sleeps; and the hold, which stores any cargo the ship may be carrying. There are several bathrooms on various decks. It has two cannons: one on its aft deck and one on its foredeck. Except for the [[Sprouter\|sprouter's]] quarters, which are lined with aluminum, the entire ship has silver lining the floor.  It is faster than most ships on Lumar. 
 
 ## History
 ### Before Tress

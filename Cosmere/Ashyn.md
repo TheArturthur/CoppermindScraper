@@ -6,6 +6,8 @@
 |**System**|[[Rosharan system\|Rosharan system]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
+> [!warning] This page or section contains spoilers for *[[The Fires of December\|The Fires of December]]*!This may include worldbuilding details or key plot elements from this book. If you don't want to see this information, consider using the Time Machine.
+
 > [!info] This page or section needs to be updated with new information for *[[Rhythm of War\|Rhythm of War]]*, *[[Wind and Truth\|Wind and Truth]]*, and *[[The Fires of December\|The Fires of December]]*!Be aware that in its current state, it may not include all additional content yet.
 
 >“*There is Ashyn, the burning planet, which suffered a cataclysm long ago. *”
