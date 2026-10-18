@@ -45,7 +45,7 @@ Demid was part of Venli's inner circle that first became aware of her research w
 
 
 After Eshonai's successful transformation, Demid also took on stormform. He devised a system for transformation that involved entering the [[Highstorm\|highstorm]] after the initial stormwall had passed, as it was marginally safer. He participated in the [[Battle of Narak\|Battle of Narak]] and believed that the sacrifice of some listeners was worth the power that they had gained by calling the [[Everstorm\|Everstorm]].
-After the battle, Demid was part of the group led by [[Ulim\|Ulim]] that searched the chasms near Narak for corpses, in particular Eshonai's. He was the first to spot her body, and despite some serious cultural reservations about touching a corpse, he helped strip off her [[Shardplate\|Shardplate]].
+After the battle, Demid was part of the group led by [[Ulim\|Ulim]] that searched the chasms near Narak for corpses, in particular Eshonai's. He was the first to spot her body, and despite serious cultural reservations about touching a corpse, he helped strip off her [[Shardplate\|Shardplate]].
 Ulim later selected Demid and Venli as two of the first nine listeners that would give up their bodies for the return of the [[Fused\|Fused]]. Neither Demid nor Venli understood the consequences of this process. When the Everstorm hit, Demid died, and his body was taken over by [[Hariel\|Hariel]]. Hariel still resembled Demid, but his appearance, voice, and posture changed. Venli was shocked and upset when she realized that Demid was gone, but quickly tried to rationalize their decision.
 
 ## Relationships

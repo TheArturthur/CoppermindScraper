@@ -11,7 +11,7 @@
 |**Titles**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], Herald of Kings, Herald of the Wind, Herald of Second Chances, Highmarshal, Captain of the [[Bridgemen\|Bridgemen]], Son of Tanavast, The Surgeon, The Windrunner, The Captain, The Fallen Soldier, The Reforged Spear, Knight of Wind, Head of the Cobalt Guard |
 |**Aliases**|Kaladin Stormblessed, Bridgeboy, Kal, Lordling|
 |**Profession**|Soldier, therapist, bridgeman , bodyguard , apprentice surgeon |
-|**Groups**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], [[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army, Amaram's army , Sadeas army , Kaladin's squad , [[Takers\|Takers]] , [[Cobalt Guard\|Cobalt Guard]], [[Kholinar Wall Guard\|Kholinar Wall Guard]] |
+|**Groups**|[[Herald\|Herald]] of the [[Almighty\|Almighty]], [[Knights Radiant\|Knights Radiant]] , [[Bridge Four\|Bridge Four]], Kholin army, Amaram's army , Sadeas army , Kaladin's squad , [[Takers\|Takers]] , [[Cobalt Guard\|Cobalt Guard]] , [[Kholinar Wall Guard\|Kholinar Wall Guard]] |
 |**Birthplace**|[[Hearthstone\|Hearthstone]]|
 |**Residence**|[[Hearthstone\|Hearthstone]] , [[/wiki/Shattered Plains#Warcamps]] , [[Urithiru\|Urithiru]]|
 |**Nationality**|[[Alethi\|Alethi]]|

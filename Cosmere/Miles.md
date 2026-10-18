@@ -16,7 +16,7 @@
 \-Miles Dagouter's last words[1]
 
 
-**Miles Dagouter**, also known as **Miles Hundredlives**, was the former lawman of [[True Madil\|True Madil]] in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]] and leader of the gang of thieves and kidnappers known as the [[Vanishers\|Vanishers]]. Miles was determined to bring the government of the [[Elendel Basin\|Elendel Basin]] to its knees in his quest to get justice for its perceived mistreatment of the people of the Roughs. Miles is a [[Twinborn\|Twinborn]], being a [[Gold\|gold]] [[Misting\|Misting]] (aka an [[Augur\|Augur]]) as well as a gold [[Ferring\|Ferring]] (aka a [[Bloodmaker\|Bloodmaker]]), which allows him to [[Compounding\|compound]] and become nearly unkillable.
+**Miles Dagouter**, also known as **Miles Hundredlives**, was the former lawman of [[True Madil\|True Madil]] in the [[Roughs\|Roughs]] of [[Scadrial\|Scadrial]] and leader of the gang of thieves and kidnappers known as the [[Vanishers\|Vanishers]]. Miles was determined to bring the government of the [[Elendel Basin\|Elendel Basin]] to its knees in his quest to get justice for its perceived mistreatment of the people of the Roughs. Miles is a [[Twinborn\|Twinborn]], being a [[Gold\|gold]] [[Misting\|Misting]] (aka an [[Augur\|Augur]]) as well as a gold [[Ferring\|Ferring]] (aka a [[Bloodmaker\|Bloodmaker]]), which allows him to [[Compounding\|Compound]] and become nearly unkillable.
 
 ## Contents
 

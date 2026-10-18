@@ -16,7 +16,7 @@
 \-Traxil, line 33, from Jasnah's notebook[1]
 
 
-**Yelig-nar**, also known as **Blightwind,** is one of the [[Unmade\|Unmade]], an ancient and terrible [[Spren\|spren]] of [[Odium\|Odium]].  Unlike many of the Unmade, Yelig-nar does not appear to have a physical form, seemingly reliant on a bonding with a human or a [[Singer\|singer]], granting his host a variety of abilities. Yelig-nar joined with [[Meridas Amaram\|Meridas Amaram]] to fight in the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Exactly what level of intelligence Yelig-nar himself has is uncertain, as the people he bonds with appear to initially retain aspects of their own memories and personality.
+**Yelig-nar**, also known as **Blightwind,** is one of the [[Unmade\|Unmade]], an ancient and terrible [[Spren\|spren]] of [[Odium\|Odium]].  Unlike many of the Unmade, Yelig-nar does not appear to have a physical form, seemingly reliant on a bonding with a human or a [[Singer\|singer]], granting his host a variety of abilities. Yelig-nar joined with [[Meridas Amaram\|Meridas Amaram]] to fight in the [[Battle of Thaylen Field\|Battle of Thaylen Field]]. Exactly what level of intelligence Yelig-nar himself has is uncertain, as the people he bonds with appear to initially retain aspects of their own memories and personality. They are also eventually consumed.
 
 ## Contents
 

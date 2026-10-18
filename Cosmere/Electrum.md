@@ -41,7 +41,7 @@ While burning electrum the Oracle's future will not be revealed to enemy Alloman
 If burned with [[Duralumin\|duralumin]], it would likely have a similar effect to atium, in that the user would be able to see into the [[Spiritual Realm\|Spiritual Realm]].
 
 ## Feruchemical Use
-An electrum [[Ferring\|Ferring]] is known as a **Pinnacle**. Electrum is used to store determination. A Pinnacle filling an electrummind will become depressed, and can tap it later to enter a manic state.
+An electrum [[Ferring\|Ferring]] is known as a **Pinnacle**. Electrum is used to store determination. A Pinnacle filling an electrummind will become depressed, directionless, or unfocused and can tap it later to enter a manic state.
 
 ## Hemalurgic Use
 When used as a Hemalurgic spike, electrum steals Enhancement Allomantic powers ([[Chromium\|chromium]], [[Nicrosil\|nicrosil]], [[Aluminum\|aluminum]], and [[Duralumin\|duralumin]]).

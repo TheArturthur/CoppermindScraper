@@ -88,6 +88,7 @@ For a full list see, see :Category:Taynix.
 [[Comfort\|Comfort]]
 [[Bob (Skyward)\|Bob]]
 [[Naga\|Naga]]
+[[Hoid (Riftwake)\|Hoid]]
 
 
 
