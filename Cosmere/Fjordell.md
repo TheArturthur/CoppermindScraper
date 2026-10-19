@@ -8,7 +8,7 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 **Fjorden** is a theocratic nation state on [[Sel\|Sel]]. The people of Fjorden are called the Fjordell.
-Strict and militaristic, Fjorden is the dominant country of the continent. About three hundred years ago, their leader, the Wyrn, converted to the Derethi religion, and within a generation all of Fjorden had done likewise. Now, instead of sending troops across the continent, Fjorden sends priests, and it's said that much of Fjorden's vast power comes from conversions obtained—or forced—by them.
+Strict and militaristic, Fjorden is the dominant country of the continent. About three hundred years ago, their leader, Wyrn, converted to the Derethi religion, and within a generation all of Fjorden had done likewise. Now, instead of sending troops across the continent, Fjorden sends priests, and it's said that much of Fjorden's vast power comes from conversions obtained—or forced—by them.
 
 ## Contents
 
@@ -80,7 +80,7 @@ The [[Aberteen\|Aberteen]] is a flower found and favoured in Fjorden. The [[Sea 
 The Fjordell Empire has very diverse geography. [[Hraggen\|Hraggen]] contains a large mountain range, while [[Hrovell\|Hrovell]] is bordered to the south by mountains. All the southern nations in the Fjordell empire are bordered by a large desert. Svorden has control over a large group of islands to the west of the peninsula.
 
 ### Notable cities
-[[Widor\|Widor]] - The capital city of Fjorden. The Wyrn resides in a palace called the Zigareth in Widor.
+[[Widor\|Widor]] - The capital city of Fjorden. Wyrn resides in a palace called the Zigareth in Widor.
 [[Seraven\|Seraven]] - The most important city in [[Svorden\|Svorden]]. Seraven is an important harbor, being located on the [[Sea of Fjorden\|Sea of Fjorden]]. It is also the northernmost point in the entire Fjordell empire.
 [[Fellavoo\|Fellavoo]] - A city in the north of [[Duladel\|Duladel]]. It is located close to both [[Arelon\|Arelon]] and Fjorden.
 [[HaiKo\|HaiKo]] - A city located in the north of [[JinDo\|JinDo]]. Haiko is built against the shore of the same river as Widor.
@@ -104,7 +104,7 @@ While Fjorden itself doesn't directly rule over other territories, the Fjordell 
 [[Duladel\|Duladel]] - A kingdom in the west of the empire, they joined the Fjordell Empire after a bloody revolution, which ended with the foundation of a pro-Fjordell monarchy.
 ### The Wyrns
 #### Political significance
-Fjorden is ruled by a [[Wyrn (title)\|Wyrn]]. It appears that the Wyrn can do whatever he wishes inside Fjorden. Wyrn doesn't directly rule the other Derethi kingdoms, but he holds significant influence in them. Wyrn can command the Fjordell monasteries, including [[Dakhor\|Dakhor]], to carry out certain tasks for him.
+Fjorden is ruled by [[Wyrn (title)\|Wyrn]]. It appears that Wyrn can do whatever he wishes inside Fjorden. Wyrn doesn't directly rule the other Derethi kingdoms, but he holds significant influence in them. Wyrn can command the Fjordell monasteries, including [[Dakhor\|Dakhor]], to carry out certain tasks for him.
 The Wyrns live in the Zigareth, a palace located in the Fjordell city of [[Widor\|Widor]].
 
 #### Religious significance
@@ -176,7 +176,7 @@ Wyrn Wulfden the First converted, and so, therefore, did most of his people. Sin
 
 ### Economy
 Fjorden is a rich country. It has strong trade with Teod and Arelon, as well as with all of its current territories. It is wealthy enough to use money to control foreign politics, like the support from [[Telrii\|Telrii]] in Arelon. It is also infamously known for capitalizing on other nations' chaos.
-The Fjordell gold coin is called Wyrning. It is stamped with the profile of the Wyrn. The Fjordell make good wine, and they export these wines to other nations such as Arelon.
+The Fjordell gold coin is called Wyrning. It is stamped with the profile of Wyrn. The Fjordell make good wine, and they export these wines to other nations such as Arelon.
 
 ### Invested Art
 For more information, see [[Dakhor\|Dakhor]].

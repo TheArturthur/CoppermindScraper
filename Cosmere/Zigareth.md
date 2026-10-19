@@ -6,7 +6,7 @@
 |**World**|[[Sel\|Sel]]|
 |**Universe**|[[Cosmere\|Cosmere]]|
 
-**Zigareth** is the [[Wyrn (title)\|Wyrn's]] palace in [[Widor\|Widor]] on [[Sel\|Sel]].
+**Zigareth** is [[Wyrn (title)\|Wyrn's]] palace in [[Widor\|Widor]] on [[Sel\|Sel]].
 
 
 

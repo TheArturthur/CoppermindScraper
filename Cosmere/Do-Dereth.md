@@ -41,7 +41,7 @@ Jaddeth is intolerant of ignorance.
 The only difference between man and animal is mankind’s ability to worship Jaddeth; beasts are only capable of serving their lusts, whereas mankind is capable of devotion to a higher purpose.
 Service to Jaddeth is rewarded during life as well as in the afterlife.
 Fjordell is Jaddeth's chosen tongue, and therefore is holy, and all others are tantamount to profanity.
-Only one man – the Wyrn – serves Jaddeth directly. All others serve through a chain of command (see [[/wiki/Shu-Dereth#Organization .26 Hierarchy]] for more information).
+Only one man – Wyrn – serves Jaddeth directly. All others serve through a chain of command (see [[/wiki/Shu-Dereth#Organization .26 Hierarchy]] for more information).
 ## Religious texts and places of worship
 Derethi scriptures are contained in the **Do-Dereth**, though they also study the text of their parent religion, the Do-Kando of [[Shu-Keseg\|Shu-Keseg]].
 The Derethi worship in chapels. These chapels are often made of stone, they are also tall and have towering spires. It is untraditional to  mill about, laughing and joking, in a chapel.
@@ -52,12 +52,12 @@ A formal example of this type of relationship is that of the **odivs, krondets, 
 
 ### Chain to Jaddeth
   Dilaf, Dakhor Gragdet
-The Derethi believe that only one man – the Wyrn, or ruler, of Fjorden – can serve Jaddeth directly. All others serve only those in the position directly above them in the chain that links all people to Lord Jaddeth. This prevents those in the lower ranks from having to worry about commands of Jaddeth that are beyond their capacity to understand.
+The Derethi believe that only one man – Wyrn, the ruler of Fjorden – can serve Jaddeth directly. All others serve only those in the position directly above them in the chain that links all people to Lord Jaddeth. This prevents those in the lower ranks from having to worry about commands of Jaddeth that are beyond their capacity to understand.
 
-The **Wyrn ** of Fjorden is the only member of the church who serves Jaddeth directly. The Wyrn commands all followers of Shu-Dereth, and is able to consent to using what are considered "heathen magics" to further the empire, and give certain followers permission to use them as well.
+**Wyrn ** is the only member of the church who serves Jaddeth directly. Wyrn commands all followers of Shu-Dereth, and is able to consent to using what are considered "heathen magics" to further the empire, and give certain followers permission to use them as well.
 A **gragdet**, the leader of a monastery, is generally considered to be outside of the chain because gragdets generally don’t involve themselves in matters outside of their monastery. However, gragdets of the most powerful monasteries (Rathbore, Dakhor, and Fjeldor) rank above gyorn.
-**Gyorn** is the highest level of the Derethi priesthood except in cases where the gragdet of a powerful monastery elects to become active in the affairs of the church at large. The twenty gyorns of the Fjordell Empire are amongst the most noble in standing; kings bow to gyorns in nations where Shu-Dereth is practiced. They are known to serve as ambassadors to foreign nations, such as [[Arelon\|Arelon]] and the [[Rose Empire\|Rose Empire]]. They customarily wear red ornamental armor with billowing crimson cloaks. They are typically old, with even Hrathen, a man in his forties, being considered young for a gyorn. As they are deeply devoted and trusted, they are trusted by the Wyrn to use [[Seon\|seons]] for the purposes of communication with the Wyrn when on missions in other countries.
-**Ragnat** is the rank directly below gyorn; they usually oversee a region of Derethi worshippers. A priest must be of at least this level to command Rathbore-trained priests without the Wyrn’s permission.
+**Gyorn** is the highest level of the Derethi priesthood except in cases where the gragdet of a powerful monastery elects to become active in the affairs of the church at large. The twenty gyorns of the Fjordell Empire are amongst the most noble in standing; kings bow to gyorns in nations where Shu-Dereth is practiced. They are known to serve as ambassadors to foreign nations, such as [[Arelon\|Arelon]] and the [[Rose Empire\|Rose Empire]]. They customarily wear red ornamental armor with billowing crimson cloaks. They are typically old, with even Hrathen, a man in his forties, being considered young for a gyorn. As they are deeply devoted and trusted, they are trusted by Wyrn to use [[Seon\|seons]] for the purposes of communication with Wyrn when on missions in other countries.
+**Ragnat** is the rank directly below gyorn; they usually oversee a region of Derethi worshippers. A priest must be of at least this level to command Rathbore-trained priests without Wyrn's permission.
 **Grador** is the rank below ragnat; they generally lead chapels in large cities.
 An **arteth** is a full Derethi priest. This is the lowest rank of priest that can lead a chapel on his own. Many arteths can be assigned to one chapel with a “head arteth” leading them.
 **Dorven** is the lowest level of Derethi priest; though arteths may have some authority over the dorven, they officially serve the gradors.
@@ -71,7 +71,7 @@ Entering Derethi priests are required to join a monastery for training related t
 
 The **Fjeldor Monastery** trains spies.
 The **Rathbore Monastery** trains assassins. 
-Priests below the level of ragnat must acquire permission from the Wyrn prior to using Rathbore priests.
+Priests below the level of ragnat must acquire permission from Wyrn prior to using Rathbore priests.
 Potential members may be required to kill someone before being admitted, as [[Fjon\|Fjon]] was required to kill Hrathen before being admitted.
 The **Dakhor Monastery**, also referred to as “The Order of Bone,” trains vicious warriors that Hrathen refers to as “demons.” Dakhor monks gain enhanced abilities, such as an increase in speed or strength, as a result of the bony patterns that grow under their skin.
 
