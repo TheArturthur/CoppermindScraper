@@ -45,14 +45,14 @@ Smaller sandlings can be hunted by groups of humans using conventional weapons s
 ### Species
 Multiple species of sandlings have been seen in *White Sand*:
 
-**Keldar** (pl. Keldarin)
-**A'keldar** (pl. A'keldarin) a great sand wolf and cousin to Keldarin.
-**Tonk**  (pl. Tonks) a domesticated form of sandling used as a beast of burden on Dayside.
-**Rezal** (pl. Rezalin)
-**Terha** (pl. Terhan)
-**DelRak** (pl. DelRaiken) also known as **DelRak Naisha** - It is not aggressive, but it functions as a trap, hiding in the sand with only its triangle-shaped head showing; when anything touches it, it devours it.
-**Marken** (pl. Markens) - A [[Terken\|terken]] sandling used in the [[Mastrell's Path\|Mastrell's Path]], a trial faced by members of the [[Diem\|Diem]]. It is incredibly large, with clawed legs, a long tail, spiked carapace, and a huge round mouth rimmed with conical teeth. It is not known how this particular sandling ended up outside of its usual habitat.
-**KaRak** (pl. KaRakin) - Has a form similar to a four-legged wingless dragon with a forked tongue, frilled neck, and long tail; a baby is the size of an elephant, while an adult is approximately seventy feet tall.
+**** (pl. Keldarin)
+**** (pl. A'keldarin) a great sand wolf and cousin to Keldarin.
+**[[Tonk\|Tonk]]**  (pl. Tonks) a domesticated form of sandling used as a beast of burden on Dayside.
+**[[Rezal\|Rezal]]** (pl. Rezalin)
+**[[Terha\|Terha]]** (pl. Terhan)
+**[[DelRak\|DelRak]]** (pl. DelRaiken) also known as **DelRak Naisha** - It is not aggressive, but it functions as a trap, hiding in the sand with only its triangle-shaped head showing; when anything touches it, it devours it.
+**[[Marken\|Marken]]** (pl. Markens) - A [[Terken\|terken]] sandling used in the [[Mastrell's Path\|Mastrell's Path]], a trial faced by members of the [[Diem\|Diem]]. It is incredibly large, with clawed legs, a long tail, spiked carapace, and a huge round mouth rimmed with conical teeth. It is not known how this particular sandling ended up outside of its usual habitat.
+**[[KaRak\|KaRak]]** (pl. KaRakin) - Has a form similar to a four-legged wingless dragon with a forked tongue, frilled neck, and long tail; a baby is the size of an elephant, while an adult is approximately seventy feet tall.
 An unnamed species that is very small; groups of individuals coordinate movements and feeding, like a school of fish.
 An unnamed species that is very small and can be held in the hand.
 ## Trivia
