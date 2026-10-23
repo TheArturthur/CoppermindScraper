@@ -130,7 +130,7 @@ While the cosmere has a wide array of planets, many of them are uninhabited, not
 Bjendal is considered to be a primary system by the [[Ghostbloods\|Ghostbloods]]. In 348 [[Catacendre\|PC]], interplanetary travel to Bjendal through the [[Cognitive Realm\|Cognitive Realm]] was disrupted, likely as a result of something happening to the [[Perpendicularity\|perpendicularity]] on Bjendal.
 
 ### Jasper
->“*I have influenced my share of religions, still really embarrased about that whole fiasco on Jasper.*”
+>“*I have influenced my share of religions, still really embarrassed about that whole fiasco on Jasper.*”
 \-Hoid[41]
 
 
