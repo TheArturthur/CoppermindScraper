@@ -47,7 +47,8 @@
 6 Notable Allomancers. [[#Notable Allomancers]] 
 7 Development. [[#Development]] 
 8 External links. [[#External links]] 
-9 Notes. [[#Notes]] 
+9 Trivia. [[#Trivia]] 
+10 Notes. [[#Notes]] 
 
 
 ## Prerequisites
@@ -187,6 +188,8 @@ After the original trilogy and Brandon's reveal that atium and malatium did not 
 ## External links
 
 
+## Trivia
+FTL travel capability was 'built' into Allomancy.
 
 
 https://coppermind.net/wiki/Misting

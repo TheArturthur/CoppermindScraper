@@ -189,7 +189,7 @@ After the original trilogy and Brandon's reveal that atium and malatium did not 
 
 
 ## Trivia
-FTL travel capability was built into allomancy and [[Feruchemy\|feruchemy]].
+FTL travel capability was 'built' into Allomancy.
 
 
 https://coppermind.net/wiki/Allomancy
