@@ -85,7 +85,7 @@ For the history of the original Vessel, see [[/wiki/Koravellium Avast#History]].
 \-Hoid[41]
 
 
-The Shard of Cultivation was created during the Shattering, and was subsequently taken up by [[Koravellium Avast\|Koravellium Avast]]. She and [[Honor\|Honor]], with whom she was romantically involved, departed the site of the Shattering, [[Yolen\|Yolen]], and ended up on Roshar. There, they became the gods of a local sentient species known as the [[Singer\|singers]]. However, following [[Odium\|Odium's]] arrival in the [[Rosharan system\|Rosharan system]], the two Shards ended up siding with human newcomers instead.
+The Shard of Cultivation was created during the Shattering, and was subsequently taken up by [[Koravellium Avast\|Koravellium Avast]]. After departing the site of the Shattering, [[Yolen\|Yolen]], she arrived on Roshar after [[Honor\|Honor]] with whom she was romantically involved. There, they became the gods of a local sentient species known as the [[Singer\|Singers]]. She initially ignored [[Odium\|Odium's]] arrival in the [[Rosharan system\|Rosharan system]], 2000 years after the Shattering. But when Honor sided with the humans on Ashyn, she briefly left the Rosharan System to find information about Odium's actions. Returning 2500 years after the Shattering, Honor and Cultivation ended up siding with the human newcomers as the Singers felt betrayed by Honor's journey to Ashyn. 
 At an unknown point in time, she created the [[Nightwatcher\|Nightwatcher]], who became both infamous and deeply sought after for her ability to grant banes and boons with the [[Old Magic\|Old Magic]]. She also created the [[Sibling\|Sibling]] alongside Honor, who became vital in the functioning of [[Urithiru\|Urithiru]] and the fight against the [[Voidbringers\|Voidbringers]].
 Although Cultivation assisted Honor in fighting Odium, Honor still perished. Following his death, Cultivation withdrew in grief, and appeared to have lost all interest in aiding mankind any longer. This was not entirely correct, however -- rather than hiding, she was planning.
 Cultivation also briefly spent time on [[Ashyn\|Ashyn]].
@@ -98,7 +98,7 @@ Unlike with all other boons and curses, Dalinar's memories gradually returned af
 ## Influence
  
 >“*Storming Mother of the World and Father of Storms above!*”
-\-Lift[49]
+\-Lift[51]
 
 
 Cultivation has been honored on [[Roshar\|Roshar]] for a long time, at least since the era of the [[Knights Radiant\|Knights Radiant]]. In the present day, however, her worship is limited to the western part of the continent, where she is considered an embodiment of nature and nature [[Spren\|spren]]. There, she is sometimes referred to as **Mother of the World**. Even in the east, people sometimes make references to Mother Cultivation, though typically as a joke. In [[Vorinism\|Vorinism]], belief in her and her cohorts, such as the [[Nightwatcher\|Nightwatcher]], is considered pagan superstition and usually dismissed.
