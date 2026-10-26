@@ -80,7 +80,7 @@ For centuries, AonDor functioned fine, Elantrians ruling Arelon from Elantris. H
 [[Raoden\|Raoden]] managed to discover what was wrong with the AonDor during his imprisonment in the city, and he repaired the Rao and restored the city to its former glory. He, an Elantrian, took his place as king of Arelon, ruling from the city of Elantris.
 
 ### The Sorceress of Lumar
-At some point in the future, [[Riina\|Riina]] settled on [[Lumar\|Lumar]] and became feared as the Sorceress. One source of her infamy as her various curses, which she laid upon people using complex AonDor arrays.
+At some point in the future, [[Riina\|Riina]] settled on [[Lumar\|Lumar]] and became feared as the Sorceress. One source of her infamy was her various curses, which she laid upon people using complex AonDor arrays.
 
 ## Known Elantrians
 For more information, see :Category: Elantrians.

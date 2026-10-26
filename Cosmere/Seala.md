@@ -27,7 +27,7 @@ Raoden learns of Seala's case in a book about unusual occurrences with [[AonDor\
 
 ## Trivia
 Her name is based on [[/wiki/Aon#Sea]], which means "chastity or faithfulness".
-In the tenth anniversary ars arcanum, it lists her name as also using [[/wiki/Aon#Ala]] as a base Aon.
+In the tenth anniversary Ars Arcanum, it lists her name as also being based on [[/wiki/Aon#Ala]].
 
 
 https://coppermind.net/wiki/Seala
