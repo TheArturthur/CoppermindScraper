@@ -54,7 +54,7 @@ The cover of the novella depicts the exoskeleton of a [[Larkin\|larkin]].
 The prologue from the first draft was sent in Brandon's newsletter on August 6, 2020.
 ## Statistical Analysis
 For a full statistical analysis, see [[Dawnshard (novella)/Statistical analysis\|/Statistical analysis]].
-*Dawnshard* consists of nineteen chapters, a prologue and epilogue. Across these, there are 17 sections from [[Rysn\|Rysn's]] point of view, 10 from [[Lopen\|Lopen's]], 1 from [[Nikli\|Nikli's]], and 1 from [[Yalb\|Yalb's]] with a total of 55,096 words. Unlike Edgedancer, each chapter may have more than one character's point of view.
+*Dawnshard* consists of nineteen chapters, a prologue and epilogue. Across these, there are 17 sections from [[Rysn\|Rysn's]] point of view, 10 from [[Lopen\|Lopen's]], 1 from [[Nikli\|Nikli's]], and 1 from [[Yalb\|Yalb's]] with a total of 55,096 words. Unlike Edgedancer, some of the chapters have more than one character's point of view.
 
 |**Word Count**|55,096|e-book PDF release|
 |-|-|
