@@ -224,7 +224,7 @@ While most planets have at most one Shard, [[Sel\|Sel]], [[Scadrial\|Scadrial]],
 |[[Ambition\|Ambition]]|[[Uli Da\|Uli Da]] |[[Threnody\|Threnody]]|*[[Shadows for Silence in the Forests of Hell\|Shadows for Silence in the Forests of Hell]]*, *[[Isles of the Emberdark\|Isles of the Emberdark]]*||
 |[[Invention\|Invention]]|[[Chan Ko Sar\|Chan Ko Sar]]|[[Grand Apparatus\|Grand Apparatus]]|*Unknown*||
 |[[Mercy\|Mercy]]|*Unknown*|*Unknown*|*Unknown*||
-|[[Valor\|Valor]]|[[Medelantorius\|Medelantorius]]|*Unknown*|*Unknown*||
+|[[Valor\|Valor]]|[[Medelantorius\|Medelantorius]]|[[Miral\|Miral]]|*[[The Fires of December\|The Fires of December]]*||
 |[[Whimsy\|Whimsy]]|*Unknown*|*Unknown*|*Unknown*||
 |[[Virtuosity\|Virtuosity]]|*Unknown*|[[Komashi\|Komashi]]|*[[Yumi and the Nightmare Painter\|Yumi and the Nightmare Painter]]*||
 |[[Reason\|Reason]]|[[Euridrius\|Euridrius]]|*Unknown*|*Unknown*||

@@ -19,31 +19,18 @@ The Davar family live on an estate in Valam princedom and are known for mining. 
 At the age of eleven Shallan begins manifesting [[Surgebinding\|Surgebinding]] abilities and her mother attempts to kill her, leading to her own death which Lin takes the blame for. Shallan blanks out the experience and blames her father with everyone else. This strain on Lin causes him to become harsh and abusive towards his children. He eventually exiles Helaran, and then kills his second wife [[Malise Gevelmar\|Malise Gevelmar]]. After he threatens to kill Balat, Shallan poisons and then throttles Lin. During this time [[Helaran\|Helaran]] engages in a battle against [[Meridas Amaram\|Meridas Amaram]] and is killed by [[Kaladin\|Kaladin]].
 After the [[Battle of Vedenar\|Battle of Vedenar]] and the death of Highprince Valam, the surviving brothers travel to [[Urithiru\|Urithiru]] to meet [[Shallan\|Shallan]]. They arrive in the days after the [[Battle of Thaylen Field\|Battle of Thaylen Field]], the day of Shallan's wedding to [[Adolin Kholin\|Adolin Kholin]].
 
-## Family Tree
-House Davar
-|[[Malise Gevelmar\|Malise Gevelmar]]||||[[Lin Davar\|Lin]]||||[[Shallan's mother\|Lin's first wife (name unknown)]]|
-|-|-|
-||||||||
-|||||||||||||
-|
-|||||||||||||||||||||||||||||||
-|||||||||||||||||||||||||||||
-|[[Helaran\|Helaran]]||[[Balat\|Balat]]||[[Eylita Tavinar\|Eylita]]|||[[Wikim\|Wikim]]|||[[Jushu\|Jushu]]|||[[Shallan\|Shallan]]|||[[Adolin\|Adolin]]|
-||||
+## Known Members
 
-|||
-|-|-|
-|
-||
-||
-|||
-|
-||
-||
-||
-||
-| |Deceased|
-
+[[Lin Davar\|Lin Davar]]
+[[Chanarach\|Chanarach]]
+[[Malise Gevelmar\|Malise Gevelmar]]
+[[Helaran Davar\|Helaran Davar]]
+[[Balat Davar\|Balat Davar]]
+[[Eylita Tavinar\|Eylita Tavinar]]
+[[Jushu Davar\|Jushu Davar]]
+[[Wikim Davar\|Wikim Davar]]
+[[Shallan Davar\|Shallan Davar]]
+[[Adolin Kholin\|Adolin Kholin]]
 
 
 

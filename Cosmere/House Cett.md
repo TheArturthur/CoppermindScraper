@@ -28,7 +28,7 @@
 3. [[#Elendel]] 
 
 
-4 Members. [[#Members]] 
+4 Known Members. [[#Known Members]] 
 5 Notes. [[#Notes]] 
 
 
@@ -62,27 +62,22 @@ House Cett would also be a major political entity in the New Empire. Allrianne c
 ### Elendel
 Ashweather and Gneorndin would continue the Cett house, while Allrianne would found house Ladrian with Breeze. Both of these houses would grow to become immensely wealthy and powerful. House Cett also received a hereditary seat on the Elendel Senate. At some point in the early part of the third century, Westweather became heir. During the first three centuries after the Catacendre, a member of house Cett founded a company called [[Ashweather Carriage and Coach\|Ashweather Carriage and Coach]], likely named after [[Ashweather Cett\|Ashweather Cett]]. In 342 [[Catacendre\|PC]], it was managed by an [[Cett (coach owner)\|unnamed Cett]]. The government of 348 [[Catacendre\|PC]] saw House Cett be among the most powerful faction leaders. That same year, after rage in the Outer Cities due to an incident involving Elendel and Bilming constables, Lady [[Steris Ladrian\|Steris Ladrian]] called for a small council to address the incident, and the governer chose Darlin Cett to join them. Darlin advised that since war seemed inevitable, they should strike first. After the Trellium bomb was confirmed to exist though, he fled the city, likely taking other members of House Cett with him.
 
-## Members
+## Known Members
 
-Lord of House Cett during the Final Empire, claimed kingship after the Collapse.
-
-
-Ashweathers daughter. She founded House Ladrian along with Breeze.
-
-
-Ashweathers son. He presumably became House Lord after Ashweathers death.
-
-
-A Cett lady during 341 [[Catacendre\|PC]].
-
-
-The heir to house Cett during 341 [[Catacendre\|PC]].
+[[Ashweather Cett\|Ashweather Cett]]
+[[Allrianne Cett\|Allrianne Cett]]
+[[Edgard Ladrian\|Edgard Ladrian]]
+[[Gneorndin Cett\|Gneorndin Cett]]
+[[Allrianne's mother\|Allrianne's mother]]
+[[Aving Cett\|Aving Cett]]
+[[Westweather Cett\|Westweather Cett]]
+[[Darlin Cett\|Darlin Cett]]
+[[Cett (coach owner)\|Cett (coach owner)]]
+[[Trevva Cett-Venture\|Trevva Cett-Venture]]
 
 
-Senator of House Cett during 348 [[Catacendre\|PC]].
 
 
-Manages Ashweather Carriage and Coach during 342 [[Catacendre\|PC]].
 
 
 

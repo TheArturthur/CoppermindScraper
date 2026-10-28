@@ -10,7 +10,6 @@
 
 
 **House Elariel** is one of the oldest Great Houses in the [[Final Empire\|Final Empire]] on [[Scadrial\|Scadrial]]. At the beginning of the Mistborn series it is the third most powerful Great House. They relied on their reputation and proficient political maneuverings to sustain their third-place rank and extensive influence in the Central and Western [[Dominance\|Dominances]]. Elariel carefully negotiated marriage contracts to normalize relations with other Great Houses and establish vassals among the lesser nobility. The house also leveraged familial connections, predatory financing practices, and an extensive network of spies, assassins, and saboteurs to subsume vulnerable lesser houses and preserve Elariel’s ancestral wealth.
-Members include [[Shan Elariel\|Shan Elariel]], [[Idkwyl Elariel\|Idkwyl Elariel]] and [[Kwylliam Elariel\|Kwylliam Elariel]]. House Elariel also had the services of at least one other Mistborn, who may or may not have been a member of the family.
 
 ## Contents
 
@@ -26,8 +25,9 @@ Members include [[Shan Elariel\|Shan Elariel]], [[Idkwyl Elariel\|Idkwyl Elariel
 2. [[#Elendel Basin]] 
 
 
-3 Trivia. [[#Trivia]] 
-4 Notes. [[#Notes]] 
+3 Known Members. [[#Known Members]] 
+4 Trivia. [[#Trivia]] 
+5 Notes. [[#Notes]] 
 
 
 ## Holdings
@@ -44,10 +44,24 @@ House Elariel was founded by an unknown person at an unknown period of time earl
 #### Elendel Basin
 House Elariel, although greatly reduced in power, survived the [[Catacendre\|Catacendre]]. The surviving members of House Elariel ended up "all over" the [[Elendel Basin\|Elendel Basin]]. According to a 348 [[Catacendre\|PC]] issue of *[[The Two Seasons\|The Two Seasons]]*, a [[Bilming\|Bilming]] broadsheet, [[Idkwyl Elariel\|Idkwyl Elariel]] is an up-and-coming designer bringing [[Terris\|Terris]]-inspired designs to Elendel at the [[Elariel Yearly Spring Salon\|Elariel Yearly Spring Salon]].
 
+## Known Members
+
+[[Shan Elariel\|Shan Elariel]]
+[[Idkwyl Elariel\|Idkwyl Elariel]]
+[[Kwylliam Elariel\|Kwylliam Elariel]]
+[[Idren Seeris\|Idren Seeris]]
+
+
+
+
+
+
+
+
+
+
 ## Trivia
 Elariel seems to be a house well accustomed to intrigue. Its ballroom, full of secret alcoves and muted lighting, is well suited for discussing secret alliances and schemes while at balls. Once Elend discovers that Shan Elariel is a Mistborn, he suspects that House Elariel's intention was to have him killed as soon as an Elariel grandson was born.
-
-
 
 
 https://coppermind.net/wiki/House_Elariel

@@ -23,7 +23,8 @@ House **Yomen** is a major socio-political entity on [[Scadrial\|Scadrial]] afte
 
 
 3 Politics. [[#Politics]] 
-4 Notes. [[#Notes]] 
+4 Known Members. [[#Known Members]] 
+5 Notes. [[#Notes]] 
 
 
 ## Property
@@ -38,6 +39,12 @@ During the year 341 [[Catacendre\|PC]] Lord Joshin Yomen married Lady Mi'chelle 
 
 ## Politics
 As a powerful Noble House, the Yomens have a seat on the Elendel Senate. House Yomen, through senator Mi'chelle Yomen, was the first house to vote against the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]]. Lady Yomen is also known to be a good friend to [[House Ladrian\|House Ladrian]]. This is likely a direct effect of Wax and his allies' heroic actions at the [[Yomen-Ostlin wedding dinner\|Yomen-Ostlin wedding]], as well as his involvement with the investigation and capture of the Vanishers.
+
+## Known Members
+
+[[Aradan Yomen\|Aradan Yomen]]
+[[Joshin Yomen\|Joshin Yomen]]
+[[Mi'chelle Yomen\|Mi'chelle Yomen]]
 
 
 

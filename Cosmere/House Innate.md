@@ -14,7 +14,7 @@ Notable members include [[Winsting Innate\|Winsting Innate]] and former Governor
 3 Holdings and Estate. [[#Holdings and Estate]] 
 4 Relationships. [[#Relationships]] 
 5 Legacy & Downfall. [[#Legacy .26 Downfall]] 
-6 Family Tree. [[#Family Tree]] 
+6 Known Members. [[#Known Members]] 
 7 Notes. [[#Notes]] 
 
 
@@ -33,27 +33,11 @@ The house held a coveted Senate vote which was sold for vast sums of money. The 
 ## Legacy & Downfall
 With Winsting murdered at auction and Replar secretly assassinated by [[Paalm\|Paalm]], the core leadership of the house was effectively wiped out. The public outrage at the exposed corruption punctuated by the arrest of the Governor destroyed what was left of the house's political reputation. Replar's death cleared the way for [[Claude Aradel\|Claude Aradel]] to take the office which shifted Elendel's political structure away from the corruption of nobility.
 
-## Family Tree
-House Innate family tree
-||[[Allri Innate\|Allri]]|||[[Replar Innate\|Replar]]|||[[Winsting Innate\|Winsting]]|||
-|-|-|
-|||||
-|||||||||||||||||
-|
+## Known Members
 
-|||
-|-|-|
-|
-||
-||
-|||
-|
-||
-||
-||
-||
-| |Deceased|
-
+[[Allri Innate\|Allri Innate]]
+[[Replar Innate\|Replar Innate]]
+[[Winsting Innate\|Winsting Innate]]
 
 
 

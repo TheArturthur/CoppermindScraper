@@ -8,12 +8,11 @@
 |**Universe**|[[Cosmere\|Cosmere]]|
 
 **House Venture** is a [[Noble\|noble]] house originally from the city of [[Urteau\|Urteau]] in [[Scadrial\|Scadrial]]. It is the largest and wealthiest house during the fall of the [[Final Empire\|Final Empire]]. They hold authority in both the Northern and the Central [[Dominance\|Dominances]]. The house is tasked by the [[Lord Ruler\|Lord Ruler]] to oversee the mining of [[Atium\|atium]] from the [[Pits of Hathsin\|Pits of Hathsin]] and gains considerable profit with it. The house’s political rivals are [[House Hasting\|House Hasting]] and [[House Lekal\|House Lekal]].
-Members include [[Straff Venture\|Straff]], [[Elend\|Elend]] and [[Zane\|Zane]]. [[Douglas Venture\|Douglas Venture]] is a noble in [[Elendel\|Elendel]].
 
 ## Contents
 
 1 Keep Venture. [[#Keep Venture]] 
-2 Family Tree. [[#Family Tree]] 
+2 Known Members. [[#Known Members]] 
 3 Trivia. [[#Trivia]] 
 4 Notes. [[#Notes]] 
 
@@ -23,40 +22,16 @@ Members include [[Straff Venture\|Straff]], [[Elend\|Elend]] and [[Zane\|Zane]].
 The building is massive and rectangular, with a driveway for carriages. There are eight large limelights along the outside of the building, with mirrors behind them angling the light directly onto it. The main doors lead into a foyer, which in turn leads into the main hall, where balls take place. 
 The main hall is four or five stories high, its length several times its width. The stone tiles of the hall's floor form a curling pattern of grey and white, resembling mists. Large rectangular stained glass windows line the hall, lit by the limelights outside. The scenes depicted are mostly related to the Lord Ruler and the [[Deepness\|Deepness]], showing it as a violet formless mass. Beautifully carved pillars, the tops of which are carved into stone animals, are set into the wall between the windows, and beneath them is an indented single-story gallery. During balls, dancing takes place in the center of the hall while tables are set up under the overhang of the gallery. The far end of the room holds the dining table of Straff Venture, on a low balcony set into the wall. Banners hang from the high, arching ceiling, which is intersected with buttressings and carved capstones. An inset balcony runs above the length of the far wall, providing a good view of the banners, the windows, and the rest of the hall. It is lit only by small lanterns of blue glass set into the walls, bracketed in iron wrought into the shape of curling vines. The balcony railing is also made of wrought iron, shaped into thick vines. This upper balcony can be reached by a staircase on the left side of the room, which is also decorated with small stained glass windows.
 
-## Family Tree
-House Venture family tree
-|||||[[Elend's mother\|Unknown]]||||[[Straff Venture\|Straff]]||||Unknown|
-|-|-|
-|||||||||
-||||||||||||||||||||||
-|
-||||||||||||||||||||||
-|
-||[[Vin\|Vin]]||||[[Elend Venture\|Elend]]||||[[Zane Venture\|Zane]]||||
-|||||||
-|||||||||||||||||||
-|
-|||||||||||||||||||
-|
-||||||||||||||||||||
-|
-||||||||||||||||||||
-|
-|||||[[Douglas Venture\|Douglas]]||||||||||||
-|
+## Known Members
 
-|||
-|-|-|
-|
-||
-||
-|||
-|
-||
-||
-||
-||
-| |Deceased|
+[[Elend Venture\|Elend Venture]]
+[[Straff Venture\|Straff Venture]]
+
+[[Zane Venture\|Zane Venture]]
+[[Vin Venture\|Vin Venture]]
+[[Douglas Venture\|Douglas Venture]]
+
+[[Trevva Cett-Venture\|Trevva Cett-Venture]]
 
 
 ## Trivia

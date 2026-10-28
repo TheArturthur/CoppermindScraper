@@ -23,7 +23,7 @@
 
 
 3 Politics. [[#Politics]] 
-4 Family Tree. [[#Family Tree]] 
+4 Known Members. [[#Known Members]] 
 5 Notes. [[#Notes]] 
 
 
@@ -65,53 +65,18 @@ The High Lord of the house has a seat on the city Senate, where he represents al
 As a result of Edwarn Ladrian's actions as High Lord which greatly impoverish the house, Waxillium Ladrian initiates talks with Lord [[Jackstom Harms\|Jackstom Harms]] with the intent of marrying his daughter, [[Steris\|Steris]]. In uniting the houses, House Ladrian would receive badly needed funds while [[House Harms\|House Harms]] would gain an increase in notoriety and the possibility of a male heir. After their engagement, Wax successfully uses Steris' funds to get the house out of most of its debts. He is able to avoid foreclosures, which allows him time to wait for other investments to pay off. As a result, the house once again becomes one of the wealthiest in Elendel and regains much of its influence.
 In addition to this, when [[Claude Aradel\|Claude Aradel]] publicly arrests Governor [[Replar Innate\|Replar Innate]] and then goes after the various city lords with whom the governor had conducted shady deals, House Ladrian and its allies remain untouched due to Wax's policy of only conducting business with people of repute. Many consider this a major political victory. Waxillium, the house lord, proposed a worker's rights' act to the Senate. He also held a speech, and voted, against the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]].
 
-## Family Tree
-House Ladrian Family Tree
-|||||[[Breeze\|Breeze]]||[[Allrianne\|Allrianne]]|||||||||||||||||
-|-|-|
-|||
-|||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||
-|
-||||||||||||[[Vwafendal\|Vwafendal]]||Unknown||||||||||||||||
-|||
-||||||||||||||||||||||||||||||||||||||
-|||||||
-|Edwarn's Wife||[[Edwarn Ladrian\|Edwarn]]||Wax's Father||Wax's Mother||||||Unknown||[[Jackstom Harms\|Jackstom Harms]]||Unknown|||
-|||||||||
-||||||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||||||
-||||||||||
-|||[[Hinston Ladrian\|Hinston]]||||||[[Telsin Ladrian\|Telsin]]||[[Paalm\|Lessie]]||[[Waxillium Ladrian\|Wax]]||[[Steris Harms\|Steris Harms]]||[[Marasi Colms\|Marasi Colms]]||
-||||
-|||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||||
-|||||||||
-||||||||||||||||||[[Maxillium Ladrian\|Max]]||||[[Tindwyl Ladrian\|Tindwyl]]||||||||||
-|
+## Known Members
 
-|||
-|-|-|
-|
-||
-||
-|||
-|
-||
-||
-||
-||
-| |Deceased|
+[[Edgard Ladrian\|Edgard Ladrian]]
+[[Allrianne Cett\|Allrianne Cett]]
+[[Edwarn Ladrian\|Edwarn Ladrian]]
 
+[[Waxillium Ladrian\|Waxillium Ladrian]]
+[[Steris Harms\|Steris Harms]]
+[[Telsin Ladrian\|Telsin Ladrian]]
+[[Hinston Ladrian\|Hinston Ladrian]]
+[[Maxillium Ladrian\|Maxillium Ladrian]]
+[[Tindwyl Ladrian\|Tindwyl Ladrian]]
 
 
 

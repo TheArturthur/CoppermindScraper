@@ -1,6 +1,7 @@
 |**Mari Hammondess**|
 |-|-|
-|**Family**|
+|**[[House Hammondess\|House Hammondess]]**|
+|**Siblings**||
 |**Ancestors**|[[Hammond\|Hammond]], [[Mardra\|Mardra]]|
 |**Residence**|[[Elendel\|Elendel]]|
 |**Homeworld**|[[Scadrial\|Scadrial]]|
@@ -14,6 +15,7 @@ Mari Hammondess is considered to be attractive. She has a small gap between her 
 
 ## History
 Mari was the acting senator for House Hammondess during 348 [[Catacendre\|PC]]. She presumably voted on the [[Elendel Supremacy Bill\|Elendel Supremacy Bill]], although it is unknown whether she voted for or against the bill. Mari likely voted in favor of [[Steris Ladrian\|Steris Ladrian's]] proposal for a [[/wiki/Elendel#Senate]] to deal with the issue of the Outer Cities. Afterwards, she was appointed to this council, and left with the other members to a private meeting. During this meeting, Mari considered it necessary to launch a preemptive strike against the Outer Cities, believing that if Elendel waited, they would lose their advantage. After receiving a message detailing the presence of an Outer Cities bomb that was pointed straight at Elendel, Mari decided to immediately flee the city, along with her family.
+At some point Mari's twin sibling , a gentlefolk adventurer, went missing searching for a rumored [[Atium\|atium]] cache. She hired a group of adventures who managed to find Verner trapped in a sinking ruin in .
 
 
 

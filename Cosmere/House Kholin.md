@@ -31,7 +31,7 @@
 
 3 Shards. [[#Shards]] 
 4 Iconography. [[#Iconography]] 
-5 Family Tree. [[#Family Tree]] 
+5 Known Members. [[#Known Members]] 
 6 Trivia. [[#Trivia]] 
 7 Notes. [[#Notes]] 
 
@@ -210,55 +210,21 @@ Elhokar's Variation of *Khokh*
 
 
 
-## Family Tree
-House Kholin Family Tree
-|||||||||[[Sadees\|Sadees]]||Unknown||||||||||||||||||
-|-|-|
-|||
-||||||||||||||||||||||||||||||||
-|
-|||||||||||Kholinar Progenitor|||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||
-|
-|||||||||||[[Dalinar's father\|Dalinar's father]]||||Unknown|||||||Unknown||Unknown||||||
-|||||||
-||||||||||||||||||||||||||||||||||
-|
-|||||||||||||||||||||||||||||||||||||||
-||||||||||||||||||||||
-|||||||[[Gavilar\|Gavilar]]||||[[Navani\|Navani]]|||||[[Dalinar\|Dalinar]]||||[[Evi Kholin\|Evi]]||[[Toh\|Toh]]||[[Kaves Kholin\|Kaves Kholin]]|
-|||||||||||||
-||||||||||||||||||||||||||||||||
-|
-||||||||||||||||||||||||||||||||||
-||||||||||||
-|[[Wit\|Wit]]|||[[Jasnah\|Jasnah]]||[[Elhokar\|Elhokar]]||[[Aesudan\|Aesudan]]|||[[Shallan\|Shallan]]||[[Adolin\|Adolin]]||[[Renarin\|Renarin]]|
-||||||
-|||||||||||||||||||||||||||||||
-|
-||||||||||||[[Gavinor\|Gavinor]]||||||||||||||||
-|
+## Known Members
 
-|||
-|-|-|
-|
-||
-||
-|||
-|
-||
-||
-||
-||
-| |Deceased|
-
+[[Dalinar Kholin\|Dalinar Kholin]]
+[[Gavilar Kholin\|Gavilar Kholin]]
+[[Navani Kholin\|Navani Kholin]]
+[[Evi Kholin\|Evi Kholin]]
+[[Dalinar's father\|Dalinar's father]]
+[[Jasnah Kholin\|Jasnah Kholin]]
+[[Elhokar Kholin\|Elhokar Kholin]]
+[[Aesudan Kholin\|Aesudan Kholin]]
+[[Gavinor Kholin\|Gavinor Kholin]]
+[[Adolin Kholin\|Adolin Kholin]]
+[[Shallan Davar\|Shallan Davar]]
+[[Renarin Kholin\|Renarin Kholin]]
+[[Kaves Kholin\|Kaves Kholin]]
 
 ## Trivia
 The name Kholin was partially based on the Hebrew word for priest, .

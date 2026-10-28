@@ -151,7 +151,7 @@ In Luthadel, Elend found Penrod's corpse, with a note saying that Elend's people
 Marsh and Elend fought, with Marsh using the atium he got from [[KanPaar\|KanPaar]]. Marsh was winning, because Elend didn't have any metals other than atium. However, suddenly, his metal reserves were filled again. He looked up, and saw a white figure: Vin, helping him fight. Then, Elend burned atium with duralumin. Suddenly, he saw Preservation's plan--he knew he had to die, to help to drive Vin to kill Ruin. He told Marsh that Ruin's body--the atium--was gone, and that Ruin had lost.
 
 ### Legacy
-After the [[Catacendre\|Catacendre]], Elend became known as the **Last Emperor**. The city of Elendel was named after him, and there are giant statues of him and Vin at the [[Field of Rebirth\|Field of Rebirth]], and his body, fixed by [[Harmony\|Harmony]], was buried there. The laws of Elendel, created by [[Spook\|Spook]], are based upon Elend's philosophical ideals.
+After the [[Catacendre\|Catacendre]], Elend became known as the **Last Emperor**. The city of [[Elendel\|Elendel]] was named after him, and there are giant statues of him and Vin at the [[Field of Rebirth\|Field of Rebirth]], and his body, fixed by [[Harmony\|Harmony]], was buried there. The laws of Elendel, created by [[Spook\|Spook]], are based upon Elend's philosophical ideals.
 
 ## Relationships
  

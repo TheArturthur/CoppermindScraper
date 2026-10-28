@@ -1,7 +1,9 @@
 |**Hammond**|
 |-|-|
 ||
+|**[[House Hammondess\|House Hammondess]]**|
 |**Spouse**|[[Mardra\|Mardra]]|
+|**Relatives**|[[Mari Hammondess\|Mari Hammondess]], |
 |**Abilities**|[[/wiki/Pewter#Allomantic Use]]|
 |**Groups**|[[Preservers\|Preservers]], Venture army, [[Originators\|Originators]]|
 |**Residence**|[[Luthadel\|Luthadel]]|

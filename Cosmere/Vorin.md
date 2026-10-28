@@ -316,7 +316,7 @@ It is said to be home to demons, monsters, and evil spren. All three are often c
 |Adhesion|Pressure and Vacuum|Gravitation|Tension|
 |Gravitation|Gravity|Adhesion|Division|
 |Division|Destruction and Decay|Gravitation|Abrasion|
-|Abrasion|Friction|Abrasion|Progression|
+|Abrasion|Friction|Division|Progression|
 |Progression|Growth and Healing, or Regrowth|Abrasion|Illumination|
 |Illumination|Light, Sound, and Various Waveforms|Progression|Transformation|
 |Transformation|Soulcasting|Illumination|Transportation|

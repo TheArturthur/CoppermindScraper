@@ -1,6 +1,8 @@
 |**Mardra**|
 |-|-|
+|**[[House Hammondess\|House Hammondess]]**|
 |**Spouse**|[[Hammond\|Hammond]]|
+|**Relatives**|[[Mari Hammondess\|Mari Hammondess]], |
 |**Profession**|Seamstress|
 |**Groups**|[[Originators\|Originators]]|
 |**Residence**|Unnamed [[Luthadel\|Luthadel]] satellite city|
